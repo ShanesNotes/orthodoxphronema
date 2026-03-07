@@ -169,8 +169,8 @@ def validate_file(path: Path, strict: bool = False) -> list[str]:
         prev_v = 0
         for (v, lineno) in verse_list:
             if v < prev_v:
-                warnings.append(f"V4   Verse goes backward in ch.{ch} at line {lineno}: "
-                                 f"verse {v} after verse {prev_v}")
+                errors.append(f"V4   Verse goes backward in ch.{ch} at line {lineno}: "
+                               f"verse {v} after verse {prev_v}")
                 v4_errors += 1
             elif v > prev_v + 1:
                 warnings.append(f"V4   Missing verses in ch.{ch}: jumps from {prev_v} to {v}")
@@ -194,6 +194,25 @@ def validate_file(path: Path, strict: bool = False) -> list[str]:
             )
     else:
         print(f"  V7  INFO  No chapter_verse_counts in registry; skipping completeness")
+
+    # ── V8 Heading integrity ──────────────────────────────────────────────────
+    v8_errors = 0
+    for lineno, line in enumerate(lines[body_start:], start=body_start + 1):
+        if not line.startswith('### '):
+            continue
+        heading = line[4:].rstrip()
+        if heading.endswith((':', ',')):
+            errors.append(
+                f"V8   Fragment heading at line {lineno}: {line.rstrip()!r}"
+            )
+            v8_errors += 1
+        elif heading[:1].isdigit():
+            errors.append(
+                f"V8   Digit-leading heading at line {lineno}: {line.rstrip()!r}"
+            )
+            v8_errors += 1
+    if v8_errors == 0:
+        print(f"  V8  PASS  No fragment headings detected")
 
     # ── Summary ──────────────────────────────────────────────────────────────
     verse_count = len(anchors)

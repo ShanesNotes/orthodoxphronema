@@ -4,9 +4,9 @@ book_name: "Genesis"
 testament: OT
 canon_position: 1
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
-parse_date: "2026-03-06"
+parse_date: "2026-03-07"
 promote_date: null
-checksum: "8a2462e3d038124dec9cc5e9aeb019d6e52e560f64becca3cfdf829b498643f2"
+checksum: "3e0b7dff6699be415b6bc7749823b099949bb59542990b62bd8850ef918a7ceb"
 status: staged
 deuterocanonical: false
 has_additions: false
@@ -127,9 +127,6 @@ GEN.4:19 Then Lamech took two wives for himself: the name of one was Adah, and t
 GEN.4:20 So Adah bore Jabal. He was the father of those who dwell in tents and have livestock.
 GEN.4:21 His brother'sname was Jubal. He is the one who invented the psaltery and harp.
 GEN.4:22 As for Zillah, she also bore Tubal-Cain, asmith and amanufacturer of bronze and iron. And the sister of Tubal-Cain was Naamah.
-
-### Zillah:
-
 GEN.4:23 Then Lamech said to his wives Adah and 'Hear my voice, you wiv es of Lamech, And listen carefully to my words, Because I killed aman for wounding me And a young man for hurting me.
 GEN.4:24 If Cain shall be av enged sev enfold, Then Lamech seventy-sevenfold.'
 GEN.4:25 Again Adam knew his wife Eve, and she conceived and bore ason, and he named him Seth, saying, 'God has appointed another seed for me instead of Abel, whom Cain killed.'
@@ -277,9 +274,6 @@ GEN.9:20 Then Noah began to be ahusbandman, and he planted avineyard.
 GEN.9:21 So he drank of the wine and was drunk and naked in his house.
 GEN.9:22 Now Ham, the father of Canaan, saw the nakedness of his father, and told his two brothers outside.
 GEN.9:23 But Shem and Japheth took agarment, laid it on both their shoulders, and walking backwards they covered their father'snakedness. Since their faces were turned away, they did not see his nakedness.
-
-### 26 He also said,
-
 GEN.9:24 Thus when Noah became sober and knew what his younger son had done to him, 25 he said: 'Cursed be Canaan; A serv ant of serv ants shall he be to his brothers.'
 GEN.9:25 'Blessed be the Lord God of Shem, And Canaan shall be his serv ant. †
 GEN.9:27 May God enlarge Japheth, And let him dwell in the habitations of Shem.
@@ -896,9 +890,6 @@ GEN.27:23 Thus he did not recognize him, because his hands were hairy like his b
 GEN.27:24 Then he said, 'Are you my son Esau?' He said, 'I am.'
 GEN.27:25 He said, 'Bring your game to me, my son, and I will eat from it, that my soul may bless you.' So he brought it near to him, and he ate; and he brought him wine, and he drank.
 GEN.27:26 Then his father Isaac said to him, 'Come near and kiss me, my son.'
-
-### Thus he blessed him and said:
-
 GEN.27:27 So he came near and kissed him; and he smelled the smell of his clothing.
 GEN.27:28 'Surely , the smell of my son Is like the smell of a field the Lord has blessed. Therefore, may God giv e you of the dew of heav en And of the fatness of the earth, And plenty of grain and wine.
 GEN.27:29 Let peoples serv e you, And nations bow down to you. Be lord ov er your brethren, And let your mother'ssons bow down to you.

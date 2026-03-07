@@ -3,7 +3,7 @@ book_code: GEN
 book_name: "Genesis"
 content_type: study_articles
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
-parse_date: "2026-03-06"
+parse_date: "2026-03-07"
 promote_date: null
 status: staged
 canon_anchors_referenced: []

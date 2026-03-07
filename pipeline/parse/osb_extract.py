@@ -128,6 +128,16 @@ def is_spaced_caps(text: str) -> bool:
     return bool(RE_SPACED_CAPS.match(t))
 
 
+def is_fragment_heading(text: str) -> bool:
+    """True if a SectionHeaderItem looks like a speech-attribution fragment, not a heading."""
+    t = text.rstrip()
+    if t.endswith((':', ',')):
+        return True
+    if text[:1].isdigit():   # e.g. "26 He also said,"
+        return True
+    return False
+
+
 def normalize_spaced_title(text: str) -> str:
     """'T H E  H O L Y  T R I N I T Y' → 'The Holy Trinity'"""
     raw_words = re.split(r'\s{2,}', text.strip())
@@ -332,17 +342,19 @@ class ExtractionState:
                     self._article_body.append(f"\n#### {text.title()}\n")
                 else:
                     # Treat as narrative heading in VERSE_MODE
-                    self.headings.append({
-                        "after_anchor": self._last_anchor(),
-                        "heading": text.title(),
-                    })
+                    if not is_fragment_heading(text):
+                        self.headings.append({
+                            "after_anchor": self._last_anchor(),
+                            "heading": text.title(),
+                        })
             else:
                 # Title-case narrative heading
                 if self.mode == VERSE_MODE:
-                    self.headings.append({
-                        "after_anchor": self._last_anchor(),
-                        "heading": text,
-                    })
+                    if not is_fragment_heading(text):
+                        self.headings.append({
+                            "after_anchor": self._last_anchor(),
+                            "heading": text,
+                        })
                 else:
                     # Sub-heading inside article
                     self._article_body.append(f"\n#### {text}\n")

@@ -3,17 +3,20 @@ promote.py — Promote a validated staged canon file to canon/
 
 Contract:
   - Reads staging/validated/OT|NT/BOOK.md
-  - Runs validate_file(); aborts on any ERRORS (V4 warnings are acceptable)
+  - Runs validate_file(); aborts on errors OR completeness gap (unless --allow-incomplete)
   - Computes sha256 of body text (everything after the closing ---)
   - Writes to canon/OT|NT/BOOK.md with updated frontmatter:
       promote_date: "YYYY-MM-DD"
       status: promoted
       checksum: "<sha256>"
   - --dry-run: prints the would-be output without writing
+  - --allow-incomplete: allow promotion despite V7 completeness gap (explicit acknowledgment required)
 
 Usage:
     python3 pipeline/promote/promote.py --book GEN
     python3 pipeline/promote/promote.py --book GEN --dry-run
+    python3 pipeline/promote/promote.py --book GEN --allow-incomplete
+    python3 pipeline/promote/promote.py --book GEN --dry-run --allow-incomplete
 """
 
 from __future__ import annotations
@@ -110,7 +113,8 @@ def update_frontmatter(fm_block: str, promote_date: str, checksum: str) -> str:
     return fm
 
 
-def promote_book(book_code: str, dry_run: bool = False) -> None:
+def promote_book(book_code: str, dry_run: bool = False,
+                 allow_incomplete: bool = False) -> None:
     registry  = load_registry()
     testament = book_testament(registry, book_code)
 
@@ -136,6 +140,15 @@ def promote_book(book_code: str, dry_run: bool = False) -> None:
         for e in errors:
             print(f"    {e}")
         sys.exit(1)
+
+    # ── V7 completeness gate ──────────────────────────────────────────────────
+    v7_warnings = [w for w in warnings if w.startswith("V7")]
+    if v7_warnings and not allow_incomplete:
+        print(f"\n  BLOCKED ({len(v7_warnings)} completeness issue(s)):")
+        for w in v7_warnings:
+            print(f"    {w}")
+        print("\n  Re-run with --allow-incomplete to acknowledge and proceed.")
+        sys.exit(2)
 
     # ── Compute checksum and build promoted content ───────────────────────────
     text        = staged_path.read_text(encoding="utf-8")
@@ -177,9 +190,14 @@ def main() -> None:
         "--dry-run", action="store_true",
         help="Print would-be output without writing files"
     )
+    parser.add_argument(
+        "--allow-incomplete", action="store_true",
+        help="Allow promotion despite V7 completeness gap (requires explicit acknowledgment)"
+    )
     args = parser.parse_args()
 
-    promote_book(args.book.upper(), dry_run=args.dry_run)
+    promote_book(args.book.upper(), dry_run=args.dry_run,
+                 allow_incomplete=args.allow_incomplete)
 
 
 if __name__ == "__main__":
