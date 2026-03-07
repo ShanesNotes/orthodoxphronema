@@ -28,7 +28,7 @@ The repeated affirmation 'and God saw that it was good' in Genesis 1 underscores
 
 
 
-### Theholytrinity
+### The Holy Trinity
 *(after GEN.1:28)*
 
 T he Holy Trinity is revealed both in the Old Testament and in the New Testament. In the Old Testament, the Trinity is revealed in subtle ways; in the New Testament, the Trinity is revealed fully and plainly, beginning at the Baptism of our Lord.
@@ -62,7 +62,7 @@ Luke 1:35-At the Annunciation, the Holy Spirit, the 'power' of God the Father ('
 Matthew 3:16-17-When the Son of God was baptized in the Jordan by John, the Father's voice was heard from heaven, and the Holy Spirit descended on Him like a dove. As the main hymn for the Feast of Theophany says, 'When You, O Lord, were baptized in the Jordan, the worship of the Trinity was made manifest.'
 
 
-### Ancestralsin
+### Ancestral Sin
 *(after GEN.3:7)*
 
 I n the Old Testament account of creation, God created mankind and established a place for him called Paradise. He also gave him a commandment regarding the tree of the knowledge of good and evil: 'And the Lord God commanded Adam, saying, 'You may eat food from every tree in the garden; but from the tree of the knowledge of good and evil you may not eat; for in whatever day you eat from it, you shall die by death' ' (Gn 2:16, 17). In that Adam and Eve did not physically die the day they ate from the tree, the words 'you shall die' indicate a spiritual death through separation from God.

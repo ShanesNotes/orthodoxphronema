@@ -130,19 +130,21 @@ def is_spaced_caps(text: str) -> bool:
 
 def normalize_spaced_title(text: str) -> str:
     """'T H E  H O L Y  T R I N I T Y' → 'The Holy Trinity'"""
-    words = normalize(text).split()
-    merged = "".join(words)
-    return merged.title()
+    raw_words = re.split(r'\s{2,}', text.strip())
+    merged_words = ["".join(w.split()) for w in raw_words]
+    return " ".join(merged_words).title()
 
 
 # ──────────────────────────────────────────────────────────────────────────────
 # Docling element stream
 # ──────────────────────────────────────────────────────────────────────────────
 
-def iter_elements(doc) -> Generator[tuple[str, str], None, None]:
+def iter_elements(doc) -> Generator[tuple[str, str, str], None, None]:
     """
-    Yield (elem_type, text) for each element in the Docling document.
-    elem_type is one of: 'SectionHeaderItem', 'TextItem', 'ListItem', other.
+    Yield (elem_type, raw_text, normalized_text) for each element in the Docling document.
+    raw_text is the unmodified Docling text (preserves double-space word boundaries needed
+    by normalize_spaced_title for spaced-caps headers).
+    normalized_text has tabs stripped and whitespace collapsed.
     Skips PictureItem and empty text.
     """
     for item in doc.iterate_items():
@@ -153,12 +155,12 @@ def iter_elements(doc) -> Generator[tuple[str, str], None, None]:
         text = getattr(elem, "text", None)
         if callable(text):
             text = None
-        if not text:
+        if not text or not text.strip():
             continue
-        text = normalize(text)
-        if not text:
+        normalized = normalize(text)
+        if not normalized:
             continue
-        yield etype, text
+        yield etype, text, normalized
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -300,7 +302,12 @@ class ExtractionState:
         self._article_body  = []
         self._article_subpoint_seq = 0
 
-    def process_element(self, etype: str, text: str) -> None:
+    def process_element(self, etype: str, raw: str, text: str) -> None:
+        """
+        Process one Docling element.
+        raw  = unmodified Docling text (preserves double-space word boundaries).
+        text = normalize(raw) — used for all pattern matching and verse logic.
+        """
         # ── Navigation noise → always discard ──────────────────────────────
         if is_nav_noise(text):
             return
@@ -308,14 +315,16 @@ class ExtractionState:
         # ── SectionHeaderItem ───────────────────────────────────────────────
         if etype in ("SectionHeaderItem",):
             if is_spaced_caps(text):
-                # Start of a study article
+                # Start of a study article.
+                # Use raw text for normalize_spaced_title so double-space word
+                # boundaries (e.g. "T H E  H O L Y  T R I N I T Y") are preserved.
                 self._flush_article()
                 self.mode = ARTICLE_MODE
-                self._article_title = normalize_spaced_title(text)
+                self._article_title = normalize_spaced_title(raw)
                 self._article_after = self._last_anchor()
                 return
 
-            # Title-case or ALL CAPS non-spaced header
+            # Title-case or ALL CAPS non-spaced header (text is already normalized).
             upper = text.upper()
             if text == upper:
                 # ALL CAPS non-spaced sub-header (e.g. "THE HOLY TRINITY CREATED THE WORLD")
@@ -649,9 +658,9 @@ def extract_book(book_code: str, start_page: int, end_page: int,
                             chapter_verse_counts=chapter_verse_counts)
 
     elem_count = 0
-    for etype, text in iter_elements(doc):
+    for etype, raw, text in iter_elements(doc):
         elem_count += 1
-        state.process_element(etype, text)
+        state.process_element(etype, raw, text)
 
     print(f"[parse] Elements processed : {elem_count}")
     print(f"[parse] Verses extracted   : {len(state.verses)}")
@@ -663,6 +672,18 @@ def extract_book(book_code: str, start_page: int, end_page: int,
 
 def write_outputs(state: ExtractionState, meta: dict, testament: str,
                   dry_run: bool = False) -> None:
+    # Deduplicate footnote markers: same (anchor, marker) pair may be recorded
+    # twice when the consecutive same-anchor merge fires but both fragments carry
+    # the same marker symbol.
+    seen_fm: set[tuple[str, str]] = set()
+    deduped: list[dict] = []
+    for fm in state.footnote_markers:
+        key = (fm["anchor"], fm["marker"])
+        if key not in seen_fm:
+            seen_fm.add(key)
+            deduped.append(fm)
+    state.footnote_markers = deduped
+
     book_code  = state.book_code
     parse_date = str(date.today())
     out_dir    = STAGING_ROOT / testament

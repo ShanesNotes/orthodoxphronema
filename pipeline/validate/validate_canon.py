@@ -88,11 +88,13 @@ def validate_file(path: Path, strict: bool = False) -> list[str]:
 
     # ── Load expected chapter count from registry ────────────────────────────
     expected_chapters: int | None = None
+    chapter_verse_counts_list: list | None = None
     try:
         registry = load_registry()
         for book in registry.get("books", []):
             if book["code"] == book_code:
                 expected_chapters = book.get("chapters")
+                chapter_verse_counts_list = book.get("chapter_verse_counts")
                 break
     except Exception:
         warnings.append(f"WARN  Could not load registry; skipping chapter-count check")
@@ -176,6 +178,22 @@ def validate_file(path: Path, strict: bool = False) -> list[str]:
             prev_v = max(prev_v, v)
     if v4_errors == 0:
         print(f"  V4  PASS  Verse order is monotonically increasing in all chapters")
+
+    # ── V7 Completeness ───────────────────────────────────────────────────────
+    if chapter_verse_counts_list:
+        expected_total = sum(chapter_verse_counts_list)
+        actual = len(anchor_set)
+        gap = expected_total - actual
+        if gap == 0:
+            print(f"  V7  PASS  Verse completeness: {actual}/{expected_total}")
+        else:
+            pct = actual / expected_total * 100
+            warnings.append(
+                f"V7   Completeness: {actual}/{expected_total} verses "
+                f"({pct:.1f}%); gap of {gap}"
+            )
+    else:
+        print(f"  V7  INFO  No chapter_verse_counts in registry; skipping completeness")
 
     # ── Summary ──────────────────────────────────────────────────────────────
     verse_count = len(anchors)
