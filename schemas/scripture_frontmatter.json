@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Scripture File Frontmatter",
+  "description": "Required YAML frontmatter for all canon/ Scripture files",
+  "type": "object",
+  "required": ["book_code", "book_name", "testament", "canon_position", "source", "parse_date", "status"],
+  "additionalProperties": false,
+  "properties": {
+    "book_code": {
+      "type": "string",
+      "description": "Ratified SBL-style book code from anchor_registry.json",
+      "pattern": "^[A-Z0-9]{2,4}$"
+    },
+    "book_name": {
+      "type": "string",
+      "description": "Full English name as it appears in the OSB"
+    },
+    "testament": {
+      "type": "string",
+      "enum": ["OT", "NT"]
+    },
+    "canon_position": {
+      "description": "Integer position in the 76-book canon, or 'appendix' for PMN/4MA",
+      "oneOf": [
+        {"type": "integer", "minimum": 1, "maximum": 76},
+        {"type": "string", "enum": ["appendix"]}
+      ]
+    },
+    "lxx_name": {
+      "type": "string",
+      "description": "LXX/Septuagint name if different from OSB English name (optional)"
+    },
+    "osb_name": {
+      "type": "string",
+      "description": "OSB-specific name if different from standard (e.g. '2 Ezra' for Ezra) (optional)"
+    },
+    "source": {
+      "type": "string",
+      "description": "Source document identifier",
+      "pattern": "^OSB-v[0-9]+$"
+    },
+    "parse_date": {
+      "type": "string",
+      "description": "ISO 8601 date when the file was parsed from source",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "promote_date": {
+      "type": "string",
+      "description": "ISO 8601 date when the file was promoted to canon (set by promote.py)",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "checksum": {
+      "type": "string",
+      "description": "SHA-256 of verse text body only (excludes frontmatter). Set by promote.py.",
+      "pattern": "^sha256:[a-f0-9]{64}$"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["staging", "validated", "promoted"],
+      "description": "Pipeline stage. Only 'promoted' files live in canon/"
+    },
+    "deuterocanonical": {
+      "type": "boolean",
+      "description": "True if the book or book additions are deuterocanonical"
+    },
+    "has_additions": {
+      "type": "boolean",
+      "description": "True if the book contains LXX additions not in the MT (e.g. Esther, Daniel)"
+    }
+  }
+}

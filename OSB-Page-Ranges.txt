@@ -1,0 +1,293 @@
+Human note — Genesis verse text starting page + full ground-truth ranges:
+
+You nailed the navigation/index layer issue. The OSB PDF has a "verse index" section before the actual text begins.
+
+Ground truth from manual PDF analysis:
+→ **Genesis actual verse text starts on page 102** (the full book spans pages 49–188, including table of contents, commentary and study articles mixed in - footnote link page ranges separate). (There is also a page ranges for Glossary 4003-4033, Index to Annotatations 4041-4103, Index to Study Articles 4105-4108, which may be useful)
+
+Here is the complete authoritative page-range mapping for the entire Orthodox Study Bible PDF (use this as ground truth for all book boundaries and footnote sections):
+
+[DOCUMENT START]
+Cover 1-6
+
+Table of Contents 7-8
+
+Acknowledgments 9-12
+
+Introduction 13-15
+
+Source Abbreviations 25
+
+Overview 26-32
+
+Introducing The Orthodox Church 33-44
+
+Old Testament Table of Contents 45-47
+
+Genesis 49-188                                                                
+
+Exodus 189-304
+
+Leviticus 305-385
+
+Numbers 386-497
+
+Deuteronomy 498-599
+
+Joshua 600-664
+
+Judges 665-730
+
+Ruth 731-742
+
+1 Kingdoms 743-826
+
+2 Kingdoms 827-901
+
+3 Kingdoms 902-978
+
+4 Kingdoms 979-1054
+
+1 Chronicles 1055-1131
+
+2 Chronicles 1132-1227
+
+1 Ezra 1228-1263
+
+2 Ezra 1264-1291
+
+Nehemiah 1292-1329
+
+Tobit 1330-1362
+
+Judith 1363-1404
+
+Esther 1405-1433
+
+1 Maccabees 1434-1503
+
+2 Maccabees 1504-1560
+
+3 Maccabees 1561-1585
+
+Psalms 1586-1914
+
+Job 1915-2029
+
+Proverbs of Solomon 2030-2122
+
+Ecclesiastes 2123-2155
+
+Song of Songs 2156-2179
+
+Wisdom of Solomon 2180-2239
+
+Wisdom of Sirach 2240-2397
+
+Hosea 2398-2435
+
+Amos 2436-2456
+
+Micah 2457-2473
+
+Joel 2474-2484
+
+Obadiah 2485-2489
+
+Jonah 2490-2499
+
+Nahum 2500-2507
+
+Habakkuk 2508-2517
+
+Zephaniah 2518-2526
+
+Haggai 2527-2533
+
+Zechariah 2534-2563
+
+Malachi 2564-2573
+
+Isaiah 2574-2710
+
+Jeremiah 2711-2846
+
+Baruch  2847-2861
+
+Lamentations of Jeremiah 2862-2883
+
+Epistle of Jeremiah 2884-2890
+
+Ezekiel 2891-3020
+
+Daniel 3021-3075
+
+New Testament Table of Contents 3076-3077
+
+Matthew 3078-3183
+
+Mark 3184-3249
+
+Luke 3250-3353
+
+John 3354-3432
+
+Acts 3433-3527
+
+Romans 3528-3578
+
+1 Corinthians 3579-3621
+
+2 Corinthians 3622-3652
+
+Galatians 3653-3669
+
+Ephesians 3670-3691
+
+Philippians 3692-3703
+
+Colossians 3704-3715
+
+1 Thessalonians 3716-3727
+
+2 Thessalonians 3278-3735
+
+1 Timothy 3736-3752
+
+2 Timothy 3753-3763
+
+Titus 3764-3773
+
+Philemon 3774-3778
+
+Hebrews 3779-3815
+
+James 3816-3830
+
+1 Peter 3831-3845
+
+2 Peter 3846-3856
+
+1 John 3857-3872
+
+2 John 3873-3876
+
+3 John 3877-3880
+
+Jude 3881-3885
+
+Revelation 3886-3943
+
+For Prayer Reading and Study Table of Contents 3944
+
+The Bible 3945-3947
+
+How to Read the Bible 3948-3959
+
+Lectionary 3960-4002
+
+Glossary 4003-4033
+
+Morning Prayers 4034-4037
+
+Evening Prayers 4038-4040
+
+Index to Annotatations 4041-4103
+
+Index to Study Articles 4105-4108
+
+The Seventy 4109-4112
+
+Iconagraphy 4113-4118
+
+##Footnotes
+Genesis 4120-4354
+Exodus 4355-4532
+Leviticus 4533-4640
+Numbers 4641-4731
+Deuteronomy 4732-4853
+Joshua 4854-4923
+Judges 4924-5022
+Ruth 5023-5049
+1 Kingdoms 5050-5131
+2 Kingdoms 5132-5239
+3 Kingdoms 5240-5326
+4 Kingdoms 5327-5405
+1 Chronicles 5406-5473
+2 Chronicles 5474-5550
+1 Ezra 5551-5577
+2 Ezra 5578-5616
+Nehemiah 5617-5669
+Tobit 5670-5729
+Judith 5730-5820
+Esther 5821-5872
+1 Maccabees 5873-5923
+2 Maccabees 5924-6022
+3 Maccabees 6023-6115
+Psalms 6116-6247
+Job 6248-6390
+Proverbs of Solomon 6391-6653 
+Ecclesiastes 6654-6697
+Song of Songs 6698-6773
+Wisdom of Solomon 6774-6880
+Wisdom of Sirach 6881-7177  and 10374
+Hosea 7178-7218
+Amos 7219-7246
+Micah 7247-7267
+Joel 7268-7302
+Obadiah 7303-7310
+Jonah 7311-7327
+Nahum 7328-7338
+Habakkuk 7339-7360
+Zephaniah 7361-7364
+Haggai 7365-7371
+Zechariah 7372-7434
+Malachi 7435-7458
+Isaiah 7459-7706
+Jeremiah 7707-7929
+Baruch 7930-7961
+Lamentations of Jeremiah 7962-7987
+Epistle of Jeremiah 7988-8000
+Ezekiel 8001-8116
+Daniel 8117-8194
+Matthew 8195-8478
+Mark 8479-8551
+Luke 8552-8822
+John 8823-9078
+Acts 9079-9335
+Romans 9336-9472
+1 Corinthians 9473-9599
+2 Corinthians 9600-9662
+Galatians 9663-9723
+Ephesians 9724-9783
+Philippians 9784-9807
+Colossians 9808-9834
+1 Thessalonians 10375-10402
+2 Thessalonians 10403-10409
+1 Timothy 9835-9867
+2 Timothy 9868-9891
+Titus 9892-9902
+Philemon 9903-9913
+Hebrews 9914-10014
+James 10015-10046
+1 Peter 10047-10087
+2 Peter 10088-10109
+1 John 10110-10140
+2 John 10141-10147
+3 John 10148-10154
+Jude 10155-10169
+Revelation 10170-10373
+
+"this passage is read at" (needs to be parsed further) 10410-10774
+
+Appended hyperlinked notes (needs to be parsed further) 10775-12301
+[DOCUMENT END]
+
+Action for you:
+1. Run a targeted probe on pages **102–112** (this should catch the actual start of Genesis 1:1 "In the beginning..." text).
+2. Analyze the output: confirm verse structure, how footnotes appear, embedded study articles, chapter intros, etc.
+3. Update memos/06_docling_probe_genesis.md with your findings and a recommendation for the full extraction script (Day 4).
+
+Once I see that memo, we’ll lock the separation logic and you can proceed.
+
+Continue now.

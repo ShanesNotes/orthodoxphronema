@@ -1,0 +1,11 @@
+# Staging is ephemeral — never commit raw parse output to canon
+staging/raw/
+staging/quarantine/
+
+# OS / editor artifacts
+.DS_Store
+*.swp
+*.swo
+__pycache__/
+*.pyc
+.env

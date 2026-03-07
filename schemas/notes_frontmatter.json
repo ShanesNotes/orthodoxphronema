@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Notes File Frontmatter",
+  "description": "Required YAML frontmatter for all notes/ and articles/ files",
+  "type": "object",
+  "required": ["book_code", "content_type", "source", "parse_date", "status"],
+  "additionalProperties": false,
+  "properties": {
+    "book_code": {
+      "type": "string",
+      "description": "Book code from anchor_registry.json this notes file corresponds to",
+      "pattern": "^[A-Z0-9]{2,4}$"
+    },
+    "content_type": {
+      "type": "string",
+      "enum": ["footnotes", "study_notes", "book_introduction", "article", "appendix"],
+      "description": "Type of non-Scripture content"
+    },
+    "source": {
+      "type": "string",
+      "pattern": "^OSB-v[0-9]+$"
+    },
+    "parse_date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "promote_date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["staging", "validated", "promoted"]
+    },
+    "canon_anchors_referenced": {
+      "type": "array",
+      "items": {"type": "string", "pattern": "^[A-Z0-9]{2,4}\\.[0-9]+:[0-9]+[a-z]?$"},
+      "description": "List of canon anchors this notes file references — validated by check_anchors.py (V6)"
+    }
+  }
+}
