@@ -246,12 +246,18 @@ ARTICLE_MODE = "ARTICLE_MODE"
 
 
 class ExtractionState:
-    def __init__(self, book_code: str, first_chapter: int = 1):
+    def __init__(self, book_code: str, first_chapter: int = 1,
+                 chapter_verse_counts: dict | None = None):
         self.book_code      = book_code
         self.mode           = VERSE_MODE
-        self.current_chapter = first_chapter
+        # Start at chapter 0 so "1 In the beginning..." triggers chapter_num==0+1==1
+        self.current_chapter = 0
         self.current_verse  = 0   # last verse number emitted
+        self.verse_started  = False  # True after first real verse is emitted
         self.last_verse_text_incomplete = False  # for column-split merging
+        # Map of chapter_number → expected verse count (from registry, LXX counts).
+        # Used to guard against false chapter advances (Bug 1).
+        self.chapter_verse_counts: dict[int, int] = chapter_verse_counts or {}
 
         # Output buffers
         self.verses: list[dict] = []               # {anchor, chapter, verse, text}
@@ -263,6 +269,11 @@ class ExtractionState:
         self._article_title: str = ""
         self._article_after: str = ""              # anchor after which article appears
         self._article_body: list[str] = []
+        # Sequential sub-point tracker: OSB study articles use numbered paragraphs
+        # starting at 1 (e.g. "1 This Fall...", "2 We who...", "3 Mankind's...").
+        # We track the last sub-point number seen so we can distinguish them from
+        # verse resumption or chapter-advance text that happens to share a digit.
+        self._article_subpoint_seq: int = 0
 
     def _anchor(self, chapter: int, verse: int) -> str:
         return f"{self.book_code}.{chapter}:{verse}"
@@ -272,6 +283,10 @@ class ExtractionState:
             v = self.verses[-1]
             return self._anchor(v["chapter"], v["verse"])
         return f"{self.book_code}.{self.current_chapter}:0"
+
+    def _chapter_max_verse(self, ch: int) -> int:
+        """Return expected verse count for chapter ch (0 if unknown)."""
+        return self.chapter_verse_counts.get(ch, 0)
 
     def _flush_article(self) -> None:
         if self._article_title:
@@ -283,6 +298,7 @@ class ExtractionState:
         self._article_title = ""
         self._article_after = ""
         self._article_body  = []
+        self._article_subpoint_seq = 0
 
     def process_element(self, etype: str, text: str) -> None:
         # ── Navigation noise → always discard ──────────────────────────────
@@ -327,38 +343,132 @@ class ExtractionState:
         if etype not in ("TextItem", "ListItem"):
             return
 
-        # In ARTICLE_MODE: check if this is verse text (verse resumes)
+        # In ARTICLE_MODE: distinguish article sub-points from verse resumption.
+        #
+        # OSB study articles contain numbered paragraphs that begin with a digit
+        # and uppercase letter — the same pattern as verse/chapter leads.  We use
+        # sequential sub-point tracking to tell them apart:
+        #
+        #   Rule 1 — Sequential continuation: if the leading digit is exactly
+        #   _article_subpoint_seq + 1, this TextItem continues the numbered list
+        #   inside the article.  Keep it there.
+        #
+        #   Rule 2 — Verse resumption: if the digit is NOT the expected next
+        #   sub-point AND it is > current_verse, the article is over and verse
+        #   text is resuming.
+        #
+        #   Rule 3 — Chapter advance (cross-chapter article): if the digit is
+        #   NOT sequential AND equals current_chapter + 1 (the next chapter
+        #   number), treat as chapter-lead resumption.  This handles articles
+        #   that span a chapter boundary where the next chapter's verse 1 has a
+        #   digit smaller than current_verse.
+        #
+        # The sub-point counter (_article_subpoint_seq) is NOT reset on non-digit
+        # body text, because articles can have prose paragraphs interspersed
+        # between numbered points.  It IS reset when a new article begins
+        # (_flush_article) or when a numbered item breaks the sequence.
         if self.mode == ARTICLE_MODE:
-            if RE_CHAPTER_LEAD.match(text) or (text[:1].isdigit() and len(text) > 2 and text[1] == ' '):
-                # Verse text resuming — fall through to VERSE_MODE processing
-                self._flush_article()
-                self.mode = VERSE_MODE
+            m_art = RE_CHAPTER_LEAD.match(text)
+            if m_art:
+                num = int(m_art.group(1))
+
+                # Rule 1 — Sequential sub-point continuation (highest priority).
+                # Fires only when we are already inside a numbered list (seq ≥ 1),
+                # the digit is the very next in sequence, AND it is ≤ current_verse.
+                # The ≤ current_verse guard prevents Rule 1 from absorbing verse
+                # resumptions that happen to follow the current sub-point count.
+                if (self._article_subpoint_seq >= 1
+                        and num == self._article_subpoint_seq + 1
+                        and num <= self.current_verse):
+                    self._article_subpoint_seq = num
+                    self._article_body.append(text)
+                    return
+
+                # Rule 2 — Verse or chapter resumption → EXIT.
+                is_verse_resume = (num > self.current_verse)
+                is_chapter_lead = (num == self.current_chapter + 1)
+                if is_verse_resume or is_chapter_lead:
+                    self._flush_article()
+                    self.mode = VERSE_MODE
+                    # fall through to verse processing
+
+                # Rule 3 — First numbered sub-point of this article.
+                # Only fires when no numbered list has started yet (seq == 0),
+                # the digit is 1 (articles always number from 1), and we have
+                # emitted at least one verse (current_verse ≥ 1) — ruling out
+                # the case where "1 text" is actually the first verse of the book.
+                elif self._article_subpoint_seq == 0 and num == 1 and self.current_verse >= 1:
+                    self._article_subpoint_seq = 1
+                    self._article_body.append(text)
+                    return
+
+                else:
+                    # Non-sequential number — article content (nav ref, heading, etc.)
+                    self._article_subpoint_seq = 0
+                    self._article_body.append(text)
+                    return
             else:
                 self._article_body.append(text)
                 return
 
         # ── VERSE_MODE text processing ──────────────────────────────────────
 
+        # Pre-verse preamble guard: discard any non-verse TextItems that appear
+        # before the first verse is emitted (page spillover from prior sections).
+        if not self.verse_started and not text[:1].isdigit():
+            return
+
         # Column-split fragment detection:
         # If text doesn't start with a digit AND previous verse was incomplete
         if self.last_verse_text_incomplete and not text[:1].isdigit():
-            # Merge with last verse
             if self.verses:
-                self.verses[-1]["text"] += " " + text
-                # Check if now complete (ends with sentence-final punctuation)
-                last = self.verses[-1]["text"]
-                self.last_verse_text_incomplete = not re.search(r'[.!?\'"\u201d\u2019]\s*$', last)
+                merged = self.verses[-1]["text"] + " " + text
+                # Check whether the merged text reveals additional verse boundaries.
+                # Example: Element N ends mid-sentence ("and"), Element N+1 starts with
+                # prose but contains "† 9 So..." through "15 I will put enmity..." —
+                # all those verses would be lost without re-splitting.
+                if RE_VERSE_SPLIT.search(merged):
+                    popped = self.verses.pop()
+                    # Also remove any footnote markers already recorded for that anchor
+                    self.footnote_markers = [
+                        fm for fm in self.footnote_markers
+                        if fm["anchor"] != popped["anchor"]
+                    ]
+                    verse_parts = split_verses_in_text(
+                        merged, popped["chapter"], self.book_code,
+                        start_verse=popped["verse"]
+                    )
+                    self._emit_parts(verse_parts)
+                else:
+                    self.verses[-1]["text"] = merged
+                    self.last_verse_text_incomplete = not re.search(
+                        r'[.!?\'"\u201d\u2019]\s*$', merged
+                    )
             return
 
         # Chapter-leading block?
         m = RE_CHAPTER_LEAD.match(text)
         if m:
             chapter_num = int(m.group(1))
-            # Sanity: only advance chapter if it's plausibly the next one
-            if chapter_num == self.current_chapter + 1 or chapter_num == 1:
+            # Sanity: only advance chapter if it's the expected next one AND
+            # we are close enough to the end of the current chapter (verse-count guard).
+            # Without this guard, e.g. GEN.11:12 falsely triggers a ch.12 advance
+            # because chapter_num == current_chapter + 1 == 12.
+            # max_v == 0 means registry has no data — allow advance unconditionally.
+            max_v = self._chapter_max_verse(self.current_chapter)
+            # Allow chapter advance only when we are >= 80% through the current
+            # chapter's expected verses.  A bare chapter_num == current_chapter + 1
+            # check is fooled when an inline verse number equals the next chapter
+            # number (e.g. verse 28 in ch27 triggers false ch28 advance; verse 12
+            # in ch11 triggers false ch12 advance).  80% comfortably excludes all
+            # known false-advance positions while tolerating up to ~20% missed verses.
+            if chapter_num == self.current_chapter + 1 and (
+                    max_v == 0
+                    or self.current_verse >= max_v * 4 // 5):
                 self.current_chapter = chapter_num
             else:
-                # Could be a verse number for the current chapter; treat as verse
+                # Not a real chapter advance — treat leading digit as verse number
+                # for the current chapter.
                 self._emit_verse_block(text, self.current_chapter, self.current_verse + 1)
                 return
 
@@ -385,14 +495,22 @@ class ExtractionState:
     def _emit_parts(self, parts: list[tuple]) -> None:
         for (vtext, ch, vnum, markers) in parts:
             anchor = self._anchor(ch, vnum)
-            self.verses.append({
-                "anchor": anchor,
-                "chapter": ch,
-                "verse": vnum,
-                "text": vtext,
-            })
+            # Deduplicate consecutive same-anchor: column-split fragments in the
+            # PDF sometimes restate the verse number at the start of the second
+            # column (e.g. "28 Therefore..." follows an already-emitted GEN.27:28).
+            # Merging them avoids a V1 duplicate while preserving all text.
+            if self.verses and self.verses[-1]["anchor"] == anchor:
+                self.verses[-1]["text"] += " " + vtext
+            else:
+                self.verses.append({
+                    "anchor": anchor,
+                    "chapter": ch,
+                    "verse": vnum,
+                    "text": vtext,
+                })
             self.current_chapter = ch
             self.current_verse   = vnum
+            self.verse_started   = True
             for marker in markers:
                 self.footnote_markers.append({"anchor": anchor, "marker": marker})
 
@@ -504,7 +622,8 @@ canon_anchors_referenced: []
 # ──────────────────────────────────────────────────────────────────────────────
 
 def extract_book(book_code: str, start_page: int, end_page: int,
-                 dry_run: bool = False) -> ExtractionState:
+                 dry_run: bool = False,
+                 chapter_verse_counts: dict | None = None) -> ExtractionState:
     from docling.document_converter import DocumentConverter, PdfFormatOption
     from docling.datamodel.base_models import InputFormat
     from docling.datamodel.pipeline_options import PdfPipelineOptions
@@ -526,7 +645,8 @@ def extract_book(book_code: str, start_page: int, end_page: int,
     doc    = result.document
     print(f"[parse] Conversion complete — processing elements ...")
 
-    state = ExtractionState(book_code, first_chapter=1)
+    state = ExtractionState(book_code, first_chapter=1,
+                            chapter_verse_counts=chapter_verse_counts)
 
     elem_count = 0
     for etype, text in iter_elements(doc):
@@ -616,7 +736,12 @@ def main() -> None:
 
     testament = meta["testament"]
 
-    state = extract_book(args.book, start_page, end_page, dry_run=args.dry_run)
+    # Build chapter_verse_counts dict (1-indexed) from registry list (0-indexed).
+    cvc_list = meta.get("chapter_verse_counts", [])
+    chapter_verse_counts = {i + 1: v for i, v in enumerate(cvc_list)} if cvc_list else None
+
+    state = extract_book(args.book, start_page, end_page, dry_run=args.dry_run,
+                         chapter_verse_counts=chapter_verse_counts)
     write_outputs(state, meta, testament, dry_run=args.dry_run)
 
     print("\n[parse] Done.")

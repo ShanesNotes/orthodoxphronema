@@ -170,6 +170,9 @@ def validate_file(path: Path, strict: bool = False) -> list[str]:
                 warnings.append(f"V4   Verse goes backward in ch.{ch} at line {lineno}: "
                                  f"verse {v} after verse {prev_v}")
                 v4_errors += 1
+            elif v > prev_v + 1:
+                warnings.append(f"V4   Missing verses in ch.{ch}: jumps from {prev_v} to {v}")
+                v4_errors += 1
             prev_v = max(prev_v, v)
     if v4_errors == 0:
         print(f"  V4  PASS  Verse order is monotonically increasing in all chapters")
@@ -179,8 +182,7 @@ def validate_file(path: Path, strict: bool = False) -> list[str]:
     print(f"\n  Total verses : {verse_count}")
     print(f"  Total anchors: {len(anchor_set)} unique")
 
-    all_issues = errors + warnings
-    return all_issues
+    return errors, warnings
 
 
 def main() -> None:
@@ -193,14 +195,12 @@ def main() -> None:
     path = Path(args.path)
     print(f"\nValidating: {path}\n{'─' * 60}")
 
-    issues = validate_file(path, strict=args.strict)
+    errors, warnings = validate_file(path, strict=args.strict)
 
-    if not issues:
+    if not errors and not warnings:
         print("\n  ALL CHECKS PASSED\n")
         sys.exit(0)
     else:
-        errors   = [i for i in issues if i.startswith(("FAIL", "V1", "V2", "V3", "V4", "V5", "V6"))]
-        warnings = [i for i in issues if i.startswith("WARN")]
         if warnings:
             print(f"\n  WARNINGS ({len(warnings)}):")
             for w in warnings:

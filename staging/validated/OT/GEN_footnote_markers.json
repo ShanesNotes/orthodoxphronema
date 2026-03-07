@@ -12,23 +12,27 @@
     "marker": "†"
   },
   {
-    "anchor": "GEN.5:24",
+    "anchor": "GEN.3:15",
     "marker": "†"
   },
   {
-    "anchor": "GEN.5:7",
+    "anchor": "GEN.3:24",
     "marker": "†"
   },
   {
-    "anchor": "GEN.5:16",
+    "anchor": "GEN.4:7",
     "marker": "†"
   },
   {
-    "anchor": "GEN.5:26",
+    "anchor": "GEN.4:16",
     "marker": "†"
   },
   {
-    "anchor": "GEN.6:32",
+    "anchor": "GEN.4:26",
+    "marker": "†"
+  },
+  {
+    "anchor": "GEN.5:32",
     "marker": "ω"
   },
   {
@@ -56,7 +60,7 @@
     "marker": "ω"
   },
   {
-    "anchor": "GEN.14:1",
+    "anchor": "GEN.13:14",
     "marker": "†"
   },
   {
@@ -76,7 +80,7 @@
     "marker": "†"
   },
   {
-    "anchor": "GEN.19:18",
+    "anchor": "GEN.19:22",
     "marker": "†"
   },
   {
@@ -184,7 +188,7 @@
     "marker": "†"
   },
   {
-    "anchor": "GEN.42:52",
+    "anchor": "GEN.41:52",
     "marker": "†"
   },
   {
@@ -218,10 +222,6 @@
   {
     "anchor": "GEN.48:3",
     "marker": "†"
-  },
-  {
-    "anchor": "GEN.49:1",
-    "marker": "†ω"
   },
   {
     "anchor": "GEN.49:33",
