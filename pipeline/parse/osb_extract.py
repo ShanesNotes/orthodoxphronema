@@ -43,7 +43,8 @@ STAGING_ROOT = REPO_ROOT / "staging" / "validated"
 # ──────────────────────────────────────────────────────────────────────────────
 
 # Spaced-caps study article header: "T H E  H O L Y  T R I N I T Y"
-RE_SPACED_CAPS = re.compile(r'^([A-Z] ){2,}[A-Z]$')
+# Allow optional comma after a letter (e.g. "T H E P R I E S T H O O D, H E B R E W...")
+RE_SPACED_CAPS = re.compile(r'^([A-Z][,]? ){2,}[A-Z]$')
 
 # Navigation artefacts to discard
 RE_NAV_STRING = re.compile(
@@ -96,8 +97,15 @@ def page_ranges(registry: dict, book_code: str) -> tuple[tuple[int, int], tuple[
 # ──────────────────────────────────────────────────────────────────────────────
 
 def normalize(text: str) -> str:
-    """Tab-strip + collapse runs of whitespace."""
-    return re.sub(r'\s+', ' ', text.replace('\t', ' ')).strip()
+    """Tab-strip + collapse runs of whitespace + deterministic artifact fixes."""
+    t = re.sub(r'\s+', ' ', text.replace('\t', ' ')).strip()
+    # R2: fused possessives — "'s" directly touching next lowercase word
+    # e.g. "God'simage" -> "God's image" (zero false-positive risk)
+    t = re.sub(r"('s)([a-z])", r"\1 \2", t)
+    # R5: trailing space before punctuation / possessive 's
+    t = re.sub(r" ([.,;:!?])", r"\1", t)
+    t = re.sub(r" ('s)\b", r"\1", t)
+    return t
 
 
 def fix_split_words(text: str) -> str:
@@ -334,6 +342,34 @@ class ExtractionState:
                 self._article_after = self._last_anchor()
                 return
 
+            # Some chapter openings are formatted as SectionHeaderItems rather than
+            # TextItems in the PDF (e.g. EXO.15: "15 Now Moses and the children of
+            # Israel sang this song...").  is_fragment_heading would suppress them
+            # because they start with a digit.  Intercept them first: if the leading
+            # number equals current_chapter+1 and the advance threshold is met, treat
+            # the element as a chapter-advance block exactly like a TextItem lead.
+            if self.verse_started and text[:1].isdigit():
+                m_ch = RE_CHAPTER_LEAD.match(text)
+                if m_ch:
+                    chapter_num = int(m_ch.group(1))
+                    if chapter_num == self.current_chapter + 1:
+                        # No threshold for SectionHeaderItem chapter leads:
+                        # these are reliable structural markers in the PDF
+                        # (unlike inline verse numbers in TextItems which need
+                        # the 80% guard to prevent false advances).
+                        self._flush_article()
+                        self.mode = VERSE_MODE
+                        self.current_chapter = chapter_num
+                        self.current_verse = 0
+                        body = text[m_ch.end():].strip()
+                        if body:
+                            verse_parts = split_verses_in_text(
+                                body, self.current_chapter, self.book_code,
+                                start_verse=1
+                            )
+                            self._emit_parts(verse_parts)
+                        return
+
             # Title-case or ALL CAPS non-spaced header (text is already normalized).
             upper = text.upper()
             if text == upper:
@@ -487,6 +523,7 @@ class ExtractionState:
                     max_v == 0
                     or self.current_verse >= max_v * 4 // 5):
                 self.current_chapter = chapter_num
+                self.current_verse = 0  # reset so next element starts at verse 1
             else:
                 # Not a real chapter advance — treat leading digit as verse number
                 # for the current chapter.

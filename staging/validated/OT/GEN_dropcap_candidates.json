@@ -1,0 +1,359 @@
+{
+  "book_code": "GEN",
+  "total_candidates": 50,
+  "confirmed_auto": 50,
+  "ambiguous_human": 0,
+  "ratified": false,
+  "candidates": [
+    {
+      "anchor": "GEN.1:1",
+      "residual": "nthe beginning God made heaven and earth.",
+      "proposed_repair": "In the beginning God made heaven and earth.",
+      "missing_letter": "I",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.2:1",
+      "residual": "hus heaven and earth and all their adornment were ",
+      "proposed_repair": "Thus heaven and earth and all their adornment were finished.",
+      "missing_letter": "T",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.3:1",
+      "residual": "ow the serpent was more cunning than all the wild ",
+      "proposed_repair": "Now the serpent was more cunning than all the wild animals the Lord God made on ",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.4:1",
+      "residual": "ow Adam knew Eve his wife, and she conceived and b",
+      "proposed_repair": "Now Adam knew Eve his wife, and she conceived and bore Cain, and said, 'I have a",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.5:1",
+      "residual": "his is the book of the genesis of mankind in the d",
+      "proposed_repair": "This is the book of the genesis of mankind in the day God made Adam, whom He mad",
+      "missing_letter": "T",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.6:1",
+      "residual": "ow it came to pass that men began to exist in grea",
+      "proposed_repair": "Now it came to pass that men began to exist in great numbers on the earth, and d",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.7:1",
+      "residual": "hen the Lord God said to Noah, 'Enter the ark, you",
+      "proposed_repair": "Then the Lord God said to Noah, 'Enter the ark, you and all your family, because",
+      "missing_letter": "T",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.8:1",
+      "residual": "hen God remembered Noah, and whatever was with him",
+      "proposed_repair": "Then God remembered Noah, and whatever was with him in the ark: all the wild ani",
+      "missing_letter": "T",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.9:1",
+      "residual": "hus God blessed Noah and his sons, and said to the",
+      "proposed_repair": "Thus God blessed Noah and his sons, and said to them, 'Increase and multiply, an",
+      "missing_letter": "T",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.10:1",
+      "residual": "ow this is the genealogy of Noah's sons: Shem, Ham",
+      "proposed_repair": "Now this is the genealogy of Noah's sons: Shem, Ham, and Japheth, and sons were ",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.11:1",
+      "residual": "ow the whole earth was one language and one speech",
+      "proposed_repair": "Now the whole earth was one language and one speech.",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.12:1",
+      "residual": "ow the Lord said to Abram, 'Get out of your countr",
+      "proposed_repair": "Now the Lord said to Abram, 'Get out of your country, from your kindred and from",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.13:1",
+      "residual": "ow Abram went up from Egypt to the South, he and h",
+      "proposed_repair": "Now Abram went up from Egypt to the South, he and his wife and all he had, and L",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.14:1",
+      "residual": "ow it came to pass in the reign of Amraphel king o",
+      "proposed_repair": "Now it came to pass in the reign of Amraphel king of Shinar, Arioch king of Ella",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.15:1",
+      "residual": "fter these things the Word of the Lord came to Abr",
+      "proposed_repair": "After these things the Word of the Lord came to Abram in a vision, saying, 'Do n",
+      "missing_letter": "A",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.16:1",
+      "residual": "ow Sarai, Abram's wife, bore him no children, but ",
+      "proposed_repair": "Now Sarai, Abram's wife, bore him no children, but she had an Egyptian maidserva",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.17:1",
+      "residual": "hen Abram was ninety-nine years old, the Lord appe",
+      "proposed_repair": "Then Abram was ninety-nine years old, the Lord appeared to Abram and said to him",
+      "missing_letter": "T",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.18:1",
+      "residual": "hen God appeared to him at the oak of Mamre, as he",
+      "proposed_repair": "Then God appeared to him at the oak of Mamre, as he was sitting in the tent door",
+      "missing_letter": "T",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.19:1",
+      "residual": "ow the two angels came to Sodom in the evening, an",
+      "proposed_repair": "Now the two angels came to Sodom in the evening, and Lot was sitting in the gate",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.20:1",
+      "residual": "ow Abraham journeyed from there to the South, and ",
+      "proposed_repair": "Now Abraham journeyed from there to the South, and dwelt between Kadesh and Shur",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.21:1",
+      "residual": "ow the Lord visited Sarah as He said, and the Lord",
+      "proposed_repair": "Now the Lord visited Sarah as He said, and the Lord did for Sarah as He had spok",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.22:1",
+      "residual": "ow it came to pass after these things that God tes",
+      "proposed_repair": "Now it came to pass after these things that God tested Abraham, and said to him,",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.23:1",
+      "residual": "ow Sarah lived one hundred and twenty-seven years.",
+      "proposed_repair": "Now Sarah lived one hundred and twenty-seven years.",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.24:1",
+      "residual": "ow Abraham was old, well advanced in age; and the ",
+      "proposed_repair": "Now Abraham was old, well advanced in age; and the Lord had blessed Abraham in a",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.25:1",
+      "residual": "ow Abraham again took a wife, and her name was Ket",
+      "proposed_repair": "Now Abraham again took a wife, and her name was Keturah.",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.26:1",
+      "residual": "ow there was a famine in the land, besides the fir",
+      "proposed_repair": "Now there was a famine in the land, besides the first famine in the days of Abra",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.27:1",
+      "residual": "ow it came to pass, when Isaac was old and his eye",
+      "proposed_repair": "Now it came to pass, when Isaac was old and his eyes were so dim he could not se",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.28:1",
+      "residual": "ow Isaac called Jacob and blessed him, and charged",
+      "proposed_repair": "Now Isaac called Jacob and blessed him, and charged him, saying, 'You shall not ",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.29:1",
+      "residual": "ow Jacob went on his journey and came to the land ",
+      "proposed_repair": "Now Jacob went on his journey and came to the land of the east, to Laban.",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.30:1",
+      "residual": "ow when Rachel saw that she bore Jacob no children",
+      "proposed_repair": "Now when Rachel saw that she bore Jacob no children, Rachel envied her sister, a",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.31:1",
+      "residual": "ow Jacob heard the words of Laban's sons, saying, ",
+      "proposed_repair": "Now Jacob heard the words of Laban's sons, saying, 'Jacob has taken away all tha",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.32:1",
+      "residual": "oearly in the morning, Laban arose, and kissed his",
+      "proposed_repair": "So early in the morning, Laban arose, and kissed his sons and daughters and bles",
+      "missing_letter": "S",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.33:1",
+      "residual": "ow Jacob lifted his eyes and looked, and behold, E",
+      "proposed_repair": "Now Jacob lifted his eyes and looked, and behold, Esau his brother was coming, a",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.34:1",
+      "residual": "ow Dinah the daughter of Leah, whom she bore to Ja",
+      "proposed_repair": "Now Dinah the daughter of Leah, whom she bore to Jacob, went out to see the daug",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.35:1",
+      "residual": "ow God said to Jacob, 'Arise, go up to Bethel and ",
+      "proposed_repair": "Now God said to Jacob, 'Arise, go up to Bethel and dwell there; and make an alta",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.36:1",
+      "residual": "ow this is the genealogy of Esau, who is Edom.",
+      "proposed_repair": "Now this is the genealogy of Esau, who is Edom.",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.37:1",
+      "residual": "ow Jacob dwelt in the land where his father had so",
+      "proposed_repair": "Now Jacob dwelt in the land where his father had sojourned, in the land of Canaa",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.38:1",
+      "residual": "tcame to pass at that time that Judah departed fro",
+      "proposed_repair": "It came to pass at that time that Judah departed from his brothers, and visited ",
+      "missing_letter": "I",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.39:1",
+      "residual": "ow Joseph had been taken down to Egypt, and Potiph",
+      "proposed_repair": "Now Joseph had been taken down to Egypt, and Potiphar, Pharaoh's eunuch and capt",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.40:1",
+      "residual": "ow it came to pass after these things, that the ki",
+      "proposed_repair": "Now it came to pass after these things, that the king of Egypt's chief cupbearer",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.41:1",
+      "residual": "hen it came to pass, at the end of two full years,",
+      "proposed_repair": "Then it came to pass, at the end of two full years, that Pharaoh had a dream; an",
+      "missing_letter": "T",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.42:1",
+      "residual": "hen Jacob found out there was grain for sale in Eg",
+      "proposed_repair": "Then Jacob found out there was grain for sale in Egypt, he said to his sons, 'Wh",
+      "missing_letter": "T",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.43:1",
+      "residual": "ow the famine was severe in the land.",
+      "proposed_repair": "Now the famine was severe in the land.",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.44:1",
+      "residual": "ow Joseph commanded the steward of his house, sayi",
+      "proposed_repair": "Now Joseph commanded the steward of his house, saying, 'Fill the men's sacks wit",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.45:1",
+      "residual": "ow Joseph could not restrain himself before all th",
+      "proposed_repair": "Now Joseph could not restrain himself before all those who stood by him, and he ",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.46:1",
+      "residual": "ow Israel took his journey with all he had, and ca",
+      "proposed_repair": "Now Israel took his journey with all he had, and came to the Well of Oath, and o",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.47:1",
+      "residual": "ow Joseph went and told Pharaoh, and said, 'My fat",
+      "proposed_repair": "Now Joseph went and told Pharaoh, and said, 'My father and my brothers, their fl",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.48:1",
+      "residual": "ow it came to pass after these things that Joseph ",
+      "proposed_repair": "Now it came to pass after these things that Joseph was told, 'Indeed your father",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.49:1",
+      "residual": "ow Jacob called his sons and said, 'Gather togethe",
+      "proposed_repair": "Now Jacob called his sons and said, 'Gather together, that I may tell you what s",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    },
+    {
+      "anchor": "GEN.50:1",
+      "residual": "ow Joseph fell on his father's face and wept over ",
+      "proposed_repair": "Now Joseph fell on his father's face and wept over him, and kissed him.",
+      "missing_letter": "N",
+      "classification": "confirmed_auto"
+    }
+  ]
+}

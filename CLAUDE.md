@@ -14,3 +14,9 @@ Every action must follow the attached ARK_BRIEFING_PACKET.md exactly.
 Start every new session by confirming you have read both CLAUDE.md and ARK_BRIEFING_PACKET.md.
 
 Now begin the mission.
+
+# ARK DIRECTIVES — v2 (optimized March 2026)
+- Never repeat previous instructions.
+- Use one-verse-per-line in canon/.
+- Always check for study-article leakage before promotion.
+- Prefer /compact when context > 60%.
