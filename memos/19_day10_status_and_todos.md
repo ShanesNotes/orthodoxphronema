@@ -37,7 +37,7 @@
 | V1 anchor uniqueness | PASS | 1529 unique anchors |
 | V2 chapter count | PASS | 50 chapters |
 | V3 chapter sequence | PASS | — |
-| V4 verse sequence | WARN | 1 gap group: ch.49 jumps from 1 to 3 |
+| V4 verse sequence | WARN | 1 detected gap: ch.49 jumps from 1 to 3 |
 | V5 article bleed | PASS | — |
 | V6 frontmatter | PASS | — |
 | V7 completeness | WARN | 1529/1532 verses (99.8%); gap of 3 |
@@ -46,8 +46,8 @@
 
 - Readability cleanup COMPLETE: 636 text fixes + 21 drop-cap repairs (all PDF-verified)
 - Residue audit: 31 findings, all legitimate modern English (forever, firstborn, etc.)
-- Residuals sidecar: 1 entry (`GEN.49:2`, `docling_issue`, non-blocking)
-- Missing anchors: `GEN.49:1`, `GEN.49:2`, `GEN.49:33` — all in poetic-block ch.49
+- Residuals sidecar: 3 entries (all `docling_issue`, non-blocking)
+- Missing anchors: `GEN.14:24` (last verse of ch.14), `GEN.25:34` (last verse of ch.25), `GEN.49:2` (poetic block)
 - Promote dry-run: exit 0, dossier written to `reports/GEN_promotion_dossier.json`
 - **Status: READY for Ezra audit, then Human ratification, then first promotion**
 
@@ -94,7 +94,7 @@ Key files changed or created on Day 10:
 ### Immediate — Unblock First Promotion
 
 1. **Ezra:** Audit `staging/validated/OT/GEN.md` — text quality, structural integrity, residuals classification. The file is ready for review.
-2. **Human:** Ratify `staging/validated/OT/GEN_residuals.json` — set `ratified_date` on the 1 non-blocking gap (`GEN.49:2`, `docling_issue`).
+2. **Human:** Ratify `staging/validated/OT/GEN_residuals.json` — set `ratified_date` on the 3 non-blocking gaps (`GEN.14:24`, `GEN.25:34`, `GEN.49:2`, all `docling_issue`).
 3. **Human:** Review GEN for visual satisfaction (suggest opening in a text editor with spellcheck — the 31 residue findings are all real English words like "forever", "firstborn", "themselves").
 4. **Ark:** Run `promote.py --book GEN` once Ezra audit + Human ratification are both complete.
 
@@ -128,7 +128,7 @@ Key files changed or created on Day 10:
 ## Open Questions for Ezra
 
 - **GEN audit readiness:** Are you prepared to audit `staging/validated/OT/GEN.md`? The file has been cleaned and the dossier is at `reports/GEN_promotion_dossier.json`.
-- **Residual classification:** Any concerns about `GEN.49:2` being classified as non-blocking (`docling_issue`)? The verse text is present in the PDF but Docling merges the poetic block without emitting a boundary.
+- **Residual classification:** Any concerns about the 3 missing verses (`GEN.14:24`, `GEN.25:34`, `GEN.49:2`) being classified as non-blocking (`docling_issue`)? These are last-verse-of-chapter or poetic-block cases where Docling does not emit a boundary.
 - **Dossier format:** Do you want to review the promotion dossier JSON schema before the first real promotion, or is the current format acceptable?
 - **EXO strategy input:** For the 10 `structural_fused` EXO residuals — do you see a risk in manual verse separation (potential for text drift from OSB source), or is it acceptable given the small scope?
 

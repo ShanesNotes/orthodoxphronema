@@ -1,9 +1,9 @@
 {
   "book_code": "GEN",
   "testament": "OT",
-  "timestamp": "2026-03-08T14:05:47.945799",
+  "timestamp": "2026-03-08T16:01:20.915272",
   "registry_version": "1.1.0",
-  "body_checksum": "be626fd64be97be52f2a9ee7192f82352016b9a4e7d54e1eaaaca2af288cc8c4",
+  "body_checksum": "7c8c82f5a3f19f8dbe9d781016b5c9f5f2e1e053b8737f4b18564dcbc9c785ad",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -52,6 +52,18 @@
     "ratified_by": "human",
     "ratified_date": null,
     "residuals": [
+      {
+        "anchor": "GEN.14:24",
+        "classification": "docling_issue",
+        "description": "Last verse of chapter. Docling does not emit a boundary for the final verse.",
+        "blocking": false
+      },
+      {
+        "anchor": "GEN.25:34",
+        "classification": "docling_issue",
+        "description": "Last verse of chapter. Docling does not emit a boundary for the final verse.",
+        "blocking": false
+      },
       {
         "anchor": "GEN.49:2",
         "classification": "docling_issue",

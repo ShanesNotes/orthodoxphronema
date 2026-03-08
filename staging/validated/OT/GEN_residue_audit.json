@@ -1,8 +1,8 @@
 {
   "book_code": "GEN",
-  "total_findings": 31,
+  "total_findings": 32,
   "fused_article": 10,
-  "fused_compound": 21,
+  "fused_compound": 22,
   "findings": [
     {
       "anchor": "GEN.3:22",
@@ -85,6 +85,14 @@
       "action": "human_review"
     },
     {
+      "anchor": "GEN.21:16",
+      "osb_token": "bowshot",
+      "brenton_context": "bow shot",
+      "classification": "fused_compound",
+      "verse_similarity": 0.7074,
+      "action": "human_review"
+    },
+    {
       "anchor": "GEN.21:26",
       "osb_token": "today",
       "brenton_context": "to day",
@@ -105,7 +113,7 @@
       "osb_token": "earrings",
       "brenton_context": "ear rings",
       "classification": "fused_compound",
-      "verse_similarity": 0.7368,
+      "verse_similarity": 0.7403,
       "action": "human_review"
     },
     {
@@ -153,7 +161,7 @@
       "osb_token": "tonight",
       "brenton_context": "to night",
       "classification": "fused_article",
-      "verse_similarity": 0.7392,
+      "verse_similarity": 0.7424,
       "action": "human_review"
     },
     {

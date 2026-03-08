@@ -5,6 +5,18 @@
   "ratified_date": null,
   "residuals": [
     {
+      "anchor": "GEN.14:24",
+      "classification": "docling_issue",
+      "description": "Last verse of chapter. Docling does not emit a boundary for the final verse.",
+      "blocking": false
+    },
+    {
+      "anchor": "GEN.25:34",
+      "classification": "docling_issue",
+      "description": "Last verse of chapter. Docling does not emit a boundary for the final verse.",
+      "blocking": false
+    },
+    {
       "anchor": "GEN.49:2",
       "classification": "docling_issue",
       "description": "Poetic-block TextItem boundary. Text present in PDF but not emitted as separate verse.",
