@@ -1,13 +1,31 @@
 """
 dropcap_verify.py — Detect and classify drop-cap omissions in staged canon files.
 
-Docling does NOT expose per-element page numbers, so PDF re-probe cannot
-recover the missing glyph. This script uses heuristic pattern matching on
-verse-1 text residuals to propose single-letter repairs.
+Two-stage model:
+  Stage 1 (primary)   — OSB residual classifier: deterministic prefix map determines
+                        the proposed repair. OSB residual shape is authoritative.
+  Stage 2 (secondary) — Brenton prefix check: confirms or downgrades the proposal by
+                        comparing only the repaired opening tokens against Brenton's
+                        verse opening, with leading conjunctions stripped.
+
+Key design rules:
+  - Brenton does NOT generate the missing letter. Only the residual map does.
+  - Brenton may DOWNGRADE a confirmed_auto to ambiguous_human.
+  - Brenton never changes the proposed repair to a different letter.
+  - Full-verse similarity scoring is NOT used (too noisy due to translation style gaps).
+  - Only prefix comparison (first N tokens) is used for Brenton confirmation.
+
+Classification tiers:
+  confirmed_auto   — residual map matched AND Brenton prefix confirms (score >= 0.70)
+                     OR residual map matched AND Brenton unavailable
+  ambiguous_human  — residual map matched but Brenton disagrees (score < 0.40),
+                     OR residual map unmatched, OR score in 0.40–0.70 range
+  rejected         — (not used in this model; unmatched residuals → ambiguous_human)
 
 Usage:
-    python3 dropcap_verify.py staging/validated/OT/GEN.md          # generate candidates JSON
-    python3 dropcap_verify.py staging/validated/OT/GEN.md --apply  # apply after human ratification
+    python3 dropcap_verify.py staging/validated/OT/GEN.md
+    python3 dropcap_verify.py staging/validated/OT/GEN.md --brenton-dir staging/reference/brenton
+    python3 dropcap_verify.py staging/validated/OT/GEN.md --apply
 """
 
 from __future__ import annotations
@@ -18,76 +36,215 @@ import re
 import sys
 from pathlib import Path
 
-RE_VERSE_LINE = re.compile(r'^([A-Z0-9]+\.\d+:\d+) (.+)')
+_HERE = Path(__file__).parent
+_REPO_ROOT = _HERE.parent.parent
+_DEFAULT_BRENTON_DIR = _REPO_ROOT / "staging" / "reference" / "brenton"
 
-# Heuristic repair table: residual prefix -> (repair_prefix, classification)
-# "confirmed_auto" = unambiguous single-letter prepend
-# "ambiguous_human" = multiple possibilities, needs human decision
-REPAIR_TABLE: list[tuple[str, str, str]] = [
-    # residual_start, repaired_start, classification
-    ("nthe ", "In the ", "confirmed_auto"),
-    ("oearly ", "So early ", "confirmed_auto"),
-    ("tcame ", "It came ", "confirmed_auto"),
+RE_VERSE_LINE = re.compile(r'^([A-Z0-9]+\.(\d+):(\d+)) (.+)')
+RE_CHAPTER_VERSE_1 = re.compile(r'^[A-Z0-9]+\.\d+:1$')
 
-    # T-prefix residuals
-    ("hen ", "Then ", "confirmed_auto"),
-    ("hus ", "Thus ", "confirmed_auto"),
-    ("his ", "This ", "confirmed_auto"),
-
-    # N-prefix residuals
-    ("ow ", "Now ", "confirmed_auto"),
-
-    # A-prefix residuals
-    ("fter ", "After ", "confirmed_auto"),
-    ("nd ", "And ", "confirmed_auto"),
-
-    # S-prefix residuals
-    ("o ", "So ", "ambiguous_human"),  # could be "No" — needs context
+# ---------------------------------------------------------------------------
+# Stage 1: Deterministic residual map
+# Each entry: (residual_prefix, repaired_prefix, missing_chars_count)
+# The map covers all known drop-cap families observed in OSB PDF extraction.
+# Ordering matters: longer prefixes first to prevent "ow" matching "oearly".
+# ---------------------------------------------------------------------------
+RESIDUAL_MAP: list[tuple[str, str, int]] = [
+    # 2-char drop-cap initials (must come before 1-char entries that share prefix)
+    ("nthe ",   "In the ",   2),   # "In the" — ch.1
+    ("oearly ", "So early ", 2),   # "So early"
+    ("tcame ",  "It came ",  2),   # "It came"
+    # 1-char drop-cap initials
+    ("ow ",     "Now ",      1),   # most common — 37 cases in Genesis
+    ("hen ",    "Then ",     1),
+    ("hus ",    "Thus ",     1),
+    ("his ",    "This ",     1),
+    ("fter ",   "After ",    1),
+    ("nd ",     "And ",      1),
+    ("o ",      "So ",       1),   # ambiguous: "No" or "So" — Brenton will arbitrate
+    ("he ",     "The ",      1),
+    ("ow,",     "Now,",      1),   # variant without trailing space
+    ("ut ",     "But ",      1),
+    ("n ",      "In ",       1),
+    ("gain ",   "Again ",    1),   # "Again" → "Agian" never; residual "gain" → "Again"
 ]
 
+# Brenton leading conjunctions to strip before prefix comparison
+_BRENTON_SKIP_TOKENS = {
+    "and", "but", "so", "now", "then", "thus", "for", "yet",
+    "when", "after", "in", "behold", "moreover", "therefore",
+}
 
-def classify_dropcap(anchor: str, text: str) -> dict | None:
-    """Classify a verse line's drop-cap residual. Returns candidate dict or None."""
-    # Only chapter X verse 1 should have drop-caps
-    if not re.match(r'^[A-Z0-9]+\.\d+:1$', anchor):
-        return None
+# Prefix comparison token count
+_PREFIX_TOKENS = 5
 
-    # Must start lowercase
+# Residuals that are inherently ambiguous between two possible drop-cap letters
+# and cannot be reliably resolved by Brenton prefix comparison alone.
+# These are always classified ambiguous_human regardless of Brenton score.
+# "hen " → could be T+hen ("Then") or W+hen ("When"); Brenton often starts
+# these verses with "And" so the stripped prefix comparison cannot distinguish.
+_ALWAYS_AMBIGUOUS_RESIDUALS: set[str] = {"hen "}
+
+# Brenton prefix score thresholds
+_CONFIRM_THRESHOLD = 0.70   # >= this → Brenton confirms → confirmed_auto
+_REJECT_THRESHOLD  = 0.40   # < this → Brenton disagrees → downgrade to ambiguous_human
+
+
+def _load_normalize():
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        "normalize_reference_text",
+        _REPO_ROOT / "pipeline" / "reference" / "normalize_reference_text.py",
+    )
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def _compare_prefix(repaired_text: str, brenton_verse: str, norm) -> float:
+    """
+    Compare the opening tokens of repaired OSB text against Brenton's verse opening.
+    Strips leading conjunctions from Brenton before comparison.
+    """
+    osb_tokens = norm.tokenize(norm.normalize_for_compare(repaired_text))[:_PREFIX_TOKENS]
+
+    bren_tokens = norm.tokenize(norm.normalize_for_compare(brenton_verse))
+    # Strip leading conjunctions from Brenton (e.g. "And God said" → "God said")
+    while bren_tokens and bren_tokens[0] in _BRENTON_SKIP_TOKENS:
+        bren_tokens = bren_tokens[1:]
+    bren_tokens = bren_tokens[:_PREFIX_TOKENS]
+
+    if not osb_tokens or not bren_tokens:
+        return 0.0
+    return norm.token_similarity(" ".join(osb_tokens), " ".join(bren_tokens))
+
+
+def classify_dropcap(
+    anchor: str,
+    text: str,
+    chapter: int,
+    verse: int,
+    brenton_index: dict | None,
+    norm,
+) -> dict | None:
+    """
+    Classify a verse-1 drop-cap candidate.
+    Returns candidate dict or None if the verse does not start lowercase.
+    """
     if not text or not text[0].islower():
         return None
 
-    for residual, repair, classification in REPAIR_TABLE:
-        if text.startswith(residual):
-            repaired = repair + text[len(residual):]
-            return {
-                "anchor": anchor,
-                "residual": text[:50],
-                "proposed_repair": repaired[:80],
-                "missing_letter": repair[0],
-                "classification": classification,
-            }
+    # Stage 1: residual map lookup
+    matched_repair: str | None = None
+    matched_prefix: str | None = None
+    residual_inherently_ambiguous = False
 
-    # No match — ambiguous
+    for residual_prefix, repair_prefix, _ in RESIDUAL_MAP:
+        if text.startswith(residual_prefix):
+            matched_repair = repair_prefix + text[len(residual_prefix):]
+            matched_prefix = repair_prefix
+            if residual_prefix in _ALWAYS_AMBIGUOUS_RESIDUALS:
+                residual_inherently_ambiguous = True
+            break
+
+    # Stage 2: Brenton prefix confirmation
+    brenton_verse: str | None = None
+    prefix_score: float | None = None
+    brenton_source = "unavailable"
+
+    if brenton_index is not None and norm is not None:
+        bv = norm.get_brenton_verse(brenton_index, chapter, verse)
+        if bv:
+            brenton_verse = bv
+            brenton_source = "brenton"
+
+    if matched_repair is None:
+        # No residual match — unknown pattern
+        return {
+            "anchor": anchor,
+            "residual": text[:60],
+            "proposed_repair": None,
+            "missing_prefix": None,
+            "classification": "ambiguous_human",
+            "prefix_score": None,
+            "brenton_verse": brenton_verse[:80] if brenton_verse else None,
+            "source": "residual_unmatched",
+        }
+
+    # We have a proposed repair from the residual map.
+    # Now use Brenton (if available) to confirm or downgrade.
+    if brenton_verse and norm:
+        prefix_score = _compare_prefix(matched_repair, brenton_verse, norm)
+        if residual_inherently_ambiguous:
+            # "hen " residual cannot distinguish T+hen ("Then") from W+hen ("When").
+            # Brenton prefix comparison also cannot disambiguate since both "Then X"
+            # and "When X" score identically against Brenton's "And X" opening.
+            # Force ambiguous regardless of score; human must verify via PDF.
+            classification = "ambiguous_human"
+        elif prefix_score >= _CONFIRM_THRESHOLD:
+            classification = "confirmed_auto"
+        elif prefix_score < _REJECT_THRESHOLD:
+            classification = "ambiguous_human"  # Brenton disagrees — needs human
+        else:
+            # Middle range (0.40–0.70): treat as ambiguous regardless of residual match
+            classification = "ambiguous_human"
+    else:
+        # Brenton unavailable — trust residual map alone.
+        # "o " is inherently ambiguous ("So" or "No") — keep as ambiguous_human.
+        # "hen " is inherently ambiguous ("Then" or "When") — always ambiguous_human.
+        if text.startswith("o ") or residual_inherently_ambiguous:
+            classification = "ambiguous_human"
+        else:
+            classification = "confirmed_auto"
+        brenton_source = "heuristic_fallback"
+
     return {
         "anchor": anchor,
-        "residual": text[:50],
-        "proposed_repair": None,
-        "missing_letter": None,
-        "classification": "ambiguous_human",
+        "residual": text[:60],
+        "proposed_repair": matched_repair[:80],
+        "missing_prefix": matched_prefix,
+        "classification": classification,
+        "prefix_score": round(prefix_score, 4) if prefix_score is not None else None,
+        "brenton_verse": brenton_verse[:80] if brenton_verse else None,
+        "source": brenton_source,
     }
 
 
-def scan_file(path: Path) -> list[dict]:
-    """Scan a canon file for drop-cap candidates."""
+def scan_file(path: Path, brenton_dir: Path) -> list[dict]:
+    """Scan a canon file for drop-cap candidates at chapter verse-1 positions."""
+    book_code = path.stem
+    norm = None
+    brenton_index = None
+
+    try:
+        norm = _load_normalize()
+        brenton_index = norm.load_brenton_index(book_code, brenton_dir)
+        if brenton_index is None:
+            print(
+                f"WARNING: No Brenton index for {book_code} at {brenton_dir}. "
+                "Using residual map only (no Brenton confirmation).",
+                file=sys.stderr,
+            )
+    except Exception as e:
+        print(f"WARNING: Could not load normalization module: {e}", file=sys.stderr)
+
     candidates = []
     for line in path.read_text(encoding="utf-8").splitlines():
         m = RE_VERSE_LINE.match(line)
         if not m:
             continue
-        anchor, text = m.group(1), m.group(2)
-        result = classify_dropcap(anchor, text)
+        anchor, chapter_s, verse_s, text = m.group(1), m.group(2), m.group(3), m.group(4)
+
+        if not RE_CHAPTER_VERSE_1.match(anchor):
+            continue
+
+        result = classify_dropcap(
+            anchor, text, int(chapter_s), int(verse_s),
+            brenton_index, norm,
+        )
         if result:
             candidates.append(result)
+
     return candidates
 
 
@@ -97,17 +254,14 @@ def apply_repairs(path: Path, candidates_path: Path) -> int:
         data = json.load(f)
 
     if not data.get("ratified"):
-        print("ERROR: candidates JSON does not have \"ratified\": true", file=sys.stderr)
+        print('ERROR: candidates JSON does not have "ratified": true', file=sys.stderr)
         print("Human must review and set ratified before --apply is safe.", file=sys.stderr)
         sys.exit(1)
 
-    # Build repair map: anchor -> repaired text prefix
     repairs: dict[str, str] = {}
     for c in data.get("candidates", []):
-        if c["classification"] == "confirmed_auto" and c.get("proposed_repair"):
-            repairs[c["anchor"]] = c["missing_letter"]
-        elif c["classification"] == "human_verified" and c.get("missing_letter"):
-            repairs[c["anchor"]] = c["missing_letter"]
+        if c["classification"] in ("confirmed_auto", "human_verified") and c.get("proposed_repair"):
+            repairs[c["anchor"]] = c["proposed_repair"]
 
     if not repairs:
         print("No applicable repairs found in candidates JSON.")
@@ -120,18 +274,10 @@ def apply_repairs(path: Path, candidates_path: Path) -> int:
         m = RE_VERSE_LINE.match(line.rstrip("\n"))
         if m and m.group(1) in repairs:
             anchor = m.group(1)
-            text = m.group(2)
-            letter = repairs[anchor]
-            # Prepend the missing letter
-            if text[0].islower():
-                # Handle special cases where letter + residual needs spacing
-                if letter.upper() + text[0:] != letter.upper() + text:
-                    new_text = letter.upper() + text
-                else:
-                    new_text = letter.upper() + text
-                new_lines.append(f"{anchor} {new_text}\n")
-                count += 1
-                continue
+            new_text = repairs[anchor]
+            new_lines.append(f"{anchor} {new_text}\n")
+            count += 1
+            continue
         new_lines.append(line)
 
     path.write_text("".join(new_lines), encoding="utf-8")
@@ -141,11 +287,17 @@ def apply_repairs(path: Path, candidates_path: Path) -> int:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Detect and classify drop-cap omissions in staged canon files."
+        description="Detect and classify drop-cap omissions: OSB-residual-first, Brenton-confirmed."
     )
     parser.add_argument("path", type=Path, help="Staged canon .md file")
-    parser.add_argument("--apply", action="store_true",
-                        help="Apply repairs from ratified candidates JSON")
+    parser.add_argument(
+        "--brenton-dir", type=Path, default=_DEFAULT_BRENTON_DIR,
+        help=f"Brenton JSON index directory (default: {_DEFAULT_BRENTON_DIR})",
+    )
+    parser.add_argument(
+        "--apply", action="store_true",
+        help="Apply repairs from ratified candidates JSON",
+    )
     args = parser.parse_args()
 
     if not args.path.exists():
@@ -162,26 +314,29 @@ def main():
         apply_repairs(args.path, candidates_path)
         return
 
-    # Scan mode
-    candidates = scan_file(args.path)
+    candidates = scan_file(args.path, args.brenton_dir)
+
+    confirmed = sum(1 for c in candidates if c["classification"] == "confirmed_auto")
+    ambiguous = sum(1 for c in candidates if c["classification"] == "ambiguous_human")
 
     output = {
         "book_code": book_code,
         "total_candidates": len(candidates),
-        "confirmed_auto": sum(1 for c in candidates if c["classification"] == "confirmed_auto"),
-        "ambiguous_human": sum(1 for c in candidates if c["classification"] == "ambiguous_human"),
+        "confirmed_auto": confirmed,
+        "ambiguous_human": ambiguous,
+        "rejected": 0,
         "ratified": False,
         "candidates": candidates,
     }
 
     candidates_path.write_text(
         json.dumps(output, indent=2, ensure_ascii=False) + "\n",
-        encoding="utf-8"
+        encoding="utf-8",
     )
     print(f"Wrote: {candidates_path}")
-    print(f"  Total candidates: {output['total_candidates']}")
-    print(f"  confirmed_auto:   {output['confirmed_auto']}")
-    print(f"  ambiguous_human:  {output['ambiguous_human']}")
+    print(f"  Total candidates : {output['total_candidates']}")
+    print(f"  confirmed_auto   : {confirmed}")
+    print(f"  ambiguous_human  : {ambiguous}")
     print(f"\nHuman must review, then set \"ratified\": true before --apply.")
 
 

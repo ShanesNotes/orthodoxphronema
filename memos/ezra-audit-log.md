@@ -103,3 +103,23 @@
   - Preserve auditability through git commits, diff reports, and sidecar/memo outputs rather than parallel `*_clean.md` files.
 - Reason:
   - Parallel clean files are useful for one-off experimentation but become noisy for versioning and promotion semantics.
+
+## 2026-03-07 (Brenton auxiliary witness review)
+- Action: Reviewed newly added Brenton Septuagint text corpus and current cleanup scripts.
+- Confirmed:
+  - Brenton files exist chapter-by-chapter under `src.texts/Brenton-Septuagint.txt/`.
+  - Sample chapter files for Genesis 1 and Exodus 1 are structurally usable: two-line header plus one verse-like line per verse.
+  - `fix_omissions.py` now supports per-book allowlists and in-place cleanup.
+  - `dropcap_verify.py` is still heuristic-only and should be superseded by a Brenton-backed verification path.
+- Planning conclusion:
+  - Brenton can serve as an auxiliary witness for micro-corrections and confidence scoring, but not as a replacement text source.
+
+## 2026-03-07 (drop-cap model critique)
+- Action: Reviewed Brenton-backed `dropcap_verify.py` and current `GEN_dropcap_candidates.json`.
+- Findings:
+  - The current model brute-forces `A`–`Z` against full-verse Brenton similarity, which overfits to Brenton's frequent leading `And`.
+  - This produces implausible proposals like `Aow`, `Ahen`, and `Ahus`.
+  - Genesis drop-cap residuals are dominated by a very small prefix family: `ow` (37), `hen` (6), `hus` (2), `nthe` (1), `his` (1), `fter` (1), `oearly` (1), `tcame` (1).
+- Recommendation:
+  - Use OSB residual-shape heuristics as the primary classifier for drop-caps.
+  - Use Brenton only as a secondary confirmation signal on prefix compatibility, not as the letter generator.

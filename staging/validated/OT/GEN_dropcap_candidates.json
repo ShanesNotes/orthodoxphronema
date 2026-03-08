@@ -1,359 +1,511 @@
 {
   "book_code": "GEN",
   "total_candidates": 50,
-  "confirmed_auto": 50,
+  "confirmed_auto": 29,
   "ambiguous_human": 0,
-  "ratified": false,
+  "human_verified": 21,
+  "rejected": 0,
+  "ratified": true,
   "candidates": [
     {
       "anchor": "GEN.1:1",
       "residual": "nthe beginning God made heaven and earth.",
       "proposed_repair": "In the beginning God made heaven and earth.",
-      "missing_letter": "I",
-      "classification": "confirmed_auto"
+      "missing_prefix": "In the ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8627,
+      "brenton_verse": "In the beginning God made the heaven and the earth.",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.2:1",
-      "residual": "hus heaven and earth and all their adornment were ",
+      "residual": "hus heaven and earth and all their adornment were finished.",
       "proposed_repair": "Thus heaven and earth and all their adornment were finished.",
-      "missing_letter": "T",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Thus ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.76,
+      "brenton_verse": "And the heavens and the earth were finished, and the whole world of them.",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.3:1",
-      "residual": "ow the serpent was more cunning than all the wild ",
+      "residual": "ow the serpent was more cunning than all the wild animals th",
       "proposed_repair": "Now the serpent was more cunning than all the wild animals the Lord God made on ",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.75,
+      "brenton_verse": "Now the serpent was the most crafty of all the brutes on the earth, which the Lo",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.4:1",
-      "residual": "ow Adam knew Eve his wife, and she conceived and b",
+      "residual": "ow Adam knew Eve his wife, and she conceived and bore Cain, ",
       "proposed_repair": "Now Adam knew Eve his wife, and she conceived and bore Cain, and said, 'I have a",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7907,
+      "brenton_verse": "And Adam knew Eve his wife, and she conceived and brought forth Cain and said, I",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.5:1",
-      "residual": "his is the book of the genesis of mankind in the d",
+      "residual": "his is the book of the genesis of mankind in the day God mad",
       "proposed_repair": "This is the book of the genesis of mankind in the day God made Adam, whom He mad",
-      "missing_letter": "T",
-      "classification": "confirmed_auto"
+      "missing_prefix": "This ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7442,
+      "brenton_verse": "This is the genealogy of men in the day in which God made Adam; in the image of ",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.6:1",
-      "residual": "ow it came to pass that men began to exist in grea",
+      "residual": "ow it came to pass that men began to exist in great numbers ",
       "proposed_repair": "Now it came to pass that men began to exist in great numbers on the earth, and d",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7692,
+      "brenton_verse": "And it came to pass when men began to be numerous upon the earth, and daughters ",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.7:1",
-      "residual": "hen the Lord God said to Noah, 'Enter the ark, you",
+      "residual": "hen the Lord God said to Noah, 'Enter the ark, you and all y",
       "proposed_repair": "Then the Lord God said to Noah, 'Enter the ark, you and all your family, because",
-      "missing_letter": "T",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Then ",
+      "classification": "human_verified",
+      "prefix_score": 0.8095,
+      "brenton_verse": "And the Lord God said to Noe, Enter thou and all thy family into the ark, for th",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.8:1",
-      "residual": "hen God remembered Noah, and whatever was with him",
+      "residual": "hen God remembered Noah, and whatever was with him in the ar",
       "proposed_repair": "Then God remembered Noah, and whatever was with him in the ark: all the wild ani",
-      "missing_letter": "T",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Then ",
+      "classification": "human_verified",
+      "prefix_score": 0.7778,
+      "brenton_verse": "And God remembered Noe, and all the wild beasts, and all the cattle, and all the",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.9:1",
-      "residual": "hus God blessed Noah and his sons, and said to the",
+      "residual": "hus God blessed Noah and his sons, and said to them, 'Increa",
       "proposed_repair": "Thus God blessed Noah and his sons, and said to them, 'Increase and multiply, an",
-      "missing_letter": "T",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Thus ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.75,
+      "brenton_verse": "And God blessed Noe and his sons, and said to them, Increase and multiply, and f",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.10:1",
-      "residual": "ow this is the genealogy of Noah's sons: Shem, Ham",
+      "residual": "ow this is the genealogy of Noah's sons: Shem, Ham, and Japh",
       "proposed_repair": "Now this is the genealogy of Noah's sons: Shem, Ham, and Japheth, and sons were ",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.566,
+      "brenton_verse": "Now these are the generations of the sons of Noe, Sem, Cham, Japheth; and sons w",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.11:1",
-      "residual": "ow the whole earth was one language and one speech",
+      "residual": "ow the whole earth was one language and one speech.",
       "proposed_repair": "Now the whole earth was one language and one speech.",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.6364,
+      "brenton_verse": "And all the earth was one lip, and there was one language to all.",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.12:1",
-      "residual": "ow the Lord said to Abram, 'Get out of your countr",
+      "residual": "ow the Lord said to Abram, 'Get out of your country, from yo",
       "proposed_repair": "Now the Lord said to Abram, 'Get out of your country, from your kindred and from",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7619,
+      "brenton_verse": "And the Lord said to Abram, Go forth out of thy land and out of thy kindred, and",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.13:1",
-      "residual": "ow Abram went up from Egypt to the South, he and h",
+      "residual": "ow Abram went up from Egypt to the South, he and his wife an",
       "proposed_repair": "Now Abram went up from Egypt to the South, he and his wife and all he had, and L",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7143,
+      "brenton_verse": "And Abram went up out of Egypt, he and his wife, and all that he had, and Lot wi",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.14:1",
-      "residual": "ow it came to pass in the reign of Amraphel king o",
+      "residual": "ow it came to pass in the reign of Amraphel king of Shinar, ",
       "proposed_repair": "Now it came to pass in the reign of Amraphel king of Shinar, Arioch king of Ella",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8108,
+      "brenton_verse": "And it came to pass in the reign of Amarphal king of Sennaar, and Arioch king of",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.15:1",
-      "residual": "fter these things the Word of the Lord came to Abr",
+      "residual": "fter these things the Word of the Lord came to Abram in a vi",
       "proposed_repair": "After these things the Word of the Lord came to Abram in a vision, saying, 'Do n",
-      "missing_letter": "A",
-      "classification": "confirmed_auto"
+      "missing_prefix": "After ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8235,
+      "brenton_verse": "And after these things the word of the Lord came to Abram in a vision, saying, F",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.16:1",
-      "residual": "ow Sarai, Abram's wife, bore him no children, but ",
+      "residual": "ow Sarai, Abram's wife, bore him no children, but she had an",
       "proposed_repair": "Now Sarai, Abram's wife, bore him no children, but she had an Egyptian maidserva",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.449,
+      "brenton_verse": "And Sara the wife of Abram bore him no children; and she had an Egyptian maid, w",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.17:1",
-      "residual": "hen Abram was ninety-nine years old, the Lord appe",
-      "proposed_repair": "Then Abram was ninety-nine years old, the Lord appeared to Abram and said to him",
-      "missing_letter": "T",
-      "classification": "confirmed_auto"
+      "residual": "hen Abram was ninety-nine years old, the Lord appeared to Ab",
+      "proposed_repair": "When Abram was ninety-nine years old, the Lord appeared to Abram and said to him",
+      "missing_prefix": "When ",
+      "classification": "human_verified",
+      "prefix_score": 0.7925,
+      "brenton_verse": "And Abram was ninety-nine years old, and the Lord appeared to Abram and said to ",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.18:1",
-      "residual": "hen God appeared to him at the oak of Mamre, as he",
+      "residual": "hen God appeared to him at the oak of Mamre, as he was sitti",
       "proposed_repair": "Then God appeared to him at the oak of Mamre, as he was sitting in the tent door",
-      "missing_letter": "T",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Then ",
+      "classification": "human_verified",
+      "prefix_score": 0.8261,
+      "brenton_verse": "And God appeared to him by the oak of Mambre, as he sat by the door of his tent ",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.19:1",
-      "residual": "ow the two angels came to Sodom in the evening, an",
+      "residual": "ow the two angels came to Sodom in the evening, and Lot was ",
       "proposed_repair": "Now the two angels came to Sodom in the evening, and Lot was sitting in the gate",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8444,
+      "brenton_verse": "And the two angels came to Sodom at evening. And Lot sat by the gate of Sodom, a",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.20:1",
-      "residual": "ow Abraham journeyed from there to the South, and ",
+      "residual": "ow Abraham journeyed from there to the South, and dwelt betw",
       "proposed_repair": "Now Abraham journeyed from there to the South, and dwelt between Kadesh and Shur",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.5,
+      "brenton_verse": "And Abraam removed thence to the southern country, and dwelt between Cades and S",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.21:1",
-      "residual": "ow the Lord visited Sarah as He said, and the Lord",
+      "residual": "ow the Lord visited Sarah as He said, and the Lord did for S",
       "proposed_repair": "Now the Lord visited Sarah as He said, and the Lord did for Sarah as He had spok",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8077,
+      "brenton_verse": "And the Lord visited Sarrha, as he said, and the Lord did to Sarrha, as he spoke",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.22:1",
-      "residual": "ow it came to pass after these things that God tes",
+      "residual": "ow it came to pass after these things that God tested Abraha",
       "proposed_repair": "Now it came to pass after these things that God tested Abraham, and said to him,",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.75,
+      "brenton_verse": "And it came to pass after these things that God tempted Abraam, and said to him,",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.23:1",
       "residual": "ow Sarah lived one hundred and twenty-seven years.",
       "proposed_repair": "Now Sarah lived one hundred and twenty-seven years.",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.2857,
+      "brenton_verse": "And the life of Sarrha was an hundred and twenty-seven years.",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.24:1",
-      "residual": "ow Abraham was old, well advanced in age; and the ",
+      "residual": "ow Abraham was old, well advanced in age; and the Lord had b",
       "proposed_repair": "Now Abraham was old, well advanced in age; and the Lord had blessed Abraham in a",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.64,
+      "brenton_verse": "And Abraam was old, advanced in days, and the Lord blessed Abraam in all things.",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.25:1",
-      "residual": "ow Abraham again took a wife, and her name was Ket",
+      "residual": "ow Abraham again took a wife, and her name was Keturah.",
       "proposed_repair": "Now Abraham again took a wife, and her name was Keturah.",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7917,
+      "brenton_verse": "And Abraam again took a wife, whose name was Chettura.",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.26:1",
-      "residual": "ow there was a famine in the land, besides the fir",
+      "residual": "ow there was a famine in the land, besides the first famine ",
       "proposed_repair": "Now there was a famine in the land, besides the first famine in the days of Abra",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8372,
+      "brenton_verse": "And there was a famine in the land, besides the former famine, which was in the ",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.27:1",
-      "residual": "ow it came to pass, when Isaac was old and his eye",
+      "residual": "ow it came to pass, when Isaac was old and his eyes were so ",
       "proposed_repair": "Now it came to pass, when Isaac was old and his eyes were so dim he could not se",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.75,
+      "brenton_verse": "And it came to pass after Isaac was old, that his eyes were dimmed so that he co",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.28:1",
-      "residual": "ow Isaac called Jacob and blessed him, and charged",
+      "residual": "ow Isaac called Jacob and blessed him, and charged him, sayi",
       "proposed_repair": "Now Isaac called Jacob and blessed him, and charged him, saying, 'You shall not ",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.6545,
+      "brenton_verse": "And Isaac having called for Jacob, blessed him, and charged him, saying, Thou sh",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.29:1",
-      "residual": "ow Jacob went on his journey and came to the land ",
+      "residual": "ow Jacob went on his journey and came to the land of the eas",
       "proposed_repair": "Now Jacob went on his journey and came to the land of the east, to Laban.",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.5217,
+      "brenton_verse": "And Jacob started and went to the land of the east to Laban, the son of Bathuel ",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.30:1",
-      "residual": "ow when Rachel saw that she bore Jacob no children",
+      "residual": "ow when Rachel saw that she bore Jacob no children, Rachel e",
       "proposed_repair": "Now when Rachel saw that she bore Jacob no children, Rachel envied her sister, a",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.4643,
+      "brenton_verse": "And Rachel having perceived that she bore Jacob no children, was jealous of her ",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.31:1",
-      "residual": "ow Jacob heard the words of Laban's sons, saying, ",
+      "residual": "ow Jacob heard the words of Laban's sons, saying, 'Jacob has",
       "proposed_repair": "Now Jacob heard the words of Laban's sons, saying, 'Jacob has taken away all tha",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8571,
+      "brenton_verse": "And Jacob heard the words of the sons of Laban, saying, Jacob has taken all that",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.32:1",
-      "residual": "oearly in the morning, Laban arose, and kissed his",
+      "residual": "oearly in the morning, Laban arose, and kissed his sons and ",
       "proposed_repair": "So early in the morning, Laban arose, and kissed his sons and daughters and bles",
-      "missing_letter": "S",
-      "classification": "confirmed_auto"
+      "missing_prefix": "So early ",
+      "classification": "human_verified",
+      "prefix_score": 0.4186,
+      "brenton_verse": "And Laban rose up in the morning, and kissed his sons and his daughters, and ble",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.33:1",
-      "residual": "ow Jacob lifted his eyes and looked, and behold, E",
+      "residual": "ow Jacob lifted his eyes and looked, and behold, Esau his br",
       "proposed_repair": "Now Jacob lifted his eyes and looked, and behold, Esau his brother was coming, a",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8571,
+      "brenton_verse": "And Jacob lifted up his eyes, and beheld, and lo! Esau his brother coming, and f",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.34:1",
-      "residual": "ow Dinah the daughter of Leah, whom she bore to Ja",
+      "residual": "ow Dinah the daughter of Leah, whom she bore to Jacob, went ",
       "proposed_repair": "Now Dinah the daughter of Leah, whom she bore to Jacob, went out to see the daug",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8163,
+      "brenton_verse": "And Dina, the daughter of Lea, whom she bore to Jacob, went forth to observe the",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.35:1",
-      "residual": "ow God said to Jacob, 'Arise, go up to Bethel and ",
+      "residual": "ow God said to Jacob, 'Arise, go up to Bethel and dwell ther",
       "proposed_repair": "Now God said to Jacob, 'Arise, go up to Bethel and dwell there; and make an alta",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And God said to Jacob, Arise, go up to the place, Bæthel, and dwell there; and m",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.36:1",
       "residual": "ow this is the genealogy of Esau, who is Edom.",
       "proposed_repair": "Now this is the genealogy of Esau, who is Edom.",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.566,
+      "brenton_verse": "And these are the generations of Esau; this is Edom.",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.37:1",
-      "residual": "ow Jacob dwelt in the land where his father had so",
+      "residual": "ow Jacob dwelt in the land where his father had sojourned, i",
       "proposed_repair": "Now Jacob dwelt in the land where his father had sojourned, in the land of Canaa",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8,
+      "brenton_verse": "And Jacob dwelt in the land where his father sojourned, in the land of Chanaan.",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.38:1",
-      "residual": "tcame to pass at that time that Judah departed fro",
+      "residual": "tcame to pass at that time that Judah departed from his brot",
       "proposed_repair": "It came to pass at that time that Judah departed from his brothers, and visited ",
-      "missing_letter": "I",
-      "classification": "confirmed_auto"
+      "missing_prefix": "It came ",
+      "classification": "confirmed_auto",
+      "prefix_score": 1.0,
+      "brenton_verse": "And it came to pass at that time that Judas went down from his brethren, and cam",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.39:1",
-      "residual": "ow Joseph had been taken down to Egypt, and Potiph",
+      "residual": "ow Joseph had been taken down to Egypt, and Potiphar, Pharao",
       "proposed_repair": "Now Joseph had been taken down to Egypt, and Potiphar, Pharaoh's eunuch and capt",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.5098,
+      "brenton_verse": "And Joseph was brought down to Egypt; and Petephres the eunuch of Pharao, the ca",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.40:1",
-      "residual": "ow it came to pass after these things, that the ki",
+      "residual": "ow it came to pass after these things, that the king of Egyp",
       "proposed_repair": "Now it came to pass after these things, that the king of Egypt's chief cupbearer",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.75,
+      "brenton_verse": "And it came to pass after these things, that the chief cupbearer of the king of ",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.41:1",
-      "residual": "hen it came to pass, at the end of two full years,",
+      "residual": "hen it came to pass, at the end of two full years, that Phar",
       "proposed_repair": "Then it came to pass, at the end of two full years, that Pharaoh had a dream; an",
-      "missing_letter": "T",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Then ",
+      "classification": "human_verified",
+      "prefix_score": 0.7317,
+      "brenton_verse": "And it came to pass after two full years that Pharao had a dream. He thought he ",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.42:1",
-      "residual": "hen Jacob found out there was grain for sale in Eg",
-      "proposed_repair": "Then Jacob found out there was grain for sale in Egypt, he said to his sons, 'Wh",
-      "missing_letter": "T",
-      "classification": "confirmed_auto"
+      "residual": "hen Jacob found out there was grain for sale in Egypt, he sa",
+      "proposed_repair": "When Jacob found out there was grain for sale in Egypt, he said to his sons, 'Wh",
+      "missing_prefix": "When ",
+      "classification": "human_verified",
+      "prefix_score": 0.5556,
+      "brenton_verse": "And Jacob having seen that there was a sale of corn in Egypt, said to his sons, ",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.43:1",
       "residual": "ow the famine was severe in the land.",
       "proposed_repair": "Now the famine was severe in the land.",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.5769,
+      "brenton_verse": "But the famine prevailed in the land.",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.44:1",
-      "residual": "ow Joseph commanded the steward of his house, sayi",
+      "residual": "ow Joseph commanded the steward of his house, saying, 'Fill ",
       "proposed_repair": "Now Joseph commanded the steward of his house, saying, 'Fill the men's sacks wit",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7541,
+      "brenton_verse": "And Joseph charged the steward of his house, saying, Fill the men's sacks with f",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.45:1",
-      "residual": "ow Joseph could not restrain himself before all th",
+      "residual": "ow Joseph could not restrain himself before all those who st",
       "proposed_repair": "Now Joseph could not restrain himself before all those who stood by him, and he ",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7541,
+      "brenton_verse": "And Joseph could not refrain himself when all were standing by him, but said, Di",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.46:1",
-      "residual": "ow Israel took his journey with all he had, and ca",
+      "residual": "ow Israel took his journey with all he had, and came to the ",
       "proposed_repair": "Now Israel took his journey with all he had, and came to the Well of Oath, and o",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.4528,
+      "brenton_verse": "And Israel departed, he and all that he had, and came to the well of the oath; a",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.47:1",
-      "residual": "ow Joseph went and told Pharaoh, and said, 'My fat",
+      "residual": "ow Joseph went and told Pharaoh, and said, 'My father and my",
       "proposed_repair": "Now Joseph went and told Pharaoh, and said, 'My father and my brothers, their fl",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.6667,
+      "brenton_verse": "And Joseph came and told Pharao, saying, My father, and my brethren, and their c",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.48:1",
-      "residual": "ow it came to pass after these things that Joseph ",
+      "residual": "ow it came to pass after these things that Joseph was told, ",
       "proposed_repair": "Now it came to pass after these things that Joseph was told, 'Indeed your father",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.75,
+      "brenton_verse": "And it came to pass after these things, that it was reported to Joseph, Behold, ",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.49:1",
-      "residual": "ow Jacob called his sons and said, 'Gather togethe",
+      "residual": "ow Jacob called his sons and said, 'Gather together, that I ",
       "proposed_repair": "Now Jacob called his sons and said, 'Gather together, that I may tell you what s",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.84,
+      "brenton_verse": "And Jacob called his sons, and said to them, Assemble yourselves, that I may tel",
+      "source": "brenton"
     },
     {
       "anchor": "GEN.50:1",
-      "residual": "ow Joseph fell on his father's face and wept over ",
+      "residual": "ow Joseph fell on his father's face and wept over him, and k",
       "proposed_repair": "Now Joseph fell on his father's face and wept over him, and kissed him.",
-      "missing_letter": "N",
-      "classification": "confirmed_auto"
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7059,
+      "brenton_verse": "And Joseph fell upon his father's face, and wept on him, and kissed him.",
+      "source": "brenton"
     }
   ]
 }

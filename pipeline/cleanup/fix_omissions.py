@@ -11,16 +11,19 @@ Rules:
   R4  Rejoin hyphen-split line breaks ("Egyp-tian" -> "Egyptian")
   R5  Fix trailing space before punctuation ("body ." -> "body.")
   R6  Detect drop-cap omissions (verse starts lowercase) — REPORT ONLY, no auto-fix
+  R7  Brenton-assisted fused compound detection (only with --reference brenton)
 
 Usage:
-    python3 fix_omissions.py staging/validated/OT/GEN.md             # dry-run (default)
-    python3 fix_omissions.py staging/validated/OT/GEN.md --in-place  # overwrite file + memo
-    python3 fix_omissions.py staging/validated/OT/GEN.md --report    # memo only, no file change
+    python3 fix_omissions.py staging/validated/OT/GEN.md                               # dry-run
+    python3 fix_omissions.py staging/validated/OT/GEN.md --in-place                   # overwrite
+    python3 fix_omissions.py staging/validated/OT/GEN.md --in-place --reference brenton  # + R7
+    python3 fix_omissions.py staging/validated/OT/GEN.md --report                     # memo only
 """
 
 from __future__ import annotations
 
 import argparse
+import importlib.util
 import json
 import re
 import sys
@@ -33,6 +36,23 @@ from datetime import date
 # ---------------------------------------------------------------------------
 REPO_ROOT = Path(__file__).parent.parent.parent
 ALLOWLIST_DIR = Path(__file__).parent / "allowlists"
+_DEFAULT_BRENTON_DIR = REPO_ROOT / "staging" / "reference" / "brenton"
+
+# Short function-word prefixes eligible for auto-split (R7)
+# Must be in this set; next token must be >= 3 chars
+_SHORT_PREFIXES = {"a", "an", "in", "of", "to", "on", "as", "at", "by", "or"}
+
+
+def _load_normalize_module():
+    """Lazy-load the shared normalize_reference_text module."""
+    spec = importlib.util.spec_from_file_location(
+        "normalize_reference_text",
+        REPO_ROOT / "pipeline" / "reference" / "normalize_reference_text.py"
+    )
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
 
 # ---------------------------------------------------------------------------
 # Regex constants (rule-independent)
@@ -42,6 +62,7 @@ RE_SPACE_BEFORE_PUNCT = re.compile(r" ([.,;:!?])")
 RE_SPACE_BEFORE_POSSESSIVE = re.compile(r" ('s)\b")
 RE_VERSE_LINE = re.compile(r'^([A-Z0-9]+\.\d+:\d+) (.+)')
 RE_DROP_CAP = re.compile(r'^[a-z]')
+RE_ANCHOR_PARTS = re.compile(r'^([A-Z0-9]+)\.(\d+):(\d+)$')
 
 
 # ---------------------------------------------------------------------------
@@ -97,7 +118,7 @@ def extract_book_name(text: str, book_code: str) -> str:
 
 
 # ---------------------------------------------------------------------------
-# Cleanup engine
+# Cleanup engine (R1–R6)
 # ---------------------------------------------------------------------------
 
 def fix_fused_article(m: re.Match) -> str:
@@ -166,6 +187,120 @@ def apply_cleanup(line: str, stats: dict[str, int], drop_cap_report: list[str],
     return result
 
 
+# ---------------------------------------------------------------------------
+# R7: Brenton-assisted fused compound detection
+# ---------------------------------------------------------------------------
+
+def run_brenton_pass(
+    verse_pairs: list[tuple[str, str]],   # [(anchor, text), ...]
+    brenton_index: dict,
+    norm,
+    stats: dict,
+    r7_report: list[dict],
+) -> dict[str, str]:
+    """
+    Scan verse tokens against Brenton tokens to find fused compounds
+    not caught by R1–R4.
+
+    Auto-apply criteria (ALL must be true):
+      1. OSB token = prefix + suffix where prefix in _SHORT_PREFIXES
+      2. len(suffix) >= 3
+      3. Brenton has (prefix, suffix) as adjacent tokens
+      4. Token similarity of full verse improves by >= 0.02 after repair
+      5. No semantic substitution (exact token-level match only)
+
+    Returns dict of anchor -> repaired_text for auto-approved repairs.
+    """
+    repairs: dict[str, str] = {}
+
+    for anchor, text in verse_pairs:
+        m = RE_ANCHOR_PARTS.match(anchor)
+        if not m:
+            continue
+        chapter, verse = int(m.group(2)), int(m.group(3))
+        brenton_verse = norm.get_brenton_verse(brenton_index, chapter, verse)
+        if not brenton_verse:
+            continue
+
+        norm_osb = norm.normalize_for_compare(text)
+        norm_bren = norm.normalize_for_compare(brenton_verse)
+        base_score = norm.token_similarity(norm_osb, norm_bren)
+
+        osb_tokens = norm.tokenize(norm_osb)
+        bren_tokens = norm.tokenize(norm_bren)
+        bren_bigrams = set()
+        for i in range(len(bren_tokens) - 1):
+            bren_bigrams.add((bren_tokens[i], bren_tokens[i + 1]))
+
+        auto_fixes: list[tuple[str, str, str]] = []  # (fused, prefix, suffix)
+        for tok in set(osb_tokens):  # deduplicate tokens
+            for p in _SHORT_PREFIXES:
+                if tok.startswith(p) and len(tok) > len(p) + 2:
+                    suffix = tok[len(p):]
+                    if len(suffix) >= 3 and (p, suffix) in bren_bigrams:
+                        auto_fixes.append((tok, p, suffix))
+                        break
+
+        if not auto_fixes:
+            continue
+
+        # Apply all auto fixes to text; verify similarity improvement
+        repaired_text = text
+        for fused, prefix, suffix in auto_fixes:
+            repaired_text = re.sub(
+                r'\b' + re.escape(fused) + r'\b',
+                prefix + " " + suffix,
+                repaired_text
+            )
+
+        norm_repaired = norm.normalize_for_compare(repaired_text)
+        new_score = norm.token_similarity(norm_repaired, norm_bren)
+
+        if new_score - base_score >= 0.02:
+            repairs[anchor] = repaired_text
+            stats["R7"] = stats.get("R7", 0) + len(auto_fixes)
+            stats["_lines_changed"] = stats.get("_lines_changed", 0) + 1
+            for fused, prefix, suffix in auto_fixes:
+                r7_report.append({
+                    "anchor": anchor,
+                    "fused": fused,
+                    "repair": f"{prefix} {suffix}",
+                    "score_before": round(base_score, 4),
+                    "score_after": round(new_score, 4),
+                    "classification": "auto_applied",
+                })
+        else:
+            # Score didn't improve enough — report but don't apply
+            for fused, prefix, suffix in auto_fixes:
+                r7_report.append({
+                    "anchor": anchor,
+                    "fused": fused,
+                    "repair": f"{prefix} {suffix}",
+                    "score_before": round(base_score, 4),
+                    "score_after": round(new_score, 4),
+                    "classification": "ambiguous_no_improve",
+                })
+
+    return repairs
+
+
+def apply_r7_repairs(lines: list[str], repairs: dict[str, str]) -> list[str]:
+    """Apply R7 repairs to the line list (operates on post-R1–R5 lines)."""
+    result = []
+    for line in lines:
+        m = RE_VERSE_LINE.match(line.rstrip("\n"))
+        if m and m.group(1) in repairs:
+            anchor = m.group(1)
+            result.append(f"{anchor} {repairs[anchor]}\n")
+        else:
+            result.append(line)
+    return result
+
+
+# ---------------------------------------------------------------------------
+# Diff collection
+# ---------------------------------------------------------------------------
+
 def collect_diffs(original_lines: list[str], cleaned_lines: list[str],
                   first_n: int = 20, last_n: int = 20) -> list[str]:
     """Collect before/after diff samples from verse lines only."""
@@ -194,10 +329,13 @@ def collect_diffs(original_lines: list[str], cleaned_lines: list[str],
 
 def build_memo(book_code: str, book_name: str, input_path: Path,
                stats: dict[str, int], drop_cap_report: list[str],
-               diff_samples: list[str], in_place: bool) -> str:
+               diff_samples: list[str], in_place: bool,
+               r7_report: list[dict] | None = None) -> str:
     today = date.today().isoformat()
     lines_changed = stats.get("_lines_changed", 0)
     mode_label = "in-place" if in_place else "dry-run"
+    r7_count = stats.get("R7", 0)
+    brenton_mode = r7_report is not None
 
     memo_lines = [
         f"# {book_name} Cleanup Report — {today}\n",
@@ -205,6 +343,7 @@ def build_memo(book_code: str, book_name: str, input_path: Path,
         "## Summary\n",
         f"- Input: `{input_path}`\n",
         f"- Mode: **{mode_label}**\n",
+        f"- Brenton reference: {'enabled (R7)' if brenton_mode else 'disabled'}\n",
         f"- Lines changed: {lines_changed}\n",
         "\n",
         "## Rules Applied\n",
@@ -217,6 +356,7 @@ def build_memo(book_code: str, book_name: str, input_path: Path,
         f"| R4 | Rejoin hyphen-split line breaks (allowlist) | {stats.get('R4', 0)} |\n",
         f"| R5 | Remove trailing space before punctuation | {stats.get('R5', 0)} |\n",
         f"| R6 | Drop-cap omissions detected (NO auto-fix) | {len(drop_cap_report)} |\n",
+        f"| R7 | Brenton-assisted fused compound splits | {r7_count} |\n",
         "\n",
         "## Before/After Examples (first 20 + last 20 changed lines)\n",
         "\n",
@@ -228,14 +368,54 @@ def build_memo(book_code: str, book_name: str, input_path: Path,
         "## Unresolved: Drop-Cap Omissions (R6 — human review required)\n",
         "\n",
         "These verses begin with a lowercase letter, indicating the PDF drop-cap\n",
-        "first letter was not captured by Docling. **Do not auto-infer** the missing\n",
-        "letter — each must be verified against the source PDF.\n",
+        "first letter was not captured by Docling. Run dropcap_verify.py for\n",
+        "Brenton-backed classification.\n",
         "\n",
         "| Anchor | Text (first 50 chars) |\n",
         "|--------|-----------------------|\n",
     ])
     for entry in drop_cap_report:
         memo_lines.append(f"| {entry} |\n")
+
+    # R7 report section
+    if r7_report:
+        auto_applied = [r for r in r7_report if r["classification"] == "auto_applied"]
+        ambiguous = [r for r in r7_report if r["classification"] != "auto_applied"]
+
+        memo_lines.extend([
+            "\n",
+            "## Brenton-Assisted Repairs (R7)\n",
+            "\n",
+            f"Auto-applied: {len(auto_applied)}  |  Ambiguous (not applied): {len(ambiguous)}\n",
+            "\n",
+        ])
+
+        if auto_applied:
+            memo_lines.extend([
+                "### Auto-Applied Splits\n",
+                "\n",
+                "| Anchor | Fused | Repair | Score Δ |\n",
+                "|--------|-------|--------|--------|\n",
+            ])
+            for r in auto_applied:
+                delta = round(r["score_after"] - r["score_before"], 4)
+                memo_lines.append(
+                    f"| {r['anchor']} | `{r['fused']}` | `{r['repair']}` | +{delta} |\n"
+                )
+
+        if ambiguous:
+            memo_lines.extend([
+                "\n",
+                "### Ambiguous — Not Applied (score did not improve)\n",
+                "\n",
+                "| Anchor | Fused | Repair | Score Δ |\n",
+                "|--------|-------|--------|--------|\n",
+            ])
+            for r in ambiguous:
+                delta = round(r["score_after"] - r["score_before"], 4)
+                memo_lines.append(
+                    f"| {r['anchor']} | `{r['fused']}` | `{r['repair']}` | {delta:+.4f} |\n"
+                )
 
     return "".join(memo_lines)
 
@@ -265,12 +445,22 @@ def main():
         "--report", action="store_true",
         help="Write memo only, no file changes"
     )
+    parser.add_argument(
+        "--reference", metavar="SOURCE",
+        help="Auxiliary reference source for R7 (currently: 'brenton')"
+    )
+    parser.add_argument(
+        "--brenton-dir", type=Path, default=_DEFAULT_BRENTON_DIR,
+        help=f"Directory containing Brenton JSON index files (default: {_DEFAULT_BRENTON_DIR})"
+    )
     args = parser.parse_args()
 
     input_path = args.path
     if not input_path.exists():
         print(f"File not found: {input_path}", file=sys.stderr)
         sys.exit(1)
+
+    use_brenton = args.reference and args.reference.lower() == "brenton"
 
     book_code = input_path.stem
     file_text = input_path.read_text(encoding="utf-8")
@@ -284,6 +474,7 @@ def main():
     stats: dict[str, int] = {}
     drop_cap_report: list[str] = []
 
+    # R1–R6 pass
     cleaned_lines = []
     for line in original_lines:
         cleaned = apply_cleanup(
@@ -291,6 +482,35 @@ def main():
             re_fused, word_splits, hyphen_splits
         )
         cleaned_lines.append(cleaned + "\n")
+
+    # R7: Brenton-assisted pass (optional)
+    r7_report: list[dict] | None = None
+    if use_brenton:
+        r7_report = []
+        try:
+            norm = _load_normalize_module()
+            brenton_index = norm.load_brenton_index(book_code, args.brenton_dir)
+            if brenton_index is None:
+                print(
+                    f"WARNING: No Brenton index for {book_code} at {args.brenton_dir}. "
+                    "Run index_brenton.py first. Skipping R7.",
+                    file=sys.stderr
+                )
+            else:
+                # Build verse pairs from post-R1–R5 lines
+                verse_pairs: list[tuple[str, str]] = []
+                for line in cleaned_lines:
+                    m = RE_VERSE_LINE.match(line.rstrip("\n"))
+                    if m:
+                        verse_pairs.append((m.group(1), m.group(2)))
+
+                r7_repairs = run_brenton_pass(
+                    verse_pairs, brenton_index, norm, stats, r7_report
+                )
+                if r7_repairs:
+                    cleaned_lines = apply_r7_repairs(cleaned_lines, r7_repairs)
+        except Exception as e:
+            print(f"WARNING: R7 Brenton pass failed: {e}", file=sys.stderr)
 
     # Diff samples
     diff_samples = collect_diffs(
@@ -301,7 +521,8 @@ def main():
     # Build memo
     memo_text = build_memo(
         book_code, book_name, input_path,
-        stats, drop_cap_report, diff_samples, args.in_place
+        stats, drop_cap_report, diff_samples, args.in_place,
+        r7_report=r7_report
     )
 
     memo_path = REPO_ROOT / "memos" / f"08_{book_code.lower()}_cleanup_report.md"
@@ -324,6 +545,10 @@ def main():
     for rule in ["R1", "R2", "R3", "R4", "R5"]:
         print(f"  {rule}: {stats.get(rule, 0)} fixes", file=sys.stderr)
     print(f"  R6: {len(drop_cap_report)} drop-cap suspects (report only)", file=sys.stderr)
+    if use_brenton:
+        r7_auto = len([r for r in (r7_report or []) if r["classification"] == "auto_applied"])
+        r7_ambig = len([r for r in (r7_report or []) if r["classification"] != "auto_applied"])
+        print(f"  R7: {stats.get('R7', 0)} auto-applied, {r7_ambig} ambiguous", file=sys.stderr)
     print(f"  Total lines changed: {lines_changed}", file=sys.stderr)
 
 
