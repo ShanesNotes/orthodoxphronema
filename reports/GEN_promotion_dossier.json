@@ -1,7 +1,7 @@
 {
   "book_code": "GEN",
   "testament": "OT",
-  "timestamp": "2026-03-08T16:01:20.915272",
+  "timestamp": "2026-03-08T18:00:09.281137",
   "registry_version": "1.1.0",
   "body_checksum": "7c8c82f5a3f19f8dbe9d781016b5c9f5f2e1e053b8737f4b18564dcbc9c785ad",
   "validation": {
@@ -50,25 +50,32 @@
     "book_code": "GEN",
     "registry_version": "1.1.0",
     "ratified_by": "human",
-    "ratified_date": null,
+    "ratified_date": "2026-03-08",
     "residuals": [
       {
         "anchor": "GEN.14:24",
         "classification": "docling_issue",
         "description": "Last verse of chapter. Docling does not emit a boundary for the final verse.",
-        "blocking": false
+        "blocking": false,
+        "ratified": true
       },
       {
         "anchor": "GEN.25:34",
-        "classification": "docling_issue",
-        "description": "Last verse of chapter. Docling does not emit a boundary for the final verse.",
-        "blocking": false
+        "classification": "osb_source_absent",
+        "description": "Verse absent from both OSB witnesses (electronic PDF and verification scan). Present in Rahlfs LXX and Brenton English. No substitute text inserted \u2014 canon artifact reflects OSB as-published.",
+        "blocking": false,
+        "ratified": true,
+        "upstream_witnesses": [
+          "Rahlfs LXX 1935",
+          "Brenton Septuagint"
+        ]
       },
       {
         "anchor": "GEN.49:2",
         "classification": "docling_issue",
         "description": "Poetic-block TextItem boundary. Text present in PDF but not emitted as separate verse.",
-        "blocking": false
+        "blocking": false,
+        "ratified": true
       }
     ]
   },

@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$comment": "Formal residual classification taxonomy for canon extraction gaps.",
+  "version": "1.0.0",
+  "classes": [
+    {
+      "name": "docling_issue",
+      "description": "Parser or layout failure — text exists in the OSB PDF but the verse boundary was not emitted by Docling.",
+      "examples": ["GEN.14:24 (last verse of chapter)", "GEN.49:2 (poetic block)"],
+      "default_blocking": false,
+      "requires_per_entry_ratification": false,
+      "predicted_books": ["all — any chapter-final verse or layout anomaly"]
+    },
+    {
+      "name": "structural_fused",
+      "description": "Enumeration or list text where verse numbers are inline within a single TextItem and not split by the parser.",
+      "examples": ["EXO.21:24-25 (lex talionis)", "EXO.25:4-7 (material list)", "EXO.35:6-8 (material list)"],
+      "default_blocking": true,
+      "requires_per_entry_ratification": false,
+      "predicted_books": ["LEV", "NUM", "DEU — legal/census lists"]
+    },
+    {
+      "name": "osb_source_absent",
+      "description": "Verse absent from all available OSB source witnesses. Present only in upstream Greek or English witnesses. No substitute text inserted — canon artifact reflects OSB as-published.",
+      "examples": ["GEN.25:34 (absent from electronic PDF and verification scan)"],
+      "default_blocking": false,
+      "requires_per_entry_ratification": true,
+      "predicted_books": ["deuterocanonical books with versification variants"]
+    },
+    {
+      "name": "poetic_block",
+      "description": "Poetry or song section where verse boundaries are lost in justified column layout.",
+      "examples": ["GEN.49:2 (could be reclassified from docling_issue)"],
+      "default_blocking": false,
+      "requires_per_entry_ratification": false,
+      "predicted_books": ["PSA", "SIR", "WIS — wisdom poetry sections"]
+    },
+    {
+      "name": "dropcap_ocr",
+      "description": "Decorative initial letter at chapter start missed by Docling OCR, causing malformed first word.",
+      "examples": ["GEN.1:1 'nthe beginning' (missing 'I')"],
+      "default_blocking": false,
+      "requires_per_entry_ratification": false,
+      "predicted_books": ["all — any chapter with decorative initials"]
+    }
+  ]
+}

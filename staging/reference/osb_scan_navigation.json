@@ -1,0 +1,389 @@
+{
+  "source": "The-Orthodox-Study-Bible-Verification.pdf",
+  "total_pages": 1859,
+  "seeded_from": "human-verified probes (GEN=29, EXO=66, PSA=708, MAT=1294, REV=1792) + linear interpolation",
+  "status": "probed",
+  "notes": "Probed values are human-verified. Interpolated values are estimates \u2014 accept unless off by orders of magnitude (per Human directive).",
+  "books": {
+    "GEN": {
+      "start_page": 29,
+      "end_page": null,
+      "notes": "human-verified probe point"
+    },
+    "EXO": {
+      "start_page": 66,
+      "end_page": null,
+      "notes": "human-verified probe point"
+    },
+    "LEV": {
+      "start_page": 119,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "NUM": {
+      "start_page": 156,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "DEU": {
+      "start_page": 208,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "JOS": {
+      "start_page": 254,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "JDG": {
+      "start_page": 284,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "RUT": {
+      "start_page": 315,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "1SA": {
+      "start_page": 320,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "2SA": {
+      "start_page": 359,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "1KI": {
+      "start_page": 393,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "2KI": {
+      "start_page": 429,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "1CH": {
+      "start_page": 463,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "2CH": {
+      "start_page": 499,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "1ES": {
+      "start_page": 543,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "EZR": {
+      "start_page": 560,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "NEH": {
+      "start_page": 572,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "TOB": {
+      "start_page": 590,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "JDT": {
+      "start_page": 605,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "EST": {
+      "start_page": 624,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "1MA": {
+      "start_page": 638,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "2MA": {
+      "start_page": 670,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "3MA": {
+      "start_page": 696,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "PSA": {
+      "start_page": 708,
+      "end_page": null,
+      "notes": "human-verified probe point"
+    },
+    "PRO": {
+      "start_page": 882,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "ECC": {
+      "start_page": 918,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "SNG": {
+      "start_page": 931,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "JOB": {
+      "start_page": 837,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "WIS": {
+      "start_page": 941,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "SIR": {
+      "start_page": 964,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "HOS": {
+      "start_page": 1026,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "AMO": {
+      "start_page": 1041,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "MIC": {
+      "start_page": 1050,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "JOL": {
+      "start_page": 1056,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "OBA": {
+      "start_page": 1061,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "JON": {
+      "start_page": 1063,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "NAH": {
+      "start_page": 1066,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "HAB": {
+      "start_page": 1070,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "ZEP": {
+      "start_page": 1074,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "HAG": {
+      "start_page": 1077,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "ZEC": {
+      "start_page": 1080,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "MAL": {
+      "start_page": 1092,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "ISA": {
+      "start_page": 1096,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "JER": {
+      "start_page": 1149,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "BAR": {
+      "start_page": 1203,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "LAM": {
+      "start_page": 1209,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "LJE": {
+      "start_page": 1217,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "EZK": {
+      "start_page": 1220,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "DAN": {
+      "start_page": 1271,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "MAT": {
+      "start_page": 1294,
+      "end_page": null,
+      "notes": "human-verified probe point"
+    },
+    "MRK": {
+      "start_page": 1359,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "LUK": {
+      "start_page": 1400,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "JOH": {
+      "start_page": 1464,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "ACT": {
+      "start_page": 1512,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "ROM": {
+      "start_page": 1571,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "1CO": {
+      "start_page": 1602,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "2CO": {
+      "start_page": 1629,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "GAL": {
+      "start_page": 1648,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "EPH": {
+      "start_page": 1658,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "PHP": {
+      "start_page": 1672,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "COL": {
+      "start_page": 1679,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "1TH": {
+      "start_page": 1687,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "2TH": {
+      "start_page": 1694,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "1TI": {
+      "start_page": 1699,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "2TI": {
+      "start_page": 1710,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "TIT": {
+      "start_page": 1716,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "PHM": {
+      "start_page": 1722,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "HEB": {
+      "start_page": 1726,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "JAS": {
+      "start_page": 1748,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "1PE": {
+      "start_page": 1758,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "2PE": {
+      "start_page": 1767,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "1JN": {
+      "start_page": 1774,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "2JN": {
+      "start_page": 1783,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "3JN": {
+      "start_page": 1786,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "JUD": {
+      "start_page": 1788,
+      "end_page": null,
+      "notes": "interpolated from 5 probe points"
+    },
+    "REV": {
+      "start_page": 1792,
+      "end_page": null,
+      "notes": "human-verified probe point"
+    }
+  }
+}

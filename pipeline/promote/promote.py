@@ -261,6 +261,18 @@ def promote_book(book_code: str, dry_run: bool = False,
             else:
                 print("\n  INFO: Residuals sidecar not yet ratified (all entries non-blocking; proceeding).")
 
+        # ── Per-entry ratification for source-absence entries ──────────
+        # Source-absence residuals (osb_*) are policy decisions requiring
+        # individual human acknowledgment — top-level ratified_date alone
+        # is not sufficient for these entries.
+        if sidecar is not None:
+            for r in sidecar.get("residuals", []):
+                cls = r.get("classification", "")
+                if cls.startswith("osb_") and not r.get("ratified"):
+                    anchor = r.get("anchor", "?")
+                    print(f"\n  BLOCKED: Source-absence residual {anchor} requires explicit per-entry ratification")
+                    _exit_with_dossier("blocked", 3)
+
     # ── V7 completeness gate ──────────────────────────────────────────────────
     v7_warnings = [w for w in warnings if w.startswith("V7")]
     if v7_warnings and not allow_incomplete:

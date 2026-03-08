@@ -37,19 +37,19 @@
 | V1 anchor uniqueness | PASS | 1529 unique anchors |
 | V2 chapter count | PASS | 50 chapters |
 | V3 chapter sequence | PASS | — |
-| V4 verse sequence | WARN | 1 detected gap: ch.49 jumps from 1 to 3 |
+| V4 verse sequence | WARN | 2 detected gaps: ch.25 (33→next_ch), ch.49 (1→3) |
 | V5 article bleed | PASS | — |
 | V6 frontmatter | PASS | — |
 | V7 completeness | WARN | 1529/1532 verses (99.8%); gap of 3 |
 | V8 heading integrity | PASS | — |
 | V9 embedded verse | PASS | — |
 
-- Readability cleanup COMPLETE: 636 text fixes + 21 drop-cap repairs (all PDF-verified)
-- Residue audit: 31 findings, all legitimate modern English (forever, firstborn, etc.)
-- Residuals sidecar: 3 entries (all `docling_issue`, non-blocking)
-- Missing anchors: `GEN.14:24` (last verse of ch.14), `GEN.25:34` (last verse of ch.25), `GEN.49:2` (poetic block)
-- Promote dry-run: exit 0, dossier written to `reports/GEN_promotion_dossier.json`
-- **Status: READY for Ezra audit, then Human ratification, then first promotion**
+- Readability cleanup COMPLETE: 636 text fixes + 21 drop-cap repairs (all PDF-verified) + 6 source-confirmed fused-word fixes
+- Residue audit: 32 findings, all legitimate modern English (forever, firstborn, etc.)
+- Residuals sidecar: 3 entries — `GEN.14:24` ratified (docling_issue), `GEN.25:34` ratified (`osb_source_absent` — absent from both OSB witnesses, documented per immutability policy), `GEN.49:2` ratified (docling_issue)
+- `GEN.25:34` is a documented source omission: absent from both the electronic OSB PDF and the verification scan. Present in Rahlfs LXX and Brenton English, but no substitute text inserted per immutability policy (memo 22).
+- Promote dry-run: exit 0, dossier regenerated at `reports/GEN_promotion_dossier.json`
+- **Status: RATIFIED — ready for Ezra audit then promotion**
 
 ### EXO (Exodus)
 
@@ -79,7 +79,7 @@ Key files changed or created on Day 10:
 - `schemas/anchor_registry.json` — v1.1.0 with changelog
 - `staging/validated/OT/GEN.md` — readability cleanup applied
 - `staging/validated/OT/GEN_dropcap_candidates.json` — updated after cleanup
-- `staging/validated/OT/GEN_residuals.json` — 1 non-blocking residual
+- `staging/validated/OT/GEN_residuals.json` — 3 non-blocking residuals (all ratified)
 - `staging/validated/OT/EXO_residuals.json` — 10 blocking residuals
 - `reports/GEN_promotion_dossier.json` — dry-run dossier (exit 0)
 - `reports/EXO_promotion_dossier.json` — dry-run dossier (blocked)
@@ -94,7 +94,7 @@ Key files changed or created on Day 10:
 ### Immediate — Unblock First Promotion
 
 1. **Ezra:** Audit `staging/validated/OT/GEN.md` — text quality, structural integrity, residuals classification. The file is ready for review.
-2. **Human:** Ratify `staging/validated/OT/GEN_residuals.json` — set `ratified_date` on the 3 non-blocking gaps (`GEN.14:24`, `GEN.25:34`, `GEN.49:2`, all `docling_issue`).
+2. **Human:** Residuals sidecar already ratified (`ratified_date: 2026-03-08`). All 3 entries have per-entry `ratified: true`: `GEN.14:24` (docling_issue), `GEN.25:34` (osb_source_absent — immutability policy, memo 22), `GEN.49:2` (docling_issue).
 3. **Human:** Review GEN for visual satisfaction (suggest opening in a text editor with spellcheck — the 31 residue findings are all real English words like "forever", "firstborn", "themselves").
 4. **Ark:** Run `promote.py --book GEN` once Ezra audit + Human ratification are both complete.
 
@@ -128,7 +128,7 @@ Key files changed or created on Day 10:
 ## Open Questions for Ezra
 
 - **GEN audit readiness:** Are you prepared to audit `staging/validated/OT/GEN.md`? The file has been cleaned and the dossier is at `reports/GEN_promotion_dossier.json`.
-- **Residual classification:** Any concerns about the 3 missing verses (`GEN.14:24`, `GEN.25:34`, `GEN.49:2`) being classified as non-blocking (`docling_issue`)? These are last-verse-of-chapter or poetic-block cases where Docling does not emit a boundary.
+- **Residual classification:** The 3 missing verses are: `GEN.14:24` (docling_issue — last verse of chapter), `GEN.25:34` (osb_source_absent — absent from both OSB witnesses per memo 22), `GEN.49:2` (docling_issue — poetic block). All non-blocking and ratified. Any concerns?
 - **Dossier format:** Do you want to review the promotion dossier JSON schema before the first real promotion, or is the current format acceptable?
 - **EXO strategy input:** For the 10 `structural_fused` EXO residuals — do you see a risk in manual verse separation (potential for text drift from OSB source), or is it acceptable given the small scope?
 
