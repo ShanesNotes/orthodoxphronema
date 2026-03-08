@@ -32,7 +32,7 @@ Sustained and strengthened by the blood of Christ our Passover, we resume daily 
 
 
 ### The Grace Of Christand The Law Of Moses
-*(after EXO.20:5)*
+*(after EXO.20:6)*
 
 T he Apostle John wrote, 'The law was given through Moses, but grace and truth came through Jesus Christ' (Jn 1:17). The grace of Christ and the Law of Moses are complementary, not contradictory. The following helps explain both.
 
@@ -58,7 +58,7 @@ Christ is the Incarnate Lawgiver who offers us remission of sins through His pre
 
 
 ### Images And Imagery
-*(after EXO.21:5)*
+*(after EXO.21:6)*
 
 M any people have been taught that the second of the Ten Commandments prohibits icons. However, if correct, all artistic representations of anything would be forbidden. The Lord Himself in the same book of Exodus commanded Moses to make two gold cherubim (angels) 'of hammered work,' and to place them at each end of the mercy seat on the ark of the covenant (Ex 25:17-21). The Lord also stipulated that the ten curtains of the tabernacle be woven with images of cherubim on them (Ex 26:1), and likewise the veil (Ex 26:31).
 When King Solomon built the temple, the huge basin, or's ea,' was set upon twelve statues of oxen (3Kg 7:13, 30). And upon the ten bases of the sea were cast or engraved 'lions, oxen, and cherubim' (3Kg 7:16), as well as palm trees (3Kg 7:22). The Lord bestowed His blessing upon all these artistic representations first by filling the new temple with His Glory (3Kg 8:10, 11), and then by declaring to Solomon, 'I have consecrated this house which you have built to put My name there forever, and My eyes and My heart will be there perpetually' (3Kg 9:3).

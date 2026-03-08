@@ -1,10 +1,46 @@
 [
   {
+    "anchor": "EXO.1:1",
+    "marker": "ω"
+  },
+  {
+    "anchor": "EXO.1:6",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.1:9",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.1:12",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.1:15",
     "marker": "†"
   },
   {
+    "anchor": "EXO.2:2",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.2:4",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.2:5",
+    "marker": "ω"
+  },
+  {
+    "anchor": "EXO.2:9",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.2:11",
+    "marker": "†ω"
+  },
+  {
+    "anchor": "EXO.2:12",
     "marker": "†"
   },
   {
@@ -16,7 +52,27 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.2:24",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.3:1",
+    "marker": "ω"
+  },
+  {
+    "anchor": "EXO.3:2",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.3:3",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.3:4",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.3:5",
     "marker": "†"
   },
   {
@@ -24,7 +80,43 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.3:7",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.3:14",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.4:2",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.4:7",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.4:14",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.4:17",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.4:21",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.4:22",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.4:30",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.5:2",
     "marker": "†"
   },
   {
@@ -32,7 +124,59 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.5:22",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.6:2",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.6:4",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.6:7",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.6:9",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.7:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.7:3",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.7:5",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.7:9",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.7:14",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.7:22",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.7:23",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.8:4",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.8:6",
     "marker": "†"
   },
   {
@@ -44,6 +188,10 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.8:18",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.8:28",
     "marker": "†"
   },
@@ -52,7 +200,31 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.9:13",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.9:17",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.9:20",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.10:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.10:3",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.10:16",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.10:21",
     "marker": "†"
   },
   {
@@ -64,11 +236,67 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.12:2",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.12:3",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.12:7",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.12:10",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.12:11",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.12:13",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.12:14",
     "marker": "†"
   },
   {
+    "anchor": "EXO.12:16",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.12:22",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.12:23",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.12:30",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.12:33",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.12:38",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.12:51",
+    "marker": "ω"
+  },
+  {
+    "anchor": "EXO.13:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.13:20",
     "marker": "ω"
   },
   {
@@ -80,7 +308,51 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.14:15",
+    "marker": "†ω"
+  },
+  {
+    "anchor": "EXO.14:19",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.14:21",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.14:22",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.14:27",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.15:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.15:2",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.15:6",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.15:8",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.15:16",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.15:22",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.15:23",
     "marker": "†"
   },
   {
@@ -92,11 +364,79 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.16:2",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.16:3",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.16:4",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.16:13",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.16:18",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.16:20",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.16:29",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.16:33",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.17:6",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.17:11",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.17:12",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.18:2",
     "marker": "†"
   },
   {
+    "anchor": "EXO.18:14",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.19:4",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.19:6",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.19:8",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.19:10",
+    "marker": "ω"
+  },
+  {
+    "anchor": "EXO.19:14",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.19:17",
     "marker": "†"
   },
   {
@@ -108,7 +448,15 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.20:2",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.20:3",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.20:4",
     "marker": "†"
   },
   {
@@ -128,7 +476,19 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.20:19",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.20:21",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.20:24",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.21:1",
     "marker": "†"
   },
   {
@@ -136,7 +496,35 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.21:13",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.21:16",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.21:23",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.22:20",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.23:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.23:2",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.23:3",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.23:4",
     "marker": "†"
   },
   {
@@ -148,7 +536,47 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.23:20",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.23:21",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.23:22",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.23:23",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.23:25",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.23:26",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.24:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.24:3",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.24:4",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.24:12",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.24:15",
     "marker": "†"
   },
   {
@@ -156,7 +584,19 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.25:1",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.25:9",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.25:10",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.25:18",
     "marker": "†"
   },
   {
@@ -165,6 +605,18 @@
   },
   {
     "anchor": "EXO.25:40",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.26:31",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.28:17",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.29:5",
     "marker": "†"
   },
   {
@@ -180,7 +632,31 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.31:15",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.31:18",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.32:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.32:10",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.32:34",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.33:3",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.33:7",
     "marker": "†"
   },
   {
@@ -188,7 +664,27 @@
     "marker": "ω"
   },
   {
+    "anchor": "EXO.33:19",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.33:20",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.33:21",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.33:22",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.33:23",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.34:5",
     "marker": "†"
   },
   {
@@ -204,6 +700,10 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.34:29",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.35:5",
     "marker": "†"
   },
@@ -212,11 +712,23 @@
     "marker": "†"
   },
   {
+    "anchor": "EXO.36:2",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.36:6",
     "marker": "†"
   },
   {
+    "anchor": "EXO.38:1",
+    "marker": "†"
+  },
+  {
     "anchor": "EXO.38:5",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.38:11",
     "marker": "†"
   },
   {
@@ -225,6 +737,14 @@
   },
   {
     "anchor": "EXO.39:23",
+    "marker": "†"
+  },
+  {
+    "anchor": "EXO.40:1",
+    "marker": "†ω"
+  },
+  {
+    "anchor": "EXO.40:28",
     "marker": "†"
   }
 ]

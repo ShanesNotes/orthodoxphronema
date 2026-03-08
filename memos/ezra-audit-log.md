@@ -123,3 +123,22 @@
 - Recommendation:
   - Use OSB residual-shape heuristics as the primary classifier for drop-caps.
   - Use Brenton only as a secondary confirmation signal on prefix compatibility, not as the letter generator.
+
+## 2026-03-07 (Day 8 workflow review)
+- Action: Reviewed the post-Day-8 cleanup / drop-cap / validation stack.
+- Confirmed:
+  - `dropcap_verify.py` is now OSB-residual-first and no longer lets Brenton generate letters.
+  - Deterministic normalization rules R2/R5 are already integrated into `osb_extract.py`.
+  - Registry `chapter_verse_counts` now covers 64 books, so V7 scaling is much stronger.
+- Main optimization conclusion:
+  - Drop-cap repair is no longer the bottleneck.
+  - The primary remaining blocker for scale is parser-side lowercase-start verse splitting (`V4` gaps), not cleanup.
+
+## 2026-03-07 (footnote-marker placement concern)
+- Action: Reviewed current footnote-marker extraction assumptions in `osb_extract.py`.
+- Finding:
+  - Current code and comments still assume markers appear at verse starts / before next verse numbers.
+  - User observation indicates OSB markers are visually placed after verse punctuation, i.e. trailing the verse they annotate.
+- Implication:
+  - Marker ownership should be treated as belonging to the preceding verse boundary, not the following one.
+  - `_recover_lc_splits()` comment and marker propagation logic are structurally unsafe under the observed source layout.

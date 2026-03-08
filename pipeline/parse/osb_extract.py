@@ -69,6 +69,49 @@ RE_FOOTNOTE_MARKERS = re.compile(r'[†ω]+')
 # that look like they should be joined (conservative).
 RE_SPLIT_WORD = re.compile(r'(?<=[a-z]) (?=[a-z]{2,}(?:\s|[,;.!?]|$))')
 
+# Lowercase verse-opener words that start OSB/LXX verse sentences.
+# Kept narrow: conjunctions + temporal adverbs only. Pronouns/articles excluded
+# (too many false-positive inline uses).
+_LC_OPENERS = (
+    r'and|then|for|now|so|but|thus|also|when|after|because|therefore|yet|before'
+)
+_LC_VERSE_PAT = re.compile(
+    r'(?<!\w)(\d+)\s+(' + _LC_OPENERS + r')(?=\s)'
+)
+
+# Words that, when immediately preceding a digit, indicate the digit is an
+# inline numeral (age, measurement, count) rather than a verse number.
+_INLINE_NUM_CTX = frozenset({
+    # units of time
+    'year', 'years', 'day', 'days', 'month', 'months', 'night', 'nights',
+    'week', 'weeks', 'hour', 'hours',
+    # units of measure / weight
+    'cubit', 'cubits', 'shekel', 'shekels', 'talent', 'talents',
+    'hin', 'hins', 'ephah', 'mina', 'minas', 'bath', 'baths',
+    'span', 'spans', 'handbreadth', 'handbreadths',
+    # spelled-out round numbers that may precede inline digit sequences
+    'hundred', 'thousand',
+    # prepositions / articles
+    'of', 'with', 'from', 'in', 'at', 'to', 'about', 'over', 'upon',
+    'unto', 'into', 'by', 'a', 'an', 'the',
+    # common verbs preceding counts or ages
+    'was', 'were', 'is', 'are', 'am', 'had', 'has', 'have',
+    'lived', 'live', 'begat', 'bore', 'born',
+    'took', 'take', 'gave', 'give', 'brought', 'bring',
+    'made', 'make', 'set', 'put', 'sent', 'send',
+    'numbered', 'number', 'counted', 'count',
+    # nouns commonly followed by a count
+    'son', 'sons', 'daughter', 'daughters', 'man', 'men', 'woman', 'women',
+    'person', 'persons', 'people', 'tribe', 'tribes',
+    'lamb', 'lambs', 'goat', 'goats', 'ox', 'oxen', 'bull', 'bulls',
+    'ram', 'rams', 'cow', 'cows', 'bird', 'birds', 'pigeon', 'pigeons',
+    'animal', 'animals', 'beast', 'beasts', 'cattle',
+    'stone', 'stones', 'board', 'boards', 'pillar', 'pillars',
+    'curtain', 'curtains', 'hook', 'hooks', 'ring', 'rings',
+    'city', 'cities', 'town', 'towns', 'village', 'villages',
+    'old', 'young', 'age', 'or', 'than', 'more', 'less', 'some', 'each',
+})
+
 # ──────────────────────────────────────────────────────────────────────────────
 # Registry helpers
 # ──────────────────────────────────────────────────────────────────────────────
@@ -187,9 +230,12 @@ def iter_elements(doc) -> Generator[tuple[str, str, str], None, None]:
 
 def extract_footnote_markers(text: str) -> tuple[str, list[str]]:
     """
-    Strip inline footnote markers (†, ω, †ω) from text.
+    Strip inline footnote markers (†, ω, †ω) from verse body text.
     Returns (clean_text, [marker, ...]).
-    Markers are stripped before verse split boundaries only.
+
+    Only call this on the text segment belonging to a single verse; do NOT
+    call it on raw boundary-captured marker strings from RE_VERSE_SPLIT group 1
+    (those belong to the PRECEDING verse and are handled separately).
     """
     markers_found = []
     # Find all marker occurrences and their positions
@@ -205,12 +251,19 @@ def split_verses_in_text(text: str, current_chapter: int, book_code: str,
                           ) -> list[tuple[str, int, int, list[str]]]:
     """
     Split a TextItem into individual verse tuples.
-    Returns list of (anchor_str, chapter, verse, markers).
+    Returns list of (verse_text, chapter, verse_num, markers_list).
 
     The text may contain multiple verses delimited by inline verse numbers.
     Chapter-leading blocks: the first "verse" is verse 1 (no explicit number).
 
-    Returns list of (verse_text, chapter, verse_num, markers_list).
+    Marker ownership model (matches OSB physical layout):
+      OSB markers appear AFTER verse-terminal punctuation, trailing the verse
+      they annotate, immediately before the next verse number.  Shape:
+          "... sentence end. † 18 And the Lord..."
+      RE_VERSE_SPLIT captures these boundary markers in group 1 (markers_str).
+      They are attached to the PRECEDING verse's markers list, not the
+      following verse.  Only markers found within a verse's own body text
+      (via extract_footnote_markers) belong to that verse.
     """
     results = []
 
@@ -228,19 +281,21 @@ def split_verses_in_text(text: str, current_chapter: int, book_code: str,
             results.append((clean, current_chapter, start_verse, markers))
         return results
 
-    # First segment (before first verse-number marker) = start_verse
+    # First segment (before first verse-number boundary) = start_verse.
+    # Markers within this segment belong to start_verse.
     first_seg = parts[0]
     clean, markers = extract_footnote_markers(first_seg)
     clean = fix_split_words(clean).strip()
     if clean:
         results.append((clean, current_chapter, start_verse, markers))
 
-    # Remaining segments come in triples: (marker_str, verse_num_str, verse_text)
+    # Remaining segments come in triples: (markers_str, verse_num_str, verse_text)
+    # markers_str is the boundary-captured marker that TRAILS the previous verse.
     i = 1
     while i + 2 < len(parts):
-        _markers_str = parts[i]      # footnote markers before verse number (may be empty)
-        verse_num_str = parts[i + 1] # digit string
-        verse_text = parts[i + 2]    # text of this verse
+        markers_str  = parts[i]      # boundary marker — belongs to PRECEDING verse
+        verse_num_str = parts[i + 1] # digit string for the verse about to start
+        verse_text   = parts[i + 2]  # body text of that verse
 
         try:
             vnum = int(verse_num_str)
@@ -248,13 +303,134 @@ def split_verses_in_text(text: str, current_chapter: int, book_code: str,
             i += 3
             continue
 
+        # Attach boundary-captured markers to the last emitted verse (they trail it).
+        if markers_str and results:
+            for m in RE_FOOTNOTE_MARKERS.findall(markers_str):
+                results[-1][3].append(m)
+
         clean, markers = extract_footnote_markers(verse_text)
         clean = fix_split_words(clean).strip()
         if clean:
             results.append((clean, current_chapter, vnum, markers))
         i += 3
 
+    results = _recover_lc_splits(results)
     return results
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Lowercase-start verse boundary recovery (second pass)
+# ──────────────────────────────────────────────────────────────────────────────
+
+def _lc_boundary_valid(text_before: str, candidate_num: int, current_vnum: int) -> bool:
+    """
+    Decide whether a lowercase-start verse candidate is a real verse boundary.
+
+    Signal 1 (strongest): text before the digit ends with sentence-terminal
+    punctuation (.  !  ?  "  '  curly equivalents) → always accept.
+
+    Signal 2 (rejection): the word immediately before the digit is in
+    _INLINE_NUM_CTX (age, unit, verb, preposition context) → always reject.
+
+    Signal 3 (sequential): candidate_num is exactly current_vnum + 1 → accept.
+    This catches the most common case (consecutive verse numbers) even when
+    neither Signal 1 nor Signal 2 fires.
+
+    Default: reject (conservative).
+    """
+    if candidate_num <= current_vnum:
+        return False
+
+    stripped = text_before.rstrip()
+
+    # Signal 1 — terminal punctuation
+    if stripped and stripped[-1] in '.!?"\'\u201d\u2019':
+        return True
+
+    # Signal 2 — inline numeral context word
+    words = re.findall(r"[a-zA-Z']+", stripped)
+    if words:
+        last = words[-1].lower().rstrip("'s").rstrip("'")
+        if last in _INLINE_NUM_CTX:
+            return False
+
+    # Signal 3 — strictly sequential
+    if candidate_num == current_vnum + 1:
+        return True
+
+    return False
+
+
+def _lc_split(text: str, vnum: int) -> list[tuple[str, int]]:
+    """
+    Scan text for embedded lowercase-start verse boundaries and split them out.
+
+    Returns ordered list of (segment_text, verse_num).  If no valid boundary
+    is found, returns [(text, vnum)] unchanged.
+
+    The digit from the matched boundary is consumed as the verse number;
+    the verse text begins at the opener word (group 2), not at the digit.
+    This means neither segment contains a spurious inline verse-number prefix.
+    """
+    result: list[tuple[str, int]] = []
+    current_text = text
+    current_vnum = vnum
+
+    while True:
+        best_match = None
+        best_num = None
+        for m in _LC_VERSE_PAT.finditer(current_text):
+            candidate_num = int(m.group(1))
+            text_before = current_text[:m.start()]
+            if _lc_boundary_valid(text_before, candidate_num, current_vnum):
+                best_match = m
+                best_num = candidate_num
+                break  # first valid candidate in left-to-right order
+
+        if best_match is None:
+            result.append((current_text.strip(), current_vnum))
+            break
+
+        before = current_text[:best_match.start()].strip()
+        # Start from the opener word (group 2 start), not from the digit
+        after = current_text[best_match.start(2):].strip()
+        if before:
+            result.append((before, current_vnum))
+        current_text = after
+        current_vnum = best_num
+
+    return result
+
+
+def _recover_lc_splits(
+    results: list[tuple[str, int, int, list[str]]]
+) -> list[tuple[str, int, int, list[str]]]:
+    """
+    Post-process results from split_verses_in_text to recover verse boundaries
+    that begin with lowercase allowlist words (missed by RE_VERSE_SPLIT).
+
+    Marker handling: by the time this runs, boundary-captured markers (those
+    that physically trail a verse in the PDF, captured by RE_VERSE_SPLIT group 1)
+    have already been attached to the correct preceding verse in split_verses_in_text.
+    The `markers` list in each tuple now contains only markers found within that
+    verse's own body text (from extract_footnote_markers).
+
+    When _lc_split subdivides a verse body, body markers are kept on the FIRST
+    sub-segment.  This is conservative: if the marker appeared physically before
+    the lc boundary it is correct; if it appeared after it is a known limitation
+    (the position is lost after text stripping).  Subsequent sub-segments receive
+    an empty markers list.
+    """
+    expanded: list[tuple[str, int, int, list[str]]] = []
+    for (vtext, ch, vnum, markers) in results:
+        sub = _lc_split(vtext, vnum)
+        if len(sub) == 1:
+            expanded.append((vtext, ch, vnum, markers))
+        else:
+            expanded.append((sub[0][0], ch, sub[0][1], markers))
+            for seg_text, seg_vnum in sub[1:]:
+                expanded.append((seg_text, ch, seg_vnum, []))
+    return expanded
 
 
 # ──────────────────────────────────────────────────────────────────────────────
