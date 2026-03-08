@@ -1,0 +1,44 @@
+{
+  "book_code": "LEV",
+  "registry_version": "1.2.0",
+  "ratified_by": null,
+  "ratified_date": null,
+  "residuals": [
+    {
+      "anchor": "LEV.8:18",
+      "classification": "docling_issue",
+      "description": "Auto-generated — verify classification",
+      "blocking": false
+    },
+    {
+      "anchor": "LEV.8:19",
+      "classification": "docling_issue",
+      "description": "Auto-generated — verify classification",
+      "blocking": false
+    },
+    {
+      "anchor": "LEV.8:20",
+      "classification": "docling_issue",
+      "description": "Auto-generated — verify classification",
+      "blocking": false
+    },
+    {
+      "anchor": "LEV.8:21",
+      "classification": "docling_issue",
+      "description": "Auto-generated — verify classification",
+      "blocking": false
+    },
+    {
+      "anchor": "LEV.21:2",
+      "classification": "docling_issue",
+      "description": "Auto-generated — verify classification",
+      "blocking": false
+    },
+    {
+      "anchor": "LEV.21:3",
+      "classification": "docling_issue",
+      "description": "Auto-generated — verify classification",
+      "blocking": false
+    }
+  ]
+}

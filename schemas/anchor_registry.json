@@ -1,11 +1,24 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$comment": "Registry v1.1.0. Changes require version bump, changelog entry, and migration plan.",
-  "registry_version": "1.1.0",
+  "registry_version": "1.2.0",
   "ratified_date": "2026-03-08",
   "registry_changelog": [
-    {"version": "1.0.0", "date": "2026-03-06", "description": "Initial ratification. 76 books, LXX psalm numbering, page ranges."},
-    {"version": "1.1.0", "date": "2026-03-08", "description": "CVC corrections: GEN ch31 55->54; EXO 7 chapters (total 1185->1166). Source: Brenton LXX witness."}
+    {
+      "version": "1.0.0",
+      "date": "2026-03-06",
+      "description": "Initial ratification. 76 books, LXX psalm numbering, page ranges."
+    },
+    {
+      "version": "1.1.0",
+      "date": "2026-03-08",
+      "description": "CVC corrections: GEN ch31 55->54; EXO 7 chapters (total 1185->1166). Source: Brenton LXX witness."
+    },
+    {
+      "version": "1.2.0",
+      "date": "2026-03-08",
+      "description": "CVC correction: LEV 27 chapters (total 713->859). Source: Brenton LXX witness. Previous CVC was unverified plan data."
+    }
   ],
   "total_canonical_books": 76,
   "psalm_numbering": "LXX",
@@ -133,29 +146,29 @@
         16,
         17,
         35,
-        19,
-        30,
+        26,
+        23,
         38,
         36,
         24,
         20,
-        44,
-        29,
-        36,
-        9,
         47,
-        55,
+        8,
+        59,
+        57,
+        33,
+        34,
+        16,
         30,
-        40,
-        9,
-        28,
+        37,
         27,
-        17,
-        17,
-        18,
-        20,
-        19,
-        16
+        24,
+        33,
+        44,
+        23,
+        55,
+        46,
+        34
       ]
     },
     {

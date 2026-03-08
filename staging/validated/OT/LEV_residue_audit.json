@@ -1,0 +1,2000 @@
+{
+  "book_code": "LEV",
+  "total_findings": 249,
+  "fused_article": 218,
+  "fused_compound": 31,
+  "findings": [
+    {
+      "anchor": "LEV.1:3",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.7017,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.1:9",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.7024,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.1:9",
+      "osb_token": "asacrifice",
+      "brenton_context": "a sacrifice",
+      "classification": "fused_article",
+      "verse_similarity": 0.7024,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.1:10",
+      "osb_token": "amale",
+      "brenton_context": "a male",
+      "classification": "fused_article",
+      "verse_similarity": 0.6538,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.1:13",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.7979,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.1:13",
+      "osb_token": "asacrifice",
+      "brenton_context": "a sacrifice",
+      "classification": "fused_article",
+      "verse_similarity": 0.7979,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.1:14",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.5692,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.1:17",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.13,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.1:17",
+      "osb_token": "asacrifice",
+      "brenton_context": "a sacrifice",
+      "classification": "fused_article",
+      "verse_similarity": 0.13,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.1:17",
+      "osb_token": "asweet",
+      "brenton_context": "a sweet",
+      "classification": "fused_article",
+      "verse_similarity": 0.13,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:1",
+      "osb_token": "asoul",
+      "brenton_context": "a soul",
+      "classification": "fused_article",
+      "verse_similarity": 0.7673,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:1",
+      "osb_token": "agift",
+      "brenton_context": "a gift",
+      "classification": "fused_article",
+      "verse_similarity": 0.7673,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:2",
+      "osb_token": "asacrifice",
+      "brenton_context": "a sacrifice",
+      "classification": "fused_article",
+      "verse_similarity": 0.1449,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:4",
+      "osb_token": "agift",
+      "brenton_context": "a gift",
+      "classification": "fused_article",
+      "verse_similarity": 0.5383,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:4",
+      "osb_token": "agift",
+      "brenton_context": "a gift",
+      "classification": "fused_article",
+      "verse_similarity": 0.5383,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:5",
+      "osb_token": "apan",
+      "brenton_context": "a pan",
+      "classification": "fused_article",
+      "verse_similarity": 0.5446,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:9",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.6706,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:12",
+      "osb_token": "asweet",
+      "brenton_context": "a sweet",
+      "classification": "fused_article",
+      "verse_similarity": 0.6589,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:14",
+      "osb_token": "firstfruits",
+      "brenton_context": "first fruits",
+      "classification": "fused_compound",
+      "verse_similarity": 0.5618,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:14",
+      "osb_token": "firstfruits",
+      "brenton_context": "first fruits",
+      "classification": "fused_compound",
+      "verse_similarity": 0.5618,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:14",
+      "osb_token": "firstfruits",
+      "brenton_context": "first fruits",
+      "classification": "fused_compound",
+      "verse_similarity": 0.5618,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.2:16",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.7698,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.3:1",
+      "osb_token": "apeace",
+      "brenton_context": "a peace",
+      "classification": "fused_article",
+      "verse_similarity": 0.793,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.3:3",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.662,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.3:5",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.5071,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.3:7",
+      "osb_token": "alamb",
+      "brenton_context": "a lamb",
+      "classification": "fused_article",
+      "verse_similarity": 0.5915,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.3:9",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.0317,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.3:11",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.7,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.3:16",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.8185,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.3:17",
+      "osb_token": "aperpetual",
+      "brenton_context": "a perpetual",
+      "classification": "fused_article",
+      "verse_similarity": 0.7639,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.4:2",
+      "osb_token": "asoul",
+      "brenton_context": "a soul",
+      "classification": "fused_article",
+      "verse_similarity": 0.4966,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.4:12",
+      "osb_token": "aclean",
+      "brenton_context": "a clean",
+      "classification": "fused_article",
+      "verse_similarity": 0.5774,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.4:22",
+      "osb_token": "aruler",
+      "brenton_context": "a ruler",
+      "classification": "fused_article",
+      "verse_similarity": 0.6109,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.4:23",
+      "osb_token": "akid",
+      "brenton_context": "a kid",
+      "classification": "fused_article",
+      "verse_similarity": 0.7258,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.4:23",
+      "osb_token": "amale",
+      "brenton_context": "a male",
+      "classification": "fused_article",
+      "verse_similarity": 0.7258,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.4:24",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.8519,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.4:28",
+      "osb_token": "akid",
+      "brenton_context": "a kid",
+      "classification": "fused_article",
+      "verse_similarity": 0.6104,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.4:28",
+      "osb_token": "afemale",
+      "brenton_context": "a female",
+      "classification": "fused_article",
+      "verse_similarity": 0.6104,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.4:32",
+      "osb_token": "afemale",
+      "brenton_context": "a female",
+      "classification": "fused_article",
+      "verse_similarity": 0.7619,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.4:35",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.5644,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:1",
+      "osb_token": "asoul",
+      "brenton_context": "a soul",
+      "classification": "fused_article",
+      "verse_similarity": 0.5605,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:1",
+      "osb_token": "awitness",
+      "brenton_context": "a witness",
+      "classification": "fused_article",
+      "verse_similarity": 0.5605,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:4",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.0965,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:6",
+      "osb_token": "akid",
+      "brenton_context": "a kid",
+      "classification": "fused_article",
+      "verse_similarity": 0.119,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:6",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.119,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:7",
+      "osb_token": "asheep",
+      "brenton_context": "a sheep",
+      "classification": "fused_article",
+      "verse_similarity": 0.8021,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:7",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.8021,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:9",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.8743,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:10",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.6908,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:11",
+      "osb_token": "apair",
+      "brenton_context": "a pair",
+      "classification": "fused_article",
+      "verse_similarity": 0.0189,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:11",
+      "osb_token": "turtledoves",
+      "brenton_context": "turtle doves",
+      "classification": "fused_compound",
+      "verse_similarity": 0.0189,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:11",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.0189,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:11",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.0189,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:12",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.8278,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:15",
+      "osb_token": "aram",
+      "brenton_context": "a ram",
+      "classification": "fused_article",
+      "verse_similarity": 0.0395,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:18",
+      "osb_token": "aram",
+      "brenton_context": "a ram",
+      "classification": "fused_article",
+      "verse_similarity": 0.1664,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:21",
+      "osb_token": "adeposit",
+      "brenton_context": "a deposit",
+      "classification": "fused_article",
+      "verse_similarity": 0.0357,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.5:25",
+      "osb_token": "aram",
+      "brenton_context": "a ram",
+      "classification": "fused_article",
+      "verse_similarity": 0.6097,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.6:4",
+      "osb_token": "aclean",
+      "brenton_context": "a clean",
+      "classification": "fused_article",
+      "verse_similarity": 0.626,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.6:8",
+      "osb_token": "asweet",
+      "brenton_context": "a sweet",
+      "classification": "fused_article",
+      "verse_similarity": 0.1181,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.6:8",
+      "osb_token": "amemorial",
+      "brenton_context": "a memorial",
+      "classification": "fused_article",
+      "verse_similarity": 0.1181,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.6:9",
+      "osb_token": "aholy",
+      "brenton_context": "a holy",
+      "classification": "fused_article",
+      "verse_similarity": 0.7782,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.6:14",
+      "osb_token": "afrying",
+      "brenton_context": "a frying",
+      "classification": "fused_article",
+      "verse_similarity": 0.4465,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.6:14",
+      "osb_token": "asweet",
+      "brenton_context": "a sweet",
+      "classification": "fused_article",
+      "verse_similarity": 0.4465,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.6:16",
+      "osb_token": "apriest",
+      "brenton_context": "a priest",
+      "classification": "fused_article",
+      "verse_similarity": 0.7407,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.6:19",
+      "osb_token": "aholy",
+      "brenton_context": "a holy",
+      "classification": "fused_article",
+      "verse_similarity": 0.9224,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.6:20",
+      "osb_token": "everyone",
+      "brenton_context": "every one",
+      "classification": "fused_compound",
+      "verse_similarity": 0.6452,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.7:9",
+      "osb_token": "afrying",
+      "brenton_context": "a frying",
+      "classification": "fused_article",
+      "verse_similarity": 0.4308,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.7:16",
+      "osb_token": "avow",
+      "brenton_context": "a vow",
+      "classification": "fused_article",
+      "verse_similarity": 0.321,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.7:25",
+      "osb_token": "aburnt",
+      "brenton_context": "a burnt",
+      "classification": "fused_article",
+      "verse_similarity": 0.6034,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.7:32",
+      "osb_token": "achoice",
+      "brenton_context": "a choice",
+      "classification": "fused_article",
+      "verse_similarity": 0.6147,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.9:2",
+      "osb_token": "ayoung",
+      "brenton_context": "a young",
+      "classification": "fused_article",
+      "verse_similarity": 0.6867,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.9:2",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.6867,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.9:2",
+      "osb_token": "aram",
+      "brenton_context": "a ram",
+      "classification": "fused_article",
+      "verse_similarity": 0.6867,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.9:2",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.6867,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.9:3",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.7354,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.9:3",
+      "osb_token": "ayoung",
+      "brenton_context": "a young",
+      "classification": "fused_article",
+      "verse_similarity": 0.7354,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.9:3",
+      "osb_token": "alamb",
+      "brenton_context": "a lamb",
+      "classification": "fused_article",
+      "verse_similarity": 0.7354,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.9:3",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.7354,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.9:4",
+      "osb_token": "aram",
+      "brenton_context": "a ram",
+      "classification": "fused_article",
+      "verse_similarity": 0.791,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.9:4",
+      "osb_token": "today",
+      "brenton_context": "to day",
+      "classification": "fused_article",
+      "verse_similarity": 0.791,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.9:21",
+      "osb_token": "achoice",
+      "brenton_context": "a choice",
+      "classification": "fused_article",
+      "verse_similarity": 0.7672,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.10:19",
+      "osb_token": "today",
+      "brenton_context": "to day",
+      "classification": "fused_article",
+      "verse_similarity": 0.2788,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.10:19",
+      "osb_token": "today",
+      "brenton_context": "to day",
+      "classification": "fused_article",
+      "verse_similarity": 0.2788,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.11:24",
+      "osb_token": "everyone",
+      "brenton_context": "every one",
+      "classification": "fused_compound",
+      "verse_similarity": 0.3333,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.11:34",
+      "osb_token": "avessel",
+      "brenton_context": "a vessel",
+      "classification": "fused_article",
+      "verse_similarity": 0.4966,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.11:35",
+      "osb_token": "everything",
+      "brenton_context": "every thing",
+      "classification": "fused_compound",
+      "verse_similarity": 0.711,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:2",
+      "osb_token": "amale",
+      "brenton_context": "a male",
+      "classification": "fused_article",
+      "verse_similarity": 0.218,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:5",
+      "osb_token": "afemale",
+      "brenton_context": "a female",
+      "classification": "fused_article",
+      "verse_similarity": 0.5225,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:6",
+      "osb_token": "ason",
+      "brenton_context": "a son",
+      "classification": "fused_article",
+      "verse_similarity": 0.1657,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:6",
+      "osb_token": "adaughter",
+      "brenton_context": "a daughter",
+      "classification": "fused_article",
+      "verse_similarity": 0.1657,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:6",
+      "osb_token": "alamb",
+      "brenton_context": "a lamb",
+      "classification": "fused_article",
+      "verse_similarity": 0.1657,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:6",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.1657,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:6",
+      "osb_token": "ayoung",
+      "brenton_context": "a young",
+      "classification": "fused_article",
+      "verse_similarity": 0.1657,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:6",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.1657,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:7",
+      "osb_token": "amale",
+      "brenton_context": "a male",
+      "classification": "fused_article",
+      "verse_similarity": 0.7592,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:7",
+      "osb_token": "afemale",
+      "brenton_context": "a female",
+      "classification": "fused_article",
+      "verse_similarity": 0.7592,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:8",
+      "osb_token": "alamb",
+      "brenton_context": "a lamb",
+      "classification": "fused_article",
+      "verse_similarity": 0.0595,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:8",
+      "osb_token": "turtledoves",
+      "brenton_context": "turtle doves",
+      "classification": "fused_compound",
+      "verse_similarity": 0.0595,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:8",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.0595,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.12:8",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.0595,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.13:9",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.5315,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.13:19",
+      "osb_token": "awhite",
+      "brenton_context": "a white",
+      "classification": "fused_article",
+      "verse_similarity": 0.64,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.13:28",
+      "osb_token": "ascar",
+      "brenton_context": "a scar",
+      "classification": "fused_article",
+      "verse_similarity": 0.1436,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.13:29",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.6879,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.13:30",
+      "osb_token": "aleprosy",
+      "brenton_context": "a leprosy",
+      "classification": "fused_article",
+      "verse_similarity": 0.0866,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.13:38",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.5778,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.13:44",
+      "osb_token": "aleprous",
+      "brenton_context": "a leprous",
+      "classification": "fused_article",
+      "verse_similarity": 0.8936,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.13:47",
+      "osb_token": "agarment",
+      "brenton_context": "a garment",
+      "classification": "fused_article",
+      "verse_similarity": 0.2659,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.14:9",
+      "osb_token": "eyebrows",
+      "brenton_context": "eye brows",
+      "classification": "fused_compound",
+      "verse_similarity": 0.1872,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.14:12",
+      "osb_token": "atrespass",
+      "brenton_context": "a trespass",
+      "classification": "fused_article",
+      "verse_similarity": 0.8784,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.14:22",
+      "osb_token": "turtledoves",
+      "brenton_context": "turtle doves",
+      "classification": "fused_compound",
+      "verse_similarity": 0.7279,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.14:22",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.7279,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.14:30",
+      "osb_token": "turtledoves",
+      "brenton_context": "turtle doves",
+      "classification": "fused_compound",
+      "verse_similarity": 0.4477,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.14:34",
+      "osb_token": "apossession",
+      "brenton_context": "a possession",
+      "classification": "fused_article",
+      "verse_similarity": 0.7658,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.14:55",
+      "osb_token": "ahouse",
+      "brenton_context": "a house",
+      "classification": "fused_article",
+      "verse_similarity": 0.2363,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.15:14",
+      "osb_token": "turtledoves",
+      "brenton_context": "turtle doves",
+      "classification": "fused_compound",
+      "verse_similarity": 0.6202,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.15:15",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.8442,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.15:15",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.8442,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.15:18",
+      "osb_token": "awoman",
+      "brenton_context": "a woman",
+      "classification": "fused_article",
+      "verse_similarity": 0.6288,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.15:18",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.6288,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.15:20",
+      "osb_token": "everything",
+      "brenton_context": "every thing",
+      "classification": "fused_compound",
+      "verse_similarity": 0.7382,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.15:20",
+      "osb_token": "everything",
+      "brenton_context": "every thing",
+      "classification": "fused_compound",
+      "verse_similarity": 0.7382,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.15:25",
+      "osb_token": "awoman",
+      "brenton_context": "a woman",
+      "classification": "fused_article",
+      "verse_similarity": 0.073,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.15:30",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.8389,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.15:30",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.8389,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.16:3",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.751,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.16:3",
+      "osb_token": "aram",
+      "brenton_context": "a ram",
+      "classification": "fused_article",
+      "verse_similarity": 0.751,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.16:3",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.751,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.16:4",
+      "osb_token": "alinen",
+      "brenton_context": "a linen",
+      "classification": "fused_article",
+      "verse_similarity": 0.0402,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.16:5",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.8958,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.16:5",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.8958,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.16:9",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.7245,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.16:10",
+      "osb_token": "scapegoat",
+      "brenton_context": "scape goat",
+      "classification": "fused_compound",
+      "verse_similarity": 0.0375,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.16:10",
+      "osb_token": "scapegoat",
+      "brenton_context": "scape goat",
+      "classification": "fused_compound",
+      "verse_similarity": 0.0375,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.16:31",
+      "osb_token": "arest",
+      "brenton_context": "a rest",
+      "classification": "fused_article",
+      "verse_similarity": 0.6509,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.17:3",
+      "osb_token": "asheep",
+      "brenton_context": "a sheep",
+      "classification": "fused_article",
+      "verse_similarity": 0.7278,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.17:3",
+      "osb_token": "agoat",
+      "brenton_context": "a goat",
+      "classification": "fused_article",
+      "verse_similarity": 0.7278,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.17:4",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.0284,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.17:4",
+      "osb_token": "asweet",
+      "brenton_context": "a sweet",
+      "classification": "fused_article",
+      "verse_similarity": 0.0284,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.17:4",
+      "osb_token": "agift",
+      "brenton_context": "a gift",
+      "classification": "fused_article",
+      "verse_similarity": 0.0284,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.17:6",
+      "osb_token": "asweet",
+      "brenton_context": "a sweet",
+      "classification": "fused_article",
+      "verse_similarity": 0.8448,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.17:8",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.8037,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.18:5",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.8727,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.18:8",
+      "osb_token": "father'swife",
+      "brenton_context": "father's wife",
+      "classification": "fused_compound",
+      "verse_similarity": 0.6705,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.18:8",
+      "osb_token": "father'snakedness",
+      "brenton_context": "father's nakedness",
+      "classification": "fused_compound",
+      "verse_similarity": 0.6705,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.18:14",
+      "osb_token": "father'sbrother",
+      "brenton_context": "father's brother",
+      "classification": "fused_compound",
+      "verse_similarity": 0.7444,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.18:17",
+      "osb_token": "awoman",
+      "brenton_context": "a woman",
+      "classification": "fused_article",
+      "verse_similarity": 0.0743,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.18:17",
+      "osb_token": "son'sdaughter",
+      "brenton_context": "son's daughter",
+      "classification": "fused_compound",
+      "verse_similarity": 0.0743,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.18:17",
+      "osb_token": "daughter'sdaughter",
+      "brenton_context": "daughter's daughter",
+      "classification": "fused_compound",
+      "verse_similarity": 0.0743,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.18:18",
+      "osb_token": "arival",
+      "brenton_context": "a rival",
+      "classification": "fused_article",
+      "verse_similarity": 0.6441,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.18:19",
+      "osb_token": "awoman",
+      "brenton_context": "a woman",
+      "classification": "fused_article",
+      "verse_similarity": 0.4393,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.18:21",
+      "osb_token": "aruler",
+      "brenton_context": "a ruler",
+      "classification": "fused_article",
+      "verse_similarity": 0.6667,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.18:22",
+      "osb_token": "awoman",
+      "brenton_context": "a woman",
+      "classification": "fused_article",
+      "verse_similarity": 0.8571,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.19:5",
+      "osb_token": "apeace",
+      "brenton_context": "a peace",
+      "classification": "fused_article",
+      "verse_similarity": 0.7923,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.19:14",
+      "osb_token": "astumbling",
+      "brenton_context": "a stumbling",
+      "classification": "fused_article",
+      "verse_similarity": 0.7338,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.19:19",
+      "osb_token": "adifferent",
+      "brenton_context": "a different",
+      "classification": "fused_article",
+      "verse_similarity": 0.0293,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.19:20",
+      "osb_token": "awoman",
+      "brenton_context": "a woman",
+      "classification": "fused_article",
+      "verse_similarity": 0.0123,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.19:20",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.0123,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.19:21",
+      "osb_token": "aram",
+      "brenton_context": "a ram",
+      "classification": "fused_article",
+      "verse_similarity": 0.8443,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.19:21",
+      "osb_token": "atrespass",
+      "brenton_context": "a trespass",
+      "classification": "fused_article",
+      "verse_similarity": 0.8443,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.19:27",
+      "osb_token": "around",
+      "brenton_context": "a round",
+      "classification": "fused_article",
+      "verse_similarity": 0.7253,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.20:11",
+      "osb_token": "father'swife",
+      "brenton_context": "father's wife",
+      "classification": "fused_compound",
+      "verse_similarity": 0.7396,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.20:11",
+      "osb_token": "father'snakedness",
+      "brenton_context": "father's nakedness",
+      "classification": "fused_compound",
+      "verse_similarity": 0.7396,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.20:13",
+      "osb_token": "amale",
+      "brenton_context": "a male",
+      "classification": "fused_article",
+      "verse_similarity": 0.5714,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.20:13",
+      "osb_token": "awoman",
+      "brenton_context": "a woman",
+      "classification": "fused_article",
+      "verse_similarity": 0.5714,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.20:14",
+      "osb_token": "awoman",
+      "brenton_context": "a woman",
+      "classification": "fused_article",
+      "verse_similarity": 0.5952,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.20:17",
+      "osb_token": "areproach",
+      "brenton_context": "a reproach",
+      "classification": "fused_article",
+      "verse_similarity": 0.0186,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.20:17",
+      "osb_token": "sister'snakedness",
+      "brenton_context": "sister's nakedness",
+      "classification": "fused_compound",
+      "verse_similarity": 0.0186,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.20:18",
+      "osb_token": "awoman",
+      "brenton_context": "a woman",
+      "classification": "fused_article",
+      "verse_similarity": 0.0317,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.20:19",
+      "osb_token": "father'ssister",
+      "brenton_context": "father's sister",
+      "classification": "fused_compound",
+      "verse_similarity": 0.7219,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.20:24",
+      "osb_token": "aland",
+      "brenton_context": "a land",
+      "classification": "fused_article",
+      "verse_similarity": 0.9125,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.21:7",
+      "osb_token": "awoman",
+      "brenton_context": "a woman",
+      "classification": "fused_article",
+      "verse_similarity": 0.7616,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.21:13",
+      "osb_token": "awife",
+      "brenton_context": "a wife",
+      "classification": "fused_article",
+      "verse_similarity": 0.6042,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.21:14",
+      "osb_token": "awidow",
+      "brenton_context": "a widow",
+      "classification": "fused_article",
+      "verse_similarity": 0.6406,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.21:14",
+      "osb_token": "avirgin",
+      "brenton_context": "a virgin",
+      "classification": "fused_article",
+      "verse_similarity": 0.6406,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.21:18",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.3665,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.21:18",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.3665,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.21:18",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.3665,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.22:11",
+      "osb_token": "asoul",
+      "brenton_context": "a soul",
+      "classification": "fused_article",
+      "verse_similarity": 0.605,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.22:13",
+      "osb_token": "awidow",
+      "brenton_context": "a widow",
+      "classification": "fused_article",
+      "verse_similarity": 0.0308,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.22:13",
+      "osb_token": "father'shouse",
+      "brenton_context": "father's house",
+      "classification": "fused_compound",
+      "verse_similarity": 0.0308,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.22:21",
+      "osb_token": "apeace",
+      "brenton_context": "a peace",
+      "classification": "fused_article",
+      "verse_similarity": 0.0877,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.22:23",
+      "osb_token": "asheep",
+      "brenton_context": "a sheep",
+      "classification": "fused_article",
+      "verse_similarity": 0.6254,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.22:27",
+      "osb_token": "asheep",
+      "brenton_context": "a sheep",
+      "classification": "fused_article",
+      "verse_similarity": 0.0682,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.22:27",
+      "osb_token": "agoat",
+      "brenton_context": "a goat",
+      "classification": "fused_article",
+      "verse_similarity": 0.0682,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.22:29",
+      "osb_token": "asacrifice",
+      "brenton_context": "a sacrifice",
+      "classification": "fused_article",
+      "verse_similarity": 0.886,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.22:29",
+      "osb_token": "avow",
+      "brenton_context": "a vow",
+      "classification": "fused_article",
+      "verse_similarity": 0.886,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:3",
+      "osb_token": "aholy",
+      "brenton_context": "a holy",
+      "classification": "fused_article",
+      "verse_similarity": 0.8564,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:7",
+      "osb_token": "aholy",
+      "brenton_context": "a holy",
+      "classification": "fused_article",
+      "verse_similarity": 0.8313,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:8",
+      "osb_token": "aholy",
+      "brenton_context": "a holy",
+      "classification": "fused_article",
+      "verse_similarity": 0.8729,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:10",
+      "osb_token": "asheaf",
+      "brenton_context": "a sheaf",
+      "classification": "fused_article",
+      "verse_similarity": 0.602,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:10",
+      "osb_token": "firstfruits",
+      "brenton_context": "first fruits",
+      "classification": "fused_compound",
+      "verse_similarity": 0.602,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:12",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.7418,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:13",
+      "osb_token": "asacrifice",
+      "brenton_context": "a sacrifice",
+      "classification": "fused_article",
+      "verse_similarity": 0.6769,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:13",
+      "osb_token": "ahin",
+      "brenton_context": "a hin",
+      "classification": "fused_article",
+      "verse_similarity": 0.6769,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:16",
+      "osb_token": "anew",
+      "brenton_context": "a new",
+      "classification": "fused_article",
+      "verse_similarity": 0.4749,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:17",
+      "osb_token": "firstfruits",
+      "brenton_context": "first fruits",
+      "classification": "fused_compound",
+      "verse_similarity": 0.72,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:18",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.0935,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:18",
+      "osb_token": "asacrifice",
+      "brenton_context": "a sacrifice",
+      "classification": "fused_article",
+      "verse_similarity": 0.0935,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:19",
+      "osb_token": "asin",
+      "brenton_context": "a sin",
+      "classification": "fused_article",
+      "verse_similarity": 0.8261,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:19",
+      "osb_token": "apeace",
+      "brenton_context": "a peace",
+      "classification": "fused_article",
+      "verse_similarity": 0.8261,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:20",
+      "osb_token": "firstfruits",
+      "brenton_context": "first fruits",
+      "classification": "fused_compound",
+      "verse_similarity": 0.7826,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:24",
+      "osb_token": "arest",
+      "brenton_context": "a rest",
+      "classification": "fused_article",
+      "verse_similarity": 0.8947,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:24",
+      "osb_token": "amemorial",
+      "brenton_context": "a memorial",
+      "classification": "fused_article",
+      "verse_similarity": 0.8947,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:24",
+      "osb_token": "aholy",
+      "brenton_context": "a holy",
+      "classification": "fused_article",
+      "verse_similarity": 0.8947,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:25",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.8889,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:27",
+      "osb_token": "aholy",
+      "brenton_context": "a holy",
+      "classification": "fused_article",
+      "verse_similarity": 0.9041,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:27",
+      "osb_token": "awhole",
+      "brenton_context": "a whole",
+      "classification": "fused_article",
+      "verse_similarity": 0.9041,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:35",
+      "osb_token": "aholy",
+      "brenton_context": "a holy",
+      "classification": "fused_article",
+      "verse_similarity": 0.8519,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:36",
+      "osb_token": "aholy",
+      "brenton_context": "a holy",
+      "classification": "fused_article",
+      "verse_similarity": 0.4762,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:39",
+      "osb_token": "arest",
+      "brenton_context": "a rest",
+      "classification": "fused_article",
+      "verse_similarity": 0.2511,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.23:39",
+      "osb_token": "arest",
+      "brenton_context": "a rest",
+      "classification": "fused_article",
+      "verse_similarity": 0.2511,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.24:4",
+      "osb_token": "lampstand",
+      "brenton_context": "lamp stand",
+      "classification": "fused_compound",
+      "verse_similarity": 0.586,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.24:7",
+      "osb_token": "amemorial",
+      "brenton_context": "a memorial",
+      "classification": "fused_article",
+      "verse_similarity": 0.6231,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.24:9",
+      "osb_token": "aperpetual",
+      "brenton_context": "a perpetual",
+      "classification": "fused_article",
+      "verse_similarity": 0.7863,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.24:10",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.3152,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.24:17",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.7132,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.24:21",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.697,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.25:5",
+      "osb_token": "ayear",
+      "brenton_context": "a year",
+      "classification": "fused_article",
+      "verse_similarity": 0.518,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.25:14",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.6286,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.25:17",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.8058,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.25:29",
+      "osb_token": "awalled",
+      "brenton_context": "a walled",
+      "classification": "fused_article",
+      "verse_similarity": 0.4917,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.25:29",
+      "osb_token": "afull",
+      "brenton_context": "a full",
+      "classification": "fused_article",
+      "verse_similarity": 0.4917,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.25:30",
+      "osb_token": "afull",
+      "brenton_context": "a full",
+      "classification": "fused_article",
+      "verse_similarity": 0.0323,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.25:33",
+      "osb_token": "ahouse",
+      "brenton_context": "a house",
+      "classification": "fused_article",
+      "verse_similarity": 0.0382,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.25:35",
+      "osb_token": "asojourner",
+      "brenton_context": "a sojourner",
+      "classification": "fused_article",
+      "verse_similarity": 0.6144,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.25:39",
+      "osb_token": "aslave",
+      "brenton_context": "a slave",
+      "classification": "fused_article",
+      "verse_similarity": 0.5446,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.25:40",
+      "osb_token": "asojourner",
+      "brenton_context": "a sojourner",
+      "classification": "fused_article",
+      "verse_similarity": 0.5507,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.26:1",
+      "osb_token": "apillar",
+      "brenton_context": "a pillar",
+      "classification": "fused_article",
+      "verse_similarity": 0.1007,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.26:8",
+      "osb_token": "ahundred",
+      "brenton_context": "a hundred",
+      "classification": "fused_article",
+      "verse_similarity": 0.8014,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.26:8",
+      "osb_token": "ahundred",
+      "brenton_context": "a hundred",
+      "classification": "fused_article",
+      "verse_similarity": 0.8014,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:2",
+      "osb_token": "avow",
+      "brenton_context": "a vow",
+      "classification": "fused_article",
+      "verse_similarity": 0.7045,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:3",
+      "osb_token": "amale",
+      "brenton_context": "a male",
+      "classification": "fused_article",
+      "verse_similarity": 0.7692,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:4",
+      "osb_token": "afemale",
+      "brenton_context": "a female",
+      "classification": "fused_article",
+      "verse_similarity": 0.6218,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:5",
+      "osb_token": "amale",
+      "brenton_context": "a male",
+      "classification": "fused_article",
+      "verse_similarity": 0.8583,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:5",
+      "osb_token": "afemale",
+      "brenton_context": "a female",
+      "classification": "fused_article",
+      "verse_similarity": 0.8583,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:6",
+      "osb_token": "amonth",
+      "brenton_context": "a month",
+      "classification": "fused_article",
+      "verse_similarity": 0.8841,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:6",
+      "osb_token": "amale",
+      "brenton_context": "a male",
+      "classification": "fused_article",
+      "verse_similarity": 0.8841,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:6",
+      "osb_token": "afemale",
+      "brenton_context": "a female",
+      "classification": "fused_article",
+      "verse_similarity": 0.8841,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:7",
+      "osb_token": "amale",
+      "brenton_context": "a male",
+      "classification": "fused_article",
+      "verse_similarity": 0.8476,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:7",
+      "osb_token": "afemale",
+      "brenton_context": "a female",
+      "classification": "fused_article",
+      "verse_similarity": 0.8476,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:9",
+      "osb_token": "agift",
+      "brenton_context": "a gift",
+      "classification": "fused_article",
+      "verse_similarity": 0.7417,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:11",
+      "osb_token": "agift",
+      "brenton_context": "a gift",
+      "classification": "fused_article",
+      "verse_similarity": 0.7787,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:16",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.6927,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:22",
+      "osb_token": "afield",
+      "brenton_context": "a field",
+      "classification": "fused_article",
+      "verse_similarity": 0.7628,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:26",
+      "osb_token": "firstborn",
+      "brenton_context": "first born",
+      "classification": "fused_compound",
+      "verse_similarity": 0.7216,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:28",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.1002,
+      "action": "human_review"
+    },
+    {
+      "anchor": "LEV.27:31",
+      "osb_token": "aman",
+      "brenton_context": "a man",
+      "classification": "fused_article",
+      "verse_similarity": 0.8254,
+      "action": "human_review"
+    }
+  ]
+}

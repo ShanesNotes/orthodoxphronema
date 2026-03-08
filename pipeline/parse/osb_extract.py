@@ -741,9 +741,17 @@ class ExtractionState:
             # number (e.g. verse 28 in ch27 triggers false ch28 advance; verse 12
             # in ch11 triggers false ch12 advance).  80% comfortably excludes all
             # known false-advance positions while tolerating up to ~20% missed verses.
+            #
+            # Fallback: if 80% isn't reached but the candidate chapter number is
+            # BELOW our current verse position, verse numbering would go backward
+            # if we treated it as a verse — strong signal of a real chapter boundary.
+            # False advances never trigger this because current_verse ≈ chapter_num−1.
+            backward_signal = (chapter_num < self.current_verse
+                               and self.current_verse >= max_v * 3 // 5)
             if chapter_num == self.current_chapter + 1 and (
                     max_v == 0
-                    or self.current_verse >= max_v * 4 // 5):
+                    or self.current_verse >= max_v * 4 // 5
+                    or backward_signal):
                 self.current_chapter = chapter_num
                 self.current_verse = 0  # reset so next element starts at verse 1
             else:

@@ -67,16 +67,16 @@ def parse_frontmatter(lines: list[str]) -> tuple[dict, int]:
     return fm, i + 1  # skip closing ---
 
 
-def validate_file(path: Path, strict: bool = False) -> list[str]:
+def validate_file(path: Path, strict: bool = False) -> tuple[list[str], list[str]]:
     """
-    Run all validation checks. Returns a list of error/warning strings.
-    Empty list = clean.
+    Run all validation checks. Returns (errors, warnings) lists.
+    Empty lists = clean.
     """
     errors: list[str] = []
     warnings: list[str] = []
 
     if not path.exists():
-        return [f"FAIL  File not found: {path}"]
+        return [f"FAIL  File not found: {path}"], []
 
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines()
@@ -267,11 +267,99 @@ def validate_file(path: Path, strict: bool = False) -> list[str]:
     return errors, warnings
 
 
+def collect_v4_gap_anchors(warnings: list[str], book_code: str) -> list[str]:
+    """Extract missing-verse anchors from V4 gap warnings."""
+    re_v4_gap = re.compile(r'V4\s+Missing verses in ch\.(\d+): jumps from (\d+) to (\d+)')
+    gap_anchors: list[str] = []
+    for w in warnings:
+        m = re_v4_gap.match(w)
+        if not m:
+            continue
+        ch = int(m.group(1))
+        gap_from = int(m.group(2))
+        gap_to = int(m.group(3))
+        for v in range(gap_from + 1, gap_to):
+            gap_anchors.append(f"{book_code}.{ch}:{v}")
+    return gap_anchors
+
+
+def generate_sidecar(path: Path, warnings: list[str], book_code: str) -> Path | None:
+    """Generate a draft residuals sidecar JSON from V4 gap warnings.
+
+    Returns the output path on success, or None if the file already exists
+    or there are no gaps to record.
+    """
+    gap_anchors = collect_v4_gap_anchors(warnings, book_code)
+    if not gap_anchors:
+        print("  SIDECAR  No V4 gaps found — nothing to generate.")
+        return None
+
+    # Determine testament from path or registry
+    testament = None
+    path_str = str(path)
+    if "/OT/" in path_str:
+        testament = "OT"
+    elif "/NT/" in path_str:
+        testament = "NT"
+    else:
+        try:
+            registry = load_registry()
+            for book in registry.get("books", []):
+                if book["code"] == book_code:
+                    testament = book.get("testament")
+                    break
+        except Exception:
+            pass
+    if testament is None:
+        print(f"  SIDECAR  WARN  Could not determine testament for {book_code}; defaulting to OT")
+        testament = "OT"
+
+    # Load registry version
+    registry_version = "unknown"
+    try:
+        registry = load_registry()
+        registry_version = registry.get("registry_version", "unknown")
+    except Exception:
+        pass
+
+    # Build output path
+    out_dir = REPO_ROOT / "staging" / "validated" / testament
+    out_path = out_dir / f"{book_code}_residuals.json"
+
+    if out_path.exists():
+        print(f"  SIDECAR  WARN  Refusing to overwrite existing file: {out_path}")
+        return None
+
+    sidecar = {
+        "book_code": book_code,
+        "registry_version": registry_version,
+        "ratified_by": None,
+        "ratified_date": None,
+        "residuals": [
+            {
+                "anchor": anchor,
+                "classification": "docling_issue",
+                "description": "Auto-generated \u2014 verify classification",
+                "blocking": False,
+            }
+            for anchor in gap_anchors
+        ],
+    }
+
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False) + "\n",
+                        encoding="utf-8")
+    print(f"  SIDECAR  Generated {out_path} with {len(gap_anchors)} residual(s)")
+    return out_path
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Validate a canon Markdown file.")
     parser.add_argument("path", help="Path to the canon .md file")
     parser.add_argument("--strict", action="store_true",
                         help="Treat warnings as errors")
+    parser.add_argument("--generate-sidecar", action="store_true",
+                        help="Generate a draft residuals sidecar JSON from V4 gaps")
     args = parser.parse_args()
 
     path = Path(args.path)
@@ -281,7 +369,6 @@ def main() -> None:
 
     if not errors and not warnings:
         print("\n  ALL CHECKS PASSED\n")
-        sys.exit(0)
     else:
         if warnings:
             print(f"\n  WARNINGS ({len(warnings)}):")
@@ -292,10 +379,19 @@ def main() -> None:
             for e in errors:
                 print(f"    {e}")
             print()
-            sys.exit(1)
-        else:
-            print("\n  PASSED WITH WARNINGS\n")
-            sys.exit(0)
+
+    # Generate sidecar if requested (run even if there are errors)
+    if args.generate_sidecar:
+        book_code = Path(args.path).stem
+        generate_sidecar(path, warnings, book_code)
+
+    if errors:
+        sys.exit(1)
+    elif not errors and not warnings:
+        sys.exit(0)
+    else:
+        print("\n  PASSED WITH WARNINGS\n")
+        sys.exit(0)
 
 
 if __name__ == "__main__":

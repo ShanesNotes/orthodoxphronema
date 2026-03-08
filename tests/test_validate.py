@@ -1,8 +1,9 @@
 """
-test_validate.py — Validation edge cases for validate_canon.py (V4, V9).
+test_validate.py — Validation edge cases for validate_canon.py (V4, V9, sidecar).
 """
 from __future__ import annotations
 
+import json
 import tempfile
 from pathlib import Path
 
@@ -91,3 +92,53 @@ def test_v9_no_false_positive(validate_canon):
     # V9 should fire for bare "4" inside "400"? No — the regex (?<!\d)4(?!\d) won't match
     # because "4" in "400" is preceded/followed by other digits. V9 should NOT fire.
     assert len(v9_errors) == 0
+
+
+def test_generate_sidecar(validate_canon, tmp_path):
+    """--generate-sidecar creates correct JSON from V4 gaps."""
+    # Create a canon file with a gap (v3→v5 missing v4, and v6→v8 missing v7)
+    path = _make_canon_file([
+        (1, 1, "verse one"),
+        (1, 2, "verse two"),
+        (1, 3, "verse three"),
+        (1, 5, "verse five"),
+        (1, 6, "verse six"),
+        (1, 8, "verse eight"),
+    ], book_code="TST")
+
+    errors, warnings = validate_canon.validate_file(Path(path), strict=False)
+
+    # Monkey-patch REPO_ROOT so sidecar writes to tmp_path
+    orig_root = validate_canon.REPO_ROOT
+    validate_canon.REPO_ROOT = tmp_path
+    try:
+        out = validate_canon.generate_sidecar(Path(path), warnings, "TST")
+    finally:
+        validate_canon.REPO_ROOT = orig_root
+
+    assert out is not None
+    assert out.exists()
+    assert out.name == "TST_residuals.json"
+
+    data = json.loads(out.read_text(encoding="utf-8"))
+    assert data["book_code"] == "TST"
+    assert data["registry_version"] is not None
+    assert data["ratified_by"] is None
+    assert data["ratified_date"] is None
+    assert len(data["residuals"]) == 2
+
+    anchors = [r["anchor"] for r in data["residuals"]]
+    assert "TST.1:4" in anchors
+    assert "TST.1:7" in anchors
+
+    for r in data["residuals"]:
+        assert r["classification"] == "docling_issue"
+        assert r["blocking"] is False
+
+    # Safety: calling again should refuse to overwrite
+    validate_canon.REPO_ROOT = tmp_path
+    try:
+        out2 = validate_canon.generate_sidecar(Path(path), warnings, "TST")
+    finally:
+        validate_canon.REPO_ROOT = orig_root
+    assert out2 is None
