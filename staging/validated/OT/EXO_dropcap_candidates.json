@@ -2,8 +2,7 @@
   "book_code": "EXO",
   "total_candidates": 32,
   "confirmed_auto": 19,
-  "ambiguous_human": 0,
-  "human_verified": 13,
+  "ambiguous_human": 13,
   "rejected": 0,
   "ratified": true,
   "candidates": [
@@ -22,11 +21,10 @@
       "residual": "ow aman of the house of Levi went and took as wife adaughter",
       "proposed_repair": "Now aman of the house of Levi went and took as wife adaughter of Levi.",
       "missing_prefix": "Now ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.2727,
       "brenton_verse": "And there was a certain man of the tribe of Levi, who took to wife one of the da",
-      "source": "brenton",
-      "note": "PDF confirmed: drop-cap N (Now)"
+      "source": "brenton"
     },
     {
       "anchor": "EXO.3:1",
@@ -43,55 +41,50 @@
       "residual": "hen Moses answered and said, 'But suppose they will not beli",
       "proposed_repair": "Then Moses answered and said, 'But suppose they will not believe or listen to my",
       "missing_prefix": "Then ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.8519,
       "brenton_verse": "And Moses answered and said, If they believe me not, and do not hearken to my vo",
-      "source": "brenton",
-      "note": "PDF confirmed: drop-cap T (Then). 'hen ' residual is inherently ambiguous (T/W); PDF resolves as T."
+      "source": "brenton"
     },
     {
       "anchor": "EXO.5:1",
       "residual": "ow after this Moses and Aaron went and spoke to Pharaoh, 'Th",
       "proposed_repair": "Now after this Moses and Aaron went and spoke to Pharaoh, 'Thus says the Lord Go",
       "missing_prefix": "Now ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.6087,
       "brenton_verse": "And after this went in Moses and Aaron to Pharao, and they said to him, These th",
-      "source": "brenton",
-      "note": "PDF confirmed: drop-cap N (Now)"
+      "source": "brenton"
     },
     {
       "anchor": "EXO.6:1",
       "residual": "hen the Lord said to Moses, 'Now you shall see what I will d",
       "proposed_repair": "Then the Lord said to Moses, 'Now you shall see what I will do to Pharaoh; for w",
       "missing_prefix": "Then ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.7442,
       "brenton_verse": "And the Lord said to Moses, Now thou shalt see what I will do to Pharao; for he ",
-      "source": "brenton",
-      "note": "PDF confirmed: drop-cap T (Then). 'hen ' residual is inherently ambiguous (T/W); PDF resolves as T."
+      "source": "brenton"
     },
     {
       "anchor": "EXO.7:1",
       "residual": "ow the Lord said to Moses, 'See, I have made you agod to Pha",
       "proposed_repair": "Now the Lord said to Moses, 'See, I have made you agod to Pharaoh, and Aaron you",
       "missing_prefix": "Now ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.6047,
       "brenton_verse": "And the Lord spoke to Moses, saying, Behold, I have made thee a god to Pharao, a",
-      "source": "brenton",
-      "note": "PDF confirmed: drop-cap N (Now)"
+      "source": "brenton"
     },
     {
       "anchor": "EXO.8:1",
       "residual": "gain the Lord spoke to Moses, 'Say to Aaron your brother, 'S",
       "proposed_repair": "Again the Lord spoke to Moses, 'Say to Aaron your brother, 'Stretch out your han",
       "missing_prefix": "Again ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.5778,
       "brenton_verse": "And the Lord said to Moses, Say to Aaron thy brother, Stretch forth with the han",
-      "source": "brenton",
-      "note": "PDF confirmed: drop-cap A (Again)"
+      "source": "brenton"
     },
     {
       "anchor": "EXO.9:1",
@@ -108,11 +101,10 @@
       "residual": "ow the Lord said to Moses, 'Go in to Pharaoh; for I have har",
       "proposed_repair": "Now the Lord said to Moses, 'Go in to Pharaoh; for I have hardened his heart and",
       "missing_prefix": "Now ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.6047,
       "brenton_verse": "And the Lord spoke to Moses, saying, Go in to Pharao: for I have hardened his he",
-      "source": "brenton",
-      "note": "PDF confirmed: drop-cap N (Now)"
+      "source": "brenton"
     },
     {
       "anchor": "EXO.11:1",
@@ -169,11 +161,10 @@
       "residual": "ow they journeyed from Elim, and all the congregation of the",
       "proposed_repair": "Now they journeyed from Elim, and all the congregation of the children of Israel",
       "missing_prefix": "Now ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.6296,
       "brenton_verse": "And they departed from Ælim, and all the congregation of the children of Israel ",
-      "source": "brenton",
-      "note": "Residual 'ow ' unambiguous (N); upgraded from ambiguous_human"
+      "source": "brenton"
     },
     {
       "anchor": "EXO.17:1",
@@ -200,11 +191,10 @@
       "residual": "ow in the third month after the children of Israel departed ",
       "proposed_repair": "Now in the third month after the children of Israel departed from the land of Eg",
       "missing_prefix": "Now ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.6818,
       "brenton_verse": "And in the third month of the departure of the children of Israel out of the lan",
-      "source": "brenton",
-      "note": "Residual 'ow ' unambiguous (N); upgraded from ambiguous_human"
+      "source": "brenton"
     },
     {
       "anchor": "EXO.20:1",
@@ -221,11 +211,10 @@
       "residual": "ow He said to Moses, 'Come up to the Lord, you and Aaron, Na",
       "proposed_repair": "Now He said to Moses, 'Come up to the Lord, you and Aaron, Nadab and Abihu, and ",
       "missing_prefix": "Now ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.5641,
       "brenton_verse": "And to Moses he said, Go up to the Lord, thou and Aaron and Nadab and Abiud, and",
-      "source": "brenton",
-      "note": "Residual 'ow ' unambiguous (N); upgraded from ambiguous_human"
+      "source": "brenton"
     },
     {
       "anchor": "EXO.25:1",
@@ -252,11 +241,10 @@
       "residual": "ow when the people saw that Moses delayed coming down from t",
       "proposed_repair": "Now when the people saw that Moses delayed coming down from the mountain, the pe",
       "missing_prefix": "Now ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.5833,
       "brenton_verse": "And when the people saw that Moses delayed to come down from the mountain, the p",
-      "source": "brenton",
-      "note": "Residual 'ow ' unambiguous (N); upgraded from ambiguous_human"
+      "source": "brenton"
     },
     {
       "anchor": "EXO.33:1",
@@ -293,11 +281,10 @@
       "residual": "ow Bezalel and Aholiab, and every gifted artisan in whom the",
       "proposed_repair": "Now Bezalel and Aholiab, and every gifted artisan in whom the Lord put wisdom an",
       "missing_prefix": "Now ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.6316,
       "brenton_verse": "And Beseleel wrought, and Eliab and every one wise in understanding, to whom was",
-      "source": "brenton",
-      "note": "Residual 'ow ' unambiguous (N); upgraded from ambiguous_human"
+      "source": "brenton"
     },
     {
       "anchor": "EXO.37:1",
@@ -324,11 +311,10 @@
       "residual": "ow all the gold used in all the production of the holy place",
       "proposed_repair": "Now all the gold used in all the production of the holy places was that of the o",
       "missing_prefix": "Now ",
-      "classification": "human_verified",
+      "classification": "ambiguous_human",
       "prefix_score": 0.6667,
       "brenton_verse": "All the gold that was employed for the works according to all the fabrication of",
-      "source": "brenton",
-      "note": "Residual 'ow ' unambiguous (N); upgraded from ambiguous_human"
+      "source": "brenton"
     },
     {
       "anchor": "EXO.40:1",

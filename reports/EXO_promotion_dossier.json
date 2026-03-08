@@ -1,0 +1,132 @@
+{
+  "book_code": "EXO",
+  "testament": "OT",
+  "timestamp": "2026-03-08T14:05:48.742455",
+  "registry_version": "1.1.0",
+  "body_checksum": "58a9f705529670b1ac4476192fcee428c0be873c6a77c83073e0c35b6e435672",
+  "validation": {
+    "V1": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V2": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V3": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V4": {
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.21: jumps from 23 to 26",
+        "V4   Missing verses in ch.25: jumps from 3 to 8",
+        "V4   Missing verses in ch.34: jumps from 6 to 8",
+        "V4   Missing verses in ch.35: jumps from 5 to 9"
+      ]
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 1161/1166 verses (99.6%); gap of 5"
+      ]
+    },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse EXO.21:24 found inside EXO.21:23 at line 741",
+        "V9   Embedded verse EXO.21:25 found inside EXO.21:23 at line 741",
+        "V9   Embedded verse EXO.25:4 found inside EXO.25:3 at line 875",
+        "V9   Embedded verse EXO.25:5 found inside EXO.25:3 at line 875",
+        "V9   Embedded verse EXO.25:6 found inside EXO.25:3 at line 875",
+        "V9   Embedded verse EXO.25:7 found inside EXO.25:3 at line 875",
+        "V9   Embedded verse EXO.34:7 found inside EXO.34:6 at line 1257",
+        "V9   Embedded verse EXO.35:6 found inside EXO.35:5 at line 1301",
+        "V9   Embedded verse EXO.35:7 found inside EXO.35:5 at line 1301",
+        "V9   Embedded verse EXO.35:8 found inside EXO.35:5 at line 1301"
+      ]
+    }
+  },
+  "residuals_sidecar": {
+    "book_code": "EXO",
+    "registry_version": "1.1.0",
+    "ratified_by": "human",
+    "ratified_date": null,
+    "residuals": [
+      {
+        "anchor": "EXO.21:24",
+        "classification": "structural_fused",
+        "description": "Fused into EXO.21:23 \u2014 'eye for eye, tooth for tooth' list continues without line break.",
+        "blocking": true
+      },
+      {
+        "anchor": "EXO.21:25",
+        "classification": "structural_fused",
+        "description": "Fused into EXO.21:23 \u2014 'burn for burn, wound for wound' continues inline.",
+        "blocking": true
+      },
+      {
+        "anchor": "EXO.25:4",
+        "classification": "structural_fused",
+        "description": "Fused into EXO.25:3 \u2014 material list continues without line break.",
+        "blocking": true
+      },
+      {
+        "anchor": "EXO.25:5",
+        "classification": "structural_fused",
+        "description": "Fused into EXO.25:3 \u2014 material list continues without line break.",
+        "blocking": true
+      },
+      {
+        "anchor": "EXO.25:6",
+        "classification": "structural_fused",
+        "description": "Fused into EXO.25:3 \u2014 material list continues without line break.",
+        "blocking": true
+      },
+      {
+        "anchor": "EXO.25:7",
+        "classification": "structural_fused",
+        "description": "Fused into EXO.25:3 \u2014 material list continues without line break.",
+        "blocking": true
+      },
+      {
+        "anchor": "EXO.34:7",
+        "classification": "structural_fused",
+        "description": "Fused into EXO.34:6 \u2014 'preserving righteousness...' fused verb boundary not split.",
+        "blocking": true
+      },
+      {
+        "anchor": "EXO.35:6",
+        "classification": "structural_fused",
+        "description": "Fused into EXO.35:5 \u2014 material list continues without line break.",
+        "blocking": true
+      },
+      {
+        "anchor": "EXO.35:7",
+        "classification": "structural_fused",
+        "description": "Fused into EXO.35:5 \u2014 material list continues without line break.",
+        "blocking": true
+      },
+      {
+        "anchor": "EXO.35:8",
+        "classification": "structural_fused",
+        "description": "Fused into EXO.35:5 \u2014 material list continues without line break.",
+        "blocking": true
+      }
+    ]
+  },
+  "decision": "blocked"
+}

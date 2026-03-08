@@ -1,0 +1,64 @@
+{
+  "book_code": "GEN",
+  "testament": "OT",
+  "timestamp": "2026-03-08T14:05:47.945799",
+  "registry_version": "1.1.0",
+  "body_checksum": "be626fd64be97be52f2a9ee7192f82352016b9a4e7d54e1eaaaca2af288cc8c4",
+  "validation": {
+    "V1": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V2": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V3": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V4": {
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.49: jumps from 1 to 3"
+      ]
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 1529/1532 verses (99.8%); gap of 3"
+      ]
+    },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V9": {
+      "status": "PASS",
+      "messages": []
+    }
+  },
+  "residuals_sidecar": {
+    "book_code": "GEN",
+    "registry_version": "1.1.0",
+    "ratified_by": "human",
+    "ratified_date": null,
+    "residuals": [
+      {
+        "anchor": "GEN.49:2",
+        "classification": "docling_issue",
+        "description": "Poetic-block TextItem boundary. Text present in PDF but not emitted as separate verse.",
+        "blocking": false
+      }
+    ]
+  },
+  "decision": "dry-run"
+}

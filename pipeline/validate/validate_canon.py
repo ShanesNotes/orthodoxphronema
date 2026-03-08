@@ -1,5 +1,5 @@
 """
-validate_canon.py — Canon file validation (V1-V6 checks from memo 03)
+validate_canon.py — Canon file validation (V1-V8 checks)
 
 Validates a staged canon Markdown file before promotion to canon/.
 
@@ -10,6 +10,8 @@ Checks:
     V4  Verse sequence — within each chapter, verses are monotonically increasing
     V5  No article bleed — known article phrases must not appear in the canon file
     V6  Frontmatter present — required YAML fields exist
+    V7  Completeness — total anchors match registry verse counts
+    V8  Heading integrity — no fragment headings in canon text
 
 Usage:
     python3 pipeline/validate/validate_canon.py staging/validated/OT/GEN.md
@@ -165,6 +167,7 @@ def validate_file(path: Path, strict: bool = False) -> list[str]:
         verses_by_chapter.setdefault(ch, []).append((v, lineno))
 
     v4_errors = 0
+    v4_missing_anchors = 0
     for ch, verse_list in sorted(verses_by_chapter.items()):
         prev_v = 0
         for (v, lineno) in verse_list:
@@ -175,9 +178,51 @@ def validate_file(path: Path, strict: bool = False) -> list[str]:
             elif v > prev_v + 1:
                 warnings.append(f"V4   Missing verses in ch.{ch}: jumps from {prev_v} to {v}")
                 v4_errors += 1
+                v4_missing_anchors += v - prev_v - 1
             prev_v = max(prev_v, v)
     if v4_errors == 0:
         print(f"  V4  PASS  Verse order is monotonically increasing in all chapters")
+    elif 0 < v4_missing_anchors <= 100:
+        print(
+            "  V4  INFO  Residual missing-anchor count is "
+            f"{v4_missing_anchors}; consider PDF source spot-check:"
+        )
+        print(f"       python3 pipeline/validate/pdf_edge_case_check.py {path}")
+
+    # ── V9 Embedded verse detection ──────────────────────────────────────────
+    # For each V4 gap, check if the preceding verse line contains embedded
+    # verse numbers for the missing verses (structural one-verse-per-line
+    # violation).
+    re_v4_gap = re.compile(r'V4\s+Missing verses in ch\.(\d+): jumps from (\d+) to (\d+)')
+    v9_errors = 0
+    verse_line_map: dict[str, tuple[int, str]] = {}  # anchor -> (lineno, text)
+    for lineno, line in enumerate(lines[body_start:], start=body_start + 1):
+        m_anc = RE_ANCHOR.match(line)
+        if m_anc:
+            anchor_str = f"{m_anc.group(1)}.{int(m_anc.group(2))}:{int(m_anc.group(3))}"
+            verse_line_map[anchor_str] = (lineno, line)
+
+    for w in warnings:
+        m_gap = re_v4_gap.match(w)
+        if not m_gap:
+            continue
+        gap_ch = int(m_gap.group(1))
+        gap_from = int(m_gap.group(2))
+        gap_to = int(m_gap.group(3))
+        prev_anchor = f"{book_code}.{gap_ch}:{gap_from}"
+        if prev_anchor not in verse_line_map:
+            continue
+        prev_lineno, prev_line = verse_line_map[prev_anchor]
+        for missing_v in range(gap_from + 1, gap_to):
+            # Match bare digit that isn't part of a larger number
+            if re.search(rf'(?<!\d){missing_v}(?!\d)', prev_line):
+                errors.append(
+                    f"V9   Embedded verse {book_code}.{gap_ch}:{missing_v} "
+                    f"found inside {prev_anchor} at line {prev_lineno}"
+                )
+                v9_errors += 1
+    if v9_errors == 0:
+        print(f"  V9  PASS  No embedded verses detected")
 
     # ── V7 Completeness ───────────────────────────────────────────────────────
     if chapter_verse_counts_list:

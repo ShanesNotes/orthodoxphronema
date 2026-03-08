@@ -54,8 +54,17 @@ RE_NAV_STRING = re.compile(
 RE_COMMA_INTS = re.compile(r'^[\d,\s]+$')
 
 # Verse-split boundary within a TextItem:
-# optional footnote markers, then a digit sequence, then space+capital/quote
-RE_VERSE_SPLIT = re.compile(r'([†ω]*)\s*(\d+)\s+(?=[A-Z\'"\u201c\u2018])')
+# optional footnote markers, then a digit sequence, then text start.
+# Case 1: whitespace + uppercase/quote  (original pattern)
+# Case 2: optional whitespace + opening punct + letter  (paren/bracket/quote-fused)
+RE_VERSE_SPLIT = re.compile(
+    r'([†ω]*)\s*(\d+)'
+    r'(?:'
+    r'\s+(?=[A-Z\'"\u201c\u2018])'
+    r'|'
+    r'\s*(?=[(\[\'"\u201c\u2018][A-Za-z])'
+    r')'
+)
 
 # Chapter-leading TextItem: starts with a number (the chapter number) followed
 # by space and then an uppercase letter — no preceding footnote marker.
@@ -70,13 +79,39 @@ RE_FOOTNOTE_MARKERS = re.compile(r'[†ω]+')
 RE_SPLIT_WORD = re.compile(r'(?<=[a-z]) (?=[a-z]{2,}(?:\s|[,;.!?]|$))')
 
 # Lowercase verse-opener words that start OSB/LXX verse sentences.
-# Kept narrow: conjunctions + temporal adverbs only. Pronouns/articles excluded
-# (too many false-positive inline uses).
+# Expanded from Day 9 (14 words) based on source-verified V4 gap analysis
+# (memos 11, 12, 13).  _lc_boundary_valid provides multi-signal protection
+# against false positives from these common words.
 _LC_OPENERS = (
+    # conjunctions + temporal adverbs (original)
     r'and|then|for|now|so|but|thus|also|when|after|because|therefore|yet|before'
+    # subject pronouns
+    r'|he|she|it|we|they|you'
+    # relative / demonstrative
+    r'|that|since|as|which|where|whose|whom'
+    # articles
+    r'|the'
+    # imperatives / interjections
+    r'|behold|let|come'
+    # conditionals
+    r'|if'
+    # clause-starting prepositions
+    r'|to|in|against|opposite|throughout|from|with'
+    # additional conjunctions
+    r'|lest|nor|neither'
+    # participles / verbs common at verse starts
+    r'|saying|entered|spreading|wide|both'
+    # number-words (verse-initial counts like "14 two hundred goats")
+    r'|two|three|four|five|six|seven|eight|nine|ten'
+    r'|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred'
 )
+# Allow optional whitespace + optional opening punctuation between digit and
+# opener.  Handles fused boundaries (2that, 43behold) and paren/quote-fused
+# boundaries (14(for, 5"so).  Group 1 = digit, group 2 = opener word.
+# Trailing \b (word boundary) instead of (?=\s) so openers followed by comma
+# or other punctuation still match (e.g. "43 behold," or "20 saying,").
 _LC_VERSE_PAT = re.compile(
-    r'(?<!\w)(\d+)\s+(' + _LC_OPENERS + r')(?=\s)'
+    r'(?<!\w)(\d+)(?:\s*[(\[\'"\u201c\u2018]*\s*)(' + _LC_OPENERS + r')\b'
 )
 
 # Words that, when immediately preceding a digit, indicate the digit is an
@@ -279,6 +314,9 @@ def split_verses_in_text(text: str, current_chapter: int, book_code: str,
         clean = fix_split_words(clean).strip()
         if clean:
             results.append((clean, current_chapter, start_verse, markers))
+        # Still run lc recovery — the single block may contain lowercase-start
+        # verse boundaries (e.g. "; 2 and that you may tell...")
+        results = _recover_lc_splits(results)
         return results
 
     # First segment (before first verse-number boundary) = start_verse.
@@ -343,18 +381,25 @@ def _lc_boundary_valid(text_before: str, candidate_num: int, current_vnum: int) 
 
     stripped = text_before.rstrip()
 
-    # Signal 1 — terminal punctuation
+    # Signal 1 — terminal punctuation (strong accept)
     if stripped and stripped[-1] in '.!?"\'\u201d\u2019':
         return True
 
-    # Signal 2 — inline numeral context word
+    # Signal 1b — clause-boundary punctuation + sequential (medium accept)
+    # Comma/semicolon/colon before the digit suggests a clause break, not an
+    # inline numeral, when the verse number is also sequential.  This prevents
+    # Signal 2 from falsely rejecting cases like "...were, 5 and said...".
+    if stripped and stripped[-1] in ',;:' and candidate_num == current_vnum + 1:
+        return True
+
+    # Signal 2 — inline numeral context word (reject)
     words = re.findall(r"[a-zA-Z']+", stripped)
     if words:
         last = words[-1].lower().rstrip("'s").rstrip("'")
         if last in _INLINE_NUM_CTX:
             return False
 
-    # Signal 3 — strictly sequential
+    # Signal 3 — strictly sequential (weak accept)
     if candidate_num == current_vnum + 1:
         return True
 
@@ -369,8 +414,8 @@ def _lc_split(text: str, vnum: int) -> list[tuple[str, int]]:
     is found, returns [(text, vnum)] unchanged.
 
     The digit from the matched boundary is consumed as the verse number;
-    the verse text begins at the opener word (group 2), not at the digit.
-    This means neither segment contains a spurious inline verse-number prefix.
+    the verse text begins right after the digit (end of group 1), preserving
+    any opening punctuation (parens, quotes) between digit and opener word.
     """
     result: list[tuple[str, int]] = []
     current_text = text
@@ -392,8 +437,9 @@ def _lc_split(text: str, vnum: int) -> list[tuple[str, int]]:
             break
 
         before = current_text[:best_match.start()].strip()
-        # Start from the opener word (group 2 start), not from the digit
-        after = current_text[best_match.start(2):].strip()
+        # Start from right after the digit (end of group 1), including any
+        # opening punctuation/quotes between digit and opener word
+        after = current_text[best_match.end(1):].strip()
         if before:
             result.append((before, current_vnum))
         current_text = after
@@ -660,7 +706,7 @@ class ExtractionState:
                 # Example: Element N ends mid-sentence ("and"), Element N+1 starts with
                 # prose but contains "† 9 So..." through "15 I will put enmity..." —
                 # all those verses would be lost without re-splitting.
-                if RE_VERSE_SPLIT.search(merged):
+                if RE_VERSE_SPLIT.search(merged) or _LC_VERSE_PAT.search(merged):
                     popped = self.verses.pop()
                     # Also remove any footnote markers already recorded for that anchor
                     self.footnote_markers = [

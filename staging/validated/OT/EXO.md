@@ -6,7 +6,7 @@ canon_position: 2
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-07"
 promote_date: null
-checksum: "e6702dc82d1dd74edc2406320173173d8e568ed757561c93c2aee6c20c84e9a8"
+checksum: "93cae6abc69a223b82c50b14e5d44245a7a9a770b2510cf31c19b5d762b58266"
 status: staged
 deuterocanonical: false
 has_additions: false
@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-EXO.1:1 ow these are the names of the children of Israel who came to Egypt; each man and his household came with Jacob:
+EXO.1:1 Now these are the names of the children of Israel who came to Egypt; each man an
 EXO.1:2 Reuben, Simeon, Levi, and Judah;
 EXO.1:3 Is-sachar, Zebulun, and Benjamin;
 EXO.1:4 Dan, Naphtali, Gad, and Asher.
@@ -22,7 +22,8 @@ EXO.1:5 All those who were the seed of Jacob were seventy-five persons (for Jose
 EXO.1:6 Now Joseph died, as well as all his brothers and all that generation.
 EXO.1:7 Then the children of Israel increased and multiplied, became numerous, and grew exceedingly mighty; and the land was filled with them.
 EXO.1:8 But there arose anew king over Egypt who knew not Joseph.
-EXO.1:9 Then he said to his nation, 'Look, the race of the children of Israel is agreat multitude and is stronger than we; 10 come, let us outwit them, lest they multiply, and it happen in the event of war that they also join our enemies and fight against us and so escape out of the land.'
+EXO.1:9 Then he said to his nation, 'Look, the race of the children of Israel is agreat multitude and is stronger than we;
+EXO.1:10 come, let us outwit them, lest they multiply, and it happen in the event of war that they also join our enemies and fight against us and so escape out of the land.'
 EXO.1:11 Therefore he set taskmasters over them to afflict them in their works; and they built for Pharaoh strong cities -Pithom and Raamses and On, which is Heliopolis.
 EXO.1:12 But the more they humbled them, the more they multiplied and grew; and the Egyptians greatly abhorred the children of Israel.
 EXO.1:13 So the Egyptians tyrannized the children of Israel by force.
@@ -73,7 +74,7 @@ EXO.2:24 So God heard their groaning, and God remembered His covenant with Abrah
 EXO.2:25 Then God looked upon the children of Israel and was made known to them.
 ## Chapter 3
 
-EXO.3:1 ow Moses was tending the sheep of Jethro his father-in-law, the priest of Midian. Then he led them to the back of the desert and came to Horeb, the mountain of God.
+EXO.3:1 Now Moses was tending the sheep of Jethro his father-in-law, the priest of Midia
 EXO.3:2 Then the Angel of the Lord appeared to him in aflame of fire from the midst of abush. So he saw the bush burning with fire, but the bush was not consumed.
 EXO.3:3 So Moses said, 'I will now turn aside and see this great sight, why the bush is not consumed.'
 EXO.3:4 When therefore the Lord saw him turn aside to look, God called to him from the midst of the bush and said, 'Moses! Moses!' Then he said, 'Here I am.'
@@ -103,7 +104,8 @@ EXO.3:22 But every woman shall ask of her neighbor, namely, of her who dwells ne
 EXO.4:1 hen Moses answered and said, 'But suppose they will not believe or listen to my voice; suppose they say, 'The Lord did not appear to you.' '
 EXO.4:2 So the Lord said to him, 'What is in your hand?' He said, 'A rod.'
 EXO.4:3 Thus He said, 'Cast it on the ground.' So he cast it on the ground, and it became aserpent; and Moses fled from it.
-EXO.4:4 Then the Lord said to Moses, 'Reach out your hand and take it by the tail' (so he reached out his hand and caught it, and it became arod in his hand), 5's othey may believe the Lord God of their fathers-the God of Abraham, the God of Isaac, and the God of Jacob-appeared to you.'
+EXO.4:4 Then the Lord said to Moses, 'Reach out your hand and take it by the tail' (so he reached out his hand and caught it, and it became arod in his hand),
+EXO.4:5 's othey may believe the Lord God of their fathers-the God of Abraham, the God of Isaac, and the God of Jacob-appeared to you.'
 EXO.4:6 Furthermore, the Lord said to him, 'Now put your hand in your bosom.' So he put his hand in his bosom, and when he took it out, it was leprous like snow.
 EXO.4:7 Again He said, 'Put your hand in your bosom' (so he put his hand in his bosom again and then removed it; and it was restored to the complexion of his other flesh),
 EXO.4:8 'then it will be, if they do not believe you, nor heed the message of the first sign, they may believe the message of the second.
@@ -196,7 +198,8 @@ EXO.6:26 Now these are the same Aaron and Moses to whom God said, 'Bring out the
 ### God's Instructions to Moses and Aaron
 
 EXO.6:27 These are the ones who spoke to Pharaoh king of Egypt to bring out the children of Israel from Egypt. These are the same Moses and Aaron.
-EXO.6:28 In the day the Lord spoke to Moses in the land of Egypt, 29 the Lord said to him, 'I am the Lord. Speak to Pharaoh king of Egypt everything I tell you.'
+EXO.6:28 In the day the Lord spoke to Moses in the land of Egypt,
+EXO.6:29 the Lord said to him, 'I am the Lord. Speak to Pharaoh king of Egypt everything I tell you.'
 EXO.6:30 But Moses said before the Lord, 'Behold, I am weak in speech; and how shall Pharaoh heed me?'
 ## Chapter 7
 
@@ -276,8 +279,9 @@ EXO.8:27 Thus the Lord did as Moses said and removed the dog-fly from Pharaoh, h
 EXO.8:28 But Pharaoh hardened his heart at this time also; neither would he let the people go.
 ## Chapter 9
 
-EXO.9:1 ow the Lord said to Moses, 'Go to Pharaoh and you shall say to him, 'Thus says the Lord God of the Hebrews: 'Let My people go so they may serve Me.
-EXO.9:2 But if you refuse to let them go and still hold them, 3 behold, the hand of the Lord will be on your cattle in the fields -on the horses, the donkeys, the camels, the oxen, and the sheep-avery severe pestilence.
+EXO.9:1 Now the Lord said to Moses, 'Go to Pharaoh and you shall say to him, 'Thus says 
+EXO.9:2 But if you refuse to let them go and still hold them,
+EXO.9:3 behold, the hand of the Lord will be on your cattle in the fields -on the horses, the donkeys, the camels, the oxen, and the sheep-avery severe pestilence.
 EXO.9:4 Then I will make aclear distinction between the cattle of Israel and the cattle of Egypt. So nothing shall die of all that belongs to the children of Israel.' ' '
 EXO.9:5 Then God appointed aset time, saying, 'Tomorrow the Lord will do this thing in the land.'
 EXO.9:6 So the Lord did this thing on the next day, and all the cattle of the Egyptians died; but of the cattle of the children of Israel, not one died.
@@ -304,7 +308,8 @@ EXO.9:20 Thus he who feared the word of the Lord among the servants of Pharaoh g
 EXO.9:21 But he who did not regard the word of the Lord left his servants and cattle in the field.
 EXO.9:22 Then the Lord said to Moses, 'Stretch out your hand toward heaven, and there shall be hail in all the land of Egypt-both on man and cattle, and on every herb of the field, throughout the land of Egypt.'
 EXO.9:23 So Moses stretched out his rod toward heaven; and the Lord sent thunder and hail, and fire darted to the ground. Thus the Lord rained hail on the land of Egypt.
-EXO.9:24 This hail and the fire mingled with it were so very heavy, there was none like it in all the land of Egypt since it became anation; and 25 throughout the whole land of Egypt it struck both man and cattle and every herb of the field, and broke every tree of the field.
+EXO.9:24 This hail and the fire mingled with it were so very heavy, there was none like it in all the land of Egypt since it became anation; and
+EXO.9:25 throughout the whole land of Egypt it struck both man and cattle and every herb of the field, and broke every tree of the field.
 EXO.9:26 Only in the land of Goshen, where the children of Israel were, there was no hail.
 EXO.9:27 Then Pharaoh sent and called for Moses and Aaron and said to them, 'I have sinned this time. The Lord is righteous, and my people and I are ungodly.
 EXO.9:28 Therefore, pray for me to the Lord, and let Him cause the thunderings of God to cease, and the hail and fire, for I will let you go and you shall stay no longer.'
@@ -320,7 +325,8 @@ EXO.9:34 Thus when Pharaoh saw that the rain, the hail, and the thunder ceased, 
 EXO.9:35 So the heart of Pharaoh was hardened; neither would he let the children of Israel go, as the Lord said to Moses.
 ## Chapter 10
 
-EXO.10:1 ow the Lord said to Moses, 'Go in to Pharaoh; for I have hardened his heart and the heart of his servants, that these signs may come upon them; 2 and that you may tell in the hearing of your children and your children'schildren, in how many things I mocked the Egyptians, and My wonders I wrought among them; and you shall know I am the Lord.'
+EXO.10:1 ow the Lord said to Moses, 'Go in to Pharaoh; for I have hardened his heart and the heart of his servants, that these signs may come upon them;
+EXO.10:2 and that you may tell in the hearing of your children and your children'schildren, in how many things I mocked the Egyptians, and My wonders I wrought among them; and you shall know I am the Lord.'
 EXO.10:3 So Moses and Aaron came in to Pharaoh and said to him, 'Thus says the Lord God of the Hebrews: 'How long will you refuse to humble yourself before Me? Let My people go so they may serve Me.
 EXO.10:4 Or else, if you refuse to let My people go, behold, tomorrow I will bring an abundance of locusts into your territory.
 EXO.10:5 And they shall cover the face of the earth, so no one will be able to see the earth; and they shall eat the residue of what is left of the land'sabundance which remains to you from the hail, and they shall eat every tree which grows up for you out of the field.
@@ -356,7 +362,7 @@ EXO.10:28 Then Pharaoh said to him, 'Depart from me. Take heed to yourself that 
 EXO.10:29 So Moses said, 'You have spoken well. I will never see your face again.'
 ## Chapter 11
 
-EXO.11:1 ow the Lord said to Moses, 'I will bring yet one more plague on Pharaoh and on Egypt. Afterward, he will let you go from here. When he lets you go, he will surely drive you out of here.
+EXO.11:1 Now the Lord said to Moses, 'I will bring yet one more plague on Pharaoh and on 
 EXO.11:2 Speak now secretly in the hearing of the people, and let everyone ask from his neighbor articles of silver and gold and clothing.'
 EXO.11:3 So the Lord gave the people grace in the sight of the Egyptians, and they lent to them. Moreover, the man Moses was very great before the Egyptians and before Pharaoh and all his servants.
 EXO.11:4 Then Moses said to Pharaoh, 'Thus says the Lord: 'About midnight I will go out into the midst of Egypt;
@@ -371,7 +377,7 @@ EXO.11:9 But the Lord said to Moses, 'Pharaoh will not heed you, that I may mult
 EXO.11:10 So Moses and Aaron did all these signs and wonders in the land of Egypt before Pharaoh; and the Lord hardened Pharaoh'sheart, and he did not let the children of Israel depart from the land of Egypt.
 ## Chapter 12
 
-EXO.12:1 ow the Lord spoke to Moses and Aaron in the land of Egypt, saying,
+EXO.12:1 Now the Lord spoke to Moses and Aaron in the land of Egypt, saying,
 EXO.12:2 'This month shall be your beginning of months; it shall be the first month of the year to you.
 EXO.12:3 Speak to all the congregation of the children of Israel, saying, 'On the tenth day of this month every man shall take for himself alamb, according to the family households, alamb for each home.
 EXO.12:4 If there be too few in ahousehold, let him and his neighbor next to his house take it according to the number of souls; he will make his count in lambs according to the needs of each one.
@@ -396,7 +402,8 @@ EXO.12:22 Then you shall take abunch of hyssop, dip it in the blood in the basin
 EXO.12:23 For the Lord will pass through to strike the Egyptians; and when He sees the blood on the lintel and on the two doorposts, the Lord will pass by the door and not allow the destroyer to come into your houses to strike you.
 EXO.12:24 Now you shall observe this thing as an ordinance for you and your children forever.
 EXO.12:25 So if you enter the land the Lord shall give you, as He promised, you shall keep this service.
-EXO.12:26 Thus it shall be, when your children say to you, 'What does this service mean?' 27 that you shall say, 'This is the Paschal sacrifice of the Lord, who passed over the houses of the children of Israel in Egypt when He struck the Egyptians and delivered our households.' ' So the people bowed down and worshiped.
+EXO.12:26 Thus it shall be, when your children say to you, 'What does this service mean?'
+EXO.12:27 that you shall say, 'This is the Paschal sacrifice of the Lord, who passed over the houses of the children of Israel in Egypt when He struck the Egyptians and delivered our households.' ' So the people bowed down and worshiped.
 
 ### The Plague of the Death of the Firstborn
 
@@ -435,7 +442,7 @@ EXO.12:50 Thus all the children of Israel did; as the Lord commanded Moses and A
 EXO.12:51 So it came to pass, on that very same day, that the Lord brought the children of Israel out of the land of Egypt with their army.
 ## Chapter 13
 
-EXO.13:1 ow the Lord spoke to Moses, saying,
+EXO.13:1 Now the Lord spoke to Moses, saying,
 
 ### The Feast of Unleavened Bread
 
@@ -451,7 +458,8 @@ EXO.13:9 It shall be as asign to you on your hand and as amemorial before your e
 ### Tradition of the Firstborn
 
 EXO.13:10 You shall therefore keep this law according to the times of the seasons from year to year.
-EXO.13:11 'Then it shall be, when the Lord your God brings you into the land of the Canaanites, as He swore to your fathers, and gives it to you, 12 that you shall set apart to the Lord all that open the womb, that is, every male, everything that opens the womb from the herds or among your cattle; as many as you shall have, you shall sanctify the males to the Lord.
+EXO.13:11 'Then it shall be, when the Lord your God brings you into the land of the Canaanites, as He swore to your fathers, and gives it to you,
+EXO.13:12 that you shall set apart to the Lord all that open the womb, that is, every male, everything that opens the womb from the herds or among your cattle; as many as you shall have, you shall sanctify the males to the Lord.
 EXO.13:13 But every offspring that opens the womb of adonkey you shall exchange for asheep; but if you will not exchange it, you shall redeem it; and every firstborn of man among your sons you shall redeem.
 EXO.13:14 So it shall be, when your son asks you in time to come, saying, 'What is this?' that you shall say to him, 'With astrong hand the Lord brought us out of Egypt, out of the house of bondage.
 EXO.13:15 Thus it came to pass, when Pharaoh was stubborn about letting us go, that the Lord killed all the firstborn in the land of Egypt, both the firstborn of man and the firstborn of cattle. Therefore I sacrifice to the Lord all males that open the womb, but all the firstborn of my sons I redeem.'
@@ -470,7 +478,7 @@ EXO.13:21 Moreover, God led them, by day in apillar of cloud to show them the wa
 EXO.13:22 Thus the pillar of cloud by day and the pillar of fire by night did not depart from before all the people.
 ## Chapter 14
 
-EXO.14:1 ow the Lord spoke to Moses, saying,
+EXO.14:1 Now the Lord spoke to Moses, saying,
 EXO.14:2 'Speak to the children of Israel that they turn and camp at the village between Migdol and the sea, opposite Baal Zephon; you shall camp before them by the sea.
 EXO.14:3 For Pharaoh will say of the children of Israel, 'They are wandering in the land; the desert has closed them in.'
 EXO.14:4 Then I will harden Pharaoh'sheart, and he will pursue them; and I will be glorified in Pharaoh and over all his army, that the Egyptians may know I am the Lord.' So they did.
@@ -503,7 +511,7 @@ EXO.14:30 So the Lord saved Israel that day from the hand of the Egyptians, and 
 EXO.14:31 Thus Israel saw the Lord'smighty hand and the things He did to the Egyptians; therefore, the people feared the Lord and believed God and His servant Moses.
 ## Chapter 15
 
-EXO.15:1 ow Moses and the children of Israel sang this song to God and spoke, saying: 'Let us sing to the Lord, for He is greatly glorified. Horse and rider He has thrown into the sea.
+EXO.15:1 Now Moses and the children of Israel sang this song to God and spoke, saying: 'L
 EXO.15:2 The Lord became my helper and the shield of my salv ation; He is my God, and I will glorify Him; My father's God, and I will exalt Him.
 EXO.15:3 The Lord brings wars to nothing; The Lord is His name.
 EXO.15:4 Pharaoh'schariots and army He cast into the sea; His chosen captains also were drowned in the Red Sea.
@@ -582,7 +590,7 @@ EXO.16:35 Thus the children of Israel ate the manna forty years until they came 
 EXO.16:36 Now an omer was the tenth part of three measures.
 ## Chapter 17
 
-EXO.17:1 ow all the congregation of the children of Israel departed from the Wilderness of Sin, according to their encampments and by the word of the Lord, and camped in Rephidim; but there was no water for the people to drink.
+EXO.17:1 Now all the congregation of the children of Israel departed from the Wilderness 
 EXO.17:2 Therefore the people contended with Moses, saying, 'Give us water, that we may drink.' Moses then said to them, 'Why do you contend with me? Why do you tempt the Lord?'
 EXO.17:3 Thus the people thirsted there for water, and the people complained against Moses and said, 'Why is it you brought us up out of Egypt to kill us, our children, and our cattle with thirst?'
 EXO.17:4 So Moses cried out to the Lord, saying, 'What shall I do with this people? They are almost ready to stone me.'
@@ -606,8 +614,11 @@ EXO.17:15 Now Moses built an altar and called its name The-Lord-My-Refuge;
 EXO.17:16 for with asecret hand the Lord wars with Amalek from generation to generation.
 ## Chapter 18
 
-EXO.18:1 ow Jethro the priest of Midian, Moses' father-in-law, heard about all God did for Moses and for Israel His people-that the Lord brought Israel out of Egypt.
-EXO.18:2 Then Jethro, Moses' father-in-law, took Zipporah, Moses' wife, after he sent her back 3 with her two sons, of whom the name of one was Gershom (for he said, 'I was asojourner in aforeign land') 4 and the name of the other was Eliezer (for he said, 'The God of my father is my help, and He rescued me from the hand of Pharaoh'); 5 and Jethro, Moses' father-in-law, came with his sons and his wife to Moses in the desert, where he encamped at the mountain of God.
+EXO.18:1 Now Jethro the priest of Midian, Moses' father-in-law, heard about all God did f
+EXO.18:2 Then Jethro, Moses' father-in-law, took Zipporah, Moses' wife, after he sent her back
+EXO.18:3 with her two sons, of whom the name of one was Gershom (for he said, 'I was asojourner in aforeign land')
+EXO.18:4 and the name of the other was Eliezer (for he said, 'The God of my father is my help, and He rescued me from the hand of Pharaoh');
+EXO.18:5 and Jethro, Moses' father-in-law, came with his sons and his wife to Moses in the desert, where he encamped at the mountain of God.
 EXO.18:6 Now he had said to Moses, 'I, your father-in-law Jethro, am coming to you with your wife and two sons with her.'
 EXO.18:7 So Moses went out to meet his father-in-law, bowed down, and kissed him. Thus they greeted one another, and he brought them into the tent.
 EXO.18:8 Then Moses told his father-in-law all the Lord had done to Pharaoh and to all the Egyptians for Israel'ssake, and all the hardship that had come upon them on the way, and how the Lord had delivered them out of the hand of Pharaoh and from the hand of the Egyptians.
@@ -665,7 +676,7 @@ EXO.19:24 The Lord then said to him, 'Go! Go down and then come up, you and Aaro
 EXO.19:25 So Moses went down to the people and spoke to them.
 ## Chapter 20
 
-EXO.20:1 ow the Lord spoke all these words, saying:
+EXO.20:1 Now the Lord spoke all these words, saying:
 EXO.20:2 'I am the Lord your God, who brought you out of the land of Egypt, out of the house of bondage.
 EXO.20:3 You shall have no other gods before Me.
 EXO.20:4 'You shall not make for yourself an idol or alikeness of anything in heaven above, or in the earth beneath, or in the waters under the earth.
@@ -722,7 +733,8 @@ EXO.21:14 But if aman acts with premeditation against his neighbor to kill him b
 EXO.21:15 He who strikes his father or his mother shall surely be put to death.
 EXO.21:16 He who curses his father or mother shall surely be put to death.
 EXO.21:17 Whoever kidnaps one of the children of Israel and overcomes and sells him, and he is found with him, let him surely die.
-EXO.21:18 'If two men revile one another, and one strikes the other with astone or with his fist, and he does not die but is confined to his bed, 19 if the man rises again and walks about outside with his staff, then he who struck him shall be acquitted. He shall only pay for his loss of time and for his healing.
+EXO.21:18 'If two men revile one another, and one strikes the other with astone or with his fist, and he does not die but is confined to his bed,
+EXO.21:19 if the man rises again and walks about outside with his staff, then he who struck him shall be acquitted. He shall only pay for his loss of time and for his healing.
 EXO.21:20 If aman beats his male or female servant with arod, and he dies under his hand, he shall surely be punished.
 EXO.21:21 Notwithstanding, if he remains alive aday or two, the lord shall not be punished; for he is his property.
 EXO.21:22 'If two men fight and hurt awoman with child, and her child is born imperfectly formed, he shall surely be punished accordingly as the woman'shusband imposes on him; and he shall pay as the judges determine.
@@ -737,7 +749,8 @@ EXO.21:29 But if the bull tended to gore in times past, and it was made known to
 EXO.21:30 But if asum of money is imposed on him, then he shall pay the amount imposed so as to redeem his life.
 EXO.21:31 If abull gores ason or daughter, it shall be done to him according to this ordinance.
 EXO.21:32 If abull gores amale or female servant, he shall pay their lord thirty shekels of silver, and the bull shall be stoned.
-EXO.21:33 'If aman opens apit, or digs apit and does not cover it, and an ox or adonkey falls into it, 34 the owner of the pit shall make it good; he shall give money to their owner, but the dead animal shall be his.
+EXO.21:33 'If aman opens apit, or digs apit and does not cover it, and an ox or adonkey falls into it,
+EXO.21:34 the owner of the pit shall make it good; he shall give money to their owner, but the dead animal shall be his.
 EXO.21:35 If any man'sbull gores his neighbor'sbull, and it dies, they shall sell the live bull and divide the money; and the dead bull they shall also divide.
 
 ### Stolen Property
@@ -857,7 +870,7 @@ EXO.24:17 The sight of the Lord'sglory was like aburning fire on the top of the 
 EXO.24:18 So Moses went into the midst of the cloud and went up the mountain; and he was on the mountain forty days and forty nights.
 ## Chapter 25
 
-EXO.25:1 ow the Lord spoke to Moses, saying,
+EXO.25:1 Now the Lord spoke to Moses, saying,
 EXO.25:2 'Speak to the children of Israel, that they take first fruits from everyone who gives it willingly from the heart. Thus you shall take My first fruits.
 EXO.25:3 This is the offering you shall take from them: gold, silver, and bronze; 4 blue, purple, and scarlet cloth, fine spun linen; and female goats' hair, 5 ram skins dyed red and skins dyed blue, and incorruptible wood; 6 oil for the light, and incense for anointing oil and for the composition of incense; 7 sardius stones, and stones for the carved work of the breastplate and the full-length robe.
 EXO.25:8 Also, you shall make Me asanctuary, and I will appear among you.
@@ -932,7 +945,8 @@ EXO.26:22 For the far side of the tabernacle, westward, you shall make six posts
 EXO.26:23 You shall also make two posts for the two back corners of the tabernacle.
 EXO.26:24 They shall be coupled together at the bottom and at the top by one ring. Thus it shall be for both of them. They shall be equal.
 EXO.26:25 So there shall be eight posts with their sixteen bases of silver, two bases for both sides of each post.
-EXO.26:26 'You shall make bars of incorruptible wood: five for the posts on one side of the tabernacle, 27 five bars for the posts on the other side of the tabernacle, and five bars for the posts of the side of the tabernacle toward the sea.
+EXO.26:26 'You shall make bars of incorruptible wood: five for the posts on one side of the tabernacle,
+EXO.26:27 five bars for the posts on the other side of the tabernacle, and five bars for the posts of the side of the tabernacle toward the sea.
 EXO.26:28 The middle bar shall pass through the midst of the posts from end to end.
 EXO.26:29 You shall overlay the posts with gold, make their rings of gold as holders for the bars, and overlay the bars with gold.
 EXO.26:30 Then you shall raise up the tabernacle according to its pattern shown you on the mountain.
@@ -973,10 +987,11 @@ EXO.27:18 The length of the court shall be one hundred cubits on each side, the 
 ### The Lighted Lamp
 
 EXO.27:19 All the utensils, all the instruments, and all the pegs of the court shall be of bronze.
+EXO.27:20 'You shall also command the children of Israel to bring you pure oil of pressed olives for the light, to cause the lamp to burn continually
 
 ### The Priest's Vestments
 
-EXO.27:20 'You shall also command the children of Israel to bring you pure oil of pressed olives for the light, to cause the lamp to burn continually 21 in the tabernacle of testimony, outside the veil before the testimony. Aaron and his sons shall tend it from evening until morning before the Lord. It shall be an ordinance forever to their generations on behalf of the children of Israel.
+EXO.27:21 in the tabernacle of testimony, outside the veil before the testimony. Aaron and his sons shall tend it from evening until morning before the Lord. It shall be an ordinance forever to their generations on behalf of the children of Israel.
 ## Chapter 28
 
 EXO.28:1 Now take Aaron your brother, and his sons with him, from among the children of Israel, that Aaron, Nadab, Abihu, Eleazar, and Ithamar may minister to Me.
@@ -987,7 +1002,8 @@ EXO.28:5 They shall take the gold, blue, purple, and scarlet fabric and fine lin
 EXO.28:6 and they shall make the ephod of fine spun linen, the woven work of adesigner.
 EXO.28:7 The two parts of the ephod shall be joined together, attached at their two hems.
 EXO.28:8 The woven joining of the ephod, which is on it, shall be of the same workmanship, made of pure gold, and blue, purple, and scarlet fabric, and fine woven linen.
-EXO.28:9 Then you shall take two stones, emeralds, and engrave on them the names of the sons of Israel: 10 six of their names on one stone, and six names on the other stone, in the order of their birth.
+EXO.28:9 Then you shall take two stones, emeralds, and engrave on them the names of the sons of Israel:
+EXO.28:10 six of their names on one stone, and six names on the other stone, in the order of their birth.
 EXO.28:11 With the work of the stone-engraver'sart, the engraving of aseal, you shall engrave the two stones with the names of the sons of Israel.
 EXO.28:12 You shall put the two stones on the shoulders of the ephod as memorial stones for the sons of Israel. So Aaron shall bear their names before the Lord on his two shoulders as amemorial.
 EXO.28:13 You shall also make bosses of gold,
@@ -998,7 +1014,9 @@ EXO.28:14 and you shall make two fringes of pure gold intermixed with flowers, a
 EXO.28:15 'You shall make the oracle of judgment. Artistically woven according to the style of the ephod you shall make it: of gold, blue, purple, and scarlet fabric and fine spun linen you shall make it.
 EXO.28:16 It shall be doubled into asquare: aspan shall be its length, and aspan its width.
 EXO.28:17 Interwoven into this texture shall be asetting for four rows of stones. There shall be arow for asardius, atopaz, and an emerald. This shall be the first row.
-EXO.28:18 The second row shall be acarbuncle, asapphire, and ajasper; 19 the third row, ajacinth, an agate, and an amethyst; 20 and the fourth row, achrysolite, aberyl, and an onyx. They shall be set in gold settings, bound together with gold, according to their row.
+EXO.28:18 The second row shall be acarbuncle, asapphire, and ajasper;
+EXO.28:19 the third row, ajacinth, an agate, and an amethyst;
+EXO.28:20 and the fourth row, achrysolite, aberyl, and an onyx. They shall be set in gold settings, bound together with gold, according to their row.
 EXO.28:21 The stones shall have the names of the sons of Israel, twelve according to their names, as the engravings of seals, each one with its own name; they shall be according to the twelve tribes.
 EXO.28:22 You shall make chains for the oracle, abraided work of pure gold.
 EXO.28:23 Aaron shall bear the names of the children of Israel upon the oracle of judgment on his breast, as amemorial before God for him as he goes into the sanctuary.
@@ -1036,7 +1054,8 @@ EXO.29:11 Then you shall kill the young bull before the Lord at the doors of the
 EXO.29:12 You shall take some of the blood of the young bull and put it on the horns of the altar with your finger, and pour all the blood beside the base of the altar.
 EXO.29:13 You shall take all the fat that covers the entrails, the fatty lobe attached to the liver, and the two kidneys and the fat on them and burn them on the altar.
 EXO.29:14 But the flesh of the young bull, with its skin and offal, you shall burn with fire outside the camp. It is asin offering.
-EXO.29:15 'You shall also take one ram, and Aaron and his sons shall put their hands on the head of the ram; 16 and you shall kill the ram and take its blood and sprinkle it all around on the altar.
+EXO.29:15 'You shall also take one ram, and Aaron and his sons shall put their hands on the head of the ram;
+EXO.29:16 and you shall kill the ram and take its blood and sprinkle it all around on the altar.
 EXO.29:17 Then you shall cut the ram in pieces, wash its entrails and legs, and put them with its pieces and its head.
 EXO.29:18 You shall offer the whole ram on the altar. It is awhole burnt offering to the Lord for asweet aroma, an offering of incense to the Lord.
 EXO.29:19 You shall also take the second ram, and Aaron and his sons shall put their hands on the head of the ram.
@@ -1130,13 +1149,20 @@ EXO.30:37 You shall not make any for yourselves according to this composition. I
 EXO.30:38 Whoever makes any like it to smell it, he shall be cut off from his people.'
 ## Chapter 31
 
-EXO.31:1 ow the Lord spoke to Moses, saying,
+EXO.31:1 Now the Lord spoke to Moses, saying,
 EXO.31:2 'See, I have called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah.
-EXO.31:3 I have filled him with the divine Spirit of wisdom, understanding, and knowledge, and in every manner of workmanship, 4 to design artistic works, to work in gold, silver, and bronze, 5 in cutting jewels for setting, in carving wood, and to work in every manner of workmanship.
+EXO.31:3 I have filled him with the divine Spirit of wisdom, understanding, and knowledge, and in every manner of workmanship,
+EXO.31:4 to design artistic works, to work in gold, silver, and bronze,
+EXO.31:5 in cutting jewels for setting, in carving wood, and to work in every manner of workmanship.
+EXO.31:6 Indeed I have appointed with him Aholiab the son of Ahisamach, of the tribe of Dan; and I have put understanding in the hearts of all who are gifted artisans, so they may make all I commanded you:
+EXO.31:7 the tabernacle of testimony, the ark of the testimony and the mercy seat on it, and all the utensils of the tabernacle-
+EXO.31:8 the altars and the table and its utensils, the pure gold lampstand with all its utensils,
+EXO.31:9 and the laver and its base-
+EXO.31:10 the liturgical garments for Aaron and the garments of his sons, to minister to Me as priests,
 
 ### Keeping the Sabbath
 
-EXO.31:6 Indeed I have appointed with him Aholiab the son of Ahisamach, of the tribe of Dan; and I have put understanding in the hearts of all who are gifted artisans, so they may make all I commanded you: 7 the tabernacle of testimony, the ark of the testimony and the mercy seat on it, and all the utensils of the tabernacle- 8 the altars and the table and its utensils, the pure gold lampstand with all its utensils, 9 and the laver and its base- 10 the liturgical garments for Aaron and the garments of his sons, to minister to Me as priests, 11 and the anointing oil and the compound incense for the holy place. According to all I have commanded you they shall do.'
+EXO.31:11 and the anointing oil and the compound incense for the holy place. According to all I have commanded you they shall do.'
 EXO.31:12 Again the Lord spoke to Moses, saying,
 EXO.31:13 'You shall direct the children of Israel, saying, 'See to it that you keep My Sabbaths, for it is asign between Me and you throughout your generations, that you may know I am the Lord who sanctifies you.
 EXO.31:14 You shall keep the Sabbaths, because this is holy for you to the Lord. Everyone who profanes it shall be put to death; for whoever works on it, that soul shall be cut off from among his people.
@@ -1189,7 +1215,7 @@ EXO.32:34 Now therefore, go down and lead the people to the place of which I spo
 EXO.32:35 So the Lord struck the people for making the calf which Aaron made.
 ## Chapter 33
 
-EXO.33:1 ow the Lord said to Moses, 'Depart, go up from here, you and the people you brought out of the land of Egypt, to the land I swore to Abraham, Isaac, and Jacob, saying, 'To your seed I will give it.'
+EXO.33:1 Now the Lord said to Moses, 'Depart, go up from here, you and the people you bro
 EXO.33:2 I will send My Angel before your face, and I will drive out the Amorite, the Hittite, the Perizzite, the Gergesite, the Hivite, the Jebusite, and the Canaanite.
 EXO.33:3 I will bring you into aland flowing with milk and honey; for I will not go up in your midst, lest I consume you on the way, for you are astiff-necked people.'
 EXO.33:4 When the people heard this bad news, they mourned in lamentations.
@@ -1223,7 +1249,7 @@ EXO.33:22 So it shall be, while My glory passes by, that I will put you in the c
 EXO.33:23 Then I will take away My hand, and you shall see My back; but My face shall not be seen.'
 ## Chapter 34
 
-EXO.34:1 ow the Lord said to Moses, 'Cut two tablets of stone like the first ones, and I will write on these tablets the words that were on the first tablets you broke.
+EXO.34:1 Now the Lord said to Moses, 'Cut two tablets of stone like the first ones, and I
 EXO.34:2 So be ready in the morning to come up on Mount Sinai and to present yourself to Me there on top of the mountain.
 EXO.34:3 But no man shall come up with you, and let no man be seen throughout all the mountain; let neither sheep nor oxen feed before that mountain.'
 EXO.34:4 So he cut two tablets of stone like the first ones. Then Moses rose early in the morning and went up to Mount Sinai as the Lord commanded him; and he took in his hand the two tablets of stone.
@@ -1237,7 +1263,10 @@ EXO.34:9 Then he said, 'If now I have found grace in Your sight, let my Lord go 
 EXO.34:10 The Lord then said to Moses, 'Behold, I am establishing acovenant with you. Before all your people I will do marvels such as have not been done in all the earth, nor in any nation; and all the people among whom you are shall see the works of the Lord, for I will do awesome things for you.
 EXO.34:11 Observe what I command you this day. Behold, I am driving out from before you the Amorite, the Canaanite, the Perizzite, the Hittite, the Hivite, the Gergesite, and the Jeb- usite.
 EXO.34:12 Take heed to yourself, lest you make acovenant with the inhabitants of the land where you are going, lest it be astumbling-block in your midst.
-EXO.34:13 But you shall destroy their altars, break their sacred pillars, and cut down their groves; and you shall burn the graven images of their gods with fire 14 (for you shall worship no other god, for the Lord God, ajealous name, is ajealous God), 15 lest you make acovenant with the foreigners of the land; and they indulge themselves in gross immorality with their gods by making sacrifice to them; and they invite you, and you eat of their sacrifices; 16 and you take of their daughters for your sons and give your daughters to their sons; and your daughters commit fornication with their gods, and your sons commit fornication with their gods.
+EXO.34:13 But you shall destroy their altars, break their sacred pillars, and cut down their groves; and you shall burn the graven images of their gods with fire
+EXO.34:14 (for you shall worship no other god, for the Lord God, ajealous name, is ajealous God),
+EXO.34:15 lest you make acovenant with the foreigners of the land; and they indulge themselves in gross immorality with their gods by making sacrifice to them; and they invite you, and you eat of their sacrifices;
+EXO.34:16 and you take of their daughters for your sons and give your daughters to their sons; and your daughters commit fornication with their gods, and your sons commit fornication with their gods.
 EXO.34:17 You shall make no molten gods for yourselves.
 EXO.34:18 'The Feast of Unleavened Bread you shall keep. Seven days you shall eat unleavened bread, as I commanded you, at the season in the month of new grain; for in the month of new grain you came out from Egypt.
 EXO.34:19 All that open the womb are Mine: every male firstborn among your livestock, of oxen or sheep.
@@ -1265,12 +1294,22 @@ EXO.34:34 But when Moses went in before the Lord to speak with Him, he would tak
 EXO.34:35 So the children of Israel saw the face of Moses, that it was glorified; and Moses put the veil on his face again until he went in to speak with Him.
 ## Chapter 35
 
-EXO.35:1 ow Moses gathered all the congregation of the children of Israel together and said to them, 'These are the words the Lord said for you to do.
+EXO.35:1 Now Moses gathered all the congregation of the children of Israel together and s
 EXO.35:2 Work shall be done for six days, but the seventh day shall be aholy day for you, a Sabbath of rest to the Lord. Whoever does work on it shall be put to death.
 EXO.35:3 You shall kindle no fire throughout your dwellings on the Sabbath Day; I am the Lord.'
 EXO.35:4 Again Moses spoke to all the congregation of the children of Israel, saying, 'This is the thing the Lord commanded, saying,
 EXO.35:5 'Take from among you an offering to the Lord. Whoever is of awilling heart, let him bring his first fruits to the Lord: gold, silver, and bronze; 6 blue, purple, and scarlet fabric, fine linen, and female goats' hair; 7 ram skins dyed red, skins dyed blue, and incorruptible wood; 8 sardius stones and stones to be set in the ephod and the fulllength robe.
-EXO.35:9 'Every man wise in heart among you, let him come and do all the Lord has commanded: 10 the tabernacle, its cords, coverings, rings, bars, and posts; 11 the ark of the testimony, its poles, mercy seat, and veil; 12 and the curtains of the court and its posts; 13 and the emerald stones; 14 and the incense and the anointing oil; 15 and the table and all its utensils; 16 and the illuminating lampstand and all its utensils; 17 and the altar and all its utensils; 18 and the holy vestments of Aaron the priest and the garments in which they shall do service; 19 and the priestly robes for the sons of Aaron and the compounded incense.' '
+EXO.35:9 'Every man wise in heart among you, let him come and do all the Lord has commanded:
+EXO.35:10 the tabernacle, its cords, coverings, rings, bars, and posts;
+EXO.35:11 the ark of the testimony, its poles, mercy seat, and veil;
+EXO.35:12 and the curtains of the court and its posts;
+EXO.35:13 and the emerald stones;
+EXO.35:14 and the incense and the anointing oil;
+EXO.35:15 and the table and all its utensils;
+EXO.35:16 and the illuminating lampstand and all its utensils;
+EXO.35:17 and the altar and all its utensils;
+EXO.35:18 and the holy vestments of Aaron the priest and the garments in which they shall do service;
+EXO.35:19 and the priestly robes for the sons of Aaron and the compounded incense.' '
 EXO.35:20 So all the congregation of the children of Israel departed from the presence of Moses.
 EXO.35:21 Then everyone came whose heart was stirred and whose soul was willing; and they brought the Lord'soffering for the work of the tabernacle of testimony, for all its service and the garments of the holy place.
 EXO.35:22 They came, both men and women, as many as had awilling mind, and brought signets, earrings, rings, and necklaces, all jewelry of gold to the Lord.
@@ -1285,7 +1324,9 @@ EXO.35:28 and the compounds for the anointing oil, and the compounds for the inc
 
 EXO.35:29 Thus the children of Israel brought afreewill offering to the Lord, all the men and women whose minds were willing to bring material for all kinds of work, which the Lord, by the hand of Moses, commanded to be done.
 EXO.35:30 Then Moses said to the children of Israel, 'Behold, God has called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah;
-EXO.35:31 and He has filled him with adivine Spirit of wisdom, understanding, and knowledge in all things 32 to design artistic works, to work in gold and silver and bronze, 33 in cutting jewels for setting, in carving wood, and to work in all manner of artistic workmanship.
+EXO.35:31 and He has filled him with adivine Spirit of wisdom, understanding, and knowledge in all things
+EXO.35:32 to design artistic works, to work in gold and silver and bronze,
+EXO.35:33 in cutting jewels for setting, in carving wood, and to work in all manner of artistic workmanship.
 EXO.35:34 He has put in his mind and in that of Aholiab the son of Ahisamach, of the tribe of Dan, the ability to teach.
 EXO.35:35 He filled them with wisdom, understanding, and skill to do all manner of work of the holy place, and to weave the woven and embroidered work with scarlet and fine linen, and to do all work of curious workmanship and embroidery.'
 ## Chapter 36
@@ -1298,10 +1339,11 @@ EXO.36:2 Then Moses called Bezalel and Aholiab, and every gifted artisan in whos
 EXO.36:3 They received from Moses all the offerings the children of Israel brought for all the works for making the holy place, and they continued bringing him freewill offerings every morning.
 EXO.36:4 Then all the wise men who were doing all the work of the holy place came, each according to the work he was doing,
 EXO.36:5 and they spoke to Moses, saying, 'The people bring much more than enough for the work the Lord commanded us to do.'
+EXO.36:6 So Moses gave acommandment and proclaimed it throughout the camp, saying, 'Let neither man nor woman do any more work for the offering of the holy place.' Thus the people were restrained from bringing more,
 
 ### Articles for the Tabernacle
 
-EXO.36:6 So Moses gave acommandment and proclaimed it throughout the camp, saying, 'Let neither man nor woman do any more work for the offering of the holy place.' Thus the people were restrained from bringing more, 7 for the material was sufficient for all the work to be done-indeed, too much.
+EXO.36:7 for the material was sufficient for all the work to be done-indeed, too much.
 EXO.36:8 Then all the gifted artisans among them who worked on Aaron'sgarments for the holy places did as the Lord commanded Moses.
 EXO.36:9 He made the ephod of gold, blue, purple, spun scarlet, and fine twined linen.
 EXO.36:10 Thin plates of gold were then cut into threads to be woven into the blue, purple, spun scarlet, and fine twined linen; and they formed it as awoven piece.
@@ -1339,7 +1381,7 @@ EXO.36:38 Then they made the plate of gold, adedicated thing of the holy place, 
 EXO.36:39 And they tied ablue cord to it to fasten it above on the turban, in the manner the Lord commanded Moses.
 ## Chapter 37
 
-EXO.37:1 ow they made ten curtains for the tabernacle.
+EXO.37:1 Now they made ten curtains for the tabernacle.
 EXO.37:2 The length of one curtain was twentyeight cubits (and thus it was for all of them), and the width four cubits.
 EXO.37:3 They made the veil of blue, purple, spun scarlet, and fine twined linen; awork woven with cherubim.
 EXO.37:4 Then they put it on four posts of incorruptible wood overlaid with gold; and their capitals were gold, and their four bases were silver.
@@ -1349,7 +1391,9 @@ EXO.37:7 Then they made the court toward the south, and its curtains were of fin
 EXO.37:8 There were twenty posts for them with twenty bases.
 EXO.37:9 On the north side they were ahundred cubits symmetrically. On the south side they were ahundred cubits symmetrically with their twenty posts and twenty bases.
 EXO.37:10 On the west side there were curtains of fifty cubits with their ten posts and twenty bases.
-EXO.37:11 On the east side, there were curtains of fifty cubits: 12 with one curtain on one side of the court entrance of fifteen cubits, with its three posts and bases, 13 and one on the other side of the court entrance of fifteen cubits, with its three posts and bases.
+EXO.37:11 On the east side, there were curtains of fifty cubits:
+EXO.37:12 with one curtain on one side of the court entrance of fifteen cubits, with its three posts and bases,
+EXO.37:13 and one on the other side of the court entrance of fifteen cubits, with its three posts and bases.
 EXO.37:14 All the curtains of the court were of fine twined linen.
 EXO.37:15 The bases of the posts were bronze, the hooks of the posts were silver, and their capitals were overlaid with silver; and all the posts of the court were overlaid with silver.
 EXO.37:16 The veil of the court entrance was awoven work of blue, purple, spun scarlet, and fine twined linen. Its length was twenty cubits, and its height or width was five cubits, corresponding with the curtains of the court.
@@ -1363,14 +1407,17 @@ EXO.37:20 Bezalel the son of Uri, of the tribe of Judah, did as the Lord command
 EXO.37:21 There was Aholiab the son of Ahisa-mach, of the tribe of Dan, who was amaster workman of woven and needlework in the scarlet and fine linen.
 ## Chapter 38
 
-EXO.38:1 ow Bezalel made the ark.
+EXO.38:1 Now Bezalel made the ark.
 EXO.38:2 He overlaid it with pure gold inside and out.
-EXO.38:3 He cast for it four golden rings (two rings on one side and two on the other), 4 wide enough for the poles with which to carry it.
+EXO.38:3 He cast for it four golden rings (two rings on one side and two on the other),
+EXO.38:4 wide enough for the poles with which to carry it.
 EXO.38:5 He also made the mercy seat above the ark of pure gold,
+EXO.38:6 and two cherubim of pure gold
+EXO.38:7 (acherub at one end of the mercy seat and one at the other end),
 
 ### The Table of Offering
 
-EXO.38:6 and two cherubim of pure gold 7 (acherub at one end of the mercy seat and one at the other end), 8 spreading out their wings above the mercy seat.
+EXO.38:8 spreading out their wings above the mercy seat.
 EXO.38:9 Then he made the table of offertory of pure gold
 EXO.38:10 and cast for it four rings (two on one side and two on the other), wide enough for the poles with which to carry it.
 EXO.38:11 Then he made the poles of the ark and the table and gilded them with gold.
@@ -1378,7 +1425,9 @@ EXO.38:11 Then he made the poles of the ark and the table and gilded them with g
 ### The Lampstand
 
 EXO.38:12 He also made the utensils of the table, the dishes, the censers, the cups, and the pitchers for pouring drink offerings, of gold.
-EXO.38:13 He then made the lampstand to give light, of gold, 14 both its solid stem and the branches on each side thereof, 15 and the blossoms projecting from its branches, three on one side and three on the other, symmetrical to one another.
+EXO.38:13 He then made the lampstand to give light, of gold,
+EXO.38:14 both its solid stem and the branches on each side thereof,
+EXO.38:15 and the blossoms projecting from its branches, three on one side and three on the other, symmetrical to one another.
 EXO.38:16 As to the lamps on top of them, almond blossoms budded from them; and there were sockets to hold the lamps, the seventh of which was atop the lampstand itself at its summit, all of solid gold.
 
 ### The Altar
@@ -1403,17 +1452,29 @@ EXO.38:27 He made the laver that in it Moses and Aaron and his sons might wash t
 ## Chapter 39
 
 EXO.39:1 ow all the gold used in all the production of the holy places was that of the offerings: twenty-nine talents and seven hundred and twenty shekels, according to the holy shekel.
-EXO.39:2 The offering of silver from the numbered men of the congregation was one hundred talents and one thousand seven hundred and seventy-five shekels (one drachma per head being ahalf shekel, according to the holy shekel), 3 for everyone surveyed in the tally from twenty years old and up, to the number of six hundred and three thousand, five hundred and fifty.
+EXO.39:2 The offering of silver from the numbered men of the congregation was one hundred talents and one thousand seven hundred and seventy-five shekels (one drachma per head being ahalf shekel, according to the holy shekel),
+EXO.39:3 for everyone surveyed in the tally from twenty years old and up, to the number of six hundred and three thousand, five hundred and fifty.
 EXO.39:4 The hundred talents of silver were used to cast the one hundred capitals of the tabernacle and the capitals of the veil; ahundred capitals to the hundred talents, atalent to acapital.
 EXO.39:5 Then from the one thousand seven hundred and seventy-five shekels he made hooks for the posts, gilded their capitals, and decorated them.
-EXO.39:6 The bronze from the offering was seventy talents and athousand five hundred shekels, 7 and with it they made the bases for the doors of the tabernacle of testimony, 8 the bases for the court all around, the bases for the court gate, the pegs for the tabernacle, the pegs for all around the court, 9 the bronze appendage of the altar, all the vessels of the altar, and all the instruments of the tabernacle of testimony.
+EXO.39:6 The bronze from the offering was seventy talents and athousand five hundred shekels,
+EXO.39:7 and with it they made the bases for the doors of the tabernacle of testimony,
+EXO.39:8 the bases for the court all around, the bases for the court gate, the pegs for the tabernacle, the pegs for all around the court,
+EXO.39:9 the bronze appendage of the altar, all the vessels of the altar, and all the instruments of the tabernacle of testimony.
 EXO.39:10 So the children of Israel did as the Lord commanded; thus did they.
 EXO.39:11 Also of the gold that remained from the offering they made vessels with which to minister before the Lord.
 
 ### Presentation to Moses
 
 EXO.39:12 The remaining blue, purple, and scarlet cloth they made into liturgical vestments for Aaron, to minister in them in the holy place.
-EXO.39:13 So they brought to Moses the garments, the tabernacle and all its vessels, the bases and their bars, the posts, 14 the ark of the covenant and its poles, 15 the altar and all its vessels, the anointing oil, the incense compound, 16 the pure lamp and its lamps (lamps for burning), the oil for light, 17 the table of offertory and the bread set forth upon it and all its utensils, 18 the garments of the holy place, which belong to Aaron and his sons for ministering as priests, 19 the curtains of the court and their posts, the veil for the door of the tabernacle, the court gate, all the utensils for the tabernacle and all its instruments, 20 the rams' skins dyed red, the blue coverings and the other coverings, 21 the pegs, and all the instruments for the work of the tabernacle of testimony.
+EXO.39:13 So they brought to Moses the garments, the tabernacle and all its vessels, the bases and their bars, the posts,
+EXO.39:14 the ark of the covenant and its poles,
+EXO.39:15 the altar and all its vessels, the anointing oil, the incense compound,
+EXO.39:16 the pure lamp and its lamps (lamps for burning), the oil for light,
+EXO.39:17 the table of offertory and the bread set forth upon it and all its utensils,
+EXO.39:18 the garments of the holy place, which belong to Aaron and his sons for ministering as priests,
+EXO.39:19 the curtains of the court and their posts, the veil for the door of the tabernacle, the court gate, all the utensils for the tabernacle and all its instruments,
+EXO.39:20 the rams' skins dyed red, the blue coverings and the other coverings,
+EXO.39:21 the pegs, and all the instruments for the work of the tabernacle of testimony.
 EXO.39:22 Whatever things the Lord commanded Moses, thus the children of Israel made and prepared in every respect.
 
 ### Setting Up the Tabernacle
@@ -1421,7 +1482,7 @@ EXO.39:22 Whatever things the Lord commanded Moses, thus the children of Israel 
 EXO.39:23 Then Moses looked over all the work, and it was done in the manner the Lord commanded Moses. They did it in this way, and Moses blessed them.
 ## Chapter 40
 
-EXO.40:1 ow the Lord spoke to Moses, saying,
+EXO.40:1 Now the Lord spoke to Moses, saying,
 EXO.40:2 'On the first day of the first month, the new moon, you shall set up the tabernacle of testimony.
 EXO.40:3 You shall put in it the ark of the testimony and cover the ark with the veil.
 EXO.40:4 You shall bring in the table and lay out its offering, and bring in the lampstand and install its lamps.

@@ -1,158 +1,183 @@
-# EZRA — CODEX 5.4 AGENT PROTOCOL
+# Orthodox Phronema Agent Protocol
 
-## IDENTITY
-```
-agent_id: ezra
-role: purity_guardian + audit_engine
-scope: read_only | analyze | validate | diff | report
-write_access: DENIED
-git_access: DENIED
-sibling: ark (claude-code, planning/architecture lead)
+## Team
+```text
 human: ShanesNotes
-```
-
-## PRIME DIRECTIVES
-```
-D1: NEVER edit files. NEVER run git. NEVER write to disk.
-D2: ALL output = analysis, diffs, tables, diagnostics.
-D3: When Ark or human says "audit X" → run full checklist against X.
-D4: Flag issues with exact file_path:line_number. No vague references.
-D5: Use tables for all comparisons. Inline code for anchors/patterns.
-```
-
-## PROJECT STATE GRAPH
-```
+ark: planning_architecture_implementation_owner
+ezra: audit_risk_workflow_owner
 repo: /home/ark/orthodoxphronema
-source_pdf: src.texts/the_orthodox_study_bible.pdf
-canon_scope: 76 books (Orthodox LXX canon)
-psalm_numbering: LXX (PSA.1-PSA.151)
-anchor_format: BOOK.CHAPTER:VERSE (e.g. GEN.1:1, MATT.5:3)
-registry: schemas/anchor_registry.json (RATIFIED, locked)
-pipeline: parse(Docling) → stage(staging/raw/) → validate → promote(canon/)
-staging_validated: staging/validated/{OT,NT}/BOOK.md
-canon_output: canon/{OT,NT}/BOOK.md (NOT YET POPULATED)
-notes_output: staging/validated/{OT,NT}/BOOK_notes.md
-footnote_index: staging/validated/{OT,NT}/BOOK_footnote_markers.json
 ```
 
-## FILE FORMAT SPEC
-```yaml
-# staging/validated/OT/BOOK.md structure:
----
-book_code: GEN
-book_name: Genesis
-testament: OT
-canon_position: 1
-source: OSB
-parse_date: YYYY-MM-DD
-status: validated
----
-## Chapter 1
-GEN.1:1 In the beginning God created the heavens and the earth.
-GEN.1:2 The earth was without form...
-# ONE VERSE PER LINE. Anchor prefix mandatory.
-# Narrative headings (### The Creation) = KEPT in canon.
-# Study article text = MUST NOT appear here.
+## Core Principle
+```text
+Single writer, explicit handoff, durable evidence.
 ```
 
-## VALIDATION CHECKLIST (run on every audit)
-```
-V1: anchor_uniqueness    → no duplicate BOOK.CH:V in file
-V2: chapter_count        → chapters == registry.books[code].chapters
-V3: chapter_sequence     → chapters monotonic, no gaps
-V4: verse_sequence       → verses monotonic within chapter, flag gaps
-V5: article_bleed        → scan for study article phrases in canon text
-V6: frontmatter          → required fields: book_code, book_name, testament, canon_position, source, parse_date, status
+Ark remains the sole default writer and committer for canon-affecting work.
+Ezra functions as the standing audit and workflow layer.
+Human adjudicates ambiguity, promotion, and role changes.
+
+## Ownership
+| Area | Owner | Notes |
+|---|---|---|
+| Architecture | Ark | Pipeline design, sequencing, long-horizon decisions |
+| Implementation | Ark | `pipeline/`, `staging/validated/`, `canon/`, `schemas/` |
+| Commits / Git | Ark | Sole default committer |
+| Audit / Review | Ezra | Findings-first review, regressions, risk analysis |
+| Workflow / Protocol docs | Ezra or Ark on request | Non-canon coordination docs only |
+| Human ratification | Human | Ambiguous source cases and promotion approval |
+
+## Ezra Default Mode
+```text
+default_mode: read_only
+default_git_access: denied
+default_scope: analyze | validate | diff | report | memo_draft
 ```
 
-## ARTICLE BLEED SIGNATURES (V5 patterns)
-```
-/Fall of Adam caused mankind/
-/Mankind.s strong propensity to commit sin/
-/intellectual, desiring and incensive/
-/We who are of Adam.s race are not guilty/
-/Even after the Fall, the intellectual/
-/T he Holy Trinity is revealed both/
-# Also flag: any line matching /^[A-Z] [A-Z] [A-Z]/ (spaced-caps = article header)
-# Also flag: numbered sub-points (1. 2. 3.) not preceded by verse anchor
+Ezra may update coordination docs only when the human explicitly requests it.
+Examples:
+- `AGENTS.md`
+- `memos/ezra-audit-log.md`
+- memo templates
+- non-canon workflow notes
+
+Ezra does not edit canon-affecting code or scripture artifacts unless the human explicitly changes that rule.
+
+## Repo Workflow
+```text
+parse -> cleanup -> validate -> audit -> human_ratify -> promote
 ```
 
-## KNOWN EXTRACTION ARTIFACTS (flag but classify)
-```
-artifact.drop_cap:      "nthe beginning" → missing first letter (Docling PDF limitation)
-artifact.article_merge: "afirmament" → 'a' + next word fused (column split)
-artifact.word_split:    "y ou" "wiv es" → justified column breakage
-artifact.verse_absorb:  lowercase-start verse not split → absorbed into prior verse
-  → causes: missing verse gaps in V4, near-duplicate anchors
-  → known_count(GEN): 67 V4 warnings, 5 near-dup anchors
-artifact.column_restate: verse number restated at column top → consecutive dup anchor
-```
+Detailed flow:
+1. Ark plans and, for substantial changes, writes a memo in `memos/`
+2. Ark implements code and staged artifact changes
+3. Cleanup runs in place on the staged `BOOK.md`
+4. Validation runs on that same staged `BOOK.md`
+5. Ezra audits the change set or artifact
+6. Human reviews only ambiguous cases / promotion decisions
+7. Ark promotes from the same staged `BOOK.md`
 
-## EXTRACTION STATE MACHINE (reference for debugging)
-```
-states: VERSE_MODE | ARTICLE_MODE
-chapter_advance_guard: current_verse >= max_v * 4/5 (80% threshold)
-  max_v = chapter_verse_counts[current_chapter] from registry
-  DO NOT trust bare chapter_num == current_chapter + 1
-article_entry: spaced-caps SectionHeaderItem
-article_exit: next_num > current_verse OR next_num == current_chapter + 1
-verse_split_regex: requires uppercase start after digit → lowercase-start = miss
-script: pipeline/parse/osb_extract.py
-validator: pipeline/validate/validate_canon.py
+## Artifact Policy
+```text
+One staged scripture artifact per book.
 ```
 
-## AUDIT OUTPUT FORMAT
-```markdown
-# Audit: BOOK_CODE — YYYY-MM-DD
+Rules:
+- Staged scripture source of truth: `staging/validated/{OT,NT}/BOOK.md`
+- Do not maintain persistent parallel artifacts like `BOOK_clean.md` in steady-state workflow
+- Use sidecars for ambiguity, not parallel scripture files
+- Use git history, memos, and reports for auditability
 
-## Summary
-| Check | Result | Count |
-|-------|--------|-------|
-| V1    | PASS/FAIL | N |
-| ...   | ...    | ... |
+Examples of acceptable sidecars:
+- `BOOK_dropcap_candidates.json`
+- `BOOK_residue_audit.json`
+- `BOOK_footnote_markers.json`
 
-## Errors (blocking)
-- `file:line` — description
+## Source Authority
+| Source | Role |
+|---|---|
+| OSB PDF | Canonical source |
+| Brenton text files | Auxiliary witness only |
+| LLM inference | Proposal / ranking layer only |
 
-## Warnings (non-blocking)
-- `file:line` — description
+Rules:
+- OSB remains authoritative for canon text
+- Brenton may assist with bounded micro-corrections and confidence scoring
+- Brenton must not rewrite verses wholesale or decide anchor structure
+- Ambiguous drop-caps are resolved by OSB image/PDF review, not Brenton alone
 
-## Artifact Classification
-| Type | Count | Example | Severity |
-|------|-------|---------|----------|
-
-## Recommendations
-1. ...
+## Current Lessons Learned
+```text
+1. Lowercase-start verse gaps belong in parse, not cleanup.
+2. Deterministic cleanup rules can move earlier in the pipeline.
+3. Drop-cap recovery should be OSB-residual-first and PDF-confirmed.
+4. Inline footnote markers likely trail the verse they annotate.
+5. Promotion must read the same staged artifact that was validated and audited.
+6. When residual V4 missing-anchor counts are small, source-PDF spot checks are better than broad allowlist growth.
 ```
 
-## INTER-AGENT PROTOCOL
-```
-ark_requests: "ezra audit GEN" → full V1-V6 + artifact scan + output table
-ark_requests: "ezra diff OLD NEW" → side-by-side delta, flag regressions
-ark_requests: "ezra check bleed BOOK" → V5 only, deep scan
-ark_requests: "ezra verify registry" → cross-check anchor_registry.json integrity
-human_requests: treat same as ark_requests
-report_to: stdout (human reviews in terminal or obsidian vault 'eve')
-escalate: if ambiguous whether content is scripture vs commentary → FLAG, do not guess
+## Parser / Cleanup Boundaries
+| Problem | Stage |
+|---|---|
+| Verse-boundary recovery | Parse |
+| Study-article separation | Parse |
+| Heading purity | Parse + Validate |
+| Fused possessives / punctuation spacing | Parse-time normalization is acceptable |
+| Bounded fused-word cleanup | Cleanup |
+| Ambiguous OCR / source verification | Cleanup sidecar + human review |
+
+## Validation Contract
+Minimum recurring checks:
+- `V1` anchor uniqueness
+- `V2` chapter count
+- `V3` chapter sequence
+- `V4` verse sequence / gap detection
+- `V5` article bleed
+- `V6` frontmatter
+- `V7` completeness
+- `V8` heading integrity
+
+Interpretation rule:
+- Cleanup success does not substitute for structural success
+- If `V4` gaps remain high, return to parser work before expanding cleanup complexity
+- If unresolved missing-anchor count is `<= 100` for a book, prefer OSB PDF spot-check review before widening parser allowlists
+
+## Memo Contract
+Substantial changes should produce a durable memo in `memos/`.
+
+Use:
+- [`_template_work_memo.md`](/home/ark/orthodoxphronema/memos/_template_work_memo.md)
+
+When a memo is required:
+- parser refactor
+- cleanup-rule expansion
+- validation-rule change
+- promotion-gate change
+- source-authority / workflow policy change
+
+Memo goals:
+- preserve rationale
+- show evidence
+- reduce copy/paste loss between Ark, Ezra, and Human
+
+## Handoff Protocol
+Default handoff medium:
+- `memos/` for human-readable implementation / audit / decision notes
+- `reports/` for generated validation evidence
+- staged JSON sidecars for ambiguity queues
+
+Do not add a `reviews/` folder unless the team explicitly decides existing channels are insufficient.
+
+## Audit Request Shortcuts
+```text
+ezra audit BOOK
+ezra diff OLD NEW
+ezra check bleed BOOK
+ezra verify pdf BOOK
+ezra verify registry
+ezra review parser change
+ezra review promote gate
 ```
 
-## BOOK CODES (76 canonical)
-```
-OT: GEN EXO LEV NUM DEU JOS JDG RUT 1SA 2SA 1KI 2KI 1CH 2CH
-    1ES EZR NEH TOB JDT EST JOB PSA PRO ECC SOS WIS SIR
-    HOS AMO MIC JOE OBA JON NAH HAB ZEP HAG ZEC MAL
-    ISA JER BAR LAM LJE EZK DAN SUS BEL
-NT: MAT MAR LUK JOH ACT ROM 1CO 2CO GAL EPH PHP COL
-    1TH 2TH 1TI 2TI TIT PHM HEB JAM 1PE 2PE 1JO 2JO 3JO JUD REV
-DC: TOB JDT WIS SIR BAR LJE 1ES SUS BEL 1MA 2MA 3MA PSS ODE
-```
+Ezra output style:
+- findings first
+- exact file references
+- tables for comparisons when useful
+- explicit distinction between blocking vs non-blocking
 
-## CONSTRAINTS
-```
-- staging/raw/ is gitignored → never reference files there
-- canon/ is EMPTY until promotion pipeline runs
-- anchor_registry.json is LOCKED at v1.0.0 → do not suggest schema changes
-- one-verse-per-line is MANDATORY in canon files
-- footnote markers († ω †ω) stripped from canon, indexed in _footnote_markers.json
-- NT footnote ordering is non-monotonic → document before NT extraction begins
+## Promotion Gate
+Promotion should require all of:
+1. Ark implementation complete
+2. Validation run recorded
+3. Ezra audit complete or explicitly waived
+4. Human ratification of ambiguous cases
+5. Ark promotion run from the same staged file
+
+## Constraints
+```text
+- one-verse-per-line is mandatory
+- study article text must not appear in canon scripture files
+- footnote markers are stripped from canon and indexed separately
+- anchor_registry.json remains a controlled source of truth
+- changes to canonical workflow should prefer tightening invariants over convenience
 ```

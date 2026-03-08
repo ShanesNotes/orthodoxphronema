@@ -142,3 +142,24 @@
 - Implication:
   - Marker ownership should be treated as belonging to the preceding verse boundary, not the following one.
   - `_recover_lc_splits()` comment and marker propagation logic are structurally unsafe under the observed source layout.
+
+## 2026-03-07 (team workflow review)
+- Action: Reviewed current collaboration pattern against proposed dual-agent workflow changes.
+- Recommendation:
+  - Keep Ark as sole writer / committer / architectural owner for now.
+  - Use repo-native artifacts (`memos/`, `reports/`, staged outputs) for handoff before adding a new `reviews/` folder.
+  - Split responsibility by risk:
+    - Ark owns implementation and promotion paths.
+    - Ezra owns audits, risk briefs, parser/cleanup critiques, and decision memos.
+- Reason:
+  - This preserves single-threaded ownership of canon-affecting writes while reducing copy/paste loss through durable handoff documents.
+
+## 2026-03-07 (workflow protocol formalized)
+- Action: Replaced the old Ezra-only `AGENTS.md` with a team protocol and added a reusable memo template.
+- Files:
+  - `AGENTS.md`
+  - `memos/_template_work_memo.md`
+- Outcome:
+  - Single-writer ownership is now explicit.
+  - `memos/` is formalized as the default durable handoff layer.
+  - Memo expectations for substantial changes are now documented in-repo.

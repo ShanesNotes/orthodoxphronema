@@ -1,0 +1,14 @@
+{
+  "book_code": "GEN",
+  "registry_version": "1.1.0",
+  "ratified_by": "human",
+  "ratified_date": null,
+  "residuals": [
+    {
+      "anchor": "GEN.49:2",
+      "classification": "docling_issue",
+      "description": "Poetic-block TextItem boundary. Text present in PDF but not emitted as separate verse.",
+      "blocking": false
+    }
+  ]
+}
