@@ -738,7 +738,9 @@ EXO.21:19 if the man rises again and walks about outside with his staff, then he
 EXO.21:20 If aman beats his male or female servant with arod, and he dies under his hand, he shall surely be punished.
 EXO.21:21 Notwithstanding, if he remains alive aday or two, the lord shall not be punished; for he is his property.
 EXO.21:22 'If two men fight and hurt awoman with child, and her child is born imperfectly formed, he shall surely be punished accordingly as the woman'shusband imposes on him; and he shall pay as the judges determine.
-EXO.21:23 But if the child is perfectly formed, he shall give life for life, 24 eye for eye, tooth for tooth, hand for hand, foot for foot, 25 burn for burn, wound for wound, stripe for stripe.
+EXO.21:23 But if the child is perfectly formed, he shall give life for life,
+EXO.21:24 eye for eye, tooth for tooth, hand for hand, foot for foot,
+EXO.21:25 burn for burn, wound for wound, stripe for stripe.
 EXO.21:26 If aman strikes the eye of his male or female servant and destroys it, he shall let them go free for their eye'ssake.
 
 ### Owners of Animals
@@ -872,7 +874,11 @@ EXO.24:18 So Moses went into the midst of the cloud and went up the mountain; an
 
 EXO.25:1 Now the Lord spoke to Moses, saying,
 EXO.25:2 'Speak to the children of Israel, that they take first fruits from everyone who gives it willingly from the heart. Thus you shall take My first fruits.
-EXO.25:3 This is the offering you shall take from them: gold, silver, and bronze; 4 blue, purple, and scarlet cloth, fine spun linen; and female goats' hair, 5 ram skins dyed red and skins dyed blue, and incorruptible wood; 6 oil for the light, and incense for anointing oil and for the composition of incense; 7 sardius stones, and stones for the carved work of the breastplate and the full-length robe.
+EXO.25:3 This is the offering you shall take from them: gold, silver, and bronze;
+EXO.25:4 blue, purple, and scarlet cloth, fine spun linen; and female goats' hair,
+EXO.25:5 ram skins dyed red and skins dyed blue, and incorruptible wood;
+EXO.25:6 oil for the light, and incense for anointing oil and for the composition of incense;
+EXO.25:7 sardius stones, and stones for the carved work of the breastplate and the full-length robe.
 EXO.25:8 Also, you shall make Me asanctuary, and I will appear among you.
 
 ### The Ark of the Covenant
@@ -1254,7 +1260,8 @@ EXO.34:2 So be ready in the morning to come up on Mount Sinai and to present you
 EXO.34:3 But no man shall come up with you, and let no man be seen throughout all the mountain; let neither sheep nor oxen feed before that mountain.'
 EXO.34:4 So he cut two tablets of stone like the first ones. Then Moses rose early in the morning and went up to Mount Sinai as the Lord commanded him; and he took in his hand the two tablets of stone.
 EXO.34:5 Now the Lord descended in the cloud; and He stood with him there, and he called upon the name of the Lord.
-EXO.34:6 Then the Lord passed before his face and proclaimed, 'The Lord God, compassionate, merciful, longsuffering, abounding in mercy and true, 7 preserving righteousness and showing mercy unto thousands, taking away lawlessness, wrongdoing, and sins; and He will not clear the guilty, visiting the lawlessness of the fathers upon the children and the children'schildren to the third and the fourth generation.'
+EXO.34:6 Then the Lord passed before his face and proclaimed, 'The Lord God, compassionate, merciful, longsuffering, abounding in mercy and true,
+EXO.34:7 preserving righteousness and showing mercy unto thousands, taking away lawlessness, wrongdoing, and sins; and He will not clear the guilty, visiting the lawlessness of the fathers upon the children and the children's children to the third and the fourth generation.'
 EXO.34:8 So Moses made haste and bowed his head toward the ground and worshiped.
 
 ### The Covenant Is Renewed
@@ -1298,7 +1305,10 @@ EXO.35:1 Now Moses gathered all the congregation of the children of Israel toget
 EXO.35:2 Work shall be done for six days, but the seventh day shall be aholy day for you, a Sabbath of rest to the Lord. Whoever does work on it shall be put to death.
 EXO.35:3 You shall kindle no fire throughout your dwellings on the Sabbath Day; I am the Lord.'
 EXO.35:4 Again Moses spoke to all the congregation of the children of Israel, saying, 'This is the thing the Lord commanded, saying,
-EXO.35:5 'Take from among you an offering to the Lord. Whoever is of awilling heart, let him bring his first fruits to the Lord: gold, silver, and bronze; 6 blue, purple, and scarlet fabric, fine linen, and female goats' hair; 7 ram skins dyed red, skins dyed blue, and incorruptible wood; 8 sardius stones and stones to be set in the ephod and the fulllength robe.
+EXO.35:5 'Take from among you an offering to the Lord. Whoever is of a willing heart, let him bring his first fruits to the Lord: gold, silver, and bronze;
+EXO.35:6 blue, purple, and scarlet fabric, fine linen, and female goats' hair;
+EXO.35:7 ram skins dyed red, skins dyed blue, and incorruptible wood;
+EXO.35:8 sardius stones and stones to be set in the ephod and the full-length robe.
 EXO.35:9 'Every man wise in heart among you, let him come and do all the Lord has commanded:
 EXO.35:10 the tabernacle, its cords, coverings, rings, bars, and posts;
 EXO.35:11 the ark of the testimony, its poles, mercy seat, and veil;

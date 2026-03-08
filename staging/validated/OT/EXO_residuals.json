@@ -2,67 +2,6 @@
   "book_code": "EXO",
   "registry_version": "1.1.0",
   "ratified_by": "human",
-  "ratified_date": null,
-  "residuals": [
-    {
-      "anchor": "EXO.21:24",
-      "classification": "structural_fused",
-      "description": "Fused into EXO.21:23 — 'eye for eye, tooth for tooth' list continues without line break.",
-      "blocking": true
-    },
-    {
-      "anchor": "EXO.21:25",
-      "classification": "structural_fused",
-      "description": "Fused into EXO.21:23 — 'burn for burn, wound for wound' continues inline.",
-      "blocking": true
-    },
-    {
-      "anchor": "EXO.25:4",
-      "classification": "structural_fused",
-      "description": "Fused into EXO.25:3 — material list continues without line break.",
-      "blocking": true
-    },
-    {
-      "anchor": "EXO.25:5",
-      "classification": "structural_fused",
-      "description": "Fused into EXO.25:3 — material list continues without line break.",
-      "blocking": true
-    },
-    {
-      "anchor": "EXO.25:6",
-      "classification": "structural_fused",
-      "description": "Fused into EXO.25:3 — material list continues without line break.",
-      "blocking": true
-    },
-    {
-      "anchor": "EXO.25:7",
-      "classification": "structural_fused",
-      "description": "Fused into EXO.25:3 — material list continues without line break.",
-      "blocking": true
-    },
-    {
-      "anchor": "EXO.34:7",
-      "classification": "structural_fused",
-      "description": "Fused into EXO.34:6 — 'preserving righteousness...' fused verb boundary not split.",
-      "blocking": true
-    },
-    {
-      "anchor": "EXO.35:6",
-      "classification": "structural_fused",
-      "description": "Fused into EXO.35:5 — material list continues without line break.",
-      "blocking": true
-    },
-    {
-      "anchor": "EXO.35:7",
-      "classification": "structural_fused",
-      "description": "Fused into EXO.35:5 — material list continues without line break.",
-      "blocking": true
-    },
-    {
-      "anchor": "EXO.35:8",
-      "classification": "structural_fused",
-      "description": "Fused into EXO.35:5 — material list continues without line break.",
-      "blocking": true
-    }
-  ]
+  "ratified_date": "2026-03-08",
+  "residuals": []
 }
