@@ -1,7 +1,7 @@
 {
   "book_code": "GEN",
-  "total_findings": 52,
-  "fused_article": 31,
+  "total_findings": 31,
+  "fused_article": 10,
   "fused_compound": 21,
   "findings": [
     {
@@ -9,7 +9,7 @@
       "osb_token": "forever",
       "brenton_context": "for ever",
       "classification": "fused_compound",
-      "verse_similarity": 0.593,
+      "verse_similarity": 0.7754,
       "action": "human_review"
     },
     {
@@ -53,22 +53,6 @@
       "action": "human_review"
     },
     {
-      "anchor": "GEN.8:7",
-      "osb_token": "araven",
-      "brenton_context": "a raven",
-      "classification": "fused_article",
-      "verse_similarity": 0.6533,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.8:8",
-      "osb_token": "adove",
-      "brenton_context": "a dove",
-      "classification": "fused_article",
-      "verse_similarity": 0.6437,
-      "action": "human_review"
-    },
-    {
       "anchor": "GEN.8:14",
       "osb_token": "twentyseventh",
       "brenton_context": "twenty seventh",
@@ -77,27 +61,11 @@
       "action": "human_review"
     },
     {
-      "anchor": "GEN.10:15",
-      "osb_token": "firstborn",
-      "brenton_context": "first born",
+      "anchor": "GEN.13:15",
+      "osb_token": "forever",
+      "brenton_context": "for ever",
       "classification": "fused_compound",
-      "verse_similarity": 0.3279,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.11:2",
-      "osb_token": "aplain",
-      "brenton_context": "a plain",
-      "classification": "fused_article",
-      "verse_similarity": 0.914,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.15:17",
-      "osb_token": "asmoking",
-      "brenton_context": "a smoking",
-      "classification": "fused_article",
-      "verse_similarity": 0.7653,
+      "verse_similarity": 0.7465,
       "action": "human_review"
     },
     {
@@ -117,51 +85,11 @@
       "action": "human_review"
     },
     {
-      "anchor": "GEN.19:28",
-      "osb_token": "afurnace",
-      "brenton_context": "a furnace",
-      "classification": "fused_article",
-      "verse_similarity": 0.7678,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.19:30",
-      "osb_token": "acave",
-      "brenton_context": "a cave",
-      "classification": "fused_article",
-      "verse_similarity": 0.6082,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.20:7",
-      "osb_token": "aprophet",
-      "brenton_context": "a prophet",
-      "classification": "fused_article",
-      "verse_similarity": 0.6535,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.21:16",
-      "osb_token": "adistance",
-      "brenton_context": "a distance",
-      "classification": "fused_article",
-      "verse_similarity": 0.7008,
-      "action": "human_review"
-    },
-    {
       "anchor": "GEN.21:26",
       "osb_token": "today",
       "brenton_context": "to day",
       "classification": "fused_article",
       "verse_similarity": 0.6311,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.22:13",
-      "osb_token": "aram",
-      "brenton_context": "a ram",
-      "classification": "fused_article",
-      "verse_similarity": 0.1376,
       "action": "human_review"
     },
     {
@@ -173,19 +101,11 @@
       "action": "human_review"
     },
     {
-      "anchor": "GEN.23:6",
-      "osb_token": "aking",
-      "brenton_context": "a king",
-      "classification": "fused_article",
-      "verse_similarity": 0.0254,
-      "action": "human_review"
-    },
-    {
       "anchor": "GEN.24:22",
       "osb_token": "earrings",
       "brenton_context": "ear rings",
       "classification": "fused_compound",
-      "verse_similarity": 0.5758,
+      "verse_similarity": 0.7368,
       "action": "human_review"
     },
     {
@@ -209,7 +129,7 @@
       "osb_token": "thirtyseven",
       "brenton_context": "thirty seven",
       "classification": "fused_compound",
-      "verse_similarity": 0.5707,
+      "verse_similarity": 0.7926,
       "action": "human_review"
     },
     {
@@ -221,35 +141,11 @@
       "action": "human_review"
     },
     {
-      "anchor": "GEN.27:11",
-      "osb_token": "asmooth",
-      "brenton_context": "a smooth",
-      "classification": "fused_article",
-      "verse_similarity": 0.8148,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.27:12",
-      "osb_token": "acurse",
-      "brenton_context": "a curse",
-      "classification": "fused_article",
-      "verse_similarity": 0.6792,
-      "action": "human_review"
-    },
-    {
       "anchor": "GEN.27:32",
       "osb_token": "firstborn",
       "brenton_context": "first born",
       "classification": "fused_compound",
       "verse_similarity": 0.7527,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.28:12",
-      "osb_token": "aladder",
-      "brenton_context": "a ladder",
-      "classification": "fused_article",
-      "verse_similarity": 0.8056,
       "action": "human_review"
     },
     {
@@ -261,35 +157,11 @@
       "action": "human_review"
     },
     {
-      "anchor": "GEN.30:17",
-      "osb_token": "afifth",
-      "brenton_context": "a fifth",
-      "classification": "fused_article",
-      "verse_similarity": 0.8652,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.30:19",
-      "osb_token": "asixth",
-      "brenton_context": "a sixth",
-      "classification": "fused_article",
-      "verse_similarity": 0.9307,
-      "action": "human_review"
-    },
-    {
       "anchor": "GEN.30:32",
       "osb_token": "today",
       "brenton_context": "to day",
       "classification": "fused_article",
       "verse_similarity": 0.4634,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.30:40",
-      "osb_token": "aspeckled",
-      "brenton_context": "a speckled",
-      "classification": "fused_article",
-      "verse_similarity": 0.3341,
       "action": "human_review"
     },
     {
@@ -302,18 +174,10 @@
     },
     {
       "anchor": "GEN.31:46",
-      "osb_token": "aheap",
-      "brenton_context": "a heap",
-      "classification": "fused_article",
-      "verse_similarity": 0.8446,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.31:46",
       "osb_token": "today",
       "brenton_context": "to day",
       "classification": "fused_article",
-      "verse_similarity": 0.8446,
+      "verse_similarity": 0.8475,
       "action": "human_review"
     },
     {
@@ -325,35 +189,11 @@
       "action": "human_review"
     },
     {
-      "anchor": "GEN.33:18",
-      "osb_token": "aposition",
-      "brenton_context": "a position",
-      "classification": "fused_article",
-      "verse_similarity": 0.8431,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.33:19",
-      "osb_token": "ahundred",
-      "brenton_context": "a hundred",
-      "classification": "fused_article",
-      "verse_similarity": 0.7304,
-      "action": "human_review"
-    },
-    {
       "anchor": "GEN.35:4",
       "osb_token": "earrings",
       "brenton_context": "ear rings",
       "classification": "fused_compound",
       "verse_similarity": 0.2792,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.37:31",
-      "osb_token": "akid",
-      "brenton_context": "a kid",
-      "classification": "fused_article",
-      "verse_similarity": 0.6667,
       "action": "human_review"
     },
     {
@@ -365,11 +205,11 @@
       "action": "human_review"
     },
     {
-      "anchor": "GEN.38:28",
-      "osb_token": "ascarlet",
-      "brenton_context": "a scarlet",
+      "anchor": "GEN.39:14",
+      "osb_token": "aloud",
+      "brenton_context": "a loud",
       "classification": "fused_article",
-      "verse_similarity": 0.6328,
+      "verse_similarity": 0.828,
       "action": "human_review"
     },
     {
@@ -394,14 +234,6 @@
       "brenton_context": "to day",
       "classification": "fused_article",
       "verse_similarity": 0.7547,
-      "action": "human_review"
-    },
-    {
-      "anchor": "GEN.44:33",
-      "osb_token": "aservant",
-      "brenton_context": "a servant",
-      "classification": "fused_article",
-      "verse_similarity": 0.6992,
       "action": "human_review"
     },
     {
