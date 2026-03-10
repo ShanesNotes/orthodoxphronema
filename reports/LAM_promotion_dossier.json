@@ -1,9 +1,9 @@
 {
   "book_code": "LAM",
   "testament": "OT",
-  "timestamp": "2026-03-10T09:48:11.687758",
+  "timestamp": "2026-03-10T17:45:31.500571",
   "registry_version": "1.3.0",
-  "body_checksum": "8da8ccf8de58c3a6e4fcb33359775c4afa9b564e61cfa03ff10fbd3abfd8f711",
+  "body_checksum": "9094c7f29cbcec052e87e332afd24a84830ae8466eb3aa468d5702eab99f98b4",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -18,11 +18,8 @@
       "messages": []
     },
     "V4": {
-      "status": "WARN",
-      "messages": [
-        "V4   Missing verses in ch.4: jumps from 0 to 2",
-        "V4   Missing verses in ch.5: jumps from 0 to 2"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V5": {
       "status": "PASS",
@@ -33,10 +30,8 @@
       "messages": []
     },
     "V7": {
-      "status": "WARN",
-      "messages": [
-        "V7   Completeness: 148/154 verses (96.1%); gap of 6"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V8": {
       "status": "PASS",
@@ -45,24 +40,51 @@
     "V9": {
       "status": "PASS",
       "messages": []
-    },
-    "V10": {
-      "status": "SKIP",
-      "messages": []
-    },
-    "V11": {
-      "status": "PASS",
-      "messages": []
-    },
-    "V12": {
-      "status": "PASS",
-      "messages": []
     }
   },
-  "residuals_sidecar": null,
-  "decision": "blocked",
-  "allow_incomplete": true,
-  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/LAM.md",
-  "editorial_candidates_path": null,
-  "residuals_path": null
+  "residuals_sidecar": [
+    {
+      "anchor": "LAM.3:63",
+      "classification": "dropcap_ocr",
+      "description": "Verse LAM.3:63 missing - dropcap or extraction gap",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "LAM.3:64",
+      "classification": "dropcap_ocr",
+      "description": "Verse LAM.3:64 missing - dropcap or extraction gap",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "LAM.3:65",
+      "classification": "dropcap_ocr",
+      "description": "Verse LAM.3:65 missing - dropcap or extraction gap",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "LAM.3:66",
+      "classification": "dropcap_ocr",
+      "description": "Verse LAM.3:66 missing - dropcap or extraction gap",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "LAM.4:1",
+      "classification": "dropcap_ocr",
+      "description": "Verse LAM.4:1 missing - dropcap or extraction gap",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "LAM.5:1",
+      "classification": "dropcap_ocr",
+      "description": "Verse LAM.5:1 missing - dropcap or extraction gap",
+      "blocking": false,
+      "ratified": false
+    }
+  ],
+  "decision": "promoted"
 }

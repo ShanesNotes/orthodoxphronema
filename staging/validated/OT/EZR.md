@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-EZR.1:1 Now in the first year of Cyrus king of Persia, that the word of the Lord from th
+EZR.1:1 Now in the first year of Cyrus king of Persia, that the word of the Lord from the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus, king of Persia, and he made a proclamation throughout his entire kingdom, and even put it in writing, saying,
 EZR.1:2 'Thus says Cyrus king of the Persians: 'The Lord God of heaven gave to me all the kingdoms of the earth. And He commanded me to build Him a house at Jerusalem in Judea.
 
 ### The Second Book of Ezra
@@ -33,11 +33,11 @@ EZR.1:10 thirty gold bowls, two hundred silver bowls, and one thousand other ves
 EZR.1:11 All the vessels of gold and silver going up with Sheshbazzar from the land of exile, from Babylon into Jerusalem, totaled five thousand four hundred.
 ## Chapter 2
 
-EZR.2:1 And these are the sons from the places of the people who had gone up from the ca
+EZR.2:1 And these are the sons from the places of the people who had gone up from the captivity, whom Nebuchadnezzar the king of Babylon had carried away and settled in Babylon, and who returned to Jerusalem and Judea, every man into his city.
 EZR.2:2 Those who came with Zerubbabel were Jesus, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.
 EZR.2:3 The number of the men of the people of Israel: 3 the sons of Parosh were two thousand one hundred seventy-two;
 EZR.2:4 the sons of Shephatiah were three hundred seventy-two;
-EZR.2:5 the sons of A rah were seven hundred seventy-five;
+EZR.2:5 the sons of Arah were seven hundred seventy-five;
 EZR.2:6 the sons of Pahath-Moab belonging to the sons of Jesus and Joab were two thousand eight hundred twelve;
 EZR.2:7 the sons of Elam were one thousand two hundred fifty-four;
 EZR.2:8 the sons of Zattu were nine hundred forty-five;

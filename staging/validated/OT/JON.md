@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-JON.1:1 ow the word of the Lord came to Jonah the son of Amittai, saying,
+JON.1:1 Now the word of the Lord came to Jonah the son of Amittai, saying,
 JON.1:2 'Arise and go to Nineveh, the great city, and preach in it; for the cry of her wickedness has come up to me.'
 JON.1:3 But Jonah rose up to flee to Tarshish from the presence of the Lord. So he went down to Joppa and found a ship going to Tarshish, paid his fare, and boarded the ship to set sail with them to Tarshish, away from the presence of the Lord.
 JON.1:4 But the Lord raised up a great wind upon the sea, and there came about a mighty tempest, and the ship was in danger of breaking up.
@@ -35,7 +35,7 @@ JON.1:15 So they took up Jonah and threw him into the sea, and the sea ceased fr
 JON.1:16 And the men feared the Lord even more, and they offered a sacrifice to the Lord and vowed vows.
 ## Chapter 2
 
-JON.2:1 ow the Lord commanded a huge sea creature to swallow Jonah, and Jonah was in the belly of the sea creature three days and three nights.
+JON.2:1 Now the Lord commanded a huge sea creature to swallow Jonah, and Jonah was in the belly of the sea creature three days and three nights.
 JON.2:2 And from the belly of the sea creature, Jonah prayed to the Lord his God,
 JON.2:3 and said: 'I cried out in my affliction to the Lord, my God, And He heard my voice; Out of the belly of Hades, You heard the cry of my voice.
 JON.2:4 You cast me into the depths of the heart of the sea, And rivers encompassed me; All Your surging waters and Your waves passed over me.
@@ -65,7 +65,7 @@ JON.3:9 'Who knows if God shall have a change of heart and turn from His fierce 
 JON.3:10 And God saw their works, that they turned from their evil ways. And God had a change of heart about the evil which He said He would do to them, and He did not do it.
 ## Chapter 4
 
-JON.4:1 ut Jonah was deeply grieved and was troubled.
+JON.4:1 But Jonah was deeply grieved and was troubled.
 JON.4:2 So he prayed to the Lord and said, 'O Lord, were these not my words when I was yet in my land? Therefore I saw the need to flee to Tarshish; because I knew You to be compassionate and merciful, longsuffering and abundant in mercy, and willing to change your heart concerning evils.
 JON.4:3 And now, Master, Lord, take my life from me, for it is better for me to die than to live.'
 JON.4:4 And the Lord said to Jonah, 'Are you exceedingly grieved?'

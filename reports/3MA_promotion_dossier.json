@@ -1,7 +1,7 @@
 {
   "book_code": "3MA",
   "testament": "OT",
-  "timestamp": "2026-03-10T09:54:46.746889",
+  "timestamp": "2026-03-10T17:38:28.514227",
   "registry_version": "1.3.0",
   "body_checksum": "22155a3cbf06bde0eaf8ec6840f3948d73ee7d4c4d0bc2be6b6dbfeb3061df86",
   "validation": {
@@ -42,18 +42,6 @@
     "V9": {
       "status": "PASS",
       "messages": []
-    },
-    "V10": {
-      "status": "PASS",
-      "messages": []
-    },
-    "V11": {
-      "status": "PASS",
-      "messages": []
-    },
-    "V12": {
-      "status": "PASS",
-      "messages": []
     }
   },
   "residuals_sidecar": {
@@ -65,15 +53,12 @@
     "residuals": [
       {
         "anchor": "3MA.1:29",
-        "classification": "docling_issue",
-        "description": "Verse absent from extraction. OSB ch1 may have 28 verses (CVC=29 from Brenton). OSB 1:28 text covers content of both Brenton 1:28 and 1:29, suggesting versification difference rather than parser gap.",
+        "classification": "osb_source_absent",
+        "description": "OSB ch1 ends at v28 (goes directly to ch2 heading). OSB 1:28 covers Brenton 1:28+1:29 content. Versification difference, not parser gap.",
+        "blocking": false,
         "ratified": true
       }
     ]
   },
-  "decision": "blocked",
-  "allow_incomplete": true,
-  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/3MA.md",
-  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/3MA_editorial_candidates.json",
-  "residuals_path": "/home/ark/orthodoxphronema/staging/validated/OT/3MA_residuals.json"
+  "decision": "promoted"
 }

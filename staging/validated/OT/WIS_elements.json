@@ -1,0 +1,817 @@
+[
+  {
+    "idx": 0,
+    "type": "TextItem",
+    "text": "1"
+  },
+  {
+    "idx": 1,
+    "type": "SectionHeaderItem",
+    "text": "The Wisdom of Solomon"
+  },
+  {
+    "idx": 2,
+    "type": "TextItem",
+    "text": "Author -An  unknown  Jewish  believer  of  the  larger  Greek  community  of  Alexandria,"
+  },
+  {
+    "idx": 3,
+    "type": "TextItem",
+    "text": "Egypt. Date -30-10 BC."
+  },
+  {
+    "idx": 4,
+    "type": "TextItem",
+    "text": "Major Theme -The greatness of Wisdom. The  Wisdom of Solomon was written to offer edification  to  a  Jewish  community  during  times  of  political,  military,  and  religious upheaval. Its aim was to encourage the Jews to be faithful to their covenant with God. The work was also intended to attract pagans and apostate Jews back to Judaism."
+  },
+  {
+    "idx": 5,
+    "type": "TextItem",
+    "text": "Background -The  content  of  this  rich  theological  work  has  prepared  for  and  deeply influenced  the Church's  teachings  on  the  Incarnation  of Christ, as well as its understanding of God, salvation, and the nature of the Church itself. The Wisdom of Solomon is frequently found in the Old Testament readings of the Church lectionary, especially  during  Holy  Week.  This  inspired  writing  was  used  in  the  early  Church  to further  instruct  those  most  recently  baptized.  Chronologically,  it  was  the  last  book written in the Old Testament Canon, and it serves as a bridge to the New Testament in terms of theology and preparation for the Advent of Christ."
+  },
+  {
+    "idx": 6,
+    "type": "SectionHeaderItem",
+    "text": "Outline"
+  },
+  {
+    "idx": 7,
+    "type": "TextItem",
+    "text": "I.  Wisdom Bestows Eternal Life (1:1-6:21)"
+  },
+  {
+    "idx": 8,
+    "type": "TextItem",
+    "text": "II.  The Nature and Power of Wisdom and King Solomon's Pursuit of Her (6:22-10:21)"
+  },
+  {
+    "idx": 9,
+    "type": "TextItem",
+    "text": "III.  Wisdom Guides God's Chosen People during the Exodus (11:1-19:22)"
+  },
+  {
+    "idx": 10,
+    "type": "TextItem",
+    "text": "Seek the Lord"
+  },
+  {
+    "idx": 11,
+    "type": "SectionHeaderItem",
+    "text": "Love righteousness, you who judge on the earth."
+  },
+  {
+    "idx": 12,
+    "type": "TextItem",
+    "text": "Think about the Lord in goodness"
+  },
+  {
+    "idx": 13,
+    "type": "TextItem",
+    "text": "And seek Him with sincerity  of heart; †"
+  },
+  {
+    "idx": 14,
+    "type": "TextItem",
+    "text": "2 Because He is found by  those who do not tempt Him,"
+  },
+  {
+    "idx": 15,
+    "type": "TextItem",
+    "text": "And He is manifest to those who do not disbeliev e Him."
+  },
+  {
+    "idx": 16,
+    "type": "TextItem",
+    "text": "3 For dishonest reasoning separates people from God,"
+  },
+  {
+    "idx": 17,
+    "type": "TextItem",
+    "text": "And when His power examines someone,"
+  },
+  {
+    "idx": 18,
+    "type": "TextItem",
+    "text": "It conv icts the undiscerning; 4 For wisdom will not enter the soul that plots ev il, Nor will it dwell in a body  inv olv ed in sin. † 5 For a holy  spirit of discipline flees from deceit And sends away undiscerning reasoning; It will put wrongdoing to shame when it comes near. †"
+  },
+  {
+    "idx": 19,
+    "type": "SectionHeaderItem",
+    "text": "God Examines Our Actions"
+  },
+  {
+    "idx": 20,
+    "type": "TextItem",
+    "text": "6 For wisdom is a spirit that lov es mankind, But she will punish a blasphemer because of his words; For God is the witness of his thoughts, The true examiner of his heart, and the hearer of his tongue; 7 Because the Spirit of the Lord fills the world, And He who holds all things together knows what is said. † 8  Therefore no one who speaks unrighteous things Will escape notice, Nor will justice, when it cross-examines, pass him by . 9 For there shall be a close examination Into the deliberations of an ungodly  man, And a report of his words will come to the Lord As proof of his lawlessness; 10 For the zealous ear hears all things, And the noise of murmuring is not hidden. 11  Therefore keep y ourself from useless murmuring And refrain y our tongue from ev il speech; For no secret word will go unpunished, And a ly ing mouth will destroy  one's soul."
+  },
+  {
+    "idx": 21,
+    "type": "SectionHeaderItem",
+    "text": "God Made Life, Not Death"
+  },
+  {
+    "idx": 22,
+    "type": "TextItem",
+    "text": "12 Do not be zealous for death by  the deceit of y our life, Nor bring destruction upon y ourself by  the works of y our hands. 13 For God did not make death, Neither does He hav e pleasure ov er the destruction of the liv ing. † 14 For He created all things that they  might exist, And the generations of the world so they  might be preserv ed;"
+  },
+  {
+    "idx": 23,
+    "type": "TextItem",
+    "text": "For there was no poison of death in them, Nor was the reign of Hades on the earth. 15 For righteousness does not die. 16  But the ungodly  summoned death by  their words and works; Although they thought death would be a friend, they  were dissolv ed. For they  made a cov enant with death, Since they  were deserv ing to share it in common."
+  },
+  {
+    "idx": 24,
+    "type": "SectionHeaderItem",
+    "text": "An Ungodly View of Life"
+  },
+  {
+    "idx": 25,
+    "type": "SectionHeaderItem",
+    "text": "2 For they said among themselves, as they reasoned incorrectly:"
+  },
+  {
+    "idx": 26,
+    "type": "TextItem",
+    "text": "'Our life is short and painful, And there is no cure for the death of a man; For no one has been known to return from Hades; † 2 Because we were born by  chance, And after this we shall be as though we nev er existed; For the breath in our nostrils is smoke, And our speech is the spark kindled by  the beating of our heart. 3 When the spark is extinguished, our body  will turn to ashes, And our breath will disperse like empty  air. 4 Then our name will be forgotten in due time, And no one will remember our works; So our life will pass away  like the trace of a cloud And be scattered like fog, Driven away by the ray s of the sun And oppressed by  its heat. 5 For our appointed time is the passing of a shadow, And there is no return from our death; Because it is sealed up, no one can turn back. 6 Come, therefore, and let us enjoy  the good things that exist, And make the most of creation as quickly  as possible, As we did in our y outh. 7 Let us be filled with expensiv e wine and perfumes, And let no flower of springtime pass us by . 8 Let us crown ourselv es with rosebuds"
+  },
+  {
+    "idx": 27,
+    "type": "TextItem",
+    "text": "Before they  wither away . 9 Let none of us fail to share in our arrogance. Let us leav e signs of our gladness ev ery where, Because this is our portion, and this is our lot. 10 Let us oppress the righteous poor man; Let us not spare a widow, Nor respect the aged gray  hair of an old man. 11 Let our might be our law of righteousness, For what is weak is shown to be useless."
+  },
+  {
+    "idx": 28,
+    "type": "SectionHeaderItem",
+    "text": "Hatred of the Righteous"
+  },
+  {
+    "idx": 29,
+    "type": "TextItem",
+    "text": "12 'Let us lie in ambush for the righteous man, Because he is useless to us and opposes our deeds; He denounces us for our sins against the law And accuses us of sins against our upbringing. † 13 He claims to hav e knowledge of God, And he calls himself a child of the Lord. 14 He has become for us as a refutation of our purposes; Even seeing him is a burden to us, 15 Because his life is unlike that of others; For his paths go in a different direction. 16 We are considered by  him as a hy brid, And he avoids our way s as something immoral. He considers the last things of the righteous as blessed And pretends that God is his Father. 17 Let us see if his words are true, And let us put these last things to the test at the end of his life. 18 For if the righteous man is a son of God, He will help him, And deliv er him from the hand of those who oppose him. † 19 Let us test him with insult and torture That we may know his gentleness And test his patient endurance. 20  Let us condemn him to a shameful death, For there shall be a v isitation because of his words.' 21 So they  reasoned these things"
+  },
+  {
+    "idx": 30,
+    "type": "TextItem",
+    "text": "And were led astray , For their malice blinded them. 22 But they  did not know the my steries of God, Nor hope for the wages of holiness, Nor judge the reward of blameless souls. 23  For God created man for immortality And made him an image of His own eternity . 24 But death entered the world by  the env y  of the dev il, And those of his portion tempt it."
+  },
+  {
+    "idx": 31,
+    "type": "SectionHeaderItem",
+    "text": "The Hope of the Righteous"
+  },
+  {
+    "idx": 32,
+    "type": "SectionHeaderItem",
+    "text": "3 But the souls of the righteous are in the hand of God,"
+  },
+  {
+    "idx": 33,
+    "type": "TextItem",
+    "text": "And no torture will ev er touch them. † 2 In the ey es of the undiscerning they  seemed to hav e died, And their departure was considered to be misfortune, 3 And their passage from us to be their destruction; But they  are at peace. 4 For though in man's v iew they  were punished, Their hope is full of immortality . 5  Though chastened in a few things, Great kindness will be shown them, For God tested them and found them worthy  of Himself. 6 He tested them like gold in a furnace And accepted them as a whole burnt offering. 7 In the time of their v isitation they  will shine forth, And they will run about like sparks through straw. 8 They  will judge nations and rule ov er peoples, And the Lord shall reign ov er them unto the ages. 9  Those who trust in Him will understand truth, And the faithful shall continue with Him in lov e, Because grace and mercy  are upon His elect. † †"
+  },
+  {
+    "idx": 34,
+    "type": "SectionHeaderItem",
+    "text": "The Plight of the Ungodly"
+  },
+  {
+    "idx": 35,
+    "type": "TextItem",
+    "text": "10 But the ungodly  shall experience The punishment they themselves plotted,"
+  },
+  {
+    "idx": 36,
+    "type": "TextItem",
+    "text": "They who rejected the righteous man And rebelled against the Lord. † 11 For whoev er despises wisdom and instruction is miserable, And their hope is v ain, their labors are useless, And their works are worthless. 12 Their wiv es are foolish,"
+  },
+  {
+    "idx": 37,
+    "type": "TextItem",
+    "text": "4 And their children are ev il, their existence accursed. The Blessing of Virtue 13 Blessed is the undefiled barren woman Who has not known sexual promiscuity ; She shall hav e fruit in the v isitation of souls. † 14 Blessed also is the eunuch who has done no lawless deed, Nor thought evil things against the Lord; For a chosen grace of faith will be giv en to him, And a delightful portion in the temple of the Lord. 15 For the fruit of good labors is of good report, And the root of discernment is infallible. Children of the Ungodly 16 But the children of adulterers shall not reach maturity , And the seed of a lawless bed shall perish. 17 For ev en if they  liv e a long time They shall be considered as nothing, And in the end their old age will be accounted a dishonor. 18 But if they  should die y oung, they  would hav e no hope Nor consolation in the day  of decision. 19 For the end of an unrighteous generation is griev ous. When Virtue Is Present Childlessness with virtue is better than this, For immortality  is in its memory ; Because it is known both by  God and by  man. † 2 When virtue is present, people imitate it, And when it goes away , they  long for it."
+  },
+  {
+    "idx": 38,
+    "type": "TextItem",
+    "text": "Throughout one's lifetime, Virtue leads the struggle for undefiled prizes, Wearing a crown and conquering. † 3 But the prolific multitude of the ungodly  are useful to no one, And none of their illegitimate seedlings will grow a deep root Or establish a sure footing. 4 For although they  may  flourish in their branches for a time, Yet without a sure footing they  will be shaken by  the wind And uprooted by  the force of the winds. 5 Their twigs shall be broken off before they  reach maturity , And their fruit will be useless, Not ripe for eating or good for any thing. 6 For children born from lawless unions Are witnesses of ev il against their parents In their close examination. † 7 But though a righteous man may  die before his time, He shall be at rest. 8 For old age is not honored for its length of existence, Nor measured by its number of y ears; 9 But discernment is gray  hair for mankind, And a spotless life is the maturity  of old age."
+  },
+  {
+    "idx": 39,
+    "type": "SectionHeaderItem",
+    "text": "The Righteous Enoch"
+  },
+  {
+    "idx": 40,
+    "type": "TextItem",
+    "text": "10 There was once a man pleasing to God and lov ed by  Him, And while liv ing among sinners he was taken up. † 11 He was caught up lest ev il change his understanding Or deceit deceiv e his soul. 12 For env y  arising from lack of judgment obscures what is good, And a whirling of desire undermines an innocent heart. 13  He was made perfect, For in a short time he fulfilled long y ears, 14 For his soul was pleasing to the Lord; Therefore, He took him early  from the midst of ev il. Yet peoples saw this but did not understand, Nor take such a thing to heart,"
+  },
+  {
+    "idx": 41,
+    "type": "TextItem",
+    "text": "5"
+  },
+  {
+    "idx": 42,
+    "type": "TextItem",
+    "text": "15 That the Lord's grace and mercy  are with His elect And that He watches over His holy  ones."
+  },
+  {
+    "idx": 43,
+    "type": "SectionHeaderItem",
+    "text": "A Study in Contrasts"
+  },
+  {
+    "idx": 44,
+    "type": "TextItem",
+    "text": "16  But a righteous man who is dead Shall condemn the ungodly  who are liv ing, And a y outh who is quickly  perfected Shall condemn the ripe old age of a wrongdoer. 17 For they  will see the end of the wise man, But will not understand what the Lord purposed for him Or why He kept him safe. † 18 They  will see and despise him, But the Lord will laugh them to scorn. 19 After this they  shall be dead without honor And an insult among the dead continually ; Because He will dash them headlong and speechless to the ground And shake them from the foundations. They shall be left dry  and barren to the v ery  end; They shall be in pain, And their memory shall perish. 20 They  will come with dread In the day  of reckoning for their sins, And their lawless deeds will conv ict them to their face. †"
+  },
+  {
+    "idx": 45,
+    "type": "SectionHeaderItem",
+    "text": "Then the righteous man will stand with confidence"
+  },
+  {
+    "idx": 46,
+    "type": "TextItem",
+    "text": "In the presence of those who afflict him; And those who reject his labors, 2 When they see him, will be shaken with dreadful fear; And they shall be amazed at his unexpected salv ation. 3 They  will speak among themselv es with regret, And in anguish of spirit they  will groan and say , 4 'This is the man whom we fools once held in derision And made a byword of disgrace. We considered his life to be madness And his death as without honor."
+  },
+  {
+    "idx": 47,
+    "type": "TextItem",
+    "text": "5  How has he been numbered among the sons of God? And how is his portion among the saints? † 6 Therefore we went astray  from the way  of truth, For the light of righteousness did not shine on us, And the sun did not rise upon us. 7 We were satisfied with the paths of lawlessness, And we traveled through impassable deserts; But the way  of the Lord we hav e not known. 8  What has arrogance profited us? And how has our wealth with its false pretension helped us? 9 'All those things hav e passed by  like a shadow And like news that escapes notice; 10 Like a ship that passes through the wav es of water, Which after passing through, no trace can be found, Nor the pathway of its keel in the wav es; 11 Or like a bird, when it flies through the air, No proof of its journey  is found; And the light air, whipped by  the beating of its pinions And divided by  the force of its rushing motion, Is trav eled through by  the mov ement of its wings, But after this no sign of its approach is found therein; 12 Or like an arrow, when it is shot at an object, The div ided air immediately  comes together, So that no one knows its pathway . 13 Thus we also, after we are born, come to an end, Yet hav e no sign of v irtue to show, But have been entirely  consumed in our v ice.' 14 Because the hope of the ungodly  man Is like dust carried by  the wind And like a light frost driv en away  by  a storm, It is dispersed like smoke before the wind, And it passes like the remembrance of a guest Who stays only  one day . 15 But the righteous liv e forev er, And their reward is with the Lord;"
+  },
+  {
+    "idx": 48,
+    "type": "TextItem",
+    "text": "6"
+  },
+  {
+    "idx": 49,
+    "type": "TextItem",
+    "text": "And their care is by  the Most High. 16 Therefore they  shall receiv e a kingly  dwelling of dignity And a crown of beauty  from the hand of the Lord, Because He will shelter them with His right hand And protect them with His arm. 17 He will take His zeal as His full armor And will turn His creation into weapons against His enemies. † 18 He will wear righteousness as a breastplate And put on impartial judgment as a helmet. 19 He will take holiness as an unconquerable shield 20 And sharpen His relentless wrath for a sword; And creation will fight with Him against the senseless. 21 Well-aimed flashes of lightning will strike And leap to their object as from a well-drawn bow of clouds; 22 And hailstones full of anger will be hurled As from an engine of war. The water of the sea will be v exed with them, And the riv ers will wash ov er them sev erely . 23  A powerful wind will oppose them, And like a storm it will winnow them away . Lawlessness will lay  waste all the earth, And wrongdoing will overturn the thrones of rulers."
+  },
+  {
+    "idx": 50,
+    "type": "SectionHeaderItem",
+    "text": "To Kings and Rulers"
+  },
+  {
+    "idx": 51,
+    "type": "SectionHeaderItem",
+    "text": "Listen therefore, O kings, and understand;"
+  },
+  {
+    "idx": 52,
+    "type": "TextItem",
+    "text": "Learn, O judges of the ends of the earth. † 2 Giv e ear, y ou that rule ov er multitudes, And take pride in y ourself ov er a multitude of nations. 3 For power was giv en to y ou from the Lord, And your lordship from the Most High, Who will make a careful search of y our works And examine closely  y our plans. 4 Because as serv ants of His kingdom, You did not judge rightly ;"
+  },
+  {
+    "idx": 53,
+    "type": "TextItem",
+    "text": "Neither did y ou keep His law, Nor did y ou walk according to the plan of God; 5 He shall come upon y ou terribly  and quickly , Because sev ere judgment falls on those who gov ern. 6 For the least is pardoned in mercy , But the powerful shall be strongly  examined. 7 For the Master of all will not shrink back From anyone's presence, Nor respect greatness; Because He Himself made both small and great, And cares for all alike. 8 But a strict inquiry  is imminent for the mighty . 9 Therefore to y ou, O ty rants, my  words are directed, That y ou may  learn wisdom and not fall away . 10 For they  will be made holy  who keep holy  things piously , And those who are taught holy  things will find a defense. † 11 Therefore long for my  words; Yearn for them, and y ou will be instructed."
+  },
+  {
+    "idx": 54,
+    "type": "SectionHeaderItem",
+    "text": "Wisdom's Radiance"
+  },
+  {
+    "idx": 55,
+    "type": "TextItem",
+    "text": "12  Wisdom is radiant and unfading And is easily  perceiv ed by  those who lov e her; For she is found by  those who seek her. † 13  She comes upon those who long to know her beforehand. 14 He who rises early  in the morning to seek her Will not grow weary , For he will find her sitting at his gates. 15 For to think deeply  about her Is the perfection of discernment, And he who keeps watch for her Will soon be free from worry ; † 16 Because she goes about seeking those worthy  of her, And she appears to them fav orably  in their paths And meets them in every  thought. † 17  For the beginning of wisdom"
+  },
+  {
+    "idx": 56,
+    "type": "TextItem",
+    "text": "Is a v ery  genuine desire for instruction, And careful attention to instruction is the lov e of her. † 18 Now this lov e is the keeping of her laws, And giving heed to her laws is the assurance of incorruption; 19 And incorruption brings one near to God. 20 So desire for wisdom leads to a kingdom. 21 Therefore if y ou take pleasure in thrones and scepters, O ty rants, Honor wisdom, that y ou may  reign forev er. 22 I will tell y ou what wisdom is and how she came to be, And I will hide no my steries from y ou; But I will search her out from the beginning of creation And make her knowledge clear. I will not pass by  the truth, 23 Nor indeed trav el with env y , which causes one to waste away , Because envy will hav e no share in wisdom. 24 But a multitude of wise men is the salv ation of the world, And a prudent king is the stability  of his people. † 25 Therefore be instructed by  my  words, and y ou will profit."
+  },
+  {
+    "idx": 57,
+    "type": "SectionHeaderItem",
+    "text": "The King Is a Mere Man"
+  },
+  {
+    "idx": 58,
+    "type": "SectionHeaderItem",
+    "text": "7 Now I also am a mortal, the same as all men,"
+  },
+  {
+    "idx": 59,
+    "type": "TextItem",
+    "text": "And earthborn, a descendant of the first-formed man; For in the womb of a mother I was engrav ed as flesh. † 2 In a period of ten months, I was constructed with blood From the seed of a man and the pleasure of marriage. † 3  When I was born, I breathed the common air, Then fell upon the earth the same as all; And as my first sound, I cried like ev ery one else. 4 I was nursed with care in swaddling cloths. † 5 Thus no king had a different beginning of existence, 6 For there is one entrance into life for all, And a common departure. †"
+  },
+  {
+    "idx": 60,
+    "type": "SectionHeaderItem",
+    "text": "Solomon's Love of Wisdom"
+  },
+  {
+    "idx": 61,
+    "type": "TextItem",
+    "text": "I appealed to God, and the spirit of wisdom came to me. † 8 I preferred her to scepter and thrones, And regarded wealth as nothing in comparison to her. 9 Nor did I liken her to any  priceless stone, Because all gold is only  a little sand in her sight. And silv er will be counted as clay  before her. 10 I lov ed her more than health and beauty , And I chose her instead of light, Because her light is sleepless. 11 All good things came to me together with her, And in her hands countless wealth. 12 I was gladdened by  all of them Because wisdom rules them; But I did not know she was their mother. 13 So I learned both honestly  and ungrudgingly , And I do not hide her wealth, 14 For it is an unfailing treasure for men Who, when they get it, obtain friendship with God, For they  demonstrate her gifts that come from instruction. 15  May God grant me to speak according to His purpose And to think worthily  of what I was giv en, For He is also the guide of wisdom and the corrector of the wise. 16 For both we and our words are in His hand, And so are all insights and knowledge of handicrafts. 17 For He giv es me knowledge of the things that exist: To know the truthful structure of the world, The operativ e power of its elementary  principles, 18 The beginning, end, and middle of the times, The changes of the solstices and the transitions of the seasons, 19 The cy cles of the y ear and the arranging of the stars, 20 The natures of animals and the tempers of beasts, The force of winds and the reasoning of mankind, The distinction of plants and the strength of roots, 21 And to know whatever is hidden and whatev er is v isible. For wisdom, the artisan of all things, taught me."
+  },
+  {
+    "idx": 62,
+    "type": "TextItem",
+    "text": "22 So in herself, wisdom is a spirit that is rational, Holy, only -begotten, manifold, subtle, easily  mov ed, clear, Undefiled, manifest, inv ulnerable, lov ing what is good, keen, † 23 Unhindered, beneficent, man-lov ing, steadfast, unfailing, Free from worry , all-powerful, all-surv ey ing, And penetrating all spirits that are rational, pure, and most subtle. 24  For wisdom moves from one place to another More easily  than motion itself, And because of her purity , she penetrates all things. 25 So she is the exhalation of the power of God And the emanation of the pure glory  of the Almighty ; Therefore nothing defiled enters her. 26 For she is the radiance of eternal light, A spotless mirror of the operativ e power of God And the image of His goodness. 27 Though she is one, she can do all things; So while remaining in herself, she renews all things; And in ev ery  generation, she passes into holy  souls And makes them friends of God and prophets. † 28  Thus God lov es nothing as much As the one who liv es with wisdom. 29 For wisdom is more beautiful than the sun And more than every constellation of stars. Compared with light she is found to be superior, 30 For night succeeds the light, But ev il cannot ov ercome wisdom."
+  },
+  {
+    "idx": 63,
+    "type": "SectionHeaderItem",
+    "text": "At Home with Wisdom"
+  },
+  {
+    "idx": 64,
+    "type": "SectionHeaderItem",
+    "text": "8 Wisdom stretches out from one end of the earth to the other,"
+  },
+  {
+    "idx": 65,
+    "type": "TextItem",
+    "text": "And she governs all things well. † 2 I lov ed her and sought her from my  y outh, And desired to take her as a bride for my self; And I became a lov er of her beauty . 3 She glorifies her noble birth by  liv ing with God,"
+  },
+  {
+    "idx": 66,
+    "type": "TextItem",
+    "text": "And the Master of all lov es her. 4 For she is the initiate of the knowledge of God And one who chooses His works. † 5 Now if riches are a possession to be desired in life, What is richer than wisdom, who works all things? 6 And if discernment shows itself in action, Who more than wisdom is its craftsman? 7 If any one lov es righteousness, The products of righteousness are the v irtues. For wisdom teaches self-control, discernment, righteousness and courage, Concerning which things there is nothing more v aluable in the life of man. † 8 But also, if any one longs for great experience, She knows the things of old and portray s the things to come; She understands subtlety  of words and the solution of riddles; She has foreknowledge of signs and wonders And the outcomes of times and seasons. † 9 Therefore I decided to take her to liv e with me, Knowing she would give me good counsel And encouragement in cares and sorrows. 10 Because of her I will hav e glory  among the multitudes And honor in the presence of the elders, though I am y oung. † 11 I will be found keen in judgment And be admired in the sight of rulers. 12 When I am silent, they  will wait for me, And when I speak, they  will giv e heed to me; And when I speak longer, They will put their hand ov er their mouth. 13 I will hav e immortality  because of her And will leav e an eternal remembrance For those who exist after me. 14 I shall gov ern peoples, And nations will be subject to me. † 15 Dread ty rants shall be afraid of me when they  hear of me; Among the people I will show my self To be good and courageous in war."
+  },
+  {
+    "idx": 67,
+    "type": "TextItem",
+    "text": "9"
+  },
+  {
+    "idx": 68,
+    "type": "TextItem",
+    "text": "16 When I enter my  house, I shall find rest with her, For association with her has no bitterness, Neither does liv ing with her hav e any  sorrow, But only  gladness and joy . 17 When I considered these things within my self And thought about them in my heart, That in kinship with wisdom there is immortality , 18 And in friendship with her there is good pleasure, And in the labors of her hands there is unfailing wealth, And in the shared training of her company  there is discernment, And in the fellowship of her words there is good reputeThus I searched about that I might take her for my self. 19 As a child I was good by  nature and receiv ed a good soul; † 20  And much more, since I was good, I entered an undefiled body . 21 Yet I knew otherwise that I would not be self-controlled Unless God gav e me wisdom, And that it was a mark of discernment To know whose gift she was- † So I entreated the Lord and besought Him, And with all my  heart, I said:"
+  },
+  {
+    "idx": 69,
+    "type": "SectionHeaderItem",
+    "text": "Solomon's Prayer for Wisdom"
+  },
+  {
+    "idx": 70,
+    "type": "SectionHeaderItem",
+    "text": "'O God of our fathers and the Lord of mercy,"
+  },
+  {
+    "idx": 71,
+    "type": "TextItem",
+    "text": "Who made all things by  Your word † 2  And in Your wisdom built a man, That by  You He might be the master of what is created, 3  And manage the world in holiness and righteousness, And pass judgment with uprightness of soul: 4 Giv e me the wisdom that sits by  Your throne, And do not reject me from among Your serv ants; 5 Because I am Your serv ant and the son of Your maidserv ant, A weak man and lasting but a short time, And inferior in the understanding of judgment and laws. †"
+  },
+  {
+    "idx": 72,
+    "type": "TextItem",
+    "text": "6 For though one is perfect among the sons of men, Yet if Your wisdom is absent from him, He will be regarded as nothing. † 7 You chose me to be the king of Your people And to be the judge ov er Your sons and daughters. 8  You gav e command to build a temple on Your holy  mountain And an altar in the city  of Your habitation, A copy  of Your holy  tabernacle Which You prepared from the beginning. † 9  With You is wisdom, who knows Your works And was present when You made the world, And who understands what is pleasing in Your sight And what is upright within Your commandments. 10 Send her forth from Your holy  heav ens, And send her from Your glorious throne, That she might be present with me and labor And that I might know what is well-pleasing to You. 11 For she knows and understands all things, And she will guide me wisely  in my  actions And guard me with her glory . 12  Then my works shall be acceptable, And I will judge Your people righteously And shall be worthy  of my  father's throne. 13  For what man will know the counsel of God? Or who will think about what the Lord wills? 14 For the reasoning of mortals is cowardly , And our intents are unsafe; 15 For a corruptible body  weighs down the soul, And this earthly  tent burdens a heart full of thoughts. † 16 We can barely  form a conjecture of the things upon the earth, And the things at hand we find with toil; But who has searched out the things in the heav ens? 17  Who has known Your counsel, Unless You hav e giv en him wisdom And sent him Your Holy  Spirit from on high? †"
+  },
+  {
+    "idx": 73,
+    "type": "TextItem",
+    "text": "18 And thus the paths of those on earth were made straight, And mankind was taught what pleases You; So they  were sav ed by  wisdom.'"
+  },
+  {
+    "idx": 74,
+    "type": "SectionHeaderItem",
+    "text": "Wisdom in History: Adam"
+  },
+  {
+    "idx": 75,
+    "type": "SectionHeaderItem",
+    "text": "10 Wisdom took care of the first-formed father of the world"
+  },
+  {
+    "idx": 76,
+    "type": "TextItem",
+    "text": "When he alone was created; And she deliv ered him from his transgression † 2 And gave him strength to rule all things."
+  },
+  {
+    "idx": 77,
+    "type": "TextItem",
+    "text": "4  When the earth was flooded because of him, Again wisdom saved it And piloted the righteous man by  a cheap piece of wood."
+  },
+  {
+    "idx": 78,
+    "type": "TextItem",
+    "text": "6  Wisdom rescued a righteous man When the ungodly were perishing, For he escaped the fire that descended on the fiv e cities, 7 Concerning which a testimony  still remains: A barren land continually  blackened with smoke, Trees bearing fruit which does not ripen in season, And a pillar of salt standing as a monument To an unbeliev ing soul. † 8 For since they  passed by  wisdom, They not only  were injured by  not knowing good things,"
+  },
+  {
+    "idx": 79,
+    "type": "SectionHeaderItem",
+    "text": "Cain"
+  },
+  {
+    "idx": 80,
+    "type": "TextItem",
+    "text": "3  But when an unrighteous man departed from her in his wrath, He perished in anger for murdering his brother."
+  },
+  {
+    "idx": 81,
+    "type": "TextItem",
+    "text": "Noah"
+  },
+  {
+    "idx": 82,
+    "type": "SectionHeaderItem",
+    "text": "Abraham"
+  },
+  {
+    "idx": 83,
+    "type": "TextItem",
+    "text": "5 Also when the nations in ev il concord were confused, Wisdom knew the righteous man And preserved him blameless before God, And kept him strong in the time of his affection for his child."
+  },
+  {
+    "idx": 84,
+    "type": "SectionHeaderItem",
+    "text": "Lot"
+  },
+  {
+    "idx": 85,
+    "type": "TextItem",
+    "text": "But also left behind for the liv ing a memorial of their folly , So they  could not forget their fall. 9 Wisdom rescued from troubles those who serv ed her."
+  },
+  {
+    "idx": 86,
+    "type": "TextItem",
+    "text": "13  When a righteous man was sold, Wisdom did not abandon him, But deliv ered him from sin. † 14 She went down with him into a pit, And she did not leav e him in chains Until she brought him the scepter of a kingdom And authority  ov er those who ty rannized him. She showed those who blamed him to be ly ing And gave him everlasting glory ."
+  },
+  {
+    "idx": 87,
+    "type": "TextItem",
+    "text": "15 She deliv ered a holy  people and a blameless seed From a nation of oppressors. 16 She entered the soul of a serv ant of the Lord And opposed fearful kings with signs and wonders. 17 She gav e to holy  men the reward of their labors. She guided them in a marvelous way"
+  },
+  {
+    "idx": 88,
+    "type": "SectionHeaderItem",
+    "text": "Jacob"
+  },
+  {
+    "idx": 89,
+    "type": "TextItem",
+    "text": "10  She guided a righteous man on straight paths When he fled from his brother's wrath. She showed him the kingdom of God And gave him knowledge of holy  things. She prospered him in hardships And increased the fruit of his labors. † 11 When they dishonored him in their cov etousness, She stood by  him and made him rich. 12  She protected him from his enemies, Kept him safe from those who plotted against him, And arbitrated a strong contest for him, So he might know that godliness is more powerful than any thing."
+  },
+  {
+    "idx": 90,
+    "type": "SectionHeaderItem",
+    "text": "Joseph"
+  },
+  {
+    "idx": 91,
+    "type": "SectionHeaderItem",
+    "text": "Moses"
+  },
+  {
+    "idx": 92,
+    "type": "SectionHeaderItem",
+    "text": "11"
+  },
+  {
+    "idx": 93,
+    "type": "TextItem",
+    "text": "And became for them a shelter by  day And a flame of stars by  night. † 18 She carried them across the Red Sea And led them through deep water; 19  But she drowned their enemies And cast them up from the depth of the aby ss. 20 Therefore the righteous stripped the ungodly , And they sang, O Lord, to Your holy  name And praised with one accord Your defending hand; 21  Because wisdom opened the mouth of the dumb And made the tongues of infants speak clearly . †"
+  },
+  {
+    "idx": 94,
+    "type": "SectionHeaderItem",
+    "text": "Wisdom in the Wilderness"
+  },
+  {
+    "idx": 95,
+    "type": "SectionHeaderItem",
+    "text": "Wisdom prospered their works by the hand of a holy prophet."
+  },
+  {
+    "idx": 96,
+    "type": "TextItem",
+    "text": "2 They  trav eled through an uninhabited desert And pitched their tents in impassable places. 3 They  held their ground in wars And defended themselves against their enemies. 4 They  thirsted and called upon You, And water was given them from a flinty  rock, And a quenching of thirst from a hard stone; † 5  For through the things by  which their enemies were punished, They themselves when in need Had kindness shown to them. 6 In place of a spring of an ev er-flowing riv er, Troubled and defiled with blood, 7 In rebuke of the decree to slay  the infantsYou gave them abundant water unexpectedly, 8 Showing through their thirst at that time How You punished their enemies. 9 For when they  were tested, Though they were disciplined in mercy , They learned how the ungodly  were tormented When judged in wrath. †"
+  },
+  {
+    "idx": 97,
+    "type": "TextItem",
+    "text": "10  For You tested them, admonishing them like a father, But You examined the ungodly Like a sev ere king passing sentence. 11  Whether present or absent, They were likewise consumed, 12 For twofold grief possessed them And a groaning over the memory of all that happened. 13  For when they  heard that through their own punishments The holy  people had kindness shown to them, They understood it was the Lord's doing. 14 For they  marv eled at the outcome of the man They had cast out mockingly  and exposed long before, For they  did not thirst for godliness as do the righteous. 15 In return for the wrongdoing of their senseless reasoning, In which they  were led astray And worshiped irrational serpents and worthless animals, You sent upon them a multitude of animals in v engeance, 16 So they  might learn that one is punished By the things by  which he sins. 17 For Your all-powerful hand, Which created the world out of unformed matter, Did not lack the resource to send upon them A multitude of bears or bold lions, 18 Or newly  created unknown beasts full of anger, Either snorting a breath of fire Or scattering like chaff a thick cloud of smoke, Or flashing terrible sparks from their ey es. 19 Not only  could their damage utterly  destroy  men, But their mere outward appearance could terrify  and kill them. 20 Ev en without these, men could fall in a single breath When they are pursued by  justice And scattered like chaff by  the breath of Your power; But You have ordered all things by  measure, number, and weight."
+  },
+  {
+    "idx": 98,
+    "type": "SectionHeaderItem",
+    "text": "The God Who Loves Mankind"
+  },
+  {
+    "idx": 99,
+    "type": "TextItem",
+    "text": "12 21 For great power is alway s present with You, And who can oppose the might of Your arm? 22 Because the entire world before You Is like a small additional weight on scales, And like a drop of dew early  in the morning That falls on the ground. † 23 But You are merciful to all, for You can do all things; And You overlook the sins of men to bring them to repentance. 24 For You lov e all the things that exist, And You detest nothing of the things You made; For You would not ev en make any thing You hated. † 25 How could any thing continue to exist unless You willed it? Or how could any thing be preserv ed Unless it was called into existence by  You? † 26 You spare all things, because they  are Yours, O Master who lov e human beings. For Your immortal Spirit is in all things. 2 For this reason You correct little by  little those who fall away , And You remind and warn them of the sins they  commit So they  may  be freed from ev il and believ e in You, O Lord. †"
+  },
+  {
+    "idx": 100,
+    "type": "SectionHeaderItem",
+    "text": "The Canaanites' Vice"
+  },
+  {
+    "idx": 101,
+    "type": "TextItem",
+    "text": "3 For You hated the inhabitants of Your holy  land long ago, † 4 Because they  practiced v ery  hateful works of sorcery  and unholy  rites. 5  These unmerciful murderers of children Who ate sacrificial meals of human flesh and blood, These initiates in the midst of an orgy , 6  These parents and murderers of helpless childrenYou willed to destroy  by  the hands of our fathers, 7 That the land most precious of all to You Might be a worthy  colony  of the serv ants of God. 8 But ev en these You spared, since they  were men, And sent wasps as forerunners of Your army That You might destroy  them little by  little. 9 You were not powerless to giv e the ungodly"
+  },
+  {
+    "idx": 102,
+    "type": "TextItem",
+    "text": "To the righteous in regular battle, Or to destroy  them by  terrible wild beasts Or by  one sev ere word; 10 But judging them little by  little You gave them a chance for repentance, For You were not unaware that their generation was ev il, Their v ice implanted, And their reasoning would not change forev er. 11 For they  were an accursed seed from the beginning, Nor did You giv e them amnesty  for their sins Because You feared any one."
+  },
+  {
+    "idx": 103,
+    "type": "SectionHeaderItem",
+    "text": "God Our King"
+  },
+  {
+    "idx": 104,
+    "type": "TextItem",
+    "text": "12 For who will say , 'What hav e You done?' Or who will oppose Your judgment? Who will bring a charge against You For destroy ing the nations You made? Or who will stand before You To plead as an adv ocate for unrighteous men? † 13 For neither is there any  god except You, Whose care is for all things, So You may show that You do not judge unjustly ; 14 Nor can any  king or ty rant meet You face to face Concerning those You punish. 15 You are righteous and order all things uprightly , And You consider it alien to Your power To pass sentence on him who should not be punished. 16 For Your strength is the origin of righteousness, And it causes You who are the Lord of all to spare all. 17 For to him who disbeliev es the perfection of Your power, You show forth Your strength And rebuke the insolence among those who know it. 18 But You who gain the mastery  by  Your strength Judge with gentleness, For You gov ern us with great forbearance;"
+  },
+  {
+    "idx": 105,
+    "type": "TextItem",
+    "text": "And power is present with You to use when You will it."
+  },
+  {
+    "idx": 106,
+    "type": "SectionHeaderItem",
+    "text": "God Chastens His Children"
+  },
+  {
+    "idx": 107,
+    "type": "TextItem",
+    "text": "19  Through such works You taught Your people That the righteous man should lov e mankind; And You made Your children hopeful By offering them repentance ov er their sins. † 20 For if You punished the enemies of Your children And those liable to death with so much attention and deliberation, And granted them time and opportunity  to depart from their ev il, 21  With how much strictness did You judge Your children, To whose fathers You gav e oaths and cov enants of good promises? 22 So then You chastened us, But our enemies with ten thousand whips, That we may care about Your goodness when we judge But expect Your mercy  when we are judged. †"
+  },
+  {
+    "idx": 108,
+    "type": "SectionHeaderItem",
+    "text": "The Egyptians Were Judged"
+  },
+  {
+    "idx": 109,
+    "type": "TextItem",
+    "text": "23 Therefore those who liv ed unjustly  in their foolishness of life You tormented by means of their own abominations. † 24 For they  went far astray  on the paths of error, Taking up gods which were despised ev en among their enemies, Being deceiv ed after the manner of foolish children. 25 Therefore to those thoughtless children You sent Your judgment to mock them; 26 But those who were not warned by  this light gesture of censure Will be put to the test by  the deserv ed judgment of God. 27 For when they  suffered, they  were indignant At those they  imagined to be gods, Realizing they  were being punished because of them. They also came to recognize the true God Whom they refused to know long ago; Therefore, the utmost of condemnation came upon them."
+  },
+  {
+    "idx": 110,
+    "type": "SectionHeaderItem",
+    "text": "The Futility of False Gods"
+  },
+  {
+    "idx": 111,
+    "type": "TextItem",
+    "text": "13"
+  },
+  {
+    "idx": 112,
+    "type": "SectionHeaderItem",
+    "text": "For all men while ignorant of God were useless in their condition."
+  },
+  {
+    "idx": 113,
+    "type": "TextItem",
+    "text": "So from the good things that are seen They were unable to know Him who exists, Nor did they  know the Craftsman by  pay ing attention to His works. † 2 But they  supposed that the gods who rule the world Were either fire or wind or swift air, Or the circle of the stars or v iolent water or the luminaries of heav en. 3 If while delighting in their beauty  men assumed them to be gods, Let them know how much better than these things is their Lord, For the Creator of beauty  created them; † 4 And if they  were amazed at their power and working, Let them understand from them How much more powerful than these is He who made them. 5 For from the greatness and beauty  of created things The Creator is seen by  analogy . † 6 Nevertheless there is little reason for complaint against them, For perhaps they  go astray  while seeking God and wish to find Him. † 7 For as they  liv e among His works, they  examine them closely And are persuaded by  what they  see, Because the things they  see are beautiful. 8 However, they  are not to be excused; † 9 For if they  were able to know so much With their ability  to inv estigate the world, How is it possible they  did not quickly  find The Lord of all these things? 10 But they  are miserable, and so are their hopes in dead things, Those who call 'gods' the works of men's hands, Gold, silv er, and the practice of craftsmanship, And the likeness of animals, Or a worthless stone of an ancient hand. 11 But also, if some carpenter saws down an easily  mov ed tree And skillfully  scrapes away  all its bark, He then builds a useful v essel beautifully  made by  his skill For the serv ice of the liv ing, †"
+  },
+  {
+    "idx": 114,
+    "type": "TextItem",
+    "text": "12 And uses up the cast-off pieces of his trade To prepare his food and be filled. 13 But a cast-off piece from among them, useful for nothing, That grew up with the tree, crooked and full of knots, He takes and carv es with care in his leisure And forms it with intelligent skill, And models it in the likeness of a man. 14 Or he likens it to some worthless animal And smears it with bright red paint, Making its surface red, Covering every  blemish in it with paint. 15 Then he makes a room fitting for it And puts it on a wall and fastens it with iron nails That it may  not fall. 16 He takes care of it, knowing that it cannot help itself; For it is an image that has need of help. 17 When he prays about his possessions, His marriage and his children, He is not ashamed to speak to a lifeless thing, And he appeals to a weak thing concerning his health. 18 Concerning life he pray s to something dead; Concerning aid he supplicates something ignorant; And concerning a journey , something that cannot take a step; 19 Concerning means of liv elihood, Profit and success with his hands; He requests bodily  strength From something powerless with its hands."
+  },
+  {
+    "idx": 115,
+    "type": "SectionHeaderItem",
+    "text": "The Use of Wood"
+  },
+  {
+    "idx": 116,
+    "type": "SectionHeaderItem",
+    "text": "14 Again, someone getting ready for a voyage"
+  },
+  {
+    "idx": 117,
+    "type": "TextItem",
+    "text": "And about to sail through wild wav es Cries out loud to a piece of wood More fragile than the ship that carries him. † 2 For it was desire for gain that contriv ed that boat,"
+  },
+  {
+    "idx": 118,
+    "type": "TextItem",
+    "text": "And wisdom was the craftsman who built it; 3 But Your prov idence, O Father, gov erns its course, Because You have giv en it a path in the sea And a safe track in the wav es, 4 Showing that You can sav e from ev ery  danger, And that ev en without skill one may  embark upon the sea. 5 For You do not will that the works of Your wisdom be useless; Therefore, men trust their liv es ev en to the smallest piece of wood, And passing through the waves on a ship They are brought safely  through. 6 For ev en in the beginning, when arrogant giants perished, The hope of the world took refuge in a boat, And piloted by  Your hand it left to the world the seed of a family . † 7  For the wood was blessed through which righteousness comes. 8  But what was made by  human hands itself is accursed, And so is he who made itHe because he made it, And the perishable thing because it was called a god. † 9 For equally  hateful to God are the ungodly  man and his ungodliness. 10 For what was done will be punished along with him who did it. 11 Therefore there shall also be a v isitation upon the idols of the nations, Because, though the wood was part of God's creation, It was made into an abomination And became a stumbling-block for the souls of men And a trap for the feet of fools. 12 For the inv ention of idols was the beginning of fornication, And the conception of them the corruption of life, 13 For neither were they  from the beginning Nor shall they  be forev er. 14 For by  the v ainglory  of mankind they  entered the world, And therefore their speedy  end has been planned. 15 For a father consumed with untimely  grief When his child was soon taken from him Made an image of the once-dead human being And honored him now as a god,"
+  },
+  {
+    "idx": 119,
+    "type": "TextItem",
+    "text": "And handed down to those under him secret my steries and initiations. 16 Then the ungodly  custom, strengthened by  time, was kept as a law, And at the command of ty rants carv ed images were worshiped. 17 When men could not honor a ty rant before his face Because he liv ed far away , They imagined his face from a distance And made a visible image of the honored king, That by  their zeal they  might flatter the one absent as though present. 18  Then the ambition of the craftsman encouraged Even those who did not know the king to increase their worship. 19 For wishing perhaps to please the one who ruled ov er him, He skillfully  forced the likeness into a more beautiful form, 20 And the multitude, attracted by  the popularity  of his work, Now considered him as an object of worship Whom a short time before they  honored as a man. 21 But this became a trap for their life, Because men, in bondage either to calamity  or to kingly  power, Conferred on stones and wood a name not shared with another."
+  },
+  {
+    "idx": 120,
+    "type": "SectionHeaderItem",
+    "text": "Idolatry Brings Evil"
+  },
+  {
+    "idx": 121,
+    "type": "TextItem",
+    "text": "22  Furthermore, it was not enough for them To be deceiv ed about the knowledge of God, But they  liv e in a great conflict of ignorance, And they call such ev ils peace. † 23 For they  either hold child-murdering rites of initiation, Or celebrate secret my steries, Or engage in the frantic rev elry  of special customs. 24 Moreover, they  keep neither life nor marriages pure, But one either kills another in ambush, Or one causes another grief when he corrupts his marriage. 25 Ev ery thing is mixed together: Blood and murder, theft and treachery , Depravity, unfaithfulness, tumult, perjury , 26 Confusion ov er what is good, ingratitude, corruption of family , Breakup of marriages, disorder, adultery , and debauchery . †"
+  },
+  {
+    "idx": 122,
+    "type": "TextItem",
+    "text": "27 For the worship of idols not to be named Is the beginning, cause, and end of ev ery  ev il. 28 For either they  are driv en to a frenzy  in their celebrations, Or prophesy  lies, Or liv e unrighteously , or readily  swear falsely ; 29 For since they  trust in lifeless idols, They swear with wrong motives and expect to suffer no harm. 30 But justice will catch up with them on two counts: Because they  thought wrongly  about God in their dev otion to idols, And by treating holiness with contempt They swore unjustly  in deceit. 31 For it is not the power of making oaths, But the punishment of those who sin That always prosecutes the transgression of the unrighteous."
+  },
+  {
+    "idx": 123,
+    "type": "SectionHeaderItem",
+    "text": "Our Merciful God"
+  },
+  {
+    "idx": 124,
+    "type": "SectionHeaderItem",
+    "text": "15 But You, our God, are kind, true, patient,"
+  },
+  {
+    "idx": 125,
+    "type": "TextItem",
+    "text": "And govern all things in mercy . 2 For ev en if we sin, we belong to You and know Your might; But we will not sin, Because we know that we are counted as belonging to You. 3 For to know You is complete righteousness, And to know Your might is the root of immortality . † 4 For neither hav e the ev il practices of human art deceiv ed us, Nor a form stained with div erse colors, The barren labor of painting, † 5 Whose appearance creates a desire in fools That longs for the lifeless form of a dead image. 6 Lov ers of ev il things and fit for such objects of hope Are those who either make or desire or worship them."
+  },
+  {
+    "idx": 126,
+    "type": "SectionHeaderItem",
+    "text": "Idols of Clay"
+  },
+  {
+    "idx": 127,
+    "type": "TextItem",
+    "text": "7 For ev en when a potter compresses soft earth, He laboriously  forms each v essel for our serv ice; But he models from the same clay"
+  },
+  {
+    "idx": 128,
+    "type": "TextItem",
+    "text": "Both v essels that serv e clean uses and likewise those to the contrary . But what will be the function of one or the other Is the decision of the craftsman. † 8 So, working ev il, he forms a worthless god from the same clay , He who a little while before was made from the earth And in a short while returns to the earth from which he was taken, When the soul that was loaned to him Is demanded in return at death. 9 But he is not concerned that he is about to be sick Or that his life will be ending shortly ; So he competes with goldsmiths and melters of silv er And imitates bronze-workers; And he considers it a glory  that he forms false gods. 10 His heart is ashes, and his hope as cheap as dirt; And his life is more dishonored than his clay , † 11  Because he disregards the One who formed him, And who inspired him with an operativ e soul, And breathed into him a life-giv ing spirit. † 12 But he considered our life to be a play thing And life a festiv al held for profit; For he say s, 'One must make a liv ing howev er one can, Even by evil means.' 13 For this man, more than all others, knows that he sins When he fabricates from earthly  matter Easily  broken v essels and carv ed images. †"
+  },
+  {
+    "idx": 129,
+    "type": "SectionHeaderItem",
+    "text": "The Egyptian Enemies"
+  },
+  {
+    "idx": 130,
+    "type": "TextItem",
+    "text": "14 Yet more foolish and infantile are the enemies Who oppressed Your people, 15 Because they  thought that all the idols of the nations were gods, Though these have neither the use of their ey es for v ision, Nor noses for inhaling air, Nor ears to hear with, Nor fingers on their hands for touching; And their feet are useless for walking. †"
+  },
+  {
+    "idx": 131,
+    "type": "TextItem",
+    "text": "16 16  For a man made them, And he whose spirit is borrowed formed them; For no man can form a god like himself. 17  A man who works a dead thing with lawless hands is mortal, For he is better than his objects of worship, Because he is aliv e, but they  nev er are. 18  The enemies of Your people worship the most hateful animals, For they  are worse than all others in stupidity . 19 Not ev en as animals are they  so beautiful in appearance That one would desire them, But they  escaped both the praise of God and His blessing. Therefore they  were worthily  punished through creatures like these, And were tormented through a multitude of wild animals. † 2  Instead of such punishment You showed kindness to Your people And prepared quails as food with a delicious taste to satisfy  their hunger, † 3 That those men, when they  desired food, Might turn away their necessary  hunger Because of the ugly  look of the creatures sent upon them, While Your people, being in need for a brief period, Might partake of food with a delicious taste. 4 For it was necessary  for those enemies That unavoidable need come upon them and ty rannize them, While to Your people it was only  shown How their enemies were being tormented. 5 For ev en when the terrible rage of wild animals Came upon Your people, And they were being destroy ed by  the bites of twisting serpents, Your wrath did not continue to the end. † 6 They  were troubled for a short while as a warning, And receiv ed a pledge of salv ation In remembrance of Your law's command. † 7 For the one who turned to it was sav ed, not by  what he saw, But by  You, the Sav ior of all. 8 So in this You persuaded our enemies That You are the One who sav es from ev ery  ev il."
+  },
+  {
+    "idx": 132,
+    "type": "TextItem",
+    "text": "9 For the bites of locusts and flies killed them, And no healing was found for their life, Because they  deserv ed to be punished by  such things. 10 But the teeth of poisonous serpents Did not ov ercome Your children, For Your mercy  came to their aid and healed them. † 11 For they  were goaded to remind them of Your oracles And were quickly  sav ed, Lest they  should fall into deep forgetfulness And be continually  unmindful of Your kindness. 12 For neither herb nor medicinal plaster healed them, But it was Your word, O Lord, which heals all men. 13 For You hav e authority  ov er life and death, And bring men down to the gates of Hades And lead them back again. † 14 A man in his malice kills another, But he cannot bring back a departed spirit Nor return a soul that is taken."
+  },
+  {
+    "idx": 133,
+    "type": "SectionHeaderItem",
+    "text": "God Judges Egypt"
+  },
+  {
+    "idx": 134,
+    "type": "TextItem",
+    "text": "15 To escape from Your hand is impossible, † 16 For the ungodly  who refuse to know You Were flogged by  the strength of Your arm. They were pursued by  rains, hail, and thunderstorms And consumed by fire. 17 For the fire, v ery  contrary  to expectation, Was more effectiv e in the water, which extinguishes ev ery thing; For the world is a defender of the righteous. 18  For at one time the flame was subdued That it might not burn up the creatures sent against the ungodly , But seeing this they  might know That they  were struck by  the judgment of God; 19  And at another time ev en under water The flame burned more intensely  than fire To destroy  the harv est of the unrighteous land."
+  },
+  {
+    "idx": 135,
+    "type": "SectionHeaderItem",
+    "text": "Bread from Heaven for Israel"
+  },
+  {
+    "idx": 136,
+    "type": "TextItem",
+    "text": "20 Instead of these things You fed Your people the food of angels, And without their labor You prov ided them With ready-made bread from heaven, Fitting for ev ery  pleasure and suitable to ev ery  taste. † 21 For Your prov ision manifested sweetness toward Your people, And the bread serv ed the need of those who took it And changed to what one wished. 22  Snow and ice endured fire without melting So they  might know that fire destroy ed the harv est of their enemies, The fire that burned in the hail And flashed like lightning in the rain23 Again that fire which forgot its own natural power That the righteous might be fed. 24 For the creation serv es You who made it And increases its intensity  to punish the unrighteous, But in kindness relaxes itself on behalf of those who trust in You. † 25 Therefore also at that time, It explored as though in a mine Your all-nourishing bounty And served the will of those who supplicated You, 26  That Your children whom You lov ed, O Lord, might learn That it is not the production of crops that feeds man, But Your word that maintains those who believ e in You. 27 For what was not destroy ed by  fire Was melted when simply warmed by a small ray of the sun, 28  To make it known that one must get up before sunrise To giv e You thanks, And to intercede before You at the dawning of the light. 29 For the hope of an unthankful man will melt like the wintry  frost And flow away like useless water."
+  },
+  {
+    "idx": 137,
+    "type": "SectionHeaderItem",
+    "text": "The Sins of Egypt"
+  },
+  {
+    "idx": 138,
+    "type": "SectionHeaderItem",
+    "text": "17 Great are Your judgments and hard to explain;"
+  },
+  {
+    "idx": 139,
+    "type": "TextItem",
+    "text": "2  For when lawless men thought they  exercised power Over Your holy  nation, They themselves were prisoners of darkness and long night, Shut in under their roofs, exiles from eternal prov idence. 3 For when they  thought they  escaped notice With their secret sins behind a curtain of forgetfulness, They were scattered and in a terrible state of shock And thrown into confusion by  apparitions. † 4 For not ev en the inmost part of the house that held them Protected them from fear, But troubling noises sounded all around them, And gloomy apparitions with downcast faces appeared to them. 5 No force of fire had the strength to giv e them light, Nor did the v ery  bright lights of the stars Tarry to illuminate that hateful night. 6 Now a self-acting fire full of fear alone shone through to them, But they  were greatly  terrified when that apparition was not perceiv ed; So they  considered the things they  were seeing to be worse. 7 The delusions of their magic were ineffectiv e, And so was the arrogant certainty  of their pretense to hav e insight. † 8 For those who promised to driv e away The fears and troubles of a sick soul Were themselves sick with an absurd timidity . 9 For ev en if nothing dreadful frightened them, Yet, scared by  the passing of beasts and hissing of serpents, They perished full of fear, Even refusing to look at the air, which could not be av oided. † 10 For ev il is a cowardly  thing, And condemned by its own witness; And tormented by conscience, It alway s welcomes things full of trouble. 11 For fear is nothing but the betray al Of the assistance that comes from reasoning; † 12 And the expectation from within considers itself to be weaker Than ignorance of the cause which supplies the torment."
+  },
+  {
+    "idx": 140,
+    "type": "TextItem",
+    "text": "13 But they  slept the same sleep throughout the night, Which was actually  powerless, And which assaulted them from the inmost parts of a powerless Hades. 14 They  were driv en by  the monsters of apparitions And were paraly zed by  the betray al of their soul; For sudden and unexpected fear was poured out on them. 15 So then whoev er was there fell down And thus was kept shut up in a prison not made of iron. 16  For whether someone was a farmer or a shepherd Or a worker who labored in the wilderness, He was overtaken by  force and endured inescapable punishment; For all were bound with one chain of darkness. 17  Whether there came a whistling wind, Or the musical sound of birds in wide-spreading branches, Or the motion of v iolently  rushing water, Or the hard crash of rocks thrown down, 18  Or the unseen running of leaping animals, Or the roar of fierce wild animals, Or an echo reflected from the hollow of mountains, It paraly zed them with terror. 19 For the whole world was illumined with bright light And embraced unhindered works, 20 While ov er those men alone heav y  night was spread, An image of darkness that was about to receiv e them; But they  were heav ier than darkness to themselv es."
+  },
+  {
+    "idx": 141,
+    "type": "SectionHeaderItem",
+    "text": "Light Shines on Israel"
+  },
+  {
+    "idx": 142,
+    "type": "SectionHeaderItem",
+    "text": "18 But for Your holy ones there was a very great light."
+  },
+  {
+    "idx": 143,
+    "type": "TextItem",
+    "text": "Their enemies heard their v oice but did not see their form; And they considered them blessed because they  had also not suffered, † 2 For Your holy  ones did not harm those Who previously  wronged them. So they  were thankful and begged for grace For being at v ariance with them."
+  },
+  {
+    "idx": 144,
+    "type": "TextItem",
+    "text": "3 Therefore You prov ided a flaming pillar of fire As a guide for their unknown journey , And a harmless sun for their glorious exile. † 4 For their enemies deserv ed to be depriv ed of light And imprisoned in darkness, Those who imprisoned Your children, Through whom the incorruptible light of the law Was to be giv en to the world."
+  },
+  {
+    "idx": 145,
+    "type": "SectionHeaderItem",
+    "text": "Death Visits Egypt"
+  },
+  {
+    "idx": 146,
+    "type": "TextItem",
+    "text": "5 When they resolv ed to kill the babes of Your holy  ones And one child was exposed and rescued, You took away  as a rebuke a multitude of their children; And You destroy ed them together in the v iolent water. † 6  That night was made known beforehand to our fathers So they  might rejoice with sure knowledge in the oaths they  trusted. † 7 The salv ation of the righteous and the destruction of enemies Were expected by  Your people, 8  For You punished our enemies with the same means By which You called and glorified us. † 9 For in secret the holy  children of good people offered sacrifices, And in harmony with the divine law made a covenant, That the saints would share alike in good things and in dangers; And already they  were singing the praises of their fathers. 10 But the discordant cry  of their enemies resounded, And their pitiful outcry  and mourning for their children spread abroad. 11 The serv ant was punished with the same penalty  as the master, And the common man suffered the same thing as the king. 12 They  all together by  the one name of death Had innumerable dead persons, For there were not enough liv ing ev en to bury  them; Because in one critical moment their v alued children were destroy ed. † 13 For they  disbeliev ed ev ery thing because of their sorceries, But at the destruction of their firstborn, They acknowledged the people to be God's son."
+  },
+  {
+    "idx": 147,
+    "type": "TextItem",
+    "text": "14 For while gentle silence embraced ev ery thing And night at its own speed was half ov er, 15 Your all-powerful Word leaped from heav en, from the roy al throne, Into the midst of a doomed land, A relentless warrior carry ing the sharp sword Of Your irrev ocable command, † 16 And He stood and filled all things with death And touched heaven while standing on earth. 17  Then immediately apparitions in terrify ing dreams troubled them, And unexpected fears set upon them, 18 And they  threw themselv es to the ground half-dead, One apparition here and another there, To make known to them the reason they  were dy ing. 19 For the dreams which disturbed them rev ealed this beforehand, So they  might not die without understanding Why it was they  suffered."
+  },
+  {
+    "idx": 148,
+    "type": "SectionHeaderItem",
+    "text": "Aaron Prays for Israel"
+  },
+  {
+    "idx": 149,
+    "type": "TextItem",
+    "text": "20 The experience of death also touched the righteous, And a plague came upon the multitude in the desert; But the wrath did not last long. † 21  For a blameless man hastened and acted as their champion. He carried the instrument of his ministry : Prayer and the atonement of incense, And withstood the anger and put an end to the calamity , Showing that he was Your serv ant. 22 He conquered the wrath not by  strength of body , And not by  the power of weapons, But by  a word he subdued the punisher, Because he remembered the oaths and covenants of the fathers. 23 For when the dead had already  fallen on one another in heaps, He stood in the midst and drov e back the wrath And cut off its path to the liv ing. 24 For the whole world was on his long robe, And the glories of the fathers were a carv ed work"
+  },
+  {
+    "idx": 150,
+    "type": "TextItem",
+    "text": "Arranged in four rows of stones; And Your majesty was on the diadem on his head. 25 To these the destroy er y ielded And these he feared; For the trial of his wrath alone was enough."
+  },
+  {
+    "idx": 151,
+    "type": "SectionHeaderItem",
+    "text": "The Foolishness of Egypt"
+  },
+  {
+    "idx": 152,
+    "type": "SectionHeaderItem",
+    "text": "19 But unmerciful anger came upon the ungodly to the end,"
+  },
+  {
+    "idx": 153,
+    "type": "TextItem",
+    "text": "For God knew of them and their future beforehand, † 2 That they  would allow Your people to depart And eagerly  send them forth, But then change their minds and pursue them. 3 For while they  were y et mourning And lamenting at the grav es of their dead, They made another foolish decision And pursued as fugitiv es Those whom they had begged and had sent away. 4 For a deserv ed destiny  drew them to this end And made them forget what had happened, So they  might fill up the punishment Which was lacking in their torments, 5 And that Your people might attempt an incredible journey , But that they  themselv es might come upon a strange death."
+  },
+  {
+    "idx": 154,
+    "type": "SectionHeaderItem",
+    "text": "Creation Serves Its God"
+  },
+  {
+    "idx": 155,
+    "type": "TextItem",
+    "text": "6 For the whole creation in its kind was fashioned again from abov e To serv e Your commands, That Your serv ants might be kept unharmed. 7  The cloud was seen ov ershadowing the camp And the emerging of dry  land out of the water prev iously  present, An unhindered way out of the Red Sea And a grassy  plain out of the v iolence of rough water, 8  Through which those sheltered by  Your hand Passed with the whole nation After observ ing marv elous wonders."
+  },
+  {
+    "idx": 156,
+    "type": "TextItem",
+    "text": "9 For they  grazed like horses And leaped about like lambs, Praising You, O Lord, who sav ed them. 10 For they  still remembered their sojourn in a foreign land, How instead of the birth of animals the land brought forth small flies, And instead of things liv ing in water The riv er v omited forth a multitude of frogs. 11 Afterwards they  also saw a new kind of birds, When led by their passion they  requested meats for self-indulgence; 12 For their relief, quails came up from the sea."
+  },
+  {
+    "idx": 157,
+    "type": "SectionHeaderItem",
+    "text": "The Punishment of Egypt"
+  },
+  {
+    "idx": 158,
+    "type": "TextItem",
+    "text": "13  The punishments did not come upon the sinners Without previous signs in the v iolence of thunder, And they suffered justly  because of their own ev ils; For they  practiced a v ery  bitter hatred of strangers. 14  Others did not welcome those unknown to them when they  arriv ed, But these enslav ed foreign benefactors. 15 And not only  this, but there shall be a certain v isitation Because they  receiv ed foreigners hatefully ; 16 For after receiv ing them with festiv als, They mistreated with terrible sufferings Those who had already  shared the same rights. 17 They  were also stricken with blindness Like those at the doors of the righteous man, When, clothed in darkness, each sought the way  through his own doors."
+  },
+  {
+    "idx": 159,
+    "type": "SectionHeaderItem",
+    "text": "God Dwells with His People"
+  },
+  {
+    "idx": 160,
+    "type": "TextItem",
+    "text": "18  For the elements combined among themselves in different way s, Which can be accurately  conjectured from the sight of what took place, As on a harp the sounds of the rhy thm differ in expression While always remaining the same in sound. 19  For land animals were changed into water creatures, And creatures that swim crossed ov er to the land. 20 In water, fire prev ailed with its own power,"
+  },
+  {
+    "idx": 161,
+    "type": "TextItem",
+    "text": "And water forgot its quenching properties. 21 Flames, on the contrary , did not consume The flesh of perishable animals that walked among them, Nor was the species of immortal food capable of being melted Like easily  melted ice. 22 For in ev ery thing, O Lord, You hav e exalted and glorified Your people, †"
+  },
+  {
+    "idx": 162,
+    "type": "TextItem",
+    "text": "And have not neglected to be present with them in ev ery  time and place."
+  }
+]

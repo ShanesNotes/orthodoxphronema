@@ -2,42 +2,9 @@
   "book": "JON",
   "file": "staging/validated/OT/JON.md",
   "generated": "2026-03-10",
-  "total_candidates": 3,
-  "by_category": {
-    "chapter_open_dropcap": 3
-  },
-  "candidates": [
-    {
-      "line": 17,
-      "anchor": "JON.1:1",
-      "category": "chapter_open_dropcap",
-      "token": "ow",
-      "confidence": 0.95,
-      "source_hint": "heuristic_fallback:confirmed_auto",
-      "manual_status": "pending",
-      "replacement": "Now the word of the Lord came to Jonah the son of Amittai, saying,"
-    },
-    {
-      "line": 38,
-      "anchor": "JON.2:1",
-      "category": "chapter_open_dropcap",
-      "token": "ow",
-      "confidence": 0.95,
-      "source_hint": "heuristic_fallback:confirmed_auto",
-      "manual_status": "pending",
-      "replacement": "Now the Lord commanded a huge sea creature to swallow Jonah, and Jonah was in th"
-    },
-    {
-      "line": 68,
-      "anchor": "JON.4:1",
-      "category": "chapter_open_dropcap",
-      "token": "ut",
-      "confidence": 0.95,
-      "source_hint": "heuristic_fallback:confirmed_auto",
-      "manual_status": "pending",
-      "replacement": "But Jonah was deeply grieved and was troubled."
-    }
-  ],
+  "total_candidates": 0,
+  "by_category": {},
+  "candidates": [],
   "notes": [
     "Explicit fused article audit from fix_articles.py",
     "High-confidence article-conjunction fusions (>= 0.75) should block promotion until resolved",

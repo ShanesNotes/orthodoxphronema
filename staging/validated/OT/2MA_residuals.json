@@ -1,27 +1,28 @@
 {
   "book": "2MA",
   "file": "staging/validated/OT/2MA.md",
-  "generated": "2026-03-09",
+  "generated": "2026-03-10",
   "ratified_by": null,
   "ratified_date": null,
-  "residuals": [
+  "residuals": [],
+  "resolved": [
     {
       "anchor": "2MA.7:15",
       "classification": "docling_issue",
-      "description": "Verse absent from Docling extraction. Gap in ch7 between v14 and v18.",
-      "ratified": true
+      "resolution": "Recovered from OSB PDF and inserted into staging file.",
+      "resolved_date": "2026-03-10"
     },
     {
       "anchor": "2MA.7:16",
       "classification": "docling_issue",
-      "description": "Verse absent from Docling extraction. Gap in ch7 between v14 and v18.",
-      "ratified": true
+      "resolution": "Recovered from OSB PDF and inserted into staging file.",
+      "resolved_date": "2026-03-10"
     },
     {
       "anchor": "2MA.7:17",
       "classification": "docling_issue",
-      "description": "Verse absent from Docling extraction. Gap in ch7 between v14 and v18.",
-      "ratified": true
+      "resolution": "Recovered from OSB PDF and inserted into staging file.",
+      "resolved_date": "2026-03-10"
     }
   ]
 }

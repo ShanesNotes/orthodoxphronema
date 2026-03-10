@@ -21,7 +21,7 @@ ZEP.1:4 'I shall stretch out My hand against Judah and against all the inhabitan
 ZEP.1:5 those who worship the host of heaven on the housetops and who swear oaths by the Lord and who swear oaths by their king-
 ZEP.1:6 those who turn away from the Lord, neither seeking the Lord nor holding steadfastly to Him.
 ZEP.1:7 'Fear before the presence of the Lord God, for the day of the Lord is at hand. The Lord has prepared His sacrifice; He has sanctified His guests.
-ZEP.1:8 And it shall be in the day of the Lord'ssacrifice that I shall take vengeance on the princes and on the king'shouse, and upon all clothed with strange garments.
+ZEP.1:8 And it shall be in the day of the Lord's sacrifice that I shall take vengeance on the princes and on the king's house, and upon all clothed with strange garments.
 ZEP.1:9 And I will openly take vengeance upon all those in the gates in that day, on those who fill the house of the Lord their God with ungodliness and deceit.
 ZEP.1:10 'And in that day,' says the Lord, 'there will be from the gate the sound of shouting from men killing, and a wailing from the second gate along with a great destruction from the hills.
 ZEP.1:11 Mourn, those of you dwelling here, being cut down in pieces; for all the people are like Canaan. All those exalting in silver are utterly destroyed.
@@ -39,7 +39,7 @@ ZEP.1:18 Their silver and gold shall not be able to deliver them in the day of t
 
 ZEP.2:1 O untaught nation, be gathered together and united to one another,
 ZEP.2:2 before you become like a flower that passes away, before the anger of the Lord comes upon you, before the day of the wrath of the Lord comes upon you!
-ZEP.2:3 Seek the Lord, all you humble of the earth. Bring about justice, seek righteousness, and give answer to these things, so you may be sheltered in the day of the Lord'swrath.
+ZEP.2:3 Seek the Lord, all you humble of the earth. Bring about justice, seek righteousness, and give answer to these things, so you may be sheltered in the day of the Lord's wrath.
 ZEP.2:4 'For Gaza shall be for pillaging, and Ashkelon shall be for extermination. Ashdod shall be driven out at midday, and Ekron shall be uprooted.
 ZEP.2:5 Woe to those dwelling on the seacoast, neighbors of the Cretans; O Canaan, land of the Philistines, the word of the Lord is against you, and I shall destroy you out of your dwelling place.
 ZEP.2:6 Crete shall be a pasture for flocks and folds for sheep.

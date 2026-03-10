@@ -2,9 +2,32 @@
   "book": "WIS",
   "file": "staging/validated/OT/WIS.md",
   "generated": "2026-03-10",
-  "total_candidates": 0,
-  "by_category": {},
-  "candidates": [],
+  "total_candidates": 2,
+  "by_category": {
+    "fused_article_explicit": 2
+  },
+  "candidates": [
+    {
+      "line": 153,
+      "anchor": "WIS.6:20",
+      "category": "fused_article_explicit",
+      "token": "akingdom",
+      "confidence": 1.0,
+      "source_hint": "aspell_split_confirms, brenton",
+      "manual_status": "pending",
+      "replacement": "a kingdom"
+    },
+    {
+      "line": 253,
+      "anchor": "WIS.10:14",
+      "category": "fused_article_explicit",
+      "token": "akingdom",
+      "confidence": 0.95,
+      "source_hint": "aspell_split_confirms, brenton",
+      "manual_status": "pending",
+      "replacement": "a kingdom"
+    }
+  ],
   "notes": [
     "Explicit fused article audit from fix_articles.py",
     "High-confidence article-conjunction fusions (>= 0.75) should block promotion until resolved",

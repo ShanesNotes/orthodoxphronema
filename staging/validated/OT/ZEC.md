@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-ZEC.1:1 nthe eighth month of the second year of the reign of Darius, the word of the Lord came to Zechariah, son of Berechiah, son of Addo the prophet, saying,
+ZEC.1:1 In the eighth month of the second year of the reign of Darius, the word of the Lord came to Zechariah, son of Berechiah, son of Addo the prophet, saying,
 ZEC.1:2 'The Lord has been very angry with your fathers,
 ZEC.1:3 and you shall say to them, 'Thus says the Lord Almighty: 'Return to Me, and I will return to you,' says the Lord,
 ZEC.1:4 'And do not become like your fathers, whom the former prophets accused, saying, 'Thus says the Lord Almighty: 'Turn from your evil ways and your evil practices.' ' But they did not pay attention or heed Me,' says the Lord.
@@ -39,7 +39,7 @@ ZEC.1:16 Therefore, thus says the Lord: 'I shall return to Jerusalem with compas
 ZEC.1:17 And the angel talking to me said to me, 'Cry out again, saying, 'Thus says the Lord Almighty: 'Cities shall yet overflow with prosperity, and hereafter the Lord will have mercy on Zion and will choose Jerusalem.' ' '
 ## Chapter 2
 
-ZEC.2:1 nd I looked up, and behold, four horns.
+ZEC.2:1 And I looked up, and behold, four horns.
 ZEC.2:2 And I said to the angel who talked with me, 'My lord, what are these?' And he said to me, 'These are the horns that have scattered Judah and Israel.'
 ZEC.2:3 And the Lord showed me four craftsmen.
 
@@ -64,7 +64,7 @@ ZEC.2:16 And the Lord will inherit Judah, His portion in the holy land, and He w
 ZEC.2:17 Let all flesh fear before the presence of the Lord, for He has roused Himself from His holy clouds.'
 ## Chapter 3
 
-ZEC.3:1 nd the Lord showed me Joshua, the high priest, standing before the presence of the Angel of the Lord, and the devil stood at his right hand to oppose him.
+ZEC.3:1 And the Lord showed me Joshua, the high priest, standing before the presence of the Angel of the Lord, and the devil stood at his right hand to oppose him.
 ZEC.3:2 And the Lord said to the devil, 'The Lord rebukes you, O devil, even the Lord choosing for Himself Jerusalem rebukes you. Behold, is this one not like a brand plucked from the fire?'
 ZEC.3:3 And Joshua was clothed in filthy garments and stood before the Angel.
 ZEC.3:4 And He answered and spoke to those who stood before Him, saying, 'Take away the filthy garments from him.' And He said to him, 'Behold, I have taken your iniquities away from you. Now clothe him with along robe,
@@ -79,7 +79,7 @@ ZEC.3:9 For the stone which I place before the face of Joshua, upon one stone ar
 ZEC.3:10 On that day,' says the Lord Almighty, 'each of you will invite his neighbor under his vine and under his fig tree.' '
 ## Chapter 4
 
-ZEC.4:1 nd the angel who spoke to me came again and awakened me as when a man is awakened out of his sleep.
+ZEC.4:1 And the angel who spoke to me came again and awakened me as when a man is awakened out of his sleep.
 ZEC.4:2 And he said to me, 'What did you see?' And I said, 'Behold, I have seen alampstand made of solid gold, and a bowl at its top, and seven lamps upon it, and the seven tubes to its lamps;
 ZEC.4:3 and over it two olive trees, one on the right of the bowl and one on the left.'
 ZEC.4:4 And I asked the angel who was speaking to me, 'What are these, my lord?'
@@ -98,7 +98,7 @@ ZEC.4:13 And he said to me, 'Do you not know what these are?' And I said, 'No, m
 ZEC.4:14 And he said, 'These are the two sons of richness who stand beside the Lord of all the earth.'
 ## Chapter 5
 
-ZEC.5:1 turned and looked up, and behold a flying sickle.
+ZEC.5:1 I turned and looked up, and behold a flying sickle.
 ZEC.5:2 And he said to me, 'What do you see?' And I said, 'I see a flying sickle, twenty cubits in length by ten cubits wide.'
 ZEC.5:3 And he said to me, 'This is the curse going out over the face of the whole earth, for every thief on this side shall be punished with death, and everyone on that side who swears falsely shall be punished by death.'
 ZEC.5:4 'And I will bring it forth,' says the Lord Almighty, 'and it shall enter the house of the thief and the house of the one who swears falsely by My name. It shall settle in the midst of his house and destroy it, both its timber and its stones.'
@@ -114,7 +114,7 @@ ZEC.5:10 And I asked the angel speaking to me, 'For what reason do they carry th
 ZEC.5:11 And he said to me, 'To prepare and to build a place for it in the land of Babylon. They will place it there upon its own place.'
 ## Chapter 6
 
-ZEC.6:1 turned and looked up; I looked and beheld four chariots coming from between two mountains, and the mountains were mountains of bronze.
+ZEC.6:1 I turned and looked up; I looked and beheld four chariots coming from between two mountains, and the mountains were mountains of bronze.
 ZEC.6:2 With the first chariot were red horses, with the second chariot black horses,
 ZEC.6:3 with the third chariot white horses, and with the fourth chariot piebald horses.
 ZEC.6:4 And I replied to the angel speaking to me, 'What are these, my lord?'
@@ -134,7 +134,7 @@ ZEC.6:14 And the crown shall be to those who endure patiently, to His useful men
 ZEC.6:15 And those far away from them will come and will build in the house of the Lord. You shall know the Lord Almighty sent Me to you, and this will come to pass if you will listen diligently to the voice of the Lord your God.'
 ## Chapter 7
 
-ZEC.7:1 nd it came to pass, in the fourth year of Darius the king, the word of the Lord came to Zechariah on the fourth day of the ninth month, which is Chislev,
+ZEC.7:1 And it came to pass, in the fourth year of Darius the king, the word of the Lord came to Zechariah on the fourth day of the ninth month, which is Chislev,
 ZEC.7:2 when Sharezer and Regem-Melech and his men went to Bethel to propitiate the Lord,
 ZEC.7:3 speaking to the priests in the house of the Lord Almighty and to the prophets, saying, 'The holy offering has come in here in the fifth month-just as I have done for a considerable number of years.'
 ZEC.7:4 And the word of the Lord of hosts came to me, saying,
@@ -153,7 +153,7 @@ ZEC.7:13 And it shall come to pass as He said, for they did not listen. So they 
 ZEC.7:14 'And I shall cast them out among all the nations which they did not know, and behind them the land shall become utterly worthless from traveling through or for coming back, for they made the chosen land a desolation.'
 ## Chapter 8
 
-ZEC.8:1 nd the word of the Lord Almighty came, saying,
+ZEC.8:1 And the word of the Lord Almighty came, saying,
 ZEC.8:2 'Thus says the Lord Almighty: 'I have been zealous for Jerusalem and for Zion, zealous for her with great zeal and fervor.'
 ZEC.8:3 Thus says the Lord: 'I will return to Zion and will dwell in the midst of Jerusalem, and Jerusalem shall be called a True City, and the Mountain of the Lord Almighty the Holy Mountain.'
 ZEC.8:4 'Thus says the Lord Almighty: 'Elderly men and elderly women shall yet sit in the streets of Jerusalem, each one holding his cane in his hand for the multitude of their days.
@@ -181,7 +181,7 @@ ZEC.8:22 And many peoples and many nations will come to seek out the presence of
 ZEC.8:23 Thus says the Lord Almighty, 'In those days, if ten men from all the tongues of the nations stop you, even if they grab hold of the hem of a Jewish man, they will be saying, 'We will go with you, for we heard God is with you.' ' '
 ## Chapter 9
 
-ZEC.9:1 he burden of the word of the Lord against the land of Hadrach, and of Damascus his sacrifice, for the Lord looks upon men and on all the tribes of Israel.
+ZEC.9:1 The burden of the word of the Lord against the land of Hadrach, and of Damascus his sacrifice, for the Lord looks upon men and on all the tribes of Israel.
 ZEC.9:2 And on Hamath in her borders, Tyre and Sidon, because they are very wise.
 ZEC.9:3 For Tyre built a fortress for herself and stored up silver like dust and collected gold like mud in the streets.
 ZEC.9:4 Therefore, the Lord shall possess her as an inheritance, and shall strike against her power in the sea, and she shall be consumed by fire.
@@ -206,7 +206,7 @@ ZEC.9:16 And on that day, the Lord their God will deliver them, His people, as a
 ZEC.9:17 For if anything of His be good, and anything of His be fair, there shall be grain for the young men and the fragrant wine for the virgins.
 ## Chapter 10
 
-ZEC.10:1 sk for yourself rain from the Lord during the time of the early rain and the late rain. The Lord made a great display and will give winter rain to each crop in the field.
+ZEC.10:1 Ask for yourself rain from the Lord during the time of the early rain and the late rain. The Lord made a great display and will give winter rain to each crop in the field.
 ZEC.10:2 Therefore the ones speaking proclaimed troublesome things, and the seers false visions, and they told false dreams; they spoke vain words of comfort. They have been driven away like sheep, and they have lost heart because there was no healing.
 ZEC.10:3 'My anger was kindled against the shepherds, and I will care for the lambs. The Lord God Almighty shall visit His flock, the house of Judah, and shall appoint them as His stately warhorse.
 ZEC.10:4 For from Himself He observed attentively, and from Himself He ordered-even from Himself a bow in anger; from Him shall go forth every oppressor.
@@ -223,7 +223,7 @@ ZEC.10:11 They will pass through the narrow sea and will strike the waves of the
 ZEC.10:12 And I will strengthen them in the Lord their God, and they shall boast in His name,' says the Lord.
 ## Chapter 11
 
-ZEC.11:1 pen your doors, O Lebanon, and let the fire devour your cedars.
+ZEC.11:1 Open your doors, O Lebanon, and let the fire devour your cedars.
 ZEC.11:2 Let the pine wail, for the cedar has fallen; because the mighty men have been greatly afflicted. Wail, oak trees of the Basanite land, for the thickly wooded forest has fallen.
 ZEC.11:3 The sound of wailing is from the shepherds, for their greatness has been brought low; the sound of roaring lions, the arrogance of the Jordan has languished.
 ZEC.11:4 Thus says the Lord Almighty: 'Tend the sheep of the slaughter like a shepherd,
@@ -248,7 +248,7 @@ ZEC.11:16 For behold! I raise up a shepherd against the land, one who will not c
 ZEC.11:17 Woe to you shepherding the flock carelessly, forsaking the flock! The sword shall be against his arms, and against his right eye; his right arm shall be completely withered, and his right eye shall become totally blind!'
 ## Chapter 12
 
-ZEC.12:1 he burden of the word of the Lord to Israel: Thus says the Lord, who stretches out the heavens, who lays the foundation of the earth and forms the spirit of man within him:
+ZEC.12:1 The burden of the word of the Lord to Israel: Thus says the Lord, who stretches out the heavens, who lays the foundation of the earth and forms the spirit of man within him:
 ZEC.12:2 'Behold, I make Jerusalem as agate being shaken to all the peoples surrounding her; for in Judea there shall be a siege against Jerusalem.
 ZEC.12:3 'And it shall come to pass in that day that I shall make Jerusalem a stone to be walked upon by all the nations. Everyone trampling her underfoot will utterly mock her, and all the nations of the earth shall come together against her.
 ZEC.12:4 In that day,' says the Lord Almighty, 'I shall smite every horse with bewilderment, and I shall bring a state of total confusion against its rider. But I shall open My eyes upon the house of Judah, and I shall smite all the horses of the nations with blindness.
@@ -281,7 +281,7 @@ ZEC.13:8 And it will come to pass in all the land,' says the Lord, 'two of every
 ZEC.13:9 And I shall bring the remaining third through the fire, and I shall try them as silver is tried, and I will prove them as gold itself is proven. He will call upon My name, and I will hear him, and I will say, 'This is My people,' and they will say, 'The Lord is my God.' '
 ## Chapter 14
 
-ZEC.14:1 ehold, the days of the Lord come, and your plunder will be divided among you.
+ZEC.14:1 Behold, the days of the Lord come, and your plunder will be divided among you.
 ZEC.14:2 And I shall gather together all the nations to war against Jerusalem. The city shall be taken, the houses plundered, the women defiled, and half of the city will go forth into exile, but the rest of My people shall not be utterly cut off from the city.
 ZEC.14:3 And the Lord will go forth and prepare for battle against those nations, as in the day of His battle array in the day of war.
 ZEC.14:4 And on that day His feet will stand on the Mount of Olives, which faces Jerusalem on the east. And the Mount of Olives shall be split in two, half towards the east and half towards the sea, a very great divide; and half the mountain shall lean toward the north and half of it toward the south.

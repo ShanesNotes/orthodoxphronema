@@ -17,7 +17,7 @@ has_additions: false
 
 ### Judgment against Israel and Judah
 
-MIC.1:1 he word of the Lord came to Micah of Moresheth in the days of Jotham, and Ahaz, and Hezekiah, kings of Judah, concerning what he saw as it relates to Samaria and Jerusalem.
+MIC.1:1 The word of the Lord came to Micah of Moresheth in the days of Jotham, and Ahaz, and Hezekiah, kings of Judah, concerning what he saw as it relates to Samaria and Jerusalem.
 MIC.1:2 Hear these words, O people! Give heed, O earth, and all that is in it. For the Lord God shall be among you for a witness against you, the Lord from His holy house.
 MIC.1:3 For behold, the Lord is coming out of His place. He will come down and tread upon the high places of the earth.
 MIC.1:4 The mountains will shake under Him, and the valleys will melt like wax before the fire, like water pouring down a steep incline.
@@ -41,7 +41,7 @@ MIC.1:15 until they bring the heirs to you, O inhabitants of Lachish; the inheri
 MIC.1:16 Shave your hair and make your head bald as an eagle for the sake of your precious children; increase your widowhood, for they have been taken captive.
 ## Chapter 2
 
-MIC.2:1 hey devised wickedness and were scheming evil on their beds, and at daybreak they put their plan into action, for they did not lift up their hands to God.
+MIC.2:1 They devised wickedness and were scheming evil on their beds, and at daybreak they put their plan into action, for they did not lift up their hands to God.
 MIC.2:2 They coveted fields and plundered orphans; they oppressed families and plundered a man and his house, a man and his inheritance.
 MIC.2:3 Therefore thus says the Lord: 'Behold, I am devising evils against this tribe from which you shall not lift up your neck, nor will you suddenly walk upright, for this is a time of evil.
 MIC.2:4 In that day a parable shall be taken up against you, and a dirge will be wailed, saying, 'In misery we have suffered hardship. The portion of my people has been measured out with a measuring line, and there was no one who was able to stop Him. Our fields have been divided among them.'
@@ -62,7 +62,7 @@ MIC.2:12 'Jacob will be completely gathered together with all of them. I shall w
 MIC.2:13 They will break through the gate of captivity, and their king comes out before their presence. And the Lord shall lead them.'
 ## Chapter 3
 
-MIC.3:1 ewill say, 'Hear these things, O heads of the house of Jacob, and you remnant of Israel. Is it not for you to know judgment?
+MIC.3:1 He will say, 'Hear these things, O heads of the house of Jacob, and you remnant of Israel. Is it not for you to know judgment?
 MIC.3:2 you who hate good and love evil; you who seize their skins in order flay them and cut their flesh off their bones?
 MIC.3:3 who devoured the flesh of my people by removing their skin, breaking their bones, and dividing them as merely flesh for the cauldron and as meat for the pot?'
 MIC.3:4 Thus they will cry out to the Lord, but He will not hear them. Instead, He will turn His face from them at that time because they have done wickedly in their deeds against themselves.
@@ -79,7 +79,7 @@ MIC.3:11 Her leaders make decisions founded on a bribe, and her priests give ans
 MIC.3:12 Therefore on account of you, Zion shall be plowed as a field; Jerusalem shall be as ashed in the field, and the mountain of the house as a grove of trees.
 ## Chapter 4
 
-MIC.4:1 nd it shall come to pass in the last days that the mountain of the Lord will be revealed. It will be raised up on the top of the mountains, and it will be exalted far above the hills, and peoples will hasten to it.
+MIC.4:1 And it shall come to pass in the last days that the mountain of the Lord will be revealed. It will be raised up on the top of the mountains, and it will be exalted far above the hills, and peoples will hasten to it.
 MIC.4:2 And many nations will go there and say, 'Come, let us go up to the mountain of the Lord, to the house of the God of Jacob. They will teach us His ways, and we will walk in His paths.' For out of Zion the law shall go forth, and the word of the Lord from Jerusalem.
 MIC.4:3 And He will judge between many peoples and rebuke strong nations afar off. They will beat their swords into plowshares and their spears into sickles. Nation shall no more lift up sword against nation, neither shall they learn war anymore.
 MIC.4:4 But everyone shall be at rest under his own vine and under his own fig tree, and no one shall make them afraid, for the mouth of the Lord Almighty has spoken these things.
@@ -117,7 +117,7 @@ MIC.5:13 and I shall cut off your sacred groves from your midst and destroy your
 MIC.5:14 And I shall exact vengeance on the nations with wrath and anger among those who did not heed.'
 ## Chapter 6
 
-MIC.6:1 ow hear the word of the Lord. The Lord says, 'Arise, plead your case before the mountains, and let the hills hear your voice.
+MIC.6:1 Now hear the word of the Lord. The Lord says, 'Arise, plead your case before the mountains, and let the hills hear your voice.
 MIC.6:2 Hear, O mountains, the judgment of the Lord, and you valleys, the foundations of the earth; for the Lord has a case against His people, and He will contend with Israel.
 MIC.6:3 O My people, what have I done to you? How have I grieved you? Answer Me!
 MIC.6:4 For I brought you up from the land of Egypt and redeemed you from the house of bondage; and I sent you Moses, and Aaron, and Miriam.
@@ -138,7 +138,7 @@ MIC.6:15 You will sow, but you will not reap. You will press olives, but you wil
 MIC.6:16 For you have kept the ordinances of Omri and done all the works of the house of Ahab. You walked in their counsels, so that I should deliver you over to complete destruction and make your inhabitants into a hissing, and you will bear the reproach of the peoples.'
 ## Chapter 7
 
-MIC.7:1 oe is me! For I have become like one harvesting stubble, like one gleaning small grapes after the vintage grapes are picked, but not finding for myself any cluster of first fruit to eat. Woe is me, O my soul!
+MIC.7:1 Woe is me! For I have become like one harvesting stubble, like one gleaning small grapes after the vintage grapes are picked, but not finding for myself any cluster of first fruit to eat. Woe is me, O my soul!
 MIC.7:2 For the God-fearing man has perished from the earth, and there is no one upright among the men. They all lie in wait, even unto blood, and each one grievously oppresses his neighbor.
 MIC.7:3 They prepare their hands for evil; the prince demands a gift, and the judge speaks flattering words; it is the desire of their soul.
 MIC.7:4 'Thus I shall take away their good things as the moth who eats away, and as one proceeding by the rule in the day of the watch. Alas! alas! the time of your vengeance is come; now shall be their lamentation.

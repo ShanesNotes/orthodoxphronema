@@ -1,14 +1,106 @@
-{
-  "book_code": "WIS",
-  "reindex_date": "2026-03-10",
-  "marker_count": 1,
-  "markers": [
-    {
-      "marker": "†",
-      "anchor": "WIS.1:13",
-      "marker_index_in_verse": 1,
-      "marker_seq_book": 1,
-      "source": "reindexed_from_md"
-    }
-  ]
-}
+[
+  {
+    "anchor": "WIS.0:5",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:13",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:12",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:18",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:25",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:10",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:19",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:6",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:16",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:17",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:26",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:4",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:22",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:27",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:31",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:8",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:14",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:21",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:3",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:23",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:28",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:11",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:7",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:15",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:2",
+    "marker": "†"
+  },
+  {
+    "anchor": "WIS.0:9",
+    "marker": "†"
+  }
+]

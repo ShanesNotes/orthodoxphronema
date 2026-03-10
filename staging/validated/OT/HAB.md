@@ -15,6 +15,7 @@ has_additions: false
 
 ## Chapter 1
 
+HAB.1:1 The burden which the prophet Habakkuk saw.
 HAB.1:2 How long, O Lord, shall I cry out to You, and You will not hear me? Being wronged I cry out to You; You will not save.
 HAB.1:3 Why have You shown me hardship and suffering, to look upon misery and ungodliness? Judgment is before me, and the judge takes bribes.
 
@@ -76,6 +77,7 @@ HAB.2:19 'Woe to him saying to the wood, 'Awake and rise up,' and to the dumb st
 HAB.2:20 But the Lord is in His holy temple; let all the earth be reverent before Him.'
 ## Chapter 3
 
+HAB.3:1 The prayer of the prophet Habakkuk, with an ode.
 HAB.3:2 Lord, I have heard Your report and was afraid; I considered Your works and was greatly astonished. You shall be known between the two living creatures; In the approaching years You shall be acknowledged; You will be revealed when the time comes. When my soul is troubled, You will in wrath remember mercy.
 HAB.3:3 God will come from Teman, The Holy One from the mount of shaded leafy trees. Pause. His excellence covered the heavens, And the earth was full of His praise.
 

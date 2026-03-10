@@ -1,0 +1,381 @@
+---
+book_code: HOS
+book_name: "Hosea"
+testament: OT
+canon_position: 31
+source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
+parse_date: "2026-03-10"
+promote_date: "2026-03-10"
+checksum: "0c3b4b90f44320ce0198c57601b65913ca1b171cebc3fbc794d5c2742f752dbe"
+status: promoted
+deuterocanonical: false
+has_additions: false
+---
+
+## Chapter 1
+
+HOS.1:1 The word of the Lord that came to Hosea the son of Beeri in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel.
+
+### Hosea's Family
+
+HOS.1:2 The beginning of the word of the Lord to Hosea. The Lord said to Hosea, 'Go, take to yourself a wife of fornication And children of fornication; For the land will surely go a-whoring By departing from the Lord.'
+
+### Israel and Judah Are Unrepentant
+
+HOS.1:3 So he went and took Gomer, daughter of Diblaim, and she conceived and bore him a son.
+HOS.1:4 Again the Lord said to him, 'Call his name Jezreel; For in a little while I will avenge the blood of Jezreel on the house of Jehu, And I will make to cease the kingship of the house of Israel.
+
+### God's Judgment on Israel
+
+HOS.1:5 It shall be in that day That I will break the bow of Israel in the Valley of Jezreel.'
+HOS.1:6 Then she conceived again and bore a daughter. So God said to him, 'Call her name Lo-Ruhamah, For I will no longer have mercy on the house of Israel, But will surely set Myself in array against them.
+HOS.1:7 But I will have mercy on the house of Judah And will save them by the Lord their God. I will not save them with bow, Nor with sword, nor by war, Nor by chariots, nor by horses or horsemen.'
+HOS.1:8 Now after she weaned Lo-Ruhamah, she conceived again and bore a son.
+
+### Israel Will Be Restored
+
+HOS.1:9 So the Lord said, 'Call his name Lo-Ammi, For you are not My people, And I am not your God. †
+
+### Trusting Other Nations Is Futile
+
+HOS.1:10 'Yet the number of the children of Israel Shall be as the sand of the sea, Which shall not be measured or numbered. Then it shall come to pass In the place where it was said to them, 'You are not My people,' Even then they shall be called The sons of the living God.
+
+### A Charge against Israel and Judah
+
+HOS.1:11 The children of Judah and the children of Israel Shall be gathered together. They shall appoint themselves one head And come up out of the land; For great shall be the day of Jezreel.
+
+## Chapter 2
+
+HOS.2:1 'Say to your brother, 'My People,' And to your sister, 'Pitied.''
+
+HOS.2:2 'Plead with your mother, plead, For she is not My wife, And I am not her Husband. I will remove her fornication out of My presence And her adultery from between her breasts,
+
+HOS.2:3 That I may strip her naked And make her again as she was at the day of her birth. I will make her desolate and as a dry land, And I will kill her with thirst.
+HOS.2:4 'I will not have mercy upon her children; For they are children of fornication.
+
+HOS.2:5 For their mother went a-whoring. She that bore them disgraced herself, For she said, 'I will go after my lovers, Who give me my bread and my water, And my garments and my linen clothes, My oil and my necessities.'
+HOS.2:6 'Therefore, behold, I will hedge up her way with thorns. I will stop the way so she shall not find her path.
+HOS.2:7 She will follow after her lovers But not overtake them. She will seek them but not find them. She will say, 'I will go and return to my former husband; For it was better for me than now.'
+HOS.2:8 For she did not know I gave her corn, wine, and oil, And multiplied silver to her; But she turned the silver and gold over to Baal.
+
+HOS.2:9 'Therefore I will take back My corn in its season, And My wine in its time. I will remove My raiment and My linen clothes That she may not cover her nakedness.
+
+HOS.2:10 Now I will expose her uncleanness before her lovers, And no one shall by any means Deliver her out of My hand.
+
+HOS.2:11 I will take away all her gladness, her feasts, And her festivals at the New Moon, And her Sabbaths, And all her solemn assemblies.
+HOS.2:12 'I will destroy her vines and her fig trees, All things of which she said, 'These are my wages that my lovers have given me.' But I will make them a testimony; And the wild beasts of the field, the birds of the sky, And the reptiles of the earth shall devour them.
+
+### God Has Mercy on His People
+
+HOS.2:13 I will repay her For the days of Baalim, Wherein she sacrificed to them, And put on her earrings and her necklaces, And went after her lovers; But she forgot Me,' says the Lord.
+
+### Punishment for Israel
+
+HOS.2:14 'Therefore, behold, I will lead her astray And make her as desolate, And I will speak to her heart.
+
+### Restoration of Israel
+
+HOS.2:15 I will give her possessions from there, And the Valley of Achor to open her understanding. She will be humbled there According to the days of her infancy, And according to the days of her coming up Out of the land of Egypt.
+HOS.2:16 'Then it shall come to pass in that day,' Says the Lord, 'That she will call Me 'My Husband,' And shall no longer call Me 'Baalim.'
+HOS.2:17 For I will take away the names of Baalim out of her mouth, And their names shall be remembered no more.
+HOS.2:18 In that day I will make a cove nant for them With the wild beasts of the field, And with the birds of the sky, And with the reptiles of the earth. I will break the bow, the sword, and the battle from off the earth, And will cause them to dwell safely.
+
+### Warnings for Israel and Judah
+
+HOS.2:19 'I will betroth you to Myself forever; Yes, I will betroth you to Myself In righteousness and justice, And in mercy and compassions.
+HOS.2:20 I will betroth you to Myself in faithfulness, And you shall know the Lord.
+HOS.2:21 'It shall come to pass in that day,' says the Lord, 'That I will listen to heaven, And it shall listen to the earth.
+HOS.2:22 The earth shall listen to the corn, And the wine, and the oil; And they shall listen to Jezreel.
+
+### Israel Will Return to the Lord
+
+HOS.2:23 I will sow her to Myself on the earth, And will love her that was not loved, And will say to that which was not My people, 'You are My people!' And they shall say, 'You are the Lord my God!' '
+
+## Chapter 3
+
+
+HOS.3:1 Then the Lord said to me, 'Go yet again and love a woman that loves evil things, an adulteress, even as the Lord loves the children of Israel, for they look after strange gods and love raisin cakes.'
+HOS.3:2 So I bought her for myself for fifteen pieces of silver, a homer of barley, and a jar of wine.
+
+HOS.3:3 I said to her, 'You shall stay with me for many days. You shall not commit fornication, neither shall you be for another man; but I will be for you.'
+HOS.3:4 For the children of Israel shall abide many days without a king, without a prince, without a sacrifice, without an altar, without a priesthood, and without symbols of revelation.
+
+HOS.3:5 Afterward the children of Israel shall return and seek the Lord their God and David their king; and they shall be amazed at the Lord and at His good things in the latter days.
+
+## Chapter 4
+
+HOS.4:1 Hear the word of the Lord, You children of Israel, For the Lord has a judgment for the inhabitants of the land: 'There is no truth or mercy Or knowledge of God in the land.
+HOS.4:2 Cursing and lying, murder and theft And adultery gushed forth in the land, And blood is mingled with blood.
+
+HOS.4:3 Therefore the land shall mourn And be diminished with all the things that dwell in it: The wild beasts of the field, the reptiles of the earth, And the birds of the sky, And the fish of the sea shall come to an end;
+HOS.4:4 That neither may any one judge, nor analyze another; But my people are as a priest who is spoken against.
+
+HOS.4:5 'Thus you shall be weak by day, And the prophet shall be weak with you; I have compared your mother to the night.
+HOS.4:6 My people are like as those who have no knowledge. Because you have rejected knowledge, I will also reject you from being a priest to Me; And because you have forgotten the law of your God, I also will forget your children.
+HOS.4:7 According to their multitude, So they sinned against Me; I will turn their glory into dishonor.
+HOS.4:8 They will eat the sins of My people And take away their lives because of their wrongdoings.
+
+HOS.4:9 The priest shall also be as the people; So I will punish him for his ways And repay him for his counsels.
+
+HOS.4:10 They shall eat and not be satisfied; They have gone a-whoring and shall by no means prosper, Because they have abandoned holding fast to the Lord.
+
+HOS.4:11 'The heart of My people has gladly engaged In fornication, wine, and strong drink.
+HOS.4:12 They asked counsel by means of signs And they reported answers to them by their staves. They have gone astray in a spirit of whoredom And grievously gone a-whoring from their God.
+
+HOS.4:13 They have sacrificed on the tops of the mountains, And on the hills they have sacrificed Under the oak and poplar And under the shady tree, Because their shade was good. Therefore your daughters shall go a-whoring, And your daughters-in-law shall commit adultery.
+
+HOS.4:14 But I will not show care for your daughters When they commit fornication, Nor your daughters-in-law When they commit adultery; For they mingled themselves with harlots And sacrificed with the initiated ones; And the people who understood Entangled themselves with a harlot.
+
+HOS.4:15 'But you, O Israel, be not ignorant, And do not go, men of Judah, to Gilgal; And do not go up to Beth Aven Nor swear by the living Lord.
+HOS.4:16 For Israel was maddened like a mad heifer; Now the Lord will feed them Like a lamb in a wide place.
+HOS.4:17 Ephraim, joined with idols, Has laid stumbling blocks in his own way.
+HOS.4:18 He has chosen the Canaanites; They have grievously gone a-whoring; They have loved dishonor through her rudeness.
+
+HOS.4:19 You are a blast of wind in her wings, And they shall be ashamed because of their altars.
+
+## Chapter 5
+
+
+HOS.5:1 'Hear these things, O priests, And attend, O house of Israel! Listen, O house of the king! For judgment is with you Because you have been a snare in Mizpah And a net spread on Tabor,
+HOS.5:2 Which they that hunt the prey have fixed; But I will be your instructor.
+
+HOS.5:3 I know Ephraim, and Israel is not far from Me; For now Ephraim has gone grievously a-whoring; Israel is defiled.
+HOS.5:4 'Their deliberations did not allow them To return to their God, For a spirit of fornication is in them, And they have not gotten to know the Lord.
+
+HOS.5:5 The arrogance of Israel Shall be brought low before His face, And Israel and Ephraim shall become weak Due to their wrongdoings; And Judah also shall become weak with them.
+HOS.5:6 'They shall go with sheep and calves Diligently to seek the Lord; But they shall not find Him, For He has withdrawn Himself from them.
+HOS.5:7 For they have forsaken the Lord Because strange children have been born to them. Now the rust shall devour them along with their heritages.
+HOS.5:8 'Blow the trumpet on the hills, Sound aloud on the heights, Proclaim in Beth Aven: 'Benjamin is confused.'
+
+HOS.5:9 Ephraim has vanished in the days of reproof; Among the tribes of Israel I have shown faithful things.
+
+HOS.5:10 'The princes of Judah became as those Who remove the boundaries; I will pour out my fury upon them as water.
+
+HOS.5:11 Ephraim oppressed his adversary; He trod over judgment, For he began to go after vanities.
+HOS.5:12 Therefore I will be as a confusion to Ephraim And as a sting to the house of Judah.
+
+HOS.5:13 'Ephraim saw his disease And Judah his pain; Then Ephraim went to the Assyrians And sent ambassadors to King Jareb. But he could not heal you, And your pain shall in no way cease from you.
+
+HOS.5:14 Wherefore I am as a panther to Ephraim And as a lion to the house of Judah.
+
+HOS.5:15 So I will grasp and go away; And I will take, and there shall be none to rescue. I will go and return to My place Until they are destroyed, And then they shall seek My face.
+
+## Chapter 6
+
+HOS.6:1 ''Let us go and return to the Lord our God; For He has grasped and will heal us; He will smite and plug the wound with lint.
+HOS.6:2 After two days He will heal us. In the third day we shall rise And live before Him.
+
+HOS.6:3 Let us know, let us pursue That we might know the Lord. We shall find Him ready as the day break, And He will come to us As the early and latter rain to the earth.'
+HOS.6:4 'What shall I do to you, O Ephraim? What shall I do to you, O Judah? Your mercy is as a morning cloud And as the early dew that goes away.
+
+HOS.6:5 Therefore I have cut off your prophets; I have slain them with the words of My mouth, And My judgment shall go forth as the light.
+HOS.6:6 For I desire mercy and not sacrifice, And the knowledge of God More than whole burnt offerings.
+HOS.6:7 But they are as a man who transgresses the covenant; There they despised Me.
+HOS.6:8 Gilead is a city working vanity with troubling water.
+
+HOS.6:9 Your strength is that of a pirate; The priests have hidden the way; They have murdered the people of Shechem, For they have done lawlessness.
+
+HOS.6:10 In the house of Israel I have seen horrible things; There is the fornication of Ephraim; Israel and Judah are defiled.
+
+HOS.6:11 Begin to harvest for yourself When I return the captives of My people.
+
+## Chapter 7
+
+HOS.7:1 'When I have healed Israel, Then shall the wrongdoing of Ephraim And the evil of Samaria be revealed, For they have worked falsehood. A thief shall come in to him, Even a robber taking spoil in his way,
+HOS.7:2 That they may sing together As men singing in their heart. I remember all their evils; Now their own counsels have encircled them; They were before My face.
+
+HOS.7:3 They gladdened kings with their evils And princes with their lies.
+HOS.7:4 'They are all adulterers, Like an oven heated for cooking, Burning with a flame during the kneading of the dough Until it is leavened.
+
+HOS.7:5 In the days of our kings, The princes began to be inflamed with wine; He stretched out his hand with pestilent fellows.
+HOS.7:6 Wherefore their hearts are inflamed like an oven While they were falling down all the night. Ephraim is satisfied with sleep; The morning is come; He is burnt up like a flame of fire.
+HOS.7:7 They are all heated like an oven And have devoured their judges. All their kings are fallen; There was not among them one that called upon Me.
+HOS.7:8 'Ephraim is mixed among his peoples; Ephraim became a cake not turned.
+
+HOS.7:9 Strangers devoured his strength, And he knew it not. Grey hairs came upon him, And he knew it not.
+
+HOS.7:10 The pride of Israel shall be humbled before his face; Yet they have not returned to the Lord their God, Neither have they diligently sought Him in spite of all this.
+
+HOS.7:11 'Ephraim was like a silly dove, not having a heart; He called to Egypt, and they went to the Assyrians.
+HOS.7:12 Whenever they shall go, I will cast My net upon them; I will bring them down as the birds of the sky. I will chastise them through the news of their affliction.
+
+HOS.7:13 'Woe to them, for they have turned away from Me! They are cowards, For they have committed impious deeds against Me. Yet I redeemed them, But they spoke falsehoods against Me.
+
+HOS.7:14 Their hearts did not cry aloud to Me, But they wailed upon their beds. 'They slashed themselves for oil and wine; They were chastised by Me.
+
+HOS.7:15 I strengthened their arms, But they devised evils against Me.
+HOS.7:16 They turned aside to nothing; They became as a stretched bow. Their princes shall fall by the sword; They will be despised in the land of Egypt Because of their unrestrained tongue.
+
+## Chapter 8
+
+HOS.8:1 Like an eagle against the house of the Lord, Because they broke My covenant And acted impiously against My law.
+HOS.8:2 They shall cry out to Me, say ing, 'O God, we know You.'
+
+HOS.8:3 For Israel has turned away from good things; They have pursued an enemy.
+HOS.8:4 'They made kings for themselves, but not by Me. They have ruled, but they did not make it known to Me. They made idols for themselves with their silver and gold That they might be utterly destroyed.
+
+HOS.8:5 Get rid of your calf, O Samaria. My anger is kindled against them. How long will they be unable to purge themselves in Israel?
+HOS.8:6 A workman made it, And it is not God; Therefore your calf, O Samaria, was a deceiver.
+HOS.8:7 'For they sowed wind-damaged seeds, And their destruction shall await them; A sheaf of corn cannot produce flour; And even if the seeds should produce it, Strangers would devour it.
+HOS.8:8 Israel is swallowed up. Now he has become as a worthless vessel among the nations.
+
+HOS.8:9 For they have gone up to the Assyrians; Ephraim has sprouted again against himself; They loved gifts.
+
+HOS.8:10 Therefore they shall be handed over to the nations. Now I will receive them, And they will stop awhile to anoint a king and princes.
+
+HOS.8:11 'Because Ephraim has multiplied altars, His beloved altars have become sins to him.
+HOS.8:12 I will write a multitude of statutes for him, For his statutes are considered as strange things, As well as his beloved altars.
+
+HOS.8:13 For if they should offer a sacrifice and eat flesh, The Lord would not accept them. Now He will remember their wrongdoings And take vengeance on their sins. They have returned to Egypt, And they shall eat unclean things among the Assyrians.
+
+HOS.8:14 'Israel has forgotten Him who made him. They have built temples, And Judah has multiplied walled cities; But I will send fire upon his cities, And it shall devour their foundations.'
+
+## Chapter 9
+
+
+HOS.9:1 Rejoice not, O Israel, Neither make merry, as other peoples, For you have gone a-whoring from your God. You have loved for hire Upon every threshing floor of wheat.
+HOS.9:2 The threshing floor and winepress did not know them, And the wine disappointed them.
+
+HOS.9:3 They did not dwell in the Lord's land. Ephraim dwelt in Egypt, And they shall eat unclean things among the Assyrians.
+HOS.9:4 They have not offered wine to the Lord, Neither have their sacrifices been pleasing to Him, But like the mourning bread to them. All that eat shall be defiled Because their bread shall be for their own life; It shall not come into the house of the Lord.
+
+HOS.9:5 What will you do in the day of public festival And in the day of the Lord's feast?
+HOS.9:6 Therefore, behold, they go forth from the trouble of Egypt. Memphis shall receive them And Machmas shall bury them. As for their silver, destruction shall inherit it, And thorns shall be in their tents.
+HOS.9:7 The days of vengeance have come; The days of your recompense have come; And Israel shall be afflicted As the prophet that is mad, as a man deranged. By reason of the multitude of your wrongdoings Your madness has abounded.
+HOS.9:8 The watchman of Ephraim was with God, But the prophet is a crooked snare in all his ways. They have planted the madness firmly In the house of God.
+
+HOS.9:9 They have corrupted themselves As in the days of Gibeah. He will remember his wrongdoings; He will take vengeance on his sins.
+
+HOS.9:10 'I found Israel as grapes in the wilderness, And I saw their fathers as an early guard at their fig tree. They went in to Baal Peor And were shamefully estranged; And the beloved ones became abominable.
+
+HOS.9:11 The glory of Ephraim has flown away as a bird: Their glories from birth, birth-pains, and conception.
+HOS.9:12 For even if they should rear their children, Yet they shall be utterly bereaved. For woe to them! My flesh is of them.
+
+HOS.9:13 Ephraim, even as I saw, Presented their children as a prey; Ephraim was ready to bring out his children to slaughter.'
+
+HOS.9:14 Give to them, O Lord! What will You give to them? A childless womb and dry breasts.
+
+HOS.9:15 'All their evils are in Gilgal, For there I hated them. Because of their evil practices, I will cast them out of My house. I will not love them any more. All their leaders are disobedient.
+
+HOS.9:16 Ephraim underwent trouble; He is dried up at his roots; He shall bear fruit no more. Wherefore, even if they should beget children, I would kill the desired fruit of their womb.'
+
+HOS.9:17 God shall reject them Because they have not hearkened to Him. So they shall be wanderers among the nations.
+
+## Chapter 10
+
+HOS.10:1 Israel is a luxuriant vine; Her fruit is abundant. According to the multitude of her fruits She has multiplied her altars; According to the wealth of his land He has set up pillars.
+
+HOS.10:2 They have divided their hearts; Now shall they be utterly destroyed. He shall raze their altars to the ground; Their pillars shall experience distress.
+
+HOS.10:3 For now they will say, 'We have no king, Since we did not fear the Lord. As for a king, what would he do for us?'
+
+HOS.10:4 As he speaks words With false motives, He would make a covenant. Thus judgment will spring up As a weed on the soil of the field.
+
+HOS.10:5 The inhabitants of Samaria Shall dwell near the calf of Beth Aven, For its people mourned for it. To the degree that they rebelled against it, So they will rejoice at its glory Because it was removed from them.
+
+HOS.10:6 For they bound it up for the Assyrians And carried it away as a gift to King Jareb. Ephraim shall receive it as a gift, And Israel shall be ashamed of his own counsel.
+HOS.10:7 Samaria has cast off her king Like a twig on the surface of the water,
+HOS.10:8 And the altars of Aven, the sins of Israel, Shall be removed. Thorns and thistles shall come upon their altars, And they shall say to the mountains, 'Cover us,' And to the hills, 'Fall on us.'
+
+HOS.10:9 'From the days of Gibeah, Israel has sinned; There they stood. The war on that hill against the children of unrighteousness Did not overtake them.
+
+HOS.10:10 I came to chastise them, And peoples shall be gathered against them When they are chastised for their two sins.
+
+HOS.10:11 Ephraim is a heifer taught to love victory, But I will come upon the fairest part of her neck. I will mount Ephraim; I will pass over Judah in silence; Jacob shall prevail against him.'
+HOS.10:12 Sow to yourselves in righteousness; Gather in the fruit of life; Light for yourselves the light of knowledge; Seek the Lord till the fruits of righteousness come upon you.
+
+HOS.10:13 Why have you passed over ungodliness in silence And reaped its wrongdoings? You have eaten the fruit of deception, For you have hoped in your chariots, In the abundance of your power.
+
+HOS.10:14 Therefore destruction shall rise up among your people, And all your walled places shall be gone, As Beth Arbel in the time of Prince Shalman.
+
+HOS.10:15 In the days of battle, They dashed the mother to the ground upon the children. Thus will I do to you, O house of Israel, Because of your evil deeds. Early in the morning were they cast off; The king of Israel has been cast off.
+
+## Chapter 11
+
+
+HOS.11:1 'For Israel is a child, and I loved him, And out of Egypt I have called his children.
+HOS.11:2 As I called them, So they departed from My presence. They sacrificed to the Baals, And burned incense to graven images.
+
+HOS.11:3 'Yet I bound the feet of Ephraim. I took him on My arm, But they did not know that I healed them.
+HOS.11:4 When men were destroyed, I drew them with the bands of My love, And I will be to them as a man Smiting another on his cheek. I will look with favor to him; I will prevail with him.
+
+HOS.11:5 'Ephraim dwelt in Egypt; And the Assyrian himself was his king, Because he would not return.
+HOS.11:6 The sword became weak in his cities, And he ceased to war with his hands; For they shall consume themselves With their own intrigues.
+HOS.11:7 His people shall hold onto His habitation; But God shall be angry with His precious things, And shall not at all exalt him.
+HOS.11:8 'How shall I deal with you, Ephraim? How shall I protect you, Israel?
+
+HOS.11:9 What shall I do with you? I will make you as Admah and as Zeboiim. My heart is turned about; My repentance is utterly thrown into confusion. I will not act according to the fury of My wrath; I will not abandon Ephraim to be utterly destroyed. For I am God and not man; The Holy One among you; And I will not enter into the city.
+
+HOS.11:10 'I will go after the Lord. He shall utter His voice as a lion; For He shall roar, And the children of the waters shall be amazed.
+
+HOS.11:11 They shall be amazed as a bird out of Egypt And as a dove out of the land of the Assyrians; And I will restore them to their houses,' Says the Lord.
+HOS.11:12 'Ephraim has encompassed me with falsehood, And the house of Israel and Judah with ungodliness. But now God knows them, And he shall be called God's holy people.
+
+## Chapter 12
+
+HOS.12:1 But Ephraim is an evil spirit. He has chased the east wind all the day. He has multiplied empty and vain things And struck a cove nant with the Assyrians. He made business with oil in Egypt.
+
+HOS.12:2 'The Lord has a judgment against Judah So as to punish Jacob according to his ways, And He will repay him according to his practices.
+HOS.12:3 He kicked his brother in the womb, And in his toils he regained strength with God.
+
+HOS.12:4 He prevailed with the Angel and was strong. They wept and entreated Me.
+HOS.12:5 They found Me in Bethel, And there a word was spoken to them. So the Lord God Almighty shall be his memorial.
+HOS.12:6 You shall return to your God; Therefore, observe mercy and judgment, And draw near to your God continually.
+HOS.12:7 'As for Canaan, There is a balance of wrongdoing in his hand, For he has loved to oppress.
+
+HOS.12:8 As for Ephraim, he said, 'Nevertheless, I am rich; I have found relief for myself.' But none of his labors shall be found in him, Because of the wrongdoings by which he sinned.
+
+HOS.12:9 'But I the Lord your God brought you up Out of the land of Egypt. I will yet again cause you to dwell in tents According to the days of the feast.
+
+HOS.12:10 For I will speak to the prophets, And I have multiplied visions, And by the authority of the prophets I was represented.'
+HOS.12:11 If Gilead does not exist, Then the leaders in Gilead were false when they sacrificed, And their altars were like mounds on a parched field.
+
+HOS.12:12 Jacob retreated into the plain of Syria, And Israel served for a wife And kept watch for a wife.
+
+HOS.12:13 The Lord brought Israel Out of the land of Egypt by a prophet, And by a prophet he was preserved.
+
+HOS.12:14 Ephraim was angry and excited; Therefore his blood shall be poured out upon him, And the Lord shall repay him for his disgrace.
+
+## Chapter 13
+
+
+HOS.13:1 According to the word of Ephraim, He received ordinances for himself in Israel And established them for Baal; then he died.
+HOS.13:2 So now they have sinned increasingly And have made for themselves A molten image with their silver, According to the fashion of idols, The work of craftsmen done for them. They say, 'Sacrifice men, For the calves have come to an end.'
+
+HOS.13:3 Therefore they shall be as a morning cloud And as the early dew that passes away, Like chaff blown away from the threshing floor And as smoke out of the chimney.
+HOS.13:4 'But I am the Lord your God, Who makes the heaven firm and creates the earth, Whose hands have created the whole host of heaven. But I did not show them to you that you should seek after them. I brought you up from the land of Egypt, And you shall know no God but Me; And there is no Savior besides Me.
+
+HOS.13:5 I tended you as a shepherd in the wilderness, In an uninhabited land.
+HOS.13:6 When they had their pastures, They were completely filled, And their hearts were exalted; Therefore, they forgot Me.
+HOS.13:7 'So I will be to them as a panther And as a leopard by way of the Assyrians.
+HOS.13:8 I will meet them as an excited she-bear, And I will rend the hardness of their heart. The lions' whelps of the thicket shall devour them there; The wild beasts of the field shall rend them in pieces.
+
+HOS.13:9 'O Israel, who will help you in your destruction?
+
+HOS.13:10 Where is this king of yours? Let him save you in all your cities. Let him judge you, of whom you said, 'Give me a king and a prince.'
+
+HOS.13:11 Thus I gave you a king in My anger And took him back in My wrath.
+HOS.13:12 'Ephraim is a conspiracy of unrighteousness; His sin is hidden.
+
+HOS.13:13 Pains as of a woman in travail shall come upon him. He is your unwise son, For he shall not stand in the destruction of your children.
+
+HOS.13:14 'I will deliver them out of the hand of Hades And will redeem them from death. Where is your penalty, O death? O Hades, where is your sting? Pity is hidden from My eyes.'
+
+HOS.13:15 Forasmuch as he will cause A division among his brethren, The Lord shall bring upon him A hot wind from the desert, And shall dry up his springs And drain his fountains. He shall dry up his land And spoil all his precious vessels.
+HOS.13:16 Samaria shall be utterly destroyed, For she has resisted her God; And they shall fall by the sword. Their infants shall be dashed against the ground And their pregnant women ripped up.
+
+## Chapter 14
+
+HOS.14:1 Return, O Israel, to the Lord your God, For you became weak through your wrongdoings.
+
+HOS.14:2 Take with you words And turn to the Lord your God.
+HOS.14:3 Speak to Him, That you may not receive the reward of unrighteousness, But that you may receive good things. We will render in return the fruit of our lips. Assyria will not save us; We will not mount on horseback. Let us no longer say to the works of our hands, 'Our gods.' He who is among you shall have mercy on the orphan.
+
+HOS.14:4 'I will restore their dwellings. I will love them willingly, For he has turned away My wrath from them.
+HOS.14:5 I will be as dew to Israel; He shall bloom as the lily And cast forth his roots as Lebanon.
+HOS.14:6 His branches shall spread, And he shall be as a fruitful olive tree, And his fragrance shall be as the smell of Lebanon.
+HOS.14:7 They shall return and dwell under his shadow; They shall live and be satisfied with corn, And he shall flower as a vine; His memorial shall be as the wine of Lebanon.
+
+HOS.14:8 'To Ephraim: What has he to do any more with idols? I have humbled him And I will strengthen him. I am as a leafy juniper tree. From Me your fruit is found.'
+
+HOS.14:9 Who is wise and will understand these things? Or prudent and will know them? For the ways of the Lord are straight, And the righteous shall walk in them; But the ungodly shall become weak in them.

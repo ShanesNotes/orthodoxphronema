@@ -7,8 +7,9 @@
   "residuals": [
     {
       "anchor": "EST.4:6",
-      "classification": "docling_issue",
-      "description": "Verse absent from Docling extraction. OSB verse 6 not detected — Brenton content maps to EST.4:7 (versification offset).",
+      "classification": "osb_source_absent",
+      "description": "OSB text flows from v5 directly to v7 with no verse 6 marker. Versification difference from Brenton/LXX. Content not in source.",
+      "blocking": false,
       "ratified": true
     }
   ]

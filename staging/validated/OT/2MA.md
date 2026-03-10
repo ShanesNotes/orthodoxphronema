@@ -319,6 +319,9 @@ has_additions: false
 2MA.7:12 As a result the king himself and those with him were astonished at the young man's spirit, for he regarded his sufferings as nothing.
 2MA.7:13 When he died, they tortured and tormented the fourth in the same way.
 2MA.7:14 So when he was near death, he said, 'One may be chosen to die at the hands of men and to look for the hope that God gives of being raised again by Him. But for you there shall be no resurrection to life.'
+2MA.7:15 Next they led forward the fifth and tormented him.
+2MA.7:16 But he looked at the king and said, 'Because you have authority among men, mortal though you are, you do what you please; but do not think that God has forsaken our people.
+2MA.7:17 Continue, and behold how His mighty power will torture you and your seed!'
 2MA.7:18 After him they led forward the sixth. When he was about to die, he said, 'Do not deceive yourself, for we are suffering these things on our own account because of our sins against our own God. Therefore things worthy of wonder have happened.
 2MA.7:19 But do not think that you shall be innocent for trying to fight against God!'
 2MA.7:20 The mother was especially admirable and worthy of good memory. Though she saw her seven sons perish in the span of a single day, she bore it courageously because of her hope in the Lord.

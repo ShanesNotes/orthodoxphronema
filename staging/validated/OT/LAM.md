@@ -125,8 +125,11 @@ LAM.3:58 'And the lips of those who rose up against me, And their meditations ag
 LAM.3:59 Look at their eyes As they sit down and rise up.
 LAM.3:60 You shall render a recompense to them, O Lord, According to the works of their hands.
 LAM.3:61 'You shall repay them as a covering Your hardship for them.
-LAM.3:62 You shall pursue them in Your wrath and utterly destroy them From under heaven, O Lord. 'How will gold lose its brightness And fine silver become tarnished? The stones of the sanctuary are scattered At the head of every street.
+LAM.3:62 You shall pursue them in Your wrath and utterly destroy them From under heaven, O Lord.
+
 ## Chapter 4
+
+LAM.4:1 'How will gold lose its brightness And fine silver become tarnished? The stones of the sanctuary are scattered At the head of every street.
 
 LAM.4:2 'The honored sons of Zion, Valuable as gold, How are they now regarded as clay pots, The works of a potter's hands?
 LAM.4:3 'Ev en the serpents uncover their breasts To nurse their young; But the daughters of my people are cruel, Like an ostrich in the desert.
@@ -148,8 +151,11 @@ LAM.4:18 'We hunted for our little ones So they would not walk in our streets. O
 LAM.4:19 'Our pursuers were swifter Than the eagles of the sky. They perched on the mountains And lay in wait for us in the desert.
 LAM.4:20 'The breath of our nostrils, the Anointed of the Lord, Was seized in their corruption, Of whom we said, 'Under His shadow We shall live among the nations.'
 LAM.4:21 'Rejoice and be glad, O daughter of Edom, Who dwell in the land. For indeed the cup of the Lord shall pass through to you, And you shall become drunk and be poured out.
-LAM.4:22 'O daughter of Zion, your lawlessness has come to an end; He will not continue your exile. He has been concerned about your lawlessness, O daughter of Edom; He has revealed your profane acts. 'O Lord, remember what happened to us; Look upon us with favor And see our disgrace.
+LAM.4:22 'O daughter of Zion, your lawlessness has come to an end; He will not continue your exile. He has been concerned about your lawlessness, O daughter of Edom; He has revealed your profane acts.
+
 ## Chapter 5
+
+LAM.5:1 'O Lord, remember what happened to us; Look upon us with favor And see our disgrace.
 
 LAM.5:2 Our inheritance has been turned over to foreigners, And our homes to strangers.
 LAM.5:3 We have become orphans and have no father; Our mothers are as widows.

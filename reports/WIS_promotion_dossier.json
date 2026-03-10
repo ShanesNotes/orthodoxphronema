@@ -1,9 +1,9 @@
 {
   "book_code": "WIS",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:01:34.237892",
+  "timestamp": "2026-03-10T17:46:35.211184",
   "registry_version": "1.3.0",
-  "body_checksum": "2544e6570859b03099c20077476f70889f5ba55cf5a5158edd2f2473a58878cd",
+  "body_checksum": "f402beb467f489d0dc655a14a7f42215f4cc2a6a1754ea82bb9d1e941472d127",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -43,5 +43,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "promoted"
 }

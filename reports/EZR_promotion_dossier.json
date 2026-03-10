@@ -1,9 +1,9 @@
 {
   "book_code": "EZR",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:00:54.504590",
+  "timestamp": "2026-03-10T17:37:54.563759",
   "registry_version": "1.3.0",
-  "body_checksum": "3235b847dc4dcd7d46e43c6d9f20248e115237858cfce539caaae0649cc65630",
+  "body_checksum": "8b32905e73be14a3c7c74c0433b1f08269a7e3753bd38ff7dd45d863d070fa8e",
   "validation": {
     "V1": {
       "status": "PASS",

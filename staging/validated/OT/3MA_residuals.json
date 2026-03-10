@@ -7,8 +7,9 @@
   "residuals": [
     {
       "anchor": "3MA.1:29",
-      "classification": "docling_issue",
-      "description": "Verse absent from extraction. OSB ch1 may have 28 verses (CVC=29 from Brenton). OSB 1:28 text covers content of both Brenton 1:28 and 1:29, suggesting versification difference rather than parser gap.",
+      "classification": "osb_source_absent",
+      "description": "OSB ch1 ends at v28 (goes directly to ch2 heading). OSB 1:28 covers Brenton 1:28+1:29 content. Versification difference, not parser gap.",
+      "blocking": false,
       "ratified": true
     }
   ]

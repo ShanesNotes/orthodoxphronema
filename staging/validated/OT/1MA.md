@@ -895,6 +895,7 @@ has_additions: false
 1MA.12:16 Therefore we chose Numenius son of Antiochus and Antipater son of Jason, and sent them to Rome to renew our former friendship and alliance with them.
 1MA.12:17 We also ordered them to go to you, to greet you and give you these letters from us concerning the renewal of our brotherhood.
 1MA.12:18 Now then, please send us a reply.'
+1MA.12:19 This is the copy of the letters they sent to Onias:
 1MA.12:20 'King Arius of the Spartans to Onias the high priest, greetings.
 1MA.12:21 It has been put in writing regarding both the Spartans and the Jews that they are brothers, and are both of the family of Abraham.
 1MA.12:22 So now that we know this, please write us concerning your welfare.

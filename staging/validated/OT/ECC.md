@@ -25,10 +25,12 @@ ECC.1:5 The sun rises and the sun sets And returns to its place.
 
 ECC.1:6 The wind rises and goes toward the south And swirls towards the north.
 ECC.1:7 All the rivers flow to the sea, Yet the sea shall not be filled.
-ECC.1:8 Neither will the eye be satisfied with seeing, Nor will the ear be filled with hearing. † What has been is what will be, And what has been done is what will be done.
+ECC.1:8 Neither will the eye be satisfied with seeing, Nor will the ear be filled with hearing. †
+ECC.1:9 What has been is what will be, And what has been done is what will be done.
 ### Futility of Man's Wisdom
 
-ECC.1:10 For it has already been in the ages That have passed before us. There is no remembrance of former things, And indeed, there shall be no remembrance of later things By the things that will come after that.
+ECC.1:10 For it has already been in the ages That have passed before us.
+ECC.1:11 There is no remembrance of former things, And indeed, there shall be no remembrance of later things By the things that will come after that.
 ECC.1:12 I, the Preacher, was king over Israel in Jerusalem.
 ECC.1:13 I gave my heart to seek out and to prepare myself in wisdom concerning all the things done under heaven; for God has given painful distraction to the sons of men to be occupied therewith.
 ECC.1:14 I beheld all the works done under the sun, and behold, all is vanity and is the choice of one's spirit.
@@ -145,7 +147,23 @@ ECC.5:5 Do not let your mouth cause your flesh to sin, and do not say in the pre
 ECC.5:6 For in a multitude of dreams there are vanities and many words, but you should fear God.
 ECC.5:7 If you see the oppression of the poor and the violation of judgment and righteousness in the land, do not marvel at the matter; for there is a high official to watch over a high official, and higher ones over them!
 ECC.5:8 Moreover, the abundance of the earth is for all: even a king depends on work in the field.
-ECC.5:9 And in much anger, sickness, and gall.
+
+ECC.5:9 He who loves silver will not be satisfied with silver; Nor he who loves the harvest, with its abundance. This also is vanity.
+
+ECC.5:10 In the abundance of good things They who eat them also increase, But what virtue does the owner have from them, Except to see them with his eyes?
+
+ECC.5:11 The sleep of a servant is sweet, Whether he eats little or much; But the abundance of the rich will not permit him to sleep.
+
+ECC.5:12 There was a sickness I saw under the sun: Wealth kept for its owner to his hurt.
+
+ECC.5:13 That wealth shall perish in painful distraction, And he begets a son; But there is nothing in his hand.
+
+ECC.5:14 As he came from his mother's womb, Naked shall he return, to go as he came; And he shall take nothing from his labor That it may go with him in his hand.
+
+ECC.5:15 This also is a painful sickness, For as he came, so shall he go; And what is his gain, for which he labored for the wind?
+
+ECC.5:16 All his days are in darkness and sorrow And in much anger, sickness, and gall.
+
 ECC.5:17 Behold, I have seen good: It is a fine thing for a man to experience goodness in all his labor in which he toils all the days of his life that God has given him; for it is his portion.
 ECC.5:18 As for every man to whom God has given wealth, possessions, and authority-to eat from it, to receive his portion, and to rejoice in his labor-this is the gift of God.
 ECC.5:19 For he will not remember the many days of his life, because God distracted him in the merriment of his heart.
@@ -184,6 +202,7 @@ ECC.7:14 In the day of what is good, live in that goodness, But in the day of tr
 ECC.7:15 I saw every thing in my days of vanity: There is a righteous man Who perishes in his righteousness, And there is an ungodly man Who remains alive in his vice.
 ECC.7:16 Do not be overly righteous, Nor be overly wise, Lest you be confounded.
 ECC.7:17 Do not be very ungodly, Nor be hardened, Lest you die before your time.
+ECC.7:18 It is good that you lay hold of this And do not let your hand let go of it: For the one who fears God, all things will turn out well.
 ECC.7:19 Wisdom will help the wise More than ten rulers in the city.
 ECC.7:20 For there is not a righteous man on earth Who does good and does not sin.
 ECC.7:21 Also do not take to heart all the words people say, Lest you hear your servant cursing you.
@@ -200,7 +219,8 @@ ECC.7:29 Except behold, I found this, That God makes man upright, But they have 
 
 ## Chapter 8
 
-ECC.8:1 Keep the king's commandment and spare no effort for the sake of your oath to God.
+ECC.8:1 Who knows the wise? And who knows the interpretation of a thing? A man's wisdom makes his face shine, And a man shameless in face will be hated.
+ECC.8:2 Keep the king's commandment and spare no effort for the sake of your oath to God.
 ECC.8:3 You will go out from his presence, but do not stand with an evil thing, for the king will do whatever he pleases.
 ECC.8:4 Insofar as a king has authority, he speaks, And who will say to him, 'Why will you do this?'
 ECC.8:5 He who keeps his commandment will not know an evil thing, And a wise man's heart knows the time of judgment.
@@ -236,6 +256,7 @@ ECC.9:14 There was a little city with a few men in it; and a great king came aga
 ECC.9:15 Now there was found in it a poor wise man, and by his wisdom he rescued the city; yet no one remembered that poor man.
 ECC.9:16 'Wisdom is better than strength, But the poor man's wisdom is despised, And his words are not heard.
 ECC.9:17 The words of the wise are heard in quietness More than the shouting of those who rule in foolishness.
+ECC.9:18 Wisdom is better than weapons of war, But one sinner destroys much goodness.
 
 ## Chapter 10
 

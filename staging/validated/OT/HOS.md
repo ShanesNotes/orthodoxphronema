@@ -14,6 +14,11 @@ has_additions: false
 
 ## Chapter 1
 
+HOS.1:1 The word of the Lord that came to Hosea the son of Beeri in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel.
+
+### Hosea's Family
+
+HOS.1:2 The beginning of the word of the Lord to Hosea. The Lord said to Hosea, 'Go, take to yourself a wife of fornication And children of fornication; For the land will surely go a-whoring By departing from the Lord.'
 
 ### Israel and Judah Are Unrepentant
 
@@ -40,6 +45,8 @@ HOS.1:10 'Yet the number of the children of Israel Shall be as the sand of the s
 HOS.1:11 The children of Judah and the children of Israel Shall be gathered together. They shall appoint themselves one head And come up out of the land; For great shall be the day of Jezreel.
 
 ## Chapter 2
+
+HOS.2:1 'Say to your brother, 'My People,' And to your sister, 'Pitied.''
 
 HOS.2:2 'Plead with your mother, plead, For she is not My wife, And I am not her Husband. I will remove her fornication out of My presence And her adultery from between her breasts,
 
@@ -248,9 +255,23 @@ HOS.9:13 Ephraim, even as I saw, Presented their children as a prey; Ephraim was
 
 HOS.9:14 Give to them, O Lord! What will You give to them? A childless womb and dry breasts.
 
-HOS.9:15 'All their evils are in Gilgal, For there I hated them. Because of their evil practices, I will cast them out of My house. I will not love them any more.
+HOS.9:15 'All their evils are in Gilgal, For there I hated them. Because of their evil practices, I will cast them out of My house. I will not love them any more. All their leaders are disobedient.
+
+HOS.9:16 Ephraim underwent trouble; He is dried up at his roots; He shall bear fruit no more. Wherefore, even if they should beget children, I would kill the desired fruit of their womb.'
+
+HOS.9:17 God shall reject them Because they have not hearkened to Him. So they shall be wanderers among the nations.
 
 ## Chapter 10
+
+HOS.10:1 Israel is a luxuriant vine; Her fruit is abundant. According to the multitude of her fruits She has multiplied her altars; According to the wealth of his land He has set up pillars.
+
+HOS.10:2 They have divided their hearts; Now shall they be utterly destroyed. He shall raze their altars to the ground; Their pillars shall experience distress.
+
+HOS.10:3 For now they will say, 'We have no king, Since we did not fear the Lord. As for a king, what would he do for us?'
+
+HOS.10:4 As he speaks words With false motives, He would make a covenant. Thus judgment will spring up As a weed on the soil of the field.
+
+HOS.10:5 The inhabitants of Samaria Shall dwell near the calf of Beth Aven, For its people mourned for it. To the degree that they rebelled against it, So they will rejoice at its glory Because it was removed from them.
 
 HOS.10:6 For they bound it up for the Assyrians And carried it away as a gift to King Jareb. Ephraim shall receive it as a gift, And Israel shall be ashamed of his own counsel.
 HOS.10:7 Samaria has cast off her king Like a twig on the surface of the water,

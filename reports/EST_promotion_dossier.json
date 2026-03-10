@@ -1,7 +1,7 @@
 {
   "book_code": "EST",
   "testament": "OT",
-  "timestamp": "2026-03-10T09:54:47.240015",
+  "timestamp": "2026-03-10T17:38:28.401513",
   "registry_version": "1.3.0",
   "body_checksum": "c4ec58789e4efc89caf4172e4b2ff4a3e591cdb706f0ae9b0bab28437f85d088",
   "validation": {
@@ -44,20 +44,6 @@
     "V9": {
       "status": "PASS",
       "messages": []
-    },
-    "V10": {
-      "status": "WARN",
-      "messages": [
-        "V10  Absorbed content: EST.4:6 likely present in EST.4:7 (Brenton word match: 10/18 = 56%)"
-      ]
-    },
-    "V11": {
-      "status": "PASS",
-      "messages": []
-    },
-    "V12": {
-      "status": "PASS",
-      "messages": []
     }
   },
   "residuals_sidecar": {
@@ -69,15 +55,12 @@
     "residuals": [
       {
         "anchor": "EST.4:6",
-        "classification": "docling_issue",
-        "description": "Verse absent from Docling extraction. OSB verse 6 not detected \u2014 Brenton content maps to EST.4:7 (versification offset).",
+        "classification": "osb_source_absent",
+        "description": "OSB text flows from v5 directly to v7 with no verse 6 marker. Versification difference from Brenton/LXX. Content not in source.",
+        "blocking": false,
         "ratified": true
       }
     ]
   },
-  "decision": "blocked",
-  "allow_incomplete": true,
-  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/EST.md",
-  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/EST_editorial_candidates.json",
-  "residuals_path": "/home/ark/orthodoxphronema/staging/validated/OT/EST_residuals.json"
+  "decision": "promoted"
 }

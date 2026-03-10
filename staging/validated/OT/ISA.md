@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-ISA.1:1 he vision of Isaiah the son of Amoz, which he saw against Judah and Jerusalem in the kingdom of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
+ISA.1:1 The vision of Isaiah the son of Amoz, which he saw against Judah and Jerusalem in the kingdom of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 ISA.1:2 Hear, O heavens, and listen, O earth. For the Lord has spoken: 'I have begotten and brought up sons, but they rejected Me.
 ISA.1:3 The ox knows its owner and the donkey its master's crib; but Israel does not know Me, and the people do not understand Me.'
 ISA.1:4 Alas, sinful nation, a people full of sins, an evil seed, lawless children. They forsook the Lord; they provoked to anger the Holy One of Israel.
@@ -73,7 +73,7 @@ ISA.2:20 For in that day, man will cast away his abominations of silver and gold
 ISA.2:21 so as to enter into the holes of solid rocks and clefts of the rugged rocks, from fear of the Lord and the glory of His might when He arises to strike the earth.
 ## Chapter 3
 
-ISA.3:1 or behold, the Lord, the Lord of hosts, takes away from Judah and from Jerusalem the strong man and the strong woman; the strength of bread and the strength of water;
+ISA.3:1 For behold, the Lord, the Lord of hosts, takes away from Judah and from Jerusalem the strong man and the strong woman; the strength of bread and the strength of water;
 ISA.3:2 the mighty man and the man of war; the judge, the prophet, the diviner, and the elder;
 ISA.3:3 the captain of fifty, the wonderful counselor, the skillful artisan, and the prudent disciple.
 ISA.3:4 'I will give children to be their princes, and mockers shall rule over them.
@@ -101,7 +101,7 @@ ISA.3:25 Your most handsome son, whom you love, shall fall by the sword, and you
 ISA.3:26 And your chests of adornments shall lament and mourn, and you shall be left to sit on the ground.
 ## Chapter 4
 
-ISA.4:1 even women shall take hold of one man, saying, 'We will eat our own food and wear our own apparel, only let us be called by your name, to take away our disgrace.'
+ISA.4:1 Seven women shall take hold of one man, saying, 'We will eat our own food and wear our own apparel, only let us be called by your name, to take away our disgrace.'
 ISA.4:2 In that day, the Lord will shine in counsel and glory on the earth, to exalt and glorify those of Israel who remain.
 ISA.4:3 And it shall come to pass that those who remain in Zion and in Jerusalem will be called holy-everyone who is recorded among the living in Jerusalem,
 ISA.4:4 because the Lord shall wash away the filth of the sons and the daughters of Zion, and shall purge the blood of Jerusalem from their midst by the Spirit of judgment and the Spirit of burning.
@@ -141,7 +141,7 @@ ISA.5:29 They rush like lions, and stand like a young lion that seizes his prey 
 ISA.5:30 In that day, they will bellow against them like the sound of the roaring sea. They will look at the land and behold harsh darkness in their despair.
 ## Chapter 6
 
-ISA.6:1 nthe year King Uzziah died, I saw the Lord sitting on a throne, high and lifted up. The house was full of His glory.
+ISA.6:1 In the year King Uzziah died, I saw the Lord sitting on a throne, high and lifted up. The house was full of His glory.
 ISA.6:2 Around Him stood seraphim; each one had six wings: with two he covered his face, with two he covered his feet, and with two he flew.
 ISA.6:3 And one cried to another and said, 'Holy, holy, holy is the Lord of hosts; the whole earth is full of His glory.'
 ISA.6:4 The lintel was lifted up by the voice of those who cried out, and the house was filled with smoke.
@@ -156,7 +156,7 @@ ISA.6:12 After this God will remove the people far away, and those left in the l
 ISA.6:13 Yet a tenth shall be left in it, and again it shall be for plundering, like aterebinth tree or like an acorn when it falls from its case.'
 ## Chapter 7
 
-ISA.7:1 nd it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, there came up Rezin king of Syria and Pekah the son of Remaliah, king of Israel, against Jerusalem to war against it; but they could not conquer it.
+ISA.7:1 And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, there came up Rezin king of Syria and Pekah the son of Remaliah, king of Israel, against Jerusalem to war against it; but they could not conquer it.
 ISA.7:2 Then it was reported to the house of David, saying, 'Syria's forces made an agreement with Ephraim.' So his soul and the soul of his people was confounded, as a tree of the woods is shaken by the wind.
 ISA.7:3 Then the Lord said to Isaiah, 'Go out now to meet Ahaz, you and Shear-Jashub your son, at the end of the aqueduct from the upper pool, on the highway to the Fuller's Field,
 ISA.7:4 and say to him, 'Guard yourself and be silent; do not fear, neither let your soul be disheartened because of these two stubs of smoking firebrands, for when My fierce anger is over, again I shall heal.
@@ -183,7 +183,7 @@ ISA.7:24 Men will enter there with bows and arrows, for all the land will be bar
 ISA.7:25 Every mountain shall certainly be plowed, and there shall be no fear there from barren land and thorn-plants, for it will be a pasture for sheep and a place for oxen to roam.
 ## Chapter 8
 
-ISA.8:1 oreover the Lord said to me, 'Take for yourself a large new book, and write on it with a man's pen concerning making a swift plunder of spoils, for it is near at hand.
+ISA.8:1 Moreover the Lord said to me, 'Take for yourself a large new book, and write on it with a man's pen concerning making a swift plunder of spoils, for it is near at hand.
 ISA.8:2 Then make witnesses for Me of faithful men: Uriah and Zechariah, the son of Berechiah.'
 ISA.8:3 Then I went to the prophetess, and she conceived and bore a son, and the Lord said to me, 'Call his name Quickly Despoil, Swiftly Plunder;
 ISA.8:4 for before the child shall know how to call for his father and mother, one shall take the power of Damascus and the spoils of Samaria in the presence of the king of Assyria.'
@@ -208,7 +208,7 @@ ISA.8:22 and on the earth below, and behold, tribulation, distress, and darkness
 ISA.8:23 And the one who is in despair shall be perplexed, but only for a time.
 ## Chapter 9
 
-ISA.9:1 othis first and do it quickly: O country of Zebulun, land of Naphtali, by the way of the sea, and the rest dwelling along the seacoast and parts of Judea, and the land beyond the Jordan, Galilee of the Gentiles, a people who walk in darkness, behold a great light; and you who dwell in the country of the shadow of death, upon you alight will shine.
+ISA.9:1 Do this first and do it quickly: O country of Zebulun, land of Naphtali, by the way of the sea, and the rest dwelling along the seacoast and parts of Judea, and the land beyond the Jordan, Galilee of the Gentiles, a people who walk in darkness, behold a great light; and you who dwell in the country of the shadow of death, upon you alight will shine.
 ISA.9:2 The multitude of the people, whom You brought down in Your joy, they shall also rejoice in Your presence, as those who rejoice in harvest, as men rejoice when they divide the spoils.
 ISA.9:3 For the yoke lying upon them and the rod upon their neck is taken away, for the Lord broke the rod of the exactors as in the day of Midian.
 ISA.9:4 For every robe and garment gathered by deceit, they shall repay with money, and they shall be willing to do this, even though they were burned with fire.
@@ -266,7 +266,7 @@ ISA.10:33 For behold, the Master, the Lord of hosts, will trouble the glorious o
 ISA.10:34 and the high and mighty shall fall by the sword, and Lebanon, with its high and mighty ones.
 ## Chapter 11
 
-ISA.11:1 here shall come forth a rod from the root of Jesse, and a flower shall grow out of his root.
+ISA.11:1 There shall come forth a rod from the root of Jesse, and a flower shall grow out of his root.
 ISA.11:2 The Spirit of God shall rest upon Him, the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and godliness.
 ISA.11:3 The Spirit of the fear of God shall fill Him. He shall not judge by reputation nor convict by common talk.
 ISA.11:4 But He will judge the cause of the humble, and reprove the humble of the earth. He shall strike the earth with the word of His mouth, and with the breath of His lips He shall slay the ungodly.
@@ -284,7 +284,7 @@ ISA.11:15 The Lord shall make desolate the Sea of Egypt, and He will lay His han
 ISA.11:16 'There shall be a highway for the remnant of My people in Egypt, and it will be for Israel as in the day he came out of the land of Egypt.'
 ## Chapter 12
 
-ISA.12:1 nd in that day, you will say, 'I will bless You, O Lord. Although You were angry with me, You turned away Your anger and had mercy on me.
+ISA.12:1 And in that day, you will say, 'I will bless You, O Lord. Although You were angry with me, You turned away Your anger and had mercy on me.
 ISA.12:2 Behold, God is my Savior and Lord. I will trust in Him and be saved by Him. I will not be afraid, for the Lord is my glory and my praise. He has become my salvation.'
 ISA.12:3 You will draw water with gladness from the wells of salvation.
 ISA.12:4 In that day, you will say, 'Praise the Lord; call upon His name. Declare His glorious things among the Gentiles and make mention that His name is exalted.
@@ -316,7 +316,7 @@ ISA.13:21 But wild animals of the desert will rest there, and their houses will 
 ISA.13:22 Donkey-centaurs will dwell there, and hedgehogs will make dens in their homes. It will come quickly and not delay.'
 ## Chapter 14
 
-ISA.14:1 or the Lord will have mercy on Jacob and will yet choose Israel to take rest in their land. The sojourner will be added to them, and they will be added to the house of Jacob.
+ISA.14:1 For the Lord will have mercy on Jacob and will yet choose Israel to take rest in their land. The sojourner will be added to them, and they will be added to the house of Jacob.
 ISA.14:2 Then the Gentiles will take them and bring them to their place. They will inherit them, and they will multiply in God's land as male and female servants. Those who captured them shall be captives to them, and those who ruled over them shall be ruled by them.
 ISA.14:3 Then it shall come to pass in that day that God will give you rest from your sorrow and anger and your hard slavery in which you served them.
 ISA.14:4 You shall take up this lamentation against the king of Babylon, and will say in that day, 'How the exacter has ceased, and the compeller ceased!
@@ -350,7 +350,7 @@ ISA.14:31 Wail, gates of the cities, cry out, troubled cities, even all the fore
 ISA.14:32 What will the kings of the nations answer? For the Lord founded Zion, and the humble of His people shall be saved.
 ## Chapter 15
 
-ISA.15:1 he word against the land of Moab: In the night the land of Moab shall be destroyed, for the wall of the land of Moab shall be destroyed in the night.
+ISA.15:1 The word against the land of Moab: In the night the land of Moab shall be destroyed, for the wall of the land of Moab shall be destroyed in the night.
 ISA.15:2 Lament for yourselves, for even Dibon, where your altar is, shall be destroyed. Go there to weep over Nebo in the land of Moab. Wail, for baldness shall be on every head, and all arms shall be mutilated.
 ISA.15:3 In her streets, dress yourselves with sackcloth and strike yourselves on her housetops. All of you cry out with bitter wailing in her streets.
 ISA.15:4 Heshbon and Elealeh cry out until their voice is heard as far as Jahaz; therefore, the loins of the land of Moab cry aloud, for its soul shall know this.
@@ -377,7 +377,7 @@ ISA.16:13 This is the word the Lord spoke against Moab when He spoke.
 ISA.16:14 'So now I say to you, within three years, as in the years of a hired man, the glory of Moab, with its great wealth, shall be dishonored, and he will be left few in number and not honored.'
 ## Chapter 17
 
-ISA.17:1 he word against Damascus: 'Behold, Damascus will be taken away from among cities and will fall,
+ISA.17:1 The word against Damascus: 'Behold, Damascus will be taken away from among cities and will fall,
 ISA.17:2 abandoned forever. It shall be a fold and resting-place for sheep. No one will pursue them.
 ISA.17:3 There shall no longer be a strong place for Ephraim to flee to, and there shall no longer be a kingdom in Damascus and a remnant of Syrians; for you are no better than the sons of Israel and their glory,' says the Lord of hosts.
 ISA.17:4 'In that day, there shall be an eclipse of the glory of Jacob, and the riches of his glory shall be shaken.
@@ -393,7 +393,7 @@ ISA.17:13 many nations like much water, as when much water rushes violently; and
 ISA.17:14 Toward evening there will be mourning, and before morning, he will be no more. This is the portion of those who plundered you, and the inheritance of those who robbed you of your inheritance.
 ## Chapter 18
 
-ISA.18:1 oe, O farthest edge of the land of ships, beyond the rivers of Ethiopia!
+ISA.18:1 Woe, O farthest edge of the land of ships, beyond the rivers of Ethiopia!
 ISA.18:2 He sends hostages by sea and paper letters over the water, for swift messengers will go to an exalted nation and a strange and violent people. Who is beyond it, a nation without hope and trampled underfoot? Now all the rivers of the land
 ISA.18:3 shall be inhabited, like an inhabited country. Their country shall be like a sign raised by a mountain and an audible sound like a trumpet.
 ISA.18:4 So the Lord said to me, 'There will be security in My city, as the light of the midday heat, and as a cloud of dew in the day of harvest.'
@@ -402,7 +402,7 @@ ISA.18:6 Then He shall leave them together for the birds of heaven and the wild 
 ISA.18:7 At that time gifts shall be brought to the Lord of hosts by a people afflicted and peeled, and by a people great from now on and forever, a nation hoping and trampled on, which is in apart of a river of his country, to the place, Mount Zion, where the name of the Lord of hosts is called upon.
 ## Chapter 19
 
-ISA.19:1 he vision of Egypt: Behold, the Lord sits on a swift cloud and shall come to Egypt, and the things made by hands in Egypt shall be shaken by His presence, and their heart shall be overcome within them.
+ISA.19:1 The vision of Egypt: Behold, the Lord sits on a swift cloud and shall come to Egypt, and the things made by hands in Egypt shall be shaken by His presence, and their heart shall be overcome within them.
 ISA.19:2 'Egyptians shall be stirred up against Egyptians, and a man shall fight against his brother, and a man against his neighbor, city against city and law against law.
 ISA.19:3 The spirit of the Egyptians will be troubled within them, and I will reject their counsel, and they shall consult their gods and their statues, and those who speak from the earth and are ventriloquists.
 ISA.19:4 And I will deliver Egypt into the hands of harsh lords and kings who will rule over them,' thus says the Lord of hosts.
@@ -429,7 +429,7 @@ ISA.19:24 In that day, Israel will be one of three with the Egyptians and Assyri
 ISA.19:25 which the Lord of hosts blessed, saying, 'Blessed are my people in Egypt, and in Assyria and Israel, My inheritance.'
 ## Chapter 20
 
-ISA.20:1 nthe year Tartan came to Azotus, when he was sent by Sargon the king of the Assyrians, and he fought Ashdod and took it,
+ISA.20:1 In the year Tartan came to Azotus, when he was sent by Sargon the king of the Assyrians, and he fought Ashdod and took it,
 ISA.20:2 then the Lord spoke to Isaiah, saying, 'Go and remove the sackcloth from your loins, and take your sandals off your feet.' Thus he did so, walking naked and barefoot.
 ISA.20:3 Then the Lord said, 'Just as My servant Isaiah walked naked and barefoot three years for a sign and a wonder against the Egyptians and Ethiopians,
 ISA.20:4 so shall the king of the Assyrians lead the captivity of Egypt and the Ethiopians, young men and old, naked and barefoot, exposing the shame of Egypt.
@@ -437,7 +437,7 @@ ISA.20:5 The Egyptians being defeated shall be ashamed before the Ethiopians, in
 ISA.20:6 Those also who dwell in this island shall say, 'Behold, we hoped to flee for help to those who were unable to save themselves from the king of the Assyrians. How then shall we be saved?' '
 ## Chapter 21
 
-ISA.21:1 he vision of the desert: As though a whirlwind should pass through the desert, coming from a desert, from a fearful land,
+ISA.21:1 The vision of the desert: As though a whirlwind should pass through the desert, coming from a desert, from a fearful land,
 ISA.21:2 so a fearful and harsh vision was declared to me. He who is treacherous deals treacherously; the lawless one deals lawlessly. The Elamites and the ambassador of the Persians come against me. Now I will groan and comfort myself.
 ISA.21:3 Therefore my loins are filled with feebleness, and agony seizes me as a woman giving birth. I did wrong, so I cannot hear; I am so troubled, I cannot see.
 ISA.21:4 My heart is led astray, and lawlessness permeates me. My soul is occupied with fear.
@@ -456,7 +456,7 @@ ISA.21:16 For thus the Lord said to me: 'Within a year, according to the year of
 ISA.21:17 The remainder of the archers and the mighty men of the sons of Kedar shall be few, for the Lord God of Israel has spoken.'
 ## Chapter 22
 
-ISA.22:1 he word concerning the valley of Zion: What has happened to you, now that you have all gone up to worthless houses?
+ISA.22:1 The word concerning the valley of Zion: What has happened to you, now that you have all gone up to worthless houses?
 ISA.22:2 The city is full of loud crying. Your slain men are not slain with the sword, nor are your dead those who died in war.
 ISA.22:3 All your rulers have fled, and your captives are tightly bound, and the mighty among you have fled.
 ISA.22:4 Therefore I said, 'Let me alone; I will weep bitterly; do not labor to comfort me at the destruction of the daughter of my race.'
@@ -483,7 +483,7 @@ ISA.22:24 Everyone glorious in his father's house will trust in him, from small 
 ISA.22:25 In that day,' says the Lord of hosts, 'the man established in a trustworthy place will be removed and fall, and the glory that was on him will be taken away; for the Lord has spoken.' '
 ## Chapter 23
 
-ISA.23:1 he vision concerning Tyre: Wail, you ships of Carthage, for Tyre has perished; and they no longer come from the land of the Citaeans, for Tyre is led captive!
+ISA.23:1 The vision concerning Tyre: Wail, you ships of Carthage, for Tyre has perished; and they no longer come from the land of the Citaeans, for Tyre is led captive!
 ISA.23:2 To whom are the dwellers on the island likenedthese merchants of Phoenicia, who cross over the sea
 ISA.23:3 in great waters, the offspring of merchants? These merchants of the nations are like as when the harvest is gathered.
 ISA.23:4 Be ashamed, O Sidon; for the sea has spoken, the strength of the sea has said, 'I do not labor in birth, nor bear children; neither do I rear young men, nor raise virgins.'
@@ -503,7 +503,7 @@ ISA.23:17 And it shall be, at the end of seventy years, that the Lord will visit
 ISA.23:18 Her trade and her wages will be holy to the Lord. Her trade will not be gathered for them, but for those who dwell before the Lord, to eat, drink, and be filled, as a shared meal and a memorial before the Lord.
 ## Chapter 24
 
-ISA.24:1 ehold, the Lord is about to lay waste the inhabited earth, and He will make it desolate, lay bare its surface, and scatter those who dwell therein.
+ISA.24:1 Behold, the Lord is about to lay waste the inhabited earth, and He will make it desolate, lay bare its surface, and scatter those who dwell therein.
 ISA.24:2 And it shall be that the people shall be as the priest, the servant as the lord, the maiden as the mistress, the buyer as the seller, the lender as the borrower, and the debtor as the creditor.
 ISA.24:3 The earth shall be completely laid waste and utterly plundered, for the mouth of the Lord has spoken these things.
 ISA.24:4 The earth mourns and the inhabited earth is ruined; the lofty of the earth mourn.
@@ -542,7 +542,7 @@ ISA.25:11 He will spread forth His hands so as to humble man, to destroy him; an
 ISA.25:12 The height of your refuge He will humble, and bring it down to the ground.
 ## Chapter 26
 
-ISA.26:1 nthat day they shall sing this song in the land of Judah: 'Behold, we have a strong city; He will make our salvation its surrounding wall.
+ISA.26:1 In that day they shall sing this song in the land of Judah: 'Behold, we have a strong city; He will make our salvation its surrounding wall.
 ISA.26:2 Open the gates; let the people enter who keep righteousness and guard the truth,
 ISA.26:3 and who lay hold of the truth and keep peace,
 ISA.26:4 because they hope forever in You, O Lord, the great and eternal God,
@@ -565,7 +565,7 @@ ISA.26:20 Come, my people, enter your closets and shut your door; hide yourself 
 ISA.26:21 For behold, the Lord is bringing wrath from His holy place upon the inhabitants of the earth, and the earth will uncover its blood and will not cover its slain.
 ## Chapter 27
 
-ISA.27:1 nthat day, God will bring His holy, great, and strong sword upon the fleeing dragon serpent, the perverse dragon serpent that flees; and He shall destroy the dragon.
+ISA.27:1 In that day, God will bring His holy, great, and strong sword upon the fleeing dragon serpent, the perverse dragon serpent that flees; and He shall destroy the dragon.
 ISA.27:2 In that day, there shall be a beautiful vineyard, and a desire to begin a hymn against a city:
 ISA.27:3 'I am a strong city, a besieged city; I water it in vain; for it shall be taken at night, and its wall shall fall by day.
 ISA.27:4 There is no woman who has not taken hold of it. Who will appoint me to guard straw in afield? I rejected it because of this enemy. For that very reason therefore, the Lord God did all the things He ordered. I am burned down.'
@@ -580,7 +580,7 @@ ISA.27:12 And it shall come to pass in that day that the Lord will close it from
 ISA.27:13 So it shall be in that day that they shall blow the great trumpet, and the lost ones in the country of the Assyrians and in Egypt will come, and they shall worship the Lord on the holy mountain in Jerusalem.
 ## Chapter 28
 
-ISA.28:1 oe to the crown of arrogance, the hirelings of Ephraim, the flower that fell from the glory on top of the fertile mountain, those who are drunk without wine.
+ISA.28:1 Woe to the crown of arrogance, the hirelings of Ephraim, the flower that fell from the glory on top of the fertile mountain, those who are drunk without wine.
 ISA.28:2 Behold, the anger of the Lord is a strong and harsh thing, like a falling hail where there is no shelter, falling violently like a great force of water, sweeping away the country. He shall bring relief for the earth with His hands.
 ISA.28:3 The crown of arrogance, the hirelings of Ephraim, will be trampled underfoot.
 ISA.28:4 But the flower that fell from the hope of the glory on the top of the high mountain shall be like the forerunner of the fig. He who sees it wishes to swallow it before he gets it in his hand.
@@ -611,7 +611,7 @@ ISA.28:28 will be eaten with bread. For I will not be angry with you forever, no
 ISA.28:29 These signs came forth from the Lord of hosts. Take counsel; exalt vain comfort.
 ## Chapter 29
 
-ISA.29:1 oe to the city of Ariel, against which David waged war! Gather fruits year by year, for you will eat with Moab.
+ISA.29:1 Woe to the city of Ariel, against which David waged war! Gather fruits year by year, for you will eat with Moab.
 ISA.29:2 For I will afflict Ariel, and her strength and wealth will be mine.
 ISA.29:3 I will encircle you as David did, and I will put a barricade around you, and place towers around you.
 ISA.29:4 Your words will be humbled to the earth, and your words will sink into the earth. Your speech shall be like those calling out of the ground, and your voice weakened to the ground.
@@ -672,7 +672,7 @@ ISA.30:32 And it shall happen to him on every side, that those from whom his hop
 ISA.30:33 For you will be required before many days: Was it prepared for you also to reign? No, God prepared for you a deep valley, wood laid down, fire and much wood. The anger of the Lord shall be as a valley burning with brimstone.
 ## Chapter 31
 
-ISA.31:1 oe to those who go down to Egypt for help and rely on horses, who trust in chariots because they are many, and in horsemen because they are very strong, but who do not trust in the Holy One of Israel, nor seek God!
+ISA.31:1 Woe to those who go down to Egypt for help and rely on horses, who trust in chariots because they are many, and in horsemen because they are very strong, but who do not trust in the Holy One of Israel, nor seek God!
 ISA.31:2 So He wisely brings evils upon them, and His word cannot be set aside, for He will rise up against the houses of evil men and against their vain hope.
 ISA.31:3 Now an Egyptian is a man, and not God; and their horses are flesh, and not a help. The Lord shall bring His hand against them, and those who help them shall become weary. All will perish together.
 ISA.31:4 For thus the Lord said to me: 'As a lion roars, and a young lion over his prey, which he took and cries out upon it until the mountains are filled with his sound, and the animals are awestruck and terrified at the fierceness of his anger, so the Lord of hosts will come down to fight for Mount Zion, even upon her mountains.
@@ -683,7 +683,7 @@ ISA.31:8 Then the Assyrian shall fall by a sword not of man, and a sword not of 
 ISA.31:9 For they shall be surrounded by a rock as by a barricade, and he who flees shall be caught.
 ## Chapter 32
 
-ISA.32:1 he Lord says this: 'Blessed is he who has a seed in Zion and kindred in Jerusalem. For behold, a righteous King shall reign, and rulers will govern with judgment.
+ISA.32:1 The Lord says this: 'Blessed is he who has a seed in Zion and kindred in Jerusalem. For behold, a righteous King shall reign, and rulers will govern with judgment.
 ISA.32:2 A Man will hide His words, and be hidden as from flowing water; and He will appear in Zion as a glorious river flowing in a thirsty land.
 ISA.32:3 And they will no longer trust in men, but their ears will incline to listen.
 ISA.32:4 The heart of the sick will pay attention to listen, and the tongues that stammer will learn quickly to speak peace.'
@@ -705,7 +705,7 @@ ISA.32:19 Though hail should come down, it would not fall upon you, and those wh
 ISA.32:20 Blessed are those who sow beside all waters, where the ox and the donkey tread.
 ## Chapter 33
 
-ISA.33:1 oe to those who distress you, though no one is causing you distress, and he who deals treacherously with you, though no one is dealing treacherously with you! Those who deal treacherously will be conquered and handed over, and like a moth in a garment they will be defeated.
+ISA.33:1 Woe to those who distress you, though no one is causing you distress, and he who deals treacherously with you, though no one is dealing treacherously with you! Those who deal treacherously will be conquered and handed over, and like a moth in a garment they will be defeated.
 ISA.33:2 O Lord, have mercy on us; for we trust in You. The seed of the disobedient was made for destruction, but our salvation is in a time of affliction.
 ISA.33:3 The peoples were dismayed through fear of You, because of Your fearsome voice, and the nations were scattered.
 ISA.33:4 So now the spoils of your small and great shall be gathered, as if someone might gather grasshoppers. Thus shall they make fun of you.
@@ -731,7 +731,7 @@ ISA.33:23 Your ropes broke apart, for the boat was not strong. Your mast could n
 ISA.33:24 And the people who dwell among them will not say, 'I am weary,' for their sin shall be forgiven.
 ## Chapter 34
 
-ISA.34:1 ome near, you nations, and listen, you rulers. Let the earth hear and those in it, the inhabited earth and the people therein.
+ISA.34:1 Come near, you nations, and listen, you rulers. Let the earth hear and those in it, the inhabited earth and the people therein.
 ISA.34:2 For the anger of the Lord is against all the nations, and His wrath against all the number of them, to destroy them utterly and to deliver them over for slaughter.
 ISA.34:3 Their slain and their dead shall be thrown out; their stench shall rise from their dead bodies, and the mountains shall be drenched with their blood.
 ISA.34:4 Heaven shall also be rolled up like a scroll, and all the stars shall fall like leaves from a vine, as leaves fall from a fig tree.
@@ -750,7 +750,7 @@ ISA.34:16 They passed by in numbers, and not one of them perished. Not one of th
 ISA.34:17 He shall cast lots for them, and His hand divided it among them to graze upon. They shall inherit it for all time, and shall rest on it from generation to generation.
 ## Chapter 35
 
-ISA.35:1 eglad, you thirsty desert, and rejoice exceedingly, and let the desert blossom as a lily.
+ISA.35:1 Be glad, you thirsty desert, and rejoice exceedingly, and let the desert blossom as a lily.
 ISA.35:2 The desert places of the Jordan shall blossom abundantly and rejoice exceedingly. The glory of Lebanon and the honor of Carmel shall be given to it, and My people shall see the glory of the Lord and the majesty of our God.
 ISA.35:3 Be strong, you relaxed hands and feeble knees.
 ISA.35:4 Be comforted, you fainthearted. Be strong, do not fear. Behold, our God renders judgment and will render it. He will come and save us.
@@ -762,7 +762,7 @@ ISA.35:9 No lion shall be there, nor shall any ravenous animals go up on it, nor
 ISA.35:10 and those gathered by the Lord shall return and come to Zion with gladness, and with everlasting gladness over their head. For praise and exceeding joy will be on their head, and gladness shall possess them. Pain, sorrow, and sighing fled away.
 ## Chapter 36
 
-ISA.36:1 ow it came to pass in the fourteenth year of King Hezekiah that Sennacherib king of the Assyrians came up against all the fortified cities of Judah and took them.
+ISA.36:1 Now it came to pass in the fourteenth year of King Hezekiah that Sennacherib king of the Assyrians came up against all the fortified cities of Judah and took them.
 ISA.36:2 Then the king of the Assyrians sent Rabshakeh with a great army from Lachish to King Hezekiah at Jerusalem, and he stood by the aqueduct of the upper pool, on the way of the fuller's field.
 ISA.36:3 So Eliakim the son of Hilkiah, the steward, Shebna the scribe, and Joah the son of Asaph, the recorder, came out to him.
 ISA.36:4 Then the Rabshakeh said to them, 'Say now to Hezekiah, 'Thus says the great king, the king of the Assyrians: 'Why are you confident?
@@ -786,7 +786,7 @@ ISA.36:21 But they held their peace and answered him not a word, because of the 
 ISA.36:22 Then Eliakim the son of Hilkiah, the steward, Shebna the scribe of the army, and Joah the son of Asaph, the recorder, came to Hezekiah with their clothes torn and told him the words of the Rabshakeh.
 ## Chapter 37
 
-ISA.37:1 hus it came to pass, when King Hezekiah heard this, he tore his clothes, covered himself with sackcloth, and went into the house of the Lord.
+ISA.37:1 Thus it came to pass, when King Hezekiah heard this, he tore his clothes, covered himself with sackcloth, and went into the house of the Lord.
 ISA.37:2 Then he sent Eliakim the steward, Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet, the son of Amoz.
 ISA.37:3 So they said to him, 'Thus says Hezekiah: 'This day is a day of affliction, disgrace, rebuke, and wrath; for the pangs of childbirth have come, but there is no strength to give birth.
 ISA.37:4 May the Lord your God hear the words of the Rabshakeh, whom the king of the Assyrians sent to denounce the living God, and to insult Him with words which the Lord your God heard. Therefore you shall pray to the Lord your God for the remnant that is left.' '
@@ -826,7 +826,7 @@ ISA.37:37 Then Sennacherib king of the Assyrians departed and returned to Nineve
 ISA.37:38 Now it came to pass, as he was worshiping in the house of Nisroch his god, his sons Adrammelech and Sharezer struck him down with the sword, then escaped into the land of Ararat; and Esarhaddon his son reigned in his place.
 ## Chapter 38
 
-ISA.38:1 nthose days Hezekiah was sick and near death. Isaiah the prophet, the son of Amoz, went to him and said, 'Thus says the Lord: 'Set your house in order, for you shall die and not live.' '
+ISA.38:1 In those days Hezekiah was sick and near death. Isaiah the prophet, the son of Amoz, went to him and said, 'Thus says the Lord: 'Set your house in order, for you shall die and not live.' '
 ISA.38:2 Then Hezekiah turned his face toward the wall, and prayed to the Lord,
 ISA.38:3 and said, 'Remember now, O Lord, I pray, how I have walked before You in truth and with a true heart, and did what is pleasing in Your sight.' So Hezekiah wept loudly.
 ISA.38:4 Then the word of the Lord came to Isaiah, saying,
@@ -850,7 +850,7 @@ ISA.38:21 Now Isaiah said to Hezekiah, 'Take a cake of figs, mash them, and appl
 ISA.38:22 Then Hezekiah said, 'This is the sign that I shall go up to the house of the Lord God.'
 ## Chapter 39
 
-ISA.39:1 tthat time, Merodach the son of Baladan, king of Babylon, sent letters, ambassadors, and gifts to Hezekiah, for he heard he was sick and almost died, but had recovered.
+ISA.39:1 At that time, Merodach the son of Baladan, king of Babylon, sent letters, ambassadors, and gifts to Hezekiah, for he heard he was sick and almost died, but had recovered.
 ISA.39:2 Hezekiah was very glad they came, and he showed them the house of his treasures-the oil of myrrh, the fragrant incense, the ointment, the silver and the gold-and all the treasure houses with their vessels, and everything found among his treasures. There was nothing in his house he did not show them.
 ISA.39:3 Then Isaiah the prophet went to King Hezekiah, and said to him, 'What did these men say, and from where did they come to you?' So Hezekiah said, 'They came to me from afar country, from Babylon.'
 ISA.39:4 Then he said, 'What did they see in your house?' So Hezekiah answered, 'They saw everything in my house; there is nothing in my house they did not see, even among my treasures.'
@@ -951,7 +951,7 @@ ISA.42:24 Who gave Jacob for plunder, and Israel to those who plunder him? Was i
 ISA.42:25 So He brought upon them the fury of His wrath, and war overpowered them. They set them on fire all around, yet none of them knew or took it to heart.
 ## Chapter 43
 
-ISA.43:1 nd now, thus says the Lord God who made you, O Jacob, and who formed you, O Israel: 'Fear not, for I redeemed you. I called you by your name, for you are Mine.
+ISA.43:1 And now, thus says the Lord God who made you, O Jacob, and who formed you, O Israel: 'Fear not, for I redeemed you. I called you by your name, for you are Mine.
 ISA.43:2 If you pass through water, I am with you; and the rivers shall not overflow you. If you pass through fire, you shall not be burned up, nor shall the flame consume you.
 ISA.43:3 For I am the Lord your God, the Holy One of Israel, who saves you. I made Egypt and Ethiopia your ransom and gave Seba on your behalf.
 ISA.43:4 Since you were precious in My sight, you became glorious, and I love you. I will give many men for you and rulers to lead you.
@@ -981,7 +981,7 @@ ISA.43:27 Your fathers first, and their rulers after them, acted lawlessly again
 ISA.43:28 Your rulers defiled My holy things; thus I gave Jacob to destruction and Israel for reproach.'
 ## Chapter 44
 
-ISA.44:1 et hear now, O Jacob My servant, and Israel, whom I chose.
+ISA.44:1 Yet hear now, O Jacob My servant, and Israel, whom I chose.
 ISA.44:2 Thus says the Lord God who made you, and formed you from the womb: 'You will yet be helped; fear not, Jacob My servant, and Israel, My beloved, whom I chose.
 ISA.44:3 For I will give water to the thirsty who walk in awaterless place. I will put My Spirit upon your seed and My blessings upon your children.
 ISA.44:4 They will spring up like grass in the midst of the water and like willows by the flowing water.
@@ -1011,7 +1011,7 @@ ISA.44:27 Who else says to the deep, 'You shall be dried up, and I will dry up y
 ISA.44:28 Who else tells Cyrus to be wise, and do all My will, and says to Jerusalem, 'You will be built, and I shall lay the foundation of My holy house'?'
 ## Chapter 45
 
-ISA.45:1 hus says the Lord God to Cyrus, My anointed, whose right hand I hold that nations might be obedient before him, and I will break the strength of kings: I will open doors before him, and the cities will not be closed.
+ISA.45:1 Thus says the Lord God to Cyrus, My anointed, whose right hand I hold that nations might be obedient before him, and I will break the strength of kings: I will open doors before him, and the cities will not be closed.
 ISA.45:2 'I will go before you and level mountains; I will break in pieces the gates of bronze and shatter the bars of iron.
 ISA.45:3 I will give you the treasures of darkness, and I shall open unseen secret things to you, so you may know I, the Lord God, who call you by your name, am the God of Israel.
 ISA.45:4 For Jacob My servant's sake, and Israel My elect, I will call you by your name; I will accept you, though you have not known Me.
@@ -1038,7 +1038,7 @@ ISA.45:24 saying, 'Righteousness and glory shall come to Him, and all who separa
 ISA.45:25 All the seed of the children of Israel shall be made righteous by the Lord, and glorified in God.'
 ## Chapter 46
 
-ISA.46:1 el bowed down; Dagon is crushed; their carved stones are for the wild animals and cattle. Take them bound as a burden to the weary,
+ISA.46:1 Bel bowed down; Dagon is crushed; their carved stones are for the wild animals and cattle. Take them bound as a burden to the weary,
 ISA.46:2 to the hungry, the exhausted and those who have no strength together, who shall not be able to save themselves from war, but who themselves are led away as captives.
 ISA.46:3 'Listen to Me, O house of Jacob and all the remnant of Israel, both those taken from the womb and those instructed from childhood,
 ISA.46:4 even to your old age: I Am, and even to your gray hairs, I Am. I bear you; I made you and will forgive you. I will take you up and save you.
@@ -1122,7 +1122,7 @@ ISA.49:25 Thus says the Lord: 'If someone should take a mighty man captive, he w
 ISA.49:26 Those who oppressed you will eat their own flesh and drink their own blood as new wine; and all flesh shall perceive that I am the Lord, who delivers you and supports the strength of Jacob.'
 ## Chapter 50
 
-ISA.50:1 hus says the Lord: 'Of what quality is your mother's certificate of divorce, by which I put her away? Or to which debtor have I sold you? Behold, you are sold for your sins, and for your lawlessness I put away your mother.
+ISA.50:1 Thus says the Lord: 'Of what quality is your mother's certificate of divorce, by which I put her away? Or to which debtor have I sold you? Behold, you are sold for your sins, and for your lawlessness I put away your mother.
 ISA.50:2 Why, when I came, was there no man? Why, when I called, was there none to obey? Is My hand unable to deliver? Or have I no strength to deliver? Behold, with My rebuke I dry up the sea, and I turn rivers into deserts; and because there is no water, their fish dry up and die of thirst.
 ISA.50:3 I clothe heaven with darkness and make its covering like sackcloth.'
 ISA.50:4 'The Lord gives Me the tongue of the learned, so as to know when to speak a word at a fitting time; and He causes My ear to listen each morning.
@@ -1160,7 +1160,7 @@ ISA.51:22 Thus says the Lord God who judges His people: 'Behold, I took the cup 
 ISA.51:23 I will put it into the hands of those who wronged and humbled you, those who said to your soul, 'Bow down as we pass by.' So you put your back parallel with the ground to those who passed by.'
 ## Chapter 52
 
-ISA.52:1 wake, awake, O Zion; put on your strength, O Zion, and put on your glory, O Jerusalem, the holy city. The uncircumcised and the unclean shall no longer continue to pass through you.
+ISA.52:1 Awake, awake, O Zion; put on your strength, O Zion, and put on your glory, O Jerusalem, the holy city. The uncircumcised and the unclean shall no longer continue to pass through you.
 ISA.52:2 Shake off the dust and rise up. Sit down, O Jerusalem; put off the band from your neck, O captive daughter of Zion.
 ISA.52:3 For thus says the Lord: 'You were sold for nothing, and you shall be redeemed without money.'
 ISA.52:4 Thus says the Lord: 'My people went down to Egypt in former times to sojourn there, and they were taken to the Assyrians by force.'
@@ -1225,7 +1225,7 @@ ISA.55:12 For you shall go forth with gladness and shall be taught with joy, for
 ISA.55:13 Instead of the broom-tree shall come up the cypress, and instead of the nettle shall come up the myrtle; and the Lord shall be for a name and for an everlasting sign, and He shall not fail.'
 ## Chapter 56
 
-ISA.56:1 he Lord says this: 'Guard judgment and do righteousness, for My salvation draws near, and My mercy shall be revealed.
+ISA.56:1 The Lord says this: 'Guard judgment and do righteousness, for My salvation draws near, and My mercy shall be revealed.
 ISA.56:2 Blessed is the man who does these things, and the man who lays hold on them; and who keeps the Sabbaths, so as not to profane them, and keeps his hand free from wrongdoing.'
 ISA.56:3 Let not the foreigner who is devoted to the Lord say, 'The Lord therefore will separate me from His people,' and let not the eunuch say, 'I am a withered tree.'
 ISA.56:4 The Lord says this to the eunuchs: 'As many as keep My Sabbaths, and choose the things I will, and lay hold of My covenant,
@@ -1238,7 +1238,7 @@ ISA.56:10 See, all are blinded; they do not know how to be discerning; all are d
 ISA.56:11 They are shameless dogs in their soul and do not know satisfaction. They are evil and have no understanding. All follow their own ways, each according to his own will.
 ## Chapter 57
 
-ISA.57:1 ee how the righteous man perishes, and no one takes it to heart. Righteous men are taken away, and no one notices it; and the righteous man is taken away from the presence of wrongdoing.
+ISA.57:1 See how the righteous man perishes, and no one takes it to heart. Righteous men are taken away, and no one notices it; and the righteous man is taken away from the presence of wrongdoing.
 ISA.57:2 His burial shall be in peace, for he was taken from the midst of it.
 ISA.57:3 'But come here, you lawless sons, a seed of adulterers and of a prostitute.
 ISA.57:4 In whom did you delight? And against whom did you open your mouth? Against whom did you loosen your tongue? Are you not the children of destruction, a lawless seed?
@@ -1277,7 +1277,7 @@ ISA.58:13 If you turn away your foot from work because of the Sabbath, so as not
 ISA.58:14 then you shall trust in the Lord; and He will bring you to the good things of the land, and feed you with the inheritance of Jacob your father, for the mouth of the Lord has spoken these things.'
 ## Chapter 59
 
-ISA.59:1 sthe Lord's hand unable to save? Is His ear heavy so as not to hear?
+ISA.59:1 Is the Lord's hand unable to save? Is His ear heavy so as not to hear?
 ISA.59:2 But your sins stand between you and your God, and He turned His face from you because of your sins, so as not to have mercy.
 ISA.59:3 For your hands are defiled with blood, and your fingers with sins; and your lips speak lawlessness, and your tongue plots wrongdoing.
 ISA.59:4 No one speaks righteous things, nor is there true judgment. They trust in worthless things and speak vain things; for they conceive trouble and give birth to lawlessness.
@@ -1337,7 +1337,7 @@ ISA.61:10 and they shall have exceeding gladness in the Lord.'
 ISA.61:11 Let my soul rejoice exceedingly in the Lord, for He clothed me with the garment of salvation and the tunic of gladness. He put a miter around me like a bridegroom and adorned me with ornaments like a bride. As the earth causes its flower to grow, and as a garden its seeds, so shall the Lord cause righteousness to rise up, and exceeding joy before all the Gentiles.
 ## Chapter 62
 
-ISA.62:1 or Zion's sake I will not be silent, and for Jerusalem's sake I will not rest, until My righteousness goes forth as light, and My salvation burns like a lamp.
+ISA.62:1 For Zion's sake I will not be silent, and for Jerusalem's sake I will not rest, until My righteousness goes forth as light, and My salvation burns like a lamp.
 ISA.62:2 The Gentiles will see your righteousness, and kings your glory; and one will call you by your new name, which the Lord shall name.
 ISA.62:3 You shall also be a crown of beauty in the Lord's hand, and the diadem of a kingdom in the hand of your God.
 ISA.62:4 You shall no longer be called Forsaken, and your land shall not be called Desert; for you shall be called My Will, and in your land, the Inhabited Earth.
@@ -1351,7 +1351,7 @@ ISA.62:11 For behold, the Lord caused this to be heard to the ends of the earth:
 ISA.62:12 One shall call them a holy people, the redeemed of the Lord, and you shall be called a City Sought for and Not Forsaken.
 ## Chapter 63
 
-ISA.63:1 ho is this who comes from Edom with red garments from Bozrah, so beautiful in His apparel, with force of strength? 'I speak of righteousness and saving judgment.'
+ISA.63:1 Who is this who comes from Edom with red garments from Bozrah, so beautiful in His apparel, with force of strength? 'I speak of righteousness and saving judgment.'
 ISA.63:2 Why are Your garments red and Your apparel as one who treads in awinepress?
 ISA.63:3 'I am full of the treading of grapes, and there is no man with Me among the nations. I trampled them in My anger, and crushed them like earth, and brought down their blood to the ground.
 ISA.63:4 For the day of recompense has come upon them, and the year of redemption has arrived.
@@ -1373,7 +1373,7 @@ ISA.63:19 For our adversaries trampled down Your sanctuary, and we have become a
 ISA.63:20 If You open heaven, trembling shall take hold of the mountains before You, and they shall melt as wax melts before the fire.
 ## Chapter 64
 
-ISA.64:1 he fire shall burn up the adversaries, and the Lord's name shall be manifest among the adversaries; and the nations shall be troubled by Your presence.
+ISA.64:1 The fire shall burn up the adversaries, and the Lord's name shall be manifest among the adversaries; and the nations shall be troubled by Your presence.
 ISA.64:2 When You do glorious things, trembling shall take hold of the mountains because of You.
 ISA.64:3 From of old we have not heard, nor have our eyes seen any God but You, and Your works which You shall do for those who wait for Your mercy.
 ISA.64:4 For mercy shall meet with those who do righteousness, and they shall remember your ways. Behold, You were angry, for we sinned; therefore, we went astray.
@@ -1413,7 +1413,7 @@ ISA.65:24 It shall be, before they cry out, I will listen to them; while they ar
 ISA.65:25 The wolves and lambs shall feed together, and the lion, like the ox, shall eat chaff; and the serpent, the ground as bread. They shall not injure, neither destroy in My holy mountain,' says the Lord.
 ## Chapter 66
 
-ISA.66:1 hus says the Lord: 'Heaven is My throne, and earth is the footstool of My feet. What kind of house will you build for Me? Or what kind is the place of My rest?
+ISA.66:1 Thus says the Lord: 'Heaven is My throne, and earth is the footstool of My feet. What kind of house will you build for Me? Or what kind is the place of My rest?
 ISA.66:2 For My hand made all these things, and all these things are Mine,' says the Lord; 'and upon whom will I show respect, but to the humble and the peaceful and to him who trembles at My words.
 ISA.66:3 But the lawless man who sacrifices a calf is as he who kills a dog; and he who offers a grain offering, as he who offers the blood of a pig; and he who offers incense for a memorial, as he who is a blasphemer. These chose their ways and their abominations, which their soul willed.
 ISA.66:4 But I will choose their mockeries, and I will repay them; because I called, but they did not obey Me; I spoke, but they did not listen; but they did evil in My sight, and things I did not will, they chose.'

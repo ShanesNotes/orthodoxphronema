@@ -54,7 +54,7 @@ AMO.2:15 The archer will not stand his ground, and the swift foot will not escap
 AMO.2:16 The strong will find no confidence in their strength; the naked will flee away in that day,' says the Lord.
 ## Chapter 3
 
-AMO.3:1 house of Israel, hear this word the Lord has spoken against you, against the whole family which I brought up from the land of Egypt, saying,
+AMO.3:1 O house of Israel, hear this word the Lord has spoken against you, against the whole family which I brought up from the land of Egypt, saying,
 AMO.3:2 'Out of all the families of the earth, I have especially known you. Therefore I shall exact vengeance upon you for all your sins.
 AMO.3:3 If two people walk together, will each one not come to know the other?
 AMO.3:4 Will a lion roar from his lair in the forest if he has no prey? Will a lion'swhelp cry out from his den if he has nothing?
@@ -95,7 +95,7 @@ AMO.4:12 'Therefore, O Israel, thus shall I do to you, and because I will do thu
 AMO.4:13 For behold, I am the One who strengthens the thunder, and creates the wind, and proclaims His Anointed One to mankind, making the daybreak and the darkness, while treading upon the high places of the earth. The Lord God Almighty is His name!'
 ## Chapter 5
 
-AMO.5:1 house of Israel, hear this word of the Lord, a lamentation which I take up against you.
+AMO.5:1 O house of Israel, hear this word of the Lord, a lamentation which I take up against you.
 AMO.5:2 The virgin of Israel has fallen; she will rise no more; she tripped over her land, and there is no one who shall raise her up.
 
 ### A Call to Repentance

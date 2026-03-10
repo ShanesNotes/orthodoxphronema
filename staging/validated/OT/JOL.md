@@ -14,6 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
+JOL.1:1 The word of the Lord came to Joel the son of Pethuel.
 JOL.1:2 Hear this, you elders, and give ear, all of you inhabiting the land. Have such things happened in your days or in the days of your fathers?
 JOL.1:3 Tell your children about this, and your children to their children, and their children to the next generation.
 JOL.1:4 What the caterpillars have left is eaten by the grasshopper, and what the grasshoppers have left is eaten by the locust, and what the locusts have left is infected with red blight.

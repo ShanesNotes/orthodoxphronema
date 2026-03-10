@@ -14,6 +14,14 @@ has_additions: false
 
 ## Chapter 1
 
+NEH.1:1 The words of Nehemiah the son of Hachaliah. It came to pass in the month of Chislev, in the twentieth year, as I was in Shushan the citadel,
+
+NEH.1:2 that Hanani, one of my brothers, came with men from Judah; and I asked them concerning the Jews who had escaped, who had survived the captivity, and concerning Jerusalem.
+
+NEH.1:3 And they said to me, 'The survivors who are left from the captivity in the province live there in great distress and reproach. The wall of Jerusalem is also broken down, and its gates are burned with fire.'
+
+### Nehemiah's Intercessory Prayer
+
 NEH.1:4 So it was, when I heard these words, I sat down and wept, and I mourned for many days; I was fasting and praying before the God of heaven.
 
 ### Confession of the Sins of Israel
@@ -40,59 +48,61 @@ NEH.1:11 Rather, O Lord, let Your ear be attentive to the prayer of Your servant
 
 ## Chapter 2
 
-NEH.2:1 And it came to pass in the month Nisan, in the twentieth year of the reign of King Artaxerxes, when the wine was before me, that I took the wine and gave it to the king. There was no one else present before him. And the king said to me, 'Why is your countenance sad, and why are you not self-controlled? This is nothing but sickness of the heart.' So I was greatly afraid.
+NEH.2:1 And it came to pass in the month Nisan, in the twentieth year of the reign of King Artaxerxes, when the wine was before me, that I took the wine and gave it to the king. There was no one else present before him.
+
+NEH.2:2 And the king said to me, 'Why is your countenance sad, and why are you not self-controlled? This is nothing but sickness of the heart.' So I was greatly afraid.
 
 ### Those Who Returned from Captivity
 
-NEH.2:2 Then I said to the king, 'May the king live forever! Why should my face not be sad, when the city, the home of the tombs of my fathers, lies waste, and its gates destroyed by fire?'
+NEH.2:3 Then I said to the king, 'May the king live forever! Why should my face not be sad, when the city, the home of the tombs of my fathers, lies waste, and its gates destroyed by fire?'
 
-NEH.2:3 Then the king said to me, 'What is it that you request concerning this?' So I prayed to the God of heaven,
+NEH.2:4 Then the king said to me, 'What is it that you request concerning this?' So I prayed to the God of heaven,
 
-NEH.2:4 and I said to the king, 'If it pleases the king, and if your servant has found favor in your sight, send me to Judah, to the city of the tombs of my fathers, that I may rebuild it.'
+NEH.2:5 and I said to the king, 'If it pleases the king, and if your servant has found favor in your sight, send me to Judah, to the city of the tombs of my fathers, that I may rebuild it.'
 
-NEH.2:5 Then the king (his queen sitting beside him) said to me, 'How long will your journey be? And when will you return?' And my request found favor before the king, and he sent me, and I gave him a time.
+NEH.2:6 Then the king (his queen sitting beside him) said to me, 'How long will your journey be? And when will you return?' And my request found favor before the king, and he sent me, and I gave him a time.
 
-NEH.2:6 Then I said to the king, 'If it pleases the king, let him give me letters for the governors beyond the River, that I may be given safe passage until I come to Judah,
+NEH.2:7 Then I said to the king, 'If it pleases the king, let him give me letters for the governors beyond the River, that I may be given safe passage until I come to Judah,
 
-NEH.2:7 and also a letter to Asaph the keeper of the king's forest, that he may give me timber to make beams for the gates, and for the wall of the city, and for the house that I shall occupy.' And the king granted these to me as the good hand of God was upon me.
+NEH.2:8 and also a letter to Asaph the keeper of the king's forest, that he may give me timber to make beams for the gates, and for the wall of the city, and for the house that I shall occupy.' And the king granted these to me as the good hand of God was upon me.
 
-NEH.2:8 And I came to the governors beyond the River and gave them the king's letters. Now the king had sent captains of the army and horsemen with me.
+NEH.2:9 And I came to the governors beyond the River and gave them the king's letters. Now the king had sent captains of the army and horsemen with me.
 
-NEH.2:9 And for Sanballat the Horonite and Tobiah the Ammonite servant, it was distressing to them that a man had come to seek the well-being of the children of Israel.
+NEH.2:10 And for Sanballat the Horonite and Tobiah the Ammonite servant, it was distressing to them that a man had come to seek the well-being of the children of Israel.
 
-NEH.2:10 So I came to Jerusalem and was there three days.
+NEH.2:11 So I came to Jerusalem and was there three days.
 
 ### Feast of Booths Restored
 
-NEH.2:11 Then I rose up in the night, I and a few men with me; I told no one what my God had put in my heart for me to do for Israel, nor was there any animal with me except the one on which I rode.
+NEH.2:12 Then I rose up in the night, I and a few men with me; I told no one what my God had put in my heart for me to do for Israel, nor was there any animal with me except the one on which I rode.
 
 ### Nehemiah's Unselfishness
 
-NEH.2:12 And I went out by night through the Valley Gate to the mouth of the spring of the fig tree and to the Dung Gate. And I was viewing the wall of Jerusalem which they had broken down and its gates which they had destroyed by fire.
+NEH.2:13 And I went out by night through the Valley Gate to the mouth of the spring of the fig tree and to the Dung Gate. And I was viewing the wall of Jerusalem which they had broken down and its gates which they had destroyed by fire.
 
 ### The Sabbath Is Restored
 
-NEH.2:13 Then I passed on to the Fountain Gate and went to the King's Pool, but there was no room for the animal I was riding to pass.
+NEH.2:14 Then I passed on to the Fountain Gate and went to the King's Pool, but there was no room for the animal I was riding to pass.
 
-NEH.2:14 So I went up to the wall by the brook at night and viewed the wall. Then I was at the Valley Gate, and I returned.
+NEH.2:15 So I went up to the wall by the brook at night and viewed the wall. Then I was at the Valley Gate, and I returned.
 
-NEH.2:15 The sentries did not know why I had gone or what I was doing. And I did not tell the Jews, the priests, the nobles, the officials, or the others doing the work until my return.
+NEH.2:16 The sentries did not know why I had gone or what I was doing. And I did not tell the Jews, the priests, the nobles, the officials, or the others doing the work until my return.
 
 ### Internal Strife
 
-NEH.2:16 Then I said to them, 'You see the distress we are in, how Jerusalem is laid waste and its gates are destroyed with fire. Come and let us rebuild the wall of Jerusalem, and we will no longer be a reproach.'
+NEH.2:17 Then I said to them, 'You see the distress we are in, how Jerusalem is laid waste and its gates are destroyed with fire. Come and let us rebuild the wall of Jerusalem, and we will no longer be a reproach.'
 
 ### The Worshipers Confess Their Sins
 
-NEH.2:17 And I told them of the hand of God which is good upon me, and also of the king's words that he had spoken to me. So I said, 'Let us rise up and let us build!' And their hands were strengthened for good work.
+NEH.2:18 And I told them of the hand of God which is good upon me, and also of the king's words that he had spoken to me. So I said, 'Let us rise up and let us build!' And their hands were strengthened for good work.
 
 ### The Opposition Intensifies
 
-NEH.2:18 But when Sanballat the Horonite, Tobiah the Ammonite servant, and Geshem the Arab heard of it, they laughed us to scorn and came to us and said, 'What is this thing that you are doing? Are you rebelling against the king regarding this?'
+NEH.2:19 But when Sanballat the Horonite, Tobiah the Ammonite servant, and Geshem the Arab heard of it, they laughed us to scorn and came to us and said, 'What is this thing that you are doing? Are you rebelling against the king regarding this?'
 
 ### The Builders of the Wall
 
-NEH.2:19 So I answered and said to them, 'The God of heaven will Himself prosper us; and we His servants are innocent and we will build, but you have no part or right or memorial in Jerusalem.'
+NEH.2:20 So I answered and said to them, 'The God of heaven will Himself prosper us; and we His servants are innocent and we will build, but you have no part or right or memorial in Jerusalem.'
 
 ## Chapter 3
 

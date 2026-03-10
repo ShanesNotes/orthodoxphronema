@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-WIS.1:1 [PLACEHOLDER — verse not extracted; Brenton: Love righteousness, ye that be judges of the earth: think of the Lord with a good (heart,) and in simplicity of heart se]
+WIS.1:1 Love righteousness, you who judge on the earth. Think about the Lord in goodness And seek Him with sincerity of heart;
 WIS.1:2 Because He is found by those who do not tempt Him, And He is manifest to those who do not disbelieve Him.
 WIS.1:3 For dishonest reasoning separates people from God, And when His power examines someone, It convicts the undiscerning;
 WIS.1:4 For wisdom will not enter the soul that plots evil, Nor will it dwell in a body involved in sin.
@@ -33,7 +33,7 @@ WIS.1:16 But the ungodly summoned death by their words and works; Although they 
 
 ## Chapter 2
 
-WIS.2:1 [PLACEHOLDER — verse not extracted; Brenton: For the ungodly said, reasoning with themselves, but not aright, Our life is short and tedious, and in the death of a ma]
+WIS.2:1 For they said among themselves, as they reasoned incorrectly: “Our life is short and painful, And there is no cure for the death of a m an; For no one has been known to return from Hades;
 WIS.2:2 For they said among themselves, as they reasoned incorrectly: 'Our life is short and painful, And there is no cure for the death of a man; For no one has been known to return from Hades; Because we were born by chance, And after this we shall be as though we never existed; For the breath in our nostrils is smoke, And our speech is the spark kindled by the beating of our heart.
 WIS.2:3 When the spark is extinguished, our body will turn to ashes, And our breath will disperse like empty air.
 WIS.2:4 Then our name will be forgotten in due time, And no one will remember our works; So our life will pass a way like the trace of a cloud And be scattered like fog, Driven a way by the rays of the sun And oppressed by its heat.
@@ -72,30 +72,30 @@ WIS.3:9 Those who trust in Him will understand truth, And the faithful shall con
 WIS.3:10 But the ungodly shall experience The punishment they themselves plotted, They who rejected the righteous man And rebelled against the Lord.
 WIS.3:11 For whoever despises wisdom and instruction is miserable, And their hope is vain, their labors are useless, And their works are worthless.
 WIS.3:12 Their wives are foolish,
-WIS.3:13 [PLACEHOLDER — verse not extracted; Brenton: Their offspring is cursed. Wherefore blessed is the barren that is undefiled, which hath not known the sinful bed: she s]
-WIS.3:14 [PLACEHOLDER — verse not extracted; Brenton: And blessed is the eunuch, which with his hands hath wrought no iniquity, nor imagined wicked things against God: for un]
-WIS.3:15 [PLACEHOLDER — verse not extracted; Brenton: For glorious is the fruit of good labours: and the root of wisdom shall never fall a way.]
-WIS.3:16 [PLACEHOLDER — verse not extracted; Brenton: As for the children of adulterers, they shall not come to their perfection, and the seed of an unrighteous bed shall be ]
-WIS.3:17 [PLACEHOLDER — verse not extracted; Brenton: For though they live long, yet shall they be nothing regarded: and their last age shall be without honour.]
-WIS.3:18 [PLACEHOLDER — verse not extracted; Brenton: Or, if they die quickly, they have no hope, neither comfort in the day of trial.]
-WIS.3:19 [PLACEHOLDER — verse not extracted; Brenton: For horrible is the end of the unrighteous generation.]
+WIS.3:13 Blessed is the undefiled barren wom an Who has not known sexual prom iscuity; She shall hav e fruit in the v isitation of souls.
+WIS.3:14 Blessed also is the eunuch who has done no lawless deed, Nor thought ev il things against the Lord; For a chosen grace of faith will be giv en to him, And a delightful portion in the tem ple of the Lord.
+WIS.3:15 For the fruit of good labors is of good report, And the root of discernm ent is infallible. Children of the Ungodly
+WIS.3:16 But the children of adulterers shall not reach m aturity, And the seed of a lawless bed shall perish.
+WIS.3:17 For ev en if they liv e a long tim e They shall be considered as nothing, And in the end their old age will be accounted a dishonor.
+WIS.3:18 But if they should die y oung, they would hav e no hope Nor consolation in the day of decision.
+WIS.3:19 For the end of an unrighteous generation is griev ous. When Virtue Is Present
 
 ## Chapter 4
 
 WIS.4:1 And their children are evil, their existence accursed. The Blessing of Virtue
 WIS.4:2 Blessed is the undefiled barren woman Who has not known sexual promiscuity; She shall have fruit in the visitation of souls.
-WIS.4:3 [PLACEHOLDER — verse not extracted; Brenton: But the multiplying brood of the ungodly shall not thrive, nor take deep rooting from bastard slips, nor lay any fast fo]
-WIS.4:4 [PLACEHOLDER — verse not extracted; Brenton: For though they flourish in branches for a time; yet standing not fast, they shall be shaken with the wind, and through ]
-WIS.4:5 [PLACEHOLDER — verse not extracted; Brenton: The imperfect branches shall be broken off, their fruit unprofitable, not ripe to eat, yea, meet for nothing.]
+WIS.4:3 But the prolific m ultitude of the ungodly are useful to no one, And none of their illegitim ate seedlings will grow a deep root Or establish a sure footing.
+WIS.4:4 For although they m ay flourish in their branches for a tim e, Yet without a sure footing they will be shaken by the wind And uprooted by the force of the winds.
+WIS.4:5 Their twigs shall be broken off before they reach m aturity, And their fruit will be useless, Not ripe for eating or good for any thing.
 WIS.4:6 But the children of adulterers shall not reach maturity, And the seed of a lawless bed shall perish.
-WIS.4:7 [PLACEHOLDER — verse not extracted; Brenton: But though the righteous be prevented with death, yet shall he be in rest.]
+WIS.4:7 But though a righteous m an m ay die before his tim e, He shall be at rest.
 WIS.4:8 For even if they live a long time They shall be considered as nothing, And in the end their old age will be accounted a dishonor.
-WIS.4:9 [PLACEHOLDER — verse not extracted; Brenton: But wisdom is the grey hair unto men, and an unspotted life is old age.]
-WIS.4:10 [PLACEHOLDER — verse not extracted; Brenton: He pleased God, and was beloved of him: so that living among sinners he was translated.]
+WIS.4:9 But discernm ent is gray hair for m ankind, And a spotless life is the m aturity of old age. The Righteous Enoch
+WIS.4:10 There was once a m an pleasing to God and lov ed by Him, And while liv ing am ong sinners he was taken up.
 WIS.4:11 But if they should die young, they would have no hope Nor consolation in the day of decision.
 WIS.4:12 [PLACEHOLDER — verse not extracted; Brenton: For the bewitching of naughtiness doth obscure things that are honest; and the wandering of concupiscence doth undermine]
 WIS.4:13 But though a righteous man may die before his time, He shall be at rest.
-WIS.4:14 [PLACEHOLDER — verse not extracted; Brenton: for his soul pleased the Lord: therefore hasted he to take him a way from among the wicked.]
+WIS.4:14 For his soul was pleasing to the Lord; Therefore, He took him early from the m idst of ev il. Yet peoples saw this but did not understand, Nor take such a thing to heart,
 WIS.4:15 [PLACEHOLDER — verse not extracted; Brenton: This the people saw, and understood not, neither laid they up this in their minds, That his grace and mercy is with his ]
 WIS.4:16 For old age is not honored for its length of existence, Nor measured by its number of years;
 WIS.4:17 For they will see the end of the wise man, But will not understand what the Lord purposed for him Or why He kept him safe.
@@ -122,17 +122,17 @@ WIS.5:14 Because the hope of the ungodly man Is like dust carried by the wind An
 WIS.5:15 But the righteous live forever, And their reward is with the Lord;
 WIS.5:16 That the Lord's grace and mercy are with His elect And that He watches over His holy ones.
 WIS.5:17 [PLACEHOLDER — verse not extracted; Brenton: He shall take to him his jealousy for complete armour, and make the creature his weapon for the revenge of his enemies.]
-WIS.5:18 [PLACEHOLDER — verse not extracted; Brenton: He shall put on righteousness as a breastplate, and true judgment instead of an helmet.]
-WIS.5:19 [PLACEHOLDER — verse not extracted; Brenton: He shall take holiness for an invincible shield.]
-WIS.5:20 [PLACEHOLDER — verse not extracted; Brenton: His severe wrath shall he sharpen for a sword, and the world shall fight with him against the unwise.]
-WIS.5:21 [PLACEHOLDER — verse not extracted; Brenton: Then shall the right aiming thunderbolts go abroad; and from the clouds, as from a well drawn bow, shall they fly to the]
-WIS.5:22 [PLACEHOLDER — verse not extracted; Brenton: And hailstones full of wrath shall be cast as out of a stone bow, and the water of the sea shall rage against them, and ]
+WIS.5:18 He will wear righteousness as a breastplate And put on im partial judgm ent as a helm et.
+WIS.5:19 He will take holiness as an unconquerable shield
+WIS.5:20 And sharpen His relentless wrath for a sword; And creation will fight with Him against the senseless.
+WIS.5:21 Well-aim ed flashes of lightning will strike And leap to their object as from a well-drawn bow of clouds;
+WIS.5:22 And hailstones full of anger will be hurled As from an engine of war. The water of the sea will be v exed with them, And the riv ers will wash ov er them sev erely.
 WIS.5:23 And their care is by the Most High. 16 Therefore they shall receive a kingly dwelling of dignity And a crown of beauty from the hand of the Lord, Because He will shelter them with His right hand And protect them with His arm. 17 He will take His zeal as His full armor And will turn His creation into weapons against His enemies. 18 He will wear righteousness as a breastplate And put on impartial judgment as a helmet. 19 He will take holiness as an unconquerable shield 20 And sharpen His relentless wrath for a sword; And creation will fight with Him against the senseless. 21 Well-aimed flashes of lightning will strike And leap to their object as from a well-drawn bow of clouds; 22 And hailstones full of anger will be hurled As from an engine of war. The water of the sea will be vexed with them, And the rivers will wash over them severely. 23 A powerful wind will oppose them, And like a storm it will winnow them a way. Lawlessness will lay waste all the earth, And wrongdoing will overturn the thrones of rulers.
 
 ## Chapter 6
 
 WIS.6:1 Learn, O judges of the ends of the earth. Give ear, you that rule over multitudes, And take pride in yourself over a multitude of nations.
-WIS.6:2 [PLACEHOLDER — verse not extracted; Brenton: Give ear, ye that rule the people, and glory in the multitude of nations.]
+WIS.6:2 Giv e ear, y ou that rule ov er m ultitudes, And take pride in y ourself ov er a m ultitude of nations.
 WIS.6:3 For power was given to you from the Lord, And your lordship from the Most High, Who will make a careful search of your works And examine closely your plans.
 WIS.6:4 Because as servants of His kingdom, You did not judge rightly; Neither did you keep His law, Nor did you walk according to the plan of God;
 WIS.6:5 He shall come upon you terribly and quickly, Because severe judgment falls on those who govern.
@@ -216,7 +216,7 @@ WIS.8:21 Yet I knew otherwise that I would not be self-controlled Unless God gav
 
 ## Chapter 9
 
-WIS.9:1 [PLACEHOLDER — verse not extracted; Brenton: O God of my fathers, and Lord of mercy, who hast made all things with thy word,]
+WIS.9:1 “O God of our fathers and the Lord of mercy, Who m ade all things by Your word
 WIS.9:2 [PLACEHOLDER — verse not extracted; Brenton: and ordained man through thy wisdom, that he should have dominion over the creatures which thou hast made,]
 WIS.9:3 And manage the world in holiness and righteousness, And pass judgment with uprightness of soul:
 WIS.9:4 Give me the wisdom that sits by Your throne, And do not reject me from among Your servants;
@@ -239,114 +239,114 @@ WIS.9:18 And thus the paths of those on earth were made straight, And mankind wa
 
 WIS.10:1 Wisdom took care of the first-formed father of the world When he alone was created; And she delivered him from his transgression
 WIS.10:2 And gave him strength to rule all things.
-WIS.10:3 [PLACEHOLDER — verse not extracted; Brenton: But when the unrighteous went a way from her in his anger, he perished also in the fury wherewith he murdered his brother]
+WIS.10:3 But when an unrighteous m an departed from her in his wrath, He perished in anger for m urdering his brother. Noah
 WIS.10:4 When the earth was flooded because of him, Again wisdom saved it And piloted the righteous man by a cheap piece of wood.
-WIS.10:5 [PLACEHOLDER — verse not extracted; Brenton: Moreover, the nations in their wicked conspiracy being confounded, she found out the righteous, and preserved him blamel]
+WIS.10:5 Also when the nations in ev il concord were confused, Wisdom knew the righteous m an And preserv ed him blam eless before God, And kept him strong in the tim e of his affection for his child. Lot
 WIS.10:6 Wisdom rescued a righteous man When the ungodly were perishing, For he escaped the fire that descended on the five cities,
 WIS.10:7 Concerning which a testimony still remains: A barren land continually blackened with smoke, Trees bearing fruit which does not ripen in season, And a pillar of salt standing as a monument To an unbelieving soul.
 WIS.10:8 For since they passed by wisdom, They not only were injured by not knowing good things,
 WIS.10:9 Wisdom rescued from troubles those who served her.
 WIS.10:10 But when an unrighteous man departed from her in his wrath, He perished in anger for murdering his brother.
-WIS.10:11 [PLACEHOLDER — verse not extracted; Brenton: In the covetousness of such as oppressed him she stood by him, and made him rich.]
-WIS.10:12 [PLACEHOLDER — verse not extracted; Brenton: She defended him from his enemies, and kept him safe from those that lay in wait, and in a sore conflict she gave him th]
+WIS.10:11 When they dishonored him in their cov etousness, She stood by him and m ade him rich.
+WIS.10:12 She protected him from his enem ies, Kept him safe from those who plotted against him, And arbitrated a strong contest for him, So he m ight know that godliness is m ore powerful than any thing. Joseph
 WIS.10:13 When a righteous man was sold, Wisdom did not abandon him, But delivered him from sin.
 WIS.10:14 She went down with him into a pit, And she did not leave him in chains Until she brought him the scepter of a kingdom And authority over those who tyrannized him. She showed those who blamed him to be lying And gave him everlasting glory.
 WIS.10:15 She delivered a holy people and a blameless seed From a nation of oppressors.
 WIS.10:16 She entered the soul of a servant of the Lord And opposed fearful kings with signs and wonders.
 WIS.10:17 She gave to holy men the reward of their labors. She guided them in a marvelous way
-WIS.10:18 [PLACEHOLDER — verse not extracted; Brenton: brought them through the Red sea, and led them through much water:]
-WIS.10:19 [PLACEHOLDER — verse not extracted; Brenton: but she drowned their enemies, and cast them up out of the bottom of the deep.]
-WIS.10:20 [PLACEHOLDER — verse not extracted; Brenton: Therefore the righteous spoiled the ungodly, and praised thy holy name, O Lord, and magnified with one accord thine hand]
-WIS.10:21 [PLACEHOLDER — verse not extracted; Brenton: For wisdom opened the mouth of the dumb, and made the tongues of them that cannot speak eloquent.]
+WIS.10:18 She carried them across the Red Sea And led them through deep water;
+WIS.10:19 But she drowned their enem ies And cast them up from the depth of the aby ss.
+WIS.10:20 Therefore the righteous stripped the ungodly, And they sang, O Lord, to Your holy nam e And praised with one accord Your defending hand;
+WIS.10:21 Because wisdom opened the m outh of the dum b And m ade the tongues of infants speak clearly. Wisdom in the Wilderness
 
 ## Chapter 11
 
 WIS.11:1 She guided a righteous man on straight paths When he fled from his brother's wrath. She showed him the kingdom of God And gave him knowledge of holy things. She prospered him in hardships And increased the fruit of his labors.
-WIS.11:2 [PLACEHOLDER — verse not extracted; Brenton: They went through the wilderness that was not inhabited, and pitched tents in places where there lay no way.]
+WIS.11:2 They trav eled through an uninhabited desert And pitched their tents in im passable places.
 WIS.11:3 When they dishonored him in their covetousness, She stood by him and made him rich.
-WIS.11:4 [PLACEHOLDER — verse not extracted; Brenton: When they were thirsty, they called upon thee, and water was given them out of the flinty rock, and their thirst was que]
-WIS.11:5 [PLACEHOLDER — verse not extracted; Brenton: For by what things their enemies were punished, by the same they in their need were benefited.]
-WIS.11:6 [PLACEHOLDER — verse not extracted; Brenton: For instead of a fountain of a perpetual running river troubled with foul blood,]
-WIS.11:7 [PLACEHOLDER — verse not extracted; Brenton: for a manifest reproof of that commandment, whereby the infants were slain, thou gavest unto them abundance of water by ]
-WIS.11:8 [PLACEHOLDER — verse not extracted; Brenton: declaring by that thirst then how thou hadst punished their adversaries.]
-WIS.11:9 [PLACEHOLDER — verse not extracted; Brenton: For when they were tried, albeit but in mercy chastised, they knew how the ungodly were judged in wrath and tormented, t]
-WIS.11:10 [PLACEHOLDER — verse not extracted; Brenton: For these thou didst admonish and try, as a father: but the others, as a severe king, thou didst condemn and punish.]
-WIS.11:11 [PLACEHOLDER — verse not extracted; Brenton: Whether they were absent or present, they were vexed alike.]
-WIS.11:12 [PLACEHOLDER — verse not extracted; Brenton: For a double grief came upon them, and a groaning for the remembrance of things past.]
-WIS.11:13 [PLACEHOLDER — verse not extracted; Brenton: For when they heard by their own punishments the other to be benefited, they had some feeling of the Lord.]
-WIS.11:14 [PLACEHOLDER — verse not extracted; Brenton: For whom they rejected with scorn, when he was long before thrown out at the casting forth of the infants, him in the en]
+WIS.11:4 They thirsted and called upon You, And water was giv en them from a flinty rock, And a quenching of thirst from a hard stone;
+WIS.11:5 For through the things by which their enem ies were punished, They them selv es when in need Had kindness shown to them.
+WIS.11:6 In place of a spring of an ev er-flowing riv er, Troubled and defiled with blood,
+WIS.11:7 In rebuke of the decree to slay the infants— You gav e them abundant water unexpectedly,
+WIS.11:8 Showing through their thirst at that tim e How You punished their enem ies.
+WIS.11:9 For when they were tested, Though they were disciplined in m ercy, They learned how the ungodly were torm ented When judged in wrath.
+WIS.11:10 For You tested them, adm onishing them like a father, But You exam ined the ungodly Like a sev ere king passing sentence.
+WIS.11:11 Whether present or absent, They were likewise consum ed,
+WIS.11:12 For twofold grief possessed them And a groaning ov er the m em ory of all that happened.
+WIS.11:13 For when they heard that through their own punishm ents The holy people had kindness shown to them, They understood it was the Lord's doing.
+WIS.11:14 For they m arv eled at the outcom e of the m an They had cast out m ockingly and exposed long before, For they did not thirst for godliness as do the righteous.
 WIS.11:15 [PLACEHOLDER — verse not extracted; Brenton: But for the foolish devices of their wickedness, wherewith being deceived they worshipped serpents void of reason, and v]
 WIS.11:16 She protected him from his enemies, Kept him safe from those who plotted against him, And arbitrated a strong contest for him, So he might know that godliness is more powerful than anything.
 WIS.11:17 And became for them a shelter by day And a flame of stars by night.
-WIS.11:18 [PLACEHOLDER — verse not extracted; Brenton: or unknown wild beasts, full of rage, newly created, breathing out either a fiery vapour, or filthy scents of scattered ]
-WIS.11:19 [PLACEHOLDER — verse not extracted; Brenton: whereof not only the harm might dispatch them at once, but also the terrible sight utterly destroy them.]
-WIS.11:20 [PLACEHOLDER — verse not extracted; Brenton: Yea, and without these might they have fallen down with one blast, being persecuted of vengeance, and scattered abroad t]
-WIS.11:21 [PLACEHOLDER — verse not extracted; Brenton: For thou canst shew thy great strength at all times when thou wilt; and who may withstand the power of thine arm?]
-WIS.11:22 [PLACEHOLDER — verse not extracted; Brenton: For the whole world before thee is as a little grain of the balance, yea, as a drop of the morning dew that falleth down]
-WIS.11:23 [PLACEHOLDER — verse not extracted; Brenton: But thou hast mercy upon all; for thou canst do all things, and winkest at the sins of men, because they should amend.]
-WIS.11:24 [PLACEHOLDER — verse not extracted; Brenton: For thou lovest all the things that are, and abhorrest nothing which thou hast made: for never wouldest thou have made a]
-WIS.11:25 [PLACEHOLDER — verse not extracted; Brenton: And how could anything have endured, if it had not been thy will? or been preserved, if not called by thee?]
-WIS.11:26 [PLACEHOLDER — verse not extracted; Brenton: But thou sparest all: for they are thine, O Lord, thou lover of souls.]
+WIS.11:18 Or newly created unknown beasts full of anger, Either snorting a breath of fire Or scattering like chaff a thick cloud of sm oke, Or flashing terrible sparks from their ey es.
+WIS.11:19 Not only could their dam age utterly destroy m en, But their m ere outward appearance could terrify and kill them.
+WIS.11:20 Ev en without these, m en could fall in a single breath When they are pursued by justice And scattered like chaff by the breath of Your power; But You hav e ordered all things by m easure, num ber, and weight. The God Who Loves Mankind
+WIS.11:21 For great power is alway s present with You, And who can oppose the m ight of Your arm?
+WIS.11:22 Because the entire world before You Is like a sm all additional weight on scales, And like a drop of dew early in the m orning That falls on the ground.
+WIS.11:23 But You are m erciful to all, for You can do all things; And You ov erlook the sins of m en to bring them to repentance.
+WIS.11:24 For You lov e all the things that exist, And You detest nothing of the things You m ade; For You would not ev en m ake any thing You hated.
+WIS.11:25 How could any thing continue to exist unless You willed it? Or how could any thing be preserv ed Unless it was called into existence by You?
+WIS.11:26 That Your children whom You lov ed, O Lord, m ight learn That it is not the production of crops that feeds m an, But Your word that m aintains those who believ e in You.
 
 ## Chapter 12
 
-WIS.12:1 [PLACEHOLDER — verse not extracted; Brenton: For thine incorruptible Spirit is in all things.]
-WIS.12:2 [PLACEHOLDER — verse not extracted; Brenton: Therefore chastenest thou them by little and little that offend, and warnest them by putting them in remembrance wherein]
-WIS.12:3 [PLACEHOLDER — verse not extracted; Brenton: For it was thy will to destroy by the hands of our fathers both those old inhabitants of thy holy land,]
+WIS.12:1 For Your im m ortal Spirit is in all things.
+WIS.12:2 For this reason You correct little by little those who fall away, And You rem ind and warn them of the sins they com m it So they m ay be freed from ev il and believ e in You, O Lord. The Canaanites’ Vice
+WIS.12:3 For You hated the inhabitants of Your holy land long ago,
 WIS.12:4 [PLACEHOLDER — verse not extracted; Brenton: whom thou hatedst for doing most odious works of witchcrafts, and wicked sacrifices;]
-WIS.12:5 [PLACEHOLDER — verse not extracted; Brenton: and also those merciless murderers of children, and devourers of man's flesh, and the feasts of blood,]
-WIS.12:6 [PLACEHOLDER — verse not extracted; Brenton: with their priests out of the midst of their idolatrous crew, and the parents, that killed with their own hands souls de]
-WIS.12:7 [PLACEHOLDER — verse not extracted; Brenton: that the land, which thou esteemedst above all other, might receive a worthy colony of God's children.]
-WIS.12:8 [PLACEHOLDER — verse not extracted; Brenton: Nevertheless even those thou sparedst as men, and didst send wasps, forerunners of thine host, to destroy them by little]
+WIS.12:5 These unm erciful m urderers of children Who ate sacrificial m eals of hum an flesh and blood, These initiates in the m idst of an orgy,
+WIS.12:6 These parents and m urderers of helpless children— You willed to destroy by the hands of our fathers,
+WIS.12:7 That the land m ost precious of all to You Might be a worthy colony of the serv ants of God.
+WIS.12:8 But ev en these You spared, since they were m en, And sent wasps as forerunners of Your arm y That You m ight destroy them little by little.
 WIS.12:9 Therefore the righteous stripped the ungodly, And they sang, O Lord, to Your holy name And praised with one accord Your defending hand;
 WIS.12:10 In place of a spring of an ever-flowing river, Troubled and defiled with blood,
-WIS.12:11 [PLACEHOLDER — verse not extracted; Brenton: For it was a cursed seed from the beginning; neither didst thou for fear of any man give them pardon for those things wh]
-WIS.12:12 [PLACEHOLDER — verse not extracted; Brenton: For who shall say, What hast thou done? or who shall withstand thy judgment? or who shall accuse thee for the nations th]
-WIS.12:13 [PLACEHOLDER — verse not extracted; Brenton: For neither is there any God but thou that careth for all, to whom thou mightest shew that thy judgment is not unright.]
+WIS.12:11 For they were an accursed seed from the beginning, Nor did You giv e them am nesty for their sins Because You feared any one. God Our King
+WIS.12:12 For who will say, “What hav e You done?” Or who will oppose Your judgm ent? Who will bring a charge against You For destroy ing the nations You m ade? Or who will stand before You To plead as an adv ocate for unrighteous m en?
+WIS.12:13 For neither is there any god except You, Whose care is for all things, So You m ay show that You do not judge unjustly;
 WIS.12:14 For You tested them, admonishing them like a father, But You examined the ungodly Like a severe king passing sentence.
 WIS.12:15 So they might learn that one is punished By the things by which he sins.
 WIS.12:16 Because wisdom opened the mouth of the dumb And made the tongues of infants speak clearly.
-WIS.12:17 [PLACEHOLDER — verse not extracted; Brenton: For when men will not believe that thou art of a full power, thou shewest thy strength, and among them that know it thou]
+WIS.12:17 For to him who disbeliev es the perfection of Your power, You show forth Your strength And rebuke the insolence am ong those who know it.
 WIS.12:18 12 For great power is always present with You, And who can oppose the might of Your arm?
 WIS.12:19 But You are merciful to all, for You can do all things; And You overlook the sins of men to bring them to repentance.
 WIS.12:20 Showing through their thirst at that time How You punished their enemies.
-WIS.12:21 [PLACEHOLDER — verse not extracted; Brenton: with how great circumspection didst thou judge thine own sons, unto whose fathers thou hast sworn, and made covenants of]
+WIS.12:21 With how m uch strictness did You judge Your children, To whose fathers You gav e oaths and cov enants of good prom ises?
 WIS.12:22 For when they were tested, Though they were disciplined in mercy, They learned how the ungodly were tormented When judged in wrath.
 WIS.12:23 For when they heard that through their own punishments The holy people had kindness shown to them, They understood it was the Lord's doing.
 WIS.12:24 They held their ground in wars And defended themselves against their enemies.
 WIS.12:25 For Your all-powerful hand, Which created the world out of unformed matter, Did not lack the resource to send upon them A multitude of bears or bold lions,
 WIS.12:26 [PLACEHOLDER — verse not extracted; Brenton: But they that would not be reformed by that correction, wherein he dallied with them, shall feel a judgment worthy of Go]
-WIS.12:27 [PLACEHOLDER — verse not extracted; Brenton: For, look, for what things they grudged, when they were punished, that is, for them whom they thought to be gods; now be]
+WIS.12:27 For when they suffered, they were indignant At those they im agined to be gods, Realizing they were being punished because of them. They also cam e to recognize the true God Whom they refused to know long ago; Therefore, the utm ost of condem nation cam e upon them. The Futility of False Gods
 
 ## Chapter 13
 
 WIS.13:1 Ev en without these, men could fall in a single breath When they are pursued by justice And scattered like chaff by the breath of Your power; But You have ordered all things by measure, number, and weight.
 WIS.13:2 Or newly created unknown beasts full of anger, Either snorting a breath of fire Or scattering like chaff a thick cloud of smoke, Or flashing terrible sparks from their eyes.
-WIS.13:3 [PLACEHOLDER — verse not extracted; Brenton: With whose beauty if they being delighted took them to be gods; let them know how much better the Lord of them is: for t]
-WIS.13:4 [PLACEHOLDER — verse not extracted; Brenton: But if they were astonished at their power and virtue, let them understand by them, how much mightier he is that made th]
-WIS.13:5 [PLACEHOLDER — verse not extracted; Brenton: For by the greatness and beauty of the creatures proportionably the maker of them is seen.]
-WIS.13:6 [PLACEHOLDER — verse not extracted; Brenton: But yet for this they are the less to be blamed: for they peradventure err, seeking God, and desirous to find him.]
+WIS.13:3 If while delighting in their beauty m en assum ed them to be gods, Let them know how m uch better than these things is their Lord, For the Creator of beauty created them;
+WIS.13:4 And if they were am azed at their power and working, Let them understand from them How m uch m ore powerful than these is He who m ade them.
+WIS.13:5 For from the greatness and beauty of created things The Creator is seen by analogy.
+WIS.13:6 Nev ertheless there is little reason for com plaint against them, For perhaps they go astray while seeking God and wish to find Him.
 WIS.13:7 Because the entire world before You Is like a small additional weight on scales, And like a drop of dew early in the morning That falls on the ground.
 WIS.13:8 [PLACEHOLDER — verse not extracted; Brenton: Howbeit neither are they to be pardoned.]
 WIS.13:9 How could anything continue to exist unless You willed it? Or how could anything be preserved Unless it was called into existence by You?
 WIS.13:10 For You love all the things that exist, And You detest nothing of the things You made; For You would not even make anything You hated.
-WIS.13:11 [PLACEHOLDER — verse not extracted; Brenton: Now a carpenter that felleth timber, after he hath sawn down a tree meet for the purpose, and taken off all the bark ski]
+WIS.13:11 But also, if som e carpenter saws down an easily m ov ed tree And skillfully scrapes away all its bark, He then builds a useful v essel beautifully m ade by his skill For the serv ice of the liv ing,
 WIS.13:12 [PLACEHOLDER — verse not extracted; Brenton: and after spending the refuse of his work to dress his meat, hath filled himself;]
-WIS.13:13 [PLACEHOLDER — verse not extracted; Brenton: and taking the very refuse among those which served to no use, being a crooked piece of wood, and full of knots, hath ca]
-WIS.13:14 [PLACEHOLDER — verse not extracted; Brenton: or made it like some vile beast, laying it over with vermilion, and with paint colouring it red, and colouring every spo]
-WIS.13:15 [PLACEHOLDER — verse not extracted; Brenton: and when he had made a convenient room for it, set it in a wall, and made it fast with iron:]
+WIS.13:13 But a cast-off piece from am ong them, useful for nothing, That grew up with the tree, crooked and full of knots, He takes and carv es with care in his leisure And form s it with intelligent skill, And m odels it in the likeness of a m an.
+WIS.13:14 Or he likens it to som e worthless anim al And sm ears it with bright red paint, Making its surface red, Cov ering ev ery blem ish in it with paint.
+WIS.13:15 Then he m akes a room fitting for it And puts it on a wall and fastens it with iron nails That it m ay not fall.
 WIS.13:16 That the land most precious of all to You Might be a worthy colony of the servants of God.
 WIS.13:17 These unmerciful murderers of children Who ate sacrificial meals of human flesh and blood, These initiates in the midst of an orgy,
-WIS.13:18 [PLACEHOLDER — verse not extracted; Brenton: For health he calleth upon that which is weak: for life prayeth to that which is dead: for aid humbly beseecheth that wh]
+WIS.13:18 Concerning life he pray s to som ething dead; Concerning aid he supplicates som ething ignorant; And concerning a journey, som ething that cannot take a step;
 WIS.13:19 Nor can any king or tyrant meet You face to face Concerning those You punish.
 
 ## Chapter 14
 
-WIS.14:1 [PLACEHOLDER — verse not extracted; Brenton: Again, one preparing himself to sail, and about to pass through the raging waves, calleth upon a piece of wood more rott]
-WIS.14:2 [PLACEHOLDER — verse not extracted; Brenton: For verily desire of gain devised that, and the workman built it by his skill.]
-WIS.14:3 [PLACEHOLDER — verse not extracted; Brenton: But thy providence, O Father, governeth it: for thou hast made a way in the sea, and a safe path in the waves;]
-WIS.14:4 [PLACEHOLDER — verse not extracted; Brenton: shewing that thou canst save from all danger: yea, though a man went to sea without art.]
-WIS.14:5 [PLACEHOLDER — verse not extracted; Brenton: Nevertheless thou wouldest not that the works of thy wisdom should be idle, and therefore do men commit their lives to a]
+WIS.14:1 Again, someone getting ready for a voyage And about to sail through wild wav es Cries out loud to a piece of wood More fragile than the ship that carries him.
+WIS.14:2 For it was desire for gain that contriv ed that boat, And wisdom was the craftsm an who built it;
+WIS.14:3 But Your prov idence, O Father, gov erns its course, Because You hav e giv en it a path in the sea And a safe track in the wav es,
+WIS.14:4 Showing that You can sav e from ev ery danger, And that ev en without skill one m ay em bark upon the sea.
+WIS.14:5 For You do not will that the works of Your wisdom be useless; Therefore, m en trust their liv es ev en to the sm allest piece of wood, And passing through the wav es on a ship They are brought safely through.
 WIS.14:6 But judging them little by little You gave them a chance for repentance, For You were not unaware that their generation was evil, Their vice implanted, And their reasoning would not change forever.
 WIS.14:7 For Your strength is the origin of righteousness, And it causes You who are the Lord of all to spare all.
 WIS.14:8 But what was made by human hands itself is accursed, And so is he who made itHe because he made it, And the perishable thing because it was called a god.
@@ -376,7 +376,7 @@ WIS.14:31 [PLACEHOLDER — verse not extracted; Brenton: For it is not the power
 
 ## Chapter 15
 
-WIS.15:1 [PLACEHOLDER — verse not extracted; Brenton: But thou, our God, art gracious and true, long-suffering, and in mercy ordering all things.]
+WIS.15:1 But You, our God, are kind, true, patient, And gov ern all things in m ercy.
 WIS.15:2 For it is not the power of making oaths, But the punishment of those who sin That always prosecutes the transgression of the unrighteous.
 WIS.15:3 For to know You is complete righteousness, And to know Your might is the root of immortality.
 WIS.15:4 For neither have the evil practices of human art deceived us, Nor a form stained with diverse colors, The barren labor of painting,
@@ -394,7 +394,7 @@ WIS.15:15 Because they thought that all the idols of the nations were gods, Thou
 WIS.15:16 16 For a man made them, And he whose spirit is borrowed formed them; For no man can form a god like himself.
 WIS.15:17 A man who works a dead thing with lawless hands is mortal, For he is better than his objects of worship, Because he is alive, but they never are.
 WIS.15:18 The enemies of Your people worship the most hateful animals, For they are worse than all others in stupidity.
-WIS.15:19 [PLACEHOLDER — verse not extracted; Brenton: Neither are they beautiful, so much as to be desired in respect of beasts: but they went without the praise of God and h]
+WIS.15:19 Not ev en as anim als are they so beautiful in appearance That one would desire them, But they escaped both the praise of God and His blessing.
 
 ## Chapter 16
 
@@ -439,7 +439,7 @@ WIS.17:6 Now a self-acting fire full of fear alone shone through to them, But th
 WIS.17:7 The delusions of their magic were ineffective, And so was the arrogant certainty of their pretense to haveinsight.
 WIS.17:8 For those who promised to driveaway The fears and troubles of a sick soul Were themselves sick with an absurd timidity.
 WIS.17:9 For even if nothing dreadful frightened them, Yet, scared by the passing of beasts and hissing of serpents, They perished full of fear, Even refusing to look at the air, which could not be av oided.
-WIS.17:10 [PLACEHOLDER — verse not extracted; Brenton: they died for fear, denying that they saw the air, which could of no side be avoided.]
+WIS.17:10 For ev en if nothing dreadful frightened them, Yet, scared by the passing of beasts and hissing of serpents, They perished full of fear, Ev en refusing to look at the air, which could not be av oided.
 WIS.17:11 For evil is a cowardly thing, And condemned by its own witness; And tormented by conscience, It always welcomes things full of trouble.
 WIS.17:12 For fear is nothing but the betray al Of the assistance that comes from reasoning;
 WIS.17:13 And the expectation from within considers itself to be weaker Than ignorance of the cause which supplies the torment.
@@ -500,7 +500,7 @@ WIS.19:15 And not only this, but there shall be a certain visitation Because the
 WIS.19:16 For after receiving them with festivals, They mistreated with terrible sufferings Those who had already shared the same rights.
 WIS.19:17 They were also stricken with blindness Like those at the doors of the righteous man, When, clothed in darkness, each sought the way through his own doors.
 WIS.19:18 For the elements combined among themselves in different ways, Which can be accurately conjectured from the sight of what took place, As on a harp the sounds of the rhy thm differ in expression While always remaining the same in sound.
-WIS.19:19 [PLACEHOLDER — verse not extracted; Brenton: For earthly things were turned into watery, and the things, that before swam in the water, now went upon the ground.]
+WIS.19:19 For land anim als were changed into water creatures, And creatures that swim crossed ov er to the land.
 WIS.19:20 In water, fire prevailed with its own power, And water forgot its quenching properties.
 WIS.19:21 Flames, on the contrary, did not consume The flesh of perishable animals that walked among them, Nor was the species of immortal food capable of being melted Like easily melted ice.
 WIS.19:22 For in everything, O Lord, You have exalted and glorified Your people, And have not neglected to be present with them in every time and place.
