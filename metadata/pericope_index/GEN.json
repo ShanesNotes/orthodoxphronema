@@ -1,0 +1,574 @@
+{
+  "book_code": "GEN",
+  "pericopes": [
+    {
+      "title": "The Garden of Eden",
+      "start_anchor": "GEN.2:7",
+      "end_anchor": "GEN.2:24",
+      "verse_count": 18,
+      "chapter_range": "2"
+    },
+    {
+      "title": "The Fall of Mankind",
+      "start_anchor": "GEN.2:25",
+      "end_anchor": "GEN.3:23",
+      "verse_count": null,
+      "chapter_range": "2-3"
+    },
+    {
+      "title": "Cain Kills Abel",
+      "start_anchor": "GEN.3:24",
+      "end_anchor": "GEN.4:15",
+      "verse_count": null,
+      "chapter_range": "3-4"
+    },
+    {
+      "title": "Cain's Family",
+      "start_anchor": "GEN.4:16",
+      "end_anchor": "GEN.4:25",
+      "verse_count": 10,
+      "chapter_range": "4"
+    },
+    {
+      "title": "The Descendants of Adam",
+      "start_anchor": "GEN.4:26",
+      "end_anchor": "GEN.5:31",
+      "verse_count": null,
+      "chapter_range": "4-5"
+    },
+    {
+      "title": "Man's Wickedness",
+      "start_anchor": "GEN.5:32",
+      "end_anchor": "GEN.6:7",
+      "verse_count": null,
+      "chapter_range": "5-6"
+    },
+    {
+      "title": "Righteous Noah Builds the Ark",
+      "start_anchor": "GEN.6:8",
+      "end_anchor": "GEN.6:21",
+      "verse_count": 14,
+      "chapter_range": "6"
+    },
+    {
+      "title": "The Flood",
+      "start_anchor": "GEN.6:22",
+      "end_anchor": "GEN.9:6",
+      "verse_count": null,
+      "chapter_range": "6-9"
+    },
+    {
+      "title": "God's Covenant with Noah",
+      "start_anchor": "GEN.9:7",
+      "end_anchor": "GEN.9:28",
+      "verse_count": 22,
+      "chapter_range": "9"
+    },
+    {
+      "title": "The Genealogy of Noah",
+      "start_anchor": "GEN.9:29",
+      "end_anchor": "GEN.10:31",
+      "verse_count": null,
+      "chapter_range": "9-10"
+    },
+    {
+      "title": "The Tower of Babel",
+      "start_anchor": "GEN.10:32",
+      "end_anchor": "GEN.11:8",
+      "verse_count": null,
+      "chapter_range": "10-11"
+    },
+    {
+      "title": "The Genealogy of Shem",
+      "start_anchor": "GEN.11:9",
+      "end_anchor": "GEN.11:25",
+      "verse_count": 17,
+      "chapter_range": "11"
+    },
+    {
+      "title": "The Genealogy of Terah",
+      "start_anchor": "GEN.11:26",
+      "end_anchor": "GEN.11:31",
+      "verse_count": 6,
+      "chapter_range": "11"
+    },
+    {
+      "title": "God's Promise to Abram",
+      "start_anchor": "GEN.11:32",
+      "end_anchor": "GEN.12:8",
+      "verse_count": null,
+      "chapter_range": "11-12"
+    },
+    {
+      "title": "Abram in Egypt",
+      "start_anchor": "GEN.12:9",
+      "end_anchor": "GEN.12:19",
+      "verse_count": 11,
+      "chapter_range": "12"
+    },
+    {
+      "title": "Abram and Lot Part Ways",
+      "start_anchor": "GEN.12:20",
+      "end_anchor": "GEN.13:17",
+      "verse_count": null,
+      "chapter_range": "12-13"
+    },
+    {
+      "title": "Lot's Capture and Rescue",
+      "start_anchor": "GEN.13:18",
+      "end_anchor": "GEN.14:15",
+      "verse_count": null,
+      "chapter_range": "13-14"
+    },
+    {
+      "title": "The Blessing of Melchizedek",
+      "start_anchor": "GEN.14:16",
+      "end_anchor": "GEN.14:22",
+      "verse_count": 7,
+      "chapter_range": "14"
+    },
+    {
+      "title": "God's Covenant with Abram",
+      "start_anchor": "GEN.14:23",
+      "end_anchor": "GEN.15:20",
+      "verse_count": null,
+      "chapter_range": "14-15"
+    },
+    {
+      "title": "Hagar and Ishmael",
+      "start_anchor": "GEN.15:21",
+      "end_anchor": "GEN.16:15",
+      "verse_count": null,
+      "chapter_range": "15-16"
+    },
+    {
+      "title": "Circumcision: Sign of the Covenant",
+      "start_anchor": "GEN.16:16",
+      "end_anchor": "GEN.17:26",
+      "verse_count": null,
+      "chapter_range": "16-17"
+    },
+    {
+      "title": "The Hospitality of Abraham",
+      "start_anchor": "GEN.17:27",
+      "end_anchor": "GEN.18:7",
+      "verse_count": null,
+      "chapter_range": "17-18"
+    },
+    {
+      "title": "Promise of a Son",
+      "start_anchor": "GEN.18:8",
+      "end_anchor": "GEN.18:14",
+      "verse_count": 7,
+      "chapter_range": "18"
+    },
+    {
+      "title": "Abraham Intercedes for Sodom",
+      "start_anchor": "GEN.18:15",
+      "end_anchor": "GEN.18:32",
+      "verse_count": 18,
+      "chapter_range": "18"
+    },
+    {
+      "title": "The Wickedness of Sodom",
+      "start_anchor": "GEN.18:33",
+      "end_anchor": "GEN.19:28",
+      "verse_count": null,
+      "chapter_range": "18-19"
+    },
+    {
+      "title": "The Sons of Lot",
+      "start_anchor": "GEN.19:29",
+      "end_anchor": "GEN.19:37",
+      "verse_count": 9,
+      "chapter_range": "19"
+    },
+    {
+      "title": "Abraham and Abimelech",
+      "start_anchor": "GEN.19:38",
+      "end_anchor": "GEN.20:17",
+      "verse_count": null,
+      "chapter_range": "19-20"
+    },
+    {
+      "title": "The Birth of Isaac",
+      "start_anchor": "GEN.20:18",
+      "end_anchor": "GEN.21:6",
+      "verse_count": null,
+      "chapter_range": "20-21"
+    },
+    {
+      "title": "Hagar and Ishmael Sent Away",
+      "start_anchor": "GEN.21:7",
+      "end_anchor": "GEN.21:20",
+      "verse_count": 14,
+      "chapter_range": "21"
+    },
+    {
+      "title": "Abraham's Agreement with Abimelech",
+      "start_anchor": "GEN.21:21",
+      "end_anchor": "GEN.21:33",
+      "verse_count": 13,
+      "chapter_range": "21"
+    },
+    {
+      "title": "Abraham Offers Isaac",
+      "start_anchor": "GEN.21:34",
+      "end_anchor": "GEN.22:18",
+      "verse_count": null,
+      "chapter_range": "21-22"
+    },
+    {
+      "title": "The Children of Nahor",
+      "start_anchor": "GEN.22:19",
+      "end_anchor": "GEN.22:23",
+      "verse_count": 5,
+      "chapter_range": "22"
+    },
+    {
+      "title": "The Death and Burial of Sarah",
+      "start_anchor": "GEN.22:24",
+      "end_anchor": "GEN.23:19",
+      "verse_count": null,
+      "chapter_range": "22-23"
+    },
+    {
+      "title": "Isaac and Rebekah",
+      "start_anchor": "GEN.23:20",
+      "end_anchor": "GEN.24:66",
+      "verse_count": null,
+      "chapter_range": "23-24"
+    },
+    {
+      "title": "Abraham and Keturah",
+      "start_anchor": "GEN.24:67",
+      "end_anchor": "GEN.25:5",
+      "verse_count": null,
+      "chapter_range": "24-25"
+    },
+    {
+      "title": "The Death and Burial of Abraham",
+      "start_anchor": "GEN.25:6",
+      "end_anchor": "GEN.25:10",
+      "verse_count": 5,
+      "chapter_range": "25"
+    },
+    {
+      "title": "The Genealogy of Ishmael and Isaac",
+      "start_anchor": "GEN.25:11",
+      "end_anchor": "GEN.25:25",
+      "verse_count": 15,
+      "chapter_range": "25"
+    },
+    {
+      "title": "Esau Sells His Birthright",
+      "start_anchor": "GEN.25:26",
+      "end_anchor": "GEN.25:32",
+      "verse_count": 7,
+      "chapter_range": "25"
+    },
+    {
+      "title": "Isaac and Abimelech",
+      "start_anchor": "GEN.25:33",
+      "end_anchor": "GEN.26:34",
+      "verse_count": null,
+      "chapter_range": "25-26"
+    },
+    {
+      "title": "Isaac Blesses Jacob",
+      "start_anchor": "GEN.26:35",
+      "end_anchor": "GEN.27:29",
+      "verse_count": null,
+      "chapter_range": "26-27"
+    },
+    {
+      "title": "Esau's Lost Blessing",
+      "start_anchor": "GEN.27:30",
+      "end_anchor": "GEN.27:39",
+      "verse_count": 10,
+      "chapter_range": "27"
+    },
+    {
+      "title": "Jacob Sent to Laban",
+      "start_anchor": "GEN.27:40",
+      "end_anchor": "GEN.27:45",
+      "verse_count": 6,
+      "chapter_range": "27"
+    },
+    {
+      "title": "Isaac Sends Jacob to Mesopotamia",
+      "start_anchor": "GEN.27:46",
+      "end_anchor": "GEN.28:8",
+      "verse_count": null,
+      "chapter_range": "27-28"
+    },
+    {
+      "title": "Jacob's Ladder",
+      "start_anchor": "GEN.28:9",
+      "end_anchor": "GEN.28:21",
+      "verse_count": 13,
+      "chapter_range": "28"
+    },
+    {
+      "title": "Jacob and Rachel",
+      "start_anchor": "GEN.28:22",
+      "end_anchor": "GEN.29:29",
+      "verse_count": null,
+      "chapter_range": "28-29"
+    },
+    {
+      "title": "Jacob's Children",
+      "start_anchor": "GEN.29:30",
+      "end_anchor": "GEN.30:20",
+      "verse_count": null,
+      "chapter_range": "29-30"
+    },
+    {
+      "title": "The Agreement of Jacob and Laban",
+      "start_anchor": "GEN.30:21",
+      "end_anchor": "GEN.30:42",
+      "verse_count": 22,
+      "chapter_range": "30"
+    },
+    {
+      "title": "Jacob Flees from Laban",
+      "start_anchor": "GEN.30:43",
+      "end_anchor": "GEN.31:20",
+      "verse_count": null,
+      "chapter_range": "30-31"
+    },
+    {
+      "title": "Laban Pursues Jacob",
+      "start_anchor": "GEN.31:21",
+      "end_anchor": "GEN.31:41",
+      "verse_count": 21,
+      "chapter_range": "31"
+    },
+    {
+      "title": "Jacob's Pact with Laban",
+      "start_anchor": "GEN.31:42",
+      "end_anchor": "GEN.31:53",
+      "verse_count": 12,
+      "chapter_range": "31"
+    },
+    {
+      "title": "Jacob Prepares to Meet Esau",
+      "start_anchor": "GEN.31:54",
+      "end_anchor": "GEN.32:20",
+      "verse_count": null,
+      "chapter_range": "31-32"
+    },
+    {
+      "title": "Jacob Wrestles with God",
+      "start_anchor": "GEN.32:21",
+      "end_anchor": "GEN.32:31",
+      "verse_count": 11,
+      "chapter_range": "32"
+    },
+    {
+      "title": "Jacob and Esau Meet",
+      "start_anchor": "GEN.32:32",
+      "end_anchor": "GEN.33:19",
+      "verse_count": null,
+      "chapter_range": "32-33"
+    },
+    {
+      "title": "The Violation of Dinah",
+      "start_anchor": "GEN.33:20",
+      "end_anchor": "GEN.34:30",
+      "verse_count": null,
+      "chapter_range": "33-34"
+    },
+    {
+      "title": "Jacob at Bethel",
+      "start_anchor": "GEN.34:31",
+      "end_anchor": "GEN.35:14",
+      "verse_count": null,
+      "chapter_range": "34-35"
+    },
+    {
+      "title": "The Death of Rachel",
+      "start_anchor": "GEN.35:15",
+      "end_anchor": "GEN.35:21",
+      "verse_count": 7,
+      "chapter_range": "35"
+    },
+    {
+      "title": "The Twelve Sons of Jacob",
+      "start_anchor": "GEN.35:22",
+      "end_anchor": "GEN.35:25",
+      "verse_count": 4,
+      "chapter_range": "35"
+    },
+    {
+      "title": "The Death of Isaac",
+      "start_anchor": "GEN.35:26",
+      "end_anchor": "GEN.35:28",
+      "verse_count": 3,
+      "chapter_range": "35"
+    },
+    {
+      "title": "The Genealogy of Esau",
+      "start_anchor": "GEN.35:29",
+      "end_anchor": "GEN.36:42",
+      "verse_count": null,
+      "chapter_range": "35-36"
+    },
+    {
+      "title": "Joseph's Dream",
+      "start_anchor": "GEN.36:43",
+      "end_anchor": "GEN.37:10",
+      "verse_count": null,
+      "chapter_range": "36-37"
+    },
+    {
+      "title": "Joseph Is Sold into Egypt",
+      "start_anchor": "GEN.37:11",
+      "end_anchor": "GEN.37:35",
+      "verse_count": 25,
+      "chapter_range": "37"
+    },
+    {
+      "title": "Judah and Tamar",
+      "start_anchor": "GEN.37:36",
+      "end_anchor": "GEN.38:29",
+      "verse_count": null,
+      "chapter_range": "37-38"
+    },
+    {
+      "title": "Joseph Imprisoned in Egypt",
+      "start_anchor": "GEN.38:30",
+      "end_anchor": "GEN.39:22",
+      "verse_count": null,
+      "chapter_range": "38-39"
+    },
+    {
+      "title": "Joseph Interprets the Dreams of the Prisoners",
+      "start_anchor": "GEN.39:23",
+      "end_anchor": "GEN.40:22",
+      "verse_count": null,
+      "chapter_range": "39-40"
+    },
+    {
+      "title": "Joseph Interprets the Dreams of Pharaoh",
+      "start_anchor": "GEN.40:23",
+      "end_anchor": "GEN.41:35",
+      "verse_count": null,
+      "chapter_range": "40-41"
+    },
+    {
+      "title": "Joseph Made Ruler of Egypt",
+      "start_anchor": "GEN.41:36",
+      "end_anchor": "GEN.41:56",
+      "verse_count": 21,
+      "chapter_range": "41"
+    },
+    {
+      "title": "Joseph's Brothers Come to Egypt",
+      "start_anchor": "GEN.41:57",
+      "end_anchor": "GEN.42:24",
+      "verse_count": null,
+      "chapter_range": "41-42"
+    },
+    {
+      "title": "The Brothers Depart for Canaan",
+      "start_anchor": "GEN.42:25",
+      "end_anchor": "GEN.42:37",
+      "verse_count": 13,
+      "chapter_range": "42"
+    },
+    {
+      "title": "Joseph's Brothers Return to Egypt with Benjamin",
+      "start_anchor": "GEN.42:38",
+      "end_anchor": "GEN.43:33",
+      "verse_count": null,
+      "chapter_range": "42-43"
+    },
+    {
+      "title": "Joseph's Stolen Cup",
+      "start_anchor": "GEN.43:34",
+      "end_anchor": "GEN.44:16",
+      "verse_count": null,
+      "chapter_range": "43-44"
+    },
+    {
+      "title": "Judah Speaks Up for Benjamin",
+      "start_anchor": "GEN.44:17",
+      "end_anchor": "GEN.44:33",
+      "verse_count": 17,
+      "chapter_range": "44"
+    },
+    {
+      "title": "Joseph Reveals Himself to His Brothers",
+      "start_anchor": "GEN.44:34",
+      "end_anchor": "GEN.45:27",
+      "verse_count": null,
+      "chapter_range": "44-45"
+    },
+    {
+      "title": "Jacob Journeys to Egypt",
+      "start_anchor": "GEN.45:28",
+      "end_anchor": "GEN.46:26",
+      "verse_count": null,
+      "chapter_range": "45-46"
+    },
+    {
+      "title": "Joseph Meets Jacob in Goshen",
+      "start_anchor": "GEN.46:27",
+      "end_anchor": "GEN.47:11",
+      "verse_count": null,
+      "chapter_range": "46-47"
+    },
+    {
+      "title": "Joseph Confronts the Famine",
+      "start_anchor": "GEN.47:12",
+      "end_anchor": "GEN.47:25",
+      "verse_count": 14,
+      "chapter_range": "47"
+    },
+    {
+      "title": "Joseph's Promise to Jacob",
+      "start_anchor": "GEN.47:26",
+      "end_anchor": "GEN.47:30",
+      "verse_count": 5,
+      "chapter_range": "47"
+    },
+    {
+      "title": "Jacob Blesses His Grandsons",
+      "start_anchor": "GEN.47:31",
+      "end_anchor": "GEN.48:21",
+      "verse_count": null,
+      "chapter_range": "47-48"
+    },
+    {
+      "title": "Jacob's Final Words to His Sons",
+      "start_anchor": "GEN.48:22",
+      "end_anchor": "GEN.49:26",
+      "verse_count": null,
+      "chapter_range": "48-49"
+    },
+    {
+      "title": "The Death and Burial of Jacob",
+      "start_anchor": "GEN.49:27",
+      "end_anchor": "GEN.50:13",
+      "verse_count": null,
+      "chapter_range": "49-50"
+    },
+    {
+      "title": "Joseph Comforts His Brothers",
+      "start_anchor": "GEN.50:14",
+      "end_anchor": "GEN.50:20",
+      "verse_count": 7,
+      "chapter_range": "50"
+    },
+    {
+      "title": "Joseph Dies in Egypt",
+      "start_anchor": "GEN.50:21",
+      "end_anchor": "GEN.50:26",
+      "verse_count": 6,
+      "chapter_range": "50"
+    }
+  ],
+  "generated_from": "canon/OT/GEN.md",
+  "generated_at": "2026-03-09T13:30:18+00:00"
+}
