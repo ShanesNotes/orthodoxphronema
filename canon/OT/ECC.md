@@ -5,9 +5,9 @@ testament: OT
 canon_position: 26
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-10"
-promote_date: null
-checksum: "af29f3f1b08bd597e3f67e85cb2cf2ff4bbf6ad3bc1642a10c39e634901a5570"
-status: staged
+promote_date: "2026-03-10"
+checksum: "63fb35d8e0efee815c5de6dbf6f32d8e7b3056987c29bf488dda9a52721e287a"
+status: promoted
 deuterocanonical: false
 has_additions: false
 ---

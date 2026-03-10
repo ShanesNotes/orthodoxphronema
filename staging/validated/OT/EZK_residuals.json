@@ -1,65 +1,72 @@
-[
-  {
-    "anchor": "EZK.33:32",
-    "classification": "dropcap_ocr",
-    "description": "Verse EZK.33:32 missing - dropcap or extraction gap",
-    "blocking": false,
-    "ratified": false
-  },
-  {
-    "anchor": "EZK.41:5",
-    "classification": "dropcap_ocr",
-    "description": "Verse EZK.41:5 missing - dropcap or extraction gap",
-    "blocking": false,
-    "ratified": false
-  },
-  {
-    "anchor": "EZK.41:6",
-    "classification": "dropcap_ocr",
-    "description": "Verse EZK.41:6 missing - dropcap or extraction gap",
-    "blocking": false,
-    "ratified": false
-  },
-  {
-    "anchor": "EZK.41:7",
-    "classification": "dropcap_ocr",
-    "description": "Verse EZK.41:7 missing - dropcap or extraction gap",
-    "blocking": false,
-    "ratified": false
-  },
-  {
-    "anchor": "EZK.41:8",
-    "classification": "dropcap_ocr",
-    "description": "Verse EZK.41:8 missing - dropcap or extraction gap",
-    "blocking": false,
-    "ratified": false
-  },
-  {
-    "anchor": "EZK.41:9",
-    "classification": "dropcap_ocr",
-    "description": "Verse EZK.41:9 missing - dropcap or extraction gap",
-    "blocking": false,
-    "ratified": false
-  },
-  {
-    "anchor": "EZK.41:10",
-    "classification": "dropcap_ocr",
-    "description": "Verse EZK.41:10 missing - dropcap or extraction gap",
-    "blocking": false,
-    "ratified": false
-  },
-  {
-    "anchor": "EZK.41:11",
-    "classification": "dropcap_ocr",
-    "description": "Verse EZK.41:11 missing - dropcap or extraction gap",
-    "blocking": false,
-    "ratified": false
-  },
-  {
-    "anchor": "EZK.41:12",
-    "classification": "dropcap_ocr",
-    "description": "Verse EZK.41:12 missing - dropcap or extraction gap",
-    "blocking": false,
-    "ratified": false
-  }
-]
+{
+  "book_code": "EZK",
+  "registry_version": "1.3.0",
+  "ratified_by": "ark",
+  "ratified_date": "2026-03-10",
+  "residuals": [
+    {
+      "anchor": "EZK.33:32",
+      "classification": "docling_issue",
+      "description": "Verse EZK.33:32 missing - Docling extraction gap at end of chapter 33",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "EZK.41:5",
+      "classification": "osb_source_absent",
+      "description": "Verse EZK.41:5 absent from OSB PDF (pdftotext verified NOT FOUND pp.3004-3012)",
+      "blocking": false,
+      "ratified": true
+    },
+    {
+      "anchor": "EZK.41:6",
+      "classification": "osb_source_absent",
+      "description": "Verse EZK.41:6 absent from OSB PDF (pdftotext verified NOT FOUND pp.3004-3012)",
+      "blocking": false,
+      "ratified": true
+    },
+    {
+      "anchor": "EZK.41:7",
+      "classification": "osb_source_absent",
+      "description": "Verse EZK.41:7 absent from OSB PDF (pdftotext verified NOT FOUND pp.3004-3012)",
+      "blocking": false,
+      "ratified": true
+    },
+    {
+      "anchor": "EZK.41:8",
+      "classification": "osb_source_absent",
+      "description": "Verse EZK.41:8 absent from OSB PDF (pdftotext verified NOT FOUND pp.3004-3012)",
+      "blocking": false,
+      "ratified": true
+    },
+    {
+      "anchor": "EZK.41:9",
+      "classification": "osb_source_absent",
+      "description": "Verse EZK.41:9 absent from OSB PDF (pdftotext verified NOT FOUND pp.3004-3012)",
+      "blocking": false,
+      "ratified": true
+    },
+    {
+      "anchor": "EZK.41:10",
+      "classification": "osb_source_absent",
+      "description": "Verse EZK.41:10 absent from OSB PDF (pdftotext verified NOT FOUND pp.3004-3012)",
+      "blocking": false,
+      "ratified": true
+    },
+    {
+      "anchor": "EZK.41:11",
+      "classification": "osb_source_absent",
+      "description": "Verse EZK.41:11 absent from OSB PDF (pdftotext verified NOT FOUND pp.3004-3012)",
+      "blocking": false,
+      "ratified": true
+    },
+    {
+      "anchor": "EZK.41:12",
+      "classification": "osb_source_absent",
+      "description": "Verse EZK.41:12 absent from OSB PDF (pdftotext verified NOT FOUND pp.3004-3012)",
+      "blocking": false,
+      "ratified": true
+    }
+  ],
+  "resolved": []
+}

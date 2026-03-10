@@ -8,55 +8,6 @@
       "ratified": false
     },
     {
-      "anchor": "JER.32:19",
-      "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "JER.32:20",
-      "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "JER.32:21",
-      "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "JER.32:22",
-      "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "JER.32:23",
-      "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "JER.32:24",
-      "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "JER.34:14",
-      "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
-      "blocking": false,
-      "ratified": false
-    },
-    {
       "anchor": "JER.34:15",
       "classification": "docling_issue",
       "description": "Verse not captured by Docling extraction",
@@ -78,35 +29,14 @@
       "ratified": false
     },
     {
-      "anchor": "JER.35:17",
-      "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
-      "blocking": false,
-      "ratified": false
-    },
-    {
       "anchor": "JER.38:40",
       "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
+      "description": "Verse boundary absorbed into JER.38:39 — OSB content matches Brenton JER.38:40",
       "blocking": false,
       "ratified": false
     },
     {
       "anchor": "JER.41:22",
-      "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "JER.42:19",
-      "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "JER.48:18",
       "classification": "docling_issue",
       "description": "Verse not captured by Docling extraction",
       "blocking": false,
@@ -129,7 +59,7 @@
     {
       "anchor": "JER.52:28",
       "classification": "docling_issue",
-      "description": "Verse not captured by Docling extraction",
+      "description": "Verse not captured by Docling extraction — last verse of book",
       "blocking": false,
       "ratified": false
     }

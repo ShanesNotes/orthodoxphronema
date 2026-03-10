@@ -9,10 +9,10 @@
     "promoted"
   ],
   "counts_by_status": {
-    "promoted": 28,
-    "editorially_clean": 9,
-    "structurally_passable": 10,
-    "extracting": 29
+    "promoted": 45,
+    "extracting": 28,
+    "editorially_clean": 2,
+    "structurally_passable": 1
   },
   "books": [
     {
@@ -276,13 +276,11 @@
     {
       "book_code": "JDG",
       "testament": "OT",
-      "status": "editorially_clean",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "residual exceptions are not yet human-ratified"
+        "canon artifact exists"
       ],
-      "decision": "blocked",
+      "decision": "promoted",
       "body_checksum": "c66738703d9cf187735f4ccfef753623e653ab5f9348318f8a383ff6f22b746f",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -300,8 +298,8 @@
         "V7": "WARN",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -450,13 +448,11 @@
     {
       "book_code": "1KI",
       "testament": "OT",
-      "status": "structurally_passable",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "validation still reports editorial issues: V12"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "bdfd39bc6d96c63391f6e07e1f4199453fd37fc3766281f3b4bd373cb8074c0f",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -474,8 +470,8 @@
         "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "WARN"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -710,32 +706,30 @@
     {
       "book_code": "NEH",
       "testament": "OT",
-      "status": "editorially_clean",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "live V4 warning still present"
+        "canon artifact exists"
       ],
-      "decision": "blocked",
-      "body_checksum": "bd3f42b362f2416336eaebf9ea2ee7b1355ea9c3872df814b18171ccb64a42d4",
+      "decision": "promoted",
+      "body_checksum": "c77e406786af9f731e13ffadbf2cb8f5dfa8bc4972b983ec03e049f441e8ee20",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "bd3f42b362f2416336eaebf9ea2ee7b1355ea9c3872df814b18171ccb64a42d4"
+        "staged_body_checksum": "c77e406786af9f731e13ffadbf2cb8f5dfa8bc4972b983ec03e049f441e8ee20"
       },
       "validation": {
         "V1": "PASS",
         "V2": "PASS",
         "V3": "PASS",
-        "V4": "WARN",
+        "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "WARN",
+        "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -841,13 +835,11 @@
     {
       "book_code": "EST",
       "testament": "OT",
-      "status": "editorially_clean",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "live V4 warning still present"
+        "canon artifact exists"
       ],
-      "decision": "blocked",
+      "decision": "promoted",
       "body_checksum": "c4ec58789e4efc89caf4172e4b2ff4a3e591cdb706f0ae9b0bab28437f85d088",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -865,8 +857,8 @@
         "V7": "WARN",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -886,25 +878,23 @@
     {
       "book_code": "1MA",
       "testament": "OT",
-      "status": "editorially_clean",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion dossier checksum does not match current staged file"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "fb4b7d5e40069b698911e65b60eed0b78e2a6ce5b4d5c27206a016d54f18481b",
-      "staged_matches_dossier": false,
+      "decision": "promoted",
+      "body_checksum": "5478babaca22ea651d9f85ff4099697712316fa8d8741474651f06cda2b7c7f6",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "5478babaca22ea651d9f85ff4099697712316fa8d8741474651f06cda2b7c7f6"
       },
       "validation": {
         "V1": "PASS",
         "V2": "PASS",
         "V3": "PASS",
-        "V4": "WARN",
+        "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
@@ -974,13 +964,11 @@
     {
       "book_code": "3MA",
       "testament": "OT",
-      "status": "editorially_clean",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "residual exceptions are not yet human-ratified"
+        "canon artifact exists"
       ],
-      "decision": "blocked",
+      "decision": "promoted",
       "body_checksum": "22155a3cbf06bde0eaf8ec6840f3948d73ee7d4c4d0bc2be6b6dbfeb3061df86",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -998,8 +986,8 @@
         "V7": "WARN",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1062,21 +1050,23 @@
     {
       "book_code": "PRO",
       "testament": "OT",
-      "status": "extracting",
+      "status": "editorially_clean",
       "status_reasons": [
-        "hard validation failures: V2"
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "residual exceptions are not yet human-ratified"
       ],
       "decision": "dry-run",
-      "body_checksum": "3aecdfd263aff9d593a0303010fbe46197f2b51ed97e48303810621eecdca504",
+      "body_checksum": "ce4cfb636196992e26984e0f97d10981103b26a57826e115767e9584b3d215c6",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "3aecdfd263aff9d593a0303010fbe46197f2b51ed97e48303810621eecdca504"
+        "staged_body_checksum": "ce4cfb636196992e26984e0f97d10981103b26a57826e115767e9584b3d215c6"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "WARN",
+        "V2": "PASS",
         "V3": "PASS",
         "V4": "PASS",
         "V5": "PASS",
@@ -1105,37 +1095,34 @@
     {
       "book_code": "ECC",
       "testament": "OT",
-      "status": "structurally_passable",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "1 editorial candidate(s) remain: chapter_open_dropcap=1"
+        "canon artifact exists"
       ],
-      "decision": "blocked",
-      "body_checksum": "af29f3f1b08bd597e3f67e85cb2cf2ff4bbf6ad3bc1642a10c39e634901a5570",
+      "decision": "promoted",
+      "body_checksum": "63fb35d8e0efee815c5de6dbf6f32d8e7b3056987c29bf488dda9a52721e287a",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "af29f3f1b08bd597e3f67e85cb2cf2ff4bbf6ad3bc1642a10c39e634901a5570"
+        "staged_body_checksum": "63fb35d8e0efee815c5de6dbf6f32d8e7b3056987c29bf488dda9a52721e287a"
       },
       "validation": {
         "V1": "PASS",
         "V2": "PASS",
         "V3": "PASS",
-        "V4": "WARN",
+        "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "WARN",
+        "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
-        "total_candidates": 1,
-        "by_category": {
-          "chapter_open_dropcap": 1
-        }
+        "total_candidates": 0,
+        "by_category": {}
       },
       "residuals": {
         "count": 0,
@@ -1201,11 +1188,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "324329970072be29b25de2869375d29d30c7256b36339338844b620f89fd2121",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "324329970072be29b25de2869375d29d30c7256b36339338844b620f89fd2121"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "320b71d68d1d58dea06704684b621238d02ba1844560e5abc5ff20bf7dfacf1d"
       },
       "validation": {
         "V1": "PASS",
@@ -1240,19 +1227,17 @@
     {
       "book_code": "WIS",
       "testament": "OT",
-      "status": "editorially_clean",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion dossier checksum does not match current staged file"
+        "canon artifact exists"
       ],
       "decision": "dry-run",
-      "body_checksum": "2544e6570859b03099c20077476f70889f5ba55cf5a5158edd2f2473a58878cd",
-      "staged_matches_dossier": false,
+      "body_checksum": "975c783d4957265160881bb8a27bad69a64f1b4ef17e9b26c6adeff96915306e",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
-        "staged_body_checksum": "01ea2da7d7f9a077e00d020c1e4ea0af4a82c856e2f49ada1280cfa8be083fed"
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "975c783d4957265160881bb8a27bad69a64f1b4ef17e9b26c6adeff96915306e"
       },
       "validation": {
         "V1": "PASS",
@@ -1268,8 +1253,10 @@
         "V12": "MISSING"
       },
       "editorial": {
-        "total_candidates": 0,
-        "by_category": {}
+        "total_candidates": 2,
+        "by_category": {
+          "fused_article_explicit": 2
+        }
       },
       "residuals": {
         "count": 0,
@@ -1289,24 +1276,24 @@
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "live V4 warning still present"
+        "residual exceptions are not yet human-ratified"
       ],
       "decision": "dry-run",
-      "body_checksum": "697771fcc815e7a54d8d1ae05bdae16b85e9ddd63a89c9373315b9cbde9c85f8",
+      "body_checksum": "41e3237d0727b99b01c9287cffae48b75a72d92cfa3c575ea3b7253cf7567637",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "697771fcc815e7a54d8d1ae05bdae16b85e9ddd63a89c9373315b9cbde9c85f8"
+        "staged_body_checksum": "41e3237d0727b99b01c9287cffae48b75a72d92cfa3c575ea3b7253cf7567637"
       },
       "validation": {
         "V1": "PASS",
         "V2": "PASS",
         "V3": "PASS",
-        "V4": "WARN",
+        "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "WARN",
+        "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
         "V11": "MISSING",
@@ -1330,28 +1317,26 @@
     {
       "book_code": "HOS",
       "testament": "OT",
-      "status": "editorially_clean",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "live V4 warning still present"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "c73985b35e1b10b5b45df5b61f71db0e993d5d596e11cfac560dfa57b6956c3a",
+      "decision": "promoted",
+      "body_checksum": "0c3b4b90f44320ce0198c57601b65913ca1b171cebc3fbc794d5c2742f752dbe",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "c73985b35e1b10b5b45df5b61f71db0e993d5d596e11cfac560dfa57b6956c3a"
+        "staged_body_checksum": "0c3b4b90f44320ce0198c57601b65913ca1b171cebc3fbc794d5c2742f752dbe"
       },
       "validation": {
         "V1": "PASS",
         "V2": "PASS",
         "V3": "PASS",
-        "V4": "WARN",
+        "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "WARN",
+        "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
         "V11": "MISSING",
@@ -1375,18 +1360,17 @@
     {
       "book_code": "AMO",
       "testament": "OT",
-      "status": "structurally_passable",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "2 editorial candidate(s) remain: chapter_open_dropcap=2"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "b45ea77b63405376e07db6c4876dd6d0c10e9c233b3433edbd3392a3272b6da1",
+      "decision": "promoted",
+      "body_checksum": "8002ad09cdce2cd2b9fa9f42e3a30896dae08e30bcdc6f76785fe1d2db157584",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "b45ea77b63405376e07db6c4876dd6d0c10e9c233b3433edbd3392a3272b6da1"
+        "staged_body_checksum": "8002ad09cdce2cd2b9fa9f42e3a30896dae08e30bcdc6f76785fe1d2db157584"
       },
       "validation": {
         "V1": "PASS",
@@ -1402,10 +1386,8 @@
         "V12": "MISSING"
       },
       "editorial": {
-        "total_candidates": 2,
-        "by_category": {
-          "chapter_open_dropcap": 2
-        }
+        "total_candidates": 0,
+        "by_category": {}
       },
       "residuals": {
         "count": 0,
@@ -1421,18 +1403,17 @@
     {
       "book_code": "MIC",
       "testament": "OT",
-      "status": "structurally_passable",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "5 editorial candidate(s) remain: chapter_open_dropcap=5"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "3b7dc4a9bc39731b36903f4db004f023429bdcefe9529769f5a570e304a291a3",
+      "decision": "promoted",
+      "body_checksum": "d7fba436cd8a1786358e6c689220a712211443bd1fc0e3186fdcd006463e59c8",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "3b7dc4a9bc39731b36903f4db004f023429bdcefe9529769f5a570e304a291a3"
+        "staged_body_checksum": "d7fba436cd8a1786358e6c689220a712211443bd1fc0e3186fdcd006463e59c8"
       },
       "validation": {
         "V1": "PASS",
@@ -1448,10 +1429,8 @@
         "V12": "MISSING"
       },
       "editorial": {
-        "total_candidates": 5,
-        "by_category": {
-          "chapter_open_dropcap": 5
-        }
+        "total_candidates": 0,
+        "by_category": {}
       },
       "residuals": {
         "count": 0,
@@ -1553,18 +1532,17 @@
     {
       "book_code": "JON",
       "testament": "OT",
-      "status": "structurally_passable",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "3 editorial candidate(s) remain: chapter_open_dropcap=3"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "37154ea04f316a5b34d66381e1d5f1192cae91416215979683d85e9ba60dc95d",
+      "decision": "promoted",
+      "body_checksum": "c1d23483204fb58befe95b80d963975a28c12cb98d238ea3ce10b62f1eab655b",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "37154ea04f316a5b34d66381e1d5f1192cae91416215979683d85e9ba60dc95d"
+        "staged_body_checksum": "c1d23483204fb58befe95b80d963975a28c12cb98d238ea3ce10b62f1eab655b"
       },
       "validation": {
         "V1": "PASS",
@@ -1576,14 +1554,12 @@
         "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
-        "total_candidates": 3,
-        "by_category": {
-          "chapter_open_dropcap": 3
-        }
+        "total_candidates": 0,
+        "by_category": {}
       },
       "residuals": {
         "count": 0,
@@ -1771,18 +1747,17 @@
     {
       "book_code": "ZEC",
       "testament": "OT",
-      "status": "structurally_passable",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "13 editorial candidate(s) remain: chapter_open_dropcap=13"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "747904f7b65265eae1286de8079377714721617e6348a73ac28226fe97f7f4ae",
+      "decision": "promoted",
+      "body_checksum": "30c7d6e861ad8d6fc097785572db7c910ebc9aabf7dda1db0b71eddca8e9ca44",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "747904f7b65265eae1286de8079377714721617e6348a73ac28226fe97f7f4ae"
+        "staged_body_checksum": "30c7d6e861ad8d6fc097785572db7c910ebc9aabf7dda1db0b71eddca8e9ca44"
       },
       "validation": {
         "V1": "PASS",
@@ -1798,10 +1773,8 @@
         "V12": "MISSING"
       },
       "editorial": {
-        "total_candidates": 13,
-        "by_category": {
-          "chapter_open_dropcap": 13
-        }
+        "total_candidates": 0,
+        "by_category": {}
       },
       "residuals": {
         "count": 0,
@@ -1860,18 +1833,17 @@
     {
       "book_code": "ISA",
       "testament": "OT",
-      "status": "structurally_passable",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "45 editorial candidate(s) remain: chapter_open_dropcap=45"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "fa79d1232f4bfd440381895ffc41a5376da162ded3724ce519cfe8a75a2a5208",
+      "decision": "promoted",
+      "body_checksum": "699de052e2511e7d4ca6f0fd128763f861c2d3d2d256687d35e059ac700bbaa8",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "fa79d1232f4bfd440381895ffc41a5376da162ded3724ce519cfe8a75a2a5208"
+        "staged_body_checksum": "699de052e2511e7d4ca6f0fd128763f861c2d3d2d256687d35e059ac700bbaa8"
       },
       "validation": {
         "V1": "PASS",
@@ -1880,24 +1852,22 @@
         "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "WARN",
+        "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
         "V11": "MISSING",
         "V12": "MISSING"
       },
       "editorial": {
-        "total_candidates": 45,
-        "by_category": {
-          "chapter_open_dropcap": 45
-        }
+        "total_candidates": 0,
+        "by_category": {}
       },
       "residuals": {
         "count": 4,
         "blocking_count": 0,
         "ratified_by": null,
         "ratified_date": null,
-        "unratified_count": 4,
+        "unratified_count": 0,
         "per_entry_pending_count": 0,
         "structural_hint_count": 0,
         "schema_mismatch_count": 0
@@ -1906,18 +1876,17 @@
     {
       "book_code": "JER",
       "testament": "OT",
-      "status": "structurally_passable",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "17 editorial candidate(s) remain: chapter_open_dropcap=17"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "dfc563c82bafb9db3767faae62d3ab025c8f07f908cabc9b8ffae7deaf7b3418",
+      "decision": "promoted",
+      "body_checksum": "be72d7811e0967244008a1b13e79075b9b222fb7b3d529945cc22e8c1e604d7d",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "dfc563c82bafb9db3767faae62d3ab025c8f07f908cabc9b8ffae7deaf7b3418"
+        "staged_body_checksum": "be72d7811e0967244008a1b13e79075b9b222fb7b3d529945cc22e8c1e604d7d"
       },
       "validation": {
         "V1": "PASS",
@@ -1926,26 +1895,24 @@
         "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "WARN",
+        "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
         "V11": "MISSING",
         "V12": "MISSING"
       },
       "editorial": {
-        "total_candidates": 17,
-        "by_category": {
-          "chapter_open_dropcap": 17
-        }
+        "total_candidates": 0,
+        "by_category": {}
       },
       "residuals": {
-        "count": 19,
+        "count": 9,
         "blocking_count": 0,
         "ratified_by": null,
         "ratified_date": null,
-        "unratified_count": 19,
+        "unratified_count": 9,
         "per_entry_pending_count": 0,
-        "structural_hint_count": 0,
+        "structural_hint_count": 1,
         "schema_mismatch_count": 0
       }
     },
@@ -1995,43 +1962,41 @@
     {
       "book_code": "LAM",
       "testament": "OT",
-      "status": "editorially_clean",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion dossier checksum does not match current staged file"
+        "canon artifact exists"
       ],
-      "decision": "blocked",
-      "body_checksum": "8da8ccf8de58c3a6e4fcb33359775c4afa9b564e61cfa03ff10fbd3abfd8f711",
-      "staged_matches_dossier": false,
+      "decision": "promoted",
+      "body_checksum": "9094c7f29cbcec052e87e332afd24a84830ae8466eb3aa468d5702eab99f98b4",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
-        "staged_body_checksum": "325acd406fbe278627d41d50711a151f6fdd97cf003226d0247850668628adb3"
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "9094c7f29cbcec052e87e332afd24a84830ae8466eb3aa468d5702eab99f98b4"
       },
       "validation": {
         "V1": "PASS",
         "V2": "PASS",
         "V3": "PASS",
-        "V4": "WARN",
+        "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "WARN",
+        "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
         "by_category": {}
       },
       "residuals": {
-        "count": 6,
+        "count": 0,
         "blocking_count": 0,
         "ratified_by": null,
         "ratified_date": null,
-        "unratified_count": 6,
+        "unratified_count": 0,
         "per_entry_pending_count": 0,
         "structural_hint_count": 0,
         "schema_mismatch_count": 0
@@ -2083,18 +2048,17 @@
     {
       "book_code": "EZK",
       "testament": "OT",
-      "status": "structurally_passable",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "38 editorial candidate(s) remain: chapter_open_dropcap=38"
+        "canon artifact exists"
       ],
-      "decision": "blocked",
-      "body_checksum": "b13ad1a0bf90a7747bf8bd763305ad68139da2b144d6322e9b8dc2ed45566548",
-      "staged_matches_dossier": false,
+      "decision": "dry-run",
+      "body_checksum": "a025eea1fe43a49ca32df80765a0d189b59a692a4aa3f9a27447d815479cdb32",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "medium",
-        "staged_body_checksum": "6e22135d5e811dec0daee3be09efc34b7531faaca9263074ed054cc4e2380a33"
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "a025eea1fe43a49ca32df80765a0d189b59a692a4aa3f9a27447d815479cdb32"
       },
       "validation": {
         "V1": "PASS",
@@ -2106,21 +2070,19 @@
         "V7": "WARN",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "WARN"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
-        "total_candidates": 38,
-        "by_category": {
-          "chapter_open_dropcap": 38
-        }
+        "total_candidates": 0,
+        "by_category": {}
       },
       "residuals": {
         "count": 9,
         "blocking_count": 0,
-        "ratified_by": null,
-        "ratified_date": null,
-        "unratified_count": 9,
+        "ratified_by": "ark",
+        "ratified_date": "2026-03-10",
+        "unratified_count": 1,
         "per_entry_pending_count": 0,
         "structural_hint_count": 0,
         "schema_mismatch_count": 0

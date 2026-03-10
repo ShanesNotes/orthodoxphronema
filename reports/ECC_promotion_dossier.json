@@ -1,9 +1,9 @@
 {
   "book_code": "ECC",
   "testament": "OT",
-  "timestamp": "2026-03-10T10:10:20.395067",
+  "timestamp": "2026-03-10T18:12:35.219628",
   "registry_version": "1.3.0",
-  "body_checksum": "af29f3f1b08bd597e3f67e85cb2cf2ff4bbf6ad3bc1642a10c39e634901a5570",
+  "body_checksum": "63fb35d8e0efee815c5de6dbf6f32d8e7b3056987c29bf488dda9a52721e287a",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -18,16 +18,8 @@
       "messages": []
     },
     "V4": {
-      "status": "WARN",
-      "messages": [
-        "V4   Missing verses in ch.1: jumps from 8 to 10",
-        "V4   Missing verses in ch.1: jumps from 10 to 12",
-        "V4   Missing verses in ch.5: jumps from 9 to 17",
-        "V4   Missing verses in ch.7: jumps from 17 to 19",
-        "V4   Missing verses in ch.8: jumps from 1 to 3",
-        "V4   Missing verses in ch.12: jumps from 0 to 2",
-        "V4   Missing verses in ch.12: jumps from 7 to 9"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V5": {
       "status": "PASS",
@@ -38,10 +30,8 @@
       "messages": []
     },
     "V7": {
-      "status": "WARN",
-      "messages": [
-        "V7   Completeness: 208/222 verses (93.7%); gap of 14"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V8": {
       "status": "PASS",
@@ -50,28 +40,8 @@
     "V9": {
       "status": "PASS",
       "messages": []
-    },
-    "V10": {
-      "status": "WARN",
-      "messages": [
-        "V10  Absorbed content: ECC.1:9 likely present in ECC.1:10 (Brenton word match: 10/21 = 48%)",
-        "V10  Absorbed content: ECC.1:11 likely present in ECC.1:10 (Brenton word match: 9/19 = 47%)",
-        "V10  Absorbed content: ECC.8:2 likely present in ECC.8:1 (Brenton word match: 3/7 = 43%)"
-      ]
-    },
-    "V11": {
-      "status": "PASS",
-      "messages": []
-    },
-    "V12": {
-      "status": "PASS",
-      "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "blocked",
-  "allow_incomplete": true,
-  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/ECC.md",
-  "editorial_candidates_path": null,
-  "residuals_path": null
+  "decision": "promoted"
 }
