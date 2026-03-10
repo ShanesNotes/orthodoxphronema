@@ -1,7 +1,7 @@
 {
   "book_code": "DEU",
   "testament": "OT",
-  "timestamp": "2026-03-10T14:19:45.859391",
+  "timestamp": "2026-03-10T16:57:56.702790",
   "registry_version": "1.3.0",
   "body_checksum": "a23e59abe917e4ac1416776fedb0483a3448947389ce16f8255b82ddd51355bd",
   "validation": {
@@ -62,5 +62,5 @@
       "DEU ch33: OSB has 32 verses vs Brenton 29 \u2014 over-count is genuine LXX versification difference (Brenton 33:23 and 33:29 split into multiple OSB verses)"
     ]
   },
-  "decision": "dry-run"
+  "decision": "promoted"
 }

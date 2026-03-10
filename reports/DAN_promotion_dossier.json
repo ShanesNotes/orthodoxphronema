@@ -1,7 +1,7 @@
 {
   "book_code": "DAN",
   "testament": "OT",
-  "timestamp": "2026-03-10T14:19:45.796214",
+  "timestamp": "2026-03-10T17:03:23.265527",
   "registry_version": "1.3.0",
   "body_checksum": "d9d5b70fdb76c9808d3bfc594a2c5f7ed1c7afbcc05595b0d715615f6395df9b",
   "validation": {
@@ -43,5 +43,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "promoted"
 }

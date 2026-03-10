@@ -1,7 +1,7 @@
 {
   "book_code": "RUT",
   "testament": "OT",
-  "timestamp": "2026-03-10T09:57:18.192037",
+  "timestamp": "2026-03-10T16:57:56.708458",
   "registry_version": "1.3.0",
   "body_checksum": "c434f2fb9b3231a36c723cc96f8d282ba9f9ccf2b1f5bc48aba3862a5819837f",
   "validation": {
@@ -40,24 +40,8 @@
     "V9": {
       "status": "PASS",
       "messages": []
-    },
-    "V10": {
-      "status": "PASS",
-      "messages": []
-    },
-    "V11": {
-      "status": "PASS",
-      "messages": []
-    },
-    "V12": {
-      "status": "PASS",
-      "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run",
-  "allow_incomplete": false,
-  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/RUT.md",
-  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/RUT_editorial_candidates.json",
-  "residuals_path": null
+  "decision": "promoted"
 }

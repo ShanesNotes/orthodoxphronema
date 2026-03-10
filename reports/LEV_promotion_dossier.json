@@ -1,7 +1,7 @@
 {
   "book_code": "LEV",
   "testament": "OT",
-  "timestamp": "2026-03-10T14:19:46.534885",
+  "timestamp": "2026-03-10T16:57:56.697294",
   "registry_version": "1.3.0",
   "body_checksum": "22f0ddd262b2081fd9921210a4e466990866416b506ba8de103baf1e6bb95317",
   "validation": {
@@ -96,5 +96,5 @@
       }
     ]
   },
-  "decision": "dry-run"
+  "decision": "promoted"
 }

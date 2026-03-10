@@ -9,11 +9,11 @@
     "promoted"
   ],
   "counts_by_status": {
-    "promoted": 2,
-    "promotion_ready": 21,
+    "promoted": 21,
     "editorially_clean": 14,
     "structurally_passable": 10,
-    "extracting": 29
+    "extracting": 29,
+    "promotion_ready": 2
   },
   "books": [
     {
@@ -23,7 +23,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "blocked",
+      "decision": "promoted",
       "body_checksum": "93854d9479053d67b26658d26215ecdae9591d9e59c3c40aaf277fb848e22e4e",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -62,13 +62,11 @@
     {
       "book_code": "EXO",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "e3ad73beaa512555a5dc4909c6e373cdb3e06b30ceb5b5be47545ca31e8ff89f",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -111,7 +109,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "22f0ddd262b2081fd9921210a4e466990866416b506ba8de103baf1e6bb95317",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -150,13 +148,11 @@
     {
       "book_code": "NUM",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "8007d940b0c24e32144a3b993e5d16eb9dff9c1f8acc0f5647ef50313cfb6b5b",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -195,13 +191,11 @@
     {
       "book_code": "DEU",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "a23e59abe917e4ac1416776fedb0483a3448947389ce16f8255b82ddd51355bd",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -240,13 +234,11 @@
     {
       "book_code": "JOS",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "2a0bf4dfb58c2651b12e56ff5e15f67bed34552776c1ea07d336649d8a22d0a8",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -330,13 +322,11 @@
     {
       "book_code": "RUT",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "c434f2fb9b3231a36c723cc96f8d282ba9f9ccf2b1f5bc48aba3862a5819837f",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -354,8 +344,8 @@
         "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -510,13 +500,11 @@
     {
       "book_code": "2KI",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "087eeafe1c7b398d869ed4441f2e4adcf691fbfeb9a05c9e7a4bd32c6e665b03",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -534,8 +522,8 @@
         "V7": "WARN",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -555,13 +543,11 @@
     {
       "book_code": "1CH",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "da0bca87fa232cca91aa54c0b50ab47fe80fa98734e62de628697361c30aa4e0",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -600,13 +586,11 @@
     {
       "book_code": "2CH",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "9b2e1344b733a2ecfe6d56832a6d1412a1fed1035940134cab3ac03f4ce0a86e",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -690,13 +674,11 @@
     {
       "book_code": "EZR",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "3235b847dc4dcd7d46e43c6d9f20248e115237858cfce539caaae0649cc65630",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -714,8 +696,8 @@
         "V7": "WARN",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -780,13 +762,11 @@
     {
       "book_code": "TOB",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "bbb7e18a5d3c13acba910be45f96d1889b3f2892971c4588c3e364bf4cb67fd7",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -804,8 +784,8 @@
         "V7": "WARN",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -825,13 +805,11 @@
     {
       "book_code": "JDT",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "5f701366f21d1ff5e56d5092f4d441b09208dbc498dd066aaf66ff288e00d115",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -849,8 +827,8 @@
         "V7": "WARN",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1206,8 +1184,8 @@
         "V7": "WARN",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1545,13 +1523,11 @@
     {
       "book_code": "OBA",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "41d9b894cdaff9f09308bb010ddcb59bc083a324da721a959ea1a1d85060c337",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -1569,8 +1545,8 @@
         "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1636,13 +1612,11 @@
     {
       "book_code": "NAH",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "3204d48bd295d9caa8856327ab54f222d2f6f949711d845a45e0faf3b8a9a529",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -1660,8 +1634,8 @@
         "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1726,13 +1700,11 @@
     {
       "book_code": "ZEP",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "6871c017aab748f5f41faf5f30ab4d88ca7c82146573587d9a1dc874e141f750",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -1750,8 +1722,8 @@
         "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1771,13 +1743,11 @@
     {
       "book_code": "HAG",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "769a8b29deed6ac4b269a227f97f1a65c2c6dc13d699517787d23d4b6b12883e",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -1795,8 +1765,8 @@
         "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1862,13 +1832,11 @@
     {
       "book_code": "MAL",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "93aa32eed243c3489d8fa9b301a07a9d4ea60d7fb2b5915efdc6229d28ff4f44",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -1886,8 +1854,8 @@
         "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1999,13 +1967,11 @@
     {
       "book_code": "BAR",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "63e8d6ade0f413ae32a72c9242ba33e0f55fe3067f847cc4928f9e3c22c95c5c",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2089,13 +2055,11 @@
     {
       "book_code": "LJE",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "d82e92f4d41a014489dedd80a7f4501d64067ce029d15a90bcf13ca1586ba989",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2111,10 +2075,10 @@
         "V5": "PASS",
         "V6": "PASS",
         "V7": "PASS",
-        "V8": "WARN",
+        "V8": "PASS",
         "V9": "PASS",
-        "V11": "PASS",
-        "V12": "PASS"
+        "V11": "MISSING",
+        "V12": "MISSING"
       },
       "editorial": {
         "total_candidates": 0,
@@ -2180,13 +2144,11 @@
     {
       "book_code": "DAN",
       "testament": "OT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "d9d5b70fdb76c9808d3bfc594a2c5f7ed1c7afbcc05595b0d715615f6395df9b",
       "staged_matches_dossier": true,
       "dossier_freshness": {

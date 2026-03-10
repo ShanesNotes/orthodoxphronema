@@ -5,8 +5,8 @@ testament: OT
 canon_position: 1
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-07"
-promote_date: "2026-03-08"
-checksum: "bc29318705ca05212854bd0044e551630045335453db1ce60c096161efb13f4e"
+promote_date: "2026-03-10"
+checksum: "93854d9479053d67b26658d26215ecdae9591d9e59c3c40aaf277fb848e22e4e"
 status: promoted
 deuterocanonical: false
 has_additions: false
@@ -123,7 +123,7 @@ GEN.4:11 So now you are cursed from the earth, which has opened its mouth to rec
 GEN.4:12 When you till the ground, it shall no longer yield its strength to you. You will be groaning and trembling on the earth.'
 GEN.4:13 Then Cain said to the Lord, 'My guilt is too great to be forgiven!
 GEN.4:14 Surely You have driven me out this day from the face of the ground; I shall be hidden from Your face; I shall be groaning and trembling on the earth. Then it will happen if anyone finds me, he will kill me.'
-GEN.4:15 So the Lord God said to him, 'Not so! Whoever kills Cain, vengeance shall be taken on him sevenfold.' Thus the Lord set a sign on Cain, lest anyone finding him should kill him.
+GEN.4:15 So the Lord God said to him, 'Not so! Whoever kills Cain, vengeance shall be taken on him seven-fold.' Thus the Lord set a sign on Cain, lest anyone finding him should kill him.
 
 ### Cain's Family
 
@@ -135,7 +135,7 @@ GEN.4:20 So Adah bore Jabal. He was the father of those who dwell in tents and h
 GEN.4:21 His brother's name was Jubal. He is the one who invented the psaltery and harp.
 GEN.4:22 As for Zillah, she also bore Tubal-Cain, a smith and a manufacturer of bronze and iron. And the sister of Tubal-Cain was Naamah.
 GEN.4:23 Then Lamech said to his wives Adah and 'Hear my voice, you wives of Lamech, And listen carefully to my words, Because I killed a man for wounding me And a young man for hurting me.
-GEN.4:24 If Cain shall be avenged sevenfold, Then Lamech seventy-sevenfold.'
+GEN.4:24 If Cain shall be avenged seven-fold, Then Lamech seventy-seven-fold.'
 GEN.4:25 Again Adam knew his wife Eve, and she conceived and bore a son, and he named him Seth, saying, 'God has appointed another seed for me instead of Abel, whom Cain killed.'
 
 ### The Descendants of Adam
@@ -257,7 +257,7 @@ GEN.8:18 So Noah went out, along with his wife and his sons and their wives.
 GEN.8:19 Every animal, every bird, and every creeping thing that moves upon the earth, according to their kind, went out of the ark.
 GEN.8:20 Then Noah built an altar to God, and took of every clean animal and of every clean bird, and offered whole burnt offerings on the altar.
 GEN.8:21 So the Lord God smelled a sweet aroma. Then the Lord God thought it over and said, 'I will never again curse the earth because of man's works, although the mind of man is diligently involved with evil things from his youth; nor will I again destroy every living thing as I have done.
-GEN.8:22 While the earth remains, seedtime and harvest, cold and heat, summer and spring shall not cease by day or by night.'
+GEN.8:22 While the earth remains, seed-time and harvest, cold and heat, summer and spring shall not cease by day or by night.'
 ## Chapter 9
 
 GEN.9:1 Thus God blessed Noah and his sons, and said to them, 'Increase and multiply, and fill the earth, and have dominion over it.
@@ -670,7 +670,7 @@ GEN.21:12 But God said to Abraham, 'Do not let it be displeasing in your sight b
 GEN.21:13 Yet I will also make a great nation of the son of your maidservant, because he is your seed.'
 GEN.21:14 So Abraham rose early in the morning, and took bread and a skin of water; and putting it on her shoulder, he gave it and the boy to Hagar, and sent her away. Then she departed and wandered in the wilderness, near the Well of Oath.
 GEN.21:15 When the water in the skin was used up, she placed the boy under one of the shrubs.
-GEN.21:16 Then she went and sat down across from him at a distance of about a bowshot; for she said to herself, 'Let me not see the death of the boy.' So she sat opposite him, and lifted her voice and wept.
+GEN.21:16 Then she went and sat down across from him at a distance of about a bow-shot; for she said to herself, 'Let me not see the death of the boy.' So she sat opposite him, and lifted her voice and wept.
 GEN.21:17 But God heard the voice of the lad from the place where he was. Then the Angel of God called to Hagar out of heaven, and said to her, 'What is the matter, Hagar? Do not fear, for God has heard the voice of the lad where he is.
 GEN.21:18 Arise, lift up the lad and hold him with your hand, for I will make him a great nation.'
 GEN.21:19 Then God opened her eyes, and she saw a well of water. So she went and filled the skin with water, and gave the lad a drink.
@@ -848,7 +848,7 @@ GEN.25:13 These were the names of Ishmael's sons, by their names, according to t
 GEN.25:14 Mishma, Dumah, Massa,
 GEN.25:15 Hadar, Tema, Jetur, Naphish, and Kede-mah.
 GEN.25:16 These were the sons of Ishmael, and these were their names, by their towns and settlements, twelve princes according to their nations.
-GEN.25:17 These were the years of Ishmael's life: one hundred and thirtyseven years; and he breathed his last and died, and was added to his people.
+GEN.25:17 These were the years of Ishmael's life: one hundred and thirt-yseven years; and he breathed his last and died, and was added to his people.
 GEN.25:18 (He dwelt opposite Egypt, from Havilah as far as Shur, as you go toward Assyria, and dwelt separate from all his brothers.)
 GEN.25:19 Now this is the genealogy of Isaac, Abraham's son. Abraham begot Isaac.
 GEN.25:20 Isaac was forty years old when he took Rebekah as his wife, the daughter of Bethuel the Syrian of Mesopotamia, and the sister of Laban the Syrian.
@@ -1100,7 +1100,7 @@ GEN.31:6 Now you know that with all my might I served your father.
 GEN.31:7 Yet your father deceived me and changed my wages ten times with respect to the male lambs, but God did not allow him to harm me.
 GEN.31:8 If he said thus, 'The speckled shall be your wages,' then all the flocks bore speckled. But if he said thus, 'The white shall be your wages,' then all the sheep bore white.
 GEN.31:9 So God has taken away all your father's cattle and given them to me.
-GEN.31:10 Now it came to pass, when the flocks conceived, I lifted my eyes and saw in a dream, and behold, the male goats and the rams that were speckled, spotted, and ashcolored speckled were mating with the sheep and the goats.
+GEN.31:10 Now it came to pass, when the flocks conceived, I lifted my eyes and saw in a dream, and behold, the male goats and the rams that were speckled, spotted, and ash-colored speckled were mating with the sheep and the goats.
 GEN.31:11 Then the Angel of God spoke to me in a dream, saying, 'Jacob.' Thus I said, 'Here I am.'
 GEN.31:12 So He said, 'Lift your eyes now and see, all the male goats and the rams mating with the sheep and the goats are speckled, spotted, and ash-colored speckled; for I have seen everything Laban is doing to you.
 GEN.31:13 I am the God who appeared to you at Bethel, where you anointed the pillar and made a vow to Me. Now then, arise, get out of this land, and return to the land of your nativity, and I will be with you.' '
@@ -1456,31 +1456,31 @@ GEN.39:23 The chief keeper of the prison did not look into anything under Joseph
 ## Chapter 40
 
 GEN.40:1 Now it came to pass after these things, that the king of Egypt's chief cupbearer.
-GEN.40:2 So Pharaoh was angry with his two eunuchs, the chief cupbearer and the chief baker.
+GEN.40:2 So Pharaoh was angry with his two eunuchs, the chief cup-bearer and the chief baker.
 GEN.40:3 Thus he put them in custody with the chief bodyguard in the prison, the place where Joseph was confined.
 GEN.40:4 Then the chief jailer committed them to Joseph, and he attended them; so they were in custody for a while.
-GEN.40:5 Then the king of Egypt's chief cupbearer and the chief baker, who were confined in the prison, had a dream, both of them, each man's dream in one night and each man's dream with its own interpretation.
+GEN.40:5 Then the king of Egypt's chief cup-bearer and the chief baker, who were confined in the prison, had a dream, both of them, each man's dream in one night and each man's dream with its own interpretation.
 GEN.40:6 So Joseph came in to them in the morning and looked at them, and saw they were troubled.
 GEN.40:7 Thus he asked Pharaoh's eunuchs, who were with him in the custody of his lord, saying, 'Why do you look so sad today?'
 GEN.40:8 So they said to him, 'We each had a dream, and there is no one to interpret it.' Then Joseph said to them, 'Do not interpretations belong to God? Therefore, relate them to me.'
-GEN.40:9 Then the chief cupbearer related his dream to Joseph, and said to him, 'Behold, in my dream a vine was before me,
+GEN.40:9 Then the chief cup-bearer related his dream to Joseph, and said to him, 'Behold, in my dream a vine was before me,
 GEN.40:10 and in the vine were three branches; it was as though it budded, its blossoms shot forth, and its clusters brought forth ripe grapes.
 GEN.40:11 Then Pharaoh's cup was in my hand; and I took the grapes and pressed them into Pharaoh's cup, and placed the cup in Pharaoh's hand.'
 GEN.40:12 And Joseph said to him, 'This is the interpretation of it: The three branches are three days.
-GEN.40:13 Now within three days Pharaoh will remember your position and restore your office of chief cupbearer; and you will put Pharaoh's cup in his hand according to the former manner, when you were his cupbearer.
+GEN.40:13 Now within three days Pharaoh will remember your position and restore your office of chief cup-bearer; and you will put Pharaoh's cup in his hand according to the former manner, when you were his cup-bearer.
 GEN.40:14 But remember me when it is well with you, and have mercy on me; make mention of me to Pharaoh, and get me out of this prison.
 GEN.40:15 For indeed I was stolen away from the land of the Hebrews; and I also have done nothing for them to put me into the dungeon.'
 GEN.40:16 When the chief baker saw the interpretation was good, he said to Joseph, 'I also had a dream, and there were three white baskets on my head.
 GEN.40:17 In the uppermost basket were all kinds of baked goods for Pharaoh, and the birds ate them out of the basket on my head.'
 GEN.40:18 So Joseph answered and said, 'This is the interpretation of it: The three baskets are three days.
 GEN.40:19 Within three days Pharaoh will lift off your head from you and hang you on a tree; and the birds will eat your flesh from you.'
-GEN.40:20 Now it came to pass on the third day, which was Pharaoh's birthday, that he made a feast for all his servants; and he remembered the positions of his chief cupbearer and chief baker among his servants.
-GEN.40:21 Then he restored the chief cupbearer to his position, and he placed the cup in Pharaoh's hand.
+GEN.40:20 Now it came to pass on the third day, which was Pharaoh's birthday, that he made a feast for all his servants; and he remembered the positions of his chief cup-bearer and chief baker among his servants.
+GEN.40:21 Then he restored the chief cup-bearer to his position, and he placed the cup in Pharaoh's hand.
 GEN.40:22 But he hanged the chief baker, as Joseph had interpreted to them.
 
 ### Joseph Interprets the Dreams of Pharaoh
 
-GEN.40:23 Yet the chief cupbearer did not remember Joseph, but forgot him.
+GEN.40:23 Yet the chief cup-bearer did not remember Joseph, but forgot him.
 ## Chapter 41
 
 GEN.41:1 Then it came to pass, at the end of two full years, that Pharaoh had a dream; and behold, he stood by the river.
@@ -1491,12 +1491,12 @@ GEN.41:5 He slept and dreamed a second time; and suddenly seven ears of corn cam
 GEN.41:6 Then behold, seven ears of corn, thin and blighted by the east wind, sprang up after them.
 GEN.41:7 But the seven thin ears of corn devoured the seven plump and full ears. So Pharaoh awoke, and indeed, it was a dream.
 GEN.41:8 Now it came to pass in the morning that his spirit was troubled, and he sent and called for all the interpreters of Egypt and all its wise men. Thus Pharaoh told them his dreams, but there was no one who could interpret them for Pharaoh.
-GEN.41:9 Then the cupbearer spoke to Pharaoh, saying, 'I remember my sin this day.
+GEN.41:9 Then the cup-bearer spoke to Pharaoh, saying, 'I remember my sin this day.
 GEN.41:10 When Pharaoh was angry with his servants, and put me in custody in the house of the chief bodyguard, both myself and the chief baker,
 GEN.41:11 we each had a dream in one night, both he and I. Each had a dream regarding himself.
 GEN.41:12 Now there was with us a young Hebrew servant of the chief bodyguard, and we related our dreams to him; and he interpreted them for us.
 GEN.41:13 And it came to pass, just as he interpreted for us, so it happened. He restored me to my office, but he hanged him.'
-GEN.41:14 Then Pharaoh sent and called Joseph, and they brought him quicklyout of the dungeon; and he shaved, changed his clothing, and came to Pharaoh.
+GEN.41:14 Then Pharaoh sent and called Joseph, and they brought him quickly out of the dungeon; and he shaved, changed his clothing, and came to Pharaoh.
 GEN.41:15 Thus Pharaoh said to Joseph, 'I had a dream, and there is no one who can interpret it. But I heard it said of you that you can understand a dream, to interpret it.'
 GEN.41:16 So Joseph answered Pharaoh, saying, 'It is not in me; God will give Pharaoh an answer of peace.'
 GEN.41:17 Then Pharaoh said to Joseph, 'Behold, in my dream I stood on the bank of the river.

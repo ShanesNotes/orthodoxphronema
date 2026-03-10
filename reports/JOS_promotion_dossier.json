@@ -1,7 +1,7 @@
 {
   "book_code": "JOS",
   "testament": "OT",
-  "timestamp": "2026-03-10T14:38:41.560569",
+  "timestamp": "2026-03-10T16:57:56.701689",
   "registry_version": "1.3.0",
   "body_checksum": "2a0bf4dfb58c2651b12e56ff5e15f67bed34552776c1ea07d336649d8a22d0a8",
   "validation": {
@@ -43,5 +43,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "promoted"
 }

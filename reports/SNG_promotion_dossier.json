@@ -1,7 +1,7 @@
 {
   "book_code": "SNG",
   "testament": "OT",
-  "timestamp": "2026-03-10T10:10:20.465738",
+  "timestamp": "2026-03-10T17:01:34.218108",
   "registry_version": "1.3.0",
   "body_checksum": "054213848edbc41e31f2cdcfdff840bb92600d5684dc6360d11189ae4eaaa9f8",
   "validation": {
@@ -42,24 +42,8 @@
     "V9": {
       "status": "PASS",
       "messages": []
-    },
-    "V10": {
-      "status": "PASS",
-      "messages": []
-    },
-    "V11": {
-      "status": "PASS",
-      "messages": []
-    },
-    "V12": {
-      "status": "PASS",
-      "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run",
-  "allow_incomplete": true,
-  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/SNG.md",
-  "editorial_candidates_path": null,
-  "residuals_path": null
+  "decision": "dry-run"
 }

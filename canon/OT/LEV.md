@@ -5,8 +5,8 @@ testament: OT
 canon_position: 3
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-08"
-promote_date: "2026-03-09"
-checksum: "e8ff6895bd9dc711a951b6fb6ef821c6f5fb1481923dff5e7f2f4636ca30d9ef"
+promote_date: "2026-03-10"
+checksum: "22f0ddd262b2081fd9921210a4e466990866416b506ba8de103baf1e6bb95317"
 status: promoted
 deuterocanonical: false
 has_additions: false
@@ -754,7 +754,7 @@ LEV.21:10 The high priest who is great among his brethren, on whose head the ano
 LEV.21:11 nor shall he go near any soul who died, nor defile himself for his father or mother;
 LEV.21:12 nor shall he go out of the holy places, nor defile the sanctified place of his God; for the consecration of God's holy anointing oil is upon him: I am the Lord.
 LEV.21:13 Moreover, he shall take a wife in her virginity.
-LEV.21:14 But a widow, adivorced woman, a defiled woman, or a prostitute-these he shall not marry; but he shall take a virgin of his own people as wife.
+LEV.21:14 But a widow, a divorced woman, a defiled woman, or a prostitute-these he shall not marry; but he shall take a virgin of his own people as wife.
 LEV.21:15 Nor shall he defile his seed among his people, for I the Lord sanctify him.' '
 LEV.21:16 Now the Lord spoke to Moses, saying,
 LEV.21:17 'Speak to Aaron, saying, 'No man of your descendants in succeeding generations who has any defect may approach to offer the gifts of his God.
@@ -790,9 +790,9 @@ LEV.22:17 Again, the Lord spoke to Moses, saying,
 LEV.22:18 'Speak to Aaron and his sons, and to all the congregation of Israel, and say to them, 'Whatever man of the children of Israel, or of the resident aliens dwelling among them in Israel, who offers his gifts in accord with any agreedon offering or any offering of choice which they offer to God as a whole burnt offering-
 LEV.22:19 to be acceptable on your behalf, they must be males without blemish from the cattle, the sheep, or the goats.
 LEV.22:20 Whatever has a defect, you shall not offer it to the Lord, for it shall not be acceptable on your behalf.
-LEV.22:21 And whoever offers a sacrifice of a peace offering to the Lord from the cattle or the sheep, to fulfill his vow, or afreewill offering, or in your feasts, it must be without blemish to be accepted; there shall be no defect in it.
-LEV.22:22 Those blind, broken, or with a cut tongue, or afflicted with warts, or having abad itch or a skin disease, you shall not offer to the Lord, nor make an offering by fire of them on the altar to the Lord.
-LEV.22:23 Either a bull or a sheep that has any ears cut off or ashortened tail, you may offer for yourself, but for avow of yours it shall not be accepted.
+LEV.22:21 And whoever offers a sacrifice of a peace offering to the Lord from the cattle or the sheep, to fulfill his vow, or a freewill offering, or in your feasts, it must be without blemish to be accepted; there shall be no defect in it.
+LEV.22:22 Those blind, broken, or with a cut tongue, or afflicted with warts, or having a bad itch or a skin disease, you shall not offer to the Lord, nor make an offering by fire of them on the altar to the Lord.
+LEV.22:23 Either a bull or a sheep that has any ears cut off or a shortened tail, you may offer for yourself, but for avow of yours it shall not be accepted.
 LEV.22:24 You shall not offer to the Lord what is castrated by crushing, bruising, tearing, or extracting; nor shall you make any offering of them in your land.
 LEV.22:25 Nor from a foreigner's hand shall you offer any of these as the gifts of your God, because their corruption is in them, and defects are in them. They shall not be accepted on your behalf.' '
 LEV.22:26 Again the Lord spoke to Moses, saying,
@@ -867,7 +867,7 @@ LEV.23:36 For seven days you shall offer whole burnt offerings to the Lord. Then
 LEV.23:37 'These are the feasts to the Lord which you shall proclaim to be holy convocations, to offer whole burnt offerings to the Lord, whole burnt offerings and their grain and drink offerings, everything on its day-
 LEV.23:38 besides the Sabbaths of the Lord, and besides your gifts, all your vows, and all your freewill offerings which you give to the Lord.
 LEV.23:39 'Also on the fifteenth day of this seventh month, when you have gathered in the fruit of the land, you shall keep the feast to the Lord for seven days; on the first day there shall be a rest, and on the eighth day a rest.
-LEV.23:40 And you shall take for yourselves on the first day the ripe fruit of atree, leaves of palm trees, the branches of leafy trees, and the pure willows of the brook; and you shall rejoice before the Lord your God for seven days.
+LEV.23:40 And you shall take for yourselves on the first day the ripe fruit of a tree, leaves of palm trees, the branches of leafy trees, and the pure willows of the brook; and you shall rejoice before the Lord your God for seven days.
 LEV.23:41 You shall keep it as a feast to the Lord for seven days in the year. It shall be an ordinance forever in your generations. You shall celebrate it in the seventh month.
 LEV.23:42 You shall dwell in booths for seven days. All who are native Israelites shall dwell in booths,
 LEV.23:43 that your generations may know that I made the children of Israel dwell in booths when I brought them out of the land of Egypt: I am the Lord your God.' '
@@ -894,7 +894,7 @@ LEV.24:8 Every Sabbath day it shall be placed before the Lord continually, in th
 LEV.24:9 It shall be for Aaron and his sons, and they shall eat these things in a holy place; for this is most holy to him from the things sacrificed to the Lord, as a perpetual ordinance.'
 LEV.24:10 Now the son of an Israelite woman, whose father was an Egyptian, went out among the children of Israel; and this Israelite woman's son and a man of Israel fought each other in the camp.
 LEV.24:11 Then the Israelite woman's son, by pronouncing the Name, cursed; and so they brought him to Moses. (His mother's name was Shelomith the daughter of Dibri, of the tribe of Dan.)
-LEV.24:12 Then they placed him in custody, to make adecision regarding him through an ordinance of the Lord.
+LEV.24:12 Then they placed him in custody, to make a decision regarding him through an ordinance of the Lord.
 LEV.24:13 Thus the Lord spoke to Moses, saying,
 LEV.24:14 'Take the one who cursed outside the camp; then let all who heard him lay their hands on his head, and let all the congregation stone him.
 LEV.24:15 Then you shall speak to the children of Israel, saying, 'Whoever curses God shall bear his guilt.
@@ -927,7 +927,7 @@ LEV.25:10 Then you shall sanctify the fiftieth year, and proclaim remission thro
 LEV.25:11 That fiftieth year shall be the Signal of Remission for you; in it you shall neither sow nor reap what grows by itself, nor gather its sanctified things.
 LEV.25:12 For it is the Signal of Remission; it shall be holy to you; you shall eat its produce from the field.
 LEV.25:13 'In this Year of Remission, each shall return to his possession.
-LEV.25:14 Also, if you should make asale of land to your neighbor or buy it from him, let a man not oppress his neighbor.
+LEV.25:14 Also, if you should make a sale of land to your neighbor or buy it from him, let a man not oppress his neighbor.
 LEV.25:15 According to the number of years after the Signal, you shall buy land tenure from your neighbor, and he shall sell tenure to you according to the number of years of crops.
 LEV.25:16 According to the increase in years, his acquisition price for tenure should be increased, and according to the fewer number of years his price should be diminished; for he sells to you according to the number of the crops.
 
@@ -943,7 +943,7 @@ LEV.25:21 Then I will command My blessing on you in the sixth year, and it will 
 
 LEV.25:22 And you shall sow in the eighth year, and eat from the old produce until the ninth year; until its produce comes in, you shall eat of the old harvest.
 LEV.25:23 'The land shall not be sold in perpetuity, for the land is Mine; for in my sight you are resident aliens and sojourners.
-LEV.25:24 According to all the land of your possession, you shall grant aransom of the land.
+LEV.25:24 According to all the land of your possession, you shall grant a ransom of the land.
 LEV.25:25 If your brother with you becomes poor and has sold some of his possession, and his closest relative comes, then he may redeem what his brother sold.
 LEV.25:26 Or if the poor man has no close relative to redeem it, but he himself becomes prosperous enough to redeem it,
 LEV.25:27 then let him compute the years since its sale and return the remainder to the man to whom he sold it, that he may return to his possession.
@@ -959,7 +959,7 @@ LEV.25:33 Even whoever purchases a house from the Levites, the house that was so
 LEV.25:34 But the fields set apart for their cities may not be sold, for this is their perpetual possession.
 LEV.25:35 'If your brother becomes poor and weak in strength among you, then you shall help him, like a resident alien or a sojourner, that he may live with you.
 LEV.25:36 Take no usury or interest from him; but fear your God-I am the Lord-that your brother may live with you.
-LEV.25:37 You shall not lend him your money for usury, nor lend him your food at aprofit.
+LEV.25:37 You shall not lend him your money for usury, nor lend him your food at a profit.
 
 ### Relating to Slaves
 
@@ -967,17 +967,17 @@ LEV.25:38 I am the Lord your God, who brings you out of the land of Egypt to giv
 LEV.25:39 'Now if your brother with you becomes poor and sells himself to you, you shall not compel him to serve as a slave.
 LEV.25:40 But as a hired servant or a sojourner he shall be with you, and shall work for you until the Year of Remission.
 LEV.25:41 Then in the Remission he shall depart from you-he and his children with him-and shall return to his own family. He shall return to the possession of his fathers.
-LEV.25:42 For they are My personal servants, whom I brought out of the land of Egypt; they shall not be sold with the sale of ahousehold servant.
+LEV.25:42 For they are My personal servants, whom I brought out of the land of Egypt; they shall not be sold with the sale of a household servant.
 LEV.25:43 You shall not overwork him with labor, but you shall fear the Lord your God.
 LEV.25:44 As for the male and female servants you may have from the Gentiles around you, from them you may buy male and female servants.
 LEV.25:45 Moreover you may buy some of the children of sojourners dwelling among you, and some of their families with you, which they beget in your land; and they shall become your possession.
 LEV.25:46 You may also distribute them as an inheritance for your children after you, to inherit them as a permanent possession. But regarding your brethren, the children of Israel, you shall not overwork him with labor.
-LEV.25:47 'Now if a resident alien or sojourner with you prospers, and your brother becomes poor and sells himself to the resident alien or sojourner with you, or to amember of the resident alien's family,
+LEV.25:47 'Now if a resident alien or sojourner with you prospers, and your brother becomes poor and sells himself to the resident alien or sojourner with you, or to a member of the resident alien's family,
 LEV.25:48 after he is sold he may be redeemed again. One of his brothers may redeem him;
 LEV.25:49 or his uncle or his uncle's son may redeem him; or anyone near of kin to him in his family may redeem him; or if he is able he may redeem himself.
 LEV.25:50 Thus he shall compute the years with him who bought him: The price of his release shall be according to the number of years from the year that he was sold to him until the Year of Remission; it shall be according to the time he was a hired servant for him.
 LEV.25:51 If there are still more years remaining to someone, he shall pay his ransom from the money of his sale.
-LEV.25:52 Now if there remain but afew years until the Year of Remission, then he shall compute with him, and according to his years, he shall repay his ransom.
+LEV.25:52 Now if there remain but a few years until the Year of Remission, then he shall compute with him, and according to his years, he shall repay his ransom.
 LEV.25:53 He shall be with him as a hired servant year by year, and you shall not allow someone to overwork him with labor in your sight.
 LEV.25:54 But if he is not redeemed in these years he shall be released in the Year of Remission-he and his children with him.
 
@@ -986,7 +986,7 @@ LEV.25:54 But if he is not redeemed in these years he shall be released in the Y
 LEV.25:55 For the children of Israel are personal servants to Me; they are My servants, whom I brought out of the land of Egypt: I am the Lord your God.
 ## Chapter 26
 
-LEV.26:1 Now you shall not make handcrafted objects for yourselves; neither acarved image nor a pillar shall you rear up for yourselves; nor shall you set up adistinctive stone in your land, to worship it; for I am the Lord your God.
+LEV.26:1 Now you shall not make handcrafted objects for yourselves; neither a carved image nor a pillar shall you rear up for yourselves; nor shall you set up a distinctive stone in your land, to worship it; for I am the Lord your God.
 LEV.26:2 You shall keep My Sabbaths and reverence My holy things: I am the Lord.
 LEV.26:3 'If you walk in My ordinances and keep My commandments, and do them,
 LEV.26:4 then I will give you rain in its season, the land shall yield its produce, and the trees of the field shall yield their fruit.
@@ -1021,10 +1021,10 @@ LEV.26:29 Then you shall eat the flesh of your sons and daughters.
 LEV.26:30 I will make desolate your pillars, and will utterly destroy your wooden handcrafted objects; and I will put your carcasses on the carcasses of your idols, and My soul shall abhor you.
 LEV.26:31 I will lay your cities waste, and bring your holy things to desolation; and I will not smell the odor of your sacrifices.
 LEV.26:32 I will bring your land to desolation, and your enemies who dwell in it shall be astonished at it.
-LEV.26:33 I will scatter you among the Gentiles, and the sword shall suddenly destroy you. Then your land shall be adesert and your cities deserts.
+LEV.26:33 I will scatter you among the Gentiles, and the sword shall suddenly destroy you. Then your land shall be a desert and your cities deserts.
 LEV.26:34 Then the land shall enjoy its Sabbaths as long as it lies desolate, and you are in your enemies' land. Thus the land shall rest and enjoy its Sabbaths.
 LEV.26:35 As long as it lies desolate it shall rest-for the time it did not rest on your Sabbaths when you dwelt in it.
-LEV.26:36 'Now as for those of you remaining in the land, I will send faintness into their heart in the land of their enemies; and the sound of the shaking leaf shall chase them. Then they shall flee as though fleeing from abattle, and shall fall when no one pursues.
+LEV.26:36 'Now as for those of you remaining in the land, I will send faintness into their heart in the land of their enemies; and the sound of the shaking leaf shall chase them. Then they shall flee as though fleeing from a battle, and shall fall when no one pursues.
 LEV.26:37 Brother shall disregard brother as in warfare though no one is in pursuit; and you will be unable to withstand your enemies.
 LEV.26:38 You shall perish among the Gentiles, and the land of your enemies shall devour you.
 LEV.26:39 Now those of you who are left shall be destroyed because of their sins, and waste away in their enemies' land.
@@ -1055,7 +1055,7 @@ LEV.27:12 and the priest shall set a value for it, whether good or bad; and as t
 LEV.27:13 But if he wants at all to redeem it, then he must add one-fifth to his valuation.
 LEV.27:14 And when a man sanctifies his house to be holy to the Lord, then the priest shall set a value for it, whether good or bad; as the priest values it, so it shall stand.
 LEV.27:15 If he who sanctified his house wants to redeem it, he must add one-fifth of the silver of its valuation, and it shall be his.
-LEV.27:16 Now if a man sanctifies part of the field of his possession to the Lord, then the valuation shall be according to the seed required for it: acor of barley for fifty didrachm of silver.
+LEV.27:16 Now if a man sanctifies part of the field of his possession to the Lord, then the valuation shall be according to the seed required for it: a cor of barley for fifty didrachm of silver.
 LEV.27:17 If he sanctifies part of his field from the Year of Remission, according to his valuation it shall stand.
 LEV.27:18 But if he sanctifies his field subsequently after the Jubilee, the priest shall reckon to him the silver due according to the years that remain till the Year of Remission, and it shall be deducted from his valuation.
 LEV.27:19 And if he who sanctifies the field ever wishes to redeem it, he must add one-fifth of the silver to his valuation, and it shall belong to him.
