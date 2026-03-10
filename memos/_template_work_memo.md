@@ -34,6 +34,15 @@
 |---|---|---|
 | `<validator/test/manual check>` | `<pass|warn|fail>` | `<path / command / note>` |
 
+## Completion Handshake
+| Item | Status | Evidence |
+|---|---|---|
+| `Files changed` | `<done|partial|none>` | `<exact paths>` |
+| `Verification run` | `<done|partial|none>` | `<command / report / note>` |
+| `Artifacts refreshed` | `<done|partial|deferred>` | `<dossier / dashboard / report paths>` |
+| `Remaining known drift` | `<none|present>` | `<stale dossier / stale dashboard / stale memo / note>` |
+| `Next owner` | `<ark|ezra|photius|human>` | `<short handoff>` |
+
 ## Open Questions
 - `<question>`
 
@@ -49,3 +58,4 @@
 - Prefer exact file paths.
 - If the change affects canon quality, include before/after counts where possible.
 - If ambiguity remains, point to the sidecar JSON or source evidence.
+- If a dossier or dashboard refresh was deferred, name the exact stale surface explicitly instead of using vague language.

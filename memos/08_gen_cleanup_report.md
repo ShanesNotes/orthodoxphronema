@@ -1,123 +1,116 @@
-# Genesis Cleanup Report — 2026-03-08 (Day 10 re-run)
+# Genesis Cleanup Report — 2026-03-08
 
 ## Summary
-
-GEN.md was extracted on Day 4 and first cleaned on Day 8, but the Day 9 lc-split
-verse recovery exposed hundreds of new defect instances. This report covers the
-full re-run of the cleanup pipeline on the post-Day-9 GEN.md.
-
 - Input: `staging/validated/OT/GEN.md`
-- Mode: **in-place** (two passes)
-- Brenton reference: enabled (R7)
+- Mode: **in-place**
+- Brenton reference: disabled
+- Lines changed: 1
 
-## Pass 1: fix_omissions.py (R1–R7)
+## Rules Applied
 
 | Rule | Description | Count |
 |------|-------------|-------|
-| R1 | Split fused article compounds (allowlist) | 318 |
-| R2 | Split fused possessives ('s + word) | 243 |
-| R3 | Rejoin word-split artifacts (allowlist) | 48 |
-| R4 | Rejoin hyphen-split line breaks (allowlist) | 5 |
+| R1 | Split fused article compounds (allowlist) | 0 |
+| R2 | Split fused possessives ('s + word) | 0 |
+| R3 | Rejoin word-split artifacts (allowlist) | 1 |
+| R4 | Rejoin hyphen-split line breaks (allowlist) | 0 |
 | R5 | Remove trailing space before punctuation | 0 |
-| R7 | Brenton-assisted fused compound splits | 1 |
-| **Total** | | **615** |
+| R6 | Drop-cap omissions detected (NO auto-fix) | 81 |
+| R7 | Brenton-assisted fused compound splits | 0 |
 
-Pass 1 ran in two sub-passes:
-1. Initial run: R1=296, R2=243, R3=48, R4=5, R7=1 (`askin` → `a skin`)
-2. Allowlist expansion (+22 entries) then re-run: R1=22 additional fixes
+## Before/After Examples (first 20 + last 20 changed lines)
 
-### Allowlist Expansion (GEN.json)
+L1499:
+  - `GEN.41:14 Then Pharaoh sent and called Joseph, and they brought him quickly out of the dungeon; and he shaved, changed his clothing, and came to Pharaoh.`
+  + `GEN.41:14 Then Pharaoh sent and called Joseph, and they brought him quicklyout of the dungeon; and he shaved, changed his clothing, and came to Pharaoh.`
 
-Added 22 fused-article entries confirmed by Brenton bigram match and context:
 
-`acave`, `acurse`, `adistance`, `adove`, `afifth`, `afurnace`, `aheap`,
-`ahundred`, `aking`, `akid`, `aladder`, `aplain`, `aposition`, `aprophet`,
-`aram`, `araven`, `ascarlet`, `aservant`, `asixth`, `asmoking`, `asmooth`,
-`aspeckled`
+## Unresolved: Drop-Cap Omissions (R6 — human review required)
 
-Skipped (legitimate English words): `along`, `aloud`, `today` (x6), `tonight`, `inlaw`
+These verses begin with a lowercase letter, indicating the PDF drop-cap
+first letter was not captured by Docling. Run dropcap_verify.py for
+Brenton-backed classification.
 
-## Pass 2: dropcap_verify.py (PDF visual spot-check)
-
-21 drop-cap candidates found — all at chapter:1 verses. All 21 verified via OSB
-PDF page rendering (pymupdf at 200 DPI, pages visually inspected).
-
-| Residual | Repair | Count | Notes |
-|----------|--------|-------|-------|
-| `ow ` | **Now** | 14 | GEN.10:1, 11:1, 16:1, 20:1, 23:1, 24:1, 28:1, 29:1, 30:1, 36:1, 39:1, 43:1, 46:1, 47:1 |
-| `hen ` | **Then** | 4 | GEN.7:1, 8:1, 18:1, 41:1 |
-| `hen ` | **When** | 2 | GEN.17:1, 42:1 — **corrected from map default "Then"** |
-| `oearly ` | **So early** | 1 | GEN.32:1 |
-
-Key corrections: GEN.17:1 and GEN.42:1 are "**When**" (not "Then"). The residual
-map cannot distinguish T+hen from W+hen — PDF visual check is the only reliable
-method for these.
-
-## Validation Results (post-cleanup)
-
-```
-V1  PASS  1529 unique anchors
-V2  PASS  50 chapters
-V3  PASS  Chapters 1-50 sequential
-V4  INFO  1 residual gap (GEN.49:2)
-V7  99.8% (1529/1532) — 3 missing: GEN.49:1, 49:2, 49:33 (known parser limits)
-V8  PASS  No fragment headings
-V9  PASS  No embedded verses
-```
-
-Cleanup does not affect verse structure — V4/V7 unchanged from pre-cleanup.
-
-## Residue Audit (post-cleanup)
-
-Total findings: **31** (down from ~363 pre-cleanup)
-
-| Category | Count | Examples |
-|----------|-------|---------|
-| fused_article | 10 | `today` (x6), `tonight`, `inlaw`, `along`, `aloud` |
-| fused_compound | 21 | `forever` (x2), `firstborn` (x5), `earrings` (x4), `floodgates` (x2), `maidservants`, `birthday`, `sevenfold`, `twentyseventh`, `thirtyseven`, `fortyfive` |
-
-All 31 findings are **legitimate modern English spellings** that differ from Brenton's
-archaic two-word forms. None are OCR/extraction defects.
-
-## Three-Bucket Classification (per memo 18)
-
-### Bucket 1: Auto-fixed (deterministic) — 636 fixes
-- R1 fused articles: 318
-- R2 fused possessives: 243
-- R3 word-split artifacts: 48
-- R4 hyphen-split joins: 5
-- R7 Brenton-confirmed split: 1
-- Drop-cap repairs (PDF-verified): 21
-
-### Bucket 2: Human-ratified (PDF visual check) — 21 cases
-All 21 drop-cap candidates were resolved by OSB PDF visual inspection.
-2 corrections made (GEN.17:1 and GEN.42:1: "When" not "Then").
-Classification: `human_verified` in `GEN_dropcap_candidates.json`.
-
-### Bucket 3: Genuine OSB (no fix needed) — 31 items
-These are legitimate modern English spellings in the OSB that differ from
-Brenton's archaic forms:
-
-| OSB spelling | Brenton spelling | Verdict |
-|-------------|-----------------|---------|
-| today | to day | Modern standard |
-| tonight | to night | Modern standard |
-| forever | for ever | Modern standard |
-| firstborn | first born | Modern standard |
-| earrings | ear rings | Modern standard |
-| floodgates | flood gates | Modern standard |
-| birthday | birth day | Modern standard |
-| maidservants | maid servants | Modern standard |
-| sevenfold | seven fold | Modern standard |
-| along | a long | Legitimate word |
-| aloud | a loud | Legitimate word |
-| inlaw | in law | Legitimate (contextual) |
-| twentyseventh | twenty seventh | Fused number (OSB style) |
-| thirtyseven | thirty seven | Fused number (OSB style) |
-| fortyfive | forty five | Fused number (OSB style) |
-
-**Action:** No fix. Document as accepted OSB wording.
-
-## Status
-
-GEN readability cleanup is **complete**. The file is ready for Ezra audit.
+| Anchor | Text (first 50 chars) |
+|--------|-----------------------|
+| GEN.1:18 | `and to rule over the day and over the night, and t...` |
+| GEN.2:5 | `before any plant of the field was on earth and bef...` |
+| GEN.2:6 | `but a fountain came up from the ground and watered...` |
+| GEN.2:17 | `but from the tree of the knowledge of good and evi...` |
+| GEN.3:3 | `but from the fruit of the tree in the middle of th...` |
+| GEN.3:23 | `therefore the Lord God sent him out of the garden ...` |
+| GEN.4:5 | `but He did not respect Cain and his sacrifices. So...` |
+| GEN.7:3 | `and the clean birds of heaven by twos, male and fe...` |
+| GEN.7:9 | `entered with Noah into the ark, two by two, male a...` |
+| GEN.7:15 | `entered the ark with Noah, two by two, of all fles...` |
+| GEN.9:10 | `and every living creature with you: the birds, the...` |
+| GEN.9:15 | `and I will remember My covenant between Me and you...` |
+| GEN.9:25 | `he said: 'Cursed be Canaan; A servant of servants ...` |
+| GEN.10:12 | `and Resen between Nineveh and Calah (the principal...` |
+| GEN.10:16 | `the Jebusite, the Amorite, and the Girgashite;...` |
+| GEN.10:17 | `the Hivite, the Arkite, and the Sinite;...` |
+| GEN.10:18 | `the Arvadite, the Zemarite, and the Hamathite. Aft...` |
+| GEN.13:4 | `to the place of the altar he made there at the beg...` |
+| GEN.13:15 | `for all the land you see I give to you and your se...` |
+| GEN.14:2 | `that they made war with Bera king of Sodom, Birsha...` |
+| GEN.14:6 | `and the Horites in the mountains of Seir, as far a...` |
+| GEN.14:9 | `against Chedorlaomer king of Elam, Tidal king of n...` |
+| GEN.14:20 | `and blessed be God Most High, who delivered your e...` |
+| GEN.14:23 | `that I will take nothing of yours, from a thread t...` |
+| GEN.14:24 | `except only what the young men have eaten, and the...` |
+| GEN.15:19 | `the Kenites, the Kenezzites, the Kadmonites,...` |
+| GEN.15:20 | `the Hittites, the Perizzites, the Rephaim,...` |
+| GEN.15:21 | `the Amorites, the Canaanites, the Euaites, the Gir...` |
+| GEN.17:11 | `and you shall be circumcised in the flesh of your ...` |
+| GEN.18:3 | `and said, 'O Lord, if I have now found grace in Yo...` |
+| GEN.19:7 | `and said, 'By no means, my brethren, do not act wi...` |
+| GEN.19:19 | `since Your servant found mercy in Your sight, and ...` |
+| GEN.20:18 | `for the Lord closed up all the wombs of the house ...` |
+| GEN.22:16 | `and said, 'By Myself I have sworn, says the Lord, ...` |
+| GEN.23:9 | `that he may give me the cave of Machpelah, which h...` |
+| GEN.23:13 | `and he spoke to Ephron in the hearing of the peopl...` |
+| GEN.23:18 | `to Abraham as his possession in the presence of th...` |
+| GEN.24:3 | `and I will make you swear by the Lord, the God of ...` |
+| GEN.24:4 | `but you shall go to my land where I was born, and ...` |
+| GEN.24:23 | `and said, 'Whose daughter are you? Tell me, is the...` |
+| GEN.24:38 | `but you shall go to my father's house and to my tr...` |
+| GEN.24:43 | `behold, I stand by the well of water; and it shall...` |
+| GEN.24:44 | `and she says to me, 'Drink, and I will draw for yo...` |
+| GEN.24:65 | `for she had said to the servant, 'Who is that man ...` |
+| GEN.25:10 | `the field and the cave Abraham purchased from the ...` |
+| GEN.26:5 | `because Abraham your father obeyed My voice and ke...` |
+| GEN.26:14 | `for he had herds of sheep and oxen and many fields...` |
+| GEN.26:29 | `that you will do us no harm, since we have not tou...` |
+| GEN.27:45 | `and wrath turn away from you, and he forgets what ...` |
+| GEN.28:4 | `and give you the blessing of Abraham, to you and y...` |
+| GEN.28:7 | `and Jacob had obeyed his father and mother and had...` |
+| GEN.28:21 | `and bring me back in safety to my father's house, ...` |
+| GEN.31:5 | `and said to them, 'I see your father's countenance...` |
+| GEN.31:49 | `and also The Vision, because he said, 'May God wat...` |
+| GEN.32:10 | `let me be satisfied with all the righteousness and...` |
+| GEN.32:14 | `two hundred female goats and twenty male goats, tw...` |
+| GEN.32:15 | `thirty milk camels with their offspring, forty cow...` |
+| GEN.32:20 | `and also say, 'Behold, your servant Jacob is comin...` |
+| GEN.34:16 | `then we will give our daughters to you, and we wil...` |
+| GEN.34:29 | `and took captive all their wives, their children, ...` |
+| GEN.35:24 | `the sons of Rachel were Joseph and Benjamin;...` |
+| GEN.35:25 | `the sons of Bilhah, Rachel's maidservant, were Dan...` |
+| GEN.35:26 | `and the sons of Zilpah, Leah's maidservant, were G...` |
+| GEN.36:3 | `and Basemath, Ishmael's daughter, sister of Nebajo...` |
+| GEN.36:5 | `and Aholibamah bore Jeush, Jaalam, and Korah. Thes...` |
+| GEN.39:12 | `she caught him by his garment, saying, 'Lie with m...` |
+| GEN.39:14 | `she called to the men of her house and spoke to th...` |
+| GEN.39:18 | `so it happened, as I lifted my voice and cried out...` |
+| GEN.40:10 | `and in the vine were three branches; it was as tho...` |
+| GEN.41:11 | `we each had a dream in one night, both he and I. E...` |
+| GEN.41:30 | `but after them seven years of famine will arise, a...` |
+| GEN.41:54 | `and the seven years of famine began to come, as Jo...` |
+| GEN.43:20 | `saying, 'We entreat you, my lord, we indeed came d...` |
+| GEN.43:21 | `but it happened, when we came to the encampment, t...` |
+| GEN.44:28 | `and the one went out from me, and I said, 'Surely ...` |
+| GEN.44:31 | `it will happen, when he sees the lad is not with u...` |
+| GEN.46:34 | `that you shall say, 'Your servants are pastoral me...` |
+| GEN.47:30 | `but let me lie with my fathers; you shall carry me...` |
+| GEN.48:4 | `and said to me, 'Behold, I will increase and multi...` |
+| GEN.49:30 | `opposite Mamre in the land of Canaan, which Abraha...` |
+| GEN.50:8 | `as well as all the house of Joseph, his brothers, ...` |

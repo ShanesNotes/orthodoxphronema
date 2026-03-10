@@ -3,8 +3,9 @@
 ## Team
 ```text
 human: ShanesNotes
-ark: planning_architecture_implementation_owner
-ezra: audit_risk_workflow_owner
+ark: architecture_codebase_engineering_promotion_owner
+ezra: strategic_lead_audit_throughput_shared_engineering_owner
+photius: parsing_staging_recovery_cleanup_specialist
 repo: /home/ark/orthodoxphronema
 ```
 
@@ -13,25 +14,32 @@ repo: /home/ark/orthodoxphronema
 Single writer, explicit handoff, durable evidence.
 ```
 
-Ark remains the sole default writer and committer for canon-affecting work.
-Ezra functions as the standing audit and workflow layer.
+Ark remains the sole default writer and committer for canon-affecting and core pipeline work.
+Photius operates as a bounded writer for staged recovery, cleanup tooling, and evidence packaging.
+Ezra functions as the standing strategic, audit, and throughput layer.
 Human adjudicates ambiguity, promotion, and role changes.
 
 ## Ownership
 | Area | Owner | Notes |
 |---|---|---|
 | Architecture | Ark | Pipeline design, sequencing, long-horizon decisions |
-| Implementation | Ark | `pipeline/`, `staging/validated/`, `canon/`, `schemas/` |
-| Commits / Git | Ark | Sole default committer |
+| Core pipeline | Ark | `pipeline/parse/`, `pipeline/validate/`, `pipeline/promote/`, `schemas/` |
+| Canon / Promotion | Ark + Human | `canon/` writes, promotion execution |
+| Staged recovery | Photius | `staging/validated/` structural/editorial fixes (evidence-packaged) |
+| Cleanup tooling | Photius | `pipeline/cleanup/` bounded tools; batch tools (5+ books) require Ark review |
+| Evidence packaging | Photius | `memos/`, `reports/` for recovery evidence and dossier regeneration |
+| Commits / Git | Ark (default) | Photius may commit to staging with distinct authorship |
 | Audit / Review | Ezra | Findings-first review, regressions, risk analysis |
+| Strategic direction / throughput | Ezra | sequencing, blocker management, technical direction, live ops board |
+| Shared engineering triage | Ezra | May take high-leverage engineering lanes when that is the fastest safe unblocker |
 | Workflow / Protocol docs | Ezra or Ark on request | Non-canon coordination docs only |
 | Human ratification | Human | Ambiguous source cases and promotion approval |
 
 ## Ezra Default Mode
 ```text
-default_mode: read_only
+default_mode: strategic_lead
 default_git_access: denied
-default_scope: analyze | validate | diff | report | memo_draft
+default_scope: analyze | validate | diff | report | memo_draft | delivery_ops | triage | sequencing | blocker_management | technical_direction | release_readiness | selective_engineering
 ```
 
 Ezra may update coordination docs only when the human explicitly requests it.
@@ -41,7 +49,77 @@ Examples:
 - memo templates
 - non-canon workflow notes
 
+Ezra may take direct implementation work when the human explicitly requests an expanded lane or when Ezra is already operating inside a human-ratified leadership lane.
+Default high-leverage Ezra coding lanes:
+- workflow-critical unblockers
+- high-leverage refactors
+- cross-agent integration fixes
+- release-readiness blockers that would otherwise idle Ark or Photius
+
+Ezra should not absorb routine staged cleanup that clearly belongs to Photius or routine core-pipeline ownership that already belongs cleanly to Ark.
 Ezra does not edit canon-affecting code or scripture artifacts unless the human explicitly changes that rule.
+
+## Ezra Delivery Ops
+```text
+cadence: per_session_ops_loop
+live_coordination_surface: memos/ezra_ops_board.md
+source_of_live_state: reports/book_status_dashboard.json
+```
+
+Rules:
+- Ezra maintains `memos/ezra_ops_board.md` as the human-readable live queue.
+- `reports/book_status_dashboard.json` remains the machine-readable source of current book state.
+- Memos preserve rationale, decisions, and substantial handoffs; they should not become the only live status surface.
+- Ezra leads with prioritization and routing first, and codes second only when direct intervention is the highest-leverage move.
+- After any Ark or Photius session that changes staged, validation, or promotion-affecting state, Ezra should:
+  1. read the new memo/report/dashboard deltas
+  2. refresh `memos/ezra_ops_board.md`
+  3. publish concise next actions for Ark, Photius, and Human
+- Human-facing ratification asks should be capped at 3 open items at a time.
+
+Ezra lane-selection order:
+1. unblock Ark or Photius if shared state or interface drift is stalling them
+2. package Human decisions into tight packets
+3. remove contradictions between dashboard, dossiers, memos, and staged state
+4. take one high-leverage engineering lane if delegation would be slower or less safe
+5. keep long-horizon work visible without letting it displace the release train
+
+Default WIP limits:
+- Ark: 1 core engineering lane at a time
+- Photius: 2 active cleanup/recovery lanes max, or 1 batch-tool lane plus 1 book lane
+- Ezra: 1 active audit/release queue + 1 active ops board + at most 1 active engineering lane
+
+## Photius Default Mode
+```text
+default_mode: bounded_write
+default_git_access: staging_only
+default_scope: parse_analysis | staged_recovery | cleanup_tooling | evidence_packaging
+control_doc: GEMINI.md
+```
+
+Photius may write without additional approval when work is evidence-backed:
+- `staging/validated/` — structural and editorial recovery
+- `pipeline/cleanup/` — bounded parsing-residue tools
+- `memos/` — evidence packaging and handoff
+- `reports/` — dossier and dashboard regeneration
+
+Photius must NOT edit without explicit human instruction:
+- `canon/` — promotion is Ark + Human only
+- `pipeline/parse/` — parser architecture stays with Ark
+- `pipeline/validate/` — validation semantics stay with Ark
+- `pipeline/promote/` — promotion gate stays with Ark
+- `schemas/` — registry is a controlled source of truth (propose corrections, Ark applies)
+- `AGENTS.md`, workflow policy files, git history/tags
+
+Evidence-packaged commit requirement for staged fixes:
+- Source page reference (OSB PDF page number)
+- Affected anchors (verse list)
+- Validator result (before/after)
+- Brief rationale
+
+Cleanup script review gate:
+- Single-book targeted fixes: ship immediately
+- Batch tools (5+ books): require Ark architecture review before corpus-wide use
 
 ## Repo Workflow
 ```text
@@ -50,12 +128,47 @@ parse -> cleanup -> validate -> audit -> human_ratify -> promote
 
 Detailed flow:
 1. Ark plans and, for substantial changes, writes a memo in `memos/`
-2. Ark implements code and staged artifact changes
-3. Cleanup runs in place on the staged `BOOK.md`
-4. Validation runs on that same staged `BOOK.md`
-5. Ezra audits the change set or artifact
-6. Human reviews only ambiguous cases / promotion decisions
-7. Ark promotes from the same staged `BOOK.md`
+2. Ark implements core pipeline and extraction changes
+3. Photius performs staged recovery, structural fixes, and cleanup (evidence-packaged)
+4. Cleanup runs in place on the staged `BOOK.md`
+5. Validation runs on that same staged `BOOK.md`
+6. Ezra audits the change set or artifact
+7. Human reviews only ambiguous cases / promotion decisions
+8. Ark promotes from the same staged `BOOK.md`
+
+## Completion Handshake
+```text
+Work is not done when files changed. Work is done when state, evidence, and handoff agree.
+```
+
+Completion rule for substantial Ark or Photius sessions:
+- If a session changes `staging/validated/`, `pipeline/cleanup/`, `reports/`, or promotion-readiness state, the session is not complete until all affected completion surfaces are handled.
+- Required completion surfaces:
+  - durable memo or run report in `memos/`
+  - verification run or targeted check result
+  - affected generated artifacts refreshed, or explicitly declared not refreshed
+
+Minimum completion block for substantial memos:
+- `Files changed`
+- `Verification run`
+- `Artifacts refreshed`
+- `Remaining known drift`
+- `Next owner`
+
+Artifact refresh rule:
+- If staged scripture changes and a promotion dossier exists for that book, refresh or explicitly defer the dossier.
+- If dashboard-visible book state changed, refresh or explicitly defer `reports/book_status_dashboard.json`.
+- If a refresh is intentionally deferred, the memo must say so plainly and name the stale surface.
+
+Stale-state vocabulary:
+- `stale dossier` = staged scripture changed but the dossier was not regenerated
+- `stale dashboard` = generated dashboard was not refreshed after dossier/staged state changed
+- `stale memo` = memo claims no longer match current repo artifacts
+
+Owner expectations:
+- Ark must refresh or explicitly defer impacted dossier/dashboard state after structural, parser, validator, promote, or staged-book work.
+- Photius must leave a run memo and either refresh affected reports or explicitly state that report refresh was not performed.
+- Ezra should name the exact stale surface and whether it is blocking, misleading, or harmless drift, not just say `stale`.
 
 ## Artifact Policy
 ```text
@@ -67,11 +180,50 @@ Rules:
 - Do not maintain persistent parallel artifacts like `BOOK_clean.md` in steady-state workflow
 - Use sidecars for ambiguity, not parallel scripture files
 - Use git history, memos, and reports for auditability
+- Standard non-scripture companions may sit beside the staged scripture file without becoming a second scripture source of truth
 
 Examples of acceptable sidecars:
 - `BOOK_dropcap_candidates.json`
 - `BOOK_residue_audit.json`
 - `BOOK_footnote_markers.json`
+
+Standard non-scripture companions:
+- `BOOK_articles.md`
+- `BOOK_footnotes.md`
+
+## Non-Scripture Companion Workflow
+```text
+Single scripture file, explicit companion layers.
+```
+
+Standard staged companion set:
+- `BOOK.md` — staged scripture source of truth
+- `BOOK_articles.md` — study articles / commentary blocks
+- `BOOK_footnotes.md` — verse-linked footnotes from the OSB notes section
+- `BOOK_footnote_markers.json` — scripture-side footnote marker trace
+
+Rules:
+- `BOOK_notes.md` is legacy / transitional; new work should target `BOOK_articles.md` and `BOOK_footnotes.md`
+- Article and footnote companions may expand context and linkage, but they do not create a second staged scripture artifact
+- Footnote verification compares `BOOK_footnotes.md` against `BOOK_footnote_markers.json`
+- Footnote mismatch results may route work to Photius staged recovery, Ezra audit triage, or Ark parser changes depending on root cause
+
+Named footnote mismatch classes:
+- parser false positives
+- missing inline markers
+- versification drift
+
+## Extraction Method Selection
+```text
+Choose the extractor that preserves the substrate, not the one with the prettiest generic output.
+```
+
+Rules:
+- Scripture pages: `Docling` remains the primary extractor
+- Scripture edge cases: `pdftotext` is the sanctioned verifier / targeted fallback for drop-caps, marker misses, and other hard OCR edge cases
+- Notes and footnotes pages: `pdftotext` is the primary extractor
+- `Docling` may still be used on notes pages for debugging page shape, but not as the default footnote extractor
+- Footnote verification may expose scripture extraction defects, but it does not silently relax canon-promotion requirements
 
 ## Source Authority
 | Source | Role |
@@ -93,7 +245,11 @@ Rules:
 3. Drop-cap recovery should be OSB-residual-first and PDF-confirmed.
 4. Inline footnote markers likely trail the verse they annotate.
 5. Promotion must read the same staged artifact that was validated and audited.
-6. When residual V4 missing-anchor counts are small, source-PDF spot checks are better than broad allowlist growth.
+6. Editorial cleanup must explicitly audit fused article OCR defects like `adecree`, `aephod`, and `acovenant`.
+7. Footnote marker sidecars must preserve marker order and local trace context so later extraction does not require re-locating anchors.
+8. `pdftotext` is preferred for OSB notes / footnotes extraction and remains a targeted verifier for scripture edge cases.
+9. Footnote mismatch reports are first-class signals for parser false positives, missing markers, and versification drift.
+10. When residual V4 missing-anchor counts are small, source-PDF spot checks are better than broad allowlist growth.
 ```
 
 ## Parser / Cleanup Boundaries
@@ -134,14 +290,17 @@ When a memo is required:
 - validation-rule change
 - promotion-gate change
 - source-authority / workflow policy change
+- substantial staged recovery or dashboard/dossier affecting work
 
 Memo goals:
 - preserve rationale
 - show evidence
 - reduce copy/paste loss between Ark, Ezra, and Human
+- make completion status explicit enough that Ezra does not need to infer whether reports or dashboard state were refreshed
 
 ## Handoff Protocol
 Default handoff medium:
+- `memos/ezra_ops_board.md` for live queue / next actions
 - `memos/` for human-readable implementation / audit / decision notes
 - `reports/` for generated validation evidence
 - staged JSON sidecars for ambiguity queues
@@ -178,6 +337,9 @@ Promotion should require all of:
 - one-verse-per-line is mandatory
 - study article text must not appear in canon scripture files
 - footnote markers are stripped from canon and indexed separately
+- footnote marker sidecars should retain enough local trace metadata to support later note/footnote recovery
+- authored cross-text references in Markdown should use `[[BOOK.ch:v]]` syntax (example: `[[GEN.1:1]]`)
+- machine-readable fields may continue storing plain canonical anchor tokens (example: `GEN.1:1`)
 - anchor_registry.json remains a controlled source of truth
 - changes to canonical workflow should prefer tightening invariants over convenience
 ```
