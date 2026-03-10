@@ -24,10 +24,16 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).parent.parent.parent
-BRENTON_DIR = REPO_ROOT / "src.texts" / "Brenton-Septuagint.txt"
-OUTPUT_DIR = REPO_ROOT / "staging" / "reference" / "brenton"
-REGISTRY = REPO_ROOT / "schemas" / "anchor_registry.json"
+import sys as _sys; from pathlib import Path as _Path
+_R = _Path(__file__).resolve().parent
+while _R != _R.parent and not (_R / "pipeline" / "__init__.py").exists(): _R = _R.parent
+if str(_R) not in _sys.path: _sys.path.insert(0, str(_R))
+from pipeline.common.paths import (
+    REPO_ROOT,
+    BRENTON_SOURCE_DIR as BRENTON_DIR,
+    BRENTON_DIR as OUTPUT_DIR,
+    REGISTRY_PATH as REGISTRY,
+)
 
 # Filename pattern: eng-Brenton_{pos}_{book_code}_{chapter}_read.txt
 RE_FILENAME = re.compile(r'^eng-Brenton_(\d{3})_([A-Z0-9]+)_(\d{2,3})_read\.txt$')
@@ -36,6 +42,8 @@ RE_FILENAME = re.compile(r'^eng-Brenton_(\d{3})_([A-Z0-9]+)_(\d{2,3})_read\.txt$
 # Key = Brenton code in filename; Value = registry book code
 BOOK_CODE_ALIASES: dict[str, str] = {
     "DAG": "DAN",  # Brenton "Daniel (Greek/LXX)" → our DAN
+    "ESG": "EST",  # Brenton "Esther (Greek)" → our EST
+    "NAM": "NAH",  # Brenton "Nahum" filename code → our NAH
 }
 
 # Books absent from Brenton (OT-only reference; NT not present)
@@ -46,18 +54,15 @@ KNOWN_ABSENT: set[str] = {
     "1TH", "2TH", "1TI", "2TI", "TIT", "PHM",
     "HEB", "JAS", "1PE", "2PE", "1JN", "2JN",
     "3JN", "JUD", "REV",
-    # OT books without Brenton coverage
-    "EST",  # Esther (only additions present in some editions)
-    "NAH",  # Nahum
+    # OT books previously thought absent but now aliased: EST←ESG, NAH←NAM
 }
 
 
 def load_registry_codes() -> set[str]:
     """Load all valid book codes from anchor_registry.json."""
-    with open(REGISTRY, encoding="utf-8") as f:
-        data = json.load(f)
-    books = data.get("books", [])
-    return {b["code"] for b in books}
+    from pipeline.common.registry import load_registry
+    data = load_registry(REGISTRY)
+    return {b["code"] for b in data.get("books", [])}
 
 
 def parse_chapter_file(path: Path) -> list[str]:

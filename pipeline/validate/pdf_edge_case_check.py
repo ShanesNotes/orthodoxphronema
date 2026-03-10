@@ -20,20 +20,27 @@ from __future__ import annotations
 import argparse
 import json
 import re
-import shutil
 import subprocess
 import sys
 from dataclasses import dataclass
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).parent.parent.parent
-PDF_PATH = REPO_ROOT / "src.texts" / "the_orthodox_study_bible.pdf"
-REGISTRY = REPO_ROOT / "schemas" / "anchor_registry.json"
-CACHE_DIR = Path("/tmp/orthodoxphronema_pdf_cache")
-
-RE_ANCHOR = re.compile(r"^([A-Z0-9]+)\.(\d+):(\d+)\s+(.*)$")
-RE_FM_FIELD = re.compile(r"^(\w+):\s*(.+)")
-RE_FOOTNOTE_MARKERS = re.compile(r"[†ω]+")
+import sys as _sys; from pathlib import Path as _Path
+_R = _Path(__file__).resolve().parent
+while _R != _R.parent and not (_R / "pipeline" / "__init__.py").exists(): _R = _R.parent
+if str(_R) not in _sys.path: _sys.path.insert(0, str(_R))
+from pipeline.common.paths import REPO_ROOT, REGISTRY_PATH as REGISTRY, PDF_PATH
+from pipeline.common.pdf_source import (
+    CACHE_DIR,
+    ensure_pdftotext,
+    ensure_pdftoppm,
+    extract_pdf_text,
+    is_navigation_page,
+    normalize_pdf_search_text,
+)
+from pipeline.common.registry import load_registry
+from pipeline.common.frontmatter import parse_frontmatter
+from pipeline.common.patterns import RE_ANCHOR_FULL as RE_ANCHOR, RE_FM_FIELD
 
 
 @dataclass
@@ -66,25 +73,6 @@ class PdfMatch:
     absolute_page_end: int
     book_page_start: int
     book_page_end: int
-
-
-def load_registry() -> dict:
-    with open(REGISTRY, encoding="utf-8") as f:
-        return json.load(f)
-
-
-def parse_frontmatter(lines: list[str]) -> tuple[dict, int]:
-    if not lines or lines[0].strip() != "---":
-        return {}, 0
-
-    fm: dict[str, str] = {}
-    i = 1
-    while i < len(lines) and lines[i].strip() != "---":
-        match = RE_FM_FIELD.match(lines[i])
-        if match:
-            fm[match.group(1)] = match.group(2).strip().strip('"')
-        i += 1
-    return fm, i + 1
 
 
 def collect_gap_cases(path: Path) -> tuple[str, list[GapCase]]:
@@ -141,57 +129,14 @@ def page_range_for_book(registry: dict, book_code: str) -> tuple[int, int]:
     return int(start_page), int(end_page)
 
 
-def ensure_pdftotext() -> str:
-    exe = shutil.which("pdftotext")
-    if not exe:
-        raise RuntimeError("pdftotext is required for PDF edge-case checks")
-    return exe
-
-
-def ensure_pdftoppm() -> str:
-    exe = shutil.which("pdftoppm")
-    if not exe:
-        raise RuntimeError("pdftoppm is required for page rendering")
-    return exe
-
-
 def extract_book_pdf_text(book_code: str, start_page: int, end_page: int) -> str:
-    CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    cache_path = CACHE_DIR / f"{book_code}_{start_page}_{end_page}.txt"
-    if not cache_path.exists():
-        exe = ensure_pdftotext()
-        subprocess.run(
-            [
-                exe,
-                "-layout",
-                "-f",
-                str(start_page),
-                "-l",
-                str(end_page),
-                str(PDF_PATH),
-                str(cache_path),
-            ],
-            check=True,
-        )
-    return cache_path.read_text(encoding="utf-8", errors="ignore")
-
-
-def is_navigation_page(text: str) -> bool:
-    lower = text.lower()
-    return (
-        "back to table of contents" in lower
-        or "chapters in " in lower
-        or "verses in " in lower
+    return extract_pdf_text(
+        start_page,
+        end_page,
+        PDF_PATH,
+        cache_key=book_code,
+        cache_dir=CACHE_DIR,
     )
-
-
-def normalize_search_text(text: str) -> str:
-    text = RE_FOOTNOTE_MARKERS.sub("", text)
-    text = text.replace("\u2018", "'").replace("\u2019", "'")
-    text = text.replace("\u201c", '"').replace("\u201d", '"')
-    text = re.sub(r"(\w)-\s+(\w)", r"\1\2", text)
-    text = re.sub(r"[^A-Za-z0-9]+", " ", text.lower())
-    return re.sub(r"\s+", " ", text).strip()
 
 
 def extract_pdf_pages(raw_pdf_text: str, start_page: int) -> list[PdfPage]:
@@ -203,7 +148,7 @@ def extract_pdf_pages(raw_pdf_text: str, start_page: int) -> list[PdfPage]:
     for offset, raw_page in enumerate(pages):
         normalized = ""
         if not is_navigation_page(raw_page):
-            normalized = normalize_search_text(raw_page)
+            normalized = normalize_pdf_search_text(raw_page)
         result.append(
             PdfPage(
                 absolute_page=start_page + offset,
@@ -215,7 +160,7 @@ def extract_pdf_pages(raw_pdf_text: str, start_page: int) -> list[PdfPage]:
 
 
 def phrase_words(text: str) -> list[str]:
-    return normalize_search_text(text).split()
+    return normalize_pdf_search_text(text).split()
 
 
 def left_phrase_for_case(case: GapCase, word_count: int) -> str:

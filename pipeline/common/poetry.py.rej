@@ -1,0 +1,15 @@
+--- poetry.py
++++ poetry.py
+@@ -196,11 +221,9 @@
+ 
+         header = match_chapter_header(line, header_patterns)
+         if header is not None:
+             new_ch, trailing = header
+-            # For standalone digits, require a pending heading OR strict sequence
+-            is_standalone = re.match(r"^\d+$", line)
+             
+             is_valid_advance = (new_ch == current_chapter + 1)
+             is_bootstrap = (current_chapter == 0 and new_ch == 1)
+             
+-            if is_bootstrap or is_valid_advance or (not is_standalone):
++            if is_bootstrap or is_valid_advance:

@@ -30,7 +30,12 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).parent.parent.parent
+import sys as _sys; from pathlib import Path as _Path
+_R = _Path(__file__).resolve().parent
+while _R != _R.parent and not (_R / "pipeline" / "__init__.py").exists(): _R = _R.parent
+if str(_R) not in _sys.path: _sys.path.insert(0, str(_R))
+from pipeline.common.paths import REPO_ROOT
+
 MAP_PATH = REPO_ROOT / "schemas" / "greek_source_map.json"
 OUTPUT_DIR = REPO_ROOT / "staging" / "reference" / "greek"
 

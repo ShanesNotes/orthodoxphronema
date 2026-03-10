@@ -23,7 +23,11 @@ _QUOTE_MAP = str.maketrans({
     '\u2014': '-',   # em dash
 })
 
-RE_ANCHOR_PREFIX = re.compile(r'^[A-Z0-9]+\.\d+:\d+\s+')
+import sys as _sys; from pathlib import Path as _Path
+_R = _Path(__file__).resolve().parent
+while _R != _R.parent and not (_R / "pipeline" / "__init__.py").exists(): _R = _R.parent
+if str(_R) not in _sys.path: _sys.path.insert(0, str(_R))
+from pipeline.common.patterns import RE_ANCHOR_PREFIX
 
 
 def strip_anchor(line: str) -> str:

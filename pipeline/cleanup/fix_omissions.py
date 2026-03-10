@@ -23,7 +23,6 @@ Usage:
 from __future__ import annotations
 
 import argparse
-import importlib.util
 import json
 import re
 import sys
@@ -34,24 +33,21 @@ from datetime import date
 # ---------------------------------------------------------------------------
 # Repo layout
 # ---------------------------------------------------------------------------
-REPO_ROOT = Path(__file__).parent.parent.parent
-ALLOWLIST_DIR = Path(__file__).parent / "allowlists"
-_DEFAULT_BRENTON_DIR = REPO_ROOT / "staging" / "reference" / "brenton"
+import sys as _sys; from pathlib import Path as _Path
+_R = _Path(__file__).resolve().parent
+while _R != _R.parent and not (_R / "pipeline" / "__init__.py").exists(): _R = _R.parent
+if str(_R) not in _sys.path: _sys.path.insert(0, str(_R))
+from pipeline.common.paths import REPO_ROOT, BRENTON_DIR as _BRENTON_DIR
+from pipeline.common.patterns import SHORT_PREFIXES as _SHORT_PREFIXES
 
-# Short function-word prefixes eligible for auto-split (R7)
-# Must be in this set; next token must be >= 3 chars
-_SHORT_PREFIXES = {"a", "an", "in", "of", "to", "on", "as", "at", "by", "or"}
+ALLOWLIST_DIR = Path(__file__).parent / "allowlists"
+_DEFAULT_BRENTON_DIR = _BRENTON_DIR
 
 
 def _load_normalize_module():
     """Lazy-load the shared normalize_reference_text module."""
-    spec = importlib.util.spec_from_file_location(
-        "normalize_reference_text",
-        REPO_ROOT / "pipeline" / "reference" / "normalize_reference_text.py"
-    )
-    mod = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(mod)
-    return mod
+    from pipeline.reference import normalize_reference_text
+    return normalize_reference_text
 
 
 # ---------------------------------------------------------------------------

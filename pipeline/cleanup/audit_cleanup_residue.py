@@ -18,32 +18,30 @@ Usage:
 from __future__ import annotations
 
 import argparse
-import importlib.util
 import json
 import re
 import sys
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).parent.parent.parent
-_DEFAULT_BRENTON_DIR = REPO_ROOT / "staging" / "reference" / "brenton"
+import sys as _sys; from pathlib import Path as _Path
+_R = _Path(__file__).resolve().parent
+while _R != _R.parent and not (_R / "pipeline" / "__init__.py").exists(): _R = _R.parent
+if str(_R) not in _sys.path: _sys.path.insert(0, str(_R))
+from pipeline.common.paths import REPO_ROOT, BRENTON_DIR as _BRENTON_DIR
+from pipeline.common.patterns import RE_VERSE_LINE, SHORT_PREFIXES
 
-# Short prefixes to check for fused_article class
-_SHORT_PREFIXES = {"a", "an", "in", "of", "to", "on", "as", "at", "by", "or", "the"}
+_DEFAULT_BRENTON_DIR = _BRENTON_DIR
+
+# Short prefixes to check for fused_article class — includes "the" (superset)
+_SHORT_PREFIXES = SHORT_PREFIXES | {"the"}
 
 # Maximum Levenshtein distance to consider tokens "similar enough" for compound detection
 _MAX_EDIT_DIST = 2
 
-RE_VERSE_LINE = re.compile(r'^([A-Z0-9]+)\.(\d+):(\d+) (.+)')
-
 
 def _load_normalize_module():
-    spec = importlib.util.spec_from_file_location(
-        "normalize_reference_text",
-        REPO_ROOT / "pipeline" / "reference" / "normalize_reference_text.py"
-    )
-    mod = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(mod)
-    return mod
+    from pipeline.reference import normalize_reference_text
+    return normalize_reference_text
 
 
 def levenshtein(a: str, b: str) -> int:

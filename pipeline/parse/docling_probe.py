@@ -20,8 +20,12 @@ from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import PdfPipelineOptions
 
-REPO_ROOT = Path(__file__).parent.parent.parent
-PDF_PATH  = REPO_ROOT / "src.texts" / "the_orthodox_study_bible.pdf"
+import sys as _sys; from pathlib import Path as _Path
+_R = _Path(__file__).resolve().parent
+while _R != _R.parent and not (_R / "pipeline" / "__init__.py").exists(): _R = _R.parent
+if str(_R) not in _sys.path: _sys.path.insert(0, str(_R))
+from pipeline.common.paths import REPO_ROOT, PDF_PATH
+
 PROBE_OUT = REPO_ROOT / "staging" / "raw" / "probe"
 
 

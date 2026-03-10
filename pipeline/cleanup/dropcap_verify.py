@@ -36,11 +36,12 @@ import re
 import sys
 from pathlib import Path
 
-_HERE = Path(__file__).parent
-_REPO_ROOT = _HERE.parent.parent
-_DEFAULT_BRENTON_DIR = _REPO_ROOT / "staging" / "reference" / "brenton"
-
-RE_VERSE_LINE = re.compile(r'^([A-Z0-9]+\.(\d+):(\d+)) (.+)')
+import sys as _sys; from pathlib import Path as _Path
+_R = _Path(__file__).resolve().parent
+while _R != _R.parent and not (_R / "pipeline" / "__init__.py").exists(): _R = _R.parent
+if str(_R) not in _sys.path: _sys.path.insert(0, str(_R))
+from pipeline.common.paths import REPO_ROOT as _REPO_ROOT, BRENTON_DIR as _DEFAULT_BRENTON_DIR
+from pipeline.common.patterns import RE_VERSE_LINE
 RE_CHAPTER_VERSE_1 = re.compile(r'^[A-Z0-9]+\.\d+:1$')
 
 # ---------------------------------------------------------------------------
@@ -91,14 +92,8 @@ _REJECT_THRESHOLD  = 0.40   # < this → Brenton disagrees → downgrade to ambi
 
 
 def _load_normalize():
-    import importlib.util
-    spec = importlib.util.spec_from_file_location(
-        "normalize_reference_text",
-        _REPO_ROOT / "pipeline" / "reference" / "normalize_reference_text.py",
-    )
-    mod = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(mod)
-    return mod
+    from pipeline.reference import normalize_reference_text
+    return normalize_reference_text
 
 
 def _compare_prefix(repaired_text: str, brenton_verse: str, norm) -> float:
@@ -139,10 +134,13 @@ def classify_dropcap(
     matched_prefix: str | None = None
     residual_inherently_ambiguous = False
 
-    for residual_prefix, repair_prefix, _ in RESIDUAL_MAP:
+    for residual_prefix, repair_prefix, missing_count in RESIDUAL_MAP:
         if text.startswith(residual_prefix):
             matched_repair = repair_prefix + text[len(residual_prefix):]
-            matched_prefix = repair_prefix
+            # missing_prefix = only the missing character(s), not the full repair prefix.
+            # apply_repairs() prepends this to the existing text, so it must be just
+            # the dropped character(s): e.g. "T" for "hen"→"Then", not "Then ".
+            matched_prefix = repair_prefix[:missing_count]
             if residual_prefix in _ALWAYS_AMBIGUOUS_RESIDUALS:
                 residual_inherently_ambiguous = True
             break
@@ -260,8 +258,8 @@ def apply_repairs(path: Path, candidates_path: Path) -> int:
 
     repairs: dict[str, str] = {}
     for c in data.get("candidates", []):
-        if c["classification"] in ("confirmed_auto", "human_verified") and c.get("proposed_repair"):
-            repairs[c["anchor"]] = c["proposed_repair"]
+        if c["classification"] in ("confirmed_auto", "human_verified") and c.get("missing_prefix"):
+            repairs[c["anchor"]] = c["missing_prefix"]
 
     if not repairs:
         print("No applicable repairs found in candidates JSON.")
@@ -274,8 +272,9 @@ def apply_repairs(path: Path, candidates_path: Path) -> int:
         m = RE_VERSE_LINE.match(line.rstrip("\n"))
         if m and m.group(1) in repairs:
             anchor = m.group(1)
-            new_text = repairs[anchor]
-            new_lines.append(f"{anchor} {new_text}\n")
+            prefix = repairs[anchor]
+            old_text = m.group(4)
+            new_lines.append(f"{anchor} {prefix}{old_text}\n")
             count += 1
             continue
         new_lines.append(line)

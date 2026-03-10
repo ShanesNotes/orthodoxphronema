@@ -1,0 +1,14 @@
+[project]
+name = "orthodoxphronema"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+extract = ["docling"]
+dev = ["pytest", "pytest-cov"]
+
+[tool.setuptools.packages.find]
+include = ["pipeline*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

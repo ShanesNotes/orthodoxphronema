@@ -9,3 +9,15 @@ staging/quarantine/
 __pycache__/
 *.pyc
 .env
+
+# Build / tooling artifacts
+.coverage
+*.egg-info/
+orthodoxphronema.egg-info/
+nodesource_setup.sh
+
+# Claude Code session data
+.claude/
+
+# Source texts (large, not for git)
+src.texts/
