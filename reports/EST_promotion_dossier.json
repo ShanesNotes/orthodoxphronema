@@ -1,0 +1,83 @@
+{
+  "book_code": "EST",
+  "testament": "OT",
+  "timestamp": "2026-03-10T09:54:47.240015",
+  "registry_version": "1.3.0",
+  "body_checksum": "c4ec58789e4efc89caf4172e4b2ff4a3e591cdb706f0ae9b0bab28437f85d088",
+  "validation": {
+    "V1": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V2": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V3": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V4": {
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.4: jumps from 5 to 7"
+      ]
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 194/195 verses (99.5%); gap of 1"
+      ]
+    },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V9": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V10": {
+      "status": "WARN",
+      "messages": [
+        "V10  Absorbed content: EST.4:6 likely present in EST.4:7 (Brenton word match: 10/18 = 56%)"
+      ]
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
+      "status": "PASS",
+      "messages": []
+    }
+  },
+  "residuals_sidecar": {
+    "book": "EST",
+    "file": "staging/validated/OT/EST.md",
+    "generated": "2026-03-09",
+    "ratified_by": null,
+    "ratified_date": null,
+    "residuals": [
+      {
+        "anchor": "EST.4:6",
+        "classification": "docling_issue",
+        "description": "Verse absent from Docling extraction. OSB verse 6 not detected \u2014 Brenton content maps to EST.4:7 (versification offset).",
+        "ratified": true
+      }
+    ]
+  },
+  "decision": "blocked",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/EST.md",
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/EST_editorial_candidates.json",
+  "residuals_path": "/home/ark/orthodoxphronema/staging/validated/OT/EST_residuals.json"
+}

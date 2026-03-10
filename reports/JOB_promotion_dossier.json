@@ -1,0 +1,376 @@
+{
+  "book_code": "JOB",
+  "testament": "OT",
+  "timestamp": "2026-03-10T14:19:46.326977",
+  "registry_version": "1.3.0",
+  "body_checksum": "324329970072be29b25de2869375d29d30c7256b36339338844b620f89fd2121",
+  "validation": {
+    "V1": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V2": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V3": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V4": {
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.8: jumps from 0 to 2",
+        "V4   Missing verses in ch.9: jumps from 15 to 17",
+        "V4   Missing verses in ch.15: jumps from 1 to 8",
+        "V4   Missing verses in ch.17: jumps from 0 to 3",
+        "V4   Missing verses in ch.18: jumps from 0 to 3",
+        "V4   Missing verses in ch.18: jumps from 11 to 13",
+        "V4   Missing verses in ch.19: jumps from 2 to 5",
+        "V4   Missing verses in ch.20: jumps from 0 to 2",
+        "V4   Missing verses in ch.21: jumps from 0 to 2",
+        "V4   Missing verses in ch.22: jumps from 0 to 2",
+        "V4   Missing verses in ch.23: jumps from 5 to 10",
+        "V4   Missing verses in ch.23: jumps from 11 to 16",
+        "V4   Missing verses in ch.24: jumps from 0 to 3",
+        "V4   Missing verses in ch.25: jumps from 0 to 2",
+        "V4   Missing verses in ch.26: jumps from 0 to 2",
+        "V4   Missing verses in ch.27: jumps from 21 to 23",
+        "V4   Missing verses in ch.34: jumps from 0 to 3",
+        "V4   Missing verses in ch.36: jumps from 28 to 31",
+        "V4   Missing verses in ch.37: jumps from 11 to 13",
+        "V4   Missing verses in ch.39: jumps from 0 to 2",
+        "V4   Missing verses in ch.40: jumps from 0 to 2",
+        "V4   Missing verses in ch.40: jumps from 2 to 4"
+      ]
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 1047/1082 verses (96.8%); gap of 35"
+      ]
+    },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V9": {
+      "status": "PASS",
+      "messages": []
+    }
+  },
+  "residuals_sidecar": {
+    "residuals": [
+      {
+        "anchor": "JOB.8:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.9:16",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.12:25",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.13:28",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.15:2",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.15:3",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.15:4",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.15:5",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.15:6",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.15:7",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.17:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.17:2",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.18:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.18:2",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.18:12",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.19:3",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.19:4",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.20:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.21:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.22:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.23:6",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.23:7",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.23:8",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.23:9",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.23:12",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.23:13",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.23:14",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.23:15",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.23:17",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.24:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.24:2",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.25:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.26:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.27:22",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.30:31",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.34:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.34:2",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.36:29",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.36:30",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.37:12",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.39:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.40:1",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JOB.40:3",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+        "blocking": false,
+        "ratified": false
+      }
+    ]
+  },
+  "decision": "dry-run"
+}

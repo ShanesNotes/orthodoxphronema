@@ -1,0 +1,3387 @@
+{
+  "generated": "2026-03-10",
+  "registry_version": "1.3.0",
+  "status_ladder": [
+    "extracting",
+    "structurally_passable",
+    "editorially_clean",
+    "promotion_ready",
+    "promoted"
+  ],
+  "counts_by_status": {
+    "promoted": 2,
+    "promotion_ready": 21,
+    "editorially_clean": 14,
+    "structurally_passable": 10,
+    "extracting": 29
+  },
+  "books": [
+    {
+      "book_code": "GEN",
+      "testament": "OT",
+      "status": "promoted",
+      "status_reasons": [
+        "canon artifact exists"
+      ],
+      "decision": "blocked",
+      "body_checksum": "93854d9479053d67b26658d26215ecdae9591d9e59c3c40aaf277fb848e22e4e",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "93854d9479053d67b26658d26215ecdae9591d9e59c3c40aaf277fb848e22e4e"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 1,
+        "blocking_count": 0,
+        "ratified_by": "human",
+        "ratified_date": "2026-03-08",
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "EXO",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "e3ad73beaa512555a5dc4909c6e373cdb3e06b30ceb5b5be47545ca31e8ff89f",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "e3ad73beaa512555a5dc4909c6e373cdb3e06b30ceb5b5be47545ca31e8ff89f"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": "human",
+        "ratified_date": "2026-03-08",
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "LEV",
+      "testament": "OT",
+      "status": "promoted",
+      "status_reasons": [
+        "canon artifact exists"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "22f0ddd262b2081fd9921210a4e466990866416b506ba8de103baf1e6bb95317",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "22f0ddd262b2081fd9921210a4e466990866416b506ba8de103baf1e6bb95317"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": "ark",
+        "ratified_date": "2026-03-08",
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "NUM",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "8007d940b0c24e32144a3b993e5d16eb9dff9c1f8acc0f5647ef50313cfb6b5b",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "8007d940b0c24e32144a3b993e5d16eb9dff9c1f8acc0f5647ef50313cfb6b5b"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "DEU",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "a23e59abe917e4ac1416776fedb0483a3448947389ce16f8255b82ddd51355bd",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "a23e59abe917e4ac1416776fedb0483a3448947389ce16f8255b82ddd51355bd"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "JOS",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "2a0bf4dfb58c2651b12e56ff5e15f67bed34552776c1ea07d336649d8a22d0a8",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "2a0bf4dfb58c2651b12e56ff5e15f67bed34552776c1ea07d336649d8a22d0a8"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "JDG",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "residual exceptions are not yet human-ratified"
+      ],
+      "decision": "blocked",
+      "body_checksum": "c66738703d9cf187735f4ccfef753623e653ab5f9348318f8a383ff6f22b746f",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "c66738703d9cf187735f4ccfef753623e653ab5f9348318f8a383ff6f22b746f"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 1,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "RUT",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "c434f2fb9b3231a36c723cc96f8d282ba9f9ccf2b1f5bc48aba3862a5819837f",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "c434f2fb9b3231a36c723cc96f8d282ba9f9ccf2b1f5bc48aba3862a5819837f"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "1SA",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "residual exceptions are not yet human-ratified"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "e5594b968882bd6f6ba1a3ad8c23da4295dcc6643e3629e3116119ffd25ec75b",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "e5594b968882bd6f6ba1a3ad8c23da4295dcc6643e3629e3116119ffd25ec75b"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 19,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "2SA",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "residual exceptions are not yet human-ratified"
+      ],
+      "decision": "blocked",
+      "body_checksum": "f8cf321153f6b4905ce6f61c01a9a4aeb8c705e04d8c0f6a0aaaa25aec5dfa03",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "f8cf321153f6b4905ce6f61c01a9a4aeb8c705e04d8c0f6a0aaaa25aec5dfa03"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 1,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "1KI",
+      "testament": "OT",
+      "status": "structurally_passable",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "validation still reports editorial issues: V12"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "bdfd39bc6d96c63391f6e07e1f4199453fd37fc3766281f3b4bd373cb8074c0f",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "bdfd39bc6d96c63391f6e07e1f4199453fd37fc3766281f3b4bd373cb8074c0f"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "WARN"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "2KI",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "087eeafe1c7b398d869ed4441f2e4adcf691fbfeb9a05c9e7a4bd32c6e665b03",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "087eeafe1c7b398d869ed4441f2e4adcf691fbfeb9a05c9e7a4bd32c6e665b03"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "1CH",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "da0bca87fa232cca91aa54c0b50ab47fe80fa98734e62de628697361c30aa4e0",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "da0bca87fa232cca91aa54c0b50ab47fe80fa98734e62de628697361c30aa4e0"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "2CH",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "9b2e1344b733a2ecfe6d56832a6d1412a1fed1035940134cab3ac03f4ce0a86e",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "9b2e1344b733a2ecfe6d56832a6d1412a1fed1035940134cab3ac03f4ce0a86e"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "1ES",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion dossier checksum does not match current staged file"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "3de23226d2de4ab8c5423422063c32ba349117ca15793b8ae9488303d06aa60a",
+      "staged_matches_dossier": false,
+      "dossier_freshness": {
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "39043a44883839ae9dc5ed2a9f87fa8aedf5b86b605bf9650eba6aaba9fb1802"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "EZR",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "3235b847dc4dcd7d46e43c6d9f20248e115237858cfce539caaae0649cc65630",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "3235b847dc4dcd7d46e43c6d9f20248e115237858cfce539caaae0649cc65630"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "NEH",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "live V4 warning still present"
+      ],
+      "decision": "blocked",
+      "body_checksum": "bd3f42b362f2416336eaebf9ea2ee7b1355ea9c3872df814b18171ccb64a42d4",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "bd3f42b362f2416336eaebf9ea2ee7b1355ea9c3872df814b18171ccb64a42d4"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 7,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "TOB",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "bbb7e18a5d3c13acba910be45f96d1889b3f2892971c4588c3e364bf4cb67fd7",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "bbb7e18a5d3c13acba910be45f96d1889b3f2892971c4588c3e364bf4cb67fd7"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "JDT",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "5f701366f21d1ff5e56d5092f4d441b09208dbc498dd066aaf66ff288e00d115",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "5f701366f21d1ff5e56d5092f4d441b09208dbc498dd066aaf66ff288e00d115"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "EST",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "live V4 warning still present"
+      ],
+      "decision": "blocked",
+      "body_checksum": "c4ec58789e4efc89caf4172e4b2ff4a3e591cdb706f0ae9b0bab28437f85d088",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "c4ec58789e4efc89caf4172e4b2ff4a3e591cdb706f0ae9b0bab28437f85d088"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 1,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "1MA",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "live V4 warning still present"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "fb4b7d5e40069b698911e65b60eed0b78e2a6ce5b4d5c27206a016d54f18481b",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "fb4b7d5e40069b698911e65b60eed0b78e2a6ce5b4d5c27206a016d54f18481b"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 2,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "2MA",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "live V4 warning still present"
+      ],
+      "decision": "blocked",
+      "body_checksum": "a704b81df96e779dd2c063f9749d960f102ea9da2e5ca7afc664fb22faf46f71",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "a704b81df96e779dd2c063f9749d960f102ea9da2e5ca7afc664fb22faf46f71"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 3,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "3MA",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "residual exceptions are not yet human-ratified"
+      ],
+      "decision": "blocked",
+      "body_checksum": "22155a3cbf06bde0eaf8ec6840f3948d73ee7d4c4d0bc2be6b6dbfeb3061df86",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "22155a3cbf06bde0eaf8ec6840f3948d73ee7d4c4d0bc2be6b6dbfeb3061df86"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 1,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "PSA",
+      "testament": "OT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": "9b3542d00a4f2d2c43b6d153246785f7dd0effb24e7fb4e0d0c7e858886b0e32"
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "PRO",
+      "testament": "OT",
+      "status": "extracting",
+      "status_reasons": [
+        "hard validation failures: V2"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "3aecdfd263aff9d593a0303010fbe46197f2b51ed97e48303810621eecdca504",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "3aecdfd263aff9d593a0303010fbe46197f2b51ed97e48303810621eecdca504"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "WARN",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 130,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 130,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "ECC",
+      "testament": "OT",
+      "status": "structurally_passable",
+      "status_reasons": [
+        "validation is structurally passable",
+        "1 editorial candidate(s) remain: chapter_open_dropcap=1"
+      ],
+      "decision": "blocked",
+      "body_checksum": "af29f3f1b08bd597e3f67e85cb2cf2ff4bbf6ad3bc1642a10c39e634901a5570",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "af29f3f1b08bd597e3f67e85cb2cf2ff4bbf6ad3bc1642a10c39e634901a5570"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 1,
+        "by_category": {
+          "chapter_open_dropcap": 1
+        }
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "SNG",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "054213848edbc41e31f2cdcfdff840bb92600d5684dc6360d11189ae4eaaa9f8",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "054213848edbc41e31f2cdcfdff840bb92600d5684dc6360d11189ae4eaaa9f8"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "JOB",
+      "testament": "OT",
+      "status": "structurally_passable",
+      "status_reasons": [
+        "validation is structurally passable",
+        "4 editorial candidate(s) remain: chapter_open_dropcap=4"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "324329970072be29b25de2869375d29d30c7256b36339338844b620f89fd2121",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "324329970072be29b25de2869375d29d30c7256b36339338844b620f89fd2121"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 4,
+        "by_category": {
+          "chapter_open_dropcap": 4
+        }
+      },
+      "residuals": {
+        "count": 43,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 43,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "WIS",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "2544e6570859b03099c20077476f70889f5ba55cf5a5158edd2f2473a58878cd",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "2544e6570859b03099c20077476f70889f5ba55cf5a5158edd2f2473a58878cd"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "SIR",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "live V4 warning still present"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "697771fcc815e7a54d8d1ae05bdae16b85e9ddd63a89c9373315b9cbde9c85f8",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "697771fcc815e7a54d8d1ae05bdae16b85e9ddd63a89c9373315b9cbde9c85f8"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 63,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 63,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "HOS",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "live V4 warning still present"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "c73985b35e1b10b5b45df5b61f71db0e993d5d596e11cfac560dfa57b6956c3a",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "c73985b35e1b10b5b45df5b61f71db0e993d5d596e11cfac560dfa57b6956c3a"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 10,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 10,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "AMO",
+      "testament": "OT",
+      "status": "structurally_passable",
+      "status_reasons": [
+        "validation is structurally passable",
+        "2 editorial candidate(s) remain: chapter_open_dropcap=2"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "b45ea77b63405376e07db6c4876dd6d0c10e9c233b3433edbd3392a3272b6da1",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "b45ea77b63405376e07db6c4876dd6d0c10e9c233b3433edbd3392a3272b6da1"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 2,
+        "by_category": {
+          "chapter_open_dropcap": 2
+        }
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "MIC",
+      "testament": "OT",
+      "status": "structurally_passable",
+      "status_reasons": [
+        "validation is structurally passable",
+        "5 editorial candidate(s) remain: chapter_open_dropcap=5"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "3b7dc4a9bc39731b36903f4db004f023429bdcefe9529769f5a570e304a291a3",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "3b7dc4a9bc39731b36903f4db004f023429bdcefe9529769f5a570e304a291a3"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 5,
+        "by_category": {
+          "chapter_open_dropcap": 5
+        }
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "JOL",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "live V4 warning still present"
+      ],
+      "decision": "blocked",
+      "body_checksum": "cb69a026ec0fef2d3ded3812094aad199ca4ef25cf26aa16b3dc79aa6be5ae3b",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "cb69a026ec0fef2d3ded3812094aad199ca4ef25cf26aa16b3dc79aa6be5ae3b"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "OBA",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "41d9b894cdaff9f09308bb010ddcb59bc083a324da721a959ea1a1d85060c337",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "41d9b894cdaff9f09308bb010ddcb59bc083a324da721a959ea1a1d85060c337"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "JON",
+      "testament": "OT",
+      "status": "structurally_passable",
+      "status_reasons": [
+        "validation is structurally passable",
+        "3 editorial candidate(s) remain: chapter_open_dropcap=3"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "37154ea04f316a5b34d66381e1d5f1192cae91416215979683d85e9ba60dc95d",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "37154ea04f316a5b34d66381e1d5f1192cae91416215979683d85e9ba60dc95d"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 3,
+        "by_category": {
+          "chapter_open_dropcap": 3
+        }
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "NAH",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "3204d48bd295d9caa8856327ab54f222d2f6f949711d845a45e0faf3b8a9a529",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "3204d48bd295d9caa8856327ab54f222d2f6f949711d845a45e0faf3b8a9a529"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "HAB",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "live V4 warning still present"
+      ],
+      "decision": "blocked",
+      "body_checksum": "a1ec9599ffa002071a7e61c9066c90ed0aad7db67292022f0d1bb72af71bffa7",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "a1ec9599ffa002071a7e61c9066c90ed0aad7db67292022f0d1bb72af71bffa7"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "ZEP",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "6871c017aab748f5f41faf5f30ab4d88ca7c82146573587d9a1dc874e141f750",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "6871c017aab748f5f41faf5f30ab4d88ca7c82146573587d9a1dc874e141f750"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "HAG",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "769a8b29deed6ac4b269a227f97f1a65c2c6dc13d699517787d23d4b6b12883e",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "769a8b29deed6ac4b269a227f97f1a65c2c6dc13d699517787d23d4b6b12883e"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "ZEC",
+      "testament": "OT",
+      "status": "structurally_passable",
+      "status_reasons": [
+        "validation is structurally passable",
+        "13 editorial candidate(s) remain: chapter_open_dropcap=13"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "747904f7b65265eae1286de8079377714721617e6348a73ac28226fe97f7f4ae",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "747904f7b65265eae1286de8079377714721617e6348a73ac28226fe97f7f4ae"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 13,
+        "by_category": {
+          "chapter_open_dropcap": 13
+        }
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "MAL",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "93aa32eed243c3489d8fa9b301a07a9d4ea60d7fb2b5915efdc6229d28ff4f44",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "93aa32eed243c3489d8fa9b301a07a9d4ea60d7fb2b5915efdc6229d28ff4f44"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "ISA",
+      "testament": "OT",
+      "status": "structurally_passable",
+      "status_reasons": [
+        "validation is structurally passable",
+        "45 editorial candidate(s) remain: chapter_open_dropcap=45"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "fa79d1232f4bfd440381895ffc41a5376da162ded3724ce519cfe8a75a2a5208",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "fa79d1232f4bfd440381895ffc41a5376da162ded3724ce519cfe8a75a2a5208"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 45,
+        "by_category": {
+          "chapter_open_dropcap": 45
+        }
+      },
+      "residuals": {
+        "count": 4,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 4,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "JER",
+      "testament": "OT",
+      "status": "structurally_passable",
+      "status_reasons": [
+        "validation is structurally passable",
+        "17 editorial candidate(s) remain: chapter_open_dropcap=17"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "dfc563c82bafb9db3767faae62d3ab025c8f07f908cabc9b8ffae7deaf7b3418",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "dfc563c82bafb9db3767faae62d3ab025c8f07f908cabc9b8ffae7deaf7b3418"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 17,
+        "by_category": {
+          "chapter_open_dropcap": 17
+        }
+      },
+      "residuals": {
+        "count": 19,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 19,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "BAR",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "63e8d6ade0f413ae32a72c9242ba33e0f55fe3067f847cc4928f9e3c22c95c5c",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "63e8d6ade0f413ae32a72c9242ba33e0f55fe3067f847cc4928f9e3c22c95c5c"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "LAM",
+      "testament": "OT",
+      "status": "editorially_clean",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion dossier checksum does not match current staged file"
+      ],
+      "decision": "blocked",
+      "body_checksum": "8da8ccf8de58c3a6e4fcb33359775c4afa9b564e61cfa03ff10fbd3abfd8f711",
+      "staged_matches_dossier": false,
+      "dossier_freshness": {
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "325acd406fbe278627d41d50711a151f6fdd97cf003226d0247850668628adb3"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 6,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 6,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "LJE",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "d82e92f4d41a014489dedd80a7f4501d64067ce029d15a90bcf13ca1586ba989",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "d82e92f4d41a014489dedd80a7f4501d64067ce029d15a90bcf13ca1586ba989"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "WARN",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "EZK",
+      "testament": "OT",
+      "status": "structurally_passable",
+      "status_reasons": [
+        "validation is structurally passable",
+        "38 editorial candidate(s) remain: chapter_open_dropcap=38"
+      ],
+      "decision": "blocked",
+      "body_checksum": "b13ad1a0bf90a7747bf8bd763305ad68139da2b144d6322e9b8dc2ed45566548",
+      "staged_matches_dossier": false,
+      "dossier_freshness": {
+        "status": "STALE",
+        "refresh_priority": "medium",
+        "staged_body_checksum": "6e22135d5e811dec0daee3be09efc34b7531faaca9263074ed054cc4e2380a33"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "PASS",
+        "V12": "WARN"
+      },
+      "editorial": {
+        "total_candidates": 38,
+        "by_category": {
+          "chapter_open_dropcap": 38
+        }
+      },
+      "residuals": {
+        "count": 9,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 9,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "DAN",
+      "testament": "OT",
+      "status": "promotion_ready",
+      "status_reasons": [
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
+      ],
+      "decision": "dry-run",
+      "body_checksum": "d9d5b70fdb76c9808d3bfc594a2c5f7ed1c7afbcc05595b0d715615f6395df9b",
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "d9d5b70fdb76c9808d3bfc594a2c5f7ed1c7afbcc05595b0d715615f6395df9b"
+      },
+      "validation": {
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "MAT",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "MRK",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "LUK",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "JOH",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "ACT",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "ROM",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "1CO",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "2CO",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "GAL",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "EPH",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "PHP",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "COL",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "1TH",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "2TH",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "1TI",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "2TI",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "TIT",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "PHM",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "HEB",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "JAS",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "1PE",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "2PE",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "1JN",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "2JN",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "3JN",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "JUD",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    },
+    {
+      "book_code": "REV",
+      "testament": "NT",
+      "status": "extracting",
+      "status_reasons": [
+        "no promotion dossier"
+      ],
+      "decision": null,
+      "body_checksum": null,
+      "staged_matches_dossier": true,
+      "dossier_freshness": {
+        "status": "NO_DOSSIER",
+        "refresh_priority": "none",
+        "staged_body_checksum": null
+      },
+      "validation": {
+        "V1": "MISSING",
+        "V2": "MISSING",
+        "V3": "MISSING",
+        "V4": "MISSING",
+        "V5": "MISSING",
+        "V6": "MISSING",
+        "V7": "MISSING",
+        "V8": "MISSING",
+        "V9": "MISSING",
+        "V11": "MISSING",
+        "V12": "MISSING"
+      },
+      "editorial": {
+        "total_candidates": 0,
+        "by_category": {}
+      },
+      "residuals": {
+        "count": 0,
+        "blocking_count": 0,
+        "ratified_by": null,
+        "ratified_date": null,
+        "unratified_count": 0,
+        "per_entry_pending_count": 0,
+        "structural_hint_count": 0,
+        "schema_mismatch_count": 0
+      }
+    }
+  ]
+}

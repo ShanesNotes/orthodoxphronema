@@ -1,0 +1,66 @@
+{
+  "book_code": "DEU",
+  "testament": "OT",
+  "timestamp": "2026-03-10T14:19:45.859391",
+  "registry_version": "1.3.0",
+  "body_checksum": "a23e59abe917e4ac1416776fedb0483a3448947389ce16f8255b82ddd51355bd",
+  "validation": {
+    "V1": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V2": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V3": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V4": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 961/959 verses (100.2%); gap of -2"
+      ]
+    },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V9": {
+      "status": "PASS",
+      "messages": []
+    }
+  },
+  "residuals_sidecar": {
+    "book_code": "DEU",
+    "registry_version": "1.2.2",
+    "ratified_by": null,
+    "ratified_date": null,
+    "residuals": [],
+    "resolved": [
+      {
+        "anchor": "DEU.33:8",
+        "classification": "docling_issue",
+        "description": "Verse missing from extraction. (Fixed: recovered from fusion in 33:7)",
+        "resolved_date": "2026-03-10"
+      }
+    ],
+    "versification_notes": [
+      "DEU ch33: OSB has 32 verses vs Brenton 29 \u2014 over-count is genuine LXX versification difference (Brenton 33:23 and 33:29 split into multiple OSB verses)"
+    ]
+  },
+  "decision": "dry-run"
+}

@@ -1,0 +1,531 @@
+{
+  "total_books": 76,
+  "matched": 22,
+  "mismatched": 21,
+  "overridden": 6,
+  "missing_cvc": 0,
+  "no_brenton": 27,
+  "affected_books": [
+    "GEN",
+    "NUM",
+    "DEU",
+    "JOS",
+    "2KI",
+    "1CH",
+    "2CH",
+    "1ES",
+    "NEH",
+    "PRO",
+    "ECC",
+    "SNG",
+    "HOS",
+    "AMO",
+    "MIC",
+    "JON",
+    "NAH",
+    "ZEC",
+    "ISA",
+    "JER",
+    "LAM"
+  ],
+  "entries": [
+    {
+      "code": "GEN",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        32,
+        35
+      ]
+    },
+    {
+      "code": "EXO",
+      "status": "OK"
+    },
+    {
+      "code": "LEV",
+      "status": "OK"
+    },
+    {
+      "code": "NUM",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        16,
+        17,
+        29,
+        30
+      ]
+    },
+    {
+      "code": "DEU",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        12,
+        13,
+        14,
+        22,
+        23
+      ]
+    },
+    {
+      "code": "JOS",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        6,
+        8,
+        9,
+        10,
+        13,
+        15,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "code": "JDG",
+      "status": "OK"
+    },
+    {
+      "code": "RUT",
+      "status": "OK"
+    },
+    {
+      "code": "1SA",
+      "status": "OVERRIDE_ONLY",
+      "overridden_chapters": [
+        1,
+        17,
+        18
+      ]
+    },
+    {
+      "code": "2SA",
+      "status": "OK"
+    },
+    {
+      "code": "1KI",
+      "status": "OK"
+    },
+    {
+      "code": "2KI",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        1,
+        11,
+        12
+      ]
+    },
+    {
+      "code": "1CH",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        1,
+        5,
+        6,
+        12
+      ]
+    },
+    {
+      "code": "2CH",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        1,
+        2,
+        3,
+        13,
+        14,
+        27,
+        35,
+        36
+      ]
+    },
+    {
+      "code": "1ES",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        1,
+        2,
+        5,
+        6,
+        8
+      ]
+    },
+    {
+      "code": "EZR",
+      "status": "OVERRIDE_ONLY",
+      "reason": "OSB separates Ezra/Nehemiah"
+    },
+    {
+      "code": "NEH",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        4,
+        7,
+        11,
+        12
+      ]
+    },
+    {
+      "code": "TOB",
+      "status": "OK"
+    },
+    {
+      "code": "JDT",
+      "status": "OK"
+    },
+    {
+      "code": "EST",
+      "status": "OVERRIDE_ONLY",
+      "overridden_chapters": [
+        1,
+        3,
+        4,
+        8,
+        10
+      ]
+    },
+    {
+      "code": "1MA",
+      "status": "OK"
+    },
+    {
+      "code": "2MA",
+      "status": "OK"
+    },
+    {
+      "code": "3MA",
+      "status": "OK"
+    },
+    {
+      "code": "PSA",
+      "status": "OK"
+    },
+    {
+      "code": "PRO",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        1,
+        3,
+        4,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        30,
+        31
+      ]
+    },
+    {
+      "code": "ECC",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        4,
+        5
+      ]
+    },
+    {
+      "code": "SNG",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "code": "JOB",
+      "status": "OK"
+    },
+    {
+      "code": "WIS",
+      "status": "OK"
+    },
+    {
+      "code": "SIR",
+      "status": "OK"
+    },
+    {
+      "code": "HOS",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        1,
+        2,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "code": "AMO",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        9
+      ]
+    },
+    {
+      "code": "MIC",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        4,
+        5
+      ]
+    },
+    {
+      "code": "JOL",
+      "status": "OVERRIDE_ONLY",
+      "reason": "OSB uses 3-chapter division"
+    },
+    {
+      "code": "OBA",
+      "status": "OK"
+    },
+    {
+      "code": "JON",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        1,
+        2
+      ]
+    },
+    {
+      "code": "NAH",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        1,
+        2
+      ]
+    },
+    {
+      "code": "HAB",
+      "status": "OK"
+    },
+    {
+      "code": "ZEP",
+      "status": "OK"
+    },
+    {
+      "code": "HAG",
+      "status": "OK"
+    },
+    {
+      "code": "ZEC",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        1,
+        2
+      ]
+    },
+    {
+      "code": "MAL",
+      "status": "OVERRIDE_ONLY",
+      "reason": "OSB uses 4-chapter division"
+    },
+    {
+      "code": "ISA",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        2,
+        8,
+        9,
+        56,
+        64
+      ]
+    },
+    {
+      "code": "JER",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        2,
+        7,
+        8,
+        9,
+        10,
+        11,
+        17,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    {
+      "code": "BAR",
+      "status": "OK"
+    },
+    {
+      "code": "LAM",
+      "status": "CVC_MISMATCH",
+      "mismatched_chapters": [
+        3,
+        5
+      ]
+    },
+    {
+      "code": "LJE",
+      "status": "OK"
+    },
+    {
+      "code": "EZK",
+      "status": "OK"
+    },
+    {
+      "code": "DAN",
+      "status": "OVERRIDE_ONLY",
+      "reason": "OSB includes Susanna (ch13) + Bel (ch14)"
+    },
+    {
+      "code": "MAT",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "MRK",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "LUK",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "JOH",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "ACT",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "ROM",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "1CO",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "2CO",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "GAL",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "EPH",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "PHP",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "COL",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "1TH",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "2TH",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "1TI",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "2TI",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "TIT",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "PHM",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "HEB",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "JAS",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "1PE",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "2PE",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "1JN",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "2JN",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "3JN",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "JUD",
+      "status": "NO_BRENTON"
+    },
+    {
+      "code": "REV",
+      "status": "NO_BRENTON"
+    }
+  ]
+}

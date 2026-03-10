@@ -1,0 +1,185 @@
+{
+  "book_code": "JER",
+  "testament": "OT",
+  "timestamp": "2026-03-10T14:19:46.261181",
+  "registry_version": "1.3.0",
+  "body_checksum": "dfc563c82bafb9db3767faae62d3ab025c8f07f908cabc9b8ffae7deaf7b3418",
+  "validation": {
+    "V1": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V2": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V3": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V4": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 1283/1299 verses (98.8%); gap of 16"
+      ]
+    },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V9": {
+      "status": "PASS",
+      "messages": []
+    }
+  },
+  "residuals_sidecar": {
+    "residuals": [
+      {
+        "anchor": "JER.10:22",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.32:19",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.32:20",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.32:21",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.32:22",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.32:23",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.32:24",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.34:14",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.34:15",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.34:16",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.34:17",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.35:17",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.38:40",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.41:22",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.42:19",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.48:18",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.49:22",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.50:13",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "JER.52:28",
+        "classification": "docling_issue",
+        "description": "Verse not captured by Docling extraction",
+        "blocking": false,
+        "ratified": false
+      }
+    ]
+  },
+  "decision": "dry-run"
+}

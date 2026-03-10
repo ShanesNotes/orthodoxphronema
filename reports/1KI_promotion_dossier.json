@@ -1,0 +1,79 @@
+{
+  "book_code": "1KI",
+  "testament": "OT",
+  "timestamp": "2026-03-10T09:57:18.471534",
+  "registry_version": "1.3.0",
+  "body_checksum": "bdfd39bc6d96c63391f6e07e1f4199453fd37fc3766281f3b4bd373cb8074c0f",
+  "validation": {
+    "V1": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V2": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V3": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V4": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V9": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V10": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
+      "status": "WARN",
+      "messages": [
+        "V12  Inline verse-number leakage at line 279: 1KI.6:2 contains 'onth, 2 the king'"
+      ]
+    }
+  },
+  "residuals_sidecar": {
+    "book_code": "1KI",
+    "registry_version": "1.2.3",
+    "ratified_by": null,
+    "ratified_date": null,
+    "residuals": [],
+    "resolved": [
+      {
+        "anchor": "1KI.22:46-50",
+        "classification": "docling_issue",
+        "description": "Tail-end verses of final chapter absent from Docling extraction. (Fixed: recovered by fixing chapter 21/22 boundary and renumbering)",
+        "resolved_date": "2026-03-10"
+      }
+    ]
+  },
+  "decision": "dry-run",
+  "allow_incomplete": false,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/1KI.md",
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/1KI_editorial_candidates.json",
+  "residuals_path": "/home/ark/orthodoxphronema/staging/validated/OT/1KI_residuals.json"
+}

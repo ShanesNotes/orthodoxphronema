@@ -1,0 +1,80 @@
+{
+  "book_code": "JDG",
+  "testament": "OT",
+  "timestamp": "2026-03-10T09:54:48.234700",
+  "registry_version": "1.3.0",
+  "body_checksum": "c66738703d9cf187735f4ccfef753623e653ab5f9348318f8a383ff6f22b746f",
+  "validation": {
+    "V1": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V2": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V3": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V4": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 617/618 verses (99.8%); gap of 1"
+      ]
+    },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V9": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V10": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
+      "status": "PASS",
+      "messages": []
+    }
+  },
+  "residuals_sidecar": {
+    "book_code": "JDG",
+    "registry_version": "1.2.3",
+    "ratified_by": null,
+    "ratified_date": null,
+    "residuals": [
+      {
+        "anchor": "JDG.11:40",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for Judges 11: OSB follows LXX versification (39 verses), MT has 40. Verse 40 content exists in OSB verse 39.",
+        "blocking": false,
+        "ratified": true
+      }
+    ],
+    "resolved": []
+  },
+  "decision": "blocked",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/JDG.md",
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/JDG_editorial_candidates.json",
+  "residuals_path": "/home/ark/orthodoxphronema/staging/validated/OT/JDG_residuals.json"
+}

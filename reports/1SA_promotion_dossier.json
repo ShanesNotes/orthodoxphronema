@@ -1,0 +1,188 @@
+{
+  "book_code": "1SA",
+  "testament": "OT",
+  "timestamp": "2026-03-10T14:37:53.344820",
+  "registry_version": "1.3.0",
+  "body_checksum": "e5594b968882bd6f6ba1a3ad8c23da4295dcc6643e3629e3116119ffd25ec75b",
+  "validation": {
+    "V1": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V2": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V3": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V4": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V9": {
+      "status": "PASS",
+      "messages": []
+    }
+  },
+  "residuals_sidecar": {
+    "book_code": "1SA",
+    "registry_version": "1.2.4",
+    "ratified_by": null,
+    "ratified_date": null,
+    "residuals": [
+      {
+        "anchor": "1SA.17:34",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: OSB follows LXX versification (33 verses), MT has 52. Verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:35",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:36",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:37",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:38",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:39",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:40",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:41",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:42",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:43",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:44",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:45",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:46",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:47",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:48",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:49",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:50",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:51",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      },
+      {
+        "anchor": "1SA.17:52",
+        "classification": "osb_source_absent",
+        "description": "LXX shorter text for 1 Samuel 17: verses 34-52 absent from OSB.",
+        "blocking": false,
+        "ratified": true
+      }
+    ],
+    "resolved": []
+  },
+  "decision": "dry-run"
+}

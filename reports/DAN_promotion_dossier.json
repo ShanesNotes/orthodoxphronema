@@ -1,9 +1,9 @@
 {
-  "book_code": "EXO",
+  "book_code": "DAN",
   "testament": "OT",
-  "timestamp": "2026-03-10T14:19:45.926510",
+  "timestamp": "2026-03-10T14:19:45.796214",
   "registry_version": "1.3.0",
-  "body_checksum": "e3ad73beaa512555a5dc4909c6e373cdb3e06b30ceb5b5be47545ca31e8ff89f",
+  "body_checksum": "d9d5b70fdb76c9808d3bfc594a2c5f7ed1c7afbcc05595b0d715615f6395df9b",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -30,10 +30,8 @@
       "messages": []
     },
     "V7": {
-      "status": "WARN",
-      "messages": [
-        "V7   Completeness: 1171/1166 verses (100.4%); gap of -5"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V8": {
       "status": "PASS",
@@ -44,12 +42,6 @@
       "messages": []
     }
   },
-  "residuals_sidecar": {
-    "book_code": "EXO",
-    "registry_version": "1.1.0",
-    "ratified_by": "human",
-    "ratified_date": "2026-03-08",
-    "residuals": []
-  },
+  "residuals_sidecar": null,
   "decision": "dry-run"
 }

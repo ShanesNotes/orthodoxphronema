@@ -1,0 +1,71 @@
+{
+  "book_code": "1MA",
+  "testament": "OT",
+  "timestamp": "2026-03-10T14:19:45.645701",
+  "registry_version": "1.3.0",
+  "body_checksum": "fb4b7d5e40069b698911e65b60eed0b78e2a6ce5b4d5c27206a016d54f18481b",
+  "validation": {
+    "V1": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V2": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V3": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V4": {
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.12: jumps from 18 to 20"
+      ]
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 922/924 verses (99.8%); gap of 2"
+      ]
+    },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V9": {
+      "status": "PASS",
+      "messages": []
+    }
+  },
+  "residuals_sidecar": {
+    "book": "1MA",
+    "file": "staging/validated/OT/1MA.md",
+    "generated": "2026-03-09",
+    "ratified_by": null,
+    "ratified_date": null,
+    "residuals": [
+      {
+        "anchor": "1MA.12:19",
+        "classification": "docling_issue",
+        "description": "Verse absent from Docling extraction. Gap in ch12 between v18 and v20.",
+        "ratified": true
+      },
+      {
+        "anchor": "1MA.8:32",
+        "classification": "docling_issue",
+        "description": "Verse absent from Docling extraction. Ch8 ends at v31, CVC expects 32.",
+        "ratified": true
+      }
+    ]
+  },
+  "decision": "dry-run"
+}

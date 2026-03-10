@@ -1,0 +1,65 @@
+{
+  "book_code": "JDT",
+  "testament": "OT",
+  "timestamp": "2026-03-10T09:54:48.317530",
+  "registry_version": "1.3.0",
+  "body_checksum": "5f701366f21d1ff5e56d5092f4d441b09208dbc498dd066aaf66ff288e00d115",
+  "validation": {
+    "V1": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V2": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V3": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V4": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 340/339 verses (100.3%); gap of -1"
+      ]
+    },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V9": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V10": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
+      "status": "PASS",
+      "messages": []
+    }
+  },
+  "residuals_sidecar": null,
+  "decision": "dry-run",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/JDT.md",
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/JDT_editorial_candidates.json",
+  "residuals_path": null
+}

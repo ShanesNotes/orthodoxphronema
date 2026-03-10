@@ -1,9 +1,9 @@
 {
   "book_code": "GEN",
   "testament": "OT",
-  "timestamp": "2026-03-08T19:41:55.621161",
-  "registry_version": "1.1.0",
-  "body_checksum": "7c8c82f5a3f19f8dbe9d781016b5c9f5f2e1e053b8737f4b18564dcbc9c785ad",
+  "timestamp": "2026-03-10T11:47:58.729735",
+  "registry_version": "1.3.0",
+  "body_checksum": "93854d9479053d67b26658d26215ecdae9591d9e59c3c40aaf277fb848e22e4e",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -18,10 +18,8 @@
       "messages": []
     },
     "V4": {
-      "status": "WARN",
-      "messages": [
-        "V4   Missing verses in ch.49: jumps from 1 to 3"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V5": {
       "status": "PASS",
@@ -34,7 +32,7 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 1529/1532 verses (99.8%); gap of 3"
+        "V7   Completeness: 1531/1532 verses (99.9%); gap of 1"
       ]
     },
     "V8": {
@@ -48,17 +46,10 @@
   },
   "residuals_sidecar": {
     "book_code": "GEN",
-    "registry_version": "1.1.0",
+    "registry_version": "1.2.2",
     "ratified_by": "human",
     "ratified_date": "2026-03-08",
     "residuals": [
-      {
-        "anchor": "GEN.14:24",
-        "classification": "docling_issue",
-        "description": "Last verse of chapter. Docling does not emit a boundary for the final verse.",
-        "blocking": false,
-        "ratified": true
-      },
       {
         "anchor": "GEN.25:34",
         "classification": "osb_source_absent",
@@ -69,15 +60,20 @@
           "Rahlfs LXX 1935",
           "Brenton Septuagint"
         ]
+      }
+    ],
+    "resolved": [
+      {
+        "anchor": "GEN.14:24",
+        "was": "docling_issue",
+        "resolution": "Structural split applied \u2014 verse separated from 14:23"
       },
       {
         "anchor": "GEN.49:2",
-        "classification": "docling_issue",
-        "description": "Poetic-block TextItem boundary. Text present in PDF but not emitted as separate verse.",
-        "blocking": false,
-        "ratified": true
+        "was": "docling_issue",
+        "resolution": "Verse recovered via targeted Docling re-extraction"
       }
     ]
   },
-  "decision": "dry-run"
+  "decision": "blocked"
 }
