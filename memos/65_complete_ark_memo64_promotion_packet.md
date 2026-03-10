@@ -53,3 +53,52 @@
 | `Artifacts refreshed` | `done` | canon files, promotion dossiers, dashboard |
 | `Remaining known drift` | `present` | `JOB`, `SIR`, `PRO`, `PSA`, `WIS` still require cleanup or review; unrelated local dirt remains outside this checkpoint |
 | `Next owner` | `ezra` | continue with cleanup lanes after the packet checkpoint is committed |
+
+## Rescue Addendum — Photius Containment After Revised Memo 65
+
+### Situation
+- Photius continued broad experimentation after this packet checkpoint and expanded into:
+  - `pipeline/common/poetry.py`
+  - `pipeline/tools/restructure_pro.py`
+  - `schemas/anchor_registry.json`
+  - multiple unrelated staged books and reports
+  - new ad hoc helper scripts and tests
+- That exceeded the intended `PSA` / `PRO` recovery lane and made the dirty experiment state unsafe to continue directly on `main`.
+
+### Containment Action Taken
+- The full experimental worktree was preserved on:
+  - branch: `photius-rescue-snapshot-20260310`
+  - commit: `cb4dc6b`
+  - message: `Snapshot Photius PSA/PRO experiments before containment`
+- `main` was then restored to the clean committed baseline so the active rescue lane could be narrowed safely.
+
+### Corrected Repo Truth On Clean `main`
+- `PSA`
+  - still has `151` chapters
+  - still reads as a `raw` intermediate artifact with `source: "OSB-v1"`
+  - still has `61` live `V4` gap groups / `62` missing verses on clean `main`
+  - therefore it is not yet in a simple normalize-and-promote lane on `main`
+- `PRO`
+  - clean `main` is safer than the experimental branch
+  - the current baseline no longer has the raw fragment-heading explosion from the snapshot branch
+  - but it still fails promotion-readiness at `V2 expected 31, got 30` and `V7 gap 66`
+  - visible kerning and split-word residue remains throughout the early chapters
+
+### Active Rescue Lane On `main`
+- Only these artifacts are in scope during rescue:
+  - [staging/validated/OT/PSA.md](/home/ark/orthodoxphronema/staging/validated/OT/PSA.md)
+  - [staging/validated/OT/PRO.md](/home/ark/orthodoxphronema/staging/validated/OT/PRO.md)
+  - [reports/PSA_promotion_dossier.json](/home/ark/orthodoxphronema/reports/PSA_promotion_dossier.json)
+  - [reports/PRO_promotion_dossier.json](/home/ark/orthodoxphronema/reports/PRO_promotion_dossier.json)
+  - this memo
+- Everything else from the experiment branch is archive material and must not be reintroduced into `main` during this rescue.
+
+### Rescue Rules
+- Photius is not to make further code, schema, or multi-book workflow changes on `main` during this pass.
+- If a proposed change touches anything outside the five in-scope artifacts above, stop and hand back to Ezra/Ark.
+- `PRO` work must continue from the clean `main` baseline, not from the dirtier snapshot version.
+- `PSA` work on `main` must prove validator improvement from the clean baseline; if a change worsens the current `PSA` state, revert to the clean `main` version and continue analysis off-branch.
+
+### Immediate Handoff
+**To:** `photius`
+**Ask:** `Use the snapshot branch as archive only. On main, touch only PSA.md, PRO.md, their dry-run dossiers, and Memo 65. Do not resume the broader code churn. Continue PRO from clean main, and treat PSA as still structurally unresolved on main until dry-run evidence improves from that baseline.`
