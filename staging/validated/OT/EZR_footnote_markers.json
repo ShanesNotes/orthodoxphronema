@@ -1,0 +1,14 @@
+{
+  "book_code": "EZR",
+  "reindex_date": "2026-03-10",
+  "marker_count": 1,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "EZR.5:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "reindexed_from_md"
+    }
+  ]
+}

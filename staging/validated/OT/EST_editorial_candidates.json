@@ -1,0 +1,26 @@
+{
+  "book": "EST",
+  "file": "staging/validated/OT/EST.md",
+  "generated": "2026-03-10",
+  "total_candidates": 0,
+  "by_category": {},
+  "candidates": [],
+  "notes": [
+    "7 dropcap repairs applied (6 human_verified + 1 manual EST.1:4 It→tcame)",
+    "54 fused article repairs applied via fix_articles.py",
+    "32 R2 possessive fixes applied via fix_omissions.py",
+    "1 manual fused word fix (Ha man→Haman in EST.6:6)",
+    "Catastrophic structural reconstruction: ch0-7 → ch1-10 (10 chapters)",
+    "Chapter 0 (Addition A) merged into ch1 as verses 1-3",
+    "Chapter 7 split into ch7 (Hebrew), ch8+Addition E, ch9, ch10+Addition F",
+    "V9 splits: 1:13→1:14, 2:5→2:6, 9:8→9:9, 9:22→9:23/9:24",
+    "Ch3 duplicate 3:14/3:15 renumbered to 3:16/3:17 (Addition B + Hebrew)",
+    "Registry CVC corrected: 16ch→10ch, OSB integrates additions inline",
+    "V7 99.5% (194/195) — EST.4:6 absorbed into EST.4:7 (docling gap)",
+    "Explicit fused article audit from fix_articles.py",
+    "High-confidence article-conjunction fusions (>= 0.75) should block promotion until resolved",
+    "Purity audit from purity_audit.py",
+    "Chapter-opening drop-cap suspects and split-word residue should block promotion until resolved or ratified",
+    "Inline *** review markers were ignored during detection"
+  ]
+}

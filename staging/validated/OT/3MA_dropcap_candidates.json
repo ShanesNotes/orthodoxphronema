@@ -1,0 +1,32 @@
+{
+  "book_code": "3MA",
+  "total_candidates": 2,
+  "confirmed_auto": 0,
+  "ambiguous_human": 0,
+  "rejected": 0,
+  "ratified": true,
+  "candidates": [
+    {
+      "anchor": "3MA.1:1",
+      "residual": "hen Philopator heard from those who returned that the region",
+      "proposed_repair": "When Philopator heard from those who returned that the regions he ruled had been",
+      "missing_prefix": "W",
+      "classification": "human_verified",
+      "prefix_score": 0.7385,
+      "brenton_verse": "Now Philopater, on learning from those who came back that Antiochus had made him",
+      "source": "brenton",
+      "notes": "Sentence structure 'heard..., he issued orders' requires 'When' (temporal clause), not 'Then'"
+    },
+    {
+      "anchor": "3MA.2:1",
+      "residual": "he high priest Simon bent his knees before the temple and st",
+      "proposed_repair": "The high priest Simon bent his knees before the temple and stretched out his han",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.3478,
+      "brenton_verse": "Now was it that the high priest Simon bowed his knees over against the holy plac",
+      "source": "brenton",
+      "notes": "'The high priest Simon' is the only valid reading"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "book_code": "TOB",
+  "total_candidates": 13,
+  "confirmed_auto": 0,
+  "ambiguous_human": 13,
+  "rejected": 0,
+  "ratified": true,
+  "candidates": [
+    {
+      "anchor": "TOB.1:1",
+      "residual": "his is the book of the words of Tobit, the son of Tobiel, th",
+      "proposed_repair": "This is the book of the words of Tobit, the son of Tobiel, th",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.55,
+      "brenton_verse": "The book of the words of Tobit, the son of Tobiel, the son of Ananiel, the son o",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.2:1",
+      "residual": "hen I arrived at my house, my wife Anna and my son Tobias we",
+      "proposed_repair": "Then I arrived at my house, my wife Anna and my son Tobias we",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.2927,
+      "brenton_verse": "Now when I was come home again, and my wife Anna was restored unto me, with my s",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.3:1",
+      "residual": "hen I wept in my sorrow, and with pain I prayed, saying:",
+      "proposed_repair": "Then I wept in my sorrow, and with pain I prayed, saying:",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.3902,
+      "brenton_verse": "Then I being grieved did weep, and in my sorrow prayed, saying,",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.4:1",
+      "residual": "nthat day Tobit remembered the silver he had entrusted to Ga",
+      "proposed_repair": "Inthat day Tobit remembered the silver he had entrusted to Ga",
+      "missing_prefix": "I",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "In that day Tobit remembered the money which he had committed to Gabael in Rages",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.5:1",
+      "residual": "obias answered him and said, 'O father, I will do everything",
+      "proposed_repair": "Tobias answered him and said, 'O father, I will do everything",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "Tobias then answered and said, Father, I will do all things which thou hast comm",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.6:1",
+      "residual": "hey went on the journey and came to the Tigris River. So the",
+      "proposed_repair": "They went on the journey and came to the Tigris River. So the",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "And as they went on their journey, they came in the evening to the river Tigris,",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.7:1",
+      "residual": "hen they went to Ecbatana and came to the house of Raguel. S",
+      "proposed_repair": "Then they went to Ecbatana and came to the house of Raguel. S",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.3478,
+      "brenton_verse": "And he came to the house of Raguel; and Sara met him: and saluted him, and he th",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.8:1",
+      "residual": "hen they finished dining, they led Tobias to her.",
+      "proposed_repair": "Then they finished dining, they led Tobias to her.",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.3793,
+      "brenton_verse": "And when they had supped, they brought Tobias in unto her.",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.9:1",
+      "residual": "hen Tobias called Raphael and said to him,",
+      "proposed_repair": "Then Tobias called Raphael and said to him,",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.8333,
+      "brenton_verse": "Then Tobias called Raphael, and said unto him,",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.10:1",
+      "residual": "obit his father was counting each day. But when the days nee",
+      "proposed_repair": "Tobit his father was counting each day. But when the days nee",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "Now Tobit his father counted every day: and when the days of the journey were ex",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.11:1",
+      "residual": "etraveled until they approached Nineveh. Here Raphael said t",
+      "proposed_repair": "Hetraveled until they approached Nineveh. Here Raphael said t",
+      "missing_prefix": "H",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "After these things Tobias went his way, praising God that he had given him a pro",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.12:1",
+      "residual": "obit summoned his son Tobias and said to him, 'My son, see t",
+      "proposed_repair": "Tobit summoned his son Tobias and said to him, 'My son, see t",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "Then Tobit called his son Tobias, and said unto him, My son, see that the man ha",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "TOB.13:1",
+      "residual": "hen Tobit with exceeding joy wrote aprayer, saying: For He s",
+      "proposed_repair": "Then Tobit with exceeding joy wrote aprayer, saying: For He s",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.4615,
+      "brenton_verse": "Then Tobit wrote a prayer of rejoicing, and said, Blessed be God that liveth for",
+      "source": "brenton",
+      "ratified": true
+    }
+  ]
+}

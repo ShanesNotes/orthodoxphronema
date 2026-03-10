@@ -1,0 +1,196 @@
+{
+  "book_code": "1ES",
+  "reindex_date": "2026-03-10",
+  "marker_count": 27,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "1ES.1:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.2:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.3:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.3:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 4,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.3:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.3:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 6,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.3:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 7,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.3:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 8,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.4:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 9,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.4:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 10,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.4:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 11,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.4:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 12,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.4:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 13,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.4:29",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 14,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.4:33",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 15,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.4:35",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 16,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.4:41",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 17,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.4:42",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 18,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.4:43",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 19,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.6:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 20,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.8:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 21,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.8:65",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 22,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.8:68",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 23,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.9:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 24,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.9:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 25,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.9:42",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 26,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1ES.9:55",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 27,
+      "source": "reindexed_from_md"
+    }
+  ]
+}

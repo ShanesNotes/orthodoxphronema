@@ -1,0 +1,20 @@
+{
+  "book": "2MA",
+  "file": "staging/validated/OT/2MA.md",
+  "generated": "2026-03-10",
+  "total_candidates": 0,
+  "by_category": {},
+  "candidates": [],
+  "notes": [
+    "13 dropcap repairs applied (all human_verified, chapters 3-15; ch1-2 had no dropcap)",
+    "Fused article repairs applied via fix_articles.py",
+    "49 R2 possessive fixes applied via fix_omissions.py",
+    "4 V9 embedded verse splits: 2:22→2:23, 2:27→2:28, 5:2→5:3, 8:12→8:13",
+    "V7 99.5% (552/555) — 3 gaps: 7:15, 7:16, 7:17 (contiguous block in ch7)",
+    "Explicit fused article audit from fix_articles.py",
+    "High-confidence article-conjunction fusions (>= 0.75) should block promotion until resolved",
+    "Purity audit from purity_audit.py",
+    "Chapter-opening drop-cap suspects and split-word residue should block promotion until resolved or ratified",
+    "Inline *** review markers were ignored during detection"
+  ]
+}

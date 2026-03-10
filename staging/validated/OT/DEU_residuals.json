@@ -1,0 +1,18 @@
+{
+  "book_code": "DEU",
+  "registry_version": "1.2.2",
+  "ratified_by": null,
+  "ratified_date": null,
+  "residuals": [],
+  "resolved": [
+    {
+      "anchor": "DEU.33:8",
+      "classification": "docling_issue",
+      "description": "Verse missing from extraction. (Fixed: recovered from fusion in 33:7)",
+      "resolved_date": "2026-03-10"
+    }
+  ],
+  "versification_notes": [
+    "DEU ch33: OSB has 32 verses vs Brenton 29 — over-count is genuine LXX versification difference (Brenton 33:23 and 33:29 split into multiple OSB verses)"
+  ]
+}

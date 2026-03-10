@@ -1,0 +1,15 @@
+{
+  "book": "3MA",
+  "file": "staging/validated/OT/3MA.md",
+  "generated": "2026-03-09",
+  "ratified_by": null,
+  "ratified_date": null,
+  "residuals": [
+    {
+      "anchor": "3MA.1:29",
+      "classification": "docling_issue",
+      "description": "Verse absent from extraction. OSB ch1 may have 28 verses (CVC=29 from Brenton). OSB 1:28 text covers content of both Brenton 1:28 and 1:29, suggesting versification difference rather than parser gap.",
+      "ratified": true
+    }
+  ]
+}

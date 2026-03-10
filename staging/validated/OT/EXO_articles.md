@@ -1,8 +1,8 @@
 ---
 book_code: EXO
 book_name: "Exodus"
-content_type: study_articles
-source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
+content_type: article
+source: "OSB-v1"
 parse_date: "2026-03-07"
 promote_date: null
 status: staged
@@ -15,7 +15,7 @@ canon_anchors_referenced: []
 ### Christ Our Passover
 *(after EXO.12:14)*
 
-P assover, the central rite and symbol of Judaism, is based on the experience of the liberation of the Hebrew people from bondage in Egypt (Ex 12:1-15:21). It is called Passover both because the Lord passed over the homes of the Hebrews, sparing them from the death that came to the first-born in Egypt, and because the Hebrews passed over the Red Sea as if it were dry land. Passover celebrates God's steadfast love and devotion to His people and their freedom in Him.
+Passover, the central rite and symbol of Judaism, is based on the experience of the liberation of the Hebrew people from bondage in Egypt (Ex 12:1-15:21). It is called Passover both because the Lord passed over the homes of the Hebrews, sparing them from the death that came to the first-born in Egypt, and because the Hebrews passed over the Red Sea as if it were dry land. Passover celebrates God's steadfast love and devotion to His people and their freedom in Him.
 Throughout the rest of the Old Testament, Passover preeminently signifies God's rescue and forging together of His chosen people, Israel. The Lord repeatedly brings this event to mind as He encourages and exhorts His people to return to their covenantal responsibilities (Jdg 6:7-10; 1Kg 10:17-19; Ps 80:10, 11; Jer 11:1-8; Mic 6:1-8).
 Through His saving work, Christ becomes our Passover ( pascha in Greek). Through Him we experience liberation from sin, death, and the devil. St. Paul exclaims, 'Christ, our Passover, was sacrificed for us. Therefore let us keep the feast' (1Co 5:7, 8). He is the Paschal Lamb (Is 53:7; Jn 1:29; Rev 5:6-14) who gave Himself up in sacrifice 'once for all' (Heb 10:10-14) to reconcile us with God. At every Pascha-'Easter'-the Church sings:
 Today a sacred Pascha is revealed to us, a new and holy Pascha, a mystical Pascha, a Pascha worthy of veneration, a Pascha which is Christ the Redeemer.
@@ -34,7 +34,7 @@ Sustained and strengthened by the blood of Christ our Passover, we resume daily 
 ### The Grace Of Christand The Law Of Moses
 *(after EXO.20:6)*
 
-T he Apostle John wrote, 'The law was given through Moses, but grace and truth came through Jesus Christ' (Jn 1:17). The grace of Christ and the Law of Moses are complementary, not contradictory. The following helps explain both.
+The Apostle John wrote, 'The law was given through Moses, but grace and truth came through Jesus Christ' (Jn 1:17). The grace of Christ and the Law of Moses are complementary, not contradictory. The following helps explain both.
 
 #### Friendship Between Christ And Moses
 
@@ -60,7 +60,7 @@ Christ is the Incarnate Lawgiver who offers us remission of sins through His pre
 ### Images And Imagery
 *(after EXO.21:6)*
 
-M any people have been taught that the second of the Ten Commandments prohibits icons. However, if correct, all artistic representations of anything would be forbidden. The Lord Himself in the same book of Exodus commanded Moses to make two gold cherubim (angels) 'of hammered work,' and to place them at each end of the mercy seat on the ark of the covenant (Ex 25:17-21). The Lord also stipulated that the ten curtains of the tabernacle be woven with images of cherubim on them (Ex 26:1), and likewise the veil (Ex 26:31).
+Many people have been taught that the second of the Ten Commandments prohibits icons. However, if correct, all artistic representations of anything would be forbidden. The Lord Himself in the same book of Exodus commanded Moses to make two gold cherubim (angels) 'of hammered work,' and to place them at each end of the mercy seat on the ark of the covenant (Ex 25:17-21). The Lord also stipulated that the ten curtains of the tabernacle be woven with images of cherubim on them (Ex 26:1), and likewise the veil (Ex 26:31).
 When King Solomon built the temple, the huge basin, or's ea,' was set upon twelve statues of oxen (3Kg 7:13, 30). And upon the ten bases of the sea were cast or engraved 'lions, oxen, and cherubim' (3Kg 7:16), as well as palm trees (3Kg 7:22). The Lord bestowed His blessing upon all these artistic representations first by filling the new temple with His Glory (3Kg 8:10, 11), and then by declaring to Solomon, 'I have consecrated this house which you have built to put My name there forever, and My eyes and My heart will be there perpetually' (3Kg 9:3).
 Perhaps a most striking example of an image made at God's command in the Old Testament is the bronze serpent that God ordered Moses to make and put on a pole in order to protect the Hebrews bitten by the deadly serpents (Nm 21:4-9; see Jn 3:14, 15). Hundreds of years later, when the Israelites were offering incense to this same bronze serpent in a kind of idol-worship, King Hezekiah, who 'did what was right in the sight of the Lord,' had the serpent smashed into pieces (4Kg 18:3, 4).
 So it is not the image itself which is faulty or prohibited, but rather its improper use. The prohibition in Exodus 20:4 is not against all artistic representations. Rather, it is against images, whether in human form or not, which would be worshipped as gods and goddesses -'gods of silver, and gods of gold' (Ex 20:23). For the Lord knew that such images would tempt the Hebrews to depart from worshipping Him, the One true God (Ex 20:3-5).
@@ -76,7 +76,7 @@ Through icons, Orthodox Christians are drawn closer to Christ. A hymn sung the f
 
 #### Old Testament Priests
 
-T he Hebrew word for 'priest' is kohen. He is the Levite who stood as intercessor for the people before God. Old Testament priests offered up gifts and sacrifices to the Lord on behalf of the people, that they might be reconciled to Him.
+The Hebrew word for 'priest' is kohen. He is the Levite who stood as intercessor for the people before God. Old Testament priests offered up gifts and sacrifices to the Lord on behalf of the people, that they might be reconciled to Him.
 The Lord directed Moses to construct the tabernacle (Ex 25:1-27:21). Then He established a permanent, hereditary priesthood, beginning with Moses' brother Aaron and continuing through Aaron's sons (Ex 28:1). The priests were sanctified, or consecrated, with holy oil (Ex 30:22-30). Their holy garments of finely woven and richly decorated material were for the honor and glory of God (Ex 28:2-39).
 After Aaron's death, 'the Lord separated the tribe of Levi [Aaron's tribe] to bear the ark of the covenant of the Lord, to stand before the Lord, to minister to Him, and to bless in His name' (Dt 10:8). Besides the various sacrifices, the priests blessed the people (Nm 6:23-25), maintained the tabernacle (later, the temple) and its grounds (Nm 18:1-7), received tithes and offerings (Nm 18:8-32), supervised purification procedures (Lv 13:1-14:57), acted as judges (Dt 17:8-13) and taught the Law (Dt 33:8-11). Only male Levites administered the liturgical rites.
 
@@ -95,7 +95,7 @@ While the ordained priesthood serves on behalf of all, every believer-baptized a
 ### The Tabernacle
 *(after EXO.35:35)*
 
-O n Mt. Sinai Moses received not only the Ten Commandments, but also precise and detailed instructions for building the tabernacle-a moveable tent-where God met the assembly of the people Israel (Ex 25:1-27:21). Consequently, the tabernacle is built according to the divine blueprints (Ex 35:4-40:33). Here God's Presence, His Glory, will be made manifest through the shining cloud filling the holy place (Ex 40:34-38).
+On Mt. Sinai Moses received not only the Ten Commandments, but also precise and detailed instructions for building the tabernacle-a moveable tent-where God met the assembly of the people Israel (Ex 25:1-27:21). Consequently, the tabernacle is built according to the divine blueprints (Ex 35:4-40:33). Here God's Presence, His Glory, will be made manifest through the shining cloud filling the holy place (Ex 40:34-38).
 The importance of God's Presence in the tabernacle is apparent in the prayers of the Psalms, which express a longing to be with God, a fervent desire to be in His tabernacle (Pss 26:4-6; 60:4; 64:4; 83:1-4, 10; see also 22:6; 25:8). Indeed, the Lord promises that at the tabernacle, 'I shall be known to you to speak to you. There I shall give directions to the children of Israel, and I shall be sanctified in My glory' (Ex 29:42-43; see also Ezk 37:2628). While the tabernacle is the specific place where God was encountered in Israel, this did not exhaust His Presence, for as Almighty God, He has always been everywhere present, filling all things.
 Israel's most sacred objects were kept in the ark of the covenant, located in the holy of holies (Heb 9:2-5). Each object it held was prophetic of Christ: the tablets of the Law inscribed by God (Ex 25:15) prefigure Christ the Lawgiver; the manna (Ex 16:31-34) points to Christ as the Bread of Life (Jn 6:30-58); and Aaron's staff that budded (Nm 17:16-26) prefigures the life-giving Cross of Christ. Further, the veil separating the holy place from the holy of holies foreshadows the Incarnation (Heb 10:19, 20).
 The tabernacle as a whole prefigures Christ, the eternal Word of God, who 'became flesh and tabernacled (the usual English translation is 'dwelt') among us' (Jn 1:14; see also Col 2:9). St. Gregory of Nyssa observes, 'Moses was earlier instructed by a type in the mystery of the tabernacle, which encompasses the universe. This tabernacle would be Christ, who is the power and the wisdom of God (1Co 1:24).' The tabernacle also prefigures Mary the Theotokos, whose womb will be the tabernacle in which the Lord will dwell as He takes His flesh from her.
@@ -103,4 +103,3 @@ On the cross, Jesus offers the ultimate sacrifice of His body, which the New Tes
 In time, the moveable tabernacle of the wilderness is superseded by the permanent temple in Jerusalem. The temple, in turn, is superseded by Christ (Jn 2:18-21) and the Church, which is His Body (Eph 1:22, 23). Moreover, in Baptism every Christian becomes a tabernacle, a dwelling place of the Holy Spirit. As St. Paul exclaims, 'Or do you not know that your body is the temple of the Holy Spirit?' (1Co 6:19). St. Isaac of Nineveh declares, 'Lord, I give praise to Your holy nature, for You have made my nature a sanctuary for Your hiddenness, a tabernacle for Your Mysteries, a place where You can dwell, and a holy temple for Your divinity.'
 In his vision of the kingdom of heaven, St. John writes, 'But I saw no temple in it, for the
 Lord God Almighty and the Lamb are its temple' (Rev 21:22). All earthly types vanish as the redeemed behold God and the Lamb in unmediated glory (2Pt 1:4). The ultimate promise of the tabernacle, the temple and the Church is for God Himself to dwell in each believer forever (Jn 14:16, 17, 23; 17:20-23; see also Rev 3:20).
-

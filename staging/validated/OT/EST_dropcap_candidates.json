@@ -1,0 +1,76 @@
+{
+  "book_code": "EST",
+  "total_candidates": 6,
+  "confirmed_auto": 0,
+  "ambiguous_human": 0,
+  "rejected": 0,
+  "ratified": true,
+  "candidates": [
+    {
+      "anchor": "EST.2:1",
+      "residual": "nd after these words the wrath of the king subsided, and he ",
+      "proposed_repair": "And after these words the wrath of the king subsided, and he no longer mentioned",
+      "missing_prefix": "A",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.28,
+      "brenton_verse": "And after this the king's anger was pacified, and he no more mentioned Astin, be",
+      "source": "brenton"
+    },
+    {
+      "anchor": "EST.3:1",
+      "residual": "fter these things King Artaxerxes honored Haman, the son of ",
+      "proposed_repair": "After these things King Artaxerxes honored Haman, the son of Hammedatha the Agag",
+      "missing_prefix": "A",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.5714,
+      "brenton_verse": "And after this king Artaxerxes highly honoured Aman son of Amadathes, the Bugæan",
+      "source": "brenton"
+    },
+    {
+      "anchor": "EST.4:1",
+      "residual": "ut Mordecai, learning what had happened, tore his clothes an",
+      "proposed_repair": "But Mordecai, learning what had happened, tore his clothes and put on sackcloth,",
+      "missing_prefix": "B",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.4194,
+      "brenton_verse": "But Mardochæus having perceived what was done, rent his garments, and put on sac",
+      "source": "brenton"
+    },
+    {
+      "anchor": "EST.5:1",
+      "residual": "nd it happened on the third day, when she ceased praying, sh",
+      "proposed_repair": "And it happened on the third day, when she ceased praying, she took off the garm",
+      "missing_prefix": "A",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.4,
+      "brenton_verse": "And it came to pass on the third day, when she had ceased praying, that she put ",
+      "source": "brenton"
+    },
+    {
+      "anchor": "EST.6:1",
+      "residual": "ut the Lord made it difficult for the king to sleep that nig",
+      "proposed_repair": "But the Lord made it difficult for the king to sleep that night, and the king co",
+      "missing_prefix": "B",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.5532,
+      "brenton_verse": "But the Lord removed sleep from the king that night: and he told his servant to ",
+      "source": "brenton"
+    },
+    {
+      "anchor": "EST.7:1",
+      "residual": "othe king and Haman came to the banquet to drink together wi",
+      "proposed_repair": "So the king and Haman came to the banquet to drink together with the queen.",
+      "missing_prefix": "S",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": null,
+      "brenton_verse": "So the king and Aman went in to drink with the queen.",
+      "source": "brenton"
+    }
+  ]
+}

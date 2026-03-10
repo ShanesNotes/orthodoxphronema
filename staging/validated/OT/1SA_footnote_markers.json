@@ -1,0 +1,42 @@
+{
+  "book_code": "1SA",
+  "reindex_date": "2026-03-10",
+  "marker_count": 5,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "1SA.2:2",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1SA.2:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1SA.2:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1SA.2:6",
+      "marker_index_in_verse": 2,
+      "marker_seq_book": 4,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "1SA.21:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "reindexed_from_md"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "book_code": "EZR",
+  "total_candidates": 10,
+  "confirmed_auto": 0,
+  "ambiguous_human": 10,
+  "rejected": 0,
+  "ratified": true,
+  "candidates": [
+    {
+      "anchor": "EZR.1:1",
+      "residual": "ow in the first year of Cyrus king of Persia, that the word ",
+      "proposed_repair": "Now in the first year of Cyrus king of Persia, that the word of the Lord from th",
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.6364,
+      "brenton_verse": "Now in the first year of Cyrus king of the Persians, that the word of the Lord b",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "EZR.2:1",
+      "residual": "nd these are the sons from the places of the people who had ",
+      "proposed_repair": "And these are the sons from the places of the people who had gone up from the ca",
+      "missing_prefix": "And ",
+      "classification": "human_verified",
+      "prefix_score": 0.6667,
+      "brenton_verse": "And these are the people of the land that went up, of the number of prisoners wh",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "EZR.3:1",
+      "residual": "nd when the seventh month had come and the children of Israe",
+      "proposed_repair": "And when the seventh month had come and the children of Israel were in their cit",
+      "missing_prefix": "And ",
+      "classification": "human_verified",
+      "prefix_score": 0.6667,
+      "brenton_verse": "And the seventh month came on, and the children of Israel were in their cities, ",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "EZR.4:1",
+      "residual": "ow when those oppressing Judah and Benjamin heard that the s",
+      "proposed_repair": "Now when those oppressing Judah and Benjamin heard that the sons of the captivit",
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.3729,
+      "brenton_verse": "And they that afflicted Juda and Benjamin heard, that the children of the captiv",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "EZR.5:1",
+      "residual": "hen Haggai the prophet and the prophet Zechariah the son of ",
+      "proposed_repair": "Then Haggai the prophet and the prophet Zechariah the son of Iddo prophesied to ",
+      "missing_prefix": "Then ",
+      "classification": "human_verified",
+      "prefix_score": 0.7755,
+      "brenton_verse": "And Agg\u00e6us the prophet, and Zacharias the son of Addo, prophesied a prophecy to ",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "EZR.6:1",
+      "residual": "hen King Darius issued adecree, and asearch was made in the ",
+      "proposed_repair": "Then King Darius issued adecree, and asearch was made in the archives, where the",
+      "missing_prefix": "Then ",
+      "classification": "human_verified",
+      "prefix_score": 0.4528,
+      "brenton_verse": "Then Darius the king made a decree, and caused a search to be made in the record",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "EZR.7:1",
+      "residual": "ow after these things, in the reign of Artaxerxes king of Pe",
+      "proposed_repair": "Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son ",
+      "missing_prefix": "Now ",
+      "classification": "human_verified",
+      "prefix_score": 0.6,
+      "brenton_verse": "Now after these things, in the reign of Arthasastha king of the Persians, came u",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "EZR.8:1",
+      "residual": "hese are the heads of their fathers' houses, the leaders who",
+      "proposed_repair": "These are the heads of their fathers' houses, the leaders who",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "And these are the heads of their families, the leaders that went up with me in t",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "EZR.9:1",
+      "residual": "hen these things were done, the leaders came to me, saying, ",
+      "proposed_repair": "Then these things were done, the leaders came to me, saying, 'The people of Isra",
+      "missing_prefix": "Then ",
+      "classification": "human_verified",
+      "prefix_score": 0.7018,
+      "brenton_verse": "And when these things were finished, the princes drew near to me, saying, The pe",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "EZR.10:1",
+      "residual": "nd as Ezra prayed, and as he confessed, weeping and praying ",
+      "proposed_repair": "And as Ezra prayed, and as he confessed, weeping and praying before the house of",
+      "missing_prefix": "And ",
+      "classification": "human_verified",
+      "prefix_score": 0.6667,
+      "brenton_verse": "So when Esdras had prayed, and when he had confessed, weeping and praying before",
+      "source": "brenton",
+      "ratified": true
+    }
+  ]
+}

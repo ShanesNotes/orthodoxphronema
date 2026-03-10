@@ -1,0 +1,996 @@
+---
+book_code: 2KI
+book_name: "2 Kings"
+testament: OT
+canon_position: 12
+source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
+parse_date: "2026-03-09"
+promote_date: null
+checksum: "866b274c90a46b9544716e08224b0864c07cc0bf3b11674f54cca22a840980b7"
+status: staged
+deuterocanonical: false
+has_additions: false
+---
+
+## Chapter 1
+
+2KI.1:1 After the death of Ahab, Moab reneged on its covenant with Israel.
+2KI.1:2 Now Ahaziah fell through the lattice of his upper room in Samaria and was injured. He sent messengers, telling them, 'Go, inquire of Baal-Zebub, god of Ekron, whether I shall recover from this injury.' And they went to inquire of him.
+2KI.1:3 But the Angel of the Lord said to Elijah the Tishbite, 'Arise, go and meet the messengers of Ahaziah, the king of Samaria, and say to them, 'Is it because there is no God in Israel that you are going to inquire of Baal-Zebub god of Ekron?
+2KI.1:4 This is not true,' says the Lord, 'and you shall not come down from the bed to which you have gone up, but you shall surely die.' '
+2KI.1:5 So Elijah went and told them. When the messengers returned to the king, he asked them, 'Why did you return?'
+2KI.1:6 They said to him, 'A man came up to meet us, and said to us, 'Go, return to the king who sent you, and say to him, 'Thus says the Lord: 'Is it because there is no God in Israel that you are going to inquire of Baal-Zebub god of Ekron? This is not true. You shall not come down from the bed to which you have gone up, but you shall surely die.' ' '
+2KI.1:7 Then the king said to them, 'What were the distinguishing marks of the man who came up to meet you and told you these words?'
+2KI.1:8 They answered him, 'A hairy man wearing a leather belt around his waist.'
+2KI.1:9 And he said, 'It is Elijah the Tishbite.' Then the king sent to him a captain of fifty with his fifty men. So he went up to him; and there was Elijah, sitting on the top of a hill. And he spoke to him, 'Man of God, the king summoned you. Come down!'
+2KI.1:10 Elijah answered and said to the captain of fifty, 'If I am a man of God, then fire will come down from heaven and consume you and your fifty men.' And fire came down from heaven and consumed the captain of fifty and his fifty.
+2KI.1:11 Then the king again sent to him another captain of fifty with his fifty men. He answered and said to him, 'Man of God, the king said, 'Come down quickly!' '
+2KI.1:12 So Elijah answered and spoke to him, 'If I am a man of God, fire will come down from heaven and consume you and your fifty men.' The fire of God came down from heaven and consumed him and his fifty.
+2KI.1:13 Then the king sent yet a third captain of fifty with his fifty men. The third captain of fifty went up, and came and fell on his knees before Elijah and pleaded with him, and said to him, 'Man of God, please let my life and the life of these fifty servants of yours be precious in your sight.
+2KI.1:14 Look, fire came down from heaven and burned up the first two captains of fifties with their fifties. But let my life now be precious in your sight.'
+2KI.1:15 The Angel of the Lord said to Elijah, 'Go down with him; do not be afraid of him.' So he arose and went down with him to the king.
+2KI.1:16 Then Elijah spoke to him and said, 'Thus says the Lord: 'Why did you send captains with fifty messengers to inquire? It shall not be so. You shall not come down from the bed to which you have gone up, but you shall surely die.' '
+2KI.1:17 So he died according to the word of the Lord which Elijah spoke.
+
+### Jehoram King of Israel
+
+2KI.1:18 Now the rest of the acts Ahaziah did, are these not written in the Book of the Chronicles of the kings of Israel?
+2KI.1:19 Jehoram, the son of Ahab, reigned over Israel in Samaria twelve years, beginning in the eighteenth year of Jehoshaphat, king of Judah.
+2KI.1:20 He did evil before the Lord, but not as his brothers nor as his mother.
+2KI.1:21 He removed the pillars of Baal which his father made and broke them into pieces; nevertheless, he was joined to the sins of the house of Jeroboam, which caused Israel to sin. He did not remove himself from them.
+
+### Elijah Caught Up to Heaven
+
+2KI.1:22 The Lord in anger was furious against the house of Ahab.
+## Chapter 2
+
+2KI.2:1 As the time came to be for the Lord to take up Elijah into hea
+2KI.2:2 Then Elijah said to Elisha, 'Stay here, please, for the Lord sent me to Bethel.' But Elisha said, 'As the Lord lives, and as your soul lives, I will not leave you!' So they went to Bethel.
+2KI.2:3 Now the sons of the prophets at Bethel came out to Elisha, and said to him, 'Do you know that this day the Lord will take away your master from over your head?' And he said, 'I know. Please be silent!'
+2KI.2:4 Then Elijah said to him, 'Elisha, stay here, please, for the Lord sent me to Jericho.' But he said, 'As the Lord lives, and as your soul lives, I will not leave you!' And they went to Jericho.
+2KI.2:5 Now the sons of the prophets in Jericho came to Elisha and said to him, 'Do you know that this day the Lord will take away your master from over your head?' So he answered, 'I know, please be silent!'
+2KI.2:6 Then Elijah said to him, 'Stay here, please, for the Lord sent me on to the Jordan.' But Elisha said, 'As the Lord lives, and as your soul lives, I will not leave you!' So both of them went on.
+2KI.2:7 Fifty men of the sons of the prophets went and stood facing them at a distance, while the two of them stood by the Jordan.
+2KI.2:8 Now Elijah took his mantle, rolled it up, and struck the water. The water divided this way and that, and the two of them crossed on dry ground.
+2KI.2:9 So it was that during the time they crossed over, Elijah said to Elisha, 'Ask what I may do for you, before I am taken away from you.' Elisha said, 'Please let a double portion of your spirit be upon me.'
+2KI.2:10 So Elijah said, 'You have asked a hard thing. If you see me when I am taken up from you, it shall be so for you; and if not, it shall not be so.'
+2KI.2:11 Thus it came to be, as they walked and continued to talk, behold a chariot of fire appeared with horses of fire, and the fire separated them one from the other; and Elijah was taken up into heaven by a whirlwind.
+2KI.2:12 Then Elisha saw it and cried aloud, 'Father, O father, the chariot of Israel and its horsemen!' He saw Elijah no more, and he took hold of his own clothes and tore them into two pieces.
+2KI.2:13 Then he raised Elijah's mantle, which fell from Elijah and upon Elisha, and Elisha returned and stood on the bank of the River Jordan.
+2KI.2:14 He took Elijah's mantle which had fallen upon him and struck the water, but it did not divide. Then he said, 'Where is the Lord God of Elijah himself?' And he struck the water again, and it divided this way and that. So Elisha crossed over.
+2KI.2:15 When the sons of the prophets in Jericho met him and saw him, they said, 'The spirit of Elijah rests on Elisha.' And they came to meet him and bowed to the ground before him.
+2KI.2:16 They said to him, 'Look! There are fifty men of power with your servants. Please let them go and search for your master, lest perhaps the Spirit of the Lord took him up and cast him into the Jordan or onto one of the mountains or onto one of the hills.' Elisha said, 'Send no one.'
+2KI.2:17 But they urged him till he was ashamed, and he said, 'Send them!' They sent fifty men and searched for three days, but did not find him.
+
+### Elisha Works Miracles
+
+2KI.2:18 They came back to where Elisha stayed in Jericho. And he said to them, 'Did I not say to you, 'Do not go'?'
+2KI.2:19 Then the men of the city said to Elisha, 'Behold, as my lord can see, this city is a pleasant place to live, but the water is bad, and the ground is barren.'
+2KI.2:20 So Elisha said, 'Bring me a new water pitcher and put salt in it.' So they brought it to him.
+2KI.2:21 Then he went out to the spring of the waters and cast salt into it, and said, 'Thus says the Lord: 'I have healed these waters; from them there shall no longer be death or barrenness.' '
+2KI.2:22 So the water was healed by the word Elisha spoke, and so it remains today.
+2KI.2:23 From there he went up to Bethel. Along the way some young boys came from the city who continued teasing him by saying, 'Go up, baldy, go up!'
+2KI.2:24 So Elisha turned around and stared at them. He then cursed them in the name of the Lord, and two female bears came out of the woods and mauled forty-two of the boys.
+
+### Israel and Moab at War
+
+2KI.2:25 From there he went to Mount Carmel, and from there he returned to Samaria.
+## Chapter 3
+
+2KI.3:1 Jehoram the son of Ahab became king over Israel in the eighte
+2KI.3:2 He did evil in the eyes of the Lord, but not like his father and mother, for he removed the sacred pillars of Baal his father built.
+2KI.3:3 But still he persisted in the sin of Jeroboam the son of Nebat, who caused Israel to sin; he did not depart from it.
+2KI.3:4 Now Mesha king of Moab was a herdsman, and in the beginning of the year he regularly paid tribute to the king of Israel, one hundred thousand lambs and the wool of one hundred thousand rams.
+2KI.3:5 But when Ahab died, the king of Moab rebelled against the king of Israel.
+2KI.3:6 So King Jehoram went out of Samaria at that time and inspected all Israel.
+2KI.3:7 Then he went and sent to Jehoshaphat king of Judah, saying, 'The king of Moab rebelled against me. Will you go with me to fight against Moab?' And he said, 'I will go. I am as you are, my people as your people, my horses as your horses.'
+2KI.3:8 Then he said, 'Which way shall we go up?' And he answered, 'By way of the Desert of Edom.'
+2KI.3:9 So the king of Israel went with the king of Judah and the king of Edom, and this roundabout march took them seven days to complete. There was no water for the army or for the animals that went with them.
+2KI.3:10 And the king of Israel said, 'Alas! That the Lord should call these three kings together only to deliver them into the hand of Moab.'
+2KI.3:11 But Jehoshaphat said, 'Is there no prophet of the Lord here, that we may inquire of the Lord by him?' So one of the servants of the king of Israel answered and said, 'Elisha the son of Shaphat, who poured water on Elijah's hands, is here.'
+2KI.3:12 And Jehoshaphat said, 'He has the word of the Lord.' So the king of Israel and Jehoshaphat and the king of Edom went down to him.
+2KI.3:13 Elisha said to the king of Israel, 'What have I to do with you? Go to the prophets of your father.' But the king of Israel said to him, 'No, has the Lord called these three kings together to deliver them into the hands of Moab?'
+2KI.3:14 And Elisha said, 'As the Lord of hosts lives, before whom I stand, surely were it not that I regard the presence of Jehoshaphat king of Judah, I would not look at you nor see you.
+2KI.3:15 But now bring me a harpist.'
+2KI.3:16 When the harpist played, the hand of the Lord came upon him. And he said, 'Thus says the Lord: 'Fill this valley with ditches.'
+2KI.3:17 For Thus says the Lord: 'You shall not see wind, nor shall you see rain; yet that valley shall be filled with water, so that you, your beasts, and your cattle may drink.'
+2KI.3:18 And this is easy in the eyes of the Lord. Then I will deliver Moab into your hand.
+2KI.3:19 Thus you shall attack every fortified city; you shall cut down every good tree; you shall stop up every spring of water, and ruin every good piece of land with stones.'
+2KI.3:20 Now when the grain offering was offered in the morning, behold water came from the direction of Edom, and the land was filled with water.
+2KI.3:21 All the Moabites heard that the kings had come up to wage war against them. All those being able to bear armor and older uttered loud cries and stood at the border.
+2KI.3:22 The Moabites rose early in the morning, when the sun was shining on the water. They saw the water on the other side being as red as blood.
+2KI.3:23 So they said, 'This is blood. The kings have surely struck swords and have killed one another. Now Moab, to the spoils!'
+2KI.3:24 They entered the camp of Israel; and Israel rose and smote Moab, and they fled before them. They pursued them and killed the Moabites as they went.
+2KI.3:25 They razed the cities, and each man threw a stone on every good piece of land and filled it; they stopped every spring; cut down all the good trees, leaving only the stones of the wall; and they pulled down the sling-throwers that surrounded them and broke them.
+2KI.3:26 When the king of Moab saw that the battle was too fierce for him, he took seven hundred men with him who drew swords, to break through to the king of Edom. But they could not.
+
+### Elisha and the Poor Widow's Oil
+
+2KI.3:27 Then he took his firstborn son who would rule in his place, and up against the wall they offered him up as a burnt offering. Then a great remorse came upon Israel, and they departed from him and turned back toward their land.
+## Chapter 4
+
+2KI.4:1 The wife of one of the sons of the prophets cried out to Elisha, saying, 'Your s
+2KI.4:2 Elisha said to her, 'What shall I do for you? Tell me what you have in the house.' She replied, 'Your maidservant has nothing in the house but the oil I use to anoint myself.'
+2KI.4:3 Then he said, 'Go, borrow vessels from everywhere, from all your neighbors, empty vessels; do not gather just a few.
+2KI.4:4 And you shall go in and shut the door behind yourself and your sons. Then you shall pour out into these vessels, and take away what is being filled.'
+2KI.4:5 So she went from him and did so. She shut the door behind herself and her sons. Then they brought the vessels to her, and she poured
+2KI.4:6 until the vessels were filled. And she said to her son, 'Bring me an additional vessel.' And they said to her, 'There is not another vessel.' So the oil ceased.
+
+### Elisha Raises the Shunammite Woman's Son
+
+2KI.4:7 Then she came and told the man of God. And Elisha said, 'Go, sell the oil and pay your debt. Thus you and your sons shall live by means of the rest of the oil.'
+2KI.4:8 Now one day Elisha went to Shunem, where there was a persuasive woman, and she persuaded him to eat some food. So it was, as often as he passed by, he would turn in there to eat some food.
+2KI.4:9 And the woman said to her husband, 'Look now, I know this is a holy man of God who comes to us regularly.
+2KI.4:10 Let us make a small room upstairs; and let us put a bed for him there, with a table, a stool, a chair, and a lamp stand. And it shall be when he comes to us, he will turn aside into this place.'
+2KI.4:11 Now it happened one day that he came and he went there, and turned aside into the upper room and lay down there.
+2KI.4:12 Then he said to his servant, Gehazi, 'Call this Shunammite woman.' He called her, and she stood before him.
+2KI.4:13 And he said to Gehazi, 'Say now to her, 'Hear me. You have shown us all this care. What can I do for you? Do you have any request for the king or the commander of the army?' ' But she answered, 'I dwell among my own people.'
+2KI.4:14 So Elisha said, 'What then is to be done for her?' And his servant, Gehazi, replied, 'She certainly has no son, and her husband is old.'
+2KI.4:15 Then Elisha called her, and she stood by the door.
+2KI.4:16 And Elisha said, 'About this time next year, you shall embrace a son.' So she said, 'No, my lord, do not lie to your maidservant!'
+2KI.4:17 Then as Elisha told her, the woman conceived, and she bore a son when the appointed time came.
+2KI.4:18 And the child grew.
+2KI.4:19 And it came to pass when he went out to his father to the reaping, that he said to his father, 'My head, my head!' His father said to a servant, 'Carry him to his mother.'
+2KI.4:20 So he carried him to his mother, and he lay upon her knees till noon and died.
+2KI.4:21 She took him up and laid him on the bed of the man of God. She went out and closed the door as she left.
+2KI.4:22 She called to her husband and said, 'Please bring to me one of the young men and one of the donkeys. I will ride quickly to the man of God and come back.'
+2KI.4:23 So he said, 'Why go to him today? It is neither the New Moon nor the Sabbath.' And she replied, 'It is well.'
+2KI.4:24 She saddled the donkey and said to her servant, 'Lead onward and do not slacken the pace for me unless I tell you.'
+2KI.4:25 She rode and came to the man of God at Mount Carmel. And when the man of God saw her, he said to his servant Gehazi, 'Look, it is that Shunammite woman!
+2KI.4:26 Please run now to meet her and say to her, 'Is it well with you? Is it well with your husband? Is it well with the child?' ' And she answered, 'Peace.'
+2KI.4:27 Now she came to the man of God on the hill and took hold of him by the feet, but Gehazi came near to push her away. But the man of God said, 'Leave her alone; for her soul is in deep distress, and the Lord hid it from me and did not tell me.'
+2KI.4:28 So she said, 'Did I ask my lord for a son? Did I not tell you not to deceive me?'
+2KI.4:29 Then Elisha said to Gehazi, 'Prepare yourself, take my staff in your hand and be on your way. If you meet anyone, you will not greet him. And if anyone greets you, you will not answer him. You shall lay my staff on the face of the child.'
+2KI.4:30 Then the mother of the child said, 'As the Lord lives, and as your soul lives, I will not leave you.' So Elisha arose and followed her.
+2KI.4:31 Now Gehazi went on ahead of them and laid the staff on the child's face; but there was neither voice nor hearing. So he went back to meet him, and told him, saying, 'The child is not awakened.'
+2KI.4:32 Elisha went into the house, and there was the child, lying dead on his bed.
+2KI.4:33 He went into the room and shut the door against the other two, and prayed to the Lord.
+2KI.4:34 Then he went up and lay on the child, and put his mouth on his mouth, his eyes on his eyes, and his hands on his hands; and he bowed himself down upon him, and the flesh of the child warmed.
+2KI.4:35 He returned and walked back and forth in the house, and he went up and bowed himself down upon the child seven times, and the child opened his eyes.
+2KI.4:36 Then Elisha called Gehazi and said, 'Call this Shunammite woman.' So he called her. And she came to where he was and he said, 'Take your son.'
+
+### The Other Miracles
+
+2KI.4:37 So she went in, fell at his feet, and bowed to the ground. Then she took her son and went out.
+2KI.4:38 Then Elisha returned to Gilgal, and there was a famine in the land. Now the sons of the prophets were sitting before him; and Elisha said to his servant, 'Put on the large pot and boil some pottage for the sons of the prophets.'
+2KI.4:39 So one went out into the field to gather herbs, and found a wild vine and gathered from it alapful of wild gourds, and threw them into the pot of soup, though they did not know what they were.
+2KI.4:40 Then they served it to the men to eat. Now, as they were eating the vegetables, they cried out and said, 'Man of God, there is death in the pot!' And they could not eat it.
+2KI.4:41 So he said, 'Take wheat flour and throw it in the pot.' Then Elisha said to his servant Gehazi, 'Serve it to the people and let them eat.' Thus there was no longer anything harmful in the pot.
+2KI.4:42 Then a man came from Baal-Shalisha and brought to the man of God the firstfruits, twenty loaves of barley bread and fruit cake. And he said, 'Give it to the people and let them eat.'
+2KI.4:43 But his servant said, 'Why shall I set this before one hundred men?' Elisha said, 'Give it to the people and let them eat, for Thus says the Lord: 'They shall eat and will leave some behind.' '
+
+### Naaman Cured of Leprosy
+
+2KI.4:44 So they ate and had some left over, according to the word of the Lord.
+## Chapter 5
+
+2KI.5:1 Now Naaman, commander of the army of Syria, was a great and honorable man in the 
+2KI.5:2 And the Syrians, lightly armed, had gone out on raids and brought back captive a young girl from the land of Israel. She waited on Naaman's wife.
+2KI.5:3 Then she said to her mistress, 'If only my master were with the prophet of God in Samaria! For he would expel his leprosy from him.'
+2KI.5:4 And she went in and told her master, saying, 'This is what the girl from the land of Israel said.'
+2KI.5:5 Then the king of Syria said to Naaman, 'Go now, and I will send a letter to the king of Israel.' So he departed and took with him ten talents of silver, six thousand gold shekels, and ten changes of clothing.
+2KI.5:6 Then he brought the letter to the king of Israel, which said, 'Now be advised, when this letter comes to you, that I am sending Naaman my servant to you, so that you may heal him of his leprosy.'
+2KI.5:7 And it came to pass, when the king of Israel read the letter, he tore his clothes and said, 'Am I God, able to kill and make alive, to heal this man of his leprosy that this man sends to me? You perceive and see that this man is using this as a pretext for a quarrel with me.'
+2KI.5:8 When Elisha the man of God heard the king of Israel had torn his clothes, he sent notice to the king, saying, 'Why have you torn your clothes? Let Naaman come to me, and he shall know there is a prophet in Israel.'
+2KI.5:9 Then Naaman went with his horses and chariot and stood at the door of Elisha's house.
+2KI.5:10 And Elisha sent a messenger to him, saying, 'Go and bathe in the Jordan seven times, and your flesh shall be restored to you, and you shall be clean.'
+2KI.5:11 But Naaman became furious and went away, saying, 'Indeed, I told myself that Elisha would come out to greet me; that he would stand and call on the name of his God; and that he would put his hand upon the place and heal the leprosy.
+2KI.5:12 Are not the Abanah and the Pharpar, the rivers of Damascus, better than all the waters of Israel? Can I not bathe in them and be clean?' So he turned and went away in a rage.
+2KI.5:13 Then his servants approached and said to him, 'If the prophet were to tell you to do something great, would you not complete it? But here the prophet said to you, 'Bathe and be clean.' '
+2KI.5:14 So Naaman went down and dipped seven times in the Jordan, according to Elisha's instruction, and his flesh was restored like the flesh of a little child, and he was cleansed.
+2KI.5:15 Then he, with all his aides, returned to Elisha and came and stood before him; and he said, 'Indeed, now I have come to know that in all the earth there is no God except the God of Israel. Now accept the gift of your servant.'
+2KI.5:16 But Elisha said, 'As the Lord lives before whom I stand, I will receive nothing.' Again he urged him to take it, but he refused.
+2KI.5:17 So Naaman said, 'If not, then, please let your servant be given two mule-loads of red earth; for your servant will no longer offer either burnt offering or sacrifice to other gods, but to the Lord alone.
+2KI.5:18 And let the Lord be merciful with your servant: when my master goes there, to the house of Rimmon, to worship, he will rely on my hand, and I will worship in the house of Rimmon. In the worship in the house of Rimmon, may the Lord be merciful to your servant in this matter.'
+2KI.5:19 Then Elisha said to Naaman, 'Go in peace.'
+2KI.5:20 He departed from him but a short distance. Then Gehazi, the servant of Elisha, said, 'Behold, my master spared this Syrian Naaman, yet from his hand he received nothing of what he brought; but as the Lord lives, I will run after him and take something of his.'
+2KI.5:21 So Gehazi pursued Naaman. When Naaman saw him running after him, he turned from the chariot to meet him.
+2KI.5:22 And Gehazi said, 'Peace. My master sent me saying, 'Indeed, just now two young men of the sons of the prophets came to me from the mountains of Ephraim. Give them a talent of silver and two changes of garments.' '
+2KI.5:23 Then Naaman said, 'Take two talents of silver.' So Gehazi took two talents of silver in two bags, with two changes of garments, and handed them to two of his servants. They left and carried them on ahead of him.
+2KI.5:24 As they entered into the darkness, he took them from their hands and stored them in the house. He then dismissed the men.
+2KI.5:25 Now he went in and stood before his master. And Elisha said to him, 'From where have you come, Gehazi?' And he said, 'Your servant did not go anywhere.'
+2KI.5:26 Then Elisha said to him, 'Did not my heart go with you when the man turned back from his chariot to meet you? And now you received the silver and the garments, and it shall happen that you shall receive from him gardens and olive groves and vineyards and sheep and oxen and men-servants and handmaidens.
+2KI.5:27 And the leprosy of Naaman shall also cling to you and your seed forever.' Thus he went out from his presence leprous, like snow.
+## Chapter 6
+
+2KI.6:1 Then the sons of the prophets said to Elisha, 'See now, the strip of land where 
+2KI.6:2 Please let us go to the River Jordan, and let every man take a log and build there a dwelling place.' So he answered, 'Go.'
+2KI.6:3 And one of them humbly requested, 'Come with your servants.' And he replied, 'I will go.'
+2KI.6:4 Then he went with them, and they came to the River Jordan and began to cut trees.
+2KI.6:5 But as one man was cutting a log, the iron ax head fell into the water. He cried out and said, 'Alas, master, it was borrowed.'
+2KI.6:6 So the man of God said, 'Where did it fall?' And he showed him the place. So he broke off a stick of wood and threw it in the water at the same place; and the iron ax head rose to the surface.
+
+### Defeat of Syria
+
+2KI.6:7 Then Elisha said, 'Raise it up to yourself.' So he reached down into the water and lifted it out.
+2KI.6:8 Now the king of Syria was making war against Israel; and he consulted with his servants, saying, 'I shall encamp in this specific place.'
+2KI.6:9 Then Elisha sent word to the king of Israel, saying, 'Be careful not to pass this place, for the Syrians are hidden there.'
+2KI.6:10 In response, the king of Israel sent someone to this place which Elisha warned about, and thereby kept careful watch over the Syrians on more than two occasions.
+2KI.6:11 As a result, the king of Syria became troubled as to what was happening. He called his officers and said to them, 'Will you not tell me who gives advance warning of our movements to the king of Israel?'
+2KI.6:12 And one of his officers said, 'No one, O lord my king. It is Elisha the prophet in Israel that tells the words you speak in your bedroom to the king of Israel.'
+2KI.6:13 So he said, 'Go, see where this man is, and I will send and kidnap him.'
+2KI.6:14 They sent word to him, saying, 'Behold, he is in Dothan.' So he sent horses and chariots and a great army that arrived at night to surround the city.
+2KI.6:15 When Elisha's servant arose early and went out, the army was there, surrounding the city with horses and chariots. And his servant said to him, 'O master, what shall we do?'
+2KI.6:16 So he answered, 'Do not fear, for those who are with us are greater in number than those who are with them.'
+2KI.6:17 Then Elisha prayed, and said, 'Lord, open the eyes of the servant and let him see.' And the Lord opened the eyes of the young man, and he was now able to see, and he beheld the mountain full of horses and chariots of fire round about Elisha.
+2KI.6:18 Then the Syrians marched toward him, and Elisha prayed to the Lord and said, 'Strike these people with blindness.' And He struck them with blindness according to the word of Elisha.
+2KI.6:19 So Elisha said to them, 'This is not the city nor is this the way to it. Follow me, and I will bring you to the man you seek.' But he led them away to Samaria.
+2KI.6:20 So it came to be when they arrived in Samaria, Elisha said, 'Lord, open their eyes and let them see.' Thus the Lord completely restored their ability to see. And behold, they were in the midst of Samaria.
+2KI.6:21 Now when the king of Israel saw them, he said to Elisha, 'O father, shall I not strike to kill them?'
+2KI.6:22 But he answered, 'You shall not kill them. Would you kill those whom you took captive with your sword and your bow? Set food and water before them, that they may eat and drink and return to their lord.'
+
+### Syria Besieges Samaria
+
+2KI.6:23 Then he prepared a great feast for them, and after they ate and drank, he dismissed them and they departed to their lord. So lightly armed raiding parties of Syrians no longer came into the land of Israel.
+2KI.6:24 And it came to pass that after this, the son of Hadad king of Syria gathered all the troops of his army and went up and besieged Samaria.
+2KI.6:25 There was a great famine in Samaria. Indeed they besieged it even to the point where the value placed on the head of a donkey was fifty shekels of silver, and two quarts of dove droppings cost five shekels of silver.
+2KI.6:26 As the king of Israel was passing by on the wall, a woman cried out to him, saying, 'Save me, my lord, O king!'
+2KI.6:27 And he said, 'If the Lord does not save you from the threshing floor or from the winepress, how can I save you?'
+2KI.6:28 Then the king said to her, 'What is troubling you?' And she answered, 'This woman said to me, 'Give us your son so that we may eat him today, and we will eat my son tomorrow.'
+2KI.6:29 So we boiled my son and ate him. And on the next day I told her, 'Give me your son so that we may eat him,' but she hid her son.'
+2KI.6:30 Now when the king heard the woman's words, he tore his clothes, and as he passed by on the wall, the people saw that underneath his clothes he wore sackcloth on his body.
+2KI.6:31 Then he said, 'God do so to me and more also, if the head of Elisha remains on him today.'
+2KI.6:32 Now Elisha was sitting in his house, and the elders were sitting with him, when the king sent a man a head of him. But before the messenger came to him, he said to the elders, 'Do you see that this son of a murderer was sent to take away my head? Look, when the messenger comes, shut the door, and keep him on the outside of the door. Is that not the sound of his master's feet behind him?'
+2KI.6:33 While yet talking with them, behold the messenger came down towards him; and the king said, 'Listen! This evil is of the Lord, so why should I remain patient in the Lord?'
+## Chapter 7
+
+2KI.7:1 Then Elisha said, 'Hear the word of the Lord. Thus says the Lord: 'About this ti
+
+### The Syrian Army Flees
+
+2KI.7:2 So the officer on whose hand the king relied retorted to Elisha and said, 'Look, even if the Lord in heaven will make a downpour of rain, this event shall not happen.' And Elisha said, 'Behold, you shall see this with your own eyes, but you shall not eat of it.'
+2KI.7:3 Now at the entrance of the gate there were four leprous men. And one of them said to his neighbor, 'Why are we sitting here until we die?
+2KI.7:4 If we say, 'Let us go into the city,' and there is famine in the city, we will die there. And if we sit here in this place, then we will die. Now therefore, come, let us surrender to the army of the Syrians. If they keep us alive, we shall live; and if they kill us, we shall die.'
+2KI.7:5 So they rose in the darkness to head to the army camp of the Syrians. They entered the outskirts of the army camp and no one was there.
+2KI.7:6 For the Lord had caused the army of Syria to hear the noise of chariots and the noise of horses, the noises of a very great army. For the Lord made the army of Syria say to one another, 'Look, the king of Israel hired against us the kings of the Hittites and the kings of the Egyptians to attack us!'
+2KI.7:7 So they arose in the darkness and quietly fled for their lives, leaving their tents, their horses, and their donkeys at the campsite.
+2KI.7:8 And when these lepers came to the outskirts of the camp, they went into one tent and ate and drank, and carried away from it silver and gold and clothing. Then they left and came back to enter another tent to take from there and to hide the spoils.
+2KI.7:9 And one said to the others, 'This is not right. This day is a day of good news, and if we remain silent and wait until the light of morning, we will find wickedness in the city. Now come here! Let us enter the city and deliver this good news to the house of the king.'
+2KI.7:10 So they went and cried out with aloud voice toward the gate of the city, and proclaimed to them, saying, 'We entered the army camp of Syria and behold, no one was there, not a man nor a human voice. The only things there were the tied-up horses and donkeys, and their tents, which they left intact.'
+2KI.7:11 Then the gatekeepers shouted the news, and it was reported to the house of the king inside.
+2KI.7:12 So the king arose in the night and said to his servants, 'Now I will inform you as to what the Syrians are doing. They know we are hungry. Therefore they went out of the camp to hide themselves in the field, saying, 'When they come out of the city, we shall catch them alive and capture the city.' '
+2KI.7:13 Then one of his servants answered and said, 'Indeed! Let them now take five of the remaining horses, of all that remain of the multitude of Israel, and send them there to see.'
+2KI.7:14 Therefore they saddled two horses, and the king of Israel sent them after the king of Syria, saying, 'Go and see.'
+2KI.7:15 And they went after them even to the Jordan. Indeed all along the way, the road was full of garments and vessels which the Syrians themselves cast away in the panic. So the messengers returned and brought word to the king.
+2KI.7:16 Then the people went out and plundered the army camp of Syria. And a measure of fine flour sold for a shekel, and two measures of barley for a shekel, true to the word of the Lord.
+2KI.7:17 Now the king had appointed the officer, the one on whose hand the king relied, to have charge of the gate. But the people trampled him in the gate, and he died, as the man of God said who spoke when the king came down to him.
+2KI.7:18 So it happened just as Elisha said to the king, saying, 'Two measures of barley for a shekel, and a measure of fine flour for a shekel, shall be sold tomorrow about this time in the gate of Samaria.'
+2KI.7:19 Then the officer had answered Elisha with this retort, 'Look, even if the Lord in heaven should make a downpour of rain, this sort of thing would never happen.' Then Elisha had answered, 'In fact, you shall see it with your eyes, but you shall not eat of it.'
+
+### The Shunammite Woman Returns Home
+
+2KI.7:20 And so it was in this way; for the people trampled him in the gate, and he died.
+## Chapter 8
+
+2KI.8:1 Elisha spoke to the woman whose son he had restored to life s
+2KI.8:2 So the woman arose, and both she and her house did according to the saying of Elisha. They sojourned in the land of the Philistines for seven years.
+2KI.8:3 At the end of seven years, the woman returned from the land of the Philistines and went to make an appeal to the king for her house and for her land.
+2KI.8:4 Now the king spoke to Gehazi, the servant of Elisha, saying, 'Tell me all the significant deeds Elisha has accomplished.'
+2KI.8:5 And it came pass, as he was telling the king how Elisha restored her dead son to life, behold the woman whose son Elisha had restored to life came crying to the king for her house and for her land. And Gehazi said, 'My lord, O king, this is the woman, and this is her son whom Elisha restored to life.'
+
+### Death of the Syrian King
+
+2KI.8:6 So the king asked the woman, and she related this fully to him. Then the king told a certain eunuch, saying, 'Restore all that was hers, and all the proceeds of the field from the day she left the land until now.'
+2KI.8:7 Then Elisha went to Damascus at a time when the son of Hadad the king of Syria was sick. And they brought word to him saying, 'The man of God is here.'
+2KI.8:8 And the king said to Hazael, 'Take in your hand a present and go to meet the man of God, and inquire of the Lord by him, asking, 'Shall I recover from this disease?' '
+2KI.8:9 So Hazael went to meet him. In his hand, he took a present plus all the good things of Damascus, forty camel-loads, and he came and stood before him and said, 'Your son the king of Syria, the son of Hadad, sent me to ask you whether he would recover from this disease.'
+2KI.8:10 So Elisha said to him, 'Go tell him, 'You shall live.' However, the Lord made known to me that he will die by being put to death.'
+2KI.8:11 The man of God wept and sat there until he was ashamed, then he stood up in the presence of Hazael.
+2KI.8:12 At this Hazael said, 'Why does my lord weep?' He answered, 'Because I know the evil you will do to the sons of Israel. You will utterly destroy their strongholds with fire, and you will kill their young men with the sword. You will dash their children and rip open their pregnant women.'
+2KI.8:13 Then Hazael said, 'What is your servant that I should do such a thing, a dead dog?' Elisha answered, 'The Lord has shown me that you will become king over Syria.'
+2KI.8:14 Then he departed from Elisha and came to his lord, who said to him, 'What did Elisha say to you?' And he answered, 'He told me you will live.'
+
+### Jehoram Is King of Judah
+
+2KI.8:15 But on the next day, Hazael took a thick cloth and dipped it in water, and spread it over the face of the king, the son of Hadad, and he died. Hazael reigned in his place.
+2KI.8:16 Now in the fifth year of Joram, the son of Ahab, king of Israel, Joram, the son of Jehoshaphat, king of Judah, began to reign.
+2KI.8:17 He was thirty-two years old when he became king, and he ruled for eight years in Jerusalem.
+2KI.8:18 And he walked in the way of the kings of Israel, just as the house of Ahab had done, for the daughter of Ahab was his wife; and he did evil in the eyes of the Lord.
+2KI.8:19 Yet the Lord would not destroy Judah for the sake of his servant David, as He promised to give a lamp to him and his sons forever.
+2KI.8:20 In his days, Edom revolted against Judah's authority and made a king over themselves.
+2KI.8:21 So Joram went to Seir with all his chariots, and it came to be, after he raised his troops, he struck Edom and the captains of the chariots who had encircled him. The people fled to their tents.
+2KI.8:22 Even so, Edom revolted from being subordinate to the authority of Judah to this day. At the same time Libnah revolted as well.
+2KI.8:23 Behold, the rest of the acts of Joram, and everything he did, are these not written in the Book of the Chronicles of the kings of Judah?
+
+### Ahaziah Is King of Judah
+
+2KI.8:24 So Joram rested with his fathers, and was buried with his fathers in the City of David his father. Then Ahaziah his son reigned in his place.
+2KI.8:25 In the twelfth year of Joram the son of Ahab, king of Israel, Ahaziah the son of Jehoram began to reign.
+2KI.8:26 Ahaziah was twenty-two years old when he became king, and he ruled for one year in Jerusalem. His mother's name was Athaliah the granddaughter of Omri, king of Israel.
+2KI.8:27 And he walked in the way of the house of Ahab and did evil in the eyes of the Lord, like the house of Ahab.
+2KI.8:28 Now he went with Joram the son of Ahab to war against Hazael king of Syria at Ramoth Gilead; and the Syrians wounded Joram.
+
+### Jehu Is King of Israel
+
+2KI.8:29 Then King Joram went back to Jezreel to recover from the wounds the Syrians inflicted on him at Ramah, where he fought against Hazael king of Syria. And Ahaziah the son of Jehoram, king of Judah, went down to see Joram the son of Ahab in Jezreel, because he was sick.
+## Chapter 9
+
+2KI.9:1 Then Elisha the prophet called one of the sons of the prophets and said to him, 
+2KI.9:2 Now when you arrive at that place, look there for Jehu the son of Jehoshaphat, the son of Nimshi, and go in and awaken him from among his brethren, and take him to the innermost chamber.
+2KI.9:3 Then take the flask of oil, pour it on his head, and say, 'Thus says the Lord: 'I have anointed you king over Israel.' Then open the door and flee, and do not delay.'
+2KI.9:4 So the young man, the prophet, went to Ramoth Gilead.
+2KI.9:5 When he arrived where the captains of the army were sitting, he said, 'I have a message for you, O captain.' Jehu said, 'For which one of us?' And he said, 'For you, O captain.'
+2KI.9:6 Then he arose and went into the house. And he poured the oil on his head, and said to him, 'Thus says the Lord God of Israel, 'I have anointed you king over the people of the Lord, over Israel.
+2KI.9:7 You shall destroy the house of Ahab your master, that I may avenge the blood of My servants the prophets and the blood of all the servants of the Lord at the hand of Jezebel
+2KI.9:8 and by the hand of all the house of Ahab, and you shall cut off from the house of Ahab every male held captive, those looked after and those in solitary confinement.
+2KI.9:9 Then I will deliver the house of Ahab, like the house of Jeroboam the son of Nebat and like the house of Baasha the son of Ahijah.
+2KI.9:10 The dogs shall eat Jezebel on the plot of ground at Jezreel, and there shall be no one to bury her.' ' And he opened the door and fled.
+2KI.9:11 Then Jehu came out to the servants of his master, and they said to him, 'Peace to you. Why did this possessed man come to you?' And he said to them, 'You know the man and his babble.'
+2KI.9:12 And they said, 'Liar! Now you tell us.' And Jehu said to them, 'Thus and thus he spoke to me, saying, 'Thus says the Lord: 'I anointed you king over Israel.' ' '
+
+### Israel's King Joram Is Killed
+
+2KI.9:13 When they heard this, they hastened to take their garments and to place them beneath him on the top of the stairs. And they blew trumpets, saying, 'Jehu is king!'
+2KI.9:14 So Jehu the son of Jehoshaphat, the son of Nimshi, conspired against Joram; and Joram was defending Ramoth Gilead, he and all Israel, against Hazael king of Syria;
+2KI.9:15 and King Joram had returned to Jezreel to recover from the wounds the Syrians had inflicted on him when he fought with Hazael king of Syria. Jehu said, 'If your heart is with me, let no one leave or escape from the city to go and tell it in Jezreel.'
+2KI.9:16 So Jehu rode ahead and came down to Jezreel; for Joram, king of Israel, was being restored to health in Jezreel from the arrow wounds the Syrians inflicted on him with the bow in Ramoth, in the battle with Hazael king of Syria; for he was powerful and a man of strength. And Ahaziah king of Judah came down to see Joram.
+2KI.9:17 Now a watchman went up on the tower in Jezreel, and saw Jehu's dust as he came, and said, 'I see dust.' And Joram said, 'Get a horseman and send him to meet them. Let him say, 'It is a time for peace.' '
+2KI.9:18 So the horseman went to meet him, and said, 'Thus says the king, 'Let there be peace.' ' And Jehu said, 'What do you have to do with peace? Turn around and follow me.' So the watchman reported, saying, 'The messenger went to them, but is not coming back.'
+2KI.9:19 Then he sent out a second horseman, who came to them and said, 'Thus says the king, 'It is time for peace!' ' And Jehu answered, 'What do you have to do with peace? Turn around and follow me.'
+2KI.9:20 So the watchman reported, saying, 'He went up to them and is not coming back. And he brought Jehu the son of Nimshi, for he was in a frenzy!'
+2KI.9:21 Then Joram exclaimed, 'Make ready! Harness a chariot!' Then Joram king of Israel and Ahaziah king of Judah went out, each in his chariot, for a meeting with Jehu. They found him on the property of Naboth the Jezreelite.
+2KI.9:22 Now it happened when Joram saw Jehu, he said, 'Jehu, let there be a time of peace.' And he answered, 'How can there be a time of peace? The sexual immorality of Jezebel your mother and her sorceries are still many.'
+2KI.9:23 Then Joram turned the reigns in his hand to flee, and said to Ahaziah, 'This is treachery, Ahaziah!'
+2KI.9:24 But Jehu drew back on his bow fully and shot Joram with an arrow between his shoulders. The arrow came out through his heart, and he buckled at his knees.
+2KI.9:25 Then Jehu said to Bidkar his officer, 'Cast him into the portion of the field of Naboth the Jezreelite; for I remember when you and I were mounting onto a pair of chariots behind Ahab, Joram's father, and the Lord took upon Himself this promise against Ahab, saying,
+
+### Judah's King Ahaziah Is Killed
+
+2KI.9:26 'Yesterday,' says the Lord, 'I surely saw the blood of Naboth and the blood of his sons. I will recompense to him in this same portion.' Therefore now, pick him up and cast him into the portion of ground, according to the word of the Lord.'
+2KI.9:27 But when Ahaziah king of Judah saw this, he fled on the road to Beth Haggan. So Jehu pursued after him, saying, 'Him, too!' And on the ascent of Gur, one struck him in the chariot, near Ibleam. He then fled to Megiddo and died there.
+2KI.9:28 From here, his servants carried him in the chariot to Jerusalem, and buried him in his tomb in the City of David.
+
+### The Bloody Death of Jezebel
+
+2KI.9:29 And in the eleventh year of Joram king of Israel, Ahaziah became king over Judah.
+2KI.9:30 Now Jehu returned to Jezreel, and Jezebel received the news of it. She put black makeup on her eyes and adorned her head, and she stooped down and peeked through the window.
+2KI.9:31 As Jehu entered into the city, she said, 'Peace, Zimri, the murderer of his master.'
+2KI.9:32 Jehu raised his eyes upward toward the window and saw her, and said, 'Who are you? Come down by me.' Then two eunuchs looked down at him.
+2KI.9:33 He exclaimed, 'Throw her down.' So they threw her down, and her blood splattered against the wall, even on the horses which trampled her.
+2KI.9:34 Then Jehu went in, and he ate and drank, and said, 'Indeed, have care for this cursed woman. Give her a proper burial, as she is the daughter of a king.'
+2KI.9:35 So they went to bury her, but no more of her was found but the skull, the feet, and the palms of her hands.
+2KI.9:36 They came back and told Jehu. And he said, 'This is the word the Lord spoke by His servant Elijah the Tishbite, saying, 'On the plot of ground at Jezreel, dogs shall eat the flesh of Jezebel;
+
+### The Sons of Ahab Are Killed
+
+2KI.9:37 and Jezebel's corpse shall be like dung on the face of the field in the plot at Jezreel, so that they shall not say, 'Here lies Jezebel.' ' '
+## Chapter 10
+
+2KI.10:1 Ahab had seventy sons in Samaria. And Jehu wrote a letter and 
+2KI.10:2 'At the moment this letter is delivered to you, since your master's sons are with you, and because you have chariots and horses, a fortified city, and weapons,
+2KI.10:3 choose the best qualified of your master's sons, then set him on his father's throne, and prepare to fight for your master's house.'
+2KI.10:4 But they were very afraid and said, 'Look, two kings could not stand up to him. How can we stand?'
+2KI.10:5 Those over the house and over the city, plus the elders, and including even those who reared the sons, sent word to Jehu, saying, 'We are your servants and we will do everything you tell us, but we will not make anyone king. Do what is good in your eyes.'
+2KI.10:6 Then Jehu wrote them a second letter, saying, 'If you are for me and obey my voice, take the heads of the sons of your lord, and by this time tomorrow, bring them to me at Jezreel.'
+2KI.10:7 Now the sons of the king totaled seventy men. These well-educated headmasters from within the city reared them. But when the letter came to them, they took the seventy sons of the king and slaughtered them. They then put their heads in baskets and sent them to Jehu at Jezreel.
+2KI.10:8 Then a messenger came and spoke to Jehu, saying, 'They have brought the heads of the king's sons.' And he said, 'Lay them in two heaps at the entrance of the gate until morning.'
+2KI.10:9 So in the morning, he went out and stood at the gate and said to all the people, 'You are the righteous ones! Indeed, I conspired against my master and killed him. But who struck down all these?
+2KI.10:10 See then that not one thing from the word of the Lord against the house of Ahab fall on the ground for any reason. For the Lord has fulfilled all He spoke of by the authority of His servant Elijah.'
+
+### Ahaziah's Brothers Are Killed
+
+2KI.10:11 So Jehu killed all who remained of the house of Ahab in Jezreel: all his well-educated headmasters, his friends, and his priests, so no remnant of him survived.
+2KI.10:12 Then Jehu arose and departed to Samaria. When he was at Beth Eked of the Shepherds,
+2KI.10:13 Jehu found the brothers of Ahaziah king of Judah and said, 'Who are you?' So they answered, 'We are the brothers of Ahaziah. We came down to greet the sons of the king and the sons of the queen mother.'
+
+### Other Relatives of Ahab Killed
+
+2KI.10:14 And he said, 'Take them alive!' So they took them alive and killed these forty-two men at Beth Eked; he left not one of them alive.
+2KI.10:15 After he departed from there, he found Jehonadab the son of Rechab coming to greet him, and he bestowed a blessing on him. Jehu said to him, 'Is your heart right with my heart, as my heart is right with your heart?' And Jehonadab answered, 'It is.' Jehu said, 'If it is, give me your hand.' So he gave him his hand, and he brought him into the chariot.
+2KI.10:16 Then he said, 'Come with me, and see my zeal for the Lord of Hosts.' So Jehonadab rode in his chariot.
+
+### Worshipers of Baal Are Killed
+
+2KI.10:17 And when Jehu came to Samaria, he killed all who remained to Ahab in Samaria till he had completely destroyed them, according to the word the Lord spoke through Elijah.
+2KI.10:18 Then Jehu gathered all the people together and said to them, 'Ahab served Baal a little; Jehu will serve him much.
+2KI.10:19 Now all the prophets of Baal, all the servants of his and the priests of his, must call upon me. Let not a man be missing, for I have a great sacrifice to offer Baal. Whoever is missing will not live.' But Jehu acted in deception in order to destroy the servants of Baal.
+2KI.10:20 And Jehu said, 'Proclaim a solemn assembly for Baal.' So they proclaimed it.
+2KI.10:21 Then Jehu sent to all Israel, saying, 'And now all the servants of Baal, and all his priests and all his prophets, let no one be left out. For I am making a great sacrifice, and if anyone is not in attendance, he shall not live.'
+2KI.10:22 Then all the servants of Baal and all his priests and all his prophets came. There was not a man who did not come, no one was left behind. And they entered the house of Baal, and the house of Baal was filled from one end to the other. So he said to the one in charge of the house and the wardrobe, 'Bring out vestments for all the servants of Baal.' And the one in charge of the vestments brought them.
+2KI.10:23 Then Jehu and Jehonadab the son of Rechab entered the house of Baal and said to the servants of Baal, 'Search and see whether there are any servants of the Lord here, or only servants of Baal.'
+2KI.10:24 So they went in to offer sacrifices and burnt offerings. Now Jehu appointed for himself eighty guards to be on the outside and said to them, 'If any of the men I brought into your hands escapes, whoever lets him escape, it shall be his life for the life of the one he spares.'
+2KI.10:25 Now it happened that when Jehu finished offering the whole burnt offering, he said to the guards and to the officers, 'Go in and kill every person. Let no one come out!' And they killed them with the edge of the sword. Being completely overrun, the guards, even the officers, cast the bodies out. They then proceeded to the city of the house of Baal,
+2KI.10:26 and they brought out the foundational pillar of Baal and burned it.
+2KI.10:27 Then they pulled down the other pillars of Baal and demolished the house. It was made into a latrine, and remains so to this day.
+2KI.10:28 Thus Jehu destroyed Baal from Israel.
+2KI.10:29 However, Jehu did not turn away from the sins of Jeroboam the son of Nebat, who caused Israel to sin by way of the golden calves that were at Bethel and Dan.
+2KI.10:30 So the Lord said to Jehu, 'Because of the many upright deeds which you did to carry out the good in My sight, and according to all things that were in My heart which you did to the house of Ahab, your sons to the fourth generation shall sit for you on the throne of Israel.'
+
+### Death of Jehu
+
+2KI.10:31 Even still, Jehu took no heed to walk in the law of the Lord God of Israel with his whole heart. He did not depart from the sins of Jeroboam, who caused Israel to sin.
+2KI.10:32 In those days, the Lord began to divide off parts of Israel. All along the border of Israel, Hazael defeated them;
+2KI.10:33 from the Jordan River eastward, all the land of Gilead of the Gadites, that of Gad and that of Reuben and of Manasseh; from Aroer, which is on the bank of the brook of Arnon, and to Gilead and Bashan.
+2KI.10:34 Now the rest of the acts of Jehu, all he did, all the wars he engaged in and the alliances he formed, are these not written in the Book of the Chronicles of the kings of Israel?
+2KI.10:35 So Jehu rested with his fathers, and they buried him in Samaria. Then Jehoahaz his son ruled in his place.
+
+### Athaliah Is Queen of Judah
+
+2KI.10:36 And the period that Jehu reigned over Israel in Samaria was twenty-eight years.
+## Chapter 11
+
+2KI.11:1 Athaliah the mother of Ahaziah saw her sons were dead, and th
+2KI.11:2 But Jehosheba the daughter of King Joram, sister of Ahaziah, kidnapped Joash, her brother's son, and kept him from being among the murdered sons of the king. She hid Joash and his nurse in the secret room by the bed. In this way he was safe from Athaliah and was not killed.
+2KI.11:3 Thus while Athaliah reigned over the land, he remained hidden with her in the house of the Lord.
+2KI.11:4 In the seventh year, Jehoiada the priest sent for the captains of hundreds, both Chorri and Rasim, and had them brought to him in the house of the Lord. After he made a covenant with them, a binding oath in the house of the Lord, Jehoiada showed them the son of the king.
+2KI.11:5 Then he commanded them, saying, 'This is what you shall do: When the Sabbath comes, one-third of you shall keep guard over the house of the king by the gate,
+2KI.11:6 and one-third by the gate of the roads, and one-third by the gate behind the escorts. You shall keep the evening watch of the house.
+2KI.11:7 Two divisions you have are off-duty on the Sabbath. For the sake of the king, they shall keep the evening watch of the house of the Lord.
+2KI.11:8 And you shall surround the king on all sides, every man with his weapons in his hand. And anyone penetrating their ranks, let him be put to death. You shall be with the king in his going out and his coming in.'
+2KI.11:9 So the captains of the hundreds did according to all the wise Jehoiada commanded. Each of them took his men, those to be on duty on the Sabbath and those going off duty on the Sabbath, and came to Jehoiada the priest.
+2KI.11:10 So the priest gave the captains of hundreds the swords and spears of King David, those kept in the house of the Lord.
+2KI.11:11 Then the guards stood, every man with his weapons in his hand, from the right corner of the house to the corner of the house left of the altar, and round about the house of the king.
+
+### Queen Athaliah Dies
+
+2KI.11:12 And he brought out the king's son, put the crown on him, and gave him the Testimony. They thereby announced him king and anointed him. They then clapped their hands and said, 'Long live the king!'
+2KI.11:13 Athaliah heard the noise of the people running, and she went to the people in the temple of the Lord.
+2KI.11:14 When she looked, there was the king standing by a pillar according to decree; and the singers and the trumpeters were by the king. All the people of the land were rejoicing and blowing trumpets. So Athaliah tore her clothes and cried out, 'Treason! Treason!'
+2KI.11:15 So Jehoiada the priest commanded the captains of the hundreds and the officers of the army and said to them, 'Lead her out to the field under guard, and slay her with the sword, and whoever follows her.' For the priest had said, 'Do not let her be killed in the house of the Lord.'
+
+### The Reforms of Jehoiada
+
+2KI.11:16 They laid their hands upon her and went by way of the horse entrance to the house of the king. She died there.
+2KI.11:17 Jehoiada the priest made a covenant between the Lord, the king, and the people, that they would remain the Lord's people. He also made one between the king and the people.
+2KI.11:18 Then all the people of the land went to the house of Baal, and they completely tore it down and broke it all to pieces, its altars and its images. And before the altars, they killed Mattan the priest of Baal. The priest then placed overseers over the house of the Lord.
+2KI.11:19 Then he took the captains of hundreds, Chorri and Rasim, and all the people of the land, and he led the king from out of the house of the Lord. They then went by way of the gate of the guardhouse to the king's house, and they sat him on the throne of the kings.
+
+### Joash Is King of Judah
+
+2KI.11:20 So all the people of the land rejoiced, and the city was at peace. And in the house of the king, they killed Athaliah with the sword.
+## Chapter 12
+
+2KI.12:1 Joash was seven years old when he began to reign.
+2KI.12:2 He began his reign in the seventh year of Jehu, and he ruled for forty years in Jerusalem. His mother's name was Zibiah of Beersheba.
+2KI.12:3 And all the days in which Jehoiada the priest enlightened him, Joash did what was right in the eyes of the Lord.
+
+### Repairs of the Temple
+
+2KI.12:4 However, none of the high places were removed, and the people still sacrificed and burned incense on the high places.
+2KI.12:5 And Joash said to the priests, 'With regard to all the silver arising from things consecrated, the silver offerings of the house of the Lord-the valuation of the silver assessed for each man-all the silver which comes from the heart of the man who brings it into the house of the Lord,
+2KI.12:6 let the priests take for themselves, each man from the silver that comes in. But they must maintain the repairs to the temple, whenever and whatever repairs are needed.'
+2KI.12:7 Now it came to be that by the twenty-third year of King Joash, the priests had not maintained the repair of the temple.
+2KI.12:8 So King Joash called Jehoiada the priest and the other priests and said to them, 'Why have you not repaired and maintained the temple? Now take the silver from the treasury and use it to repair and maintain the temple.'
+2KI.12:9 So the priests, all with one voice, agreed they would not receive any more silver from the people until they had made all the repairs to the temple.
+2KI.12:10 Then Jehoiada the priest took a chest, bored a hole in its lid, and placed it on the right side of the altar in the house of the Lord. Then the priests who kept the weights put in the chest all the money found in the house of the Lord.
+2KI.12:11 And it came to be that whenever they noticed a large amount of silver in the chest, the king's scribe and the high priest put it in bags and weighed the silver found that day in the house of the Lord.
+2KI.12:12 Then they gave the silver apportioned for repairs into the hands of those who did the work, who had the oversight of the house of the Lord; to the carpenters and builders who worked on the house of the Lord,
+2KI.12:13 to the masons, to the hewers of stone, to the buyers of wood, to make all repairs to the house of the Lord, and for all things discharged to maintain the house of the Lord.
+2KI.12:14 However, silver doors, nails, bowls, and trumpets-any vessel of gold or vessel of silver-were not to be made from any of the silver brought into the house of the Lord.
+2KI.12:15 For this was given to the workmen who repaired the house of the Lord with it,
+2KI.12:16 for they did not require an account from the men into whose hands they delivered the silver, for the workmen dealt faithfully.
+2KI.12:17 Money for a sin offering, and money for a trespass offering, and any money brought into the house of the Lord went to the priests.
+2KI.12:18 In those days, Hazael king of Syria went up to wage war against Gath, and they captured it. Then Hazael set his face to war against Jerusalem.
+2KI.12:19 So Joash king of Judah took all the sacred things dedicated by his fathers, Jehoshaphat and Jehoram and Ahaziah, kings of Judah, his own sacred things, all the gold found in the treasuries of the house of the Lord and in the king's house, and sent them on to Hazael king of Syria. Then Hazael went away from Jerusalem.
+2KI.12:20 Now the rest of the acts of Joash and everything he did, are these not written in the Book of the Chronicles of the kings of Judah?
+2KI.12:21 And his servants rose up and formed a conspiracy, and killed Joash in the house of the Millo in Silla.
+
+### Jehoahaz Is King of Israel
+
+2KI.12:22 For Jozachar the son of Shimeath and Jehozabad the son of Shomer, his servants, struck him, and he died. And they buried him with his fathers in the City of David. Then Amaziah his son reigned in his place.
+## Chapter 13
+
+2KI.13:1 In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz th
+2KI.13:2 And he did evil in the eyes of the Lord, and followed the sins of Jeroboam the son of Nebat, who led Israel to sin. He did not depart from them.
+2KI.13:3 Thus the Lord was roused to anger against Israel, and He delivered them into the hand of Hazael king of Syria, and into the hand of the son of Hadad, the son of Hazael, for all their days.
+2KI.13:4 But Jehoahaz pleaded with the Lord, and the Lord heard him; for He saw the oppression of Israel, because the king of Syria oppressed them.
+2KI.13:5 Then the Lord gave deliverance to Israel, so they escaped from under the hand of the Syrians. And the sons of Israel dwelt in their habitations as before.
+2KI.13:6 But still they did not depart from the sins of the house of Jeroboam, who led Israel to sin, but walked in them. Indeed, the wooden image remained in Samaria.
+2KI.13:7 Yet there were no more troops left for Jehoahaz except fifty horsemen, ten chariot drivers, and ten thousand infantry. For the king of Syria destroyed them and made them like dust to be trampled.
+2KI.13:8 Now the rest of the acts of Jehoahaz, everything he did, and his mighty acts, are these not written in the Book of the Chronicles of the kings of Israel?
+
+### Jehoash Is King of Israel
+
+2KI.13:9 So Jehoahaz rested with his fathers, and they buried him in Samaria. Then Joash his son ruled in his place.
+2KI.13:10 In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz became king over Israel in Samaria and ruled for sixteen years.
+2KI.13:11 And he did evil in the eyes of the Lord. He did not depart from all the sins of Jeroboam the son of Nebat, who led Israel to sin. He walked in them.
+2KI.13:12 Now the rest of the acts of Joash, everything he did, and his might in fighting with Amaziah king of Judah, is all this not written in the Book of the Chronicles of the kings of Israel?
+
+### The Death of Elisha
+
+2KI.13:13 And Joash slept with his fathers, and Jeroboam sat upon his throne in Samaria among the sons of Israel.
+2KI.13:14 Elisha became sick with an illness from which he would die. Joash king of Israel came down to him and wept before him, and said, 'My father! My father! The chariots of Israel and their horsemen!'
+2KI.13:15 And Elisha said to him, 'Take a bow and some arrows.' So he brought him a bow and some arrows.
+2KI.13:16 Then he said to the king, 'Put your hand on the bow.' So he put his hand on it, and Elisha put his hands on the king's hands.
+2KI.13:17 Then he said, 'Open the east window.' And he opened it. Then Elisha said, 'Shoot the arrow with the bow,' and he shot. And Elisha said, 'An arrow of the Lord's deliverance; an arrow of release from Syria. For you will strike the Syrians at Aphek till their end.'
+2KI.13:18 Then Elisha said to him, 'Take the bow of an archer.' And he did. And he said to the king of Israel, 'Strike the ground.' So the king struck three times and stopped.
+2KI.13:19 Then the man of God was grieved and said, 'If you had struck five or six times, then you would have struck Syria till you had destroyed it! But now you shall strike Syria only three times.'
+2KI.13:20 Now Elisha died, and they buried him. Then in the following year, the raiding bands from Moab invaded the land.
+
+### Israel Retakes Syrian Cities
+
+2KI.13:21 And it came to pass, as they were burying a man, they beheld a lightly armed band of raiders, and cast the man into the tomb of Elisha. When the man touched the bones of Elisha, he revived and stood up on his feet.
+2KI.13:22 Now Hazael king of Syria oppressed Israel all the days of Jehoahaz.
+2KI.13:23 But the Lord had mercy on them. He pitied them and watched over them because of His covenant with Abraham, Isaac, and Jacob. Thus He did not want to destroy them or cast them from His presence.
+2KI.13:24 Now Hazael king of Syria died. Then the grandson of Hadad reigned in his place.
+
+### Amaziah Is King of Judah
+
+2KI.13:25 And Jehoash the son of Jehoahaz returned and captured the cities out of the hand of the grandson of Hazael, the cities which he took from the hand of Jehoahaz his father in the war. Joash defeated him three times and recaptured the cities of Israel.
+## Chapter 14
+
+2KI.14:1 In the second year of Joash the son of Jehoahaz, king of Israel, Amaziah the son
+2KI.14:2 He was twenty-five years old when he became king, and he ruled for twenty-nine years in Jerusalem. His mother's name was Jehoaddan of Jerusalem.
+2KI.14:3 He did what was right in the eyes of the Lord, yet not like his father David. He did everything as did his father Joash.
+2KI.14:4 However, he did not remove the high places, and the people still sacrificed and burned incense on the high places.
+2KI.14:5 And it came to be, when the kingdom was established in his hand, Amaziah had his servants who had murdered his father struck with a deadly blow.
+2KI.14:6 But he did not have the sons of the murderers put to death, for just as it is written in the Book of the Law of Moses, as the Lord commanded, saying, 'Fathers shall not face death on behalf of their sons, nor shall sons face death on behalf of their father, but each one shall face death for his own sin.'
+2KI.14:7 He killed ten thousand Edomites in the Valley of Salt, and took Sela by war and called it Joktheel, until this day.
+2KI.14:8 Then Amaziah sent messengers to Jehoash the son of Jehoahaz, the son of Jehu, king of Israel, saying, 'Come here! Let us look one another in the face.'
+2KI.14:9 So Jehoash king of Israel sent to Amaziah king of Judah, saying, 'The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, 'Give your daughter to my son as wife'; but wild beasts of the fields in Lebanon passed by and trampled the thistle.
+2KI.14:10 You indeed defeated Edom, and your heart lifts you up. So while sitting at your house, be glorified in yourself; why wrangle in your hateful feelings and fall to your destruction, and Judah with you?'
+2KI.14:11 But Amaziah did not heed the words. So the king of Israel went up, and he and Amaziah king of Judah looked one another in the face at Beth Shemesh of Judah.
+2KI.14:12 Thus Judah fell before Israel, and every man fled to his tent.
+2KI.14:13 Then Jehoash son of Jehoahaz, king of Israel, captured Amaziah king of Judah, the son of Jehoash, the son of Ahaziah, at Beth Shemesh. And Jehoash came to Jerusalem and broke down four hundred cubits of the wall of Jerusalem, from the Gate of Ephraim to the Corner Gate.
+2KI.14:14 He took the silver and gold and all the vessels found in the house of the Lord and in the treasuries of the king's house, and the indentured servants, and returned to Samaria.
+2KI.14:15 Now the rest of the acts of Jehoash, including all he did in his might, how he fought with Amaziah king of Judah, are these not written in the Book of the Chronicles of the kings of Israel?
+2KI.14:16 So Jehoash rested with his fathers and was buried in Samaria with the kings of Israel. Then Jeroboam his son ruled in his place.
+2KI.14:17 Amaziah the son of Joash, king of Judah, lived fifteen years after the death of Jehoash the son of Jehoahaz, king of Israel.
+2KI.14:18 Now the rest of the acts of Amaziah and all he did, are these not written in the Book of the Chronicles of the kings of Judah?
+2KI.14:19 They plotted a conspiracy against Amaziah in Jerusalem, and he fled to Lachish. But they sent after him to Lachish, and there they put him to death.
+2KI.14:20 They brought him on horses, and he was buried at Jerusalem with his fathers in the City of David.
+2KI.14:21 Afterwards, all the people of Judah took Azariah, when he was sixteen years old, and made him king in place of his father Amaziah.
+
+### Jeroboam II Is King of Israel
+
+2KI.14:22 After the king rested with his fathers, Azariah rebuilt Elath and restored it to Judah.
+2KI.14:23 In the fifteenth year of Amaziah the son of Joash, Jeroboam the son of Joash became king over Israel in Samaria and ruled for forty-one years.
+2KI.14:24 And he did evil in the eyes of the Lord and did not depart from all the sins of Jeroboam the son of Nebat, who led Israel to sin.
+2KI.14:25 He rescued the people from the territory of Israel, from the entrance to Hamath as far as the Sea of the Arabah, in accordance with the word the Lord God of Israel spoke through His servant Jonah the son of Amittai, the prophet from Gath Hepher.
+2KI.14:26 For the Lord saw that the affliction of Israel was very bitter; that they were few in number, lacking much and forsaken, and there was no one to come to the aid of Israel.
+2KI.14:27 And the Lord said He would not blot out the seed of Israel from beneath heaven; so He delivered them by the hand of Jeroboam the son of Joash.
+2KI.14:28 Now the rest of the acts of Jeroboam, and all that he did and his power to wage war, and how he rescued Damascus and Hamath of Judah for Israel, are these not written in the Book of the Chronicles of the kings of Israel?
+
+### Uzziah Is King of Judah
+
+2KI.14:29 So Jeroboam rested with his fathers, the kings of Israel. Then Azariah the son of Amaziah ruled in his place.
+## Chapter 15
+
+2KI.15:1 In the twenty-seventh year of Jeroboam king of Israel, Uzziah the son of Amaziah
+2KI.15:2 He was sixteen years old when he became king, and he ruled for fifty-two years in Jerusalem. His mother's name was Jecholiah of Jerusalem.
+2KI.15:3 And he did what was right in the eyes of the Lord, according to everything his father Amaziah had done,
+2KI.15:4 except that he did not remove any of the high places. The people still sacrificed and burned incense on the high places.
+2KI.15:5 Then the Lord touched the king, and he was a leper to the day of his death. He reigned in a house isolated from all others. Concerning matters of the household, Jotham the son of the king judged the people of Israel.
+2KI.15:6 Now the rest of the acts of Uzziah and everything he did, are these not written in the Book of the Chronicles of the kings of Judah?
+
+### Zachariah Is King of Israel
+
+2KI.15:7 So Uzziah rested with his fathers, and they buried him with his fathers in the City of David. Then Jotham his son reigned in his place.
+2KI.15:8 In the thirty-eighth year of Uzziah king of Judah, Zechariah the son of Jeroboam ruled over Israel in Samaria for six months.
+2KI.15:9 And he did evil in the eyes of the Lord, as his fathers had done. He did not depart from the sins of Jeroboam the son of Nebat, who led Israel to sin.
+2KI.15:10 Then Shallum, the son of Jabesh, and Keblaam conspired against him. They struck and killed him, and Shallum ruled in his place.
+2KI.15:11 Now the rest of the acts of Zechariah, indeed they are written in the Book of the Chronicles of the kings of Israel.
+
+### Shallum Is King of Israel
+
+2KI.15:12 This was the word of the Lord which He spoke to Jehu saying, 'Your sons shall sit on the throne of Israel to the fourth generation.' And so it was.
+2KI.15:13 Shallum the son of Jabesh became king in the thirty-ninth year of Uzziah king of Judah. And Shallum ruled for a month in Samaria.
+2KI.15:14 For Menahem the son of Gadi went up from Tirzah and came to Samaria. He struck Shallum the son of Jabesh in Samaria and killed him.
+2KI.15:15 Now the rest of the acts of Shallum, and the conspiracy he led, indeed they are written in the Book of the Chronicles of the kings of Israel.
+
+### Menahem Is King of Israel
+
+2KI.15:16 Then Menahem attacked Tirzah, all who were there, and the extended area of Tirzah, because they did not open their gates to him. There he ripped open all the women who were with child.
+2KI.15:17 In the thirty-ninth year of Azariah king of Judah, Menahem the son of Gadi became king over Israel and ruled for ten years in Samaria.
+2KI.15:18 And he did evil in the eyes of the Lord. He did not depart from all the sins of Jeroboam the son of Nebat, who had made Israel sin.
+2KI.15:19 In his days, Pul king of Assyria came against the land, and Menahem gave Pul a thousand talents of silver, so his hand would be with him.
+2KI.15:20 This money Menahem exacted from Israel, fifty shekels of silver each from all the very wealthy, as tribute to the king of Assyria. So the king of Assyria turned back, and he did not remain in the land.
+2KI.15:21 Now the rest of the acts of Menahem and everything he did, are these not written in the Book of the Chronicles of the kings of Israel?
+
+### Pekahiah Is King of Israel
+
+2KI.15:22 So Menahem rested with his fathers. Then Pekahiah his son reigned in his place.
+2KI.15:23 In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem became king over Israel in Samaria and ruled for two years.
+2KI.15:24 And he did evil in the eyes of the Lord. He did not depart from the sins of Jeroboam the son of Nebat, who made Israel sin.
+2KI.15:25 Then Pekah the son of Remaliah his officer, along with Argob and Arieh, conspired against him and attacked him in Samaria, in the citadel of the king's house. With him were fifty men of the four hundred. Pekah killed him and became king in his place.
+
+### Pekah Is King of Israel
+
+2KI.15:26 Now the rest of the acts of Pekahiah and everything he did are written in the Book of the Chronicles of the kings of Israel.
+2KI.15:27 In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah became king over Israel in Samaria and ruled for twenty years.
+2KI.15:28 He did evil in the eyes of the Lord and did not depart from all the sins of Jeroboam the son of Nebat, who led Israel to sin.
+2KI.15:29 In the days of Pekah king of Israel, Tiglath-Pileser king of Assyria came and captured Ijon, Abel Beth Maachah, Janoah, Kedesh, Hazor, Gilead, and Galilee, the entire land of Naphtali. He exiled the people to Assyria.
+2KI.15:30 Then Hoshea the son of Elah led a conspiracy against Pekah the son of Remaliah, and struck and killed him. He became king in his place, in the twentieth year of Jotham the son of Uzziah.
+
+### Jotham Is King of Judah
+
+2KI.15:31 Now the rest of the acts of Pekah and everything he did are written in the Book of the Chronicles of the kings of Israel.
+2KI.15:32 In the second year of Pekah the son of Remaliah, king of Israel, Jotham the son of Uzziah became king of Judah.
+2KI.15:33 He was twenty-five years old when he became king, and he ruled for sixteen years in Jerusalem. His mother's name was Jerusha the daughter of Zadok.
+2KI.15:34 And he did what was right in the eyes of the Lord, according to everything his father Uzziah had done.
+2KI.15:35 However, he did not remove the high places. The people still sacrificed and burned incense on the high places. He built the Upper Gate of the house of the Lord.
+2KI.15:36 Now the rest of the acts of Jotham and everything he did, are these not written in the Book of the Chronicles of the kings of Judah?
+2KI.15:37 In those days the Lord began to send Rezin king of Syria and Pekah the son of Remaliah against Judah.
+
+### Ahaz Is King of Judah
+
+2KI.15:38 So Jotham rested with his fathers and was buried with them in the City of David, his father. Ahaz his son reigned in his place.
+## Chapter 16
+
+2KI.16:1 In the seventeenth year of Pekah the son of Remaliah, Ahaz the son of Jotham bec
+2KI.16:2 Ahaz was twenty years old when he became king, and he ruled for sixteen years in Jerusalem. He did not do what was right in the eyes of the Lord his God, and he was not faithful as was his father David.
+2KI.16:3 But he walked in the way of Jeroboam, the son of Nebat, king of Israel; indeed, he made his son pass through the fire, according to the abominations of the nations whom the Lord had cast out before the sons of Israel.
+2KI.16:4 And he sacrificed and burned incense on the high places, on the hills, and under every tree growing in the woods.
+2KI.16:5 Then Rezin king of Syria and Pekah the son of Remaliah, king of Israel, came up to Jerusalem to make war. They began to besiege Ahaz, but they could not sustain the war.
+2KI.16:6 At that time, Rezin king of Syria returned Elath to Syria and drove the men of Judah from Elath. Then the Edomites went to Elath, where they continue to dwell to this day.
+2KI.16:7 So Ahaz sent messengers to Tiglath-Pileser king of Assyria, saying, 'I am your servant and your son. Come up and save me from the hand of the king of Syria and from the hand of the king of Israel. They have risen up against me.'
+2KI.16:8 And Ahaz took the silver and gold found in the treasuries of the house of the Lord and the house of the king, and delivered it as a gift to the king.
+2KI.16:9 So the king of Assyria heeded him, and he went up against Damascus and took it. He removed the inhabitants and killed Rezin.
+2KI.16:10 Now King Ahaz went to Damascus to meet Tiglath-Pileser king of Assyria. There in Damascus, he saw an altar. And King Ahaz sent to Urijah the priest the design of the altar and its pattern, according to all its workmanship.
+2KI.16:11 Then Urijah the priest built an altar according to the design plans King Ahaz sent from Damascus.
+2KI.16:12 When the king saw the altar, he went up to it
+2KI.16:13 and offered his burnt offering on it, and his sacrifice and his drink offering, and sprinkled the blood of his peace offerings on the altar.
+2KI.16:14 He also relocated the bronze altar, which was before the Lord, forward from between the new altar and the house of the Lord. He put it on the north side of the new altar.
+2KI.16:15 Then King Ahaz commanded Urijah the priest, saying, 'On the large altar, offer the morning burnt offering, the evening sacrifice, the king's whole burnt offering with his sacrifice, and the whole burnt offering of all the people with their sacrifice, and their drink offerings. And sprinkle on it all the blood of the burnt offering and all the blood of the sacrifice. The bronze altar shall be mine for the early morning.'
+2KI.16:16 And Urijah the priest did everything King Ahaz commanded.
+2KI.16:17 hen King Ahaz cut off the embossments of the bases and removed the lavers from them. He took down the Sea from the bronze oxen under it and put it on a stone base.
+2KI.16:18 And he built the foundation for the throne in the house of the Lord, and he brought the king's entrance back into the house of the Lord, which had been outside because of the king of Assyria.
+2KI.16:19 And the rest of the acts of Ahaz, even all he did, are they not written in the Book of the Chronicles of the kings of Judah?
+2KI.16:20 So Ahaz rested with his fathers and was buried with his fathers in the City of David. His son Hezekiah reigned in his place.
+## Chapter 17
+
+### Hoshea Is King of Israel
+
+2KI.17:1 In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah became king of Israel in Samaria, and he ruled for nine years.
+2KI.17:2 And he did evil in the eyes of the Lord, but not like the kings of Israel before him.
+2KI.17:3 Shalmaneser the king of Assyria came up against him. Now Hoshea was his servant and had paid tribute to him.
+
+### Israel Exiled to Assyria
+
+2KI.17:4 And the king of Assyria found scheming in Hoshea. He had sent messengers to Segor the king of Egypt, but in that year, they did not bring any tribute back to the king of Assyria. Therefore the king of Assyria besieged him and bound him in prison.
+2KI.17:5 Now the king of Assyria marched through the entire land. He went up to Samaria and besieged it for three years.
+2KI.17:6 In the ninth year of Hoshea, the king of Assyria took Samaria and exiled Israel to Assyria, where he placed them along the rivers of Gozan, in Halah, and in Habor, and on the mountains of the Medes.
+2KI.17:7 For the sons of Israel had sinned against the Lord their God who brought them out of the land of Egypt, from under the hand of Pharaoh king of Egypt. But still they came to fear other gods
+2KI.17:8 and to walk in the very customs of the nations the Lord had cast out before the face of Israel, before the kings of Israel who did this;
+2KI.17:9 so many sons of Israel clothed themselves with customs contrary to the Lord their God, and built for themselves high places in all their cities, by use of the watchtowers guarding the fortified city.
+2KI.17:10 They set up for themselves pillars and made wooden images on every high hill and under every tree growing in the woods.
+2KI.17:11 There they burned incense on all the high places, like the nations whom the Lord previously carried away before them. They acquired familiar spirits and provoked the Lord to great anger.
+2KI.17:12 They even served idols, although the Lord had said to them, 'You shall not do such a thing to the Lord.'
+2KI.17:13 And the Lord solemnly testified against Israel and against Judah by the authority of all His prophets and seers, saying, 'Turn from your evil ways. Keep My commandments and My statutes and all the law I commanded your fathers. Keep all that I sent to them through the authority of My servants the prophets.'
+2KI.17:14 But they did not heed His voice. Instead, they stiffened their necks, making them more unbending than their fathers.
+2KI.17:15 They did not keep the testimonies with which He charged them, but instead followed vain things and became vain. They followed the nations around them in the very things the Lord commanded them not to do.
+2KI.17:16 So they left all the commandments of the Lord their God, and instead made for themselves a molten image, two heifers. And they made a wooden image and worshiped all the host of heaven and served Baal.
+2KI.17:17 They caused their sons and daughters to pass through the test of fire; they consulted oracles and divined from the cries of birds; and they even sold themselves to do evil in the sight of the Lord, to provoke Him to anger.
+2KI.17:18 Thus the Lord became exceedingly angry with Israel, and He removed them from His presence. There was none left, except only for the tribe of Judah alone.
+2KI.17:19 But no, not even Judah kept the commandments of the Lord their God. Instead they walked according to the customs and traditions Israel had made.
+2KI.17:20 They rejected the Lord, throughout all the seed of Israel. So He afflicted them and gave them over to the hand of those plundering them, until He cast them forth from His presence.
+2KI.17:21 And this because the house of Israel had in earlier days revolted from the house of David, and made Jeroboam the son of Nebat king; and because Jeroboam drew back Israel from following the Lord and led them to commit a great sin;
+
+### Assyrians Settle in Israel
+
+2KI.17:22 and only because the sons of Israel walked in all the sins which Jeroboam committed, and did not depart from it,
+2KI.17:23 until the Lord removed Israel from His presence as He spoke by all His servants the prophets. So therefore Israel was exiled from their own land into Assyria until this day.
+2KI.17:24 Then the king of Assyria brought from Babylon the people out of Cuthah, and from Ava, from Hamath, and from Sepharvaim, and they settled in the cities of Samaria in place of the sons of Israel. They gained possession of Samaria and inhabited her cities.
+2KI.17:25 And it came to be in the beginning of their settlement, they did not fear the Lord. And the Lord sent lions among them, which killed some of them.
+2KI.17:26 So it was told to the king of Assyria, saying, 'The nations you exiled, even those you settled in the cities of Samaria, do not know the rituals of the God of the land. Therefore he sent lions among them, and behold, the lions are killing them, because they do not know the rituals of the God of the land.'
+2KI.17:27 Then the king of Assyria commanded, saying, 'Take from the exiles those that came from that place, and let them go and settle there. They will enlighten them concerning the rituals of the God of the land.'
+2KI.17:28 So they brought one of the priests whom they had carried away from Samaria, and he came and dwelt in Bethel, and he enlightened them on how they should fear the Lord.
+2KI.17:29 But each nation continued to make their own gods and to put them in the shrines on the high places the Samaritans made, even in the cities of every nation where they dwelt.
+2KI.17:30 The men of Babylon made Succoth Benoth, the men of Cuth made Nergal, the men of Hamath made Ashima,
+2KI.17:31 and the Avites made Nibhaz and Tartak; and the Sepharvites burned their children in fire to Adrammelech and Anammelech, the gods of Sepharvaim.
+2KI.17:32 Though they were being fearful of the Lord, yet they established their abominations in the houses of the high places they made in Samaria, each nation within the city in which they dwelt. Though they were being fearful of the Lord, even so they appointed for themselves priests of the high places, and made for themselves a sacrifice in the high places.
+2KI.17:33 They feared the Lord and God Himself, yet they worshiped according to the rituals of the nations to which He had exiled them.
+2KI.17:34 Even to this day, they did according to their rituals. They feared the Lord, and yet they acted according to their customs and according to their rituals, and according to their law, and yet according to the commandment which the Lord commanded the sons of Jacob, to whom He gave the name Israel.
+2KI.17:35 For the Lord had made a covenant with them and charged them, saying, 'You shall not fear other gods, nor bow down to them nor serve them nor sacrifice to them.
+2KI.17:36 But only the Lord, who brought you up from the land of Egypt with great power and an outstretched arm-Him you shall fear, Him you shall worship, and to Him you shall offer sacrifice.
+2KI.17:37 And the statutes, the ordinances, the law, and the commandments He wrote for you, you shall be careful to observe forever; you shall not fear other gods.
+2KI.17:38 Thus you shall not forget the covenant I made with you, nor shall you fear other gods.
+2KI.17:39 But you shall fear the Lord your God; and He will deliver you from all your enemies.
+2KI.17:40 And you shall not conform to the rites they practice.'
+
+### Hezekiah Is King of Judah
+
+2KI.17:41 But these nations feared the Lord, yet served their carved images. So their sons and the sons of their sons have continued doing as their fathers did, even to this day.
+## Chapter 18
+
+2KI.18:1 Now in the third year of Hoshea the son of Elah the king of Israel, Hezekiah the
+2KI.18:2 He was twenty-five years old when he became king, and he ruled for twenty-nine years in Jerusalem. His mother's name was Abi the daughter of Zechariah.
+2KI.18:3 And he did what was right in the eyes of the Lord, according to everything his father David did.
+2KI.18:4 He removed the high places and broke into pieces the sacred pillars. He cut down the sacred wooden image and broke in pieces the bronze serpent Moses had made, because up to those days, the sons of Israel had burned incense to it. They called it Nehushtan.
+2KI.18:5 He trusted in the Lord God of Israel, and after him there was none like him among all the kings of Judah, nor among those that were before him.
+2KI.18:6 For he held fast to the Lord; he did not depart from following Him, but kept all the commandments the Lord gave Moses.
+2KI.18:7 The Lord was with him. He prospered wherever he went. So he rebelled against the king of Assyria and did not serve him.
+2KI.18:8 He struck the Philistines as far as Gaza and its territory, from the watchtower to the fortified city.
+2KI.18:9 Now in the fourth year of King Hezekiah, which was the seventh year of Hoshea the son of Elah, king of Israel, Shalmaneser king of Assyria came up against Samaria and besieged it.
+2KI.18:10 And after three years, Shalmaneser captured Samaria. In the sixth year of Hezekiah, that is, the ninth year of Hoshea king of Israel, Samaria was taken.
+2KI.18:11 So the king of Assyria carried the people of Samaria away to Assyria, and put them in Halah, and in Habor, by the River of Gozan, and in the mountains of the Medes.
+
+### Assyria Threatens Jerusalem
+
+2KI.18:12 For they did not obey the voice of the Lord their God, but transgressed His covenant, even in all the things the servant of the Lord Moses commanded. They did not listen to them nor do them.
+2KI.18:13 Then in the fourteenth year of King Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and took them.
+2KI.18:14 So Hezekiah king of Judah sent to the king of Assyria at Lachish, saying, 'I have offended you. Turn away from me and I will pay whatever you impose on me.' And the king of Assyria assessed Hezekiah king of Judah three hundred talents of silver and thirty talents of gold.
+2KI.18:15 So Hezekiah gave him all the silver found in the house of the Lord and in the treasuries of the king's house.
+2KI.18:16 At that time Hezekiah stripped the gold from the doors of the temple of the Lord, and from the pillars Hezekiah king of Judah had overlaid, and gave it to the king of Assyria.
+2KI.18:17 Then the king of Assyria sent Tartan, and Rabsaris, and Rabshakeh from Lachish to King Hezekiah with an overwhelming force against Jerusalem. And they went up and came to Jerusalem and stood near the aqueduct of the upper pool, which is on the way to Fuller's Field.
+2KI.18:18 And they cried aloud to Hezekiah. But Eliakim the son of Hilkiah, the steward, and Shebna the scribe, and Joah the son of Asaph, the recorder, came out to them.
+2KI.18:19 Then Rabshakeh said to them, 'Say now to Hezekiah, 'Thus says the great king, the king of Assyria, 'What is this confidence which you trust?
+2KI.18:20 You speak the words of the lips; however, I speak the purpose and the power of war. Now then, what is persuading you to reject me?
+2KI.18:21 Take notice of yourself and of your trust on this broken staff of Egypt, made from a reed. If a man leans on it, it will pierce his hand. Such is Pharaoh king of Egypt to all who trust in him.
+2KI.18:22 But because you say to me, 'In the Lord God we trust,' is it not He whose high places and His altars Hezekiah removed, saying to Judah and to Jerusalem, 'You shall worship before this altar in Jerusalem'?' '
+2KI.18:23 Therefore now join with my lord the king of Assyria, and I will give you two thousand horses to use in the battle, if you can find horsemen to ride on them!
+2KI.18:24 How will you turn back the presence of one captain of the least of the servants of my lord? Whereas you yourself hope on Egypt for chariots and horsemen!
+2KI.18:25 Now we did not come up against this place to utterly destroy it without the Lord. The Lord said to me, 'Go up against this land and destroy it.' '
+2KI.18:26 Then Eliakim the son of Hilkiah, and Shebna, and Joah said to the Rabshakeh, 'Now speak to your servants in the Syrian language, for we understand; do not speak Hebrew with us. Why is it that you speak to us within the hearing of the people on the wall?'
+2KI.18:27 But Rabshakeh said to them, 'Has my master sent me to your master, or to you, to deliver these words? Was it not to the men who sit on the wall, who along with you will eat their own dung and drink their own urine?'
+2KI.18:28 Then Rabshakeh stood and cried with aloud voice in Hebrew, and spoke, saying, 'Hear the words of the great king of Assyria!
+2KI.18:29 Thus says the king, 'Do not let Hezekiah encourage you with words, for he shall not be able to deliver you from my hand.
+2KI.18:30 Nor let Hezekiah cause you to trust in the Lord, saying, 'The Lord will surely deliver us; this city will not be given into the hand of the king of Assyria.' '
+2KI.18:31 Do not listen to Hezekiah, for thus says the king of Assyria, 'Gain my favor and come out to me, and every man will drink from his own vine, and every man will eat from his own fig tree and drink the waters of his own well,
+2KI.18:32 until I come and take you away to a land like your own land, a land of grain and wine and bread and vineyards, a land of olive oil and honey, and you will live and not die. Do not listen to Hezekiah, for he deceives you, saying, 'The Lord will deliver us.'
+2KI.18:33 Each of the gods of the nations is not, of himself, able to deliver a country from the hands of the king of Assyria.
+2KI.18:34 Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Have they delivered Samaria from my hand?
+2KI.18:35 Who among all the gods of the lands delivered their countries from my hand, that the Lord should deliver Jerusalem from my hand?' '
+2KI.18:36 But the men were silent and did not answer him, not a word, for the king's commandment was, 'Do not answer him.'
+
+### Isaiah Promises Deliverance
+
+2KI.18:37 Then Eliakim the son of Hilkiah, the steward, and Shebna the scribe, and Joah the son of Asaph, the recorder, came to Hezekiah with their clothes torn, and told him the words of Rabshakeh.
+## Chapter 19
+
+2KI.19:1 Then King Hezekiah heard it, he tore his clothes, covered himself with sackcloth
+2KI.19:2 Then he sent Eliakim, the steward, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet, the son of Amoz.
+2KI.19:3 They said to him, 'Thus says Hezekiah, 'This is a day of tribulation and rebuke and great anger. For in the time the children are to be born, the mother has no strength.
+2KI.19:4 If in any way the Lord your God will hear all the words of Rabshakeh, whom his master the king of Assyria sent to insult the living God and revile him with words which the Lord your God has heard, perhaps you will offer a prayer concerning the remnant that is found.' '
+2KI.19:5 So the servants of King Hezekiah appeared before Isaiah,
+2KI.19:6 and Isaiah said to them, 'Thus you shall say to your master, 'Thus says the Lord: 'Do not be afraid of the words of blasphemy you heard uttered by the king of Assyria's servants.
+
+### Assyria Makes Another Threat
+
+2KI.19:7 Surely I will send a spirit upon him, and he shall hear a rumor and return to his own land. And I will strike him down by the sword in his own land.' ' '
+2KI.19:8 Having heard the king had departed from Lachish, Rabshakeh returned and found the king of Assyria warring against Libnah.
+2KI.19:9 And concerning Tirhakah king of Ethiopia, he had heard it being said, 'Look! Tirhakah king of Ethiopia has come out to make war with you.' So he returned, but sent messengers to Hezekiah, saying,
+2KI.19:10 'Do not let your God in whom you trust exalt you, saying, 'Jerusalem shall not be given into the hand of the king of Assyria.'
+2KI.19:11 Listen! You have heard about what all the kings of Assyria have done to all the countries, utterly destroying them, and you think you shall be delivered?
+2KI.19:12 Did the gods of the nations deliver those my fathers destroyed, Gozan and Haran and Rezeph, and the people of Eden who were in Telassar?
+2KI.19:13 Where is the king of Hamath, the king of Arpad, and Sepharvaim, Hena, and Ivah?'
+2KI.19:14 So Hezekiah took the letter from the hand of the messengers and read it. Then Hezekiah went up to the house of the Lord and spread it before the Lord,
+2KI.19:15 and said, 'Lord God of Israel, enthroned on the cherubim, You alone are God in all the kingdoms of the earth. You made heaven and earth.
+2KI.19:16 O Lord, incline Your ear and hear. O Lord, open Your eyes and see. Hear the words Sennacherib sent to reproach the living God.
+2KI.19:17 O Lord, truly the kings of Assyria laid waste the nations
+2KI.19:18 and cast the gods of these nations into the fire, because they are not gods, but only the work of men's hands, of wood and of stone, and they destroyed them.
+
+### Isaiah's Word to King Hezekiah
+
+2KI.19:19 Now, O Lord our God, save us from his hand, so that all the kingdoms of the earth will know that You alone are the Lord God.'
+2KI.19:20 Then Isaiah the son of Amoz sent to Hezekiah, saying, 'Thus says the Lord God of Hosts, the God of Israel, 'I heard the things you prayed concerning Sennacherib king of Assyria.'
+2KI.19:21 This is the word which the Lord spoke against Sennacherib king of Assyria: 'The virgin, the daughter of Zion, despised you, laughed you to scorn. The daughter of Jerusalem shook her head at you!
+2KI.19:22 Whom have you reproached and blasphemed? Against whom have you raised your voice? You lifted up your eyes against the Holy One of Israel!
+2KI.19:23 By the hand of your messengers you reproached the Lord and said, 'With the multitude of my chariots I came up to the height of the mountains, to the limits of Lebanon, and I shall cut down its tall cedars and its choicest cypress trees, and I entered the midst of the forest of Carmel.
+2KI.19:24 I refreshed myself and drank the water of strangers, and with the sole of my foot I desolated all the rivers of defense.'
+2KI.19:25 I formed her and made her so strong that she was effectual against fortified cities,
+2KI.19:26 and those who lived there were too weak, they were dismayed and confounded; they were as the grass of the field and the green herb, like tender shoots on the housetops and grain blighted before it is grown.
+2KI.19:27 But I know your sitting down, and your going out, and your coming in, and your rage against Me.
+2KI.19:28 Because you rage against Me, and your insolence has come up to My ears, therefore I will put My hook in your noses and My bridle in your lips, and I will turn you back by the way you came.'
+2KI.19:29 'This shall be a sign to you. This year you shall eat what grows by itself, and in the second year what springs from it. Then in the third year you shall sow and reap, plant vineyards and eat their fruit.
+2KI.19:30 And the remnant of the house of Judah who escaped shall again take root in the soil, and shall bear fruit on its branches.
+2KI.19:31 For out of Jerusalem shall go a remnant, and he who is being delivered out of Mount Zion. The zeal of the Lord of hosts will do this.
+2KI.19:32 Is it not so? Thus says the Lord concerning the king of Assyria, 'He shall not enter this city, nor shoot an arrow there, nor will a shield come before it, nor will he build a siege mound against it.
+2KI.19:33 By the way he came, by the same way he shall return. And he shall not come into this city,' says the Lord.
+2KI.19:34 'For I will defend this city for My own sake and for the sake of My servant David.' '
+2KI.19:35 And it came about that the angel of the Lord went out while it was yet night, and struck down one hundred eighty-five thousand in the camp of the Assyrians. When they arose early in the morning, all the dead bodies were there.
+2KI.19:36 So Sennacherib king of Assyria departed and left from there. He returned and dwelt in Nineveh.
+
+### Hezekiah Is Sick and Recovers
+
+2KI.19:37 Later it happened, while he was worshipping in the house of Nisroch his god, his sons Adrammelech and Sharezer struck him down with the sword and escaped into the land of Ararat. His son Esarhaddon reigned in his place.
+## Chapter 20
+
+2KI.20:1 In those days Hezekiah was sick and near death. Then Isaiah th
+2KI.20:2 Then Hezekiah turned his face toward the wall and prayed to the Lord, saying,
+2KI.20:3 'O Lord, remember how I walked before You in truth, and with a full heart, and did what was good in Your eyes.' And Hezekiah wept with a great wailing.
+2KI.20:4 Thus while Isaiah was in the middle court, the word of the Lord came to him, saying,
+2KI.20:5 'Return and tell Hezekiah, the leader of My people, 'Thus says the Lord, the God of David your father: 'I have heard your prayer, I have seen your tears. Behold, I will heal you, and on the third day you shall go up to the house of the Lord.
+2KI.20:6 And I will add to your days fifteen years. I will deliver you and this city from the hand of the king of Assyria. I will defend this city for My own sake, and for the sake of My servant David.' ' '
+2KI.20:7 Then Isaiah said, 'Let them take a cake of figs and rest it on the boil, and he will recover.'
+2KI.20:8 And Hezekiah said to Isaiah, 'What is the sign that the Lord will heal me, and that on the third day I shall go up to the house of the Lord?'
+2KI.20:9 And Isaiah said, 'This is the sign from the Lord that the Lord shall do what He said. Either the shadow of the sundial will move forward ten degrees, or should it go backward ten degrees?'
+2KI.20:10 Hezekiah answered, 'It is easy for the shadow on the dial to move forward ten degrees. Therefore, let the shadow return and go backward ten degrees.'
+
+### Ambassadors from Babylon
+
+2KI.20:11 So Isaiah the prophet cried out to the Lord, and the shadow on the dial went backward ten degrees.
+2KI.20:12 At that time Berodach-Baladan the son of Baladan, king of Babylon, sent letters and a present to Hezekiah because he heard Hezekiah was sick.
+2KI.20:13 So Hezekiah rejoiced in them and showed to these messengers all the house of his treasures-the silver and the gold, the spices and good olive oil, even the house of his vessels-all that was found among his treasures. There was nothing in his house or in all his dominion that Hezekiah did not show them.
+2KI.20:14 Then Isaiah the prophet went to King Hezekiah and said to him, 'What did these men say, and from where did they come to you?' So Hezekiah said, 'They came from afar country, from Babylon.'
+2KI.20:15 He said, 'What did they see in your house?' So he answered, 'They saw everything in my house. There was nothing in my house I did not show them, even what is in my treasuries.'
+2KI.20:16 Then Isaiah said to Hezekiah, 'Hear the word of the Lord,
+2KI.20:17 'Behold, the days are coming when everything in your house, and what your fathers accumulated until this day, shall be carried to Babylon. Nothing shall be left,' says the Lord.
+2KI.20:18 'And as for your descendants, your sons, Babylon shall take them, and they shall be eunuchs in the palace of the king of Babylon.' '
+
+### King Hezekiah Dies
+
+2KI.20:19 So Hezekiah said to Isaiah, 'Good is the word of the Lord which He spoke. Let there be peace in my days.'
+2KI.20:20 Now the rest of the acts of Hezekiah, all his might, and how he made a reservoir and an aqueduct, and how he brought water into the city, are these things not written in the Book of the Chronicles of the kings of Judah?
+
+### Manasseh Is King of Judah
+
+2KI.20:21 So Hezekiah rested with his fathers. And he was buried in the city of David. Then Manasseh his son reigned in his place.
+## Chapter 21
+
+2KI.21:1 Manasseh was twelve years old when he became king, and he rul
+2KI.21:2 And he did evil in the eyes of the Lord, according to the abominations of the nations whom the Lord had cast out before the sons of Israel.
+2KI.21:3 For he brought back and built the high places that Hezekiah his father had destroyed. He raised up an altar for Baal, and as Ahab king of Israel did, he made a wooden image. He worshiped all the host of heaven and served them.
+2KI.21:4 He also built an altar in the house of the Lord, of which He had said, 'In Jerusalem I will put My name.'
+2KI.21:5 And he built an altar for all the host of heaven in the two courts of the house of the Lord.
+2KI.21:6 Also, he made his sons pass through the fire and practiced divination. He read omens from the flight and cries of birds, and consulted wizards, and multiplied those familiar with them, to do evil in the sight of the Lord. He provoked Him to anger.
+2KI.21:7 He even took a carved image of the wooden image and placed it in the house of which the Lord had said to David and to Solomon his son, 'In this house, and in Jerusalem, which I chose out of all the tribes of Israel, I will put My name forever.
+2KI.21:8 But to those who shall keep all that I command, according to all the commandments which my servant Moses commanded them, I will not again let the foot of Israel be shaken from the land I gave their fathers.'
+2KI.21:9 But they paid no attention as Manasseh led them astray. They did more evil than the nations whom the Lord had removed from before the sons of Israel.
+2KI.21:10 And the Lord spoke by His servants the prophets, saying,
+2KI.21:11 'Because Manasseh king of Judah has done these abominations, acting more wickedly than all the Amorites who were before him, and because he made Judah sin with his idols,
+2KI.21:12 it shall not be so. Thus says the Lord God of Israel, 'Behold! I am bringing such evil upon Jerusalem and Judah that whoever hears of it, both his ears will tingle.
+2KI.21:13 And I will stretch out over Jerusalem the measuring line of Samaria and the plumb line of the house of Ahab. I will wipe Jerusalem as one wipes an alabaster vessel, wiping it and turning it upside down.
+2KI.21:14 So I will drive away the remnant of My inheritance and deliver them into the hand of their enemies; and they shall become victims of plunder by all their enemies.
+2KI.21:15 For they have done evil in My eyes and have provoked Me to anger since the day I brought their fathers out of Egypt to this day.' '
+2KI.21:16 Indeed, Manasseh poured out large quantities of innocent blood until it filled Jerusalem from end to end. This in addition to the sins which he led Judah to commit, in doing evil in the sight of the Lord.
+2KI.21:17 Now the rest of the acts of Manasseh, all he did, and all the sins he committed, are these not written in the Book of the Chronicles of the kings of Judah?
+
+### Amon Is King of Judah
+
+2KI.21:18 So Manasseh rested with his fathers and was buried in the garden of his own house, in the garden of Uzza. Then his son Amon reigned in his place.
+2KI.21:19 Amon was twenty-two years old when he became king, and he ruled for two years in Jerusalem. His mother's name was Meshullemeth the daughter of Haruz of Jotbah.
+2KI.21:20 And he did evil in the eyes of the Lord, as his father Manasseh had done.
+2KI.21:21 And he walked in all the ways that his father walked, and he served the idols his father served, and worshiped them.
+2KI.21:22 He forsook the Lord God of his fathers, and did not walk in the way of the Lord.
+2KI.21:23 Then servants of Amon conspired against him and killed the king in his own house.
+2KI.21:24 But the people of the land put to death all those who had conspired against King Amon. Then the people of the land made his son Josiah king in his place.
+2KI.21:25 Now the rest of the acts Amon did, are these not written in the Book of the Chronicles of the kings of Judah?
+
+### Josiah Is King of Judah
+
+2KI.21:26 And he was buried in his tomb in the garden of Uzza. Then Josiah his son reigned in his place.
+## Chapter 22
+
+2KI.22:1 Josiah was eight years old when he became king, and he ruled 
+
+### Discovery of the Book of the Law
+
+2KI.22:2 And he did what was right in the eyes of the Lord, and walked in all the ways of his father David. He did not turn aside to the right hand or to the left.
+2KI.22:3 Now in the eighteenth year of King Josiah, in the eighth month, the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe of the house of the Lord, saying,
+2KI.22:4 'Go up to Hilkiah the high priest, and take account of the money brought into the house of the Lord gathered from the people.
+2KI.22:5 And let them deliver it into the hand of the appointed workers in the house of the Lord.' So he gave it to those in the house of the Lord doing the work to repair the damages of the house;
+2KI.22:6 to the carpenters, and builders, and masons; to acquire wood and hewn stones, to strengthen the repairs of the house.
+2KI.22:7 However, because they dealt faithfully, they were not asked to account for the money delivered into their hand.
+2KI.22:8 Then Hilkiah the high priest said to Shaphan the scribe, 'I discovered the Book of the Law in the house of the Lord.' And Hilkiah gave the book to Shaphan, and he read it.
+2KI.22:9 Then he brought the book to King Josiah and turned to the king to report, saying, 'Your servants have melted down the silver being found in the house of the Lord and given it to the ones having responsibility for repairs to the house of the Lord.'
+2KI.22:10 So Shaphan the scribe spoke to the king, saying, 'Hilkiah the priest gave me a book.' And Shaphan read it before the king.
+2KI.22:11 Now when the king heard the words of the Book of the Law, he tore his clothes.
+2KI.22:12 Then the king commanded Hilkiah the priest, Ahikam the son of Shaphan, Achbor the son of Michaiah, Shaphan the scribe, and Asaiah the servant of the king, saying,
+2KI.22:13 'Go and inquire of the Lord for me, for all the people and for all Judah, concerning the words of this book that was found. For great is the wrath of the Lord kindled against us, because our fathers did not hear and obey the words of this book, to do according to all the words of this book written concerning us.'
+2KI.22:14 So Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, the keeper of the wardrobe, who dwelt in Jerusalem studying the Law, and they spoke with her.
+2KI.22:15 And she said to them, 'Thus says the Lord God of Israel: Tell the man who sent you to me,
+2KI.22:16 'Thus says the Lord: 'Behold, I will bring evil upon this place and upon those who dwell here, even all the words of the book which the king of Judah has read.
+2KI.22:17 For they forsook Me and burned incense to other gods, that they might provoke Me to anger with the works of their hands. Therefore My wrath shall be kindled against this place. It shall not be quenched.' '
+2KI.22:18 And to the king of Judah, sending you to seek out the Lord, thus you shall say this to him, 'Thus says the Lord God of Israel, 'The words which you heard,
+2KI.22:19 because your heart was softened, and you humbled yourself before the Lord when you heard I spoke against this place and those dwelling in it, that it will disappear and become a curse, and you tore your clothes and wept before Me, so I have heard you,' says the Lord.
+
+### True Worship of God Is Restored
+
+2KI.22:20 'Behold, it shall not be so. I will gather you to your fathers, and you shall be gathered to your grave in peace. Your eyes shall not see any of the evils which I shall bring on this place.' ' ' They brought the message back to the king.
+## Chapter 23
+
+2KI.23:1 Now the king sent and gathered to himself all the elders of Judah and Jerusalem.
+2KI.23:2 The king went up to the house of the Lord with all the men of Judah, and with him all the inhabitants of Jerusalem, and the priests and the prophets, and all the people, both small and great. He read all the words of the Book of the Covenant discovered in the house of the Lord for them to hear.
+2KI.23:3 Then the king stood by a pillar and made a covenant before the Lord, to follow the Lord and to keep His commandments, and His testimonies, and His statutes, with all his heart and all his soul, to conform to the words of this covenant written in this book. And all the people took a stand for the covenant.
+2KI.23:4 So the king commanded Hilkiah the high priest, and the priests of the second order, and those who had charge of the weights, to bring out of the temple of the Lord all the articles made for Baal, and for the sacred wooden image, and for all the host of heaven. Then he burned them outside Jerusalem in the fields of Kidron and carried their ashes to Bethel.
+2KI.23:5 And he put an end to the idolatrous priests whom the kings of Judah had appointed to burn incense in the high places, in the cities of Judah, and in the places all around Jerusalem. This included those who burned incense to Baal, to the sun, to the moon, to the constellations, and to all the host of heaven.
+2KI.23:6 Then he took the wooden image from the house of the Lord to the Brook Kidron outside Jerusalem. He burned it at the Brook Kidron and ground it to ashes. He threw its ashes on the graves of the sons of the people.
+2KI.23:7 So in the house of the Lord, he tore down the ritual booths of the male temple prostitutes, the place where the women wove linen garments for the wooden image.
+2KI.23:8 Then he led up all the priests from the cities of Judah and defiled the high places where the priests burned incense, from Geba to Beersheba. And he pulled down the house of the gate by the entrance of the Gate of Joshua, the governor of the city, which was to the left of the city gate.
+2KI.23:9 Only the priests of the high places did not come up to the altar of the Lord in Jerusalem, for they only ate leavened bread among their brethren.
+2KI.23:10 He defiled Topheth, which is in the Valley of the Son of Hinnom, so no man might make his son or his daughter pass through the fire as an offering to Molech.
+2KI.23:11 Then he removed the horses the kings of Judah dedicated to the sun at the entrance to the house of the Lord, by the offering box of Nathan, the king's eunuch, in the court. He burned the chariot of the sun with fire.
+2KI.23:12 As for the altars made by the kings of Judah on the roof of the upper chamber of Ahaz, and the altars Manasseh made in the two courts of the house of the Lord, the king pulled them down and removed them by force. He cast their dust into the Brook Kidron.
+2KI.23:13 Then the king defiled the house east of Jerusalem, on the south of the Mount of Corruption, which Solomon the king of Israel built for Ashtoreth, the abomination of the Sidonians, and for Chemosh, the abomination of the Moabites, and for Milcom, the abomination of the people of Ammon.
+2KI.23:14 And he broke in pieces the sacred pillars, and he cut down the sacred wooden images and filled their places with human bones.
+2KI.23:15 As for the altar at Bethel, the high altar which Jeroboam the son of Nebat had made, who led Israel to sin, that altar and that high place he tore down and crushed the stones. He ground them into dust and burned the wooden image.
+2KI.23:16 As Josiah turned, he saw the tombs on the mountain there in the city. So he sent and took the bones out of the tombs and burned them on the altar. He defiled it according to the word of the Lord which the man of God had spoken when Jeroboam stood at the altar during the festival. And he turned and raised his eyes to the tomb of the man of God who spoke those words,
+2KI.23:17 and he said, 'What gravestone is this that I see?' So the men of the city told him, 'It is the tomb of the man of God who came from Judah and proclaimed these things you did against the altar of Bethel.'
+2KI.23:18 Then he said, 'Leave him alone. Let no one move his bones.' So his bones were saved along with the bones of the prophet who came from Samaria.
+2KI.23:19 Now Josiah also took away all the shrines of the high places, the ones the kings of Israel made in the cities of Samaria to provoke the Lord to anger. And he did to them as he had done in Bethel.
+
+### Passover and Order Restored
+
+2KI.23:20 He put to death all the priests of the high places on the altars, and burned human bones on them, and returned to Jerusalem.
+2KI.23:21 King Josiah commanded all the people, saying, 'Keep the Passover to the Lord our God, as it is written in this Book of the Covenant.'
+2KI.23:22 Such a Passover had not been held since the days of the judges who judged Israel, not in all the days of the kings of Israel and the kings of Judah.
+2KI.23:23 But in the eighteenth year of King Josiah, the Passover was held to the Lord in Jerusalem.
+2KI.23:24 So Josiah put away those who consulted mediums and wizards, the household gods and idols, all the abominations that were seen in the land of Judah and in Jerusalem. He did so that he might perform the words of the Law which were written in the book that Hilkiah the priest found in the house of the Lord.
+2KI.23:25 Before him, there was no king like him, who turned to the Lord with all his heart, with all his soul, and with all his might, according to all the Law of Moses. There was no king like him who arose after him.
+2KI.23:26 Yet the Lord did not turn from the fierceness of His great wrath aroused against Judah. For all the provocations of Manasseh had provoked Him.
+
+### Josiah Killed in Battle
+
+2KI.23:27 So the Lord said, 'I shall also remove Judah from My sight, as I removed Israel. I shall reject this city Jerusalem which I chose, and the house where I said, 'My name shall be there.' '
+2KI.23:28 Now the rest of the acts of Josiah, and everything he did, are these not written in the Book of the Chronicles of the kings of Judah?
+2KI.23:29 In his days, Pharaoh Necho king of Egypt went to the aid of the king of Assyria, to the River Euphrates; and King Josiah went against him. And Pharaoh Necho killed him at Megiddo when he confronted him.
+
+### Jehoahaz Is King of Judah
+
+2KI.23:30 Then his servants moved his body in a chariot from Megiddo, brought him to Jerusalem, and buried him in his own tomb. And the people of the land took Jehoahaz the son of Josiah, anointed him, and made him king in his father's place.
+2KI.23:31 Jehoahaz was twenty-three years old when he became king, and he ruled for three months in Jerusalem. His mother's name was Hamutal the daughter of Jeremiah of Libnah.
+2KI.23:32 And he did evil in the eyes of the Lord, according to all the things his fathers had done.
+2KI.23:33 Now Pharaoh Necho put him in prison at Riblah in the land of Hamath, that he might not rule in Jerusalem. He imposed a tribute on the land, a talent of gold and one hundred talents of silver.
+
+### Jehoiakim Is King of Judah
+
+2KI.23:34 Then Pharaoh Necho made Eliakim the son of Josiah king in place of his father Josiah and changed his name to Jehoiakim. And Pharaoh took Jehoahaz and went to Egypt, and he died there.
+2KI.23:35 So Jehoiakim gave the silver and gold to Pharaoh. But at the command of Pharaoh, he taxed the land; he exacted the silver and gold from the people of the land, from every one according to his assessment, to give it to Pharaoh Necho.
+2KI.23:36 Jehoiakim was twenty-five years old when he became king, and he ruled for eleven years in Jerusalem. His mother's name was Zebudah the daughter of Pedaiah of Rumah.
+
+### Judah Is Overrun
+
+2KI.23:37 And he did evil in the eyes of the Lord, according to all his fathers had done.
+## Chapter 24
+
+2KI.24:1 In his days, Nebuchadnezzar king of Babylon came up, and Jehoi
+2KI.24:2 So the Lord sent against him raiding bands of Chaldeans, bands of Syrians, bands of Moabites, and bands of the sons of Ammon. He sent them against the land of Judah to destroy it, true to the word of the Lord He had spoken by His servants the prophets.
+2KI.24:3 Moreover, it was the purpose of the Lord concerning Judah to remove them from His sight. This, because of the sins of Manasseh, according to all that he did,
+2KI.24:4 and for all the innocent blood he shed. For he had filled Jerusalem with innocent blood, and the Lord did not want to pardon him.
+2KI.24:5 Now the rest of the acts of Jehoiakim and everything he did, are these not written in the Book of the Chronicles of the kings of Judah?
+2KI.24:6 So Jehoiakim rested with his fathers. Then Jehoiachin his son reigned in his place.
+
+### Jehoiachin Is King of Judah
+
+2KI.24:7 As for the king of Egypt, he did not come out of his land anymore. The king of Babylon seized all that belonged to the king of Egypt, from the river of Egypt to the River Euphrates.
+2KI.24:8 Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem for three months. His mother's name was Nehushta the daughter of Elnathan of Jerusalem.
+2KI.24:9 And he did evil in the eyes of the Lord, according to everything his father did.
+2KI.24:10 At that time Nebuchadnezzar, the king of Babylon, came up against Jerusalem, and he besieged the city.
+2KI.24:11 And Nebuchadnezzar, king of Babylon, entered the city, and his servants besieged it.
+2KI.24:12 Then Jehoiachin king of Judah went out to the king of Babylon himself, and his servants, and his mother, and his officers, and his eunuchs. And the king of Babylon took him prisoner in the eighth year of his reign.
+2KI.24:13 Then he carried out from there all the treasures of the house of the Lord and the treasures of the king's house, and he cut in pieces all the articles of gold which Solomon the king of Israel made in the temple of the Lord, according to the word of the Lord.
+2KI.24:14 Also he carried into captivity all Jerusalem, all the officers and all the mighty men of valor, ten thousand captives, and all the craftsmen and smiths. None remained except the poor of the land.
+2KI.24:15 He then carried Jehoiachin captive to Babylon along with the king's mother, the king's wives, and his eunuchs. And he led the mighty of the land into captivity from Jerusalem to Babylon,
+2KI.24:16 and all the valiant men, seven thousand, and one thousand craftsmen and smiths, all of them strong and fit for war, these the king of Babylon brought captive to Babylon.
+
+### Zedekiah Is King of Judah
+
+2KI.24:17 Then the king of Babylon made Mattaniah his son king in his place, and changed his name to Zedekiah.
+2KI.24:18 Zedekiah was twenty-one years old when he became king, and he ruled for eleven years in Jerusalem. His mother's name was Hamutal the daughter of Jeremiah.
+2KI.24:19 And he did evil in the eyes of the Lord, all that Jehoiakim had done.
+
+### The Fall of Jerusalem
+
+2KI.24:20 For it was according to the anger of the Lord against Jerusalem and Judah, until He finally cast them out from His presence, that Zedekiah rebelled against the king of Babylon.
+## Chapter 25
+
+2KI.25:1 In the ninth year of his reign, in the tenth month, Nebuchadnezzar king of Babyl
+2KI.25:2 So the city was besieged until the eleventh year of King Zedekiah.
+2KI.25:3 By the ninth day of the month, the famine was severe in the city, and there was no food for the people of the land.
+2KI.25:4 Then the city wall was broken through, and all the men of war fled at night. They ran by way of the gate, between the walls, through the gate of the king's garden. They and the king ran out, even though the Chaldeans still encircled the entire city. They left by way of the plain toward Arabah.
+2KI.25:5 But the army of the Chaldeans pursued the king, and they overtook him in the plains of Jericho. The king's army was scattered all about him.
+2KI.25:6 So they took the king and brought him up to the king of Babylon at Riblah, and he pronounced judgment on him.
+
+### The Temple Is Destroyed
+
+2KI.25:7 And before his eyes, they killed the sons of Zedekiah. They then put out his eyes, bound him with fetters, and took him to Babylon.
+2KI.25:8 In the fifth month, on the seventh day of the month, in the nineteenth year of King Nebuchadnezzar king of Babylon, Nebuzaradan, the captain of the guard, came before the king of Babylon in Jerusalem.
+2KI.25:9 He burned the house of the Lord, and the king's house, and all the houses of Jerusalem. Every house was burned
+2KI.25:10 by the captain of the guard.
+2KI.25:11 Then Nebuzaradan the captain of the guard carried away captive the people who remained in the city, and those who deserted to the king of Babylon, and the rest of the multitude.
+2KI.25:12 But the captain of the guard left some of the poor of the land as vinedressers and farmers.
+2KI.25:13 The Chaldeans broke into pieces the bronze pillars, and the bases, and the bronze Sea in the house of the Lord. They carried their bronze to Babylon.
+2KI.25:14 They also took away the pots, the shovels, the trimmers, the spoons, and all the bronze utensils used by the priests to minister.
+2KI.25:15 The captain of the guard took away the fire-pans, the golden bowls, and the silver.
+2KI.25:16 The amount of bronze in the two pillars, the one Sea, and the carts, and all the articles made by Solomon for the house of the Lord, was beyond measure.
+2KI.25:17 The height of one pillar was eighteen cubits, and the capital on it was of bronze. The height of the capital was three cubits, and the network and pomegranates all around the capital were all of bronze. The second pillar was the same, with a network.
+2KI.25:18 And the captain of the guard took Seraiah the high-priest, and Zephaniah the second in order, and the three doorkeepers.
+2KI.25:19 And they took out of the city one eunuch who was commander of the men of war, and five men who saw the face of the king that were found in the city, and the secretary of the commander-in-chief, who took account of the people of the land, and sixty men of the people of the land that were found in the city.
+2KI.25:20 And Nebuzaradan the captain of the guard took them and brought them to the king of Babylon, to Reblatha.
+
+### Judah Is Captive in Babylon
+
+2KI.25:21 And the king of Babylon struck them and killed them at Reblatha in the land of Amath. So Judah was carried away from his land.
+2KI.25:22 As for the people who remained in the land of Judah, whom Nebuchadnezzar king of Babylon did not take away captive, he made Gedaliah the son of Ahikam, the son of Shaphan, governor over them.
+2KI.25:23 All the captains of the armies, they and their men, heard that the king of Babylon made Gedaliah governor, so they-Ishmael the son of Nethaniah, Johanan the son of Careah, Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite-they and their men came to Gedaliah at Mizpah.
+2KI.25:24 Then Gedaliah made them and their men take an oath, and he said to them, 'Do not be afraid of the servants of the Chaldeans. Dwell in the land and serve the king of Babylon, and it shall be well with you.'
+2KI.25:25 But in the seventh month, Ishmael the son of Nethaniah, the son of Elishama of the royal family, came with ten men and struck and killed Gedaliah at Mizpah, and the Jews as well as the Chaldeans with him.
+
+### Jehoiachin Is Freed from Prison
+
+2KI.25:26 So all the people, small and great, and the captains of the armies arose and went to Egypt because they were afraid of the Chaldeans.
+2KI.25:27 In the thirty-seventh year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh day of the month, Evil-Merodach king of Babylon, in the year he began to reign, released Jehoiachin king of Judah from prison.
+2KI.25:28 He spoke kindly to him and gave him a more prominent seat than those of the kings with him in Babylon.
+2KI.25:29 So Jehoiachin changed from his prison garments and ate bread regularly before the king all the days of his life.
+2KI.25:30 And as for his provisions, there was a regular ration given him by the king, a portion for each day, all the days of his life.

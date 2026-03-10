@@ -1,0 +1,186 @@
+{
+  "book_code": "1MA",
+  "total_candidates": 16,
+  "confirmed_auto": 1,
+  "ambiguous_human": 15,
+  "rejected": 0,
+  "ratified": true,
+  "candidates": [
+    {
+      "anchor": "1MA.1:1",
+      "residual": "fter Alexander, the son of Philip the Macedonian, came out o",
+      "proposed_repair": "After Alexander, the son of Philip the Macedonian, came out of the land of Kitti",
+      "missing_prefix": "A",
+      "classification": "human_verified",
+      "prefix_score": 0.5172,
+      "brenton_verse": "And it happened, after that Alexander son of Philip, the Macedonian, who came ou",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.2:1",
+      "residual": "nthose days Mattathias, the son of John of the tribe of Sime",
+      "proposed_repair": "In those days Mattathias, the son of John of the tribe of Simeon, a priest of the sons of Joarib, rose up from Jerusalem and settled in Modein.",
+      "missing_prefix": "I",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "In those days arose Mattathias the son of John, the son of Simeon, a priest of t",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.3:1",
+      "residual": "hen Judas his son, who was called Maccabeus, rose up in his ",
+      "proposed_repair": "Then Judas his son, who was called Maccabeus, rose up in his place.",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.3846,
+      "brenton_verse": "Then his son Judas, called Maccabeus, rose up in his stead.",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.4:1",
+      "residual": "hen Gorgias took five thousand men and athousand choice cava",
+      "proposed_repair": "Then Gorgias took five thousand men and athousand choice cavalry, and the army m",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.7077,
+      "brenton_verse": "Then took Gorgias five thousand footmen, and a thousand of the best horsemen, an",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.5:1",
+      "residual": "hen the surrounding nations heard the altar was repaired and",
+      "proposed_repair": "Then the surrounding nations heard the altar was repaired and the sanctuary rene",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.5397,
+      "brenton_verse": "Now when the nations round about heard that the altar was built, and the sanctua",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.6:1",
+      "residual": "ow King Antiochus passed through the upper countries and hea",
+      "proposed_repair": "Now King Antiochus passed through the upper countries and heard that Elymais in ",
+      "missing_prefix": "N",
+      "classification": "human_verified",
+      "prefix_score": 0.5079,
+      "brenton_verse": "About that time king Antiochus travelling through the high countries heard say, ",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.7:1",
+      "residual": "emetrius the son of Seleucus set forth from Rome in the one ",
+      "proposed_repair": "Demetrius the son of Seleucus set forth from Rome in the one hundred and fifty-first year",
+      "missing_prefix": "D",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "In the hundred and one and fiftieth year Demetrius the son of Seleucus departed ",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.8:1",
+      "residual": "hen Judas learned of the reputation of the Romans, that they",
+      "proposed_repair": "Then Judas learned of the reputation of the Romans, that they were mighty and be",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.7234,
+      "brenton_verse": "Now Judas had heard of the fame of the Romans, that they were mighty and valiant",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.9:1",
+      "residual": "ow Demetrius got word that Nicanor and his men had fallen in",
+      "proposed_repair": "Now Demetrius got word that Nicanor and his men had fallen in battle, so he auth",
+      "missing_prefix": "N",
+      "classification": "human_verified",
+      "prefix_score": 0.5938,
+      "brenton_verse": "Furthermore when Demetrius heard that Nicanor and his host were slain in battle,",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.10:1",
+      "residual": "hen in the one hundred and sixtieth year, Alexander, the son",
+      "proposed_repair": "Then in the one hundred and sixtieth year, Alexander, the son of Antiochus Epiph",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.4231,
+      "brenton_verse": "In the hundred and sixtieth year Alexander, the son of Antiochus surnamed Epipha",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.11:1",
+      "residual": "hen the king of Egypt gathered together alarge army, like sa",
+      "proposed_repair": "Then the king of Egypt gathered together alarge army, like sand along the seasho",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.7083,
+      "brenton_verse": "And the king of Egypt gathered together a great host, like the sand that lieth u",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.12:1",
+      "residual": "hen Jonathan saw the time was right, he chose envoys and sen",
+      "proposed_repair": "Then Jonathan saw the time was right, he chose envoys and sent them to Rome to v",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.8077,
+      "brenton_verse": "Now when Jonathan saw that the time served him, he chose certain men, and sent t",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.13:1",
+      "residual": "ow Simon learned that Trypho had assembled ahuge army to mar",
+      "proposed_repair": "Now Simon learned that Trypho had assembled ahuge army to march on the land of J",
+      "missing_prefix": "N",
+      "classification": "human_verified",
+      "prefix_score": 0.7719,
+      "brenton_verse": "Now when Simon heard that Tryphon had gathered together a great host to invade t",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.14:1",
+      "residual": "hen in the one hundred and seventy-second year, King Demetri",
+      "proposed_repair": "Then in the one hundred and seventy-second year, King Demetrius gathered his tro",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.386,
+      "brenton_verse": "Now in the hundred threescore and twelfth year king Demetrius gathered his force",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.15:1",
+      "residual": "hen Antiochus, son of King Demetrius, sent aletter from the ",
+      "proposed_repair": "Then Antiochus, son of King Demetrius, sent aletter from the islands of the sea ",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.6429,
+      "brenton_verse": "Moreover Antiochus son of Demetrius the king sent letters from the isles of the ",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1MA.16:1",
+      "residual": "hen John traveled from Gazara and told his father Simon the ",
+      "proposed_repair": "Then John traveled from Gazara and told his father Simon the damage Cendebeus wa",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.6667,
+      "brenton_verse": "Then came up John from Gazara, and told Simon his father what Cendebeus had done",
+      "source": "brenton",
+      "ratified": true
+    }
+  ]
+}

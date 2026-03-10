@@ -1,0 +1,188 @@
+{
+  "book": "JER",
+  "file": "staging/validated/OT/JER.md",
+  "generated": "2026-03-10",
+  "total_candidates": 17,
+  "by_category": {
+    "chapter_open_dropcap": 17
+  },
+  "candidates": [
+    {
+      "line": 17,
+      "anchor": "JER.1:1",
+      "category": "chapter_open_dropcap",
+      "token": "he",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "The word of God came to Jeremiah the son of Hilkiah of the priests, who lived in"
+    },
+    {
+      "line": 44,
+      "anchor": "JER.2:1",
+      "category": "chapter_open_dropcap",
+      "token": "gain",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "Again the Lord said, 'Thus says the Lord:"
+    },
+    {
+      "line": 203,
+      "anchor": "JER.6:1",
+      "category": "chapter_open_dropcap",
+      "token": "estrong,",
+      "confidence": 0.7,
+      "source_hint": "residual_unmatched:ambiguous_human",
+      "manual_status": "pending",
+      "replacement": null
+    },
+    {
+      "line": 238,
+      "anchor": "JER.7:1",
+      "category": "chapter_open_dropcap",
+      "token": "ear",
+      "confidence": 0.7,
+      "source_hint": "residual_unmatched:ambiguous_human",
+      "manual_status": "pending",
+      "replacement": null
+    },
+    {
+      "line": 308,
+      "anchor": "JER.9:1",
+      "category": "chapter_open_dropcap",
+      "token": "ho",
+      "confidence": 0.7,
+      "source_hint": "residual_unmatched:ambiguous_human",
+      "manual_status": "pending",
+      "replacement": null
+    },
+    {
+      "line": 341,
+      "anchor": "JER.10:1",
+      "category": "chapter_open_dropcap",
+      "token": "house",
+      "confidence": 0.7,
+      "source_hint": "residual_unmatched:ambiguous_human",
+      "manual_status": "pending",
+      "replacement": null
+    },
+    {
+      "line": 370,
+      "anchor": "JER.11:1",
+      "category": "chapter_open_dropcap",
+      "token": "he",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "The word came from the Lord to Jeremiah, saying,"
+    },
+    {
+      "line": 425,
+      "anchor": "JER.13:1",
+      "category": "chapter_open_dropcap",
+      "token": "hus",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "Thus says the Lord: 'Go and get yourself a linen sash and put it around your wai"
+    },
+    {
+      "line": 463,
+      "anchor": "JER.14:1",
+      "category": "chapter_open_dropcap",
+      "token": "he",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "The word of the Lord came to Jeremiah concerning the drought, saying,"
+    },
+    {
+      "line": 490,
+      "anchor": "JER.15:1",
+      "category": "chapter_open_dropcap",
+      "token": "hen",
+      "confidence": 0.7,
+      "source_hint": "heuristic_fallback:ambiguous_human",
+      "manual_status": "pending",
+      "replacement": "Then the Lord said to me, 'Even if Moses and Samuel stood before Me, My soul wou"
+    },
+    {
+      "line": 522,
+      "anchor": "JER.16:1",
+      "category": "chapter_open_dropcap",
+      "token": "he",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "The Lord God of Israel says, 'Do not take a wife,"
+    },
+    {
+      "line": 585,
+      "anchor": "JER.18:1",
+      "category": "chapter_open_dropcap",
+      "token": "he",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "The word that came from the Lord to Jeremiah, saying,"
+    },
+    {
+      "line": 639,
+      "anchor": "JER.20:1",
+      "category": "chapter_open_dropcap",
+      "token": "ow",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "Now Pashhur the son of Immer, the priest who was also appointed governor in the "
+    },
+    {
+      "line": 665,
+      "anchor": "JER.21:1",
+      "category": "chapter_open_dropcap",
+      "token": "he",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "The word came from the Lord to Jeremiah, when King Zedekiah sent to him Pashhur "
+    },
+    {
+      "line": 684,
+      "anchor": "JER.22:1",
+      "category": "chapter_open_dropcap",
+      "token": "hus",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "Thus says the Lord: 'Go down to the house of the king of Judah, and there you sh"
+    },
+    {
+      "line": 775,
+      "anchor": "JER.24:1",
+      "category": "chapter_open_dropcap",
+      "token": "he",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "The Lord showed me two baskets of figs set before the temple of the Lord, after "
+    },
+    {
+      "line": 790,
+      "anchor": "JER.25:1",
+      "category": "chapter_open_dropcap",
+      "token": "nthe",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "In the fourth year of Jehoiakim king of Judah, the son of Josiah, the word came "
+    }
+  ],
+  "notes": [
+    "Explicit fused article audit from fix_articles.py",
+    "High-confidence article-conjunction fusions (>= 0.75) should block promotion until resolved",
+    "Purity audit from purity_audit.py",
+    "Chapter-opening drop-cap suspects and split-word residue should block promotion until resolved or ratified",
+    "Inline *** review markers were ignored during detection"
+  ]
+}

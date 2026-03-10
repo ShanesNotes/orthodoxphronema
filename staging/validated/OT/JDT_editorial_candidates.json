@@ -1,0 +1,21 @@
+{
+  "book": "JDT",
+  "file": "staging/validated/OT/JDT.md",
+  "generated": "2026-03-10",
+  "total_candidates": 0,
+  "by_category": {},
+  "candidates": [],
+  "notes": [
+    "16 dropcap repairs applied (all human_verified)",
+    "72 fused article repairs applied via fix_articles.py",
+    "7 V9 embedded verse splits",
+    "7 fused word fixes after dropcap apply",
+    "13 poetry word-split fixes in ch16",
+    "V7 100.3% (340/339)",
+    "Explicit fused article audit from fix_articles.py",
+    "High-confidence article-conjunction fusions (>= 0.75) should block promotion until resolved",
+    "Purity audit from purity_audit.py",
+    "Chapter-opening drop-cap suspects and split-word residue should block promotion until resolved or ratified",
+    "Inline *** review markers were ignored during detection"
+  ]
+}

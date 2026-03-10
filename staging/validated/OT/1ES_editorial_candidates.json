@@ -1,0 +1,23 @@
+{
+  "book": "1ES",
+  "file": "staging/validated/OT/1ES.md",
+  "generated": "2026-03-10",
+  "total_candidates": 0,
+  "by_category": {},
+  "candidates": [],
+  "notes": [
+    "7 dropcap repairs applied (all human_verified)",
+    "63 fused article repairs applied via fix_articles.py",
+    "36 R2 possessive fixes applied via fix_omissions.py",
+    "1 manual fused word fix (agreat→a great)",
+    "Registry CVC updated from Brenton to OSB versification",
+    "Ch8 and ch9 reconstructed from mislabeled ch7 content",
+    "10+ V9 embedded verse splits (genealogies and census lists)",
+    "V7 100.0% (434/434)",
+    "Explicit fused article audit from fix_articles.py",
+    "High-confidence article-conjunction fusions (>= 0.75) should block promotion until resolved",
+    "Purity audit from purity_audit.py",
+    "Chapter-opening drop-cap suspects and split-word residue should block promotion until resolved or ratified",
+    "Inline *** review markers were ignored during detection"
+  ]
+}

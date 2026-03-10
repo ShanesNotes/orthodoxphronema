@@ -1,0 +1,153 @@
+{
+  "book_code": "2MA",
+  "total_candidates": 13,
+  "confirmed_auto": 0,
+  "ambiguous_human": 13,
+  "rejected": 0,
+  "ratified": true,
+  "candidates": [
+    {
+      "anchor": "2MA.3:1",
+      "residual": "hen the holy city was inhabited in complete peace, because t",
+      "proposed_repair": "When the holy city was inhabited in complete peace, because the laws were very w",
+      "missing_prefix": "W",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.6939,
+      "brenton_verse": "Now when the holy city was inhabited with all peace, and the laws were kept very",
+      "source": "brenton"
+    },
+    {
+      "anchor": "2MA.4:1",
+      "residual": "he previously mentioned Simon, who informed about the money ",
+      "proposed_repair": "The previously mentioned Simon, who informed about the money and his homeland, s",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.5,
+      "brenton_verse": "This Simon now, of whom we spake afore, having been a betrayer of the money, and",
+      "source": "brenton"
+    },
+    {
+      "anchor": "2MA.5:1",
+      "residual": "round this time, Antiochus set out for his second assault in",
+      "proposed_repair": "Around this time, Antiochus set out for his second assault in",
+      "missing_prefix": "A",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": null,
+      "brenton_verse": "About the same time Antiochus prepared his second voyage into Egypt:",
+      "source": "residual_unmatched"
+    },
+    {
+      "anchor": "2MA.6:1",
+      "residual": "ot long afterward, the king sent an Athenian senator to comp",
+      "proposed_repair": "Not long afterward, the king sent an Athenian senator to comp",
+      "missing_prefix": "N",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": null,
+      "brenton_verse": "Not long after this the king sent an old man of Athens to compel the Jews to dep",
+      "source": "residual_unmatched"
+    },
+    {
+      "anchor": "2MA.7:1",
+      "residual": "tcame about also that seven brothers with their mother were ",
+      "proposed_repair": "It came about also that seven brothers with their mother were arrested and force",
+      "missing_prefix": "I",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.6512,
+      "brenton_verse": "It came to pass also, that seven brethren with their mother were taken, and comp",
+      "source": "brenton"
+    },
+    {
+      "anchor": "2MA.8:1",
+      "residual": "ut Judas, also called Maccabeus, and those with him secretly",
+      "proposed_repair": "But Judas, also called Maccabeus, and those with him secretly infiltrated the vi",
+      "missing_prefix": "B",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.5,
+      "brenton_verse": "Then Judas Maccabeus, and they that were with him, went privily into the towns, ",
+      "source": "brenton"
+    },
+    {
+      "anchor": "2MA.9:1",
+      "residual": "bout that time, it happened that Antiochus returned in disho",
+      "proposed_repair": "About that time, it happened that Antiochus returned in disho",
+      "missing_prefix": "A",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": null,
+      "brenton_verse": "About that time came Antiochus with dishonour out of the country of Persia.",
+      "source": "residual_unmatched"
+    },
+    {
+      "anchor": "2MA.10:1",
+      "residual": "ith the Lord leading them on, Maccabeus and those with him r",
+      "proposed_repair": "With the Lord leading them on, Maccabeus and those with him r",
+      "missing_prefix": "W",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": null,
+      "brenton_verse": "Now Maccabeus and his company, the Lord guiding them, recovered the temple and t",
+      "source": "residual_unmatched"
+    },
+    {
+      "anchor": "2MA.11:1",
+      "residual": "hortly afterward, Lysias, who was the king'sguardian and kin",
+      "proposed_repair": "Shortly afterward, Lysias, who was the king'sguardian and kin",
+      "missing_prefix": "S",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": null,
+      "brenton_verse": "Not long after this, Lysias the king's protector and cousin, who also managed th",
+      "source": "residual_unmatched"
+    },
+    {
+      "anchor": "2MA.12:1",
+      "residual": "hen these agreements had been made, Lysias returned to the k",
+      "proposed_repair": "When these agreements had been made, Lysias returned to the king, and the Jews w",
+      "missing_prefix": "W",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.4516,
+      "brenton_verse": "When these covenants were made, Lysias went unto the king, and the Jews were abo",
+      "source": "brenton"
+    },
+    {
+      "anchor": "2MA.13:1",
+      "residual": "nthe one hundred forty-ninth year, Judas and his men got wor",
+      "proposed_repair": "In the one hundred forty-ninth year, Judas and his men got word that Antiochus E",
+      "missing_prefix": "I",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.6667,
+      "brenton_verse": "In the hundred forty and ninth year it was told Judas, that Antiochus Eupator wa",
+      "source": "brenton"
+    },
+    {
+      "anchor": "2MA.14:1",
+      "residual": "fter three years' time, word reached Judas and his soldiers ",
+      "proposed_repair": "After three years' time, word reached Judas and his soldiers that Demetrius, the",
+      "missing_prefix": "A",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.5517,
+      "brenton_verse": "After three years was Judas informed, that Demetrius the son of Seleucus, having",
+      "source": "brenton"
+    },
+    {
+      "anchor": "2MA.15:1",
+      "residual": "hen Nicanor learned that Judas and his men were in the provi",
+      "proposed_repair": "When Nicanor learned that Judas and his men were in the province of Samaria, he ",
+      "missing_prefix": "W",
+      "classification": "human_verified",
+      "ratified": true,
+      "prefix_score": 0.7541,
+      "brenton_verse": "But Nicanor, hearing that Judas and his company were in the strong places about ",
+      "source": "brenton"
+    }
+  ]
+}

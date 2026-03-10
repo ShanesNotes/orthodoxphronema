@@ -1,0 +1,21 @@
+{
+  "book_code": "TOB",
+  "registry_version": "1.2.2",
+  "ratified_by": null,
+  "ratified_date": null,
+  "residuals": [],
+  "resolved": [
+    {
+      "anchor": "TOB.13:2",
+      "classification": "docling_issue",
+      "description": "Verse absent from Docling extraction. (Fixed: recovered from pdftotext)",
+      "resolved_date": "2026-03-10"
+    },
+    {
+      "anchor": "TOB.14:1",
+      "classification": "docling_issue",
+      "description": "Verse absent from Docling extraction. (Fixed: recovered from pdftotext)",
+      "resolved_date": "2026-03-10"
+    }
+  ]
+}

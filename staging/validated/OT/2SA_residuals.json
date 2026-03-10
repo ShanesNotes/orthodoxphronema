@@ -1,0 +1,23 @@
+{
+  "book_code": "2SA",
+  "registry_version": "1.2.3",
+  "ratified_by": null,
+  "ratified_date": null,
+  "residuals": [
+    {
+      "anchor": "2SA.23:40",
+      "classification": "osb_source_absent",
+      "description": "LXX shorter text for 2 Samuel 23: OSB follows LXX versification (39 verses), MT has 40. Verse 40 content exists in OSB verse 39.",
+      "blocking": false,
+      "ratified": true
+    }
+  ],
+  "resolved": [
+    {
+      "anchor": "2SA.17:29",
+      "classification": "docling_issue",
+      "description": "Final verse of chapter 17 absent from Docling extraction. (Fixed: recovered from fusion in 17:28)",
+      "resolved_date": "2026-03-10"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "book_code": "1KI",
+  "total_candidates": 5,
+  "confirmed_auto": 3,
+  "ambiguous_human": 2,
+  "rejected": 0,
+  "ratified": true,
+  "candidates": [
+    {
+      "anchor": "1KI.1:1",
+      "residual": "ow King David was old, advanced in years; and they put cover",
+      "proposed_repair": "Now King David was old, advanced in years; and they put covers on him, but he co",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8182,
+      "brenton_verse": "And king David was old and advanced in days, and they covered him with clothes, ",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1KI.2:1",
+      "residual": "ow the days of David drew near to death, and he charged Solo",
+      "proposed_repair": "Now the days of David drew near to death, and he charged Solomon his son, saying",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7907,
+      "brenton_verse": "And the days of David drew near that he should die: and he addressed his son Sol",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1KI.3:1",
+      "residual": "eanwhile the people burned incense on the high places, becau",
+      "proposed_repair": "Meanwhile the people burned incense on the high places, becau",
+      "missing_prefix": "M",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "Nevertheless the people burnt incense on the high places, because a house had no",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "1KI.4:1",
+      "residual": "o King Solomon ruled over Israel.",
+      "proposed_repair": "So King Solomon ruled over Israel.",
+      "missing_prefix": "So ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7241,
+      "brenton_verse": "And king Solomon reigned over Israel.",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1KI.21:1",
+      "residual": "for I will send my servants to you at this time tomorrow, an",
+      "proposed_repair": null,
+      "missing_prefix": null,
+      "classification": "ambiguous_human",
+      "prefix_score": null,
+      "brenton_verse": "And the son of Ader gathered all his forces, and went up and besieged Samaria, h",
+      "source": "residual_unmatched",
+      "ratified": false
+    }
+  ]
+}

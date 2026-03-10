@@ -1,0 +1,23 @@
+{
+  "book": "NEH",
+  "file": "staging/validated/OT/NEH.md",
+  "generated": "2026-03-10",
+  "total_candidates": 0,
+  "by_category": {},
+  "candidates": [],
+  "notes": [
+    "0 dropcap repairs (ch1:1-3 missing, no chapter-opening dropcaps detected)",
+    "55 fused article repairs applied via fix_articles.py",
+    "15 R2 possessive fixes applied via fix_omissions.py",
+    "Complete chapter reconstruction from ch0 (13 chapters rebuilt)",
+    "LXX versification fix at ch3/ch4 boundary",
+    "5 V9 embedded verse split locations (12 total splits)",
+    "1 false split corrected (ch13:1-2 merged back)",
+    "V7 96.1% (390/406) — 16 Docling gaps across ch1,2,4,11,12",
+    "Explicit fused article audit from fix_articles.py",
+    "High-confidence article-conjunction fusions (>= 0.75) should block promotion until resolved",
+    "Purity audit from purity_audit.py",
+    "Chapter-opening drop-cap suspects and split-word residue should block promotion until resolved or ratified",
+    "Inline *** review markers were ignored during detection"
+  ]
+}

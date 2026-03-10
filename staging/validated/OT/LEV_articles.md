@@ -1,8 +1,8 @@
 ---
 book_code: LEV
 book_name: "Leviticus"
-content_type: study_articles
-source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
+content_type: article
+source: "OSB-v1"
 parse_date: "2026-03-08"
 promote_date: null
 status: staged
@@ -15,7 +15,7 @@ canon_anchors_referenced: []
 ### Sacrifice
 *(after LEV.16:10)*
 
-I n the Book of Leviticus and detailed further in Deuteronomy 12-26, the Lord commands Moses to institute a comprehensive system of ritual sacrifices to be offered by the priests on behalf of the people of God, thus giving the Hebrews a means to be reconciled with God and to restore harmony amongst themselves, relationships disrupted by sin. The word's acrifice' means to make holy or sacred. These sacrifices and offerings-offered first at the tabernacle and later in the temple-were basically of two types: animal (cattle, sheep, goats, doves) and vegetable (wheat, barley, olive oil, wine, cereal, frankincense). The offerings were types prefiguring a greater reality to be fulfilled in the coming Incarnation of Christ.
+In the Book of Leviticus and detailed further in Deuteronomy 12-26, the Lord commands Moses to institute a comprehensive system of ritual sacrifices to be offered by the priests on behalf of the people of God, thus giving the Hebrews a means to be reconciled with God and to restore harmony amongst themselves, relationships disrupted by sin. The word's acrifice' means to make holy or sacred. These sacrifices and offerings-offered first at the tabernacle and later in the temple-were basically of two types: animal (cattle, sheep, goats, doves) and vegetable (wheat, barley, olive oil, wine, cereal, frankincense). The offerings were types prefiguring a greater reality to be fulfilled in the coming Incarnation of Christ.
 
 #### The Old Covenant
 
@@ -26,4 +26,3 @@ On the Day of Atonement, the preeminent Old Testament sacrifice was made. It was
 
 Christ's once-for-all offering of Himself is for all people for all time, and supersedes the Mosaic sacrificial system. Accordingly, the mystery of the eucharistic service, accomplished within the Divine Liturgy of the Church, is done 'in remembrance' of Christ's sacrifice (Lk 22:19) and is a 'reasonable and bloodless sacrifice' to be understood as our sacrifice-offering to God-'a mercy of peace, a sacrifice of praise.' In the Divine Liturgy, instead of an animal or grain offering, we offer the Body and Blood of Christ to God. In a mystery known only to God, we thereby participate in the very Body and Blood of Christ offered once for all. And in this substantial union between Christ-the One sacrificed-and the worshiper, we come to more fully understand how we are united to Christ in our baptism and nurtured in our union with Christ by the eucharistic offering. The Church prays, 'Thine own of Thine own we offer unto Thee, on behalf of all and for all.'
 Offering sacrifices never exempted the Hebrews from the duty to live prayerfully and morally (Pr 15:8, 9). Moreover, Old Testament prophets stood against empty ritual and vain sacrifice (1Kg 15:22; Pss 49:7-15; 50:15-17; Is 1:1-20; Hos 6:6; Am 5:9-27; Mic 6:1-8). Hence, the Mosaic sacrificial system not only prefigures Christ's own sacrifice, but also points to the pouring out of ourselves in self-sacrificial service as detailed in Romans 12:1 and 1 Peter 2:5.
-

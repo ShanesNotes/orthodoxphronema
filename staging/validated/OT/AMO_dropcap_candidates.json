@@ -1,0 +1,30 @@
+{
+  "book_code": "AMO",
+  "total_candidates": 2,
+  "confirmed_auto": 0,
+  "ambiguous_human": 2,
+  "rejected": 0,
+  "ratified": false,
+  "candidates": [
+    {
+      "anchor": "AMO.3:1",
+      "residual": "house of Israel, hear this word the Lord has spoken against ",
+      "proposed_repair": null,
+      "missing_prefix": null,
+      "classification": "ambiguous_human",
+      "prefix_score": null,
+      "brenton_verse": "Hear ye this word, O house of Israel, which the Lord has spoken concerning you, ",
+      "source": "residual_unmatched"
+    },
+    {
+      "anchor": "AMO.5:1",
+      "residual": "house of Israel, hear this word of the Lord, a lamentation w",
+      "proposed_repair": null,
+      "missing_prefix": null,
+      "classification": "ambiguous_human",
+      "prefix_score": null,
+      "brenton_verse": "Hear ye this word of the Lord, even a lamentation, which I take up against you. ",
+      "source": "residual_unmatched"
+    }
+  ]
+}

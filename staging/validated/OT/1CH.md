@@ -1,0 +1,1207 @@
+---
+book_code: 1CH
+book_name: "1 Chronicles"
+testament: OT
+canon_position: 13
+source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
+parse_date: "2026-03-09"
+promote_date: null
+checksum: "a19a4f4b5ae07b57f0425f1bef655eb17f73220f8a8f89c77b4178ca11c6bf4e"
+status: staged
+deuterocanonical: false
+has_additions: false
+---
+
+## Chapter 1
+
+1CH.1:1 Adam, Seth, Enosh,
+1CH.1:2 Cainan, Mahalalel, Jared,
+1CH.1:3 Enoch, Methuselah, Lamech,
+1CH.1:4 Noah, the sons of Noah: Shem, Ham, and Japheth.
+1CH.1:5 The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+1CH.1:6 The sons of Gomer were Ashkenaz, Diphath, and Togarmah.
+1CH.1:7 The sons of Javan were Elishah, Tarshishah, Kittim, and Rodanim.
+1CH.1:8 The sons of Ham were Cush, Mizraim, Put, and Canaan.
+1CH.1:9 The sons of Cush were Seba, Havilah, Sabta, Raama, and Sabtecha. The sons of Raama were Sheba and Dedan.
+1CH.1:10 Cush begot Nimrod; he began to be a mighty hunter on the earth.
+1CH.1:11 The sons of Shem were Elam, Asshur, and Arphaxad.
+1CH.1:12 Shela,
+1CH.1:13 Eber, Pheleg, Ragan,
+1CH.1:14 Seruch, Nachor, Tharrha,
+
+### Descendants of Ishmael
+
+1CH.1:15 Abraham.
+1CH.1:16 And the sons of Abraham: Isaac and Ishmael.
+1CH.1:17 And these are their generations: the firstborn of Ishmael, Nabaeoth, and Kedar, Nabdeel, Massam,
+1CH.1:18 Masma, Iduma, Masse, Chondan, Thaeman,
+1CH.1:19 Jettur, Naphes, Kedma: these the sons of Ishmael.
+1CH.1:20 And the sons of Keturah, Abraham's concubine: she bore him Zembram, Jexan, Madiam, Madam, Sobac, Soe; and the sons of Jexan: Daedan and Sabai;
+
+### Descendants of Isaac
+
+1CH.1:21 and the sons of Madiam: Gephar, and Opher, and Enoch, and Abida, and Eldada; all these the sons of Keturah.
+1CH.1:22 And Abraham begot Isaac: and the sons of Isaac were Jacob and Esau.
+1CH.1:23 The sons of Esau: Eliphaz, and Raguel, and Jeul, and Jeglom, and Core.
+1CH.1:24 The sons of Eliphaz: Thaeman, and Omar, Sophar, and Gootham, and Kenez, and Thamna, and Amalek.
+
+### Descendants of Seir
+
+1CH.1:25 And the sons of Raguel, Naches, Zare, Some, and Moze.
+1CH.1:26 The sons of Seir: Lotan, Sobal, Sebegon, Ana, Deson, Osar, and Disan.
+1CH.1:27 And the sons of Lotan: Chorri and Aeman; and the sister of Lotan was Thamna.
+1CH.1:28 The sons of Sobal: Alon, Machanath, Taebel, Sophi, and Onan; and the sons of Sebegon: Aeth and Sonan.
+1CH.1:29 The sons of Sonan, Daeson; and the sons of Daeson: Emeron, and Asebon, and Jethram, and Charran.
+
+### The Kings of Edom
+
+1CH.1:30 And the sons of Hosar: Balaam, and Zucam, and Acan; the sons of Disan: Os and Aran.
+1CH.1:31 And these are their kings: Bela the son of Beor, and the name of his city was Dinhabah.
+1CH.1:32 When Bela died, Jobab the son of Zerah of Bozrah reigned in his place.
+1CH.1:33 When Jobab died, Husham of the land of the Temanites reigned in his place.
+1CH.1:34 And when Husham died, Hadad the son of Bedad, who attacked Midian in the field of Moab, reigned in his place. The name of his city was Avith.
+1CH.1:35 When Hadad died, Samlah of Masrekah reigned in his place.
+1CH.1:36 And when Samlah died, Saul of Rehoboth by the river reigned in his place.
+1CH.1:37 When Saul died, Baal-Hanan the son of Achbor reigned in his place.
+1CH.1:38 And when Baal-Hanan the son of Achbor died, Hadad the son of Barad reigned in his place; and the name of his city was Phogor.
+1CH.1:39 Hadad died also. And the chiefs of Edom were Chief Timnah, Chief Aliah, Chief Jetheth,
+1CH.1:40 Chief Aholibamah, Chief Elah, Chief Pinon,
+1CH.1:41 Chief Kenaz, Chief Teman, Chief Mibzar,
+
+### Descendants of Israel
+
+1CH.1:42 Chief Magdiel, and Chief Iram. These were the chiefs of Edom.
+## Chapter 2
+
+1CH.2:1 These were the sons of Israel: Reuben, Simeon, Levi, Judah, I
+
+### From Judah to David
+
+1CH.2:2 Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.
+1CH.2:3 The sons of Judah were Er, Onan, and Shelah. These three were born to him by the daughter of Shua, the Canaanitess. Er, the firstborn of Judah, was wicked in the sight of the Lord; so He killed him.
+1CH.2:4 And Tamar, his daughter-in-law, bore him Perez and Zerah. All the sons of Judah were five.
+1CH.2:5 The sons of Perez were Hezron and Hamul.
+1CH.2:6 The sons of Zerah were Zimri, Ethan, Heman, Calcol, and Dara, five of them in all.
+1CH.2:7 The sons of Carmi: Achar, the troublemaker of Israel, who was nullified with a curse.
+1CH.2:8 The son of Ethan was Azariah.
+1CH.2:9 Also the sons of Hezron who were born to him were Jerahmeel, Ram, and Chelubai.
+1CH.2:10 Ram begot Amminadab, and Amminadab begot Nahshon, leader of the children of Judah;
+1CH.2:11 Nahshon begot Salma, and Salma begot Boaz;
+1CH.2:12 Boaz begot Obed, and Obed begot Jesse;
+1CH.2:13 Jesse begot Eliab his firstborn, Abinadab the second, Shimea the third,
+1CH.2:14 Nethanel the fourth, Raddai the fifth,
+1CH.2:15 Ozem the sixth, and David the seventh.
+1CH.2:16 Now their sisters were Zeruiah and Abigail. The sons of Zeruiah were Abishai, Joab, and Asahel, three.
+
+### Descendants of Hezron
+
+1CH.2:17 Abigail bore Amasa; and the father of Amasa was Jether the Ishmaelite.
+1CH.2:18 Caleb the son of Hezron had children by Azubah, his wife, and by Jerioth. Now these were her sons: Jesher, Shobab, and Ardon.
+1CH.2:19 When Azubah died, Caleb took Ephrath as his wife, who bore him Hur.
+1CH.2:20 And Hur begot Uri, and Uri begot Bezalel.
+1CH.2:21 Now afterward Hezron went in to the daughter of Machir, the father of Gilead, whom he married when he was sixty years old; and she bore him Segub.
+1CH.2:22 Segub begot Jair, who had twenty-three cities in the land of Gilead.
+1CH.2:23 Geshur and Syria took from them the towns of Jair, with Kenath and its towns, sixty towns. All these belonged to the sons of Machir the father of Gilead.
+
+### Descendants of Jerahmeel
+
+1CH.2:24 After Hezron died in Caleb-Ephrathah, Hezron's wife Abijah bore him Ashhur the father of Tekoa.
+1CH.2:25 The sons of Jerahmeel, the firstborn of Hezron, were Ram, the firstborn, and Bunah, Oren, Ozem, and Ahijah.
+1CH.2:26 Jerahmeel had another wife, whose name was Atarah; she was the mother of Onam.
+1CH.2:27 The sons of Ram, the firstborn of Jerahmeel, were Maaz, Jamin, and Eker.
+1CH.2:28 The sons of Onam were Shammai and Jada. The sons of Shammai were Nadab and Abishur.
+1CH.2:29 And the name of the wife of Abishur was Abihail, and she bore him Ahban and Molid.
+1CH.2:30 The sons of Nadab were Seled and Appaim; Seled died without children.
+1CH.2:31 The son of Appaim was Ishi, the son of Ishi was Sheshan, and Sheshan's son was Ahlai.
+1CH.2:32 The sons of Jada, the brother of Shammai, were Jether and Jonathan; Jether died without children.
+1CH.2:33 The sons of Jonathan were Peleth and Zaza. These were the sons of Jerahmeel.
+1CH.2:34 Now Sheshan had no sons, only daughters. And Sheshan had an Egyptian servant whose name was Jarha.
+1CH.2:35 Sheshan gave his daughter to Jarha his servant as wife, and she bore him Attai.
+1CH.2:36 Attai begot Nathan, and Nathan begot Zabad;
+1CH.2:37 Zabad begot Ephlal, and Ephlal begot Obed;
+1CH.2:38 Obed begot Jehu, and Jehu begot Azariah;
+1CH.2:39 Azariah begot Helez, and Helez begot Eleasah;
+1CH.2:40 Eleasah begot Sismai, and Sismai begot Shallum;
+
+### Descendants of Caleb
+
+1CH.2:41 Shallum begot Jekamiah, and Jekamiah begot Elishama.
+1CH.2:42 The descendants of Caleb the brother of Jerahmeel were Mesha, his firstborn, who was the father of Ziph, and the sons of Mareshah the father of Hebron.
+1CH.2:43 The sons of Hebron were Korah, Tappuah, Rekem, and Shema.
+1CH.2:44 Shema begot Raham the father of Jorkoam, and Rekem begot Shammai.
+1CH.2:45 And the son of Shammai was Maon, and Maon was the father of Beth Zur.
+1CH.2:46 Ephah, Caleb's concubine, bore Haran, Moza, and Gazez; and Haran begot Gazez.
+1CH.2:47 The sons of Jahdai were Regem, Jotham, Geshan, Pelet, Ephah, and Shaaph.
+1CH.2:48 Maachah, Caleb's concubine, bore Sheber and Tirhanah.
+1CH.2:49 She also bore Shaaph the father of Madmannah, Sheva the father of Machbenah and the father of Gibea. And the daughter of Caleb was Achsah.
+1CH.2:50 These were the descendants of Caleb: The sons of Hur, the firstborn of Ephrathah, were Shobal the father of Kirjath Jearim,
+1CH.2:51 Salma the father of Bethlehem, and Hareph the father of Beth Gader.
+1CH.2:52 And Shobal the father of Kirjath Jearim had descendants: Haroeh and half of the families of Manuhoth.
+1CH.2:53 The families of Kirjath Jearim were the Ithrites, the Puthites, the Shumathites, and the Mishraites. From these came the Zorathites and the Eshtaolites.
+1CH.2:54 The sons of Salma were Bethlehem, the Netophathites, Atroth-BethJoab, half of the Manahethites, and the Zorites.
+
+### Descendants of David
+
+1CH.2:55 And the families of the scribes who dwelt at Jabez were the Tirathites, the Shimeathites, and the Suchathites. These were the Kenites who came from Hammath, the father of the house of Rechab.
+## Chapter 3
+
+1CH.3:1 Now these were the sons of David who were born to him in Hebron: The firstborn w
+1CH.3:2 the third, Absalom the son of Maacah, the daughter of Talmai, king of Geshur; the fourth, Adonijah the son of Haggith;
+1CH.3:3 the fifth, Shephatiah, by Abital; the sixth, Ithream, by his wife Eglah.
+1CH.3:4 These six were born to him in Hebron. There he reigned seven years and six months, and in Jerusalem he reigned thirty-three years.
+1CH.3:5 And these were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon, four by Bathshua the daughter of Ammiel.
+1CH.3:6 Also there were Ibhar, Elishama, Eliphelet,
+1CH.3:7 Nogah, Nepheg, Japhia,
+1CH.3:8 Elishama, Eliada, and Eliphelet, nine in all.
+
+### Descendants of Solomon
+
+1CH.3:9 These were all the sons of David, besides the sons of the concubines, and Tamar their sister.
+1CH.3:10 The sons of Solomon were Rehoboam; Abijah was his son, Asa his son, Jehoshaphat his son,
+1CH.3:11 Joram his son, Ahaziah his son, Joash his son,
+1CH.3:12 Amaziah his son, Azariah his son, Jotham his son,
+1CH.3:13 Ahaz his son, Hezekiah his son, Manasseh his son,
+1CH.3:14 Amon his son, and Josiah his son.
+1CH.3:15 The sons of Josiah were Johanan the firstborn, the second Jehoiakim, the third Zedekiah, and the fourth Shallum.
+
+### Descendants of Jeconiah
+
+1CH.3:16 The sons of Jehoiakim were Jeconiah his son and Zedekiah his son.
+1CH.3:17 The sons of Jeconiah were Assir, Shealtiel his son,
+1CH.3:18 and Malchiram, Pedaiah, Shenazzar, Jecamiah, Hoshama, and Nedabiah.
+1CH.3:19 The sons of Pedaiah were Zerubbabel and Shimei. The sons of Zerubbabel were Meshullam, Hananiah, and Shelomith their sister,
+1CH.3:20 and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-Hesed, five in all.
+1CH.3:21 The sons of Hananiah were Pelatiah and Jeshaiah, the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, and the sons of Shechaniah.
+1CH.3:22 The son of Shechaniah was Shemaiah. The sons of Shemaiah were Hattush, Igal, Bariah, Neariah, and Shaphat, six in all.
+1CH.3:23 The sons of Neariah were Elioenai, Hezekiah, and Azrikam, three in all.
+
+### Descendants of Judah
+
+1CH.3:24 The sons of Elioenai were Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven in all.
+## Chapter 4
+
+1CH.4:1 The sons of Judah were Perez, Hezron, Carmi, Hur, and Shobal.
+1CH.4:2 And Reaiah the son of Shobal begot Jahath, and Jahath begot Ahumai and Lahad. These were the families of the Zorathites.
+1CH.4:3 These were the sons of the father of Etam: Jezreel, Ishma, and Idbash; and the name of their sister was Hazelelponi;
+1CH.4:4 and Penuel was the father of Gedor, and Ezer was the father of Hushah. These were the sons of Hur: the firstborn of Ephrathah the father of Bethlehem.
+1CH.4:5 And Ashhur the father of Tekoa had two wives, Helah and Naarah.
+1CH.4:6 Naarah bore him Ahuzzam, Hepher, Temeni, and Haahashtari. These were the sons of Naarah.
+1CH.4:7 The sons of Helah were Zereth, Zohar, and Ethnan.
+1CH.4:8 Koz begot Anub, Zobebah, and the families of Aharhel the son of Harum.
+1CH.4:9 Now Jabez was more honorable than his brothers, and his mother called his name Jabez, saying, 'Because I bore him in pain.'
+1CH.4:10 And Jabez called on the God of Israel, saying, 'Oh, that You would bless me indeed, and enlarge my territory, that Your hand would be with me, and make known that You will not humble me.' Then God made it all happen as he requested.
+1CH.4:11 Chelub the brother of Shuhah begot Mehir, who was the father of Eshton.
+1CH.4:12 And Eshton begot Beth-Rapha, Paseah, and Tehinnah the father of Ir-Nahash. These were the men of Rechah.
+1CH.4:13 The sons of Kenaz were Othniel and Seraiah. The sons of Othniel were Hathath,
+1CH.4:14 and Meonothai who begot Ophrah. Seraiah begot Joab the father of Ge-Harashim, for they were craftsmen.
+1CH.4:15 The sons of Caleb the son of Jephunneh were Iru, Elah, and Naam. The son of Elah was Kenaz.
+1CH.4:16 The sons of Jehalelel were Ziph, Ziphah, Tiria, and Asarel.
+1CH.4:17 The sons of Ezrah were Jether, Mered, Epher, and Jalon. Mered's wife bore Miriam, Shammai, and Ishbah the father of Eshtemoa.
+1CH.4:18 His wife Jehudijah bore Jered the father of Gedor, Heber the father of Sochoh, and Jekuthiel the father of Zanoah. These were the sons of Bithiah the daughter of Pharaoh, whom Mered took.
+1CH.4:19 The sons of Hodiah's wife, the sister of Naham, were the fathers of Keilah the Garmite and of Eshtemoa the Maachathite.
+1CH.4:20 The sons of Shimon were Amnon, Rinnah, Ben-Hanan, and Tilon. The sons of Ishi were Zoheth and Ben-Zoheth.
+1CH.4:21 The sons of Shelah the son of Judah were Er the father of Lecah, Laadah the father of Mareshah, and the families of the house of the linen workers of the house of Ashbea;
+1CH.4:22 also Jokim, and the men of Chozeba and Joash and Saraph, who lived in Moab, and he turned them back. Now the records are ancient.
+
+### Descendants of Simeon
+
+1CH.4:23 These were the potters living at Netaim and Gederah with the king, who prevailed in his kingdom and lived there.
+1CH.4:24 The sons of Simeon were Nemuel, Jamin, Jarib, Zerah, and Shaul,
+1CH.4:25 Shallum his son, Mibsam his son, and Mishma his son.
+1CH.4:26 The sons of Mishma were Hamuel his son, Zacchur his son, and Shimei his son.
+1CH.4:27 Shimei had sixteen sons and three daughters; but his brothers did not have many children, nor did any of their families multiply as much as the children of Judah.
+1CH.4:28 They dwelt at Beersheba, Moladah, Hazar Shual,
+1CH.4:29 Bilhah, Ezem, Tolad,
+1CH.4:30 Bethuel, Hormah, Ziklag,
+1CH.4:31 Beth-Marcaboth, Hazar Susim, Beth-Biri, and at Shaaraim. These were their cities until the reign of David.
+1CH.4:32 And their villages were Etam, Ain, Rimmon, Tochen, and Ashan, five cities,
+1CH.4:33 and all their villages were round about these cities as far as Baal.
+1CH.4:34 This was their possession and their allotment: Meshobab, Jamlech, and Joshah the son of Amaziah;
+1CH.4:35 Joel, and Jehu the son of Joshibiah, the son of Seraiah, the son of Asiel;
+1CH.4:36 Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, and Benaiah;
+1CH.4:37 Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah;
+1CH.4:38 these mentioned by name were leaders in their families, and they increased abundantly in their fathers' households.
+1CH.4:39 So they went to the entrance of Gedor, as far as the east side of the valley, to seek pasture for their flocks.
+1CH.4:40 And they found rich, good pasture, and the land was broad, quiet, and peaceful. This is because some Hamites formerly lived there.
+1CH.4:41 These recorded by name came in the days of Hezekiah king of Judah; and they attacked their tents and the Meunites who were found there, and utterly destroyed them, as it is to this day. So they dwelt in their place, because there was pasture for their flocks there.
+1CH.4:42 Now some of them, five hundred men of the sons of Simeon, went to Mount Seir, having as their captains Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi.
+
+### Descendants of Reuben
+
+1CH.4:43 And they killed the remnants of the Amalekites, and dwell there to this day.
+## Chapter 5
+
+1CH.5:1 Now the sons of Reuben the firstborn of Israel. He was indeed the firstborn, but
+1CH.5:2 for Judah was able to prevail over his brothers, and from him came a ruler, although the blessing was Joseph's.
+1CH.5:3 The sons of Reuben, the firstborn of Israel, were Hanoch, Pallu, Hezron, and Carmi.
+1CH.5:4 The sons of Joel were Shemaiah his son, Gog his son, Shimei his son,
+1CH.5:5 Micah his son, Reaiah his son, Baal his son,
+1CH.5:6 and Beerah his son, whom Tiglath-Pileser, king of Assyria, carried into captivity. He was leader of the Reubenites.
+1CH.5:7 And his brethren by their families, when the genealogy of their generations was registered: the chief, Jeiel, and Zechariah,
+1CH.5:8 and Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, as far as Nebo and Baal-Meon.
+1CH.5:9 And because their flocks were many in the land of Gilead, they settled eastward, as far as the entrance of the wilderness on this side of the River Euphrates.
+
+### Descendants of Gad
+
+1CH.5:10 Now in the days of Saul they made war with the sojourners, and those who dwelt in tents throughout the entire area east of Gilead fell by their hand.
+1CH.5:11 The children of Gad dwelt next to them in the land of Bashan as far as Salcah:
+1CH.5:12 Joel was the chief, Shapham the next, then Jaanai and Shaphat in Bashan,
+1CH.5:13 and their brethren according to the house of their fathers: Michael, Meshullam, Sheba, Jorai, Jachan, Zia, and Eber, seven in all.
+1CH.5:14 These were the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;
+1CH.5:15 Ahi the son of Abdiel, the son of Guni, was chief of their fathers' house.
+1CH.5:16 And the Gadites dwelt in Gilead, in Bashan and in its villages, and in all the common lands of Sharon within their borders.
+1CH.5:17 All these were registered by genealogies in the days of Jotham king of Judah and in the days of Jeroboam king of Israel.
+1CH.5:18 The sons of Reuben, the Gadites, and half the tribe of Manasseh had forty-four thousand seven hundred sixty valiant men able to bear shield and sword, to shoot with the bow, and who were skillful in war.
+1CH.5:19 They made war with the Hagrites, Jetur, Naphish, and Nodab.
+1CH.5:20 And they prevailed against them, and the Hagrites and all their encampments were delivered into their hand; for they cried out to God in the battle, and He heeded them, for they hoped in Him.
+1CH.5:21 Then they took away fifty thousand of their camels, two hundred fifty thousand of their sheep, and two thousand of their donkeys, also one hundred thousand of their men;
+
+### Descendants of Manasseh (East)
+
+1CH.5:22 for many fell dead, because the war was of God. And they dwelt in their place until the captivity.
+1CH.5:23 And the half-tribe of Manasseh dwelt in the land from Bashan to Baal-Hermon, and Senir to Mount Hermon.
+1CH.5:24 These were the heads of the houses of their fathers: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel. They were mighty men of valor, of fame, who were heads of the houses of their fathers.
+1CH.5:25 But they were unfaithful to the God of their fathers and played the harlot after the gods of the peoples of the land, whom God had destroyed before them.
+
+### Descendants of Levi
+
+1CH.5:26 So the God of Israel stirred up the spirit of Pul king of Assyria, that is, Tiglath-Pileser king of Assyria. He carried the Reubenites, the Gadites, and the half-tribe of Manasseh into captivity. He took them to Halah, Habor, Hara, and the river of Gozan to this day.
+1CH.5:27 The sons of Levi were Gershon, Kohath, and Merari.
+1CH.5:28 The sons of Kohath were Amram, Izhar, Hebron, and Uzziel.
+1CH.5:29 The children of Amram were Aaron, Moses, and Miriam. The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar.
+1CH.5:30 Eleazar begot Phinehas, and Phinehas begot Abishua;
+1CH.5:31 Abishua begot Bukki, and Bukki begot Uzzi;
+1CH.5:32 Uzzi begot Zerahiah, and Zerahiah begot Meraioth;
+1CH.5:33 Meraioth begot Amariah, and Amariah begot Ahitub;
+1CH.5:34 Ahitub begot Zadok, and Zadok begot Ahimaaz;
+1CH.5:35 Ahimaaz begot Azariah, and Azariah begot Johanan;
+1CH.5:36 Johanan begot Azariah: it was he who ministered as priest in the temple that Solomon built in Jerusalem.
+1CH.5:37 Azariah begot Amariah, and Amariah begot Ahitub;
+1CH.5:38 Ahitub begot Zadok, and Zadok begot Shallum;
+1CH.5:39 Shallum begot Hilkiah, and Hilkiah begot Azariah;
+1CH.5:40 Azariah begot Seraiah, and Seraiah begot Jehozadak.
+1CH.5:41 Jehozadak went into captivity when the Lord carried Judah and Jerusalem into captivity by the hand of Nebuchadnezzar.
+## Chapter 6
+
+1CH.6:1 The sons of Levi were Gershon, Kohath, and Merari.
+1CH.6:2 These are the names of the sons of Gershon: Libni and Shimei.
+1CH.6:3 The sons of Kohath were Amram, Izhar, Hebron, and Uzziel.
+1CH.6:4 The sons of Merari were Mahli and Mushi. Now these are the families of the Levites according to their fathers:
+1CH.6:5 of Gershon were Libni his son, Jahath his son, Zimmah his son,
+1CH.6:6 Joah his son, Iddo his son, Zerah his son, and Jeatherai his son.
+1CH.6:7 The sons of Kohath were Amminadab his son, Korah his son, Assir his son,
+1CH.6:8 Elkanah his son, Ebiasaph his son, Assir his son,
+1CH.6:9 Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
+1CH.6:10 The sons of Elkanah were Amasai and Ahimoth.
+1CH.6:11 As for Elkanah, the sons of Elkanah were Zophai his son, Nahath his son,
+1CH.6:12 Eliab his son, Jeroham his son, and Elkanah his son.
+1CH.6:13 The sons of Samuel were Joel the firstborn, and Abijah the second.
+1CH.6:14 The sons of Merari were Mahli, Libni his son, Shimei his son, Uzzah his son,
+
+### Musicians in the Temple
+
+1CH.6:15 Shimea his son, Haggiah his son, and Asaiah his son.
+1CH.6:16 These are the men whom David appointed over the service of the singers in the house of the Lord after the ark came to rest.
+1CH.6:17 And they ministered in front of the tabernacle of witness, playing on instruments, until Solomon built the house of the Lord in Jerusalem. And for their services, they stood according to their order.
+1CH.6:18 And these are the ones who ministered with their sons: of the sons of the Kohathites were Heman the singer, the son of Joel, the son of Samuel,
+1CH.6:19 the son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,
+1CH.6:20 the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,
+1CH.6:21 the son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,
+1CH.6:22 the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
+1CH.6:23 the son of Izhar, the son of Kohath, the son of Levi, the son of Israel.
+1CH.6:24 And his brother Asaph, who stood at his right hand; Asaph was the son of Berachiah, the son of Shimea,
+1CH.6:25 the son of Michael, the son of Baaseiah, the son of Malchijah,
+1CH.6:26 the son of Ethni, the son of Zerah, the son of Adaiah,
+1CH.6:27 the son of Ethan, the son of Zimmah, the son of Shimei,
+1CH.6:28 the son of Jahath, the son of Gershon, the son of Levi.
+1CH.6:29 Their brethren, the sons of Merari, on the left hand were Ethan the son of Kishi, the son of Abdi, the son of Malluch,
+1CH.6:30 the son of Hashabiah, the son of Amaziah, the son of Hilkiah,
+1CH.6:31 the son of Amzi, the son of Bani, the son of Shamer,
+1CH.6:32 the son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
+
+### Descendants of Aaron
+
+1CH.6:33 And their brethren according to the houses of their fathers, the Levites, were appointed to every kind of service of the tabernacle of the house of God.
+1CH.6:34 But Aaron and his sons offered sacrifices on the altar of whole burnt offering and on the altar of incense, for all the work of the most holy place and to make atonement for Israel, according to all that Moses the servant of God had commanded.
+1CH.6:35 Now these are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,
+1CH.6:36 Bukki his son, Uzzi his son, Zerahiah his son,
+1CH.6:37 Meraioth his son, Amariah his son, Ahitub his son,
+
+### The Levites' Dwelling Places
+
+1CH.6:38 Zadok his son, and Ahimaaz his son.
+1CH.6:39 Now these are their dwelling places throughout their settlements in their territory, for they were given by lot to the sons of Aaron, of the family of the Kohathites:
+1CH.6:40 They gave them Hebron in the land of Judah, with its surrounding common lands.
+1CH.6:41 But the fields of the city and its villages they gave to Caleb the son of Jephunneh.
+1CH.6:42 And to the sons of Aaron they gave one of the cities of refuge, Hebron, and Libnah with its common lands, and Jattir, and Eshtemoa with its common lands,
+1CH.6:43 Hilen with its common lands, Debir with its common lands,
+1CH.6:44 Ashan with its common lands, and Beth-Shemesh with its common lands.
+1CH.6:45 And from the tribe of Benjamin: Geba with its common lands, Alemeth with its common lands, and Anathoth with its common lands. All their cities among their families were thirteen.
+1CH.6:46 To the rest of the family of the tribe of the Kohathites, they were given, by lot, ten cities from half the tribe of Manasseh.
+1CH.6:47 And to the sons of Gershon, throughout their families, they gave thirteen cities from the tribe of Issachar, from the tribe of Asher, from the tribe of Naphtali, and from the tribe of Manasseh in Bashan.
+1CH.6:48 To the sons of Merari, throughout their families, they gave twelve cities from the tribe of Reuben, from the tribe of Gad, and from the tribe of Zebulun.
+1CH.6:49 So the children of Israel gave these cities with their common lands to the Levites.
+1CH.6:50 And they gave by lot from the tribe of the children of Judah, from the tribe of the children of Simeon, and from the tribe of the children of Benjamin these cities, which are called by their names.
+1CH.6:51 Now some of the families of the sons of Kohath were given cities as their territory from the tribe of Ephraim.
+1CH.6:52 And they gave them one of the cities of refuge, Shechem with its common lands in the mountains of Ephraim, also Gezer with its common lands,
+1CH.6:53 Jokmeam with its common lands, Beth-Horon with its common lands,
+1CH.6:54 Aijalon with its common lands, and Gath-Rimmon with its common lands.
+1CH.6:55 And from the half-tribe of Manasseh: Aner with its common lands, and Bileam with its common lands, for the rest of the family of the sons of Kohath.
+1CH.6:56 From the family of the half-tribe of Manasseh, the sons of Gershon were given Golan in Bashan with its common lands and Ashtaroth with its common lands.
+1CH.6:57 And from the tribe of Issachar, Kedesh with its common lands, Daberath with its common lands,
+1CH.6:58 Ramoth with its common lands, and Anem with its common lands.
+1CH.6:59 And from the tribe of Asher, Mashal with its common lands, Abdon with its common lands,
+1CH.6:60 Hukok with its common lands, and Rehob with its common lands.
+1CH.6:61 And from the tribe of Naphtali, Kedesh in Galilee with its common lands, Hammon with its common lands, and Kirjathaim with its common lands.
+1CH.6:62 From the tribe of Zebulun, the rest of the children of Merari were given Rimmon with its common lands and Tabor with its common lands.
+1CH.6:63 And on the other side of the Jordan, across from Jericho on the east side of the Jordan, they were given from the tribe of Reuben: Bezer in the wilderness with its common lands, Jahzah with its common lands,
+1CH.6:64 Kedemoth with its common lands, and Mephaath with its common lands.
+1CH.6:65 And from the tribe of Gad, Ramoth in Gilead with its common lands, Mahanaim with its common-lands,
+
+### Descendants of Issachar
+
+1CH.6:66 Heshbon with its common lands, and Jazer with its common lands.
+## Chapter 7
+
+1CH.7:1 The sons of Issachar were Tola, Puah, Jashub, and Shimron, four in all.
+1CH.7:2 The sons of Tola were Uzzi, Rephaiah, Jeriel, Jahmai, Jibsam, and Shemuel, heads of the houses of their fathers. Strong in power, their number in the days of David was twenty-two thousand six hundred, according to their generations.
+1CH.7:3 The son of Uzzi was Izrahiah, and the sons of Izrahiah were Michael, Obadiah, Joel, and Ishiah. All five of them were chief men.
+1CH.7:4 And with them, by their generations, according to the houses of their fathers, were thirty-six thousand troops ready for war; for they had many wives and sons.
+
+### Descendants of Benjamin
+
+1CH.7:5 Now their brethren among all the families of Issachar were mighty men of valor: listed by their genealogies, they were eightyseven thousand in all.
+1CH.7:6 The sons of Benjamin were Bela, Becher, and Jediael, three in all.
+1CH.7:7 The sons of Bela were Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, five in all. They were heads of houses of familiesinfluential men-and their number was twenty-two thousand thirty-four.
+1CH.7:8 The sons of Becher were Zemirah, Joash, Eliezer, Elioenai, Omri, Jerimoth, Abijah, Anathoth, and Alemeth. All these were the sons of Becher.
+1CH.7:9 As heads of the houses of their fathers-men of influence-they numbered twenty thousand two hundred, according to their generations.
+1CH.7:10 The son of Jediael was Bilhan, and the sons of Bilhan were Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tharshish, and Ahishahar.
+1CH.7:11 All these sons of Jediael were heads of the houses of their fathers' houses; there were seventeen thousand two hundred men, strong in strength, fit to go out for war and battle.
+
+### Descendants of Naphtali
+
+1CH.7:12 Shuppim and Huppim were the sons of Ir. Hushim was the son of Aher.
+
+### Descendants of Manasseh (West)
+
+1CH.7:13 The sons of Naphtali were Jahziel, Guni, Jezer, and Shallum, the sons of Bilhah.
+1CH.7:14 The descendants of Manasseh: his Syrian concubine bore him Machir the father of Gilead, the father of Asriel.
+1CH.7:15 Machir took as his wife the sister of Huppim and Shuppim, whose name was Maachah. The name of Gilead's grandson was Zelophehad, but Zelophehad begot only daughters.
+1CH.7:16 Maachah the wife of Machir bore a son, and she called his name Peresh. The name of his brother was Sheresh, and his sons were Ulam and Rakem.
+1CH.7:17 The son of Ulam was Bedan. These were the descendants of Gilead the son of Machir, the son of Manasseh.
+1CH.7:18 His sister Hammoleketh bore Ishhod, Abiezer, and Mahlah.
+
+### Descendants of Ephraim
+
+1CH.7:19 The sons of Shemida were Ahian, Shechem, Likhi, and Aniam.
+1CH.7:20 The sons of Ephraim were Shuthelah, Bered his son, Tahath his son, Eladah his son, Tahath his son,
+1CH.7:21 Zabad his son, Shuthelah his son, and Ezer and Elead. The men of Gath who were born in that land killed them because they came down to take away their cattle.
+1CH.7:22 Then Ephraim their father mourned many days, and his brethren came to comfort him.
+1CH.7:23 And when he went in to his wife, she conceived and bore a son; and he called his name Beriah, because tragedy had come upon his house.
+1CH.7:24 And for those who remained, he also built Lower and Upper Beth-Horon. And the son of Uzzen was Sheerah;
+1CH.7:25 and Rephah was his son, as well as Resheph, and Telah his son, Tahan his son,
+1CH.7:26 Laadan his son, Ammihud his son, Elishama his son,
+1CH.7:27 Nun his son, and Joshua his son.
+1CH.7:28 Now their possessions and dwelling places were Bethel and its towns: to the east Naaran, to the west Gezer and its towns, and Shechem and its towns, as far as Ayyah and its towns;
+
+### Descendants of Asher
+
+1CH.7:29 and by the borders of the children of Manasseh were Beth-Shean and its towns, Taanach and its towns, Megiddo and its towns, Dor and its towns. In these dwelt the children of Joseph, the son of Israel.
+1CH.7:30 The sons of Asher were Imnah, Ishvah, Ishvi, Beriah, and their sister Serah.
+1CH.7:31 The sons of Beriah were Heber and Malchiel, who was the father of Birzaith.
+1CH.7:32 And Heber begot Japhlet, Shomer, Hotham, and their sister Shua.
+1CH.7:33 The sons of Japhlet were Pasach, Bimhal, and Ashvath-these were the children of Japhlet.
+1CH.7:34 The sons of Shemer were Ahi, Rohgah, Jehubbah, and Aram.
+1CH.7:35 And the sons of his brother Helem were Zophah, Imna, Shelesh, and Amal.
+1CH.7:36 The sons of Zophah were Suah, Harnepher, Shual, Beri, Imrah,
+1CH.7:37 Bezer, Hod, Shamma, Shilshah, Jithran, and Beera.
+1CH.7:38 The sons of Jether were Jephunneh, Pispah, and Ara.
+1CH.7:39 The sons of Ulla were Arah, Haniel, and Rizia.
+
+### Descendants of Benjamin, Continued
+
+1CH.7:40 All these were the children of Asher, heads of the households of their fathers' houses, choice men, strong in strength and chief leaders. They were recorded by generations among the army fit for battle. Their number was twenty-six thousand.
+## Chapter 8
+
+1CH.8:1 Now Benjamin begot Bela his firstborn, Ashbel the second, Aharah the third,
+1CH.8:2 Nohah the fourth, and Rapha the fifth.
+1CH.8:3 The sons of Bela were Addar, Gera, Abihud,
+1CH.8:4 Abishua, Naaman, Ahoah,
+1CH.8:5 Gera, Shephuphan, and Huram.
+1CH.8:6 These are the sons of Ehud, who were the heads of the houses of their fathers, of the inhabitants of Geba-they who forced them to move to Manahath:
+1CH.8:7 Naaman, Ahijah, and Gera, who forced them to move. He begot Uzza and Ahihud.
+1CH.8:8 Also Shaharaim had children in the country of Moab, after he had sent away Hushim and Baara his wives.
+1CH.8:9 By Hodesh his wife he begot Jobab, Zibia, Mesha, Malcam,
+1CH.8:10 Jeuz, Sachiah, and Mirmah. These were his sons, heads of their fathers' houses.
+1CH.8:11 And by Hushim he begot Abitub and Elpaal.
+1CH.8:12 The sons of Elpaal were Eber, Misham, and Shemed, who built Ono and Lod with its towns;
+1CH.8:13 and Beriah and Shema, who were heads of their fathers' houses of the inhabitants of Aijalon, who drove out the inhabitants of Gath.
+1CH.8:14 Ahio, Shashak, Jeremoth,
+1CH.8:15 Zebadiah, Arad, Eder,
+1CH.8:16 Michael, Ispah, and Joha were the sons of Beriah.
+1CH.8:17 Zebadiah, Meshullam, Hizki, Heber,
+1CH.8:18 Ishmerai, Jizliah, and Jobab were the sons of Elpaal.
+1CH.8:19 Jakim, Zichri, Zabdi,
+1CH.8:20 Elienai, Zillethai, Eliel,
+1CH.8:21 Adaiah, Beraiah, and Shimrath were the sons of Shimei.
+1CH.8:22 Ishpan, Eber, Eliel,
+1CH.8:23 Abdon, Zichri, Hanan,
+1CH.8:24 Hananiah, Elam, Antothijah,
+1CH.8:25 Iphdeiah, and Penuel were the sons of Shashak.
+1CH.8:26 Shamsherai, Shehariah, Athaliah,
+1CH.8:27 Jaareshiah, Elijah, and Zichri were the sons of Jeroham.
+1CH.8:28 These were heads of the houses of their fathers by their generations, chief men. These dwelt in Jerusalem.
+1CH.8:29 Now the father of Gibeon, whose wife's name was Maacah, dwelt at Gibeon.
+1CH.8:30 And his firstborn son was Abdon, then Zur, Kish, Baal, Nadab,
+1CH.8:31 Gedor, Ahio, Zecher,
+
+### Descendants of Saul
+
+1CH.8:32 and Mikloth, who begot Shimeah. They also dwelt alongside their relatives in Jerusalem, with their brethren.
+1CH.8:33 Ner begot Kish, Kish begot Saul, and Saul begot Jonathan, Malchishua, Abinadab, and Esh-Baal.
+1CH.8:34 The son of Jonathan was Merib-Baal, and Merib-Baal begot Micah.
+1CH.8:35 The sons of Micah were Pithon, Melech, Tarea, and Ahaz.
+1CH.8:36 And Ahaz begot Jehoaddah; Jehoaddah begot Alemeth, Azmaveth, and Zimri; and Zimri begot Moza.
+1CH.8:37 Moza begot Binea, Raphah his son, Eleasah his son, and Azel his son.
+1CH.8:38 Azel had six sons whose names were these: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.
+1CH.8:39 And the sons of Eshek his brother were Ulam his firstborn, Jeush the second, and Eliphelet the third.
+
+### The Return from Captivity to Jerusalem
+
+1CH.8:40 The sons of Ulam were mighty men of valor, archers. They had many sons and grandsons, one hundred fifty in all. These were all sons of Benjamin.
+## Chapter 9
+
+1CH.9:1 And the census was of all Israel, those who had been inscribed in the Book of th
+1CH.9:2 and those who dwelled formerly with their possessions in the cities of Israel, and the priests, the Levites, and those to whom permission had been given.
+1CH.9:3 Then some of the children of Judah dwelt in Jerusalem, along with some of the children of Benjamin, and the children of Ephraim and Manasseh:
+1CH.9:4 Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the descendants of Perez, the son of Judah.
+1CH.9:5 Of the Shilonites: Asaiah the firstborn and his sons.
+1CH.9:6 Of the sons of Zerah: Jeuel, and their brethren, six hundred ninety.
+1CH.9:7 Of the sons of Benjamin: Sallu the son of Meshullam, the son of Hodaviah, the son of Hassenuah;
+1CH.9:8 Ibneiah the son of Jeroham; Elah the son of Uzzi, the son of Michri; Meshullam the son of Shephatiah, the son of Reuel, the son of Ibnijah;
+
+### The Priests in Jerusalem
+
+1CH.9:9 and their brethren, according to their generations, nine hundred fifty-six. All these men were heads of the families, according to the houses of their fathers.
+1CH.9:10 Of the priests, there were Jedaiah, Jehoiarib, and Jachin;
+1CH.9:11 Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the officer over the house of God;
+1CH.9:12 Adaiah the son of Jeroham, the son of Pashur, the son of Malchijah; Maasai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;
+
+### The Levites in Jerusalem
+
+1CH.9:13 and their brethren, heads of the houses of their fathers, one thousand seven hundred sixty. They were very able men for the work of the service of the house of God.
+1CH.9:14 Of the Levites: Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari;
+1CH.9:15 Bakbakkar, Heresh, Galal, and Mattaniah the son of Micah, the son of Zichri, the son of Asaph;
+
+### Gatekeepers of the Levites
+
+1CH.9:16 Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun; and Berechiah the son of Asa, the son of Elkanah, who lived in the villages of the Netophathites.
+1CH.9:17 The gatekeepers were Shallum, Akkub, Talmon, Ahiman, and their brethren. Shallum was the chief.
+1CH.9:18 Until then they had been gatekeepers for the camps of the children of Levi at the King's Gate on the east.
+1CH.9:19 Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren from his father's house, the Korahites, were in charge of the work of the service, gatekeepers of the tabernacle. Their fathers had been keepers of the entrance to the camp of the Lord.
+1CH.9:20 And Phinehas the son of Eleazar had been the officer over them in time past, and these were with him.
+1CH.9:21 Zechariah the son of Meshelemiah was keeper of the door of the tabernacle of the testimony.
+1CH.9:22 All those chosen as gatekeepers were two hundred twelve, and in their villages they were recorded by their genealogy. David and Samuel, the seer, appointed them for their faithfulness.
+1CH.9:23 So they and their sons were to guard the gates of the house of the Lord, the house of the tabernacle.
+1CH.9:24 The gatekeepers were assigned to the four directions: the east, west, north, and south.
+1CH.9:25 And their brethren in their villages had to come with them from time to time for seven days.
+1CH.9:26 For in this trusted office were four chief gatekeepers; they were Levites. They had charge over the chambers and treasuries of the house of God.
+
+### Other Work of the Levites
+
+1CH.9:27 And they remained round about the house of God, for they had charge over the keys to unlock the doors of the temple every morning.
+1CH.9:28 Now some of them were in charge of the serving vessels, for they brought them in and took them out by count.
+1CH.9:29 Some of them were appointed over the furnishings and over all the implements of the sanctuary, and over the fine flour and the wine and the oil and the incense and the spices.
+1CH.9:30 And some of the sons of the priests made the ointment of the spices.
+1CH.9:31 Mattithiah of the Levites, the firstborn of Shallum the Korahite, was entrusted over the items of the sacrificial offering from the chief priest's frying pan.
+1CH.9:32 And Banaias the Kohathite out of their brethren was in charge of preparing the showbread for every Sabbath.
+1CH.9:33 These are the singers, heads of the houses of the fathers of the Levites, who were assigned daily, freed from other duties, for they were employed in that work day and night.
+
+### Family Line of King Saul
+
+1CH.9:34 These heads of the houses of the fathers of the Levites were heads throughout their generations. They dwelt in Jerusalem.
+1CH.9:35 Jeiel the father of Gibeon, whose wife's name was Maacah, dwelt at Gibeon.
+1CH.9:36 His firstborn son was Abdon, then Zur, Kish, Baal, Ner, Nadab,
+1CH.9:37 Gedor, Ahio, Zechariah, and Mikloth.
+1CH.9:38 And Mikloth begot Shimeam. They also dwelt alongside their relatives in Jerusalem, with their brethren.
+1CH.9:39 Ner begot Kish, Kish begot Saul, and Saul begot Jonathan, Malchishua, Abinadab, and Esh-Baal.
+1CH.9:40 The son of Jonathan was Merib-Baal, and Merib-Baal begot Micah.
+1CH.9:41 The sons of Micah were Pithon, Melech, Tahrea, and Ahaz.
+1CH.9:42 And Ahaz begot Jarah; Jarah begot Alemeth, Azmaveth, and Zimri; and Zimri begot Moza;
+1CH.9:43 Moza begot Binea, Rephaiah his son, Eleasah his son, and Azel his son.
+
+### The Death of Saul and His Sons
+
+1CH.9:44 And Azel had six sons, whose names were Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan; these were the sons of Azel.
+## Chapter 10
+
+1CH.10:1 Now the Philistines fought against Israel; and the men of Israel fled from the P
+1CH.10:2 Then the Philistines followed hard after Saul and his sons. And the Philistines killed the sons of Saul-Jonathan, Abinadab, and Malchishua.
+1CH.10:3 The battle became fierce against Saul, and he was wounded by the archers who struck him.
+1CH.10:4 Then Saul said to his armor-bearer, 'Draw your sword and pierce me through with it, lest these uncircumcised men come and dishonor me.' But his armor-bearer would not, for he was greatly afraid. Therefore Saul took a sword and fell on it.
+1CH.10:5 And when his armor-bearer saw Saul was dead, he also fell on his sword and died.
+1CH.10:6 So Saul and his three sons died, and all his house died together.
+1CH.10:7 And when all the men of Israel who were in the valley saw that they had fled, that Saul and his sons were dead, and that they left their cities fleeing, then the Philistines came and dwelt in them.
+1CH.10:8 So it happened the next day, when the Philistines came to strip the slain, they found Saul and his sons dead on Mount Gilboa.
+1CH.10:9 They stripped him and took his head and his armor, and sent word throughout the land of the Philistines to proclaim the news in the temple of their idols and among the people.
+1CH.10:10 Then they put his armor in the temple of their gods and fastened his head to the temple of Dagon.
+1CH.10:11 And when all of Jabesh Gilead heard what the Philistines did to Saul,
+1CH.10:12 all the valiant men arose from Gilead and took the body of Saul and the bodies of his sons back with them to Jabesh. They buried their bones under the oak tree at Jabesh and fasted seven days.
+
+### David Is King of All Israel
+
+1CH.10:13 So Saul died for his lawlessness which he committed against the Lord, according to the Word of the Lord, because he did not keep it, and because Saul sought counsel of a wizard and Samuel the prophet answered him; so He slew him and turned the kingdom over to David the son of Jesse.
+## Chapter 11
+
+1CH.11:1 Then all Israel came to David at Hebron, saying, 'Indeed, we are your bone and y
+1CH.11:2 Also, in time past, even when Saul was king, it was you who led Israel in and out. And the Lord your God said to you, 'You shall feed My people Israel, and be a ruler over Israel.' '
+1CH.11:3 Therefore all the elders of Israel came to the king at Hebron, and David made a covenant with them at Hebron before the Lord. And they anointed David king over Israel, according to the word of the Lord by Samuel.
+1CH.11:4 And the king and all Israel went to Jerusalem-this is Jebu-and there the Jebusites were inhabiting the land.
+1CH.11:5 And the people inhabiting Jebu said to David, 'You shall not enter here!' But he seized the stronghold of Mount Zion, which is the City of David.
+1CH.11:6 And David said, 'Whoever first strikes the Jebusites shall be chief and captain.' And Joab, the son of Zeruiah, went up first and became chief.
+1CH.11:7 Then David dwelt in the stronghold; thereafter he called it the City of David.
+1CH.11:8 And he waged war and took the city; around it he fortified the city.
+
+### David's Mighty Men
+
+1CH.11:9 So David grew ever stronger, and the Lord Almighty was with him.
+1CH.11:10 Now these were the heads of the mighty men whom David had with him, who strengthened themselves in his kingdom, with all Israel, to make him king, according to the word of the Lord regarding Israel.
+1CH.11:11 And this is the number of the mighty men whom David had: Jashobeam the son of a Hachmonite, chief of the captains; he lifted up his spear against three hundred and killed them at one time.
+1CH.11:12 After him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighty men.
+1CH.11:13 He was with David at Pasdammim, and the Philistines gathered there for battle, near a field full of barley. And the people fled from the sight of the Philistines.
+1CH.11:14 And he stood in the midst of the field and preserved it, and killed the Philistines. The Lord brought about a great deliverance.
+1CH.11:15 Now three of the thirty chief men went down to the rock towards David, to the cave of Adullam. The encampment of the Philistines was set up in the valley of Rephaim.
+1CH.11:16 David was then in the stronghold, and the garrison of the Philistines was then in Bethlehem.
+1CH.11:17 And David said with longing, 'Oh, that someone would give me a drink of water from the well of Bethlehem, which is by the gate!'
+1CH.11:18 So the three broke through the camp of the Philistines, drew water from the well of Bethlehem by the gate, and took it and brought some to David. Nevertheless, David did not drink it, but poured it out to the Lord.
+1CH.11:19 And he said, 'God be merciful to me. Should I do what was spoken? Shall I drink the blood of these men with their lives? For they brought it with their lives in peril.' Therefore he was not willing to drink it. The three mighty men did these things.
+1CH.11:20 Abishai the brother of Joab was chief of another three. He had lifted up his spear against three hundred men, killed them, and won a name among these three.
+1CH.11:21 Of the three he was more favored than the other two men, and was chief over them. But of the three of them, he did not go.
+1CH.11:22 Benaiah was the son of Jehoiada, the son of a valiant man from Kabzeel, who had done many deeds. He had killed two ruffians of Moab. He also had gone down and killed a lion in the midst of a pit on a snowy day.
+1CH.11:23 And he killed an Egyptian, a man of great height, five cubits tall. In the hand of the Egyptian there was a spear like a weaver's beam, and he went down to him with a staff, snatched the spear out of the Egyptian's hand, and killed him with his own spear.
+1CH.11:24 These things Benaiah the son of Jehoiada did, and won a name among three mighty men.
+1CH.11:25 Indeed, he was honored more than this thirty, but he did not attain to the first three. And David appointed him over his family.
+1CH.11:26 And the mighty warriors were Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,
+1CH.11:27 Shammoth the Harorite, Helez the Pelonite,
+1CH.11:28 Ira the son of Ikkesh the Tekoite, Abiezer the Anathothite,
+1CH.11:29 Sibbechai the Hushathite, Ilai the Ahohite,
+1CH.11:30 Maharai the Netophathite, Heled the son of Baanah the Netophathite,
+1CH.11:31 Ithai the son of Ribai of Gibeah, of the sons of Benjamin, Benaiah the Pirathonite,
+1CH.11:32 Hurai of the brooks of Gaash, Abiel the Arbathite,
+1CH.11:33 Azmaveth the Baharumite, Eliahba the Shaalbonite,
+1CH.11:34 the sons of Hashem the Gizonite, Jonathan the son of Shageh the Hararite,
+1CH.11:35 Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,
+1CH.11:36 Hepher the Mecherathite, Ahijah the Pelonite,
+1CH.11:37 Hezro the Carmelite, Naarai the son of Ezbai,
+1CH.11:38 Joel the brother of Nathan, Mibhar the son of Hagri,
+1CH.11:39 Zelek the Ammonite, Naharai the Berothite (the armor-bearer of Joab the son of Zeruiah),
+1CH.11:40 Ira the Ithrite, Gareb the Ithrite,
+1CH.11:41 Uriah the Hittite, Zabad the son of Ahlai,
+1CH.11:42 Adina the son of Shiza the Reubenite (a chief of the Reubenites) and thirty with him,
+1CH.11:43 Hanan the son of Maachah, Joshaphat the Mithnite,
+1CH.11:44 Uzzia the Ashterathite, Shama and Jeiel the sons of Hotham the Aroerite,
+1CH.11:45 Jediael the son of Shimri, and Joha his brother, the Tizite,
+1CH.11:46 Eliel the Mahavite, Jeribai and Joshaviah the sons of Elnaam, Ithmah the Moabite,
+
+### David's Army Expands
+
+1CH.11:47 Eliel, Obed, and Jaasiel the Mezobaite.
+## Chapter 12
+
+1CH.12:1 Now these were the men who came to David at Ziklag while he was still a fugitive 
+1CH.12:2 being armed with bows for shooting arrows and using either the right hand or the left for slinging stones. They were of Benjamin, Saul's brethren.
+1CH.12:3 The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; Jeziel and Pelet the sons of Azmaveth; Berachah and Jehu the Anathothite;
+1CH.12:4 Ishmaiah the Gibeonite, a mighty man among the thirty, and over the thirty;
+1CH.12:5 Jeremiah, Jahaziel, Johanan, and Jozabad the Gederathite;
+1CH.12:6 Eluzai, Jerimoth, Bealiah, Shemariah, and Shephatiah the Haruphite;
+1CH.12:7 Elkanah, Jisshiah, Azarel, Joezer, and Jashobeam, the Korahites;
+1CH.12:8 and Joelah and Zebadiah, the sons of Jeroham of Gedor.
+1CH.12:9 Some Gadites joined David in the wilderness, strong, mighty men of war, men trained for battle, who could handle shield and spear, whose faces were like the faces of lions and who were as swift as gazelles on the mountains:
+1CH.12:10 Ezer the first, Obadiah the second, Eliab the third,
+1CH.12:11 Mishmannah the fourth, Jeremiah the fifth,
+1CH.12:12 Attai the sixth, Eliel the seventh,
+1CH.12:13 Johanan the eighth, Elzabad the ninth,
+1CH.12:14 Jeremiah the tenth, and Machbanai the eleventh.
+1CH.12:15 These were from the sons of Gad, captains of the army; the least was over a hundred, and the greatest was over a thousand.
+1CH.12:16 These are the ones who crossed the Jordan in the first month, when it had overflowed all its banks; and they put to flight all those in the valleys, to the east and to the west.
+1CH.12:17 Then some of the sons of Benjamin and Judah came to aid David at the stronghold.
+1CH.12:18 David went out and met them, and addressed them by saying, 'If you have come peaceably to me to help me, my heart will be united with you; but if to betray me to my enemies, since there is no guile in my hands, may the God of our fathers observe and bring judgment.'
+1CH.12:19 'Go, you and your people, David, son of Jesse, Peace, peace be to you, And peace to y our helpers, For y our God has helped you.'
+1CH.12:20 And David received them and made them captains of the forces. And some from Manasseh defected to David when he was going with the Philistines to battle against Saul; but they did not help them, for the lords of the Philistines sent him away by agreement, saying, 'He may defect to his master Saul and endanger our heads.'
+1CH.12:21 When he went to Ziklag, those of Manasseh who defected to him were Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, captains of the thousands who were from Manasseh.
+1CH.12:22 And they helped David against the bands of raiders, for they were all mighty men of valor, and they were captains in the army.
+
+### The Soldiers at Hebron
+
+1CH.12:23 For at that time they came to David day by day to help him, until it was a great army, like the army of God.
+1CH.12:24 Now these were the numbers of the divisions that were equipped for war and that came to David at Hebron to turn the kingdom of Saul over to him, according to the word of the Lord:
+1CH.12:25 of the sons of Judah bearing shield and spear, six thousand eight hundred armed for war;
+1CH.12:26 of the sons of Simeon, mighty men of valor fit for war, seven thousand one hundred;
+1CH.12:27 of the sons of Levi, four thousand six hundred;
+1CH.12:28 Jehoiada, the leader of the Aaronites, and with him three thousand seven hundred;
+1CH.12:29 Zadok, a young man, a valiant warrior, and from his father's house, twenty-two captains;
+1CH.12:30 of the sons of Benjamin, relatives of Saul, three thousand-until then the greatest part of them had remained loyal to the house of Saul;
+1CH.12:31 of the sons of Ephraim, twenty thousand eight hundred mighty men of valor, noted men throughout the house of their fathers;
+1CH.12:32 of the half-tribe of Manasseh, eighteen thousand who were designated by name to come and make David king;
+1CH.12:33 of the sons of Issachar who had understanding of the times, to know what Israel ought to do, their chiefs were two hundred, and all their brethren were at their command;
+1CH.12:34 of Zebulun, there were fifty thousand who went out to battle, expert in war with all weapons of war, stouthearted men who could keep ranks;
+1CH.12:35 of Naphtali, one thousand captains, and with them thirty-seven thousand with shield and spear;
+1CH.12:36 of the Danites who could keep battle formation, twentyeight thousand six hundred;
+1CH.12:37 of Asher, those who could go out to war, able to keep battle formation, forty thousand;
+1CH.12:38 of the Reubenites and the Gadites and the half-tribe of Manasseh, from the other side of the Jordan, one hundred twenty thousand armed for battle with every kind of weapon of war.
+1CH.12:39 All these men of war who could keep ranks came to Hebron with a loyal heart, to make David king over all Israel; and all the rest of Israel were of one mind to make David king.
+1CH.12:40 All these men of war who could keep ranks in a peaceful spirit came to Hebron to make David king over all Israel; and they were there with David three days, eating and drinking, for their brethren had prepared for them.
+
+### The Ark Is Moved from Kirjath-Jearim
+
+1CH.12:41 Moreover those who were near to them, from as far away as Issachar and Zebulun and Naphtali, were bringing food on donkeys and camels, on mules and oxen; provisions of flour, cakes of figs, cakes of raisins, wine, oil, and oxen and sheep abundantly, for there was joy in Israel.
+## Chapter 13
+
+1CH.13:1 Then David consulted with the captains of thousands and hundreds, with every lea
+1CH.13:2 And David said to all the assembly of Israel, 'If it is of the Lord our God and it seems good to you, let us send to our brethren remaining in all of Israel, and to the priests, the Levites who are with them in the cities of their possession, so they may gather together with us.
+1CH.13:3 And let us bring the ark of our God back to us, for we have not sought it since the days of Saul.'
+1CH.13:4 Then all the assembly said they would do so, for this thing was right in the eyes of all the people.
+1CH.13:5 So David summoned an assembly of all Israel, from the boundaries of Egypt to as far as the entrance of Hamath, to carry in the ark of God from the city of Kirjath-Jearim.
+1CH.13:6 David brought it up, and all Israel went up to the city of David, which belonged to Judah, to bring up the ark of God the Lord, who rests between the cherubim, whose name is proclaimed by it.
+1CH.13:7 So they carried the ark of God on a new cart from the house of Aminadab; Uzza and his brothers drove the cart.
+1CH.13:8 Then David and all Israel played music before God with all their strength, with singing, on harps, on stringed instruments, on tambourines, on cymbals, and with trumpets.
+1CH.13:9 And when they came to the threshing floor of Chidon, Uzza put out his hand to hold the ark, because the oxen stumbled.
+1CH.13:10 Then the anger of the Lord was aroused against Uzza, and He struck him because he put his hand upon the ark. He died there before God.
+1CH.13:11 And David became disheartened regarding the Lord's action against Uzza, and called that place PerezUzza until this day.
+1CH.13:12 David was afraid of God that day, saying, 'How shall I bring the ark of God home by myself?'
+1CH.13:13 So David would not move the ark by himself into the City of David, but had it taken aside into the house of Obed-Edom the Gittite.
+
+### David Prospers as King
+
+1CH.13:14 The ark of God remained with the family of Obed-Edom, in his house, three months. And the Lord blessed the house of ObedEdom and all he had.
+## Chapter 14
+
+1CH.14:1 Now Hiram king of Tyre sent to David messengers, cedar trees, masons, and carpen
+1CH.14:2 So David knew the Lord had established him as king over Israel, for his kingdom was highly exalted for the sake of His people Israel.
+1CH.14:3 Then David took more wives in Jerusalem, and David begot more sons and daughters.
+1CH.14:4 And these are the names of his children whom he had in Jerusalem: Shammua, Shobab, Nathan, Solomon,
+1CH.14:5 Ibhar, Elishua, Elpelet,
+1CH.14:6 Nogah, Nepheg, Japhia,
+
+### David Defeats the Philistines
+
+1CH.14:7 Elishama, Beeliada, and Eliphelet.
+1CH.14:8 Now when the Philistines heard David was anointed king over all Israel, all the Philistines went up to seek David. When David heard of it, he went out to meet them.
+1CH.14:9 But the Philistines came and raided the Valley of the Giants.
+1CH.14:10 And David inquired of God, saying, 'Shall I go up against the Philistines? Will You deliver them into my hand?' The Lord said to him, 'Go up, for I will deliver them into your hand.'
+1CH.14:11 So he went up to Baal-Perazim, where David defeated them. Then David said, 'God broke through the lines of my enemy like a breach of water.' He thus called the name of that place Breach of Perazim.
+1CH.14:12 And there the Philistines left behind their idols, and David commanded them to burn them up by fire.
+1CH.14:13 And again the Philistines made a raid on the Valley of the Giants.
+1CH.14:14 And again David inquired of God, and God said to him, 'You shall not go up after them. Instead, circle around them and come upon them near the pear trees.
+1CH.14:15 And it shall be, when you hear the tops of the pear trees rustling in the wind, then you shall enter into battle, for God has gone out before you to defeat the army of the Philistines.'
+1CH.14:16 So David did as God commanded him, and they drove back the army of the Philistines from Gibeon as far as Gezer.
+
+### Preparing to Transport the Ark
+
+1CH.14:17 Then the fame of David went out into all lands, and the Lord brought the terror of him upon all nations.
+## Chapter 15
+
+1CH.15:1 David built houses for himself in the City of David, and prep
+1CH.15:2 Then David said, 'No one may carry the ark of God but the Levites, for the Lord has chosen them to carry the ark of God and to minister before Him forever.'
+1CH.15:3 And David gathered all Israel together at Jerusalem to bring up the ark of the Lord to its place which he prepared for it.
+1CH.15:4 Then David assembled the children of Aaron and the Levites:
+1CH.15:5 of the sons of Kohath, Uriel the chief, and one hundred twenty of his brethren;
+1CH.15:6 of the sons of Merari, Asaiah the chief, and two hundred fifty of his brethren;
+1CH.15:7 of the sons of Gershom, Joel the chief, and one hundred thirty of his brethren;
+1CH.15:8 of the sons of Elizaphan, Shemaiah the chief, and two hundred of his brethren;
+1CH.15:9 of the sons of Hebron, Eliel the chief, and eighty of his brethren;
+1CH.15:10 of the sons of Uzziel, Amminadab the chief, and one hundred twelve of his brethren.
+1CH.15:11 And David called for Zadok and Abiathar the priests, and for the Levites: for Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab.
+1CH.15:12 He said to them, 'You, the heads of the families of the Levites, sanctify yourselves, you and your brethren, so you may bring up the ark of the Lord God of Israel to the place I prepared for it.
+1CH.15:13 Because you were not prepared the first time, because we did not strive for judgment, God divided us within ourselves.'
+1CH.15:14 So the priests and the Levites sanctified themselves to bring up the ark of the Lord God of Israel.
+1CH.15:15 As Moses had commanded, in accordance with the written word of the Lord, the sons of the Levites took the ark of God upon their shoulders with bearing-poles.
+1CH.15:16 Then David said to the chief of the Levites, 'Establish your brethren to be the singers with musical instruments-stringed instruments, harps, and cymbals-to sing invitingly in a voice of joyfulness unto His heaven.'
+1CH.15:17 So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of their brethren, the sons of Merari, Ethan the son of Kushaiah;
+1CH.15:18 and with them their brethren of the second rank: Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Elipheleh, Mikneiah, Obed-Edom, and Jeiel, the gatekeepers;
+1CH.15:19 the singers, Heman, Asaph, and Ethan, were to sound the cymbals of bronze;
+1CH.15:20 Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah, with strings according to Alamoth;
+1CH.15:21 Mattithiah, Elipheleh, Mikneiah, Obed-Edom, Jeiel, and Azaziah, to direct with harps on the Sheminith;
+1CH.15:22 Chenaniah, chief of the Levites, was in charge of the music because he was skillful;
+1CH.15:23 Berechiah and Elkanah were doorkeepers for the ark;
+
+### The Ark Is Moved to Jerusalem
+
+1CH.15:24 Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, the priests, were to blow the trumpets before the ark of God; and Obed-Edom and Jehiah were doorkeepers for the ark.
+1CH.15:25 With joy David and the elders of Israel and the captains over thousands went to bring up the ark of the covenant of the Lord from the house of Obed-Edom.
+1CH.15:26 And so it was, when God helped the Levites who bore the ark of the covenant of the Lord, they offered seven bulls and seven rams.
+1CH.15:27 David was clothed with a robe of fine linen, as were all the Levites who bore the ark, the singers, and Chenaniah the music master with the singers. David also wore a linen ephod.
+1CH.15:28 Thus all of Israel brought up the ark of the covenant of the Lord with shouting and the sound of the horn, with trumpets and cymbals, making music with stringed instruments and harps.
+1CH.15:29 And it happened, as the ark of the covenant of the Lord came to the City of David, that Michal, Saul's daughter, looked out through a window and saw King David dancing and playing music; and she despised him in her heart.
+## Chapter 16
+
+1CH.16:1 So they brought in the ark of God and set it in the midst of t
+1CH.16:2 And David finished offering the whole burnt offerings and peace offerings, and blessed the people in the name of the Lord.
+1CH.16:3 And he divided one loaf of baked bread to every man and woman of Israel.
+1CH.16:4 And he appointed Levites to minister before the presence of the ark of the Lord, to exclaim and give thanks and to praise the Lord God of Israel:
+1CH.16:5 Asaph the chief, and next to him Zechariah, then Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, and Obed-Edom; Jeiel with stringed instruments and harps, but Asaph made music with cymbals;
+
+### David's Song of Praise
+
+1CH.16:6 Benaiah and Jahaziel the priests, continually before the ark of the covenant of God with trumpets.
+1CH.16:7 Then David by the hand of Asaph and his brethren gave orders to praise the Lord:
+1CH.16:8 Give praise to the Lord Himself! Call upon His name; Make known His deeds among the peoples.
+1CH.16:9 Sing songs to Him, sing praises to Him; Tell of all His wondrous works which the Lord has done.
+1CH.16:10 Praise His holy name; The heart that seeks to do His pleasure shall rejoice.
+1CH.16:11 Seek the Lord and be strong; On account of all things, seek His face.
+1CH.16:12 Remember His remarkable works which He has done, His wonders and the judgments of His mouth,
+1CH.16:13 O seed of Israel His servant, You children of Jacob, His chosen ones.
+1CH.16:14 He is the Lord our Lord; His judgments are over all the earth.
+1CH.16:15 Let us remember His covenant unto the ages, The word He commands for a thousand generations-
+1CH.16:16 The covenant He made with Abraham And His oath to Isaac;
+1CH.16:17 He confirmed it to Jacob for an ordinance, To Israel for an eternal covenant,
+1CH.16:18 Saying, 'To you I will give the land of Canaan As the allotment of your inheritance.'
+1CH.16:19 When they were few in number, When they were small in stature and dwelt as sojourners in it,
+1CH.16:20 And when they went from nation to nation And from one kingdom to another people,
+1CH.16:21 He allowed no man to rule over them, And He reproved kings for their sakes,
+1CH.16:22 Saying, 'Do not touch My anointed ones, And bring no harm to My prophets.'
+1CH.16:23 Sing to the Lord, all the earth; Proclaim His salvation from day to day.
+1CH.16:24 For the Lord is great and greatly to be praised; He is to be feared above all gods.
+1CH.16:25 For all the gods of the Gentiles are idols, But our God made the heavens.
+1CH.16:26 Glory and praise are before Him; Strength and rejoicing are in His place.
+1CH.16:27 Give to the Lord, O families of the peoples, Give to the Lord glory and strength.
+1CH.16:28 Give to the Lord the glory due His name; Take gifts and offer them before His presence. Oh, worship the Lord in His holy courts!
+1CH.16:29 Let all the earth fear because of His presence; Let the earth be set upright And not be moved.
+1CH.16:30 Let the heavens rejoice, and let the earth be glad; And let them say among the nations, 'The Lord reigns.'
+1CH.16:31 Let the sea roar and all its fullness, And the trees of the forest and all that is in them.
+1CH.16:32 For the trees of the forest shall rejoice before the Lord, For He is coming to judge the earth.
+1CH.16:33 Oh, give thanks to the Lord, for He is good, For His mercy endures forever.
+1CH.16:34 And say, 'Save us, O God of our salvation; And deliver us from the Gentiles To praise Your holy name, And boast in Your praises.'
+1CH.16:35 Blessed be the Lord God of Israel From ages unto the ages.
+
+### The Worship of God Continues
+
+1CH.16:36 All the people said, 'Amen.' And they praised the Lord. And they left Asaph and his brothers there, before the ark of the covenant of the Lord, to minister continually from day to day according to the service of each day.
+1CH.16:37 And Obed-Edom and his brothers were sixty-eight; Obed-Edom the son of Jeduthun, and Hosah were gatekeepers;
+1CH.16:38 Zadok the priest and the brethren of the priests stood before the tabernacle of the Lord in the high place in Gibeon,
+1CH.16:39 to offer whole burnt offerings to the Lord on the altar of whole burnt offering every morning and evening; and to do according to all things written in the Law of the Lord that He commanded the sons of Israel by the hand of Moses the servant of God.
+1CH.16:40 And with him were Heman and Jeduthun, and the rest chosen out by name to give thanks to the Lord, for His mercy is forever;
+1CH.16:41 and with them Heman and Jeduthun, to sound aloud with trumpets and cymbals and the musical instruments of God. Now the sons of Jeduthun were gatekeepers.
+
+### God's Promise to David
+
+1CH.16:42 Then all the people departed, every man to his house; and David returned to bless his house.
+## Chapter 17
+
+1CH.17:1 Now it came to pass when David was dwelling in his house, David said to Nathan t
+1CH.17:2 Then Nathan said to David, 'Do all that is in your heart, for God is with you.'
+1CH.17:3 But it happened that night that the word of God came to Nathan, saying,
+1CH.17:4 'Go and tell My servant David, 'Thus says the Lord, 'You shall not build Me a house to dwell in,
+1CH.17:5 for I have not dwelt in a house from the day I brought up Israel until this day; but I was in a tabernacle, even a tent,
+1CH.17:6 in all the places through which I went with all Israel. Have I ever spoken to one leader of Israel whom I appointed to shepherd my people, saying, 'Why have you not built me a house made of cedar?' ' '
+1CH.17:7 'Now therefore, you shall say this day to My servant David, 'Thus says the Lord Almighty, 'I took you from the sheepfold, from following the flock, to be ruler over My people Israel.
+1CH.17:8 And I was with you wherever you have gone, and cut off all your enemies from before you, and made you a name like the name of the great men who are on the earth.
+1CH.17:9 Moreover, I will appoint a place for My people Israel and will plant them, that they may dwell in a place of their own and move no more; nor shall the sons of wickedness oppress them anymore, as previously,
+1CH.17:10 and from the days when I appointed judges to be over My people Israel. Also I will subdue all your enemies, and I will increase you, and the Lord will build you a house.
+1CH.17:11 It shall be when your days are fulfilled, and you shall be laid to rest with your fathers, that I will set up your seed after you, he who will be out of your belly; I will establish his kingdom.
+1CH.17:12 He shall build Me a house, and I will establish his throne forever.
+1CH.17:13 I will be his Father, and he shall be My son; and I will not take My mercy from him, as I took it from those who were before you.
+1CH.17:14 And I will establish him in My house and in My kingdom forever; his throne shall be established forever.' ' '
+
+### David Gives Thanks to God
+
+1CH.17:15 So Nathan spoke to David according to all these words and according to all his vision.
+1CH.17:16 Then King David went in and sat before the Lord, and said, 'O Lord God, who am I? And what is my house, that You have loved me forever?
+1CH.17:17 O God, these things are insignificant in Your presence. O Lord God, You spoke about the house of Your servant from long ago, and have looked upon me as a man looks upon his fellow, and exalted me.
+1CH.17:18 Yet what will David add that would bring glory to You? For You know Your servant.
+1CH.17:19 And according to Your own heart, You have done all this greatness.
+1CH.17:20 O Lord, according to all we have heard with our ears, there is none like You, nor is there any God besides You.
+1CH.17:21 There is not another nation upon the earth such as Your people Israel, whereas God led him in the way, to redeem a people for Himself, to establish for Himself a great and glorious name, to cast out nations from before Your people whom You redeemed out of Egypt.
+1CH.17:22 For You have appointed Your people Israel Your very own people forever; and You, O Lord, became God to them.
+1CH.17:23 'And now, O Lord, the word which You have spoken regarding Your servant and upon his house, let it be guaranteed forever,
+1CH.17:24 saying, 'O Lord, O Lord, the Almighty is the God of Israel.' And the house of Your servant David has been set aright before You.
+1CH.17:25 For You, O my God, have revealed to Your servant that You will build him a house. Therefore Your servant has found it in his heart to pray before You.
+1CH.17:26 And now, Lord, You are God, and have promised this goodness to Your servant.
+
+### David's Victories in Battle
+
+1CH.17:27 And now You have started to bless the house of Your servant, so it may continue before You forever. O Lord, You blessed it, and bless it forever.'
+## Chapter 18
+
+1CH.18:1 After this it came to pass that David attacked the Philistines, subdued them, an
+1CH.18:2 Then he struck Moab, and the children of Moab brought tribute to David.
+1CH.18:3 And David struck Hadadezer, king of Zobah Hamath, as he went to establish his power by the River Euphrates.
+1CH.18:4 David took from them in advance one thousand chariots, seven thousand horsemen, and twenty thousand foot soldiers. Moreover, David disabled all the chariots-but one hundred chariots were kept in reserve for them.
+1CH.18:5 When the Syrians of Damascus came to help Hadadezer, king of Zobah, David killed twenty-two thousand of the Syrians.
+1CH.18:6 Then David put a garrison in Damascus of Syria; and the Syrians became David's servants and brought tribute. So the Lord preserved David wherever he went.
+1CH.18:7 And David took the collars of gold that were on the servants of Hadadezer and brought them to Jerusalem.
+1CH.18:8 Also from those places passed over and from the chosen cities of Hadadezer, David brought a large amount of bronze, with which Solomon made the bronze Sea, the pillars, and the articles of bronze.
+1CH.18:9 Now when Tou king of Hamath heard that David had defeated all the army of Hadadezer king of Zobah,
+1CH.18:10 he sent Hadoram his son, to King David to ask him for peace and to bless him because he had fought against Hadadezer and defeated him, for Hadadezer was an enemy of Tou, and with him he sent all kinds of articles of silver and gold.
+1CH.18:11 These King David also dedicated to the Lord, along with the silver and gold he had brought from all these nations, from Edom, from Moab, from the people of Ammon, from the Philistines, and from Amalek.
+1CH.18:12 Moreover, Abishai the son of Zeruiah killed eighteen thousand Edomites in the Valley of Salt.
+1CH.18:13 He also put garrisons in Edom, and all the Edomites became David's servants. And the Lord preserved David wherever he went.
+1CH.18:14 David reigned over all Israel, and administered judgment and justice to all his people.
+1CH.18:15 Joab the son of Zeruiah was over the army; Jehoshaphat the son of Ahilud was recorder;
+1CH.18:16 Zadok the son of Ahitub and Abimelech the son of Abiathar were the priests; Shavsha was the scribe;
+
+### David Conquers Ammon and Syria
+
+1CH.18:17 Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and David's sons were the king's first successors.
+## Chapter 19
+
+1CH.19:1 It happened after this that Nahash the king of the sons of Amm
+1CH.19:2 Then David said, 'I will show kindness to Hanun the son of Nahash, because his father showed kindness to me.' So David sent messengers to comfort him concerning his father.
+1CH.19:3 And David's servants came to Hanun in the land of the people of Ammon to comfort him. And the princes of the people of Ammon said to Hanun, 'Do you think that David really honors your father because he has sent comforters to you? Did his servants not come to you to search and to overthrow and to spy out the land?'
+1CH.19:4 Therefore, Hanun took David's servants, shaved them, removed the half of their garments as far as their tunic, and sent them away.
+1CH.19:5 Then some reported to David about these men, and he sent someone to meet them, for these men were greatly ashamed. And the king said, 'Wait at Jericho until your beards have grown, and then return.'
+1CH.19:6 When the sons of Ammon saw that the people of David had been shamed, Hanun and the people of Ammon sent a thousand talents of silver to hire for themselves chariots and horsemen from Mesopotamia, from Syrian Maacah, and from Zobah.
+1CH.19:7 So they hired for themselves thirty-two thousand chariots, with the king of Maacah and his people, who came and encamped before Medeba. Also the people of Ammon gathered together from their cities and came to battle.
+1CH.19:8 Now when David heard of it, he sent Joab and all the army of the mighty men.
+1CH.19:9 Then the people of Ammon came out and put themselves in battle array before the gate of the city, and the kings who had come were by themselves in the field.
+1CH.19:10 When Joab saw that the battle line was against him before and behind, he chose some of Israel's best, and put them in battle array against the Syrians.
+1CH.19:11 And the rest of the people he put under the command of Abishai his brother, and they set themselves in battle array against the people of Ammon.
+1CH.19:12 Then he said, 'If the Syrians are too strong for me, then you shall help me; but if the people of Ammon are too strong for you, then I will help you.
+1CH.19:13 Be of good courage, and let us be strong for our people and for the cities of our God. And the Lord will do what is good in His sight.'
+1CH.19:14 So Joab and the people who were with him drew near for the battle against the Syrians, and they fled before him.
+1CH.19:15 When the people of Ammon saw that the Syrians were fleeing, they also fled before Abishai his brother, and entered the city. So Joab went to Jerusalem.
+1CH.19:16 Now when the Syrians saw that they had been defeated by Israel, they sent messengers and brought the Syrians who were beyond the river, and Shophach the commander of Hadadezer's army went before them.
+1CH.19:17 When it was told to David, he gathered all Israel, crossed over the Jordan, and came upon them. He set up in battle array against them, and the Syrians fought against him.
+1CH.19:18 And the Syrians fled before Israel; and David killed seven thousand riders of chariots and forty thousand Syrian foot soldiers, and killed Shophach the commander of the army.
+
+### David Defeats Rabbah
+
+1CH.19:19 And when the servants of Hadadezer saw that they had fallen before Israel, they made peace with David and became his servants. So the Syrians were no longer willing to help the people of Ammon.
+## Chapter 20
+
+1CH.20:1 It happened in the spring of the year, at the time kings go ou
+1CH.20:2 Then David took the crown of Molchol their king from his head, and found it to weigh a talent of gold, and there were precious stones in it. And it was set on David's head. Also he brought out the spoil of the city in great abundance.
+
+### The Philistine Giants Fall
+
+1CH.20:3 And he brought out the people who were in it and put them to work with saws, with iron picks, and with axes. So David did to all the cities of the people of Ammon. Then David and all the people returned to Jerusalem.
+1CH.20:4 Now it happened afterward that war broke out at Gezer with the Philistines, at which time Sibbechai the Hushathite struck Sippai, who was one of the sons of the giant. And he humbled them.
+1CH.20:5 Again there was war with the Philistines, and Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite, the shaft of whose spear was like a weaver's beam.
+1CH.20:6 Yet again there was war at Gath, where there was a man of great stature, with twenty-four fingers and toes, six on each hand and six on each foot; and he also was born to the giant.
+1CH.20:7 So when he defied Israel, Jonathan the son of Shimea, David's brother, killed him.
+
+### The Census of All Israel
+
+1CH.20:8 These were born to the giant in Gath, and they fell by the hand of David and by the hand of his servants.
+## Chapter 21
+
+1CH.21:1 Now Satan stood up against Israel, and moved David to number Israel.
+1CH.21:2 So David said to Joab and to the leaders of the people, 'Go, number Israel from Beersheba to Dan, and bring the number of them to me that I may know it.'
+1CH.21:3 And Joab said, 'May the Lord add to His people a hundredfold as many as they are, and let the eyes of my lord the king see all who are the servants of my lord. Why does my lord seek this? Do not allow it, lest it become a sin to Israel.'
+1CH.21:4 Nevertheless the king's word prevailed against Joab. Therefore Joab departed and went throughout all Israel and came to Jerusalem.
+1CH.21:5 Then Joab gave the sum of the number of the people to David. All Israel had one million one hundred thousand men who drew the sword, and Judah had four hundred and eighty thousand men who drew the sword.
+1CH.21:6 But he did not count Levi and Benjamin among them, for the king's word was painful to Joab.
+1CH.21:7 And this deed appeared wicked before God; therefore He struck Israel.
+1CH.21:8 So David said to God, 'I have sinned greatly because I have done this thing; but now, I pray, take away the iniquity of Your servant, for I have done very foolishly.'
+1CH.21:9 Then the Lord spoke to Gad, David's seer, saying,
+1CH.21:10 'Go and tell David, saying, 'Thus says the Lord: 'I offer you three things; so choose one of them for yourself, that I may do it to you.' ' '
+1CH.21:11 So Gad came to David and said to him, 'Thus says the Lord: 'Choose for yourself:
+1CH.21:12 either three years of famine, or that you flee for three months from the face of your enemies and the sword of your enemies utterly destroying you, or that for three days the sword of the Lord and pestilence should be with you in the land, and the angel of the Lord destroying the territory throughout all the inheritance of Israel.' Now consider what answer I should take back to Him who sent me.'
+1CH.21:13 And David said to Gad, 'Groan for me and for the three exceedingly. Please let me fall into the hand of the Lord, for His mercies are very great, but do not let me fall into the hand of man.'
+1CH.21:14 So the Lord sent a plague upon Israel, and seventy thousand men of Israel fell.
+1CH.21:15 And God sent an angel to Jerusalem to destroy it. As he was destroying, the Lord looked and relented of the disaster, and said to the angel who was destroying, 'It is enough; now restrain your hand.' And the angel of the Lord stood by the threshing floor of Ornan the Jebusite.
+1CH.21:16 Then David lifted his eyes and saw the angel of the Lord standing between earth and heaven, having in his hand a drawn sword stretched out over Jerusalem. So David and the elders, clothed in sackcloth, fell on their faces.
+1CH.21:17 And David said to God, 'Was it not I who commanded the people to be numbered? I am the one who has sinned and done evil indeed; but these sheep, what have they done? Let Your hand, I pray, O Lord my God, be against me and my father's house, but not against Your people that they should be plagued.'
+1CH.21:18 Therefore, the angel of the Lord commanded Gad to say to David that David should go and erect an altar to the Lord on the threshing floor of Ornan the Jebusite.
+1CH.21:19 And David went up according to the word of God, which he had spoken in the name of the Lord.
+1CH.21:20 Now Ornan turned and saw the king, and he and his four sons with him hid themselves, but Ornan was threshing wheat.
+1CH.21:21 So David came to Ornan, and Ornan looked and saw David. And he went out from the threshing floor, bowing before David with his face to the ground.
+1CH.21:22 Then David said to Ornan, 'Grant me the place of this threshing floor, that I may build an altar on it to the Lord. You shall grant it to me at the full price, that the plague may be withdrawn from the people.'
+1CH.21:23 But Ornan said to David, 'Take it to yourself, and let my lord the king do what is good in his eyes. Look, I also give you the oxen for whole burnt offerings, the threshing implements for wood, and the wheat for the grain offering; I give it all.'
+1CH.21:24 Then King David said to Ornan, 'No, but I will surely buy it for the full price, for I will not take what is yours for the Lord, nor offer whole burnt offerings with that which costs me nothing.'
+1CH.21:25 So David gave six hundred shekels of gold by weight for his place.
+1CH.21:26 And there David built an altar to the Lord, and offered whole burnt offerings and peace offerings, and cried out to the Lord; and He answered him by fire from heaven upon the altar of whole burnt offering and consumed the whole burnt offering.
+1CH.21:27 So the Lord commanded the angel, and he returned his sword to its sheath.
+1CH.21:28 At that time, when David saw that the Lord had answered him, he sacrificed there on the threshing floor of Ornan the Jebusite.
+1CH.21:29 For the tabernacle of the Lord that Moses made in the wilderness, and the altar of the whole burnt offering, were in the high place at Gibeon at the appointed time.
+
+### Preparing to Build the Temple
+
+1CH.21:30 But David was unable to go before it to seek God, for the sword of the angel of the Lord prevented him.
+## Chapter 22
+
+1CH.22:1 Then David said, 'This is the house of the Lord God, and this is the altar of wh
+1CH.22:2 So David gave orders to gather all converts to Judaism, those in the land of Israel; and he appointed masons to cut hewn stones to build the house of God.
+1CH.22:3 And David prepared iron in abundance for the nails of the doors of the gates and for the joints, and bronze in abundance beyond measure,
+1CH.22:4 and cedar trees in abundance; for the Sidonians and those from Tyre brought ample cedar wood to David.
+1CH.22:5 Now David said, 'My son Solomon is young and inexperienced, and the house to be built for the Lord must be exceedingly magnificent, known and glorious throughout all countries. I will now make preparation for it.' So David made abundant preparations before his death.
+1CH.22:6 Then he called for his son Solomon and charged him to build a house for the Lord God of Israel.
+1CH.22:7 And David said to Solomon, 'My son, as for me, it was in my heart to build a house to the name of the Lord my God.
+1CH.22:8 But the word of the Lord came to me, saying, 'You have shed much blood and have made great wars. You shall not build a house for My name, for in My sight you have shed much blood on the earth.
+1CH.22:9 Behold, a son shall be born to you who shall be a man of rest, and I will give to him rest from all his enemies that surround him. His name shall be Solomon, and I will give peace and quietness to Israel in his days.
+1CH.22:10 He shall build a house for My name, and he shall be My son, and I will be his Father; and I will establish the throne of his kingdom over Israel forever.'
+1CH.22:11 'Now, my son, the Lord shall be with you and prosper you; you will build a house to the Lord your God, as He spoke concerning you.
+1CH.22:12 Only may the Lord give you wisdom and prudence, and strengthen you concerning Israel, that you may guard and do the law of the Lord your God.
+1CH.22:13 Then you will prosper, if you take care to fulfill the ordinances and judgments that the Lord charged Moses concerning Israel. Be strong and of good courage. Do not fear nor be dismayed.
+1CH.22:14 Indeed I, according to my poverty, have prepared for the house of the Lord one hundred thousand talents of gold, one million talents of silver, and bronze and iron beyond measure, for there is so much. I also prepared timber and stone, to which you also may add.
+1CH.22:15 Moreover, there are workmen with you in abundance: woodsmen and stone-cutters, and all types of skillful men for every kind of work.
+1CH.22:16 Of gold and silver and bronze and iron there is no limit. Arise and begin working, and the Lord be with you.'
+1CH.22:17 David also commanded all the leaders of Israel to help Solomon his son, saying,
+1CH.22:18 'Is not the Lord your God with you? And has He not given you rest on every side? For He has given the inhabitants of the land into my hand, and the land is subdued before the Lord and before His people.
+
+### Assignments for the Levites
+
+1CH.22:19 Now set your heart and your soul to seek the Lord your God. Therefore arise and build the sanctuary of the Lord God, and into the house to be built in the name of the Lord bring the ark of the covenant of the Lord and the holy articles of God.'
+## Chapter 23
+
+1CH.23:1 So when David was old and full of days, he made his son Solomo
+1CH.23:2 And he gathered together all the leaders of Israel, with the priests and the Levites.
+1CH.23:3 Now the Levites were numbered from the age of thirty years and above. The number of individual males was thirty-eight thousand.
+1CH.23:4 Of these, twentyfour thousand were taskmasters over the work of the house of the Lord, six thousand were officers and judges,
+1CH.23:5 four thousand were gatekeepers, and four thousand praised the Lord with musical instruments which he made to praise the Lord.
+1CH.23:6 David also separated them into divisions among the sons of Levi: Gershon, Kohath, and Merari.
+1CH.23:7 And to Paroshom, to Edan, and to Shimei.
+1CH.23:8 The sons of Laadan: the first Jehiel, then Zetham and Joel, three in all.
+1CH.23:9 The sons of Shimei: Shelomith, Haziel, and Haran, three in all. These were the heads of the fathers' houses of Laadan.
+1CH.23:10 And the sons of Shimei: Jahath, Zina, Jeush, and Beriah. These were the four sons of Shimei.
+1CH.23:11 Jahath was the first, and Zizah the second. As for Jeush and Beriah, they did not multiply sons, and they became but one reckoning, according to their father's house.
+1CH.23:12 The sons of Kohath: Amram, Izhar, Hebron, and Uzziel, four in all.
+1CH.23:13 The sons of Amram: Aaron and Moses; and Aaron was set apart that he should sanctify the holy of holies, that he and his sons forever should burn incense before the Lord, to minister and to offer prayers in His name forever.
+1CH.23:14 Now the sons of Moses the man of God had been called to the tribe of Levi.
+1CH.23:15 The sons of Moses were Gershon and Eliezer.
+1CH.23:16 Of the sons of Gershon, Shebuel was the first.
+1CH.23:17 Of the descendants of Eliezer, Rehabiah was the first. And Eliezer had no other sons, but the sons of Rehabiah greatly multiplied.
+1CH.23:18 Of the sons of Izhar, Shelomith was the first.
+1CH.23:19 Of the sons of Hebron, Jeriah was the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.
+1CH.23:20 Of the sons of Uzziel, Michah was the first and Jesshiah the second.
+1CH.23:21 The sons of Merari were Mahli and Mushi. The sons of Mahli were Eleazar and Kish.
+1CH.23:22 And Eleazar died and had no sons, only daughters; and their brethren, the sons of Kish, took them as wives.
+1CH.23:23 The sons of Mushi were Mahli, Eder, and Jeremoth, three in all.
+1CH.23:24 These were the sons of Levi according to the houses of their fathers, chiefs of their families according to the number in the household, according to their polls, who from the age of twenty years and older did the work for the service of the house of the Lord.
+1CH.23:25 For David said, 'The Lord God of Israel has given rest to His people, and dwells in Jerusalem forever.'
+1CH.23:26 And the Levites carried not the tabernacle nor all of its vessels for its ministry.
+1CH.23:27 For by the last words of David was the numbering of the Levites taken, from twenty years of age and older.
+1CH.23:28 For their duty was to help the sons of Aaron in the service of the house of the Lord, in the courts and in the chambers, in the purification of all holy things and the work of the service of the house of God;
+1CH.23:29 for the showbread and fine flour for the meat offering, and for the unleavened cakes, the fried cake, and the dough, and for every measure;
+1CH.23:30 to stand every morning to thank and praise the Lord, and likewise at evening;
+1CH.23:31 and regularly before the Lord-at every presentation of a whole burnt offering to the Lord, on the Sabbaths, on the New Moons, and on the set feasts, as by the number according to the ordinance governing them.
+
+### Assignments to the Priests
+
+1CH.23:32 They are to keep charge of the tabernacle of witness, of the holy places, and the sons of Aaron their brethren, to minister in the house of the Lord.
+## Chapter 24
+
+1CH.24:1 Now these are the divisions of the sons of Aaron. The sons of Aaron were Nadab, 
+1CH.24:2 And Nadab and Abihu died before their father, and had no children; therefore Eleazar and Ithamar ministered as priests.
+1CH.24:3 Then David, with Zadok of the sons of Eleazar and Ahimelech of the sons of Ithamar, divided them according to their census, according to their ministry, according to their fathers' houses.
+1CH.24:4 There were more leaders found of the sons of Eleazar than of the sons of Ithamar, and thus they were divided. Among the sons of Eleazar were sixteen heads of their fathers' houses, and eight heads of their fathers' houses among the sons of Ithamar.
+1CH.24:5 Thus they were divided by lot, one group as another, for there were officials of the sanctuary and officials of the house of God, from the sons of Eleazar and from the sons of Ithamar.
+1CH.24:6 And the scribe, Shemaiah the son of Nethanel, one of the Levites, wrote them down before the king, the leaders, Zadok the priest, Ahimelech the son of Abiathar, and the heads of the fathers' houses of the priests and Levites, one father's house taken for Eleazar and one for Ithamar.
+1CH.24:7 Now the first lot fell to Jehoiarib, the second to Jedaiah,
+1CH.24:8 the third to Harim, the fourth to Seorim,
+1CH.24:9 the fifth to Malchijah, the sixth to Mijamin,
+1CH.24:10 the seventh to Hakkoz, the eighth to Abijah,
+1CH.24:11 the ninth to Jeshua, the tenth to Shecaniah,
+1CH.24:12 the eleventh to Eliashib, the twelfth to Jakim,
+1CH.24:13 the thirteenth to Huppah, the fourteenth to Jeshebeab,
+1CH.24:14 the fifteenth to Bilgah, the sixteenth to Immer,
+1CH.24:15 the seventeenth to Hezir, the eighteenth to Happizzez,
+1CH.24:16 the nineteenth to Pethahiah, the twentieth to Jehezekel,
+1CH.24:17 the twenty-first to Jachin, the twenty-second to Gamul,
+1CH.24:18 the twenty-third to Delaiah, the twenty-fourth to Maaziah.
+
+### The Other Levites
+
+1CH.24:19 This was their numbering according to their ministry for coming into the house of the Lord, according to their ordinance by the hand of Aaron their father, as the Lord God of Israel had commanded him.
+1CH.24:20 And the rest of the sons of Levi: of the sons of Amram, Shubael; of the sons of Shubael, Jehdeiah.
+1CH.24:21 Concerning Rehabiah, of the sons of Rehabiah, the first was Isshiah.
+1CH.24:22 Of the Izharites, Shelomoth; of the sons of Shelomoth, Jahath.
+1CH.24:23 Of the sons of Hebron, Jeriah was the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.
+1CH.24:24 Of the sons of Uzziel, Michah; of the sons of Michah, Shamir.
+1CH.24:25 The brother of Michah, Isshiah; of the sons of Isshiah, Zechariah.
+1CH.24:26 The sons of Merari were Mahli and Mushi; the sons of Jaaziah, the sons of Beno.
+1CH.24:27 The sons of Merari by Jaaziah, his sons were Shoham, Zaccur, and Ibri.
+1CH.24:28 Of Mahil: Eleazar and Ithamar; and Eleazar died, and there were no sons by him.
+1CH.24:29 Of Kish: the son of Kish, Jerahmeel.
+1CH.24:30 Also the sons of Mushi were Mahli, Eder, and Jerimoth.
+
+### The Temple Musicians
+
+1CH.24:31 These were the sons of the Levites according to their fathers' houses. These also cast lots just as their brothers the sons of Aaron did, in the presence of King David, Zadok, Ahimelech, and the heads of the fathers' houses of the priests and Levites. The chief fathers did just as their younger brethren.
+## Chapter 25
+
+1CH.25:1 David the king and the captains of the hosts appointed the so
+1CH.25:2 of the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah; the sons of Asaph were under the direction of Asaph the prophet and were loyal to the king.
+1CH.25:3 Of Jeduthun, the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah, six, after their father Jeduthun on the harp, led the music of thanks and praise to the Lord.
+1CH.25:4 Of Heman, the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-Ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth.
+1CH.25:5 All these were the sons of Heman the king's chief musician in the words of God, to lift up the horn. And God gave to Heman fourteen sons and three daughters.
+1CH.25:6 All these sang hymns with their father in the house of the Lord, with cymbals, and harps, and lyres for the service of the king and Asaph, and Jeduthun, Heman.
+1CH.25:7 And the number of them with their brethren, those being instructed to sing to the Lord, everyone who was skilled in singing, was two hundred and eighty-eight.
+1CH.25:8 And they cast lots for their duty, the small as well as the great, those taught and the students.
+1CH.25:9 Now the first lot for Asaph of his sons and his brethren came out for Joseph; the second for Gedaliah by Iniah, his brethren and his sons, twelve;
+1CH.25:10 the third for Zaccur, his sons and his brethren, twelve;
+1CH.25:11 the fourth for Jizri, his sons and his brethren, twelve;
+1CH.25:12 the fifth for Nethaniah, his sons and his brethren, twelve;
+1CH.25:13 the sixth for Bukkiah, his sons and his brethren, twelve;
+1CH.25:14 the seventh for Jesharelah, his sons and his brethren, twelve;
+1CH.25:15 the eighth for Jeshaiah, his sons and his brethren, twelve;
+1CH.25:16 the ninth for Mattaniah, his sons and his brethren, twelve;
+1CH.25:17 the tenth for Shimei, his sons and his brethren, twelve;
+1CH.25:18 the eleventh for Azarel, his sons and his brethren, twelve;
+1CH.25:19 the twelfth for Hashabiah, his sons and his brethren, twelve;
+1CH.25:20 the thirteenth for Shubael, his sons and his brethren, twelve;
+1CH.25:21 the fourteenth for Mattithiah, his sons and his brethren, twelve;
+1CH.25:22 the fifteenth for Jeremoth, his sons and his brethren, twelve;
+1CH.25:23 the sixteenth for Hananiah, his sons and his brethren, twelve;
+1CH.25:24 the seventeenth for Joshbekashah, his sons and his brethren, twelve;
+1CH.25:25 the eighteenth for Hanani, his sons and his brethren, twelve;
+1CH.25:26 the nineteenth for Mallothi, his sons and his brethren, twelve;
+1CH.25:27 the twentieth for Eliathah, his sons and his brethren, twelve;
+1CH.25:28 the twenty-first for Hothir, his sons and his brethren, twelve;
+1CH.25:29 the twenty-second for Giddalti, his sons and his brethren, twelve;
+1CH.25:30 the twenty-third for Mahazioth, his sons and his brethren, twelve;
+
+### The Temple Gatekeepers
+
+1CH.25:31 the twenty-fourth for Romamti-Ezer, his sons and his brethren, twelve.
+## Chapter 26
+
+1CH.26:1 Concerning the divisions of the gates: of the Korahites, Mesh
+1CH.26:2 And the sons of Meshelemiah were Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
+1CH.26:3 Elam the fifth, Jehohanan the sixth, Eliehoenai the seventh.
+1CH.26:4 Moreover the sons of Obed-Edom were Shemaiah the firstborn, Jehozabad the second, Joah the third, Sacar the fourth, Nethanel the fifth,
+1CH.26:5 Ammiel the sixth, Issachar the seventh, Peulthai the eighth; for God blessed him.
+1CH.26:6 Also to Shemaiah his son were sons born from the firstborn Roshai in his father's house, because they were men of great ability.
+1CH.26:7 The sons of Shemaiah were Othni, Rephael, Obed, and Elzabad, whose brothers Elihu and Semachiah were able men.
+1CH.26:8 All these were of the sons of Obed-Edom, they and their sons and their brethren, able men with strength for the work: sixty-two of Obed-Edom.
+1CH.26:9 And Meshelemiah had sons and brethren, eighteen able men.
+1CH.26:10 Also Hosah, of the children of Merari, had sons who guarded the first, since he was not the firstborn, yet his father made him the first of the second division:
+1CH.26:11 Hilkiah the second, Tebaliah the third, Zechariah the fourth; all the sons and brethren of Hosah were thirteen.
+1CH.26:12 Among these were the divisions of the gatekeepers assigned daily by the leaders of the army, just like their brethren, to serve in the house of the Lord.
+1CH.26:13 And they cast lots for each gate, the small as well as the great, according to their father's house.
+1CH.26:14 The lot of those for the East Gate fell to Shelemiah and Zechariah. The sons of Joash cast lots for Melchiah, and his lot came out for the North Gate;
+1CH.26:15 to Obed-Edom the South Gate opposite the storehouse.
+1CH.26:16 For the second: to Hosah for the West Gate following the Pastophorion Gate of the ascending highway: watchman opposite watchman.
+1CH.26:17 On the east were six each day, on the north four each day, on the south four each day, and for the storehouse two by two.
+1CH.26:18 For relief, to the west there were four and on the track there were two relief guards.
+
+### Other Duties of the Levites
+
+1CH.26:19 These were the divisions of the gatekeepers among the sons of Korah and among the sons of Merari.
+1CH.26:20 And their Levite brethren were over the treasuries of the house of the Lord and over the treasuries of the dedicated things.
+1CH.26:21 These were the sons of Laadan, the descendants of the Gershonites; to Laadan were the heads of their families; the son of Laadan the Gershonite was Jehieli.
+1CH.26:22 The sons of Jetheli, Zetham and Joel, were brothers over the treasuries of the house of the Lord.
+1CH.26:23 Of the Amramites, the Izharites, the Hebronites, and the Uzzielites:
+1CH.26:24 Shebuel the son of Gershom, the son of Moses, was overseer of the treasuries.
+1CH.26:25 And his brethren by Eliezer were Rehabiah his son, Jeshaiah his son, Joram his son, Zichri his son, and Shelomith his son.
+1CH.26:26 This Shelomith and his brethren were over all the treasuries of the dedicated things which King David and the heads of fathers' houses, the captains over thousands and hundreds, and the captains of the army had dedicated.
+1CH.26:27 He also dedicated things taken from battles and from the spoils so that there would not be any lack in the maintenance of the house of the Lord.
+1CH.26:28 And all that Samuel the seer, Saul the son of Kish, Abner the son of Ner, and Joab the son of Zeruiah dedicated-every dedicated thing was under the hand of Shelomith and his brethren.
+1CH.26:29 Of the Izharites, Chenaniah and his sons performed outside duties as officials and judges over Israel.
+1CH.26:30 Of the Hebronites, Hashabiah and his brethren, one thousand seven hundred able men, had the oversight of Israel on the west side of the Jordan in every service of the Lord and duty for the king.
+1CH.26:31 Among the Hebronites, Jerijah was head of the Hebronites according to their generations, according to their families. In the fortieth year of the reign of David they were numbered, and among them in Jazer of Gilead mighty men were found.
+
+### Military Commanders
+
+1CH.26:32 And his brethren were two thousand seven hundred able men, heads of fathers' houses, whom King David made officials over the Reubenites, the Gadites, and the half-tribe of Manasseh in every edict of the Lord and utterance of the king.
+## Chapter 27
+
+1CH.27:1 Now the sons of Israel according to their number-heads of the families, captains
+1CH.27:2 Over the first division for the first month was Jashobeam the son of Zabdiel, and in his division were twenty-four thousand;
+1CH.27:3 he was of the children of Perez and the chief of all the captains of the army for the first month.
+1CH.27:4 Over the division of the second month was Dodai, an Ahohite, and in his division were twenty-four thousand leaders of the army.
+1CH.27:5 The third captain of the army for the third month was Benaiah the son of Jehoiada the priest, who was chief; in his division were twenty-four thousand.
+1CH.27:6 This was the Benaiah who was mighty among the thirty, and was over the thirty; in his division was Ammizabad his son.
+1CH.27:7 The fourth captain for the fourth month was Asahel the brother of Joab and Zebadiah his son after him; in his division were twenty-four thousand.
+1CH.27:8 The fifth captain for the fifth month was Shamhuth the Izrahite; in his division were twenty-four thousand.
+1CH.27:9 The sixth captain for the sixth month was Ira the son of Ikkesh the Tekoite; in his division were twenty-four thousand.
+1CH.27:10 The seventh captain for the seventh month was Helez the Pelonite of the children of Ephraim; in his division were twenty-four thousand.
+1CH.27:11 The eighth captain for the eighth month was Sibbechai the Hushathite of the Zarhites; in his division were twenty-four thousand.
+1CH.27:12 The ninth captain for the ninth month was Abiezer the Anathothite of the Benjamites; in his division were twenty-four thousand.
+1CH.27:13 The tenth captain for the tenth month was Maharai the Netophathite of the Zarhites; in his division were twenty-four thousand.
+1CH.27:14 The eleventh captain for the eleventh month was Benaiah the Pirathonite of the children of Ephraim; in his division were twenty-four thousand.
+
+### Tribal Leaders
+
+1CH.27:15 The twelfth captain for the twelfth month was Heldai the Netophathite of Othniel; in his division were twenty-four thousand.
+1CH.27:16 Furthermore, over the tribes of Israel: the officer over the Reubenites was Eliezer the son of Zichri; over the Simeonites, Shephatiah the son of Maachah;
+1CH.27:17 over the Levites, Hashabiah the son of Kemuel; over the Aaronites, Zadok;
+1CH.27:18 over Judah, Elihu, one of David's brothers; over Issachar, Omri the son of Michael;
+1CH.27:19 over Zebulun, Ishmaiah the son of Obadiah; over Naphtali, Jerimoth the son of Azriel;
+1CH.27:20 over the children of Ephraim, Hoshea the son of Azaziah; over the half-tribe of Manasseh, Joel the son of Pedaiah;
+1CH.27:21 over the halftribe of Manasseh in Gilead, Iddo the son of Zechariah; over the sons of Benjamin, Jaasiel the son of Abner;
+1CH.27:22 over Dan, Azarel the son of Jeroham. These were the leaders of the tribes of Israel.
+1CH.27:23 But David did not take into consideration the number of those twenty years old and younger, because the Lord said He would multiply Israel like the stars of the heavens.
+
+### Property Administration
+
+1CH.27:24 Joab the son of Zeruiah began a census, but he did not finish, for wrath came upon Israel because of this census; nor was the number recorded in the account of the chronicles of King David.
+1CH.27:25 And Azmaveth the son of Adiel was over the king's treasuries; and Jehonathan the son of Uzziah was over the storehouses in the field, in the cities, in the villages, and in the fortresses.
+1CH.27:26 Ezri the son of Chelub was over those who did the work of the field for tilling the ground.
+1CH.27:27 And Shimei the Ramathite was over the vineyards, and Zabdi the Shiphmite was over the produce of the vineyards for the supply of wine.
+1CH.27:28 Baal-Hanan the Gederite was over the olive trees and the sycamore trees that were in the lowlands, and Joash was over the store of oil.
+1CH.27:29 And Shitrai the Sharonite was over the herds that fed in Sharon, and Shaphat the son of Adlai was over the herds that were in the valleys.
+1CH.27:30 Obil the Ishmaelite was over the camels, Jehdeiah the Meronothite was over the donkeys,
+1CH.27:31 and Jaziz the Hagrite was over the flocks. All these were the officials over King David's property.
+1CH.27:32 Also Jehonathan, David's uncle, was a counselor, a wise man and ascribe; and Jehiel the son of Hachmoni was with the king's sons.
+1CH.27:33 Ahithophel was the king's counselor, and Hushai was the king's best friend.
+
+### Solomon Charged to Construct the Temple
+
+1CH.27:34 After Ahithophel was Jehoiada the son of Benaiah, then Abiathar. And the general of the king's army was Joab.
+## Chapter 28
+
+1CH.28:1 And David assembled all the chief men of Israel-the chief of the judges, the chi
+1CH.28:2 Then King David rose to his feet and said, 'Hear me, my brethren and my people. It was in my heart to build a house of rest for the ark of the covenant of the Lord and a footstool of our God. I made preparations to build it.
+1CH.28:3 But God said to me, 'You shall not build a house for My name, because you have been a man of war and have shed blood.'
+1CH.28:4 Yet the Lord God of Israel chose me from out of the entire house of my father to be king over Israel unto the age. And in Judah, he chose the royal palace; and of the house of Judah, he chose the house of my father; and of the sons of my father, He desired me to become king over all Israel.
+1CH.28:5 And of all my sons, for the Lord gave me many, He has chosen my son Solomon to sit on the throne of the kingdom of the Lord over Israel.
+1CH.28:6 'And He said to me, 'It is your son Solomon who shall build My house and My courts, for I have chosen him to be My son, and I will be his Father.
+1CH.28:7 And if he is steadfast to observe My commandments and My judgments, I will establish his kingdom forever, as it is this day.'
+1CH.28:8 And now before the whole assembly of the Lord and in the hearing of our God, I charge you to keep and seek all the commandments of the Lord our God, that you may inherit the good land and leave this for your sons to inherit after you forever.
+1CH.28:9 'And now, my son Solomon, know the God of your fathers, and serve Him with a whole heart and a willing soul; for the Lord searches all hearts and understands every thought. If you seek Him, He will be found by you; but if you forsake Him, He will forsake you forever.
+1CH.28:10 Consider now, for the Lord has chosen you to build a house for the sanctuary. Be strong and do it.'
+1CH.28:11 Then David gave his son Solomon the plans for the temple, its houses, its treasuries, its upper chambers, its inner storehouses, and the house of the mercy seat;
+1CH.28:12 and the plans that he had in his mind concerning the courts of the house of the Lord, all the chambers round about the storehouses of the house of the Lord, and the storehouses for the dedicated things;
+1CH.28:13 also for the quarters for the daily priests and the Levites for all the work of the service of the house of the Lord; and for the storehouses for the serving articles used to worship in the house of the Lord.
+1CH.28:14 And the measure of their weight both in gold and in silver,
+1CH.28:15 he gave to him the weight of the lamps and of the lamp stands.
+1CH.28:16 He gave to him in like manner the weight for the tables of the show-bread, for each table in gold and likewise in silver;
+1CH.28:17 also for the forks, the basins, the pitchers of gold, and the weight of the gold and the silver bowls for each weight;
+1CH.28:18 and the weight of the altar for burning incense made of refined gold he showed to him, and the plans for the chariot of the cherubim that spread out their wings and overshadowed the ark of the covenant of the Lord.
+1CH.28:19 All these things in writing from the hand of the Lord David gave to Solomon, so that he would succeed in understanding how to follow the plan.
+1CH.28:20 And David said to his son Solomon, 'Be strong and of good courage, and do it. Do not fear nor be dismayed, for the Lord God, my God, will be with you. He will not leave you nor forsake you until you have finished all the work for the service of the house of the Lord.
+
+### Collections to Build the Temple
+
+1CH.28:21 And take notice of the division of the priests and Levites for all the daily service of the house of the Lord. With them shall be the men for every workmanship, every one of ready skill in every art. And at your command are the chief men and all the people.'
+## Chapter 29
+
+1CH.29:1 Furthermore, King David said to the entire assembly, 'My one 
+1CH.29:2 According to all means possible I prepared gold, silver, bronze, iron, wood, onyx stones, costly and precious stones of various colors, and much marble for the house of my God.
+1CH.29:3 And because I took pleasure in the house of my God, I gave to the house of my God gold and silver over and above what I procured for myself; more than all I prepared for my house of my God, over and above all I prepared for my consecrated house.
+1CH.29:4 Three thousand talents of the gold of Ophir, and seven thousand talents of refined silver to be overlaid in these the walls of the sanctuary
+1CH.29:5 by the hands of craftsmen. And who this day zealously dedicates his hands for the Lord?'
+1CH.29:6 Then the heads of the families, the princes of the sons of Israel, and the captains of thousands and of hundreds, with the officers over the king's work, offered willingly.
+1CH.29:7 They gave for the work of the house of God five thousand talents of gold and ten thousand darics of gold, ten thousand talents of silver, eighteen thousand talents of bronze, and one hundred thousand talents of iron.
+1CH.29:8 And whoever had precious stones gave them to the treasury of the house of the Lord, into the hand of Jehiel the Gershonite.
+
+### David Gives Praise to God
+
+1CH.29:9 Then the people rejoiced as a result of their willingness, for they offered willingly to the Lord with their whole heart. King David rejoiced greatly.
+1CH.29:10 With this, King David blessed the Lord before all the assembly, saying, 'Blessed are You, O Lord God of Israel, our Father, unto the ages of ages.
+1CH.29:11 Yours, O Lord, is the greatness and the power and the glory and the victory and the might. You are master over all that is in heaven and on the earth. Every king and nation is thrown into confusion before You.
+1CH.29:12 From the first, You are the wealth and the glory who reigns over all, as the Lord and dominion of all. In Your hand is power and authority, and you are almighty with Your hand to increase and establish all things.
+1CH.29:13 And now, Lord, we give thanks to You, and we praise Your glorious name.
+1CH.29:14 'But who am I, and who are my people, that we are able to be zealous in offering to You? For all things are Yours, and of Your own we give to You.
+1CH.29:15 For we are strangers before You and sojourners, as were all our fathers. Our days upon the earth are as a shadow, and there are none that remain.
+1CH.29:16 O Lord our God, as for all this abundance which I have prepared that a house should be built to Your holy name, it is of Your hand and all is Yours.
+1CH.29:17 I know also, O Lord, that You search the heart and You love righteousness. As for me, in the sincerity of my heart I willingly offer all these things. And now I see Your people who brought themselves here joyfully to offer willingly to You.
+1CH.29:18 O Lord God of Abraham, Isaac, and Israel, our fathers, keep under guard these things in the thoughts of the heart of Your people forever, and lead their heart toward You.
+1CH.29:19 And give my son Solomon a fitting heart to keep Your commandments and Your testimonies and Your ordinances and bring to an end the final preparation of Your house.'
+
+### Solomon Anointed King
+
+1CH.29:20 Then David said to all the congregation, 'Now bless the Lord your God.' And everyone in the congregation blessed the Lord God of their fathers, and bowed down before the Lord and the king.
+1CH.29:21 The next day after the first day, David sacrificed and offered up whole burnt offerings to the Lord-even a thousand calves, a thousand rams, and a thousand lambs-along with their drink offerings, and an abundance of sacrifices for all Israel.
+1CH.29:22 So they ate and drank before the Lord with great gladness on that day. And they made Solomon the son of David king a second time and anointed him king before the Lord, and Zadok to the priesthood.
+1CH.29:23 Then Solomon sat upon the throne of David his father, and was well pleased, and prospered; and all Israel listened to him.
+1CH.29:24 All the leaders and the mighty men, as well as all the sons of King David his father, were subject to him.
+
+### Review of David's Reign
+
+1CH.29:25 And the Lord exalted Solomon exceedingly in the sight of all Israel and gave him the glory of a king, which was not given any king of Israel before him.
+1CH.29:26 Thus David the son of Jesse reigned over Israel
+1CH.29:27 forty years, in Hebron for seven years and in Jerusalem for thirty-three years.
+1CH.29:28 So he died in a good old age, full of days, riches, and glory. Solomon his son reigned in his stead.
+1CH.29:29 And the remaining works of King David, the former and the latter, are written in the book of Samuel the seer, in the book of Nathan the prophet, and in the book of Gad the seer, 30 concerning all his reign, his power, and the events that happened to him, to Israel, and to all the kingdoms of the lands.

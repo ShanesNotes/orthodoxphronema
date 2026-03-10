@@ -1,0 +1,74 @@
+{
+  "residuals": [
+    {
+      "anchor": "HOS.1:1",
+      "classification": "docling_issue",
+      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "HOS.1:2",
+      "classification": "docling_issue",
+      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "HOS.2:1",
+      "classification": "docling_issue",
+      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "HOS.9:16",
+      "classification": "docling_issue",
+      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "HOS.9:17",
+      "classification": "docling_issue",
+      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "HOS.10:1",
+      "classification": "docling_issue",
+      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "HOS.10:2",
+      "classification": "docling_issue",
+      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "HOS.10:3",
+      "classification": "docling_issue",
+      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "HOS.10:4",
+      "classification": "docling_issue",
+      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+      "blocking": false,
+      "ratified": false
+    },
+    {
+      "anchor": "HOS.10:5",
+      "classification": "docling_issue",
+      "description": "Verse not captured by Docling extraction (drop-cap or column-split loss)",
+      "blocking": false,
+      "ratified": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "book": "3MA",
+  "file": "staging/validated/OT/3MA.md",
+  "generated": "2026-03-10",
+  "total_candidates": 0,
+  "by_category": {},
+  "candidates": [],
+  "notes": [
+    "2 dropcap repairs applied (human_verified: 1:1 W+hen→When, 2:1 T+he→The)",
+    "68 fused article repairs applied via fix_articles.py",
+    "15 R2 possessive fixes applied via fix_omissions.py",
+    "Catastrophic structural reconstruction: ch2 → ch2-7 (5 collapsed chapters recovered)",
+    "V9 splits: 5:6→5:6+5:7+5:8 (3 fused), 6:2→6:2+6:3 (2 fused)",
+    "Duplicate page-layout section headers removed (9 recurring artifacts)",
+    "Ch1 unique section headers retained: 'Ptolemy Tries to Enter the Temple', 'A Priestly Prayer Stops Ptolemy'",
+    "V7 99.6% (227/228) — ch1:29 likely OSB versification difference vs Brenton",
+    "Explicit fused article audit from fix_articles.py",
+    "High-confidence article-conjunction fusions (>= 0.75) should block promotion until resolved",
+    "Purity audit from purity_audit.py",
+    "Chapter-opening drop-cap suspects and split-word residue should block promotion until resolved or ratified",
+    "Inline *** review markers were ignored during detection"
+  ]
+}

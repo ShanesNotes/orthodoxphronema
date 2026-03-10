@@ -1,0 +1,15 @@
+{
+  "book_code": "2KI",
+  "registry_version": "1.2.4",
+  "ratified_by": null,
+  "ratified_date": null,
+  "residuals": [],
+  "resolved": [
+    {
+      "anchor": "2KI.1:7",
+      "classification": "docling_issue",
+      "description": "Docling column-split artifact: tail of v6 text merged into v7. (Fixed: recovered from pdftotext extraction)",
+      "resolved_date": "2026-03-10"
+    }
+  ]
+}

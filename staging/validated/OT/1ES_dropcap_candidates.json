@@ -1,0 +1,87 @@
+{
+  "book_code": "1ES",
+  "total_candidates": 7,
+  "confirmed_auto": 0,
+  "ambiguous_human": 7,
+  "rejected": 0,
+  "ratified": true,
+  "candidates": [
+    {
+      "anchor": "1ES.1:1",
+      "residual": "osiah kept the Passover to his Lord in Jerusalem. He sacrifi",
+      "proposed_repair": "Josiah kept the Passover to his Lord in Jerusalem. He sacrifi",
+      "missing_prefix": "J",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "And Josias held the feast of the passover in Jerusalem unto his Lord, and offere",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "1ES.2:1",
+      "residual": "hen Cyrus was reigning over the Persians in his first year, ",
+      "proposed_repair": "Then Cyrus was reigning over the Persians in his first year, ",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.3529,
+      "brenton_verse": "In the first year of Cyrus king of the Persians, that the word of the Lord might",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1ES.3:1",
+      "residual": "ow King Darius put on agreat banquet for all his subjects, f",
+      "proposed_repair": "Now King Darius put on agreat banquet for all his subjects, ",
+      "missing_prefix": "N",
+      "classification": "human_verified",
+      "prefix_score": 0.3478,
+      "brenton_verse": "Now when Darius reigned, he made a great feast unto all his subjects, and unto a",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1ES.4:1",
+      "residual": "hen the second, who talked about the strength of the king, b",
+      "proposed_repair": "Then the second, who talked about the strength of the king, b",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.5769,
+      "brenton_verse": "Then the second, that had spoken of the strength of the king, began to say,",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1ES.5:1",
+      "residual": "fter this the heads of the paternal houses were chosen accor",
+      "proposed_repair": "After this the heads of the paternal houses were chosen accor",
+      "missing_prefix": "A",
+      "classification": "human_verified",
+      "prefix_score": 0.4,
+      "brenton_verse": "After this were the principal men of the families chosen according to their trib",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1ES.6:1",
+      "residual": "ow in the second year of the reign of Darius, the prophets t",
+      "proposed_repair": "Now in the second year of the reign of Darius, the prophets t",
+      "missing_prefix": "N",
+      "classification": "human_verified",
+      "prefix_score": 0.6818,
+      "brenton_verse": "Now in the second year of the reign of Darius, Aggeus and Zacharias the son of A",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "1ES.7:1",
+      "residual": "hen Sisinnes, governor of Coelesyria and Phoenicia, and Sath",
+      "proposed_repair": "Then Sisinnes, governor of Coelesyria and Phoenicia, and Sath",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.8286,
+      "brenton_verse": "Then Sisinnes the governor of Celosyria and Phenice, and Sathrabuzanes, with the",
+      "source": "brenton",
+      "ratified": true
+    }
+  ]
+}

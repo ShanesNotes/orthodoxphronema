@@ -1,0 +1,54 @@
+{
+  "book_code": "RUT",
+  "total_candidates": 4,
+  "confirmed_auto": 0,
+  "ambiguous_human": 4,
+  "rejected": 0,
+  "ratified": true,
+  "candidates": [
+    {
+      "anchor": "RUT.1:1",
+      "residual": "nthe days of the judges there was afamine in the land. And a",
+      "proposed_repair": "Inthe days of the judges there was afamine in the land. And a",
+      "missing_prefix": "I",
+      "classification": "human_verified",
+      "prefix_score": 0.2632,
+      "brenton_verse": "And it came to pass when the judges ruled, that there was a famine in the land: ",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "RUT.2:1",
+      "residual": "here was arelative of Naomi'shusband, aman of great wealth, ",
+      "proposed_repair": "There was arelative of Naomi'shusband, aman of great wealth, ",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "And Noemin had a friend an acquaintance of her husband, and the man was a mighty",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "RUT.3:1",
+      "residual": "hen Naomi her mother-in-law said to her, 'Daughter, shall I ",
+      "proposed_repair": "Then Naomi her mother-in-law said to her, 'Daughter, shall I not seek rest for y",
+      "missing_prefix": "Then ",
+      "classification": "human_verified",
+      "prefix_score": 0.52,
+      "brenton_verse": "And she lodged with her mother-in-law: and Noemin her mother-in-law said to her,",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "RUT.4:1",
+      "residual": "oaz went up to the gate and sat there; and behold, the close",
+      "proposed_repair": "Boaz went up to the gate and sat there; and behold, the close",
+      "missing_prefix": "B",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "And Booz went up to the gate, and sat there; and behold, the relative passed by,",
+      "source": "residual_unmatched",
+      "ratified": true
+    }
+  ]
+}

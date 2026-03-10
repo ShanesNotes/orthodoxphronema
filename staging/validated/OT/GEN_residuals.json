@@ -1,16 +1,9 @@
 {
   "book_code": "GEN",
-  "registry_version": "1.1.0",
+  "registry_version": "1.2.2",
   "ratified_by": "human",
   "ratified_date": "2026-03-08",
   "residuals": [
-    {
-      "anchor": "GEN.14:24",
-      "classification": "docling_issue",
-      "description": "Last verse of chapter. Docling does not emit a boundary for the final verse.",
-      "blocking": false,
-      "ratified": true
-    },
     {
       "anchor": "GEN.25:34",
       "classification": "osb_source_absent",
@@ -18,13 +11,18 @@
       "blocking": false,
       "ratified": true,
       "upstream_witnesses": ["Rahlfs LXX 1935", "Brenton Septuagint"]
+    }
+  ],
+  "resolved": [
+    {
+      "anchor": "GEN.14:24",
+      "was": "docling_issue",
+      "resolution": "Structural split applied — verse separated from 14:23"
     },
     {
       "anchor": "GEN.49:2",
-      "classification": "docling_issue",
-      "description": "Poetic-block TextItem boundary. Text present in PDF but not emitted as separate verse.",
-      "blocking": false,
-      "ratified": true
+      "was": "docling_issue",
+      "resolution": "Verse recovered via targeted Docling re-extraction"
     }
   ]
 }

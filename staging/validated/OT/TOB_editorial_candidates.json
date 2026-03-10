@@ -1,0 +1,21 @@
+{
+  "book": "TOB",
+  "file": "staging/validated/OT/TOB.md",
+  "generated": "2026-03-10",
+  "total_candidates": 0,
+  "by_category": {},
+  "candidates": [],
+  "notes": [
+    "13 dropcap repairs applied (all human_verified)",
+    "64 fused article repairs applied via fix_articles.py",
+    "7 R2 possessive fixes applied via fix_omissions.py",
+    "2 manual fused word fixes (Inthat→In that, Hetraveled→He traveled)",
+    "Ch14 reconstructed from mislabeled ch13 content",
+    "V7 100.4% (246/245) — ch13:2 and ch14:1 Docling gaps",
+    "Explicit fused article audit from fix_articles.py",
+    "High-confidence article-conjunction fusions (>= 0.75) should block promotion until resolved",
+    "Purity audit from purity_audit.py",
+    "Chapter-opening drop-cap suspects and split-word residue should block promotion until resolved or ratified",
+    "Inline *** review markers were ignored during detection"
+  ]
+}

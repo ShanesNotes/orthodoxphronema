@@ -1,0 +1,83 @@
+{
+  "book_code": "DEU",
+  "total_candidates": 7,
+  "confirmed_auto": 7,
+  "ambiguous_human": 0,
+  "rejected": 0,
+  "ratified": true,
+  "candidates": [
+    {
+      "anchor": "DEU.1:1",
+      "residual": "ow these are the words Moses spoke to all Israel beyond the ",
+      "proposed_repair": "Now these are the words Moses spoke to all Israel beyond the Jordan in the deser",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7917,
+      "brenton_verse": "These are the words which Moses spoke to all Israel on this side Jordan in the d",
+      "source": "brenton"
+    },
+    {
+      "anchor": "DEU.5:1",
+      "residual": "ow Moses called all Israel, and said to them, 'Hear, O Israe",
+      "proposed_repair": "Now Moses called all Israel, and said to them, 'Hear, O Israel, the ordinances a",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8519,
+      "brenton_verse": "And Moses called all Israel, and said to them, Hear, Israel, the ordinances and ",
+      "source": "brenton"
+    },
+    {
+      "anchor": "DEU.27:1",
+      "residual": "ow Moses with the elders of Israel ordered the people, sayin",
+      "proposed_repair": "Now Moses with the elders of Israel ordered the people, saying, 'Keep all these ",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7083,
+      "brenton_verse": "And Moses and the elders of Israel commanded, saying, Keep all these commands, a",
+      "source": "brenton"
+    },
+    {
+      "anchor": "DEU.29:1",
+      "residual": "ow Moses called all the children of Israel and said to them,",
+      "proposed_repair": "Now Moses called all the children of Israel and said to them, 'You saw all the L",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.3478,
+      "brenton_verse": "These are the words of the covenant, which the Lord commanded Moses to make with",
+      "source": "brenton"
+    },
+    {
+      "anchor": "DEU.31:1",
+      "residual": "ow Moses finished speaking these words to the children of Is",
+      "proposed_repair": "Now Moses finished speaking these words to the children of Israel.",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8788,
+      "brenton_verse": "And Moses finished speaking all these words to all the children of Israel;",
+      "source": "brenton"
+    },
+    {
+      "anchor": "DEU.33:1",
+      "residual": "ow this is the blessing with which Moses the man of God bles",
+      "proposed_repair": "Now this is the blessing with which Moses the man of God blessed the sons of Isr",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8163,
+      "brenton_verse": "And this is the blessing with which Moses the man of God blessed the children of",
+      "source": "brenton"
+    },
+    {
+      "anchor": "DEU.34:1",
+      "residual": "hen Moses went up from the plains of Moab to Mount Nebo, to ",
+      "proposed_repair": "Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, ",
+      "missing_prefix": "Then ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7347,
+      "brenton_verse": "And Moses went up from Araboth Moab to the mount of Nabau, to the top of Phasga,",
+      "source": "brenton"
+    }
+  ],
+  "ratified_by": "ark",
+  "ratified_date": "2026-03-08",
+  "ratification_note": "All 7 are clear drop-cap restorations (N\u2192Now, T\u2192Then). Ambiguous only because Brenton uses And where OSB uses Now/Then."
+}

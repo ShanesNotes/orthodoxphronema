@@ -1,0 +1,68 @@
+{
+  "book": "MIC",
+  "file": "staging/validated/OT/MIC.md",
+  "generated": "2026-03-10",
+  "total_candidates": 5,
+  "by_category": {
+    "chapter_open_dropcap": 5
+  },
+  "candidates": [
+    {
+      "line": 44,
+      "anchor": "MIC.2:1",
+      "category": "chapter_open_dropcap",
+      "token": "hey",
+      "confidence": 0.7,
+      "source_hint": "residual_unmatched:ambiguous_human",
+      "manual_status": "pending",
+      "replacement": null
+    },
+    {
+      "line": 65,
+      "anchor": "MIC.3:1",
+      "category": "chapter_open_dropcap",
+      "token": "ewill",
+      "confidence": 0.7,
+      "source_hint": "residual_unmatched:ambiguous_human",
+      "manual_status": "pending",
+      "replacement": null
+    },
+    {
+      "line": 82,
+      "anchor": "MIC.4:1",
+      "category": "chapter_open_dropcap",
+      "token": "nd",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "And it shall come to pass in the last days that the mountain of the Lord will be"
+    },
+    {
+      "line": 120,
+      "anchor": "MIC.6:1",
+      "category": "chapter_open_dropcap",
+      "token": "ow",
+      "confidence": 0.95,
+      "source_hint": "heuristic_fallback:confirmed_auto",
+      "manual_status": "pending",
+      "replacement": "Now hear the word of the Lord. The Lord says, 'Arise, plead your case before the"
+    },
+    {
+      "line": 141,
+      "anchor": "MIC.7:1",
+      "category": "chapter_open_dropcap",
+      "token": "oe",
+      "confidence": 0.7,
+      "source_hint": "residual_unmatched:ambiguous_human",
+      "manual_status": "pending",
+      "replacement": null
+    }
+  ],
+  "notes": [
+    "Explicit fused article audit from fix_articles.py",
+    "High-confidence article-conjunction fusions (>= 0.75) should block promotion until resolved",
+    "Purity audit from purity_audit.py",
+    "Chapter-opening drop-cap suspects and split-word residue should block promotion until resolved or ratified",
+    "Inline *** review markers were ignored during detection"
+  ]
+}

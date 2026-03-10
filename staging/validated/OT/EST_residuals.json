@@ -1,0 +1,15 @@
+{
+  "book": "EST",
+  "file": "staging/validated/OT/EST.md",
+  "generated": "2026-03-09",
+  "ratified_by": null,
+  "ratified_date": null,
+  "residuals": [
+    {
+      "anchor": "EST.4:6",
+      "classification": "docling_issue",
+      "description": "Verse absent from Docling extraction. OSB verse 6 not detected — Brenton content maps to EST.4:7 (versification offset).",
+      "ratified": true
+    }
+  ]
+}

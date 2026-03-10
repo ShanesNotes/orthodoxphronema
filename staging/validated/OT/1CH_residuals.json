@@ -1,0 +1,15 @@
+{
+  "book_code": "1CH",
+  "registry_version": "1.2.3",
+  "ratified_by": null,
+  "ratified_date": null,
+  "residuals": [],
+  "resolved": [
+    {
+      "anchor": "1CH.16:7",
+      "classification": "docling_issue",
+      "description": "Verse absent from Docling extraction. (Fixed: recovered from SectionHeaderItem fragment)",
+      "resolved_date": "2026-03-10"
+    }
+  ]
+}

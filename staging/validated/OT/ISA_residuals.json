@@ -1,0 +1,30 @@
+[
+  {
+    "anchor": "ISA.2:22",
+    "classification": "dropcap_ocr",
+    "description": "Verse ISA.2:22 missing - likely dropcap or extraction gap",
+    "blocking": false,
+    "ratified": false
+  },
+  {
+    "anchor": "ISA.9:21",
+    "classification": "dropcap_ocr",
+    "description": "Verse ISA.9:21 missing - likely dropcap or extraction gap",
+    "blocking": false,
+    "ratified": false
+  },
+  {
+    "anchor": "ISA.56:12",
+    "classification": "dropcap_ocr",
+    "description": "Verse ISA.56:12 missing - likely dropcap or extraction gap",
+    "blocking": false,
+    "ratified": false
+  },
+  {
+    "anchor": "ISA.64:12",
+    "classification": "dropcap_ocr",
+    "description": "Verse ISA.64:12 missing - likely dropcap or extraction gap",
+    "blocking": false,
+    "ratified": false
+  }
+]

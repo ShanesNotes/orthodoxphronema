@@ -1,8 +1,8 @@
 ---
 book_code: GEN
 book_name: "Genesis"
-content_type: study_articles
-source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
+content_type: article
+source: "OSB-v1"
 parse_date: "2026-03-07"
 promote_date: null
 status: staged
@@ -15,7 +15,7 @@ canon_anchors_referenced: []
 ### Creation
 *(after GEN.0:0)*
 
-' W e believe in one God, the Father Almighty, Maker of Heaven and Earth, and of all things visible and invisible.' These opening words of the Nicene Creed, the central doctrinal statement of Christianity, affirm that the One True God is the source of everything that exists
+' We believe in one God, the Father Almighty, Maker of Heaven and Earth, and of all things visible and invisible.' These opening words of the Nicene Creed, the central doctrinal statement of Christianity, affirm that the One True God is the source of everything that exists
 -both physical and spiritual, both animate and inanimate. The Holy Scriptures begin with a similarly striking assertion: 'In the beginning God made heaven and begin with a similarly striking earth.' St. Basil the Great declares:
 In the fear that human reasonings may make you wander from the truth, Moses has anticipated inquiry by engraving in our hearts, as a seal and a safeguard, the awesome name of God: 'In the beginning God created.' It is He-beneficent Nature, Goodness without measure, a worthy object of love for all beings endowed with reason, the beauty the most to be desired, the origin of all that exists...-it is He who 'in the beginning created heaven and earth.'
 The ever-existent Almighty God was not forced to create the universe. Rather, in His goodness and lovingkindness, He freely chose to do so. And the fact that the Lord created the universe out of nothing stands in clear contrast to the creation myths of the surrounding cultures in the ancient world.
@@ -31,7 +31,7 @@ The repeated affirmation 'and God saw that it was good' in Genesis 1 underscores
 ### The Holy Trinity
 *(after GEN.1:28)*
 
-T he Holy Trinity is revealed both in the Old Testament and in the New Testament. In the Old Testament, the Trinity is revealed in subtle ways; in the New Testament, the Trinity is revealed fully and plainly, beginning at the Baptism of our Lord.
+The Holy Trinity is revealed both in the Old Testament and in the New Testament. In the Old Testament, the Trinity is revealed in subtle ways; in the New Testament, the Trinity is revealed fully and plainly, beginning at the Baptism of our Lord.
 The Holy Trinity is one God in three Persons, Father, Son and Holy Spirit. These Persons are distinct, but not separate, and are not three gods. They are One God because They are one in essence or nature. The Father is the unbegotten Fountainhead of Deity. The Son is eternally begotten of the Father (Jn 1:18; 3:16; 16:28). The Holy Spirit is the Helper (Jn 14:16) and Spirit of Truth (Jn 14:17; 16:13), Who proceeds from the Father (Jn 15:26).
 
 #### The Holy Trinity Created The World
@@ -65,7 +65,7 @@ Matthew 3:16-17-When the Son of God was baptized in the Jordan by John, the Fath
 ### Ancestral Sin
 *(after GEN.3:7)*
 
-I n the Old Testament account of creation, God created mankind and established a place for him called Paradise. He also gave him a commandment regarding the tree of the knowledge of good and evil: 'And the Lord God commanded Adam, saying, 'You may eat food from every tree in the garden; but from the tree of the knowledge of good and evil you may not eat; for in whatever day you eat from it, you shall die by death' ' (Gn 2:16, 17). In that Adam and Eve did not physically die the day they ate from the tree, the words 'you shall die' indicate a spiritual death through separation from God.
+In the Old Testament account of creation, God created mankind and established a place for him called Paradise. He also gave him a commandment regarding the tree of the knowledge of good and evil: 'And the Lord God commanded Adam, saying, 'You may eat food from every tree in the garden; but from the tree of the knowledge of good and evil you may not eat; for in whatever day you eat from it, you shall die by death' ' (Gn 2:16, 17). In that Adam and Eve did not physically die the day they ate from the tree, the words 'you shall die' indicate a spiritual death through separation from God.
 Ancestral sin is the disobedience of Adam to God's command regarding the tree of the knowledge of good and evil. Adam willingly disobeyed this commandment and diverted himself, or fell, from God's path to perfection, thus separating himself from His Creator, the Source of life.
 
 #### What Are The Consequences Of The Fall?
@@ -76,4 +76,3 @@ Ancestral sin is the disobedience of Adam to God's command regarding the tree of
 4 Adam's Fall not only brought mortality and sin into the world, but also sweat, toil, hunger, thirst, weariness, sorrow, pain, suffering, sickness, tribulations, tragedy and tears.
 5 Even after the Fall, the intellectual, desiring and incensive (forceful or driving) aspects of the soul are natural and therefore neutral. They can be used in a good way, or in a bad, harmful way. For instance, desire is very good when one directs it towards God. But when desire is out of control, one may use it in very inappropriate ways, such as becoming gluttonous or desiring another person's spouse. The classic analogy is that these powers of the soul are like iron, which can be made into a plow to help grow food, or into a sword to be used to kill someone.
 Christ, by His Death and Resurrection, conquered the devil and death, freeing mankind from the fear of death (Heb 2:14-15) and making possible a more complete communion between God and man than was ever possible before. This communion allows people to become 'partakers of the divine nature' (2Pt 1:4), to transcend death and, ultimately, all the consequences of the Fall.
-

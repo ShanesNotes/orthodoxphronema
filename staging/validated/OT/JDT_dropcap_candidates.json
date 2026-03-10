@@ -1,0 +1,187 @@
+{
+  "book_code": "JDT",
+  "total_candidates": 16,
+  "confirmed_auto": 0,
+  "ambiguous_human": 0,
+  "human_verified": 16,
+  "rejected": 0,
+  "ratified": true,
+  "candidates": [
+    {
+      "anchor": "JDT.1:1",
+      "residual": "twas the twelfth year of the reign of Nebuchadnezzar, who re",
+      "proposed_repair": "Itwas the twelfth year of the reign of Nebuchadnezzar, who re",
+      "missing_prefix": "I",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "In the twelfth year of the reign of Nabuchodonosor, who reigned in Nineve, the g",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.2:1",
+      "residual": "nthe eighteenth year, on the twenty-second day of the first ",
+      "proposed_repair": "Inthe eighteenth year, on the twenty-second day of the first month, in the hous",
+      "missing_prefix": "I",
+      "classification": "human_verified",
+      "prefix_score": 0.8077,
+      "brenton_verse": "And in the eighteenth year, the two and twentieth day of the first month, there ",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.3:1",
+      "residual": "hey sent messengers to him to sue for peace, saying,",
+      "proposed_repair": "They sent messengers to him to sue for peace, saying,",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "So they sent ambassadors unto him to treat of peace, saying,",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.4:1",
+      "residual": "hen the Israelites residing in Judea heard everything Holofe",
+      "proposed_repair": "Then the Israelites residing in Judea heard everything Holofernes, the commander",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.4483,
+      "brenton_verse": "Now the children of Israel, that dwelt in Judea, heard all that Holofernes the c",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.5:1",
+      "residual": "twas told to Holofernes, the commander of the Assyrian army,",
+      "proposed_repair": "Itwas told to Holofernes, the commander of the Assyrian army,",
+      "missing_prefix": "I",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "Then was it declared to Holofernes, the chief captain of the army of Assur, that",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.6:1",
+      "residual": "sthe disruption of the men outside the council calmed down, ",
+      "proposed_repair": "Asthe disruption of the men outside the council calmed down, ",
+      "missing_prefix": "A",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "And when the tumult of men that were about the council was ceased, Holofernes th",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.7:1",
+      "residual": "nthe next day, Holofernes commanded his entire army and all ",
+      "proposed_repair": "Onthe next day, Holofernes commanded his entire army and all his allies who joi",
+      "missing_prefix": "O",
+      "classification": "human_verified",
+      "prefix_score": 0.7797,
+      "brenton_verse": "The next day Holofernes commanded all his army, and all his people which were co",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.8:1",
+      "residual": "nthose days, Judith got word of this matter. She was the dau",
+      "proposed_repair": "Inthose days, Judith got word of this matter. She was the dau",
+      "missing_prefix": "I",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "Now at that time Judith heard thereof, which was the daughter of Merari, the son",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.9:1",
+      "residual": "hen Judith prostrated herself, put ashes upon her head, and ",
+      "proposed_repair": "Then Judith prostrated herself, put ashes upon her head, and uncovered the sackc",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.4746,
+      "brenton_verse": "Then Judith fell upon her face, and put ashes upon her head, and uncovered the s",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.10:1",
+      "residual": "hen she had ceased crying to the God of Israel and had compl",
+      "proposed_repair": "When she had ceased crying to the God of Israel and had completed all her words,",
+      "missing_prefix": "W",
+      "classification": "human_verified",
+      "prefix_score": 0.75,
+      "brenton_verse": "Now after that she had ceased to cry unto the God of Israel, and had made an end",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.11:1",
+      "residual": "hen Holofernes spoke to her, saying, 'Woman, take courage; d",
+      "proposed_repair": "Then Holofernes spoke to her, saying, 'Woman, take courage; do not be fearful in",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.6207,
+      "brenton_verse": "Then said Holofernes unto her, Woman, be of good comfort, fear not in thine hear",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.12:1",
+      "residual": "ethen gave the order to have her brought into where his silv",
+      "proposed_repair": "Hethen gave the order to have her brought into where his silv",
+      "missing_prefix": "H",
+      "classification": "human_verified",
+      "prefix_score": null,
+      "brenton_verse": "Then he commanded to bring her in where his plate was set; and bade that they sh",
+      "source": "residual_unmatched",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.13:1",
+      "residual": "hen evening came, his servants quickly departed, and Bagoas ",
+      "proposed_repair": "When evening came, his servants quickly departed, and Bagoas shut the tent from ",
+      "missing_prefix": "W",
+      "classification": "human_verified",
+      "prefix_score": 0.7037,
+      "brenton_verse": "Now when the evening was come, his servants made haste to depart, and Bagoas shu",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.14:1",
+      "residual": "hen Judith said to them, 'Hear me, my friends; take this hea",
+      "proposed_repair": "Then Judith said to them, 'Hear me, my friends; take this head and hang it at th",
+      "missing_prefix": "T",
+      "classification": "human_verified",
+      "prefix_score": 0.6,
+      "brenton_verse": "Then said Judith unto them, Hear me now, my brethren, and take this head, and ha",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.15:1",
+      "residual": "hen those in their tents heard the wailing, they were utterl",
+      "proposed_repair": "When those in their tents heard the wailing, they were utterly astounded at what",
+      "missing_prefix": "W",
+      "classification": "human_verified",
+      "prefix_score": 0.6087,
+      "brenton_verse": "And when they that were in the tents heard, they were astonished at the thing th",
+      "source": "brenton",
+      "ratified": true
+    },
+    {
+      "anchor": "JDT.16:1",
+      "residual": "nd Judith said: 'Begin ahymn to my God with tambourines, Sin",
+      "proposed_repair": "And Judith said: 'Begin ahymn to my God with tambourines, Sing to the Lord with ",
+      "missing_prefix": "A",
+      "classification": "human_verified",
+      "prefix_score": 0.5283,
+      "brenton_verse": "Then Judith began to sing this thanksgiving in all Israel, and all the people sa",
+      "source": "brenton",
+      "ratified": true
+    }
+  ]
+}

@@ -80,7 +80,7 @@ GEN.2:24 For this reason a man shall leave his father and mother and be joined t
 GEN.2:25 Now the two were naked, both Adam and his wife, and were not ashamed.
 ## Chapter 3
 
-GEN.3:1 Now the serpent was more cunning than all the wild animals the Lord God made on 
+GEN.3:1 Now the serpent was more cunning than all the wild animals the Lord God made on the earth. And he said to the woman, 'Has God indeed said, 'You shall not eat from every tree of the garden'?'
 GEN.3:2 And the woman said to the serpent, 'We may eat the fruit from the trees of the garden;
 GEN.3:3 but from the fruit of the tree in the middle of the garden, God said, 'You shall not eat from it, nor shall you touch it, lest you die.' '
 GEN.3:4 Then the serpent said to the woman, 'You shall not die by death.
@@ -109,7 +109,7 @@ GEN.3:23 therefore the Lord God sent him out of the garden of pleasure to cultiv
 GEN.3:24 So He cast out Adam, and made him dwell opposite the garden of pleasure. He then stationed the cherubim and the fiery sword which turns every way to guard the way to the tree of life.
 ## Chapter 4
 
-GEN.4:1 Now Adam knew Eve his wife, and she conceived and bore Cain, and said, 'I have a
+GEN.4:1 Now Adam knew Eve his wife, and she conceived and bore Cain, and said, 'I have acquired a man through God.'
 GEN.4:2 Then she bore again, this time his brother Abel. Now Abel was a shepherd of sheep, but Cain was a tiller of the ground.
 GEN.4:3 Now in the process of time Cain brought a sacrifice to the Lord from the fruits of the ground.
 GEN.4:4 Abel also brought a sacrifice from the firstborn of his flock and of their fat. The Lord respected Abel and his offering,
@@ -123,7 +123,7 @@ GEN.4:11 So now you are cursed from the earth, which has opened its mouth to rec
 GEN.4:12 When you till the ground, it shall no longer yield its strength to you. You will be groaning and trembling on the earth.'
 GEN.4:13 Then Cain said to the Lord, 'My guilt is too great to be forgiven!
 GEN.4:14 Surely You have driven me out this day from the face of the ground; I shall be hidden from Your face; I shall be groaning and trembling on the earth. Then it will happen if anyone finds me, he will kill me.'
-GEN.4:15 So the Lord God said to him, 'Not so! Whoever kills Cain, vengeance shall be taken on him sevenfold.' Thus the Lord set a sign on Cain, lest anyone finding him should kill him.
+GEN.4:15 So the Lord God said to him, 'Not so! Whoever kills Cain, vengeance shall be taken on him seven-fold.' Thus the Lord set a sign on Cain, lest anyone finding him should kill him.
 
 ### Cain's Family
 
@@ -135,7 +135,7 @@ GEN.4:20 So Adah bore Jabal. He was the father of those who dwell in tents and h
 GEN.4:21 His brother's name was Jubal. He is the one who invented the psaltery and harp.
 GEN.4:22 As for Zillah, she also bore Tubal-Cain, a smith and a manufacturer of bronze and iron. And the sister of Tubal-Cain was Naamah.
 GEN.4:23 Then Lamech said to his wives Adah and 'Hear my voice, you wives of Lamech, And listen carefully to my words, Because I killed a man for wounding me And a young man for hurting me.
-GEN.4:24 If Cain shall be avenged sevenfold, Then Lamech seventy-sevenfold.'
+GEN.4:24 If Cain shall be avenged seven-fold, Then Lamech seventy-seven-fold.'
 GEN.4:25 Again Adam knew his wife Eve, and she conceived and bore a son, and he named him Seth, saying, 'God has appointed another seed for me instead of Abel, whom Cain killed.'
 
 ### The Descendants of Adam
@@ -143,7 +143,7 @@ GEN.4:25 Again Adam knew his wife Eve, and she conceived and bore a son, and he 
 GEN.4:26 As for Seth, to him also a son was born. He named him Enosh, and he hoped in the Lord God and called upon His name.
 ## Chapter 5
 
-GEN.5:1 This is the book of the genesis of mankind in the day God made Adam, whom He mad
+GEN.5:1 This is the book of the genesis of mankind in the day God made Adam, whom He made in God's image.
 GEN.5:2 He made them male and female, and blessed them; and the day He made them He called his name Adam.
 GEN.5:3 Now Adam lived two hundred and thirty years, and begot a son according to his form and image, and named him Seth.
 GEN.5:4 After he begot Seth, the days of Adam were seven hundred years; and he begot sons and daughters.
@@ -180,7 +180,7 @@ GEN.5:31 So all the days of Lamech were seven hundred and fifty-three years, and
 GEN.5:32 And Noah was five hundred years old, and he begot Shem, Ham, and Japheth.
 ## Chapter 6
 
-GEN.6:1 Now it came to pass that men began to exist in great numbers on the earth, and d
+GEN.6:1 Now it came to pass that men began to exist in great numbers on the earth, and daughters were born to them.
 GEN.6:2 So when the sons of God saw the daughters of men were beautiful, they took wives for themselves of all they chose.
 GEN.6:3 Then the Lord God said, 'My Spirit shall not remain with these people forever, for they are flesh. So their days shall be one hundred and twenty years.'
 GEN.6:4 Now there were giants on the earth in those days, and also afterward, when the sons of God came in to the daughters of men and they bore children to them. Those were the mighty men of old, men of renown.
@@ -249,7 +249,7 @@ GEN.8:10 Then he waited yet another seven days, and again he sent out the dove f
 GEN.8:11 The dove returned to him in the evening, and behold, a freshly plucked olive leaf was in her mouth; and Noah knew the waters had receded from the earth.
 GEN.8:12 So he waited yet another seven days and again sent out the dove; however, she did not return to him any more.
 GEN.8:13 And it came to pass in the six hundred and first year of Noah's life, in the first month, on the first day of the month, the waters were dried up from the earth; and Noah removed the covering of the ark and looked, and indeed, the surface of the ground was dry.
-GEN.8:14 Now in the second month, on the twentyseventh day of the month, the earth was dried.
+GEN.8:14 Now in the second month, on the twenty-seventh day of the month, the earth was dried.
 GEN.8:15 Then the Lord God spoke to Noah, saying,
 GEN.8:16 'Go out of the ark, you and your wife, and your sons and their wives with you.
 GEN.8:17 Also, bring out with you every living thing of all flesh: birds and cattle and every creeping thing that moves upon the earth, so they may abound on the earth, and increase and multiply on the earth.'
@@ -257,10 +257,10 @@ GEN.8:18 So Noah went out, along with his wife and his sons and their wives.
 GEN.8:19 Every animal, every bird, and every creeping thing that moves upon the earth, according to their kind, went out of the ark.
 GEN.8:20 Then Noah built an altar to God, and took of every clean animal and of every clean bird, and offered whole burnt offerings on the altar.
 GEN.8:21 So the Lord God smelled a sweet aroma. Then the Lord God thought it over and said, 'I will never again curse the earth because of man's works, although the mind of man is diligently involved with evil things from his youth; nor will I again destroy every living thing as I have done.
-GEN.8:22 While the earth remains, seedtime and harvest, cold and heat, summer and spring shall not cease by day or by night.'
+GEN.8:22 While the earth remains, seed-time and harvest, cold and heat, summer and spring shall not cease by day or by night.'
 ## Chapter 9
 
-GEN.9:1 Thus God blessed Noah and his sons, and said to them, 'Increase and multiply, an
+GEN.9:1 Thus God blessed Noah and his sons, and said to them, 'Increase and multiply, and fill the earth, and have dominion over it.
 GEN.9:2 For the dread and fear of you shall be upon all the wild animals of the earth, all the birds of heaven, all that move upon the earth, and all the fish of the sea. I have put them under your authority.
 GEN.9:3 Every moving thing that lives shall be food for you. I have given you all things, even as I did the green herbs.
 GEN.9:4 But you shall not eat flesh with its lifeblood.
@@ -377,7 +377,7 @@ GEN.11:31 Now Terah took his son Abram and his grandson Lot, the son of Haran, a
 GEN.11:32 So the days of Terah were two hundred and five years, and Terah died in Haran.
 ## Chapter 12
 
-GEN.12:1 Now the Lord said to Abram, 'Get out of your country, from your kindred and from
+GEN.12:1 Now the Lord said to Abram, 'Get out of your country, from your kindred and from your father's house, to a land I will show you.
 GEN.12:2 I will make you a great nation; I will bless you and make your name great; and you shall be a blessing.
 GEN.12:3 I will bless those who bless you, and curse those who curse you; and in you all the tribes of the earth shall be blessed.'
 GEN.12:4 Then Abram departed as the Lord said to him, and Lot went with him. Now Abram was seventy-five years old when he de-parted from Haran.
@@ -428,7 +428,7 @@ GEN.13:17 Arise, walk in the land through its length and its breadth, for I will
 GEN.13:18 Then Abram moved his tent, and went and dwelt by the oak of Mamre in Hebron, and built an altar there to the Lord.
 ## Chapter 14
 
-GEN.14:1 Now it came to pass in the reign of Amraphel king of Shinar, Arioch king of Ella
+GEN.14:1 Now it came to pass in the reign of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations,
 GEN.14:2 that they made war with Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboiim, and the king of Bela (that is, Zoar).
 GEN.14:3 All these joined together in the Valley of Siddim (that is, the Salt Sea).
 GEN.14:4 Twelve years they served Chedor- laomer, and in the thirteenth they rebelled.
@@ -456,10 +456,11 @@ GEN.14:22 But Abram said to the king of Sodom, 'I have raised my hand to God Mos
 
 ### God's Covenant with Abram
 
-GEN.14:23 that I will take nothing of yours, from a thread to a sandal strap, lest you should say, 'I have made Abram rich'24 except only what the young men have eaten, and the portion of the men with me: Aner, Eshcol, and Mamre; let them take their portion.'
+GEN.14:23 that I will take nothing of yours, from a thread to a sandal strap, lest you should say, 'I have made Abram rich'—
+GEN.14:24 except only what the young men have eaten, and the portion of the men with me: Aner, Eshcol, and Mamre; let them take their portion.'
 ## Chapter 15
 
-GEN.15:1 After these things the Word of the Lord came to Abram in a vision, saying, 'Do no
+GEN.15:1 After these things the Word of the Lord came to Abram in a vision, saying, 'Do not be afraid, Abram. I am your shield and will be your exceedingly great reward.'
 GEN.15:2 But Abram said, 'Lord, what will You give me, seeing I go childless, and the heir of my house is Eliezer of Damascus, the son of Masek, my domestic maidservant?'
 GEN.15:3 Then Abram said, 'Look, You have given me no offspring; indeed, my household servant is my heir.'
 GEN.15:4 And immediately the Voice of the Lord came to him, saying, 'This one shall not be your heir, but the One who will come from your own body shall be your heir.'
@@ -571,7 +572,7 @@ GEN.18:24 Suppose there were fifty righteous within the city; would You also des
 GEN.18:25 Far be it from You to do such a thing as this, to slay the righteous with the wicked, that the righteous should be as the wicked; far be it from You! Shall not the Judge of all the earth do right?'
 GEN.18:26 Then the Lord said, 'If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes.'
 GEN.18:27 So Abraham answered and said, 'Indeed now, I who am but dust and ashes have taken it upon myself to speak to the Lord:
-GEN.18:28 But suppose there were five less than the fifty righteous; would You destroy all of the city for lack of five?' He replied, 'If I find there fortyfive, I will not destroy it.'
+GEN.18:28 But suppose there were five less than the fifty righteous; would You destroy all of the city for lack of five?' He replied, 'If I find there forty-five, I will not destroy it.'
 GEN.18:29 Again he spoke to Him and said, 'But suppose there should be forty found there?' So He said, 'I would not destroy it for the sake of forty.'
 GEN.18:30 Then he said, 'Let not the Lord be offended, and I will speak: Suppose thirty should be found there?' So He said, 'I would not destroy it if I should find thirty there.'
 GEN.18:31 Again he said, 'Since I have permission to speak to the Lord, suppose twenty should be found there?' So He said, 'I would not destroy it for the sake of twenty.'
@@ -582,7 +583,7 @@ GEN.18:32 Then he said, 'Let not the Lord be offended, and I will speak but once
 GEN.18:33 So the Lord went His way as soon as He finished speaking with Abraham; and Abraham returned to his place.
 ## Chapter 19
 
-GEN.19:1 Now the two angels came to Sodom in the evening, and Lot was sitting in the gate
+GEN.19:1 Now the two angels came to Sodom in the evening, and Lot was sitting in the gate of Sodom. So when he saw them, he rose to meet them, and bowed with his face toward the ground.
 GEN.19:2 Then he said, 'Behold, my lords, turn in to your servant's house and rest and wash your feet; then you may rise early and go on your way.' But they said, 'No, but we will spend the night in the open square.'
 GEN.19:3 But he insisted strongly; so they turned in to him and entered his house. Then he made them a feast, and baked unleavened bread, and they ate.
 GEN.19:4 Now before they went to sleep, the men of the city, the Sodomites, both old and young, all the people from every quarter, surrounded the house.
@@ -595,7 +596,7 @@ GEN.19:10 But the men reached out their hands, pulled Lot into the house with th
 GEN.19:11 Then they struck the men at the doorway of the house with blindness, both small and great, and they became weary trying to find the door.
 GEN.19:12 Now the men said to Lot, 'Have you anyone else here in the city: sons-in-law, sons, daughters, or anyone? -then take them out of this place!
 GEN.19:13 For we will destroy this place, because their outcry has become great before the Lord, and the Lord sent us to destroy it.'
-GEN.19:14 So Lot went out and spoke to his sons-in-law, who had married his daughters, and said, 'Get up, get out of this place; for the Lord is about to wipe out this city!' But to his sons-inlaw he seemed to be joking.
+GEN.19:14 So Lot went out and spoke to his sons-in-law, who had married his daughters, and said, 'Get up, get out of this place; for the Lord is about to wipe out this city!' But to his sons-in-law he seemed to be joking.
 GEN.19:15 Now when the morning dawned, the angels urged Lot to hurry, saying, 'Arise, take your wife and the two daughters you have, and get out, lest you be destroyed with the transgressions of the city.'
 GEN.19:16 But they were thrown into confusion, and the Lord being merciful to him, the angels seized his hand, and the hands of his wife and two daughters, and brought them outside the city.
 GEN.19:17 So it came to pass, when they had brought them outside, they said, 'Escape for your life! Do not look behind you nor stay anywhere in the plain. Escape to the mountains, lest you be overtaken.'
@@ -669,7 +670,7 @@ GEN.21:12 But God said to Abraham, 'Do not let it be displeasing in your sight b
 GEN.21:13 Yet I will also make a great nation of the son of your maidservant, because he is your seed.'
 GEN.21:14 So Abraham rose early in the morning, and took bread and a skin of water; and putting it on her shoulder, he gave it and the boy to Hagar, and sent her away. Then she departed and wandered in the wilderness, near the Well of Oath.
 GEN.21:15 When the water in the skin was used up, she placed the boy under one of the shrubs.
-GEN.21:16 Then she went and sat down across from him at a distance of about a bowshot; for she said to herself, 'Let me not see the death of the boy.' So she sat opposite him, and lifted her voice and wept.
+GEN.21:16 Then she went and sat down across from him at a distance of about a bow-shot; for she said to herself, 'Let me not see the death of the boy.' So she sat opposite him, and lifted her voice and wept.
 GEN.21:17 But God heard the voice of the lad from the place where he was. Then the Angel of God called to Hagar out of heaven, and said to her, 'What is the matter, Hagar? Do not fear, for God has heard the voice of the lad where he is.
 GEN.21:18 Arise, lift up the lad and hold him with your hand, for I will make him a great nation.'
 GEN.21:19 Then God opened her eyes, and she saw a well of water. So she went and filled the skin with water, and gave the lad a drink.
@@ -847,7 +848,7 @@ GEN.25:13 These were the names of Ishmael's sons, by their names, according to t
 GEN.25:14 Mishma, Dumah, Massa,
 GEN.25:15 Hadar, Tema, Jetur, Naphish, and Kede-mah.
 GEN.25:16 These were the sons of Ishmael, and these were their names, by their towns and settlements, twelve princes according to their nations.
-GEN.25:17 These were the years of Ishmael's life: one hundred and thirtyseven years; and he breathed his last and died, and was added to his people.
+GEN.25:17 These were the years of Ishmael's life: one hundred and thirt-yseven years; and he breathed his last and died, and was added to his people.
 GEN.25:18 (He dwelt opposite Egypt, from Havilah as far as Shur, as you go toward Assyria, and dwelt separate from all his brothers.)
 GEN.25:19 Now this is the genealogy of Isaac, Abraham's son. Abraham begot Isaac.
 GEN.25:20 Isaac was forty years old when he took Rebekah as his wife, the daughter of Bethuel the Syrian of Mesopotamia, and the sister of Laban the Syrian.
@@ -872,7 +873,7 @@ GEN.25:32 Esau replied, 'Look, I am about to die. What good then is this birthri
 GEN.25:33 Then Jacob said, 'Swear to me today.' So he swore to him, and sold his birthright to Jacob.
 ## Chapter 26
 
-GEN.26:1 Now there was a famine in the land, besides the first famine in the days of Abrah
+GEN.26:1 Now there was a famine in the land, besides the first famine in the days of Abraham; and Isaac went to Abimelech, king of the Philistines, in Gerar.
 GEN.26:2 Then the Lord appeared to him and said, 'Do not go down to Egypt; live in the land where I will tell you.
 GEN.26:3 Sojourn in this land, and I will be with you and bless you; for to you and your seed I give all these lands; and I will perform the oath I swore to Abraham your father.
 GEN.26:4 And I will make your seed multiply as the stars of heaven; I will give your seed all these lands; and in your seed all the nations of the earth shall be blessed;
@@ -912,7 +913,7 @@ GEN.26:34 Now when Esau was forty years old, he took as wives Judith the daughte
 GEN.26:35 But they were contentious with Isaac and Rebekah.
 ## Chapter 27
 
-GEN.27:1 Now it came to pass, when Isaac was old and his eyes were so dim he could not se
+GEN.27:1 Now it came to pass, when Isaac was old and his eyes were so dim he could not see, that he called Esau his older son and said to him, 'My son.' And he answered him, 'Here I am.'
 GEN.27:2 Then he said, 'Behold now, I am old. I do not know the day of my death.
 GEN.27:3 Now therefore, take your weapons, your quiver and your bow, and go out to the field and hunt game for me.
 GEN.27:4 Then make me savory food, such as I love, and bring it to me that I may eat, that my soul may bless you before I die.'
@@ -1090,7 +1091,7 @@ GEN.30:42 But whenever the sheep had already given birth, he did not put them in
 GEN.30:43 So the man became exceedingly rich, and had many cattle and oxen, male and female servants, and camels and donkeys.
 ## Chapter 31
 
-GEN.31:1 Now Jacob heard the words of Laban's sons, saying, 'Jacob has taken away all that
+GEN.31:1 Now Jacob heard the words of Laban's sons, saying, 'Jacob has taken away all that was our father's, and from our father's property he acquired all this wealth.'
 GEN.31:2 So Jacob saw Laban's countenance, and indeed, it was not favorable toward him as before.
 GEN.31:3 Then the Lord said to Jacob, 'Return to your father's land and to your family, and I will be with you.'
 GEN.31:4 So Jacob sent and called Rachel and Leah to the field where the flocks were,
@@ -1099,7 +1100,7 @@ GEN.31:6 Now you know that with all my might I served your father.
 GEN.31:7 Yet your father deceived me and changed my wages ten times with respect to the male lambs, but God did not allow him to harm me.
 GEN.31:8 If he said thus, 'The speckled shall be your wages,' then all the flocks bore speckled. But if he said thus, 'The white shall be your wages,' then all the sheep bore white.
 GEN.31:9 So God has taken away all your father's cattle and given them to me.
-GEN.31:10 Now it came to pass, when the flocks conceived, I lifted my eyes and saw in a dream, and behold, the male goats and the rams that were speckled, spotted, and ashcolored speckled were mating with the sheep and the goats.
+GEN.31:10 Now it came to pass, when the flocks conceived, I lifted my eyes and saw in a dream, and behold, the male goats and the rams that were speckled, spotted, and ash-colored speckled were mating with the sheep and the goats.
 GEN.31:11 Then the Angel of God spoke to me in a dream, saying, 'Jacob.' Thus I said, 'Here I am.'
 GEN.31:12 So He said, 'Lift your eyes now and see, all the male goats and the rams mating with the sheep and the goats are speckled, spotted, and ash-colored speckled; for I have seen everything Laban is doing to you.
 GEN.31:13 I am the God who appeared to you at Bethel, where you anointed the pillar and made a vow to Me. Now then, arise, get out of this land, and return to the land of your nativity, and I will be with you.' '
@@ -1195,7 +1196,7 @@ GEN.32:31 When the Form of God passed by, the sun rose on him, but he limped on 
 GEN.32:32 Therefore to this day, the children of Israel do not eat the muscle that shrank, which is on the hip socket, because He touched the socket of Jacob's hip, in the muscle that shrank.
 ## Chapter 33
 
-GEN.33:1 Now Jacob lifted his eyes and looked, and behold, Esau his brother was coming, a
+GEN.33:1 Now Jacob lifted his eyes and looked, and behold, Esau his brother was coming, and four hundred men with him. So Jacob divided the children among Leah, Rachel, and the two maidservants.
 GEN.33:2 Then he put the maidservants and their sons in front, Leah and her children behind, and Rachel and Joseph last.
 GEN.33:3 He then crossed over before them and bowed himself to the ground seven times, until he came near to his brother.
 GEN.33:4 But Esau ran to meet him, embraced him, and fell on his neck and kissed him; and they wept.
@@ -1391,7 +1392,7 @@ GEN.37:35 Thus all his sons and daughters arose to comfort him; but he refused t
 GEN.37:36 Now the Midianites had sold him in Egypt to Potiphar, an officer of Pharaoh and captain of the guard.
 ## Chapter 38
 
-GEN.38:1 It came to pass at that time that Judah departed from his brothers, and visited 
+GEN.38:1 It came to pass at that time that Judah departed from his brothers, and visited a certain Adullamite whose name was Hirah.
 GEN.38:2 Then Judah saw there a daughter of a certain Canaanite whose name was Shua, and he married her and went in to her.
 GEN.38:3 So she conceived and bore a son, and called his name Er.
 GEN.38:4 She conceived again and bore a son, and called his name Onan.
@@ -1455,31 +1456,31 @@ GEN.39:23 The chief keeper of the prison did not look into anything under Joseph
 ## Chapter 40
 
 GEN.40:1 Now it came to pass after these things, that the king of Egypt's chief cupbearer.
-GEN.40:2 So Pharaoh was angry with his two eunuchs, the chief cupbearer and the chief baker.
+GEN.40:2 So Pharaoh was angry with his two eunuchs, the chief cup-bearer and the chief baker.
 GEN.40:3 Thus he put them in custody with the chief bodyguard in the prison, the place where Joseph was confined.
 GEN.40:4 Then the chief jailer committed them to Joseph, and he attended them; so they were in custody for a while.
-GEN.40:5 Then the king of Egypt's chief cupbearer and the chief baker, who were confined in the prison, had a dream, both of them, each man's dream in one night and each man's dream with its own interpretation.
+GEN.40:5 Then the king of Egypt's chief cup-bearer and the chief baker, who were confined in the prison, had a dream, both of them, each man's dream in one night and each man's dream with its own interpretation.
 GEN.40:6 So Joseph came in to them in the morning and looked at them, and saw they were troubled.
 GEN.40:7 Thus he asked Pharaoh's eunuchs, who were with him in the custody of his lord, saying, 'Why do you look so sad today?'
 GEN.40:8 So they said to him, 'We each had a dream, and there is no one to interpret it.' Then Joseph said to them, 'Do not interpretations belong to God? Therefore, relate them to me.'
-GEN.40:9 Then the chief cupbearer related his dream to Joseph, and said to him, 'Behold, in my dream a vine was before me,
+GEN.40:9 Then the chief cup-bearer related his dream to Joseph, and said to him, 'Behold, in my dream a vine was before me,
 GEN.40:10 and in the vine were three branches; it was as though it budded, its blossoms shot forth, and its clusters brought forth ripe grapes.
 GEN.40:11 Then Pharaoh's cup was in my hand; and I took the grapes and pressed them into Pharaoh's cup, and placed the cup in Pharaoh's hand.'
 GEN.40:12 And Joseph said to him, 'This is the interpretation of it: The three branches are three days.
-GEN.40:13 Now within three days Pharaoh will remember your position and restore your office of chief cupbearer; and you will put Pharaoh's cup in his hand according to the former manner, when you were his cupbearer.
+GEN.40:13 Now within three days Pharaoh will remember your position and restore your office of chief cup-bearer; and you will put Pharaoh's cup in his hand according to the former manner, when you were his cup-bearer.
 GEN.40:14 But remember me when it is well with you, and have mercy on me; make mention of me to Pharaoh, and get me out of this prison.
 GEN.40:15 For indeed I was stolen away from the land of the Hebrews; and I also have done nothing for them to put me into the dungeon.'
 GEN.40:16 When the chief baker saw the interpretation was good, he said to Joseph, 'I also had a dream, and there were three white baskets on my head.
 GEN.40:17 In the uppermost basket were all kinds of baked goods for Pharaoh, and the birds ate them out of the basket on my head.'
 GEN.40:18 So Joseph answered and said, 'This is the interpretation of it: The three baskets are three days.
 GEN.40:19 Within three days Pharaoh will lift off your head from you and hang you on a tree; and the birds will eat your flesh from you.'
-GEN.40:20 Now it came to pass on the third day, which was Pharaoh's birthday, that he made a feast for all his servants; and he remembered the positions of his chief cupbearer and chief baker among his servants.
-GEN.40:21 Then he restored the chief cupbearer to his position, and he placed the cup in Pharaoh's hand.
+GEN.40:20 Now it came to pass on the third day, which was Pharaoh's birthday, that he made a feast for all his servants; and he remembered the positions of his chief cup-bearer and chief baker among his servants.
+GEN.40:21 Then he restored the chief cup-bearer to his position, and he placed the cup in Pharaoh's hand.
 GEN.40:22 But he hanged the chief baker, as Joseph had interpreted to them.
 
 ### Joseph Interprets the Dreams of Pharaoh
 
-GEN.40:23 Yet the chief cupbearer did not remember Joseph, but forgot him.
+GEN.40:23 Yet the chief cup-bearer did not remember Joseph, but forgot him.
 ## Chapter 41
 
 GEN.41:1 Then it came to pass, at the end of two full years, that Pharaoh had a dream; and behold, he stood by the river.
@@ -1490,7 +1491,7 @@ GEN.41:5 He slept and dreamed a second time; and suddenly seven ears of corn cam
 GEN.41:6 Then behold, seven ears of corn, thin and blighted by the east wind, sprang up after them.
 GEN.41:7 But the seven thin ears of corn devoured the seven plump and full ears. So Pharaoh awoke, and indeed, it was a dream.
 GEN.41:8 Now it came to pass in the morning that his spirit was troubled, and he sent and called for all the interpreters of Egypt and all its wise men. Thus Pharaoh told them his dreams, but there was no one who could interpret them for Pharaoh.
-GEN.41:9 Then the cupbearer spoke to Pharaoh, saying, 'I remember my sin this day.
+GEN.41:9 Then the cup-bearer spoke to Pharaoh, saying, 'I remember my sin this day.
 GEN.41:10 When Pharaoh was angry with his servants, and put me in custody in the house of the chief bodyguard, both myself and the chief baker,
 GEN.41:11 we each had a dream in one night, both he and I. Each had a dream regarding himself.
 GEN.41:12 Now there was with us a young Hebrew servant of the chief bodyguard, and we related our dreams to him; and he interpreted them for us.
@@ -1632,7 +1633,7 @@ GEN.43:33 Now they sat before him, the firstborn according to his birthright and
 GEN.43:34 Then he took servings to them from before him, but Benjamin's serving was five times as much as any of theirs. So they drank and were merry with him.
 ## Chapter 44
 
-GEN.44:1 Now Joseph commanded the steward of his house, saying, 'Fill the men's sacks with
+GEN.44:1 Now Joseph commanded the steward of his house, saying, 'Fill the men's sacks with food, as much as they can carry, and put each man's money in the mouth of his sack.
 GEN.44:2 Also put my cup, the silver cup, in the mouth of the sack of the youngest, and his grain money.' So he did according to the word Joseph had spoken.
 GEN.44:3 As soon as the morning dawned, the men were sent away, they and their donkeys.
 GEN.44:4 When they had gone out of the city, and were not yet far off, Joseph said to his steward, 'Get up, follow the men; and when you overtake them, say to them, 'Why have you repaid evil for good?
@@ -1674,7 +1675,7 @@ GEN.44:33 Now therefore, let your servant remain instead of the lad as a servant
 GEN.44:34 For how shall I go up to my father if the lad is not with me, lest perhaps I see the evil that would come upon my father?'
 ## Chapter 45
 
-GEN.45:1 Now Joseph could not restrain himself before all those who stood by him, and he 
+GEN.45:1 Now Joseph could not restrain himself before all those who stood by him, and he cried out, 'Make everyone go out from me!' So no one stood with him while Joseph made himself known to his brothers.
 GEN.45:2 Then he wept aloud, and the Egyptians and the house of Pharaoh heard it.
 GEN.45:3 Joseph then said to his brothers, 'I am Joseph; does my father still live?' But his brothers could not answer him, for they were stunned in his presence.
 GEN.45:4 But Joseph said to his brothers, 'Come near to me.' So they came near. Then he said, 'I am Joseph your brother, whom you sold into Egypt.
@@ -1788,7 +1789,7 @@ GEN.47:30 but let me lie with my fathers; you shall carry me out of Egypt and bu
 GEN.47:31 Then he said, 'Swear to me.' And he swore to him. So Israel bowed himself on the top of his staff.
 ## Chapter 48
 
-GEN.48:1 Now it came to pass after these things that Joseph was told, 'Indeed your father
+GEN.48:1 Now it came to pass after these things that Joseph was told, 'Indeed your father is sick'; and he took with him his two sons, Manasseh and Ephraim, and went to Jacob.
 GEN.48:2 Thus Jacob was told, 'Look, your son Joseph is coming to you'; and Israel strengthened himself and sat up on the bed.
 GEN.48:3 Then Jacob said to Joseph, 'My God appeared to me at Luz in the land of Canaan and blessed me
 GEN.48:4 and said to me, 'Behold, I will increase and multiply you; and I will make of you a gathering of nations, and give this land to your seed after you as an everlasting possession.'
@@ -1815,7 +1816,8 @@ GEN.48:21 Then Israel said to Joseph, 'Behold, I am about to die, but God will b
 GEN.48:22 Moreover I have given to you one portion above your brothers; I am giving you Shechem, which I took from the hand of the Amorites with my sword and bow.'
 ## Chapter 49
 
-GEN.49:1 Now Jacob called his sons and said, 'Gather together, that I may tell you what s
+GEN.49:1 Now Jacob called his sons and said, 'Gather together, that I may tell you what shall befall you in the last days:
+GEN.49:2 And listen to Israel your father.
 GEN.49:3 'Reuben, you are my firstborn, My might and the beginning of my children; You are hard to bear; You are hardened in your self-will.
 GEN.49:4 Unstable as water in your insolence, You went up to your father's bed; Then you defiled it.
 GEN.49:5 'Simeon and Levi are brothers; They accomplished their injustice from their free choice.

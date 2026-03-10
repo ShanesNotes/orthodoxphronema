@@ -1,0 +1,15 @@
+{
+  "book_code": "1KI",
+  "registry_version": "1.2.3",
+  "ratified_by": null,
+  "ratified_date": null,
+  "residuals": [],
+  "resolved": [
+    {
+      "anchor": "1KI.22:46-50",
+      "classification": "docling_issue",
+      "description": "Tail-end verses of final chapter absent from Docling extraction. (Fixed: recovered by fixing chapter 21/22 boundary and renumbering)",
+      "resolved_date": "2026-03-10"
+    }
+  ]
+}

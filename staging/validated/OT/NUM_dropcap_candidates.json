@@ -1,0 +1,343 @@
+{
+  "book_code": "NUM",
+  "total_candidates": 33,
+  "confirmed_auto": 33,
+  "ambiguous_human": 0,
+  "rejected": 0,
+  "ratified": true,
+  "ratified_by": "ark",
+  "ratified_date": "2026-03-08",
+  "ratification_note": "All 33 candidates are clear drop-cap first-letter restorations (N\u2192Now, T\u2192Then, A\u2192Again). 26 auto-confirmed by Brenton, 7 ambiguous only because Brenton uses 'And' where OSB uses 'Now/Then' \u2014 repairs are obvious.",
+  "candidates": [
+    {
+      "anchor": "NUM.1:1",
+      "residual": "ow the Lord spoke to Moses in the Wilderness of Sinai in the",
+      "proposed_repair": "Now the Lord spoke to Moses in the Wilderness of Sinai in the tabernacle of test",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses in the wilderness of Sina, in the tabernacle of witn",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.2:1",
+      "residual": "ow the Lord spoke to Moses and Aaron, saying,",
+      "proposed_repair": "Now the Lord spoke to Moses and Aaron, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses and Aaron, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.3:1",
+      "residual": "ow these are the genealogies of Aaron and Moses when the Lor",
+      "proposed_repair": "Now these are the genealogies of Aaron and Moses when the Lord spoke with Moses ",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7368,
+      "brenton_verse": "And these are the generations of Aaron and Moses, in the day in which the Lord s",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.4:1",
+      "residual": "hen the Lord spoke to Moses and Aaron, saying,",
+      "proposed_repair": "Then the Lord spoke to Moses and Aaron, saying,",
+      "missing_prefix": "Then ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7556,
+      "brenton_verse": "And the Lord spoke to Moses and Aaron, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.5:1",
+      "residual": "ow the Lord spoke to Moses, saying,",
+      "proposed_repair": "Now the Lord spoke to Moses, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.6:1",
+      "residual": "ow the Lord spoke to Moses, saying,",
+      "proposed_repair": "Now the Lord spoke to Moses, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.7:1",
+      "residual": "ow it came to pass, on the day Moses finished setting up the",
+      "proposed_repair": "Now it came to pass, on the day Moses finished setting up the tabernacle, he ano",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8108,
+      "brenton_verse": "And it came to pass in the day in which Moses finished the setting-up of the tab",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.8:1",
+      "residual": "ow the Lord spoke to Moses, saying,",
+      "proposed_repair": "Now the Lord spoke to Moses, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.9:1",
+      "residual": "ow the Lord spoke to Moses in the Sinai Desert, in the first",
+      "proposed_repair": "Now the Lord spoke to Moses in the Sinai Desert, in the first month of the secon",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses in the wilderness of Sina in the second year after t",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.10:1",
+      "residual": "ow the Lord spoke to Moses, saying,",
+      "proposed_repair": "Now the Lord spoke to Moses, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.11:1",
+      "residual": "ow the people were grumbling evilly before the Lord, and the",
+      "proposed_repair": "Now the people were grumbling evilly before the Lord, and the Lord heard them an",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.5,
+      "brenton_verse": "And the people murmured sinfully before the Lord; and the Lord heard them and wa",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.12:1",
+      "residual": "ow Miriam and Aaron spoke against Moses because of the Ethio",
+      "proposed_repair": "Now Miriam and Aaron spoke against Moses because of the Ethiopian woman whom he ",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.75,
+      "brenton_verse": "And Mariam and Aaron spoke against Moses, because of the Ethiopian woman whom Mo",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.13:1",
+      "residual": "ow the Lord spoke to Moses, saying,",
+      "proposed_repair": "Now the Lord spoke to Moses, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.14:1",
+      "residual": "ow all the congregation lifted up their voices and cried, an",
+      "proposed_repair": "Now all the congregation lifted up their voices and cried, and the people wept t",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8852,
+      "brenton_verse": "And all the congregation lifted up their voice and cried; and the people wept al",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.15:1",
+      "residual": "ow the Lord spoke to Moses, saying,",
+      "proposed_repair": "Now the Lord spoke to Moses, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.16:1",
+      "residual": "ow Korah the son of Izhar, the son of Kohath, the son of Lev",
+      "proposed_repair": "Now Korah the son of Izhar, the son of Kohath, the son of Levi, and Dathan and A",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.6341,
+      "brenton_verse": "And Core the son of Isaar the son of Caath the son of Levi, and Dathan and Abiro",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.17:1",
+      "residual": "ow the Lord spoke to Moses",
+      "proposed_repair": "Now the Lord spoke to Moses",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.6047,
+      "brenton_verse": "And the Lord said to Moses,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.18:1",
+      "residual": "ow the Lord spoke to Aaron, saying, 'You and your sons and y",
+      "proposed_repair": "Now the Lord spoke to Aaron, saying, 'You and your sons and your father'shouse w",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Aaron, saying, Thou and thy sons and thy father's house sh",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.19:1",
+      "residual": "ow the Lord spoke to Moses and Aaron, saying,",
+      "proposed_repair": "Now the Lord spoke to Moses and Aaron, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses and Aaron, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.20:1",
+      "residual": "ow the children of Israel, the whole congregation, came into",
+      "proposed_repair": "Now the children of Israel, the whole congregation, came into the Desert of Sin ",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8302,
+      "brenton_verse": "And the children of Israel, even the whole congregation, came into the wildernes",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.21:1",
+      "residual": "ow the Canaanite king of Arad, who was dwelling in the deser",
+      "proposed_repair": "Now the Canaanite king of Arad, who was dwelling in the desert, heard the news-f",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7037,
+      "brenton_verse": "And Arad the Chananitish king who dwelt by the wilderness, heard that Israel cam",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.22:1",
+      "residual": "ow the children of Israel broke camp and camped west of Moab",
+      "proposed_repair": "Now the children of Israel broke camp and camped west of Moab, by the Jordan acr",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7719,
+      "brenton_verse": "And the children of Israel departed, and encamped on the west of Moab by Jordan ",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.23:1",
+      "residual": "ow Balaam said to Balak, 'Build seven altars for me here, an",
+      "proposed_repair": "Now Balaam said to Balak, 'Build seven altars for me here, and prepare for me he",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.76,
+      "brenton_verse": "And Balaam said to Balac, Build me here seven altars, and prepare me here seven ",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.26:1",
+      "residual": "ow it came to pass after the plague that the Lord spoke to M",
+      "proposed_repair": "Now it came to pass after the plague that the Lord spoke to Moses and Eleazar, t",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.75,
+      "brenton_verse": "And it came to pass after the plague, that the Lord spoke to Moses and Eleazar t",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.27:1",
+      "residual": "ow came the daughters of Zelophehad the son of Hepher, the s",
+      "proposed_repair": "Now came the daughters of Zelophehad the son of Hepher, the son of Gilead, the s",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.6038,
+      "brenton_verse": "And the daughters of Salpaad the son of Opher, the son of Galaad, the son of Mac",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.28:1",
+      "residual": "ow the Lord spoke to Moses, saying,",
+      "proposed_repair": "Now the Lord spoke to Moses, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.30:1",
+      "residual": "ow Moses told the children of Israel everything, as the Lord",
+      "proposed_repair": "Now Moses told the children of Israel everything, as the Lord commanded Moses.",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7778,
+      "brenton_verse": "And Moses spoke to the children of Israel according to all that the Lord command",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.31:1",
+      "residual": "ow the Lord spoke to Moses, saying,",
+      "proposed_repair": "Now the Lord spoke to Moses, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.32:1",
+      "residual": "ow the sons of Reuben and the sons of Gad had a very great m",
+      "proposed_repair": "Now the sons of Reuben and the sons of Gad had a very great multitude of cattle,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.5957,
+      "brenton_verse": "And the children of Ruben and the children of Gad had a multitude of cattle, ver",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.33:1",
+      "residual": "ow these are the stages in the journeys of the children of I",
+      "proposed_repair": "Now these are the stages in the journeys of the children of Israel who went out ",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.8511,
+      "brenton_verse": "And these are the stages of the children of Israel, as they went out from the la",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.34:1",
+      "residual": "ow the Lord spoke to Moses, saying,",
+      "proposed_repair": "Now the Lord spoke to Moses, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.35:1",
+      "residual": "ow the Lord spoke to Moses west of Moab by the Jordan opposi",
+      "proposed_repair": "Now the Lord spoke to Moses west of Moab by the Jordan opposite Jericho, saying,",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.7727,
+      "brenton_verse": "And the Lord spoke to Moses to the west of Moab by Jordan near Jericho, saying,",
+      "source": "brenton"
+    },
+    {
+      "anchor": "NUM.36:1",
+      "residual": "ow the rulers from the tribe of the sons of Gilead, the son ",
+      "proposed_repair": "Now the rulers from the tribe of the sons of Gilead, the son of Machir, the son ",
+      "missing_prefix": "Now ",
+      "classification": "confirmed_auto",
+      "prefix_score": 0.3556,
+      "brenton_verse": "And the heads of the tribe of the sons of Galaad the son of Machir the son of Ma",
+      "source": "brenton"
+    }
+  ]
+}

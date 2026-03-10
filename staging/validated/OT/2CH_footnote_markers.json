@@ -1,0 +1,28 @@
+{
+  "book_code": "2CH",
+  "reindex_date": "2026-03-10",
+  "marker_count": 3,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "2CH.6:2",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "2CH.6:2",
+      "marker_index_in_verse": 2,
+      "marker_seq_book": 2,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "†",
+      "anchor": "2CH.7:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "reindexed_from_md"
+    }
+  ]
+}

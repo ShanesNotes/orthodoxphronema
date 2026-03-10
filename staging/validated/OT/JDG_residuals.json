@@ -1,0 +1,16 @@
+{
+  "book_code": "JDG",
+  "registry_version": "1.2.3",
+  "ratified_by": null,
+  "ratified_date": null,
+  "residuals": [
+    {
+      "anchor": "JDG.11:40",
+      "classification": "osb_source_absent",
+      "description": "LXX shorter text for Judges 11: OSB follows LXX versification (39 verses), MT has 40. Verse 40 content exists in OSB verse 39.",
+      "blocking": false,
+      "ratified": true
+    }
+  ],
+  "resolved": []
+}
