@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-10",
+  "generated": "2026-03-11",
   "registry_version": "1.3.0",
   "status_ladder": [
     "extracting",
@@ -10,9 +10,9 @@
   ],
   "counts_by_status": {
     "promoted": 45,
-    "extracting": 28,
-    "editorially_clean": 2,
-    "structurally_passable": 1
+    "editorially_clean": 4,
+    "extracting": 26,
+    "promotion_ready": 1
   },
   "books": [
     {
@@ -24,11 +24,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "93854d9479053d67b26658d26215ecdae9591d9e59c3c40aaf277fb848e22e4e",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "93854d9479053d67b26658d26215ecdae9591d9e59c3c40aaf277fb848e22e4e"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "509dff11fa9383132729f5f71505a3f4d21798da2baa61e1b816c417ec24d0a2"
       },
       "validation": {
         "V1": "PASS",
@@ -110,11 +110,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "22f0ddd262b2081fd9921210a4e466990866416b506ba8de103baf1e6bb95317",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "22f0ddd262b2081fd9921210a4e466990866416b506ba8de103baf1e6bb95317"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "afc4ce998babbe6a2ff6520735a209ec0e6eca7fc1e9a2685ebd3883b1e7ba1b"
       },
       "validation": {
         "V1": "PASS",
@@ -153,11 +153,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "8007d940b0c24e32144a3b993e5d16eb9dff9c1f8acc0f5647ef50313cfb6b5b",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "8007d940b0c24e32144a3b993e5d16eb9dff9c1f8acc0f5647ef50313cfb6b5b"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "0dcfbeef5cedee36d2533eaff4d437bb9cf58ecc6e18299457a3bd92f92de76e"
       },
       "validation": {
         "V1": "PASS",
@@ -196,11 +196,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "a23e59abe917e4ac1416776fedb0483a3448947389ce16f8255b82ddd51355bd",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "a23e59abe917e4ac1416776fedb0483a3448947389ce16f8255b82ddd51355bd"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "dabf983c9a1e2718b2c39efcf5d1e78dfd7749e63fc42cdc24d7e0719078f2d4"
       },
       "validation": {
         "V1": "PASS",
@@ -282,11 +282,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "c66738703d9cf187735f4ccfef753623e653ab5f9348318f8a383ff6f22b746f",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "c66738703d9cf187735f4ccfef753623e653ab5f9348318f8a383ff6f22b746f"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "8cc53f1ae2e142eb2dd1aa3a1e487e72134f9226311ad3fbaef7a0112eacfe90"
       },
       "validation": {
         "V1": "PASS",
@@ -368,11 +368,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "e5594b968882bd6f6ba1a3ad8c23da4295dcc6643e3629e3116119ffd25ec75b",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "e5594b968882bd6f6ba1a3ad8c23da4295dcc6643e3629e3116119ffd25ec75b"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "b6dbb3814ed00f4c00e093c9c8a492a83ded0db18f22fdc627603e7d7b979dae"
       },
       "validation": {
         "V1": "PASS",
@@ -411,11 +411,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "f8cf321153f6b4905ce6f61c01a9a4aeb8c705e04d8c0f6a0aaaa25aec5dfa03",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "f8cf321153f6b4905ce6f61c01a9a4aeb8c705e04d8c0f6a0aaaa25aec5dfa03"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "4c399506ce03f131112489f0510fea4041f6d22da5325a912de6fe747ae9018f"
       },
       "validation": {
         "V1": "PASS",
@@ -454,11 +454,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "bdfd39bc6d96c63391f6e07e1f4199453fd37fc3766281f3b4bd373cb8074c0f",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "bdfd39bc6d96c63391f6e07e1f4199453fd37fc3766281f3b4bd373cb8074c0f"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "e05664c69f5fea2ad08fffb725f5c9b2ef4e6676cbc4ddb9e2d49861a00e99fa"
       },
       "validation": {
         "V1": "PASS",
@@ -540,11 +540,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "da0bca87fa232cca91aa54c0b50ab47fe80fa98734e62de628697361c30aa4e0",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "da0bca87fa232cca91aa54c0b50ab47fe80fa98734e62de628697361c30aa4e0"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "d8cc500cdacdfba261ccaeaa20da10c3a97f805ddeb9ddbfb1e1be32f5db4210"
       },
       "validation": {
         "V1": "PASS",
@@ -583,11 +583,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "9b2e1344b733a2ecfe6d56832a6d1412a1fed1035940134cab3ac03f4ce0a86e",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "9b2e1344b733a2ecfe6d56832a6d1412a1fed1035940134cab3ac03f4ce0a86e"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "c14aed04a661df5b6bb940987f5e541d6a6dbda0e0d30c6cb39a4d997607fc8d"
       },
       "validation": {
         "V1": "PASS",
@@ -626,11 +626,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "39043a44883839ae9dc5ed2a9f87fa8aedf5b86b605bf9650eba6aaba9fb1802",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "39043a44883839ae9dc5ed2a9f87fa8aedf5b86b605bf9650eba6aaba9fb1802"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "51898ad0913fc7d562cc526800f8cb9fbe997b6909e224008067d9b83b8a7224"
       },
       "validation": {
         "V1": "PASS",
@@ -669,11 +669,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "8b32905e73be14a3c7c74c0433b1f08269a7e3753bd38ff7dd45d863d070fa8e",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "8b32905e73be14a3c7c74c0433b1f08269a7e3753bd38ff7dd45d863d070fa8e"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "6e8d70a019af7722c834995d1a0049a47827c6428e5f670ff29214b2c8a25611"
       },
       "validation": {
         "V1": "PASS",
@@ -755,11 +755,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "bbb7e18a5d3c13acba910be45f96d1889b3f2892971c4588c3e364bf4cb67fd7",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "bbb7e18a5d3c13acba910be45f96d1889b3f2892971c4588c3e364bf4cb67fd7"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "861f186adf15d54a6774646cccb6edcc8bcf59b44bcc34304ff2e27765964ba0"
       },
       "validation": {
         "V1": "PASS",
@@ -841,11 +841,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "c4ec58789e4efc89caf4172e4b2ff4a3e591cdb706f0ae9b0bab28437f85d088",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "c4ec58789e4efc89caf4172e4b2ff4a3e591cdb706f0ae9b0bab28437f85d088"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "ac833a7b717ad989bd44e3006c4c027a0efc7baf41f8c0e73d69f04cec180b94"
       },
       "validation": {
         "V1": "PASS",
@@ -884,11 +884,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "5478babaca22ea651d9f85ff4099697712316fa8d8741474651f06cda2b7c7f6",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "5478babaca22ea651d9f85ff4099697712316fa8d8741474651f06cda2b7c7f6"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "961f64d10f4e2332b7f92b1f14c5aa8c05faa032ae398e1317136b08689edf68"
       },
       "validation": {
         "V1": "PASS",
@@ -970,11 +970,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "22155a3cbf06bde0eaf8ec6840f3948d73ee7d4c4d0bc2be6b6dbfeb3061df86",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "22155a3cbf06bde0eaf8ec6840f3948d73ee7d4c4d0bc2be6b6dbfeb3061df86"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "3a342b994113205f19aba570e5a55157776bf5dcf682db6372ac10ce54b04c02"
       },
       "validation": {
         "V1": "PASS",
@@ -1007,28 +1007,30 @@
     {
       "book_code": "PSA",
       "testament": "OT",
-      "status": "extracting",
+      "status": "editorially_clean",
       "status_reasons": [
-        "no promotion dossier"
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "live V4 warning still present"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "6c8a49c6642ece3dbc415c783c0b538d5d004c19646237264e2c887bb0ed3a41",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "9b3542d00a4f2d2c43b6d153246785f7dd0effb24e7fb4e0d0c7e858886b0e32"
+        "staged_body_checksum": "6c8a49c6642ece3dbc415c783c0b538d5d004c19646237264e2c887bb0ed3a41"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -1057,12 +1059,12 @@
         "residual exceptions are not yet human-ratified"
       ],
       "decision": "dry-run",
-      "body_checksum": "ce4cfb636196992e26984e0f97d10981103b26a57826e115767e9584b3d215c6",
+      "body_checksum": "2e1d366521bcb9ba279bccb0161472e9ed74454d1486103c1e7efef8b0dcb962",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "ce4cfb636196992e26984e0f97d10981103b26a57826e115767e9584b3d215c6"
+        "staged_body_checksum": "2e1d366521bcb9ba279bccb0161472e9ed74454d1486103c1e7efef8b0dcb962"
       },
       "validation": {
         "V1": "PASS",
@@ -1071,7 +1073,7 @@
         "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "WARN",
+        "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
         "V11": "MISSING",
@@ -1101,11 +1103,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "63fb35d8e0efee815c5de6dbf6f32d8e7b3056987c29bf488dda9a52721e287a",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "63fb35d8e0efee815c5de6dbf6f32d8e7b3056987c29bf488dda9a52721e287a"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "6ab8ef3619c5ede3ded259474f03f1a6c6459f8f07440be3635035f7747df79c"
       },
       "validation": {
         "V1": "PASS",
@@ -1181,18 +1183,19 @@
     {
       "book_code": "JOB",
       "testament": "OT",
-      "status": "structurally_passable",
+      "status": "editorially_clean",
       "status_reasons": [
         "validation is structurally passable",
-        "4 editorial candidate(s) remain: chapter_open_dropcap=4"
+        "editorial candidates clear",
+        "live V4 warning still present"
       ],
-      "decision": "dry-run",
-      "body_checksum": "324329970072be29b25de2869375d29d30c7256b36339338844b620f89fd2121",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "5203187100fe15f262ff6e6de22c49dca8351d9de1f5bf84a8a3d87b2185c271",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
-        "staged_body_checksum": "320b71d68d1d58dea06704684b621238d02ba1844560e5abc5ff20bf7dfacf1d"
+        "status": "FRESH",
+        "refresh_priority": "none",
+        "staged_body_checksum": "5203187100fe15f262ff6e6de22c49dca8351d9de1f5bf84a8a3d87b2185c271"
       },
       "validation": {
         "V1": "PASS",
@@ -1208,9 +1211,9 @@
         "V12": "MISSING"
       },
       "editorial": {
-        "total_candidates": 4,
+        "total_candidates": 0,
         "by_category": {
-          "chapter_open_dropcap": 4
+          "chapter_open_dropcap": 0
         }
       },
       "residuals": {
@@ -1232,12 +1235,12 @@
         "canon artifact exists"
       ],
       "decision": "dry-run",
-      "body_checksum": "975c783d4957265160881bb8a27bad69a64f1b4ef17e9b26c6adeff96915306e",
-      "staged_matches_dossier": true,
+      "body_checksum": "2e930a40dec7e22737b4f665a95e3de7aed6900e2fddc34799d7096f83295f96",
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "975c783d4957265160881bb8a27bad69a64f1b4ef17e9b26c6adeff96915306e"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "a3f8eeabb628ced9fa71efddad32c948b1a10922273b4227469d93f3a22b2c05"
       },
       "validation": {
         "V1": "PASS",
@@ -1279,12 +1282,12 @@
         "residual exceptions are not yet human-ratified"
       ],
       "decision": "dry-run",
-      "body_checksum": "41e3237d0727b99b01c9287cffae48b75a72d92cfa3c575ea3b7253cf7567637",
+      "body_checksum": "cd6c1446a301ac61991cbce3ff547adf91eca87b505a28ea46ae5021bcb72b46",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "41e3237d0727b99b01c9287cffae48b75a72d92cfa3c575ea3b7253cf7567637"
+        "staged_body_checksum": "cd6c1446a301ac61991cbce3ff547adf91eca87b505a28ea46ae5021bcb72b46"
       },
       "validation": {
         "V1": "PASS",
@@ -1293,7 +1296,7 @@
         "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
         "V9": "PASS",
         "V11": "MISSING",
@@ -1323,11 +1326,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "0c3b4b90f44320ce0198c57601b65913ca1b171cebc3fbc794d5c2742f752dbe",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "0c3b4b90f44320ce0198c57601b65913ca1b171cebc3fbc794d5c2742f752dbe"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "782439c2a63c29afb8575f95bc4caf556ee6788002dee71bb0c2fbabdcb80bf7"
       },
       "validation": {
         "V1": "PASS",
@@ -1667,11 +1670,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "f4754b2677f52ee7b4739bdf108cb744168978e431fec0a0a96fe976b5606899",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "f4754b2677f52ee7b4739bdf108cb744168978e431fec0a0a96fe976b5606899"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "a356782af17ec6638b129bd384e36e070bf3c264ba1af3b3ce5df440fda28255"
       },
       "validation": {
         "V1": "PASS",
@@ -1839,11 +1842,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "699de052e2511e7d4ca6f0fd128763f861c2d3d2d256687d35e059ac700bbaa8",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "699de052e2511e7d4ca6f0fd128763f861c2d3d2d256687d35e059ac700bbaa8"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "20f130bf8f69601bd3472bfb1fcceeb746f6fbbcd2ff53ba2d0d3226b98bc8c1"
       },
       "validation": {
         "V1": "PASS",
@@ -1867,7 +1870,7 @@
         "blocking_count": 0,
         "ratified_by": null,
         "ratified_date": null,
-        "unratified_count": 0,
+        "unratified_count": 4,
         "per_entry_pending_count": 0,
         "structural_hint_count": 0,
         "schema_mismatch_count": 0
@@ -1882,11 +1885,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "be72d7811e0967244008a1b13e79075b9b222fb7b3d529945cc22e8c1e604d7d",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "be72d7811e0967244008a1b13e79075b9b222fb7b3d529945cc22e8c1e604d7d"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "0cac5b22c4617455996cab770412edb39fc79cebc8e20612926a03a6f3708fc5"
       },
       "validation": {
         "V1": "PASS",
@@ -1925,11 +1928,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "63e8d6ade0f413ae32a72c9242ba33e0f55fe3067f847cc4928f9e3c22c95c5c",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "63e8d6ade0f413ae32a72c9242ba33e0f55fe3067f847cc4928f9e3c22c95c5c"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "0ed94cb6b4e5e07d57001a1cfdcae9258e5f5331ad4c39eba6a475fb81d428eb"
       },
       "validation": {
         "V1": "PASS",
@@ -1992,11 +1995,11 @@
         "by_category": {}
       },
       "residuals": {
-        "count": 0,
+        "count": 6,
         "blocking_count": 0,
         "ratified_by": null,
         "ratified_date": null,
-        "unratified_count": 0,
+        "unratified_count": 6,
         "per_entry_pending_count": 0,
         "structural_hint_count": 0,
         "schema_mismatch_count": 0
@@ -2054,11 +2057,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "a025eea1fe43a49ca32df80765a0d189b59a692a4aa3f9a27447d815479cdb32",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "a025eea1fe43a49ca32df80765a0d189b59a692a4aa3f9a27447d815479cdb32"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "4d1c72b7fbad63dd7789f9ccdd309ea9f2c3c4c9132d7b8df4af2612178ab2be"
       },
       "validation": {
         "V1": "PASS",
@@ -2097,11 +2100,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "d9d5b70fdb76c9808d3bfc594a2c5f7ed1c7afbcc05595b0d715615f6395df9b",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "d9d5b70fdb76c9808d3bfc594a2c5f7ed1c7afbcc05595b0d715615f6395df9b"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "1a95932924bccfa77c686cb0c6667e9621161d7a1002fcee08af7c5e5cd95a46"
       },
       "validation": {
         "V1": "PASS",
@@ -2136,26 +2139,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V2, V3, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "c2bc0767815e215a9db01ee1544cba3fe896d3ed56b0f736bfb89aec92722120",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "c2bc0767815e215a9db01ee1544cba3fe896d3ed56b0f736bfb89aec92722120"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2179,26 +2182,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V2, V3, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "6f72dfee9429cdf0a15516b298bff6a91be19a3a86ea4c83e2384a3078715800",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "6f72dfee9429cdf0a15516b298bff6a91be19a3a86ea4c83e2384a3078715800"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2222,26 +2225,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V2, V3, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "91d02dd87a1c1a902a364130b6c889529a0d4d1d346cb6f31ae9b38d8c2e1c0b",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "91d02dd87a1c1a902a364130b6c889529a0d4d1d346cb6f31ae9b38d8c2e1c0b"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2265,26 +2268,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V2, V3, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "17f11b8cf01432ceca4eb87ec653f2940c62b0f0e414a2dd811e2be24e0e6982",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "17f11b8cf01432ceca4eb87ec653f2940c62b0f0e414a2dd811e2be24e0e6982"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2308,26 +2311,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "401af911952fca5664775afaa24787b20af744110da3039e976c29734f2abe6d",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "401af911952fca5664775afaa24787b20af744110da3039e976c29734f2abe6d"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2351,26 +2354,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V2, V3, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "372638caba92651f6de5ecdb4b11870bd200f75ea9f0ba75e49ad6c3d90323d4",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "372638caba92651f6de5ecdb4b11870bd200f75ea9f0ba75e49ad6c3d90323d4"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2394,26 +2397,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "4c233e8f4c67a720bbaacd729226341a19a93357167d7b1215f7a4e143e10ad9",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "4c233e8f4c67a720bbaacd729226341a19a93357167d7b1215f7a4e143e10ad9"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "FAIL",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2437,26 +2440,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V2, V3, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "19ae8f237054f2a4056521de0c6fb9e58299f31dd37467c09e7a65f01675a290",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "19ae8f237054f2a4056521de0c6fb9e58299f31dd37467c09e7a65f01675a290"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2480,26 +2483,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V2, V3, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "e9fafbf2f52d1e3ecbd4ea1d1ca29faa2d982ddea34e94570d675bd55ad0f69b",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "e9fafbf2f52d1e3ecbd4ea1d1ca29faa2d982ddea34e94570d675bd55ad0f69b"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2523,26 +2526,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V2, V3, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "e7c660c5b1f88bb699db1f422c9dd4adec4f1f4064948880d7f1f5ceef642d0d",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "e7c660c5b1f88bb699db1f422c9dd4adec4f1f4064948880d7f1f5ceef642d0d"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2566,26 +2569,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V2, V3, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "310d4102ca595cfd9d1e5510a7550089026290070256029e6e92f527228095b7",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "310d4102ca595cfd9d1e5510a7550089026290070256029e6e92f527228095b7"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2609,26 +2612,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "3f52dcb5192cb91f5fb01fca0b94b35e79d34a153995dfb386ed122277d4bbc4",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "3f52dcb5192cb91f5fb01fca0b94b35e79d34a153995dfb386ed122277d4bbc4"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2652,26 +2655,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "05c63a48eefcefdce6de08adabd61e6453b4002174e520e86c616fdd5beb2dca",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "05c63a48eefcefdce6de08adabd61e6453b4002174e520e86c616fdd5beb2dca"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2695,26 +2698,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "06b42e4d9dee1675e86d615a0d3e95631ac3cc4113115a43abf9dfc1b37f2534",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "06b42e4d9dee1675e86d615a0d3e95631ac3cc4113115a43abf9dfc1b37f2534"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2738,26 +2741,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "15256cee879edbec9e329f28b17b52d4c9767c2d4e7196cc273d00095e1625ab",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "15256cee879edbec9e329f28b17b52d4c9767c2d4e7196cc273d00095e1625ab"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "FAIL",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2781,26 +2784,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "7b3ca0492ddb0ded00cb606dd56e92ad5eebc4f5e83dc2be7dddc6811d2c6349",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "7b3ca0492ddb0ded00cb606dd56e92ad5eebc4f5e83dc2be7dddc6811d2c6349"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2824,26 +2827,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "e0f25356d6a1e8e62c1a16522d30a093493ee7369eeea6e0815fa5625c26d007",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "e0f25356d6a1e8e62c1a16522d30a093493ee7369eeea6e0815fa5625c26d007"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2867,26 +2870,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "962f89561ea949f5b4603c35a4303f134a57cfe5313b11cb50248b12889d9b81",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "962f89561ea949f5b4603c35a4303f134a57cfe5313b11cb50248b12889d9b81"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2910,26 +2913,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "162e752a44f39e51e0d7a4ac63bc599e6046d706e4358da73ae7bc5f0c10d152",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "162e752a44f39e51e0d7a4ac63bc599e6046d706e4358da73ae7bc5f0c10d152"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2953,26 +2956,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "4abbf8a019f9355b915eaa63ac0d5fb60be1a7bf6e1950ca2e4b9055e01bb9e8",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "4abbf8a019f9355b915eaa63ac0d5fb60be1a7bf6e1950ca2e4b9055e01bb9e8"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -2996,26 +2999,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "fe33eba520e702242d6a3bf43590472af1d3d9e1485ec29e14b24f5324a359e4",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "fe33eba520e702242d6a3bf43590472af1d3d9e1485ec29e14b24f5324a359e4"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -3039,26 +3042,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "264a1a42e40eaecea92592ab9936f99afd6414ae1633fa6be0a8917025d6a030",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "264a1a42e40eaecea92592ab9936f99afd6414ae1633fa6be0a8917025d6a030"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -3082,26 +3085,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "0fe79967a2bb6148658cc95c4dd20d266f316d8177e80d5bfca14fbc13823787",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "0fe79967a2bb6148658cc95c4dd20d266f316d8177e80d5bfca14fbc13823787"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -3123,28 +3126,30 @@
     {
       "book_code": "2JN",
       "testament": "NT",
-      "status": "extracting",
+      "status": "promotion_ready",
       "status_reasons": [
-        "no promotion dossier"
+        "validation is structurally passable",
+        "editorial candidates clear",
+        "promotion gate conditions are satisfied"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "dry-run",
+      "body_checksum": "d5a0eb97b34184cda9b4f3503a170ac44d1afacfe325826d529bc68cc74efd38",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "d5a0eb97b34184cda9b4f3503a170ac44d1afacfe325826d529bc68cc74efd38"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -3168,26 +3173,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "e1c3e78381295c60f30df0e8a09c0b6c94aa7026e5b8a685a053a6085ffc0fef",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "e1c3e78381295c60f30df0e8a09c0b6c94aa7026e5b8a685a053a6085ffc0fef"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -3211,26 +3216,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "b44696b6652c965ea03669b9957cd1360f0664883065bd4bed82750d846f029a",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "b44696b6652c965ea03669b9957cd1360f0664883065bd4bed82750d846f029a"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "WARN",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },
@@ -3254,26 +3259,26 @@
       "testament": "NT",
       "status": "extracting",
       "status_reasons": [
-        "no promotion dossier"
+        "hard validation failures: V1, V9"
       ],
-      "decision": null,
-      "body_checksum": null,
+      "decision": "blocked",
+      "body_checksum": "602a7db2dff071e12d6306296c1ef0f885f417075378a71b452e3fc6213c8a05",
       "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "NO_DOSSIER",
+        "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": null
+        "staged_body_checksum": "602a7db2dff071e12d6306296c1ef0f885f417075378a71b452e3fc6213c8a05"
       },
       "validation": {
-        "V1": "MISSING",
-        "V2": "MISSING",
-        "V3": "MISSING",
-        "V4": "MISSING",
-        "V5": "MISSING",
-        "V6": "MISSING",
-        "V7": "MISSING",
-        "V8": "MISSING",
-        "V9": "MISSING",
+        "V1": "FAIL",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "FAIL",
+        "V5": "PASS",
+        "V6": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
         "V11": "MISSING",
         "V12": "MISSING"
       },

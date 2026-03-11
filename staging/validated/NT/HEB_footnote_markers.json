@@ -1,0 +1,370 @@
+[
+  {
+    "anchor": "HEB.1:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.1:1",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.1:5",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.1:9",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.2:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.2:2",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.2:5",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.2:9",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.2:10",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.2:11",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.2:14",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.2:17",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.3:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.3:3",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.3:12",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.3:14",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.3:16",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.4:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.4:6",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.4:8",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.4:9",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.4:11",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.4:12",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.4:14",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.4:14",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.4:15",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.4:16",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.5:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.5:4",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.5:7",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.5:9",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.5:14",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.6:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.6:4",
+    "marker": "††"
+  },
+  {
+    "anchor": "HEB.6:4",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.6:7",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.6:10",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.6:11",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.6:13",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.6:13",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.6:17",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.6:19",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.7:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.7:7",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.7:11",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.7:26",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.8:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.8:6",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.9:1",
+    "marker": "†ω"
+  },
+  {
+    "anchor": "HEB.9:2",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.9:6",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.9:11",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.9:13",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.9:15",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.9:21",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.9:23",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.10:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.10:2",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.10:11",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.10:14",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.10:19",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.10:24",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.10:26",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.10:32",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.11:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.11:8",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.11:9",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.11:21",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.11:24",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.11:32",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.11:37",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.11:40",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.12:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.12:4",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.12:12",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.12:14",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.12:18",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.12:22",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.12:25",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.12:28",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.12:29",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.13:1",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.13:7",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.13:7",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.13:8",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.13:9",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.13:10",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.13:11",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.13:13",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.13:15",
+    "marker": "†"
+  },
+  {
+    "anchor": "HEB.13:17",
+    "marker": "ω"
+  },
+  {
+    "anchor": "HEB.13:20",
+    "marker": "†"
+  }
+]

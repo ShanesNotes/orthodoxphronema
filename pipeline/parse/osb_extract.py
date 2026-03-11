@@ -51,7 +51,9 @@ RE_NAV_STRING = re.compile(
     r'^[\d,\s]+(Back to|Home|Next|Introduction|Previous)',
     re.IGNORECASE
 )
-RE_COMMA_INTS = re.compile(r'^[\d,\s]+$')
+# Navigation comma-int lists like "1, 2, 3, 4, 5" — require at least one comma
+# to avoid filtering standalone chapter numbers (e.g. bare "1").
+RE_COMMA_INTS = re.compile(r'^[\d,\s]*,[\d,\s]*$')
 
 # Verse-split boundary within a TextItem:
 # optional footnote markers, then a digit sequence, then text start.
@@ -570,7 +572,20 @@ class ExtractionState:
             # because they start with a digit.  Intercept them first: if the leading
             # number equals current_chapter+1 and the advance threshold is met, treat
             # the element as a chapter-advance block exactly like a TextItem lead.
-            if self.verse_started and text[:1].isdigit():
+            # Standalone bare number as SectionHeaderItem (NT chapter markers).
+            # No verse_started guard — this must work for the Ch0→Ch1 transition
+            # that occurs before any verse text is emitted.
+            if text[:1].isdigit() and re.fullmatch(r'\d+', text.strip()):
+                bare_num = int(text.strip())
+                if bare_num == self.current_chapter + 1:
+                    self._flush_article()
+                    self.mode = VERSE_MODE
+                    self.current_chapter = bare_num
+                    self.current_verse = 0
+                    self.last_verse_text_incomplete = False
+                    return
+
+            if text[:1].isdigit() and (self.verse_started or self.current_chapter == 0):
                 m_ch = RE_CHAPTER_LEAD.match(text)
                 if m_ch:
                     chapter_num = int(m_ch.group(1))
@@ -724,6 +739,28 @@ class ExtractionState:
                         r'[.!?\'"\u201d\u2019]\s*$', merged
                     )
             return
+
+        # Standalone chapter number detection:
+        # Some NT books render the chapter number as a bare digit TextItem
+        # (e.g. "1") with the verse text in subsequent elements.
+        # RE_CHAPTER_LEAD requires \d+\s+[A-Z...] so it misses these.
+        # Treat a bare-number element as a chapter advance when it matches
+        # current_chapter + 1 and the CVC threshold is satisfied.
+        if re.fullmatch(r'\d+', text.strip()):
+            bare_num = int(text.strip())
+            max_v = self._chapter_max_verse(self.current_chapter)
+            backward_signal = (bare_num < self.current_verse
+                               and self.current_verse >= max_v * 3 // 5)
+            if bare_num == self.current_chapter + 1 and (
+                    max_v == 0
+                    or self.current_verse >= max_v * 4 // 5
+                    or backward_signal):
+                self.current_chapter = bare_num
+                self.current_verse = 0
+                self.last_verse_text_incomplete = False
+                return  # No verse text on this element; next element will be verse 1
+            # If it doesn't pass the chapter advance check, fall through to
+            # normal verse processing below.
 
         # Chapter-leading block?
         m = RE_CHAPTER_LEAD.match(text)

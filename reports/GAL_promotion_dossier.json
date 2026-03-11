@@ -1,0 +1,78 @@
+{
+  "book_code": "GAL",
+  "testament": "NT",
+  "timestamp": "2026-03-11T05:55:45.571832",
+  "registry_version": "1.3.0",
+  "body_checksum": "e9fafbf2f52d1e3ecbd4ea1d1ca29faa2d982ddea34e94570d675bd55ad0f69b",
+  "validation": {
+    "V1": {
+      "status": "FAIL",
+      "messages": [
+        "V1   2 duplicate anchor(s):"
+      ]
+    },
+    "V2": {
+      "status": "WARN",
+      "messages": [
+        "V2   Chapter count: expected 6, got 7"
+      ]
+    },
+    "V3": {
+      "status": "FAIL",
+      "messages": [
+        "V3   Chapter sequence broken at line 15: expected 1, got 0",
+        "V3   Chapter sequence broken at line 25: expected 2, got 1",
+        "V3   Chapter sequence broken at line 61: expected 3, got 2",
+        "V3   Chapter sequence broken at line 92: expected 4, got 3",
+        "V3   Chapter sequence broken at line 140: expected 5, got 4",
+        "V3   Chapter sequence broken at line 184: expected 6, got 5",
+        "V3   Chapter sequence broken at line 218: expected 7, got 6"
+      ]
+    },
+    "V4": {
+      "status": "FAIL",
+      "messages": [
+        "V4   Verse goes backward in ch.4 at line 177: verse 28 after verse 29",
+        "V4   Missing verses in ch.1: jumps from 3 to 6",
+        "V4   Missing verses in ch.2: jumps from 15 to 17",
+        "V4   Missing verses in ch.3: jumps from 5 to 7",
+        "V4   Missing verses in ch.5: jumps from 19 to 22",
+        "V4   Missing verses in ch.5: jumps from 22 to 24"
+      ]
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 144/149 verses (96.6%); gap of 5"
+      ]
+    },
+    "V8": {
+      "status": "WARN",
+      "messages": [
+        "V8   Heading density: 23 headings / 7 chapters (3.3/ch)"
+      ]
+    },
+    "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse GAL.1:4 found inside GAL.1:3 at line 32",
+        "V9   Embedded verse GAL.1:5 found inside GAL.1:3 at line 32",
+        "V9   Embedded verse GAL.2:16 found inside GAL.2:15 at line 83",
+        "V9   Embedded verse GAL.3:6 found inside GAL.3:5 at line 101",
+        "V9   Embedded verse GAL.5:20 found inside GAL.5:19 at line 210",
+        "V9   Embedded verse GAL.5:21 found inside GAL.5:19 at line 210",
+        "V9   Embedded verse GAL.5:23 found inside GAL.5:22 at line 211"
+      ]
+    }
+  },
+  "residuals_sidecar": null,
+  "decision": "blocked"
+}

@@ -1,0 +1,107 @@
+{
+  "book_code": "MAT",
+  "testament": "NT",
+  "timestamp": "2026-03-11T05:55:46.090319",
+  "registry_version": "1.3.0",
+  "body_checksum": "c2bc0767815e215a9db01ee1544cba3fe896d3ed56b0f736bfb89aec92722120",
+  "validation": {
+    "V1": {
+      "status": "FAIL",
+      "messages": [
+        "V1   8 duplicate anchor(s):"
+      ]
+    },
+    "V2": {
+      "status": "WARN",
+      "messages": [
+        "V2   Chapter count: expected 28, got 29"
+      ]
+    },
+    "V3": {
+      "status": "FAIL",
+      "messages": [
+        "V3   Chapter sequence broken at line 15: expected 1, got 0",
+        "V3   Chapter sequence broken at line 25: expected 2, got 1",
+        "V3   Chapter sequence broken at line 58: expected 3, got 2",
+        "V3   Chapter sequence broken at line 96: expected 4, got 3",
+        "V3   Chapter sequence broken at line 122: expected 5, got 4",
+        "V3   Chapter sequence broken at line 157: expected 6, got 5",
+        "V3   Chapter sequence broken at line 213: expected 7, got 6",
+        "V3   Chapter sequence broken at line 265: expected 8, got 7",
+        "V3   Chapter sequence broken at line 311: expected 9, got 8",
+        "V3   Chapter sequence broken at line 362: expected 10, got 9",
+        "V3   Chapter sequence broken at line 424: expected 11, got 10",
+        "V3   Chapter sequence broken at line 481: expected 12, got 11",
+        "V3   Chapter sequence broken at line 526: expected 13, got 12",
+        "V3   Chapter sequence broken at line 593: expected 14, got 13",
+        "V3   Chapter sequence broken at line 680: expected 15, got 14",
+        "V3   Chapter sequence broken at line 730: expected 16, got 15",
+        "V3   Chapter sequence broken at line 783: expected 17, got 16",
+        "V3   Chapter sequence broken at line 826: expected 18, got 17",
+        "V3   Chapter sequence broken at line 867: expected 19, got 18",
+        "V3   Chapter sequence broken at line 919: expected 20, got 19",
+        "V3   Chapter sequence broken at line 960: expected 21, got 20",
+        "V3   Chapter sequence broken at line 1008: expected 22, got 21",
+        "V3   Chapter sequence broken at line 1082: expected 23, got 22",
+        "V3   Chapter sequence broken at line 1143: expected 24, got 23",
+        "V3   Chapter sequence broken at line 1189: expected 25, got 24",
+        "V3   Chapter sequence broken at line 1257: expected 26, got 25",
+        "V3   Chapter sequence broken at line 1315: expected 27, got 26",
+        "V3   Chapter sequence broken at line 1417: expected 28, got 27",
+        "V3   Chapter sequence broken at line 1513: expected 29, got 28"
+      ]
+    },
+    "V4": {
+      "status": "FAIL",
+      "messages": [
+        "V4   Verse goes backward in ch.21 at line 1032: verse 18 after verse 19",
+        "V4   Verse goes backward in ch.21 at line 1063: verse 32 after verse 33",
+        "V4   Verse goes backward in ch.26 at line 1358: verse 26 after verse 27",
+        "V4   Verse goes backward in ch.26 at line 1373: verse 36 after verse 37",
+        "V4   Missing verses in ch.4: jumps from 14 to 17",
+        "V4   Missing verses in ch.5: jumps from 1 to 3",
+        "V4   Missing verses in ch.5: jumps from 23 to 25",
+        "V4   Missing verses in ch.5: jumps from 44 to 46",
+        "V4   Missing verses in ch.12: jumps from 3 to 5",
+        "V4   Missing verses in ch.13: jumps from 45 to 47",
+        "V4   Missing verses in ch.20: jumps from 27 to 29",
+        "V4   Missing verses in ch.23: jumps from 6 to 8",
+        "V4   Missing verses in ch.26: jumps from 6 to 8"
+      ]
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 1078/1071 verses (100.7%); gap of -7"
+      ]
+    },
+    "V8": {
+      "status": "WARN",
+      "messages": [
+        "V8   Heading density: 128 headings / 29 chapters (4.4/ch)"
+      ]
+    },
+    "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse MAT.5:24 found inside MAT.5:23 at line 186",
+        "V9   Embedded verse MAT.5:45 found inside MAT.5:44 at line 206",
+        "V9   Embedded verse MAT.12:4 found inside MAT.12:3 at line 530",
+        "V9   Embedded verse MAT.13:46 found inside MAT.13:45 at line 657",
+        "V9   Embedded verse MAT.20:28 found inside MAT.20:27 at line 997",
+        "V9   Embedded verse MAT.23:7 found inside MAT.23:6 at line 1150",
+        "V9   Embedded verse MAT.26:7 found inside MAT.26:6 at line 1325"
+      ]
+    }
+  },
+  "residuals_sidecar": null,
+  "decision": "blocked"
+}

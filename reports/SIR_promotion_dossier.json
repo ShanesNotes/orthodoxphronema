@@ -1,9 +1,9 @@
 {
   "book_code": "SIR",
   "testament": "OT",
-  "timestamp": "2026-03-10T14:19:46.794062",
+  "timestamp": "2026-03-11T05:04:40.451373",
   "registry_version": "1.3.0",
-  "body_checksum": "697771fcc815e7a54d8d1ae05bdae16b85e9ddd63a89c9373315b9cbde9c85f8",
+  "body_checksum": "cd6c1446a301ac61991cbce3ff547adf91eca87b505a28ea46ae5021bcb72b46",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -18,60 +18,8 @@
       "messages": []
     },
     "V4": {
-      "status": "WARN",
-      "messages": [
-        "V4   Missing verses in ch.1: jumps from 0 to 2",
-        "V4   Missing verses in ch.2: jumps from 0 to 2",
-        "V4   Missing verses in ch.2: jumps from 10 to 12",
-        "V4   Missing verses in ch.3: jumps from 0 to 2",
-        "V4   Missing verses in ch.4: jumps from 0 to 2",
-        "V4   Missing verses in ch.5: jumps from 0 to 2",
-        "V4   Missing verses in ch.6: jumps from 0 to 2",
-        "V4   Missing verses in ch.7: jumps from 0 to 2",
-        "V4   Missing verses in ch.8: jumps from 0 to 2",
-        "V4   Missing verses in ch.9: jumps from 0 to 2",
-        "V4   Missing verses in ch.10: jumps from 0 to 2",
-        "V4   Missing verses in ch.11: jumps from 0 to 2",
-        "V4   Missing verses in ch.12: jumps from 0 to 2",
-        "V4   Missing verses in ch.13: jumps from 0 to 2",
-        "V4   Missing verses in ch.14: jumps from 0 to 2",
-        "V4   Missing verses in ch.15: jumps from 0 to 2",
-        "V4   Missing verses in ch.16: jumps from 0 to 2",
-        "V4   Missing verses in ch.17: jumps from 0 to 2",
-        "V4   Missing verses in ch.18: jumps from 0 to 2",
-        "V4   Missing verses in ch.19: jumps from 0 to 2",
-        "V4   Missing verses in ch.20: jumps from 0 to 2",
-        "V4   Missing verses in ch.21: jumps from 0 to 2",
-        "V4   Missing verses in ch.22: jumps from 0 to 2",
-        "V4   Missing verses in ch.23: jumps from 0 to 2",
-        "V4   Missing verses in ch.24: jumps from 0 to 2",
-        "V4   Missing verses in ch.25: jumps from 0 to 2",
-        "V4   Missing verses in ch.26: jumps from 0 to 2",
-        "V4   Missing verses in ch.27: jumps from 0 to 2",
-        "V4   Missing verses in ch.28: jumps from 0 to 2",
-        "V4   Missing verses in ch.29: jumps from 0 to 2",
-        "V4   Missing verses in ch.30: jumps from 0 to 2",
-        "V4   Missing verses in ch.31: jumps from 0 to 2",
-        "V4   Missing verses in ch.32: jumps from 0 to 2",
-        "V4   Missing verses in ch.33: jumps from 0 to 2",
-        "V4   Missing verses in ch.34: jumps from 0 to 2",
-        "V4   Missing verses in ch.34: jumps from 13 to 15",
-        "V4   Missing verses in ch.35: jumps from 0 to 2",
-        "V4   Missing verses in ch.36: jumps from 0 to 2",
-        "V4   Missing verses in ch.38: jumps from 0 to 2",
-        "V4   Missing verses in ch.39: jumps from 0 to 2",
-        "V4   Missing verses in ch.40: jumps from 0 to 2",
-        "V4   Missing verses in ch.41: jumps from 0 to 2",
-        "V4   Missing verses in ch.42: jumps from 0 to 2",
-        "V4   Missing verses in ch.43: jumps from 0 to 2",
-        "V4   Missing verses in ch.44: jumps from 0 to 2",
-        "V4   Missing verses in ch.45: jumps from 0 to 2",
-        "V4   Missing verses in ch.47: jumps from 0 to 2",
-        "V4   Missing verses in ch.48: jumps from 0 to 2",
-        "V4   Missing verses in ch.49: jumps from 0 to 7",
-        "V4   Missing verses in ch.50: jumps from 0 to 2",
-        "V4   Missing verses in ch.51: jumps from 0 to 2"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V5": {
       "status": "PASS",
@@ -84,7 +32,7 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 1321/1370 verses (96.4%); gap of 49"
+        "V7   Completeness: 1377/1371 verses (100.4%); gap of -6"
       ]
     },
     "V8": {

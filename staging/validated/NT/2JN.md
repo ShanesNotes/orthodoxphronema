@@ -1,0 +1,38 @@
+---
+book_code: 2JN
+book_name: "2 John"
+testament: NT
+canon_position: 73
+source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
+parse_date: "2026-03-11"
+promote_date: null
+checksum: "7638f4a8c35ce5307714d641c636fd8581ff78732a57a1f56bb5b654047c3ef8"
+status: staged
+deuterocanonical: false
+has_additions: false
+---
+
+## Chapter 1
+
+2JN.1:1 The Elder, To the elect lady and her children, whom I love in truth, and not only I, but also all those who have known the truth,
+2JN.1:2 because of the truth which abides in us and will be with us forever:
+
+### Follow the Law of Love
+
+2JN.1:3 Grace, mercy, and peace will be with you afrom God the Father and from the Lord Jesus Christ, the Son of the Father, in truth and love.
+2JN.1:4 I rejoiced greatly that I have found some of your children walking in truth, as we received commandment from the Father.
+2JN.1:5 And now I plead with you, lady, not as though I wrote anew commandment to you, but that which we have had from the beginning: that we love one another.
+
+### Beware of Deceiving Heretics
+
+2JN.1:6 This is love, that we walk according to His commandments. This is the commandment, that as you have heard from the beginning, you should walk in it.
+2JN.1:7 For many deceivers have gone out into the world who do not confess Jesus Christ as coming in the flesh. This is adeceiver and an antichrist.
+2JN.1:8 Look to yourselves, that we ado not lose those things we worked for, but that we bmay receive afull reward.
+2JN.1:9 Whoever transgresses aand does not abide in the doctrine of Christ does not have God. He who abides in the doctrine of Christ has both the Father and the Son.
+2JN.1:10 If anyone comes to you and does not bring this doctrine, do not receive him into your house nor greet him;
+
+### John's Plans and Farewell
+
+2JN.1:11 for he who greets him shares in his evil deeds.
+2JN.1:12 Having many things to write to you, I did not wish to do so with paper and ink; but I hope to come to you and speak face to face, that our joy may be full.
+2JN.1:13 The children of your elect sister greet you. Amen.

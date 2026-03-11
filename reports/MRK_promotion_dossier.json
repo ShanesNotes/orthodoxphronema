@@ -1,0 +1,100 @@
+{
+  "book_code": "MRK",
+  "testament": "NT",
+  "timestamp": "2026-03-11T05:55:46.180864",
+  "registry_version": "1.3.0",
+  "body_checksum": "6f72dfee9429cdf0a15516b298bff6a91be19a3a86ea4c83e2384a3078715800",
+  "validation": {
+    "V1": {
+      "status": "FAIL",
+      "messages": [
+        "V1   8 duplicate anchor(s):"
+      ]
+    },
+    "V2": {
+      "status": "WARN",
+      "messages": [
+        "V2   Chapter count: expected 16, got 17"
+      ]
+    },
+    "V3": {
+      "status": "FAIL",
+      "messages": [
+        "V3   Chapter sequence broken at line 15: expected 1, got 0",
+        "V3   Chapter sequence broken at line 26: expected 2, got 1",
+        "V3   Chapter sequence broken at line 92: expected 3, got 2",
+        "V3   Chapter sequence broken at line 130: expected 4, got 3",
+        "V3   Chapter sequence broken at line 183: expected 5, got 4",
+        "V3   Chapter sequence broken at line 251: expected 6, got 5",
+        "V3   Chapter sequence broken at line 306: expected 7, got 6",
+        "V3   Chapter sequence broken at line 381: expected 8, got 7",
+        "V3   Chapter sequence broken at line 428: expected 9, got 8",
+        "V3   Chapter sequence broken at line 482: expected 10, got 9",
+        "V3   Chapter sequence broken at line 549: expected 11, got 10",
+        "V3   Chapter sequence broken at line 621: expected 12, got 11",
+        "V3   Chapter sequence broken at line 673: expected 13, got 12",
+        "V3   Chapter sequence broken at line 758: expected 14, got 13",
+        "V3   Chapter sequence broken at line 813: expected 15, got 14",
+        "V3   Chapter sequence broken at line 920: expected 16, got 15",
+        "V3   Chapter sequence broken at line 984: expected 17, got 16"
+      ]
+    },
+    "V4": {
+      "status": "FAIL",
+      "messages": [
+        "V4   Verse goes backward in ch.12 at line 703: verse 18 after verse 19",
+        "V4   Verse goes backward in ch.12 at line 731: verse 35 after verse 36",
+        "V4   Verse goes backward in ch.12 at line 745: verse 38 after verse 39",
+        "V4   Verse goes backward in ch.14 at line 866: verse 32 after verse 33",
+        "V4   Missing verses in ch.2: jumps from 25 to 27",
+        "V4   Missing verses in ch.5: jumps from 2 to 5",
+        "V4   Missing verses in ch.6: jumps from 27 to 29",
+        "V4   Missing verses in ch.6: jumps from 54 to 56",
+        "V4   Missing verses in ch.7: jumps from 12 to 14",
+        "V4   Missing verses in ch.7: jumps from 21 to 23",
+        "V4   Missing verses in ch.8: jumps from 9 to 11",
+        "V4   Missing verses in ch.10: jumps from 29 to 31",
+        "V4   Missing verses in ch.12: jumps from 39 to 41",
+        "V4   Missing verses in ch.15: jumps from 29 to 31"
+      ]
+    },
+    "V5": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V7": {
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 685/678 verses (101.0%); gap of -7"
+      ]
+    },
+    "V8": {
+      "status": "WARN",
+      "messages": [
+        "V8   Heading density: 91 headings / 17 chapters (5.4/ch)"
+      ]
+    },
+    "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse MRK.2:26 found inside MRK.2:25 at line 127",
+        "V9   Embedded verse MRK.5:3 found inside MRK.5:2 at line 254",
+        "V9   Embedded verse MRK.5:4 found inside MRK.5:2 at line 254",
+        "V9   Embedded verse MRK.6:28 found inside MRK.6:27 at line 340",
+        "V9   Embedded verse MRK.6:55 found inside MRK.6:54 at line 375",
+        "V9   Embedded verse MRK.7:13 found inside MRK.7:12 at line 394",
+        "V9   Embedded verse MRK.7:22 found inside MRK.7:21 at line 402",
+        "V9   Embedded verse MRK.8:10 found inside MRK.8:9 at line 441",
+        "V9   Embedded verse MRK.10:30 found inside MRK.10:29 at line 585",
+        "V9   Embedded verse MRK.12:40 found inside MRK.12:39 at line 749",
+        "V9   Embedded verse MRK.15:30 found inside MRK.15:29 at line 956"
+      ]
+    }
+  },
+  "residuals_sidecar": null,
+  "decision": "blocked"
+}
