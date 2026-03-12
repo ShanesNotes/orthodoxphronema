@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Liturgical Reference",
+  "description": "A liturgical context that references one or more canon anchors.",
+  "type": "object",
+  "required": ["ref_id", "context_type", "entity"],
+  "properties": {
+    "ref_id": { "type": "string", "description": "Unique reference identifier" },
+    "context_type": {
+      "type": "string",
+      "enum": ["feast", "fast", "service", "akathist", "prokeimenon", "reading"],
+      "description": "Type of liturgical context"
+    },
+    "entity": { "type": "string", "description": "Named entity (e.g. Nativity of Christ, Theophany)" },
+    "calendar": {
+      "type": "string",
+      "enum": ["fixed", "moveable", "triodion", "pentecostarion"],
+      "description": "Calendar type"
+    },
+    "date_or_week": { "type": "string", "description": "Date or week reference (e.g. Dec 25, Pascha+7)" },
+    "service": { "type": "string", "description": "Service name (e.g. Matins, Vespers, Liturgy)" },
+    "usage": { "type": "string", "description": "How scripture is used (e.g. epistle reading, gospel reading)" },
+    "source_reference": { "type": "string", "description": "Source book reference (e.g. Menaion, Triodion)" }
+  }
+}

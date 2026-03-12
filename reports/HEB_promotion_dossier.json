@@ -1,15 +1,13 @@
 {
   "book_code": "HEB",
   "testament": "NT",
-  "timestamp": "2026-03-11T05:55:45.646701",
+  "timestamp": "2026-03-11T16:39:43.116512",
   "registry_version": "1.3.0",
-  "body_checksum": "162e752a44f39e51e0d7a4ac63bc599e6046d706e4358da73ae7bc5f0c10d152",
+  "body_checksum": "f66587c05835ed2683912ea40a5a37b6c9cd592a4609e393a6df28f705abc1e1",
   "validation": {
     "V1": {
-      "status": "FAIL",
-      "messages": [
-        "V1   2 duplicate anchor(s):"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V2": {
       "status": "PASS",
@@ -20,43 +18,26 @@
       "messages": []
     },
     "V4": {
-      "status": "FAIL",
+      "status": "WARN",
       "messages": [
-        "V4   Verse goes backward in ch.1 at line 34: verse 1 after verse 8",
-        "V4   Verse goes backward in ch.1 at line 35: verse 5 after verse 8",
         "V4   Missing verses in ch.1: jumps from 9 to 11",
         "V4   Missing verses in ch.1: jumps from 12 to 14",
-        "V4   Missing verses in ch.2: jumps from 2 to 4",
         "V4   Missing verses in ch.2: jumps from 12 to 14",
-        "V4   Missing verses in ch.3: jumps from 1 to 3",
         "V4   Missing verses in ch.3: jumps from 6 to 8",
         "V4   Missing verses in ch.3: jumps from 14 to 16",
         "V4   Missing verses in ch.4: jumps from 4 to 6",
         "V4   Missing verses in ch.4: jumps from 6 to 8",
         "V4   Missing verses in ch.5: jumps from 7 to 9",
-        "V4   Missing verses in ch.5: jumps from 9 to 12",
-        "V4   Missing verses in ch.6: jumps from 1 to 3",
-        "V4   Missing verses in ch.7: jumps from 2 to 4",
-        "V4   Missing verses in ch.7: jumps from 15 to 17",
+        "V4   Missing verses in ch.5: jumps from 9 to 11",
         "V4   Missing verses in ch.7: jumps from 21 to 23",
-        "V4   Missing verses in ch.7: jumps from 26 to 28",
         "V4   Missing verses in ch.8: jumps from 1 to 3",
-        "V4   Missing verses in ch.8: jumps from 4 to 6",
         "V4   Missing verses in ch.8: jumps from 8 to 10",
-        "V4   Missing verses in ch.9: jumps from 9 to 11",
-        "V4   Missing verses in ch.9: jumps from 13 to 15",
-        "V4   Missing verses in ch.9: jumps from 24 to 26",
-        "V4   Missing verses in ch.10: jumps from 7 to 11",
         "V4   Missing verses in ch.10: jumps from 16 to 18",
         "V4   Missing verses in ch.10: jumps from 19 to 23",
-        "V4   Missing verses in ch.10: jumps from 24 to 26",
-        "V4   Missing verses in ch.10: jumps from 32 to 35",
-        "V4   Missing verses in ch.11: jumps from 17 to 20",
+        "V4   Missing verses in ch.11: jumps from 18 to 20",
         "V4   Missing verses in ch.11: jumps from 24 to 27",
-        "V4   Missing verses in ch.11: jumps from 32 to 35",
-        "V4   Missing verses in ch.11: jumps from 37 to 39",
+        "V4   Missing verses in ch.11: jumps from 33 to 35",
         "V4   Missing verses in ch.12: jumps from 1 to 3",
-        "V4   Missing verses in ch.12: jumps from 14 to 17",
         "V4   Missing verses in ch.13: jumps from 20 to 22"
       ]
     },
@@ -71,56 +52,19 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 259/303 verses (85.5%); gap of 44"
+        "V7   Completeness: 281/303 verses (92.7%); gap of 22"
       ]
     },
     "V8": {
       "status": "WARN",
       "messages": [
-        "V8   Heading density: 41 headings / 13 chapters (3.2/ch)"
+        "V8   Heading density: 40 headings / 13 chapters (3.1/ch)"
       ]
     },
     "V9": {
       "status": "FAIL",
       "messages": [
-        "V9   Embedded verse HEB.2:3 found inside HEB.2:2 at line 46",
-        "V9   Embedded verse HEB.3:2 found inside HEB.3:1 at line 69",
-        "V9   Embedded verse HEB.3:15 found inside HEB.3:14 at line 83",
-        "V9   Embedded verse HEB.4:5 found inside HEB.4:4 at line 99",
-        "V9   Embedded verse HEB.4:7 found inside HEB.4:6 at line 100",
-        "V9   Embedded verse HEB.5:8 found inside HEB.5:7 at line 130",
-        "V9   Embedded verse HEB.5:10 found inside HEB.5:9 at line 131",
-        "V9   Embedded verse HEB.5:11 found inside HEB.5:9 at line 131",
-        "V9   Embedded verse HEB.6:2 found inside HEB.6:1 at line 137",
-        "V9   Embedded verse HEB.7:3 found inside HEB.7:2 at line 171",
-        "V9   Embedded verse HEB.7:16 found inside HEB.7:15 at line 183",
-        "V9   Embedded verse HEB.7:22 found inside HEB.7:21 at line 188",
-        "V9   Embedded verse HEB.7:27 found inside HEB.7:26 at line 192",
-        "V9   Embedded verse HEB.8:2 found inside HEB.8:1 at line 199",
-        "V9   Embedded verse HEB.8:5 found inside HEB.8:4 at line 201",
-        "V9   Embedded verse HEB.8:9 found inside HEB.8:8 at line 207",
-        "V9   Embedded verse HEB.9:10 found inside HEB.9:9 at line 228",
-        "V9   Embedded verse HEB.9:14 found inside HEB.9:13 at line 234",
-        "V9   Embedded verse HEB.9:25 found inside HEB.9:24 at line 247",
-        "V9   Embedded verse HEB.10:10 found inside HEB.10:7 at line 265",
-        "V9   Embedded verse HEB.10:17 found inside HEB.10:16 at line 271",
-        "V9   Embedded verse HEB.10:20 found inside HEB.10:19 at line 276",
-        "V9   Embedded verse HEB.10:21 found inside HEB.10:19 at line 276",
-        "V9   Embedded verse HEB.10:22 found inside HEB.10:19 at line 276",
-        "V9   Embedded verse HEB.10:25 found inside HEB.10:24 at line 281",
-        "V9   Embedded verse HEB.10:33 found inside HEB.10:32 at line 291",
-        "V9   Embedded verse HEB.10:34 found inside HEB.10:32 at line 291",
-        "V9   Embedded verse HEB.11:18 found inside HEB.11:17 at line 324",
-        "V9   Embedded verse HEB.11:19 found inside HEB.11:17 at line 324",
-        "V9   Embedded verse HEB.11:25 found inside HEB.11:24 at line 332",
-        "V9   Embedded verse HEB.11:26 found inside HEB.11:24 at line 332",
-        "V9   Embedded verse HEB.11:33 found inside HEB.11:32 at line 341",
-        "V9   Embedded verse HEB.11:34 found inside HEB.11:32 at line 341",
-        "V9   Embedded verse HEB.11:38 found inside HEB.11:37 at line 347",
-        "V9   Embedded verse HEB.12:2 found inside HEB.12:1 at line 358",
-        "V9   Embedded verse HEB.12:15 found inside HEB.12:14 at line 370",
-        "V9   Embedded verse HEB.12:16 found inside HEB.12:14 at line 370",
-        "V9   Embedded verse HEB.13:21 found inside HEB.13:20 at line 420"
+        "V9   Embedded verse HEB.8:9 found inside HEB.8:8 at line 210"
       ]
     }
   },

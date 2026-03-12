@@ -12,24 +12,16 @@ deuterocanonical: false
 has_additions: false
 ---
 
-## Chapter 0
-
-
-### The Book of Galatians
-
-GAL.0:1 1. A defense of Paul's apostolic authority (1:1-2:21 ) The gift of the Holy Spirit to the Church (5:1-6:18 ) The Cross of Christ The life of faith Background -St. Paul had established churches in a number of cities in the Roman province of Galatia in Asia Minor. This is the only New Testament letter Paul addressed to a group of churches (1:2).
-
-### Greeting
-
-GAL.0:2 Liv ing in the loveof the Spirit (5:1 3-6:1 0) Concluding Remarks (6:11-18) The rule of faith (6:1 1 -1 7 ) Benediction (6:1 8)
 ## Chapter 1
 
-GAL.1:1 aul, an apostle (not from men nor through man, but through Jesus Christ and God the Father who raised Him from the dead),
+GAL.1:1 Paul, an apostle (not from men nor through man, but through Jesus Christ and God the Father who raised Him from the dead),
 
 ### Warning: True Gospel versus False Gospel
 
 GAL.1:2 and all the brethren who are with me, To the churches of Galatia:
-GAL.1:3 Grace to you and peace from God the Father and our Lord Jesus Christ, 4 who gave Himself for our sins, that He might deliver us from this present evil age, according to the will of our God and Father, 5 to whom be glory forever and ever. Amen.
+GAL.1:3 Grace to you and peace from God the Father and our Lord Jesus Christ,
+GAL.1:4 who gave Himself for our sins, that He might deliver us from this present evil age, according to the will of our God and Father,
+GAL.1:5 to whom be glory forever and ever. Amen.
 GAL.1:6 I marvel that you are turning away so soon from Him who called you in the grace of Christ, to adifferent gospel,
 GAL.1:7 which is not another; but there are some who trouble you and want to pervert the gospel of Christ.
 GAL.1:8 But even if we, or an angel from heaven, preach any other gospel to you than what we have preached to you, let him be accursed.
@@ -80,7 +72,8 @@ GAL.2:12 for before certain men came from James, he would eat with the Gentiles;
 
 GAL.2:13 And the rest of the Jews also played the hypocrite with him, so that even Barnabas was carried away with their hypocrisy.
 GAL.2:14 But when I saw that they were not straightforward about the truth of the gospel, I said to Peter before them all, 'If you, being a Jew, live in the manner of Gentiles and not as the Jews, why do you acompel Gentiles to live as Jews? b
-GAL.2:15 We who are Jews by nature, and not sinners of the Gentiles, 16 knowing that aman is not justified by the works of the law but by faith in Jesus Christ, even we have believed in Christ Jesus, that we might be justified by faith in Christ and not by the works of the law; for by the works of the law no flesh shall be justified.
+GAL.2:15 We who are Jews by nature, and not sinners of the Gentiles,
+GAL.2:16 knowing that aman is not justified by the works of the law but by faith in Jesus Christ, even we have believed in Christ Jesus, that we might be justified by faith in Christ and not by the works of the law; for by the works of the law no flesh shall be justified.
 GAL.2:17 'But if, while we seek to be justified by Christ, we ourselves also are found sinners, is Christ therefore aminister of sin? Certainly not!
 GAL.2:18 For if I build again those things which I destroyed, I make myself atransgressor.
 GAL.2:19 For I through the law died to the law that I might live to God.
@@ -98,7 +91,8 @@ GAL.3:3 Are you so foolish? Having begun in the Spirit, are you now being made p
 ### Faith Brings Sonship
 
 GAL.3:4 Have you suffered so many things in vain-if indeed it was in vain?
-GAL.3:5 Therefore He who supplies the Spirit to you and works miracles among you, does He do it by the works of the law, or by the hearing of faith?- 6 just as Abraham 'believed God, and it was accounted to him for righteousness.' a
+GAL.3:5 Therefore He who supplies the Spirit to you and works miracles among you, does He do it by the works of the law, or by the hearing of faith?-
+GAL.3:6 just as Abraham 'believed God, and it was accounted to him for righteousness.' a
 GAL.3:7 Therefore know that only those who are of faith are sons of Abraham.
 GAL.3:8 And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel to Abraham beforehand, saying, 'In you all the nations shall be blessed.' a
 
@@ -172,10 +166,8 @@ GAL.4:24 which things are symbolic. For these are the atwo covenants: the one fr
 GAL.4:25 for this Hagar is Mount Sinai in Arabia, and corresponds to Jerusalem which now is, and is in bondage with her children-
 GAL.4:26 but the Jerusalem above is free, which is the mother of us all.
 GAL.4:27 For it is written: 'Rejoice, O barren, You who do not bear!
-GAL.4:28 Break forth and shout, You who are not in labor!
-GAL.4:29 For the desolate has many more children Than she who has a husband.' a
-GAL.4:28 Now we, brethren, as Isaac was, are children of promise.
-GAL.4:29 But, as he who was born according to the flesh then persecuted him who was born according to the Spirit, even so it is now.
+GAL.4:28 Now we, brethren, as Isaac was, are children of promise. Break forth and shout, You who are not in labor!
+GAL.4:29 But, as he who was born according to the flesh then persecuted him who was born according to the Spirit, even so it is now. For the desolate has many more children Than she who has a husband.' a
 GAL.4:30 Nevertheless what does the Scripture say? 'Cast out the bondwoman and her son, for the son of the bondwoman shall not be heir with the son of the freewoman.' a
 
 ### Liberty of the Spirit
@@ -207,9 +199,12 @@ GAL.5:15 But if you bite and devour one another, beware lest you be consumed by 
 GAL.5:16 I say then: Walk in the Spirit, and you shall not fulfill the lust of the flesh.
 GAL.5:17 For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, so that you do not do the things that you wish.
 GAL.5:18 But if you are led by the Spirit, you are not under the law.
-GAL.5:19 Now the works of the flesh are evident, which are: adultery, afornication, uncleanness, lewdness, 20 idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies, 21 envy, murders, adrunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God.
-GAL.5:22 But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, 23 gentleness, self-control. Against such there is no law.
-GAL.5:24 And those who are Christ's have crucified the flesh with its passions and desires.
+GAL.5:19 Now the works of the flesh are evident, which are: adultery, afornication, uncleanness, lewdness,
+GAL.5:20 idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies,
+GAL.5:21 envy, murders, adrunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God.
+GAL.5:22 But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,
+GAL.5:23 gentleness, self-control. Against such there is no law.
+GAL.5:24 And those who are Christ'shave crucified the flesh with its passions and desires.
 GAL.5:25 If we live in the Spirit, let us also walk in the Spirit.
 
 ### Do Good to All

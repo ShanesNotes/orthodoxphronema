@@ -1,7 +1,7 @@
 {
   "book_code": "MAL",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:03:23.240184",
+  "timestamp": "2026-03-11T16:09:36.639727",
   "registry_version": "1.3.0",
   "body_checksum": "93aa32eed243c3489d8fa9b301a07a9d4ea60d7fb2b5915efdc6229d28ff4f44",
   "validation": {
@@ -43,5 +43,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

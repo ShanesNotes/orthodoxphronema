@@ -23,11 +23,9 @@ has_additions: false
 2MA.1:7 'In the one hundred and sixty-ninth year, in the reign of Demetrius, we Jews wrote to you at the culminating point of the affliction that came upon us, in those years from the time Jason and his followers revolted against the holy land and the kingdom,
 2MA.1:8 and burned the gate and shed innocent blood. We prayed to the Lord and we were heard. So we offered sacrifice and fine flour, lit the lamps, and set out the loaves.
 
-### Letter to Aristobulus and Those in Egypt
 
 2MA.1:9 Now then, celebrate the Feast of Tabernacles in the month of Chislev, in the one hundred and eighty-eighth year.'
 
-### Thanksgiving for Protection
 
 2MA.1:10 'Those in Jerusalem and in Judea, and the senate and Judas, to Aristobulus, who is from the family of the anointed priests and is the teacher of Ptolemy the king, and to the Jews who are in Egypt, greetings and good health.
 2MA.1:11 'Since we were saved by God from great dangers, we thank Him abundantly as those drawn up in battle order against a king.
@@ -37,7 +35,6 @@ has_additions: false
 2MA.1:15 When the priests of the temple of Nanea set out the treasures, and Antiochus, with a few men, had come inside the enclosed wall of the sacred precinct, they closed the temple as soon as he entered it.
 2MA.1:16 Then they opened the secret door of the ceiling and threw stones. They struck down the governor and his men, dismembered them, and took their heads and threw them to the people outside.
 
-### The Holy Fire
 
 2MA.1:17 Blessed in every way be our God, who delivered up the ungodly men.
 2MA.1:18 'Since on the twenty-fifth day of Chislevwe will celebrate the purification of the temple, we thought it needful to notify you that you might also celebrate the Feast of Tabernacles and the feast of the fire, when Nehemiah, who built the temple and the altar, offered sacrifices.
@@ -46,7 +43,6 @@ has_additions: false
 2MA.1:21 But when the things of the sacrifices were brought to be offered, Nehemiah told the priests to sprinkle the liquid on the wood and the things laid upon it.
 2MA.1:22 When this was done and some time had elapsed, and the sun, which had been clouded over, shone forth, a great fire flared up, causing everyone to marvel.
 
-### The Prayer of Nehemiah
 
 2MA.1:23 While the sacrifice was being consumed, the priests and everyone offered prayer. Jonathan led and all the rest responded, as did Nehemiah.
 2MA.1:24 'The prayer was offered as follows: 'O Lord, Lord God, Creator of all things, fearful, mighty, righteous, and merciful, the only King and Good One,
@@ -62,7 +58,6 @@ has_additions: false
 2MA.1:34 So the king investigated the matter, enclosed the place, and made it sacred.
 2MA.1:35 Then the king exchanged many excellent gifts with those he favored.
 
-### Jeremiah Hides the Text
 
 2MA.1:36 Nehemiah and his men called this 'nephthar,' which means 'purification,' but by most people it is called 'nephtha.'
 ## Chapter 2
@@ -79,7 +74,6 @@ has_additions: false
 2MA.2:10 Just as Moses prayed to the Lord and fire came down from heaven and consumed the sacrifice, so Solomon also prayed, and the fire came down and consumed the whole burnt offerings.
 2MA.2:11 Moses said, 'They were consumed because the sin offering had not been eaten.'
 
-### Memoirs of Nehemiah
 
 2MA.2:12 Likewise Solomon also celebrated the eight days.
 2MA.2:13 'The same things are reported in the records and in the memoirs of Nehemiah, and also that he founded a library and gathered books about the kings and the prophets, and the writings of David, and letters of kings about votive offerings.
@@ -88,7 +82,6 @@ has_additions: false
 2MA.2:16 'Since then we are about to celebrate the purification, we write to you. Therefore you will do well to celebrate the days.
 2MA.2:17 For it is God who saved all His people, and gave back the inheritance to all, and the kingdom, the priesthood, and the consecration,
 
-### Author's Introduction
 
 2MA.2:18 as He promised through the law. For we hope in God that He will have mercy upon us soon and gather us from everywhere under heaven into His holy place; for He delivered us from great evils and has purified the place.'
 2MA.2:19 Now the account of Judas Maccabeus and his brothers, the purification of the great temple, and the consecration of the altar,
@@ -105,7 +98,6 @@ has_additions: false
 2MA.2:30 It is fitting for the originator of a history to enter into a thorough discussion of words and be inquisitive about every detail,
 2MA.2:31 but one who pursues brevity of narrative must be permitted to forgo exhaustive treatment.
 
-### Disagreement between Onias and Simon
 
 2MA.2:32 Therefore from hereon let us begin our narrative, adding only so much to what has already been said; for it is foolish to lengthen the preface of a history, but cut short the history itself.
 ## Chapter 3
@@ -116,7 +108,6 @@ has_additions: false
 2MA.3:4 But a certain Simon, from the tribe of Benjamin, who had been made protector of the temple, was at variance with the high priest about the administration of the city market.
 2MA.3:5 Thus when he could not prevail over Onias, he went to Apollonius, son of Tarsus, who at that time was governor of Coelesyria and Phoenicia.
 
-### Heliodorus Dispatched to Jerusalem
 
 2MA.3:6 He reported to him the untold wealth in the temple treasury at Jerusalem, so much that the funds could not be counted. Furthermore they did not belong to the account of the sacrifices, and it was possible they could fall under the authority of the king.
 2MA.3:7 When Apollonius met the king, he informed him about the money that was disclosed to him. So the king chose Heliodorus, who was over his affairs, and sent him with orders to remove the aforesaid money.
@@ -134,7 +125,6 @@ has_additions: false
 2MA.3:19 Women, girded with sackcloth beneath their breasts, amassed in the streets. Some of the virgins who were kept inside ran together to the gates, some to the walls, and others peeked out the windows.
 2MA.3:20 All stretched out their hands to heaven and made entreaty.
 
-### The Lord Stops Heliodorus
 
 2MA.3:21 There was something pitiable in the prostrations of the entire populace and in the anxiety and great anguish of the high priest.
 2MA.3:22 So they called upon the Almighty Lord to keep safe and secure what had been entrusted for those who had placed them in trust;
@@ -150,7 +140,6 @@ has_additions: false
 2MA.3:32 So the high priest, suspecting the king might think some foul play was perpetrated by the Jews regarding Heliodorus, offered sacrifice for his recovery.
 2MA.3:33 While the high priest was making the offering of atonement, the same young men again appeared to Heliodorus, dressed in the same apparel. They stood and said, 'Be very grateful to Onias the high priest, for on his account the Lord has granted you your life.
 
-### Heliodorus Gives Thanks to God
 
 2MA.3:34 Now since you were punished by heaven, report to all men the majestic power of God.' Then having said this, they became invisible.
 2MA.3:35 Then Heliodorus offered sacrifice to the Lord and made very great vows to Him who had spared his life. So after he gladly received Onias, he returned with his forces to the king.
@@ -159,7 +148,6 @@ has_additions: false
 2MA.3:38 'If you have any enemy or plotter against you, send him there, for you will receive him back thoroughly punished, if he should escape at all. For truly there is some power of God about that place.
 2MA.3:39 For He who has His dwelling in heaven watches over that place and aids it, and destroys those who come to do it harm.'
 
-### Simon's Rage
 
 2MA.3:40 So this was how things turned out concerning Heliodorus and the preservation of the treasury.
 ## Chapter 4
@@ -170,7 +158,6 @@ has_additions: false
 2MA.4:4 Onias realized the danger of Simon's love of strife, and that Apollonius, son of Menestheus and governor of Coelesyria and Phoenicia, was even intensifying Simon's malice.
 2MA.4:5 So he went to the king, not to accuse his fellow citizens, but to look out for the common good, both public and private.
 
-### Jason Makes the Jews Learn Greek Customs
 
 2MA.4:6 For he saw that without the king's attention, matters could not reach a peaceful settlement, and that Simon would not cease from his fury.
 2MA.4:7 When Seleucus died and Antiochus, also called Epiphanes, succeeded to the kingdom, Jason the brother of Onias obtained the high priesthood by corruption.
@@ -189,7 +176,6 @@ has_additions: false
 2MA.4:20 So this money, intended by the sender for the sacrifice to Hercules, was by the decision of those who carried it applied to the construction of battleships.
 2MA.4:21 When Apollonius the son of Menestheus was sent to Egypt to share in the festal proclamation of King Philometor, Antiochus learned that Philometor had become hostile to his government. So he was concerned for his own safety. Therefore, after he reached Joppa, he went on to Jerusalem.
 
-### Menelaus Buys the High Priesthood
 
 2MA.4:22 He was magnificently received by Jason and the city, being ushered in with torches and shouts. Then he encamped in Phoenicia.
 2MA.4:23 Then after a period of three years, Jason sent Menelaus, son of the previously mentioned Simon, to carry the money to the king and to complete the records of necessary business.
@@ -199,7 +185,6 @@ has_additions: false
 2MA.4:27 So Menelaus took hold of the high priesthood, but he did not pay regularly any of the money promised to the king.
 2MA.4:28 Thus when Sostratus the commander of the citadel kept demanding payment, since the collection of revenue was his responsibility, the two of them were summoned before the king on this account.
 
-### Onias Is Murdered
 
 2MA.4:29 Menelaus left his own brother Lysimachus as his court official in the high priesthood, while Sostratus left Crates in charge of his Cyprian troops.
 2MA.4:30 While these things were taking place, it came about that the cities of Tarsus and Mallus revolted because they were given as a gift to Antiochis, the king's concubine.
@@ -211,7 +196,6 @@ has_additions: false
 2MA.4:36 So when the king returned from the region of Cilicia, the Jews in the city pleaded with him regarding the senseless murder of Onias, and the Greeks also felt the common hatred of the crime.
 2MA.4:37 Therefore Antiochus was grieved at heart and filled with pity; and he wept on account of the decency and good behavior of the deceased.
 
-### Menelaus Tried for Lysimachus's Murder
 
 2MA.4:38 Inflamed with anger, he immediately stripped off the purple robe from Andronicus and tore off his garments. Then he led him around the whole city to that very place where he sinned against Onias, and there he put the bloodstained man to death. Thus the Lord repaid him with the punishment he deserved.
 2MA.4:39 When much sacrilegious plunder by Lysimachus took place in the city with the consent of Menelaus, and when the report of this spread abroad, the people gathered together against Lysimachus, because many of the gold vessels had already been carried away.
@@ -232,7 +216,6 @@ has_additions: false
 2MA.5:2 So it came about throughout the entire city of Jerusalem that for almost forty days there were apparitions of horsemen dressed in apparel interwoven with gold and moving quickly through the air, in companies fully armed with spears and drawn swords-
 2MA.5:3 troops of horsemen set in battle array and making attacks and counterattacks on this side and on that, with the movement of shields and a multitude of spears, and the shooting of arrows, and the brightness of gold ornaments, and breastplates of all sorts.
 
-### Jason's Assault on Jerusalem
 
 2MA.5:4 Therefore all the men prayed that the appearance might be for the good.
 2MA.5:5 But when a false report was circulated that Antiochus was dead, Jason took no less than a thousand men and suddenly made an assault upon the city. When the men on the wall were driven off and the city was finally taken, Menelaus was banished into the citadel.
@@ -241,7 +224,6 @@ has_additions: false
 2MA.5:8 In the end, his life reached an ugly conclusion. He was accused before Aretas the ruler of the Arabs, but fled from city to city. He was pursued by all, detested as a rebel against the laws, and abhorred as an executioner of his homeland and fellow-citizens. Finally he was cast ashore in Egypt.
 2MA.5:9 Thus he who so often banished many from their homelands himself perished in a strange land; for he had set sail to the Lacedaimonians to obtain protection because of their kinship.
 
-### Antiochus Kills and Desecrates
 
 2MA.5:10 So he who cast out many without a burial was unmourned, for he had no funeral of his own, nor did he share a place in the tomb of his fathers.
 2MA.5:11 When the news of what happened reached King Antiochus, he took it to mean that Judea was in revolt. So inwardly he became like a wild beast, left Egypt, and took the city in war.
@@ -261,7 +243,6 @@ has_additions: false
 2MA.5:25 After he arrived in Jerusalem and pretended to be peaceloving, this man waited until the holy day of the Sabbath; then, finding the Jews not at work, he commanded his men to take up arms.
 2MA.5:26 He put to the sword all those who came out to see them; then he rushed into the city with his armed men and killed great numbers of people.
 
-### Persecution of the Jews
 
 2MA.5:27 But Judas Maccabeus, with about nine others, withdrew into the desert so as not to share in the defilement. He kept himself and those with him alive in the mountains as do wild animals, by continually eating food that grew wild.
 ## Chapter 6
@@ -283,7 +264,6 @@ has_additions: false
 2MA.6:15 so as to take vengeance on us afterwards when we have reached the end of our sinning.
 2MA.6:16 For this very reason He never withdraws His mercy from us. Although He disciplines us with calamities, He does not abandon His own people.
 
-### Eleazar Is Martyred
 
 2MA.6:17 Let what I have said serve as a reminder, but we must continue the narrative.
 2MA.6:18 Eleazar, one of the scribes in high position, a man already advanced in years and of a noble presence, was forced to open his mouth to eat swine's flesh.
@@ -300,7 +280,6 @@ has_additions: false
 2MA.6:29 After he said this, he went straight to the rack, and those who had just demonstrated good will toward him now showed hostility, because they took the words he had spoken to be madness.
 2MA.6:30 When he was about to die from the blows, he groaned and said, 'It is evident to the Lord in His holy knowledge that, though I could have been saved from death, I am enduring terrible sufferings in my body from this beating, but in my soul I gladly suffer these things because I fear Him.'
 
-### A Mother and Her Sons Are Martyred
 
 2MA.6:31 So in this manner he died, leaving in his death an example of his noble character and a memorial of his virtue, not only to the young but to the many people of his nation.
 ## Chapter 7
@@ -347,7 +326,6 @@ has_additions: false
 2MA.7:40 So, putting his trust completely in the Lord, he died in his innocence.
 2MA.7:41 Last of all, the mother died, after her sons.
 
-### The Revolt of Judas Maccabeus
 
 2MA.7:42 Let this be enough, then, about the eating of sacrifices and the extreme tortures.
 ## Chapter 8
@@ -359,7 +337,6 @@ has_additions: false
 2MA.8:5 As soon as Maccabeus had his army in order, he was not to be withstood by the Gentiles, for the wrath of the Lord had turned to mercy.
 2MA.8:6 He came without notice to towns and villages and set them on fire. At opportune times he regained places and put to flight not a few of the enemy.
 
-### Nicanor Attacks Judea
 
 2MA.8:7 He found the night the best time for such hostilities. So talk of his manliness spread everywhere.
 2MA.8:8 When Philip realized that Judas was making progress little by little and that he was advancing with more frequent efficiency, he wrote to Ptolemy, the governor of Coelesyria and Phoenicia, for aid to the king's government.
@@ -375,7 +352,6 @@ has_additions: false
 2MA.8:18 'For they trust in arms and bold acts,' he said, 'but we trust in Almighty God, who with only one nod is able to overthrow both those who come against us and the entire world.'
 2MA.8:19 He also spoke to them of the times help came to their forefathers, how the one hundred and eighty-five thousand perished under Sennacherib,
 
-### Judas' Victories
 
 2MA.8:20 and how in the time when the battle took place in Babylonia against the Galatians, eight thousand in all entered the fray, along with four thousand Macedonians. But when the Macedonians were perplexed, the eight thousand destroyed the one hundred and twenty thousand because of the help that came to them from heaven. Then they took many spoils.
 2MA.8:21 With these words he gave them good courage and prepared them to die on behalf of their laws and their homeland. Then he divided his forces into four parts.
@@ -394,7 +370,6 @@ has_additions: false
 2MA.8:34 The thrice-sinful Nicanor had brought the thousand merchants for the purchase of the Jews,
 2MA.8:35 but he was humbled with the help of the Lord by the opponents he regarded as of the least account. Thus, after he succeeded primarily in the destruction of his own army, he took off his glorious military apparel and made his way inland alone like a fugitive until he reached Antioch.
 
-### God Punishes Antiochus
 
 2MA.8:36 There, he who had undertaken to establish taxes for the Romans by the capture of the people of Jerusalem proclaimed that the Jews had a Defender, and therefore were invulnerable, because they followed the laws appointed beforehand by Him.
 ## Chapter 9
@@ -416,7 +391,6 @@ has_additions: false
 2MA.9:15 Moreover, the Jews, whom he did not consider worthy of a burial place, but to be thrown out along with their children for the wild animals and the birds to eat, he would make them all equal to citizens of Athens.
 2MA.9:16 Furthermore, the holy temple, which he had plundered in times past, he would adorn with the finest offerings, and restore-many times over-all the holy vessels; and the taxes assigned to the sacrifices he would pay from his own revenues.
 
-### A Final Letter to the Jews
 
 2MA.9:17 In addition to this, he also would become a Jew and visit every inhabited place to proclaim the might of God.
 2MA.9:18 But when his sufferings did not cease at all, for the judgment of God came upon him justly, he was driven to despair over what had happened to him. Thus he wrote the Jews the letter recorded below, in the form of a supplication. It contained the following words:
@@ -431,7 +405,6 @@ has_additions: false
 2MA.9:27 For I am persuaded that he, following my policy, will treat you kindly and considerately.'
 2MA.9:28 So the murderer and blasphemer suffered very grievously, as he had treated others. For he died a miserable death in the mountains of a foreign land.
 
-### Judas Maccabeus Purifies the Temple
 
 2MA.9:29 Then Philip, who grew up with him, took his body home. But fearing the son of Antiochus, he went instead to Ptolemy Philometor in Egypt.
 ## Chapter 10
@@ -445,14 +418,12 @@ has_additions: false
 2MA.10:7 Therefore, carrying ivy-wreathed wands, beautiful olive branches, and even palm branches, they offered hymns of praise to Him who made possible the purifying of His own place.
 2MA.10:8 They decreed by a common edict and vote that the whole Jewish nation should celebrate these days every year.
 
-### The Reign of Antiochus V Begins
 
 2MA.10:9 Such then was the end of Antiochus, called Epiphanes.
 2MA.10:10 Now we will tell what took place under Antiochus Eupator, the son of that ungodly man, and will set forth and encompass briefly the calamities of the wars.
 2MA.10:11 For this man inherited the kingdom and appointed a certain Lysias as chief governor of Coelesyria and Phoenicia.
 2MA.10:12 Then Ptolemy, called Macron, led the way in protecting the rights of the Jews because of the wrongdoing that happened to them, and he attempted to maintain peaceful relations with them.
 
-### The Idumeans Fall to Judas
 
 2MA.10:13 For this reason he was accused before Eupator by the king's friends. He heard himself called a traitor at every turn because he abandoned Cyprus, entrusted to him by Philometor, and defected to Antiochus Epiphanes. Since he could not exercise his noble authority honorably, he took poison and ended his life.
 2MA.10:14 When Gorgias became governor of the region, he maintained mercenary troops and attacked the Jews at every turn.
@@ -465,7 +436,6 @@ has_additions: false
 2MA.10:21 When news of what happened reached Maccabeus, he gathered the leaders of the people and accused them of selling their brothers for money by releasing their enemies to fight against them.
 2MA.10:22 Then he killed these men who had become traitors and immediately seized the two towers.
 
-### Maccabeus Victorious over Timothy
 
 2MA.10:23 Faring well at arms in everything he undertook, he destroyed more than twenty thousand in the two fortresses.
 2MA.10:24 Now Timothy, who had been defeated previously by the Jews, gathered a very massive and powerful force of mercenaries and assembled cavalry from Asia in no small number. Then he arrived as though he would take Judea captive.
@@ -483,7 +453,6 @@ has_additions: false
 2MA.10:36 Others likewise went up during the distraction against those inside and burned down the towers. They kindled fires and burned the blasphemers alive. Others broke through the gates, let in the rest of the force, and took control of the city.
 2MA.10:37 They killed Timothy, who was hiding in a well, and his brother Chaereas and Apollophanes.
 
-### The Defeat of Lysias
 
 2MA.10:38 When they had done this, they blessed the Lord with hymns and praises, thanking Him who shows great kindness to Israel and gives them victory.
 ## Chapter 11
@@ -500,7 +469,6 @@ has_additions: false
 2MA.11:10 Because the Lord had mercy on them, they advanced with their weapons, having with them their ally from heaven.
 2MA.11:11 They hurled themselves against the enemy like lions and overthrew eleven thousand of them, as well as sixteen hundred cavalry, and forced all of them to flee.
 
-### A Peace Accord with the Jews
 
 2MA.11:12 Most of them escaped, wounded and naked, and Lysias himself escaped by a disgraceful flight.
 2MA.11:13 But as Lysias was not lacking in intelligence, he discussed the loss that had happened to him. He realized the Hebrews were unconquerable, because the Almighty God was their ally.
@@ -529,7 +497,6 @@ has_additions: false
 2MA.11:36 But the matters he decided to report to the king, as soon as you have considered these things, send someone promptly that we may explain what is suitable for you, for we are on our way to Antioch.
 2MA.11:37 For this reason make haste and send someone to let us know your intentions.
 
-### Judas Prevails in Joppa and Jamnia
 
 2MA.11:38 Farewell. The one hundred and forty-eighth year, the fifteenth of Xanthicus.'
 ## Chapter 12
@@ -543,7 +510,6 @@ has_additions: false
 2MA.12:7 But since the gates of the city were closed, he departed, intending to come again and root out the whole community of Joppa.
 2MA.12:8 However, when he learned that the people in Jamnia intended to wipe out the Jews who were living among them in the same way,
 
-### Defeat of the Nomads
 
 2MA.12:9 he attacked the Jamnian people by night and set the harbor and the fleet on fire; therefore, the glow of the light was visible as far as Jerusalem, thirty miles away.
 2MA.12:10 When they had gone about a mile from there on their march against Timothy, Arabs attacked him with no less than five thousand infantry and five hundred cavalry.
@@ -553,7 +519,6 @@ has_additions: false
 2MA.12:14 Those within it trusted in the security of the walls and their supply of provisions. They behaved very contemptuously toward Judas and his men, insulting them and even blaspheming and saying unlawful things.
 2MA.12:15 But Judas and his men called upon the great Lord of the world, who overthrew Jericho without battering rams or engines of war in the times of Joshua. Then Judas and his men assaulted the walls.
 
-### Victory over Timothy's Garrison
 
 2MA.12:16 They overpowered the city by the will of God and inflicted such indescribable slaughter that the adjoining lake, a quarter of a mile wide, seemed to be filled with blood.
 2MA.12:17 From there, they went ninety-five miles and continued on to Charax, to the Jews who were called Toubiani.
@@ -565,12 +530,11 @@ has_additions: false
 2MA.12:23 Judas pursued them with great vigor, piercing the sinful men with the sword and killing as many as thirty thousand of them.
 2MA.12:24 Timothy himself fell into the hands of Dositheus and Sosipater and their soldiers. With great trickery he pleaded with them to let him go safely, because he held the parents of most of them and some of their brothers, to whom no regard would be shown.
 
-### Other Campaigns
 
 2MA.12:25 So when with many words he had confirmed his solemn promise to restore them unharmed, they released him for the sake of rescuing their brothers.
-2MA.12:26 Then Judas marched against Carnaim and the temple of Atargatis, and destroyed twentyfive thousand people.
+2MA.12:26 Then Judas marched against Carnaim and the temple of Atargatis, and destroyed twenty-five thousand people.
 2MA.12:27 After the rout and slaughter of these, he also marched on Ephron, a fortified town where Lysias lived with countless people of all nations. Strong young men were set as guards before the walls and fought mightily. Many provisions of war engines and missiles were stored there.
-2MA.12:28 But the Jews called upon the Lord, who with power crushes the strength of His enemies. Thus they took possession of the city and killed as many as twentyfive thousand of those within it.
+2MA.12:28 But the Jews called upon the Lord, who with power crushes the strength of His enemies. Thus they took possession of the city and killed as many as twenty-five thousand of those within it.
 2MA.12:29 Moving away from Ephron, they hurried on to Scythopolis, seventy-five miles from Jerusalem.
 2MA.12:30 But when the Jews who lived there testified to the goodwill the people of Scythopolis had shown them and their civilized treatment of them in times of trouble,
 2MA.12:31 they thanked them and encouraged them also to be favorable to the Jewish race in the future. Then Judas and his men arrived at Jerusalem, the Feast of Weeks being close at hand.
@@ -580,7 +544,6 @@ has_additions: false
 2MA.12:35 But a certain Dositheus, one of Bacenor's men, a man on horseback and a strong man, grabbed hold of Gorgias. He took hold of his cloak and was dragging him off by sheer strength. He intended to take the accursed man alive, but one of the Thracian cavalry chased him down and severed his arm. So Gorgias fled to Marisa.
 2MA.12:36 Now Esdris and his men had been fighting for along while and were tired. So Judas called on the Lord to show Himself as their ally and leader in battle.
 
-### Prayers for the Fallen
 
 2MA.12:37 They began to sound the battle cry in the language of their forefathers and sang hymns. Then he charged against the troops of Gorgias when they least expected it, and set them to flight.
 2MA.12:38 Then Judas retrieved his army and entered the city of Adullam. As the seventh day was dawning, they purified themselves according to custom and spent the Sabbath there.
@@ -591,9 +554,8 @@ has_additions: false
 2MA.12:43 The noble Judas exhorted his people to guard themselves from sin, for with their own eyes they had seen what happened to those who died in battle because of their sin. He then took up an offering from his soldiers amounting to two thousand silver drachmas, and sent it to Jerusalem to present as a sin offering. In doing so he acted properly and with honor, taking note of the resurrection.
 2MA.12:44 For if he were not looking for the resurrection of those fallen, it would have been utterly foolish to pray for the departed.
 
-### The Death of Menelaus
 
-2MA.12:45 But since he was looking to the reward of splendor laid up for those who repose in godliness, it was a holy and godly purpose. Thus he made atonement for the fallen, so as to set them free from their transgression.
+2MA.12:45 But since he was looking to the reward of splendor laid up for those who repose in godliness, it was a holy and godly purpose. Thus he made atonement for the fallen, so as to set them free from their TRANSGRESSION.
 ## Chapter 13
 
 2MA.13:1 In the one hundred forty-ninth year, Judas and his men got word that Antiochus Eupator was marching against Judea with a huge army,
@@ -604,7 +566,6 @@ has_additions: false
 2MA.13:6 There they all shove anyone guilty of sacrilege or who has done excessive evils to their destruction.
 2MA.13:7 Thus it happened that Menelaus the lawbreaker died by such a destiny. He was even deprived of a burial in the ground.
 
-### The Jews Prevail near Modein
 
 2MA.13:8 Now this was altogether just, for since he committed many sins against the sacred altar, whose fire and ashes were holy, he should get death for himself in ashes.
 2MA.13:9 The king was coming with barbarous arrogance to face the Jews with things far worse than anything done by his father.
@@ -616,7 +577,6 @@ has_additions: false
 2MA.13:15 After he gave his men the watchword, 'God's Victory,' and chose his best young men, he besieged the royal palace by night, killing as many as two thousand men in the camp. He also slew the leading elephant and its rider.
 2MA.13:16 As a result, they filled the camp with terror and disorder and departed victoriously.
 
-### Antiochus V Makes Peace with the Jews
 
 2MA.13:17 This all happened by daybreak, because the protection of the Lord was with him.
 2MA.13:18 Thus the king tasted the courage of the Jews and plotted a strategy against their positions.
@@ -628,7 +588,6 @@ has_additions: false
 2MA.13:24 He welcomed Maccabeus, and Hegemonides was left as governor from Ptolemais to Gerar.
 2MA.13:25 Then he went to Ptolemais, but the people of Ptolemais were indignant over the treaty with the Jews. In fact, they were so enraged they sought to annul its provisions.
 
-### Alcimus Accuses Judas
 
 2MA.13:26 But Lysias took the public stage and defended the treaty as best he could. He did persuade them, and gaining their goodwill, he returned to Antioch. This is the outcome of the king's strategy and settlement.
 ## Chapter 14
@@ -643,7 +602,6 @@ has_additions: false
 2MA.14:8 I came here first out of my honest concern for the well-being of the king, and second out of consideration for my own fellow-citizens; for through the rashness of those just mentioned, our entire nation is suffering misfortune.
 2MA.14:9 Because you, O king, are acquainted with the details of these things, please take care of our country and our hard-pressed people with the gracious love for mankind that you have for everyone.
 
-### Nicanor Sent to Kill Judas
 
 2MA.14:10 For as long as Judas is alive, it will be impossible for the government to experience peace.'
 2MA.14:11 After he said this, the rest of the king's friends who bore malice against Judas aroused even greater anger in Demetrius.
@@ -653,7 +611,6 @@ has_additions: false
 2MA.14:15 The Jews got word of Nicanor's coming and the assault of the Gentiles. So they sprinkled their heads with earth and prayed to Him who establishes His people forever, and always helps His own inheritance by making Himself present.
 2MA.14:16 At the command of Judas their leader, they immediately moved the army from there and met the enemy in battle at a village called Dessau.
 
-### A Short-Lived Alliance
 
 2MA.14:17 Simon, the brother of Judas, had encountered Nicanor in battle, but was halted because of the unexpected silence of those adversaries.
 2MA.14:18 Nevertheless, when Nicanor heard of the bravery of Judas and his men and their courage in battle for their country, he pulled back from deciding the matter by bloodshed.
@@ -664,7 +621,6 @@ has_additions: false
 2MA.14:23 Nicanor remained in Jerusalem and did nothing improper, but he dismissed the crowd of people that had gathered.
 2MA.14:24 He also kept Judas in his presence continually, for he was heartily attached to the man.
 
-### A Rekindled Enmity
 
 2MA.14:25 He encouraged him to marry and have children. Thus Judas got married, settled down, and lived a normal life.
 2MA.14:26 When Alcimus became aware of their goodwill for each other, he took the treaty that was made and went to King Demetrius. He told him Nicanor was disloyal to the government, since he had appointed Judas, the plotter against the kingdom, to be his successor.
@@ -678,7 +634,6 @@ has_additions: false
 2MA.14:34 After he said this, he departed. Then the priests reached out their hands to heaven, calling upon the everlasting Defender of our nation, saying,
 2MA.14:35 'O Lord of all, while You have need of nothing, You were pleased to have a temple for Your dwelling in our midst.
 
-### Razis the Elder Dies
 
 2MA.14:36 Now then, O Holy One, O Lord of all holiness, preserve forever undefiled this house so recently purified.'
 2MA.14:37 Razis was one of the elders of Jerusalem and was denounced before Nicanor as a man who loved his fellow-citizens, a man held in high esteem and called a father of the Jews because of his goodwill.
@@ -691,7 +646,6 @@ has_additions: false
 2MA.14:44 But as people quickly stepped back, there was an open space, and he landed in the midst of the empty area.
 2MA.14:45 He was still alive. In a blaze of anger, he stood up; and though his blood gushed like a spring and his injuries were severe, he darted through the crowd. He climbed up on a steep rock,
 
-### Nicanor's Failed Plan
 
 2MA.14:46 and with his blood completely drained out of him, he tore out his intestines, took them in both hands and threw them at the crowd as he called on the Lord of life and spirit to return them to him again. Such was the manner of his death.
 ## Chapter 15
@@ -701,7 +655,6 @@ has_additions: false
 2MA.15:3 Then the thrice-sinful man asked if there were a Lord in heaven who ordered the keeping of the Sabbath day.
 2MA.15:4 When they declared, 'It is the living Lord Himself, the Ruler in heaven, who commanded the keeping of the seventh day,'
 
-### Judas Maccabeus Mobilizes His Men
 
 2MA.15:5 he responded, 'I am a ruler on earth. I command you to take up your weapons and complete the king's business.' Nevertheless, he was unsuccessful in carrying out his heinous plan.
 2MA.15:6 In his utter vanity and arrogance, Nicanor decided to put up a public monument of victory over Judas and his army.
@@ -735,7 +688,6 @@ has_additions: false
 2MA.15:34 Then everyone lifted their eyes to heaven and blessed the Lord who visited them, saying, 'Blessed is He who kept His own place undefiled.'
 2MA.15:35 Judas then fastened Nicanor's head to the wall of the citadel, a visible symbol to all present of the Lord's help.
 
-### The End
 
 2MA.15:36 So they all decreed by public vote never to allow this day to be unobserved, but to celebrate it on the thirteenth day of the twelfth month, called Adar in the Syrian language—the day before Mordecai's day.
 2MA.15:37 This is the way things turned out for Nicanor. So from that time on the city has been controlled by the Hebrews. Thus I will end my story here.

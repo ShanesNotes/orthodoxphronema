@@ -27,11 +27,13 @@ TIT.1:7 For abishop amust be blameless, as asteward of God, not self-willed, not
 
 ### Opposition to False Teachers
 
-TIT.1:8 but hospitable, alover of what is good, sober-minded, just, holy, self-controlled, 9 holding fast the faithful word as he has been taught, that he may be able, by sound doctrine, both to exhort and convict those who contradict.
+TIT.1:8 but hospitable, alover of what is good, sober-minded, just, holy, self-controlled,
+TIT.1:9 holding fast the faithful word as he has been taught, that he may be able, by sound doctrine, both to exhort and convict those who contradict.
 TIT.1:10 For there are many insubordinate, both idle talkers and deceivers, especially those of the circumcision,
 TIT.1:11 whose mouths must be stopped, who subvert whole households, teaching things which they ought not, for the sake of dishonest gain.
 TIT.1:12 One of them, aprophet of their own, said, 'Cretans are always liars, evil beasts, lazy gluttons.'
-TIT.1:13 This testimony is true. Therefore rebuke them sharply, that they may be sound in the faith, 14 not giving heed to Jewish fables and commandments of men who turn from the truth.
+TIT.1:13 This testimony is true. Therefore rebuke them sharply, that they may be sound in the faith,
+TIT.1:14 not giving heed to Jewish fables and commandments of men who turn from the truth.
 TIT.1:15 To the pure all things are pure, but to those who are defiled and unbelieving nothing is pure; but even their mind and conscience are defiled.
 
 ### Sound Doctrine Produces Proper Behavior
@@ -45,12 +47,17 @@ TIT.2:3 the older women likewise, that they be reverent in behavior, not slander
 TIT.2:4 that they admonish the young women to love their husbands, to love their children,
 TIT.2:5 to be discreet, chaste, homemakers, good, obedient to their own husbands, that the word of God may not be blasphemed.
 TIT.2:6 Likewise, exhort the young men to be sober-minded,
-TIT.2:7 in all things showing yourself to be apattern of good works; in doctrine showing integrity, reverence, incorruptibility, a 8 sound speech that cannot be condemned, that one who is an opponent may be ashamed, having nothing evil to say of you. a
+TIT.2:7 in all things showing yourself to be apattern of good works; in doctrine showing integrity, reverence, incorruptibility, a
+TIT.2:8 sound speech that cannot be condemned, that one who is an opponent may be ashamed, having nothing evil to say of you. a
 
 ### Proper Behavior Supports Sound Doctrine
 
-TIT.2:9 Exhort bondservants to be obedient to their own masters, to be well pleasing in all things, not answering back, 10 not pilfering, but showing all good fidelity, that they may adorn the doctrine of God our Savior in all things.
-TIT.2:11 For the grace of God that brings salvation has appeared to all men, 12 teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in the present age, 13 looking for the blessed hope and glorious appearing of our great God and Savior Jesus Christ, 14 who gave Himself for us, that He might redeem us from every lawless deed and purify for Himself His own special people, zealous for good works.
+TIT.2:9 Exhort bondservants to be obedient to their own masters, to be well pleasing in all things, not answering back,
+TIT.2:10 not pilfering, but showing all good fidelity, that they may adorn the doctrine of God our Savior in all things.
+TIT.2:11 For the grace of God that brings salvation has appeared to all men,
+TIT.2:12 teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in the present age,
+TIT.2:13 looking for the blessed hope and glorious appearing of our great God and Savior Jesus Christ,
+TIT.2:14 who gave Himself for us, that He might redeem us from every lawless deed and purify for Himself His own special people, zealous for good works.
 
 ### Kindness Toward All Men
 
@@ -63,7 +70,10 @@ TIT.3:1 emind them to be subject to rulers and authorities, to obey, to be ready
 
 TIT.3:2 to speak evil of no one, to be peaceable, gentle, showing all humility to all men.
 TIT.3:3 For we ourselves were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful and hating one another.
-TIT.3:4 But when the kindness and the love of God our Savior toward man appeared, 5 not by works of righteousness which we have done, but according to His mercy He saved us, through the washing of regeneration and renewing of the Holy Spirit, 6 whom He poured out on us abundantly through Jesus Christ our Savior, 7 that having been justified by His grace we should become heirs according to the hope of eternal life.
+TIT.3:4 But when the kindness and the love of God our Savior toward man appeared,
+TIT.3:5 not by works of righteousness which we have done, but according to His mercy He saved us, through the washing of regeneration and renewing of the Holy Spirit,
+TIT.3:6 whom He poured out on us abundantly through Jesus Christ our Savior,
+TIT.3:7 that having been justified by His grace we should become heirs according to the hope of eternal life.
 
 ### Heretical and Schismatic Members
 
@@ -72,7 +82,8 @@ TIT.3:9 But avoid foolish disputes, genealogies, contentions, and strivings abou
 
 ### Conclusion
 
-TIT.3:10 Reject adivisive man after the first and second admonition, 11 knowing that such aperson is warped and sinning, being self-condemned.
+TIT.3:10 Reject adivisive man after the first and second admonition,
+TIT.3:11 knowing that such aperson is warped and sinning, being self-condemned.
 TIT.3:12 When I send Artemas to you, or Tychicus, be diligent to come to me at Nicopolis, for I have decided to spend the winter there.
 TIT.3:13 Send Zenas the lawyer and Apollos on their journey with haste, that they may lack nothing.
 TIT.3:14 And let our people also learn to maintain good works, to meet urgent needs, that they may not be unfruitful.

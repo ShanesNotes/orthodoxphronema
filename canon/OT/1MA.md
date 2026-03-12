@@ -23,7 +23,6 @@ has_additions: false
 1MA.1:7 After Alexander reigned for twelve years, death claimed him.
 1MA.1:8 Then his servants began to rule, each in his appointed place.
 
-### Antiochus Epiphanes and the Lawless Jews
 
 1MA.1:9 They all put on crowns after he died, and their sons for many years after them, and the evils they caused multiplied on the earth.
 1MA.1:10 A sinful root came forth from them, Antiochus Epiphanes, the son of Antiochus the king, who was a hostage in Rome. He began his reign in the one hundred and thirty-seventh year of the kingdom of the Greeks.
@@ -32,14 +31,12 @@ has_additions: false
 1MA.1:13 and some of the people eagerly desired to enter into this agreement. So they went to the king, and he gave them authority to observe the ordinances of the Gentiles.
 1MA.1:14 Then they built a gymnasium in Jerusalem according to the customs of the Gentiles,
 
-### Antiochus Conquers Egypt
 
 1MA.1:15 and made themselves as the uncircumcision. So they fell away from the holy covenant, yoked themselves to the Gentiles, and sold themselves to do evil.
 1MA.1:16 Thus the kingdom was prepared before Antiochus, and he determined he would reign over the land of Egypt, so as to rule over two kingdoms.
 1MA.1:17 Thus he entered Egypt with a strong multitude of chariots, elephants, cavalrymen, and a large army.
 1MA.1:18 He engaged Ptolemy king of Egypt in battle, and Ptolemy turned from him in shame and fled. Many were wounded and fell.
 
-### Antiochus Pillages the Temple
 
 1MA.1:19 So they captured mighty cities in Egypt, and Antiochus took spoils in the land of Egypt.
 1MA.1:20 After he conquered Egypt in the one hundred and forty-third year, Antiochus turned and went up to Israel and Jerusalem with a large army.
@@ -51,7 +48,6 @@ has_additions: false
 1MA.1:26 Rulers and elders groaned, Virgins and young men grew weak, And the beauty of the women was altered.
 1MA.1:27 Every bridegroom took up a lament And sat mourning in his bridal chamber.
 
-### More Destruction in Jerusalem
 
 1MA.1:28 The land was shaken for its inhabitants, And all the house of Jacob was clothed with shame.
 1MA.1:29 After two years, the king sent a revenue official to the cities of Judah, and he entered Jerusalem with a large army.
@@ -66,7 +62,6 @@ has_additions: false
 1MA.1:38 The inhabitants of Jerusalem fled because of them, And she became a dwelling place of strangers. She became a stranger to her offspring, And her children forsook her.
 1MA.1:39 Her sanctuary was laid waste like a desert And her feasts were turned into mourning, Her Sabbaths into a disgrace And her honor into contempt.
 
-### A Decree of Corruption
 
 1MA.1:40 Her dishonor prevailed against her glory, And her high position was turned into mourning.
 1MA.1:41 Then the king wrote to all his kingdom, that they all were to be as one people,
@@ -93,7 +88,6 @@ has_additions: false
 1MA.1:62 Yet many in Israel grew strong, and determined in themselves not to eat unclean things.
 1MA.1:63 They chose rather to die than be defiled by foods or profane the holy covenant. So they died,
 
-### The Zeal of Mattathias
 
 1MA.1:64 and great wrath came upon Israel.
 ## Chapter 2
@@ -106,13 +100,12 @@ has_additions: false
 1MA.2:6 He saw the blasphemies taking place in Judah and Jerusalem,
 1MA.2:7 and said: 'Alas, why was I born to see this, The ruin of my people, The destruction of the holy city, And to live there when it was delivered Into the hand of the enemy, The sanctuary into the hand of foreigners.
 1MA.2:8 Her temple has become like a man without honor.
-1MA.2:9 Her glorious vessels were carried away into captivity; Her infants havebeen slain in the streets, Her young men with the sword of the enemy.
+1MA.2:9 Her glorious vessels were carried away into captivity; Her infants have been slain in the streets, Her young men with the sword of the enemy.
 1MA.2:10 What nation has not inherited her palaces And taken hold of her spoils?
 1MA.2:11 All her adornment has been removed: In place of freedom, she has become a slave;
 1MA.2:12 And behold, our sanctuary, Our beauty and our glory have been laid waste, And the Gentiles have desecrated it.
 1MA.2:13 Why should we live any longer?'
 
-### Apostasy at Modein
 
 1MA.2:14 Thus Mattathias and his sons tore their clothes, put on sackcloth, and mourned exceedingly.
 1MA.2:15 Now those from the king who were enforcing the apostasy journeyed to the city of Modein to make them offer sacrifice,
@@ -127,7 +120,6 @@ has_additions: false
 1MA.2:24 When Mattathias saw him, he was filled with zeal, and his heart trembled and poured forth anger in judgment. Then he ran and slew him upon the altar.
 1MA.2:25 So he killed the king's man who wanted to offer sacrifice at that time, and he tore down the altar.
 
-### Warfare in the Wilderness
 
 1MA.2:26 Thus he had zeal for the law, just as Phinehas had against Zambri the son of Salome.
 1MA.2:27 Then Mattathias cried out with aloud voice in the city, saying, 'Every one who has zeal for the law and holds to the covenant, let him follow me.'
@@ -152,7 +144,6 @@ has_additions: false
 1MA.2:46 and they circumcised the uncircumcised boys by force, as many as they found in the mountains of Israel.
 1MA.2:47 Thus they pursued the sons of arrogance, and the undertaking prospered in their hand.
 
-### Last Days of Mattathias
 
 1MA.2:48 They took the law out of the hand of the Gentiles and the kings, and did not allow the sinners to dominate them.
 1MA.2:49 Then the days approached for Mattathias to die, and he spoke to his sons, saying, 'Now arrogance and scorn and the time of destruction and furious anger have been strengthened.
@@ -177,14 +168,12 @@ has_additions: false
 1MA.2:68 Repay the Gentiles in full, and hold fast to the ordinance of the law.'
 1MA.2:69 Then he blessed them and was added to his fathers.
 
-### Judas Maccabeus Succeeds His Father
 
 1MA.2:70 So he died in the one hundred and forty-sixth year and was buried in the tomb of his fathers in Modein; and all of Israel mourned him with great mourning.
 ## Chapter 3
 
 1MA.3:1 Then Judas his son, who was called Maccabeus, rose up in his place.
 
-### Eulogy to Mattathias
 
 1MA.3:2 His brothers all helped him, and everyone who had been allied with his father, and they fought the battle for Israel with gladness.
 1MA.3:3 He enlarged his people's glory And was clothed with a breastplate like a giant; And he girded on his weapons And waged war, Sheltering the camp with his sword.
@@ -192,9 +181,8 @@ has_additions: false
 1MA.3:5 For he pursued the lawless and searched them out; And he set on fire those who troubled his people.
 1MA.3:6 The lawless were humbled from fear of him, And all the workers of lawlessness were troubled; For deliverance prospered by his hand.
 1MA.3:7 He embittered many rulers, And brought joy to Jacob by his deeds; And may his memory be blessed forever.
-1MA.3:8 He passed through the cities of Judah And destroy ed the ungodly from the land; And he turned wrath away from Israel.
+1MA.3:8 He passed through the cities of Judah And destroyed the ungodly from the land; And he turned wrath away from Israel.
 
-### Judas' Early Victories
 
 1MA.3:9 His name was known to the ends of the earth, And he gathered those who were perishing.
 1MA.3:10 Then Apollonius gathered the Gentiles together and brought a great army from Samaria to wage war with Israel.
@@ -214,7 +202,6 @@ has_additions: false
 1MA.3:24 He pursued him into the descent of Beth-Horon as far as the plain. Around eight hundred of their soldiers perished; the remainder fled into the land of the Philistines.
 1MA.3:25 Then fear of Judas and his brothers began, and terror fell upon the nations around them.
 
-### Syrian Counterattack
 
 1MA.3:26 So his fame reached the king, and the Gentiles talked about the battles of Judas.
 1MA.3:27 When Antiochus the king heard these words, he was very angry, and he sent and gathered all the forces of his kingdom, an exceedingly strong army.
@@ -232,7 +219,6 @@ has_additions: false
 1MA.3:39 and he sent with them forty thousand infantry and seven thousand cavalry to go into the region of Judah and crush it according to the king's orders.
 1MA.3:40 So he set out with the whole army, and they went and camped near Emmaus on the plain.
 
-### The Jews Prepare for Battle
 
 1MA.3:41 When the merchants of the region heard about them, they took a very large amount of silver and gold and shackles and went into the camp to obtain the sons of Israel as slaves. The army of Syria and of the land of the Philistines joined them as well.
 1MA.3:42 Now Judas and his brothers saw that evil events were increasing and the armies were encamped at their borders. They learned also the words of the king which he ordered, to bring destruction and annihilation on the people.
@@ -254,7 +240,6 @@ has_additions: false
 1MA.3:58 Judas said to them, 'Be ready at dawn to fight with these Gentiles who have gathered against us to destroy us and our sanctuary.
 1MA.3:59 For it is better for us to die in war than to look upon the evils the Gentiles would bring to us and the sanctuary.
 
-### Judas Fights the Gentiles at Emmaus
 
 1MA.3:60 But as God's will is in heaven, so He will do.'
 ## Chapter 4
@@ -286,7 +271,6 @@ has_additions: false
 1MA.4:25 Thus great deliverance happened to Israel on that day.
 1MA.4:26 But all the Gentiles who escaped went and reported to Lysias everything that had happened.
 
-### Judas Defeats Lysias
 
 1MA.4:27 When he heard this, he was bewildered and disheartened, because things had not happened to Israel as he wished, and had not turned out as the king commanded him.
 1MA.4:28 The following year, Lysias recruited sixty thousand chosen men and fifty thousand cavalry so he could fight them.
@@ -297,7 +281,6 @@ has_additions: false
 1MA.4:33 Cast them down with the sword of those who love You, and let all men who know Your name give praise to You with hymns.'
 1MA.4:34 Then they attacked one another, and five thousand men from the camp of Lysias fell, and some fell from the opposite side.
 
-### Restoration of the Temple
 
 1MA.4:35 When Lysias saw the turn of events for his troops, and the courage shown by those of Judas, and how they were prepared either to live or to die bravely, he returned to Antioch and recruited mercenaries to again invade Judea with an even greater force.
 1MA.4:36 So Judas and his brothers with him said, 'Behold, our foes have been crushed. Let us go up to purify the sanctuary and renew it.'
@@ -326,7 +309,6 @@ has_additions: false
 1MA.4:59 Then Judas and his brothers and the congregation of Israel decided that each year at that time the days of the consecration of the altar should be observed with joy and gladness for eight full days, beginning on the twenty-fifth of the month of Chislev.
 1MA.4:60 At this same time they also built high walls and strong towers around Mount Zion, lest the Gentiles come and destroy these things, as they had done before.
 
-### Battles with Surrounding Nations
 
 1MA.4:61 Then he stationed an army there to guard it, and he fortified the town of Beth-zur, so the people would have a fortress that faced Idumea.
 ## Chapter 5
@@ -351,7 +333,6 @@ has_additions: false
 1MA.5:18 He left Joseph, the son of Zachariah, and Azariah, a leader of the people, with the rest of the army in Judea, to guard it.
 1MA.5:19 He ordered them, saying, 'Take charge of this people, but do not go into battle against the Gentiles until we return.'
 
-### Victories in Galilee and Gilead
 
 1MA.5:20 Then three thousand troops were chosen for Simon to go to Galilee, and eight thousand men for Judas to take to Gilead.
 1MA.5:21 Thus Simon went into Galilee and fought many battles with the Gentiles, and crushed the Gentiles before him.
@@ -402,7 +383,6 @@ has_additions: false
 1MA.5:66 He also marched into the country of the Philistines, and then on to Marisa.
 1MA.5:67 Some priests that day who wanted to show their courage perished in battle, for they went out to fight recklessly.
 
-### Last Days of King Antiochus IV
 
 1MA.5:68 But Judas turned aside to Azotus, the country of the Philistines. He destroyed their altars, set the carved idols of their gods on fire, and took spoils in the cities. Then he came back to the land of Judah.
 ## Chapter 6
@@ -420,14 +400,12 @@ has_additions: false
 1MA.6:11 I ask myself, 'What is this stress I have come to, and into what sea of troubles am I immersed? For I was kind and loved as a ruler.'
 1MA.6:12 But now I recall the evils I did in Jerusalem; for I took all the silver and gold vessels, and sent to destroy those who lived in Judah for no good reason.
 
-### Succession of Antiochus V
 
 1MA.6:13 I know that because of these things, evils have found me; and behold, I am perishing with deep grief in a foreign land.'
 1MA.6:14 He then summoned Philip, one of his friends, and set him over his entire kingdom.
 1MA.6:15 He gave him his crown and his robe and ring, that he could take charge of his son Antiochus and raise him to rule.
 1MA.6:16 Thus Antiochus the king died in the one hundred and forty-ninth year.
 
-### Siege of the Citadel
 
 1MA.6:17 When Lysias found out the king had reposed, he established Antiochus his son to reign. Lysias had raised him from youth and called him Eupator.
 1MA.6:18 Now men from the citadel were confining Israel to the area around the sanctuary. They were attempting by whatever means to injure them, and to bring strength to the Gentiles.
@@ -440,12 +418,11 @@ has_additions: false
 1MA.6:25 But they have not stretched out their hand against us alone, but also against all the lands on their borders;
 1MA.6:26 and behold, today they have surrounded the citadel in Jerusalem to defeat it. They have strengthened the sanctuary and Beth-zur as well.
 
-### Campaign of Antiochus V and Lysias
 
 1MA.6:27 So unless you quickly overtake them, they will do worse things than these, and you will be unable to stop them.'
 1MA.6:28 The king was angered greatly when he heard this, so he assembled all his friends, the military leaders, and those who ruled.
 1MA.6:29 Armies of mercenaries came to him as well from other nations and from various islands of the seas.
-1MA.6:30 So the number of his armies was one hundred thousand foot soldiers, twenty thousand calvary, and thirty-two elephants trained for battle.
+1MA.6:30 So the number of his armies was one hundred thousand foot soldiers, twenty thousand cavalry, and thirty-two elephants trained for battle.
 1MA.6:31 They arrived through Idumea and marched against Beth-zur, fighting for many days and building engines of war. But Israel went out, set them on fire, and battled heroically.
 1MA.6:32 Judas then marched out from the citadel and set up camp at Beth-zechariah, across from the king's camp.
 1MA.6:33 The next morning the king rose at dawn and led his army on a forced march on the highway to Beth-zechariah. His soldiers prepared themselves for warfare and blew the trumpets.
@@ -479,7 +456,6 @@ has_additions: false
 1MA.6:61 Thus the king and the commanders gave them their oath. On these conditions the Israelites evacuated the fortress.
 1MA.6:62 But when the king came to Mount Zion and saw the fortification of the place, he broke his promise and commanded his men to pull down the surrounding wall.
 
-### Demetrius I Becomes King
 
 1MA.6:63 Then he left hastily and came back to Antioch. There he discovered Philip in charge, so he attacked him and captured the city by force.
 ## Chapter 7
@@ -491,7 +467,6 @@ has_additions: false
 1MA.7:5 Then all the lawless and ungodly men of Israel came to him. Alcimus, who wanted to be a priest, led them.
 1MA.7:6 They brought charges against the people before the king, saying, 'Judas and his brothers have destroyed all your friends and scattered us from our land.
 
-### Bacchides and Alcimus Control Judah
 
 1MA.7:7 Therefore, send a man you trust, and let him see all the destruction he did to us and to the country of the king. Then let him bring punishment to them and all who serve them.'
 1MA.7:8 The king then appointed Bacchides, one of his friends, who ruled the province of Beyondthe-River, for he was prominent in the kingdom and loyal to the king.
@@ -512,7 +487,6 @@ has_additions: false
 1MA.7:23 Now Judas saw all the evil Alcimus and those with him had done among the sons of Israel; it was worse than what the Gentiles did.
 1MA.7:24 Thus Judas departed to all the regions surrounding Judea and took vengeance on the men who had deserted. He forbade those in the city to journey out to the countryside.
 
-### Nicanor Marches on Israel
 
 1MA.7:25 But when Alcimus realized Judas and his followers were growing strong and knew that he could not prevail against them, he went back and brought evil charges against them before the king.
 1MA.7:26 The king then sent Nicanor, one of his renowned commanders who hated and disdained Israel, and ordered him to get rid of the people.
@@ -532,7 +506,6 @@ has_additions: false
 1MA.7:40 But Judas took position in Adassa with three thousand troops. Judas prayed, saying,
 1MA.7:41 'When the ambassadors from the king uttered blasphemy, Your angel went forth and struck one hundred and eighty-five thousand of the Assyrians.
 
-### Nicanor Falls in Battle
 
 1MA.7:42 Crush also this army before us today, and let the others know that he spoke blasphemy against Your sanctuary; and judge him according to his malice.'
 1MA.7:43 So the armies faced off in war the thirteenth day of the month Adar, and Nicanor's army was scattered. He himself was the first to fall in the war.
@@ -543,7 +516,6 @@ has_additions: false
 1MA.7:48 So the people were very glad, and they celebrated that day as a day of great joy.
 1MA.7:49 A decree came forth to celebrate this day at the same time every year, on the thirteenth day of Adar.
 
-### Pact with the Romans
 
 1MA.7:50 Thus the land of Judah had peace for several days.
 ## Chapter 8
@@ -568,7 +540,6 @@ has_additions: false
 1MA.8:18 and to free their people from a yoke of bondage, because they realized the Greek kingdom was subjecting Israel to total servitude.
 1MA.8:19 So they journeyed to Rome-a very long trip. When they came to the senate chamber, they said the following:
 
-### Terms of the Alliance
 
 1MA.8:20 'Judas, also named Maccabeus, his brothers, and the Jewish people sent us here to you to build an alliance and have peace with you, that you may enlist us as your friends and allies.'
 1MA.8:21 The proposal pleased the senate.
@@ -582,7 +553,6 @@ has_additions: false
 1MA.8:29 Thus the Romans offer a treaty with the Jews on these terms.
 1MA.8:30 If after these agreements take effect, both parties should decide to add or subtract anything, they shall do so by agreement, and whatever they add or subtract shall be binding.
 
-### Judas Dies in Battle
 
 1MA.8:31 'Now regarding the evils Demetrius the king is doing to them, we have sent to him this word: 'If therefore they appeal to us against you again, we will defend their rights and oppose you, be it on the sea or on land.' '
 ## Chapter 9
@@ -609,7 +579,6 @@ has_additions: false
 1MA.9:20 They wept for him, and all Israel mourned him with great lamentation for many days, saying,
 1MA.9:21 'How the mighty is fallen, Israel's savior.'
 
-### Jonathan Succeeds His Brother
 
 1MA.9:22 Now the abundant acts of Judas-his wars, the brave things he did, and his greatness are not recorded, for there were far too many.
 1MA.9:23 After Judas's death, the lawless emerged in all the regions of Israel, and all those rose up who worked evil.
@@ -621,7 +590,6 @@ has_additions: false
 1MA.9:29 'Since your brother Judas died, a man like him has not come out to take on our enemies, namely Bacchides and those from our country who hate us.
 1MA.9:30 Therefore, we have now chosen you this day to replace him as our ruler and be our leader in battle.'
 
-### Jonathan Takes on Bacchides
 
 1MA.9:31 So Jonathan accepted the command at once and rose up in the place of Judas his brother.
 1MA.9:32 When Bacchides heard this, he sought to kill him.
@@ -646,7 +614,6 @@ has_additions: false
 1MA.9:51 He also placed a guard in them, and they were hostile to Israel.
 1MA.9:52 Then he strengthened the cities of Beth-zur and Gazara, and the citadel, and placed armies in them with stores of provisions.
 
-### Attempted Destruction at the Temple
 
 1MA.9:53 He also seized the sons of the rulers of the area, holding them hostage under armed guards at the citadel in Jerusalem.
 1MA.9:54 Then in the one hundred fifty-third year, in the second month, Alcimus issued the command to take down the wall of the inner court of the sanctuary. Then he took down the work of the prophets and started to destroy it.
@@ -657,7 +624,6 @@ has_additions: false
 1MA.9:59 So they went and conversed with him,
 1MA.9:60 and he departed to come with a large army, secretly sending letters to all his allies in Judea, telling them to capture Jonathan and those with him. But they could not do so, because their plot had been discovered.
 
-### Bacchides' Forces Are Crushed
 
 1MA.9:61 So Jonathan and his men caught about fifty of their countrymen who were the leaders of the agitation, and killed them.
 1MA.9:62 Then Jonathan, Simon, and those with them departed for Bethbasi in the desert, and rebuilt the outpost that had been destroyed and strengthened it.
@@ -672,7 +638,6 @@ has_additions: false
 1MA.9:71 Bacchides accepted the proposal and swore to Jonathan he would not harm him all the days of his life.
 1MA.9:72 He returned to him the hostages taken earlier from the land of Judah. Then he returned to his homeland and made no further attempt to come into their country.
 
-### Alexander Appoints Jonathan High Priest
 
 1MA.9:73 Thus the sword was laid down in Israel. Then Jonathan settled down in Michmash, where he began to judge the people and to destroy the ungodly men of Israel.
 ## Chapter 10
@@ -698,7 +663,6 @@ has_additions: false
 1MA.10:19 We have heard you are a mighty warrior and suitable to be our friend.
 1MA.10:20 So now we appoint you today as high priest of your people and command that you be called a friend of the king (he also sent him a purple robe and a golden crown). We ask you to agree with our interests and maintain friendship with us.'
 
-### Demetrius I Writes to Jonathan
 
 1MA.10:21 So Jonathan, in the seventh month of the one hundred and sixtieth year, put on the holy robe at the Feast of Tabernacles. Then he gathered an army and stockpiled many weapons.
 1MA.10:22 When Demetrius heard these reports, he was disturbed and said,
@@ -725,7 +689,6 @@ has_additions: false
 1MA.10:43 Further, whoever takes refuge at the temple in Jerusalem or in any of its vicinities because he owes a royal payment or any debt, let him be released and receive back all his property in my kingdom.
 1MA.10:44 'The expense of rebuilding and restoring the structures of the sanctuary is also to be paid from the king's revenue.
 
-### Offer Rejected, Demetrius Killed
 
 1MA.10:45 Then too, the expenses of rebuilding the walls of Jerusalem and the fortifications around it are to be paid from the king's revenue, and also the rebuilding of the walls in Judea.'
 1MA.10:46 But when Jonathan and the people heard these words, they did not believe or accept them, because they remembered the great wrongs Demetrius had done in Israel and how badly he had afflicted them.
@@ -733,7 +696,6 @@ has_additions: false
 1MA.10:48 Now King Alexander assembled a large army and took position opposite Demetrius.
 1MA.10:49 The two kings met in battle, and the army of Demetrius fled. Alexander took pursuit and defeated them.
 
-### Alexander Weds Cleopatra
 
 1MA.10:50 He fought very hard until sunset, and Demetrius fell on that day.
 1MA.10:51 Then Alexander sent envoys to Ptolemy the king of Egypt with the following message:
@@ -744,7 +706,6 @@ has_additions: false
 1MA.10:56 Now I will do for you what you requested, so meet me at Ptolemais, that we might see each other; and I will be your father-in-law, as you asked.'
 1MA.10:57 Then Ptolemy left Egypt along with his daughter Cleopatra, and reached Ptolemais in the one hundred and sixty-second year.
 
-### Jonathan Made Governor
 
 1MA.10:58 King Alexander met him there, and Ptolemy gave him his daughter Cleopatra in marriage. He celebrated her wedding in Ptolemais with great pageantry, in royal manner.
 1MA.10:59 Then King Alexander wrote for Jonathan to meet him.
@@ -755,7 +716,6 @@ has_additions: false
 1MA.10:64 So it was that when his accusers saw the honor given him according to the proclamation, and saw him robed in purple, they fled.
 1MA.10:65 Thus the king honored him and inscribed him among his close friends. He also appointed him general and provincial governor.
 
-### Demetrius II Appoints Apollonius
 
 1MA.10:66 Then Jonathan departed to Jerusalem with peace and gladness of heart.
 1MA.10:67 Now in the one hundred and sixty-fifth year, Demetrius, the son of Demetrius, traveled from Crete to the land of his fathers.
@@ -765,7 +725,6 @@ has_additions: false
 1MA.10:71 Now therefore, if you trust in your army, come down against us in the plain, and let us judge together for ourselves there, for I have an army of the cities.
 1MA.10:72 Inquire and learn who I am, and the others who help us. They tell us there is no place for your foot to stand before us, because your fathers were put to flight twice in their land.
 
-### Jonathan Defeats Apollonius
 
 1MA.10:73 Even now, you shall not be able to withstand such a cavalry and army in the plain, where there is neither stone nor pebble nor any place to flee.'
 1MA.10:74 But when Jonathan heard the words of Apollonius, he was moved to action. He chose ten thousand men and departed from Jerusalem, and his brother Simon joined to help him.
@@ -784,7 +743,6 @@ has_additions: false
 1MA.10:87 Jonathan and the men with him later went back to Jerusalem with many spoils.
 1MA.10:88 Thus when King Alexander heard these reports, he proceeded to honor Jonathan again.
 
-### Ptolemy IV, Alexander Die
 
 1MA.10:89 So he sent him a golden buckle, as was customary to give to the relatives of kings. He also gave to him Ekron and all its regions as his possession.
 ## Chapter 11
@@ -808,7 +766,6 @@ has_additions: false
 1MA.11:17 So Zabdiel the Arab cut off Alexander's head and sent it to Ptolemy.
 1MA.11:18 But King Ptolemy died three days later, and his garrisons in the fortresses were destroyed by the inhabitants of those fortresses.
 
-### Jonathan Finds Favor with Demetrius II
 
 1MA.11:19 Thus in the one hundred and sixty-seventh year, Demetrius became king.
 1MA.11:20 In those days, Jonathan gathered men from Judea to attack the citadel in Jerusalem, and he built many engines of war for use against it.
@@ -829,7 +786,6 @@ has_additions: false
 1MA.11:35 Any other payments due us from now on from the tithes, the salt pits, and the crown taxes-from all these we grant release.
 1MA.11:36 None of these provisions will be cancelled from now on for all time.
 
-### Jonathan Aids Demetrius II
 
 1MA.11:37 Now therefore, take heed to make a copy of this, and let it be given to Jonathan and put in a notable place on the holy mountain.' '
 1MA.11:38 When King Demetrius saw the land was peaceful before him and no one was opposed to him, he dismissed his troops, each to their own place, except the foreign soldiers whom he had recruited as mercenaries from the islands of the nations. So all the soldiers who had served his fathers hated him.
@@ -848,7 +804,6 @@ has_additions: false
 1MA.11:51 So they threw down their weapons and made peace. Then the Jews were honored before the king and before all those in his kingdom. After this, they returned to Jerusalem with many spoils.
 1MA.11:52 Thus King Demetrius ruled on the throne of his kingdom, and the land was peaceful before him.
 
-### Antiochus VI Honors Jonathan
 
 1MA.11:53 But he broke his word about everything he promised Jonathan. Thus he became estranged from him, and did not repay Jonathan the favors he had done for him, but greatly afflicted him.
 1MA.11:54 Later, Trypho returned and had with him the young boy Antiochus, who put on the crown and became king.
@@ -872,7 +827,6 @@ has_additions: false
 1MA.11:72 Then he turned back to the battle and put the enemy to flight.
 1MA.11:73 When Jonathan's men who had run away saw this, they returned and joined him in the pursuit of the enemy as far as Kadesh, and there they set up camp.
 
-### Friendship Renewed with Rome and Sparta
 
 1MA.11:74 As many as three thousand of the foreign army fell that day. Then Jonathan went back to Jerusalem.
 ## Chapter 12
@@ -900,7 +854,6 @@ has_additions: false
 1MA.12:21 It has been put in writing regarding both the Spartans and the Jews that they are brothers, and are both of the family of Abraham.
 1MA.12:22 So now that we know this, please write us concerning your welfare.
 
-### Campaigns of Jonathan and Simon
 
 1MA.12:23 Thus we are writing to you that your cattle and possessions are ours, and ours are yours. Therefore we order our ambassadors to report to you accordingly.'
 1MA.12:24 Then Jonathan heard the officers of Demetrius had come back with a larger army than before to make war against him.
@@ -918,7 +871,6 @@ has_additions: false
 1MA.12:36 and to make the walls of Jerusalem even higher, and raise a great high wall between the citadel and the city to separate it from the city, so it would be isolated and its garrison could not buy nor sell goods.
 1MA.12:37 So they assembled to rebuild the city and part of the wall on the valley to the east that had fallen; thus he repaired the wall that is called Chaphenatha.
 
-### Jonathan Captured, Troops Killed
 
 1MA.12:38 Simon also built Adida in the Shephelah. They fortified it and set up bolted gates.
 1MA.12:39 Then Trypho sought to rule Asia, to wear the crown, and to stretch forth his hand against King Antiochus.
@@ -936,7 +888,6 @@ has_additions: false
 1MA.12:51 But when the pursuers saw them ready to fight for their lives, they retreated.
 1MA.12:52 So they all came safely to the land of Judah and cried out for Jonathan and his men. They were exceedingly afraid, and all Israel mourned greatly.
 
-### Simon Leads His People
 
 1MA.12:53 Then all the nations surrounding them tried to defeat them, saying, 'There is none to lead them or to help them. Now then, let us wage war against them and erase them from memory.'
 ## Chapter 13
@@ -952,7 +903,6 @@ has_additions: false
 1MA.13:9 Fight our wars, and we will do everything you tell us.'
 1MA.13:10 So he gathered all the men of fighting age and rushed to finish the walls of Jerusalem; he fortified the city on all sides.
 
-### Trypho Kills Jonathan
 
 1MA.13:11 Then he sent Jonathan son of Absalom with a sizable army to Joppa, and he drove out its people and remained there.
 1MA.13:12 Meanwhile, Trypho left from Ptolemais with a large force to come into the land of Judah. Jonathan accompanied him under guard.
@@ -974,7 +924,6 @@ has_additions: false
 1MA.13:28 He then built seven pyramids, one opposite the other, for his father and his mother and his four brothers.
 1MA.13:29 Around these pyramids he made engines of war, building massive pillars around them, and upon these pillars he placed suits of armor for a perpetual memorial, and alongside the suits of armor he made carved ships, so they could be seen by everyone sailing the sea.
 
-### Demetrius II Honors Simon
 
 1MA.13:30 This tomb which he made in Modein exists until this day.
 1MA.13:31 Now Trypho also dealt wickedly with young Antiochus the king and murdered him.
@@ -989,7 +938,6 @@ has_additions: false
 1MA.13:40 If some of your men are suited for enrollment in our bodyguard, let them be enrolled. And may there be peace among us.'
 1MA.13:41 The yoke of the Gentiles was lifted from Israel in the one hundred and seventieth year.
 
-### Simon Secures Gazara and Jerusalem
 
 1MA.13:42 Then the people began to record in their letters and contracts, 'In the first year of Simon, the great high priest and commander and ruler of the Jews.'
 1MA.13:43 In those days Simon camped at Gazara, surrounding it with soldiers. He also built an engine of war, brought it to the city, and struck and seized one tower.
@@ -1003,7 +951,6 @@ has_additions: false
 1MA.13:51 They entered it on the twenty-third day of the second month of the one hundred and seventy-first year with praise and palm branches, and with lyres, cymbals, and stringed instruments, and with hymns and songs, because a great enemy had been defeated and cast out of Israel.
 1MA.13:52 Thus Simon ordered that each year they should commemorate this day with jubilation. When the temple mount was fortified along with the citadel, he himself and his men lived there.
 
-### A Tribute to Simon
 
 1MA.13:53 Then Simon noted that his son John had reached adulthood. So he appointed him commander of all the army, and he lived in Gazara.
 ## Chapter 14
@@ -1011,19 +958,18 @@ has_additions: false
 1MA.14:1 Then in the one hundred and seventy-second year, King Demetrius gathered his troops and went into Media to enlist help for himself to wage war against Trypho.
 1MA.14:2 When Arsaces, king of Persia and Media, learned that Demetrius had entered his borders, he sent one of his officers to capture him alive.
 1MA.14:3 So he set out and attacked the camp of Demetrius, and captured him and brought him to Arsaces, who put him in prison.
-1MA.14:4 The land of Judah was peaceful all the day sof Simon, And he sought the good of his nation, And his leadership and his glory pleased them all his day s.
+1MA.14:4 The land of Judah was peaceful all the days of Simon, And he sought the good of his nation, And his leadership and his glory pleased them all his days.
 1MA.14:5 Then in all his glory he took Joppa for a harbor And made an entrance to the islands of the sea.
 1MA.14:6 He enlarged his nation's borders And gained control of his country.
 1MA.14:7 He also gathered many captives And ruled Gazara and Beth-zur and the citadel.
 1MA.14:8 When he removed from it the uncleanness, No one opposed him. They farmed their land in peace, And the land gave forth its produce, And the trees of the plain their fruit.
-1MA.14:9 Elders sat in the streets, Talking together of good things; And the y oung men wore the glories and apparel of war.
+1MA.14:9 Elders sat in the streets, Talking together of good things; And the young men wore the glories and apparel of war.
 1MA.14:10 He supplied the cities with food And furnished them with weapons of defense, Until his fame spread to the ends of the earth.
 1MA.14:11 He established peace in the land, And Israel rejoiced with great delight.
 1MA.14:12 Each one sat under his vine and fig tree, And no one made them afraid.
-1MA.14:13 He caused war to cease in the land, And kings were defeated in those day s.
+1MA.14:13 He caused war to cease in the land, And kings were defeated in those days.
 1MA.14:14 He fortified all the humble among his people; He demanded adherence to the law And removed all the lawless and evil men.
 
-### Alliances Renewed with Rome and Sparta
 
 1MA.14:15 He beautified the sanctuary And multiplied the vessels of the sanctuary.
 1MA.14:16 When it was heard in Rome and as far away as Sparta that Jonathan had died, they were in great sorrow.
@@ -1035,7 +981,6 @@ has_additions: false
 1MA.14:22 So we recorded what was said by them in our public decrees as follows: 'Numenius, son of Antiochus, and Antipater, the son of Jason, ambassadors of the Jews, came to renew their friendship with us.
 1MA.14:23 Our citizens were pleased to receive them honorably and to place a copy of their words in the public archives, so the people of the Spartans might have a record of them. They also sent a copy of this to Simon the high priest.' '
 
-### A Bronze Plaque for Simon
 
 1MA.14:24 Later, Simon dispatched Numenius to Rome with a large gold shield that weighed a thousand minas, to verify the alliance with them.
 1MA.14:25 The people heard these words and they said, 'How can we show our gratitude to Simon and his sons?
@@ -1063,7 +1008,6 @@ has_additions: false
 1MA.14:47 So Simon consented, agreeing to become high priest, and to be the governor and ethnarch of the Jews and priests and the guardian of all.'
 1MA.14:48 They commanded that this decree be inscribed on bronze tablets and be put in a public place near the sanctuary.
 
-### Antiochus VII Seeks Simon's Help
 
 1MA.14:49 Copies were also placed in the treasury, accessible to Simon and his sons.
 ## Chapter 15
@@ -1082,12 +1026,11 @@ has_additions: false
 1MA.15:12 for he knew that calamity had come upon him. His armies deserted him.
 1MA.15:13 Then Antiochus set up camp opposite Dora with one hundred and twenty thousand fighting men and eight thousand cavalry.
 
-### The Jews Receive Rome's Support
 
 1MA.15:14 He encircled the city, and the ships joined the battle from the sea. So he pressed hard against the city by land and sea and did not allow anyone to leave or enter.
 1MA.15:15 Then Numenius and his men came from Rome with letters to the kings and their countries, in which the following was contained:
 1MA.15:16 'Lucius, the Roman consul, to Ptolemy the king, greetings.
-1MA.15:17 The ambassadors of the Jews came to us as friends and allies to renew their longstanding friendship and alliance. They were sent from Simon, the high priest, and by the Jewish people,
+1MA.15:17 The ambassadors of the Jews came to us as friends and allies to renew their long-standing friendship and alliance. They were sent from Simon, the high priest, and by the Jewish people,
 1MA.15:18 and brought a gold shield of a thousand minas.
 1MA.15:19 Therefore it pleased us to write the kings and their countries, that they not seek to hurt them or wage war against them and their cities and country, or form alignments with those who fight them.
 1MA.15:20 It seems right to accept the shield from them.
@@ -1095,7 +1038,6 @@ has_additions: false
 1MA.15:22 The consul wrote identical letters to King Demetrius, and to Attalus, Ariarathes, and Arsaces,
 1MA.15:23 and to all the nations, to Sampsames, and the Spartans, and to Delos, Myndos, Sieyon, Caria, Samos, Pamphylia, Lycia, Halicarnassus, Rhodes, Phaselis, Cos, Side, Arados, Gortyna, Cnidus, Cyprus, and Cyrene.
 
-### Antiochus VII Turns on Simon
 
 1MA.15:24 They also sent a copy to Simon the high priest.
 1MA.15:25 Meanwhile, King Antiochus besieged Dora a second time, repeatedly launching his forces against it and building engines of war. He put Trypho in confinement, so he could neither go out or go in.
@@ -1115,7 +1057,6 @@ has_additions: false
 1MA.15:39 He then ordered him to encamp opposite Judea, and further ordered him to build Kedron and strengthen its gates, and to wage war against the people. But the king himself pursued Trypho.
 1MA.15:40 When Cendebeus arrived in Jamnia, he began to harass the people. He also invaded Judea, took people captive, and killed them.
 
-### Simon's Sons Defeat Cendebeus
 
 1MA.15:41 Then he built up Kedron and stationed cavalry and soldiers there, so they could march through the roads of Judea, making roads as the king commanded him.
 ## Chapter 16
@@ -1130,7 +1071,6 @@ has_additions: false
 1MA.16:8 When they sounded the trumpet, Cendebeus and his army were routed, and numbers of them fell wounded. The rest of them fled into the fortress.
 1MA.16:9 Then Judas, the brother of John, was wounded, but John pursued them until Cendebeus reached Kedron, where he had done construction.
 
-### John Succeeds Simon
 
 1MA.16:10 When they ran into the towers in the fields of Azotus, John set them a fire, and roughly two thousand of their men perished. Then he returned to Judea in peace.
 1MA.16:11 Now Ptolemy, the son of Abubus, had been made governor to rule over the plain of Jericho. He had large hoards of silver and gold,

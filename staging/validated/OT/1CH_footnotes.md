@@ -16,21 +16,15 @@ The first nine chapters of this book are genealogies. They run from Adam to Noah
 
 (1:1-4); Noah to Abraham (1:5-15); Abraham to Jacob or Israel (1:16-22); Israel to
 
-David (2:1-15); and from the sons of David through the sons of Solomon (3:1-24).
-
-Then follow the genealogies of the twelve tribes (4:1-8:40); of the remnant who will
+David (2:1-15); and from the sons of David through the sons of Solomon (3:1-24). Then follow the genealogies of the twelve tribes (4:1-8:40); of the remnant who will
 
 return to Jerusalem after the captivity (9:1-24); and of Saul (9:35-44). Genealogies are
 
-hidden treasures which should not be passed over, for they serve to remind us of two allencompassing truths: (1) the reality of our inheritance from Adam: that we live, suffer,
-
-have children, and die. We cannot save ourselves (Rom 5:14), and need a Savior; and (2)
+hidden treasures which should not be passed over, for they serve to remind us of two allencompassing truths: (1) the reality of our inheritance from Adam: that we live, suffer, have children, and die. We cannot save ourselves (Rom 5:14), and need a Savior; and (2)
 
 that God created us in His image, He loves His creation, and He is endlessly interacting in
 
-history in order to restore creation to Himself.
-
-1:1-4
+history in order to restore creation to Himself. 1:1-4
 
 In these verses Adam and Noah typify Christ, the "Beginning and the End" (Rev
 
@@ -42,11 +36,7 @@ In these verses Adam and Noah typify Christ, the "Beginning and the End" (Rev
 
 death (1Co 15:45-47). By faith Noah built the ark and saved his household from the flood
 
-(Heb 11:7); likewise Christ will build His Church, beginning with His twelve apostles,
-
-through which He will bring all who are baptized into new and eternal life.
-
-1:10-15 Nimrod: See Gn 10:8-12. The genealogy from Shem to Abraham, like that from
+(Heb 11:7); likewise Christ will build His Church, beginning with His twelve apostles, through which He will bring all who are baptized into new and eternal life. 1:10-15 Nimrod: See Gn 10:8-12. The genealogy from Shem to Abraham, like that from
 
 Adam to Noah (vv. 1-4), again points to Christ, "the First and the Last" (Rev 22:13). Like
 
@@ -54,17 +44,13 @@ Christ, Shem, Noah's youngest, is first because of his humility (see Gn 9:24-27)
 
 Abram, because of his faith, will become Abraham (v. 15), the "father of us all" (Rom
 
-4:16).
-
-2:3
+4:16). 2:3
 
 The genealogy of Judah establishes King David's ancestry (v. 15). Christ's genealogy
 
 in the New Testament books of Matthew and Luke will complete David's royal lineage by
 
-showing Him to be both Son of God and Son of Man (see Mt 1:3-6; Lk 3:31-33).
-
-3:1-9 Note that the sons of David born in Hebron (vv. 1-4) are listed separately from his
+showing Him to be both Son of God and Son of Man (see Mt 1:3-6; Lk 3:31-33). 3:1-9 Note that the sons of David born in Hebron (vv. 1-4) are listed separately from his
 
 sons born in Jerusalem (vv. 5-9). Since Abraham and Sarah lived and were buried there
 
@@ -76,9 +62,7 @@ reign in Hebron, and just as Solomon surpassed Absalom (2Kg 18:15-18), so Christ
 
 eternal reign with His Church, the "city of the living God, the heavenly Jerusalem" (Heb
 
-12:22), will surpass the old covenant under Abraham.
-
-3:10-24
+12:22), will surpass the old covenant under Abraham. 3:10-24
 
 The genealogy of the sons of Solomon. Note how the lineage is given in few
 
@@ -86,41 +70,27 @@ words, compared to the listing of the kings of Edom (1:43-54), where each king "
 
 and another "reigned in his place." In spite of personal faults, Christ's royal ancestors
 
-point directly to Him.
-
-4:1-23 The genealogy of Judah is the first given from the twelve tribes of Israel, as Jacob's
+point directly to Him. 4:1-23 The genealogy of Judah is the first given from the twelve tribes of Israel, as Jacob's
 
 promise was on Judah's head (Gn 49:8-12). Christ, the Son of God, will be born from
 
-Judah's line.
+Judah's line. 4:9, 10
 
-4:9, 10
+The story of Jabez affirms the message hidden in the surrounding genealogies: God gives grace to the humble and humbles the proud (1Pt 5:5) in order to save man from
 
-The story of Jabez affirms the message hidden in the surrounding genealogies:
-
-God gives grace to the humble and humbles the proud (1Pt 5:5) in order to save man from
-
-pain (sin, suffering, and death).
-
-5:1-24 Reuben, Gad, and the half-tribe of Manasseh inhabited Gilead (vv. 9, 10) on the
+pain (sin, suffering, and death). 5:1-24 Reuben, Gad, and the half-tribe of Manasseh inhabited Gilead (vv. 9, 10) on the
 
 east side of the Jordan (later called Decapolis). These will be among the first people to
 
-receive the gospel (Mt 4:25; Mk 5:20).
-
-5:2
+receive the gospel (Mt 4:25; Mk 5:20). 5:2
 
 The phrase from him came a ruler confirms that the promise made to Judah by his
 
-father Jacob (Gn 49:8-10) came to pass in King David.
-
-5:25-26 The faithful must be vigilant and continue to trust in God. It is when we think we
+father Jacob (Gn 49:8-10) came to pass in King David. 5:25-26 The faithful must be vigilant and continue to trust in God. It is when we think we
 
 can stand on our own through God's blessing in the past that the enemy is able to bring
 
-us down.
-
-6:1-38
+us down. 6:1-38
 
 The priests who offer sacrifices are directly descended from Levi and Aaron
 
@@ -130,9 +100,7 @@ through Eleazar. Aaron's other sons, Nadab and Abihu, died because of their sins
 
 14). Just as Judah's line is fulfilled in Christ the King, so the Levitical line is fulfilled in
 
-Christ, the "High Priest" (Heb 8:1).
-
-6:16-33
+Christ, the "High Priest" (Heb 8:1). 6:16-33
 
 Those descended from Levi but not through Aaron are listed. The prophet
 
@@ -140,21 +108,15 @@ Samuel (v. 13) and the musicians (vv. 16, 17) are from this lineage (v. 13). Thi
 
 Testament picture continues in the Church today. The priests serve at the altar. But all
 
-the faithful together form a "royal priesthood" in service to the Church.
+the faithful together form a "royal priesthood" in service to the Church. 6:39-66 Just as the rest of the tribes must give part of their inheritance to the Levites, so
 
-6:39-66 Just as the rest of the tribes must give part of their inheritance to the Levites, so
-
-the faithful today are called to give of themselves to the work of the Lord.
-
-7:1-40
+the faithful today are called to give of themselves to the work of the Lord. 7:1-40
 
 The genealogies of Issachar, Benjamin, Naphtali, Manasseh, and Asher
 
 include the numbers of men fit for battle, while the genealogy of Ephraim ends with
 
-Joshua (v. 27), the greatest warrior of all.
-
-7:20-29
+Joshua (v. 27), the greatest warrior of all. 7:20-29
 
 Ephraim receives new hope when his wife conceives after his other sons are
 
@@ -162,15 +124,11 @@ tragically murdered. Ephraim, Joseph's second son, is seen as a type of the new 
 
 in Christ (see Gn 41:51-52). Note that Joshua, the Old Testament's powerful type of
 
-Christ, comes from Ephraim's line (v. 27).
-
-8:1-40
+Christ, comes from Ephraim's line (v. 27). 8:1-40
 
 A more detailed genealogy of Benjamin is given, probably because Saul comes
 
-from this line (v. 33).
-
-9:1, 2
+from this line (v. 33). 9:1, 2
 
 The phrase those to whom permission had been given almost certainly deals
 
@@ -178,79 +136,53 @@ with those who returned after the exile (Neh 11). Thus, the genealogies of Israe
 
 Adam until Ezra's time are completed, and the stage is set to start anew with an overview
 
-of the history of Judah, beginning with the death of Saul.
-
-9:17-27
+of the history of Judah, beginning with the death of Saul. 9:17-27
 
 Just as the gatekeepers stood guard at the doors of the tabernacle, so we in the
 
 Church are called to guard the truth of our faith and to keep watch over the living temples
 
-of our souls.
-
-10:1-13 The genealogy ends, and the history of Israel continues with a brief description of
+of our souls. 10:1-13 The genealogy ends, and the history of Israel continues with a brief description of
 
 Saul's defeat and death at the hands of the Philistines. The Philistines think they have
 
-won the victory against Israel by displaying Saul's head in their idolatrous temple.
+won the victory against Israel by displaying Saul's head in their idolatrous temple. Similarly, when Christ descends into hell, the devil will think he has won when in fact he
 
-Similarly, when Christ descends into hell, the devil will think he has won when in fact he
-
-has lost.
-
-11:1-9 Recognizing David as the true deliverer and king, the people witness him anointed
+has lost. 11:1-9 Recognizing David as the true deliverer and king, the people witness him anointed
 
 king. This event is described as being according to the word of the Lord, showing
 
-that they are at last choosing the better way.
-
-11:4-9
+that they are at last choosing the better way. 11:4-9
 
 These events foreshadow the establishment of the Church of Christ, which is
 
-"Mount Zion . . . the city of the living God, the heavenly Jerusalem" (Heb 12:22).
+"Mount Zion . . . the city of the living God, the heavenly Jerusalem" (Heb 12:22). 11:9, 10 David grew ever stronger because he was not alone: the Lord Almighty and his
 
-11:9, 10 David grew ever stronger because he was not alone: the Lord Almighty and his
+mighty men were with him. 11:15-19
 
-mighty men were with him.
-
-11:15-19
-
-In this account, David represents all mankind. The powers of darkness,
-
-represented by the Philistines, hold the world captive. David's longing is like the
+In this account, David represents all mankind. The powers of darkness, represented by the Philistines, hold the world captive. David's longing is like the
 
 thirsty soul that cries out for God. As always, water symbolizes baptism from death into
 
-life through the "living water," that is, the Holy Spirit whom Christ sends (Jn 7:37-39).
-
-11:20-29
+life through the "living water," that is, the Holy Spirit whom Christ sends (Jn 7:37-39). 11:20-29
 
 David's mighty warriors are earthly types of the angelic hosts, who lead the
 
-battle against the powers of darkness (Dan 4:35).
-
-12:1
+battle against the powers of darkness (Dan 4:35). 12:1
 
 David's soldiers, helpers in the war, symbolize the Church in battle, a force against
 
-which the gates of hell "shall not prevail" (Mt 16:18; see also Eph 6:10-18).
-
-12:39
+which the gates of hell "shall not prevail" (Mt 16:18; see also Eph 6:10-18). 12:39
 
 Israel had a loyal heart to make David king. The same is true among the faithful
 
 in the Church, as the apostle Paul writes, "having the same love, being of one accord, of
 
-one mind" (Php 2:2).
-
-12:41
+one mind" (Php 2:2). 12:41
 
 Issachar, Zebulun, and Naphtali refer to the areas where the light of Christ is
 
-revealed to those "who walked in darkness" (Is 9:1, 2).
-
-13:1-8 In the Orthodox Church, the ark of God is seen as a type of the Virgin Mary, also
+revealed to those "who walked in darkness" (Is 9:1, 2). 13:1-8 In the Orthodox Church, the ark of God is seen as a type of the Virgin Mary, also
 
 called the Theotokos, the God-bearer, because she gave birth to the Son of God. Just as
 
@@ -268,21 +200,15 @@ impure hand touch you, O Theotokos!"
 
 14:11
 
-Here is a foreshadowing of baptism. David is remembering the cave of Adullam,
+Here is a foreshadowing of baptism. David is remembering the cave of Adullam, where "the three broke through the camp of the Philistines" and brought him a drink of
 
-where "the three broke through the camp of the Philistines" and brought him a drink of
-
-water (11:15-19).
-
-14:13-17
+water (11:15-19). 14:13-17
 
 The encircling of the pear trees is a powerful image, revealing to believers that
 
 angelic hosts are real, tangible forces who win the battle even before the earthly conflict
 
-has begun.
-
-15:1, 2 The ark is carried to the City of David in the manner prescribed by Moses: on the
+has begun. 15:1, 2 The ark is carried to the City of David in the manner prescribed by Moses: on the
 
 shoulders of the Levites (Nm 4:11-15), who symbolize holiness. Because of her holy
 
@@ -292,21 +218,15 @@ temple of Christ, who will be conceived in her. The Levitical priests prefigure 
 
 Christian clergy, who are ordained to minister, or serve, at the altar while the faithful
 
-worship the Holy Trinity.
-
-15:25
+worship the Holy Trinity. 15:25
 
 Obed-Edom (lit. "red") is symbolic of humanity enslaved to the flesh under the old
 
-covenant, but set free when joy, Christ Himself, enters the world.
-
-15:26
+covenant, but set free when joy, Christ Himself, enters the world. 15:26
 
 The number seven in the Scriptures usually emphasizes the completion of the old
 
-and the beginning of the new.
-
-15:27-29
+and the beginning of the new. 15:27-29
 
 Like David dancing before the ark, which contains the covenant, the unborn
 
@@ -316,9 +236,7 @@ Christ Himself (Lk 1:41). Compare Michal, who despised David for his celebration
 
 before the Lord, to Herodias and her daughter, who danced before Herod despising the
 
-truth, and had John beheaded (Mt 14:3-12).
-
-16:1-42 The worship described in this chapter bears many striking parallels to the Divine
+truth, and had John beheaded (Mt 14:3-12). 16:1-42 The worship described in this chapter bears many striking parallels to the Divine
 
 Liturgy; as St. Paul writes, "speaking to one another in psalms and hymns and spiritual
 
@@ -330,73 +248,45 @@ blessing, along with the bread, prefigures the Eucharist. The musical instrument
 
 fulfilled in the Church in the voices of the faithful, enabled in Christ to worship with
 
-clean hearts.
-
-17:1-24 Just as the temple will not be built until David dies and Solomon is anointed king,
-
-so the Church will not be established until Christ our King ascends into heaven and sends
+clean hearts. 17:1-24 Just as the temple will not be built until David dies and Solomon is anointed king, so the Church will not be established until Christ our King ascends into heaven and sends
 
 the all-wise Holy Spirit. God's promises to David will never be completely fulfilled in the
 
-earthly Israel; but all of them will be fulfilled in the holy Church, the new Israel.
-
-17:16
+earthly Israel; but all of them will be fulfilled in the holy Church, the new Israel. 17:16
 
 You have loved me forever: Although he may not fully comprehend it, David's
 
-prayer foreshadows God's promise of eternal life in Christ (Jn 3:16).
-
-18:1-17
+prayer foreshadows God's promise of eternal life in Christ (Jn 3:16). 18:1-17
 
 David attacks and subdues his enemies, expanding his kingdom and amassing
 
-wealth to be used in preparation for the building of the temple.
+wealth to be used in preparation for the building of the temple. 19:1-6
 
-19:1-6
-
-David's messengers were shaved at the hands of the unbelieving Ammonites,
-
-foreshadowing not only Christ's humiliation at the hands of the Gentile soldiers, who
+David's messengers were shaved at the hands of the unbelieving Ammonites, foreshadowing not only Christ's humiliation at the hands of the Gentile soldiers, who
 
 mocked Him, stripped Him, and divided His garments (Mt 27:27-35), but also the
 
-sufferings of His apostles and saints.
-
-20:2-3
+sufferings of His apostles and saints. 20:2-3
 
 David, who in the previous chapter showed kindness to the people of Ammon
 
 and was rejected, ends up wearing their king's crown. Christ's crown of victory is the
 
-crown of thorns (Mt 27:29), given by those to whom He extended divine kindness.
+crown of thorns (Mt 27:29), given by those to whom He extended divine kindness. 20:4-8 The lesson that God "exalts the humble with salvation" (Ps 149:4) continues when
 
-20:4-8 The lesson that God "exalts the humble with salvation" (Ps 149:4) continues when
+Goliath's offspring, the last of whom was even bigger than Goliath (v. 6), are killed. David's great deed as a youth, accomplished with a mere sling and a stone (1Kg 17:40-
 
-Goliath's offspring, the last of whom was even bigger than Goliath (v. 6), are killed.
+50), is surpassed by his followers. 21:2
 
-David's great deed as a youth, accomplished with a mere sling and a stone (1Kg 17:40-
-
-50), is surpassed by his followers.
-
-21:2
-
-Beersheba to Dan means all of Israel from south to north.
-
-21:9-13 David's three options can be seen as metaphors for the choices available to sinful
+Beersheba to Dan means all of Israel from south to north. 21:9-13 David's three options can be seen as metaphors for the choices available to sinful
 
 man: (1) famine: man may choose spiritual starvation; (2) defeat: man may choose to
 
 remain captive to sin, suffering, and death; or (3) the sword of the Lord: man may
 
-decide that death with hope in God's mercies is better than death with no hope at all.
+decide that death with hope in God's mercies is better than death with no hope at all. David's choice shows that he has once again placed his hope in God. 21:14
 
-David's choice shows that he has once again placed his hope in God.
-
-21:14
-
-Under the Law, death is the just sentence for all mankind (Rom 6:23); however,
-
-seventy thousand, a number suggesting completion, indicates hope that the Law will be
+Under the Law, death is the just sentence for all mankind (Rom 6:23); however, seventy thousand, a number suggesting completion, indicates hope that the Law will be
 
 overruled and death will end. Ambrose of Milan writes of this Hope, which is Christ
 
@@ -408,64 +298,40 @@ The Lord . . . relented because His love overrules the law of death. At
 
 Jerusalem, the Lord Jesus also said "It is enough" to His disciples concerning the use
 
-of the sword (v. 16) for vengeance (Lk 22:38). The threshing floor represents Calvary,
-
-the place where Christ will trample down sin, suffering, and death once for all.
-
-21:18-25 Just as David in obedience pays the full price, so the incarnate Christ will offer
+of the sword (v. 16) for vengeance (Lk 22:38). The threshing floor represents Calvary, the place where Christ will trample down sin, suffering, and death once for all. 21:18-25 Just as David in obedience pays the full price, so the incarnate Christ will offer
 
 himself in order to end death. His death and Resurrection will create the conditions for
 
 man to receive forgiveness of sins, to die to himself, and to be raised up to newness of
 
-life.
-
-21:26
+life. 21:26
 
 Fire from heaven prefigures both Pentecost (Acts 2:3) and the Eucharist. In all
 
-three, the offering rises, and the Holy Spirit descends.
+three, the offering rises, and the Holy Spirit descends. 22:1-5 God's plan for David is to make preparations for the building of a house for the
 
-22:1-5 God's plan for David is to make preparations for the building of a house for the
+Lord under Solomon (chs. 17; 29). 22:8-10 David, a man of great wars, is a type of humanity under the Law, for God uses
 
-Lord under Solomon (chs. 17; 29).
-
-22:8-10 David, a man of great wars, is a type of humanity under the Law, for God uses
-
-the law to subdue men and bring them to Christ (Gal 3:24, 25). Solomon, a man of rest,
-
-prefigures Jesus Christ, who is both Son of Man (David) and Son of God. The house for
+the law to subdue men and bring them to Christ (Gal 3:24, 25). Solomon, a man of rest, prefigures Jesus Christ, who is both Son of Man (David) and Son of God. The house for
 
 My name prefigures the Church, in which Christ's throne, the hearts of the faithful, will
 
-be established forever.
-
-
-### 23:1-4
+be established forever. ### 23:1-4
 *(anchor: 1CH.23:1)*
 
 The Levites who will serve in the temple are numbered and their genealogy listed
 
-through v. 23.
-
-
-### 23:30
+through v. 23. ### 23:30
 *(anchor: 1CH.23:30)*
 
 The worshipers stood morning and evening before the Lord. Continuing this
 
 tradition, many Orthodox faithful throughout the world stand every day at Matins and
 
-Vespers, and during the other services.
-
-
-### 24:1
+Vespers, and during the other services. ### 24:1
 *(anchor: 1CH.24:1)*
 
-, 2 See text and note at 6:1-31.
-
-
-### 25:1-31
+, 2 See text and note at 6:1-31. ### 25:1-31
 *(anchor: 1CH.25:1)*
 
 The list of those who use their musical talents to serve the Lord fills an entire
@@ -480,32 +346,21 @@ Just as gatekeepers in David's time were needed to protect the temple and its
 
 treasury, so the faithful must constantly stand guard to keep the temple of their souls
 
-safe from the passions of the flesh.
-
-
-### 27:1-34
+safe from the passions of the flesh. ### 27:1-34
 *(anchor: 1CH.27:1)*
 
 These men can be seen as a type of the twelve apostles who follow Jesus. Note
 
 that the men are numbered in twelves and multiples of twelve. Even Judas is prefigured
 
-in Ahithophel and Joab, (v. 34), both of whom betray their king.
-
-
-### 28:6
+in Ahithophel and Joab, (v. 34), both of whom betray their king. ### 28:6
 *(anchor: 1CH.28:6)*
 
 Just as David lays the groundwork for the work Solomon is to carry out, so the old
 
-covenant under the Law prepares the world for the new covenant in Christ. Like Solomon,
+covenant under the Law prepares the world for the new covenant in Christ. Like Solomon, Christ is both David's son and the Son of God. Having revealed God as Father, He will
 
-Christ is both David's son and the Son of God. Having revealed God as Father, He will
-
-make Himself the very cornerstone of the house of God.
-
-
-### 28:11-19
+make Himself the very cornerstone of the house of God. ### 28:11-19
 *(anchor: 1CH.28:11)*
 
 The dedicated things (v. 12): The articles used in worship and presented to
@@ -514,54 +369,34 @@ Solomon represent Holy Tradition, beginning with the pattern for worship given t
 
 (Ex 25:40), which was given in writing (v. 19) as Holy Scripture, and is fulfilled in the
 
-Church even to this day.
-
-
-### 28:20
+Church even to this day. ### 28:20
 *(anchor: 1CH.28:20)*
 
 The Lord spoke these exact words to Joshua just before Israel crossed over the
 
-Jordan into the Promised Land (Jos 1:9). Joshua and Solomon are both types of Christ.
-
-
-### 28:21
+Jordan into the Promised Land (Jos 1:9). Joshua and Solomon are both types of Christ. ### 28:21
 *(anchor: 1CH.28:21)*
 
 Like those who are appointed to serve Solomon, Christ's faithful followers will be
 
-with Him in service, using their talents to carry out His will.
-
-
-### 29:1
+with Him in service, using their talents to carry out His will. ### 29:1
 *(anchor: 1CH.29:1)*
 
 God sometimes chooses the young and inexperienced (see 1Ti 4:12) to carry out
 
-the work of building his temple.
-
-
-### 29:6-9
+the work of building his temple. ### 29:6-9
 *(anchor: 1CH.29:6)*
 
 The worship described here foreshadows Orthodox Christian worship, where the
 
-faithful will offer themselves willingly and with their whole heart.
-
-
-### 29:10-12
+faithful will offer themselves willingly and with their whole heart. ### 29:10-12
 *(anchor: 1CH.29:10)*
 
-David's praises bear a striking resemblance to the Lord's Prayer (Mt 6:9-13).
-
-Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet
+David's praises bear a striking resemblance to the Lord's Prayer (Mt 6:9-13). Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet
 
 been revealed. In Christ's Church, the faithful will be able to worship the Triune God "in
 
-spirit and truth" (Jn 4:24).
-
-
-### 29:14
+spirit and truth" (Jn 4:24). ### 29:14
 *(anchor: 1CH.29:14)*
 
 At one point in the Divine Liturgy, the deacon elevates the holy gifts while the
@@ -576,24 +411,15 @@ unto You, in behalf of all and for all."
 
 The faithful are still strangers and sojourners on this earth, but are now in
 
-Christ, who has given us strength to run "the race that is set before us" (Heb 12:1-3).
-
-
-### 29:21
+Christ, who has given us strength to run "the race that is set before us" (Heb 12:1-3). ### 29:21
 *(anchor: 1CH.29:21)*
 
-A thousand is often a sign of abundance.
-
-
-### 29:22
+A thousand is often a sign of abundance. ### 29:22
 *(anchor: 1CH.29:22)*
 
 Ate and drank prefigures Communion, for the culmination of worship is partaking
 
-of the Holy Eucharist.
-
-
-### 29:23-25
+of the Holy Eucharist. ### 29:23-25
 *(anchor: 1CH.29:23)*
 
 When Solomon was first made king, he prefigured Christ's entrance into

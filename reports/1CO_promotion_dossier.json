@@ -1,15 +1,13 @@
 {
   "book_code": "1CO",
   "testament": "NT",
-  "timestamp": "2026-03-11T05:55:44.598022",
+  "timestamp": "2026-03-11T16:39:42.040896",
   "registry_version": "1.3.0",
-  "body_checksum": "4c233e8f4c67a720bbaacd729226341a19a93357167d7b1215f7a4e143e10ad9",
+  "body_checksum": "c1f98224211fd8f6ca63b67db2baf94dc2762afbe4c1002544d872378e8a44cf",
   "validation": {
     "V1": {
-      "status": "FAIL",
-      "messages": [
-        "V1   35 duplicate anchor(s):"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V2": {
       "status": "PASS",
@@ -22,81 +20,11 @@
     "V4": {
       "status": "FAIL",
       "messages": [
-        "V4   Verse goes backward in ch.1 at line 25: verse 1 after verse 16",
-        "V4   Verse goes backward in ch.1 at line 30: verse 1 after verse 31",
-        "V4   Verse goes backward in ch.1 at line 31: verse 23 after verse 31",
-        "V4   Verse goes backward in ch.1 at line 35: verse 1 after verse 31",
-        "V4   Verse goes backward in ch.1 at line 36: verse 21 after verse 31",
-        "V4   Verse goes backward in ch.1 at line 40: verse 1 after verse 31",
-        "V4   Verse goes backward in ch.1 at line 41: verse 5 after verse 31",
-        "V4   Verse goes backward in ch.1 at line 45: verse 1 after verse 31",
-        "V4   Verse goes backward in ch.1 at line 46: verse 6 after verse 31",
-        "V4   Verse goes backward in ch.1 at line 50: verse 1 after verse 31",
-        "V4   Verse goes backward in ch.1 at line 55: verse 1 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 56: verse 8 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 60: verse 1 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 61: verse 27 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 65: verse 1 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 66: verse 10 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 70: verse 1 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 71: verse 11 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 75: verse 1 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 79: verse 12 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 83: verse 1 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 84: verse 14 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 88: verse 1 after verse 40",
-        "V4   Verse goes backward in ch.1 at line 93: verse 1 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 94: verse 16 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 98: verse 1 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 102: verse 2 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 106: verse 3 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 107: verse 4 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 108: verse 5 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 109: verse 6 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 113: verse 2 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 117: verse 1 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 121: verse 2 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 125: verse 3 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 129: verse 1 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 133: verse 2 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 137: verse 3 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 138: verse 4 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 139: verse 5 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 143: verse 9 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 144: verse 10 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 145: verse 11 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 149: verse 12 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 153: verse 13 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 154: verse 14 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 155: verse 15 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 156: verse 16 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 157: verse 17 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 158: verse 18 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 159: verse 19 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 160: verse 20 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 161: verse 21 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 162: verse 22 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 163: verse 23 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 164: verse 24 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 165: verse 25 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 166: verse 26 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 167: verse 27 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 168: verse 28 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 169: verse 29 after verse 58",
-        "V4   Verse goes backward in ch.1 at line 170: verse 30 after verse 58",
-        "V4   Missing verses in ch.1: jumps from 1 to 16",
-        "V4   Missing verses in ch.1: jumps from 16 to 31",
-        "V4   Missing verses in ch.1: jumps from 31 to 40",
-        "V4   Missing verses in ch.1: jumps from 40 to 58",
-        "V4   Missing verses in ch.3: jumps from 12 to 14",
-        "V4   Missing verses in ch.3: jumps from 19 to 21",
-        "V4   Missing verses in ch.3: jumps from 21 to 23",
-        "V4   Missing verses in ch.4: jumps from 12 to 14",
-        "V4   Missing verses in ch.5: jumps from 4 to 6",
-        "V4   Missing verses in ch.7: jumps from 29 to 32",
-        "V4   Missing verses in ch.10: jumps from 1 to 5",
-        "V4   Missing verses in ch.13: jumps from 4 to 8",
-        "V4   Missing verses in ch.15: jumps from 1 to 3"
+        "V4   Verse goes backward in ch.1 at line 28: verse 2 after verse 5",
+        "V4   Verse goes backward in ch.1 at line 32: verse 3 after verse 5",
+        "V4   Verse goes backward in ch.1 at line 33: verse 4 after verse 5",
+        "V4   Missing verses in ch.1: jumps from 1 to 5",
+        "V4   Missing verses in ch.3: jumps from 19 to 21"
       ]
     },
     "V5": {
@@ -110,34 +38,17 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 423/446 verses (94.8%); gap of 23"
+        "V7   Completeness: 435/446 verses (97.5%); gap of 11"
       ]
     },
     "V8": {
-      "status": "FAIL",
-      "messages": [
-        "V8   Heading repetition: 'The First Book of the Corinthians' appears 18 times",
-        "V8   Heading repetition: \"Thanksgiving for God's Grace at Corinth\" appears 4 times",
-        "V8   Heading density: 64 headings / 16 chapters (4.0/ch)"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V9": {
       "status": "FAIL",
       "messages": [
-        "V9   Embedded verse 1CO.3:13 found inside 1CO.3:12 at line 208",
-        "V9   Embedded verse 1CO.3:20 found inside 1CO.3:19 at line 217",
-        "V9   Embedded verse 1CO.3:22 found inside 1CO.3:21 at line 218",
-        "V9   Embedded verse 1CO.4:13 found inside 1CO.4:12 at line 239",
-        "V9   Embedded verse 1CO.5:5 found inside 1CO.5:4 at line 256",
-        "V9   Embedded verse 1CO.7:30 found inside 1CO.7:29 at line 329",
-        "V9   Embedded verse 1CO.7:31 found inside 1CO.7:29 at line 329",
-        "V9   Embedded verse 1CO.10:2 found inside 1CO.10:1 at line 403",
-        "V9   Embedded verse 1CO.10:3 found inside 1CO.10:1 at line 403",
-        "V9   Embedded verse 1CO.10:4 found inside 1CO.10:1 at line 403",
-        "V9   Embedded verse 1CO.13:5 found inside 1CO.13:4 at line 524",
-        "V9   Embedded verse 1CO.13:6 found inside 1CO.13:4 at line 524",
-        "V9   Embedded verse 1CO.13:7 found inside 1CO.13:4 at line 524",
-        "V9   Embedded verse 1CO.15:2 found inside 1CO.15:1 at line 587"
+        "V9   Embedded verse 1CO.3:20 found inside 1CO.3:19 at line 115"
       ]
     }
   },

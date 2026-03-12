@@ -1,15 +1,13 @@
 {
   "book_code": "ROM",
   "testament": "NT",
-  "timestamp": "2026-03-11T05:55:46.473444",
+  "timestamp": "2026-03-11T16:39:43.961327",
   "registry_version": "1.3.0",
-  "body_checksum": "372638caba92651f6de5ecdb4b11870bd200f75ea9f0ba75e49ad6c3d90323d4",
+  "body_checksum": "7033ca9fbb93f3de77e63991060c5da0cf7f4958bac0e819ccd825f2a20dd334",
   "validation": {
     "V1": {
-      "status": "FAIL",
-      "messages": [
-        "V1   12 duplicate anchor(s):"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V2": {
       "status": "WARN",
@@ -18,68 +16,27 @@
       ]
     },
     "V3": {
-      "status": "FAIL",
-      "messages": [
-        "V3   Chapter sequence broken at line 15: expected 1, got 0",
-        "V3   Chapter sequence broken at line 29: expected 2, got 1",
-        "V3   Chapter sequence broken at line 66: expected 3, got 2",
-        "V3   Chapter sequence broken at line 106: expected 4, got 3",
-        "V3   Chapter sequence broken at line 140: expected 5, got 4",
-        "V3   Chapter sequence broken at line 170: expected 6, got 5",
-        "V3   Chapter sequence broken at line 195: expected 7, got 6",
-        "V3   Chapter sequence broken at line 221: expected 8, got 7",
-        "V3   Chapter sequence broken at line 258: expected 9, got 8",
-        "V3   Chapter sequence broken at line 314: expected 10, got 9",
-        "V3   Chapter sequence broken at line 371: expected 11, got 10",
-        "V3   Chapter sequence broken at line 399: expected 12, got 11",
-        "V3   Chapter sequence broken at line 445: expected 13, got 12",
-        "V3   Chapter sequence broken at line 472: expected 14, got 13",
-        "V3   Chapter sequence broken at line 497: expected 15, got 14",
-        "V3   Chapter sequence broken at line 528: expected 16, got 15",
-        "V3   Chapter sequence broken at line 574: expected 17, got 16"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V4": {
       "status": "FAIL",
       "messages": [
-        "V4   Verse goes backward in ch.2 at line 81: verse 1 after verse 15",
-        "V4   Verse goes backward in ch.2 at line 82: verse 2 after verse 15",
-        "V4   Verse goes backward in ch.2 at line 83: verse 3 after verse 15",
-        "V4   Verse goes backward in ch.2 at line 84: verse 4 after verse 15",
-        "V4   Verse goes backward in ch.2 at line 85: verse 5 after verse 15",
-        "V4   Verse goes backward in ch.2 at line 86: verse 6 after verse 15",
-        "V4   Verse goes backward in ch.2 at line 90: verse 7 after verse 15",
-        "V4   Verse goes backward in ch.9 at line 329: verse 1 after verse 7",
-        "V4   Verse goes backward in ch.9 at line 330: verse 2 after verse 7",
-        "V4   Verse goes backward in ch.9 at line 334: verse 3 after verse 7",
-        "V4   Verse goes backward in ch.9 at line 335: verse 4 after verse 7",
-        "V4   Verse goes backward in ch.9 at line 339: verse 5 after verse 7",
-        "V4   Verse goes backward in ch.9 at line 340: verse 6 after verse 7",
+        "V4   Verse goes backward in ch.2 at line 90: verse 7 after verse 17",
         "V4   Missing verses in ch.1: jumps from 2 to 5",
-        "V4   Missing verses in ch.1: jumps from 5 to 7",
         "V4   Missing verses in ch.1: jumps from 9 to 11",
-        "V4   Missing verses in ch.1: jumps from 24 to 26",
-        "V4   Missing verses in ch.2: jumps from 5 to 11",
-        "V4   Missing verses in ch.2: jumps from 15 to 17",
+        "V4   Missing verses in ch.1: jumps from 29 to 32",
+        "V4   Missing verses in ch.2: jumps from 6 to 11",
         "V4   Missing verses in ch.2: jumps from 19 to 21",
-        "V4   Missing verses in ch.3: jumps from 21 to 27",
-        "V4   Missing verses in ch.4: jumps from 5 to 7",
-        "V4   Missing verses in ch.4: jumps from 17 to 19",
         "V4   Missing verses in ch.5: jumps from 1 to 3",
         "V4   Missing verses in ch.6: jumps from 5 to 7",
         "V4   Missing verses in ch.6: jumps from 8 to 10",
-        "V4   Missing verses in ch.9: jumps from 24 to 26",
         "V4   Missing verses in ch.9: jumps from 26 to 28",
         "V4   Missing verses in ch.9: jumps from 28 to 30",
-        "V4   Missing verses in ch.10: jumps from 6 to 8",
         "V4   Missing verses in ch.11: jumps from 8 to 10",
         "V4   Missing verses in ch.11: jumps from 17 to 19",
-        "V4   Missing verses in ch.11: jumps from 30 to 32",
         "V4   Missing verses in ch.11: jumps from 34 to 36",
-        "V4   Missing verses in ch.12: jumps from 6 to 9",
-        "V4   Missing verses in ch.12: jumps from 10 to 14",
-        "V4   Missing verses in ch.15: jumps from 23 to 25",
-        "V4   Missing verses in ch.16: jumps from 3 to 5"
+        "V4   Missing verses in ch.15: jumps from 23 to 25"
       ]
     },
     "V5": {
@@ -93,7 +50,7 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 400/433 verses (92.4%); gap of 33"
+        "V7   Completeness: 421/433 verses (97.2%); gap of 12"
       ]
     },
     "V8": {
@@ -103,34 +60,7 @@
     "V9": {
       "status": "FAIL",
       "messages": [
-        "V9   Embedded verse ROM.1:3 found inside ROM.1:2 at line 32",
-        "V9   Embedded verse ROM.1:4 found inside ROM.1:2 at line 32",
-        "V9   Embedded verse ROM.1:6 found inside ROM.1:5 at line 33",
-        "V9   Embedded verse ROM.1:10 found inside ROM.1:9 at line 39",
-        "V9   Embedded verse ROM.1:25 found inside ROM.1:24 at line 59",
-        "V9   Embedded verse ROM.2:9 found inside ROM.2:5 at line 85",
-        "V9   Embedded verse ROM.2:16 found inside ROM.2:15 at line 80",
-        "V9   Embedded verse ROM.2:20 found inside ROM.2:19 at line 93",
-        "V9   Embedded verse ROM.3:22 found inside ROM.3:21 at line 131",
-        "V9   Embedded verse ROM.3:23 found inside ROM.3:21 at line 131",
-        "V9   Embedded verse ROM.3:24 found inside ROM.3:21 at line 131",
-        "V9   Embedded verse ROM.3:25 found inside ROM.3:21 at line 131",
-        "V9   Embedded verse ROM.3:26 found inside ROM.3:21 at line 131",
-        "V9   Embedded verse ROM.4:6 found inside ROM.4:5 at line 146",
-        "V9   Embedded verse ROM.4:18 found inside ROM.4:17 at line 160",
-        "V9   Embedded verse ROM.5:2 found inside ROM.5:1 at line 172",
-        "V9   Embedded verse ROM.6:6 found inside ROM.6:5 at line 201",
-        "V9   Embedded verse ROM.6:9 found inside ROM.6:8 at line 203",
-        "V9   Embedded verse ROM.10:7 found inside ROM.10:6 at line 381",
-        "V9   Embedded verse ROM.11:18 found inside ROM.11:17 at line 422",
-        "V9   Embedded verse ROM.11:31 found inside ROM.11:30 at line 434",
-        "V9   Embedded verse ROM.12:7 found inside ROM.12:6 at line 458",
-        "V9   Embedded verse ROM.12:8 found inside ROM.12:6 at line 458",
-        "V9   Embedded verse ROM.12:11 found inside ROM.12:10 at line 460",
-        "V9   Embedded verse ROM.12:12 found inside ROM.12:10 at line 460",
-        "V9   Embedded verse ROM.12:13 found inside ROM.12:10 at line 460",
-        "V9   Embedded verse ROM.15:24 found inside ROM.15:23 at line 561",
-        "V9   Embedded verse ROM.16:4 found inside ROM.16:3 at line 578"
+        "V9   Embedded verse ROM.6:6 found inside ROM.6:5 at line 208"
       ]
     }
   },

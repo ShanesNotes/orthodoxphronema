@@ -113,8 +113,10 @@ def check_chapter_sequence(
 ) -> CheckResult:
     """V3: Chapters are sequential with no gaps."""
     errors = []
+    # Allow Chapter 0 as an optional intro/nav chapter before Chapter 1.
+    offset = 0 if (chapters_seen and chapters_seen[0][0] == 0) else 1
     for i, (ch_num, lineno) in enumerate(chapters_seen):
-        expected = i + 1
+        expected = i + offset
         if ch_num != expected:
             errors.append(
                 f"V3   Chapter sequence broken at line {lineno}: "

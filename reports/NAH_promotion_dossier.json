@@ -1,7 +1,7 @@
 {
   "book_code": "NAH",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:03:23.224172",
+  "timestamp": "2026-03-11T16:09:36.770800",
   "registry_version": "1.3.0",
   "body_checksum": "3204d48bd295d9caa8856327ab54f222d2f6f949711d845a45e0faf3b8a9a529",
   "validation": {
@@ -43,5 +43,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

@@ -15,27 +15,28 @@ has_additions: false
 ## Chapter 0
 
 
-### Outline
-
-PHP.0:1 1. Interference from self-serving evangelists (1:12-18 ) Persecution from the world (1:27-30; 2:14-18 ) Antagonism from heretics, particularly the legalistic Judaizers (3:1-11 ) Background -The church in Philippi was noted for its generosity in support of the apostolic ministry (1:5, 4:15, 16; Acts 16:15, 40). Recently, it had sent Epaphroditus to visit Paul in prison with a financial gift for the apostle and with instructions that he remain there with Paul. But Epaphroditus apparently was so devoted to his work that he forgot his own physical health (2:30). The Philippian church heard this and was concerned for him. In the meantime, Paul's trial had started (1:7) and he hoped for an early release (1:25; 2:24). Thus, the apostle wrote this letter of thanks to Philippi with the comforting word that he would send Epaphroditus home (2:25-30) and that he would shortly dispatch Timothy to Philippi (2:19).
-PHP.0:2 Greeting (1:1, 2) Life in Christ Amidst Persecution (1:3-2:30) Exemplary lives of the Philippians and Paul (1:3-30) Exhortation to persevere amidst persecution (2:1-30) III. Life in Christ in the Face of Heresy (3:1 -4:9)
 ## Chapter 1
 
 
 ### Greeting
 
-PHP.1:1 Exhortation to righteousness; warning against legalism (3:1-21) Exhortation to unity; warning against schism (4:1-9) Gratitude for financial help (4:1 0-20) Greeting and benediction (4:21-23) Paul and Timothy, bondservants of Jesus Christ, To all the saints in Christ Jesus who are in Philippi, with the bishops a and deacons: †
+PHP.1:1 Paul and Timothy, bondservants of Jesus Christ, To all the saints in Christ Jesus who are in Philippi, with the bishops a and deacons: †
 
 ### Thanksgiving
 
 PHP.1:2 Grace to you and peace from God our Father and the Lord Jesus Christ.
-PHP.1:3 I thank my God upon every remembrance of you, 4 always in every prayer of mine making request for you all with joy, 5 for your fellowship in the gospel from the first day until now, 6 being confident of this very thing, that He who has begun agood work in you will complete it until the day of Jesus Christ; 7 just as it is right for me to think this of you all, because I have you in my heart, inasmuch as both in my chains and in the defense and confirmation of the gospel, you all are partakers with me of grace.
+PHP.1:3 I thank my God upon every remembrance of you,
+PHP.1:4 always in every prayer of mine making request for you all with joy,
+PHP.1:5 for your fellowship in the gospel from the first day until now,
+PHP.1:6 being confident of this very thing, that He who has begun agood work in you will complete it until the day of Jesus Christ;
+PHP.1:7 just as it is right for me to think this of you all, because I have you in my heart, inasmuch as both in my chains and in the defense and confirmation of the gospel, you all are partakers with me of grace.
 PHP.1:8 For God is my witness, how greatly I long for you all with the affection of Jesus Christ.
 PHP.1:9 And this I pray, that your love may abound still more and more in knowledge and all discernment,
 
 ### Paul's Suffering in Prison
 
-PHP.1:10 that you may approve the things that are excellent, that you may be sincere and without offense till the day of Christ, 11 being filled with the fruits of righteousness which are by Jesus Christ, to the glory and praise of God.
+PHP.1:10 that you may approve the things that are excellent, that you may be sincere and without offense till the day of Christ,
+PHP.1:11 being filled with the fruits of righteousness which are by Jesus Christ, to the glory and praise of God.
 PHP.1:12 But I want you to know, brethren, that the things which happened to me have actually turned out for the furtherance of the gospel,
 PHP.1:13 so that it has become evident to the whole palace guard, and to all the rest, that my chains are in Christ;
 PHP.1:14 and most of the brethren in the Lord, having become confident by my chains, are much more bold to speak the word without fear.
@@ -43,7 +44,8 @@ PHP.1:15 Some indeed preach Christ even from envy and strife, and some also from
 PHP.1:16 The former apreach Christ from selfish ambition, not sincerely, supposing to add affliction to my chains;
 PHP.1:17 but the latter out of love, knowing that I am appointed for the defense of the gospel.
 PHP.1:18 What then? Only that in every way, whether in pretense or in truth, Christ is preached; and in this I rejoice, yes, and will rejoice.
-PHP.1:19 For I know that this will turn out for my deliverance through your prayer and the supply of the Spirit of Jesus Christ, 20 according to my earnest expectation and hope that in nothing I shall be ashamed, but with all boldness, as always, so now also Christ will be magnified in my body, whether by life or by death.
+PHP.1:19 For I know that this will turn out for my deliverance through your prayer and the supply of the Spirit of Jesus Christ,
+PHP.1:20 according to my earnest expectation and hope that in nothing I shall be ashamed, but with all boldness, as always, so now also Christ will be magnified in my body, whether by life or by death.
 PHP.1:21 For to me, to live is Christ, and to die is gain.
 PHP.1:22 But if I live on in the flesh, this will mean fruit from my labor; yet what I shall choose I cannot tell.
 PHP.1:23 For a I am hard-pressed between the two, having adesire to depart and be with Christ, which is far better.
@@ -58,13 +60,17 @@ PHP.1:28 and not in any way terrified by your adversaries, which is to them apro
 
 ### Preserve Unity in Humility
 
-PHP.1:29 For to you it has been granted on behalf of Christ, not only to believe in Him, but also to suffer for His sake, 30 having the same conflict which you saw in me and now hear is in me.
+PHP.1:29 For to you it has been granted on behalf of Christ, not only to believe in Him, but also to suffer for His sake,
+PHP.1:30 having the same conflict which you saw in me and now hear is in me.
 ## Chapter 2
 
-PHP.2:1 herefore if there is any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any affection and mercy, 2 fulfill my joy by being like-minded, having the same love, being of one accord, of one mind.
+PHP.2:1 herefore if there is any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any affection and mercy,
+PHP.2:2 fulfill my joy by being like-minded, having the same love, being of one accord, of one mind.
 PHP.2:3 Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself.
 PHP.2:4 Let each of you look out not only for his own interests, but also for the interests of others.
-PHP.2:5 Let this mind be in you which was also in Christ Jesus, 6 who, being in the form of God, did not consider it robbery to be equal with God, 7 but made Himself of no reputation, taking the form of abondservant, and coming in the likeness of men.
+PHP.2:5 Let this mind be in you which was also in Christ Jesus,
+PHP.2:6 who, being in the form of God, did not consider it robbery to be equal with God,
+PHP.2:7 but made Himself of no reputation, taking the form of abondservant, and coming in the likeness of men.
 PHP.2:8 And being found in appearance as aman, He humbled Himself and became obedient to the point of death, even the death of the cross.
 PHP.2:9 Therefore God also has highly exalted Him and given Him the name which is above every name,
 PHP.2:10 that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth,
@@ -78,7 +84,8 @@ PHP.2:14 Do all things without complaining and disputing,
 
 ### Apostolic Support for Philippi
 
-PHP.2:15 that you may become blameless and harmless, children of God without fault in the midst of acrooked and perverse generation, among whom you shine as lights in the world, 16 holding fast the word of life, so that I may rejoice in the day of Christ that I have not run in vain or labored in vain.
+PHP.2:15 that you may become blameless and harmless, children of God without fault in the midst of acrooked and perverse generation, among whom you shine as lights in the world,
+PHP.2:16 holding fast the word of life, so that I may rejoice in the day of Christ that I have not run in vain or labored in vain.
 PHP.2:17 Yes, and if I am being poured out as adrink offering on the sacrifice and service of your faith, I am glad and rejoice with you all.
 PHP.2:18 For the same reason you also be glad and rejoice with me.
 PHP.2:19 But I trust in the Lord Jesus to send Timothy to you shortly, that I also may be encouraged when I know your state.
@@ -100,7 +107,10 @@ PHP.2:30 because for the work of Christ he came close to death, not regarding hi
 
 PHP.3:1 inally, my brethren, rejoice in the Lord. For me to write the same things to you is not tedious, but for you it is safe.
 PHP.3:2 Beware of dogs, beware of evil workers, beware of the mutilation!
-PHP.3:3 For we are the circumcision, who worship God in the Spirit, arejoice in Christ Jesus, and have no confidence in the flesh, 4 though I also might have confidence in the flesh. If anyone else thinks he may have confidence in the flesh, I more so: 5 circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, a Hebrew of the Hebrews; concerning the law, a Pharisee; 6 concerning zeal, persecuting the church; concerning the righteousness which is in the law, blameless.
+PHP.3:3 For we are the circumcision, who worship God in the Spirit, arejoice in Christ Jesus, and have no confidence in the flesh,
+PHP.3:4 though I also might have confidence in the flesh. If anyone else thinks he may have confidence in the flesh, I more so:
+PHP.3:5 circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, a Hebrew of the Hebrews; concerning the law, a Pharisee;
+PHP.3:6 concerning zeal, persecuting the church; concerning the righteousness which is in the law, blameless.
 PHP.3:7 But what things were gain to me, these I have counted loss for Christ.
 PHP.3:8 Yet indeed I also count all things loss for the excellence of the knowledge of Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them as rubbish, that I may gain Christ
 PHP.3:9 and be found in Him, not having my own righteousness, which is from the law, but that which is through faith in Christ, the righteousness which is from God by faith;
@@ -117,7 +127,8 @@ PHP.3:16 Nevertheless, to the degree that we have already attained, let us walk 
 PHP.3:17 Brethren, join in following my example, and note those who so walk, as you have us for apattern.
 PHP.3:18 For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
 PHP.3:19 whose end is destruction, whose god is their belly, and whose glory is in their shame-who set their mind on earthly things.
-PHP.3:20 For our citizenship is in heaven, from which we also eagerly wait for the Savior, the Lord Jesus Christ, 21 who will transform our lowly body that it may be conformed to His glorious body, according to the working by which He is able even to subdue all things to Himself.
+PHP.3:20 For our citizenship is in heaven, from which we also eagerly wait for the Savior, the Lord Jesus Christ,
+PHP.3:21 who will transform our lowly body that it may be conformed to His glorious body, according to the working by which He is able even to subdue all things to Himself.
 ## Chapter 4
 
 

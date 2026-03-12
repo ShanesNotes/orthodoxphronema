@@ -133,10 +133,13 @@ def generate_dossier(book_code: str, testament: str,
     """Build promotion dossier dict."""
     all_msgs = [(m, "error") for m in errors] + [(m, "warning") for m in warnings]
     validation = {}
+    def _is_check_msg(msg: str, check_name: str) -> bool:
+        return msg.startswith(f"{check_name} ")
+
     for cn in ("V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "V9"):
-        msgs = [m for m, _ in all_msgs if m.startswith(cn)]
-        has_err = any(t == "error" for m, t in all_msgs if m.startswith(cn))
-        has_warn = any(t == "warning" for m, t in all_msgs if m.startswith(cn))
+        msgs = [m for m, _ in all_msgs if _is_check_msg(m, cn)]
+        has_err = any(t == "error" for m, t in all_msgs if _is_check_msg(m, cn))
+        has_warn = any(t == "warning" for m, t in all_msgs if _is_check_msg(m, cn))
         if has_err:
             status = "FAIL"
         elif has_warn:

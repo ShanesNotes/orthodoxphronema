@@ -18,9 +18,7 @@ would revile and reject Him and incur the curses mentioned, understood spiritual
 
 Cyril is optimistic about the full restitution of the Jews, noting the solution found in v. 20
 
---they need only to look up to God in faith.
-
-The book begins in a manner similar to the other prophets, describing the advent of the
+--they need only to look up to God in faith. The book begins in a manner similar to the other prophets, describing the advent of the
 
 Word of God to Joel. This is not merely a formula (see Jer 1:2; Ezk 1:3; Hos 1:1), but is
 
@@ -28,9 +26,7 @@ God's way of arresting our attention, beckoning us to read the work not merely a
 
 literature, but as Holy Scripture. The advent of the word of the Lord to the prophet should
 
-lift our minds to Christ, the eternal Word of God.
-
-Joel the son of Pethuel: The prophet's patronymic is included since Joel was a
+lift our minds to Christ, the eternal Word of God. Joel the son of Pethuel: The prophet's patronymic is included since Joel was a
 
 relatively common name (see 1Ch 4:35; 5:4, 8, 12; 6:13, 18, 21; etc.). Furthermore, the
 
@@ -52,17 +48,11 @@ the coming destruction. Not only does this mark out the special nature of the co
 
 onslaught, but it reminds us of the way persons in the past and the future participate in
 
-the present.
-
-Scripture memorializes two types of events. On the one hand, the righteous exploits of
+the present. Scripture memorializes two types of events. On the one hand, the righteous exploits of
 
 God working through His saints (e.g., Ps 104) are held up as examples to be followed. On
 
-the other hand, there are the mistakes of the people of God and their consequences (e.g.
-
-Ps 105). Joel begins with the latter, while finishing with a promise of the former.
-
-Elders . . . all of you inhabiting the land: Not only does the prophet call for the
+the other hand, there are the mistakes of the people of God and their consequences (e.g. Ps 105). Joel begins with the latter, while finishing with a promise of the former. Elders . . . all of you inhabiting the land: Not only does the prophet call for the
 
 attention of the elders and the general population, but by formulating his petition in this
 
@@ -72,10 +62,7 @@ the carnal (the inhabitants of the land). The message of Joel is fitted to each 
 
 according to his spiritual fitness and place in his journey towards God, yet all should pay
 
-attention.
-
-
-### 1:4
+attention. ### 1:4
 *(anchor: JOL.1:4)*
 
 Caterpillar, grasshopper, locust, red blight: Exactly what creatures these words
@@ -84,9 +71,7 @@ signify, whether in the Greek or in the Hebrew, we cannot say for certain. While
 
 have suggested the four words describe four kinds of insect, others claim they refer to
 
-different stages in the lifecycle of the locust. Both are educated guesses.
-
-On the metaphorical level, the text can be seen as four different waves of assault
+different stages in the lifecycle of the locust. Both are educated guesses. On the metaphorical level, the text can be seen as four different waves of assault
 
 against the land. While Ephraim of Syria saw this as a reference to four different
 
@@ -94,10 +79,7 @@ Mesopotamian kings, subsequent fathers accepted this verse as a prophecy of the 
 
 major conquests of Israel: the Babylonians, the Persians, the Greeks, and the Romans
 
-(see Dan 2).
-
-
-### 1:5
+(see Dan 2). ### 1:5
 *(anchor: JOL.1:5)*
 
 Joel addresses the people of Israel as if they were all drunkards. Drunkenness
@@ -108,21 +90,14 @@ people who are using good things to excess, drinking not to quench their thirst 
 
 become drunk. Christ used this same theme when He warned those who were making
 
-merry in His own day (Lk 6:24-26).
-
-
-### 1:6
+merry in His own day (Lk 6:24-26). ### 1:6
 *(anchor: JOL.1:6)*
 
-, 7 Here the prophet not only begins to describe what is in store for his wayward people,
-
-but he phrases this eight-line poem as if it were a dirge to lament the occupation of the
+, 7 Here the prophet not only begins to describe what is in store for his wayward people, but he phrases this eight-line poem as if it were a dirge to lament the occupation of the
 
 land. Joel composes it both to shame Israel and to draw attention to the gravity of the
 
-situation.
-
-Lion: The prophet turns from the locust metaphor to that of a lion to describe the
+situation. Lion: The prophet turns from the locust metaphor to that of a lion to describe the
 
 conquering enemy, highlighting their powerful inhumanity. The first targets are the
 
@@ -130,14 +105,9 @@ grapes and the figs, i.e., the juice and the sweetness of the land, representing
 
 livelihood and wealth of Israel. This is the same manner in which the devil and the
 
-passions assault our own spiritual life. When we succumb to the temptations of the flesh,
+passions assault our own spiritual life. When we succumb to the temptations of the flesh, the powers of evil enter into our land and first attack the virtues of our character and our
 
-the powers of evil enter into our land and first attack the virtues of our character and our
-
-good deeds.
-
-
-### 1:8
+good deeds. ### 1:8
 *(anchor: JOL.1:8)*
 
 The bride weeps, presumably, for the death of her betrothed. In this same manner the
@@ -148,10 +118,7 @@ sackcloth, lamenting the death of their bridegroom. Indeed, in our own time, whe
 
 judges His People for their sins, we should assume this same demeanor, repenting, being
 
-cleansed by our tears, and awaiting the return of Christ our Savior.
-
-
-### 1:9
+cleansed by our tears, and awaiting the return of Christ our Savior. ### 1:9
 *(anchor: JOL.1:9)*
 
 Joel 1:9, 10, 13: The meat-offering and the drink-offering (v. 9); grain-offering
@@ -166,10 +133,7 @@ us the image of the Church stripped of the eucharistic sacraments through the
 
 disobedience of the community. In this situation, the priests are called to lament the
 
-plight of the land and intercede for their wayward people (see 2:17).
-
-
-### 1:11
+plight of the land and intercede for their wayward people (see 2:17). ### 1:11
 *(anchor: JOL.1:11)*
 
 By calling the farmers to mourn, Joel not only includes landowners in the national
@@ -182,20 +146,12 @@ sight of God, a rather insignificant matter. More importantly, the prophet calls
 
 beyond and grieve over the destruction of other people, and of the sins which ravage our
 
-souls.
-
-
-### 1:12
+souls. ### 1:12
 *(anchor: JOL.1:12)*
 
-They put to shame the delight of the sons of men: The phrase, a Hebraism,
+They put to shame the delight of the sons of men: The phrase, a Hebraism, literally translates "have shamed their joy." That is to say that joy, a good thing in and of
 
-literally translates "have shamed their joy." That is to say that joy, a good thing in and of
-
-itself, was being abused and defiled by the Israelites.
-
-
-### 1:13
+itself, was being abused and defiled by the Israelites. ### 1:13
 *(anchor: JOL.1:13)*
 
 For the loss of the sacrificial rite, see note at vv. 9, 10. It would be a mistake to read
@@ -204,70 +160,44 @@ this as an anticlerical passage, for the prophet neither upbraids the priests no
 
 the importance of the priesthood. Rather, Joel calls the spiritual leadership of the land to
 
-fulfill their proper role in times of national distress.
-
-
-### 1:14
+fulfill their proper role in times of national distress. ### 1:14
 *(anchor: JOL.1:14)*
 
 See Is 58:4, 5. This is but one more reason for fasting in the life of the Church--to
 
 repent of the sins of the community. The leaders and elders of the land are called to
 
-change their luxury into sackcloth (v. 8) and to cry out incessantly and fervently to God.
-
-Fasting without contrition of heart is nothing.
-
-
-### 1:15
+change their luxury into sackcloth (v. 8) and to cry out incessantly and fervently to God. Fasting without contrition of heart is nothing. ### 1:15
 *(anchor: JOL.1:15)*
 
 The threefold woe is the appropriate response in this disaster since the Holy Trinity
 
 has been offended. This reminds us as well that the Day of the Lord is not the visitation
 
-of Christ alone, but is a judgment that involves the participation of all three Persons.
-
-The day of the Lord could suggest a day either of punishment or of reward. As it
+of Christ alone, but is a judgment that involves the participation of all three Persons. The day of the Lord could suggest a day either of punishment or of reward. As it
 
 turns out, Joel uses the term here and in 2:1, 11 to refer to a day of judgment, but as he
 
 turns to the promised salvation of God, the day of the Lord becomes a day of restitution
 
-for the people of God (2:31; 3:14, 18).
-
-
-### 1:19
+for the people of God (2:31; 3:14, 18). ### 1:19
 *(anchor: JOL.1:19)*
 
 The prophet interrupts his narrative with a prayer, reminding us that our deliverance
 
-from disaster comes not from any other so-called gods, but from the Lord Himself.
-
-
-### 1:20
+from disaster comes not from any other so-called gods, but from the Lord Himself. ### 1:20
 *(anchor: JOL.1:20)*
 
-Just as all the beasts look to God to give them their food in due season (Ps 103:27),
-
-so they do here, since He will fill them with every good thing by His hand (Ps 103:28).
-
-
-### 2:1-11
+Just as all the beasts look to God to give them their food in due season (Ps 103:27), so they do here, since He will fill them with every good thing by His hand (Ps 103:28). ### 2:1-11
 *(anchor: JOL.2:1)*
 
 In this chapter the prophet switches to the future tense. While ch. 1 appears to
 
-discuss a plague that has already occurred, ch. 2 warns of yet another imminent plague.
-
-Furthermore, Joel moves from agricultural images to military ones. The repentance of
+discuss a plague that has already occurred, ch. 2 warns of yet another imminent plague. Furthermore, Joel moves from agricultural images to military ones. The repentance of
 
 the Church is the aim of the passage. Joel depicts the coming disaster in a number of
 
-ways, but he emphasizes throughout that God's sovereign plan is ultimately at work.
-
-
-### 2:4-5
+ways, but he emphasizes throughout that God's sovereign plan is ultimately at work. ### 2:4-5
 *(anchor: JOL.2:4)*
 
 St. Cyril notes that nothing was more warlike than the fully equipped horse, which
@@ -282,26 +212,17 @@ flame devouring a reed."
 ### 2:12-17
 *(anchor: JOL.2:12)*
 
-Repentance is an ascetic effort. Joel emphasizes the inner state of the heart,
-
-bidding us to rend not our clothes but our hearts. This does not mean that the prophet
+Repentance is an ascetic effort. Joel emphasizes the inner state of the heart, bidding us to rend not our clothes but our hearts. This does not mean that the prophet
 
 opposed physical expressions of repentance. The penitent is to fast, weep, and mourn, all
 
 physical acts. Everyone in Israel was to gather to call upon the Lord, a physical and
 
-liturgical act. These acts, done in the right manner, only assist our repentance. If, in fact,
+liturgical act. These acts, done in the right manner, only assist our repentance. If, in fact, we are justified simply by confessing our sins (1Jn 1:9), how much more so when our
 
-we are justified simply by confessing our sins (1Jn 1:9), how much more so when our
+repentance is expressed physically, through our bodies and the community? Interestingly, the prophet never tells us of what Israel was guilty. His emphasis
 
-repentance is expressed physically, through our bodies and the community?
-
-Interestingly, the prophet never tells us of what Israel was guilty. His emphasis
-
-remains on the coming judgment and the need to repent.
-
-
-### 2:17
+remains on the coming judgment and the need to repent. ### 2:17
 *(anchor: JOL.2:17)*
 
 Between the porch and the altar: The altar represents the animal sacrifices which
@@ -310,20 +231,13 @@ were offered to the Lord, while the porch refers to the people. So while the alt
 
 place of life through the death of the sacrificial animal, the porch was also a place for the
 
-dying who sought life. The priests, by placing themselves between the porch and the altar,
+dying who sought life. The priests, by placing themselves between the porch and the altar, were to mediate this life to the people. Because of the sacrifice of Christ, the porch and
 
-were to mediate this life to the people. Because of the sacrifice of Christ, the porch and
-
-altar have been united. Christ's death brings life to us.
-
-2:17-18 These two verses form the center of the book. The passage summarizes all that has
+altar have been united. Christ's death brings life to us. 2:17-18 These two verses form the center of the book. The passage summarizes all that has
 
 been written so far and introduces the rest of the book, which presents God's promises
 
-and explores the eschatological hope of Israel.
-
-
-### 2:20
+and explores the eschatological hope of Israel. ### 2:20
 *(anchor: JOL.2:20)*
 
 Army from the north refers to the Assyrian or Babylonian forces, since locust
@@ -334,10 +248,7 @@ will be driven by the Lord into a dry land, referring to the deserts from which 
 
 plagues would come. The eastern sea and western sea refer to the Dead Sea and
 
-Mediterranean Sea, respectively.
-
-
-### 2:21-23
+Mediterranean Sea, respectively. ### 2:21-23
 *(anchor: JOL.2:21)*
 
 The prophet calls on the land, the beasts of the field, and the children of
@@ -348,53 +259,32 @@ the book (see note on 1:2, 3), so he does here, as well. The beasts refer to the
 
 Israelites while the children of Zion refer to the spiritual. The land refers to both of these
 
-groups.
-
-
-### 2:22-32
+groups. ### 2:22-32
 *(anchor: JOL.2:22)*
 
-The prophet now turns his gaze towards the final rest of the people of God,
+The prophet now turns his gaze towards the final rest of the people of God, prophesying the coming of Christ and the descent of the Holy Spirit. These eleven verses
 
-prophesying the coming of Christ and the descent of the Holy Spirit. These eleven verses
+are fulfilled ultimately in Christ, the sacramental life of the Church, and Pentecost. 2:22-24 The trees bear their fruit: In this verse Joel foreshadows the cross of Christ, the tree which bore the greatest fruit of all. The vine and the fig tree refer to the
 
-are fulfilled ultimately in Christ, the sacramental life of the Church, and Pentecost.
+establishment of the Church (see Rom 11:17-24; Jn 15:1; Lk 13:6-9). Rain, wheat, wine, and oil refer to the food that is right for you, namely the sacraments of Holy
 
-2:22-24 The trees bear their fruit: In this verse Joel foreshadows the cross of Christ,
-
-the tree which bore the greatest fruit of all. The vine and the fig tree refer to the
-
-establishment of the Church (see Rom 11:17-24; Jn 15:1; Lk 13:6-9). Rain, wheat,
-
-wine, and oil refer to the food that is right for you, namely the sacraments of Holy
-
-Baptism, the Eucharist, and the sealing of the Holy Spirit.
-
-
-### 3:1
+Baptism, the Eucharist, and the sealing of the Holy Spirit. ### 3:1
 *(anchor: JOL.3:1)*
 
-When Peter quotes this verse, he changes after this to "in the last days" (Acts 2:17),
-
-one of several modest modifications of the verse. Peter's adaptation of Joel indicates that
+When Peter quotes this verse, he changes after this to "in the last days" (Acts 2:17), one of several modest modifications of the verse. Peter's adaptation of Joel indicates that
 
 he understood the passage to be eschatological. Your sons and daughters shall
 
 prophesy: The gift of prophecy was to be given to both men and women without
 
-distinction (see Acts 21:9).
-
-
-### 3:5
+distinction (see Acts 21:9). ### 3:5
 *(anchor: JOL.3:5)*
 
 There shall be proclamation of the good news: The Greek can also be translated
 
 "and there shall be heralds of the gospel," suggesting a prophecy of the missions of the
 
-Twelve and the Seventy Apostles, all of whom were appointed by Christ.
-
-4:1
+Twelve and the Seventy Apostles, all of whom were appointed by Christ. 4:1
 
 In this chapter Joel deplores the mistreatment of Israel and prophesies the coming
 
@@ -408,47 +298,31 @@ be spiritually restored and become the source of life for the rest of the nation
 
 of Judah and Jerusalem: This prophecy refers to the restoration of Judah from the
 
-exile in Babylon. The Hebrew version does not mention the exile.
-
-4:2 The judgment of all nations can be understood in one or more of three different ways.
-
-It may, on the one hand, refer to the attempted siege of Jerusalem during the building of
+exile in Babylon. The Hebrew version does not mention the exile. 4:2 The judgment of all nations can be understood in one or more of three different ways. It may, on the one hand, refer to the attempted siege of Jerusalem during the building of
 
 the wall (see 2Ez 4). There is a strong case for this interpretation because of the earlier
 
 reference to the restoration from exile. Secondly, the passage may refer to the age of the
 
-Church, in which God deals with the persecutors or heretics who attempt to assail her.
+Church, in which God deals with the persecutors or heretics who attempt to assail her. Thirdly, this may be understood as the final judgment of all people for their sins. In any
 
-Thirdly, this may be understood as the final judgment of all people for their sins. In any
+case, God is dealing with nations who are willingly attacking His people. The Valley of Jehoshaphat most likely refers to the Kidron Valley, just east of
 
-case, God is dealing with nations who are willingly attacking His people.
-
-The Valley of Jehoshaphat most likely refers to the Kidron Valley, just east of
-
-Jerusalem. The triumph of God over His enemies in a valley is echoed in 1 Enoch 53; 54,
-
-but here the valley is fiery. This image was retained in the New Testament, where Christ
+Jerusalem. The triumph of God over His enemies in a valley is echoed in 1 Enoch 53; 54, but here the valley is fiery. This image was retained in the New Testament, where Christ
 
 refers to a valley in which trash was burnt, Gehenna (translated "hell"), as a symbol of
 
-judgment.
-
-4:4
+judgment. 4:4
 
 All the coast of Philistia refers to the non-Jewish nations that lived in Galilee and
 
 its environs. Under Babylonian and Persian administration, many non-Jewish peoples
 
-moved into the northern regions of Israel.
-
-4:6
+moved into the northern regions of Israel. 4:6
 
 The slave trade was widespread in antiquity. The abduction of Israelites for sale into
 
-slavery is attested as late as the Maccabean period (1Mc 3:41; 2Mc 8:11).
-
-4:9-12
+slavery is attested as late as the Maccabean period (1Mc 3:41; 2Mc 8:11). 4:9-12
 
 This passage is sarcastic in tone. God does not desire the death of a sinner (Ezk
 
@@ -456,39 +330,27 @@ This passage is sarcastic in tone. God does not desire the death of a sinner (Ez
 
 aware that their attack will come to no avail, but he uses the assault as an opportunity to
 
-bring them into judgment.
-
-4:10
+bring them into judgment. 4:10
 
 Spears: The Greek word used here indicates a special kind of spear. It was a barbed
 
-pole used to probe for concealed pits into which an advancing soldier might fall.
+pole used to probe for concealed pits into which an advancing soldier might fall. 4:13
 
-4:13
-
-While the nations turn from farming to warfare, the Lord does the opposite,
-
-attending to agriculture, harvesting grain, and treading wine. While the treading of grapes
+While the nations turn from farming to warfare, the Lord does the opposite, attending to agriculture, harvesting grain, and treading wine. While the treading of grapes
 
 is typically an image of the massacre of enemies, Joel emphasizes the moral aspects of
 
 the image. The runoff of the grapes is not simply blood, but the result of the abundance of
 
-evil in the nations (see Rev 14:17-20).
-
-4:16-17 The language used by Joel is reminiscent of descriptions of the last days found in
+evil in the nations (see Rev 14:17-20). 4:16-17 The language used by Joel is reminiscent of descriptions of the last days found in
 
 the New Testament. In the final judgment the Lord shouts out (1Th 4:16) and establishes
 
-an incorruptible Jerusalem (Rev 21:9-27).
-
-4:19
+an incorruptible Jerusalem (Rev 21:9-27). 4:19
 
 In previous verses, God deals with the Mesopotamian army. Here He promises to
 
-dispense with Israel's other enemies, Egypt and Edom.
-
-4:21
+dispense with Israel's other enemies, Egypt and Edom. 4:21
 
 The Lord shall dwell in Zion: Joel closes his book in fitting manner, pointing to
 

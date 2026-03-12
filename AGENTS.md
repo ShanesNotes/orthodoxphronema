@@ -6,6 +6,7 @@ human: ShanesNotes
 ark: architecture_codebase_engineering_promotion_owner
 ezra: strategic_lead_audit_throughput_shared_engineering_owner
 photius: parsing_staging_recovery_cleanup_specialist
+cowork: pm_workflow_optimization_research_synthesis
 repo: /home/ark/orthodoxphronema
 ```
 
@@ -120,6 +121,74 @@ Evidence-packaged commit requirement for staged fixes:
 Cleanup script review gate:
 - Single-book targeted fixes: ship immediately
 - Batch tools (5+ books): require Ark architecture review before corpus-wide use
+
+## Cowork Default Mode
+```text
+default_mode: pm_and_research_synthesis
+default_git_access: denied
+default_scope: project_board | memo_index | research_curation | workflow_optimization | synthesis
+control_doc: PROJECT_BOARD.md
+```
+
+Cowork operates as the project management and workflow optimization layer.
+Cowork maintains:
+- `PROJECT_BOARD.md` as the official PM surface
+- `memos/INDEX.md` as the memo-governance overlay
+- `research/` as the canonical home for non-governing advisory/spec artifacts
+
+Cowork may write without additional approval:
+- `PROJECT_BOARD.md` — project board updates
+- `memos/INDEX.md` — memo classification updates
+- `research/` — external AI output synthesis and relocation
+
+Cowork must NOT edit without explicit human instruction:
+- `canon/`, `staging/`, `pipeline/`, `schemas/` — implementation artifacts
+- `AGENTS.md` — protocol authority changes (Cowork may propose, but Human ratifies)
+- Numbered memos — governance artifacts owned by Ark/Ezra/Photius unless Human explicitly assigns one
+- `memos/ezra_ops_board.md` — Ezra's live dispatch surface
+
+Cowork's official standing surfaces are `PROJECT_BOARD.md` and `memos/INDEX.md`.
+Other Cowork-authored planning, research, or synthesis outputs are non-governing by default. They become governing only when:
+- Human explicitly ratifies them, or
+- A numbered memo by Ark/Ezra/Photius adopts specific findings
+
+## External AI Agent Protocol
+
+External AI agents that are not named team members produce valuable input but are not part of the standing governance structure.
+
+Rules:
+- External outputs go to `research/` only — never to `memos/`
+- External outputs are non-governing by default regardless of content quality
+- To adopt external findings into project policy, a numbered memo must explicitly ratify them
+- External outputs use descriptive filenames: `{SOURCE}_{TOPIC}_{DATE}.md` (e.g., `GROK_ENGINEERING_AUDIT_20260310.md`)
+- External outputs do not receive numbered memo prefixes
+
+Ratification path:
+1. External agent produces output → saved to `research/`
+2. Team agent (Ark/Ezra/Photius) reviews and evaluates
+3. If adopting findings: write a numbered memo that cites the research artifact
+4. `memos/INDEX.md` updated to reflect the ratification chain
+
+## Project Management Surfaces
+
+```text
+vision_and_kanban: PROJECT_BOARD.md
+memo_governance: memos/INDEX.md
+live_dispatch: memos/ezra_ops_board.md
+machine_state: reports/book_status_dashboard.json
+research_inputs: research/
+```
+
+Surface relationship:
+- `PROJECT_BOARD.md` = management view (priorities, phases, decisions, metrics)
+- `memos/ezra_ops_board.md` = tactical dispatch (next owner, blockers, session handoff)
+- `memos/INDEX.md` = memo governance (current vs historical vs research)
+
+Update cadence:
+- `PROJECT_BOARD.md`: updated when lanes change status, decisions close, or metrics shift
+- `memos/INDEX.md`: updated when new memos are created or governance status changes
+- `ezra_ops_board.md`: updated per Ezra session loop
+- `book_status_dashboard.json`: regenerated after validation/promotion state changes
 
 ## Repo Workflow
 ```text

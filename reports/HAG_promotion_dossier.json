@@ -1,7 +1,7 @@
 {
   "book_code": "HAG",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:03:23.244154",
+  "timestamp": "2026-03-11T16:09:35.616299",
   "registry_version": "1.3.0",
   "body_checksum": "769a8b29deed6ac4b269a227f97f1a65c2c6dc13d699517787d23d4b6b12883e",
   "validation": {
@@ -43,5 +43,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

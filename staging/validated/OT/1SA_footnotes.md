@@ -20,38 +20,26 @@ Elkanah means "God created."
 
 Hannah means "graciousness." In the Old Testament, barrenness was a sign that God
 
-had withdrawn His blessing.
-
-
-### 1:3
+had withdrawn His blessing. ### 1:3
 *(anchor: 1SA.1:3)*
 
 Since the time of Joshua, Shiloh had been the political and religious center for the
 
 people of Israel. The tabernacle and the ark of the covenant were kept there until David
 
-conquered Jerusalem, making that city the new place of Israel's worship.
-
-
-### 1:7
+conquered Jerusalem, making that city the new place of Israel's worship. ### 1:7
 *(anchor: 1SA.1:7)*
 
 Rather than containing the grief over her barrenness, Hannah expresses her heart to
 
-the Lord through fasting and tears.
-
-
-### 1:9
+the Lord through fasting and tears. ### 1:9
 *(anchor: 1SA.1:9)*
 
 The word temple is used rather than "tabernacle," although this was the movable
 
 tabernacle built under the leadership of Moses. The word "temple" suggests a more
 
-permanent structure that people came to in order to worship God.
-
-
-### 1:11
+permanent structure that people came to in order to worship God. ### 1:11
 *(anchor: 1SA.1:11)*
 
 Lowly state is the same phrase the Virgin Mary prays in Lk 1:48. Hannah's promise
@@ -60,10 +48,7 @@ to God is that her child would fulfill the Nazirite vow, which was a type of anc
 
 vow found first in Nm 6. In every instance of this vow in Scripture, it is prescribed before
 
-birth--for Samson, Samuel, and probably John the Baptist (Lk 1:13-15).
-
-
-### 1:13
+birth--for Samson, Samuel, and probably John the Baptist (Lk 1:13-15). ### 1:13
 *(anchor: 1SA.1:13)*
 
 St. Cyprian sees the praying Hannah as a type of the Church pouring her heart out in
@@ -78,37 +63,23 @@ faith."
 
 Hannah defends herself to Eli against being a daughter of corruption. Drunkenness
 
-and sexual immorality were common hallmarks of pagan Canaanite worship.
-
-
-### 1:17
+and sexual immorality were common hallmarks of pagan Canaanite worship. ### 1:17
 *(anchor: 1SA.1:17)*
 
-The priest recognizes Hannah's humility and gives her his blessing.
-
-
-### 1:18
+The priest recognizes Hannah's humility and gives her his blessing. ### 1:18
 *(anchor: 1SA.1:18)*
 
 This is a great display of Hannah's faith, in that she trusts in God's answer before
 
-receiving it.
-
-
-### 1:20
+receiving it. ### 1:20
 *(anchor: 1SA.1:20)*
 
 Samuel means "the name is God (godly)" or "the descendant of God," a name
 
-suggesting he was a child given from God.
-
-
-### 1:22
+suggesting he was a child given from God. ### 1:22
 *(anchor: 1SA.1:22)*
 
-Hannah is a type of Mary, as Samuel is a type of Christ, because as St. Cyprian states,
-
-"Samuel [was born] not according to the order of generation, but according to the mercy
+Hannah is a type of Mary, as Samuel is a type of Christ, because as St. Cyprian states, "Samuel [was born] not according to the order of generation, but according to the mercy
 
 and promise of God."
 
@@ -118,10 +89,7 @@ and promise of God."
 
 Hannah is not only fulfilling her promise, but her words are prophetic of Samuel's
 
-life of service to God.
-
-
-### 2:1
+life of service to God. ### 2:1
 *(anchor: 1SA.2:1)*
 
 The prayer of Hannah has become a beloved hymn of the Church and is one of the
@@ -132,58 +100,37 @@ the Church's hymns. There are also many similarities between this prayer and the
 
 of Mary in Lk 1:46-55. The word horn had become a symbol for strength, honor, and
 
-power.
-
-
-### 2:3
+power. ### 2:3
 *(anchor: 1SA.2:3)*
 
-We must boast in nothing, since nothing is our own (Cyprian).
-
-
-### 2:5
+We must boast in nothing, since nothing is our own (Cyprian). ### 2:5
 *(anchor: 1SA.2:5)*
 
 Were made empty means literally "to be made less" or "inferior." Those who were
 
 once full and satisfied are now beginning to be emptied. St. Augustine sees this whole
 
-verse as a prophecy of the decline of Israel and the rise of the Gentile Church.
-
-
-### 2:6
+verse as a prophecy of the decline of Israel and the rise of the Gentile Church. ### 2:6
 *(anchor: 1SA.2:6)*
 
 This verse foreshadows the resurrection and is likely a picture of the Lord's own
 
 descent into Hades and His Resurrection. Aphrahat uses this passage among many to
 
-demonstrate that the belief in the resurrection existed even in the Old Testament.
-
-
-### 2:9
+demonstrate that the belief in the resurrection existed even in the Old Testament. ### 2:9
 *(anchor: 1SA.2:9)*
 
-It is God who ultimately fills the heart with prayer.
-
-
-### 2:11
+It is God who ultimately fills the heart with prayer. ### 2:11
 *(anchor: 1SA.2:11)*
 
 Samuel did not merely help Eli with the menial tasks of the tabernacle, but actually
 
-participated in the liturgical worship of God.
-
-
-### 2:21
+participated in the liturgical worship of God. ### 2:21
 *(anchor: 1SA.2:21)*
 
 God blessed Hannah with five more children because of her faithfulness and
 
-obedience.
-
-
-### 2:27-29
+obedience. ### 2:27-29
 *(anchor: 1SA.2:27)*
 
 The prophet condemns Eli because he excuses the conduct of his sons (3:13). The
@@ -192,15 +139,10 @@ prophet declares Eli has honored his sons more than he has honored God. Even pio
 
 parents can be passive in the raising of their children: a warning to all who desire godly
 
-offspring.
-
-
-### 2:35
+offspring. ### 2:35
 *(anchor: 1SA.2:35)*
 
-Lactantius states, "And since Christ was the builder of this great and eternal temple,
-
-He must also have an everlasting priesthood in it; and there can be no approach to the
+Lactantius states, "And since Christ was the builder of this great and eternal temple, He must also have an everlasting priesthood in it; and there can be no approach to the
 
 shrine of the temple, and to the sight of God, except through Him who built the temple."
 
@@ -210,44 +152,27 @@ shrine of the temple, and to the sight of God, except through Him who built the 
 
 God's word had become very precious because of the absence of a clear, concise, and
 
-distinct vision from Him.
-
-
-### 3:7
+distinct vision from Him. ### 3:7
 *(anchor: 1SA.3:7)*
 
 Samuel had not yet become a prophet, because this was the first time God had allowed
 
-Himself to be known by him.
-
-
-### 3:13-14
+Himself to be known by him. ### 3:13-14
 *(anchor: 1SA.3:13)*
 
 God reveals to Samuel what he had already revealed to Eli through another man of
 
-God, confirming Samuel as a true prophet of the Lord.
-
-
-### 3:18
+God, confirming Samuel as a true prophet of the Lord. ### 3:18
 *(anchor: 1SA.3:18)*
 
 Eli accepts God's judgment even though it means his destruction. Despite the
 
-judgment, Eli still did nothing to correct his sons' behavior.
-
-
-### 3:19-20
+judgment, Eli still did nothing to correct his sons' behavior. ### 3:19-20
 *(anchor: 1SA.3:19)*
 
-Samuel was confirmed as God's prophet not merely because he heard God's voice,
+Samuel was confirmed as God's prophet not merely because he heard God's voice, but because he was willing to proclaim God's word even when it was unpleasant or
 
-but because he was willing to proclaim God's word even when it was unpleasant or
-
-uncomfortable.
-
-
-### 4:1
+uncomfortable. ### 4:1
 *(anchor: 1SA.4:1)*
 
 The word Philistines is not used only to describe Israel's enemies; it is also a more
@@ -264,24 +189,15 @@ than discovering why God allowed them to be defeated and repenting of their
 
 unfaithfulness, they think that having the ark with them will ensure that God is with
 
-them.
-
-
-### 4:7-10
+them. ### 4:7-10
 *(anchor: 1SA.4:7)*
 
 The Philistines were afraid of the presence of the ark, but conducted themselves
 
-like men and handed Israel a stunning defeat.
-
-
-### 4:18
+like men and handed Israel a stunning defeat. ### 4:18
 *(anchor: 1SA.4:18)*
 
-The loss of the ark and his sons brought the loss of Eli's own life.
-
-
-### 5:2
+The loss of the ark and his sons brought the loss of Eli's own life. ### 5:2
 *(anchor: 1SA.5:2)*
 
 Dagon was the chief god of the Canaanites and was referred to as the father of Baal in
@@ -290,46 +206,29 @@ Canaanite mythology. Dagon was represented by a figure that had the torso and he
 
 man, but the body of a fish. The name Dagon is derived from a word meaning "little fish."
 
-The house or temple is mentioned later in 1Mc 10:83, 84.
-
-
-### 5:4
+The house or temple is mentioned later in 1Mc 10:83, 84. ### 5:4
 *(anchor: 1SA.5:4)*
 
 The destruction of their idol was a sign to the Philistines that the God of Israel could
 
-not be possessed and subjected to their pagan beliefs.
-
-
-### 5:8
+not be possessed and subjected to their pagan beliefs. ### 5:8
 *(anchor: 1SA.5:8)*
 
 The Philistine government was a loose confederacy of five cities, each ruled by a type
 
-of warlord. Each city was considered a seat of power. The fives cities were Ashkelon,
+of warlord. Each city was considered a seat of power. The fives cities were Ashkelon, Ashdod, Ekron, Gath, and Gaza (6:17). They were sometimes referred to as the Philistine
 
-Ashdod, Ekron, Gath, and Gaza (6:17). They were sometimes referred to as the Philistine
-
-Pentapolis.
-
-
-### 5:11
+Pentapolis. ### 5:11
 *(anchor: 1SA.5:11)*
 
 The Philistines had moved the ark to three of their five cities, hoping that eventually
 
-it would be subjected by a local deity.
-
-
-### 6:1
+it would be subjected by a local deity. ### 6:1
 *(anchor: 1SA.6:1)*
 
 God will not be manipulated by man. To attempt to do so brings curse rather than
 
-blessing.
-
-
-### 6:2-12
+blessing. ### 6:2-12
 *(anchor: 1SA.6:2)*
 
 The Philistines devised a test to see whether the God of Israel was truly the source
@@ -338,10 +237,7 @@ of their tribulation. The cows should have naturally come home to their offsprin
 
 than walking away toward the land of Israel. Yet God had promised to remain with His
 
-people, and He guided the ark back to Israel.
-
-
-### 6:14
+people, and He guided the ark back to Israel. ### 6:14
 *(anchor: 1SA.6:14)*
 
 The people's natural response to the return of God's presence was to worship God
@@ -352,56 +248,36 @@ that the ark contained. In the Church, the ark is understood typologically as th
 
 the Virgin Mary. Honoring the Theotokos as the Mother of God who bore the Savior of
 
-our souls draws the heart to worship Him, together with His Father and the Holy Spirit.
-
-
-### 6:19
+our souls draws the heart to worship Him, together with His Father and the Holy Spirit. ### 6:19
 *(anchor: 1SA.6:19)*
 
 Once again, the people begin mishandling that which is holy by trying to investigate
 
-that which is improper to man.
-
-
-### 7:2
+that which is improper to man. ### 7:2
 *(anchor: 1SA.7:2)*
 
-The ark was not brought back to Shiloh, where it had been abused by the sons of Eli,
+The ark was not brought back to Shiloh, where it had been abused by the sons of Eli, but was taken to a new place, where the people of Israel kept their eye firmly fixed upon it
 
-but was taken to a new place, where the people of Israel kept their eye firmly fixed upon it
-
-so it might not depart again.
-
-
-### 7:3
+so it might not depart again. ### 7:3
 *(anchor: 1SA.7:3)*
 
 Throughout the period of the Judges and Kings, the problem of idolatry continued to
 
 plague Israel. Samuel was not asking for a partial commitment to God, but for the people
 
-to completely remove any trace of idolatry from their lives and serve God only.
-
-
-### 7:6
+to completely remove any trace of idolatry from their lives and serve God only. ### 7:6
 *(anchor: 1SA.7:6)*
 
 Samuel's act of pouring water as an offering to the Lord is a type of baptism, and a
 
 symbol of the cleansing that people needed as they repented over their attitude toward
 
-God and His holy objects.
-
-
-### 7:8
+God and His holy objects. ### 7:8
 *(anchor: 1SA.7:8)*
 
 Samuel had proven himself a committed intercessor for the people, and they relied on
 
-him once again to pray on their behalf.
-
-
-### 7:9-13
+him once again to pray on their behalf. ### 7:9-13
 *(anchor: 1SA.7:9)*
 
 The Philistines are a type of sin and its dominion over those who do not follow the
@@ -410,30 +286,19 @@ Lord with all their heart. When God's people are far from Him, sin reigns over t
 
 when they draw near to God and cry out for mercy and forgiveness, He delivers them
 
-from the enemy.
-
-
-### 8:1-5
+from the enemy. ### 8:1-5
 *(anchor: 1SA.8:1)*
 
-Unfortunately, Samuel did not learn a lesson from Eli in rearing his own children.
-
-Just as Eli's children departed from the ways of God, so did Samuel's sons. It was the
+Unfortunately, Samuel did not learn a lesson from Eli in rearing his own children. Just as Eli's children departed from the ways of God, so did Samuel's sons. It was the
 
 wickedness of these judges, Samuel's sons, that prompted the people to ask for a king to
 
-rule over them.
-
-
-### 8:7
+rule over them. ### 8:7
 *(anchor: 1SA.8:7)*
 
 God tells Samuel that their rejection of him as judge is a rejection of God Himself; yet
 
-God will answer their cry for a king.
-
-
-### 8:9-18
+God will answer their cry for a king. ### 8:9-18
 *(anchor: 1SA.8:9)*
 
 God is willing to give the people what they want, but He warns them of the dangers
@@ -442,48 +307,31 @@ of a monarchy. These warnings which Samuel gave the people were fulfilled during
 
 days of the good king, Solomon. Solomon taxed the people heavily so that he might build
 
-the temple.
-
-
-### 9:9
+the temple. ### 9:9
 *(anchor: 1SA.9:9)*
 
 The ministry of prophet includes the ability to see into the future, as well as to read
 
-the hearts of men.
-
-
-### 10:1-10
+the hearts of men. ### 10:1-10
 *(anchor: 1SA.10:1)*
 
 Saul's anointing as king by Samuel is a type of the Sacrament of Chrismation. The
 
 anointing brought with it the descent of the Holy Spirit upon his life, giving Saul
 
-another heart (v. 9).
-
-
-### 10:9
+another heart (v. 9). ### 10:9
 *(anchor: 1SA.10:9)*
 
-The Spirit of God always brings transformation wherever He is present.
-
-
-### 11:11-15
+The Spirit of God always brings transformation wherever He is present. ### 11:11-15
 *(anchor: 1SA.11:11)*
 
-Saul's initial act as king was to defend the defenseless against cruel oppressors.
-
-Even in this early battle he displays his military genius, and also the mercy he has on
+Saul's initial act as king was to defend the defenseless against cruel oppressors. Even in this early battle he displays his military genius, and also the mercy he has on
 
 those who initially rejected his kingship. The people of Jabesh were forever indebted to
 
 him, and even after his slide into apostasy, they were the only people willing to care for
 
-his remains after his death.
-
-
-### 12:1-5
+his remains after his death. ### 12:1-5
 *(anchor: 1SA.12:1)*
 
 Before Samuel begins exhorting the people, he seeks their support. The people
@@ -492,20 +340,14 @@ proclaim his innocence in the face of his humility and willingness to repent for
 
 wrongdoing. He then calls on the Lord and Saul, His anointed, as witnesses to his
 
-uprightness.
-
-
-### 12:6-25
+uprightness. ### 12:6-25
 *(anchor: 1SA.12:6)*
 
 Samuel's sermon expounds on the grace and deliverance of God in the life of
 
 Israel. Though a king in Israel was a concession from God, Samuel encourages them that
 
-the monarchy will work if both they and the king continue in God's righteousness.
-
-
-### 13:13
+the monarchy will work if both they and the king continue in God's righteousness. ### 13:13
 *(anchor: 1SA.13:13)*
 
 Hilary of Poitiers sees David's commendation by God as a man after His own
@@ -514,10 +356,7 @@ heart as a glimpse into the prophetic ministry of David. Although David lived un
 
 Mosaic Law, he prophetically grasped the fullness of the Gospel fulfilled ultimately in
 
-Christ.
-
-
-### 15:11
+Christ. ### 15:11
 *(anchor: 1SA.15:11)*
 
 Melito of Sardis calls the repentance of the Lord a "change of His procedure" with
@@ -530,10 +369,7 @@ further by explaining that God's repentance does not negate His foreknowledge, b
 
 change in how man expects God to act. In this sense, God is always acting in ways
 
-contrary to man's expectations.
-
-
-### 15:17-22
+contrary to man's expectations. ### 15:17-22
 *(anchor: 1SA.15:17)*
 
 John Cassian uses this example of Saul's undoing to promote the need for
@@ -542,18 +378,12 @@ discernment and discretion in the spiritual life. Watchfulness over one's own so
 
 protects against all manner of evil and undoing. Gregory the Great also uses this example
 
-of Saul as a warning against human pride.
-
-
-### 15:22
+of Saul as a warning against human pride. ### 15:22
 *(anchor: 1SA.15:22)*
 
 Irenaeus points out that God did not command sacrifices for His own benefit, but
 
-for the benefit of man, in order to train him in righteousness and obedience.
-
-
-### 15:24-26
+for the benefit of man, in order to train him in righteousness and obedience. ### 15:24-26
 *(anchor: 1SA.15:24)*
 
 Saul seems to repent, yet God does not accept his confession as He did that of
@@ -562,10 +392,7 @@ David after David's sin. St. Augustine notes that mere outward confession of sin
 
 what God desires, but an inward change of heart. One only has to look at the lives of Saul
 
-and David to see that one truly repented and the other did not.
-
-
-### 15:35
+and David to see that one truly repented and the other did not. ### 15:35
 *(anchor: 1SA.15:35)*
 
 Jerome and John Cassian both note that godly men have wept over the sins of
@@ -574,25 +401,17 @@ others. Jerome states, "Good men have always sorrowed for the sins of others. Sa
 
 old lamented for Saul because he neglected to treat the ulcers of pride with the balm of
 
-penitence." Rather than rejoicing in the failures of others, godly sorrow is in order.
-
-
-### 16:7
+penitence." Rather than rejoicing in the failures of others, godly sorrow is in order. ### 16:7
 *(anchor: 1SA.16:7)*
 
 According to Cyprian, God's judgment will not be merely of outward appearances, but
 
 will penetrate much deeper into the heart of man: He sees the heart and mind of every
 
-person, and He will judge not only our deeds, but even our words and thoughts.
-
-
-### 17:4
+person, and He will judge not only our deeds, but even our words and thoughts. ### 17:4
 *(anchor: 1SA.17:4)*
 
-Goliath is over nine feet tall.
-
-17:4-33 This familiar story reminds us of the courage in men's hearts when their faith is
+Goliath is over nine feet tall. 17:4-33 This familiar story reminds us of the courage in men's hearts when their faith is
 
 placed completely in God. Goliath taunts David, but David's faith becomes evident when
 
@@ -600,30 +419,21 @@ he does not cower under the threats, but instead warns Goliath with the hand of 
 
 armor he rejected represents the strength of man; David chose the armor of God (see Eph
 
-6:10-17).
-
-
-### 18:6-12
+6:10-17). ### 18:6-12
 *(anchor: 1SA.18:6)*
 
 David had been a comforting force in Saul's life; but now Saul sees him as a threat
 
 to his power. Saul seeks to kill David by sending him into battle against a thousand
 
-Philistines, but David's success threatens Saul all the more.
-
-
-### 19:1-17
+Philistines, but David's success threatens Saul all the more. ### 19:1-17
 *(anchor: 1SA.19:1)*
 
 Saul, unable to kill David indirectly, commands his servants and even his own son
 
 Jonathan to murder him. His deceit continues as he lies to his own son about saving
 
-David's life.
-
-
-### 19:18-24
+David's life. ### 19:18-24
 *(anchor: 1SA.19:18)*
 
 Saul again tries to kill David after he flees to the presence of Samuel. Saul's
@@ -632,20 +442,14 @@ messengers come to capture David, as does Saul himself, but they are overwhelmed
 
 the presence of God among Samuel and the prophets. God's miraculous presence does
 
-not redeem Saul.
-
-
-### 20:17
+not redeem Saul. ### 20:17
 *(anchor: 1SA.20:17)*
 
 Jonathan expresses the greatest level of love one person can express for another. He
 
 is willing to die so David might live. Jesus displayed such love for all mankind, and calls
 
-for such love from His disciples (Jn 15:13).
-
-
-### 21:1-6
+for such love from His disciples (Jn 15:13). ### 21:1-6
 *(anchor: 1SA.21:1)*
 
 Only the priests were allowed to eat the holy bread; the uneaten portions were
@@ -664,54 +468,33 @@ reserved for priests. The bread of the Presence was a prefiguration of the bread
 
 Eucharist, the body of Christ. Just as David was required to be holy, each Christian
 
-approaching Communion must be prepared through prayer, fasting, and confession.
-
-Indeed, the holy things are for the holy.
-
-
-### 21:12-16
+approaching Communion must be prepared through prayer, fasting, and confession. Indeed, the holy things are for the holy. ### 21:12-16
 *(anchor: 1SA.21:12)*
 
 Although David knows he is anointed and will one day be king, he realizes it is
 
-not yet God's time and goes to extreme measures to stay anonymous.
-
-
-### 22:20-23
+not yet God's time and goes to extreme measures to stay anonymous. ### 22:20-23
 *(anchor: 1SA.22:20)*
 
 Saul has just ordered the priests to be killed, and David gives refuge to the last
 
-survivor of the priestly massacre.
-
-
-### 23:9
+survivor of the priestly massacre. ### 23:9
 *(anchor: 1SA.23:9)*
 
 The ephod was a garment worn by the priests whenever they approached the altar in
 
 order to intercede with God. David trusted the priest to give him a sure answer from the
 
-Lord.
-
-
-### 24:7-8
+Lord. ### 24:7-8
 *(anchor: 1SA.24:7)*
 
-Saul had become a tyrannical leader, obsessed with killing the man of God David.
-
-Saul had threatened to kill his own son and had massacred over 300 priests. Despite
+Saul had become a tyrannical leader, obsessed with killing the man of God David. Saul had threatened to kill his own son and had massacred over 300 priests. Despite
 
 Saul's sin, David still honored him as the Lord's anointed and spared him. A lesson hard
 
 to learn: throughout the history of the Church, there have been ungodly leaders, but true
 
-saints have taken up David's example, refusing to come against God's anointed. Instead,
-
-they trusted God to vindicate them.
-
-
-### 24:17-23
+saints have taken up David's example, refusing to come against God's anointed. Instead, they trusted God to vindicate them. ### 24:17-23
 *(anchor: 1SA.24:17)*
 
 In praising David's attitude of a servant, Gregory the Great notes he was more
@@ -720,28 +503,19 @@ upright in servitude than when he came to his kingdom (v. 18). As a servant, he 
 
 smite his adversary. When he was king, through lasciviousness, he willfully put to death a
 
-devoted soldier (2Kg 11:17).
-
-
-### 25:3
+devoted soldier (2Kg 11:17). ### 25:3
 *(anchor: 1SA.25:3)*
 
 Nabal means "fool," which describes his behavior. This passage shows the contrast
 
-between the wisdom of Abigail and the folly of Nabal.
-
-
-### 25:22-34
+between the wisdom of Abigail and the folly of Nabal. ### 25:22-34
 *(anchor: 1SA.25:22)*
 
 John Cassian takes this story of David as an example of how compassion can
 
 overtake our own strong determination. David allowed compassion to alter his vengeful
 
-oath.
-
-
-### 26:12
+oath. ### 26:12
 *(anchor: 1SA.26:12)*
 
 David again has an opportunity to kill Saul, but he refuses to lay a hand on the
@@ -750,18 +524,12 @@ Lord's anointed (see note at 24:7, 8). God put the camp into a deep sleep so Dav
 
 escape unharmed. Saul has one more chance to repent, yet he squanders this opportunity
 
-with mere words and no actions.
-
-
-### 27:1
+with mere words and no actions. ### 27:1
 *(anchor: 1SA.27:1)*
 
 David's statements display his conviction that Saul will not repent, regardless of his
 
-remorseful posturing.
-
-
-### 27:8-12
+remorseful posturing. ### 27:8-12
 *(anchor: 1SA.27:8)*
 
 Although David was living in exile among the Philistines, he still defended and
@@ -770,31 +538,16 @@ expanded the borders of his native land. Despite his circumstances, he never for
 
 calling to uphold and protect the people of God, and he did not let outward events thwart
 
-this mission.
-
-
-### 28:7-25
+this mission. ### 28:7-25
 *(anchor: 1SA.28:7)*
 
-This passage created great controversy among the Fathers of the Church. In fact,
+This passage created great controversy among the Fathers of the Church. In fact, at least three distinct interpretations can be found. 1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and
 
-at least three distinct interpretations can be found.
+Augustine). 2. Whether it was Samuel or a demon, it appeared at God's bidding and not by some
 
-1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and
+magic of the woman (Chrysostom, Theodoret). 3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian, Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of
 
-Augustine).
-
-2. Whether it was Samuel or a demon, it appeared at God's bidding and not by some
-
-magic of the woman (Chrysostom, Theodoret).
-
-3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian,
-
-Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of
-
-Nyssa).
-
-The third interpretation seems to be held by the greatest number of Fathers, and
+Nyssa). The third interpretation seems to be held by the greatest number of Fathers, and
 
 Gregory of Nyssa wrote a specific treatise on the subject. He defends this view by citing
 
@@ -804,16 +557,10 @@ the woman; she told Saul whom it resembled. The Greek word translated medium in
 
 this passage is literally the word for "ventriloquist." Also, Saul had been plagued by evil
 
-spirits for years and was easily deceived by them.
-
-
-### 29:9
+spirits for years and was easily deceived by them. ### 29:9
 *(anchor: 1SA.29:9)*
 
-Even an unbelieving Philistine was able to recognize the godly character of David.
-
-
-### 30:7
+Even an unbelieving Philistine was able to recognize the godly character of David. ### 30:7
 *(anchor: 1SA.30:7)*
 
 Once again David trusts in the intercession of the priest before God, that he may
@@ -822,18 +569,12 @@ follow God's will rather than his own. What a contrast between his use of the ep
 
 Saul's use of the medium! David approached God with humility through the means He
 
-had established. Saul sought to manipulate his future through the powers of darkness.
-
-
-### 30:21-25
+had established. Saul sought to manipulate his future through the powers of darkness. ### 30:21-25
 *(anchor: 1SA.30:21)*
 
 David displays his generosity and compassion for the weak by sharing the spoils
 
-with all the people--the strong and weak alike.
-
-
-### 31:4-6
+with all the people--the strong and weak alike. ### 31:4-6
 *(anchor: 1SA.31:4)*
 
 In this passage, the ultimate deception of the witch is made manifest. The prophecy

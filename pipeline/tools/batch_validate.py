@@ -7,6 +7,7 @@ Usage:
     python3 pipeline/tools/batch_validate.py --strict
     python3 pipeline/tools/batch_validate.py --output-json reports/batch_validation.json
     python3 pipeline/tools/batch_validate.py --from-cvc-report reports/cvc_report.json
+    python3 pipeline/tools/batch_validate.py --dir canon/OT
 """
 
 from __future__ import annotations
@@ -31,9 +32,45 @@ def _load_run_validation():
     return run_validation
 
 
+# Biblical order for sorting canon books
+_BIBLICAL_ORDER = [
+    "GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT",
+    "1SA", "2SA", "1KI", "2KI", "1CH", "2CH", "EZR", "NEH",
+    "EST", "JOB", "PSA", "PRO", "ECC", "SNG", "ISA", "JER",
+    "LAM", "EZK", "DAN", "HOS", "JOL", "AMO", "OBA", "JON",
+    "MIC", "NAH", "HAB", "ZEP", "HAG", "ZEC", "MAL",
+    # Deuterocanonical
+    "TOB", "JDT", "WIS", "SIR", "BAR", "LJE", "1ES", "1MA", "2MA", "3MA",
+    # NT
+    "MAT", "MRK", "LUK", "JOH", "ACT", "ROM", "1CO", "2CO",
+    "GAL", "EPH", "PHP", "COL", "1TH", "2TH", "1TI", "2TI",
+    "TIT", "PHM", "HEB", "JAS", "1PE", "2PE", "1JN", "2JN",
+    "3JN", "JUD", "REV",
+]
+_BIBLICAL_ORDER_MAP = {code: i for i, code in enumerate(_BIBLICAL_ORDER)}
+
+
 def discover_staged_books(book_filter: list[str] | None = None) -> list[Path]:
-    """Find all staged .md files (excluding *_notes.md)."""
-    return discover_staged_paths(book_filter)
+    """Find all staged .md files (excluding *_notes.md), optionally filtered by book code."""
+    all_paths = discover_staged_paths()
+    if book_filter:
+        filter_set = {b.upper() for b in book_filter}
+        return [p for p in all_paths if p.stem.upper() in filter_set]
+    return all_paths
+
+
+def discover_dir_books(dir_path: Path, book_filter: list[str] | None = None) -> list[Path]:
+    """Find all .md book files in a directory, sorted in biblical order."""
+    all_paths = sorted(dir_path.glob("*.md"),
+                       key=lambda p: _BIBLICAL_ORDER_MAP.get(p.stem.upper(), 999))
+    # Skip sidecar files
+    all_paths = [p for p in all_paths if not any(
+        p.stem.endswith(s) for s in ("_notes", "_editorial_candidates", "_footnote_markers")
+    )]
+    if book_filter:
+        filter_set = {b.upper() for b in book_filter}
+        return [p for p in all_paths if p.stem.upper() in filter_set]
+    return all_paths
 
 
 def count_verses(path: Path) -> int:
@@ -76,6 +113,10 @@ def main():
         "--from-cvc-report", metavar="FILE",
         help="Read affected books from CVC report JSON."
     )
+    parser.add_argument(
+        "--dir", metavar="DIR",
+        help="Validate .md files from this directory instead of staging."
+    )
     args = parser.parse_args()
 
     book_filter = [b.upper() for b in args.book] if args.book else None
@@ -91,10 +132,13 @@ def main():
             book_filter = affected
 
     run_validation = _load_run_validation()
-    paths = discover_staged_books(book_filter)
+    if args.dir:
+        paths = discover_dir_books(Path(args.dir), book_filter)
+    else:
+        paths = discover_staged_books(book_filter)
 
     if not paths:
-        print("No staged books found.")
+        print("No books found.")
         sys.exit(0)
 
     results = []

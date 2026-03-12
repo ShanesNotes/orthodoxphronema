@@ -48,7 +48,7 @@ RE_SPACED_CAPS = re.compile(r'^([A-Z][,]? ){2,}[A-Z]$')
 
 # Navigation artefacts to discard
 RE_NAV_STRING = re.compile(
-    r'^[\d,\s]+(Back to|Home|Next|Introduction|Previous)',
+    r'(Back to|Home|Next|Introduction|Previous)\s+(the\s+)?(New Testament|Old Testament|Table of Contents|Chapters)',
     re.IGNORECASE
 )
 # Navigation comma-int lists like "1, 2, 3, 4, 5" — require at least one comma
@@ -89,8 +89,8 @@ _LC_OPENERS = (
     r'and|then|for|now|so|but|thus|also|when|after|because|therefore|yet|before'
     # subject pronouns
     r'|he|she|it|we|they|you'
-    # relative / demonstrative
-    r'|that|since|as|which|where|whose|whom'
+    # relative / demonstrative / interrogative
+    r'|that|since|as|which|where|whose|whom|who|how'
     # articles
     r'|the'
     # imperatives / interjections
@@ -102,7 +102,11 @@ _LC_OPENERS = (
     # additional conjunctions
     r'|lest|nor|neither'
     # participles / verbs common at verse starts
-    r'|saying|entered|spreading|wide|both'
+    r'|saying|entered|spreading|wide|both|having|being|even'
+    # clause-starting adverbs/adjectives
+    r'|just|far|not'
+    # additional prepositions common at NT verse starts
+    r'|according|among|above|until|upon|of|or|no'
     # number-words (verse-initial counts like "14 two hundred goats")
     r'|two|three|four|five|six|seven|eight|nine|ten'
     r'|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred'
@@ -200,12 +204,19 @@ def fix_split_words(text: str) -> str:
     return re.sub(r'\b([a-z]) ([a-z]{2,})\b', r'\1\2', text)
 
 
+_RE_NAV_INTRO = re.compile(
+    r'^(Author|Date|Major Theme|Background|Outline)\s*[-–—]',
+    re.IGNORECASE
+)
+
 def is_nav_noise(text: str) -> bool:
     """True if this TextItem is pure navigation / index noise."""
     t = text.strip()
     if RE_NAV_STRING.search(t):
         return True
     if RE_COMMA_INTS.match(t):
+        return True
+    if _RE_NAV_INTRO.match(t):
         return True
     return False
 
@@ -384,14 +395,16 @@ def _lc_boundary_valid(text_before: str, candidate_num: int, current_vnum: int) 
     stripped = text_before.rstrip()
 
     # Signal 1 — terminal punctuation (strong accept)
-    if stripped and stripped[-1] in '.!?"\'\u201d\u2019':
+    # Colon and dash included: in Scripture, "...: N word" and "...- N word"
+    # are reliably verse boundaries even when non-sequential.
+    if stripped and stripped[-1] in '.!?:-\u2013\u2014"\'\u201d\u2019':
         return True
 
     # Signal 1b — clause-boundary punctuation + sequential (medium accept)
-    # Comma/semicolon/colon before the digit suggests a clause break, not an
+    # Comma/semicolon before the digit suggests a clause break, not an
     # inline numeral, when the verse number is also sequential.  This prevents
     # Signal 2 from falsely rejecting cases like "...were, 5 and said...".
-    if stripped and stripped[-1] in ',;:' and candidate_num == current_vnum + 1:
+    if stripped and stripped[-1] in ',;' and candidate_num == current_vnum + 1:
         return True
 
     # Signal 2 — inline numeral context word (reject)
@@ -491,7 +504,8 @@ ARTICLE_MODE = "ARTICLE_MODE"
 
 class ExtractionState:
     def __init__(self, book_code: str, first_chapter: int = 1,
-                 chapter_verse_counts: dict | None = None):
+                 chapter_verse_counts: dict | None = None,
+                 max_chapters: int | None = None):
         self.book_code      = book_code
         self.mode           = VERSE_MODE
         # Start at chapter 0 so "1 In the beginning..." triggers chapter_num==0+1==1
@@ -502,9 +516,13 @@ class ExtractionState:
         # Map of chapter_number → expected verse count (from registry, LXX counts).
         # Used to guard against false chapter advances (Bug 1).
         self.chapter_verse_counts: dict[int, int] = chapter_verse_counts or {}
+        # Maximum chapter number for this book (from registry "chapters" field).
+        # Prevents false advances beyond the last chapter (e.g. JOH.21:22 → ch22).
+        self.max_chapters: int | None = max_chapters
 
         # Output buffers
         self.verses: list[dict] = []               # {anchor, chapter, verse, text}
+        self._anchor_index: dict[str, int] = {}    # anchor → index in self.verses (dedup)
         self.headings: list[dict] = []             # {after_anchor, heading}
         self.articles: list[dict] = []             # {title, after_anchor, body_paras}
         self.footnote_markers: list[dict] = []     # {anchor, marker}
@@ -577,7 +595,8 @@ class ExtractionState:
             # that occurs before any verse text is emitted.
             if text[:1].isdigit() and re.fullmatch(r'\d+', text.strip()):
                 bare_num = int(text.strip())
-                if bare_num == self.current_chapter + 1:
+                if (bare_num == self.current_chapter + 1
+                        and bare_num <= (self.max_chapters or 999)):
                     self._flush_article()
                     self.mode = VERSE_MODE
                     self.current_chapter = bare_num
@@ -589,7 +608,8 @@ class ExtractionState:
                 m_ch = RE_CHAPTER_LEAD.match(text)
                 if m_ch:
                     chapter_num = int(m_ch.group(1))
-                    if chapter_num == self.current_chapter + 1:
+                    if (chapter_num == self.current_chapter + 1
+                            and chapter_num <= (self.max_chapters or 999)):
                         # No threshold for SectionHeaderItem chapter leads:
                         # these are reliable structural markers in the PDF
                         # (unlike inline verse numbers in TextItems which need
@@ -723,10 +743,13 @@ class ExtractionState:
                 # all those verses would be lost without re-splitting.
                 if RE_VERSE_SPLIT.search(merged) or _LC_VERSE_PAT.search(merged):
                     popped = self.verses.pop()
+                    # Remove stale anchor index entry and shift indices
+                    popped_anchor = popped["anchor"]
+                    self._anchor_index.pop(popped_anchor, None)
                     # Also remove any footnote markers already recorded for that anchor
                     self.footnote_markers = [
                         fm for fm in self.footnote_markers
-                        if fm["anchor"] != popped["anchor"]
+                        if fm["anchor"] != popped_anchor
                     ]
                     verse_parts = split_verses_in_text(
                         merged, popped["chapter"], self.book_code,
@@ -751,10 +774,11 @@ class ExtractionState:
             max_v = self._chapter_max_verse(self.current_chapter)
             backward_signal = (bare_num < self.current_verse
                                and self.current_verse >= max_v * 3 // 5)
-            if bare_num == self.current_chapter + 1 and (
-                    max_v == 0
-                    or self.current_verse >= max_v * 4 // 5
-                    or backward_signal):
+            if (bare_num == self.current_chapter + 1
+                    and bare_num <= (self.max_chapters or 999)
+                    and (max_v == 0
+                         or self.current_verse >= max_v * 4 // 5
+                         or backward_signal)):
                 self.current_chapter = bare_num
                 self.current_verse = 0
                 self.last_verse_text_incomplete = False
@@ -785,10 +809,11 @@ class ExtractionState:
             # False advances never trigger this because current_verse ≈ chapter_num−1.
             backward_signal = (chapter_num < self.current_verse
                                and self.current_verse >= max_v * 3 // 5)
-            if chapter_num == self.current_chapter + 1 and (
-                    max_v == 0
-                    or self.current_verse >= max_v * 4 // 5
-                    or backward_signal):
+            if (chapter_num == self.current_chapter + 1
+                    and chapter_num <= (self.max_chapters or 999)
+                    and (max_v == 0
+                         or self.current_verse >= max_v * 4 // 5
+                         or backward_signal)):
                 self.current_chapter = chapter_num
                 self.current_verse = 0  # reset so next element starts at verse 1
             else:
@@ -826,6 +851,20 @@ class ExtractionState:
             # Merging them avoids a V1 duplicate while preserving all text.
             if self.verses and self.verses[-1]["anchor"] == anchor:
                 self.verses[-1]["text"] += " " + vtext
+            elif anchor in self._anchor_index:
+                # Non-consecutive duplicate: nav noise, article debris, or heading
+                # text emitted earlier with the same anchor. Always replace with the
+                # later entry — real verse content comes after nav/intro pages.
+                idx = self._anchor_index[anchor]
+                self.verses[idx]["text"] = vtext
+                # Replace footnote markers for this anchor
+                self.footnote_markers = [
+                    fm for fm in self.footnote_markers
+                    if fm["anchor"] != anchor
+                ]
+                for marker in markers:
+                    self.footnote_markers.append({"anchor": anchor, "marker": marker})
+                markers = []  # already handled
             else:
                 self.verses.append({
                     "anchor": anchor,
@@ -833,6 +872,7 @@ class ExtractionState:
                     "verse": vnum,
                     "text": vtext,
                 })
+                self._anchor_index[anchor] = len(self.verses) - 1
             self.current_chapter = ch
             self.current_verse   = vnum
             self.verse_started   = True
@@ -948,7 +988,8 @@ canon_anchors_referenced: []
 
 def extract_book(book_code: str, start_page: int, end_page: int,
                  dry_run: bool = False,
-                 chapter_verse_counts: dict | None = None) -> ExtractionState:
+                 chapter_verse_counts: dict | None = None,
+                 max_chapters: int | None = None) -> ExtractionState:
     from docling.document_converter import DocumentConverter, PdfFormatOption
     from docling.datamodel.base_models import InputFormat
     from docling.datamodel.pipeline_options import PdfPipelineOptions
@@ -971,7 +1012,8 @@ def extract_book(book_code: str, start_page: int, end_page: int,
     print(f"[parse] Conversion complete — processing elements ...")
 
     state = ExtractionState(book_code, first_chapter=1,
-                            chapter_verse_counts=chapter_verse_counts)
+                            chapter_verse_counts=chapter_verse_counts,
+                            max_chapters=max_chapters)
 
     elem_count = 0
     for etype, raw, text in iter_elements(doc):
@@ -1076,9 +1118,11 @@ def main() -> None:
     # Build chapter_verse_counts dict (1-indexed) from registry list (0-indexed).
     cvc_list = meta.get("chapter_verse_counts", [])
     chapter_verse_counts = {i + 1: v for i, v in enumerate(cvc_list)} if cvc_list else None
+    max_chapters = meta.get("chapters")
 
     state = extract_book(args.book, start_page, end_page, dry_run=args.dry_run,
-                         chapter_verse_counts=chapter_verse_counts)
+                         chapter_verse_counts=chapter_verse_counts,
+                         max_chapters=max_chapters)
     write_outputs(state, meta, testament, dry_run=args.dry_run)
 
     print("\n[parse] Done.")

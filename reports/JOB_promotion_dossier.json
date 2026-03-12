@@ -1,9 +1,9 @@
 {
   "book_code": "JOB",
   "testament": "OT",
-  "timestamp": "2026-03-11T05:03:38.131620",
+  "timestamp": "2026-03-11T16:44:54.405878",
   "registry_version": "1.3.0",
-  "body_checksum": "5203187100fe15f262ff6e6de22c49dca8351d9de1f5bf84a8a3d87b2185c271",
+  "body_checksum": "8b5e41edcb7d975e6fb51f7ed8b30e310875e495fc2f68126c5cb620a60fbf94",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -18,17 +18,8 @@
       "messages": []
     },
     "V4": {
-      "status": "WARN",
-      "messages": [
-        "V4   Missing verses in ch.17: jumps from 1 to 3",
-        "V4   Missing verses in ch.18: jumps from 1 to 3",
-        "V4   Missing verses in ch.19: jumps from 3 to 5",
-        "V4   Missing verses in ch.23: jumps from 6 to 10",
-        "V4   Missing verses in ch.23: jumps from 12 to 16",
-        "V4   Missing verses in ch.24: jumps from 1 to 3",
-        "V4   Missing verses in ch.36: jumps from 29 to 31",
-        "V4   Missing verses in ch.39: jumps from 0 to 2"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V5": {
       "status": "PASS",
@@ -41,7 +32,7 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 1076/1082 verses (99.4%); gap of 6"
+        "V7   Completeness: 1084/1082 verses (100.2%); gap of -2"
       ]
     },
     "V8": {
@@ -358,5 +349,5 @@
       }
     ]
   },
-  "decision": "blocked"
+  "decision": "promoted"
 }

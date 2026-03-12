@@ -14,14 +14,14 @@ has_additions: true
 
 ## Chapter 1
 
-EST.1:1 1a In the second year of the reign of the great King Artaxerxes, on the first day of Nisan, Mordecai, the son of Jair, son of Shimei, the son of Kish, of the tribe of Benjamin, had a dream. 1b He was a Jewish man living in the city of Susa, a great man who served in the court of the king. 1c He was from the captives Nebuchadnezzar the king of Babylon had deported from Jerusalem with Jechoniah the king of Judah. 1d And this was his dream: Behold, there was noise and tumult, thunder and earthquake-confusion on the earth. † 1e Two great dragons came forth, both ready for combat. A great roar came forth from them, 1f and at the sound of them, every nation prepared to wage war against the nation of the just. 1g And indeed, it was a day of gloom and of darkness, tribulation and anguish, oppression and great confusion upon the earth. 1h The entire upright nation was troubled, fearing the evils against them; they were prepared to perish, and they cried out to God. 1i And at their cry there came forth, as it were from a small spring, a great river having abundant water. 1j There was light, and the sun rose, and the lowly were exalted, and they devoured the esteemed.
+EST.1:1 1a In the second year of the reign of the great King Artaxerxes, on the first day of Nisan, Mordecai, the son of Jair, son of Shimei, the son of Kish, of the tribe of Benjamin, had a dream. 1b He was a Jewish man living in the city of Susa, a great man who served in the court of the king. 1c He was from the captives Nebuchadnezzar the king of Babylon had deported from Jerusalem with Jechoniah the king of Judah. 1d And this was his dream: Behold, there was noise and tumult, thunder and earthquake-confusion on the earth. 1e Two great dragons came forth, both ready for combat. A great roar came forth from them, 1f and at the sound of them, every nation prepared to wage war against the nation of the just. 1g And indeed, it was a day of gloom and of darkness, tribulation and anguish, oppression and great confusion upon the earth. 1h The entire upright nation was troubled, fearing the evils against them; they were prepared to perish, and they cried out to God. 1i And at their cry there came forth, as it were from a small spring, a great river having abundant water. 1j There was light, and the sun rose, and the lowly were exalted, and they devoured the esteemed.
 
 
 ### A Plot against the King
 
 EST.1:2 1k Mordecai, who had seen this vision and what God was planning to do, awoke. 1l He kept it in his heart and wished to ponder it until night.
 
-EST.1:3 1m Then Mordecai rested in the courtyard with Gabatha and Tharra, the king'stwo eunuchs who guarded the courtyard. 1n He overheard their words and considered their anxieties, and he realized they were preparing to lay hands upon the king, and he informed the king about them. 1o Then the king interrogated the two eunuchs, and they confessed and were led away to be executed. 1p The king made a memorandum of these matters, and Mordecai also wrote about these matters. 1q And the king commanded Mordecai to serve in the court, and he gave him gifts for this service. 1r But Haman, the son of Hamadatha the Agagthite, was held in high honor before the king, and he sought for ways to bring harm to Mordecai and his people because of the two eunuchs of the king.
+EST.1:3 1m Then Mordecai rested in the courtyard with Gabatha and Tharra, the king's two eunuchs who guarded the courtyard. 1n He overheard their words and considered their anxieties, and he realized they were preparing to lay hands upon the king, and he informed the king about them. 1o Then the king interrogated the two eunuchs, and they confessed and were led away to be executed. 1p The king made a memorandum of these matters, and Mordecai also wrote about these matters. 1q And the king commanded Mordecai to serve in the court, and he gave him gifts for this service. 1r But Haman, the son of Hamadatha the Agagthite, was held in high honor before the king, and he sought for ways to bring harm to Mordecai and his people because of the two eunuchs of the king.
 
 
 ### King Artaxerxes' Banquet
@@ -30,7 +30,7 @@ EST.1:4 It came to pass, after these matters, in the days of Artaxerxes (this is
 EST.1:5 in the days when King Artaxerxes sat on the throne in the city of Susa,
 EST.1:6 that in the third year of his reign he gave a feast for his friends and the rest of the nations, and for the nobles of the Persians and the Medes and the chiefs of the satraps.
 EST.1:7 And after these things, that is after he had displayed the wealth of his kingdom and the glory of the joy of his riches for one hundred eighty days,
-EST.1:8 when the days of the celebration were completed, the king set forth a banquet in the court of the king'spalace for six days for the people living in the city.
+EST.1:8 when the days of the celebration were completed, the king set forth a banquet in the court of the king's palace for six days for the people living in the city.
 EST.1:9 The courtyard was adorned with fine white linen curtains stretched out on cords of purple and fastened to square gold and silver studs, on pillars of marble and stone. And the couches were of gold and silver on a mosaic pavement of emerald stone, mother of pearl, and marble, and transparent coverings variously adorned with colorful flowers and encircled with embroidered roses.
 EST.1:10 There were gold and silver cups, and a ruby goblet set out, worth thirty thousand talents, and there was an abundance of sweet wine, which the king himself drank.
 EST.1:11 Now this banquet was not in keeping with established law; but this is what the king desired, and he ordered all the stewards of his household, those of his men, to do his will.
@@ -45,7 +45,7 @@ EST.1:15 But Queen Vashti did not heed his words and refused to come with the eu
 EST.1:16 The king said to his friends, 'Thus has Vashti spoken; follow the law and justice concerning this.'
 EST.1:17 And Arkesaios, Sarsathaios and Memucan, the nobles of the Persians and Medes, those near to the king and first in rank by the king, went to him.
 EST.1:18 They reported to him what according to the laws was to be done to the queen Vashti, because she did not do as commanded by King Artaxerxes by way of the eunuchs.
-EST.1:19 And Memucan said to the king and the princes, 'Queen Vashti has not only wronged the king, but also all the king'srulers and nobles.'
+EST.1:19 And Memucan said to the king and the princes, 'Queen Vashti has not only wronged the king, but also all the king's rulers and nobles.'
 EST.1:20 He reported the words of the queen, and how she contradicted the king, and how she disobeyed King Artaxerxes:
 EST.1:21 'Thus today the royal ladies of the rulers of the Persians and the Medes, hearing the words which were spoken to the king, will dare to dishonor their husbands in the same way.
 EST.1:22 If it pleases the king, let him make a royal decree, and let it be written according to the laws of the Persians and the Medes, and let it not be declared otherwise, that the queen no longer come before him, and let the king give her royal position to a woman better than she.
@@ -59,8 +59,8 @@ EST.1:25 He then sent out to his entire kingdom, throughout the provinces, accor
 ## Chapter 2
 
 EST.2:1 And after these words the wrath of the king subsided, and he no longer mentioned Vashti, remembering either what she had said or how he had condemned her.
-EST.2:2 Then the king'sservants who attended him said, 'Let beautiful young virgins be sought for the king,
-EST.2:3 and let the king appoint officers in all the provinces of his kingdom, that they may gather all the beautiful young virgins to the city of Susa into the women'squarters, under the custody of the king'seunuch, custodian of the women. And let beauty preparations be given them.
+EST.2:2 Then the king's servants who attended him said, 'Let beautiful young virgins be sought for the king,
+EST.2:3 and let the king appoint officers in all the provinces of his kingdom, that they may gather all the beautiful young virgins to the city of Susa into the women's quarters, under the custody of the king's eunuch, custodian of the women. And let beauty preparations be given them.
 EST.2:4 And let the young woman who pleases the king be queen instead of Vashti.' This thing pleased the king, and he did so.
 EST.2:5 Now there was a Jewish man in the city of Susa whose name was Mordecai, son of Jair, son of Shimei, son of Kish, of the tribe of Benjamin,
 EST.2:6 who was an exile from Jerusalem, whom Nebuchadnezzar the king of Babylon had taken captive.
@@ -68,23 +68,23 @@ EST.2:6 who was an exile from Jerusalem, whom Nebuchadnezzar the king of Babylon
 
 ### Esther Chosen Queen
 
-EST.2:7 He had raised the daughter of Abihail, his father'sbrother, and her name was Esther; and when her parents died, he brought her up to be his wife, and she was beautiful.
-EST.2:8 So when the king'sordinance was heard, many young maidens were gathered together in the city of Susa, under the custody of Hegai, and Esther was brought to Hegai, the custodian of the women.
-EST.2:9 And the young woman pleased him and found favor in his sight. He hastened to give beauty treatments to her, and her portion, and the seven young maidens appointed to her from the palace. He himself treated her and her maidservants well in the women'squarters.
+EST.2:7 He had raised the daughter of Abihail, his father's brother, and her name was Esther; and when her parents died, he brought her up to be his wife, and she was beautiful.
+EST.2:8 So when the king's ordinance was heard, many young maidens were gathered together in the city of Susa, under the custody of Hegai, and Esther was brought to Hegai, the custodian of the women.
+EST.2:9 And the young woman pleased him and found favor in his sight. He hastened to give beauty treatments to her, and her portion, and the seven young maidens appointed to her from the palace. He himself treated her and her maidservants well in the women's quarters.
 EST.2:10 But Esther did not reveal her people or her family, for Mordecai charged her not to reveal it.
 EST.2:11 And every day Mordecai walked about the courtyard of the women to see what would happen to Esther.
 EST.2:12 Now this was the time for a young woman to go in to the king, after she had completed twelve months, for thus are the days of preparation fulfilled: six months being anointed with oil of myrrh, and six months with perfumes and beauty treatments for women.
-EST.2:13 After this, she goes to the king, and she shall be allowed to bring whatever she asks with her from the women'squarters into the royal palace.
-EST.2:14 She enters in the evening, and towards daybreak she departs quickly to the second women'squarters, where Shaashgaz, the king'seunuch, is the guardian of the women, and she does not go in to the king again unless she should be called by name.
-EST.2:15 Now when the time came for Esther the daughter of Abihail, the uncle of Mordecai, to go in to the king, she neglected nothing which the king'seunuch, the guardian of the women, commanded. Now Esther obtained favor in the sight of all who saw her.
+EST.2:13 After this, she goes to the king, and she shall be allowed to bring whatever she asks with her from the women's quarters into the royal palace.
+EST.2:14 She enters in the evening, and towards daybreak she departs quickly to the second women's quarters, where Shaashgaz, the king's eunuch, is the guardian of the women, and she does not go in to the king again unless she should be called by name.
+EST.2:15 Now when the time came for Esther the daughter of Abihail, the uncle of Mordecai, to go in to the king, she neglected nothing which the king's eunuch, the guardian of the women, commanded. Now Esther obtained favor in the sight of all who saw her.
 EST.2:16 So Esther went in to King Artaxerxes in the tenth month, which is Tebeth, in the seventh year of his reign.
-EST.2:17 And the king loved Esther, and she found favor beyond all the other virgins, and he placed the queen'scrown on her.
+EST.2:17 And the king loved Esther, and she found favor beyond all the other virgins, and he placed the queen's crown on her.
 EST.2:18 And the king gave a banquet for all his friends and nobles for seven days, and he exalted the marriage feast of Esther and granted a release to those under his reign.
 EST.2:19 And Mordecai was serving in the courtyard.
 
 
 EST.2:20 Now Esther had not revealed her heritage, just as Mordecai commanded her when she was with him, which is to fear God and to keep His commandments, and Esther did not change her manner of life.
-EST.2:21 Now two of the king'seunuchs, the chiefs of the bodyguards, were furious because Mordecai had been promoted, and they sought to kill King Artaxerxes.
+EST.2:21 Now two of the king's eunuchs, the chiefs of the bodyguards, were furious because Mordecai had been promoted, and they sought to kill King Artaxerxes.
 EST.2:22 And the matter was made known to Mordecai, and he informed Esther, and she made the details of the plot known to the king.
 
 
@@ -95,16 +95,16 @@ EST.2:23 The king examined the two eunuchs and hanged them. The king then ordere
 
 EST.3:1 After these things King Artaxerxes honored Haman, the son of Hammedatha the Agagite, and elevated him and set his seat above all his friends.
 EST.3:2 All those in the court bowed to him, for thus the king commanded, but Mordecai refused to bow to him.
-EST.3:3 Then those in the court said to Mordecai, 'Mordecai, why do you ignore the king'scommand?'
+EST.3:3 Then those in the court said to Mordecai, 'Mordecai, why do you ignore the king's command?'
 EST.3:4 They said this to him daily, but he did not listen to them. And they informed Haman that Mordecai resisted the words of the king, and that Mordecai had revealed to them that he was a Jew.
 EST.3:5 When Haman learned that Mordecai did not bow to him, he became exceedingly angry,
 EST.3:6 and he determined to destroy all the Jews of the kingdom of Artaxerxes.
 EST.3:7 And he made a decree in the twelfth year of the reign of Artaxerxes, and he cast lots to determine the precise day and month to destroy the race of Mordecai on a single day, and the lot fell on the fourteenth day of the month, which is the month of Adar.
-EST.3:8 Then Haman spoke to King Artaxerxes, saying, 'There is a certain people scattered among the peoples throughout your kingdom; their laws are different from all other people, and they disregard the king'slaws. Therefore it is not fitting for the king to let them remain.
-EST.3:9 If it pleases the king, let him make a decree to destroy them. If so, I will pay ten thousand talents of silver into the king'streasury.'
+EST.3:8 Then Haman spoke to King Artaxerxes, saying, 'There is a certain people scattered among the peoples throughout your kingdom; their laws are different from all other people, and they disregard the king's laws. Therefore it is not fitting for the king to let them remain.
+EST.3:9 If it pleases the king, let him make a decree to destroy them. If so, I will pay ten thousand talents of silver into the king's treasury.'
 EST.3:10 So the king took off his signet ring and placed it into the hand of Haman in order to seal what was written against the Jews.
 EST.3:11 And the king said to Haman, 'Keep the silver, and deal with those people as you wish.'
-EST.3:12 Then the king'sscribes were called on the thirteenth day of the first month, and they wrote, as Haman commanded, to the commanders and the governors in the one hundred twenty-seven provinces stretching from India to Ethiopia, and to the rulers of the nations, in their own language. They wrote in the name of King Artaxerxes,
+EST.3:12 Then the king's scribes were called on the thirteenth day of the first month, and they wrote, as Haman commanded, to the commanders and the governors in the one hundred twenty-seven provinces stretching from India to Ethiopia, and to the rulers of the nations, in their own language. They wrote in the name of King Artaxerxes,
 
 
 ### The Letter Sent to Destroy the Jews
@@ -122,19 +122,19 @@ EST.3:16 Copies of the letters were published throughout every province, and an 
 EST.3:17 The matter was quickly dispatched also in Susa. And the king and Haman were drinking, but the city was troubled.
 ## Chapter 4
 
-EST.4:1 But Mordecai, learning what had happened, tore his clothes and put on sackcloth, and sprinkled ashes on himself, and running through the square of the city he cried out with aloud voice, 'A people who have done no wrong are about to be destroyed!'
-EST.4:2 He went as far as the king'sgate, and there he waited, for it was not allowed for him to enter the courtyard wearing sackcloth and covered in ashes.
-EST.4:3 And in every province where the king'scommand and decree arrived, there was great mourning among the Jews, with fasting, weeping, and wailing; and many lay in sackcloth and ashes.
-EST.4:4 The queen'smaids and eunuchs came and told her, and she was deeply distressed upon hearing of this situation. Then she sent garments to clothe Mordecai and take his sackcloth away from him, but he would not accept them.
+EST.4:1 But Mordecai, learning what had happened, tore his clothes and put on sackcloth, and sprinkled ashes on himself, and running through the square of the city he cried out with a loud voice, 'A people who have done no wrong are about to be destroyed!'
+EST.4:2 He went as far as the king's gate, and there he waited, for it was not allowed for him to enter the courtyard wearing sackcloth and covered in ashes.
+EST.4:3 And in every province where the king's command and decree arrived, there was great mourning among the Jews, with fasting, weeping, and wailing; and many lay in sackcloth and ashes.
+EST.4:4 The queen's maids and eunuchs came and told her, and she was deeply distressed upon hearing of this situation. Then she sent garments to clothe Mordecai and take his sackcloth away from him, but he would not accept them.
 EST.4:5 Then Esther called Hathach, her eunuch who attended to her, and sent him out to learn for herself the details from Mordecai.
 EST.4:7 Mordecai made known to him what had happened, and the offer Haman had made to the king to put ten thousand talents into the treasury to destroy the Jews.
 EST.4:8 He also gave him a copy of the decree posted in Susa concerning their destruction to show it to Esther. He told him to instruct her to go in to the king and make supplication before him, and to plead before him for the people, remembering, said he, 'the days of your low estate and how you were raised by my hand; because Haman, second to the king, spoke against us for our death. Call upon the Lord and speak to the king concerning us, and to deliver us from death!'
 EST.4:9 So Hathach came and told her all these words.
 EST.4:10 Then Esther said to Hathach, 'Go to Mordecai and say,
 EST.4:11 'All the nations of the kingdom know that any man or woman who goes into the inner court to the king who has not been summoned, there is no deliverance for him unless the king holds out his golden scepter to save that person. And I have not been called to go in to the king for thirty days.' '
-EST.4:12 So Hathach related all Esther'swords to Mordecai.
+EST.4:12 So Hathach related all Esther's words to Mordecai.
 EST.4:13 And Mordecai said to Hathach, 'Go and say to Esther, 'Do not say to yourself that you alone will be saved in the kingdom apart from all the other Jews.
-EST.4:14 For if you choose not to heed this request at this time, help and deliverance for the Jews will arise elsewhere, but you and your father'shouse will perish. Besides, who knows whether it is for this occasion you reign as queen?' '
+EST.4:14 For if you choose not to heed this request at this time, help and deliverance for the Jews will arise elsewhere, but you and your father's house will perish. Besides, who knows whether it is for this occasion you reign as queen?' '
 EST.4:15 Then Esther dispatched the one who came to her to Mordecai, saying,
 EST.4:16 'Go and assemble together the Jews in Susa. Fast for me; do not eat or drink for three full days and three full nights. I and my maids will also fast. Then I will go to the king, contrary to the law, even if I am to perish.'
 
@@ -194,17 +194,17 @@ EST.5:22 Then Zeresh his wife and friends said to him, 'Have a tree cut down, fi
 
 EST.6:1 But the Lord made it difficult for the king to sleep that night, and the king commanded his servant to bring in the written records of notable events.
 EST.6:2 And he found the written records about Mordecai, how he had told the king about the two eunuchs of the king when they were keeping guard and sought to lay hands on Artaxerxes.
-EST.6:3 Then the king said, 'Has any honor or favor been granted Mordecai?' And the king'sservants said, 'Nothing was done for him.'
+EST.6:3 Then the king said, 'Has any honor or favor been granted Mordecai?' And the king's servants said, 'Nothing was done for him.'
 EST.6:4 And at the same time the king asked about the good will of Mordecai, behold, Haman entered the courtyard. The king said, 'Who is in the courtyard?' Haman had come in to talk to the king about hanging Mordecai on the gallows he had prepared.
 
 
 ### The King Honors Mordecai
 
-EST.6:5 And the king'sservants said, 'Behold, Haman is standing in the courtyard.' And the king said, 'Let him come in.'
+EST.6:5 And the king's servants said, 'Behold, Haman is standing in the courtyard.' And the king said, 'Let him come in.'
 EST.6:6 The king said to Haman, 'What should I do for a man whom I wish to honor?' And Haman thought to himself, 'Whom would the king wish to honor but me?'
 EST.6:7 So Haman said to the king,
-EST.6:8 'As for the man whom the king wishes to honor, have the king'sservant bring the royal robe the king wears, along with the horse he rides,
-EST.6:9 and let these be given to one of the king'shonored friends, and let him clothe the man whom the king loves and then mount him upon the horse. And let it be proclaimed in the city square, saying, 'Thus it shall be done for every man whom the king honors!' '
+EST.6:8 'As for the man whom the king wishes to honor, have the king's servant bring the royal robe the king wears, along with the horse he rides,
+EST.6:9 and let these be given to one of the king's honored friends, and let him clothe the man whom the king loves and then mount him upon the horse. And let it be proclaimed in the city square, saying, 'Thus it shall be done for every man whom the king honors!' '
 EST.6:10 Then the king said to Haman, 'You have spoken well; thus you shall do to Mordecai the Jew, the one serving in the courtyard, and let no word you have spoken be overlooked.'
 EST.6:11 So Haman took the robe and the horse and arrayed Mordecai with the robe, and mounted him on the horse; and he went throughout the city square, and proclaimed, saying, 'Thus shall it be done to every man whom the king honors.'
 EST.6:12 Mordecai returned to the courtyard, but Haman returned to his own quarters grieving, with his head down.
@@ -213,7 +213,7 @@ EST.6:13 And Haman related these events to his wife Zeresh and his friends. Then
 
 ### Esther's Second Banquet
 
-EST.6:14 While they were still speaking, the king'seunuchs came to hasten Haman to the banquet which Esther had prepared.
+EST.6:14 While they were still speaking, the king's eunuchs came to hasten Haman to the banquet which Esther had prepared.
 ## Chapter 7
 
 EST.7:1 So the king and Haman came to the banquet to drink together with the queen.
@@ -223,7 +223,7 @@ EST.7:2 And the king said to Esther on this second day of the banquet, 'What is 
 ### Epilogue
 
 EST.7:3 She said in reply, 'If I have found favor in the sight of the king, let my life be given to me at my request, and my people at my petition.
-EST.7:4 For both I and my people are sold into destruction, pillage, and bondage. We and our descendants have already been enslaved as male and female slaves, and I refuse to listen to this, for the accuser of my people is not worthy of the king'scourt.'
+EST.7:4 For both I and my people are sold into destruction, pillage, and bondage. We and our descendants have already been enslaved as male and female slaves, and I refuse to listen to this, for the accuser of my people is not worthy of the king's court.'
 EST.7:5 Then the king said, 'Who is this who dared to do this thing?'
 
 
@@ -232,7 +232,7 @@ EST.7:5 Then the king said, 'Who is this who dared to do this thing?'
 EST.7:6 And Esther said, 'The enemy is this wicked man, Haman.' Then Haman was troubled before the king and the queen.
 EST.7:7 The king arose from the banquet and went into the garden, but Haman was pleading with the queen, for he realized that he was in desperate circumstances.
 EST.7:8 The king returned from the garden, and Haman, while entreating the queen, had fallen upon the couch. And the king said, 'So! Will you force yourself upon my wife in my own house?' And hearing this, Haman changed in his countenance.
-EST.7:9 Then Harbona, one of the eunuchs, said to the king, 'Look! Haman has prepared a gallows for Mordecai, the one who spoke for the benefit of the king. A gallows fifty cubits high has been set up at Haman'splace.' Then the king said, 'Hang him on it!'
+EST.7:9 Then Harbona, one of the eunuchs, said to the king, 'Look! Haman has prepared a gallows for Mordecai, the one who spoke for the benefit of the king. A gallows fifty cubits high has been set up at Haman's place.' Then the king said, 'Hang him on it!'
 
 
 ### Haman's Plot Is Thwarted
@@ -268,19 +268,19 @@ EST.8:12 This was to take effect beginning on one day throughout all the kingdom
 
 ### The Posting of the New Decree
 
-EST.8:13 12b The great King Artaxerxes, to the governors of the provinces in the hundred twentyseven satrapies, from India to Ethiopia, and to the faithful to our interests: Greetings!
-EST.8:14 12c Many of those who have been frequently honored in the great kindness of their benefactors have become high-minded; not only do they seek to do harm to our subjects, but being unable to bear such a measure, they undertake to plot against their own benefactors. 12d Not only do they drive out gratitude from among men, but also being puffed up by those who are unacquainted with goodness, they suppose they will escape the vengeance of the allseeing God. 12e And often, many of those who have been appointed to positions of authority, being entrusted to manage the affairs of friends and having been given a position of authority as an encouragement, have become accessories to the shedding of innocent blood; 12f and they have involved them in circumstances without remedy by deceiving with false arguments the benign kindness of the rulers. 12g And it is possible to observe this, not so much from examining the ancient traditions, as by your learning from the wicked deeds accomplished in your midst by the pestilential influence of those unworthy of holding power. 12h We must be on guard for the future, that we may maintain the kingdom undisturbed and peaceful for all the people, 12i making the most of changes, and always judging fairly in the matters coming to our attention.
+EST.8:13 12b The great King Artaxerxes, to the governors of the provinces in the hundred twenty-seven satrapies, from India to Ethiopia, and to the faithful to our interests: Greetings!
+EST.8:14 12c Many of those who have been frequently honored in the great kindness of their benefactors have become high-minded; not only do they seek to do harm to our subjects, but being unable to bear such a measure, they undertake to plot against their own benefactors. 12d Not only do they drive out gratitude from among men, but also being puffed up by those who are unacquainted with goodness, they suppose they will escape the vengeance of the all-seeing God. 12e And often, many of those who have been appointed to positions of authority, being entrusted to manage the affairs of friends and having been given a position of authority as an encouragement, have become accessories to the shedding of innocent blood; 12f and they have involved them in circumstances without remedy by deceiving with false arguments the benign kindness of the rulers. 12g And it is possible to observe this, not so much from examining the ancient traditions, as by your learning from the wicked deeds accomplished in your midst by the pestilential influence of those unworthy of holding power. 12h We must be on guard for the future, that we may maintain the kingdom undisturbed and peaceful for all the people, 12i making the most of changes, and always judging fairly in the matters coming to our attention.
 EST.8:15 12j Thus Haman, the son of Hammedatha, a Macedonian, certainly not of Persian blood, but differing greatly from our kindness, and having been hospitably received by us, 12k received such a large share of the benevolence which we have for all peoples that he was even publicly proclaimed to be our father, reverenced by all; he attained the rank of second to the royal throne. 12l But unable to bear his dignity, he endeavored to deprive us of our kingdom and our life. 12m And by very twisted methods of deception, he demanded the destruction of our deliverer and constant benefactor, Mordecai, and Esther, the blameless consort of our kingdom, together with their whole race. 12n For through these ways, he expected to catch the nation of the Persians undefended, and to guide the Macedonians to victory. 12o However, we find that the Jews, who have been consigned to destruction by this terribly wicked man, are not criminals, but live by most just laws. 12p We find them to be children of the Most High, Most Mighty, Living God, who has guided the kingdom both for us and our forefathers in the most excellent manner.
 EST.8:16 12q Therefore, you will do well to disregard the letters sent by Haman the son of Hammedatha, because he who has produced these has been hanged at the gates of Susa, along with his whole household. For God Almighty, who rules over all things, swiftly rendered a just judgment on him.
 
 
 ### The Jews Defeat Their Enemies
 
-EST.8:17 12r Therefore, post a copy of this document publicly in every place, making it known that the Jews are to follow their own customs; and join in supporting them, so that on the day set for their destruction, the thirteenth day of the twelfth month Adar, they may defend themselves against those who would attack them. 12s For God, who holds power over all things, has made this a day of gladness for them instead of a day of the destruction of a chosen race. 12t Therefore, celebrate this outstanding day among your named feasts with all rejoicing, so that both now and in the future it may be deliverance for us and for the wellinclined Persians; and for those who plot destruction against us, a remembrance of destruction. 12u And every city or province whatsoever which shall not act in accordance with these things shall be mercilessly destroyed with spear and fire; it shall be made impassable not only to men, but even to wild animals and birds forever.
+EST.8:17 12r Therefore, post a copy of this document publicly in every place, making it known that the Jews are to follow their own customs; and join in supporting them, so that on the day set for their destruction, the thirteenth day of the twelfth month Adar, they may defend themselves against those who would attack them. 12s For God, who holds power over all things, has made this a day of gladness for them instead of a day of the destruction of a chosen race. 12t Therefore, celebrate this outstanding day among your named feasts with all rejoicing, so that both now and in the future it may be deliverance for us and for the well-inclined Persians; and for those who plot destruction against us, a remembrance of destruction. 12u And every city or province whatsoever which shall not act in accordance with these things shall be mercilessly destroyed with spear and fire; it shall be made impassable not only to men, but even to wild animals and birds forever.
 
 
 EST.8:18 Let copies of the decree be posted conspicuously throughout the kingdom, and let all the Jews be ready on that day to fight against those who oppose them.
-EST.8:19 So horsemen were sent out quickly to carry out the king'scommands, and the decree was also posted in Susa.
+EST.8:19 So horsemen were sent out quickly to carry out the king's commands, and the decree was also posted in Susa.
 EST.8:20 Then Mordecai went out robed in royal raiment, having a gold crown and a diadem of fine purple linen; and seeing him, the people of Susa rejoiced.
 EST.8:21 And there was light and gladness for the Jews.
 

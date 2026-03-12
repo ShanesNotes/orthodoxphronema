@@ -1,15 +1,13 @@
 {
   "book_code": "REV",
   "testament": "NT",
-  "timestamp": "2026-03-11T05:55:46.391931",
+  "timestamp": "2026-03-11T16:39:43.878254",
   "registry_version": "1.3.0",
-  "body_checksum": "602a7db2dff071e12d6306296c1ef0f885f417075378a71b452e3fc6213c8a05",
+  "body_checksum": "9eaac9a21fdc6df0d0040cea88e3cbeb192b2cd3416e1cc08f9fa8dabed3489a",
   "validation": {
     "V1": {
-      "status": "FAIL",
-      "messages": [
-        "V1   2 duplicate anchor(s):"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V2": {
       "status": "PASS",
@@ -22,52 +20,46 @@
     "V4": {
       "status": "FAIL",
       "messages": [
-        "V4   Verse goes backward in ch.17 at line 468: verse 17 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 469: verse 3 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 470: verse 4 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 474: verse 5 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 478: verse 6 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 479: verse 7 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 480: verse 8 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 481: verse 9 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 482: verse 10 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 483: verse 11 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 484: verse 12 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 485: verse 13 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 486: verse 14 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 487: verse 15 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 488: verse 16 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 489: verse 17 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 493: verse 18 after verse 21",
-        "V4   Verse goes backward in ch.22 at line 622: verse 22 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 623: verse 2 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 624: verse 3 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 625: verse 4 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 629: verse 5 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 630: verse 6 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 631: verse 7 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 635: verse 8 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 636: verse 9 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 637: verse 10 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 638: verse 11 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 639: verse 12 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 640: verse 13 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 641: verse 14 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 642: verse 15 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 643: verse 16 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 644: verse 17 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 645: verse 18 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 646: verse 19 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 647: verse 20 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 648: verse 21 after verse 27",
-        "V4   Missing verses in ch.1: jumps from 1 to 3",
-        "V4   Missing verses in ch.7: jumps from 5 to 9",
+        "V4   Verse goes backward in ch.17 at line 469: verse 17 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 470: verse 3 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 471: verse 4 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 475: verse 5 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 479: verse 6 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 480: verse 7 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 481: verse 8 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 482: verse 9 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 483: verse 10 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 484: verse 11 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 485: verse 12 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 486: verse 13 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 487: verse 14 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 488: verse 15 after verse 21",
+        "V4   Verse goes backward in ch.17 at line 492: verse 16 after verse 21",
+        "V4   Verse goes backward in ch.22 at line 624: verse 22 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 625: verse 2 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 626: verse 3 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 627: verse 4 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 631: verse 5 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 632: verse 6 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 633: verse 7 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 637: verse 8 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 638: verse 9 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 639: verse 10 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 640: verse 11 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 641: verse 12 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 642: verse 13 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 643: verse 14 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 644: verse 15 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 645: verse 16 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 646: verse 17 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 647: verse 18 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 648: verse 19 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 649: verse 20 after verse 27",
+        "V4   Verse goes backward in ch.22 at line 650: verse 21 after verse 27",
         "V4   Missing verses in ch.14: jumps from 6 to 8",
         "V4   Missing verses in ch.17: jumps from 1 to 18",
         "V4   Missing verses in ch.18: jumps from 9 to 11",
-        "V4   Missing verses in ch.18: jumps from 11 to 14",
         "V4   Missing verses in ch.19: jumps from 17 to 19",
-        "V4   Missing verses in ch.21: jumps from 10 to 12",
         "V4   Missing verses in ch.22: jumps from 1 to 23"
       ]
     },
@@ -82,7 +74,7 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 390/404 verses (96.5%); gap of 14"
+        "V7   Completeness: 397/404 verses (98.3%); gap of 7"
       ]
     },
     "V8": {
@@ -92,18 +84,9 @@
     "V9": {
       "status": "FAIL",
       "messages": [
-        "V9   Embedded verse REV.1:2 found inside REV.1:1 at line 17",
-        "V9   Embedded verse REV.7:6 found inside REV.7:5 at line 201",
-        "V9   Embedded verse REV.7:7 found inside REV.7:5 at line 201",
-        "V9   Embedded verse REV.7:8 found inside REV.7:5 at line 201",
-        "V9   Embedded verse REV.14:7 found inside REV.14:6 at line 383",
-        "V9   Embedded verse REV.17:17 found inside REV.17:1 at line 457",
-        "V9   Embedded verse REV.18:10 found inside REV.18:9 at line 507",
-        "V9   Embedded verse REV.18:12 found inside REV.18:11 at line 508",
-        "V9   Embedded verse REV.18:13 found inside REV.18:11 at line 508",
-        "V9   Embedded verse REV.19:18 found inside REV.19:17 at line 550",
-        "V9   Embedded verse REV.21:11 found inside REV.21:10 at line 597",
-        "V9   Embedded verse REV.22:22 found inside REV.22:1 at line 613"
+        "V9   Embedded verse REV.14:7 found inside REV.14:6 at line 387",
+        "V9   Embedded verse REV.17:17 found inside REV.17:1 at line 461",
+        "V9   Embedded verse REV.22:22 found inside REV.22:1 at line 615"
       ]
     }
   },

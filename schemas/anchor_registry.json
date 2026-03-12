@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$comment": "Registry v1.1.0. Changes require version bump, changelog entry, and migration plan.",
-  "registry_version": "1.3.0",
-  "ratified_date": "2026-03-08",
+  "registry_version": "1.4.0",
+  "ratified_date": "2026-03-11",
   "registry_changelog": [
     {
       "version": "1.0.0",
@@ -43,6 +43,11 @@
       "version": "1.3.0",
       "date": "2026-03-10",
       "description": "Added cvc_overrides schema for intentional LXX/MT versification differences. Override entries for 1SA, EZR, DAN, EST, JOL, MAL."
+    },
+    {
+      "version": "1.4.0",
+      "date": "2026-03-11",
+      "description": "NT CVC corrections: 1TH [10,19,18,21,18]->[10,20,13,18,28], 3JN [14]->[15]. Source: OSB versification verification."
     }
   ],
   "total_canonical_books": 76,
@@ -1947,10 +1952,10 @@
       "chapters": 5,
       "chapter_verse_counts": [
         10,
-        19,
+        20,
+        13,
         18,
-        21,
-        18
+        28
       ]
     },
     {
@@ -2108,7 +2113,7 @@
       "position": 74,
       "chapters": 1,
       "chapter_verse_counts": [
-        14
+        15
       ]
     },
     {

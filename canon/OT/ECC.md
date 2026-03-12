@@ -17,16 +17,18 @@ has_additions: false
 ### Outline
 
 ECC.1:1 The words of the Preacher, the son of David, king of Israel in Jerusalem.
-ECC.1:2 'Vanity of vanities,' says the Preacher; 'Vanity of vanities, all is vanity!' †
-ECC.1:3 What advantage does a man have in all his labor In which he toils under the sun? †
+ECC.1:2 'Vanity of vanities,' says the Preacher; 'Vanity of vanities, all is vanity!'
+ECC.1:3 What advantage does a man have in all his labor In which he toils under the sun?
 ECC.1:4 A generation comes and a generation goes, But the earth stands forever.
 ECC.1:5 The sun rises and the sun sets And returns to its place.
+
 ### The Book of Ecclesiastes
 
 ECC.1:6 The wind rises and goes toward the south And swirls towards the north.
 ECC.1:7 All the rivers flow to the sea, Yet the sea shall not be filled.
-ECC.1:8 Neither will the eye be satisfied with seeing, Nor will the ear be filled with hearing. †
+ECC.1:8 Neither will the eye be satisfied with seeing, Nor will the ear be filled with hearing.
 ECC.1:9 What has been is what will be, And what has been done is what will be done.
+
 ### Futility of Man's Wisdom
 
 ECC.1:10 For it has already been in the ages That have passed before us.
@@ -34,9 +36,10 @@ ECC.1:11 There is no remembrance of former things, And indeed, there shall be no
 ECC.1:12 I, the Preacher, was king over Israel in Jerusalem.
 ECC.1:13 I gave my heart to seek out and to prepare myself in wisdom concerning all the things done under heaven; for God has given painful distraction to the sons of men to be occupied therewith.
 ECC.1:14 I beheld all the works done under the sun, and behold, all is vanity and is the choice of one's spirit.
-ECC.1:15 That which has become crooked cannot be made straight, And what is lacking cannot be counted. †
+ECC.1:15 That which has become crooked cannot be made straight, And what is lacking cannot be counted.
 ECC.1:16 I spoke in my heart, saying, 'Behold, I have become great, and have acquired wisdom beyond all before me in Jerusalem; and my heart has experienced much wisdom and knowledge.'
 ECC.1:17 I gave my heart to know wisdom and knowledge, to learn proverbs and understanding. And this, too, was waywardness of spirit.
+
 ### The Vanity of Merriment
 
 ECC.1:18 There is abundance of knowledge, And he who increases knowledge will increase suffering.
@@ -53,6 +56,7 @@ ECC.2:7 I acquired male and female servants, and servants were born in my house;
 ECC.2:8 I also gathered silver and gold for myself and the abundant treasures of kings and countries. I provided male and female singers for myself, the delights of the sons of men, and male and female cupbearers.
 ECC.2:9 So I became great and advanced beyond all before me in Jerusalem; my wisdom established me.
 ECC.2:10 Whatever my eyes desired, I did not keep from them. I did not withhold my heart from any merriment. For my heart was made glad in all my labor, And this was my portion from all my labor.
+
 ### Wisdom Excels Foolishness
 
 ECC.2:11 Then I looked on all the works my hands had done And on the labor in which I had toiled, And indeed all is vanity And is the choice of one's spirit. There was no profit under the sun.
@@ -70,6 +74,7 @@ ECC.2:22 For what does a man have for all his labor and his purpose of heart whe
 ECC.2:23 For all his days are sorrowful, and the distraction of life is his, for even in the night his heart takes no rest. This also is vanity.
 ECC.2:24 There is nothing better for a man than that he should eat and drink and that his soul should enjoy good in his labor. This also I saw was from the hand of God.
 ECC.2:25 For who will eat or who will drink without Him?
+
 ### A Time for Everything
 
 ECC.2:26 And He gives wisdom, knowledge, and gladness to a man who is good in His sight. But to him who commits sin He gives the job of gathering and collecting, that he may give to the man who is good in God's sight. This is also vanity and is the choice of one's spirit.
@@ -81,38 +86,47 @@ ECC.3:2 A time to give birth And a time to die; A time to plant And a time to pl
 ECC.3:3 A time to kill And a time to heal; A time to pull down And a time to build up.
 ECC.3:4 A time to weep And a time to laugh; A time to mourn And a time to dance.
 ECC.3:5 A time to throw stones And a time to gather stones; A time to embrace And a time to refrain from embracing.
+
 ### The Vanity of Riches
 
 ECC.3:6 A time to seek And a time to lose; A time to keep And a time to throw away.
 ECC.3:7 A time to tear And a time to sew; A time to keep silent And a time to speak.
+
 ### The Gifts of God
 
 ECC.3:8 A time to love And a time to hate; A time of war And a time of peace.
+
 ### Death Visits All
 
 ECC.3:9 What profit has the worker from all his labors?
+
 ### Follow God in Your Youth
 
 ECC.3:10 I have seen altogether the tasks which God has given to the sons of men to be engaged in.
-ECC.3:11 He made everything beautiful in its time, and He indeed put eternity in their hearts in such away that man may not find out the work God made from the beginning to the end.
+ECC.3:11 He made everything beautiful in its time, and He indeed put eternity in their hearts in such a way that man may not find out the work God made from the beginning to the end.
+
 ### Wisdom Is Better Than Strength
 
 ECC.3:12 I know there is nothing better for them than to rejoice and do good in their lives.
 ECC.3:13 Indeed, every man should eat and drink and experience the good in all his labor-this is God's gift to him.
 ECC.3:14 I know that whatever things God does, They shall be forever. Nothing can be added to or taken away from these things, For God did them that men would fear before Him.
+
 ### God Judges All
 
 ECC.3:15 What is has already been, And what is to be has already been; And God will require an account of what is past.
+
 ### Draw Near to God
 
 ECC.3:16 Moreover I saw under the sun the place of judgment.
 ECC.3:17 I said in my heart, 'God will judge both the righteous man and the ungodly man, For there is a time for every action and every work.'
 ECC.3:18 I said in my heart, 'Concerning the speech of the sons of men, God will judge them so as to show them that indeed, they are themselves like animals.'
 ECC.3:19 For what happens to the sons of men also happens to animals: one thing befalls them; as is the death of the one, so also is the death of the other, and there is one breath to all. So what advantage does a man have over an animal? For all things are vanity.
+
 ### Cast Your Bread upon the Water
 
 ECC.3:20 All go to one place: all are from the dust, and all return to the dust.
 ECC.3:21 Who knows the spirit of the sons of men, whether it goes upward, and the spirit of the animal, whether it goes downward to the earth?
+
 ### Those Oppressed
 
 ECC.3:22 So I saw that there was no good except that a man should rejoice in his works; for that is his portion. For who shall bring him to see what happens after him?
@@ -170,7 +184,7 @@ ECC.6:6 Even if he lived a thousand years twice, but has not seen goodness, do n
 ECC.6:7 All the labor of man is for his mouth, And yet his soul is not satisfied.
 ECC.6:8 For what advantage does the skilled man Have over the unskilled man, Since even this poor man knows how to keep himself alive?
 ECC.6:9 Better is the sight of the eyes Than the wandering of the soul.
-ECC.6:10 This also is vanity and is the choice of one's spirit. If any thing has come to be, Its name has already been used; And it is known what man is, That he is unable to dispute with him Who is stronger than he.
+ECC.6:10 This also is vanity and is the choice of one's spirit. If anything has come to be, Its name has already been used; And it is known what man is, That he is unable to dispute with him Who is stronger than he.
 ECC.6:11 Since there are many words that multiply vanity, What advantage does man have?
 ECC.6:12 For who knows what is good for man in his life? For all his days in life, which pass like a shadow, are spent in vanity. Who can tell a man what will happen under the sun after he is gone?
 
@@ -189,8 +203,8 @@ ECC.7:10 Do not say, 'Why were the former days better than these?' For you do no
 ECC.7:11 Wisdom is good with an inheritance, And profitable to those who see the sun.
 ECC.7:12 For wisdom in its shadow is as the shadow of silver, But the abundance of the knowledge of wisdom Will give life to him who has it.
 ECC.7:13 Behold the works of God, For who can put in order him Whom God made crooked?
-ECC.7:14 In the day of what is good, live in that goodness, But in the day of trouble, consider also That God made one harmonious with the other, That a man may not find out any thing That will come after him.
-ECC.7:15 I saw every thing in my days of vanity: There is a righteous man Who perishes in his righteousness, And there is an ungodly man Who remains alive in his vice.
+ECC.7:14 In the day of what is good, live in that goodness, But in the day of trouble, consider also That God made one harmonious with the other, That a man may not find out anything That will come after him.
+ECC.7:15 I saw everything in my days of vanity: There is a righteous man Who perishes in his righteousness, And there is an ungodly man Who remains alive in his vice.
 ECC.7:16 Do not be overly righteous, Nor be overly wise, Lest you be confounded.
 ECC.7:17 Do not be very ungodly, Nor be hardened, Lest you die before your time.
 ECC.7:18 It is good that you lay hold of this And do not let your hand let go of it: For the one who fears God, all things will turn out well.
@@ -204,6 +218,7 @@ ECC.7:25 I and my heart went about to know, And to search and seek out wisdom An
 ECC.7:26 I find more bitter than death The woman who is a snare and her heart a net; And her hands are her chains. A man who is good in the sight of God will escape from her, But the sinner will be caught by her.
 ECC.7:27 'Behold, I found this,' says the Preacher, 'Adding one thing to the other to find out the reason,
 ECC.7:28 Which my soul still seeks, but cannot find: I found one man among a thousand, But a woman among all these, I have not found.
+
 ### Obey Those Who Rule
 
 ECC.7:29 Except behold, I found this, That God makes man upright, But they have sought out many schemes.'
@@ -218,10 +233,10 @@ ECC.8:5 He who keeps his commandment will not know an evil thing, And a wise man
 ECC.8:6 For to every matter there is a time and a judgment, Because the knowledge of a man lies heavily upon him.
 ECC.8:7 For there is no one who knows what is going to be; For who will tell him how it shall be?
 ECC.8:8 No one has the authority over his spirit to withhold his spirit, And no one has authority in the day of his death.
-ECC.8:9 There is no discharge in that war, And ungodliness will not save those given to it. † I saw all this and gave my heart to every work done under the sun wherein one man has authority over another man to injure him.
+ECC.8:9 There is no discharge in that war, And ungodliness will not save those given to it. I saw all this and gave my heart to every work done under the sun wherein one man has authority over another man to injure him.
 ECC.8:10 Then I saw the ungodly buried in their tombs and brought from their holy place and praised in the city for what they had done. But this also is vanity.
 ECC.8:11 For no controversy comes quickly against those who do evil; therefore, the heart of the sons of men is fully determined within them to do evil.
-ECC.8:12 Whoever sins does evil from that time on and for along time afterwards; nevertheless, I know that it shall be well for those who fear God so long as they have fear before Him.
+ECC.8:12 Whoever sins does evil from that time on and for a long time afterwards; nevertheless, I know that it shall be well for those who fear God so long as they have fear before Him.
 ECC.8:13 But it shall not be well with the ungodly man; he will not prolong his days, which are as a shadow, because he does not have fear before God.
 ECC.8:14 There is a vanity that is done on earth: there are the righteous as when the work of the ungodly overtakes them, and there are the ungodly as when the work of the righteous overtakes them. I said that this also is vanity.
 ECC.8:15 So I praised merriment, because a man has nothing better to do under the sun than to eat, drink, and be merry; for this will be present with him in his labor all the days of his life that God gives him under the sun.
@@ -274,7 +289,7 @@ ECC.10:20 Do not curse the king, even in your conscience; Do not curse the rich,
 
 ## Chapter 11
 
-ECC.11:1 Cast your bread upon the face of the water, For you will find it after many days. †
+ECC.11:1 Cast your bread upon the face of the water, For you will find it after many days.
 ECC.11:2 Give a portion to seven and also to eight, For you do not know what evil there will be on the earth.
 ECC.11:3 If the clouds are full of rain, they pour it out upon the earth, And if a tree falls to the south or to the north, In the place where the tree falls, there it shall lie.
 ECC.11:4 He who observes the wind will not sow, And he who sees the clouds will not reap.
@@ -300,4 +315,4 @@ ECC.12:10 The Preacher sought diligently to find desirable words, and what was w
 ECC.12:11 The words of the wise are like pointed sticks, like nails firmly fastened; they are given from the collections and abound from them by one Shepherd.
 ECC.12:12 Moreover, my son, guard yourself, for there is no end to the making of many books, and much study is weariness of the flesh.
 ECC.12:13 Hear the conclusion of the whole matter: Fear God And keep His commandments, For this is the whole man.
-ECC.12:14 For God will bring every work into judgment, Including every thing that has been overlooked, Whether it be good or evil.
+ECC.12:14 For God will bring every work into judgment, Including everything that has been overlooked, Whether it be good or evil.

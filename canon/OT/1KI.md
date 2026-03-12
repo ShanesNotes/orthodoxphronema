@@ -80,7 +80,7 @@ has_additions: false
 
 ## Chapter 2
 
-1KI.2:1 .'
+1KI.2:1 4 So King3 Solomon ruled over Israel. His officials were the scribes, Azariah the son of Zadok, and Elihoreph and Ahijah, the sons of Shisha; and the recorder, Jehoshaphat the son of Ahilud; 4and the priests, Zadok and Abiathar, the priests; 5Azariah, the son of Nathan, over the administrators; Zabud the son of Nathan, the king's companion; 6Ahishar, over the household; and Eliab, the son of Saph, over the people; and Adoniram the son of Abda, over the tribute. 7Solomon had twelve governors over all Israel, who provided food for the king and his household; each one made provision for one month of the year. 8They were the son of Hur, in the mountains of Ephraim, one month; 9the son of Rechab in Makaz and Bethlehem and Beth Shemesh and Elon as far as Beth Hanan, one month; 10the son of Hesed, in Arubboth; to him belonged Sochoh and all the land of Hepher, one month; 11the son of Abinadab, in all the regions of Dor; he had Taphath the daughter of Solomon as his wife, one month; 12Baana the son of Ahilud, in Taanach, Megiddo, and all the house of Shean, which is beside Zaretan below Jezreel, from Beth Shean and Abel Meholah, as far as the other side of Jokneam, one month; 13the son of Geber, in Ramoth Gilead; to him belonged the region of Argob in Bashan —sixty large cities with walls and bronze gate-bars, one month; 14Ahinadab the son of Iddo, in Mahanaim, one month; 15Ahimaaz in Naphtali; he also took Basemath the daughter of Solomon as wife, one month; 16Baanah the son of Hushai in Maaleth, one month; 17Shimei the son of Elahom in Benjamin; 18Geber the son of Adai, in the land of Gad, in the country of Sihon king of Heshbon, and Og king of Bashan, one month; 19Jehoshaphat the son of Paruah in Issachar. 5 Intable, this manner the governors provided everything King Solomon requested for the king's each man in his month. They did not change a thing; even the barley and the grain stalks for the horses and the chariots they brought to the place where the king was, each man according to his appointment.
 1KI.2:2 Now the days of David drew near to death, and he charged Solomon his son, saying
 1KI.2:3 'I am going the way of all the earth, but you must be strong and become a man.
 1KI.2:4 Keep the charge of the Lord your God, to walk in His ways, to keep His commandments and statutes, and the writings of His judgments in the Law of Moses, so you may understand what you shall do regarding whatever I command of you;
@@ -179,8 +179,8 @@ has_additions: false
 
 ## Chapter 3
 
-1KI.3:1 .
-1KI.3:2 Meanwhile the people burned incense on the high places, becau
+1KI.3:1 And Solomon made an alliance with Pharaoh king of Egypt, and took Pharaoh's daughter and brought her to the City of David until he finished building his own house, and the house of the Lord, and the wall all around Jerusalem.
+1KI.3:2 Meanwhile the people burned incense on the high places, because there was no house built for the name of the Lord until those days.
 1KI.3:3 But Solomon loved the Lord, walking in the statutes of his father David, except that he sacrificed and burned incense on the high places.
 
 ### God Appears to Solomon
@@ -276,7 +276,7 @@ has_additions: false
 ## Chapter 6
 
 1KI.6:1 .
-1KI.6:2 In the four hundred fortieth year after the children of Israel came out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the second month, 2 the king issued a command, and they put great costly stones into the foundation of the house. These stones were not touched by an axe.
+1KI.6:2 In the four hundred fortieth year after the children of Israel came out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the second month, the king issued a command, and they put great costly stones into the foundation of the house. These stones were not touched by an axe.
 1KI.6:3 The sons of Solomon cut them, and the sons of Hiram placed them.
 1KI.6:4 In the fourth year, he laid the foundation of the Lord's house in the month Nisan, the second month.
 1KI.6:5 In the eleventh year, in the month Bul, that is, the eighth month, the house was completed according to his every word and his every mandate.
@@ -374,7 +374,7 @@ has_additions: false
 
 ### The Ark Is Brought to the Temple
 
-1KI.8:1 Twenty years later, when Solomon finished building the house of the Lord and his own house, King Solomon assembled all the elders of Israel in Zion, to bring up the ark of the covenant of the Lord from the City of David, which is Zion, 2 in the month of Ethanim.
+1KI.8:1 Twenty years later, when Solomon finished building the house of the Lord and his own house, King Solomon assembled all the elders of Israel in Zion, to bring up the ark of the covenant of the Lord from the City of David, which is Zion, in the month of Ethanim.
 1KI.8:2 The priests took up the ark
 1KI.8:3 and the tabernacle of testimony and all the holy furnishings in the tabernacle of meeting.
 1KI.8:4 King Solomon and all Israel were before the ark, sacrificing sheep and oxen without number.
@@ -429,7 +429,7 @@ has_additions: false
 ### Solomon Blesses the People
 
 1KI.8:52 Behold, is this not written in the book of the ode? When Solomon finished praying all his prayer and supplication to the Lord, he rose up from before the altar of the Lord, after kneeling on his knees with his hands spread up to heaven.
-1KI.8:53 Then he stood and blessed the whole assembly of Israel with aloud voice and said,
+1KI.8:53 Then he stood and blessed the whole assembly of Israel with a loud voice and said,
 1KI.8:54 'Blessed be the Lord this day, who gave rest to His people Israel, just as He promised. Not one word has failed of all His good words He spoke through His servant Moses.
 1KI.8:55 'May the Lord our God be with us as He was with our fathers. May He not leave us nor forsake us,
 1KI.8:56 that He may incline our hearts to Himself, to walk in all His ways and to keep all His commandments and His statutes that He commanded our fathers.
@@ -444,7 +444,7 @@ has_additions: false
 1KI.8:62 On that day, the king consecrated the middle of the court that was in front of the house of the Lord. There he offered burnt offerings, grain offerings, and the fat of the peace offerings, because the bronze altar before the Lord was too small to receive the burnt offerings and the peace offerings.
 1KI.8:63 On that day, Solomon made a feast, and all Israel was with him, a great assembly from the entrance of Hamath to the river of Egypt, before the Lord our God in the house he built, eating, drinking, and rejoicing before the Lord our God for seven days.
 1KI.8:64 On the eighth day, he sent the people away and blessed them. Each one went to his tent, joyful and with a good heart for all the good the Lord did for His servant David and for Israel His people.
-1KI.8:65 Now when Solomon had finished building the house of the Lord and the king's house, and everything Solomon wanted to do, 2 the Lord appeared to Solomon a second time, as He appeared to him at Gibeon.
+1KI.8:65 Now when Solomon had finished building the house of the Lord and the king's house, and everything Solomon wanted to do, the Lord appeared to Solomon a second time, as He appeared to him at Gibeon.
 
 
 
@@ -458,7 +458,7 @@ has_additions: false
 1KI.9:4 'But if you or your sons turn from Me and do not keep My commandments and My statutes Moses set before you, but go and serve other gods and worship them,
 1KI.9:5 then I will cut off Israel from the land I gave them. I will cast from My sight this house which I made holy by My name. Israel will be destroyed, and will become but prattle among the peoples.
 1KI.9:6 As for this exalted house, everyone who passes by it will be astonished, and will hiss and say, 'Why did the Lord do this to this land and to this house?'
-1KI.9:7 Then they will answer, 'Because they forsook the Lord their God, who brought their fathers out of the land of Egypt, out of the house of bondage, and they embraced other gods and worshiped and served them. That is why the Lord brought all this calamity on them.' '
+1KI.9:7 Then they will answer, 'Because they forsook the Lord their God, who brought their fathers out of the land of Egypt, out of the house of bondage, and they embraced other gods and worshiped and served them. That is why the Lord brought all this calamity on them.'
 1KI.9:8 Then Solomon brought the daughter of Pharaoh from the City of David into the house he built for himself in those days.
 1KI.9:9 Now twenty years later, after Solomon built the two houses, the house of the Lord and the king's house,
 1KI.9:10 Hiram the king of Tyre helped supply Solomon, as much as he desired, with cedar and pine and gold. Then King Solomon gave Hiram twenty cities in the land of Galilee.
@@ -515,7 +515,7 @@ has_additions: false
 ## Chapter 11
 
 1KI.11:1 .
-1KI.11:2 King Solomon was a lover of women, and he had seven hundred princesses and three hundred concubines; and he took foreign wives, as well as the daughters of Pharaoh, women of the Moabites, Ammonites, Syrians and Idumeans, Hittites and Amorites; †
+1KI.11:2 King Solomon was a lover of women, and he had seven hundred princesses and three hundred concubines; and he took foreign wives, as well as the daughters of Pharaoh, women of the Moabites, Ammonites, Syrians and Idumeans, Hittites and Amorites;
 1KI.11:3 from the nations of whom the Lord said to the children of Israel, "You shall not go in to them, and they shall not come in to you, lest they turn away your hearts after their idols." Solomon joined to these in love.
 1KI.11:4 For when Solomon was old and his heart was not loyal to the Lord his God, as was the heart of his father David, his foreign wives turned his heart after their gods.
 
@@ -546,7 +546,7 @@ has_additions: false
 1KI.11:24 Jeroboam the son of Nebat, Solomon's servant, was an Ephraimite from Zereda, the son of a woman who was a widow.
 1KI.11:25 This was the event bringing him to rebel against Solomon the king: Now Solomon built the citadel. He built a wall of fortification that enclosed the City of David that his father built.
 1KI.11:26 Jeroboam the man was very strong, and Solomon, seeing the young man was industrious, put him in charge of those who labored at the house of Joseph.
-1KI.11:27 As it happened, Jeroboam went out from Jerusalem, and along the way, the prophet Ahijah the Shilonite, clothed with a new garment, found him and persuaded him to detour from his path. Now the two of them stood alone in afield.
+1KI.11:27 As it happened, Jeroboam went out from Jerusalem, and along the way, the prophet Ahijah the Shilonite, clothed with a new garment, found him and persuaded him to detour from his path. Now the two of them stood alone in a field.
 1KI.11:28 Then Ahijah took hold of the new garment he was wearing and tore it into twelve pieces.
 1KI.11:29 And he said to Jeroboam, 'Take ten pieces for yourself, for thus says the Lord God of Israel, 'Behold, I will break asunder the kingdom from the hand of Solomon and give ten tribes to you.
 1KI.11:30 But to Solomon, he shall have two tribes for the sake of My servant David and for the sake of Jerusalem, the city I chose out of all the tribes of Israel.
@@ -555,7 +555,7 @@ has_additions: false
 1KI.11:33 But I will take the kingdom out of the hand of his son and give the ten tribes to you.
 1KI.11:34 And to the son of Solomon himself I will pass on these same two tribes, establishing a place for My servant David to be before Me all the days of Jerusalem, the city I chose for Myself as the place to put My name.
 1KI.11:35 So I will receive you, and you shall reign over everything your heart desires. You shall be king over Israel.
-1KI.11:36 It shall be, if you hear and do everything I command you, and walk in My ways, and do what is right before Me, to keep My statutes and My commandments as My servant David did, then I shall be with you, and build you a house that shall endure, as I did for David.' '
+1KI.11:36 It shall be, if you hear and do everything I command you, and walk in My ways, and do what is right before Me, to keep My statutes and My commandments as My servant David did, then I shall be with you, and build you a house that shall endure, as I did for David.'
 1KI.11:37 Thereafter Solomon sought to kill Jeroboam, but Jeroboam arose and fled into Egypt, to Shishak king of Egypt. He remained there in Egypt until Solomon died.
 1KI.11:38 Now the rest of the words of Solomon, all that he did and all his wisdom, are they not written in the Book of the Wisdom of Solomon?
 
@@ -591,7 +591,7 @@ has_additions: false
 1KI.12:16 When Rehoboam came to Jerusalem, he assembled all the house of Judah and the tribe of Benjamin. He had one hundred twenty thousand chosen men as warriors to fight against the house of Israel, that he might restore the kingdom to Rehoboam the son of Solomon.
 1KI.12:17 But the word of God came to Shemaiah the man of God, saying,
 1KI.12:18 'Speak to Rehoboam the son of Solomon, king of Judah, to all the house of Judah and Benjamin, and to the remnant of the people, saying,
-1KI.12:19 'Thus says the Lord, 'You shall not go up, nor shall you fight against your brethren the sons of Israel. Instead return, each of you, to his house, because this word is from Me.' Hear the word of the Lord.' ' So according to the word of the Lord, they ended the march.
+1KI.12:19 'Thus says the Lord, 'You shall not go up, nor shall you fight against your brethren the sons of Israel. Instead return, each of you, to his house, because this word is from Me.' Hear the word of the Lord.' So according to the word of the Lord, they ended the march.
 
 ### Jeroboam Is the King of Israel
 
@@ -605,10 +605,10 @@ has_additions: false
 
 1KI.12:25 Then Jeroboam said to Shishak, 'Please send me away, and I shall leave.' Thus Jeroboam went out from Egypt and into the land of Zereda, which is in Mount Ephraim. It is here the whole tribe of Ephraim gathers together, and where Jeroboam built a fortress.
 1KI.12:26 Jeroboam's son became seriously ill, so Jeroboam went to inquire concerning his son, and he said to Anna, his wife, 'Arise, and go ask God concerning the child, whether he shall recover from this illness.'
-1KI.12:27 Now there was in Shiloh a man whose name was Ahijah. He was sixty years old, and the word of the Lord was with him. So Jeroboam said to his wife, 'Arise, and take bread in your hand for this man of God and cakes for his children, and grapes and ajar of honey.'
-1KI.12:28 The woman arose and took in her hand bread, two cakes, grapes, and ajar of honey for Ahijah. The man was elderly, and his eyesight was fading.
+1KI.12:27 Now there was in Shiloh a man whose name was Ahijah. He was sixty years old, and the word of the Lord was with him. So Jeroboam said to his wife, 'Arise, and take bread in your hand for this man of God and cakes for his children, and grapes and a jar of honey.'
+1KI.12:28 The woman arose and took in her hand bread, two cakes, grapes, and a jar of honey for Ahijah. The man was elderly, and his eyesight was fading.
 1KI.12:29 She arose from Zereda and traveled to the city where Ahijah the Shilonite dwelt. Ahijah said to his young son, 'Go out at once to meet Anna, the wife of Jeroboam, and say to her, 'Come in and take a seat, for thus says the Lord, 'I Myself am sending harsh things on you.' ' '
-1KI.12:30 So Anna came in to the man of God, and Ahijah said to her, 'Why did you bring me bread and grapes and cakes and ajar of honey? Thus says the Lord, 'Behold, you shall depart from Me, and when you enter the gate into the city of Zereda and your maidens come out to greet you, even they shall say to you, 'The child is dead.' '
+1KI.12:30 So Anna came in to the man of God, and Ahijah said to her, 'Why did you bring me bread and grapes and cakes and a jar of honey? Thus says the Lord, 'Behold, you shall depart from Me, and when you enter the gate into the city of Zereda and your maidens come out to greet you, even they shall say to you, 'The child is dead.' '
 1KI.12:31 For Thus says the Lord: 'Behold, I shall put to death those of Jeroboam, and those of Jeroboam who die in the city of Jerusalem will be eaten by dogs, while the birds of the sky will consume those who die in the field. They will mourn the young child, saying, 'Woe to me, O Lord! For you perceived in him a good word concerning the Lord.' ' '
 1KI.12:32 Then the woman departed as one who heard and understood. It came to be as she entered Zereda, the child died, and the mourners went out to meet her.
 1KI.12:33 Then Jeroboam went to Shechem at Mount Ephraim, and there they gathered the tribes of Israel. Even Rehoboam the son of Solomon went up there, and the word of the Lord came to Shemaiah the son of Elami, saying, 'Take for yourself a new garment, one which has not entered into water, and tear it into twelve pieces; then give it to Jeroboam and say to him, 'Thus says the Lord, 'Take for yourself ten pieces to clothe yourself,' ' ' and Jeroboam took them. Shemaiah then said, 'Thus says the Lord to the ten tribes of Israel.'
@@ -748,7 +748,7 @@ has_additions: false
 1KI.16:6 Zimri, commander of half his chariots, conspired against him, and he was in Tirzah drinking himself drunk in the house of Arza, steward of his house in Tirzah.
 1KI.16:7 Then Zimri went in, struck and killed him. He then reigned in his place.
 1KI.16:8 When he began to reign, as soon as he was seated on his throne, he killed all the household of Baasha,
-1KI.16:9 According to the word the Lord spoke against Baasha by Jehu the prophet, 13 for all the sins of Baasha and the sins of Elah his son which they caused Israel to commit, and provoked the Lord God of Israel to anger with their follies.
+1KI.16:9 According to the word the Lord spoke against Baasha by Jehu the prophet, for all the sins of Baasha and the sins of Elah his son which they caused Israel to commit, and provoked the Lord God of Israel to anger with their follies.
 1KI.16:10 Now the rest of the words of Elah and everything he did, are they not written in the Book of the Chronicles of the kings of Israel?
 1KI.16:11 Zimri reigned in Tirzah for seven days, and Israel was encamped against Gibbethon, which belonged to the Philistines.
 1KI.16:12 Now the people encamped heard it said, 'Zimri conspired and killed the king.' So that day in the camp all Israel made Omri, the commander of the army, king over Israel.
@@ -811,7 +811,7 @@ has_additions: false
 
 ### Elijah Helps a Widow
 
-1KI.17:8 But the woman said, 'As the Lord your God lives, I do not have any bread, only a handful of flour in a bin, and a little oil in ajar. You see I am gathering a couple of sticks, so I can go in and prepare it for myself and my son, that we may eat it and die.'
+1KI.17:8 But the woman said, 'As the Lord your God lives, I do not have any bread, only a handful of flour in a bin, and a little oil in a jar. You see I am gathering a couple of sticks, so I can go in and prepare it for myself and my son, that we may eat it and die.'
 1KI.17:9 But Elijah said to her, 'Take courage, and do as you say, but make me a small cake from it first and bring it to me. Afterward make some for yourself and your son.
 1KI.17:10 For thus says the Lord, 'The bin of flour shall not be used up, and the jar of oil shall not run dry, until the day the Lord sends rain on the earth.' '
 1KI.17:11 So the woman went and did it. Thus she and he and her children ate for many days.
@@ -857,7 +857,7 @@ has_additions: false
 1KI.18:20 Then you will call loudly on the name of your gods, and I will call on the name of the Lord, my God. So it shall come to pass that the God who answers by fire, He is God.' So all the people answered and said, 'The word you have spoken is good.'
 1KI.18:21 Then Elijah said to the prophets of shame, 'Choose one calf for yourselves and prepare it, for there are many of you. Then call on the name of your god, but do not put fire to the wood under it.'
 1KI.18:22 So they took a calf and prepared it, and called on the name of Baal from morning until noon, saying, 'Hear us, O Baal, hear us.' But there was no voice, for no one answered, and they ran about the altar they had made.
-1KI.18:23 Then it came to pass at noon that Elijah the Tishbite mocked them and said, 'Cry out with aloud voice, for he is a god; for either he is away meditating, or he is too busy, or preoccupied with other business. Perhaps he is sleeping and has need to be awakened from his nap.'
+1KI.18:23 Then it came to pass at noon that Elijah the Tishbite mocked them and said, 'Cry out with a loud voice, for he is a god; for either he is away meditating, or he is too busy, or preoccupied with other business. Perhaps he is sleeping and has need to be awakened from his nap.'
 1KI.18:24 So they cried aloud and cut themselves with knives and lances, as is their custom, until blood gushes forth.
 1KI.18:25 They prophesied until early evening, until the appointed time to offer the evening sacrifice. But even still, there was no voice. Finally, Elijah the Tishbite spoke to the prophets of the idols, saying, 'Now remove yourselves from this place, for I will offer my whole burnt offering.' And they turned away and departed.
 1KI.18:26 Then Elijah said to the people, 'Come near me.' So all the people came near to him.
@@ -889,7 +889,7 @@ has_additions: false
 ### Elijah Flees from Jezebel
 
 1KI.19:1 Then he lay down and slept under a tree.
-1KI.19:2 Unexpectedly, someone touched him and said to him, 'Arise and eat.' Then Elijah looked, and there by his head was a cake made of wheat and ajar of water. So he ate and drank, and lay down again.
+1KI.19:2 Unexpectedly, someone touched him and said to him, 'Arise and eat.' Then Elijah looked, and there by his head was a cake made of wheat and a jar of water. So he ate and drank, and lay down again.
 1KI.19:3 Again the angel of the Lord came back a second time, touched him, and said, 'Arise and eat, because the journey is a great many days for you.'
 1KI.19:4 So he arose, ate and drank; and he went with the strength of that food forty days and forty nights, as far as Mount Horeb.
 1KI.19:5 There he went into a cave and rested.
@@ -951,7 +951,7 @@ has_additions: false
 1KI.20:24 Concerning Ahab, the word of the Lord came by the hand of His servant Elijah the Tishbite. The Lord said,
 1KI.20:25 'Did you see how Ahab humbled himself before Me? I will not bring the evil in his days. But in the days of his son, I will bring evil upon his house.'
 1KI.20:26 Now the son of Hadad the king of Syria gathered all his forces, and went up and besieged Samaria, and made war against it. He had thirty-two kings with him, with horses and chariots.
-1KI.20:27 Then he sent notice to Ahab king of Israel in the city 3 and said to him, 'Thus says the son of Hadad, 'Your silver and your gold are mine; your wives and your children are mine.' '
+1KI.20:27 Then he sent notice to Ahab king of Israel in the city and said to him, 'Thus says the son of Hadad, 'Your silver and your gold are mine; your wives and your children are mine.' '
 1KI.20:28 The king of Israel answered and said, 'O lord and king, I am yours, and everything I have.'
 1KI.20:29 Then the messengers came back and said, 'Thus says the son of Hadad, 'Indeed I sent notice to you, saying, 'You shall deliver to me your silver and gold, your wives and children,'
 

@@ -21,7 +21,7 @@ MIC.1:1 The word of the Lord came to Micah of Moresheth in the days of Jotham, a
 MIC.1:2 Hear these words, O people! Give heed, O earth, and all that is in it. For the Lord God shall be among you for a witness against you, the Lord from His holy house.
 MIC.1:3 For behold, the Lord is coming out of His place. He will come down and tread upon the high places of the earth.
 MIC.1:4 The mountains will shake under Him, and the valleys will melt like wax before the fire, like water pouring down a steep incline.
-MIC.1:5 All of this is for the transgression of Jacob and the sin of the house of Israel. What is the transgression of Jacob? Is it not Samaria? And what is the sin of the house of Judah? Is it not Jerusalem?
+MIC.1:5 All of this is for the TRANSGRESSION of Jacob and the sin of the house of Israel. What is the TRANSGRESSION of Jacob? Is it not Samaria? And what is the sin of the house of Judah? Is it not Jerusalem?
 MIC.1:6 'I will make Samaria become as ashed in the field and a vineyard for planting, and I will tear down her stones in confusion and expose her foundations.
 
 ### A Lamentation
@@ -103,7 +103,7 @@ MIC.5:2 Therefore He shall give them up until the appointed time for her to give
 MIC.5:3 And He shall stand and see, and shepherd His flock in the strength of the Lord, and they will dwell in the glory of the name of the Lord their God, for now they will be magnified unto the ends of the earth.
 MIC.5:4 And she will have peace; for when the Assyrian comes into our land and goes up upon our country, then seven shepherds and eight attacks from men will be raised up against them.
 MIC.5:5 They will tend the Assyrian with a sword and the land of Nimrod in her trench. And He shall deliver you from the Assyrian should he come into your land, and should he come up over your borders.
-MIC.5:6 And the remnant of Jacob will be among the nations, in the midst of many peoples, as dew falling from the Lord and as lambs in afield of grass, in order that none among the sons of men may assemble together nor resist.
+MIC.5:6 And the remnant of Jacob will be among the nations, in the midst of many peoples, as dew falling from the Lord and as lambs in a field of grass, in order that none among the sons of men may assemble together nor resist.
 MIC.5:7 And the remnant of Jacob will be among the nations, in the midst of many peoples, as a lion among the cattle in the forest, and as a young lion among a flock of sheep, which, whenever it passes through, seizes and carries off its prey, and there is none to rescue.
 MIC.5:8 But your hand will be exalted above those oppressing you, and all your enemies will be completely cut off.
 MIC.5:9 'And it shall come to pass in that day,' says the Lord, 'I shall utterly destroy your horses from your midst and destroy your chariots.
@@ -125,7 +125,7 @@ MIC.6:5 O My people, remember now what King Balak of Moab plotted against you, a
 MIC.6:6 How shall I come to understand the Lord and devote myself to the Most High God? Shall I reach Him with burnt offerings? with year-old calves?
 MIC.6:7 Will the Lord be pleased with thousands of rams? or with a myriad of streams of oil? Should I give my firstborn for my ungodliness, the fruit of my body for the sin of my soul?
 MIC.6:8 He has shown you, O man, what is good. Or what does the Lord seek from you but to do justly, and to love mercy, and to be ready to walk with the Lord your God?
-MIC.6:9 The Lord'svoice shall be proclaimed in the city, and He shall save those who fear His name. 'Hear, O tribe, who will put the city in order?
+MIC.6:9 The Lord's voice shall be proclaimed in the city, and He shall save those who fear His name. 'Hear, O tribe, who will put the city in order?
 MIC.6:10 For is there not a fire there, and the house of the lawless storing up lawless treasures with insolent unrighteousness?
 MIC.6:11 Will the lawless be justified by a balance scale or a bag of deceitful weights
 MIC.6:12 from which they accumulated their ungodly wealth? And those that dwell in the city have spoken lies and exalted themselves with their own mouth.
@@ -146,7 +146,7 @@ MIC.7:5 Do not trust in friends, nor put your hope in those who govern. Beware o
 
 ### Hope in the Lord
 
-MIC.7:6 For a son dishonors his father, a daughter will rise up against her mother, a daughter-in-law against her mother-in-law; a man'senemies are all the people of his own house.'
+MIC.7:6 For a son dishonors his father, a daughter will rise up against her mother, a daughter-in-law against her mother-in-law; a man's enemies are all the people of his own house.'
 MIC.7:7 But I will look to the Lord. I will wait for God my Savior, for my God will hear me.
 MIC.7:8 Do not rejoice over me, O my enemy, for though I have fallen, yet will I arise, because even if I should sit in darkness, the Lord will be a light to me.
 MIC.7:9 I will endure the wrath of the Lord, for I sinned against Him, until He pleads my cause; for He will execute my judgment and will bring me out into the light, and I will perceive His righteousness.

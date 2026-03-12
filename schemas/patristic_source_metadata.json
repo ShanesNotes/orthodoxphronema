@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Patristic Source Metadata",
+  "description": "Metadata for a patristic source document used in backlink entries.",
+  "type": "object",
+  "required": ["source_id", "author", "work", "tradition"],
+  "properties": {
+    "source_id": { "type": "string", "description": "Unique identifier (e.g. chrysostom_psalms)" },
+    "author": { "type": "string", "description": "Church Father name" },
+    "work": { "type": "string", "description": "Work title" },
+    "tradition": { "type": "string", "enum": ["eastern", "western", "syriac", "coptic"] },
+    "century": { "type": "integer", "description": "Approximate century (e.g. 4 for 4th century)" },
+    "language": { "type": "string", "description": "Original language (e.g. Greek, Latin, Syriac)" },
+    "edition": { "type": "string", "description": "Critical edition reference (e.g. PG volume)" },
+    "notes": { "type": "string" }
+  }
+}

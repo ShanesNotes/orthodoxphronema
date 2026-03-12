@@ -34,19 +34,23 @@ JUD.1:8 Likewise also these dreamers defile the flesh, reject authority, and spe
 JUD.1:9 Yet Michael the archangel, in contending with the devil, when he disputed about the body of Moses, dared not bring against him areviling accusation, but said, 'The Lord rebuke you!'
 JUD.1:10 But these speak evil of whatever they do not know; and whatever they know naturally, like brute beasts, in these things they corrupt themselves.
 JUD.1:11 Woe to them! For they have gone in the way of Cain, have run greedily in the error of Balaam for profit, and perished in the rebellion of Korah.
-JUD.1:12 These are spots in your love feasts, while they feast with you without fear, serving only themselves. They are clouds without water, carried about aby the winds; late autumn trees without fruit, twice dead, pulled up by the roots; 13 raging waves of the sea, foaming up their own shame; wandering stars for whom is reserved the blackness of darkness forever.
+JUD.1:12 These are spots in your love feasts, while they feast with you without fear, serving only themselves. They are clouds without water, carried about aby the winds; late autumn trees without fruit, twice dead, pulled up by the roots;
+JUD.1:13 raging waves of the sea, foaming up their own shame; wandering stars for whom is reserved the blackness of darkness forever.
 JUD.1:14 Now Enoch, the seventh from Adam, prophesied about these men also, saying, 'Behold, the Lord comes with ten thousands of His saints,
 
 ### Resistance to False Teachers
 
 JUD.1:15 to execute judgment on all, to convict all who are ungodly among them of all their ungodly deeds which they have committed in an ungodly way, and of all the harsh things which ungodly sinners have spoken against Him.'
 JUD.1:16 These are grumblers, complainers, walking according to their own lusts; and they mouth great swelling words, flattering people to gain advantage.
-JUD.1:17 But you, beloved, remember the words which were spoken before by the apostles of our Lord Jesus Christ: 18 how they told you that there would be mockers in the last time who would walk according to their own ungodly lusts.
+JUD.1:17 But you, beloved, remember the words which were spoken before by the apostles of our Lord Jesus Christ:
+JUD.1:18 how they told you that there would be mockers in the last time who would walk according to their own ungodly lusts.
 JUD.1:19 These are sensual persons, who cause divisions, not having the Spirit.
-JUD.1:20 But you, beloved, building yourselves up on your most holy faith, praying in the Holy Spirit, 21 keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
+JUD.1:20 But you, beloved, building yourselves up on your most holy faith, praying in the Holy Spirit,
+JUD.1:21 keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
 
 ### Doxology
 
-JUD.1:22 And on some have compassion, making adistinction; a 23 but others save with fear, pulling them out of the fire, ahating even the garment defiled by the flesh.
+JUD.1:22 And on some have compassion, making adistinction; a
+JUD.1:23 but others save with fear, pulling them out of the fire, ahating even the garment defiled by the flesh.
 JUD.1:24 Now to Him who is able to keep you afrom stumbling, And to present you faultless Before the presence of His glory with exceeding joy,
 JUD.1:25 To God our Sav ior, a Who alone is wise, b Be glory and majesty, Dominion and power, c Both now and forever. Amen.

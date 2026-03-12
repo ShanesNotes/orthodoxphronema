@@ -37,8 +37,10 @@ has_additions: false
 
 ### Greeting
 
-2TH.2:1 ow, brethren, concerning the coming of our Lord Jesus Christ and our gathering together to Him, we ask you, 2 not to be soon shaken in mind or troubled, either by spirit or by word or by letter, as if from us, as though the day of Christ ahad come.
-2TH.2:3 Let no one deceive you by any means; for that Day will not come unless the falling away comes first, and the man of sin ais revealed, the son of perdition, 4 who opposes and exalts himself above all that is called God or that is worshiped, so that he sits as God ain the temple of God, showing himself that he is God.
+2TH.2:1 ow, brethren, concerning the coming of our Lord Jesus Christ and our gathering together to Him, we ask you,
+2TH.2:2 not to be soon shaken in mind or troubled, either by spirit or by word or by letter, as if from us, as though the day of Christ ahad come.
+2TH.2:3 Let no one deceive you by any means; for that Day will not come unless the falling away comes first, and the man of sin ais revealed, the son of perdition,
+2TH.2:4 who opposes and exalts himself above all that is called God or that is worshiped, so that he sits as God ain the temple of God, showing himself that he is God.
 2TH.2:5 Do you not remember that when I was still with you I told you these things?
 2TH.2:6 And now you know what is restraining, that he may be revealed in his own time.
 2TH.2:7 For the mystery of lawlessness is already at work; only He awho now restrains will do so until He bis taken out of the way.
@@ -56,7 +58,8 @@ has_additions: false
 
 ### Pray for Us
 
-2TH.2:16 Now may our Lord Jesus Christ Himself, and our God and Father, who has loved us and given us everlasting consolation and good hope by grace, 17 comfort your hearts and establish you in every good word and work.
+2TH.2:16 Now may our Lord Jesus Christ Himself, and our God and Father, who has loved us and given us everlasting consolation and good hope by grace,
+2TH.2:17 comfort your hearts and establish you in every good word and work.
 ## Chapter 3
 
 2TH.3:1 inally, brethren, pray for us, that the word of the Lord may run swiftly and be glorified, just as it is with you,
@@ -69,7 +72,8 @@ has_additions: false
 2TH.3:5 Now may the Lord direct your hearts into the love of God and into the patience of Christ.
 2TH.3:6 But we command you, brethren, in the name of our Lord Jesus Christ, that you withdraw from every brother who walks disorderly and not according to the tradition which he areceived from us.
 2TH.3:7 For you yourselves know how you ought to follow us, for we were not disorderly among you;
-2TH.3:8 nor did we eat anyone's bread free of charge, but worked with labor and toil night and day, that we might not be aburden to any of you, 9 not because we do not have authority, but to make ourselves an example of how you should follow us.
+2TH.3:8 nor did we eat anyone's bread free of charge, but worked with labor and toil night and day, that we might not be aburden to any of you,
+2TH.3:9 not because we do not have authority, but to make ourselves an example of how you should follow us.
 2TH.3:10 For even when we were with you, we commanded you this: If anyone will not work, neither shall he eat.
 2TH.3:11 For we hear that there are some who walk among you in adisorderly manner, not working at all, but are busybodies.
 

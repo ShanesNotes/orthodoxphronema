@@ -43,8 +43,8 @@ LAM.1:22 'So let all their evil come before Your face, And do to them as they di
 LAM.2:1 'How did the Lord darken The daughter of Zion in His wrath? He cast down the glory of Israel From heaven to earth, And did not remember His footstool In the day of His wrath.
 LAM.2:2 'The Lord has swallowed up and not spared All the beauty of Jacob. In His anger, He brought down the strongholds Of the daughter of Judah. He brought them down to the ground; He desecrated her king and its princes.
 LAM.2:3 'In fierce anger, He broke off every horn of Israel And drew back His right hand From the face of the enemy. He blazed against Jacob like a flaming fire, And it devoured every thing all around.
-LAM.2:4 'He bent His bow like an enemy And strengthened His right hand like an adv ersary. He put to death all the objects of my desire, And poured out His anger like a fire On the tabernacle of the daughter of Zion.
-LAM.2:5 'The Lord became like an enemy And swallowed up Israel. He brought down all his palaces, Destroy ed his strongholds, And multiplied shame and humiliation In the daughter of Judah.
+LAM.2:4 'He bent His bow like an enemy And strengthened His right hand like an adversary. He put to death all the objects of my desire, And poured out His anger like a fire On the tabernacle of the daughter of Zion.
+LAM.2:5 'The Lord became like an enemy And swallowed up Israel. He brought down all his palaces, Destroyed his strongholds, And multiplied shame and humiliation In the daughter of Judah.
 LAM.2:6 'He opened and spread out His tabernacle like a vine And destroyed His feast. The Lord forgot His festivals and the Sabbath Which He appointed in Zion, And in the fury of His wrath He provoked king, priest, and prince.
 LAM.2:7 'The Lord rejected His altar And abandoned His sanctuary. By the hand of the enemy, He broke in pieces the wall of her palaces. They uttered their voice in the house of the Lord As on a feast day.
 LAM.2:8 'The Lord turned to destroy The wall of the daughter of Zion. He stretched out a measuring line And has not turned back His hand from trampling her. Therefore the bulwark mourned, And the wall weakened with it.
@@ -60,7 +60,7 @@ LAM.2:17 They say, 'We have swallowed her up! Besides, this is the day we have l
 LAM.2:18 Their heart cried out to the Lord, 'O wall of Zion, Pour down tears like torrents, day and night; Give yourself no relief; May your eyes have no rest, O daughter.
 LAM.2:19 'Arise, rejoice in the night, At the beginning of your watch. Pour out your heart like water Before the face of the Lord, And lift your hands up to Him For the life of your infants, Who grow weak in hunger On the corner of every street.'
 LAM.2:20 'Behold, O Lord, and look For whom You have gathered thus. Shall the women eat the fruit of their womb? The cook has made a gleaning; Shall the infants who nurse the breasts be put to death? Will you kill priest and prophet In the sanctuary of the Lord?
-LAM.2:21 'The child and the old man Sleep in the street. My virgins and my young men Have gone into captivity. You killed them with sword and famine In the day of Your wrath; You ou massacred and have not spared.
+LAM.2:21 'The child and the old man Sleep in the street. My virgins and my young men Have gone into captivity. You killed them with sword and famine In the day of Your wrath; You massacred and have not spared.
 LAM.2:22 'He called my sojourner round about me to a feast day. There was no one who escaped, or were left In the day of the Lord's wrath, As I strengthened and multiplied All my enemies.'
 ## Chapter 3
 
@@ -110,7 +110,7 @@ LAM.3:43 'Fear and anger have come upon us, Yes, devastation and destruction.
 LAM.3:44 My eyes will shed tears for forgiveness Because of the destruction of the daughter of my people.
 LAM.3:45 My eyes are drowned with tears, And I will not keep silent; So there shall be no rest,
 LAM.3:46 'Until the Lord bends down And sees from heaven.
-LAM.3:47 My eyes will bring suffering in my soul Because ecause of all the daughters of the city.
+LAM.3:47 My eyes will bring suffering in my soul Because of all the daughters of the city.
 LAM.3:48 My enemies hunted me down Without cause, like a sparrow.
 LAM.3:49 'They put my life to death in the pit And threw a stone at me.
 LAM.3:50 Water flowed over my head; I said, 'I am rejected.'
@@ -132,7 +132,7 @@ LAM.3:62 You shall pursue them in Your wrath and utterly destroy them From under
 LAM.4:1 'How will gold lose its brightness And fine silver become tarnished? The stones of the sanctuary are scattered At the head of every street.
 
 LAM.4:2 'The honored sons of Zion, Valuable as gold, How are they now regarded as clay pots, The works of a potter's hands?
-LAM.4:3 'Ev en the serpents uncover their breasts To nurse their young; But the daughters of my people are cruel, Like an ostrich in the desert.
+LAM.4:3 'Even the serpents uncover their breasts To nurse their young; But the daughters of my people are cruel, Like an ostrich in the desert.
 LAM.4:4 'The tongue of the nursing child cleaves To the roof of its mouth for thirst. The young children beg for bread, But no one breaks it for them.
 LAM.4:5 'Those who ate delicacies Perish in the streets; Those brought up on the best food Are clothed with dung.
 LAM.4:6 'The lawlessness of the daughter of My people Is greater than the lawlessness of Sodom, Which was overthrown in a moment, And there was no one to help her.
@@ -147,7 +147,7 @@ LAM.4:14 'Her watchmen wandered in the streets. They were defiled with blood in 
 LAM.4:15 'Depart from the unclean. Call to them, 'Depart! Depart! Do not touch us!' For they are set on fire and indeed wander. Say among the Gentiles, 'Let them not live here.'
 LAM.4:16 'Their portion shall not continue To enjoy the Lord's presence, When He looked upon them with favor. For they did not respect the person of the priests, Nor did they show mercy to the elders.
 LAM.4:17 'While we yet lived, Our eyes failed us As we looked in vain for help. We kept watching intently For a nation that could not save us.
-LAM.4:18 'We hunted for our little ones So they would not walk in our streets. Our appointed time is near, Our days are fulfilled; Our ur time is come.
+LAM.4:18 'We hunted for our little ones So they would not walk in our streets. Our appointed time is near, Our days are fulfilled; Our time is come.
 LAM.4:19 'Our pursuers were swifter Than the eagles of the sky. They perched on the mountains And lay in wait for us in the desert.
 LAM.4:20 'The breath of our nostrils, the Anointed of the Lord, Was seized in their corruption, Of whom we said, 'Under His shadow We shall live among the nations.'
 LAM.4:21 'Rejoice and be glad, O daughter of Edom, Who dwell in the land. For indeed the cup of the Lord shall pass through to you, And you shall become drunk and be poured out.

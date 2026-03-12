@@ -1,9 +1,9 @@
 {
   "book_code": "JUD",
   "testament": "NT",
-  "timestamp": "2026-03-11T05:55:45.875953",
+  "timestamp": "2026-03-11T16:39:43.347784",
   "registry_version": "1.3.0",
-  "body_checksum": "b44696b6652c965ea03669b9957cd1360f0664883065bd4bed82750d846f029a",
+  "body_checksum": "09f739385e585028fed3030eb37c2b0736df1ce92bd283eab45589d793699995",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -20,8 +20,6 @@
     "V4": {
       "status": "WARN",
       "messages": [
-        "V4   Missing verses in ch.1: jumps from 12 to 14",
-        "V4   Missing verses in ch.1: jumps from 17 to 19",
         "V4   Missing verses in ch.1: jumps from 20 to 22",
         "V4   Missing verses in ch.1: jumps from 22 to 24"
       ]
@@ -37,7 +35,7 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 21/25 verses (84.0%); gap of 4"
+        "V7   Completeness: 23/25 verses (92.0%); gap of 2"
       ]
     },
     "V8": {
@@ -47,13 +45,8 @@
       ]
     },
     "V9": {
-      "status": "FAIL",
-      "messages": [
-        "V9   Embedded verse JUD.1:13 found inside JUD.1:12 at line 37",
-        "V9   Embedded verse JUD.1:18 found inside JUD.1:17 at line 44",
-        "V9   Embedded verse JUD.1:21 found inside JUD.1:20 at line 46",
-        "V9   Embedded verse JUD.1:23 found inside JUD.1:22 at line 50"
-      ]
+      "status": "PASS",
+      "messages": []
     }
   },
   "residuals_sidecar": null,

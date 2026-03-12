@@ -1,6 +1,6 @@
 # Ezra Ops Board
 
-Last updated: `2026-03-10`  
+Last updated: `2026-03-11`  
 Live state source: `reports/book_status_dashboard.json`
 
 ## Working Agreements
@@ -12,85 +12,103 @@ Live state source: `reports/book_status_dashboard.json`
 - Ezra operates as strategic lead: route first, code second, and absorb at most one high-leverage engineering lane when direct action is safer or faster than delegation.
 
 ## Current Snapshot
-- Promoted: `2`
-- Promotion ready: `16`
-- Structurally passable: `12`
-- Editorially clean but still blocked: `17`
-- Extracting / not ready: `29`
-- Dashboard remains the machine-readable book-state surface; long-horizon standards and cross-agent awareness live here.
-- Queue drift is currently visible for `1ES`, `1KI`, and `JOS`; daily routing must read memos and dossiers, not dashboard status alone.
+- Promoted: `49`
+- OT holdouts: `0`
+- Editorially clean OT holdouts: `0`
+- Promotion-ready books: `6`
+- Extracting books: `15`
+- NT extraction has landed: `27` NT books are staged per `memos/77_nt_extraction_results.md`
+- Promoted dossiers are now fresh again after the canon verification pass.
+- OT canon lock audit now has `0` structural errors and `18` warning-bearing books in `reports/canon_ot_structural_audit.json`.
+- The only remaining non-`V7` OT canon warning is `EST` (`V4`/`V10` around `EST.4:6`).
+- Canon-wide note markers (`†`, `ω`) have been removed from OT canon.
+- OT promotion is complete; route OT lock work from `reports/canon_ot_structural_audit.json` plus Memos `84`, `89`, and `91`, not from the older holdout packet chain.
 
 ## Today’s Dispatch
 | lane | owner | status | artifact | blocker | next_action | done_when |
 |---|---|---|---|---|---|---|
-| Strategic routing / throughput lead | Ezra | active | `memos/59_ezra_strategic_leadership_role_ratification.md` | leadership value disappears if Ezra gets buried in too many direct edits | Keep queue control, contradiction detection, release routing, and one-lane engineering triage explicit in every session | The team has one clear strategic router without role confusion or management overhead |
-| JOS structural reset | Ark | active | `memos/56_batch_a_footnote_audit_and_jos_structural_warning.md` | dashboard and dossier are structurally passable, but Memo 56 documents chapter-20 absorption and marker/index desync | Re-partition `JOS` against OSB chapter truth, then refresh affected marker and dossier artifacts | `JOS` no longer depends on a semantically broken Chapter 20 container |
-| 1KI structural reset | Ark | queued | `memos/54_footnote_alignment_report_1es_1ki.md` | Memo 54 documents chapter drift across 10-15 and stale marker state | Queue behind `JOS`, unless Ark finds the shared defect is easier to repair first in `1KI` | `1KI` chapter boundaries and marker artifacts align to OSB structure |
-| RUT + 1ES release packet | Ezra | active | `memos/57_daily_plan_reset_structural_holds_and_promotion_harvest.md` | `1ES` has checksum drift between staged text and dossier; `RUT` is clean but not yet packaged | Mark `RUT` as same-day promote candidate; mark `1ES` as dossier-refresh candidate and package them together once aligned | One bounded packet lands with exact `promote` or `refresh_then_promote` asks |
-| Minor Prophets promotion harvest | Ezra | active | `memos/48_minor_prophets_complete_and_session_status.md` | the ready pool is large enough to sprawl unless packetized | Split `AMO`, `MIC`, `OBA`, `JON`, `NAH`, `ZEP`, `HAG`, `ZEC`, and `MAL` into small promotion packets; route `JOL`, `HAB`, and `HOS` separately | Minor Prophets have explicit packet owners instead of one undifferentiated ready pile |
-| OT purity pass tooling | Ark + Ezra | implemented | `memos/62_ot_purity_pass_and_editorial_queue_integration.md` | chapter-opening truncation and split-word residue were systemic but under-surfaced | Keep `purity_audit.py` as the non-mutating sweep entrypoint and the editorial sidecar as the single queue | The team has one purity audit surface instead of ad hoc notes and one-off scripts |
-| OT purity sweep on structurally sound books | Photius | active | `memos/62_ot_purity_pass_and_editorial_queue_integration.md` | major/prophetic chapter-open losses and conjoined words remain live in staged text | Run `purity_audit.py`, merge findings into `BOOK_editorial_candidates.json`, verify against OSB PDF where needed, and leave completion-handshake memos | Promotion-ready and editorially clean books have refreshed purity queues instead of hidden chapter-open defects |
-| Human-review queue reduction | Ezra | implemented | `memos/63_human_review_queue_reduction_via_pdf_verification.md` | stale or over-broad drop-cap review debt was obscuring the true manual queue | Keep targeting the books with the largest remaining `ambiguous_human` drop-cap counts; do not spend Human time on `EXO` or `DAN` chapter-open review anymore | Human review is reserved for truly unresolved PDF ambiguities |
-| Human-review queue reduction batch 2 | Ezra | implemented | `memos/64_second_human_review_queue_reduction_batch.md` | several historical books still looked blocked on chapter-open review even though staged text was already clean | Treat `2CH`, `1SA`, `1CH`, `2KI`, `JDG`, `2SA`, and `JOS` as cleared for chapter-open review; keep only `AMO` in the active ambiguity lane | The manual queue is small, explicit, and no longer dominated by stale sidecars |
-| Footnote alignment on structurally sound books | Photius | active | `memos/50_photius_nonscripture_extraction_audit.md` | structural holds can waste cleanup effort if treated as normal alignment work | Continue on sound books such as `EXO` and ready historical books; switch `JOS` and `1KI` to evidence-only support until Ark resets structure | Footnote work keeps improving promotion candidates instead of accumulating on broken substrates |
-| Memo 54 refactor baseline | Ark + Ezra | implemented | `memos/55_memo54_audit_and_structured_validation_followthrough.md` | none | Keep `ValidationResult` and `pipeline/common/pdf_source.py` as the shared baseline; do not reopen broad refactor work unless a structural reset exposes a real core defect | Source-proof and typed validation stay the default path |
-| Human ratification Packet A | Ezra -> Human | active | `memos/51_historical_residual_ratification_packet_a.md` | awaiting human decision | Keep `JDG`, `1SA`, and `2SA` isolated from today’s release packet so Human is not overloaded | Human sees no more than 3 open ratification asks at once |
-| Non-scripture contract review | Ark | queued | `memos/53_footnote_workflow_and_link_standards_ratification.md` | legacy `_notes.md` assumptions still exist in parser and discovery paths | Clear or phase legacy `_notes.md` assumptions after the structural reset lane is stable | Naming no longer carries hidden parser/discovery risk |
+| OT Packet A checkpoint | Ezra | done | `memos/81_ot_packet_a_promotion_and_ezk_cleanup_checkpoint.md` | none | Keep `PRO` and `SIR` out of the active holdout lane; they are promoted now | Packet A is reflected in canon, dossiers, dashboard, and memo surfaces |
+| `JOB` final residual lane | Ezra | done | `memos/84_ot_closeout_complete_and_canon_hygiene_handoff.md` | none | Keep `JOB` out of the active holdout lane; it is promoted now | `JOB` is reflected in canon, dossier, dashboard, and memo surfaces |
+| `PSA` normalization and promotion | Ezra | done | `memos/83_psa_promotion_and_job_narrowed_residual_checkpoint.md` | none | Keep `PSA` out of the active holdout lane; it is promoted now | `PSA` is reflected in canon, dossier, dashboard, and memo surfaces |
+| NT stabilization | Ark | active | `memos/77_nt_extraction_results.md` | Raw NT extraction landed with severe instability in books like `MAT`, `HEB`, and `EPH` | Prioritize `V1` dedup, `EPH` recovery, and chapter-count / chapter-zero fixes | NT extraction output is structurally trustworthy enough for cleanup lanes |
+| OT canon lock follow-through | Ezra -> Human | active | `memos/91_ot_canon_lock_ratification_packet.md` | Human decision required for the `17`-book `V7` packet and `EST` disposition | Review Memo 91 and ratify or reject the packet | OT can be called `locked` or held with one explicit residual blocker |
+| Historical residual Packet A | Ezra -> Human | active | `memos/51_historical_residual_ratification_packet_a.md` | Still awaiting human decision | Keep `JDG`, `1SA`, and `2SA` isolated from OT closeout packets | Human sees no more than 3 open ratification asks at once |
+| Promoted OT staged/canon resync | Ezra | queued | `memos/89_ot_canon_lock_checkpoint.md` | The canon-first lock pass proved several promoted OT staged files are not safe as a bulk re-promotion base | Defer until Memo 91 is decided, then triage which promoted OT books can be safely resynced to canon | Canon lock status and staged-source-of-truth status are no longer conflated |
+| Repo cleanup program | Ezra | active | `memos/85_long_horizon_repo_cleanup_program.md` | OT sprint left a large untracked helper/memo/variant tail | Triage the tail into `adopt`, `archive`, `consolidate`, and `delete_later` classes without destructive cleanup on the live branch | Long-horizon repo debt is explicit and no longer hidden in `git status` |
 
 ## Standards Track
-- Link syntax frozen: `[[GEN.1:1]]`
-- Backlink artifact contract reserved: `metadata/anchor_backlinks/GEN.1.1.json`
+- Link syntax frozen: `[[GEN.1:1]]` — applies everywhere outside `canon/` (ADJ-2 closed)
+- Backlink filename format frozen: hyphen escape `BOOK.CH-V.json` (ADJ-1 closed)
+- Backlink rollout: pre-sharded from day one — `liturgical/`, `patristic/`, `study/` (ADJ-3 closed)
+- Canon directory: `canon/{OT|NT}/BOOK.md` (ADJ-4 closed)
+- V11/V12: informational only, not promotion gates (ADJ-5 closed)
+- `canon_uri` format locked: `canon/{OT|NT}/BOOK.md#BOOK.CH:V`
+- Extraction policy codified: `pipeline/EXTRACTION_POLICY.md` — Docling primary, pdftotext recovery-only
 - Future non-canon frontmatter reuse: continue using plain anchor tokens in machine fields such as `canon_anchors_referenced`
-- First linked-text prototype deferred until first-promotion discipline remains stable
 - Generated dashboard remains book-state only; standards visibility lives on this ops board
 
 ## Cross-Agent Awareness
-- The historical non-scripture substrate split is real: `*_articles.md` and `*_footnotes.md` now exist, but anchor linkage is still hot.
-- Footnote mismatch work is adjacent to the release train, not a replacement for it.
-- `pdftotext` is now the preferred tool for notes / footnotes extraction and a sanctioned verifier for scripture edge cases.
-- `purity_audit.py` is now the default non-mutating entrypoint for chapter-open drop-cap and split-word sweeps; editorial findings still converge into `BOOK_editorial_candidates.json`.
-- Memo 55 finished the Memo 54 refactor at the two weakest seams: duplicate PDF verifier logic and string-parsed validation truth.
-- Ezra is now the strategic lead and may take one shared engineering lane when that is the highest-leverage unblocker.
-- `RUT` is the cleanest same-day promote candidate.
-- `DAN`, `EXO`, `1CH`, `2CH`, `2KI`, and `JOS` are now `promotion_ready` after queue reduction and dossier refresh.
-- `1SA`, `JDG`, and `2SA` are editorially clear; they remain held only by governance / residual policy.
-- `AMO` is now the only active chapter-open ambiguity lane from Ezra's review-reduction work, with `2` unresolved items remaining.
-- `1ES` is not blocked on content quality; it is blocked on stale dossier alignment after Photius’s marker recovery.
-- `JOS` and `1KI` are semantic structural holds even where the dashboard still reports structurally passable or editorially clean states.
-- Minor Prophets promotion-ready pool: `AMO`, `MIC`, `OBA`, `JON`, `NAH`, `ZEP`, `HAG`, `ZEC`, `MAL`.
-- Minor Prophets blocked pool: `JOL` and `HAB` remain `editorially_clean`; `HOS` remains `extracting` on `V8`.
-- Any cleanup tool affecting 5+ books still requires Ark review before corpus-wide use.
-- `_articles.md` / `_footnotes.md` naming is the working standard, but legacy `_notes.md` assumptions still exist in `pipeline/parse/osb_extract.py`, `pipeline/common/text.py`, `pipeline/tools/batch_validate.py`, and `pipeline/cleanup/refine_notes.py`.
+- Memo 72 supersedes Memo 71 for OT closeout routing.
+- `PRO` is no longer a text-recovery problem; it is a governance-closeout problem. The last easy formatting residue has been removed.
+- `SIR` was misclassified as light polish only. Chapter 1 had a leaked heading stream, and leaked Sirach headings also sat in chapters `4` and `6`.
+- `SIR` has now been repaired to source-backed heading placement using the full Sirach `pdftotext` span. Chapter 1 now carries only `### Wisdom Is from the Lord`, and relocated headings now sit at chapters `7`, `8`, `19`, `38`, `39`, `40`, and `44`.
+- `PRO` and `SIR` are now promoted.
+- `JOB` is promoted. The final live warning is `V7` overcount against the current registry, not a remaining verse-sequence failure.
+- `PSA` has been normalized, validated, and promoted by Ezra.
+- Dashboard + dossiers are authoritative for OT closeout; older packet memos are historical unless ratified into newer dispatch.
+- `pdftotext` remains the sanctioned scripture edge-case verifier; it closed the remaining `JOB` chapter-open gaps in this pass.
+- Canon lock pass results are now explicit:
+  - OT canon has `0` structural errors and `18` warning-bearing books
+  - `17` of those warning books are `V7`-only versification drift cases
+  - `EST` is the only remaining non-`V7` OT canon warning book
+  - Memo 91 now packages the full Human decision packet for both the `V7` drift set and the `EST` disposition
+  - canon-wide note markers have been removed from OT canon
+  - `1MA`, `2MA`, `HAB`, and `LJE` no longer carry `V8` heading-density warnings
+  - `JOB` no longer carries `V8` fragment-heading errors
+  - the spell audit remains advisory (`905` suspects) and is not yet a lock blocker without curated confirmation
+- Long-horizon repo cleanup truth:
+  - `48` untracked memo files are currently outside the indexed historical/governing set
+  - `17` untracked cleanup scripts exist, many of them one-book or one-lane specialists
+  - `5` staged variant scripture files (`*_photius.md`, `SIR_flash.md`) remain in the OT tree and should not survive as steady-state artifacts
+  - cleanup now needs explicit triage, not blind deletion
+- NT spot-audit findings:
+  - `2JN` validates cleanly and remains the current NT `promotion_ready` exemplar.
+  - `MAT` still has chapter-zero drift, chapter-count mismatch (`28` expected / `29` found), heavy `V3`, and embedded-verse failures.
+  - `HEB` still has duplicate anchors, embedded verses, and `44` missing verses.
+  - `EPH` remains the sharpest stabilization priority with chapter-zero drift, duplicate anchors, and a `50`-verse completeness gap.
+- Ark stays on NT stabilization by default; OT should only interrupt for parser/schema escalations or a ready promotion checkpoint.
 
 ## Blockers To Watch
-- `JOS` and `1KI` are not safe to treat as normal promotion-ready or editorially clean books until structural reset work lands.
-- `1ES` needs refreshed dossier state before it should be placed in a human-facing promotion packet.
-- `JDG`, `1SA`, and `2SA` are governance-blocked on residual ratification, not on staged text quality alone.
-- Ezra should not become a second default owner for routine staged cleanup or routine parser ownership.
-- Footnote mismatch counts are not self-interpreting; they must be routed by root cause before they influence priorities.
-- If footnote verification exposes scripture marker misses or verse-boundary defects, that routes to Ark parser work rather than silent cleanup expansion.
-- Do not grow a third PDF verification path; future source-proof work must route through `pipeline/common/pdf_source.py`.
-- Batch cleanup heuristics should not jump to corpus-wide use without Ark review.
-- `***` markers are human reference only; they are ignored by machine detection and should not become workflow syntax.
-- The ops board must be reconciled whenever a new memo changes dashboard truth; stale queue state is itself an operational bug.
+- OT promotion is complete, but OT canon is not yet formally locked; use Memo 91 as the active decision packet and Memo 89 as the checkpoint behind it.
+- `EST.4:6` is the only live non-`V7` OT canon blocker.
+- Human has one bounded OT lock decision packet open in Memo 91.
+- Fresh promoted dossiers can hide real canon debt if they are read as “fully clean”; use Memo 80 plus Memo 89 for that distinction.
+- Promoted OT staged files are not currently safe as a wholesale re-promotion base; canon lock and staged resync must be tracked separately.
+- The ops board must be reconciled whenever OT state changes; stale dispatch is itself an operational bug.
 
 ## Release Train
-- Same-day candidates: `RUT`
-- Refresh-then-promote candidates: `1ES`
-- Structural holds: `JOS`, `1KI`
-- Historical ready queue behind today’s packet: `EXO`, `NUM`, `DEU`, `TOB`, `EZR`, `JDT`, `1CH`, `2CH`, `2KI`, `DAN`
-- Corpus purity sweep priority set: `ZEC`, `DAN`, `AMO`, `MIC`, `JON` first; then `ISA`, `EZK`, `JER`, `JOB`, `ECC`; keep `JOS` evidence-only until structural reset lands
-- Minor Prophets Packet A: `MIC`, `OBA`
-- Minor Prophets near-ready with explicit blocker: `AMO` (`2` chapter-open ambiguities remaining)
-- Minor Prophets Packet B: `JON`, `NAH`, `ZEP`
-- Minor Prophets Packet C: `HAG`, `ZEC`, `MAL`
-- Minor Prophets blocked queue: `JOL`, `HAB`, `HOS`
+- Packet A: `PRO` + `SIR` complete
+- Packet B: `PSA` complete
+- Packet C: `JOB` complete
+- OT canon lock decision packet: Memo 91
+- OT canon lock blocker: `EST` pending disposition
+- OT canon ratification packet: `GEN`, `EXO`, `NUM`, `DEU`, `JDG`, `2KI`, `1CH`, `2CH`, `EZR`, `JOB`, `EZK`, `TOB`, `JDT`, `SIR`, `BAR`, `1MA`, `3MA`
+- First post-lock deep polish target: `WIS`
+
+## Phase 3 Design Status
+- **Memo 88** — Ratified Phase 3 spec (supersedes both skeleton drafts). All five adjudications closed. Awaiting human ratification.
+- **Memo 86** — R1 anchor extraction pipeline. Seven Cowork tasks defined. Awaiting ratification of memo 88.
+- **Memo 87** — DuckDB citation graph + duckpgq risk register. Eight Cowork tasks defined. Depends on memo 86 output.
+- **Execution sequence:** Memo 86 tasks → Memo 87 tasks → Integration validation (memo 88 step 3).
+- **Research folder** fully cleaned and naming-convention-compliant as of 2026-03-11. Convention codified in `research/README.md`.
 
 ## Long-Horizon Queue
-- Wisdom extraction lane: deferred until one structural reset and one promotion packet land
-- Major Prophets extraction lane: deferred until the current release train is normalized
-- NT planning lane: visible but deferred behind OT release-train stabilization
-- Shared historical structural-reset utility: watch item only; promote to active work only if `JOS` and `1KI` prove the same reusable defect
+- Promoted-canon freshness sweep after OT closeout, starting with `WIS`
+- Promoted-canon cleanup packet after OT closeout, starting with `JOS` and `JDG`
+- Helper-script consolidation and staged-variant retirement after current canon-hygiene packet
+- Historical residual packet (`JDG`, `1SA`, `2SA`) remains open but separate from the OT holdout lane
+- Phase 3 implementation: memo 86 → 87 → 88 integration (blocked on human ratification)
+- NT extraction is active under Ark
 
 ## Photius Handoff Outcomes
 - `accept` — evidence complete, scope allowed, verification clear

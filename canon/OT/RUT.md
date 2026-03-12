@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-RUT.1:1 In the days of the judges there was a famine in the land. And a
+RUT.1:1 In the days of the judges there was a famine in the land. And a man went from Bethlehem of Judah to sojourn in the country of Moab, and his wife and his sons.
 RUT.1:2 The name of the man was Elimelech, the name of his wife was Naomi, and the names of his two sons were Mahlon and Chilion-Ephrathites from Bethlehem of Judah. And they went to the country of Moab and remained there.
 RUT.1:3 Then Elimelech, Naomi's husband, died; and she was left with her two sons.
 RUT.1:4 They took for themselves wives of the women of Moab: the name of the one was Orpah, and the name of the other Ruth. And they dwelt there about ten years.
@@ -41,10 +41,10 @@ RUT.1:21 I went out full and the Lord has brought me home again empty. Why do yo
 
 ### Boaz Favors Ruth
 
-RUT.1:22 So Naomi returned and Ruth the Moabite woman returned with her, her daughter-in-law who returned from the country of Moab. Now they came to Bethlehem at the beginning of barley harvest. †
+RUT.1:22 So Naomi returned and Ruth the Moabite woman returned with her, her daughter-in-law who returned from the country of Moab. Now they came to Bethlehem at the beginning of barley harvest.
 ## Chapter 2
 
-RUT.2:1 There was a relative of Naomi's husband, a man of great wealth, 
+RUT.2:1 There was a relative of Naomi's husband, a man of great wealth, of the family of Elimelech. His name was Boaz.
 RUT.2:2 So Ruth the Moabite woman said to Naomi, 'Please let me go to the field and glean heads of grain after him in whose eyes I may find favor.' And she said to her, 'Go, daughter.'
 RUT.2:3 Then she left, and went and gleaned in the field after the reapers. And she happened to come to the part of the field belonging to Boaz, who was of the family of Elimelech.
 RUT.2:4 Now behold, Boaz came from Bethlehem and said to the reapers, 'The Lord be with you!' And they answered him, 'The Lord bless you!'
@@ -64,7 +64,7 @@ RUT.2:17 So she gleaned in the field until evening, and beat with a rod what she
 RUT.2:18 Then she took it up and went into the city, and her mother-in-law saw what she had gleaned. So Ruth brought forth and gave to her what she had kept back after she had been satisfied.
 RUT.2:19 And her mother-in-law said to her, 'Where have you gleaned today? And where did you work? Blessed be the one who took notice of you.' So Ruth told her mother-in-law where she had worked and said, 'The man's name with whom I worked today is Boaz.'
 RUT.2:20 Then Naomi said to her daughter-in-law, 'Blessed is he of the Lord, who has not forsaken His kindness to the living and the dead!' And Naomi said to her, 'This man is a relation of ours, one of our close relatives.'
-RUT.2:21 Ruth said to her mother-in-law, 'He also said to me, 'Stay near by my young men until they finish all my reap-ing.' '
+RUT.2:21 Ruth said to her mother-in-law, 'He also said to me, 'Stay near by my young men until they finish all my reaping.' '
 RUT.2:22 And Naomi said to Ruth her daughter-in-law, 'It is good, my daughter, that you go out with his young women, and thus people will not meet you in another field.'
 
 ### Boaz Pledges to Redeem Ruth
@@ -72,7 +72,7 @@ RUT.2:22 And Naomi said to Ruth her daughter-in-law, 'It is good, my daughter, t
 RUT.2:23 So she stayed close by the young women of Boaz, to glean until the end of the barley and wheat harvest; and she dwelt with her mother-in-law.
 ## Chapter 3
 
-RUT.3:1 Then Naomi her mother-in-law said to her, 'Daughter, shall I not seek rest for y
+RUT.3:1 Then Naomi her mother-in-law said to her, “Daughter, shall I not seek rest for you, so that it will be well with you?
 RUT.3:2 Now Boaz, whose young women you were with, is he not our relative? In fact, he is winnowing barley tonight at the threshing floor.
 RUT.3:3 Therefore, wash and anoint yourself, put on your best garment and go up to the threshing floor; but do not make yourself known to the man until he has finished drinking and eating.
 RUT.3:4 Then, when he lies down, take notice of the place where he lies. Then you shall go in, uncover his feet, and lie down; and he will tell you what you should do.'
@@ -95,7 +95,7 @@ RUT.3:17 And she said to her, 'He gave me these six ephahs of barley; for he sai
 RUT.3:18 Then she said, 'Sit still, daughter, until you know how the matter will turn out; for the man will not rest until he has concluded the matter today.'
 ## Chapter 4
 
-RUT.4:1 Boaz went up to the gate and sat there; and behold, the close
+RUT.4:1 Boaz went up to the gate and sat there; and behold, the close relative of whom Boaz had spoken was passing. So Boaz said to him, “Come aside, sir, sit down here.” So he came aside and sat down.
 RUT.4:2 And Boaz took ten men of the elders of the city and said, 'Sit down here.' So they sat down.
 RUT.4:3 Then Boaz said to the relative, 'As to the field which was our brother Elimelech's, which was given to Naomi, now returning from the land of Moab;
 RUT.4:4 I said I would inform you, saying, 'Buy it back in the presence of the inhabitants and the elders of my people. If you will redeem it, redeem it; but if you will not redeem it, then tell me, that I may know; for there is no one but you to redeem it, and I am next after you.' ' And he said, 'I am here, I will redeem it.'
@@ -109,7 +109,7 @@ RUT.4:11 And all the people who were at the gate said, 'We are witnesses.' And t
 RUT.4:12 And out of the seed which the Lord will give you from this young woman, may your house be like the house of Perez, whom Tamar bore to Judah.'
 RUT.4:13 So Boaz took Ruth, and she became his wife; and when he went in to her, the Lord gave her conception, and she bore a son.
 RUT.4:14 Then the women said to Naomi, 'Blessed be the Lord, who has not suffered a redeemer to fail you this day, even to make your name famous in Israel!
-RUT.4:15 And he will be to you a restorer of life and anourisher of your old age; for your daughter-in-law, who loves you, who is better to you than seven sons, has borne him.'
+RUT.4:15 And he will be to you a restorer of life and a nourisher of your old age; for your daughter-in-law, who loves you, who is better to you than seven sons, has borne him.'
 RUT.4:16 Then Naomi took the child and laid him on her bosom, and became a nurse for him.
 RUT.4:17 And the neighbors themselves gave him a name, saying, 'A son is born to Naomi'; and they called his name Obed. This is the father of Jesse, the father of David.
 RUT.4:18 Now this is the genealogy of Perez: Perez begot Hezron;

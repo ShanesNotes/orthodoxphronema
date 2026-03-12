@@ -18,9 +18,7 @@ As to the historical timeline of the kings of Israel, this account picks up from
 ### 20:22
 *(anchor: 1KI.20:22)*
 
-. King David was seventy years old here, shortly before his death (see 2Kg 5:4).
-
-1:5
+. King David was seventy years old here, shortly before his death (see 2Kg 5:4). 1:5
 
 Adonijah, David's oldest living son, exalted himself to be king, but his father
 
@@ -28,37 +26,27 @@ should have rebuked him. Jesus also exalted Himself as God and King, and as coeq
 
 with the Father (Jn 5:23; Mt 27:11), yet His Father did not rebuke Him (AthanG). Quite to
 
-the contrary, He said, "This is My beloved Son, in whom I am well pleased" (Mt 3:17).
-
-Moreover, although Adonijah refused to humble himself before David, who was a type of
+the contrary, He said, "This is My beloved Son, in whom I am well pleased" (Mt 3:17). Moreover, although Adonijah refused to humble himself before David, who was a type of
 
 Christ, we should humble ourselves before our God and King. If we do, He will "exalt us
 
-in due time" (1Pt 5:6).
-
-1:11 3Kingd 1:11, 14, 22: Once again, Nathan the prophet speaks the truth to the house of
+in due time" (1Pt 5:6). 1:11 3Kingd 1:11, 14, 22: Once again, Nathan the prophet speaks the truth to the house of
 
 David (see 2Kg 12:1-15). Sometimes "speaking the truth in love" (Eph 4:15) costs a
 
-friendship, but for Nathan it cemented a lifelong relationship with the king.
-
-1:15-21 Bathsheba bowed to her husband the king. A beautiful insight into respect for
+friendship, but for Nathan it cemented a lifelong relationship with the king. 1:15-21 Bathsheba bowed to her husband the king. A beautiful insight into respect for
 
 authority. Rather than coming with demands, she simply reviewed what the king had
 
 sworn, underscoring the importance of his successor: the eyes of all Israel are on you
 
-(v. 20). Her request was granted.
-
-1:49
+(v. 20). Her request was granted. 1:49
 
 The "reign" of Adonijah was short-lived. Not only did his guests head home, so did
 
 he (v. 53). Indeed, self-exaltation is short-lived, for "whoever exalts himself will be
 
-humbled, and he who humbles himself will be exalted" (Mt 23:12).
-
-2:3-4 The continual reign of kings in Israel was conditional on their obedience to the Law
+humbled, and he who humbles himself will be exalted" (Mt 23:12). 2:3-4 The continual reign of kings in Israel was conditional on their obedience to the Law
 
 of Moses. Disobedience would eventually lead to the collapse of the kingly throne when
 
@@ -74,9 +62,7 @@ in the days of Herod the king" (Mt 2:1). The name "Shiloh" in the prophecy means
 
 "peace," for Jesus Christ is the peace that unites and reconciles Jews and Gentiles in one
 
-body, the Church (Eph 2:14).
-
-2:20
+body, the Church (Eph 2:14). 2:20
 
 Bathsheba's petition was not a small one, as she intimated; thus Solomon did not go
 
@@ -84,9 +70,7 @@ back on his word to fulfill her request. It was not a small one because Christ t
 
 to come through Solomon, and not Adonijah (Mt 1:6). So this petition was a threat
 
-against the coming of the promised Messiah.
-
-2:27
+against the coming of the promised Messiah. 2:27
 
 No prophecy of Scripture can fail to be fulfilled. 1Kg 2:31 prophesied the end of the
 
@@ -94,41 +78,25 @@ priestly house of Eli. It came to an end about 150 years after that, for Abiatha
 
 last priest from Eli's house. Therefore, we should pay close attention to prophecies yet to
 
-be fulfilled, especially concerning the Second Coming of Christ.
-
-2:32
+be fulfilled, especially concerning the Second Coming of Christ. 2:32
 
 Joab took vengeance into his own hands when he killed Abner and Amasa (2Kg
 
 3:27; 20:9, 10). By doing this, Joab destroyed himself, for the one who exacts his own
 
-vengeance becomes worse than the one on whom he takes vengeance (JohnChr).
+vengeance becomes worse than the one on whom he takes vengeance (JohnChr). "'Vengeance is Mine, I will repay,' says the Lord" (Rom 12:19; see also Lv 19:18; Dt 32:35). The vengeance taken on Joab by Solomon was at the Lord's direction, but we should avoid
 
-"'Vengeance is Mine, I will repay,' says the Lord" (Rom 12:19; see also Lv 19:18; Dt 32:35).
-
-The vengeance taken on Joab by Solomon was at the Lord's direction, but we should avoid
-
-taking our own vengeance at all costs.
-
-2:36
+taking our own vengeance at all costs. 2:36
 
 Discernment is the crown of the virtues and a fruit of wisdom. Wisdom is Christ
 
-Himself, for He gave Solomon his wisdom (1Co 1:24).
-
-2:46-49
+Himself, for He gave Solomon his wisdom (1Co 1:24). 2:46-49
 
 David the prophet prophesied the death of Shimei; therefore, the vengeance
 
-taken on him by Solomon was also at the Lord's direction.
+taken on him by Solomon was also at the Lord's direction. 2:59
 
-2:59
-
-This is a prophecy regarding the eternal reign and rule of Christ over His kingdom,
-
-for the promise God gave David was established in the Son of David.
-
-2:64
+This is a prophecy regarding the eternal reign and rule of Christ over His kingdom, for the promise God gave David was established in the Son of David. 2:64
 
 Thermae means "hot baths."
 
@@ -138,25 +106,17 @@ there was no house built--no temple--the king and his subjects burned incense on
 
 high places, that is, to false gods. Today, there are those who say they love Christ but stay
 
-outside the Church, and their destiny is to lapse into error.
-
-3:4
+outside the Church, and their destiny is to lapse into error. 3:4
 
 The Lord who appeared to Solomon was the Son of God, for He is the Word of
 
-God the Father.
-
-3:9-13 Solomon did not ask for long life, or riches, or the life of his enemies, for such
+God the Father. 3:9-13 Solomon did not ask for long life, or riches, or the life of his enemies, for such
 
 things are of this world; therefore, God readily heard his prayer (JohnChr). Rather, he
 
 asked for virtues such as understanding and judgment, which belong to the crown of
 
-the virtues. These virtues enable one to "discern both good and evil" (Heb 5:13, 14).
-
-3:27 Wisdom and justice go together, for there cannot be one without the other (AmbM).
-
-5:11
+the virtues. These virtues enable one to "discern both good and evil" (Heb 5:13, 14). 3:27 Wisdom and justice go together, for there cannot be one without the other (AmbM). 5:11
 
 The Mosaic Law commanded the sons of Israel not to marry foreign women (Ex
 
@@ -170,55 +130,37 @@ with his many other foreign wives, ultimately turned his heart away from the Lor
 
 serve other gods (ch. 11). Thus, disobedience to a seemingly minor commandment made
 
-him guilty of breaking the whole Law (Jam 2:10). Regardless of how wise a leader may be,
+him guilty of breaking the whole Law (Jam 2:10). Regardless of how wise a leader may be, all kingdoms in this world are only temporary, and will end because of some weakness in
 
-all kingdoms in this world are only temporary, and will end because of some weakness in
+the leadership. Only the kingdom of Christ will endure forever. 5:29
 
-the leadership. Only the kingdom of Christ will endure forever.
+It took three years to prepare the stones and the trees for building the temple. Similarly, the Lord spent three years preparing His apostles and people to form His
 
-5:29
-
-It took three years to prepare the stones and the trees for building the temple.
-
-Similarly, the Lord spent three years preparing His apostles and people to form His
-
-Church.
-
-6:2
+Church. 6:2
 
 The house was a type of the Church. The foundation stones speak of the twelve
 
-apostles, and Jesus Christ is the Chief Cornerstone (Eph 2:19, 20).
-
-6:5
+apostles, and Jesus Christ is the Chief Cornerstone (Eph 2:19, 20). 6:5
 
 The completion of the house was according to every word and mandate of the
 
 king. Likewise, the completion of the Church is based on "every word that proceeds from
 
-the mouth of God" (Mt 4:4). His people live by these words.
-
-6:11
+the mouth of God" (Mt 4:4). His people live by these words. 6:11
 
 The temple was built with stones finished at the quarry. When they brought
 
 them to the temple site, they fit. Speaking of the Church, St. Paul writes, "the whole
 
-building, being joined together, grows into a holy temple in the Lord" (Eph 2:21).
+building, being joined together, grows into a holy temple in the Lord" (Eph 2:21). Similarly, "you also, as living stones, are being built up a spiritual house" (1Pt 2:5). Christ
 
-Similarly, "you also, as living stones, are being built up a spiritual house" (1Pt 2:5). Christ
-
-Himself fashions these stones and brings them together.
-
-6:19-21
+Himself fashions these stones and brings them together. 6:19-21
 
 The temple was made beautiful not as a show of riches, but because the Lord
 
 dwelled there (8:25; 9:3). St. Paul calls the Church "a dwelling place of God in the Spirit"
 
-(Eph 2:22).
-
-6:22-36
+(Eph 2:22). 6:22-36
 
 Just as there were holy images in the temple, so in the churches from the
 
@@ -226,17 +168,13 @@ earliest days, there were images or icons of Christ and His saints. We must not 
 
 the warning against idol worship (Ex 20:4, 5) with the presence of holy images in the
 
-Church and in the temple.
-
-7:1, 2
+Church and in the temple. 7:1, 2
 
 As Hiram was filled with skill, wisdom, and understanding to offer his bronze
 
 work in the temple, so also the Holy Spirit gives His gifts to the Church for the "edifying
 
-of the body of Christ" (Eph 4:12).
-
-8:1-11
+of the body of Christ" (Eph 4:12). 8:1-11
 
 The ark was a type of Mary, the Mother of God, and the tablets of the covenant
 
@@ -246,19 +184,13 @@ Spirit. In this conception, He took His life-giving flesh from her. His holy fle
 
 are united to His life-giving flesh in His death and Resurrection, and in the Eucharist we
 
-partake of His life-giving body and blood.
+partake of His life-giving body and blood. 8:1 3Kingd 8:1, 3-7, 9-11: This passage is read on November 20 at Vespers for the Feast of
 
-8:1 3Kingd 8:1, 3-7, 9-11: This passage is read on November 20 at Vespers for the Feast of
-
-the Entrance of the Theotokos into the Temple.
-
-8:20-52
+the Entrance of the Theotokos into the Temple. 8:20-52
 
 The New Testament counterpart of Solomon's prayer is the prayer of our Lord
 
-Jesus Christ in Jn 17, before His Passion, presenting the Church to His Father.
-
-8:25
+Jesus Christ in Jn 17, before His Passion, presenting the Church to His Father. 8:25
 
 Solomon asked, But will God indeed dwell with men on earth? He answered in
 
@@ -266,29 +198,21 @@ the negative only in relation to temples made with hands. However, the positive 
 
 relates to the Incarnation, for God the Son was made flesh for our salvation: "The Word
 
-became flesh and dwelt among us" (Jn 1:14).
-
-8:39-41 Does God hear the prayer of those not of His people when they come and pray in
+became flesh and dwelt among us" (Jn 1:14). 8:39-41 Does God hear the prayer of those not of His people when they come and pray in
 
 the temple? The answer is clear here, as it is in Acts 10:2-4, when the Lord hears the
 
-prayers of the not-yet-baptized Cornelius.
-
-8:56
+prayers of the not-yet-baptized Cornelius. 8:56
 
 As he blesses the people, Solomon borrows from the promise in Dt 31:6, which is
 
-also repeated in Heb 13:5: May He not leave us nor forsake us.
-
-8:64
+also repeated in Heb 13:5: May He not leave us nor forsake us. 8:64
 
 The temple, open for worship, found the people eating, drinking, and rejoicing
 
 before the Lord. After the day of Pentecost, the people were again "in the temple,"
 
-eating their food "with gladness and simplicity of heart" (Acts 2:46).
-
-9:1-9 The Lord who appeared to Solomon was the Son and Word of God. This was His
+eating their food "with gladness and simplicity of heart" (Acts 2:46). 9:1-9 The Lord who appeared to Solomon was the Son and Word of God. This was His
 
 second appearance to him. (The first appearance was in 3:4-13.) In this second
 
@@ -302,13 +226,9 @@ cast from My sight this house (v. 7). While we come "boldly to the throne of gra
 
 (Heb 4:16), we also confess, "It is a fearful thing to fall into the hands of the living God"
 
-(Heb 10:31). When we proclaim God's promises, we must also proclaim His warnings.
+(Heb 10:31). When we proclaim God's promises, we must also proclaim His warnings. 10:1-13 The coming of the queen of Sheba is a pinnacle for the children of Israel as the
 
-10:1-13 The coming of the queen of Sheba is a pinnacle for the children of Israel as the
-
-chosen people of God. This account illustrates perfectly what God had intended for Israel:
-
-to be a shining light among the nations, to draw all the surrounding heathen nations to
+chosen people of God. This account illustrates perfectly what God had intended for Israel: to be a shining light among the nations, to draw all the surrounding heathen nations to
 
 itself for conversion, because of the manifestation of the righteousness and wisdom of
 
@@ -318,19 +238,13 @@ God (see Gn 12:2; Ps 2:8). Sheba was a tribe of northern Arabs, descendants of A
 
 Solomon with hard questions and received satisfactory answers. She could see the
 
-Lord loved Israel, and she and Solomon exchanged numerous gifts.
-
-10:23
+Lord loved Israel, and she and Solomon exchanged numerous gifts. 10:23
 
 All the stunning gold utensils and appointments described in this chapter were
 
-made possible from the outcome of the trading which Solomon carried on.
+made possible from the outcome of the trading which Solomon carried on. 10:24
 
-10:24
-
-A tribute is a tax.
-
-11:1-7
+A tribute is a tax. 11:1-7
 
 Solomon's downfall was his love for women. He had twice as many wives as
 
@@ -340,35 +254,23 @@ to intermarry with foreign women (Ex 34:16; Dt 7:1-4) for just the reason that d
 
 Solomon: he turned after their idols. At the height of his reign, he fell into evil in the
 
-sight of the Lord (v. 7).
-
-11:10-12 In His displeasure, the Lord divided the kingdom, leaving Solomon with one
+sight of the Lord (v. 7). 11:10-12 In His displeasure, the Lord divided the kingdom, leaving Solomon with one
 
 tribe, Judah, later joined by Benjamin. These two tribes were commonly called the south
 
-or southern kingdom.
-
-11:13
+or southern kingdom. 11:13
 
 Two old enemies of Israel, Hadad of Edom and Rezon of Damascus, rose up
 
-against Solomon.
-
-11:27-29 The prophet Ahijah tore his garment into twelve pieces for the twelve tribes
+against Solomon. 11:27-29 The prophet Ahijah tore his garment into twelve pieces for the twelve tribes
 
 of Israel. Jeroboam would receive ten (the northern kingdom). Rehoboam, Solomon's
 
-son and successor, would receive two (the southern kingdom).
-
-11:30-31
+son and successor, would receive two (the southern kingdom). 11:30-31
 
 Solomon's idolatry divided his kingdom because the worship of false gods
 
-destroys unity. However, the southern kingdom was left for the sake of the Incarnation,
-
-for David's true Son would reign forever over His own unified kingdom.
-
-12:5-7
+destroys unity. However, the southern kingdom was left for the sake of the Incarnation, for David's true Son would reign forever over His own unified kingdom. 12:5-7
 
 The elders advised Rehoboam to be a servant to the people, but he rejected
 
@@ -380,43 +282,31 @@ Jesus the King took the form of a servant (Php 2:7), He taught us that the one w
 
 governs must be as one who serves (Lk 22:26). Godly service unites, for genuine humility
 
-characterizes the kingdom of God.
-
-12:14
+characterizes the kingdom of God. 12:14
 
 The Holy Spirit, "who spoke by the prophets" (Creed), spoke by the prophet
 
-Ahijah.
-
-12:20
+Ahijah. 12:20
 
 The word of God is the Son and Word of the Father, who spoke to the man of
 
 God. The prophet Shemaiah calls Him "the Lord" in v. 22, for He is one in essence and
 
-coequal with the Father.
-
-12:23
+coequal with the Father. 12:23
 
 The numbers here contradict those given in 14:1. According to some scholars, this
 
-was likely due to the error of a copyist.
-
-12:24
+was likely due to the error of a copyist. 12:24
 
 In 11:23, Jeroboam's mother was said to be "a widow," but here she is said to be a
 
-prostitute. Apparently she was both.
-
-12:30
+prostitute. Apparently she was both. 12:30
 
 The word of the Lord was with the prophet Ahijah. "The word" is the Son, and
 
 "the Lord" is the Father. Therefore, what is said by the prophet is from both the Father
 
-and the Son.
-
-12:49
+and the Son. 12:49
 
 In 11:35, the Lord promised Jeroboam his kingdom would endure if he rejected
 
@@ -428,59 +318,37 @@ the house of David" (v. 47). Deceived by his reasoning, he then rejected the Lor
 
 promise and set up idolatrous worship. But unlike him, let us meditate and deliberate day
 
-and night in the Lord's commandments, and let us keep them so as to prosper (Ps 1).
-
-13:6
+and night in the Lord's commandments, and let us keep them so as to prosper (Ps 1). 13:6
 
 Jeroboam humbled himself before the man of God and begged him to intercede
 
-before the Lord on his behalf. So the Lord honored his humility and restored his hand.
-
-Salvation begins and ends with humility (JohnChr), but Jeroboam's humility was shortlived; for he failed to worship the very Lord who showed him such mercy.
-
-13:7-25 The man of God could not be enticed by the king's reward, because the Lord's
+before the Lord on his behalf. So the Lord honored his humility and restored his hand. Salvation begins and ends with humility (JohnChr), but Jeroboam's humility was shortlived; for he failed to worship the very Lord who showed him such mercy. 13:7-25 The man of God could not be enticed by the king's reward, because the Lord's
 
 commandment was clear that he was not to dine in that place, nor return the way he
 
-came. But the word of the old prophet clearly contradicted the Lord's commandment (v.
-
-18). Deceived by this word, he followed the old prophet home (v. 19). His disobedience
+came. But the word of the old prophet clearly contradicted the Lord's commandment (v. 18). Deceived by this word, he followed the old prophet home (v. 19). His disobedience
 
 would cost him his life (vv. 22-25). This was an example of Heb 12:6: "For whom the
 
 Lord loves He chastens, and scourges every son whom He receives" (JohnCas). He was
 
-chastened so as not to "be condemned with the world" (1Co 11:32). However, Jeroboam,
+chastened so as not to "be condemned with the world" (1Co 11:32). However, Jeroboam, knowing all this, "did not turn from his evil way" (v. 32); thus he was condemned with the
 
-knowing all this, "did not turn from his evil way" (v. 32); thus he was condemned with the
+world. 14:1
 
-world.
-
-14:1
-
-The Lord chose to place His name in the city of Jerusalem (see also 8:14, 42;
-
-11:33), where He first established His Church at Pentecost. The name He established
+The Lord chose to place His name in the city of Jerusalem (see also 8:14, 42; 11:33), where He first established His Church at Pentecost. The name He established
 
 there in the Church was that of the Father and the Son and the Holy Spirit, the name into
 
-which we are baptized (Mt 28:18-20).
-
-14:2-4 Rehoboam and other kings like him in Judah and in Israel built other places of
+which we are baptized (Mt 28:18-20). 14:2-4 Rehoboam and other kings like him in Judah and in Israel built other places of
 
 worship because they did not respect the Lord's name, which He established in
 
-Jerusalem. They were disobedient conspirators. They did not know the true God: Father,
-
-Son, and Holy Spirit.
-
-14:10
+Jerusalem. They were disobedient conspirators. They did not know the true God: Father, Son, and Holy Spirit. 14:10
 
 Rehoboam and Jeroboam never knew peace, only war, for they did not know
 
-and obey the Author of peace, the Lord God of Israel.
-
-15:3
+and obey the Author of peace, the Lord God of Israel. 15:3
 
 David's heart was perfect toward the Lord his God because his heart was
 
@@ -488,17 +356,11 @@ characterized by repentance when he sinned (Ps 50), and because he did everythin
 
 Lord commanded him (v. 5). However, Abijam's heart was not perfect toward the Lord
 
-his God because he was neither repentant toward Him nor obedient to Him.
+his God because he was neither repentant toward Him nor obedient to Him. 15:28
 
-15:28
+The Lord who spoke by His servant Ahijah the Shilonite is the Holy Spirit. 16:7 3Kingd 16:7, 12, 42: The Lord who spoke by the prophets Jehu and Joshua is again
 
-The Lord who spoke by His servant Ahijah the Shilonite is the Holy Spirit.
-
-16:7 3Kingd 16:7, 12, 42: The Lord who spoke by the prophets Jehu and Joshua is again
-
-the Holy Spirit.
-
-16:24
+the Holy Spirit. 16:24
 
 Omri built Samaria, and eventually Gentiles inhabited the area and intermarried
 
@@ -508,9 +370,7 @@ Galilee, but the Jews of Judea and Galilee would "have no dealings with Samarita
 
 4:9). But Jesus did, for He revealed Himself as the Christ to the woman at the well (Jn
 
-4:25, 26), and His story about the Good Samaritan is now very famous (Lk 10).
-
-16:42
+4:25, 26), and His story about the Good Samaritan is now very famous (Lk 10). 16:42
 
 The Holy Spirit spoke by the prophet Joshua and warned against rebuilding the
 
@@ -518,37 +378,23 @@ city of Jericho (Jos 6:16). Whoever would rebuild the city would lose his oldest
 
 youngest sons. In Hiel's case, it was his sons Abiram and Segub. Thus we see Hiel's
 
-folly in disobeying the prophecy of Scripture (see also 2Pt 1:20, 21).
-
-17:1
+folly in disobeying the prophecy of Scripture (see also 2Pt 1:20, 21). 17:1
 
 When prophets like Elijah prophesied, they did so in the Lord's name, for the Lord
 
 revealed the prophecy to them. However, when Jesus prophesied, He said, "I say to you,"
 
-for He Himself is the Lord who revealed Himself to the Old Testament prophets.
+for He Himself is the Lord who revealed Himself to the Old Testament prophets. 17:2-5
 
-17:2-5
+The word is the Word and Son of God. It was He who commanded the ravens, and it was He whom Elijah obeyed. It was He with whom Elijah and Moses appeared on
 
-The word is the Word and Son of God. It was He who commanded the ravens,
-
-and it was He whom Elijah obeyed. It was He with whom Elijah and Moses appeared on
-
-the Mount of Transfiguration (Mt 17:4).
-
-17:10-11
+the Mount of Transfiguration (Mt 17:4). 17:10-11
 
 Elijah was very poor, but he made others rich, "for it is better to be rich for
 
-others than for oneself" (AmbM). While Elijah became poor to make the widow rich,
+others than for oneself" (AmbM). While Elijah became poor to make the widow rich, Jesus became poor for the sake of many (2Co 8:9). 17:12-13 The woman was threatened not only by poverty but by death itself, not only for
 
-Jesus became poor for the sake of many (2Co 8:9).
-
-17:12-13 The woman was threatened not only by poverty but by death itself, not only for
-
-herself but also for her son. But her faith in the Lord would overcome both (JohnChr).
-
-17:14-16 The woman was greater in hospitality than Father Abraham. For he ran to his
+herself but also for her son. But her faith in the Lord would overcome both (JohnChr). 17:14-16 The woman was greater in hospitality than Father Abraham. For he ran to his
 
 herd to fetch a calf and provided from his wealth. But this woman had nowhere to run to
 
@@ -558,9 +404,7 @@ Lord multiplied these things for the woman and her children. So too, when this s
 
 Lord multiplied the fish and the loaves, the multitude should have connected this with
 
-what He did for the widow (Mt 14; 15).
-
-17:20
+what He did for the widow (Mt 14; 15). 17:20
 
 Elijah did not command the child to return from the dead. Rather, he cried out to
 
@@ -568,57 +412,35 @@ the Lord to restore him. This same Lord also demonstrated His power over death a
 
 He became incarnate, especially when He trampled down death by His death and
 
-Resurrection (1Co 15:54, 55).
-
-17:21
+Resurrection (1Co 15:54, 55). 17:21
 
 Elijah in a mystery stretched himself over the child three times, for the number
 
-three is a sacred number. It points to the Blessed and Holy Trinity and to the death,
-
-burial, and Resurrection of Christ. We are baptized in the name of the Father, and of the
+three is a sacred number. It points to the Blessed and Holy Trinity and to the death, burial, and Resurrection of Christ. We are baptized in the name of the Father, and of the
 
 Son, and of the Holy Spirit, and we are united to Christ in His death, burial and
 
-Resurrection.
-
-18:1-12 The word is the Son of God, and the Spirit is the Holy Spirit. The Lord (v. 12) is
+Resurrection. 18:1-12 The word is the Son of God, and the Spirit is the Holy Spirit. The Lord (v. 12) is
 
 the Father, for the Word is the Word of the Father, and the Spirit is the Spirit of the
 
-Father. Moreover, the Word is a Person, as indicated by the pronoun I, for the Word says,
+Father. Moreover, the Word is a Person, as indicated by the pronoun I, for the Word says, I will send rain on the earth; and this statement indicates the Word's divinity. Then
 
-I will send rain on the earth; and this statement indicates the Word's divinity. Then
-
-too, "the Spirit" is a Person, which is indicated by the phrase, shall carry you.
-
-18:2
+too, "the Spirit" is a Person, which is indicated by the phrase, shall carry you. 18:2
 
 So Elijah went, for he obeyed the Word and Son of God. Also after "the Word
 
 became flesh" (Jn 1:14), Elijah appeared with Him on the Mount of Transfiguration (Mt
 
-17:3).
+17:3). 18:3-12 The beginning point of wisdom in any person is the fear of the Lord (Ps 110:10; Pr
 
-18:3-12 The beginning point of wisdom in any person is the fear of the Lord (Ps 110:10; Pr
+1:7). Obadiah feared the Lord from his youth, and he learned to fear the Lord greatly. Thus, he was well experienced in the Lord, and he feared the Lord more than he feared
 
-1:7). Obadiah feared the Lord from his youth, and he learned to fear the Lord greatly.
+Ahab and Jezebel, which is shown by his hiding a hundred of the Lord's prophets (v. 4). 18:7
 
-Thus, he was well experienced in the Lord, and he feared the Lord more than he feared
+Obadiah's fear of the Lord is also shown by his deep respect for the prophet Elijah. We, too, show this same respect when we venerate his icon and the icon of the
 
-Ahab and Jezebel, which is shown by his hiding a hundred of the Lord's prophets (v. 4).
-
-18:7
-
-Obadiah's fear of the Lord is also shown by his deep respect for the prophet Elijah.
-
-We, too, show this same respect when we venerate his icon and the icon of the
-
-Transfiguration. Many Orthodox churches are named after St. Elijah, also known as St.
-
-Elias.
-
-18:12-14
+Transfiguration. Many Orthodox churches are named after St. Elijah, also known as St. Elias. 18:12-14
 
 Obadiah is not showing cowardice when he says, "But he will kill me." For he
 
@@ -628,9 +450,7 @@ shows we should not put ourselves in harm's way needlessly. This was also true o
 
 Lord Jesus: "After these things Jesus walked in Galilee; for He did not want to walk in
 
-Judea, because the Jews sought to kill Him" (Jn 7:1).
-
-18:15-16
+Judea, because the Jews sought to kill Him" (Jn 7:1). 18:15-16
 
 Both Elijah and Obadiah were brave and courageous in the Lord. Elijah had no
 
@@ -640,11 +460,7 @@ greater than Ahab, namely, "the Lord of hosts." "For he was always eager to make
 
 fit to appear before God with a pure heart, and to submit to His will, and His will alone"
 
-(AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him.
-
-Their courage is one of the four general virtues that produce all the other virtues.
-
-18:17-18
+(AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him. Their courage is one of the four general virtues that produce all the other virtues. 18:17-18
 
 Elijah and Ahab obviously present two contradictory judgments. Which one
 
@@ -652,9 +468,7 @@ was actually troubling Israel? It was time to settle things. For which is the tr
 
 the eyes of Israel, the Lord or Baal? Was Elijah the true prophet, or were the 850
 
-prophets of Baal? The answers would soon become evident (vv. 20-40).
-
-18:19-20 The 450 prophets were called prophets of shame because of their anger and
+prophets of Baal? The answers would soon become evident (vv. 20-40). 18:19-20 The 450 prophets were called prophets of shame because of their anger and
 
 wrath. For their worship was filled with passion (v. 28). But Elijah was free from this
 
@@ -662,9 +476,7 @@ shame. "Let us free ourselves of this demon [of wrath]. At its first beginning, 
 
 quench it. Let us put the sign of the cross on our breast, as it were a curb. Wrath is a
 
-shameless dog, but let it learn to hear the law of Christ" (JohnChr).
-
-18:21
+shameless dog, but let it learn to hear the law of Christ" (JohnChr). 18:21
 
 The people were indecisive about the true God, and their double-mindedness was
 
@@ -674,9 +486,7 @@ presiding deity in a community of deities; therefore, the worship of Baal includ
 
 many gods. But if the presiding deity were overcome, so would all the rest be. The people
 
-would soon discover anew that the Lord is the one true God.
-
-18:30-39
+would soon discover anew that the Lord is the one true God. 18:30-39
 
 Fire and water are obviously opposed to one another. So if the Lord makes
 
@@ -692,25 +502,19 @@ water, poured out three times upon the sacrifice. Thus, it is clearly shown that
 
 mystic water is, there is the kindling, warm, and fiery Spirit of God, who burns up
 
-impurity, and illuminates the faithful" (GrgNy).
-
-19:4
+impurity, and illuminates the faithful" (GrgNy). 19:4
 
 Elijah was not attached to this transient life, for his vision was life in the world to
 
 come. "Holy men have often lamented their lengthy dwelling here" (AmbM). St. Paul also
 
-longed to depart to be with Christ (Php 1:21-24).
-
-19:10
+longed to depart to be with Christ (Php 1:21-24). 19:10
 
 The children of Israel forsook the Lord because an angry and wrathful temper
 
 took hold of them, for God cannot be known in that kind of disposition. He can only be
 
-known in and through the virtues, such as gentleness.
-
-19:11-12 The Holy Spirit (a great and powerful wind) manifests His grace in a variety
+known in and through the virtues, such as gentleness. 19:11-12 The Holy Spirit (a great and powerful wind) manifests His grace in a variety
 
 of ways in prayer. In some He "rends the mountains" of sinful passions and "shatters the
 
@@ -720,15 +524,9 @@ of jubilation or exultation. Yet again in others, He is a nonmaterial fire. Fina
 
 He is "a gentle breeze," which occurs when Christ comes to dwell in the heart, as St. Paul
 
-said in Eph 3:17 (GrgSinai).
+said in Eph 3:17 (GrgSinai). 19:13
 
-19:13
-
-The Son of God (a Voice) came to Elijah, who called Him "the Lord Almighty" (v.
-
-14) and "the Lord" (v. 15) Elijah was obedient to Him (v. 19).
-
-19:18
+The Son of God (a Voice) came to Elijah, who called Him "the Lord Almighty" (v. 14) and "the Lord" (v. 15) Elijah was obedient to Him (v. 19). 19:18
 
 Although God's promises were made to the whole nation of Israel, only a remnant
 
@@ -740,78 +538,48 @@ on foreknowledge (Rom 8:29; 11:2), for the Lord knows ahead of time those who ar
 
 worthy. "By saying 'election,' Paul showed their approval, and by saying 'grace,' he
 
-showed the gift of God" (JohnChr).
+showed the gift of God" (JohnChr). 20:3
 
-20:3
-
-Naboth was a man of discernment, righteousness, courage, and self-control;
-
-therefore, he rejected Ahab's request.
-
-20:4
+Naboth was a man of discernment, righteousness, courage, and self-control; therefore, he rejected Ahab's request. 20:4
 
 Ahab's spirit was disturbed because his desire to purchase Naboth's vineyard was
 
 frustrated. His frustrated desire produced anger and depression in him, and ultimately
 
-murder, for he lacked those virtues seen in Naboth.
-
-20:20
+murder, for he lacked those virtues seen in Naboth. 20:20
 
 Ahab sold himself to do evil, which he committed by his own free will, for he was
 
-not forced to sin by any necessity imposed on him by his human nature. Truly, like Ahab,
+not forced to sin by any necessity imposed on him by his human nature. Truly, like Ahab, we sell ourselves to commit sins by our own free choice, as St. Paul points out in Rom
 
-we sell ourselves to commit sins by our own free choice, as St. Paul points out in Rom
-
-7:14.
-
-
-### 20:25
+7:14. ### 20:25
 *(anchor: 1KI.20:25)*
 
 Nor did Ahab's wife Jezebel force Ahab to sin, although she led him astray. For
 
-Ahab followed his wife's advice because he willed it of his own free choice. In this choice,
-
-he was like Adam of old, who ate from the forbidden tree because he was deceived by Eve.
-
-
-### 21:1-3
+Ahab followed his wife's advice because he willed it of his own free choice. In this choice, he was like Adam of old, who ate from the forbidden tree because he was deceived by Eve. ### 21:1-3
 *(anchor: 1KI.21:1)*
 
 The son of Hadad the king of Syria was an icon of covetousness: Your silver
 
 and your gold are mine; your wives and your children are mine; therefore, the
 
-Lord was opposed to him. But only the Lord can deliver us from king covetousness (v. 13).
-
-Covetousness is one of the sinful passions that defiles a person (Mk 7:22, 23). In another
+Lord was opposed to him. But only the Lord can deliver us from king covetousness (v. 13). Covetousness is one of the sinful passions that defiles a person (Mk 7:22, 23). In another
 
 place, Jesus warns, "Take heed and beware of covetousness, for one's life does not consist
 
-in the abundance of the things he possesses" (Lk 12:15).
-
-
-### 21:23
+in the abundance of the things he possesses" (Lk 12:15). ### 21:23
 *(anchor: 1KI.21:23)*
 
-The king of Syria was an icon of a heretic, for his servants convinced him, saying,
-
-The God of Israel is a god of the mountains, and not a god of the valleys. For
+The king of Syria was an icon of a heretic, for his servants convinced him, saying, The God of Israel is a god of the mountains, and not a god of the valleys. For
 
 they believed God was circumscribed, and therefore limited and contained within
 
-creation. To refute this reasoning, the Lord delivered Israel from the king (v. 28). Thus,
-
-the Lord is at war with heresy because it opposes the salvation of mankind. He
+creation. To refute this reasoning, the Lord delivered Israel from the king (v. 28). Thus, the Lord is at war with heresy because it opposes the salvation of mankind. He
 
 circumscribes His creation, yet He is present within it, seeking to save the lost. For
 
-although He is uncontained by creation, He became incarnate to save it.
-
-
-### 22:10
+although He is uncontained by creation, He became incarnate to save it. ### 22:10
 *(anchor: 1KI.22:10)*
 
 The king of Israel and the king of Judah were sitting on their thrones, but the
@@ -826,8 +594,6 @@ them, Micaiah. Likewise, throughout Church history there have been many false pr
 
 and a few true ones: "Beloved, do not believe every spirit, but test the spirits, whether
 
-they are of God; because many false prophets have gone out into the world" (1Jn 4:1).
-
-Since biblical times, the true prophets are the Holy Fathers of the Church, who have
+they are of God; because many false prophets have gone out into the world" (1Jn 4:1). Since biblical times, the true prophets are the Holy Fathers of the Church, who have
 
 handed down the true teachings of the Holy Scriptures to us.

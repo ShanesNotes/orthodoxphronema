@@ -1,9 +1,9 @@
 {
   "book_code": "1ES",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:31:33.998229",
+  "timestamp": "2026-03-11T16:09:33.810251",
   "registry_version": "1.3.0",
-  "body_checksum": "39043a44883839ae9dc5ed2a9f87fa8aedf5b86b605bf9650eba6aaba9fb1802",
+  "body_checksum": "51898ad0913fc7d562cc526800f8cb9fbe997b6909e224008067d9b83b8a7224",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -43,5 +43,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

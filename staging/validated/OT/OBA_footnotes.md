@@ -22,10 +22,7 @@ with Israel (see 3Kg 11:14-17). Throughout this short book, Edom and Esau are em
 
 interchangeably as titles for an actual kingdom and as general examples of rebellious
 
-humanity.
-
-
-### 1:2-4
+humanity. ### 1:2-4
 *(anchor: OBA.1:2)*
 
 Edom is made . . . least among the nations, that is, humbled in response to its
@@ -38,20 +35,14 @@ cliffs rising up to 2,000 feet in height. Rebellious Edom here typifies the exte
 
 pride and arrogance with its seemingly boundless scope, yet still brought under the yoke
 
-of God.
-
-
-### 1:4-7
+of God. ### 1:4-7
 *(anchor: OBA.1:4)*
 
 Obadiah proclaims the destruction of Edom as thorough and complete: whereas
 
 thieves steal only what they need or desire, and grape-gatherers leave gleanings behind
 
-(see Lv 19:9; 23:22), Edom will be wholly and completely cast down.
-
-
-### 1:8-11
+(see Lv 19:9; 23:22), Edom will be wholly and completely cast down. ### 1:8-11
 *(anchor: OBA.1:8)*
 
 Edom's indictment for the slaughter and ungodliness committed against its
@@ -66,12 +57,7 @@ incurred the guilt of a good undone, of a lack of fraternal love and responsibil
 
 the severity of this crime gives rise to the fact that the judgment against Edom is here
 
-pronounced before the full indictment against the nation is proclaimed (it follows in vv.
-
-12-14), rather than after as is usually the case in prophetic literature.
-
-
-### 1:12-14
+pronounced before the full indictment against the nation is proclaimed (it follows in vv. 12-14), rather than after as is usually the case in prophetic literature. ### 1:12-14
 *(anchor: OBA.1:12)*
 
 This whole passage is stirringly anticipatory of Jesus' parable of the sheep and
@@ -86,10 +72,7 @@ typification of sinful human attributes: lack of benevolence and pleasure in ano
 
 misfortune (v. 12); passivity and the desire for profit from another's loss (v. 13); the
 
-hindering of another's escape from undue persecution (v. 14).
-
-
-### 1:15-18
+hindering of another's escape from undue persecution (v. 14). ### 1:15-18
 *(anchor: OBA.1:15)*
 
 Those who would engage in acts such as those described in vv. 12-14 are
@@ -104,36 +87,22 @@ upon all the nations. Such people may rage in their pride and deceit (the likely
 
 of so too shall all the nations drink wine), but eventually they shall have their
 
-comeuppance and it will be as if they never existed. The faithful of the Lord, however,
+comeuppance and it will be as if they never existed. The faithful of the Lord, however, shall be delivered and sanctified (v. 17), preserved even through the destruction of those
 
-shall be delivered and sanctified (v. 17), preserved even through the destruction of those
-
-hardened in sin (v. 18).
-
-
-### 1:19-20
+hardened in sin (v. 18). ### 1:19-20
 *(anchor: OBA.1:19)*
 
 This passage, which delineates the possessions of the land as they will be found
 
-after God's judgment of Edom, may well be an addition to the original prophetic oracle.
+after God's judgment of Edom, may well be an addition to the original prophetic oracle. The Greek text is confusing (as is the text in the Hebrew) as to the precise geographic
 
-The Greek text is confusing (as is the text in the Hebrew) as to the precise geographic
-
-extent of the lands delineated, but the general thrust of the proclamation is clear: Judah,
-
-oppressed by Edom and its allies, will inherit the land of its oppressors at their defeat.
-
-
-### 1:21
+extent of the lands delineated, but the general thrust of the proclamation is clear: Judah, oppressed by Edom and its allies, will inherit the land of its oppressors at their defeat. ### 1:21
 *(anchor: OBA.1:21)*
 
 The final proclamation of the prophecy is hopeful both in a political sense, inasmuch
 
 as Judah shall exact vengeance on the mountain of Esau, and in a more
 
-eschatological sense: the divided people shall again be one (kingdom is in the singular),
-
-and rather than existing under the tumultuous leadership of judges or kings, the kingdom
+eschatological sense: the divided people shall again be one (kingdom is in the singular), and rather than existing under the tumultuous leadership of judges or kings, the kingdom
 
 shall be the Lord's.

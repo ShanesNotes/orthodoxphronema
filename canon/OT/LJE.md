@@ -16,14 +16,12 @@ has_additions: false
 
 LJE.1:1 Because of the sins you committed in the sight of God, you will be led away to Babylon as captives by Nebuchadnezzar, king of the Babylonians.
 
-### The Epistle of Jeremiah
 
 LJE.1:2 After you enter Babylon, you will remain there many years, even a long time, as many as seven generations. But after this, I shall lead you from that place with peace.
 LJE.1:3 Now in Babylon you will see gods of silver, gold, and wood carried upon shoulders as displays of fear to the Gentiles.
 LJE.1:4 Therefore do not reverence them, lest you become like the foreigners, and fear also seizes you because of them
 LJE.1:5 when you see a multitude worshiping them, both in front of and behind them. But say in your mind, 'One must worship You, O Lord.'
 
-### Idols Dressed Like People
 
 LJE.1:6 For My angel is with all of you, and he is searching your souls.
 LJE.1:7 Indeed their tongue is polished by a craftsman, and they are plated with silver and gold. But they are false and unable to speak.
@@ -34,7 +32,6 @@ LJE.1:11 After they clothe them with a purple garment, they wipe their face beca
 LJE.1:12 One of them holds a scepter, like the judge of a country who does not put to death the one who sins against him.
 LJE.1:13 Another holds a dagger in his right hand and a battleax itself, but he cannot defend himself from war and robbers.
 
-### Useless, Lifeless
 
 LJE.1:14 From this, it is evident they are not gods; therefore, do not fear them.
 LJE.1:15 For as the vessel of a man is shattered and becomes useless, such are their gods as they sit in their temples.
@@ -51,7 +48,6 @@ LJE.1:25 Since they are without feet, they must be carried on the shoulders of o
 LJE.1:26 Even if someone should stand it upright, it would not move by itself, nor if it were bent over, it would not straighten up; yet gifts are offered to it by them as to the dead.
 LJE.1:27 But the priests sell their sacrifices to make full use of this money for themselves. Likewise even their wives preserve the meat offered them, though neither the poor nor the lame are given a share; and even a woman in her menstruation, or one just giving birth, touches them.
 
-### False Priests
 
 LJE.1:28 Since you know from this that they are not gods, therefore, do not fear them.
 LJE.1:29 How then can these be called gods? For women serve offerings to these gods of silver, gold, and wood.
@@ -65,7 +61,6 @@ LJE.1:36 They cannot restore the sight of a blind man, nor rescue someone in dis
 LJE.1:37 They cannot show mercy to a widow, nor do good to the orphan.
 LJE.1:38 These wooden idols, plated with silver and gold, are likened to stones on a mountain, and those who serve them will be put to shame.
 
-### Undiscerning Chaldeans
 
 LJE.1:39 How then can anyone suppose them to be gods, or call them such?
 LJE.1:40 Besides, even the Chaldeans themselves dishonor them, for when they see someone without the power of speech, they bring him to Bel. They consider it worthy to call out to him, as though he could understand.
@@ -73,7 +68,6 @@ LJE.1:41 Yet they themselves do not understand so as to abandon their idols, for
 LJE.1:42 The women also put cords around themselves and sit in the streets, burning corn as incense.
 LJE.1:43 When one of these women is led off by some passerby and sleeps with him, she insults her neighbor because she was not as desirable as herself, nor was her cord broken.
 
-### Idols Are a Disgrace
 
 LJE.1:44 Everything to do with these idols is a lie. How then can anyone suppose them to be gods, or call them such?
 LJE.1:45 They are fashioned by craftsmen and goldsmiths. They cannot be anything but what the craftsmen desire them to be.

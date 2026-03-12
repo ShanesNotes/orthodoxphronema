@@ -20,10 +20,7 @@ appearances of the Son of God to the prophets and the Holy Spirit speaking throu
 
 plan for the overthrow of death. These beginnings will continue as the Son reveals
 
-Himself to Moses and the Holy Spirit speaks through him.
-
-
-### 1:10
+Himself to Moses and the Holy Spirit speaks through him. ### 1:10
 *(anchor: EXO.1:10)*
 
 The deceitfulness of Pharaoh ties this story to two others. First to the account of the
@@ -38,10 +35,7 @@ wisdom of the serpent again encounters the wisdom of God. Similarly, when the So
 
 God became incarnate, He easily outwitted the devil and destroyed him and death
 
-through His Cross (Col 2:15; Heb 2:14, 15).
-
-
-### 1:12
+through His Cross (Col 2:15; Heb 2:14, 15). ### 1:12
 *(anchor: EXO.1:12)*
 
 The Egyptians severely humbled the children of Israel, but the more they persecuted
@@ -52,10 +46,7 @@ become incarnate through them for man's salvation. When He became Man, He suffer
 
 the extreme humiliation of the Cross; nevertheless, through the Cross His Church grew
 
-and multiplied in great numbers.
-
-
-### 1:15
+and multiplied in great numbers. ### 1:15
 *(anchor: EXO.1:15)*
 
 Shiphrah and Puah outmaneuvered Pharaoh, for they feared God, who gave them
@@ -64,20 +55,14 @@ wisdom. And whereas the enemy outsmarted Eve at the beginning of Genesis, these
 
 women at the beginning of Exodus outwit the enemy. God's plan for the Incarnation
 
-cannot be stopped.
-
-
-### 2:2
+cannot be stopped. ### 2:2
 *(anchor: EXO.2:2)*
 
 Moses' parents were Amram and Jochebed (6:20; Nm 26:59). They hid Moses for
 
 three months because they embraced the faith of Abraham (Heb 11:8-15; 23). Thus, they
 
-were not afraid of the king's commandment.
-
-
-### 2:4
+were not afraid of the king's commandment. ### 2:4
 *(anchor: EXO.2:4)*
 
 Miriam, Moses' sister, was watching from a distance to learn what would become of
@@ -88,16 +73,10 @@ through observing the divine providence in the situation (Acts 7:20). And we can
 
 how easy it is for the Lord to keep incarnational history in motion in the midst of great
 
-opposition.
-
-
-### 2:9
+opposition. ### 2:9
 *(anchor: EXO.2:9)*
 
-Jochebed may be the only woman in history to be paid for nursing her own child.
-
-
-### 2:11
+Jochebed may be the only woman in history to be paid for nursing her own child. ### 2:11
 *(anchor: EXO.2:11)*
 
 Moses went out to see his brethren because he refused to be called the son of
@@ -106,40 +85,24 @@ Pharaoh's daughter. Why? Because of his faith, for he chose the Lord and holines
 
 the riches of Egypt and the passing pleasures of sin. He had his eyes on the world to come
 
-(Heb 11:24-26).
-
-
-### 2:12
+(Heb 11:24-26). ### 2:12
 *(anchor: EXO.2:12)*
 
-Moses was forty years old at this time, and he knew he was Israel's deliverer. Thus,
-
-he defended an Israelite and killed the Egyptian. He supposed the Israelites would
+Moses was forty years old at this time, and he knew he was Israel's deliverer. Thus, he defended an Israelite and killed the Egyptian. He supposed the Israelites would
 
 understand his calling from God, but they did not (Acts 7:23-28). That generation never
 
-would.
-
-
-### 2:15
+would. ### 2:15
 *(anchor: EXO.2:15)*
 
 This is another instance of divine providence preserving Moses' life. He fled to
 
-Midian, where he lived for forty years (Acts 7:29, 30).
-
-
-### 2:22
+Midian, where he lived for forty years (Acts 7:29, 30). ### 2:22
 *(anchor: EXO.2:22)*
 
-Moses named this son Gershom, which name relates to sojourning in a foreign land.
+Moses named this son Gershom, which name relates to sojourning in a foreign land. As a man of God, he looked to the reward (Heb 11:26), which is the world to come. For
 
-As a man of God, he looked to the reward (Heb 11:26), which is the world to come. For
-
-this world is a foreign land to people of faith.
-
-
-### 2:24
+this world is a foreign land to people of faith. ### 2:24
 *(anchor: EXO.2:24)*
 
 God remembered His covenant, for His remembrance is salvation. This covenant is
@@ -148,10 +111,7 @@ the New Testament in Christ. It is called the covenant of Abraham, Isaac, and Ja
 
 instruct the Jews and all mankind that salvation comes through faith in the Lord Jesus
 
-Christ.
-
-
-### 3:2
+Christ. ### 3:2
 *(anchor: EXO.3:2)*
 
 God the Word revealed Himself to Moses in the burning bush to forecast His coming
@@ -164,42 +124,28 @@ will. For He is the Will of the Father (AthanG). He is the Only-begotten God bec
 
 is begotten from the Unbegotten Father before all time and ages (GrgNy). Isaiah the
 
-prophet called the Son "the Angel of Great Counsel" (Is 9:5).
-
-The bush was on fire but was not consumed, for the Son of God became Man to save
+prophet called the Son "the Angel of Great Counsel" (Is 9:5). The bush was on fire but was not consumed, for the Son of God became Man to save
 
 man and not to consume him. He became Man in the womb of the Mother of God, for the
 
-bush itself typifies her.
-
-
-### 3:3
+bush itself typifies her. ### 3:3
 *(anchor: EXO.3:3)*
 
 Moses was shown this great sight of the Lord's coming Incarnation because he was
 
 detached from the fleeting pleasures of this world (JohnDm, AmbM). For he was looking
 
-to the resurrection of the dead and the life of the world to come (Creed).
-
-
-### 3:4
+to the resurrection of the dead and the life of the world to come (Creed). ### 3:4
 *(anchor: EXO.3:4)*
 
 The Angel is called Lord and God, for He is the Speaker. Since He is begotten from
 
-the Father before all time and ages, He is therefore the Only-Begotten God.
-
-
-### 3:5
+the Father before all time and ages, He is therefore the Only-Begotten God. ### 3:5
 *(anchor: EXO.3:5)*
 
 Moses was to remove his sandals. This indicates that nothing dead is to stand between
 
-God and man, for He is the God of the living (AmbM).
-
-
-### 3:6
+God and man, for He is the God of the living (AmbM). ### 3:6
 *(anchor: EXO.3:6)*
 
 The Angel also called Himself the God of Abraham, the God of Isaac, and the
@@ -208,18 +154,12 @@ God of Jacob. For the Son is true God of true God, and He reveals the Father in
 
 Himself. He who sees the Son also sees the Father. He who sees the Only-begotten God
 
-also sees the Unbegotten Father.
-
-
-### 3:7
+also sees the Unbegotten Father. ### 3:7
 *(anchor: EXO.3:7)*
 
 The Lord loves His people and knows their pain and suffering, and His Incarnation is
 
-the remedy for all their sorrows.
-
-
-### 3:14
+the remedy for all their sorrows. ### 3:14
 *(anchor: EXO.3:14)*
 
 The name I AM the Existing One is the name for the Essence of God, which is one
@@ -232,66 +172,41 @@ the Father. When Jesus said He was the Existing One, the Jews who were listening
 
 up stones to stone Him, for they knew this passage in Exodus (Jn 8:57-59). He is
 
-acknowledged as the Existing One in every Vespers service of the Church.
-
-
-### 4:2
+acknowledged as the Existing One in every Vespers service of the Church. ### 4:2
 *(anchor: EXO.4:2)*
 
 , 3 The rod was Moses' staff as a shepherd. It was a type of the Cross (Jn 3:14), which is
 
 the antidote to the serpent's bite. The devil poisoned man with sin and death, but the
 
-Lord destroyed all three enemies by His Cross.
-
-
-### 4:7
+Lord destroyed all three enemies by His Cross. ### 4:7
 *(anchor: EXO.4:7)*
 
-, 8 Leprosy was a type of sin and death. The Cross heals man of his leprosy.
-
-
-### 4:14
+, 8 Leprosy was a type of sin and death. The Cross heals man of his leprosy. ### 4:14
 *(anchor: EXO.4:14)*
 
 God is dispassionate; therefore, He does not possess passion in His nature. He is said
 
 to be very angry by way of analogy with man's anger. In this sense, the Lord was
 
-displeased with Moses, but He Himself is without such passion.
-
-
-### 4:17
+displeased with Moses, but He Himself is without such passion. ### 4:17
 *(anchor: EXO.4:17)*
 
 The Son of God worked miracles through the instrument of Moses' staff. Having
 
-become incarnate, He now works miracles through the Cross.
-
-
-### 4:21
+become incarnate, He now works miracles through the Cross. ### 4:21
 *(anchor: EXO.4:21)*
 
-It is customary for Holy Scripture to call God's permission His action (JohnDm).
+It is customary for Holy Scripture to call God's permission His action (JohnDm). Therefore, when the Lord said to Moses, I will harden his heart, this hardness was by
 
-Therefore, when the Lord said to Moses, I will harden his heart, this hardness was by
-
-way of divine permission. For Pharaoh hardened his own heart through his free choice.
-
-
-### 4:22
+way of divine permission. For Pharaoh hardened his own heart through his free choice. ### 4:22
 *(anchor: EXO.4:22)*
 
-The Lord calls Israel His firstborn son. The use of the term firstborn in this verse,
-
-therefore, cannot imply other offspring born afterward. Similarly, Jesus is called the
+The Lord calls Israel His firstborn son. The use of the term firstborn in this verse, therefore, cannot imply other offspring born afterward. Similarly, Jesus is called the
 
 "firstborn" of the Virgin Mary (Mt 1:25). Therefore, no one can claim this necessarily
 
-implies she had other children, for in truth He was her only offspring.
-
-
-### 4:30
+implies she had other children, for in truth He was her only offspring. ### 4:30
 *(anchor: EXO.4:30)*
 
 , 31 The people believed, rejoiced, and worshiped because they saw the signs, but did
@@ -304,10 +219,7 @@ believed; however, He would not commit Himself to them, for they did not love Hi
 
 2:23-25). Moreover, people who ask for signs are tempters, for those who love Christ
 
-have no need for signs (JohnChr).
-
-
-### 5:2
+have no need for signs (JohnChr). ### 5:2
 *(anchor: EXO.5:2)*
 
 Pharaoh asked perhaps the most important question in human history: "Who is the
@@ -316,10 +228,7 @@ Lord?" But in his arrogance he boldly said, "I do not know the Lord." His ignora
 
 stemmed from his arrogance, for he was his own lord. Shortly, he would know Him to be
 
-the Lord of all the earth, but he would still refuse to obey Him.
-
-
-### 5:21
+the Lord of all the earth, but he would still refuse to obey Him. ### 5:21
 *(anchor: EXO.5:21)*
 
 A short time before, the clerks had believed, rejoiced, and worshiped the Lord along
@@ -332,10 +241,7 @@ suffering on the Lord's behalf results in eternal glory (2Co 4:17). But they con
 
 Moses. So although they gave mental assent to belief in the Lord, they actually had no
 
-heart for Him.
-
-
-### 5:22
+heart for Him. ### 5:22
 *(anchor: EXO.5:22)*
 
 , 23
@@ -344,10 +250,7 @@ Moses asked the Lord, "Why have You brought trouble on this people?"
 
 The answer is, "To test their faith" (see Jam 1:2-4), for such testing produces patience in
 
-those who pass the test. And Moses, along with the people, needed such patience.
-
-
-### 6:2
+those who pass the test. And Moses, along with the people, needed such patience. ### 6:2
 *(anchor: EXO.6:2)*
 
 , 3 The Son of the Father appeared to Abraham, Isaac, and Jacob as their God. He told
@@ -360,10 +263,7 @@ the Egyptians, for He is the Wisdom and Power of the Father (1Co 1:24). After He
 
 incarnate, and in many places of the New Testament, He is now called the Lord Jesus
 
-Christ.
-
-
-### 6:4
+Christ. ### 6:4
 *(anchor: EXO.6:4)*
 
 The land of Canaan is called the land of their [Abraham, Isaac, and Jacob's]
@@ -380,30 +280,21 @@ Canaan was a type of the world to come. But the Jews who came out of Egypt and d
 
 embrace this faith saw the Canaan of this world as their true home, a false vision on their
 
-part.
-
-
-### 6:7
+part. ### 6:7
 *(anchor: EXO.6:7)*
 
 The Son of the Father is speaking, and the Jews were to know that He was the Lord
 
 their God, together with His Father and the Holy Spirit. When He became incarnate, He
 
-revealed the Father and the Holy Spirit to the Jews in full measure.
-
-
-### 6:9
+revealed the Father and the Holy Spirit to the Jews in full measure. ### 6:9
 *(anchor: EXO.6:9)*
 
 The children of Israel had a heart problem--they were willing to believe, but not to
 
 suffer for the Lord's sake. Therefore, they were fainthearted and disobedient because of
 
-their cruel bondage.
-
-
-### 7:1
+their cruel bondage. ### 7:1
 *(anchor: EXO.7:1)*
 
 The Lord made Moses a god to Pharaoh, but it is one thing to be made a god and
@@ -418,30 +309,18 @@ nature. But the Son is True God of True God (Creed), because He is God both in n
 
 and in nature. For before all time and ages, He is begotten from God to be God. He is
 
-begotten, not made (Creed).
-
-
-### 7:5
+begotten, not made (Creed). ### 7:5
 *(anchor: EXO.7:5)*
 
-The Egyptians would learn that the Lord is the Lord of all, not only of the Hebrews.
-
-
-### 7:9
+The Egyptians would learn that the Lord is the Lord of all, not only of the Hebrews. ### 7:9
 *(anchor: EXO.7:9)*
 
-Thus, signs are for unbelievers (1Co 14:22).
-
-
-### 7:23
+Thus, signs are for unbelievers (1Co 14:22). ### 7:23
 *(anchor: EXO.7:23)*
 
 Pharaoh's heart was not moved by the signs toward faith in the Lord. He was too
 
-arrogant to humble himself.
-
-
-### 8:4
+arrogant to humble himself. ### 8:4
 *(anchor: EXO.8:4)*
 
 In 5:2, Pharaoh refuses to acknowledge the Lord, saying, "Who is He, that I should
@@ -450,54 +329,34 @@ obey His voice?" But now he asks for intercessory prayer to the Lord on his beha
 
 that of his people. However, he still worships the gods of Egypt; the Lord is only another
 
-god to add to his list.
-
-
-### 8:6
+god to add to his list. ### 8:6
 *(anchor: EXO.8:6)*
 
 The Lord is the Lord of all, and Pharaoh needed to realize this. He is not one among
 
-others.
-
-
-### 8:11
+others. ### 8:11
 *(anchor: EXO.8:11)*
 
 Pharaoh still refused to forsake his idols and believe in the Lord. So he hardened his
 
-heart (see note at 4:21).
-
-
-### 8:15
+heart (see note at 4:21). ### 8:15
 *(anchor: EXO.8:15)*
 
 The finger of God is the Holy Spirit (Mt 12:28; Lk 11:20). The operation of the Spirit
 
-brought the lice upon Egypt, for the Father works through the Son and in the Spirit.
-
-
-### 8:18
+brought the lice upon Egypt, for the Father works through the Son and in the Spirit. ### 8:18
 *(anchor: EXO.8:18)*
 
-Egypt's gods were lords of Egypt, but the Lord is the Lord of all the earth. Therefore,
-
-the gods of Egypt were not lords in any sense, but Pharaoh was too arrogant to
+Egypt's gods were lords of Egypt, but the Lord is the Lord of all the earth. Therefore, the gods of Egypt were not lords in any sense, but Pharaoh was too arrogant to
 
 acknowledge the true Lord. After the Lord became incarnate, His parents took Him to
 
 Egypt, where as a baby He destroyed the idols of Egypt and brought the nation to Himself
 
-(Is 19:1, 18-22).
-
-
-### 8:28
+(Is 19:1, 18-22). ### 8:28
 *(anchor: EXO.8:28)*
 
-Pharaoh hardened his own heart through free choice (see also note at 4:21).
-
-
-### 9:14-16
+Pharaoh hardened his own heart through free choice (see also note at 4:21). ### 9:14-16
 *(anchor: EXO.9:14)*
 
 The Lord of all the earth used Pharaoh to declare His mighty power throughout
@@ -506,16 +365,10 @@ the earth, for He shows compassion to whom He will, and He shows mercy to whom H
 
 will (Rom 9:17, 18). We should never inquire into why God does what He does, nor even
 
-raise any questions about it. Our response should be obedience to Him (JohnChr).
-
-
-### 9:17
+raise any questions about it. Our response should be obedience to Him (JohnChr). ### 9:17
 *(anchor: EXO.9:17)*
 
-Pharaoh's problem was self-exaltation, which opposes faith in the Lord.
-
-
-### 9:20
+Pharaoh's problem was self-exaltation, which opposes faith in the Lord. ### 9:20
 *(anchor: EXO.9:20)*
 
 , 21
@@ -526,54 +379,36 @@ the Lord. But some did not believe the Lord's word. Thus, some exercised their f
 
 believe and some did not. However, all had the opportunity to know the Lord through
 
-faith, for He desires that all be saved.
-
-
-### 10:1
+faith, for He desires that all be saved. ### 10:1
 *(anchor: EXO.10:1)*
 
 Ex 10:1, 20, 27: Both Pharaoh and his servants hardened their hearts (see note at
 
-4:21).
-
-
-### 10:2
+4:21). ### 10:2
 *(anchor: EXO.10:2)*
 
 Future generations are instructed by the Lord's works as to how easy it is for the Lord
 
 to do what He does. Recounting His works helps these generations know the true Lord of
 
-all.
-
-
-### 10:3
+all. ### 10:3
 *(anchor: EXO.10:3)*
 
 Humility is to know the Lord and to humble oneself before Him. Pharaoh refused to
 
 humble himself through his own free choice. Humility is the beginning and end of
 
-salvation (JohnChr).
-
-
-### 10:16
+salvation (JohnChr). ### 10:16
 *(anchor: EXO.10:16)*
 
 , 17
 
 Pharaoh's confession was not from his heart, for it was motivated by self-
 
-interest. He wanted death removed from him, but he still refused to glorify the Lord.
-
-
-### 10:21
+interest. He wanted death removed from him, but he still refused to glorify the Lord. ### 10:21
 *(anchor: EXO.10:21)*
 
-The soul also feels the darkness caused by unbelief.
-
-
-### 11:3
+The soul also feels the darkness caused by unbelief. ### 11:3
 *(anchor: EXO.11:3)*
 
 The Lord gave Israel grace in the sight of the Egyptians, for as the Only-begotten of
@@ -582,10 +417,7 @@ the Father, He is full of grace and truth (Jn 1:14). And as Moses became great i
 
 sight, similarly, the Incarnate Son became great in their sight when He established His
 
-Church throughout that land.
-
-
-### 12:2
+Church throughout that land. ### 12:2
 *(anchor: EXO.12:2)*
 
 The Law of Moses commanded that Pascha (or Passover) be celebrated in the
@@ -594,40 +426,28 @@ beginning of months . . . the first month of the year. But the Lord came down "a
 
 the end of the ages" (Heb 9:26), and He is "the end of the law" (Rom 10:4); therefore, He
 
-established a different day (AthanG).
-
-
-### 12:3
+established a different day (AthanG). ### 12:3
 *(anchor: EXO.12:3)*
 
 The Lord's commandment through Moses was the type, for a lamb was commanded
 
 to be sacrificed. But the incarnate Lord did not command any such thing, for He became
 
-the command itself by offering Himself as the Sacrifice to the Father (JohnChr).
-
-
-### 12:7
+the command itself by offering Himself as the Sacrifice to the Father (JohnChr). ### 12:7
 *(anchor: EXO.12:7)*
 
 The two doorposts speak of our heart and its vision and action with regard to the New
 
 Covenant made in Christ's Blood, that we might be crucified with Him and rise up to be
 
-glorified and reign with Him, both now and at His Second Coming (GrgTheo).
-
-
-### 12:10-46
+glorified and reign with Him, both now and at His Second Coming (GrgTheo). ### 12:10-46
 *(anchor: EXO.12:10)*
 
 Not a bone of Christ's Body was broken (Jn 19:33, 36), which fulfilled this
 
 commandment concerning Pascha (see also Nm 9:12). We see the strong connection
 
-between the type and the reality (JohnChr).
-
-
-### 12:11
+between the type and the reality (JohnChr). ### 12:11
 *(anchor: EXO.12:11)*
 
 The haste in eating the Lord's Pascha speaks of sojourning. Likewise, we are to
@@ -638,10 +458,7 @@ dead and the life of the world to come" (Creed). Originally, Passover was called
 
 Lord's Pascha," but later it was called "the Jews' Pascha" (see Jn 6:4), because they denied
 
-the Lord who fulfilled the type (AthanG).
-
-
-### 12:13
+the Lord who fulfilled the type (AthanG). ### 12:13
 *(anchor: EXO.12:13)*
 
 Death would not touch Israel because of the blood. Christ's Blood destroyed death
@@ -650,18 +467,12 @@ and delivers His Church from the same (Heb 2:14, 15). The firstborn were preserv
 
 God from being touched by the destroyer to show that we who were made alive in Christ
 
-no longer die in Adam (BasilG).
-
-
-### 12:14
+no longer die in Adam (BasilG). ### 12:14
 *(anchor: EXO.12:14)*
 
 This eternal memorial is fulfilled in Christ, who said the Eucharist is to be eaten "in
 
-remembrance of Me" (1Co 11:24, 25; JohnChr).
-
-
-### 12:16
+remembrance of Me" (1Co 11:24, 25; JohnChr). ### 12:16
 *(anchor: EXO.12:16)*
 
 Servile work: the things necessary to life done during the course of the Feast of
@@ -672,64 +483,39 @@ keep the feast, not with old leaven, nor with the leaven of malice and wickednes
 
 with the unleavened bread of sincerity and truth" (1Co 5:8). For this is necessary to life
 
-(JohnChr).
-
-
-### 12:22
+(JohnChr). ### 12:22
 *(anchor: EXO.12:22)*
 
 The hyssop speaks of Christ's garments that were whiter than snow in the
 
-Resurrection, and of the purity bestowed by the remission of sins in baptism (AmbM).
-
-See also Ps 50:9.
-
-
-### 12:23
+Resurrection, and of the purity bestowed by the remission of sins in baptism (AmbM). See also Ps 50:9. ### 12:23
 *(anchor: EXO.12:23)*
 
 Ex 12:23, 26, 27: Christ's Paschal sacrifice saves us from death, for He trampled
 
-down death by His death and bestowed life on those in the grave. In the eucharistic cup,
-
-His precious Blood saves us from death.
-
-
-### 12:30
+down death by His death and bestowed life on those in the grave. In the eucharistic cup, His precious Blood saves us from death. ### 12:30
 *(anchor: EXO.12:30)*
 
 A great cry arose throughout Egypt because they had no hope beyond this life and
 
-were without God in this world (Eph 2:12).
-
-
-### 12:33
+were without God in this world (Eph 2:12). ### 12:33
 *(anchor: EXO.12:33)*
 
-The Egyptians lived under the fear of death (Heb 2:15).
-
-
-### 12:38-48
+The Egyptians lived under the fear of death (Heb 2:15). ### 12:38-48
 *(anchor: EXO.12:38)*
 
 A mixed multitude of Gentiles also went with Israel because they believed. But
 
 those who wished to partake of Pascha had to be circumcised. Similarly, baptism is the
 
-door to the Eucharist.
-
-
-### 13:1
+door to the Eucharist. ### 13:1
 *(anchor: EXO.13:1)*
 
 The sanctification of the firstborn foreshadows the Incarnation of the Son of God. For
 
 He is the Firstborn of the Mother of God (Mt 1:25; Lk 2:7). The Church of the Firstborn
 
-are His brethren, whose names are registered in heaven (Heb 2:11, 17; 12:23).
-
-
-### 13:22
+are His brethren, whose names are registered in heaven (Heb 2:11, 17; 12:23). ### 13:22
 *(anchor: EXO.13:22)*
 
 The pillar of cloud by day and the pillar of fire by night speak of baptism, the
@@ -740,18 +526,12 @@ foreshadowing of the Holy Spirit, who in baptism cools the flame of the sinful p
 
 (BasilG). As one walks in his baptism, the Holy Spirit enlightens him on the pathway to
 
-the resurrection from the dead and the life of the world to come.
-
-
-### 14:15
+the resurrection from the dead and the life of the world to come. ### 14:15
 *(anchor: EXO.14:15)*
 
 Moses cried out to the Lord with inward tears in the silence of his heart, and the
 
-Lord answered him (GrgTheo; JohnChr; GrgNy).
-
-
-### 14:19-24
+Lord answered him (GrgTheo; JohnChr; GrgNy). ### 14:19-24
 *(anchor: EXO.14:19)*
 
 The Angel of God the Father is the Lord, who looked down through the pillar of
@@ -760,52 +540,35 @@ fire and cloud. He is the Only-begotten God, because He is begotten from the Unb
 
 Father before all time and ages (GrgNy). Thus, the Son of God troubled the army of the
 
-Egyptians.
-
-
-### 14:21
+Egyptians. ### 14:21
 *(anchor: EXO.14:21)*
 
 Moses accomplished what he did through prayer and as a servant of Christ, but
 
 Christ Himself walked on the Sea of Galilee by His own absolute power (Mt 14:25). Job
 
-9:8 prophesied of Christ, "who walks on the sea as on firm ground" (JohnChr).
-
-
-### 14:22
+9:8 prophesied of Christ, "who walks on the sea as on firm ground" (JohnChr). ### 14:22
 *(anchor: EXO.14:22)*
 
 Based on their own nature, the waters of the sea could not form walls on either side
 
 of Israel as they walked through. But through the prophetic office of Moses, the sea's
 
-nature was changed. This shows that the power of blessing is greater than that of nature,
-
-for Israel was blessed with deliverance. Similarly, the power of blessing is greater than
+nature was changed. This shows that the power of blessing is greater than that of nature, for Israel was blessed with deliverance. Similarly, the power of blessing is greater than
 
 nature when the bread and wine of the Eucharist become in a mystery the Body and
 
-Blood of Christ (AmbM).
-
-
-### 14:27
+Blood of Christ (AmbM). ### 14:27
 *(anchor: EXO.14:27)*
 
 , 28 Pharaoh and his servants are types of the devil and his angels, whom the Lord
 
-destroyed on the Cross and in the waters of baptism (BasilG; GrgNy).
-
-
-### 15:1
+destroyed on the Cross and in the waters of baptism (BasilG; GrgNy). ### 15:1
 *(anchor: EXO.15:1)*
 
 The Egyptians were thrown into the sea. Their opposition to Israel was instigated
 
-by the devil (AthanG).
-
-
-### 15:2
+by the devil (AthanG). ### 15:2
 *(anchor: EXO.15:2)*
 
 The verb translated became means "to make." Thus, in what sense was the Lord
@@ -814,54 +577,33 @@ made? In the sense of His Incarnation (AmbM). For He "became flesh" (Jn 1:14) to
 
 become man's helper and shield in salvation. This prophecy also acknowledges the
 
-Incarnate Lord as God (my God and my father's God).
-
-
-### 15:6-12
+Incarnate Lord as God (my God and my father's God). ### 15:6-12
 *(anchor: EXO.15:6)*
 
 The right hand of God is the Son of the Father (BasilG; AmbM). As the hand is
 
-one in essence with its body, similarly, the Son is one in essence with the Father.
-
-
-### 15:8-10
+one in essence with its body, similarly, the Son is one in essence with the Father. ### 15:8-10
 *(anchor: EXO.15:8)*
 
-The Spirit is the Holy Spirit (AmbM).
-
-
-### 15:16
+The Spirit is the Holy Spirit (AmbM). ### 15:16
 *(anchor: EXO.15:16)*
 
 The Lord gave the enemy a spirit of fear, in contrast to the spirit "of power and of
 
-love and of a sound mind" that He gives the faithful (2Ti 1:7; JohnChr).
-
-
-### 15:21
+love and of a sound mind" that He gives the faithful (2Ti 1:7; JohnChr). ### 15:21
 *(anchor: EXO.15:21)*
 
 Miriam was a type of the Mother of God (GrgNy) and of the Church (AmbM). The
 
-Mother of God leads the Church in songs of praise to the Lord.
-
-
-### 15:22-1
+Mother of God leads the Church in songs of praise to the Lord. ### 15:22-1
 *(anchor: EXO.15:22)*
 
-These verses are read during the Feast of the Precious and Life-giving Cross.
-
-
-### 15:23
+These verses are read during the Feast of the Precious and Life-giving Cross. ### 15:23
 *(anchor: EXO.15:23)*
 
 The waters of Marah were called Bitterness, which describes man's condition apart
 
-from the grace of Christ.
-
-
-### 15:25
+from the grace of Christ. ### 15:25
 *(anchor: EXO.15:25)*
 
 The tree cast into the waters made them fit for the people to drink. This tree speaks
@@ -870,62 +612,38 @@ of the Cross of Christ and baptism (AmbM). For the Cross is baptism, and baptism
 
 Cross. The Cross is in the baptismal water, and the baptismal water is in the Cross. This is
 
-why baptism saves man (1Pt 3:21).
-
-
-### 15:26
+why baptism saves man (1Pt 3:21). ### 15:26
 *(anchor: EXO.15:26)*
 
-God heals those who hear His voice and obey Him.
-
-
-### 15:27
+God heals those who hear His voice and obey Him. ### 15:27
 *(anchor: EXO.15:27)*
 
-Israel camped by twelve fountains of water and seventy palm trees. Similarly,
-
-the Twelve Apostles of Christ were twelve fountains of spiritual water, which quenches
+Israel camped by twelve fountains of water and seventy palm trees. Similarly, the Twelve Apostles of Christ were twelve fountains of spiritual water, which quenches
 
 the thirst of those who seek the true God. Also, Christ sent forth the Seventy to provide
 
-heavenly shade from desert heat.
-
-
-### 16:2-8
+heavenly shade from desert heat. ### 16:2-8
 *(anchor: EXO.16:2)*
 
 The entire congregation complained against the godly leadership, but they were
 
-actually complaining against God. This sin arose from the sins of gluttony and unbelief.
+actually complaining against God. This sin arose from the sins of gluttony and unbelief. These sins led them into rebellion against the Lord and His appointed leadership, and
 
-These sins led them into rebellion against the Lord and His appointed leadership, and
-
-their complaining ultimately caused their destruction in the desert (Heb 3:7-11).
-
-Similarly, the Church suffers when its members complain (1Co 10:10).
-
-
-### 16:3
+their complaining ultimately caused their destruction in the desert (Heb 3:7-11). Similarly, the Church suffers when its members complain (1Co 10:10). ### 16:3
 *(anchor: EXO.16:3)*
 
 The Egyptians were gluttons (pots of meat), and the Hebrews followed their
 
 example (JohnChr). They refused to renounce this sin (JohnCas). The New Testament
 
-also warns against the sin of gluttony (Php 3:19).
-
-
-### 16:4
+also warns against the sin of gluttony (Php 3:19). ### 16:4
 *(anchor: EXO.16:4)*
 
 The Lord rained bread out of heaven for them. It was a type of Christ, "the bread
 
 of life" (Jn 6:48-51). In the Church, He gives Himself and His life to the Church in the
 
-Eucharist (Jn 6:53-58).
-
-
-### 16:13
+Eucharist (Jn 6:53-58). ### 16:13
 *(anchor: EXO.16:13)*
 
 , 14
@@ -934,98 +652,59 @@ Israel saw the quail and the manna with their physical eyes, but these things
 
 were limited to this present life. The future life in the world to come is seen by those who
 
-walk in the Spirit (1Co 2:9, 10; AmbM).
-
-
-### 16:18
+walk in the Spirit (1Co 2:9, 10; AmbM). ### 16:18
 *(anchor: EXO.16:18)*
 
 Each one gathered what he needed. This shows the need for moderation in relation
 
-to the body (GrgNy).
-
-
-### 16:20
+to the body (GrgNy). ### 16:20
 *(anchor: EXO.16:20)*
 
 Some of them left the manna over until the next morning because they were
 
 covetous. The leftovers bred worms and stank. Covetousness is a foul-smelling sin
 
-(JohnChr).
-
-
-### 16:29
+(JohnChr). ### 16:29
 *(anchor: EXO.16:29)*
 
 Every man was to remain in his house on the Sabbath. Yet the Jewish leaders left
 
-their houses, contrary to the Law of Moses, to plot against Jesus (Mt 27:62-66;
-
-JohnChr). They broke the Law to plot against the Lawgiver.
-
-
-### 16:33
+their houses, contrary to the Law of Moses, to plot against Jesus (Mt 27:62-66; JohnChr). They broke the Law to plot against the Lawgiver. ### 16:33
 *(anchor: EXO.16:33)*
 
 Manna was a type of Christ as the Bread of Life, and the golden pot a type of the
 
 Mother of God. For Christ became the Bread of Life in her holy womb for the salvation of
 
-the world.
-
-
-### 17:6
+the world. ### 17:6
 *(anchor: EXO.17:6)*
 
 The rock was a type of the Son of God (1Co 10:4; AmbM). He stood on the rock in
 
 Horeb and caused it to pour forth water. Rocks do not pour forth water by nature, but in a
 
-mystery this rock did. It remained a rock but simultaneously became a fountain.
-
-Similarly, bread and wine are not by nature the Body and Blood of Christ, but in a mystery
+mystery this rock did. It remained a rock but simultaneously became a fountain. Similarly, bread and wine are not by nature the Body and Blood of Christ, but in a mystery
 
 they become so. They remain bread and wine, but simultaneously are Christ's Body and
 
-Blood.
-
-
-### 17:11
+Blood. ### 17:11
 *(anchor: EXO.17:11)*
 
-Although Moses was silent, he was crying out to God, and although he was at ease,
-
-he was triumphing (AmbM; GrgTheo). His body was still, but he was actively engaged in
+Although Moses was silent, he was crying out to God, and although he was at ease, he was triumphing (AmbM; GrgTheo). His body was still, but he was actively engaged in
 
 spiritual warfare. Triumph in spiritual warfare comes through stillness in prayer and
 
-through the victory of the Cross.
-
-
-### 17:12
+through the victory of the Cross. ### 17:12
 *(anchor: EXO.17:12)*
 
-Moses' hands were outstretched by Aaron and Hur, which was a type of the Cross.
-
-However, Christ alone outstretched His hands in triumph over the enemy (JohnChr;
-
-GrgTheo).
-
-
-### 18:3
+Moses' hands were outstretched by Aaron and Hur, which was a type of the Cross. However, Christ alone outstretched His hands in triumph over the enemy (JohnChr; GrgTheo). ### 18:3
 *(anchor: EXO.18:3)*
 
 , 4 The names of Moses' two sons summarize two aspects of salvation. One aspect is
 
-deliverance from Pharaoh and the Egyptians, who were a type of sin, death, and the devil.
+deliverance from Pharaoh and the Egyptians, who were a type of sin, death, and the devil. Another aspect is sojourning in a foreign land: this world was not Moses' true home, for
 
-Another aspect is sojourning in a foreign land: this world was not Moses' true home, for
-
-he looked to the reward of the world to come (Heb 11:26).
-
-
-### 18:14
+he looked to the reward of the world to come (Heb 11:26). ### 18:14
 *(anchor: EXO.18:14)*
 
 Although Moses had done mighty works in God, he was still only a man and needed
@@ -1034,34 +713,22 @@ wise counsel. Similarly, wise leaders in the Church seek the godly counsel of ot
 
 they are not dictators. Rather, they are counselors who seek the wise counsel of others
 
-(JohnChr).
-
-
-### 19:4
+(JohnChr). ### 19:4
 *(anchor: EXO.19:4)*
 
 The Son of God brought Israel to Himself from Egyptian bondage. This prefigures His
 
-Incarnation, by which He brings the Church to Himself as the Great High Priest (AmbM).
-
-
-### 19:6
+Incarnation, by which He brings the Church to Himself as the Great High Priest (AmbM). ### 19:6
 *(anchor: EXO.19:6)*
 
 The children of Israel were to be a holy nation and a royal priesthood. These things
 
-were fulfilled in the Church (1Pt 2:4-10).
-
-
-### 19:8
+were fulfilled in the Church (1Pt 2:4-10). ### 19:8
 *(anchor: EXO.19:8)*
 
 They said they would obey but did not, "for not the hearers of the law are just in the
 
-sight of God, but the doers of the law will be justified" (Rom 2:13; JohnChr).
-
-
-### 19:14
+sight of God, but the doers of the law will be justified" (Rom 2:13; JohnChr). ### 19:14
 *(anchor: EXO.19:14)*
 
 , 15
@@ -1070,58 +737,39 @@ The washing of clothes and refraining from wives speak of spiritual seed
 
 conceived through the love and fear of God in the spiritual womb, travailing and bringing
 
-forth the spirit of salvation (JohnDm).
-
-
-### 19:17
+forth the spirit of salvation (JohnDm). ### 19:17
 *(anchor: EXO.19:17)*
 
 Ex 19:17, 20, 21: Moses brought out the people to meet with God, that is, with God
 
 the Son. He is the Lord who came down on Mt. Sinai, and He is God, for it was He who
 
-spoke to Moses on the mountain (HilryP).
-
-
-### 19:19
+spoke to Moses on the mountain (HilryP). ### 19:19
 *(anchor: EXO.19:19)*
 
 The Jews acknowledged that God spoke to Moses, but said concerning Jesus they
 
-did not know where He was from (Jn 9:29). Yet it was He who spoke to Moses on Mt.
-
-Sinai.
-
-
-### 20:1
+did not know where He was from (Jn 9:29). Yet it was He who spoke to Moses on Mt. Sinai. ### 20:1
 *(anchor: EXO.20:1)*
 
 All these words refers to the Ten Commandments. But what need was there for
 
 these to be written? For God implanted all His laws in man's nature when He created
 
-him. It was necessary because of free will and man's corruption through sin (JohnCas;
-
-see also Rom 2:14, 15). However, the written law is a lower standard than the law of
+him. It was necessary because of free will and man's corruption through sin (JohnCas; see also Rom 2:14, 15). However, the written law is a lower standard than the law of
 
 nature (JohnChr), for these commandments in the Old Testament condescend to man's
 
 weakness and thus refer only to keeping the body pure. But in the New Testament, the
 
-law of Christ elevates man to be pure in both body and soul.
-
-
-### 20:2
+law of Christ elevates man to be pure in both body and soul. ### 20:2
 *(anchor: EXO.20:2)*
 
 It is not enough to be brought out of Egypt, out of the house of bondage into
 
 freedom. Far greater than this, Christ gave Himself for us to free us from our sins and to
 
-lead us into the true freedom of the children of God (Rom 8:21; AmbM).
-
-
-### 20:3
+lead us into the true freedom of the children of God (Rom 8:21; AmbM). ### 20:3
 *(anchor: EXO.20:3)*
 
 The Lord our God is the true Son of the true Father; thus we do not worship any false
@@ -1130,12 +778,7 @@ god (GrgNy). However, false gods do not exist in themselves, for this commandmen
 
 refers to the future, and what is in the future does not yet exist (AthanG). But the Son is
 
-true God of true God; therefore, He exists eternally with the Father and the Holy Spirit.
-
-We worship the Father and the Son and the Holy Spirit, our one God.
-
-
-### 20:4-23
+true God of true God; therefore, He exists eternally with the Father and the Holy Spirit. We worship the Father and the Son and the Holy Spirit, our one God. ### 20:4-23
 *(anchor: EXO.20:4)*
 
 An idol, or image, depicts some god as having a form or shape, but the true God
@@ -1146,58 +789,38 @@ these foreshadowed the Incarnation of the Son of God, whom we worship both as Go
 
 and Man. Also, icons used in Church worship do not depict the divine nature. They draw
 
-attention to the Incarnation.
-
-
-### 20:5
+attention to the Incarnation. ### 20:5
 *(anchor: EXO.20:5)*
 
 God is without passion, but He condescends to call Himself a jealous God to show
 
 the intensity of His love for man. Therefore, let us love Him with intensity, for this is very
 
-pleasing to Him (JohnChr).
-
-
-### 20:12
+pleasing to Him (JohnChr). ### 20:12
 *(anchor: EXO.20:12)*
 
 God offers no rewards in the prohibitions of the Ten Commandments. God's
 
 promise of reward is offered to those who keep the positive ones. For example, to honor
 
-one's father and mother is the first commandment in the Ten to promise a reward,
-
-namely, a long and spiritually prosperous life on earth (Eph 6:1, 2; JohnChr).
-
-
-### 20:13
+one's father and mother is the first commandment in the Ten to promise a reward, namely, a long and spiritually prosperous life on earth (Eph 6:1, 2; JohnChr). ### 20:13
 *(anchor: EXO.20:13)*
 
 , 14
 
 All sinful passions are evil, but murder is listed before adultery because it is
 
-worse than lust (JohnChr).
-
-
-### 20:17
+worse than lust (JohnChr). ### 20:17
 *(anchor: EXO.20:17)*
 
 Evil desire is an ancient vice, especially the love of money, and this commandment
 
-was given to check it (AmbM).
-
-
-### 20:19
+was given to check it (AmbM). ### 20:19
 *(anchor: EXO.20:19)*
 
 Moses was a mediator between God and the people, and they believed him. In this
 
-sense, he was a type of Christ, the Mediator between God and man (1Ti 2:5; BasilG).
-
-
-### 20:21
+sense, he was a type of Christ, the Mediator between God and man (1Ti 2:5; BasilG). ### 20:21
 *(anchor: EXO.20:21)*
 
 The Son of God humbled Himself to allow Moses to see and talk with Him
@@ -1208,52 +831,27 @@ us. He, the Father, and the Holy Spirit dwell in the thick darkness, that is, Th
 
 be comprehended in Their nature or essence. We cannot know God in His essence; we
 
-can only know Him through the revelation of the Son.
-
-
-### 20:24-26
+can only know Him through the revelation of the Son. ### 20:24-26
 *(anchor: EXO.20:24)*
 
-Man is not to worship before idols. Israel worshiped the true God at an altar.
+Man is not to worship before idols. Israel worshiped the true God at an altar. The Church also worships the true God at an altar (Heb 13:10). 20:24-26
 
-The Church also worships the true God at an altar (Heb 13:10).
-
-20:24-26
-
-Man is not to worship before idols. Israel worshiped the true God at an altar.
-
-The Church also worships the true God at an altar (Heb 13:10).
-
-
-### 21:5
+Man is not to worship before idols. Israel worshiped the true God at an altar. The Church also worships the true God at an altar (Heb 13:10). ### 21:5
 *(anchor: EXO.21:5)*
 
 , 6 The Law honored free will, for the permanent relationship of servant to master was
 
-based on it. Similarly, our service to the Lord Jesus Christ is based on free will.
-
-
-### 21:13
+based on it. Similarly, our service to the Lord Jesus Christ is based on free will. ### 21:13
 *(anchor: EXO.21:13)*
 
-The Word of the Father appointed cities of refuge, and when He became incarnate,
-
-He also commanded, "When they persecute you in this city, flee into another" (Mt 10:23;
-
-AthanG).
-
-
-### 21:16
+The Word of the Father appointed cities of refuge, and when He became incarnate, He also commanded, "When they persecute you in this city, flee into another" (Mt 10:23; AthanG). ### 21:16
 *(anchor: EXO.21:16)*
 
 The Law imposed the death penalty for cursing one's father or mother. Similarly, the
 
 heretics curse the Holy Fathers and the teachings of the Church. They constantly change
 
-their own teachings, because they cannot find Christ, the Wisdom of God (AthanG).
-
-
-### 21:24
+their own teachings, because they cannot find Christ, the Wisdom of God (AthanG). ### 21:24
 *(anchor: EXO.21:24)*
 
 The Law allowed vengeance to be taken on one's enemy, but the saints in the Old
@@ -1264,64 +862,39 @@ deprivation from their enemies (Heb 11:37, 38). The law of Christ would have our
 
 patience proved by the injuries and blows offered to us being redoubled, and bids us be
 
-ready to endure twice as much damage (Mt 5:38, 39; JohnCas).
-
-
-### 22:20
+ready to endure twice as much damage (Mt 5:38, 39; JohnCas). ### 22:20
 *(anchor: EXO.22:20)*
 
 The children of Israel were to be a holy people in their behavior toward one
 
-another. Holiness in personal relationships was to be motivated by one commandment:
-
-"You shall love your neighbor as yourself," and this applied to both fellow Israelites and
+another. Holiness in personal relationships was to be motivated by one commandment: "You shall love your neighbor as yourself," and this applied to both fellow Israelites and
 
 resident aliens (Lv 19:18, 34). All the ordinances given Israel regarding neighbors are
 
-summed up in this one commandment (Rom 13:9).
-
-
-### 23:1
+summed up in this one commandment (Rom 13:9). ### 23:1
 *(anchor: EXO.23:1)*
 
 One should never accept a report that belittles someone without investigating its
 
-validity, for the Holy Spirit warns against circulating a false report (BasilG).
-
-
-### 23:2
+validity, for the Holy Spirit warns against circulating a false report (BasilG). ### 23:2
 *(anchor: EXO.23:2)*
 
-The majority are not always right. Sometimes they pervert justice.
-
-
-### 23:3
+The majority are not always right. Sometimes they pervert justice. ### 23:3
 *(anchor: EXO.23:3)*
 
 If a poor man is not to be shown partiality, much less the rich. This holds true not
 
-only for judges in the courts but also for all men, for justice is to be kept pure (JohnChr).
-
-
-### 23:4
+only for judges in the courts but also for all men, for justice is to be kept pure (JohnChr). ### 23:4
 *(anchor: EXO.23:4)*
 
 , 5 If we are to return an enemy's domestic animal that is straying, how much more
 
-are we to return his soul and that of our friends to God (JohnChr).
-
-
-### 23:10-12
+are we to return his soul and that of our friends to God (JohnChr). ### 23:10-12
 *(anchor: EXO.23:10)*
 
-Love of God and neighbor also includes love of creation, for the land needs rest.
+Love of God and neighbor also includes love of creation, for the land needs rest. And this benefits both the poor and the wild animals. Then too, man is refreshed, for the
 
-And this benefits both the poor and the wild animals. Then too, man is refreshed, for the
-
-Sabbath is made for man and creation, and not man and creation for the Sabbath.
-
-
-### 23:15
+Sabbath is made for man and creation, and not man and creation for the Sabbath. ### 23:15
 *(anchor: EXO.23:15)*
 
 When you appear before God, do not appear before Him empty-handed. This applies
@@ -1330,10 +903,7 @@ to almsgiving, for when you enter before God to implore mercy, you must first sh
 
 mercy. Make God your debtor, then offer your prayers. Lend to Him, then ask for a
 
-return, and you will receive it with interest (JohnChr).
-
-
-### 23:20
+return, and you will receive it with interest (JohnChr). ### 23:20
 *(anchor: EXO.23:20)*
 
 This is the Angel who said to Moses, "I AM the Existing One" (3:14). He is the Onlybegotten God, because He is begotten from the Unbegotten Father before all time and
@@ -1342,22 +912,14 @@ ages. He is called Angel to distinguish Him from the Father. The word angel mean
 
 messenger, and this Angel reveals the will of the Father to man. Moses believed in the
 
-Holy Trinity (GrgNy). Thus, "My" refers to the Father, and "Angel" refers to the Son.
-
-
-### 23:21
+Holy Trinity (GrgNy). Thus, "My" refers to the Father, and "Angel" refers to the Son. ### 23:21
 *(anchor: EXO.23:21)*
 
 This Angel has the authority to forgive sins, for the Father's name is in Him. The
 
 Father's name is the Lord; therefore, the Son is also called by this name (AmbM). When
 
-He became incarnate, He also forgave sins. But the Jews challenged His authority in vain,
-
-because they did not believe He was the Son of God (Mt 9:1-7).
-
-
-### 23:22
+He became incarnate, He also forgave sins. But the Jews challenged His authority in vain, because they did not believe He was the Son of God (Mt 9:1-7). ### 23:22
 *(anchor: EXO.23:22)*
 
 Israel was to be a royal priesthood and a holy nation based on obedience to
@@ -1368,28 +930,19 @@ nation disobeyed Him. Therefore, He took the kingdom away from Israel and gave i
 
 nation bearing the fruits of it (Mt 21:43). This nation consists of the obedient in the
 
-Church, both Jews and Gentiles (1Pt 2:9, 10).
-
-
-### 23:23
+Church, both Jews and Gentiles (1Pt 2:9, 10). ### 23:23
 *(anchor: EXO.23:23)*
 
 Again, My Angel is the Son of the Father. He led Israel into the land of promise
 
 (JohnCas). He also became incarnate to lead us into the world to come. Moses believed in
 
-the Holy Trinity and in the Incarnation.
-
-
-### 23:25
+the Holy Trinity and in the Incarnation. ### 23:25
 *(anchor: EXO.23:25)*
 
 The Word commanded them to serve the Lord their God, who is the Father. The
 
-Word incarnate now draws all who obey Him into the service of His Father.
-
-
-### 23:26
+Word incarnate now draws all who obey Him into the service of His Father. ### 23:26
 *(anchor: EXO.23:26)*
 
 The Lord promises to fulfill the number of our days if we truly serve Him. Those
@@ -1398,10 +951,7 @@ who do so will not die before their service is completed. Abraham was an example
 
 (Gn 25:8), and the Psalmist prays, "Take me not away in the midst of my days" (Ps
 
-101:25; AthanG).
-
-
-### 24:1
+101:25; AthanG). ### 24:1
 *(anchor: EXO.24:1)*
 
 , 2 Moses alone could draw near to God because he had the unquenchable grace of the
@@ -1414,42 +964,27 @@ quenching the Spirit, he did not mean the Spirit is placed in the power of men a
 
 to suffer anything from them. Rather, evil and unthankful people are such who wish to
 
-quench Him (AthanG).
-
-
-### 24:3
+quench Him (AthanG). ### 24:3
 *(anchor: EXO.24:3)*
 
 The people said they would do all the Lord's words, but saying is one thing and
 
-doing another. So the Apostle John said we are to love "in deed and in truth" (1Jn 3:18).
-
-
-### 24:4-8
+doing another. So the Apostle John said we are to love "in deed and in truth" (1Jn 3:18). ### 24:4-8
 *(anchor: EXO.24:4)*
 
 Moses' activity prefigured four things involved in worship: Scripture, the altar, the
 
-Church (the twelve stones), and the Blood of Christ (Heb 9:19-24).
-
-
-### 24:12-18
+Church (the twelve stones), and the Blood of Christ (Heb 9:19-24). ### 24:12-18
 *(anchor: EXO.24:12)*
 
 These verses are read as the first reading during the Feast of the Holy
 
-Transfiguration.
-
-
-### 24:15
+Transfiguration. ### 24:15
 *(anchor: EXO.24:15)*
 
 Joshua, too, was covered by the sacred cloud, for he had the grace of the Spirit
 
-(AmbM).
-
-
-### 24:18
+(AmbM). ### 24:18
 *(anchor: EXO.24:18)*
 
 Moses broke the law regarding the Sabbath, which requires rest but not fasting. Yet
@@ -1458,22 +993,14 @@ he was guiltless in spite of journeying on the mountain and fasting for forty da
 
 nights. He directed his whole desire toward God, and his anger against the enemies of
 
-God. This foreshadowed grace, in which the Sabbath Day would be fulfilled. Under grace,
-
-we no longer serve God one day a week, but we are to direct our whole desire toward God
+God. This foreshadowed grace, in which the Sabbath Day would be fulfilled. Under grace, we no longer serve God one day a week, but we are to direct our whole desire toward God
 
 and our anger toward the devil throughout our life. We also cause our bodies to cease
 
-from sin and urge them forward to assist our obedience to the divine precepts (JohnDm).
-
-
-### 25:1
+from sin and urge them forward to assist our obedience to the divine precepts (JohnDm). ### 25:1
 *(anchor: EXO.25:1)*
 
-The Law of Moses honored free will.
-
-
-### 25:9
+The Law of Moses honored free will. ### 25:9
 *(anchor: EXO.25:9)*
 
 The use of icons in the Church is not idol worship. For God commanded Israel to use
@@ -1482,10 +1009,7 @@ icons in their worship. These icons were the pattern of the tabernacle and the
 
 pattern of all its furnishings. The honor given the icons in the Church passes over to
 
-the prototype (JohnDm; BasilG).
-
-
-### 25:10
+the prototype (JohnDm; BasilG). ### 25:10
 *(anchor: EXO.25:10)*
 
 The first thing made for the tabernacle was the ark of testimony, because it
@@ -1498,44 +1022,27 @@ budded, and the Ten Commandments (Heb 9:4). For He is the heavenly manna, His de
 
 and Resurrection are life-giving, and He is the Lawgiver and the fulfiller of the Law He
 
-gave.
-
-
-### 25:18
+gave. ### 25:18
 *(anchor: EXO.25:18)*
 
-The holy angels are members of the Church.
-
-
-### 25:22
+The holy angels are members of the Church. ### 25:22
 *(anchor: EXO.25:22)*
 
-God does not make Himself known in His essence, for no creature can know this.
-
-God makes Himself known in intimate communion (BasilG).
-
-
-### 25:40
+God does not make Himself known in His essence, for no creature can know this. God makes Himself known in intimate communion (BasilG). ### 25:40
 *(anchor: EXO.25:40)*
 
 The pattern shown Moses on the mountain speaks of true worship in the
 
 heavenly holy of holies (Heb 8:5). The pattern speaks of Christ, the Mother of God, and
 
-the Church.
-
-
-### 26:31
+the Church. ### 26:31
 *(anchor: EXO.26:31)*
 
 The veil was a type of the life-giving flesh of Christ (Heb 10:20; Jn 6:51). In a
 
 mystery, the bread and wine of the Eucharist become the Body and Blood of Christ, which
 
-give life to the faithful.
-
-
-### 28:17-20
+give life to the faithful. ### 28:17-20
 *(anchor: EXO.28:17)*
 
 The twelve stones speak of twelve names of Christ by which our holy faith is
@@ -1546,30 +1053,21 @@ undivided from Him. He is called God and Word (Jn 1:1), Son and Only-begotten (J
 
 1:18), Brightness and Impress (Heb 1:3), Mirror (Jn 14:9) and Image (Col 1:15), Wisdom
 
-and Power (1Co 1:24), and Truth and Life (Jn 14:6; AmbM).
-
-
-### 29:5
+and Power (1Co 1:24), and Truth and Life (Jn 14:6; AmbM). ### 29:5
 *(anchor: EXO.29:5)*
 
 Aaron was not born a high priest, but when God willed, he became one. And when
 
 God willed, the Word became flesh, and as High Priest He offered Himself to the Father
 
-to cleanse us from all sin by His precious Blood (AthanG).
-
-
-### 29:14
+to cleanse us from all sin by His precious Blood (AthanG). ### 29:14
 *(anchor: EXO.29:14)*
 
 The flesh of the sin offering was burned outside the camp. Similarly, no one placed
 
 amid the evil of this world can lay aside sin, nor is his blood acceptable to God, unless he
 
-put away the defilement of the body (AmbM).
-
-
-### 30:10
+put away the defilement of the body (AmbM). ### 30:10
 *(anchor: EXO.30:10)*
 
 The Law of Moses was a type and shadow of the New Covenant made in Christ. For
@@ -1584,70 +1082,43 @@ cleanse and perfect the conscience of the worshipers. But Christ our Great High 
 
 entered the holy of holies once for all, and His precious blood cleanses and perfects the
 
-conscience of the worshipers. The blessing of a cleansed conscience is unspeakable joy,
+conscience of the worshipers. The blessing of a cleansed conscience is unspeakable joy, and in the Eucharist the faithful enter the heavenly holy of holies to partake of this
 
-and in the Eucharist the faithful enter the heavenly holy of holies to partake of this
-
-cleansing and perfection (Heb 9).
-
-
-### 31:3
+cleansing and perfection (Heb 9). ### 31:3
 *(anchor: EXO.31:3)*
 
-The divine Spirit is the Holy Spirit (BasilG; GrgTheo; CyrJer).
-
-
-### 31:15
+The divine Spirit is the Holy Spirit (BasilG; GrgTheo; CyrJer). ### 31:15
 *(anchor: EXO.31:15)*
 
 The penalty for breaking the Sabbath was death. Yet the Jewish leaders did not rest
 
 on the Sabbath (Mt 27:62-66), but were running around and seeking to keep Christ in the
 
-tomb (AthanG).
-
-
-### 31:18
+tomb (AthanG). ### 31:18
 *(anchor: EXO.31:18)*
 
-The finger of God is the Holy Spirit (Mt 12:28; Lk 11:20).
-
-
-### 32:1-6
+The finger of God is the Holy Spirit (Mt 12:28; Lk 11:20). ### 32:1-6
 *(anchor: EXO.32:1)*
 
 These words were written to warn everyone to beware of spiritual arrogance, for
 
-anyone can fall into sin if he fails to guard against temptation (1Co 10:6-12).
-
-
-### 32:10-32
+anyone can fall into sin if he fails to guard against temptation (1Co 10:6-12). ### 32:10-32
 *(anchor: EXO.32:10)*
 
 Moses performed many great wonders and signs, but nothing made him as great
 
-as the love he showed in these statements. For he looked to the interest of his neighbors.
+as the love he showed in these statements. For he looked to the interest of his neighbors. He distinguished between God's work and the devil's work, for he loved them as God's
 
-He distinguished between God's work and the devil's work, for he loved them as God's
+handiwork while hating their evil behavior. He did not despise them, but only their sin. He chose rather to perish with them than to be saved without them. He would rather
 
-handiwork while hating their evil behavior. He did not despise them, but only their sin.
-
-He chose rather to perish with them than to be saved without them. He would rather
-
-perish with them than have the honor of a great nation (JohnChr).
-
-
-### 32:34
+perish with them than have the honor of a great nation (JohnChr). ### 32:34
 *(anchor: EXO.32:34)*
 
 My Angel is the Only-begotten God and Son of the Father. He is called "Angel" (or
 
 "Messenger") because He reveals the Father's will to man (GrgNy). For He is the Will of
 
-the Father (AthanG).
-
-
-### 33:3
+the Father (AthanG). ### 33:3
 *(anchor: EXO.33:3)*
 
 Ex 33:3, 12-17: My Angel is the Son of the Father, and He sent Him to lead Israel to
@@ -1658,10 +1129,7 @@ of the Father (AthanG). He is the Angel who appeared to Moses in Exodus 3 and sa
 
 AM the Existing One" (3:2, 14). The Father also sent Him to become incarnate for the
 
-salvation of the world (1Jn 4:14).
-
-
-### 33:7
+salvation of the world (1Jn 4:14). ### 33:7
 *(anchor: EXO.33:7)*
 
 Moses pitched the tabernacle outside the camp, far from the camp. Everyone
@@ -1670,18 +1138,12 @@ who sought the Lord went outside the camp. When the Lord became incarnate, He
 
 suffered on the Cross outside Jerusalem. Those who wish to find Him must leave the
 
-earthly Jerusalem to find Him in the heavenly Jerusalem (Heb 13:12-14; AmbM).
-
-
-### 33:19
+earthly Jerusalem to find Him in the heavenly Jerusalem (Heb 13:12-14; AmbM). ### 33:19
 *(anchor: EXO.33:19)*
 
 The Lord has mercy and compassion on whom He wills, because He alone knows
 
-the secrets of the heart and who is worthy and who is not (JohnChr).
-
-
-### 33:20
+the secrets of the heart and who is worthy and who is not (JohnChr). ### 33:20
 *(anchor: EXO.33:20)*
 
 No man can see the essence of the Father ("My face"), either in this world or in the
@@ -1690,18 +1152,12 @@ one to come (JohnChr; GrgNy). The Apostle John also said the same thing: "No one
 
 seen God at any time" (Jn 1:18). But the Son is one in essence with the Father, and
 
-therefore fully sees and knows the Father's essence (AthanG; JohnChr).
-
-
-### 33:21
+therefore fully sees and knows the Father's essence (AthanG; JohnChr). ### 33:21
 *(anchor: EXO.33:21)*
 
 A place refers to the Holy Spirit, for He is often called the place of those being
 
-sanctified. Moses as well gained some knowledge of God by the Spirit (BasilG).
-
-
-### 33:22
+sanctified. Moses as well gained some knowledge of God by the Spirit (BasilG). ### 33:22
 *(anchor: EXO.33:22)*
 
 The Son of the Father is the rock and the hand. The rock reveals the mystery of
@@ -1712,38 +1168,24 @@ with the Father. For as the hand is one in essence with the body, similarly, the
 
 in essence with the Father (AthanG). Therefore, He reveals the Father and makes Him
 
-known to man.
-
-
-### 33:23
+known to man. ### 33:23
 *(anchor: EXO.33:23)*
 
-My back refers to the glory of God, for man can see His glory if his heart is pure.
+My back refers to the glory of God, for man can see His glory if his heart is pure. For Moses saw His glory to the extent he was capable, as is the case with any man. This
 
-For Moses saw His glory to the extent he was capable, as is the case with any man. This
-
-glory is also called His energy. Man can know God in His energy, but not in His essence.
-
-
-### 34:5
+glory is also called His energy. Man can know God in His energy, but not in His essence. ### 34:5
 *(anchor: EXO.34:5)*
 
 The Lord who descended in the cloud is the Only-begotten Lord, and He called
 
-upon the name of the Lord, who is the Father. Thus, the Son speaks of the Father.
-
-
-### 34:6
+upon the name of the Lord, who is the Father. Thus, the Son speaks of the Father. ### 34:6
 *(anchor: EXO.34:6)*
 
 , 7 The Lord proclaimed the Lord, that is, the Son and Word proclaimed the Father
 
 and revealed things concerning Him. For example, the Father is true, that is, he is the
 
-True God. The Son and Word is "True God of True God" (Creed).
-
-
-### 34:9-11
+True God. The Son and Word is "True God of True God" (Creed). ### 34:9-11
 *(anchor: EXO.34:9)*
 
 Moses requested that the Lord Himself lead Israel to the promised land, and his
@@ -1752,10 +1194,7 @@ prayer was answered. The Lord is the Angel of the Father, mentioned in previous
 
 chapters. "Angel" means "messenger," for the Son is the Word of the Father. He
 
-interpreted the Father's will through Moses to Israel.
-
-
-### 34:14
+interpreted the Father's will through Moses to Israel. ### 34:14
 *(anchor: EXO.34:14)*
 
 The Word calls His Father a jealous God. He does not mean the Father has
@@ -1766,48 +1205,30 @@ example, as a loving father is intolerant toward bad things happening to his chi
 
 the loving Father is intolerant of the evil things that happen to His children when they go
 
-astray to worship other gods.
-
-
-### 34:29-35
+astray to worship other gods. ### 34:29-35
 *(anchor: EXO.34:29)*
 
-The glory of the Law that shone on Moses' face was to point the Jews to Christ.
-
-But their hearts were hard; therefore, they were unable to look upon this glory. The Law
+The glory of the Law that shone on Moses' face was to point the Jews to Christ. But their hearts were hard; therefore, they were unable to look upon this glory. The Law
 
 was not the problem. The problem was their hardness of heart, which prevented them
 
 from seeing Christ in the Law. When, therefore, either a Jew or Gentile now turns to
 
-Christ, he sees His glory not only in the Law, but also in the New Covenant (2Co 3;
-
-JohnChr).
-
-
-### 35:5
+Christ, he sees His glory not only in the Law, but also in the New Covenant (2Co 3; JohnChr). ### 35:5
 *(anchor: EXO.35:5)*
 
 Ex 35:5, 21, 22, 26, 29: The offering was to be made from a willing heart, for the Law
 
 did not force anyone to serve the Lord. The same is true under grace in the New
 
-Testament, for the Lord never forces anyone against his will.
-
-
-### 35:31-35
+Testament, for the Lord never forces anyone against his will. ### 35:31-35
 *(anchor: EXO.35:31)*
 
-The Holy Spirit filled Bezalel and Aholiab with the effects or gifts of His energies:
-
-wisdom, understanding, knowledge, skill, and the ability to teach. By the Holy
+The Holy Spirit filled Bezalel and Aholiab with the effects or gifts of His energies: wisdom, understanding, knowledge, skill, and the ability to teach. By the Holy
 
 Spirit they were able to build the tabernacle of testimony. By the Holy Spirit's variety of
 
-gifts in the New Testament, the Church as the Body of Christ is being built (1Co 12).
-
-
-### 36:2
+gifts in the New Testament, the Church as the Body of Christ is being built (1Co 12). ### 36:2
 *(anchor: EXO.36:2)*
 
 , 3 Great things were accomplished when the children of Israel freely submitted their
@@ -1816,20 +1237,14 @@ will to the will of God. Two wills worked in synergy to build the tabernacle--th
 
 will of the people freely willing the same thing as the divine will. Great things are also
 
-accomplished in the Church when both wills work in synergy (Php 2:13).
-
-
-### 36:6
+accomplished in the Church when both wills work in synergy (Php 2:13). ### 36:6
 *(anchor: EXO.36:6)*
 
 , 7
 
 When the will of the people works freely in synergy with the will of God, the
 
-offerings exceed the needs. God loves this kind of giving (2Co 9:7).
-
-
-### 38:1
+offerings exceed the needs. God loves this kind of giving (2Co 9:7). ### 38:1
 *(anchor: EXO.38:1)*
 
 The ark was a type of the Mother of God (Akathist). Inside the ark would be placed
@@ -1838,10 +1253,7 @@ the jar of manna, a type of Christ as the Bread of Life. Also within would be Aa
 
 that budded, a type of the Life-giving Cross, and the Ten Commandments, which spoke of
 
-Christ as the Lawgiver. Christ was conceived in the Virgin's womb to give life to the world.
-
-
-### 38:5
+Christ as the Lawgiver. Christ was conceived in the Virgin's womb to give life to the world. ### 38:5
 *(anchor: EXO.38:5)*
 
 The mercy seat was a type of the Cross and the shed blood of Christ by which He
@@ -1854,20 +1266,14 @@ keeping the commandments of the Law, but this was an impossibility. They failed 
 
 what the mercy seat was teaching them, namely, that Christ is the mercy seat for their
 
-sins and "the end of the law for righteousness" (Rom 10:4).
-
-
-### 38:6
+sins and "the end of the law for righteousness" (Rom 10:4). ### 38:6
 *(anchor: EXO.38:6)*
 
 The cherubim were icons or images of two angels. These were not idols, yet they
 
 were part of Israel's worship. Similarly, icons used in the Church are not idols. These are
 
-venerated, and the honor paid to them passes to the ones they image.
-
-
-### 38:11
+venerated, and the honor paid to them passes to the ones they image. ### 38:11
 *(anchor: EXO.38:11)*
 
 , 12 Worship in Israel was liturgical. Liturgy means "the work of the people." Israel's
@@ -1878,26 +1284,17 @@ general. Similarly, Church worship is liturgical and includes four orders: the b
 
 priest), the priests, the deacons (Levites), and the laity. These orders are essential to
 
-liturgical worship.
-
-
-### 38:13
+liturgical worship. ### 38:13
 *(anchor: EXO.38:13)*
 
-The lampstand was a type of Christ as the Light of the world (Jn 8:12).
-
-
-### 39:23
+The lampstand was a type of Christ as the Light of the world (Jn 8:12). ### 39:23
 *(anchor: EXO.39:23)*
 
 In six months, what was required for the liturgical worship was completed and
 
 brought to Moses (vv. 13-22). Moses blessed them to show the end of willing obedience
 
-to the Lord is blessing.
-
-
-### 40:1-38
+to the Lord is blessing. ### 40:1-38
 *(anchor: EXO.40:1)*
 
 Here the Lord directs Moses to set up the tabernacle for liturgical worship on the
@@ -1922,9 +1319,7 @@ Jesus in the flesh, but did not see the glory of His divinity. They failed to se
 
 very Lord God who spoke to Moses and directed him in establishing the tabernacle of
 
-Testimony.
-
-At His conception, the Son of God ("the Power") "overshadowed" the Virgin Mary and
+Testimony. At His conception, the Son of God ("the Power") "overshadowed" the Virgin Mary and
 
 became a Man in her womb (Lk 1:35). When He overshadowed the tabernacle, this
 
@@ -1934,10 +1329,7 @@ cloud and the fire (vv. 30-32), the Incarnate Lord now leads His Church. For the
 
 hears His voice and follows Him, as Israel did when they heard His voice speaking in and
 
-through Moses.
-
-
-### 40:28
+through Moses. ### 40:28
 *(anchor: EXO.40:28)*
 
 The tabernacle was a type of the Mother of God, and the cloud was the presence of

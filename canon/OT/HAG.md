@@ -56,13 +56,13 @@ HAG.2:13 And Haggai said, 'If one who is unclean because of a dead body touches 
 HAG.2:14 Then Haggai answered and said, ' 'So is this people, so is this nation before Me,' says the Lord, 'and so are all the works of their hands. Whoever comes near them shall be unclean because of their early burdens; they shall be distressed because of their toils; and you have hated him who rebukes in the gates.
 HAG.2:15 'And now consider from this day forward, from before a stone was laid upon a stone in the temple of the Lord,
 HAG.2:16 what manner of people you were; when you put twenty ephahs of barley into the bin, and there were but ten; when you came to the wine vat to draw out fifty measures from the press, but only twenty were there.
-HAG.2:17 I struck you with barenness and blight and hail in all the labors of your hands; yet you did not turn to Me,' says the Lord.
+HAG.2:17 I struck you with barrenness and blight and hail in all the labors of your hands; yet you did not turn to Me,' says the Lord.
 HAG.2:18 'Establish your hearts from this day forward, from the twenty-fourth day of the ninth month, from the day the foundation of the Lord's temple was laid. Give careful thought to this:
 
 ### A Promise Made to Zerubbabel
 
 HAG.2:19 Is the seed still on the threshing floor? And as yet, the vine, the fig tree, the pomegranate, and the olive tree have not yielded fruit? But from this day I shall bless you.' '
-HAG.2:20 And again the word of the Lord came to Haggai the prophet a second time on the twentyfourth day of the month, saying,
+HAG.2:20 And again the word of the Lord came to Haggai the prophet a second time on the twenty-fourth day of the month, saying,
 HAG.2:21 'Speak to Zerubbabel from the tribe of Judah, saying, 'I shall shake heaven and earth and the sea and the dry land.
 HAG.2:22 I shall overthrow the thrones of kings, and I will destroy the power of the kings of the nations, and I shall overthrow both chariots and riders. The horses and their riders will come down; everyone by the sword of his brother.
 HAG.2:23 In that day,' says the Lord Almighty, 'I shall take you, Zerubbabel, My servant, the son of Shealtiel,' says the Lord, 'and shall make you like a signet ring; for I have chosen you.'

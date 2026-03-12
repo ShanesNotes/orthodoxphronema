@@ -12,16 +12,6 @@ deuterocanonical: false
 has_additions: false
 ---
 
-## Chapter 0
-
-MAT.0:1 1. The fulfillment of Old Testament prophecy. Matthew shows conclusively that Christ, the incarnate Son of God, fulfills the prophecies of the Old Testament. He establishes the new covenant through His death and Resurrection and will continue to guide His Church, the true Israel of God, to the end of the age.
-MAT.0:2 The revelation of the kingdom of God. Jesus proclaims that God's reign has come (4:17, 23), His power being manifested in His Son, but the fullness of the Kingdom will be consummated at Christ's Second Coming.
-MAT.0:3 A call to discipleship (4:18-22; 8:18-22), through mission (ch. 10; 28:18-20), and the beginning of the Gentile Church (8:11, 12; 21:43; 28:19).
-MAT.0:4 Background -The Gospel of Matthew, though it has come down to us in Greek, has a Jewish/Hebraic flavor, evident in its Aramaic expressions and forms and in its use of numerous quotations and arguments from the Old Testament. Furthermore, Matthew gives details of Jewish religious observances and often uses Jewish style and techniques of argument. God's final judgment, pictured in apocalyptic images common in Jewish writings, is also emphasized. Papias, asecond-century Christian author, preserves the tradition that Matthew wrote the sayings of Christ in Aramaic, the common language of the Jews at the time of Christ, and that others later freely translated this work into Greek.
-
-### The Genealogy of Jesus
-
-MAT.0:5 The Identity of Jesus Christ (1:1 -2:23) Who Christ is (1:1 -25) Ev ents surrounding His birth (2:1-23) Jesus' Public Ministry: Rev elation of the Kingdom (3:1 -1 0:42) Beginning of the ministry: the kingdom proclaimed (3:1-4:25) Sermon on the Mount: righteousness of the kingdom (5:1-7:29) The mighty works of Christ: the power of the kingdom (8:1-9:38) Discourse on mission (10:1-42) Responses to Christ: Belief and Unbelief (1 1:1 -25:46) Responses in Galilee (1 1:1 -1 8:35) Responses in Judea and Jerusalem (19:1-25:46) The Passion and Resurrection of Christ (26:1-28:20) Ev ents prior to the arrest (26:1 -46) Jesus' arrest (26:47 -27:26) Crucifixion, death, and burial (27:27 -66) The resurrection of Christ (28:1-15) The Great Commission (28:16-20) (Lk 3:23-38)
 ## Chapter 1
 
 MAT.1:1 he book of the genealogy of Jesus Christ, the Son of David, the Son of Abraham:
@@ -183,7 +173,8 @@ MAT.5:19 Whoever therefore breaks one of the least of these commandments, and te
 MAT.5:20 For I say to you, that unless your righteousness exceeds the righteousness of the scribes and Pharisees, you will by no means enter the kingdom of heaven.
 MAT.5:21 'You have heard that it was said to those of old, 'You shall not murder, aand whoever murders will be in danger of the judgment.'
 MAT.5:22 But I say to you that whoever is angry with his brother without acause ashall be in danger of the judgment. And whoever says to his brother, 'Raca!' shall be in danger of the council. But whoever says, 'You fool!' shall be in danger of hell fire.
-MAT.5:23 Therefore if you bring your gift to the altar, and there remember that your brother has something against you, 24 leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift.
+MAT.5:23 Therefore if you bring your gift to the altar, and there remember that your brother has something against you,
+MAT.5:24 leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift.
 MAT.5:25 Agree with your adversary quickly, while you are on the way with him, lest your adversary deliver you to the judge, the judge hand you over to the officer, and you be thrown into prison.
 MAT.5:26 Assuredly, I say to you, you will by no means get out of there till you have paid the last penny.
 MAT.5:27 'You have heard that it was said to those of old, a 'You shall not commit adultery.' b
@@ -203,7 +194,8 @@ MAT.5:40 If anyone wants to sue you and take away your tunic, let him have your 
 MAT.5:41 And whoever compels you to go one mile, go with him two.
 MAT.5:42 Give to him who asks you, and from him who wants to borrow from you do not turn away.
 MAT.5:43 'You have heard that it was said, 'You shall love your neighbor aand hate your enemy.'
-MAT.5:44 But I say to you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who spitefully use you and persecute you, a 45 that you may be sons of your Father in heaven; for He makes His sun rise on the evil and on the good, and sends rain on the just and on the unjust.
+MAT.5:44 But I say to you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who spitefully use you and persecute you, a
+MAT.5:45 that you may be sons of your Father in heaven; for He makes His sun rise on the evil and on the good, and sends rain on the just and on the unjust.
 MAT.5:46 For if you love those who love you, what reward have you? Do not even the tax collectors do the same?
 MAT.5:47 And if you greet your brethren aonly, what do you do more than others? Do not even the tax collectors bdo so?
 
@@ -527,7 +519,8 @@ MAT.11:31 (Mk 2:23-3:6; Lk 6:1-11)
 
 MAT.12:1 tthat time Jesus went through the grainfields on the Sabbath. And His disciples were hungry, and began to pluck heads of grain and to eat.
 MAT.12:2 And when the Pharisees saw it, they said to Him, 'Look, Your disciples are doing what is not lawful to do on the Sabbath!'
-MAT.12:3 But He said to them, 'Have you not read what David did when he was hungry, he and those who were with him: 4 how he entered the house of God and ate the showbread which was not lawful for him to eat, nor for those who were with him, but only for the priests?
+MAT.12:3 But He said to them, 'Have you not read what David did when he was hungry, he and those who were with him:
+MAT.12:4 how he entered the house of God and ate the showbread which was not lawful for him to eat, nor for those who were with him, but only for the priests?
 MAT.12:5 Or have you not read in the law that on the Sabbath the priests in the temple profane the Sabbath, and are blameless?
 MAT.12:6 Yet I say to you that in this place there is One greater than the temple.
 MAT.12:7 But if you had known what this means, ' I desire mercy and not sacrifice,' ayou would not have condemned the guiltless.
@@ -654,7 +647,8 @@ MAT.13:44 'Again, the kingdom of heaven is like treasure hidden in afield, which
 
 ### The Dragnet
 
-MAT.13:45 'Again, the kingdom of heaven is like amerchant seeking beautiful pearls, 46 who, when he had found one pearl of great price, went and sold all that he had and bought it.
+MAT.13:45 'Again, the kingdom of heaven is like amerchant seeking beautiful pearls,
+MAT.13:46 who, when he had found one pearl of great price, went and sold all that he had and bought it.
 MAT.13:47 'Again, the kingdom of heaven is like adragnet that was cast into the sea and gathered some of every kind,
 MAT.13:48 which, when it was full, they drew to shore; and they sat down and gathered the good into vessels, but threw the bad away.
 MAT.13:49 So it will be at the end of the age. The angels will come forth, separate the wicked from among the just,
@@ -994,7 +988,8 @@ MAT.20:26 Yet it shall not be so among you; but whoever desires to become great 
 
 ### Two Blind Men Confess Jesus as Lord
 
-MAT.20:27 And whoever desires to be first among you, let him be your slave- 28 just as the Son of Man did not come to be served, but to serve, and to give His life aransom for many.'
+MAT.20:27 And whoever desires to be first among you, let him be your slave-
+MAT.20:28 just as the Son of Man did not come to be served, but to serve, and to give His life aransom for many.'
 MAT.20:29 Now as they went out of Jericho, agreat multitude followed Him.
 MAT.20:30 And behold, two blind men sitting by the road, when they heard that Jesus was passing by, cried out, saying, 'Have mercy on us, O Lord, Son of David!'
 MAT.20:31 Then the multitude warned them that they should be quiet; but they cried out all the more, saying, 'Have mercy on us, O Lord, Son of David!'
@@ -1024,12 +1019,7 @@ MAT.21:14 Then the 'den of thieves.'
 MAT.21:15 blind and the ' blame came to Him in the temple, and He healed them. But when the chief priests and scribes saw the wonderful things that He did, and the children crying out in the temple and saying, 'Hosanna to the Son of David!' they were indignant †
 MAT.21:16 16 and said to Him, 'Do You hear what these are saying?'
 MAT.21:17 And Jesus said to them, 'Yes. Have you never read, 'Out of the mouth of babes and nursing infants You have perfected praise'? ' a Then He left them and went out of the city to Bethany, and He lodged there.
-MAT.21:18 Israel: The Withered Fig Tree 'My house shall be called a house of prayer,'
-
-### (Mk 11:19-26)
-
-MAT.21:19 a
-MAT.21:18 Now in the morning, as He returned to the city, He was hungry.
+MAT.21:18 Israel: The Withered Fig Tree 'My house shall be called a house of prayer,' Now in the morning, as He returned to the city, He was hungry.
 
 ### (Mk 11:19-26)
 
@@ -1055,13 +1045,8 @@ MAT.21:31 Which of the two did the will of his father?'
 
 ### Leaders Mistreat God's Messengers
 
-MAT.21:32 They said to Him, 'The first.'
-MAT.21:33 Jesus said to them, 'Assuredly, I say to you that tax collectors and harlots enter the kingdom of God before you.
-
-### Leaders Mistreat God's Messengers
-
-MAT.21:32 For John came to you in the way of righteousness, and you did not believe him; but tax collectors and harlots believed him; and when you saw it, you did not afterward relent and believe him.
-MAT.21:33 (Mk 12:1-12; Lk 20:9-19) 'Hear another parable: There was acertain landowner who planted avineyard and set ahedge around it, dug awinepress in it and built atower. And he leased it to vinedressers and went into afar country.
+MAT.21:32 For John came to you in the way of righteousness, and you did not believe him; but tax collectors and harlots believed him; and when you saw it, you did not afterward relent and believe him. They said to Him, 'The first.'
+MAT.21:33 (Mk 12:1-12; Lk 20:9-19) 'Hear another parable: There was acertain landowner who planted avineyard and set ahedge around it, dug awinepress in it and built atower. And he leased it to vinedressers and went into afar country. Jesus said to them, 'Assuredly, I say to you that tax collectors and harlots enter the kingdom of God before you.
 MAT.21:34 Now when vintage-time drew near, he sent his servants to the vinedressers, that they might receive its fruit.
 MAT.21:35 And the vinedressers took his servants, beat one, killed one, and stoned another.
 MAT.21:36 Again he sent other servants, more than the first, and they did likewise to them.
@@ -1147,7 +1132,8 @@ MAT.23:2 saying: 'The scribes and the Pharisees sit in Moses' seat.
 MAT.23:3 Therefore whatever they tell you to observe, athat observe and do, but do not do according to their works; for they say, and do not do.
 MAT.23:4 For they bind heavy burdens, hard to bear, and lay them on men's shoulders; but they themselves will not move them with one of their fingers.
 MAT.23:5 But all their works they do to be seen by men. They make their phylacteries broad and enlarge the borders of their garments.
-MAT.23:6 They love the best places at feasts, the best seats in the synagogues, 7 greetings in the marketplaces, and to be called by men, 'Rabbi, Rabbi.'
+MAT.23:6 They love the best places at feasts, the best seats in the synagogues,
+MAT.23:7 greetings in the marketplaces, and to be called by men, 'Rabbi, Rabbi.'
 MAT.23:8 But you, do not be called 'Rabbi'; for One is your Teacher, the Christ, aand you are all brethren.
 MAT.23:9 Do not call anyone on earth your father; for One is your Father, He who is in heaven.
 MAT.23:10 And do not be called teachers; for One is your Teacher, the Christ.
@@ -1253,7 +1239,10 @@ MAT.24:47 Assuredly, I say to you that he will make him ruler over all his goods
 
 ### We Must Be Prepared
 
-MAT.24:48 But if that evil servant says in his heart, 'My master is delaying his coming,' a 49 and begins to beat his fellow servants, and to eat and drink with the drunkards, 50 the master of that servant will come on aday when he is not looking for him and at an hour that he is not aware of, 51 and will cut him in two and appoint him his portion with the hypocrites. There shall be weeping and gnashing of teeth.
+MAT.24:48 But if that evil servant says in his heart, 'My master is delaying his coming,' a
+MAT.24:49 and begins to beat his fellow servants, and to eat and drink with the drunkards,
+MAT.24:50 the master of that servant will come on aday when he is not looking for him and at an hour that he is not aware of,
+MAT.24:51 and will cut him in two and appoint him his portion with the hypocrites. There shall be weeping and gnashing of teeth.
 ## Chapter 25
 
 MAT.25:1 Then the kingdom of heaven shall be likened to ten virgins who took their lamps and went out to meet the bridegroom.
@@ -1322,7 +1311,8 @@ MAT.26:4 and plotted to take Jesus by trickery and kill Him.
 ### Anointing for Burial
 
 MAT.26:5 But they said, 'Not during the feast, lest there be an uproar among the people.'
-MAT.26:6 (Mk 14:3-9; Jn 12:1-8) And when Jesus was in Bethany at the house of Simon the leper, 7 awoman came to Him having an alabaster flask of very costly fragrant oil, and she poured it on His head as He sat at the table.
+MAT.26:6 (Mk 14:3-9; Jn 12:1-8) And when Jesus was in Bethany at the house of Simon the leper,
+MAT.26:7 awoman came to Him having an alabaster flask of very costly fragrant oil, and she poured it on His head as He sat at the table.
 MAT.26:8 But when His disciples saw it, they were indignant, saying, 'Why this waste?
 MAT.26:9 For this fragrant oil might have been sold for much and given to the poor.'
 MAT.26:10 But when Jesus was aware of it, He said to them, 'Why do you trouble the woman? For she has done agood work for Me.
@@ -1350,13 +1340,8 @@ MAT.26:25 Then Judas, who was betraying Him, answered and said, 'Rabbi, is it I?
 
 ### Institution of the Eucharist
 
-MAT.26:26 He said to him, 'You have said it.'
-MAT.26:27 (Mk 14:22-26; Lk 22:15-20)
-
-### Institution of the Eucharist
-
-MAT.26:26 And as they were eating, Jesus took bread, blessed aand broke it, and gave it to the disciples and said, 'Take, eat; this is My body.'
-MAT.26:27 Then He took the cup, and gave thanks, and gave it to them, saying, 'Drink from it, all of you.
+MAT.26:26 And as they were eating, Jesus took bread, blessed aand broke it, and gave it to the disciples and said, 'Take, eat; this is My body.' He said to him, 'You have said it.'
+MAT.26:27 Then He took the cup, and gave thanks, and gave it to them, saying, 'Drink from it, all of you. (Mk 14:22-26; Lk 22:15-20)
 MAT.26:28 For this is My blood of the new acovenant, which is shed for many for the remission of sins.
 MAT.26:29 But I say to you, I will not drink of this fruit of the vine from now on until that day when I drink it new with you in My Father's kingdom.'
 
@@ -1368,10 +1353,8 @@ MAT.26:32 But after I have been raised, I will go before you to Galilee.'
 MAT.26:33 Peter answered and said to Him, 'Even if all are made to stumble because of You, I will never be made to stumble.'
 MAT.26:34 Jesus said to him, 'Assuredly, I say to you that this night, before the rooster crows, you will deny Me three times.'
 MAT.26:35 Peter said to Him, 'Even if I have to die with You, I will not deny You!'
-MAT.26:36 And so said all the disciples.
-MAT.26:37 Gethsemane: Jesus' Prayers (Mk 14:32-42; Lk 22:39-46; Jn 18:1)
-MAT.26:36 Then Jesus came with them to aplace called Gethsemane, and said to the disciples, 'Sit here while I go and pray over there.'
-MAT.26:37 And He took with Him Peter and the two sons of Zebedee, and He began to be sorrowful and deeply distressed.
+MAT.26:36 Then Jesus came with them to aplace called Gethsemane, and said to the disciples, 'Sit here while I go and pray over there.' And so said all the disciples.
+MAT.26:37 And He took with Him Peter and the two sons of Zebedee, and He began to be sorrowful and deeply distressed. Gethsemane: Jesus' Prayers (Mk 14:32-42; Lk 22:39-46; Jn 18:1)
 MAT.26:38 Then He said to them, 'My soul is exceedingly sorrowful, even to death. Stay here and watch with Me.'
 MAT.26:39 He went alittle farther and fell on His face, and prayed, saying, 'O My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as You will. '
 MAT.26:40 Then He came to the disciples and found them sleeping, and said to Peter, 'What! Could you not watch with Me one hour?
@@ -1539,4 +1522,5 @@ MAT.28:15 So they took the money and did as they were instructed; and this sayin
 MAT.28:16 Then the eleven disciples went away into Galilee, to the mountain which Jesus had appointed for them.
 MAT.28:17 When they saw Him, they worshiped Him; but some doubted.
 MAT.28:18 And Jesus came and spoke to them, saying, 'All authority has been given to Me in heaven and on earth.
-MAT.28:19 Go therefore aand make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age.' Amen. a
+MAT.28:19 Go therefore aand make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
+MAT.28:20 teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age.' Amen. a

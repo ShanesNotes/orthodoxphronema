@@ -12,26 +12,16 @@ status: staging
 ### 1:1
 *(anchor: DEU.1:1)*
 
-The statement, these are the words, refers to the words Moses spoke in Exodus,
+The statement, these are the words, refers to the words Moses spoke in Exodus, Leviticus, and Numbers. They were spoken in the desert during the thirty-nine-year
 
-Leviticus, and Numbers. They were spoken in the desert during the thirty-nine-year
-
-period after Israel left Egypt.
-
-
-### 1:3
+period after Israel left Egypt. ### 1:3
 *(anchor: DEU.1:3)*
 
-In the eleventh month of the fortieth year, Moses spoke the contents of Deuteronomy,
-
-"beyond the Jordan in the land of Moab" (v. 5). He spoke the words the Lord gave him to
+In the eleventh month of the fortieth year, Moses spoke the contents of Deuteronomy, "beyond the Jordan in the land of Moab" (v. 5). He spoke the words the Lord gave him to
 
 speak. The Lord is the Son of God, "who built the house" (Heb 3:3). Moses was "faithful
 
-in all His house as a servant," but the Son is "over His own house" (Heb 3:5, 6).
-
-
-### 1:5
+in all His house as a servant," but the Son is "over His own house" (Heb 3:5, 6). ### 1:5
 *(anchor: DEU.1:5)*
 
 In Deuteronomy, Moses began to explain the Law he had already given in the
@@ -42,10 +32,7 @@ no new set of laws. It is called "a second law" because it especially emphasizes
 
 of the Law, so as to stress the importance of Israel's obedience and thankfulness to God
 
-from the heart.
-
-
-### 1:13
+from the heart. ### 1:13
 *(anchor: DEU.1:13)*
 
 The chosen leaders were to be wise, understanding, and knowledgeable. These
@@ -54,23 +41,14 @@ three traits should also characterize leaders in the Church: "Remember those who
 
 over you, who have spoken the word of God to you, whose faith follow, considering the
 
-outcome of their conduct" (Heb 13:7).
-
-
-### 1:16-17
+outcome of their conduct" (Heb 13:7). ### 1:16-17
 *(anchor: DEU.1:16)*
 
-These leaders were to judge righteously by being impartial in their judgments.
+These leaders were to judge righteously by being impartial in their judgments. They were not to be partial to the first testimony they might hear. Impartial judgment
 
-They were not to be partial to the first testimony they might hear. Impartial judgment
+means hearing all sides before judging the case. Judgment should be made with "wisdom, understanding, and knowledge" (v. 13); otherwise, the judgment made would be
 
-means hearing all sides before judging the case. Judgment should be made with "wisdom,
-
-understanding, and knowledge" (v. 13); otherwise, the judgment made would be
-
-prejudiced.
-
-St. Basil the Great made reference to v. 17 in writing to a certain bishop who had
+prejudiced. St. Basil the Great made reference to v. 17 in writing to a certain bishop who had
 
 formed a prejudiced judgment against him: "But truly, you have suffered the fate of all
 
@@ -90,87 +68,58 @@ rebellion. An unbelieving heart was the cause (Heb 3:7-11, 19). They judged by o
 
 appearance (we saw the sons of giants there), rather than by faith in the Lord and His
 
-word. "For we walk by faith, not by sight" (2Co 5:7).
-
-
-### 1:29-33
+word. "For we walk by faith, not by sight" (2Co 5:7). ### 1:29-33
 *(anchor: DEU.1:29)*
 
 Their unbelieving heart was not to be cowardly (terrified or afraid). The fear of
 
 God produces courage, but the generation that came out of Egypt feared what they saw--
 
-taller and physically stronger people, large fortified cities, and even sons of giants (v. 28).
+taller and physically stronger people, large fortified cities, and even sons of giants (v. 28). Yet the Lord provided abundant evidence to encourage their faith, such as leading them
 
-Yet the Lord provided abundant evidence to encourage their faith, such as leading them
-
-with the fire by night and the cloud by day (v. 33).
-
-The fire and the cloud foreshadowed the Incarnation of the Son. For the cloud speaks
+with the fire by night and the cloud by day (v. 33). The fire and the cloud foreshadowed the Incarnation of the Son. For the cloud speaks
 
 of the Mother of God, and the fire of the Son conceived in her womb. The Church believes
 
 in the Incarnate Son and in His holy Mother. This faith is the rock on which the Church
 
-stands, and against which "the gates of Hades shall not prevail" (Mt 16:18).
-
-
-### 1:41-45
+stands, and against which "the gates of Hades shall not prevail" (Mt 16:18). ### 1:41-45
 *(anchor: DEU.1:41)*
 
 The generation that came out of Egypt did not believe the Lord when He said to go
 
 up and take the land, nor did they believe Him when He said not to go up. They rejected
 
-enlightened faith, but accepted blind faith. Such is the deceitfulness of unbelief.
-
-
-### 2:4
+enlightened faith, but accepted blind faith. Such is the deceitfulness of unbelief. ### 2:4
 *(anchor: DEU.2:4)*
 
-Esau was the twin brother of Jacob. Both were sons of Isaac, the son of Abraham.
+Esau was the twin brother of Jacob. Both were sons of Isaac, the son of Abraham. Therefore, the sons of Esau were called Israel's brethren. They were brethren according
 
-Therefore, the sons of Esau were called Israel's brethren. They were brethren according
+to the flesh. Being brethren according to the flesh qualified neither the sons of Israel (Jacob) nor
 
-to the flesh.
-
-Being brethren according to the flesh qualified neither the sons of Israel (Jacob) nor
-
-the sons of Esau to be the children of God. "For they are not all Israel who are of Israel,
-
-nor are they all children because they are the seed of Abraham" (Rom 9:6, 7). Both Jacob
+the sons of Esau to be the children of God. "For they are not all Israel who are of Israel, nor are they all children because they are the seed of Abraham" (Rom 9:6, 7). Both Jacob
 
 and Esau were the seed of Abraham according to the flesh. But this did not mean they
 
-were the children of God.
-
-On what basis are people the children of God? The basis is "the word of promise" (Rom
+were the children of God. On what basis are people the children of God? The basis is "the word of promise" (Rom
 
 
 ### 9:9
 *(anchor: DEU.9:9)*
 
-). The promise was the word of faith given Abraham concerning the birth of Isaac,
-
-which word he believed, for he was strong in faith, giving glory to God (Rom 4). But those
+). The promise was the word of faith given Abraham concerning the birth of Isaac, which word he believed, for he was strong in faith, giving glory to God (Rom 4). But those
 
 among the children of Israel or the children of Esau who rejected this faith would not be
 
-the children of God.
-
-2:7 The generation that died in the desert had no excuse for not believing the Lord, nor did
+the children of God. 2:7 The generation that died in the desert had no excuse for not believing the Lord, nor did
 
 the new generation about to enter the land of promise. For the Lord blessed them over
 
-the forty-year period in spite of their unbelief. They lacked nothing.
-
-God's gracious promise in the Gospel of Christ either saves people or makes them hard
+the forty-year period in spite of their unbelief. They lacked nothing. God's gracious promise in the Gospel of Christ either saves people or makes them hard
 
 and stubborn. Yet this hardness and stubbornness is of their own free will, for He never
 
-forces anyone to respond in faith. But He does make them the offer of peace.
-
-3:28 The name Joshua in the Hebrew language of the Old Testament was translated into
+forces anyone to respond in faith. But He does make them the offer of peace. 3:28 The name Joshua in the Hebrew language of the Old Testament was translated into
 
 the Greek language as Jesus. This was true in the Greek Old Testament as well as in the
 
@@ -180,17 +129,11 @@ Thus, the Jesus or Joshua of the Old Testament was a type of Jesus in the New. H
 
 a type of Jesus in that he will cause them to inherit the land of Canaan. But Joshua
 
-was unable to give Israel rest in their souls (Heb 4:8). However, the Lord Jesus said,
-
-"Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My
+was unable to give Israel rest in their souls (Heb 4:8). However, the Lord Jesus said, "Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My
 
 yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find
 
-rest for your souls. For My yoke is easy and My burden is light" (Mt 11:28-30). Therefore,
-
-the Lord Jesus is salvation.
-
-4:2
+rest for your souls. For My yoke is easy and My burden is light" (Mt 11:28-30). Therefore, the Lord Jesus is salvation. 4:2
 
 This statement by Moses is a commandment regarding God's commandments--a
 
@@ -210,33 +153,23 @@ Jesus' day, who would "teach as doctrines the commandments of men" (Is 29:13; Mt
 
 down in the Church by Christ and the apostles are to be kept and honored (1Co 11:2; 2Th
 
-2:15; 3:6).
-
-4:5
+2:15; 3:6). 4:5
 
 God's commandments in the Old Testament were to be taught and acted upon. Moses
 
-acted upon them, then taught them to others. This is the proper order: first keep them,
-
-then teach them. Those taught are then responsible to do them, for learning but not doing
+acted upon them, then taught them to others. This is the proper order: first keep them, then teach them. Those taught are then responsible to do them, for learning but not doing
 
 contradicts the teachings themselves. The same order holds in the New Testament
 
 commandments. For in the Sermon on the Mount, the Lord said that whoever "does and
 
-teaches" His commandments "shall be called great in the kingdom of heaven" (Mt 5:19).
-
-Therefore, "does and teaches" is the proper order.
-
-4:6
+teaches" His commandments "shall be called great in the kingdom of heaven" (Mt 5:19). Therefore, "does and teaches" is the proper order. 4:6
 
 He who "does and teaches" has wisdom and understanding, which will convert the
 
 Gentiles to the true God. To teach but not do would be hypocrisy in their sight, and
 
-rightly so.
-
-4:7
+rightly so. 4:7
 
 God was near to Israel, which is proper to say in the relationship between the Creator
 
@@ -250,63 +183,39 @@ not "near to." Therefore, the Son is not a creature (AthanG). Rather, he is "God
 
 and "one in essence with the Father" (Creed). Both His words and His works proved this
 
-(Jn 14:11).
-
-4:9
+(Jn 14:11). 4:9
 
 The children of Israel were to diligently guard their soul, lest their hearts should
 
 depart from the Lord's commandments. The generation that came out of Egypt let down
 
-their guard and fell into unbelief. Consequently, they died in the desert.
-
-The Scripture says, "Today, if you will hear His voice, do not harden your hearts" (Heb
+their guard and fell into unbelief. Consequently, they died in the desert. The Scripture says, "Today, if you will hear His voice, do not harden your hearts" (Heb
 
 4:7). The word "today" indicates that as long as we are alive, we have the hope of
 
-recovering from our fall (JohnChr).
-
-4:12 Deut 4:12, 15-18: The divine nature has no form; only creatures have form. Therefore,
-
-no form was to be made by Israel as representing God's essence. To worship any form
+recovering from our fall (JohnChr). 4:12 Deut 4:12, 15-18: The divine nature has no form; only creatures have form. Therefore, no form was to be made by Israel as representing God's essence. To worship any form
 
 that supposedly depicted God's nature would be idolatry. But the nations that surrounded
 
-Israel worshiped forms as though they were God.
-
-The Lord did instruct Israel to use certain forms in worship; however, these forms,
-
-such as those in the tabernacle, were not objects of worship. They did not depict the
+Israel worshiped forms as though they were God. The Lord did instruct Israel to use certain forms in worship; however, these forms, such as those in the tabernacle, were not objects of worship. They did not depict the
 
 divine nature in any sense. Rather, they were honored as holy because they foreshadowed
 
-the Incarnation and the Church. Similarly, the Church uses images or icons in worship,
+the Incarnation and the Church. Similarly, the Church uses images or icons in worship, but neither do these depict the divine nature. They are not objects of worship. Rather, they speak of the Incarnation and the angels and saints. The honor paid to these images
 
-but neither do these depict the divine nature. They are not objects of worship. Rather,
-
-they speak of the Incarnation and the angels and saints. The honor paid to these images
-
-passes to the ones honored.
-
-4:13
+passes to the ones honored. 4:13
 
 The Ten Commandments were written on stone tablets. But now the Holy Spirit
 
-writes His commandments on the tablets of our hearts (2Co 3:1-3).
+writes His commandments on the tablets of our hearts (2Co 3:1-3). 4:19
 
-4:19
-
-Nor was Israel to worship the forms in the heavens, such as the sun, the moon,
-
-and the stars. For the Lord assigned these to all the nations under heaven for
+Nor was Israel to worship the forms in the heavens, such as the sun, the moon, and the stars. For the Lord assigned these to all the nations under heaven for
 
 their well-being. These things reveal the glory of God and "His eternal power and
 
 Godhead" (Rom 1:20). But the nations turned them into objects of worship, and thus fell
 
-away from the truth into all kinds of sin and corruption.
-
-4:24
+away from the truth into all kinds of sin and corruption. 4:24
 
 One meaning of the name God is "burning" (GrgTheo; JohnDm). Thus, He is called
 
@@ -316,35 +225,21 @@ repentant. He cleanses them with His purifying fire (AthanG). He also gives them
 
 water of life, which quenches their thirst that once burned with sins, but now yearns for
 
-Him and His kingdom (AmbM).
+Him and His kingdom (AmbM). 4:26
 
-4:26
-
-The witnesses in heaven are the holy angels (AthanG; JohnChr; GrgTheo).
-
-4:35
+The witnesses in heaven are the holy angels (AthanG; JohnChr; GrgTheo). 4:35
 
 There is only one God, because there is only one divine essence or nature, which is
 
-undivided. For God is a name indicating the divine essence (GrgTheo; JohnDm; AthanG).
+undivided. For God is a name indicating the divine essence (GrgTheo; JohnDm; AthanG). This undivided essence exists in three Persons--the Father, the Son, and the Holy Spirit. Moses believed this, and so does the Church. 4:39
 
-This undivided essence exists in three Persons--the Father, the Son, and the Holy Spirit.
-
-Moses believed this, and so does the Church.
-
-4:39
-
-Since God is in heaven above and on the earth beneath, that is, in all creation,
-
-no other god could possibly exist. For He is everywhere present and fills all things. There
+Since God is in heaven above and on the earth beneath, that is, in all creation, no other god could possibly exist. For He is everywhere present and fills all things. There
 
 is no room for another, because He is uncircumscribed. The true God exists outside
 
 creation, for nothing can contain Him; rather, He contains all things in Himself, and is
 
-present everywhere.
-
-5:5
+present everywhere. 5:5
 
 The Son of God on Mt. Sinai was "a consuming fire" (4:24; Heb 12:29). His divine fire
 
@@ -352,23 +247,13 @@ purified Moses from all materialistic attachments; therefore, he was able to go 
 
 mountain in the midst of this fire. The children of Israel had no access to Him because
 
-they were materialistic; that is, they were attached to the physical objects of this world.
-
-But when the Son of God became incarnate, all Israelites had easy access to Him. He even
+they were materialistic; that is, they were attached to the physical objects of this world. But when the Son of God became incarnate, all Israelites had easy access to Him. He even
 
 ate and drank with sinners (Mt 9:10-13), for He was their friend (Mt 11:19). This contrast
 
-between Mt. Sinai and the Incarnation is described in Heb 12:18-29.
+between Mt. Sinai and the Incarnation is described in Heb 12:18-29. 5:6-9 The divine names Lord and God relate to I Am, because this, too, is a divine name: "I AM the Existing One" (Ex 3:14). He is the eternal God, without beginning or end, the
 
-5:6-9 The divine names Lord and God relate to I Am, because this, too, is a divine name:
-
-"I AM the Existing One" (Ex 3:14). He is the eternal God, without beginning or end, the
-
-Only-begotten of the Father; "true God of true God" (Creed). Thus, Jesus said to the Jews,
-
-"Before Abraham was, I AM" (Jn 8:58).
-
-5:9
+Only-begotten of the Father; "true God of true God" (Creed). Thus, Jesus said to the Jews, "Before Abraham was, I AM" (Jn 8:58). 5:9
 
 The statement, repaying the sins of the fathers upon the children to the third
 
@@ -378,9 +263,7 @@ spoken about certain ones who came out of Egypt. For after they saw the Lord's s
 
 wonders in Egypt, they committed worse sins than their forefathers who saw none of
 
-these things (JohnChr).
-
-5:12
+these things (JohnChr). 5:12
 
 The Law of Moses was given to the children of Israel to check their rebellious spirit
 
@@ -388,9 +271,7 @@ and to threaten them with divine vengeance if they persisted: "knowing this: tha
 
 is not made for a righteous person, but for the lawless" (1Ti 1:9). But it was also given to
 
-lead them to Christ, "the end of the law" (Rom 10:4; Gal 3:24).
-
-5:29
+lead them to Christ, "the end of the law" (Rom 10:4; Gal 3:24). 5:29
 
 The Law was not the problem; Moses was not the problem. For he had a heart to fear
 
@@ -400,9 +281,7 @@ a heart problem. Their heart was attached to this world, rather than to the Lord
 
 same problem persists in many today, but the door to the kingdom remains open to those
 
-who are willing to be detached from materialism and turn their hearts to Him (2Co 3:16).
-
-6:4
+who are willing to be detached from materialism and turn their hearts to Him (2Co 3:16). 6:4
 
 "By Moses saying 'one Lord', we understand the simple, blessed and incomprehensible
 
@@ -418,35 +297,23 @@ time and ages from the essence of the Father, but His begetting does not divide 
 
 Father's essence. The Holy Spirit proceeds before all time and ages from the Father, but
 
-His procession does not divide the Father's essence. The Persons are distinct or different,
+His procession does not divide the Father's essence. The Persons are distinct or different, but the essence is one and undivided. Therefore, we believe in the Holy Trinity, our one
 
-but the essence is one and undivided. Therefore, we believe in the Holy Trinity, our one
-
-God and Lord.
-
-6:12
+God and Lord. 6:12
 
 Israel's attachment to this world often led them to forget the one true God and to go
 
-after other gods. We, too, need to guard our hearts, lest we do the same thing.
+after other gods. We, too, need to guard our hearts, lest we do the same thing. 6:14
 
-6:14
+These different gods do not exist, although they are called gods (AthanG). 6:16
 
-These different gods do not exist, although they are called gods (AthanG).
-
-6:16
-
-The Temptation refers to the incident in Ex 17 (see notes in that chapter).
-
-6:23
+The Temptation refers to the incident in Ex 17 (see notes in that chapter). 6:23
 
 The Lord brought them out of Egypt that He might bring them in to the land of
 
 promise. Similarly, He brings us out of our attachments to this world and into attachment
 
-to the kingdom of God.
-
-7:1-3 The Lord would bring Israel into the land of promise by grace, which was His role in
+to the kingdom of God. 7:1-3 The Lord would bring Israel into the land of promise by grace, which was His role in
 
 the covenant. Israel's role, in part, was to make no covenant with them (v. 2), nor to
 
@@ -460,15 +327,7 @@ it belongs to divine grace to give us opportunities of salvation and prosperous
 
 undertakings and victory; but that it is ours to follow up the blessings God gives us with
 
-either earnestness or indifference" (JohnCas).
-
-7:7-8 Since they were chosen because of God's love for them and His oath to their fathers,
-
-it is obvious they were not chosen because of their own deeds, but by the grace of God.
-
-Therefore, they had no basis for boasting in themselves, nor do we (Rom 4:1-8).
-
-(JohnChr)
+either earnestness or indifference" (JohnCas). 7:7-8 Since they were chosen because of God's love for them and His oath to their fathers, it is obvious they were not chosen because of their own deeds, but by the grace of God. Therefore, they had no basis for boasting in themselves, nor do we (Rom 4:1-8). (JohnChr)
 
 7:8
 
@@ -476,11 +335,7 @@ Therefore, they had no basis for boasting in themselves, nor do we (Rom 4:1-8).
 
 its body, similarly the Son is the same in essence with the Father. Furthermore, as the
 
-Holy Fathers teach, things having the same might also have the same essence. Thus,
-
-since the Son's might is the same as the Father's, They are one in essence.
-
-7:21-24 The nations speak of the sinful passions and how we are to war against them. We
+Holy Fathers teach, things having the same might also have the same essence. Thus, since the Son's might is the same as the Father's, They are one in essence. 7:21-24 The nations speak of the sinful passions and how we are to war against them. We
 
 are to take them on one at a time by the grace of God, until we have gained the victory
 
@@ -494,9 +349,7 @@ and so succeed in gaining a speedy victory. For Moses himself in this passage te
 
 that we should follow this plan in our conflicts and not trust in our own power"
 
-(JohnCas).
-
-8:1
+(JohnCas). 8:1
 
 Under the Law of Moses, every commandment was to be kept if the people were to live
 
@@ -504,9 +357,7 @@ and prosper in the land of promise. Great care was to be exercised in keeping th
 
 much more is this true under the Law of Christ in the New Testament. We are
 
-responsible through His grace to keep all His commandments.
-
-8:2-5 The Lord dealt harshly with Israel in the desert as a test, for testing under pressure
+responsible through His grace to keep all His commandments. 8:2-5 The Lord dealt harshly with Israel in the desert as a test, for testing under pressure
 
 has a way of revealing what is in the heart. The test in each case reveals obedience or
 
@@ -516,55 +367,37 @@ knowledge, for He knows all things before they take place. Instead, it would let
 
 them know the condition of his own heart. All chastening is for our benefit, that we might
 
-partake of the Lord's holiness (Heb 12:5-11).
+partake of the Lord's holiness (Heb 12:5-11). 8:3
 
-8:3
+The Lord allowed them to go hungry in the desert and fed them with simple food: manna, of which they grew sick. Nevertheless, the Lord was teaching them the road of
 
-The Lord allowed them to go hungry in the desert and fed them with simple food:
-
-manna, of which they grew sick. Nevertheless, the Lord was teaching them the road of
-
-virtue, namely, that man's primary food is the word of God, and obedience to that word.
-
-But they failed to learn this lesson, and many of them died in the desert.
-
-8:4
+virtue, namely, that man's primary food is the word of God, and obedience to that word. But they failed to learn this lesson, and many of them died in the desert. 8:4
 
 The clothes on their backs and the shoes on their feet never wore out during those
 
 forty years in the desert. This foreshadows the resurrection from the dead (AmbM). It
 
-also foreshadows "the life of the world to come" (Creed).
-
-8:15
+also foreshadows "the life of the world to come" (Creed). 8:15
 
 The biting serpent and scorpion speak of the devil and his angels, whom we are
 
 not to fear (JohnChr). For the Lord Jesus Christ, the Rock of living water, is with us (1Co
 
-10:4).
-
-8:17-18
+10:4). 8:17-18
 
 We should never think that our free will and energy gained us victory over the
 
-spiritual enemy, for victory is only by the grace of God (JohnCas).
-
-9:1-3
+spiritual enemy, for victory is only by the grace of God (JohnCas). 9:1-3
 
 The sons of Anak were giants, and their physical stature speaks of the sinful
 
 passions that seek to wreak havoc in both soul and body. By the Lord's consuming fire
 
-we are able to overcome them. "For a servant of the Lord should be diligent and careful,
-
-yes, moreover, burning like a flame, so when by a zealous and burning spirit, he destroys
+we are able to overcome them. "For a servant of the Lord should be diligent and careful, yes, moreover, burning like a flame, so when by a zealous and burning spirit, he destroys
 
 all fleshly sin, he may be able to draw near to God, who, according to the expression of
 
-the saints, is called 'a consuming fire'" (AthanG).
-
-9:4-6
+the saints, is called 'a consuming fire'" (AthanG). 9:4-6
 
 A stiff-necked people (v. 6) are those who claim their victories over the enemy
 
@@ -582,27 +415,17 @@ the victory over spiritual wickedness and fleshly sins through your own exertion
 
 energy, and free will'? For there is no doubt in all this you could not possibly have
 
-succeeded, unless you were fortified and protected by the help of the Lord" (JohnCas).
-
-10:12-15 "God needs nothing we have to give Him, and this especially proves sincere love,
-
-when one who needs nothing and is not in any necessity, does everything for the sake of
+succeeded, unless you were fortified and protected by the help of the Lord" (JohnCas). 10:12-15 "God needs nothing we have to give Him, and this especially proves sincere love, when one who needs nothing and is not in any necessity, does everything for the sake of
 
 being loved by us. So when He bids you to love Him, He then most of all shows He loves
 
-you. For nothing secures our salvation more than loving Him" (JohnChr).
+you. For nothing secures our salvation more than loving Him" (JohnChr). 10:20
 
-10:20
-
-To serve the Lord means to worship Him. But how can we worship the Father if we,
-
-so to speak, sever the Son and the Holy Spirit from Him? "Well, how will you worship
+To serve the Lord means to worship Him. But how can we worship the Father if we, so to speak, sever the Son and the Holy Spirit from Him? "Well, how will you worship
 
 Him only, tell me, when you have severed Him from His intimate union with His own
 
-Only-begotten and His own Spirit? This worship is simply Jewish" (BasilG).
-
-11:8-9 The reward for keeping all the Lord's commandments under the Law of Moses was
+Only-begotten and His own Spirit? This worship is simply Jewish" (BasilG). 11:8-9 The reward for keeping all the Lord's commandments under the Law of Moses was
 
 prosperity in the land of Canaan. The Law was not given for the attainment of
 
@@ -612,9 +435,7 @@ a tutor or guardian until the coming of Christ, the Giver of Life, through whom 
 
 made righteous before God (Gal 3:22-25). This righteousness is imparted in baptism
 
-(Gal 3:26-29).
-
-12:11-12 After the Jews settled in their land, they were to go to the city chosen by God to
+(Gal 3:26-29). 12:11-12 After the Jews settled in their land, they were to go to the city chosen by God to
 
 offer their sacrifices; they were not to offer their sacrifices anywhere else. But after the
 
@@ -622,9 +443,7 @@ coming of Christ, they were unable to do this, for Jerusalem was destroyed along
 
 temple. This destruction was proof enough that the Law had come to an end, for it was
 
-only a shadow of the kingdom to come (AthanG).
-
-12:13-14 The whole burnt offering was a type of "the sacrifice of praise to God . . . giving
+only a shadow of the kingdom to come (AthanG). 12:13-14 The whole burnt offering was a type of "the sacrifice of praise to God . . . giving
 
 thanks to His name" (Heb 13:15). "Now what is a spiritual whole burnt offering? It is 'the
 
@@ -638,9 +457,7 @@ follows that the Spirit is truly the place of the saints, and the saint is the p
 
 the Spirit, offering himself as he does for the indwelling of God, and is called God's
 
-temple" (BasilG).
-
-13:1-4 The truth does not allow room for human tradition to change it, either by addition
+temple" (BasilG). 13:1-4 The truth does not allow room for human tradition to change it, either by addition
 
 or by subtraction. False prophets arise among the people of God, and the Lord permits
 
@@ -648,9 +465,7 @@ this in order to allow our free will to operate and to show our love for God (Jo
 
 we are not robots in which the grace of God operates against the devil apart from synergy
 
-on our part.
-
-14:1
+on our part. 14:1
 
 The Scriptures speak of children in a twofold sense: one in which children are chosen
 
@@ -660,9 +475,7 @@ of their parents, such as Isaac of Abraham, Jacob of Isaac, and the twelve patri
 
 Jacob. Which of these two senses relates to the Son of God? The second, for He is the
 
-natural Offspring of His Father, and therefore one in essence with Him (AthanG).
-
-14:2
+natural Offspring of His Father, and therefore one in essence with Him (AthanG). 14:2
 
 When men choose something for themselves, they choose the best. Similarly, God
 
@@ -670,9 +483,7 @@ chooses the holy, for He first makes us holy; then we are to continue to be holy
 
 manner of life. For one is not saved by faith alone, but by faith plus a holy manner of life
 
-(JohnChr). Thus, we must add virtue to our faith (2Pt 1:5-11).
-
-15:1-11
+(JohnChr). Thus, we must add virtue to our faith (2Pt 1:5-11). 15:1-11
 
 A remission of debts was to be granted to poor brothers in the land every seven
 
@@ -682,35 +493,19 @@ accepted this remission as an act toward Himself (for the Lord your God, v. 2), 
 
 loves the poor. When He became incarnate, He was very poor, for He had "nowhere to lay
 
-His head" (Mt 8:20). By this He taught us not to be attached to money and possessions,
-
-and to show our love for the poor.
-
-
-### 16:1
+His head" (Mt 8:20). By this He taught us not to be attached to money and possessions, and to show our love for the poor. ### 16:1
 *(anchor: DEU.16:1)*
 
-The month of new corn was a type of becoming new creatures in Christ (2Co 5:17),
+The month of new corn was a type of becoming new creatures in Christ (2Co 5:17), bearing the good fruits of virtue by casting away all hypocrisy, deceit, and arrogance, and
 
-bearing the good fruits of virtue by casting away all hypocrisy, deceit, and arrogance, and
-
-putting on love for God and neighbor through the Holy Spirit (AthanG).
-
-
-### 16:8
+putting on love for God and neighbor through the Holy Spirit (AthanG). ### 16:8
 *(anchor: DEU.16:8)*
 
 The seventh and final day of the Feast of Unleavened Bread was a Sabbath on which
 
 Israel was to do no work . . . except what must be done for life. Therefore, the
 
-Sabbath was not a total cessation of all work; work essential to life might be done.
-
-Jesus cured a paralytic on the Sabbath, and this cure was obviously essential to his life.
-
-Yet the Jews accused Him of breaking the Sabbath, and even tried to kill Him (Jn 5:16).
-
-But these same Jews would take care of their animals on the Sabbath, even if one should
+Sabbath was not a total cessation of all work; work essential to life might be done. Jesus cured a paralytic on the Sabbath, and this cure was obviously essential to his life. Yet the Jews accused Him of breaking the Sabbath, and even tried to kill Him (Jn 5:16). But these same Jews would take care of their animals on the Sabbath, even if one should
 
 fall into a ditch. So Jesus asked them, "Of how much more value then is a man than a
 
@@ -718,22 +513,14 @@ sheep? Therefore it is lawful to do good on the Sabbath" (Mt 12:11, 12). Further
 
 also said, "The Son of Man is Lord even of the Sabbath" (Mt 12:8), and "The Sabbath was
 
-made for man, and not man for the Sabbath" (Mk 2:27).
-
-
-### 16:10
+made for man, and not man for the Sabbath" (Mk 2:27). ### 16:10
 *(anchor: DEU.16:10)*
 
-On the Day of Pentecost, the bread of the firstfruits was offered before the Lord.
-
-This was a type of the preaching of the apostles to the Jews in the Book of Acts, when
+On the Day of Pentecost, the bread of the firstfruits was offered before the Lord. This was a type of the preaching of the apostles to the Jews in the Book of Acts, when
 
 three thousand believed in the Lord. Thus, these Jews were consecrated to the Lord as the
 
-firstfruits of the Resurrection (JohnCas).
-
-
-### 17:1
+firstfruits of the Resurrection (JohnCas). ### 17:1
 *(anchor: DEU.17:1)*
 
 No animal was to be sacrificed having any blemish or defect, for that is an
@@ -758,14 +545,9 @@ The statement, "You shall put away their evil from among you," is quoted
 
 by St. Paul in 1Co 5:13 in relation to church discipline. This shows the close kinship
 
-between the old and new covenants, and one and the same Lord and Lawgiver (JohnChr).
+between the old and new covenants, and one and the same Lord and Lawgiver (JohnChr). The punishments were different, but the objective was the same, namely, a holy people to
 
-The punishments were different, but the objective was the same, namely, a holy people to
-
-the Lord.
-
-
-### 18:15-16
+the Lord. ### 18:15-16
 *(anchor: DEU.18:15)*
 
 The words of the people, "Let us not hear again the voice of the Lord our
@@ -784,29 +566,21 @@ tested, so as to fear the Lord and not sin, for they were too dull of hearing to
 
 another Prophet to come. However, they failed the test and died in the desert, because
 
-they would not obey the prophet Moses.
-
-
-### 18:17
+they would not obey the prophet Moses. ### 18:17
 *(anchor: DEU.18:17)*
 
 Forty years later Moses spoke to them of the prophecy concerning the Prophet to
 
 come. For at Mt. Sinai the Lord also spoke to him the words recorded in vv. 18-22. The
 
-new generation was now ready to hear this prophecy.
-
-
-### 18:18
+new generation was now ready to hear this prophecy. ### 18:18
 *(anchor: DEU.18:18)*
 
 The Prophet to come would be like Moses, in that Moses' short-term prophecies
 
 came to pass; therefore, his long-term ones were to be believed. This was the mark of a
 
-true prophet (vv. 21, 22), and the same would be true of the Prophet to come.
-
-The Prophet to come would speak all the Father commanded Him. This indicates He is
+true prophet (vv. 21, 22), and the same would be true of the Prophet to come. The Prophet to come would speak all the Father commanded Him. This indicates He is
 
 the Word made flesh (Jn 1:14), for no other prophet, including Moses, would ever speak
 
@@ -814,10 +588,7 @@ in such a manner. They were mere men, whereas the Prophet to come would be God i
 
 the flesh. Thus, the prophet Isaiah prophesied concerning this Prophet that the people
 
-would be "taught by God," that is, by God in the flesh (Is 54:13; Jn 6:45).
-
-
-### 18:19
+would be "taught by God," that is, by God in the flesh (Is 54:13; Jn 6:45). ### 18:19
 *(anchor: DEU.18:19)*
 
 The Prophet to come would speak in the Father's name, for no other prophet could
@@ -828,9 +599,7 @@ Father" (Jn 5:43; 10:25). Everyone else must address the Father as "Our Father" 
 
 Prayer), for the Son is the Father's Only-begotten. He is God of God and one in essence
 
-with the Father (Creed).
-
-Therefore, the Father says He would judge anyone refusing to listen to His Prophet (I
+with the Father (Creed). Therefore, the Father says He would judge anyone refusing to listen to His Prophet (I
 
 will require it of him). St. Peter interprets the words "will require" as meaning "utterly
 
@@ -844,24 +613,16 @@ commanded them to hear, made to cease both Sabbath and circumcision and all othe
 
 things."
 
-When Jesus multiplied the five loaves and the two fish to feed the five thousand men,
-
-the people said afterward, "This is truly the Prophet who is to come into the world" (Jn
+When Jesus multiplied the five loaves and the two fish to feed the five thousand men, the people said afterward, "This is truly the Prophet who is to come into the world" (Jn
 
 6:14). A few minutes later these same people "complained about Him" (Jn 6:41) because
 
-of what He taught, and consequently deserted Him (Jn 6:66).
-
-
-### 19:15-19
+of what He taught, and consequently deserted Him (Jn 6:66). ### 19:15-19
 *(anchor: DEU.19:15)*
 
 Based on this law, the false witnesses against Jesus should have been put to
 
-death, for they wanted Him to die (Mt 26:59-66).
-
-
-### 20:8
+death, for they wanted Him to die (Mt 26:59-66). ### 20:8
 *(anchor: DEU.20:8)*
 
 This word concerning the fearful and fainthearted is spoken in a mystery
@@ -874,10 +635,7 @@ unstable in all his ways." One cannot, so to speak, have one foot in the world a
 
 the kingdom of God. "No one can serve two masters," that is, "God and mammon" (Mt
 
-6:24).
-
-
-### 21:15
+6:24). ### 21:15
 *(anchor: DEU.21:15)*
 
 In the statement, the firstborn son is of her, the verb is literally means "come
@@ -892,27 +650,20 @@ beginning. However, the Son of God is the Offspring of the Father, and He is wit
 
 beginning; therefore, His Son, too, is without beginning. These heretics therefore
 
-condemned themselves by their false application of the verb in this verse (AthanG).
-
-
-### 21:22-23
+condemned themselves by their false application of the verb in this verse (AthanG). ### 21:22-23
 *(anchor: DEU.21:22)*
 
 Under the Mosaic Law, there were two kinds of curses. One was the curse of
 
 capital punishment by hanging, and the other of being cursed for transgressing the Law
 
-(26:26).
-
-The first applied to Christ when He redeemed us by hanging on the cross. St. Paul
+(26:26). The first applied to Christ when He redeemed us by hanging on the cross. St. Paul
 
 quoted v. 23 when he said, "Christ has redeemed us from the curse of the law, having
 
 become a curse for us (for it is written, 'Cursed is everyone who hangs on a tree')" (Gal
 
-3:13). He was the Innocent One who took the place of us, who were the guilty.
-
-However, the second curse in no way applies to Christ, for He never sinned, as St. Peter
+3:13). He was the Innocent One who took the place of us, who were the guilty. However, the second curse in no way applies to Christ, for He never sinned, as St. Peter
 
 also said of Him by quoting Is 53:9: "Who committed no sin, / Nor was deceit found in
 
@@ -924,10 +675,7 @@ His mouth" (1Pt 2:22). (JohnChr)
 
 If a brother's young bull or donkey fallen on the road was to be helped, how much
 
-more should a man's soul be helped on the road to eternal life (JohnChr).
-
-
-### 22:5
+more should a man's soul be helped on the road to eternal life (JohnChr). ### 22:5
 *(anchor: DEU.22:5)*
 
 The dignity and distinction between male and female were not to be obscured, for in
@@ -936,20 +684,14 @@ the beginning man was created male and female, and God blessed both (Gn 1:26, 27
 
 be male is not better than to be female, or vice versa, for God pronounced both "very
 
-good" (Gn 1:31). Therefore, a man should not try to be a woman, nor a woman a man.
-
-
-### 22:6
+good" (Gn 1:31). Therefore, a man should not try to be a woman, nor a woman a man. ### 22:6
 *(anchor: DEU.22:6)*
 
 , 7
 
 The dignity and protection of motherhood, even among birds, was to be
 
-maintained. As then, so now as well.
-
-
-### 22:8
+maintained. As then, so now as well. ### 22:8
 *(anchor: DEU.22:8)*
 
 When a man builds a house, love of neighbor must be in his mind. For love of
@@ -960,20 +702,12 @@ his neighbor "as himself." Under Grace one is to love his neighbor more than him
 
 Jesus said, "A new commandment I give to you, that you love one another; as I have loved
 
-you, that you also love one another" (Jn 13:34). Jesus loved mankind more than Himself,
-
-and He even died for His enemies (Rom 5:6-8).
-
-
-### 22:9-11
+you, that you also love one another" (Jn 13:34). Jesus loved mankind more than Himself, and He even died for His enemies (Rom 5:6-8). ### 22:9-11
 *(anchor: DEU.22:9)*
 
 Each distinct thing God created has its own dignity, for God declared everything
 
-He made to be "very good" (Gn 1:31).
-
-
-### 22:12
+He made to be "very good" (Gn 1:31). ### 22:12
 *(anchor: DEU.22:12)*
 
 The commandment concerning tassels was first given in Nm 15:37-41. These were
@@ -982,18 +716,12 @@ constant reminders to keep all the Lord's commandments. For the Israelites, as i
 
 all men, had a tendency to follow their own mind and will, rather than the will of God
 
-(Nm 15:39). The fault was not with the Law of Moses but with their own tendencies.
-
-
-### 22:13-28
+(Nm 15:39). The fault was not with the Law of Moses but with their own tendencies. ### 22:13-28
 *(anchor: DEU.22:13)*
 
 These laws were designed to protect both virginity and marriage, for both are
 
-"very good" in the eyes of God, for He created both (Gn 1:31).
-
-
-### 23:4
+"very good" in the eyes of God, for He created both (Gn 1:31). ### 23:4
 *(anchor: DEU.23:4)*
 
 The Ammonite and the Moabite speak of those heretics who employ subtle and
@@ -1004,16 +732,10 @@ incomprehensible generation from the Father, and the Holy Spirit's incomprehensi
 
 procession from the Father. They try to explain the unexplainable, and twist the truth
 
-with their sophistry (GrgTheo).
-
-
-### 23:7
+with their sophistry (GrgTheo). ### 23:7
 *(anchor: DEU.23:7)*
 
-There is no peaceful coexistence or good wishes for heretics or heresy.
-
-
-### 23:20-21
+There is no peaceful coexistence or good wishes for heretics or heresy. ### 23:20-21
 *(anchor: DEU.23:20)*
 
 Charging interest (usury) was a subtle form of greed, for it used the pretense of
@@ -1022,28 +744,20 @@ relieving a need to gain a profit. This was a subtle device to extort money from
 
 brother in the name of doing him good. It relieved poverty to make a gain from poverty. It
 
-used another's need as an occasion to become wealthy (JohnChr).
-
-
-### 24:1-4
+used another's need as an occasion to become wealthy (JohnChr). ### 24:1-4
 *(anchor: DEU.24:1)*
 
 These laws regarding divorce were given to protect the wife from being murdered
 
 by the husband, for hate leads to murder; and hardhearted husbands in Israel would kill
 
-the wives they hated. Another reason the laws were given was to prevent wife-swapping,
-
-which would have destroyed the sanctity of marriage. Therefore, divorce was allowed by
+the wives they hated. Another reason the laws were given was to prevent wife-swapping, which would have destroyed the sanctity of marriage. Therefore, divorce was allowed by
 
 the Lawgiver to prevent greater evils from occurring. For hardhearted husbands would
 
 not hesitate to murder and commit other atrocities if they thought it was to their
 
-advantage (JohnChr).
-
-
-### 24:16
+advantage (JohnChr). ### 24:16
 *(anchor: DEU.24:16)*
 
 Parents could not be punished because of their children's sins, nor vice versa. The
@@ -1056,11 +770,7 @@ fathers have eaten sour grapes, and the children's teeth are set on edge? As I l
 
 Lord, you shall no longer use this proverb in Israel. Behold, all souls are Mine; the soul of
 
-the father as well as the soul of the son is Mine; the soul who sins shall die" (Ezk 18:1-4).
-
-Therefore, each one is accountable for his own sins.
-
-What then is the meaning of 5:9, "repaying the sins of the fathers upon the children to
+the father as well as the soul of the son is Mine; the soul who sins shall die" (Ezk 18:1-4). Therefore, each one is accountable for his own sins. What then is the meaning of 5:9, "repaying the sins of the fathers upon the children to
 
 the third and fourth generation of those who hate Me"? This was not meant as a universal
 
@@ -1068,18 +778,11 @@ saying. It only referred to the children of those who sinned in Egypt, and who c
 
 the same sins as their fathers. Anyone who reads the Scriptures regarding Israel's
 
-deliverance from Egypt will find this to be true (JohnChr).
+deliverance from Egypt will find this to be true (JohnChr). This understanding also refutes the doctrine of original sin, which claims that all
 
-This understanding also refutes the doctrine of original sin, which claims that all
+mankind is guilty before God for Adam's sin. Adam was guilty for his own transgression. His transgression brought physical death upon all mankind, but not guilt before God
 
-mankind is guilty before God for Adam's sin. Adam was guilty for his own transgression.
-
-His transgression brought physical death upon all mankind, but not guilt before God
-
-(Rom 5:12). Each individual is accountable before God for his own sins.
-
-
-### 25:4
+(Rom 5:12). Each individual is accountable before God for his own sins. ### 25:4
 *(anchor: DEU.25:4)*
 
 The mystery hidden in this statement refers to teachers in the Church (1Ti 5:18; Lk
@@ -1106,10 +809,7 @@ father was Heli (Lk 3:23). Heli was his legal father, for he died childless. Jac
 
 brother by the same mother, raised up seed for him. This seed was Joseph, according to
 
-Matthew's genealogy (Mt 1:16). Thus, Jacob was Joseph's natural father (JohnDm).
-
-
-### 25:17-19
+Matthew's genealogy (Mt 1:16). Thus, Jacob was Joseph's natural father (JohnDm). ### 25:17-19
 *(anchor: DEU.25:17)*
 
 Remember Amalek. Do not forget. For he is a coward who does not fear God, and
@@ -1118,10 +818,7 @@ he attacks from behind when you are tired and weary. He is the devil. But overco
 
 with the sign of the cross, and you will enjoy rest in the Lord Jesus Christ, through whom
 
-you will overcome this enemy, even in your weakest moments.
-
-
-### 26:16-19
+you will overcome this enemy, even in your weakest moments. ### 26:16-19
 *(anchor: DEU.26:16)*
 
 Israel promised to keep the Law of Moses with all their heart and with all
@@ -1136,16 +833,9 @@ requirements. Therefore, the fault for not keeping it made them guilty. Furtherm
 
 Law itself had an inherent weakness. It could not give them divine power to help their
 
-willpower fulfill it. So the Law pointed them to Christ as the solution to their dilemma,
+willpower fulfill it. So the Law pointed them to Christ as the solution to their dilemma, for He is "the end of the Law for righteousness to everyone who believes" (Rom 10:4). Those under the Law who believed in this "end" would be made complete by His
 
-for He is "the end of the Law for righteousness to everyone who believes" (Rom 10:4).
-
-Those under the Law who believed in this "end" would be made complete by His
-
-Incarnation (Heb 11:39, 40).
-
-
-### 27:5-8
+Incarnation (Heb 11:39, 40). ### 27:5-8
 *(anchor: DEU.27:5)*
 
 Aspects of true worship are foreshadowed in these verses. Worship involves an
@@ -1158,10 +848,7 @@ life should be committed to God (whole burnt offerings). In the Eucharist (peace
 
 offerings), we eat and drink Christ's precious body and blood, and are filled with joy
 
-before the Lord.
-
-
-### 27:26
+before the Lord. ### 27:26
 *(anchor: DEU.27:26)*
 
 Under the Law, cursed is every man who does not abide in all the words of
@@ -1182,10 +869,7 @@ therefore could not come under such a curse. So He exchanged our curse for the o
 
 from our curse for transgressing the Law. An innocent Man's death delivered us from the
 
-curse, for by dying He delivered us who were dying (JohnChr).
-
-
-### 28:1-13
+curse, for by dying He delivered us who were dying (JohnChr). ### 28:1-13
 *(anchor: DEU.28:1)*
 
 Every blessing promised to the obedient in vv. 3-13 relates to life in this present
@@ -1200,10 +884,7 @@ come. For these are spiritual blessings in Christ, as St. Paul said in Eph 1:3: 
 
 the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual
 
-blessing in the heavenly places in Christ" (JohnChr).
-
-
-### 28:47
+blessing in the heavenly places in Christ" (JohnChr). ### 28:47
 *(anchor: DEU.28:47)*
 
 The Law of Moses cannot be blamed for Israel's failure to serve the Lord. The
@@ -1216,16 +897,10 @@ new covenant, the faithful serve Him with thanksgiving, even in the midst of suf
 
 and persecution, "giving thanks always for all things to God the Father in the name of our
 
-Lord Jesus Christ" (Eph 5:20).
-
-
-### 28:58
+Lord Jesus Christ" (Eph 5:20). ### 28:58
 *(anchor: DEU.28:58)*
 
-The beginning of faith is to fear the Lord (IsaacS).
-
-
-### 28:66
+The beginning of faith is to fear the Lord (IsaacS). ### 28:66
 *(anchor: DEU.28:66)*
 
 This is a prophecy concerning the Crucifixion. On the cross, the Lord hung before
@@ -1236,10 +911,7 @@ Life, for the cross is life-giving (AthanG). Whereas the Law of Moses cannot giv
 
 life, the cross does to those who believe. For Christ is God in the flesh; therefore, His
 
-death in the flesh gives eternal life to those who obey Him.
-
-
-### 29:1-3
+death in the flesh gives eternal life to those who obey Him. ### 29:1-3
 *(anchor: DEU.29:1)*
 
 The children of Israel saw with their physical eyes the Lord's signs and great
@@ -1250,47 +922,28 @@ ears of their heart. Why then did He not give them such eyes and ears? Because t
 
 unwilling to receive illumination. He was willing, but they were not. He would not
 
-commit Himself to them, because they would not commit themselves to Him.
-
-
-### 29:4
+commit Himself to them, because they would not commit themselves to Him. ### 29:4
 *(anchor: DEU.29:4)*
 
-Their clothes and shoes did not wear out during the forty-year period in the desert.
-
-This was a type of "the resurrection of the dead and the life of the world to come" (Creed;
-
-AmbM).
-
-
-### 29:17-18
+Their clothes and shoes did not wear out during the forty-year period in the desert. This was a type of "the resurrection of the dead and the life of the world to come" (Creed; AmbM). ### 29:17-18
 *(anchor: DEU.29:17)*
 
 Gall and bitterness is likened to a root that springs up and defiles others. It
 
-begins when one flatters himself in the deceptions (wanderings) of his own heart.
+begins when one flatters himself in the deceptions (wanderings) of his own heart. Bitterness of spirit results, and this causes one to "fall short of the grace of God" (Heb
 
-Bitterness of spirit results, and this causes one to "fall short of the grace of God" (Heb
-
-12:15).
-
-
-### 29:28
+12:15). ### 29:28
 *(anchor: DEU.29:28)*
 
 We gladly own whatever things the Lord is pleased to reveal to us in the Holy
 
 Scriptures. But we avoid prying into the secret things of the Lord, for this leads to
 
-heresies that destroy the soul. Questions are sometimes asked, "How can these things be?
-
-How is the Son begotten from the Father before all time and ages? How can the Holy
+heresies that destroy the soul. Questions are sometimes asked, "How can these things be? How is the Son begotten from the Father before all time and ages? How can the Holy
 
 Spirit proceed from the Father? What is the essence of God?" These and other questions
 
-of this kind are secrets only known by the Holy Trinity. Therefore, the Creed begins with,
-
-"I believe."
+of this kind are secrets only known by the Holy Trinity. Therefore, the Creed begins with, "I believe."
 
 
 ### 30:11
@@ -1306,9 +959,7 @@ multitude of commandments in the Law of Moses were "too burdensome" for the peop
 
 to be able to become righteous in God's sight. As St. Peter said, "neither our fathers nor
 
-we were able to bear" them (Acts 15:10).
-
-30:11-13
+we were able to bear" them (Acts 15:10). 30:11-13
 
 Far off means in heaven or beyond the sea. By describing "far off" in this
 
@@ -1326,19 +977,12 @@ men are possible with God" (Lk 18:27), and, "Is anything impossible with God?" (
 
 18:14). How then are these questions based on human reasoning cast out? Moses gives
 
-the answer in v. 14.
-
-
-### 30:14
+the answer in v. 14. ### 30:14
 *(anchor: DEU.30:14)*
 
 The word is the word concerning the attainment of righteousness before God. It is
 
-the word that casts out human reasoning and the supposed impossibilities raised by it.
-
-This word is so very near a person that it is in one's very mouth, heart, and hands.
-
-One does not need to ascend to heaven to find it, nor cross the sea. It is God's word sown
+the word that casts out human reasoning and the supposed impossibilities raised by it. This word is so very near a person that it is in one's very mouth, heart, and hands. One does not need to ascend to heaven to find it, nor cross the sea. It is God's word sown
 
 in a believing heart, confessed with the mouth, and worked out with the hands. It is
 
@@ -1346,17 +990,13 @@ righteousness through faith. It is the faith of Abraham, who cast out all human 
 
 and the impossibilities raised by it, and left all to the power and glory of God (Rom 4:19-
 
-22).
-
-In Rom 10:6-8, St. Paul refers to vv. 11-14, saying Moses commandment speaks of "the
+22). In Rom 10:6-8, St. Paul refers to vv. 11-14, saying Moses commandment speaks of "the
 
 righteousness of faith" and "the word of faith." He also shows it was the Lord Jesus Christ
 
 who made this faith possible (Rom 10:9, 10). "What does the phrase mean, 'The word is
 
-near you'? It means, 'It is easy.' For in your heart and on your tongue is your salvation.
-
-There is no long journey to go on, no seas to sail over, no mountains to climb, to get
+near you'? It means, 'It is easy.' For in your heart and on your tongue is your salvation. There is no long journey to go on, no seas to sail over, no mountains to climb, to get
 
 saved. But if you have such a heart, you may even be saved while you sit at home. For 'in
 
@@ -1366,10 +1006,7 @@ word of faith easy, and says, 'God raised Him from the dead.' For just reflect u
 
 worthiness of the Worker, and you will no longer see any difficulty in the thing"
 
-(JohnChr).
-
-
-### 31:6-8
+(JohnChr). ### 31:6-8
 *(anchor: DEU.31:6)*
 
 These words inspired the words in Heb 13:5, 6, "Let your conduct be without
@@ -1386,10 +1023,7 @@ fear. What can man do to me?'" The Lord will never forsake His people--a faithfu
 
 bold promise. Faithfulness and boldness on our part to believe Him will bring about
 
-contentment in us, and will deliver us from covetousness and the fear of man.
-
-
-### 31:16-17
+contentment in us, and will deliver us from covetousness and the fear of man. ### 31:16-17
 *(anchor: DEU.31:16)*
 
 Why does the Lord say, "I will forsake them," when He said in vv. 6-8 that He
@@ -1398,28 +1032,17 @@ would not forsake them? Because it is customary in Scripture to call God's permi
 
 His action. He permits people to forsake Him because man has free will, and virtue is not
 
-forced (JohnDm).
-
-
-### 32:4
+forced (JohnDm). ### 32:4
 *(anchor: DEU.32:4)*
 
 God is faithful because He is trustworthy; we are faithful because we believe and
 
-obey Him (AthanG).
-
-
-### 32:5
+obey Him (AthanG). ### 32:5
 *(anchor: DEU.32:5)*
 
-Blameworthy children are not His because they are God's children in name only.
+Blameworthy children are not His because they are God's children in name only. True children are blameless, because they are His children in substance as well as in
 
-True children are blameless, because they are His children in substance as well as in
-
-name.
-
-
-### 32:6-18
+name. ### 32:6-18
 *(anchor: DEU.32:6)*
 
 When the Scriptures wish to signify a son, it uses the term beget, rather than the
@@ -1432,10 +1055,7 @@ through His Only-begotten Son and His Life-giving Spirit (Jn 1:12-14; Rom 8:14-1
 
 1:18). But Moses warns God's children not to abandon the God who begot them, nor
 
-to forget the God who nourished them.
-
-
-### 32:7
+to forget the God who nourished them. ### 32:7
 *(anchor: DEU.32:7)*
 
 We remember the days of old and consider the years of many generations
@@ -1448,9 +1068,7 @@ fair garden of the Scriptures, so fragrant and sweet and blooming, with its vari
 
 of spiritual and divinely-inspired birds ringing all round our ears, laying hold of our
 
-hearts, comforting the mourner, pacifying the angry and filling him with joy everlasting,
-
-bearing us up to the Only-begotten Son and bringing us through Him to the Father of
+hearts, comforting the mourner, pacifying the angry and filling him with joy everlasting, bearing us up to the Only-begotten Son and bringing us through Him to the Father of
 
 Lights. But let us not knock carelessly at the door of the Scriptures but rather zealously
 
@@ -1462,60 +1080,40 @@ persist, let us talk much, let us inquire. 'For ask your Father and He will tell
 
 elders and they will tell you.' Let us draw from the fountain of the garden continual and
 
-pure waters springing up to eternal life. Here let us be in luxury, let us revel to the full,
+pure waters springing up to eternal life. Here let us be in luxury, let us revel to the full, for the Scriptures possess inexhaustible grace. But if we are able to pluck anything
 
-for the Scriptures possess inexhaustible grace. But if we are able to pluck anything
-
-profitable from outside sources, there is nothing to forbid that" (JohnDm).
-
-
-### 32:12
+profitable from outside sources, there is nothing to forbid that" (JohnDm). ### 32:12
 *(anchor: DEU.32:12)*
 
 Moses does not use the word alone to divide the Son and the Spirit from the
 
 Father. Rather, this word is said in relation to any foreign god with them, for the
 
-division is between the Lord and false gods (BasilG).
-
-
-### 32:13
+division is between the Lord and false gods (BasilG). ### 32:13
 *(anchor: DEU.32:13)*
 
 The rock speaks of Christ, and the oil of the Holy Spirit, and the honey of the
 
-spiritual food, for Christ gives us His Holy Spirit (1Co 10:3, 4; Rom 8:9).
-
-
-### 32:17
+spiritual food, for Christ gives us His Holy Spirit (1Co 10:3, 4; Rom 8:9). ### 32:17
 *(anchor: DEU.32:17)*
 
 To worship anything but the true God--the Father, the Son, and the Holy Spirit--is
 
-to worship demons (BasilG).
-
-
-### 32:20
+to worship demons (BasilG). ### 32:20
 *(anchor: DEU.32:20)*
 
 Sons in whom is no faith are children in name only, but true sons are children
 
 both in name and in substance. "Now faith is the substance of things hoped for, the
 
-evidence of things not seen" (Heb 11:1).
-
-
-### 32:21
+evidence of things not seen" (Heb 11:1). ### 32:21
 *(anchor: DEU.32:21)*
 
 This is a prophecy concerning the Gentiles who would become God's children
 
 through faith in Christ, thus provoking the Jews to jealousy (Rom 10:19). The Speaker in
 
-this prophecy (vv. 20, 21) is the Word and Son of God (AthanG; HilryP).
-
-
-### 32:30
+this prophecy (vv. 20, 21) is the Word and Son of God (AthanG; HilryP). ### 32:30
 *(anchor: DEU.32:30)*
 
 This is a prophecy concerning warfare against heresy. Thus, how could one chase
@@ -1528,10 +1126,7 @@ plain statements of truth against the falsehood of logicians. For the truth exhi
 
 as a headless trunk. It is the task of truth not only to cut off the head of false logic, but
 
-also to show that it is indeed cut off (GrgNy).
-
-
-### 32:39
+also to show that it is indeed cut off (GrgNy). ### 32:39
 *(anchor: DEU.32:39)*
 
 This statement could be made not only by the Father, but also by the Son or the
@@ -1540,86 +1135,49 @@ Holy Spirit. Each could say, "There is no God besides Me." For the statement is 
 
 in contrast to false gods (AthanG; BasilG; HilryP). It is not a contrast between the
 
-Persons of the Holy Trinity, our one God.
-
-
-### 32:43
+Persons of the Holy Trinity, our one God. ### 32:43
 *(anchor: DEU.32:43)*
 
 This prophecy is quoted in Rom 15:10 and Heb 6:2, to show that both men and
 
 angels are to worship God Incarnate, the Son of God, for He is their Maker. Moses also
 
-worships Him.
-
-
-### 32:49-50
+worships Him. ### 32:49-50
 *(anchor: DEU.32:49)*
 
-Moses had no fear of death, but rejoiced to depart to be with the Lord (AthanG).
-
-
-### 33:2
+Moses had no fear of death, but rejoiced to depart to be with the Lord (AthanG). ### 33:2
 *(anchor: DEU.33:2)*
 
 The Lord who appeared to Israel was the Son of God. He revealed Himself many
 
 times to the prophets throughout the Old Testament. Angels sometimes appeared with
 
-Him, as did the two angels in Gn 19:1.
-
-
-### 33:3-4
+Him, as did the two angels in Gn 19:1. ### 33:3-4
 *(anchor: DEU.33:3)*
 
-The Son of God was the Lawgiver who gave Moses His words, and Moses, in turn,
-
-gave them to Israel.
-
-
-### 33:5
+The Son of God was the Lawgiver who gave Moses His words, and Moses, in turn, gave them to Israel. ### 33:5
 *(anchor: DEU.33:5)*
 
-The Ruler is the Lord Jesus Christ.
-
-
-### 33:7
+The Ruler is the Lord Jesus Christ. ### 33:7
 *(anchor: DEU.33:7)*
 
-The voice of Judah is the Lord Jesus Christ, who visited His people.
-
-
-### 33:9
+The voice of Judah is the Lord Jesus Christ, who visited His people. ### 33:9
 *(anchor: DEU.33:9)*
 
 Commitment to the Lord takes precedence over commitment to family (Mt 10:37-
 
-39; JohnChr; AmbM).
-
-
-### 33:16
+39; JohnChr; AmbM). ### 33:16
 *(anchor: DEU.33:16)*
 
 The One revealed in the Bush was the Son of God. In this revelation, He
 
-foreshadowed His coming Incarnation (JohnDm; HilryP; JohnChr; AthanG).
-
-
-### 33:26
+foreshadowed His coming Incarnation (JohnDm; HilryP; JohnChr; AthanG). ### 33:26
 *(anchor: DEU.33:26)*
 
-The God of the Beloved is the Lord Jesus Christ, and "the Beloved" is His Church.
-
-
-### 33:29
+The God of the Beloved is the Lord Jesus Christ, and "the Beloved" is His Church. ### 33:29
 *(anchor: DEU.33:29)*
 
-A people saved by the Lord are those who call upon His name (Rom 10:12, 13).
-
-His name is the Lord Jesus Christ.
-
-
-### 34:4
+A people saved by the Lord are those who call upon His name (Rom 10:12, 13). His name is the Lord Jesus Christ. ### 34:4
 *(anchor: DEU.34:4)*
 
 The Lord swore to give the land Moses saw to Abraham, Isaac, and Jacob as an
@@ -1634,23 +1192,15 @@ like faith, will receive this world at "the resurrection of the dead" (Creed; He
 
 world to come is this present creation redeemed along with the children of God (Rom
 
-8:21, 22).
-
-
-### 34:9
+8:21, 22). ### 34:9
 *(anchor: DEU.34:9)*
 
 The Spirit of understanding is the Holy Spirit, one of the Persons of the Holy
 
-Trinity.
-
-
-### 34:10
+Trinity. ### 34:10
 *(anchor: DEU.34:10)*
 
-There was no prophet in Israel like Moses, until the coming of Christ, the Prophet.
-
-He was like Moses, but Moses was not like Him, for Christ is God in the flesh. The Lord
+There was no prophet in Israel like Moses, until the coming of Christ, the Prophet. He was like Moses, but Moses was not like Him, for Christ is God in the flesh. The Lord
 
 who sent Moses was the Son of God, who is the I AM (Ex 3). He sent Moses to Egypt to
 

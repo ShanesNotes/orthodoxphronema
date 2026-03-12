@@ -14,7 +14,8 @@ has_additions: false
 
 ## Chapter 1
 
-JAS.1:2 My brethren, count it all joy when you fall into various trials, 3 knowing that the testing of your faith produces patience.
+JAS.1:2 My brethren, count it all joy when you fall into various trials,
+JAS.1:3 knowing that the testing of your faith produces patience.
 
 ### Wisdom for Trials
 
@@ -55,7 +56,8 @@ JAS.1:27 Pure and undefiled religion before God and the Father is this: to visit
 
 JAS.2:1 ybrethren, do not hold the faith of our Lord Jesus Christ, the Lord of glory, with partiality.
 JAS.2:2 For if there should come into your assembly aman with gold rings, in fine apparel, and there should also come in apoor man in filthy clothes,
-JAS.2:3 and you pay attention to the one wearing the fine clothes and say to him, 'You sit here in agood place,' and say to the poor man, 'You stand there,' or, 'Sit here at my footstool,' 4 have you not shown partiality among yourselves, and become judges with evil thoughts?
+JAS.2:3 and you pay attention to the one wearing the fine clothes and say to him, 'You sit here in agood place,' and say to the poor man, 'You stand there,' or, 'Sit here at my footstool,'
+JAS.2:4 have you not shown partiality among yourselves, and become judges with evil thoughts?
 JAS.2:5 Listen, my beloved brethren: Has God not chosen the poor of this world to be rich in faith and heirs of the kingdom which He promised to those who love Him?
 JAS.2:6 But you have dishonored the poor man. Do not the rich oppress you and drag you into the courts?
 JAS.2:7 Do they not blaspheme that noble name by which you are called?
@@ -130,7 +132,8 @@ JAS.4:11 Do not speak evil of one another, brethren. He who speaks evil of abrot
 ### Being Overly Confident
 
 JAS.4:12 There is one Lawgiver, awho is able to save and to destroy. Who bare you to judge another? c
-JAS.4:13 Come now, you who say, 'Today or tomorrow we will ago to such and such acity, spend ayear there, buy and sell, and make aprofit'; 14 whereas you do not know what will happen tomorrow. For what is your life? It is even avapor that appears for alittle time and then vanishes away.
+JAS.4:13 Come now, you who say, 'Today or tomorrow we will ago to such and such acity, spend ayear there, buy and sell, and make aprofit';
+JAS.4:14 whereas you do not know what will happen tomorrow. For what is your life? It is even avapor that appears for alittle time and then vanishes away.
 JAS.4:15 Instead you ought to say, 'If the Lord wills, we shall live and do this or that.'
 JAS.4:16 But now you boast in your arrogance. All such boasting is evil.
 

@@ -14,7 +14,8 @@ has_additions: false
 
 ## Chapter 1
 
-REV.1:1 he Revelation of Jesus Christ, which God gave Him to show His servants-things which must shortly take place. And He sent and signified it by His angel to His servant John, 2 who bore witness to the word of God, and to the testimony of Jesus Christ, to all things that he saw.
+REV.1:1 he Revelation of Jesus Christ, which God gave Him to show His servants-things which must shortly take place. And He sent and signified it by His angel to His servant John,
+REV.1:2 who bore witness to the word of God, and to the testimony of Jesus Christ, to all things that he saw.
 
 ### Greeting to the Seven Churches
 
@@ -198,7 +199,10 @@ REV.7:4 And I heard the number of those who were sealed. One hundred and forty-f
 
 ### Final Ingathering and Worship
 
-REV.7:5 5 of the tribe of Judah twelvethousand were sealed; aof the tribe of Reuben twelvethousand were sealed; of the tribe of Gad twelvethousand were sealed; 6 of the tribe of Asher twelvethousand were sealed; of the tribe of Naphtali twelvethousand were sealed; of the tribe of Manasseh twelvethousand were sealed; 7 of the tribe of Simeon twelvethousand were sealed; of the tribe of Lev itwelvethousand were sealed; of the tribe of Issachar twelvethousand were sealed; 8 of the tribe of Zebulun twelvethousand were sealed; of the tribe of Joseph twelvethousand were sealed; of the tribe of Benjamin twelvethousand were sealed.
+REV.7:5 5 of the tribe of Judah twelvethousand were sealed; aof the tribe of Reuben twelvethousand were sealed; of the tribe of Gad twelvethousand were sealed;
+REV.7:6 of the tribe of Asher twelvethousand were sealed; of the tribe of Naphtali twelvethousand were sealed; of the tribe of Manasseh twelvethousand were sealed;
+REV.7:7 of the tribe of Simeon twelvethousand were sealed; of the tribe of Lev itwelvethousand were sealed; of the tribe of Issachar twelvethousand were sealed;
+REV.7:8 of the tribe of Zebulun twelvethousand were sealed; of the tribe of Joseph twelvethousand were sealed; of the tribe of Benjamin twelvethousand were sealed.
 REV.7:9 After these things I looked, and behold, agreat multitude which no one could number, of all nations, tribes, peoples, and tongues, standing before the throne and before the Lamb, clothed with white robes, with palm branches in their hands,
 REV.7:10 and crying out with aloud voice, saying, 'Salvation belongs to our God who sits on the throne, and to the Lamb!'
 REV.7:11 All the angels stood around the throne and the elders and the four living creatures, and fell on their faces before the throne and worshiped God,
@@ -380,7 +384,8 @@ REV.14:4 These are the ones who were not defiled with women, for they are virgin
 ### Proclamation of Angels
 
 REV.14:5 And in their mouth was found no deceit, afor they are without fault before the throne of God. b
-REV.14:6 Then I saw another angel flying in the midst of heaven, having the everlasting gospel to preach to those who dwell on the earth-to every nation, tribe, tongue, and people- 7 saying with aloud voice, 'Fear God and give glory to Him, for the hour of His judgment has come; and worship Him who made heaven and earth, the sea and springs of water.'
+REV.14:6 Then I saw another angel flying in the midst of heaven, having the everlasting gospel to preach to those who dwell on the earth-to every nation, tribe, tongue, and people-
+REV.14:7 saying with aloud voice, 'Fear God and give glory to Him, for the hour of His judgment has come; and worship Him who made heaven and earth, the sea and springs of water.'
 REV.14:8 And another angel followed, saying, 'Babylon ais fallen, is fallen, that great city, because she has made all nations drink of the wine of the wrath of her fornication.'
 REV.14:9 Then athird angel followed them, saying with aloud voice, 'If anyone worships the beast and his image, and receives his mark on his forehead or on his hand,
 REV.14:10 he himself shall also drink of the wine of the wrath of God, which is poured out full strength into the cup of His indignation. He shall be tormented with fire and brimstone in the presence of the holy angels and in the presence of the Lamb.
@@ -452,20 +457,12 @@ REV.16:15 'Behold, I am coming as athief. Blessed is he who watches, and keeps h
 ### Bowl Seven: Earth Utterly Shaken
 
 REV.16:16 And they gathered them together to the place called in Hebrew, Armageddon. a
+REV.16:17 hen the seventh angel poured out his bowl into the air, and aloud voice came out of the temple of heaven, from the throne, saying, 'It is done!'
+REV.16:19 Now the great city was divided into three parts, and the cities of the nations fell. And great Babylon was remembered before God, to give her the cup of the wine of the fierceness of His wrath.
+REV.16:20 Then every island fled away, and the mountains were not found.
+REV.16:21 And great hail from heaven fell upon men, each hailstone about the weight of atalent. Men blasphemed God because of the plague of the hail, since that plague was exceedingly great.
 ## Chapter 17
 
-REV.17:1 hen the seventh angel poured out his bowl into the air, and aloud voice came out of the temple of heaven, from the throne, saying, 'It is done!'
-
-### The Judgment of Babylon
-
-REV.17:18 And there were noises and thunderings and lightnings; and there was agreat earthquake, such amighty and great earthquake as had not occurred since men were on the earth.
-REV.17:19 Now the great city was divided into three parts, and the cities of the nations fell. And great Babylon was remembered before God, to give her the cup of the wine of the fierceness of His wrath.
-REV.17:20 Then every island fled away, and the mountains were not found.
-
-### The Great Harlot and Her Beast
-
-REV.17:21 And great hail from heaven fell upon men, each hailstone about the weight of atalent. Men blasphemed God because of the plague of the hail, since that plague was exceedingly great.
-REV.17:17 Then one of the seven angels who had the seven bowls came and talked with me, saying to me, a 'Come, I will show you the judgment of the great harlot who sits on many waters, 2 with whom the kings of the earth committed fornication, and the inhabitants of the earth were made drunk with the wine of her fornication.'
 REV.17:3 So he carried me away in the Spirit into the wilderness. And I saw awoman sitting on ascarlet beast which was full of names of blasphemy, having seven heads and ten horns.
 REV.17:4 The woman was arrayed in purple and scarlet, and adorned with gold and precious stones and pearls, having in her hand agolden cup full of abominations and the filthiness of her fornication. a
 
@@ -486,11 +483,11 @@ REV.17:13 These are of one mind, and they will give their power and authority to
 REV.17:14 These will make war with the Lamb, and the Lamb will overcome them, for He is Lord of lords and King of kings; and those who are with Him are called, chosen, and faithful.'
 REV.17:15 Then he said to me, 'The waters which you saw, where the harlot sits, are peoples, multitudes, nations, and tongues.
 REV.17:16 And the ten horns which you saw on athe beast, these will hate the harlot, make her desolate and naked, eat her flesh and burn her with fire.
-REV.17:17 For God has put it into their hearts to fulfill His purpose, to be of one mind, and to give their kingdom to the beast, until the words of God are fulfilled.
+REV.17:17 Then one of the seven angels who had the seven bowls came and talked with me, saying to me, a 'Come, I will show you the judgment of the great harlot who sits on many waters, 2 with whom the kings of the earth committed fornication, and the inhabitants of the earth were made drunk with the wine of her fornication.' For God has put it into their hearts to fulfill His purpose, to be of one mind, and to give their kingdom to the beast, until the words of God are fulfilled.
 
 ### The Judgment of Babylon
 
-REV.17:18 And the woman whom you saw is that great city which reigns over the kings of the earth.'
+REV.17:18 And there were noises and thunderings and lightnings; and there was agreat earthquake, such amighty and great earthquake as had not occurred since men were on the earth. And the woman whom you saw is that great city which reigns over the kings of the earth.'
 ## Chapter 18
 
 REV.18:1 fter these things I saw another angel coming down from heaven, having great authority, and the earth was illuminated with his glory.
@@ -504,8 +501,11 @@ REV.18:7 In the measure that she glorified herself and lived luxuriously, in the
 ### The World Mourns for Babylon
 
 REV.18:8 Therefore her plagues will come in one day-death and mourning and famine. And she will be utterly burned with fire, for strong is the Lord God who judges aher.
-REV.18:9 'The kings of the earth who committed fornication and lived luxuriously with her will weep and lament for her, when they see the smoke of her burning, 10 standing at adistance for fear of her torment, saying, 'Alas, alas, that great city Babylon, that mighty city! For in one hour your judgment has come.'
-REV.18:11 'And the merchants of the earth will weep and mourn over her, for no one buys their merchandise anymore: 12 merchandise of gold and silver, precious stones and pearls, fine linen and purple, silk and scarlet, every kind of citron wood, every kind of object of ivory, every kind of object of most precious wood, bronze, iron, and marble; 13 and cinnamon and incense, fragrant oil and frankincense, wine and oil, fine flour and wheat, cattle and sheep, horses and chariots, and bodies and souls of men.
+REV.18:9 'The kings of the earth who committed fornication and lived luxuriously with her will weep and lament for her, when they see the smoke of her burning,
+REV.18:10 standing at adistance for fear of her torment, saying, 'Alas, alas, that great city Babylon, that mighty city! For in one hour your judgment has come.'
+REV.18:11 'And the merchants of the earth will weep and mourn over her, for no one buys their merchandise anymore:
+REV.18:12 merchandise of gold and silver, precious stones and pearls, fine linen and purple, silk and scarlet, every kind of citron wood, every kind of object of ivory, every kind of object of most precious wood, bronze, iron, and marble;
+REV.18:13 and cinnamon and incense, fragrant oil and frankincense, wine and oil, fine flour and wheat, cattle and sheep, horses and chariots, and bodies and souls of men.
 REV.18:14 The fruit that your soul longed for has gone from you, and all the things which are rich and splendid have gone from you, aand you shall find them no more at all.
 REV.18:15 The merchants of these things, who became rich by her, will stand at adistance for fear of her torment, weeping and wailing,
 REV.18:16 and saying, 'Alas, alas, that great city that was clothed in fine linen, purple, and scarlet, and adorned with gold and precious stones and pearls!
@@ -547,7 +547,8 @@ REV.19:15 Now out of His mouth goes asharp asword, that with it He should strike
 ### Defeat of the Beast and False Prophet
 
 REV.19:16 And He has on His robe and on His thigh aname written:
-REV.19:17 Then I saw an angel standing in the sun; and he cried with aloud voice, saying to all the birds that fly in the midst of heaven, 'Come and gather together for the supper of the great God, a 18 that you may eat the flesh of kings, the flesh of captains, the flesh of mighty men, the flesh of horses and of those who sit on them, and the flesh of all people, free aand slave, both small and great.'
+REV.19:17 Then I saw an angel standing in the sun; and he cried with aloud voice, saying to all the birds that fly in the midst of heaven, 'Come and gather together for the supper of the great God, a
+REV.19:18 that you may eat the flesh of kings, the flesh of captains, the flesh of mighty men, the flesh of horses and of those who sit on them, and the flesh of all people, free aand slave, both small and great.'
 REV.19:19 And I saw the beast, the kings of the earth, and their armies, gathered together to make war against Him who sat on the horse and against His army.
 REV.19:20 Then the beast was captured, and with him the false prophet who worked signs in his presence, by which he deceived those who received the mark of the beast and those who worshiped his image. These two were cast alive into the lake of fire burning with brimstone.
 
@@ -594,7 +595,8 @@ REV.21:7 He who overcomes shall inherit all things, aand I will be his God and h
 
 REV.21:8 But the cowardly, unbelieving, aabominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone, which is the second death.'
 REV.21:9 Then one of the seven angels who had the seven bowls filled with the seven last plagues came to me aand talked with me, saying, 'Come, I will show you the bride, the Lamb's wife.' b
-REV.21:10 And he carried me away in the Spirit to agreat and high mountain, and showed me the great city, the holy a Jerusalem, descending out of heaven from God, 11 having the glory of God. Her light was like amost precious stone, like ajasper stone, clear as crystal.
+REV.21:10 And he carried me away in the Spirit to agreat and high mountain, and showed me the great city, the holy a Jerusalem, descending out of heaven from God,
+REV.21:11 having the glory of God. Her light was like amost precious stone, like ajasper stone, clear as crystal.
 REV.21:12 Also she had agreat and high wall with twelve gates, and twelve angels at the gates, and names written on them, which are the names of the twelve tribes of the children of Israel:
 REV.21:13 three gates on the east, three gates on the north, three gates on the south, and three gates on the west.
 REV.21:14 Now the wall of the city had twelve foundations, and on them were the names aof the twelve apostles of the Lamb.
@@ -608,18 +610,15 @@ REV.21:20 the fifth sardonyx, the sixth sardius, the seventh chrysolite, the eig
 ### Healing of the Nations
 
 REV.21:21 The twelve gates were twelve pearls: each individual gate was of one pearl. And the street of the city was pure gold, like transparent glass.
+REV.21:22 ut I saw no temple in it, for the Lord God Almighty and the Lamb are its temple.
+REV.21:23 The city had no need of the sun or of the moon to shine in it, afor the glory bof God illuminated it. The Lamb is its light.
+REV.21:24 And the nations of those who are saved ashall walk in its light, and the kings of the earth bring their glory and honor into it. b
+REV.21:25 Its gates shall not be shut at all by day (there shall be no night there).
+REV.21:26 And they shall bring the glory and the honor of the nations into it. a
+REV.21:27 But there shall by no means enter it anything that defiles, or causes aan abomination or alie, but only those who are written in the Lamb's Book of Life.
 ## Chapter 22
 
-REV.22:1 ut I saw no temple in it, for the Lord God Almighty and the Lamb are its temple.
-REV.22:23 The city had no need of the sun or of the moon to shine in it, afor the glory bof God illuminated it. The Lamb is its light.
-REV.22:24 And the nations of those who are saved ashall walk in its light, and the kings of the earth bring their glory and honor into it. b
-REV.22:25 Its gates shall not be shut at all by day (there shall be no night there).
-REV.22:26 And they shall bring the glory and the honor of the nations into it. a
-
-### Paradise Regained
-
-REV.22:27 But there shall by no means enter it anything that defiles, or causes aan abomination or alie, but only those who are written in the Lamb's Book of Life.
-REV.22:22 And he showed me apure ariver of water of life, clear as crystal, proceeding from the throne of God and of the Lamb.
+REV.22:1 And he showed me apure ariver of water of life, clear as crystal, proceeding from the throne of God and of the Lamb.
 REV.22:2 In the middle of its street, and on either side of the river, was the tree of life, which bore twelve fruits, each tree yielding its fruit every month. The leaves of the tree were for the healing of the nations.
 REV.22:3 And there shall be no more curse, but the throne of God and of the Lamb shall be in it, and His servants shall serve Him.
 REV.22:4 They shall see His face, and His name shall be on their foreheads.

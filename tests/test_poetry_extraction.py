@@ -19,7 +19,12 @@ from pipeline.parse.psa_extract import (
 
 def test_clean_poetry_text_repairs_common_pdftotext_kerning():
     text = "B lessed is the m an who shall lov e wisdom ."
-    assert clean_poetry_text(text) == "Blessed is the man who shall love wisdom ."
+    assert clean_poetry_text(text) == "Blessed is the man who shall love wisdom."
+
+
+def test_clean_poetry_text_repairs_psalmic_kerning_and_punctuation():
+    text = 'How long, O y ou sons of m en, will y ou love v ain things ;'
+    assert clean_poetry_text(text) == "How long, O you sons of men, will you love vain things;"
 
 
 def test_match_chapter_header_supports_prefixes_and_custom_regexes():

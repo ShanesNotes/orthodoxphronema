@@ -12,32 +12,9 @@ deuterocanonical: false
 has_additions: false
 ---
 
-## Chapter 0
-
-
-### Verses in John Chapter 19
-
-JOH.0:21 Back to the New Testament Back to Table of Contents Previous Home Next Verses in John Chapter 20 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 21, 22, 23, 24, 25, 26, 27, 28, 29, 30
-
-### The Book of John
-
-JOH.0:31 Back to Chapters in John Back to the New Testament Back to Table of Contents Author -According to tradition, St. John the Apostle (also called the Theologian because of the profundity of his gospel) was assisted by St. Prochorus in writing this gospel. John, 'the beloved disciple' of Christ (13:23; 21:7, 20), served as the leading authority of Ephesus for most of his ministry and wrote his gospel there. He was almost one hundred years old when he died, c. AD 96-100.
-JOH.0:32 Date -This gospel, written about AD 96, is usually considered the last of the four gospels to be written, supplementing the other three.
-JOH.0:33 Major Theme -The eternal Son of God has come in the flesh. The gospel was written 'that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in His name' (20:31).
-JOH.0:34 1. The Trinity. In his gospel, John is quite explicit about the Persons of the Trinity and their relationships: They are three Persons in one nature. The Father is the Unbegotten, the Son is the Only Begotten (1:18; 3:16, 18), and the Holy Spirit proceeds from the Father (15:26).
-JOH.0:35 Glory. The glory of God is preeminently manifested in Christ's earthly ministry -His Person, words, and works-but is also experienced by the Church in the power of the Holy Spirit, the Helper or Paraclete (14:16, 26; 15:26; 16:7 ).
-JOH.0:36 The spiritual dimension. The mystical, theological perspectivedominates this gospel. The revelation of divine life and light is resisted by this age, resulting in great spiritual warfare: the kingdom of God versus 'the world' as afallen entity in rebellion against God.
-JOH.0:37 The sacramental dimension. John stresses the my sterious and sacramental presence and activity of God in the world, linking the saving work of Christ to baptism (3:5) and the Eucharist (6:52-59).
-JOH.0:38 The Church. The Gospel of John testifies to astrong sense of community among the disciples, expressed through the plural 'we' (1:14, 16). True disciples are those who believein Jesus as the incarnate Son of the Father, who are united with Him, and who here and now express the life of divine lovegiven by Christ.
-JOH.0:39 The Paschal Theme. Three Passovers are specifically mentioned in John, hence the tradition that the public ministry of Jesus encompassed athree-year period. During the final Passover, Jesus, the Lamb of God (1:29, 36), leads His followers to anew Passover through His Death and Resurrection.
-JOH.0:40 The Redemption of the World. In John's perspective, the Div ine Word, the Son of God, came into the world to savethe world and, through the life of the Church, to offer the whole world up to God. Christ and His Church begin this transformation now.
-
-### The Word Is God
-
-JOH.0:41 Prologue (1:1 -1 8) The mission of John the Baptist (1:1 9-51 ) The Word Incarnate Transfigures Creation (2:1-10:42) The new creation prefigured (2:1-25) Baptism manifested (3:1-5:47) The Eucharist manifested: feeding of five thousand (6:1-7 1) The old creation transformed (7:1-10:42) III. The Word Incarnate Transfigures All Humanity (11:1-17:26) Through death and resurrection: Lazarus (11:1-12:11) Through ascension into the kingdom: Palm Sunday (12:12-50) Through the messianic banquet of the kingdom (13:1-17:26) The Paschal Offering: Death and Resurrection (18:1-21:25) Death: the Passion of Christ (1 8:1 -1 9:42) Resurrection of Christ (20:1 -21:25)
 ## Chapter 1
 
-JOH.1:1 nthe beginning was the Word, and the Word was with God, and the Word was God.
+JOH.1:1 In the beginning was the Word, and the Word was with God, and the Word was God.
 JOH.1:2 He was in the beginning with God.
 JOH.1:3 All things were made through Him, and without Him nothing was made that was made.
 JOH.1:4 In Him was life, and the life was the light of men.
@@ -51,7 +28,8 @@ JOH.1:11 He came to His own, aand His own bdid not receive Him.
 
 ### The Word Becomes Flesh to Reveal the Father
 
-JOH.1:12 But as many as received Him, to them He gave the right to become children of God, to those who believe in His name: 13 who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
+JOH.1:12 But as many as received Him, to them He gave the right to become children of God, to those who believe in His name:
+JOH.1:13 who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
 JOH.1:14 And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth.
 JOH.1:15 John bore witness of Him and cried out, saying, 'This was He of whom I said, 'He who comes after me is preferred before me, for He was before me.' '
 JOH.1:16 And aof His fullness we have all received, and grace for grace.
@@ -60,18 +38,15 @@ JOH.1:18 No one has seen God at any time. The only begotten Son, awho is in the 
 JOH.1:19 Who Is John the Baptist? Now this is the testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, 'Who are you?'
 JOH.1:20 He confessed, and did not deny, but confessed, 'I am not the Christ.'
 JOH.1:21 And they asked him, 'What then? Are you Elijah?'
-JOH.1:22 He said, 'I am not.'
 
 ### Why Does John Baptize?
 
-JOH.1:23 'Are you the Prophet?'
-JOH.1:24 And he answered, 'No.'
-JOH.1:22 Then they said to him, 'Who are you, that we may give an answer to those who sent us? What do you say about yourself?'
+JOH.1:22 Then they said to him, 'Who are you, that we may give an answer to those who sent us? What do you say about yourself?' He said, 'I am not.'
 
 ### Why Does John Baptize?
 
-JOH.1:23 He said: 'I am 'Make straight the way of the Lord,' ' a as the prophet Isaiah said.'
-JOH.1:24 (Lk 3:15-18) Now those who were sent were from the Pharisees.
+JOH.1:23 He said: 'I am 'Make straight the way of the Lord,' ' a as the prophet Isaiah said.' 'Are you the Prophet?'
+JOH.1:24 (Lk 3:15-18) Now those who were sent were from the Pharisees. And he answered, 'No.'
 JOH.1:25 And they asked him, saying, 'Why then do you baptize if you are not the Christ, nor Elijah, nor the Prophet?'
 JOH.1:26 John answered them, saying, 'I baptize with water, but there stands One among you whom you do not know.
 JOH.1:27 It is He who, coming after me, is preferred before me, whose sandal strap I am not worthy to loose.'
@@ -329,7 +304,8 @@ JOH.6:13 Therefore they gathered them up, and filled twelve baskets with the fra
 
 JOH.6:14 Then those men, when they had seen the sign that Jesus did, said, 'This is truly the Prophet who is to come into the world.'
 JOH.6:15 (Mt 14:22-33; Mk 6:45-52) Therefore when Jesus perceived that they were about to come and take Him by force to make Him king, He departed again to the mountain by Himself alone.
-JOH.6:16 Now when evening came, His disciples went down to the sea, 17 got into the boat, and went over the sea toward Capernaum. And it was already dark, and Jesus had not come to them.
+JOH.6:16 Now when evening came, His disciples went down to the sea,
+JOH.6:17 got into the boat, and went over the sea toward Capernaum. And it was already dark, and Jesus had not come to them.
 JOH.6:18 Then the sea arose because agreat wind was blowing.
 JOH.6:19 So when they had rowed about three or four miles, athey saw Jesus walking on the sea and drawing near the boat; and they were afraid.
 JOH.6:20 But He said to them, 'It is I; do not be afraid.'
@@ -337,7 +313,9 @@ JOH.6:20 But He said to them, 'It is I; do not be afraid.'
 ### Work for Heavenly Bread
 
 JOH.6:21 Then they willingly received Him into the boat, and immediately the boat was at the land where they were going.
-JOH.6:22 On the following day, when the people who were standing on the other side of the sea saw that there was no other boat there, except that one which His disciples had entered, aand that Jesus had not entered the boat with His disciples, but His disciples had gone away alone - 23 however, other boats came from Tiberias, near the place where they ate bread after the Lord had given thanks- 24 when the people therefore saw that Jesus was not there, nor His disciples, they also got into boats and came to Capernaum, seeking Jesus.
+JOH.6:22 On the following day, when the people who were standing on the other side of the sea saw that there was no other boat there, except that one which His disciples had entered, aand that Jesus had not entered the boat with His disciples, but His disciples had gone away alone -
+JOH.6:23 however, other boats came from Tiberias, near the place where they ate bread after the Lord had given thanks-
+JOH.6:24 when the people therefore saw that Jesus was not there, nor His disciples, they also got into boats and came to Capernaum, seeking Jesus.
 JOH.6:25 And when they found Him on the other side of the sea, they said to Him, 'Rabbi, when did You come here?'
 JOH.6:26 Jesus answered them and said, 'Most assuredly, I say to you, you seek Me, not because you saw the signs, but because you ate of the loaves and were filled.
 JOH.6:27 Do not labor for the food which perishes, but for the food which endures to everlasting life, which the Son of Man will give you, because God the Father has set His seal on Him.'
@@ -634,7 +612,8 @@ JOH.10:31 Then the Jews took up stones again to stone Him.
 JOH.10:32 Jesus answered them, 'Many good works I have shown you from My Father. For which of those works do you stone Me?'
 JOH.10:33 The Jews answered Him, saying, 'For agood work we do not stone You, but for blasphemy, and because You, being a Man, make Yourself God.'
 JOH.10:34 Jesus answered them, 'Is it not written in your law, 'I said, 'You are gods''? a
-JOH.10:35 If He called them gods, to whom the word of God came (and the Scripture cannot be broken), 36 do you say of Him whom the Father sanctified and sent into the world, 'You are blaspheming,' because I said, 'I am the Son of God'?
+JOH.10:35 If He called them gods, to whom the word of God came (and the Scripture cannot be broken),
+JOH.10:36 do you say of Him whom the Father sanctified and sent into the world, 'You are blaspheming,' because I said, 'I am the Son of God'?
 JOH.10:37 If I do not do the works of My Father, do not believe Me;
 JOH.10:38 but if I do, though you do not believe Me, believe the works, that you may know and believe athat the Father is in Me, and I in Him.'
 JOH.10:39 Therefore they sought again to seize Him, but He escaped out of their hand.
@@ -792,7 +771,8 @@ JOH.12:50 And I know that His command is everlasting life. Therefore, whatever I
 
 JOH.13:1 ow before the Feast of the Passover, when Jesus knew that His hour had come that He should depart from this world to the Father, having loved His own who were in the world, He loved them to the end.
 JOH.13:2 And supper being ended, athe devil having already put it into the heart of Judas Iscariot, Simon's son, to betray Him,
-JOH.13:3 Jesus, knowing that the Father had given all things into His hands, and that He had come from God and was going to God, 4 rose from supper and laid aside His garments, took atowel and girded Himself.
+JOH.13:3 Jesus, knowing that the Father had given all things into His hands, and that He had come from God and was going to God,
+JOH.13:4 rose from supper and laid aside His garments, took atowel and girded Himself.
 JOH.13:5 After that, He poured water into abasin and began to wash the disciples' feet, and to wipe them with the towel with which He was girded.
 JOH.13:6 Then He came to Simon Peter. And Peter said to Him, 'Lord, are You washing my feet?'
 JOH.13:7 Jesus answered and said to him, 'What I am doing you do not understand now, but you will know after this.'
@@ -928,7 +908,10 @@ JOH.16:4 But these things I have told you, that when the atime comes, you may re
 JOH.16:5 'And these things I did not say to you at the beginning, because I was with you. 'But now I go away to Him who sent Me, and none of you asks Me, 'Where are You going?'
 JOH.16:6 But because I have said these things to you, sorrow has filled your heart.
 JOH.16:7 Nevertheless I tell you the truth. It is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I depart, I will send Him to you.
-JOH.16:8 And when He has come, He will convict the world of sin, and of righteousness, and of judgment: 9 of sin, because they do not believe in Me; 10 of righteousness, because I go to My Father and you see Me no more; 11 of judgment, because the ruler of this world is judged.
+JOH.16:8 And when He has come, He will convict the world of sin, and of righteousness, and of judgment:
+JOH.16:9 of sin, because they do not believe in Me;
+JOH.16:10 of righteousness, because I go to My Father and you see Me no more;
+JOH.16:11 of judgment, because the ruler of this world is judged.
 JOH.16:12 'I still have many things to say to you, but you cannot bear them now.
 JOH.16:13 However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come.
 JOH.16:14 He will glorify Me, for He will take of what is Mine and declare it to you.
@@ -1066,13 +1049,8 @@ JOH.19:15 But they cried out, 'Away with Him, away with Him! Crucify Him!'
 
 ### Crucifixion
 
-JOH.19:16 Pilate said to them, 'Shall I crucify your King?'
-JOH.19:17 The chief priests answered, 'We have no king but Caesar!'
-
-### Crucifixion
-
-JOH.19:16 Then he delivered Him to them to be crucified. Then they took Jesus and led Him away. a (Mt 27:32-44; Mk 15:21-32; Lk 23:26-43)
-JOH.19:17 And He, bearing His cross, went out to aplace called the Place of a Skull, which is called in Hebrew, Golgotha,
+JOH.19:16 Then he delivered Him to them to be crucified. Then they took Jesus and led Him away. a (Mt 27:32-44; Mk 15:21-32; Lk 23:26-43) Pilate said to them, 'Shall I crucify your King?'
+JOH.19:17 And He, bearing His cross, went out to aplace called the Place of a Skull, which is called in Hebrew, Golgotha, The chief priests answered, 'We have no king but Caesar!'
 JOH.19:18 where they crucified Him, and two others with Him, one on either side, and Jesus in the center.
 
 ### Jesus Of Nazareth, The King Of The Jews. †
@@ -1182,22 +1160,16 @@ JOH.21:13 Jesus then came and took the bread and gave it to them, and likewise t
 
 JOH.21:14 This is now the third time Jesus showed Himself to His disciples after He was raised from the dead.
 JOH.21:15 So when they had eaten breakfast, Jesus said to Simon Peter, 'Simon, son of Jonah, ado you love Me more than these?'
-JOH.21:16 He said to Him, 'Yes, Lord; You know that I love You.'
-JOH.21:17 He said to him, 'Feed My lambs.'
-JOH.21:16 He said to him again asecond time, 'Simon, son of Jonah, ado you love Me?'
-JOH.21:17 He said to Him, 'Yes, Lord; You know that I love You.'
-JOH.21:18 He said to him, 'Tend My sheep.'
-JOH.21:17 He said to him the third time, 'Simon, son of Jonah, ado you love Me?' Peter was grieved because He said to him the third time, 'Do you love Me?'
-JOH.21:18 And he said to Him, 'Lord, You know all things; You know that I love You.'
+JOH.21:16 He said to him again asecond time, 'Simon, son of Jonah, ado you love Me?' He said to Him, 'Yes, Lord; You know that I love You.'
+JOH.21:17 He said to him the third time, 'Simon, son of Jonah, ado you love Me?' Peter was grieved because He said to him the third time, 'Do you love Me?' He said to Him, 'Yes, Lord; You know that I love You.' He said to him, 'Feed My lambs.'
 
 ### The Beloved Disciple and His Book
 
-JOH.21:19 Jesus said to him, 'Feed My sheep.
-JOH.21:18 Most assuredly, I say to you, when you were younger, you girded yourself and walked where you wished; but when you are old, you will stretch out your hands, and another will gird you and carry you where you do not wish.'
+JOH.21:18 Most assuredly, I say to you, when you were younger, you girded yourself and walked where you wished; but when you are old, you will stretch out your hands, and another will gird you and carry you where you do not wish.' And he said to Him, 'Lord, You know all things; You know that I love You.' He said to him, 'Tend My sheep.'
 
 ### The Beloved Disciple and His Book
 
-JOH.21:19 This He spoke, signifying by what death he would glorify God. And when He had spoken this, He said to him, 'Follow Me.'
+JOH.21:19 This He spoke, signifying by what death he would glorify God. And when He had spoken this, He said to him, 'Follow Me.' Jesus said to him, 'Feed My sheep.
 JOH.21:20 Then Peter, turning around, saw the disciple whom Jesus loved following, who also had leaned on His breast at the supper, and said, 'Lord, who is the one who betrays You?'
 JOH.21:21 Peter, seeing him, said to Jesus, 'But Lord, what about this man?'
 ## Chapter 22

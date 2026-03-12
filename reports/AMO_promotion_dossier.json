@@ -1,7 +1,7 @@
 {
   "book_code": "AMO",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:40:09.050512",
+  "timestamp": "2026-03-11T16:09:34.645272",
   "registry_version": "1.3.0",
   "body_checksum": "8002ad09cdce2cd2b9fa9f42e3a30896dae08e30bcdc6f76785fe1d2db157584",
   "validation": {
@@ -43,5 +43,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

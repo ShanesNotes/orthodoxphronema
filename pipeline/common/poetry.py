@@ -7,45 +7,110 @@ import re
 from typing import Pattern, Sequence
 
 
-DEFAULT_POETRY_SPLIT_WORD_PAIRS: tuple[tuple[str, str], ...] = (
-    (r"\bhav e\b", "have"),
+DEFAULT_POETRY_SPLIT_WORD_PAIRS = (
+    (r"\bwhatev er\b", "whatever"),
+    (r"\bS erv e\b", "Serve"),
+    (r"\bServ e\b", "Serve"),
+    (r"\btrem bling\b", "trembling"),
+    (r"\bS av e\b", "Save"),
+    (r"\bSav e\b", "Save"),
+    (r"\bS ing\b", "Sing"),
+    (r"\bSing\b", "Sing"),
+    (r"\bP raise\b", "Praise"),
+    (r"\bP raise Him\b", "Praise Him"),
+    (r"\bP reserv e\b", "Preserve"),
+    (r"\bH ear\b", "Hear"),
+    (r"\bH ow\b", "How"),
+    (r"\bH av e\b", "Have"),
+    (r"\bL isten\b", "Listen"),
     (r"\blov e\b", "love"),
-    (r"\bev il\b", "evil"),
-    (r"\bov er\b", "over"),
-    (r"\bev er\b", "ever"),
-    (r"\bev ery\b", "every"),
-    (r"\bnev er\b", "never"),
-    (r"\bev en\b", "even"),
-    (r"\bwiv es\b", "wives"),
-    (r"\bliv e\b", "live"),
-    (r"\bliv ing\b", "living"),
-    (r"\bgiv e\b", "give"),
-    (r"\bserv e\b", "serve"),
-    (r"\bsav e\b", "save"),
-    (r"\breceiv e\b", "receive"),
-    (r"\bdeceiv e\b", "deceive"),
-    (r"\bresolv e\b", "resolve"),
-    (r"\bobser v\b", "observ"),
-    (r"\bbeliev e\b", "believe"),
-    (r"\bforgiv e\b", "forgive"),
-    (r"\bprov e\b", "prove"),
-    (r"\bprov ok\b", "provok"),
-    (r"\bheav en\b", "heaven"),
-    (r"\bsalv ation\b", "salvation"),
-    (r"\bdriv e\b", "drive"),
-    (r"\bv essel\b", "vessel"),
-    (r"\bm e\b", "me"),
-    (r"\bm ultiply\b", "multiply"),
-    (r"\bm an\b", "man"),
-    (r"\bB lessed\b", "Blessed"),
-    (r"\bB ut\b", "But"),
+    (r"\bL ord\b", "Lord"),
+    (r"\bO Lord\b", "O Lord"),
+    (r"\bG iv e\b", "Give"),
+    (r"\bGiv e\b", "Give"),
+    (r"\bJ udge\b", "Judge"),
+    (r"\bT o\b", "To"),
     (r"\bT he\b", "The"),
     (r"\bA nd\b", "And"),
+    (r"\bB lessed\b", "Blessed"),
+    (r"\bB ut\b", "But"),
     (r"\bF or\b", "For"),
     (r"\bN or\b", "Nor"),
     (r"\bW ho\b", "Who"),
     (r"\bW hy\b", "Why"),
     (r"\bY ou\b", "You"),
+    (r"\bm y\b", "my"),
+    (r"\by ou\b", "you"),
+    (r"\by our\b", "your"),
+    (r"\by ours\b", "yours"),
+    (r"\bm ade\b", "made"),
+    (r"\bm ake\b", "make"),
+    (r"\bm ay\b", "may"),
+    (r"\bm an\b", "man"),
+    (r"\bm en\b", "men"),
+    (r"\bm any\b", "many"),
+    (r"\bm ore\b", "more"),
+    (r"\bm ost\b", "most"),
+    (r"\bm ercy\b", "mercy"),
+    (r"\bm outh\b", "mouth"),
+    (r"\bm ock\b", "mock"),
+    (r"\bm ultiplied\b", "multiplied"),
+    (r"\bm ultitude\b", "multitude"),
+    (r"\bnam e\b", "name"),
+    (r"\bpray er\b", "prayer"),
+    (r"\brem em ber\b", "remember"),
+    (r"\bSalv ation\b", "Salvation"),
+    (r"\bsay ing\b", "saying"),
+    (r"\bstream s\b", "streams"),
+    (r"\btem ple\b", "temple"),
+    (r"\bthem selves\b", "themselves"),
+    (r"\btram ple\b", "trample"),
+    (r"\btroublesom e\b", "troublesome"),
+    (r"\bv ain\b", "vain"),
+    (r"\bv anity\b", "vanity"),
+    (r"\bv ery\b", "very"),
+    (r"\bv iolence\b", "violence"),
+    (r"\bv oice\b", "voice"),
+    (r"\bev il\b", "evil"),
+    (r"\bev ildoer\b", "evildoer"),
+    (r"\benem y\b", "enemy"),
+    (r"\benem ies\b", "enemies"),
+    (r"\bey es\b", "eyes"),
+    (r"\bcom e\b", "come"),
+    (r"\bwaterless\b", "waterless"),
+    (r"\banim als\b", "animals"),
+    (r"\basham ed\b", "ashamed"),
+    (r"\bam ong\b", "among"),
+    (r"\bbecam e\b", "became"),
+    (r"\bbecom e\b", "become"),
+    (r"\bbey ond\b", "beyond"),
+    (r"\bcom m and\b", "command"),
+    (r"\bcom m anded\b", "commanded"),
+    (r"\bem pty\b", "empty"),
+    (r"\benm ity\b", "enmity"),
+    (r"\bEv ery\b", "Every"),
+    (r"\bexam ines\b", "examines"),
+    (r"\bey e\b", "eye"),
+    (r"\bHav e\b", "Have"),
+    (r"\binstrum ents\b", "instruments"),
+    (r"\bjudgm ent\b", "judgment"),
+    (r"\bjudgm ents\b", "judgments"),
+    (r"\bm editate\b", "meditate"),
+    (r"\bm editates\b", "meditates"),
+    (r"\bm ercies\b", "mercies"),
+    (r"\bm idst\b", "midst"),
+    (r"\bm iserable\b", "miserable"),
+    (r"\bm ock\b", "mock"),
+    (r"\bm oon\b", "moon"),
+    (r"\bm orning\b", "morning"),
+    (r"\bm ouths\b", "mouths"),
+    (r"\bov ertake\b", "overtake"),
+    (r"\brem em brance\b", "remembrance"),
+    (r"\brem orse\b", "remorse"),
+    (r"\bstam ped\b", "stamped"),
+    (r"\bv isit\b", "visit"),
+    (r"\by okes\b", "yokes"),
+    (r"\bOv er\b", "Over"),
 )
 
 
@@ -71,6 +136,7 @@ def clean_poetry_text(
     cleaned = cleaned.replace("‘", "'").replace("’", "'")
     cleaned = cleaned.replace("—", "--").replace("–", "-")
     cleaned = re.sub(r" {2,}", " ", cleaned)
+    cleaned = re.sub(r"\s+([,.;:?!])", r"\1", cleaned)
     for pattern, replacement in split_word_pairs:
         cleaned = re.sub(pattern, replacement, cleaned)
     return cleaned.strip()
@@ -142,18 +208,18 @@ def matches_phrase_list(line: str, phrases: Sequence[str], split_word_pairs) -> 
     return any(clean_poetry_text(phrase, split_word_pairs).lower() in cleaned for phrase in phrases)
 
 
-# Inline verse number: preceded by punctuation/whitespace, followed by capital or lowercase letter, with optional space
-RE_INLINE_VERSE = re.compile(r"(?:[.!?†ω]|\s|^)(\d+)\s*([A-Za-z])")
+# Inline verse number: preceded by punctuation/whitespace, followed by capital or lowercase letter OR a quote
+# Also matches standalone verse numbers at the end of a line.
+RE_INLINE_VERSE = re.compile(r"(?:[.!?†ω]|\s|^)(\d+)(?:\s*([A-Za-z\"'])|$)")
 
-# Narrative heading: Title Case words, usually on its own line, relatively short
-RE_NARRATIVE_HEADING = re.compile(r"^\s*([A-Z][a-z]+(?:\s+[A-Z][a-z]+){0,8})\s*$")
+# Narrative heading: Title Case word followed by any words (handles 'to', 'of', etc.)
+RE_NARRATIVE_HEADING = re.compile(r"^\s*([A-Z][a-zA-Z',]+(?:\s+[a-zA-Z',]+){0,10})\s*$")
 
 def extract_poetry_lines(lines: Sequence[str], config: PoetryExtractionConfig) -> str:
     """Run the sequential verse-buffer state machine for poetry / wisdom text."""
     header_patterns = compile_chapter_header_patterns(config)
     print("DEBUG CONFIG:")
     print("bootstrap:", config.first_chapter_bootstrap_phrases)
-    print("starts:", config.chapter_start_phrases.get(1) if config.chapter_start_phrases else None)
     
     current_chapter = 0
     current_verse = 0
@@ -170,9 +236,11 @@ def extract_poetry_lines(lines: Sequence[str], config: PoetryExtractionConfig) -
             output_lines.append(f"{config.book_code}.{current_chapter}:{current_verse} {cleaned}")
         verse_buffer = ""
 
-    for line in lines:
-        line = line.strip()
+    previous_line_was_empty = True
+    for line_raw in lines:
+        line = line_raw.strip()
         if not line:
+            previous_line_was_empty = True
             continue
 
         # 1. Check Manifest-Driven Chapter Starts
@@ -180,7 +248,6 @@ def extract_poetry_lines(lines: Sequence[str], config: PoetryExtractionConfig) -
             next_ch = current_chapter + 1
             if next_ch in config.chapter_start_phrases:
                 if matches_phrase_list(line, config.chapter_start_phrases[next_ch], config.split_word_pairs):
-                    print(f"DEBUG: Manifest match for chapter {next_ch} on line: {line}")
                     flush_verse()
                     current_chapter = next_ch
                     current_verse = 1
@@ -190,36 +257,36 @@ def extract_poetry_lines(lines: Sequence[str], config: PoetryExtractionConfig) -
                         pending_narrative_heading = ""
                     # Don't skip processing the line, it contains verse 1 text
 
-        if current_chapter == 0 and matches_bootstrap_phrase(
-            line,
-            config.first_chapter_bootstrap_phrases,
-            config.split_word_pairs,
-        ):
-            print(f"DEBUG: Bootstrap match on line: {line}")
-            flush_verse()
-            current_chapter = 1
-            current_verse = 1
-            output_lines.append(f"\n## Chapter {current_chapter}\n")
-            verse_buffer = line
-            continue
+        # Centered Detection (for -layout mode)
+        leading_spaces = len(line_raw) - len(line_raw.lstrip())
+        is_centered = 20 <= leading_spaces <= 60 and len(line) < 60
 
-        # Look for narrative headings first
-        nh_match = RE_NARRATIVE_HEADING.match(line)
-        if nh_match:
-            # We don t flush yet, just store it as pending
-            pending_narrative_heading = f"### {nh_match.group(1)}"
-            continue
-
+        # Look for centered standalone digits (Proverbs/Job chapter numbers)
+        is_standalone_digit = bool(re.match(r"^\d+$", line))
+        
+        # New: Digits at start of line followed by text (Historical books)
+        is_digit_start = bool(re.match(r"^\d+\s+[A-Z]", line))
+        
         header = match_chapter_header(line, header_patterns)
-        if header is not None:
-            new_ch, trailing = header
-            
-            # Sequence disambiguation: if the number could be the NEXT VERSE, it's a verse, not a chapter.
-            # Unless we have a pending narrative heading, which strongly signals a chapter boundary.
-            is_valid_advance = (new_ch == current_chapter + 1) and (new_ch != current_verse + 1)
-            if pending_narrative_heading and (new_ch == current_chapter + 1):
-                is_valid_advance = True
-                
+        
+        # If no standard header but we have a pending heading and the line starts with a number
+        if header is None and pending_narrative_heading and re.match(r"^\d+\b", line):
+            m_num = re.match(r"^(\d+)\b\s*(.*)", line)
+            if m_num:
+                new_ch = int(m_num.group(1))
+                if new_ch == current_chapter + 1 or (current_chapter == 0 and new_ch == 1):
+                    header = (new_ch, m_num.group(2))
+
+        if (is_centered and is_standalone_digit) or (is_digit_start and pending_narrative_heading) or (header is not None):
+            if header:
+                new_ch, trailing = header
+            else:
+                m_num = re.match(r"^(\d+)", line)
+                new_ch = int(m_num.group(1))
+                trailing = line[m_num.end():].strip()
+
+            # Sequence disambiguation: MUST be strictly sequential for standalone digits
+            is_valid_advance = (new_ch == current_chapter + 1)
             is_bootstrap = (current_chapter == 0 and new_ch == 1)
             
             if is_bootstrap or is_valid_advance:
@@ -235,7 +302,30 @@ def extract_poetry_lines(lines: Sequence[str], config: PoetryExtractionConfig) -
                     verse_buffer = trailing
                     continue
 
+        if current_chapter == 0 and matches_bootstrap_phrase(
+            line,
+            config.first_chapter_bootstrap_phrases,
+            config.split_word_pairs,
+        ):
+            flush_verse()
+            current_chapter = 1
+            current_verse = 1
+            output_lines.append(f"\n## Chapter {current_chapter}\n")
+            verse_buffer = line
+            continue
+
+        # Look for narrative headings
+        nh_match = RE_NARRATIVE_HEADING.match(line)
+        if nh_match:
+            # We require centering AND a previous blank line for a narrative heading
+            if is_centered and previous_line_was_empty:
+                # We don t flush yet, just store it as pending
+                pending_narrative_heading = f"### {nh_match.group(1)}"
+                previous_line_was_empty = False
+                continue
+
         if current_chapter == 0:
+            previous_line_was_empty = False
             continue
 
         # If we had a pending heading but didn t find a chapter number,
@@ -249,33 +339,26 @@ def extract_poetry_lines(lines: Sequence[str], config: PoetryExtractionConfig) -
         while pos < len(line):
             match = RE_INLINE_VERSE.search(line, pos)
             if not match:
-                chunk = line[pos:]
                 if current_verse > 0:
-                    verse_buffer += " " + chunk
-                else:
-                    output_lines.append(f"### {clean_poetry_text(chunk, config.split_word_pairs)}")
+                    verse_buffer += " " + line[pos:]
                 break
-            
+
+            # If we matched a verse number, flush the previous one
             v_num = int(match.group(1))
-            pre_text = line[pos:match.start(1)]
-            if current_verse > 0:
-                verse_buffer += " " + pre_text
             
-            if v_num == current_verse + 1 or v_num == current_verse + 2:
-                if v_num == current_verse + 2:
-                    flush_verse()
-                    current_verse = v_num - 1
-                    flush_verse()
-                else:
-                    flush_verse()
-                
+            # Anchor check: verse numbers should be sequential or close
+            # (In poetry, numbers can be inline like '† 2' or '†ω 2')
+            if current_verse == 0 or (v_num == current_verse + 1) or (v_num > current_verse and v_num < current_verse + 5):
+                flush_verse()
                 current_verse = v_num
-                verse_buffer = match.group(2)
-                pos = match.end(2)
+                verse_buffer = match.group(2) or ""
+                pos = match.end(2) if match.group(2) else match.end(1)
             else:
                 if current_verse > 0:
                     verse_buffer += match.group(0)
                 pos = match.end(0)
+
+        previous_line_was_empty = False
 
     flush_verse()
     return "\n".join(output_lines)

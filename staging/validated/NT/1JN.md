@@ -15,25 +15,15 @@ has_additions: false
 ## Chapter 1
 
 
-### The First Book of John
-
-1JN.1:1 OHN Previous Home Next Back to Table of Contents Verses in John Chapter
 
 ### Walk in the Light: Confession
 
-1JN.1:4 Author -John the Apostle (author of the Gospel of John). First John is so similar to the Gospel of John in language, style, and theology that few have ever disputed that the two books were written by the same man.
-1JN.1:5 Date -The letter cannot be dated with certainty. Its similarity to John's Gospel, the presence among the recipients of a Christianized form of gnosticism, and the apparent age of its author suggest atime late in John's life, about the same time as he wrote his gospel (AD 90-95).
-1JN.1:6 Major Theme -Tests of true Christian life. Jesus Christ, the Incarnate God, reveals the light (1:5-7), love (4:7-11), and life (5:11-13) of the Father, as contrasted with the darkness (1:6), hatred (2:9-11), and death (5:12) of the present world. First John is acommentary on the reality of baptism, chrismation, and the Eucharist in our lives. Subthemes include:
 
-### Outline
-
-1JN.1:7 1. Our communion with God and with each other The close relationship of faith, love, obedience, and life The close relationship between love of God and love of others The crucial importance of holding true faith A stark, eschatological contrast between the children of God and the children of the world Background -First John is a polemic against two identifiable groups: (a) false teachers with a gnostic bent; and (b) former members of the Church who were a threat to the faith of those remaining (2:27; 3:7). The polemic is mostly pastoral and positive, to protect God's people. While the addressee is not mentioned, this may be an encyclical to John's diocese of Asia.
+1JN.1:7 1. Our communion with God and with each other The close relationship of faith, love, obedience, and life The close relationship between love of God and love of others The crucial importance of holding true faith A stark, eschatological contrast between the children of God and the children of the world Background -First John is a polemic against two identifiable groups: (a) false teachers with a gnostic bent; and (b) former members of the Church who were a threat to the faith of those remaining (2:27; 3:7). The polemic is mostly pastoral and positive, to protect God's people. While the addressee is not mentioned, this may be an encyclical to John's diocese of Asia. But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin.
 
 ### Introduction: The Incarnation
 
-1JN.1:8 Introduction: The Apostolic Witness to the Incarnation (1:1 -4) Liv e in the Light (1:5-2:27 ) A. Walk in the light of confessed sin (1:5-2:2) B. Keep Christ's commands of love (2:3-17 ) C. Remain in the true teaching about Christ (2:18-27 ) III. Liv e as God's Children (2:28-4:6) Be righteous (2:28-3:9) Lov e one another (3:1 0-24) Confess that Jesus is God in the flesh (4:1 -6) Liv e in Lov e and Faith (4:7 -5:1 3) God's love becomes our love (4:7 -5:3) Faith brings strength and life (5:4-1 3) Summary: Live in God (5:14-21) Pray according to God's will (5:1 4-1 7 ) Separate from sin and evil (5:1 8, 1 9) Liv e in Jesus Christ (5:20, 21 )
-
-### The First Book of John
+1JN.1:8 Introduction: The Apostolic Witness to the Incarnation (1:1 -4) Liv e in the Light (1:5-2:27 ) A. Walk in the light of confessed sin (1:5-2:2) B. Keep Christ's commands of love (2:3-17 ) C. Remain in the true teaching about Christ (2:18-27 ) III. Liv e as God's Children (2:28-4:6) Be righteous (2:28-3:9) Lov e one another (3:1 0-24) Confess that Jesus is God in the flesh (4:1 -6) Liv e in Lov e and Faith (4:7 -5:1 3) God's love becomes our love (4:7 -5:3) Faith brings strength and life (5:4-1 3) Summary: Live in God (5:14-21) Pray according to God's will (5:1 4-1 7 ) Separate from sin and evil (5:1 8, 1 9) Liv e in Jesus Christ (5:20, 21 ) If we say that we have no sin, we deceive ourselves, and the truth is not in us.
 
 1JN.1:1 That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, concerning the Word of life-
 1JN.1:2 the life was manifested, and we have seen, and bear witness, and declare to you that eternal life which was with the Father and was manifested to us-
@@ -45,13 +35,9 @@ has_additions: false
 1JN.1:5 This is the message which we have heard from Him and declare to you, that God is light and in Him is no darkness at all.
 1JN.1:6 If we say that we have fellowship with Him, and walk in darkness, we lie and do not practice the truth.
 
-### Outline
-
-1JN.1:7 But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin.
 
 ### Introduction: The Incarnation
 
-1JN.1:8 If we say that we have no sin, we deceive ourselves, and the truth is not in us.
 1JN.1:9 If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.
 
 ### Keep God's Commandments of Love
@@ -109,7 +95,8 @@ has_additions: false
 
 1JN.3:9 Whoever has been born of God does not sin, for His seed remains in him; and he cannot sin, because he has been born of God.
 1JN.3:10 In this the children of God and the children of the devil are manifest: Whoever does not practice righteousness is not of God, nor is he who does not love his brother.
-1JN.3:11 For this is the message that you heard from the beginning, that we should love one another, 12 not as Cain who was of the wicked one and murdered his brother. And why did he murder him? Because his works were evil and his brother's righteous.
+1JN.3:11 For this is the message that you heard from the beginning, that we should love one another,
+1JN.3:12 not as Cain who was of the wicked one and murdered his brother. And why did he murder him? Because his works were evil and his brother's righteous.
 1JN.3:13 Do not marvel, my brethren, if the world hates you.
 1JN.3:14 We know that we have passed from death to life, because we love the brethren. He who does not love his brother aabides in death.
 1JN.3:15 Whoever hates his brother is amurderer, and you know that no murderer has eternal life abiding in him.

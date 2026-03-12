@@ -1,7 +1,7 @@
 {
   "book_code": "ZEC",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:40:27.464506",
+  "timestamp": "2026-03-11T16:09:37.391251",
   "registry_version": "1.3.0",
   "body_checksum": "30c7d6e861ad8d6fc097785572db7c910ebc9aabf7dda1db0b71eddca8e9ca44",
   "validation": {
@@ -43,5 +43,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

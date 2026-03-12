@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Anchor Backlink Entry",
+  "description": "Domain-specific backlinks for a single canon anchor. One file per anchor per domain shard.",
+  "type": "object",
+  "required": ["anchor_id", "canon_uri", "domain", "links"],
+  "properties": {
+    "anchor_id": {
+      "type": "string",
+      "pattern": "^[A-Z0-9]+\\.\\d+:\\d+$",
+      "description": "Canon anchor (e.g. GEN.1:1)"
+    },
+    "canon_uri": {
+      "type": "string",
+      "description": "Relative path to canon file + anchor fragment (e.g. canon/OT/GEN.md#GEN.1:1)"
+    },
+    "domain": {
+      "type": "string",
+      "enum": ["liturgical", "patristic", "study"],
+      "description": "Backlink domain shard"
+    },
+    "links": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/backlink_entry" }
+    }
+  },
+  "$defs": {
+    "backlink_entry": {
+      "type": "object",
+      "required": ["type", "source_ref"],
+      "properties": {
+        "type": { "type": "string", "description": "Link type (e.g. feast, commentary, study_note)" },
+        "source_ref": { "type": "string", "description": "Source reference (e.g. Menaion Nov 21, PG 55.123)" },
+        "entity": { "type": "string", "description": "Named entity (e.g. Entrance of the Theotokos)" },
+        "service": { "type": "string", "description": "Liturgical service (e.g. Matins, Vespers)" },
+        "usage": { "type": "string", "description": "How the anchor is used (e.g. prokeimenon, refrain)" },
+        "author": { "type": "string", "description": "Patristic author" },
+        "work": { "type": "string", "description": "Patristic work title" },
+        "note_id": { "type": "string", "description": "Study note identifier" },
+        "file": { "type": "string", "description": "Source file path" }
+      }
+    }
+  }
+}

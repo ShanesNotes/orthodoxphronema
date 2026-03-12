@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-1SA.1:1 There was a certain man of Ramathaim Zophim, of the mountain o
+1SA.1:1 There was a certain man of Ramathaim Zophim, of the mountain of Ephraim, and his name was Elkanah the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.
 1SA.1:2 He had two wives. The name of one was Hannah, and the name of the other was Peninnah. Peninnah had children, but Hannah none.
 1SA.1:3 And each year the man went up from his city of Ramathaim to worship and sacrifice to Lord Sabaoth in Shiloh. Eli and his two sons, Hophni and Phinehas, both priests of the Lord, went there as well.
 1SA.1:4 And on the day he came, Elkanah sacrificed and gave a portion to Peninnah his wife, and to his sons and daughters.
@@ -27,7 +27,7 @@ has_additions: false
 1SA.1:8 Then Elkanah, her husband, said to her, 'Hannah.' And she said to him, 'Here I am, lord.' Then he said to her, 'What is the matter with you? Why do you not eat? And why are you heartsick? Am I not better for you than ten children?'
 1SA.1:9 So Hannah arose after they had finished eating in Shiloh, and she sat down before the Lord. Eli the priest was sitting nearby on the seat by the doorpost of the temple of the Lord.
 1SA.1:10 Hannah was grieved in spirit and prayed to the Lord, lamenting and weeping.
-1SA.1:11 She prayed avow to the Lord God and said, 'O Lord, my God of Sabaoth, if you are looking, look with favor upon the lowly state of Your handmaiden and remember me. I pray You, give Your handmaiden a seed of men, a son, and I will dedicate him before You as a gift until the day of his death. He will not drink wine nor intoxicating drink, and no razor shall come upon his head.'
+1SA.1:11 She prayed a vow to the Lord God and said, 'O Lord, my God of Sabaoth, if you are looking, look with favor upon the lowly state of Your handmaiden and remember me. I pray You, give Your handmaiden a seed of men, a son, and I will dedicate him before You as a gift until the day of his death. He will not drink wine nor intoxicating drink, and no razor shall come upon his head.'
 1SA.1:12 And as she kept praying before the Lord, Eli watched her mouth.
 1SA.1:13 And as she spoke in her heart, only her lips moved, but her voice was not heard. Therefore Eli thought she was drunk.
 1SA.1:14 The servant of God said to her, 'For how long will you remain drunk? Cast off your wine, and go out from the face of the Lord!'
@@ -51,12 +51,12 @@ has_additions: false
 1SA.1:29 Hannah's Prayer
 ## Chapter 2
 
-1SA.2:1 And she said: 'My heart is strengthened in the Lord; My horn is exalted in my Go
-1SA.2:2 I smile at my enemies; I rejoice in Your salvation. † Because no one is holy like the Lord, No one is righteous like our God, No one is holy but You.
-1SA.2:3 Do not boast nor speak of high things; Let no arrogance come from your mouth, For the Lord is the God of knowledge; And God is preparing His actions. †
+1SA.2:1 And she said: “My heart is strengthened in the Lord; My horn is exalted in my God. I smile at my enemies; I rejoice in Your salvation.
+1SA.2:2 I smile at my enemies; I rejoice in Your salvation. Because no one is holy like the Lord, No one is righteous like our God, No one is holy but You.
+1SA.2:3 Do not boast nor speak of high things; Let no arrogance come from your mouth, For the Lord is the God of knowledge; And God is preparing His actions.
 1SA.2:4 He weakened the bow of mighty men, And those who are weak are girded with strength.
 1SA.2:5 Those who were full of bread were made empty, And the hungry have forsaken the land.
-1SA.2:6 The barren woman has borne seven, And she who has many children has become feeble. † The Lord kills and makes alive; He brings down to Hades and raises up. †
+1SA.2:6 The barren woman has borne seven, And she who has many children has become feeble. The Lord kills and makes alive; He brings down to Hades and raises up.
 1SA.2:7 The Lord makes poor and rich; He brings low and lifts up.
 1SA.2:8 He raises the poor from the earth And lifts the needy from the dung heap, To set them among princely people And make them inherit a throne of glory.
 1SA.2:9 The One who gives a prayer to the one praying, He blesses with righteous years; For by strength no man can prevail.
@@ -98,7 +98,7 @@ has_additions: false
 1SA.2:36 And it shall come to pass that everyone who remains in your house will, for a small amount of silver, prostrate before him begging, 'Place me in the priesthood, so I may eat one loaf of bread?' ' '
 ## Chapter 3
 
-1SA.3:1 The boy Samuel ministered to the Lord before Eli the priest. And the word of the
+1SA.3:1 The boy Samuel ministered to the Lord before Eli the priest. And the word of the Lord was precious in those days; there was no discerning vision.
 1SA.3:2 So on that day, while Eli was lying down in his place, his eyes were starting to grow heavy, barely able to see.
 1SA.3:3 Before the lamp of God went out, and while Samuel was asleep in the temple where the ark of God was,
 1SA.3:4 the Lord called, 'Samuel, Samuel.' Samuel answered, 'Here I am!'
@@ -124,11 +124,11 @@ has_additions: false
 1SA.3:21 The Lord appeared in Shiloh again, for the Lord was revealed to Samuel. And all Israel, from one end of the land to the other, believed Samuel to be a prophet of the Lord. By now Eli was an exceedingly old man, and his sons continued living as they did. And their way was evil before the Lord.
 ## Chapter 4
 
-1SA.4:1 Now in those days the Philistines gathered into battle against Israel, and Israe
+1SA.4:1 Now in those days the Philistines gathered into battle against Israel, and Israel went out to meet them in battle and encamped at Ebenezer; and the Philistines encamped in Aphek.
 1SA.4:2 And the Philistines prepared battle plans against Israel, and the battle turned against Israel, and the men of Israel fell before the Philistines. About four thousand men were struck down in the battle lines.
 1SA.4:3 And when the people came into the camp, the elders of Israel said, 'Why did the Lord cause us to be defeated today before the Philistines? Let us take the ark of our God out from Shiloh and let it proceed from the midst of us, and it will save us from the hand of our enemies.'
 1SA.4:4 So the people sent to Shiloh, and from there they brought out the ark of the covenant of the Lord, who is seated between the cherubim. And the two sons of Eli, Hophni and Phinehas, were there with the ark.
-1SA.4:5 And when the ark of the Lord came into the camp, all Israel shouted with aloud voice, and the earth shook.
+1SA.4:5 And when the ark of the Lord came into the camp, all Israel shouted with a loud voice, and the earth shook.
 1SA.4:6 Now when the Philistines heard the shout, the Philistines said, 'What is this great shout in the camp of the Hebrews?' Then they understood that the ark of the Lord was in the camp.
 1SA.4:7 And the Philistines were afraid, for they said, 'These are the gods that have come into the camp! Woe to us! Deliver us today, Lord, for such a thing has never happened before.
 1SA.4:8 Woe to us! Who will deliver us from the hand of these mighty gods? These are the gods who struck the Egyptians with all the plagues in the desert.
@@ -171,7 +171,7 @@ has_additions: false
 1SA.5:12 And the living and those not dying were struck in their private parts, and the outcry of the city went up to heaven.
 ## Chapter 6
 
-1SA.6:1 For seven months the ark was in the country of the Philistine
+1SA.6:1 For seven months the ark was in the country of the Philistines, and their land was infested with mice.
 1SA.6:2 And the Philistines called for their priests, their prophets, and their enchanters, saying, 'What shall we do with the ark of the Lord? Instruct us as to how we should return it to its place.'
 1SA.6:3 So they said, 'If you send away the ark of the covenant of the God of Israel, do not send it away empty. Instead, give it as an offering for the plague. Then you shall be healed and be atoned for. Otherwise His hand may never be removed from you.'
 1SA.6:4 Then they said, 'What shall we offer to Him for this torment?' They answered, 'Five golden emerods for each of the number of lords of the Philistines, since the same offense was on all of you, on your leaders and the people.
@@ -188,7 +188,7 @@ has_additions: false
 1SA.6:15 The Levites took up the ark of the Lord and with it the chest and the gold vessels and put them on the large stone. And on this day the men of Beth Shemesh offered burnt offerings and made sacrifices to the Lord.
 1SA.6:16 So when the five lords of the Philistines saw it, they returned on the same day to Ashkelon.
 1SA.6:17 These are the places the gold emerods were given as an offering to the Lord: one for Ashdod, one for Gaza, one for Ashkelon, one for Gath, and one for Ekron.
-1SA.6:18 And the gold mice were according to the number of all the cities of the Philistines belonging to the five lords, from the cities being fortified as far as the villages of Pherezite, and as far as the great stone where they placed the ark of the covenant of the Lord, in the field of Joshua of BethShemesh.
+1SA.6:18 And the gold mice were according to the number of all the cities of the Philistines belonging to the five lords, from the cities being fortified as far as the villages of Pherezite, and as far as the great stone where they placed the ark of the covenant of the Lord, in the field of Joshua of Beth-Shemesh.
 
 ### The Ark at Kirjath Jearim
 
@@ -200,7 +200,7 @@ has_additions: false
 
 ### Samuel as Judge in Israel
 
-1SA.7:1 Then the men of Kirjath Jearim came and brought up the ark of the covenant of th
+1SA.7:1 Then the men of Kirjath Jearim came and brought up the ark of the covenant of the Lord and brought it into the house of Abinadab on the hill. They consecrated Eleazar his son to keep the ark of the covenant of the Lord safe. Samuel as Judge in Israel
 1SA.7:2 It came to pass that from the very day the ark was in Kirjath Jearim, the days multiplied to become twenty years. And all the house of Israel watched for the Lord.
 1SA.7:3 Then Samuel spoke to all the house of Israel, saying, 'If you return to the Lord with all your hearts, if you put away the foreign gods and the sacred groves from among you, and if you prepare your hearts for the Lord and serve Him alone, He will deliver you from the hand of the Philistines.'
 1SA.7:4 So the sons of Israel removed the Baals and the sacred groves for Ashtoreths, and served the Lord alone.
@@ -209,7 +209,7 @@ has_additions: false
 1SA.7:7 And Samuel judged the sons of Israel at Mizpah. When the Philistines heard that the sons of Israel had gathered at Mizpah, the lords of the Philistines marched up against Israel. And when the sons of Israel heard of it, they were afraid before the Philistines.
 1SA.7:8 So the sons of Israel said to Samuel, 'Do not cease to cry out to the Lord our God for us, and He will save us from the hand of the Philistines.'
 1SA.7:9 And Samuel took one suckling lamb and offered it with all the people as a whole burnt offering to the Lord. Then Samuel cried out to the Lord concerning Israel, and the Lord heard him.
-1SA.7:10 Now as Samuel was offering the burnt offering, the Philistines drew near to do battle against Israel. But the Lord thundered with aloud noise against the Philistines that day, and so confused them that they were overcome before Israel.
+1SA.7:10 Now as Samuel was offering the burnt offering, the Philistines drew near to do battle against Israel. But the Lord thundered with a loud noise against the Philistines that day, and so confused them that they were overcome before Israel.
 1SA.7:11 And the men of Israel went out of Mizpah and pursued the Philistines, and struck them down below Beth Car.
 1SA.7:12 Then Samuel took one stone and set it up between Mizpah and the older one, and called it Ebenezer, a Stone of Help, saying, 'The Lord helped us here.'
 1SA.7:13 So the Lord humbled the Philistines, and they no longer came into the territory of Israel. And the hand of the Lord was against the Philistines all the days of Samuel.
@@ -249,7 +249,7 @@ has_additions: false
 1SA.8:22 So the Lord said to Samuel, 'Heed their voice, and make them a king.' And Samuel said to the men of Israel, 'Let every man go to his city.'
 ## Chapter 9
 
-1SA.9:1 There was a man from the sons of Benjamin whose name was Kish 
+1SA.9:1 There was a man from the sons of Benjamin whose name was Kish the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a man of power.
 1SA.9:2 And he had a tall and handsome son whose name was Saul. There was no more handsome person than he among the children of Israel. He was ahead taller than anyone else in the land.
 1SA.9:3 Now the donkeys of Kish, Saul's father, were lost. And Kish said to his son Saul, 'Take one of the servants with you, and arise, go and look for the donkeys.'
 1SA.9:4 So they passed through the mountain of Ephraim and through the land of Shalisha, but they did not find them. Then they passed through the land of Shaalim, and they were not there. Then he passed through the land of the Benjamites, but they did not find them.
@@ -281,7 +281,7 @@ has_additions: false
 1SA.9:27 As the morning dawned, Samuel called to Saul on the housetop, saying, 'Rise up, that I may send you on your way.' And Saul arose, and he and Samuel went outside. As they were going down to the outskirts of the city, Samuel said to Saul, 'Tell the servant to go on ahead of us. But you stand here today, and give heed to the word of God.'
 ## Chapter 10
 
-1SA.10:1 Then Samuel took a vial of olive oil and poured it on his head, and kissed him an
+1SA.10:1 Then Samuel took a vial of olive oil and poured it on his head, and kissed him and said to him, “Has not the Lord anointed you as ruler to His people, over Israel? You shall rule among the people of the Lord, and you shall save them from the hand of their enemies round about them. For you, this shall be the sign that the Lord anointed you as a ruler for His inheritance.
 1SA.10:2 As you depart from me today, you shall come to find two men by Rachel's tomb in the territory of Benjamin who are jumping about ecstatically, and they will say to you, 'The donkeys you searched for are found, but take notice, your father stopped worrying about news concerning the donkeys and is anxious about you, saying, 'What shall I do about my son?' '
 1SA.10:3 Then you shall go on from there and come to the oak tree of Tabor. There you will find three men going up to God at Bethel, one carrying three young goats, one carrying three containers of bread, and one carrying a skin of wine.
 1SA.10:4 And they will entreat you in peace and give you two loaves of bread, which you shall take from their hands.
@@ -316,7 +316,7 @@ has_additions: false
 1SA.10:27 But perverse men said, 'How shall this man save us?' So they despised him and brought him no gifts.
 ## Chapter 11
 
-1SA.11:1 It came to be, about a month later, Nahash the Ammonite marched up and encamped a
+1SA.11:1 Itagainst came to be, about a month later, Nahash the Ammonite marched up and encamped Jabesh Gilead, and all the men of Jabesh said to Nahash the Ammonite, “Make a covenant with us, and we will serve you.”
 1SA.11:2 And Nahash the Ammonite answered them, 'I will make a covenant with you on this one condition, that I should put out all your right eyes, and I will lay a reproach upon Israel.'
 1SA.11:3 Then the men of Jabesh said to him, 'Hold off seven days for us, so we may send messengers to all the territory of Israel. And if then there is no one to save us, we will come out to you.'
 1SA.11:4 So the messengers came to Saul at Gibeah, and in the hearing of the people they told the news. And all the people lifted up their voices and wept.
@@ -336,7 +336,7 @@ has_additions: false
 1SA.11:15 So all the people went to Gilgal, and there Samuel anointed Saul king before the Lord in Gilgal. And there they sacrificed the meat offering and the peace offerings before the Lord, and Samuel rejoiced, as did all Israel, exceedingly.
 ## Chapter 12
 
-1SA.12:1 Now Samuel said to all the men of Israel, 'Indeed! I heeded your voice in all th
+1SA.12:1 Now Samuel said to all the men of Israel, “Indeed! I heeded your voice in all the many things you said to me, and I appointed a king to reign for you.
 1SA.12:2 Now behold, the king goes before you, and I grow old and will rest. And behold, my sons are with you. And behold, I have walked before you from my youth to this day.
 1SA.12:3 Behold, here I am; answer against me before my Lord and before His anointed one. Whose calf have I taken, or whose donkey have I taken? Whom of you have I oppressed, or whom have I cheated? From whose hand have I taken any bribe, even a sandal? Bear witness against me, and I will pay it back to you.'
 1SA.12:4 And they said to Samuel, 'You have not wronged us or oppressed us or crushed us, nor taken anything from anyone's hand.'
@@ -366,7 +366,7 @@ has_additions: false
 1SA.12:25 But if you still do wickedly, you shall be joined together in death, both you and your king.'
 ## Chapter 13
 
-1SA.13:1 Saul chose for himself three thousand men from the men of Isr***
+1SA.13:1 Saul chose for himself three thousand men from the men of Israel. Two thousand were with Saul in Michmash and on the mountain of Bethel, and a thousand were with Jonathan in Gibeah of Benjamin. He sent the rest of the people away, each man to his dwelling.
 1SA.13:2 And Jonathan smote Nasib the Philistine who dwelt in the hill; and the Philistines heard of it. Then Saul blew the trumpet throughout all the land, saying, 'The servants have rejected us!'
 1SA.13:3 All Israel heard it said that Saul smote Nasib the Philistine. Now Israel had been put to shame before the Philistines, and the people cried out after Saul at Gilgal.
 1SA.13:4 Then the Philistines gathered to fight with Israel. Thirty thousand chariots and six thousand horsemen came up against Israel, and as many troops as the sand on the seashore. And they came up and encamped in Michmash opposite Beth Aven southward.
@@ -396,7 +396,7 @@ has_additions: false
 1SA.13:22 And they went out from the land of the Philistines to the place beyond Michmash.
 ## Chapter 14
 
-1SA.14:1 Now it happened one day that Jonathan, the son of Saul, said to the young servant
+1SA.14:1 Now it happened one day that Jonathan, the son of Saul, said to the young servant carrying his armor, “Come here! Let us cross over to that other side, into the outpost of the Philistine garrison.” But he did not tell his father of this.
 1SA.14:2 Now Saul sat on the top of the hill under a pomegranate tree on the hill in Migron. There were about six hundred men with him.
 1SA.14:3 And Ahijah the son of Ahitub, brother of Ichabod son of Phinehas, son of Eli the priest of the Lord in Shiloh, was wearing the ephod. But the people did not know Jonathan had left.
 1SA.14:4 In the midst of the passage by which Jonathan sought to travel over to the encampment of the Philistines, there was a sharp rock on one side and a sharp rock on the other. The name of one was Bozez, and the name of the other Seneh.
@@ -456,7 +456,7 @@ has_additions: false
 1SA.14:52 Now there was fierce war with the Philistines all the days of Saul. And when Saul saw any mighty man or any valiant man, he gathered him for himself.
 ## Chapter 15
 
-1SA.15:1 Samuel said to Saul, 'The Lord sent me to anoint you king ove
+1SA.15:1 Samuel said to Saul, “The Lord sent me to anoint you king over Israel. Now therefore, heed the voice of the Lord.
 1SA.15:2 Thus says the Lord Sabaoth, 'I will exact vengeance for what Amalek did to Israel when he met Israel on his journey coming out of Egypt.
 1SA.15:3 Now go and strike down Amalek and Jerim and all of his things, and take nothing from him. You shall utterly destroy him. You shall curse him and everything that is his. You shall not spare anything of his. And you shall slay both man and woman, infant and nursing child, calf and sheep, and camel and donkey.' '
 1SA.15:4 So Saul told the people and numbered them in Gilgal, four hundred thousand troops, and from Judah thirty thousand troops.
@@ -499,7 +499,7 @@ has_additions: false
 1SA.15:35 And Samuel did not go to see Saul again until the day of his death. Nevertheless, Samuel mourned for Saul, and the Lord regretted that Saul reigned over Israel.
 ## Chapter 16
 
-1SA.16:1 Now the Lord said to Samuel, 'How long will you mourn for Saul, seeing I have re
+1SA.16:1 Now the Lord said to Samuel, “How long will you mourn for Saul, seeing I have rejected him from reigning over Israel? Fill your horn with olive oil and come. I will send you to Jesse in Bethlehem, for I have seen someone among his sons to reign for Me.”
 1SA.16:2 And Samuel said, 'How can I go? Saul will hear it and he will kill me.' And the Lord said, 'Take a heifer in your arms and say, 'I have come to sacrifice to the Lord.'
 1SA.16:3 Then invite Jesse to the sacrifice, and I will show you what to do. You shall anoint the one I tell you.'
 1SA.16:4 So Samuel did everything the Lord said to him and went to Bethlehem. And the elders of the town were astonished at meeting him, and they said, 'Seer, do you come in peace?'
@@ -530,7 +530,7 @@ has_additions: false
 1SA.16:23 So whenever the evil spirit was upon Saul, David would take a harp and play it with his hand. Then Saul would become well refreshed, and the evil spirit would depart from him.
 ## Chapter 17
 
-1SA.17:1 Now the Philistines brought their armies together for battle, and they gathered 
+1SA.17:1 Now the Philistines brought their armies together for battle, and they gathered at Sochoh of Judah. They encamped between Sochoh and Azekah in Ephes Dammim.
 1SA.17:2 And Saul and the men of Israel gathered, and they were encamped in the valley. They were to set up in battle formation opposite the Philistines.
 1SA.17:3 The Philistines stood on a mountain on one side, and Israel stood on a mountain on the other side, with the valley between them.
 1SA.17:4 And a mighty man went out from the battle line of the Philistines named Goliath, from Gath. His height was four cubits and a span.
@@ -568,7 +568,7 @@ has_additions: false
 1SA.17:33 And David took the head of the Philistine and brought it to Jerusalem. He put his armor in his tent.
 ## Chapter 18
 
-1SA.18:1 From all the cities of Israel, women came out dancing with ta
+1SA.18:1 From all the cities of Israel, women came out dancing with tambourines, with joy, and with cymbals to greet David.
 1SA.18:2 And the women began a song and sang, 'Saul slew his thousands, and David his ten thousands.'
 1SA.18:3 These words seemed evil in the eyes of Saul, and he said to David, 'They ascribed to you ten thousands, and to me they ascribed only thousands.'
 1SA.18:4 So from that day forward, Saul eyed David with suspicion,
@@ -595,7 +595,7 @@ has_additions: false
 1SA.18:19 Saul was now even more apprehensive about David.
 ## Chapter 19
 
-1SA.19:1 Now Saul told Jonathan his son and all his servants to kill David. But Jonathan,
+1SA.19:1 Now Saul told Jonathan his son and all his servants to kill David. But Jonathan, son of Saul, preferred David exceedingly.
 1SA.19:2 So Jonathan spoke to David, saying, 'Saul seeks to kill you. Be on your guard until tomorrow morning, and stay hidden in a secret place.
 1SA.19:3 I will go out and stand with my father in the field. I will speak to him about you and about anything he may be thinking, and then I will tell you.'
 1SA.19:4 Thus Jonathan spoke well of David to Saul his father and said to him, 'Let not the king sin against his servant David, because he has not sinned against you, and his deeds are very good.
@@ -624,7 +624,7 @@ has_additions: false
 1SA.19:24 There he removed his clothes and prophesied before them, and he fell unclothed on the ground all that day and all that night. Therefore they say, 'Is Saul among the prophets?'
 ## Chapter 20
 
-1SA.20:1 Then David fled from Naioth in Ramah and came before Jonathan and said, 'What ha
+1SA.20:1 Then David fled from Naioth in Ramah and came before Jonathan and said, “What have I done, and what fault is mine? What is my sin before your father, that he seeks my life?”
 1SA.20:2 So Jonathan said to him, 'There is no fault on your part. You shall not die. Indeed, my father will do nothing either great or small without first telling me. And why should my father hide this thing? It is not so!'
 1SA.20:3 Then David answered Jonathan and said, 'Your father certainly knows I have found favor in your sight, and Saul has said, 'Jonathan should not come to know about this. He will not want this to happen.' But as the Lord lives and as you yourself live, so I say to you, there is only a step between me and death.'
 1SA.20:4 So Jonathan said to David, 'What does your soul desire? What shall I do for you?'
@@ -682,14 +682,14 @@ has_additions: false
 1SA.21:9 And David said to Abimelech, 'See if there is a spear or a sword in your possession, for I brought neither my sword nor my weapons with me, for the message of the king required haste.'
 1SA.21:10 So the priest said, 'The sword of Goliath the Philistine, whom you killed in the Valley of Elah, is there wrapped in a garment. If you take it, take it for yourself. For there is nothing else here except that.' And David said, 'There is none like it. Give it to me.'
 1SA.21:11 David Flees from Saul And he gave it to him. Then David arose and fled that day from before Saul. And David went to Achish the king of Gath.
-1SA.21:12 And the servants of Achish said to him, 'Is this not David, the king of the land? Is this not the one to whom the dancing women say: 'Saul slew his thousands, And David his ten thousands'?' †
+1SA.21:12 And the servants of Achish said to him, 'Is this not David, the king of the land? Is this not the one to whom the dancing women say: 'Saul slew his thousands, And David his ten thousands'?'
 1SA.21:13 Now David took these words in his heart, and was very much afraid of Achish the king of Gath.
 1SA.21:14 So he changed his appearance before him and pretended to be mad on that day. He pounded on the doors of the city and acted like a madman with his hands, falling down upon the door of the gate and letting his saliva drip down on his beard.
 1SA.21:15 Then Achish said to his servants, 'Look, you see the man is insane. Why did you bring him to me?
 1SA.21:16 Do I need madmen? Did you bring this fellow to be mad in my presence? This man will not come into the house!'
 ## Chapter 22
 
-1SA.22:1 David therefore departed from there and escaped by going into
+1SA.22:1 David therefore departed from there and escaped by going into the cave of Adullam. And when his brothers and all his father's house heard it, they went down there to him.
 1SA.22:2 And everyone in distress, and everyone in debt, and everyone grieved gathered to him. And he became captain over them. There were about four hundred men with him.
 1SA.22:3 Then David went from there to Mizpah of Moab; and he said to the king of Moab, 'Please let my father and mother come here to be with you, till I know what God is going to do for me.'
 1SA.22:4 So he brought them before the king of Moab, and they dwelt with him as long as David was in the stronghold.
@@ -720,7 +720,7 @@ has_additions: false
 1SA.22:23 Stay with me. Do not fear. For wherever I seek a place for my life, I will also seek a place for your life, for you have protection with me.'
 ## Chapter 23
 
-1SA.23:1 And it was told to David, saying, 'Look, the Philistines are at war against Keil
+1SA.23:1 And it was told to David, saying, “Look, the Philistines are at war against Keilah. They are robbing and trampling upon the threshing floors.”
 1SA.23:2 Therefore David inquired of the Lord, saying, 'Shall I go and attack these Philistines?' And the Lord said to David, 'Go and attack these Philistines and save Keilah.'
 1SA.23:3 But David's men said to him, 'Look, we are afraid here in Judah. How much more so if we go to Keilah, to go after the plunder of the Philistines?'
 1SA.23:4 Then David inquired of the Lord once again. And the Lord answered him and said, 'Arise, go down to Keilah. For I will deliver the Philistines into your hands.'
@@ -786,7 +786,7 @@ has_additions: false
 
 ### David and Abigail
 
-1SA.25:1 And Samuel died, and all Israel gathered together and lamented for him, and they
+1SA.25:1 And Samuel died, and all Israel gathered together and lamented for him, and they buried him at his home in Ramah. David and Abigail And David arose and went down to the Desert of Maon.
 1SA.25:2 And David arose and went down to the Desert of Maon. Now there was a man in Maon who was very notable and whose flocks were in Carmel. He had three thousand sheep and a thousand goats. And he was in Carmel to shear his sheep.
 1SA.25:3 The man's name was Nabal, and his wife's name was Abigail. She was a woman of good understanding and very beautiful in appearance; but the man was harsh and wicked in his doings, like a dog.
 1SA.25:4 While in the desert wilderness, David heard that Nabal the Carmelite was shearing his sheep.
@@ -803,7 +803,7 @@ has_additions: false
 1SA.25:15 But the men were very good to us, and they did not hinder us, and they did not demand anything from us as long as we accompanied them when we were in the fields.
 1SA.25:16 They were like a wall around us by night and day, all the time we were with them keeping the sheep.
 1SA.25:17 And now consider and see what you will do, for malice has been decided against our master and against all his household. For Nabal is such a son of mischief that no one can speak to him.'
-1SA.25:18 Then Abigail made haste and took two hundred loaves of bread, two skins of wine, five sheep already dressed, five ephahs of roasted grain, agomer of raisins, and two hundred cakes of figs and loaded them on donkeys.
+1SA.25:18 Then Abigail made haste and took two hundred loaves of bread, two skins of wine, five sheep already dressed, five ephahs of roasted grain, a gomer of raisins, and two hundred cakes of figs and loaded them on donkeys.
 1SA.25:19 And she said to her servants, 'Go ahead of me, and behold, I will come behind you.' But she did not tell her husband.
 1SA.25:20 And it came to pass that she was riding on her donkey and going down under the protection of the mountain; and look, David and his men were coming down toward her, and she met them.
 1SA.25:21 Now David had said, 'Perhaps I was wrong to protect everything this fellow has in the desert wilderness and to command that nothing of his be taken; yet he repaid me evil for good.
@@ -835,7 +835,7 @@ has_additions: false
 1SA.25:44 But Saul gave Michal his daughter, David's wife, to Palti the son of Laish, from Gallim.
 ## Chapter 26
 
-1SA.26:1 Now the Ziphites came out of the desert country to Saul at Gibeah, saying, 'Look
+1SA.26:1 Now the Ziphites came out of the desert country to Saul at Gibeah, saying, “Look, David hides from us at the hill Hachilah, opposite Jeshimon.”
 1SA.26:2 Then Saul arose and went down to the desert of Ziph with three thousand chosen men of Israel, to seek David in the desert of Ziph.
 1SA.26:3 And Saul encamped by the road in the hill Hachilah, opposite Jeshimon. But David stayed in the desert, and he could see that Saul was coming into the desert to pursue him.
 1SA.26:4 And David sent out spies and learned Saul came out of Keilah well-armed.
@@ -865,7 +865,7 @@ has_additions: false
 1SA.26:25 Then Saul said to David, 'May you be blessed, my son! You shall do great things and be mighty.' So David went his way, and Saul returned to his place.
 ## Chapter 27
 
-1SA.27:1 David spoke in his heart, saying, 'Now the day will come when
+1SA.27:1 David spoke in his heart, saying, “Now the day will come when I shall die by the hand of Saul and be added to my fathers. What is best for me is to be in the land of the Philistines where I will be safe, for Saul will stop searching for me at the borders. Then I will be delivered out of his hand.”
 1SA.27:2 Then David and the four hundred men with him arose and traveled to Achish the son of Maoch, king of Gath.
 1SA.27:3 And David settled in Gath with Achish, he and his men, each with his family, and David with both wives, Ahinoam the Jezreelite woman and Abigail the widow of Nabal, the Carmelite.
 1SA.27:4 And it was reported to Saul that David had fled to Gath; so he no longer sought him.
@@ -879,7 +879,7 @@ has_additions: false
 1SA.27:12 So David had the full confidence of Achish, who said, 'David is now thoroughly abhorred by his own people for having put Israel to shame; he will be my servant forever.'
 ## Chapter 28
 
-1SA.28:1 Now in those days, the Philistines gathered their armies together to battle with
+1SA.28:1 Now in those days, the Philistines gathered their armies together to battle with Israel. And Achish said to David, “Know for sure, you shall enter into battle with me, you and your men.”
 
 ### Saul Consults a Medium
 
@@ -893,7 +893,7 @@ has_additions: false
 1SA.28:9 Then the woman said to him, 'Look, you know what Saul did, and how he cut off the diviners and the wizards from the land. Why do you lay a snare for my life, to cause me to be put to death?'
 1SA.28:10 And Saul swore to her, saying, 'As the Lord lives, no injustice shall come upon you for this action.'
 1SA.28:11 Then the woman said, 'Whom shall I bring up for you?' And he said, 'Bring up Samuel for me.'
-1SA.28:12 When the woman saw Samuel, she cried out with aloud voice. And the woman spoke to Saul, saying, 'Why did you deceive me? You are Saul!'
+1SA.28:12 When the woman saw Samuel, she cried out with a loud voice. And the woman spoke to Saul, saying, 'Why did you deceive me? You are Saul!'
 1SA.28:13 But the king said to her, 'Do not be afraid. What did you see?' And the woman said to him, 'I saw gods ascending out of the earth.'
 1SA.28:14 So he said to her, 'What did you perceive?' And she said, 'A man is coming up, standing upright, and he is covered with a mantle.' And Saul discerned it to be Samuel, and he stooped with his face to the ground and bowed down to him.
 1SA.28:15 Now Samuel said to Saul, 'Why did you trouble me by bringing me up?' And Saul answered, 'I am deeply distressed. The Philistines are making war against me, and God has departed from me and does not answer me any more, neither by the hand of prophets nor by dreams. Therefore I summoned you to tell me what I should do.'
@@ -912,7 +912,7 @@ has_additions: false
 1SA.28:25 And she brought it before Saul and his servants. They ate and departed that night.
 ## Chapter 29
 
-1SA.29:1 All the encampments of the Philistines gathered at Aphek, and
+1SA.29:1 All the encampments of the Philistines gathered at Aphek, and the Israelites encamped in Endor in Jezreel.
 1SA.29:2 And the captains of the Philistines passed in review by hundreds and by thousands. David and his men passed in review at the rear with Achish.
 1SA.29:3 Then the captains of the Philistines said, 'Who are these passing by in review?' And Achish said to the commanders of the Philistines, 'Is this not David, the servant of Saul king of Israel? The one who has been with us daily for the last two years? I have found no fault in him from the day he defected to me until today.'
 1SA.29:4 But the commanders of the Philistines were grieved because of him; so they said to him, 'Return the man to the place you appointed for him. Do not let him go with us to battle, for fear that he become our adversary in the battle. For what better way could he have to reconcile himself to his lord, if not with the heads of these men?
@@ -928,7 +928,7 @@ has_additions: false
 1SA.29:11 So David arose early, he and his men, to depart and to guard the land of the Philistines. The Philistines went up to battle at Jezreel.
 ## Chapter 30
 
-1SA.30:1 Now before David and his men entered Ziklag on the third day, Amalek had entered
+1SA.30:1 Now before David and his men entered Ziklag on the third day, Amalek had entered and attacked Ziklag and burned it with fire.
 1SA.30:2 They did not kill the women, and all who were there, from small to great, were carried away captive as they went on their way.
 1SA.30:3 So David and his men came to the city, and it was burned with fire. Their wives, their sons, and their daughters were taken captive.
 1SA.30:4 Then David and the people with him lifted up their voices and wept until they were too tired to weep anymore.
@@ -965,7 +965,7 @@ has_additions: false
 1SA.30:32 to those who were in Hebron, and to all the places where David himself and his men were accustomed to pass through.
 ## Chapter 31
 
-1SA.31:1 Now the Philistines fought against Israel; and the men of Israel fled from befor
+1SA.31:1 Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines. They fell slain on Mount Gilboa.
 1SA.31:2 Then the Philistines followed hard after Saul and his sons. And the Philistines killed Jonathan, Abinadab, and Malchishua, the sons of Saul.
 1SA.31:3 The battle weighed heavily against Saul. The javelin-throwers and the archers hit him, and he was wounded in the belly.
 1SA.31:4 Then Saul said to his armor-bearer, 'Draw your sword and thrust me through with it. Do not let these uncircumcised men come and thrust me through and abuse me.' But his armor-bearer would not do it, for he was greatly afraid. Therefore Saul took a sword and fell on it.

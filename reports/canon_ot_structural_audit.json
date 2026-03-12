@@ -1,0 +1,1169 @@
+{
+  "books": [
+    {
+      "book": "GEN",
+      "verses": 1531,
+      "v7_pct": "99.9%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 1531/1532 verses (99.9%); gap of 1"
+      ]
+    },
+    {
+      "book": "EXO",
+      "verses": 1171,
+      "v7_pct": "100.4%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 1171/1166 verses (100.4%); gap of -5"
+      ]
+    },
+    {
+      "book": "LEV",
+      "verses": 859,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "NUM",
+      "verses": 1287,
+      "v7_pct": "99.9%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 1287/1288 verses (99.9%); gap of 1"
+      ]
+    },
+    {
+      "book": "DEU",
+      "verses": 961,
+      "v7_pct": "100.2%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 961/959 verses (100.2%); gap of -2"
+      ]
+    },
+    {
+      "book": "JOS",
+      "verses": 660,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "JDG",
+      "verses": 617,
+      "v7_pct": "99.8%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 617/618 verses (99.8%); gap of 1"
+      ]
+    },
+    {
+      "book": "RUT",
+      "verses": 85,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "1SA",
+      "verses": 775,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "2SA",
+      "verses": 697,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "1KI",
+      "verses": 828,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "2KI",
+      "verses": 723,
+      "v7_pct": "100.6%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 723/719 verses (100.6%); gap of -4"
+      ]
+    },
+    {
+      "book": "1CH",
+      "verses": 928,
+      "v7_pct": "98.5%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 928/942 verses (98.5%); gap of 14"
+      ]
+    },
+    {
+      "book": "2CH",
+      "verses": 833,
+      "v7_pct": "101.3%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 833/822 verses (101.3%); gap of -11"
+      ]
+    },
+    {
+      "book": "EZR",
+      "verses": 281,
+      "v7_pct": "100.4%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 281/280 verses (100.4%); gap of -1"
+      ]
+    },
+    {
+      "book": "NEH",
+      "verses": 394,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "EST",
+      "verses": 194,
+      "v7_pct": "99.5%",
+      "errors": 0,
+      "warnings": 3,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "WARN",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "WARN",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V4   Missing verses in ch.4: jumps from 5 to 7",
+        "V7   Completeness: 194/195 verses (99.5%); gap of 1",
+        "V10  Absorbed content: EST.4:6 likely present in EST.4:7 (Brenton word match: 10/18 = 56%)"
+      ]
+    },
+    {
+      "book": "JOB",
+      "verses": 1084,
+      "v7_pct": "100.2%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 1084/1082 verses (100.2%); gap of -2"
+      ]
+    },
+    {
+      "book": "PSA",
+      "verses": 2535,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "PRO",
+      "verses": 912,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "ECC",
+      "verses": 222,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "SNG",
+      "verses": 117,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "ISA",
+      "verses": 1290,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "SKIP",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "JER",
+      "verses": 1299,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "LAM",
+      "verses": 150,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "SKIP",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "EZK",
+      "verses": 1268,
+      "v7_pct": "100.2%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "SKIP",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 1268/1265 verses (100.2%); gap of -3"
+      ]
+    },
+    {
+      "book": "DAN",
+      "verses": 530,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "SKIP",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "HOS",
+      "verses": 197,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "JOL",
+      "verses": 73,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "AMO",
+      "verses": 145,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "OBA",
+      "verses": 21,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "JON",
+      "verses": 48,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "MIC",
+      "verses": 105,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "NAH",
+      "verses": 47,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "HAB",
+      "verses": 56,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "ZEP",
+      "verses": 53,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "HAG",
+      "verses": 38,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "ZEC",
+      "verses": 211,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "MAL",
+      "verses": 55,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "TOB",
+      "verses": 248,
+      "v7_pct": "101.2%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 248/245 verses (101.2%); gap of -3"
+      ]
+    },
+    {
+      "book": "JDT",
+      "verses": 340,
+      "v7_pct": "100.3%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 340/339 verses (100.3%); gap of -1"
+      ]
+    },
+    {
+      "book": "WIS",
+      "verses": 436,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "SIR",
+      "verses": 1377,
+      "v7_pct": "100.4%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 1377/1371 verses (100.4%); gap of -6"
+      ]
+    },
+    {
+      "book": "BAR",
+      "verses": 141,
+      "v7_pct": "100.7%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "SKIP",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 141/140 verses (100.7%); gap of -1"
+      ]
+    },
+    {
+      "book": "LJE",
+      "verses": 73,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "SKIP",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "1ES",
+      "verses": 434,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "1MA",
+      "verses": 923,
+      "v7_pct": "99.9%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 923/924 verses (99.9%); gap of 1"
+      ]
+    },
+    {
+      "book": "2MA",
+      "verses": 555,
+      "v7_pct": "100.0%",
+      "errors": 0,
+      "warnings": 0,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "PASS",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": []
+    },
+    {
+      "book": "3MA",
+      "verses": 227,
+      "v7_pct": "99.6%",
+      "errors": 0,
+      "warnings": 1,
+      "statuses": {
+        "V6": "PASS",
+        "V1": "PASS",
+        "V2": "PASS",
+        "V3": "PASS",
+        "V4": "PASS",
+        "V5": "PASS",
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "PASS",
+        "V10": "PASS",
+        "V11": "PASS",
+        "V12": "PASS"
+      },
+      "error_messages": [],
+      "warning_messages": [
+        "V7   Completeness: 227/228 verses (99.6%); gap of 1"
+      ]
+    }
+  ]
+}

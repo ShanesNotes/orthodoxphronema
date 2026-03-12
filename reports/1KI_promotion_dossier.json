@@ -1,9 +1,9 @@
 {
   "book_code": "1KI",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:40:56.688011",
+  "timestamp": "2026-03-11T16:09:33.912742",
   "registry_version": "1.3.0",
-  "body_checksum": "bdfd39bc6d96c63391f6e07e1f4199453fd37fc3766281f3b4bd373cb8074c0f",
+  "body_checksum": "e05664c69f5fea2ad08fffb725f5c9b2ef4e6676cbc4ddb9e2d49861a00e99fa",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -57,5 +57,5 @@
       }
     ]
   },
-  "decision": "promoted"
+  "decision": "dry-run"
 }

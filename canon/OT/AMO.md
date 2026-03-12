@@ -57,7 +57,7 @@ AMO.2:16 The strong will find no confidence in their strength; the naked will fl
 AMO.3:1 O house of Israel, hear this word the Lord has spoken against you, against the whole family which I brought up from the land of Egypt, saying,
 AMO.3:2 'Out of all the families of the earth, I have especially known you. Therefore I shall exact vengeance upon you for all your sins.
 AMO.3:3 If two people walk together, will each one not come to know the other?
-AMO.3:4 Will a lion roar from his lair in the forest if he has no prey? Will a lion'swhelp cry out from his den if he has nothing?
+AMO.3:4 Will a lion roar from his lair in the forest if he has no prey? Will a lion's whelp cry out from his den if he has nothing?
 AMO.3:5 Will a bird fall to the earth without a fowler? Will a snare be sprung if it has caught nothing?
 AMO.3:6 If a trumpet is sounded in a city, will not the people be alarmed? If evil should be in a city, has not the Lord brought it?
 AMO.3:7 For the Lord God does nothing unless He reveals instruction to His servants the prophets.
@@ -79,7 +79,7 @@ AMO.4:2 The Lord swears by His holiness: 'Behold, the days shall come upon you, 
 AMO.4:3 You shall be brought out naked before one another and be cast out on Mount Hermon,' says the Lord God.
 AMO.4:4 'You come to Bethel and act lawlessly and multiply your transgressions in Gilgal. You bring your sacrifice in the morning and your tithes every three days.
 AMO.4:5 Moreover, outside they read things of the Law and call for professions. Proclaim that the children of Israel love these things,' says the Lord God.
-AMO.4:6 'And in all your cities I gave you cleanness of teeth, and in all your places alack of bread. Yet you did not return to Me,' says the Lord.
+AMO.4:6 'And in all your cities I gave you cleanness of teeth, and in all your places a lack of bread. Yet you did not return to Me,' says the Lord.
 AMO.4:7 'And also, I withheld rain from you for the three months before the harvest. I caused it to rain upon one city while I withheld rain from another. On one field it rained, but where it did not rain, the crops withered.
 
 ### The Lord Smites Israel for Her Sin
@@ -152,7 +152,7 @@ AMO.6:14 'But, behold! I shall raise up a nation against you, O house of Israel,
 AMO.7:1 Thus the Lord showed me: Behold, He formed locust swarms at dawn; and behold, one locust, Gog, was the king.
 AMO.7:2 And so it was, when they had finished eating the grass of the land, I said, 'O Lord, Lord, be merciful! Who will raise up Jacob? For he is small!
 AMO.7:3 Repent, O Lord, concerning this.' And the Lord said, 'It shall not be.'
-AMO.7:4 Thus the Lord showed me: Behold, the Lord called for judgment by fire, and it engulfed the great deep and devoured the Lord'sportion.
+AMO.7:4 Thus the Lord showed me: Behold, the Lord called for judgment by fire, and it engulfed the great deep and devoured the Lord's portion.
 AMO.7:5 Then I said, 'Lord, Lord, cease, who will raise Jacob? For he is small!
 AMO.7:6 Relent, Lord, concerning this.' 'This also shall not be,' said the Lord.
 AMO.7:7 Thus He showed me: Behold, a man stood on a wall made of adamant, with adamant in his hand.
@@ -161,8 +161,8 @@ AMO.7:9 The joyful altars will be abolished, and the sacrifices of Israel will b
 AMO.7:10 Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, 'Amos conspired against you in the midst of the house of Israel. The land is not able to bear all his words.
 AMO.7:11 For thus Amos has said: 'Jeroboam will die by the sword, and Israel will surely be led away captive from their own land.' '
 AMO.7:12 Then Amaziah said to Amos, 'Go, you seer! Flee to the land of Judah. Live out your life there and prophesy there.
-AMO.7:13 But no longer prophesy at Bethel, for it is the king'ssanctuary, his royal residence.'
-AMO.7:14 Then Amos answered and said to Amaziah, 'I was no prophet nor the son of a prophet. I was but asheepbreeder and a tender of sycamore fruit.
+AMO.7:13 But no longer prophesy at Bethel, for it is the king's sanctuary, his royal residence.'
+AMO.7:14 Then Amos answered and said to Amaziah, 'I was no prophet nor the son of a prophet. I was but a sheepbreeder and a tender of sycamore fruit.
 AMO.7:15 Then the Lord took me from the sheep, and the Lord said to me, 'Go, prophesy to My people Israel.'
 AMO.7:16 Now therefore, hear the word of the Lord: 'You say, Do not prophesy to Israel, and do not stir up the house of Jacob.'
 
@@ -171,8 +171,8 @@ AMO.7:16 Now therefore, hear the word of the Lord: 'You say, Do not prophesy to 
 AMO.7:17 Therefore thus says the Lord: 'Your wife shall be a prostitute in the city, and your sons and daughters shall fall by the sword. Your land shall be divided by a survey line, and you shall die in a defiled land. Israel shall surely be led away captive from his own land.' '
 ## Chapter 8
 
-AMO.8:1 Thus the Lord showed me: Behold, a bird-catcher'sbasket.
-AMO.8:2 And He said, 'Amos, what do you see?' So I said, 'A bird-catcher'sbasket.' Then the Lord said to me, 'The end has come upon My people Israel. I shall not pass by them anymore.
+AMO.8:1 Thus the Lord showed me: Behold, a bird-catcher's basket.
+AMO.8:2 And He said, 'Amos, what do you see?' So I said, 'A bird-catcher's basket.' Then the Lord said to me, 'The end has come upon My people Israel. I shall not pass by them anymore.
 AMO.8:3 And the recessed ceilings of the temple shall wail in that day,' says the Lord, 'for many are fallen in every place; I will bring silence upon it.'
 AMO.8:4 Therefore, hear this, you who oppress the poor in the morning and use tyranny to drive the needy from the land,
 AMO.8:5 saying, 'When does the month end so we can barter? and the Sabbath end so we can open the storehouses? So we can falsify the balancing scales to our favor, and thereby receive greater profits by deceit;

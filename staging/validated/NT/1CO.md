@@ -15,128 +15,23 @@ has_additions: false
 ## Chapter 1
 
 
-### The First Book of the Corinthians
-
-1CO.1:1 ORINTHIANS Previous Home Next Chapters in Corinthians Introduction 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 11, 12, 13, 14, 15,
-1CO.1:16 Back to the New Testament Back to Table of Contents Verses in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Chapter 1 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 21, 22, 23, 24, 25, 26, 27, 28, 29, 30
-1CO.1:31 Back to Chapters in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Back to the New Testament Back to Table of Contents Back to Table of Contents Verses in Corinthians Chapter 3 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 21, 22,
-1CO.1:23 Back to Chapters in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Back to the New Testament Back to Table of Contents Verses in Corinthians Chapter 4 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
-1CO.1:21 Back to Chapters in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Back to the New Testament Back to Table of Contents Verses in Corinthians Chapter
-1CO.1:5 Back to Table of Contents Verses in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Chapter
-1CO.1:6 Back to Table of Contents Verses in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Chapter 7 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 31, 32, 33, 34, 35, 36, 37, 38, 39,
-1CO.1:40 Back to Chapters in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Back to the New Testament Back to Table of Contents Verses in Corinthians Chapter
-1CO.1:8 Back to Table of Contents Verses in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Chapter 9 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 21, 22, 23, 24, 25, 26,
-1CO.1:27 Back to Chapters in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Back to the New Testament Back to Table of Contents Verses in Corinthians Chapter
-1CO.1:10 Verses in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Chapter
-1CO.1:11 Verses in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Chapter
-
 ### The Sacrament of Unity: Baptism
 
-1CO.1:12 Back to Table of Contents Verses in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Chapter
-1CO.1:14 Back to Table of Contents Verses in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Chapter 15 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 51, 52, 53, 54, 55, 56, 57,
-1CO.1:58 Back to Chapters in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Back to the New Testament Back to Table of Contents Verses in Corinthians Chapter
-1CO.1:16 Back to Chapters in
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians Author -St. Paul, the apostle to the Gentiles and the founder of the church at Corinth (Acts 18:1-11), is the undisputed author of this epistle.
+1CO.1:1 Corinthians Chapter 15 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 31, 32, 33, 34, 35, 36, 37, 38, 39, 40 41, 42, 43, 44, 45, 46, 47, 48, 49, 50 51, 52, 53, 54, 55, 56, 57, Corinthians Author -St. Paul, the apostle to the Gentiles and the founder of the church at Corinth (Acts 18:1-11), is the undisputed author of this epistle. Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother, Corinthians (see 5:9-11) and one between 1 and
 
 ### Thanksgiving for God's Grace at Corinth
 
-1CO.1:2 Date -First Corinthians was probably written from Ephesus around AD 55, during Paul's third missionary journey (Acts 19:1-20:1).
+1CO.1:2 To the church of God which is at Corinth, to those who are sanctified in Christ Jesus, called to be saints, with all who in every place call on the name of Jesus Christ our Lord, both theirs and ours: Corinthians indicates Paul originally wrote two additional letters to the Corinthians which have now been lost: one before Corinthians (the's orrowful' letter; see 2Co 2:411; 7:8). The problems in Corinth were not quickly or easily solved.
 
 ### Greeting
 
-1CO.1:3 Major Theme -Communion with God versus communion with darkness. We are created for communion (Gr. koinonia ) with God and with each other. Koinonia is concretely experienced in the life of the Church, which is the Body of Christ and the temple of the Holy Spirit. But communion is not automatic; we pursue it. And while we may cooperate with evil, we are created to cooperate with God and with each other.
-1CO.1:4 The subthemes of this epistle are found in the sections Paul writes to answer specific problems or concerns in the church.
-1CO.1:5 1. Factionalism (1:10-3:23 ) Civil lawsuits (4:1-21; 6:1-8 ) Sexual immorality (5:1-13; 6:9-7:40 ) Meat sacrificed to idols (8:1-9:27 ) Eucharistic theology and practice (10:1-11:34 ) Spiritual gifts (12:1-14:40 ) Resurrection life (15:1-16:24 ) Background -There were a number of problems in the Corinthian church to which Paul responds in this letter. These problems include: (a) Church disunity. Many Corinthian Christians had broken into several factions based on improper loyalty to particular Christian leaders (1:12). (b) Doctrinal speculations. Erroneous teaching thrived in Corinth, particularly that of the gnostic variety. (c) Moral failure. The Corinthian church, free from persecution, became spiritually weak and succumbed to the moral failure the city was famous for. (d) Dealing with pagan religions. Christians in Corinth could not agree about how to respond to idolatry. (e) Self-centeredness and spiritual gifts. Corinth was brilliantly endowed with spiritual gifts, perhaps as the Holy Spirit's counter to the hedonism there. But the self-centeredness of the gifted ones brought dishonor to God.
+1CO.1:3 Introduction (1:1 -9) Greeting (1:1 -3) Thanksgiving for spiritual gifts (1:4-9) Response to Reports Received (1:1 0-6:20) The church is one (1:10-4:21) The church is holy (5:1 -6:20) Response to Questions Asked (7:1 -1 5:58) The church is catholic (7:1 -1 4:40) The church is apostolic: the Resurrection (1 5:1 -58) Conclusion (1 6:1 -24) Collection for the Jerusalem church (16:1-4) Paul's plans (1 6:5-1 2) Exhortations, greetings, and benediction (16:13-24) Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+### Greeting
+
+1CO.1:4 The subthemes of this epistle are found in the sections Paul writes to answer specific problems or concerns in the church. I thank my God always concerning you for the grace of God which was given to you by Christ Jesus,
+1CO.1:5 1. Factionalism (1:10-3:23 ) Civil lawsuits (4:1-21; 6:1-8 ) Sexual immorality (5:1-13; 6:9-7:40 ) Meat sacrificed to idols (8:1-9:27 ) Eucharistic theology and practice (10:1-11:34 ) Spiritual gifts (12:1-14:40 ) Resurrection life (15:1-16:24 ) Background -There were a number of problems in the Corinthian church to which Paul responds in this letter. These problems include: (a) Church disunity. Many Corinthian Christians had broken into several factions based on improper loyalty to particular Christian leaders (1:12). (b) Doctrinal speculations. Erroneous teaching thrived in Corinth, particularly that of the gnostic variety. (c) Moral failure. The Corinthian church, free from persecution, became spiritually weak and succumbed to the moral failure the city was famous for. (d) Dealing with pagan religions. Christians in Corinth could not agree about how to respond to idolatry. (e) Self-centeredness and spiritual gifts. Corinth was brilliantly endowed with spiritual gifts, perhaps as the Holy Spirit's counter to the hedonism there. But the self-centeredness of the gifted ones brought dishonor to God. that you were enriched in everything by Him in all utterance and all knowledge, 6 even as the testimony of Christ was confirmed in you, 7 so that you come short in no gift, eagerly waiting for the revelation of our Lord Jesus Christ, 8 who will also confirm you to the end, that you may be blameless in the day of our Lord Jesus Christ.
 1CO.1:6 The internal evidence of 1 and
-
-### Thanksgiving for God's Grace at Corinth
-
-1CO.1:2 Corinthians indicates Paul originally wrote two additional letters to the Corinthians which have now been lost: one before
-
-### The First Book of the Corinthians
-
-1CO.1:1 Corinthians (see 5:9-11) and one between 1 and
-
-### Thanksgiving for God's Grace at Corinth
-
-1CO.1:2 Corinthians (the's orrowful' letter; see 2Co 2:411; 7:8). The problems in Corinth were not quickly or easily solved.
-
-### Greeting
-
-1CO.1:3 Introduction (1:1 -9) Greeting (1:1 -3) Thanksgiving for spiritual gifts (1:4-9) Response to Reports Received (1:1 0-6:20) The church is one (1:10-4:21) The church is holy (5:1 -6:20) Response to Questions Asked (7:1 -1 5:58) The church is catholic (7:1 -1 4:40) The church is apostolic: the Resurrection (1 5:1 -58) Conclusion (1 6:1 -24) Collection for the Jerusalem church (16:1-4) Paul's plans (1 6:5-1 2) Exhortations, greetings, and benediction (16:13-24)
-
-### The First Book of the Corinthians
-
-1CO.1:1 Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
-
-### Thanksgiving for God's Grace at Corinth
-
-1CO.1:2 To the church of God which is at Corinth, to those who are sanctified in Christ Jesus, called to be saints, with all who in every place call on the name of Jesus Christ our Lord, both theirs and ours:
-
-### Greeting
-
-1CO.1:3 Grace to you and peace from God our Father and the Lord Jesus Christ.
-1CO.1:4 I thank my God always concerning you for the grace of God which was given to you by Christ Jesus,
-1CO.1:5 that you were enriched in everything by Him in all utterance and all knowledge, 6 even as the testimony of Christ was confirmed in you, 7 so that you come short in no gift, eagerly waiting for the revelation of our Lord Jesus Christ, 8 who will also confirm you to the end, that you may be blameless in the day of our Lord Jesus Christ.
 
 ### Reported Contentiousness in the Church
 
@@ -205,7 +100,8 @@ has_additions: false
 1CO.3:9 For we are God's fellow workers; you are God's field, you are God's building.
 1CO.3:10 According to the grace of God which was given to me, as awise master builder I have laid the foundation, and another builds on it. But let each one take heed how he builds on it.
 1CO.3:11 For no other foundation can anyone lay than that which is laid, which is Jesus Christ.
-1CO.3:12 Now if anyone builds on this foundation with gold, silver, precious stones, wood, hay, straw, 13 each one's work will become clear; for the Day will declare it, because it will be revealed by fire; and the fire will test each one's work, of what sort it is.
+1CO.3:12 Now if anyone builds on this foundation with gold, silver, precious stones, wood, hay, straw,
+1CO.3:13 each one's work will become clear; for the Day will declare it, because it will be revealed by fire; and the fire will test each one's work, of what sort it is.
 1CO.3:14 If anyone's work which he has built on it endures, he will receive areward.
 1CO.3:15 If anyone's work is burned, he will suffer loss; but he himself will be saved, yet so as through fire.
 1CO.3:16 Do you not know that you are the temple of God and that the Spirit of God dwells in you?
@@ -214,8 +110,10 @@ has_additions: false
 
 1CO.3:17 If anyone defiles the temple of God, God will destroy him. For the temple of God is holy, which temple you are.
 1CO.3:18 Let no one deceive himself. If anyone among you seems to be wise in this age, let him become afool that he may become wise.
-1CO.3:19 For the wisdom of this world is foolishness with God. For it is written, 'He catches the wise in their own craftiness'; a 20 and again, 'The LORD knows the thoughts of the wise, that they are futile.' a
-1CO.3:21 Therefore let no one boast in men. For all things are yours: 22 whether Paul or Apollos or Cephas, or the world or life or death, or things present or things to come-all are yours.
+1CO.3:19 For the wisdom of this world is foolishness with God. For it is written, 'He catches the wise in their own craftiness'; a
+1CO.3:20 and again, 'The LORD knows the thoughts of the wise, that they are futile.' a
+1CO.3:21 Therefore let no one boast in men. For all things are yours:
+1CO.3:22 whether Paul or Apollos or Cephas, or the world or life or death, or things present or things to come-all are yours.
 
 ### Wisdom in Spiritual Fatherhood
 
@@ -236,7 +134,8 @@ has_additions: false
 
 ### Appeal and Warning
 
-1CO.4:12 And we labor, working with our own hands. Being reviled, we bless; being persecuted, we endure; 13 being defamed, we entreat. We have been made as the filth of the world, the offscouring of all things until now.
+1CO.4:12 And we labor, working with our own hands. Being reviled, we bless; being persecuted, we endure;
+1CO.4:13 being defamed, we entreat. We have been made as the filth of the world, the offscouring of all things until now.
 1CO.4:14 I do not write these things to shame you, but as my beloved children I warn you.
 1CO.4:15 For though you might have ten thousand instructors in Christ, yet you do not have many fathers; for in Christ Jesus I have begotten you through the gospel.
 1CO.4:16 Therefore I urge you, imitate me.
@@ -253,7 +152,8 @@ has_additions: false
 1CO.5:1 tis actually reported that there is sexual immorality among you, and such sexual immorality as is not even named aamong the Gentiles-that aman has his father's wife!
 1CO.5:2 And you are puffed up, and have not rather mourned, that he who has done this deed might be taken away from among you.
 1CO.5:3 For I indeed, as absent in body but present in spirit, have already judged (as though I were present) him who has so done this deed.
-1CO.5:4 In the name of our Lord Jesus Christ, when you are gathered together, along with my spirit, with the power of our Lord Jesus Christ, 5 deliver such aone to Satan for the destruction of the flesh, that his spirit may be saved in the day of the Lord Jesus. a
+1CO.5:4 In the name of our Lord Jesus Christ, when you are gathered together, along with my spirit, with the power of our Lord Jesus Christ,
+1CO.5:5 deliver such aone to Satan for the destruction of the flesh, that his spirit may be saved in the day of the Lord Jesus. a
 1CO.5:6 Your glorying is not good. Do you not know that alittle leaven leavens the whole lump?
 1CO.5:7 Therefore purge out the old leaven, that you may be anew lump, since you truly are unleavened. For indeed Christ, our Passover, was sacrificed for us. a
 1CO.5:8 Therefore let us keep the feast, not with old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.
@@ -326,7 +226,9 @@ has_additions: false
 1CO.7:26 I suppose therefore that this is good because of the present distress-that it is good for aman to remain as he is:
 1CO.7:27 Are you bound to awife? Do not seek to be loosed. Are you loosed from awife? Do not seek awife.
 1CO.7:28 But even if you do marry, you have not sinned; and if avirgin marries, she has not sinned. Nevertheless such will have trouble in the flesh, but I would spare you.
-1CO.7:29 But this I say, brethren, the time is short, so that from now on even those who have wives should be as though they had none, 30 those who weep as though they did not weep, those who rejoice as though they did not rejoice, those who buy as though they did not possess, 31 and those who use this world as not misusing it. For the form of this world is passing away.
+1CO.7:29 But this I say, brethren, the time is short, so that from now on even those who have wives should be as though they had none,
+1CO.7:30 those who weep as though they did not weep, those who rejoice as though they did not rejoice, those who buy as though they did not possess,
+1CO.7:31 and those who use this world as not misusing it. For the form of this world is passing away.
 1CO.7:32 But I want you to be without care. He who is unmarried cares for the things of the Lord -how he may please the Lord.
 1CO.7:33 But he who is married cares about the things of the worldhow he may please his wife.
 1CO.7:34 There is a adifference between awife and avirgin. The unmarried woman cares about the things of the Lord, that she may be holy both in body and in spirit. But she who is married cares about the things of the world-how she may please her husband.
@@ -400,7 +302,10 @@ has_additions: false
 1CO.9:27 But I discipline my body and bring it into subjection, lest, when I have preached to others, I myself should become disqualified.
 ## Chapter 10
 
-1CO.10:1 oreover, brethren, I do not want you to be unaware that all our fathers were under the cloud, all passed through the sea, 2 all were baptized into Moses in the cloud and in the sea, 3 all ate the same spiritual food, 4 and all drank the same spiritual drink. For they drank of that spiritual Rock that followed them, and that Rock was Christ.
+1CO.10:1 oreover, brethren, I do not want you to be unaware that all our fathers were under the cloud, all passed through the sea,
+1CO.10:2 all were baptized into Moses in the cloud and in the sea,
+1CO.10:3 all ate the same spiritual food,
+1CO.10:4 and all drank the same spiritual drink. For they drank of that spiritual Rock that followed them, and that Rock was Christ.
 1CO.10:5 But with most of them God was not well pleased, for their bodies were scattered in the wilderness.
 1CO.10:6 Now these things became our examples, to the intent that we should not lust after evil things as they also lusted.
 1CO.10:7 And do not become idolaters as were some of them. As it is written, 'The people sat down to eat and drink, and rose up to play.' a
@@ -434,7 +339,8 @@ has_additions: false
 1CO.10:29 'Conscience,' I say, not your own, but that of the other. For why is my liberty judged by another man's conscience?
 1CO.10:30 But if I partake with thanks, why am I evil spoken of for the food over which I give thanks?
 1CO.10:31 Therefore, whether you eat or drink, or whatever you do, do all to the glory of God.
-1CO.10:32 Give no offense, either to the Jews or to the Greeks or to the church of God, 33 just as I also please all men in all things, not seeking my own profit, but the profit of many, that they may be saved.
+1CO.10:32 Give no offense, either to the Jews or to the Greeks or to the church of God,
+1CO.10:33 just as I also please all men in all things, not seeking my own profit, but the profit of many, that they may be saved.
 ## Chapter 11
 
 
@@ -521,7 +427,10 @@ has_additions: false
 1CO.13:1 hough I speak with the tongues of men and of angels, but have not love, I have become sounding brass or aclanging cymbal.
 1CO.13:2 And though I have the gift of prophecy, and understand all mysteries and all knowledge, and though I have all faith, so that I could remove mountains, but have not love, I am nothing.
 1CO.13:3 And though I bestow all my goods to feed the poor, and though I give my body to be burned, abut have not love, it profits me nothing.
-1CO.13:4 Love suffers long and is kind; love does not envy; love does not parade itself, is not puffed up; 5 does not behave rudely, does not seek its own, is not provoked, thinks no evil; 6 does not rejoice in iniquity, but rejoices in the truth; 7 bears all things, believes all things, hopes all things, endures all things.
+1CO.13:4 Love suffers long and is kind; love does not envy; love does not parade itself, is not puffed up;
+1CO.13:5 does not behave rudely, does not seek its own, is not provoked, thinks no evil;
+1CO.13:6 does not rejoice in iniquity, but rejoices in the truth;
+1CO.13:7 bears all things, believes all things, hopes all things, endures all things.
 1CO.13:8 Love never fails. But whether there are prophecies, they will fail; whether there are tongues, they will cease; whether there is knowledge, it will vanish away.
 1CO.13:9 For we know in part and we prophesy in part.
 1CO.13:10 But when that which is perfect has come, then that which is in part will be done away.
@@ -584,7 +493,8 @@ has_additions: false
 1CO.14:40 Let all things be done decently and in order.
 ## Chapter 15
 
-1CO.15:1 oreover, brethren, I declare to you the gospel which I preached to you, which also you received and in which you stand, 2 by which also you are saved, if you hold fast that word which I preached to you-unless you believed in vain.
+1CO.15:1 oreover, brethren, I declare to you the gospel which I preached to you, which also you received and in which you stand,
+1CO.15:2 by which also you are saved, if you hold fast that word which I preached to you-unless you believed in vain.
 1CO.15:3 For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures,
 1CO.15:4 and that He was buried, and that He rose again the third day according to the Scriptures,
 1CO.15:5 and that He was seen by Cephas, then by the twelve.

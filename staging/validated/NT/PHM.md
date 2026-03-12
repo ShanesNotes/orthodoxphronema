@@ -20,18 +20,22 @@ PHM.1:2 to the beloved a Apphia, Archippus our fellow soldier, and to the church
 ### Commendation of Philemon
 
 PHM.1:3 Grace to you and peace from God our Father and the Lord Jesus Christ.
-PHM.1:4 I thank my God, making mention of you always in my prayers, 5 hearing of your love and faith which you have toward the Lord Jesus and toward all the saints, 6 that the sharing of your faith may become effective by the acknowledgment of every good thing which is in you ain Christ Jesus.
+PHM.1:4 I thank my God, making mention of you always in my prayers,
+PHM.1:5 hearing of your love and faith which you have toward the Lord Jesus and toward all the saints,
+PHM.1:6 that the sharing of your faith may become effective by the acknowledgment of every good thing which is in you ain Christ Jesus.
 
 ### Plea for Onesimus
 
 PHM.1:7 For we have agreat joy band consolation in your love, because the hearts of the saints have been refreshed by you, brother.
 PHM.1:8 Therefore, though I might be very bold in Christ to command you what is fitting,
 PHM.1:9 yet for love's sake I rather appeal to you -being such aone as Paul, the aged, and now also aprisoner of Jesus Christ-
-PHM.1:10 I appeal to you for my son Onesimus, whom I have begotten while in my chains, 11 who once was unprofitable to you, but now is profitable to you and to me.
+PHM.1:10 I appeal to you for my son Onesimus, whom I have begotten while in my chains,
+PHM.1:11 who once was unprofitable to you, but now is profitable to you and to me.
 PHM.1:12 I am sending him back. a You therefore receive him, that is, my own heart,
 PHM.1:13 whom I wished to keep with me, that on your behalf he might minister to me in my chains for the gospel.
 PHM.1:14 But without your consent I wanted to do nothing, that your good deed might not be by compulsion, as it were, but voluntary.
-PHM.1:15 For perhaps he departed for awhile for this purpose, that you might receive him forever, 16 no longer as aslave but more than aslave-abeloved brother, especially to me but how much more to you, both in the flesh and in the Lord.
+PHM.1:15 For perhaps he departed for awhile for this purpose, that you might receive him forever,
+PHM.1:16 no longer as aslave but more than aslave-abeloved brother, especially to me but how much more to you, both in the flesh and in the Lord.
 PHM.1:17 If then you count me as apartner, receive him as you would me.
 PHM.1:18 But if he has wronged you or owes anything, put that on my account.
 PHM.1:19 I, Paul, am writing with my own hand. I will repay-not to mention to you that you owe me even your own self besides.

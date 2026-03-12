@@ -1,9 +1,9 @@
 {
   "book_code": "PRO",
   "testament": "OT",
-  "timestamp": "2026-03-11T05:04:39.877465",
+  "timestamp": "2026-03-11T16:19:23.260448",
   "registry_version": "1.3.0",
-  "body_checksum": "2e1d366521bcb9ba279bccb0161472e9ed74454d1486103c1e7efef8b0dcb962",
+  "body_checksum": "3adda3a8978599b42e36af04515dd3290fb51ae994681dc02dbc4177f194edbd",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -956,5 +956,5 @@
       }
     ]
   },
-  "decision": "dry-run"
+  "decision": "promoted"
 }

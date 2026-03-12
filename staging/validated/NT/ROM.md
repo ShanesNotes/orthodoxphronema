@@ -12,31 +12,21 @@ deuterocanonical: false
 has_additions: false
 ---
 
-## Chapter 0
-
-ROM.0:1 1. The natural mortality and actual sinfulness of all (1:18-3:20).
-ROM.0:2 Salvation through Christ apart from the Mosaic Law (3:21-4:25).
-ROM.0:3 New life in Christ through Holy Baptism (chs. 5-7).
-ROM.0:4 New life in the Holy Spirit through chrismation (ch. 8).
-ROM.0:5 God's plan for Jews and Gentiles and their reconciliation in Christ (chs. 9-11).
-ROM.0:6 Christian life in the Church and in the world (chs. 12-16).
-ROM.0:7 Background -Paul's logic in Romans proceeds largely from the use of dichotomies, in which two concepts are placed in opposition to each other; and synergies, in which two concepts work together. However, many modern commentators have seen opposition between pairs of concepts where Paul intends cooperation. These pairs of concepts include: law and grace; faith and works; Old Testament and New Testament; nature and grace; spirit and body; reality and symbol; God's faithfulness and humanity's faithfulness; secular and sacred; Church and state. The areas in which Paul truly sees opposition are fewer and more fundamental: living faith versus dead faith; living works versus dead works; good versus evil; righteousness versus unrighteousness; natural versus unnatural; faithfulness versus unfaithfulness.
-ROM.0:8 Romans is the most significant, the most logical, and the most doctrinally oriented of Paul's epistles, and the only one he wrote to achurch he had not yet visited.
-
-### Greeting
-
-ROM.0:9 God's Faithfulness to All: His Judgment and Salv ation (1:1 8-4:25) Judgment on all: the unfaithfulness of Jew and Gentile (1:18-3:20) Salv ation for all: through faith apart from the law (3:21 -4:25) Faithful Union Between God and Humanity (5:1-8:39) Righteous living through the reign of Christ (5:1 -21 ) Resurrection life through union with Christ (6:1-7:6) Victorious life in the Spirit (7:7 -8:27 ) Eternal life in the Father's kingdom (8:28-39) God's Faithfulness to All: Jew and Gentile (9:1 -1 1:36) Paul's personal agony (9:1 -5) Paradox: unbelief of Jews, belief of Gentiles (9:6-1 0:21 ) Destiny of Jews and Gentiles (1 1:1 -36) Liv ing Out a Faithful Relationship with God (12:1-15:7 ) In the church (1 2:1 -21 ) With governing authorities (13:1-14) Toward weaker Christians (14:1-15:7) Conclusion and Greetings (15:8-16:27 )
 ## Chapter 1
 
-ROM.1:1 aul, abondservant of Jesus Christ, called to be an apostle, separated to the gospel of God
-ROM.1:2 which He promised before through His prophets in the Holy Scriptures, 3 concerning His Son Jesus Christ our Lord, who was born of the seed of David according to the flesh, 4 and declared to be the Son of God with power according to the Spirit of holiness, by the resurrection from the dead.
-ROM.1:5 Through Him we have received grace and apostleship for obedience to the faith among all nations for His name, 6 among whom you also are the called of Jesus Christ;
+ROM.1:1 Paul, abondservant of Jesus Christ, called to be an apostle, separated to the gospel of God
+ROM.1:2 which He promised before through His prophets in the Holy Scriptures,
+ROM.1:3 concerning His Son Jesus Christ our Lord, who was born of the seed of David according to the flesh,
+ROM.1:4 and declared to be the Son of God with power according to the Spirit of holiness, by the resurrection from the dead.
+ROM.1:5 Through Him we have received grace and apostleship for obedience to the faith among all nations for His name,
+ROM.1:6 among whom you also are the called of Jesus Christ;
 
 ### Desire to Visit Rome
 
 ROM.1:7 To all who are in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ. †
 ROM.1:8 First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.
-ROM.1:9 For God is my witness, whom I serve with my spirit in the gospel of His Son, that without ceasing I make mention of you always in my prayers, 10 making request if, by some means, now at last I may find away in the will of God to come to you.
+ROM.1:9 For God is my witness, whom I serve with my spirit in the gospel of His Son, that without ceasing I make mention of you always in my prayers,
+ROM.1:10 making request if, by some means, now at last I may find away in the will of God to come to you.
 ROM.1:11 For I long to see you, that I may impart to you some spiritual gift, so that you may be established-
 ROM.1:12 that is, that I may be encouraged together with you by the mutual faith both of you and me.
 ROM.1:13 Now I do not want you to be unaware, brethren, that I often planned to come to you (but was hindered until now), that I might have some fruit among you also, just as among the other Gentiles.
@@ -56,41 +46,34 @@ ROM.1:20 For since the creation of the world His invisible attributes are clearl
 ROM.1:21 because, although they knew God, they did not glorify Him as God, nor were thankful, but became futile in their thoughts, and their foolish hearts were darkened.
 ROM.1:22 Professing to be wise, they became fools,
 ROM.1:23 and changed the glory of the incorruptible God into an image made like corruptible man-and birds and four-footed animals and creeping things.
-ROM.1:24 Therefore God also gave them up to uncleanness, in the lusts of their hearts, to dishonor their bodies among themselves, 25 who exchanged the truth of God for the lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen.
+ROM.1:24 Therefore God also gave them up to uncleanness, in the lusts of their hearts, to dishonor their bodies among themselves,
+ROM.1:25 who exchanged the truth of God for the lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen.
 ROM.1:26 For this reason God gave them up to vile passions. For even their women exchanged the natural use for what is against nature.
 ROM.1:27 Likewise also the men, leaving the natural use of the woman, burned in their lust for one another, men with men committing what is shameful, and receiving in themselves the penalty of their error which was due.
 
 ### Judgment of Each Conscience
 
-ROM.1:28 And even as they did not like to retain God in their knowledge, God gave them over to adebased mind, to do those things which are not fitting; 29 being filled with all unrighteousness, sexual immorality, awickedness, covetousness, maliciousness; full of envy, murder, strife, deceit, evil-mindedness; they are whisperers, 30 backbiters, haters of God, violent, proud, boasters, inventors of evil things, disobedient to parents, 31 undiscerning, untrustworthy, unloving, unforgiving, aunmerciful; 32 who, knowing the righteous judgment of God, that those who practice such things are deserving of death, not only do the same but also approve of those who practice them.
+ROM.1:28 And even as they did not like to retain God in their knowledge, God gave them over to adebased mind, to do those things which are not fitting;
+ROM.1:29 being filled with all unrighteousness, sexual immorality, awickedness, covetousness, maliciousness; full of envy, murder, strife, deceit, evil-mindedness; they are whisperers,
+ROM.1:30 backbiters, haters of God, violent, proud, boasters, inventors of evil things, disobedient to parents,
+ROM.1:31 undiscerning, untrustworthy, unloving, unforgiving, aunmerciful;
+ROM.1:32 who, knowing the righteous judgment of God, that those who practice such things are deserving of death, not only do the same but also approve of those who practice them.
 ## Chapter 2
 
-ROM.2:1 herefore you are inexcusable, O man, whoever you are who judge, for in whatever you judge another you condemn yourself; for you who judge practice the same things.
-ROM.2:2 But we know that the judgment of God is according to truth against those who practice such things.
-ROM.2:3 And do you think this, O man, you who judge those practicing such things, and doing the same, that you will escape the judgment of God?
-ROM.2:4 Or do you despise the riches of His goodness, forbearance, and longsuffering, not knowing that the goodness of God leads you to repentance?
-ROM.2:5 But in accordance with your hardness and your impenitent heart you are treasuring up for yourself wrath in the day of wrath and revelation of the righteous judgment of God, 6 who ' will render to each one according to his deeds': a 7 eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality; 8 but to those who are self-seeking and do not obey the truth, but obey unrighteousness-indignation and wrath, 9 tribulation and anguish, on every soul of man who does evil, of the Jew first and also of the Greek; 10 but glory, honor, and peace to everyone who works what is good, to the Jew first and also to the Greek.
 ROM.2:11 For there is no partiality with God.
 ROM.2:12 For as many as have sinned without law will also perish without law, and as many as have sinned in the law will be judged by the law
 ROM.2:13 (for not the hearers of the law are just in the sight of God, but the doers of the law will be justified;
 
-### T H E B A S I S O F G O D'S J U D G M E N T
-
-ROM.2:14 for when Gentiles, who do not have the law, by nature do the things in the law, these, although not having the law, are alaw to themselves, 15 who show the work of the law written in their hearts, their conscience also bearing witness, and between themselves their thoughts accusing or else excusing them ) 16 in the day when God will judge the secrets of men by Jesus Christ, according to my gospel.
-ROM.2:15 E ven as believing Christians, we must not take the outcome of God's final judgment for granted. In every Divine Liturgy Orthodox Christians pray, 'For agood defense before the dread Judgment Seat of Christ, let us pray to the Lord: Lord have mercy.' Romans 2:2-16 describes God's judgment, showing how we can prepare ourselves for it. God's righteous judgment will be:
-ROM.2:1 According to truth (2:2, 3): Nothing is hidden from God. He sees everything and knows the truth about each of us. One of mankind's great self-deceptions is to say, 'Who sees us?' (Is 29:15) and think there is no judgment.
-ROM.2:2 According to impenitent hearts (2:4, 5): An unrepentant or hard heart despises God's goodness, treasuring up the wrath of God at the judgment. A repentant heart, on the other hand, is grateful for God's patience and abides in Christ, practicing alifetime of repentance, which produces confidence before Him at the judgment (1Jn 2:28).
-ROM.2:3 According to our deeds (2:6-15): The 'doing good' referred to in 2:7 is not an attempt to gain merit with God. Rather, it is the unity of intentions with actions, faith with works. Even unbelievers are rewarded for good works, apart from spiritual understanding (2:14, 15). But note the following: (a) 'Doing good' means seeking God's glory (2:10), not our own glory; God's honor, not our own honor; the eternal reward of immortality, not reward here and now. 'Doing good' is seeking first the Kingdom of God (Mt 6:33).
-ROM.2:4 (b) Good intentions alone, or faith without works, will not save (2:13). Simply to hear and not do is religion without reality. Those with true faith, 'the doers' of the truth, practice virtue from pure and repentant hearts (Jam 1:21-27).
-ROM.2:5 (c) 'By nature' (v. 14) people are inspired by and cooperate with God's grace. Therefore, good deeds are natural to us, whereas evil deeds are contrary to nature. Because we all fail, we need God's mercy (3:9-19). The presence of God's law in our conscience (2:15) condemns anything we do contrary to true human nature. Therefore, even Gentilespeople not under the Law of Moses, those who do not know of Christ-have an internal law from God, the natural law written in their hearts, according to which God will judge them. Melchizedek, Job, and the Ninevites are Old Testament examples of non-Jews judged to be righteous. Jews, then, have two laws from God-the Law of Moses and conscience-and are accountable to Him for both (2:12).
-ROM.2:6 (d) Those who are condemned choose to reject God. There is no automatic, fated condemnation: God's just judgment of us is based on our exercise of free will. Although sin impairs our powers, it does not destroy God's image in us or our free will.
+ROM.2:14 for when Gentiles, who do not have the law, by nature do the things in the law, these, although not having the law, are alaw to themselves,
+ROM.2:15 who show the work of the law written in their hearts, their conscience also bearing witness, and between themselves their thoughts accusing or else excusing them )
+ROM.2:16 in the day when God will judge the secrets of men by Jesus Christ, according to my gospel.
 
 ### Judgment of the Jews
 
-ROM.2:7 By Jesus Christ (2:16): In the day of judgment we are not judged directly by God the Father, whom we cannot see, but by the incarnate Son whom we do see, Christ Jesus (Acts 17:31; see Jn 3:16-21, 35, 36). Christ will judge on the basis of the light He Himself has given to each of us (Jn 1:9) and our response to His light (Jn 3:16-21). 'The secrets of men' (Rom 2:16) are 'the thoughts and intents of the heart' (Heb 4:12).
 ROM.2:17 Indeed ayou are called a Jew, and rest on the law, and make your boast in God,
 ROM.2:18 and know His will, and approve the things that are excellent, being instructed out of the law,
-ROM.2:19 and are confident that you yourself are aguide to the blind, alight to those who are in darkness, 20 an instructor of the foolish, ateacher of babes, having the form of knowledge and truth in the law.
+ROM.2:19 and are confident that you yourself are aguide to the blind, alight to those who are in darkness,
+ROM.2:20 an instructor of the foolish, ateacher of babes, having the form of knowledge and truth in the law.
 ROM.2:21 You, therefore, who teach another, do you not teach yourself? You who preach that aman should not steal, do you steal?
 ROM.2:22 You who say, 'Do not commit adultery,' do you commit adultery? You who abhor idols, do you rob temples?
 ROM.2:23 You who make your boast in the law, do you dishonor God through breaking the law?
@@ -128,7 +111,12 @@ ROM.3:19 Now we know that whatever the law says, it says to those who are under 
 ### Righteousness in Christ Fulfills the Law
 
 ROM.3:20 Therefore by the deeds of the law no flesh will be justified in His sight, for by the law is the knowledge of sin.
-ROM.3:21 But now the righteousness of God apart from the law is revealed, being witnessed by the Law and the Prophets, 22 even the righteousness of God, through faith in Jesus Christ, to all and on all awho believe. For there is no difference; 23 for all have sinned and fall short of the glory of God, 24 being justified freely by His grace through the redemption that is in Christ Jesus, 25 whom God set forth as apropitiation by His blood, through faith, to demonstrate His righteousness, because in His forbearance God had passed over the sins that were previously committed, 26 to demonstrate at the present time His righteousness, that He might be just and the justifier of the one who has faith in Jesus.
+ROM.3:21 But now the righteousness of God apart from the law is revealed, being witnessed by the Law and the Prophets,
+ROM.3:22 even the righteousness of God, through faith in Jesus Christ, to all and on all awho believe. For there is no difference;
+ROM.3:23 for all have sinned and fall short of the glory of God,
+ROM.3:24 being justified freely by His grace through the redemption that is in Christ Jesus,
+ROM.3:25 whom God set forth as apropitiation by His blood, through faith, to demonstrate His righteousness, because in His forbearance God had passed over the sins that were previously committed,
+ROM.3:26 to demonstrate at the present time His righteousness, that He might be just and the justifier of the one who has faith in Jesus.
 ROM.3:27 Where is boasting then? It is excluded. By what law? Of works? No, but by the law of faith.
 ROM.3:28 Therefore we conclude that aman is justified by faith apart from the deeds of the law.
 ROM.3:29 Or is He the God of the Jews only? Is He not also the God of the Gentiles? Yes, of the Gentiles also,
@@ -143,7 +131,8 @@ ROM.4:1 hat then shall we say that Abraham our father has found according to the
 ROM.4:2 For if Abraham was justified by works, he has something to boast about, but not before God.
 ROM.4:3 For what does the Scripture say? 'Abraham believed God, and it was accounted to him for righteousness.' a
 ROM.4:4 Now to him who works, the wages are not counted as grace but as debt.
-ROM.4:5 But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness, 6 just as David also describes the blessedness of the man to whom God imputes righteousness apart from works:
+ROM.4:5 But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness,
+ROM.4:6 just as David also describes the blessedness of the man to whom God imputes righteousness apart from works:
 ROM.4:7 'Blessed are those whose lawless deeds are forgiven, And whose sins are covered;
 ROM.4:8 Blessed is the man to whom the LORD shall not impute sin.' a
 ROM.4:9 Does this blessedness then come upon the circumcised only, or upon the uncircumcised also? For we say that faith was accounted to Abraham for righteousness.
@@ -157,7 +146,8 @@ ROM.4:13 For the promise that he would be the heir of the world was not to Abrah
 ROM.4:14 For if those who are of the law are heirs, faith is made void and the promise made of no effect,
 ROM.4:15 because the law brings about wrath; for where there is no law there is no transgression.
 ROM.4:16 Therefore it is of faith that it might be according to grace, so that the promise might be sure to all the seed, not only to those who are of the law, but also to those who are of the faith of Abraham, who is the father of us all
-ROM.4:17 (as it is written, 'I have made you afather of many nations' a ) in the presence of Him whom he believed-God, who gives life to the dead and calls those things which do not exist as though they did; 18 who, contrary to hope, in hope believed, so that he became the father of many nations, according to what was spoken, 'So shall your descendants be.' a
+ROM.4:17 (as it is written, 'I have made you afather of many nations' a ) in the presence of Him whom he believed-God, who gives life to the dead and calls those things which do not exist as though they did;
+ROM.4:18 who, contrary to hope, in hope believed, so that he became the father of many nations, according to what was spoken, 'So shall your descendants be.' a
 ROM.4:19 And not being weak in faith, he did not consider his own body, already dead (since he was about ahundred years old), and the deadness of Sarah's womb.
 ROM.4:20 He did not waver at the promise of God through unbelief, but was strengthened in faith, giving glory to God,
 ROM.4:21 and being fully convinced that what He had promised He was also able to perform.
@@ -166,10 +156,12 @@ ROM.4:23 Now it was not written for his sake alone that it was imputed to him,
 
 ### Righteousness as a Living Reality
 
-ROM.4:24 but also for us. It shall be imputed to us who believe in Him who raised up Jesus our Lord from the dead, 25 who was delivered up because of our offenses, and was raised because of our justification.
+ROM.4:24 but also for us. It shall be imputed to us who believe in Him who raised up Jesus our Lord from the dead,
+ROM.4:25 who was delivered up because of our offenses, and was raised because of our justification.
 ## Chapter 5
 
-ROM.5:1 herefore, having been justified by faith, we have apeace with God through our Lord Jesus Christ, 2 through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God.
+ROM.5:1 herefore, having been justified by faith, we have apeace with God through our Lord Jesus Christ,
+ROM.5:2 through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God.
 ROM.5:3 And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance;
 ROM.5:4 and perseverance, character; and character, hope.
 ROM.5:5 Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us.
@@ -198,9 +190,11 @@ ROM.6:1 hat shall we say then? Shall we continue in sin that grace may abound?
 ROM.6:2 Certainly not! How shall we who died to sin live any longer in it?
 ROM.6:3 Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death?
 ROM.6:4 Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life.
-ROM.6:5 For if we have been united together in the likeness of His death, certainly we also shall be in the likeness of His resurrection, 6 knowing this, that our old man was crucified with Him, that the body of sin might be done away with, that we should no longer be slaves of sin.
+ROM.6:5 For if we have been united together in the likeness of His death, certainly we also shall be in the likeness of His resurrection,
+ROM.6:6 knowing this, that our old man was crucified with Him, that the body of sin might be done away with, that we should no longer be slaves of sin.
 ROM.6:7 For he who has died has been freed from sin.
-ROM.6:8 Now if we died with Christ, we believe that we shall also live with Him, 9 knowing that Christ, having been raised from the dead, dies no more. Death no longer has dominion over Him.
+ROM.6:8 Now if we died with Christ, we believe that we shall also live with Him,
+ROM.6:9 knowing that Christ, having been raised from the dead, dies no more. Death no longer has dominion over Him.
 ROM.6:10 For the death that He died, He died to sin once for all; but the life that He lives, He lives to God.
 ROM.6:11 Likewise you also, reckon yourselves to be dead indeed to sin, but alive to God in Christ Jesus our Lord.
 ROM.6:12 Therefore do not let sin reign in your mortal body, that you should obey it in its lusts.
@@ -307,38 +301,21 @@ ROM.8:35 Who shall separate us from the love of Christ? Shall tribulation, or di
 ROM.8:36 As it is written: 'For Your sake we are killed all day long; We are accounted as sheep for the slaughter.' a
 ROM.8:37 Yet in all these things we are more than conquerors through Him who loved us.
 ROM.8:38 For I am persuaded that neither death nor life, nor angels nor principalities nor powers, nor things present nor things to come,
-
-### Unbelief of the Jews Despite God's Blessings
-
 ROM.8:39 nor height nor depth, nor any other created thing, shall be able to separate us from the love of God which is in Christ Jesus our Lord.
 ## Chapter 9
 
-ROM.9:1 tell the truth in Christ, I am not lying, my conscience also bearing me witness in the Holy Spirit,
+### Unbelief of the Jews Despite God's Blessings
+
+ROM.9:1 I tell the truth in Christ, I am not lying, my conscience also bearing me witness in the Holy Spirit,
 ROM.9:2 that I have great sorrow and continual grief in my heart.
-
-### I S G O D F A I T H F U L T O I S R A E L?
-
-ROM.9:3 For I could wish that I myself were accursed from Christ for my brethren, my countrymen aaccording to the flesh, 4 who are Israelites, to whom pertain the adoption, the glory, the covenants, the giving of the law, the service of God, and the promises; 5 of whom are the fathers and from whom, according to the flesh, Christ came, who is over all, the eternally blessed God. Amen.
-ROM.9:4 I nthe early chapters of Romans (1-8), Paul expounds the gospel of God's righteousness for the salvation of all who believe in Christ, both Jews and Gentiles. In the middle chapters of the epistle (9-11), he grapples with the perplexing theme of the Jews' unbelief in their own promised Messiah. This matter not only causes Paul great anguish, but also raises questions about God's faithfulness to the Jewish people.
-
-### God Is Sovereign, Faithful to Israel
-
-ROM.9:5 An accusation was circulating in the first century that God had not kept His promises to Israel-that He had unjustly abandoned His chosen people in favor of idol-worshipping Gentiles. Although many Jews believed in Christ, the majority of the Jewish people adhered to their old leaders and traditions. Meanwhile, increasing numbers of Gentiles were becoming Christians.
-ROM.9:6 How was one to view these developments? What was God's plan for Jews and Gentiles in this decisive period of the history of salvation? Why were most Jews unresponsive or opposed to the gospel while Gentiles were becoming the majority in the young Church?
-ROM.9:7 Paul's letter to the Romans indicates how important such questions were to Christians in the sixth decade of the first century. Has God been fair to Israel? Paul's conclusion is yes: He has been faithful to Israel, and through them to the Gentiles. God's unchanging faithfulness is seen in several ways.
-ROM.9:1 Through Paul (Rom 9:1-3). God miraculously saved the Jewish zealot Saul (Acts 9:1-22), who later, as Paul the Apostle, confesses, 'I am indeed a Jew' (Acts 22:3). The faithfulness of God to Israel and to the Gentiles is witnessed 'in the Holy Spirit' (Rom 9:1) through Paul, who is even willing to be 'accursed from Christ' (9:3) if by that Israel could be saved.
-ROM.9:2 Through Providence (Rom 9:4, 5). God the Father shows His sovereign care for both Israel and the Gentiles through bestowing on them His adoption, glory, covenants, law, service (Gr. latreia, areference to proper worship) and promises. The gospel itself came to 'the Jew first' (Rom 1:16) and then to the Gentile.
-
-### I S G O D F A I T H F U L T O I S R A E L?
-
-ROM.9:3 Through the patriarchs (Rom 9:6-13). God has been faithful to Israel and thus to the Gentiles through His servants Abraham (v. 7), Isaac (v. 10), and Jacob (v. 13). As Isaac's birth came by the promise of God (vv. 6-9), so the new birth comes to us by His promise. For just as it was possible to be in the nation of Israel but not truly achild of God, so being born into a Christian home, church, and culture does not de facto guarantee our faithfulness. We must, like Isaac, be born of God's promise. For the Christian this new birth comes from the watery womb of baptism, with the injunction that we grow to serve the Lord with all our heart, mind, and strength.
-ROM.9:4 Through the prophets (Rom 9:14-29). Beginning with Moses (v. 15) and including Hosea (vv. 25, 26) and Isaiah (vv. 27-29), the prophets reveal God's faithfulness in His sovereign mercy and election of His faithful-Jew and Gentile alike. The 'potter' has 'power over the clay' (v. 21) 'that He might make known the riches of His glory on the vessels of mercy' (v. 23).
-
-### God Is Sovereign, Faithful to Israel
-
-ROM.9:5 We therefore conclude that God is faithful to Israel as He is to the Gentiles. But we also see that to benefit from His faithfulness to us, we must be faithful to Him.
+ROM.9:3 For I could wish that I myself were accursed from Christ for my brethren, my countrymen aaccording to the flesh,
+ROM.9:4 who are Israelites, to whom pertain the adoption, the glory, the covenants, the giving of the law, the service of God, and the promises;
+ROM.9:5 of whom are the fathers and from whom, according to the flesh, Christ came, who is over all, the eternally blessed God. Amen.
 ROM.9:6 But it is not that the word of God has taken no effect. For they are not all Israel who are of Israel,
 ROM.9:7 nor are they all children because they are the seed of Abraham; but, 'In Isaac your seed shall be called.' a
+
+### God Is Sovereign, Faithful to Israel
+
 ROM.9:8 That is, those who are the children of the flesh, these are not the children of God; but the children of the promise are counted as the seed.
 ROM.9:9 For this is the word of promise: 'At this time I will come and Sarah shall have ason.' a
 ROM.9:10 And not only this, but when Rebecca also had conceived by one man, even by our father Isaac
@@ -357,13 +334,15 @@ ROM.9:19 You will say to me then, 'Why does He still find fault? For who has res
 ROM.9:20 But indeed, O man, who are you to reply against God? Will the thing formed say to him who formed it, 'Why have you made me like this?'
 ROM.9:21 Does not the potter have power over the clay, from the same lump to make one vessel for honor and another for dishonor?
 ROM.9:22 What if God, wanting to show His wrath and to make His power known, endured with much longsuffering the vessels of wrath prepared for destruction,
-ROM.9:23 and that He might make known the riches of His glory on the vessels of mercy, which He had prepared beforehand for glory, 24 even us whom He called, not of the Jews only, but also of the Gentiles?
-ROM.9:24 'I will call them My people, who were not My people, And her beloved, who was not beloved.' a†
-ROM.9:26 'And it shall come to pass in the place where it was said to them, There they shall be called sons of the living God.' a 'Though the number of the children of Israel be as the sand of the sea, The remnant will be saved.
+ROM.9:23 and that He might make known the riches of His glory on the vessels of mercy, which He had prepared beforehand for glory,
+ROM.9:24 even us whom He called, not of the Jews only, but also of the Gentiles?
+ROM.9:25 As He says also in Hosea: 'I will call them My people, who were not My people, And her beloved, who was not beloved.' a†
+ROM.9:26 'And it shall come to pass in the place where it was said to them, 'You are not My people,' There they shall be called sons of the living God.' a
+ROM.9:27 Isaiah also cries out concerning Israel: a 'Though the number of the children of Israel be as the sand of the sea, The remnant will be saved.
+ROM.9:28 For He will finish the work and cut it short in righteousness, Because the LORD will make a short work upon the earth.' a
+ROM.9:29 And as Isaiah said before: 'Unless the LORD of Sabaoth a had left us a seed, We would have become like Sodom, And we would have been made like Gomorrah.' b
 
 ### Israel Pursues Self-Righteousness
-
-ROM.9:28 For He will finish the work and cut it short in righteousness, Because the LORD will make a short work upon the earth.' a 'Unless the LORD of Sabaoth a had left us a seed, We would have become like Sodom, And we would have been made like Gomorrah.' b
 ROM.9:30 What shall we say then? That Gentiles, who did not pursue righteousness, have attained to righteousness, even the righteousness of faith;
 ROM.9:31 but Israel, pursuing the law of righteousness, has not attained to the law of righteousness. a
 ROM.9:32 Why? Because they did not seek it by faith, but as it were, by the works of the law. a For they stumbled at that stumbling stone.
@@ -378,7 +357,8 @@ ROM.10:3 For they being ignorant of God's righteousness, and seeking to establis
 
 ROM.10:4 For Christ is the end of the law for righteousness to everyone who believes.
 ROM.10:5 For Moses writes about the righteousness which is of the law, 'The man who does those things shall live by them.' a
-ROM.10:6 But the righteousness of faith speaks in this way, 'Do not say in your heart, 'Who will ascend into heaven?' ' a (that is, to bring Christ down from above ) 7 or, ' 'Who will descend into the abyss?' ' a (that is, to bring Christ up from the dead).
+ROM.10:6 But the righteousness of faith speaks in this way, 'Do not say in your heart, 'Who will ascend into heaven?' ' a (that is, to bring Christ down from above )
+ROM.10:7 or, ' 'Who will descend into the abyss?' ' a (that is, to bring Christ up from the dead).
 ROM.10:8 But what does it say? 'The word is near you, in your mouth and in your heart' a (that is, the word of faith which we preach):
 ROM.10:9 that if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved.
 ROM.10:10 For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation.
@@ -419,7 +399,8 @@ ROM.11:14 if by any means I may provoke to jealousy those who are my flesh and s
 
 ROM.11:15 For if their being cast away is the reconciling of the world, what will their acceptance be but life from the dead?
 ROM.11:16 For if the firstfruit is holy, the lump is also holy; and if the root is holy, so are the branches.
-ROM.11:17 And if some of the branches were broken off, and you, being awild olive tree, were grafted in among them, and with them became apartaker of the root and fatness of the olive tree, 18 do not boast against the branches. But if you do boast, remember that you do not support the root, but the root supports you.
+ROM.11:17 And if some of the branches were broken off, and you, being awild olive tree, were grafted in among them, and with them became apartaker of the root and fatness of the olive tree,
+ROM.11:18 do not boast against the branches. But if you do boast, remember that you do not support the root, but the root supports you.
 ROM.11:19 You will say then, 'Branches were broken off that I might be grafted in.'
 ROM.11:20 Well said. Because of unbelief they were broken off, and you stand by faith. Do not be haughty, but fear.
 ROM.11:21 For if God did not spare the natural branches, He may not spare you either.
@@ -431,7 +412,8 @@ ROM.11:26 And so all Israel will be saved, aas it is written: 'The Deliverer wil
 ROM.11:27 For this is My covenant with them, a When I take away their sins.'
 ROM.11:28 Concerning the gospel they are enemies for your sake, but concerning the election they are beloved for the sake of the fathers.
 ROM.11:29 For the gifts and the calling of God are irrevocable.
-ROM.11:30 For as you were once disobedient to God, yet have now obtained mercy through their disobedience, 31 even so these also have now been disobedient, that through the mercy shown you they also may obtain mercy.
+ROM.11:30 For as you were once disobedient to God, yet have now obtained mercy through their disobedience,
+ROM.11:31 even so these also have now been disobedient, that through the mercy shown you they also may obtain mercy.
 
 ### Doxology to God's Ways
 
@@ -455,9 +437,14 @@ ROM.12:5 so we, being many, are one body in Christ, and individually members of 
 
 ### A Life of Mercy for All Men
 
-ROM.12:6 Having then gifts differing according to the grace that is given to us, let us use them: if prophecy, let us prophesy in proportion to our faith; 7 or ministry, let us use it in our ministering; he who teaches, in teaching; 8 he who exhorts, in exhortation; he who gives, with liberality; he who leads, with diligence; he who shows mercy, with cheerfulness.
+ROM.12:6 Having then gifts differing according to the grace that is given to us, let us use them: if prophecy, let us prophesy in proportion to our faith;
+ROM.12:7 or ministry, let us use it in our ministering; he who teaches, in teaching;
+ROM.12:8 he who exhorts, in exhortation; he who gives, with liberality; he who leads, with diligence; he who shows mercy, with cheerfulness.
 ROM.12:9 Let love be without hypocrisy. Abhor what is evil. Cling to what is good.
-ROM.12:10 Be kindly affectionate to one another with brotherly love, in honor giving preference to one another; 11 not lagging in diligence, fervent in spirit, serving the Lord; 12 rejoicing in hope, patient in tribulation, continuing steadfastly in prayer; 13 distributing to the needs of the saints, given to hospitality.
+ROM.12:10 Be kindly affectionate to one another with brotherly love, in honor giving preference to one another;
+ROM.12:11 not lagging in diligence, fervent in spirit, serving the Lord;
+ROM.12:12 rejoicing in hope, patient in tribulation, continuing steadfastly in prayer;
+ROM.12:13 distributing to the needs of the saints, given to hospitality.
 ROM.12:14 Bless those who persecute you; bless and do not curse.
 ROM.12:15 Rejoice with those who rejoice, and weep with those who weep.
 ROM.12:16 Be of the same mind toward one another. Do not set your mind on high things, but associate with the humble. Do not be wise in your own opinion.
@@ -558,7 +545,8 @@ ROM.15:20 And so I have made it my aim to preach the gospel, not where Christ wa
 
 ROM.15:21 but as it is written: 'To whom He was not announced, they shall see; And those who have not heard shall understand.' a
 ROM.15:22 For this reason I also have been much hindered from coming to you.
-ROM.15:23 But now no longer having aplace in these parts, and having agreat desire these many years to come to you, 24 whenever I journey to Spain, I shall come to you. a For I hope to see you on my journey, and to be helped on my way there by you, if first I may enjoy your company for awhile.
+ROM.15:23 But now no longer having aplace in these parts, and having agreat desire these many years to come to you,
+ROM.15:24 whenever I journey to Spain, I shall come to you. a For I hope to see you on my journey, and to be helped on my way there by you, if first I may enjoy your company for awhile.
 ROM.15:25 But now I am going to Jerusalem to minister to the saints.
 ROM.15:26 For it pleased those from Macedonia and Achaia to make acertain contribution for the poor among the saints who are in Jerusalem.
 ROM.15:27 It pleased them indeed, and they are their debtors. For if the Gentiles have been partakers of their spiritual things, their duty is also to minister to them in material things.
@@ -575,7 +563,8 @@ ROM.15:33 Now the God of peace be with you all. Amen.
 
 ROM.16:1 commend to you Phoebe our sister, who is aservant of the church in Cenchrea,
 ROM.16:2 that you may receive her in the Lord in amanner worthy of the saints, and assist her in whatever business she has need of you; for indeed she has been ahelper of many and of myself also.
-ROM.16:3 Greet Priscilla and Aquila, my fellow workers in Christ Jesus, 4 who risked their own necks for my life, to whom not only I give thanks, but also all the churches of the Gentiles.
+ROM.16:3 Greet Priscilla and Aquila, my fellow workers in Christ Jesus,
+ROM.16:4 who risked their own necks for my life, to whom not only I give thanks, but also all the churches of the Gentiles.
 ROM.16:5 Likewise greet the church that is in their house.
 ROM.16:6 Greet my beloved Epaenetus, who is the firstfruits of Achaia ato Christ. Greet Mary, who labored much for us.
 ROM.16:7 Greet Andronicus and Junia, my countrymen and my fellow prisoners, who are of note among the apostles, who also were in Christ before me.

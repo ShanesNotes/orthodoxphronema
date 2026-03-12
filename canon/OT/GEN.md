@@ -288,7 +288,7 @@ GEN.9:22 Now Ham, the father of Canaan, saw the nakedness of his father, and tol
 GEN.9:23 But Shem and Japheth took a garment, laid it on both their shoulders, and walking backwards they covered their father's nakedness. Since their faces were turned away, they did not see his nakedness.
 GEN.9:24 Thus when Noah became sober and knew what his younger son had done to him,
 GEN.9:25 he said: 'Cursed be Canaan; A servant of servants shall he be to his brothers.'
-GEN.9:26 'Blessed be the Lord God of Shem, And Canaan shall be his servant. †
+GEN.9:26 'Blessed be the Lord God of Shem, And Canaan shall be his servant.
 GEN.9:27 May God enlarge Japheth, And let him dwell in the habitations of Shem.
 GEN.9:28 Let Canaan be his servant as well.' Now Noah lived three hundred and fifty years after the flood.
 
@@ -405,7 +405,7 @@ GEN.12:19 Why did you say, 'She is my sister'? I might have taken her as my wife
 GEN.12:20 So Pharaoh commanded his men concerning Abram; and they sent him away, with his wife and all he had.
 ## Chapter 13
 
-GEN.13:1 Now Abram went up from Egypt to the South, he and his wife and all he had, and L
+GEN.13:1 Now Abram went up from Egypt to the South, he and his wife and all he had, and Lot with him.
 GEN.13:2 Abram was very rich in cattle, silver, and gold.
 GEN.13:3 So he went on his journey from the South as far as Bethel, to the place where his tent was at the beginning, between Bethel and Ai,
 GEN.13:4 to the place of the altar he made there at the beginning. There Abram called on the name of the Lord.
@@ -697,7 +697,7 @@ GEN.21:33 Then Abraham planted a field at the Well of Oath, and there he called 
 GEN.21:34 So Abraham stayed in the land of the Philistines many days.
 ## Chapter 22
 
-GEN.22:1 Now it came to pass after these things that God tested Abraham, and said to him,
+GEN.22:1 Now it came to pass after these things that God tested Abraham, and said to him, “Abraham! Abraham!” And he said, “Here I am.”
 GEN.22:2 Then He said, 'Take now your beloved son, Isaac, whom you love, and go to the land of Moriah, and offer him there as a whole burnt offering on one of the mountains I tell you.'
 GEN.22:3 So Abraham rose early in the morning and saddled his donkey; and took two of his young men with him, and Isaac his son; and he split firewood for the whole burnt offering, and arose and went to the place God told him.
 GEN.22:4 Then on the third day Abraham lifted his eyes and saw the place afar off.
@@ -848,14 +848,14 @@ GEN.25:13 These were the names of Ishmael's sons, by their names, according to t
 GEN.25:14 Mishma, Dumah, Massa,
 GEN.25:15 Hadar, Tema, Jetur, Naphish, and Kede-mah.
 GEN.25:16 These were the sons of Ishmael, and these were their names, by their towns and settlements, twelve princes according to their nations.
-GEN.25:17 These were the years of Ishmael's life: one hundred and thirt-yseven years; and he breathed his last and died, and was added to his people.
+GEN.25:17 These were the years of Ishmael's life: one hundred and thirty-seven years; and he breathed his last and died, and was added to his people.
 GEN.25:18 (He dwelt opposite Egypt, from Havilah as far as Shur, as you go toward Assyria, and dwelt separate from all his brothers.)
 GEN.25:19 Now this is the genealogy of Isaac, Abraham's son. Abraham begot Isaac.
 GEN.25:20 Isaac was forty years old when he took Rebekah as his wife, the daughter of Bethuel the Syrian of Mesopotamia, and the sister of Laban the Syrian.
 GEN.25:21 Now Isaac pleaded with the Lord for his wife, because she was barren; and God granted his plea, and Rebekah his wife conceived.
 GEN.25:22 But the children struggled together within her; and she said, 'If all is well, why am I like this?' So she went to inquire of the Lord.
 GEN.25:23 And the Lord said to her: 'Two nations are in your womb, And two peoples shall be separated from your body.
-GEN.25:24 One shall be stronger than the other, And the older shall serve the younger.' † Thus, when her days were fulfilled to give birth, indeed, there were twins in her womb.
+GEN.25:24 One shall be stronger than the other, And the older shall serve the younger.' Thus, when her days were fulfilled to give birth, indeed, there were twins in her womb.
 GEN.25:25 Now the firstborn came out red. He was like a hairy garment all over; so she named him Esau.
 
 ### Esau Sells His Birthright
@@ -880,7 +880,7 @@ GEN.26:4 And I will make your seed multiply as the stars of heaven; I will give 
 GEN.26:5 because Abraham your father obeyed My voice and kept My charge, My commandments, My ordinances, and My laws.'
 GEN.26:6 So Isaac dwelt in Gerar.
 GEN.26:7 Now the men of the place asked about his wife, and he said, 'She is my sister,' for he was afraid to say, 'She is my wife,' lest the men of the place should kill him for Rebekah, because she was beautiful to behold.
-GEN.26:8 Now it came to pass, when he had been there along time, that Abimelech king of Gerar looked through a window and saw Isaac, showing endearment to Rebekah his wife.
+GEN.26:8 Now it came to pass, when he had been there a long time, that Abimelech king of Gerar looked through a window and saw Isaac, showing endearment to Rebekah his wife.
 GEN.26:9 Then Abimelech called Isaac and said, 'Quite obviously she is your wife; so how could you say, 'She is my sister'?' Isaac said to him, 'Because I said to myself, 'Lest I should die on account of her.' '
 GEN.26:10 Thus Abimelech said, 'Why have you done this to us? One of the people could easily have lain with your wife, and you would have brought guilt on us.'
 GEN.26:11 So Abimelech charged all his people, saying, 'He who touches this man or his wife shall surely be put to death.'
@@ -1803,7 +1803,7 @@ GEN.48:11 Then Israel said to Joseph, 'I had not thought to see your face; but i
 GEN.48:12 So Joseph brought them from beside his knees, and they bowed down with their face to the ground.
 GEN.48:13 Then Joseph took them both, Ephraim with his right hand toward Israel's left hand, and Manasseh with his left hand toward Israel's right hand, and brought them near him.
 GEN.48:14 Thus Israel stretched out his right hand and laid it on Ephraim's head, who was the younger, and his left hand on Manasseh's head, guiding his hands knowingly, for Manasseh was the firstborn.
-GEN.48:15 Then he blessed them and said: 'God, before whom my fathers Abraham and Isaac were well-pleasing, The God who has fed me all my life long to this day, †
+GEN.48:15 Then he blessed them and said: 'God, before whom my fathers Abraham and Isaac were well-pleasing, The God who has fed me all my life long to this day,
 GEN.48:16 The Angel who redeemed me from all evil, Bless these lads; Let my name be named upon them, And the name of my fathers Abraham and Isaac; And let them grow into a great multitude in the midst of the earth.'
 GEN.48:17 Now when Joseph saw his father put his right hand on the head of Ephraim, it displeased him; so he took hold of his father's hand to remove it from Ephraim's head to Manasseh's head.
 GEN.48:18 So Joseph said to his father, 'Not so, my father, for this one is the firstborn; put your right hand on his head.'
@@ -1827,7 +1827,7 @@ GEN.49:8 'Judah, you are he whom your brothers shall praise; Your hand shall be 
 GEN.49:9 Judah is a lion's cub; From being a shoot, my son, you have grown up. He bows down, and slept as a lion and a cub; And who shall rouse him?
 GEN.49:10 The scepter shall not depart from Judah, Nor a lawgiver from his loins, Until Shiloh comes; And to Him shall be the expectation of the nations.
 GEN.49:11 Binding his colt to a vine, And his donkey's colt to its branch, He will wash his garments in wine, And his clothes in the blood of grapes.
-GEN.49:12 His ey es are gladdened from the wine, And his teeth are whiter than milk.
+GEN.49:12 His eyes are gladdened from the wine, And his teeth are whiter than milk.
 GEN.49:13 'Zebulun shall dwell by the seacoast; He shall be near a haven for ships, And his border shall adjoin Sidon.
 GEN.49:14 'Issachar. desired what was good, Resting between the inheritances;
 GEN.49:15 And seeing his resting place was good And the land was fertile, He set his shoulder to hard work, And became a farmer.

@@ -25,9 +25,12 @@ COL.1:6 which has come to you, as it has also in all the world, and is bringing 
 
 ### Petition for Continued Growth
 
-COL.1:7 as you also learned from Epaphras, our dear fellow servant, who is afaithful minister of Christ on your behalf, 8 who also declared to us your love in the Spirit.
+COL.1:7 as you also learned from Epaphras, our dear fellow servant, who is afaithful minister of Christ on your behalf,
+COL.1:8 who also declared to us your love in the Spirit.
 COL.1:9 For this reason we also, since the day we heard it, do not cease to pray for you, and to ask that you may be filled with the knowledge of His will in all wisdom and spiritual understanding;
-COL.1:10 that you may walk worthy of the Lord, fully pleasing Him, being fruitful in every good work and increasing in the knowledge of God; 11 strengthened with all might, according to His glorious power, for all patience and longsuffering with joy; 12 giving thanks to the Father who has qualified us to be partakers of the inheritance of the saints in the light.
+COL.1:10 that you may walk worthy of the Lord, fully pleasing Him, being fruitful in every good work and increasing in the knowledge of God;
+COL.1:11 strengthened with all might, according to His glorious power, for all patience and longsuffering with joy;
+COL.1:12 giving thanks to the Father who has qualified us to be partakers of the inheritance of the saints in the light.
 COL.1:13 He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love,
 
 ### Apostolic Christology: A Hymn
@@ -48,7 +51,9 @@ COL.1:22 in the body of His flesh through death, to present you holy, and blamel
 ### Paul's Sacrificial Service
 
 COL.1:23 if indeed you continue in the faith, grounded and steadfast, and are not moved away from the hope of the gospel which you heard, which was preached to every creature under heaven, of which I, Paul, became aminister.
-COL.1:24 I now rejoice in my sufferings for you, and fill up in my flesh what is lacking in the afflictions of Christ, for the sake of His body, which is the church, 25 of which I became aminister according to the stewardship from God which was given to me for you, to fulfill the word of God, 26 the mystery which has been hidden from ages and from generations, but now has been revealed to His saints.
+COL.1:24 I now rejoice in my sufferings for you, and fill up in my flesh what is lacking in the afflictions of Christ, for the sake of His body, which is the church,
+COL.1:25 of which I became aminister according to the stewardship from God which was given to me for you, to fulfill the word of God,
+COL.1:26 the mystery which has been hidden from ages and from generations, but now has been revealed to His saints.
 COL.1:27 To them God willed to make known what are the riches of the glory of this mystery among the Gentiles: which ais Christ in you, the hope of glory.
 COL.1:28 Him we preach, warning every man and teaching every man in all wisdom, that we may present every man perfect in Christ Jesus.
 
@@ -65,12 +70,15 @@ COL.2:4 Now this I say lest anyone should deceive you with persuasive words.
 ### Against False Theology
 
 COL.2:5 For though I am absent in the flesh, yet I am with you in spirit, rejoicing to see your good order and the steadfastness of your faith in Christ.
-COL.2:6 As you therefore have received Christ Jesus the Lord, so walk in Him, 7 rooted and built up in Him and established in the faith, as you have been taught, abounding in it awith thanksgiving.
+COL.2:6 As you therefore have received Christ Jesus the Lord, so walk in Him,
+COL.2:7 rooted and built up in Him and established in the faith, as you have been taught, abounding in it awith thanksgiving.
 COL.2:8 Beware lest anyone cheat you through philosophy and empty deceit, according to the tradition of men, according to the basic principles of the world, and not according to Christ.
 COL.2:9 For in Him dwells all the fullness of the Godhead bodily;
 COL.2:10 and you are complete in Him, who is the head of all principality and power.
-COL.2:11 In Him you were also circumcised with the circumcision made without hands, by putting off the body of the sins aof the flesh, by the circumcision of Christ, 12 buried with Him in baptism, in which you also were raised with Him through faith in the working of God, who raised Him from the dead.
-COL.2:13 And you, being dead in your trespasses and the uncircumcision of your flesh, He has made alive together with Him, having forgiven you all trespasses, 14 having wiped out the handwriting of requirements that was against us, which was contrary to us. And He has taken it out of the way, having nailed it to the cross.
+COL.2:11 In Him you were also circumcised with the circumcision made without hands, by putting off the body of the sins aof the flesh, by the circumcision of Christ,
+COL.2:12 buried with Him in baptism, in which you also were raised with Him through faith in the working of God, who raised Him from the dead.
+COL.2:13 And you, being dead in your trespasses and the uncircumcision of your flesh, He has made alive together with Him, having forgiven you all trespasses,
+COL.2:14 having wiped out the handwriting of requirements that was against us, which was contrary to us. And He has taken it out of the way, having nailed it to the cross.
 
 ### Against False Spirituality
 
@@ -99,7 +107,8 @@ COL.3:8 But now you yourselves are to put off all these: anger, wrath, malice, b
 COL.3:9 Do not lie to one another, since you have put off the old man with his deeds,
 COL.3:10 and have put on the new man who is renewed in knowledge according to the image of Him who created him,
 COL.3:11 where there is neither Greek nor Jew, circumcised nor uncircumcised, barbarian, Scythian, slave nor free, but Christ is all and in all.
-COL.3:12 Therefore, as the elect of God, holy and beloved, put on tender mercies, kindness, humility, meekness, longsuffering; 13 bearing with one another, and forgiving one another, if anyone has acomplaint against another; even as Christ forgave you, so you also must do.
+COL.3:12 Therefore, as the elect of God, holy and beloved, put on tender mercies, kindness, humility, meekness, longsuffering;
+COL.3:13 bearing with one another, and forgiving one another, if anyone has acomplaint against another; even as Christ forgave you, so you also must do.
 COL.3:14 But above all these things put on love, which is the bond of perfection.
 COL.3:15 And let the peace of God rule in your hearts, to which also you were called in one body; and be thankful.
 COL.3:16 Let the word of Christ dwell in you richly in all wisdom, teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
@@ -112,7 +121,8 @@ COL.3:19 Husbands, love your wives and do not be bitter toward them.
 COL.3:20 Children, obey your parents in all things, for this is well pleasing to the Lord.
 COL.3:21 Fathers, do not provoke your children, lest they become discouraged.
 COL.3:22 Bondservants, obey in all things your masters according to the flesh, not with eyeservice, as men-pleasers, but in sincerity of heart, fearing God.
-COL.3:23 And whatever you do, do it heartily, as to the Lord and not to men, 24 knowing that from the Lord you will receive the reward of the inheritance; for ayou serve the Lord Christ.
+COL.3:23 And whatever you do, do it heartily, as to the Lord and not to men,
+COL.3:24 knowing that from the Lord you will receive the reward of the inheritance; for ayou serve the Lord Christ.
 COL.3:25 But he who does wrong will be repaid for what he has done, and there is no partiality.
 ## Chapter 4
 
@@ -120,7 +130,9 @@ COL.3:25 But he who does wrong will be repaid for what he has done, and there is
 ### Spirituality for the World
 
 COL.4:1 asters, give your bondservants what is just and fair, knowing that you also have a Master in heaven.
-COL.4:2 Continue earnestly in prayer, being vigilant in it with thanksgiving; 3 meanwhile praying also for us, that God would open to us adoor for the word, to speak the mystery of Christ, for which I am also in chains, 4 that I may make it manifest, as I ought to speak.
+COL.4:2 Continue earnestly in prayer, being vigilant in it with thanksgiving;
+COL.4:3 meanwhile praying also for us, that God would open to us adoor for the word, to speak the mystery of Christ, for which I am also in chains,
+COL.4:4 that I may make it manifest, as I ought to speak.
 COL.4:5 Walk in wisdom toward those who are outside, redeeming the time.
 
 ### Greetings and Instructions

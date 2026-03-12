@@ -1,9 +1,9 @@
 {
   "book_code": "SIR",
   "testament": "OT",
-  "timestamp": "2026-03-11T05:04:40.451373",
+  "timestamp": "2026-03-11T16:19:23.319419",
   "registry_version": "1.3.0",
-  "body_checksum": "cd6c1446a301ac61991cbce3ff547adf91eca87b505a28ea46ae5021bcb72b46",
+  "body_checksum": "64d99071e74454ae489e200aa16d91e565bb73655744002ef85a90d6f3cb09de",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -489,5 +489,5 @@
       }
     ]
   },
-  "decision": "dry-run"
+  "decision": "promoted"
 }

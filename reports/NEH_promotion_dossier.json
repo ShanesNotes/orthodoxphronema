@@ -1,7 +1,7 @@
 {
   "book_code": "NEH",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:41:21.181545",
+  "timestamp": "2026-03-11T16:09:36.850671",
   "registry_version": "1.3.0",
   "body_checksum": "c77e406786af9f731e13ffadbf2cb8f5dfa8bc4972b983ec03e049f441e8ee20",
   "validation": {
@@ -93,5 +93,5 @@
       }
     ]
   },
-  "decision": "promoted"
+  "decision": "dry-run"
 }

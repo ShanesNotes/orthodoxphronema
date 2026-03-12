@@ -179,7 +179,7 @@ BAR.4:31 Wretched are those who mistreated you and rejoiced at your fall.
 BAR.4:32 Wretched are the cities in which your children served as slaves. Wretched is she who took your sons.
 BAR.4:33 For just as she took pleasure in your ruin and rejoiced over your fall, so shall she be grieved at her own desolation.
 BAR.4:34 I shall take away from her the rejoicing of her great multitude, and her arrogance will become sorrow.
-BAR.4:35 For fire will come upon her from the Eternal One for many days, and she will be inhabited by demons for along time.
+BAR.4:35 For fire will come upon her from the Eternal One for many days, and she will be inhabited by demons for a long time.
 BAR.4:36 O Jerusalem, look eastward, and see the joy that is coming to you from God.
 BAR.4:37 Behold, your sons whom you sent away are coming, gathered together from the east to the west by the word of the Holy One, rejoicing in the glory of God.
 ## Chapter 5

@@ -14,18 +14,11 @@ status: staging
 
 The revival that occurred in the days of Josiah prefigured the coming of the gospel
 
-in Christ, which will culminate on the final Day. Christ was the final sacrifice (v. 7),
-
-whose death and Resurrection was, and is, the ultimate judgment against sin in the earth.
-
-Indeed, with His stretched-out hand (v. 4), which was pierced through on the Cross, He
+in Christ, which will culminate on the final Day. Christ was the final sacrifice (v. 7), whose death and Resurrection was, and is, the ultimate judgment against sin in the earth. Indeed, with His stretched-out hand (v. 4), which was pierced through on the Cross, He
 
 destroyed idolatry, punished the proud princes of darkness, and cut down the Old
 
-Covenant.
-
-
-### 1:12
+Covenant. ### 1:12
 *(anchor: ZEP.1:12)*
 
 St. Jerome writes that this verse was fulfilled when Christ went to Jerusalem (Mk
@@ -42,10 +35,7 @@ searched; in the temple they found nothing, so they left it."
 
 All the islands of the nations (v. 11): A prophecy that is fulfilled in the Gentile
 
-Church.
-
-
-### 3:1-13
+Church. ### 3:1-13
 *(anchor: ZEP.3:1)*
 
 Christ gathered the nations together and judged them with the fire (v. 8) of the

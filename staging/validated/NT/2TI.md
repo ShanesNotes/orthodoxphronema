@@ -22,10 +22,15 @@ has_additions: false
 
 ### Timothy's Gift, the Power of God
 
-2TI.1:3 I thank God, whom I serve with apure conscience, as my forefathers did, as without ceasing I remember you in my prayers night and day, 4 greatly desiring to see you, being mindful of your tears, that I may be filled with joy, 5 when I call to remembrance the genuine faith that is in you, which dwelt first in your grandmother Lois and your mother Eunice, and I am persuaded is in you also.
+2TI.1:3 I thank God, whom I serve with apure conscience, as my forefathers did, as without ceasing I remember you in my prayers night and day,
+2TI.1:4 greatly desiring to see you, being mindful of your tears, that I may be filled with joy,
+2TI.1:5 when I call to remembrance the genuine faith that is in you, which dwelt first in your grandmother Lois and your mother Eunice, and I am persuaded is in you also.
 2TI.1:6 Therefore I remind you to stir up the gift of God which is in you through the laying on of my hands.
 2TI.1:7 For God has not given us aspirit of fear, but of power and of love and of asound mind.
-2TI.1:8 Therefore do not be ashamed of the testimony of our Lord, nor of me His prisoner, but share with me in the sufferings for the gospel according to the power of God, 9 who has saved us and called us with aholy calling, not according to our works, but according to His own purpose and grace which was given to us in Christ Jesus before time began, 10 but has now been revealed by the appearing of our Savior Jesus Christ, who has abolished death and brought life and immortality to light through the gospel, 11 to which I was appointed apreacher, an apostle, and ateacher of the Gentiles. a
+2TI.1:8 Therefore do not be ashamed of the testimony of our Lord, nor of me His prisoner, but share with me in the sufferings for the gospel according to the power of God,
+2TI.1:9 who has saved us and called us with aholy calling, not according to our works, but according to His own purpose and grace which was given to us in Christ Jesus before time began,
+2TI.1:10 but has now been revealed by the appearing of our Savior Jesus Christ, who has abolished death and brought life and immortality to light through the gospel,
+2TI.1:11 to which I was appointed apreacher, an apostle, and ateacher of the Gentiles. a
 
 ### Fidelity in Spite of Desertions
 
@@ -63,7 +68,8 @@ has_additions: false
 2TI.2:14 Remind them of these things, charging them before the Lord not to strive about words to no profit, to the ruin of the hearers.
 2TI.2:15 Be diligent to present yourself approved to God, aworker who does not need to be ashamed, rightly dividing the word of truth.
 2TI.2:16 But shun profane and idle babblings, for they will increase to more ungodliness.
-2TI.2:17 And their message will spread like cancer. Hymenaeus and Philetus are of this sort, 18 who have strayed concerning the truth, saying that the resurrection is already past; and they overthrow the faith of some.
+2TI.2:17 And their message will spread like cancer. Hymenaeus and Philetus are of this sort,
+2TI.2:18 who have strayed concerning the truth, saying that the resurrection is already past; and they overthrow the faith of some.
 
 ### Apostolic Conduct vs. Error
 
@@ -81,14 +87,19 @@ has_additions: false
 ## Chapter 3
 
 2TI.3:1 ut know this, that in the last days perilous times will come:
-2TI.3:2 For men will be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, 3 unloving, unforgiving, slanderers, without self-control, brutal, despisers of good, 4 traitors, headstrong, haughty, lovers of pleasure rather than lovers of God, 5 having aform of godliness but denying its power. And from such people turn away!
-2TI.3:6 For of this sort are those who creep into households and make captives of gullible women loaded down with sins, led away by various lusts, 7 always learning and never able to come to the knowledge of the truth.
+2TI.3:2 For men will be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
+2TI.3:3 unloving, unforgiving, slanderers, without self-control, brutal, despisers of good,
+2TI.3:4 traitors, headstrong, haughty, lovers of pleasure rather than lovers of God,
+2TI.3:5 having aform of godliness but denying its power. And from such people turn away!
+2TI.3:6 For of this sort are those who creep into households and make captives of gullible women loaded down with sins, led away by various lusts,
+2TI.3:7 always learning and never able to come to the knowledge of the truth.
 2TI.3:8 Now as Jannes and Jambres resisted Moses, so do these also resist the truth: men of corrupt minds, disapproved concerning the faith;
 
 ### The Pastor's Defense Against Apostasy: Loyalty to Tradition
 
 2TI.3:9 but they will progress no further, for their folly will be manifest to all, as theirs also was.
-2TI.3:10 But you have carefully followed my doctrine, manner of life, purpose, faith, longsuffering, love, perseverance, 11 persecutions, afflictions, which happened to me at Antioch, at Iconium, at Lystra-what persecutions I endured. And out of them all the Lord delivered me.
+2TI.3:10 But you have carefully followed my doctrine, manner of life, purpose, faith, longsuffering, love, perseverance,
+2TI.3:11 persecutions, afflictions, which happened to me at Antioch, at Iconium, at Lystra-what persecutions I endured. And out of them all the Lord delivered me.
 2TI.3:12 Yes, and all who desire to live godly in Christ Jesus will suffer persecution.
 2TI.3:13 But evil men and impostors will grow worse and worse, deceiving and being deceived.
 2TI.3:14 But you must continue in the things which you have learned and been assured of, knowing from whom you have learned them,

@@ -15,29 +15,18 @@ has_additions: false
 ## Chapter 1
 
 
-### The First Book of the Thessalonians
 
-1TH.1:1 HESSALONIANS Previous Home Next Introduction Back to the New Testament Back to Table of Contents Back to Chapters in Thessalonians Back to the New Testament Back to Table of Contents Back to Chapters in Thessalonians Back to the New Testament Back to Table of Contents Verses in Thessalonians Chapter 3 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 11, 12,
-1TH.1:13 Back to Chapters in
 
-### The First Book of the Thessalonians
-
-1TH.1:1 Thessalonians Back to the New Testament Back to Table of Contents Back to Table of Contents Back to Table of Contents Author -The greeting identifies Paul as the author and also mentions Silvanus (Silas) and Timothy. They were co-workers with Paul in establishing the church in Thessalonica on his second missionary journey (Acts 17:1-9).
-1TH.1:2 Date -First Thessalonians was written in Corinth in AD 50-51, about six months after the church in Thessalonica was founded. It is probably the first of Paul's New Testament epistles, and perhaps the first of all the twenty-seven New Testament books to be written.
-1TH.1:3 Major Theme -A holy life leads to eternal life. Paul calls believers to be holy (3:13; 4:3; 5:23), with particular calls to (a) continue as examples to others (1:7), (b) walk worthy of God's calling (2:12), (c) stand fast in the faith (3:8), and (d) maintain moral purity (4:3).The letter closes with instruction and comfort concerning the Second Coming of Christ (4:13-5:11), along with other exhortations concerning the spiritual life.
-
-### Outline
-
-1TH.1:4 Background -The church in Thessalonica was founded in the summer of AD 50 during Paul's second missionary journey (Acts 15:36-18:22). Built on the Aegean Sea, Thessalonica was the most prominent city in the Roman province of Macedonia and served as anaval and commercial center. While many of the early churches were composed primarily of Jews who believed in Christ, the Thessalonian believers were mostly Gentiles, former idol worshipers (1:9).They experienced persecution by fellow citizens, stirred up by the Jews (1:6; 2:14; Acts 17:5-9), and had difficulty adhering to Christian values in apagan setting.
 
 ### Greeting and Thanksgiving
 
-1TH.1:5 Introduction: Greeting and Thanksgiving (1:1-10) Power for unity (5:1 2-22) Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ. a †
-1TH.1:2 We give thanks to God always for you all, making mention of you in our prayers, 3 remembering without ceasing your work of faith, labor of love, and patience of hope in our Lord Jesus Christ in the sight of our God and Father, 4 knowing, beloved brethren, your election by God.
+1TH.1:5 Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ. a † For our gospel did not come to you in word only, but also in power, and in the Holy Spirit and in much assurance, as you know what kind of men we were among you for your sake.
+1TH.1:2 We give thanks to God always for you all, making mention of you in our prayers,
+1TH.1:3 remembering without ceasing your work of faith, labor of love, and patience of hope in our Lord Jesus Christ in the sight of our God and Father,
+1TH.1:4 knowing, beloved brethren, your election by God.
 
 ### Greeting and Thanksgiving
 
-1TH.1:5 For our gospel did not come to you in word only, but also in power, and in the Holy Spirit and in much assurance, as you know what kind of men we were among you for your sake.
 1TH.1:6 And you became followers of us and of the Lord, having received the word in much affliction, with joy of the Holy Spirit,
 1TH.1:7 so that you became examples to all in Macedonia and Achaia who believe.
 1TH.1:8 For from you the word of the Lord has sounded forth, not only in Macedonia and Achaia, but also in every place. Your faith toward God has gone out, so that we do not need to say anything.
@@ -67,7 +56,9 @@ has_additions: false
 
 ### Paul's Present Relationship with Thessalonica
 
-1TH.2:14 For you, brethren, became imitators of the churches of God which are in Judea in Christ Jesus. For you also suffered the same things from your own countrymen, just as they did from the Judeans, 15 who killed both the Lord Jesus and their own prophets, and have persecuted us; and they do not please God and are contrary to all men, 16 forbidding us to speak to the Gentiles that they may be saved, so as always to fill up the measure of their sins; but wrath has come upon them to the uttermost.
+1TH.2:14 For you, brethren, became imitators of the churches of God which are in Judea in Christ Jesus. For you also suffered the same things from your own countrymen, just as they did from the Judeans,
+1TH.2:15 who killed both the Lord Jesus and their own prophets, and have persecuted us; and they do not please God and are contrary to all men,
+1TH.2:16 forbidding us to speak to the Gentiles that they may be saved, so as always to fill up the measure of their sins; but wrath has come upon them to the uttermost.
 1TH.2:17 But we, brethren, having been taken away from you for ashort time in presence, not in heart, endeavored more eagerly to see your face with great desire.
 1TH.2:18 Therefore we wanted to come to you-even I, Paul, time and again-but Satan hindered us.
 1TH.2:19 For what is our hope, or joy, or crown of rejoicing? Is it not even you in the presence of our Lord Jesus Christ at His coming?
@@ -85,7 +76,8 @@ has_additions: false
 1TH.3:6 But now that Timothy has come to us from you, and brought us good news of your faith and love, and that you always have good remembrance of us, greatly desiring to see us, as we also to see you-
 1TH.3:7 therefore, brethren, in all our affliction and distress we were comforted concerning you by your faith.
 1TH.3:8 For now we live, if you stand fast in the Lord.
-1TH.3:9 For what thanks can we render to God for you, for all the joy with which we rejoice for your sake before our God, 10 night and day praying exceedingly that we may see your face and perfect what is lacking in your faith?
+1TH.3:9 For what thanks can we render to God for you, for all the joy with which we rejoice for your sake before our God,
+1TH.3:10 night and day praying exceedingly that we may see your face and perfect what is lacking in your faith?
 1TH.3:11 Now may our God and Father Himself, and our Lord Jesus Christ, direct our way to you.
 1TH.3:12 And may the Lord make you increase and abound in love to one another and to all, just as we do to you,
 
@@ -97,7 +89,9 @@ has_additions: false
 1TH.4:1 inally then, brethren, we urge and exhort in the Lord Jesus that you should abound more and more, just as you received from us how you ought to walk and to please God;
 1TH.4:2 for you know what commandments we gave you through the Lord Jesus.
 1TH.4:3 For this is the will of God, your sanctification: that you should abstain from sexual immorality;
-1TH.4:4 that each of you should know how to possess his own vessel in sanctification and honor, 5 not in passion of lust, like the Gentiles who do not know God; 6 that no one should take advantage of and defraud his brother in this matter, because the Lord is the avenger of all such, as we also forewarned you and testified.
+1TH.4:4 that each of you should know how to possess his own vessel in sanctification and honor,
+1TH.4:5 not in passion of lust, like the Gentiles who do not know God;
+1TH.4:6 that no one should take advantage of and defraud his brother in this matter, because the Lord is the avenger of all such, as we also forewarned you and testified.
 1TH.4:7 For God did not call us to uncleanness, but in holiness.
 1TH.4:8 Therefore he who rejects this does not reject man, but God, who has also given aus His Holy Spirit.
 1TH.4:9 But concerning brotherly love you have no need that I should write to you, for you yourselves are taught by God to love one another;
@@ -126,7 +120,8 @@ has_additions: false
 1TH.5:6 Therefore let us not sleep, as others do, but let us watch and be sober.
 1TH.5:7 For those who sleep, sleep at night, and those who get drunk are drunk at night.
 1TH.5:8 But let us who are of the day be sober, putting on the breastplate of faith and love, and as ahelmet the hope of salvation.
-1TH.5:9 For God did not appoint us to wrath, but to obtain salvation through our Lord Jesus Christ, 10 who died for us, that whether we wake or sleep, we should live together with Him.
+1TH.5:9 For God did not appoint us to wrath, but to obtain salvation through our Lord Jesus Christ,
+1TH.5:10 who died for us, that whether we wake or sleep, we should live together with Him.
 
 ### Reminders Concerning Unity
 
@@ -135,7 +130,9 @@ has_additions: false
 1TH.5:13 and to esteem them very highly in love for their work's sake. Be at peace among yourselves.
 1TH.5:14 Now we exhort you, brethren, warn those who are unruly, comfort the fainthearted, uphold the weak, be patient with all.
 1TH.5:15 See that no one renders evil for evil to anyone, but always pursue what is good both for yourselves and for all.
-1TH.5:16 Rejoice always, 17 pray without ceasing, 18 in everything give thanks; for this is the will of God in Christ Jesus for you.
+1TH.5:16 Rejoice always,
+1TH.5:17 pray without ceasing,
+1TH.5:18 in everything give thanks; for this is the will of God in Christ Jesus for you.
 1TH.5:19 Do not quench the Spirit.
 1TH.5:20 Do not despise prophecies.
 1TH.5:21 Test all things; hold fast what is good.

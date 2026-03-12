@@ -14,36 +14,33 @@ has_additions: false
 
 ## Chapter 1
 
-
 ### Christ's Dominion Over Creation
 
-HEB.1:1 enealogical requirement: The Leviti-cal priesthood is limited to one tribe. It cannot transform mortal and corrupt humanity because it consists of mere men.
-HEB.1:2 Ordination: The power given at ordination is incomplete. The Levitical priesthood is weak, its sacrifices have to be repeated, and it cannot perfect the worshipers. It cannot reconcile people to God nor give them the inner power to obey. The ordination is without direct confirmation from God.
-HEB.1:3 Term of office: The Levitical priesthood is temporary. Since it is composed of mortal men, it requires many members.
+HEB.1:1 God, who at various times and in various ways spoke in time past to the fathers by the prophets,
+HEB.1:2 has in these last days spoken to us by His Son, whom He has appointed heir of all things, through whom also He made the worlds;
+HEB.1:3 who being the brightness of His glory and the express image of His person, and upholding all things by the word of His power, when He had by Himself apurged our bsins, sat down at the right hand of the Majesty on high,
+HEB.1:4 having become so much better than the angels, as He has by inheritance obtained amore excellent name than they.
+HEB.1:5 For to which of the angels did He ever say: 'You are My Son, Today I have begotten You'? And again: 'I will be to Him a Father, And He shall be to Me a Son'? b
+HEB.1:6 But when He again brings the firstborn into the world, He says: 'Let all the angels of God worship Him.' a
+HEB.1:7 And of the angels He says: 'Who makes His angels spirits And His ministers a flame of fire.' a
+HEB.1:8 But to the Son He says: 'Your throne, O God, is forever and ever; A scepter of righteousness is the scepter of Your kingdom.
+HEB.1:9 You have loved righteousness and hated lawlessness; Therefore God, Your God, has anointed You a With the oil of gladness more than Your companions.'
 
-### The Priesthood Of Melchizedek
+### Christ Without Beginning, Creator of All
 
-HEB.1:4 Moral and spiritual requirements: These must be less than perfection, for the Levitical priests are all created beings subject to sin.
-HEB.1:5 As Melchizedek was without earthly genealogy, so is Christ by virtue of His virgin birth. He is God incarnate, immortal and sinless, and therefore His priesthood is able to transform humanity.
-HEB.1:6 The power given at ordination is strong and effective. The power of Christ's priesthood is perfect and draws us near to God. His sacrifice is offered once for all. The Father Himself ordains the Son.
-HEB.1:7 Since Christ is immortal, the priesthood of Melchizedek needs only one, eternal priest.
-HEB.1:8 The requirement of perfect holiness is met in Christ, the only sinless One. He is more than mere man-He is the Son of God.
-
-### Christ's Dominion Over Creation
-
-HEB.1:1 God, who at various times and in various ways spoke in time past to the fathers by the prophets, 2 has in these last days spoken to us by His Son, whom He has appointed heir of all things, through whom also He made the worlds; 3 who being the brightness of His glory and the express image of His person, and upholding all things by the word of His power, when He had by Himself apurged our bsins, sat down at the right hand of the Majesty on high, 4 having become so much better than the angels, as He has by inheritance obtained amore excellent name than they.
-HEB.1:5 For to which of the angels did He ever say: 'I will be to Him a Father, And He shall be to Me a Son'? b 'Let all the angels of God worship Him.' a 'Who makes His angels spirits And His ministers aflame of fire.' a 'Your throne, O God, is forever and ever; A scepter of righteousness is the scepter of Your kingdom.
-HEB.1:9 You have loved righteousness and hated lawlessness; Therefore God, Your God, has anointed You a With the oil of gladness more than Your companions.' Christ Without Beginning, Creator of All 'You, LORD, in the beginning laid the foundation of the earth, And the heavens are the work of Your hands.
+HEB.1:10 'You, LORD, in the beginning laid the foundation of the earth, And the heavens are the work of Your hands.
 HEB.1:11 They will perish, but You remain; And they will all grow old like agarment;
-HEB.1:12 Like acloak You will fold them up, And they will be changed. But You are the same, And Your years will not fail.' a 'Sit at My right hand, a Till I make Your enemies Your footstool'?
+HEB.1:12 Like acloak You will fold them up, And they will be changed. But You are the same, And Your years will not fail.' a
+HEB.1:13 But to which of the angels has He ever said: 'Sit at My right hand, Till I make Your enemies Your footstool'? a
 
 ### Beware of Willful Negligence
 
 HEB.1:14 Are they not all ministering spirits sent forth to minister for those who will inherit
 ## Chapter 2
 
-HEB.2:1 herefore we must give the more earnest heed to the things we have heard, lest we drift away.
-HEB.2:2 For if the word spoken through angels proved steadfast, and every transgression and disobedience received ajust reward, 3 how shall we escape if we neglect so great asalvation, which at the first began to be spoken by the Lord, and was confirmed to us by those who heard Him,
+HEB.2:1 Therefore we must give the more earnest heed to the things we have heard, lest we drift away.
+HEB.2:2 For if the word spoken through angels proved steadfast, and every transgression and disobedience received ajust reward,
+HEB.2:3 how shall we escape if we neglect so great asalvation, which at the first began to be spoken by the Lord, and was confirmed to us by those who heard Him,
 HEB.2:4 God also bearing witness both with signs and wonders, with various miracles, and gifts of the Holy Spirit, according to His own will?
 HEB.2:5 For He has not put the world to come, of which we speak, in subjection to angels.
 HEB.2:6 But one testified in acertain place, saying: 'What is man that You are mindful of him, Or the son of man that You take care of him? †
@@ -55,7 +52,8 @@ HEB.2:8 You have put all things in subjection under his feet.' a For in that He 
 HEB.2:9 But we see Jesus, who was made alittle lower than the angels, for the suffering of death crowned with glory and honor, that He, by the grace of God, might taste death for everyone.
 HEB.2:10 For it was fitting for Him, for whom are all things and by whom are all things, in bringing many sons to glory, to make the captain of their salvation perfect through sufferings.
 HEB.2:11 For both He who sanctifies and those who are being sanctified are all of one, for which reason He is not ashamed to call them brethren,
-HEB.2:12 saying: 'I will declare Your name to My brethren; In the midst of the assembly I will sing praise to You.' a 'I will put My trust in Him.' a 'Here am I and the children whom God has given Me.' b
+HEB.2:12 saying: 'I will declare Your name to My brethren; In the midst of the assembly I will sing praise to You.' a
+HEB.2:13 And again: 'I will put My trust in Him.' a And again: 'Here am I and the children whom God has given Me.' b
 HEB.2:14 Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil,
 HEB.2:15 and release those who through fear of death were all their lifetime subject to bondage.
 HEB.2:16 For indeed He does not give aid to angels, but He does give aid to the seed of Abraham.
@@ -66,11 +64,13 @@ HEB.2:17 Therefore, in all things He had to be made like His brethren, that He m
 HEB.2:18 For in that He Himself has suffered, being tempted, He is able to aid those who are tempted.
 ## Chapter 3
 
-HEB.3:1 herefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our confession, Christ Jesus, 2 who was faithful to Him who appointed Him, as Moses also was faithful in all His house.
+HEB.3:1 Therefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our confession, Christ Jesus,
+HEB.3:2 who was faithful to Him who appointed Him, as Moses also was faithful in all His house.
 HEB.3:3 For this One has been counted worthy of more glory than Moses, inasmuch as He who built the house has more honor than the house.
 HEB.3:4 For every house is built by someone, but He who built all things is God.
 HEB.3:5 And Moses indeed was faithful in all His house as aservant, for atestimony of those things which would be spoken afterward,
-HEB.3:6 but Christ as a Son over His own house, whose house we are if we hold fast the confidence and the rejoicing of the hope firm to the end. a 'Today, if you will hear His voice, †
+HEB.3:6 but Christ as a Son over His own house, whose house we are if we hold fast the confidence and the rejoicing of the hope firm to the end. a
+HEB.3:7 Therefore, as the Holy Spirit says: 'Today, if you will hear His voice,
 HEB.3:8 Do not harden your hearts as in the rebellion, In the day of trial in the wilderness,
 HEB.3:9 Where your fathers tested Me, tried Me, And saw My works forty years.
 HEB.3:10 Therefore I was angry with that generation, And said, 'They always go astray in their heart, And they have not known My ways.'
@@ -80,7 +80,8 @@ HEB.3:10 Therefore I was angry with that generation, And said, 'They always go a
 HEB.3:11 So I swore in My wrath,
 HEB.3:12 Beware, brethren, lest there be in any of you an evil heart of unbelief in departing from the living God;
 HEB.3:13 but exhort one another daily, while it is called 'Today,' lest any of you be hardened through the deceitfulness of sin.
-HEB.3:14 For we have become partakers of Christ if we hold the beginning of our confidence steadfast to the end, 15 while it is said: 'Today, if you will hear His voice, Do not harden your hearts as in the rebellion.' a
+HEB.3:14 For we have become partakers of Christ if we hold the beginning of our confidence steadfast to the end,
+HEB.3:15 while it is said: 'Today, if you will hear His voice, Do not harden your hearts as in the rebellion.' a
 HEB.3:16 For who, having heard, rebelled? Indeed, was it not all who came out of Egypt, led by Moses?
 HEB.3:17 Now with whom was He angry forty years? Was it not with those who sinned, whose corpses fell in the wilderness?
 HEB.3:18 And to whom did He swear that they would not enter His rest, but to those who did not obey?
@@ -90,14 +91,16 @@ HEB.3:18 And to whom did He swear that they would not enter His rest, but to tho
 HEB.3:19 So we see that they could not enter in because of unbelief.
 ## Chapter 4
 
-HEB.4:1 herefore, since apromise remains of entering His rest, let us fear lest any of you seem to have come short of it.
+HEB.4:1 Therefore, since apromise remains of entering His rest, let us fear lest any of you seem to have come short of it.
 HEB.4:2 For indeed the gospel was preached to us as well as to them; but the word which they heard did not profit them, anot being mixed with faith in those who heard it.
 HEB.4:3 For we who have believed do enter that rest, as He has said: 'So I swore in My wrath, 'They shall not enter My rest,' ' aalthough the works were finished from the foundation of the world.
 
 ### Christ's Rest Is Superior
 
-HEB.4:4 For He has spoken in acertain place of the seventh day in this way: 'And God rested on the seventh day from all His works'; a 5 and again in this place: 'They shall not enter My rest.' a
-HEB.4:6 Since therefore it remains that some must enter it, and those to whom it was first preached did not enter because of disobedience, 7 again He designates acertain day, saying in David, 'Today,' after such along time, as it has been said: 'Today, if you will hear His voice,
+HEB.4:4 For He has spoken in acertain place of the seventh day in this way: 'And God rested on the seventh day from all His works'; a
+HEB.4:5 and again in this place: 'They shall not enter My rest.' a
+HEB.4:6 Since therefore it remains that some must enter it, and those to whom it was first preached did not enter because of disobedience,
+HEB.4:7 again He designates acertain day, saying in David, 'Today,' after such along time, as it has been said: 'Today, if you will hear His voice,
 HEB.4:8 For if Joshua had given them rest, then He would not afterward have spoken of another day.
 HEB.4:9 There remains therefore arest for the people of God.
 
@@ -118,7 +121,7 @@ HEB.4:15 For we do not have a High Priest who cannot sympathize with our weaknes
 HEB.4:16 Let us therefore come boldly to the throne of grace, that we may obtain mercy and find grace to help in time of need.
 ## Chapter 5
 
-HEB.5:1 or every high priest taken from among men is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins.
+HEB.5:1 For every high priest taken from among men is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins.
 HEB.5:2 He can have compassion on those who are ignorant and going astray, since he himself is also subject to weakness.
 HEB.5:3 Because of this he is required as for the people, so also for himself, to offer sacrifices for sins.
 HEB.5:4 And no man takes this honor to himself, but he who is called by God, just as Aaron was.
@@ -127,14 +130,18 @@ HEB.5:5 So also Christ did not glorify Himself to become High Priest, but it was
 ### Beware of Immaturity
 
 HEB.5:6 As He also says in another place: 'You are a priest forever According to the order of Melchizedek'; a
-HEB.5:7 7 who, in the days of His flesh, when He had offered up prayers and supplications, with vehement cries and tears to Him who was able to save Him from death, and was heard because of His godly fear, 8 though He was a Son, yet He learned obedience by the things which He suffered.
-HEB.5:9 And having been perfected, He became the author of eternal salvation to all who obey Him, 10 called by God as High Priest 'according to the order of Melchizedek,' 11 of whom we have much to say, and hard to explain, since you have become dull of hearing.
+HEB.5:7 who, in the days of His flesh, when He had offered up prayers and supplications, with vehement cries and tears to Him who was able to save Him from death, and was heard because of His godly fear,
+HEB.5:8 though He was a Son, yet He learned obedience by the things which He suffered.
+HEB.5:9 And having been perfected, He became the author of eternal salvation to all who obey Him,
+HEB.5:10 called by God as High Priest 'according to the order of Melchizedek,'
+HEB.5:11 of whom we have much to say, and hard to explain, since you have become dull of hearing.
 HEB.5:12 For though by this time you ought to be teachers, you need someone to teach you again the first principles of the oracles of God; and you have come to need milk and not solid food.
 HEB.5:13 For everyone who partakes only of milk is unskilled in the word of righteousness, for he is ababe.
 HEB.5:14 But solid food belongs to those who are of full age, that is, those who by reason of use have their senses exercised to discern both good and evil.
 ## Chapter 6
 
-HEB.6:1 herefore, leaving the discussion of the elementary principles of Christ, let us go on to perfection, not laying again the foundation of repentance from dead works and of faith toward God, 2 of the doctrine of baptisms, of laying on of hands, of resurrection of the dead, and of eternal judgment.
+HEB.6:1 Therefore, leaving the discussion of the elementary principles of Christ, let us go on to perfection, not laying again the foundation of repentance from dead works and of faith toward God,
+HEB.6:2 of the doctrine of baptisms, of laying on of hands, of resurrection of the dead, and of eternal judgment.
 HEB.6:3 And this we will ado if God permits.
 HEB.6:4 For it is impossible for those who were once enlightened, and have tasted the heavenly gift, and have become partakers of the Holy Spirit,
 HEB.6:5 and have tasted the good word of God and the powers of the age to come,
@@ -164,11 +171,12 @@ HEB.6:19 This hope we have as an anchor of the soul, both sure and steadfast, an
 HEB.6:20 where the forerunner has entered for us, even Jesus, having become High Priest forever according to the order of Melchizedek.
 ## Chapter 7
 
-HEB.7:1 or this Melchizedek, king of Salem, priest of the Most High God, who met Abraham returning from the slaughter of the kings and blessed him,
+HEB.7:1 For this Melchizedek, king of Salem, priest of the Most High God, who met Abraham returning from the slaughter of the kings and blessed him,
 
 ### The Rules of the Priestly Orders
 
-HEB.7:2 to whom also Abraham gave atenth part of all, first being translated 'king of righteousness,' and then also king of Salem, meaning 'king of peace,' 3 without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God, remains apriest continually.
+HEB.7:2 to whom also Abraham gave atenth part of all, first being translated 'king of righteousness,' and then also king of Salem, meaning 'king of peace,'
+HEB.7:3 without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God, remains apriest continually.
 HEB.7:4 Now consider how great this man was, to whom even the patriarch Abraham gave atenth of the spoils.
 HEB.7:5 And indeed those who are of the sons of Levi, who receive the priesthood, have acommandment to receive tithes from the people according to the law, that is, from their brethren, though they have come from the loins of Abraham;
 HEB.7:6 but he whose genealogy is not derived from them received tithes from Abraham and blessed him who had the promises.
@@ -180,31 +188,37 @@ HEB.7:11 Therefore, if perfection were through the Levitical priesthood (for und
 HEB.7:12 For the priesthood being changed, of necessity there is also achange of the law.
 HEB.7:13 For He of whom these things are spoken belongs to another tribe, from which no man has officiated at the altar.
 HEB.7:14 For it is evident that our Lord arose from Judah, of which tribe Moses spoke nothing concerning priesthood. a
-HEB.7:15 And it is yet far more evident if, in the likeness of Melchizedek, there arises another priest 16 who has come, not according to the law of afleshly commandment, but according to the power of an endless life.
+HEB.7:15 And it is yet far more evident if, in the likeness of Melchizedek, there arises another priest
+HEB.7:16 who has come, not according to the law of afleshly commandment, but according to the power of an endless life.
 HEB.7:17 For He testifies: a 'You are apriest forever According to the order of Melchizedek.' b
 HEB.7:18 For on the one hand there is an annulling of the former commandment because of its weakness and unprofitableness,
 HEB.7:19 for the law made nothing perfect; on the other hand, there is the bringing in of abetter hope, through which we draw near to God.
 HEB.7:20 And inasmuch as He was not made priest without an oath
-HEB.7:21 (for they have become priests without an oath, but He with an oath by Him who said to Him: 'The LORD has sworn And will not relent, 'You are apriest forever a According to the order of Melchizedek' ' ), b 22 by so much more Jesus has become asurety of abetter covenant.
+HEB.7:21 (for they have become priests without an oath, but He with an oath by Him who said to Him: 'The LORD has sworn And will not relent, 'You are apriest forever a According to the order of Melchizedek' ' ), b
+HEB.7:22 by so much more Jesus has become asurety of abetter covenant.
 HEB.7:23 Also there were many priests, because they were prevented by death from continuing.
 HEB.7:24 But He, because He continues forever, has an unchangeable priesthood.
 HEB.7:25 Therefore He is also able to save to the uttermost those who come to God through Him, since He always lives to make intercession for them.
-HEB.7:26 For such a High Priest was fitting for us, who is holy, harmless, undefiled, separate from sinners, and has become higher than the heavens; 27 who does not need daily, as those high priests, to offer up sacrifices, first for His own sins and then for the people's, for this He did once for all when He offered up Himself.
+HEB.7:26 For such a High Priest was fitting for us, who is holy, harmless, undefiled, separate from sinners, and has become higher than the heavens;
+HEB.7:27 who does not need daily, as those high priests, to offer up sacrifices, first for His own sins and then for the people's, for this He did once for all when He offered up Himself.
 
 ### The Old Worship, an Earthly Shadow
 
 HEB.7:28 For the law appoints as high priests men who have weakness, but the word of the oath, which came after the law, appoints the Son who has been perfected forever.
 ## Chapter 8
 
-HEB.8:1 ow this is the main point of the things we are saying: We have such a High Priest, who is seated at the right hand of the throne of the Majesty in the heavens, 2 a Minister of the sanctuary and of the true tabernacle which the Lord erected, and not man.
+HEB.8:1 Now this is the main point of the things we are saying: We have such a High Priest, who is seated at the right hand of the throne of the Majesty in the heavens,
+HEB.8:2 a Minister of the sanctuary and of the true tabernacle which the Lord erected, and not man.
 HEB.8:3 For every high priest is appointed to offer both gifts and sacrifices. Therefore it is necessary that this One also have something to offer.
-HEB.8:4 For if He were on earth, He would not be apriest, since there are priests who offer the gifts according to the law; 5 who serve the copy and shadow of the heavenly things, as Moses was divinely instructed when he was about to make the tabernacle. For He said, 'See that you make all things according to the pattern shown you on the mountain.' a
+HEB.8:4 For if He were on earth, He would not be apriest, since there are priests who offer the gifts according to the law;
+HEB.8:5 who serve the copy and shadow of the heavenly things, as Moses was divinely instructed when he was about to make the tabernacle. For He said, 'See that you make all things according to the pattern shown you on the mountain.' a
 
 ### The Old Covenant Pleads for a New One
 
 HEB.8:6 But now He has obtained amore excellent ministry, inasmuch as He is also Mediator of abetter covenant, which was established on better promises.
 HEB.8:7 For if that first covenant had been faultless, then no place would have been sought for asecond.
-HEB.8:8 Because finding fault with them, He says: 'Behold, the days are coming, says the LORD, when I will make anew covenant with the house of Israel and with the house of Judah9 not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they did not continue in My covenant, and I disregarded them, says the LORD.
+HEB.8:8 Because finding fault with them, He says: 'Behold, the days are coming, says the LORD, when I will make anew covenant with the house of Israel and with the house of Judah
+HEB.8:9 not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they did not continue in My covenant, and I disregarded them, says the LORD.
 HEB.8:10 For this is the covenant that I will make with the house of Israel after those days, says the L ORD: I will put My laws in their mind and write them on their hearts; and I will be their God, and they shall be My people.
 HEB.8:11 None of them shall teach his neighbor, and none his brother, saying, 'Know the L ORD,' for all shall know Me, from the least of them to the greatest of them.
 HEB.8:12 For I will be merciful to their unrighteousness, and their sins and their lawless deeds a I will remember no more.' b
@@ -225,13 +239,15 @@ HEB.9:8 the Holy Spirit indicating this, that the way into the Holiest of All wa
 
 ### The Heavenly Sanctuary and Liturgy
 
-HEB.9:9 It was symbolic for the present time in which both gifts and sacrifices are offered which cannot make him who performed the service perfect in regard to the conscience- 10 concerned only with foods and drinks, various washings, and fleshly ordinances imposed until the time of reformation.
+HEB.9:9 It was symbolic for the present time in which both gifts and sacrifices are offered which cannot make him who performed the service perfect in regard to the conscience-
+HEB.9:10 concerned only with foods and drinks, various washings, and fleshly ordinances imposed until the time of reformation.
 HEB.9:11 But Christ came as High Priest of the good things to come, awith the greater and more perfect tabernacle not made with hands, that is, not of this creation.
 HEB.9:12 Not with the blood of goats and calves, but with His own blood He entered the Most Holy Place once for all, having obtained eternal redemption.
 
 ### The New Covenant: The Blood of Christ
 
-HEB.9:13 For if the blood of bulls and goats and the ashes of aheifer, sprinkling the unclean, sanctifies for the purifying of the flesh, 14 how much more shall the blood of Christ, who through the eternal Spirit offered Himself without spot to God, cleanse your conscience from dead works to serve the living God?
+HEB.9:13 For if the blood of bulls and goats and the ashes of aheifer, sprinkling the unclean, sanctifies for the purifying of the flesh,
+HEB.9:14 how much more shall the blood of Christ, who through the eternal Spirit offered Himself without spot to God, cleanse your conscience from dead works to serve the living God?
 HEB.9:15 And for this reason He is the Mediator of the new covenant, by means of death, for the redemption of the transgressions under the first covenant, that those who are called may receive the promise of the eternal inheritance.
 HEB.9:16 For where there is atestament, there must also of necessity be the death of the testator.
 HEB.9:17 For atestament is in force after men are dead, since it has no power at all while the testator lives.
@@ -244,7 +260,8 @@ HEB.9:21 Then likewise he sprinkled with blood both the tabernacle and all the v
 
 HEB.9:22 And according to the law almost all things are purified with blood, and without shedding of blood there is no remission.
 HEB.9:23 Therefore it was necessary that the copies of the things in the heavens should be purified with these, but the heavenly things themselves with better sacrifices than these.
-HEB.9:24 For Christ has not entered the holy places made with hands, which are copies of the true, but into heaven itself, now to appear in the presence of God for us; 25 not that He should offer Himself often, as the high priest enters the Most Holy Place every year with blood of another-
+HEB.9:24 For Christ has not entered the holy places made with hands, which are copies of the true, but into heaven itself, now to appear in the presence of God for us;
+HEB.9:25 not that He should offer Himself often, as the high priest enters the Most Holy Place every year with blood of another-
 HEB.9:26 He then would have had to suffer often since the foundation of the world; but now, once at the end of the ages, He has appeared to put away sin by the sacrifice of Himself.
 HEB.9:27 And as it is appointed for men to die once, but after this the judgment,
 
@@ -263,22 +280,30 @@ HEB.10:6 In burnt offerings and sacrifices for sin You had no pleasure.
 ### The New Worship Gives Boldness
 
 HEB.10:7 Then I said, 'Behold, I have come- In the volume of the book it is written of Me- To do Your will, O God.' ' a
+HEB.10:8 Previously saying, 'Sacrifice and offering, burnt offerings, and offerings for sin You did not desire, nor had pleasure in them' (which are offered according to the law),
+HEB.10:9 then He said, 'Behold, I have come to do Your will, O God.' He takes away the first that He may establish the second.
+HEB.10:10 By that will we have been sanctified through the offering of the body of Jesus Christ once for all.
 HEB.10:11 And every priest stands ministering daily and offering repeatedly the same sacrifices, which can never take away sins.
 HEB.10:12 But this Man, after He had offered one sacrifice for sins forever, sat down at the right hand of God,
 HEB.10:13 from that time waiting till His enemies are made His footstool.
 HEB.10:14 For by one offering He has perfected forever those who are being sanctified.
 HEB.10:15 But the Holy Spirit also witnesses to us; for after He had said before,
-HEB.10:16 'This is the covenant that I will make with them after those days, says the L ORD: I will put My laws into their hearts, and in their minds I will write them,' a 17 then He adds, 'Their sins and their lawless deeds I will remember no more.' a
+HEB.10:16 'This is the covenant that I will make with them after those days, says the L ORD: I will put My laws into their hearts, and in their minds I will write them,' a
+HEB.10:17 then He adds, 'Their sins and their lawless deeds I will remember no more.' a
 
 ### Continue to Enter and Draw Near
 
 HEB.10:18 Now where there is remission of these, there is no longer an offering for sin.
-HEB.10:19 Therefore, brethren, having boldness to enter the Holiest by the blood of Jesus, 20 by anew and living way which He consecrated for us, through the veil, that is, His flesh, 21 and having a High Priest over the house of God, 22 let us draw near with atrue heart in full assurance of faith, having our hearts sprinkled from an evil conscience and our bodies washed with pure water.
+HEB.10:19 Therefore, brethren, having boldness to enter the Holiest by the blood of Jesus,
+HEB.10:20 by anew and living way which He consecrated for us, through the veil, that is, His flesh,
+HEB.10:21 and having a High Priest over the house of God,
+HEB.10:22 let us draw near with atrue heart in full assurance of faith, having our hearts sprinkled from an evil conscience and our bodies washed with pure water.
 HEB.10:23 Let us hold fast the confession of our hope without wavering, for He who promised is faithful.
 
 ### The Danger of Apostasy
 
-HEB.10:24 And let us consider one another in order to stir up love and good works, 25 not forsaking the assembling of ourselves together, as is the manner of some, but exhorting one another, and so much the more as you see the Day approaching.
+HEB.10:24 And let us consider one another in order to stir up love and good works,
+HEB.10:25 not forsaking the assembling of ourselves together, as is the manner of some, but exhorting one another, and so much the more as you see the Day approaching.
 HEB.10:26 For if we sin willfully after we have received the knowledge of the truth, there no longer remains asacrifice for sins,
 HEB.10:27 but acertain fearful expectation of judgment, and fiery indignation which will devour the adversaries.
 HEB.10:28 Anyone who has rejected Moses' law dies without mercy on the testimony of two or three witnesses.
@@ -288,7 +313,9 @@ HEB.10:30 For we know Him who said, 'Vengeance is Mine, I will repay,' asays the
 ### Continue to Persevere
 
 HEB.10:31 It is afearful thing to fall into the hands of the living God.
-HEB.10:32 But recall the former days in which, after you were illuminated, you endured agreat struggle with sufferings: 33 partly while you were made aspectacle both by reproaches and tribulations, and partly while you became companions of those who were so treated; 34 for you had compassion on me ain my chains, and joyfully accepted the plundering of your goods, knowing that you have abetter and an enduring possession for yourselves in heaven. b
+HEB.10:32 But recall the former days in which, after you were illuminated, you endured agreat struggle with sufferings:
+HEB.10:33 partly while you were made aspectacle both by reproaches and tribulations, and partly while you became companions of those who were so treated;
+HEB.10:34 for you had compassion on me ain my chains, and joyfully accepted the plundering of your goods, knowing that you have abetter and an enduring possession for yourselves in heaven. b
 HEB.10:35 Therefore do not cast away your confidence, which has great reward.
 HEB.10:36 For you have need of endurance, so that after you have done the will of God, you may receive the promise:
 HEB.10:37 'For yet alittle while, And He a who is coming will come and will not tarry.
@@ -321,7 +348,9 @@ HEB.11:13 These all died in faith, not having received the promises, but having 
 HEB.11:14 For those who say such things declare plainly that they seek ahomeland.
 HEB.11:15 And truly if they had called to mind that country from which they had come out, they would have had opportunity to return.
 HEB.11:16 But now they desire abetter, that is, aheavenly country. Therefore God is not ashamed to be called their God, for He has prepared acity for them.
-HEB.11:17 By faith Abraham, when he was tested, offered up Isaac, and he who had received the promises offered up his only begotten son, 18 of whom it was said, 'In Isaac your seed shall be called,' a 19 concluding that God was able to raise him up, even from the dead, from which he also received him in afigurative sense.
+HEB.11:17 By faith Abraham, when he was tested, offered up Isaac, and he who had received the promises offered up his only begotten son,
+HEB.11:18 of whom it was said, 'In Isaac your seed shall be called,' a
+HEB.11:19 concluding that God was able to raise him up, even from the dead, from which he also received him in afigurative sense.
 HEB.11:20 By faith Isaac blessed Jacob and Esau concerning things to come.
 HEB.11:21 By faith Jacob, when he was dying, blessed each of the sons of Joseph, and worshiped, leaning on the top of his staff.
 
@@ -329,7 +358,9 @@ HEB.11:21 By faith Jacob, when he was dying, blessed each of the sons of Joseph,
 
 HEB.11:22 By faith Joseph, when he was dying, made mention of the departure of the children of Israel, and gave instructions concerning his bones.
 HEB.11:23 By faith Moses, when he was born, was hidden three months by his parents, because they saw he was abeautiful child; and they were not afraid of the king's command.
-HEB.11:24 By faith Moses, when he became of age, refused to be called the son of Pharaoh's daughter, 25 choosing rather to suffer affliction with the people of God than to enjoy the passing pleasures of sin, 26 esteeming the reproach of Christ greater riches than the treasures in a Egypt; for he looked to the reward.
+HEB.11:24 By faith Moses, when he became of age, refused to be called the son of Pharaoh's daughter,
+HEB.11:25 choosing rather to suffer affliction with the people of God than to enjoy the passing pleasures of sin,
+HEB.11:26 esteeming the reproach of Christ greater riches than the treasures in a Egypt; for he looked to the reward.
 HEB.11:27 By faith he forsook Egypt, not fearing the wrath of the king; for he endured as seeing Him who is invisible.
 HEB.11:28 By faith he kept the Passover and the sprinkling of blood, lest he who destroyed the firstborn should touch them.
 HEB.11:29 By faith they passed through the Red Sea as by dry land, whereas the Egyptians, attempting to do so, were drowned.
@@ -338,13 +369,16 @@ HEB.11:30 By faith the walls of Jericho fell down after they were encircled for 
 ### Faith of Other Israelites
 
 HEB.11:31 By faith the harlot Rahab did not perish with those who did not believe, when she had received the spies with peace.
-HEB.11:32 And what more shall I say? For the time would fail me to tell of Gideon and Barak and Samson and Jephthah, also of David and Samuel and the prophets: 33 who through faith subdued kingdoms, worked righteousness, obtained promises, stopped the mouths of lions, 34 quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, became valiant in battle, turned to flight the armies of the aliens.
+HEB.11:32 And what more shall I say? For the time would fail me to tell of Gideon and Barak and Samson and Jephthah, also of David and Samuel and the prophets:
+HEB.11:33 who through faith subdued kingdoms, worked righteousness, obtained promises, stopped the mouths of lions,
+HEB.11:34 quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, became valiant in battle, turned to flight the armies of the aliens.
 HEB.11:35 Women received their dead raised to life again.
 HEB.11:36 Others were tortured, not accepting deliverance, that they might obtain abetter resurrection. Still others had trial of mockings and scourgings, yes, and of chains and imprisonment.
 
 ### Faith's Perfection
 
-HEB.11:37 They were stoned, they were sawn in two, were tempted, awere slain with the sword. They wandered about in sheepskins and goatskins, being destitute, afflicted, tormented- 38 of whom the world was not worthy. They wandered in deserts and mountains, in dens and caves of the earth.
+HEB.11:37 They were stoned, they were sawn in two, were tempted, awere slain with the sword. They wandered about in sheepskins and goatskins, being destitute, afflicted, tormented-
+HEB.11:38 of whom the world was not worthy. They wandered in deserts and mountains, in dens and caves of the earth.
 HEB.11:39 And all these, having obtained agood testimony through faith, did not receive the promise,
 
 ### Look to Jesus
@@ -355,7 +389,8 @@ HEB.11:40 God having provided something better for us, that they should not be m
 
 ### Do Not Despise God's Chastening
 
-HEB.12:1 herefore we also, since we are surrounded by so great acloud of witnesses, let us lay aside every weight, and the sin which so easily ensnares us, and let us run with endurance the race that is set before us, 2 looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
+HEB.12:1 herefore we also, since we are surrounded by so great acloud of witnesses, let us lay aside every weight, and the sin which so easily ensnares us, and let us run with endurance the race that is set before us,
+HEB.12:2 looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
 HEB.12:3 For consider Him who endured such hostility from sinners against Himself, lest you become weary and discouraged in your souls.
 HEB.12:4 You have not yet resisted to bloodshed, striving against sin.
 HEB.12:5 And you have forgotten the exhortation which speaks to you as to sons: 'My son, do not despise the chastening of the LORD, Nor be discouraged when you are rebuked by Him;
@@ -367,7 +402,9 @@ HEB.12:10 For they indeed for afew days chastened us as seemed best to them, but
 HEB.12:11 Now no chastening seems to be joyful for the present, but painful; nevertheless, afterward it yields the peaceable fruit of righteousness to those who have been trained by it.
 HEB.12:12 Therefore strengthen the hands which hang down, and the feeble knees,
 HEB.12:13 and make straight paths for your feet, so that what is lame may not be dislocated, but rather be healed.
-HEB.12:14 Pursue peace with all people, and holiness, without which no one will see the Lord: 15 looking carefully lest anyone fall short of the grace of God; lest any root of bitterness springing up cause trouble, and by this many become defiled; 16 lest there be any fornicator or profane person like Esau, who for one morsel of food sold his birthright.
+HEB.12:14 Pursue peace with all people, and holiness, without which no one will see the Lord:
+HEB.12:15 looking carefully lest anyone fall short of the grace of God; lest any root of bitterness springing up cause trouble, and by this many become defiled;
+HEB.12:16 lest there be any fornicator or profane person like Esau, who for one morsel of food sold his birthright.
 HEB.12:17 For you know that afterward, when he wanted to inherit the blessing, he was rejected, for he found no place for repentance, though he sought it diligently with tears.
 HEB.12:18 For you have not come to the mountain that amay be touched and that burned with fire, and to blackness and darkness band tempest,
 HEB.12:19 and the sound of atrumpet and the voice of words, so that those who heard it begged that the word should not be spoken to them anymore.
@@ -386,7 +423,7 @@ HEB.12:28 Therefore, since we are receiving akingdom which cannot be shaken, let
 HEB.12:29 For our God is aconsuming fire.
 ## Chapter 13
 
-HEB.13:1 et brotherly love continue.
+HEB.13:1 Let brotherly love continue.
 HEB.13:2 Do not forget to entertain strangers, for by so doing some have unwittingly entertained angels.
 HEB.13:3 Remember the prisoners as if chained with them-those who are mistreated-since you yourselves are in the body also.
 HEB.13:4 Marriage is honorable among all, and the bed undefiled; but fornicators and adulterers God will judge.
@@ -417,7 +454,8 @@ HEB.13:18 Pray for us; for we are confident that we have agood conscience, in al
 ### Conclusion
 
 HEB.13:19 But I especially urge you to do this, that I may be restored to you the sooner.
-HEB.13:20 Now may the God of peace who brought up our Lord Jesus from the dead, that great Shepherd of the sheep, through the blood of the everlasting covenant, 21 make you complete in every good work to do His will, working in you awhat is well pleasing in His sight, through Jesus Christ, to whom be glory forever and ever. Amen.
+HEB.13:20 Now may the God of peace who brought up our Lord Jesus from the dead, that great Shepherd of the sheep, through the blood of the everlasting covenant,
+HEB.13:21 make you complete in every good work to do His will, working in you awhat is well pleasing in His sight, through Jesus Christ, to whom be glory forever and ever. Amen.
 HEB.13:22 And I appeal to you, brethren, bear with the word of exhortation, for I have written to you in few words.
 HEB.13:23 Know that our brother Timothy has been set free, with whom I shall see you if he comes shortly.
 HEB.13:24 Greet all those who rule over you, and all the saints. Those from Italy greet you.

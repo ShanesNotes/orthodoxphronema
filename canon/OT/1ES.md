@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-1ES.1:1 Josiah kept the Passover to his Lord in Jerusalem. He sacrifice †
+1ES.1:1 Josiah kept the Passover to his Lord in Jerusalem. He sacrifice
 1ES.1:2 He then placed the priests in the Lord's temple according to their divisions, clothed in their vestments.
 1ES.1:3 He told the Levites, Israel's servants in the temple, to sanctify themselves to the Lord and to place the holy ark of the Lord in the house that King Solomon, son of David, had built. For he said, 'No longer will you carry the ark upon your shoulders.
 1ES.1:4 Now serve the Lord your God, and heal His people Israel. Prepare yourselves according to your families and tribes, according to the writing of King David of Israel and the magnificence of Solomon his son.
@@ -22,7 +22,7 @@ has_additions: false
 1ES.1:6 Sacrifice the paschal lamb, prepare the sacrifices for your brothers, and keep the Passover according to the Lord's commandment given to Moses.'
 1ES.1:7 Josiah gave thirty thousand lambs and kids and three thousand calves to the people who were present. These were given from the king's possessions to the people, to the priests, and to the Levites, as he promised.
 1ES.1:8 Hilkiah, Zechariah, and Jehiel, the overseers of the temple, gave the priests two thousand six hundred sheep and three hundred calves for Passover.
-1ES.1:9 Jeconiah, Shemaiah, and Nathanael his brother, and Hashabiah, Ochiel, and Joram, highranking officers, gave the Levites five thousand sheep and seven hundred calves for Passover.
+1ES.1:9 Jeconiah, Shemaiah, and Nathanael his brother, and Hashabiah, Ochiel, and Joram, high-ranking officers, gave the Levites five thousand sheep and seven hundred calves for Passover.
 1ES.1:10 This is what happened. The priests and Levites stood in their proper order before the people,
 1ES.1:11 holding the unleavened bread according to the tribes
 1ES.1:12 and the governors of their paternal families, to present the offering to the Lord, as was written in the Book of Moses. This was done in the morning.
@@ -80,7 +80,7 @@ has_additions: false
 1ES.1:55 which said, 'Until the land has enjoyed its Sabbaths, it shall keep its Sabbath the entire time of its desolation until the fulfillment of seventy years.'
 ## Chapter 2
 
-1ES.2:1 Then Cyrus was reigning over the Persians in his first year, † 
+1ES.2:1 Then Cyrus was reigning over the Persians in his first year,
 1ES.2:2 'Thus says Cyrus the king of the Persians: Israel's Lord, the Lord Most High, revealed and indicated to me, the king of the inhabited world, that I should build a house for Him at Jerusalem in Judea.
 1ES.2:3 Therefore, if any of you are from His nation, may the Lord be with you, and when you go up to Jerusalem in Judea, may you build the house of the Lord of Israel. He is the Lord who dwells in Jerusalem.
 1ES.2:4 Therefore, let as many as are living around you in various places help you with gifts of gold and silver, with horses and cattle, as well as with other things added as votive offerings for the Lord's temple in Jerusalem.'
@@ -114,19 +114,19 @@ has_additions: false
 1ES.2:26 So the building of the temple in Jerusalem became idle until the second year of the reign of Darius king of the Persians.
 ## Chapter 3
 
-1ES.3:1 Now King Darius put on a great banquet for all his subjects, † 
+1ES.3:1 Now King Darius put on a great banquet for all his subjects,
 1ES.3:2 He also invited all the satraps, commanders, and governors under him throughout the one hundred and twenty-seven provinces extending from India to Ethiopia.
 1ES.3:3 They ate and drank, and when they were satisfied they returned home. As for King Darius, he returned to his bedchamber and slept, but awoke.
-1ES.3:4 Then the three young men who were attending the king as bodyguards said one to the other, †
+1ES.3:4 Then the three young men who were attending the king as bodyguards said one to the other,
 1ES.3:5 'Let each of us speak one strong saying, and whichever saying of ours seems to be the strongest, King Darius will give him great gifts and a feast in his honor.
-1ES.3:6 He will be dressed in purple, drink from gold cups, and sleep in a gold bed. He will have a chariot with a gold-studded bridle, a turban of fine linen, and a gold necklace around his neck. †
-1ES.3:7 Because of his wisdom he will sit second to Darius and will be addressed as kinsman of Darius.' †
+1ES.3:6 He will be dressed in purple, drink from gold cups, and sleep in a gold bed. He will have a chariot with a gold-studded bridle, a turban of fine linen, and a gold necklace around his neck.
+1ES.3:7 Because of his wisdom he will sit second to Darius and will be addressed as kinsman of Darius.'
 1ES.3:8 So each one then wrote down his saying, sealed it, and placed it under the pillow of King Darius. They said,
 
 ### Which Is Strongest?
 
 1ES.3:9 'When the king awakens, they will give the writings to him and the one whose saying the king and the three nobles of Persia may judge the wisest, the victory shall be given to him, as it is written.'
-1ES.3:10 The first one wrote, 'Wine is the strongest.' †
+1ES.3:10 The first one wrote, 'Wine is the strongest.'
 1ES.3:11 The second wrote, 'The king is the strongest.'
 1ES.3:12 The third wrote, 'Women are the strongest, but above all things the truth conquers.'
 1ES.3:13 So when the king was awakened, he took the writings they gave to him, and he read them.
@@ -136,7 +136,7 @@ has_additions: false
 ### The Strength of Wine
 
 1ES.3:16 They said to them, 'Interpret for us the sayings you wrote.'
-1ES.3:17 So the first, who spoke about the strength of wine, began and said thus: †
+1ES.3:17 So the first, who spoke about the strength of wine, began and said thus:
 1ES.3:18 'Men, how is wine the strongest? It leads astray the mind of all who drink it.
 1ES.3:19 It makes a single mind of both the king and the orphan, of the servant and the freeman, and of the poor man and the rich man.
 1ES.3:20 It turns every mind to feasting and gladness, and it does not remember any pain or any debt.
@@ -149,7 +149,7 @@ has_additions: false
 1ES.3:24 O men, is not wine the strongest because it forces us to do such things?' So he spoke in this way and then became silent.
 ## Chapter 4
 
-1ES.4:1 Then the second, who talked about the strength of the king, b †
+1ES.4:1 Then the second, who talked about the strength of the king, b
 1ES.4:2 'O men, has not man prevailed on land and sea, becoming the master of them and everything in them?
 1ES.4:3 But the king is strong and rules over these, for he is their master; whatever he commands them they obey.
 1ES.4:4 If he commands one to make war on the other, they do it. If he sends them out against enemies, they go and subdue mountains, walls, and towers.
@@ -164,14 +164,14 @@ has_additions: false
 ### The Strength of Women
 
 1ES.4:12 O men, in what is the king not strong, since he is so carefully obeyed?' Then he kept silent.
-1ES.4:13 Then the third, who had spoken about women and the truth and whose name was Zerubbabel, began to speak: †
-1ES.4:14 'Men, is not the king great, and men many, and wine strong? Who then rules them, or who is their master? Is it not women? †
+1ES.4:13 Then the third, who had spoken about women and the truth and whose name was Zerubbabel, began to speak:
+1ES.4:14 'Men, is not the king great, and men many, and wine strong? Who then rules them, or who is their master? Is it not women?
 1ES.4:15 Women gave birth to the king and to all the people who rule over sea and land.
-1ES.4:16 They came to exist from women, and women reared those who plant the vineyards from which the wine comes. †
+1ES.4:16 They came to exist from women, and women reared those who plant the vineyards from which the wine comes.
 1ES.4:17 Women also make men's clothing and bring glory to men. Indeed, men could not exist without women.
 1ES.4:18 'Moreover, if men are gathering gold, silver, or anything beautiful, but see one woman who looks good in form and beauty,
 1ES.4:19 they drop everything and gape at her, and with mouths wide open they stare at her. They all choose her rather than gold, silver, or any beautiful thing.
-1ES.4:20 Yes, a man will even forsake his own father who reared him and his own country so as to cleave to his own wife. †
+1ES.4:20 Yes, a man will even forsake his own father who reared him and his own country so as to cleave to his own wife.
 1ES.4:21 He will live out his life and not even remember father, mother, or country.
 1ES.4:22 From all this, you should realize that women rule over you!
 1ES.4:23 'Do you not work hard and grow weary with toil, then bring it and give it all to women? Furthermore, a man will put on his sword and go forth to rob, steal, and sail the sea and rivers.
@@ -180,27 +180,27 @@ has_additions: false
 1ES.4:26 Yes, many men have lost all sense and even become slaves because of their wives.
 1ES.4:27 Many have perished, stumbled, or sinned because of their wives.
 1ES.4:28 'Do you not believe me now? Is the king not great in his authority? Are not all the countries moved with fear to touch him?
-1ES.4:29 Yet I saw him with Apame, the king's concubine and the daughter of the admirable Bartacus. She sat at the king's right hand †
+1ES.4:29 Yet I saw him with Apame, the king's concubine and the daughter of the admirable Bartacus. She sat at the king's right hand
 1ES.4:30 removed the crown from the king's head, and put it on her own. She also struck the king with her left hand.
 1ES.4:31 At this, the king gaped at her with his mouth wide open. When she smiled at him he laughed, and when he exasperated her, he flattered her that she might be reconciled with him.
 
 ### The Strongest Is Truth
 
 1ES.4:32 O men, in what way are women not strong, since they do such things?'
-1ES.4:33 Then the king and the nobles looked at one another, †
+1ES.4:33 Then the king and the nobles looked at one another,
 1ES.4:34 and Zerubbabel began to speak about the truth: 'Men, are not women strong? The earth is great, heaven is high, and the sun is swift in its course, for it revolves around heaven in a circle and returns again to its place in one day.
-1ES.4:35 Is not He great who made all things? For His truth is great and stronger than all things. †
+1ES.4:35 Is not He great who made all things? For His truth is great and stronger than all things.
 1ES.4:36 All the earth summons the truth, and heaven blesses it; for all His works shake with fear and tremble, and there is nothing unjust with Him.
 1ES.4:37 But wine is unjust, the king is unjust, women are unjust, all the children of the men and their works are unjust, and all such things are unjust; for there is no truth in them. So they will perish in their injustice.
 1ES.4:38 'But the truth abides and is strong forever. The truth lives and rules unto ages of ages.
 1ES.4:39 There is no partiality or prejudice with the truth, but it does righteous things, distinct from all wrongdoings and evil. All are pleased with its deeds, and there is nothing unjust in its judgment.
 1ES.4:40 For strength, dominion, authority, and majesty belong to it unto all ages, and blessed is the God of truth.'
-1ES.4:41 So he stopped speaking, and all the people then cried aloud and said, 'Great is the truth, for it is the strongest!' †
+1ES.4:41 So he stopped speaking, and all the people then cried aloud and said, 'Great is the truth, for it is the strongest!'
 
 ### Back to Jerusalem
 
-1ES.4:42 Then the king said to him, 'Ask what you will, and let it be more than what is written; for we will give it to you, inasmuch as you were found to be the wisest. You will also sit next to me and be called my kinsman.' †
-1ES.4:43 Then Zerubbabel said to the king, 'Remember the vow you swore on the day you received your kingdom to rebuild Jerusalem †
+1ES.4:42 Then the king said to him, 'Ask what you will, and let it be more than what is written; for we will give it to you, inasmuch as you were found to be the wisest. You will also sit next to me and be called my kinsman.'
+1ES.4:43 Then Zerubbabel said to the king, 'Remember the vow you swore on the day you received your kingdom to rebuild Jerusalem
 1ES.4:44 and to send back all the vessels taken from Jerusalem, the ones Cyrus removed when he vowed to destroy Babylon and vowed to send them back there?
 1ES.4:45 You also vowed to rebuild the temple which the Edomites set on fire when Judea was laid waste by the Chaldeans.
 1ES.4:46 Now this is what I consider worthy of you, O lord our king, and what I ask of you, for this befits your greatness. Therefore I beg of you that you keep the vow you vowed to the King of heaven from your own mouth.'
@@ -226,7 +226,7 @@ has_additions: false
 1ES.4:63 to go up and rebuild Jerusalem and the temple called by His name. Then they feasted with music and gladness for seven days.
 ## Chapter 5
 
-1ES.5:1 After this the heads of the paternal houses were chosen accor
+1ES.5:1 After this the heads of the paternal houses were chosen according to their tribes to go up, along with their wives, sons, and daughters, and their male and female servants, and their cattle.
 1ES.5:2 Darius also sent along one thousand cavalry with them, to bring them back to Jerusalem in peace and with the music of drums and flutes.
 1ES.5:3 All their kindred were dancing, for Darius arranged for them to go up with them as well.
 1ES.5:4 These are the names of the men who were their governors and who went up according to their paternal houses in the tribes:
@@ -235,7 +235,7 @@ has_additions: false
 1ES.5:7 They are the ones from Judea who went up from their sojourn in captivity and whom Nebuchadnezzar the king of Babylon resettled in Babylon.
 1ES.5:8 They returned to Jerusalem and the rest of Judea, each to his own city. They came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Hehum, and Baanah, their leaders.
 1ES.5:9 The number of those from the nation, including their leaders, were: the sons of Parosh, two thousand one hundred seventy-two;
-1ES.5:10 the sons of Shephatiah, four hundred seventytwo; the sons of A rah, seven hundred fifty-six;
+1ES.5:10 the sons of Shephatiah, four hundred seventy-two; the sons of Arah, seven hundred fifty-six;
 1ES.5:11 the sons of Pahath-Moab of the sons of Jeshua and Joab, two thousand eight hundred twelve;
 1ES.5:12 the sons of Elam, one thousand two hundred fifty-four; the sons of Zattu, nine hundred forty-five; the sons of Chorbe, seven hundred five; the sons of Bani, six hundred forty-eight;
 1ES.5:13 the sons of Bebai, six hundred twenty-three; the sons of Azgad, one thousand three hundred twenty-two;
@@ -253,7 +253,7 @@ has_additions: false
 1ES.5:25 the sons of Pashhur, one thousand two hundred forty-seven; the sons of Charme, one thousand seventeen.
 1ES.5:26 The Levites: the sons of Joshua and Kadmiel and Bannas and Sudias, seventy-four.
 1ES.5:27 The number of the temple singers were: the sons of Asaph, one hundred twenty-eight.
-1ES.5:28 The number of the gatekeepers were: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, in all one hundred thirtynine.
+1ES.5:28 The number of the gatekeepers were: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, in all one hundred thirty-nine.
 1ES.5:29 The number of the temple servants were: the sons of Esau, the sons of Hasupha, the sons of Tabbaoth, the sons of Keros, the sons of Sua, the sons of Padon, the sons of Lebanah, the sons of Hagabah,
 1ES.5:30 the sons of Akkub, the sons of Uthai, the sons of Ketab, the sons of Hagab, the sons of Subai, the sons of Hana, the sons of Cathua, the sons of Geddur,
 1ES.5:31 the sons of Jairus, the sons of Daisan, the sons of Noeba, the sons of Chezib, the sons of Gazera, the sons of Uzza, the sons of Phinoe, the sons of Hasrah, the sons of Basthai, the sons of Asnah, the sons of Maani, the sons of Nephisim, the sons of Acuph, the sons of Hakupha, the sons of Asur, the sons of Pharakim, the sons of Bazluth,
@@ -266,7 +266,7 @@ has_additions: false
 1ES.5:38 The priests who laid claim to the priesthood but were not found in the register were: the sons of Habaiah, the sons of Hakkoz, and the sons of Jaddus, who married Agia, one of the daughters of Barzillai, and was called by his name.
 1ES.5:39 So when a search into the lineage of these men was made in the register, and nothing was found, they were removed from the list to perform priestly service.
 1ES.5:40 Nehemiah and Attharias said they were not to partake in the holy things until a high priest arose wearing the Urim and the Thummim.
-1ES.5:41 All those from Israel from twelve years of age and older, apart from the male and female servants, were forty-two thousand three hundred sixty. Their male and female servants were seven thousand three hundred thirty-seven. Cantors and musicians were two hundred fortyfive.
+1ES.5:41 All those from Israel from twelve years of age and older, apart from the male and female servants, were forty-two thousand three hundred sixty. Their male and female servants were seven thousand three hundred thirty-seven. Cantors and musicians were two hundred forty-five.
 1ES.5:42 There were four hundred thirty-five camels, seven thousand thirty-six horses, two hundred forty-five mules, and five thousand five hundred twenty-five donkeys.
 1ES.5:43 Some of the heads of the paternal houses in Israel arrived at the temple of God in Jerusalem and vowed to the best of their ability to rebuild the house on its site,
 1ES.5:44 and to give to the temple treasury for its works: one thousand minas of gold, five thousand minas of silver, and one hundred priestly vestments.
@@ -280,7 +280,7 @@ has_additions: false
 1ES.5:49 Some of the other people from the land gathered with them in hostility, and all the people of the land were stronger than they. Yet they set up the altar in its place and offered sacrifices and whole burnt offerings to the Lord at the appointed times, morning and evening.
 1ES.5:50 They also kept the Feast of Tabernacles as commanded in the law, and they offered sacrifices every day as was fitting.
 1ES.5:51 After this they offered the daily sacrifices and the sacrifices of the Sabbaths, the new moons, and all the sacred feasts.
-1ES.5:52 As many as made avow to God began to offer sacrifices to Him from the new moon of the seventh month, but the temple of God was not built as yet.
+1ES.5:52 As many as made a vow to God began to offer sacrifices to Him from the new moon of the seventh month, but the temple of God was not built as yet.
 1ES.5:53 So they gave silver to the stone-cutters and the woodworkers, and food, drink, and conveyances to the Sidonians and Tyrians, to bring cedar trees from Lebanon, then float them on rafts to the harbor at Joppa, according to the ordinance written to them from King Cyrus of the Persians.
 1ES.5:54 Then in the second year and the second month after they came to the temple of God in Jerusalem, Zerubbabel the son of Shealtiel, Jeshua the son of Jozadak and their brothers, and the Levitical priests and all who came to Jerusalem from the captivity began the work.
 1ES.5:55 They laid the foundation of God's temple on the new moon of the second month in the second year after they arrived in Judea and Jerusalem.
@@ -308,7 +308,7 @@ has_additions: false
 1ES.5:71 They were halted from construction for two years until the reign of Darius.
 ## Chapter 6
 
-1ES.6:1 Now in the second year of the reign of Darius, the prophets t †
+1ES.6:1 Now in the second year of the reign of Darius, the prophets t
 1ES.6:2 Then Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak resumed building the house of the Lord in Jerusalem. The prophets of the Lord were with them and helped them.
 1ES.6:3 During this same time, Sisinnes, governor of Syria and Phoenicia, and Sathrabuzanes and his associates arrived and said,
 1ES.6:4 'By whose instruction are you building this house, the roof, and completing all these other things? Who are the builders accomplishing all this?'
@@ -364,7 +364,7 @@ has_additions: false
 
 ## Chapter 8
 
-1ES.8:1 Now Ezra was born after these events, when King Artaxerxes of the Persians was reigning. Ezra was the son of Seraiah, the son of Azariah, the son of Hilkiah, the son of Shallum †
+1ES.8:1 Now Ezra was born after these events, when King Artaxerxes of the Persians was reigning. Ezra was the son of Seraiah, the son of Azariah, the son of Hilkiah, the son of Shallum
 1ES.8:2 the son of Zadok, the son of Ahitub, the son of Amariah, the son of Uzzi, the son of Bukki, the son of Abishua, the son of Phineas, the son of Eleazar, the son of Aaron the high priest.
 1ES.8:3 This Ezra came up out of Babylon as a scribe well-versed in the Law of Moses given by the God of Israel.
 1ES.8:4 The king gave him honor, for he found favor before him in all his petitions.
@@ -426,7 +426,7 @@ has_additions: false
 1ES.8:54 Then I separated twelve men, Serebiah and Asabiah, chief leaders among the priests, and also ten men from among their brothers with them.
 1ES.8:55 I weighed out to them silver and gold, and the sacred vessels from the house of our Lord, which the king himself, his advisors, the nobles, and all Israel had given us.
 1ES.8:56 After weighing it, I delivered to them six hundred fifty talents of silver, silver vessels worth one hundred talents, one hundred talents of gold, twenty bowls of wrought gold, and twelve vessels made of fine bronze that glistened like gold.
-1ES.8:57 I said to them, 'You are set apart to the Lord, as are the sacred vessels and the silver and gold. They are avow to the Lord, to the Lord of our fathers.
+1ES.8:57 I said to them, 'You are set apart to the Lord, as are the sacred vessels and the silver and gold. They are a vow to the Lord, to the Lord of our fathers.
 1ES.8:58 Be alert and keep guard until you hand them over to the chief leaders among the priests and Levites, and to the heads of the paternal families of Israel in Jerusalem, to be put in the chambers of the house of our Lord.'
 1ES.8:59 Then the priests and Levites took the silver, the gold, and the vessels that had been in Jerusalem and carried them into the house of the Lord.
 1ES.8:60 We broke camp at the river Theras on the twelfth day of the first month and came to Jerusalem, the mighty hand of our Lord with us. He delivered us on the way from every enemy, and we entered Jerusalem.
@@ -434,10 +434,10 @@ has_additions: false
 1ES.8:62 Eleazar the son of Phineas was with him, as well as the Levites, Josabad the son of Joshua and Moeth the son of Sabannus. They counted the number and weight of everything, which was recorded at that very moment.
 1ES.8:63 Those who arrived from the captivity offered sacrifices to the Lord, the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-two lambs, and twelve male goats as a thank offering-all as a sacrifice to the Lord.
 1ES.8:64 Then they presented the king's ordinances to the royal stewards and governors of Coelesyria and Phoenicia, and they honored the people and the temple of the Lord.
-1ES.8:65 After this was done, the leaders came to me and said, †
+1ES.8:65 After this was done, the leaders came to me and said,
 1ES.8:66 'The people of Israel, the priests, and the Levites have not separated from the foreign peoples of the land and from their uncleanness: the Caananites, the Hittites, the Perizzites, the Jebusites, the Moabites, the Egyptians, and the Edomites.
 1ES.8:67 For they and their sons have married their daughters, and the holy seed has been mingled with the foreign peoples of the land; and from the beginning of this situation the leaders and the nobles have participated in this sin.'
-1ES.8:68 The moment I heard this, I tore my garments and my sacred apparel, pulled out hair from my head and beard, and sat down deep in turmoil and great sadness. †
+1ES.8:68 The moment I heard this, I tore my garments and my sacred apparel, pulled out hair from my head and beard, and sat down deep in turmoil and great sadness.
 1ES.8:69 Then as many as ever were moved by the word of the Lord of Israel, these gathered around me as I mourned over this lawlessness and sat in deep distress until the evening sacrifice.
 
 ### Ezra's Prayer to God
@@ -448,7 +448,7 @@ has_additions: false
 1ES.8:73 From the time of our fathers until this day, we are in great sin.
 1ES.8:74 Because of our iniquities and those of our fathers, we with our brothers, our kings, and our priests were handed over to the kings of the earth, to the sword, to captivity, to foraging, in shamefulness until this very day.
 1ES.8:75 'Now how great is the mercy that has come to us from You, O Lord! For You have left us a root and a name in this place of Your sanctuary,
-1ES.8:76 to unveil alight to us in the house of our Lord and God and to give us food in the time of our captivity.
+1ES.8:76 to unveil a light to us in the house of our Lord and God and to give us food in the time of our captivity.
 1ES.8:77 Even in our servitude we were never forsaken by our Lord, but He gave us favor with the kings of Persia
 1ES.8:78 who gave us food and honored the temple of our Lord. They also raised up Zion from destruction and gave us a firm footing in Judea and Jerusalem.
 1ES.8:79 'So now, what are we to say, O Lord, since we have these things? For we disobeyed Your ordinances which You gave by the hand of Your servants the prophets, who said,
@@ -473,10 +473,10 @@ has_additions: false
 
 1ES.9:1 Then Ezra arose from the court of the temple and went into the chamber of Jehohanan the son of Eliashib.
 1ES.9:2 He spent the night there and ate no bread nor drank any water, but mourned over the great lawlessness of the people.
-1ES.9:3 A proclamation went forth throughout all Judea and Jerusalem that everyone from the captivity should gather in Jerusalem. †
+1ES.9:3 A proclamation went forth throughout all Judea and Jerusalem that everyone from the captivity should gather in Jerusalem.
 1ES.9:4 But for those who would not meet in two or three days, according to the presiding elders, their cattle would be confiscated for sacrifice and the men themselves would be excluded from the people who returned from exile.
 1ES.9:5 So the men from the tribes of Judah and Benjamin gathered in Jerusalem on the third day, which was on the twentieth day of the ninth month.
-1ES.9:6 Because of the inclement weather, all the people sat down, shivering together in the spacious court outside the temple. †
+1ES.9:6 Because of the inclement weather, all the people sat down, shivering together in the spacious court outside the temple.
 
 ### Artaxerxes' Letter to Ezra
 
@@ -521,7 +521,7 @@ has_additions: false
 1ES.9:39 They asked Ezra the high priest and reader to bring the Law of Moses, which had been handed down by the Lord God of Israel.
 1ES.9:40 So Ezra the high priest brought the law for all the people-both men, women, and all the priests-to hear the law on the new moon of the seventh month.
 1ES.9:41 He read aloud in the open place before the temple gate from early morning to noonday in the presence of both men and women; and all the people paid attention to the law.
-1ES.9:42 Ezra the priest and reader of the law stood upon the wooden judgment seat that had been made ready. †
+1ES.9:42 Ezra the priest and reader of the law stood upon the wooden judgment seat that had been made ready.
 1ES.9:43 Mattathias, Shammous, Ananias, Azariah, Uriah, Hezekiah, and Baalsamus stood beside him at his right side.
 1ES.9:44 At his left side stood Pedaiah, Mishael, Melcaiah, Lothasubus, Nabariah, and Zechariah.
 1ES.9:45 Then Ezra took in hand the book of the law in the presence of the people, for he had the seat of honor before all of them;
@@ -530,8 +530,8 @@ has_additions: false
 1ES.9:48 The Levites, Jeshua, Anniuth, Sarabiah, Jadinus, Jakoubas, Sabbateus, Autias, Maiannas, Kalitas, Azariah and Jozabdas, Ananias, and Pelaiah, taught the law of the Lord. At the same time, they explained what was being read.
 1ES.9:49 Attarates then spoke to Ezra the high priest and reader, and to the Levites who taught the people, and to the multitude, saying,
 1ES.9:50 'This day is holy to the Lord' (now all were weeping when they heard the law),
-1ES.9:51 's ogo therefore and eat the fat and drink the sweet, and send a gift to those who have none.
+1ES.9:51 'So go therefore and eat the fat and drink the sweet, and send a gift to those who have none.
 1ES.9:52 For this day is holy to the Lord. Do not be grieved, for the Lord will honor you.'
 1ES.9:53 So the Levites gave a command to all the people, saying, 'This day is holy; do not be grieved.'
 1ES.9:54 Then everyone went on their way to eat and drink, to gladden themselves, to give gifts to those who were lacking, and to heartily rejoice.
-1ES.9:55 For they were inspired by the words which were taught to them, and they gathered together. †
+1ES.9:55 For they were inspired by the words which were taught to them, and they gathered together.

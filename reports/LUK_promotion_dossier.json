@@ -1,15 +1,13 @@
 {
   "book_code": "LUK",
   "testament": "NT",
-  "timestamp": "2026-03-11T05:55:45.984094",
+  "timestamp": "2026-03-11T16:39:43.458265",
   "registry_version": "1.3.0",
-  "body_checksum": "91d02dd87a1c1a902a364130b6c889529a0d4d1d346cb6f31ae9b38d8c2e1c0b",
+  "body_checksum": "1c4dd6e3f43bed3293375790a133e4696e0e7bcb9b28d61d1525fc3d582e770d",
   "validation": {
     "V1": {
-      "status": "FAIL",
-      "messages": [
-        "V1   8 duplicate anchor(s):"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V2": {
       "status": "WARN",
@@ -18,57 +16,20 @@
       ]
     },
     "V3": {
-      "status": "FAIL",
-      "messages": [
-        "V3   Chapter sequence broken at line 15: expected 1, got 0",
-        "V3   Chapter sequence broken at line 25: expected 2, got 1",
-        "V3   Chapter sequence broken at line 127: expected 3, got 2",
-        "V3   Chapter sequence broken at line 205: expected 4, got 3",
-        "V3   Chapter sequence broken at line 254: expected 5, got 4",
-        "V3   Chapter sequence broken at line 321: expected 6, got 5",
-        "V3   Chapter sequence broken at line 377: expected 7, got 6",
-        "V3   Chapter sequence broken at line 450: expected 8, got 7",
-        "V3   Chapter sequence broken at line 514: expected 9, got 8",
-        "V3   Chapter sequence broken at line 598: expected 10, got 9",
-        "V3   Chapter sequence broken at line 693: expected 11, got 10",
-        "V3   Chapter sequence broken at line 746: expected 12, got 11",
-        "V3   Chapter sequence broken at line 819: expected 13, got 12",
-        "V3   Chapter sequence broken at line 892: expected 14, got 13",
-        "V3   Chapter sequence broken at line 947: expected 15, got 14",
-        "V3   Chapter sequence broken at line 999: expected 16, got 15",
-        "V3   Chapter sequence broken at line 1042: expected 17, got 16",
-        "V3   Chapter sequence broken at line 1084: expected 18, got 17",
-        "V3   Chapter sequence broken at line 1133: expected 19, got 18",
-        "V3   Chapter sequence broken at line 1199: expected 20, got 19",
-        "V3   Chapter sequence broken at line 1264: expected 21, got 20",
-        "V3   Chapter sequence broken at line 1331: expected 22, got 21",
-        "V3   Chapter sequence broken at line 1389: expected 23, got 22",
-        "V3   Chapter sequence broken at line 1495: expected 24, got 23",
-        "V3   Chapter sequence broken at line 1575: expected 25, got 24"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V4": {
-      "status": "FAIL",
+      "status": "WARN",
       "messages": [
-        "V4   Verse goes backward in ch.4 at line 315: verse 42 after verse 43",
-        "V4   Verse goes backward in ch.8 at line 561: verse 26 after verse 27",
-        "V4   Verse goes backward in ch.9 at line 628: verse 21 after verse 22",
-        "V4   Verse goes backward in ch.22 at line 1449: verse 39 after verse 40",
-        "V4   Missing verses in ch.1: jumps from 1 to 5",
-        "V4   Missing verses in ch.1: jumps from 8 to 10",
         "V4   Missing verses in ch.2: jumps from 23 to 25",
         "V4   Missing verses in ch.3: jumps from 1 to 3",
-        "V4   Missing verses in ch.4: jumps from 1 to 3",
         "V4   Missing verses in ch.4: jumps from 10 to 12",
-        "V4   Missing verses in ch.6: jumps from 3 to 5",
         "V4   Missing verses in ch.6: jumps from 27 to 29",
         "V4   Missing verses in ch.8: jumps from 43 to 45",
-        "V4   Missing verses in ch.9: jumps from 30 to 32",
         "V4   Missing verses in ch.16: jumps from 20 to 22",
         "V4   Missing verses in ch.19: jumps from 45 to 47",
-        "V4   Missing verses in ch.21: jumps from 25 to 27",
-        "V4   Missing verses in ch.23: jumps from 13 to 16",
-        "V4   Missing verses in ch.23: jumps from 18 to 20"
+        "V4   Missing verses in ch.23: jumps from 13 to 15"
       ]
     },
     "V5": {
@@ -82,36 +43,18 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 1146/1151 verses (99.6%); gap of 5"
+        "V7   Completeness: 1156/1151 verses (100.4%); gap of -5"
       ]
     },
     "V8": {
       "status": "WARN",
       "messages": [
-        "V8   Heading density: 141 headings / 25 chapters (5.6/ch)"
+        "V8   Heading density: 139 headings / 25 chapters (5.6/ch)"
       ]
     },
     "V9": {
-      "status": "FAIL",
-      "messages": [
-        "V9   Embedded verse LUK.1:2 found inside LUK.1:1 at line 30",
-        "V9   Embedded verse LUK.1:3 found inside LUK.1:1 at line 30",
-        "V9   Embedded verse LUK.1:4 found inside LUK.1:1 at line 30",
-        "V9   Embedded verse LUK.1:9 found inside LUK.1:8 at line 34",
-        "V9   Embedded verse LUK.2:24 found inside LUK.2:23 at line 160",
-        "V9   Embedded verse LUK.3:2 found inside LUK.3:1 at line 207",
-        "V9   Embedded verse LUK.4:2 found inside LUK.4:1 at line 256",
-        "V9   Embedded verse LUK.6:4 found inside LUK.6:3 at line 381",
-        "V9   Embedded verse LUK.6:28 found inside LUK.6:27 at line 419",
-        "V9   Embedded verse LUK.8:44 found inside LUK.8:43 at line 581",
-        "V9   Embedded verse LUK.9:31 found inside LUK.9:30 at line 640",
-        "V9   Embedded verse LUK.16:21 found inside LUK.16:20 at line 1069",
-        "V9   Embedded verse LUK.19:46 found inside LUK.19:45 at line 1257",
-        "V9   Embedded verse LUK.21:26 found inside LUK.21:25 at line 1366",
-        "V9   Embedded verse LUK.23:14 found inside LUK.23:13 at line 1515",
-        "V9   Embedded verse LUK.23:15 found inside LUK.23:13 at line 1515",
-        "V9   Embedded verse LUK.23:19 found inside LUK.23:18 at line 1518"
-      ]
+      "status": "PASS",
+      "messages": []
     }
   },
   "residuals_sidecar": null,

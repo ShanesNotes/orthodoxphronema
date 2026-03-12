@@ -47,7 +47,7 @@ KNOWN_SPLIT_JOIN_WORDS = {
     "slave", "sleeve", "solve", "starve", "stave", "stove", "strive", "strove",
     "survive", "swerve",
     "thieve", "thrive", "throve", "trove", "twelve",
-    "valve", "verve", "vine", "vive",
+    "valley", "valve", "verve", "vine", "vive",
     "waive", "wave", "weave", "wive", "wove",
 }
 

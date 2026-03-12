@@ -13,10 +13,12 @@ class ChapterTracker:
     fallback catches missed advances when Docling drops >20% of verses.
     """
 
-    def __init__(self, chapter_verse_counts: dict[int, int] | None = None):
+    def __init__(self, chapter_verse_counts: dict[int, int] | None = None,
+                 max_chapters: int | None = None):
         self.current_chapter = 0
         self.current_verse = 0
         self._cvc: dict[int, int] = chapter_verse_counts or {}
+        self._max_chapters: int | None = max_chapters
 
     def max_verse(self, ch: int) -> int:
         """Return expected verse count for chapter ch (0 if unknown)."""
@@ -31,6 +33,9 @@ class ChapterTracker:
           - Backward signal: candidate < current_verse AND current_verse >= 60% of max_v
         """
         if candidate_chapter != self.current_chapter + 1:
+            return False
+
+        if self._max_chapters and candidate_chapter > self._max_chapters:
             return False
 
         max_v = self.max_verse(self.current_chapter)

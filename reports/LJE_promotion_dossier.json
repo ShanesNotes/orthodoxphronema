@@ -1,7 +1,7 @@
 {
   "book_code": "LJE",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:01:42.716308",
+  "timestamp": "2026-03-11T16:09:36.574870",
   "registry_version": "1.3.0",
   "body_checksum": "d82e92f4d41a014489dedd80a7f4501d64067ce029d15a90bcf13ca1586ba989",
   "validation": {
@@ -34,8 +34,10 @@
       "messages": []
     },
     "V8": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V8   Heading density: 6 headings / 1 chapters (6.0/ch)"
+      ]
     },
     "V9": {
       "status": "PASS",
@@ -43,5 +45,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

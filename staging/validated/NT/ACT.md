@@ -17,8 +17,9 @@ has_additions: false
 
 ### Days 1-39: Jesus' Promise of the Holy Spirit
 
-ACT.1:1 he former account I made, O Theophilus, of all that Jesus began both to do and teach, 2 until the day in which He was taken up, after He through the Holy Spirit had given commandments to the apostles whom He had chosen,
-ACT.1:2 3 to whom He also presented Himself alive after His suffering by many infallible proofs, being seen by them during forty days and speaking of the things pertaining to the kingdom of God.
+ACT.1:1 The former account I made, O Theophilus, of all that Jesus began both to do and teach,
+ACT.1:2 until the day in which He was taken up, after He through the Holy Spirit had given commandments to the apostles whom He had chosen,
+ACT.1:3 to whom He also presented Himself alive after His suffering by many infallible proofs, being seen by them during forty days and speaking of the things pertaining to the kingdom of God.
 ACT.1:4 And being assembled together with them, He commanded them not to depart from Jerusalem, but to wait for the Promise of the Father, 'which,' He said, 'you have heard from Me;
 ACT.1:5 for John truly baptized with water, but you shall be baptized with the Holy Spirit not many days from now.'
 ACT.1:6 Therefore, when they had come together, they asked Him, saying, 'Lord, will You at this time restore the kingdom to Israel?'
@@ -31,7 +32,8 @@ ACT.1:9 Now when He had spoken these things, while they watched, He was taken up
 
 ### Days 40-49: Preparation for Pentecost
 
-ACT.1:10 And while they looked steadfastly toward heaven as He went up, behold, two men stood by them in white apparel, 11 who also said, 'Men of Galilee, why do you stand gazing up into heaven? This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven.'
+ACT.1:10 And while they looked steadfastly toward heaven as He went up, behold, two men stood by them in white apparel,
+ACT.1:11 who also said, 'Men of Galilee, why do you stand gazing up into heaven? This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven.'
 ACT.1:12 Then they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a Sabbath day's journey.
 ACT.1:13 And when they had entered, they went up into the upper room where they were staying: Peter, James, John, and Andrew; Philip and Thomas; Bartholomew and Matthew; James the son of Alphaeus and Simon the Zealot; and Judas the son of James.
 ACT.1:14 These all continued with one accord in prayer and supplication, awith the women and Mary the mother of Jesus, and with His brothers.
@@ -40,7 +42,8 @@ ACT.1:16 'Men and brethren, this Scripture had to be fulfilled, which the Holy S
 ACT.1:17 for he was numbered with us and obtained apart in this ministry.'
 ACT.1:18 (Now this man purchased afield with the wages of iniquity; and falling headlong, he burst open in the middle and all his entrails gushed out.
 ACT.1:19 And it became known to all those dwelling in Jerusalem; so that field is called in their own language, Akel Dama, that is, Field of Blood.) 'Let his dwelling place be desolate, And let no one live in it'; a and, 'Let b another take his office.' c†
-ACT.1:21 'Therefore, of these men who have accompanied us all the time that the Lord Jesus went in and out among us, 22 beginning from the baptism of John to that day when He was taken up from us, one of these must become awitness with us of His resurrection.'
+ACT.1:21 'Therefore, of these men who have accompanied us all the time that the Lord Jesus went in and out among us,
+ACT.1:22 beginning from the baptism of John to that day when He was taken up from us, one of these must become awitness with us of His resurrection.'
 ACT.1:23 And they proposed two: Joseph called Barsabas, who was surnamed Justus, and Matthias.
 ACT.1:24 And they prayed and said, 'You, O Lord, who know the hearts of all, show which of these two You have chosen
 ACT.1:25 to take part in this ministry and apostleship from which Judas by transgression fell, that he might go to his own place.'
@@ -87,7 +90,8 @@ ACT.2:26 Therefore my heart rejoiced, and my tongue was glad; Moreover my flesh 
 ACT.2:27 For You will not leave my soul in Hades, Nor will You allow Your Holy One to see corruption.
 ACT.2:28 You have made known to me the ways of life; You will make me full of joy in Your presence.' a
 ACT.2:29 'Men and brethren, let me speak freely to you of the patriarch David, that he is both dead and buried, and his tomb is with us to this day.
-ACT.2:30 Therefore, being aprophet, and knowing that God had sworn with an oath to him that of the fruit of his body, according to the flesh, He would raise up the Christ to sit on his throne, a 31 he, foreseeing this, spoke concerning the resurrection of the Christ, that His soul was not left in Hades, nor did His flesh see corruption.
+ACT.2:30 Therefore, being aprophet, and knowing that God had sworn with an oath to him that of the fruit of his body, according to the flesh, He would raise up the Christ to sit on his throne, a
+ACT.2:31 he, foreseeing this, spoke concerning the resurrection of the Christ, that His soul was not left in Hades, nor did His flesh see corruption.
 ACT.2:32 This Jesus God has raised up, of which we are all witnesses.
 ACT.2:33 Therefore being exalted to the right hand of God, and having received from the Father the promise of the Holy Spirit, He poured out this which you now see and hear.
 ACT.2:34 'For David did not ascend into the heavens, but he says himself: 'The Lord said to my Lord, 'Sit at My right hand,
@@ -114,11 +118,13 @@ ACT.2:45 and sold their possessions and goods, and divided them among all, as an
 
 ### Evangelism: A Lame Man Is Healed
 
-ACT.2:46 So continuing daily with one accord in the temple, and breaking bread from house to house, they ate their food with gladness and simplicity of heart, 47 praising God and having favor with all the people. And the Lord added to the church adaily those who were being saved.
+ACT.2:46 So continuing daily with one accord in the temple, and breaking bread from house to house, they ate their food with gladness and simplicity of heart,
+ACT.2:47 praising God and having favor with all the people. And the Lord added to the church adaily those who were being saved.
 ## Chapter 3
 
 ACT.3:1 ow Peter and John went up together to the temple at the hour of prayer, the ninth hour.
-ACT.3:2 And acertain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms from those who entered the temple; 3 who, seeing Peter and John about to go into the temple, asked for alms.
+ACT.3:2 And acertain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms from those who entered the temple;
+ACT.3:3 who, seeing Peter and John about to go into the temple, asked for alms.
 ACT.3:4 And fixing his eyes on him, with John, Peter said, 'Look at us.'
 ACT.3:5 So he gave them his attention, expecting to receive something from them.
 ACT.3:6 Then Peter said, 'Silver and gold I do not have, but what I do have I give you: In the name of Jesus Christ of Nazareth, rise up and walk.'
@@ -138,7 +144,8 @@ ACT.3:16 And His name, through faith in His name, has made this man strong, whom
 ACT.3:17 'Yet now, brethren, I know that you did it in ignorance, as did also your rulers.
 ACT.3:18 But those things which God foretold by the mouth of all His prophets, that the Christ would suffer, He has thus fulfilled.
 ACT.3:19 Repent therefore and be converted, that your sins may be blotted out, so that times of refreshing may come from the presence of the Lord,
-ACT.3:20 and that He may send Jesus Christ, who was preached to you before, a 21 whom heaven must receive until the times of restoration of all things, which God has spoken by the mouth of all His holy prophets since the world began.
+ACT.3:20 and that He may send Jesus Christ, who was preached to you before, a
+ACT.3:21 whom heaven must receive until the times of restoration of all things, which God has spoken by the mouth of all His holy prophets since the world began.
 ACT.3:22 For Moses truly said to the fathers, 'The L ORD your God will raise up for you a Prophet like me from your brethren. Him you shall hear in all things, whatever He says to you.
 ACT.3:23 And it shall be that every soul who will not hear that Prophet shall be utterly destroyed from among the people.' a
 ACT.3:24 Yes, and all the prophets, from Samuel and those who follow, as many as have spoken, have also foretold athese days.
@@ -149,7 +156,8 @@ ACT.3:25 You are sons of the prophets, and of the covenant which God made with o
 ACT.3:26 To you first, God, having raised up His Servant Jesus, sent Him to bless you, in turning away every one of you from your iniquities.'
 ## Chapter 4
 
-ACT.4:1 ow as they spoke to the people, the priests, the captain of the temple, and the Sadducees came upon them, 2 being greatly disturbed that they taught the people and preached in Jesus the resurrection from the dead.
+ACT.4:1 ow as they spoke to the people, the priests, the captain of the temple, and the Sadducees came upon them,
+ACT.4:2 being greatly disturbed that they taught the people and preached in Jesus the resurrection from the dead.
 ACT.4:3 And they laid hands on them, and put them in custody until the next day, for it was already evening.
 
 ### Before the Sanhedrin
@@ -177,11 +185,13 @@ ACT.4:21 So when they had further threatened them, they let them go, finding no 
 
 ACT.4:22 For the man was over forty years old on whom this miracle of healing had been performed.
 ACT.4:23 And being let go, they went to their own companions and reported all that the chief priests and elders had said to them.
-ACT.4:24 So when they heard that, they raised their voice to God with one accord and said: 'Lord, You are God, who made heaven and earth and the sea, and all that is in them, 25 who by the mouth of Your servant David ahave said: 'Why did the nations rage, And the people plot vain things?
+ACT.4:24 So when they heard that, they raised their voice to God with one accord and said: 'Lord, You are God, who made heaven and earth and the sea, and all that is in them,
+ACT.4:25 who by the mouth of Your servant David ahave said: 'Why did the nations rage, And the people plot vain things?
 ACT.4:26 The kings of the earth took their stand, And the rulers were gathered together Against the LORD and against His Christ.' a
 ACT.4:27 'For truly against Your holy Servant Jesus, whom You anointed, both Herod and Pontius Pilate, with the Gentiles and the people of Israel, were gathered together
 ACT.4:28 to do whatever Your hand and Your purpose determined before to be done.
-ACT.4:29 Now, Lord, look on their threats, and grant to Your servants that with all boldness they may speak Your word, 30 by stretching out Your hand to heal, and that signs and wonders may be done through the name of Your holy Servant Jesus.'
+ACT.4:29 Now, Lord, look on their threats, and grant to Your servants that with all boldness they may speak Your word,
+ACT.4:30 by stretching out Your hand to heal, and that signs and wonders may be done through the name of Your holy Servant Jesus.'
 
 ### Giving for the Common Good
 
@@ -193,7 +203,8 @@ ACT.4:35 and laid them at the apostles' feet; and they distributed to each as an
 
 ### Ananias and Sapphira
 
-ACT.4:36 And Joses, awho was also named Barnabas by the apostles (which is translated Son of Encouragement), a Levite of the country of Cyprus, 37 having land, sold it, and brought the money and laid it at the apostles' feet.
+ACT.4:36 And Joses, awho was also named Barnabas by the apostles (which is translated Son of Encouragement), a Levite of the country of Cyprus,
+ACT.4:37 having land, sold it, and brought the money and laid it at the apostles' feet.
 ## Chapter 5
 
 ACT.5:1 ut acertain man named Ananias, with Sapphira his wife, sold apossession.
@@ -291,7 +302,8 @@ ACT.7:13 And the second time Joseph was made known to his brothers, and Joseph's
 ACT.7:14 Then Joseph sent and called his father Jacob and all his relatives to him, seventy-five apeople.
 ACT.7:15 So Jacob went down to Egypt; and he died, he and our fathers.
 ACT.7:16 And they were carried back to Shechem and laid in the tomb that Abraham bought for asum of money from the sons of Hamor, the father of Shechem.
-ACT.7:17 'But when the time of the promise drew near which God had sworn to Abraham, the people grew and multiplied in Egypt 18 till another king arose who did not know Joseph.
+ACT.7:17 'But when the time of the promise drew near which God had sworn to Abraham, the people grew and multiplied in Egypt
+ACT.7:18 till another king arose who did not know Joseph.
 ACT.7:19 This man dealt treacherously with our people, and oppressed our forefathers, making them expose their babies, so that they might not live.
 ACT.7:20 At this time Moses was born, and was well pleasing to God; and he was brought up in his father's house for three months.
 ACT.7:21 But when he was set out, Pharaoh's daughter took him away and brought him up as her own son.
@@ -318,7 +330,8 @@ ACT.7:41 And they made acalf in those days, offered sacrifices to the idol, and 
 ACT.7:42 Then God turned and gave them up to worship the host of heaven, as it is written in the book of the Prophets: 'Did you offer Me slaughtered animals and sacrifices during forty years in the wilderness, O house of Israel?
 ACT.7:43 You also took up the tabernacle of Moloch, And the star of your god Remphan, Images which you made to worship; And I will carry you away beyond Babylon.' a
 ACT.7:44 'Our fathers had the tabernacle of witness in the wilderness, as He appointed, instructing Moses to make it according to the pattern that he had seen,
-ACT.7:45 which our fathers, having received it in turn, also brought with Joshua into the land possessed by the Gentiles, whom God drove out before the face of our fathers until the days of David, 46 who found favor before God and asked to find adwelling for the God of Jacob.
+ACT.7:45 which our fathers, having received it in turn, also brought with Joshua into the land possessed by the Gentiles, whom God drove out before the face of our fathers until the days of David,
+ACT.7:46 who found favor before God and asked to find adwelling for the God of Jacob.
 ACT.7:47 But Solomon built Him ahouse.
 ACT.7:48 'However, the Most High does not dwell in temples made with hands, as the prophet says:
 ACT.7:49 'Heaven is My throne, And earth is My footstool. What house will you build for Me? says the LORD, Or what is the place of My rest?
@@ -327,7 +340,8 @@ ACT.7:51 ' You stiff-necked and uncircumcised in heart and ears! You always resi
 
 ### Stephen's Martyrdom
 
-ACT.7:52 Which of the prophets did your fathers not persecute? And they killed those who foretold the coming of the Just One, of whom you now have become the betrayers and murderers, 53 who have received the law by the direction of angels and have not kept it. '
+ACT.7:52 Which of the prophets did your fathers not persecute? And they killed those who foretold the coming of the Just One, of whom you now have become the betrayers and murderers,
+ACT.7:53 who have received the law by the direction of angels and have not kept it. '
 ACT.7:54 When they heard these things they were cut to the heart, and they gnashed at him with their teeth.
 ACT.7:55 But he, being full of the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at the right hand of God,
 ACT.7:56 and said, 'Look! I see the heavens opened and the Son of Man standing at the right hand of God!'
@@ -359,7 +373,8 @@ ACT.8:12 But when they believed Philip as he preached the things concerning the 
 ### The Samaritan Pentecost
 
 ACT.8:13 Then Simon himself also believed; and when he was baptized he continued with Philip, and was amazed, seeing the miracles and signs which were done.
-ACT.8:14 Now when the apostles who were at Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them, 15 who, when they had come down, prayed for them that they might receive the Holy Spirit.
+ACT.8:14 Now when the apostles who were at Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them,
+ACT.8:15 who, when they had come down, prayed for them that they might receive the Holy Spirit.
 ACT.8:16 For as yet He had fallen upon none of them. They had only been baptized in the name of the Lord Jesus.
 ACT.8:17 Then they laid hands on them, and they received the Holy Spirit.
 ACT.8:18 And when Simon saw that through the laying on of the apostles' hands the Holy Spirit was given, he offered them money,
@@ -374,7 +389,8 @@ ACT.8:24 Then Simon answered and said, 'Pray to the Lord for me, that none of th
 
 ACT.8:25 So when they had testified and preached the word of the Lord, they returned to Jerusalem, preaching the gospel in many villages of the Samaritans.
 ACT.8:26 Now an angel of the Lord spoke to Philip, saying, 'Arise and go toward the south along the road which goes down from Jerusalem to Gaza.' This is desert.
-ACT.8:27 So he arose and went. And behold, aman of Ethiopia, aeunuch of great authority under Candace the queen of the Ethiopians, who had charge of all her treasury, and had come to Jerusalem to worship, 28 was returning. And sitting in his chariot, he was reading Isaiah the prophet.
+ACT.8:27 So he arose and went. And behold, aman of Ethiopia, aeunuch of great authority under Candace the queen of the Ethiopians, who had charge of all her treasury, and had come to Jerusalem to worship,
+ACT.8:28 was returning. And sitting in his chariot, he was reading Isaiah the prophet.
 ACT.8:29 Then the Spirit said to Philip, 'Go near and overtake this chariot.'
 ACT.8:30 So Philip ran to him, and heard him reading the prophet Isaiah, and said, 'Do you understand what you are reading?'
 ACT.8:31 And he said, 'How can I, unless someone guides me?' And he asked Philip to come up and sit with him.
@@ -449,7 +465,8 @@ ACT.9:42 And it became known throughout all Joppa, and many believed on the Lord
 ACT.9:43 So it was that he stayed many days in Joppa with Simon, atanner.
 ## Chapter 10
 
-ACT.10:1 here was acertain man in Caesarea called Cornelius, acenturion of what was called the Italian Regiment, 2 adevout man and one who feared God with all his household, who gave alms generously to the people, and prayed to God always.
+ACT.10:1 here was acertain man in Caesarea called Cornelius, acenturion of what was called the Italian Regiment,
+ACT.10:2 adevout man and one who feared God with all his household, who gave alms generously to the people, and prayed to God always.
 ACT.10:3 About the ninth hour of the day he saw clearly in avision an angel of God coming in and saying to him, 'Cornelius!'
 ACT.10:4 And when he observed him, he was afraid, and said, 'What is it, lord?'
 ACT.10:5 So he said to him, 'Your prayers and your alms have come up for amemorial before God. Now send men to Joppa, and send for Simon whose surname is Peter.
@@ -490,9 +507,11 @@ ACT.10:33 So I sent to you immediately, and you have done well to come. Now ther
 ACT.10:34 Then Peter opened his mouth and said: 'In truth I perceive that God shows no partiality.
 ACT.10:35 But in every nation whoever fears Him and works righteousness is accepted by Him.
 ACT.10:36 The word which God sent to the children of Israel, preaching peace through Jesus Christ-He is Lord of all-
-ACT.10:37 that word you know, which was proclaimed throughout all Judea, and began from Galilee after the baptism which John preached: 38 how God anointed Jesus of Nazareth with the Holy Spirit and with power, who went about doing good and healing all who were oppressed by the devil, for God was with Him.
+ACT.10:37 that word you know, which was proclaimed throughout all Judea, and began from Galilee after the baptism which John preached:
+ACT.10:38 how God anointed Jesus of Nazareth with the Holy Spirit and with power, who went about doing good and healing all who were oppressed by the devil, for God was with Him.
 ACT.10:39 And we are witnesses of all things which He did both in the land of the Jews and in Jerusalem, whom they akilled by hanging on atree.
-ACT.10:40 Him God raised up on the third day, and showed Him openly, 41 not to all the people, but to witnesses chosen before by God, even to us who ate and drank with Him after He arose from the dead.
+ACT.10:40 Him God raised up on the third day, and showed Him openly,
+ACT.10:41 not to all the people, but to witnesses chosen before by God, even to us who ate and drank with Him after He arose from the dead.
 ACT.10:42 And He commanded us to preach to the people, and to testify that it is He who was ordained by God to be Judge of the living and the dead.
 
 ### The Gentile Pentecost
@@ -520,7 +539,8 @@ ACT.11:9 But the voice answered me again from heaven, 'What God has cleansed you
 ACT.11:10 Now this was done three times, and all were drawn up again into heaven.
 ACT.11:11 At that very moment, three men stood before the house where I was, having been sent to me from Caesarea.
 ACT.11:12 Then the Spirit told me to go with them, doubting nothing. Moreover these six brethren accompanied me, and we entered the man's house.
-ACT.11:13 And he told us how he had seen an angel standing in his house, who said to him, 'Send men to Joppa, and call for Simon whose surname is Peter, 14 who will tell you words by which you and all your household will be saved.'
+ACT.11:13 And he told us how he had seen an angel standing in his house, who said to him, 'Send men to Joppa, and call for Simon whose surname is Peter,
+ACT.11:14 who will tell you words by which you and all your household will be saved.'
 ACT.11:15 And as I began to speak, the Holy Spirit fell upon them, as upon us at the beginning.
 ACT.11:16 Then I remembered the word of the Lord, how He said, 'John indeed baptized with water, but you shall be baptized with the Holy Spirit.'
 ACT.11:17 If therefore God gave them the same gift as He gave us when we believed on the Lord Jesus Christ, who was I that I could withstand God?'
@@ -589,7 +609,8 @@ ACT.13:2 As they ministered to the Lord and fasted, the Holy Spirit said, 'Now s
 ACT.13:3 Then, having fasted and prayed, and laid hands on them, they sent them away.
 ACT.13:4 So, being sent out by the Holy Spirit, they went down to Seleucia, and from there they sailed to Cyprus.
 ACT.13:5 And when they arrived in Salamis, they preached the word of God in the synagogues of the Jews. They also had John as their assistant.
-ACT.13:6 Now when they had gone through the island ato Paphos, they found acertain sorcerer, afalse prophet, a Jew whose name was Bar-Jesus, 7 who was with the proconsul, Sergius Paulus, an intelligent man. This man called for Barnabas and Saul and sought to hear the word of God.
+ACT.13:6 Now when they had gone through the island ato Paphos, they found acertain sorcerer, afalse prophet, a Jew whose name was Bar-Jesus,
+ACT.13:7 who was with the proconsul, Sergius Paulus, an intelligent man. This man called for Barnabas and Saul and sought to hear the word of God.
 ACT.13:8 But Elymas the sorcerer (for so his name is translated) withstood them, seeking to turn the proconsul away from the faith.
 ACT.13:9 Then Saul, who also is called Paul, filled with the Holy Spirit, looked intently at him
 ACT.13:10 and said, 'O full of all deceit and all fraud, you son of the devil, you enemy of all righteousness, will you not cease perverting the straight ways of the Lord?
@@ -607,7 +628,9 @@ ACT.13:18 Now for atime of about forty years He put up with their ways in the wi
 ACT.13:19 And when He had destroyed seven nations in the land of Canaan, He distributed their land to them by allotment.
 ACT.13:20 'After that He gave them judges for about four hundred and fifty years, until Samuel the prophet.
 ACT.13:21 And afterward they asked for aking; so God gave them Saul the son of Kish, aman of the tribe of Benjamin, for forty years.
-ACT.13:22 And when He had removed him, He raised up for them David as king, to whom also He gave testimony and said,' I have found David athe son of Jesse, aman after My own heart, who will do all My will.' b23 />From this man's seed, according to the promise, God raised up for Israel a Savior-Jesus- a 24 after John had first preached, before His coming, the baptism of repentance to all the people of Israel.
+ACT.13:22 And when He had removed him, He raised up for them David as king, to whom also He gave testimony and said, 'I have found David athe son of Jesse, aman after My own heart, who will do all My will.' b
+ACT.13:23 From this man's seed, according to the promise, God raised up for Israel a Savior-Jesus- a
+ACT.13:24 after John had first preached, before His coming, the baptism of repentance to all the people of Israel.
 ACT.13:25 And as John was finishing his course, he said, 'Who do you think I am? I am not He. But behold, there comes One after me, the sandals of whose feet I am not worthy to loose.'
 ACT.13:26 'Men and brethren, sons of the family of Abraham, and those among you who fear God, to you the word of this salvation has been sent.
 ACT.13:27 For those who dwell in Jerusalem, and their rulers, because they did not know Him, nor even the voices of the Prophets which are read every Sabbath, have fulfilled them in condemning Him.
@@ -654,12 +677,14 @@ ACT.14:6 they became aware of it and fled to Lystra and Derbe, cities of Lycaoni
 
 ACT.14:7 And they were preaching the gospel there.
 ACT.14:8 And in Lystra acertain man without strength in his feet was sitting, acripple from his mother's womb, who had never walked.
-ACT.14:9 This man heard Paul speaking. Paul, observing him intently and seeing that he had faith to be healed, 10 said with aloud voice, 'Stand up straight on your feet!' And he leaped and walked.
+ACT.14:9 This man heard Paul speaking. Paul, observing him intently and seeing that he had faith to be healed,
+ACT.14:10 said with aloud voice, 'Stand up straight on your feet!' And he leaped and walked.
 ACT.14:11 Now when the people saw what Paul had done, they raised their voices, saying in the Lycaonian language, 'The gods have come down to us in the likeness of men!'
 ACT.14:12 And Barnabas they called Zeus, and Paul, Hermes, because he was the chief speaker.
 ACT.14:13 Then the priest of Zeus, whose temple was in front of their city, brought oxen and garlands to the gates, intending to sacrifice with the multitudes.
 ACT.14:14 But when the apostles Barnabas and Paul heard this, they tore their clothes and ran in among the multitude, crying out
-ACT.14:15 and saying, 'Men, why are you doing these things? We also are men with the same nature as you, and preach to you that you should turn from these useless things to the living God, who made the heaven, the earth, the sea, and all things that are in them, 16 who in bygone generations allowed all nations to walk in their own ways.
+ACT.14:15 and saying, 'Men, why are you doing these things? We also are men with the same nature as you, and preach to you that you should turn from these useless things to the living God, who made the heaven, the earth, the sea, and all things that are in them,
+ACT.14:16 who in bygone generations allowed all nations to walk in their own ways.
 ACT.14:17 Nevertheless He did not leave Himself without witness, in that He did good, gave us rain from heaven and fruitful seasons, filling our hearts with food and gladness.'
 ACT.14:18 And with these sayings they could scarcely restrain the multitudes from sacrificing to them.
 ACT.14:19 Then Jews from Antioch and Iconium came there; and having persuaded the multitudes, they stoned Paul and dragged him out of the city, supposing him to be dead.
@@ -667,7 +692,8 @@ ACT.14:19 Then Jews from Antioch and Iconium came there; and having persuaded th
 ### Return Visit
 
 ACT.14:20 However, when the disciples gathered around him, he rose up and went into the city. And the next day he departed with Barnabas to Derbe.
-ACT.14:21 And when they had preached the gospel to that city and made many disciples, they returned to Lystra, Iconium, and Antioch, 22 strengthening the souls of the disciples, exhorting them to continue in the faith, and saying, 'We must through many tribulations enter the kingdom of God.'
+ACT.14:21 And when they had preached the gospel to that city and made many disciples, they returned to Lystra, Iconium, and Antioch,
+ACT.14:22 strengthening the souls of the disciples, exhorting them to continue in the faith, and saying, 'We must through many tribulations enter the kingdom of God.'
 ACT.14:23 So when they had appointed elders in every church, and prayed with fasting, they commended them to the Lord in whom they had believed.
 ACT.14:24 And after they had passed through Pisidia, they came to Pamphylia.
 
@@ -712,7 +738,8 @@ ACT.15:21 For Moses has had throughout many generations those who preach him in 
 ACT.15:22 Then it pleased the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas, namely, Judas who was also named Barsabas, aand Silas, leading men among the brethren.
 ACT.15:23 The apostles, the elders, and the brethren, To the brethren who are of the Gentiles in Antioch, Sy ria, and Cilicia: Greetings.
 ACT.15:24 Since we have heard that some who went out from us have troubled you with words, unsettling your souls, saying, ' You must be circumcised and keep the law' a -to whom we gave no such commandment-
-ACT.15:25 it seemed good to us, being assembled with one accord, to send chosen men to you with our beloved Barnabas and Paul, 26 men who have risked their lives for the name of our Lord Jesus Christ.
+ACT.15:25 it seemed good to us, being assembled with one accord, to send chosen men to you with our beloved Barnabas and Paul,
+ACT.15:26 men who have risked their lives for the name of our Lord Jesus Christ.
 ACT.15:27 We have therefore sent Judas and Silas, who will also report the same things by word of mouth.
 ACT.15:28 For it seemed good to the Holy Spirit, and to us, to lay upon you no greater burden than these necessary things:
 ACT.15:29 that you abstain from things offered to idols, from blood, from things strangled, and from sexual immorality. a If you keep yourselves from these, you will do well.
@@ -800,7 +827,8 @@ ACT.16:40 So they went out of the prison and entered the house of Lydia; and whe
 ## Chapter 17
 
 ACT.17:1 ow when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was asynagogue of the Jews.
-ACT.17:2 Then Paul, as his custom was, went in to them, and for three Sabbaths reasoned with them from the Scriptures, 3 explaining and demonstrating that the Christ had to suffer and rise again from the dead, and saying, 'This Jesus whom I preach to you is the Christ.'
+ACT.17:2 Then Paul, as his custom was, went in to them, and for three Sabbaths reasoned with them from the Scriptures,
+ACT.17:3 explaining and demonstrating that the Christ had to suffer and rise again from the dead, and saying, 'This Jesus whom I preach to you is the Christ.'
 ACT.17:4 And some of them were persuaded; and agreat multitude of the devout Greeks, and not afew of the leading women, joined Paul and Silas.
 ACT.17:5 But the Jews who were not persuaded, becoming envious, atook some of the evil men from the marketplace, and gathering amob, set all the city in an uproar and attacked the house of Jason, and sought to bring them out to the people.
 ACT.17:6 But when they did not find them, they dragged Jason and some brethren to the rulers of the city, crying out, 'These who have turned the world upside down have come here too.
@@ -969,8 +997,12 @@ ACT.20:14 And when he met us at Assos, we took him on board and came to Mitylene
 ACT.20:15 We sailed from there, and the next day came opposite Chios. The following day we arrived at Samos and stayed at Trogyllium. The next day we came to Miletus.
 ACT.20:16 For Paul had decided to sail past Ephesus, so that he would not have to spend time in Asia; for he was hurrying to be at Jerusalem, if possible, on the Day of Pentecost.
 ACT.20:17 From Miletus he sent to Ephesus and called for the elders of the church.
-ACT.20:18 And when they had come to him, he said to them: 'You know, from the first day that I came to Asia, in what manner I always lived among you, 19 serving the Lord with all humility, with many tears and trials which happened to me by the plotting of the Jews; 20 how I kept back nothing that was helpful, but proclaimed it to you, and taught you publicly and from house to house, 21 testifying to Jews, and also to Greeks, repentance toward God and faith toward our Lord Jesus Christ.
-ACT.20:22 And see, now I go bound in the spirit to Jerusalem, not knowing the things that will happen to me there, 23 except that the Holy Spirit testifies in every city, saying that chains and tribulations await me.
+ACT.20:18 And when they had come to him, he said to them: 'You know, from the first day that I came to Asia, in what manner I always lived among you,
+ACT.20:19 serving the Lord with all humility, with many tears and trials which happened to me by the plotting of the Jews;
+ACT.20:20 how I kept back nothing that was helpful, but proclaimed it to you, and taught you publicly and from house to house,
+ACT.20:21 testifying to Jews, and also to Greeks, repentance toward God and faith toward our Lord Jesus Christ.
+ACT.20:22 And see, now I go bound in the spirit to Jerusalem, not knowing the things that will happen to me there,
+ACT.20:23 except that the Holy Spirit testifies in every city, saying that chains and tribulations await me.
 ACT.20:24 But none of these things move me; nor do I count my life dear to myself, aso that I may finish my race with joy, and the ministry which I received from the Lord Jesus, to testify to the gospel of the grace of God.
 ACT.20:25 'And indeed, now I know that you all, among whom I have gone preaching the kingdom of God, will see my face no more.
 ACT.20:26 Therefore I testify to you this day that I am innocent of the blood of all men.
@@ -987,7 +1019,8 @@ ACT.20:36 And when he had said these things, he knelt down and prayed with them 
 
 ### Palestine and Jerusalem: Don't Go
 
-ACT.20:37 Then they all wept freely, and fell on Paul's neck and kissed him, 38 sorrowing most of all for the words which he spoke, that they would see his face no more. And they accompanied him to the ship.
+ACT.20:37 Then they all wept freely, and fell on Paul's neck and kissed him,
+ACT.20:38 sorrowing most of all for the words which he spoke, that they would see his face no more. And they accompanied him to the ship.
 ## Chapter 21
 
 ACT.21:1 ow it came to pass, that when we had departed from them and set sail, running astraight course we came to Cos, the following day to Rhodes, and from there to Patara.
@@ -1022,7 +1055,8 @@ ACT.21:24 Take them and be purified with them, and pay their expenses so that th
 
 ACT.21:25 But concerning the Gentiles who believe, we have written and decided that they should observe no such thing, except athat they should keep themselves from things offered to idols, from blood, from things strangled, and from sexual immorality.'
 ACT.21:26 Then Paul took the men, and the next day, having been purified with them, entered the temple to announce the expiration of the days of purification, at which time an offering should be made for each one of them.
-ACT.21:27 Now when the seven days were almost ended, the Jews from Asia, seeing him in the temple, stirred up the whole crowd and laid hands on him, 28 crying out, 'Men of Israel, help! This is the man who teaches all men everywhere against the people, the law, and this place; and furthermore he also brought Greeks into the temple and has defiled this holy place.'
+ACT.21:27 Now when the seven days were almost ended, the Jews from Asia, seeing him in the temple, stirred up the whole crowd and laid hands on him,
+ACT.21:28 crying out, 'Men of Israel, help! This is the man who teaches all men everywhere against the people, the law, and this place; and furthermore he also brought Greeks into the temple and has defiled this holy place.'
 ACT.21:29 (For they had previously aseen Trophimus the Ephesian with him in the city, whom they supposed that Paul had brought into the temple.)
 ACT.21:30 And all the city was disturbed; and the people ran together, seized Paul, and dragged him out of the temple; and immediately the doors were shut.
 ACT.21:31 Now as they were seeking to kill him, news came to the commander of the garrison that all Jerusalem was in an uproar.
@@ -1051,7 +1085,8 @@ ACT.22:8 So I answered, 'Who are You, Lord?' And He said to me, 'I am Jesus of N
 ACT.22:9 'And those who were with me indeed saw the light and were afraid, abut they did not hear the voice of Him who spoke to me.
 ACT.22:10 So I said, 'What shall I do, Lord?' And the Lord said to me, 'Arise and go into Damascus, and there you will be told all things which are appointed for you to do.'
 ACT.22:11 And since I could not see for the glory of that light, being led by the hand of those who were with me, I came into Damascus.
-ACT.22:12 'Then acertain Ananias, adevout man according to the law, having agood testimony with all the Jews who dwelt there, 13 came to me; and he stood and said to me, 'Brother Saul, receive your sight.' And at that same hour I looked up at him.
+ACT.22:12 'Then acertain Ananias, adevout man according to the law, having agood testimony with all the Jews who dwelt there,
+ACT.22:13 came to me; and he stood and said to me, 'Brother Saul, receive your sight.' And at that same hour I looked up at him.
 ACT.22:14 Then he said, 'The God of our fathers has chosen you that you should know His will, and see the Just One, and hear the voice of His mouth.
 ACT.22:15 For you will be His witness to all men of what you have seen and heard.
 ACT.22:16 And now why are you waiting? Arise and be baptized, and wash away your sins, calling on the name of the Lord.'
@@ -1129,7 +1164,8 @@ ACT.24:3 we accept it always and in all places, most noble Felix, with all thank
 ACT.24:4 Nevertheless, not to be tedious to you any further, I beg you to hear, by your courtesy, afew words from us.
 ACT.24:5 For we have found this man aplague, acreator of dissension among all the Jews throughout the world, and aringleader of the sect of the Nazarenes.
 ACT.24:6 He even tried to profane the temple, and we seized him, aand wanted to judge him according to our law.
-ACT.24:7 But the commander Lysias came by and with great violence took him out of our hands, 8 commanding his accusers to come to you. By examining him yourself you may ascertain all these things of which we accuse him.'
+ACT.24:7 But the commander Lysias came by and with great violence took him out of our hands,
+ACT.24:8 commanding his accusers to come to you. By examining him yourself you may ascertain all these things of which we accuse him.'
 
 ### Paul's Defense
 
@@ -1147,7 +1183,8 @@ ACT.24:19 They ought to have been here before you to object if they had anything
 
 ### The Decision
 
-ACT.24:20 Or else let those who are here themselves say if they found any wrongdoing ain me while I stood before the council, 21 unless it is for this one statement which I cried out, standing among them, 'Concerning the resurrection of the dead I am being judged by you this day.' '
+ACT.24:20 Or else let those who are here themselves say if they found any wrongdoing ain me while I stood before the council,
+ACT.24:21 unless it is for this one statement which I cried out, standing among them, 'Concerning the resurrection of the dead I am being judged by you this day.' '
 ACT.24:22 But when Felix heard these things, having more accurate knowledge of the Way, he adjourned the proceedings and said, 'When Lysias the commander comes down, I will make adecision on your case.'
 ACT.24:23 So he commanded the centurion to keep Paul and to let him have liberty, and told him not to forbid any of his friends to provide for or visit him.
 ACT.24:24 And after some days, when Felix came with his wife Drusilla, who was Jewish, he sent for Paul and heard him concerning the faith in Christ.
@@ -1160,11 +1197,13 @@ ACT.24:27 But after two years Porcius Festus succeeded Felix; and Felix, wanting
 ## Chapter 25
 
 ACT.25:1 ow when Festus had come to the province, after three days he went up from Caesarea to Jerusalem.
-ACT.25:2 Then the high priest aand the chief men of the Jews informed him against Paul; and they petitioned him, 3 asking afavor against him, that he would summon him to Jerusalem-while they lay in ambush along the road to kill him.
+ACT.25:2 Then the high priest aand the chief men of the Jews informed him against Paul; and they petitioned him,
+ACT.25:3 asking afavor against him, that he would summon him to Jerusalem-while they lay in ambush along the road to kill him.
 ACT.25:4 But Festus answered that Paul should be kept at Caesarea, and that he himself was going there shortly.
 ACT.25:5 'Therefore,' he said, 'let those who have authority among you go down with me and accuse this man, to see if there is any fault in him.'
 ACT.25:6 And when he had remained among them more than ten days, he went down to Caesarea. And the next day, sitting on the judgment seat, he commanded Paul to be brought.
-ACT.25:7 When he had come, the Jews who had come down from Jerusalem stood about and laid many serious complaints against Paul, which they could not prove, 8 while he answered for himself, 'Neither against the law of the Jews, nor against the temple, nor against Caesar have I offended in anything at all.'
+ACT.25:7 When he had come, the Jews who had come down from Jerusalem stood about and laid many serious complaints against Paul, which they could not prove,
+ACT.25:8 while he answered for himself, 'Neither against the law of the Jews, nor against the temple, nor against Caesar have I offended in anything at all.'
 ACT.25:9 But Festus, wanting to do the Jews afavor, answered Paul and said, 'Are you willing to go up to Jerusalem and there be judged before me concerning these things?'
 ACT.25:10 So Paul said, 'I stand at Caesar's judgment seat, where I ought to be judged. To the Jews I have done no wrong, as you very well know.
 ACT.25:11 For if I am an offender, or have committed anything deserving of death, I do not object to dying; but if there is nothing in these things of which these men accuse me, no one can deliver me to them. I appeal to Caesar.'
@@ -1173,7 +1212,8 @@ ACT.25:11 For if I am an offender, or have committed anything deserving of death
 
 ACT.25:12 Then Festus, when he had conferred with the council, answered, 'You have appealed to Caesar? To Caesar you shall go!'
 ACT.25:13 And after some days King Agrippa and Bernice came to Caesarea to greet Festus.
-ACT.25:14 When they had been there many days, Festus laid Paul's case before the king, saying: 'There is acertain man left aprisoner by Felix, 15 about whom the chief priests and the elders of the Jews informed me, when I was in Jerusalem, asking for ajudgment against him.
+ACT.25:14 When they had been there many days, Festus laid Paul's case before the king, saying: 'There is acertain man left aprisoner by Felix,
+ACT.25:15 about whom the chief priests and the elders of the Jews informed me, when I was in Jerusalem, asking for ajudgment against him.
 ACT.25:16 To them I answered, 'It is not the custom of the Romans to deliver any man to destruction abefore the accused meets the accusers face to face, and has opportunity to answer for himself concerning the charge against him.'
 ACT.25:17 Therefore when they had come together, without any delay, the next day I sat on the judgment seat and commanded the man to be brought in.
 ACT.25:18 When the accusers stood up, they brought no accusation against him of such things as I supposed,
@@ -1192,7 +1232,8 @@ ACT.25:27 For it seems to me unreasonable to send aprisoner and not to specify t
 ## Chapter 26
 
 ACT.26:1 hen Agrippa said to Paul, 'You are permitted to speak for yourself.'
-ACT.26:2 So Paul stretched out his hand and answered for himself: 'I think myself happy, King Agrippa, because today I shall answer for myself before you concerning all the things of which I am accused by the Jews, 3 especially because you are expert in all customs and questions which have to do with the Jews. Therefore I beg you to hear me patiently.
+ACT.26:2 So Paul stretched out his hand and answered for himself: 'I think myself happy, King Agrippa, because today I shall answer for myself before you concerning all the things of which I am accused by the Jews,
+ACT.26:3 especially because you are expert in all customs and questions which have to do with the Jews. Therefore I beg you to hear me patiently.
 ACT.26:4 'My manner of life from my youth, which was spent from the beginning among my own nation at Jerusalem, all the Jews know.
 ACT.26:5 They knew me from the first, if they were willing to testify, that according to the strictest sect of our religion I lived a Pharisee.
 ACT.26:6 And now I stand and am judged for the hope of the promise made by God to our fathers.
@@ -1201,7 +1242,8 @@ ACT.26:8 Why should it be thought incredible by you that God raises the dead?
 ACT.26:9 'Indeed, I myself thought I must do many things contrary to the name of Jesus of Nazareth.
 ACT.26:10 This I also did in Jerusalem, and many of the saints I shut up in prison, having received authority from the chief priests; and when they were put to death, I cast my vote against them.
 ACT.26:11 And I punished them often in every synagogue and compelled them to blaspheme; and being exceedingly enraged against them, I persecuted them even to foreign cities.
-ACT.26:12 'While thus occupied, as I journeyed to Damascus with authority and commission from the chief priests, 13 at midday, O king, along the road I saw alight from heaven, brighter than the sun, shining around me and those who journeyed with me.
+ACT.26:12 'While thus occupied, as I journeyed to Damascus with authority and commission from the chief priests,
+ACT.26:13 at midday, O king, along the road I saw alight from heaven, brighter than the sun, shining around me and those who journeyed with me.
 ACT.26:14 And when we all had fallen to the ground, I heard avoice speaking to me and saying in the Hebrew language, 'Saul, Saul, why are you persecuting Me? It is hard for you to kick against the goads.'
 ACT.26:15 So I said, 'Who are You, Lord?' And He said, 'I am Jesus, whom you are persecuting.
 ACT.26:16 But rise and stand on your feet; for I have appeared to you for this purpose, to make you aminister and awitness both of the things which you have seen and of the things which I will yet reveal to you.
@@ -1300,7 +1342,8 @@ ACT.28:14 where we found brethren, and were invited to stay with them seven days
 
 ACT.28:15 And from there, when the brethren heard about us, they came to meet us as far as Appii Forum and Three Inns. When Paul saw them, he thanked God and took courage.
 ACT.28:16 Now when we came to Rome, the centurion delivered the prisoners to the captain of the guard; but Paul was permitted to dwell by himself with the soldier who guarded him.
-ACT.28:17 And it came to pass after three days that Paul called the leaders of the Jews together. So when they had come together, he said to them: 'Men and brethren, though I have done nothing against our people or the customs of our fathers, yet I was delivered as aprisoner from Jerusalem into the hands of the Romans, 18 who, when they had examined me, wanted to let me go, because there was no cause for putting me to death.
+ACT.28:17 And it came to pass after three days that Paul called the leaders of the Jews together. So when they had come together, he said to them: 'Men and brethren, though I have done nothing against our people or the customs of our fathers, yet I was delivered as aprisoner from Jerusalem into the hands of the Romans,
+ACT.28:18 who, when they had examined me, wanted to let me go, because there was no cause for putting me to death.
 ACT.28:19 But when the Jews aspoke against it, I was compelled to appeal to Caesar, not that I had anything of which to accuse my nation.
 ACT.28:20 For this reason therefore I have called for you, to see you and speak with you, because for the hope of Israel I am bound with this chain.'
 ACT.28:21 Then they said to him, 'We neither received letters from Judea concerning you, nor have any of the brethren who came reported or spoken any evil of you.
@@ -1312,4 +1355,5 @@ ACT.28:26 saying, 'Go to this people and say: 'Hearing you will hear, and shall 
 ACT.28:27 For the hearts of this people have grown dull. Their ears are hard of hearing, And their eyes they have closed, Lest they should see with their eyes and hear with their ears, Lest they should understand with their hearts and turn, So that I should heal them.' ' a
 ACT.28:28 'Therefore let it be known to you that the salvation of God has been sent to the Gentiles, and they will hear it!'
 ACT.28:29 And when he had said these words, the Jews departed and had agreat dispute among themselves. a
-ACT.28:30 Then Paul dwelt two whole years in his own rented house, and received all who came to him, 31 preaching the kingdom of God and teaching the things which concern the Lord Jesus Christ with all confidence, no one forbidding him. †
+ACT.28:30 Then Paul dwelt two whole years in his own rented house, and received all who came to him,
+ACT.28:31 preaching the kingdom of God and teaching the things which concern the Lord Jesus Christ with all confidence, no one forbidding him. †

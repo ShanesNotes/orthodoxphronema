@@ -136,7 +136,7 @@ NEH.3:14 Malchijah the son of Rechab, leader of the district of Beth Haccerem, r
 
 NEH.3:15 and they repaired the wall of the Pool of Shelah by the King's Garden, as far as the stairs that go down from the City of David.
 
-NEH.3:16 After him Nehemiah the son of Azbuk, leader of half the district of Beth Zur, made repairs as far as the place in front of the tomb of David, to the manmade pool, and as far as the House of the Mighty.
+NEH.3:16 After him Nehemiah the son of Azbuk, leader of half the district of Beth Zur, made repairs as far as the place in front of the tomb of David, to the man-made pool, and as far as the House of the Mighty.
 
 NEH.3:17 After him the Levites, under Rehum the son of Bani, made repairs. Next to him Hashabiah, leader of half the district of Keilah, made repairs for his district.
 
@@ -302,7 +302,7 @@ NEH.6:16 And it happened, when all our enemies heard of it, and all the nations 
 
 NEH.6:17 Also in those days the nobles of Judah sent many letters to Tobiah, and the letters of Tobiah came to them.
 
-NEH.6:18 For many in Judah were pledged to him because he was the son-inlaw of Shechaniah the son of A rah, and his son Jehohanan had married the daughter of Meshullam the son of Berechiah.
+NEH.6:18 For many in Judah were pledged to him because he was the son-in-law of Shechaniah the son of Arah, and his son Jehohanan had married the daughter of Meshullam the son of Berechiah.
 
 NEH.6:19 Also they reported his good deeds before me and reported my words to him. Tobiah sent letters to frighten me.
 
@@ -326,7 +326,7 @@ NEH.7:8 the children of Parosh, two thousand one hundred and seventy-two;
 
 NEH.7:9 the children of Shephatiah, three hundred and seventy-two;
 
-NEH.7:10 the children of A rah, six hundred and fifty-two;
+NEH.7:10 the children of Arah, six hundred and fifty-two;
 
 NEH.7:11 the children of Pahath-Moab, of the sons of Jeshua and Joab, two thousand eight hundred and eighteen;
 
@@ -338,15 +338,15 @@ NEH.7:14 the children of Zaccai, seven hundred and sixty;
 
 NEH.7:15 the children of Binnui, six hundred and forty-eight;
 
-NEH.7:16 the sons of Bebai, six hundred and twentyeight;
+NEH.7:16 the sons of Bebai, six hundred and twenty-eight;
 
 NEH.7:17 the children of Azgad, two thousand three hundred and twenty-two;
 
 NEH.7:18 the children of Adonikam, six hundred and sixty-seven;
 
-NEH.7:19 the children of Bigvai, two thousand and sixtyseven;
+NEH.7:19 the children of Bigvai, two thousand and sixty-seven;
 
-NEH.7:20 the children of A din, six hundred and fifty-five;
+NEH.7:20 the children of Adin, six hundred and fifty-five;
 
 NEH.7:21 the children of Ater of Hezekiah, ninety-eight;
 
@@ -358,7 +358,7 @@ NEH.7:24 the children of Hariph, one hundred and twelve;
 
 NEH.7:25 the sons of Gibeon, ninety-five;
 
-NEH.7:26 the children of Bethlehem, one hundred and twentythree, and Netophah, fifty-six;
+NEH.7:26 the children of Bethlehem, one hundred and twenty-three, and Netophah, fifty-six;
 
 NEH.7:27 the children of Anathoth, one hundred and twenty-eight;
 
@@ -438,7 +438,7 @@ NEH.7:60 All the Nethinim and the children of Solomon's servants were three hund
 
 NEH.7:61 And these were the ones who came up from Tel Melah, Tel Harsha, Cherub, Addon, and Immer, but they could not identify their father's house nor their lineage, whether they were of Israel:
 
-NEH.7:62 the sons of Delaiah, the sons of Tobiah, the sons of Nekoda, six hundred fortytwo.
+NEH.7:62 the sons of Delaiah, the sons of Tobiah, the sons of Nekoda, six hundred forty-two.
 
 NEH.7:63 And of the priests: the sons of Habaiah, the sons of Koz, the sons of Barzillai, who took a wife of the daughters of Barzillai the Gileadite and was called by their name.
 
@@ -510,7 +510,7 @@ NEH.9:2 Then those of Israelite lineage separated themselves from all foreigners
 
 NEH.9:3 And they stood in their place and read from the Book of the Law of the Lord their God, and they were confessing to the Lord and worshiping the Lord their God.
 
-NEH.9:4 Then Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani stood on the stairs of the Levites and cried out with aloud voice to the Lord their God.
+NEH.9:4 Then Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani stood on the stairs of the Levites and cried out with a loud voice to the Lord their God.
 
 NEH.9:5 And the Levites, Jeshua, Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, 'Stand up and bless the Lord your God forever and ever! Blessed be Your glorious name, which is exalted above all blessing and praise!'
 
@@ -582,7 +582,7 @@ NEH.9:38 And because of all this, we make a sure covenant and write it; and all 
 
 ## Chapter 10
 
-NEH.10:1 Those who sealed it were: Nehemiah the son of Hacaliah, and Zedekiah,
+NEH.10:1 Those who sealed it3were: Nehemiah the son of Hacaliah, 4 Azariah, Jeremiah,Pashhur, Amariah, Malchijah, Hattush, Shebaniah, Malluch, 5Harim, Meremoth, Obadiah, 6Daniel, Ginnethon, Baruch, 7Meshullam, Abijah, Mijamin, 8Maaziah, Bilgai, and Shemaiah. These were the priests. 9The Levites: Jeshua the son of Azaniah, Binnui of the children of Henadad, and Kadmiel. 10Their brothers: Shebaniah, Hodijah, Kelita, Pelaiah, Hanan, 11Micha, Rehob, Hashabiah, 12Zaccur, Sherebiah, Shebaniah, 13Hodijah, the children of Beninu. 14The leaders of the people: Parosh, Pahath- Moab, Elam, Zattu, the children of 15Bunni, Azgad, Bebai, 16Adonijah, Bigvai, Adin, 17Ater, Hezekiah, Azzur, 18Hodijah, Hashum, Bezai, 19Hariph, Anathoth, Nebai, 20Magpiash, Meshullam, Hezir, 21Meshezabel, Zadok, Jaddua, 22Pelatiah, Hanan, Anaiah, 23Hoshea, Hananiah, Hasshub, 24Hallohesh, Pilha, Shobek, 25Rehum, Hashabnah, Maaseiah, 26Ahijah, Hanan, Anan, 27Malluch, Harim, and Baanah. The Covenant Which Was Sealed 28And the rest of the people—the priests, the Levites, the gatekeepers, the singers, the Nethinim, and all those separating from the peoples of the land to the Law of God, their wives, their sons, and their daughters, everyone who had knowledge and understanding— 29these, joining with their brothers, bound themselves with a curse and entered into a curse and an oath to walk in God's Law which was given by Moses the servant of God, and to observe and do all the commandments of our Lord and His statutes: 30not to give our daughters as wives to the peoples of the land, nor take their daughters for our sons; 31and if the peoples of the land brought wares to sell on the Sabbath day, we would not buy from them on the Sabbath or on a holy day; and we would forgo the seventh year's produce and the exacting of every debt. 32Also we will make ordinances for ourselves to exact from ourselves yearly one-third of a shekel for the service of the house of our God: 33for the showbread, for the regular grain offering, for the regular burnt offering of the Sabbaths, the New Moons, and the set feasts; for the holy things, for the sin offerings to make atonement for Israel, and all the work of the house of our God. 34We—the priests, the Levites, and the people—cast lots for bringing the wood offering into the house of our God according to our fathers’ houses, at the appointed times year by year, to burn on the altar of the Lord our God as it is written in the Law. 35And we made ordinances to bring the firstfruits of our ground and the firstfruits of all fruit of all trees, year by year, to the house of the Lord; 36to bring the firstborn of our sons and our cattle, as it is written in the Law, and the firstborn of our herds and our flocks to the house of our God, to the priests who minister in the house of our God; 37to bring the firstfruits of our grain, the fruit from all kinds of trees, the new wine and oil to the priests, to the storerooms of the house of our God; and to bring the tithes of our land to the Levites, for the Levites should receive the tithes in all the cities of our servitude. 38And the priest, the descendant of Aaron, shall be with the Levites when the Levites receive tithes; and the Levites shall bring up a tenth of the tithes to the house of our God, to the rooms of the storehouse. 39For the children of Israel and the children of Levi shall bring the offering of the grain, of the new wine and the oil to the storerooms where the articles of the sanctuary are, where the priests who minister and the gatekeepers and the singers are; and we will not neglect the house of our God. The People in Jerusalem 11 Now the leaders of the people dwelt at Jerusalem; the rest of the people cast lots to bring one out of ten to dwell in Jerusalem, the holy city, and nine-tenths were to dwell in other cities.
 
 NEH.10:2 Seraiah, Azariah, Jeremiah,
 
@@ -608,11 +608,11 @@ NEH.10:12 Zaccur, Sherebiah, Shebaniah,
 
 NEH.10:13 Hodijah, the children of Beninu.
 
-NEH.10:14 The leaders of the people: Parosh, PahathMoab, Elam, Zattu, the children of
+NEH.10:14 The leaders of the people: Parosh, Pahath-Moab, Elam, Zattu, the children of
 
 NEH.10:15 Bunni, Azgad, Bebai,
 
-NEH.10:16 Adonijah, Bigvai, A din,
+NEH.10:16 Adonijah, Bigvai, Adin,
 
 NEH.10:17 Ater, Hezekiah, Azzur,
 
@@ -818,7 +818,7 @@ NEH.13:3 Now before this, Eliashib the priest, living in the storeroom of the ho
 
 NEH.13:4 And he had prepared for him a large room where previously they had stored the grain offerings, the frankincense, the articles, the tithes of grain, the new wine and oil, which were commanded to be given to the Levites and singers and gatekeepers, as well as the firstfruits for the priests.
 
-NEH.13:5 But during all this I was not in Jerusalem, for in the thirtysecond year of Artaxerxes, king of Babylon, I had returned to the king. Then after certain days I obtained leave from the king
+NEH.13:5 But during all this I was not in Jerusalem, for in the thirty-second year of Artaxerxes, king of Babylon, I had returned to the king. Then after certain days I obtained leave from the king
 
 NEH.13:6 and came to Jerusalem. Here I discovered the evil thing Eliashib had done for Tobiah. He had prepared a room for him in the courts of the house of God.
 

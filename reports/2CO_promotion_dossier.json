@@ -1,69 +1,32 @@
 {
   "book_code": "2CO",
   "testament": "NT",
-  "timestamp": "2026-03-11T05:55:44.945236",
+  "timestamp": "2026-03-11T16:39:42.392917",
   "registry_version": "1.3.0",
-  "body_checksum": "19ae8f237054f2a4056521de0c6fb9e58299f31dd37467c09e7a65f01675a290",
+  "body_checksum": "04232a44d95caff10b429980d44c63f1c0184549537e3296f43f156325455bd0",
   "validation": {
     "V1": {
-      "status": "FAIL",
-      "messages": [
-        "V1   5 duplicate anchor(s):"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V2": {
       "status": "WARN",
       "messages": [
-        "V2   Chapter count: expected 13, got 15"
+        "V2   Chapter count: expected 13, got 14"
       ]
     },
     "V3": {
-      "status": "FAIL",
-      "messages": [
-        "V3   Chapter sequence broken at line 15: expected 1, got 0",
-        "V3   Chapter sequence broken at line 39: expected 2, got 1",
-        "V3   Chapter sequence broken at line 76: expected 3, got 2",
-        "V3   Chapter sequence broken at line 104: expected 4, got 3",
-        "V3   Chapter sequence broken at line 132: expected 5, got 4",
-        "V3   Chapter sequence broken at line 157: expected 6, got 5",
-        "V3   Chapter sequence broken at line 192: expected 7, got 6",
-        "V3   Chapter sequence broken at line 210: expected 8, got 7",
-        "V3   Chapter sequence broken at line 234: expected 9, got 8",
-        "V3   Chapter sequence broken at line 263: expected 10, got 9",
-        "V3   Chapter sequence broken at line 283: expected 11, got 10",
-        "V3   Chapter sequence broken at line 307: expected 12, got 11",
-        "V3   Chapter sequence broken at line 353: expected 13, got 12",
-        "V3   Chapter sequence broken at line 387: expected 14, got 13",
-        "V3   Chapter sequence broken at line 404: expected 15, got 14"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V4": {
-      "status": "FAIL",
+      "status": "WARN",
       "messages": [
-        "V4   Verse goes backward in ch.0 at line 28: verse 2 after verse 5",
-        "V4   Verse goes backward in ch.0 at line 29: verse 1 after verse 5",
-        "V4   Verse goes backward in ch.0 at line 30: verse 2 after verse 5",
-        "V4   Verse goes backward in ch.0 at line 34: verse 3 after verse 5",
-        "V4   Verse goes backward in ch.0 at line 38: verse 4 after verse 5",
-        "V4   Missing verses in ch.1: jumps from 3 to 5",
-        "V4   Missing verses in ch.1: jumps from 9 to 12",
-        "V4   Missing verses in ch.1: jumps from 21 to 23",
-        "V4   Missing verses in ch.3: jumps from 2 to 4",
-        "V4   Missing verses in ch.3: jumps from 5 to 7",
-        "V4   Missing verses in ch.3: jumps from 7 to 9",
         "V4   Missing verses in ch.3: jumps from 12 to 14",
-        "V4   Missing verses in ch.4: jumps from 8 to 11",
-        "V4   Missing verses in ch.4: jumps from 13 to 15",
-        "V4   Missing verses in ch.6: jumps from 5 to 11",
-        "V4   Missing verses in ch.8: jumps from 3 to 5",
-        "V4   Missing verses in ch.8: jumps from 19 to 22",
-        "V4   Missing verses in ch.9: jumps from 10 to 12",
-        "V4   Missing verses in ch.9: jumps from 12 to 15",
-        "V4   Missing verses in ch.10: jumps from 4 to 7",
+        "V4   Missing verses in ch.4: jumps from 9 to 11",
+        "V4   Missing verses in ch.8: jumps from 20 to 22",
         "V4   Missing verses in ch.10: jumps from 8 to 10",
-        "V4   Missing verses in ch.10: jumps from 14 to 17",
         "V4   Missing verses in ch.11: jumps from 27 to 29",
-        "V4   Missing verses in ch.12: jumps from 3 to 5",
         "V4   Missing verses in ch.13: jumps from 2 to 4"
       ]
     },
@@ -78,7 +41,7 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 231/257 verses (89.9%); gap of 26"
+        "V7   Completeness: 258/257 verses (100.4%); gap of -1"
       ]
     },
     "V8": {
@@ -88,36 +51,12 @@
     "V9": {
       "status": "FAIL",
       "messages": [
-        "V9   Embedded verse 2CO.1:4 found inside 2CO.1:3 at line 46",
-        "V9   Embedded verse 2CO.1:10 found inside 2CO.1:9 at line 57",
-        "V9   Embedded verse 2CO.1:11 found inside 2CO.1:9 at line 57",
-        "V9   Embedded verse 2CO.1:22 found inside 2CO.1:21 at line 73",
-        "V9   Embedded verse 2CO.3:3 found inside 2CO.3:2 at line 110",
-        "V9   Embedded verse 2CO.3:6 found inside 2CO.3:5 at line 115",
-        "V9   Embedded verse 2CO.3:8 found inside 2CO.3:7 at line 116",
-        "V9   Embedded verse 2CO.3:13 found inside 2CO.3:12 at line 123",
-        "V9   Embedded verse 2CO.4:9 found inside 2CO.4:8 at line 144",
-        "V9   Embedded verse 2CO.4:10 found inside 2CO.4:8 at line 144",
-        "V9   Embedded verse 2CO.4:14 found inside 2CO.4:13 at line 147",
-        "V9   Embedded verse 2CO.6:6 found inside 2CO.6:5 at line 201",
-        "V9   Embedded verse 2CO.6:7 found inside 2CO.6:5 at line 201",
-        "V9   Embedded verse 2CO.6:8 found inside 2CO.6:5 at line 201",
-        "V9   Embedded verse 2CO.6:9 found inside 2CO.6:5 at line 201",
-        "V9   Embedded verse 2CO.6:10 found inside 2CO.6:5 at line 201",
-        "V9   Embedded verse 2CO.8:4 found inside 2CO.8:3 at line 238",
-        "V9   Embedded verse 2CO.8:20 found inside 2CO.8:19 at line 259",
-        "V9   Embedded verse 2CO.8:21 found inside 2CO.8:19 at line 259",
-        "V9   Embedded verse 2CO.9:11 found inside 2CO.9:10 at line 277",
-        "V9   Embedded verse 2CO.9:13 found inside 2CO.9:12 at line 278",
-        "V9   Embedded verse 2CO.9:14 found inside 2CO.9:12 at line 278",
-        "V9   Embedded verse 2CO.10:5 found inside 2CO.10:4 at line 291",
-        "V9   Embedded verse 2CO.10:6 found inside 2CO.10:4 at line 291",
-        "V9   Embedded verse 2CO.10:9 found inside 2CO.10:8 at line 293",
-        "V9   Embedded verse 2CO.10:15 found inside 2CO.10:14 at line 301",
-        "V9   Embedded verse 2CO.10:16 found inside 2CO.10:14 at line 301",
-        "V9   Embedded verse 2CO.11:28 found inside 2CO.11:27 at line 344",
-        "V9   Embedded verse 2CO.12:4 found inside 2CO.12:3 at line 357",
-        "V9   Embedded verse 2CO.13:3 found inside 2CO.13:2 at line 390"
+        "V9   Embedded verse 2CO.3:13 found inside 2CO.3:12 at line 121",
+        "V9   Embedded verse 2CO.4:10 found inside 2CO.4:9 at line 143",
+        "V9   Embedded verse 2CO.8:21 found inside 2CO.8:20 at line 267",
+        "V9   Embedded verse 2CO.10:9 found inside 2CO.10:8 at line 306",
+        "V9   Embedded verse 2CO.11:28 found inside 2CO.11:27 at line 359",
+        "V9   Embedded verse 2CO.13:3 found inside 2CO.13:2 at line 406"
       ]
     }
   },

@@ -12,38 +12,15 @@ deuterocanonical: false
 has_additions: false
 ---
 
-## Chapter 0
-
-2CO.0:1 1. The communion of saints. The Church is the Body of Christ: acorporate unity of all members in all things (see especially chs. 4-6).
-2CO.0:2 Apostleship and the Church. The faith and authority of properly ordained and recognized apostles is essential to the life of the Church. The relationship between the apostles and the laity is acommunion of love.
-
-### Outline
-
-2CO.0:3 The unity of the Church. The collection for Jerusalem (chs. 8; 9) demonstrates the loveand unity between the Gentile and the Judaic elements in the Church-manifested in sacrificial giving.
-
-### Greeting
-
-2CO.0:4 4. The Church and the world. Christianity does not renounce and forsake the world, but renews it.
-2CO.0:5 Background -For the historical setting of
-2CO.0:2 Corinthians, see the Introduction to
-2CO.0:1 Corinthians.
-2CO.0:2 A major purpose of this second epistle is Paul's defense of his apostleship and his polemic against false apostles in Corinth. Outsiders have shown up in Corinth calling themselves 'the most eminent apostles' (11:5; 12:11) or's uper-apostles.' They claim to be better than Paul, alleging that he does not measure up (13:5-7). They seek to prove Paul an impostor, bringing all kinds of outrageous charges against him. In their preaching they elevate themselves (4:5) and present adifferent gospel from Paul's (11:4). They teach that Christians must have exalted spiritual experiences and lead successful, painless lives, and should not be concerned about moral purity and holiness (6:14-7:1).
-
-### Outline
-
-2CO.0:3 Paul perceives all this false teaching as avain, earthly show, having nothing to do with God, the gospel, or the Kingdom (5:11-19). He reveals the false apostles as agents of Satan (4:3, 4; 6:15; 11:3, 13-15).
-
-### Greeting
-
-2CO.0:4 Paul's Reconciliation to the Corinthian Church (1:3-7:1 6) Thanksgiving for comfort in affliction (1:3-1 1 ) Is Paul sincere? (1:1 2-2:1 7 ) Is Paul's competent? (3:1 -6:1 0) Paul's plea to the Corinthians (6:1 1 -7:4) Paul's confidence in the Corinthians (7:5-1 6) III. The Reconciliation of Gentile and Jew (8:1 -9:1 5) The motivation of mutuality (8:1 -1 5) The means: env oy s recommended (8:16-9:5) Results: a homily on cheerful giving (9:6-1 5) Paul's Vindication from Enemy Charges (10:1-12:13) Is Paul weak? (1 0:1 -1 1 ) Is Paul ambitious? (1 0:1 2-1 8) Is Paul as good as the false apostles? (1 1:1 -1 5) Is Paul qualified to be an apostle? (1 1:1 6-1 2:1 3) The Resolution: Paul's Next Visit (1 2:1 4-1 3:1 0) Conclusion (1 3:1 1 -1 4)
 ## Chapter 1
 
-2CO.1:1 aul, an apostle of Jesus Christ by the will of God, and Timothy our brother, To the church of God which is at Corinth, with all the saints who are in all Achaia:
+2CO.1:1 Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, To the church of God which is at Corinth, with all the saints who are in all Achaia:
 
 ### Sharing Suffering, Sharing Comfort
 
 2CO.1:2 Grace to you and peace from God our Father and the Lord Jesus Christ.
-2CO.1:3 Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, 4 who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God.
+2CO.1:3 Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,
+2CO.1:4 who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God.
 2CO.1:5 For as the sufferings of Christ abound in us, so our consolation also abounds through Christ.
 2CO.1:6 Now if we are afflicted, it is for your consolation and salvation, which is effective for enduring the same sufferings which we also suffer. Or if we are comforted, it is for your consolation and salvation.
 
@@ -54,7 +31,9 @@ has_additions: false
 
 ### Paul's Pure Conscience Toward Corinth
 
-2CO.1:9 Yes, we had the sentence of death in ourselves, that we should not trust in ourselves but in God who raises the dead, 10 who delivered us from so great adeath, and does adeliver us; in whom we trust that He will still deliver us, 11 you also helping together in prayer for us, that thanks may be given by many persons on our abehalf for the gift granted to us through many.
+2CO.1:9 Yes, we had the sentence of death in ourselves, that we should not trust in ourselves but in God who raises the dead,
+2CO.1:10 who delivered us from so great adeath, and does adeliver us; in whom we trust that He will still deliver us,
+2CO.1:11 you also helping together in prayer for us, that thanks may be given by many persons on our abehalf for the gift granted to us through many.
 2CO.1:12 For our boasting is this: the testimony of our conscience that we conducted ourselves in the world in simplicity and godly sincerity, not with fleshly wisdom but by the grace of God, and more abundantly toward you.
 2CO.1:13 For we are not writing any other things to you than what you read or understand. Now I trust you will understand, even to the end
 
@@ -70,7 +49,8 @@ has_additions: false
 
 ### Paul Is Merciful
 
-2CO.1:21 Now He who establishes us with you in Christ and has anointed us is God, 22 who also has sealed us and given us the Spirit in our hearts as aguarantee.
+2CO.1:21 Now He who establishes us with you in Christ and has anointed us is God,
+2CO.1:22 who also has sealed us and given us the Spirit in our hearts as aguarantee.
 2CO.1:23 Moreover I call God as witness against my soul, that to spare you I came no more to Corinth.
 2CO.1:24 Not that we have dominion over your faith, but are fellow workers for your joy; for by faith you stand.
 ## Chapter 2
@@ -107,20 +87,24 @@ has_additions: false
 
 ### Paul's Sufficiency: The Life-Giving Spirit
 
-2CO.3:2 You are our epistle written in our hearts, known and read by all men; 3 clearly you are an epistle of Christ, ministered by us, written not with ink but by the Spirit of the living God, not on tablets of stone but on tablets of flesh, that is, of the heart.
+2CO.3:2 You are our epistle written in our hearts, known and read by all men;
+2CO.3:3 clearly you are an epistle of Christ, ministered by us, written not with ink but by the Spirit of the living God, not on tablets of stone but on tablets of flesh, that is, of the heart.
 2CO.3:4 And we have such trust through Christ toward God.
 
 ### Paul's Ministry: The Glory of God
 
-2CO.3:5 Not that we are sufficient of ourselves to think of anything as being from ourselves, but our sufficiency is from God, 6 who also made us sufficient as ministers of the new covenant, not of the letter but of the Spirit; afor the letter kills, but the Spirit gives life.
-2CO.3:7 But if the ministry of death, written and engraved on stones, was glorious, so that the children of Israel could not look steadily at the face of Moses because of the glory of his countenance, which glory was passing away, 8 how will the ministry of the Spirit not be more glorious?
+2CO.3:5 Not that we are sufficient of ourselves to think of anything as being from ourselves, but our sufficiency is from God,
+2CO.3:6 who also made us sufficient as ministers of the new covenant, not of the letter but of the Spirit; afor the letter kills, but the Spirit gives life.
+2CO.3:7 But if the ministry of death, written and engraved on stones, was glorious, so that the children of Israel could not look steadily at the face of Moses because of the glory of his countenance, which glory was passing away,
+2CO.3:8 how will the ministry of the Spirit not be more glorious?
 2CO.3:9 For if the ministry of condemnation had glory, the ministry of righteousness exceeds much more in glory.
 2CO.3:10 For even what was made glorious had no glory in this respect, because of the glory that excels.
 
 ### Paul's Relationship with God
 
 2CO.3:11 For if what is passing away was glorious, what remains is much more glorious.
-2CO.3:12 Therefore, since we have such hope, we use great boldness of speech- 13 unlike Moses, who put aveil over his face so that the children of Israel could not look steadily at the end of what was passing away.
+2CO.3:12 Therefore, since we have such hope, we use great boldness of speech-
+2CO.3:13 unlike Moses, who put aveil over his face so that the children of Israel could not look steadily at the end of what was passing away.
 2CO.3:14 But their minds were blinded. For until this day the same veil remains unlifted in the reading of the Old Testament, because the veil is taken away in Christ.
 2CO.3:15 But even to this day, when Moses is read, aveil lies on their heart.
 2CO.3:16 Nevertheless when one turns to the Lord, the veil is taken away.
@@ -141,10 +125,13 @@ has_additions: false
 
 2CO.4:6 For it is the God who commanded light to shine out of darkness, who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.
 2CO.4:7 But we have this treasure in earthen vessels, that the excellence of the power may be of God and not of us.
-2CO.4:8 We are hard-pressed on every side, yet not crushed; we are perplexed, but not in despair; 9 persecuted, but not forsaken; struck down, but not destroyed- 10 always carrying about in the body the dying of the Lord Jesus, that the life of Jesus also may be manifested in our body.
+2CO.4:8 We are hard-pressed on every side, yet not crushed; we are perplexed, but not in despair;
+2CO.4:9 persecuted, but not forsaken; struck down, but not destroyed-
+2CO.4:10 always carrying about in the body the dying of the Lord Jesus, that the life of Jesus also may be manifested in our body.
 2CO.4:11 For we who live are always delivered to death for Jesus' sake, that the life of Jesus also may be manifested in our mortal flesh.
 2CO.4:12 So then death is working in us, but life in you.
-2CO.4:13 And since we have the same spirit of faith, according to what is written, 'I believed and therefore I spoke,' awe also believe and therefore speak, 14 knowing that He who raised up the Lord Jesus will also raise us up with Jesus, and will present us with you.
+2CO.4:13 And since we have the same spirit of faith, according to what is written, 'I believed and therefore I spoke,' awe also believe and therefore speak,
+2CO.4:14 knowing that He who raised up the Lord Jesus will also raise us up with Jesus, and will present us with you.
 
 ### Seeing the Unseen
 
@@ -153,7 +140,8 @@ has_additions: false
 
 ### The Hope of the Resurrection
 
-2CO.4:17 For our light affliction, which is but for amoment, is working for us afar more exceeding and eternal weight of glory, 18 while we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal.
+2CO.4:17 For our light affliction, which is but for amoment, is working for us afar more exceeding and eternal weight of glory,
+2CO.4:18 while we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal.
 ## Chapter 5
 
 2CO.5:1 or we know that if our earthly house, this tent, is destroyed, we have abuilding from God, ahouse not made with hands, eternal in the heavens.
@@ -198,7 +186,12 @@ has_additions: false
 
 ### A Plea for Holiness
 
-2CO.6:5 in stripes, in imprisonments, in tumults, in labors, in sleeplessness, in fastings; 6 by purity, by knowledge, by longsuffering, by kindness, by the Holy Spirit, by sincere love, 7 by the word of truth, by the power of God, by the armor of righteousness on the right hand and on the left, 8 by honor and dishonor, by evil report and good report; as deceivers, and yet true; 9 as unknown, and yet well known; as dying, and behold we live; as chastened, and yet not killed; 10 as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.
+2CO.6:5 in stripes, in imprisonments, in tumults, in labors, in sleeplessness, in fastings;
+2CO.6:6 by purity, by knowledge, by longsuffering, by kindness, by the Holy Spirit, by sincere love,
+2CO.6:7 by the word of truth, by the power of God, by the armor of righteousness on the right hand and on the left,
+2CO.6:8 by honor and dishonor, by evil report and good report; as deceivers, and yet true;
+2CO.6:9 as unknown, and yet well known; as dying, and behold we live; as chastened, and yet not killed;
+2CO.6:10 as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.
 2CO.6:11 O Corinthians! We have spoken openly to you, our heart is wide open.
 2CO.6:12 You are not restricted by us, but you are restricted by your own affections.
 2CO.6:13 Now in return for the same (I speak as to children), you also be open.
@@ -235,7 +228,8 @@ has_additions: false
 
 2CO.8:1 oreover, brethren, we make known to you the grace of God bestowed on the churches of Macedonia:
 2CO.8:2 that in agreat trial of affliction the abundance of their joy and their deep poverty abounded in the riches of their liberality.
-2CO.8:3 For I bear witness that according to their ability, yes, and beyond their ability, they were freely willing, 4 imploring us with much urgency that we would receive athe gift and the fellowship of the ministering to the saints.
+2CO.8:3 For I bear witness that according to their ability, yes, and beyond their ability, they were freely willing,
+2CO.8:4 imploring us with much urgency that we would receive athe gift and the fellowship of the ministering to the saints.
 2CO.8:5 And not only as we had hoped, but they first gave themselves to the Lord, and then to us by the will of God.
 2CO.8:6 So we urged Titus, that as he had begun, so he would also complete this grace in you as well.
 2CO.8:7 But as you abound in everything-in faith, in speech, in knowledge, in all diligence, and in your love for ussee that you abound in this grace also.
@@ -256,7 +250,9 @@ has_additions: false
 2CO.8:16 But thanks be to God who puts athe same earnest care for you into the heart of Titus.
 2CO.8:17 For he not only accepted the exhortation, but being more diligent, he went to you of his own accord.
 2CO.8:18 And we have sent with him the brother whose praise is in the gospel throughout all the churches,
-2CO.8:19 and not only that, but who was also chosen by the churches to travel with us with this gift, which is administered by us to the glory of the Lord Himself and to show your ready mind, 20 avoiding this: that anyone should blame us in this lavish gift which is administered by us- 21 providing honorable things, not only in the sight of the Lord, but also in the sight of men.
+2CO.8:19 and not only that, but who was also chosen by the churches to travel with us with this gift, which is administered by us to the glory of the Lord Himself and to show your ready mind,
+2CO.8:20 avoiding this: that anyone should blame us in this lavish gift which is administered by us-
+2CO.8:21 providing honorable things, not only in the sight of the Lord, but also in the sight of men.
 2CO.8:22 And we have sent with them our brother whom we have often proved diligent in many things, but now much more diligent, because of the great confidence which we have in you.
 2CO.8:23 If anyone inquires about Titus, he is my partner and fellow worker concerning you. Or if our brethren are inquired about, they are messengers of the churches, the glory of Christ.
 2CO.8:24 Therefore show to them, and abefore the churches, the proof of your love and of our boasting on your behalf.
@@ -274,8 +270,11 @@ has_additions: false
 2CO.9:7 So let each one give as he purposes in his heart, not grudgingly or of necessity; for God loves acheerful giver.
 2CO.9:8 And God is able to make all grace abound toward you, that you, always having all sufficiency in all things, may have an abundance for every good work.
 2CO.9:9 As it is written: 'He has dispersed abroad, He has given to the poor; His righteousness endures forever.' a
-2CO.9:10 Now may a He who supplies seed to the sower, and bread for food, supply and multiply the seed you have sown and increase the fruits of your righteousness, 11 while you are enriched in everything for all liberality, which causes thanksgiving through us to God.
-2CO.9:12 For the administration of this service not only supplies the needs of the saints, but also is abounding through many thanksgivings to God, 13 while, through the proof of this ministry, they glorify God for the obedience of your confession to the gospel of Christ, and for your liberal sharing with them and all men, 14 and by their prayer for you, who long for you because of the exceeding grace of God in you.
+2CO.9:10 Now may a He who supplies seed to the sower, and bread for food, supply and multiply the seed you have sown and increase the fruits of your righteousness,
+2CO.9:11 while you are enriched in everything for all liberality, which causes thanksgiving through us to God.
+2CO.9:12 For the administration of this service not only supplies the needs of the saints, but also is abounding through many thanksgivings to God,
+2CO.9:13 while, through the proof of this ministry, they glorify God for the obedience of your confession to the gospel of Christ, and for your liberal sharing with them and all men,
+2CO.9:14 and by their prayer for you, who long for you because of the exceeding grace of God in you.
 
 ### Spiritual Warfare
 
@@ -288,9 +287,12 @@ has_additions: false
 
 ### Paul's Authority in Christ
 
-2CO.10:4 For the weapons of our warfare are not carnal but mighty in God for pulling down strongholds, 5 casting down arguments and every high thing that exalts itself against the knowledge of God, bringing every thought into captivity to the obedience of Christ, 6 and being ready to punish all disobedience when your obedience is fulfilled.
+2CO.10:4 For the weapons of our warfare are not carnal but mighty in God for pulling down strongholds,
+2CO.10:5 casting down arguments and every high thing that exalts itself against the knowledge of God, bringing every thought into captivity to the obedience of Christ,
+2CO.10:6 and being ready to punish all disobedience when your obedience is fulfilled.
 2CO.10:7 Do you look at things according to the outward appearance? If anyone is convinced in himself that he is Christ's, let him again consider this in himself, that just as he is Christ's, even so we are Christ's. a
-2CO.10:8 For even if I should boast somewhat more about our authority, which the Lord gave us afor edification and not for your destruction, I shall not be ashamed9 lest I seem to terrify you by letters.
+2CO.10:8 For even if I should boast somewhat more about our authority, which the Lord gave us afor edification and not for your destruction, I shall not be ashamed
+2CO.10:9 lest I seem to terrify you by letters.
 2CO.10:10 'For his letters,' they say, ' are weighty and powerful, but his bodily presence is weak, and his speech contemptible.'
 
 ### The Sphere of Labor
@@ -298,7 +300,9 @@ has_additions: false
 2CO.10:11 Let such aperson consider this, that what we are in word by letters when we are absent, such we will also be in deed when we are present.
 2CO.10:12 For we dare not class ourselves or compare ourselves with those who commend themselves. But they, measuring themselves by themselves, and comparing themselves among themselves, are not wise.
 2CO.10:13 We, however, will not boast beyond measure, but within the limits of the sphere which God appointed us-asphere which especially includes you.
-2CO.10:14 For we are not overextending ourselves (as though our authority did not extend to you), for it was to you that we came with the gospel of Christ; 15 not boasting of things beyond measure, that is, in other men's labors, but having hope, that as your faith is increased, we shall be greatly enlarged by you in our sphere, 16 to preach the gospel in the regions beyond you, and not to boast in another man's sphere of accomplishment.
+2CO.10:14 For we are not overextending ourselves (as though our authority did not extend to you), for it was to you that we came with the gospel of Christ;
+2CO.10:15 not boasting of things beyond measure, that is, in other men's labors, but having hope, that as your faith is increased, we shall be greatly enlarged by you in our sphere,
+2CO.10:16 to preach the gospel in the regions beyond you, and not to boast in another man's sphere of accomplishment.
 2CO.10:17 But 'he who glories, let him glory in the L ORD.' a
 
 ### Paul Preaches the True Gospel
@@ -341,7 +345,8 @@ has_additions: false
 2CO.11:24 From the Jews five times I received forty stripes minus one.
 2CO.11:25 Three times I was beaten with rods; once I was stoned; three times I was shipwrecked; anight and aday I have been in the deep;
 2CO.11:26 in journeys often, in perils of waters, in perils of robbers, in perils of my own countrymen, in perils of the Gentiles, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;
-2CO.11:27 in weariness and toil, in sleeplessness often, in hunger and thirst, in fastings often, in cold and nakedness- 28 besides the other things, what comes upon me daily: my deep concern for all the churches.
+2CO.11:27 in weariness and toil, in sleeplessness often, in hunger and thirst, in fastings often, in cold and nakedness-
+2CO.11:28 besides the other things, what comes upon me daily: my deep concern for all the churches.
 2CO.11:29 Who is weak, and I am not weak? Who is made to stumble, and I do not burn with indignation?
 2CO.11:30 If I must boast, I will boast in the things which concern my infirmity.
 2CO.11:31 The God and Father of our Lord Jesus Christ, who is blessed forever, knows that I am not lying.
@@ -354,7 +359,8 @@ has_additions: false
 
 2CO.12:1 tis doubtless anot profitable for me to boast. I will come to visions and revelations of the Lord:
 2CO.12:2 I know aman in Christ who fourteen years ago-whether in the body I do not know, or whether out of the body I do not know, God knows-such aone was caught up to the third heaven.
-2CO.12:3 And I know such aman-whether in the body or out of the body I do not know, God knows- 4 how he was caught up into Paradise and heard inexpressible words, which it is not lawful for aman to utter.
+2CO.12:3 And I know such aman-whether in the body or out of the body I do not know, God knows-
+2CO.12:4 how he was caught up into Paradise and heard inexpressible words, which it is not lawful for aman to utter.
 2CO.12:5 Of such aone I will boast; yet of myself I will not boast, except in my infirmities.
 
 ### A Thorn in the Flesh
@@ -387,7 +393,8 @@ has_additions: false
 ## Chapter 13
 
 2CO.13:1 his will be the third time I am coming to you. 'By the mouth of two or three witnesses every word shall be established.' a
-2CO.13:2 I have told you before, and foretell as if I were present the second time, and now being absent I write ato those who have sinned before, and to all the rest, that if I come again I will not spare3 since you seek aproof of Christ speaking in me, who is not weak toward you, but mighty in you.
+2CO.13:2 I have told you before, and foretell as if I were present the second time, and now being absent I write ato those who have sinned before, and to all the rest, that if I come again I will not spare
+2CO.13:3 since you seek aproof of Christ speaking in me, who is not weak toward you, but mighty in you.
 2CO.13:4 For though He was crucified in weakness, yet He lives by the power of God. For we also are weak in Him, but we shall live with Him by the power of God toward you.
 2CO.13:5 Examine yourselves as to whether you are in the faith. Test yourselves. Do you not know yourselves, that Jesus Christ is in you?-unless indeed you are disqualified.
 2CO.13:6 But I trust that you will know that we are not disqualified.

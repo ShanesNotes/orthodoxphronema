@@ -110,7 +110,7 @@ DAN.2:49 Daniel also petitioned the king, and he set Shadrach, Meshach, and Abed
 DAN.3:1 In his eighteenth year, King Nebuchadnezzar made a golden image. Its height was sixty cubits and its width, six cubits, and he set it up in the plain of Dura, in the province of Babylon.
 DAN.3:2 Then Nebuchadnezzar sent to gather together the high officials, the commanders, the governors, the rulers, and all those in authority, along with all the rulers of the provinces, to come to the dedication of the image King Nebuchadnezzar set up.
 DAN.3:3 So the governors, the high officials, the leaders, the great rulers-all those in authority who ruled the provinces came to the dedication of the image King Nebuchadnezzar set up, and they stood before the image Nebuchadnezzar made.
-DAN.3:4 Then the herald cried out in aloud voice, 'To you it is commanded, O peoples and tribes and languages,
+DAN.3:4 Then the herald cried out in a loud voice, 'To you it is commanded, O peoples and tribes and languages,
 DAN.3:5 that in what hour you hear the sound of the trumpet, the pipe, the harp, the four-stringed instrument, the psaltery, the symphony, and every kind of music, you shall fall down and worship the golden image King Nebuchadnezzar set up.
 DAN.3:6 But whoever does not fall down and worship shall be cast into the burning fiery furnace.'
 
@@ -141,7 +141,7 @@ DAN.3:23 these three men, Shadrach, Meshach, and Abednego fell bound into the mi
 
 DAN.3:24 But they walked about in the midst of the flame, singing to God and praising the Lord.
 DAN.3:25 Then Azariah stood and prayed thus and opened his mouth in the midst of the fire and said:
-DAN.3:26 'Blessed are You and praiseworthy, O Lord, the God of our fathers, And praised and glorified is Your name unto the ages. †
+DAN.3:26 'Blessed are You and praiseworthy, O Lord, the God of our fathers, And praised and glorified is Your name unto the ages.
 DAN.3:27 For You are righteous in all You did for us, And all Your works are true.
 DAN.3:28 Your ways are upright, And all Your judgments are true. The judgments You made are true, According to all You brought on us And on the holy city of our fathers, Because in truth and judgment You did all these things on account of our sins.
 DAN.3:29 For we sinned and acted lawlessly To depart from You.
@@ -152,13 +152,13 @@ DAN.3:33 Now it is not for us to open our mouth, For this has become a shame and
 DAN.3:34 For Your name's sake, do not hand us over to the end, And do not reject Your covenant.
 DAN.3:35 Do not withdraw Your mercy from us for the sake of Abraham, Who is loved by You, and for the sake of Isaac, Your servant, And of Israel, Your holy one,
 DAN.3:36 As You spoke to them, saying That You would multiply their seed as the stars of heaven, And as the sand along the seashore.
-DAN.3:37 Yet we havebeen diminished in number, O Master, More than all the nations, And we are humbled in all the earth today because of our sins.
+DAN.3:37 Yet we have been diminished in number, O Master, More than all the nations, And we are humbled in all the earth today because of our sins.
 DAN.3:38 'At this time, there is no prince, no prophet, and no leader; There is no whole burnt offering, no sacrifice, no offering, and no incense; There is no place to bear fruit before You and to find mercy.
 DAN.3:39 Yet with a contrite soul and humbled spirit, May we receive mercy, as with whole burnt offerings of rams and bulls, And as with thousands of fatted lambs.
 DAN.3:40 So let this be our sacrifice before You today, And may it be accomplished for those who follow You; For there is no shame for those who trust in You.
 DAN.3:41 Now we are following You with all our heart, And we fear You and seek Your face.
 DAN.3:42 'Do not put us to shame, But deal with us according to Your kindness And according to the abundance of Your mercy.
-DAN.3:43 Deliv er us by Your wondrous works And give glory to Your name, O Lord.
+DAN.3:43 Deliver us by Your wondrous works And give glory to Your name, O Lord.
 DAN.3:44 May all those who inflict evils upon Your servants Be put to shame and humiliated in their power; And let their strength be crushed.
 DAN.3:45 Let them know that You alone are the Lord God And glorious over all the inhabited earth.'
 DAN.3:46 Now the king's servants who cast them in did not cease to stoke the furnace with naphtha, pitch, coarse fiber, and brushwood.
@@ -197,7 +197,7 @@ DAN.3:75 Bless the Lord, you mountains and hills, And sing a hymn to Him, And ex
 DAN.3:76 Bless the Lord, all you things growing on the earth, And sing a hymn to Him, And exalt Him beyond measure unto the ages.
 DAN.3:77 Bless the Lord, you springs, And sing a hymn to Him, And exalt Him beyond measure unto the ages.
 DAN.3:78 Bless the Lord, you seas and rivers, And sing a hymn to Him, And exalt Him beyond measure unto the ages.
-DAN.3:79 'Bless the Lord, you sea-monsters and every thing that moves in the waters, And sing a hymn to Him, And exalt Him beyond measure unto the ages.
+DAN.3:79 'Bless the Lord, you sea-monsters and everything that moves in the waters, And sing a hymn to Him, And exalt Him beyond measure unto the ages.
 DAN.3:80 Bless the Lord, all you birds of heaven, And sing a hymn to Him, And exalt Him beyond measure unto the ages.
 DAN.3:81 Bless the Lord, all you wild animals and cattle, And sing a hymn to Him, And exalt Him beyond measure unto the ages.
 DAN.3:82 Bless the Lord, O children of men, And sing a hymn to Him, And exalt Him beyond measure unto the ages.
@@ -211,7 +211,7 @@ DAN.3:89 Givethanks to the Lord, for He is good, Because His mercy endures forev
 
 ### The King Praises God
 
-DAN.3:90 Bless the Lord, the God of gods, All y ou who worship Him, And sing a hymn and give thanks to Him; For His mercy endures forever.'
+DAN.3:90 Bless the Lord, the God of gods, All you who worship Him, And sing a hymn and give thanks to Him; For His mercy endures forever.'
 DAN.3:91 Now Nebuchadnezzar heard their singing, and he marveled and rose up in haste, and said to his nobles, 'Did we not cast three men bound into the fire?' They replied to the king, 'Truly, O king.'
 DAN.3:92 Then the king said, 'Behold, I see four men untied and walking in the midst of the fire, yet they are not destroyed; and the vision of the fourth is like the Son of God.'
 DAN.3:93 Then the king approached the door of the burning fiery furnace, and called out to them by name, 'Shadrach, Meshach, and Abednego, servants of the Most High God, come forth and come here!' So Shadrach, Meshach, and Abednego came forth from the midst of the fire.
@@ -238,7 +238,7 @@ DAN.4:10 I was on my bed, and I looked and behold, in the midst of the earth the
 DAN.4:11 The tree was large and strong. Its height reached to heaven, and its extent to the ends of all the earth.
 DAN.4:12 Its leaves were beautiful and its fruit abundant, and in it there was food for all. The wild animals lived beneath it, and the birds of heaven dwelled in its branches. All flesh was fed from it.
 DAN.4:13 'I saw in a vision of the night on my bed, and behold, a watcher, a holy one, came down from heaven.
-DAN.4:14 He cried with aloud voice and said thus: 'Chop down the tree, and cut off its branches. Shake off its leaves and scatter its fruit. Let the wild animals be driven from beneath it and the birds from its branches.
+DAN.4:14 He cried with a loud voice and said thus: 'Chop down the tree, and cut off its branches. Shake off its leaves and scatter its fruit. Let the wild animals be driven from beneath it and the birds from its branches.
 DAN.4:15 Nevertheless, leave its stump and roots in the ground, and he shall lie down outdoors in the tender grass, wet with the dew of heaven and bound with an iron and copper chain. His portion shall be with the wild animals, to graze on the vegetation of the earth.
 DAN.4:16 His heart shall be changed from that of a man, and the heart of a wild animal will be given to him. Seven years shall bring this change upon him.
 DAN.4:17 This saying is by the decree of the watchers, and this decision by the word of the holy ones, so the living might know that the Lord is the Most High over the kingdom of men, and will give it to whomever He will, and set over it even objects of contempt among men.'
@@ -345,7 +345,7 @@ DAN.6:18 Then they brought a stone and placed it over the mouth of the den; and 
 
 DAN.6:19 The king then went to his house and spent the night without his evening meal; for they brought no meats to him, and his sleep departed from him. Now God shut the mouths of the lions, and they did not trouble Daniel.
 DAN.6:20 Then the king arose early in the morning at daybreak and went in haste to the den of lions.
-DAN.6:21 As he approached the den, he cried with aloud voice, 'Daniel, servant of the living God, has your God, whom you serve continually, been able to deliver you from the mouth of the lions?'
+DAN.6:21 As he approached the den, he cried with a loud voice, 'Daniel, servant of the living God, has your God, whom you serve continually, been able to deliver you from the mouth of the lions?'
 DAN.6:22 Daniel said to the king, 'O king, live forever!
 DAN.6:23 My God sent His angel and shut the mouths of the lions so they did not destroy me, because uprightness was found in me before Him, and I did no wrongdoing in His sight.'
 DAN.6:24 Then the king rejoiced greatly over him and gave orders to bring Daniel out of the den; and no corruption was found in him, because he believed in his God.
@@ -369,11 +369,11 @@ DAN.7:3 Then four large beasts came up from the sea, each different from the oth
 DAN.7:4 The first was like a lioness, and it had wings like an eagle. I looked on until its wings were plucked out, and it was driven from the earth and made to stand on human feet; and a human heart was given to it.
 DAN.7:5 After this, behold, there was a second beast like a bear. It rose up on one side and had three ribs in its mouth, between its teeth. Thus they said to it, 'Arise, devour much flesh!'
 DAN.7:6 After this, I kept looking and behold, there was another beast like a leopard, and it had the four wings of a bird on its back. There were also four heads on the beast, and authority was given to it.
-DAN.7:7 After this, I looked and behold, a fourth beast, fearful, terrifying, and exceedingly strong. It had huge iron teeth, and it was devouring, brea king in pieces, and trampling underfoot whatever was left. It was exceedingly different from all the beasts before it, and it had ten horns.
-DAN.7:8 I was especially noticing its horns, and behold, there was another horn, a little one. It came up among them, and the three horns of those before it were uprooted because of its presence; and behold, there were eyes like the eyes of a man in this horn, and it had a mouth spea king arrogant things.
+DAN.7:7 After this, I looked and behold, a fourth beast, fearful, terrifying, and exceedingly strong. It had huge iron teeth, and it was devouring, breaking in pieces, and trampling underfoot whatever was left. It was exceedingly different from all the beasts before it, and it had ten horns.
+DAN.7:8 I was especially noticing its horns, and behold, there was another horn, a little one. It came up among them, and the three horns of those before it were uprooted because of its presence; and behold, there were eyes like the eyes of a man in this horn, and it had a mouth speaking arrogant things.
 DAN.7:9 I continued to watch until thrones were put in place, and the Ancient of Days enthroned Himself. His clothing was white as snow, and the hair of His head was like pure wool. His throne was a fiery flame, and its wheels a burning fire.
 DAN.7:10 A river of fire flowed from before Him. Thousands and thousands ministered to Him, and countless thousands stood before Him. The court was in session, and the books were opened.
-DAN.7:11 Then I kept watching because of the sound of the arrogant words the horn was spea king. I watched until the beast was put to death and destroyed, and its body given to the burning flame.
+DAN.7:11 Then I kept watching because of the sound of the arrogant words the horn was speaking. I watched until the beast was put to death and destroyed, and its body given to the burning flame.
 DAN.7:12 As for the rest of the beasts, their dominion was taken away, yet length of life was given them for a season and a time.
 DAN.7:13 I continued to observe the vision in the night, and behold, One like the Son of Man was coming with the clouds of heaven, until He came to the Ancient of Days and approached Him.
 
@@ -384,13 +384,13 @@ DAN.7:15 My spirit within me trembled with fear, and the visions in my head trou
 DAN.7:16 Then I approached one of those who stood by and sought the precise meaning of all this from him. So he told me the precise meaning and made known to me the interpretation of the words:
 DAN.7:17 'These four large beasts are four kingdoms. They shall arise on the earth, then be taken away.
 DAN.7:18 After this, the saints of the Most High shall receive the kingdom and possess it unto ages of ages.'
-DAN.7:19 Then I sought the precise meaning of the fourth beast, for it was different from all the others. It was exceedingly fearful, and its teeth were made of iron, and its nails of bronze. It was devouring, brea king in pieces, and trampling underfoot whatever was left.
+DAN.7:19 Then I sought the precise meaning of the fourth beast, for it was different from all the others. It was exceedingly fearful, and its teeth were made of iron, and its nails of bronze. It was devouring, breaking in pieces, and trampling underfoot whatever was left.
 DAN.7:20 The ten horns on its head and the other horn, which had eyes and a mouth that spoke arrogant things, and the vision of which I noticed more than the rest, came up and knocked down the three horns before it.
 DAN.7:21 So I kept looking, and that horn made war with the saints and prevailed against them,
 DAN.7:22 until the Ancient of Days came and gave His judgment in favor of the saints of the Most High. Then the time arrived, and the saints possessed the kingdom.
 DAN.7:23 Thus he said: 'The fourth beast shall be a fourth kingdom on the earth, which shall surpass all the kingdoms; and it shall devour all the earth, and trample and break it in pieces.
 DAN.7:24 Its ten horns are ten kings. They shall arise, and after them another shall arise. He shall surpass all those before him in evils, and he shall humble three kings.
-DAN.7:25 He will speak extremely arrogant words and wear down the saints of the Most High. He will devise away to change times and law, and he shall be given authority for a time, times, and half a time.
+DAN.7:25 He will speak extremely arrogant words and wear down the saints of the Most High. He will devise a way to change times and law, and he shall be given authority for a time, times, and half a time.
 DAN.7:26 But the court shall go into session, and they shall take away his dominion to consume and destroy it forever.
 DAN.7:27 Then the kingdom, the authority, and the greatness of the kingdoms under heaven shall be given to the saints of the Most High. His kingdom is an everlasting kingdom, and all dominions shall serve and obey Him.'
 
@@ -412,7 +412,7 @@ DAN.8:9 Then from one of them one strong horn came forth, strong and exceedingly
 DAN.8:10 He exalted himself to the host of heaven, and some of the heavenly host and stars fell to the earth; and he trampled them underfoot
 DAN.8:11 until the chief captain delivered the host of captives. For because of him the sacrifice was thrown down; and it came about that he prospered, but the sanctuary was to become desolate.
 DAN.8:12 For the sin offering was offered as long as there was sacrifice, but he cast righteousness to the ground; and although he did this, he prospered.
-DAN.8:13 Then I heard one of the saints spea king, and another saint said to that one spea king, 'How long will the vision stand, and the sacrifice be taken away, and the sin offering which was offered be desolated, and the sanctuary and host be trampled underfoot?'
+DAN.8:13 Then I heard one of the saints speaking, and another saint said to that one speaking, 'How long will the vision stand, and the sacrifice be taken away, and the sin offering which was offered be desolated, and the sanctuary and host be trampled underfoot?'
 
 ### Gabriel Reveals the Vision
 
@@ -458,8 +458,8 @@ DAN.9:18 O my God, incline Your ear and hear; open Your eyes and see our destruc
 ### Gabriel and the Seventy Weeks
 
 DAN.9:19 O Lord, hear! O Lord, forgive! O Lord, give heed and act! Do not delay for Your sake, O my God, for Your city and Your people are called by Your name.'
-DAN.9:20 Now while I was still spea king, praying, and declaring my sins and the sins of my people Israel, and bringing my cry for mercy before the Lord my God concerning the holy mountain of my God,
-DAN.9:21 yes, while I was spea king in prayer, then the man Gabriel, whom I saw in my vision at the beginning, flew and touched me about the time of the evening sacrifice.
+DAN.9:20 Now while I was still speaking, praying, and declaring my sins and the sins of my people Israel, and bringing my cry for mercy before the Lord my God concerning the holy mountain of my God,
+DAN.9:21 yes, while I was speaking in prayer, then the man Gabriel, whom I saw in my vision at the beginning, flew and touched me about the time of the evening sacrifice.
 DAN.9:22 He caused me to understand, and spoke with me and said, 'O Daniel, I have now come forth to guide you with insight.
 DAN.9:23 At the beginning of your prayer, the word went out, and I have come to tell you, for you are a man of desires. Therefore, consider the matter and understand the vision:
 DAN.9:24 'Seventy weeks are determined for your people and for your holy city to finish sin, to set an end to sin, to wipe out lawlessness, to atone for wrongdoings, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the Holy of Holies.
@@ -604,7 +604,7 @@ DAN.13:20 and said, 'Look, the doors of the garden are closed, and no one will s
 DAN.13:21 If you do not, we will testify that a young man was with you, and because of this you sent your maids away from you.'
 DAN.13:22 Then Susanna sighed deeply and said, 'I am hemmed in on all sides, for if I do this thing, it is death for me; yet if I do not, I will not escape your hands.
 DAN.13:23 But it is better for me not to do it and to fall into your hands, than to sin against the Lord.'
-DAN.13:24 Then Susanna cried out with aloud voice, and the two elders cried out against her.
+DAN.13:24 Then Susanna cried out with a loud voice, and the two elders cried out against her.
 DAN.13:25 One of them ran and opened the garden doors.
 DAN.13:26 When the household servants heard the cry in the garden, they rushed in by the side doors to see what had happened to her.
 DAN.13:27 So when the elders told their tale, the servants were deeply ashamed, for such a report had never been made about Susanna.
@@ -622,11 +622,11 @@ DAN.13:38 Now we were in a corner of the garden and saw this lawlessness. So we 
 DAN.13:39 But we could not hold the man, for he was stronger than we. He then opened the doors and rushed out.
 DAN.13:40 So we seized this woman and asked her who the young man was,
 DAN.13:41 but she was unwilling to tell us.' Thus the assembly believed them, as they were elders and judges among the people. So they condemned her to death.
-DAN.13:42 But Susanna cried out with aloud voice and said, 'O eternal God, who know both what is secret and all things before they come to be,
+DAN.13:42 But Susanna cried out with a loud voice and said, 'O eternal God, who know both what is secret and all things before they come to be,
 DAN.13:43 You know these men testified against me falsely, and behold, I shall die, though I did none of the things they wickedly invented against me.'
 DAN.13:44 The Lord heard her voice,
 DAN.13:45 and as she was being led away to be put to death, God aroused the holy spirit of a young boy, whose name was Daniel.
-DAN.13:46 He cried out with aloud voice, 'I am innocent of the blood of this woman.'
+DAN.13:46 He cried out with a loud voice, 'I am innocent of the blood of this woman.'
 DAN.13:47 So all the people turned to him and said, 'What is this thing you said?'
 DAN.13:48 Then he stood in their midst and said, 'Are you such fools, O sons of Israel? Without examination or knowledge of the evidence, have you condemned a daughter of Israel?
 DAN.13:49 Return to the place of judgment, for these men testified against her falsely.'
@@ -640,7 +640,7 @@ DAN.13:56 Then he removed him, and commanded them to bring the other. He said to
 DAN.13:57 This is how both of you deal with the daughters of Israel, and they have been intimate with you through fear; but a daughter of Judah would not endure your lawlessness.
 DAN.13:58 Now then, tell me, under what tree did you catch them being intimate with each other?' He replied, 'Under the evergreen oak.'
 DAN.13:59 Daniel said to him, 'Plainly, you also lied against your own head, for the angel of God is waiting with his sword to cut you in two, that he may destroy both of you.'
-DAN.13:60 Then the whole assembly cried out with aloud voice and blessed God, who saves those who hope in Him.
+DAN.13:60 Then the whole assembly cried out with a loud voice and blessed God, who saves those who hope in Him.
 DAN.13:61 So they rose up against the two elders, for Daniel convicted them out of their own mouth of bearing false witness; and they did to them the thing they maliciously intended to do against their neighbor.
 DAN.13:62 For acting in accordance with the Law of Moses, they put them to death. Therefore innocent blood was saved on that day.
 DAN.13:63 Hilkiah and his wife praised God for their daughter, with Jehoiakim her husband and all her kindred, because nothing shameful was found in her.
@@ -671,7 +671,7 @@ DAN.14:14 So when they had all gone, the king set out the food for Bel. And Dani
 DAN.14:15 During the night the priests came with their wives and children, as they usually did, and ate and drank everything.
 DAN.14:16 The king rose early the next morning, and Daniel with him.
 DAN.14:17 Then the king said, 'Are the seals intact, Daniel?' Daniel answered, 'They are intact, O king.'
-DAN.14:18 As soon as the doors were opened, the king looked at the table and cried out in aloud voice, 'Great are you, O Bel, and with you there is no deceit at all.'
+DAN.14:18 As soon as the doors were opened, the king looked at the table and cried out in a loud voice, 'Great are you, O Bel, and with you there is no deceit at all.'
 DAN.14:19 Then Daniel laughed and restrained the king from going in. He said, 'Look at the floor, and notice whose footprints these are.'
 DAN.14:20 The king replied, 'I see the footprints of men, women, and children.'
 DAN.14:21 With great anger, the king seized the priests and their wives and children, and they showed him the hidden doors where they came in and consumed such things as were upon the table.
@@ -700,5 +700,5 @@ DAN.14:37 Habakkuk cried out, saying, 'O Daniel, Daniel, take the meal God has s
 DAN.14:38 Daniel said, 'You have remembered me, O God, and You have not forsaken those who love You.'
 DAN.14:39 So Daniel arose and ate; and the angel of the Lord immediately set Habakkuk down in his own place once more.
 DAN.14:40 After this, on the seventh day the king went to the lions' den to mourn for Daniel, and he came to the pit and looked inside-and there sat Daniel.
-DAN.14:41 The king cried out with aloud voice, 'Great are You, O Lord God of Daniel, and there is no other besides You.'
+DAN.14:41 The king cried out with a loud voice, 'Great are You, O Lord God of Daniel, and there is no other besides You.'
 DAN.14:42 Then he drew him out of the den, and cast in those who had plotted Daniel's destruction; and they were devoured in a moment before his face.

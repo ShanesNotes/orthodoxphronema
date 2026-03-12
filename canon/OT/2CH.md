@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-2CH.1:1 Then Solomon the son of David was firmly established over his kingdom, the Lord 
+2CH.1:1 When Solomon the son of David was firmly established over his kingdom, the Lord his God was with him and magnified him in honor.
 2CH.1:2 Solomon spoke to all Israel, to the captains of thousands and the captains of hundreds, to the judges, to all the rulers over Israel, and to the heads of the families.
 2CH.1:3 Solomon went with all the assembly to the high place at Gibeon, for the tabernacle of meeting with God was there, which Moses the servant of the Lord made in the wilderness.
 2CH.1:4 David had brought up the ark of God from the city of Kirjath Jearim to the place he prepared for it, for he had pitched a tent for it in Jerusalem.
@@ -26,6 +26,7 @@ has_additions: false
 2CH.1:10 Give me wisdom and understanding, so that I may go out and come in before this people, for who can judge this great people of Yours?'
 2CH.1:11 And God said to Solomon, 'Because this was in your heart and you did not ask for riches or wealth or honor or the life of your enemies, nor did you ask for long life, but you asked for wisdom and understanding for yourself, that you might judge My people over whom I made you king,
 2CH.1:12 now I will give you this wisdom and understanding. I will also give you riches and wealth and honor, such as none of the kings before you possessed, nor shall any after you possess.'
+
 ### Solomon's Power and Riches
 
 2CH.1:13 So Solomon came to Jerusalem from the high place at Gibeon, from before the tabernacle of witness, and reigned over Israel.
@@ -40,7 +41,7 @@ has_additions: false
 
 ## Chapter 2
 
-2CH.2:1 Solomon selected seventy thousand men to bear burdens, eighty
+2CH.2:1 Solomon selected seventy thousand men to bear burdens, eighty thousand to quarry stone in the mountains, and three thousand six hundred to oversee them.
 2CH.2:2 Then Solomon sent to Hiram king of Tyre, saying, 'As you dealt with David my father and sent him cedars to build himself a house to dwell in,
 2CH.2:3 behold I, his son, am building a house for the name of the Lord my God, to dedicate it to Him, to burn sweet incense before Him, to offer showbread continually, and to offer up burnt offerings continually, morning and evening, and on the Sabbaths, on the New Moons, and on the festivals of the Lord our God.
 2CH.2:4 This is a perpetual ordinance for Israel; and the house I am going to build will be great, for our God is greater than all gods.
@@ -54,6 +55,7 @@ has_additions: false
 2CH.2:12 And now I have sent a skillful man, endowed with discernment, Huram my father,
 2CH.2:13 the son of a woman of the daughters of Dan, and his father was a man of Tyre, skilled at working in gold and silver, bronze and iron, stone and wood, at weaving purple and blue, fine linen and crimson, and at making any engraving and accomplishing any plan that may be given to him, with your skillful men and with the skillful men of my lord David your father.
 2CH.2:14 Now therefore, let my lord send his servants the wheat, the barley, the oil, and the wine he spoke of,
+
 ### Construction Begins on the Temple
 
 2CH.2:15 and we will cut as much wood from Lebanon as you need. We will bring it to you in rafts by sea to Joppa, and you will carry it to Jerusalem.'
@@ -62,7 +64,7 @@ has_additions: false
 
 ## Chapter 3
 
-2CH.3:1 Now Solomon began to build the house of the Lord at Jerusalem on Mount Moriah, w
+2CH.3:1 Now Solomon began to build the house of the Lord at Jerusalem on Mount Moriah, where the Lord had appeared to his father David, at the place that David had prepared on the threshing floor of Ornan the Jebusite.
 2CH.3:2 And he began to build on the second day of the second month in the fourth year of his reign.
 2CH.3:3 This is the foundation Solomon laid for building the house of God. It was sixty cubits long (according to the former measure) and twenty cubits wide.
 2CH.3:4 The vestibule in front of the sanctuary was twenty cubits long across the width of the house, and one hundred twenty cubits high. He overlaid the inside with pure gold.
@@ -82,7 +84,7 @@ has_additions: false
 
 ## Chapter 4
 
-2CH.4:1 He made a bronze altar twenty cubits long, twenty cubits wide, 
+2CH.4:1 He he made the sea of cast bronze, ten cubits in diameter. It was completely round. It was five cubits high and thirty cubits around. 3Under it were the likenesses of oxen encircling it all around, ten to a cubit, all the way around the sea. The oxen were cast in two rows when it was cast. 4It stood on twelve oxen. Three looked toward the north, three looked toward the west, three looked toward the south, and three looked toward the east. The sea was set upon them, and all their back parts pointed inward. 5It was a handbreadth thick and its brim was like the brim of a cup, like a lily blossom. It contained three thousand baths. And he finished it. 6He also made ten basins, and put five on the right side and five on the left, to wash what they offered for the burnt offering. The sea, however, was for the priests to wash in. 7He made ten gold lampstands according to their design and set them in the temple, five on the right and five on the left. 8He also made ten tables and placed them in the temple, five on the right and five on the left. And he made one hundred golden bowls. 9He made the court of the priests, and the great court, and doors for the court, and overlaid the door panels with bronze. 10He set the sea on the right side toward the east. 11Then Huram made the pots and the shovels and the bowls for the altar and all its utensils. So Huram finished the work he was to do for King Solomon for the house of God, 12the two pillars and the bowl-shaped capitals on top of the two pillars, the two networks covering the two bowl-shaped capitals on top of the pillars; 13four hundred pomegranates for the two networks—two rows of pomegranates for each network, to cover the two bowl-shaped capitals on the pillars. 14He made carts and put basins on the carts, 15and one sea with twelve oxen under it, 16and tripods and buckets and basins and forks and all the other utensils. Huram his master craftsman made them of pure bronze for King Solomon for the house of the Lord. 17The king had them cast in clay molds in the plain of Jordan between Succoth and Zeredah. 18And Solomon had all these articles made in such great quantity that the weight of the bronze was not determined. 19Solomon had all the furnishings made for the house of God, the golden altar and the tables for the showbread, 20the lamp stands with their lamps of pure gold, to burn in the prescribed manner in front of the inner sanctuary, 21with the tongs and the lamps and the cups and the censers of pure gold. 22The door of the sanctuary, the inner door to the most holy place, and the doors of the main hall of the temple were gold. 5 So all the work that Solomon did for the house of the Lord was finished. And Solomon brought in everything his father David had dedicated, the silver and the gold and all the furnishings. And he put them in the treasuries of the house of God. The Ark Is Brought to the Temple
 2CH.4:2 And he made the sea of cast bronze, ten cubits in diameter. It was completely round. It was five cubits high and thirty cubits around.
 2CH.4:3 Under it were the likenesses of oxen encircling it all around, ten to a cubit, all the way around the sea. The oxen were cast in two rows when it was cast.
 2CH.4:4 It stood on twelve oxen. Three looked toward the north, three looked toward the west, three looked toward the south, and three looked toward the east. The sea was set upon them, and all their back parts pointed inward.
@@ -109,7 +111,7 @@ has_additions: false
 
 ### The Ark Is Brought to the Temple
 
-2CH.5:1 So all the work that Solomon did for the house of the Lord was
+2CH.5:1 So all the work that Solomon did for the house of the Lord was finished. And Solomon brought in everything his father David had dedicated, the silver and the gold and all the furnishings. And he put them in the treasuries of the house of God. The Ark Is Brought to the Temple
 2CH.5:2 Then Solomon assembled the elders of Israel and all the heads of the tribes, the leaders of the families of the sons of Israel, in Jerusalem, that they might bring the ark of the covenant of the Lord from the City of David, which is Zion.
 2CH.5:3 Therefore all the men of Israel assembled with the king at the feast in the seventh month.
 2CH.5:4 All the elders of Israel came, and the Levites took up the ark.
@@ -118,12 +120,14 @@ has_additions: false
 2CH.5:7 Then the priests brought in the ark of the covenant of the Lord to its place in the inner sanctuary of the temple, to the most holy place, under the wings of the cherubim.
 2CH.5:8 For the cherubim spread their wings over the place of the ark, and the cherubim overshadowed the ark and its poles.
 2CH.5:9 And the poles extended so that the ends of the poles of the ark could be seen from the holy place, in front of the inner sanctuary, but they could not be seen from outside. And they are there to this day.
+
 ### The Glory of God's Presence
 
 2CH.5:10 There was nothing in the ark except the two tablets Moses put there at Horeb when the Lord made a covenant with the sons of Israel when they came out of Egypt.
 2CH.5:11 And when the priests came from the holy place (for all the priests who were present were sanctified before being separated into divisions),
 2CH.5:12 and the Levites and the singers of Asaph and Heman and Jeduthun, with their sons and their brethren, stood at the east end of the altar, clothed in white linen, having cymbals, stringed instruments, and harps, and with them were one hundred twenty priests sounding with trumpets;
 2CH.5:13 and the trumpeters and singers were as one voice in sounding the trumpet and singing and in praising and thanking the Lord. And when they lifted up their voice with the trumpets and cymbals and instruments of music, they praised the Lord, saying: 'Give thanks to the Lord, for He is good, For His mercy endures forever.'
+
 ### Solomon Speaks to the People
 
 2CH.5:14 The house was filled with a cloud of the Lord's glory, so the priests could not continue ministering because of the cloud, for the glory of the Lord filled the house of God.
@@ -131,7 +135,7 @@ has_additions: false
 ## Chapter 6
 
 2CH.6:1 Then Solomon said: 'The Lord said He would dwell in the dark cloud.
-2CH.6:2 But I built a house to your name, a house holy to You, And prepared for You a place to dwell forever.' † †
+2CH.6:2 But I built a house to your name, a house holy to You, And prepared for You a place to dwell forever.'
 2CH.6:3 Then the king turned around and blessed the whole assembly of Israel, while all the assembly of Israel was standing.
 2CH.6:4 And he said, 'Blessed be the Lord God of Israel, who fulfilled with His hands what He spoke with His mouth to my father David, saying,
 2CH.6:5 'Since the day I brought My people out of the land of Egypt, I chose no city from any tribe of Israel in which to build a house, that My name might be there, nor did I choose any man to be a ruler over My people Israel;
@@ -140,6 +144,7 @@ has_additions: false
 2CH.6:8 but the Lord said to my father David, 'Whereas it was in your heart to build a house for My name, you did well by having it in your heart,
 2CH.6:9 but you shall not build the house, for your son who will come from your body, he shall build the house for My name.'
 2CH.6:10 So the Lord fulfilled the word He spoke, and I took my father David's place and sat on the throne of Israel as the Lord said, and I built the house for the name of the Lord God of Israel.
+
 ### The King's Prayer of Dedication
 
 2CH.6:11 And there I put the ark containing the covenant which the Lord made with Israel.'
@@ -173,21 +178,23 @@ has_additions: false
 2CH.6:39 then hear their prayer and their supplications from Your dwelling place in heaven and sustain their cause, and be merciful to Your people who sinned against You.
 2CH.6:40 'My God, I pray, let Your eyes be open and let Your ears be attentive to the prayer made in this place.
 2CH.6:41 Now therefore: 'Arise Lord God, to Your resting place, Let Your priests, Lord God, be clothed with salvation; Lord God, do not turn away the face of Your Anointed; You and the ark of Your strength; And let Your sons rejoice in goodness.
+
 ### The Temple Is Consecrated
 
 2CH.6:42 Remember the mercies of Your servant David.'
 
 ## Chapter 7
 
-2CH.7:1 Then Solomon finished praying, fire came down from heaven and consumed the burnt
+2CH.7:1 When Solomon finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the Lord filled the house.
 2CH.7:2 And the priests could not enter the house of the Lord at that time because the glory of the Lord had filled the house.
-2CH.7:3 When all the sons of Israel saw the fire come down and the glory of the Lord on the house, they bowed their faces to the ground on the pavement, and worshiped and praised the Lord, saying: 'For He is good, For His mercy endures forever.' †
+2CH.7:3 When all the sons of Israel saw the fire come down and the glory of the Lord on the house, they bowed their faces to the ground on the pavement, and worshiped and praised the Lord, saying: 'For He is good, For His mercy endures forever.'
 2CH.7:4 Then the king and all the people offered sacrifices before the Lord.
 2CH.7:5 Solomon offered a sacrifice of twenty-two thousand calves and one hundred twenty thousand sheep. So the king and all the people dedicated the house of God.
 2CH.7:6 And the priests stood at their posts along with the Levites and their instruments for the music of the Lord, which King David had made to praise the Lord, saying, 'For His mercy endures forever,' with the hymns of David. The priests sounded trumpets opposite them, while all Israel stood.
 2CH.7:7 Solomon consecrated the middle of the court of the house of the Lord. He offered burnt offerings and the fat of the peace offerings, because the bronze altar Solomon made was not able to receive the burnt offerings, the grain offerings, and the fat.
 2CH.7:8 At that time Solomon kept the feast for seven days, and all Israel kept it with him, a very great assembly from the entrance of Hamath to the Brook of Egypt.
 2CH.7:9 And on the eighth day they held a sacred assembly, for they observed the dedication of the altar for seven days.
+
 ### God Appears Again to Solomon
 
 2CH.7:10 On the twenty-third day of the seventh month, he sent the people away to their habitations, joyful and glad of heart for the good that the Lord had done for David, for Solomon, and for His people Israel.
@@ -202,13 +209,14 @@ has_additions: false
 2CH.7:19 But if you turn away and forsake My statutes and My commandments that I set before you, and go and serve other gods and worship them,
 2CH.7:20 then I will remove you from the land I gave them and I will cast from My sight this house which I have sanctified for My name, and I will make it a parable and a byword among all peoples.
 2CH.7:21 'As to this proud house, everyone who passes will be astonished and say, 'Why did the Lord do this to this land and this house?'
+
 ### Solomon's Other Accomplishments
 
 2CH.7:22 Then they will answer, 'Because they forsook the Lord God of their fathers who brought them out of the land of Egypt, and embraced other gods and worshiped them and served them. That is why He brought all this calamity on them.' '
 
 ## Chapter 8
 
-2CH.8:1 Twenty years after Solomon built the house of the Lord and hi
+2CH.8:1 built the cities Hiram had given him and settled the sons of Israel there. 3And Solomon went to Hamath Zobah and seized it. 4And he built Tadmor in the desert and built all the fortified cities in Hamath. 5He built Upper Beth Horon and Lower Beth Horon, cities fortified with walls, gates, and bars, 6and Baalath and all the fortified cities Solomon had, and all the chariot cities and the cities of the cavalry, and everything Solomon desired to build in Jerusalem, in Lebanon, and in all his kingdom. 7All the people who were left of the Hittites, Amorites, Perizzites, Hivites, and Jebusites, who were not of Israel— 8that is, their sons who were left in the land after them, whom the sons of Israel did not destroy—from these Solomon raised forced labor, as it is done today. 9But Solomon did not turn the sons of Israel into servants for his kingdom. Some were men of war, captains of his officers, captains of his chariots and his cavalry. 10Others were chiefs of the officials of King Solomon, two hundred fifty, who ruled over the people. 11Now Solomon brought the daughter of Pharaoh up from the City of David to the house he built for her. For he said, “My wife shall not dwell in the house of David, king of Israel, because the place where the ark of the Lord has come is holy.” 12Then Solomon offered burnt offerings to the Lord on the altar of the Lord he built before the temple, 13according to the daily rate, offering according to the commandment of Moses, for the Sabbaths, the New Moons, and the three appointed yearly feasts—the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles. 14According to the order of David his father, he appointed the divisions of the priests for their service, the Levites for their duties—to praise and serve before the priests—as each day's duty required, and he appointed the gatekeepers by their divisions at each gate, for so David the man of God commanded. 15Concerning any matter or the treasuries, they did not depart from the command of the king to the priests and Levites. 16Now all the work of Solomon was well ordered, from the day of the foundation until Solomon finished the house of the Lord. 17Then Solomon went to Ezion Geber and Elath on the seacoast, in the land of Edom. 18And Hiram sent him ships by the hand of his servants, and servants who knew the sea. They went with the servants of Solomon to Ophir, where they acquired four hundred fifty gold talents and brought them to King Solomon. The Queen of Sheba Pays a Visit 9 Now when the queen of Sheba heard of the fame of Solomon, she came to Jerusalem to test Solomon with hard questions. She brought a very great retinue, camels that bore spices, an abundance of gold, and precious stones. And when she came to Solomon, she spoke with him about everything in her heart.
 2CH.8:2 Solomon built the cities Hiram had given him and settled the sons of Israel there.
 2CH.8:3 And Solomon went to Hamath Zobah and seized it.
 2CH.8:4 And he built Tadmor in the desert and built all the fortified cities in Hamath.
@@ -225,13 +233,14 @@ has_additions: false
 2CH.8:15 Concerning any matter or the treasuries, they did not depart from the command of the king to the priests and Levites.
 2CH.8:16 Now all the work of Solomon was well ordered, from the day of the foundation until Solomon finished the house of the Lord.
 2CH.8:17 Then Solomon went to Ezion Geber and Elath on the seacoast, in the land of Edom.
+
 ### The Queen of Sheba Pays a Visit
 
 2CH.8:18 And Hiram sent him ships by the hand of his servants, and servants who knew the sea. They went with the servants of Solomon to Ophir, where they acquired four hundred fifty gold talents and brought them to King Solomon.
 
 ## Chapter 9
 
-2CH.9:1 Now when the queen of Sheba heard of the fame of Solomon, she came to Jerusalem 
+2CH.9:1 Now when the queen of Sheba heard of the fame of Solomon, she came to Jerusalem to test Solomon with hard questions. She brought a very great retinue, camels that bore spices, an abundance of gold, and precious stones. And when she came to Solomon, she spoke with him about everything in her heart.
 2CH.9:2 Solomon answered all her questions. There was nothing too difficult for Solomon to explain to her.
 2CH.9:3 And when the queen of Sheba had seen Solomon's wisdom, the house that he had built,
 2CH.9:4 the food on his table, the seating of his servants, the service of his waiters and their apparel, his cup-bearers and their apparel, and the burnt offerings he made in the house of the Lord, she was beside herself.
@@ -242,6 +251,7 @@ has_additions: false
 2CH.9:9 And she gave the king one hundred twenty talents of gold, a great quantity of spices, and precious stones. There were never such spices as those the queen of Sheba gave King Solomon.
 2CH.9:10 The servants of Hiram and the servants of Solomon also brought gold from Ophir and pine wood and precious stones.
 2CH.9:11 The king made walkways of pine wood for the house of the Lord and for the king's house, and harps and stringed instruments for the singers, and there were none such as these seen before in the land of Judah.
+
 ### Solomon's Material Wealth
 
 2CH.9:12 Now King Solomon gave the queen of Sheba everything she desired, whatever she asked, much more than she had brought King Solomon. So she returned to her own land.
@@ -260,18 +270,20 @@ has_additions: false
 2CH.9:25 Solomon had four thousand female horses for chariots and twelve thousand horsemen, whom he stationed in the chariot cities and with the king at Jerusalem.
 2CH.9:26 So he reigned over all the kings from the river to the land of the foreigners, as far as the border of Egypt.
 2CH.9:27 The king made silver as common in Jerusalem as stones, and he made cedar trees as abundant as the sycamores of the lowland.
+
 ### The Death of Solomon
 
 2CH.9:28 And they brought Solomon horses from Egypt and from all lands.
 2CH.9:29 Now the rest of the acts of Solomon, first and last, are they not written in the words of Nathan the prophet, in the prophecy of Ahijah the Shilonite, and in the visions of Joel the seer concerning Jeroboam the son of Nebat?
 2CH.9:30 Solomon reigned in Jerusalem over all Israel forty years.
+
 ### Revolt against King Rehoboam
 
 2CH.9:31 Then Solomon rested with his fathers and was buried in the City of David his father. Rehoboam his son reigned in his place.
 
 ## Chapter 10
 
-2CH.10:1 Rehoboam went to Shechem, for all Israel went to Shechem to m
+2CH.10:1 when Jeroboam the son of Nebat heard it—he was in Egypt, where he had fled from the presence of King Solomon—Jeroboam returned from Egypt. 3Then they sent for him and called him. And Jeroboam and all Israel came and spoke to Rehoboam, saying, 4“Your father made our yoke heavy. Now therefore, lighten the burdensome service of your father and the heavy yoke he put on us, and we will serve you.” 5So he said to them, “Come back to me in three days.” And the people departed. 6Then King Rehoboam gathered the elders who stood before his father Solomon while he still lived and said, “How do you advise me to answer these people?” 7And they spoke to him, saying, “If you are kind to these people and please them and speak good words to them, they will be your servants forever.” 8But he rejected the advice the elders gave him and consulted the young men who had grown up with him, who stood before him. 9And he said to them, “What is your advice? How should I answer this people who spoke to me, saying, ‘Lighten the yoke your father put on us’?” 10Then the young men who had grown up with him spoke to him, saying, “This is how you should speak to the people who spoke to you, saying, ‘Your father made our yoke heavy, but you make it lighter on us’—this you shall tell them: ‘My little finger shall be thicker than my father's waist! 11And now, whereas my father put a heavy yoke on you, I will add to your yoke. My father chastised you with whips, but I will chastise you with scorpions!’ ” 12So Jeroboam and all the people came to Rehoboam on the third day, as the king had directed, saying, “Come back to me three days from now.” 13And the king answered them roughly. King Rehoboam rejected the advice of the elders 14and spoke to them according to the advice of the young men, saying, “My father made your yoke heavy, but I will add to it. My father chastised you with whips, but I will chastise you with scorpions!” 15So the king did not listen to the people, for this turn of events was from God, so the Lord might fulfill the word He had spoken by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat. 16Now when all Israel saw that the king did not listen to them, the people answered the king, saying, “What share have we in David? What inheritance do we have in the son of Jesse? Every man to your tents, Israel! Now see to your own house, David!” So all Israel departed to their tents. 17And the men of Israel dwelt in the cities of Judah, and Rehoboam reigned over them. 18Then King Rehoboam sent Hadoram, who was in charge of revenue, but the children of Israel stoned him with stones, and he died. Therefore King Rehoboam mounted his chariot in haste to flee to Jerusalem. 19So Israel has been in rebellion against the house of David to this day. The Prophecy of Shemaiah 11 When Rehoboam came to Jerusalem, he assembled one hundred eighty thousand young men, warriors from Judah and Benjamin, to fight against Israel and restore the kingdom to Rehoboam.
 2CH.10:2 So when Jeroboam the son of Nebat heard it-he was in Egypt, where he had fled from the presence of King Solomon-Jeroboam returned from Egypt.
 2CH.10:3 Then they sent for him and called him. And Jeroboam and all Israel came and spoke to Rehoboam, saying,
 2CH.10:4 'Your father made our yoke heavy. Now therefore, lighten the burdensome service of your father and the heavy yoke he put on us, and we will serve you.'
@@ -289,15 +301,17 @@ has_additions: false
 2CH.10:16 Now when all Israel saw that the king did not listen to them, the people answered the king, saying, 'What share have we in David? What inheritance do we have in the son of Jesse? Every man to your tents, Israel! Now see to your own house, David!' So all Israel departed to their tents.
 2CH.10:17 And the men of Israel dwelt in the cities of Judah, and Rehoboam reigned over them.
 2CH.10:18 Then King Rehoboam sent Hadoram, who was in charge of revenue, but the children of Israel stoned him with stones, and he died. Therefore King Rehoboam mounted his chariot in haste to flee to Jerusalem.
+
 ### The Prophecy of Shemaiah
 
 2CH.10:19 So Israel has been in rebellion against the house of David to this day.
 
 ## Chapter 11
 
-2CH.11:1 Then Rehoboam came to Jerusalem, he assembled one hundred eighty thousand young 
+2CH.11:1 When Rehoboam came to Jerusalem, he assembled one hundred eighty thousand young men, warriors from Judah and Benjamin, to fight against Israel and restore the kingdom to Rehoboam.
 2CH.11:2 But the word of the Lord came to Shemaiah the man of God, saying,
 2CH.11:3 'Speak to Rehoboam the son of Solomon and to all Judah and Benjamin, saying,
+
 ### Defensive Fortifications
 
 2CH.11:4 'Thus says the Lord: 'You shall not go up and fight against your brethren! Let every man return to his house, for this is from Me.' ' ' And they obeyed the words of the Lord and turned back from marching against Jeroboam.
@@ -313,6 +327,7 @@ has_additions: false
 2CH.11:14 For the Levites left the habitations of their possessions and came to Judah and Jerusalem, because Jeroboam and his sons had rejected them from serving the Lord.
 2CH.11:15 Then he appointed for himself priests for the high places and the idols, and the vain things and the calves Jeroboam had made.
 2CH.11:16 Then Jeroboam cast them out of the tribes of Israel, those who had set their heart on seeking the Lord God of Israel, and they came to Jerusalem to sacrifice to the Lord God of their fathers.
+
 ### Rehoboam's Family
 
 2CH.11:17 So they strengthened the kingdom of Judah and strengthened Rehoboam the son of Solomon for three years, because he walked in the ways of David and Solomon for three years.
@@ -321,13 +336,14 @@ has_additions: false
 2CH.11:20 Then he took Maachah the daughter of Absalom, and she bore him Abijah, Attai, Ziza, and Shelomith.
 2CH.11:21 Now Rehoboam loved Maachah the daughter of Absalom more than all his wives and concubines, for he took eighteen wives and thirty concubines and begot twenty-eight sons and sixty daughters.
 2CH.11:22 And Rehoboam appointed Abijah the son of Maachah as chief to be the leader among his brothers, for he intended to make him king.
+
 ### Egypt Invades Judah
 
 2CH.11:23 He grew more powerful than all his sons throughout the territories of Judah and Benjamin and in all the fortified cities, and he gave them provisions in abundance. He also sought many wives for them.
 
 ## Chapter 12
 
-2CH.12:1 Then Rehoboam's kingdom was established and strengthened, he forsook the commandment
+2CH.12:1 When Rehoboam's kingdom was established and strengthened, he forsook the commandments of the Lord, as did all Israel along with him.
 2CH.12:2 And in the fifth year of Rehoboam's reign, Shishak king of Egypt came up against Jerusalem, because they sinned against the Lord.
 2CH.12:3 And he brought twelve hundred chariots, sixty thousand horsemen, and people without number who came with him from Egypt-the Lubim and the Sukkiim and the Ethiopians.
 2CH.12:4 And he took the fortified cities of Judah and came to Jerusalem.
@@ -338,12 +354,14 @@ has_additions: false
 2CH.12:9 So Shishak king of Egypt came up against Jerusalem and took the treasures of the house of the Lord and the treasures of the king's house. He took everything. He even carried away the gold shields Solomon had made.
 2CH.12:10 Then Rehoboam made bronze shields in their place and committed them to the hands of the captains of the guard who guarded the doorway of the king's house.
 2CH.12:11 And whenever the king entered the house of the Lord, the guard would go and bring them out. Then they would take them back into the guardroom.
+
 ### Rehoboam's Reign Ends
 
 2CH.12:12 When Rehoboam repented, the wrath of the Lord turned from him, and He did not destroy him completely. Things went well in Judah.
-2CH.12:13 hus Rehoboam strengthened himself in Jerusalem and reigned. Now Rehoboam was forty-one years old when he became king, and he reigned for seventeen years in Jerusalem, the city the Lord had chosen out of all the tribes of Israel to put His name there. His mother's name was Naamah, an Ammonite woman.
+2CH.12:13 Thus Rehoboam strengthened himself in Jerusalem and reigned. Now Rehoboam was forty-one years old when he became king, and he reigned for seventeen years in Jerusalem, the city the Lord had chosen out of all the tribes of Israel to put His name there. His mother's name was Naamah, an Ammonite woman.
 2CH.12:14 And he did evil because he did not direct his heart to seek the Lord.
 2CH.12:15 The acts of Rehoboam, first and last, are they not written in the book of Shemaiah the prophet, and of Iddo the seer concerning genealogies? And Rehoboam waged war against Jeroboam all their days.
+
 ### Abijah Is King of Judah
 
 2CH.12:16 So Rehoboam died and rested with his fathers, and was buried in the City of David. Then Abijah his son reigned in his place.
@@ -365,6 +383,7 @@ has_additions: false
 2CH.13:13 And Jeroboam sent men to slip behind Judah, so Jeroboam would be in front of Judah with an ambush being behind them.
 2CH.13:14 Judah looked back, and behold, a battle line was behind them and in front of them. And they cried out to the Lord, and the priests sounded the trumpets.
 2CH.13:15 Then the men of Judah shouted. And as the men of Judah shouted, God struck Jeroboam and all Israel before Abijah and Judah.
+
 ### Abijah Is King of Judah
 
 2CH.13:16 And the sons of Israel fled before Judah, and God delivered them into their hands.
@@ -381,7 +400,7 @@ has_additions: false
 
 ## Chapter 14
 
-2CH.14:1 Asa did what was good and proper in the eyes of the Lord his 
+2CH.14:1 altars of the foreign gods and the high places and broke down the sacred pillars and cut down the groves. 3He commanded Judah to seek the Lord God of their fathers and to observe the law and the commandments. 4He also removed the altars and the idols from all the cities of Judah, and the kingdom was quiet under him. 5He was able to build walled cities in Judah, for the land had rest. There was no war in those years because the Lord gave him rest. 6Therefore he said to Judah, “Because we sought the Lord our God, let us build these cities and make walls around them, and towers, gates, and bars in the land we rule. We sought Him, and He gave us rest on every side, and we have prospered.” 7Asa had an army of three hundred thousand from Judah who carried shields and spears, and from Benjamin two hundred fifty thousand men who carried shields and drew bows. All these were mighty men of valor. 8Then Zerah the Ethiopian came against them with an army of a million men and three hundred chariots, and came to Mareshah. 9So Asa went out against him, and they set the troops in battle array in the valley to the north of Mareshah. 10And Asa cried out to the Lord his God and said, “Lord, with You it is not impossible, whether with the many or with the few. Strengthen us, Lord our God, for we trust in You. And in Your name we go against this multitude. Lord our God, do not let man prevail against You!” 11So the Lord struck the Ethiopians before Judah, and the Ethiopians fled. 12And Asa and the people with him pursued them to Gerar, and the Ethiopians were so defeated they could not recover. They were crushed before the Lord and His army. And they carried away a great deal of spoil. 13Then they cut off all the villages round about Gerar, for the fear of the Lord came upon them; even so, they plundered all their cities, for they had a great amount of spoil in them. 14They even tore down the enclosures for the livestock. Then they took many of the sheep and camels and returned to Jerusalem. Asa Brings Reforms 15 Now the Spirit of God came upon Azariah the son of Oded.
 2CH.14:2 for he removed the altars of the foreign gods and the high places and broke down the sacred pillars and cut down the groves.
 2CH.14:3 He commanded Judah to seek the Lord God of their fathers and to observe the law and the commandments.
 2CH.14:4 He also removed the altars and the idols from all the cities of Judah, and the kingdom was quiet under him.
@@ -394,6 +413,7 @@ has_additions: false
 2CH.14:11 So the Lord struck the Ethiopians before Judah, and the Ethiopians fled.
 2CH.14:12 And Asa and the people with him pursued them to Gerar, and the Ethiopians were so defeated they could not recover. They were crushed before the Lord and His army. And they carried away a great deal of spoil.
 2CH.14:13 Then they cut off all the villages round about Gerar, for the fear of the Lord came upon them; even so, they plundered all their cities, for they had a great amount of spoil in them.
+
 ### Asa Brings Reforms
 
 2CH.14:14 They even tore down the enclosures for the livestock. Then they took many of the sheep and camels and returned to Jerusalem.
@@ -402,7 +422,7 @@ has_additions: false
 
 2CH.15:1 Now the Spirit of God came upon Azariah the son of Oded.
 2CH.15:2 And he went out to meet Asa and all Judah and Benjamin, and said, 'Hear me, Asa, and all Judah and Benjamin. The Lord is with you while you are with Him. If you seek Him, He will be found by you, but if you forsake Him, He will forsake you.
-2CH.15:3 For along time Israel was without the true God, without a teaching priest, and held to what is not the law.
+2CH.15:3 For a long time Israel was without the true God, without a teaching priest, and held to what is not the law.
 2CH.15:4 But when in their trouble they turned to the Lord God of Israel and sought Him, He was found by them.
 2CH.15:5 In those times, there was no peace for the one who went out or the one who came in, but great terror of the Lord was on all the inhabitants of the lands.
 2CH.15:6 So nation destroyed nation and city against city, for God troubled them with every adversity.
@@ -415,9 +435,10 @@ has_additions: false
 2CH.15:13 Whoever would not seek the Lord God of Israel was to be put to death, small or great, man or woman.
 2CH.15:14 With aloud voice and trumpets and rams' horns they took an oath before the Lord.
 2CH.15:15 And all of Judah rejoiced at the oath, for they had sworn with all their heart and sought Him with all their soul. And He was found by them, and the Lord gave them rest all around.
-2CH.15:16 nd he removed Maachah his mother from being queen mother because she served the Asherah; and he cut down the idol and burned it at the Brook Kidron.
+2CH.15:16 And he removed Maachah his mother from being queen mother because she served the Asherah; and he cut down the idol and burned it at the Brook Kidron.
 2CH.15:17 But the high places were not removed, and they still existed in Israel. But the heart of Asa was loyal all his days.
 2CH.15:18 He also brought the things his father had dedicated and that he himself had dedicated silver and gold and utensils.
+
 ### Asa's Treaty with Syria's King
 
 2CH.15:19 And there was no war until the thirty-fifth year of the reign of Asa.
@@ -429,25 +450,28 @@ has_additions: false
 2CH.16:3 'Let there be a treaty between you and me, as there was between my father and your father. Here, I have sent you silver and gold. Come and drive away Baasha king of Israel so that he will withdraw from me.'
 2CH.16:4 So the son of Hadad heeded King Asa, and sent the captains of his armies against the cities of Israel. They attacked Ijon, Dan, Abel Maim, and all the areas around Naphtali.
 2CH.16:5 Now when Baasha heard it, he stopped building Ramah and ceased his work.
+
 ### Hanani's Prophecy to Asa
 
 2CH.16:6 Then King Asa took all of Judah, and they carried away the stones and timber of Ramah which Baasha had used for building. With them he built Geba and Mizpah.
 2CH.16:7 And at that time, Hanani the prophet came to Asa king of Judah and said to him, 'Because you relied on the king of Syria and did not rely on the Lord your God, therefore the army of the king of Syria escaped from your hand.
 2CH.16:8 Were not the Ethiopians and the Lubim a large and courageous army with a great many chariots and horsemen? Yet, because you relied on the Lord, He delivered them into your hand.
 2CH.16:9 For the eyes of the Lord look over the whole earth and strengthen every heart that is loyal to Him. In this you did foolishly, and from now on you shall have wars.'
+
 ### Sickness and Death of Asa
 
 2CH.16:10 Asa was angry at the prophet and he put him in prison, for because of this he was enraged at him. And at that time Asa oppressed some of the people.
 2CH.16:11 Now the acts of Asa, first and last, are written in the Book of the Kings of Judah and Israel.
 2CH.16:12 In the thirty-ninth year of his reign, Asa became diseased in his feet, and his malady was severe. And in his disease he sought physicians rather than the Lord.
 2CH.16:13 So Asa rested with his fathers. He died in the thirty-ninth year of his reign.
+
 ### Jehoshaphat Is King of Judah
 
 2CH.16:14 They buried him in the tomb he had made for himself in the City of David. And they laid him in a bed filled with spices and various ingredients prepared in a mixture of ointments. They made a very great funeral for him.
 
 ## Chapter 17
 
-2CH.17:1 Then Jehoshaphat his son reigned in his place and strengthened himself against I
+2CH.17:1 2He placed troops in all the fortified cities of Judah, and set captains in the land of Judah and in the cities of Ephraim which Asa his father had taken. 3Now the Lord was with Jehoshaphat, because he walked in the former ways of his father David and did not seek idols, 4but sought the Lord God of his father and walked in His commandments, and not according to the deeds of Israel. 5Therefore the Lord guided the kingdom by his hand. And all Judah brought gifts to Jehoshaphat, and he had great wealth and honor. 6His heart took delight in the ways of the Lord. And moreover, he removed the high places and groves from the land of Judah. 7And in the third year of his reign, he sent his leaders and the sons of the mighty men, Obadiah, Zechariah, Nethanel, and Michaiah, to teach in the cities of Judah. 8And with them he sent Levites, Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiramoth, Jehonathan, Adonijah, Tobijah—the Levites. And with them were the priests Elishama and Jehoram. 9So they taught in Judah, and had the Book of the Law of the Lord with them. They went through the cities of Judah and taught the people. Jehoshaphat's Strength 10And the fear of the Lord fell on all the kingdoms of the lands around Judah, so they did not make war against Jehoshaphat. 11And some of the foreigners brought Jehoshaphat presents and silver as tribute, and the Arabians brought him flocks—seven thousand seven hundred rams. 12So Jehoshaphat became increasingly powerful, and he built fortresses and fortified cities in Judah. 13He had great works in Judah, and in Jerusalem men of war, mighty men of valor. 14These are their numbers by their fathers’ houses: of Judah, the captains of thousands, Adnah the captain, and with him three hundred thousand mighty men of valor; 15and with him was Jehohanan the captain, and with him were two hundred eighty thousand; 16and with him was Amasiah the son of Zichri, who willingly offered himself to the Lord, and with him were two hundred thousand mighty men of valor. 17From Benjamin came Eliada, a mighty man of valor, and with him were two hundred thousand men armed with bow and shield. 18And with him was Jehozabad, who brought one hundred eighty thousand prepared for war. 19These served the king in addition to those the king put in the fortified cities throughout Judah. King Ahab Hears Micaiah's Prophecy Jehoshaphat had great wealth and honor, and he allied himself by marriage with Ahab. 18
 2CH.17:2 He placed troops in all the fortified cities of Judah, and set captains in the land of Judah and in the cities of Ephraim which Asa his father had taken.
 2CH.17:3 Now the Lord was with Jehoshaphat, because he walked in the former ways of his father David and did not seek idols,
 2CH.17:4 but sought the Lord God of his father and walked in His commandments, and not according to the deeds of Israel.
@@ -455,6 +479,7 @@ has_additions: false
 2CH.17:6 His heart took delight in the ways of the Lord. And moreover, he removed the high places and groves from the land of Judah.
 2CH.17:7 And in the third year of his reign, he sent his leaders and the sons of the mighty men, Obadiah, Zechariah, Nethanel, and Michaiah, to teach in the cities of Judah.
 2CH.17:8 And with them he sent Levites, Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiramoth, Jehonathan, Adonijah, Tobijah-the Levites. And with them were the priests Elishama and Jehoram.
+
 ### Jehoshaphat's Strength
 
 2CH.17:9 So they taught in Judah, and had the Book of the Law of the Lord with them. They went through the cities of Judah and taught the people.
@@ -467,13 +492,14 @@ has_additions: false
 2CH.17:16 and with him was Amasiah the son of Zichri, who willingly offered himself to the Lord, and with him were two hundred thousand mighty men of valor.
 2CH.17:17 From Benjamin came Eliada, a mighty man of valor, and with him were two hundred thousand men armed with bow and shield.
 2CH.17:18 And with him was Jehozabad, who brought one hundred eighty thousand prepared for war.
+
 ### King Ahab Hears Micaiah's Prophecy
 
 2CH.17:19 These served the king in addition to those the king put in the fortified cities throughout Judah.
 
 ## Chapter 18
 
-2CH.18:1 Jehoshaphat had great wealth and honor, and he allied himself
+2CH.18:1 2After several years, he went down to visit Ahab in Samaria. Ahab killed many sheep and oxen for him and for the people with him, and he persuaded him to go with him to Ramoth Gilead. 3So Ahab king of Israel said to Jehoshaphat king of Judah, “Will you go with me against Ramoth Gilead?” And he answered him, “In time of war, I am like you and my people are like your people.” 4And Jehoshaphat said to the king of Israel, “Please inquire of the Lord today.” 5The king of Israel gathered the prophets—four hundred men—and said to them, “Shall we go to war against Ramoth Gilead, or shall I refrain?” And they said, “Go up, for God will deliver this place into the king's hand.” 6But Jehoshaphat said, “Is there not still a prophet of the Lord here, so that we may inquire of Him?” 7So the king of Israel said to Jehoshaphat, “There is still one man by whom we may inquire of the Lord, but I hate him because he never prophesies good concerning me, but always evil. He is Micaiah the son of Imla.” And Jehoshaphat said, “Let not the king say such things!” 8Then Ahab called a eunuch and said, “Bring quickly Micaiah the son of Imla!” 9The king of Israel and Jehoshaphat king of Judah sat on their thrones clothed in their robes. They sat at a threshing floor at the entrance of the gate of Samaria, and all the prophets prophesied before them. 10Now Zedekiah the son of Chenaanah made iron horns for himself and said, “Thus says the Lord: ‘With these you shall gore the Syrians until they are destroyed.’ ” 11And all the prophets prophesied in a similar manner, saying, “Go up to Ramoth Gilead and prosper, for the Lord will deliver it into the king's hand.” 12Then the messenger who went to call Micaiah spoke to him, saying, “Now listen, the words of the prophets with one accord encourage the king. Therefore let your word be like the word of one of them and speak encouragement.” 13And Micaiah said, “As the Lord lives, I will say whatever my God tells me.” 14Then he came to the king, and the king said to him, “Micaiah, shall we go to war against Ramoth Gilead, or shall I refrain?” And he said, “Go and prosper, and they shall be delivered into your hand!” 15So the king said to him, “How many times shall I make you swear not to tell me anything but the truth, in the name of the Lord?” 16Then he said, “I saw all Israel scattered on the mountains like sheep that have no shepherd; and the Lord said, ‘These have no master; let each return to his house in peace.’ ” 17And the king of Israel said to Jehoshaphat, “Did I not tell you he does not prophesy good concerning me, but evil?” 18Then Micaiah said, “No, hear the word of the Lord. I saw the Lord sitting on His throne, and all the host of heaven standing at His right and His left. 19And the Lord said, ‘Who will deceive Ahab king of Israel, to go up so he may fall at Ramoth Gilead?’ So one spoke in this manner and another spoke in that manner. 20Then a spirit came forward and stood before the Lord, and said, ‘I will deceive him.’ And the Lord said, ‘In what way?’ 21So he said, ‘I will go out and be a lying spirit in the mouth of all his prophets.’ And the Lord said, ‘You shall deceive him and prevail. Go out and do so.’ 22“Listen therefore! The Lord put a lying spirit in the mouth of all these prophets of yours. The Lord declares disaster against you.” 23Then Zedekiah the son of Chenaanah approached and slapped Micaiah on the cheek and said, “What sort of spirit of the Lord passed by way of me speaking to you?” 24And Micaiah said, “Indeed you shall see on that day when you go from chamber to chamber to hide yourself.” 25Then the king of Israel said, “Take Micaiah and return him to Amon the governor of the city, and to Joash the chief captain, the son of the king; 26and say, ‘Thus says the king: “Put this fellow in prison. Let him eat the bread of affliction and drink the water of affliction until I return in peace.” ’ ” 27And Micaiah said, “If you ever return in peace, the Lord did not speak by me.” And he said, “Take heed, all you people.” King Ahab Killed in Battle 28So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth Gilead. 29And the king of Israel said to Jehoshaphat, “I will disguise myself and go into battle. You put on my robes.” So the king of Israel disguised himself and went into battle. 30Now the king of Syria had commanded the captains of the chariots by saying, “Fight with no one small or great, but only with the king of Israel.” 31So when the captains of the chariots saw Jehoshaphat, they said, “It is the king of Israel!” Therefore they surrounded him to attack. But Jehoshaphat cried out, and the Lord saved him, and God diverted them from him. 32For when the captains of the chariots saw that it was not Ahab king of Israel, they turned away from him. 33Now a certain man with good aim drew a bow and struck the king of Israel between the lungs and the breastplate. Ahab said to the driver of his chariot, “Turn around and take me out of the battle, for I am wounded.” 34On that day, the war turned. The king of Israel, away from the Syrians, remained standing in his chariot until evening, and at sunset he died. Jehoshaphat Brings Reforms Then Jehoshaphat the king of Judah returned in peace to his house in Jerusalem. 19
 2CH.18:2 After several years, he went down to visit Ahab in Samaria. Ahab killed many sheep and oxen for him and for the people with him, and he persuaded him to go with him to Ramoth Gilead.
 2CH.18:3 So Ahab king of Israel said to Jehoshaphat king of Judah, 'Will you go with me against Ramoth Gilead?' And he answered him, 'In time of war, I am like you and my people are like your people.'
 2CH.18:4 And Jehoshaphat said to the king of Israel, 'Please inquire of the Lord today.'
@@ -499,6 +525,7 @@ has_additions: false
 2CH.18:24 And Micaiah said, 'Indeed you shall see on that day when you go from chamber to chamber to hide yourself.'
 2CH.18:25 Then the king of Israel said, 'Take Micaiah and return him to Amon the governor of the city, and to Joash the chief captain, the son of the king;
 2CH.18:26 and say, 'Thus says the king: 'Put this fellow in prison. Let him eat the bread of affliction and drink the water of affliction until I return in peace.' ' '
+
 ### King Ahab Killed in Battle
 
 2CH.18:27 And Micaiah said, 'If you ever return in peace, the Lord did not speak by me.' And he said, 'Take heed, all you people.'
@@ -508,6 +535,7 @@ has_additions: false
 2CH.18:31 So when the captains of the chariots saw Jehoshaphat, they said, 'It is the king of Israel!' Therefore they surrounded him to attack. But Jehoshaphat cried out, and the Lord saved him, and God diverted them from him.
 2CH.18:32 For when the captains of the chariots saw that it was not Ahab king of Israel, they turned away from him.
 2CH.18:33 Now a certain man with good aim drew a bow and struck the king of Israel between the lungs and the breastplate. Ahab said to the driver of his chariot, 'Turn around and take me out of the battle, for I am wounded.'
+
 ### Jehoshaphat Brings Reforms
 
 2CH.18:34 On that day, the war turned. The king of Israel, away from the Syrians, remained standing in his chariot until evening, and at sunset he died.
@@ -524,13 +552,14 @@ has_additions: false
 2CH.19:8 Moreover in Jerusalem, Jehoshaphat appointed some of the Levites and priests, and some of the chief fathers of Israel, for the judgment of the Lord and to judge those dwelling in Jerusalem.
 2CH.19:9 And he commanded them, saying, 'Thus you shall act in the fear of the Lord faithfully and with a mature heart.
 2CH.19:10 Whatever case comes to you from your brethren that dwell in their cities, whether of bloodshed or offenses against law or commandment, against statutes or ordinances, you shall warn them not to trespass against the Lord, so that wrath may not come upon you and your brethren. Do this, and you will not be guilty of sin.
+
 ### Defeat of Ammon, Moab, and Mount Seir
 
 2CH.19:11 Listen, regarding Amariah the priest, he is head over you in each matter of the Lord. Zebadiah the son of Ishmael is the head over the house of Judah in every matter of the king; and the scribes and the Levites will be before you. Be willing and do the works, for the Lord will be with the good.'
 
 ## Chapter 20
 
-2CH.20:1 After this, the sons of Moab and the sons of Ammon and others from the Meunites 
+2CH.20:1 After this, the sons of Moab and the sons of Ammon and others from the Meunites came to battle against Jehoshaphat.
 2CH.20:2 And some came and told Jehoshaphat, saying, 'A great multitude has come against you from beyond the sea, from Syria. They are in Hazazon Tamar' (which is En Gedi).
 2CH.20:3 Jehoshaphat was afraid and set himself to seek the Lord, and proclaimed a fast throughout all Judah.
 2CH.20:4 So Judah gathered to seek the Lord, and from all the cities of Judah they came to seek the Lord.
@@ -559,6 +588,7 @@ has_additions: false
 2CH.20:27 Then every man of Judah returned to Jerusalem with Jehoshaphat in front of them with great joy, for the Lord had made them rejoice over their enemies.
 2CH.20:28 So they came to Jerusalem to the house of the Lord with stringed instruments and harps and trumpets.
 2CH.20:29 And the fear of God was on all the kingdoms of the land when they heard that the Lord had fought against the enemies of Israel.
+
 ### King Jehoshaphat's Reign Is Over
 
 2CH.20:30 Then the realm of Jehoshaphat was quiet, for his God gave him rest all around.
@@ -568,13 +598,14 @@ has_additions: false
 2CH.20:34 Now the rest of the acts of Jehoshaphat, from beginning to end, are written in the book of Jehu the son of Hanani, who wrote them down in the Book of the Kings of Israel.
 2CH.20:35 After this Jehoshaphat king of Judah allied himself with Ahaziah the king of Israel, who acted most wickedly.
 2CH.20:36 He allied himself with him to make ships to go to Tarshish, and they made the ships in Ezion Geber.
+
 ### Jehoram Is King of Judah
 
 2CH.20:37 But Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, 'Because you allied yourself with Ahaziah, the Lord will destroy your work, wreck your ships, and Ahaziah will be unable to go to Tarshish.'
 
 ## Chapter 21
 
-2CH.21:1 Jehoshaphat rested with his fathers and was buried with his f
+2CH.21:1 Jehoshaphat rested with his fathers and was buried with his fathers in the City of David. Then Jehoram his son reigned in his place.
 2CH.21:2 He had six brothers, Azariah, Jehiel, Zechariah, Azaryahu, Michael, and Shephatiah; all were the sons of Jehoshaphat king of Judah.
 2CH.21:3 Their father gave them many gifts of silver and gold, together with weapons and fortified cities in Judah; but he gave the kingdom to Jehoram, since he was the firstborn.
 2CH.21:4 Now when Jehoram was established over his father's kingdom, he strengthened himself and killed all his brothers, as well as others of Israel.
@@ -588,6 +619,7 @@ has_additions: false
 2CH.21:12 And a letter came to him from Elijah the prophet, saying, 'Thus says the Lord God of your father David, because you have not walked in the ways of Jehoshaphat your father, or in the ways of Asa the king of Judah,
 2CH.21:13 but walked in the way of the kings of Israel; because you caused Judah and the inhabitants of Jerusalem to play the harlot like the harlotry of the house of Ahab; and because you have killed your brothers, those of your father's household who were better than yourself,
 2CH.21:14 behold, the Lord will strike your people with a great affliction-your sons, your wives, and all your possessions.
+
 ### The End of Jehoram's Reign
 
 2CH.21:15 And you will become day by day very sick with a disease of your belly, until your belly comes out because of the sickness.'
@@ -595,13 +627,14 @@ has_additions: false
 2CH.21:17 And they came up to Judah and invaded it; they carried away all the possessions from the king's house as well as his sons and daughters, so he had no son left except Jehoahaz, the youngest of his sons.
 2CH.21:18 After all this the Lord struck him in the belly with an incurable disease.
 2CH.21:19 And in the course of time, at the end of two days, his belly came out with the disease, and he died in severe pain. His people made no funeral for him like the funeral for his fathers.
+
 ### Ahaziah Is King of Judah
 
 2CH.21:20 He was thirty-two years old when he became king, and he reigned in Jerusalem for eight years. He departed without praise and he was buried in the City of David, but not in the tombs of the kings.
 
 ## Chapter 22
 
-2CH.22:1 And in his place, the inhabitants of Jerusalem made Ahaziah, his youngest son, k
+2CH.22:1 And in his place, the inhabitants of Jerusalem made Ahaziah, his youngest son, king, for the raiders who came into the camp with the Arabians and the Alimazones killed all the older sons. So Ahaziah the son of Jehoram, king of Judah, was made king.
 2CH.22:2 Ahaziah was twenty years old when he became king, and he reigned for one year in Jerusalem. His mother's name was Athaliah, the daughter of Omri.
 2CH.22:3 He also walked in the ways of the house of Ahab, for his mother was his counselor in sinning.
 2CH.22:4 He did evil in the sight of the Lord, similarly to the house of Ahab, for after the death of his father they were his counselors to his destruction.
@@ -609,18 +642,20 @@ has_additions: false
 2CH.22:6 Joram returned to Jezreel to recover from his wounds the Syrians inflicted in Ramah, when he fought against Hazael king of Syria. And Azariah the son of Jehoram, king of Judah, went down to see Jehoram the son of Ahab in Jezreel, because he was sick.
 2CH.22:7 His going to Jehoram was God's opportunity for Ahaziah's downfall. For when he arrived, he went out with Jehoram against Jehu the son of Nimshi, whom the Lord had anointed to cut off the house of Ahab.
 2CH.22:8 And when Jehu was executing judgment on the house of Ahab, he found both the princes of Judah, and the sons of Ahaziah's brothers who served Ahaziah, and killed them.
+
 ### Athaliah Is Queen of Judah
 
 2CH.22:9 Jehu gave orders to search for Ahaziah in Samaria where he was recuperating, and they brought him to Jehu. After they killed him, they buried him, because they said, 'He is the son of Jehoshaphat, who sought the Lord with all his heart.' Thus there was no one in the house of Ahaziah to assume power over the kingdom.
 2CH.22:10 Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal heirs of the house of Judah.
 2CH.22:11 But Jehoshabeath the king's daughter took Joash, the son of Ahaziah, and stole him away from among the king's sons being murdered, and she put him and his nurse in a bedroom. So Jehoshabeath, the daughter of King Jehoram, the wife of Jehoiada the priest-for she was the sister of Ahaziah-hid him from Athaliah, so she did not kill him.
+
 ### Joash Is King of Judah
 
 2CH.22:12 He remained hidden with them in the house of God for six years while Athaliah reigned over the land.
 
 ## Chapter 23
 
-2CH.23:1 In the seventh year, Jehoiada strengthened himself and took the captains of hund
+2CH.23:1 In the seventh year, Jehoiada strengthened himself and took the captains of hundreds-Azariah the son of Jeroham, Ishmael the son of Jehohanan, Azariah the son of Obed, Maaseiah the son of Adaiah, and Elishaphat the son of Zichri-with him into the house.
 2CH.23:2 They went throughout Judah and gathered the Levites from all the cities of Judah, and the leaders of the families of Israel, and they came to Jerusalem.
 2CH.23:3 Then all the assembly of Judah made a covenant with the king in the house of God. And he showed them the king's son and said to them, 'Behold, the king's son shall reign, as the Lord said of the house of David.
 2CH.23:4 This is what you shall do: One-third of the priests and the Levites who enter on the Sabbath shall keep watch over the entrance gates.
@@ -630,12 +665,14 @@ has_additions: false
 2CH.23:8 So the Levites and all Judah did everything Jehoiada the priest commanded. And each man took his men who were to be on duty on the Sabbath, along with those who were going off duty on the Sabbath, for Jehoiada the priest did not dismiss the divisions.
 2CH.23:9 And he gave them the swords and shields and weapons which had belonged to King David that were in the house of God.
 2CH.23:10 Then he stationed all the people, every man with his weapon in his hands, from the right side of the temple to the left side of the temple, and next to the altar and by the temple, and all around the king.
+
 ### The Death of Athaliah
 
 2CH.23:11 And they brought out the king's son, put the crown on him, gave him the Testimony, and made him king. Then Jehoiada and his sons made him king and anointed him and said, 'Long live the king!'
 2CH.23:12 Now when Athaliah heard the noise of the people running and giving thanks and praising the king, she came to the king in the house of the Lord.
 2CH.23:13 When she looked, there was the king standing by his pillar at the entrance, with the leaders and the trumpeters around the king. All the people of the land were rejoicing and blowing trumpets, along with the singers and their musical instruments, and those who led in praise. So Athaliah tore her clothes and said, 'Treason! Treason!'
 2CH.23:14 Jehoiada the priest went out and commanded the captains of hundreds, who were set over the army, and said to them, 'Take her out of the house and slay whoever follows her with the sword.' For the priest said, 'Do not kill her in the house of the Lord.'
+
 ### Jehoiada's Reforms
 
 2CH.23:15 So they seized her, and she went into the king's house by the entrance of the Horse Gate, and there they killed her.
@@ -644,13 +681,14 @@ has_additions: false
 2CH.23:18 Also, Jehoiada the priest strengthened the works of the house of the Lord in the hand of the priests and the Levites whom David had assigned in the house of the Lord, to offer the burnt offerings of the Lord as it is written in the Law of Moses, with rejoicing and singing as it was established by David.
 2CH.23:19 And the gatekeepers stood at the gates of the house of the Lord so no one unclean should possibly enter.
 2CH.23:20 Then he took the leaders of the families, the mighty men, the governors of the people, and all the people of the land, and brought the king into the house of the Lord. Going through the Inner Gate to the king's house, they set the king on the throne of the kingdom.
+
 ### King Joash Repairs the Temple
 
 2CH.23:21 So all the people of the land rejoiced, and the city was quiet, for they had slain Athaliah with the sword.
 
 ## Chapter 24
 
-2CH.24:1 Joash was seven years old when he became king, and he reigned
+2CH.24:1 Joash was seven years old when he became king, and he reigned for forty years in Jerusalem. His mother's name was Zibiah of Beersheba.
 2CH.24:2 Joash did what was right in the sight of the Lord for all the days of Jehoiada the priest.
 2CH.24:3 And Jehoiada took two wives and begot sons and daughters.
 2CH.24:4 After this, Joash set his heart on repairing the house of the Lord.
@@ -671,6 +709,7 @@ has_additions: false
 2CH.24:19 But still He sent prophets to them to bring them back to the Lord, but they did not listen. The prophets testified against them, but they would not listen.
 2CH.24:20 Then the Spirit of God came upon Zechariah the son of Jehoiada the priest, who watched over the people, and said to him, 'Thus says the Lord: 'Why do you transgress the commandments of the Lord, so that you cannot prosper? Since you forsook the Lord, He shall forsake you.' '
 2CH.24:21 So they conspired against Zechariah, and at the command of the king they stoned him with stones in the court of the house of the Lord.
+
 ### Death of Joash
 
 2CH.24:22 Thus Joash the king did not remember the mercy Jehoiada his father had shown him, but killed his son. As he died, he said, 'May the Lord see and judge!'
@@ -678,15 +717,17 @@ has_additions: false
 2CH.24:24 For the army of the Syrians came with a small company of men, but the Lord delivered a very great army into their hand, because they had forsaken the Lord God of their fathers. They executed judgment against Joash.
 2CH.24:25 When Syria withdrew, they had left him severely wounded. Then his own servants conspired against him, because of the blood of the sons of Jehoiada the priest, and killed him on his bed. He died, and they buried him in the City of David, but they did not bury him in the tombs of the kings.
 2CH.24:26 Those who conspired against him were Zabad the son of Shimeath the Ammonite, and Jehozabad the son of Shimrith the Moabite.
+
 ### Amaziah Is King of Judah
 
 2CH.24:27 He had five sons. Everything else that is written about him is in the annals of the Book of the Kings. Amaziah his son reigned in his place.
 
 ## Chapter 25
 
-2CH.25:1 Amaziah was twenty-five years old when he became king, and he ***
+2CH.25:1 Amaziah was twenty-five years old when he became king, and he reigned for twenty- nine years in Jerusalem. His mother's name was Jehoaddan of Jerusalem.
 2CH.25:2 And he did what was right in the sight of the Lord, but not with a loyal heart.
 2CH.25:3 As soon as the kingdom was established for him, he executed his servants who murdered his father the king.
+
 ### War against Edom
 
 2CH.25:4 However, he did not execute their children, for as it is written in the Law in the Book of Moses where the Lord commands, saying, 'The fathers shall not be put to death for their sons, nor shall the sons be put to death for their fathers, but each person shall die for his own sin.'
@@ -701,6 +742,7 @@ has_additions: false
 2CH.25:13 As for the sons of the army Amaziah discharged so they would not go to war with him, they raided the cities of Judah from Samaria to Beth Horon and killed three thousand in them, and took a great deal of spoil.
 2CH.25:14 After Amaziah came from the slaughter of the Edomites, he brought the gods of the sons of Seir, set them up to be his gods, and bowed down before them and burned incense to them.
 2CH.25:15 Therefore the anger of the Lord was aroused against Amaziah, and He sent prophets who said to him, 'Why did you seek the gods of the people who could not rescue their own people from your hand?'
+
 ### Judah Defeated by Israel
 
 2CH.25:16 As he talked with him, the king said to him, 'Have we made you the king's counselor? Be careful so that you are not scourged!' Then the prophet ceased, and said, 'I know that God determines to destroy you, because you did not heed my advice and you did this thing.'
@@ -715,13 +757,14 @@ has_additions: false
 2CH.25:25 Amaziah the son of Joash king of Judah lived for fifteen years after the death of Joash the son of Jehoahaz king of Israel.
 2CH.25:26 Now the rest of the acts of Amaziah, from first to last, are they not written in the Book of the Kings of Judah and Israel?
 2CH.25:27 When Amaziah turned from the Lord, they made a conspiracy against him in Jerusalem, and he fled to Lachish. But they went after him to Lachish and killed him there.
+
 ### Uzziah Is King of Judah
 
 2CH.25:28 Then they brought him on horses and buried him with his fathers in the City of David.
 
 ## Chapter 26
 
-2CH.26:1 Now all the people of the land took Uzziah, who was sixteen years old, and made ***
+2CH.26:1 Now all the people of the land took Uzziah, who was sixteen years old, and made him king instead of his father Amaziah.
 2CH.26:2 He built Elath and restored it to Judah after the king rested with his fathers.
 2CH.26:3 Uzziah was sixteen years old when he became king, and he reigned for fifty-two years in Jerusalem. His mother's name was Jecholiah of Jerusalem.
 2CH.26:4 And he did what was right in the sight of the Lord, according to everything his father Amaziah had done.
@@ -735,6 +778,7 @@ has_additions: false
 2CH.26:12 The total number of chief officers of the mighty men of valor was two thousand six hundred.
 2CH.26:13 And the power of an expert military force, equal to three hundred seven thousand five hundred, was with them to help the king against the enemy.
 2CH.26:14 And for each of them in the army, Uzziah prepared shields, spears, helmets, body armor, bows, and slings for stones.
+
 ### The Pride and Downfall of Uzziah
 
 2CH.26:15 And in Jerusalem, he built devices invented by skilled men for the launching of javelins and large stones, and placed them on the towers and corners of the devices. And the fame of his preparing for war was heard far and wide, for he was helped marvelously till he became strong.
@@ -745,34 +789,38 @@ has_additions: false
 2CH.26:20 And Azariah the chief priest and all the priests looked on, for he was leprous on his forehead. So they thrust him out of the place. And indeed he hurried, because the Lord reproached him.
 2CH.26:21 King Uzziah was a leper until the day of his death, and because he was a leper he dwelt in an isolated house and was excluded from the house of the Lord. Then Jotham his son was over the king's house, judging the people of the land.
 2CH.26:22 Now the rest of the acts of Uzziah, from first to last, are written by the prophet Isaiah.
+
 ### Jotham Is King of Judah
 
 2CH.26:23 So Uzziah rested with his fathers, and they buried him with his fathers in the field of burial that belonged to the kings, for they said, 'He is a leper.' Then Jotham his son reigned in his place.
 
 ## Chapter 27
 
-2CH.27:1 Jotham was twenty-five years old when he became king, and he ***
+2CH.27:1 Jotham was twenty-five years old when he became king, and he reigned for sixteen years in Jerusalem. His mother's name was Jerushah the daughter of Zadok.
 2CH.27:2 He did what was right in the sight of the Lord according to everything his father Uzziah had done, although he did not enter the temple of the Lord. But still the people acted corruptly.
 2CH.27:3 He built the Upper Gate of the house of the Lord, and he built extensively on the wall of Ophel.
 2CH.27:4 Moreover, he built cities in the mountains of Judah, and he built fortresses and towers in the forests.
 2CH.27:5 He also did battle with the king of the sons of Ammon and defeated them. And the sons of Ammon gave him one hundred talents of silver, ten thousand kors of wheat, and ten thousand of barley every year. The king of Ammon brought this to him in the first year and the second year and the third year.
 2CH.27:6 So Jotham became mighty, for he directed his ways before the Lord his God.
 2CH.27:7 Now the rest of the acts of Jotham and all his wars and his deeds are written in the Book of the Kings of Israel and Judah.
+
 ### Ahaz Is King of Judah
 
 2CH.27:8 And Jotham rested with his fathers, and they buried him in the City of David. Ahaz his son, reigned in his place.
 
 ## Chapter 28
 
-2CH.28:1 Ahaz was twenty years old when he became king, and he reigned
+2CH.28:1 Ahaz was twenty years old when he became king, and he reigned for sixteen years in Jerusalem. He did not do right in the sight of the Lord as his father David had done.
 2CH.28:2 For he walked in the ways of the kings of Israel and made molded images for their idols.
 2CH.28:3 He burned incense in the Valley of the Son of Hinnom and burned his children in the fire, according to the abominations of the nations whom the Lord had destroyed before the sons of Israel.
+
 ### Judah Defeated by Syria and Israel
 
 2CH.28:4 He burned incense on the high places, on the housetops, and under every green tree.
 2CH.28:5 Therefore the Lord his God delivered Ahaz into the hand of the king of Syria. They defeated him and carried away a great multitude of them as captives, and brought them to Damascus. He then was delivered into the hand of the king of Israel, who defeated him with a great slaughter.
 2CH.28:6 For Pekah the son of Remaliah, the king of Israel, killed one hundred twenty thousand mighty men in Judah in one day, because they had forsaken the Lord God of their fathers.
 2CH.28:7 Zichri, a mighty man of Ephraim, killed Maaseiah the king's son, Azrikam the officer over the house, and Elkanah, who was second to the king.
+
 ### Israel Releases Her Captives
 
 2CH.28:8 And the sons of Israel carried away captive three hundred thousand of their brethren-their wives, the sons, and their daughters-and they took away a great deal of spoil from them and brought the spoil to Samaria.
@@ -782,6 +830,7 @@ has_additions: false
 2CH.28:12 Then some of the leaders of the sons of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against those who came from the war
 2CH.28:13 and said to them, 'You shall not bring the captives here to us, for we have already offended the Lord. You intend to add to our sins and to our guilt, for our guilt is great and there is fierce wrath against Israel.'
 2CH.28:14 So the armed men left the captives and the spoil before the leaders and all the assembly.
+
 ### Assyria Will Not Help Judah
 
 2CH.28:15 And the men who were designated by name rose up and took the captives. From the spoil they clothed all who were naked among them, dressed them and gave them sandals, gave them food and drink, and anointed them. They let all the feeble ones ride on donkeys. So they brought them to their brethren at Jericho, the city of palm trees. Then they returned to Samaria.
@@ -790,6 +839,7 @@ has_additions: false
 2CH.28:18 The foreigners had also invaded the cities of the lowland and the South of Judah and had taken Beth Shemesh, Aijalon, Gederoth, Sochoh with its villages, Timnah with its villages, and Gimzo with its villages, and settled there.
 2CH.28:19 For the Lord brought Judah low because of Ahaz king of Judah, for he had rebelled against the Lord.
 2CH.28:20 Also Tiglath-Pileser, king of Assyria, came to him and struck him.
+
 ### Sins and Death of Ahaz
 
 2CH.28:21 For Ahaz took what was in the house of the Lord and the house of the king and the leaders, and gave it to the king of Assyria, and he did not help him.
@@ -798,13 +848,15 @@ has_additions: false
 2CH.28:24 So Ahaz gathered the articles of the house of God, cut the articles of the house of God in pieces, shut the doors of the house of the Lord, and made altars for himself in every corner of Jerusalem.
 2CH.28:25 And in every single city of Judah he made high places to burn incense to foreign gods, and provoked the Lord God of his fathers to anger.
 2CH.28:26 Now the rest of his acts and all his deeds, from first to last, indeed they are written in the Book of the Kings of Judah and Israel.
+
 ### Hezekiah Is King of Judah
 
 2CH.28:27 So Ahaz rested with his fathers, and they buried him in the city, in Jerusalem. But they did not place him in the tombs of the kings of Israel. Then Hezekiah his son reigned in his place.
 
 ## Chapter 29
 
-2CH.29:1 Hezekiah became king when he was twenty-five years old, and h
+2CH.29:1 Hezekiah became king when he was twenty-five years old, and he reigned for twenty- nine years in Jerusalem. His mother's name was Abijah the daughter of Zechariah.
+
 ### Cleansing the Temple
 
 2CH.29:2 And he did what was right in the sight of the Lord, according to everything his father David had done.
@@ -824,6 +876,7 @@ has_additions: false
 2CH.29:16 Then the priests went into the house of the Lord to cleanse it, and brought out all the uncleanness they found in the temple of the Lord and in the court of the house of the Lord. And the Levites took it out and carried it to the Brook Kidron.
 2CH.29:17 They began to sanctify it on the first day of the first month, and on the eighth day of the month they came to the vestibule of the Lord. They sanctified the house of the Lord in eight days and finished on the sixteenth day of the first month.
 2CH.29:18 And they went in to King Hezekiah and said, 'We have cleansed everything in the house of the Lord, the altar of burnt offerings with all its articles, and the table of the showbread with all its articles.
+
 ### Worship Is Restored
 
 2CH.29:19 Moreover, we have prepared and sanctified all the articles King Ahaz polluted in his reign and his apostasy. We have prepared and sanctified them all, and there they are before the altar of the Lord.'
@@ -843,17 +896,18 @@ has_additions: false
 2CH.29:33 And there were six hundred consecrated calves and three thousand sheep.
 2CH.29:34 But there were not enough priests, so they could not skin all the burnt offerings. Therefore their brethren the Levites helped them until the task was finished and until the other priests had sanctified themselves, for the Levites were more diligent in sanctifying themselves than the priests.
 2CH.29:35 There were many burnt offerings, with the fat of the peace offerings and with the drink offerings for every burnt offering. So the service of the house of the Lord was set in order.
+
 ### Hezekiah Celebrates the Passover
 
 2CH.29:36 Then Hezekiah and all the people rejoiced that God had prepared the people, since the events took place so suddenly.
 
 ## Chapter 30
 
-2CH.30:1 Hezekiah sent word to all Israel and Judah and wrote letters 
+2CH.30:1 Hezekiah sent word to all Israel and Judah and wrote letters to Ephraim and Manasseh, telling them to come to the house of the Lord at Jerusalem and keep the Passover to the Lord God of Israel.
 2CH.30:2 For the king and his leaders and all the assembly in Jerusalem had agreed to keep the Passover in the second month.
 2CH.30:3 For they could not keep it at the regular time, because a sufficient number of priests had not consecrated themselves and the people had not gathered in Jerusalem.
 2CH.30:4 And the matter pleased the king and the assembly.
-2CH.30:5 So they resolved to make a proclamation throughout all Israel from Beersheba to Dan that they should come to keep the Passover to the Lord God of Israel at Jerusalem, since they had not done it in the prescribed manner for along time.
+2CH.30:5 So they resolved to make a proclamation throughout all Israel from Beersheba to Dan that they should come to keep the Passover to the Lord God of Israel at Jerusalem, since they had not done it in the prescribed manner for a long time.
 2CH.30:6 Then the runners went throughout all Israel and Judah with the letters from the king and his leaders, and spoke according to the command of the king, 'Sons of Israel, return to the Lord God of Abraham, Isaac, and Israel. Then He will return to the remnant of you who escaped from the hand of the king of Assyria.
 2CH.30:7 Do not be like your fathers and your brethren who rebelled against the Lord God of their fathers; so He gave them up to desolation as you see.
 2CH.30:8 Do not be stiff-necked as your fathers were. Give glory to the Lord God and enter His sanctuary, which He sanctified forever. Serve the Lord your God, so that He turns the fierceness of His wrath away from you.
@@ -867,7 +921,7 @@ has_additions: false
 2CH.30:16 They stood in their place according to their custom, according to the Law of Moses, the man of God. The priests received the blood from the hand of the Levites.
 2CH.30:17 For there were many in the assembly who had not sanctified themselves. Therefore the Levites had charge of the slaughter of the Passover lambs for all those who were not able to sanctify themselves to the Lord.
 2CH.30:18 Most of the people from Ephraim, Manasseh, Issachar, and Zebulun had not cleansed themselves, but they ate the Passover contrary to what was written.
-2CH.30:19 But Hezekiah prayed for them, saying, 'May the good Lord provide atonement for everyone 19 who prepares his heart to seek God, the Lord God of his fathers, even though he is not cleansed according to the purification of the sanctuary.'
+2CH.30:19 But Hezekiah prayed for them, saying, 'May the good Lord provide atonement for everyone who prepares his heart to seek God, the Lord God of his fathers, even though he is not cleansed according to the purification of the sanctuary.'
 2CH.30:20 And the Lord listened to Hezekiah and healed the people.
 2CH.30:21 So the sons of Israel who were present at Jerusalem kept the Feast of Unleavened Bread for seven days with great gladness. And the Levites and the priests praised the Lord every day, singing to the Lord with instruments.
 2CH.30:22 And Hezekiah encouraged all the Levites who knew the good knowledge of the Lord. And they completed the feast in seven days, offering peace offerings and making confession to the Lord God of their fathers.
@@ -875,13 +929,14 @@ has_additions: false
 2CH.30:24 For King Hezekiah began the sacrifice for the assembly of Judah with a thousand calves and seven thousand sheep. And the leaders began the sacrifice for the assembly with a thousand calves and ten thousand sheep, and there was an abundance of holy things for the priests.
 2CH.30:25 The whole assembly rejoiced along with the priests and Levites, all the assembly of Judah and those who came from Israel, the sojourners who came from the land of Israel, and those who dwelt in Judah.
 2CH.30:26 So there was great joy in Jerusalem, for since the time of Solomon the son of David king of Israel there had been no feast like this in Jerusalem.
+
 ### Priests and People Are Renewed
 
 2CH.30:27 Then the priests, the Levites, arose and blessed the people, and their voice was heard. And their prayer came up to His holy dwelling place in heaven.
 
 ## Chapter 31
 
-2CH.31:1 Now when all was completed, all Israel who were present went out to the cities o
+2CH.31:1 Now when all was completed, all Israel who were present went out to the cities of Judah and broke the sacred pillars in pieces, cut down the groves, and cast down the high places and the altars—from all Judah, Benjamin, Ephraim, and Manasseh—until they utterly destroyed them all. Then all the sons of Israel returned to their own possessions and their own cities.
 2CH.31:2 And Hezekiah appointed the divisions of the priests and the Levites according to their divisions, each man according to his service: the priests and Levites for burnt offerings and peace offerings, to praise, to give thanks, and to serve in the gates and the courts of the house of the Lord.
 2CH.31:3 The king also appointed a portion of his possessions for the burnt offerings, for the morning and evening burnt offerings, the burnt offerings for the Sabbaths and the New Moons, and the feasts prescribed in the Law of the Lord.
 2CH.31:4 Moreover, he commanded the people who dwelt in Jerusalem to contribute a portion for the priests and the Levites so that they might devote themselves to the service of the house of the Lord.
@@ -901,6 +956,7 @@ has_additions: false
 2CH.31:18 and in the register of all their sons and daughters, their whole company, for in their faithfulness they sanctified the holy place.
 2CH.31:19 Also for the sons of Aaron the priests, who were from their cities and in every single city, there were men designated by name to distribute portions to all the males among the priests and to all who were listed by genealogies among the Levites.
 2CH.31:20 Thus Hezekiah did throughout all Judah, and he did what was good and right before the Lord his God.
+
 ### Assyria Invades Judah
 
 2CH.31:21 And in every task he undertook in the service of the house of God, he sought his God in the law and in the commandment with all his heart. So he prospered.
@@ -909,7 +965,7 @@ has_additions: false
 
 ### Assyria Invades Judah
 
-2CH.32:1 After these things and this faithfulness, Sennacherib king of Assyria came to Ju***
+2CH.32:1 After these things and this faithfulness, Sennacherib king of Assyria came to Judah and encamped against the fortified cities, thinking to capture them.
 2CH.32:2 And when Hezekiah saw that Sennacherib came, and that his purpose was to make war against Jerusalem,
 2CH.32:3 he consulted with his leaders and commanders to stop the water from the springs outside the city, and they helped him.
 2CH.32:4 And he gathered many people, and they stopped the waters of the springs and the river that ran through the city, saying, 'Let not the king of Assyria come and find a lot of water and prevail.'
@@ -926,7 +982,7 @@ has_additions: false
 2CH.32:15 Now therefore, do not let Hezekiah deceive you or persuade you like this. Do not believe him. For no god of any nation or kingdom was able to deliver his people from my hand or the hand of my fathers. How much less will your God deliver you from my hand?' '
 2CH.32:16 Furthermore, Sennacherib's servants spoke against the Lord God and His servant Hezekiah.
 2CH.32:17 He also wrote a letter to revile the Lord God of Israel and spoke against Him, saying, 'As the gods of the nations of other lands did not deliver their people from my hand, so the God of Hezekiah will not deliver His people from my hand.'
-2CH.32:18 And they called out with aloud voice in Hebrew to the people of Jerusalem on the wall, to frighten them and trouble them so that they might take the city.
+2CH.32:18 And they called out with a loud voice in Hebrew to the people of Jerusalem on the wall, to frighten them and trouble them so that they might take the city.
 2CH.32:19 And they spoke against the God of Jerusalem, as against the gods of the people of the earth, the work of men's hands.
 
 ### Assyria's Defeat
@@ -960,6 +1016,7 @@ has_additions: false
 2CH.33:7 He even set a carved image and a cast image, idols he had made, in the house of God, where God had said to David and to Solomon his son, 'In this house and in Jerusalem, which I chose out of all the tribes of Israel, I will put My name forever,
 2CH.33:8 and I will not again remove the foot of Israel from the land I gave your fathers; provided they are careful to do all I have commanded them, according to the whole law and the statutes and the ordinances by the hand of Moses.'
 2CH.33:9 So Manasseh led Judah and the inhabitants of Jerusalem astray to do more evil than the nations the Lord had destroyed before the sons of Israel.
+
 ### Manasseh's Repentance
 
 2CH.33:10 And the Lord spoke to Manasseh and his people, but they would not listen.
@@ -970,11 +1027,13 @@ has_additions: false
 2CH.33:15 He took away the foreign gods and the carved idols from the house of the Lord, and destroyed all the altars he had built in the mount of the house of the Lord and in Jerusalem outside the city.
 2CH.33:16 He also repaired the altar of the Lord and sacrificed peace offerings and thank offerings on it. He commanded Judah to serve the Lord God of Israel.
 2CH.33:17 Nevertheless, the people still sacrificed on the high places, but only to the Lord their God.
+
 ### Manasseh's Death
 
 2CH.33:18 The rest of the acts of Manasseh and his prayer to his God, and the words of the seers who spoke to him in the name of the Lord God of Israel-indeed of the word
 2CH.33:19 of his prayer and how God heard and responded to him, to all his sins and rebellions, and to the sites where he built high places and established groves and carved images, before he returned indeed this is written among the sayings of the seers.
 2CH.33:20 So Manasseh rested with his fathers, and they buried him in the garden of his house. Then his son Amon reigned in his place.
+
 ### Amon Is King of Judah
 
 2CH.33:21 Amon was twenty-two years old when he became king, and he reigned for two years in Jerusalem.
@@ -989,6 +1048,7 @@ has_additions: false
 
 2CH.34:1 Josiah was eight years old when he became king, and he reigned for thirty-one years in Jerusalem.
 2CH.34:2 And he did what was right before the Lord and walked in the ways of his father David. He did not turn aside to the right hand or the left.
+
 ### Josiah Purges False Worship
 
 2CH.34:3 For in the eighth year of his reign, while he was still young, he began to seek the God of his father David. And in the twelfth year of his reign, he began to purge Judah and Jerusalem of the high places, the wooden images, the groves, and the molded images.
@@ -996,6 +1056,7 @@ has_additions: false
 2CH.34:5 He burned the bones of the priests on their altars, and cleansed Judah and Jerusalem
 2CH.34:6 and the cities of Ephraim and Manasseh and Simeon, as far as Naphtali and all the surrounding areas.
 2CH.34:7 When he had broken down the groves and the altars and the idols, beaten the carved images into powder, and cut down all the high places throughout the land of Israel, he returned to Jerusalem.
+
 ### Repair of the Temple
 
 2CH.34:8 In the eighteenth year of his reign, after he cleansed the land and the temple, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz his recorder to repair the house of the Lord his God.
@@ -1004,6 +1065,7 @@ has_additions: false
 2CH.34:11 They gave it to the carpenters and builders to buy hewn stone and timber for beams to roof the houses the kings of Judah had destroyed.
 2CH.34:12 And the men were faithful in the work. Their overseers were Jahath and Obadiah the Levites, of the sons of Merari, and Zechariah and Meshullam, of the sons of Kohath, who supervised; and all the Levites who were skillful with musical instruments;
 2CH.34:13 and overseers were over the burden-bearers and those who did work in any kind of service; and some of the Levites were scribes, officers, and gatekeepers.
+
 ### The Book of the Law Is Found
 
 2CH.34:14 Now when they brought out the money that was brought into the house of the Lord, Hilkiah the priest found the Book of the Law of the Lord given by Moses.
@@ -1048,6 +1110,7 @@ has_additions: false
 2CH.35:17 And the sons of Israel who were present kept the Passover at that time, and they kept the Feast of Unleavened Bread for seven days.
 2CH.35:18 No Passover like this was kept in Israel since the days of Samuel the prophet, and none of the kings of Israel kept such a Passover to the Lord as Josiah kept, having the priests and the Levites, and all Judah and Israel present, and the inhabitants of Jerusalem,
 2CH.35:19 in the eighteenth year of the reign of Josiah.
+
 ### Josiah Killed in Battle
 
 2CH.35:20 The ventriloquists, and the mediums, and the images and the idols, and the other abominations which were in the land of Judah and in Jerusalem, King Josiah burned with fire, to confirm the words of the law written in the book which Hilkiah the priest found in the house of the Lord.
@@ -1066,9 +1129,10 @@ has_additions: false
 ## Chapter 36
 
 2CH.36:1 Then the people of the land took Jehoahaz, the son of Josiah, and anointed him and established him as king in his father's place in Jerusalem.
-2CH.36:2 Jehoahaz was twentythree years old when he became king, and he reigned for three months in Jerusalem.
+2CH.36:2 Jehoahaz was twenty-three years old when he became king, and he reigned for three months in Jerusalem.
 2CH.36:3 And his mother's name was Amital the daughter of Jeremiah from Lobema.
 2CH.36:4 And he did evil before the Lord according to everything his fathers did.
+
 ### Jehoiakim Is King of Judah
 
 2CH.36:5 And Pharoah Necho bound him in Deble in the land of Emath, lest he reign in Jerusalem.

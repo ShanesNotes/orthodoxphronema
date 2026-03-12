@@ -5,8 +5,8 @@ testament: OT
 canon_position: 48
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-10"
-promote_date: "2026-03-10"
-checksum: "a025eea1fe43a49ca32df80765a0d189b59a692a4aa3f9a27447d815479cdb32"
+promote_date: "2026-03-11"
+checksum: "fb3e42602f3d0ee6581cd4e105401cfb966d92877ffc2973ec05618d0ca24bf1"
 status: promoted
 deuterocanonical: false
 has_additions: false
@@ -44,11 +44,11 @@ EZK.1:26 Then I saw as it were the outward appearance of amber from the appearan
 ### Ezekiel Called as a Prophet to Israel
 
 EZK.1:27 Like the appearance of a rainbow in a cloud on a rainy day, so was the condition of the surrounding brightness.
-EZK.1:28 This was the vision of the likeness of the Lord's glory. I saw it, and I fell down on my face, and heard the voice of One spea king.
+EZK.1:28 This was the vision of the likeness of the Lord's glory. I saw it, and I fell down on my face, and heard the voice of One speaking.
 ## Chapter 2
 
 EZK.2:1 Then He said to me, 'Son of man, stand on your feet, and I will speak to you.'
-EZK.2:2 The Spirit then came upon me, took me up, raised me, and set me on my feet; and I heard Him spea king to me.
+EZK.2:2 The Spirit then came upon me, took me up, raised me, and set me on my feet; and I heard Him speaking to me.
 EZK.2:3 So He said to me, 'Son of man, I am sending you to the house of Israel, to the ones provoking Me. They have provoked Me, they and their fathers, up to this very day.
 EZK.2:4 Then you shall say to them, 'Thus says the Lord.'
 EZK.2:5 Now then, if they listen or are put off-for they are a rebellious house-still they will know you are a prophet in their midst.
@@ -64,14 +64,14 @@ EZK.3:2 So I opened my mouth, and he fed me the scroll.
 EZK.3:3 Then He said to me, 'Son of man, your mouth shall eat and your stomach will be filled with this scroll that is given you.' So I ate it, and it was in my mouth as sweet as honey.
 EZK.3:4 Then He said to me, 'Son of man, go! Go to the house of Israel, and speak My words to them.
 EZK.3:5 For you are not sent to a people of unfamiliar speech and obscure language, but to the house of Israel.
-EZK.3:6 Neither are you sent to many peoples spea king a foreign language or using strange tongues, nor to a people of heavy speech, whose words you would not understand. Surely, had I sent you to them, they would have listened to you.
+EZK.3:6 Neither are you sent to many peoples speaking a foreign language or using strange tongues, nor to a people of heavy speech, whose words you would not understand. Surely, had I sent you to them, they would have listened to you.
 EZK.3:7 But the house of Israel shall be unwilling to listen to you, because they are unwilling to listen to Me; for all the house of Israel is argumentative and hardhearted.
 EZK.3:8 Behold, I have made your face to be strong against their faces, and I will strengthen your case against their arguments.
 EZK.3:9 Your argument shall be continually stronger than a rock. Do not be afraid of them, nor be dismayed at their faces; for they are a house of provocation.'
 EZK.3:10 Again He said to me, 'Son of man, receive into your heart all My words I have spoken to you, and listen with your ears.
 EZK.3:11 Go! Go to the captives, to the children of your people, and you shall speak to them, saying, 'Thus says the Lord,' whether they listen or whether they refuse.'
 EZK.3:12 Then the Spirit lifted me up, and I heard behind me a great thunderous voice: 'Blessed is the glory of the Lord from His place.'
-EZK.3:13 I also perceived the sound of the wings of the living creatures as they clapped one to the other, and the sound of the wheels nearby, and the sound of the earth qua king.
+EZK.3:13 I also perceived the sound of the wings of the living creatures as they clapped one to the other, and the sound of the wheels nearby, and the sound of the earth quaking.
 EZK.3:14 Then the Spirit moved me and raised me up, and I went forth under the impulse of my spirit; but the hand of the Lord was strong upon me.
 
 ### Ezekiel Made a Watchman
@@ -104,7 +104,7 @@ EZK.4:7 You shall set your face toward the confinement of Jerusalem; and you sha
 EZK.4:8 Behold, I have appointed chains for you, and you may turn from one side to the other until the days of your confinement are accomplished.
 EZK.4:9 'Also take for yourself wheat, barley, beans, lentils, millet, and spelt; put them into one vessel made of earth, and make loaves of bread for yourself. According to the number of days you sleep on your side, one hundred and ninety days, you shall eat them.
 EZK.4:10 Your food which you eat shall be by weight, twenty shekels a day; from time to time you shall eat them.
-EZK.4:11 You shall also drink water by measure, one-sixth of ahin, and from time to time you shall drink.
+EZK.4:11 You shall also drink water by measure, one-sixth of a hin, and from time to time you shall drink.
 EZK.4:12 You shall eat them as a barley cake baked in ashes. You shall bake them in their sight in the filth of human dung.
 EZK.4:13 Then you shall say, 'Thus says the Lord God of Israel: So shall the children of Israel eat unclean things among the Gentiles.' '
 EZK.4:14 So I said, 'Not so, O Lord God of Israel. Behold, my soul has not defiled itself with uncleanness, nor from my youth up until now have I eaten what died of itself or was torn by beasts, nor has day-old meat entered my mouth.'
@@ -126,7 +126,7 @@ EZK.5:7 Therefore thus says the Lord: 'Because your opportunity for lawlessness 
 EZK.5:8 therefore, thus says the Lord: 'Behold, I will execute judgment in your midst in the sight of the nations.
 EZK.5:9 I will do among you what I have not done, and the likes of which I will not do again, because of all your abominations.
 EZK.5:10 Therefore fathers shall eat their children in your midst, and children shall eat their fathers; and I will execute judgments among you, and all of you who remain, I will scatter to every wind.
-EZK.5:11 Therefore, as I live,' says the Lord,'surely, because you defiled My holy things with all your abominations, I also will reject you. My eye will not spare, nor will I have any mercy.
+EZK.5:11 Therefore, as I live,' says the Lord, 'surely, because you defiled My holy things with all your abominations, I also will reject you. My eye will not spare, nor will I have any mercy.
 EZK.5:12 One-fourth of you shall be destroyed by death, and one-fourth shall be consumed in your midst by famine. One-fourth of you I will scatter to every wind, and one-fourth of you will fall by the sword all around you, for I will unsheathe a sword after them.
 EZK.5:13 Thus shall My anger and My wrath be accomplished against them. You will come to know this because I, the Lord, have spoken in My zeal, when I accomplish My anger against them.
 EZK.5:14 I will make you desolate, along with your daughters around you, in the sight of everyone who travels through.
@@ -212,7 +212,7 @@ EZK.8:18 As for Me, I shall treat them in anger. My eye will not spare, nor will
 EZK.9:1 Then He cried out in my ears with aloud voice, saying, 'The punishment of the city is near, and each had instruments of destruction in his hand.'
 EZK.9:2 Behold, six men were coming from the way of the high gate that looks toward the north, and each one's ax was in his hand. One man among them was clothed with a full-length robe, with a belt of sapphire about his waist. They entered and stood near the bronze altar.
 EZK.9:3 Then the glory of the God of Israel went up from the cherubim, and the glory which was over them went into the inner court of the house. He called to the man clothed with the long robe with the belt on his waist,
-EZK.9:4 and He said to him, 'Go through the midst of Jerusalem and put a mark on the foreheads of the men who sigh and groan over all the lawless deeds ta king place within her.'
+EZK.9:4 and He said to him, 'Go through the midst of Jerusalem and put a mark on the foreheads of the men who sigh and groan over all the lawless deeds taking place within her.'
 EZK.9:5 To the others He said in my hearing, 'Go after him through the city and kill. Let not your eyes spare, and have no mercy.
 EZK.9:6 Utterly destroy old men and youth, and virgins, infants, and women, but do not come near anyone on whom is the mark. Begin at My sanctuary.' So they began with the elders who were inside the house.
 EZK.9:7 Then He said to them, 'Defile the house, and go out and fill the roads with the dead, and smite.'
@@ -442,7 +442,7 @@ EZK.16:44 'These are all the things they spoke against you in a parable, saying,
 EZK.16:45 You are your mother's daughter, rejecting her husband and children; and you are the sister of your sisters, who reject their husbands and children. Your mother was a Hittite and your father an Amorite.
 EZK.16:46 Your elder sister who dwells with her daughters to the north of you is Samaria, and your younger sister who dwells to the south of you is Sodom and her daughters.
 EZK.16:47 You not only walked in their ways and acted according to their lawlessness; but, as if that were too little, you excelled more than they in all your ways.
-EZK.16:48 'As I live,' says the Lord,'surely your sister Sodom and her daughters have carried on in the manner you and your daughters have done.
+EZK.16:48 'As I live,' says the Lord, 'surely your sister Sodom and her daughters have carried on in the manner you and your daughters have done.
 EZK.16:49 Surely this was the lawless action of your sister Sodom, namely, arrogance. For in fullness of bread and abundance of wine, she and her daughter lived in self-indulgence. This belonged to her and her daughters, but they did not give a helping hand to the poor and needy.
 EZK.16:50 So they were haughty and committed acts of lawlessness before Me; therefore, I removed them as I saw fit.
 EZK.16:51 But Samaria did not commit half your sins, for you multiplied your lawlessness beyond them, and declared your sisters righteous by all the lawless deeds you committed.
@@ -483,7 +483,7 @@ EZK.17:14 Then he will take away the leaders of the land that it may become a we
 EZK.17:15 But this one shall revolt from him and send his messengers to Egypt, so they might give him horses and many people. Will he prosper? Will he who acts as an adversary escape? Can he break the covenant and be delivered?
 EZK.17:16 As I live,' says the Lord, 'he shall certainly die in the midst of Babylon, in the place where the king dwells who made him king, who dishonored My oath and broke My covenant.
 EZK.17:17 But with a small army and few people, Pharaoh shall wage war against him by throwing up a mound and building engines of war, so as to carry away souls.
-EZK.17:18 So he will not escape when he does all these things to him, because he dishonored the oath by brea king the covenant, although he gave his hand in trust.'
+EZK.17:18 So he will not escape when he does all these things to him, because he dishonored the oath by breaking the covenant, although he gave his hand in trust.'
 EZK.17:19 Therefore say, 'Thus says the Lord: 'As I live, surely My covenant which he broke and My oath which he dishonored-I will recompense these things on his head.
 EZK.17:20 I will spread My net over him, and he shall be caught in its enclosure.
 EZK.17:21 His whole line of battle will fall by the sword, and those who remain I will scatter to every wind. Then you shall know that I, the Lord, have spoken.' '
@@ -517,7 +517,7 @@ EZK.18:19 'Yet you say, 'Why does a son not bear the wrongdoing of his father?' 
 EZK.18:20 But the soul who sins shall die. The son shall not bear the wrongdoing of his father, nor shall the father bear the wrongdoing of his son. The righteousness of a righteous man shall be upon himself, and the lawlessness of a lawless man shall be upon himself.
 EZK.18:21 But if a lawless man turns from all the lawless deeds he commits, keeps all My commandments, does righteousness and shows mercy, he will surely live and not die.
 EZK.18:22 None of the transgressions he commits will be remembered. In the righteousness he does, he shall live.
-EZK.18:23 Do I ever will the death of a lawless man,' says the Lord,'since My will is for him to turn from the evil way and live?
+EZK.18:23 Do I ever will the death of a lawless man,' says the Lord, 'since My will is for him to turn from the evil way and live?
 EZK.18:24 But when a righteous man turns away from his righteousness and commits a wrongdoing, according to all the lawlessness a lawless man commits, then all the righteousness he does shall not be remembered. In the transgression he falls into and in his sins he commits, in these he shall die.
 EZK.18:25 'Yet you say, 'The Lord's way is not straight.' Hear now, all the house of Israel, is My way not straight? Is your way straight?
 EZK.18:26 When the righteous man turns away from his righteousness, commits a transgression, and dies in the transgression he commits, he should die because of it.
@@ -544,7 +544,7 @@ EZK.19:9 They put him in a muzzle, and he came to the king of Babylon in a cage 
 EZK.19:10 'Your mother was like a vine, like a blossom on a pomegranate tree, planted in water. Her fruit and branches grew because of much water.
 EZK.19:11 She became a rod of strength for a tribe of leaders. She was exalted in her greatness in the midst of the stems, and saw her greatness in the multitude of her branches.
 EZK.19:12 But she was broken to pieces in anger, for she was thrown down on the ground, and the wind and burning heat dried her chosen branches. She was punished, and the rod of her strength withered-fire consumed it.
-EZK.19:13 So now they have planted her in the desert, in awaterless land.
+EZK.19:13 So now they have planted her in the desert, in a waterless land.
 
 ### The Will of the Lord, and Man's Rebellion
 
@@ -613,7 +613,7 @@ EZK.21:7 'Therefore, son of man, prophesy and set your face against Jerusalem, a
 EZK.21:8 You shall say to the land of Israel, 'Behold, I am against you, and I will draw My sword out of its sheath and destroy both the unrighteous man and the lawless man from among you.
 EZK.21:9 Because I will destroy both the unrighteous man and the lawless man from among you, thus My sword shall go out of its sheath against all flesh from north to south,
 EZK.21:10 and all flesh will know that I, the Lord, have drawn My sword out of its sheath; and it shall not return anymore.'
-EZK.21:11 As for you, son of man, groan with abrea king heart, and sigh with bitterness before their eyes.
+EZK.21:11 As for you, son of man, groan with a breaking heart, and sigh with bitterness before their eyes.
 EZK.21:12 It will be, if they say to you, 'Why are you groaning?' that you shall say, 'Because of the news, for it is coming. Every heart will be oppressed, all hands will be feeble, all flesh and every spirit will faint, and every thigh will be stained with urine. Behold, it is coming and will be,' says the Lord and Master.'
 EZK.21:13 Again the word of the Lord came to me, saying,
 EZK.21:14 'Son of man, prophesy and you will say, 'Thus says the Lord: 'Say, 'O sword, sword, be sharpened and furious,
@@ -1374,6 +1374,14 @@ EZK.41:3 He also went into the inner court and measured the posts of the doorway
 ### The Wall and Its Chambers
 
 EZK.41:4 He measured the length of the doors, forty cubits, and the width, twenty cubits, in front of the sanctuary; and he said to me, 'This is the holy of holies.'
+EZK.41:5 Next he measured the wall of the house, six cubits; the width of each side all around was four cubits on every side.
+EZK.41:6 The side chambers were thirty-two in number, each next to the other; and the layout along the wall of the house all around was such that one could see all of them went together, and nowhere did they touch the walls of the house.
+EZK.41:7 As one went up from story to story, the side chambers became wider all around, because their supporting ledges in the wall of the temple ascended like steps; therefore the width of the structure increased as one went up from the lowest story to the highest by way of the middle one.
+EZK.41:8 The side chambers of the house all around were of a high layout of sides equal in measurement to one measuring stick; the layout was six cubits.
+EZK.41:9 The thickness of the outer wall of the side chambers was five cubits, and the open spaces between the sides of the house
+EZK.41:10 and the halls measured twenty cubits in width all around the sides of the house.
+EZK.41:11 The doors of the halls led to the open space; the one door led north and the other door led south; and the width of the light of the open space was five cubits in width all around.
+EZK.41:12 That which made a boundary before the open space, like the edge of the sea, was seventy cubits wide, and the width of the wall which bordered it was five cubits all around, and its length ninety cubits.
 EZK.41:13 Then he measured in front of the house, one hundred cubits long, and the open spaces and their boundaries and walls were one hundred cubits long.
 EZK.41:14 Also the width of the face of the house, along with the open spaces before it, was one hundred cubits.
 
@@ -1449,9 +1457,9 @@ EZK.43:19 You shall offer a young bull for a sin offering to the priests, the Le
 EZK.43:20 'They shall take some of its blood and put it on the four horns of the altar, on the four corners of the mercy seat, and on the step around it; and they shall make atonement for it.
 EZK.43:21 Then they shall take the calf of the sin offering and consume it by fire in the appointed place, set apart from the house, outside the sanctuary.
 EZK.43:22 On the second day they shall take two kids of goats without blemish for a sin offering, and they shall make atonement for the altar, as they made atonement with the calf.
-EZK.43:23 After they finish the atonement, they shall offer a calf from the herd without blemish, and aram from the flock without blemish.
+EZK.43:23 After they finish the atonement, they shall offer a calf from the herd without blemish, and a ramfrom the flock without blemish.
 EZK.43:24 They shall offer them before the Lord; and the priests shall throw salt on them and offer them up as whole burnt offerings to the Lord.
-EZK.43:25 Every day for seven days, you shall prepare a goat for a sin offering; and you shall prepare a calf and aram from the flock, and they shall offer them without blemish for seven days.
+EZK.43:25 Every day for seven days, you shall prepare a goat for a sin offering; and you shall prepare a calf and a ramfrom the flock, and they shall offer them without blemish for seven days.
 EZK.43:26 So they shall make atonement for the altar, and purify it, and fill their hands.
 
 ### The East Gate Is for the Lord
@@ -1513,7 +1521,7 @@ EZK.45:9 'Thus says the Lord God: 'Enough, O princes of Israel. Remove wrongdoin
 EZK.45:10 'You shall have an honest scale, an honest unit, and an honest dry measure.
 EZK.45:11 The unit and the dry measure shall be uniform for receiving goods, so the dry measure may contain one-tenth of a homer, and the unit one-tenth of a homer. The standard shall be according to the homer, equal in size.
 EZK.45:12 The standard weight shall be twenty obols. Five shekels shall indeed be five, ten shekels shall be ten, and fifty shekels shall be for you one mina.
-EZK.45:13 'This is the firstfruit you shall offer: you shall give one-sixth of an unit from a homer of wheat, and one-sixth of an ephah from akor of barley.
+EZK.45:13 'This is the firstfruit you shall offer: you shall give one-sixth of an unit from a homer of wheat, and one-sixth of an ephah from a kor of barley.
 EZK.45:14 The ordinance concerning oil, the liquid measure of oil, is one-tenth of such a measure. There are ten measures in a homer.
 EZK.45:15 One sheep shall be given from a flock of ten, from all the rich pastures of Israel, for sacrifices and whole burnt offerings, and for peace offerings to make atonement for you,' says the Lord God.
 EZK.45:16 'All the people shall give this firstfruit to the prince of Israel.
@@ -1537,17 +1545,17 @@ EZK.45:25 In the seventh month, on the fifteenth day of the month, in the feast,
 EZK.46:1 Thus says the Lord God: 'The gate of the inner court that faces toward the east shall be shut the six working days, but on the Sabbath it shall be opened, and on the day of the New Moon it shall be opened.
 EZK.46:2 The prince shall enter by way of the entrance chamber of the gate from the outside, and stand by the gatepost. The priest shall prepare his whole burnt offerings and his peace offerings. He shall worship at the threshold of the gate. Then he shall go out, but the gate shall not be shut until evening.
 EZK.46:3 Likewise the people of the land shall worship at the entrance to this gate before the Lord on the Sabbaths and the New Moons.
-EZK.46:4 The prince shall offer the whole burnt offerings to the Lord on the Sabbath day: six lambs without blemish, and aram without blemish,
-EZK.46:5 and the grain offering for aram, and the grain offering for the lambs, as much as he wants to give, as well as ahin of oil with every cake.
-EZK.46:6 On the day of the New Moon it shall be a young bull without blemish, six lambs, and aram without blemish.
+EZK.46:4 The prince shall offer the whole burnt offerings to the Lord on the Sabbath day: six lambs without blemish, and a ramwithout blemish,
+EZK.46:5 and the grain offering for a ram, and the grain offering for the lambs, as much as he wants to give, as well as ahin of oil with every cake.
+EZK.46:6 On the day of the New Moon it shall be a young bull without blemish, six lambs, and a ramwithout blemish.
 EZK.46:7 The cake with the bull and the cake with the ram shall be a grain offering, and for the lambs, whatever he wishes, along with ahin of oil with the cake.
 EZK.46:8 When the prince enters, he shall go in by way of the entrance of the gate, and go out the same way.
 EZK.46:9 But whenever the people of the land come before the Lord on the appointed feast days, whoever enters by way of the north gate to worship shall go out by way of the south gate; and whoever enters by way of the south gate shall go out by way of the north gate. He shall not return by way of the gate through which he came, but rather he shall go out right away.
 EZK.46:10 The prince shall then be in their midst. When they go in, he shall go in, and when they go out, he shall go out.
-EZK.46:11 At the festivals and the ceremonial days the grain offering shall be a cake of cereal for a bull, cereal for aram, as much as he wants to give for the lambs, and ahin of oil with every cake.
+EZK.46:11 At the festivals and the ceremonial days the grain offering shall be a cake of cereal for a bull, cereal for a ram, as much as he wants to give for the lambs, and ahin of oil with every cake.
 EZK.46:12 'Now when the prince offers whole burnt offerings as a thanksgiving to the Lord, he shall open the gate which faces east and offer his whole burnt offerings and his peace offerings, as he did on the Sabbath day. Then he shall go out, and after he goes out he shall shut the gate.
 EZK.46:13 You shall offer daily as a whole burnt offering to the Lord a lamb of the first year without blemish, and you shall offer it every morning.
-EZK.46:14 You shall also offer a grain offering with it every morning, a sixth of an unit, and a third of ahin of oil to moisten the fine flour of the grain offering. This is a perpetual ordinance.
+EZK.46:14 You shall also offer a grain offering with it every morning, a sixth of an unit, and a third of a hin of oil to moisten the fine flour of the grain offering. This is a perpetual ordinance.
 
 ### The Prince's Possessions
 

@@ -12,20 +12,9 @@ deuterocanonical: false
 has_additions: false
 ---
 
-## Chapter 0
-
-MRK.0:1 1. The suffering Messiah. Christ, who acts with power and authority, is nevertheless asuffering Messiah (8:27 -33), One who has come to serveand give His life for many (1 0:45). Jesus is clearly the Son of God (1:1, 1 1; 9:7; 1 4:61, 62), who has power over demons, heals the sick, and forgives sins (1:23-25; 2:1 0, 1 1 ). But He also possesses afull humanity, expressed through the agony of Gethsemane and the suffering on the cross.
-MRK.0:2 The messianic secret. Mark underscores the fact that Jesus veiled His messianic identity. He commanded demons, the people He healed, and ev en the disciples to keep silent about His messiahship (1:34, 44; 8:30) until He Himself revealed the my stery before the Sanhedrin (1 4:62). In this gospel Peter confesses Jesus only as 'the Christ' (8:29; contrast Mt 1 6:1 6; Jn 6:69). Only after the Resurrection do His followers recognize Him as God (16:14).
-MRK.0:3 Discipleship. Though the word 'disciple' never occurs in Mark, Jesus calls His followers to uncompromising and heroic commitment. True disciples take up their crosses and suffer with Jesus (8:34-38).
-MRK.0:4 Background -According to some Church Fathers, Mark is writing for the Christian community of Rome, which either was experiencing the great persecution by Nero (beginning in AD 64) or was caught up in the apocalyptic fervor occasioned by the Jewish war (Jerusalem was destroyed in AD 70). Mark tells the story of Jesus so his readers may see their own suffering as aprelude to the glorious Second Coming of Jesus and may discern the reward of those who endure to the end. The suffering and the glory are equally real: this was true for Jesus and will be true for all believers.
-MRK.0:5 The earliest manuscripts of Mark end abruptly at 16:8. Later manuscripts provide additional material (16:9-20), included in this and other versions, which the Church recognizes as inspired.
-
-### John: Forerunner of Christ
-
-MRK.0:6 Prologue: Preparation for the Ministry (1:1 -1 3) The Galilean Ministry: The Kingdom Is at Hand (1:14-6:29) Jesus manifests the power of the kingdom (1:14-45) Israel is divided over Jesus' authority (2:1 -5:43) Nazareth divided: doubters and disciples (6:1 -1 3) The Forerunner beheaded (6:14-29) III. Ministry Bey ond Galilee: The Kingdom and the World (6:30-9:50) Jesus relates to the Jews (6:30-7:23) Jesus relates to the Gentiles (7:24-8:26) The glory of the kingdom revealed (8:27 -9:1 3) The response of this world (9:1 4-50) Journey to Jerusalem: The Kingdom's Discipline (10:1-52) Ministry in Jerusalem: Rejection, Persecution (11:1-16:20) The Messiah made manifest (11:1-13:37) Betray al and Passover meal (1 4:1 -31 ) The Passion (1 4:32-15:47 ) The Resurrection (16:1-20) (Mt 3:1-12; Lk 3:1-18; Jn 1:19-23)
 ## Chapter 1
 
-MRK.1:1 he beginning of the gospel of Jesus Christ, the Son of God.
+MRK.1:1 The beginning of the gospel of Jesus Christ, the Son of God.
 MRK.1:2 As it is written in the Prophets: a 'Behold, I send My messenger before Your face, Who will prepare Your way before You.' b
 MRK.1:3 'The voice of one crying in the wilderness: 'Prepare the way of the LORD; Make His paths straight.' ' a
 MRK.1:4 John came baptizing in the wilderness and preaching abaptism of repentance for the remission of sins.
@@ -124,7 +113,8 @@ MRK.2:21 No one sews apiece of unshrunk cloth on an old garment; or else the new
 MRK.2:22 And no one puts new wine into old wineskins; or else the new wine bursts the wineskins, the wine is spilled, and the wineskins are ruined. But new wine must be put into new wineskins.'
 MRK.2:23 (Mt 12:1-14; Lk 6:1-11) Now it happened that He went through the grainfields on the Sabbath; and as they went His disciples began to pluck the heads of grain.
 MRK.2:24 And the Pharisees said to Him, 'Look, why do they do what is not lawful on the Sabbath?'
-MRK.2:25 But He said to them, 'Have you never read what David did when he was in need and hungry, he and those with him: 26 how he went into the house of God in the days of Abiathar the high priest, and ate the showbread, which is not lawful to eat except for the priests, and also gave some to those who were with him?'
+MRK.2:25 But He said to them, 'Have you never read what David did when he was in need and hungry, he and those with him:
+MRK.2:26 how he went into the house of God in the days of Abiathar the high priest, and ate the showbread, which is not lawful to eat except for the priests, and also gave some to those who were with him?'
 MRK.2:27 And He said to them, 'The Sabbath was made for man, and not man for the Sabbath.
 MRK.2:28 Therefore the Son of Man is also Lord of the Sabbath.'
 ## Chapter 3
@@ -251,7 +241,9 @@ MRK.4:42 (Mt 8:28-34; Lk 8:26-39)
 ## Chapter 5
 
 MRK.5:1 hen they came to the other side of the sea, to the country of the Gadarenes. a
-MRK.5:2 And when He had come out of the boat, immediately there met Him out of the tombs aman with an unclean spirit, 3 who had his dwelling among the tombs; and no one could bind him, anot even with chains, 4 because he had often been bound with shackles and chains. And the chains had been pulled apart by him, and the shackles broken in pieces; neither could anyone tame him.
+MRK.5:2 And when He had come out of the boat, immediately there met Him out of the tombs aman with an unclean spirit,
+MRK.5:3 who had his dwelling among the tombs; and no one could bind him, anot even with chains,
+MRK.5:4 because he had often been bound with shackles and chains. And the chains had been pulled apart by him, and the shackles broken in pieces; neither could anyone tame him.
 MRK.5:5 And always, night and day, he was in the mountains and in the tombs, crying out and cutting himself with stones.
 MRK.5:6 When he saw Jesus from afar, he ran and worshiped Him.
 MRK.5:7 And he cried out with aloud voice and said, 'What have I to do with You, Jesus, Son of the Most High God? I implore You by God that You do not torment me.'
@@ -337,7 +329,8 @@ MRK.6:23 He also swore to her, 'Whatever you ask me, I will give you, up to half
 MRK.6:24 So she went out and said to her mother, 'What shall I ask?' And she said, 'The head of John the Baptist!'
 MRK.6:25 Immediately she came in with haste to the king and asked, saying, 'I want you to give me at once the head of John the Baptist on aplatter.'
 MRK.6:26 And the king was exceedingly sorry; yet, because of the oaths and because of those who sat with him, he did not want to refuse her.
-MRK.6:27 Immediately the king sent an executioner and commanded his head to be brought. And he went and beheaded him in prison, 28 brought his head on aplatter, and gave it to the girl; and the girl gave it to her mother.
+MRK.6:27 Immediately the king sent an executioner and commanded his head to be brought. And he went and beheaded him in prison,
+MRK.6:28 brought his head on aplatter, and gave it to the girl; and the girl gave it to her mother.
 
 ### Feeding the Five Thousand
 
@@ -372,7 +365,8 @@ MRK.6:51 Then He went up into the boat to them, and the wind ceased. And they we
 
 MRK.6:52 For they had not understood about the loaves, because their heart was hardened.
 MRK.6:53 When they had crossed over, they came to the land of Gennesaret and anchored there.
-MRK.6:54 And when they came out of the boat, immediately the people recognized Him, 55 ran through that whole surrounding region, and began to carry about on beds those who were sick to wherever they heard He was.
+MRK.6:54 And when they came out of the boat, immediately the people recognized Him,
+MRK.6:55 ran through that whole surrounding region, and began to carry about on beds those who were sick to wherever they heard He was.
 
 ### The Traditions of the Pharisees
 
@@ -391,7 +385,8 @@ MRK.7:8 For laying aside the commandment of God, you hold the tradition of men a
 MRK.7:9 He said to them, ' All too well you reject the commandment of God, that you may keep your tradition.
 MRK.7:10 For Moses said, 'Honor your father and your mother'; aand, 'He who curses father or mother, let him be put to death.' b
 MRK.7:11 But you say, 'If aman says to his father or mother, 'Whatever profit you might have received from me is Corban'-' (that is, agift to God ),
-MRK.7:12 then you no longer let him do anything for his father or his mother, 13 making the word of God of no effect through your tradition which you have handed down. And many such things you do.'
+MRK.7:12 then you no longer let him do anything for his father or his mother,
+MRK.7:13 making the word of God of no effect through your tradition which you have handed down. And many such things you do.'
 MRK.7:14 When He had called all the multitude to Himself, He said to them, 'Hear Me, everyone, and understand:
 MRK.7:15 There is nothing that enters aman from outside which can defile him; but the things which come out of him, those are the things that defile aman.
 MRK.7:16 If anyone has ears to hear, let him hear!' a
@@ -399,7 +394,8 @@ MRK.7:17 When He had entered ahouse away from the crowd, His disciples asked Him
 MRK.7:18 So He said to them, 'Are you thus without understanding also? Do you not perceive that whatever enters aman from outside cannot defile him,
 MRK.7:19 because it does not enter his heart but his stomach, and is eliminated, thus purifying all foods?' a
 MRK.7:20 And He said, 'What comes out of aman, that defiles aman.
-MRK.7:21 For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders, 22 thefts, covetousness, wickedness, deceit, lewdness, an evil eye, blasphemy, pride, foolishness.
+MRK.7:21 For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
+MRK.7:22 thefts, covetousness, wickedness, deceit, lewdness, an evil eye, blasphemy, pride, foolishness.
 
 ### A Gentile Woman Believes
 
@@ -438,7 +434,8 @@ MRK.8:8 So they ate and were filled, and they took up seven large baskets of lef
 
 ### (Mt 16:1-4)
 
-MRK.8:9 Now those who had eaten were about four thousand. And He sent them away, 10 immediately got into the boat with His disciples, and came to the region of Dalmanutha.
+MRK.8:9 Now those who had eaten were about four thousand. And He sent them away,
+MRK.8:10 immediately got into the boat with His disciples, and came to the region of Dalmanutha.
 MRK.8:11 Then the Pharisees came out and began to dispute with Him, seeking from Him asign from heaven, testing Him.
 
 ### (Mt 16:5-12)
@@ -582,7 +579,8 @@ MRK.10:25 It is easier for acamel to go through the eye of aneedle than for aric
 MRK.10:26 And they were greatly astonished, saying among themselves, 'Who then can be saved?'
 MRK.10:27 But Jesus looked at them and said, 'With men it is impossible, but not with God; for with God all things are possible.'
 MRK.10:28 Then Peter began to say to Him, 'See, we have left all and followed You.'
-MRK.10:29 So Jesus answered and said, 'Assuredly, I say to you, there is no one who has left house or brothers or sisters or father or mother or wife aor children or lands, for My sake and the gospel's, 30 who shall not receive ahundredfold now in this time-houses and brothers and sisters and mothers and children and lands, with persecutions-and in the age to come, eternal life.
+MRK.10:29 So Jesus answered and said, 'Assuredly, I say to you, there is no one who has left house or brothers or sisters or father or mother or wife aor children or lands, for My sake and the gospel's,
+MRK.10:30 who shall not receive ahundredfold now in this time-houses and brothers and sisters and mothers and children and lands, with persecutions-and in the age to come, eternal life.
 
 ### (Mt 20:17-19; Lk 18:31-34)
 
@@ -695,13 +693,8 @@ MRK.12:17 And He said to them, 'Whose image and inscription is this?' They said 
 
 ### Jesus Explains the Resurrection
 
-MRK.12:18 And they marveled at Him.
-MRK.12:19 (Mt 22:23-33; Lk 20:27-40)
-
-### Jesus Explains the Resurrection
-
-MRK.12:18 Then some Sadducees, who say there is no resurrection, came to Him; and they asked Him, saying:
-MRK.12:19 'Teacher, Moses wrote to us that if aman's brother dies, and leaves his wife behind, and leaves no children, his brother should take his wife and raise up offspring for his brother.
+MRK.12:18 Then some Sadducees, who say there is no resurrection, came to Him; and they asked Him, saying: And they marveled at Him.
+MRK.12:19 'Teacher, Moses wrote to us that if aman's brother dies, and leaves his wife behind, and leaves no children, his brother should take his wife and raise up offspring for his brother. (Mt 22:23-33; Lk 20:27-40)
 MRK.12:20 Now there were seven brothers. The first took awife; and dying, he left no offspring.
 MRK.12:21 And the second took her, and he died; nor did he leave any offspring. And the third likewise.
 MRK.12:22 So the seven had her and left no offspring. Last of all the woman died also.
@@ -723,30 +716,18 @@ MRK.12:34 Now when Jesus saw that he answered wisely, He said to him, 'You are n
 
 ### David's Son and Lord
 
-MRK.12:35 But after that no one dared question Him.
-MRK.12:36 (Mt 22:41-46; Lk 20:41-44)
-
-### David's Son and Lord
-
-MRK.12:35 Then Jesus answered and said, while He taught in the temple, 'How is it that the scribes say that the Christ is the Son of David?
-MRK.12:36 For David himself said by the Holy Spirit: 'The LORD said to my Lord, 'Sit at My right hand, Till I make Your enemies Your footstool.' ' a
+MRK.12:35 Then Jesus answered and said, while He taught in the temple, 'How is it that the scribes say that the Christ is the Son of David? But after that no one dared question Him.
+MRK.12:36 For David himself said by the Holy Spirit: 'The LORD said to my Lord, 'Sit at My right hand, Till I make Your enemies Your footstool.' ' a (Mt 22:41-46; Lk 20:41-44)
 MRK.12:37 Therefore David himself calls Him 'Lord'; how is He then his Son?'
 
 ### Beware of the Scribes
 
-MRK.12:38 And the common people heard Him gladly.
+MRK.12:38 Then He said to them in His teaching, 'Beware of the scribes, who desire to go around in long robes, love greetings in the marketplaces, And the common people heard Him gladly.
 
 ### (Lk 21:1-4)
 
-MRK.12:39 (Mt 23:1-13; Lk 20:45-47)
-
-### Beware of the Scribes
-
-MRK.12:38 Then He said to them in His teaching, 'Beware of the scribes, who desire to go around in long robes, love greetings in the marketplaces,
-
-### (Lk 21:1-4)
-
-MRK.12:39 the best seats in the synagogues, and the best places at feasts, 40 who devour widows' houses, and for apretense make long prayers. These will receive greater condemnation.'
+MRK.12:39 the best seats in the synagogues, and the best places at feasts,
+MRK.12:40 who devour widows' houses, and for apretense make long prayers. These will receive greater condemnation.' (Mt 23:1-13; Lk 20:45-47)
 MRK.12:41 Now Jesus sat opposite the treasury and saw how the people put money into the treasury. And many who were rich put in much.
 MRK.12:42 Then one poor widow came and threw in two mites, awhich make aquadrans.
 MRK.12:43 So He called His disciples to Himself and said to them, 'Assuredly, I say to you that this poor widow has put in more than all those who have given to the treasury;
@@ -858,13 +839,8 @@ MRK.14:31 But he spoke more vehemently, 'If I have to die with You, I will not d
 
 ### Gethsemane
 
-MRK.14:32 And they all said likewise.
-MRK.14:33 (Mt 26:36-46; Lk 22:39-46; Jn 18:1)
-
-### Gethsemane
-
-MRK.14:32 Then they came to aplace which was named Gethsemane; and He said to His disciples, 'Sit here while I pray.'
-MRK.14:33 And He took Peter, James, and John with Him, and He began to be troubled and deeply distressed.
+MRK.14:32 Then they came to aplace which was named Gethsemane; and He said to His disciples, 'Sit here while I pray.' And they all said likewise.
+MRK.14:33 And He took Peter, James, and John with Him, and He began to be troubled and deeply distressed. (Mt 26:36-46; Lk 22:39-46; Jn 18:1)
 MRK.14:34 Then He said to them, 'My soul is exceedingly sorrowful, even to death. Stay here and watch.'
 MRK.14:35 He went alittle farther, and fell on the ground, and prayed that if it were possible, the hour might pass from Him.
 MRK.14:36 And He said, 'Abba, Father, all things are possible for You. Take this cup away from Me; nevertheless, not what I will, but what You will. '
@@ -953,7 +929,8 @@ MRK.15:25 Now it was the third hour, and they crucified Him.
 MRK.15:26 And the inscription of His accusation was written above:
 MRK.15:27 With Him they also crucified two robbers, one on His right and the other on His left.
 MRK.15:28 So the Scripture was fulfilled awhich says, 'And He was numbered with the transgressors.' b
-MRK.15:29 And those who passed by blasphemed Him, wagging their heads and saying, 'Aha! You who destroy the temple and build it in three days, 30 save Yourself, and come down from the cross!'
+MRK.15:29 And those who passed by blasphemed Him, wagging their heads and saying, 'Aha! You who destroy the temple and build it in three days,
+MRK.15:30 save Yourself, and come down from the cross!'
 MRK.15:31 Likewise the chief priests also, mocking among themselves with the scribes, said, 'He saved others; Himself He cannot save.
 
 ### (Mt 27:45-56; Lk 23:44-49; Jn 19:28-37)

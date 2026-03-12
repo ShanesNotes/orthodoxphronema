@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-2SA.1:1 And it happened after the death of Saul, when David had returned from the slaugh
+2SA.1:1 And it happened after the death of Saul, when David had returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag,
 2SA.1:2 And on the third day, behold, a man came from the camp of the people of Saul with his clothes torn and dust on his head. When he came to David, he fell to the ground and prostrated himself.
 
 ### (Second Samuel)
@@ -95,7 +95,7 @@ has_additions: false
 
 ### The Sons of David
 
-2SA.3:1 Now there was along war between the house of Saul and the house of David. But th
+2SA.3:1 Now there was a long war between the house of Saul and the house of David. But the house of David grew continually stronger and the house of Saul grew steadily weaker. The Sons of David
 2SA.3:2 And sons were born to David in Hebron. His firstborn was Amnon by Ahinoam the Jezreelite woman
 2SA.3:3 his second, Chileab, by Abigail the widow of Nabal the Carmelite; the third, Absalom the son of Maacah, the daughter of Talmai, king of Geshur
 2SA.3:4 the fourth, Adonijah the son of Haggith; the fifth, Shephatiah the son of Abital
@@ -134,7 +134,7 @@ has_additions: false
 2SA.3:31 Then David said to Joab and to all the people with him, 'Tear your clothes, gird yourselves with sackcloth, and mourn for Abner.' And King David followed the coffin.
 2SA.3:32 So they buried Abner in Hebron; and the king lifted up his voice and wept at the grave, and all the people wept over Abner.
 2SA.3:33 And the king sang a lament over Abner and said: 'Should Abner die according to the death of Nabal?
-2SA.3:34 Your hands were not bound, Nor were y our feet held by chains, For Nabal was brought forward on different grounds.
+2SA.3:34 Your hands were not bound, Nor were your feet held by chains, For Nabal was brought forward on different grounds.
 2SA.3:35 You fell before children of injustice.' All the people assembled to weep for him.
 2SA.3:36 And when all the people came to persuade David to eat food while it was still day, David took an oath, saying, 'God do so and more to me, if I eat bread or anything else before the sun goes down!'
 2SA.3:37 All the people noticed and all were pleased, as the king did many pleasing things before the people.
@@ -146,7 +146,7 @@ has_additions: false
 2SA.3:40 Though I am governing as the anointed king, on this very day I am a kinsman; and to me these men, sons of Zeruiah, are more unyielding than I am. The Lord shall repay the evildoer according to his malice.'
 ## Chapter 4
 
-2SA.4:1 Then Mephibosheth, the son of Saul, heard that Abner had died while in Hebron, t
+2SA.4:1 When Mephibosheth, the son of Saul, heard that Abner had died while in Hebron, the strength of his hands grew weaker, and all the men of Israel were low in spirits.
 2SA.4:2 Now Saul's son, Mephibosheth, had two men who were captains over the troops. The name of one was Baanah and the name of the other Rechab, sons of Rimmon the Beerothite, of the sons of Benjamin; for Beeroth was considered as one of the sons of Benjamin.
 2SA.4:3 And the Beerothites fled to Gittaim and sojourn there until this day.
 2SA.4:4 (Jonathan, a son of Saul, had a five-year-old son who was lame in his feet. When word came from Jezreel about Saul and his son Jonathan, his nurse picked up his son and fled, and as she ran to leave, she fell and his foot became lame. Mephibosheth was his name.)
@@ -163,7 +163,7 @@ has_additions: false
 2SA.4:12 And David gave a command to his servants, and they killed them. They cut off their hands and feet, and they hung them by the pool in Hebron. But the head of Mephibosheth was buried in the tomb of Abner, son of Ner.
 ## Chapter 5
 
-2SA.5:1 Then all the tribes of Israel came to David at Hebron and said to him, 'Indeed w
+2SA.5:1 Then all the tribes of Israel came to David at Hebron and said to him, “Indeed we are your bone and your flesh.
 2SA.5:2 In time past, when Saul was king over us, you were the one who led Israel out and brought them in, and the Lord said to you, 'You shall shepherd My people Israel, and be ruler over Israel.' '
 2SA.5:3 Therefore all the elders of Israel came to the king at Hebron, and at Hebron King David made a covenant with them before the Lord. And they anointed David king over all Israel.
 2SA.5:4 David was thirty years old when he began to reign, and he reigned forty years.
@@ -204,7 +204,7 @@ has_additions: false
 2SA.6:2 And David arose and went, he and all the people with him, even with the rulers of Judah, on an expedition to bring back from there the ark of God, on which they called upon the Name of the Lord of Hosts who dwells between the cherubim.
 2SA.6:3 So they set the ark of God on a new wagon and brought it from the house of Abinadab on the hill. And Uzzah and his brothers, the sons of Abinadab, drove the wagon
 2SA.6:4 with the ark, and his brothers went before the ark.
-2SA.6:5 Then David and all the sons of Israel with strength played music before the Lord on welltuned instruments, with songs, harps, lyres, flutes, and with drums and cymbals.
+2SA.6:5 Then David and all the sons of Israel with strength played music before the Lord on well-tuned instruments, with songs, harps, lyres, flutes, and with drums and cymbals.
 2SA.6:6 And when they came to Nachon's threshing-floor, Uzzah placed his hand on the ark of God to hold it steady when the oxen shook it out of its place.
 2SA.6:7 The Lord was angered against Uzzah, and there God struck him. And before God, he died there next to the ark of the Lord.
 2SA.6:8 And David became angry because the Lord inflicted a fatal wound against Uzzah, and he called that place Wound of Uzzah to this day.
@@ -228,7 +228,7 @@ has_additions: false
 2SA.6:23 And Michal the daughter of Saul had no child to the day of her death.
 ## Chapter 7
 
-2SA.7:1 It came to pass when the king sat in his house and the Lord had given him an inh
+2SA.7:1 It came to pass when the king sat in his house and the Lord had given him an inheritance on every side, free from all his enemies around him,
 2SA.7:2 the king said to Nathan the prophet, 'See now, I now live in a house of cedar, but the ark of God dwells in the middle of a tent.'
 2SA.7:3 Nathan said to the king, 'Go and do everything that is in your heart, because the Lord is with you.'
 2SA.7:4 But that night the word of the Lord came to Nathan, saying,
@@ -266,7 +266,7 @@ has_additions: false
 2SA.7:29 Now may You rule and bless the house of Your servant, that it may continue before You forever. For You are the Lord my Lord; You spoke, and with Your blessing, let the house of Your servant be blessed forever.'
 ## Chapter 8
 
-2SA.8:1 After this, David attacked the Philistines and put them to flight. And David too
+2SA.8:1 After this, David attacked the Philistines and put them to flight. And David took the border country from the hand of the Philistines.
 2SA.8:2 Then David defeated Moab, and after forcing them down to the ground, he measured them off with lines. With two lines he measured off those to be put to death, and with two lines those to be kept alive. So the Moabites became David's servants and brought tribute.
 2SA.8:3 David also defeated Hadadezer the son of Rehob, king of Zobah, as he went to extend his power to the River Euphrates.
 2SA.8:4 David took from him one thousand chariots, seven thousand horsemen, and twenty thousand foot soldiers. Also David hamstrung all the chariot horses, except that he spared enough of them for one hundred chariots.
@@ -289,7 +289,7 @@ has_additions: false
 2SA.8:18 Benaiah the son of Jehoiada was an advisor, as were the Cherethites and the Pelethites; and David's sons were chief ministers.
 ## Chapter 9
 
-2SA.9:1 Now David said, 'Is there anyone still left of the house of Saul, so that I may 
+2SA.9:1 Now David said, “Is there anyone still left of the house of Saul, so that I may show him mercy for Jonathan's sake?”
 2SA.9:2 And there was a servant of the house of Saul whose name was Ziba, and they called him to David. And the king said to him, 'Are you Ziba?' And he said, 'I am your servant!'
 2SA.9:3 Then the king said, 'Is there not still someone left of the house of Saul, to whom I may show the mercy of God?'
 2SA.9:4 And Ziba said to the king, 'There is still a son of Jonathan who is wounded in his feet.' So the king said to him, 'Where is he?' And Ziba said to the king, 'See, he is in the house of Machir the son of Ammiel, in Lo Debar.'
@@ -307,7 +307,7 @@ has_additions: false
 2SA.9:13 So Mephibosheth dwelt in Jerusalem, for he always ate at the king's table. And he was lame in both his feet.
 ## Chapter 10
 
-2SA.10:1 It happened after this that the king of the children of Ammon 
+2SA.10:1 Itreigned happened after this that the king of the children of Ammon died, and Hanun his son in his place.
 2SA.10:2 Then David said, 'I will show mercy to Hanun the son of Nahash, as his father showed mercy to me.' So David sent by the hand of his servants to comfort him concerning his father. And David's servants came into the land of the children of Ammon.
 2SA.10:3 And the princes of the sons of Ammon said to Hanun their lord, 'Do you think David really honors your father because he sent comforters to you? Did David not rather send his servants to you to search the city, to spy it out, and to survey it?'
 2SA.10:4 Therefore Hanun took David's servants, shaved off their beards, cut off their garments at the middle of their haunches, and sent them away.
@@ -331,7 +331,7 @@ has_additions: false
 2SA.10:19 And when all the kings who were servants to Hadadezer saw they were defeated by Israel, they changed allegiance and served Israel. Syria was afraid to help rescue the people of Ammon.
 ## Chapter 11
 
-2SA.11:1 Then at the appointed time when kings go out to battle, David sent Joab and his 
+2SA.11:1 Then at the appointed time when kings go out to battle, David sent Joab and his guards, and all Israel with him. They destroyed the sons of Ammon and besieged Rabbah. But David remained at Jerusalem.
 2SA.11:2 Then one evening David arose from his bed and went up on the roof of the king's house. From the roof, he saw a woman bathing, and she was very beautiful in appearance.
 2SA.11:3 So David sent and asked about the woman. And someone said, 'Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?'
 2SA.11:4 David sent messengers and took her. And she came to him, and he lay with her, for she was purified from her uncleanness. And she returned to her house.
@@ -340,7 +340,7 @@ has_additions: false
 2SA.11:7 When Uriah had come to him, David asked how Joab was doing, and how the people were doing, and how the war prospered.
 2SA.11:8 And David said to Uriah, 'Go down to your house and wash your feet.' So Uriah departed from the king's house, and a gift from the king followed him.
 2SA.11:9 But Uriah slept at the door of the king's house with all the servants of his lord and did not go down to his house.
-2SA.11:10 So when they told David, saying, 'Uriah did not go down to his house,' David said to Uriah, 'Didn'tyou come from a journey? Why didn'tyou go down to your house?'
+2SA.11:10 So when they told David, saying, 'Uriah did not go down to his house,' David said to Uriah, 'Didn't you come from a journey? Why didn't you go down to your house?'
 2SA.11:11 And Uriah said to David, 'The ark and Israel and Judah are dwelling in tents, and my lord Joab and the servants of my lord are encamped in the open fields. Shall I go to my house to eat and drink and lie with my wife? How should I do this? As your soul lives, I will not do this.'
 2SA.11:12 Then David said to Uriah, 'Wait here today, and tomorrow I will send you away.' So Uriah remained in Jerusalem that day and the next.
 2SA.11:13 The next day, David invited him, and he ate and drank with him, and he got him drunk. In the evening, he left to sleep on his bed with the servants of his lord, but he did not go down to his house.
@@ -363,7 +363,7 @@ has_additions: false
 2SA.11:27 And when her mourning was over, David sent and brought her to his house, and she became his wife and bore him a son. But what David did was evil in the Lord's eyes.
 ## Chapter 12
 
-2SA.12:1 And the Lord sent Nathan the prophet to David. And he came to him and said to hi
+2SA.12:1 And the Lord sent Nathan the prophet to David. And he came to him and said to him, “There were two men in one city, one rich and the other poor.
 2SA.12:2 The rich man had very many flocks and herds.
 2SA.12:3 But the poor man had nothing but one little lamb he had bought and nourished and reared; and it grew up together with him and with his sons. It ate of his own food and drank from his own cup and lay in his bosom, and it was like a daughter to him.
 2SA.12:4 And a traveler came to the rich man, who refused to take from his own flock and from his own herd to prepare for the foreign traveler who had come to him; but he took the poor man's lamb and prepared it for the man who had come to him.'
@@ -408,7 +408,7 @@ has_additions: false
 2SA.12:31 And leading out the people who were in it, he put them to work with saws and iron threshing machines and made them work as brick-makers. He did the same to all the cities of the sons of Ammon. Then David and all the people returned to Jerusalem.
 ## Chapter 13
 
-2SA.13:1 And it came to pass that Absalom the son of David had a very lovely sister, whose
+2SA.13:1 And it came to pass that Absalom the son of David had a very lovely sister, whose name was Tamar. Amnon the son of David loved her.
 2SA.13:2 Amnon was so lovesick over his sister Tamar that he became ill; for she was a virgin and also aloof. It was nearly impossible, in the eyes of Amnon, for him to gain her affection.
 2SA.13:3 But Amnon had a companion whose name was Jonadab the son of Shimeah, David's brother. Now Jonadab was a very clever man.
 2SA.13:4 And he said to him, 'What is the matter with you, son of the king? Why are you becoming weaker day after day? Will you not tell me?' Amnon said to him, 'I am in love with Tamar, my brother Absalom's sister.'
@@ -455,8 +455,8 @@ has_additions: false
 2SA.13:39 And the motivation of the king to seek out Absalom ceased, for he was consoled and at peace concerning the death of Amnon.
 ## Chapter 14
 
-2SA.14:1 Joab the son of Zeruiah perceived that the king's heart was in
-2SA.14:2 So Joab sent to Tekoa and took from there a wise woman. He said to her, 'Now mourn and put on apparel for mourning. Do not anoint yourself with olive oil, and be like a woman who is mourning for the dead along time.
+2SA.14:1 2So Joab sent to Tekoa and took from there a wise woman. He said to her, “Now mourn and put on apparel for mourning. Do not anoint yourself with olive oil, and be like a woman who is mourning for the dead a long time. 3Then go to the king and repeat the words I give you.” So Joab put the words in her mouth. 4And as the woman of Tekoa spoke to the king, she put her face to the ground and prostrated herself and said, “Help me, O king, help me!” 5Then the king said to her, “What troubles you?” And she answered, “Indeed I am a widow. My husband is dead. 6Now your handmaid had two sons, and the two fought with each other in the field, and there was no one to part them, but the one struck his brother and killed him. 7And now the whole family has risen up against your handmaid and said, ‘Deliver him who struck his brother, so we may execute him for the life of his brother whom he killed. We will destroy your heir as well.’ So they will extinguish my ember that is left, and leave neither name nor remnant on the earth to my husband.” 8Then the king said, “Go in peace to your house, and I will give orders concerning you.” 9And the woman of Tekoa said to the king, “My lord king, let the iniquity be on me and on my father's house. Let the king and his throne be guiltless.” 10So the king said, “Who said this to you? Bring him to me, and he will no longer have influence over you.” 11Then she said, “Indeed, remember, O king, let the Lord God prevail lest the blood of my kinsmen be utterly destroyed. Let not one of them by any means take away my son.” And he said, “As the Lord lives, not one hair of your son shall fall to the ground.” 12Therefore the woman said, “May your handmaid speak another word to my lord the king?” And he said, “Speak.” 13So the woman responded, “Why do you sometimes consider such a thing against the people of God? Truly, this message comes from the mouth of the king as an error, for the king does not bring back his son from being banished. 14For as we will surely die and be spilled on the ground like water that cannot be gathered together on its own, so too God shall take away life, even as He is taking into account the ones being banished from Him. 15Now I come to speak this message to my lord the king, so the people may see me and say that your handmaid indeed spoke to the king—if somehow the king will fulfill the request of his handmaid. 16For the king will hear and deliver his handmaid from the hand of the man who seeks to cast me and my son from the inheritance of God.” 17And the woman said, “May the word of my lord the king be as an offering. For as an angel of the Lord, thus does my lord and king hear the good and the evil; and the Lord your God will be with you.” 18Then the king answered and said to the woman, “Hide nothing from me that I ask of you.” And the woman said, “Let my lord the king speak.” 19So the king said, “Is not the hand of Joab in all this with you?” And the woman said to the king, “O my lord the king, as your soul lives, there is no turning to the right hand or to the left from any of the words my lord the king speaks. Your servant Joab commanded me, putting all these words in the mouth of your handmaid. 20Your servant Joab did this to bring about this change of affairs, but my lord is wise according to the wisdom of an angel of God, and knows everything on the earth.” 21And the king said to Joab, “All right, I have done this request of yours for you. Go and bring back the young man Absalom.” 22Then Joab fell to the ground on his face and bowed himself and blessed the king. And Joab said, “Today your servant knows that I have found favor in your sight, my lord king, because the king has fulfilled his servant's request.” 23So Joab arose and went to Geshur and brought Absalom to Jerusalem. 24And the king said, “Let him return to his own house, but do not let him see my face.” So Absalom returned to his own house but did not see the king's face. Absalom Reconciles with His Father 25Now in all Israel there was no one praised as much as Absalom. From the sole of his foot to the crown of his head, there was no blemish in him. 26And when he cut the hair of his head—at the beginning of every year he cut it because it was heavy on him—he weighed the hair of his head at two hundred shekels according to the king's standard. 27To Absalom were born three sons, and one daughter whose name was Tamar. She was a woman of beautiful appearance, and she became the wife of Rehoboam, son of Solomon, and she bore to him Abijah. 28Absalom dwelt for two full years in Jerusalem, but did not see the king's face. 29Therefore Absalom requested that Joab send him to the king, but he would not come to him. And when he sent again the second time, he would not come. 30So Absalom said to his servants, “See, a portion of Joab's field is near mine, and he has barley there. Go and set it on fire.” So Absalom's servants set it on fire. Then Joab's servants went to him with their clothes torn and said, “Absalom's servants set your portion on fire.” 31Then Joab arose and came to Absalom's house and said to him, “Why did your servants set my portion on fire?” 32And Absalom answered Joab, “Look, I sent to you saying, ‘Come here,’ so I may send you to the king to say, ‘Why have I come from Geshur? It would be better for me to be there still.’ Now therefore, I have not seen the king's face; but if there is iniquity in me, let him execute me.” 33So Joab went to the king and told him. And he called for Absalom, and he came to the king and bowed and fell on his face to the ground before the king. Then the king kissed Absalom. The Treason of Absalom 15 After this Absalom provided himself with chariots and horses and fifty men to run before him.
+2SA.14:2 So Joab sent to Tekoa and took from there a wise woman. He said to her, 'Now mourn and put on apparel for mourning. Do not anoint yourself with olive oil, and be like a woman who is mourning for the dead a long time.
 2SA.14:3 Then go to the king and repeat the words I give you.' So Joab put the words in her mouth.
 2SA.14:4 And as the woman of Tekoa spoke to the king, she put her face to the ground and prostrated herself and said, 'Help me, O king, help me!'
 2SA.14:5 Then the king said to her, 'What troubles you?' And she answered, 'Indeed I am a widow. My husband is dead.
@@ -496,14 +496,14 @@ has_additions: false
 2SA.14:33 So Joab went to the king and told him. And he called for Absalom, and he came to the king and bowed and fell on his face to the ground before the king. Then the king kissed Absalom.
 ## Chapter 15
 
-2SA.15:1 After this Absalom provided himself with chariots and horses and fifty men to ru
+2SA.15:1 After this Absalom provided himself with chariots and horses and fifty men to run before him.
 2SA.15:2 Now Absalom would rise early and stand beside the entrance to the gate. So it was that whenever anyone who had a lawsuit came to the king for a decision, Absalom would call to him and say, 'What city are you from?' And the man would say, 'Your servant is from such and such a tribe of Israel.'
 2SA.15:3 Then Absalom would say to him, 'Look, your case is good and right; but there is no one to grant you a hearing before the king.'
 2SA.15:4 And Absalom said, 'Who will appoint me as judge in the land, so everyone who has any dispute or cause will come to me? I will give him justice.'
 2SA.15:5 And so it was, when anyone came near to him to bow down in respect, he would put out his hand and take him and kiss him.
 2SA.15:6 Absalom acted in this manner toward all Israelites who came to the king for judgment. Absalom won over the hearts of the men of Israel.
 2SA.15:7 Four years later Absalom said to his father, 'I am going to Hebron to fulfill the vow I made to the Lord.
-2SA.15:8 For your servant took avow while I dwelt at Geshur in Syria, saying, 'If the Lord brings me back to Jerusalem, then I will serve the Lord.' '
+2SA.15:8 For your servant took a vow while I dwelt at Geshur in Syria, saying, 'If the Lord brings me back to Jerusalem, then I will serve the Lord.'
 2SA.15:9 And the king said to him, 'Go in peace.' So he arose and went to Hebron.
 2SA.15:10 Then Absalom sent spies throughout all the tribes of Israel, saying, 'As soon as you hear the sound of the trumpet, then you shall say, 'Absalom reigns as king in Hebron!' '
 2SA.15:11 And Absalom invited two hundred men who went with him from Jerusalem. They went along innocently and knew nothing in particular.
@@ -541,7 +541,7 @@ has_additions: false
 2SA.15:37 So Hushai, David's companion, went into the city. And Absalom entered Jerusalem.
 ## Chapter 16
 
-2SA.16:1 Then David was a little past the top of the mountain, there was Ziba the servant 
+2SA.16:1 When David was a little past the top of the mountain, there was Ziba the servant of Mephibosheth, who met him with a couple of saddled donkeys. And on them were two hundred loaves of bread, one hundred clusters of raisins, one hundred dates, and a skin of wine.
 2SA.16:2 And the king said to Ziba, 'Why do you have these?'
 2SA.16:3 So Ziba said, 'The donkeys are for the king's household to ride on, the bread and dates for the young men to eat, and the wine for those who are faint in the desert from lack of drink.' Then the king said, 'And where is your master's son?' And Ziba said to the king, 'He is staying in Jerusalem, for he said, 'Today the house of Israel will restore my father's kingdom to me.' '
 
@@ -572,7 +572,7 @@ has_additions: false
 2SA.16:23 Now the counsel of Ahithophel which he gave in those days was treated as if he obtained it after inquiring the word of God. So was all the advice of Ahithophel, both to David and to Absalom.
 ## Chapter 17
 
-2SA.17:1 In those days, Ahithophel said to Absalom, 'Let me choose for 
+2SA.17:1 Inmen,those days, Ahithophel said to Absalom, “Let me choose for myself twelve thousand and I will arise and pursue David tonight.
 2SA.17:2 I will come upon him while he is weary and weak and make him confused. And all the people who are with him will flee, and I will strike only the king.
 2SA.17:3 I will bring all the people back to you as a bride returns to her husband, except the life of the one man whom you seek. Then all the people will be at peace.'
 
@@ -612,7 +612,7 @@ has_additions: false
 2SA.17:29 honey and butter, sheep, and cheese of the herd, and they offered them to David and the people with him to eat. For they said, 'The people are hungry and weary and thirsty in the desert.'
 ## Chapter 18
 
-2SA.18:1 David considered the people with him, and set captains of tho
+2SA.18:1 David considered the people with him, and set captains of thousands and captains of hundreds over them.
 2SA.18:2 Then David sent out one third of the people under the hand of Joab, one third under the hand of Abishai the son of Zeruiah, Joab's brother, and one third under the hand of Ittai the Gathite. And David said to the people, 'I myself will surely go out with you as well.'
 2SA.18:3 But they answered, 'You shall not go out! For if we flee away, they will not care about us. Nor will they care about us if half of us die. You are worth ten thousand of us. And now it is well that you will be more help to us in the city.'
 2SA.18:4 Then the king said to them, 'I will do whatever seems best to you.' So the king stood beside the gate, and all the people went out by hundreds and by thousands.
@@ -713,7 +713,7 @@ has_additions: false
 2SA.19:44 And the men of Israel answered the men of Judah and said, 'We have ten shares in the king; therefore we are first over you, and we also have a greater right to David than you. Why then do you despise us? Were we not the first to advise bringing back our king?' The words of the men of Judah were sharper than the words of the men of Israel.
 ## Chapter 20
 
-2SA.20:1 There happened to be there a rebel whose name was Sheba the so
+2SA.20:1 There happened to be there a rebel whose name was Sheba the son of Bichri, a Benjamite. And he blew a trumpet and said, “We have no share in David, nor do we have inheritance in the son of Jesse. Every man to your tents, O Israel!”
 2SA.20:2 So every man of Israel deserted David and followed Sheba the son of Bichri. But the men of Judah, from the Jordan as far as Jerusalem, clung to their king.
 2SA.20:3 Now David entered his house at Jerusalem. And the king took the ten women, his concubines whom he had left to keep the house, and put them under guard and supported them, but did not go in to them. So they were shut up to the day of their death, living in widowhood.
 2SA.20:4 And the king said to Amasa, 'Within three days, call the men of Judah for me, and be present here yourself.'
@@ -747,7 +747,7 @@ has_additions: false
 2SA.20:26 and Ira the Jairite was a priest of David.
 ## Chapter 21
 
-2SA.21:1 Now there was a famine in the days of David for three years, year after year, and
+2SA.21:1 Now there was a famine in the days of David for three years, year after year, and David inquired before the Lord. And the Lord said, “In Saul and his unrighteous house there is wrongdoing, because of his bloodthirsty killings when he killed the Gibeonites.”
 2SA.21:2 So King David called the Gibeonites and spoke to them. Now the Gibeonites were not sons of Israel, but belonged to the remnant of the Amorites. The sons of Israel had sworn protection to them, but Saul had sought to kill them in his zeal for the sons of Israel and Judah.
 2SA.21:3 And David said to the Gibeonites, 'What shall I do for you? And with what shall I make atonement so that you may bless the inheritance of the Lord?'
 2SA.21:4 And the Gibeonites said to him, 'We will have no silver or gold from Saul or from his house, nor shall you kill any man in Israel for us.'
@@ -777,7 +777,7 @@ has_additions: false
 2SA.21:22 These four were born as offspring of the giant in Gath, and they fell by the hand of David and by the hand of his servants.
 ## Chapter 22
 
-2SA.22:1 And David spoke to the Lord the words of this song on the day when the Lord deli
+2SA.22:1 And David spoke to the Lord the words of this song on the day when the Lord delivered him from the hand of all his enemies, and from the hand of Saul.
 2SA.22:2 And he sang: 'O Lord, my rock, my fortress and my deliverer;
 2SA.22:3 My God will be my guardian, in whom I will trust; My defender and the horn of my salvation, My protector and the refuge of my salvation; You will save me from unrighteousness.
 2SA.22:4 I will call upon the Lord, who is worthy to be praised; And I will be saved from my enemies.
@@ -846,7 +846,7 @@ has_additions: false
 
 ## Chapter 23
 
-2SA.23:1 'David, the faithful one, the son of Jesse; The faithful man whom the Lord raised up, The anointed of the God of Jacob, The sweet psalmist of Israel: †
+2SA.23:1 'David, the faithful one, the son of Jesse; The faithful man whom the Lord raised up, The anointed of the God of Jacob, The sweet psalmist of Israel:
 2SA.23:2 'The Spirit of the Lord spoke by me, And His word was on my tongue.
 2SA.23:3 The God of Israel says, A guardian of Israel spoke a parable, saying, 'Among men, how will you strengthen the fear of God?
 2SA.23:4 By God, the sun may arise in the light of early morning; The early morning does not pass by without light; So after rain, new growth shows forth out of the earth.'

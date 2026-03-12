@@ -1,7 +1,7 @@
 {
   "book_code": "JON",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:40:09.499258",
+  "timestamp": "2026-03-11T16:09:36.240841",
   "registry_version": "1.3.0",
   "body_checksum": "c1d23483204fb58befe95b80d963975a28c12cb98d238ea3ce10b62f1eab655b",
   "validation": {
@@ -43,5 +43,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

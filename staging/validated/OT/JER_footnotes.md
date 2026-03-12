@@ -14,194 +14,111 @@ status: staging
 
 Jeremiah means "God appoints or exalts." Anathoth is his hometown, within the
 
-land of Benjamin.
-
-
-### 1:2-3
+land of Benjamin. ### 1:2-3
 *(anchor: JER.1:2)*
 
-Jeremiah prophesied during the reigns of Josiah, Jehoiakim, and Zedekiah.
-
-
-### 1:5
+Jeremiah prophesied during the reigns of Josiah, Jehoiakim, and Zedekiah. ### 1:5
 *(anchor: JER.1:5)*
 
-God's foreknowledge and His calling are here woven together.
-
-
-### 1:6
+God's foreknowledge and His calling are here woven together. ### 1:6
 *(anchor: JER.1:6)*
 
-Like Moses before him (Ex 4:10), Jeremiah claims he does not know how to speak.
-
-As with all the prophets, God put His words in Jeremiah's mouth (v. 9).
-
-
-### 1:16
+Like Moses before him (Ex 4:10), Jeremiah claims he does not know how to speak. As with all the prophets, God put His words in Jeremiah's mouth (v. 9). ### 1:16
 *(anchor: JER.1:16)*
 
-Note the three sins of Judah, and of all mankind: (1) forsaking God; (2) false worship;
-
-and (3) preoccupation with themselves.
-
-
-### 2:2-3
+Note the three sins of Judah, and of all mankind: (1) forsaking God; (2) false worship; and (3) preoccupation with themselves. ### 2:2-3
 *(anchor: JER.2:2)*
 
 This is ironic, since Israel never was committed entirely to the Lord. Yet in the
 
-faithfulness of the patriarchs and prophets, Israel can be said to have been faithful.
+faithfulness of the patriarchs and prophets, Israel can be said to have been faithful. Ultimately, however, the passage depicts God's relationship with all nations. Although
 
-Ultimately, however, the passage depicts God's relationship with all nations. Although
-
-they were taken over by enemies, God redeemed them through the Holy One of Israel,
-
-who is Christ.
-
-
-### 2:10
+they were taken over by enemies, God redeemed them through the Holy One of Israel, who is Christ. ### 2:10
 *(anchor: JER.2:10)*
 
-Chettim is Cyprus and other Greek islands; Kedar is a region in northern Arabia.
-
-
-### 2:13
+Chettim is Cyprus and other Greek islands; Kedar is a region in northern Arabia. ### 2:13
 *(anchor: JER.2:13)*
 
-In both the old covenant and the new, the problem is the same: people forsake God,
-
-the living water, and damage the cisterns or containers, the places of God's dwelling.
-
-As Orthodox believers, therefore, we adhere both to Christ and His Church.
-
-
-### 2:23
+In both the old covenant and the new, the problem is the same: people forsake God, the living water, and damage the cisterns or containers, the places of God's dwelling. As Orthodox believers, therefore, we adhere both to Christ and His Church. ### 2:23
 *(anchor: JER.2:23)*
 
 Baal was the idol-god of neighboring nations, and the unfaithful Jews became his
 
-disciples. Following this or any false god leads to death, a common burial place.
-
-
-### 2:36
+disciples. Following this or any false god leads to death, a common burial place. ### 2:36
 *(anchor: JER.2:36)*
 
 Repeat your ways is literally "redouble your path." When we sin, we usually do the
 
-same things over and over again.
-
-
-### 3:6-10
+same things over and over again. ### 3:6-10
 *(anchor: JER.3:6)*
 
 Israel's apostasy from God is described as fornication (v. 7), adultery (v. 8), and
 
 being faithless (v. 10). These words are those of the Lord (v. 6). This is not only bodily
 
-sin, "but any sin you have committed" (GrgNa).
-
-
-### 3:15-18
+sin, "but any sin you have committed" (GrgNa). ### 3:15-18
 *(anchor: JER.3:15)*
 
-This is the first great messianic prophecy of Jeremiah. It finds its fulfillment in:
-
-(1) faithful shepherds (v. 15), the apostles; (2) the Holy One of Israel (v. 16), our Lord
+This is the first great messianic prophecy of Jeremiah. It finds its fulfillment in: (1) faithful shepherds (v. 15), the apostles; (2) the Holy One of Israel (v. 16), our Lord
 
 Jesus Christ; (3) Jerusalem the Throne of the Lord (v. 17), which looks ahead to the
 
 eternal Kingdom (Rev 21:2; 22:1); and (4) the inclusion of the Gentiles (v. 17), which
 
-speaks of the Church.
-
-
-### 3:19
+speaks of the Church. ### 3:19
 *(anchor: JER.3:19)*
 
 The God of Israel is here prophetically called God of the Gentiles, who is the
 
 Father. Thus, when the disciples ask Jesus how to pray, His answer begins with "Our
 
-Father" (Lk 11:1, 2).
-
-
-### 4:4
+Father" (Lk 11:1, 2). ### 4:4
 *(anchor: JER.4:4)*
 
 Circumcise . . . your heart: St. Cyprian tells us "the first circumcision of the flesh is
 
-made void, and the second circumcision of the spirit is promised instead" (see Col 2:11).
+made void, and the second circumcision of the spirit is promised instead" (see Col 2:11). He further notes, "Then, because that sign did not avail women, but all are sealed by the
 
-He further notes, "Then, because that sign did not avail women, but all are sealed by the
-
-sign of the Lord" (that is, Holy Baptism).
-
-
-### 4:14
+sign of the Lord" (that is, Holy Baptism). ### 4:14
 *(anchor: JER.4:14)*
 
 Wash the vices from your heart: "It is not the filth of the body, but the impurity
 
-of the soul, to which God is averse" (JohnChr).
-
-
-### 4:22
+of the soul, to which God is averse" (JohnChr). ### 4:22
 *(anchor: JER.4:22)*
 
-The Lord specifies that those most responsible for Israel's apostasy are her leaders.
-
-What is wrong? They do not know Me. Throughout Christian history there have been
+The Lord specifies that those most responsible for Israel's apostasy are her leaders. What is wrong? They do not know Me. Throughout Christian history there have been
 
 many secular and religious leaders open to the same charge. St. Paul advises, "from such
 
-people turn away!" (2Ti 3:5).
-
-
-### 5:1
+people turn away!" (2Ti 3:5). ### 5:1
 *(anchor: JER.5:1)*
 
 The implication is, there are none to be found in Jerusalem seeking faithfulness to
 
-whom the Lord can be merciful.
-
-
-### 5:4
+whom the Lord can be merciful. ### 5:4
 *(anchor: JER.5:4)*
 
 Poor . . . do not know the way of the Lord: "The poor man is . . . he who lacks the
 
-great doctrines, as is the view also of the prophet" (BasilG).
-
-
-### 5:10
+great doctrines, as is the view also of the prophet" (BasilG). ### 5:10
 *(anchor: JER.5:10)*
 
 The foundations . . . belong to the Lord: Despite her faithlessness, still the
 
-foundations of the city are established by God.
-
-
-### 5:13
+foundations of the city are established by God. ### 5:13
 *(anchor: JER.5:13)*
 
 Our prophets were as wind: In modern idiom, they were full of hot air! St. Jude
 
-called them "clouds without water" and "autumn trees without fruit" (Jude 12).
-
-
-### 5:19
+called them "clouds without water" and "autumn trees without fruit" (Jude 12). ### 5:19
 *(anchor: JER.5:19)*
 
 Foreign gods: The Greek word used to describe false gods suggests "strangeness" or
 
 "an alien disposition." Here, the Lord uses that meaning to promise Judah that the kinds
 
-of gods they worship will determine the kind of life they live. This is true for all people,
-
-not just Judah.
-
-
-### 5:23-28
+of gods they worship will determine the kind of life they live. This is true for all people, not just Judah. ### 5:23-28
 *(anchor: JER.5:23)*
 
 When God's people have an inattentive and disobedient heart (v. 23), they
@@ -210,49 +127,30 @@ not only miss the good things He offers (v. 25), they neglect the orphan and the
 
 widow (v. 28). When dedication to the Lord is compromised, social justice is not to be
 
-found.
-
-
-### 6:1
+found. ### 6:1
 *(anchor: JER.6:1)*
 
-Beth Haccerem: St. Jerome taught this was located between Tekoa, Amos' birthplace,
-
-and Jerusalem.
-
-
-### 6:5
+Beth Haccerem: St. Jerome taught this was located between Tekoa, Amos' birthplace, and Jerusalem. ### 6:5
 *(anchor: JER.6:5)*
 
 Destroy her foundations: The ancient method of leveling a city was to uproot its
 
-very foundations.
-
-
-### 6:9
+very foundations. ### 6:9
 *(anchor: JER.6:9)*
 
 See Lam 1:22. To glean a vine is to strip it of all its fruit, leaving it desolate, as is
 
-promised with the coming attack on Israel.
-
-
-### 6:10
+promised with the coming attack on Israel. ### 6:10
 *(anchor: JER.6:10)*
 
 As in 4:4, circumcision was always understood to be a spiritual act. Without a
 
 circumcised heart, circumcision is in vain--just as an unbaptized heart pollutes our
 
-baptism.
-
-
-### 6:16
+baptism. ### 6:16
 *(anchor: JER.6:16)*
 
-St. Athanasius connects this passage with Jn 14:6, where Jesus says, "I am the way,
-
-the truth, and the life. No one comes to the Father except through Me."
+St. Athanasius connects this passage with Jn 14:6, where Jesus says, "I am the way, the truth, and the life. No one comes to the Father except through Me."
 
 
 ### 6:17
@@ -260,80 +158,51 @@ the truth, and the life. No one comes to the Father except through Me."
 
 The watchmen are the prophets, as distinguished from the shepherds who led the
 
-communities.
-
-
-### 6:18
+communities. ### 6:18
 *(anchor: JER.6:18)*
 
 Ironically, the call to holiness is heard outside Israel, pointing to the opening of
 
-Israel to the Gentiles.
-
-
-### 6:20
+Israel to the Gentiles. ### 6:20
 *(anchor: JER.6:20)*
 
 Although sacrifice to God was still practiced in Israel, it was compromised by their
 
 idolatry, just as our worship is polluted if we participate in the liturgy, yet habitually do
 
-what it forbids. "For it was not because He was angry, like a man, as many venture to say,
-
-that He rejected their sacrifices; but out of compassion to their blindness" (Iren).
-
-
-### 7:2
+what it forbids. "For it was not because He was angry, like a man, as many venture to say, that He rejected their sacrifices; but out of compassion to their blindness" (Iren). ### 7:2
 *(anchor: JER.7:2)*
 
 The captivity of Judah was not fated, but was God's appropriate response to the freely
 
-made decisions of a disobedient people.
-
-
-### 7:10
+made decisions of a disobedient people. ### 7:10
 *(anchor: JER.7:10)*
 
 Jesus cited this verse when cleansing the temple (Mt 21:13), suggesting that while in
 
 Jeremiah's day the question of the temple being a den of robbers was preposterous, by
 
-Christ's time it was a sad fact.
-
-
-### 7:17
+Christ's time it was a sad fact. ### 7:17
 *(anchor: JER.7:17)*
 
 Cake dough: the Hebrew word chavon is transliterated into Greek. These were
 
-sweet breads dedicated to pagan gods, the host of heaven.
-
-
-### 7:21-22
+sweet breads dedicated to pagan gods, the host of heaven. ### 7:21-22
 *(anchor: JER.7:21)*
 
 The Lord highlights their obedience as more important than adhering to the letter
 
-of the command.
-
-
-### 7:30
+of the command. ### 7:30
 *(anchor: JER.7:30)*
 
 Tophet: The place where children were being sacrificed to Molech (4Kg 23:10). The
 
 sad end of this child sacrifice will be cannibalism, effected during the siege of Jerusalem
 
-(Bar 2:3).
-
-
-### 7:32
+(Bar 2:3). ### 7:32
 *(anchor: JER.7:32)*
 
-The places of pagan sacrifice are prophesied to become a killing field.
-
-
-### 8:1
+The places of pagan sacrifice are prophesied to become a killing field. ### 8:1
 *(anchor: JER.8:1)*
 
 , 2
@@ -344,32 +213,18 @@ Babylonians. The drying here refers to the heat of the sun. Although the saints 
 
 bones were exposed were in no way to be worshiped, God desired that their exposure to
 
-the elements would finally convince Israel of her error.
-
-
-### 8:8
+the elements would finally convince Israel of her error. ### 8:8
 *(anchor: JER.8:8)*
 
-These are apparently popular sayings, widespread among the people.
-
-
-### 8:12
+These are apparently popular sayings, widespread among the people. ### 8:12
 *(anchor: JER.8:12)*
 
 Gall to drink: Unsanitary water, the only kind to be had then in the city. While this
 
-was a proper corrective response to Israel's sin, they went far beyond this, later in time,
-
-by giving Christ, who knew no sin, "wine mingled with gall" (Mt 27:34).
-
-
-### 8:17
+was a proper corrective response to Israel's sin, they went far beyond this, later in time, by giving Christ, who knew no sin, "wine mingled with gall" (Mt 27:34). ### 8:17
 *(anchor: JER.8:17)*
 
-Vanities is another term for idols.
-
-
-### 8:18
+Vanities is another term for idols. ### 8:18
 *(anchor: JER.8:18)*
 
 The seasons of the siege, carried through the summer, not only match well the
@@ -380,30 +235,19 @@ devastating a siege can be. No crops could be grown and harvested that year, whi
 
 inhabitants of the greater territory crowded into the city walls to be saved from the
 
-terror.
-
-
-### 8:20
+terror. ### 8:20
 *(anchor: JER.8:20)*
 
-Balm: A resin of mastix or terebinth, used for perfumes, medicines, and ointments.
+Balm: A resin of mastix or terebinth, used for perfumes, medicines, and ointments. Gilead is sometimes a symbol for Israel, an area east of the Jordan River bordered by
 
-Gilead is sometimes a symbol for Israel, an area east of the Jordan River bordered by
-
-desert.
-
-
-### 8:21
+desert. ### 8:21
 *(anchor: JER.8:21)*
 
 Jeremiah's tears remind us that God's punishments were not without purpose. God
 
 deeply cares for all whom He disciplines (Heb 12:5, 6), and He sends His rebuke to
 
-correct and transform us.
-
-
-### 9:1
+correct and transform us. ### 9:1
 *(anchor: JER.9:1)*
 
 Jeremiah seeks to withdraw from his people since he is exasperated by their
@@ -412,28 +256,17 @@ disobedience. "Thus, for wickedness and falsehood, and for deeds, in which they
 
 [proceed] from iniquity to iniquity, he reproves their practices; but, because they knew
 
-not the Lord, and were faithless, he charges them with unrighteousness" (AthanG).
-
-
-### 9:10
+not the Lord, and were faithless, he charges them with unrighteousness" (AthanG). ### 9:10
 *(anchor: JER.9:10)*
 
 Dwelling place of serpents: An especially diabolical image, given the habit of
 
-dragons or serpents to persecute the saints (Rev 12:7-9).
-
-
-### 9:22
+dragons or serpents to persecute the saints (Rev 12:7-9). ### 9:22
 *(anchor: JER.9:22)*
 
-Boasting in oneself and one's capabilities is here forbidden. In our devotion to God,
+Boasting in oneself and one's capabilities is here forbidden. In our devotion to God, we are called to boast only in the glory of God or, in the words of the Apostle Paul, "Christ
 
-we are called to boast only in the glory of God or, in the words of the Apostle Paul, "Christ
-
-. . . crucified" (1Co 2:2).
-
-
-### 9:25
+. . . crucified" (1Co 2:2). ### 9:25
 *(anchor: JER.9:25)*
 
 "And to show how those from among the Gentiles were foretold as more true and
@@ -442,10 +275,7 @@ more believing, we will cite what was said by [Jeremiah] the prophet; for he spo
 
 follows: 'Israel is uncircumcised in heart, but the Gentiles are uncircumcised in the
 
-flesh'" (Justin).
-
-
-### 10:7
+flesh'" (Justin). ### 10:7
 *(anchor: JER.10:7)*
 
 The gods that did not make heaven: "For 'by Him were all things made, and
@@ -458,20 +288,14 @@ Prophets are continually busy on this kind of demonstration, not only of itself,
 
 they contend against the honor shown to idols; 'Let the gods perish,' says one, 'who have
 
-not made heaven and earth'" (JohnChr).
-
-
-### 10:8
+not made heaven and earth'" (JohnChr). ### 10:8
 *(anchor: JER.10:8)*
 
 The inhabited world: The Greek term oikoumene refers to the extent of the world
 
 that was civilized, not necessarily everywhere people lived. God is therefore the One who
 
-makes possible political stability, education, and other blessings of life.
-
-
-### 10:16-17
+makes possible political stability, education, and other blessings of life. ### 10:16-17
 *(anchor: JER.10:16)*
 
 My tabernacle . . . is ruined: Mourning the loss of right worship, the Lord
@@ -486,88 +310,58 @@ ago (Ex 25:40). Those who would worship God "in spirit and truth" (Jn 4:24) must
 
 neglect the gift of Holy Tradition handed down in the Scriptures and the Church, lest we
 
-be led astray and scattered.
-
-
-### 10:20-21
+be led astray and scattered. ### 10:20-21
 *(anchor: JER.10:20)*
 
 This prayer of Jeremiah is ultimately to be answered at the Judgment. But for
 
-now, Jews and Gentiles alike are invited to call upon the name of the Lord.
-
-
-### 11:13
+now, Jews and Gentiles alike are invited to call upon the name of the Lord. ### 11:13
 *(anchor: JER.11:13)*
 
 "Wherefore to Jeremiah also He said, 'Pray not for this people, for I will not hear
 
 thee,' not as wishing to stop his praying (for He earnestly longs for our salvation), but to
 
-terrify them: and this the prophet also seeing did not cease praying" (JohnChr).
-
-
-### 11:18
+terrify them: and this the prophet also seeing did not cease praying" (JohnChr). ### 11:18
 *(anchor: JER.11:18)*
 
 Jeremiah here, as elsewhere, serves as a foreshadowing of Christ, the truly
 
 innocent lamb who was sacrificed by those who planned to exterminate His entire
 
-legacy.
-
-
-### 11:20
+legacy. ### 11:20
 *(anchor: JER.11:20)*
 
 Anathoth: See 1:1. This explains, in part, Christ's saying regarding the rejection of a
 
-prophet in his hometown (Lk. 4:24).
-
-
-### 12:1
+prophet in his hometown (Lk. 4:24). ### 12:1
 *(anchor: JER.12:1)*
 
 Here Jeremiah takes up a theme dealt with far more extensively in Job (see, for
 
-example, Job 12:6).
-
-
-### 12:5
+example, Job 12:6). ### 12:5
 *(anchor: JER.12:5)*
 
 If we grow weary in the trials of ordinary life, how do we expect to handle swift
 
-horses or floods? The answer is, through Christ.
-
-
-### 12:7-8
+horses or floods? The answer is, through Christ. ### 12:7-8
 *(anchor: JER.12:7)*
 
 The suffering of the Incarnate God. "Look with awe then at the Lord who was
 
 judged. He suffered Himself to be led and carried by soldiers. Pilate sat in judgment, and
 
-He who sits on the right hand of the Father, stood and was judged" (CyrJer).
-
-
-### 12:14-16
+He who sits on the right hand of the Father, stood and was judged" (CyrJer). ### 12:14-16
 *(anchor: JER.12:14)*
 
 Jeremiah quickly changes his audience to the Gentiles, promising them inclusion
 
 among the people of God should they learn to worship Him. The full reality of this was
 
-not encountered until the coming of Christ.
-
-
-### 13:1
+not encountered until the coming of Christ. ### 13:1
 *(anchor: JER.13:1)*
 
-A linen sash was used as a loincloth.
-
-
-### 13:4
+A linen sash was used as a loincloth. ### 13:4
 *(anchor: JER.13:4)*
 
 The Euphrates: Although residing in Judah, Jeremiah is commanded to go to
@@ -576,38 +370,22 @@ Babylon to hide the sash, then return later to uncover it. Although it is feasib
 
 took such a trip before the destruction of the city, it is more likely that God transported
 
-him. Whether this happened in the body or in the spirit is unclear.
-
-
-### 13:7
+him. Whether this happened in the body or in the spirit is unclear. ### 13:7
 *(anchor: JER.13:7)*
 
-Behold: The surprise is ironic. Jeremiah knew very well the cloth would be rotted,
+Behold: The surprise is ironic. Jeremiah knew very well the cloth would be rotted, just as he knew Judah would be ruined by her pride. The rotten sash is a picture of Judah
 
-just as he knew Judah would be ruined by her pride. The rotten sash is a picture of Judah
-
-(vv. 10, 11).
-
-
-### 13:17
+(vv. 10, 11). ### 13:17
 *(anchor: JER.13:17)*
 
 This passage may be alternately translated, "If you will not hear it secretly, your soul
 
-will weep for your pride." That is, if you do not read the Law and the covenants spiritually,
-
-your soul will be left barren.
-
-
-### 13:19
+will weep for your pride." That is, if you do not read the Law and the covenants spiritually, your soul will be left barren. ### 13:19
 *(anchor: JER.13:19)*
 
 This verse suggests that Judah was so completely conquered, she provided a classic
 
-example of how a country would be deported from that time on.
-
-
-### 13:26
+example of how a country would be deported from that time on. ### 13:26
 *(anchor: JER.13:26)*
 
 I will uncover your backside to your face: Physically speaking, this is an
@@ -616,56 +394,38 @@ impossibility--and therefore we must take it as a spiritual warning. Our backsid
 
 uncovered to our face when we become aware that our sins and faults are seen by the
 
-whole world!
-
-
-### 14:1-10
+whole world! ### 14:1-10
 *(anchor: JER.14:1)*
 
 The prophecy of a drought can refer to either a period without rain (v. 4) or the
 
-judgment of God (v. 10), or both.
-
-
-### 14:13
+judgment of God (v. 10), or both. ### 14:13
 *(anchor: JER.14:13)*
 
 Their prophets: Jeremiah identifies here a group of prophets who generally told the
 
 ruling class what they wanted to hear. Their prophets, not "our" prophets, suggests
 
-distance between them and the Lord.
-
-
-### 14:22
+distance between them and the Lord. ### 14:22
 *(anchor: JER.14:22)*
 
 Returning to the theme of the drought, Jeremiah identifies God with the coming of
 
-the rain, which He made.
-
-
-### 15:1
+the rain, which He made. ### 15:1
 *(anchor: JER.15:1)*
 
 God refuses Jeremiah's intercession, but this is not to suggest His punishment was
 
 irreversible, since Judah herself, by obeying the Lord, could have averted her own
 
-destruction.
-
-
-### 15:3
+destruction. ### 15:3
 *(anchor: JER.15:3)*
 
 Four ways: See Ezk 14:21. The inclusion of beasts highlights the fact that when the
 
 Creator is incensed against sinners, not even creation itself can hold back from rising
 
-against them.
-
-
-### 15:9
+against them. ### 15:9
 *(anchor: JER.15:9)*
 
 The sun set . . . at noonday: " . . . plainly announced that obscuration of the sun
@@ -676,80 +436,53 @@ that after this event, those days which were their festivals according to the la
 
 songs, should be changed into grief and lamentation when they were handed over to the
 
-Gentiles" (Iren).
-
-
-### 15:18
+Gentiles" (Iren). ### 15:18
 *(anchor: JER.15:18)*
 
 Deceitful water: St. Cyprian calls this "the resemblance of baptism," done under "a
 
 shadowy pretense." Presumably, this is a reference to baptisms performed by those who
 
-stand outside of communion with the Church.
-
-
-### 15:19-21
+stand outside of communion with the Church. ### 15:19-21
 *(anchor: JER.15:19)*
 
 God answers Jeremiah's prayer (vv. 15-18) for protection from his persecutors
 
-very graciously: I am with you to save you (v. 20).
-
-
-### 16:1
+very graciously: I am with you to save you (v. 20). ### 16:1
 *(anchor: JER.16:1)*
 
 Here Jeremiah serves as a model for virginity, a virtue to be fully enshrined in Christ
 
 and His Mother. While in the case of Jeremiah, the virginity undertaken highlights the
 
-imminence of captivity, in Christ's time it revealed the imminence of salvation.
-
-
-### 16:5-7
+imminence of captivity, in Christ's time it revealed the imminence of salvation. ### 16:5-7
 *(anchor: JER.16:5)*
 
 Mourning and consolation are forbidden to Jeremiah. But whereas this was
 
 commanded to Jeremiah because of the disgrace of the nation, in Christ we will cease to
 
-mourn because of the glory of the Resurrection.
-
-
-### 16:7
+mourn because of the glory of the Resurrection. ### 16:7
 *(anchor: JER.16:7)*
 
 It is in light of the glory of the Resurrection that we Christians mourn the dead in
 
-Christ with the bread and cup of the Eucharist.
-
-
-### 16:15
+Christ with the bread and cup of the Eucharist. ### 16:15
 *(anchor: JER.16:15)*
 
 The Lord promises a restoration to the house of Israel that would eclipse the
 
 Exodus from Egypt. In like manner, our delivery from sin by the work of Christ eclipses
 
-both!
-
-
-### 16:16
+both! ### 16:16
 *(anchor: JER.16:16)*
 
-The fishermen and the hunters are the Babylonians and the Romans.
-
-
-### 16:19-21
+The fishermen and the hunters are the Babylonians and the Romans. ### 16:19-21
 *(anchor: JER.16:19)*
 
 The repentance of the Gentiles is here foretold, a constant theme in the Book of
 
-Jeremiah.
-
-
-### 17:1
+Jeremiah. ### 17:1
 *(anchor: JER.17:1)*
 
 , 2 The shrub here is the tamarisk. St. Basil the Great notes, "it is an aquatic plant [it
@@ -758,18 +491,12 @@ needs water], and yet it covers the desert. Thus Jeremiah compares it to the wor
 
 characters--the double character." Later, St. James would write, "a double-minded man
 
-[is] unstable in all his ways" (Jam 1:8).
-
-
-### 17:5
+[is] unstable in all his ways" (Jam 1:8). ### 17:5
 *(anchor: JER.17:5)*
 
 The heart is deep beyond all things: St. John Chrysostom labors the point that
 
-only God can know men's hearts, citing Ps 7:9; 1Kg 16:7; C2hr 6:30; and Mt 9:3, 4.
-
-
-### 17:15-23
+only God can know men's hearts, citing Ps 7:9; 1Kg 16:7; C2hr 6:30; and Mt 9:3, 4. ### 17:15-23
 *(anchor: JER.17:15)*
 
 Jeremiah delivers the word of the Lord that Israel should stop violating the
@@ -778,10 +505,7 @@ Sabbath. The reward for obedience is a gathering of the nations into Jerusalem t
 
 sacrifice (vv. 21, 22). Although this was done after the exile, it was not completely fulfilled
 
-until the Gentiles joined the procession on the Day of Pentecost.
-
-
-### 18:1-10
+until the Gentiles joined the procession on the Day of Pentecost. ### 18:1-10
 *(anchor: JER.18:1)*
 
 This is the passage referred to by St. Paul in Rom 9:21, and it highlights the
@@ -794,90 +518,57 @@ disobedience of the vessels. He makes good vessels, but vessels can choose evil 
 
 crumble in His hands without His intervention. But out of the rubble, the potter is able to
 
-recreate something beautiful.
-
-
-### 18:18
+recreate something beautiful. ### 18:18
 *(anchor: JER.18:18)*
 
 As the Jews sought to devise a plan against Jeremiah to strike him down, so
 
-they also plotted against Christ, to destroy Him (Mk 3:6).
-
-
-### 19:2
+they also plotted against Christ, to destroy Him (Mk 3:6). ### 19:2
 *(anchor: JER.19:2)*
 
 Graveyard: So called because the Israelites had offered their children to Baal and
 
 Molech there (vv. 4, 5). Also, this is the place where the people of Judah were to be buried
 
-after the siege.
-
-
-### 19:9
+after the siege. ### 19:9
 *(anchor: JER.19:9)*
 
-The sin of cannibalism was later confessed by the people of Judah (7:31; Bar 2:3).
-
-
-### 20:1
+The sin of cannibalism was later confessed by the people of Judah (7:31; Bar 2:3). ### 20:1
 *(anchor: JER.20:1)*
 
 Pashhur: A priest and the first civil authority to try to coerce Jeremiah into giving
 
-false prophecy.
-
-
-### 20:7-18
+false prophecy. ### 20:7-18
 *(anchor: JER.20:7)*
 
 This is the song of complaint that Jeremiah offers to God from prison. Although
 
-tempted to neglect his call as a prophet, Jeremiah cannot help but act on it (v. 9).
-
-
-### 20:13
+tempted to neglect his call as a prophet, Jeremiah cannot help but act on it (v. 9). ### 20:13
 *(anchor: JER.20:13)*
 
 A burst of exaltation in the midst of depression. Jeremiah exemplifies the attitude
 
 of hope found among martyrs. In facing evil persecution, the saints were always aware of
 
-the overwhelming power and authority of God.
-
-
-### 20:15
+the overwhelming power and authority of God. ### 20:15
 *(anchor: JER.20:15)*
 
 Who brought the good news: This is the same concept as expressed in the NT
 
-when a boy was born, that is, the gospel.
-
-
-### 20:17
+when a boy was born, that is, the gospel. ### 20:17
 *(anchor: JER.20:17)*
 
 Unending conception: Jeremiah wishes that his mother had simply carried his
 
-fetus with her to the grave.
-
-
-### 21:1
+fetus with her to the grave. ### 21:1
 *(anchor: JER.21:1)*
 
-Pashhur: A priest; a different Pashhur from the one mentioned in 20:1.
-
-
-### 21:2
+Pashhur: A priest; a different Pashhur from the one mentioned in 20:1. ### 21:2
 *(anchor: JER.21:2)*
 
 King of Babylon: Although rarely named in the LXX, Nebuchadnezzar is the one
 
-referred to.
-
-
-### 21:8
+referred to. ### 21:8
 *(anchor: JER.21:8)*
 
 The declaration of two paths of life and death was to remind Israel they had
@@ -888,49 +579,29 @@ abandoned the Law, which also set forth these two ways for the people of Israel 
 ### 30:15
 *(anchor: JER.30:15)*
 
-).
-
-21:13 Sor: The same people who were the recipients of Ezekiel's prophecy in Ezk 26.
-
-22:6
+). 21:13 Sor: The same people who were the recipients of Ezekiel's prophecy in Ezk 26. 22:6
 
 Gilead/Lebanon: The former was famous for its spices (8:20); the latter was
 
-renowned for its fine cedars.
-
-22:11
+renowned for its fine cedars. 22:11
 
 Shallum: An alternative name for Jehoahaz. The custom of calling one person by
 
-different names is found throughout Scripture.
+different names is found throughout Scripture. 22:12
 
-22:12
+In the place: Egypt (4Kg 12:31-34; C2hr 36:1-4). 22:15
 
-In the place: Egypt (4Kg 12:31-34; C2hr 36:1-4).
+They: Not only Ahaz, but all the deceased kings. 22:19
 
-22:15
-
-They: Not only Ahaz, but all the deceased kings.
-
-22:19
-
-The type of death he incurred is recounted in C2hr 36:6.
-
-22:30 Zedekiah, the successor to Jeconiah, was his kinsman (C2hr 36:10).
-
-23:3
+The type of death he incurred is recounted in C2hr 36:6. 22:30 Zedekiah, the successor to Jeconiah, was his kinsman (C2hr 36:10). 23:3
 
 God promises the increase of His flock without the assistance of the negligent
 
-shepherds.
-
-23:4
+shepherds. 23:4
 
 This verse was fulfilled only in Christ, who puts an end to all fear and terror. He is
 
-love, and in perfect love there is no fear (1Jn 4:18).
-
-23:5
+love, and in perfect love there is no fear (1Jn 4:18). 23:5
 
 Behold, days are coming: This phrase indicates the next prophecy deals with a
 
@@ -938,83 +609,53 @@ great future event. Raise up for David the Righteous Orient: Christ is the Orien
 
 perfect light from the East whose Incarnation, death, descent, Resurrection, and
 
-Ascension rises to David. We sing of Christ at the sacraments of marriage and ordination,
-
-"Orient is His name."
+Ascension rises to David. We sing of Christ at the sacraments of marriage and ordination, "Orient is His name."
 
 23:6
 
 The Lord our Righteousness is Jesus Christ, who will come that Judah and all
 
-people will be saved.
-
-23:16
+people will be saved. 23:16
 
 Speak from their own heart: The ultimate hallmark of a false prophet is that he
 
 is the source of his own "divine teaching," just as heretics are the human inventors of
 
-their own novelties.
+their own novelties. 23:17 Error of his heart is literally, "things they want," emphasizing that the fault lies in
 
-23:17 Error of his heart is literally, "things they want," emphasizing that the fault lies in
-
-the decisions of the false prophets, not in some outside, compulsory force.
-
-24:1-10
+the decisions of the false prophets, not in some outside, compulsory force. 24:1-10
 
 By distinguishing two baskets of figs, the Lord makes it clear that not every
 
 single person in the land was to be taken away into captivity, but only the worst. In fact, it
 
-seems that as some were to be deported, others of those already exiled were brought back.
+seems that as some were to be deported, others of those already exiled were brought back. It may have been in light of this passage that our Lord Jesus Christ commanded us to
 
-It may have been in light of this passage that our Lord Jesus Christ commanded us to
+judge a tree by its fruit (Mt 7:16-20). 25:1
 
-judge a tree by its fruit (Mt 7:16-20).
-
-25:1
-
-Fourth year: 606/605 BC.
-
-25:3 Thirteenth year: 605/604 BC. Twenty-third year: 595/594 BC.
-
-25:14
+Fourth year: 606/605 BC. 25:3 Thirteenth year: 605/604 BC. Twenty-third year: 595/594 BC. 25:14
 
 Here begins the series of prophecies delivered against various nations surrounding
 
-Judah. Elam: A country east of Babylon.
-
-25:18
+Judah. Elam: A country east of Babylon. 25:18
 
 My throne: Generally, the throne of a foreign power, but here the throne of God
 
-when He comes to include Elam in His inheritance.
-
-26:1
+when He comes to include Elam in His inheritance. 26:1
 
 By the River Euphrates: This took place when the army of Egypt came against
 
-Babylon, but was later defeated in Syria in the fourth year, or 606/605 BC.
-
-26:7
+Babylon, but was later defeated in Syria in the fourth year, or 606/605 BC. 26:7
 
 Hoping to imitate the river Nile, the king of Egypt planned to cover the earth with
 
-Egyptian power.
+Egyptian power. 26:8
 
-26:8
+Ethiopia/Libya/Lydians: Vassals and allies of Egypt. 26:13 Migdol/Memphis: Cities in Egypt. Migdol is on the northeast border of Egypt near
 
-Ethiopia/Libya/Lydians: Vassals and allies of Egypt.
+the delta; Memphis is close to modern-day Cairo. 26:14
 
-26:13 Migdol/Memphis: Cities in Egypt. Migdol is on the northeast border of Egypt near
-
-the delta; Memphis is close to modern-day Cairo.
-
-26:14
-
-Apis is the bull god or chosen calf of Memphis.
-
-26:15
+Apis is the bull god or chosen calf of Memphis. 26:15
 
 Greek sword: Interestingly, the LXX translators deemed it right to use an image of
 
@@ -1022,21 +663,15 @@ their own time (200 BC) to convey the meaning behind the Hebrew term (600 BC) fo
 
 "fierce army." This sword symbolized the swift ferocity of any ruler who would be
 
-comparable to Alexander the Great.
+comparable to Alexander the Great. 26:24
 
-26:24
-
-Ammon is the chief god of Thebes, located in upper Egypt.
-
-26:26
+Ammon is the chief god of Thebes, located in upper Egypt. 26:26
 
 God does not discipline His children without purpose, but does so with healing in
 
 view. Although most of the Book of Jeremiah deals with Judah's punishment, God always
 
-points out that it is righteous and purposeful correction.
-
-27:1
+points out that it is righteous and purposeful correction. 27:1
 
 This chapter and the following are the longest in Jeremiah and fall at the center of
 
@@ -1044,27 +679,17 @@ the book. Thus, the promises of the destruction of Babylon evenly split the warn
 
 Israel, showing that the Book of Jeremiah is not about the destruction of the people of
 
-God, but their restoration; not about the triumph of God's enemies, but their demise.
+God, but their restoration; not about the triumph of God's enemies, but their demise. After dealing with Egypt, which exiled Jehoahaz, Jeremiah deals with Babylon, which
 
-After dealing with Egypt, which exiled Jehoahaz, Jeremiah deals with Babylon, which
+conquered Egypt. 27:2
 
-conquered Egypt.
-
-27:2
-
-Bel and Merodach are two famous Babylonian deities or idols.
-
-27:3
+Bel and Merodach are two famous Babylonian deities or idols. 27:3
 
 Just as destruction came on Israel from the north, Babylon also falls at the hand of
 
-a power from the north: Persia.
+a power from the north: Persia. 27:4-5 The demise of Babylon comes in the repentance of the children of Israel. In like
 
-27:4-5 The demise of Babylon comes in the repentance of the children of Israel. In like
-
-manner, when we repent, our enemy and his demonic forces are routed.
-
-27:25
+manner, when we repent, our enemy and his demonic forces are routed. 27:25
 
 The vessels of His wrath are political powers with whom God is angry, yet whom
 
@@ -1072,39 +697,27 @@ He nevertheless uses to accomplish His will on earth. It is in this sense that t
 
 phrase is used by the apostle Paul in Rom 9:22, likely reflecting on the way God used
 
-Babylon.
-
-27:34
+Babylon. 27:34
 
 Redemption is carried out by the Lord Almighty, so it should be no wonder that
 
-Christ, our Redeemer, is Lord and God.
-
-27:39
+Christ, our Redeemer, is Lord and God. 27:39
 
 The islands are either the colonies of Babylon in the Mediterranean, or a reference
 
-to her ultimate expansive size.
-
-28:11
+to her ultimate expansive size. 28:11
 
 King of the Medes: possibly King Cyaxares, later conquered by Cyrus the Great in
 
-500 BC.
-
-28:13
+500 BC. 28:13
 
 Babylon's fall comes through her own gluttony, a reminder to us all that we place
 
-our end in the things we crave, whether God or material goods.
-
-28:27
+our end in the things we crave, whether God or material goods. 28:27
 
 Ararat is an area in modern-day Turkey, where the ark rested (Gn 8:4). The
 
-Ashkenaz are the Scythians, a people then located in modern-day Armenia.
-
-28:55
+Ashkenaz are the Scythians, a people then located in modern-day Armenia. 28:55
 
 Fourth year: 593 BC. Quartermaster: Literally, "governor of the gifts."
 
@@ -1112,92 +725,55 @@ Fourth year: 593 BC. Quartermaster: Literally, "governor of the gifts."
 
 Just as he did with Judah, God sends His messenger to Babylon, about to sink or
 
-be destroyed, which dramatizes the threat.
-
-29:1, 2
+be destroyed, which dramatizes the threat. 29:1, 2
 
 The Philistines were also called "foreign tribes" who inhabited the land of
 
-Canaan. This descriptive title foreshadows the eventual gathering of all nations, tongues,
-
-and tribes as the people of God. St. Ambrose reminds us that calling the Philistines by
+Canaan. This descriptive title foreshadows the eventual gathering of all nations, tongues, and tribes as the people of God. St. Ambrose reminds us that calling the Philistines by
 
 this name teaches us to love our enemies, since there were far worse names an enemy
 
-could be called.
+could be called. 30:1
 
-30:1
+Teman was a grandson of Esau (Gn 36:15). 30:2
 
-Teman was a grandson of Esau (Gn 36:15).
-
-30:2
-
-Dedan: A town in the desert toward the Arabian peninsula.
-
-30:8
+Dedan: A town in the desert toward the Arabian peninsula. 30:8
 
 Messengers may also be translated "angels." Either is appropriate, given that the
 
-struggle of war was occurring on the spiritual level as well as the political.
-
-
-### 30:22
+struggle of war was occurring on the spiritual level as well as the political. ### 30:22
 *(anchor: JER.30:22)*
 
 Kedar: The descendants of the son of Ishmael (Gn 25:13). The sons of Kedem
 
-were associated with the Ammonites (see Ezk 25:4, 10).
-
-
-### 30:28
+were associated with the Ammonites (see Ezk 25:4, 10). ### 30:28
 *(anchor: JER.30:28)*
 
-Hamath is where King Zedekiah would be sentenced by Nebuchadnezzar (52:27).
-
-
-### 30:32
+Hamath is where King Zedekiah would be sentenced by Nebuchadnezzar (52:27). ### 30:32
 *(anchor: JER.30:32)*
 
-Ben-Hadad is a king in Damascus who plundered Israel (4Kg 13:3).
-
-
-### 31:12
+Ben-Hadad is a king in Damascus who plundered Israel (4Kg 13:3). ### 31:12
 *(anchor: JER.31:12)*
 
 Horns are a dual symbol of power and of a wine cup. God intends to put an end to
 
-both their power and their merriment.
-
-
-### 31:13
+both their power and their merriment. ### 31:13
 *(anchor: JER.31:13)*
 
-Bethel is a reference to the golden calf set up as an idol in Israel (3Kg 12:29).
-
-
-### 31:18
+Bethel is a reference to the golden calf set up as an idol in Israel (3Kg 12:29). ### 31:18
 *(anchor: JER.31:18)*
 
 Although once entrenched in glory and security, Moab will soon be entrenched in
 
-a damp place, likely a swamp.
-
-
-### 31:33
+a damp place, likely a swamp. ### 31:33
 *(anchor: JER.31:33)*
 
-This shout is a cry of dismay made by workers at the winepresses.
-
-
-### 32:1
+This shout is a cry of dismay made by workers at the winepresses. ### 32:1
 *(anchor: JER.32:1)*
 
 Here Jeremiah sums up the previous six chapters, the natural place for such a
 
-passage. God's judgment is prophesied for all the nations, including Israel and Judah.
-
-
-### 32:20
+passage. God's judgment is prophesied for all the nations, including Israel and Judah. ### 32:20
 *(anchor: JER.32:20)*
 
 The day of the Lord comes at the end of the age, when judgment is
@@ -1208,42 +784,27 @@ never been a time in history when the Lord has judged His people completely over
 
 earth. Every sin will be slain, every demon vanquished, at the final coming of Christ our
 
-King.
-
-
-### 33:1
+King. ### 33:1
 *(anchor: JER.33:1)*
 
 , 2 This prophecy was given before the destruction of the Temple, the house of the
 
-Lord.
-
-
-### 33:14-15
+Lord. ### 33:14-15
 *(anchor: JER.33:14)*
 
 Here Jeremiah foreshadows Christ, who was also unjustly slandered, yet allowed
 
-the wicked and unjust to have their way with Him and shed innocent blood.
-
-
-### 33:16
+the wicked and unjust to have their way with Him and shed innocent blood. ### 33:16
 *(anchor: JER.33:16)*
 
 Rulers: This is the first indication in the book that the leadership is beginning to
 
-hear Jeremiah's message.
-
-
-### 33:18
+hear Jeremiah's message. ### 33:18
 *(anchor: JER.33:18)*
 
 This refers to the prophet Micah (Mic 1:1). The prophecy in question comes from
 
-Mic 3:12.
-
-
-### 33:20-23
+Mic 3:12. ### 33:20-23
 *(anchor: JER.33:20)*
 
 Micah's example of fair treatment is now contrasted with the case of an
@@ -1252,74 +813,42 @@ otherwise unknown prophet who was persecuted to the ends of the earth. As we lis
 
 the prophets of Israel, we likewise read the writings of the Fathers of the Church who
 
-faithfully proclaimed God's oracles, interpreting rightly the Holy Scriptures.
-
-
-### 34:7
+faithfully proclaimed God's oracles, interpreting rightly the Holy Scriptures. ### 34:7
 *(anchor: JER.34:7)*
 
-This is sound advice for those who give heed to the fortune tellers, false prophets,
-
-and cult leaders of our day.
-
-
-### 34:14
+This is sound advice for those who give heed to the fortune tellers, false prophets, and cult leaders of our day. ### 34:14
 *(anchor: JER.34:14)*
 
-This does not mean that the vessels will never be returned, for they were (Bar 1:8).
-
-The false prophets were delivering a false word.
-
-
-### 35:1
+This does not mean that the vessels will never be returned, for they were (Bar 1:8). The false prophets were delivering a false word. ### 35:1
 *(anchor: JER.35:1)*
 
-Fourth year/fifth month: 593 BC.
-
-
-### 35:10
+Fourth year/fifth month: 593 BC. ### 35:10
 *(anchor: JER.35:10)*
 
 Hananiah symbolizes an early return of the exiles by breaking Jeremiah's yokes
 
 or shackles. Implied here as well is that he freed Jeremiah from his confinement, an act
 
-that was calculated to win Jeremiah's support. The true prophet, unlike Hananiah,
-
-refuses to heed the flattery and vain promises of men.
-
-
-### 36:1
+that was calculated to win Jeremiah's support. The true prophet, unlike Hananiah, refuses to heed the flattery and vain promises of men. ### 36:1
 *(anchor: JER.36:1)*
 
 The words of the letter: A similar letter was sent by Jeremiah in the Epistle of
 
-Jeremiah.
-
-
-### 36:3
+Jeremiah. ### 36:3
 *(anchor: JER.36:3)*
 
 King Zedekiah could send this letter safely since he was essentially a vassal of
 
-Babylon at that time.
-
-
-### 36:5-7
+Babylon at that time. ### 36:5-7
 *(anchor: JER.36:5)*
 
 This passage beautifully summarizes the Christian struggle in this life. We live in a
 
-dry and barren land, in exile from our true homeland, which is Christ's holy kingdom.
-
-But we learn to live within our exile, enlarging the Church and becoming a blessing even
+dry and barren land, in exile from our true homeland, which is Christ's holy kingdom. But we learn to live within our exile, enlarging the Church and becoming a blessing even
 
 to those hostile to us. The gardens are literally "paradises." Hence, the passage
 
-admonishes planting and cultivating a life that resembles heaven on earth.
-
-
-### 36:10
+admonishes planting and cultivating a life that resembles heaven on earth. ### 36:10
 *(anchor: JER.36:10)*
 
 Seventy years: Jeremiah speaks both historically and mystically. There was a
@@ -1330,15 +859,10 @@ seventy men to be heralds of the Gospel (Lk 10:1-20). These seventy lived a godl
 
 obedience to Christ, suffering martyrdom and spreading the Kingdom--the true
 
-regathering from exile in the world.
-
-
-### 36:14
+regathering from exile in the world. ### 36:14
 *(anchor: JER.36:14)*
 
-flesh.
-
-A prophecy of the Incarnation, when God the Son truly will appear to us in His
+flesh. A prophecy of the Incarnation, when God the Son truly will appear to us in His
 
 
 ### 36:24
@@ -1346,81 +870,50 @@ A prophecy of the Incarnation, when God the Son truly will appear to us in His
 
 The suggestion seems to be that Jeremiah had Zephaniah read aloud his very own
 
-rebuke.
-
-
-### 37:8
+rebuke. ### 37:8
 *(anchor: JER.37:8)*
 
 This, of course, never happened to fleshly Israel. Only with the coming of Christ were
 
-God's people liberated from the control of foreigners.
-
-
-### 37:9
+God's people liberated from the control of foreigners. ### 37:9
 *(anchor: JER.37:9)*
 
 David their king is a reference to the Messiah, both the Lord God and the final king
 
-of David's line.
-
-
-### 37:15-20
+of David's line. ### 37:15-20
 *(anchor: JER.37:15)*
 
 A prophecy of the coming of Christ and His judgment. The children (v. 17) are
 
 the faithful who enter the Church. Testimonies (v. 17) translates the Greek word
 
-martyria, pointing to the martyrs of Christ.
-
-
-### 38:1-14
+martyria, pointing to the martyrs of Christ. ### 38:1-14
 *(anchor: JER.38:1)*
 
-An extended prophecy of the compassion of Christ for the Church.
-
-
-### 38:4
+An extended prophecy of the compassion of Christ for the Church. ### 38:4
 *(anchor: JER.38:4)*
 
 O virgin of Israel: The renewal of Israel includes moral purity, pointing to the
 
-Virgin who truly sanctified Israel by giving birth to Him who is the source of true purity,
-
-Christ our God.
-
-
-### 38:5
+Virgin who truly sanctified Israel by giving birth to Him who is the source of true purity, Christ our God. ### 38:5
 *(anchor: JER.38:5)*
 
 The vineyard in Samaria speaks of the establishment of the gospel among the
 
-Gentiles.
-
-
-### 38:8
+Gentiles. ### 38:8
 *(anchor: JER.38:8)*
 
 The Passover, later to be known as Pascha or Easter. This is an explicit prophecy of
 
 the crucifixion of Christ, which happened on the Passover, thereby bringing a great
 
-multitude into the kingdom of God.
-
-
-### 38:12
+multitude into the kingdom of God. ### 38:12
 *(anchor: JER.38:12)*
 
-The fruitful tree speaks of the cross.
-
-
-### 38:15
+The fruitful tree speaks of the cross. ### 38:15
 *(anchor: JER.38:15)*
 
-2:18).
-
-Here we are reminded of the slaughter of the Holy Innocents of Bethlehem (Mt
+2:18). Here we are reminded of the slaughter of the Holy Innocents of Bethlehem (Mt
 
 
 ### 38:22
@@ -1428,42 +921,27 @@ Here we are reminded of the slaughter of the Holy Innocents of Bethlehem (Mt
 
 The new planting is the Church, the new Israel, as well as the New Testament
 
-(1Co 3:6-8).
-
-
-### 38:30
+(1Co 3:6-8). ### 38:30
 *(anchor: JER.38:30)*
 
 In the gospel it is made clear that no one person will be guilty of the sins of
 
-another, only of his own sin.
-
-
-### 38:33
+another, only of his own sin. ### 38:33
 *(anchor: JER.38:33)*
 
 The implanting of the new covenant, the law in the heart, was clearly effected with
 
-the coming of Christ (2Co 3:3; Heb 10:15-18).
-
-
-### 38:34
+the coming of Christ (2Co 3:3; Heb 10:15-18). ### 38:34
 *(anchor: JER.38:34)*
 
 The prophet points to the giving of the Holy Spirit to the Church so that knowledge
 
 of and communion with God can be for all men, not just for holy prophets and kings as in
 
-the old covenant.
-
-
-### 39:1
+the old covenant. ### 39:1
 *(anchor: JER.39:1)*
 
-Tenth year: 587 BC, the beginning of the siege of Jerusalem.
-
-
-### 39:6-12
+Tenth year: 587 BC, the beginning of the siege of Jerusalem. ### 39:6-12
 *(anchor: JER.39:6)*
 
 This incident reveals that the prophet had hope in the field he purchased, even
@@ -1472,52 +950,34 @@ though he was aware of the impending disaster. But the purchase took place outsi
 
 Jerusalem in an unprotected area, revealing that the Jews were to leave Jerusalem and
 
-become servants in Babylon.
-
-
-### 39:35
+become servants in Babylon. ### 39:35
 *(anchor: JER.39:35)*
 
 The Greek word translated to offer has a sacrificial connotation, the exact word
 
 used in the anaphora of the Eucharist. This makes the deed all the more horrible, that
 
-Israel saw the death of their children to be an acceptable sacrifice to a god.
-
-
-### 39:40
+Israel saw the death of their children to be an acceptable sacrifice to a god. ### 39:40
 *(anchor: JER.39:40)*
 
 Everlasting covenant: After this prophecy, only the covenant of Jesus Christ was
 
-of an eternal nature.
-
-
-### 39:41
+of an eternal nature. ### 39:41
 *(anchor: JER.39:41)*
 
 Jeremiah emphasizes that the new covenant will be made on the basis of
 
-faithfulness, not the letter of the Law.
-
-
-### 40:6
+faithfulness, not the letter of the Law. ### 40:6
 *(anchor: JER.40:6)*
 
 Christ alone brings healing for our wounds. The service of healing is a sacrament
 
-in the Church (see Jam 5:14-16).
-
-
-### 41:5
+in the Church (see Jam 5:14-16). ### 41:5
 *(anchor: JER.41:5)*
 
 The LXX transliterates a generic Semitic word for lord to prevent any confusion
 
-resulting from a use of the Greek word kurios, translated "Lord," a reference to God.
-
-
-### 41:8-11
+resulting from a use of the Greek word kurios, translated "Lord," a reference to God. ### 41:8-11
 *(anchor: JER.41:8)*
 
 Jeremiah reiterates the prophecy of the coming destruction of the land, linking it
@@ -1528,126 +988,76 @@ becoming the servants of others. For, if we do not forgive others, God will not 
 
 (Mt 6:14, 15). If we want to become great in the kingdom of God, we must become
 
-servants to others (Mk 10:43, 44).
-
-
-### 41:9
+servants to others (Mk 10:43, 44). ### 41:9
 *(anchor: JER.41:9)*
 
-Setting his servant free comes in obedience to the Law (Dt 15:12-15).
-
-
-### 42:2
+Setting his servant free comes in obedience to the Law (Dt 15:12-15). ### 42:2
 *(anchor: JER.42:2)*
 
 The Rechabites were a nomadic people who had been forced by the approaching
 
-Babylonian troops to enter Jerusalem, meaning they would endure the siege of the city.
-
-
-### 42:3
+Babylonian troops to enter Jerusalem, meaning they would endure the siege of the city. ### 42:3
 *(anchor: JER.42:3)*
 
 This Jeremiah is different from the prophet, who was commanded not to marry
 
-(16:1, 2).
-
-
-### 42:18-19
+(16:1, 2). ### 42:18-19
 *(anchor: JER.42:18)*
 
 God promises to bless those who obey their father, a point which highlights the
 
 apostle Paul's reflection on those who live without the Mosaic Law, yet nevertheless have
 
-a law of their own (Rom 2:14, 15).
-
-
-### 43:1
+a law of their own (Rom 2:14, 15). ### 43:1
 *(anchor: JER.43:1)*
 
-Fourth year: 606/605 BC.
-
-
-### 43:2
+Fourth year: 606/605 BC. ### 43:2
 *(anchor: JER.43:2)*
 
 This chapter chronicles the writing of the words of the Lord that came to Jeremiah
 
-on a scroll. This event came early in Jeremiah's ministry.
-
-
-### 43:4
+on a scroll. This event came early in Jeremiah's ministry. ### 43:4
 *(anchor: JER.43:4)*
 
 Jeremiah enlists Baruch as his scribe to record the words of the Lord on the
 
-scroll.
-
-
-### 43:5-6
+scroll. ### 43:5-6
 *(anchor: JER.43:5)*
 
 For a reason not known, Jeremiah was not permitted to enter the house of the
 
-Lord. Thus, he asked Baruch to read the scroll in his stead.
-
-
-### 43:14-15
+Lord. Thus, he asked Baruch to read the scroll in his stead. ### 43:14-15
 *(anchor: JER.43:14)*
 
 Sometime after the scroll was read to the people, it was read by Baruch to the
 
-rulers of Judah.
-
-
-### 43:16-19
+rulers of Judah. ### 43:16-19
 *(anchor: JER.43:16)*
 
 Upon hearing the message from the scroll, the rulers' response was twofold: (1)
 
 they wanted the king to hear the message; (2) they sent Baruch and Jeremiah into
 
-hiding.
-
-
-### 43:23
+hiding. ### 43:23
 *(anchor: JER.43:23)*
 
 The message troubled the king to the extent that he cast the scroll into the fire
 
-page by page.
-
-
-### 43:27-32
+page by page. ### 43:27-32
 *(anchor: JER.43:27)*
 
 Jeremiah conscripts Baruch to rewrite the scroll, using the occasion to predict
 
-the death of King Jehoiakim.
-
-
-### 44:1
+the death of King Jehoiakim. ### 44:1
 *(anchor: JER.44:1)*
 
-Zedekiah replaces Jehoiakim as ruler in Judah.
-
-
-### 44:7-10
+Zedekiah replaces Jehoiakim as ruler in Judah. ### 44:7-10
 *(anchor: JER.44:7)*
 
-The image here plays off the earlier deliverance of Jerusalem under Hezekiah,
-
-when 185,000 Assyrians were killed (4Kg 19).
-
-
-### 44:12
+The image here plays off the earlier deliverance of Jerusalem under Hezekiah, when 185,000 Assyrians were killed (4Kg 19). ### 44:12
 *(anchor: JER.44:12)*
 
-Buy: Probably the purchase of property mentioned in 39:6-25.
-
-
-### 44:15
+Buy: Probably the purchase of property mentioned in 39:6-25. ### 44:15
 *(anchor: JER.44:15)*
 
 The Greek word here translated embittered is identical to that found in the
@@ -1656,224 +1066,131 @@ famous Paschal sermon of St. John Chrysostom: "It [death] was embittered!" From 
 
 vantage point of those familiar with that homily, we see the embitterment of death
 
-foretold in the anger of the rulers.
-
-
-### 45:7-13
+foretold in the anger of the rulers. ### 45:7-13
 *(anchor: JER.45:7)*
 
-Interestingly, it is a Gentile, not a Jew, who pulls Jeremiah from the pit.
+Interestingly, it is a Gentile, not a Jew, who pulls Jeremiah from the pit. Throughout the OT we see the willingness of the Gentiles to respond to a servant of the
 
-Throughout the OT we see the willingness of the Gentiles to respond to a servant of the
-
-Lord.
-
-
-### 45:14-28
+Lord. ### 45:14-28
 *(anchor: JER.45:14)*
 
 Zedekiah is eager to receive Jeremiah's secret counsel, but whatever gratitude he
 
-has is not enough to free Jeremiah from prison (v. 28).
-
-
-### 46:1-3
+has is not enough to free Jeremiah from prison (v. 28). ### 46:1-3
 *(anchor: JER.46:1)*
 
-Ninth year: 588 BC. These verses are a summary of 52:2-20.
-
-
-### 46:4
+Ninth year: 588 BC. These verses are a summary of 52:2-20. ### 46:4
 *(anchor: JER.46:4)*
 
 Jeremiah is released from prison in the custody of Gedaliah, the newly appointed
 
-governor of Judah.
-
-
-### 46:5-8
+governor of Judah. ### 46:5-8
 *(anchor: JER.46:5)*
 
-Ebed-Melech is rewarded for his service to Jeremiah (see 45:7-13).
-
-
-### 47:1-6
+Ebed-Melech is rewarded for his service to Jeremiah (see 45:7-13). ### 47:1-6
 *(anchor: JER.47:1)*
 
 Freed from prison, Jeremiah is allowed to remain in Judah among the people
 
-who were left there (v. 6). Mizpah, a town seven miles to the north of Jerusalem,
-
-becomes headquarters for Gedaliah's regime.
-
-
-### 47:13-14
+who were left there (v. 6). Mizpah, a town seven miles to the north of Jerusalem, becomes headquarters for Gedaliah's regime. ### 47:13-14
 *(anchor: JER.47:13)*
 
 Johanan warns Gedaliah that Ishmael seeks his life, but the governor does
 
-not believe him.
-
-
-### 48:1
+not believe him. ### 48:1
 *(anchor: JER.48:1)*
 
-Seventh month: Probably the same year Jerusalem was sacked, 586 BC.
-
-
-### 48:2-3
+Seventh month: Probably the same year Jerusalem was sacked, 586 BC. ### 48:2-3
 *(anchor: JER.48:2)*
 
-Judah.
-
-The death of Gedaliah will mark the end of the five-year stay of the Jews in
+Judah. The death of Gedaliah will mark the end of the five-year stay of the Jews in
 
 
 ### 48:5
 *(anchor: JER.48:5)*
 
-Shechem, Shalem, and Samaria: Three areas near Israel in the north of Judah,
+Shechem, Shalem, and Samaria: Three areas near Israel in the north of Judah, which had already changed in ethnic composition after the Assyrian deportation. 48:5-8 Hence, Ishmael killed seventy men. Gedaliah himself was mourned by the exiles
 
-which had already changed in ethnic composition after the Assyrian deportation.
-
-48:5-8 Hence, Ishmael killed seventy men. Gedaliah himself was mourned by the exiles
-
-for those seventy years of exile by an annual fast (Zec 7:5).
-
-
-### 49:1-6
+for those seventy years of exile by an annual fast (Zec 7:5). ### 49:1-6
 *(anchor: JER.49:1)*
 
 Just as Jeremiah was sought out for guidance and to seek God's will, so today the
 
-faithful in Christ are encouraged to seek spiritual direction. It appears that at this point,
-
-Johanan and his group were serious: We will heed the voice of the Lord our God.
-
-
-### 49:7
+faithful in Christ are encouraged to seek spiritual direction. It appears that at this point, Johanan and his group were serious: We will heed the voice of the Lord our God. ### 49:7
 *(anchor: JER.49:7)*
 
 After ten days, the prophet received the word of the Lord, and it was clear: Do
 
-not go to Egypt (v. 19).
-
-
-### 50:1-4
+not go to Egypt (v. 19). ### 50:1-4
 *(anchor: JER.50:1)*
 
 It appears that in the ten days that elapsed between their question (49:3) and
 
-Jeremiah's answer (49:7), Johanan and his followers had decided not to stay in Judah.
+Jeremiah's answer (49:7), Johanan and his followers had decided not to stay in Judah. For as soon as Jeremiah ceased speaking, they said, That is a lie. Recall that in Gn
 
-For as soon as Jeremiah ceased speaking, they said, That is a lie. Recall that in Gn
-
-3:1, the devil called God's direction into question.
-
-
-### 50:7
+3:1, the devil called God's direction into question. ### 50:7
 *(anchor: JER.50:7)*
 
 Tahpanhes is an Egyptian city bordering Sinai. Johanan and his followers took
 
-Jeremiah with them (v. 6) and entered Egypt.
-
-
-### 50:10
+Jeremiah with them (v. 6) and entered Egypt. ### 50:10
 *(anchor: JER.50:10)*
 
 The mention of Nebuchadnezzar puts Johanan and his followers on notice that
 
-even Egypt is not a safe haven from the king of Babylon.
-
-
-### 51:8
+even Egypt is not a safe haven from the king of Babylon. ### 51:8
 *(anchor: JER.51:8)*
 
 Not only are Jews disobedient to God for entering Egypt, now they revert to
 
 worshiping other gods, namely the "queen of heaven" (the goddess Ishtar; see v. 17 and
 
-note).
-
-
-### 51:16
+note). ### 51:16
 *(anchor: JER.51:16)*
 
 The rebellion of those in Egypt reaches its lowest ebb when they announce to
 
-Jeremiah, We will not listen to you.
-
-
-### 51:17
+Jeremiah, We will not listen to you. ### 51:17
 *(anchor: JER.51:17)*
 
 Just as the Scriptures speak of "false christs and false prophets" (Mk 13:22), here we
 
 have a counterfeit queen of heaven (see note at v. 8). The true queen of heaven is the
 
-Mother of God, seated at the right hand of her Son and King (Ps 45:9).
-
-
-### 51:24-30
+Mother of God, seated at the right hand of her Son and King (Ps 45:9). ### 51:24-30
 *(anchor: JER.51:24)*
 
 This is Jeremiah's final warning to those in Egypt, and it is not good news. The
 
-Lord makes a promise to them: I will visit you for evil (v. 29).
-
-
-### 51:30
+Lord makes a promise to them: I will visit you for evil (v. 29). ### 51:30
 *(anchor: JER.51:30)*
 
-Hophra was an Egyptian king who reigned 589-570 BC.
-
-
-### 51:31-35
+Hophra was an Egyptian king who reigned 589-570 BC. ### 51:31-35
 *(anchor: JER.51:31)*
 
 Like Jeremiah, Baruch was evidently taken to Egypt against his will. The Lord
 
-assures him, I will give you life (v. 35).
-
-
-### 52:1
+assures him, I will give you life (v. 35). ### 52:1
 *(anchor: JER.52:1)*
 
 This chapter is a summary of the rise and fall of Zedekiah (vv. 1-9), the destruction
 
 of Jerusalem (vv. 10-20), the captives in Babylon (vv. 21-24), and the release of
 
-Jehoiachin from prison (vv. 25-28). It parallels almost verbatim 4Kg 24:18-25:30.
-
-
-### 52:2
+Jehoiachin from prison (vv. 25-28). It parallels almost verbatim 4Kg 24:18-25:30. ### 52:2
 *(anchor: JER.52:2)*
 
-These dates place the siege of Jerusalem in early January, 587 BC.
-
-
-### 52:21
+These dates place the siege of Jerusalem in early January, 587 BC. ### 52:21
 *(anchor: JER.52:21)*
 
-The two priests were Seraiah and Zephaniah (4Kg 25:18).
-
-
-### 52:25
+The two priests were Seraiah and Zephaniah (4Kg 25:18). ### 52:25
 *(anchor: JER.52:25)*
 
-Thirty-seventh year: Spring 560, in anticipation of the Babylonian new year.
+Thirty-seventh year: Spring 560, in anticipation of the Babylonian new year. Jehoiachin was then 55 years old. Evil-Merodach was the successor (562-560 BC) to
 
-Jehoiachin was then 55 years old. Evil-Merodach was the successor (562-560 BC) to
-
-Nebuchadnezzar.
-
-
-### 52:26-27
+Nebuchadnezzar. ### 52:26-27
 *(anchor: JER.52:26)*
 
-Although told that no successor would occupy David's throne (22:30),
-
-Jefhoiachin is treated kindly by the Babylonians. This event occurred more than 25
+Although told that no successor would occupy David's throne (22:30), Jefhoiachin is treated kindly by the Babylonians. This event occurred more than 25
 
 years after the sack of Jerusalem.

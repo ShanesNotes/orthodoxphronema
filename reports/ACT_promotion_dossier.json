@@ -1,9 +1,9 @@
 {
   "book_code": "ACT",
   "testament": "NT",
-  "timestamp": "2026-03-11T05:55:45.364695",
+  "timestamp": "2026-03-11T16:39:42.830255",
   "registry_version": "1.3.0",
-  "body_checksum": "401af911952fca5664775afaa24787b20af744110da3039e976c29734f2abe6d",
+  "body_checksum": "1affd375c9413366ef4d571facd42cb3ab75c8df4494bd5adfbb75908d41f39a",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -20,35 +20,23 @@
     "V4": {
       "status": "WARN",
       "messages": [
-        "V4   Missing verses in ch.1: jumps from 2 to 4",
-        "V4   Missing verses in ch.1: jumps from 10 to 12",
         "V4   Missing verses in ch.1: jumps from 19 to 21",
         "V4   Missing verses in ch.1: jumps from 21 to 23",
         "V4   Missing verses in ch.2: jumps from 15 to 17",
         "V4   Missing verses in ch.2: jumps from 30 to 32",
-        "V4   Missing verses in ch.3: jumps from 2 to 4",
         "V4   Missing verses in ch.3: jumps from 20 to 22",
-        "V4   Missing verses in ch.4: jumps from 1 to 3",
-        "V4   Missing verses in ch.4: jumps from 24 to 26",
         "V4   Missing verses in ch.4: jumps from 29 to 31",
         "V4   Missing verses in ch.7: jumps from 17 to 19",
-        "V4   Missing verses in ch.7: jumps from 45 to 47",
-        "V4   Missing verses in ch.7: jumps from 52 to 54",
-        "V4   Missing verses in ch.8: jumps from 14 to 16",
         "V4   Missing verses in ch.8: jumps from 27 to 29",
         "V4   Missing verses in ch.10: jumps from 1 to 3",
-        "V4   Missing verses in ch.10: jumps from 37 to 39",
-        "V4   Missing verses in ch.10: jumps from 40 to 42",
-        "V4   Missing verses in ch.11: jumps from 13 to 15",
-        "V4   Missing verses in ch.13: jumps from 6 to 8",
         "V4   Missing verses in ch.13: jumps from 22 to 25",
         "V4   Missing verses in ch.13: jumps from 34 to 36",
         "V4   Missing verses in ch.14: jumps from 9 to 11",
-        "V4   Missing verses in ch.14: jumps from 15 to 17",
         "V4   Missing verses in ch.14: jumps from 21 to 23",
         "V4   Missing verses in ch.15: jumps from 25 to 27",
         "V4   Missing verses in ch.17: jumps from 2 to 4",
-        "V4   Missing verses in ch.20: jumps from 18 to 22",
+        "V4   Missing verses in ch.20: jumps from 18 to 20",
+        "V4   Missing verses in ch.20: jumps from 20 to 22",
         "V4   Missing verses in ch.20: jumps from 22 to 24",
         "V4   Missing verses in ch.21: jumps from 27 to 29",
         "V4   Missing verses in ch.22: jumps from 12 to 14",
@@ -58,8 +46,7 @@
         "V4   Missing verses in ch.25: jumps from 7 to 9",
         "V4   Missing verses in ch.25: jumps from 14 to 16",
         "V4   Missing verses in ch.26: jumps from 2 to 4",
-        "V4   Missing verses in ch.26: jumps from 12 to 14",
-        "V4   Missing verses in ch.28: jumps from 17 to 19"
+        "V4   Missing verses in ch.26: jumps from 12 to 14"
       ]
     },
     "V5": {
@@ -73,7 +60,7 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 960/1007 verses (95.3%); gap of 47"
+        "V7   Completeness: 976/1007 verses (96.9%); gap of 31"
       ]
     },
     "V8": {
@@ -85,46 +72,7 @@
     "V9": {
       "status": "FAIL",
       "messages": [
-        "V9   Embedded verse ACT.1:3 found inside ACT.1:2 at line 21",
-        "V9   Embedded verse ACT.1:11 found inside ACT.1:10 at line 34",
-        "V9   Embedded verse ACT.1:22 found inside ACT.1:21 at line 43",
-        "V9   Embedded verse ACT.2:31 found inside ACT.2:30 at line 90",
-        "V9   Embedded verse ACT.3:3 found inside ACT.3:2 at line 121",
-        "V9   Embedded verse ACT.3:21 found inside ACT.3:20 at line 141",
-        "V9   Embedded verse ACT.4:2 found inside ACT.4:1 at line 152",
-        "V9   Embedded verse ACT.4:25 found inside ACT.4:24 at line 180",
-        "V9   Embedded verse ACT.4:30 found inside ACT.4:29 at line 184",
-        "V9   Embedded verse ACT.7:18 found inside ACT.7:17 at line 294",
-        "V9   Embedded verse ACT.7:46 found inside ACT.7:45 at line 321",
-        "V9   Embedded verse ACT.7:53 found inside ACT.7:52 at line 330",
-        "V9   Embedded verse ACT.8:15 found inside ACT.8:14 at line 362",
-        "V9   Embedded verse ACT.8:28 found inside ACT.8:27 at line 377",
-        "V9   Embedded verse ACT.10:2 found inside ACT.10:1 at line 452",
-        "V9   Embedded verse ACT.10:38 found inside ACT.10:37 at line 493",
-        "V9   Embedded verse ACT.10:41 found inside ACT.10:40 at line 495",
-        "V9   Embedded verse ACT.11:14 found inside ACT.11:13 at line 523",
-        "V9   Embedded verse ACT.13:7 found inside ACT.13:6 at line 592",
-        "V9   Embedded verse ACT.13:23 found inside ACT.13:22 at line 610",
-        "V9   Embedded verse ACT.13:24 found inside ACT.13:22 at line 610",
-        "V9   Embedded verse ACT.14:10 found inside ACT.14:9 at line 657",
-        "V9   Embedded verse ACT.14:16 found inside ACT.14:15 at line 662",
-        "V9   Embedded verse ACT.14:22 found inside ACT.14:21 at line 670",
-        "V9   Embedded verse ACT.15:26 found inside ACT.15:25 at line 715",
-        "V9   Embedded verse ACT.17:3 found inside ACT.17:2 at line 803",
-        "V9   Embedded verse ACT.20:19 found inside ACT.20:18 at line 972",
-        "V9   Embedded verse ACT.20:20 found inside ACT.20:18 at line 972",
-        "V9   Embedded verse ACT.20:21 found inside ACT.20:18 at line 972",
-        "V9   Embedded verse ACT.20:23 found inside ACT.20:22 at line 973",
-        "V9   Embedded verse ACT.21:28 found inside ACT.21:27 at line 1025",
-        "V9   Embedded verse ACT.22:13 found inside ACT.22:12 at line 1054",
-        "V9   Embedded verse ACT.24:8 found inside ACT.24:7 at line 1132",
-        "V9   Embedded verse ACT.24:21 found inside ACT.24:20 at line 1150",
-        "V9   Embedded verse ACT.25:3 found inside ACT.25:2 at line 1163",
-        "V9   Embedded verse ACT.25:8 found inside ACT.25:7 at line 1167",
-        "V9   Embedded verse ACT.25:15 found inside ACT.25:14 at line 1176",
-        "V9   Embedded verse ACT.26:3 found inside ACT.26:2 at line 1195",
-        "V9   Embedded verse ACT.26:13 found inside ACT.26:12 at line 1204",
-        "V9   Embedded verse ACT.28:18 found inside ACT.28:17 at line 1303"
+        "V9   Embedded verse ACT.13:23 found inside ACT.13:22 at line 623"
       ]
     }
   },

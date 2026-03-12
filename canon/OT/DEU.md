@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-DEU.1:1 Now these are the words Moses spoke to all Israel beyond the Jordan in the deser
+DEU.1:1 Now these are the words Moses spoke to all Israel beyond the Jordan in the desert
 DEU.1:2 It is eleven days' journey from Horeb by way of Mount Seir to Kadesh Barnea.
 DEU.1:3 Now it came to pass in the fortieth year, in the eleventh month, on the first day of the month, Moses spoke to the sons of Israel according to all the Lord gave him as commandments to them,
 DEU.1:4 after he killed Sihon king of the Amorites, who dwelt in Heshbon, and Og king of Bashan, who dwelt at Ashtaroth in Edrei.
@@ -41,7 +41,7 @@ DEU.1:18 So I commanded you at that time all the words you should do.
 DEU.1:19 'So we departed from Horeb, and went through all that great and fearful desert you saw on the way to the mountains of the Amorite, as the Lord our God commanded us. Then we came to Kadesh Barnea.
 DEU.1:20 Then I said to you, 'You have come to the mountains of the Amorite, which the Lord our God is giving us.
 DEU.1:21 Behold, the Lord your God is delivering the land to you in your presence; go up and take it as an inheritance, in the manner the Lord God of your fathers spoke to you; do not fear or be afraid.'
-DEU.1:22 Then every one of you came near me and said, 'Let us send men before us, and let them spyout the land for us and report back to us the way we should go up in it, and the cities into which we should come.'
+DEU.1:22 Then every one of you came near me and said, 'Let us send men before us, and let them spy out the land for us and report back to us the way we should go up in it, and the cities into which we should come.'
 DEU.1:23 'The plan pleased me well; so I took twelve of your men, one man from each tribe.
 DEU.1:24 Then they departed and went up into the mountain, and came to the Valley of Eshcol, and surveyed it.
 DEU.1:25 They also took some of the fruit of the land in their hands and brought it down to us; and said, 'The land the Lord our God gives us is good.'
@@ -186,7 +186,7 @@ DEU.4:21 Furthermore, the Lord was angry with me about what you said, and swore 
 DEU.4:22 But I am going to die in this land, thus I am not going to cross over this Jordan; but you will cross over and inherit this good land.
 DEU.4:23 Take heed to yourselves, lest you forget the covenant the Lord your God made with you and make for yourselves a carved form of anything, concerning which the Lord your God forbade you.
 DEU.4:24 For the Lord your God is a consuming fire, a jealous God.
-DEU.4:25 'If you beget sons and the sons of sons and dwell along time in the land, and act lawlessly and make a carved form of anything, and do evil in the sight of the Lord your God to provoke Him to anger,
+DEU.4:25 'If you beget sons and the sons of sons and dwell a long time in the land, and act lawlessly and make a carved form of anything, and do evil in the sight of the Lord your God to provoke Him to anger,
 DEU.4:26 I call heaven and earth to witness to you today that you will be utterly destroyed from the land you are crossing over the Jordan to inherit. You will not live long on it, but will be utterly annihilated.
 DEU.4:27 Then the Lord will scatter you among all the nations, and you will be left few in number among the nations where the Lord will bring you.
 DEU.4:28 There you will serve different gods, the works of men's hands, wood and stone, which neither see, hear, eat, nor smell.
@@ -222,7 +222,7 @@ DEU.4:48 from Aroer, which is on the bank of the Arnon River, even to Mount Sion
 DEU.4:49 and all the Arabah beyond the Jordan toward the rising of the sun, below Asedoth hewn in the rock.
 ## Chapter 5
 
-DEU.5:1 Now Moses called all Israel, and said to them, 'Hear, O Israel, the ordinances a
+DEU.5:1 Now Moses called all Israel, and said to them, “Hear, O Israel, the ordinances and the judgments I speak in your hearing on this day, and you shall learn them and be careful to do them.
 DEU.5:2 The Lord our God made a covenant with you in Horeb.
 DEU.5:3 The Lord did not make this covenant with your fathers, but with you, all of you alive here today.
 DEU.5:4 The Lord spoke to you face to face on the mountain from the midst of the fire.
@@ -237,7 +237,7 @@ DEU.5:12 'Observe the Sabbath day to keep it holy, as the Lord your God commande
 DEU.5:13 Six days you shall labor and do all your works,
 DEU.5:14 but the seventh day is the Sabbath to the Lord your God. In it you shall do no work-you, your son and your daughter, your male servant, your female servant, your ox, your donkey, and all of your cattle, and your resident alien dwelling among you; that your male servant and your female servant may rest as well as you.
 DEU.5:15 Remember, you were a servant in the land of Egypt, and the Lord your God brought you out from there by a mighty hand and by an outstretched arm; therefore, the Lord your God ordered you to guard the Sabbath day and to sanctify it.
-DEU.5:16 'Honor your father and mother in the manner the Lord your God commanded you, that it may be well with you, and you may be along time in the land the Lord your God is giving you.
+DEU.5:16 'Honor your father and mother in the manner the Lord your God commanded you, that it may be well with you, and you may be a long time in the land the Lord your God is giving you.
 DEU.5:17 'You shall not murder.
 DEU.5:18 'You shall not commit adultery.
 DEU.5:19 'You shall not steal.
@@ -567,7 +567,7 @@ DEU.15:5 only if you carefully obey the voice of the Lord your God, to observe w
 DEU.15:6 For the Lord your God blessed you in the manner He told you; you shall lend to many nations, but you shall not borrow; you shall rule over many nations, but they shall not rule over you.
 DEU.15:7 'If there is among you a poor man of your brethren within any of the cities in your land the Lord your God is giving you, you shall not harden your heart, nor shut your hand from your poor brother;
 DEU.15:8 but you shall surely open your hands to him and willingly lend him sufficient for his need, whatever he needs.
-DEU.15:9 Beware lest there be a hidden thought in your heart, a transgression of the law, saying, 'The seventh year, the year of remission, is at hand,' and your eye be evil against your poor brother, and you give him nothing, and he cryout to the Lord against you, and it be a great sin among you.
+DEU.15:9 Beware lest there be a hidden thought in your heart, a transgression of the law, saying, 'The seventh year, the year of remission, is at hand,' and your eye be evil against your poor brother, and you give him nothing, and he cry out to the Lord against you, and it be a great sin among you.
 DEU.15:10 You shall surely give him and loan him as much as he needs, and your heart should not be grieved when you give to him, because for this thing the Lord your God will bless you in all your works and in everything to which you put your hand.
 
 ### Bondservants
@@ -664,7 +664,7 @@ DEU.18:7 then he may minister in the name of the Lord his God, as do all his bre
 DEU.18:8 They shall have equal portions to eat, besides what comes from the sale of his paternal inheritance.
 DEU.18:9 'Now if you enter the land the Lord your God gives you, you shall not learn to do the abominations of those nations.
 DEU.18:10 There shall not be found among you anyone who purifies his son or daughter in the fire, or one who practices divination, or a soothsayer, or one who interprets omens, or a sorcerer,
-DEU.18:11 or one who conjures spells, or a medium, or aspiritist, or one who calls up the dead.
+DEU.18:11 or one who conjures spells, or a medium, or a spiritist, or one who calls up the dead.
 DEU.18:12 For all who do these things are an abomination to the Lord your God, and because of these abominations the Lord your God will destroy them before you.
 DEU.18:13 You shall be perfect before the Lord your God.
 
@@ -767,7 +767,7 @@ DEU.21:16 then it shall be, on the day he bequeaths his possessions to his sons,
 DEU.21:17 But he shall acknowledge the son of the unloved wife as the firstborn by giving him a double portion of all he has, for he is the beginning of his strength; the right of the firstborn is his.
 DEU.21:18 'Now if a man should have a disobedient and rebellious son who will not obey the voice of his father or the voice of his mother, and who, when they chastened him, will not heed them,
 DEU.21:19 then his father and mother shall take hold of him and bring him out to the elders of his city, to the gate of his city.
-DEU.21:20 So they shall say to the men of his city, 'This son of ours is disobedient and rebellious; he will not obeyour voice; he is a glutton and a drunkard.'
+DEU.21:20 So they shall say to the men of his city, 'This son of ours is disobedient and rebellious; he will not obey our voice; he is a glutton and a drunkard.'
 DEU.21:21 Then all the men of his city shall stone him to death with stones, and he shall die; so you shall put away the evil from among you, and the rest shall hear and be afraid.
 DEU.21:22 Now if a man committed a crime under the sentence of death, and he is put to death, and you hang him on a tree
 DEU.21:23 his body shall not remain overnight on the tree, but you shall surely bury him that day; for he who is hanged on a tree is accursed of God; that you do not defile the land the Lord your God gives you as an inheritance.
@@ -799,7 +799,7 @@ DEU.22:20 But if his word is true, and evidences of virginity are not found for 
 DEU.22:21 then they shall bring out the young woman to the doors of her father's house, and the men of her city shall stone her to death with stones, and she shall die, because she did a foolish thing among the children of Israel, to commit fornication in her father's house. So you shall put away the evil from among you.
 DEU.22:22 'If a man is found lying with a married woman, then you shall kill both of them-the man that lay with the woman and the woman; so you shall put away the evil from Israel.
 DEU.22:23 'If a young woman who is a virgin is betrothed to a husband, and a man finds her in the city and lies with her,
-DEU.22:24 then you shall bring them both out to the gate of that city, and you shall stone them to death with stones, the young woman because she did not cryout in the city, and the man because he humbled his neighbor's wife; so you shall put away the evil from among you.
+DEU.22:24 then you shall bring them both out to the gate of that city, and you shall stone them to death with stones, the young woman because she did not cry out in the city, and the man because he humbled his neighbor's wife; so you shall put away the evil from among you.
 DEU.22:25 But if a man finds a betrothed young woman in the countryside, and the man forces her and lies with her, then you shall kill only the man who lay with her.
 DEU.22:26 But you shall do nothing to the young woman; there is in the young woman no sin deserving of death; for just as when a man rises against his neighbor and murders him, even so is this matter.
 DEU.22:27 For he found her in the countryside, and the betrothed young woman cried out, but there was no one to come to her aid.
@@ -837,7 +837,7 @@ DEU.23:18 There shall be no female prostitute among the daughters of Israel, or 
 DEU.23:19 You shall not bring the wages of a prostitute or the price of a dog into the house of the Lord your God for any vowed offering, for both are an abomination to the Lord your God.
 DEU.23:20 'You shall not charge interest to your brother-interest on money or food or anything you lend out.
 DEU.23:21 You may charge interest to a foreigner, but you shall not charge interest to your brother, that the Lord your God may bless you in all your works in the land you are entering to inherit.
-DEU.23:22 'If you should make avow to the Lord your God, you shall not delay to pay it; for the Lord your God will surely require it of you, and it would be sin to you.
+DEU.23:22 'If you should make a vow to the Lord your God, you shall not delay to pay it; for the Lord your God will surely require it of you, and it would be sin to you.
 DEU.23:23 But if you should abstain from vowing, it is not a sin to you.
 DEU.23:24 That which proceeds from your lips you shall keep and do in the manner you vowed your gift to the Lord your God; that which you spoke with your mouth.
 DEU.23:25 'If you enter into your neighbor's standing grain, you may pluck the heads with your hands, but you shall not use a sickle on your neighbor's standing grain.
@@ -864,7 +864,7 @@ DEU.24:11 You shall stand outside, and the man to whom you lend shall bring the 
 DEU.24:12 Now if the man is poor, you shall not keep his pledge overnight.
 DEU.24:13 You shall return the pledge to him again when the sun goes down, that he may sleep in his own garment and bless you; and it shall be for you an alms before the Lord your God.
 DEU.24:14 'You shall not withhold wrongfully the wage of the poor and needy, whether one of your brethren or one of the resident aliens in your cities.
-DEU.24:15 Each day you shall pay him his wage and not let the sun go down on it, for he is poor and has set his hope on it; lest he cryout against you to the Lord, and it be sin to you.
+DEU.24:15 Each day you shall pay him his wage and not let the sun go down on it, for he is poor and has set his hope on it; lest he cry out against you to the Lord, and it be sin to you.
 DEU.24:16 'Fathers shall not be put to death for their sons, nor shall sons be put to death for their fathers; each shall be put to death for his own sin.
 DEU.24:17 'You shall not pervert judgment due the stranger and the fatherless and the widow, nor take a widow's garment as a pledge.
 DEU.24:18 But you shall remember you were a servant in Egypt, and the Lord your God redeemed you from there; therefore, I command you to do this thing.
@@ -892,7 +892,7 @@ DEU.25:9 then his brother's wife shall come before the elders, remove his brothe
 DEU.25:10 And his name shall be called in Israel, 'The house of him who had his sandal removed.'
 DEU.25:11 'If two men fight together, a man with his brother, and the wife of one draws near to rescue her husband from the hand of the one attacking him and puts out her hand and seizes him by the genitals,
 DEU.25:12 then you shall cut off her hand; your eye shall not pity her.
-DEU.25:13 'You shall not have in your bag differing weights, a heavy and alight.
+DEU.25:13 'You shall not have in your bag differing weights, a heavy and a light.
 DEU.25:14 You shall not have in your house differing measures, a large and a small.
 DEU.25:15 You shall have a true and just weight and a true and just measure, that your days may be lengthened in the land the Lord your God is giving you as an inheritance.
 DEU.25:16 For all who do such things, all who behave unjustly, are an abomination to the Lord your God.
@@ -931,7 +931,7 @@ DEU.26:18 Also today, the Lord proclaimed you to be His special people, just as 
 DEU.26:19 and to set you high over all the nations; how He made you a name, a pride, and glorious, that you might be a holy people to the Lord your God, just as He said.'
 ## Chapter 27
 
-DEU.27:1 Now Moses with the elders of Israel ordered the people, saying, 'Keep all these 
+DEU.27:1 Now Moses with the elders of Israel ordered the people, saying, “Keep all these commandments I command you today.
 DEU.27:2 Then it shall be, on the day you cross over the Jordan to the land the Lord your God gives you, you shall set up for yourselves large stones and plaster them with lime.
 DEU.27:3 You shall write on the stones all the words of this law when you cross over the Jordan, at the time you enter the land the Lord God of your fathers is giving you, 'a land flowing with milk and honey,' in the manner the Lord God of your fathers told you.
 DEU.27:4 Therefore it shall be, when you cross over the Jordan, you shall set up these stones on Mount Ebal, which I command you today, and you shall plaster them with lime.
@@ -1039,7 +1039,7 @@ DEU.28:68 Then the Lord will take you back to Egypt in ships, by the way of whic
 DEU.28:69 These are the words of the covenant the Lord commanded Moses to establish with the sons of Israel in the land of Moab, besides the covenant which He made with them in Horeb.
 ## Chapter 29
 
-DEU.29:1 Now Moses called all the children of Israel and said to them, 'You saw all the L
+DEU.29:1 Now Moses called all the children of Israel and said to them, “You saw all the Lord did before you in the land of Egypt, to Pharaoh and to all his servants and to all his land— 2the great trials your eyes saw, the signs, and those great wonders. 3Yet the Lord your God has not given you a heart to perceive and eyes to see and ears to hear, to this very day. 4He also led you forty years in the desert. Your clothes did not grow old on you, and your sandals did not wear out on your feet. 5You did not eat bread, nor did you drink wine or strong drink, that you may know He is the Lord your God. 6Then you came to this place; and Sihon king of Heshbon and Og king of Bashan came out against us in war, and we struck them. 7We took their land, and gave it as an inheritance to Reuben, to Gad, and to half the tribe of Manasseh. 8Therefore heed all the words of this covenant, to do them, that you may understand all these things you are doing. 9“All of you stand today before the Lord your God: your chiefs, your elders, your judges and your teachers, all the men of Israel, 10your wives and your offspring and the resident alien in your camp, from the one who cuts your wood to the one who draws your water, 11that you may enter into the covenant of the Lord your God and into His oath the Lord your God makes with you today, 12that He may establish you today as a people for Himself and be God to you, in the manner He told you, and in the manner He swore to your fathers, to Abraham, Isaac, and Jacob. 13I make this covenant and this oath, not with you alone, 14but with those with us here today before the Lord your God, as well as with those not with us here today 15(for you know we dwelt in the land of Egypt, and came through the nations you passed by; 16and you saw their abominations and idols among them—wood, stone, silver, and gold). 17“Surely there is not among you man, woman, family, or tribe whose mind turns away today from the Lord our God, to go and serve the gods of these nations? And surely there is not among you a root bearing gall and bitterness? 18So it shall be, if one should hear the words of this curse and flatter himself in his heart, saying, ‘May holy things happen for me, even though I go in the wanderings of my heart’ —lest the sinner destroy the sinless along with him— 19God will not be merciful to him; for then the anger of the Lord and His jealousy will burn against that man, and every curse written in this book will cling to him, and the Lord will blot out his name from under heaven. 20“So the Lord will separate him from all the children of Israel for evils, according to all the curses of the covenant written in this book of this law. 21They will say, that is, the coming generation of your sons who rise up after you, and the foreigner who comes from a far land, and they see the plagues of that land and its diseases which the Lord sent upon it, 22‘The whole land will be brimstone and burning salt; it will not be sown, nor will it bear, nor will any grass grow there, like the overthrow of Sodom and Gomorrah, Admah, and Zeboiim, which the Lord overthrew in His anger and His wrath.’ 23They and all the nations will say, ‘Why has the Lord done so to this land? What does the heat of this great anger mean?’ 24Then they will say, ‘Because they forsook the covenant of the Lord God of their fathers, which He made with their fathers when He brought them out of the land of Egypt; 25for they went and served different gods and worshiped them, which they did not know, nor had He allotted to them. 26Then the Lord was aroused in anger against that land, to bring on it all the curses written in the book of this law; 27and the Lord uprooted them from their land in anger, in wrath, and in great indignation and cast them into another land, as it is this day.’ 28The secret things belong to the Lord our God, but those things revealed belong to us and to our children forever, that we may do all the words of this law. The Blessings of Repentance 30 “Now it shall be, when all these things come upon you, the blessing and the curse which I set before you, and you will reflect in your heart among all the nations where the Lord your God scatters you, 2and you return to the Lord your God and obey His voice from your whole heart and from your whole soul, according to all I command you today, 3that the Lord will heal your sins, have mercy on you, and gather you again from all the nations where the Lord your God scattered you. 4If any of you are scattered from one end of heaven to the other end, from there the Lord your God will gather you, and from there the Lord your God will bring you. 5Then the Lord your God will bring you to the land your fathers inherited, and you shall have it as an inheritance. He will prosper and multiply you more than your fathers. 6The Lord your God will purify your heart and the heart of your seed to love the Lord your God from your whole heart and from your whole soul, that you may live. 7“Also the Lord your God will put all these curses on your enemies and on those who hate you, who persecuted you. 8As for you, you will once again obey the voice of the Lord your God and do His commandments, whatever I command you today. 9The Lord your God will take great care of you in all the work of your hands, in the offspring of your womb, in the produce of your land, and in the offspring of your cattle. For the Lord will again rejoice over you for good, as He rejoiced over your fathers, 10if you obey the voice of the Lord your God to keep and do all His commandments, ordinances, and judgments written in this book of the law, and if you return to the Lord your God from your whole heart and from your whole soul. 11“For this commandment I command you today is not too burdensome for you, nor is it far off. 12It is not in heaven above, that you should say, ‘Who will ascend into heaven for us and bring it to us, that we may hear and do it?’ 13Nor is it beyond the sea, that you should say, ‘Who will go over the sea for us and bring it to us, that we may hear and do it?’ 14But the word is very near you, in your mouth, in your heart, and in your hands, that you may do it. 15“See, I set before you today life and death, good and evil. 16If you hear the commandments of the Lord your God I command you today, to love the Lord your God, to walk in His ways, and to keep His ordinances and judgments, then you shall live and multiply; and the Lord your God will bless you in the land you go to inherit. 17But if your heart turns away and you do not hear, but go astray and worship different gods and serve them, 18I announce to you today, you shall surely perish; you shall not prolong your days in the land the Lord your God is giving you, into which you are crossing over the Jordan to inherit. 19I call heaven and earth as witnesses today against you: I set before you life and death, blessing and cursing. Therefore choose life, that both you and your seed may live 20and love the Lord your God, obey His voice, and cling to Him. For this is your life and the length of your days, that you may dwell in the land the Lord swore to your fathers, to Abraham, Isaac, and Jacob, to give them.” Joshua Leads the People Now Moses finished speaking these words to the children of Israel.
 DEU.29:2 the great trials your eyes saw, the signs, and those great wonders.
 DEU.29:3 Yet the Lord your God has not given you a heart to perceive and eyes to see and ears to hear, to this very day.
 DEU.29:4 He also led you forty years in the desert. Your clothes did not grow old on you, and your sandals did not wear out on your feet.
@@ -1093,7 +1093,7 @@ DEU.30:18 I announce to you today, you shall surely perish; you shall not prolon
 
 ### Joshua Leads the People
 
-DEU.30:19 I call heaven and earth as witnesses today against you: I set before you life and death, blessing and cursing. Therefore choose life, that both you and your seed may live 20 and love the Lord your God, obey His voice, and cling to Him. For this is your life and the length of your days, that you may dwell in the land the Lord swore to your fathers, to Abraham, Isaac, and Jacob, to give them.'
+DEU.30:19 I call heaven and earth as witnesses today against you: I set before you life and death, blessing and cursing. Therefore choose life, that both you and your seed may live and love the Lord your God, obey His voice, and cling to Him. For this is your life and the length of your days, that you may dwell in the land the Lord swore to your fathers, to Abraham, Isaac, and Jacob, to give them.'
 ## Chapter 31
 
 DEU.31:1 Now Moses finished speaking these words to the children of Israel.
@@ -1138,51 +1138,51 @@ DEU.31:30 So Moses spoke in the hearing of all the assembly of Israel the words 
 ## Chapter 32
 
 DEU.32:1 Take heed, O heaven, and I will speak; And let the earth hear the words of my mouth.
-DEU.32:2 Let my proverbial say ing be awaited as the rain, And let my words come down As raindrops on the wild grass, And as snowfall on the sown grass.
-DEU.32:3 For I inv oke the Lord's name: Ascribe greatness to our God.
-DEU.32:4 He is God, His works are true; And all His way sare judgment, A faithful God and without injustice; Righteous and holy is the Lord.
+DEU.32:2 Let my proverbial saying be awaited as the rain, And let my words come down As raindrops on the wild grass, And as snowfall on the sown grass.
+DEU.32:3 For I invoke the Lord's name: Ascribe greatness to our God.
+DEU.32:4 He is God, His works are true; And all His ways are judgment, A faithful God and without injustice; Righteous and holy is the Lord.
 DEU.32:5 'They sinned; the blameworthy children are not His, A generation twisted and perverse.
 DEU.32:6 Is this how you repay the Lord, O foolish and unwise people? Is He not your Father, who acquired you? Has He not made and created you?
 DEU.32:7 'Remember the days of old, Consider the years of many generations. Ask your father, and he will tell you; Your elders, and they will tell you:
 DEU.32:8 When the Most High divided the nations, When He scattered the sons of Adam, He set the boundaries of the nations By the number of God's angels.
 DEU.32:9 For the Lord's portion became the people of Jacob; The allotment of His inheritance is Israel.
-DEU.32:10 'He provided for him in the desert, In thirst of heat in awaterless place. He encircled him; He instructed him; He guarded him carefully as the apple of His ey e.
+DEU.32:10 'He provided for him in the desert, In thirst of heat in a waterless place. He encircled him; He instructed him; He guarded him carefully as the apple of His eye.
 DEU.32:11 As an eagle covers its nest, Yearns after its young, Spreading out its wings, taking them up, Carrying them on its back,
 DEU.32:12 So the Lord alone led them, And there was no foreign god with them.
 DEU.32:13 'He raised them on the strength of the land; He fed them on the produce of the fields; He suckled them on honey from the rock And oil from the solid rock,
 DEU.32:14 Butter of oxen and milk of sheep, With fat of lambs and goats, Of sons of bulls and goats, With the choicest wheat; And you drank wine, the blood of grapes.
-DEU.32:15 'So Jacob ate and was filled, and the beloved kicked; He grew fat, he grew thick, he is obese. Then he forsook God who made him And stood back from God his Sav ior.
+DEU.32:15 'So Jacob ate and was filled, and the beloved kicked; He grew fat, he grew thick, he is obese. Then he forsook God who made him And stood back from God his Savior.
 DEU.32:16 They provoked Me to wrath against foreign gods; With their abominations they embittered Me.
 DEU.32:17 They sacrificed to demons, and not to God, To gods they did not know; New ones, recent gods arrived, Which their fathers did not know.
 DEU.32:18 You abandoned the God who begot you, And forgot the God who nourished you.
 DEU.32:19 'So the Lord saw it, and was jealous; And He was provoked to anger by His sons and daughters.
 DEU.32:20 Then He said, 'I will turn My face from them, And I will make known what their end will be; For they are a perverse generation, Sons in whom is no faith.
-DEU.32:21 They provoked Me to jealousy by what is not God; They moved Me to anger by their idols; But I will provoke them to jealousy by those who are not a nation; I will movethem to anger by a foolish nation.
+DEU.32:21 They provoked Me to jealousy by what is not God; They moved Me to anger by their idols; But I will provoke them to jealousy by those who are not a nation; I will move them to anger by a foolish nation.
 DEU.32:22 For a fire is kindled in My anger, And shall burn to the lowest Hades; It shall consume the land with its produce And set on fire the foundations of the mountains.
 DEU.32:23 'I will gather evils on them; I will spend My arrows on them.
 DEU.32:24 They shall be wasted with hunger, Devoured by birds and incurable disease; I will also send against them the teeth of wild animals With the anger of things crawling on the earth.
 DEU.32:25 The sword shall make them childless outside, And fear from the inner chambers, For the young man and virgin, The nursing child with the elder of gray hairs.
 DEU.32:26 I said, 'I will scatter them; I will make their memory cease from among men,'
-DEU.32:27 But for the wrath of the enemy, lest they livelong, Lest their adv ersary make a joint attack, Lest they should say, 'Our hand is high; And it is not the Lord who did all this.' '
+DEU.32:27 But for the wrath of the enemy, lest they live long, Lest their adversary make a joint attack, Lest they should say, 'Our hand is high; And it is not the Lord who did all this.' '
 DEU.32:28 'For they are a nation void of counsel, Nor is there understanding in them.
 DEU.32:29 They were not wise to understand these things; Let them be concerned for the coming time.
 DEU.32:30 How could one chase a thousand And two put ten thousand to flight Unless God had sold them, And the Lord delivered them up?
 DEU.32:31 For our God is not like their gods, But our enemies are foolish.
-DEU.32:32 For their viney ard is of the viney ard of Sodom, And their vine is of Gomorrah; Their grapes are grapes of gall; Their clusters are bitter.
+DEU.32:32 For their vineyard is of the vineyard of Sodom, And their vine is of Gomorrah; Their grapes are grapes of gall; Their clusters are bitter.
 DEU.32:33 Their wine is the wrath of serpents, And the incurable wrath of asps.
 DEU.32:34 'Behold, is this not laid up in store with Me, Sealed up among My treasures?
 DEU.32:35 I shall repay on the day of vengeance; In time, when their foot shall slip; For the day of their calamity is at hand, And is waiting, ready for them.'
 DEU.32:36 'For the Lord will judge His people, And have compassion on His servants; For He sees them disabled And left in distress and weakened.
 DEU.32:37 The Lord said, 'Where are their gods in which they trusted?
 DEU.32:38 Who ate the fat of their sacrifices, And drank the wine of their drink offerings? Let them rise and help you And be your defender.
-DEU.32:39 'Now see, I, ev en I, am He, And there is no God besides Me; I kill and I make alive; I wound and I heal; Nor is there any who can deliver from My hands.
-DEU.32:40 For I raise My hand to heaven, And I swear by My right hand, and say, 'As I liveforever,
+DEU.32:39 'Now see, I, even I, am He, And there is no God besides Me; I kill and I make alive; I wound and I heal; Nor is there any who can deliver from My hands.
+DEU.32:40 For I raise My hand to heaven, And I swear by My right hand, and say, 'As I live forever,
 DEU.32:41 for I whet My sword like lightning; And My hand takes hold on judgment. I will render vengeance on My enemies, And repay those who hate Me.
 DEU.32:42 I will make My arrows drunk from blood; And My sword shall devour flesh From the blood of the slain and the captives, From the heads of the leaders of the enemy.' '
 
 ### Moses' Last Instructions
 
-DEU.32:43 'Rejoice, O Heavens, together with Him, And worship Him, all the sons of God; Rejoice, O Gentiles, with His people; And let all the angels of God be strong with Him; For He will av enge the blood of His sons And render vengeance to His adv ersaries;
+DEU.32:43 'Rejoice, O Heavens, together with Him, And worship Him, all the sons of God; Rejoice, O Gentiles, with His people; And let all the angels of God be strong with Him; For He will avenge the blood of His sons And render vengeance to His adversaries;
 DEU.32:44 So Moses wrote this ode on that day and taught it to the children of Israel. Then Moses came with Joshua the son of Nun and spoke all the words of this law in the hearing of the people.
 DEU.32:45 Now Moses finished speaking to all Israel;
 DEU.32:46 and he said to them, 'Take heed in And the Lord will purify His people's land.'
@@ -1197,19 +1197,19 @@ DEU.32:51 because you disobeyed My word among the children of Israel during the 
 DEU.32:52 Yet you shall see the land at a distance, though you shall not go there.'
 ## Chapter 33
 
-DEU.33:1 Now this is the blessing with which Moses the man of God blessed the sons of Isr
+DEU.33:1 Now this is the blessing with which Moses the man of God blessed the sons of Israel before his death.
 DEU.33:2 Thus he said: 'The Lord came down from Sinai And appeared to us from Seir; He hastened from Mount Paran Along with myriads at Kadesh, angels with Him at His right hand;
 DEU.33:3 And He spared His people And all the sanctified ones under Your hands; And these are under You, And received the law from His words
 DEU.33:4 Which Moses commanded us, A heritage of the congregations of Jacob.
 DEU.33:5 And there shall be a Ruler among the beloved people When the rulers of the people are gathered, Together with the tribes of Israel.
 DEU.33:6 'Let Reuben live, and not die, And let him be many in number.'
-DEU.33:7 'Hear, O Lord, the voice of Judah, And let him visit his people; His hands will judge for him, And may You be a help against his enemies.' †
+DEU.33:7 'Hear, O Lord, the voice of Judah, And let him visit his people; His hands will judge for him, And may You be a help against his enemies.'
 DEU.33:8 'Give to Levi, to the holy man, his Urim and Thummim, Him whom they tested with testing, Whom they reviled at the Water of Contention,
-DEU.33:9 Who says to his father and mother, 'I havenot seen you'; Nor did he know his brothers or his own children; They guarded Your oracles And kept Your covenant. †
+DEU.33:9 Who says to his father and mother, 'I have not seen you'; Nor did he know his brothers or his own children; They guarded Your oracles And kept Your covenant.
 DEU.33:10 They shall manifest Your judgments to Jacob And Your law to Israel.
 DEU.33:11 They shall lay incense when You are angry Continually on Your altar. Bless his strength, O Lord, And accept the works of his hands; Bring down the loins of those who rise against him And of those who hate him, so they rise not again.'
 DEU.33:12 'Beloved by the Lord, he shall dwell in hope, And God shall overshadow him all his days; And he rested between his shoulders.'
-DEU.33:13 'Blessed of the Lord is his land, Of the seasons of heaven, of the dew And of the deep springs ly ing beneath,
+DEU.33:13 'Blessed of the Lord is his land, Of the seasons of heaven, of the dew And of the deep springs lying beneath,
 DEU.33:14 And in due season of the produce of the solar cycle And of the conjunction of the months,
 DEU.33:15 Both from the top of the ancient mountains And from the top of the everlasting hills;
 DEU.33:16 And in due season of the fullness of the land And the things acceptable to the One revealed in the Bush. May these things come 'upon the head of Joseph, And on the crown of the one glorified among his brothers.'
@@ -1220,9 +1220,9 @@ DEU.33:20 'Blessed is He who enlarges Gad; He rested as a lion And crushed the a
 DEU.33:21 He saw his firstfruit, Because the land of the rulers was apportioned there, When the rulers were gathered together With the rulers of the people. The Lord administered righteousness And His judgments with Israel.'
 DEU.33:22 'Dan is a lion's cub, And he shall leap from Bashan.'
 DEU.33:23 'Naphtali has an abundance of acceptable things, And let him be full of blessing from the Lord. He shall inherit the sea and the south.'
-DEU.33:24 'Blessed is Asher bey ond sons, And let him be acceptable to his brothers. He shall dip his foot in oliveoil.
+DEU.33:24 'Blessed is Asher beyond sons, And let him be acceptable to his brothers. He shall dip his foot in olive oil.
 DEU.33:25 His sandals shall be iron and bronze; And as your days, so shall your strength be.
-DEU.33:26 There is no one like the God of the Beloved, Who rides upon heaven and who is your help, And the Magnificent One of the firmament, †
+DEU.33:26 There is no one like the God of the Beloved, Who rides upon heaven and who is your help, And the Magnificent One of the firmament,
 DEU.33:27 And the Protection of the rule of God, And who is under the strength of the everlasting arms.
 DEU.33:28 He will cast out the enemy from before your face, Saying, 'Destroy.' Then Israel shall dwell in hope, Alone in the land of Jacob, With grain and wine; And heaven is cloudy with dew for him.
 DEU.33:29 Blessed are you, O Israel.
@@ -1231,10 +1231,10 @@ DEU.33:31 Your Helper will defend you as with a shield; And the sword shall be y
 
 ### Moses' Death on Mount Nebo
 
-DEU.33:32 Your enemies shall speak falsely to you, And you shall tread on their neck.' †
+DEU.33:32 Your enemies shall speak falsely to you, And you shall tread on their neck.'
 ## Chapter 34
 
-DEU.34:1 Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, 
+DEU.34:1 Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah,
 DEU.34:2 and all the land of Naphtali, and all the land of Ephraim and Manasseh, and all the land of Judah as far as the Western Sea,
 DEU.34:3 and the desert, and the plain of the Valley of Jericho, the city of palm trees, as far as Zoar.
 DEU.34:4 Then the Lord said to Moses, 'This is the land I swore to give Abraham, Isaac, and Jacob, saying, 'I will give it to your seed.' I show it to your eyes, but you shall not go in there.'

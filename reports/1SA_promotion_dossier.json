@@ -1,9 +1,9 @@
 {
   "book_code": "1SA",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:31:32.450186",
+  "timestamp": "2026-03-11T16:09:34.118721",
   "registry_version": "1.3.0",
-  "body_checksum": "e5594b968882bd6f6ba1a3ad8c23da4295dcc6643e3629e3116119ffd25ec75b",
+  "body_checksum": "b6dbb3814ed00f4c00e093c9c8a492a83ded0db18f22fdc627603e7d7b979dae",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -184,5 +184,5 @@
     ],
     "resolved": []
   },
-  "decision": "promoted"
+  "decision": "dry-run"
 }

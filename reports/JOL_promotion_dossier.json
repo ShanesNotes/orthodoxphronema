@@ -1,7 +1,7 @@
 {
   "book_code": "JOL",
   "testament": "OT",
-  "timestamp": "2026-03-10T17:36:46.482129",
+  "timestamp": "2026-03-11T16:09:36.177439",
   "registry_version": "1.3.0",
   "body_checksum": "d47f004142627f256b93067e75c240663400e07b91bddf22c538177f522882ba",
   "validation": {
@@ -43,5 +43,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

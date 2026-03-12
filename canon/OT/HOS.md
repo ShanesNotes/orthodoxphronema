@@ -34,7 +34,7 @@ HOS.1:8 Now after she weaned Lo-Ruhamah, she conceived again and bore a son.
 
 ### Israel Will Be Restored
 
-HOS.1:9 So the Lord said, 'Call his name Lo-Ammi, For you are not My people, And I am not your God. †
+HOS.1:9 So the Lord said, 'Call his name Lo-Ammi, For you are not My people, And I am not your God.
 
 ### Trusting Other Nations Is Futile
 
@@ -46,7 +46,7 @@ HOS.1:11 The children of Judah and the children of Israel Shall be gathered toge
 
 ## Chapter 2
 
-HOS.2:1 'Say to your brother, 'My People,' And to your sister, 'Pitied.''
+HOS.2:1 “Say to your brother, ‘My People,’ And to your sister, ‘Pitied.’ Gomer and Israel Are Unfaithful
 
 HOS.2:2 'Plead with your mother, plead, For she is not My wife, And I am not her Husband. I will remove her fornication out of My presence And her adultery from between her breasts,
 
@@ -78,7 +78,7 @@ HOS.2:14 'Therefore, behold, I will lead her astray And make her as desolate, An
 HOS.2:15 I will give her possessions from there, And the Valley of Achor to open her understanding. She will be humbled there According to the days of her infancy, And according to the days of her coming up Out of the land of Egypt.
 HOS.2:16 'Then it shall come to pass in that day,' Says the Lord, 'That she will call Me 'My Husband,' And shall no longer call Me 'Baalim.'
 HOS.2:17 For I will take away the names of Baalim out of her mouth, And their names shall be remembered no more.
-HOS.2:18 In that day I will make a cove nant for them With the wild beasts of the field, And with the birds of the sky, And with the reptiles of the earth. I will break the bow, the sword, and the battle from off the earth, And will cause them to dwell safely.
+HOS.2:18 In that day I will make a covenant for them With the wild beasts of the field, And with the birds of the sky, And with the reptiles of the earth. I will break the bow, the sword, and the battle from off the earth, And will cause them to dwell safely.
 
 ### Warnings for Israel and Judah
 
@@ -209,7 +209,7 @@ HOS.7:16 They turned aside to nothing; They became as a stretched bow. Their pri
 ## Chapter 8
 
 HOS.8:1 Like an eagle against the house of the Lord, Because they broke My covenant And acted impiously against My law.
-HOS.8:2 They shall cry out to Me, say ing, 'O God, we know You.'
+HOS.8:2 They shall cry out to Me, saying, 'O God, we know You.'
 
 HOS.8:3 For Israel has turned away from good things; They have pursued an enemy.
 HOS.8:4 'They made kings for themselves, but not by Me. They have ruled, but they did not make it known to Me. They made idols for themselves with their silver and gold That they might be utterly destroyed.
@@ -313,7 +313,7 @@ HOS.11:12 'Ephraim has encompassed me with falsehood, And the house of Israel an
 
 ## Chapter 12
 
-HOS.12:1 But Ephraim is an evil spirit. He has chased the east wind all the day. He has multiplied empty and vain things And struck a cove nant with the Assyrians. He made business with oil in Egypt.
+HOS.12:1 But Ephraim is an evil spirit. He has chased the east wind all the day. He has multiplied empty and vain things And struck a covenant with the Assyrians. He made business with oil in Egypt.
 
 HOS.12:2 'The Lord has a judgment against Judah So as to punish Jacob according to his ways, And He will repay him according to his practices.
 HOS.12:3 He kicked his brother in the womb, And in his toils he regained strength with God.

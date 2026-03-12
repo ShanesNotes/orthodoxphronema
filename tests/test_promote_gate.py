@@ -542,6 +542,26 @@ class TestDossierSchema:
         assert dossier["validation"]["V7"]["status"] == "INFO"
         assert dossier["validation"]["V10"]["status"] == "SKIP"
 
+    def test_generate_dossier_does_not_fold_v10_into_v1(self, tmp_path):
+        """V10 warnings must not be misclassified as V1 warnings."""
+        promote = _setup_promote(tmp_path)
+        dossier = promote.generate_dossier(
+            "TST",
+            "OT",
+            errors=[],
+            warnings=[
+                "V4   Missing verses in ch.1: jumps from 3 to 5",
+                "V10  Absorbed content: TST.1:4 likely present in TST.1:5",
+            ],
+            sidecar=None,
+            body_checksum="abc",
+            registry_version="1.1.0",
+            decision="dry-run",
+        )
+        assert dossier["validation"]["V1"]["status"] == "PASS"
+        assert dossier["validation"]["V1"]["messages"] == []
+        assert dossier["validation"]["V4"]["status"] == "WARN"
+
     def test_dossier_records_staged_path(self, tmp_path):
         """Dossier should contain the staged file path."""
         _make_staged_file(tmp_path)

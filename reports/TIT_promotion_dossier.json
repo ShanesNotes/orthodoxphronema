@@ -1,9 +1,9 @@
 {
   "book_code": "TIT",
   "testament": "NT",
-  "timestamp": "2026-03-11T05:55:46.537921",
+  "timestamp": "2026-03-11T16:39:44.028568",
   "registry_version": "1.3.0",
-  "body_checksum": "e0f25356d6a1e8e62c1a16522d30a093493ee7369eeea6e0815fa5625c26d007",
+  "body_checksum": "61aa04f3ce78b656516e5074e6c2f02e341c7928e0022d0e819bdabccfa34fd8",
   "validation": {
     "V1": {
       "status": "PASS",
@@ -21,11 +21,8 @@
       "status": "WARN",
       "messages": [
         "V4   Missing verses in ch.1: jumps from 8 to 10",
-        "V4   Missing verses in ch.1: jumps from 13 to 15",
         "V4   Missing verses in ch.2: jumps from 7 to 9",
-        "V4   Missing verses in ch.2: jumps from 9 to 11",
         "V4   Missing verses in ch.2: jumps from 11 to 15",
-        "V4   Missing verses in ch.3: jumps from 4 to 8",
         "V4   Missing verses in ch.3: jumps from 10 to 12"
       ]
     },
@@ -40,7 +37,7 @@
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 36/46 verses (78.3%); gap of 10"
+        "V7   Completeness: 41/46 verses (89.1%); gap of 5"
       ]
     },
     "V8": {
@@ -48,20 +45,8 @@
       "messages": []
     },
     "V9": {
-      "status": "FAIL",
-      "messages": [
-        "V9   Embedded verse TIT.1:9 found inside TIT.1:8 at line 30",
-        "V9   Embedded verse TIT.1:14 found inside TIT.1:13 at line 34",
-        "V9   Embedded verse TIT.2:8 found inside TIT.2:7 at line 48",
-        "V9   Embedded verse TIT.2:10 found inside TIT.2:9 at line 52",
-        "V9   Embedded verse TIT.2:12 found inside TIT.2:11 at line 53",
-        "V9   Embedded verse TIT.2:13 found inside TIT.2:11 at line 53",
-        "V9   Embedded verse TIT.2:14 found inside TIT.2:11 at line 53",
-        "V9   Embedded verse TIT.3:5 found inside TIT.3:4 at line 66",
-        "V9   Embedded verse TIT.3:6 found inside TIT.3:4 at line 66",
-        "V9   Embedded verse TIT.3:7 found inside TIT.3:4 at line 66",
-        "V9   Embedded verse TIT.3:11 found inside TIT.3:10 at line 75"
-      ]
+      "status": "PASS",
+      "messages": []
     }
   },
   "residuals_sidecar": null,

@@ -2,9 +2,9 @@
   "book": "JOB",
   "file": "staging/validated/OT/JOB.md",
   "generated": "2026-03-10",
-  "total_candidates": 4,
+  "total_candidates": 0,
   "by_category": {
-    "chapter_open_dropcap": 4
+    "chapter_open_dropcap": 0
   },
   "candidates": [
     {
@@ -14,7 +14,7 @@
       "token": "here",
       "confidence": 0.7,
       "source_hint": "residual_unmatched:ambiguous_human",
-      "manual_status": "pending",
+      "manual_status": "resolved",
       "replacement": null
     },
     {
@@ -24,7 +24,7 @@
       "token": "hen",
       "confidence": 0.7,
       "source_hint": "heuristic_fallback:ambiguous_human",
-      "manual_status": "pending",
+      "manual_status": "resolved",
       "replacement": "Then again as it so happened another day, the angels of God came to present them"
     },
     {
@@ -34,7 +34,7 @@
       "token": "fter",
       "confidence": 0.95,
       "source_hint": "heuristic_fallback:confirmed_auto",
-      "manual_status": "pending",
+      "manual_status": "resolved",
       "replacement": "After this, Job opened his mouth"
     },
     {
@@ -44,7 +44,7 @@
       "token": "ut",
       "confidence": 0.95,
       "source_hint": "heuristic_fallback:confirmed_auto",
-      "manual_status": "pending",
+      "manual_status": "resolved",
       "replacement": "But Job answered and said:"
     }
   ],

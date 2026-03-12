@@ -55,6 +55,8 @@ def resolve_book_defaults(book_code: str) -> dict[str, str | int]:
     try:
         meta = book_meta(load_registry(), book_code)
     except ValueError:
+        meta = None
+    if meta is None:
         return {
             "book_name": book_code,
             "testament": "OT",
