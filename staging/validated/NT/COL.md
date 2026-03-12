@@ -14,6 +14,9 @@ has_additions: false
 
 ## Chapter 1
 
+### Greeting
+
+COL.1:1 Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother,
 
 ### Thanksgiving for Abundant Growth
 

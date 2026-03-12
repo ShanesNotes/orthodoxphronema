@@ -14,6 +14,12 @@ has_additions: false
 
 ## Chapter 1
 
+### Greeting
+
+2PE.1:1 Simon Peter, a bondservant and apostle of Jesus Christ, To those who have obtained like precious faith with us by the righteousness of our God and Savior Jesus Christ: †
+
+### Partakers of the Divine Nature
+
 2PE.1:2 Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,
 2PE.1:3 as His divine power has given to us all things that pertain to life and godliness, through the knowledge of Him who called us by glory and virtue,
 2PE.1:4 by which have been given to us exceedingly great and precious promises, that through these you may be partakers of the divine nature, having escaped the corruption that is in the world through lust.

@@ -108,15 +108,52 @@ All fixes executed. PDF verification used for every absent-verse decision.
 | **EPH** | 6/8/91.0% | **0/1/100.0%** | Ch0 deleted, orphaned headings removed, 4 V9 splits, EPH.3:2-7 renumbered, **EPH.2:1-7 recovered from PDF**, study article leak in 2:22 cleaned, 3:1 drop-cap fixed. |
 | **HEB** | 9/13/95.0% | **0/1/100.0%** | Orphaned headings removed, HEB.1:5 split into 1:5-8 (study article contamination removed), 1:12→13, 2:12→13, 3:6→7 splits, **10:8-10 recovered from PDF**, 8 drop-caps fixed, 1:4 article leak cleaned, 5:7 duplicate number fixed. |
 
-**NT totals**: 77 err / 107 warn → **56 err / 85 warn** (−21 err, −22 warn)
+### Extended sweep (all 27 NT books)
 
-### PDF verification summary
-- MAT.4:15-16, MAT.5:2: **NOT in PDF** — classified source-absent
+After the initial 3-book fix, a full-NT sweep was executed covering all remaining error books.
+
+| Book | Before | After | Key fixes |
+|------|--------|-------|-----------|
+| **ROM** | 4 err / — | **0/1/99.5%** | Ch9:1-7 reordered + article cleanup, ch9:23-29 V9 splits (6 verses recovered), ch2:1-10 inserted from PDF, ch11:8→9 split, ch11:34→35 re-anchored + v34 inserted, ch3:1/10:1/11:1 drop-caps |
+| **1TH** | 2 err / — | **0/0/100%** | Ch1:1+1:5 split from fused anchor, reordered, dup heading deleted, 4 drop-caps |
+| **1TI** | 4 err / — | **0/1/100%** | Ch1:1-7 fully restructured (article cleanup + reorder), ch2:1-4 inserted from PDF, ch3 heading repositioned, 6:20→21 V9 split, 4 drop-caps |
+| **1JN** | 3 err / — | **0/1/100%** | Ch1:7-8 cleaned of article text + reordered, 4 drop-caps |
+| **ACT** | — | **0/1/100%** | 1:19→20 split, 2:16 inserted from PDF, 13:34→35 split, 2:1 drop-cap |
+| **1CO** | — | **0/1/97.8%** | 1:4-8 cleaned of article text + split into 5 clean verses |
+| **MAT** | — | **0/2** | 4:14→15+16 inserted from PDF, 5:1+5:2 inserted from PDF, 5:1 drop-cap |
+| **LUK** | — | **0/3** | 4:10→11 split |
+| **REV** | — | **0/2/99.8%** | 16:17 drop-cap, 16:18 recovered, 17:1-2 recovered + 17:17-18 corrected (were cross-contaminated) |
+| **PHP** | — | **0/1** | Ch0 deleted |
+| **COL** | — | **0/2/96.0%** | 1:1 inserted from PDF |
+| **JAS** | — | **0/0/100%** | 1:1 inserted from PDF |
+| **2PE** | — | **0/1/100%** | 1:1 inserted from PDF |
+| **1PE** | — | **0/2** | 2:7→8 V9 split |
+
+**Final NT totals**: 77 err / 107 warn → **0 err / 32 warn**
+
+19/27 books at 100% verse completeness. 0 errors across all 27 books.
+
+### PDF verification summary (complete)
+- MAT.4:15-16, MAT.5:2: **ALL in PDF** — recovered (poetry block + truncation)
 - EPH.2:1-7: **ALL in PDF** — recovered (were article-cleanup casualties)
 - HEB.1:6-8, 1:13: **ALL in PDF** — embedded in 1:5 and 1:12, split out
 - HEB.2:13: **In PDF** — embedded in 2:12, split out
 - HEB.3:7: **In PDF** — embedded in 3:6, split out
 - HEB.10:8-10: **ALL in PDF** — were simply missing from extraction, inserted
+- ROM.2:1-10: **ALL in PDF** — were simply missing from extraction, inserted
+- ROM.11:9: **In PDF** — embedded in 11:8, split out
+- ROM.11:34-35: **In PDF** — v34 was missing, v35 was mis-anchored as v34
+- 1CO.1:7-8: **In PDF** — embedded in article-contaminated 1:5 line, split out
+- ACT.1:20: **In PDF** — embedded in 1:19, split out
+- ACT.2:16: **In PDF** — was simply missing from extraction, inserted
+- ACT.13:35: **In PDF** — embedded in 13:34, split out
+- REV.16:18: **In PDF** — was mis-anchored as 17:18 (cross-contaminated with actual 17:18)
+- REV.17:1-2: **In PDF** — were mis-anchored inside 17:17
+- LUK.4:11: **In PDF** — embedded in 4:10, split out
+- COL.1:1: **In PDF** — was simply missing from extraction, inserted
+- JAS.1:1: **In PDF** — was simply missing from extraction, inserted
+- 2PE.1:1: **In PDF** — was simply missing from extraction, inserted
+- 1TI.2:1-4: **ALL in PDF** — were simply missing from extraction, inserted
 
 ## Verification
 

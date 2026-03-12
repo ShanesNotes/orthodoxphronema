@@ -29,9 +29,11 @@ has_additions: false
 
 ### Greeting
 
-1CO.1:4 The subthemes of this epistle are found in the sections Paul writes to answer specific problems or concerns in the church. I thank my God always concerning you for the grace of God which was given to you by Christ Jesus,
-1CO.1:5 1. Factionalism (1:10-3:23 ) Civil lawsuits (4:1-21; 6:1-8 ) Sexual immorality (5:1-13; 6:9-7:40 ) Meat sacrificed to idols (8:1-9:27 ) Eucharistic theology and practice (10:1-11:34 ) Spiritual gifts (12:1-14:40 ) Resurrection life (15:1-16:24 ) Background -There were a number of problems in the Corinthian church to which Paul responds in this letter. These problems include: (a) Church disunity. Many Corinthian Christians had broken into several factions based on improper loyalty to particular Christian leaders (1:12). (b) Doctrinal speculations. Erroneous teaching thrived in Corinth, particularly that of the gnostic variety. (c) Moral failure. The Corinthian church, free from persecution, became spiritually weak and succumbed to the moral failure the city was famous for. (d) Dealing with pagan religions. Christians in Corinth could not agree about how to respond to idolatry. (e) Self-centeredness and spiritual gifts. Corinth was brilliantly endowed with spiritual gifts, perhaps as the Holy Spirit's counter to the hedonism there. But the self-centeredness of the gifted ones brought dishonor to God. that you were enriched in everything by Him in all utterance and all knowledge, 6 even as the testimony of Christ was confirmed in you, 7 so that you come short in no gift, eagerly waiting for the revelation of our Lord Jesus Christ, 8 who will also confirm you to the end, that you may be blameless in the day of our Lord Jesus Christ.
-1CO.1:6 The internal evidence of 1 and
+1CO.1:4 I thank my God always concerning you for the grace of God which was given to you by Christ Jesus,
+1CO.1:5 that you were enriched in everything by Him in all utterance and all knowledge,
+1CO.1:6 even as the testimony of Christ was confirmed in you,
+1CO.1:7 so that you come short in no gift, eagerly waiting for the revelation of our Lord Jesus Christ,
+1CO.1:8 who will also confirm you to the end, that you may be blameless in the day of our Lord Jesus Christ.
 
 ### Reported Contentiousness in the Church
 

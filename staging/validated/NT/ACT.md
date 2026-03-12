@@ -41,7 +41,8 @@ ACT.1:15 And in those days Peter stood up in the midst of the disciples a (altog
 ACT.1:16 'Men and brethren, this Scripture had to be fulfilled, which the Holy Spirit spoke before by the mouth of David concerning Judas, who became aguide to those who arrested Jesus;
 ACT.1:17 for he was numbered with us and obtained apart in this ministry.'
 ACT.1:18 (Now this man purchased afield with the wages of iniquity; and falling headlong, he burst open in the middle and all his entrails gushed out.
-ACT.1:19 And it became known to all those dwelling in Jerusalem; so that field is called in their own language, Akel Dama, that is, Field of Blood.) 'Let his dwelling place be desolate, And let no one live in it'; a and, 'Let b another take his office.' c†
+ACT.1:19 And it became known to all those dwelling in Jerusalem; so that field is called in their own language, Akel Dama, that is, Field of Blood.)
+ACT.1:20 For it is written in the Book of Psalms: 'Let his dwelling place be desolate, And let no one live in it'; a and, 'Let b another take his office.' c†
 ACT.1:21 'Therefore, of these men who have accompanied us all the time that the Lord Jesus went in and out among us,
 ACT.1:22 beginning from the baptism of John to that day when He was taken up from us, one of these must become awitness with us of His resurrection.'
 ACT.1:23 And they proposed two: Joseph called Barsabas, who was surnamed Justus, and Matthias.
@@ -53,7 +54,7 @@ ACT.1:25 to take part in this ministry and apostleship from which Judas by trans
 ACT.1:26 And they cast their lots, and the lot fell on Matthias. And he was numbered with the eleven apostles.
 ## Chapter 2
 
-ACT.2:1 hen the Day of Pentecost had fully come, they were all with one accord ain one place.
+ACT.2:1 When the Day of Pentecost had fully come, they were all with one accord ain one place.
 ACT.2:2 And suddenly there came asound from heaven, as of arushing mighty wind, and it filled the whole house where they were sitting.
 ACT.2:3 Then there appeared to them divided tongues, as of fire, and one sat upon each of them.
 ACT.2:4 And they were all filled with the Holy Spirit and began to speak with other tongues, as the Spirit gave them utterance.
@@ -74,6 +75,7 @@ ACT.2:14 But Peter, standing up with the eleven, raised his voice and said to th
 ### The Holy Spirit Has Come
 
 ACT.2:15 For these are not drunk, as you suppose, since it is only the third hour of the day.
+ACT.2:16 But this is what was spoken by the prophet Joel:
 ACT.2:17 'And it shall come to pass in the last days, says God, That I will pour out of My Spirit on all flesh; Your sons and your daughters shall prophesy, Your young men shall see visions, Your old men shall dream dreams.
 ACT.2:18 And on My menservants and on My maidservants I will pour out My Spirit in those days; And they shall prophesy.
 ACT.2:19 I will show wonders in heaven above And signs in the earth beneath: Blood and fire and vapor of smoke.
@@ -640,7 +642,8 @@ ACT.13:30 But God raised Him from the dead.
 ACT.13:31 He was seen for many days by those who came up with Him from Galilee to Jerusalem, who are His witnesses to the people.
 ACT.13:32 And we declare to you glad tidings-that promise which was made to the fathers.
 ACT.13:33 God has fulfilled this for us their children, in that He has raised up Jesus. As it is also written in the second Psalm:
-ACT.13:34 And that He raised Him from the dead, no more to return to corruption, He has spoken thus: 'I will give you the sure mercies of David.' a 'You will not allow Your Holy One to see corruption.' a
+ACT.13:34 And that He raised Him from the dead, no more to return to corruption, He has spoken thus: 'I will give you the sure mercies of David.' a
+ACT.13:35 Therefore He also says in another Psalm: 'You will not allow Your Holy One to see corruption.' a
 ACT.13:36 'For David, after he had served his own generation by the will of God, fell asleep, was buried with his fathers, and saw corruption;
 ACT.13:37 but He whom God raised up saw no corruption.
 ACT.13:38 Therefore let it be known to you, brethren, that through this Man is preached to you the forgiveness of sins;

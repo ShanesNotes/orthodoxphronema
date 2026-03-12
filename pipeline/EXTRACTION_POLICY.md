@@ -1,7 +1,7 @@
 # EXTRACTION POLICY — Orthodox Phronema Archive
 
 **Effective:** 2026-03-11
-**Authority:** Memo 88 (Phase 3 Ratified Spec), Frozen Decision #8
+**Authority:** Memo 88 (Phase 3 Ratified Spec), Frozen Decision #8; clarified by Memo 95
 **Owner:** Ark
 **Status:** Active
 
@@ -38,10 +38,33 @@ Every pdftotext recovery use must be recorded in the book's `BOOK_residuals.json
 - The date of recovery
 - The pdftotext version used
 
+## 2A. Notes / Footnotes Extraction Exception
+
+For OSB notes and footnotes page ranges only, `pdftotext` is authorized as the **primary extraction tool**.
+
+This exception is narrow and exists because the notes/footnotes pages are already a separate non-scripture substrate. For this content type, the archive's objective is verse-linked note recovery from the dedicated notes pages, not layout classification of scripture body text.
+
+### Notes / Footnotes Authorization
+
+`pdftotext` may be used as primary extraction when all of the following are true:
+
+1. The target pages come from a book's `footnotes` page range in `schemas/anchor_registry.json`.
+2. The output is written only to non-canon companion artifacts such as:
+   - `BOOK_footnotes.md`
+   - `BOOK_articles.md`
+   - diagnostic reports or reconciliation JSON
+3. The extraction is evidence-packaged with page-range, counts, and verification notes in a memo or report.
+
+### Notes / Footnotes Restrictions
+
+- This exception does **not** authorize `pdftotext` as a primary scripture extractor.
+- This exception does **not** authorize writing directly to `canon/`.
+- Marker hyperlinks and marker JSON remain secondary linkage metadata; they are not required as the primary anchor source when the notes pages themselves provide explicit verse labels.
+
 ### What pdftotext Cannot Do
 
 - pdftotext **may not** be used as a primary extraction tool for any book, partial or complete
-- pdftotext **may not** be used to extract footnotes, commentary, or study article content
+- pdftotext **may not** be used to extract scripture as a primary path
 - pdftotext output **may not** be committed to canon without passing the same V1–V9 gate that Docling output passes
 
 ## 3. No Other Extraction Tools Authorized
@@ -70,4 +93,4 @@ An extraction run that uses an unauthorized tool or uses pdftotext outside the r
 
 ---
 
-**Referenced by:** Memo 88 (Phase 3 Ratified Spec), Memo `RESEARCH_ARCHITECTURAL_PARADIGMS_20260310` (Action #3)
+**Referenced by:** Memo 88 (Phase 3 Ratified Spec), Memo 95 (NT Footnote Extraction Reset), Memo `RESEARCH_ARCHITECTURAL_PARADIGMS_20260310` (Action #3)

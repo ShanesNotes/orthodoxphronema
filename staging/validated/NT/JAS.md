@@ -14,6 +14,9 @@ has_additions: false
 
 ## Chapter 1
 
+### Greeting
+
+JAS.1:1 James, a bondservant of God and of the Lord Jesus Christ, To the twelve tribes which are scattered abroad: Greetings. †
 JAS.1:2 My brethren, count it all joy when you fall into various trials,
 JAS.1:3 knowing that the testing of your faith produces patience.
 

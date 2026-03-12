@@ -60,6 +60,18 @@ ROM.1:31 undiscerning, untrustworthy, unloving, unforgiving, aunmerciful;
 ROM.1:32 who, knowing the righteous judgment of God, that those who practice such things are deserving of death, not only do the same but also approve of those who practice them.
 ## Chapter 2
 
+### God's Righteous Judgment
+
+ROM.2:1 Therefore you are inexcusable, O man, whoever you are who judge, for in whatever you judge another you condemn yourself; for you who judge practice the same things.
+ROM.2:2 But we know that the judgment of God is according to truth against those who practice such things.
+ROM.2:3 And do you think this, O man, you who judge those practicing such things, and doing the same, that you will escape the judgment of God?
+ROM.2:4 Or do you despise the riches of His goodness, forbearance, and longsuffering, not knowing that the goodness of God leads you to repentance?
+ROM.2:5 But in accordance with your hardness and your impenitent heart you are treasuring up for yourself wrath in the day of wrath and revelation of the righteous judgment of God,
+ROM.2:6 who 'will render to each one according to his deeds': a
+ROM.2:7 eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality;
+ROM.2:8 but to those who are self-seeking and do not obey the truth, but obey unrighteousness-indignation and wrath,
+ROM.2:9 tribulation and anguish, on every soul of man who does evil, of the Jew first and also of the Greek;
+ROM.2:10 but glory, honor, and peace to everyone who works what is good, to the Jew first and also to the Greek.
 ROM.2:11 For there is no partiality with God.
 ROM.2:12 For as many as have sinned without law will also perish without law, and as many as have sinned in the law will be judged by the law
 ROM.2:13 (for not the hearers of the law are just in the sight of God, but the doers of the law will be justified;
@@ -88,7 +100,7 @@ ROM.2:28 For he is not a Jew who is one outwardly, nor is circumcision that whic
 ROM.2:29 but he is a Jew who is one inwardly; and circumcision is that of the heart, in the Spirit, not in the letter; whose praise is not from men but from God.
 ## Chapter 3
 
-ROM.3:1 hat advantage then has the Jew, or what is the profit of circumcision?
+ROM.3:1 What advantage then has the Jew, or what is the profit of circumcision?
 ROM.3:2 Much in every way! Chiefly because to them were committed the oracles of God.
 ROM.3:3 For what if some did not believe? Will their unbelief make the faithfulness of God without effect?
 ROM.3:4 Certainly not! Indeed, let God be true but every man aliar. As it is written: 'That You may be justified in Your words, And may overcome when You are judged.' a†
@@ -349,7 +361,7 @@ ROM.9:32 Why? Because they did not seek it by faith, but as it were, by the work
 ROM.9:33 As it is written: 'Behold, I lay in Zion a stumbling stone and rock of offense, And whoever believes on Him will not be put to shame.' a
 ## Chapter 10
 
-ROM.10:1 rethren, my heart's desire and prayer to God for Israel ais that they may be saved.
+ROM.10:1 Brethren, my heart's desire and prayer to God for Israel ais that they may be saved.
 ROM.10:2 For I bear them witness that they have azeal for God, but not according to knowledge.
 ROM.10:3 For they being ignorant of God's righteousness, and seeking to establish their own righteousness, have not submitted to the righteousness of God.
 
@@ -378,14 +390,15 @@ ROM.10:17 So then faith comes by hearing, and hearing by the word of God.
 ROM.10:18 'Their sound has gone out to all the earth, And their words to the ends of the world.' a 'I will provoke you to jealousy by those who are not a nation, I will move you to anger by a foolish nation.' a 'I was found by those who did not seek Me; I was made manifest to those who did not ask for Me.' a 'All day long I have stretched out My hands To a disobedient and contrary people.' a
 ## Chapter 11
 
-ROM.11:1 say then, has God cast away His people? Certainly not! For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
+ROM.11:1 I say then, has God cast away His people? Certainly not! For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
 ROM.11:2 God has not cast away His people whom He foreknew. Or do you not know what the Scripture says of Elijah, how he pleads with God against Israel, saying,
 ROM.11:3 'LORD, they have killed Your prophets and torn down Your altars, and I alone am left, and they seek my life'? a
 ROM.11:4 But what does the divine response say to him? 'I have reserved for Myself seven thousand men who have not bowed the knee to Baal.' a
 ROM.11:5 Even so then, at this present time there is aremnant according to the election of grace.
 ROM.11:6 And if by grace, then it is no longer of works; otherwise grace is no longer grace. a But if it is of works, it is no longer grace; otherwise work is no longer work.
 ROM.11:7 What then? Israel has not obtained what it seeks; but the elect have obtained it, and the rest were blinded.
-ROM.11:8 Just as it is written: 'God has given them a spirit of stupor, Eyes that they should not see And ears that they should not hear, To this very day.' a 'Let their table become a snare and a trap, A stumbling block and a recompense to them.
+ROM.11:8 Just as it is written: 'God has given them a spirit of stupor, Eyes that they should not see And ears that they should not hear, To this very day.' a
+ROM.11:9 And David says: 'Let their table become a snare and a trap, A stumbling block and a recompense to them.
 
 ### Gentiles Are Being Saved
 
@@ -419,7 +432,8 @@ ROM.11:31 even so these also have now been disobedient, that through the mercy s
 
 ROM.11:32 For God has committed them all to disobedience, that He might have mercy on all.
 ROM.11:33 Oh, the depth of the riches both of the wisdom and knowledge of God! How unsearchable are His judgments and His ways past finding out!
-ROM.11:34 And it shall be repaid to him?' a
+ROM.11:34 'For who has known the mind of the LORD? Or who has become His counselor?' a
+ROM.11:35 'Or who has first given to Him And it shall be repaid to him?' a
 
 ### Christian Renewal
 

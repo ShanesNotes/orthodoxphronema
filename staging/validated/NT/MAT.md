@@ -124,7 +124,9 @@ MAT.4:10 Then Jesus said to him, 'Away with you, a Satan! For it is written, 'Yo
 MAT.4:11 Then the devil left Him, and behold, angels came and ministered to Him.
 MAT.4:12 Repentance and the Kingdom (Mk 1:14, 15; Lk 4:14, 15; Jn 4:1-4) Now when Jesus heard that John had been put in prison, He departed to Galilee.
 MAT.4:13 And leaving Nazareth, He came and dwelt in Capernaum, which is by the sea, in the regions of Zebulun and Naphtali,
-MAT.4:14 that it might be fulfilled which was spoken by Isaiah the prophet, saying: Light has dawned.' a †
+MAT.4:14 that it might be fulfilled which was spoken by Isaiah the prophet, saying:
+MAT.4:15 'The land of Zebulun and the land of Naphtali, By the way of the sea, beyond the Jordan, Galilee of the Gentiles:
+MAT.4:16 The people who sat in darkness have seen a great light, And upon those who sat in the region and shadow of death Light has dawned.' a †
 
 ### The First Disciples
 
@@ -146,7 +148,8 @@ MAT.4:25 Great multitudes followed Him-from Galilee, and from Decapolis, Jerusal
 MAT.4:26 (Lk 6:20-49)
 ## Chapter 5
 
-MAT.5:1 nd seeing the multitudes, He went up on amountain, and when He was seated His
+MAT.5:1 And seeing the multitudes, He went up on amountain, and when He was seated His disciples came to Him.
+MAT.5:2 Then He opened His mouth and taught them, saying:
 MAT.5:3 'Blessed are the poor in spirit, For theirs is the kingdom of heaven. †
 MAT.5:4 Blessed are those who mourn, For they shall be comforted. †
 MAT.5:5 Blessed are the meek, For they shall inherit the earth. †

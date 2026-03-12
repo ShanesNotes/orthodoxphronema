@@ -33,10 +33,12 @@ def normalize_text(text: str) -> str:
     t = re.sub(r' {2,}', ' ', t)
     return t.strip()
 
-def parse_footnotes(text: str, book_code: str) -> list[dict]:
+def parse_footnotes(text: str, book_code: str, max_chapters: int) -> list[dict]:
     lines = text.splitlines()
     notes = []
     current_note = None
+    last_ch = 0
+    last_v = 0
 
     for line in lines:
         line = line.strip()
@@ -45,17 +47,36 @@ def parse_footnotes(text: str, book_code: str) -> list[dict]:
 
         match = RE_ANCHOR.match(line)
         if match:
+            ch, v_start, v_end, body = match.groups()
+            ch_num = int(ch)
+            v_start_num = int(v_start)
+
+            # Wrapped cross-references can resemble note anchors; reject anything
+            # beyond the book boundary and preserve it as note body instead.
+            if ch_num > max_chapters:
+                if current_note:
+                    current_note["body_paras"].append(normalize_text(line))
+                continue
+
+            # Notes page anchors should progress monotonically through the book.
+            if ch_num < last_ch or (ch_num == last_ch and v_start_num <= last_v):
+                if current_note:
+                    current_note["body_paras"].append(normalize_text(line))
+                continue
+
             # Save previous note
             if current_note:
                 notes.append(current_note)
 
-            ch, v_start, v_end, body = match.groups()
             anchor = f"{book_code}.{ch}:{v_start}"
             if v_end:
                 # We record the range but use the start-verse as primary anchor
                 anchor_display = f"{ch}:{v_start}-{v_end}"
             else:
                 anchor_display = f"{ch}:{v_start}"
+
+            last_ch = ch_num
+            last_v = v_start_num
 
             current_note = {
                 "anchor": anchor,
@@ -93,15 +114,17 @@ def main():
         print(f"Error running pdftotext: {result.stderr}")
         return
 
-    notes = parse_footnotes(result.stdout, args.book)
-    print(f"[extract] Found {len(notes)} footnote entries.")
-
     # Build Markdown
     testament = "OT" # Default, could be looked up
+    max_chapters = 150
     for b in registry["books"]:
         if b["code"] == args.book:
             testament = b["testament"]
+            max_chapters = b["chapters"]
             break
+
+    notes = parse_footnotes(result.stdout, args.book, max_chapters)
+    print(f"[extract] Found {len(notes)} footnote entries.")
 
     out_path = STAGING / testament / f"{args.book}_footnotes.md"
     

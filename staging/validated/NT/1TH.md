@@ -14,19 +14,13 @@ has_additions: false
 
 ## Chapter 1
 
-
-
-
-
 ### Greeting and Thanksgiving
 
-1TH.1:5 Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ. a † For our gospel did not come to you in word only, but also in power, and in the Holy Spirit and in much assurance, as you know what kind of men we were among you for your sake.
+1TH.1:1 Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ. a †
 1TH.1:2 We give thanks to God always for you all, making mention of you in our prayers,
 1TH.1:3 remembering without ceasing your work of faith, labor of love, and patience of hope in our Lord Jesus Christ in the sight of our God and Father,
 1TH.1:4 knowing, beloved brethren, your election by God.
-
-### Greeting and Thanksgiving
-
+1TH.1:5 For our gospel did not come to you in word only, but also in power, and in the Holy Spirit and in much assurance, as you know what kind of men we were among you for your sake.
 1TH.1:6 And you became followers of us and of the Lord, having received the word in much affliction, with joy of the Holy Spirit,
 1TH.1:7 so that you became examples to all in Macedonia and Achaia who believe.
 1TH.1:8 For from you the word of the Lord has sounded forth, not only in Macedonia and Achaia, but also in every place. Your faith toward God has gone out, so that we do not need to say anything.
@@ -37,7 +31,7 @@ has_additions: false
 1TH.1:10 and to wait for His Son from heaven, whom He raised from the dead, even Jesus who delivers us from the wrath to come.
 ## Chapter 2
 
-1TH.2:1 or you yourselves know, brethren, that our coming to you was not in vain.
+1TH.2:1 For you yourselves know, brethren, that our coming to you was not in vain.
 1TH.2:2 But even aafter we had suffered before and were spitefully treated at Philippi, as you know, we were bold in our God to speak to you the gospel of God in much conflict.
 1TH.2:3 For our exhortation did not come from error or uncleanness, nor was it in deceit.
 1TH.2:4 But as we have been approved by God to be entrusted with the gospel, even so we speak, not as pleasing men, but God who tests our hearts.
@@ -65,7 +59,7 @@ has_additions: false
 1TH.2:20 For you are our glory and joy.
 ## Chapter 3
 
-1TH.3:1 herefore, when we could no longer endure it, we thought it good to be left in Athens alone,
+1TH.3:1 Therefore, when we could no longer endure it, we thought it good to be left in Athens alone,
 1TH.3:2 and sent Timothy, our brother and minister of God, and our fellow laborer in the gospel of Christ, to establish you and encourage you concerning your faith,
 1TH.3:3 that no one should be shaken by these afflictions; for you yourselves know that we are appointed to this.
 1TH.3:4 For, in fact, we told you before when we were with you that we would suffer tribulation, just as it happened, and you know.
@@ -86,7 +80,7 @@ has_additions: false
 1TH.3:13 so that He may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus Christ with all His saints.
 ## Chapter 4
 
-1TH.4:1 inally then, brethren, we urge and exhort in the Lord Jesus that you should abound more and more, just as you received from us how you ought to walk and to please God;
+1TH.4:1 Finally then, brethren, we urge and exhort in the Lord Jesus that you should abound more and more, just as you received from us how you ought to walk and to please God;
 1TH.4:2 for you know what commandments we gave you through the Lord Jesus.
 1TH.4:3 For this is the will of God, your sanctification: that you should abstain from sexual immorality;
 1TH.4:4 that each of you should know how to possess his own vessel in sanctification and honor,
@@ -112,7 +106,7 @@ has_additions: false
 1TH.4:18 Therefore comfort one another with these words.
 ## Chapter 5
 
-1TH.5:1 ut concerning the times and the seasons, brethren, you have no need that I should write to you.
+1TH.5:1 But concerning the times and the seasons, brethren, you have no need that I should write to you.
 1TH.5:2 For you yourselves know perfectly that the day of the Lord so comes as athief in the night.
 1TH.5:3 For when they say, 'Peace and safety!' then sudden destruction comes upon them, as labor pains upon apregnant woman. And they shall not escape.
 1TH.5:4 But you, brethren, are not in darkness, so that this Day should overtake you as athief.

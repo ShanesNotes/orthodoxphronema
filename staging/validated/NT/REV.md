@@ -457,12 +457,15 @@ REV.16:15 'Behold, I am coming as athief. Blessed is he who watches, and keeps h
 ### Bowl Seven: Earth Utterly Shaken
 
 REV.16:16 And they gathered them together to the place called in Hebrew, Armageddon. a
-REV.16:17 hen the seventh angel poured out his bowl into the air, and aloud voice came out of the temple of heaven, from the throne, saying, 'It is done!'
+REV.16:17 Then the seventh angel poured out his bowl into the air, and aloud voice came out of the temple of heaven, from the throne, saying, 'It is done!'
+REV.16:18 And there were noises and thunderings and lightnings; and there was agreat earthquake, such amighty and great earthquake as had not occurred since men were on the earth.
 REV.16:19 Now the great city was divided into three parts, and the cities of the nations fell. And great Babylon was remembered before God, to give her the cup of the wine of the fierceness of His wrath.
 REV.16:20 Then every island fled away, and the mountains were not found.
 REV.16:21 And great hail from heaven fell upon men, each hailstone about the weight of atalent. Men blasphemed God because of the plague of the hail, since that plague was exceedingly great.
 ## Chapter 17
 
+REV.17:1 Then one of the seven angels who had the seven bowls came and talked with me, saying to me, a 'Come, I will show you the judgment of the great harlot who sits on many waters,
+REV.17:2 with whom the kings of the earth committed fornication, and the inhabitants of the earth were made drunk with the wine of her fornication.'
 REV.17:3 So he carried me away in the Spirit into the wilderness. And I saw awoman sitting on ascarlet beast which was full of names of blasphemy, having seven heads and ten horns.
 REV.17:4 The woman was arrayed in purple and scarlet, and adorned with gold and precious stones and pearls, having in her hand agolden cup full of abominations and the filthiness of her fornication. a
 
@@ -483,14 +486,14 @@ REV.17:13 These are of one mind, and they will give their power and authority to
 REV.17:14 These will make war with the Lamb, and the Lamb will overcome them, for He is Lord of lords and King of kings; and those who are with Him are called, chosen, and faithful.'
 REV.17:15 Then he said to me, 'The waters which you saw, where the harlot sits, are peoples, multitudes, nations, and tongues.
 REV.17:16 And the ten horns which you saw on athe beast, these will hate the harlot, make her desolate and naked, eat her flesh and burn her with fire.
-REV.17:17 Then one of the seven angels who had the seven bowls came and talked with me, saying to me, a 'Come, I will show you the judgment of the great harlot who sits on many waters, 2 with whom the kings of the earth committed fornication, and the inhabitants of the earth were made drunk with the wine of her fornication.' For God has put it into their hearts to fulfill His purpose, to be of one mind, and to give their kingdom to the beast, until the words of God are fulfilled.
+REV.17:17 For God has put it into their hearts to fulfill His purpose, to be of one mind, and to give their kingdom to the beast, until the words of God are fulfilled.
 
 ### The Judgment of Babylon
 
-REV.17:18 And there were noises and thunderings and lightnings; and there was agreat earthquake, such amighty and great earthquake as had not occurred since men were on the earth. And the woman whom you saw is that great city which reigns over the kings of the earth.'
+REV.17:18 And the woman whom you saw is that great city which reigns over the kings of the earth.
 ## Chapter 18
 
-REV.18:1 fter these things I saw another angel coming down from heaven, having great authority, and the earth was illuminated with his glory.
+REV.18:1 After these things I saw another angel coming down from heaven, having great authority, and the earth was illuminated with his glory.
 REV.18:2 And he cried mightily awith aloud voice, saying, 'Babylon the great is fallen, is fallen, and has become adwelling place of demons, aprison for every foul spirit, and acage for every unclean and hated bird!
 REV.18:3 For all the nations have drunk of the wine of the wrath of her fornication, the kings of the earth have committed fornication with her, and the merchants of the earth have become rich through the abundance of her luxury.'
 REV.18:4 And I heard another voice from heaven saying, 'Come out of her, my people, lest you share in her sins, and lest you receive of her plagues.

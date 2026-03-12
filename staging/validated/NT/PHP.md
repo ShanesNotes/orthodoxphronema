@@ -12,11 +12,7 @@ deuterocanonical: false
 has_additions: false
 ---
 
-## Chapter 0
-
-
 ## Chapter 1
-
 
 ### Greeting
 

@@ -46,6 +46,10 @@ These are the durable memos still shaping current work. Read them alongside `mem
 | `88_phase3_ratified_spec.md` | Governing Phase 3 document — consolidates all adjudications, three-layer architecture, implementation sequencing. Supersedes both spec skeleton drafts. |
 | `89_ot_canon_lock_checkpoint.md` | OT canon lock checkpoint: `0` errors, `EST` as the only non-`V7` blocker, `V7` tail ready for ratification |
 | `91_ot_canon_lock_ratification_packet.md` | Active OT lock decision packet for the `17` V7-only books and `EST` disposition |
+| `93_companion_file_triage.md` | Companion normalization baseline and Phase 3 readiness gate |
+| `94_nt_wave1_companion_split.md` | NT Wave 1 companion transition: article-only split accepted |
+| `95_nt_footnote_extraction_reset.md` | NT companion reset: source footnote extraction from OSB footnote page ranges; `ROM` pilot next |
+| `96_rom_nt_footnote_pilot_and_long_horizon_plan.md` | `ROM` pilot complete; Wave 1 replacement extraction is the next NT companion lane |
 | `72_ot_closeout_control_reset_and_long_horizon_dispatch.md` | Current OT closeout routing and promotion order |
 | `67_phase3_schema_design.md` | Phase 3 schema draft awaiting ratification |
 | `68_nt_page_range_probe_request.md` | NT bootstrap prep, still deferred |

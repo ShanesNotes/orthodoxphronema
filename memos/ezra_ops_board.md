@@ -23,6 +23,7 @@ Live state source: `reports/book_status_dashboard.json`
 - The only remaining non-`V7` OT canon warning is `EST` (`V4`/`V10` around `EST.4:6`).
 - Canon-wide note markers (`†`, `ω`) have been removed from OT canon.
 - OT promotion is complete; route OT lock work from `reports/canon_ot_structural_audit.json` plus Memos `84`, `89`, and `91`, not from the older holdout packet chain.
+- Companion-layer census and Wave 1 NT transition are now complete enough to route from Memo `95`, not from the earlier provisional companion text.
 
 ## Today’s Dispatch
 | lane | owner | status | artifact | blocker | next_action | done_when |
@@ -35,6 +36,7 @@ Live state source: `reports/book_status_dashboard.json`
 | Historical residual Packet A | Ezra -> Human | active | `memos/51_historical_residual_ratification_packet_a.md` | Still awaiting human decision | Keep `JDG`, `1SA`, and `2SA` isolated from OT closeout packets | Human sees no more than 3 open ratification asks at once |
 | Promoted OT staged/canon resync | Ezra | queued | `memos/89_ot_canon_lock_checkpoint.md` | The canon-first lock pass proved several promoted OT staged files are not safe as a bulk re-promotion base | Defer until Memo 91 is decided, then triage which promoted OT books can be safely resynced to canon | Canon lock status and staged-source-of-truth status are no longer conflated |
 | Repo cleanup program | Ezra | active | `memos/85_long_horizon_repo_cleanup_program.md` | OT sprint left a large untracked helper/memo/variant tail | Triage the tail into `adopt`, `archive`, `consolidate`, and `delete_later` classes without destructive cleanup on the live branch | Long-horizon repo debt is explicit and no longer hidden in `git status` |
+| NT companion extraction reset | Ezra | active | `memos/96_rom_nt_footnote_pilot_and_long_horizon_plan.md` | `ROM` pilot is complete, but Wave 1 replacement extraction has not started yet | Use `ROM` as the acceptance baseline and dispatch source-footnote replacement for `LUK`, `MAT`, `JOH`, `ACT`, and `REV` | Wave 1 placeholder footnote files are replaced by source-derived footnote files and the next NT wave is clearly ranked |
 
 ## Standards Track
 - Link syntax frozen: `[[GEN.1:1]]` — applies everywhere outside `canon/` (ADJ-2 closed)
@@ -43,7 +45,7 @@ Live state source: `reports/book_status_dashboard.json`
 - Canon directory: `canon/{OT|NT}/BOOK.md` (ADJ-4 closed)
 - V11/V12: informational only, not promotion gates (ADJ-5 closed)
 - `canon_uri` format locked: `canon/{OT|NT}/BOOK.md#BOOK.CH:V`
-- Extraction policy codified: `pipeline/EXTRACTION_POLICY.md` — Docling primary, pdftotext recovery-only
+- Extraction policy codified: `pipeline/EXTRACTION_POLICY.md` — Docling primary for scripture, `pdftotext` authorized primary for notes/footnotes page ranges
 - Future non-canon frontmatter reuse: continue using plain anchor tokens in machine fields such as `canon_anchors_referenced`
 - Generated dashboard remains book-state only; standards visibility lives on this ops board
 
@@ -77,6 +79,13 @@ Live state source: `reports/book_status_dashboard.json`
   - `HEB` still has duplicate anchors, embedded verses, and `44` missing verses.
   - `EPH` remains the sharpest stabilization priority with chapter-zero drift, duplicate anchors, and a `50`-verse completeness gap.
 - Ark stays on NT stabilization by default; OT should only interrupt for parser/schema escalations or a ready promotion checkpoint.
+- Companion-layer dispatch has shifted from triage to extraction reset:
+  - Wave 1 (`LUK`, `MAT`, `JOH`, `ACT`, `REV`) is accepted as `article_only`
+  - legacy NT `_notes.md` files are now treated as article sources, not the primary source of NT footnotes
+  - NT real footnotes should come from the OSB footnote page ranges and the verse labels printed there
+  - marker files remain secondary linkage metadata for later structured wikilink work
+  - `ROM` pilot now proves the extraction path is viable: `137` extracted entries, `112 / 130` marker-anchor overlap, one invalid shared anchor (`ROM.16:25`)
+  - next extraction step is Wave 1 replacement (`LUK`, `MAT`, `JOH`, `ACT`, `REV`), not a broader marker-repair pass
 
 ## Blockers To Watch
 - OT promotion is complete, but OT canon is not yet formally locked; use Memo 91 as the active decision packet and Memo 89 as the checkpoint behind it.
@@ -109,6 +118,7 @@ Live state source: `reports/book_status_dashboard.json`
 - Historical residual packet (`JDG`, `1SA`, `2SA`) remains open but separate from the OT holdout lane
 - Phase 3 implementation: memo 86 → 87 → 88 integration (blocked on human ratification)
 - NT extraction is active under Ark
+- NT companion source-footnote replacement wave (`LUK`, `MAT`, `JOH`, `ACT`, `REV`) should follow the completed `ROM` pilot in Memo `96`
 
 ## Photius Handoff Outcomes
 - `accept` — evidence complete, scope allowed, verification clear

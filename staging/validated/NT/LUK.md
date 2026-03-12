@@ -258,7 +258,8 @@ LUK.4:6 And the devil said to Him, 'All this authority I will give You, and thei
 LUK.4:7 Therefore, if You will worship before me, all will be Yours.'
 LUK.4:8 And Jesus answered and said to him, 'Get behind Me, Satan! a For bit is written, 'You shall worship the Lord your God, and Him only you shall serve.' ' c
 LUK.4:9 Then he brought Him to Jerusalem, set Him on the pinnacle of the temple, and said to Him, 'If You are the Son of God, throw Yourself down from here.
-LUK.4:10 For it is written: 'He shall give His angels charge over you, To keep you,' † 'I n their hands they shall bear you up, Lest you dash your foot against a stone.' ' a
+LUK.4:10 For it is written: 'He shall give His angels charge over you, To keep you,' †
+LUK.4:11 and, 'In their hands they shall bear you up, Lest you dash your foot against a stone.' a
 LUK.4:12 And Jesus answered and said to him, 'It has been said, 'You shall not tempt the L ORD your God.' ' a
 
 ### Jesus' Galilean Ministry Begins

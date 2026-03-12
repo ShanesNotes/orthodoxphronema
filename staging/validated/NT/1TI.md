@@ -14,39 +14,21 @@ has_additions: false
 
 ## Chapter 1
 
-
-
-
-
-### Opposing Speculations with Faith
-
-
-
-### Opposing Speculations with Faith
-
-1TI.1:3 1. The role of clergy Combating heresy Care for women, widows, and slaves Money and ministry Background -First Timothy is both personal and pastoral. Whereas most of Paul's letters are addressed to the Church in a particular location, the pastoral epistles are written to instruct specific leaders-in this case Timothy, Bishop of Ephesus. Paul speaks as an experienced mentor instructing his student, his's on,' as apostle to younger apostle or bishop to youthful bishop. As I urged you when I went into Macedonia-remain in Ephesus that you may charge some that they teach no other doctrine,
-1TI.1:4 In Ephesus, some church members were promoting avariety of theological opinions -from the irrelevant to the dangerously heretical (1:3-7; 4:1, 2, 7; 6:3-5). These heterodox ideas were amosaic of Jewish (1:4, 7), ascetic (4:1-5), gnostic (4:4, 5), and docetic (2:5; 3:16; 6:13) thought. The Church was also dealing with external pressures of Hellenistic piety, the mystery religions, which made much use of the terms's alvation' and's avior,' and with the cult of emperor worship, according to which Caesar is 'Lord.' nor give heed to fables and endless genealogies, which cause disputes rather than godly edification which is in faith.
-
-### Opposing Legalism with Grace
-
-1TI.1:5 These letters hold incomparable insight into the historical workings of the early Church as guided by the Holy Spirit and are afoundational source for pastoral theology, for clergy and their relationship to the Church. Now the purpose of the commandment is love from apure heart, from agood conscience, and from sincere faith,
-
 ### Greeting
 
-1TI.1:6 Faithful Ministry in Doctrine and Worship: Church Order (1:3-2:15) Faithful doctrine (1:3-20) Faithful worship (2:1 -1 5) III. Faithful Ministry in Conduct and Care: Pastoral Care (3:1 -6:1 9) Faithful clergy (3:1 -1 6) Faithful care (4:1 -6:1 9) Conclusion: Keep the Tradition! (6:20, 21) 6 from which some, having strayed, have turned aside to idle talk,
-1TI.1:7 desiring to be teachers of the law, understanding neither what they say nor the things which they affirm.
-
-1TI.1:1 Paul, an apostle of Jesus Christ, by the commandment of God our Savior and the Lord Jesus Christ, our hope, Timothy was written before Paul's second imprisonment in Rome, perhaps from Macedonia (1:3).
-
-### Opposing Speculations with Faith
-
+1TI.1:1 Paul, an apostle of Jesus Christ, by the commandment of God our Savior and the Lord Jesus Christ, our hope,
 1TI.1:2 To Timothy, atrue son in the faith: Grace, mercy, and peace from God our Father and Jesus Christ our Lord.
 
+### Opposing Speculations with Faith
+
+1TI.1:3 As I urged you when I went into Macedonia-remain in Ephesus that you may charge some that they teach no other doctrine,
+1TI.1:4 nor give heed to fables and endless genealogies, which cause disputes rather than godly edification which is in faith.
+
 ### Opposing Legalism with Grace
 
-
-### Greeting
-
+1TI.1:5 Now the purpose of the commandment is love from apure heart, from agood conscience, and from sincere faith,
+1TI.1:6 from which some, having strayed, have turned aside to idle talk,
+1TI.1:7 desiring to be teachers of the law, understanding neither what they say nor the things which they affirm.
 
 ### Paul's Example: Salvation by Grace
 
@@ -71,6 +53,12 @@ has_additions: false
 1TI.1:20 of whom are Hymenaeus and Alexander, whom I delivered to Satan that they may learn not to blaspheme.
 ## Chapter 2
 
+### Faithfulness in Prayer
+
+1TI.2:1 Therefore I exhort first of all that supplications, prayers, intercessions, and giving of thanks be made for all men, †
+1TI.2:2 for kings and all who are in authority, that we may lead a quiet and peaceable life in all godliness and reverence.
+1TI.2:3 For this is good and acceptable in the sight of God our Savior, †
+1TI.2:4 who desires all men to be saved and to come to the knowledge of the truth.
 
 ### Faithful Lives Fitting for Prayer
 
@@ -87,11 +75,11 @@ has_additions: false
 
 1TI.2:15 Nevertheless she will be saved in childbearing if they continue in faith, love, and holiness, with self-control.
 
-### Qualifications for Bishops
-
 ## Chapter 3
 
-1TI.3:1 his is afaithful saying: If aman desires the position of abishop, ahe desires agood work.
+### Qualifications for Bishops
+
+1TI.3:1 This is afaithful saying: If aman desires the position of abishop, ahe desires agood work.
 1TI.3:2 A bishop then must be blameless, the husband of one wife, temperate, soberminded, of good behavior, hospitable, able to teach;
 1TI.3:3 not given to wine, not violent, not greedy for money, abut gentle, not quarrelsome, not covetous;
 1TI.3:4 one who rules his own house well, having his children in submission with all reverence
@@ -121,7 +109,7 @@ has_additions: false
 
 ### Orthodox Doctrine, Orthodox Spirituality
 
-1TI.4:1 ow the Spirit expressly says that in latter times some will depart from the faith, giving heed to deceiving spirits and doctrines of demons,
+1TI.4:1 Now the Spirit expressly says that in latter times some will depart from the faith, giving heed to deceiving spirits and doctrines of demons,
 1TI.4:2 speaking lies in hypocrisy, having their own conscience seared with ahot iron,
 1TI.4:3 forbidding to marry, and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth.
 1TI.4:4 For every creature of God is good, and nothing is to be refused if it is received with thanksgiving;
@@ -148,7 +136,7 @@ has_additions: false
 
 ### Care for Widows
 
-1TI.5:1 onot rebuke an older man, but exhort him as afather, younger men as brothers,
+1TI.5:1 Do not rebuke an older man, but exhort him as afather, younger men as brothers,
 1TI.5:2 older women as mothers, younger women as sisters, with all purity.
 1TI.5:3 Honor widows who are really widows.
 1TI.5:4 But if any widow has children or grandchildren, let them first learn to show piety at home and to repay their parents; for this is good and aacceptable before God.
@@ -181,7 +169,7 @@ has_additions: false
 1TI.5:25 Likewise, the good works of some are clearly evident, and those that are otherwise cannot be hidden.
 ## Chapter 6
 
-1TI.6:1 et as many bondservants as are under the yoke count their own masters worthy of all honor, so that the name of God and His doctrine may not be blasphemed.
+1TI.6:1 Let as many bondservants as are under the yoke count their own masters worthy of all honor, so that the name of God and His doctrine may not be blasphemed.
 
 ### Ministers of Greed
 
@@ -212,5 +200,5 @@ has_additions: false
 
 1TI.6:18 Let them do good, that they be rich in good works, ready to give, willing to share,
 1TI.6:19 storing up for themselves agood foundation for the time to come, that they may lay hold on eternal life.
-1TI.6:20 O Timothy! Guard what was committed to your trust, avoiding the profane and idle babblings and contradictions of what is falsely called knowledge- 21 by professing it some have strayed concerning the faith.
-1TI.6:21 Grace be with you. Amen.
+1TI.6:20 O Timothy! Guard what was committed to your trust, avoiding the profane and idle babblings and contradictions of what is falsely called knowledge-
+1TI.6:21 by professing it some have strayed concerning the faith. Grace be with you. Amen.

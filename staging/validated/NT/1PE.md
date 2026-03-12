@@ -64,7 +64,8 @@ has_additions: false
 1PE.2:4 Coming to Him as to aliving stone, rejected indeed by men, but chosen by God and precious,
 1PE.2:5 you also, as living stones, are being built up aspiritual house, aholy priesthood, to offer up spiritual sacrifices acceptable to God through Jesus Christ.
 1PE.2:6 Therefore it is also contained in the Scripture, 'Behold, I lay in Zion A chief cornerstone, elect, precious, And he who believes on Him will by no means be put to shame.' a
-1PE.2:7 Therefore, to you who believe, He is precious; but to those who are disobedient, a 'The stone which the builders rejected Has become the chief cornerstone,' b 'A stone of stumbling And a rock of offense.' a They stumble, being disobedient to the word, to which they also were appointed.
+1PE.2:7 Therefore, to you who believe, He is precious; but to those who are disobedient, a 'The stone which the builders rejected Has become the chief cornerstone,' b
+1PE.2:8 and 'A stone of stumbling And a rock of offense.' a They stumble, being disobedient to the word, to which they also were appointed.
 
 ### All Men and Women: Bondservants of God
 

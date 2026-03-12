@@ -14,16 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-
-
-### Walk in the Light: Confession
-
-
-1JN.1:7 1. Our communion with God and with each other The close relationship of faith, love, obedience, and life The close relationship between love of God and love of others The crucial importance of holding true faith A stark, eschatological contrast between the children of God and the children of the world Background -First John is a polemic against two identifiable groups: (a) false teachers with a gnostic bent; and (b) former members of the Church who were a threat to the faith of those remaining (2:27; 3:7). The polemic is mostly pastoral and positive, to protect God's people. While the addressee is not mentioned, this may be an encyclical to John's diocese of Asia. But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin.
-
 ### Introduction: The Incarnation
-
-1JN.1:8 Introduction: The Apostolic Witness to the Incarnation (1:1 -4) Liv e in the Light (1:5-2:27 ) A. Walk in the light of confessed sin (1:5-2:2) B. Keep Christ's commands of love (2:3-17 ) C. Remain in the true teaching about Christ (2:18-27 ) III. Liv e as God's Children (2:28-4:6) Be righteous (2:28-3:9) Lov e one another (3:1 0-24) Confess that Jesus is God in the flesh (4:1 -6) Liv e in Lov e and Faith (4:7 -5:1 3) God's love becomes our love (4:7 -5:3) Faith brings strength and life (5:4-1 3) Summary: Live in God (5:14-21) Pray according to God's will (5:1 4-1 7 ) Separate from sin and evil (5:1 8, 1 9) Liv e in Jesus Christ (5:20, 21 ) If we say that we have no sin, we deceive ourselves, and the truth is not in us.
 
 1JN.1:1 That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, concerning the Word of life-
 1JN.1:2 the life was manifested, and we have seen, and bear witness, and declare to you that eternal life which was with the Father and was manifested to us-
@@ -34,10 +25,8 @@ has_additions: false
 1JN.1:4 And these things we write to you that your ajoy may be full.
 1JN.1:5 This is the message which we have heard from Him and declare to you, that God is light and in Him is no darkness at all.
 1JN.1:6 If we say that we have fellowship with Him, and walk in darkness, we lie and do not practice the truth.
-
-
-### Introduction: The Incarnation
-
+1JN.1:7 But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin.
+1JN.1:8 If we say that we have no sin, we deceive ourselves, and the truth is not in us.
 1JN.1:9 If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.
 
 ### Keep God's Commandments of Love
@@ -45,7 +34,7 @@ has_additions: false
 1JN.1:10 If we say that we have not sinned, we make Him aliar, and His word is not in us.
 ## Chapter 2
 
-1JN.2:1 ylittle children, these things I write to you, so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous.
+1JN.2:1 My little children, these things I write to you, so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous.
 1JN.2:2 And He Himself is the propitiation for our sins, and not for ours only but also for the whole world.
 1JN.2:3 Now by this we know that we know Him, if we keep His commandments.
 1JN.2:4 He who says, 'I know Him,' and does not keep His commandments, is aliar, and the truth is not in him.
@@ -82,7 +71,7 @@ has_additions: false
 1JN.2:29 If you know that He is righteous, you know that everyone who practices righteousness is born of Him.
 ## Chapter 3
 
-1JN.3:1 ehold what manner of love the Father has bestowed on us, that we should be called children of God! a Therefore the world does not know us, bbecause it did not know Him.
+1JN.3:1 Behold what manner of love the Father has bestowed on us, that we should be called children of God! a Therefore the world does not know us, bbecause it did not know Him.
 1JN.3:2 Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is.
 1JN.3:3 And everyone who has this hope in Him purifies himself, just as He is pure.
 1JN.3:4 Whoever commits sin also commits lawlessness, and sin is lawlessness.
@@ -114,7 +103,7 @@ has_additions: false
 1JN.3:24 Now he who keeps His commandments abides in Him, and He in him. And by this we know that He abides in us, by the Spirit whom He has given us.
 ## Chapter 4
 
-1JN.4:1 eloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world.
+1JN.4:1 Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world.
 1JN.4:2 By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God,
 1JN.4:3 and every spirit that does not confess that a Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world.
 1JN.4:4 You are of God, little children, and have overcome them, because He who is in you is greater than he who is in the world.
@@ -152,7 +141,7 @@ has_additions: false
 1JN.4:21 And this commandment we have from Him: that he who loves God must love his brother also.
 ## Chapter 5
 
-1JN.5:1 hoever believes that Jesus is the Christ is born of God, and everyone who loves Him who begot also loves him who is begotten of Him.
+1JN.5:1 Whoever believes that Jesus is the Christ is born of God, and everyone who loves Him who begot also loves him who is begotten of Him.
 1JN.5:2 By this we know that we love the children of God, when we love God and keep His commandments.
 1JN.5:3 For this is the love of God, that we keep His commandments. And His commandments are not burdensome.
 1JN.5:4 For whatever is born of God overcomes the world. And this is the victory that has overcome the world-our afaith.
