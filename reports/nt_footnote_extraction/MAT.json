@@ -1,0 +1,16 @@
+{
+  "book": "MAT",
+  "status": "wave1_extraction",
+  "source_strategy": "pdftotext_primary_on_osb_footnote_pages",
+  "source_pages": [
+    8195,
+    8478
+  ],
+  "artifact": "staging/validated/NT/MAT_footnotes.md",
+  "entry_count": 280,
+  "parse_date": "2026-03-12",
+  "chapters_covered": 28,
+  "total_chapters": 28,
+  "first_anchor": "1:1",
+  "last_anchor": "28:20"
+}

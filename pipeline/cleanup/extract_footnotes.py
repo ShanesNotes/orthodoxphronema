@@ -51,6 +51,14 @@ def parse_footnotes(text: str, book_code: str, max_chapters: int) -> list[dict]:
             ch_num = int(ch)
             v_start_num = int(v_start)
 
+            # Wrapped cross-reference lines start with range continuations
+            # like "4:19–23; 7:16; ..." — reject these as false anchors.
+            body_stripped = (body or '').lstrip()
+            if body_stripped and body_stripped[0] in '–—;,)':
+                if current_note:
+                    current_note["body_paras"].append(normalize_text(line))
+                continue
+
             # Wrapped cross-references can resemble note anchors; reject anything
             # beyond the book boundary and preserve it as note body instead.
             if ch_num > max_chapters:

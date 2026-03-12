@@ -2,7 +2,7 @@
 book_code: ROM
 content_type: footnotes
 source: "OSB-v1"
-parse_date: "2026-03-11"
+parse_date: "2026-03-12"
 status: staging
 ---
 
@@ -258,11 +258,7 @@ is one who seeks praise . . . not from men but from God. The goal of the legalis
 
 have praise from men; the goal of the spiritual person is to please God.
 
-
-### 3:1
-*(anchor: ROM.3:1)*
-
-, 2 While the Gentiles can find God through their conscience (2:14-16, 25-29), they are
+3:1, 2 While the Gentiles can find God through their conscience (2:14-16, 25-29), they are
 
 not better off than the Jews. The Jews have the advantage of the oracles of God (that is,
 
@@ -1358,11 +1354,7 @@ to the law has always failed, faith in Christ brings salvation. Faith does not d
 
 whole person, heart, soul, mind, and body (vv. 9, 10).
 
-
-### 10:9
-*(anchor: ROM.10:9)*
-
-, 10
+10:9, 10
 
 This confession and belief are more than simply mental acknowledgment that
 
@@ -1730,11 +1722,7 @@ The Jewish Christians have passed on to the Gentiles the great gift of the gospe
 
 In return, the Gentiles are bound to share their material things with them (1Co 9:11).
 
-
-### 16:1
-*(anchor: ROM.16:1)*
-
-, 2 Phoebe was a leading Christian woman who was both a deaconess (servant here
+16:1, 2 Phoebe was a leading Christian woman who was both a deaconess (servant here
 
 is lit. "deaconess") and involved in missionary work. St. John Chrysostom notes that Paul
 
