@@ -1,11 +1,11 @@
 {
-  "book": "ROM",
+  "book": "1CO",
   "status": "extracted",
   "source_pages": [
-    9336,
-    9472
+    9473,
+    9599
   ],
-  "entry_count": 134,
+  "entry_count": 123,
   "parse_date": "2026-03-12",
   "chapters_covered": 16,
   "total_chapters": 16

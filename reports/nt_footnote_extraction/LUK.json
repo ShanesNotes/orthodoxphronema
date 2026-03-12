@@ -1,16 +1,12 @@
 {
   "book": "LUK",
-  "status": "wave1_extraction",
-  "source_strategy": "pdftotext_primary_on_osb_footnote_pages",
+  "status": "extracted",
   "source_pages": [
     8552,
     8822
   ],
-  "artifact": "staging/validated/NT/LUK_footnotes.md",
   "entry_count": 271,
   "parse_date": "2026-03-12",
   "chapters_covered": 24,
-  "total_chapters": 24,
-  "first_anchor": "1:2-3",
-  "last_anchor": "24:51"
+  "total_chapters": 24
 }

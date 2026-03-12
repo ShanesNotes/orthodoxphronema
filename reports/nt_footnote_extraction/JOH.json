@@ -1,16 +1,12 @@
 {
   "book": "JOH",
-  "status": "wave1_extraction",
-  "source_strategy": "pdftotext_primary_on_osb_footnote_pages",
+  "status": "extracted",
   "source_pages": [
     8823,
     9078
   ],
-  "artifact": "staging/validated/NT/JOH_footnotes.md",
   "entry_count": 252,
   "parse_date": "2026-03-12",
   "chapters_covered": 21,
-  "total_chapters": 21,
-  "first_anchor": "1:1",
-  "last_anchor": "21:25"
+  "total_chapters": 21
 }

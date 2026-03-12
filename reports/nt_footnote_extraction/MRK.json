@@ -1,12 +1,12 @@
 {
-  "book": "ROM",
+  "book": "MRK",
   "status": "extracted",
   "source_pages": [
-    9336,
-    9472
+    8479,
+    8551
   ],
-  "entry_count": 134,
+  "entry_count": 72,
   "parse_date": "2026-03-12",
-  "chapters_covered": 16,
+  "chapters_covered": 15,
   "total_chapters": 16
 }

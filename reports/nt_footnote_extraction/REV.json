@@ -1,16 +1,12 @@
 {
   "book": "REV",
-  "status": "wave1_extraction",
-  "source_strategy": "pdftotext_primary_on_osb_footnote_pages",
+  "status": "extracted",
   "source_pages": [
     10170,
     10373
   ],
-  "artifact": "staging/validated/NT/REV_footnotes.md",
   "entry_count": 182,
   "parse_date": "2026-03-12",
   "chapters_covered": 22,
-  "total_chapters": 22,
-  "first_anchor": "1:1",
-  "last_anchor": "22:21"
+  "total_chapters": 22
 }
