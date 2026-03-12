@@ -17,7 +17,7 @@ has_additions: false
 
 ### Greeting
 
-EPH.1:1 A pray er for revelation (1:1 5-23) III. Theology of Christ and His Church (2:1 -3:21 ) Salv ation as a gift for all (2:1 -1 0) The church as one household for all (2:11-22) The apostles as faithful messengers (3:1 -1 3) A pray er for the deification of the Church (3:1 4-21 ) Conduct of the Body of Christ (4:1 -6:20) As the body of Christ (4:1 -1 6) As children of God (4:1 7 -5:5) As partakers of light (5:6-21 ) As families in the Church (5:22-6:9) As soldiers of Christ (6:1 0-20) Conclusion (6:21-24) Paul, an apostle of Jesus Christ by the will of God, To the saints who are in Ephesus, and faithful in Christ Jesus: †
+EPH.1:1 Paul, an apostle of Jesus Christ by the will of God, To the saints who are in Ephesus, and faithful in Christ Jesus: †
 
 ### The Sovereignty of the Father
 
@@ -166,7 +166,7 @@ EPH.4:31 Let all bitterness, wrath, anger, clamor, and evil speaking be put away
 EPH.4:32 And be kind to one another, tenderhearted, forgiving one another, even as God in Christ forgave you.
 ## Chapter 5
 
-EPH.5:1 herefore be imitators of God as dear children.
+EPH.5:1 Therefore be imitators of God as dear children.
 
 ### Separate from Darkness
 
@@ -219,7 +219,7 @@ EPH.5:32 This is agreat mystery, but I speak concerning Christ and the church.
 EPH.5:33 Nevertheless let each one of you in particular so love his own wife as himself, and let the wife see that she respects her husband.
 ## Chapter 6
 
-EPH.6:1 hildren, obey your parents in the Lord, for this is right.
+EPH.6:1 Children, obey your parents in the Lord, for this is right.
 EPH.6:2 'Honor your father and mother,' which is the first commandment with promise:
 EPH.6:3 'that it may be well with you and you may live long on the earth.' a
 

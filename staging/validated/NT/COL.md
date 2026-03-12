@@ -65,7 +65,7 @@ COL.1:28 Him we preach, warning every man and teaching every man in all wisdom, 
 COL.1:29 To this end I also labor, striving according to His working which works in me mightily.
 ## Chapter 2
 
-COL.2:1 or I want you to know what agreat conflict I have for you and those in Laodicea, and for as many as have not seen my face in the flesh,
+COL.2:1 For I want you to know what agreat conflict I have for you and those in Laodicea, and for as many as have not seen my face in the flesh,
 COL.2:2 that their hearts may be encouraged, being knit together in love, and attaining to all riches of the full assurance of understanding, to the knowledge of the mystery of God, both of the Father and aof Christ,
 COL.2:3 in whom are hidden all the treasures of wisdom and knowledge.
 COL.2:4 Now this I say lest anyone should deceive you with persuasive words.
@@ -99,7 +99,7 @@ COL.2:22 which all concern things which perish with the using-according to the c
 COL.2:23 These things indeed have an appearance of wisdom in self-imposed religion, false humility, and neglect of the body, but are of no value against the indulgence of the flesh.
 ## Chapter 3
 
-COL.3:1 fthen you were raised with Christ, seek those things which are above, where Christ is, sitting at the right hand of God.
+COL.3:1 If then you were raised with Christ, seek those things which are above, where Christ is, sitting at the right hand of God.
 COL.3:2 Set your mind on things above, not on things on the earth.
 COL.3:3 For you died, and your life is hidden with Christ in God.
 COL.3:4 When Christ who is our life appears, then you also will appear with Him in glory.
@@ -132,7 +132,7 @@ COL.3:25 But he who does wrong will be repaid for what he has done, and there is
 
 ### Spirituality for the World
 
-COL.4:1 asters, give your bondservants what is just and fair, knowing that you also have a Master in heaven.
+COL.4:1 Masters, give your bondservants what is just and fair, knowing that you also have a Master in heaven.
 COL.4:2 Continue earnestly in prayer, being vigilant in it with thanksgiving;
 COL.4:3 meanwhile praying also for us, that God would open to us adoor for the word, to speak the mystery of Christ, for which I am also in chains,
 COL.4:4 that I may make it manifest, as I ought to speak.

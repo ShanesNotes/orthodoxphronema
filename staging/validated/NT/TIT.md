@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-TIT.1:1 aul, abondservant of God and an apostle of Jesus Christ, according to the faith of God's elect and the acknowledgment of the truth which accords with godliness,
+TIT.1:1 Paul, abondservant of God and an apostle of Jesus Christ, according to the faith of God's elect and the acknowledgment of the truth which accords with godliness,
 TIT.1:2 in hope of eternal life which God, who cannot lie, promised before time began,
 TIT.1:3 but has in due time manifested His word through preaching, which was committed to me according to the commandment of God our Savior;
 
@@ -41,7 +41,7 @@ TIT.1:15 To the pure all things are pure, but to those who are defiled and unbel
 TIT.1:16 They profess to know God, but in works they deny Him, being abominable, disobedient, and disqualified for every good work.
 ## Chapter 2
 
-TIT.2:1 ut as for you, speak the things which are proper for sound doctrine:
+TIT.2:1 But as for you, speak the things which are proper for sound doctrine:
 TIT.2:2 that the older men be sober, reverent, temperate, sound in faith, in love, in patience;
 TIT.2:3 the older women likewise, that they be reverent in behavior, not slanderers, not given to much wine, teachers of good things-
 TIT.2:4 that they admonish the young women to love their husbands, to love their children,
@@ -64,7 +64,7 @@ TIT.2:14 who gave Himself for us, that He might redeem us from every lawless dee
 TIT.2:15 Speak these things, exhort, and rebuke with all authority. Let no one despise you.
 ## Chapter 3
 
-TIT.3:1 emind them to be subject to rulers and authorities, to obey, to be ready for every good work,
+TIT.3:1 Remind them to be subject to rulers and authorities, to obey, to be ready for every good work,
 
 ### God's Kindness to Us
 

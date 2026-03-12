@@ -55,7 +55,7 @@ has_additions: false
 2CO.1:24 Not that we have dominion over your faith, but are fellow workers for your joy; for by faith you stand.
 ## Chapter 2
 
-2CO.2:1 ut I determined this within myself, that I would not come again to you in sorrow.
+2CO.2:1 But I determined this within myself, that I would not come again to you in sorrow.
 2CO.2:2 For if I make you sorrowful, then who is he who makes me glad but the one who is made sorrowful by me?
 2CO.2:3 And I wrote this very thing to you, lest, when I came, I should have sorrow over those from whom I ought to have joy, having confidence in you all that my joy is the joy of you all.
 
@@ -83,7 +83,7 @@ has_additions: false
 2CO.2:17 For we are not, as so many, apeddling the word of God; but as of sincerity, but as from God, we speak in the sight of God in Christ.
 ## Chapter 3
 
-2CO.3:1 owe begin again to commend ourselves? Or do we need, as some others, epistles of commendation to you or letters of commendation from you?
+2CO.3:1 Do we begin again to commend ourselves? Or do we need, as some others, epistles of commendation to you or letters of commendation from you?
 
 ### Paul's Sufficiency: The Life-Giving Spirit
 
@@ -115,7 +115,7 @@ has_additions: false
 2CO.3:18 But we all, with unveiled face, beholding as in amirror the glory of the Lord, are being transformed into the same image from glory to glory, just as by the Spirit of the Lord.
 ## Chapter 4
 
-2CO.4:1 herefore, since we have this ministry, as we have received mercy, we do not lose heart.
+2CO.4:1 Therefore, since we have this ministry, as we have received mercy, we do not lose heart.
 2CO.4:2 But we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by manifestation of the truth commending ourselves to every man's conscience in the sight of God.
 2CO.4:3 But even if our gospel is veiled, it is veiled to those who are perishing,
 2CO.4:4 whose minds the god of this age has blinded, who do not believe, lest the light of the gospel of the glory of Christ, who is the image of God, should shine on them.
@@ -144,7 +144,7 @@ has_additions: false
 2CO.4:18 while we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal.
 ## Chapter 5
 
-2CO.5:1 or we know that if our earthly house, this tent, is destroyed, we have abuilding from God, ahouse not made with hands, eternal in the heavens.
+2CO.5:1 For we know that if our earthly house, this tent, is destroyed, we have abuilding from God, ahouse not made with hands, eternal in the heavens.
 2CO.5:2 For in this we groan, earnestly desiring to be clothed with our habitation which is from heaven,
 2CO.5:3 if indeed, having been clothed, we shall not be found naked.
 2CO.5:4 For we who are in this tent groan, being burdened, not because we want to be unclothed, but further clothed, that mortality may be swallowed up by life.
@@ -179,7 +179,7 @@ has_additions: false
 2CO.5:21 For He made Him who knew no sin to be sin for us, that we might become the righteousness of God in Him.
 ## Chapter 6
 
-2CO.6:1 ethen, as workers together with Him also plead with you not to receive the grace of God in vain.
+2CO.6:1 We then, as workers together with Him also plead with you not to receive the grace of God in vain.
 2CO.6:2 For He says: 'In an acceptable time I have heard you, And in the day of salvation I have helped you.' a Behold, now is the accepted time; behold, now is the day of salvation.
 2CO.6:3 We give no offense in anything, that our ministry may not be blamed.
 2CO.6:4 But in all things we commend ourselves as ministers of God: in much patience, in tribulations, in needs, in distresses,
@@ -202,7 +202,7 @@ has_additions: false
 2CO.6:18 'I will be a Father to you, And you shall be My sons and daughters, Says the LORD Almighty.' a
 ## Chapter 7
 
-2CO.7:1 herefore, having these promises, beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.
+2CO.7:1 Therefore, having these promises, beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.
 2CO.7:2 Open your hearts to us. We have wronged no one, we have corrupted no one, we have cheated no one.
 2CO.7:3 I do not say this to condemn; for I have said before that you are in our hearts, to die together and to live together.
 
@@ -226,7 +226,7 @@ has_additions: false
 2CO.7:16 Therefore I rejoice that I have confidence in you in everything.
 ## Chapter 8
 
-2CO.8:1 oreover, brethren, we make known to you the grace of God bestowed on the churches of Macedonia:
+2CO.8:1 Moreover, brethren, we make known to you the grace of God bestowed on the churches of Macedonia:
 2CO.8:2 that in agreat trial of affliction the abundance of their joy and their deep poverty abounded in the riches of their liberality.
 2CO.8:3 For I bear witness that according to their ability, yes, and beyond their ability, they were freely willing,
 2CO.8:4 imploring us with much urgency that we would receive athe gift and the fellowship of the ministering to the saints.
@@ -258,7 +258,7 @@ has_additions: false
 2CO.8:24 Therefore show to them, and abefore the churches, the proof of your love and of our boasting on your behalf.
 ## Chapter 9
 
-2CO.9:1 ow concerning the ministering to the saints, it is superfluous for me to write to you;
+2CO.9:1 Now concerning the ministering to the saints, it is superfluous for me to write to you;
 2CO.9:2 for I know your willingness, about which I boast of you to the Macedonians, that Achaia was ready ayear ago; and your zeal has stirred up the majority.
 2CO.9:3 Yet I have sent the brethren, lest our boasting of you should be in vain in this respect, that, as I said, you may be ready;
 2CO.9:4 lest if some Macedonians come with me and find you unprepared, we (not to mention you!) should be ashamed of this confident boasting. a
@@ -281,7 +281,7 @@ has_additions: false
 2CO.9:15 Thanks be to God for His indescribable gift!
 ## Chapter 10
 
-2CO.10:1 ow I, Paul, myself am pleading with you by the meekness and gentleness of Christwho in presence am lowly among you, but being absent am bold toward you.
+2CO.10:1 Now I, Paul, myself am pleading with you by the meekness and gentleness of Christwho in presence am lowly among you, but being absent am bold toward you.
 2CO.10:2 But I beg you that when I am present I may not be bold with that confidence by which I intend to be bold against some, who think of us as if we walked according to the flesh.
 2CO.10:3 For though we walk in the flesh, we do not war according to the flesh.
 
@@ -310,7 +310,7 @@ has_additions: false
 2CO.10:18 For not he who commends himself is approved, but whom the Lord commends.
 ## Chapter 11
 
-2CO.11:1 h, that you would bear with me in alittle folly-and indeed you do bear with me.
+2CO.11:1 Oh, that you would bear with me in alittle folly-and indeed you do bear with me.
 2CO.11:2 For I am jealous for you with godly jealousy. For I have betrothed you to one husband, that I may present you as achaste virgin to Christ.
 2CO.11:3 But I fear, lest somehow, as the serpent deceived Eve by his craftiness, so your minds may be corrupted from the simplicity athat is in Christ.
 2CO.11:4 For if he who comes preaches another Jesus whom we have not preached, or if you receive adifferent spirit which you have not received, or adifferent gospel which you have not accepted-you may well put up with it!
@@ -357,7 +357,7 @@ has_additions: false
 2CO.11:33 but I was let down in abasket through awindow in the wall, and escaped from his hands.
 ## Chapter 12
 
-2CO.12:1 tis doubtless anot profitable for me to boast. I will come to visions and revelations of the Lord:
+2CO.12:1 It is doubtless anot profitable for me to boast. I will come to visions and revelations of the Lord:
 2CO.12:2 I know aman in Christ who fourteen years ago-whether in the body I do not know, or whether out of the body I do not know, God knows-such aone was caught up to the third heaven.
 2CO.12:3 And I know such aman-whether in the body or out of the body I do not know, God knows-
 2CO.12:4 how he was caught up into Paradise and heard inexpressible words, which it is not lawful for aman to utter.
@@ -392,7 +392,7 @@ has_additions: false
 2CO.12:21 lest, when I come again, my God will humble me among you, and I shall mourn for many who have sinned before and have not repented of the uncleanness, fornication, and lewdness which they have practiced.
 ## Chapter 13
 
-2CO.13:1 his will be the third time I am coming to you. 'By the mouth of two or three witnesses every word shall be established.' a
+2CO.13:1 This will be the third time I am coming to you. 'By the mouth of two or three witnesses every word shall be established.' a
 2CO.13:2 I have told you before, and foretell as if I were present the second time, and now being absent I write ato those who have sinned before, and to all the rest, that if I come again I will not spare
 2CO.13:3 since you seek aproof of Christ speaking in me, who is not weak toward you, but mighty in you.
 2CO.13:4 For though He was crucified in weakness, yet He lives by the power of God. For we also are weak in Him, but we shall live with Him by the power of God toward you.
@@ -410,4 +410,4 @@ has_additions: false
 2CO.13:13 All the saints greet you.
 ## Chapter 14
 
-2CO.14:1 he grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen.
+2CO.14:1 The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all. Amen.

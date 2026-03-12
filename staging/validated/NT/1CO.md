@@ -67,7 +67,7 @@ has_additions: false
 1CO.1:30 But of Him you are in Christ Jesus, who became for us wisdom from God-and righteousness and sanctification and redemption31 that, as it is written, 'He who glories, let him glory in the L ORD.' a
 ## Chapter 2
 
-1CO.2:1 nd I, brethren, when I came to you, did not come with excellence of speech or of wisdom declaring to you the testimony aof God.
+1CO.2:1 And I, brethren, when I came to you, did not come with excellence of speech or of wisdom declaring to you the testimony aof God.
 1CO.2:2 For I determined not to know anything among you except Jesus Christ and Him crucified.
 1CO.2:3 I was with you in weakness, in fear, and in much trembling.
 1CO.2:4 And my speech and my preaching were not with persuasive words of human awisdom, but in demonstration of the Spirit and of power,
@@ -88,7 +88,7 @@ has_additions: false
 1CO.2:16 For 'who has known the mind of the LORD that he may instruct Him?' a But we have the mind of Christ.
 ## Chapter 3
 
-1CO.3:1 nd I, brethren, could not speak to you as to spiritual people but as to carnal, as to babes in Christ.
+1CO.3:1 And I, brethren, could not speak to you as to spiritual people but as to carnal, as to babes in Christ.
 1CO.3:2 I fed you with milk and not with solid food; for until now you were not able to receive it, and even now you are still not able;
 1CO.3:3 for you are still carnal. For where there are envy, strife, and divisions among you, are you not carnal and behaving like mere men?
 
@@ -122,7 +122,7 @@ has_additions: false
 1CO.3:23 And you are Christ's, and Christ is God's.
 ## Chapter 4
 
-1CO.4:1 et aman so consider us, as servants of Christ and stewards of the mysteries of God.
+1CO.4:1 Let aman so consider us, as servants of Christ and stewards of the mysteries of God.
 1CO.4:2 Moreover it is required in stewards that one be found faithful.
 1CO.4:3 But with me it is avery small thing that I should be judged by you or by ahuman court. a In fact, I do not even judge myself.
 1CO.4:4 For I know of nothing against myself, yet I am not justified by this; but He who judges me is the Lord.
@@ -151,7 +151,7 @@ has_additions: false
 1CO.4:21 What do you want? Shall I come to you with arod, or in love and aspirit of gentleness?
 ## Chapter 5
 
-1CO.5:1 tis actually reported that there is sexual immorality among you, and such sexual immorality as is not even named aamong the Gentiles-that aman has his father's wife!
+1CO.5:1 It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named aamong the Gentiles-that aman has his father's wife!
 1CO.5:2 And you are puffed up, and have not rather mourned, that he who has done this deed might be taken away from among you.
 1CO.5:3 For I indeed, as absent in body but present in spirit, have already judged (as though I were present) him who has so done this deed.
 1CO.5:4 In the name of our Lord Jesus Christ, when you are gathered together, along with my spirit, with the power of our Lord Jesus Christ,
@@ -169,7 +169,7 @@ has_additions: false
 1CO.5:13 But those who are outside God judges. Therefore 'put away from yourselves the evil person.' a
 ## Chapter 6
 
-1CO.6:1 are any of you, having amatter against another, go to law before the unrighteous, and not before the saints?
+1CO.6:1 Dare any of you, having amatter against another, go to law before the unrighteous, and not before the saints?
 1CO.6:2 Do you not know that the saints will judge the world? And if the world will be judged by you, are you unworthy to judge the smallest matters?
 1CO.6:3 Do you not know that we shall judge angels? How much more, things that pertain to this life?
 1CO.6:4 If then you have judgments concerning things pertaining to this life, do you appoint those who are least esteemed by the church to judge?
@@ -197,7 +197,7 @@ has_additions: false
 1CO.6:20 For you were bought at aprice; therefore glorify God in your body aand in your spirit, which are God's.
 ## Chapter 7
 
-1CO.7:1 ow concerning the things of which you wrote to me: It is good for aman not to touch awoman.
+1CO.7:1 Now concerning the things of which you wrote to me: It is good for aman not to touch awoman.
 1CO.7:2 Nevertheless, because of sexual immorality, let each man have his own wife, and let each woman have her own husband.
 1CO.7:3 Let the husband render to his wife the affection due her, and likewise also the wife to her husband.
 1CO.7:4 The wife does not have authority over her own body, but the husband does. And likewise the husband does not have authority over his own body, but the wife does.
@@ -248,7 +248,7 @@ has_additions: false
 1CO.7:40 But she is happier if she remains as she is, according to my judgment-and I think I also have the Spirit of God.
 ## Chapter 8
 
-1CO.8:1 ow concerning things offered to idols: We know that we all have knowledge. Knowledge puffs up, but love edifies.
+1CO.8:1 Now concerning things offered to idols: We know that we all have knowledge. Knowledge puffs up, but love edifies.
 1CO.8:2 And if anyone thinks that he knows anything, he knows nothing yet as he ought to know.
 1CO.8:3 But if anyone loves God, this one is known by Him.
 1CO.8:4 Therefore concerning the eating of things offered to idols, we know that an idol is nothing in the world, and that there is no other God but one.
@@ -266,7 +266,7 @@ has_additions: false
 1CO.8:13 Therefore, if food makes my brother stumble, I will never again eat meat, lest I make my brother stumble.
 ## Chapter 9
 
-1CO.9:1 m I not an apostle? Am I not free? Have I not seen Jesus Christ our Lord? Are you not my work in the Lord?
+1CO.9:1 Am I not an apostle? Am I not free? Have I not seen Jesus Christ our Lord? Are you not my work in the Lord?
 1CO.9:2 If I am not an apostle to others, yet doubtless I am to you. For you are the seal of my apostleship in the Lord.
 1CO.9:3 My defense to those who examine me is this:
 1CO.9:4 Do we have no right to eat and drink?
@@ -304,7 +304,7 @@ has_additions: false
 1CO.9:27 But I discipline my body and bring it into subjection, lest, when I have preached to others, I myself should become disqualified.
 ## Chapter 10
 
-1CO.10:1 oreover, brethren, I do not want you to be unaware that all our fathers were under the cloud, all passed through the sea,
+1CO.10:1 Moreover, brethren, I do not want you to be unaware that all our fathers were under the cloud, all passed through the sea,
 1CO.10:2 all were baptized into Moses in the cloud and in the sea,
 1CO.10:3 all ate the same spiritual food,
 1CO.10:4 and all drank the same spiritual drink. For they drank of that spiritual Rock that followed them, and that Rock was Christ.
@@ -348,7 +348,7 @@ has_additions: false
 
 ### The Conduct of Women
 
-1CO.11:1 mitate me, just as I also imitate Christ.
+1CO.11:1 Imitate me, just as I also imitate Christ.
 1CO.11:2 Now I praise you, brethren, that you remember me in all things and keep the traditions just as I delivered them to you.
 1CO.11:3 But I want you to know that the head of every man is Christ, the head of woman is man, and the head of Christ is God.
 1CO.11:4 Every man praying or prophesying, having his head covered, dishonors his head.
@@ -390,7 +390,7 @@ has_additions: false
 1CO.11:34 But if anyone is hungry, let him eat at home, lest you come together for judgment. And the rest I will set in order when I come.
 ## Chapter 12
 
-1CO.12:1 ow concerning spiritual gifts, brethren, I do not want you to be ignorant:
+1CO.12:1 Now concerning spiritual gifts, brethren, I do not want you to be ignorant:
 1CO.12:2 You know that ayou were Gentiles, carried away to these dumb idols, however you were led.
 1CO.12:3 Therefore I make known to you that no one speaking by the Spirit of God calls Jesus accursed, and no one can say that Jesus is Lord except by the Holy Spirit.
 1CO.12:4 There are diversities of gifts, but the same Spirit.
@@ -426,7 +426,7 @@ has_additions: false
 1CO.12:31 But earnestly desire the best agifts. And yet I show you amore excellent way.
 ## Chapter 13
 
-1CO.13:1 hough I speak with the tongues of men and of angels, but have not love, I have become sounding brass or aclanging cymbal.
+1CO.13:1 Though I speak with the tongues of men and of angels, but have not love, I have become sounding brass or aclanging cymbal.
 1CO.13:2 And though I have the gift of prophecy, and understand all mysteries and all knowledge, and though I have all faith, so that I could remove mountains, but have not love, I am nothing.
 1CO.13:3 And though I bestow all my goods to feed the poor, and though I give my body to be burned, abut have not love, it profits me nothing.
 1CO.13:4 Love suffers long and is kind; love does not envy; love does not parade itself, is not puffed up;
@@ -444,7 +444,7 @@ has_additions: false
 1CO.13:13 And now abide faith, hope, love, these three; but the greatest of these is love.
 ## Chapter 14
 
-1CO.14:1 ursue love, and desire spiritual gifts, but especially that you may prophesy.
+1CO.14:1 Pursue love, and desire spiritual gifts, but especially that you may prophesy.
 1CO.14:2 For he who speaks in atongue does not speak to men but to God, for no one understands him; however, in the spirit he speaks mysteries.
 1CO.14:3 But he who prophesies speaks edification and exhortation and comfort to men.
 1CO.14:4 He who speaks in atongue edifies himself, but he who prophesies edifies the church.
@@ -495,7 +495,7 @@ has_additions: false
 1CO.14:40 Let all things be done decently and in order.
 ## Chapter 15
 
-1CO.15:1 oreover, brethren, I declare to you the gospel which I preached to you, which also you received and in which you stand,
+1CO.15:1 Moreover, brethren, I declare to you the gospel which I preached to you, which also you received and in which you stand,
 1CO.15:2 by which also you are saved, if you hold fast that word which I preached to you-unless you believed in vain.
 1CO.15:3 For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures,
 1CO.15:4 and that He was buried, and that He rose again the third day according to the Scriptures,
@@ -576,7 +576,7 @@ has_additions: false
 1CO.15:58 Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord.
 ## Chapter 16
 
-1CO.16:1 ow concerning the collection for the saints, as I have given orders to the churches of Galatia, so you must do also:
+1CO.16:1 Now concerning the collection for the saints, as I have given orders to the churches of Galatia, so you must do also:
 1CO.16:2 On the first day of the week let each one of you lay something aside, storing up as he may prosper, that there be no collections when I come.
 1CO.16:3 And when I come, whomever you approve by your letters I will send to bear your gift to Jerusalem.
 

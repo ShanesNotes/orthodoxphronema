@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-MAT.1:1 he book of the genealogy of Jesus Christ, the Son of David, the Son of Abraham:
+MAT.1:1 The book of the genealogy of Jesus Christ, the Son of David, the Son of Abraham:
 MAT.1:2 Abraham begot Isaac, Isaac begot Jacob, and Jacob begot Judah and his brothers.
 MAT.1:3 Judah begot Perez and Zerah by Tamar, Perez begot Hezron, and Hezron begot Ram.
 MAT.1:4 Ram begot Amminadab, Amminadab begot Nahshon, and Nahshon begot Salmon.
@@ -47,7 +47,7 @@ MAT.1:24 Then Joseph, being aroused from sleep, did as the angel of the Lord com
 MAT.1:25 and did not know her till she had brought forth her firstborn Son. a And he called His name J ESUS.
 ## Chapter 2
 
-MAT.2:1 ow after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the East came to Jerusalem,
+MAT.2:1 Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the East came to Jerusalem,
 MAT.2:2 saying, 'Where is He who has been born King of the Jews? For we have seen His star in the East and have come to worship Him.'
 MAT.2:3 When Herod the king heard this, he was troubled, and all Jerusalem with him.
 MAT.2:4 And when he had gathered all the chief priests and scribes of the people together, he inquired of them where the Christ was to be born.
@@ -85,7 +85,7 @@ MAT.2:23 And he came and dwelt in acity called Nazareth, that it might be fulfil
 MAT.2:24 (Mk 1:1-8; Lk 3:1-18; Jn 1:19-28)
 ## Chapter 3
 
-MAT.3:1 nthose days John the Baptist came preaching in the wilderness of Judea,
+MAT.3:1 In those days John the Baptist came preaching in the wilderness of Judea,
 MAT.3:2 and saying, 'Repent, for the kingdom of heaven is at hand!'
 MAT.3:3 For this is he who was spoken of by the prophet Isaiah, saying: 'The voice of one crying in the wilderness: 'Prepare the way of the Lord; Make His paths straight.' ' a
 MAT.3:4 Now John himself was clothed in camel's hair, with aleather belt around his waist; and his food was locusts and wild honey.
@@ -111,7 +111,7 @@ MAT.3:17 And suddenly avoice came from heaven, saying, 'This is My beloved Son, 
 MAT.3:18 (Mk 1:12, 13; Lk 4:1-13)
 ## Chapter 4
 
-MAT.4:1 hen Jesus was led up by the Spirit into the wilderness to be tempted by the devil.
+MAT.4:1 Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.
 MAT.4:2 And when He had fasted forty days and forty nights, afterward He was hungry.
 MAT.4:3 Now when the tempter came to Him, he said, 'If You are the Son of God, command that these stones become bread.'
 MAT.4:4 But He answered and said, 'It is written, 'Man shall not live by bread alone, but by every word that proceeds from the mouth of God.' ' a
@@ -305,7 +305,7 @@ MAT.7:28 And so it was, when Jesus had ended these sayings, that the people were
 MAT.7:29 for He taught them as one having authority, and not as the scribes.
 ## Chapter 8
 
-MAT.8:1 hen He had come down from the mountain, great multitudes followed Him.
+MAT.8:1 When He had come down from the mountain, great multitudes followed Him.
 MAT.8:2 And behold, aleper came and worshiped Him, saying, 'Lord, if You are willing, You can make me clean.'
 MAT.8:3 Then Jesus put out His hand and touched him, saying, 'I am willing; be cleansed.' Immediately his leprosy was cleansed.
 
@@ -356,7 +356,7 @@ MAT.8:33 Then those who kept them fled; and they went away into the city and tol
 MAT.8:34 And behold, the whole city came out to meet Jesus. And when they saw Him, they begged Him to depart from their region.
 ## Chapter 9
 
-MAT.9:1 o He got into aboat, crossed over, and came to His own city.
+MAT.9:1 So He got into aboat, crossed over, and came to His own city.
 MAT.9:2 Then behold, they brought to Him aparalytic lying on abed. When Jesus saw their faith, He said to the paralytic, 'Son, be of good cheer; your sins are forgiven you.'
 MAT.9:3 And at once some of the scribes said within themselves, 'This Man blasphemes!'
 MAT.9:4 But Jesus, knowing their thoughts, said, 'Why do you think evil in your hearts?
@@ -418,7 +418,7 @@ MAT.9:38 Therefore pray the Lord of the harvest to send out laborers into His ha
 MAT.9:39 (Mk 3:13-19; Lk 6:12-16)
 ## Chapter 10
 
-MAT.10:1 nd when He had called His twelve disciples to Him, He gave them power over unclean spirits, to cast them out, and to heal all kinds of sickness and all kinds of disease.
+MAT.10:1 And when He had called His twelve disciples to Him, He gave them power over unclean spirits, to cast them out, and to heal all kinds of sickness and all kinds of disease.
 MAT.10:2 Now the names of the twelve apostles are these: first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;
 MAT.10:3 Philip and Bartholomew; Thomas and Matthew the tax collector; James the son of Alphaeus, and Lebbaeus, whose surname was a Thaddaeus;
 
@@ -475,7 +475,7 @@ MAT.10:42 And whoever gives one of these little ones only acup of cold water in 
 MAT.10:43 (Lk 7:18-23)
 ## Chapter 11
 
-MAT.11:1 ow it came to pass, when Jesus finished commanding His twelve disciples, that He departed from there to teach and to preach in their cities.
+MAT.11:1 Now it came to pass, when Jesus finished commanding His twelve disciples, that He departed from there to teach and to preach in their cities.
 MAT.11:2 And when John had heard in prison about the works of Christ, he sent two of ahis disciples
 MAT.11:3 and said to Him, 'Are You the Coming One, or do we look for another?'
 MAT.11:4 Jesus answered and said to them, 'Go and tell John the things which you hear and see:
@@ -520,7 +520,7 @@ MAT.11:30 For My yoke is easy and My burden is light.'
 MAT.11:31 (Mk 2:23-3:6; Lk 6:1-11)
 ## Chapter 12
 
-MAT.12:1 tthat time Jesus went through the grainfields on the Sabbath. And His disciples were hungry, and began to pluck heads of grain and to eat.
+MAT.12:1 At that time Jesus went through the grainfields on the Sabbath. And His disciples were hungry, and began to pluck heads of grain and to eat.
 MAT.12:2 And when the Pharisees saw it, they said to Him, 'Look, Your disciples are doing what is not lawful to do on the Sabbath!'
 MAT.12:3 But He said to them, 'Have you not read what David did when he was hungry, he and those who were with him:
 MAT.12:4 how he entered the house of God and ate the showbread which was not lawful for him to eat, nor for those who were with him, but only for the priests?
@@ -588,7 +588,7 @@ MAT.12:50 For whoever does the will of My Father in heaven is My brother and sis
 MAT.12:51 (Mk 4:1-9; Lk 8:4-8)
 ## Chapter 13
 
-MAT.13:1 nthe same day Jesus went out of the house and sat by the sea.
+MAT.13:1 In the same day Jesus went out of the house and sat by the sea.
 MAT.13:2 And great multitudes were gathered together to Him, so that He got into aboat and sat; and the whole multitude stood on the shore.
 MAT.13:3 Then He spoke many things to them in parables, saying: 'Behold, asower went out to sow.
 MAT.13:4 And as he sowed, some seed fell by the wayside; and the birds came and devoured them.
@@ -676,7 +676,7 @@ MAT.13:58 But Jesus said to them, 'A prophet is not without honor except in his 
 MAT.13:59 (Mk 6:14-29; Lk 3:19, 20; 9:7-9)
 ## Chapter 14
 
-MAT.14:1 tthat time Herod the tetrarch heard the report about Jesus
+MAT.14:1 At that time Herod the tetrarch heard the report about Jesus
 MAT.14:2 and said to his servants, 'This is John the Baptist; he is risen from the dead, and therefore these powers are at work in him.'
 MAT.14:3 For Herod had laid hold of John and bound him, and put him in prison for the sake of Herodias, his brother Philip's wife.
 MAT.14:4 Because John had said to him, 'It is not lawful for you to have her.'
@@ -726,7 +726,7 @@ MAT.14:35 And when the men of that place recognized Him, they sent out into all 
 MAT.14:36 and begged Him that they might only touch the hem of His garment. And as many as touched it were made perfectly well. † (Mk 7:1-23)
 ## Chapter 15
 
-MAT.15:1 hen the scribes and Pharisees who were from Jerusalem came to Jesus, saying,
+MAT.15:1 Then the scribes and Pharisees who were from Jerusalem came to Jesus, saying,
 MAT.15:2 'Why do Your disciples transgress the tradition of the elders? For they do not wash their hands when they eat bread.'
 MAT.15:3 He answered and said to them, 'Why do you also transgress the commandment of God because of your tradition?
 MAT.15:4 For God commanded, saying, 'Honor your father and your mother'; aand, 'He who curses father or mother, let him be put to death.' b
@@ -779,7 +779,7 @@ MAT.15:38 Now those who ate were four thousand men, besides women and children.
 MAT.15:39 And He sent away the multitude, got into the boat, and came to the region of Magdala. a
 ## Chapter 16
 
-MAT.16:1 hen the Pharisees and Sadducees came, and testing Him asked that He would show them asign from heaven.
+MAT.16:1 Then the Pharisees and Sadducees came, and testing Him asked that He would show them asign from heaven.
 MAT.16:2 He answered and said to them, 'When it is evening you say, 'It will be fair weather, for the sky is red';
 MAT.16:3 and in the morning, 'It will be foul weather today, for the sky is red and threatening.' Hypocrites! a You know how to discern the face of the sky, but you cannot discern the signs of the times.
 
@@ -822,7 +822,7 @@ MAT.16:28 Assuredly, I say to you, there are some standing here who shall not ta
 MAT.16:29 (Mk 9:2-13; Lk 9:28-36)
 ## Chapter 17
 
-MAT.17:1 ow after six days Jesus took Peter, James, and John his brother, led them up on ahigh mountain by themselves;
+MAT.17:1 Now after six days Jesus took Peter, James, and John his brother, led them up on ahigh mountain by themselves;
 MAT.17:2 and He was transfigured before them. His face shone like the sun, and His clothes became as white as the light.
 MAT.17:3 And behold, Moses and Elijah appeared to them, talking with Him.
 MAT.17:4 Then Peter answered and said to Jesus, 'Lord, it is good for us to be here; if You wish, let us amake here three tabernacles: one for You, one for Moses, and one for Elijah.'
@@ -863,7 +863,7 @@ MAT.17:26 And when he had come into the house, Jesus anticipated him, saying, 'W
 MAT.17:27 Jesus said to him, 'Then the sons are free. Nevertheless, lest we offend them, go to the sea, cast in ahook, and take the fish that comes up first. And when you have opened its mouth, you will find apiece of money; atake that and give it to them for Me and you.'
 ## Chapter 18
 
-MAT.18:1 tthat time the disciples came to Jesus, saying, 'Who then is greatest in the kingdom of heaven?'
+MAT.18:1 At that time the disciples came to Jesus, saying, 'Who then is greatest in the kingdom of heaven?'
 MAT.18:2 Then Jesus called alittle child to Him, set him in the midst of them,
 MAT.18:3 and said, 'Assuredly, I say to you, unless you are converted and become as little children, you will by no means enter the kingdom of heaven.
 MAT.18:4 Therefore whoever humbles himself as this little child is the greatest in the kingdom of heaven.
@@ -915,7 +915,7 @@ MAT.18:34 And his master was angry, and delivered him to the torturers until he 
 MAT.18:35 'So My heavenly Father also will do to you if each of you, from his heart, does not forgive his brother his trespasses.' a
 ## Chapter 19
 
-MAT.19:1 ow it came to pass, when Jesus had finished these sayings, that He departed from Galilee and came to the region of Judea beyond the Jordan.
+MAT.19:1 Now it came to pass, when Jesus had finished these sayings, that He departed from Galilee and came to the region of Judea beyond the Jordan.
 MAT.19:2 And great multitudes followed Him, and He healed them there.
 MAT.19:3 The Pharisees also came to Him, testing Him, and saying to Him, 'Is it lawful for aman to divorce his wife for just any reason?'
 MAT.19:4 And He answered and said to them, 'Have you not read that He who made athem at the beginning 'made them male and female,' b
@@ -1005,7 +1005,7 @@ MAT.20:34 So Jesus had compassion and touched their eyes. And immediately their 
 MAT.20:35 (Mk 11:1-10; Lk 19:28-44; Jn 12:12-19)
 ## Chapter 21
 
-MAT.21:1 ow when they drew near Jerusalem, and came to Bethphage, aat the Mount of Olives, then Jesus sent two disciples,
+MAT.21:1 Now when they drew near Jerusalem, and came to Bethphage, aat the Mount of Olives, then Jesus sent two disciples,
 MAT.21:2 saying to them, 'Go into the village opposite you, and immediately you will find adonkey tied, and acolt with her. Loose them and bring them to Me.
 MAT.21:3 And if anyone says anything to you, you shall say, 'The Lord has need of them,' and immediately he will send them.'
 MAT.21:4 All athis was done that it might be fulfilled which was spoken by the prophet, saying:
@@ -1069,7 +1069,7 @@ MAT.21:46 But when they sought to lay hands on Him, they feared the multitudes, 
 MAT.21:47 (Lk 14:15-24)
 ## Chapter 22
 
-MAT.22:1 nd Jesus answered and spoke to them again by parables and said:
+MAT.22:1 And Jesus answered and spoke to them again by parables and said:
 MAT.22:2 'The kingdom of heaven is like acertain king who arranged amarriage for his son,
 MAT.22:3 and sent out his servants to call those who were invited to the wedding; and they were not willing to come.
 MAT.22:4 Again, he sent out other servants, saying, 'Tell those who are invited, 'See, I have prepared my dinner; my oxen and fatted cattle are killed, and all things are ready. Come to the wedding.' '
@@ -1130,7 +1130,7 @@ MAT.22:46 And no one was able to answer Him aword, nor from that day on did anyo
 MAT.22:47 (Mk 12:38, 39; Lk 20:45, 46)
 ## Chapter 23
 
-MAT.23:1 hen Jesus spoke to the multitudes and to His disciples,
+MAT.23:1 Then Jesus spoke to the multitudes and to His disciples,
 MAT.23:2 saying: 'The scribes and the Pharisees sit in Moses' seat.
 MAT.23:3 Therefore whatever they tell you to observe, athat observe and do, but do not do according to their works; for they say, and do not do.
 MAT.23:4 For they bind heavy burdens, hard to bear, and lay them on men's shoulders; but they themselves will not move them with one of their fingers.
@@ -1177,7 +1177,7 @@ MAT.23:38 See! Your house is left to you desolate;
 MAT.23:39 for I say to you, you shall see Me no more till you say, 'Blessed is He who comes in the name of the LORD!' ' a
 ## Chapter 24
 
-MAT.24:1 hen Jesus went out and departed from the temple, and His disciples came up to show Him the buildings of the temple.
+MAT.24:1 Then Jesus went out and departed from the temple, and His disciples came up to show Him the buildings of the temple.
 
 ### The Beginning of Birth Pangs
 
@@ -1306,7 +1306,7 @@ MAT.25:46 And these will go away into everlasting punishment, but the righteous 
 MAT.25:47 (Mk 14:1, 2; Lk 22:1, 2)
 ## Chapter 26
 
-MAT.26:1 ow it came to pass, when Jesus had finished all these sayings, that He said to His disciples,
+MAT.26:1 Now it came to pass, when Jesus had finished all these sayings, that He said to His disciples,
 MAT.26:2 'You know that after two days is the Passover, and the Son of Man will be delivered up to be crucified.'
 MAT.26:3 Then the chief priests, the scribes, aand the elders of the people assembled at the palace of the high priest, who was called Caiaphas,
 MAT.26:4 and plotted to take Jesus by trickery and kill Him.
@@ -1402,7 +1402,7 @@ MAT.26:75 Immediately arooster crowed. And Peter remembered the word of Jesus wh
 MAT.26:76 (Mk 15:1; Lk 22:66-23:1)
 ## Chapter 27
 
-MAT.27:1 hen morning came, all the chief priests and elders of the people plotted against Jesus to put Him to death.
+MAT.27:1 When morning came, all the chief priests and elders of the people plotted against Jesus to put Him to death.
 
 ### The Death of Judas
 
@@ -1498,7 +1498,7 @@ MAT.27:66 So they went and made the tomb secure, sealing the stone and setting t
 MAT.27:67 (Mk 16:1-8; Lk 24:1-12; Jn 20:1-10)
 ## Chapter 28
 
-MAT.28:1 ow after the Sabbath, as the first day of the week began to dawn, Mary Magdalene and the other Mary came to see the tomb.
+MAT.28:1 Now after the Sabbath, as the first day of the week began to dawn, Mary Magdalene and the other Mary came to see the tomb.
 MAT.28:2 And behold, there was agreat earthquake; for an angel of the Lord descended from heaven, and came and rolled back the stone from the door, aand sat on it.
 MAT.28:3 His countenance was like lightning, and his clothing as white as snow.
 MAT.28:4 And the guards shook for fear of him, and became like dead men.

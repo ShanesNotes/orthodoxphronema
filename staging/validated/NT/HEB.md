@@ -35,7 +35,7 @@ HEB.1:13 But to which of the angels has He ever said: 'Sit at My right hand, Til
 
 ### Beware of Willful Negligence
 
-HEB.1:14 Are they not all ministering spirits sent forth to minister for those who will inherit
+HEB.1:14 Are they not all ministering spirits sent forth to minister for those who will inherit salvation?
 ## Chapter 2
 
 HEB.2:1 Therefore we must give the more earnest heed to the things we have heard, lest we drift away.
@@ -228,7 +228,7 @@ HEB.8:12 For I will be merciful to their unrighteousness, and their sins and the
 HEB.8:13 In that He says, 'A new covenant,' He has made the first obsolete. Now what is becoming obsolete and growing old is ready to vanish away.
 ## Chapter 9
 
-HEB.9:1 hen indeed, even the first covenant had ordinances of divine service and the earthly sanctuary.
+HEB.9:1 Then indeed, even the first covenant had ordinances of divine service and the earthly sanctuary.
 HEB.9:2 For atabernacle was prepared: the first part, in which was the lampstand, the table, and the showbread, which is called the sanctuary;
 HEB.9:3 and behind the second veil, the part of the tabernacle which is called the Holiest of All,
 HEB.9:4 which had the golden censer and the ark of the covenant overlaid on all sides with gold, in which were the golden pot that had the manna, Aaron's rod that budded, and the tablets of the covenant;
@@ -270,7 +270,7 @@ HEB.9:27 And as it is appointed for men to die once, but after this the judgment
 HEB.9:28 so Christ was offered once to bear the sins of many. To those who eagerly wait for Him He will appear asecond time, apart from sin, for salvation.
 ## Chapter 10
 
-HEB.10:1 or the law, having ashadow of the good things to come, and not the very image of the things, can never with these same sacrifices, which they offer continually year by year, make those who approach perfect.
+HEB.10:1 For the law, having ashadow of the good things to come, and not the very image of the things, can never with these same sacrifices, which they offer continually year by year, make those who approach perfect.
 HEB.10:2 For then would they not have ceased to be offered? For the worshipers, once purified, would have had no more consciousness of sins.
 HEB.10:3 But in those sacrifices there is areminder of sins every year.
 HEB.10:4 For it is not possible that the blood of bulls and goats could take away sins.
@@ -326,7 +326,7 @@ HEB.10:38 Now the ajust shall live by faith; But if anyone draws back, My soul h
 HEB.10:39 But we are not of those who draw back to perdition, but of those who believe to the saving of the soul.
 ## Chapter 11
 
-HEB.11:1 ow faith is the substance of things hoped for, the evidence of things not seen.
+HEB.11:1 Now faith is the substance of things hoped for, the evidence of things not seen.
 HEB.11:2 For by it the elders obtained agood testimony.
 
 ### Faith from Creation to the Flood
@@ -389,7 +389,7 @@ HEB.11:40 God having provided something better for us, that they should not be m
 
 ### Do Not Despise God's Chastening
 
-HEB.12:1 herefore we also, since we are surrounded by so great acloud of witnesses, let us lay aside every weight, and the sin which so easily ensnares us, and let us run with endurance the race that is set before us,
+HEB.12:1 Therefore we also, since we are surrounded by so great acloud of witnesses, let us lay aside every weight, and the sin which so easily ensnares us, and let us run with endurance the race that is set before us,
 HEB.12:2 looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
 HEB.12:3 For consider Him who endured such hostility from sinners against Himself, lest you become weary and discouraged in your souls.
 HEB.12:4 You have not yet resisted to bloodshed, striving against sin.

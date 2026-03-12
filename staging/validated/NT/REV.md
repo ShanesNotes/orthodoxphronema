@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-REV.1:1 he Revelation of Jesus Christ, which God gave Him to show His servants-things which must shortly take place. And He sent and signified it by His angel to His servant John,
+REV.1:1 The Revelation of Jesus Christ, which God gave Him to show His servants-things which must shortly take place. And He sent and signified it by His angel to His servant John,
 REV.1:2 who bore witness to the word of God, and to the testimony of Jesus Christ, to all things that he saw.
 
 ### Greeting to the Seven Churches
@@ -118,7 +118,7 @@ REV.3:21 To him who overcomes I will grant to sit with Me on My throne, as I als
 REV.3:22 'He who has an ear, let him hear what the Spirit says to the churches.' ' '
 ## Chapter 4
 
-REV.4:1 fter these things I looked, and behold, adoor standing open in heaven. And the first voice which I heard was like atrumpet speaking with me, saying, 'Come up here, and I will show you things which must take place after this.'
+REV.4:1 After these things I looked, and behold, adoor standing open in heaven. And the first voice which I heard was like atrumpet speaking with me, saying, 'Come up here, and I will show you things which must take place after this.'
 REV.4:2 Immediately I was in the Spirit; and behold, athrone set in heaven, and One sat on the throne.
 REV.4:3 And He who sat there was alike ajasper and asardius stone in appearance; and there was arainbow around the throne, in appearance like an emerald.
 REV.4:4 Around the throne were twenty-four thrones, and on the thrones I saw twenty-four elders sitting, clothed in white robes; and they had crowns aof gold on their heads.
@@ -133,7 +133,7 @@ REV.4:9 Whenever the living creatures give glory and honor and thanks to Him who
 REV.4:10 the twenty-four elders fall down before Him who sits on the throne and worship Him who lives forever and ever, and cast their crowns before the throne, saying: And by Your will they exist b and were created.' †
 ## Chapter 5
 
-REV.5:1 nd I saw in the right hand of Him who sat on the throne ascroll written inside and on the back, sealed with seven seals.
+REV.5:1 And I saw in the right hand of Him who sat on the throne ascroll written inside and on the back, sealed with seven seals.
 REV.5:2 Then I saw astrong angel proclaiming with aloud voice, 'Who is worthy to open the scroll and to loose its seals?'
 REV.5:3 And no one in heaven or on the earth or under the earth was able to open the scroll, or to look at it.
 REV.5:4 So I wept much, because no one was found worthy to open and read athe scroll, or to look at it.
@@ -152,7 +152,7 @@ REV.5:13 And every creature which is in heaven and on the earth and under the ea
 REV.5:14 Then the four living creatures said, 'Amen!' And the twenty-four aelders fell down and worshiped Him who lives forever and ever. b
 ## Chapter 6
 
-REV.6:1 ow I saw when the Lamb opened one of the seals; aand I heard one of the four living creatures saying with avoice like thunder, 'Come and see.'
+REV.6:1 Now I saw when the Lamb opened one of the seals; aand I heard one of the four living creatures saying with avoice like thunder, 'Come and see.'
 
 ### Seal Two: Conflict on Earth
 
@@ -189,7 +189,7 @@ REV.6:16 and said to the mountains and rocks, 'Fall on us and hide us from the f
 REV.6:17 For the great day of His wrath has come, and who is able to stand?'
 ## Chapter 7
 
-REV.7:1 fter these things I saw four angels standing at the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, on the sea, or on any tree.
+REV.7:1 After these things I saw four angels standing at the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, on the sea, or on any tree.
 REV.7:2 Then I saw another angel ascending from the east, having the seal of the living God. And he cried with aloud voice to the four angels to whom it was granted to harm the earth and the sea,
 REV.7:3 saying, 'Do not harm the earth, the sea, or the trees till we have sealed the servants of our God on their foreheads.'
 
@@ -217,7 +217,7 @@ REV.7:16 They shall neither hunger anymore nor thirst anymore; the sun shall not
 REV.7:17 for the Lamb who is in the midst of the throne will shepherd them and lead them to living fountains of waters. a And God will wipe away every tear from their eyes.'
 ## Chapter 8
 
-REV.8:1 hen He opened the seventh seal, there was silence in heaven for about half an hour.
+REV.8:1 Then He opened the seventh seal, there was silence in heaven for about half an hour.
 REV.8:2 And I saw the seven angels who stand before God, and to them were given seven trumpets.
 REV.8:3 Then another angel, having agolden censer, came and stood at the altar. He was given much incense, that he should offer it with the prayers of all the saints upon the golden altar which was before the throne.
 REV.8:4 And the smoke of the incense, with the prayers of the saints, ascended before God from the angel's hand.
@@ -247,7 +247,7 @@ REV.8:12 Then the fourth angel sounded: And athird of the sun was struck, athird
 REV.8:13 And I looked, and I heard an angel aflying through the midst of heaven, saying with aloud voice, 'Woe, woe, woe to the inhabitants of the earth, because of the remaining blasts of the trumpet of the three angels who are about to sound!'
 ## Chapter 9
 
-REV.9:1 hen the fifth angel sounded: And I saw astar fallen from heaven to the earth. To him was given the key to the bottomless pit.
+REV.9:1 Then the fifth angel sounded: And I saw astar fallen from heaven to the earth. To him was given the key to the bottomless pit.
 REV.9:2 And he opened the bottomless pit, and smoke arose out of the pit like the smoke of agreat furnace. So the sun and the air were darkened because of the smoke of the pit.
 REV.9:3 Then out of the smoke locusts came upon the earth. And to them was given power, as the scorpions of the earth have power.
 REV.9:4 They were commanded not to harm the grass of the earth, or any green thing, or any tree, but only those men who do not have the seal of God on their foreheads.
@@ -276,7 +276,7 @@ REV.9:20 But the rest of mankind, who were not killed by these plagues, did not 
 REV.9:21 And they did not repent of their murders or their sorceries aor their sexual immorality or their thefts.
 ## Chapter 10
 
-REV.10:1 saw still another mighty angel coming down from heaven, clothed with acloud. And arainbow was on his head, his face was like the sun, and his feet like pillars of fire.
+REV.10:1 I saw still another mighty angel coming down from heaven, clothed with acloud. And arainbow was on his head, his face was like the sun, and his feet like pillars of fire.
 REV.10:2 He had alittle book open in his hand. And he set his right foot on the sea and his left foot on the land,
 REV.10:3 and cried with aloud voice, as when alion roars. When he cried out, seven thunders uttered their voices.
 REV.10:4 Now when the seven thunders uttered their voices, a I was about to write; but I heard avoice from heaven saying to me, b 'Seal up the things which the seven thunders uttered, and do not write them.'
@@ -292,7 +292,7 @@ REV.10:10 And he said to me, 'Take and eat it; and it will make your stomach bit
 REV.10:11 And he asaid to me, 'You must prophesy again about many peoples, nations, tongues, and kings.'
 ## Chapter 11
 
-REV.11:1 hen I was given areed like ameasuring rod. And the angel stood, asaying, 'Rise and measure the temple of God, the altar, and those who worship there.
+REV.11:1 Then I was given areed like ameasuring rod. And the angel stood, asaying, 'Rise and measure the temple of God, the altar, and those who worship there.
 REV.11:2 But leave out the court which is outside the temple, and do not measure it, for it has been given to the Gentiles. And they will tread the holy city underfoot for forty-two months.
 REV.11:3 And I will give power to my two witnesses, and they will prophesy one thousand two hundred and sixty days, clothed in sackcloth.'
 REV.11:4 These are the two olive trees and the two lampstands standing before the God aof the earth.
@@ -319,7 +319,7 @@ REV.11:18 The nations were angry, and Your wrath has come, And the time of the d
 REV.11:19 Then the temple of God was opened in heaven, and the ark of His covenant awas seen in His temple. And there were lightnings, noises, thunderings, an earthquake, and great hail.
 ## Chapter 12
 
-REV.12:1 ow agreat sign appeared in heaven: awoman clothed with the sun, with the moon under her feet, and on her head agarland of twelve stars.
+REV.12:1 Now agreat sign appeared in heaven: awoman clothed with the sun, with the moon under her feet, and on her head agarland of twelve stars.
 
 ### The Child
 
@@ -350,7 +350,7 @@ REV.12:16 But the earth helped the woman, and the earth opened its mouth and swa
 REV.12:17 And the dragon was enraged with the woman, and he went to make war with the rest of her offspring, who keep the commandments of God and have the testimony of Jesus Christ. a
 ## Chapter 13
 
-REV.13:1 hen I astood on the sand of the sea. And I saw abeast rising up out of the sea, having seven heads and ten horns, band on his horns ten crowns, and on his heads ablasphemous name.
+REV.13:1 Then I astood on the sand of the sea. And I saw abeast rising up out of the sea, having seven heads and ten horns, band on his horns ten crowns, and on his heads ablasphemous name.
 REV.13:2 Now the beast which I saw was like aleopard, his feet were like the feet of abear, and his mouth like the mouth of alion. The dragon gave him his power, his throne, and great authority.
 REV.13:3 And I saw one of his heads as if it had been mortally wounded, and his deadly wound was healed. And all the world marveled and followed the beast.
 REV.13:4 So they worshiped the dragon who gave authority to the beast; and they worshiped the beast, saying, 'Who is like the beast? Who is able to make war with him?'
@@ -376,7 +376,7 @@ REV.13:17 and that no one may buy or sell except one who has the mark or athe na
 REV.13:18 Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of aman: His number is 666.
 ## Chapter 14
 
-REV.14:1 hen I looked, and behold, a a Lamb standing on Mount Zion, and with Him one hundred and forty-four thousand, having b His Father's name written on their foreheads.
+REV.14:1 Then I looked, and behold, a a Lamb standing on Mount Zion, and with Him one hundred and forty-four thousand, having b His Father's name written on their foreheads.
 REV.14:2 And I heard avoice from heaven, like the voice of many waters, and like the voice of loud thunder. And I heard the sound of harpists playing their harps.
 REV.14:3 They sang as it were anew song before the throne, before the four living creatures, and the elders; and no one could learn that song except the hundred and forty-four thousand who were redeemed from the earth.
 REV.14:4 These are the ones who were not defiled with women, for they are virgins. These are the ones who follow the Lamb wherever He goes. These were redeemed afrom among men, being firstfruits to God and to the Lamb.
@@ -410,7 +410,7 @@ REV.14:19 So the angel thrust his sickle into the earth and gathered the vine of
 REV.14:20 And the winepress was trampled outside the city, and blood came out of the winepress, up to the horses' bridles, for one thousand six hundred furlongs.
 ## Chapter 15
 
-REV.15:1 hen I saw another sign in heaven, great and marvelous: seven angels having the seven last plagues, for in them the wrath of God is complete.
+REV.15:1 Then I saw another sign in heaven, great and marvelous: seven angels having the seven last plagues, for in them the wrath of God is complete.
 REV.15:2 And I saw something like asea of glass mingled with fire, and those who have the victory over the beast, over his image and over his mark aand over the number of his name, standing on the sea of glass, having harps of God.
 REV.15:3 They sing the song of Moses, the servant of God, and the song of the Lamb, saying: 'Great and marvelous are Your works, Lord God Almighty! Just and true are Your way s, O King of the saints! a
 REV.15:4 Who shall not fear You, O Lord, and glorify Your name? For You alone are holy. For all nations shall come and worship before You, For Your judgments have been manifested.'
@@ -423,7 +423,7 @@ REV.15:8 The temple was filled with smoke from the glory of God and from His pow
 
 ### Bowl One: Loathsome Sores
 
-REV.16:1 hen I heard aloud voice from the temple saying to the seven angels, 'Go and pour out the bowls aof the wrath of God on the earth.'
+REV.16:1 Then I heard aloud voice from the temple saying to the seven angels, 'Go and pour out the bowls aof the wrath of God on the earth.'
 
 ### Bowl Two: The Sea Turns to Blood
 
@@ -528,7 +528,7 @@ REV.18:23 The light of alamp shall not shine in you anymore, and the voice of br
 REV.18:24 And in her was found the blood of prophets and saints, and of all who were slain on the earth.'
 ## Chapter 19
 
-REV.19:1 fter these things I heard a aloud voice of agreat multitude in heaven, saying, 'Alleluia! Salvation and glory and honor and power belong to the Lord bour God!
+REV.19:1 After these things I heard a aloud voice of agreat multitude in heaven, saying, 'Alleluia! Salvation and glory and honor and power belong to the Lord bour God!
 REV.19:2 For true and righteous are His judgments, because He has judged the great harlot who corrupted the earth with her fornication; and He has avenged on her the blood of His servants shed by her.'
 REV.19:3 Again they said, 'Alleluia! Her smoke rises up forever and ever!'
 REV.19:4 And the twenty-four elders and the four living creatures fell down and worshiped God who sat on the throne, saying, 'Amen! Alleluia!'
@@ -560,7 +560,7 @@ REV.19:20 Then the beast was captured, and with him the false prophet who worked
 REV.19:21 And the rest were killed with the sword which proceeded from the mouth of Him who sat on the horse. And all the birds were filled with their flesh.
 ## Chapter 20
 
-REV.20:1 hen I saw an angel coming down from heaven, having the key to the bottomless pit and agreat chain in his hand.
+REV.20:1 Then I saw an angel coming down from heaven, having the key to the bottomless pit and agreat chain in his hand.
 REV.20:2 He laid hold of the dragon, that serpent of old, who is the Devil and Satan, and bound him for athousand years;
 REV.20:3 and he cast him into the bottomless pit, and shut him up, and set aseal on him, so that he should deceive the nations no more till the thousand years were finished. But after these things he must be released for alittle while.
 REV.20:4 And I saw thrones, and they sat on them, and judgment was committed to them. Then I saw the souls of those who had been beheaded for their witness to Jesus and for the word of God, who had not worshiped the beast or his image, and had not received his mark on their foreheads or on their hands. And they lived and reigned with Christ for a athousand years.
@@ -586,7 +586,7 @@ REV.20:14 Then Death and Hades were cast into the lake of fire. This is the seco
 REV.20:15 And anyone not found written in the Book of Life was cast into the lake of fire.
 ## Chapter 21
 
-REV.21:1 ow I saw anew heaven and anew earth, for the first heaven and the first earth had passed away. Also there was no more sea.
+REV.21:1 Now I saw anew heaven and anew earth, for the first heaven and the first earth had passed away. Also there was no more sea.
 REV.21:2 Then I, John, asaw the holy city, New Jerusalem, coming down out of heaven from God, prepared as abride adorned for her husband.
 REV.21:3 And I heard aloud voice from heaven saying, 'Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people. God Himself will be with them and be their God.
 REV.21:4 And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away.'

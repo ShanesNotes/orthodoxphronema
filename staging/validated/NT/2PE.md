@@ -50,7 +50,7 @@ has_additions: false
 2PE.1:20 knowing this first, that no prophecy of Scripture is of any private interpretation, a 21 for prophecy never came by the will of man, but holy men of God aspoke as they were moved by the Holy Spirit.
 ## Chapter 2
 
-2PE.2:1 ut there were also false prophets among the people, even as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Lord who bought them, and bring on themselves swift destruction.
+2PE.2:1 But there were also false prophets among the people, even as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Lord who bought them, and bring on themselves swift destruction.
 2PE.2:2 And many will follow their destructive ways, because of whom the way of truth will be blasphemed.
 
 ### The Doom of False Teachers
@@ -86,7 +86,7 @@ has_additions: false
 2PE.2:22 But it has happened to them according to the true proverb: 'A dog returns to his own vomit,' aand, 'asow, having washed, to her wallowing in the mire.'
 ## Chapter 3
 
-2PE.3:1 eloved, I now write to you this second epistle (in both of which I stir up your pure minds by way of reminder),
+2PE.3:1 Beloved, I now write to you this second epistle (in both of which I stir up your pure minds by way of reminder),
 2PE.3:2 that you may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us, athe apostles of the Lord and Savior,
 2PE.3:3 knowing this first: that scoffers will come in the last days, walking according to their own lusts,
 2PE.3:4 and saying, 'Where is the promise of His coming? For since the fathers fell asleep, all things continue as they were from the beginning of creation.'

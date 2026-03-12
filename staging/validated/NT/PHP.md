@@ -60,7 +60,7 @@ PHP.1:29 For to you it has been granted on behalf of Christ, not only to believe
 PHP.1:30 having the same conflict which you saw in me and now hear is in me.
 ## Chapter 2
 
-PHP.2:1 herefore if there is any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any affection and mercy,
+PHP.2:1 Therefore if there is any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any affection and mercy,
 PHP.2:2 fulfill my joy by being like-minded, having the same love, being of one accord, of one mind.
 PHP.2:3 Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself.
 PHP.2:4 Let each of you look out not only for his own interests, but also for the interests of others.
@@ -101,7 +101,7 @@ PHP.2:29 Receive him therefore in the Lord with all gladness, and hold such men 
 PHP.2:30 because for the work of Christ he came close to death, not regarding his life, to supply what was lacking in your service toward me.
 ## Chapter 3
 
-PHP.3:1 inally, my brethren, rejoice in the Lord. For me to write the same things to you is not tedious, but for you it is safe.
+PHP.3:1 Finally, my brethren, rejoice in the Lord. For me to write the same things to you is not tedious, but for you it is safe.
 PHP.3:2 Beware of dogs, beware of evil workers, beware of the mutilation!
 PHP.3:3 For we are the circumcision, who worship God in the Spirit, arejoice in Christ Jesus, and have no confidence in the flesh,
 PHP.3:4 though I also might have confidence in the flesh. If anyone else thinks he may have confidence in the flesh, I more so:
@@ -130,7 +130,7 @@ PHP.3:21 who will transform our lowly body that it may be conformed to His glori
 
 ### Exhortation for Daily Living
 
-PHP.4:1 herefore, my beloved and longed-for brethren, my joy and crown, so stand fast in the Lord, beloved.
+PHP.4:1 Therefore, my beloved and longed-for brethren, my joy and crown, so stand fast in the Lord, beloved.
 PHP.4:2 I implore Euodia and I implore Syntyche to be of the same mind in the Lord.
 PHP.4:3 And a I urge you also, true companion, help these women who labored with me in the gospel, with Clement also, and the rest of my fellow workers, whose names are in the Book of Life.
 PHP.4:4 Rejoice in the Lord always. Again I will say, rejoice!

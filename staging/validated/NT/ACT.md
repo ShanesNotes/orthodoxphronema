@@ -124,7 +124,7 @@ ACT.2:46 So continuing daily with one accord in the temple, and breaking bread f
 ACT.2:47 praising God and having favor with all the people. And the Lord added to the church adaily those who were being saved.
 ## Chapter 3
 
-ACT.3:1 ow Peter and John went up together to the temple at the hour of prayer, the ninth hour.
+ACT.3:1 Now Peter and John went up together to the temple at the hour of prayer, the ninth hour.
 ACT.3:2 And acertain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms from those who entered the temple;
 ACT.3:3 who, seeing Peter and John about to go into the temple, asked for alms.
 ACT.3:4 And fixing his eyes on him, with John, Peter said, 'Look at us.'
@@ -158,7 +158,7 @@ ACT.3:25 You are sons of the prophets, and of the covenant which God made with o
 ACT.3:26 To you first, God, having raised up His Servant Jesus, sent Him to bless you, in turning away every one of you from your iniquities.'
 ## Chapter 4
 
-ACT.4:1 ow as they spoke to the people, the priests, the captain of the temple, and the Sadducees came upon them,
+ACT.4:1 Now as they spoke to the people, the priests, the captain of the temple, and the Sadducees came upon them,
 ACT.4:2 being greatly disturbed that they taught the people and preached in Jesus the resurrection from the dead.
 ACT.4:3 And they laid hands on them, and put them in custody until the next day, for it was already evening.
 
@@ -209,7 +209,7 @@ ACT.4:36 And Joses, awho was also named Barnabas by the apostles (which is trans
 ACT.4:37 having land, sold it, and brought the money and laid it at the apostles' feet.
 ## Chapter 5
 
-ACT.5:1 ut acertain man named Ananias, with Sapphira his wife, sold apossession.
+ACT.5:1 But acertain man named Ananias, with Sapphira his wife, sold apossession.
 ACT.5:2 And he kept back part of the proceeds, his wife also being aware of it, and brought acertain part and laid it at the apostles' feet.
 ACT.5:3 But Peter said, 'Ananias, why has Satan filled your heart to lie to the Holy Spirit and keep back part of the price of the land for yourself?
 ACT.5:4 While it remained, was it not your own? And after it was sold, was it not in your own control? Why have you conceived this thing in your heart? You have not lied to men but to God.'
@@ -265,7 +265,7 @@ ACT.5:41 So they departed from the presence of the council, rejoicing that they 
 ACT.5:42 And daily in the temple, and in every house, they did not cease teaching and preaching Jesus as the Christ.
 ## Chapter 6
 
-ACT.6:1 ow in those days, when the number of the disciples was multiplying, there arose acomplaint against the Hebrews by the Hellenists, abecause their widows were neglected in the daily distribution.
+ACT.6:1 Now in those days, when the number of the disciples was multiplying, there arose acomplaint against the Hebrews by the Hellenists, abecause their widows were neglected in the daily distribution.
 ACT.6:2 Then the twelve summoned the multitude of the disciples and said, 'It is not desirable that we should leave the word of God and serve tables.
 ACT.6:3 Therefore, brethren, seek out from among you seven men of good reputation, full of the Holy Spirit and wisdom, whom we may appoint over this business;
 ACT.6:4 but we will give ourselves continually to prayer and to the ministry of the word.'
@@ -288,7 +288,7 @@ ACT.6:14 for we have heard him say that this Jesus of Nazareth will destroy this
 ACT.6:15 And all who sat in the council, looking steadfastly at him, saw his face as the face of an angel.
 ## Chapter 7
 
-ACT.7:1 hen the high priest said, 'Are these things so?'
+ACT.7:1 Then the high priest said, 'Are these things so?'
 ACT.7:2 And he said, 'Brethren and fathers, listen: The God of glory appeared to our father Abraham when he was in Mesopotamia, before he dwelt in Haran,
 ACT.7:3 and said to him, 'Get out of your country and from your relatives, and come to aland that I will show you.' a
 ACT.7:4 Then he came out of the land of the Chaldeans and dwelt in Haran. And from there, when his father was dead, He moved him to this land in which you now dwell.
@@ -356,7 +356,7 @@ ACT.7:59 And they stoned Stephen as he was calling on God and saying, 'Lord Jesu
 ACT.7:60 Then he knelt down and cried out with aloud voice, 'Lord, do not charge them with this sin.' And when he had said this, he fell asleep.
 ## Chapter 8
 
-ACT.8:1 ow Saul was consenting to his death. At that time agreat persecution arose against the church which was at Jerusalem; and they were all scattered throughout the regions of Judea and Samaria, except the apostles.
+ACT.8:1 Now Saul was consenting to his death. At that time agreat persecution arose against the church which was at Jerusalem; and they were all scattered throughout the regions of Judea and Samaria, except the apostles.
 ACT.8:2 And devout men carried Stephen to his burial, and made great lamentation over him.
 
 ### The Church in Samaria
@@ -410,7 +410,7 @@ ACT.8:39 Now when they came up out of the water, the Spirit of the Lord caught P
 ACT.8:40 But Philip was found at Azotus. And passing through, he preached in all the cities till he came to Caesarea.
 ## Chapter 9
 
-ACT.9:1 hen Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest
+ACT.9:1 Then Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest
 ACT.9:2 and asked letters from him to the synagogues of Damascus, so that if he found any who were of the Way, whether men or women, he might bring them bound to Jerusalem.
 ACT.9:3 As he journeyed he came near Damascus, and suddenly alight shone around him from heaven.
 ACT.9:4 Then he fell to the ground, and heard avoice saying to him, 'Saul, Saul, why are you persecuting Me?'
@@ -467,7 +467,7 @@ ACT.9:42 And it became known throughout all Joppa, and many believed on the Lord
 ACT.9:43 So it was that he stayed many days in Joppa with Simon, atanner.
 ## Chapter 10
 
-ACT.10:1 here was acertain man in Caesarea called Cornelius, acenturion of what was called the Italian Regiment,
+ACT.10:1 There was acertain man in Caesarea called Cornelius, acenturion of what was called the Italian Regiment,
 ACT.10:2 adevout man and one who feared God with all his household, who gave alms generously to the people, and prayed to God always.
 ACT.10:3 About the ninth hour of the day he saw clearly in avision an angel of God coming in and saying to him, 'Cornelius!'
 ACT.10:4 And when he observed him, he was afraid, and said, 'What is it, lord?'
@@ -529,7 +529,7 @@ ACT.10:47 Then Peter answered, 'Can anyone forbid water, that these should not b
 ACT.10:48 And he commanded them to be baptized in the name of the Lord. Then they asked him to stay afew days.
 ## Chapter 11
 
-ACT.11:1 ow the apostles and brethren who were in Judea heard that the Gentiles had also received the word of God.
+ACT.11:1 Now the apostles and brethren who were in Judea heard that the Gentiles had also received the word of God.
 ACT.11:2 And when Peter came up to Jerusalem, those of the circumcision contended with him,
 ACT.11:3 saying, 'You went in to uncircumcised men and ate with them!'
 ACT.11:4 But Peter explained it to them in order from the beginning, saying:
@@ -570,7 +570,7 @@ ACT.11:29 Then the disciples, each according to his ability, determined to send 
 ACT.11:30 This they also did, and sent it to the elders by the hands of Barnabas and Saul.
 ## Chapter 12
 
-ACT.12:1 ow about that time Herod the king stretched out his hand to harass some from the church.
+ACT.12:1 Now about that time Herod the king stretched out his hand to harass some from the church.
 ACT.12:2 Then he killed James the brother of John with the sword.
 ACT.12:3 And because he saw that it pleased the Jews, he proceeded further to seize Peter also. Now it was during the Days of Unleavened Bread.
 ACT.12:4 So when he had arrested him, he put him in prison, and delivered him to four squads of soldiers to keep him, intending to bring him before the people after Passover.
@@ -603,7 +603,7 @@ ACT.12:24 But the word of God grew and multiplied.
 ACT.12:25 And Barnabas and Saul returned from a Jerusalem when they had fulfilled their ministry, and they also took with them John whose surname was Mark.
 ## Chapter 13
 
-ACT.13:1 ow in the church that was at Antioch there were certain prophets and teachers: Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen who had been brought up with Herod the tetrarch, and Saul.
+ACT.13:1 Now in the church that was at Antioch there were certain prophets and teachers: Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen who had been brought up with Herod the tetrarch, and Saul.
 ACT.13:2 As they ministered to the Lord and fasted, the Holy Spirit said, 'Now separate to Me Barnabas and Saul for the work to which I have called them.'
 
 ### Churches Established on Cyprus
@@ -669,7 +669,7 @@ ACT.13:51 But they shook off the dust from their feet against them, and came to 
 ACT.13:52 And the disciples were filled with joy and with the Holy Spirit.
 ## Chapter 14
 
-ACT.14:1 ow it happened in Iconium that they went together to the synagogue of the Jews, and so spoke that agreat multitude both of the Jews and of the Greeks believed.
+ACT.14:1 Now it happened in Iconium that they went together to the synagogue of the Jews, and so spoke that agreat multitude both of the Jews and of the Greeks believed.
 ACT.14:2 But the unbelieving Jews stirred up the Gentiles and poisoned their minds against the brethren.
 ACT.14:3 Therefore they stayed there along time, speaking boldly in the Lord, who was bearing witness to the word of His grace, granting signs and wonders to be done by their hands.
 ACT.14:4 But the multitude of the city was divided: part sided with the Jews, and part with the apostles.
@@ -711,7 +711,7 @@ ACT.14:27 Now when they had come and gathered the church together, they reported
 ACT.14:28 So they stayed there along time with the disciples.
 ## Chapter 15
 
-ACT.15:1 nd certain men came down from Judea and taught the brethren, 'Unless you are circumcised according to the custom of Moses, you cannot be saved.'
+ACT.15:1 And certain men came down from Judea and taught the brethren, 'Unless you are circumcised according to the custom of Moses, you cannot be saved.'
 ACT.15:2 Therefore, when Paul and Barnabas had no small dissension and dispute with them, they determined that Paul and Barnabas and certain others of them should go up to Jerusalem, to the apostles and elders, about this question.
 ACT.15:3 So, being sent on their way by the church, they passed through Phoenicia and Samaria, describing the conversion of the Gentiles; and they caused great joy to all the brethren.
 ACT.15:4 And when they had come to Jerusalem, they were received by the church and the apostles and the elders; and they reported all things that God had done with them.
@@ -769,7 +769,7 @@ ACT.15:40 but Paul chose Silas and departed, being commended by the brethren to 
 ACT.15:41 And he went through Syria and Cilicia, strengthening the churches.
 ## Chapter 16
 
-ACT.16:1 hen he came to Derbe and Lystra. And behold, acertain disciple was there, named Timothy, the son of acertain Jewish woman who believed, but his father was Greek.
+ACT.16:1 Then he came to Derbe and Lystra. And behold, acertain disciple was there, named Timothy, the son of acertain Jewish woman who believed, but his father was Greek.
 ACT.16:2 He was well spoken of by the brethren who were at Lystra and Iconium.
 ACT.16:3 Paul wanted to have him go on with him. And he took him and circumcised him because of the Jews who were in that region, for they all knew that his father was Greek.
 ACT.16:4 And as they went through the cities, they delivered to them the decrees to keep, which were determined by the apostles and elders at Jerusalem.
@@ -829,7 +829,7 @@ ACT.16:39 Then they came and pleaded with them and brought them out, and asked t
 ACT.16:40 So they went out of the prison and entered the house of Lydia; and when they had seen the brethren, they encouraged them and departed.
 ## Chapter 17
 
-ACT.17:1 ow when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was asynagogue of the Jews.
+ACT.17:1 Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was asynagogue of the Jews.
 ACT.17:2 Then Paul, as his custom was, went in to them, and for three Sabbaths reasoned with them from the Scriptures,
 ACT.17:3 explaining and demonstrating that the Christ had to suffer and rise again from the dead, and saying, 'This Jesus whom I preach to you is the Christ.'
 ACT.17:4 And some of them were persuaded; and agreat multitude of the devout Greeks, and not afew of the leading women, joined Paul and Silas.
@@ -877,7 +877,7 @@ ACT.17:33 So Paul departed from among them.
 ACT.17:34 However, some men joined him and believed, among them Dionysius the Areopagite, awoman named Damaris, and others with them.
 ## Chapter 18
 
-ACT.18:1 fter these things Paul departed from Athens and went to Corinth.
+ACT.18:1 After these things Paul departed from Athens and went to Corinth.
 ACT.18:2 And he found acertain Jew named Aquila, born in Pontus, who had recently come from Italy with his wife Priscilla (because Claudius had commanded all the Jews to depart from Rome); and he came to them.
 ACT.18:3 So, because he was of the same trade, he stayed with them and worked; for by occupation they were tentmakers.
 
@@ -922,7 +922,7 @@ ACT.18:27 And when he desired to cross to Achaia, the brethren wrote, exhorting 
 ACT.18:28 for he vigorously refuted the Jews publicly, showing from the Scriptures that Jesus is the Christ.
 ## Chapter 19
 
-ACT.19:1 nd it happened, while Apollos was at Corinth, that Paul, having passed through the upper regions, came to Ephesus. And finding some disciples
+ACT.19:1 And it happened, while Apollos was at Corinth, that Paul, having passed through the upper regions, came to Ephesus. And finding some disciples
 ACT.19:2 he said to them, 'Did you receive the Holy Spirit when you believed?'
 ACT.19:3 So they said to him, 'We have not so much as heard whether there is a Holy Spirit.' And he said to them, 'Into what then were you baptized?'
 ACT.19:4 So they said, 'Into John's baptism.' Then Paul said, 'John indeed baptized with abaptism of repentance, saying to the people that they should believe on Him who would come after him, that is, on Christ Jesus.'
@@ -977,7 +977,7 @@ ACT.19:40 For we are in danger of being called in question for today's uproar, t
 ACT.19:41 And when he had said these things, he dismissed the assembly.
 ## Chapter 20
 
-ACT.20:1 fter the uproar had ceased, Paul called the disciples to himself, embraced them, and departed to go to Macedonia.
+ACT.20:1 After the uproar had ceased, Paul called the disciples to himself, embraced them, and departed to go to Macedonia.
 ACT.20:2 Now when he had gone over that region and encouraged them with many words, he came to Greece
 ACT.20:3 and stayed three months. And when the Jews plotted against him as he was about to sail to Syria, he decided to return through Macedonia.
 ACT.20:4 And Sopater of Berea accompanied him to Asia-also Aristarchus and Secundus of the Thessalonians, and Gaius of Derbe, and Timothy, and Tychicus and Trophimus of Asia.
@@ -1026,7 +1026,7 @@ ACT.20:37 Then they all wept freely, and fell on Paul's neck and kissed him,
 ACT.20:38 sorrowing most of all for the words which he spoke, that they would see his face no more. And they accompanied him to the ship.
 ## Chapter 21
 
-ACT.21:1 ow it came to pass, that when we had departed from them and set sail, running astraight course we came to Cos, the following day to Rhodes, and from there to Patara.
+ACT.21:1 Now it came to pass, that when we had departed from them and set sail, running astraight course we came to Cos, the following day to Rhodes, and from there to Patara.
 ACT.21:2 And finding aship sailing over to Phoenicia, we went aboard and set sail.
 ACT.21:3 When we had sighted Cyprus, we passed it on the left, sailed to Syria, and landed at Tyre; for there the ship was to unload her cargo.
 ACT.21:4 And finding disciples, awe stayed there seven days. They told Paul through the Spirit not to go up to Jerusalem.
@@ -1115,7 +1115,7 @@ ACT.22:29 And Paul said, 'But I was born acitizen. ' Then immediately those who 
 ACT.22:30 The next day, because he wanted to know for certain why he was accused by the Jews, he released him from his bonds, and commanded the chief priests and all their council to appear, and brought Paul down and set him before them.
 ## Chapter 23
 
-ACT.23:1 hen Paul, looking earnestly at the council, said, 'Men and brethren, I have lived in all good conscience before God until this day.'
+ACT.23:1 Then Paul, looking earnestly at the council, said, 'Men and brethren, I have lived in all good conscience before God until this day.'
 ACT.23:2 And the high priest Ananias commanded those who stood by him to strike him on the mouth.
 ACT.23:3 Then Paul said to him, 'God will strike you, you whitewashed wall! For you sit to judge me according to the law, and do you command me to be struck contrary to the law?'
 ACT.23:4 And those who stood by said, 'Do you revile God's high priest?'
@@ -1161,7 +1161,7 @@ ACT.23:34 And when the governor had read it, he asked what province he was from.
 ACT.23:35 he said, 'I will hear you when your accusers also have come.' And he commanded him to be kept in Herod's Praetorium.
 ## Chapter 24
 
-ACT.24:1 ow after five days Ananias the high priest came down with the elders and acertain orator named Tertullus. These gave evidence to the governor against Paul.
+ACT.24:1 Now after five days Ananias the high priest came down with the elders and acertain orator named Tertullus. These gave evidence to the governor against Paul.
 ACT.24:2 And when he was called upon, Tertullus began his accusation, saying: 'Seeing that through you we enjoy great peace, and prosperity is being brought to this nation by your foresight,
 ACT.24:3 we accept it always and in all places, most noble Felix, with all thankfulness.
 ACT.24:4 Nevertheless, not to be tedious to you any further, I beg you to hear, by your courtesy, afew words from us.
@@ -1199,7 +1199,7 @@ ACT.24:26 Meanwhile he also hoped that money would be given him by Paul, that he
 ACT.24:27 But after two years Porcius Festus succeeded Felix; and Felix, wanting to do the Jews afavor, left Paul bound.
 ## Chapter 25
 
-ACT.25:1 ow when Festus had come to the province, after three days he went up from Caesarea to Jerusalem.
+ACT.25:1 Now when Festus had come to the province, after three days he went up from Caesarea to Jerusalem.
 ACT.25:2 Then the high priest aand the chief men of the Jews informed him against Paul; and they petitioned him,
 ACT.25:3 asking afavor against him, that he would summon him to Jerusalem-while they lay in ambush along the road to kill him.
 ACT.25:4 But Festus answered that Paul should be kept at Caesarea, and that he himself was going there shortly.
@@ -1234,7 +1234,7 @@ ACT.25:26 I have nothing certain to write to my lord concerning him. Therefore I
 ACT.25:27 For it seems to me unreasonable to send aprisoner and not to specify the charges against him.'
 ## Chapter 26
 
-ACT.26:1 hen Agrippa said to Paul, 'You are permitted to speak for yourself.'
+ACT.26:1 Then Agrippa said to Paul, 'You are permitted to speak for yourself.'
 ACT.26:2 So Paul stretched out his hand and answered for himself: 'I think myself happy, King Agrippa, because today I shall answer for myself before you concerning all the things of which I am accused by the Jews,
 ACT.26:3 especially because you are expert in all customs and questions which have to do with the Jews. Therefore I beg you to hear me patiently.
 ACT.26:4 'My manner of life from my youth, which was spent from the beginning among my own nation at Jerusalem, all the Jews know.
@@ -1274,7 +1274,7 @@ ACT.26:31 and when they had gone aside, they talked among themselves, saying, 'T
 ACT.26:32 Then Agrippa said to Festus, 'This man might have been set free if he had not appealed to Caesar.'
 ## Chapter 27
 
-ACT.27:1 nd when it was decided that we should sail to Italy, they delivered Paul and some other prisoners to one named Julius, acenturion of the Augustan Regiment.
+ACT.27:1 And when it was decided that we should sail to Italy, they delivered Paul and some other prisoners to one named Julius, acenturion of the Augustan Regiment.
 ACT.27:2 So, entering aship of Adramyttium, we put to sea, meaning to sail along the coasts of Asia. Aristarchus, a Macedonian of Thessalonica, was with us.
 ACT.27:3 And the next day we landed at Sidon. And Julius treated Paul kindly and gave him liberty to go to his friends and receive care.
 ACT.27:4 When we had put to sea from there, we sailed under the shelter of Cyprus, because the winds were contrary.
@@ -1323,7 +1323,7 @@ ACT.27:43 But the centurion, wanting to save Paul, kept them from their purpose,
 ACT.27:44 and the rest, some on boards and some on parts of the ship. And so it was that they all escaped safely to land.
 ## Chapter 28
 
-ACT.28:1 ow when they had escaped, they then found out that the island was called Malta.
+ACT.28:1 Now when they had escaped, they then found out that the island was called Malta.
 ACT.28:2 And the natives showed us unusual kindness; for they kindled afire and made us all welcome, because of the rain that was falling and because of the cold.
 ACT.28:3 But when Paul had gathered abundle of sticks and laid them on the fire, aviper came out because of the heat, and fastened on his hand.
 ACT.28:4 So when the natives saw the creature hanging from his hand, they said to one another, 'No doubt this man is amurderer, whom, though he has escaped the sea, yet justice does not allow to live.'

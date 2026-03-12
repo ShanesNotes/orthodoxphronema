@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-2TI.1:1 aul, an apostle of Jesus Christ aby the will of God, according to the promise of life which is in Christ Jesus,
+2TI.1:1 Paul, an apostle of Jesus Christ aby the will of God, according to the promise of life which is in Christ Jesus,
 
 ### Thanksgiving for Timothy
 
@@ -46,7 +46,7 @@ has_additions: false
 2TI.1:18 The Lord grant to him that he may find mercy from the Lord in that Day-and you know very well how many ways he ministered to me aat Ephesus.
 ## Chapter 2
 
-2TI.2:1 ou therefore, my son, be strong in the grace that is in Christ Jesus.
+2TI.2:1 You therefore, my son, be strong in the grace that is in Christ Jesus.
 
 ### Strengthening Others: Discipline and Suffering
 
@@ -86,7 +86,7 @@ has_additions: false
 2TI.2:26 and that they may come to their senses and escape the snare of the devil, having been taken captive by him to do his will.
 ## Chapter 3
 
-2TI.3:1 ut know this, that in the last days perilous times will come:
+2TI.3:1 But know this, that in the last days perilous times will come:
 2TI.3:2 For men will be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 2TI.3:3 unloving, unforgiving, slanderers, without self-control, brutal, despisers of good,
 2TI.3:4 traitors, headstrong, haughty, lovers of pleasure rather than lovers of God,
@@ -111,7 +111,7 @@ has_additions: false
 2TI.3:17 that the man of God may be complete, thoroughly equipped for every good work.
 ## Chapter 4
 
-2TI.4:1 charge you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at a His appearing and His kingdom:
+2TI.4:1 I charge you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at a His appearing and His kingdom:
 2TI.4:2 Preach the word! Be ready in season and out of season. Convince, rebuke, exhort, with all longsuffering and teaching.
 2TI.4:3 For the time will come when they will not endure sound doctrine, but according to their own desires, because they have itching ears, they will heap up for themselves teachers;
 2TI.4:4 and they will turn their ears away from the truth, and be turned aside to fables.

@@ -139,7 +139,7 @@ ROM.3:30 since there is one God who will justify the circumcised by faith and th
 ROM.3:31 Do we then make void the law through faith? Certainly not! On the contrary, we establish the law.
 ## Chapter 4
 
-ROM.4:1 hat then shall we say that Abraham our father has found according to the flesh? a
+ROM.4:1 What then shall we say that Abraham our father has found according to the flesh? a
 ROM.4:2 For if Abraham was justified by works, he has something to boast about, but not before God.
 ROM.4:3 For what does the Scripture say? 'Abraham believed God, and it was accounted to him for righteousness.' a
 ROM.4:4 Now to him who works, the wages are not counted as grace but as debt.
@@ -172,7 +172,7 @@ ROM.4:24 but also for us. It shall be imputed to us who believe in Him who raise
 ROM.4:25 who was delivered up because of our offenses, and was raised because of our justification.
 ## Chapter 5
 
-ROM.5:1 herefore, having been justified by faith, we have apeace with God through our Lord Jesus Christ,
+ROM.5:1 Therefore, having been justified by faith, we have apeace with God through our Lord Jesus Christ,
 ROM.5:2 through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God.
 ROM.5:3 And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance;
 ROM.5:4 and perseverance, character; and character, hope.
@@ -198,7 +198,7 @@ ROM.5:20 Moreover the law entered that the offense might abound. But where sin a
 ROM.5:21 so that as sin reigned in death, even so grace might reign through righteousness to eternal life through Jesus Christ our Lord.
 ## Chapter 6
 
-ROM.6:1 hat shall we say then? Shall we continue in sin that grace may abound?
+ROM.6:1 What shall we say then? Shall we continue in sin that grace may abound?
 ROM.6:2 Certainly not! How shall we who died to sin live any longer in it?
 ROM.6:3 Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death?
 ROM.6:4 Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life.
@@ -226,7 +226,7 @@ ROM.6:22 But now having been set free from sin, and having become slaves of God,
 ROM.6:23 For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 ## Chapter 7
 
-ROM.7:1 rdo you not know, brethren (for I speak to those who know the law), that the law has dominion over aman as long as he lives?
+ROM.7:1 Or do you not know, brethren (for I speak to those who know the law), that the law has dominion over aman as long as he lives?
 ROM.7:2 For the woman who has ahusband is bound by the law to her husband as long as he lives. But if the husband dies, she is released from the law of her husband.
 ROM.7:3 So then if, while her husband lives, she marries another man, she will be called an adulteress; but if her husband dies, she is free from that law, so that she is no adulteress, though she has married another man.
 ROM.7:4 Therefore, my brethren, you also have become dead to the law through the body of Christ, that you may be married to another-to Him who was raised from the dead, that we should bear fruit to God.
@@ -263,7 +263,7 @@ ROM.7:25 I thank God-through Jesus Christ our Lord!
 ROM.7:26 So then, with the mind I myself serve the law of God, but with the flesh the law of sin.
 ## Chapter 8
 
-ROM.8:1 here is therefore now no condemnation to those who are in Christ Jesus, awho do not walk according to the flesh, but according to the Spirit.
+ROM.8:1 There is therefore now no condemnation to those who are in Christ Jesus, awho do not walk according to the flesh, but according to the Spirit.
 ROM.8:2 For the law of the Spirit of life in Christ Jesus has made me free from the law of sin and death.
 ROM.8:3 For what the law could not do in that it was weak through the flesh, God did by sending His own Son in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh,
 ROM.8:4 that the righteous requirement of the law might be fulfilled in us who do not walk according to the flesh but according to the Spirit.
@@ -440,7 +440,7 @@ ROM.11:35 'Or who has first given to Him And it shall be repaid to him?' a
 ROM.11:36 For of Him and through Him and to Him are all things, to whom be glory forever. Amen.
 ## Chapter 12
 
-ROM.12:1 beseech you therefore, brethren, by the mercies of God, that you present your bodies aliving sacrifice, holy, acceptable to God, which is your reasonable service.
+ROM.12:1 I beseech you therefore, brethren, by the mercies of God, that you present your bodies aliving sacrifice, holy, acceptable to God, which is your reasonable service.
 
 ### A Life of Unity in the Church
 
@@ -472,7 +472,7 @@ ROM.12:20 Therefore 'If your enemy is hungry, feed him; If he is thirsty, give h
 ROM.12:21 Do not be overcome by evil, but overcome evil with good.
 ## Chapter 13
 
-ROM.13:1 et every soul be subject to the governing authorities. For there is no authority except from God, and the authorities that exist are appointed by God.
+ROM.13:1 Let every soul be subject to the governing authorities. For there is no authority except from God, and the authorities that exist are appointed by God.
 ROM.13:2 Therefore whoever resists the authority resists the ordinance of God, and those who resist will bring judgment on themselves.
 ROM.13:3 For rulers are not aterror to good works, but to evil. Do you want to be unafraid of the authority? Do what is good, and you will have praise from the same.
 ROM.13:4 For he is God's minister to you for good. But if you do evil, be afraid; for he does not bear the sword in vain; for he is God's minister, an avenger to execute wrath on him who practices evil.
@@ -497,7 +497,7 @@ ROM.13:13 Let us walk properly, as in the day, not in revelry and drunkenness, n
 ROM.13:14 But put on the Lord Jesus Christ, and make no provision for the flesh, to fulfill its lusts.
 ## Chapter 14
 
-ROM.14:1 eceive one who is weak in the faith, but not to disputes over doubtful things.
+ROM.14:1 Receive one who is weak in the faith, but not to disputes over doubtful things.
 ROM.14:2 For one believes he may eat all things, but he who is weak eats only vegetables.
 ROM.14:3 Let not him who eats despise him who does not eat, and let not him who does not eat judge him who eats; for God has received him.
 ROM.14:4 Who are you to judge another's servant? To his own master he stands or falls. Indeed, he will be made to stand, for God is able to make him stand.
@@ -528,7 +528,7 @@ ROM.14:22 Do you have faith? a Have it to yourself before God. Happy is he who d
 ROM.14:23 But he who doubts is condemned if he eats, because he does not eat from faith; for whatever is not from faith is sin. a
 ## Chapter 15
 
-ROM.15:1 ethen who are strong ought to bear with the scruples of the weak, and not to please ourselves.
+ROM.15:1 We then who are strong ought to bear with the scruples of the weak, and not to please ourselves.
 ROM.15:2 Let each of us please his neighbor for his good, leading to edification.
 ROM.15:3 For even Christ did not please Himself; but as it is written, 'The reproaches of those who reproached You fell on Me.' a
 ROM.15:4 For whatever things were written before were written for our learning, that we through the patience and comfort of the Scriptures might have hope.
@@ -575,7 +575,7 @@ ROM.15:32 that I may come to you with joy by the will of God, and may be refresh
 ROM.15:33 Now the God of peace be with you all. Amen.
 ## Chapter 16
 
-ROM.16:1 commend to you Phoebe our sister, who is aservant of the church in Cenchrea,
+ROM.16:1 I commend to you Phoebe our sister, who is aservant of the church in Cenchrea,
 ROM.16:2 that you may receive her in the Lord in amanner worthy of the saints, and assist her in whatever business she has need of you; for indeed she has been ahelper of many and of myself also.
 ROM.16:3 Greet Priscilla and Aquila, my fellow workers in Christ Jesus,
 ROM.16:4 who risked their own necks for my life, to whom not only I give thanks, but also all the churches of the Gentiles.

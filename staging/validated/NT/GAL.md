@@ -52,7 +52,7 @@ GAL.1:23 But they were hearing only, 'He who formerly persecuted us now preaches
 GAL.1:24 And they glorified God in me.
 ## Chapter 2
 
-GAL.2:1 hen after fourteen years I went up again to Jerusalem with Barnabas, and also took Titus with me.
+GAL.2:1 Then after fourteen years I went up again to Jerusalem with Barnabas, and also took Titus with me.
 GAL.2:2 And I went up by revelation, and communicated to them that gospel which I preach among the Gentiles, but privately to those who were of reputation, lest by any means I might run, or had run, in vain.
 GAL.2:3 Yet not even Titus who was with me, being a Greek, was compelled to be circumcised.
 GAL.2:4 And this occurred because of false brethren secretly brought in (who came in by stealth to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage),
@@ -84,7 +84,7 @@ GAL.2:20 I have been crucified with Christ; it is no longer I who live, but Chri
 GAL.2:21 I do not set aside the grace of God; for if righteousness comes through the law, then Christ died in vain.'
 ## Chapter 3
 
-GAL.3:1 foolish Galatians! Who has bewitched you that you should not obey the truth, abefore whose eyes Jesus Christ was clearly portrayed among you bas crucified?
+GAL.3:1 O foolish Galatians! Who has bewitched you that you should not obey the truth, abefore whose eyes Jesus Christ was clearly portrayed among you bas crucified?
 GAL.3:2 This only I want to learn from you: Did you receive the Spirit by the works of the law, or by the hearing of faith?
 GAL.3:3 Are you so foolish? Having begun in the Spirit, are you now being made perfect by the flesh?
 
@@ -133,7 +133,7 @@ GAL.3:28 There is neither Jew nor Greek, there is neither slave nor free, there 
 GAL.3:29 And if you are Christ's, then you are Abraham's seed, and heirs according to the promise.
 ## Chapter 4
 
-GAL.4:1 ow I say that the heir, as long as he is achild, does not differ at all from aslave, though he is master of all,
+GAL.4:1 Now I say that the heir, as long as he is achild, does not differ at all from aslave, though he is master of all,
 GAL.4:2 but is under guardians and stewards until the time appointed by the father.
 GAL.4:3 Even so we, when we were children, were in bondage under the elements of the world.
 GAL.4:4 But when the fullness of the time had come, God sent forth His Son, born aof awoman, born under the law,
@@ -175,7 +175,7 @@ GAL.4:30 Nevertheless what does the Scripture say? 'Cast out the bondwoman and h
 GAL.4:31 So then, brethren, we are not children of the bondwoman but of the free.
 ## Chapter 5
 
-GAL.5:1 tand fast therefore in the liberty by which Christ has made us free, aand do not be entangled again with ayoke of bondage.
+GAL.5:1 Stand fast therefore in the liberty by which Christ has made us free, aand do not be entangled again with ayoke of bondage.
 GAL.5:2 Indeed I, Paul, say to you that if you become circumcised, Christ will profit you nothing.
 GAL.5:3 And I testify again to every man who becomes circumcised that he is adebtor to keep the whole law.
 GAL.5:4 You have become estranged from Christ, you who attempt to be justified by law; you have fallen from grace.
@@ -212,7 +212,7 @@ GAL.5:25 If we live in the Spirit, let us also walk in the Spirit.
 GAL.5:26 Let us not become conceited, provoking one another, envying one another.
 ## Chapter 6
 
-GAL.6:1 rethren, if aman is overtaken in any trespass, you who are spiritual restore such aone in aspirit of gentleness, considering yourself lest you also be tempted.
+GAL.6:1 Brethren, if aman is overtaken in any trespass, you who are spiritual restore such aone in aspirit of gentleness, considering yourself lest you also be tempted.
 GAL.6:2 Bear one another's burdens, and so fulfill the law of Christ.
 GAL.6:3 For if anyone thinks himself to be something, when he is nothing, he deceives himself.
 GAL.6:4 But let each one examine his own work, and then he will have rejoicing in himself alone, and not in another.

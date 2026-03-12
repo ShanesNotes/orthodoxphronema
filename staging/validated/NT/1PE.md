@@ -94,7 +94,7 @@ has_additions: false
 1PE.2:25 For you were like sheep going astray, but have now returned to the Shepherd and Overseer aof your souls.
 ## Chapter 3
 
-1PE.3:1 ives, likewise, be submissive to your own husbands, that even if some do not obey the word, they, without aword, may be won by the conduct of their wives,
+1PE.3:1 Wives, likewise, be submissive to your own husbands, that even if some do not obey the word, they, without aword, may be won by the conduct of their wives,
 1PE.3:2 when they observe your chaste conduct accompanied by fear.
 1PE.3:3 Do not let your adornment be merely outward-arranging the hair, wearing gold, or putting on fine apparel-
 1PE.3:4 rather let it be the hidden person of the heart, with the incorruptible beauty of agentle and quiet spirit, which is very precious in the sight of God.
@@ -130,7 +130,7 @@ has_additions: false
 1PE.3:22 who has gone into heaven and is at the right hand of God, angels and authorities and powers having been made subject to Him.
 ## Chapter 4
 
-1PE.4:1 herefore, since Christ suffered for us ain the flesh, arm yourselves also with the same mind, for he who has suffered in the flesh has ceased from sin,
+1PE.4:1 Therefore, since Christ suffered for us ain the flesh, arm yourselves also with the same mind, for he who has suffered in the flesh has ceased from sin,
 1PE.4:2 that he no longer should live the rest of his time in the flesh for the lusts of men, but for the will of God.
 1PE.4:3 For we have spent enough of our past lifetime ain doing the will of the Gentiles-when we walked in lewdness, lusts, drunkenness, revelries, drinking parties, and abominable idolatries.
 1PE.4:4 In regard to these, they think it strange that you do not run with them in the same flood of dissipation, speaking evil of you.
@@ -160,7 +160,7 @@ has_additions: false
 1PE.4:19 Therefore let those who suffer according to the will of God commit their souls to Him in doing good, as to afaithful Creator.
 ## Chapter 5
 
-1PE.5:1 he elders who are among you I exhort, I who am afellow elder and awitness of the sufferings of Christ, and also apartaker of the glory that will be revealed:
+1PE.5:1 The elders who are among you I exhort, I who am afellow elder and awitness of the sufferings of Christ, and also apartaker of the glory that will be revealed:
 1PE.5:2 Shepherd the flock of God which is among you, serving as overseers, not by compulsion but willingly, anot for dishonest gain but eagerly;
 1PE.5:3 nor as being lords over those entrusted to you, but being examples to the flock;
 1PE.5:4 and when the Chief Shepherd appears, you will receive the crown of glory that does not fade away.

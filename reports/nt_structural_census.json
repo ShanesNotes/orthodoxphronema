@@ -1,414 +1,1819 @@
-[
-  {
-    "book": "1CO",
-    "total_lines": 605,
-    "total_anchors": 433,
-    "total_chapters": 16,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "1": 2,
-      "3": 1
+{
+  "scan_date": "2026-03-12",
+  "books": {
+    "1CO": {
+      "total_anchors": 436,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 3,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "1JN",
-    "total_lines": 190,
-    "total_anchors": 105,
-    "total_chapters": 5,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {},
-    "total_missing_verses": 0,
-    "note_markers_found": false,
-    "structural_grade": "clean"
-  },
-  {
-    "book": "1PE",
-    "total_lines": 179,
-    "total_anchors": 99,
-    "total_chapters": 5,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "1": 4,
-      "2": 2,
-      "3": 1
+    "1JN": {
+      "total_anchors": 105,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 7,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "1TH",
-    "total_lines": 148,
-    "total_anchors": 88,
-    "total_chapters": 5,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "1": 1
+    "1PE": {
+      "total_anchors": 106,
+      "total_errors": 0,
+      "total_warnings": 2,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 1,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "1TI",
-    "total_lines": 216,
-    "total_anchors": 109,
-    "total_chapters": 6,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "2": 4
+    "1TH": {
+      "total_anchors": 89,
+      "total_errors": 0,
+      "total_warnings": 0,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 4,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "2CO",
-    "total_lines": 421,
-    "total_anchors": 255,
-    "total_chapters": 14,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "10": 1,
-      "13": 1
+    "1TI": {
+      "total_anchors": 113,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 2,
-    "note_markers_found": false,
-    "structural_grade": "minor"
-  },
-  {
-    "book": "2JN",
-    "total_lines": 38,
-    "total_anchors": 13,
-    "total_chapters": 1,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {},
-    "total_missing_verses": 0,
-    "note_markers_found": false,
-    "structural_grade": "clean"
-  },
-  {
-    "book": "2PE",
-    "total_lines": 107,
-    "total_anchors": 60,
-    "total_chapters": 3,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "1": 1
+    "2CO": {
+      "total_anchors": 257,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 1,
-    "note_markers_found": false,
-    "structural_grade": "minor"
-  },
-  {
-    "book": "2TH",
-    "total_lines": 91,
-    "total_anchors": 47,
-    "total_chapters": 3,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {},
-    "total_missing_verses": 0,
-    "note_markers_found": false,
-    "structural_grade": "clean"
-  },
-  {
-    "book": "2TI",
-    "total_lines": 147,
-    "total_anchors": 83,
-    "total_chapters": 4,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {},
-    "total_missing_verses": 0,
-    "note_markers_found": false,
-    "structural_grade": "clean"
-  },
-  {
-    "book": "3JN",
-    "total_lines": 46,
-    "total_anchors": 15,
-    "total_chapters": 1,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {},
-    "total_missing_verses": 0,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "ACT",
-    "total_lines": 1353,
-    "total_anchors": 998,
-    "total_chapters": 28,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "1": 2,
-      "2": 2,
-      "3": 1,
-      "7": 1,
-      "13": 3
+    "2JN": {
+      "total_anchors": 13,
+      "total_errors": 0,
+      "total_warnings": 0,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 9,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "COL",
-    "total_lines": 152,
-    "total_anchors": 94,
-    "total_chapters": 4,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "1": 1
+    "2PE": {
+      "total_anchors": 61,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 1,
-    "note_markers_found": false,
-    "structural_grade": "minor"
-  },
-  {
-    "book": "EPH",
-    "total_lines": 255,
-    "total_anchors": 141,
-    "total_chapters": 6,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "1": 1,
-      "2": 7,
-      "3": 5,
-      "4": 1
+    "2TH": {
+      "total_anchors": 47,
+      "total_errors": 0,
+      "total_warnings": 0,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 14,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "GAL",
-    "total_lines": 246,
-    "total_anchors": 149,
-    "total_chapters": 6,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {},
-    "total_missing_verses": 0,
-    "note_markers_found": false,
-    "structural_grade": "clean"
-  },
-  {
-    "book": "HEB",
-    "total_lines": 454,
-    "total_anchors": 288,
-    "total_chapters": 13,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "1": 4,
-      "2": 1,
-      "3": 1,
-      "4": 1,
-      "7": 2,
-      "8": 1,
-      "10": 4,
-      "11": 1
+    "2TI": {
+      "total_anchors": 83,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 15,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "JAS",
-    "total_lines": 170,
-    "total_anchors": 107,
-    "total_chapters": 5,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "1": 1
+    "3JN": {
+      "total_anchors": 15,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 1,
-    "note_markers_found": false,
-    "structural_grade": "minor"
-  },
-  {
-    "book": "JOH",
-    "total_lines": 1198,
-    "total_anchors": 882,
-    "total_chapters": 25,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {},
-    "total_missing_verses": 0,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "JUD",
-    "total_lines": 55,
-    "total_anchors": 24,
-    "total_chapters": 1,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "1": 1
+    "ACT": {
+      "total_anchors": 1007,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 1,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "LUK",
-    "total_lines": 1644,
-    "total_anchors": 1157,
-    "total_chapters": 24,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "2": 1,
-      "4": 1,
-      "19": 1
+    "COL": {
+      "total_anchors": 95,
+      "total_errors": 0,
+      "total_warnings": 2,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 3,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "MAT",
-    "total_lines": 1538,
-    "total_anchors": 1082,
-    "total_chapters": 28,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "4": 2,
-      "5": 2,
-      "24": 1
+    "EPH": {
+      "total_anchors": 155,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 5,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "MRK",
-    "total_lines": 1011,
-    "total_anchors": 690,
-    "total_chapters": 16,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {},
-    "total_missing_verses": 0,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "PHM",
-    "total_lines": 50,
-    "total_anchors": 25,
-    "total_chapters": 1,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {},
-    "total_missing_verses": 0,
-    "note_markers_found": false,
-    "structural_grade": "clean"
-  },
-  {
-    "book": "PHP",
-    "total_lines": 165,
-    "total_anchors": 104,
-    "total_chapters": 4,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {},
-    "total_missing_verses": 0,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "REV",
-    "total_lines": 646,
-    "total_anchors": 399,
-    "total_chapters": 22,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "16": 1,
-      "17": 2,
-      "19": 1
+    "GAL": {
+      "total_anchors": 149,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 4,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "ROM",
-    "total_lines": 606,
-    "total_anchors": 414,
-    "total_chapters": 16,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "2": 11,
-      "9": 3,
-      "10": 1,
-      "11": 2
+    "HEB": {
+      "total_anchors": 303,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 17,
-    "note_markers_found": true,
-    "structural_grade": "unstable"
-  },
-  {
-    "book": "TIT",
-    "total_lines": 90,
-    "total_anchors": 46,
-    "total_chapters": 3,
-    "chapter_zero_anchors": 0,
-    "duplicate_anchors": [],
-    "embedded_verse_lines": [],
-    "missing_verse_gaps": {
-      "2": 1
+    "JAS": {
+      "total_anchors": 108,
+      "total_errors": 0,
+      "total_warnings": 0,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
     },
-    "total_missing_verses": 1,
-    "note_markers_found": false,
-    "structural_grade": "minor"
+    "JOH": {
+      "total_anchors": 882,
+      "total_errors": 0,
+      "total_warnings": 3,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
+    },
+    "JUD": {
+      "total_anchors": 25,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
+    },
+    "LUK": {
+      "total_anchors": 1160,
+      "total_errors": 0,
+      "total_warnings": 3,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        }
+      }
+    },
+    "MAT": {
+      "total_anchors": 1087,
+      "total_errors": 0,
+      "total_warnings": 2,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
+    },
+    "MRK": {
+      "total_anchors": 690,
+      "total_errors": 0,
+      "total_warnings": 3,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V8": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        }
+      }
+    },
+    "PHM": {
+      "total_anchors": 25,
+      "total_errors": 0,
+      "total_warnings": 0,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
+    },
+    "PHP": {
+      "total_anchors": 104,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
+    },
+    "REV": {
+      "total_anchors": 403,
+      "total_errors": 0,
+      "total_warnings": 2,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        }
+      }
+    },
+    "ROM": {
+      "total_anchors": 431,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
+    },
+    "TIT": {
+      "total_anchors": 47,
+      "total_errors": 0,
+      "total_warnings": 1,
+      "checks": {
+        "V6": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V1": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V2": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V3": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V4": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V5": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V7": {
+          "status": "WARN",
+          "errors": 0,
+          "warnings": 1
+        },
+        "V8": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V9": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V10": {
+          "status": "SKIP",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V11": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        },
+        "V12": {
+          "status": "PASS",
+          "errors": 0,
+          "warnings": 0
+        }
+      }
+    }
+  },
+  "summary": {
+    "total_books": 27,
+    "total_errors": 0,
+    "total_warnings": 32
   }
-]
+}

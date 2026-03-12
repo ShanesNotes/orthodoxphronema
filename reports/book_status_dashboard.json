@@ -3310,6 +3310,250 @@
         "structural_hint_count": 0,
         "schema_mismatch_count": 0
       }
+    },
+    {
+      "code": "1CO",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 436,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "1JN",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 105,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "1PE",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 2,
+      "staged_anchors": 106,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "1TH",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 0,
+      "staged_anchors": 89,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "1TI",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 113,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "2CO",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 257,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "2JN",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 0,
+      "staged_anchors": 13,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "2PE",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 61,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "2TH",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 0,
+      "staged_anchors": 47,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "2TI",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 83,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "3JN",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 15,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "ACT",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 1007,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "COL",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 2,
+      "staged_anchors": 95,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "EPH",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 155,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "GAL",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 149,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "HEB",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 303,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "JAS",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 0,
+      "staged_anchors": 108,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "JOH",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 3,
+      "staged_anchors": 882,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "JUD",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 25,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "LUK",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 3,
+      "staged_anchors": 1160,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "MAT",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 2,
+      "staged_anchors": 1087,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "MRK",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 3,
+      "staged_anchors": 690,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "PHM",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 0,
+      "staged_anchors": 25,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "PHP",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 104,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "REV",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 2,
+      "staged_anchors": 403,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "ROM",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 431,
+      "last_validated": "2026-03-12"
+    },
+    {
+      "code": "TIT",
+      "testament": "NT",
+      "status": "staged",
+      "staged_errors": 0,
+      "staged_warnings": 1,
+      "staged_anchors": 47,
+      "last_validated": "2026-03-12"
     }
-  ]
+  ],
+  "last_updated": "2026-03-12"
 }

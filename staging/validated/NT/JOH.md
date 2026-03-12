@@ -85,7 +85,7 @@ JOH.1:50 Jesus answered and said to him, 'Because I said to you, 'I saw you unde
 JOH.1:51 And He said to him, 'Most assuredly, I say to you, hereafter ayou shall see heaven open, and the angels of God ascending and descending upon the Son of Man.'
 ## Chapter 2
 
-JOH.2:1 nthe third day there was awedding in Cana of Galilee, and the mother of Jesus was there.
+JOH.2:1 In the third day there was awedding in Cana of Galilee, and the mother of Jesus was there.
 JOH.2:2 Now both Jesus and His disciples were invited to the wedding.
 JOH.2:3 And when they ran out of wine, the mother of Jesus said to Him, 'They have no wine.'
 JOH.2:4 Jesus said to her, 'Woman, what does your concern have to do with Me? My hour has not yet come.'
@@ -118,7 +118,7 @@ JOH.2:24 But Jesus did not commit Himself to them, because He knew all men,
 JOH.2:25 and had no need that anyone should testify of man, for He knew what was in man.
 ## Chapter 3
 
-JOH.3:1 here was aman of the Pharisees named Nicodemus, aruler of the Jews.
+JOH.3:1 There was aman of the Pharisees named Nicodemus, aruler of the Jews.
 JOH.3:2 This man came to Jesus by night and said to Him, 'Rabbi, we know that You are ateacher come from God; for no one can do these signs that You do unless God is with him.'
 JOH.3:3 Jesus answered and said to him, 'Most assuredly, I say to you, unless one is born again, he cannot see the kingdom of God.'
 JOH.3:4 Nicodemus said to Him, 'How can aman be born when he is old? Can he enter asecond time into his mother's womb and be born?'
@@ -165,7 +165,7 @@ JOH.3:35 The Father loves the Son, and has given all things into His hand.
 JOH.3:36 He who believes in the Son has everlasting life; and he who does not believe the Son shall not see life, but the wrath of God abides on him.'
 ## Chapter 4
 
-JOH.4:1 herefore, when the Lord knew that the Pharisees had heard that Jesus made and baptized more disciples than John
+JOH.4:1 Therefore, when the Lord knew that the Pharisees had heard that Jesus made and baptized more disciples than John
 JOH.4:2 (though Jesus Himself did not baptize, but His disciples),
 JOH.4:3 He left Judea and departed again to Galilee.
 JOH.4:4 But He needed to go through Samaria.
@@ -230,7 +230,7 @@ JOH.4:53 So the father knew that it was at the same hour in which Jesus said to 
 JOH.4:54 This again is the second sign Jesus did when He had come out of Judea into Galilee.
 ## Chapter 5
 
-JOH.5:1 fter this there was afeast of the Jews, and Jesus went up to Jerusalem.
+JOH.5:1 After this there was afeast of the Jews, and Jesus went up to Jerusalem.
 JOH.5:2 Now there is in Jerusalem by the Sheep Gate apool, which is called in Hebrew, Bethesda, ahaving five porches.
 JOH.5:3 In these lay agreat multitude of sick people, blind, lame, paralyzed, waiting for the moving of the water.
 JOH.5:4 For an angel went down at acertain time into the pool and stirred up the water; then whoever stepped in first, after the stirring of the water, was made well of whatever disease he had. a
@@ -286,7 +286,7 @@ JOH.5:47 But if you do not believe his writings, how will you believe My words?'
 JOH.5:48 (Mt 14:13-21; Mk 6:30-44; Lk 9:10-17)
 ## Chapter 6
 
-JOH.6:1 fter these things Jesus went over the Sea of Galilee, which is the Sea of Tiberias.
+JOH.6:1 After these things Jesus went over the Sea of Galilee, which is the Sea of Tiberias.
 JOH.6:2 Then agreat multitude followed Him, because they saw His signs which He performed on those who were diseased.
 JOH.6:3 And Jesus went up on the mountain, and there He sat with His disciples.
 JOH.6:4 Now the Passover, afeast of the Jews, was near.
@@ -377,7 +377,7 @@ JOH.6:70 Jesus answered them, 'Did I not choose you, the twelve, and one of you 
 JOH.6:71 He spoke of Judas Iscariot, the son of Simon, for it was he who would betray Him, being one of the twelve.
 ## Chapter 7
 
-JOH.7:1 fter these things Jesus walked in Galilee; for He did not want to walk in Judea, because the Jews asought to kill Him.
+JOH.7:1 After these things Jesus walked in Galilee; for He did not want to walk in Judea, because the Jews asought to kill Him.
 JOH.7:2 Now the Jews' Feast of Tabernacles was at hand.
 JOH.7:3 His brothers therefore said to Him, 'Depart from here and go into Judea, that Your disciples also may see the works that You are doing.
 JOH.7:4 For no one does anything in secret while he himself seeks to be known openly. If You do these things, show Yourself to the world.'
@@ -444,7 +444,7 @@ JOH.7:52 They answered and said to him, 'Are you also from Galilee? Search and l
 JOH.7:53 And everyone went to his own house. a
 ## Chapter 8
 
-JOH.8:1 ut Jesus went to the Mount of Olives.
+JOH.8:1 But Jesus went to the Mount of Olives.
 JOH.8:2 1 Now early ain the morning He came again into the temple, and all the people came to Him; and He sat down and taught them.
 JOH.8:3 Then the scribes and Pharisees brought to Him awoman caught in adultery. And when they had set her in the midst,
 JOH.8:4 they said to Him, 'Teacher, this woman was caught ain adultery, in the very act.
@@ -520,7 +520,7 @@ JOH.8:58 Jesus said to them, 'Most assuredly, I say to you, before Abraham was, 
 JOH.8:59 Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, agoing through the midst of them, and so passed by.
 ## Chapter 9
 
-JOH.9:1 ow as Jesus passed by, He saw aman who was blind from birth.
+JOH.9:1 Now as Jesus passed by, He saw aman who was blind from birth.
 JOH.9:2 And His disciples asked Him, saying, 'Rabbi, who sinned, this man or his parents, that he was born blind?'
 JOH.9:3 Jesus answered, 'Neither this man nor his parents sinned, but that the works of God should be revealed in him.
 JOH.9:4 I amust work the works of Him who sent Me while it is day; the night is coming when no one can work.
@@ -625,7 +625,7 @@ JOH.10:41 Then many came to Him and said, 'John performed no sign, but all the t
 JOH.10:42 And many believed in Him there.
 ## Chapter 11
 
-JOH.11:1 ow acertain man was sick, Lazarus of Bethany, the town of Mary and her sister Martha.
+JOH.11:1 Now acertain man was sick, Lazarus of Bethany, the town of Mary and her sister Martha.
 JOH.11:2 It was that Mary who anointed the Lord with fragrant oil and wiped His feet with her hair, whose brother Lazarus was sick.
 JOH.11:3 Therefore the sisters sent to Him, saying, 'Lord, behold, he whom You love is sick.'
 JOH.11:4 When Jesus heard that, He said, 'This sickness is not unto death, but for the glory of God, that the Son of God may be glorified through it.'
@@ -696,7 +696,7 @@ JOH.11:56 Then they sought Jesus, and spoke among themselves as they stood in th
 JOH.11:57 Now both the chief priests and the Pharisees had given acommand, that if anyone knew where He was, he should report it, that they might seize Him.
 ## Chapter 12
 
-JOH.12:1 hen, six days before the Passover, Jesus came to Bethany, where Lazarus was who had been dead, awhom He had raised from the dead.
+JOH.12:1 Then, six days before the Passover, Jesus came to Bethany, where Lazarus was who had been dead, awhom He had raised from the dead.
 JOH.12:2 There they made Him asupper; and Martha served, but Lazarus was one of those who sat at the table with Him.
 JOH.12:3 Then Mary took apound of very costly oil of spikenard, anointed the feet of Jesus, and wiped His feet with her hair. And the house was filled with the fragrance of the oil.
 JOH.12:4 But one of His disciples, Judas Iscariot, Simon's son, who would betray Him, said,
@@ -769,7 +769,7 @@ JOH.12:49 For I have not spoken on My own authority; but the Father who sent Me 
 JOH.12:50 And I know that His command is everlasting life. Therefore, whatever I speak, just as the Father has told Me, so I speak.'
 ## Chapter 13
 
-JOH.13:1 ow before the Feast of the Passover, when Jesus knew that His hour had come that He should depart from this world to the Father, having loved His own who were in the world, He loved them to the end.
+JOH.13:1 Now before the Feast of the Passover, when Jesus knew that His hour had come that He should depart from this world to the Father, having loved His own who were in the world, He loved them to the end.
 JOH.13:2 And supper being ended, athe devil having already put it into the heart of Judas Iscariot, Simon's son, to betray Him,
 JOH.13:3 Jesus, knowing that the Father had given all things into His hands, and that He had come from God and was going to God,
 JOH.13:4 rose from supper and laid aside His garments, took atowel and girded Himself.
@@ -942,7 +942,7 @@ JOH.16:32 Indeed the hour is coming, yes, has now come, that you will be scatter
 JOH.16:33 These things I have spoken to you, that in Me you may have peace. In the world you will ahave tribulation; but be of good cheer, I have overcome the world.'
 ## Chapter 17
 
-JOH.17:1 esus spoke these words, lifted up His eyes to heaven, and said: 'Father, the hour has come. Glorify Your Son, that Your Son also may glorify You,
+JOH.17:1 Jesus spoke these words, lifted up His eyes to heaven, and said: 'Father, the hour has come. Glorify Your Son, that Your Son also may glorify You,
 JOH.17:2 as You have given Him authority over all flesh, that He should agive eternal life to as many as You have given Him.
 JOH.17:3 And this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent.
 JOH.17:4 I have glorified You on the earth. I have finished the work which You have given Me to do.
@@ -983,7 +983,7 @@ JOH.17:26 And I have declared to them Your name, and will declare it, that the l
 JOH.17:27 (Mt 26:47-56; Mk 14:43-52; Lk 22:47-53)
 ## Chapter 18
 
-JOH.18:1 hen Jesus had spoken these words, He went out with His disciples over the Brook Kidron, where there was agarden, which He and His disciples entered.
+JOH.18:1 When Jesus had spoken these words, He went out with His disciples over the Brook Kidron, where there was agarden, which He and His disciples entered.
 JOH.18:2 And Judas, who betrayed Him, also knew the place; for Jesus often met there with His disciples.
 JOH.18:3 Then Judas, having received adetachment of troops, and officers from the chief priests and Pharisees, came there with lanterns, torches, and weapons.
 JOH.18:4 Jesus therefore, knowing all things that would come upon Him, went forward and said to them, 'Whom are you seeking?'
@@ -1028,7 +1028,7 @@ JOH.18:39 'But you have acustom that I should release someone to you at the Pass
 JOH.18:40 Then they all cried again, saying, 'Not this Man, but Barabbas!' Now Barabbas was arobber.
 ## Chapter 19
 
-JOH.19:1 othen Pilate took Jesus and scourged Him.
+JOH.19:1 So then Pilate took Jesus and scourged Him.
 JOH.19:2 And the soldiers twisted acrown of thorns and put it on His head, and they put on Him apurple robe.
 JOH.19:3 Then they said, a 'Hail, King of the Jews!' And they struck Him with their hands.
 
@@ -1097,7 +1097,7 @@ JOH.19:42 So there they laid Jesus, because of the Jews' Preparation Day, for th
 JOH.19:43 (Mt 28:1-8; Mk 16:1-8; Lk 24:1-12)
 ## Chapter 20
 
-JOH.20:1 ow the first day of the week Mary Magdalene went to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb.
+JOH.20:1 Now the first day of the week Mary Magdalene went to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb.
 JOH.20:2 Then she ran and came to Simon Peter, and to the other disciple, whom Jesus loved, and said to them, 'They have taken away the Lord out of the tomb, and we do not know where they have laid Him.'
 JOH.20:3 Peter therefore went out, and the other disciple, and were going to the tomb.
 JOH.20:4 So they both ran together, and the other disciple outran Peter and came to the tomb first.
@@ -1142,7 +1142,7 @@ JOH.20:30 And truly Jesus did many other signs in the presence of His disciples,
 JOH.20:31 but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in His name.
 ## Chapter 21
 
-JOH.21:1 fter these things Jesus showed Himself again to the disciples at the Sea of Tiberias, and in this way He showed Himself:
+JOH.21:1 After these things Jesus showed Himself again to the disciples at the Sea of Tiberias, and in this way He showed Himself:
 JOH.21:2 Simon Peter, Thomas called the Twin, Nathanael of Cana in Galilee, the sons of Zebedee, and two others of His disciples were together.
 JOH.21:3 Simon Peter said to them, 'I am going fishing.'
 JOH.21:4 They said to him, 'We are going with you also.' They went out and immediately agot into the boat, and that night they caught nothing. But when the morning had now come, Jesus stood on the shore; yet the disciples did not know that it was Jesus.
@@ -1174,13 +1174,13 @@ JOH.21:20 Then Peter, turning around, saw the disciple whom Jesus loved followin
 JOH.21:21 Peter, seeing him, said to Jesus, 'But Lord, what about this man?'
 ## Chapter 22
 
-JOH.22:1 esus said to him, 'If I will that he remain till I come, what is that to you? You follow Me.'
+JOH.22:1 Jesus said to him, 'If I will that he remain till I come, what is that to you? You follow Me.'
 ## Chapter 23
 
-JOH.23:1 hen this saying went out among the brethren that this disciple would not die. Yet Jesus did not say to him that he would not die, but, 'If I will that he remain till I come, what is that to you?'
+JOH.23:1 Then this saying went out among the brethren that this disciple would not die. Yet Jesus did not say to him that he would not die, but, 'If I will that he remain till I come, what is that to you?'
 ## Chapter 24
 
-JOH.24:1 his is the disciple who testifies of these things, and wrote these things; and we know that his testimony is true.
+JOH.24:1 This is the disciple who testifies of these things, and wrote these things; and we know that his testimony is true.
 ## Chapter 25
 
-JOH.25:1 nd there are also many other things that Jesus did, which if they were written one by one, I suppose that even the world itself could not contain the books that would be written. Amen.
+JOH.25:1 And there are also many other things that Jesus did, which if they were written one by one, I suppose that even the world itself could not contain the books that would be written. Amen.

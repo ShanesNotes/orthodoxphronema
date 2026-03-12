@@ -1,0 +1,1587 @@
+{
+  "scan_date": "2026-03-12",
+  "tool": "pipeline/cleanup/nt_dropcap_recovery.py",
+  "mode": "apply",
+  "total_issues": 197,
+  "matched": 197,
+  "unmatched": 0,
+  "applied": 197,
+  "issues": [
+    {
+      "anchor": "1CO.2:1",
+      "line_num": 70,
+      "original_start": "nd I, brethren, when I came to you, did not come with excellence of speech or of",
+      "fixed_start": "And I, brethren, when I came to you, did not come with excellence of speech or o",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.3:1",
+      "line_num": 91,
+      "original_start": "nd I, brethren, could not speak to you as to spiritual people but as to carnal, ",
+      "fixed_start": "And I, brethren, could not speak to you as to spiritual people but as to carnal,",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.4:1",
+      "line_num": 125,
+      "original_start": "et aman so consider us, as servants of Christ and stewards of the mysteries of G",
+      "fixed_start": "Let aman so consider us, as servants of Christ and stewards of the mysteries of ",
+      "note": "'et' → 'Let'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.5:1",
+      "line_num": 154,
+      "original_start": "tis actually reported that there is sexual immorality among you, and such sexual",
+      "fixed_start": "It is actually reported that there is sexual immorality among you, and such sexu",
+      "note": "'tis' → 'It is'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.6:1",
+      "line_num": 172,
+      "original_start": "are any of you, having amatter against another, go to law before the unrighteous",
+      "fixed_start": "Dare any of you, having amatter against another, go to law before the unrighteou",
+      "note": "'are' → 'Dare'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.7:1",
+      "line_num": 200,
+      "original_start": "ow concerning the things of which you wrote to me: It is good for aman not to to",
+      "fixed_start": "Now concerning the things of which you wrote to me: It is good for aman not to t",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.8:1",
+      "line_num": 251,
+      "original_start": "ow concerning things offered to idols: We know that we all have knowledge. Knowl",
+      "fixed_start": "Now concerning things offered to idols: We know that we all have knowledge. Know",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.9:1",
+      "line_num": 269,
+      "original_start": "m I not an apostle? Am I not free? Have I not seen Jesus Christ our Lord? Are yo",
+      "fixed_start": "Am I not an apostle? Am I not free? Have I not seen Jesus Christ our Lord? Are y",
+      "note": "'m I' → 'Am I'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.10:1",
+      "line_num": 307,
+      "original_start": "oreover, brethren, I do not want you to be unaware that all our fathers were und",
+      "fixed_start": "Moreover, brethren, I do not want you to be unaware that all our fathers were un",
+      "note": "'oreover' → 'Moreover'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.11:1",
+      "line_num": 351,
+      "original_start": "mitate me, just as I also imitate Christ.",
+      "fixed_start": "Imitate me, just as I also imitate Christ.",
+      "note": "'mitate' → 'Imitate'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.12:1",
+      "line_num": 393,
+      "original_start": "ow concerning spiritual gifts, brethren, I do not want you to be ignorant:",
+      "fixed_start": "Now concerning spiritual gifts, brethren, I do not want you to be ignorant:",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.13:1",
+      "line_num": 429,
+      "original_start": "hough I speak with the tongues of men and of angels, but have not love, I have b",
+      "fixed_start": "Though I speak with the tongues of men and of angels, but have not love, I have ",
+      "note": "'hough' → 'Though'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.14:1",
+      "line_num": 447,
+      "original_start": "ursue love, and desire spiritual gifts, but especially that you may prophesy.",
+      "fixed_start": "Pursue love, and desire spiritual gifts, but especially that you may prophesy.",
+      "note": "'ursue' → 'Pursue'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.15:1",
+      "line_num": 498,
+      "original_start": "oreover, brethren, I declare to you the gospel which I preached to you, which al",
+      "fixed_start": "Moreover, brethren, I declare to you the gospel which I preached to you, which a",
+      "note": "'oreover' → 'Moreover'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1CO.16:1",
+      "line_num": 579,
+      "original_start": "ow concerning the collection for the saints, as I have given orders to the churc",
+      "fixed_start": "Now concerning the collection for the saints, as I have given orders to the chur",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1PE.3:1",
+      "line_num": 97,
+      "original_start": "ives, likewise, be submissive to your own husbands, that even if some do not obe",
+      "fixed_start": "Wives, likewise, be submissive to your own husbands, that even if some do not ob",
+      "note": "'ives' → 'Wives'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1PE.4:1",
+      "line_num": 133,
+      "original_start": "herefore, since Christ suffered for us ain the flesh, arm yourselves also with t",
+      "fixed_start": "Therefore, since Christ suffered for us ain the flesh, arm yourselves also with ",
+      "note": "'herefore' → 'Therefore'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "1PE.5:1",
+      "line_num": 163,
+      "original_start": "he elders who are among you I exhort, I who am afellow elder and awitness of the",
+      "fixed_start": "The elders who are among you I exhort, I who am afellow elder and awitness of th",
+      "note": "'he elders' → 'The elders'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.2:1",
+      "line_num": 58,
+      "original_start": "ut I determined this within myself, that I would not come again to you in sorrow",
+      "fixed_start": "But I determined this within myself, that I would not come again to you in sorro",
+      "note": "'ut' → 'But'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.3:1",
+      "line_num": 86,
+      "original_start": "owe begin again to commend ourselves? Or do we need, as some others, epistles of",
+      "fixed_start": "Do we begin again to commend ourselves? Or do we need, as some others, epistles ",
+      "note": "'owe' → 'Do we'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.4:1",
+      "line_num": 118,
+      "original_start": "herefore, since we have this ministry, as we have received mercy, we do not lose",
+      "fixed_start": "Therefore, since we have this ministry, as we have received mercy, we do not los",
+      "note": "'herefore' → 'Therefore'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.5:1",
+      "line_num": 147,
+      "original_start": "or we know that if our earthly house, this tent, is destroyed, we have abuilding",
+      "fixed_start": "For we know that if our earthly house, this tent, is destroyed, we have abuildin",
+      "note": "'or' → 'For'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.6:1",
+      "line_num": 182,
+      "original_start": "ethen, as workers together with Him also plead with you not to receive the grace",
+      "fixed_start": "We then, as workers together with Him also plead with you not to receive the gra",
+      "note": "'ethen' → 'We then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.7:1",
+      "line_num": 205,
+      "original_start": "herefore, having these promises, beloved, let us cleanse ourselves from all filt",
+      "fixed_start": "Therefore, having these promises, beloved, let us cleanse ourselves from all fil",
+      "note": "'herefore' → 'Therefore'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.8:1",
+      "line_num": 229,
+      "original_start": "oreover, brethren, we make known to you the grace of God bestowed on the churche",
+      "fixed_start": "Moreover, brethren, we make known to you the grace of God bestowed on the church",
+      "note": "'oreover' → 'Moreover'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.9:1",
+      "line_num": 261,
+      "original_start": "ow concerning the ministering to the saints, it is superfluous for me to write t",
+      "fixed_start": "Now concerning the ministering to the saints, it is superfluous for me to write ",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.10:1",
+      "line_num": 284,
+      "original_start": "ow I, Paul, myself am pleading with you by the meekness and gentleness of Christ",
+      "fixed_start": "Now I, Paul, myself am pleading with you by the meekness and gentleness of Chris",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.11:1",
+      "line_num": 313,
+      "original_start": "h, that you would bear with me in alittle folly-and indeed you do bear with me.",
+      "fixed_start": "Oh, that you would bear with me in alittle folly-and indeed you do bear with me.",
+      "note": "'h, that you' → 'Oh, that you'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.12:1",
+      "line_num": 360,
+      "original_start": "tis doubtless anot profitable for me to boast. I will come to visions and revela",
+      "fixed_start": "It is doubtless anot profitable for me to boast. I will come to visions and reve",
+      "note": "'tis' → 'It is'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.13:1",
+      "line_num": 395,
+      "original_start": "his will be the third time I am coming to you. 'By the mouth of two or three wit",
+      "fixed_start": "This will be the third time I am coming to you. 'By the mouth of two or three wi",
+      "note": "'his will' → 'This will'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2CO.14:1",
+      "line_num": 413,
+      "original_start": "he grace of the Lord Jesus Christ, and the love of God, and the communion of the",
+      "fixed_start": "The grace of the Lord Jesus Christ, and the love of God, and the communion of th",
+      "note": "'he grace' → 'The grace'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2PE.2:1",
+      "line_num": 53,
+      "original_start": "ut there were also false prophets among the people, even as there will be false ",
+      "fixed_start": "But there were also false prophets among the people, even as there will be false",
+      "note": "'ut' → 'But'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2PE.3:1",
+      "line_num": 89,
+      "original_start": "eloved, I now write to you this second epistle (in both of which I stir up your ",
+      "fixed_start": "Beloved, I now write to you this second epistle (in both of which I stir up your",
+      "note": "'eloved' → 'Beloved'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2TH.1:1",
+      "line_num": 17,
+      "original_start": "aul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father",
+      "fixed_start": "Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Fathe",
+      "note": "'aul' → 'Paul'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2TH.2:1",
+      "line_num": 40,
+      "original_start": "ow, brethren, concerning the coming of our Lord Jesus Christ and our gathering t",
+      "fixed_start": "Now, brethren, concerning the coming of our Lord Jesus Christ and our gathering ",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2TH.3:1",
+      "line_num": 65,
+      "original_start": "inally, brethren, pray for us, that the word of the Lord may run swiftly and be ",
+      "fixed_start": "Finally, brethren, pray for us, that the word of the Lord may run swiftly and be",
+      "note": "'inally' → 'Finally'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2TI.1:1",
+      "line_num": 17,
+      "original_start": "aul, an apostle of Jesus Christ aby the will of God, according to the promise of",
+      "fixed_start": "Paul, an apostle of Jesus Christ aby the will of God, according to the promise o",
+      "note": "'aul' → 'Paul'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2TI.2:1",
+      "line_num": 49,
+      "original_start": "ou therefore, my son, be strong in the grace that is in Christ Jesus.",
+      "fixed_start": "You therefore, my son, be strong in the grace that is in Christ Jesus.",
+      "note": "'ou therefore' → 'You therefore'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2TI.3:1",
+      "line_num": 89,
+      "original_start": "ut know this, that in the last days perilous times will come:",
+      "fixed_start": "But know this, that in the last days perilous times will come:",
+      "note": "'ut' → 'But'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "2TI.4:1",
+      "line_num": 114,
+      "original_start": "charge you therefore before God and the Lord Jesus Christ, who will judge the li",
+      "fixed_start": "I charge you therefore before God and the Lord Jesus Christ, who will judge the ",
+      "note": "'charge' → 'I charge'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.3:1",
+      "line_num": 127,
+      "original_start": "ow Peter and John went up together to the temple at the hour of prayer, the nint",
+      "fixed_start": "Now Peter and John went up together to the temple at the hour of prayer, the nin",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.4:1",
+      "line_num": 161,
+      "original_start": "ow as they spoke to the people, the priests, the captain of the temple, and the ",
+      "fixed_start": "Now as they spoke to the people, the priests, the captain of the temple, and the",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.5:1",
+      "line_num": 212,
+      "original_start": "ut acertain man named Ananias, with Sapphira his wife, sold apossession.",
+      "fixed_start": "But acertain man named Ananias, with Sapphira his wife, sold apossession.",
+      "note": "'ut' → 'But'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.6:1",
+      "line_num": 268,
+      "original_start": "ow in those days, when the number of the disciples was multiplying, there arose ",
+      "fixed_start": "Now in those days, when the number of the disciples was multiplying, there arose",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.7:1",
+      "line_num": 291,
+      "original_start": "hen the high priest said, 'Are these things so?'",
+      "fixed_start": "Then the high priest said, 'Are these things so?'",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.8:1",
+      "line_num": 359,
+      "original_start": "ow Saul was consenting to his death. At that time agreat persecution arose again",
+      "fixed_start": "Now Saul was consenting to his death. At that time agreat persecution arose agai",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.9:1",
+      "line_num": 413,
+      "original_start": "hen Saul, still breathing threats and murder against the disciples of the Lord, ",
+      "fixed_start": "Then Saul, still breathing threats and murder against the disciples of the Lord,",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.10:1",
+      "line_num": 470,
+      "original_start": "here was acertain man in Caesarea called Cornelius, acenturion of what was calle",
+      "fixed_start": "There was acertain man in Caesarea called Cornelius, acenturion of what was call",
+      "note": "'here was' → 'There was'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.11:1",
+      "line_num": 532,
+      "original_start": "ow the apostles and brethren who were in Judea heard that the Gentiles had also ",
+      "fixed_start": "Now the apostles and brethren who were in Judea heard that the Gentiles had also",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.12:1",
+      "line_num": 573,
+      "original_start": "ow about that time Herod the king stretched out his hand to harass some from the",
+      "fixed_start": "Now about that time Herod the king stretched out his hand to harass some from th",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.13:1",
+      "line_num": 606,
+      "original_start": "ow in the church that was at Antioch there were certain prophets and teachers: B",
+      "fixed_start": "Now in the church that was at Antioch there were certain prophets and teachers: ",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.14:1",
+      "line_num": 672,
+      "original_start": "ow it happened in Iconium that they went together to the synagogue of the Jews, ",
+      "fixed_start": "Now it happened in Iconium that they went together to the synagogue of the Jews,",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.15:1",
+      "line_num": 714,
+      "original_start": "nd certain men came down from Judea and taught the brethren, 'Unless you are cir",
+      "fixed_start": "And certain men came down from Judea and taught the brethren, 'Unless you are ci",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.16:1",
+      "line_num": 772,
+      "original_start": "hen he came to Derbe and Lystra. And behold, acertain disciple was there, named ",
+      "fixed_start": "Then he came to Derbe and Lystra. And behold, acertain disciple was there, named",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.17:1",
+      "line_num": 832,
+      "original_start": "ow when they had passed through Amphipolis and Apollonia, they came to Thessalon",
+      "fixed_start": "Now when they had passed through Amphipolis and Apollonia, they came to Thessalo",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.18:1",
+      "line_num": 880,
+      "original_start": "fter these things Paul departed from Athens and went to Corinth.",
+      "fixed_start": "After these things Paul departed from Athens and went to Corinth.",
+      "note": "'fter' → 'After'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.19:1",
+      "line_num": 925,
+      "original_start": "nd it happened, while Apollos was at Corinth, that Paul, having passed through t",
+      "fixed_start": "And it happened, while Apollos was at Corinth, that Paul, having passed through ",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.20:1",
+      "line_num": 980,
+      "original_start": "fter the uproar had ceased, Paul called the disciples to himself, embraced them,",
+      "fixed_start": "After the uproar had ceased, Paul called the disciples to himself, embraced them",
+      "note": "'fter' → 'After'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.21:1",
+      "line_num": 1029,
+      "original_start": "ow it came to pass, that when we had departed from them and set sail, running as",
+      "fixed_start": "Now it came to pass, that when we had departed from them and set sail, running a",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.23:1",
+      "line_num": 1118,
+      "original_start": "hen Paul, looking earnestly at the council, said, 'Men and brethren, I have live",
+      "fixed_start": "Then Paul, looking earnestly at the council, said, 'Men and brethren, I have liv",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.24:1",
+      "line_num": 1164,
+      "original_start": "ow after five days Ananias the high priest came down with the elders and acertai",
+      "fixed_start": "Now after five days Ananias the high priest came down with the elders and acerta",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.25:1",
+      "line_num": 1202,
+      "original_start": "ow when Festus had come to the province, after three days he went up from Caesar",
+      "fixed_start": "Now when Festus had come to the province, after three days he went up from Caesa",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.26:1",
+      "line_num": 1237,
+      "original_start": "hen Agrippa said to Paul, 'You are permitted to speak for yourself.'",
+      "fixed_start": "Then Agrippa said to Paul, 'You are permitted to speak for yourself.'",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.27:1",
+      "line_num": 1277,
+      "original_start": "nd when it was decided that we should sail to Italy, they delivered Paul and som",
+      "fixed_start": "And when it was decided that we should sail to Italy, they delivered Paul and so",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ACT.28:1",
+      "line_num": 1326,
+      "original_start": "ow when they had escaped, they then found out that the island was called Malta.",
+      "fixed_start": "Now when they had escaped, they then found out that the island was called Malta.",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "COL.2:1",
+      "line_num": 68,
+      "original_start": "or I want you to know what agreat conflict I have for you and those in Laodicea,",
+      "fixed_start": "For I want you to know what agreat conflict I have for you and those in Laodicea",
+      "note": "'or' → 'For'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "COL.3:1",
+      "line_num": 102,
+      "original_start": "fthen you were raised with Christ, seek those things which are above, where Chri",
+      "fixed_start": "If then you were raised with Christ, seek those things which are above, where Ch",
+      "note": "'fthen' → 'If then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "COL.4:1",
+      "line_num": 135,
+      "original_start": "asters, give your bondservants what is just and fair, knowing that you also have",
+      "fixed_start": "Masters, give your bondservants what is just and fair, knowing that you also hav",
+      "note": "'asters' → 'Masters'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "EPH.5:1",
+      "line_num": 169,
+      "original_start": "herefore be imitators of God as dear children.",
+      "fixed_start": "Therefore be imitators of God as dear children.",
+      "note": "'herefore' → 'Therefore'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "EPH.6:1",
+      "line_num": 222,
+      "original_start": "hildren, obey your parents in the Lord, for this is right.",
+      "fixed_start": "Children, obey your parents in the Lord, for this is right.",
+      "note": "'hildren' → 'Children'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "GAL.2:1",
+      "line_num": 55,
+      "original_start": "hen after fourteen years I went up again to Jerusalem with Barnabas, and also to",
+      "fixed_start": "Then after fourteen years I went up again to Jerusalem with Barnabas, and also t",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "GAL.3:1",
+      "line_num": 87,
+      "original_start": "foolish Galatians! Who has bewitched you that you should not obey the truth, abe",
+      "fixed_start": "O foolish Galatians! Who has bewitched you that you should not obey the truth, a",
+      "note": "'foolish' → 'O foolish'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "GAL.4:1",
+      "line_num": 136,
+      "original_start": "ow I say that the heir, as long as he is achild, does not differ at all from asl",
+      "fixed_start": "Now I say that the heir, as long as he is achild, does not differ at all from as",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "GAL.5:1",
+      "line_num": 178,
+      "original_start": "tand fast therefore in the liberty by which Christ has made us free, aand do not",
+      "fixed_start": "Stand fast therefore in the liberty by which Christ has made us free, aand do no",
+      "note": "'tand' → 'Stand'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "GAL.6:1",
+      "line_num": 215,
+      "original_start": "rethren, if aman is overtaken in any trespass, you who are spiritual restore suc",
+      "fixed_start": "Brethren, if aman is overtaken in any trespass, you who are spiritual restore su",
+      "note": "'rethren' → 'Brethren'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "HEB.9:1",
+      "line_num": 231,
+      "original_start": "hen indeed, even the first covenant had ordinances of divine service and the ear",
+      "fixed_start": "Then indeed, even the first covenant had ordinances of divine service and the ea",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "HEB.10:1",
+      "line_num": 273,
+      "original_start": "or the law, having ashadow of the good things to come, and not the very image of",
+      "fixed_start": "For the law, having ashadow of the good things to come, and not the very image o",
+      "note": "'or' → 'For'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "HEB.11:1",
+      "line_num": 329,
+      "original_start": "ow faith is the substance of things hoped for, the evidence of things not seen.",
+      "fixed_start": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "HEB.12:1",
+      "line_num": 392,
+      "original_start": "herefore we also, since we are surrounded by so great acloud of witnesses, let u",
+      "fixed_start": "Therefore we also, since we are surrounded by so great acloud of witnesses, let ",
+      "note": "'herefore' → 'Therefore'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JAS.2:1",
+      "line_num": 60,
+      "original_start": "ybrethren, do not hold the faith of our Lord Jesus Christ, the Lord of glory, wi",
+      "fixed_start": "My brethren, do not hold the faith of our Lord Jesus Christ, the Lord of glory, ",
+      "note": "'ybrethren' → 'My brethren'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JAS.3:1",
+      "line_num": 94,
+      "original_start": "ybrethren, let not many of you become teachers, knowing that we shall receive as",
+      "fixed_start": "My brethren, let not many of you become teachers, knowing that we shall receive ",
+      "note": "'ybrethren' → 'My brethren'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JAS.4:1",
+      "line_num": 120,
+      "original_start": "here do wars and fights come from among you? Do they not come from your desires ",
+      "fixed_start": "Where do wars and fights come from among you? Do they not come from your desires",
+      "note": "'here do' → 'Where do'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JAS.5:1",
+      "line_num": 148,
+      "original_start": "ome now, you rich, weep and howl for your miseries that are coming upon you!",
+      "fixed_start": "Come now, you rich, weep and howl for your miseries that are coming upon you!",
+      "note": "'ome now' → 'Come now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.2:1",
+      "line_num": 88,
+      "original_start": "nthe third day there was awedding in Cana of Galilee, and the mother of Jesus wa",
+      "fixed_start": "In the third day there was awedding in Cana of Galilee, and the mother of Jesus ",
+      "note": "'nthe' → 'In the'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.3:1",
+      "line_num": 121,
+      "original_start": "here was aman of the Pharisees named Nicodemus, aruler of the Jews.",
+      "fixed_start": "There was aman of the Pharisees named Nicodemus, aruler of the Jews.",
+      "note": "'here was' → 'There was'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.4:1",
+      "line_num": 168,
+      "original_start": "herefore, when the Lord knew that the Pharisees had heard that Jesus made and ba",
+      "fixed_start": "Therefore, when the Lord knew that the Pharisees had heard that Jesus made and b",
+      "note": "'herefore' → 'Therefore'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.5:1",
+      "line_num": 233,
+      "original_start": "fter this there was afeast of the Jews, and Jesus went up to Jerusalem.",
+      "fixed_start": "After this there was afeast of the Jews, and Jesus went up to Jerusalem.",
+      "note": "'fter' → 'After'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.6:1",
+      "line_num": 289,
+      "original_start": "fter these things Jesus went over the Sea of Galilee, which is the Sea of Tiberi",
+      "fixed_start": "After these things Jesus went over the Sea of Galilee, which is the Sea of Tiber",
+      "note": "'fter' → 'After'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.7:1",
+      "line_num": 380,
+      "original_start": "fter these things Jesus walked in Galilee; for He did not want to walk in Judea,",
+      "fixed_start": "After these things Jesus walked in Galilee; for He did not want to walk in Judea",
+      "note": "'fter' → 'After'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.8:1",
+      "line_num": 447,
+      "original_start": "ut Jesus went to the Mount of Olives.",
+      "fixed_start": "But Jesus went to the Mount of Olives.",
+      "note": "'ut' → 'But'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.9:1",
+      "line_num": 523,
+      "original_start": "ow as Jesus passed by, He saw aman who was blind from birth.",
+      "fixed_start": "Now as Jesus passed by, He saw aman who was blind from birth.",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.11:1",
+      "line_num": 628,
+      "original_start": "ow acertain man was sick, Lazarus of Bethany, the town of Mary and her sister Ma",
+      "fixed_start": "Now acertain man was sick, Lazarus of Bethany, the town of Mary and her sister M",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.12:1",
+      "line_num": 699,
+      "original_start": "hen, six days before the Passover, Jesus came to Bethany, where Lazarus was who ",
+      "fixed_start": "Then, six days before the Passover, Jesus came to Bethany, where Lazarus was who",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.13:1",
+      "line_num": 772,
+      "original_start": "ow before the Feast of the Passover, when Jesus knew that His hour had come that",
+      "fixed_start": "Now before the Feast of the Passover, when Jesus knew that His hour had come tha",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.17:1",
+      "line_num": 945,
+      "original_start": "esus spoke these words, lifted up His eyes to heaven, and said: 'Father, the hou",
+      "fixed_start": "Jesus spoke these words, lifted up His eyes to heaven, and said: 'Father, the ho",
+      "note": "'esus' → 'Jesus'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.18:1",
+      "line_num": 986,
+      "original_start": "hen Jesus had spoken these words, He went out with His disciples over the Brook ",
+      "fixed_start": "When Jesus had spoken these words, He went out with His disciples over the Brook",
+      "note": "'hen Jesus had spoken' → 'When Jesus had spoken'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.19:1",
+      "line_num": 1031,
+      "original_start": "othen Pilate took Jesus and scourged Him.",
+      "fixed_start": "So then Pilate took Jesus and scourged Him.",
+      "note": "'othen' → 'So then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.20:1",
+      "line_num": 1100,
+      "original_start": "ow the first day of the week Mary Magdalene went to the tomb early, while it was",
+      "fixed_start": "Now the first day of the week Mary Magdalene went to the tomb early, while it wa",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.21:1",
+      "line_num": 1145,
+      "original_start": "fter these things Jesus showed Himself again to the disciples at the Sea of Tibe",
+      "fixed_start": "After these things Jesus showed Himself again to the disciples at the Sea of Tib",
+      "note": "'fter' → 'After'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.22:1",
+      "line_num": 1177,
+      "original_start": "esus said to him, 'If I will that he remain till I come, what is that to you? Yo",
+      "fixed_start": "Jesus said to him, 'If I will that he remain till I come, what is that to you? Y",
+      "note": "'esus' → 'Jesus'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.23:1",
+      "line_num": 1180,
+      "original_start": "hen this saying went out among the brethren that this disciple would not die. Ye",
+      "fixed_start": "Then this saying went out among the brethren that this disciple would not die. Y",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.24:1",
+      "line_num": 1183,
+      "original_start": "his is the disciple who testifies of these things, and wrote these things; and w",
+      "fixed_start": "This is the disciple who testifies of these things, and wrote these things; and ",
+      "note": "'his is' → 'This is'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "JOH.25:1",
+      "line_num": 1186,
+      "original_start": "nd there are also many other things that Jesus did, which if they were written o",
+      "fixed_start": "And there are also many other things that Jesus did, which if they were written ",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.2:1",
+      "line_num": 123,
+      "original_start": "nd it came to pass in those days that adecree went out from Caesar Augustus that",
+      "fixed_start": "And it came to pass in those days that adecree went out from Caesar Augustus tha",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.3:1",
+      "line_num": 202,
+      "original_start": "ow in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being g",
+      "fixed_start": "Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being ",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.4:1",
+      "line_num": 252,
+      "original_start": "hen Jesus, being filled with the Holy Spirit, returned from the Jordan and was l",
+      "fixed_start": "Then Jesus, being filled with the Holy Spirit, returned from the Jordan and was ",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.5:1",
+      "line_num": 316,
+      "original_start": "oit was, as the multitude pressed about Him to hear the word of God, that He sto",
+      "fixed_start": "So it was, as the multitude pressed about Him to hear the word of God, that He s",
+      "note": "'oit was' → 'So it was'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.6:1",
+      "line_num": 372,
+      "original_start": "ow it happened on the second Sabbath after the first athat He went through the g",
+      "fixed_start": "Now it happened on the second Sabbath after the first athat He went through the ",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.7:1",
+      "line_num": 447,
+      "original_start": "ow when He concluded all His sayings in the hearing of the people, He entered Ca",
+      "fixed_start": "Now when He concluded all His sayings in the hearing of the people, He entered C",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.8:1",
+      "line_num": 511,
+      "original_start": "ow it came to pass, afterward, that He went through every city and village, prea",
+      "fixed_start": "Now it came to pass, afterward, that He went through every city and village, pre",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.9:1",
+      "line_num": 594,
+      "original_start": "hen He called His twelve disciples together and gave them power and authority ov",
+      "fixed_start": "Then He called His twelve disciples together and gave them power and authority o",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.10:1",
+      "line_num": 688,
+      "original_start": "fter these things the Lord appointed seventy others also, aand sent them two by ",
+      "fixed_start": "After these things the Lord appointed seventy others also, aand sent them two by",
+      "note": "'fter' → 'After'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.11:1",
+      "line_num": 741,
+      "original_start": "ow it came to pass, as He was praying in acertain place, when He ceased, that on",
+      "fixed_start": "Now it came to pass, as He was praying in acertain place, when He ceased, that o",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.12:1",
+      "line_num": 815,
+      "original_start": "nthe meantime, when an innumerable multitude of people had gathered together, so",
+      "fixed_start": "In the meantime, when an innumerable multitude of people had gathered together, ",
+      "note": "'nthe' → 'In the'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.13:1",
+      "line_num": 888,
+      "original_start": "here were present at that season some who told Him about the Galileans whose blo",
+      "fixed_start": "There were present at that season some who told Him about the Galileans whose bl",
+      "note": "'here were' → 'There were'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.14:1",
+      "line_num": 943,
+      "original_start": "ow it happened, as He went into the house of one of the rulers of the Pharisees ",
+      "fixed_start": "Now it happened, as He went into the house of one of the rulers of the Pharisees",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.15:1",
+      "line_num": 995,
+      "original_start": "hen all the tax collectors and the sinners drew near to Him to hear Him.",
+      "fixed_start": "Then all the tax collectors and the sinners drew near to Him to hear Him.",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.16:1",
+      "line_num": 1038,
+      "original_start": "ealso said to His disciples: 'There was acertain rich man who had asteward, and ",
+      "fixed_start": "He also said to His disciples: 'There was acertain rich man who had asteward, an",
+      "note": "'ealso' → 'He also'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.17:1",
+      "line_num": 1081,
+      "original_start": "hen He said to the disciples, 'It is impossible that no offenses should come, bu",
+      "fixed_start": "Then He said to the disciples, 'It is impossible that no offenses should come, b",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.18:1",
+      "line_num": 1130,
+      "original_start": "hen He spoke aparable to them, that men always ought to pray and not lose heart,",
+      "fixed_start": "Then He spoke aparable to them, that men always ought to pray and not lose heart",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.19:1",
+      "line_num": 1196,
+      "original_start": "hen Jesus entered and passed through Jericho.",
+      "fixed_start": "Then Jesus entered and passed through Jericho.",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.20:1",
+      "line_num": 1262,
+      "original_start": "ow it happened on one of those days, as He taught the people in the temple and p",
+      "fixed_start": "Now it happened on one of those days, as He taught the people in the temple and ",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.21:1",
+      "line_num": 1329,
+      "original_start": "nd He looked up and saw the rich putting their gifts into the treasury,",
+      "fixed_start": "And He looked up and saw the rich putting their gifts into the treasury,",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.22:1",
+      "line_num": 1388,
+      "original_start": "ow the Feast of Unleavened Bread drew near, which is called Passover.",
+      "fixed_start": "Now the Feast of Unleavened Bread drew near, which is called Passover.",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.23:1",
+      "line_num": 1492,
+      "original_start": "hen the whole multitude of them arose and led Him to Pilate.",
+      "fixed_start": "Then the whole multitude of them arose and led Him to Pilate.",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "LUK.24:1",
+      "line_num": 1575,
+      "original_start": "ow on the first day of the week, very early in the morning, they, and certain ot",
+      "fixed_start": "Now on the first day of the week, very early in the morning, they, and certain o",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.1:1",
+      "line_num": 17,
+      "original_start": "he book of the genealogy of Jesus Christ, the Son of David, the Son of Abraham:",
+      "fixed_start": "The book of the genealogy of Jesus Christ, the Son of David, the Son of Abraham:",
+      "note": "'he book' → 'The book'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.2:1",
+      "line_num": 50,
+      "original_start": "ow after Jesus was born in Bethlehem of Judea in the days of Herod the king, beh",
+      "fixed_start": "Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, be",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.3:1",
+      "line_num": 88,
+      "original_start": "nthose days John the Baptist came preaching in the wilderness of Judea,",
+      "fixed_start": "In those days John the Baptist came preaching in the wilderness of Judea,",
+      "note": "'nthose' → 'In those'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.4:1",
+      "line_num": 114,
+      "original_start": "hen Jesus was led up by the Spirit into the wilderness to be tempted by the devi",
+      "fixed_start": "Then Jesus was led up by the Spirit into the wilderness to be tempted by the dev",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.8:1",
+      "line_num": 308,
+      "original_start": "hen He had come down from the mountain, great multitudes followed Him.",
+      "fixed_start": "When He had come down from the mountain, great multitudes followed Him.",
+      "note": "'hen He had' → 'When He had'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.9:1",
+      "line_num": 359,
+      "original_start": "o He got into aboat, crossed over, and came to His own city.",
+      "fixed_start": "So He got into aboat, crossed over, and came to His own city.",
+      "note": "'o He' → 'So He'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.10:1",
+      "line_num": 421,
+      "original_start": "nd when He had called His twelve disciples to Him, He gave them power over uncle",
+      "fixed_start": "And when He had called His twelve disciples to Him, He gave them power over uncl",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.11:1",
+      "line_num": 478,
+      "original_start": "ow it came to pass, when Jesus finished commanding His twelve disciples, that He",
+      "fixed_start": "Now it came to pass, when Jesus finished commanding His twelve disciples, that H",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.12:1",
+      "line_num": 523,
+      "original_start": "tthat time Jesus went through the grainfields on the Sabbath. And His disciples ",
+      "fixed_start": "At that time Jesus went through the grainfields on the Sabbath. And His disciple",
+      "note": "'tthat' → 'At that'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.13:1",
+      "line_num": 591,
+      "original_start": "nthe same day Jesus went out of the house and sat by the sea.",
+      "fixed_start": "In the same day Jesus went out of the house and sat by the sea.",
+      "note": "'nthe' → 'In the'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.14:1",
+      "line_num": 679,
+      "original_start": "tthat time Herod the tetrarch heard the report about Jesus",
+      "fixed_start": "At that time Herod the tetrarch heard the report about Jesus",
+      "note": "'tthat' → 'At that'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.15:1",
+      "line_num": 729,
+      "original_start": "hen the scribes and Pharisees who were from Jerusalem came to Jesus, saying,",
+      "fixed_start": "Then the scribes and Pharisees who were from Jerusalem came to Jesus, saying,",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.16:1",
+      "line_num": 782,
+      "original_start": "hen the Pharisees and Sadducees came, and testing Him asked that He would show t",
+      "fixed_start": "Then the Pharisees and Sadducees came, and testing Him asked that He would show ",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.17:1",
+      "line_num": 825,
+      "original_start": "ow after six days Jesus took Peter, James, and John his brother, led them up on ",
+      "fixed_start": "Now after six days Jesus took Peter, James, and John his brother, led them up on",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.18:1",
+      "line_num": 866,
+      "original_start": "tthat time the disciples came to Jesus, saying, 'Who then is greatest in the kin",
+      "fixed_start": "At that time the disciples came to Jesus, saying, 'Who then is greatest in the k",
+      "note": "'tthat' → 'At that'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.19:1",
+      "line_num": 918,
+      "original_start": "ow it came to pass, when Jesus had finished these sayings, that He departed from",
+      "fixed_start": "Now it came to pass, when Jesus had finished these sayings, that He departed fro",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.21:1",
+      "line_num": 1008,
+      "original_start": "ow when they drew near Jerusalem, and came to Bethphage, aat the Mount of Olives",
+      "fixed_start": "Now when they drew near Jerusalem, and came to Bethphage, aat the Mount of Olive",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.22:1",
+      "line_num": 1072,
+      "original_start": "nd Jesus answered and spoke to them again by parables and said:",
+      "fixed_start": "And Jesus answered and spoke to them again by parables and said:",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.23:1",
+      "line_num": 1133,
+      "original_start": "hen Jesus spoke to the multitudes and to His disciples,",
+      "fixed_start": "Then Jesus spoke to the multitudes and to His disciples,",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.24:1",
+      "line_num": 1180,
+      "original_start": "hen Jesus went out and departed from the temple, and His disciples came up to sh",
+      "fixed_start": "Then Jesus went out and departed from the temple, and His disciples came up to s",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.26:1",
+      "line_num": 1309,
+      "original_start": "ow it came to pass, when Jesus had finished all these sayings, that He said to H",
+      "fixed_start": "Now it came to pass, when Jesus had finished all these sayings, that He said to ",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.27:1",
+      "line_num": 1405,
+      "original_start": "hen morning came, all the chief priests and elders of the people plotted against",
+      "fixed_start": "When morning came, all the chief priests and elders of the people plotted agains",
+      "note": "'hen morning' → 'When morning'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MAT.28:1",
+      "line_num": 1501,
+      "original_start": "ow after the Sabbath, as the first day of the week began to dawn, Mary Magdalene",
+      "fixed_start": "Now after the Sabbath, as the first day of the week began to dawn, Mary Magdalen",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.2:1",
+      "line_num": 83,
+      "original_start": "nd again He entered Capernaum after some days, and it was heard that He was in t",
+      "fixed_start": "And again He entered Capernaum after some days, and it was heard that He was in ",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.3:1",
+      "line_num": 122,
+      "original_start": "nd He entered the synagogue again, and aman was there who had awithered hand.",
+      "fixed_start": "And He entered the synagogue again, and aman was there who had awithered hand.",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.4:1",
+      "line_num": 175,
+      "original_start": "nd again He began to teach by the sea. And agreat multitude was gathered to Him,",
+      "fixed_start": "And again He began to teach by the sea. And agreat multitude was gathered to Him",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.5:1",
+      "line_num": 243,
+      "original_start": "hen they came to the other side of the sea, to the country of the Gadarenes. a",
+      "fixed_start": "Then they came to the other side of the sea, to the country of the Gadarenes. a",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.6:1",
+      "line_num": 300,
+      "original_start": "hen He went out from there and came to His own country, and His disciples follow",
+      "fixed_start": "Then He went out from there and came to His own country, and His disciples follo",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.7:1",
+      "line_num": 377,
+      "original_start": "hen the Pharisees and some of the scribes came together to Him, having come from",
+      "fixed_start": "Then the Pharisees and some of the scribes came together to Him, having come fro",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.8:1",
+      "line_num": 426,
+      "original_start": "nthose days, the multitude being very great and having nothing to eat, Jesus cal",
+      "fixed_start": "In those days, the multitude being very great and having nothing to eat, Jesus c",
+      "note": "'nthose' → 'In those'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.9:1",
+      "line_num": 484,
+      "original_start": "nd He said to them, 'Assuredly, I say to you that there are some standing here w",
+      "fixed_start": "And He said to them, 'Assuredly, I say to you that there are some standing here ",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.10:1",
+      "line_num": 548,
+      "original_start": "hen He arose from there and came to the region of Judea by the other side of the",
+      "fixed_start": "Then He arose from there and came to the region of Judea by the other side of th",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.11:1",
+      "line_num": 621,
+      "original_start": "ow when they drew near Jerusalem, to Bethphage aand Bethany, at the Mount of Oli",
+      "fixed_start": "Now when they drew near Jerusalem, to Bethphage aand Bethany, at the Mount of Ol",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.12:1",
+      "line_num": 673,
+      "original_start": "hen He began to speak to them in parables: 'A man planted avineyard and set ahed",
+      "fixed_start": "Then He began to speak to them in parables: 'A man planted avineyard and set ahe",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.13:1",
+      "line_num": 741,
+      "original_start": "hen as He went out of the temple, one of His disciples said to Him, 'Teacher, se",
+      "fixed_start": "Then as He went out of the temple, one of His disciples said to Him, 'Teacher, s",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.14:1",
+      "line_num": 796,
+      "original_start": "fter two days it was the Passover and the Feast of Unleavened Bread. And the chi",
+      "fixed_start": "After two days it was the Passover and the Feast of Unleavened Bread. And the ch",
+      "note": "'fter' → 'After'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.15:1",
+      "line_num": 898,
+      "original_start": "mmediately, in the morning, the chief priests held aconsultation with the elders",
+      "fixed_start": "Immediately, in the morning, the chief priests held aconsultation with the elder",
+      "note": "'mmediately' → 'Immediately'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "MRK.16:1",
+      "line_num": 963,
+      "original_start": "ow when the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salo",
+      "fixed_start": "Now when the Sabbath was past, Mary Magdalene, Mary the mother of James, and Sal",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "PHP.2:1",
+      "line_num": 63,
+      "original_start": "herefore if there is any consolation in Christ, if any comfort of love, if any f",
+      "fixed_start": "Therefore if there is any consolation in Christ, if any comfort of love, if any ",
+      "note": "'herefore' → 'Therefore'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "PHP.3:1",
+      "line_num": 104,
+      "original_start": "inally, my brethren, rejoice in the Lord. For me to write the same things to you",
+      "fixed_start": "Finally, my brethren, rejoice in the Lord. For me to write the same things to yo",
+      "note": "'inally' → 'Finally'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "PHP.4:1",
+      "line_num": 133,
+      "original_start": "herefore, my beloved and longed-for brethren, my joy and crown, so stand fast in",
+      "fixed_start": "Therefore, my beloved and longed-for brethren, my joy and crown, so stand fast i",
+      "note": "'herefore' → 'Therefore'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.1:1",
+      "line_num": 17,
+      "original_start": "he Revelation of Jesus Christ, which God gave Him to show His servants-things wh",
+      "fixed_start": "The Revelation of Jesus Christ, which God gave Him to show His servants-things w",
+      "note": "'he Revelation' → 'The Revelation'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.4:1",
+      "line_num": 121,
+      "original_start": "fter these things I looked, and behold, adoor standing open in heaven. And the f",
+      "fixed_start": "After these things I looked, and behold, adoor standing open in heaven. And the ",
+      "note": "'fter' → 'After'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.5:1",
+      "line_num": 136,
+      "original_start": "nd I saw in the right hand of Him who sat on the throne ascroll written inside a",
+      "fixed_start": "And I saw in the right hand of Him who sat on the throne ascroll written inside ",
+      "note": "'nd' → 'And'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.6:1",
+      "line_num": 155,
+      "original_start": "ow I saw when the Lamb opened one of the seals; aand I heard one of the four liv",
+      "fixed_start": "Now I saw when the Lamb opened one of the seals; aand I heard one of the four li",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.7:1",
+      "line_num": 192,
+      "original_start": "fter these things I saw four angels standing at the four corners of the earth, h",
+      "fixed_start": "After these things I saw four angels standing at the four corners of the earth, ",
+      "note": "'fter' → 'After'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.8:1",
+      "line_num": 220,
+      "original_start": "hen He opened the seventh seal, there was silence in heaven for about half an ho",
+      "fixed_start": "Then He opened the seventh seal, there was silence in heaven for about half an h",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.9:1",
+      "line_num": 250,
+      "original_start": "hen the fifth angel sounded: And I saw astar fallen from heaven to the earth. To",
+      "fixed_start": "Then the fifth angel sounded: And I saw astar fallen from heaven to the earth. T",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.10:1",
+      "line_num": 279,
+      "original_start": "saw still another mighty angel coming down from heaven, clothed with acloud. And",
+      "fixed_start": "I saw still another mighty angel coming down from heaven, clothed with acloud. A",
+      "note": "'saw' → 'I saw'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.11:1",
+      "line_num": 295,
+      "original_start": "hen I was given areed like ameasuring rod. And the angel stood, asaying, 'Rise a",
+      "fixed_start": "Then I was given areed like ameasuring rod. And the angel stood, asaying, 'Rise ",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.12:1",
+      "line_num": 322,
+      "original_start": "ow agreat sign appeared in heaven: awoman clothed with the sun, with the moon un",
+      "fixed_start": "Now agreat sign appeared in heaven: awoman clothed with the sun, with the moon u",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.13:1",
+      "line_num": 353,
+      "original_start": "hen I astood on the sand of the sea. And I saw abeast rising up out of the sea, ",
+      "fixed_start": "Then I astood on the sand of the sea. And I saw abeast rising up out of the sea,",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.14:1",
+      "line_num": 379,
+      "original_start": "hen I looked, and behold, a a Lamb standing on Mount Zion, and with Him one hund",
+      "fixed_start": "Then I looked, and behold, a a Lamb standing on Mount Zion, and with Him one hun",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.15:1",
+      "line_num": 413,
+      "original_start": "hen I saw another sign in heaven, great and marvelous: seven angels having the s",
+      "fixed_start": "Then I saw another sign in heaven, great and marvelous: seven angels having the ",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.16:1",
+      "line_num": 426,
+      "original_start": "hen I heard aloud voice from the temple saying to the seven angels, 'Go and pour",
+      "fixed_start": "Then I heard aloud voice from the temple saying to the seven angels, 'Go and pou",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.19:1",
+      "line_num": 531,
+      "original_start": "fter these things I heard a aloud voice of agreat multitude in heaven, saying, '",
+      "fixed_start": "After these things I heard a aloud voice of agreat multitude in heaven, saying, ",
+      "note": "'fter' → 'After'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.20:1",
+      "line_num": 563,
+      "original_start": "hen I saw an angel coming down from heaven, having the key to the bottomless pit",
+      "fixed_start": "Then I saw an angel coming down from heaven, having the key to the bottomless pi",
+      "note": "'hen' → 'Then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "REV.21:1",
+      "line_num": 589,
+      "original_start": "ow I saw anew heaven and anew earth, for the first heaven and the first earth ha",
+      "fixed_start": "Now I saw anew heaven and anew earth, for the first heaven and the first earth h",
+      "note": "'ow' → 'Now'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ROM.4:1",
+      "line_num": 142,
+      "original_start": "hat then shall we say that Abraham our father has found according to the flesh? ",
+      "fixed_start": "What then shall we say that Abraham our father has found according to the flesh?",
+      "note": "'hat' → 'What'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ROM.5:1",
+      "line_num": 175,
+      "original_start": "herefore, having been justified by faith, we have apeace with God through our Lo",
+      "fixed_start": "Therefore, having been justified by faith, we have apeace with God through our L",
+      "note": "'herefore' → 'Therefore'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ROM.6:1",
+      "line_num": 201,
+      "original_start": "hat shall we say then? Shall we continue in sin that grace may abound?",
+      "fixed_start": "What shall we say then? Shall we continue in sin that grace may abound?",
+      "note": "'hat' → 'What'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ROM.7:1",
+      "line_num": 229,
+      "original_start": "rdo you not know, brethren (for I speak to those who know the law), that the law",
+      "fixed_start": "Or do you not know, brethren (for I speak to those who know the law), that the l",
+      "note": "'rdo' → 'Or do'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ROM.8:1",
+      "line_num": 266,
+      "original_start": "here is therefore now no condemnation to those who are in Christ Jesus, awho do ",
+      "fixed_start": "There is therefore now no condemnation to those who are in Christ Jesus, awho do",
+      "note": "'here is' → 'There is'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ROM.12:1",
+      "line_num": 443,
+      "original_start": "beseech you therefore, brethren, by the mercies of God, that you present your bo",
+      "fixed_start": "I beseech you therefore, brethren, by the mercies of God, that you present your ",
+      "note": "'beseech' → 'I beseech'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ROM.13:1",
+      "line_num": 475,
+      "original_start": "et every soul be subject to the governing authorities. For there is no authority",
+      "fixed_start": "Let every soul be subject to the governing authorities. For there is no authorit",
+      "note": "'et' → 'Let'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ROM.14:1",
+      "line_num": 500,
+      "original_start": "eceive one who is weak in the faith, but not to disputes over doubtful things.",
+      "fixed_start": "Receive one who is weak in the faith, but not to disputes over doubtful things.",
+      "note": "'eceive' → 'Receive'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ROM.15:1",
+      "line_num": 531,
+      "original_start": "ethen who are strong ought to bear with the scruples of the weak, and not to ple",
+      "fixed_start": "We then who are strong ought to bear with the scruples of the weak, and not to p",
+      "note": "'ethen' → 'We then'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "ROM.16:1",
+      "line_num": 578,
+      "original_start": "commend to you Phoebe our sister, who is aservant of the church in Cenchrea,",
+      "fixed_start": "I commend to you Phoebe our sister, who is aservant of the church in Cenchrea,",
+      "note": "'commend' → 'I commend'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "TIT.1:1",
+      "line_num": 17,
+      "original_start": "aul, abondservant of God and an apostle of Jesus Christ, according to the faith ",
+      "fixed_start": "Paul, abondservant of God and an apostle of Jesus Christ, according to the faith",
+      "note": "'aul' → 'Paul'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "TIT.2:1",
+      "line_num": 44,
+      "original_start": "ut as for you, speak the things which are proper for sound doctrine:",
+      "fixed_start": "But as for you, speak the things which are proper for sound doctrine:",
+      "note": "'ut' → 'But'",
+      "confidence": "high"
+    },
+    {
+      "anchor": "TIT.3:1",
+      "line_num": 67,
+      "original_start": "emind them to be subject to rulers and authorities, to obey, to be ready for eve",
+      "fixed_start": "Remind them to be subject to rulers and authorities, to obey, to be ready for ev",
+      "note": "'emind' → 'Remind'",
+      "confidence": "high"
+    }
+  ]
+}

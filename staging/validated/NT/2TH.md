@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-2TH.1:1 aul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
+2TH.1:1 Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 
 ### The Present Persecution
 
@@ -37,7 +37,7 @@ has_additions: false
 
 ### Greeting
 
-2TH.2:1 ow, brethren, concerning the coming of our Lord Jesus Christ and our gathering together to Him, we ask you,
+2TH.2:1 Now, brethren, concerning the coming of our Lord Jesus Christ and our gathering together to Him, we ask you,
 2TH.2:2 not to be soon shaken in mind or troubled, either by spirit or by word or by letter, as if from us, as though the day of Christ ahad come.
 2TH.2:3 Let no one deceive you by any means; for that Day will not come unless the falling away comes first, and the man of sin ais revealed, the son of perdition,
 2TH.2:4 who opposes and exalts himself above all that is called God or that is worshiped, so that he sits as God ain the temple of God, showing himself that he is God.
@@ -62,7 +62,7 @@ has_additions: false
 2TH.2:17 comfort your hearts and establish you in every good word and work.
 ## Chapter 3
 
-2TH.3:1 inally, brethren, pray for us, that the word of the Lord may run swiftly and be glorified, just as it is with you,
+2TH.3:1 Finally, brethren, pray for us, that the word of the Lord may run swiftly and be glorified, just as it is with you,
 2TH.3:2 and that we may be delivered from unreasonable and wicked men; for not all have faith.
 2TH.3:3 But the Lord is faithful, who will establish you and guard you from the evil one.
 2TH.3:4 And we have confidence in the Lord concerning you, both that you do and will do the things we command you.

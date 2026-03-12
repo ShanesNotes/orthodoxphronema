@@ -57,7 +57,7 @@ JAS.1:26 If anyone among you athinks he is religious, and does not bridle his to
 JAS.1:27 Pure and undefiled religion before God and the Father is this: to visit orphans and widows in their trouble, and to keep oneself unspotted from the world.
 ## Chapter 2
 
-JAS.2:1 ybrethren, do not hold the faith of our Lord Jesus Christ, the Lord of glory, with partiality.
+JAS.2:1 My brethren, do not hold the faith of our Lord Jesus Christ, the Lord of glory, with partiality.
 JAS.2:2 For if there should come into your assembly aman with gold rings, in fine apparel, and there should also come in apoor man in filthy clothes,
 JAS.2:3 and you pay attention to the one wearing the fine clothes and say to him, 'You sit here in agood place,' and say to the poor man, 'You stand there,' or, 'Sit here at my footstool,'
 JAS.2:4 have you not shown partiality among yourselves, and become judges with evil thoughts?
@@ -91,7 +91,7 @@ JAS.2:25 Likewise, was not Rahab the harlot also justified by works when she rec
 JAS.2:26 For as the body without the spirit is dead, so faith without works is dead also.
 ## Chapter 3
 
-JAS.3:1 ybrethren, let not many of you become teachers, knowing that we shall receive astricter judgment.
+JAS.3:1 My brethren, let not many of you become teachers, knowing that we shall receive astricter judgment.
 JAS.3:2 For we all stumble in many things. If anyone does not stumble in word, he is aperfect man, able also to bridle the whole body.
 JAS.3:3 Indeed, awe put bits in horses' mouths that they may obey us, and we turn their whole body.
 JAS.3:4 Look also at ships: although they are so large and are driven by fierce winds, they are turned by avery small rudder wherever the pilot desires.
@@ -117,7 +117,7 @@ JAS.3:17 But the wisdom that is from above is first pure, then peaceable, gentle
 JAS.3:18 Now the fruit of righteousness is sown in peace by those who make peace.
 ## Chapter 4
 
-JAS.4:1 here do wars and fights come from among you? Do they not come from your desires for pleasure that war in your members?
+JAS.4:1 Where do wars and fights come from among you? Do they not come from your desires for pleasure that war in your members?
 JAS.4:2 You lust and do not have. You murder and covet and cannot obtain. You fight and war. Yet ayou do not have because you do not ask.
 JAS.4:3 You ask and do not receive, because you ask amiss, that you may spend it on your pleasures.
 JAS.4:4 Adulterers and aadulteresses! Do you not know that friendship with the world is enmity with God? Whoever therefore wants to be afriend of the world makes himself an enemy of God.
@@ -145,7 +145,7 @@ JAS.4:16 But now you boast in your arrogance. All such boasting is evil.
 JAS.4:17 Therefore, to him who knows to do good and does not do it, to him it is sin.
 ## Chapter 5
 
-JAS.5:1 ome now, you rich, weep and howl for your miseries that are coming upon you!
+JAS.5:1 Come now, you rich, weep and howl for your miseries that are coming upon you!
 JAS.5:2 Your riches are corrupted, and your garments are moth-eaten.
 JAS.5:3 Your gold and silver are corroded, and their corrosion will be awitness against you and will eat your flesh like fire. You have heaped up treasure in the last days.
 JAS.5:4 Indeed the wages of the laborers who mowed your fields, which you kept back by fraud, cry out; and the cries of the reapers have reached the ears of the Lord of Sabaoth. a

@@ -80,7 +80,7 @@ MRK.1:45 However, he went out and began to proclaim it freely, and to spread the
 MRK.1:46 (Mt 9:1-8; Lk 5:17-26)
 ## Chapter 2
 
-MRK.2:1 nd again He entered Capernaum after some days, and it was heard that He was in the house.
+MRK.2:1 And again He entered Capernaum after some days, and it was heard that He was in the house.
 MRK.2:2 Immediately amany gathered together, so that there was no longer room to receive them, not even near the door. And He preached the word to them.
 MRK.2:3 Then they came to Him, bringing aparalytic who was carried by four men.
 MRK.2:4 And when they could not come near Him because of the crowd, they uncovered the roof where He was. So when they had broken through, they let down the bed on which the paralytic was lying.
@@ -119,7 +119,7 @@ MRK.2:27 And He said to them, 'The Sabbath was made for man, and not man for the
 MRK.2:28 Therefore the Son of Man is also Lord of the Sabbath.'
 ## Chapter 3
 
-MRK.3:1 nd He entered the synagogue again, and aman was there who had awithered hand.
+MRK.3:1 And He entered the synagogue again, and aman was there who had awithered hand.
 MRK.3:2 So they watched Him closely, whether He would heal him on the Sabbath, so that they might accuse Him.
 MRK.3:3 And He said to the man who had the withered hand, 'Step forward.'
 MRK.3:4 Then He said to them, 'Is it lawful on the Sabbath to do good or to do evil, to save life or to kill?' But they kept silent.
@@ -172,7 +172,7 @@ MRK.3:35 For whoever does the will of God is My brother and My sister and mother
 MRK.3:36 (Mt 13:1-9; Lk 8:4-8)
 ## Chapter 4
 
-MRK.4:1 nd again He began to teach by the sea. And agreat multitude was gathered to Him, so that He got into aboat and sat in it on the sea; and the whole multitude was on the land facing the sea.
+MRK.4:1 And again He began to teach by the sea. And agreat multitude was gathered to Him, so that He got into aboat and sat in it on the sea; and the whole multitude was on the land facing the sea.
 MRK.4:2 Then He taught them many things by parables, and said to them in His teaching:
 MRK.4:3 'Listen! Behold, asower went out to sow.
 MRK.4:4 And it happened, as he sowed, that some seed fell by the wayside; and the birds of the air acame and devoured it.
@@ -240,7 +240,7 @@ MRK.4:41 And they feared exceedingly, and said to one another, 'Who can this be,
 MRK.4:42 (Mt 8:28-34; Lk 8:26-39)
 ## Chapter 5
 
-MRK.5:1 hen they came to the other side of the sea, to the country of the Gadarenes. a
+MRK.5:1 Then they came to the other side of the sea, to the country of the Gadarenes. a
 MRK.5:2 And when He had come out of the boat, immediately there met Him out of the tombs aman with an unclean spirit,
 MRK.5:3 who had his dwelling among the tombs; and no one could bind him, anot even with chains,
 MRK.5:4 because he had often been bound with shackles and chains. And the chains had been pulled apart by him, and the shackles broken in pieces; neither could anyone tame him.
@@ -297,7 +297,7 @@ MRK.5:42 Immediately the girl arose and walked, for she was twelve years of age.
 MRK.5:43 But He commanded them strictly that no one should know it, and said that something should be given her to eat.
 ## Chapter 6
 
-MRK.6:1 hen He went out from there and came to His own country, and His disciples followed Him.
+MRK.6:1 Then He went out from there and came to His own country, and His disciples followed Him.
 MRK.6:2 And when the Sabbath had come, He began to teach in the synagogue. And many hearing Him were astonished, saying, 'Where did this Man get these things? And what wisdom is this which is given to Him, that such mighty works are performed by His hands!
 MRK.6:3 Is this not the carpenter, the Son of Mary, and brother of James, Joses, Judas, and Simon? And are not His sisters here with us?' So they were offended at Him.
 MRK.6:4 But Jesus said to them, 'A prophet is not without honor except in his own country, among his own relatives, and in his own house.'
@@ -374,7 +374,7 @@ MRK.6:56 Wherever He entered, into villages, cities, or the country, they laid t
 MRK.6:57 (Mt 15:1-20)
 ## Chapter 7
 
-MRK.7:1 hen the Pharisees and some of the scribes came together to Him, having come from Jerusalem.
+MRK.7:1 Then the Pharisees and some of the scribes came together to Him, having come from Jerusalem.
 MRK.7:2 Now when athey saw some of His disciples eat bread with defiled, that is, with unwashed hands, they found fault.
 MRK.7:3 For the Pharisees and all the Jews do not eat unless they wash their hands in aspecial way, holding the tradition of the elders.
 MRK.7:4 When they come from the marketplace, they do not eat unless they wash. And there are many other things which they have received and hold, like the washing of cups, pitchers, copper vessels, and couches.
@@ -423,7 +423,7 @@ MRK.7:37 And they were astonished beyond measure, saying, 'He has done all thing
 MRK.7:38 (Mt 15:32-39)
 ## Chapter 8
 
-MRK.8:1 nthose days, the multitude being very great and having nothing to eat, Jesus called His disciples to Him and said to them,
+MRK.8:1 In those days, the multitude being very great and having nothing to eat, Jesus called His disciples to Him and said to them,
 MRK.8:2 'I have compassion on the multitude, because they have now continued with Me three days and have nothing to eat.
 MRK.8:3 And if I send them away hungry to their own houses, they will faint on the way; for some of them have come from afar.'
 MRK.8:4 Then His disciples answered Him, 'How can one satisfy these people with bread here in the wilderness?'
@@ -481,7 +481,7 @@ MRK.8:38 For whoever is ashamed of Me and My words in this adulterous and sinful
 
 ### The Transfiguration
 
-MRK.9:1 nd He said to them, 'Assuredly, I say to you that there are some standing here who will not taste death till they see the kingdom of God present with power.'
+MRK.9:1 And He said to them, 'Assuredly, I say to you that there are some standing here who will not taste death till they see the kingdom of God present with power.'
 MRK.9:2 (Mt 17:1-8; Lk 9:28-36) Now after six days Jesus took Peter, James, and John, and led them up on ahigh mountain apart by themselves; and He was transfigured before them.
 MRK.9:3 His clothes became shining, exceedingly white, like snow, such as no launderer on earth can whiten them.
 MRK.9:4 And Elijah appeared to them with Moses, and they were talking with Jesus.
@@ -545,7 +545,7 @@ MRK.9:49 'For everyone will be seasoned with fire, aand every sacrifice will be 
 MRK.9:50 Salt is good, but if the salt loses its flavor, how will you season it? Have salt in yourselves, and have peace with one another.'
 ## Chapter 10
 
-MRK.10:1 hen He arose from there and came to the region of Judea by the other side of the Jordan. And multitudes gathered to Him again, and as He was accustomed, He taught them again.
+MRK.10:1 Then He arose from there and came to the region of Judea by the other side of the Jordan. And multitudes gathered to Him again, and as He was accustomed, He taught them again.
 MRK.10:2 The Pharisees came and asked Him, 'Is it lawful for aman to divorce his wife?' testing Him.
 MRK.10:3 And He answered and said to them, 'What did Moses command you?'
 MRK.10:4 They said, 'Moses permitted aman to write acertificate of divorce, and to dismiss her. '
@@ -618,7 +618,7 @@ MRK.10:52 The blind man said to Him, 'Rabboni, that I may receive my sight.' The
 MRK.10:53 (Mt 21:1-9; Lk 19:28-44; Jn 12:12-19)
 ## Chapter 11
 
-MRK.11:1 ow when they drew near Jerusalem, to Bethphage aand Bethany, at the Mount of Olives, He sent two of His disciples;
+MRK.11:1 Now when they drew near Jerusalem, to Bethphage aand Bethany, at the Mount of Olives, He sent two of His disciples;
 MRK.11:2 and He said to them, 'Go into the village opposite you; and as soon as you have entered it you will find acolt tied, on which no one has sat.
 MRK.11:3 Loose it and bring it. And if anyone says to you, 'Why are you doing this?' say, 'The Lord has need of it,' and immediately he will send it here.'
 MRK.11:4 So they went their way, and found the acolt tied by the door outside on the street, and they loosed it.
@@ -670,7 +670,7 @@ MRK.11:34 And Jesus answered and said to them, 'Neither will I tell you by what 
 MRK.11:35 (Mt 21:33-46; Lk 20:9-19)
 ## Chapter 12
 
-MRK.12:1 hen He began to speak to them in parables: 'A man planted avineyard and set ahedge around it, dug aplace for the wine vat and built atower. And he leased it to vinedressers and went into afar country.
+MRK.12:1 Then He began to speak to them in parables: 'A man planted avineyard and set ahedge around it, dug aplace for the wine vat and built atower. And he leased it to vinedressers and went into afar country.
 MRK.12:2 Now at vintage-time he sent aservant to the vinedressers, that he might receive some of the fruit of the vineyard from the vinedressers.
 MRK.12:3 And they took him and beat him and sent him away empty-handed.
 MRK.12:4 Again he sent them another servant, and at him they threw stones, awounded him in the head, and sent him away shamefully treated.
@@ -738,7 +738,7 @@ MRK.12:44 for they all put in out of their abundance, but she out of her poverty
 MRK.12:45 (Mt 24:1, 2; Lk 21:5, 6)
 ## Chapter 13
 
-MRK.13:1 hen as He went out of the temple, one of His disciples said to Him, 'Teacher, see what manner of stones and what buildings are here! '
+MRK.13:1 Then as He went out of the temple, one of His disciples said to Him, 'Teacher, see what manner of stones and what buildings are here! '
 
 ### The Beginning of Sorrows
 
@@ -793,7 +793,7 @@ MRK.13:37 And what I say to you, I say to all: Watch!'
 MRK.13:38 (Mt 26:1-5; Lk 22:1, 2)
 ## Chapter 14
 
-MRK.14:1 fter two days it was the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes sought how they might take Him by trickery and put Him to death.
+MRK.14:1 After two days it was the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes sought how they might take Him by trickery and put Him to death.
 
 ### The Anointing at Bethany
 
@@ -895,7 +895,7 @@ MRK.14:72 A second time the rooster crowed. Then Peter called to mind the word t
 MRK.14:73 (Mt 27:1, 2, 11-26; Lk 23:1-25; Jn 18:28-19:16)
 ## Chapter 15
 
-MRK.15:1 mmediately, in the morning, the chief priests held aconsultation with the elders and scribes and the whole council; and they bound Jesus, led Him away, and delivered Him to Pilate.
+MRK.15:1 Immediately, in the morning, the chief priests held aconsultation with the elders and scribes and the whole council; and they bound Jesus, led Him away, and delivered Him to Pilate.
 MRK.15:2 Then Pilate asked Him, 'Are You the King of the Jews?'
 MRK.15:3 He answered and said to him, ' It is as you say.' And the chief priests accused Him of many things, but He answered nothing.
 MRK.15:4 Then Pilate asked Him again, saying, 'Do You answer nothing? See how many things they testify against You!' a
@@ -960,7 +960,7 @@ MRK.15:47 And Mary Magdalene and Mary the mother of Joses observed where He was 
 MRK.15:48 (Mt 28:1-8; Lk 24:1-12; Jn 20:1-10)
 ## Chapter 16
 
-MRK.16:1 ow when the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, that they might come and anoint Him.
+MRK.16:1 Now when the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, that they might come and anoint Him.
 MRK.16:2 Very early in the morning, on the first day of the week, they came to the tomb when the sun had risen.
 MRK.16:3 And they said among themselves, 'Who will roll away the stone from the door of the tomb for us?'
 MRK.16:4 But when they looked up, they saw that the stone had been rolled away-for it was very large.
