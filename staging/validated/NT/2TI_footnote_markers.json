@@ -1,98 +1,26 @@
 [
-  {
-    "anchor": "2TI.1:6",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.1:7",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.1:8",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.1:13",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.1:18",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.2:1",
-    "marker": "ω"
-  },
-  {
-    "anchor": "2TI.2:2",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.2:3",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.2:8",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.2:15",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.2:16",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.2:17",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.2:20",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.2:24",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.3:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.3:2",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.3:8",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.3:10",
-    "marker": "†ω"
-  },
-  {
-    "anchor": "2TI.3:14",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.4:6",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.4:7",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.4:9",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.4:11",
-    "marker": "†"
-  },
-  {
-    "anchor": "2TI.4:22",
-    "marker": "†"
-  }
+  { "anchor": "2TI.1:6", "marker": "†" },
+  { "anchor": "2TI.1:7", "marker": "†" },
+  { "anchor": "2TI.1:9", "marker": "†" },
+  { "anchor": "2TI.1:10", "marker": "†" },
+  { "anchor": "2TI.1:13", "marker": "†" },
+  { "anchor": "2TI.1:18", "marker": "†" },
+  { "anchor": "2TI.2:2", "marker": "†" },
+  { "anchor": "2TI.2:3", "marker": "†" },
+  { "anchor": "2TI.2:8", "marker": "†" },
+  { "anchor": "2TI.2:15", "marker": "†" },
+  { "anchor": "2TI.2:16", "marker": "†" },
+  { "anchor": "2TI.2:17", "marker": "†" },
+  { "anchor": "2TI.2:20", "marker": "†" },
+  { "anchor": "2TI.2:24", "marker": "†" },
+  { "anchor": "2TI.3:1", "marker": "†" },
+  { "anchor": "2TI.3:5", "marker": "†" },
+  { "anchor": "2TI.3:8", "marker": "†" },
+  { "anchor": "2TI.3:10", "marker": "†" },
+  { "anchor": "2TI.3:14", "marker": "†" },
+  { "anchor": "2TI.4:6", "marker": "†" },
+  { "anchor": "2TI.4:7", "marker": "†" },
+  { "anchor": "2TI.4:10", "marker": "†" },
+  { "anchor": "2TI.4:11", "marker": "†" },
+  { "anchor": "2TI.4:21", "marker": "†" }
 ]

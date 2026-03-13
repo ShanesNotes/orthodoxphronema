@@ -2652,12 +2652,12 @@
         "promotion gate conditions are satisfied"
       ],
       "decision": "dry-run",
-      "body_checksum": "bc5846ec8959a9f494aa3f21900cf556d02d56a2687d2b48bb63759bd1c6b2a0",
+      "body_checksum": "c869d02e7d031ae45815c6a4c878d7588a141e3191a56c410ff17104323ab8d9",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "bc5846ec8959a9f494aa3f21900cf556d02d56a2687d2b48bb63759bd1c6b2a0"
+        "staged_body_checksum": "c869d02e7d031ae45815c6a4c878d7588a141e3191a56c410ff17104323ab8d9"
       },
       "validation": {
         "V1": "PASS",
@@ -2787,12 +2787,12 @@
         "promotion gate conditions are satisfied"
       ],
       "decision": "dry-run",
-      "body_checksum": "9b8c4b823eb336f3b2068ad3c17bcdf5e434650eee29086dbea3d4d4eb928d20",
+      "body_checksum": "5e601f7061b463bc28d6f42949ac53ce8ac24f9dedb07dc97977381920537845",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "9b8c4b823eb336f3b2068ad3c17bcdf5e434650eee29086dbea3d4d4eb928d20"
+        "staged_body_checksum": "5e601f7061b463bc28d6f42949ac53ce8ac24f9dedb07dc97977381920537845"
       },
       "validation": {
         "V1": "PASS",
@@ -3098,12 +3098,12 @@
         "promotion gate conditions are satisfied"
       ],
       "decision": "dry-run",
-      "body_checksum": "6d207379d49ad0833a46821f33473059a224d66e5e80af32505edfc0fbde6f70",
+      "body_checksum": "af2d56d18941bfdce1bb341505f781c7ad9fb17ee766ea4c9802891cbead1660",
       "staged_matches_dossier": true,
       "dossier_freshness": {
         "status": "FRESH",
         "refresh_priority": "none",
-        "staged_body_checksum": "6d207379d49ad0833a46821f33473059a224d66e5e80af32505edfc0fbde6f70"
+        "staged_body_checksum": "af2d56d18941bfdce1bb341505f781c7ad9fb17ee766ea4c9802891cbead1660"
       },
       "validation": {
         "V1": "PASS",

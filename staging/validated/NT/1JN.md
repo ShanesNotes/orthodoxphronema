@@ -40,7 +40,7 @@ has_additions: false
 1JN.2:4 He who says, 'I know Him,' and does not keep His commandments, is aliar, and the truth is not in him.
 1JN.2:5 But whoever keeps His word, truly the love of God is perfected in him. By this we know that we are in Him.
 1JN.2:6 He who says he abides in Him ought himself also to walk just as He walked.
-1JN.2:7 Brethren, a I write no new commandment to you, but an old commandment which you have had from the beginning. The old commandment is the word which you heard from the beginning. b
+1JN.2:7 Brethren, I write no new commandment to you, but an old commandment which you have had from the beginning. The old commandment is the word which you heard from the beginning.
 1JN.2:8 Again, anew commandment I write to you, which thing is true in Him and in you, because the darkness is passing away, and the true light is already shining.
 1JN.2:9 He who says he is in the light, and hates his brother, is in darkness until now.
 1JN.2:10 He who loves his brother abides in the light, and there is no cause for stumbling in him.
@@ -54,9 +54,9 @@ has_additions: false
 ### The Truth: Jesus Is God
 
 1JN.2:17 And the world is passing away, and the lust of it; but he who does the will of God abides forever.
-1JN.2:18 Little children, it is the last hour; and as you have heard that the a Antichrist is coming, even now many antichrists have come, by which we know that it is the last hour.
+1JN.2:18 Little children, it is the last hour; and as you have heard that the Antichrist is coming, even now many antichrists have come, by which we know that it is the last hour.
 1JN.2:19 They went out from us, but they were not of us; for if they had been of us, they would have continued with us; but they went out that they might be made manifest, that none of them were of us.
-1JN.2:20 But you have an anointing from the Holy One, and you know all things. a
+1JN.2:20 But you have an anointing from the Holy One, and you know all things.
 1JN.2:21 I have not written to you because you do not know the truth, but because you know it, and that no lie is of the truth.
 1JN.2:22 Who is aliar but he who denies that Jesus is the Christ? He is antichrist who denies the Father and the Son.
 1JN.2:23 Whoever denies the Son does not have the Father either; he who acknowledges the Son has the Father also.
@@ -67,11 +67,11 @@ has_additions: false
 ### Practice Righteousness: Do Not Sin
 
 1JN.2:27 But the anointing which you have received from Him abides in you, and you do not need that anyone teach you; but as the same anointing teaches you concerning all things, and is true, and is not alie, and just as it has taught you, you will aabide in Him.
-1JN.2:28 And now, little children, abide in Him, that when a He appears, we may have confidence and not be ashamed before Him at His coming.
+1JN.2:28 And now, little children, abide in Him, that when He appears, we may have confidence and not be ashamed before Him at His coming.
 1JN.2:29 If you know that He is righteous, you know that everyone who practices righteousness is born of Him.
 ## Chapter 3
 
-1JN.3:1 Behold what manner of love the Father has bestowed on us, that we should be called children of God! a Therefore the world does not know us, bbecause it did not know Him.
+1JN.3:1 Behold what manner of love the Father has bestowed on us, that we should be called children of God! Therefore the world does not know us, because it did not know Him.
 1JN.3:2 Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is.
 1JN.3:3 And everyone who has this hope in Him purifies himself, just as He is pure.
 1JN.3:4 Whoever commits sin also commits lawlessness, and sin is lawlessness.
@@ -105,7 +105,7 @@ has_additions: false
 
 1JN.4:1 Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world.
 1JN.4:2 By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God,
-1JN.4:3 and every spirit that does not confess that a Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world.
+1JN.4:3 and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world.
 1JN.4:4 You are of God, little children, and have overcome them, because He who is in you is greater than he who is in the world.
 1JN.4:5 They are of the world. Therefore they speak as of the world, and the world hears them.
 
@@ -155,7 +155,7 @@ has_additions: false
 ### Faith Brings Eternal Life
 
 1JN.5:8 And there are three that bear witness on earth: athe Spirit, the water, and the blood; and these three agree as one.
-1JN.5:9 If we receive the witness of men, the witness of God is greater; for this is the witness of God which a He has testified of His Son.
+1JN.5:9 If we receive the witness of men, the witness of God is greater; for this is the witness of God which He has testified of His Son.
 1JN.5:10 He who believes in the Son of God has the witness in himself; he who does not believe God has made Him aliar, because he has not believed the testimony that God has given of His Son.
 1JN.5:11 And this is the testimony: that God has given us eternal life, and this life is in His Son.
 1JN.5:12 He who has the Son has life; he who does not have the Son of God does not have life.

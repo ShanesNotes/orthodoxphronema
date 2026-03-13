@@ -40,7 +40,7 @@ Build a durable, local-first, versioned Orthodox textual archive. Start with a p
 
 | Item | Owner | Phase | Status | Blocker |
 |---|---|---|---|---|
-| NT candidate purity pass | Ezra | 4 | Active | `1TH`, `2TH`, `2TI`, and `1JN` are now `promotion_ready`, but `1TH` still shows visible inline marker residue and the candidate set still has companion mismatch debt |
+| NT candidate fused-word cleanup | Ezra | 4 | Active | `1TH`, `2TH`, `2TI`, and `1JN` are now structurally valid and marker-clean, but dry-run previews still show fused scripture residue |
 | Promotion dossier freshness sweep | Ezra | 2 | Active | `70` stale dossiers remain, but they no longer block the first NT canon tranche |
 | OT canon lock follow-through | Ezra | 2 | Active | `EST.4:6` remains the only non-`V7` OT canon blocker; promoted OT staged files need separate resync planning |
 | `WIS` canon hygiene + staged/editorial resync | Ezra | 2 | Queued behind OT lock closeout | Canon is clean, but staged/editorial surfaces still need reconciliation |
@@ -79,6 +79,7 @@ Build a durable, local-first, versioned Orthodox textual archive. Start with a p
 | NT warning reduction (`EPH`, `MAT`, `HEB`) | 2026-03-12 | `memos/109_nt_warning_reduction_eph_mat_heb.md` |
 | NT first canon promotion tranche (`2JN`, `3JN`) | 2026-03-12 | `memos/110_nt_first_canon_promotion_tranche_2jn_3jn.md` |
 | NT post-promotion reranking and purity gate | 2026-03-12 | `memos/111_nt_post_promotion_reranking_and_purity_gate.md` |
+| NT candidate marker purity pass | 2026-03-12 | `memos/112_nt_candidate_marker_purity_pass.md` |
 
 ## Release Train
 

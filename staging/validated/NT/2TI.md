@@ -30,7 +30,7 @@ has_additions: false
 2TI.1:8 Therefore do not be ashamed of the testimony of our Lord, nor of me His prisoner, but share with me in the sufferings for the gospel according to the power of God,
 2TI.1:9 who has saved us and called us with aholy calling, not according to our works, but according to His own purpose and grace which was given to us in Christ Jesus before time began,
 2TI.1:10 but has now been revealed by the appearing of our Savior Jesus Christ, who has abolished death and brought life and immortality to light through the gospel,
-2TI.1:11 to which I was appointed apreacher, an apostle, and ateacher of the Gentiles. a
+2TI.1:11 to which I was appointed apreacher, an apostle, and ateacher of the Gentiles.
 
 ### Fidelity in Spite of Desertions
 
@@ -111,7 +111,7 @@ has_additions: false
 2TI.3:17 that the man of God may be complete, thoroughly equipped for every good work.
 ## Chapter 4
 
-2TI.4:1 I charge you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at a His appearing and His kingdom:
+2TI.4:1 I charge you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at His appearing and His kingdom:
 2TI.4:2 Preach the word! Be ready in season and out of season. Convince, rebuke, exhort, with all longsuffering and teaching.
 2TI.4:3 For the time will come when they will not endure sound doctrine, but according to their own desires, because they have itching ears, they will heap up for themselves teachers;
 2TI.4:4 and they will turn their ears away from the truth, and be turned aside to fables.

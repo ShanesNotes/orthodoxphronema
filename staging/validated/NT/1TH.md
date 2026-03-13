@@ -16,7 +16,7 @@ has_additions: false
 
 ### Greeting and Thanksgiving
 
-1TH.1:1 Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ. a †
+1TH.1:1 Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ.
 1TH.1:2 We give thanks to God always for you all, making mention of you in our prayers,
 1TH.1:3 remembering without ceasing your work of faith, labor of love, and patience of hope in our Lord Jesus Christ in the sight of our God and Father,
 1TH.1:4 knowing, beloved brethren, your election by God.
@@ -96,7 +96,7 @@ has_additions: false
 
 1TH.4:12 that you may walk properly toward those who are outside, and that you may lack nothing.
 1TH.4:13 But I do not want you to be ignorant, brethren, concerning those who have fallen asleep, lest you sorrow as others who have no hope.
-1TH.4:14 For if we believe that Jesus died and rose again, even so God will bring with Him those who sleep in Jesus. a
+1TH.4:14 For if we believe that Jesus died and rose again, even so God will bring with Him those who sleep in Jesus.
 1TH.4:15 For this we say to you by the word of the Lord, that we who are alive and remain until the coming of the Lord will by no means precede those who are asleep.
 1TH.4:16 For the Lord Himself will descend from heaven with ashout, with the voice of an archangel, and with the trumpet of God. And the dead in Christ will rise first.
 1TH.4:17 Then we who are alive and remain shall be caught up together with them in the clouds to meet the Lord in the air. And thus we shall always be with the Lord.
