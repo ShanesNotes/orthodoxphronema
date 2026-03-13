@@ -3,16 +3,16 @@
   "summary": {
     "total_books": 76,
     "footnotes_files": 76,
-    "articles_files": 62,
+    "articles_files": 76,
     "marker_files": 76,
     "frontmatter_issues": 0,
     "fused_headers": 0,
-    "marker_alignment_pass": 17,
-    "marker_alignment_fail": 59,
-    "marker_format_dict": 48,
-    "marker_format_list": 28,
+    "marker_alignment_pass": 64,
+    "marker_alignment_fail": 12,
+    "marker_format_dict": 76,
+    "marker_format_list": 0,
     "empty_articles": 39,
-    "missing_articles": 14
+    "missing_articles": 0
   },
   "books": {
     "GEN": {
@@ -30,10 +30,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 3,
-        "alignment": "fail",
-        "markers_only": 2,
-        "footnotes_only": 217
+        "marker_count": 218,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "EXO": {
@@ -51,10 +51,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
+        "marker_count": 177,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 176
+        "footnotes_only": 0
       }
     },
     "LEV": {
@@ -72,10 +72,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 68,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 68
+        "footnotes_only": 0
       }
     },
     "NUM": {
@@ -93,10 +93,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 4,
-        "alignment": "fail",
-        "markers_only": 1,
-        "footnotes_only": 68
+        "marker_count": 71,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "DEU": {
@@ -114,10 +114,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 4,
-        "alignment": "fail",
-        "markers_only": 1,
-        "footnotes_only": 75
+        "marker_count": 78,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "JOS": {
@@ -135,10 +135,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
-        "markers_only": 1,
-        "footnotes_only": 21
+        "marker_count": 21,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "JDG": {
@@ -156,10 +156,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
-        "markers_only": 1,
-        "footnotes_only": 69
+        "marker_count": 69,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "RUT": {
@@ -177,10 +177,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
+        "marker_count": 22,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 21
+        "footnotes_only": 0
       }
     },
     "1SA": {
@@ -198,10 +198,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 5,
-        "alignment": "fail",
-        "markers_only": 1,
-        "footnotes_only": 78
+        "marker_count": 81,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "2SA": {
@@ -219,10 +219,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
+        "marker_count": 105,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 104
+        "footnotes_only": 0
       }
     },
     "1KI": {
@@ -240,10 +240,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
-        "markers_only": 1,
-        "footnotes_only": 6
+        "marker_count": 6,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "2KI": {
@@ -261,10 +261,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 32,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 32
+        "footnotes_only": 0
       }
     },
     "1CH": {
@@ -282,10 +282,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 20,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 20
+        "footnotes_only": 0
       }
     },
     "2CH": {
@@ -303,10 +303,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 3,
-        "alignment": "fail",
-        "markers_only": 2,
-        "footnotes_only": 38
+        "marker_count": 38,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "1ES": {
@@ -345,10 +345,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
+        "marker_count": 29,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 28
+        "footnotes_only": 0
       }
     },
     "NEH": {
@@ -366,10 +366,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 14,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 14
+        "footnotes_only": 0
       }
     },
     "TOB": {
@@ -387,10 +387,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 37,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 37
+        "footnotes_only": 0
       }
     },
     "JDT": {
@@ -408,10 +408,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 18,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 18
+        "footnotes_only": 0
       }
     },
     "EST": {
@@ -429,10 +429,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
+        "marker_count": 26,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 25
+        "footnotes_only": 0
       }
     },
     "1MA": {
@@ -450,10 +450,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 51,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 51
+        "footnotes_only": 0
       }
     },
     "2MA": {
@@ -471,10 +471,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 99,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 99
+        "footnotes_only": 0
       }
     },
     "3MA": {
@@ -492,10 +492,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 93,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 93
+        "footnotes_only": 0
       }
     },
     "PSA": {
@@ -534,10 +534,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
-        "markers_only": 1,
-        "footnotes_only": 252
+        "marker_count": 252,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "ECC": {
@@ -555,10 +555,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 6,
-        "alignment": "fail",
-        "markers_only": 1,
-        "footnotes_only": 40
+        "marker_count": 45,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "SNG": {
@@ -576,10 +576,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 76,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 76
+        "footnotes_only": 0
       }
     },
     "JOB": {
@@ -597,10 +597,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
-        "markers_only": 1,
-        "footnotes_only": 68
+        "marker_count": 68,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "WIS": {
@@ -617,11 +617,11 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
-        "marker_count": 26,
-        "alignment": "fail",
-        "markers_only": 26,
-        "footnotes_only": 33
+        "format": "dict",
+        "marker_count": 33,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "SIR": {
@@ -639,10 +639,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 135,
-        "alignment": "fail",
-        "markers_only": 39,
-        "footnotes_only": 259
+        "marker_count": 259,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "HOS": {
@@ -660,10 +660,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
+        "marker_count": 41,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 40
+        "footnotes_only": 0
       }
     },
     "AMO": {
@@ -681,10 +681,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 18,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 18
+        "footnotes_only": 0
       }
     },
     "MIC": {
@@ -702,10 +702,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 18,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 18
+        "footnotes_only": 0
       }
     },
     "JOL": {
@@ -723,10 +723,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 23,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 23
+        "footnotes_only": 0
       }
     },
     "OBA": {
@@ -744,10 +744,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 8,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 8
+        "footnotes_only": 0
       }
     },
     "JON": {
@@ -765,10 +765,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 15,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 15
+        "footnotes_only": 0
       }
     },
     "NAH": {
@@ -786,10 +786,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 10,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 10
+        "footnotes_only": 0
       }
     },
     "HAB": {
@@ -807,10 +807,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 22,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 22
+        "footnotes_only": 0
       }
     },
     "ZEP": {
@@ -828,10 +828,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 4,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 4
+        "footnotes_only": 0
       }
     },
     "HAG": {
@@ -849,10 +849,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 7,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 7
+        "footnotes_only": 0
       }
     },
     "ZEC": {
@@ -870,10 +870,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 56,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 56
+        "footnotes_only": 0
       }
     },
     "MAL": {
@@ -891,10 +891,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 23,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 23
+        "footnotes_only": 0
       }
     },
     "ISA": {
@@ -912,10 +912,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 184,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 184
+        "footnotes_only": 0
       }
     },
     "JER": {
@@ -933,10 +933,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 181,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 181
+        "footnotes_only": 0
       }
     },
     "BAR": {
@@ -954,10 +954,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 29,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 29
+        "footnotes_only": 0
       }
     },
     "LAM": {
@@ -975,10 +975,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 26,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 26
+        "footnotes_only": 0
       }
     },
     "LJE": {
@@ -996,10 +996,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 13,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 13
+        "footnotes_only": 0
       }
     },
     "EZK": {
@@ -1017,10 +1017,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 0,
-        "alignment": "fail",
+        "marker_count": 56,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 56
+        "footnotes_only": 0
       }
     },
     "DAN": {
@@ -1038,10 +1038,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 1,
-        "alignment": "fail",
+        "marker_count": 43,
+        "alignment": "pass",
         "markers_only": 0,
-        "footnotes_only": 42
+        "footnotes_only": 0
       }
     },
     "MAT": {
@@ -1058,7 +1058,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 314,
         "alignment": "fail",
         "markers_only": 53,
@@ -1079,7 +1079,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 139,
         "alignment": "fail",
         "markers_only": 67,
@@ -1100,7 +1100,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 324,
         "alignment": "fail",
         "markers_only": 61,
@@ -1121,7 +1121,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 289,
         "alignment": "fail",
         "markers_only": 43,
@@ -1142,7 +1142,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 277,
         "alignment": "fail",
         "markers_only": 100,
@@ -1163,7 +1163,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 132,
         "alignment": "fail",
         "markers_only": 20,
@@ -1184,7 +1184,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 127,
         "alignment": "fail",
         "markers_only": 11,
@@ -1199,13 +1199,13 @@
         "anchor_count": 63
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 65,
         "alignment": "pass",
         "markers_only": 0,
@@ -1220,13 +1220,13 @@
         "anchor_count": 56
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 56,
         "alignment": "pass",
         "markers_only": 0,
@@ -1247,7 +1247,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 53,
         "alignment": "pass",
         "markers_only": 0,
@@ -1262,13 +1262,13 @@
         "anchor_count": 24
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 23,
         "alignment": "fail",
         "markers_only": 4,
@@ -1283,13 +1283,13 @@
         "anchor_count": 24
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 23,
         "alignment": "fail",
         "markers_only": 5,
@@ -1304,13 +1304,13 @@
         "anchor_count": 16
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 16,
         "alignment": "pass",
         "markers_only": 0,
@@ -1325,13 +1325,13 @@
         "anchor_count": 3
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 3,
         "alignment": "pass",
         "markers_only": 0,
@@ -1346,13 +1346,13 @@
         "anchor_count": 30
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 30,
         "alignment": "pass",
         "markers_only": 0,
@@ -1367,13 +1367,13 @@
         "anchor_count": 24
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 24,
         "alignment": "pass",
         "markers_only": 0,
@@ -1394,7 +1394,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 10,
         "alignment": "pass",
         "markers_only": 0,
@@ -1409,13 +1409,13 @@
         "anchor_count": 10
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 10,
         "alignment": "pass",
         "markers_only": 0,
@@ -1430,13 +1430,13 @@
         "anchor_count": 95
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 95,
         "alignment": "pass",
         "markers_only": 0,
@@ -1457,7 +1457,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 29,
         "alignment": "pass",
         "markers_only": 0,
@@ -1472,13 +1472,13 @@
         "anchor_count": 40
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 31,
         "alignment": "fail",
         "markers_only": 5,
@@ -1499,7 +1499,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 22,
         "alignment": "pass",
         "markers_only": 0,
@@ -1520,7 +1520,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 29,
         "alignment": "pass",
         "markers_only": 0,
@@ -1535,13 +1535,13 @@
         "anchor_count": 7
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 7,
         "alignment": "pass",
         "markers_only": 0,
@@ -1556,13 +1556,13 @@
         "anchor_count": 6
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 5,
         "alignment": "fail",
         "markers_only": 1,
@@ -1577,13 +1577,13 @@
         "anchor_count": 15
       },
       "articles": {
-        "exists": false,
+        "exists": true,
         "empty": false,
         "frontmatter_issues": []
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 15,
         "alignment": "pass",
         "markers_only": 0,
@@ -1604,7 +1604,7 @@
       },
       "markers": {
         "exists": true,
-        "format": "list",
+        "format": "dict",
         "marker_count": 189,
         "alignment": "fail",
         "markers_only": 24,
