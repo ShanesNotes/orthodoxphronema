@@ -9,10 +9,9 @@
     "promoted"
   ],
   "counts_by_status": {
-    "promoted": 49,
+    "promoted": 51,
     "extracting": 15,
-    "editorially_clean": 10,
-    "promotion_ready": 2
+    "editorially_clean": 10
   },
   "books": [
     {
@@ -2139,7 +2138,7 @@
       "dossier_freshness": {
         "status": "STALE",
         "refresh_priority": "low",
-        "staged_body_checksum": "0306a5f2d53fb3897a515a52301d123ecb923d306f44beea334e1d4b1df19abc"
+        "staged_body_checksum": "17774344beaf72043b2f538abea14c13f07924343211348c173c68aa799f1bbc"
       },
       "validation": {
         "V1": "PASS",
@@ -2225,7 +2224,7 @@
       "dossier_freshness": {
         "status": "STALE",
         "refresh_priority": "low",
-        "staged_body_checksum": "c484513513e987fa84a4cc96f771d7c7cab4a0f76ca23d496bb7c9ac3540bc95"
+        "staged_body_checksum": "fa62cde511f96c4d26ffa7afb2a1ae82de60f2415203bf922cdc4daa350e2c42"
       },
       "validation": {
         "V1": "PASS",
@@ -2268,7 +2267,7 @@
       "dossier_freshness": {
         "status": "STALE",
         "refresh_priority": "low",
-        "staged_body_checksum": "86a77d91bc48e48edd6b8869054b3c96a29a29741ef8919456662ea71969f2a7"
+        "staged_body_checksum": "4f70c0c2a7985e47fc271794f491625b9126c716a73851c84e37054e6bd08497"
       },
       "validation": {
         "V1": "PASS",
@@ -2526,7 +2525,7 @@
       "dossier_freshness": {
         "status": "STALE",
         "refresh_priority": "low",
-        "staged_body_checksum": "80c1c5b65c1f472f037875173066b51b8561d9f02158c92a7e6ece40b3a6709d"
+        "staged_body_checksum": "0f883192d3f0b5680092c63f565bab01a2f7648b64d8f54d0b0eb5bcbf4bb11f"
       },
       "validation": {
         "V1": "PASS",
@@ -2925,7 +2924,7 @@
       "dossier_freshness": {
         "status": "STALE",
         "refresh_priority": "low",
-        "staged_body_checksum": "1d0e351fad25316607dd389ee19727d686590a5bda65c6bd34ce0b4d610115a6"
+        "staged_body_checksum": "08265545d9c807acdc5255567f474f56c5e180ed06bf107373275e7c35a12440"
       },
       "validation": {
         "V1": "PASS",
@@ -3136,13 +3135,11 @@
     {
       "book_code": "2JN",
       "testament": "NT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "d5a0eb97b34184cda9b4f3503a170ac44d1afacfe325826d529bc68cc74efd38",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -3160,8 +3157,8 @@
         "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -3181,13 +3178,11 @@
     {
       "book_code": "3JN",
       "testament": "NT",
-      "status": "promotion_ready",
+      "status": "promoted",
       "status_reasons": [
-        "validation is structurally passable",
-        "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "canon artifact exists"
       ],
-      "decision": "dry-run",
+      "decision": "promoted",
       "body_checksum": "0ae7053b5d69f47f7bca05cf1cbd30da46f4ef5b2720938a26cc1889b6e3c719",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -3202,11 +3197,11 @@
         "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "WARN",
+        "V7": "PASS",
         "V8": "WARN",
         "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -3281,7 +3276,7 @@
       "dossier_freshness": {
         "status": "STALE",
         "refresh_priority": "low",
-        "staged_body_checksum": "01e82bf029510990cfeaeb91e88bec12fa0d471a326b69a61f6bc977b5dbeffb"
+        "staged_body_checksum": "fd55db93eacc9b44e279d48fb210f4dfd648b4935cd96f4e8f5042fe3656d1c2"
       },
       "validation": {
         "V1": "PASS",

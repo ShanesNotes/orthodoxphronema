@@ -1,7 +1,7 @@
 {
   "book_code": "2JN",
   "testament": "NT",
-  "timestamp": "2026-03-12T22:15:49.714686",
+  "timestamp": "2026-03-12T22:28:10.748387",
   "registry_version": "1.4.0",
   "body_checksum": "d5a0eb97b34184cda9b4f3503a170ac44d1afacfe325826d529bc68cc74efd38",
   "allow_incomplete": false,
@@ -59,5 +59,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "promoted"
 }

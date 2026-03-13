@@ -1,7 +1,7 @@
 {
   "book_code": "3JN",
   "testament": "NT",
-  "timestamp": "2026-03-12T22:15:49.724728",
+  "timestamp": "2026-03-12T22:28:10.758503",
   "registry_version": "1.4.0",
   "body_checksum": "0ae7053b5d69f47f7bca05cf1cbd30da46f4ef5b2720938a26cc1889b6e3c719",
   "allow_incomplete": false,
@@ -61,5 +61,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "promoted"
 }

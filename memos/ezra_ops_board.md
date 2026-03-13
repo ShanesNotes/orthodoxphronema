@@ -12,14 +12,14 @@ Live state source: `reports/book_status_dashboard.json`
 - Ezra operates as strategic lead: route first, code second, and absorb at most one high-leverage engineering lane when direct action is safer or faster than delegation.
 
 ## Current Snapshot
-- Promoted: `49`
+- Promoted: `51`
 - OT holdouts: `0`
 - Editorially clean books: `10`
-- Promotion-ready books: `2`
+- Promotion-ready books: `0`
 - Extracting books: `15`
 - NT extraction has landed: `27` NT books are staged per `memos/77_nt_extraction_results.md`
 - Shared `promote.py` / common-layer / `osb_extract.py` contract repair is complete; `pytest -q` is green at `327 passed`.
-- Dashboard was refreshed on `2026-03-12`; only `2JN` and `3JN` remain `promotion_ready`.
+- Dashboard was refreshed on `2026-03-12`; `2JN` and `3JN` are now promoted into `canon/NT/`.
 - Dossier freshness truth is now explicit: `74` dossiers are stale and `2` are fresh.
 - OT canon lock audit now has `0` structural errors and `18` warning-bearing books in `reports/canon_ot_structural_audit.json`.
 - The only remaining non-`V7` OT canon warning is `EST` (`V4`/`V10` around `EST.4:6`).
@@ -33,6 +33,7 @@ Live state source: `reports/book_status_dashboard.json`
 | Shared contract repair + state refresh | Ezra | done | `memos/98_contract_repair_and_state_refresh.md` | none | Route shared infra truth from Memo `98` plus evidence Memos `99` and `100` | Tests, dashboard, ops board, project board, and memo index agree |
 | Future-layer seed (Genesis) | Ezra | done | `memos/105_genesis_future_layer_seed.md` | none | Route future-layer substrate work from Memo `105`; keep graph/vector work downstream of it | One live canonical slice proves pericope + R1 + embedding contracts without canon mutation |
 | Reference alias authority | Ezra | done | `memos/106_reference_alias_authority_and_normalization_seed.md` | none | Route biblical reference normalization through the schema-backed alias registry; keep patristic passage resolution as a later lane | Biblical aliases are versioned and patristic alias growth no longer requires extractor constant churn |
+| NT first canon promotion tranche (`2JN`, `3JN`) | Ezra | done | `memos/110_nt_first_canon_promotion_tranche_2jn_3jn.md` | none | Treat the first NT canon write as complete and re-rank the remaining NT queue from validator truth rather than dossier freshness alone | `2JN` and `3JN` exist in `canon/NT/` and their dossiers/dashboard agree on promoted state |
 | NT warning reduction (`EPH`, `MAT`, `HEB`) | Ezra | done | `memos/109_nt_warning_reduction_eph_mat_heb.md` | none | Route the next NT lane away from the closed `EPH` / `HEB` warnings and treat `MAT` as the only residual from this batch | `EPH` and `HEB` validate cleanly and `MAT` is reduced to one `V8` warning |
 | Promotion dossier freshness sweep | Ezra | active | `reports/book_status_dashboard.json` | `74` stale dossiers distort live queue truth if read as fresh readiness evidence | Keep the dashboard authoritative and package a bounded regeneration plan separately | Dossier freshness debt is explicit and no board surface overstates readiness |
 | OT canon lock follow-through | Ezra -> Human | active | `memos/91_ot_canon_lock_ratification_packet.md` | Human decision required for the `17`-book `V7` packet and `EST` disposition | Review Memo 91 and ratify or reject the packet | OT can be called `locked` or held with one explicit residual blocker |
@@ -80,7 +81,7 @@ Live state source: `reports/book_status_dashboard.json`
   - evidence packets were renumbered to Memos `99`, `100`, and `101`
   - active routing should no longer cite duplicate Memo `90`, `91`, or `94` identities
 - NT spot-audit findings:
-  - `2JN` and `3JN` are the only current NT `promotion_ready` books after the dashboard freshness refresh.
+  - `2JN` and `3JN` are now promoted into `canon/NT/`.
   - `MAT` now passes structural validation and is down to one broad `V8` heading-density warning.
   - `HEB` now validates cleanly after heading consolidation.
   - `EPH` now validates cleanly after heading consolidation.
@@ -120,14 +121,14 @@ Live state source: `reports/book_status_dashboard.json`
 - **Research folder** fully cleaned and naming-convention-compliant as of 2026-03-11. Convention codified in `research/README.md`.
 
 ## Long-Horizon Queue
-- Promotion dossier freshness sweep for `74` stale books, with `2JN` / `3JN` left out of the regeneration lane
+- Promotion dossier freshness sweep for `74` stale books; `2JN` / `3JN` are already fresh and promoted
 - Promoted-canon freshness sweep after OT closeout, starting with `WIS`
 - Promoted-canon cleanup packet after OT closeout, starting with `JOS` and `JDG`
 - Helper-script consolidation and staged-variant retirement after current canon-hygiene packet
 - Historical residual packet (`JDG`, `1SA`, `2SA`) remains open but separate from the OT holdout lane
 - Phase 3 implementation: memo 86 → 87 → 88 integration (blocked on human ratification)
-- NT extraction is active under Ark
-- NT companion extraction is complete; the next NT lane should be re-ranked from fresh validator truth rather than the older `EPH` / `MAT` / `HEB` packet
+- NT extraction is complete; the next NT lane should be re-ranked from fresh validator truth rather than stale readiness assumptions
+- NT companion extraction is complete; the next NT lane should be selected from the remaining staged books, not from the now-promoted `2JN` / `3JN`
 
 ## Photius Handoff Outcomes
 - `accept` — evidence complete, scope allowed, verification clear

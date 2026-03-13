@@ -22,7 +22,7 @@ Build a durable, local-first, versioned Orthodox textual archive. Start with a p
 | 1 | OT Closeout | Complete | `49/49` OT books promoted |
 | 2 | Canon Hygiene & Freshness | Active | OT canon lock pass is down to `EST` plus a `V7` ratification packet |
 | 3 | Hyperlinking & Graph | Planned — **subset unblocked** | Companion readiness now proceeds via source-footnote extraction, starting with `ROM` |
-| 4 | NT Bootstrap | Active | NT extraction landed; shared contract drift is repaired; stabilization is now the live Ark lane |
+| 4 | NT Bootstrap | Active | NT extraction landed; first NT canon tranche is promoted; remaining staged NT books now route from validator truth |
 
 ## Kanban
 
@@ -40,8 +40,8 @@ Build a durable, local-first, versioned Orthodox textual archive. Start with a p
 
 | Item | Owner | Phase | Status | Blocker |
 |---|---|---|---|---|
-| NT scripture warning reduction | Ezra | 4 | Active | `EPH` and `HEB` are now clean; `MAT` remains with one residual heading-density warning and the next NT lane should be re-ranked from fresh validator truth |
-| Promotion dossier freshness sweep | Ezra | 2 | Active | `74` stale dossiers now suppress truthful `promotion_ready` counts; only `2JN` and `3JN` remain fresh |
+| NT post-promotion re-ranking | Ezra | 4 | Active | `2JN` and `3JN` are now promoted; the next NT tranche should be selected from the remaining staged books by validator truth |
+| Promotion dossier freshness sweep | Ezra | 2 | Active | `74` stale dossiers remain, but they no longer block the first NT canon tranche |
 | OT canon lock follow-through | Ezra | 2 | Active | `EST.4:6` remains the only non-`V7` OT canon blocker; promoted OT staged files need separate resync planning |
 | `WIS` canon hygiene + staged/editorial resync | Ezra | 2 | Queued behind OT lock closeout | Canon is clean, but staged/editorial surfaces still need reconciliation |
 | Repo cleanup and artifact triage | Ezra | 2 | Active | OT sprint left a large untracked memo/helper/variant tail |
@@ -77,6 +77,7 @@ Build a durable, local-first, versioned Orthodox textual archive. Start with a p
 | PSA footnote extraction refresh | 2026-03-12 | `memos/104_psa_footnote_extraction_report.md` |
 | NT purity patch and PSA marker triage | 2026-03-12 | `memos/108_nt_purity_patch_and_psa_marker_triage.md` |
 | NT warning reduction (`EPH`, `MAT`, `HEB`) | 2026-03-12 | `memos/109_nt_warning_reduction_eph_mat_heb.md` |
+| NT first canon promotion tranche (`2JN`, `3JN`) | 2026-03-12 | `memos/110_nt_first_canon_promotion_tranche_2jn_3jn.md` |
 
 ## Release Train
 
@@ -137,9 +138,10 @@ Build a durable, local-first, versioned Orthodox textual archive. Start with a p
 | OT canon warning books | `18` |
 | OT non-`V7` warning books | `1` (`EST`) |
 | OT holdouts | `0` |
-| Promotion-ready books | `2` (`2JN`, `3JN`) |
+| Promotion-ready books | `0` |
 | Editorially clean books | `10` |
 | Extracting books | `15` |
+| Total promoted books | `51` |
 | Promoted books with stale dossiers | `74` |
 | High-priority post-lock reconciliation books | `WIS` |
 | Active memo files in `memos/` | `179` |
