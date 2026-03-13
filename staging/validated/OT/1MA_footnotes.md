@@ -12,14 +12,18 @@ status: staging
 ### 1:1
 *(anchor: 1MA.1:1)*
 
-Alexander is Alexander the Great. ### 1:8-9
+Alexander is Alexander the Great. 
+
+### 1:8-9
 *(anchor: 1MA.1:8)*
 
 According to the historian Josephus, Alexander's generals divided his empire into
 
 several dynastic houses: Ptolemy in Egypt, Seleucis in Babylon, Lysimachus in
 
-Hellespont, Cassander in Macedonia, and Antigonus in Asia. ### 1:11-15
+Hellespont, Cassander in Macedonia, and Antigonus in Asia. 
+
+### 1:11-15
 *(anchor: 1MA.1:11)*
 
 Those sons of Israel who wanted to introduce Greek culture into Jewish life were
@@ -30,22 +34,30 @@ succeeded in having one of their own, Onias' brother Jason, appointed high pries
 
 Antiochus IV (2Mc 4). Jason built a gymnasium where young Jews competed alongside
 
-the Greeks. Many Jewish men underwent painful operations to hide their circumcision. ### 1:16-19
+the Greeks. Many Jewish men underwent painful operations to hide their circumcision. 
+
+### 1:16-19
 *(anchor: 1MA.1:16)*
 
 Antiochus IV campaigned against Ptolemy IV (reigned 180-145 BC) in Egypt
 
-from 170 to 168 BC. ### 1:20-24
+from 170 to 168 BC. 
+
+### 1:20-24
 *(anchor: 1MA.1:20)*
 
-Antiochus entered Jerusalem, pillaging the temple to pay his war debts. ### 1:29-35
+Antiochus entered Jerusalem, pillaging the temple to pay his war debts. 
+
+### 1:29-35
 *(anchor: 1MA.1:29)*
 
 Apollonius the Mysarch, a commander of Mysian mercenaries, erected a citadel
 
 (v. 33) known as the Acra (lit. "Acropolis") on the temple mount, just north of the temple
 
-itself, where he installed a Phrygian named Philip as governor (Josephus). ### 1:41-53
+itself, where he installed a Phrygian named Philip as governor (Josephus). 
+
+### 1:41-53
 *(anchor: 1MA.1:41)*
 
 Antiochus the king abandoned his dream of rebuilding Alexander's kingdom for
@@ -56,14 +68,18 @@ abandon their religion (v. 42) because it was considered politically disruptive.
 
 who refused to sacrifice to the Greek gods on behalf of the emperor (vv. 44-49) was
 
-tortured and killed (v. 50). ### 1:54
+tortured and killed (v. 50). 
+
+### 1:54
 *(anchor: 1MA.1:54)*
 
 Inside the temple, Antiochus erected the abomination of desolation (Dan 9:27), either a statue of Zeus sculpted in the likeness of the emperor or some cultic stones. Until
 
 that time, the temple had been the focal point of the Jewish nation and faith. Jews made
 
-three pilgrimages there each year, at the feasts of Passover, Pentecost, and Tabernacles. ### 1:62-64
+three pilgrimages there each year, at the feasts of Passover, Pentecost, and Tabernacles. 
+
+### 1:62-64
 *(anchor: 1MA.1:62)*
 
 Unclean food involved the sacrifice of swine to Zeus. Josephus the historian
@@ -74,7 +90,9 @@ Antiochus, calling themselves a colony of Medes and Persians, not Jews. He repor
 
 even went so far as to have their temple on Mount Gerizim dedicated to Jupiter
 
-Hellenius. ### 2:1-5
+Hellenius. 
+
+### 2:1-5
 *(anchor: 1MA.2:1)*
 
 Mattathias of the House of Hashmon fled the Hellenizing evils of Jerusalem with
@@ -93,7 +111,9 @@ was called "the Maccabees."
 
 The king's officers sought to induce Mattathias to sacrifice first. They reasoned
 
-that the others from Israel would surely follow his lead. ### 2:24-26
+that the others from Israel would surely follow his lead. 
+
+### 2:24-26
 *(anchor: 1MA.2:24)*
 
 Elsewhere in Israel, Jews had either been compliant or faced death willingly
@@ -102,19 +122,25 @@ Elsewhere in Israel, Jews had either been compliant or faced death willingly
 
 troop of Antiochus' soldiers. Their sense of security as an occupying force may have made
 
-them careless; and they certainly did not expect a rebellion from the "docile" Jews. ### 2:27-28
+them careless; and they certainly did not expect a rebellion from the "docile" Jews. 
+
+### 2:27-28
 *(anchor: 1MA.2:27)*
 
 Mattathias and his sons fled to a retreat in the Gophna mountains, located in
 
 southern Samaria. In this way, they avoided the jurisdiction of the Seleucid commander
 
-of Judea and could remain unmolested for a time. ### 2:32-38
+of Judea and could remain unmolested for a time. 
+
+### 2:32-38
 *(anchor: 1MA.2:32)*
 
 It was forbidden for Jews to fight on the Sabbath (Ex 31:12-18), and Antiochus'
 
-soldiers took full advantage of this fact (v. 38). ### 2:39-41
+soldiers took full advantage of this fact (v. 38). 
+
+### 2:39-41
 *(anchor: 1MA.2:39)*
 
 Mattathias and the Jews realized they would be slaughtered if they chose not to
@@ -123,32 +149,44 @@ defend themselves on the Sabbath. In a truly radical statement for their day, th
 
 Maccabees foreshadowed Jesus' words, "The Sabbath was made for man, and not man for
 
-the Sabbath" (Mk 2:27). ### 2:42-48
+the Sabbath" (Mk 2:27). 
+
+### 2:42-48
 *(anchor: 1MA.2:42)*
 
 The Hasideans were Jews who strictly upheld the law. Together with
 
 Mattathias they began cleansing Israel of impurity, attacking both Gentiles and Jewish
 
-traitors. ### 2:65-68
+traitors. 
+
+### 2:65-68
 *(anchor: 1MA.2:65)*
 
 Mattathias designated his son Judas Maccabeus as his military successor. Judas had likely developed a natural instinct for guerrilla warfare while hunting and
 
-herding in the Judean hill country. ### 3:32-41
+herding in the Judean hill country. 
+
+### 3:32-41
 *(anchor: 1MA.3:32)*
 
-Lysias sent three generals (v. 38) to camp at Emmaus (v. 40--today's Imwas, next to Latrum) where they could send out spies to avoid Judah's traps. ### 3:42-44
+Lysias sent three generals (v. 38) to camp at Emmaus (v. 40--today's Imwas, next to Latrum) where they could send out spies to avoid Judah's traps. 
+
+### 3:42-44
 *(anchor: 1MA.3:42)*
 
 In addition to his hand-picked soldiers, Judas operated a large militia system, whereby men could be called from their everyday tasks through an intricate network of
 
 runners. These "spies" also kept him informed as to the words of the king and the
 
-whereabouts of the Seleucid army. ### 4:8-11
+whereabouts of the Seleucid army. 
+
+### 4:8-11
 *(anchor: 1MA.4:8)*
 
-Beyond his military prowess, Judas was the spiritual leader of his people as well. ### 4:52-59
+Beyond his military prowess, Judas was the spiritual leader of his people as well. 
+
+### 4:52-59
 *(anchor: 1MA.4:52)*
 
 Judas and his followers celebrated the first Festival of Rededication, which the
@@ -157,7 +195,9 @@ historian Josephus calls the "Festival of Lights." The celebration lasted eight 
 
 Hanukkah (lit. "dedication") and is celebrated with the lighting of the Hanukkah lamp. According to the Babylonian Talmud, the Hasmoneans found only one undefiled
 
-container of oil left in the temple. Miraculously, it lasted for eight full days. ### 5:1-8
+container of oil left in the temple. Miraculously, it lasted for eight full days. 
+
+### 5:1-8
 *(anchor: 1MA.5:1)*
 
 Judas and company marched out to rescue those Jews under heavy persecution by
@@ -166,26 +206,34 @@ the Seleucid sympathizers in Judea. For consolidation purposes, Judas waged war 
 
 Idumeans at Acrabattene, the sons of Baean, the Amalekites under Timothy, and the
 
-people of Jazer. ### 5:28-34
+people of Jazer. 
+
+### 5:28-34
 *(anchor: 1MA.5:28)*
 
 Judas encountered Timothy again, struck him a great blow, and captured his
 
-engines of war. Later, Judah used the siege equipment to tackle the Acra fortress. ### 5:55-62
+engines of war. Later, Judah used the siege equipment to tackle the Acra fortress. 
+
+### 5:55-62
 *(anchor: 1MA.5:55)*
 
 Joseph and Azariah failed because they did not belong, nor were they
 
 divinely sanctioned members of the Hasmonean family (v. 62). Instead of following God's
 
-appointed leaders, they proudly sought their own glorification (v. 57). ### 6:1-4
+appointed leaders, they proudly sought their own glorification (v. 57). 
+
+### 6:1-4
 *(anchor: 1MA.6:1)*
 
 Antiochus tried to steal the famed temple treasures of the Alexandrians but was
 
 thwarted by the men of Elymais, the part of Elam not controlled by the Seleucids. He
 
-was after his hero Alexander the Great's armor, said to be housed in the temple. ### 6:34-37
+was after his hero Alexander the Great's armor, said to be housed in the temple. 
+
+### 6:34-37
 *(anchor: 1MA.6:34)*
 
 Lysias chose elephants not only for their innate ability as fighters, but for use in
@@ -194,19 +242,25 @@ frightening the Jews, who had not encountered them before. In v. 35, phalanxes a
 
 heavily armed troops marching in close array, and coats of mail refers to flexible armor
 
-consisting of a mesh of interlinked metal rings used defensively in battle. ### 6:43-46
+consisting of a mesh of interlinked metal rings used defensively in battle. 
+
+### 6:43-46
 *(anchor: 1MA.6:43)*
 
 Eleazar bravely tried to kill Antiochus and overcome the Jews' fear of the
 
-elephants. ### 6:53
+elephants. 
+
+### 6:53
 *(anchor: 1MA.6:53)*
 
 Some of the Jewish forces remaining in Judea barely held out for lack of food. God
 
 had commanded them to leave the earth fallow every seventh year (Ex 23:10, 11), so
 
-they had little surplus. ### 7:1-4
+they had little surplus. 
+
+### 7:1-4
 *(anchor: 1MA.7:1)*
 
 Demetrius I (reigned 162-150 BC), the son of emperor Seleucus IV (assassinated
@@ -219,22 +273,30 @@ Syrian coast with the help of Polybius and his friend Menyllus, an envoy of Ptol
 
 Philometer of Egypt. Once in Tripolis, Demetrius set himself up as the true Seleucid
 
-emperor (Josephus). ### 7:5
+emperor (Josephus). 
+
+### 7:5
 *(anchor: 1MA.7:5)*
 
 High priest Alcimus was accepted by the Hasidic Jews for his Aaronic background and
 
-elected by Demetrius (or possibly earlier by Lysias) for his Hellenistic sympathies. ### 7:23
+elected by Demetrius (or possibly earlier by Lysias) for his Hellenistic sympathies. 
+
+### 7:23
 *(anchor: 1MA.7:23)*
 
-Judas refused to recognize a high priest appointed by Demetrius. ### 7:26-49
+Judas refused to recognize a high priest appointed by Demetrius. 
+
+### 7:26-49
 *(anchor: 1MA.7:26)*
 
 Nicanor was one of those who had escaped from Rome with Demetrius
 
 (Josephus). His death occurred on the thirteenth day of Adar (v. 49; roughly March) in
 
-161 BC and is still observed as the Day of Nicanor. ### 8:1-16
+161 BC and is still observed as the Day of Nicanor. 
+
+### 8:1-16
 *(anchor: 1MA.8:1)*
 
 Polybius (c. 160 BC) claimed that by his time the Romans had cleared the people
@@ -247,29 +309,39 @@ Cynoscephalae in 197 BC, and his son Perseus at Pydna in 168 BC. Under Scipio, t
 
 Romans took Spain from the Carthaginians after the Second Punic War (202 BC) and
 
-the final defeat of Hannibal. ### 9:28-30
+the final defeat of Hannibal. 
+
+### 9:28-30
 *(anchor: 1MA.9:28)*
 
 The Jews elected Jonathan as their new military leader in 159 BC. When
 
 Bacchides found out about the election, he tried to have Jonathan assassinated (v. 32). When that failed, he marched after the Jews on the Sabbath, thinking that he would take
 
-them by surprise (v. 34). ### 9:35-42
+them by surprise (v. 34). 
+
+### 9:35-42
 *(anchor: 1MA.9:35)*
 
-One of the remaining brothers, John, was killed by the sons of Jambri, apparently a local tribe, while journeying to the Nabateans in the Transjordan (Josephus). ### 9:54
+One of the remaining brothers, John, was killed by the sons of Jambri, apparently a local tribe, while journeying to the Nabateans in the Transjordan (Josephus). 
+
+### 9:54
 *(anchor: 1MA.9:54)*
 
 The wall of the inner court of the temple had multiple functions. First, it
 
 separated the priests from the laity. Secondly, it divided the men from the women. Lastly
 
-and most importantly, it kept Gentiles from entering the sacred areas of the temple. ### 9:71
+and most importantly, it kept Gentiles from entering the sacred areas of the temple. 
+
+### 9:71
 *(anchor: 1MA.9:71)*
 
 Bacchides finally realized that the Maccabees were the controlling force in Judean
 
-politics, so he made peace with them. ### 10:84
+politics, so he made peace with them. 
+
+### 10:84
 *(anchor: 1MA.10:84)*
 
 Dagon (lit. "a fish") was one of the gods of the Philistines, a seafaring people, and
@@ -278,35 +350,49 @@ was represented by a man's torso with the tail of a fish. Dagon had two temples
 
 mentioned in the Bible, one at Gaza (Jdg 16:21-30) and one at Ashdod (1Kg 5:5; 1Ch
 
-10:10). ### 10:88-89
+10:10). 
+
+### 10:88-89
 *(anchor: 1MA.10:88)*
 
 Alexander recognized Jonathan as an equal--a far cry from the Jews' rebel
 
-days in the Gophna hills. ### 11:67-74
+days in the Gophna hills. 
+
+### 11:67-74
 *(anchor: 1MA.11:67)*
 
 The foreign army was from a conglomerate of tribes trying to take advantage of
 
-the struggle Jonathan faced against Demetrius. ### 13:1-11
+the struggle Jonathan faced against Demetrius. 
+
+### 13:1-11
 *(anchor: 1MA.13:1)*
 
 The last of the original Maccabees, Simon was elected to take Jonathan's place as
 
-military and spiritual leader of Judea. ### 13:12-19
+military and spiritual leader of Judea. 
+
+### 13:12-19
 *(anchor: 1MA.13:12)*
 
 When Simon learned that Jonathan was still alive--they had thought he was
 
-dead--and being held captive, he negotiated with Trypho, who double-crossed him. ### 13:22
+dead--and being held captive, he negotiated with Trypho, who double-crossed him. 
+
+### 13:22
 *(anchor: 1MA.13:22)*
 
-A providential snow storm stopped Trypho short of crushing the Maccabees. ### 13:23-30
+A providential snow storm stopped Trypho short of crushing the Maccabees. 
+
+### 13:23-30
 *(anchor: 1MA.13:23)*
 
 Jonathan was killed at Bascama in 142 BC (Josephus). Simon recovered the
 
-body and buried it at Modein with the rest of their family. ### 13:31-32
+body and buried it at Modein with the rest of their family. 
+
+### 13:31-32
 *(anchor: 1MA.13:31)*
 
 Trypho was the first king not of the Seleucid house. According to Josephus, Trypho had his physicians tell the public Antiochus had died during surgery while they
@@ -319,7 +405,9 @@ were trying to remove "a stone."
 
 Historians consider Simon the first ruler of the Hasmonean dynasty. After years
 
-of warfare, the Jews were finally freed from the yoke of the Seleucids. ### 13:43-53
+of warfare, the Jews were finally freed from the yoke of the Seleucids. 
+
+### 13:43-53
 *(anchor: 1MA.13:43)*
 
 Simon defeated Gazara and set up his son, John, as commander of forces (v. 53) and as high priest (16:24) from 134-104 BC. The citadel garrison, half starved, also
@@ -328,18 +416,26 @@ gave in to Simon, who entered triumphantly (vv. 49, 50). This fortress was the f
 
 Seleucid stronghold, and its overthrow symbolized the hard-won freedom of the Jewish
 
-people. ### 14:26
+people. 
+
+### 14:26
 *(anchor: 1MA.14:26)*
 
 The bronze tablets served as a national declaration of independence for the
 
-Jewish nation and as a kind of constitution for the Hasmonean government. ### 16:1-3
+Jewish nation and as a kind of constitution for the Hasmonean government. 
+
+### 16:1-3
 *(anchor: 1MA.16:1)*
 
-John was the third son of Simon. He reigned from 134-104 BC. ### 16:21
+John was the third son of Simon. He reigned from 134-104 BC. 
+
+### 16:21
 *(anchor: 1MA.16:21)*
 
-Ptolemy tried to kill John as well, but John's informers reached him first. ### 16:23-24
+Ptolemy tried to kill John as well, but John's informers reached him first. 
+
+### 16:23-24
 *(anchor: 1MA.16:23)*
 
 Later, after Antiochus besieged Jerusalem, he and John struck a treaty of peace. During the siege, Antiochus became known as "the pious" when he halted the war with

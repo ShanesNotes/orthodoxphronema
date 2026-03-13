@@ -26,7 +26,9 @@ aspects: teaching, correction, discipline, reproof, learning, education, and tra
 
 Proverbs. The purpose of correcting and disciplining oneself is to remove the deceptions
 
-of sin, so the God-given virtues in one's nature can manifest themselves (MaxCon, JohnDm). ### 1:6
+of sin, so the God-given virtues in one's nature can manifest themselves (MaxCon, JohnDm). 
+
+### 1:6
 *(anchor: PRO.1:6)*
 
 Proverbs is characterized by parables, hidden sayings, wise words and riddles. And as Wisdom gives one discernment regarding these, he is able to understand
@@ -41,7 +43,9 @@ illuminates those who know and are taught by Him. Wise words are like a door tha
 
 into the inner sanctuary of Wisdom. If Wisdom opens this door to the earnest seeker
 
-after the virtues, this seeker will find Wisdom and partake of His virtues (see also Mt 7:7, 8.). ### 1:7-8
+after the virtues, this seeker will find Wisdom and partake of His virtues (see also Mt 7:7, 8.). 
+
+### 1:7-8
 *(anchor: PRO.1:7)*
 
 Wisdom begets the fear of God in "the simple" (v. 4). The simple are beginners on
@@ -54,14 +58,18 @@ understanding of Wisdom and His virtues. The ungodly are those who despise
 
 Wisdom and His instruction. They may claim to believe in God, but they do not know
 
-Wisdom nor live a virtuous life. Consequently, they do not truly believe in God. ### 1:9
+Wisdom nor live a virtuous life. Consequently, they do not truly believe in God. 
+
+### 1:9
 *(anchor: PRO.1:9)*
 
 My son is a form of address used throughout Proverbs. Wisdom is like a father and a
 
 mother to His children, for He has deep love and affection for them. He instructs them
 
-out of such parental tenderness. ### 1:11-19
+out of such parental tenderness. 
+
+### 1:11-19
 *(anchor: PRO.1:11)*
 
 When Wisdom became a righteous Man in His Incarnation, He allowed His
@@ -70,7 +78,9 @@ enemies to crucify Him (unjustly, v. 12), and to bury Him in a tomb (hide Him in
 
 earth, v. 12). Their objective was to take away his remembrance from the earth (v. 13); however, He is now remembered all over the world. But His enemies are forgotten. Judas Iscariot cast his lot with the enemies of Wisdom and acquired a common bag
 
-and purse with them (v. 15). For he sold Him for thirty pieces of silver. Consequently, they took away their own soul in ungodliness (v. 19). ### 1:20-21
+and purse with them (v. 15). For he sold Him for thirty pieces of silver. Consequently, they took away their own soul in ungodliness (v. 19). 
+
+### 1:20-21
 *(anchor: PRO.1:20)*
 
 Wisdom is present everywhere and is in all things. He moves about boldly in the
@@ -81,31 +91,41 @@ Father. When He became incarnate, He also exhibited this courage in public place
 
 He imparts this same courage, one of the four general virtues, to those who believe in
 
-Him and walk in the fear of God. ### 1:22
+Him and walk in the fear of God. 
+
+### 1:22
 *(anchor: PRO.1:22)*
 
 The simple are beginners in the life of virtue. Because of their faith, Wisdom gives
 
 them the gift of righteousness--one of the general virtues of Wisdom. As long as they
 
-hold fast to this righteousness, they shall not be ashamed. ### 1:23
+hold fast to this righteousness, they shall not be ashamed. 
+
+### 1:23
 *(anchor: PRO.1:23)*
 
 Perception is one of the general virtues of Wisdom, and the crown of the virtues. But those without discernment . . . become ungodly because of their arrogance, the worst of vices. Wisdom reproves them in hopes they will return to Him through
 
-repentance. ### 1:24-35
+repentance. 
+
+### 1:24-35
 *(anchor: PRO.1:24)*
 
 Wisdom sends forth His Holy Spirit (my breath) to teach the wise His word (v. 24). Those who pay no attention to this teaching shall eat the fruits of their own way
 
 (v. 33). But those who obey Wisdom shall dwell in hope, and shall be at rest
 
-without fear from every evil (v. 35). ### 2:1
+without fear from every evil (v. 35). 
+
+### 2:1
 *(anchor: PRO.2:1)*
 
 , 2 A loving son receives the words of Wisdom and hides them in his heart. Such a son
 
-becomes an obedient listener to Wisdom and inclines his heart to understanding. ### 2:3-6
+becomes an obedient listener to Wisdom and inclines his heart to understanding. 
+
+### 2:3-6
 *(anchor: PRO.2:3)*
 
 Christ, the Wisdom of the Father, places the crown of the virtues (understanding
@@ -114,14 +134,18 @@ and perception) on a son who seeks Him as intensely as people seek monetary gain
 
 (silver and treasure). Such a son will understand godly fear and come to know God the
 
-Trinity. ### 2:7-23
+Trinity. 
+
+### 2:7-23
 *(anchor: PRO.2:7)*
 
 There are two roads on which mankind is traveling: the evil road of the vices and
 
 the good road of the virtues. Each of these two is addressed many times in this passage
 
-(vv. 7-17). The evil road leads to death and Hades, from which there is no return (vv. 18, 19). The good road leads to the world to come (the land, vv. 21-23). ### 3:1-38
+(vv. 7-17). The evil road leads to death and Hades, from which there is no return (vv. 18, 19). The good road leads to the world to come (the land, vv. 21-23). 
+
+### 3:1-38
 *(anchor: PRO.3:1)*
 
 This chapter may be divided into three sections, each section beginning with the
@@ -132,7 +156,9 @@ Forgetfulness is the forgetting of Wisdom's laws concerning virtue, and the
 
 beginning of its cure is obedience from the heart to Wisdom. Such obedience is the road
 
-to life and peace. ### 3:4-10
+to life and peace. 
+
+### 3:4-10
 *(anchor: PRO.3:4)*
 
 Faithfulness in almsgiving (v. 3) is a manifestation of obedience to Wisdom
@@ -145,7 +171,9 @@ his own discernment (v. 7), and turns to evil passions (v. 7). But almsgiving is
 
 the golden chain around one's neck (v. 3; see also 1:10). For one attached to his material
 
-possessions will soon forget and forsake Wisdom and His laws (v. 3). ### 3:11-22
+possessions will soon forget and forsake Wisdom and His laws (v. 3). 
+
+### 3:11-22
 *(anchor: PRO.3:11)*
 
 Rebellion is an offspring of forgetfulness and is characterized by a heart that
@@ -156,7 +184,9 @@ also Heb 12:5, 6); otherwise, they would forget God and fall into rebellion agai
 
 honor given Him is worthy of Him (v. 16). To travel His good road brings one peace (v. 19), life (v. 20), and security (v. 20). Then too, they come to know Him as the Lord (v. 20) and the Creator of the world, for God the Father founded the world through Him
 
-(vv. 21, 22). ### 3:23-38
+(vv. 21, 22). 
+
+### 3:23-38
 *(anchor: PRO.3:23)*
 
 One who forgets Wisdom becomes careless (v. 23). Such carelessness is
@@ -169,7 +199,9 @@ of God (v. 36), arrogance (v. 37), and dishonor (v. 38). And the cure for carele
 
 (v. 25) is the grace of the virtues: discernment, righteousness, courage, and self-control
 
-(grace around your neck, v. 24). ### 4:1-28
+(grace around your neck, v. 24). 
+
+### 4:1-28
 *(anchor: PRO.4:1)*
 
 This chapter may be divided into three sections, in which Christ, the Wisdom of the
@@ -184,14 +216,18 @@ Obedient thinking, firmly planted in the heart, guards and does not forget, disr
 
 loves, secures, and honors His commandments (vv. 6, 7). When this is the case, Wisdom, in turn, cleaves to (v. 6), keeps (v. 6), exalts (v. 7), and embraces (v. 7) His
 
-children. In so doing, He puts a crown of graces and delight on their heads (v. 8). ### 4:9-18
+children. In so doing, He puts a crown of graces and delight on their heads (v. 8). 
+
+### 4:9-18
 *(anchor: PRO.4:9)*
 
 The paths of Wisdom are life (vv. 9, 12), uprightness (v. 10), conducive to freedom
 
 (v. 11), energetic (v. 11), are light and give light (v. 17); and they reject the paths of the
 
-ungodly and lawless (vv. 13-16), for their paths are dark and full of stumbling (v. 18). ### 4:19-28
+ungodly and lawless (vv. 13-16), for their paths are dark and full of stumbling (v. 18). 
+
+### 4:19-28
 *(anchor: PRO.4:19)*
 
 The paths of Wisdom involve the senses, both of body and soul: the ear (v. 19), the heart and its fountains (vv. 20, 22), the mouth and lips (v. 23), the eyes and
@@ -222,7 +258,9 @@ fornication vs. marriage. Moreover, His teaching regarding this matter is called
 
 command, because it is not subject to change. His command is to stay away from sex
 
-outside marriage, for this path will lead to Hades and death (vv. 3-6). ### 5:7-14
+outside marriage, for this path will lead to Hades and death (vv. 3-6). 
+
+### 5:7-14
 *(anchor: PRO.5:7)*
 
 Prostitution here refers to engaging in sex outside marriage, which may or may not
@@ -289,7 +327,9 @@ and weak (v. 12), but one who discovers their habits will also find the Word and
 
 of God, who is Christ Himself. And when he imitates their way of life through the grace of
 
-Christ (vv. 7, 9, 10, 11), his laziness will be cured. ### 6:17-25
+Christ (vv. 7, 9, 10, 11), his laziness will be cured. 
+
+### 6:17-25
 *(anchor: PRO.6:17)*
 
 A lawless spirit is a person who rejoices in everything the Lord hates (v. 20). His soul is incurable as long as he continues on this path (v. 19). His vices or sinful
@@ -306,7 +346,9 @@ with the crown of discernment. This crown and chain are the virtues of discernme
 
 its synonyms), righteousness, courage, and self-control, which together beget all the
 
-other virtues of Wisdom. ### 6:26-40
+other virtues of Wisdom. 
+
+### 6:26-40
 *(anchor: PRO.6:26)*
 
 Unlawful sexual intercourse is sex outside the bonds of marriage. And when a
@@ -317,7 +359,9 @@ soul will keep him from this vice or sinful passion. These commandments will als
 
 him while he sleeps (vv. 27-29). But a man who lets down his guard and succumbs to
 
-this passion will ultimately destroy himself (vv. 30-40). ### 6:32-33
+this passion will ultimately destroy himself (vv. 30-40). 
+
+### 6:32-33
 *(anchor: PRO.6:32)*
 
 "Desire is a fire, and the flesh is like a garment. The latter is an easy prey, and the
@@ -328,7 +372,9 @@ fast, it will not go forth again until it has made an exit for itself. Figurativ
 
 keeps a fire in his breast who permits an impure thought to dwell in his heart. And he
 
-walks upon coals who, by sinning in act, destroys his own soul" (Hippol). ### 7:1-27
+walks upon coals who, by sinning in act, destroys his own soul" (Hippol). 
+
+### 7:1-27
 *(anchor: PRO.7:1)*
 
 This chapter contrasts two sons: one with the crown of discernment (vv. 1-6), and
@@ -353,14 +399,18 @@ across his spiritual heart (v. 4) and confesses that they are like a sister to h
 
 just as a brother treats his sister with purity, the commandments of Wisdom will keep
 
-His son from an adulteress (v. 6). ### 7:7-24
+His son from an adulteress (v. 6). 
+
+### 7:7-24
 *(anchor: PRO.7:7)*
 
 An adulteress easily captures the son without the crown of discernment (v. 10) and
 
 leads him to destruction. He is likened to an ox led for slaughter (v. 22), a dog tied up
 
-(v. 23), a deer pierced with an arrow (v. 23), or a bird that is trapped (v. 24). ### 7:25-27
+(v. 23), a deer pierced with an arrow (v. 23), or a bird that is trapped (v. 24). 
+
+### 7:25-27
 *(anchor: PRO.7:25)*
 
 The summation regarding the two sons is as follows. The wise son wearing the
@@ -377,7 +427,9 @@ everlasting. And for the rest, by her words and arguments, she wounds, and by he
 
 she kills those who yield to her. For many are the forms of wickedness that lead the
 
-foolish down to Hades" (Hippol). ### 8:1
+foolish down to Hades" (Hippol). 
+
+### 8:1
 *(anchor: PRO.8:1)*
 
 Wisdom is Christ Himself, and we are to proclaim Him to mankind. Discernment
@@ -394,10 +446,14 @@ Himself to Mankind." It may be outlined as follows: Introduction (8:1); Wisdom's
 
 relationship to mankind (8:2-21); Wisdom's relationship to the Father (8:22-30); and
 
-Conclusion (8:31-35). ### 8:2-3
+Conclusion (8:31-35). 
+
+### 8:2-3
 *(anchor: PRO.8:2)*
 
-Wisdom is omnipresent and fills all things. ### 8:4-6
+Wisdom is omnipresent and fills all things. 
+
+### 8:4-6
 *(anchor: PRO.8:4)*
 
 Wisdom speaks to every human being (O men and the sons of men, v. 4). Before
@@ -406,7 +462,9 @@ they know Him, they are simple and uninstructed (v. 5). If they obey Wisdom out 
 
 love for Him, He will give them astuteness (vv. 5, 6). Astuteness is the crown of the
 
-virtues (14:25). ### 8:7-8
+virtues (14:25). 
+
+### 8:7-8
 *(anchor: PRO.8:7)*
 
 Wisdom is the truth of the Father and only speaks the truth (vv. 6b, 7). Since He is
@@ -419,17 +477,23 @@ the truth, He only speaks what is righteous; there is nothing unrighteous in His
 
 All things are the "sacred things" of v. 6. These things are evident to those who have
 
-the crown of understanding through knowing Wisdom and obeying Him. ### 8:10-21
+the crown of understanding through knowing Wisdom and obeying Him. 
+
+### 8:10-21
 *(anchor: PRO.8:10)*
 
 Silver, gold, and precious stones are not worthy to compare with the value of
 
 pursuing Wisdom and His virtues. These virtues are such things as counsel, knowledge, understanding, discernment, and righteousness. They are likened to fruits (v. 19) that
 
-are produced by Wisdom within those who love Him (v. 17). ### 8:22
+are produced by Wisdom within those who love Him (v. 17). 
+
+### 8:22
 *(anchor: PRO.8:22)*
 
-Wisdom knows all things. ### 8:23
+Wisdom knows all things. 
+
+### 8:23
 *(anchor: PRO.8:23)*
 
 The Lord is the Father, and created in this statement means the Father established
@@ -452,7 +516,9 @@ works of creation and to those accomplished by Christ for our salvation, which a
 
 outlined in the Creed. "In the beginning before time" is the same as "In the beginning was
 
-the Word" in Jn 1:1. For the Father "established" Wisdom "before time." Therefore Christ, the Wisdom and Power of God, is not a creature (1Co 1:24). ### 8:24-25
+the Word" in Jn 1:1. For the Father "established" Wisdom "before time." Therefore Christ, the Wisdom and Power of God, is not a creature (1Co 1:24). 
+
+### 8:24-25
 *(anchor: PRO.8:24)*
 
 The word before occurs five times in these verses, and it emphasizes that
@@ -461,14 +527,18 @@ Wisdom Himself exists outside creation. The words begot me show the relation of
 
 Wisdom to the Father. Wisdom is the Son of the Father, begotten from Him before and
 
-outside all time and ages (see also Creed). ### 8:26-28
+outside all time and ages (see also Creed). 
+
+### 8:26-28
 *(anchor: PRO.8:26)*
 
 Wisdom, the Son of the Father, was present (v. 27) with the Father when He
 
 made the world; therefore, the Son exists with the Father outside creation. The Father is
 
-not a creature; therefore, neither is His Son. ### 8:29-30
+not a creature; therefore, neither is His Son. 
+
+### 8:29-30
 *(anchor: PRO.8:29)*
 
 The Son also created the world, for He was working beside the Father. The
@@ -483,27 +553,37 @@ working. This one working is emphasized in the statement: "The Father made the w
 
 through the Son in the Spirit." Therefore the Holy Trinity, our one God, made the world
 
-with one working, and They rejoice in one another (v. 30). ### 8:31
+with one working, and They rejoice in one another (v. 30). 
+
+### 8:31
 *(anchor: PRO.8:31)*
 
 When the Father completed creation, He rejoiced in it. He also rejoices in the sons
 
-of men. Those who respond to the Father's joy, in turn, rejoice in Him. ### 8:32-33
+of men. Those who respond to the Father's joy, in turn, rejoice in Him. 
+
+### 8:32-33
 *(anchor: PRO.8:32)*
 
 The conclusion to 8:1-31 is this: Heed the Wisdom of the Father, and the man
 
-who does so is blessed. Such a man will keep his eyes on Him at all times. ### 8:34
+who does so is blessed. Such a man will keep his eyes on Him at all times. 
+
+### 8:34
 *(anchor: PRO.8:34)*
 
 The true issues of life center in Christ, the Wisdom of the Father. Those who center
 
-their life in these issues will experience the grace of the Father, the Lord. ### 8:35
+their life in these issues will experience the grace of the Father, the Lord. 
+
+### 8:35
 *(anchor: PRO.8:35)*
 
 People who sin against Wisdom act contrary to their own God-given nature (souls). For human nature is good in itself, but those who behave contrary to their nature act
 
-ungodly toward their own souls. Those who do so love death. ### 9:1
+ungodly toward their own souls. Those who do so love death. 
+
+### 9:1
 *(anchor: PRO.9:1)*
 
 Wisdom is Christ, and He built His house. This house is first the Virgin Mary, the
@@ -516,20 +596,28 @@ prophets. Christ Himself is the Chief Cornerstone (Eph 2:19-22). The seven pilla
 
 God" (Rev 3:1). These seven spirits are the graces of the Holy Spirit that rested on Christ, summarized in Is 11:2, 3: wisdom, understanding, counsel, might, knowledge, godliness, and the fear of God. These are the "seven pillars" by which the Church is supported
 
-through Christ. ### 9:2
+through Christ. 
+
+### 9:2
 *(anchor: PRO.9:2)*
 
 Christ shed His precious blood (sacrifices) and offers it in the wine of the Eucharist
 
-at the Holy Altar (table). ### 9:3
+at the Holy Altar (table). 
+
+### 9:3
 *(anchor: PRO.9:3)*
 
-Christ sends His servants to invite people to Christ and His Eucharist. ### 9:4
+Christ sends His servants to invite people to Christ and His Eucharist. 
+
+### 9:4
 *(anchor: PRO.9:4)*
 
 Christ, the Wisdom of the Father, gives those who turn aside to Him the crown of
 
-the virtues, which is discernment. ### 9:5-6
+the virtues, which is discernment. 
+
+### 9:5-6
 *(anchor: PRO.9:5)*
 
 Wisdom invites mankind to eat my bread, which is His body, and drink the wine, which is His blood in the Holy Eucharist. Those who accept His invitation and forsake
@@ -538,48 +626,64 @@ their vices or sinful passions (lack of discernment) will find life in His Eucha
 
 also Jn 6). Those who seek Wisdom's discernment (the crown of the virtues) will keep
 
-straight their understanding with knowledge. ### 9:7-24
+straight their understanding with knowledge. 
+
+### 9:7-24
 *(anchor: PRO.9:7)*
 
 Wisdom's discernment, seen in the counsel of saints (v. 10), manifests itself in
 
-holy behavior, seen in a wise and righteous man (vv. 8, 9). ### 9:25
+holy behavior, seen in a wise and righteous man (vv. 8, 9). 
+
+### 9:25
 *(anchor: PRO.9:25)*
 
 Holy behavior is conducive to long life. 9:1-25 This chapter may be outlined as follows: Introduction (v. 1); Wisdom's invitation to
 
-mankind (vv. 2-6); Wisdom's discernment in those who accept His invitation (vv. 7-24); and conclusion (v. 25). ### 10:1
+mankind (vv. 2-6); Wisdom's discernment in those who accept His invitation (vv. 7-24); and conclusion (v. 25). 
+
+### 10:1
 *(anchor: PRO.10:1)*
 
 A wise son knows Wisdom and His virtues. But a son without discernment is a
 
-grief, for he lives in vice. ### 10:2
+grief, for he lives in vice. 
+
+### 10:2
 *(anchor: PRO.10:2)*
 
 Lawless rich men do not benefit from their wealth, for their vices lead them to
 
 death and Hades. But righteousness, one of the general virtues of Wisdom, delivers
 
-one from such an end. ### 10:3
+one from such an end. 
+
+### 10:3
 *(anchor: PRO.10:3)*
 
 Wisdom, who is the Lord, will not let the soul of the righteous man starve, for
 
 He will enrich it with the fruits of righteousness. But He overthrows the life of the
 
-ungodly, because He allows them to eat the fruits of their own vices. ### 10:4
+ungodly, because He allows them to eat the fruits of their own vices. 
+
+### 10:4
 *(anchor: PRO.10:4)*
 
 The Lord allows a man's vices to humble his soul. Perhaps he will turn from them. But courage is one of the general virtues begotten by Wisdom. Courageous people
 
-enrich others in virtue. ### 10:6
+enrich others in virtue. 
+
+### 10:6
 *(anchor: PRO.10:6)*
 
 Understanding is the crown of the virtues, and when the heat of temptations and
 
 trials comes at this son, he is kept safe. But a son without the fruits of the virtues
 
-(harvest time) is dried up by the wind of his vices (lawless). ### 10:9
+(harvest time) is dried up by the wind of his vices (lawless). 
+
+### 10:9
 *(anchor: PRO.10:9)*
 
 A wise man is a virtuous man, and he is virtuous because he receives the
@@ -590,54 +694,74 @@ able to control his tongue through Wisdom (see also Jam 3). But an unwise man ca
 
 control his tongue (unguarded in speech), which overthrows him in his
 
-perverseness. ### 10:13
+perverseness. 
+
+### 10:13
 *(anchor: PRO.10:13)*
 
 The general virtues of Wisdom produce love, but their absence causes men to
 
-become hateful and lovers of strife. ### 10:15
+become hateful and lovers of strife. 
+
+### 10:15
 *(anchor: PRO.10:15)*
 
 Perception is one of the general virtues. With perception coupled with self-control, a
 
-man is able to keep his mouth under check. But the mouth of a rash man is unchecked, and therefore, approaches destruction. ### 10:20
+man is able to keep his mouth under check. But the mouth of a rash man is unchecked, and therefore, approaches destruction. 
+
+### 10:20
 *(anchor: PRO.10:20)*
 
-Discreet lips reveal the presence of self-control and the general virtues. Forbearance is a fruit of these virtues. ### 10:24
+Discreet lips reveal the presence of self-control and the general virtues. Forbearance is a fruit of these virtues. 
+
+### 10:24
 *(anchor: PRO.10:24)*
 
 Evil things with laughter are the fruits of men without discernment. But
 
-Wisdom, who is Christ, gives birth to discernment in a man. ### 10:29
+Wisdom, who is Christ, gives birth to discernment in a man. 
+
+### 10:29
 *(anchor: PRO.10:29)*
 
 A virtuous man lives in the gladness of hope, but the hope of a man of vice
 
-perishes. ### 10:30
+perishes. 
+
+### 10:30
 *(anchor: PRO.10:30)*
 
 A holy man is one who knows Wisdom and His virtues. To such a man, the fear
 
-of the Lord is a stronghold. ### 11:2
+of the Lord is a stronghold. 
+
+### 11:2
 *(anchor: PRO.11:2)*
 
 Humble people meditate on Wisdom and His teachings concerning virtue. But
 
 arrogant people pay no attention to Wisdom, and this leads them to dishonor before
 
-Him. ### 11:4
+Him. 
+
+### 11:4
 *(anchor: PRO.11:4)*
 
 Righteousness, one of the general virtues, cuts a straight path through this fallen
 
 world. Those who travel this path are blameless, but ungodliness is characterized by a
 
-crooked path. ### 11:6
+crooked path. 
+
+### 11:6
 *(anchor: PRO.11:6)*
 
 A righteous life produces hope in a man, for his hope is in the world to come. But the
 
-ungodly boast only in this life, which is perishing. ### 11:8
+ungodly boast only in this life, which is perishing. 
+
+### 11:8
 *(anchor: PRO.11:8)*
 
 The ungodly do not exercise self-control over their mouth, for they know nothing of
@@ -646,7 +770,9 @@ the general virtues of Wisdom. But those who know and love Wisdom partake of His
 
 general virtues, two of which are perception and righteousness. Such people benefit
 
-others. ### 11:10
+others. 
+
+### 11:10
 *(anchor: PRO.11:10)*
 
 A man with discernment, the crown of the virtues, has his mouth under control, for
@@ -655,17 +781,23 @@ he knows how to be quiet. Self-control is a "fruit of the Spirit" (Gal 5:19-23).
 
 mouth of a man in need of discernment is out of control and treats others with
 
-contempt. ### 11:15
+contempt. 
+
+### 11:15
 *(anchor: PRO.11:15)*
 
 Lazy people do not pursue Wisdom and His spiritual riches. But courage is one of
 
-the general virtues, and courageous people support themselves with these virtues. ### 11:17
+the general virtues, and courageous people support themselves with these virtues. 
+
+### 11:17
 *(anchor: PRO.11:17)*
 
 Righteousness is one of the general virtues of Wisdom. These virtues beget all the
 
-other virtues, called seed. Wisdom endowed human nature with this seed, which grows, develops, and bears good fruit in those who obey Him. ### 11:22
+other virtues, called seed. Wisdom endowed human nature with this seed, which grows, develops, and bears good fruit in those who obey Him. 
+
+### 11:22
 *(anchor: PRO.11:22)*
 
 Both good and evil desires are motivated by hope for fulfillment. The righteous
@@ -674,33 +806,43 @@ hope for fulfillment in the kingdom of God; therefore, every desire is energized
 
 hope. But the desire of the ungodly is energized by hoping in this fallen world. Since this
 
-world is perishing, its hopes perish with it. ### 11:24
+world is perishing, its hopes perish with it. 
+
+### 11:24
 *(anchor: PRO.11:24)*
 
 Every sincere soul is blessed because sincerity is a fruit of self-control, one of
 
 the general virtues of Wisdom. But an angry soul is out of control, and therefore is not
 
-graceful. ### 11:29
+graceful. 
+
+### 11:29
 *(anchor: PRO.11:29)*
 
 "The fruit of righteousness and the tree of life is Christ. He alone, as man, fulfilled
 
 all righteousness. . . . But the souls of the unrighteous meet an untimely expulsion from
 
-the presence of God" (Hippol). ### 11:30
+the presence of God" (Hippol). 
+
+### 11:30
 *(anchor: PRO.11:30)*
 
 The apostle Peter quotes this verse in 1Pt 4:18. The righteous man suffers
 
 according to the will of God, but this verse encourages him constantly to commit his soul
 
-to God and His faithfulness. For the persecutor will receive his recompense in due time. ### 12:1
+to God and His faithfulness. For the persecutor will receive his recompense in due time. 
+
+### 12:1
 *(anchor: PRO.12:1)*
 
 Wisdom's instruction incorporates several aspects, one of which is correction. Perception is the crown of the virtues, and a perceptive man loves to be corrected. But a
 
-man without discernment hates correction. ### 12:2
+man without discernment hates correction. 
+
+### 12:2
 *(anchor: PRO.12:2)*
 
 No one can live a virtuous life without the grace of God. As Wisdom said, "Without
@@ -709,41 +851,55 @@ Me you can do nothing" (Jn 15:5). Thus he who finds the Lord's grace and lives b
 
 becomes better, that is, bears the fruits of virtue. But His grace passes by the lawless
 
-man in silence. ### 12:4
+man in silence. 
+
+### 12:4
 *(anchor: PRO.12:4)*
 
 A courageous wife is one who possesses the general virtues; therefore, she is a
 
 crown to her husband. But a wife without these virtues is like a worm in a tree, for
 
-her evildoing gradually destroys him. ### 12:5
+her evildoing gradually destroys him. 
+
+### 12:5
 *(anchor: PRO.12:5)*
 
 Upright judgment is the crown of the virtues, and, together with righteousness, is one
 
-of the general virtues. But the judgments of the ungodly are deceitful. ### 12:8
+of the general virtues. But the judgments of the ungodly are deceitful. 
+
+### 12:8
 *(anchor: PRO.12:8)*
 
 Understanding is the crown of the virtues, and coupled with righteousness, courage, and self-control, it helps one to use his mouth in a praiseworthy manner. But a
 
 slothful man does not know these virtues. His mouth is undisciplined; thus he brings
 
-contempt upon himself. ### 12:10
+contempt upon himself. 
+
+### 12:10
 *(anchor: PRO.12:10)*
 
 Compassion is a fruit of righteousness. Thus in man's dominion over every living
 
 thing (Gn 1:28), he is to express this dominion in compassion. But the ungodly evidence
 
-no such affections, for they know nothing of mercy, even toward animals. ### 12:13
+no such affections, for they know nothing of mercy, even toward animals. 
+
+### 12:13
 *(anchor: PRO.12:13)*
 
 The desires of the ungodly are not rooted in the general virtues of Wisdom; therefore, their desires pursue the sinful passions. But the roots of the godly are in
 
-the strongholds of these virtues. ### 12:15
+the strongholds of these virtues. 
+
+### 12:15
 *(anchor: PRO.12:15)*
 
-Gentleness is a fruit of the general virtues, and it manifests itself even in one's eyes. But contention is a fruit of vice, which causes others to suffer. ### 12:18
+Gentleness is a fruit of the general virtues, and it manifests itself even in one's eyes. But contention is a fruit of vice, which causes others to suffer. 
+
+### 12:18
 *(anchor: PRO.12:18)*
 
 Astuteness is the crown of the virtues (see also 14:25), and with it, together with
@@ -752,32 +908,44 @@ righteousness, courage, and self-control, a man keeps his anger under control. B
 
 without this crown (without discernment) and these other virtues proclaims his
 
-wrath through his mouth. ### 12:19
+wrath through his mouth. 
+
+### 12:19
 *(anchor: PRO.12:19)*
 
 Honesty is a fruit of righteousness and the other general virtues. But an
 
-unrighteous man lives in deceit. ### 12:20
+unrighteous man lives in deceit. 
+
+### 12:20
 *(anchor: PRO.12:20)*
 
 The tongues of the wise heal others, because they possess the general virtues of
 
-Wisdom. But the tongues of the unwise are like swords that wound as they speak. ### 12:22
+Wisdom. But the tongues of the unwise are like swords that wound as they speak. 
+
+### 12:22
 *(anchor: PRO.12:22)*
 
 Peace is a fruit of the general virtues, for people who possess them are
 
-peacemakers. But a man with a deceitful heart knows nothing of this. ### 12:25
+peacemakers. But a man with a deceitful heart knows nothing of this. 
+
+### 12:25
 *(anchor: PRO.12:25)*
 
 Understanding and perception are two aspects of the crown of the virtues. But
 
-undiscerning people bring curses on themselves. ### 12:31
+undiscerning people bring curses on themselves. 
+
+### 12:31
 *(anchor: PRO.12:31)*
 
 The fruit of righteousness is life-giving to others, for a righteous man does not
 
-remember wrongs done to him. But the ways of remembering wrongs are deathgiving to others, for these ways destroy personal relationships. ### 13:1
+remember wrongs done to him. But the ways of remembering wrongs are deathgiving to others, for these ways destroy personal relationships. 
+
+### 13:1
 *(anchor: PRO.13:1)*
 
 Astuteness is the crown of the wise (see also 14:25). Obedience is a fruit of this
@@ -788,7 +956,9 @@ the will, according to God and human nature. But disobedience is a use of the wi
 
 contrary to God and nature. For human nature is good in itself (Gn 1:31), and obedience
 
-to God is in harmony with it. ### 13:2
+to God is in harmony with it. 
+
+### 13:2
 *(anchor: PRO.13:2)*
 
 Man's soul is good by nature, and the fruits of righteousness manifest themselves
@@ -797,19 +967,25 @@ naturally from the soul. But lawlessness is willful and prevents these natural f
 
 showing themselves. Unless this man corrects himself, he will destroy his own good
 
-nature. ### 13:3
+nature. 
+
+### 13:3
 *(anchor: PRO.13:3)*
 
 He who guards or disciplines his own mouth allows the natural virtues of the soul
 
 to manifest themselves. But lack of this discipline dismays the soul, because these
 
-virtues are frustrated. ### 13:4
+virtues are frustrated. 
+
+### 13:4
 *(anchor: PRO.13:4)*
 
 Courage is one of the general virtues of Wisdom. Courage keeps a man from being
 
-idle in his desire for the natural virtues to show themselves. ### 13:8
+idle in his desire for the natural virtues to show themselves. 
+
+### 13:8
 *(anchor: PRO.13:8)*
 
 The wealth of the soul is the virtues with which Wisdom endows it. As these virtues
@@ -818,14 +994,18 @@ manifest themselves through Wisdom, they ransom the soul. But this poor man is o
 
 who by his vices prevents his virtues from showing themselves. Thus, he cannot
 
-withstand the threat of these vices. ### 13:10
+withstand the threat of these vices. 
+
+### 13:10
 *(anchor: PRO.13:10)*
 
 The deceptions of sin lead the soul astray in vice. But the righteous correct and
 
 discipline themselves, and their souls manifest the natural fruits of righteousness, such
 
-as compassion and mercy. ### 13:11
+as compassion and mercy. 
+
+### 13:11
 *(anchor: PRO.13:11)*
 
 An evil man is not evil by nature. For if he were, he could not correct and discipline
@@ -834,21 +1014,27 @@ himself. He does evil things by the wrong use of his free will, which is often e
 
 arrogance, one of the worst of the vices. Those who know themselves know they are
 
-good by nature, and they will use this God-given wisdom to remove the deceptions of sin. ### 13:15
+good by nature, and they will use this God-given wisdom to remove the deceptions of sin. 
+
+### 13:15
 *(anchor: PRO.13:15)*
 
 A deceitful son is one who lives in the deceptions of sinful vice. The good in his
 
 nature cannot manifest itself in goodness (nothing good). But a son is also a servant, and if he is wise, he will remove these deceptions and obey Wisdom, and live according
 
-to nature. In this way Wisdom will prosper his deeds. ### 13:16
+to nature. In this way Wisdom will prosper his deeds. 
+
+### 13:16
 *(anchor: PRO.13:16)*
 
 The law of the wise is to live in harmony with Wisdom and human nature. But a
 
 man without understanding will die in this condition through the snares and
 
-deceptions of vice, unless he corrects and disciplines himself. ### 13:17
+deceptions of vice, unless he corrects and disciplines himself. 
+
+### 13:17
 *(anchor: PRO.13:17)*
 
 A good understanding is the crown of the virtues, and it manifests itself in
@@ -857,14 +1043,18 @@ gracious behavior toward others. Such understanding evidences a good mind and a
 
 knowledge of Wisdom's law. But scorners of Wisdom behave in destructive ways
 
-toward others. ### 13:18
+toward others. 
+
+### 13:18
 *(anchor: PRO.13:18)*
 
 Astuteness is the crown of the wise (see also 14:25), and an astute man acts with
 
 knowledge. But a man without this crown (without discernment) spreads his evil
 
-because he is deceived by sin. ### 13:20
+because he is deceived by sin. 
+
+### 13:20
 *(anchor: PRO.13:20)*
 
 Instruction by Wisdom removes the poverty and dishonor of a man caused by
@@ -873,28 +1063,36 @@ the deceptions of his own sin. For by this instruction, a man learns to correct 
 
 discipline himself with regard to these deceptions. And he who heeds Wisdom's
 
-rebukes will be glorified by Him. ### 13:23
+rebukes will be glorified by Him. 
+
+### 13:23
 *(anchor: PRO.13:23)*
 
 A sinner is sinful not by nature, but by the wrong use of his will. Evil things will
 
 overtake this wrong use. But good things overtake the righteous, because they obey
 
-Wisdom, and with His help live according to their good nature. ### 13:26
+Wisdom, and with His help live according to their good nature. 
+
+### 13:26
 *(anchor: PRO.13:26)*
 
 The rod is the gentle rod of rebuke, and the father who does not use it hates his
 
 own son. But he who loves his son educates him carefully in his natural and God-given
 
-virtues. ### 14:1
+virtues. 
+
+### 14:1
 *(anchor: PRO.14:1)*
 
 Wise women build up their families when they possess the general virtues of
 
 Wisdom: discernment, righteousness, courage, and self-control. But those without
 
-discernment destroy them. ### 14:3
+discernment destroy them. 
+
+### 14:3
 *(anchor: PRO.14:3)*
 
 A man without discernment is one who does not possess the general virtues of
@@ -903,7 +1101,9 @@ Wisdom. Such a man is energized by arrogance; thus he beats people with the hars
 
 rod of his mouth. But the lips of wise men are self-controlled, because they possess
 
-the general virtues of Wisdom. ### 14:6
+the general virtues of Wisdom. 
+
+### 14:6
 *(anchor: PRO.14:6)*
 
 Evil men are evil not by nature but by choice. They have chosen not to know
@@ -912,113 +1112,151 @@ Wisdom and His instruction. Therefore, wisdom cannot be found among them. But
 
 perception and discernment are two aspects of the crown of the wise, for they choose to
 
-know Wisdom and His instruction. ### 14:7
+know Wisdom and His instruction. 
+
+### 14:7
 *(anchor: PRO.14:7)*
 
 Everything pertaining to Wisdom and His instruction is contrary to a man without
 
 discernment. But perception, the crown of the virtues, is a good weapon on the lips of
 
-the wise. ### 14:8
+the wise. 
+
+### 14:8
 *(anchor: PRO.14:8)*
 
 Astute men are wise men who know their ways because they are not deceived by
 
 vice. But unwise men are those without the crown of discernment who therefore live in
 
-the folly of their own deceptions. ### 14:12
+the folly of their own deceptions. 
+
+### 14:12
 *(anchor: PRO.14:12)*
 
 People deceived by the vices believe they are on the right road of life. But in truth
 
-their road leads to the depths of Hades. ### 14:14
+their road leads to the depths of Hades. 
+
+### 14:14
 *(anchor: PRO.14:14)*
 
-A bold-hearted man in this case is bold in his vices (filled with his own ways). A good man is good both in nature and in choice, and his thinking is sound. ### 14:15
+A bold-hearted man in this case is bold in his vices (filled with his own ways). A good man is good both in nature and in choice, and his thinking is sound. 
+
+### 14:15
 *(anchor: PRO.14:15)*
 
 A simple man is easily deceived (believes in every word), but an astute man
 
-has the discernment to remove the deceptions of sin through repentance. ### 14:17
+has the discernment to remove the deceptions of sin through repentance. 
+
+### 14:17
 *(anchor: PRO.14:17)*
 
 A quick-tempered man behaves in a reckless manner because he is taken with
 
 anger. But a man with discernment, the crown of the virtues, is patient and thus can
 
-handle what comes his way. ### 14:18
+handle what comes his way. 
+
+### 14:18
 *(anchor: PRO.14:18)*
 
 Men without discernment share in evil because they choose to do so. But astute
 
-men take hold of perception, the crown of the wise, and thus choose the good. ### 14:22
+men take hold of perception, the crown of the wise, and thus choose the good. 
+
+### 14:22
 *(anchor: PRO.14:22)*
 
 Deceivers are self-deceived by their vices, and thus devise evil things by choice. But good men are good both by nature and choice, and thus bring forth mercy and
 
-truth. ### 14:25
+truth. 
+
+### 14:25
 *(anchor: PRO.14:25)*
 
 The crown of the wise is astuteness, one of the general virtues of Wisdom. In
 
 their astuteness, by the grace of Wisdom, the wise choose goodness. But the undiscerning
 
-know neither Wisdom nor His virtues; thus they spend their time choosing vices. ### 14:28
+know neither Wisdom nor His virtues; thus they spend their time choosing vices. 
+
+### 14:28
 *(anchor: PRO.14:28)*
 
 The Lord's commandments are a fountain of life, because He is the life of those
 
 who obey Him. Those who know this life are able to remove from themselves the
 
-deceptions of sin (the snare of death). ### 14:30
+deceptions of sin (the snare of death). 
+
+### 14:30
 *(anchor: PRO.14:30)*
 
 Longsuffering is a fruit of discernment and the general virtues, but cowards (the
 
-fainthearted) are devoid of these virtues. ### 14:31
+fainthearted) are devoid of these virtues. 
+
+### 14:31
 *(anchor: PRO.14:31)*
 
 A gentle spirit is a fruit of the general virtues, and such a man heals his own
 
 heart. But a sensual heart is the moth of the bones, because this heart is overcome
 
-with the cares of the fallen world. ### 14:34
+with the cares of the fallen world. 
+
+### 14:34
 *(anchor: PRO.14:34)*
 
 A good heart is good both by nature and choice. Such a man knows Wisdom and
 
 His virtues. But He and His virtues are unknown in the heart of those without
 
-discernment. ### 15:1
+discernment. 
+
+### 15:1
 *(anchor: PRO.15:1)*
 
 Even men of discernment lose their discernment if they respond in kind to the
 
 anger of others. For this response clouds their ability to understand a matter. But a
 
-humble answer manifests a calm spirit and allows truth to penetrate the situation. ### 15:3
+humble answer manifests a calm spirit and allows truth to penetrate the situation. 
+
+### 15:3
 *(anchor: PRO.15:3)*
 
 The eyes of the Lord are in every place, because He fills all things. He observes
 
 both the evil and the good. The evil are good by nature but evil by choice, and He sees
 
-these choices. The good are good by nature and by choice, and He also sees this. ### 15:4
+these choices. The good are good by nature and by choice, and He also sees this. 
+
+### 15:4
 *(anchor: PRO.15:4)*
 
 The Spirit of Wisdom is the Holy Spirit. He is everywhere present and fills all things. Those who partake of His fullness use their tongues to heal others, and are a tree of
 
-life to them. ### 15:8
+life to them. 
+
+### 15:8
 *(anchor: PRO.15:8)*
 
 Perception is the crown of the wise, and it helps them to control the use of their lips. But the hearts of those without discernment are not safe to others, because their
 
-mouths are out of control. ### 15:13
+mouths are out of control. 
+
+### 15:13
 *(anchor: PRO.15:13)*
 
 An uninstructed man does not know Wisdom and His instruction; thus, he will
 
-not love those who reprove him. Nor will he keep company with wise people, because he chooses to live in the deceptions of his own sins. ### 15:15
+not love those who reprove him. Nor will he keep company with wise people, because he chooses to live in the deceptions of his own sins. 
+
+### 15:15
 *(anchor: PRO.15:15)*
 
 An upright heart is one that knows Wisdom and His virtues. Thus, he chooses to
@@ -1027,7 +1265,9 @@ seek these virtues, such as perception, one of the general virtues. But the
 
 uninstructed are those who live in the deceptions of their own vices (know evil
 
-things). ### 15:19
+things). 
+
+### 15:19
 *(anchor: PRO.15:19)*
 
 In itself, anger is a blameless passion, useful in turning one away from vice. But if
@@ -1036,50 +1276,66 @@ this passion is out of control, it turns one to contention. Longsuffering, howev
 
 fruit of the general virtues, and uses anger to turn away from this vice. Longsuffering
 
-calms rising quarrels. ### 15:21
+calms rising quarrels. 
+
+### 15:21
 *(anchor: PRO.15:21)*
 
 Idle men are cowards, because they have no courage to deal with their problems
 
 (thorny plants). But courage is one of the general virtues, and courageous men
 
-confront their thorny issues and smooth them out. ### 15:22-25
+confront their thorny issues and smooth them out. 
+
+### 15:22-25
 *(anchor: PRO.15:22)*
 
 This passage, coupled with 16:1-9, is read during Wednesday Vespers in the fifth
 
-week of Great Lent. ### 15:25
+week of Great Lent. 
+
+### 15:25
 *(anchor: PRO.15:25)*
 
 Evil men are good by nature but evil by choice. They refuse to obey counsel, because
 
 it contradicts their choices. They especially refuse to obey any counsel for the common
 
-good of others. ### 15:30
+good of others. 
+
+### 15:30
 *(anchor: PRO.15:30)*
 
 Almsgiving and faithfulness are fruits of the general virtues of Wisdom. These
 
 fruits cleanse the sins of love of money and unbelief. These fruits are also evidence of
 
-fear of the Lord, by which people turn aside from choosing vice (evil). ### 15:33
+fear of the Lord, by which people turn aside from choosing vice (evil). 
+
+### 15:33
 *(anchor: PRO.15:33)*
 
 God is far from the ungodly, not in place but in will. The will of God and the will
 
 of the ungodly are far apart. But He hears the prayers of the righteous because their
 
-will and His will are in harmony. ### 15:37
+will and His will are in harmony. 
+
+### 15:37
 *(anchor: PRO.15:37)*
 
 He who rejects Wisdom's instruction refuses to correct the sins that deceive him. Such a man hates his good soul and the virtues Wisdom implanted within it. But he
 
 who gives heed to Wisdom's reproofs loves his soul, because he removes the
 
-deceptions of sin that prevent his soul from growing in the God-implanted virtues. ### 15:38
+deceptions of sin that prevent his soul from growing in the God-implanted virtues. 
+
+### 15:38
 *(anchor: PRO.15:38)*
 
-A man who fears God receives Wisdom's correction and instruction in the virtues. Such a man begins and continues to understand the glory of God. ### 16:1
+A man who fears God receives Wisdom's correction and instruction in the virtues. Such a man begins and continues to understand the glory of God. 
+
+### 16:1
 *(anchor: PRO.16:1)*
 
 Salvation begins and ends with humility (JohnChr). Humility is a fruit of the general
@@ -1092,7 +1348,9 @@ unacceptable to the Lord. The evil day indicates the destructive road they are t
 
 in life. 16:1-9 This passage, coupled with 15:22-25, is read during Wednesday Vespers in the fifth
 
-week of Great Lent. ### 16:3
+week of Great Lent. 
+
+### 16:3
 *(anchor: PRO.16:3)*
 
 Righteousness is one of the general virtues of Wisdom. These virtues launch one on
@@ -1101,7 +1359,9 @@ the good road to travel throughout life. This road is characterized by the good 
 
 righteousness, one of which is humility (the beginning of a good way). Sacrifices are
 
-acceptable, but the virtues of Wisdom are more acceptable to God. ### 16:4
+acceptable, but the virtues of Wisdom are more acceptable to God. 
+
+### 16:4
 *(anchor: PRO.16:4)*
 
 The Lord is the Author of the virtues (knowledge with righteousness). Man
@@ -1110,7 +1370,9 @@ cannot have the Lord without the virtues, nor can he have the virtues without th
 
 which He is the Author. Those who seek the Lord with this in mind (rightly) will also
 
-find the peace He authors. ### 16:7
+find the peace He authors. 
+
+### 16:7
 *(anchor: PRO.16:7)*
 
 Righteousness is one of the general virtues Wisdom begets in those who know and
@@ -1121,12 +1383,16 @@ works. Thus, His righteousness is also the standard by which man does works acce
 
 to Him. 16:1-9 This passage, coupled with 15:22-25, is read during Wednesday Vespers in the fifth
 
-week of Great Lent. ### 16:12
+week of Great Lent. 
+
+### 16:12
 *(anchor: PRO.16:12)*
 
 Man lives in one or the other of two abodes. These abodes are mutually exclusive. Thus man has a choice. He may choose Wisdom, who is Christ, or he may choose gold. He may love Christ, or he may love money, but he cannot love and live in both abodes
 
-simultaneously. ### 16:14
+simultaneously. 
+
+### 16:14
 *(anchor: PRO.16:14)*
 
 Wisdom's instruction incorporates several aspects: teaching, correction, discipline, reproof, learning, education, and training. Thus, he who receives this instruction shall
@@ -1135,38 +1401,50 @@ be in good things. And He rebukes those who love Him, for this is part of His
 
 instruction. These rebukes help us to remove the deceptions of sin, for these deceptions
 
-stand in the way of one's growth and development in the virtues of Wisdom. ### 16:17
+stand in the way of one's growth and development in the virtues of Wisdom. 
+
+### 16:17
 *(anchor: PRO.16:17)*
 
 Gentleness and humility are fruits of the general virtues of Wisdom. Wise people
 
-place more value on these fruits than on anything associated with the arrogant (spoils). For such spoils go before destruction (v. 16). ### 16:20
+place more value on these fruits than on anything associated with the arrogant (spoils). For such spoils go before destruction (v. 16). 
+
+### 16:20
 *(anchor: PRO.16:20)*
 
 Understanding is the crown of Wisdom's virtues, and it is a fountain of life to
 
 those who possess it. But without discernment one is led away from this fountain of
 
-life to evil or false fountains of instruction. ### 16:21
+life to evil or false fountains of instruction. 
+
+### 16:21
 *(anchor: PRO.16:21)*
 
 The spiritual heart of a wise man is the abode of understanding. It has the eyes to
 
 see and the ears to hear Wisdom and His instruction (see also Eph 1:18). Such a man
 
-carries knowledge upon his lips. ### 16:29
+carries knowledge upon his lips. 
+
+### 16:29
 *(anchor: PRO.16:29)*
 
 Certain people can grow old with great dignity. Who are these? Those who have
 
-followed the general virtues of Wisdom, one of which is righteousness. ### 16:30
+followed the general virtues of Wisdom, one of which is righteousness. 
+
+### 16:30
 *(anchor: PRO.16:30)*
 
 Self-control is one of the general virtues, and these produce all the rest, two of
 
 which are patience and control of the temper. These virtues are far superior to the
 
-military strength necessary to capture a city. ### 16:31
+military strength necessary to capture a city. 
+
+### 16:31
 *(anchor: PRO.16:31)*
 
 The unrighteous are those who do not know and love Wisdom and His virtues. Thus
@@ -1175,7 +1453,9 @@ they live in vice (all evil things). But all the virtues (all righteous things) 
 
 source in the Lord. "Nothing is purer than virtue; nothing more unclean than vice; for the
 
-one is brighter than the sun, the other more stinking than mire" (JohnChr). ### 17:1
+one is brighter than the sun, the other more stinking than mire" (JohnChr). 
+
+### 17:1
 *(anchor: PRO.17:1)*
 
 A morsel is a small amount, and it indicates the need to avoid extremes (a house
@@ -1184,7 +1464,9 @@ full of many good things). Possessions are good in themselves, but too much of a
 
 thing can weigh one down. These excesses lead to quarreling, which robs enjoyment in
 
-peace and even engenders unacceptable worship (unrighteous sacrifices). ### 17:3
+peace and even engenders unacceptable worship (unrighteous sacrifices). 
+
+### 17:3
 *(anchor: PRO.17:3)*
 
 The Lord chooses those He foreknows (see also Rom 8:29). He saw the chosen
@@ -1193,19 +1475,25 @@ before He created them. He saw their spiritual hearts and the furnace of testing
 
 would endure in their faith. For as silver and gold are refined and purified in a
 
-furnace, so are the hearts of the elect. ### 17:4
+furnace, so are the hearts of the elect. 
+
+### 17:4
 *(anchor: PRO.17:4)*
 
 An evil man is righteous by nature but evil by choice. For he heeds the tongue of
 
 the lawless. But a righteous man is righteous by God, nature, and choice. Thus he pays
 
-no attention to false lips, for he chooses to live according to God and nature. ### 17:9
+no attention to false lips, for he chooses to live according to God and nature. 
+
+### 17:9
 *(anchor: PRO.17:9)*
 
 Wisdom's instruction consists of teaching, correction, discipline, reproof, learning, education, and training. Thus, it awards benefits to those using it and prospers
 
-them. ### 17:14
+them. 
+
+### 17:14
 *(anchor: PRO.17:14)*
 
 Vice (evil) cannot be removed from anyone or from his house as long as he
@@ -1214,7 +1502,9 @@ repays evil for good. To choose to live contrary to God and nature is to repay e
 
 good, for He is good, and human nature is good. Such an individual cannot be removed
 
-from his vices unless he comes to repentance. ### 17:16
+from his vices unless he comes to repentance. 
+
+### 17:16
 *(anchor: PRO.17:16)*
 
 People who live contrary to God and nature conjure up false judgment. They become
@@ -1223,21 +1513,27 @@ so deceived they judge unrighteousness as righteousness, and righteousness as
 
 unrighteousness. Such judgment is the ultimate of uncleanness and of becoming
 
-abominable before God. ### 17:19
+abominable before God. 
+
+### 17:19
 *(anchor: PRO.17:19)*
 
 True friends and brethren are begotten by Wisdom, who is Christ. One who has
 
 such true friends and brethren is rich indeed, for they help him on every occasion and
 
-in necessities. ### 17:22
+in necessities. 
+
+### 17:22
 *(anchor: PRO.17:22)*
 
 A changeable man in this case is a heart without discernment, for he does not
 
 experience the stability of Wisdom's general virtues. Thus, he easily falls into evils with
 
-his tongue and into grief. ### 17:29
+his tongue and into grief. 
+
+### 17:29
 *(anchor: PRO.17:29)*
 
 He who refrains from uttering a harsh word is intelligent, because this
@@ -1246,7 +1542,9 @@ restraint shows he possesses the general virtues of Wisdom and thus has his tong
 
 under control. He also has longsuffering, a fruit of discernment, one of the general
 
-virtues. ### 17:30
+virtues. 
+
+### 17:30
 *(anchor: PRO.17:30)*
 
 A man without understanding who asks Wisdom for wisdom will receive it, for
@@ -1255,7 +1553,9 @@ understanding is the crown of the wise. It enables one to hold his peace rather 
 
 lose his temper. And one who holds his peace will seem to have discernment, the
 
-crown of the wise. ### 18:1
+crown of the wise. 
+
+### 18:1
 *(anchor: PRO.18:1)*
 
 A pretext is an excuse a man rationalizes when he wishes to separate from his
@@ -1264,49 +1564,63 @@ friends. After this pretext is accomplished, and when his friends discover it, p
 
 after the fact, they no longer trust him. But they reproach what he did at every
 
-opportunity. ### 18:4
+opportunity. 
+
+### 18:4
 *(anchor: PRO.18:4)*
 
 A word is Wisdom's instruction in the virtues, and when it is in the heart of a
 
 man, it is deep water. Wisdom's virtues in a man are like a river and a fountain, for
 
-life springs up from them. ### 18:7
+life springs up from them. 
+
+### 18:7
 *(anchor: PRO.18:7)*
 
 A man's mouth ruins him because he is without discernment and the general
 
 virtues. Such a mouth snares his soul. His soul is good by nature, but the soul of this
 
-man is incapable of manifesting its natural virtues, for his vices block them out. ### 18:8
+man is incapable of manifesting its natural virtues, for his vices block them out. 
+
+### 18:8
 *(anchor: PRO.18:8)*
 
 Unnatural fear, such as the fear of death, destroys slothful men, because they are
 
 too lazy to seek Wisdom and His virtues. These men are cowardly, although their souls
 
-hunger. Their souls, good by nature, are starving to be fed with Wisdom and His virtues. ### 18:10
+hunger. Their souls, good by nature, are starving to be fed with Wisdom and His virtues. 
+
+### 18:10
 *(anchor: PRO.18:10)*
 
 The righteous are trained by Wisdom to run to the name of the Lord, for
 
 example, by praying, "Lord, have mercy." The righteous focus on His name and find great
 
-strength there. ### 18:14
+strength there. 
+
+### 18:14
 *(anchor: PRO.18:14)*
 
 Discouragement, or depression, is more difficult to cure than anger, for
 
 discouragement is hopelessness. At least an angry person still has fight left in him, although his anger is misdirected. And a servant with discernment is able to calm this
 
-anger. But who can support a discouraged man? The answer comes in 18:15. ### 18:15
+anger. But who can support a discouraged man? The answer comes in 18:15. 
+
+### 18:15
 *(anchor: PRO.18:15)*
 
 Discernment, perception, and understanding are three aspects of the crown of the
 
 wise. This wise person seeks to understand from Wisdom how to cure the hopelessness
 
-of the man in 18:14, provided he is willing to be cured. ### 18:19
+of the man in 18:14, provided he is willing to be cured. 
+
+### 18:19
 *(anchor: PRO.18:19)*
 
 A brother aided by his brother fights for the truth. The two together are like a
@@ -1327,7 +1641,9 @@ The use of one's tongue is capable of imparting spiritual life to people, but it
 
 capable of killing them spiritually. But those who rule over it by the general virtues of
 
-Wisdom will enjoy the fruits of its wise use. ### 19:1
+Wisdom will enjoy the fruits of its wise use. 
+
+### 19:1
 *(anchor: PRO.19:1)*
 
 Man is good by nature, but he maltreats himself and his goodness when he does not
@@ -1340,12 +1656,16 @@ deceptions of his own sins. He needs to accept responsibility and remove these
 
 deceptions through repentance. Then his good nature will manifest itself through
 
-Wisdom. ### 19:6
+Wisdom. 
+
+### 19:6
 *(anchor: PRO.19:6)*
 
 Understanding and discernment are two aspects of the crown of the wise. Through
 
-Wisdom, a man will discover them increasingly. ### 19:8
+Wisdom, a man will discover them increasingly. 
+
+### 19:8
 *(anchor: PRO.19:8)*
 
 There is a proper love of oneself. It is to love one's good nature and the virtues
@@ -1354,24 +1674,32 @@ implanted in it by Wisdom. He who loves himself in this way will also love the W
 
 who created him. From Wisdom, he will increasingly gain more discernment about
 
-himself and find good things implanted there. ### 19:15
+himself and find good things implanted there. 
+
+### 19:15
 *(anchor: PRO.19:15)*
 
 Man is not cowardly by nature, for Wisdom implanted courage in human nature. But when a man chooses to be idle, he is too lazy to seek Wisdom and His virtues. Thus, his soul starves because the natural virtues are unable to grow and develop in him
 
-through Wisdom. ### 19:17
+through Wisdom. 
+
+### 19:17
 *(anchor: PRO.19:17)*
 
 Mercy on the poor is almsgiving, which is lending to God. And He will repay
 
-him according to his gift means we cannot out-give God. ### 19:21
+him according to his gift means we cannot out-give God. 
+
+### 19:21
 *(anchor: PRO.19:21)*
 
 The heart of man is deep, and it entertains many thoughts. But these thoughts are
 
 useless and harmful unless they are grounded in the counsel of the Lord. This counsel
 
-is the truth of Wisdom and His virtues. One grounded in this counsel will abide forever. ### 19:23
+is the truth of Wisdom and His virtues. One grounded in this counsel will abide forever. 
+
+### 19:23
 *(anchor: PRO.19:23)*
 
 There are two kinds of fear in this verse. One is the fear of the Lord, which
@@ -1384,7 +1712,9 @@ world where many refuse to examine such knowledge. Failure to examine Wisdom's
 
 knowledge nourishes unnatural fear in man and brings on the darkness of spiritual
 
-ignorance. ### 19:25
+ignorance. 
+
+### 19:25
 *(anchor: PRO.19:25)*
 
 A pestilent man is a troublemaker and scoffer who refuses to be corrected by
@@ -1395,7 +1725,9 @@ discernment may see this, and be motivated to seek Wisdom and His astuteness. On
 
 other hand, a discerning man is one who accepts reproof from Wisdom. Thus, he gains
 
-more understanding and perception. ### 19:29
+more understanding and perception. 
+
+### 19:29
 *(anchor: PRO.19:29)*
 
 Lashes and punishments are prepared to teach those without restraint and
@@ -1420,12 +1752,16 @@ Wine and strong drink are not evil in themselves. Wine is intemperate in those w
 
 drink too much of it. The same is true of strong drink when people commingle with it. Too much of either militates against Wisdom and His virtues. Lack of self-control and
 
-violence to oneself, and perhaps to others, are the results. ### 20:5
+violence to oneself, and perhaps to others, are the results. 
+
+### 20:5
 *(anchor: PRO.20:5)*
 
 Counsel is the virtues of Wisdom implanted as deep water in the heart of a
 
-man. And discernment, the crown of the wise, is able to draw out these virtues. ### 20:9
+man. And discernment, the crown of the wise, is able to draw out these virtues. 
+
+### 20:9
 *(anchor: PRO.20:9)*
 
 Two questions are asked in this verse. In the first question, a man denies any
@@ -1438,17 +1774,23 @@ committed, and thus uses this as an excuse to sin more. "To fall is not so griev
 
 where we have fallen; nor to be wounded so dreadful as after wounds to refuse healing"
 
-(JohnChr). ### 20:15
+(JohnChr). 
+
+### 20:15
 *(anchor: PRO.20:15)*
 
 The Lord made the ear and the eye. This refers to the soul as well as the body. For
 
-the eyes and ears of the spiritual heart see and hear from Wisdom, if they are healthy. ### 20:17
+the eyes and ears of the spiritual heart see and hear from Wisdom, if they are healthy. 
+
+### 20:17
 *(anchor: PRO.20:17)*
 
 Those who open their spiritual eyes to see Wisdom will be filled with His bread
 
-of virtues, for Christ is the Bread of life (Jn 6). ### 20:20
+of virtues, for Christ is the Bread of life (Jn 6). 
+
+### 20:20
 *(anchor: PRO.20:20)*
 
 A vow made to God is voluntary and not a requirement. But if a man vows too
@@ -1457,7 +1799,9 @@ quickly to set apart (sanctify) to God something he owns, but afterwards changes
 
 heart, this becomes a snare to his relationship with God. For example, this would be true
 
-of monetary commitments made to the Lord's work. ### 20:22
+of monetary commitments made to the Lord's work. 
+
+### 20:22
 *(anchor: PRO.20:22)*
 
 The light of the Lord is man's true breath. As healthy breathing of air in the lungs is
@@ -1466,14 +1810,18 @@ good for a man, more so is the healthy breathing of the Lord's light in his soul
 
 light searches the inner man, which is the soul of man. As a man breathes the fresh air
 
-of God's light in his soul, he is purified and cleansed from his sins. ### 20:25
+of God's light in his soul, he is purified and cleansed from his sins. 
+
+### 20:25
 *(anchor: PRO.20:25)*
 
 When a man refuses to breathe the fresh air of the Lord's light (v. 22) in his soul
 
 (inner man), he does evil things. These things bruise and fracture his soul, and cause
 
-him choke to death spiritually for lack of air. ### 21:1
+him choke to death spiritually for lack of air. 
+
+### 21:1
 *(anchor: PRO.21:1)*
 
 A flow of water indicates the movement of the will in the heart. This movement is
@@ -1482,7 +1830,9 @@ a free movement of the king toward God. God's will inclines the king's will in t
 
 proper direction. Thus, the two wills move in the same direction, with the king's will in
 
-willing submission to the will of God. ### 21:3
+willing submission to the will of God. 
+
+### 21:3
 *(anchor: PRO.21:3)*
 
 Righteousness is one of the general virtues of Wisdom implanted in those who know
@@ -1491,14 +1841,18 @@ and love Him. To do righteous things shows the free movement of the will in one 
 
 lives according to Wisdom and His virtues. To speak the truth also shows the free
 
-movement of the will in one who declares the knowledge Wisdom imparts to him. ### 21:6
+movement of the will in one who declares the knowledge Wisdom imparts to him. 
+
+### 21:6
 *(anchor: PRO.21:6)*
 
 The ungodly are those who move their free will in the wrong direction. This
 
 movement is away from Wisdom and His virtues. Therefore they are not willing to do
 
-righteous things. ### 21:10
+righteous things. 
+
+### 21:10
 *(anchor: PRO.21:10)*
 
 The intemperate man is one example of a man who moves his free will in the
@@ -1507,52 +1861,68 @@ wrong direction, the lack of self-control. The punishment he receives is his own
 
 simple man is one who is beginning to move his will toward Wisdom and His virtues. Astuteness is the crown of the wise (see also 14:25), one of the general virtues. Understanding is another aspect of this crown. Therefore, when the simple man truly
 
-observes the punishment the intemperate brings on himself, he becomes wiser. ### 21:14
+observes the punishment the intemperate brings on himself, he becomes wiser. 
+
+### 21:14
 *(anchor: PRO.21:14)*
 
 Upright judgment is one aspect of the crown of Wisdom's virtues. This judgment, coupled with righteousness, produces joy. Such people are holy. Evildoers are those
 
 who willfully pursue vice or sinful passions. Since they rationalize righteousness to be
 
-unrighteousness, they see a holy man as unclean. ### 21:21
+unrighteousness, they see a holy man as unclean. 
+
+### 21:21
 *(anchor: PRO.21:21)*
 
 A wise man is one who knows and loves Wisdom and His virtues. He assaults the
 
 fortified cities of his own sinful passions and pulls down the stronghold, likely the
 
-opinions of the ungodly. ### 21:24
+opinions of the ungodly. 
+
+### 21:24
 *(anchor: PRO.21:24)*
 
 Desires are blameless passions that need to be kept under control. But a slothful
 
 man refuses to control his desires. He chooses not to do anything about his spiritual
 
-laziness; therefore, his desires control him. ### 21:26
+laziness; therefore, his desires control him. 
+
+### 21:26
 *(anchor: PRO.21:26)*
 
 "The alms that please the eyes of our Redeemer are not those gathered in unlawful
 
 ways and from lawlessness. . . . We are plainly warned by Holy Scripture not to get
 
-anything by sinning under the pretext of almsgiving" (GrgGt). ### 21:29
+anything by sinning under the pretext of almsgiving" (GrgGt). 
+
+### 21:29
 *(anchor: PRO.21:29)*
 
 The ungodly choose to live contrary to Wisdom and His virtues of courage and
 
-counsel. Their negative choice shuts them out from these virtues. ### 22:1
+counsel. Their negative choice shuts them out from these virtues. 
+
+### 22:1
 *(anchor: PRO.22:1)*
 
 A good name to be chosen more than much wealth is the name Christian (see
 
 Acts 11:26). For Wisdom is Christ, and those who follow Him are known by this name. And His good grace is worth more than silver and gold, for by His grace Christians
 
-live according to His virtues implanted within them. ### 22:4
+live according to His virtues implanted within them. 
+
+### 22:4
 *(anchor: PRO.22:4)*
 
 The fear of the Lord is the offspring of Wisdom, who is Christ. He is the begetter
 
-of all the virtues, described as riches and glory and life (see Jn 10:10). ### 22:5
+of all the virtues, described as riches and glory and life (see Jn 10:10). 
+
+### 22:5
 *(anchor: PRO.22:5)*
 
 The crooked are those who choose to live contrary to God and human nature, for in
@@ -1561,40 +1931,52 @@ itself the soul is straight, not crooked. Thorns and snares are sinful passions.
 
 who guards his own soul will keep away from them. He is able to do this through
 
-Wisdom and His virtues. ### 22:8
+Wisdom and His virtues. 
+
+### 22:8
 *(anchor: PRO.22:8)*
 
 A cheerful man is one free from the love of money and the vainglory it produces. He is very generous in almsgiving, and blessed by God. The vanity of his works refers
 
 to those done for one's own glory. But since the cheerful man is blessed by God, his
 
-almsgiving is free from vanity and done for God's glory. ### 22:12
+almsgiving is free from vanity and done for God's glory. 
+
+### 22:12
 *(anchor: PRO.22:12)*
 
 Holy hearts belong to those who live according to Wisdom and His virtues. The
 
 Lord's love manifests itself in blameless hearts, and He sees these spiritual hearts which
 
-are acceptable to Him. ### 22:16
+are acceptable to Him. 
+
+### 22:16
 *(anchor: PRO.22:16)*
 
 A lawless man is one who willfully rejects Wisdom and His virtues. His mouth
 
 becomes a deep pit of lawlessness. The Lord's hate for this man and his ways is hate in
 
-the sense of rejection. It is not the passion of hatred, for He is dispassionate. ### 22:20
+the sense of rejection. It is not the passion of hatred, for He is dispassionate. 
+
+### 22:20
 *(anchor: PRO.22:20)*
 
 When the spiritual heart inclines its ears to hear Wisdom (my word) and the
 
 words of His wise people, it becomes established. This inclination is the free movement
 
-of the will toward Wisdom, and the intent to obey Him. ### 22:27
+of the will toward Wisdom, and the intent to obey Him. 
+
+### 22:27
 *(anchor: PRO.22:27)*
 
 St. Paul said in agreement with this verse, "Do not be deceived: 'Evil company
 
-corrupts good habits'" (1Co 15:33). ### 22:30
+corrupts good habits'" (1Co 15:33). 
+
+### 22:30
 *(anchor: PRO.22:30)*
 
 The eternal landmarks refers to the Orthodox faith handed down in the Church. These landmarks must not be removed. "I cannot sufficiently wonder at the madness of
@@ -1605,19 +1987,25 @@ that, not content with the rule of faith delivered once for all, and received fr
 
 of old, they are every day seeking one novelty after another, and are constantly longing to
 
-add, change, and take away, in religion" (VincLer). ### 23:1-4
+add, change, and take away, in religion" (VincLer). 
+
+### 23:1-4
 *(anchor: PRO.23:1)*
 
 Understanding is one of the general virtues of Wisdom. He who has this virtue
 
 understands true life. A false life (v. 3) is the love of riches and gourmet dining. Poor
 
-people should never measure themselves by rich people. A false life is one of deception. ### 23:12
+people should never measure themselves by rich people. A false life is one of deception. 
+
+### 23:12
 *(anchor: PRO.23:12)*
 
 The source of instruction is Wisdom, who is Christ our Teacher. If one gives his
 
-spiritual heart and ears to Him, he will be instructed by Him with words of perception, the crown of the virtues. ### 23:16-19
+spiritual heart and ears to Him, he will be instructed by Him with words of perception, the crown of the virtues. 
+
+### 23:16-19
 *(anchor: PRO.23:16)*
 
 Wisdom addresses His son (v. 19), and encourages him to spend time with His
@@ -1630,14 +2018,18 @@ he does this, his thoughts will be directed aright (v. 19). He will also learn t
 
 Lord the whole day long (v. 17), and other virtues of Wisdom, such as hope (v. 18), will
 
-be like offspring in him. ### 23:21
+be like offspring in him. 
+
+### 23:21
 *(anchor: PRO.23:21)*
 
 This verse seems to summarize vv. 20-36. Drunkenness, fornication, and spiritual
 
 slothfulness are an unholy combination. These things leave one with tattered and
 
-ragged garments and "more naked than ground meat" (v. 31). ### 24:3-5
+ragged garments and "more naked than ground meat" (v. 31). 
+
+### 24:3-5
 *(anchor: PRO.24:3)*
 
 Understanding, perception, and discernment are three aspects of the same
@@ -1646,7 +2038,9 @@ thing, known as the crown of the virtues. A house is a man, and Wisdom is the bu
 
 the house, that is, He builds a man into a wise man of strength. Such a man considers
 
-Wisdom and His virtues to be superior to a man who has a large estate. ### 24:7
+Wisdom and His virtues to be superior to a man who has a large estate. 
+
+### 24:7
 *(anchor: PRO.24:7)*
 
 Wisdom is the Lord. Councils are the gates of the wise. Within these gates the
@@ -1657,7 +2051,9 @@ of the Lord). These interpretations are the good thinking that results from thei
 
 deliberations. The Seven Ecumenical Councils of the Church are examples of these
 
-councils. ### 24:10-12
+councils. 
+
+### 24:10-12
 *(anchor: PRO.24:10)*
 
 Evangelism rescues those being led into death, and saws off their bonds, and does not spare them help. The evangelist has no need to know a man before he
@@ -1666,14 +2062,18 @@ evangelizes him. For the Lord knows the hearts of all, since He formed every bre
 
 and knows all things. At His Second Coming, He will render to each man
 
-according to his works. ### 24:13
+according to his works. 
+
+### 24:13
 *(anchor: PRO.24:13)*
 
 Honey is the teaching of Wisdom, and when it is eaten, it sweetens the soul. "He
 
 uses 'honey' figuratively, meaning divine doctrine, which restores the spiritual knowledge
 
-of the soul" (Hippol). ### 24:16-37
+of the soul" (Hippol). 
+
+### 24:16-37
 *(anchor: PRO.24:16)*
 
 Righteousness is one of the general virtues of Wisdom, who makes righteous a
@@ -1684,7 +2084,9 @@ choose instruction (v. 37) when he falls into sin. But the ungodly shall weaken 
 
 evils, because he chooses to be weak and evil, and has no interest in repentance or
 
-instruction. ### 24:17
+instruction. 
+
+### 24:17
 *(anchor: PRO.24:17)*
 
 The enemy is some sinful passion one has overcome, but he should not rejoice in
@@ -1695,7 +2097,9 @@ of God. . . . And we ought not be puffed up by victories over them . . . lest He
 
 arrogant heart . . . and you begin to be forsaken by Him, and troubled once more by that
 
-passion, which by God's grace you had previously overcome" (JohnCas). ### 24:31
+passion, which by God's grace you had previously overcome" (JohnCas). 
+
+### 24:31
 *(anchor: PRO.24:31)*
 
 Pr 24:31, 32, 35, 36: A man without the discernment of Wisdom is like a dried-up
@@ -1704,7 +2108,9 @@ and barren field and vineyard. The evangelist first prepares his own soul with t
 
 (works). Then he walks behind Wisdom in the fields to water the dry and barren
 
-vineyards. ### 25:4
+vineyards. 
+
+### 25:4
 *(anchor: PRO.25:4)*
 
 Silver shines unless it is covered with dross, the waste material that comes off in
@@ -1713,12 +2119,16 @@ something. Human nature is good in itself, and would shine if it were not covere
 
 the deceptions ("dross") of the sinful passions. These deceptions are removed by spiritual
 
-athleticism (beat drossy silver), such as prayer and fasting. When these are removed, the natural sheen of the virtues shines from one's nature (made entirely clean). ### 25:5
+athleticism (beat drossy silver), such as prayer and fasting. When these are removed, the natural sheen of the virtues shines from one's nature (made entirely clean). 
+
+### 25:5
 *(anchor: PRO.25:5)*
 
 The King's throne is a spiritual heart established in the virtues of Wisdom
 
-(established in righteousness). When the sinful passions (the ungodly) are slain, this throne is established in the heart. ### 25:6
+(established in righteousness). When the sinful passions (the ungodly) are slain, this throne is established in the heart. 
+
+### 25:6
 *(anchor: PRO.25:6)*
 
 , 7
@@ -1727,10 +2137,14 @@ When we conquer a sinful passion, we are told not to brag on ourselves in the
 
 presence of the King. For it was by His helping grace that we gained the victory. Rather, we boast in Him alone. Otherwise, He will humble us by allowing the passion to
 
-return and overcome us. ### 25:8
+return and overcome us. 
+
+### 25:8
 *(anchor: PRO.25:8)*
 
-The eyes are those of the spiritual heart. When we see the spiritual riches of Christ, then we may speak of them (see also Eph 1:18). ### 25:18
+The eyes are those of the spiritual heart. When we see the spiritual riches of Christ, then we may speak of them (see also Eph 1:18). 
+
+### 25:18
 *(anchor: PRO.25:18)*
 
 This saying is for those who try to be too spiritual too fast. Divine teaching (honey)
@@ -1739,36 +2153,48 @@ should be swallowed a little at a time, and not treated like a gourmet table on 
 
 gluttonize. For it will turn sour in the spiritual stomach, and be vomited up, and no longer
 
-be sweet to the taste. ### 25:24-25
+be sweet to the taste. 
+
+### 25:24-25
 *(anchor: PRO.25:24)*
 
 The Lord rewards those who love their enemies (see also Mt 5:43-45; Rom
 
-12:19, 20). ### 25:31
+12:19, 20). 
+
+### 25:31
 *(anchor: PRO.25:31)*
 
 A man who is his own spiritual director (a man who does something without
 
-counsel) is like an unfortified city whose walls are broken down. ### 26:1-13
+counsel) is like an unfortified city whose walls are broken down. 
+
+### 26:1-13
 *(anchor: PRO.26:1)*
 
 These verses describe the condition of a man without discernment. Such a
 
 man is spiritually bankrupt. But discernment is the crown of Wisdom's virtues, and the
 
-man who possesses it is spiritually rich. ### 26:14-17
+man who possesses it is spiritually rich. 
+
+### 26:14-17
 *(anchor: PRO.26:14)*
 
 These verses describe the condition of a slothful man. His condition is akin to
 
 that of the man without discernment, for he, too, is spiritually bankrupt. But he is so
 
-deceived, he actually believes he is wise. ### 26:18-29
+deceived, he actually believes he is wise. 
+
+### 26:18-29
 *(anchor: PRO.26:18)*
 
 These verses describe the condition of a divisive man. He has seven vices in
 
-his soul (v. 26). St. John Cassian in his treatise on the vices speaks of eight of them: gluttony, unchastity, avarice, anger, dejection, listlessness, self-esteem, and arrogance. The man without discernment, the slothful man, and the divisive man exhibit such vices. ### 27:1
+his soul (v. 26). St. John Cassian in his treatise on the vices speaks of eight of them: gluttony, unchastity, avarice, anger, dejection, listlessness, self-esteem, and arrogance. The man without discernment, the slothful man, and the divisive man exhibit such vices. 
+
+### 27:1
 *(anchor: PRO.27:1)*
 
 The Lord alone has foreknowledge. Neither men nor angels have foreknowledge. Men
@@ -1781,24 +2207,32 @@ boast about tomorrow, for no one knows what the next day will bring forth (see
 
 also Jam 4:13-16). Furthermore, one may be dead tomorrow. "Hold fast then to virtue. For even so, if you depart young, you will depart in safety; if you come to old age, you will
 
-reach it safely" (JohnChr). ### 27:2
+reach it safely" (JohnChr). 
+
+### 27:2
 *(anchor: PRO.27:2)*
 
 It is acceptable for neighbors and strangers to praise a person, provided he does
 
 not seek praise from them. If he seeks and obtains it, he will praise himself with his own
 
-lips. This kind of praise is self-exaltation, a destructive passion. ### 27:3
+lips. This kind of praise is self-exaltation, a destructive passion. 
+
+### 27:3
 *(anchor: PRO.27:3)*
 
 A man without discernment is a man without Wisdom and His virtues. This is
 
 serious enough (heavy). But add wrath to his foolishness, and his treatment of others
 
-becomes unbearable, like the weight of a heavy stone and cumbersome sand. ### 27:6
+becomes unbearable, like the weight of a heavy stone and cumbersome sand. 
+
+### 27:6
 *(anchor: PRO.27:6)*
 
-Judas Iscariot betrayed the Lord Jesus with a voluntary kiss, and He said of him: "It would have been good for that man if he had never been born" (Mk 14:21). ### 27:17
+Judas Iscariot betrayed the Lord Jesus with a voluntary kiss, and He said of him: "It would have been good for that man if he had never been born" (Mk 14:21). 
+
+### 27:17
 *(anchor: PRO.27:17)*
 
 Iron is a dull metal, but it glistens when sharpened. Man's nature is like iron that
@@ -1807,7 +2241,9 @@ becomes dull through the deceptions of sin. It is good underneath, but in need o
 
 sharpening that it may glisten and show its true nature. Similarly, true friends sharpen
 
-one another so the God-given virtues may develop and shine on the countenance. ### 27:20-21
+one another so the God-given virtues may develop and shine on the countenance. 
+
+### 27:20-21
 *(anchor: PRO.27:20)*
 
 A fixed eye indicates an unbendable will, which refuses to be instructed in the
@@ -1816,7 +2252,9 @@ virtues of Wisdom. It never stops sinning, for example, in its intemperate use o
 
 tongue. The sinful appetite (insatiable) of such a will is comparable to the appetite of
 
-Hades and destruction. ### 27:22
+Hades and destruction. 
+
+### 27:22
 *(anchor: PRO.27:22)*
 
 A man praised by others faces a dangerous crossroad, where few survive
@@ -1825,147 +2263,197 @@ spiritually. One road leads to self-exaltation and thence to destruction. The ot
 
 into a furnace of fire in which the silver and gold of one's nature is purified by Wisdom
 
-and His virtues. ### 27:23
+and His virtues. 
+
+### 27:23
 *(anchor: PRO.27:23)*
 
 A lawless heart is one which voluntarily turns away from Wisdom and His virtues; thus it seeks the vices (evil things). But an upright heart voluntarily seeks Wisdom
 
-and His general virtues and their fruits. ### 27:25
+and His general virtues and their fruits. 
+
+### 27:25
 *(anchor: PRO.27:25)*
 
-See Jn 10:27, 28. ### 28:1
+See Jn 10:27, 28. 
+
+### 28:1
 *(anchor: PRO.28:1)*
 
 An ungodly man is one who lives contrary to God and his God-given nature. He
 
 lives in the unnatural fears of his own imaginations (when no one is pursuing). Thus, he lives in unreality and cowardice. But a righteous man lives in the reality of Wisdom
 
-and His virtues, in which he is confident as a lion. ### 28:2
+and His virtues, in which he is confident as a lion. 
+
+### 28:2
 *(anchor: PRO.28:2)*
 
 It is sometimes said, and rightly so, "Condemn no man, and you will be saved." An
 
 astute man knows Wisdom and His virtues; thus in himself he condemns no one. His
 
-demeanor also helps quench condemnations when they arise. ### 28:5
+demeanor also helps quench condemnations when they arise. 
+
+### 28:5
 *(anchor: PRO.28:5)*
 
 Evil men are those who voluntarily live in vice, for they do not have upright
 
 judgment, one of Wisdom's general virtues. But those who seek the Lord and
 
-possess His virtues understand upright judgment in everything. ### 28:9
+possess His virtues understand upright judgment in everything. 
+
+### 28:9
 *(anchor: PRO.28:9)*
 
 Wisdom, who is Christ, is the Lawgiver, and His law teaches virtue. Therefore, he
 
 who turns away his ear so as not to hear the law makes his prayer repulsive to
 
-the Lawgiver. ### 28:13
+the Lawgiver. 
+
+### 28:13
 *(anchor: PRO.28:13)*
 
 The righteous are those made righteous by Wisdom. When they help one another
 
 conquer their sinful passions, great glory arises, that is, God is glorified. But in places
 
-where ungodly people influence others, men are conquered by the vices. ### 28:14
+where ungodly people influence others, men are conquered by the vices. 
+
+### 28:14
 *(anchor: PRO.28:14)*
 
 An unwise man hides his own ungodliness; thus he cannot prosper spiritually. But a wise man takes the initiative to remove his deceptions of sin through repentance
 
-(leads his own rebuttal). Such a man prospers in the love of God. ### 28:20
+(leads his own rebuttal). Such a man prospers in the love of God. 
+
+### 28:20
 *(anchor: PRO.28:20)*
 
 God's grace makes a man righteous and helps him walk righteously. But a
 
 transgressor walks in crooked ways, which entangle him. "Crooked ways" are the
 
-sinful passions. ### 28:28
+sinful passions. 
+
+### 28:28
 *(anchor: PRO.28:28)*
 
 A man without discernment is a man without Wisdom and His virtues. This
 
 man trusts in an arrogant heart. How foolish and lost this man is! But he who
 
-walks in Wisdom and His virtues, such a man shall be saved. ### 28:30
+walks in Wisdom and His virtues, such a man shall be saved. 
+
+### 28:30
 *(anchor: PRO.28:30)*
 
 The places of the ungodly refers to this fallen world. The righteous live in the
 
 world, but they lament its condition. For "blessed are those who mourn" (Mt 5:4). When
 
-the righteous convert the ungodly, sinful passions are destroyed (in their destruction). Thus, righteous people increase. ### 29:1
+the righteous convert the ungodly, sinful passions are destroyed (in their destruction). Thus, righteous people increase. 
+
+### 29:1
 *(anchor: PRO.29:1)*
 
 A reproving man is one who first reproves himself. Afterwards he is able to help
 
 others discipline themselves in spirituality. An obstinate man is one who rejects
 
-Wisdom and His virtues, and pursues vice. But when his vices suddenly consume him, he cannot be cured (no remedy). ### 29:6
+Wisdom and His virtues, and pursues vice. But when his vices suddenly consume him, he cannot be cured (no remedy). 
+
+### 29:6
 *(anchor: PRO.29:6)*
 
 The vices, or sinful passions, are a great snare to a man. But a righteous man is
 
-one who loves Wisdom and His virtues; thus he lives in joy and gladness. ### 29:10
+one who loves Wisdom and His virtues; thus he lives in joy and gladness. 
+
+### 29:10
 *(anchor: PRO.29:10)*
 
 Bloodthirsty men are first of all the demons, and secondly, those influenced by
 
 them. They hate a holy man and are out for his blood. But the upright seek him out
 
-to learn how to increase in holiness. ### 29:19
+to learn how to increase in holiness. 
+
+### 29:19
 *(anchor: PRO.29:19)*
 
 Wisdom's instruction incorporates several aspects: teaching, correction, discipline, reproof, learning, education, and training. A stubborn servant is one who intends not to
 
-obey instruction, even though he may understand something of what is taught. ### 29:23
+obey instruction, even though he may understand something of what is taught. 
+
+### 29:23
 *(anchor: PRO.29:23)*
 
 The Lord allows a man's arrogance to humble him, so, if possible, he might learn
 
 humility. But the Lord only supports the humble-minded with the glory of His
 
-virtues. ### 29:25-26
+virtues. 
+
+### 29:25-26
 *(anchor: PRO.29:25)*
 
 The fear and awe of men trip up growth in the virtues. Such fear and awe
 
 constitute ungodliness that causes a man to stumble. But he who trusts in the
 
-Master fears Him, and rejoices in salvation. ### 29:27
+Master fears Him, and rejoices in salvation. 
+
+### 29:27
 *(anchor: PRO.29:27)*
 
 Righteousness is the Lord's righteousness. Man is not its source. For example, leaders cannot impart righteousness to those who serve them. But the Lord easily and
 
-freely imparts righteousness to those who serve Him. ### 30:1
+freely imparts righteousness to those who serve Him. 
+
+### 30:1
 *(anchor: PRO.30:1)*
 
 Those who believe in God will fear His words, and this fear will lead them to
 
-repentance. ### 30:2-3
+repentance. 
+
+### 30:2-3
 *(anchor: PRO.30:2)*
 
 One cannot know God through worldly wisdom, which God considers foolishness
 
-(see also 1Co 1:20, 21). ### 30:4
+(see also 1Co 1:20, 21). 
+
+### 30:4
 *(anchor: PRO.30:4)*
 
 This verse asks six questions. The answer to the first five is "Christ." The answer to
 
-the sixth is "Christian" (the name of His children). ### 30:5-6
+the sixth is "Christian" (the name of His children). 
+
+### 30:5-6
 *(anchor: PRO.30:5)*
 
-See Rev 22:18, 19. ### 30:7-8
+See Rev 22:18, 19. 
+
+### 30:7-8
 *(anchor: PRO.30:7)*
 
 One of the two things asked relates to the means of living a virtuous life, namely, the grace of God. For apart from His grace no one can live a virtuous life. O Lord, do not
 
 take away grace from me before I die. The second request is for the necessities of life
 
-(v. 8). ### 30:11-15
+(v. 8). 
+
+### 30:11-15
 *(anchor: PRO.30:11)*
 
-Evil offspring are the sinful passions, and the devil is their father (Jn 8:43, 44). But this also applies to evil offspring in a family. ### 30:16-35
+Evil offspring are the sinful passions, and the devil is their father (Jn 8:43, 44). But this also applies to evil offspring in a family. 
+
+### 30:16-35
 *(anchor: PRO.30:16)*
 
 Numerous animals are mentioned: the leech, the raven, the eagle, the serpent, the ant, the rabbit, the locust, the lizard, the lion's cub, the cock, and the he-goat. These
@@ -1974,12 +2462,16 @@ animals and the other situations described emphasize the opposition of Wisdom an
 
 virtues to the sinful passions. For example, the sinful passions are like the leech (v. 16), for these, so to speak, drain the blood out of one's spiritual life. But the wise are like the
 
-rabbit (v. 28), for their home is Wisdom, who is Christ (the rocks). ### 31:1
+rabbit (v. 28), for their home is Wisdom, who is Christ (the rocks). 
+
+### 31:1
 *(anchor: PRO.31:1)*
 
 , 2 God is the Author of the Book of Proverbs, and His words are to be kept by His
 
-children. ### 31:10-30
+children. 
+
+### 31:10-30
 *(anchor: PRO.31:10)*
 
 A courageous wife is one who knows Wisdom and His virtues. Her value is

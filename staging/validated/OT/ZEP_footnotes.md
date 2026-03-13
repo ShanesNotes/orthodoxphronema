@@ -18,7 +18,9 @@ in Christ, which will culminate on the final Day. Christ was the final sacrifice
 
 destroyed idolatry, punished the proud princes of darkness, and cut down the Old
 
-Covenant. ### 1:12
+Covenant. 
+
+### 1:12
 *(anchor: ZEP.1:12)*
 
 St. Jerome writes that this verse was fulfilled when Christ went to Jerusalem (Mk
@@ -35,7 +37,9 @@ searched; in the temple they found nothing, so they left it."
 
 All the islands of the nations (v. 11): A prophecy that is fulfilled in the Gentile
 
-Church. ### 3:1-13
+Church. 
+
+### 3:1-13
 *(anchor: ZEP.3:1)*
 
 Christ gathered the nations together and judged them with the fire (v. 8) of the

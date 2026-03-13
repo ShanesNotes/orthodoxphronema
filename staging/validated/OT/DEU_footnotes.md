@@ -14,14 +14,18 @@ status: staging
 
 The statement, these are the words, refers to the words Moses spoke in Exodus, Leviticus, and Numbers. They were spoken in the desert during the thirty-nine-year
 
-period after Israel left Egypt. ### 1:3
+period after Israel left Egypt. 
+
+### 1:3
 *(anchor: DEU.1:3)*
 
 In the eleventh month of the fortieth year, Moses spoke the contents of Deuteronomy, "beyond the Jordan in the land of Moab" (v. 5). He spoke the words the Lord gave him to
 
 speak. The Lord is the Son of God, "who built the house" (Heb 3:3). Moses was "faithful
 
-in all His house as a servant," but the Son is "over His own house" (Heb 3:5, 6). ### 1:5
+in all His house as a servant," but the Son is "over His own house" (Heb 3:5, 6). 
+
+### 1:5
 *(anchor: DEU.1:5)*
 
 In Deuteronomy, Moses began to explain the Law he had already given in the
@@ -32,7 +36,9 @@ no new set of laws. It is called "a second law" because it especially emphasizes
 
 of the Law, so as to stress the importance of Israel's obedience and thankfulness to God
 
-from the heart. ### 1:13
+from the heart. 
+
+### 1:13
 *(anchor: DEU.1:13)*
 
 The chosen leaders were to be wise, understanding, and knowledgeable. These
@@ -41,7 +47,9 @@ three traits should also characterize leaders in the Church: "Remember those who
 
 over you, who have spoken the word of God to you, whose faith follow, considering the
 
-outcome of their conduct" (Heb 13:7). ### 1:16-17
+outcome of their conduct" (Heb 13:7). 
+
+### 1:16-17
 *(anchor: DEU.1:16)*
 
 These leaders were to judge righteously by being impartial in their judgments. They were not to be partial to the first testimony they might hear. Impartial judgment
@@ -68,7 +76,9 @@ rebellion. An unbelieving heart was the cause (Heb 3:7-11, 19). They judged by o
 
 appearance (we saw the sons of giants there), rather than by faith in the Lord and His
 
-word. "For we walk by faith, not by sight" (2Co 5:7). ### 1:29-33
+word. "For we walk by faith, not by sight" (2Co 5:7). 
+
+### 1:29-33
 *(anchor: DEU.1:29)*
 
 Their unbelieving heart was not to be cowardly (terrified or afraid). The fear of
@@ -83,14 +93,18 @@ of the Mother of God, and the fire of the Son conceived in her womb. The Church 
 
 in the Incarnate Son and in His holy Mother. This faith is the rock on which the Church
 
-stands, and against which "the gates of Hades shall not prevail" (Mt 16:18). ### 1:41-45
+stands, and against which "the gates of Hades shall not prevail" (Mt 16:18). 
+
+### 1:41-45
 *(anchor: DEU.1:41)*
 
 The generation that came out of Egypt did not believe the Lord when He said to go
 
 up and take the land, nor did they believe Him when He said not to go up. They rejected
 
-enlightened faith, but accepted blind faith. Such is the deceitfulness of unbelief. ### 2:4
+enlightened faith, but accepted blind faith. Such is the deceitfulness of unbelief. 
+
+### 2:4
 *(anchor: DEU.2:4)*
 
 Esau was the twin brother of Jacob. Both were sons of Isaac, the son of Abraham. Therefore, the sons of Esau were called Israel's brethren. They were brethren according
@@ -493,12 +507,16 @@ accepted this remission as an act toward Himself (for the Lord your God, v. 2), 
 
 loves the poor. When He became incarnate, He was very poor, for He had "nowhere to lay
 
-His head" (Mt 8:20). By this He taught us not to be attached to money and possessions, and to show our love for the poor. ### 16:1
+His head" (Mt 8:20). By this He taught us not to be attached to money and possessions, and to show our love for the poor. 
+
+### 16:1
 *(anchor: DEU.16:1)*
 
 The month of new corn was a type of becoming new creatures in Christ (2Co 5:17), bearing the good fruits of virtue by casting away all hypocrisy, deceit, and arrogance, and
 
-putting on love for God and neighbor through the Holy Spirit (AthanG). ### 16:8
+putting on love for God and neighbor through the Holy Spirit (AthanG). 
+
+### 16:8
 *(anchor: DEU.16:8)*
 
 The seventh and final day of the Feast of Unleavened Bread was a Sabbath on which
@@ -513,14 +531,18 @@ sheep? Therefore it is lawful to do good on the Sabbath" (Mt 12:11, 12). Further
 
 also said, "The Son of Man is Lord even of the Sabbath" (Mt 12:8), and "The Sabbath was
 
-made for man, and not man for the Sabbath" (Mk 2:27). ### 16:10
+made for man, and not man for the Sabbath" (Mk 2:27). 
+
+### 16:10
 *(anchor: DEU.16:10)*
 
 On the Day of Pentecost, the bread of the firstfruits was offered before the Lord. This was a type of the preaching of the apostles to the Jews in the Book of Acts, when
 
 three thousand believed in the Lord. Thus, these Jews were consecrated to the Lord as the
 
-firstfruits of the Resurrection (JohnCas). ### 17:1
+firstfruits of the Resurrection (JohnCas). 
+
+### 17:1
 *(anchor: DEU.17:1)*
 
 No animal was to be sacrificed having any blemish or defect, for that is an
@@ -547,7 +569,9 @@ by St. Paul in 1Co 5:13 in relation to church discipline. This shows the close k
 
 between the old and new covenants, and one and the same Lord and Lawgiver (JohnChr). The punishments were different, but the objective was the same, namely, a holy people to
 
-the Lord. ### 18:15-16
+the Lord. 
+
+### 18:15-16
 *(anchor: DEU.18:15)*
 
 The words of the people, "Let us not hear again the voice of the Lord our
@@ -566,14 +590,18 @@ tested, so as to fear the Lord and not sin, for they were too dull of hearing to
 
 another Prophet to come. However, they failed the test and died in the desert, because
 
-they would not obey the prophet Moses. ### 18:17
+they would not obey the prophet Moses. 
+
+### 18:17
 *(anchor: DEU.18:17)*
 
 Forty years later Moses spoke to them of the prophecy concerning the Prophet to
 
 come. For at Mt. Sinai the Lord also spoke to him the words recorded in vv. 18-22. The
 
-new generation was now ready to hear this prophecy. ### 18:18
+new generation was now ready to hear this prophecy. 
+
+### 18:18
 *(anchor: DEU.18:18)*
 
 The Prophet to come would be like Moses, in that Moses' short-term prophecies
@@ -588,7 +616,9 @@ in such a manner. They were mere men, whereas the Prophet to come would be God i
 
 the flesh. Thus, the prophet Isaiah prophesied concerning this Prophet that the people
 
-would be "taught by God," that is, by God in the flesh (Is 54:13; Jn 6:45). ### 18:19
+would be "taught by God," that is, by God in the flesh (Is 54:13; Jn 6:45). 
+
+### 18:19
 *(anchor: DEU.18:19)*
 
 The Prophet to come would speak in the Father's name, for no other prophet could
@@ -617,12 +647,16 @@ When Jesus multiplied the five loaves and the two fish to feed the five thousand
 
 6:14). A few minutes later these same people "complained about Him" (Jn 6:41) because
 
-of what He taught, and consequently deserted Him (Jn 6:66). ### 19:15-19
+of what He taught, and consequently deserted Him (Jn 6:66). 
+
+### 19:15-19
 *(anchor: DEU.19:15)*
 
 Based on this law, the false witnesses against Jesus should have been put to
 
-death, for they wanted Him to die (Mt 26:59-66). ### 20:8
+death, for they wanted Him to die (Mt 26:59-66). 
+
+### 20:8
 *(anchor: DEU.20:8)*
 
 This word concerning the fearful and fainthearted is spoken in a mystery
@@ -635,7 +669,9 @@ unstable in all his ways." One cannot, so to speak, have one foot in the world a
 
 the kingdom of God. "No one can serve two masters," that is, "God and mammon" (Mt
 
-6:24). ### 21:15
+6:24). 
+
+### 21:15
 *(anchor: DEU.21:15)*
 
 In the statement, the firstborn son is of her, the verb is literally means "come
@@ -650,7 +686,9 @@ beginning. However, the Son of God is the Offspring of the Father, and He is wit
 
 beginning; therefore, His Son, too, is without beginning. These heretics therefore
 
-condemned themselves by their false application of the verb in this verse (AthanG). ### 21:22-23
+condemned themselves by their false application of the verb in this verse (AthanG). 
+
+### 21:22-23
 *(anchor: DEU.21:22)*
 
 Under the Mosaic Law, there were two kinds of curses. One was the curse of
@@ -675,7 +713,9 @@ His mouth" (1Pt 2:22). (JohnChr)
 
 If a brother's young bull or donkey fallen on the road was to be helped, how much
 
-more should a man's soul be helped on the road to eternal life (JohnChr). ### 22:5
+more should a man's soul be helped on the road to eternal life (JohnChr). 
+
+### 22:5
 *(anchor: DEU.22:5)*
 
 The dignity and distinction between male and female were not to be obscured, for in
@@ -684,14 +724,18 @@ the beginning man was created male and female, and God blessed both (Gn 1:26, 27
 
 be male is not better than to be female, or vice versa, for God pronounced both "very
 
-good" (Gn 1:31). Therefore, a man should not try to be a woman, nor a woman a man. ### 22:6
+good" (Gn 1:31). Therefore, a man should not try to be a woman, nor a woman a man. 
+
+### 22:6
 *(anchor: DEU.22:6)*
 
 , 7
 
 The dignity and protection of motherhood, even among birds, was to be
 
-maintained. As then, so now as well. ### 22:8
+maintained. As then, so now as well. 
+
+### 22:8
 *(anchor: DEU.22:8)*
 
 When a man builds a house, love of neighbor must be in his mind. For love of
@@ -702,12 +746,16 @@ his neighbor "as himself." Under Grace one is to love his neighbor more than him
 
 Jesus said, "A new commandment I give to you, that you love one another; as I have loved
 
-you, that you also love one another" (Jn 13:34). Jesus loved mankind more than Himself, and He even died for His enemies (Rom 5:6-8). ### 22:9-11
+you, that you also love one another" (Jn 13:34). Jesus loved mankind more than Himself, and He even died for His enemies (Rom 5:6-8). 
+
+### 22:9-11
 *(anchor: DEU.22:9)*
 
 Each distinct thing God created has its own dignity, for God declared everything
 
-He made to be "very good" (Gn 1:31). ### 22:12
+He made to be "very good" (Gn 1:31). 
+
+### 22:12
 *(anchor: DEU.22:12)*
 
 The commandment concerning tassels was first given in Nm 15:37-41. These were
@@ -716,12 +764,16 @@ constant reminders to keep all the Lord's commandments. For the Israelites, as i
 
 all men, had a tendency to follow their own mind and will, rather than the will of God
 
-(Nm 15:39). The fault was not with the Law of Moses but with their own tendencies. ### 22:13-28
+(Nm 15:39). The fault was not with the Law of Moses but with their own tendencies. 
+
+### 22:13-28
 *(anchor: DEU.22:13)*
 
 These laws were designed to protect both virginity and marriage, for both are
 
-"very good" in the eyes of God, for He created both (Gn 1:31). ### 23:4
+"very good" in the eyes of God, for He created both (Gn 1:31). 
+
+### 23:4
 *(anchor: DEU.23:4)*
 
 The Ammonite and the Moabite speak of those heretics who employ subtle and
@@ -732,10 +784,14 @@ incomprehensible generation from the Father, and the Holy Spirit's incomprehensi
 
 procession from the Father. They try to explain the unexplainable, and twist the truth
 
-with their sophistry (GrgTheo). ### 23:7
+with their sophistry (GrgTheo). 
+
+### 23:7
 *(anchor: DEU.23:7)*
 
-There is no peaceful coexistence or good wishes for heretics or heresy. ### 23:20-21
+There is no peaceful coexistence or good wishes for heretics or heresy. 
+
+### 23:20-21
 *(anchor: DEU.23:20)*
 
 Charging interest (usury) was a subtle form of greed, for it used the pretense of
@@ -744,7 +800,9 @@ relieving a need to gain a profit. This was a subtle device to extort money from
 
 brother in the name of doing him good. It relieved poverty to make a gain from poverty. It
 
-used another's need as an occasion to become wealthy (JohnChr). ### 24:1-4
+used another's need as an occasion to become wealthy (JohnChr). 
+
+### 24:1-4
 *(anchor: DEU.24:1)*
 
 These laws regarding divorce were given to protect the wife from being murdered
@@ -757,7 +815,9 @@ the Lawgiver to prevent greater evils from occurring. For hardhearted husbands w
 
 not hesitate to murder and commit other atrocities if they thought it was to their
 
-advantage (JohnChr). ### 24:16
+advantage (JohnChr). 
+
+### 24:16
 *(anchor: DEU.24:16)*
 
 Parents could not be punished because of their children's sins, nor vice versa. The
@@ -782,7 +842,9 @@ deliverance from Egypt will find this to be true (JohnChr). This understanding a
 
 mankind is guilty before God for Adam's sin. Adam was guilty for his own transgression. His transgression brought physical death upon all mankind, but not guilt before God
 
-(Rom 5:12). Each individual is accountable before God for his own sins. ### 25:4
+(Rom 5:12). Each individual is accountable before God for his own sins. 
+
+### 25:4
 *(anchor: DEU.25:4)*
 
 The mystery hidden in this statement refers to teachers in the Church (1Ti 5:18; Lk
@@ -809,7 +871,9 @@ father was Heli (Lk 3:23). Heli was his legal father, for he died childless. Jac
 
 brother by the same mother, raised up seed for him. This seed was Joseph, according to
 
-Matthew's genealogy (Mt 1:16). Thus, Jacob was Joseph's natural father (JohnDm). ### 25:17-19
+Matthew's genealogy (Mt 1:16). Thus, Jacob was Joseph's natural father (JohnDm). 
+
+### 25:17-19
 *(anchor: DEU.25:17)*
 
 Remember Amalek. Do not forget. For he is a coward who does not fear God, and
@@ -818,7 +882,9 @@ he attacks from behind when you are tired and weary. He is the devil. But overco
 
 with the sign of the cross, and you will enjoy rest in the Lord Jesus Christ, through whom
 
-you will overcome this enemy, even in your weakest moments. ### 26:16-19
+you will overcome this enemy, even in your weakest moments. 
+
+### 26:16-19
 *(anchor: DEU.26:16)*
 
 Israel promised to keep the Law of Moses with all their heart and with all
@@ -835,7 +901,9 @@ Law itself had an inherent weakness. It could not give them divine power to help
 
 willpower fulfill it. So the Law pointed them to Christ as the solution to their dilemma, for He is "the end of the Law for righteousness to everyone who believes" (Rom 10:4). Those under the Law who believed in this "end" would be made complete by His
 
-Incarnation (Heb 11:39, 40). ### 27:5-8
+Incarnation (Heb 11:39, 40). 
+
+### 27:5-8
 *(anchor: DEU.27:5)*
 
 Aspects of true worship are foreshadowed in these verses. Worship involves an
@@ -848,7 +916,9 @@ life should be committed to God (whole burnt offerings). In the Eucharist (peace
 
 offerings), we eat and drink Christ's precious body and blood, and are filled with joy
 
-before the Lord. ### 27:26
+before the Lord. 
+
+### 27:26
 *(anchor: DEU.27:26)*
 
 Under the Law, cursed is every man who does not abide in all the words of
@@ -869,7 +939,9 @@ therefore could not come under such a curse. So He exchanged our curse for the o
 
 from our curse for transgressing the Law. An innocent Man's death delivered us from the
 
-curse, for by dying He delivered us who were dying (JohnChr). ### 28:1-13
+curse, for by dying He delivered us who were dying (JohnChr). 
+
+### 28:1-13
 *(anchor: DEU.28:1)*
 
 Every blessing promised to the obedient in vv. 3-13 relates to life in this present
@@ -884,7 +956,9 @@ come. For these are spiritual blessings in Christ, as St. Paul said in Eph 1:3: 
 
 the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual
 
-blessing in the heavenly places in Christ" (JohnChr). ### 28:47
+blessing in the heavenly places in Christ" (JohnChr). 
+
+### 28:47
 *(anchor: DEU.28:47)*
 
 The Law of Moses cannot be blamed for Israel's failure to serve the Lord. The
@@ -897,10 +971,14 @@ new covenant, the faithful serve Him with thanksgiving, even in the midst of suf
 
 and persecution, "giving thanks always for all things to God the Father in the name of our
 
-Lord Jesus Christ" (Eph 5:20). ### 28:58
+Lord Jesus Christ" (Eph 5:20). 
+
+### 28:58
 *(anchor: DEU.28:58)*
 
-The beginning of faith is to fear the Lord (IsaacS). ### 28:66
+The beginning of faith is to fear the Lord (IsaacS). 
+
+### 28:66
 *(anchor: DEU.28:66)*
 
 This is a prophecy concerning the Crucifixion. On the cross, the Lord hung before
@@ -911,7 +989,9 @@ Life, for the cross is life-giving (AthanG). Whereas the Law of Moses cannot giv
 
 life, the cross does to those who believe. For Christ is God in the flesh; therefore, His
 
-death in the flesh gives eternal life to those who obey Him. ### 29:1-3
+death in the flesh gives eternal life to those who obey Him. 
+
+### 29:1-3
 *(anchor: DEU.29:1)*
 
 The children of Israel saw with their physical eyes the Lord's signs and great
@@ -922,17 +1002,23 @@ ears of their heart. Why then did He not give them such eyes and ears? Because t
 
 unwilling to receive illumination. He was willing, but they were not. He would not
 
-commit Himself to them, because they would not commit themselves to Him. ### 29:4
+commit Himself to them, because they would not commit themselves to Him. 
+
+### 29:4
 *(anchor: DEU.29:4)*
 
-Their clothes and shoes did not wear out during the forty-year period in the desert. This was a type of "the resurrection of the dead and the life of the world to come" (Creed; AmbM). ### 29:17-18
+Their clothes and shoes did not wear out during the forty-year period in the desert. This was a type of "the resurrection of the dead and the life of the world to come" (Creed; AmbM). 
+
+### 29:17-18
 *(anchor: DEU.29:17)*
 
 Gall and bitterness is likened to a root that springs up and defiles others. It
 
 begins when one flatters himself in the deceptions (wanderings) of his own heart. Bitterness of spirit results, and this causes one to "fall short of the grace of God" (Heb
 
-12:15). ### 29:28
+12:15). 
+
+### 29:28
 *(anchor: DEU.29:28)*
 
 We gladly own whatever things the Lord is pleased to reveal to us in the Holy
@@ -977,7 +1063,9 @@ men are possible with God" (Lk 18:27), and, "Is anything impossible with God?" (
 
 18:14). How then are these questions based on human reasoning cast out? Moses gives
 
-the answer in v. 14. ### 30:14
+the answer in v. 14. 
+
+### 30:14
 *(anchor: DEU.30:14)*
 
 The word is the word concerning the attainment of righteousness before God. It is
@@ -1006,7 +1094,9 @@ word of faith easy, and says, 'God raised Him from the dead.' For just reflect u
 
 worthiness of the Worker, and you will no longer see any difficulty in the thing"
 
-(JohnChr). ### 31:6-8
+(JohnChr). 
+
+### 31:6-8
 *(anchor: DEU.31:6)*
 
 These words inspired the words in Heb 13:5, 6, "Let your conduct be without
@@ -1023,7 +1113,9 @@ fear. What can man do to me?'" The Lord will never forsake His people--a faithfu
 
 bold promise. Faithfulness and boldness on our part to believe Him will bring about
 
-contentment in us, and will deliver us from covetousness and the fear of man. ### 31:16-17
+contentment in us, and will deliver us from covetousness and the fear of man. 
+
+### 31:16-17
 *(anchor: DEU.31:16)*
 
 Why does the Lord say, "I will forsake them," when He said in vv. 6-8 that He
@@ -1032,17 +1124,23 @@ would not forsake them? Because it is customary in Scripture to call God's permi
 
 His action. He permits people to forsake Him because man has free will, and virtue is not
 
-forced (JohnDm). ### 32:4
+forced (JohnDm). 
+
+### 32:4
 *(anchor: DEU.32:4)*
 
 God is faithful because He is trustworthy; we are faithful because we believe and
 
-obey Him (AthanG). ### 32:5
+obey Him (AthanG). 
+
+### 32:5
 *(anchor: DEU.32:5)*
 
 Blameworthy children are not His because they are God's children in name only. True children are blameless, because they are His children in substance as well as in
 
-name. ### 32:6-18
+name. 
+
+### 32:6-18
 *(anchor: DEU.32:6)*
 
 When the Scriptures wish to signify a son, it uses the term beget, rather than the
@@ -1055,7 +1153,9 @@ through His Only-begotten Son and His Life-giving Spirit (Jn 1:12-14; Rom 8:14-1
 
 1:18). But Moses warns God's children not to abandon the God who begot them, nor
 
-to forget the God who nourished them. ### 32:7
+to forget the God who nourished them. 
+
+### 32:7
 *(anchor: DEU.32:7)*
 
 We remember the days of old and consider the years of many generations
@@ -1082,38 +1182,50 @@ elders and they will tell you.' Let us draw from the fountain of the garden cont
 
 pure waters springing up to eternal life. Here let us be in luxury, let us revel to the full, for the Scriptures possess inexhaustible grace. But if we are able to pluck anything
 
-profitable from outside sources, there is nothing to forbid that" (JohnDm). ### 32:12
+profitable from outside sources, there is nothing to forbid that" (JohnDm). 
+
+### 32:12
 *(anchor: DEU.32:12)*
 
 Moses does not use the word alone to divide the Son and the Spirit from the
 
 Father. Rather, this word is said in relation to any foreign god with them, for the
 
-division is between the Lord and false gods (BasilG). ### 32:13
+division is between the Lord and false gods (BasilG). 
+
+### 32:13
 *(anchor: DEU.32:13)*
 
 The rock speaks of Christ, and the oil of the Holy Spirit, and the honey of the
 
-spiritual food, for Christ gives us His Holy Spirit (1Co 10:3, 4; Rom 8:9). ### 32:17
+spiritual food, for Christ gives us His Holy Spirit (1Co 10:3, 4; Rom 8:9). 
+
+### 32:17
 *(anchor: DEU.32:17)*
 
 To worship anything but the true God--the Father, the Son, and the Holy Spirit--is
 
-to worship demons (BasilG). ### 32:20
+to worship demons (BasilG). 
+
+### 32:20
 *(anchor: DEU.32:20)*
 
 Sons in whom is no faith are children in name only, but true sons are children
 
 both in name and in substance. "Now faith is the substance of things hoped for, the
 
-evidence of things not seen" (Heb 11:1). ### 32:21
+evidence of things not seen" (Heb 11:1). 
+
+### 32:21
 *(anchor: DEU.32:21)*
 
 This is a prophecy concerning the Gentiles who would become God's children
 
 through faith in Christ, thus provoking the Jews to jealousy (Rom 10:19). The Speaker in
 
-this prophecy (vv. 20, 21) is the Word and Son of God (AthanG; HilryP). ### 32:30
+this prophecy (vv. 20, 21) is the Word and Son of God (AthanG; HilryP). 
+
+### 32:30
 *(anchor: DEU.32:30)*
 
 This is a prophecy concerning warfare against heresy. Thus, how could one chase
@@ -1126,7 +1238,9 @@ plain statements of truth against the falsehood of logicians. For the truth exhi
 
 as a headless trunk. It is the task of truth not only to cut off the head of false logic, but
 
-also to show that it is indeed cut off (GrgNy). ### 32:39
+also to show that it is indeed cut off (GrgNy). 
+
+### 32:39
 *(anchor: DEU.32:39)*
 
 This statement could be made not only by the Father, but also by the Son or the
@@ -1135,49 +1249,71 @@ Holy Spirit. Each could say, "There is no God besides Me." For the statement is 
 
 in contrast to false gods (AthanG; BasilG; HilryP). It is not a contrast between the
 
-Persons of the Holy Trinity, our one God. ### 32:43
+Persons of the Holy Trinity, our one God. 
+
+### 32:43
 *(anchor: DEU.32:43)*
 
 This prophecy is quoted in Rom 15:10 and Heb 6:2, to show that both men and
 
 angels are to worship God Incarnate, the Son of God, for He is their Maker. Moses also
 
-worships Him. ### 32:49-50
+worships Him. 
+
+### 32:49-50
 *(anchor: DEU.32:49)*
 
-Moses had no fear of death, but rejoiced to depart to be with the Lord (AthanG). ### 33:2
+Moses had no fear of death, but rejoiced to depart to be with the Lord (AthanG). 
+
+### 33:2
 *(anchor: DEU.33:2)*
 
 The Lord who appeared to Israel was the Son of God. He revealed Himself many
 
 times to the prophets throughout the Old Testament. Angels sometimes appeared with
 
-Him, as did the two angels in Gn 19:1. ### 33:3-4
+Him, as did the two angels in Gn 19:1. 
+
+### 33:3-4
 *(anchor: DEU.33:3)*
 
-The Son of God was the Lawgiver who gave Moses His words, and Moses, in turn, gave them to Israel. ### 33:5
+The Son of God was the Lawgiver who gave Moses His words, and Moses, in turn, gave them to Israel. 
+
+### 33:5
 *(anchor: DEU.33:5)*
 
-The Ruler is the Lord Jesus Christ. ### 33:7
+The Ruler is the Lord Jesus Christ. 
+
+### 33:7
 *(anchor: DEU.33:7)*
 
-The voice of Judah is the Lord Jesus Christ, who visited His people. ### 33:9
+The voice of Judah is the Lord Jesus Christ, who visited His people. 
+
+### 33:9
 *(anchor: DEU.33:9)*
 
 Commitment to the Lord takes precedence over commitment to family (Mt 10:37-
 
-39; JohnChr; AmbM). ### 33:16
+39; JohnChr; AmbM). 
+
+### 33:16
 *(anchor: DEU.33:16)*
 
 The One revealed in the Bush was the Son of God. In this revelation, He
 
-foreshadowed His coming Incarnation (JohnDm; HilryP; JohnChr; AthanG). ### 33:26
+foreshadowed His coming Incarnation (JohnDm; HilryP; JohnChr; AthanG). 
+
+### 33:26
 *(anchor: DEU.33:26)*
 
-The God of the Beloved is the Lord Jesus Christ, and "the Beloved" is His Church. ### 33:29
+The God of the Beloved is the Lord Jesus Christ, and "the Beloved" is His Church. 
+
+### 33:29
 *(anchor: DEU.33:29)*
 
-A people saved by the Lord are those who call upon His name (Rom 10:12, 13). His name is the Lord Jesus Christ. ### 34:4
+A people saved by the Lord are those who call upon His name (Rom 10:12, 13). His name is the Lord Jesus Christ. 
+
+### 34:4
 *(anchor: DEU.34:4)*
 
 The Lord swore to give the land Moses saw to Abraham, Isaac, and Jacob as an
@@ -1192,12 +1328,16 @@ like faith, will receive this world at "the resurrection of the dead" (Creed; He
 
 world to come is this present creation redeemed along with the children of God (Rom
 
-8:21, 22). ### 34:9
+8:21, 22). 
+
+### 34:9
 *(anchor: DEU.34:9)*
 
 The Spirit of understanding is the Holy Spirit, one of the Persons of the Holy
 
-Trinity. ### 34:10
+Trinity. 
+
+### 34:10
 *(anchor: DEU.34:10)*
 
 There was no prophet in Israel like Moses, until the coming of Christ, the Prophet. He was like Moses, but Moses was not like Him, for Christ is God in the flesh. The Lord

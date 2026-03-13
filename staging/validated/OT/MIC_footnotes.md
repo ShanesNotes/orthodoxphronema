@@ -24,59 +24,81 @@ idols (v. 7) of their own making. Though God's immediate judgment on Samaria and
 
 Jerusalem is destruction, His universal judgment is Christ Himself, who will come
 
-down (v. 3) in the Incarnation and destroy sin, death, and the devil (see Is 31:4). ### 1:4
+down (v. 3) in the Incarnation and destroy sin, death, and the devil (see Is 31:4). 
+
+### 1:4
 *(anchor: MIC.1:4)*
 
 Like wax before the fire echoes Ps 67:2, which is used in the Resurrection services
 
-in the Orthodox Church. ### 1:6
+in the Orthodox Church. 
+
+### 1:6
 *(anchor: MIC.1:6)*
 
 , 7
 
-Samaritans were among the first to repent and receive the gospel (Jn 4:1-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard. ### 1:7
+Samaritans were among the first to repent and receive the gospel (Jn 4:1-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard. 
+
+### 1:7
 *(anchor: MIC.1:7)*
 
 The city embodies all the sins of the people. The images used in worship at Samaria, the wealth gathered in her sanctuaries, are referred to contemptuously as the price of a
 
-harlot. ### 1:8
+harlot. 
+
+### 1:8
 *(anchor: MIC.1:8)*
 
-Barefoot and naked: See Ezk 24:17-23; Is 20:2; 2Kg 15:30. ### 1:10-16
+Barefoot and naked: See Ezk 24:17-23; Is 20:2; 2Kg 15:30. 
+
+### 1:10-16
 *(anchor: MIC.1:10)*
 
 Though this passage is often considered one of the most difficult in the book, some clarity emerges when it is viewed with the understanding that the Old Testament
 
 inevitably points to and is fulfilled in Christ and His Church. As God used the Gentiles to
 
-strike the Jews in judgment (v. 11), so in the Incarnation He came down to cut off (v. 16) Israel's heritage because of their ungodliness and to save His inheritance: His Bride, the Church. ### 2:1
+strike the Jews in judgment (v. 11), so in the Incarnation He came down to cut off (v. 16) Israel's heritage because of their ungodliness and to save His inheritance: His Bride, the Church. 
+
+### 2:1
 *(anchor: MIC.2:1)*
 
 , 2 A universal indictment against those who work evil in the earth against the poor and
 
 needy for their own gain. The passage can also be taken as a description of those who
 
-persecute Christ (a man) and His Church (his house . . . his inheritance). ### 2:3-5
+persecute Christ (a man) and His Church (his house . . . his inheritance). 
+
+### 2:3-5
 *(anchor: MIC.2:3)*
 
 Ultimately, the evils are the Cross, which bent the neck of the proud and powerful
 
-like a yoke. ### 2:4-7
+like a yoke. 
+
+### 2:4-7
 *(anchor: MIC.2:4)*
 
 The Jews who provoked the Spirit (v. 7) will lose their inheritance, which will be
 
-taken away (v. 4) and given to the Gentiles. ### 2:11
+taken away (v. 4) and given to the Gentiles. 
+
+### 2:11
 *(anchor: MIC.2:11)*
 
-This verse is regarded by scholars as difficult at best and corrupted at worst. ### 3:1
+This verse is regarded by scholars as difficult at best and corrupted at worst. 
+
+### 3:1
 *(anchor: MIC.3:1)*
 
 He will say: This rendering in the third person (as found in the LXX) is opposed by
 
 the Hebrew text, which consistently reads in the first person ("I will say" or "I said"). The
 
-third person form is thought to be the more original. ### 3:2
+third person form is thought to be the more original. 
+
+### 3:2
 *(anchor: MIC.3:2)*
 
 You who hate good and love evil: The negative form of an idea articulated in Am
@@ -121,17 +143,23 @@ The remnant of Jacob will be among the nations: This phrase does not
 
 necessarily imply the scattering of Israel, but rather a focal point for the gathering of the
 
-nations together in Christ, as in 4:1-3 and 4:6, 7. ### 6:1-5
+nations together in Christ, as in 4:1-3 and 4:6, 7. 
+
+### 6:1-5
 *(anchor: MIC.6:1)*
 
 A covenantal "lawsuit," filed by the Lord against Israel. Here the prophet functions
 
-like an "attorney" in God's lawsuit against His people. ### 6:3-5
+like an "attorney" in God's lawsuit against His people. 
+
+### 6:3-5
 *(anchor: MIC.6:3)*
 
 This passage recalls the liturgical themes that run through the services of Great and
 
-Holy Week, especially Orthros of Great and Holy Friday (Service of the Twelve Gospels). ### 6:8
+Holy Week, especially Orthros of Great and Holy Friday (Service of the Twelve Gospels). 
+
+### 6:8
 *(anchor: MIC.6:8)*
 
 The classical definition of true religion: Micah in one verse knits together the basic
@@ -140,10 +168,14 @@ themes of the books of Amos (righteousness--to do justly), Hosea (steadfast love
 
 love mercy), and Isaiah (humility and faith--to be ready to walk [or "to walk
 
-humbly"] with the Lord your God). ### 7:6
+humbly"] with the Lord your God). 
+
+### 7:6
 *(anchor: MIC.7:6)*
 
-This verse is quoted by Christ in Mt 10:35, 36 and Lk 12:53. ### 7:18-19
+This verse is quoted by Christ in Mt 10:35, 36 and Lk 12:53. 
+
+### 7:18-19
 *(anchor: MIC.7:18)*
 
 All our sins will be cast into the depths of the sea: The Fathers agree that this

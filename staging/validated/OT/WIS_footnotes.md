@@ -12,13 +12,19 @@ status: staging
 ### 1:1
 *(anchor: WIS.1:1)*
 
-, 2 Jesus promised, "Seek, and you will find" (Mt 7:7), just as is promised here. ### 1:4
+, 2 Jesus promised, "Seek, and you will find" (Mt 7:7), just as is promised here. 
+
+### 1:4
 *(anchor: WIS.1:4)*
 
-According to St. Paul, Christ is "the wisdom of God" (1Co 1:24). ### 1:5
+According to St. Paul, Christ is "the wisdom of God" (1Co 1:24). 
+
+### 1:5
 *(anchor: WIS.1:5)*
 
-A spirit of discipline brings with it honesty, discernment, and righteousness. ### 1:7
+A spirit of discipline brings with it honesty, discernment, and righteousness. 
+
+### 1:7
 *(anchor: WIS.1:7)*
 
 This passage brings to mind the prayer, "O Heavenly King," in which we confess, "the
@@ -31,70 +37,98 @@ Spirit of Truth . . . is everywhere present and fills all things."
 
 , 14 God intends for man to have eternal life. Evil and death are not of God's making
 
-(see Jam 1:12-18). ### 2:1-11
+(see Jam 1:12-18). 
+
+### 2:1-11
 *(anchor: WIS.2:1)*
 
 This worldview of the ungodly has not changed markedly in the roughly 3000 years
 
-that have passed since these lines were penned. Compare Lk 12:16-21. ### 2:12-22
+that have passed since these lines were penned. Compare Lk 12:16-21. 
+
+### 2:12-22
 *(anchor: WIS.2:12)*
 
 Many church fathers see this passage on disdain for the righteous man as being
 
-fulfilled in the life of Christ. ### 2:18
+fulfilled in the life of Christ. 
+
+### 2:18
 *(anchor: WIS.2:18)*
 
-Compare Mt 27:43. ### 3:1-23
+Compare Mt 27:43. 
+
+### 3:1-23
 *(anchor: WIS.3:1)*
 
-The question, "Why do the just suffer?" is answered in this section. ### 3:9
+The question, "Why do the just suffer?" is answered in this section. 
+
+### 3:9
 *(anchor: WIS.3:9)*
 
 Truth, love, grace and mercy are fulfilled in Christ and in His faithful in the
 
-Church. 3:1-9 The Church sees the lives of the martyrs reflected in these verses. See also Dt 33:3; Job 12:10; Ps 117:15. ### 3:10-12
+Church. 3:1-9 The Church sees the lives of the martyrs reflected in these verses. See also Dt 33:3; Job 12:10; Ps 117:15. 
+
+### 3:10-12
 *(anchor: WIS.3:10)*
 
 Tragically, the ungodly do not jeopardize only their own salvation, but their
 
-wives and children are affected as well. See also 3:16-19; 4:6. ### 3:13
+wives and children are affected as well. See also 3:16-19; 4:6. 
+
+### 3:13
 *(anchor: WIS.3:13)*
 
 A touching promise for the single woman and for married couples that cannot have
 
-children. ### 4:1
+children. 
+
+### 4:1
 *(anchor: WIS.4:1)*
 
 Virtue, more than anything else, attracts the gift of immortality. The Church sees in
 
 this verse a commentary on the splendor of virginity and the worthiness of the monastic
 
-calling. The seven great virtues are humility, liberality, chastity, mildness, temperance, happiness, and diligence. See also Acts 24:16. ### 4:2
+calling. The seven great virtues are humility, liberality, chastity, mildness, temperance, happiness, and diligence. See also Acts 24:16. 
+
+### 4:2
 *(anchor: WIS.4:2)*
 
-See 1Co 11:1; Heb 6:12. ### 4:10-15
+See 1Co 11:1; Heb 6:12. 
+
+### 4:10-15
 *(anchor: WIS.4:10)*
 
 Though he is not named in this passage, this is a specific reference to Enoch, who
 
-was taken up to be with the Lord and made perfect (Gn 5:18-24). ### 4:17
+was taken up to be with the Lord and made perfect (Gn 5:18-24). 
+
+### 4:17
 *(anchor: WIS.4:17)*
 
 A repeated theme in this book is that the ungodly do not understand the ways of
 
-the wise (see 1Co 2:14). ### 4:20
+the wise (see 1Co 2:14). 
+
+### 4:20
 *(anchor: WIS.4:20)*
 
 The day of reckoning is the final judgment, when the unjust will see their
 
-lawless deeds. ### 5:5-6
+lawless deeds. 
+
+### 5:5-6
 *(anchor: WIS.5:5)*
 
 The way of truth refers to the path of wisdom exemplified in the lives of the sons
 
 of God, the saints. Like Judas, the ungodly have a sense of regret but not repentance as
 
-they face judgment, a theme that continues through 5:14. ### 5:17-20
+they face judgment, a theme that continues through 5:14. 
+
+### 5:17-20
 *(anchor: WIS.5:17)*
 
 The full armor of God represents His holy attributes realized in Christ and in
@@ -113,52 +147,72 @@ Holy things here are God's commandments and wise instruction, which are
 
 taught to the faithful. In the Divine Liturgy, "holy things" refers to the Body and Blood
 
-of Christ received in Holy Communion. ### 6:12
+of Christ received in Holy Communion. 
+
+### 6:12
 *(anchor: WIS.6:12)*
 
 Wisdom will be easily perceived and found when she is the sole desire of the
 
-heart (see also Jam 1:5). ### 6:15
+heart (see also Jam 1:5). 
+
+### 6:15
 *(anchor: WIS.6:15)*
 
 Everything necessary for our salvation is contained in the perfection of
 
-discernment which is embodied in Christ (see 7:22-24). ### 6:16
+discernment which is embodied in Christ (see 7:22-24). 
+
+### 6:16
 *(anchor: WIS.6:16)*
 
 God knows our every thought and meets us when our every thought is fixed on
 
-Him (see also Pr 8:20; WSir 15:1). ### 6:17-20
+Him (see also Pr 8:20; WSir 15:1). 
+
+### 6:17-20
 *(anchor: WIS.6:17)*
 
 Desire for wisdom leads from instruction to love to virtue to God's everlasting
 
-kingdom. ### 6:24
+kingdom. 
+
+### 6:24
 *(anchor: WIS.6:24)*
 
 The prudent king is fulfilled in Christ. In this light, the wise men can be seen to
 
-foreshadow His Church, which brings salvation to the world. ### 7:1
+foreshadow His Church, which brings salvation to the world. 
+
+### 7:1
 *(anchor: WIS.7:1)*
 
-The first-formed man is Adam. ### 7:2
+The first-formed man is Adam. 
+
+### 7:2
 *(anchor: WIS.7:2)*
 
 Ten months: The months of the Jewish year were four weeks long. Human gestation
 
-is forty weeks. ### 7:4-5
+is forty weeks. 
+
+### 7:4-5
 *(anchor: WIS.7:4)*
 
 Solomon is a type of Christ, who was also born a king (see Is 9:6; Mt 2:2) yet
 
-wrapped in swaddling cloths (see Lk 2:7, 12). ### 7:6
+wrapped in swaddling cloths (see Lk 2:7, 12). 
+
+### 7:6
 *(anchor: WIS.7:6)*
 
 , 7 Here is the story of salvation. Man realizes that his life has no real purpose and will
 
 end in death. He prays and is enlightened with discernment: only God can save him. He
 
-calls on God, who sends wisdom--that is, Christ--and His Spirit. ### 7:7-14
+calls on God, who sends wisdom--that is, Christ--and His Spirit. 
+
+### 7:7-14
 *(anchor: WIS.7:7)*
 
 This passage is fulfilled in Christ and His Church, to which nothing earthly can

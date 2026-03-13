@@ -14,7 +14,9 @@ status: staging
 
 Forever tells us Wisdom is without beginning. He is Christ, the power and wisdom of
 
-the Father (1Co 1:24). ### 1:4
+the Father (1Co 1:24). 
+
+### 1:4
 *(anchor: SIR.1:4)*
 
 The statement Wisdom was created before all things is a prophecy concerning the
@@ -195,65 +197,87 @@ and in His time. 10:9
 
 A very humbling passage. One could almost call it crude, except that God is forcing us
 
-to face our utter lack of a basis for personal pride. ### 10:14-15
+to face our utter lack of a basis for personal pride. 
+
+### 10:14-15
 *(anchor: SIR.10:14)*
 
-This theme echoes Pr 3:37 and is repeated by St. Peter (1Pt 5:5, 6). ### 10:17
+This theme echoes Pr 3:37 and is repeated by St. Peter (1Pt 5:5, 6). 
+
+### 10:17
 *(anchor: SIR.10:17)*
 
 When the faithful die in Christ, we sing, "Memory eternal!" By contrast, the Lord
 
-puts an end to the memory of unworthy rulers (v. 14) and nations (v. 16). ### 10:20-23
+puts an end to the memory of unworthy rulers (v. 14) and nations (v. 16). 
+
+### 10:20-23
 *(anchor: SIR.10:20)*
 
 All are to fear the Lord--the rich and the poor. A poor man with true
 
-godliness and spiritual wisdom must be honored. ### 10:28-29
+godliness and spiritual wisdom must be honored. 
+
+### 10:28-29
 *(anchor: SIR.10:28)*
 
 All human beings should humbly recognize the immense value and glory of
 
 their own soul. The Lord Jesus Christ may have had this passage in mind when He spoke
 
-the words of Mt 16:26. ### 11:2-9
+the words of Mt 16:26. 
+
+### 11:2-9
 *(anchor: SIR.11:2)*
 
 This section deals with the age-old tendency to judge matters merely by external
 
-appearance. Woven in are warnings about boasting of a present possession or position. ### 11:10
+appearance. Woven in are warnings about boasting of a present possession or position. 
+
+### 11:10
 *(anchor: SIR.11:10)*
 
 We are to work faithfully and devotedly, but if we become involved in too many
 
 things they can overwhelm us. Rushing about to fulfill our obligations, we will keep
 
-falling further behind. ### 11:16-17
+falling further behind. 
+
+### 11:16-17
 *(anchor: SIR.11:16)*
 
 As with 10:28, 29, one wonders if our Lord did not have this passage in mind
 
-when He spoke the parable in Lk 12:16-21. ### 11:22
+when He spoke the parable in Lk 12:16-21. 
+
+### 11:22
 *(anchor: SIR.11:22)*
 
 Being independent in terms of freedom from a dictatorship or oppression is a
 
 blessing. Here, however, is a spirit of independence from God, the "I've-got-it-made"
 
-syndrome. ### 11:24-25
+syndrome. 
+
+### 11:24-25
 *(anchor: SIR.11:24)*
 
 At the end of our life we will be judged for the whole of it. And those who
 
 remain watch for the revelation of the works of the departed. This helps explain why
 
-the Church waits long to glorify her saints. ### 12:1-6
+the Church waits long to glorify her saints. 
+
+### 12:1-6
 *(anchor: SIR.12:1)*
 
 Christians extend hospitality, but not indiscriminately (see Ps 140:4, 5; 2Ti 3:6). Almsgiving--giving to the needy--has always been a godly virtue. The Wisdom of Sirach
 
 teaches when one practices this virtue to wisely choose a godly recipient. The man who
 
-does not give alms is classed with those who persist in evil (v. 3). ### 12:4-7
+does not give alms is classed with those who persist in evil (v. 3). 
+
+### 12:4-7
 *(anchor: SIR.12:4)*
 
 These verses reflect the view of ancient societies, including the Hebrews and
@@ -264,30 +288,42 @@ godly. Few believed in doing good to one's enemies until Jesus Christ strongly t
 
 to do so (see Mt 5:38-48; Lk 6:27-36). St. Paul sums up the Christian view of almsgiving: "Therefore, as we have opportunity, let us do good to all, especially to those who are of
 
-the household of faith" (Gal 6:10). ### 12:7-18
+the household of faith" (Gal 6:10). 
+
+### 12:7-18
 *(anchor: SIR.12:7)*
 
 In a fallen world the godly will always have enemies--either human or demonic, or
 
 both. Ben Sirach warns us of fair-weather friends (vv. 8, 9). An enemy is like rust, which
 
-ruins metal (v. 10). Be on guard and never trust your enemy (v. 10). ### 13:3-4
+ruins metal (v. 10). Be on guard and never trust your enemy (v. 10). 
+
+### 13:3-4
 *(anchor: SIR.13:3)*
 
-When a rich man falls, he has many helpers. But when a poor man is wronged, often even his friends push him down further. ### 13:14-17
+When a rich man falls, he has many helpers. But when a poor man is wronged, often even his friends push him down further. 
+
+### 13:14-17
 *(anchor: SIR.13:14)*
 
 Everything in creation loves its like! Thus, we have nations, tongues, and tribes
 
 (see Rev 5:9), and that is natural. But for Christians, we do not first identify ourselves as
 
-Greek or Russian or American. Rather our allegiance is first to "a holy nation" (1Pt 2:9), which is the Kingdom of God. ### 14:2
+Greek or Russian or American. Rather our allegiance is first to "a holy nation" (1Pt 2:9), which is the Kingdom of God. 
+
+### 14:2
 *(anchor: SIR.14:2)*
 
-See 1Jn 3:21. ### 14:3-7
+See 1Jn 3:21. 
+
+### 14:3-7
 *(anchor: SIR.14:3)*
 
-A small-minded, stingy man is not fit to be wealthy, for he will not help others. Such a person only does good accidentally (v. 7). ### 14:12
+A small-minded, stingy man is not fit to be wealthy, for he will not help others. Such a person only does good accidentally (v. 7). 
+
+### 14:12
 *(anchor: SIR.14:12)*
 
 Death makes no contract or covenant with anyone to come at the time we might
@@ -300,10 +336,14 @@ prefer. (See 14:17, and also Gn 2:17; 3:19 for the eternal covenant of death.)
 
 The pursuit of wisdom is portrayed, with many vibrant metaphors, as the primary
 
-goal of life--keeping in mind that wisdom is ultimately and fully embodied in Christ. ### 15:2
+goal of life--keeping in mind that wisdom is ultimately and fully embodied in Christ. 
+
+### 15:2
 *(anchor: SIR.15:2)*
 
-Wisdom is for those who will seek her with the love of a mother seeking her child, or of a groom being received by his young wife. ### 15:11-12
+Wisdom is for those who will seek her with the love of a mother seeking her child, or of a groom being received by his young wife. 
+
+### 15:11-12
 *(anchor: SIR.15:11)*
 
 It is not rational to say God led me astray into sin. (Nor is it Orthodox to give
@@ -312,34 +352,46 @@ the excuse, "The devil made me do it.") In His creation of mankind, God gave us 
 
 freedom to choose good or evil. Without that freedom we could neither be held
 
-accountable for our evil deeds nor rewarded for our good works. ### 15:16
+accountable for our evil deeds nor rewarded for our good works. 
+
+### 15:16
 *(anchor: SIR.15:16)*
 
 Fire and water represent extreme opposites. One could allegorize: we can choose
 
-between condemnation and baptism. ### 15:19
+between condemnation and baptism. 
+
+### 15:19
 *(anchor: SIR.15:19)*
 
 The fear of God is reverential awe, the foundation for worship, love, and obedience
 
-to Him (see Dt 30:15-20). ### 16:1-3
+to Him (see Dt 30:15-20). 
+
+### 16:1-3
 *(anchor: SIR.16:1)*
 
 A multitude of children is seen in Scripture as a blessing from God (Gn 24:60; Ps
 
-127:3-6). But God forbid they be useless or ungodly. ### 16:6
+127:3-6). But God forbid they be useless or ungodly. 
+
+### 16:6
 *(anchor: SIR.16:6)*
 
 A fire will be kindled and wrath is kindled are references to the stirring up of
 
-sinful human passions. ### 16:7
+sinful human passions. 
+
+### 16:7
 *(anchor: SIR.16:7)*
 
 The ancient giants are mentioned in Gn 6:4; WSol 14:6; Bar 3:26; and 3Mc 2:4.They
 
 are described as expert men of war, arrogant, insolent, foolish, mighty, and trusting in
 
-their own strength. They were destroyed by God in the flood. ### 16:8-9
+their own strength. They were destroyed by God in the flood. 
+
+### 16:8-9
 *(anchor: SIR.16:8)*
 
 The men of Sodom are referred to here. In Ezk 16:49, 50 God declares the people of
@@ -350,17 +402,23 @@ poor and needy. They also committed "acts of lawlessness" before God, which are
 
 described in Gn 19: homosexual acts of incredible disgust. The Sodomites were so
 
-"haughty" they had to be dealt with by God in extreme harshness. ### 16:10
+"haughty" they had to be dealt with by God in extreme harshness. 
+
+### 16:10
 *(anchor: SIR.16:10)*
 
 During their sojourn in the wilderness, God allowed the 600,000 foot-soldiers of
 
-Israel to die because of their hardness of heart. ### 16:12-14
+Israel to die because of their hardness of heart. 
+
+### 16:12-14
 *(anchor: SIR.16:12)*
 
 The OT and NT teach us that God holds all mankind accountable and will judge
 
-us according to our works (see Ps 61:13; Pr 24:12; Mt 25:31-46). ### 16:15-21
+us according to our works (see Ps 61:13; Pr 24:12; Mt 25:31-46). 
+
+### 16:15-21
 *(anchor: SIR.16:15)*
 
 Ben Sirach understands well the mind of the skeptic who refuses to believe in
@@ -369,7 +427,9 @@ God. Because the unbeliever does not admit that outside his limited realm of fin
 
 wisdom God could exist, the author calls him diminished in heart, without
 
-discernment and deceived (v. 21). ### 16:22-23
+discernment and deceived (v. 21). 
+
+### 16:22-23
 *(anchor: SIR.16:22)*
 
 Ben Sirach here offers one of the finest evangelism lessons in the OT. His
@@ -382,7 +442,9 @@ gives instruction on (1) the creation of the world (16:24-28), (2) the creation 
 
 (17:1-8), (3) God's revelation through His covenant (17:9-19), and (4) how to return to
 
-God (17:20-27). ### 17:1-8
+God (17:20-27). 
+
+### 17:1-8
 *(anchor: SIR.17:1)*
 
 In the previous verses Ben Sirach briefly sets forth the order and majesty of God's
@@ -391,7 +453,9 @@ creation of the world. Now he begins a discourse on the grandeur of man made in 
 
 image of God. Consequently man is given authority and dominion and power over all
 
-the earth. ### 17:9-19
+the earth. 
+
+### 17:9-19
 *(anchor: SIR.17:9)*
 
 God intended Israel (v. 14) to be a tight-knit, unified nation. But He also intended
@@ -406,7 +470,9 @@ salvation. It is extremely important for us within the Church, the new Israel, n
 
 into this same sin and incur the same judgment (see Rom 11:11-36). For the fulfillment
 
-of God's promises to Israel in the Church, see the following passages: Rom 4:9-16; 9:6, 8, 23-27; 11:7; 1Co 10:18; Gal 6:16; 1Pt 2:4-12; Rev 3:12; 21:2, 10. ### 17:20-23
+of God's promises to Israel in the Church, see the following passages: Rom 4:9-16; 9:6, 8, 23-27; 11:7; 1Co 10:18; Gal 6:16; 1Pt 2:4-12; Rev 3:12; 21:2, 10. 
+
+### 17:20-23
 *(anchor: SIR.17:20)*
 
 This marvelous passage on repentance forms the basis for many of the prayers, litanies, and services of the ancient Church. This passage was used and paraphrased in
@@ -433,7 +499,9 @@ God. The mercy and atonement from the Lord anticipates the coming of the Son of
 
 On earth nothing is brighter than the sun, yet even it can be eclipsed. So with
 
-mankind, the best of us can be darkened by evil. ### 18:3-6
+mankind, the best of us can be darkened by evil. 
+
+### 18:3-6
 *(anchor: SIR.18:3)*
 
 The works and wonders of the Lord are of such magnitude and majesty, it is
@@ -444,49 +512,71 @@ moving sentence on the depth and beauty of Scripture in which he says that if on
 
 long lifetime to study it at leisure, he could never fathom it all. He concludes by quoting a
 
-portion of v. 6: When a man completes his search, then he starts over. ### 18:8-10
+portion of v. 6: When a man completes his search, then he starts over. 
+
+### 18:8-10
 *(anchor: SIR.18:8)*
 
 Man's inability to consistently practice righteousness, the brevity of even the
 
-longest life, and human suffering all move God to be compassionate and merciful. ### 18:15-16
+longest life, and human suffering all move God to be compassionate and merciful. 
+
+### 18:15-16
 *(anchor: SIR.18:15)*
 
 A friendly word often brings more comfort than does a gift. However, a
 
-gracious person will give both comforting words and fitting gifts. ### 18:18-20
+gracious person will give both comforting words and fitting gifts. 
+
+### 18:18-20
 *(anchor: SIR.18:18)*
 
 These serious admonitions apply to one's health and daily life, but their
 
-ultimate application is to prepare the soul for the final judgment. ### 18:22
+ultimate application is to prepare the soul for the final judgment. 
+
+### 18:22
 *(anchor: SIR.18:22)*
 
 Making a vow to the Lord can be as simple as promising Him to give a tithe of
 
-one's income, or as all-encompassing as monastic vows (see Nm 6:5; Acts 18:18). ### 18:24
+one's income, or as all-encompassing as monastic vows (see Nm 6:5; Acts 18:18). 
+
+### 18:24
 *(anchor: SIR.18:24)*
 
-God teaches us that we must use our wealth to help those in need. ### 18:26
+God teaches us that we must use our wealth to help those in need. 
+
+### 18:26
 *(anchor: SIR.18:26)*
 
 Times are changing. In these days of sin, when the culture takes an evil turn, the
 
-wise man will be even more careful to guard against wrongdoing. ### 18:28
+wise man will be even more careful to guard against wrongdoing. 
+
+### 18:28
 *(anchor: SIR.18:28)*
 
-As one labors to be wise, that virtue will spread to others. ### 18:29
+As one labors to be wise, that virtue will spread to others. 
+
+### 18:29
 *(anchor: SIR.18:29)*
 
-Interestingly, the heading Self-Control appears in the Greek text. ### 19:1
+Interestingly, the heading Self-Control appears in the Greek text. 
+
+### 19:1
 *(anchor: SIR.19:1)*
 
 One who has self-control will not dissipate his wealth in drunkenness, nor will he be
 
-careless about small things. "Faithfulness in small things is no small thing" (Aug). ### 19:8
+careless about small things. "Faithfulness in small things is no small thing" (Aug). 
+
+### 19:8
 *(anchor: SIR.19:8)*
 
-The one exception to not passing on hearsay is when keeping quiet is a sin. ### 19:13-17
+The one exception to not passing on hearsay is when keeping quiet is a sin. 
+
+### 19:13-17
 *(anchor: SIR.19:13)*
 
 These verses urge careful examination. The KJV uses "admonish" for the Greek
@@ -499,15 +589,21 @@ neighbor about a potential false charge or hurtful statement. We always give the
 
 of the doubt to our neighbor or friend, remembering that we all slip and sin with our
 
-tongue far more often than we realize (v. 16). ### 19:18-27
+tongue far more often than we realize (v. 16). 
+
+### 19:18-27
 *(anchor: SIR.19:18)*
 
 This passage affirms the nature of true wisdom by contrasting it with false
 
-wisdom. All wisdom begins with the fear of the Lord (v. 18). ### 19:26-27
+wisdom. All wisdom begins with the fear of the Lord (v. 18). 
+
+### 19:26-27
 *(anchor: SIR.19:26)*
 
-Outward appearance can be an indicator of wisdom. ### 20:3
+Outward appearance can be an indicator of wisdom. 
+
+### 20:3
 *(anchor: SIR.20:3)*
 
 The martyr Cyprian (200-258), in a passage attributed to him calling this book by its
@@ -520,14 +616,18 @@ first from 17:24-26 and then from 20:3. This document includes a great many Scri
 
 quotes, mostly from the LXX but also a few from the NT, and is worthy to be studied by
 
-all Christians. ### 20:4
+all Christians. 
+
+### 20:4
 *(anchor: SIR.20:4)*
 
 A eunuch is a castrated man who serves as an attendant to a sovereign in his
 
 bedchamber or harem. The analogy here is that a man who uses senseless violence to
 
-bring about justice is impotent in producing justice. ### 20:5-8
+bring about justice is impotent in producing justice. 
+
+### 20:5-8
 *(anchor: SIR.20:5)*
 
 The church fathers insist that the most difficult discipline for most of us is learning
@@ -536,27 +636,37 @@ to keep silent. "Now what ought we to learn before everything else, but to be si
 
 we may be able to speak? Lest my voice should condemn me, before that of another
 
-acquit me, it is written: 'By thy words thou shalt be condemned'" (AmbM). ### 20:9-12
+acquit me, it is written: 'By thy words thou shalt be condemned'" (AmbM). 
+
+### 20:9-12
 *(anchor: SIR.20:9)*
 
 These verses employ contrasting terms to show that things are not always as they
 
-appear to be. ### 20:14-15
+appear to be. 
+
+### 20:14-15
 *(anchor: SIR.20:14)*
 
-Beware of fools bearing gifts! ### 20:16-17
+Beware of fools bearing gifts! 
+
+### 20:16-17
 *(anchor: SIR.20:16)*
 
 The foolish man awash in self-pity complains about being friendless and
 
-unappreciated. His world revolves around himself, and he becomes a laughingstock to all. ### 20:19
+unappreciated. His world revolves around himself, and he becomes a laughingstock to all. 
+
+### 20:19
 *(anchor: SIR.20:19)*
 
 This definition of a fool as a man without grace serves as a reminder to
 
 Christians to rely on the grace of God in their speech instead of merely on their own
 
-understanding. ### 21:1-3
+understanding. 
+
+### 21:1-3
 *(anchor: SIR.21:1)*
 
 A simple and powerful summary of the attitude of the repentant believer. If one has
@@ -565,10 +675,14 @@ sinned, he is not to continue in it. Rather, he is to pray urgently for forgiven
 
 humble believer must view all sin as dangerous, as much as a poisonous snake. St. Paul
 
-follows this exhortation when he says, "Flee sexual immorality" (1Co 6:18). ### 21:3
+follows this exhortation when he says, "Flee sexual immorality" (1Co 6:18). 
+
+### 21:3
 *(anchor: SIR.21:3)*
 
-Lawlessness is any form of rebellion against the duly constituted authority over us. God calls it "every man doing whatever is right in his own eyes" (Dt 12:8). ### 21:11-28
+Lawlessness is any form of rebellion against the duly constituted authority over us. God calls it "every man doing whatever is right in his own eyes" (Dt 12:8). 
+
+### 21:11-28
 *(anchor: SIR.21:11)*
 
 folly. This passage is a brilliant series of comparisons and contrasts of wisdom and
@@ -579,7 +693,9 @@ folly. This passage is a brilliant series of comparisons and contrasts of wisdom
 
 The guidance of a wise man flows abundantly from his lips because it comes
 
-from the Holy Spirit (see Mk 13:11). ### 21:16
+from the Holy Spirit (see Mk 13:11). 
+
+### 21:16
 *(anchor: SIR.21:16)*
 
 Literally, "the exegesis of a fool."
@@ -588,7 +704,9 @@ Literally, "the exegesis of a fool."
 ### 21:17
 *(anchor: SIR.21:17)*
 
-St. Paul speaks of "the word of wisdom" (1Co 12:8). ### 21:27
+St. Paul speaks of "the word of wisdom" (1Co 12:8). 
+
+### 21:27
 *(anchor: SIR.21:27)*
 
 Jude 9 also warns against rebuking Satan, instead instructing us to say, "The Lord
@@ -601,22 +719,30 @@ rebuke you!" (See also Zec 3:2.)
 
 A powerful condemnation of laziness. The filthy stone was used like toilet paper--
 
-which explains 22:2. ### 22:3-6
+which explains 22:2. 
+
+### 22:3-6
 *(anchor: SIR.22:3)*
 
 Because the father is ultimately responsible for the discipline of children, St. Paul
 
-issues a helpful word in Eph 6:4. ### 22:11
+issues a helpful word in Eph 6:4. 
+
+### 22:11
 *(anchor: SIR.22:11)*
 
 The concept of rest for the dead suggests a life after death, not a cessation of
 
-existence. ### 22:13
+existence. 
+
+### 22:13
 *(anchor: SIR.22:13)*
 
 Close contact with a fool can defile a person, and his influence is an exhausting
 
-irritation. ### 22:22
+irritation. 
+
+### 22:22
 *(anchor: SIR.22:22)*
 
 St. John Chrysostom has a lengthy discourse on friendship in which he quotes from
@@ -633,24 +759,32 @@ hundred friends: the latter is more rich in resources than the former."
 ### 22:27
 *(anchor: SIR.22:27)*
 
-This passage amplifies Ps 140:3, which is sung at Vespers. ### 23:1-6
+This passage amplifies Ps 140:3, which is sung at Vespers. 
+
+### 23:1-6
 *(anchor: SIR.23:1)*
 
 It appears this prayer may have formed the basis for the Prayer of St. Ephraim the
 
 Syrian, the prayer of repentance which Orthodox Christians pray repeatedly throughout
 
-Great Lent, though that prayer is simpler and shorter. ### 23:9
+Great Lent, though that prayer is simpler and shorter. 
+
+### 23:9
 *(anchor: SIR.23:9)*
 
 Ben Sirach's warning reflects the serious matter of making vows and not fulfilling
 
 them. To break a vow made in the name of the Holy One would be to take God's name
 
-in vain (Ex 20:7). ### 23:20
+in vain (Ex 20:7). 
+
+### 23:20
 *(anchor: SIR.23:20)*
 
-This verse is very clear on God's foreknowledge: all things are known to Him. ### 24:1
+This verse is very clear on God's foreknowledge: all things are known to Him. 
+
+### 24:1
 *(anchor: SIR.24:1)*
 
 This chapter is a poetic discourse on Wisdom, which can only find its fulfillment in
@@ -663,7 +797,9 @@ it are translated in the feminine. The preincarnate Christ is revealed as the et
 
 begotten Son, God of God, co-equal with the Father. Also, Wisdom, the preincarnate Son, is exalted above all. Perhaps St. Paul had this passage in mind when he penned Php 2:5-
 
-11, which many believe is an early Christian hymn. ### 24:3
+11, which many believe is an early Christian hymn. 
+
+### 24:3
 *(anchor: SIR.24:3)*
 
 "Observe the peculiar attribute of the Divine Generation, that the Son doth not seem
@@ -672,14 +808,18 @@ to have come forth out of any place, but as God from God, a Son from a Father, n
 
 have a beginning in the course of time, having come forth from the Father by being born, as He Himself who was born said: 'I came forth from the mouth of the Most High'"
 
-(AmbM). ### 24:8
+(AmbM). 
+
+### 24:8
 *(anchor: SIR.24:8)*
 
 Created me is a prophecy concerning the incarnation of Wisdom. He is Christ, the
 
 power and wisdom of the Father (1Co 1:24). The phrases a place to live, a tent in
 
-Jacob, and an inheritance in Israel also emphasize the Incarnation. ### 24:9
+Jacob, and an inheritance in Israel also emphasize the Incarnation. 
+
+### 24:9
 *(anchor: SIR.24:9)*
 
 The phrases before the age, from the beginning, and in the age to come show
@@ -688,17 +828,23 @@ that Wisdom is without beginning. The statement He created me is prophetic of th
 
 Incarnation as well. For Christ, the power and wisdom of the Father, assumed a human
 
-nature at His conception in the womb of the Mother of God, the Ever-virgin Mary. ### 24:16-17
+nature at His conception in the womb of the Mother of God, the Ever-virgin Mary. 
+
+### 24:16-17
 *(anchor: SIR.24:16)*
 
 St. Paul teaches that in Christ we find a superabundance of the riches of grace
 
-(Eph 1:7, 8). ### 24:21
+(Eph 1:7, 8). 
+
+### 24:21
 *(anchor: SIR.24:21)*
 
 Though the Christian finds true nourishment in the Body and Blood of Christ, he
 
-will always hunger and thirst for more of Christ in all aspects of life. ### 25:1-15
+will always hunger and thirst for more of Christ in all aspects of life. 
+
+### 25:1-15
 *(anchor: SIR.25:1)*
 
 Though these verses primarily describe those worthy of praise, they also include a
@@ -725,7 +871,9 @@ evil. The Christian must love and pray for his enemies while rejoicing at the do
 
 Ben Sirach continues his diatribe on the evil wife (vv. 15-25, and again in 26:5-12). Following each of these passages are sections praising a good wife (26:1-4, 13-18). Both
 
-vice and virtue are fair game for this outspoken author! ### 25:21
+vice and virtue are fair game for this outspoken author! 
+
+### 25:21
 *(anchor: SIR.25:21)*
 
 Historically, it was seen as disgraceful for a wife to financially support her
@@ -734,45 +882,63 @@ husband. When necessity calls for the husband to stay at home with the children 
 
 keep the house while the wife earns the income, be aware of these warnings of Ben
 
-Sirach. ### 25:24
+Sirach. 
+
+### 25:24
 *(anchor: SIR.25:24)*
 
 Just as neglecting a crack in a reservoir could cause a flood, so also an emboldened
 
-evil wife can produce a torrent of wicked deeds. ### 25:25
+evil wife can produce a torrent of wicked deeds. 
+
+### 25:25
 *(anchor: SIR.25:25)*
 
-The OT rules concerning divorce were less strict than those given by Jesus. ### 26:1-4
+The OT rules concerning divorce were less strict than those given by Jesus. 
+
+### 26:1-4
 *(anchor: SIR.26:1)*
 
 A good wife brings her husband happiness (vv. l, 2, 4), long life ( v. 1), and peace
 
-(v. 2). ### 26:5-6
+(v. 2). 
+
+### 26:5-6
 *(anchor: SIR.26:5)*
 
 After listing three fears, Ben Sirach declares the fourth to be the wife who is
 
-jealous over another woman. The implication is that her jealousy is unfounded. ### 26:9-12
+jealous over another woman. The implication is that her jealousy is unfounded. 
+
+### 26:9-12
 *(anchor: SIR.26:9)*
 
 This passage warns of the sin of sexual promiscuity. Clement of Alexandria says of
 
 v. 9, "But languishing looks, and ogling, which is to wink with the eyes, is nothing else
 
-than to commit adultery with the eyes" (ClemA). ### 26:13-18
+than to commit adultery with the eyes" (ClemA). 
+
+### 26:13-18
 *(anchor: SIR.26:13)*
 
-This passage makes many of the same observations as 1Pt 3:1-6. ### 26:20-3
+This passage makes many of the same observations as 1Pt 3:1-6. 
+
+### 26:20-3
 *(anchor: SIR.26:20)*
 
 Business-related scandals are not new. Unless a merchant holds steadfastly to
 
-the fear of the Lord, the work of his hands will be overturned. ### 27:4-7
+the fear of the Lord, the work of his hands will be overturned. 
+
+### 27:4-7
 *(anchor: SIR.27:4)*
 
 Jesus Christ must be the Lord of our reasoning process (v. 6), keeping our
 
-motives pure. ### 27:5
+motives pure. 
+
+### 27:5
 *(anchor: SIR.27:5)*
 
 Cyprian of Carthage (martyred AD 258) sees this passage as the basis of St. Paul's and
@@ -789,20 +955,28 @@ away from the truth of virtue and faith, but strengthens us by its suffering."
 
 The Lord Jesus Christ confirmed and amplified this truth in His fourth Beatitude (Mt
 
-5:6). ### 27:13-14
+5:6). 
+
+### 27:13-14
 *(anchor: SIR.27:13)*
 
 Trash talk and swearing may make a man look tough, but Ben Sirach is right: it
 
-is offensive and gains no respect from others. ### 27:27
+is offensive and gains no respect from others. 
+
+### 27:27
 *(anchor: SIR.27:27)*
 
 Moses told the children of Israel the same thing in different words: "You will know
 
-your sin when evils overtake you" (Nm 32:23). ### 28:1
+your sin when evils overtake you" (Nm 32:23). 
+
+### 28:1
 *(anchor: SIR.28:1)*
 
-This concept is recorded in Dt 32:35, and is affirmed by St. Paul in Rom 12:19. ### 28:2
+This concept is recorded in Dt 32:35, and is affirmed by St. Paul in Rom 12:19. 
+
+### 28:2
 *(anchor: SIR.28:2)*
 
 The Lord Jesus Christ echoed this truth in His Sermon on the Mount (Mt 6:14, 15). It
@@ -811,22 +985,30 @@ is not that God's grace and forgiveness are somehow purchased or earned by our f
 
 forgiving others. Rather, our unforgiveness prevents us from having the humility to
 
-receive God's mercy and forgiveness. ### 28:3
+receive God's mercy and forgiveness. 
+
+### 28:3
 *(anchor: SIR.28:3)*
 
 It is well known that those who are filled with wrath and discontent develop serious
 
-diseases. Forgiveness of others promotes our spiritual and physical healing. ### 28:4
+diseases. Forgiveness of others promotes our spiritual and physical healing. 
+
+### 28:4
 *(anchor: SIR.28:4)*
 
 One of the most powerful of Christ's parables greatly amplifies this common human
 
-failing (Mt 18:23-35). ### 28:6
+failing (Mt 18:23-35). 
+
+### 28:6
 *(anchor: SIR.28:6)*
 
 The church fathers often urge us to ponder our death and the great judgment seat of
 
-Christ in order that we stand fast in a state of preparation for that awesome day. ### 28:24
+Christ in order that we stand fast in a state of preparation for that awesome day. 
+
+### 28:24
 *(anchor: SIR.28:24)*
 
 Some see possessions as referring to the tongue, which is to be guarded as
@@ -841,17 +1023,23 @@ as, "Hedge thine ears with thorns, and hearken not to a wicked tongue."
 
 The Church teaches us to weigh our words and to pray, "Set a watch, O Lord, before my mouth" (Ps 140:3). He who lies in wait is Satan, who desires to capture our
 
-soul. ### 29:1
+soul. 
+
+### 29:1
 *(anchor: SIR.29:1)*
 
-Christ expands on this in the Sermon on the Mount (Mt 5:42). ### 29:10-13
+Christ expands on this in the Sermon on the Mount (Mt 5:42). 
+
+### 29:10-13
 *(anchor: SIR.29:10)*
 
 "What is so likely to win favor as gratitude? . . . What [is] more natural than to
 
 love one who loves us?" (AmbM). Thus, we are urged to give our money to help a
 
-brother and friend (v. 10). ### 29:11-13
+brother and friend (v. 10). 
+
+### 29:11-13
 *(anchor: SIR.29:11)*
 
 This passage is a precursor to Christ's words in Mt 6:19-21. Since the Sermon on
@@ -874,20 +1062,28 @@ Latin, some fathers read v. 12 as, "Store up your alms in the heart of the poor 
 
 God believes in discipline! Heb 12:5-10 reveals how the Lord disciplines His
 
-children, and asks the question, "What son is there whom a father does not chasten?" (v. 7). ### 30:16
+children, and asks the question, "What son is there whom a father does not chasten?" (v. 7). 
+
+### 30:16
 *(anchor: SIR.30:16)*
 
-May we thank God for health of body and joy of heart! ### 30:19
+May we thank God for health of body and joy of heart! 
+
+### 30:19
 *(anchor: SIR.30:19)*
 
 In the "Bel and the Serpent" section of Daniel, they tried offering food and drink
 
-to an idol; Daniel laughed, and they failed. ### 30:21-25
+to an idol; Daniel laughed, and they failed. 
+
+### 30:21-25
 *(anchor: SIR.30:21)*
 
 Ben Sirach teaches that sorrow does not simply sneak up on us and take over. Instead, we give ourselves over to it (v. 21), or we can put it far away. How? By
 
-rejoicing (v. 22), loving our soul, and comforting our heart (v. 23). ### 31:1
+rejoicing (v. 22), loving our soul, and comforting our heart (v. 23). 
+
+### 31:1
 *(anchor: SIR.31:1)*
 
 , 2 Among the great problems caused by wealth and its accumulation are anxiety and
@@ -898,7 +1094,9 @@ many cares? . . . Because he is bound like a dog, with ten thousand chains--name
 
 riches? . . . As though at enmity with ourselves, we have devised a tyranny more powerful
 
-than natural want of rest--the sleeplessness which comes of wealth" (JohnChr). ### 31:8-11
+than natural want of rest--the sleeplessness which comes of wealth" (JohnChr). 
+
+### 31:8-11
 *(anchor: SIR.31:8)*
 
 Rare is the individual who is rich but does not love money. Such a person can do
@@ -913,17 +1111,23 @@ excited at the thought of money, and has contempt for riches, and looks down as 
 
 lofty vantage-ground on the desires of men? Men think that one who acts thus is more
 
-than a man" (AmbM). ### 31:12-13
+than a man" (AmbM). 
+
+### 31:12-13
 *(anchor: SIR.31:12)*
 
 This passage gives attention to righteous conduct at dinner parties. Issues such as
 
 moderation in food and drink, good manners, proper conversation, and even stinginess
 
-are addressed. ### 31:14
+are addressed. 
+
+### 31:14
 *(anchor: SIR.31:14)*
 
-Eating everything in sight is not new! Ben Sirach calls for restraint. ### 31:16
+Eating everything in sight is not new! Ben Sirach calls for restraint. 
+
+### 31:16
 *(anchor: SIR.31:16)*
 
 you. Even during Lent, when dining elsewhere, the fathers say to eat what is set before
@@ -934,43 +1138,61 @@ you. Even during Lent, when dining elsewhere, the fathers say to eat what is set
 
 A small helping of food is sufficient for those with discipline. This is not written
 
-just for monks, but for all Christians. ### 31:25-31
+just for monks, but for all Christians. 
+
+### 31:25-31
 *(anchor: SIR.31:25)*
 
 Throughout Scripture, wine is seen as a good gift from God if we drink it in
 
-moderation to bring gladness of soul (v. 28). ### 32:1
+moderation to bring gladness of soul (v. 28). 
+
+### 32:1
 *(anchor: SIR.32:1)*
 
 , 2 In ancient times, hosting a banquet was a magnificent honor. Ben Sirach reminds
 
 the host to be as one of them and to take care of them--that is, be the servant of your
 
-guests. ### 32:3-6
+guests. 
+
+### 32:3-6
 *(anchor: SIR.32:3)*
 
 This banquet is complete with a concert of dinnertime music (v. 5) and
 
 delicious wine (v. 6). Looking ahead, imagine the grandeur of the "marriage supper of
 
-the Lamb" (Rev 19:9). ### 32:7-13
+the Lamb" (Rev 19:9). 
+
+### 32:7-13
 *(anchor: SIR.32:7)*
 
-Banquet behavior for a young man. ### 32:17
+Banquet behavior for a young man. 
+
+### 32:17
 *(anchor: SIR.32:17)*
 
-A wise man is correctable; a sinful man is not. ### 32:23
+A wise man is correctable; a sinful man is not. 
+
+### 32:23
 *(anchor: SIR.32:23)*
 
-We are called to trust the Lord in every work we do, not just in religious work. ### 33:2
+We are called to trust the Lord in every work we do, not just in religious work. 
+
+### 33:2
 *(anchor: SIR.33:2)*
 
 The analogy of a hypocrite being like a ship in a storm indicates he is in grave
 
-mortal danger. ### 33:5
+mortal danger. 
+
+### 33:5
 *(anchor: SIR.33:5)*
 
-The mind of a fool moves in circles. His reasoning reveals a state of confusion. ### 33:7-9
+The mind of a fool moves in circles. His reasoning reveals a state of confusion. 
+
+### 33:7-9
 *(anchor: SIR.33:7)*
 
 God is the author of holy days, seasons, and feasts. This is clear both in the OT
@@ -981,13 +1203,19 @@ we live within time (v. 9). The fact that some feast days became abused in the O
 
 Covenant does not mean we are not to have them in the New. The Church as the new
 
-Israel (Gal 6:16) has the authority of Christ to mark her holy days and seasons. ### 33:13
+Israel (Gal 6:16) has the authority of Christ to mark her holy days and seasons. 
+
+### 33:13
 *(anchor: SIR.33:13)*
 
-The same theme found in this pivotal verse is found throughout the OT (Is 45:9; 64:7; Jer 18:6). Complete submission to the will of our Creator is the highest of virtues. ### 33:14-15
+The same theme found in this pivotal verse is found throughout the OT (Is 45:9; 64:7; Jer 18:6). Complete submission to the will of our Creator is the highest of virtues. 
+
+### 33:14-15
 *(anchor: SIR.33:14)*
 
-The cross of Christ is the preeminent example of good coming out of evil. ### 33:16-18
+The cross of Christ is the preeminent example of good coming out of evil. 
+
+### 33:16-18
 *(anchor: SIR.33:16)*
 
 These verses are autobiographical. The author speaks of himself as coming on
@@ -996,20 +1224,28 @@ duty following the other OT authors. But after great effort, laboring like a gra
 
 word became the greatest of his time. He takes pleasure that his labor has not been for
 
-himself alone, but for all who seek instruction. ### 33:30-33
+himself alone, but for all who seek instruction. 
+
+### 33:30-33
 *(anchor: SIR.33:30)*
 
 To enslave another human being is fundamentally wrong. However, in ancient
 
-societies it was common, as it still is in many parts of the world. In Israel's history, slaveowners were taught to treat their slaves humanely, as these verses clearly show. In fact, the faithful servant was to be treated as a brother. ### 34:1
+societies it was common, as it still is in many parts of the world. In Israel's history, slaveowners were taught to treat their slaves humanely, as these verses clearly show. In fact, the faithful servant was to be treated as a brother. 
+
+### 34:1
 *(anchor: SIR.34:1)*
 
-, 2 The foolish person gives himself to false hopes and dreams. ### 34:6
+, 2 The foolish person gives himself to false hopes and dreams. 
+
+### 34:6
 *(anchor: SIR.34:6)*
 
 From ancient times the Most High God has revealed Himself in dreams and visions
 
-to godly people whose hearts were prepared to receive them. ### 34:9-12
+to godly people whose hearts were prepared to receive them. 
+
+### 34:9-12
 *(anchor: SIR.34:9)*
 
 One who has had an easy, limited, untested life knows little. By contrast, he
@@ -1018,38 +1254,50 @@ who has traveled about is broadened by that experience, tested by the dangers of
 
 intensive travel. He has given himself to serve others in or by his travels, and will have
 
-more understanding and wisdom about life than he can put into words. ### 34:15-17
+more understanding and wisdom about life than he can put into words. 
+
+### 34:15-17
 *(anchor: SIR.34:15)*
 
 Once we have learned to fear the Lord and hope in Him, then we can love Him
 
 with our whole being. We find Him our constant support and protection. He lifts up
 
-our souls, fills our countenance with light, and brings healing to our afflictions. ### 34:18-19
+our souls, fills our countenance with light, and brings healing to our afflictions. 
+
+### 34:18-19
 *(anchor: SIR.34:18)*
 
-When money we donate is ill-gotten gain, the Most High is not pleased. ### 34:23-26
+When money we donate is ill-gotten gain, the Most High is not pleased. 
+
+### 34:23-26
 *(anchor: SIR.34:23)*
 
 This litany of questions highlights the continuous struggle between good and
 
 evil. The person who fasts and then commits the same sins all over again (v. 26)
 
-profits nothing. ### 35:1
+profits nothing. 
+
+### 35:1
 *(anchor: SIR.35:1)*
 
 Ben Sirach declares that he who keeps the law does the equivalent to making a
 
 peace offering. Faithfulness to God's revelation requires obedience. Jesus said, "If you
 
-love Me, keep My commandments" (Jn 14:15). ### 35:2
+love Me, keep My commandments" (Jn 14:15). 
+
+### 35:2
 *(anchor: SIR.35:2)*
 
 The traditional meaning of alms is "charity" or "a gift of anything needed by the
 
 poor." Almsgiving is equivalent to a praise offering. The Scriptures and the church
 
-fathers place a striking emphasis on almsgiving. ### 35:8
+fathers place a striking emphasis on almsgiving. 
+
+### 35:8
 *(anchor: SIR.35:8)*
 
 St. Paul writes, "God loves a cheerful giver" (2Co 9:7). The tithe is the giving of ten
@@ -1076,7 +1324,9 @@ making us more wise in the management of our money. Or He may prosper our work s
 
 that we have even more to give. Or both! Even better, He always enriches the generous
 
-giver with joy and many spiritual blessings. ### 35:13
+giver with joy and many spiritual blessings. 
+
+### 35:13
 *(anchor: SIR.35:13)*
 
 Simply being poor does not mean that one will receive God's special compassion, for many are poor due to laziness or unwillingness to work. But for those who have been
@@ -1085,20 +1335,28 @@ wronged and thus are poor, God hears their prayers and will compensate for their
 
 suffering, either in this life or the next. God is on the side of those who suffer through no
 
-fault of their own: the orphan, the widow, the oppressed. ### 35:17
+fault of their own: the orphan, the widow, the oppressed. 
+
+### 35:17
 *(anchor: SIR.35:17)*
 
 The devout, humble man knows God has heard his prayer because he is
 
-comforted by the Lord. ### 35:19
+comforted by the Lord. 
+
+### 35:19
 *(anchor: SIR.35:19)*
 
 Ben Sirach assures us the Lord will not delay in answering our prayers. The first
 
-half of ch. 36 is a prayer for Israel. ### 35:24
+half of ch. 36 is a prayer for Israel. 
+
+### 35:24
 *(anchor: SIR.35:24)*
 
-Through Christ's affliction on the Cross, we receive mercy. ### 36:1-4
+Through Christ's affliction on the Cross, we receive mercy. 
+
+### 36:1-4
 *(anchor: SIR.36:1)*
 
 Ben Sirach prays for mercy for us (Israel); that all the nations (the Gentiles)
@@ -1115,29 +1373,39 @@ Christ."
 ### 36:7
 *(anchor: SIR.36:7)*
 
-Here oath refers to the covenant God made with Abraham (Gn 17:21). ### 36:8
+Here oath refers to the covenant God made with Abraham (Gn 17:21). 
+
+### 36:8
 *(anchor: SIR.36:8)*
 
 Though God has shown Himself as a "consuming fire" in history, His preference is to
 
-redeem and save His enemies, for He is a God of mercy and grace. ### 36:10
+redeem and save His enemies, for He is a God of mercy and grace. 
+
+### 36:10
 *(anchor: SIR.36:10)*
 
 The tribes of Jacob include all those of the true Israel, in both the Old and New
 
-Covenants (see Rom 2:26-29). ### 36:13
+Covenants (see Rom 2:26-29). 
+
+### 36:13
 *(anchor: SIR.36:13)*
 
 The new Zion, the Church, holds a celebration every Sunday, the Divine Liturgy. In it, the Body and Blood of Christ, the full expression of all virtue, is given to the
 
-people of God. ### 36:17
+people of God. 
+
+### 36:17
 *(anchor: SIR.36:17)*
 
 Though this prayer was for Israel, it was also for all on earth. Thus, the Church has
 
 become the New Jerusalem, the new Zion, the new nation in which the OT prophecies are
 
-fulfilled (see Rom 3:29-31; 4:13-16; Gal 4:21-31; all of Hebrews but especially 12:18-29; 1Pt 2:4-10; Rev 21:9-27). ### 36:21-23
+fulfilled (see Rom 3:29-31; 4:13-16; Gal 4:21-31; all of Hebrews but especially 12:18-29; 1Pt 2:4-10; Rev 21:9-27). 
+
+### 36:21-23
 *(anchor: SIR.36:21)*
 
 Women of ancient times often had little or no choice concerning the man they
@@ -1150,55 +1418,81 @@ some sociological studies indicate there was not the unhappiness arising from th
 
 practice that we moderns are prone to imagine, and certainly not the divorce rate! The
 
-Scriptures laud a woman who is beautiful, both outwardly (v. 22) and inwardly (v. 23). ### 36:24
+Scriptures laud a woman who is beautiful, both outwardly (v. 22) and inwardly (v. 23). 
+
+### 36:24
 *(anchor: SIR.36:24)*
 
-See Pr 31:10-30. ### 36:25-27
+See Pr 31:10-30. 
+
+### 36:25-27
 *(anchor: SIR.36:25)*
 
-A good marriage protects both husband and wife from the snares of the devil. ### 37:1-6
+A good marriage protects both husband and wife from the snares of the devil. 
+
+### 37:1-6
 *(anchor: SIR.37:1)*
 
 Avoid one who is a friend in name only. To have trusted a friend who becomes an
 
-enemy is a great grief. ### 37:7-10
+enemy is a great grief. 
+
+### 37:7-10
 *(anchor: SIR.37:7)*
 
 Though there is safety in many counselors, be sure to know beforehand what the
 
-agenda is. ### 37:21
+agenda is. 
+
+### 37:21
 *(anchor: SIR.37:21)*
 
-If we do not heed God's wisdom, we will not experience His grace. ### 37:29-31
+If we do not heed God's wisdom, we will not experience His grace. 
+
+### 37:29-31
 *(anchor: SIR.37:29)*
 
-Gluttony is not only sinful, it is dangerous to one's health. ### 38:1
+Gluttony is not only sinful, it is dangerous to one's health. 
+
+### 38:1
 *(anchor: SIR.38:1)*
 
 , 2 It is godly to honor the hard-working physician, who is seen in Scripture as a gift
 
 from God. Since God is the true Healer, it is He that gives the physician healing skills. Kings kept physicians in their retinue and often gave them lavish gifts when they had
 
-successfully treated the king or his family. ### 38:4
+successfully treated the king or his family. 
+
+### 38:4
 *(anchor: SIR.38:4)*
 
 The ancients understood the healing power of plants and minerals, all created by
 
-the Lord. ### 38:5
+the Lord. 
+
+### 38:5
 *(anchor: SIR.38:5)*
 
-This is a reference to Ex 15:23-25. ### 38:6-8
+This is a reference to Ex 15:23-25. 
+
+### 38:6-8
 *(anchor: SIR.38:6)*
 
 God gives healing skills to druggists and pharmacists for the benefit of all
 
-mankind. ### 38:9-11
+mankind. 
+
+### 38:9-11
 *(anchor: SIR.38:9)*
 
-There is a direct link from prayer, repentance of sin, and worship to healing. ### 38:14-15
+There is a direct link from prayer, repentance of sin, and worship to healing. 
+
+### 38:14-15
 *(anchor: SIR.38:14)*
 
-How blessed are those whose physician is a faithful, praying Christian. ### 38:16-23
+How blessed are those whose physician is a faithful, praying Christian. 
+
+### 38:16-23
 *(anchor: SIR.38:16)*
 
 Proper mourning for the dead is essential to the healing of our grief. An
@@ -1209,30 +1503,42 @@ Church. Each parish had its volunteers who washed and dressed the body, making
 
 preparation for burial. We are warned not to allow our hearts to be grief-stricken (v. 18)
 
-so grief overpowers us, for some have even died from grief. Thus, St. Paul says we grieve, but not as those "who have no hope" (1Th 4:13). ### 38:23
+so grief overpowers us, for some have even died from grief. Thus, St. Paul says we grieve, but not as those "who have no hope" (1Th 4:13). 
+
+### 38:23
 *(anchor: SIR.38:23)*
 
-The exodus of his spirit implies life after death. ### 38:24
+The exodus of his spirit implies life after death. 
+
+### 38:24
 *(anchor: SIR.38:24)*
 
 From here to the close of the chapter, Ben Sirach reveals the wisdom of the scribe
 
 (v. 24), the plowman (v. 25, 26), the craftsman (v. 27), the blacksmith (v. 28), the
 
-potter (vv. 29, 30), and other laborers who work with their hands (v. 31). ### 38:25
+potter (vv. 29, 30), and other laborers who work with their hands (v. 31). 
+
+### 38:25
 *(anchor: SIR.38:25)*
 
-The goad is a cattle prodder. ### 39:1-11
+The goad is a cattle prodder. 
+
+### 39:1-11
 *(anchor: SIR.39:1)*
 
 Those who study the Scriptures are described here. A modern-day equivalent
 
 would be the seminarian who learns the Old and New Testaments. The ancients would
 
-include the apostles and church fathers. ### 39:4-11
+include the apostles and church fathers. 
+
+### 39:4-11
 *(anchor: SIR.39:4)*
 
-This sounds like the biography of St. Paul. ### 39:14
+This sounds like the biography of St. Paul. 
+
+### 39:14
 *(anchor: SIR.39:14)*
 
 Incense has been an important aid to prayer and praise of God from time
@@ -1243,70 +1549,98 @@ immemorial. King David wrote, "Let my prayer be set forth before You as incense"
 
 among the Gentile nations (Mal 1:11). This continues to be fulfilled in the Church. One of
 
-the gifts brought to the baby Jesus by the wise men was frankincense. ### 39:15-16
+the gifts brought to the baby Jesus by the wise men was frankincense. 
+
+### 39:15-16
 *(anchor: SIR.39:15)*
 
 As fallen humans, many tend to see things as bad. God sees them as good. It is
 
-our unbelief that clouds our outlook. ### 39:17
+our unbelief that clouds our outlook. 
+
+### 39:17
 *(anchor: SIR.39:17)*
 
 The waters in a heap refers to the oceans being separated from the land at creation
 
-(Gn 1:9, 10). ### 39:19-20
+(Gn 1:9, 10). 
+
+### 39:19-20
 *(anchor: SIR.39:19)*
 
-Nothing takes the all-knowing God by surprise! ### 39:24-25
+Nothing takes the all-knowing God by surprise! 
+
+### 39:24-25
 *(anchor: SIR.39:24)*
 
 Those who by virtue of God's work are holy see all of God's ways and works as
 
-good. ### 39:26-27
+good. 
+
+### 39:26-27
 *(anchor: SIR.39:26)*
 
-The basic needs of human beings are ever the same. ### 39:32-35
+The basic needs of human beings are ever the same. 
+
+### 39:32-35
 *(anchor: SIR.39:32)*
 
 Here, Ben Sirach inserts a brief autobiographical comment. God's great work is
 
-redemption and salvation, which He accomplishes through His Eternal Son. ### 40:1
+redemption and salvation, which He accomplishes through His Eternal Son. 
+
+### 40:1
 *(anchor: SIR.40:1)*
 
 Knowing the heavy yoke we bear, Jesus promised, "My yoke is easy" (see Mt 11:28-
 
-30). St. Paul called the heavenly Jerusalem "the mother of us all" (Gal 4:26). ### 40:12-17
+30). St. Paul called the heavenly Jerusalem "the mother of us all" (Gal 4:26). 
+
+### 40:12-17
 *(anchor: SIR.40:12)*
 
 This passage contains a dialectic demonstrating that in the midst of surrounding
 
-evil, deeds and attitudes of the righteous shine and produce grace and blessing (v. 17). ### 40:19-23
+evil, deeds and attitudes of the righteous shine and produce grace and blessing (v. 17). 
+
+### 40:19-23
 *(anchor: SIR.40:19)*
 
 The Scriptures from start to finish consistently glorify married love between a
 
-faithful husband and wife. ### 40:24
+faithful husband and wife. 
+
+### 40:24
 *(anchor: SIR.40:24)*
 
 Almsgiving can be translated "merciful giving." One who gives alms should make
 
 it a lifetime habit. Almsgiving includes deeds of love and kindness, not just monetary
 
-gifts. ### 40:27
+gifts. 
+
+### 40:27
 *(anchor: SIR.40:27)*
 
 The reverential awe or fear of the Lord brings a paradise of blessing in this life
 
-as well as in the life to come. ### 41:1
+as well as in the life to come. 
+
+### 41:1
 *(anchor: SIR.41:1)*
 
 The coming of Christ changed everything. Ben Sirach rightly calls death a bitter
 
 memory. Jesus said, "I am the resurrection and the life. He who believes in Me, though
 
-he may die, he shall live" (Jn 11:25). ### 41:5-7
+he may die, he shall live" (Jn 11:25). 
+
+### 41:5-7
 *(anchor: SIR.41:5)*
 
-Tragically, the children of the ungodly usually follow their parents' path. ### 41:12-13
+Tragically, the children of the ungodly usually follow their parents' path. 
+
+### 41:12-13
 *(anchor: SIR.41:12)*
 
 The Wisdom Literature of the OT is replete with admonitions to establish and
@@ -1325,17 +1659,23 @@ century, if one openly sinned in the Jewish community one was called before the
 
 assembly to give an account and express repentance. This was practiced in many
 
-Christian churches as well. ### 41:26
+Christian churches as well. 
+
+### 41:26
 *(anchor: SIR.41:26)*
 
 We cannot always control what we hear. We can absolutely control telling others
 
-what we've heard and revealing secrets. ### 42:1
+what we've heard and revealing secrets. 
+
+### 42:1
 *(anchor: SIR.42:1)*
 
 , 2 In according with this teaching, St. Paul wrote, "I am not ashamed of the gospel of
 
-Christ" (Rom 1:16). ### 42:5
+Christ" (Rom 1:16). 
+
+### 42:5
 *(anchor: SIR.42:5)*
 
 There is no shame in making a profit or in the discipline of children to keep
@@ -1344,46 +1684,62 @@ order at home while the merchant is away. The reference to the evil servant seem
 
 harsh, yet wicked servants if left unpunished could destroy one's home or business (see
 
-notes on 33:30-33). ### 42:8
+notes on 33:30-33). 
+
+### 42:8
 *(anchor: SIR.42:8)*
 
 This would seem to refer to a leader in the synagogue who must instruct and
 
 arbitrate. The old man judging the young reminds us the "generation gap" has its roots
 
-in antiquity. ### 42:9-11
+in antiquity. 
+
+### 42:9-11
 *(anchor: SIR.42:9)*
 
 This passage expresses the universal concerns that any moral father would have
 
 for his daughter. It does not contain all of a father's concerns, nor does it reflect the
 
-deep affection that good fathers feel for their daughters. ### 42:13
+deep affection that good fathers feel for their daughters. 
+
+### 42:13
 *(anchor: SIR.42:13)*
 
-Moth larvae are hatched from eggs laid by moths within the fabric of garments. The analogy is that wickedness comes from within the heart, as Christ taught (Mt 15:19). Ben Sirach had in mind the fall of Eve, thus sin from a woman. ### 42:14
+Moth larvae are hatched from eggs laid by moths within the fabric of garments. The analogy is that wickedness comes from within the heart, as Christ taught (Mt 15:19). Ben Sirach had in mind the fall of Eve, thus sin from a woman. 
+
+### 42:14
 *(anchor: SIR.42:14)*
 
 There is a subtle contrast here that can easily be missed. Whereas the churlish
 
 baseness of evil male conduct can be vulgar and obscene, the flirtatious seductiveness of
 
-a woman can lead to the even more serious sins of fornication or adultery. ### 42:15
+a woman can lead to the even more serious sins of fornication or adultery. 
+
+### 42:15
 *(anchor: SIR.42:15)*
 
 Any works done by God begin with His Word. He decrees it and it is done. Though
 
 the Greek for "words" here is plural, the Christian knows the Eternal Word (Logos), the
 
-Second Person of the Godhead, was and is eternally active in all creation (see Jn 1:1-18). ### 42:16-25
+Second Person of the Godhead, was and is eternally active in all creation (see Jn 1:1-18). 
+
+### 42:16-25
 *(anchor: SIR.42:16)*
 
-It is likely St. Paul had this passage in mind when he wrote Rom 11:33-36. ### 42:17
+It is likely St. Paul had this passage in mind when he wrote Rom 11:33-36. 
+
+### 42:17
 *(anchor: SIR.42:17)*
 
 Not even the greatest of saints or angels can declare all the wonders of God that
 
-stand firm as a testimony to His glory. ### 42:18
+stand firm as a testimony to His glory. 
+
+### 42:18
 *(anchor: SIR.42:18)*
 
 The word abyss means "a bottomless pit" and speaks of the infinite and
@@ -1392,23 +1748,33 @@ unfathomed reaches of earth, space, and all creation. The human heart is placed
 
 alongside the abyss since it too contains a universe that only the Most High can know
 
-and fathom. ### 42:20
+and fathom. 
+
+### 42:20
 *(anchor: SIR.42:20)*
 
-The Lord Jesus Christ elaborated on this thought (Mt 12:31-37). ### 43:1
+The Lord Jesus Christ elaborated on this thought (Mt 12:31-37). 
+
+### 43:1
 *(anchor: SIR.43:1)*
 
 In the Greek this verse is comprised of all nouns except for one preposition: a
 
-challenge to translate. It is a unique doxology to the beauty of the earth and heavens. ### 43:2-5
+challenge to translate. It is a unique doxology to the beauty of the earth and heavens. 
+
+### 43:2-5
 *(anchor: SIR.43:2)*
 
-A similar teaching on the sun appears in Ps 18:5-7. ### 43:11-12
+A similar teaching on the sun appears in Ps 18:5-7. 
+
+### 43:11-12
 *(anchor: SIR.43:11)*
 
 The rainbow is like a jewel that adorns creation. In Revelation, a rainbow
 
-appears "like an emerald" around the throne of God (Rev 4:3). ### 43:13-26
+appears "like an emerald" around the throne of God (Rev 4:3). 
+
+### 43:13-26
 *(anchor: SIR.43:13)*
 
 Note the action words that describe how God relates to His creation: By His
@@ -1423,7 +1789,9 @@ pours (v. 19); He consumes (v. 21); by His reasoning (v. 23); by His Word (v. 26
 
 St. Paul makes a similar statement (Col 1:17). By the Living Word all things were
 
-created, and in Him all things hold together, or consist. ### 43:27
+created, and in Him all things hold together, or consist. 
+
+### 43:27
 *(anchor: SIR.43:27)*
 
 This verse declares the great truth of God's supreme omnipresence. He permeates
@@ -1436,24 +1804,32 @@ We have a choice: Either we give glory to God for all His works, or we shrink
 
 back in unbelief. King David wrote, "The fool said in his heart, 'There is no God'" (Ps
 
-52:1). ### 44:1
+52:1). 
+
+### 44:1
 *(anchor: SIR.44:1)*
 
 This begins a section of Sirach that continues to the end of ch. 50, giving honor to the
 
-famous men of the OT in the same spirit as Heb 11. ### 44:3-15
+famous men of the OT in the same spirit as Heb 11. 
+
+### 44:3-15
 *(anchor: SIR.44:3)*
 
 The author of Heb 11:34-38 perhaps borrowed his thoughts from this passage of
 
-Sirach. ### 44:17
+Sirach. 
+
+### 44:17
 *(anchor: SIR.44:17)*
 
 Noah by his righteous life became a propitiation for the whole human race. That
 
 is, a special mercy was given by God in the form of a covenant: He would never again
 
-destroy the human race by a flood. ### 44:21
+destroy the human race by a flood. 
+
+### 44:21
 *(anchor: SIR.44:21)*
 
 This oath by God to bless the seed of Abraham is fulfilled in and through the
@@ -1462,14 +1838,18 @@ Church. The Church embraces all nations and fulfills the role of ancient Israel 
 
 prophecies of the OT (see note on 36:17; Mt 23:38; Lk 21:20-24). The River is the
 
-Euphrates. ### 45:1-4
+Euphrates. 
+
+### 45:1-4
 *(anchor: SIR.45:1)*
 
 Moses, of blessed memory, is honored among the saints. He brings great
 
 encouragement to all believers because on many occasions he stumbled (Ex 4:13-15; 5:22, 23; Nm 20:11, 12 are but a few instances), yet he repented, persevered, and followed
 
-God. The Lord honored him (v. 3) and sanctified him (v. 4). ### 45:7-13
+God. The Lord honored him (v. 3) and sanctified him (v. 4). 
+
+### 45:7-13
 *(anchor: SIR.45:7)*
 
 Aaron was vested with an adornment of glory (v. 7). Similarly, the Christian
@@ -1480,26 +1860,34 @@ Levitical priesthood has passed away. Rather, the priest is vested because he re
 
 the King of kings. He is to be the image of Christ, no longer common but ordained (Jn
 
-15:16). ### 45:15-16
+15:16). 
+
+### 45:15-16
 *(anchor: SIR.45:15)*
 
 Only if one understands the Church as set forth by the apostles can these verses
 
 be completely fulfilled. Thus, the seed of Aaron continues in the priesthood of the Church
 
-in the same way that all true believers are the seed of Abraham. ### 45:22
+in the same way that all true believers are the seed of Abraham. 
+
+### 45:22
 *(anchor: SIR.45:22)*
 
 This passage has encouraged the hearts of God's servants down through the
 
 centuries. Most have served with low pay and many died in poverty. But the eternal
 
-promise is that the Lord Himself will be their true inheritance. ### 45:26
+promise is that the Lord Himself will be their true inheritance. 
+
+### 45:26
 *(anchor: SIR.45:26)*
 
 Here Ben Sirach pauses to pray a benediction on God's priests as they serve His
 
-people. ### 46:1
+people. 
+
+### 46:1
 *(anchor: SIR.46:1)*
 
 , 2
@@ -1512,24 +1900,32 @@ his hands, holding the rod of God in them. Due to Moses' fatigue, it became nece
 
 for Aaron and Hur to support his arms until the battle ended. The name Joshua means
 
-savior. ### 46:3
+savior. 
+
+### 46:3
 *(anchor: SIR.46:3)*
 
 These enemies were idol-worshipping tribes that engaged in evil practices such as the
 
 sacrifice of babies. They were worthy of God's judgment. Thus, Joshua led the wars for
 
-the Lord. ### 46:4
+the Lord. 
+
+### 46:4
 *(anchor: SIR.46:4)*
 
 The sun being held back refers to the miracle of the sun moving from east to west
 
 being interrupted in a supernatural manner until the battle led by Joshua could be fought
 
-to a successful conclusion (see Jos 10:12, 13). ### 46:6
+to a successful conclusion (see Jos 10:12, 13). 
+
+### 46:6
 *(anchor: SIR.46:6)*
 
-For the battle at the descent of Beth Horon, see Jos 10:11. ### 46:12
+For the battle at the descent of Beth Horon, see Jos 10:11. 
+
+### 46:12
 *(anchor: SIR.46:12)*
 
 Such passages as this and 49:10 make it clear that Sirach reflects a widely held
@@ -1538,12 +1934,16 @@ ancient belief in the resurrection. Since 49:10 is in the section on Ezekiel, it
 
 clear Ben Sirach had in mind Ezk 37:1-14, which predicts the resurrection of the faithful
 
-of Israel. ### 46:19
+of Israel. 
+
+### 46:19
 *(anchor: SIR.46:19)*
 
 The Christian concept of death is that the body will sleep until the resurrection, but
 
-the spirit, or the soul, is present with the Lord. ### 46:20
+the spirit, or the soul, is present with the Lord. 
+
+### 46:20
 *(anchor: SIR.46:20)*
 
 Blessed Augustine, in an article entitled "Why We Repudiate Arts of Divination,"
@@ -1560,34 +1960,46 @@ the soul."
 
 The prophet Nathan reproved King David for his adultery with Bathsheba and for
 
-having her husband killed in battle (2Kg 12:1-15). ### 47:2
+having her husband killed in battle (2Kg 12:1-15). 
+
+### 47:2
 *(anchor: SIR.47:2)*
 
 This is called both the thank offering and peace offering described in Lv 3. The fat
 
 of the offering was to be burned on the altar; the breast and right shoulder of the lamb or
 
-goat were to be given to the priest. ### 47:6
+goat were to be given to the priest. 
+
+### 47:6
 *(anchor: SIR.47:6)*
 
 See 1Kg 18:2 for this occasion when the women sang this refrain after the defeat of
 
-the Philistines, when David killed Goliath. ### 47:8
+the Philistines, when David killed Goliath. 
+
+### 47:8
 *(anchor: SIR.47:8)*
 
 Undoubtedly these practices of David are what made him a man "after His (God's)
 
-own heart" (1Kg 13:13). ### 47:9
+own heart" (1Kg 13:13). 
+
+### 47:9
 *(anchor: SIR.47:9)*
 
-, 10 The renowned musical and liturgical abilities of David are clearly seen here. ### 47:11
+, 10 The renowned musical and liturgical abilities of David are clearly seen here. 
+
+### 47:11
 *(anchor: SIR.47:11)*
 
 The covenant God made with David (2Kg 7:16) is that He would establish the
 
 throne of David forever. This promise is fulfilled in our Lord Jesus Christ, who is the
 
-seed of David according to the flesh and the eternal King of heaven. ### 47:13
+seed of David according to the flesh and the eternal King of heaven. 
+
+### 47:13
 *(anchor: SIR.47:13)*
 
 This sanctuary or temple, which had been rebuilt and refurbished by King Herod, was standing at the time of Christ. But Jesus predicted it would be utterly destroyed and
@@ -1596,14 +2008,18 @@ not one stone would be left upon another (Mt 24:2). This prophecy was fulfilled 
 
 Roman invaders in AD 70. The sanctuary that will last forever, and which replaces the
 
-former one, is the New Jerusalem, the Church of the Living God (see also Mt 23:38, 39). ### 47:19-22
+former one, is the New Jerusalem, the Church of the Living God (see also Mt 23:38, 39). 
+
+### 47:19-22
 *(anchor: SIR.47:19)*
 
 After being given great wisdom, fame, and wealth by God, Solomon
 
 compromised and brought disgrace (v. 20) on it all by his enslavement to sexual
 
-passions. But God, in His great mercy, did not abandon (v. 22) David's lineage. Ultimately, Christ was born of the seed of David (v. 22). ### 47:23-25
+passions. But God, in His great mercy, did not abandon (v. 22) David's lineage. Ultimately, Christ was born of the seed of David (v. 22). 
+
+### 47:23-25
 *(anchor: SIR.47:23)*
 
 Due to his passions, and in direct disobedience to God, Solomon took many
@@ -1622,14 +2038,18 @@ Benjamin. Jeroboam led Israel into great sin through the worship of idols (see 3
 
 kingdom. These people were never heard from again, and became known as the ten lost
 
-tribes of Israel. ### 48:1
+tribes of Israel. 
+
+### 48:1
 *(anchor: SIR.48:1)*
 
 Elijah was a great prophet, a powerful man of faith and prayer. His great fault was
 
 his fear of the wicked Jezebel--most remarkable since he had been so fearless with her
 
-evil husband, King Ahab (see 3Kg 18:1-19:10). ### 48:5
+evil husband, King Ahab (see 3Kg 18:1-19:10). 
+
+### 48:5
 *(anchor: SIR.48:5)*
 
 This raising of the dead refers to the son of the widow of Zarephath (see 3Kg 17:1-
@@ -1638,10 +2058,14 @@ This raising of the dead refers to the son of the widow of Zarephath (see 3Kg 17
 
 to the Most High for the child's life to be restored. Orthodox Christians see in this a
 
-foreshadowing of prayer to the Holy Trinity: Father, Son, and Holy Spirit. ### 48:6
+foreshadowing of prayer to the Holy Trinity: Father, Son, and Holy Spirit. 
+
+### 48:6
 *(anchor: SIR.48:6)*
 
-Apparently a reference to King Ahaziah (see 4Kg 1:2-17). ### 48:7-8
+Apparently a reference to King Ahaziah (see 4Kg 1:2-17). 
+
+### 48:7-8
 *(anchor: SIR.48:7)*
 
 The kings anointed by Elijah were Hazael and Jehu (see 3Kg 19:15, 16). The only
@@ -1650,7 +2074,9 @@ prophet anointed by Elijah who is mentioned by name is Elisha. But since there w
 
 least 100 prophets who had been protected by Obadiah from the massacre carried out by
 
-Jezebel, it can be assumed that Elijah anointed several or all of them (see 3Kg 18:3, 4). ### 48:11
+Jezebel, it can be assumed that Elijah anointed several or all of them (see 3Kg 18:3, 4). 
+
+### 48:11
 *(anchor: SIR.48:11)*
 
 Ben Sirach is saying that since Elijah did not die but was caught up into heaven by a
@@ -1659,7 +2085,9 @@ whirlwind, then all who fell asleep in the love of God since Elijah's time will 
 
 Christians, we know our resurrection is possible only because of Christ, who rose from
 
-the dead. ### 48:12
+the dead. 
+
+### 48:12
 *(anchor: SIR.48:12)*
 
 Elijah was covered by the whirlwind: "Was covered by" also means "was
@@ -1674,7 +2102,9 @@ Elisha's dead body prophesied in the sense that it worked the miracle of a dead
 
 man being restored to life when he was hastily placed in the tomb on Elisha's bones (see
 
-4Kg 13:21). The Bible teaches there is power in holy relics. ### 48:17
+4Kg 13:21). The Bible teaches there is power in holy relics. 
+
+### 48:17
 *(anchor: SIR.48:17)*
 
 In addition to cisterns, Hezekiah had a tunnel constructed through hard rock to
@@ -1683,7 +2113,9 @@ allow the water of the Gihon spring to flow into the pool of Siloam. Archeologis
 
 discovered Hebrew words carved in the wall of the tunnel, celebrating its completion in
 
-the time of Hezekiah's reign as king (see 2Ch 32:2-4). ### 48:18-22
+the time of Hezekiah's reign as king (see 2Ch 32:2-4). 
+
+### 48:18-22
 *(anchor: SIR.48:18)*
 
 Rabshakeh (v. 18) was an Assyrian title, probably meaning "chief of staff" or
@@ -1696,15 +2128,21 @@ Jerusalem to him. Hezekiah turned to the Lord in repentance and sent for guidanc
 
 Isaiah. They were rescued from Sennacharib, who ultimately died (see 4Kg 18:13-
 
-19:37). The angel (v. 21) destroyed 185,000 of Sennacharib's soldiers (see 4Kg 19:35). ### 48:23
+19:37). The angel (v. 21) destroyed 185,000 of Sennacharib's soldiers (see 4Kg 19:35). 
+
+### 48:23
 *(anchor: SIR.48:23)*
 
-See 4Kg 20. ### 48:25
+See 4Kg 20. 
+
+### 48:25
 *(anchor: SIR.48:25)*
 
 Isaiah's prophecies concerning the coming of Messiah and the rise of the Church
 
-are more precise than those of any other prophet of the OT. ### 49:6
+are more precise than those of any other prophet of the OT. 
+
+### 49:6
 *(anchor: SIR.49:6)*
 
 , 7 The sad prophecies of Jeremiah were a great burden to him. On one occasion he
@@ -1713,7 +2151,9 @@ determined not to speak them, but could not hold them back (Jer 20:9). His proph
 
 about the destruction and burning of Jerusalem were completely fulfilled (see Jer 38:14-
 
-39:10; 52:12, 13; 4Kg 25:1-21). ### 49:8-9
+39:10; 52:12, 13; 4Kg 25:1-21). 
+
+### 49:8-9
 *(anchor: SIR.49:8)*
 
 In spite of the hardships and sorrows of living with his people during the
@@ -1724,14 +2164,18 @@ the people of Israel to their land. Verse 9 likely refers to Ezk 38:22, which pr
 
 pouring out wrath upon the attackers of a restored Israel. God will do good to those who
 
-walk in the right paths. ### 49:14-15
+walk in the right paths. 
+
+### 49:14-15
 *(anchor: SIR.49:14)*
 
 Enoch's being taken up from the earth by God certainly plants the seed of the
 
 doctrine of the resurrection. One could argue that Joseph's concern for the removal of his
 
-bones from Egypt (v. 15) to the Promised Land connotes a hope for a future resurrection. ### 50:1
+bones from Egypt (v. 15) to the Promised Land connotes a hope for a future resurrection. 
+
+### 50:1
 *(anchor: SIR.50:1)*
 
 Simon II was high priest in about 220-196 BC and would have been known to Ben
@@ -1742,20 +2186,28 @@ the security wall surrounding it. Other important projects, such as building a h
 
 cistern and strengthening the city of Jerusalem against siege, were the products of his
 
-leadership. ### 50:5
+leadership. 
+
+### 50:5
 *(anchor: SIR.50:5)*
 
 This refers to processions around the temple by the people during high holy feasts. The same is practiced in the Orthodox Church to this day. Coming from behind the veil
 
-refers to the high priest coming out of the Holy of Holies on the Day of Atonement. ### 50:15
+refers to the high priest coming out of the Holy of Holies on the Day of Atonement. 
+
+### 50:15
 *(anchor: SIR.50:15)*
 
-The Greek word for King of all is found nowhere else in the LXX. ### 50:16
+The Greek word for King of all is found nowhere else in the LXX. 
+
+### 50:16
 *(anchor: SIR.50:16)*
 
 The trumpets of hammered work would signify finely made trumpets of expert
 
-craftsmanship. ### 50:21
+craftsmanship. 
+
+### 50:21
 *(anchor: SIR.50:21)*
 
 This concludes the description of the Day of Atonement service, which points to
@@ -1768,7 +2220,9 @@ that the author was a personal acquaintance of Simon. This would also explain wh
 
 much space in the book is devoted to a high priest who did not hold the same rank and
 
-prestige in Hebrew history as the famous men mentioned in chs. 44-49. ### 50:22-24
+prestige in Hebrew history as the famous men mentioned in chs. 44-49. 
+
+### 50:22-24
 *(anchor: SIR.50:22)*
 
 This benediction beautifully expresses the mercy of God and the gladness of
@@ -1779,7 +2233,9 @@ heart He gives us. Finally we see hope for redemption (v. 24). The word redeem m
 
 hope is accomplished through the life, death, and Resurrection of Jesus Christ (see Eph
 
-1:7-14; Rom 8:22, 23). ### 50:25-26
+1:7-14; Rom 8:22, 23). 
+
+### 50:25-26
 *(anchor: SIR.50:25)*
 
 The mountain is a district in the Edomite Mountains on the east side of the
@@ -1796,7 +2252,9 @@ temple on Mt. Gerizim until this day. Shechem, modern Nablus, was the small town
 
 where Jesus encountered the woman at the well known to us as St. Photini (see Jn 4:1-
 
-43). ### 50:27-29
+43). 
+
+### 50:27-29
 *(anchor: SIR.50:27)*
 
 This is a brief biographical reference to the author of the Wisdom of Ben Sirach; Jesus, son of Sirach, son of Eleazar of Jerusalem. These words were added by the
@@ -1811,14 +2269,18 @@ the translator.)
 
 This begins two closing psalms: (1) a prayer of thanks (vv. 1-12); (2) a poem
 
-expressing the author's love of Wisdom (vv. 13-30). ### 51:5-6
+expressing the author's love of Wisdom (vv. 13-30). 
+
+### 51:5-6
 *(anchor: SIR.51:5)*
 
 Apparently the unclean and unrighteous tongue refers to someone who lied
 
 about Ben Sirach to the king, nearly causing his death. Thus, this prayer is largely
 
-devoted to thanking God for saving him. ### 51:10
+devoted to thanking God for saving him. 
+
+### 51:10
 *(anchor: SIR.51:10)*
 
 The ancient Church saw the Father of my Lord as God the Father, and my Lord
@@ -1829,26 +2291,34 @@ my Lord, 'Sit at My right hand, / Until I make Your enemies the footstool of You
 
 (Ps 109:l). In quoting this the apostle Peter declared "my Lord" referred to Christ (Acts
 
-2:34, 35). ### 51:15
+2:34, 35). 
+
+### 51:15
 *(anchor: SIR.51:15)*
 
 From blossoms to ripening grapes indicates that Ben Sirach's ardent search for
 
 wisdom began early in his youth and continued to the time of this writing, when he was
 
-mature in age. ### 51:18
+mature in age. 
+
+### 51:18
 *(anchor: SIR.51:18)*
 
 Though uncreated wisdom is seen by the Church Fathers as the preincarnate Son
 
 of God, the Logos, nevertheless wisdom exists as a created attribute of man as well as a
 
-gift from God. Thus, Ben Sirach prayed for and received the gift of wisdom. ### 51:21
+gift from God. Thus, Ben Sirach prayed for and received the gift of wisdom. 
+
+### 51:21
 *(anchor: SIR.51:21)*
 
 When one is stirred to search for God and His good gifts with a sincere heart, one
 
-will never be disappointed. ### 51:25-26
+will never be disappointed. 
+
+### 51:25-26
 *(anchor: SIR.51:25)*
 
 Wisdom is near to us because Christ is near to us.

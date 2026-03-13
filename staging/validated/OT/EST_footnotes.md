@@ -30,20 +30,28 @@ Artaxerxes is imperfect, passionate, and self-indulgent. Nevertheless, by virtue
 
 his office and by reigning over many nations, he functions as a figure for God. The dignity
 
-of an earthly office is not diminished by the failings of the person holding it (see Jn 11:51; Acts 23:1-5). ### 1:7
+of an earthly office is not diminished by the failings of the person holding it (see Jn 11:51; Acts 23:1-5). 
+
+### 1:7
 *(anchor: EST.1:7)*
 
-The various cups were likely plunder from conquered nations. ### 1:12
+The various cups were likely plunder from conquered nations. 
+
+### 1:12
 *(anchor: EST.1:12)*
 
 Queen Vashti's refusal to attend the king's festival, being preoccupied with her own, serves as a warning to those who see themselves as followers of the King but whose heart
 
-is self-centered, as in Christ's parable of the wedding feast (Mt 22:1-14; Lk 14:15-24). ### 1:16
+is self-centered, as in Christ's parable of the wedding feast (Mt 22:1-14; Lk 14:15-24). 
+
+### 1:16
 *(anchor: EST.1:16)*
 
 As with Queen Vashti, our actions may have consequences that go far beyond
 
-ourselves. ### 1:22
+ourselves. 
+
+### 1:22
 *(anchor: EST.1:22)*
 
 Note that the king's decree was distributed to all people according to their own
@@ -52,21 +60,27 @@ language, so that all could understand and follow. This is why in the Orthodox C
 
 throughout the world it is imperative that the gospel be preached (Acts 2:4-11) and the
 
-liturgy be celebrated (1Co 14:1-25) in the language spoken by the people (see also 3:12). ### 2:1
+liturgy be celebrated (1Co 14:1-25) in the language spoken by the people (see also 3:12). 
+
+### 2:1
 *(anchor: EST.2:1)*
 
 After these words: The events in this chapter take place about four years after those
 
 in ch. 1 (compare 1:3 with 2:16). A war against Greece, in which Persia was soundly
 
-defeated, took place during this span of time. ### 2:7
+defeated, took place during this span of time. 
+
+### 2:7
 *(anchor: EST.2:7)*
 
 Mordecai's relation to Esther is that of both guardian and husband, a necessary social
 
 and legal arrangement and not unusual at the time. This would also be the relationship
 
-between Joseph and the Virgin Mary. In this situation, there was no sexual relationship, as demonstrated by Esther's virginity. ### 2:12
+between Joseph and the Virgin Mary. In this situation, there was no sexual relationship, as demonstrated by Esther's virginity. 
+
+### 2:12
 *(anchor: EST.2:12)*
 
 The twelve months were days of preparation and training. If these are the
@@ -75,24 +89,32 @@ preparations to visit an earthly king, all the more should the faithful prepare 
 
 Christ the King through prayer, fasting, and confession as we encounter Him in the
 
-services of the Church. ### 2:18
+services of the Church. 
+
+### 2:18
 *(anchor: EST.2:18)*
 
 Granted a release indicates a national holiday and a remission of taxes (see 10:1). The coronation banquet of seven days for a new queen would raise morale after the
 
-defeat in war. ### 2:20
+defeat in war. 
+
+### 2:20
 *(anchor: EST.2:20)*
 
 Though in a pagan palace, Esther did not change her manner of life nor cease
 
-to fear God. God calls us to faithfulness in whatever situation He places us. ### 2:23
+to fear God. God calls us to faithfulness in whatever situation He places us. 
+
+### 2:23
 *(anchor: EST.2:23)*
 
 The good will of Mordecai was recorded, but not yet rewarded. Faithfulness to
 
 God is never forgotten by the Lord, even if it appears to go unnoticed (Heb 6:10). The true
 
-reward is glorification, not in this life, but in the Kingdom to come (Heb 11:39, 40). ### 3:1-9
+reward is glorification, not in this life, but in the Kingdom to come (Heb 11:39, 40). 
+
+### 3:1-9
 *(anchor: EST.3:1)*
 
 The extreme animosity between Haman and Mordecai quite possibly is rooted in
@@ -101,10 +123,14 @@ an old tribal feud. Mordecai was a Benjamite (1:1a). According to the Hebrew tex
 
 was a descendant of Agag, whose nation was utterly destroyed by King Saul (1Kg 15:8), also a Benjamite. Haman sees the situation as an opportune time not only to destroy
 
-Mordecai, but to vengefully destroy all the Jews (v. 6). ### 3:7
+Mordecai, but to vengefully destroy all the Jews (v. 6). 
+
+### 3:7
 *(anchor: EST.3:7)*
 
-The month of Adar was eleven months away. Delays occur frequently in this book, giving time for the divine plan of God to unfold. ### 3:8
+The month of Adar was eleven months away. Delays occur frequently in this book, giving time for the divine plan of God to unfold. 
+
+### 3:8
 *(anchor: EST.3:8)*
 
 They disregard the king's laws: Haman's accusation against the Jews is the same
@@ -237,15 +263,21 @@ the king himself, just as Christ fully shares in the divinity of the Father (see
 
 This is Mordecai's second journey through the city. The first journey was in sackcloth
 
-and ashes (4:1), but this one is in glory and honor. ### 7:1
+and ashes (4:1), but this one is in glory and honor. 
+
+### 7:1
 *(anchor: EST.7:1)*
 
 Not everything we need must be gained immediately! In this case a crucial deadline is
 
-approaching, but the queen is patient, awaiting the right time to gain the desired result, literally the salvation of her people. ### 7:4
+approaching, but the queen is patient, awaiting the right time to gain the desired result, literally the salvation of her people. 
+
+### 7:4
 *(anchor: EST.7:4)*
 
-Accuser (lit. "devil"): The unambiguous identity of Haman. ### 7:9
+Accuser (lit. "devil"): The unambiguous identity of Haman. 
+
+### 7:9
 *(anchor: EST.7:9)*
 
 , 10 St. Jerome writes, "Haman was burned in the fire of his own kindling."
@@ -262,7 +294,9 @@ revoke the death sentence against them. However, an order of a Persian king was
 
 irrevocable (see 1:19). Such an order can, however, be superseded with a new decree (v. 8), which is actually to the Jews' advantage. If the first decree could have been revoked, the Jews would have been saved, but their enemies would also have lived on to persecute
 
-them another day. This new decree makes possible the final destruction of these enemies. ### 8:12
+them another day. This new decree makes possible the final destruction of these enemies. 
+
+### 8:12
 *(anchor: EST.8:12)*
 
 a-12k
@@ -279,24 +313,32 @@ This new decree gives royal authority to the Jews to destroy those under Haman's
 
 influence and those who would destroy the Jews (see Eph 6:12). 8:12s Est 8:12s, 12t: Victory is already assumed, and deliverance will be received by both
 
-the Jews and the well-inclined Persians. ### 8:16
+the Jews and the well-inclined Persians. 
+
+### 8:16
 *(anchor: EST.8:16)*
 
 And there was light and gladness: This recalls the prophetic dream of Mordecai
 
-(1:1j). ### 8:17
+(1:1j). 
+
+### 8:17
 *(anchor: EST.8:17)*
 
 Gentiles were circumcised: It is remarkable how much power of persuasion there
 
-is in the works of God! ### 9:1-16
+is in the works of God! 
+
+### 9:1-16
 *(anchor: EST.9:1)*
 
 What is done in secret is shouted from the housetops (Lk 12:3). Haman's plot was
 
 made in secret, but now the bodies of his sons are exposed (v. 13) as was his secret plot
 
-(see also Lk 8:17). ### 9:19
+(see also Lk 8:17). 
+
+### 9:19
 *(anchor: EST.9:19)*
 
 It is often noted that the Hebrew version of Esther never mentions the name of God. Since the story was copied and sent to the Jews, both near and far, the name of God
@@ -309,7 +351,9 @@ that were widely circulated. Furthermore, with the help of Mordecai, Esther wrot
 
 her own account of the events (v. 30). Thus, there were at least three distinct accounts of
 
-this story. ### 9:25
+this story. 
+
+### 9:25
 *(anchor: EST.9:25)*
 
 These days were called Purim--on account of the lots (because in their
@@ -322,7 +366,9 @@ Persian or Assyrian and means lot. Thus, it was Haman's lot that established the
 
 the great Jewish celebration of Purim, which commemorates the deliverance recorded in
 
-this book. ### 10:3
+this book. 
+
+### 10:3
 *(anchor: EST.10:3)*
 
 a-3k

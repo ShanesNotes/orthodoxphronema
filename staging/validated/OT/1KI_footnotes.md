@@ -552,12 +552,16 @@ Ahab sold himself to do evil, which he committed by his own free will, for he wa
 
 not forced to sin by any necessity imposed on him by his human nature. Truly, like Ahab, we sell ourselves to commit sins by our own free choice, as St. Paul points out in Rom
 
-7:14. ### 20:25
+7:14. 
+
+### 20:25
 *(anchor: 1KI.20:25)*
 
 Nor did Ahab's wife Jezebel force Ahab to sin, although she led him astray. For
 
-Ahab followed his wife's advice because he willed it of his own free choice. In this choice, he was like Adam of old, who ate from the forbidden tree because he was deceived by Eve. ### 21:1-3
+Ahab followed his wife's advice because he willed it of his own free choice. In this choice, he was like Adam of old, who ate from the forbidden tree because he was deceived by Eve. 
+
+### 21:1-3
 *(anchor: 1KI.21:1)*
 
 The son of Hadad the king of Syria was an icon of covetousness: Your silver
@@ -568,7 +572,9 @@ Lord was opposed to him. But only the Lord can deliver us from king covetousness
 
 place, Jesus warns, "Take heed and beware of covetousness, for one's life does not consist
 
-in the abundance of the things he possesses" (Lk 12:15). ### 21:23
+in the abundance of the things he possesses" (Lk 12:15). 
+
+### 21:23
 *(anchor: 1KI.21:23)*
 
 The king of Syria was an icon of a heretic, for his servants convinced him, saying, The God of Israel is a god of the mountains, and not a god of the valleys. For
@@ -579,7 +585,9 @@ creation. To refute this reasoning, the Lord delivered Israel from the king (v. 
 
 circumscribes His creation, yet He is present within it, seeking to save the lost. For
 
-although He is uncontained by creation, He became incarnate to save it. ### 22:10
+although He is uncontained by creation, He became incarnate to save it. 
+
+### 22:10
 *(anchor: 1KI.22:10)*
 
 The king of Israel and the king of Judah were sitting on their thrones, but the

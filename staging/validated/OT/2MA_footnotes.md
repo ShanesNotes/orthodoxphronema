@@ -18,10 +18,14 @@ peace. Though written entirely in Greek, 2 Maccabees employs both words. This is
 
 letter from Jews in Jerusalem to Jews in Egypt concerning the celebration of
 
-Hanukkah. ### 1:7
+Hanukkah. 
+
+### 1:7
 *(anchor: 2MA.1:7)*
 
-The date refers to the year 143 BC (see 1Mc 10:67). ### 1:9
+The date refers to the year 143 BC (see 1Mc 10:67). 
+
+### 1:9
 *(anchor: 2MA.1:9)*
 
 The true Feast of Tabernacles (or Booths) was an autumn event wherein water and
@@ -36,43 +40,61 @@ or the Feast of Lights. During this feast torches were lit in the temple, and ar
 
 the people sang and danced. It was the feast (see Jn 7:2) at which Jesus stood and said, "I
 
-am the light of the world" (Jn 8:12). The date identified is 124 BC. ### 1:10
+am the light of the world" (Jn 8:12). The date identified is 124 BC. 
+
+### 1:10
 *(anchor: 2MA.1:10)*
 
 The section that follows (1:11-2:18) is a second letter from the Jews in Jerusalem to
 
-the Jewish teacher and scholar Aristobulus, who lived in Egypt. ### 1:13
+the Jewish teacher and scholar Aristobulus, who lived in Egypt. 
+
+### 1:13
 *(anchor: 2MA.1:13)*
 
-Nanea is a pagan goddess, probably Aphrodite. ### 1:16
+Nanea is a pagan goddess, probably Aphrodite. 
+
+### 1:16
 *(anchor: 2MA.1:16)*
 
 The author sees justice in divine retribution (3:27, 28; 9:28; 15:32, 33; see also 9:2
 
-and 1Mc 6:1-4). ### 1:18
+and 1Mc 6:1-4). 
+
+### 1:18
 *(anchor: 2MA.1:18)*
 
 It is noteworthy that an eighth day was added to this celebration (see Neh 8:13-18). This section of 2 Maccabees is referring to the feast of Hanukkah, which celebrates fire
 
-and light (see note at 1:9). ### 1:20
+and light (see note at 1:9). 
+
+### 1:20
 *(anchor: 2MA.1:20)*
 
 The liquid is probably naphtha. Regardless, the story of the fire does not appear in
 
 Nehemiah, but in the rabbinical writings there is an account of a miracle wherein a
 
-small amount of oil burned for an extended period. ### 1:21
+small amount of oil burned for an extended period. 
+
+### 1:21
 *(anchor: 2MA.1:21)*
 
 The prophet Nehemiah was to rebuild the walls of Jerusalem that had been
 
-destroyed by fire (Neh 2:11-18). ### 1:24
+destroyed by fire (Neh 2:11-18). 
+
+### 1:24
 *(anchor: 2MA.1:24)*
 
-This begins the prayer of Nehemiah (1:24-2:18). See also Neh 1:5-11. ### 2:1
+This begins the prayer of Nehemiah (1:24-2:18). See also Neh 1:5-11. 
+
+### 2:1
 *(anchor: 2MA.2:1)*
 
-These records are unknown today. ### 2:5
+These records are unknown today. 
+
+### 2:5
 *(anchor: 2MA.2:5)*
 
 According to 3Kg 8:4, Solomon brought the ark as well as the tabernacle (or the
@@ -81,57 +103,83 @@ tent) and its contents to Jerusalem. Afterward, there is no further mention of t
 
 Scripture. There is a tradition in which Jeremiah took the ark from Jerusalem and hid it
 
-when the temple was destroyed in 587 BC. ### 2:10
+when the temple was destroyed in 587 BC. 
+
+### 2:10
 *(anchor: 2MA.2:10)*
 
-The two incidents are recorded in Lv 9:23, 24 and 2Ch 7:1. ### 2:19-23
+The two incidents are recorded in Lv 9:23, 24 and 2Ch 7:1. 
+
+### 2:19-23
 *(anchor: 2MA.2:19)*
 
 2 Maccabees is a shortened version of five books of Jewish history written by
 
 Jason of Cyrene (v. 23), which have been lost. This section explains the purpose of the
 
-book. ### 2:29-32
+book. 
+
+### 2:29-32
 *(anchor: 2MA.2:29)*
 
 An apologetic for the brevity of narrative (v. 31) or short summary of Jason's
 
-five books (2:19-23) by the author. ### 3:1
+five books (2:19-23) by the author. 
+
+### 3:1
 *(anchor: 2MA.3:1)*
 
-Onias III was high priest before 175 BC. He is mentioned in WSir 50:1. ### 3:2
+Onias III was high priest before 175 BC. He is mentioned in WSir 50:1. 
+
+### 3:2
 *(anchor: 2MA.3:2)*
 
-Throughout the book, the place is the temple. ### 3:3
+Throughout the book, the place is the temple. 
+
+### 3:3
 *(anchor: 2MA.3:3)*
 
 Seleucus IV ruled from 187-175 BC. The events of 3:1-4:6 take place under his reign. During this period, there is a complicated political struggle involving Egypt and Syria and
 
-the family of the high priest. ### 3:5
+the family of the high priest. 
+
+### 3:5
 *(anchor: 2MA.3:5)*
 
-Another famous son of Tarsus is the Apostle Paul (Acts 11:25, 26). ### 3:18
+Another famous son of Tarsus is the Apostle Paul (Acts 11:25, 26). 
+
+### 3:18
 *(anchor: 2MA.3:18)*
 
 Onias probably had withheld tax money, and the time of relative peace was drawing
 
-to an end. The entire city was being pulled into the turmoil. ### 3:20
+to an end. The entire city was being pulled into the turmoil. 
+
+### 3:20
 *(anchor: 2MA.3:20)*
 
 The people stretched out their hands to pray. Perhaps the earliest account of the
 
 lifting of hands for intercession is in Moses' role in Israel's victory over Amalek (Ex 17:8-
 
-13). St. Paul instructs the Church to pray "lifting up holy hands" (1Ti 2:8). ### 3:25
+13). St. Paul instructs the Church to pray "lifting up holy hands" (1Ti 2:8). 
+
+### 3:25
 *(anchor: 2MA.3:25)*
 
-The scene calls to mind the rider in Rev 6:2. ### 3:26
+The scene calls to mind the rider in Rev 6:2. 
+
+### 3:26
 *(anchor: 2MA.3:26)*
 
-This is reminiscent of the two angels in dazzling apparel in Lk 24:4 and Acts 1:10. ### 3:34
+This is reminiscent of the two angels in dazzling apparel in Lk 24:4 and Acts 1:10. 
+
+### 3:34
 *(anchor: 2MA.3:34)*
 
-The angel in Acts 5:19, 20 gives similar instructions. ### 4:7
+The angel in Acts 5:19, 20 gives similar instructions. 
+
+### 4:7
 *(anchor: 2MA.4:7)*
 
 Seleucus is replaced by Antiochus, who rules from 175-164 BC. Epiphanes means
@@ -144,82 +192,118 @@ Seleucus is replaced by Antiochus, who rules from 175-164 BC. Epiphanes means
 
 A talent is a weight, here in silver, equal to approximately 3000 shekels, or about
 
-$385. ### 4:10
+$385. 
+
+### 4:10
 *(anchor: 2MA.4:10)*
 
-The Greek way of life included the worship of pagan gods. ### 4:12
+The Greek way of life included the worship of pagan gods. 
+
+### 4:12
 *(anchor: 2MA.4:12)*
 
-This particular Greek cap is linked to the Greek god Hermes. ### 4:13
+This particular Greek cap is linked to the Greek god Hermes. 
+
+### 4:13
 *(anchor: 2MA.4:13)*
 
 Jason no longer kept the Mosaic Law, but instead foreign customs. Ethnic
 
-tradition must never take precedence over apostolic tradition in the Church. ### 4:17
+tradition must never take precedence over apostolic tradition in the Church. 
+
+### 4:17
 *(anchor: 2MA.4:17)*
 
-God gave the Law to Moses, and for a Jew not to obey divine laws was ungodly, equivalent to apostasy. ### 4:22
+God gave the Law to Moses, and for a Jew not to obey divine laws was ungodly, equivalent to apostasy. 
+
+### 4:22
 *(anchor: 2MA.4:22)*
 
-Phoenicia is on the Mediterranean coastline just north of modern-day Beirut, Lebanon. The ancient ruins of this kingdom still exist there. ### 4:26
+Phoenicia is on the Mediterranean coastline just north of modern-day Beirut, Lebanon. The ancient ruins of this kingdom still exist there. 
+
+### 4:26
 *(anchor: 2MA.4:26)*
 
 Evil divides. It picks allies only for the moment and is undermined when pride
 
 causes new rifts. Thus, Jesus warns, "Every city or house divided against itself will not
 
-stand" (Mt 12:25). ### 4:33
+stand" (Mt 12:25). 
+
+### 4:33
 *(anchor: 2MA.4:33)*
 
 In ancient days a safe place was provided for people in certain religious sites. This
 
 particular haven is a pagan temple dedicated to Greek gods. Daphne was a suburb
 
-outside of Antioch, Syria. ### 4:38
+outside of Antioch, Syria. 
+
+### 4:38
 *(anchor: 2MA.4:38)*
 
-Being stripped before being put to death added to the humiliation. ### 5:2
+Being stripped before being put to death added to the humiliation. 
+
+### 5:2
 *(anchor: 2MA.5:2)*
 
 Forty days is a biblical number of completion or fullness. The Flood lasted forty days
 
-and nights (Gn 7:12); Jonah declared Nineveh would be destroyed in forty days (Jon 3:4). ### 5:6
+and nights (Gn 7:12); Jonah declared Nineveh would be destroyed in forty days (Jon 3:4). 
+
+### 5:6
 *(anchor: 2MA.5:6)*
 
 One is reminded of Herod's destruction of the innocent children without mercy at
 
-the time of the birth of Jesus (Mt 2:16-18). ### 5:11
+the time of the birth of Jesus (Mt 2:16-18). 
+
+### 5:11
 *(anchor: 2MA.5:11)*
 
-The city here is Jerusalem. ### 5:15-20
+The city here is Jerusalem. 
+
+### 5:15-20
 *(anchor: 2MA.5:15)*
 
 Antiochus was permitted by God to carry out this insane desecration of the
 
 most holy temple because of the sins of the people. It was not just because Antiochus
 
-was bent on destruction, but because the Lord allowed it for the good of His people (vv. 17, 18). ### 5:19
+was bent on destruction, but because the Lord allowed it for the good of His people (vv. 17, 18). 
+
+### 5:19
 *(anchor: 2MA.5:19)*
 
 Because the Lord chose the nation Israel, the place (the temple) was located
 
-there. ### 5:25
+there. 
+
+### 5:25
 *(anchor: 2MA.5:25)*
 
-Jews did not work or take up arms on the Sabbath. ### 6:2-5
+Jews did not work or take up arms on the Sabbath. 
+
+### 6:2-5
 *(anchor: 2MA.6:2)*
 
 A pagan statue or altar (v. 5) was erected in the temple in Jerusalem and a sexual
 
 fertility cult was instituted. In addition, swine and other unfitting things (v. 4) were
 
-sacrificed in the temple. ### 6:7
+sacrificed in the temple. 
+
+### 6:7
 *(anchor: 2MA.6:7)*
 
-Dionysus is the pagan god of wine who rules over a celebration of drunkenness. ### 6:11
+Dionysus is the pagan god of wine who rules over a celebration of drunkenness. 
+
+### 6:11
 *(anchor: 2MA.6:11)*
 
-This is another example of the Jews piously keeping the seventh day, the Sabbath. In the same spirit, Christians are urged to assemble for worship (Heb 10:25). ### 6:12-16
+This is another example of the Jews piously keeping the seventh day, the Sabbath. In the same spirit, Christians are urged to assemble for worship (Heb 10:25). 
+
+### 6:12-16
 *(anchor: 2MA.6:12)*
 
 This short treatise on divine discipline is very similar to the teaching, "whom the
@@ -234,7 +318,9 @@ Eleazar is willing to die for God's holy laws (v. 28). This is a mystery to the
 
 pagan-minded, who only see blind fanaticism in the righteous. St. Paul explains why
 
-unbelievers do not understand (1Co 2:14). ### 7:1
+unbelievers do not understand (1Co 2:14). 
+
+### 7:1
 *(anchor: 2MA.7:1)*
 
 Like 6:18-31, ch. 7 bears a likeness to the early Christian accounts of the deaths of
@@ -245,159 +331,229 @@ story of the seven brothers and their mother. St. Cyprian, in a letter designed 
 
 strengthen one who was on the verge of martyrdom, wrote extensively of the martyrdom
 
-of each of these seven men and their mother. ### 7:6
+of each of these seven men and their mother. 
+
+### 7:6
 *(anchor: 2MA.7:6)*
 
 Shortly before his death, Moses sings to Israel in Dt 32. The quote here is from Dt
 
-32:36. ### 7:9
+32:36. 
+
+### 7:9
 *(anchor: 2MA.7:9)*
 
 The King of the world is the Son of God, who is the source of resurrection and
 
-eternal life for those who follow His commandments. ### 7:14
+eternal life for those who follow His commandments. 
+
+### 7:14
 *(anchor: 2MA.7:14)*
 
 In the Gospel of St. John, Jesus speaks of two paths for the resurrected: eternal life
 
-for those who have done good and condemnation for those who have done evil (Jn 5:29). ### 7:20
+for those who have done good and condemnation for those who have done evil (Jn 5:29). 
+
+### 7:20
 *(anchor: 2MA.7:20)*
 
 A basic hymn and prayer of the Orthodox Church is "Memory Eternal"--that the
 
 righteous departed will be kept in God's memory for all eternity. The mother and the
 
-seven brothers bring to mind the fullness of God's mercy and love. ### 7:22
+seven brothers bring to mind the fullness of God's mercy and love. 
+
+### 7:22
 *(anchor: 2MA.7:22)*
 
 It is the Spirit of God who gives breath and life to all people who come into the
 
-world (see Gn 2:7). ### 7:24-31
+world (see Gn 2:7). 
+
+### 7:24-31
 *(anchor: 2MA.7:24)*
 
 The tactics of Antiochus were often used by executioners to tempt Christian
 
-martyrs to reject Christ. ### 7:28
+martyrs to reject Christ. 
+
+### 7:28
 *(anchor: 2MA.7:28)*
 
 That God created the universe out of nothing is a fundamental teaching of the
 
-Holy Scriptures (Gn 1:1; also see Heb 11:3). ### 7:29
+Holy Scriptures (Gn 1:1; also see Heb 11:3). 
+
+### 7:29
 *(anchor: 2MA.7:29)*
 
-The mother clearly confesses the bodily resurrection from the dead. ### 7:37-38
+The mother clearly confesses the bodily resurrection from the dead. 
+
+### 7:37-38
 *(anchor: 2MA.7:37)*
 
 While condemning King Antiochus' actions, the youngest brother also hopes that
 
-he will eventually repent and confess that He alone is God. ### 8:1-7
+he will eventually repent and confess that He alone is God. 
+
+### 8:1-7
 *(anchor: 2MA.8:1)*
 
 The lowest point of the book has been reached, and now the people of Israel begin to
 
-revolt against the Gentiles under the leadership of Judas Maccabeus. ### 8:16
+revolt against the Gentiles under the leadership of Judas Maccabeus. 
+
+### 8:16
 *(anchor: 2MA.8:16)*
 
 The revolt gains momentum and the early successes attract six thousand Jews, who
 
-form an army in order to enter full-scale warfare against the Gentiles. ### 8:23
+form an army in order to enter full-scale warfare against the Gentiles. 
+
+### 8:23
 *(anchor: 2MA.8:23)*
 
 The outmanned army of Jews with its watchword is not unlike the army of the
 
 Emperor Constantine, who fought in the name of Christ to defeat a superior foe in the
 
-early fourth century. ### 8:26-27
+early fourth century. 
+
+### 8:26-27
 *(anchor: 2MA.8:26)*
 
-Even in the heat of battle, keeping the Sabbath took precedence over all else. ### 9:8
+Even in the heat of battle, keeping the Sabbath took precedence over all else. 
+
+### 9:8
 *(anchor: 2MA.9:8)*
 
 There is a song of peace in Isaiah wherein no one but the Lord can weigh the high
 
 mountains (Is 40:12); but Antiochus is so absorbed in superhuman arrogance he is
 
-seen as making himself equal to God (see 9:12). ### 9:9
+seen as making himself equal to God (see 9:12). 
+
+### 9:9
 *(anchor: 2MA.9:9)*
 
-Note that Herod was inflicted with a similar condition (Acts 12:23). ### 9:11-18
+Note that Herod was inflicted with a similar condition (Acts 12:23). 
+
+### 9:11-18
 *(anchor: 2MA.9:11)*
 
 Antiochus' repentance is a classic case of too little too late. "It is a fearful thing to
 
-fall into the hands of the living God" (Heb 10:31). ### 10:5
+fall into the hands of the living God" (Heb 10:31). 
+
+### 10:5
 *(anchor: 2MA.10:5)*
 
 The twenty-fifth of Chislev on the Hebrew calendar corresponds with December
 
 25, bringing to mind the coming of the Son of God in the flesh for the purification of
 
-mankind. ### 10:6
+mankind. 
+
+### 10:6
 *(anchor: 2MA.10:6)*
 
 The Feast of Tabernacles is a September Jewish feast, mentioned in Lv 23:43 as
 
 the Feast of Booths, when the Jews would live in booths constructed out of palm
 
-branches. ### 10:7
+branches. 
+
+### 10:7
 *(anchor: 2MA.10:7)*
 
-The scene is reminiscent of Palm Sunday (Jn 12:13). ### 10:10
+The scene is reminiscent of Palm Sunday (Jn 12:13). 
+
+### 10:10
 *(anchor: 2MA.10:10)*
 
 Antiochus Eupator inherits the kingdom in 9:25. He is a young boy who reigns
 
-for only two years before being murdered (see 14:1, 2; 1Mc 7:34). ### 10:29
+for only two years before being murdered (see 14:1, 2; 1Mc 7:34). 
+
+### 10:29
 *(anchor: 2MA.10:29)*
 
-See Rev 9:17. ### 10:38
+See Rev 9:17. 
+
+### 10:38
 *(anchor: 2MA.10:38)*
 
-The Jews begin (10:16) and end their task in prayer. ### 11:3
+The Jews begin (10:16) and end their task in prayer. 
+
+### 11:3
 *(anchor: 2MA.11:3)*
 
 It was a pagan Greek practice to sell the high priesthood annually in order to raise
 
-money for the government. ### 11:8
+money for the government. 
+
+### 11:8
 *(anchor: 2MA.11:8)*
 
-See 3:25. ### 11:16
+See 3:25. 
+
+### 11:16
 *(anchor: 2MA.11:16)*
 
 The name of Judas Maccabeus is conspicuous in its absence from these letters, an
 
-obvious snub by Lysias. ### 11:21
+obvious snub by Lysias. 
+
+### 11:21
 *(anchor: 2MA.11:21)*
 
-December, 164 BC. ### 12:2
+December, 164 BC. 
+
+### 12:2
 *(anchor: 2MA.12:2)*
 
-Timothy: See 8:30-33. ### 12:8
+Timothy: See 8:30-33. 
+
+### 12:8
 *(anchor: 2MA.12:8)*
 
-Jamnia is just south of Joppa. ### 12:15
+Jamnia is just south of Joppa. 
+
+### 12:15
 *(anchor: 2MA.12:15)*
 
-See Jos 6:1-21. ### 12:22
+See Jos 6:1-21. 
+
+### 12:22
 *(anchor: 2MA.12:22)*
 
-A manifestation of God, who sees all things. ### 12:31
+A manifestation of God, who sees all things. 
+
+### 12:31
 *(anchor: 2MA.12:31)*
 
 This is a wheat harvest feast celebrated seven weeks after Passover when men were
 
-required to be present in Jerusalem. ### 12:32
+required to be present in Jerusalem. 
+
+### 12:32
 *(anchor: 2MA.12:32)*
 
-Pentecost is used here as another name for the Feast of Weeks. ### 12:40
+Pentecost is used here as another name for the Feast of Weeks. 
+
+### 12:40
 *(anchor: 2MA.12:40)*
 
-These tokens are pagan charms that are idolatrous to the Jews. ### 12:42
+These tokens are pagan charms that are idolatrous to the Jews. 
+
+### 12:42
 *(anchor: 2MA.12:42)*
 
 This is a clear statement that the righteous Jews prayed for the departed so that
 
-the sin they had committed might be blotted out. ### 12:43-44
+the sin they had committed might be blotted out. 
+
+### 12:43-44
 *(anchor: 2MA.12:43)*
 
 It is hope in the resurrection of the departed that forms the basis for prayers
@@ -406,86 +562,122 @@ for them. In Christ all are alive. The power of these verses clearly indicates t
 
 belief the Jews had in both the resurrection and the power of prayer for those gone before
 
-us to their rest. ### 12:45
+us to their rest. 
+
+### 12:45
 *(anchor: 2MA.12:45)*
 
 Judas Maccabeus leads the Jews in praying for the release of their compatriots who
 
-had sinned. ### 13:4
+had sinned. 
+
+### 13:4
 *(anchor: 2MA.13:4)*
 
-The King of kings is the Eternal Son and Word of God ( see Rev 19:13, 16). ### 13:12
+The King of kings is the Eternal Son and Word of God ( see Rev 19:13, 16). 
+
+### 13:12
 *(anchor: 2MA.13:12)*
 
 To pray in a prostrate position was a sign of great need to be freed from acts of
 
 sacrilege (see 3:15; 10:4). The fact that they made prostrations for three days and
 
-then arose reminds us of the third-day resurrection of Jesus Christ. ### 14:1
+then arose reminds us of the third-day resurrection of Jesus Christ. 
+
+### 14:1
 *(anchor: 2MA.14:1)*
 
 This is about the year 161 BC. The invaders kill both Antiochus and Lysias (see 1Mc
 
-7:2-4). ### 14:4
+7:2-4). 
+
+### 14:4
 *(anchor: 2MA.14:4)*
 
 By offering the crown of gold Alcimus concedes that Demetrius is the new king, and the palm branch is an emblem of his victory. Our Lord is offered palm branches in
 
-Jerusalem emblematic of His Kingship (Jn 12:13). ### 14:6-10
+Jerusalem emblematic of His Kingship (Jn 12:13). 
+
+### 14:6-10
 *(anchor: 2MA.14:6)*
 
 The parallels between Alcimus and Judas Iscariot are noteworthy. Alcimus
 
-attempts to destroy Judas Maccabeus as Judas Iscariot betrays Jesus. ### 14:15
+attempts to destroy Judas Maccabeus as Judas Iscariot betrays Jesus. 
+
+### 14:15
 *(anchor: 2MA.14:15)*
 
 Sprinkling earth on the head is a sign of humility and a recognition of God the
 
-Creator (see Gn 3:19 and also Jos 7:6). ### 14:33
+Creator (see Gn 3:19 and also Jos 7:6). 
+
+### 14:33
 *(anchor: 2MA.14:33)*
 
 Since the Jews had recent memory of the cult of Dionysus, this oath would have
 
-had profound impact (see 6:7). ### 14:35-36
+had profound impact (see 6:7). 
+
+### 14:35-36
 *(anchor: 2MA.14:35)*
 
-This petition reflects the traditional patterns of Jewish liturgical prayer. ### 15:1
+This petition reflects the traditional patterns of Jewish liturgical prayer. 
+
+### 15:1
 *(anchor: 2MA.15:1)*
 
-Nicanor was aware the Jews would not fight on the Sabbath. ### 15:2
+Nicanor was aware the Jews would not fight on the Sabbath. 
+
+### 15:2
 *(anchor: 2MA.15:2)*
 
 These Jews were conscripted into Nicanor's army and wished to keep the Sabbath
 
-(see Ex 20:8-11). ### 15:12
+(see Ex 20:8-11). 
+
+### 15:12
 *(anchor: 2MA.15:12)*
 
-Onias is the high priest recorded in 3:1-4:1. ### 15:14
+Onias is the high priest recorded in 3:1-4:1. 
+
+### 15:14
 *(anchor: 2MA.15:14)*
 
 The Jews believed departed saints like Jeremiah were alive before the general
 
 resurrection. This is clearly revealed in the New Testament when Moses and Elijah
 
-appear with Christ on Mt. Tabor (Mt 17:1-4). ### 15:18
+appear with Christ on Mt. Tabor (Mt 17:1-4). 
+
+### 15:18
 *(anchor: 2MA.15:18)*
 
-The Jews' main concern is to protect the temple (see 14:33). ### 15:22
+The Jews' main concern is to protect the temple (see 14:33). 
+
+### 15:22
 *(anchor: 2MA.15:22)*
 
-See 4Kg 19:35. ### 15:26
+See 4Kg 19:35. 
+
+### 15:26
 *(anchor: 2MA.15:26)*
 
 One of the prayers the Jews may have used in battle is Ps 68, the verses of which
 
 the Orthodox Church uses to begin Paschal Matins, Liturgy, and Vespers. They announce
 
-Christ's defeat of death and the devil. ### 15:30
+Christ's defeat of death and the devil. 
+
+### 15:30
 *(anchor: 2MA.15:30)*
 
 This is Nicanor's right arm, which he used to point at the temple sanctuary and
 
-threaten to level the altar and erect a shrine to Dionysus (see 14:33; 15:32). ### 15:39
+threaten to level the altar and erect a shrine to Dionysus (see 14:33; 15:32). 
+
+### 15:39
 *(anchor: 2MA.15:39)*
 
 Delights the ears indicates this work was meant to be read aloud.

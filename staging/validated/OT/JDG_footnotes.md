@@ -22,38 +22,50 @@ transition from the people under Joshua generally obeying God and experiencing v
 
 to their lapsing into idolatry and disobedience under the judges. Judah is a reference to
 
-the tribe. ### 1:7
+the tribe. 
+
+### 1:7
 *(anchor: JDG.1:7)*
 
 What I have done gives pause to remind us of the Last Judgment. Those who abuse
 
-others bring judgment on themselves. ### 1:11-15
+others bring judgment on themselves. 
+
+### 1:11-15
 *(anchor: JDG.1:11)*
 
 As Othniel conquered the City of Letters (or Books) to win Achsah as his wife, so
 
 Christ the Incarnate Word will come to conquer the mind and heart of mankind with His
 
-Gospel to win His Bride, the Church. ### 1:21
+Gospel to win His Bride, the Church. 
+
+### 1:21
 *(anchor: JDG.1:21)*
 
 Note the disobedience of Benjamin in contrast with the obedience of Judah and
 
 Simeon. If we do not secure victory over the enemies of sin and darkness in our lives, like
 
-the Jebusites they will remain to trouble us. ### 1:22-26
+the Jebusites they will remain to trouble us. 
+
+### 1:22-26
 *(anchor: JDG.1:22)*
 
 Bethel means "house of God." Luz means "light," and represents the light of
 
-Christ, which will spread to the Gentiles (Is 9:2). ### 1:27-36
+Christ, which will spread to the Gentiles (Is 9:2). 
+
+### 1:27-36
 *(anchor: JDG.1:27)*
 
 This passage is a preview of much of the Book of Judges: the chronicle of a job
 
 half done. The tribes of Israel would enter into battle against their enemies, but not drive
 
-them out completely (v. 28). ### 2:1-22
+them out completely (v. 28). 
+
+### 2:1-22
 *(anchor: JDG.2:1)*
 
 Gilgal (v. 1) signifies God's covenant with Israel (see Jos 5:2-9). Just as He left the
@@ -68,19 +80,25 @@ faithful out of hardship (see note on 3Kg 22:23). This pattern will repeat itsel
 
 disciplines Israel for idolatry and disobedience; (2) Israel cries out in repentance for
 
-God's help; (3) God provides another judge for deliverance. ### 3:1-6
+God's help; (3) God provides another judge for deliverance. 
+
+### 3:1-6
 *(anchor: JDG.3:1)*
 
 A list of enemy nations that remained in Canaan. Note that Israel intermarried with
 
-them and ultimately served their gods (v. 6). ### 3:7
+them and ultimately served their gods (v. 6). 
+
+### 3:7
 *(anchor: JDG.3:7)*
 
 They forgot the Lord: Without constant remembrance of the Lord in all thoughts, words, and deeds, man allows himself to become most vulnerable to the deceptions and
 
 accusations of the enemy. Of the Eucharist, Jesus said to do this "in remembrance of Me"
 
-(1Co 11:25). ### 3:9
+(1Co 11:25). 
+
+### 3:9
 *(anchor: JDG.3:9)*
 
 The word savior is a synonym for "judge."
@@ -91,22 +109,30 @@ The word savior is a synonym for "judge."
 
 The Spirit of the Lord strengthens Othniel, and there is peace for forty years. Similarly, Christ strengthens His Church and His people through baptism, sealed by the
 
-Holy Spirit. Those who look to the Lord God will gain victory over this fallen world. ### 3:12-13
+Holy Spirit. Those who look to the Lord God will gain victory over this fallen world. 
+
+### 3:12-13
 *(anchor: JDG.3:12)*
 
 Moab is east of the Jordan near the Dead Sea. Ammon and Amalek were
 
-neighboring tribes, historically at odds with Israel. The City of Palms is Jericho. ### 3:20
+neighboring tribes, historically at odds with Israel. The City of Palms is Jericho. 
+
+### 3:20
 *(anchor: JDG.3:20)*
 
-The upper summer chamber is a well-ventilated room on the flat roof. ### 4:1-3
+The upper summer chamber is a well-ventilated room on the flat roof. 
+
+### 4:1-3
 *(anchor: JDG.4:1)*
 
 Israel did evil, was oppressed, and cried out to the Lord. Sin brings all men under the
 
 heavy yoke of oppression and hardship--but this can also result in repentance. After
 
-twenty years Israel finally cried out to God for relief. ### 4:4
+twenty years Israel finally cried out to God for relief. 
+
+### 4:4
 *(anchor: JDG.4:4)*
 
 St. Ambrose comments on the story of Deborah, Barak, and Jael: "And so according to
@@ -121,24 +147,32 @@ the battle of faith and the victory of the Church." Deborah is one of three prop
 
 mentioned in the Old Testament, the other two being Miriam (Ex 15:20) and Huldah
 
-(2Kg 22:14). ### 4:9
+(2Kg 22:14). 
+
+### 4:9
 *(anchor: JDG.4:9)*
 
 Deborah prophesied victory, but warned Barak not to take credit, for the Lord will sell
 
-Sisera into the hand of a woman. ### 5:1-31
+Sisera into the hand of a woman. 
+
+### 5:1-31
 *(anchor: JDG.5:1)*
 
 As was often the custom after Israel's victories, a song or psalm (v. 3) was sung, recalling the details of the conflict. This is the lengthiest and most elaborate of the Old
 
 Testament victory songs, but perhaps the most famous is Moses' song in Ex 15:1-18
 
-celebrating deliverance from Egypt. ### 5:7
+celebrating deliverance from Egypt. 
+
+### 5:7
 *(anchor: JDG.5:7)*
 
 Just as Deborah was a mother . . . in Israel, so Mary, Mother of God, is also mother of
 
-the Church. They both sang songs of praise to the Lord (see Lk 1:46-55). ### 5:9
+the Church. They both sang songs of praise to the Lord (see Lk 1:46-55). 
+
+### 5:9
 *(anchor: JDG.5:9)*
 
 A great tribute to the leaders and the volunteers who freely sacrifice in service to
@@ -147,25 +181,35 @@ Israel. In the Divine Liturgy we likewise give thanks to God "for those who serv
 
 those who sing." For the people of God, the leaders and the laity, are called to work
 
-together, never independently. ### 5:28
+together, never independently. 
+
+### 5:28
 *(anchor: JDG.5:28)*
 
 A touching look at the mother of a fallen warrior--in this case an enemy of God's
 
-people. ### 5:31
+people. 
+
+### 5:31
 *(anchor: JDG.5:31)*
 
 One of a multitude of biblical passages contrasting the destiny of the enemies of the
 
-Lord will those desiring Him. ### 6:1
+Lord will those desiring Him. 
+
+### 6:1
 *(anchor: JDG.6:1)*
 
-, 2 The Midianites are nomadic people who oppressed Israel for seven years. ### 6:3-8
+, 2 The Midianites are nomadic people who oppressed Israel for seven years. 
+
+### 6:3-8
 *(anchor: JDG.6:3)*
 
 Israel cried out to the Lord (v. 6) after seven years of ongoing invasion of the
 
-Midianites, particularly at the time of harvest (v. 4). The Lord sent them a prophet (v. 8), reminding them of His covenant with Israel (Ex 20:1). ### 6:11
+Midianites, particularly at the time of harvest (v. 4). The Lord sent them a prophet (v. 8), reminding them of His covenant with Israel (Ex 20:1). 
+
+### 6:11
 *(anchor: JDG.6:11)*
 
 St. Ambrose sees the terebinth tree as a type of the cross, the winepress as the
@@ -176,17 +220,23 @@ rod of truth (Rev 19:15), laying aside the old man together with his deeds, are 
 
 the Church as in a winepress . . . for from her wells forth the juice of the heavenly vine."
 
-Gideon prefigures Christ as a deliverer of those in bondage. ### 6:15
+Gideon prefigures Christ as a deliverer of those in bondage. 
+
+### 6:15
 *(anchor: JDG.6:15)*
 
 I am the smallest: Gideon's humility reflects the Christlike character of those who
 
-love God (5:31), for His "strength is made perfect in weakness" (2Co 12:9). ### 6:18
+love God (5:31), for His "strength is made perfect in weakness" (2Co 12:9). 
+
+### 6:18
 *(anchor: JDG.6:18)*
 
 I am tells us this is the One who spoke to Moses (Ex 20:2). I will wait echoes words
 
-recorded by the prophet Isaiah (Is 30:18). ### 6:19-27
+recorded by the prophet Isaiah (Is 30:18). 
+
+### 6:19-27
 *(anchor: JDG.6:19)*
 
 St. Ambrose writes that Gideon's sacrifices foreshadow the Incarnation. "The meat
@@ -219,7 +269,9 @@ the Spirit."
 
 Jerubbaal means "May Baal plead." This was Gideon's new nickname, but he did not
 
-give honor to Baal (see 7:1). ### 6:36-38
+give honor to Baal (see 7:1). 
+
+### 6:36-38
 *(anchor: JDG.6:36)*
 
 The hymns of the Orthodox Church reveal the dewy fleece as symbolic of Mary
@@ -238,7 +290,9 @@ ground. Why? So Gideon would know it was God's intention to save Israel by my ha
 
 fleece is Mary; the result is the Incarnation, through which Israel--and all men--can be
 
-saved. ### 7:2-8
+saved. 
+
+### 7:2-8
 *(anchor: JDG.7:2)*
 
 Gideon originally gathered about 32,000 volunteers (v. 3) to encamp opposite the
@@ -249,88 +303,120 @@ want Israel to credit themselves. God demonstrates His commitment to victory for
 
 sake, while also making clear that His strength does not lie in numbers--a total of only
 
-three hundred men (v. 7) in three units--but in His own power. ### 7:15
+three hundred men (v. 7) in three units--but in His own power. 
+
+### 7:15
 *(anchor: JDG.7:15)*
 
 Gideon worshiped before the promise had been fulfilled, and prepared himself to act
 
-in obedience to the Lord without first needing a sign from Him. ### 7:24-25
+in obedience to the Lord without first needing a sign from Him. 
+
+### 7:24-25
 *(anchor: JDG.7:24)*
 
 Earlier in Judges, God's army was satisfied with partial victories (1:27-34) and
 
 paid the consequences. Here and in the next chapter, Gideon makes sure the conquest is
 
-complete--a sure lesson for those who seek victory over sin. ### 8:1-3
+complete--a sure lesson for those who seek victory over sin. 
+
+### 8:1-3
 *(anchor: JDG.8:1)*
 
 The men of Ephraim had been excluded from the battle. Gideon showed the wisdom
 
 of not arguing in the face of their anger; instead he encouraged them tactfully, based on
 
-their own accomplishments (Rom 12:3-6). ### 8:4-9
+their own accomplishments (Rom 12:3-6). 
+
+### 8:4-9
 *(anchor: JDG.8:4)*
 
 The men of Succoth (v. 5) and Penuel (v. 8) refused to give bread to Gideon's men, questioning his victory over Midian. Their refusal to help God's servant was costly (see
 
-Mt 25:41-46). ### 8:10
+Mt 25:41-46). 
+
+### 8:10
 *(anchor: JDG.8:10)*
 
 The name Zebah means "slaughter, sacrifice," a name given to create a sense of great
 
 fear. But here, it foreshadows his destiny. Before Gideon, the servant of the Lord, Zebah
 
-became the one slaughtered. ### 8:13-17
+became the one slaughtered. 
+
+### 8:13-17
 *(anchor: JDG.8:13)*
 
 The men of Succoth (v. 5) and Penuel (v. 8) refused to give bread to Gideon's men, questioning his victory over Midian. Their refusal to help God's servant was costly (see
 
-Mt 25:41-46). ### 8:14
+Mt 25:41-46). 
+
+### 8:14
 *(anchor: JDG.8:14)*
 
 Gideon would not kill haphazardly. The covenant was broken and due punishment
 
-was to be exacted, but he killed only those directly involved. ### 8:16
+was to be exacted, but he killed only those directly involved. 
+
+### 8:16
 *(anchor: JDG.8:16)*
 
 There can be consequences if one chooses to break a covenant. Here the promised
 
-punishment is fulfilled. ### 8:23
+punishment is fulfilled. 
+
+### 8:23
 *(anchor: JDG.8:23)*
 
 Gideon refused their offer, though later his son Abimelech would try to keep his
 
-father's house in power. ### 8:27
+father's house in power. 
+
+### 8:27
 *(anchor: JDG.8:27)*
 
 Gideon's idea of making an ephod, a priestly vestment, and a memorial in his
 
 hometown, commemorating his victory, became a thorn. The lesson: it is unwise for
 
-God's people to unduly celebrate a victory over enemies. ### 9:1
+God's people to unduly celebrate a victory over enemies. 
+
+### 9:1
 *(anchor: JDG.9:1)*
 
 Jerubbaal is Gideon (see note at 6:32). 9:1-5 Soon after Gideon died, the crafty Abimelech, his son by a concubine, with help from
 
 the men of Shechem, murdered seventy of his father's legitimate heirs. Only Jotham
 
-escaped. ### 9:7
+escaped. 
+
+### 9:7
 *(anchor: JDG.9:7)*
 
 Mount Gerizim, previously used for the offering of blessings (Dt 11:29), is now used by
 
-Jotham to pronounce a parable of warning and a curse to the people. ### 9:8
+Jotham to pronounce a parable of warning and a curse to the people. 
+
+### 9:8
 *(anchor: JDG.9:8)*
 
-These words speak to the mockery of kingship not anointed by God. ### 9:25
+These words speak to the mockery of kingship not anointed by God. 
+
+### 9:25
 *(anchor: JDG.9:25)*
 
-These robberies kept the king from collecting taxes from traveling merchants. ### 9:26-57
+These robberies kept the king from collecting taxes from traveling merchants. 
+
+### 9:26-57
 *(anchor: JDG.9:26)*
 
 The punishment of which Jotham warned fell on Abimelech (v. 56). Those who
 
-live apart from the guidance of God face ultimate destruction. ### 9:37
+live apart from the guidance of God face ultimate destruction. 
+
+### 9:37
 *(anchor: JDG.9:37)*
 
 Elonmaonenim can be translated "terebinth tree of the diviners."
@@ -339,7 +425,9 @@ Elonmaonenim can be translated "terebinth tree of the diviners."
 ### 9:46
 *(anchor: JDG.9:46)*
 
-Bethelberith means "the house of Berith," a temple of a local deity (see also v. 50). ### 10:1-7
+Bethelberith means "the house of Berith," a temple of a local deity (see also v. 50). 
+
+### 10:1-7
 *(anchor: JDG.10:1)*
 
 Tola saved (judged) Israel, and Jair helped sustain the forty-five years of peace
@@ -492,60 +580,80 @@ The six hundred men shows the military weakness of the family of Dan. 18:19-20
 
 The priest was not forced or coerced. He was glad to be moving on to a larger
 
-assignment. ### 18:26
+assignment. 
+
+### 18:26
 *(anchor: JDG.18:26)*
 
-The thief Micah had been outdone by the greater thieves of Dan. ### 18:31
+The thief Micah had been outdone by the greater thieves of Dan. 
+
+### 18:31
 *(anchor: JDG.18:31)*
 
 No longer obeying the covenant or having contact with God's people, they set up for
 
-themselves their own experimental worship. ### 19:1
+themselves their own experimental worship. 
+
+### 19:1
 *(anchor: JDG.19:1)*
 
 The people of Israel had fallen far in these days when there was no king. There was
 
 sexual perversion (19:22-28). The commandments of the Law were forgotten or
 
-overlooked (17:6; 21:25). Their leadership was failing. ### 19:2
+overlooked (17:6; 21:25). Their leadership was failing. 
+
+### 19:2
 *(anchor: JDG.19:2)*
 
 To "play the harlot" or take a concubine was an expression typically used to paint a
 
 prophetic picture of people following false gods, often Baal, whose followers often
 
-became involved in extreme sexual misconduct (Hos 4:1-6; Jer 3:1, 8; Ezk 16:41; 23:44). ### 19:4
+became involved in extreme sexual misconduct (Hos 4:1-6; Jer 3:1, 8; Ezk 16:41; 23:44). 
+
+### 19:4
 *(anchor: JDG.19:4)*
 
 The people of Israel, even in apostasy, still believed they had sacred obligations
 
-toward anyone they considered their guest. ### 19:11
+toward anyone they considered their guest. 
+
+### 19:11
 *(anchor: JDG.19:11)*
 
 This city of the Jebusites was not considered part and parcel of Israel, and yet a
 
-person from Israel might find safety here. ### 19:22-23
+person from Israel might find safety here. 
+
+### 19:22-23
 *(anchor: JDG.19:22)*
 
 The sons of lawlessness in the Hebrew text is "sons of Belial," which means
 
 "worthless men" (see 2Co 6:15, and Rom 1:26-27). This gruesome account is similar to
 
-that of Lot and the men of Sodom (Gn 19:1-4). ### 19:24-30
+that of Lot and the men of Sodom (Gn 19:1-4). 
+
+### 19:24-30
 *(anchor: JDG.19:24)*
 
 So vile were homosexual acts in this culture, the concubine was offered. The
 
 woman met an obscene death, a tragic breach of the covenant. The twelve pieces of her
 
-remains were likely sent, one each, to the twelve tribes of Israel. ### 20:1-3
+remains were likely sent, one each, to the twelve tribes of Israel. 
+
+### 20:1-3
 *(anchor: JDG.20:1)*
 
 The children of Israel came together as one man to stand before the Lord. They
 
 gathered at Mizpah, "a place of watching" (1Kg 7:5, 16; 10:17). The purpose of the
 
-gathering was to confront the wicked deed of rape and murder (19:25-28). ### 20:8-11
+gathering was to confront the wicked deed of rape and murder (19:25-28). 
+
+### 20:8-11
 *(anchor: JDG.20:8)*
 
 unity. The verdict was by council, unanimous, and they carried out their decision in
@@ -558,26 +666,34 @@ The Benjamites were offered the opportunity to turn over the sons of
 
 lawlessness in order to avoid war and to put away the evil from Israel (Dt 17:12), but they
 
-refused. ### 20:18
+refused. 
+
+### 20:18
 *(anchor: JDG.20:18)*
 
 They traveled to Bethel (Gn 28:19-22) to inquire of God because the ark of the
 
-covenant had been moved there (v. 27). ### 20:26
+covenant had been moved there (v. 27). 
+
+### 20:26
 *(anchor: JDG.20:26)*
 
 This second defeat awakened the sons of Israel. All now came to the central
 
 sanctuary at Bethel to weep, worship God, and seek His mercy. They prayed, fasted, and
 
-wept because of their two costly losses at the hands of Benjamin. ### 20:28
+wept because of their two costly losses at the hands of Benjamin. 
+
+### 20:28
 *(anchor: JDG.20:28)*
 
 The Lord repeats His earlier answer, but this upcoming third battle came with a
 
 promise of victory. Even so, "the battle was fierce" (v. 34). Despite God's promises of
 
-victory to us, Jesus warns, "in the world you will have tribulation" (Jn 16:33). ### 20:48
+victory to us, Jesus warns, "in the world you will have tribulation" (Jn 16:33). 
+
+### 20:48
 *(anchor: JDG.20:48)*
 
 For about four months, Israel carried out against Benjamin the things God declared
@@ -586,19 +702,25 @@ should be done to the Canaanites (Dt 7:2; 20:16-18)--for Benjamin had become lik
 
 Canaanites. It was prescribed punishment for violating the covenant and rejecting God's
 
-authority in Israel. ### 21:3
+authority in Israel. 
+
+### 21:3
 *(anchor: JDG.21:3)*
 
 Even in the face of victory, the Israelites wept that one tribe should be missing, that
 
-is, Benjamin. Even toward their opponents in war, they retained that loyalty of covenant. ### 21:6
+is, Benjamin. Even toward their opponents in war, they retained that loyalty of covenant. 
+
+### 21:6
 *(anchor: JDG.21:6)*
 
 , 7
 
 With Israel's victory came their desire to have mercy and restore those who
 
-escaped to the Rock of Rimmon (20:47). ### 21:8-24
+escaped to the Rock of Rimmon (20:47). 
+
+### 21:8-24
 *(anchor: JDG.21:8)*
 
 Those of Jabesh Gilead failed to answer the call against Benjamin, and the
@@ -607,7 +729,9 @@ congregation directed Israel to strike them down. Only the virgins were spared a
 
 restore the tribe. Further, the Benjamite men were allowed to take wives from among the
 
-daughters of Shiloh. ### 21:25
+daughters of Shiloh. 
+
+### 21:25
 *(anchor: JDG.21:25)*
 
 This daunting statement reveals that the problems in Israel still went unsolved.

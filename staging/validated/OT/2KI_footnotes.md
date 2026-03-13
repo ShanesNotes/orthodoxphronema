@@ -14,12 +14,16 @@ status: staging
 
 The prophet Elijah teaches us that God can step into the lives and condition of His
 
-people any time He pleases. ### 1:8
+people any time He pleases. 
+
+### 1:8
 *(anchor: 2KI.1:8)*
 
 The outward appearance and spirit of Elijah are recognizable in John the Baptist, "the
 
-second Elijah" (Mt 3:4). ### 1:9-15
+second Elijah" (Mt 3:4). 
+
+### 1:9-15
 *(anchor: 2KI.1:9)*
 
 "Two princes and a hundred who were with them were burned, because they
@@ -30,19 +34,25 @@ heaven. . . . Accordingly, beloved, the righteous shall be tried by the fire, li
 
 silver and goodly stones, and the wicked shall be burned in the fire like straw and reed
 
-and stubble, and the fire shall have power upon them and they shall be burned" (AphP). ### 1:10
+and stubble, and the fire shall have power upon them and they shall be burned" (AphP). 
+
+### 1:10
 *(anchor: 2KI.1:10)*
 
 Elijah's word brought the consuming fire down from heaven, the same consuming
 
-fire made known in Nm 11:1 and spoken of by the apostles (Lk 9:54). ### 2:1
+fire made known in Nm 11:1 and spoken of by the apostles (Lk 9:54). 
+
+### 2:1
 *(anchor: 2KI.2:1)*
 
 As Enoch (Gn 5:24) was translated to heaven without experiencing his own death, so
 
 too was Elijah--thus making known to us that God alone has the keys of life, death, and
 
-the grave. ### 2:6
+the grave. 
+
+### 2:6
 *(anchor: 2KI.2:6)*
 
 The Jordan River is a type of baptism, a crossing over from this fallen world to our
@@ -57,7 +67,9 @@ world. This is where Joshua's men, in obedience and love of God, were circumcise
 
 themselves off from this earthly realm. Gilgal literally means "a rolling," for the Lord had
 
-rolled away Israel's reproach in Egypt (Jos 5:9). Thus, Elijah leaves the place of rolling, Gilgal, and in zeal and faith enters into Bethel, the "house of God"--the heavenly realm. ### 2:8-14
+rolled away Israel's reproach in Egypt (Jos 5:9). Thus, Elijah leaves the place of rolling, Gilgal, and in zeal and faith enters into Bethel, the "house of God"--the heavenly realm. 
+
+### 2:8-14
 *(anchor: 2KI.2:8)*
 
 Moses foreshadowed baptism when he parted the Red Sea (Ex 14:16-23). Joshua
@@ -70,7 +82,9 @@ of the Saints! Not only their words; not only their bodies, but even their very 
 
 are always esteemed venerable by the whole creation. The sheepskin of this man divided
 
-the Jordan!" (JohnChr). ### 2:11
+the Jordan!" (JohnChr). 
+
+### 2:11
 *(anchor: 2KI.2:11)*
 
 The manner of Elijah being separated from Elisha shows the power and authority of
@@ -85,14 +99,18 @@ the lust of the body did not rule in him, to him the fire from on high was obedi
 
 since he subdued on the earth the lust of the flesh, he went up there where holiness
 
-dwells and is at peace" (EphS). ### 2:12
+dwells and is at peace" (EphS). 
+
+### 2:12
 *(anchor: 2KI.2:12)*
 
 He saw Elijah no more: Like Elijah, Moses also disappeared, for "no one knows his
 
 grave to this day" (Dt 34:6). The ministries or offices of Moses and Elijah, representing
 
-the law and the prophets of God, are fulfilled in Christ (Mt 17:3). ### 2:13
+the law and the prophets of God, are fulfilled in Christ (Mt 17:3). 
+
+### 2:13
 *(anchor: 2KI.2:13)*
 
 "For Elijah left a sheepskin [mantle] to his disciple, but the Son of God ascending
@@ -105,23 +123,33 @@ down. Let us not lament, nor fear the difficulty of the times, for He who did no
 
 pour out His blood for all, and has suffered us to partake of His flesh and of His blood
 
-again, what will He refuse to do for our safety?" (JohnChr). ### 2:15
+again, what will He refuse to do for our safety?" (JohnChr). 
+
+### 2:15
 *(anchor: 2KI.2:15)*
 
 The sons of the prophets show proper reverence in the presence of the holy prophet
 
-Elisha, a foreshadowing of apostolic succession. ### 2:19-22
+Elisha, a foreshadowing of apostolic succession. 
+
+### 2:19-22
 *(anchor: 2KI.2:19)*
 
 As the Lord healed the waters of Jericho with salt, so the incarnate Christ brings
 
-renewal to all of creation. ### 2:23-25
+renewal to all of creation. 
+
+### 2:23-25
 *(anchor: 2KI.2:23)*
 
-Like Elisha before the youths, Christ will also be mocked (Lk 18:32). "For what is, 'Go up!'? 'Crucify Him! Crucify Him!' For childhood is set before us to imitate humility, and . . . to beware of foolishness" (Aur). ### 3:18
+Like Elisha before the youths, Christ will also be mocked (Lk 18:32). "For what is, 'Go up!'? 'Crucify Him! Crucify Him!' For childhood is set before us to imitate humility, and . . . to beware of foolishness" (Aur). 
+
+### 3:18
 *(anchor: 2KI.3:18)*
 
-What is impossible for us is easy for the Lord (Lk 1:37). ### 4:1-44
+What is impossible for us is easy for the Lord (Lk 1:37). 
+
+### 4:1-44
 *(anchor: 2KI.4:1)*
 
 In this chapter, Elisha experiences the double portion of Elijah's spirit (2:9) in
@@ -136,7 +164,9 @@ small loaves (vv. 42-44). 4:1-7
 
 This account demonstrates the wondrous acts of Christ's charity made manifest
 
-through those faithful to Him and in whom His goodness is magnified (see also Mt 14:20; ### 18:25
+through those faithful to Him and in whom His goodness is magnified (see also Mt 14:20; 
+
+### 18:25
 *(anchor: 2KI.18:25)*
 
 ). 4:11-17
@@ -405,7 +435,9 @@ even consider the losses it is suffering, or know how great they are. For neithe
 
 Hezekiah believe himself to be sinning when he showed his treasures to the strangers. When in heart we transgress, what we are doing within ourselves is hidden from men. Yet
 
-in the eyes of the Judge, we sin" (GrgGt). ### 21:1
+in the eyes of the Judge, we sin" (GrgGt). 
+
+### 21:1
 *(anchor: 2KI.21:1)*
 
 , 2
@@ -424,12 +456,16 @@ boundlessness of God's tender mercy instead of the enormity of his transgression
 
 having broken in sunder the bonds of the devil, he rose up and contended with him, and
 
-finished the good course" (Dion). ### 21:3
+finished the good course" (Dion). 
+
+### 21:3
 *(anchor: 2KI.21:3)*
 
 Here, all the host of heaven is not the saints and the angels to which this phrase
 
-usually refers. Rather, these are the fallen hosts, as is clear in 23:5. ### 22:1
+usually refers. Rather, these are the fallen hosts, as is clear in 23:5. 
+
+### 22:1
 *(anchor: 2KI.22:1)*
 
 , 2
@@ -440,33 +476,43 @@ cleansed, renewed, and restored. By not turning aside to the right or to the lef
 
 stayed in the center of God's will, not attempting to test the outer limits of His love and
 
-grace. ### 22:11-13
+grace. 
+
+### 22:11-13
 *(anchor: 2KI.22:11)*
 
 When Josiah heard the words of the Book of Law, he immediately realized
 
 his kingdom had strayed from God, and took steps to bring reform. According to St. Paul, "the law was our tutor to bring us to Christ" (Gal 3:24), "for by the law is the knowledge
 
-of sin" (Rom 3:20). ### 23:1-3
+of sin" (Rom 3:20). 
+
+### 23:1-3
 *(anchor: 2KI.23:1)*
 
 How do we bring renewal to God's people? The King Josiah began by exposing
 
 them to the hearing and learning of God's word. He gathered to himself all the elders
 
-and all the people, for both the leaders and the laity must live by God's revelation. ### 23:4-9
+and all the people, for both the leaders and the laity must live by God's revelation. 
+
+### 23:4-9
 *(anchor: 2KI.23:4)*
 
 A second step in renewal is to bring out of the temple . . . all the articles
 
 made for Baal. Following the Lord includes both hearing and obeying His word and
 
-intentionally rejecting darkness. ### 23:16-20
+intentionally rejecting darkness. 
+
+### 23:16-20
 *(anchor: 2KI.23:16)*
 
 Josiah fulfills a prophecy spoken by a prophet of the Lord more than three
 
-hundred years earlier (3Kg 13:2, 3). ### 23:21-25
+hundred years earlier (3Kg 13:2, 3). 
+
+### 23:21-25
 *(anchor: 2KI.23:21)*
 
 "Love faith. For by his devotion and faith Josiah won great love for himself from
@@ -475,7 +521,9 @@ his enemies. For he celebrated the Lord's Passover . . . as no one had done it b
 
 zeal for God. Let zeal for God search you through, and devour you, so that each one of you
 
-may say, 'The zeal of Thine house hath eaten me up'" (AmbM). ### 23:26-37
+may say, 'The zeal of Thine house hath eaten me up'" (AmbM). 
+
+### 23:26-37
 *(anchor: 2KI.23:26)*
 
 Even though Josiah was Judah's most righteous king (v. 25), the kings who
@@ -484,32 +532,44 @@ succeeded him lapsed back into evil. In Israel of old, as in the Church today, t
 
 renewal is never finished. True and lasting peace and righteousness will come only
 
-through the reign of Christ in His everlasting kingdom. ### 24:1
+through the reign of Christ in His everlasting kingdom. 
+
+### 24:1
 *(anchor: 2KI.24:1)*
 
-The Chaldeans are the people of the south of Babylon. ### 24:10-17
+The Chaldeans are the people of the south of Babylon. 
+
+### 24:10-17
 *(anchor: 2KI.24:10)*
 
 The totality of the siege of Jerusalem is remarkable. The king and his family
 
-and court are imprisoned (v. 12), the temple and the king's house are dismantled (v. 13), and the army is in captivity (v. 14). ### 24:18
+and court are imprisoned (v. 12), the temple and the king's house are dismantled (v. 13), and the army is in captivity (v. 14). 
+
+### 24:18
 *(anchor: 2KI.24:18)*
 
 Zedekiah, the new king of Judah, was more like a prince or regent, serving under
 
-his father. ### 25:1-7
+his father. 
+
+### 25:1-7
 *(anchor: 2KI.25:1)*
 
 The physical siege of Jerusalem is completed, and the king is blinded and
 
-removed to Babylon. ### 25:8-17
+removed to Babylon. 
+
+### 25:8-17
 *(anchor: 2KI.25:8)*
 
 Once the city is captured, the temple, the house of the Lord, is cleaned out and
 
 laid bare. In Jerusalem every house was burned. The tall pillars of the temple were
 
-torn down. The capital (v. 17) is the top or dome of the pillar. ### 25:27-30
+torn down. The capital (v. 17) is the top or dome of the pillar. 
+
+### 25:27-30
 *(anchor: 2KI.25:27)*
 
 Even after the murder of Gedaliah (25:25), the book ends on a note of hope. Jehoiachin is freed from prison and given a measure of freedom as God's people

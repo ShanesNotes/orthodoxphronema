@@ -20,7 +20,9 @@ judgment from God (Jer 23:33). In contrast, Jesus describes his burden as "light
 
 11:30). John says that because of all God's love has done for us, keeping His
 
-commandments is not burdensome (1Jn 5:3). ### 1:2
+commandments is not burdensome (1Jn 5:3). 
+
+### 1:2
 *(anchor: HAB.1:2)*
 
 Habakkuk laments the seeming silence of God in response to the rampant injustice
@@ -35,12 +37,16 @@ answer from God. "How long?" is a familiar refrain among the Old Testament proph
 
 63:15). God hates violence on the earth and will judge severely the cruel treatment of
 
-humans by other humans (Gn 6:5-7; Ps 10:6; Rev 6:10). ### 1:5
+humans by other humans (Gn 6:5-7; Ps 10:6; Rev 6:10). 
+
+### 1:5
 *(anchor: HAB.1:5)*
 
 God frequently responds to humans in surprising ways. But God's "answer" to
 
-Habakkuk's lament is beyond belief. ### 1:7
+Habakkuk's lament is beyond belief. 
+
+### 1:7
 *(anchor: HAB.1:7)*
 
 The Chaldean standard for judgment is not God's righteous law, but their own
@@ -49,7 +55,9 @@ purposes of conquest. Despite their evil, God can still use ungodly people and s
 
 unwilling servants to accomplish His purposes, as in the cases of Pharaoh, Balaam, and
 
-Judas. ### 1:9
+Judas. 
+
+### 1:9
 *(anchor: HAB.1:9)*
 
 Violence will be punished with violence. God will use the Chaldeans to inflict
@@ -66,14 +74,18 @@ Judah falsely believed that their fickle repentance (Hos 6:1-3) as well as God's
 
 with David and the presence of the temple in Jerusalem would protect them forever (Jer
 
-7:3) from God's unrelenting anger. They were sadly mistaken. ### 1:11
+7:3) from God's unrelenting anger. They were sadly mistaken. 
+
+### 1:11
 *(anchor: HAB.1:11)*
 
 In a moment of self-recognition, even the godless Chaldeans realize they are not a law
 
 unto themselves. Although they are the vessels of God's wrath upon Judah, they are still
 
-answerable to God for their crimes against humanity. ### 1:12
+answerable to God for their crimes against humanity. 
+
+### 1:12
 *(anchor: HAB.1:12)*
 
 With surprising boldness, Habakkuk questions God's judgment. Here Habakkuk is
@@ -82,24 +94,32 @@ like many other biblical prophets: Abraham (Gn 18:23ff.), Moses (Ex 32:11ff.), J
 
 (20:7), or Amos (7:1ff.). Throughout the Bible, men and women wrestle mightily with
 
-God and His will, like Jacob with God at the River Jabbok (Gn 32:22). ### 1:14
+God and His will, like Jacob with God at the River Jabbok (Gn 32:22). 
+
+### 1:14
 *(anchor: HAB.1:14)*
 
 Habakkuk complains that the Chaldeans, God's chosen vessels, show absolutely no
 
-respect for human dignity. ### 2:1
+respect for human dignity. 
+
+### 2:1
 *(anchor: HAB.2:1)*
 
 Despite his questions, Habakkuk displays his stubborn faith in God's ultimate
 
 purposes. While waiting for what surely will be God's reprimand, Habakkuk is already
 
-marshaling his strength to answer back. ### 2:2
+marshaling his strength to answer back. 
+
+### 2:2
 *(anchor: HAB.2:2)*
 
 Habakkuk hears and sees God's response (1:1)! God's answer must be written so
 
-clearly that its readers can take immediate action. ### 2:3-4
+clearly that its readers can take immediate action. 
+
+### 2:3-4
 *(anchor: HAB.2:3)*
 
 During tumultuous times, God first commands Habakkuk to wait patiently for His
@@ -108,24 +128,32 @@ vision to arrive, despite all contrary appearances or delays. Heb 10:37, 38 quot
 
 verses from Habakkuk to exhort its hearers to endure suffering boldly as we await the
 
-fulfillment of God's promises. ### 2:4
+fulfillment of God's promises. 
+
+### 2:4
 *(anchor: HAB.2:4)*
 
 Against those Judaizing Christians who wanted to bind the entire Law (particularly
 
 circumcision) upon Gentile converts, Paul quotes Habakkuk to show that we are justified
 
-by faith, not by the works of the Law (Gal 3:11; Rom 1:17). ### 2:5
+by faith, not by the works of the Law (Gal 3:11; Rom 1:17). 
+
+### 2:5
 *(anchor: HAB.2:5)*
 
 Pride is the fountain of all vices. In the following verses, Habakkuk describes the
 
 profile of the arrogant individual with whom God is not pleased (2:4). His increasingly
 
-ravenous appetites are indeed hellish and deadly. ### 2:6
+ravenous appetites are indeed hellish and deadly. 
+
+### 2:6
 *(anchor: HAB.2:6)*
 
-The Bible warns that the arrogant man will surely be destroyed for his evil. ### 2:10
+The Bible warns that the arrogant man will surely be destroyed for his evil. 
+
+### 2:10
 *(anchor: HAB.2:10)*
 
 Man has a relentless hunger for material gain, which he thinks will insulate him
@@ -134,7 +162,9 @@ from misfortune; but wealth is false security. This deluded quest for self-suffi
 
 described elsewhere as virtual atheism (Ps 11:4, 5). The yield is not security but death and
 
-destruction. There is no security other than in God. ### 2:11-12
+destruction. There is no security other than in God. 
+
+### 2:11-12
 *(anchor: HAB.2:11)*
 
 While the powerful engage in empire building, the truth of God's ultimate
@@ -143,14 +173,18 @@ judgment over the proud is known by the smallest and the numerically insignifica
 
 city built by bloodshed and conquest will ultimately be destroyed. Only the city built with
 
-righteousness will endure. ### 2:14
+righteousness will endure. 
+
+### 2:14
 *(anchor: HAB.2:14)*
 
 Elsewhere, Hosea describes the fundamental human problem as lack of knowledge of
 
 God (Hos 4:1, 6; 6:6). This ignorance unfortunately is self-inflicted because men suppress
 
-the truth about God (Rom 1:18-32). ### 2:16
+the truth about God (Rom 1:18-32). 
+
+### 2:16
 *(anchor: HAB.2:16)*
 
 The proud man, for his debauchery and violence, will ultimately drink the wine of
@@ -159,22 +193,30 @@ God's wrath. The Book of Revelation describes the eschatological judgment upon t
 
 "great Babylon" in terms of God giving her to drink of "the cup of the wine of the
 
-fierceness of His wrath" (Rev 16:19). ### 2:20
+fierceness of His wrath" (Rev 16:19). 
+
+### 2:20
 *(anchor: HAB.2:20)*
 
 The mystery of God is best honored with silence. When God revealed Himself out of
 
-the whirlwind, Job too was found speechless (Job 40:5; 42:3). ### 3:2
+the whirlwind, Job too was found speechless (Job 40:5; 42:3). 
+
+### 3:2
 *(anchor: HAB.3:2)*
 
 St Augustine believes the two living creatures are either the two testaments, the two
 
-thieves, or Moses and Elijah talking with Jesus on the Mount of Transfiguration. ### 3:3
+thieves, or Moses and Elijah talking with Jesus on the Mount of Transfiguration. 
+
+### 3:3
 *(anchor: HAB.3:3)*
 
 This verse is quoted in Orthodox hymnology (in the Festal Menaion) on the Entry of
 
-the Most Holy Theotokos into the Temple (Nov. 21) and on Christmas. ### 3:4
+the Most Holy Theotokos into the Temple (Nov. 21) and on Christmas. 
+
+### 3:4
 *(anchor: HAB.3:4)*
 
 Augustine believes this verse refers plainly to Jesus.

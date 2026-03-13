@@ -34,17 +34,23 @@ have commanded you." (4) God's protection of Jonah is echoed in Christ's words, 
 ### 1:2
 *(anchor: JON.1:2)*
 
-Nineveh was the capital of the Assyrian Empire. See Tb 14:4, 8; 3Mc 6:8. ### 1:5
+Nineveh was the capital of the Assyrian Empire. See Tb 14:4, 8; 3Mc 6:8. 
+
+### 1:5
 *(anchor: JON.1:5)*
 
-Hold means literally "belly," as it is translated in 2:1, 3 (see note at 2:3). ### 1:9
+Hold means literally "belly," as it is translated in 2:1, 3 (see note at 2:3). 
+
+### 1:9
 *(anchor: JON.1:9)*
 
 In Jonah's weaknesses we see our own fallen humanity, but as he turns towards God, we begin to see a figure of Christ emerge. To be called by His name, we must first become
 
 His servant. 1:5-11 Christ and His disciples had a very similar experience on a boat in a storm (see text
 
-and note at Mt 8:24-26). ### 1:14-16
+and note at Mt 8:24-26). 
+
+### 1:14-16
 *(anchor: JON.1:14)*
 
 God's power in nature, combined with Jonah's witness, persuade the sailors to
@@ -53,19 +59,25 @@ convert to the God of Israel. Later, the Spirit's presence in Jonah will convinc
 
 Ninevites to repent and seek salvation. Similarly, God's presence in creation (Rom 1:20), combined with the presence of the Holy Spirit in believers (Acts 2:38-41), draws men to
 
-God. ### 2:1
+God. 
+
+### 2:1
 *(anchor: JON.2:1)*
 
 Three days and three nights is a prophetic type of Christ's three-day sojourn in the
 
 "heart of the earth [Sheol]" (Mt 12:40; see also Mt 16:4; 1Pt 3:19: "He [Jesus] went and
 
-preached to the spirits in prison [Sheol or Gr. Hades]"). ### 2:2
+preached to the spirits in prison [Sheol or Gr. Hades]"). 
+
+### 2:2
 *(anchor: JON.2:2)*
 
 Jnh 2:2, 3, 7: His God . . . my God: The pronouns "his" and "my" emphasize a
 
-personal relationship with God. ### 2:3
+personal relationship with God. 
+
+### 2:3
 *(anchor: JON.2:3)*
 
 Belly of Hades: The word translated "belly" can also be used to mean "womb."
@@ -82,7 +94,9 @@ existence, of being cut off from the presence of God. It is used especially in p
 
 passages as a synonym for death. Hades held all the righteous dead before the crucifixion
 
-and Resurrection of Christ. ### 2:5-6
+and Resurrection of Christ. 
+
+### 2:5-6
 *(anchor: JON.2:5)*
 
 To the Hebrews, the sea was a frightening place, full of chaos and death. To be cast
@@ -91,12 +105,16 @@ into the sea was to sink down into Hades. See Ps 87:7, 8. 2:3-10
 
 Jonah's prayer echoes the language and imagery of the Psalms. See especially Ps
 
-17:5, 7; 30:23; 41:8; 49:14; 68:2, 3; 119:1. ### 3:2
+17:5, 7; 30:23; 41:8; 49:14; 68:2, 3; 119:1. 
+
+### 3:2
 *(anchor: JON.3:2)*
 
 According to the message I previously spoke to you: A reminder to Jonah that
 
-the message and the mission had not changed. ### 3:5-9
+the message and the mission had not changed. 
+
+### 3:5-9
 *(anchor: JON.3:5)*
 
 In an amazing response to Jonah's preaching, the Ninevites show us the true
@@ -111,12 +129,16 @@ head also symbolized mourning or repentance (see 2Kg 13:19; Is 58:5; Jer 6:26). 
 
 prayer. (4) By changing their behavior. True repentance is not just feeling sorry, but
 
-involves both the heart and actions. ### 3:6
+involves both the heart and actions. 
+
+### 3:6
 *(anchor: JON.3:6)*
 
 The king acted after the people. This was a spontaneous, popular movement, not
 
-imposed by the crown but inspired by the Holy Spirit. ### 4:1-7
+imposed by the crown but inspired by the Holy Spirit. 
+
+### 4:1-7
 *(anchor: JON.4:1)*
 
 Once again, Jonah's weakness controls him. Here Jonah's excessive nationalism is
@@ -133,12 +155,16 @@ is an icon of this attitude, which is personified in the unbelievers who allow p
 
 jealousy at the salvation of others to enter their hearts. Many like these will put Christ to
 
-death, thus bringing about their own destruction. ### 4:4
+death, thus bringing about their own destruction. 
+
+### 4:4
 *(anchor: JON.4:4)*
 
 The Lord's question to Jonah is rhetorical and a rebuke. The tone of the Greek implies
 
-that, in fact, Jonah does not have the right to feel the way he does. ### 4:11
+that, in fact, Jonah does not have the right to feel the way he does. 
+
+### 4:11
 *(anchor: JON.4:11)*
 
 The people of the nations live in spiritual darkness until the light of the gospel is

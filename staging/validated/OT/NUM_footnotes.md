@@ -24,7 +24,9 @@ between the two in the tabernacle. Although the Jews claimed He taught and worke
 
 contrary to the Law (Jn 8:5, 6; 9:29), the presence of Moses with Him on the Mount
 
-refutes this charge. ### 1:2-3
+refutes this charge. 
+
+### 1:2-3
 *(anchor: NUM.1:2)*
 
 The Lord commanded a census to be taken in Israel to draft an army for war. This
@@ -33,7 +35,9 @@ census shows the militant nature of Israel in warfare. Israel was a type of the 
 
 as many as will come into the kingdom of God and is to continue up to the end, when the
 
-kingdom will be fully established (Mt 24:14). ### 1:47-49
+kingdom will be fully established (Mt 24:14). 
+
+### 1:47-49
 *(anchor: NUM.1:47)*
 
 The ministry of the Levites also shows the militant nature of Israel in worship, for
@@ -50,7 +54,9 @@ worship, for no one is excused from worshiping the true God. The clergy have the
 
 assigned duties, and the laity as well. The various responsibilities of both are described
 
-throughout the Holy Tradition of the Church. ### 1:50
+throughout the Holy Tradition of the Church. 
+
+### 1:50
 *(anchor: NUM.1:50)*
 
 The Levites were ordained to minister liturgically, for divine worship is liturgical in
@@ -65,12 +71,16 @@ them. The same word is used here as in the Book of Numbers. This same word is al
 
 used numerous times in Hebrews to describe the liturgical worship of the Church as the
 
-fulfillment of Israel's liturgical worship (Heb 1:7, 14; 8:2, 6; 9:21; 10:11). ### 1:53
+fulfillment of Israel's liturgical worship (Heb 1:7, 14; 8:2, 6; 9:21; 10:11). 
+
+### 1:53
 *(anchor: NUM.1:53)*
 
 The Lord was present in the midst of Israel's liturgical worship, as He is in the Divine
 
-Liturgy of His Holy Church. Spontaneity in worship has no biblical precedent. ### 2:2
+Liturgy of His Holy Church. Spontaneity in worship has no biblical precedent. 
+
+### 2:2
 *(anchor: NUM.2:2)*
 
 The twelve tribes camped around the four sides of the tabernacle, facing it, in groups
@@ -101,7 +111,9 @@ Israelite was to orient his life around Christ, the Orient. Likewise, every Chur
 
 become "disoriented." The Church whenever possible worships toward the east, "looking
 
-unto Jesus, the author and finisher of our faith" (Heb 12:2). ### 3:6-9
+unto Jesus, the author and finisher of our faith" (Heb 12:2). 
+
+### 3:6-9
 *(anchor: NUM.3:6)*
 
 The tribe of Levi was presented to Aaron and his sons to minister liturgically with
@@ -120,7 +132,9 @@ serve liturgically with the bishop under whom they are assigned as his spiritual
 
 types of the deacons, who assist the bishop in the liturgical worship; and when the bishop
 
-is not present, they assist the priest. ### 3:11-13
+is not present, they assist the priest. 
+
+### 3:11-13
 *(anchor: NUM.3:11)*
 
 Num 3:11-13, 40-51: The Lord ransomed the firstborn sons of Israel in Egypt with
@@ -157,7 +171,9 @@ heavenly King, the Father (JohnChr). This also demonstrated it was the Son of Go
 
 King Himself, who ordered the redemption tax to be paid when Israel was in the
 
-Wilderness of Sinai. ### 4:1
+Wilderness of Sinai. 
+
+### 4:1
 *(anchor: NUM.4:1)*
 
 Num 4:1, 16, 29: Gershom, Kohath, and Merari were the sons of Levi (Ex 6:16). Their
@@ -196,7 +212,9 @@ worship was temporal in nature, and is fulfilled in the greater reality of the C
 
 liturgical worship. Liturgical worship in the Church is called "heaven on earth," for it
 
-fulfills the types. ### 4:5
+fulfills the types. 
+
+### 4:5
 *(anchor: NUM.4:5)*
 
 The overshadowing veil was a type of the life-giving flesh of Christ (Heb 10:20). For
@@ -207,7 +225,9 @@ joined in union and communion with Him. In the Divine Liturgy, the Church offers
 
 the bread and wine of the offertory to Him, and He gives these back to the Church as His
 
-precious body and blood. ### 4:7
+precious body and blood. 
+
+### 4:7
 *(anchor: NUM.4:7)*
 
 The table of presentation was located in the holy place of the tabernacle. Among its
@@ -222,14 +242,18 @@ another and greater level, which is called the antitype.) Thus, the bread and wi
 
 table of presentation represented and are fulfilled in Christ's body and blood in the
 
-Eucharist. ### 5:2-4
+Eucharist. 
+
+### 5:2-4
 *(anchor: NUM.5:2)*
 
 Leprosy was a type of sin. Jesus went out of the camp and became a leper on our
 
 behalf. He Himself was not a leper, for He knew no sin, but He took pity on us lepers and
 
-became a disgrace for our sakes. ### 5:7
+became a disgrace for our sakes. 
+
+### 5:7
 *(anchor: NUM.5:7)*
 
 Confession of wrongs to a neighbor must be accompanied by restitution. Zacchaeus
@@ -238,14 +262,18 @@ went beyond this law and made restitution fourfold, plus he gave half his goods 
 
 poor. Thus, he "bore fruits worthy of repentance" (Mt 3:8). So Jesus said to him, "Today
 
-salvation has come to this house" (Lk 19:9). ### 6:2
+salvation has come to this house" (Lk 19:9). 
+
+### 6:2
 *(anchor: NUM.6:2)*
 
 An extraordinary vow was a vow not required by the Law of Moses. It was strictly
 
 voluntary, and when such a vow was made, the one making it was held accountable to
 
-fulfill it (Ps 49:14; Ecc 5:4). ### 6:22-26
+fulfill it (Ps 49:14; Ecc 5:4). 
+
+### 6:22-26
 *(anchor: NUM.6:22)*
 
 These verses describe the blessings by the priests upon the people: the purpose is
@@ -254,7 +282,9 @@ to put the Lord's name on them. The blessing itself is contained in vv. 24-26. B
 
 priests in the Church also put the Lord's name on people when they bless them with their
 
-hands in the form of the cross. ### 7:2-5
+hands in the form of the cross. 
+
+### 7:2-5
 *(anchor: NUM.7:2)*
 
 Num 7:2-5, 84: The twelve rulers brought gifts, including sacrificial animals, to the
@@ -377,17 +407,23 @@ became their god (Php 3:19). Grumbling and gluttony are an evil combination. 11:
 
 Holy Trinity. Therefore, Moses believed in the Trinity, and those who claim him as a
 
-forefather should also embrace his faith. ### 12:5-7
+forefather should also embrace his faith. 
+
+### 12:5-7
 *(anchor: NUM.12:5)*
 
 The Lord who descended is the Son of God. He is over the house, whereas Moses
 
-was a faithful servant within His house (v. 7; Heb 3:1-6). ### 12:10
+was a faithful servant within His house (v. 7; Heb 3:1-6). 
+
+### 12:10
 *(anchor: NUM.12:10)*
 
 Miriam's contentious and bitter spirit caused her to become leprous. Leprosy was a
 
-type of sin, and sins, such as a contentious spirit, eat away at the soul. ### 13:1-3
+type of sin, and sins, such as a contentious spirit, eat away at the soul. 
+
+### 13:1-3
 *(anchor: NUM.13:1)*
 
 The pre-incarnate Lord spoke to Moses and commanded that twelve spies, one
@@ -396,7 +432,9 @@ leader from each tribe, be sent to spy out the land of Canaan, for the Word was 
 
 Commander and Moses the obedient servant. The Lord promised to give them this land, for the world belongs to Him and He gives it to whom He wills, when He wills, for as long
 
-as He wills. He is the sovereign Lord of all. ### 13:4-16
+as He wills. He is the sovereign Lord of all. 
+
+### 13:4-16
 *(anchor: NUM.13:4)*
 
 The names of twelve men are given, two of whom were Caleb (v. 6) and Hoshea (v. 8), whose name Moses changed to Joshua (v. 16). Caleb's name means "bold," or
@@ -405,7 +443,9 @@ The names of twelve men are given, two of whom were Caleb (v. 6) and Hoshea (v. 
 
 confident faith and saving faith. Both men knew the Lord, and their faith in Him was of
 
-both aspects. ### 13:17-25
+both aspects. 
+
+### 13:17-25
 *(anchor: NUM.13:17)*
 
 The twelve men spied out the land for forty days (v. 25), all the way up to Rehob, near the Valley of Hamath (v. 21). In their journey, Hebron (v. 22) is singled out for
@@ -420,7 +460,9 @@ body and blood from her. Moreover, in the Eucharist, the wine of the grapes beco
 
 a mystery, His body and blood. The Church's participation in this mystery is a foretaste of
 
-the land of promise--the world to come, the eternal kingdom of God. ### 13:26-33
+the land of promise--the world to come, the eternal kingdom of God. 
+
+### 13:26-33
 *(anchor: NUM.13:26)*
 
 The spies returned to Israel and showed them the fruit of a land flowing with
@@ -447,7 +489,9 @@ faith will be zealous like Joshua and Caleb, knowing the Lord Jesus Christ is ab
 
 them overcome their temptations and sins. Such faith propels them toward the land of
 
-promise--the world to come. ### 14:1-4
+promise--the world to come. 
+
+### 14:1-4
 *(anchor: NUM.14:1)*
 
 Unbelief produced vices in the congregation. They were depressed and melancholy
@@ -462,7 +506,9 @@ made an irrational choice (select a ruler and return to Egypt, v. 4). Unbelief t
 
 the Lord produces many vices--especially irrational choices, for unbelief is contrary to a
 
-rational mind. ### 14:6-9
+rational mind. 
+
+### 14:6-9
 *(anchor: NUM.14:6)*
 
 But Joshua and Caleb were strong in faith, which produced virtues in them. They
@@ -471,7 +517,9 @@ desired the land of promise (extremely good land, v. 7). They believed the Lord 
 
 with them in the fight (bring us into this land, v. 8). They stood against unbelief (do
 
-not apostatize, v. 9). They were willing to be martyrs (stone them with stones, v. 10). The Son of God stood with them (appeared in the cloud, v. 10). ### 14:11
+not apostatize, v. 9). They were willing to be martyrs (stone them with stones, v. 10). The Son of God stood with them (appeared in the cloud, v. 10). 
+
+### 14:11
 *(anchor: NUM.14:11)*
 
 The Lord asked two questions to show us His opposition to unbelief. Even the
@@ -480,36 +528,48 @@ miracles He performed could not bring the people to faith. Neither did the mirac
 
 performed after His Incarnation win them over (Jn 10:38). Nevertheless, out of His love
 
-for them, He gave them every opportunity to believe. Unbelief is a deep-seated evil. ### 14:12
+for them, He gave them every opportunity to believe. Unbelief is a deep-seated evil. 
+
+### 14:12
 *(anchor: NUM.14:12)*
 
 Unbelief leads to death and self-destruction. For there is no remedy for unbelief. It
 
 ultimately led them to the loss of God's kingdom (Mt 21:43), as it does for all (Rom
 
-11:22). ### 14:13-20
+11:22). 
+
+### 14:13-20
 *(anchor: NUM.14:13)*
 
 Moses' major concern was the Lord's name, for he loved Him with all his heart. He also loved his neighbor as himself, for he was also concerned for the people. The Lord
 
-revealed Moses' virtues as an example of true faith for all to see. ### 14:21
+revealed Moses' virtues as an example of true faith for all to see. 
+
+### 14:21
 *(anchor: NUM.14:21)*
 
 The earth will be part of the world to come, for it shall be filled with the glory of
 
-the Lord. ### 14:22-38
+the Lord. 
+
+### 14:22-38
 *(anchor: NUM.14:22)*
 
 Just as unbelief kept the children of Israel from the land of promise, so it will
 
-keep us from the promise of the world to come if we fail to live by faith (Heb 3; 4). ### 14:39-45
+keep us from the promise of the world to come if we fail to live by faith (Heb 3; 4). 
+
+### 14:39-45
 *(anchor: NUM.14:39)*
 
 Their confession of sin was empty, for they did not amend their ways. Their
 
 confession did not lead to obedience, for unbelief ruled them (you transgress the word
 
-of the Lord, v. 41). ### 15:1
+of the Lord, v. 41). 
+
+### 15:1
 *(anchor: NUM.15:1)*
 
 , 2
@@ -518,7 +578,9 @@ The Lord's word would not fail, for Israel would inherit the land of promise, bu
 
 without the unbelievers. Even their unbelief could not nullify the promises of God (Rom
 
-3:3, 4). ### 15:3-16
+3:3, 4). 
+
+### 15:3-16
 *(anchor: NUM.15:3)*
 
 Once in the land of promise, Israel was to offer two additional sacrifices together
@@ -537,7 +599,9 @@ Great and Holy Thursday when He established the Eucharist with His disciples. In
 
 resident aliens, who were Gentiles (vv. 13-16). This reveals the Eucharist in the new
 
-covenant would be both for Jews and Gentiles. ### 16:1
+covenant would be both for Jews and Gentiles. 
+
+### 16:1
 *(anchor: NUM.16:1)*
 
 , 2 Korah rose up before Moses. Scripture calls this "the rebellion of Korah" (Jude
@@ -546,7 +610,9 @@ covenant would be both for Jews and Gentiles. ### 16:1
 
 hundred fifty "laity," who were rulers of the congregation, chosen members of the
 
-council and men of note. This was no small-time rebellion. ### 16:3-4
+council and men of note. This was no small-time rebellion. 
+
+### 16:3-4
 *(anchor: NUM.16:3)*
 
 The rebels accused Moses and Aaron of self-exaltation, the very sin of which they
@@ -559,7 +625,9 @@ tested when praised by others: "But a man is tested by the mouth of those who pr
 
 him" (Pr 27:22). Korah, however, failed this test, for he "loved the praise of men more
 
-than the praise of God" (Jn 12:43). ### 16:22-24
+than the praise of God" (Jn 12:43). 
+
+### 16:22-24
 *(anchor: NUM.16:22)*
 
 Moses raised a crucial question before the Lord: "If one man sinned, will the
@@ -576,7 +644,9 @@ doctrine of original sin. This evil doctrine teaches that Adam's offspring (all 
 
 guilty before God because of their father's transgression. This teaching is false, because
 
-each man is guilty before God for his own transgressions. ### 17:2
+each man is guilty before God for his own transgressions. 
+
+### 17:2
 *(anchor: NUM.17:2)*
 
 Strange fire was unauthorized worship. Korah was a Levite but not a priest, and only
@@ -587,7 +657,9 @@ were the two hundred fifty "laity" so authorized. The priests and bishops of the
 
 authorized to offer up the holy gifts in the Divine Liturgy on behalf of the Church. These
 
-holy gifts become the body and blood of Christ in a mystery. ### 17:3-5
+holy gifts become the body and blood of Christ in a mystery. 
+
+### 17:3-5
 *(anchor: NUM.17:3)*
 
 The two hundred fifty copper censers were beaten into plates and sanctified by the
@@ -602,7 +674,9 @@ that no outsider who is not of Aaron's seed should put incense before the Lord
 
 and be like Korah and his insurrection. Israel had a short memory, for the next day after the copper plates were fastened to the
 
-altar, they rebelled again (v. 6). ### 17:6-15
+altar, they rebelled again (v. 6). 
+
+### 17:6-15
 *(anchor: NUM.17:6)*
 
 The high priest Aaron took his censer, put hot coals in it, threw incense on the
@@ -615,14 +689,18 @@ coals from the altar). The smoke of incense ascends, and Christ the Great High P
 
 ascended into the heavenly holy of holies, and sprinkled the life-giving blood of His cross
 
-on the heavenly altar. ### 17:16-26
+on the heavenly altar. 
+
+### 17:16-26
 *(anchor: NUM.17:16)*
 
 The Lord gave Israel another sign (v. 25) to cure their rebellion. Aaron's rod
 
 sprouted and put forth buds, and had produced blossoms and yielded ripe
 
-almonds (v. 23). These buds, blossoms, and almonds speak of life and fruits. The lifegiving rod was a type of the life-giving cross. ### 19:1
+almonds (v. 23). These buds, blossoms, and almonds speak of life and fruits. The lifegiving rod was a type of the life-giving cross. 
+
+### 19:1
 *(anchor: NUM.19:1)*
 
 , 2
@@ -633,21 +711,27 @@ injunction of the law, whatever the Lord ordered. Therefore, the Son of God and
 
 His law must always be seen as being connected. They should never be thought of as
 
-disconnected, which is legalism, the disconnection between the law and the Lawgiver. ### 19:9-17
+disconnected, which is legalism, the disconnection between the law and the Lawgiver. 
+
+### 19:9-17
 *(anchor: NUM.19:9)*
 
 The ashes of the burnt offering of purification were placed in a vessel, and running
 
 water was poured over them. Thus, the ashes and the water were mixed together, and this
 
-became water of purification, a type of the Sacrament of Baptism. ### 20:1-5
+became water of purification, a type of the Sacrament of Baptism. 
+
+### 20:1-5
 *(anchor: NUM.20:1)*
 
 The Desert of Sin was characterized as a place where nothing is sown, neither
 
 figs nor vines nor pomegranates; nor is there any water to drink (v. 5). The
 
-people had the opportunity to respond in one of two ways: be thankful or be frustrated. They chose frustration. ### 20:11-12
+people had the opportunity to respond in one of two ways: be thankful or be frustrated. They chose frustration. 
+
+### 20:11-12
 *(anchor: NUM.20:11)*
 
 Moses struck the rock in unbelief, and this action would keep him from leading
@@ -660,20 +744,28 @@ he violated the type. This rock represented the spiritual Rock, Christ Himself, 
 
 Moses to speak to the rock (1Co 10:4). After His Incarnation, He would be smitten once, not twice, for the sins of the world (Rom 6:10). From His life-giving cross would come the
 
-waters of life, "springing up into everlasting life" (Jn 4:14). ### 20:13
+waters of life, "springing up into everlasting life" (Jn 4:14). 
+
+### 20:13
 *(anchor: NUM.20:13)*
 
-This event in vv. 1-12 was called the Water of Contention for two reasons: first, because of Israel's scoffing, and second, because the Lord was sanctified among them. In spite of Israel's scoffing, Christ in His power gave them water to drink. ### 20:16
+This event in vv. 1-12 was called the Water of Contention for two reasons: first, because of Israel's scoffing, and second, because the Lord was sanctified among them. In spite of Israel's scoffing, Christ in His power gave them water to drink. 
+
+### 20:16
 *(anchor: NUM.20:16)*
 
 His Angel is the Word and Son of God, for it was He who brought Israel up out
 
-of Egypt with His almighty power. ### 20:28
+of Egypt with His almighty power. 
+
+### 20:28
 *(anchor: NUM.20:28)*
 
 Aaron's death revealed the weakness and temporary nature of the Aaronic
 
-priesthood, for it could not overcome death. But Christ destroyed death by His death; therefore, His priesthood continues unto ages of ages (Heb 7:23-25). ### 21:9
+priesthood, for it could not overcome death. But Christ destroyed death by His death; therefore, His priesthood continues unto ages of ages (Heb 7:23-25). 
+
+### 21:9
 *(anchor: NUM.21:9)*
 
 The people who looked on the copper serpent on the signal pole lived. They lived
@@ -702,7 +794,9 @@ epitaph for it from us? 'O death, where is your sting? O grave, where is your vi
 
 are without breath, dead, without motion, even though you keep the form of a serpent
 
-lifted up on high on a pole" (GrgTheo). ### 22:22-38
+lifted up on high on a pole" (GrgTheo). 
+
+### 22:22-38
 *(anchor: NUM.22:22)*
 
 The Angel is the Word and Son of God. He warned Balaam to speak only what
@@ -727,15 +821,21 @@ donkey and the ox knew Him at His birth in the cave. In the Christmas icon, the 
 
 ox, for they knew their Master and Creator, but Israel did not know Him, as Isaiah
 
-prophesied (Is 1:3, 4). ### 23:5
+prophesied (Is 1:3, 4). 
+
+### 23:5
 *(anchor: NUM.23:5)*
 
-God the Word put a word in Balaam's mouth, just as He said He would in 22:35. ### 23:7
+God the Word put a word in Balaam's mouth, just as He said He would in 22:35. 
+
+### 23:7
 *(anchor: NUM.23:7)*
 
 The Spirit is the Holy Spirit, and God is God the Father. The Holy Spirit spoke by
 
-the prophet Balaam ("the Holy Spirit . . . who spoke by the prophets"--Creed). Therefore, the Holy Trinity is revealed in vv. 5 and 7, for where One of the Persons is present, present also are the other Two. ### 23:10
+the prophet Balaam ("the Holy Spirit . . . who spoke by the prophets"--Creed). Therefore, the Holy Trinity is revealed in vv. 5 and 7, for where One of the Persons is present, present also are the other Two. 
+
+### 23:10
 *(anchor: NUM.23:10)*
 
 Speaking by the Spirit of God, Balaam could wish the greatest possible good for
@@ -752,31 +852,41 @@ righteousness in baptism. (AmbM)
 
 Num 24:2, 3, 5-9, 17, 18: This passage is read at Vespers of the Feast of the Nativity of
 
-the Lord. ### 24:7
+the Lord. 
+
+### 24:7
 *(anchor: NUM.24:7)*
 
 The Man is the Word become flesh (Jn 1:14). He is true Man and true God. He
 
-became Man to bring man into His kingdom, if they willingly follow Him there. ### 24:9
+became Man to bring man into His kingdom, if they willingly follow Him there. 
+
+### 24:9
 *(anchor: NUM.24:9)*
 
 In His burial, this Man was like a lion resting in a cave. Those who bless this Man are
 
-blessed, but those who curse Him bring a curse on themselves. ### 24:17
+blessed, but those who curse Him bring a curse on themselves. 
+
+### 24:17
 *(anchor: NUM.24:17)*
 
 Christ is the Star (Mt 2:2) and the Man who rose from the dead (rise out of
 
 Jacob and out of Israel). The three wise men of the East knew this prophecy, and when
 
-they saw His star, they followed it to the cave where He was born. ### 24:25
+they saw His star, they followed it to the cave where He was born. 
+
+### 24:25
 *(anchor: NUM.24:25)*
 
 Balaam taught Balak "to put a stumbling block before the children of Israel, to eat
 
 things sacrificed to idols" (Rev 2:14; see Nm 31:16). Soon afterward, the Israelites killed
 
-Balaam with the sword when they killed the kings of Midian (31:8; Jos 13:22). ### 25:1
+Balaam with the sword when they killed the kings of Midian (31:8; Jos 13:22). 
+
+### 25:1
 *(anchor: NUM.25:1)*
 
 , 2 Balaam counseled Israel through Balak to commit fornication and to worship idols
@@ -785,7 +895,9 @@ Balaam with the sword when they killed the kings of Midian (31:8; Jos 13:22). ##
 
 that weakness? Their souls were subject to their desires, rather than the opposite. For
 
-when desires control the soul, it easily falls into fornication and idolatry (JohnCas). ### 25:7-8
+when desires control the soul, it easily falls into fornication and idolatry (JohnCas). 
+
+### 25:7-8
 *(anchor: NUM.25:7)*
 
 The spear speaks of baptism, which kills corrupt desires in those who walk in their
@@ -798,7 +910,9 @@ death' (Rom 6:3). Now if we have been conformed to His death, sin henceforth in 
 
 surely a corpse, pierced through by the spear of baptism, as that fornicator was thrust
 
-through by the zealous Phinehas" (GrgNy). ### 26:64-65
+through by the zealous Phinehas" (GrgNy). 
+
+### 26:64-65
 *(anchor: NUM.26:64)*
 
 The first census of the men of war was 603,550 (1:46). From this massive
@@ -813,7 +927,9 @@ the desert." Therefore, we, too, are admonished, "Beware, brethren, lest there b
 
 of you an evil heart of unbelief in departing from the living God" (Heb 3:12). This evil
 
-heart of unbelief is equated with the sin of rebellion, which is inexcusable. ### 27:5-7
+heart of unbelief is equated with the sin of rebellion, which is inexcusable. 
+
+### 27:5-7
 *(anchor: NUM.27:5)*
 
 The daughters of Zelophehad would have their share in the inheritance when Israel
@@ -824,7 +940,9 @@ the men. They were not, so to speak, "second-class citizens" in His sight. Equal
 
 Christ also holds true in the Church, for both men and women are "heirs together of the
 
-grace of life" (1Pt 3:7). ### 27:12
+grace of life" (1Pt 3:7). 
+
+### 27:12
 *(anchor: NUM.27:12)*
 
 Moses would see the land of promise, but he could not possess it. But this was no
@@ -833,25 +951,35 @@ great loss to him compared to his true vision. For he saw "the resurrection of t
 
 and the life of the world to come" (Creed; see Heb 11:26). He waited eagerly to possess
 
-this inheritance. ### 27:14
+this inheritance. 
+
+### 27:14
 *(anchor: NUM.27:14)*
 
 Moses' failure to sanctify the Lord at the Water of Contention did not disqualify him
 
-from his true inheritance. In spite of his sin, he was the most humble man on the earth, and humility is "the beginning and the end of salvation" (JohnChr). ### 27:16
+from his true inheritance. In spite of his sin, he was the most humble man on the earth, and humility is "the beginning and the end of salvation" (JohnChr). 
+
+### 27:16
 *(anchor: NUM.27:16)*
 
 Moses acknowledged Christ as the God of the spirits of all flesh, and therefore, so are the Father and the Holy Spirit. For the three Persons are one in essence and
 
-undivided. ### 27:17
+undivided. 
+
+### 27:17
 *(anchor: NUM.27:17)*
 
 Joshua was the new shepherd of Israel. Both he and Moses were types of Christ, "the great Shepherd of the sheep" (Heb 13:20). For as they were over the house of Israel, so He is over the Church. However, there are multitudes without this Shepherd; therefore, He commanded us to pray that He "send out laborers into the harvest" (Mt
 
-9:36-38). ### 27:18
+9:36-38). 
+
+### 27:18
 *(anchor: NUM.27:18)*
 
-The Spirit is the Holy Spirit. Truly, Moses believed the one God to be the Father, the Son, and the Holy Spirit. ### 28:1-39
+The Spirit is the Holy Spirit. Truly, Moses believed the one God to be the Father, the Son, and the Holy Spirit. 
+
+### 28:1-39
 *(anchor: NUM.28:1)*
 
 The Son of God spoke to Moses, and the things He spoke on this occasion cover
@@ -878,7 +1006,9 @@ number seven was regulated according to the divisions of time established at Cre
 
 -8), to (2) the weekly offerings (Ex 20:8-11; Lv 23:3; Nm 28:9, 10), to (3) the
 
-monthly offerings (Nm 28:11-15), to (4) the yearly offerings (Ex 12:1-20; 23:15, 16; ### 34:22
+monthly offerings (Nm 28:11-15), to (4) the yearly offerings (Ex 12:1-20; 23:15, 16; 
+
+### 34:22
 *(anchor: NUM.34:22)*
 
 ; Lv 16:1-34; 23:1-44; Nm 28:16-29:38), to (5) the sabbatical year (Ex 23:10, 11; Lv
@@ -1001,7 +1131,9 @@ Israel was tested at Rephidim, but they abused Moses and tempted the Lord (Ex
 
 love God," but testing will prove whether or not his statement is true. 34:6
 
-The Great Sea is the Mediterranean Sea. ### 35:1-8
+The Great Sea is the Mediterranean Sea. 
+
+### 35:1-8
 *(anchor: NUM.35:1)*
 
 The tribe of Levi was to be supported by the twelve tribes. These gifts enumerated

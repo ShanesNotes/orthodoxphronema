@@ -14,7 +14,9 @@ status: staging
 
 St. Gregory the Great comments that after establishing the time and place in history, the Prophet Ezekiel mystically "shows forth the Lord," for in Christ's thirtieth year He
 
-was baptized and the heavens were opened (see Mt 3:17). ### 1:3-4
+was baptized and the heavens were opened (see Mt 3:17). 
+
+### 1:3-4
 *(anchor: EZK.1:3)*
 
 St. Gregory writes that Ezekiel recognized the Incarnation of the Only Begotten
@@ -311,12 +313,16 @@ husband was the Lord (Is 54:5). See 33:21-33 and note. 25:1-35 These chapters de
 
 of Christ was later brought to these places, and the Church is present in these countries
 
-to this day. ### 26:7
+to this day. 
+
+### 26:7
 *(anchor: EZK.26:7)*
 
 Nebuchadnezzar may be king of kings, but Jesus Christ is KING OF KINGS (Rev
 
-19:16). ### 27:1
+19:16). 
+
+### 27:1
 *(anchor: EZK.27:1)*
 
 Some Church Fathers interpret this lamentation (through 28:26) as imaging the fall
@@ -329,43 +335,57 @@ the captivity Tyre was set against Jerusalem (26:2). Christ began to fulfill thi
 
 when He cast the demon out of the Syro-Phoenician's daughter (Mk 7:24-30). After
 
-Pentecost, the gospel spread rapidly to this region (Acts 21:3-5). ### 29:1-21
+Pentecost, the gospel spread rapidly to this region (Acts 21:3-5). 
+
+### 29:1-21
 *(anchor: EZK.29:1)*
 
 The judgment against Pharaoh and Egypt illustrates the destruction of demonic
 
 strongholds through baptism. As the rivers (v. 3) belonged to Pharaoh, so the dragon (v. 3), the devil, held sway on the earth until Christ destroyed him in the waters of the
 
-Jordan (see also Ex 14:27-30). The horn (v. 21) is a symbol for Christ. ### 30:1-18
+Jordan (see also Ex 14:27-30). The horn (v. 21) is a symbol for Christ. 
+
+### 30:1-18
 *(anchor: EZK.30:1)*
 
 In the days of the Captivity, Egypt and Ethiopia stood against God's purposes. But after Pentecost, these nations were blessed with the establishment of the Church
 
 among the Gentiles. Indeed, the Ethiopian eunuch confessed that "Jesus Christ is the Son
 
-of God" when Philip appeared to him (Acts 8:26-39). ### 31:2-9
+of God" when Philip appeared to him (Acts 8:26-39). 
+
+### 31:2-9
 *(anchor: EZK.31:2)*
 
 These verses are a description of Pharaoh, set forth as a tall tree in Lebanon. Some scholars believe that Assyria is a copying error, and that this word should be
 
-"cedar," as the two words are very similar in Hebrew. ### 31:10-14
+"cedar," as the two words are very similar in Hebrew. 
+
+### 31:10-14
 *(anchor: EZK.31:10)*
 
 Pharaoh's sin was pride (he was exalted), and the ruler of the nations is
 
-Nebuchadnezzar. ### 32:1-32
+Nebuchadnezzar. 
+
+### 32:1-32
 *(anchor: EZK.32:1)*
 
 The lamentation primarily for Pharaoh comes first (vv. 1-16); the lament
 
-primarily for Egypt in her descent into the pit closes this chapter (vv. 17-32). ### 33:1-9
+primarily for Egypt in her descent into the pit closes this chapter (vv. 17-32). 
+
+### 33:1-9
 *(anchor: EZK.33:1)*
 
 Ultimately the trumpet is the preaching of the gospel and the watchman is the
 
 preacher. Those who know the truth and do not warn others will be judged more harshly
 
-than those who die in their lawlessness because they have not heard. ### 33:10-20
+than those who die in their lawlessness because they have not heard. 
+
+### 33:10-20
 *(anchor: EZK.33:10)*
 
 "For the goodness and the loving-kindness of God, and His boundless riches, hold righteous and sinless the man who, as Ezekiel tells, repents of sins; and reckons
@@ -374,24 +394,32 @@ sinful, unrighteous, and impious the man who falls away from piety and righteous
 
 unrighteousness and ungodliness. Wherefore also our Lord Jesus Christ said, 'In
 
-whatsoever things I shall take you, in these I shall judge you'" (Justin; compare Jn 12:47, 48). ### 33:21-33
+whatsoever things I shall take you, in these I shall judge you'" (Justin; compare Jn 12:47, 48). 
+
+### 33:21-33
 *(anchor: EZK.33:21)*
 
 Ezekiel's mouth was opened (v. 22) when Jerusalem was taken captive, while
 
 the kingly line of Judah went silent until the coming of Christ (see Gn 49:9-12). St. Zacharias, the priest who was made mute because of his unbelief, was given back his
 
-voice when his son John the Baptist was born (Lk 1:5-20, 57-79). Also see 3:22-27; 19:1-14 and notes. ### 34:1-31
+voice when his son John the Baptist was born (Lk 1:5-20, 57-79). Also see 3:22-27; 19:1-14 and notes. 
+
+### 34:1-31
 *(anchor: EZK.34:1)*
 
 It is appropriate that immediately after regaining his voice, the prophet condemns
 
 the false shepherds and prophesies the coming of the Good Shepherd, Christ, and the
 
-establishment of His sheep (v. 31), the Church. Compare Jn 10; Lk 15:4-7; 19:17. ### 34:11-16
+establishment of His sheep (v. 31), the Church. Compare Jn 10; Lk 15:4-7; 19:17. 
+
+### 34:11-16
 *(anchor: EZK.34:11)*
 
-Here is an image of Christ shepherding His sheep. ### 34:17-22
+Here is an image of Christ shepherding His sheep. 
+
+### 34:17-22
 *(anchor: EZK.34:17)*
 
 prophet. Compare Mt 23:32, 33, where Christ echoes His own words given here to the
@@ -400,25 +428,35 @@ prophet. Compare Mt 23:32, 33, where Christ echoes His own words given here to t
 ### 34:23
 *(anchor: EZK.34:23)*
 
-My servant David clearly images Christ the Good Shepherd. ### 35:1-15
+My servant David clearly images Christ the Good Shepherd. 
+
+### 35:1-15
 *(anchor: EZK.35:1)*
 
 Mount Seir is Edom (v. 15), where Esau, brother of Jacob, settled (Gn 36:8). See
 
-Dt 2:1-6 and note. ### 36:1-7
+Dt 2:1-6 and note. 
+
+### 36:1-7
 *(anchor: EZK.36:1)*
 
-The judgment continues against Edom, which today is southern Jordan. ### 36:8-15
+The judgment continues against Edom, which today is southern Jordan. 
+
+### 36:8-15
 *(anchor: EZK.36:8)*
 
-This prophecy is ultimately fulfilled in the Church, which is the New Israel. ### 36:16-38
+This prophecy is ultimately fulfilled in the Church, which is the New Israel. 
+
+### 36:16-38
 *(anchor: EZK.36:16)*
 
 The earthly Israel is also representative of fallen humanity, which has
 
 desecrated God's holy name (v. 21). But the Lord will gather (v. 24) both Jew and
 
-Gentile from among the nations, and with them establish His Church. ### 37:1-14
+Gentile from among the nations, and with them establish His Church. 
+
+### 37:1-14
 *(anchor: EZK.37:1)*
 
 This passage is the Great Doxology read at Matins on Great and Holy Saturday. The Fathers teach that it prophesies the Final Resurrection. "Great is the lovingkindness
@@ -443,7 +481,9 @@ tree of life, so shall their days be'), He is shown to be the only God who accom
 
 these things, and as Himself the good Father, benevolently conferring life upon those
 
-who have not life from themselves" (Iren). ### 37:15-28
+who have not life from themselves" (Iren). 
+
+### 37:15-28
 *(anchor: EZK.37:15)*
 
 "Ezekiel put together the sticks, the two in one: in the two beams of the Cross, their staves have ceased. The two sticks, as it were wings, bore the people: lo! his two
@@ -452,7 +492,9 @@ staves were broken, even as his wings. The bosom and wings of the Cross, He open
 
 mercy: its pinions bowed and bore the nations, to go to Eden. It is akin to the Tree of Life, and unto the son of its stock: it leads its beloved that on its boughs, they may feed on its
 
-fruits" (EphS). ### 38:1-29
+fruits" (EphS). 
+
+### 38:1-29
 *(anchor: EZK.38:1)*
 
 The names of these nations are not meant to lead us to specific historical
@@ -473,7 +515,9 @@ mean the time since Pentecost, the Church age, though there will be a final batt
 
 end of the age, after which Satan will be cast into the abyss forever (Rev 20:10). Gog and
 
-Magog: See Rev 20:8-10 and note. ### 40:2-3
+Magog: See Rev 20:8-10 and note. 
+
+### 40:2-3
 *(anchor: EZK.40:2)*
 
 St. Gregory the Great sees Christ in both the high mountain and the man. The
@@ -484,7 +528,9 @@ the truth taught by the apostles. The measuring rod signifies Holy Scripture. Ch
 
 stood at the gate "because in His humanity He appeared visible, and in His divinity He
 
-remained unseen" (GrgGt). Compare Rev 21:9-27. ### 40:5-7
+remained unseen" (GrgGt). Compare Rev 21:9-27. 
+
+### 40:5-7
 *(anchor: EZK.40:5)*
 
 St. Gregory the Great sees in the wall a type of the Incarnation in the womb of the
@@ -495,7 +541,9 @@ Six cubits represent the active life, "because God completed all His works on th
 
 day." A handbreadth, which is "from the seventh, but falls short," signifies the
 
-contemplative life. ### 40:6-9
+contemplative life. 
+
+### 40:6-9
 *(anchor: EZK.40:6)*
 
 St. Gregory the Great interprets the meaning of the gates in four ways: as
@@ -522,7 +570,9 @@ Testament faithful are "kindled with the love of the Trinity" (GrgGt). The ten c
 
 thirteen cubits (v. 11) illustrates the increased knowledge of the Trinity revealed in
 
-Christ. ### 40:15
+Christ. 
+
+### 40:15
 *(anchor: EZK.40:15)*
 
 Fifty (seven squared plus one) signifies eternal rest, "because our every perfection
@@ -531,14 +581,18 @@ will be in the contemplation of the One in the vision of whom there will be for 
 
 of salvation and joy. Hence the Jubilee, i.e., the fiftieth year, was also given for rest"
 
-(GrgGt; see Lv 25 and notes). ### 40:16
+(GrgGt; see Lv 25 and notes). 
+
+### 40:16
 *(anchor: EZK.40:16)*
 
 Hidden windows, like icons, provide glimpses of heavenly glory, which enlighten
 
 the soul through contemplation; while palm trees signify the rewards of victory (Jn
 
-12:13; Rev 7:9). ### 40:20-28
+12:13; Rev 7:9). 
+
+### 40:20-28
 *(anchor: EZK.40:20)*
 
 St. Gregory sees the north gate as being for the Gentiles, beginners, and
@@ -555,7 +609,9 @@ the noonday light."
 
 St. Gregory sees the outer gates as imaging the Old Testament prophets, and the
 
-inner gates as imaging the Holy Apostles. ### 40:31-33
+inner gates as imaging the Holy Apostles. 
+
+### 40:31-33
 *(anchor: EZK.40:31)*
 
 The east gate signifies Christ's entrance into the world through the womb of the
@@ -566,7 +622,9 @@ the perfect understand in their secret hearts; those who already know how mental
 
 transcend all temporal things; who wholly despise the present life which turns through a
 
-cycle of seven days; who feed on inward contemplation" (GrgGt). ### 40:39-48
+cycle of seven days; who feed on inward contemplation" (GrgGt). 
+
+### 40:39-48
 *(anchor: EZK.40:39)*
 
 Here the vision concerns the heavenly altar (v. 46), imaged in the Divine
@@ -575,7 +633,9 @@ Liturgy, where the saints offer their whole being to God in praise and worship. 
 
 13:10-19 and notes. The court is the foursquare fullness of the Church, which operates
 
-in faith, hope, charity, and good works. ### 41:1-6
+in faith, hope, charity, and good works. 
+
+### 41:1-6
 *(anchor: EZK.41:1)*
 
 The prophet is brought into the inner sanctuary, which is an image of the human
@@ -584,14 +644,18 @@ soul. The temple is a type of the Theotokos, who held God the Word in her womb. 
 
 more on this imagery, see Heb 9. The untouched wall also images the Theotokos. See
 
-40:5-7; 43:1-3 and notes. ### 41:7
+40:5-7; 43:1-3 and notes. 
+
+### 41:7
 *(anchor: EZK.41:7)*
 
 The side chambers that became wider as they went up illustrate the heart that
 
 grows by grace into the likeness of God, as well as the growth and unity of the Church
 
-united in Christ. ### 41:11-12
+united in Christ. 
+
+### 41:11-12
 *(anchor: EZK.41:11)*
 
 North . . . south: See 40:20, 27 and notes. The light is the light of Christ present
@@ -610,15 +674,21 @@ as he is able to bear it; for while we are on this earth, we see as in a mirror 
 
 13:12). Compare the term fishnet to 47:10; Jn 21:3-6. The wood panels point to
 
-Christ's humanity (see Ex 25:10, 11 and note). ### 41:17-19
+Christ's humanity (see Ex 25:10, 11 and note). 
+
+### 41:17-19
 *(anchor: EZK.41:17)*
 
 The two faces of the cherubim signify Christ as man and as lion of Judah (see
 
-Gn 49:9-12 and note). ### 41:21
+Gn 49:9-12 and note). 
+
+### 41:21
 *(anchor: EZK.41:21)*
 
-The wooden altar is symbolic of the Cross. ### 42:1-8
+The wooden altar is symbolic of the Cross. 
+
+### 42:1-8
 *(anchor: EZK.42:1)*
 
 Five halls in the outer court, to the east, illustrate the five human senses
@@ -627,20 +697,28 @@ directed toward Christ. The halls of ten (i.e., the Law) by one hundred (i.e., p
 
 cubits, together with the upper walkways, illustrate a lifetime of obedience, good
 
-works, and repentance leading upward to heaven. Fifty: See 40:15 and note. ### 42:9
+works, and repentance leading upward to heaven. Fifty: See 40:15 and note. 
+
+### 42:9
 *(anchor: EZK.42:9)*
 
 , 10
 
 Christ is the Door, the Orient (east), the light, the head, and the way for all
 
-who enter the heavenly places. ### 42:13-14
+who enter the heavenly places. 
+
+### 42:13-14
 *(anchor: EZK.42:13)*
 
-Under the Law, the holy place was accessible only to the priests, but in Christ, all who draw near in faith and love may partake of the most holy things. ### 42:15-20
+Under the Law, the holy place was accessible only to the priests, but in Christ, all who draw near in faith and love may partake of the most holy things. 
+
+### 42:15-20
 *(anchor: EZK.42:15)*
 
-He measured the house all around: Compare Rev 21:9-27. ### 43:1-12
+He measured the house all around: Compare Rev 21:9-27. 
+
+### 43:1-12
 *(anchor: EZK.43:1)*
 
 The prophet was led . . . out from the east gate, the glory of the Lord entered, and then the gate was shut (44:1). According to the Fathers, this passage, together with
@@ -689,12 +767,16 @@ Entry of the Theotokos into the Temple we sing, "Today the house of God receives
 
 Gate through which no one may pass; so it has brought an end to the worship
 
-commanded by the shadow of the Law." See 43:1-12 and note. ### 44:6-9
+commanded by the shadow of the Law." See 43:1-12 and note. 
+
+### 44:6-9
 *(anchor: EZK.44:6)*
 
 The Law was broken by the Jews, but under the New Covenant, foreign sons--
 
-uncircumcised Gentiles (v. 7)--became baptized Christians. ### 45:1-25
+uncircumcised Gentiles (v. 7)--became baptized Christians. 
+
+### 45:1-25
 *(anchor: EZK.45:1)*
 
 These physically impractical divisions of the land and the instructions
@@ -707,7 +789,9 @@ are all types of Christ, our possession (v. 8), who made atonement (v. 18) for H
 
 Church. The Paschal Feast (v. 21), or Passover (see Nm 28:16 and note), is fulfilled
 
-whenever we celebrate Christ's Resurrection. ### 46:1-24
+whenever we celebrate Christ's Resurrection. 
+
+### 46:1-24
 *(anchor: EZK.46:1)*
 
 With the Resurrection of Christ, the Sabbath, which was the seventh day, has
@@ -722,7 +806,9 @@ our midst (v. 10). Just as the Prince goes in and out (v. 8) by the east gate, s
 
 came into the world by taking His flesh from His Mother, the Most Holy Theotokos (see
 
-44:1-4 and note). ### 47:1-23
+44:1-4 and note). 
+
+### 47:1-23
 *(anchor: EZK.47:1)*
 
 A vision applying to holy baptism, the coming of the Holy Spirit, the preaching of
@@ -741,10 +827,14 @@ midst of it parts into four heads [Gn 2:10]. This is the same fountain which Eze
 
 on describes as issuing out of the temple and flowing towards the rising of the sun, until
 
-it heals the bitter waters and quickens those that are dead" (Jerome). ### 47:12
+it heals the bitter waters and quickens those that are dead" (Jerome). 
+
+### 47:12
 *(anchor: EZK.47:12)*
 
-See Rev 22:2. ### 48:1-35
+See Rev 22:2. 
+
+### 48:1-35
 *(anchor: EZK.48:1)*
 
 This chapter has been and continues to be fulfilled since Pentecost, when the
@@ -753,7 +843,9 @@ Church was established and began to "inherit the land," growing with Christ in i
 
 (v. 10) until it fills the earth on the final day. The Levites typify the clergy of the Church, and the workers (v. 19) are the faithful. These cultivate the land by good works, bringing the firstfruits of their labor into the Lord's house whenever we gather together
 
-to worship Him in Spirit and in truth. ### 48:35
+to worship Him in Spirit and in truth. 
+
+### 48:35
 *(anchor: EZK.48:35)*
 
 The name of the city is the New Jerusalem (Rev 3:12), the Church, which has

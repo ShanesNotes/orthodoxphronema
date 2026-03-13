@@ -18,7 +18,9 @@ Susanna, like so many other Old Testament heroines, can be seen to typify the
 
 Church, and Daniel (v. 44), her deliverer, typifies Christ. The two elders (v. 5) are like the
 
-powers of darkness, which seek to lead the godly astray. ### 1:7
+powers of darkness, which seek to lead the godly astray. 
+
+### 1:7
 *(anchor: DAN.1:7)*
 
 Susanna in the garden echoes Eve in the Garden of Eden, but her righteousness
@@ -49,7 +51,9 @@ believe that all of them have been set forth in figures by the patriarchs."
 
 The elders played the role of witnesses and laid their hands on the head of the
 
-accused in accordance with the Torah (Lv 24:14). ### 1:45
+accused in accordance with the Torah (Lv 24:14). 
+
+### 1:45
 *(anchor: DAN.1:45)*
 
 St. Ignatius argues from this passage that the age of a bishop is immaterial; a young
@@ -78,19 +82,25 @@ fast like them."
 
 1:21
 
-King Cyrus's first year of reigning over the Persians is 538 BC. ### 2:1
+King Cyrus's first year of reigning over the Persians is 538 BC. 
+
+### 2:1
 *(anchor: DAN.2:1)*
 
 Second year: 604 BC. Nebuchadnezzar's dreams could not be told or interpreted by
 
 the Chaldean sorcerers, just as man's wisdom can neither tell nor interpret the mystery of
 
-his own existence. ### 2:25-28
+his own existence. 
+
+### 2:25-28
 *(anchor: DAN.2:25)*
 
 Daniel, who both tells and interprets the dream, is a figure of Christ, who alone is
 
-able both to reveal and to solve man's predicament. ### 2:31-49
+able both to reveal and to solve man's predicament. 
+
+### 2:31-49
 *(anchor: DAN.2:31)*
 
 Both Hippolytus and Eusebius see parallels between Nebuchadnezzar's dream and
@@ -117,14 +127,18 @@ feet and overtook these governments, so the gospel spread to all the nations of 
 
 Gentiles (vv. 34, 35). Finally this stone, the Church, becomes a great mountain as the
 
-gospel fills the earth. ### 2:35
+gospel fills the earth. 
+
+### 2:35
 *(anchor: DAN.2:35)*
 
 Blessed Augustine writes that the mountain which grew out of a small stone is the
 
 kingdom of God, present in the One Holy Catholic and Apostolic Church. The Church's
 
-beginnings were indeed small, yet the Church has spread throughout the world. ### 2:46
+beginnings were indeed small, yet the Church has spread throughout the world. 
+
+### 2:46
 *(anchor: DAN.2:46)*
 
 St. Hippolytus sees in Daniel a type of Christ. "How great is the power of God, beloved, that one who a little before was doomed to death with the other wise men of
@@ -135,7 +149,9 @@ Babylon, should now be worshiped by the king, not as a man but as God!"
 ### 2:48
 *(anchor: DAN.2:48)*
 
-Like Christ's, Daniel's humility (v. 30) brings him favor with God and men. ### 3:1-18
+Like Christ's, Daniel's humility (v. 30) brings him favor with God and men. 
+
+### 3:1-18
 *(anchor: DAN.3:1)*
 
 This passage contains a striking reverse parallel. Under the Old Covenant, the whole
@@ -144,7 +160,9 @@ world (represented by Babylon), except for the Jewish faithful (represented by t
 
 youths), was filled with idolatry, but under the New Covenant, the Gentile nations will
 
-come to worship the one true God of Israel. ### 3:19-23
+come to worship the one true God of Israel. 
+
+### 3:19-23
 *(anchor: DAN.3:19)*
 
 A Nativity hymn in the Church reveals the profound typology in this passage: "The
@@ -155,12 +173,16 @@ womb of the Maiden, which remained sealed when she gave birth in fashion past na
 
 St. John Cassian likens the furnace (v. 19) to the passions of our flesh, which constantly
 
-threaten to destroy us; however, these flames can be extinguished through zeal for God, continual repentance, and fasting. ### 3:25
+threaten to destroy us; however, these flames can be extinguished through zeal for God, continual repentance, and fasting. 
+
+### 3:25
 *(anchor: DAN.3:25)*
 
 In the LXX, the Prayer of Azariah and the Hymn of the Three Young Men are placed
 
-after 3:24. Hananiah, Azariah, and Mishael are the original Hebrew names of Shadrach, Meshach, and Abednego (1:6, 7). ### 3:26-45
+after 3:24. Hananiah, Azariah, and Mishael are the original Hebrew names of Shadrach, Meshach, and Abednego (1:6, 7). 
+
+### 3:26-45
 *(anchor: DAN.3:26)*
 
 This prayer is liturgical in nature and includes verses and phrases from
@@ -171,7 +193,9 @@ God's judgment is true (vv. 27, 28), confession of sin (vv. 29, 30), request for
 
 in remembrance of the covenant (vv. 34-36), a plea for mercy (vv. 38-43), and for victory
 
-over enemies (vv. 44, 45). ### 3:46-50
+over enemies (vv. 44, 45). 
+
+### 3:46-50
 *(anchor: DAN.3:46)*
 
 This brief commentary between the Prayer and the Hymn is repeated and
@@ -180,7 +204,9 @@ expanded in vv. 91-97. "See how even the fire appears intelligent, as if it reco
 
 punished the guilty. For it did not touch the servants of God, but it consumed the
 
-unbelieving and impious Chaldeans" (Hippol). ### 3:52-90
+unbelieving and impious Chaldeans" (Hippol). 
+
+### 3:52-90
 *(anchor: DAN.3:52)*
 
 A fragment from the Fathers remarks that we may marvel at the Hymn of the
@@ -201,7 +227,9 @@ one should boast that any of the creatures was without birth and beginning."
 
 The spirits and souls of the righteous dead continue to give praise to God
 
-forever, throughout the ages. ### 3:91-92
+forever, throughout the ages. 
+
+### 3:91-92
 *(anchor: DAN.3:91)*
 
 St. Hippolytus writes that the king's recognition of the fourth man in the furnace
@@ -214,48 +242,64 @@ of the Son of God in the furnace is a type of Christ's descent into Hades, where
 
 of the dead were imprisoned, that He might deliver the righteous faithful by breaking the
 
-chains of death. ### 4:5
+chains of death. 
+
+### 4:5
 *(anchor: DAN.4:5)*
 
 Both Nebuchadnezzar's dream and his experience that follows reveal how God
 
 humbles the proud and then raises him up again. Fear and terror can be seen as God's
 
-mercy, for the "fear of God is the beginning of wisdom" (Pr 1:7). ### 4:10-17
+mercy, for the "fear of God is the beginning of wisdom" (Pr 1:7). 
+
+### 4:10-17
 *(anchor: DAN.4:10)*
 
 This passage brings great comfort to believers: The Most High God reigns over
 
-the affairs of rulers and nations, for the tree to be cut down is the king (see v. 25). ### 4:27
+the affairs of rulers and nations, for the tree to be cut down is the king (see v. 25). 
+
+### 4:27
 *(anchor: DAN.4:27)*
 
 The mark of a true prophet is that he tells the unadulterated truth at the risk of his
 
-own discomfort and his very life. ### 4:34-37
+own discomfort and his very life. 
+
+### 4:34-37
 *(anchor: DAN.4:34)*
 
 The king's change of heart is encouragement to intercede "for kings and all who
 
-are in authority" (1Ti 2:2). ### 5:2
+are in authority" (1Ti 2:2). 
+
+### 5:2
 *(anchor: DAN.5:2)*
 
 St. Jerome remarks that "vice always glories in defiling what is noble." He sees in
 
 Belshazzar's blatant misuse of the holy vessels a type of the misuse and twisting of
 
-Scripture by heretics for the purpose of drawing others into false doctrine and worship. ### 6:2-3
+Scripture by heretics for the purpose of drawing others into false doctrine and worship. 
+
+### 6:2-3
 *(anchor: DAN.6:2)*
 
 Governors were provincial rulers, often despotic. Daniel was one of three
 
-administrators above these who reported directly to Darius. ### 6:5-6
+administrators above these who reported directly to Darius. 
+
+### 6:5-6
 *(anchor: DAN.6:5)*
 
 The enemies of God historically have stopped at nothing to try to overthrow His
 
 kingdom and His servants. St. Paul calls such schemes "the wiles [strategies] of the devil"
 
-(Eph 6:11). ### 6:17-25
+(Eph 6:11). 
+
+### 6:17-25
 *(anchor: DAN.6:17)*
 
 St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn
@@ -452,19 +496,25 @@ overtones. 11:1
 
 Daniel's prophecies in this chapter were fulfilled with astonishing power and
 
-strength in the centuries after he lived. 11:1, 2 Four kings indeed arose in Persia after Cyrus: Cambyses, Smerdis III, Darius IV, and Xerxes, who led the Persians against the Greeks in about 485-465 BC. ### 11:3-4
+strength in the centuries after he lived. 11:1, 2 Four kings indeed arose in Persia after Cyrus: Cambyses, Smerdis III, Darius IV, and Xerxes, who led the Persians against the Greeks in about 485-465 BC. 
+
+### 11:3-4
 *(anchor: DAN.11:3)*
 
 After his death in 320 BC, the kingdom of Alexander the Great was divided
 
-among his four generals. ### 11:5
+among his four generals. 
+
+### 11:5
 *(anchor: DAN.11:5)*
 
 Ptolemy I Soter was the king of the south, or Egypt. One of his rulers may refer
 
 to Ptolemy's son, Ptolemy II Philadelphus, or else Seleucus Nicator, another of
 
-Alexander's generals, who allied with Ptolemy I Soter and later gained power over him. ### 11:6
+Alexander's generals, who allied with Ptolemy I Soter and later gained power over him. 
+
+### 11:6
 *(anchor: DAN.11:6)*
 
 This verse prophesies Bernice, daughter of Ptolemy II Philadelphus. She could not
@@ -473,21 +523,27 @@ retain her power when her father died, and was assassinated along with those who
 
 strengthened her. It was under Ptolemy II Philadelphus, king of Egpyt from 287-247
 
-BC, that the Septuagint translation of the Old Testament was begun. ### 11:7-9
+BC, that the Septuagint translation of the Old Testament was begun. 
+
+### 11:7-9
 *(anchor: DAN.11:7)*
 
 Her root refers to Bernice's brother, Ptolemy III Evergetes. He avenged her by
 
 killing her assassin, Seleucus Callinicus, king of the north, after which he carried their
 
-Syrian gods back to Egypt. ### 11:10
+Syrian gods back to Egypt. 
+
+### 11:10
 *(anchor: DAN.11:10)*
 
 The sons of Seleucus Callinicus of the north were Seleucus Ceraunus and Antiochus
 
 III. They did indeed assemble . . . great forces, but it was Antiochus who passed
 
-through and invaded the south. ### 11:11-14
+through and invaded the south. 
+
+### 11:11-14
 *(anchor: DAN.11:11)*
 
 Enraged, Ptolemy IV Philopator did fight with the king of the north in about
@@ -496,33 +552,43 @@ Enraged, Ptolemy IV Philopator did fight with the king of the north in about
 
 mustered a greater army, did defeat the forces of his infant son, Ptolemy V Epiphanes, in
 
-204 BC, with the help of troublemakers among the Jews. ### 11:16
+204 BC, with the help of troublemakers among the Jews. 
+
+### 11:16
 *(anchor: DAN.11:16)*
 
 Antiochus III took Judea in battle with Scopus of the south. This included a siege of
 
 Scopus' garrison at Jerusalem. Thus, Antiochus III did indeed stand in the Land of
 
-Beauty. ### 11:17
+Beauty. 
+
+### 11:17
 *(anchor: DAN.11:17)*
 
 In an effort to ally himself with Egypt, Antiochus III married off his child daughter, Cleopatra, to seven-year-old Ptolemy V Epiphanes, but in the end, they did not remain
 
-with him. ### 11:18-19
+with him. 
+
+### 11:18-19
 *(anchor: DAN.11:18)*
 
 Having assailed the coasts and islands of Asia Minor, and having later met with
 
 several defeats, Antiochus III could not be found. He disappeared and was not heard
 
-from again. ### 11:20
+from again. 
+
+### 11:20
 *(anchor: DAN.11:20)*
 
 Antiochus's root most likely refers to one of his sons, Seleucus Philopator. He
 
 confiscated treasures from the temple in Jerusalem, but performed no great deeds and
 
-died without fighting a single battle. ### 11:21-24
+died without fighting a single battle. 
+
+### 11:21-24
 *(anchor: DAN.11:21)*
 
 These verses prophesy Antiochus IV Epiphanes (175-164 BC), another son of
@@ -539,7 +605,9 @@ self-rule. The ruler of the covenant (v. 22) prophesies Judas Maccabeus. Antioch
 
 was able to take over Egypt as well as Syria with only a small force of men, enabling him
 
-to do what neither his fathers or forefathers have done (v. 24). ### 11:30-35
+to do what neither his fathers or forefathers have done (v. 24). 
+
+### 11:30-35
 *(anchor: DAN.11:30)*
 
 The Romans came against Antiochus and made him leave Egypt in 168 BC. Enraged, he began his persecution of the Jews and his desecration of the temple. Help
@@ -554,19 +622,25 @@ fulfillments of these verses. Indeed, Daniel's prophecies have been fulfilled ma
 
 over the course of history, as God's people have endured persecution and testing at the
 
-hands of those who blaspheme God in their pride. ### 11:31-13
+hands of those who blaspheme God in their pride. 
+
+### 11:31-13
 *(anchor: DAN.11:31)*
 
 This passage concerns the future time of the antichrist, the Great Tribulation, and
 
-the end of the world. ### 12:1-3
+the end of the world. 
+
+### 12:1-3
 *(anchor: DAN.12:1)*
 
 At Christ's Second Coming, the antichrist will be crushed, the tribulation will end, and all the dead will awake (v. 2). Resurrection to everlasting life is the destiny of
 
 those who have endured to the end. Resurrection to everlasting shame is the destiny of
 
-those who, in the end, are found outside of Christ. ### 12:7
+those who, in the end, are found outside of Christ. 
+
+### 12:7
 *(anchor: DAN.12:7)*
 
 "But he who reads this passage, even half asleep, cannot fail to see that the kingdom
@@ -577,7 +651,9 @@ judgment of God shall introduce the eternal reign of the saints. For it is paten
 
 context that the time, times, and half a time, means a year, and two years, and half a year, that is to say, three years and a half" (Aug). See also 7:25 and note; Rev 12:7-16 and
 
-notes. ### 12:11
+notes. 
+
+### 12:11
 *(anchor: DAN.12:11)*
 
 Hippolytus writes that this prophecy concerns the three and a half years --"the one

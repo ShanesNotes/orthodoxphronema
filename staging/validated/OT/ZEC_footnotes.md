@@ -30,7 +30,9 @@ the language used by John to describe the Incarnation (see Jn 1:1-18). The Word 
 
 comes to Zechariah is truly the eternal Son of God, the Word of God, the Second Person
 
-of the Holy Trinity who becomes flesh as Jesus Christ. ### 1:2
+of the Holy Trinity who becomes flesh as Jesus Christ. 
+
+### 1:2
 *(anchor: ZEC.1:2)*
 
 Zechariah informs the people of God's wrath against them. In the Bible, God is a God of
@@ -51,7 +53,9 @@ care. His wrath shows that He cares deeply. God loves His creation perfectly. Hi
 
 wrath are not changing, inconsistent, impure, or unreliable. God is not like man. His
 
-wrath and love are not like human wrath and love. ### 1:3
+wrath and love are not like human wrath and love. 
+
+### 1:3
 *(anchor: ZEC.1:3)*
 
 The dichotomy between the Old and New Testaments held by the arch-heretic Marcion
@@ -64,7 +68,9 @@ He does in the New Testament. Zechariah delivers the same message of repentance 
 
 preached by Christ Himself. Repentance is necessary for salvation. There is no right
 
-relationship with God without turning from sin to God. ### 1:4
+relationship with God without turning from sin to God. 
+
+### 1:4
 *(anchor: ZEC.1:4)*
 
 Zechariah warns the people not to become like your fathers. The prophets warned
@@ -73,7 +79,9 @@ the former generation, calling them to turn away from their evil ways. Sadly, Go
 
 the message of Zechariah. This message is the same precisely because it is from the lips
 
-of God. The message of the prophets is fulfilled by Jesus Christ (Mt 5:17). ### 1:5
+of God. The message of the prophets is fulfilled by Jesus Christ (Mt 5:17). 
+
+### 1:5
 *(anchor: ZEC.1:5)*
 
 Zechariah asks a question that plagues humanity: Where are your fathers and the
@@ -86,12 +94,16 @@ Mesopotamia because they did not repent. Zechariah is also presenting a contrast
 
 between men, who are transient and mortal, and God, who is immortal and transcendent. The previous generation is dead and gone, but God lives and remains the same. As Paul
 
-exclaims, "Jesus Christ is the same yesterday, today, and forever" (Heb 13:8). ### 1:6
+exclaims, "Jesus Christ is the same yesterday, today, and forever" (Heb 13:8). 
+
+### 1:6
 *(anchor: ZEC.1:6)*
 
 God commands His people to receive My words and My ordinances. God does not
 
-force His way upon mankind. He honors free will. He wants human obedience, fidelity, and fellowship. He calls people to repentance, but He never circumvents human free will. ### 1:7
+force His way upon mankind. He honors free will. He wants human obedience, fidelity, and fellowship. He calls people to repentance, but He never circumvents human free will. 
+
+### 1:7
 *(anchor: ZEC.1:7)*
 
 The first vision occurs between mid-January and mid-February, 520 BC, three or four
@@ -104,21 +116,27 @@ visions follow a pattern: (1) vision, (2) questions, and (3) answer. Eight is th
 
 re-creation in Holy Scripture. Jewish males were circumcised on the eighth day. Thus, the
 
-eight visions indicate a renewal of the covenant with the people of God. ### 1:8-10
+eight visions indicate a renewal of the covenant with the people of God. 
+
+### 1:8-10
 *(anchor: ZEC.1:8)*
 
 Zechariah sees the vision, then asks the angel talking to him for an interpretation. Even the prophet must have guidance to understand the Word of God. The meaning of
 
 God's self-disclosure is not self-evident. This is why the Church, and not any mere
 
-individual, is the interpreter of Holy Writ. ### 1:11
+individual, is the interpreter of Holy Writ. 
+
+### 1:11
 *(anchor: ZEC.1:11)*
 
 The horsemen are angelic hosts, that is, angels in the armies of heaven. These
 
 particular angels are scouts. They have traveled around the world and found everything
 
-peaceful. ### 1:12-13
+peaceful. 
+
+### 1:12-13
 *(anchor: ZEC.1:12)*
 
 The Angel of the Lord intercedes for the exiled Jews, pleading for mercy toward
@@ -139,7 +157,9 @@ Church teaches the faithful to pray to the angels to intercede on behalf of mank
 
 the people of God. This is one instance in Holy Scripture of the dialogue of prayer
 
-occurring between a holy man and the angels. ### 1:14-15
+occurring between a holy man and the angels. 
+
+### 1:14-15
 *(anchor: ZEC.1:14)*
 
 Zechariah is enjoined to cry out the good sayings and comforting words of God to
@@ -174,26 +194,34 @@ evil for good and evil men for good purposes, but this does not excuse the evil 
 
 divine authorship to it. The wrath of God against His people does not justify the violence
 
-and wickedness of those who are instruments of it. ### 2:1-4
+and wickedness of those who are instruments of it. 
+
+### 2:1-4
 *(anchor: ZEC.2:1)*
 
 The vision of the four horns and four craftsmen is a message of hope and
 
 comfort for the people of God. Horns symbolize power in the Old Testament. The four
 
-horns are the hostile armies that carried first Israel, then Jerusalem and Judah into exile. ### 2:5-17
+horns are the hostile armies that carried first Israel, then Jerusalem and Judah into exile. 
+
+### 2:5-17
 *(anchor: ZEC.2:5)*
 
 The vision of the measuring line pushes the promise of 2:1-4 further. The
 
 destructive work of the four horns now being completed, the way is clear for the heavenly
 
-surveyors to survey Jerusalem for rebuilding. ### 2:10
+surveyors to survey Jerusalem for rebuilding. 
+
+### 2:10
 *(anchor: ZEC.2:10)*
 
 God calls the exiled back to the land of promise in a second exodus, promising to
 
-bring back His people from across the globe. ### 2:17
+bring back His people from across the globe. 
+
+### 2:17
 *(anchor: ZEC.2:17)*
 
 Let all flesh fear before the presence of the Lord: This phrase calls to mind the
@@ -212,7 +240,9 @@ liturgy, and most especially during Communion. The prophet speaks of the divine
 
 humility and self-emptying of Christ for us. We are likewise called to humble and empty
 
-ourselves in His presence for Him. ### 3:1
+ourselves in His presence for Him. 
+
+### 3:1
 *(anchor: ZEC.3:1)*
 
 The Hebrew name Joshua (Greek Jesus; Aramaic Yeshua) means "Savior" or "He who
@@ -223,7 +253,9 @@ Sirach, Joshua the high priest here, among others) and at the time of Christ. Ma
 
 cultures around the world today name children Jesus. The scene opens with the high priest Joshua standing in the presence of God being
 
-opposed by the devil. Satan is the accuser who opposes the people of God (see Job 1; 2). ### 3:2
+opposed by the devil. Satan is the accuser who opposes the people of God (see Job 1; 2). 
+
+### 3:2
 *(anchor: ZEC.3:2)*
 
 St. Michael the Archangel would not dispute with the devil over the body of Moses, but
@@ -234,7 +266,9 @@ says, "The Lord rebukes you." This is fulfilled in the temptation of Christ, whe
 
 relies upon the written word of Holy Scripture rather than His own power as Son of God
 
-to rebuke Satan and resist temptation (Mt 4:1-11; Mk 1:12, 13; Lk 4:1-13). ### 3:3-5
+to rebuke Satan and resist temptation (Mt 4:1-11; Mk 1:12, 13; Lk 4:1-13). 
+
+### 3:3-5
 *(anchor: ZEC.3:3)*
 
 Joshua the high priest wears the filthy garments of the Jews of his time, while
@@ -243,7 +277,9 @@ Jesus Christ the Great High Priest wore them in the Incarnation for all people. 
 
 Lord took the flesh of a servant, wore our filthy rags, bore our sins, and was accused on
 
-our behalf before God and by man unjustly. ### 3:10
+our behalf before God and by man unjustly. 
+
+### 3:10
 *(anchor: ZEC.3:10)*
 
 This promise is for peace, safety, luxury, blessing, and paradise. 3:1-10 The LXX makes the Christological typography of the fourth vision crystal clear. Paul
@@ -254,7 +290,9 @@ calls Jesus the High Priest who supersedes the high priest in the Jerusalem temp
 
 here. This includes the Jewish high priest contemporary with Christ and the apostles
 
-(Heb 9). ### 4:1
+(Heb 9). 
+
+### 4:1
 *(anchor: ZEC.4:1)*
 
 , 2
@@ -265,14 +303,18 @@ menorah is a symbol for Israel. It appeared in Solomon's temple and appears stil
 
 Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands
 
-(Rev 1:12-20), which are seven churches. ### 4:3-5
+(Rev 1:12-20), which are seven churches. 
+
+### 4:3-5
 *(anchor: ZEC.4:3)*
 
 Zechariah also saw two olive trees. He does not know what they mean. The two
 
 olive trees may be either Israel and the Church (the old and new Israel) or the Old and
 
-New Testaments. ### 4:6
+New Testaments. 
+
+### 4:6
 *(anchor: ZEC.4:6)*
 
 The word of the Lord declares to Zerubbabel through Zechariah, 'Not by mighty
@@ -289,7 +331,9 @@ temple thirteen years previously failed because the people did not depend on the
 
 Spirit. Human efforts alone achieve nothing in the Kingdom of God. Human efforts under
 
-the power of God the Holy Spirit yield everything God wills. ### 4:11-14
+the power of God the Holy Spirit yield everything God wills. 
+
+### 4:11-14
 *(anchor: ZEC.4:11)*
 
 Zechariah asks twice more about the olive trees. He is finally told, "These are the
@@ -298,12 +342,16 @@ two sons of richness who stand beside the Lord of all the earth." They represent
 
 the two powers or functions held by the two men, Zerubbabel (political leadership) and
 
-Joshua the high priest (sacerdotal leadership). ### 5:1
+Joshua the high priest (sacerdotal leadership). 
+
+### 5:1
 *(anchor: ZEC.5:1)*
 
 , 2 The sickle is "scroll" in Hebrew. Both are indicative of judgment. The sickle is huge, of roughly the same dimensions as the tabernacle in the wilderness (see Ex 26:15-28) or
 
-the porch of Solomon's temple (see 3Kg 6:6, 7). ### 5:3-4
+the porch of Solomon's temple (see 3Kg 6:6, 7). 
+
+### 5:3-4
 *(anchor: ZEC.5:3)*
 
 The seventh and third commandments are given here as representative of the first
@@ -316,7 +364,9 @@ man and man. Covenant-breakers are excluded from the covenant. Israel is forewar
 
 not to forsake the covenant with God again. The same judgment that led to the exile
 
-seventy years previously awaits them should they fail to be faithful. ### 5:5-11
+seventy years previously awaits them should they fail to be faithful. 
+
+### 5:5-11
 *(anchor: ZEC.5:5)*
 
 This is a vision of a measuring basket or ephah (a measuring bucket for grain)
@@ -327,26 +377,34 @@ the mouth of the basket to keep her in it. Two angelic women whisk the measure o
 
 Babylon, where it is placed on a prepared foundation. This passage assures the people of
 
-God that paganism will be destroyed. Good will overcome evil. ### 5:7-9
+God that paganism will be destroyed. Good will overcome evil. 
+
+### 5:7-9
 *(anchor: ZEC.5:7)*
 
 The activity of the Holy Spirit is often accompanied by activities of the wind or breath
 
-throughout the Bible. ### 6:1-15
+throughout the Bible. 
+
+### 6:1-15
 *(anchor: ZEC.6:1)*
 
 The concluding vision of four chariots brings to mind the first vision (1:7-17). The
 
 four horsemen in the first vision were angelic warriors, since chariots were used by such
 
-soldiers in the ancient world. ### 6:2-8
+soldiers in the ancient world. 
+
+### 6:2-8
 *(anchor: ZEC.6:2)*
 
 The heavenly chariots span the four directions of the compass. Peace, rest, and
 
 security are given to the Lord's land. This reminds us of God's providential care of us
 
-through the activities of the angels. ### 6:9-15
+through the activities of the angels. 
+
+### 6:9-15
 *(anchor: ZEC.6:9)*
 
 Zechariah is commanded by the word of the Lord to collect gifts from the rulers
@@ -357,7 +415,9 @@ crown goes to the one who endured. Others then shall come to rebuild the temple.
 
 New Testament, crowns are cast at the feet of Jesus Christ the Great High Priest (Rev
 
-4:10). St. Paul promises crowns to believers who endure (1Co 9:24-27). ### 6:12
+4:10). St. Paul promises crowns to believers who endure (1Co 9:24-27). 
+
+### 6:12
 *(anchor: ZEC.6:12)*
 
 The word is variously rendered "Dayspring," "Sunrise," and "Orient." The Hebrew
@@ -368,10 +428,14 @@ service as the bride and groom circle the analogion and at the ordination of a p
 
 is led around the altar: The Lord's redemptive work takes place in the family and in the
 
-Church. ### 7:1
+Church. 
+
+### 7:1
 *(anchor: ZEC.7:1)*
 
-This date would be mid-November to mid-December, 518 BC. ### 7:2-3
+This date would be mid-November to mid-December, 518 BC. 
+
+### 7:2-3
 *(anchor: ZEC.7:2)*
 
 The authorities ask whether to continue the fasts associated with the fall of Judah
@@ -380,7 +444,9 @@ and the Babylonian Captivity. The fourth-month fast commemorated the fall of
 
 Jerusalem. The seventh-month fast commemorated the murder of Gedaliah. The tenthmonth fast commemorated the siege of Jerusalem. The fifth-month fast remembered the
 
-burning of the temple. ### 7:4-7
+burning of the temple. 
+
+### 7:4-7
 *(anchor: ZEC.7:4)*
 
 As He often does in the Scriptures, God replies with a series of rhetorical questions
@@ -389,7 +455,9 @@ designed to arouse the contemplation of one's inward disposition. During these f
 
 the past seventy years of exile, the outward disposition was maintained but the hearts of
 
-the people were not devoted to God. ### 7:8-12
+the people were not devoted to God. 
+
+### 7:8-12
 *(anchor: ZEC.7:8)*
 
 The people failed to live justly in relation to their neighbors. They were
@@ -406,7 +474,9 @@ it, so stop the fast." Instead, he calls for repentance so that the heart and li
 
 by proper fasting. Proper fasting involves the heart in right relationship to God and man. The prophet calls for his hearers to fast rightly, not to stop fasting because they are living
 
-wrongly. ### 7:13-14
+wrongly. 
+
+### 7:13-14
 *(anchor: ZEC.7:13)*
 
 These verses spell out the cost of refusing to listen to God: God will not listen to
@@ -417,7 +487,9 @@ Chapters 7 and 8 are a unit representing a single prophecy. The question about
 
 fasting raised in 7:1-14 is addressed again in 8:19, showing the literary unity of the two
 
-chapters. ### 8:1-23
+chapters. 
+
+### 8:1-23
 *(anchor: ZEC.8:1)*
 
 Chapter 8 contains ten sections, each beginning with Thus says the Lord
@@ -432,12 +504,16 @@ return to Zion, to the temple, to dwell between the cherubim on the mercy seat o
 
 of the covenant in the holy of holies. Jerusalem will once again be what she was intended
 
-to be, the True City, the Mountain of the Lord Almighty, the Holy Mountain. ### 8:4-5
+to be, the True City, the Mountain of the Lord Almighty, the Holy Mountain. 
+
+### 8:4-5
 *(anchor: ZEC.8:4)*
 
 The picture of security includes elderly men and women sitting in the open
 
-squares of Jerusalem while children are playing (see Is 65:19, 20). ### 8:6-8
+squares of Jerusalem while children are playing (see Is 65:19, 20). 
+
+### 8:6-8
 *(anchor: ZEC.8:6)*
 
 God will bring the exiles back. They shall be to Me a people and I will be to
@@ -446,7 +522,9 @@ them a God in truth and in righteousness: This is a type of Christ in the
 
 Incarnation, in which God tabernacles with man (Jn 1:14), and of the New Jerusalem in
 
-the Eschaton (Rev 21:3). ### 8:9
+the Eschaton (Rev 21:3). 
+
+### 8:9
 *(anchor: ZEC.8:9)*
 
 , 10
@@ -457,17 +535,23 @@ shall not have economic and political peace until that is accomplished. When man
 
 his own interests above the spiritual, moral, and liturgical things of God, prosperity is
 
-fleeting. ### 8:11-15
+fleeting. 
+
+### 8:11-15
 *(anchor: ZEC.8:11)*
 
 The exile curse is lifted. The postexilic blessing is on the way. Thus, the prophet
 
-exhorts, be of good courage! ### 8:16-17
+exhorts, be of good courage! 
+
+### 8:16-17
 *(anchor: ZEC.8:16)*
 
 God demands that His people speak the truth, judge with truth, and avoid false
 
-oaths (Mic 6:8). Truth is essential for the people of God in every aspect of life: religious, personal, social, judicial, and political. ### 8:19-23
+oaths (Mic 6:8). Truth is essential for the people of God in every aspect of life: religious, personal, social, judicial, and political. 
+
+### 8:19-23
 *(anchor: ZEC.8:19)*
 
 The matter of fasting which began this lengthy section (7:1-8:23) is addressed
@@ -476,14 +560,18 @@ again. Fasting becomes joy, gladness, and feasting. Jerusalem will become a plac
 
 universal worship of God among all peoples (Is 2:3). Restored Judah has a mission to be
 
-light to the nations. This mission is fulfilled in Christ and now belongs to the Church. ### 8:23
+light to the nations. This mission is fulfilled in Christ and now belongs to the Church. 
+
+### 8:23
 *(anchor: ZEC.8:23)*
 
 The hem of the Jewish man's garment refers to the prayer shawls worn by Jewish
 
 men, which had tassels representing all the commandments of the Law. The Hebrew text
 
-has "wings" instead of "hem." The Orthodox deacon's stole represents angelic wings. When the deacon holds the right half of the stole up, this represents angelic activity. When he lets it down, it represents angelic rest. ### 9:1-21
+has "wings" instead of "hem." The Orthodox deacon's stole represents angelic wings. When the deacon holds the right half of the stole up, this represents angelic activity. When he lets it down, it represents angelic rest. 
+
+### 9:1-21
 *(anchor: ZEC.9:1)*
 
 The second half of the Book of Zechariah consists of two burdens or oracles. Both
@@ -502,7 +590,9 @@ Alexander's conquests after 333 BC. The destruction of Judah's enemies precedes 
 
 Messianic Age. The restoration, Messianic Age, and coming day of the Lord are the
 
-themes of chs. 9-14. ### 9:9
+themes of chs. 9-14. 
+
+### 9:9
 *(anchor: ZEC.9:9)*
 
 , 10 The Triumphant Entry of Christ into Jerusalem is foretold here (see Mt 21:1-9; Mk
@@ -529,17 +619,23 @@ by false visions and false dreams using Semitic idols. God will punish them as w
 
 deliver Judah. 11:1-17 The Good Shepherd (see Jn 10) is contrasted with the bad shepherds of 10:1-12. He
 
-replaces the bad shepherds Himself. ### 11:12-14
+replaces the bad shepherds Himself. 
+
+### 11:12-14
 *(anchor: ZEC.11:12)*
 
-The Good Shepherd is betrayed. Matthew cites this passage in his Gospel (26:15; 27:9). The pieces (or shekels) of silver are the price for a slave (Ex 21:32). ### 12:10-14
+The Good Shepherd is betrayed. Matthew cites this passage in his Gospel (26:15; 27:9). The pieces (or shekels) of silver are the price for a slave (Ex 21:32). 
+
+### 12:10-14
 *(anchor: ZEC.12:10)*
 
 This mourning may also apply to the apostles, the women, the Mother of God, and others who mourned Christ at His crucifixion. It may also refer to repentance as a
 
 result of beholding the Crucified, seeing who He is and why He is dying and turning to
 
-Him in faith and obedience. ### 13:7
+Him in faith and obedience. 
+
+### 13:7
 *(anchor: ZEC.13:7)*
 
 Smite the shepherds and draw out the sheep is "Strike the shepherd and the
@@ -550,19 +646,25 @@ the falling away of the disciples upon His arrest. As it appears in the LXX, the
 
 matches vv. 1-8, continuing the warning against the false prophets and the promise of
 
-the people's delivery. ### 13:8-9
+the people's delivery. 
+
+### 13:8-9
 *(anchor: ZEC.13:8)*
 
 The people of God are tried. Two thirds of the people shall die but the third part will
 
-remain. This trial is compared to the way silver and gold are purified by fire. In the end, God calls those who are purified by His Name, and in turn they call Him their God. ### 14:1-21
+remain. This trial is compared to the way silver and gold are purified by fire. In the end, God calls those who are purified by His Name, and in turn they call Him their God. 
+
+### 14:1-21
 *(anchor: ZEC.14:1)*
 
 The prophet foresees the nations gathered in battle against Jerusalem, God's
 
 delivery of His people, and the establishment of a secure, peaceful land (see Is 66:15-23; Ezk 38-40; Joel 4:9-21; Mk 13:7-27; Rev 20-22). In the New Testament, this is to be
 
-accomplished at the Second Coming of Christ and the last battle between God and Satan. ### 14:3-4
+accomplished at the Second Coming of Christ and the last battle between God and Satan. 
+
+### 14:3-4
 *(anchor: ZEC.14:3)*
 
 The Lord's feet will stand on the Mount of Olives in this reference to the
@@ -573,14 +675,18 @@ Messianic Age. This applies both to the Incarnation and the Second Coming of Chr
 
 Coming is another question. The eschatological imagery here, however, indicates
 
-judgment in the presence of God. ### 14:8-11
+judgment in the presence of God. 
+
+### 14:8-11
 *(anchor: ZEC.14:8)*
 
 Christ is the living water (Jn 4:10-14). In the Apocalypse, a river runs through
 
 the Holy City (Rev 22:1-5). The Garden of Eden was at the headwaters of four great rivers
 
-(Gn 2:10-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants. ### 14:18-20
+(Gn 2:10-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants. 
+
+### 14:18-20
 *(anchor: ZEC.14:18)*
 
 The grotesque imagery of the destruction of the enemies of Jerusalem reminds
@@ -605,7 +711,9 @@ Israel. Christ is the eternal Word of God who, in the Incarnation, "dwelt [or ta
 
 among us" (Jn 1:14). So then, all who reject Christ and do not enter the Church to
 
-celebrate and serve Him are condemned. ### 14:21
+celebrate and serve Him are condemned. 
+
+### 14:21
 *(anchor: ZEC.14:21)*
 
 The Canaanite is a merchant. The connotation appears to be that merchants will

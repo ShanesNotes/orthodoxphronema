@@ -14,7 +14,9 @@ status: staging
 
 Amos preached repentance during a time of spiritual drought that preceded judgment
 
-(Lk 3:1, 2); indeed, Christ's Advent was an earthquake that shook the world (Mt 28:2), and the coming of the Holy Spirit a judgment by fire (vv. 4, 7, 10, 12, 14; 2:2, 5). ### 1:3-3
+(Lk 3:1, 2); indeed, Christ's Advent was an earthquake that shook the world (Mt 28:2), and the coming of the Holy Spirit a judgment by fire (vv. 4, 7, 10, 12, 14; 2:2, 5). 
+
+### 1:3-3
 *(anchor: AMO.1:3)*
 
 These judgments are clearly against God's spiritual enemies: demonic powers, idolatry, false teaching, pride, hypocrisy, etc. Gregory the Great sees Gilead, which
@@ -37,19 +39,25 @@ withered."
 
 In the ultimate perversion of good, Judas sold Christ for thirty pieces of silver (Mt
 
-26:15). ### 3:1
+26:15). 
+
+### 3:1
 *(anchor: AMO.3:1)*
 
 The Lord accused the Israelites more severely "and showed that they deserved greater
 
 punishment, because they sinned after receiving the honors that he had bestowed on
 
-them" (JohnChr). ### 3:4
+them" (JohnChr). 
+
+### 3:4
 *(anchor: AMO.3:4)*
 
 As a lion will not roar in a forest that has no prey, so the passions will not attack the
 
-believer who brings "every thought into captivity to the obedience of Christ" (2Co 10:5). ### 3:6
+believer who brings "every thought into captivity to the obedience of Christ" (2Co 10:5). 
+
+### 3:6
 *(anchor: AMO.3:6)*
 
 John Chrysostom writes on the question of whether God is the author of evil: "Now
@@ -70,7 +78,9 @@ on to zeal, making us more attentive."
 
 wounded you. . . . Do not despair of salvation. . . . The Lord does not wish the death of the
 
-sinner, but that he return and live" (BasilG). ### 4:7
+sinner, but that he return and live" (BasilG). 
+
+### 4:7
 *(anchor: AMO.4:7)*
 
 "We ought to strive with great care that we may not be that city upon which the rain
@@ -79,19 +89,25 @@ of the Word of God either does not come at all, or, at least, only late and rare
 
 any doubt, if the dew or rain of the Word of God is provided too late, the fruits of souls
 
-will be the same as earthly fruits which do not receive rain" (Caes). ### 4:10-12
+will be the same as earthly fruits which do not receive rain" (Caes). 
+
+### 4:10-12
 *(anchor: AMO.4:10)*
 
 "In their hardness of heart and with their frequent habit of sinning, they are
 
 beyond the purgation of this very brief age and the punishment of the present life"
 
-(JohnCas). ### 4:13
+(JohnCas). 
+
+### 4:13
 *(anchor: AMO.4:13)*
 
 As both God and Man, Christ, the Anointed One, holds the thunder of His divinity
 
-within His humanity. His very breath was created "in the midst of the earth" (Ps 73:12; see Zec 12:1) when He was conceived by the uncreated Spirit in the womb of the Virgin. ### 5:2
+within His humanity. His very breath was created "in the midst of the earth" (Ps 73:12; see Zec 12:1) when He was conceived by the uncreated Spirit in the womb of the Virgin. 
+
+### 5:2
 *(anchor: AMO.5:2)*
 
 "God can do all things, but the virgin who has fallen will not be raised up. . . . Such
@@ -102,24 +118,32 @@ out by the Bridegroom" (Jerome). Israel is a "fallen virgin" not because she is 
 
 because she has never experienced the joys of marriage; therefore she will be struck down
 
-without leaving a legacy. It will be as though she had never existed. ### 5:6
+without leaving a legacy. It will be as though she had never existed. 
+
+### 5:6
 *(anchor: AMO.5:6)*
 
 House of Joseph refers to Joseph's two sons, Ephraim and Manasseh (Gn 46:20)
 
 and their descendants, who were the main tribes of the Northern Kingdom of Israel. By
 
-extension, it refers to all of Israel. ### 5:7
+extension, it refers to all of Israel. 
+
+### 5:7
 *(anchor: AMO.5:7)*
 
-Justice and righteousness are perfectly fulfilled in Christ. ### 5:8-20
+Justice and righteousness are perfectly fulfilled in Christ. 
+
+### 5:8-20
 *(anchor: AMO.5:8)*
 
 The Sun of Righteousness rises in the morning and transforms (v. 8) the
 
 repentant soul from death into life. But on the day of the Lord, those who flee God will
 
-be plunged into the very darkness (v. 20) that they love so much (see Jn 3:19-21). ### 5:10
+be plunged into the very darkness (v. 20) that they love so much (see Jn 3:19-21). 
+
+### 5:10
 *(anchor: AMO.5:10)*
 
 Christ, the upright word Incarnate, was hated for publicly rebuking the scribes and
@@ -210,7 +234,9 @@ earth (Acts 1:8, 9; 2:1-11). He restored the faithful remnant (v. 12); brought i
 
 nations (v. 12); and planted His Church among them. Drink wine (v. 14) foreshadows
 
-the Eucharist. ### 9:11
+the Eucharist. 
+
+### 9:11
 *(anchor: AMO.9:11)*
 
 At Nativity services in the Church we sing this hymn to the Mother of God, who is

@@ -62,7 +62,9 @@ the carnal (the inhabitants of the land). The message of Joel is fitted to each 
 
 according to his spiritual fitness and place in his journey towards God, yet all should pay
 
-attention. ### 1:4
+attention. 
+
+### 1:4
 *(anchor: JOL.1:4)*
 
 Caterpillar, grasshopper, locust, red blight: Exactly what creatures these words
@@ -79,7 +81,9 @@ Mesopotamian kings, subsequent fathers accepted this verse as a prophecy of the 
 
 major conquests of Israel: the Babylonians, the Persians, the Greeks, and the Romans
 
-(see Dan 2). ### 1:5
+(see Dan 2). 
+
+### 1:5
 *(anchor: JOL.1:5)*
 
 Joel addresses the people of Israel as if they were all drunkards. Drunkenness
@@ -90,7 +94,9 @@ people who are using good things to excess, drinking not to quench their thirst 
 
 become drunk. Christ used this same theme when He warned those who were making
 
-merry in His own day (Lk 6:24-26). ### 1:6
+merry in His own day (Lk 6:24-26). 
+
+### 1:6
 *(anchor: JOL.1:6)*
 
 , 7 Here the prophet not only begins to describe what is in store for his wayward people, but he phrases this eight-line poem as if it were a dirge to lament the occupation of the
@@ -107,7 +113,9 @@ livelihood and wealth of Israel. This is the same manner in which the devil and 
 
 passions assault our own spiritual life. When we succumb to the temptations of the flesh, the powers of evil enter into our land and first attack the virtues of our character and our
 
-good deeds. ### 1:8
+good deeds. 
+
+### 1:8
 *(anchor: JOL.1:8)*
 
 The bride weeps, presumably, for the death of her betrothed. In this same manner the
@@ -118,7 +126,9 @@ sackcloth, lamenting the death of their bridegroom. Indeed, in our own time, whe
 
 judges His People for their sins, we should assume this same demeanor, repenting, being
 
-cleansed by our tears, and awaiting the return of Christ our Savior. ### 1:9
+cleansed by our tears, and awaiting the return of Christ our Savior. 
+
+### 1:9
 *(anchor: JOL.1:9)*
 
 Joel 1:9, 10, 13: The meat-offering and the drink-offering (v. 9); grain-offering
@@ -133,7 +143,9 @@ us the image of the Church stripped of the eucharistic sacraments through the
 
 disobedience of the community. In this situation, the priests are called to lament the
 
-plight of the land and intercede for their wayward people (see 2:17). ### 1:11
+plight of the land and intercede for their wayward people (see 2:17). 
+
+### 1:11
 *(anchor: JOL.1:11)*
 
 By calling the farmers to mourn, Joel not only includes landowners in the national
@@ -146,12 +158,16 @@ sight of God, a rather insignificant matter. More importantly, the prophet calls
 
 beyond and grieve over the destruction of other people, and of the sins which ravage our
 
-souls. ### 1:12
+souls. 
+
+### 1:12
 *(anchor: JOL.1:12)*
 
 They put to shame the delight of the sons of men: The phrase, a Hebraism, literally translates "have shamed their joy." That is to say that joy, a good thing in and of
 
-itself, was being abused and defiled by the Israelites. ### 1:13
+itself, was being abused and defiled by the Israelites. 
+
+### 1:13
 *(anchor: JOL.1:13)*
 
 For the loss of the sacrificial rite, see note at vv. 9, 10. It would be a mistake to read
@@ -160,14 +176,18 @@ this as an anticlerical passage, for the prophet neither upbraids the priests no
 
 the importance of the priesthood. Rather, Joel calls the spiritual leadership of the land to
 
-fulfill their proper role in times of national distress. ### 1:14
+fulfill their proper role in times of national distress. 
+
+### 1:14
 *(anchor: JOL.1:14)*
 
 See Is 58:4, 5. This is but one more reason for fasting in the life of the Church--to
 
 repent of the sins of the community. The leaders and elders of the land are called to
 
-change their luxury into sackcloth (v. 8) and to cry out incessantly and fervently to God. Fasting without contrition of heart is nothing. ### 1:15
+change their luxury into sackcloth (v. 8) and to cry out incessantly and fervently to God. Fasting without contrition of heart is nothing. 
+
+### 1:15
 *(anchor: JOL.1:15)*
 
 The threefold woe is the appropriate response in this disaster since the Holy Trinity
@@ -180,15 +200,21 @@ turns out, Joel uses the term here and in 2:1, 11 to refer to a day of judgment,
 
 turns to the promised salvation of God, the day of the Lord becomes a day of restitution
 
-for the people of God (2:31; 3:14, 18). ### 1:19
+for the people of God (2:31; 3:14, 18). 
+
+### 1:19
 *(anchor: JOL.1:19)*
 
 The prophet interrupts his narrative with a prayer, reminding us that our deliverance
 
-from disaster comes not from any other so-called gods, but from the Lord Himself. ### 1:20
+from disaster comes not from any other so-called gods, but from the Lord Himself. 
+
+### 1:20
 *(anchor: JOL.1:20)*
 
-Just as all the beasts look to God to give them their food in due season (Ps 103:27), so they do here, since He will fill them with every good thing by His hand (Ps 103:28). ### 2:1-11
+Just as all the beasts look to God to give them their food in due season (Ps 103:27), so they do here, since He will fill them with every good thing by His hand (Ps 103:28). 
+
+### 2:1-11
 *(anchor: JOL.2:1)*
 
 In this chapter the prophet switches to the future tense. While ch. 1 appears to
@@ -197,7 +223,9 @@ discuss a plague that has already occurred, ch. 2 warns of yet another imminent 
 
 the Church is the aim of the passage. Joel depicts the coming disaster in a number of
 
-ways, but he emphasizes throughout that God's sovereign plan is ultimately at work. ### 2:4-5
+ways, but he emphasizes throughout that God's sovereign plan is ultimately at work. 
+
+### 2:4-5
 *(anchor: JOL.2:4)*
 
 St. Cyril notes that nothing was more warlike than the fully equipped horse, which
@@ -222,7 +250,9 @@ liturgical act. These acts, done in the right manner, only assist our repentance
 
 repentance is expressed physically, through our bodies and the community? Interestingly, the prophet never tells us of what Israel was guilty. His emphasis
 
-remains on the coming judgment and the need to repent. ### 2:17
+remains on the coming judgment and the need to repent. 
+
+### 2:17
 *(anchor: JOL.2:17)*
 
 Between the porch and the altar: The altar represents the animal sacrifices which
@@ -237,7 +267,9 @@ altar have been united. Christ's death brings life to us. 2:17-18 These two vers
 
 been written so far and introduces the rest of the book, which presents God's promises
 
-and explores the eschatological hope of Israel. ### 2:20
+and explores the eschatological hope of Israel. 
+
+### 2:20
 *(anchor: JOL.2:20)*
 
 Army from the north refers to the Assyrian or Babylonian forces, since locust
@@ -248,7 +280,9 @@ will be driven by the Lord into a dry land, referring to the deserts from which 
 
 plagues would come. The eastern sea and western sea refer to the Dead Sea and
 
-Mediterranean Sea, respectively. ### 2:21-23
+Mediterranean Sea, respectively. 
+
+### 2:21-23
 *(anchor: JOL.2:21)*
 
 The prophet calls on the land, the beasts of the field, and the children of
@@ -259,7 +293,9 @@ the book (see note on 1:2, 3), so he does here, as well. The beasts refer to the
 
 Israelites while the children of Zion refer to the spiritual. The land refers to both of these
 
-groups. ### 2:22-32
+groups. 
+
+### 2:22-32
 *(anchor: JOL.2:22)*
 
 The prophet now turns his gaze towards the final rest of the people of God, prophesying the coming of Christ and the descent of the Holy Spirit. These eleven verses
@@ -268,7 +304,9 @@ are fulfilled ultimately in Christ, the sacramental life of the Church, and Pent
 
 establishment of the Church (see Rom 11:17-24; Jn 15:1; Lk 13:6-9). Rain, wheat, wine, and oil refer to the food that is right for you, namely the sacraments of Holy
 
-Baptism, the Eucharist, and the sealing of the Holy Spirit. ### 3:1
+Baptism, the Eucharist, and the sealing of the Holy Spirit. 
+
+### 3:1
 *(anchor: JOL.3:1)*
 
 When Peter quotes this verse, he changes after this to "in the last days" (Acts 2:17), one of several modest modifications of the verse. Peter's adaptation of Joel indicates that
@@ -277,7 +315,9 @@ he understood the passage to be eschatological. Your sons and daughters shall
 
 prophesy: The gift of prophecy was to be given to both men and women without
 
-distinction (see Acts 21:9). ### 3:5
+distinction (see Acts 21:9). 
+
+### 3:5
 *(anchor: JOL.3:5)*
 
 There shall be proclamation of the good news: The Greek can also be translated

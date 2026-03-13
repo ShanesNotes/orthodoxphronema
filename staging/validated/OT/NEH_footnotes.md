@@ -18,7 +18,9 @@ Persia, its most prominent city and winter residence of King Artaxerxes (Est 1:2
 
 is late November/early December. The twentieth year is that of the reign of Artaxerxes
 
-I, dating this account at 445 BC. ### 1:2
+I, dating this account at 445 BC. 
+
+### 1:2
 *(anchor: NEH.1:2)*
 
 Hanani, a presumed blood brother of Nehemiah, is later made ruler of Jerusalem
@@ -27,14 +29,18 @@ Hanani, a presumed blood brother of Nehemiah, is later made ruler of Jerusalem
 
 Nehemiah the status of (a) the survivors of the captivity now back in Judah and (b) the
 
-city of Jerusalem. ### 1:3
+city of Jerusalem. 
+
+### 1:3
 *(anchor: NEH.1:3)*
 
 The returned exiles are in great distress, for the wall and gates of Jerusalem are
 
 destroyed. Addressing these two problems--the wall and the gates--is key to
 
-understanding the Book of Nehemiah. ### 1:4
+understanding the Book of Nehemiah. 
+
+### 1:4
 *(anchor: NEH.1:4)*
 
 Nehemiah, as would Christ (Mt 23:37), laments prayerfully for the people of
@@ -47,7 +53,9 @@ people and striving to renew the people's obedience to the Law. Throughout Scrip
 
 services of worship and intercession during seasons of fasting, especially Lent and
 
-Advent. ### 1:5-11
+Advent. 
+
+### 1:5-11
 *(anchor: NEH.1:5)*
 
 No indeed is Nehemiah's way of saying, "I'm not putting up with the damaged state
@@ -60,7 +68,9 @@ Dt 30:1-5. This man . . . the king is Artaxerxes I, under whom Nehemiah held the
 
 of cupbearer (v. 11). He it is who would grant Nehemiah's request to return to
 
-Jerusalem (2:6-8). ### 2:1
+Jerusalem (2:6-8). 
+
+### 2:1
 *(anchor: NEH.2:1)*
 
 In ancient times, a ruler's demise was often brought about through the poisoning of
@@ -71,10 +81,14 @@ his food and drink. Typically, a cupbearer was in the king's presence more than 
 
 other subjects and often was held in high confidence. On this day, no one else was
 
-present but his queen (v. 6). ### 2:3
+present but his queen (v. 6). 
+
+### 2:3
 *(anchor: NEH.2:3)*
 
-May the king live forever! was the common way to greet a king (see Dan 2:4; 5:10; ### 6:7
+May the king live forever! was the common way to greet a king (see Dan 2:4; 5:10; 
+
+### 6:7
 *(anchor: NEH.6:7)*
 
 , 22), in the same spirit as greeting the bishop with "Many years to you, O Master," or, "Master, bless."
@@ -273,7 +287,9 @@ from this world. 11:3-21
 
 These inhabitants of Jerusalem are grouped as follows: the laypeople (vv. 3-9); priests (vv. 10-14); Levites (vv. 15-17); and gatekeepers (v. 18). In the Church, there is
 
-also a great variety of God's servants (1Co 12:4-6). ### 12:28-37
+also a great variety of God's servants (1Co 12:4-6). 
+
+### 12:28-37
 *(anchor: NEH.12:28)*
 
 A description of antiphonal singing, which is still the traditional way the Psalms
@@ -288,12 +304,16 @@ serve as a type of the unity of Jew and Gentile in Christ. The two choirs can al
 
 understood as the departed faithful (the Church triumphant) and the living faithful (the
 
-Church militant) being united in the Kingdom of heaven. ### 12:41-44
+Church militant) being united in the Kingdom of heaven. 
+
+### 12:41-44
 *(anchor: NEH.12:41)*
 
 As in the temple, so in the Church, faithful servants of God are appointed to
 
-assume responsibility for detailed tasks. ### 13:1-31
+assume responsibility for detailed tasks. 
+
+### 13:1-31
 *(anchor: NEH.13:1)*
 
 This could be called "the chapter of hard choices." Nehemiah reminds his readers
@@ -318,7 +338,9 @@ set them in their place (v. 11). (d) The people of Judah had secularized the Sab
 
 threat to the merchants (vv. 20, 21) and appoints guards to sanctify the Sabbath day
 
-(v. 22). (e) Finally, Nehemiah put a stop to Israelites marrying pagans (vv. 23-27). ### 13:30
+(v. 22). (e) Finally, Nehemiah put a stop to Israelites marrying pagans (vv. 23-27). 
+
+### 13:30
 *(anchor: NEH.13:30)*
 
 This verse could be Nehemiah's epitaph: I cleansed them of every pagan thing.

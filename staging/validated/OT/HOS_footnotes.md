@@ -14,7 +14,9 @@ status: staging
 
 "But the word came to Hosea as a teacher of God, softly speaking to the disobedient
 
-and making them return through what he says and does" (Theoph). ### 1:2
+and making them return through what he says and does" (Theoph). 
+
+### 1:2
 *(anchor: HOS.1:2)*
 
 A wife of fornication is a woman given to prostitution. It also suggests Gomer was
@@ -27,14 +29,18 @@ will be made holy through its union with the Son of God, as this woman was made 
 
 by her union with the prophet" (Iren). The unbelieving wife is made holy by her believing
 
-husband (1Co 7:14). ### 1:4
+husband (1Co 7:14). 
+
+### 1:4
 *(anchor: HOS.1:4)*
 
 Jezreel means "God sows" (judgment), and here it designates the place (today the
 
 Arab village of Zerin) where King Jehu of Israel killed Queen Jezebel along with King
 
-Ahab's royal house (4Kg 9; 10). ### 1:6
+Ahab's royal house (4Kg 9; 10). 
+
+### 1:6
 *(anchor: HOS.1:6)*
 
 Lo-Ruhamah means "Unpitied" or "No Mercy."
@@ -53,24 +59,32 @@ They shall come up out of the land: They will live the life of the saints as wel
 
 great shall be the day of Jezreel. Indeed, great is the day of Christ, when He will raise
 
-to life all the dead. ### 2:2
+to life all the dead. 
+
+### 2:2
 *(anchor: HOS.2:2)*
 
 This prophetic saying was probably issued in the years following the Syro-Ephraimite
 
-war of 733 BC, during which the two Israelite kingdoms were in a state of enmity. ### 2:3
+war of 733 BC, during which the two Israelite kingdoms were in a state of enmity. 
+
+### 2:3
 *(anchor: HOS.2:3)*
 
 Strip her naked: An act of humiliation preceding capital punishment of an
 
 adulteress (Ezk 16:39, 40; Lv 20:10; Dt 22:22). Perhaps this means Israel would
 
-experience humiliation during the Assyrian exile, beginning in 722 BC. ### 2:5-7
+experience humiliation during the Assyrian exile, beginning in 722 BC. 
+
+### 2:5-7
 *(anchor: HOS.2:5)*
 
 I will go after my lovers refers in a historical setting to the Israelites' frequent
 
-forays into idolatry. ### 2:13
+forays into idolatry. 
+
+### 2:13
 *(anchor: HOS.2:13)*
 
 Baalim refers to various manifestations of the god Baal rather than to many deities
@@ -79,12 +93,16 @@ named Baal. Days of Baalim points to the festivals listed in v. 11. Originally c
 
 to God, these festivals became tainted by Baalism. Similarly, today's world secularizes
 
-Christmas and Easter as best it can. ### 2:14
+Christmas and Easter as best it can. 
+
+### 2:14
 *(anchor: HOS.2:14)*
 
 I will lead her astray: "Having received the light of the knowledge of God in mind
 
-and heart . . . she is no longer able to find her old path" (CyrAl). ### 2:19
+and heart . . . she is no longer able to find her old path" (CyrAl). 
+
+### 2:19
 *(anchor: HOS.2:19)*
 
 "How great is God's mercy! A prostitute fornicates with many lovers, and because of
@@ -97,7 +115,9 @@ between God's union and that of men. When a man marries, he turns a virgin into 
 
 woman--that is, a non-virgin. But when God joins with prostitutes, He changes them into
 
-virgins" (Jerome). ### 3:1
+virgins" (Jerome). 
+
+### 3:1
 *(anchor: HOS.3:1)*
 
 Chapter 3, written in autobiographical style, should not be read as another version of
@@ -110,44 +130,60 @@ means that he [Hosea] has previously loved a whore, who now is an adulteress"
 
 (Jerome). Hosea is an icon of God's unconditional love. The Lord loves the children
 
-of Israel in spite of their constant acts of idolatry. ### 3:2
+of Israel in spite of their constant acts of idolatry. 
+
+### 3:2
 *(anchor: HOS.3:2)*
 
 Hosea had to pay to redeem his wife for himself. Likewise, in order to redeem sinful
 
-humanity, Christ had to pay with His own precious life. ### 3:5
+humanity, Christ had to pay with His own precious life. 
+
+### 3:5
 *(anchor: HOS.3:5)*
 
 The object of this seeking is twofold: the Lord their God and David their king, showing this text to be a messianic prophecy. At some time Israel, once rejected, "will be
 
 called, and by faith she will return and know the God of all and David along with Him, that is, the One who is from the seed of David, Christ according to flesh, the Lord and the
 
-King of all" (CyrAl). ### 4:1
+King of all" (CyrAl). 
+
+### 4:1
 *(anchor: HOS.4:1)*
 
 The second part of Hosea's book (chs. 4-11) consists of prophetic sayings and begins
 
-with an assessment of the moral status of northern Israelite society as a whole. ### 4:5
+with an assessment of the moral status of northern Israelite society as a whole. 
+
+### 4:5
 *(anchor: HOS.4:5)*
 
 "One says that Israel will be weak not forever but for days. For it has been reserved
 
-for her a time of salvation and a return to faith" (CyrAl). See also Rom 10:1; 11:26, 27. ### 4:8
+for her a time of salvation and a return to faith" (CyrAl). See also Rom 10:1; 11:26, 27. 
+
+### 4:8
 *(anchor: HOS.4:8)*
 
 "They used to sacrifice goats for sin; for this reason the sacrifice was called sin. . . . They eat the sins of My people means they (the priests) eat the offerings brought for
 
-sins" (CyrAl). ### 4:9
+sins" (CyrAl). 
+
+### 4:9
 *(anchor: HOS.4:9)*
 
 "Seemingly he calls ways the walking in works and counsels the faults from
 
-outrageous thoughts" (CyrAl). ### 5:2
+outrageous thoughts" (CyrAl). 
+
+### 5:2
 *(anchor: HOS.5:2)*
 
 I will be your instructor: The accent falls here on correction or instruction rather
 
-than on punishment. "I am your master, or rather instructor, who wishes to correct, rather than to punish; to save, rather than to lose" (Jerome). ### 5:7
+than on punishment. "I am your master, or rather instructor, who wishes to correct, rather than to punish; to save, rather than to lose" (Jerome). 
+
+### 5:7
 *(anchor: HOS.5:7)*
 
 "'Strange children,' he says, are those who, from the womb, and from their
@@ -158,7 +194,9 @@ offered the thanksgiving and sacrifices for births to the demons. Therefore, 'st
 
 children' are the ones who are not in God. Or, according to another interpretation, the
 
-ones from the foreign wives" (CyrAl; see Dt 7:3, 4). ### 5:10
+ones from the foreign wives" (CyrAl; see Dt 7:3, 4). 
+
+### 5:10
 *(anchor: HOS.5:10)*
 
 The princes of Judah, the military leaders, are guilty of moving the boundaries. This may be an allusion to the Judean advance into the Benjamite territory in 733 BC. But
@@ -169,19 +207,25 @@ Ephraimite territory, which never belonged to the Southern Kingdom. This wrongdo
 
 compared with the crime of those who move the boundary markers (Dt 19:14; 27:17; Pr
 
-22:30). ### 5:15
+22:30). 
+
+### 5:15
 *(anchor: HOS.5:15)*
 
 "By My place we have to understand God's place, His splendor and majesty"
 
-(Jerome). ### 6:1
+(Jerome). 
+
+### 6:1
 *(anchor: HOS.6:1)*
 
 "These may refer to those among the Hebrews who afterward came to believe in
 
 Christ. In such a thirst and long captivity they will seek the face [5:15], namely, the Son"
 
-(Theoph). ### 6:2
+(Theoph). 
+
+### 6:2
 *(anchor: HOS.6:2)*
 
 The Church understands this text as a messianic prophecy regarding Christ's
@@ -192,14 +236,18 @@ day points to His glorious Resurrection, promising we shall rise with Him. St. P
 
 writes that Jesus "rose again the third day according to the Scriptures" (1Co 15:4), most
 
-likely alluding to this passage from Hosea. ### 6:3
+likely alluding to this passage from Hosea. 
+
+### 6:3
 *(anchor: HOS.6:3)*
 
 Among the Church's early writers, Tertullian (ca. AD 160-225) is the first to relate this
 
 passage to the Resurrection of Jesus, and more precisely to the myrrhbearing women
 
-who went at daybreak (Lk 24:1) to their Master's tomb to anoint His body. ### 6:6
+who went at daybreak (Lk 24:1) to their Master's tomb to anoint His body. 
+
+### 6:6
 *(anchor: HOS.6:6)*
 
 God does not reject worship as a whole, but He criticizes the way Israel perceives it. Instead of a means to enter into a relationship with God and to foster community ties, the
@@ -216,7 +264,9 @@ Orthodox people who see the liturgy as "boring."
 
 away from the Lord. And he [Ephraim] is like a bread beneath the ashes that is not
 
-turned, that is, he does not repent" (Jerome). ### 7:11
+turned, that is, he does not repent" (Jerome). 
+
+### 7:11
 *(anchor: HOS.7:11)*
 
 "Why was Ephraim compared with a dove and not with other birds? The other birds
@@ -229,7 +279,9 @@ not grieve for or miss [its] robbed offspring. Ephraim is rightly compared with 
 
 because he does not suffer for his devastated people but is indifferent to their salvation"
 
-(Jerome). ### 8:1-14
+(Jerome). 
+
+### 8:1-14
 *(anchor: HOS.8:1)*
 
 Here God is addressing Hosea immediately after the conclusion of the Syro-
@@ -242,14 +294,18 @@ reason, His punishment is near: Israel, the worthless vessel (v. 8), will be bro
 
 captivity. Judah will experience the same fate because of her arrogant attitude toward
 
-God. ### 8:12
+God. 
+
+### 8:12
 *(anchor: HOS.8:12)*
 
 A multitude of statutes: This saying is one of the earliest evidences that by the
 
 eighth century BC the Torah ("instruction" or "law"; Ex 24:12; 34:1) was circulated, at
 
-least partially, in a written form. ### 9:4
+least partially, in a written form. 
+
+### 9:4
 *(anchor: HOS.9:4)*
 
 "Having collected the fruit of the vine into the wine vats, they offered the firstlings as
@@ -266,7 +322,9 @@ the body. . . . Therefore the mourning bread is that bread which was at hand as 
 
 those who were mourning for the dead; for those who strive to avoid contamination with
 
-a dead body it is considered terrible even to taste this bread" (CyrAl). ### 10:1
+a dead body it is considered terrible even to taste this bread" (CyrAl). 
+
+### 10:1
 *(anchor: HOS.10:1)*
 
 , 2
@@ -279,12 +337,16 @@ she who before was of such a kind offended God afterward, turning the abundance 
 
 fruits into a great number of offenses. The more people she had, the more altars she
 
-built, and she overmatched the abundance of the land by the number of idols" (Jerome). ### 10:13
+built, and she overmatched the abundance of the land by the number of idols" (Jerome). 
+
+### 10:13
 *(anchor: HOS.10:13)*
 
 "They ate the fruit of deception, namely, they had a useless and senseless hope. For the true fruit is the one that can save and help, the love toward God and the glory of
 
-righteousness. On the contrary, the false fruit would reasonably be considered impiety, for in the end it altogether descends to what is abominable" (CyrAl). ### 11:1
+righteousness. On the contrary, the false fruit would reasonably be considered impiety, for in the end it altogether descends to what is abominable" (CyrAl). 
+
+### 11:1
 *(anchor: HOS.11:1)*
 
 The New Testament application of this passage in Mt 2:15 concerns the return of
@@ -311,17 +373,23 @@ to bring him as a sacrifice to God. One must note that the Hebrew version and ot
 
 versions do not have 'I bound the feet' but rather 'I became as one who nourishes
 
-Ephraim'" (CyrAl). ### 11:8-9
+Ephraim'" (CyrAl). 
+
+### 11:8-9
 *(anchor: HOS.11:8)*
 
 Here, as in numerous other places in Scripture, God speaks as though He were a
 
 man. He condescends to communicate in our terms. In this dilemma, it is the infinite, overwhelming love of God that triumphs. His heart turned against His just decision to
 
-punish the apostate people (10:8, 14, 15). ### 12:5
+punish the apostate people (10:8, 14, 15). 
+
+### 12:5
 *(anchor: HOS.12:5)*
 
-They wept and entreated Me: The only choice Israel has is to beg God for mercy. ### 13:14
+They wept and entreated Me: The only choice Israel has is to beg God for mercy. 
+
+### 13:14
 *(anchor: HOS.13:14)*
 
 "Moreover the Lord liberated everyone, and redeemed them through the suffering of
@@ -334,14 +402,18 @@ Hades: 'I will be your death, O Death!' For that reason I have died so that you 
 
 through My death. 'I will be your sting, O Hades' for you devoured all with your throat"
 
-(Jerome). ### 14:3
+(Jerome). 
+
+### 14:3
 *(anchor: HOS.14:3)*
 
 "Become rich in supplies of goods, promise to bring to Him the gifts of the lips, the
 
 thank-offering songs and confession. For such things as these are the fruits of the
 
-tongue" (CyrAl). ### 14:5
+tongue" (CyrAl). 
+
+### 14:5
 *(anchor: HOS.14:5)*
 
 Israel's return to the Lord may be compared with the repentance of the prodigal son

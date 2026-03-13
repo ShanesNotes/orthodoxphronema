@@ -316,22 +316,30 @@ the law to subdue men and bring them to Christ (Gal 3:24, 25). Solomon, a man of
 
 My name prefigures the Church, in which Christ's throne, the hearts of the faithful, will
 
-be established forever. ### 23:1-4
+be established forever. 
+
+### 23:1-4
 *(anchor: 1CH.23:1)*
 
 The Levites who will serve in the temple are numbered and their genealogy listed
 
-through v. 23. ### 23:30
+through v. 23. 
+
+### 23:30
 *(anchor: 1CH.23:30)*
 
 The worshipers stood morning and evening before the Lord. Continuing this
 
 tradition, many Orthodox faithful throughout the world stand every day at Matins and
 
-Vespers, and during the other services. ### 24:1
+Vespers, and during the other services. 
+
+### 24:1
 *(anchor: 1CH.24:1)*
 
-, 2 See text and note at 6:1-31. ### 25:1-31
+, 2 See text and note at 6:1-31. 
+
+### 25:1-31
 *(anchor: 1CH.25:1)*
 
 The list of those who use their musical talents to serve the Lord fills an entire
@@ -346,21 +354,27 @@ Just as gatekeepers in David's time were needed to protect the temple and its
 
 treasury, so the faithful must constantly stand guard to keep the temple of their souls
 
-safe from the passions of the flesh. ### 27:1-34
+safe from the passions of the flesh. 
+
+### 27:1-34
 *(anchor: 1CH.27:1)*
 
 These men can be seen as a type of the twelve apostles who follow Jesus. Note
 
 that the men are numbered in twelves and multiples of twelve. Even Judas is prefigured
 
-in Ahithophel and Joab, (v. 34), both of whom betray their king. ### 28:6
+in Ahithophel and Joab, (v. 34), both of whom betray their king. 
+
+### 28:6
 *(anchor: 1CH.28:6)*
 
 Just as David lays the groundwork for the work Solomon is to carry out, so the old
 
 covenant under the Law prepares the world for the new covenant in Christ. Like Solomon, Christ is both David's son and the Son of God. Having revealed God as Father, He will
 
-make Himself the very cornerstone of the house of God. ### 28:11-19
+make Himself the very cornerstone of the house of God. 
+
+### 28:11-19
 *(anchor: 1CH.28:11)*
 
 The dedicated things (v. 12): The articles used in worship and presented to
@@ -369,34 +383,46 @@ Solomon represent Holy Tradition, beginning with the pattern for worship given t
 
 (Ex 25:40), which was given in writing (v. 19) as Holy Scripture, and is fulfilled in the
 
-Church even to this day. ### 28:20
+Church even to this day. 
+
+### 28:20
 *(anchor: 1CH.28:20)*
 
 The Lord spoke these exact words to Joshua just before Israel crossed over the
 
-Jordan into the Promised Land (Jos 1:9). Joshua and Solomon are both types of Christ. ### 28:21
+Jordan into the Promised Land (Jos 1:9). Joshua and Solomon are both types of Christ. 
+
+### 28:21
 *(anchor: 1CH.28:21)*
 
 Like those who are appointed to serve Solomon, Christ's faithful followers will be
 
-with Him in service, using their talents to carry out His will. ### 29:1
+with Him in service, using their talents to carry out His will. 
+
+### 29:1
 *(anchor: 1CH.29:1)*
 
 God sometimes chooses the young and inexperienced (see 1Ti 4:12) to carry out
 
-the work of building his temple. ### 29:6-9
+the work of building his temple. 
+
+### 29:6-9
 *(anchor: 1CH.29:6)*
 
 The worship described here foreshadows Orthodox Christian worship, where the
 
-faithful will offer themselves willingly and with their whole heart. ### 29:10-12
+faithful will offer themselves willingly and with their whole heart. 
+
+### 29:10-12
 *(anchor: 1CH.29:10)*
 
 David's praises bear a striking resemblance to the Lord's Prayer (Mt 6:9-13). Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet
 
 been revealed. In Christ's Church, the faithful will be able to worship the Triune God "in
 
-spirit and truth" (Jn 4:24). ### 29:14
+spirit and truth" (Jn 4:24). 
+
+### 29:14
 *(anchor: 1CH.29:14)*
 
 At one point in the Divine Liturgy, the deacon elevates the holy gifts while the
@@ -411,15 +437,21 @@ unto You, in behalf of all and for all."
 
 The faithful are still strangers and sojourners on this earth, but are now in
 
-Christ, who has given us strength to run "the race that is set before us" (Heb 12:1-3). ### 29:21
+Christ, who has given us strength to run "the race that is set before us" (Heb 12:1-3). 
+
+### 29:21
 *(anchor: 1CH.29:21)*
 
-A thousand is often a sign of abundance. ### 29:22
+A thousand is often a sign of abundance. 
+
+### 29:22
 *(anchor: 1CH.29:22)*
 
 Ate and drank prefigures Communion, for the culmination of worship is partaking
 
-of the Holy Eucharist. ### 29:23-25
+of the Holy Eucharist. 
+
+### 29:23-25
 *(anchor: 1CH.29:23)*
 
 When Solomon was first made king, he prefigured Christ's entrance into

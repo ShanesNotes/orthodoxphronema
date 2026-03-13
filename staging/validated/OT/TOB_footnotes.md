@@ -20,17 +20,23 @@ Tobit means "the Lord is good."
 
 Thisbe is in modern-day Lebanon (ancient Phoenicia), north of the Sea of Galilee. Naphtali (v. 1) was led captive to Assyria under the predecessor of Shalmaneser
 
-(4Kg 15:29). ### 1:3
+(4Kg 15:29). 
+
+### 1:3
 *(anchor: TOB.1:3)*
 
 Nineveh is on the east bank of the Tigris River, which is in ancient Babylon and
 
-modern-day northern Iraq. Nineveh was the capital city of Assyria. ### 1:6-8
+modern-day northern Iraq. Nineveh was the capital city of Assyria. 
+
+### 1:6-8
 *(anchor: TOB.1:6)*
 
 Tobit reminds us to be faithful to the Lord even when it is inconvenient. The
 
-everlasting ordinance (v. 6) is recorded in Dt 12:11-14. ### 1:9
+everlasting ordinance (v. 6) is recorded in Dt 12:11-14. 
+
+### 1:9
 *(anchor: TOB.1:9)*
 
 Anna means "grace."
@@ -41,10 +47,14 @@ Anna means "grace."
 
 The bread of the Gentiles is described in Dt 14:3-21 as unclean food for the
 
-people of God. ### 1:14
+people of God. 
+
+### 1:14
 *(anchor: TOB.1:14)*
 
-Media was an area south of the Caspian Sea, part of modern-day Iran. ### 1:17
+Media was an area south of the Caspian Sea, part of modern-day Iran. 
+
+### 1:17
 *(anchor: TOB.1:17)*
 
 Not to bury the dead was seen as a curse, the ultimate in disrespect (4Kg 9:10; Jer
@@ -143,10 +153,14 @@ The demon is exorcized both by the incense and by prayers to the Lord. The
 
 psalmist connects these two actions when he writes, "Let my prayer be set forth before
 
-You as incense" (Ps 140:2). ### 8:6
+You as incense" (Ps 140:2). 
+
+### 8:6
 *(anchor: TOB.8:6)*
 
-See Gn 2:18. ### 8:7
+See Gn 2:18. 
+
+### 8:7
 *(anchor: TOB.8:7)*
 
 Though they are young, Tobias prays that he and his bride will grow old together. In
@@ -161,34 +175,46 @@ an upright and blameless life even unto a ripe old age."
 
 During the night Raguel rose up and dug a grave for Tobias, fearing he may
 
-have died. This was not the case. ### 8:15-17
+have died. This was not the case. 
+
+### 8:15-17
 *(anchor: TOB.8:15)*
 
-Raguel is careful to bless God for His abundant mercy in sparing Tobias' life. ### 8:19-21
+Raguel is careful to bless God for His abundant mercy in sparing Tobias' life. 
+
+### 8:19-21
 *(anchor: TOB.8:19)*
 
 Normally a wedding feast lasted seven days (see 11:18). Raguel also contributes
 
-half of his possessions as his gift. ### 9:1-6
+half of his possessions as his gift. 
+
+### 9:1-6
 *(anchor: TOB.9:1)*
 
 Tobias entrusts Raphael to find Gabael and bring him and the silver to the
 
 wedding feast. Likewise, at the end of the ages, the hosts of heaven will call the faithful
 
-to "the marriage supper of the Lamb" (Rev 19:9). ### 10:1-7
+to "the marriage supper of the Lamb" (Rev 19:9). 
+
+### 10:1-7
 *(anchor: TOB.10:1)*
 
 The extended fourteen days of the wedding feast (v. 7) cause friction between
 
 Tobit and Anna because Tobias has not returned home. They try to hush each other up
 
-(vv. 6, 7). ### 10:8-10
+(vv. 6, 7). 
+
+### 10:8-10
 *(anchor: TOB.10:8)*
 
 Raguel wants the newlyweds to stay even longer, but Tobias prevails. They
 
-depart with a blessing. ### 10:13
+depart with a blessing. 
+
+### 10:13
 *(anchor: TOB.10:13)*
 
 Edna's request to see your children from my daughter Sarah is echoed by the
@@ -203,12 +229,16 @@ children's children."
 
 Raphael and Tobias decide to leave Sarah at the city gate of Nineveh see (11:16)
 
-and run ahead to meet the worried parents. ### 11:11-12
+and run ahead to meet the worried parents. 
+
+### 11:11-12
 *(anchor: TOB.11:11)*
 
 Following Raphael's instructions (11:7), Tobias dabbed the gall on the eyes of
 
-his father. Tobit was healed of his blindness. ### 11:16-17
+his father. Tobit was healed of his blindness. 
+
+### 11:16-17
 *(anchor: TOB.11:16)*
 
 Tobit did four things en route to the gate of Nineveh which are instructive for
@@ -219,21 +249,27 @@ Philippians to do; (2) he blessed God for his son's new bride; (3) he publicly g
 
 thanks for his restored eyesight; and (4) he blessed his family. God loves a grateful
 
-servant. ### 12:1-5
+servant. 
+
+### 12:1-5
 *(anchor: TOB.12:1)*
 
 Note the spirit of generosity in Tobit and Tobias. Whereas many modern believers
 
 hesitate to return even ten percent to God, these men offered God's servant half of
 
-everything they brought! ### 12:8-9
+everything they brought! 
+
+### 12:8-9
 *(anchor: TOB.12:8)*
 
 The Archangel Raphael's exhortation is remarkably similar to one section of Jesus'
 
 Sermon on the Mount. In Matthew 6, Jesus spoke of fasting (6:16-18), almsgiving
 
-(6:1-4), prayer (6:5-13), and righteousness (6:33). ### 12:12-14
+(6:1-4), prayer (6:5-13), and righteousness (6:33). 
+
+### 12:12-14
 *(anchor: TOB.12:12)*
 
 Raphael's ministry to Tobit's family is that of a guardian angel. Note he carries
@@ -250,50 +286,74 @@ Raphael reveals himself to Tobit and Tobias as one of seven holy angels who
 
 appear before the glory of the Holy One (see Rev 1:4). These seven are also called
 
-archangels. The names of four of them are revealed: Raphael, Gabriel (Dan 9:21; Lk 1:19, 26-38), Michael (Dan 10:21; Jude 9) and Uriel (2 Esdras 4:1). ### 12:20
+archangels. The names of four of them are revealed: Raphael, Gabriel (Dan 9:21; Lk 1:19, 26-38), Michael (Dan 10:21; Jude 9) and Uriel (2 Esdras 4:1). 
+
+### 12:20
 *(anchor: TOB.12:20)*
 
-Raphael is ascending to God to appear "before His throne" (Rev 1:4). ### 13:1
+Raphael is ascending to God to appear "before His throne" (Rev 1:4). 
+
+### 13:1
 *(anchor: TOB.13:1)*
 
 As with many Old Testament prayers, the prayer of Tobit resembles many of the
 
-psalms. ### 13:2
+psalms. 
+
+### 13:2
 *(anchor: TOB.13:2)*
 
-Blessed is the kingdom is how we begin the Sunday worship of the Church. ### 13:3
+Blessed is the kingdom is how we begin the Sunday worship of the Church. 
+
+### 13:3
 *(anchor: TOB.13:3)*
 
-The nations are the Gentile nations where God's children are scattered. ### 13:6
+The nations are the Gentile nations where God's children are scattered. 
+
+### 13:6
 *(anchor: TOB.13:6)*
 
-This promise is repeated to Israel throughout the Old Testament. ### 13:11
+This promise is repeated to Israel throughout the Old Testament. 
+
+### 13:11
 *(anchor: TOB.13:11)*
 
-His tabernacle is the temple in Jerusalem. ### 13:13
+His tabernacle is the temple in Jerusalem. 
+
+### 13:13
 *(anchor: TOB.13:13)*
 
 The author of Tobit understands that one day many Gentiles will come to the
 
 King of heaven and that generations of generations of them will worship in what
 
-will be called the One Holy Church (see Jn 1:12). ### 13:17-18
+will be called the One Holy Church (see Jn 1:12). 
+
+### 13:17-18
 *(anchor: TOB.13:17)*
 
-This passage also has in view the New Jerusalem (see Rev 21:1-3, 10, 11). ### 14:4
+This passage also has in view the New Jerusalem (see Rev 21:1-3, 10, 11). 
+
+### 14:4
 *(anchor: TOB.14:4)*
 
 Scholars agree that Nineveh was overthrown in 612 BC. Jonah warned of the fall
 
-(Jon 3:3, 4) and Nahum, in his book, records it. ### 14:5
+(Jon 3:3, 4) and Nahum, in his book, records it. 
+
+### 14:5
 *(anchor: TOB.14:5)*
 
 The temple will be rebuilt, but not as it was before. The second temple, not as
 
-glorious, was completed in approximately 515 BC (see Hag 1:1-15). ### 14:10
+glorious, was completed in approximately 515 BC (see Hag 1:1-15). 
+
+### 14:10
 *(anchor: TOB.14:10)*
 
-Ahikar: See 1:21. ### 14:11
+Ahikar: See 1:21. 
+
+### 14:11
 *(anchor: TOB.14:11)*
 
 Almsgiving and righteousness: See 12:8, 9.

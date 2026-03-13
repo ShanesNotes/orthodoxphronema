@@ -406,7 +406,9 @@ some will never become part of Israel's earthly kingdom. Yet again, this passage
 
 events far in the future, when Christ will be given the ends of the earth as His inheritance
 
-(Ps 2:8). ### 14:7-10
+(Ps 2:8). 
+
+### 14:7-10
 *(anchor: JOS.14:7)*
 
 Caleb and Joshua preferred virtue rather than safety, but the other ten spies
@@ -427,7 +429,9 @@ Person. Thus, His divine will was a higher law than the law of safety within His
 
 will; therefore, He voluntarily and joyfully gave His human life for our sakes. The holy
 
-martyrs also preferred the divine will to their own safety. ### 15:13-19
+martyrs also preferred the divine will to their own safety. 
+
+### 15:13-19
 *(anchor: JOS.15:13)*
 
 The sons of Anak (v. 14) were known as Anakim, and they were giants in size
@@ -444,7 +448,9 @@ type of the Church with its springs of water, the divine life of Christ. Therefo
 
 Christ and His life in the Church, one is able to fight against the giants of the passions
 
-and to live a God-honoring manner of life. ### 16:10
+and to live a God-honoring manner of life. 
+
+### 16:10
 *(anchor: JOS.16:10)*
 
 The Lord commanded Israel through Moses to utterly destroy all the inhabitants of
@@ -459,7 +465,9 @@ operate within us, they eventually corrupt our obedience to Christ, as the Canaa
 
 corrupted Ephraim. We are to show no mercy to these passions, but are to put them "to
 
-death" (Col 3:5). ### 17:14-18
+death" (Col 3:5). 
+
+### 17:14-18
 *(anchor: JOS.17:14)*
 
 Note how the tribe of Joseph refers to itself first in the plural (us) and then in
@@ -470,7 +478,9 @@ twelve tribes, each of which receives its own inheritance. So the Church is one 
 
 body of Christ (Eph 1:22, 23); yet it is composed of a great many people of every
 
-nation, tongue, and tribe (Rev 5:9; 14:6). ### 18:1
+nation, tongue, and tribe (Rev 5:9; 14:6). 
+
+### 18:1
 *(anchor: JOS.18:1)*
 
 Josh 18:1, 9, 10: Israel set up the tabernacle in Shiloh, where it remained for about
@@ -479,7 +489,9 @@ four hundred years. Thus, Shiloh, located about twenty-five miles north of Jerus
 
 divide the remaining land among seven tribes in a peaceable manner. We, too, need His
 
-peace to rule in our hearts so as to know how to live peaceably and wisely (Col 3:15). ### 19:9
+peace to rule in our hearts so as to know how to live peaceably and wisely (Col 3:15). 
+
+### 19:9
 *(anchor: JOS.19:9)*
 
 Judah's share was too much for them; therefore, they shared their inheritance
@@ -488,7 +500,9 @@ with the children of Simeon. So we must learn to share our abundance with those 
 
 need it. Similarly, we should not "forget to do good and to share, for with such sacrifices
 
-God is well pleased" (Heb 13:16). ### 20:1-6
+God is well pleased" (Heb 13:16). 
+
+### 20:1-6
 *(anchor: JOS.20:1)*
 
 Cities of refuge were established to protect slayers who killed someone
@@ -503,7 +517,9 @@ innocence or guilt. Thus, He provided a place of refuge. God also set forth Chri
 
 of refuge where one is protected until he is proven innocent or guilty at the Day of
 
-Judgment, when He "will render to each one according to his deeds" (Rom 2:6). ### 21:46
+Judgment, when He "will render to each one according to his deeds" (Rom 2:6). 
+
+### 21:46
 *(anchor: JOS.21:46)*
 
 Joshua put the stone knives (with which he had circumcised the sons of Israel
@@ -516,7 +532,9 @@ Righteousness, and we are to be "conformed to [His] image" (Rom 8:29; 2Co 3:18).
 
 stone knives speak of holy baptism, by which "the sins of the flesh" are cut away (Col
 
-2:11, 12). ### 22:1-9
+2:11, 12). 
+
+### 22:1-9
 *(anchor: JOS.22:1)*
 
 The two-and-a-half tribes who go back to dwell on the east side of the Jordan are
@@ -525,21 +543,27 @@ like the apostles, who will spread out to other lands after Pentecost and bring 
 
 to the nations. Be very careful to do the commandments (v. 5) is a timeless
 
-admonition to all believers everywhere. ### 22:10-29
+admonition to all believers everywhere. 
+
+### 22:10-29
 *(anchor: JOS.22:10)*
 
 The misunderstanding between the tribes is not unlike the trouble that will arise
 
 between Christians over the keeping of Jewish law and the conversion of Gentile
 
-believers (see Acts 11:2; 15:1; Gal 2:12). ### 22:30-34
+believers (see Acts 11:2; 15:1; Gal 2:12). 
+
+### 22:30-34
 *(anchor: JOS.22:30)*
 
 Because the leaders and the people listened and acted wisely, the altar by the
 
 Jordan, which had threatened to divide Israel, will now be a witness (v. 34) to their unity
 
-before all. ### 23:1-16
+before all. 
+
+### 23:1-16
 *(anchor: JOS.23:1)*
 
 Consider the ways in which Joshua's address is fulfilled in Christ's high priestly
@@ -554,7 +578,9 @@ God, and Jesus Christ whom You have sent" (Jn 17:3). Joshua says, "I am going . 
 
 one word has failed" (v. 14); Christ prays, "I have finished the work . . . none of them is
 
-lost" (Jn 17:4, 12). ### 24:1-15
+lost" (Jn 17:4, 12). 
+
+### 24:1-15
 *(anchor: JOS.24:1)*
 
 Note the emphasis the Lord, through Joshua, is placing on being led out (v. 3)
@@ -569,7 +595,9 @@ righteousness (v. 14). Your part has been, and is now, to follow Me. If you don'
 
 will destroy yourselves." The Incarnate Christ will preach this same message, only He will
 
-tell the whole world. ### 24:14-15
+tell the whole world. 
+
+### 24:14-15
 *(anchor: JOS.24:14)*
 
 God always intended for man to serve Him and to love Him freely; for accepting
@@ -578,7 +606,9 @@ the salvation that is freely offered is the most natural thing for human beings,
 
 His image, to do. Joshua, having long ago chosen holiness, now declares the same for his
 
-house. ### 24:16-22
+house. 
+
+### 24:16-22
 *(anchor: JOS.24:16)*
 
 The people, immature and prone to idolatry, must continually be reminded to
@@ -589,7 +619,9 @@ God; but they will soon turn away (v. 36). Joshua warns them that their hypocris
 
 worse than not worshiping Him at all, for all blessings come from God, and refusing to
 
-accept them will be the very cause of their suffering. ### 24:23
+accept them will be the very cause of their suffering. 
+
+### 24:23
 *(anchor: JOS.24:23)*
 
 To make your heart straight toward the Lord God of Israel means to return
@@ -612,7 +644,9 @@ willing heart, for the moral integrity of the soul consists in its spiritual par
 
 natural state as it was created. If this is the case, the Lord will recognize His work as
 
-being the same as when He made it (AntEg). ### 24:25-27
+being the same as when He made it (AntEg). 
+
+### 24:25-27
 *(anchor: JOS.24:25)*
 
 The large stone is a type of Christ, who will be an everlasting witness of the
@@ -621,12 +655,16 @@ covenant made between God and man under the tree, that is, the cross. 24:1-27 Jo
 
 covenant about to be established by Joshua (vv. 25-27), so Israel's history from that
 
-point forward will lead up to the new covenant that Christ will establish with His Church. ### 24:29
+point forward will lead up to the new covenant that Christ will establish with His Church. 
+
+### 24:29
 *(anchor: JOS.24:29)*
 
 The Book of Joshua looks ahead to Christ's victory over His enemies and the
 
-salvation of the world. ### 24:33
+salvation of the world. 
+
+### 24:33
 *(anchor: JOS.24:33)*
 
 The bones of Joseph (Gn 50:24, 25; Ex 13:19) are buried . . . at Shechem. Thus, God's covenant with Abraham, Isaac, and Joseph comes full circle and begins anew with

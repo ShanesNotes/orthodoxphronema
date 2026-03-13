@@ -22,18 +22,26 @@ on earth (Lk 24:33-42). He will impart to them His own wisdom and understanding
 
 ascend (Lk 24:50-53) into the heavenly Jerusalem (v. 13; Heb 12:22), bringing all
 
-creation with Him. ### 2:14
+creation with Him. 
+
+### 2:14
 *(anchor: 2CH.2:14)*
 
-The wheat, barley, oil, and wine foreshadow the Eucharist. ### 2:16
+The wheat, barley, oil, and wine foreshadow the Eucharist. 
+
+### 2:16
 *(anchor: 2CH.2:16)*
 
 The foreigners are types of the faithful from every nation who will be brought into
 
-the Church. ### 3:1
+the Church. 
+
+### 3:1
 *(anchor: 2CH.3:1)*
 
-Threshing floor: See text and notes on 1Ch 21. ### 3:5-14
+Threshing floor: See text and notes on 1Ch 21. 
+
+### 3:5-14
 *(anchor: 2CH.3:5)*
 
 Neither in Israel nor in the Church was the second of the Ten Commandments (Ex
@@ -242,10 +250,14 @@ reject God's calling. 21:8-10 Edom revolts under Jehoram. Under Jehoshaphat, who
 
 Levitical city in Judah (Jos 21:13). Its revolt against Jehoram reveals how holiness is
 
-repelled by the presence of evil. 21:18-20 The tragic demise of a sinful man. ### 22:1-9
+repelled by the presence of evil. 21:18-20 The tragic demise of a sinful man. 
+
+### 22:1-9
 *(anchor: 2CH.22:1)*
 
-Ahaziah's is yet another story of a life without God. ### 22:10-12
+Ahaziah's is yet another story of a life without God. 
+
+### 22:10-12
 *(anchor: 2CH.22:10)*
 
 mention. As a usurper of power, Athaliah reigned six years but receives only brief
@@ -256,36 +268,48 @@ mention. As a usurper of power, Athaliah reigned six years but receives only bri
 
 Joash was raised up in the house of God under the influence of the priests, and thus escaped the evil influence of his parents. In a similar way, God intends for
 
-righteousness in the heart to grow and mature within the Church. ### 23:1-11
+righteousness in the heart to grow and mature within the Church. 
+
+### 23:1-11
 *(anchor: 2CH.23:1)*
 
 Jehoiada the priest and those who help him are obedient to God, though evil
 
-around them would seem to be insurmountable. In the end, they prevail. ### 23:12-15
+around them would seem to be insurmountable. In the end, they prevail. 
+
+### 23:12-15
 *(anchor: 2CH.23:12)*
 
 Athaliah is overthrown. Once again, Holy Scripture portrays the enemy being
 
-defeated by trickery, reminding us the devil is unfaithful even to his own. ### 24:1-27
+defeated by trickery, reminding us the devil is unfaithful even to his own. 
+
+### 24:1-27
 *(anchor: 2CH.24:1)*
 
 Joash was faithful to the Lord until the priest Jehoiada died. The passage
 
-suggests that Joash relied on the faith of Jehoiada, but did not make that faith his own. ### 25:1-4
+suggests that Joash relied on the faith of Jehoiada, but did not make that faith his own. 
+
+### 25:1-4
 *(anchor: 2CH.25:1)*
 
 Amaziah . . . did what was right insofar as he followed the letter of the law (v. 4), but he did not love the ways of the Lord with a loyal heart. Note how he spares the
 
 children of those who killed his father, according to Dt 24:16, yet sets a bad example for
 
-his own son Uzziah, who, like his father, will one day lift up his heart in pride (26:16). ### 25:11-14
+his own son Uzziah, who, like his father, will one day lift up his heart in pride (26:16). 
+
+### 25:11-14
 *(anchor: 2CH.25:11)*
 
 Amaziah falls into sins of greed, murder and idolatry. He believes he has
 
 defeated the Edomites, when in fact, their false gods have defeated him and taken his
 
-disloyal heart captive. ### 26:1-23
+disloyal heart captive. 
+
+### 26:1-23
 *(anchor: 2CH.26:1)*
 
 Uzziah . . . did what was right by following the commandments, and he
@@ -294,7 +318,9 @@ sought the Lord with the help of the prophet. But like his father before him, he
 
 away from God, and he was stricken with leprosy. He was a contemporary of the prophet
 
-Isaiah (Is 6:1). ### 27:1-9
+Isaiah (Is 6:1). 
+
+### 27:1-9
 *(anchor: 2CH.27:1)*
 
 Prophecy is restored under Jotham, for Isaiah receives his heavenly vision at the
@@ -303,41 +329,55 @@ beginning of his reign (see Is 6:1). Though the king was righteous, the people a
 
 corruptly. The phrase he did not enter the temple most likely means he did not enter
 
-there to burn incense as his father had wrongly done (26:16-20). ### 28:1-27
+there to burn incense as his father had wrongly done (26:16-20). 
+
+### 28:1-27
 *(anchor: 2CH.28:1)*
 
 Ahaz and the people of Judah have allowed themselves to be taken spiritually
 
-captive by their own sins (v. 19; Is 5:13). Therefore, in order to deter their blasphemy, God delivered them physically into the hands of the kings of Syria and Israel (v. 5). ### 28:9-15
+captive by their own sins (v. 19; Is 5:13). Therefore, in order to deter their blasphemy, God delivered them physically into the hands of the kings of Syria and Israel (v. 5). 
+
+### 28:9-15
 *(anchor: 2CH.28:9)*
 
 Righteous men from Samaria treat the captives of Judah with kindness. Note
 
 the striking parallels in this passage (see v. 15) to the story that Jesus told of the Good
 
-Samaritan (Lk 10:30-37). ### 29:1-11
+Samaritan (Lk 10:30-37). 
+
+### 29:1-11
 *(anchor: 2CH.29:1)*
 
 Hezekiah prefigures Christ, who opened the doors (v. 3) to heaven, gathered
 
-the faithful, and set the captives free (see 4Kg 18:1-8). ### 29:12-30
+the faithful, and set the captives free (see 4Kg 18:1-8). 
+
+### 29:12-30
 *(anchor: 2CH.29:12)*
 
 The Levites (v. 12) and priests (v. 16) prefigure the apostles and evangelists, who will restore right worship under Christ's leadership. The Brook Kidron (v. 16) is a
 
-type of baptism, which will sanctify (v. 17) the faithful. ### 29:34
+type of baptism, which will sanctify (v. 17) the faithful. 
+
+### 29:34
 *(anchor: 2CH.29:34)*
 
 The desire of the Levites to be sanctified exceeds that of the priests, showing that
 
-it is the state of the heart, not the office held, which determines true holiness. ### 29:36
+it is the state of the heart, not the office held, which determines true holiness. 
+
+### 29:36
 *(anchor: 2CH.29:36)*
 
 God had prepared the people: Christ warns His followers to watch, for you do
 
 not know when the master of the house is coming--lest coming suddenly, he find you
 
-sleeping (Mk 13:35, 36; see also Mal 3:1). ### 30:1-21
+sleeping (Mk 13:35, 36; see also Mal 3:1). 
+
+### 30:1-21
 *(anchor: 2CH.30:1)*
 
 Because Judah had fallen deeply into sin, the first week of the Passover feast was
@@ -346,10 +386,14 @@ not kept to the letter of the law (vv. 3, 17-19). Yet God heard Hezekiah's praye
 
 people singleness of heart (v. 12), and healed them (v. 20). Hezekiah prefigures Christ, who will do the same for all who follow Him with contrite hearts in the midst of a broken
 
-world. ### 30:23-27
+world. 
+
+### 30:23-27
 *(anchor: 2CH.30:23)*
 
-Great joy: The second seven days of the feast foreshadow Pentecost. ### 31:1-1
+Great joy: The second seven days of the feast foreshadow Pentecost. 
+
+### 31:1-1
 *(anchor: 2CH.31:1)*
 
 After the feasting comes the work. The events described in this chapter will be
@@ -358,15 +402,21 @@ fulfilled by the faithful of the Church, who have been hard at work since Pentec
 
 called to his or her appointed task according to his or her abilities, performing deeds of
 
-faithfulness (32:1) in service to the Lord. ### 32:24-33
+faithfulness (32:1) in service to the Lord. 
+
+### 32:24-33
 *(anchor: 2CH.32:24)*
 
 Hezekiah's sickness, the sign he was given, his subsequent sin, and his
 
-repentance are discussed at length in 4Kg 20 and Is 38:1-39:8. ### 33:1-20
+repentance are discussed at length in 4Kg 20 and Is 38:1-39:8. 
+
+### 33:1-20
 *(anchor: 2CH.33:1)*
 
-Manasseh is a king who began as evil and ended as good. ### 33:13
+Manasseh is a king who began as evil and ended as good. 
+
+### 33:13
 *(anchor: 2CH.33:13)*
 
 Manasseh prayed to Him. "The Lord God for a while punished him that was
@@ -381,12 +431,16 @@ and repentance, he would have missed all which he afterwards obtained: but as it
 
 transgressions, and having broken in sunder the bonds of the devil, he rose up and
 
-contended with him, and finished the good course" (Dion). ### 34:1-13
+contended with him, and finished the good course" (Dion). 
+
+### 34:1-13
 *(anchor: 2CH.34:1)*
 
 True reform has to do with both the purging of what is false and evil (vv. 3-7) and
 
-the repairing of what is true and good (vv. 8-13). Josiah did both. ### 34:14-28
+the repairing of what is true and good (vv. 8-13). Josiah did both. 
+
+### 34:14-28
 *(anchor: 2CH.34:14)*
 
 The Book of the Law here discovered is likely the whole Pentateuch, and it is
@@ -397,47 +451,61 @@ was turned and he humbled himself before the Lord (v. 27). The Scriptures are in
 
 "profitable for doctrine, for reproof, for correction, for instruction in righteousness" (2Ti
 
-3:16). ### 34:29-33
+3:16). 
+
+### 34:29-33
 *(anchor: 2CH.34:29)*
 
 Not only does the king attend to the reading of the Book of the Covenant, but
 
 he makes sure the priests and the Levites and all the people hear it as well. As a
 
-result, the hearers make a commitment to follow the Lord. ### 35:1-6
+result, the hearers make a commitment to follow the Lord. 
+
+### 35:1-6
 *(anchor: 2CH.35:1)*
 
 That Josiah kept the Passover shows not only his obedience to the Lord, but also
 
 his solidarity with the instruction of David (v. 4) and the writings of Moses (v. 6). This
 
-is a veritable rebirth of faith for the people. ### 35:28
+is a veritable rebirth of faith for the people. 
+
+### 35:28
 *(anchor: 2CH.35:28)*
 
 The Jews mourned for Josiah because their righteous king was a victim of the
 
 finality of death under the old covenant. But Christ will fulfill the old covenant of death
 
-with a new covenant of love, forgiveness, and eternal life. ### 36:1-6
+with a new covenant of love, forgiveness, and eternal life. 
+
+### 36:1-6
 *(anchor: 2CH.36:1)*
 
 Judah's downfall is imminent with the brief ascension of the evil King Jehoahaz
 
-to the throne. ### 36:7-16
+to the throne. 
+
+### 36:7-16
 *(anchor: 2CH.36:7)*
 
 The Pharaoh of Egypt establishes the evil king Jehoiakim as ruler of Judah. He
 
 is then carried off to Babylon (v. 14) by King Nebuchadnezzar and briefly replaced
 
-by his son Jehoiachin. ### 36:22-29
+by his son Jehoiachin. 
+
+### 36:22-29
 *(anchor: 2CH.36:22)*
 
 God's judgment on Judah is justified, for the priests and the people have
 
 gone beyond the point of no return and will not repent (see 4Kg 25:8-21). Seventy years
 
-(v. 29) is the approximate time of the exile in Babylon (see also Jer 25:9-12; 27:6-8; 29:10; Lv 26:34-43). ### 36:30-31
+(v. 29) is the approximate time of the exile in Babylon (see also Jer 25:9-12; 27:6-8; 29:10; Lv 26:34-43). 
+
+### 36:30-31
 *(anchor: 2CH.36:30)*
 
 These verses parallel the opening verses of Ezra. Although he is a Gentile, Cyrus

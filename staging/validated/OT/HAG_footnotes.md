@@ -12,7 +12,9 @@ status: staging
 ### 1:14
 *(anchor: HAG.1:14)*
 
-Zerubbabel: See 2:23 and note. ### 2:6
+Zerubbabel: See 2:23 and note. 
+
+### 2:6
 *(anchor: HAG.2:6)*
 
 I will shake heaven and earth: "There have been two remarkable transformations
@@ -29,7 +31,9 @@ unmoved, unshaken, beyond" (GrgNa; see Heb 12:28). Indeed, writes Augustine, Chr
 
 moved heaven and earth when He was born of a Virgin; and moved the sea and dry
 
-land when He made His name known throughout the whole world. ### 2:7
+land when He made His name known throughout the whole world. 
+
+### 2:7
 *(anchor: HAG.2:7)*
 
 The choice things of all the nations shall come in: Augustine remarks that this
@@ -38,7 +42,9 @@ phrase prophesies the building of the Church from those chosen from among the
 
 Gentiles. These are Christ's "living stones" (1Pt 2:5), renewed by faith and empowered by
 
-grace, building a house far more glorious than any earthly temple. ### 2:9
+grace, building a house far more glorious than any earthly temple. 
+
+### 2:9
 *(anchor: HAG.2:9)*
 
 I will give peace: "Since the restored temple signified the Church, which Christ was
@@ -49,7 +55,9 @@ this place (the rebuilt temple) prefigures.' . . . Not, however, until the House
 
 Testament receives its final consecration will its greater glory in relation to the house of
 
-the Old Testament be made perfectly clear" (Aug). ### 2:10-19
+the Old Testament be made perfectly clear" (Aug). 
+
+### 2:10-19
 *(anchor: HAG.2:10)*
 
 This is Haggai's third discourse, intended to teach that the people must depend on
@@ -64,12 +72,16 @@ opportunity to return to Him through repentance and confession, as is illustrate
 
 parable of the Prodigal Son (Lk 15:11-32), recounted to us just two weeks prior to the
 
-Great Fast of Lent. ### 2:11
+Great Fast of Lent. 
+
+### 2:11
 *(anchor: HAG.2:11)*
 
 Ask the priests concerning the law: "For such is the important function of the
 
-priesthood to give answers to those who question them concerning the Law" (Jerome). ### 2:20-23
+priesthood to give answers to those who question them concerning the Law" (Jerome). 
+
+### 2:20-23
 *(anchor: HAG.2:20)*
 
 The oracle is private, addressed to Zerubbabel only. Note that he is addressed

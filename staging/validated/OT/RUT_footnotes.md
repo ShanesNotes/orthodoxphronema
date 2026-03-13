@@ -20,7 +20,9 @@ to the enemy. Elimelech, whose name means "My God is King," has forsaken God and
 
 the covenant community. He exemplifies the faithless Jews, and he died without leaving
 
-offspring in Israel. ### 1:6
+offspring in Israel. 
+
+### 1:6
 *(anchor: RUT.1:6)*
 
 Naomi, representing the faithful Jews who will accept redemption in Christ, returned
@@ -29,17 +31,23 @@ from the country of Moab to receive the Lord's bread (see Jn 6:48). The notion o
 
 arising from a state of sin and returning to a loving Father is echoed in Christ's parable of
 
-the Prodigal Son (Lk 15:11-32). ### 1:11
+the Prodigal Son (Lk 15:11-32). 
+
+### 1:11
 *(anchor: RUT.1:11)*
 
 Naomi's question, "Why do you desire to go with me?" is intended not to prevent
 
-them from following her to the Lord, but to challenge their sincerity (see Jn 6:26, 27). ### 1:12
+them from following her to the Lord, but to challenge their sincerity (see Jn 6:26, 27). 
+
+### 1:12
 *(anchor: RUT.1:12)*
 
 Childbearing was seen as necessary to perpetuate one's life beyond death, and is
 
-symbolic of eternal life. Naomi had grown too old for childbearing. ### 1:14-15
+symbolic of eternal life. Naomi had grown too old for childbearing. 
+
+### 1:14-15
 *(anchor: RUT.1:14)*
 
 Orpah had declared her intention to follow Naomi to the Lord (v. 10), but being
@@ -48,21 +56,27 @@ confronted with the realities of that life, she returns to her people and her go
 
 6:66). Her kiss is metaphorically a kiss of betrayal. By contrast, Ruth followed her, forsaking all she knew and accepting the Lord. In doing so, Ruth prefigures the Gentile
 
-Church and all who would be saved. ### 1:19
+Church and all who would be saved. 
+
+### 1:19
 *(anchor: RUT.1:19)*
 
 The separation between Jew and Gentile would one day be abolished in Jesus Christ
 
 (Eph 2:14). The unbreakable alliance of Naomi and Ruth as the two of them went
 
-until they came to Bethlehem prefigures that day. ### 1:20-21
+until they came to Bethlehem prefigures that day. 
+
+### 1:20-21
 *(anchor: RUT.1:20)*
 
 Lamenting in Bethlehem over the loss of her children in Moab, Naomi prefigures
 
 Rachel, who would later lament over the loss of her children to Babylon (Jer 31:15) and
 
-over the children slain by Herod (Mt 2:16-18). See 4:11. ### 1:22
+over the children slain by Herod (Mt 2:16-18). See 4:11. 
+
+### 1:22
 *(anchor: RUT.1:22)*
 
 The beginning of barley harvest was in April. It would have occurred at about the
@@ -71,33 +85,43 @@ time of the Passover, and thus of the crucifixion and Resurrection of Christ. Je
 
 Himself refers to the new covenant as a time of harvest (Mt 9:37, 38; Jn 4:35). Ruth is
 
-accepted at this time, showing that the Gentiles would be received into the Church. ### 2:1
+accepted at this time, showing that the Gentiles would be received into the Church. 
+
+### 2:1
 *(anchor: RUT.2:1)*
 
 Boaz prefigures Christ. Here he is introduced as a relative of both a faithless Jew
 
 (Elimelech) and, through marriage, a faithful one (Naomi). Boaz also had Gentile
 
-ancestry, for his mother was Rahab (Mt 1:5). ### 2:2
+ancestry, for his mother was Rahab (Mt 1:5). 
+
+### 2:2
 *(anchor: RUT.2:2)*
 
 In humble acceptance of her position as foreigner, Ruth is willing to glean the Jews'
 
 leftover grain. The New Testament reminds all Gentile believers to imitate her humility
 
-(Rom 11:19-21; Eph 2:11, 12). ### 2:8-10
+(Rom 11:19-21; Eph 2:11, 12). 
+
+### 2:8-10
 *(anchor: RUT.2:8)*
 
 Like the Canaanite woman in Mt 15:21-28, Ruth acknowledges that she does not
 
 deserve Boaz's favor because she is a stranger. Like Christ, Boaz blesses her with his
 
-favor and protection. ### 2:14
+favor and protection. 
+
+### 2:14
 *(anchor: RUT.2:14)*
 
 Ruth is rewarded for her dedication by an invitation to eat with Boaz. This meal
 
-prefigures the eucharistic Supper. ### 2:15-16
+prefigures the eucharistic Supper. 
+
+### 2:15-16
 *(anchor: RUT.2:15)*
 
 In Christ, Gentiles are grafted to the tree of salvation (see Rom 11), and they share
@@ -110,37 +134,51 @@ significant difference between the Masoretic Text and the LXX in v. 16. The form
 
 Boaz merely instruct his servants to let extra grain fall from their bundles, distorting the
 
-underlying meaning of his order. ### 2:20
+underlying meaning of his order. 
+
+### 2:20
 *(anchor: RUT.2:20)*
 
-Naomi blesses Boaz with words applicable to Christ. ### 2:22
+Naomi blesses Boaz with words applicable to Christ. 
+
+### 2:22
 *(anchor: RUT.2:22)*
 
 A call to remain in the community of faith. To wander in another field is to go
 
-beyond the protection of Boaz and to be subject to all manner of danger (see vv. 8, 9). ### 3:3
+beyond the protection of Boaz and to be subject to all manner of danger (see vv. 8, 9). 
+
+### 3:3
 *(anchor: RUT.3:3)*
 
 As Ruth must wash and anoint herself and put on a new garment for her
 
 encounter with Boaz, believers are washed in baptism, anointed in chrismation, and
 
-clothed in the garment of salvation in their encounter with Christ. ### 3:4
+clothed in the garment of salvation in their encounter with Christ. 
+
+### 3:4
 *(anchor: RUT.3:4)*
 
 Where Boaz lies down, Ruth will lie down with him, and Boaz will instruct her. Likewise, as Christ was buried, the believer is also buried with Him in baptism, and thus
 
-learns how to live (Rom 6:3-11). ### 3:9
+learns how to live (Rom 6:3-11). 
+
+### 3:9
 *(anchor: RUT.3:9)*
 
 Take your maidservant under your wing: Ruth declares her desire to be accepted
 
-as wife by Boaz, and prophesies the acceptance of the Gentiles by Christ. ### 3:10
+as wife by Boaz, and prophesies the acceptance of the Gentiles by Christ. 
+
+### 3:10
 *(anchor: RUT.3:10)*
 
 Boaz blesses Ruth because she did not go after young men, which is to say she
 
-did not pursue the cares and fleeting security of this world. ### 3:12-13
+did not pursue the cares and fleeting security of this world. 
+
+### 3:12-13
 *(anchor: RUT.3:12)*
 
 The kinsman is Ruth's relative who is unwilling to redeem her (4:1-6). This
@@ -153,7 +191,9 @@ do it, Boaz himself will. For in Jewish tradition, the brother or closest relati
 
 deceased brother's widow (Dt 25:5-10). In the same way, God Himself redeemed His
 
-people when the Law had failed. ### 3:15
+people when the Law had failed. 
+
+### 3:15
 *(anchor: RUT.3:15)*
 
 The gift of barley is a sign of his promise to redeem Ruth. The number six indicates

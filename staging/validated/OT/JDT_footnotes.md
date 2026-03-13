@@ -12,14 +12,18 @@ status: staging
 ### 1:1
 *(anchor: JDT.1:1)*
 
-This opening verse is anachronistic in that the father of Nebuchadnezzar, Nebopalassar, destroyed Nineveh in about 607 BC. ### 1:2-5
+This opening verse is anachronistic in that the father of Nebuchadnezzar, Nebopalassar, destroyed Nineveh in about 607 BC. 
+
+### 1:2-5
 *(anchor: JDT.1:2)*
 
 These verses are a parenthetical description of the massive fortifications of
 
 Ecbatana, which in turn implies the great power of Arphaxad, with whom
 
-Nebuchadnezzar waged war (v. 5). ### 1:6
+Nebuchadnezzar waged war (v. 5). 
+
+### 1:6
 *(anchor: JDT.1:6)*
 
 The sons of Chaldea are the central power of the alliance that defeats the great army
@@ -28,57 +32,79 @@ of Arphaxad (1:13). The irony is that these "sons" will prove powerless before a
 
 of the Hebrews" (10:12). The Euphrates, the Tigris, and the Hydaspes (a river in
 
-India) alludes to a large territory ruled by Artaxerxes (see Est 1:1). ### 1:10
+India) alludes to a large territory ruled by Artaxerxes (see Est 1:1). 
+
+### 1:10
 *(anchor: JDT.1:10)*
 
 From Ethiopia to the Hydaspes (v. 6) gives the full breadth of Nebuchadnezzar's
 
-proclaimed authority. ### 1:11
+proclaimed authority. 
+
+### 1:11
 *(anchor: JDT.1:11)*
 
 Building on 1:6, the author here introduces the supreme irony of this story: "the lord
 
 of all the earth" (Nebuchadnezzar) (2:5) will be shown as but one man, and "men
 
-confident in their strength" (2:5) will be sent away empty-handed and dishonored. ### 1:12
+confident in their strength" (2:5) will be sent away empty-handed and dishonored. 
+
+### 1:12
 *(anchor: JDT.1:12)*
 
-The borders of the two seas is parallel to the "boundaries of Ethiopia" (1:10). Great rivers are sometimes called seas in ancient Hebrew literature. ### 1:15
+The borders of the two seas is parallel to the "boundaries of Ethiopia" (1:10). Great rivers are sometimes called seas in ancient Hebrew literature. 
+
+### 1:15
 *(anchor: JDT.1:15)*
 
 The mountains of Ragau are some two hundred miles east of Ecbatana and away
 
-from the direction of attack; thus Arphaxad was captured while fleeing from defeat. ### 1:16
+from the direction of attack; thus Arphaxad was captured while fleeing from defeat. 
+
+### 1:16
 *(anchor: JDT.1:16)*
 
-They returned to Nineveh. ### 2:1
+They returned to Nineveh. 
+
+### 2:1
 *(anchor: JDT.2:1)*
 
 The first month is Nisan (March-April) and the twenty-second day is the day after
 
-the end of the Feast of Unleavened Bread on the Hebrew calendar. ### 2:5
+the end of the Feast of Unleavened Bread on the Hebrew calendar. 
+
+### 2:5
 *(anchor: JDT.2:5)*
 
 The titles the great king and lord of all the earth are further claims of divinity by
 
-Nebuchadnezzar (see Jos 3:11; Ps 47:3). ### 2:7
+Nebuchadnezzar (see Jos 3:11; Ps 47:3). 
+
+### 2:7
 *(anchor: JDT.2:7)*
 
 Prepare the earth and water "after the manner of the kings of Persia to whom
 
 earth and water were ceremonially given by custom as acknowledgment that they were
 
-lords of land and sea" (Herodotus 6:48, 49). This may be an indication of surrender. ### 2:8-9
+lords of land and sea" (Herodotus 6:48, 49). This may be an indication of surrender. 
+
+### 2:8-9
 *(anchor: JDT.2:8)*
 
 Just as Christ "descended into the lower parts of the earth" (Eph 4:9) to defeat the
 
 enemy of His people, the captives, so Judith will descend to the valley to defeat the
 
-enemy of her people (10:10). ### 2:12
+enemy of her people (10:10). 
+
+### 2:12
 *(anchor: JDT.2:12)*
 
-It is not Nebuchadnezzar's hand that will be decisive in the end, but Judith's (8:33; ### 13:14
+It is not Nebuchadnezzar's hand that will be decisive in the end, but Judith's (8:33; 
+
+### 13:14
 *(anchor: JDT.13:14)*
 
 ). 2:17
@@ -397,15 +423,21 @@ The Titans' sons are likely Goliath and his kin (2Kg 21:18-22). 16:10
 
 The Persians and the Medes are a reminder that this story is set in the time after
 
-the return from captivity. ### 16:14
+the return from captivity. 
+
+### 16:14
 *(anchor: JDT.16:14)*
 
-This verse is a paraphrase of Ps 32:6. ### 16:19
+This verse is a paraphrase of Ps 32:6. 
+
+### 16:19
 *(anchor: JDT.16:19)*
 
 In imitation of Abraham (Gn 14:22, 23), and Elisha (4Kg 5:16), Judith took nothing
 
-for herself, but dedicated all the property to the Lord. ### 16:22
+for herself, but dedicated all the property to the Lord. 
+
+### 16:22
 *(anchor: JDT.16:22)*
 
 Judith maintained her widowhood until the end of her life, a common practice in

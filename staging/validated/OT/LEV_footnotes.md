@@ -26,14 +26,18 @@ law was our tutor to bring us to Christ, that we might be justified by faith. Bu
 
 has come, we are no longer under a tutor" (Gal 3:24, 25). Only domesticated animals could be offered to God--animals dependent on the people, who in turn depended on them. These sacrificial animals were a type of Christ, "the Lamb
 
-of God who takes away the sin of the world" (Jn 1:29). ### 1:3
+of God who takes away the sin of the world" (Jn 1:29). 
+
+### 1:3
 *(anchor: LEV.1:3)*
 
 All such animals were to be without blemish to be acceptable to God. These
 
 unblemished animals were types of Christ: "How much more shall the blood of Christ, who through the eternal Spirit offered Himself without spot to God, cleanse your
 
-conscience from dead works to serve the living God?" (Heb 9:14). ### 1:4
+conscience from dead works to serve the living God?" (Heb 9:14). 
+
+### 1:4
 *(anchor: LEV.1:4)*
 
 In the Levitical liturgy of worship, the people participated in the worship. They were
@@ -58,7 +62,9 @@ behalf of the worshiper. Atonement is reconciliation to God. Similarly, in the n
 
 covenant liturgy of worship, Christ's offering of Himself is accepted as the worshiper's
 
-means of reconciliation to God (Rom 5:10, 11; 2Co 5:18). ### 1:5
+means of reconciliation to God (Rom 5:10, 11; 2Co 5:18). 
+
+### 1:5
 *(anchor: LEV.1:5)*
 
 Aaron, the high priest, and his sons were types of the new covenant clergy. Under the
@@ -573,7 +579,9 @@ offering, a whole burnt offering, a grain offering, and a peace offering, all in
 
 hands (Jn 14:12); and the peace offering, of intimate communion with God in which we
 
-eat and drink the body and blood of Christ (Jn 6:53-58). ### 9:16
+eat and drink the body and blood of Christ (Jn 6:53-58). 
+
+### 9:16
 *(anchor: LEV.9:16)*
 
 Worship in the old covenant was to be done according to the prescribed manner. No creativity whatsoever with regard to sacrifice was allowed. Nothing was to be done
@@ -594,14 +602,18 @@ order, even mock it, as though it were ungodly. They even call an order of worsh
 
 biblical basis for such worship, for this kind of worship is dead in the eyes of the true
 
-God. ### 9:22
+God. 
+
+### 9:22
 *(anchor: LEV.9:22)*
 
 Aaron blessed the people using his hand. Priests in the new covenant also bless the
 
 people with their hand, using a motion in the form of the cross, for they bless them in
 
-Christ's name. ### 9:23
+Christ's name. 
+
+### 9:23
 *(anchor: LEV.9:23)*
 
 , 24 The glory of the Lord appeared to all the people, and fire came out from
@@ -612,7 +624,9 @@ fire were seen. Neither is liturgical worship in the new covenant dead. Only peo
 
 dead, if they are in sin. But if they are alive in Christ, liturgical worship as prescribed by
 
-the Church fills them with the Lord's glory and fire. ### 10:1
+the Church fills them with the Lord's glory and fire. 
+
+### 10:1
 *(anchor: LEV.10:1)*
 
 , 2
@@ -631,7 +645,9 @@ together in any place whatsoever, looking upon them either as heretics of perver
 
 sake of lucre and vainglory. For all these have fallen from the truth. And the heretics, indeed, who bring strange fire to the altar of God--namely, strange doctrines--shall be
 
-burned up by the fire from heaven, as were Nadab and Abihu" (Iren). ### 11:2-4
+burned up by the fire from heaven, as were Nadab and Abihu" (Iren). 
+
+### 11:2-4
 *(anchor: LEV.11:2)*
 
 Lev 11:2-4, 47: At least two issues relate to the animals: the nature of animals and
@@ -664,7 +680,9 @@ animals in it are those among the Gentiles, and the command: 'Kill and eat,' den
 
 Peter must go to them also; and the linen sheet being let down three times denotes
 
-baptism" (JohnChr). ### 12:1-3
+baptism" (JohnChr). 
+
+### 12:1-3
 *(anchor: LEV.12:1)*
 
 Marriage, conception, and birth are honorable in every way: "Marriage is honorable
@@ -679,19 +697,25 @@ which the old life of sins is buried, as indicated by the seven days (v. 2). The
 
 to come. Circumcision on this day is typical of the cutting away of sins by the
 
-circumcision of Christ, effected in baptism (Col 2:11, 12). ### 13:2
+circumcision of Christ, effected in baptism (Col 2:11, 12). 
+
+### 13:2
 *(anchor: LEV.13:2)*
 
 Leprosy was the primary type, or symbol, of sin in the Old Testament. Sin does to the
 
 soul what leprosy does to the body. As leprosy defiles the body, so similarly, sin defiles
 
-the conscience with dead works. ### 13:3
+the conscience with dead works. 
+
+### 13:3
 *(anchor: LEV.13:3)*
 
 A person with leprosy was pronounced unclean. Similarly, all sin is unclean in the
 
-eyes of God. "God did not call us to uncleanness, but to holiness" (1Th 4:7). ### 13:9
+eyes of God. "God did not call us to uncleanness, but to holiness" (1Th 4:7). 
+
+### 13:9
 *(anchor: LEV.13:9)*
 
 , 10 A person with a leprous infection was brought to the priest for examination. This examination could only determine whether or not he had the disease of leprosy; the
@@ -706,7 +730,9 @@ all things are naked and open to the eyes of Him to whom we must give account" (
 
 offered Himself without spot to God, cleanse your conscience from dead works to serve
 
-the living God?" (Heb 9:14). ### 13:46
+the living God?" (Heb 9:14). 
+
+### 13:46
 *(anchor: LEV.13:46)*
 
 Leprosy forced the leper into a way of life outside the camp. This way became a
@@ -735,14 +761,18 @@ some have compassion, making a distinction; but others save with fear, pulling t
 
 of the fire, hating even the garment defiled by the flesh" (Jude 22, 23). He seems to have
 
-the matter of leprosy in mind, but applies it to sin and its contagion. ### 14:3
+the matter of leprosy in mind, but applies it to sin and its contagion. 
+
+### 14:3
 *(anchor: LEV.14:3)*
 
 The person desiring cleansing from his leprosy cannot come to the priest. The priest
 
 must go outside the camp to the one so diseased and sick. So too, Christ went outside the
 
-camp for us: "Therefore Jesus also, that He might sanctify the people with His own blood, suffered outside the gate" (Heb 13:12). ### 14:6
+camp for us: "Therefore Jesus also, that He might sanctify the people with His own blood, suffered outside the gate" (Heb 13:12). 
+
+### 14:6
 *(anchor: LEV.14:6)*
 
 , 7
@@ -753,7 +783,9 @@ King David had in mind when he prayed, "Sprinkle me with hyssop, and I will be
 
 cleansed." David was praying for purification from his sin. Perhaps he understood leprosy
 
-as a type of sin, as one possible explanation of the reference to the hyssop in Ps 50. ### 14:10
+as a type of sin, as one possible explanation of the reference to the hyssop in Ps 50. 
+
+### 14:10
 *(anchor: LEV.14:10)*
 
 The cleansing of the leper--his restoration to fellowship with God and the people--
@@ -766,14 +798,18 @@ our perfect offering--who bore our infirmities and was raised from the dead on t
 
 day. For the leper, Christ is the fulfillment of all that was done and offered on that day. Christ is the one who cleanses all mankind--if man is willing--from the leprosy of sin and
 
-all its effects. ### 14:48
+all its effects. 
+
+### 14:48
 *(anchor: LEV.14:48)*
 
 Note that nonliving matter could be redeemed, for atonement could be made for it. Consider again the power of Christ's victory over sin: "the creation itself also will be
 
 delivered from the bondage of corruption into the glorious liberty of the children of God"
 
-(Rom 8:21). ### 14:54-57
+(Rom 8:21). 
+
+### 14:54-57
 *(anchor: LEV.14:54)*
 
 This summarizes chapters 13 and 14. Note here the critical issue in separating
@@ -788,7 +824,9 @@ the whole lump" (1Co 5:6). Clearly, if one chooses to get really close to sin, t
 
 ignore it, and acts as if it isn't there, one may "catch" it. Though leprosy is not the most
 
-contagious of diseases, what a disease with which to gamble! ### 15:13
+contagious of diseases, what a disease with which to gamble! 
+
+### 15:13
 *(anchor: LEV.15:13)*
 
 Lev 15:13, 14, 28, 29: Cleansing from emissions seven days after the cessation of the
@@ -801,29 +839,39 @@ Christ--raised from the dead on the eighth day. In Christ, there is cleansing. A
 
 Christ, the curse of death is overcome. On the eighth day, He trampled down death by
 
-death, upon those in the tombs bestowing life. ### 15:25-30
+death, upon those in the tombs bestowing life. 
+
+### 15:25-30
 *(anchor: LEV.15:25)*
 
 In light of this passage, consider the account of the woman with the issue of
 
 blood, who, though unclean--but because of her faith in Christ--dared to touch the Lord
 
-as He allowed it (Mk 5:25-34). ### 15:31
+as He allowed it (Mk 5:25-34). 
+
+### 15:31
 *(anchor: LEV.15:31)*
 
 The tabernacle was the abode of God. No impurity would be tolerated there. Similarly, we are cleansed of sin's impurity by the blood of Christ so as to worship God in
 
-the heavenly holy of holies. ### 16:1
+the heavenly holy of holies. 
+
+### 16:1
 *(anchor: LEV.16:1)*
 
 The Day of Atonement was inaugurated, as the text says, after the deaths of the
 
 priests Nadab and Abihu (ch. 10). After the sin of these two sons of Aaron, the people had
 
-a great need to see God's provision for forgiveness displayed before them. ### 16:2
+a great need to see God's provision for forgiveness displayed before them. 
+
+### 16:2
 *(anchor: LEV.16:2)*
 
-This description seems to be the reason Nadab and Abihu died. ### 16:3
+This description seems to be the reason Nadab and Abihu died. 
+
+### 16:3
 *(anchor: LEV.16:3)*
 
 Here begins the description of the annual Day of Atonement, the single most
@@ -832,7 +880,9 @@ important day in the calendar of ancient Israel. Virtually every detail of this 
 
 type of the work of Christ and His atonement for our sins. It is rewarding to give careful
 
-attention to the specific details of this day. ### 16:4
+attention to the specific details of this day. 
+
+### 16:4
 *(anchor: LEV.16:4)*
 
 Aaron was to thoroughly wash himself in water. Here was not only a type of baptism
@@ -845,14 +895,18 @@ righteousness" (Mt 3:15). The true High Priest was preparing to go into the holy
 
 for the sins of the whole world. He only is without sin, so it was not for His own sins that
 
-He was baptized, but for the uncleanness of the people for whom He would suffer. ### 16:5
+He was baptized, but for the uncleanness of the people for whom He would suffer. 
+
+### 16:5
 *(anchor: LEV.16:5)*
 
 Five animals were offered on this day, a bull for a sin offering for himself, a ram for a
 
 burnt offering, two male goats as a sin offering, and a ram for a burnt offering. Each
 
-animal offered provided types of the work of Christ. ### 16:6
+animal offered provided types of the work of Christ. 
+
+### 16:6
 *(anchor: LEV.16:6)*
 
 An offering must be made for the priest and his household before he could carry out
@@ -865,7 +919,9 @@ clergy is unique, but they are still sinners in need of a sacrifice. It is not o
 
 who confess themselves to be chief of sinners at every Divine Liturgy--the clergy do as
 
-well. ### 16:8
+well. 
+
+### 16:8
 *(anchor: LEV.16:8)*
 
 Both goats together are one sin offering. Aaron cast lots over the two goats. The one
@@ -892,7 +948,9 @@ seat--the symbol of completion. This was to cleanse the holy of holies--to make
 
 atonement for the holy of holies itself, because of the impurities of the sons of Israel. Similarly, Christ sprinkled His own blood in the heavenly holy of holies so we might enter
 
-there in worship (Heb 9:23, 24). ### 16:21
+there in worship (Heb 9:23, 24). 
+
+### 16:21
 *(anchor: LEV.16:21)*
 
 The high priest laid his hands on the head of the live goat. In doing so, he laid the
@@ -927,7 +985,9 @@ sin, are burned outside the camp. Therefore Jesus also, that He might sanctify t
 
 with His own blood, suffered outside the gate. Therefore let us go forth to Him, outside
 
-the camp, bearing His reproach" (Heb 13:11-13). ### 16:33
+the camp, bearing His reproach" (Heb 13:11-13). 
+
+### 16:33
 *(anchor: LEV.16:33)*
 
 The atonement granted this day to the people of Israel could picture only in a limited
@@ -940,7 +1000,9 @@ sprinkled His sacrificial blood to deal fully with our sins. Today is the Day of
 
 out immediately. Not so of Christ. He went into the heavenly holy of holies with His own
 
-blood to atone for our sins, and thus to reconcile us with God. ### 17:1-8
+blood to atone for our sins, and thus to reconcile us with God. 
+
+### 17:1-8
 *(anchor: LEV.17:1)*
 
 Why this strict law regarding the slaying of domestic animals? It was to prevent
@@ -961,7 +1023,9 @@ relationship to Him. Here also is a type of the uniqueness of Christ. At Matins,
 
 the Lord." That revelation is Christ Himself. He alone is the atonement for our sins, reconciling us to God. He alone is the Savior. Israel was a type of the Church--the new
 
-people of God--and this type expresses how the Church is to be separate from the world. ### 17:7
+people of God--and this type expresses how the Church is to be separate from the world. 
+
+### 17:7
 *(anchor: LEV.17:7)*
 
 Israel had a history of habitually straying into the worship of idols, often labeled by
@@ -972,7 +1036,9 @@ Bride of Christ. Jesus is the Groom--so noted on Great and Holy Thursday--to who
 
 Church sings, "The Groom of the Church is fastened with nails . . ." To turn from the
 
-Groom to seek union or communion with anyone or anything else is spiritual fornication. ### 17:8-9
+Groom to seek union or communion with anyone or anything else is spiritual fornication. 
+
+### 17:8-9
 *(anchor: LEV.17:8)*
 
 Any Israelite who refused to bring his sacrifice to the tabernacle of testimony to
@@ -981,7 +1047,9 @@ offer it there would bring about his own destruction. Likewise, anyone who refus
 
 worship the Word made flesh--for He tabernacled in the flesh--destroys himself. For we
 
-worship His holy body (AthanG). ### 17:11
+worship His holy body (AthanG). 
+
+### 17:11
 *(anchor: LEV.17:11)*
 
 Because of the supreme importance of blood in atonement for sin, it was imperative
@@ -1004,12 +1072,16 @@ the blood of Christ, which initiated the new covenant. On the night of the Last 
 
 light as He is in the light, we have fellowship with one another, and the blood of Jesus
 
-Christ His Son cleanses us from all sin" (1Jn 1:7). ### 17:13-14
+Christ His Son cleanses us from all sin" (1Jn 1:7). 
+
+### 17:13-14
 *(anchor: LEV.17:13)*
 
 Game animals were another story. They could be killed and eaten anywhere, but
 
-still the blood was not to be eaten. ### 18:1-3
+still the blood was not to be eaten. 
+
+### 18:1-3
 *(anchor: LEV.18:1)*
 
 Israel was commanded not to live according to the way of life of Egypt and Canaan, nor to walk in their ordinances. The way of life in Egypt and Canaan was fallen, characterized by sinful passions, especially idolatry. The Scriptures describe this way of
@@ -1018,12 +1090,16 @@ life as the "old man" (Rom 6:6), and for the Church, this way of life was crucif
 
 Christ in baptism. Nor was Israel to walk in their ordinances, for many of these were unjust and ungodly. Examples of these are given in vv. 19-30, for instance the perversion of homosexuality (v. 22) and sodomy (v. 23). In our modern era, laws are being passed favoring homosexuality
 
-and abortion. But laws of this kind are an abomination to God (v. 30). ### 18:4
+and abortion. But laws of this kind are an abomination to God (v. 30). 
+
+### 18:4
 *(anchor: LEV.18:4)*
 
 Israel was to walk in the ordinances of the Mosaic Law. The Church, on the other
 
-hand, is to walk in the Law of Christ, a higher standard than the Mosaic (Rom 8:1-4). ### 18:5
+hand, is to walk in the Law of Christ, a higher standard than the Mosaic (Rom 8:1-4). 
+
+### 18:5
 *(anchor: LEV.18:5)*
 
 Israel was to keep all the ordinances of the Law of Moses. In so doing they would
@@ -1056,7 +1132,9 @@ confession is made unto salvation' (Rom 10:9, 10). . . . There is no long journe
 
 so much as the threshold, you may even while you sit at home be saved. For 'in your
 
-mouth and in your heart' is the source of salvation" (JohnChr). ### 18:6-18
+mouth and in your heart' is the source of salvation" (JohnChr). 
+
+### 18:6-18
 *(anchor: LEV.18:6)*
 
 As with most of Leviticus, there are two levels of interpretation to this passage. First, there is the immediate meaning for the people of Israel. Second, there is the type
@@ -1091,7 +1169,9 @@ which is foreign. One cannot have a commitment to union with both God and the wo
 
 and its attachments, as Christ said: "You cannot serve God and mammon" (Mt 6:24). Nothing should be introduced into the relationship of oneness that would in any way
 
-profane it or make it common. ### 19:1-3
+profane it or make it common. 
+
+### 19:1-3
 *(anchor: LEV.19:1)*
 
 The repeated formula, You shall be holy, for I the Lord your God am holy, is
@@ -1118,7 +1198,9 @@ Himself to Moses as the "I Am" (Ex 3:6, 14). In Jn 8:58, the identity of the Spe
 
 says to the Jews, "Most assuredly, I say to you, before Abraham was, I AM." He is the Son
 
-and Word of God, one of the three Persons of the All-Holy Trinity. ### 19:18
+and Word of God, one of the three Persons of the All-Holy Trinity. 
+
+### 19:18
 *(anchor: LEV.19:18)*
 
 The exhortation, you shall love your neighbor as yourself, here makes its first
@@ -1137,7 +1219,9 @@ ORD
 
 your God with all your heart, with all your soul, with all your strength, and with all your mind,' and 'your neighbor as yourself'" (v. 27). The lawyer further asked, "Who is my neighbor?" Jesus answered with the parable of the
 
-Good Samaritan, giving us an understanding of this passage in Leviticus. ### 20:1-23
+Good Samaritan, giving us an understanding of this passage in Leviticus. 
+
+### 20:1-23
 *(anchor: LEV.20:1)*
 
 The material in this chapter deals with penalties for sins approved by the
@@ -1148,14 +1232,18 @@ us the key to understanding this: You shall not walk in the ordinances of the
 
 nations I am casting out before you; for they commit all these things, and
 
-therefore I abhor them. ### 20:2-5
+therefore I abhor them. 
+
+### 20:2-5
 *(anchor: LEV.20:2)*
 
 Idolatry was the single greatest danger to the people of God. The first of the Ten
 
 Commandments is, "You shall have no other gods before Me." Idolatry was often the
 
-downfall of Israel. ### 20:3-7
+downfall of Israel. 
+
+### 20:3-7
 *(anchor: LEV.20:3)*
 
 God's holy things must not be profaned, for this profanes His name. With this in
@@ -1188,7 +1276,9 @@ therefore are contrary both to God and to nature. The Law also refuted the false
 
 that man is guilty before God because of Adam's sin. Adam was guilty of his own
 
-transgression, as is true of any and all. ### 20:24
+transgression, as is true of any and all. 
+
+### 20:24
 *(anchor: LEV.20:24)*
 
 The heart of the issue in all of these laws was the sanctification of the people of
@@ -1201,7 +1291,9 @@ who knew perfectly what was best for His subjects. This is why Israel was to be 
 
 separate from all the kingdoms around her and why idolatry was punishable by death, for
 
-it was high treason against the kingdom of God. ### 20:25-26
+it was high treason against the kingdom of God. 
+
+### 20:25-26
 *(anchor: LEV.20:25)*
 
 The violations of God's law here were (a) against God, (b) against the nation--
@@ -1210,7 +1302,9 @@ the theocracy, and (c) against the units that made up the theocracy, namely the 
 
 and in. If they should turn from God's ways, the inhabitants would suffer greatly. These
 
-laws are contrary to the current direction of ideas and legislation regarding the family. ### 21:1
+laws are contrary to the current direction of ideas and legislation regarding the family. 
+
+### 21:1
 *(anchor: LEV.21:1)*
 
 Jesus Christ holds the offices of prophet, priest, and king, at the same time and
@@ -1231,7 +1325,9 @@ by death, since Christ is the One who overcame death. Jesus wept at Lazarus' tom
 
 He is the One who overcame the death of Lazarus and who overcame death for all in His
 
-Resurrection. ### 21:14
+Resurrection. 
+
+### 21:14
 *(anchor: LEV.21:14)*
 
 The high priest was allowed to marry only a virgin, and she had to be from his own
@@ -1240,7 +1336,9 @@ people--an Israelite woman. He serves as a significant type of Christ, who is th
 
 the Church. The Church is forever His virgin bride. Christ and the Church form the
 
-perfect marriage; thus the types in the Old Testament foreshadow that perfection. ### 21:17
+perfect marriage; thus the types in the Old Testament foreshadow that perfection. 
+
+### 21:17
 *(anchor: LEV.21:17)*
 
 To serve in the priesthood, one had to be free of physical defects. This was a type of
@@ -1261,7 +1359,9 @@ the world to come. All will participate in the priesthood forever. "To Him who l
 
 and washed us from our sins in His own blood, and has made us kings and priests to His
 
-God and Father, to Him be glory and dominion forever and ever. Amen" (Rev 1:5, 6). ### 22:1-16
+God and Father, to Him be glory and dominion forever and ever. Amen" (Rev 1:5, 6). 
+
+### 22:1-16
 *(anchor: LEV.22:1)*
 
 Rules regarding the priests eating certain portions of some of the offerings may
@@ -1282,7 +1382,9 @@ flesh and drinks My blood abides in Me, and I in him" (Jn 6:53-56). This eating 
 
 sacrifice is not to be done casually or carelessly. Christ is the life and salvation of the
 
-world. He is not to be partaken of in any profane manner. ### 22:17-33
+world. He is not to be partaken of in any profane manner. 
+
+### 22:17-33
 *(anchor: LEV.22:17)*
 
 More rules are given for the sacrifice. At every Divine Liturgy in the Church, the
@@ -1303,7 +1405,9 @@ Baptist spoke of Jesus as "the Lamb of God who takes away the sin of the world" 
 
 the Messiah--the Christ--when He would come to be both the offerer and the offered. The rules also speak to the perfection of the sacrifice of Christ. He would be perfect and
 
-holy--separated to God alone. ### 23:1-4
+holy--separated to God alone. 
+
+### 23:1-4
 *(anchor: LEV.23:1)*
 
 The account that follows is not the entire Jewish calendar. These are the "fixed
@@ -1338,7 +1442,9 @@ define this fulfillment, as the Church is sanctified by the death and Resurrecti
 
 Christ. Thus, spiritual life is deepened, and God's people come to know the Incarnate
 
-Lord more intimately. ### 23:15-21
+Lord more intimately. 
+
+### 23:15-21
 *(anchor: LEV.23:15)*
 
 The Feast of Pentecost also sanctified the time and life of Israel as a sign pointing
@@ -1365,7 +1471,9 @@ That I will pour out of My Spirit on all flesh'" (Acts 2:17). The gifts of the S
 
 of God's kingdom are given to the people of God while still living in this age, as a foretaste
 
-of the world to come. ### 23:39
+of the world to come. 
+
+### 23:39
 *(anchor: LEV.23:39)*
 
 There was a feast on the eighth day after Tabernacles began. It was the end date--
@@ -1384,7 +1492,9 @@ all our labors and trials are over." It is the day of the establishment of the e
 
 kingdom of God in its fullness. All is completed. All is renewed. All is at rest. The true
 
-New World has begun. It is the fulfillment of the work of Christ for us. ### 24:1-4
+New World has begun. It is the fulfillment of the work of Christ for us. 
+
+### 24:1-4
 *(anchor: LEV.24:1)*
 
 The pure oil was for the golden lampstand that stood in the holy place along with
@@ -1399,7 +1509,9 @@ involved with this light. Christ is the Light of the world, for He enlightens al
 
 of the world--in Jn 8:12 and 9:5--but He also told His followers they, too, were the light
 
-of the world (Mt 5:13). ### 24:10-15
+of the world (Mt 5:13). 
+
+### 24:10-15
 *(anchor: LEV.24:10)*
 
 In the heat of passion, this man reviled and denounced the Lord. "Out of the
@@ -1412,7 +1524,9 @@ Lord God of Israel, the Lord Jesus Christ, has a name above every name (Php 2:9,
 
 death. Nevertheless, our age is witnessing more and more of this reviling of Jesus as
 
-Lord. ### 25:1
+Lord. 
+
+### 25:1
 *(anchor: LEV.25:1)*
 
 The land was to be left at rest every seventh year. Crops were not to be sown or
@@ -1425,7 +1539,9 @@ daily bread," so as to remember that our toil alone does not give us bread. Only
 
 blessing of God do we partake of daily bread and the Bread of Life, which is eaten in the
 
-Eucharist. The land needs rest and man needs rest that he might pursue the true Bread. ### 25:8
+Eucharist. The land needs rest and man needs rest that he might pursue the true Bread. 
+
+### 25:8
 *(anchor: LEV.25:8)*
 
 The property a Jew possessed was not his own. It was God's land, given to the
@@ -1456,7 +1572,9 @@ of God" (Heb 4:9). Some blessings of the coming kingdom are experienced in this 
 
 all these blessings will be available in the world to come, wherein all things are restored
 
-unto the ages of ages (Acts 3:19-21). ### 25:9
+unto the ages of ages (Acts 3:19-21). 
+
+### 25:9
 *(anchor: LEV.25:9)*
 
 The Year of Remission began on the Day of Atonement when the priest came out of
@@ -1487,7 +1605,9 @@ The Law of Moses could only promise blessings pertaining to the comforts of this
 
 present life. But the Law of Christ promises in the midst of sufferings on His behalf the
 
-blessings of eternal life in the kingdom of God (JohnCas). ### 27:1
+blessings of eternal life in the kingdom of God (JohnCas). 
+
+### 27:1
 *(anchor: LEV.27:1)*
 
 The subject matter of this chapter is quite different from the rest of the book. It deals
