@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2KI.4:43",
+  "canon_uri": "canon/OT/2KI.md#2KI.4:43",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1155,
+      "raw_match": "[[2KI.4:42]]-44",
+      "reference_type": "wikilink_range",
+      "context": "had multiplied bread for 100 men ([[2KI.4:42]]-44), he offers the food brought by a certain"
+    }
+  ]
+}

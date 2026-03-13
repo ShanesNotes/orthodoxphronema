@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JER.39:35",
+  "canon_uri": "canon/OT/JER.md#JER.39:35",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1655,
+      "raw_match": "[[JER.39:35]]",
+      "reference_type": "wikilink",
+      "context": "a place of forbidden religious practices ([[2CH.28:3]]; [[JER.39:35]]). King Josiah put an end to"
+    }
+  ]
+}

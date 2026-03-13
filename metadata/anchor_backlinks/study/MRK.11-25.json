@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.11:25",
+  "canon_uri": "canon/NT/MRK.md#MRK.11:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 837,
+      "raw_match": "[[MRK.11:25]]",
+      "reference_type": "wikilink",
+      "context": "Peace with other believers is a requirement for worship ([[MRK.11:25]]). The liturgical"
+    }
+  ]
+}

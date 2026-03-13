@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ROM.12:19",
+  "canon_uri": "canon/NT/ROM.md#ROM.12:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 87,
+      "raw_match": "[[ROM.12:19]]",
+      "reference_type": "wikilink",
+      "context": "vengeance becomes worse than the one on whom he takes vengeance (JohnChr). \"'Vengeance is Mine, I will repay,' says the Lord\" ([[ROM.12:19]]; see also Lv 19:18; [[DEU.32:35]]). The vengeance taken on Joab by Solomon was at the Lord's direction, but we should avoid"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 977,
+      "raw_match": "[[ROM.12:19]]",
+      "reference_type": "wikilink",
+      "context": "This concept is recorded in [[DEU.32:35]], and is affirmed by St. Paul in [[ROM.12:19]]."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1TH.5:19",
+  "canon_uri": "canon/NT/1TH.md#1TH.5:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2TI_footnotes.md",
+      "line_number": 27,
+      "raw_match": "[[1TH.5:19]]",
+      "reference_type": "wikilink",
+      "context": "feelings of fear or timidity. We do not \"quench the Spirit\" ([[1TH.5:19]]), but act with power"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 1219,
+      "raw_match": "[[1TH.5:19]]",
+      "reference_type": "wikilink",
+      "context": "Spirit. St. Paul also said, \"Do not quench the Spirit\" ([[1TH.5:19]]), for so shall we be"
+    }
+  ]
+}

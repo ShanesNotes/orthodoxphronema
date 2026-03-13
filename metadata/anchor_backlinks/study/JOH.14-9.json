@@ -1,0 +1,37 @@
+{
+  "anchor_id": "JOH.14:9",
+  "canon_uri": "canon/NT/JOH.md#JOH.14:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 69,
+      "raw_match": "[[JOH.14:9]]",
+      "reference_type": "wikilink",
+      "context": "Thus, the personal distinction of God as Trinity is known only through Him (see [[JOH.14:9]])."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3081,
+      "raw_match": "[[JOH.14:9]]",
+      "reference_type": "wikilink",
+      "context": "The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 1340,
+      "raw_match": "[[JOH.14:9]]",
+      "reference_type": "wikilink",
+      "context": "1:18), Brightness and Impress ([[HEB.1:3]]), Mirror ([[JOH.14:9]]) and Image ([[COL.1:15]]), Wisdom"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1754,
+      "raw_match": "[[JOH.14:9]]",
+      "reference_type": "wikilink",
+      "context": "Himself, for as He said, \"He who has seen Me has seen the Father\" ([[JOH.14:9]]). The rising"
+    }
+  ]
+}

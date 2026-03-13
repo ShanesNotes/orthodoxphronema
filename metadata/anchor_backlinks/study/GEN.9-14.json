@@ -1,0 +1,23 @@
+{
+  "anchor_id": "GEN.9:14",
+  "canon_uri": "canon/OT/GEN.md#GEN.9:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 823,
+      "raw_match": "[[GEN.9:12]]-17",
+      "reference_type": "wikilink_range",
+      "context": "which He will not judge man again as He did at the Flood ([[GEN.9:12]]-17). Mercy triumphs"
+    },
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 68,
+      "raw_match": "[[GEN.9:13]]-15",
+      "reference_type": "wikilink_range",
+      "context": "from the Virgin Mary. 1:27 The rainbow images the new covenant (see [[GEN.9:13]]-15). 2:9, 10 The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; Lk"
+    }
+  ]
+}

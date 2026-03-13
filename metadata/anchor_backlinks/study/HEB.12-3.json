@@ -1,0 +1,16 @@
+{
+  "anchor_id": "HEB.12:3",
+  "canon_uri": "canon/NT/HEB.md#HEB.12:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 440,
+      "raw_match": "[[HEB.12:1]]-3",
+      "reference_type": "wikilink_range",
+      "context": "Christ, who has given us strength to run \"the race that is set before us\" ([[HEB.12:1]]-3)."
+    }
+  ]
+}

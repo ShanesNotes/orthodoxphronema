@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JOH.10:28",
+  "canon_uri": "canon/NT/JOH.md#JOH.10:28",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 17,
+      "raw_match": "[[JOH.10:27]]-30",
+      "reference_type": "wikilink_range",
+      "context": "faithful, as Jude will relate in this letter (see [[JOH.10:27]]-30; [[2TI.1:12]]; [[HEB.12:2]])."
+    },
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 327,
+      "raw_match": "[[JOH.10:28]]",
+      "reference_type": "wikilink",
+      "context": "they shall never perish; neither shall anyone snatch them out of My hand\" ([[JOH.10:28]]). 10:11"
+    },
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 2278,
+      "raw_match": "[[JOH.10:28]]",
+      "reference_type": "wikilink",
+      "context": "See [[JOH.10:27]], [[JOH.10:28]]."
+    }
+  ]
+}

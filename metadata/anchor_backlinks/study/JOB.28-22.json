@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOB.28:22",
+  "canon_uri": "canon/OT/JOB.md#JOB.28:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1377,
+      "raw_match": "[[JOB.28:22]]",
+      "reference_type": "wikilink",
+      "context": "In Hebrew, Abaddon refers to destruction ([[JOB.28:22]] and 31:12, Hebrew text)."
+    }
+  ]
+}

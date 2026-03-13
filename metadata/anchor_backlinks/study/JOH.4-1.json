@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JOH.4:1",
+  "canon_uri": "canon/NT/JOH.md#JOH.4:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_articles.md",
+      "line_number": 28,
+      "raw_match": "[[JOH.4:1]]-3",
+      "reference_type": "wikilink_range",
+      "context": "([[MAT.4:12]]-17; [[LUK.4:14]], [[LUK.4:15]]; [[JOH.4:1]]-3)"
+    },
+    {
+      "source_file": "staging/validated/OT/MIC_footnotes.md",
+      "line_number": 41,
+      "raw_match": "[[JOH.4:1]]-42",
+      "reference_type": "wikilink_range",
+      "context": "Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 2253,
+      "raw_match": "[[JOH.4:1]]",
+      "reference_type": "wikilink",
+      "context": "where Jesus encountered the woman at the well known to us as St. Photini (see [[JOH.4:1]]-"
+    }
+  ]
+}

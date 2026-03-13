@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DAN.7:14",
+  "canon_uri": "canon/OT/DAN.md#DAN.7:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 353,
+      "raw_match": "[[DAN.7:14]]",
+      "reference_type": "wikilink",
+      "context": "([[DAN.7:13]], [[DAN.7:14]]). In an OT prophecy, Jacob dreamed of a ladder connecting earth to heaven,"
+    }
+  ]
+}

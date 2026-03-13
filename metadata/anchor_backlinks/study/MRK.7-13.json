@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.7:13",
+  "canon_uri": "canon/NT/MRK.md#MRK.7:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 239,
+      "raw_match": "[[MRK.7:13]]",
+      "reference_type": "wikilink",
+      "context": "19:13). A word of God in the NT can be God's creative will ([[2PE.3:5]], [[2PE.3:7]]), the OT ([[MRK.7:13]]), a"
+    }
+  ]
+}

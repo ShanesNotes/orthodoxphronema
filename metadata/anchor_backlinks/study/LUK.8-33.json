@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.8:33",
+  "canon_uri": "canon/NT/LUK.md#LUK.8:33",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 171,
+      "raw_match": "[[LUK.8:33]]",
+      "reference_type": "wikilink",
+      "context": "14:8). For more on this miracle, see notes at [[MAT.8:28]]-34 and [[LUK.8:33]]."
+    },
+    {
+      "source_file": "staging/validated/OT/JOB_footnotes.md",
+      "line_number": 69,
+      "raw_match": "[[LUK.8:33]]",
+      "reference_type": "wikilink",
+      "context": "be sent into a great herd of swine ([[LUK.8:32]], [[LUK.8:33]])."
+    }
+  ]
+}

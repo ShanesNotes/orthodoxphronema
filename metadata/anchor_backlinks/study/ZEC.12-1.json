@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ZEC.12:1",
+  "canon_uri": "canon/OT/ZEC.md#ZEC.12:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/AMO_footnotes.md",
+      "line_number": 108,
+      "raw_match": "[[ZEC.12:1]]",
+      "reference_type": "wikilink",
+      "context": "within His humanity. His very breath was created \"in the midst of the earth\" ([[PSA.73:12]]; see [[ZEC.12:1]]) when He was conceived by the uncreated Spirit in the womb of the Virgin."
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 264,
+      "raw_match": "[[ZEC.12:1]]",
+      "reference_type": "wikilink",
+      "context": "inherently good and comes into being at the time of conception (see [[ZEC.12:1]]). 8:21"
+    }
+  ]
+}

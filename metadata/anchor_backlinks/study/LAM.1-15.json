@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LAM.1:15",
+  "canon_uri": "canon/OT/LAM.md#LAM.1:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2709,
+      "raw_match": "[[LAM.1:15]]",
+      "reference_type": "wikilink",
+      "context": "winepress, executing God's wrath on earth (14:19, 20; Is 63:3; [[LAM.1:15]])."
+    }
+  ]
+}

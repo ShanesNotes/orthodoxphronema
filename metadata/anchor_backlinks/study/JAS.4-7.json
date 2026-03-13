@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JAS.4:7",
+  "canon_uri": "canon/NT/JAS.md#JAS.4:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TH_footnotes.md",
+      "line_number": 133,
+      "raw_match": "[[JAS.4:7]]",
+      "reference_type": "wikilink",
+      "context": "here that we enact God's promise: \"Resist the devil and he will flee from you\" ([[JAS.4:7]])."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1651,
+      "raw_match": "[[JAS.4:7]]",
+      "reference_type": "wikilink",
+      "context": "Christians are instructed to resist the devil ([[JAS.4:7]]), but not to fear him."
+    },
+    {
+      "source_file": "staging/validated/OT/TOB_footnotes.md",
+      "line_number": 148,
+      "raw_match": "[[JAS.4:7]]",
+      "reference_type": "wikilink",
+      "context": "(Naphtali) and (2) to the merciful God who will cause the demon to flee (see [[JAS.4:7]]). 7:3-6 Though Raguel and Edna knew of Tobit, it appears they did not know of Tobias. 7:10-13 Raguel is honest about the fate of Sarah's seven previous husbands, but blesses"
+    }
+  ]
+}

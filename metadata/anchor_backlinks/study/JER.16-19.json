@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JER.16:19",
+  "canon_uri": "canon/OT/JER.md#JER.16:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3039,
+      "raw_match": "[[JER.16:19]]-21",
+      "reference_type": "wikilink_range",
+      "context": "earth will stream to the Holy City to honor it (Is 55:5; [[JER.16:19]]-21; Tb 13:13; see also 1En"
+    }
+  ]
+}

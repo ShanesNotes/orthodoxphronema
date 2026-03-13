@@ -18,15 +18,15 @@ superior to the old, for the old is incomplete and preparatory whereas the new i
 
 and final. In the new man enters into the heavenly realm through Christ and is glorified
 
-(see Php 2:5-11 for a close parallel).
+(see [[PHP.2:5]]-11 for a close parallel).
 
 
 ### 1:2-3
 *(anchor: HEB.1:2)*
 
-Through whom also He made the worlds (v. 2; see Jn 1:3) and upholding all
+Through whom also He made the worlds (v. 2; see [[JOH.1:3]]) and upholding all
 
-things by the word of His power (v. 3; see Col 1:16, 17): These two phrases reveal the
+things by the word of His power (v. 3; see [[COL.1:16]], [[COL.1:17]]): These two phrases reveal the
 
 Son as God acting in the world. The Lord Jesus Christ is (1) the One who created the
 
@@ -52,21 +52,21 @@ without His Son.
 
 Thus, the Son reflects His Father's glory in this world. The unapproachable light of
 
-divinity, the divine energy (1Ti 6:16; 1Pt 2:9; 1Jn 1:7), is approachable only in the
+divinity, the divine energy ([[1TI.6:16]]; [[1PE.2:9]]; [[1JN.1:7]]), is approachable only in the
 
-incarnate Christ (Jn 12:36). God's brightness, though it had been experienced at the
+incarnate Christ ([[JOH.12:36]]). God's brightness, though it had been experienced at the
 
-burning bush (Ex 3:2-4), known by Israel (Ex 10:23; 13:21), and spoken of by the
+burning bush ([[EXO.3:2]]-4), known by Israel ([[EXO.10:23]]; 13:21), and spoken of by the
 
-prophets (Ps 35:10; 103:2; Is 9:1; 10:17; Hab 3:4), is especially revealed in Christ's birth
+prophets ([[PSA.35:10]]; 103:2; Is 9:1; 10:17; [[HAB.3:4]]), is especially revealed in Christ's birth
 
-(Lk 1:79; 2:32; Jn 1:4-9), the Transfiguration (Mt 17:2) and the Resurrection.
+([[LUK.1:79]]; 2:32; [[JOH.1:4]]-9), the Transfiguration ([[MAT.17:2]]) and the Resurrection.
 
 The express image of His person (Gr. hypostasis) expresses the Son's Person as
 
 being distinct from the Father. The Son is the perfect and eternal "icon" of the Father.
 
-Thus, the personal distinction of God as Trinity is known only through Him (see Jn 14:9).
+Thus, the personal distinction of God as Trinity is known only through Him (see [[JOH.14:9]]).
 
 No one knows the Father but through the Son.
 
@@ -94,7 +94,7 @@ old covenant, refers to Christ's human nature, not to His divine nature. The nam
 
 inherited is an open declaration that this Man is the Son of God. In Hebrews this name is
 
-"Son"; in Php 2:11 it is "Lord."
+"Son"; in [[PHP.2:11]] it is "Lord."
 
 
 ### 1:5
@@ -102,13 +102,13 @@ inherited is an open declaration that this Man is the Son of God. In Hebrews thi
 
 Christ is superior to the angels. They are, in some Judaic thought, only "the sons of
 
-God," whereas Christ is the Son of God. (The LXX at Dt 32:43, which Hebrews
+God," whereas Christ is the Son of God. (The LXX at [[DEU.32:43]], which Hebrews
 
 paraphrases in v. 6, literally reads "sons of God," not "angels of God.") While Christ is
 
 recognized as God's eternal Son at His Baptism and the Transfiguration, it is His
 
-enthronement in heaven that settles the matter (v. 4; see Rom 1:4). Begotten is a
+enthronement in heaven that settles the matter (v. 4; see [[ROM.1:4]]). Begotten is a
 
 reference to the Son in His divine, eternal nature. The Nicene Creed states He is
 
@@ -150,7 +150,7 @@ Here, God the Father calls the Son "God."
 ### 1:10-12
 *(anchor: HEB.1:10)*
 
-In this quotation from Ps 101:26-28, God the Father (v. 9) is addressing Another
+In this quotation from [[PSA.101:26]]-28, God the Father (v. 9) is addressing Another
 
 as "Lord," that is, as God.
 
@@ -220,7 +220,7 @@ Hebrews applies the discussion in Ps 8 about man to Jesus Christ, the perfect ma
 ### 2:9
 *(anchor: HEB.2:9)*
 
-See especially Php 2:5-11. Made a little lower than the angels refers to the
+See especially [[PHP.2:5]]-11. Made a little lower than the angels refers to the
 
 Incarnation, the Son becoming Man. Christ's suffering and death have highly exalted
 
@@ -268,7 +268,7 @@ by using the devil's strongest weapon--death itself.
 
 There is a relationship between sin and death: each one leads to the other. Sin causes
 
-death, and the fear of death leads one to sin and thus to bondage (Rom 5:12). Christ
+death, and the fear of death leads one to sin and thus to bondage ([[ROM.5:12]]). Christ
 
 sets us free from this bondage of sin and death.
 
@@ -324,7 +324,7 @@ literally means a Sabbath rest or Sabbath observance.
 
 There are three types of God's rest known to the Jews: (1) the Sabbath rest, the day on
 
-which God rested from His works (Gn 2:2, 3); (2) the rest from Egyptian bondage, which
+which God rested from His works ([[GEN.2:2]], [[GEN.2:3]]); (2) the rest from Egyptian bondage, which
 
 the Israelites coming out of Egypt experienced in Canaan; (3) the rest in the kingdom, the
 
@@ -342,7 +342,7 @@ Those in Christ are not immune to turning away from God. There is a temporary
 
 attractiveness in sin, which leads to a hardened heart and ultimately apostasy. We must
 
-take constant daily care not to be deceived and thus fall away (see Mk 4:5, 6, 16, 17).
+take constant daily care not to be deceived and thus fall away (see [[MRK.4:5]], [[MRK.4:6]], [[MRK.4:16]], [[MRK.4:17]]).
 
 
 ### 3:14
@@ -386,7 +386,7 @@ either bars entrance to rest.
 
 Joshua and Caleb were the only two men who left Egypt and entered into Canaan (Nm
 
-14:28-32; Dt 1:34-40). They had not participated in the disobedience of Egypt. The
+14:28-32; [[DEU.1:34]]-40). They had not participated in the disobedience of Egypt. The
 
 possession of Canaan under Joshua, though, was not the promised rest. Otherwise,
 
@@ -414,7 +414,7 @@ The word of God and the sword here are living and powerful. The phrase
 
 His sight (v. 13) tells us this reference is not to the written word, Holy Scripture, but to
 
-the Word of God Himself, our Lord Jesus Christ (see Jn 1:1-18). Nothing is able to escape
+the Word of God Himself, our Lord Jesus Christ (see [[JOH.1:1]]-18). Nothing is able to escape
 
 the discernment of Christ, the Word of God.
 
@@ -468,7 +468,7 @@ offerings of animals.
 
 Christ assumes and fulfills the OT priesthood (see 5:1-4): Like Melchizedek (v. 6;
 
-see 7:1-21; Gn 14:18-20), Jesus is both Priest and King. He does not sin; His sacrifice is
+see 7:1-21; [[GEN.14:18]]-20), Jesus is both Priest and King. He does not sin; His sacrifice is
 
 the human sacrifice of Himself, and His perfect priesthood continues in the Church to
 
@@ -480,7 +480,7 @@ this day.
 
 Cries and tears is likely a reference to our Lord's agonizing prayer in the Garden of
 
-Gethsemane (Mt 26:36-46; Mk 14:32-42; Lk 22:39-46).
+Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46).
 
 
 ### 5:8-9
@@ -548,9 +548,9 @@ reception of the Holy Spirit (chrismation).
 
 The basic sacraments are crucial to salvation: One is once enlightened in baptism,
 
-which is unrepeatable and called the sacrament of illumination (see Eph 5:14). Tasted
+which is unrepeatable and called the sacrament of illumination (see [[EPH.5:14]]). Tasted
 
-the heavenly gift (see 1Pt 2:3) may refer to the grace of baptism--Chrysostom says this
+the heavenly gift (see [[1PE.2:3]]) may refer to the grace of baptism--Chrysostom says this
 
 gift is especially the forgiveness of sin experienced in baptism--and it most certainly
 
@@ -572,7 +572,7 @@ Church, especially the confession of faith. The powers of the age to come are
 
 manifold: incorruption and eternal life, the presence of the future Kingdom here and
 
-now, and also miracles and spiritual gifts (Mt 7:22, 23; 12:28).
+now, and also miracles and spiritual gifts ([[MAT.7:22]], [[MAT.7:23]]; 12:28).
 
 
 ### 6:6
@@ -612,7 +612,7 @@ Nevertheless, such "second conversions" are difficult and rare--thus this sober 
 
 These verses are reminiscent of John the Baptist's and Jesus' images and parables of
 
-trees and their fruit (Mt 3:8-10; 7:16-20; 12:33; 21:19).
+trees and their fruit ([[MAT.3:8]]-10; 7:16-20; 12:33; 21:19).
 
 
 ### 6:10
@@ -620,13 +620,13 @@ trees and their fruit (Mt 3:8-10; 7:16-20; 12:33; 21:19).
 
 To minister is to serve someone else's will. It has a liturgical dimension. In part,
 
-ministry flows out of liturgical worship (see 2Co 9:12, where "the administration of this
+ministry flows out of liturgical worship (see [[2CO.9:12]], where "the administration of this
 
 service" is more literally translated "the service of this worship"). Prayer leads to action:
 
-the supreme NT example is the collection for the church in Jerusalem (Rom 15:25, 31;
+the supreme NT example is the collection for the church in Jerusalem ([[ROM.15:25]], [[ROM.15:31]];
 
-2Co 8:4).
+[[2CO.8:4]]).
 
 
 ### 6:12
@@ -736,7 +736,7 @@ The inner veil forms the locus of the liturgical practice of the old covenant (v
 
 and reveals its imperfection. The people could not draw near to God (see especially v. 8).
 
-At His death, Christ solved this alienation (Mt 27:51).
+At His death, Christ solved this alienation ([[MAT.27:51]]).
 
 
 ### 9:4
@@ -756,11 +756,11 @@ mercy seat, has a cherub on each side (the Orthodox Christian altar is flanked b
 
 cherubim). These representations, along with the pictures of cherubim on the inner veil
 
-(Ex 26:31) and the beauty and detailed workmanship of everything made for the
+([[EXO.26:31]]) and the beauty and detailed workmanship of everything made for the
 
 tabernacle, serve as the icons of the OT. This, and numerous other passages, held put to
 
-rest the fear that the Second Commandment (Ex 20:4-6) prohibits all imagery. God
+rest the fear that the Second Commandment ([[EXO.20:4]]-6) prohibits all imagery. God
 
 cannot be represented because divine nature is unknowable and hence cannot be
 
@@ -904,9 +904,9 @@ human being who voluntarily obeys the Father (v. 7).
 ### 10:8-10
 *(anchor: HEB.10:8)*
 
-A common prophetic theme throughout the OT (see 1Kg 15:22; Ps 50:8-15; Is
+A common prophetic theme throughout the OT (see 1Kg 15:22; [[PSA.50:8]]-15; Is
 
-1:10-17; Jer 7:21-26; Hos 6:6). This is not in opposition to liturgical, sacramental
+1:10-17; [[JER.7:21]]-26; [[HOS.6:6]]). This is not in opposition to liturgical, sacramental
 
 worship, but a statement of priority: obedience comes before praise. Sacrifice pleasing to
 
@@ -978,9 +978,9 @@ deliberately and with full knowledge reject the sacrifice of Christ--which is al
 ### 10:32
 *(anchor: HEB.10:32)*
 
-Illuminated: Illumination, or enlightenment, refers to baptism (see 6:4; Rom 6:4;
+Illuminated: Illumination, or enlightenment, refers to baptism (see 6:4; [[ROM.6:4]];
 
-Eph 5:14).
+[[EPH.5:14]]).
 
 
 ### 11:1
@@ -1020,7 +1020,7 @@ living in tents made by man (v. 9) to the permanence and solace of the city buil
 
 Jacob prefigured the Cross when he venerated the top of the staff of Joseph (Gn
 
-47:31) and when he blessed Joseph's sons with his hands crossed (Gn 48:14).
+47:31) and when he blessed Joseph's sons with his hands crossed ([[GEN.48:14]]).
 
 
 ### 11:37
@@ -1028,9 +1028,9 @@ Jacob prefigured the Cross when he venerated the top of the staff of Joseph (Gn
 
 Sawn in two: Some traditions say that Isaiah was killed in this manner by
 
-Manasseh. (See the pseudepigraphal Martyrdom of Isaiah; see also 2Ch 24:20-22; Jer
+Manasseh. (See the pseudepigraphal Martyrdom of Isaiah; see also [[2CH.24:20]]-22; Jer
 
-33:20-23; 2Mc 6:18-31; Mt 23:29-36.)
+33:20-23; 2Mc 6:18-31; [[MAT.23:29]]-36.)
 
 
 ### 11:38
@@ -1090,7 +1090,7 @@ ORD
 
 them, how much more deserving of respect is the discipline of the Father of spirits (v.
 
-9), our Creator, whose breath gives us life (Gn 1:26; 2:7)?
+9), our Creator, whose breath gives us life ([[GEN.1:26]]; 2:7)?
 
 
 ### 12:13
@@ -1098,7 +1098,7 @@ them, how much more deserving of respect is the discipline of the Father of spir
 
 Straight paths is a theme found throughout both the OT and the NT. See
 
-especially Is 40:3; Mt 7:13, 14.
+especially Is 40:3; [[MAT.7:13]], [[MAT.7:14]].
 
 
 ### 12:14-17
@@ -1112,7 +1112,7 @@ Jacob's easy, favored life in contrast to his own life of difficulty. Bitterness
 
 what is truly valuable. It cut off his endurance, so he traded his family honor, his
 
-birthright, for one small meal (Gn 25:27-34). For this Esau is called a fornicator (v.
+birthright, for one small meal ([[GEN.25:27]]-34). For this Esau is called a fornicator (v.
 
 16), being unfaithful to God and uniting his spirit to this temporary age. Later, when he
 
@@ -1128,7 +1128,7 @@ The mountain (v. 18) of the new covenant, Mt. Zion, is the fulfillment of the
 
 mountain of the old covenant, Mt. Sinai. Sinai is remembered as the place where God first
 
-called Israel to meet Him (Ex 19:9-23; 20:18-21; Dt 4:11, 12; 5:22-26). It was a place of
+called Israel to meet Him ([[EXO.19:9]]-23; 20:18-21; [[DEU.4:11]], [[DEU.4:12]]; 5:22-26). It was a place of
 
 fear, a place not to be approached and touched, out in the desert where Israel could not
 
@@ -1156,7 +1156,7 @@ they know themselves as church. There everyone is firstborn (v. 23) and has inhe
 
 all. There blood (v. 24) cries not for vengeance and further death--as did Abel's (see 11:4;
 
-Gn 4:10)--but for mercy, forgiveness, atonement, and unending life. This is the blood of
+[[GEN.4:10]])--but for mercy, forgiveness, atonement, and unending life. This is the blood of
 
 Christ given to us in the Eucharist.
 
@@ -1220,7 +1220,7 @@ is done fundamentally in corporate worship (10:25), by faith (11:1-3), and in or
 
 show gratitude to God (12:28, 29). The content of this worship includes remembering the
 
-departed righteous (11:4-40; see also Ps 111:1-6; Pr 10:8).
+departed righteous (11:4-40; see also [[PSA.111:1]]-6; Pr 10:8).
 
 
 ### 13:1-3
@@ -1230,11 +1230,11 @@ Practical brotherly love is to be shown toward all Christians, but especially fo
 
 lowly, the powerless, and the victims of injustice. Strangers (v. 2) are travelers in need
 
-of hospitality. Abraham's hospitality is recalled (Gn 18:1-8; also 19:1-3). Prisoners (v.
+of hospitality. Abraham's hospitality is recalled ([[GEN.18:1]]-8; also 19:1-3). Prisoners (v.
 
 3) are to be prayed for and aided if possible, for all those in the body of Christ, the
 
-Church, are members of one another (1Co 12:12-27).
+Church, are members of one another ([[1CO.12:12]]-27).
 
 
 ### 13:7

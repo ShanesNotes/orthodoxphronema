@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.13:33",
+  "canon_uri": "canon/NT/MAT.md#MAT.13:33",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 365,
+      "raw_match": "[[MAT.13:33]]",
+      "reference_type": "wikilink",
+      "context": "12:1). In Scripture, leaven is used both positively (as in [[MAT.13:33]]) and negatively, as it is"
+    }
+  ]
+}

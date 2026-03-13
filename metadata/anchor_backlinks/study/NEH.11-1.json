@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NEH.11:1",
+  "canon_uri": "canon/OT/NEH.md#NEH.11:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 113,
+      "raw_match": "[[NEH.11:1]]",
+      "reference_type": "wikilink",
+      "context": "18:6-10; [[NEH.11:1]]; [[JON.1:7]]) and continues in various places in the Church to this day. This"
+    }
+  ]
+}

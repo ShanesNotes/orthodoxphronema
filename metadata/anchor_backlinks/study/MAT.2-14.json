@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.2:14",
+  "canon_uri": "canon/NT/MAT.md#MAT.2:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 296,
+      "raw_match": "[[MAT.2:13]]-15",
+      "reference_type": "wikilink_range",
+      "context": "first messengers to bring Christ to this region were the Holy Family (see [[MAT.2:13]]-15). Tradition holds that the Evangelist Mark established churches there. 18:5"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.16:27",
+  "canon_uri": "canon/NT/MAT.md#MAT.16:27",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2871,
+      "raw_match": "[[MAT.16:27]]",
+      "reference_type": "wikilink",
+      "context": "believers' works is a common NT theme ([[MAT.16:27]]; [[ROM.2:6]]; [[2CO.5:10]]; [[1PE.1:17]]; see also"
+    }
+  ]
+}

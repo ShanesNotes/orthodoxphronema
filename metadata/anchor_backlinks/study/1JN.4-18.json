@@ -1,0 +1,30 @@
+{
+  "anchor_id": "1JN.4:18",
+  "canon_uri": "canon/NT/1JN.md#1JN.4:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 925,
+      "raw_match": "[[1JN.4:7]]-21",
+      "reference_type": "wikilink_range",
+      "context": "[[1JN.4:7]]-21.)"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2183,
+      "raw_match": "[[1JN.4:7]]-21",
+      "reference_type": "wikilink_range",
+      "context": "service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21)."
+    },
+    {
+      "source_file": "staging/validated/OT/JER_footnotes.md",
+      "line_number": 786,
+      "raw_match": "[[1JN.4:18]]",
+      "reference_type": "wikilink",
+      "context": "love, and in perfect love there is no fear ([[1JN.4:18]]). 23:5"
+    }
+  ]
+}

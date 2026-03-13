@@ -1,0 +1,30 @@
+{
+  "anchor_id": "2CO.7:10",
+  "canon_uri": "canon/NT/2CO.md#2CO.7:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2PE_footnotes.md",
+      "line_number": 265,
+      "raw_match": "[[2CO.7:10]]",
+      "reference_type": "wikilink",
+      "context": "time primarily to grant us fuller repentance. (See v. 15; [[2CO.7:9]], [[2CO.7:10]].)"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 647,
+      "raw_match": "[[2CO.7:10]]",
+      "reference_type": "wikilink",
+      "context": "(see [[2CO.7:10]])."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 247,
+      "raw_match": "[[2CO.7:10]]",
+      "reference_type": "wikilink",
+      "context": "[[2CO.7:10]]); (2) by petitioning the Lord to enlighten the eyes of the heart, lest the sleep in"
+    }
+  ]
+}

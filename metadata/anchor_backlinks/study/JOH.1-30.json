@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.1:30",
+  "canon_uri": "canon/NT/JOH.md#JOH.1:30",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1093,
+      "raw_match": "[[JOH.1:29]]-31",
+      "reference_type": "wikilink_range",
+      "context": "Though John directed his disciples to follow Christ ([[JOH.1:29]]-31, 35-37), some remained"
+    }
+  ]
+}

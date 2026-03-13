@@ -1,0 +1,37 @@
+{
+  "anchor_id": "REV.21:24",
+  "canon_uri": "canon/NT/REV.md#REV.21:24",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 531,
+      "raw_match": "[[REV.21:9]]-27",
+      "reference_type": "wikilink_range",
+      "context": "remained unseen\" (GrgGt). Compare [[REV.21:9]]-27."
+    },
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 719,
+      "raw_match": "[[REV.21:9]]-27",
+      "reference_type": "wikilink_range",
+      "context": "He measured the house all around: Compare [[REV.21:9]]-27."
+    },
+    {
+      "source_file": "staging/validated/OT/JOL_footnotes.md",
+      "line_number": 389,
+      "raw_match": "[[REV.21:9]]-27",
+      "reference_type": "wikilink_range",
+      "context": "an incorruptible Jerusalem ([[REV.21:9]]-27). 4:19"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1406,
+      "raw_match": "[[REV.21:9]]-27",
+      "reference_type": "wikilink_range",
+      "context": "fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
+    }
+  ]
+}

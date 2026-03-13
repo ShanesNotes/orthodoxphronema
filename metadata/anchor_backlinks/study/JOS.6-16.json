@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOS.6:16",
+  "canon_uri": "canon/OT/JOS.md#JOS.6:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 377,
+      "raw_match": "[[JOS.6:16]]",
+      "reference_type": "wikilink",
+      "context": "city of Jericho ([[JOS.6:16]]). Whoever would rebuild the city would lose his oldest and"
+    },
+    {
+      "source_file": "staging/validated/OT/2MA_footnotes.md",
+      "line_number": 525,
+      "raw_match": "[[JOS.6:1]]-21",
+      "reference_type": "wikilink_range",
+      "context": "See [[JOS.6:1]]-21."
+    }
+  ]
+}

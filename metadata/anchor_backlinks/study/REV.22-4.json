@@ -1,0 +1,23 @@
+{
+  "anchor_id": "REV.22:4",
+  "canon_uri": "canon/NT/REV.md#REV.22:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 859,
+      "raw_match": "[[REV.22:4]]",
+      "reference_type": "wikilink",
+      "context": "foreheads ([[REV.22:4]])."
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 685,
+      "raw_match": "[[REV.22:1]]-5",
+      "reference_type": "wikilink_range",
+      "context": "the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers"
+    }
+  ]
+}

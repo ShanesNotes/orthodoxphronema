@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2TI.4:11",
+  "canon_uri": "canon/NT/2TI.md#2TI.4:11",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1545,
+      "raw_match": "[[2TI.4:11]]",
+      "reference_type": "wikilink",
+      "context": "resolved, and John Mark later rejoined Paul (see [[2TI.4:11]])."
+    }
+  ]
+}

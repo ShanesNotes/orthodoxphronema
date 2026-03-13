@@ -1,0 +1,23 @@
+{
+  "anchor_id": "REV.1:4",
+  "canon_uri": "canon/NT/REV.md#REV.1:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/TOB_footnotes.md",
+      "line_number": 287,
+      "raw_match": "[[REV.1:4]]",
+      "reference_type": "wikilink",
+      "context": "appear before the glory of the Holy One (see [[REV.1:4]]). These seven are also called"
+    },
+    {
+      "source_file": "staging/validated/OT/TOB_footnotes.md",
+      "line_number": 294,
+      "raw_match": "[[REV.1:4]]",
+      "reference_type": "wikilink",
+      "context": "Raphael is ascending to God to appear \"before His throne\" ([[REV.1:4]])."
+    }
+  ]
+}

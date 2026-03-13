@@ -1,0 +1,23 @@
+{
+  "anchor_id": "REV.12:13",
+  "canon_uri": "canon/NT/REV.md#REV.12:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DAN_footnotes.md",
+      "line_number": 383,
+      "raw_match": "[[REV.12:7]]-16",
+      "reference_type": "wikilink_range",
+      "context": "tribulation that will befall the faithful just prior to the end of the age (see 12:7 and note; [[REV.12:7]]-16 and notes). 8:1-27"
+    },
+    {
+      "source_file": "staging/validated/OT/DAN_footnotes.md",
+      "line_number": 652,
+      "raw_match": "[[REV.12:7]]-16",
+      "reference_type": "wikilink_range",
+      "context": "context that the time, times, and half a time, means a year, and two years, and half a year, that is to say, three years and a half\" (Aug). See also 7:25 and note; [[REV.12:7]]-16 and"
+    }
+  ]
+}

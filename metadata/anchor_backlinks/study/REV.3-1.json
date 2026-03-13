@@ -1,0 +1,16 @@
+{
+  "anchor_id": "REV.3:1",
+  "canon_uri": "canon/NT/REV.md#REV.3:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 597,
+      "raw_match": "[[REV.3:1]]",
+      "reference_type": "wikilink",
+      "context": "God\" ([[REV.3:1]]). These seven spirits are the graces of the Holy Spirit that rested on Christ, summarized in Is 11:2, 3: wisdom, understanding, counsel, might, knowledge, godliness, and the fear of God. These are the \"seven pillars\" by which the Church is supported"
+    }
+  ]
+}

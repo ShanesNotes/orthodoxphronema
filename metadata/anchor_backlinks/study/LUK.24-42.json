@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.24:42",
+  "canon_uri": "canon/NT/LUK.md#LUK.24:42",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3659,
+      "raw_match": "[[LUK.24:41]]-43",
+      "reference_type": "wikilink_range",
+      "context": "reality of His victory over death ([[LUK.24:41]]-43). Furthermore, it points to the eternal"
+    },
+    {
+      "source_file": "staging/validated/OT/2CH_footnotes.md",
+      "line_number": 19,
+      "raw_match": "[[LUK.24:33]]-42",
+      "reference_type": "wikilink_range",
+      "context": "on earth ([[LUK.24:33]]-42). He will impart to them His own wisdom and understanding"
+    }
+  ]
+}

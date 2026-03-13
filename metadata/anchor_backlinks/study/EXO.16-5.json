@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.16:5",
+  "canon_uri": "canon/OT/EXO.md#EXO.16:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1133,
+      "raw_match": "[[EXO.16:1]]-17",
+      "reference_type": "wikilink_range",
+      "context": "water source ([[EXO.16:1]]-17:7). Here, Christ declares Himself to be the true food and drink,"
+    }
+  ]
+}

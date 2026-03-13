@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.17:11",
+  "canon_uri": "canon/OT/EXO.md#EXO.17:11",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1895,
+      "raw_match": "[[EXO.17:8]]-13",
+      "reference_type": "wikilink_range",
+      "context": "It is probable that Ben Sirach is speaking of the incident in [[EXO.17:8]]-13 when"
+    }
+  ]
+}

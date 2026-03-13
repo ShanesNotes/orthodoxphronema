@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.10:17",
+  "canon_uri": "canon/OT/DEU.md#DEU.10:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2673,
+      "raw_match": "[[DEU.10:17]]",
+      "reference_type": "wikilink",
+      "context": "(v. 16; see 17:14) AND LORD OF LORDS (see [[DEU.10:17]]; [[1TI.6:15]]). But He also has a"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.13:26",
+  "canon_uri": "canon/NT/LUK.md#LUK.13:26",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1239,
+      "raw_match": "[[LUK.13:24]]-30",
+      "reference_type": "wikilink_range",
+      "context": "Luke's version ([[LUK.13:24]]-30) is more eschatological, referring to the end of the age."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 771,
+      "raw_match": "[[LUK.13:25]]-30",
+      "reference_type": "wikilink_range",
+      "context": "of the feast of the Kingdom ([[LUK.13:25]]-30)."
+    }
+  ]
+}

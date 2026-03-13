@@ -1,0 +1,16 @@
+{
+  "anchor_id": "GEN.10:19",
+  "canon_uri": "canon/OT/GEN.md#GEN.10:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JDT_footnotes.md",
+      "line_number": 188,
+      "raw_match": "[[GEN.10:15]]-19",
+      "reference_type": "wikilink_range",
+      "context": "meant to lame horses or impale infantry. 5:3-4 Canaan is used here in its archaic sense (see [[GEN.10:15]]-19) and includes all those"
+    }
+  ]
+}

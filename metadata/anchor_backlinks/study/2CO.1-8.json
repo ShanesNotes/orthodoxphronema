@@ -1,0 +1,23 @@
+{
+  "anchor_id": "2CO.1:8",
+  "canon_uri": "canon/NT/2CO.md#2CO.1:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1CO_footnotes.md",
+      "line_number": 821,
+      "raw_match": "[[2CO.1:8]]",
+      "reference_type": "wikilink",
+      "context": "11:25; 12:1; [[2CO.1:8]]; [[COL.2:1]]; [[1TH.4:13]]) to introduce a matter vital to the Christian faith."
+    },
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 2007,
+      "raw_match": "[[2CO.1:8]]",
+      "reference_type": "wikilink",
+      "context": "among the worst he faced ([[1CO.15:32]]; [[2CO.1:8]])."
+    }
+  ]
+}

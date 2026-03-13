@@ -29,7 +29,7 @@ reply coldly. God reminds them of the covenant with Abraham, Isaac, and Jacob. J
 
 have loved, but Esau I have hated is a Semitic way of emphasizing God's choice of
 
-Jacob, not of indicating hatred for the unchosen (see Gn 25:23; Lk 14:26; Rom 9:10-13). 
+Jacob, not of indicating hatred for the unchosen (see [[GEN.25:23]]; [[LUK.14:26]]; [[ROM.9:10]]-13). 
 
 ### 1:7-8
 *(anchor: MAL.1:7)*
@@ -72,7 +72,7 @@ entertainment, but for His people to have communion with Him.
 
 The word here is dung (Gr. anaustrov). The Hebrew text also reads "dung." The offal
 
-of offerings was removed from the sanctuary and burned (see Ex 29:14; Lv 4:11, 12). God
+of offerings was removed from the sanctuary and burned (see [[EXO.29:14]]; Lv 4:11, 12). God
 
 detests false offerings so intensely that He threatens to rub dung on the faces of the
 
@@ -87,7 +87,7 @@ In this instance, Malachi delivers an angelic message with an earthy tongue, dem
 
 Malachi reminds the priests of the Levitic covenant and what they are meant to be
 
-and do (see Nm 25:12, 13; Dt 10:8, 9). 
+and do (see [[NUM.25:12]], [[NUM.25:13]]; [[DEU.10:8]], [[DEU.10:9]]). 
 
 ### 2:7
 *(anchor: MAL.2:7)*
@@ -97,13 +97,13 @@ A stunning job description of the priest serving Christ today.
 ### 2:10
 *(anchor: MAL.2:10)*
 
-Christians call God Father because Jesus Christ, the eternally begotten Son of God, revealed Him as Father (Mt 3:17; 6:9), and He has made us the children of God (Jn 1:12). 2:10-12 Sons of Israel profaned the holy things of the Lord. Too often they followed
+Christians call God Father because Jesus Christ, the eternally begotten Son of God, revealed Him as Father ([[MAT.3:17]]; 6:9), and He has made us the children of God ([[JOH.1:12]]). 2:10-12 Sons of Israel profaned the holy things of the Lord. Too often they followed
 
 foreign gods through intermarriage with pagan women, which was prohibited (see Ex
 
-34:11-16; Dt 7:1-4). St. Paul echoes this truth in saying, "Do not be unequally yoked
+34:11-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, "Do not be unequally yoked
 
-together with unbelievers" (2Co 6:14). 
+together with unbelievers" ([[2CO.6:14]]). 
 
 ### 2:13-16
 *(anchor: MAL.2:13)*
@@ -136,7 +136,7 @@ My messenger: The Lord will send John the Baptist to prepare the way (see Is
 
 40:3) as forerunner of the Messiah. Our Lord Jesus Christ verifies this prophecy about
 
-John in Mt 11:10, 14. 
+John in [[MAT.11:10]], [[MAT.11:14]]. 
 
 ### 3:2-3
 *(anchor: MAL.3:2)*
@@ -175,7 +175,7 @@ personal and social categories.
 
 , 7
 
-God has not changed and does not change. The Scriptures (Heb 13:8) and the
+God has not changed and does not change. The Scriptures ([[HEB.13:8]]) and the
 
 Church Fathers apply this verse to Christ. 
 
@@ -188,7 +188,7 @@ additional gifts. Some modern Christians reject tithing, claiming it is a part o
 
 applicable today. But they forget that Abram (Abraham) tithed to Melchizedek five
 
-hundred years before the Law was given to Moses (Gn 14:18-20). And Melchizedek is a
+hundred years before the Law was given to Moses ([[GEN.14:18]]-20). And Melchizedek is a
 
 type of Christ (Heb 6:19-7:6). To those who tithe, God promises a blessing until it is
 
@@ -206,7 +206,7 @@ foolish and accuse Him of blessing the wicked, thereby attempting to put Him on 
 
 Contrast such people with those who feared the Lord and reverenced His
 
-name. Their names are in a book of remembrance (Ex 32:32-34; Is 4:3; Dan 7:10). 
+name. Their names are in a book of remembrance ([[EXO.32:32]]-34; Is 4:3; [[DAN.7:10]]). 
 
 ### 3:19
 *(anchor: MAL.3:19)*
@@ -233,4 +233,4 @@ Elijah the Tishbite and Moses were present with the Lord at His Transfiguration 
 
 The Giver of the Law of Moses will soon become incarnate, writing His laws on our
 
-hearts and minds and remembering our sins and lawless deeds no more (Heb 10:16, 17).
+hearts and minds and remembering our sins and lawless deeds no more ([[HEB.10:16]], [[HEB.10:17]]).

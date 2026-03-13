@@ -23,7 +23,7 @@ specific location, yet this statement is also prophetic in that it points as wel
 
 Jerusalem, the eternal city over which God reigns and in which all nations will dwell (Rev
 
-21). 1:1-4 The kings of the earth, who receive authority from the Lord (Jn 19:11; Rom 13:1-7), are used by God to fulfill His plan. 
+21). 1:1-4 The kings of the earth, who receive authority from the Lord ([[JOH.19:11]]; [[ROM.13:1]]-7), are used by God to fulfill His plan. 
 
 ### 1:5
 *(anchor: EZR.1:5)*
@@ -69,7 +69,7 @@ show that worship was a high priority for the Jews who had returned.
 ### 3:1
 *(anchor: EZR.3:1)*
 
-The people assembling as one person is fulfilled at Pentecost (Acts 2:1) and in the
+The people assembling as one person is fulfilled at Pentecost ([[ACT.2:1]]) and in the
 
 Church when we assemble in unity for the Eucharist as the one Body of Christ. 
 
@@ -89,9 +89,9 @@ temple (6:1). Last, they rebuilt the city.
 ### 3:7
 *(anchor: EZR.3:7)*
 
-Starting with Abraham (Gn 14:18-20), the tradition of God's people for giving money
+Starting with Abraham ([[GEN.14:18]]-20), the tradition of God's people for giving money
 
-to the Lord is to give a tithe (Mal 3:8-12) plus freewill offerings. This is how the temple
+to the Lord is to give a tithe ([[MAL.3:8]]-12) plus freewill offerings. This is how the temple
 
 was built, and also how the Church is built. 
 
@@ -102,7 +102,7 @@ The young Levites together with the sons of Judah begin to lay the foundation
 
 for the temple. This is fulfilled through Jesus Christ and His apostles in the building of
 
-the Church (Mt 21:42; 1Co 3:9-17; Eph 2:19-22). 
+the Church ([[MAT.21:42]]; [[1CO.3:9]]-17; [[EPH.2:19]]-22). 
 
 ### 3:12-13
 *(anchor: EZR.3:12)*
@@ -118,7 +118,7 @@ downfall. The joy was in the hope of the completion of the temple's foundation.
 ### 4:1-5
 *(anchor: EZR.4:1)*
 
-"He who is not with Me is against Me," said Christ (Mt 12:30), and the neighbors of
+"He who is not with Me is against Me," said Christ ([[MAT.12:30]]), and the neighbors of
 
 the Jews turned quickly against their efforts to rebuild God's house. When we serve the
 
@@ -131,9 +131,9 @@ The claim that the work of God is rebellion and harmful to kings whom God
 
 Himself has established is a standard ploy of Satan in his attempts to destroy God's
 
-obedient ones (Est 3:8, 9). This culminates in the charge that would be leveled against
+obedient ones ([[EST.3:8]], [[EST.3:9]]). This culminates in the charge that would be leveled against
 
-Christ Himself (Jn 19:12). 
+Christ Himself ([[JOH.19:12]]). 
 
 ### 4:17-24
 *(anchor: EZR.4:17)*
@@ -142,7 +142,7 @@ The discontinued work under Artaxerxes is reminiscent of the temporary
 
 captivity of Israel in Egypt when a new king arose who did not know the goodness of the
 
-people of God (Ex 1:8). 
+people of God ([[EXO.1:8]]). 
 
 ### 5:1
 *(anchor: EZR.5:1)*
@@ -151,27 +151,27 @@ people of God (Ex 1:8).
 
 The prophets of God constantly speak of the restoration of the house of God, just as the prophets throughout the Old Testament collectively point to the Resurrection
 
-of Christ. In this way, the restoration of the temple is itself a type of Christ (Jn 2:19-22). 
+of Christ. In this way, the restoration of the temple is itself a type of Christ ([[JOH.2:19]]-22). 
 
 ### 5:5
 *(anchor: EZR.5:5)*
 
 Unless He allows it, the purpose of God cannot be stopped by earthly authorities or by
 
-the devil (Mt 16:18). 
+the devil ([[MAT.16:18]]). 
 
 ### 5:7-17
 *(anchor: EZR.5:7)*
 
 The appeal to search the king's treasure house to find the king's decree
 
-parallels the Church's readiness to search the Scriptures (Jn 5:39; Acts 17:11). Appealing
+parallels the Church's readiness to search the Scriptures ([[JOH.5:39]]; [[ACT.17:11]]). Appealing
 
 to the Scriptures is how Jesus and His apostles demonstrated His genuine claim to be the
 
-Christ, the incarnate Son of God (Lk 24:27; Acts 17:2, 11; 18:28). Interestingly, the appeal
+Christ, the incarnate Son of God ([[LUK.24:27]]; [[ACT.17:2]], [[ACT.17:11]]; 18:28). Interestingly, the appeal
 
-to the Scriptures was also one of the ways Jesus' enemies tried to malign Him (Mt 4:6; Jn
+to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([[MAT.4:6]]; Jn
 
 
 ### 7:52
@@ -181,7 +181,7 @@ to the Scriptures was also one of the ways Jesus' enemies tried to malign Him (M
 
 handed down as Holy Scripture is unquestioned. 6:1-3 The decree of Darius affirms the authority of the earlier decree by King Cyrus. In the same way, within the Church, the traditions of the faith and true doctrine are
 
-reaffirmed in every generation (2Th 2:15). 6:8-10
+reaffirmed in every generation ([[2TH.2:15]]). 6:8-10
 
 God's house will be built at the expense of even His enemies, for His glory, in
 
@@ -197,7 +197,7 @@ The earthly kings and Zechariah fulfill the prophecies of Haggai. 6:15
 
 The restoration of the temple on the third day of this month certainly suggests the
 
-resurrection of Jesus Christ on the third day (Jn 2:19-22). 6:19-21 The unity at the Passover meal between the children of Israel and those who
+resurrection of Jesus Christ on the third day ([[JOH.2:19]]-22). 6:19-21 The unity at the Passover meal between the children of Israel and those who
 
 would seek the Lord from the nations points forward to the Eucharist, to which all
 
@@ -217,7 +217,7 @@ standards, but divinely protected. In the same way, Christian believers are call
 
 escape the fleeting security of this world in order to build up the kingdom of Jesus Christ
 
-(Mk 8:34-38; 10:28-31). 7:12
+([[MRK.8:34]]-38; 10:28-31). 7:12
 
 Artaxerxes, using the title king of kings, becomes a picture of Christ, sending Ezra
 
@@ -225,17 +225,17 @@ to rebuild Jerusalem. The Lord would later send His apostles to build the Church
 
 Artaxerxes gave all the articles needed (vv. 15-22), so Christ provides the grace of the
 
-Holy Spirit and His power to His disciples (Acts 1:8). 7:25-26
+Holy Spirit and His power to His disciples ([[ACT.1:8]]). 7:25-26
 
 Ezra is commanded by the king to appoint magistrates and judges to
 
 determine the people's obedience to the law of . . . God, just as Peter and the other
 
-apostles would be given authority to bind and loose the sins of the people (Mt 16:19; Jn
+apostles would be given authority to bind and loose the sins of the people ([[MAT.16:19]]; Jn
 
 20:23). Ezra is further commanded to teach the uninformed, just as the apostles would
 
-be commanded to do (Mt 28:18-20). 7:27-28
+be commanded to do ([[MAT.28:18]]-20). 7:27-28
 
 Ezra is encouraged by the way a pagan king would expend his resources to
 
@@ -259,7 +259,7 @@ sacrifice may be offered, for the worship was the highest priority of the return
 
 A fast by the faithful has tremendous power in helping to discern the right way
 
-of God, and in securing His power against the enemy (Est 4:16; Joel 2:12-17; Mt 17:17-
+of God, and in securing His power against the enemy ([[EST.4:16]]; [[JOL.2:12]]-17; [[MAT.17:17]]-
 
 21). 
 
@@ -281,7 +281,7 @@ holiness until the day he gives account for his priesthood before the throne of 
 
 seen as detrimental to the purity of the Jewish people. St. Paul warns, "Do not be
 
-unequally yoked together with unbelievers" (2Co 6:14). The imagery of marriage is one of
+unequally yoked together with unbelievers" ([[2CO.6:14]]). The imagery of marriage is one of
 
 faithfulness between God and His people. Marriage between a Jew and a practicing pagan
 
@@ -294,7 +294,7 @@ subsequent solution of putting away all pagan wives (10:3).
 
 Defeat by the enemy was seen as being the result of sin. God had warned the Jews not
 
-to be led astray by foreign wives or they would face quick destruction (Dt 7:3, 4). 
+to be led astray by foreign wives or they would face quick destruction ([[DEU.7:3]], [[DEU.7:4]]). 
 
 ### 9:8
 *(anchor: EZR.9:8)*
@@ -310,7 +310,7 @@ This specific commandment has a source outside the Scriptures. It is not found i
 
 the Law of Moses, which warns not against taking a foreign wife per se, but against
 
-marrying a foreigner who will not convert from idols to the Lord (Dt 7:3, 4). This latter
+marrying a foreigner who will not convert from idols to the Lord ([[DEU.7:3]], [[DEU.7:4]]). This latter
 
 situation is what Ezra was facing (v. 14). 
 

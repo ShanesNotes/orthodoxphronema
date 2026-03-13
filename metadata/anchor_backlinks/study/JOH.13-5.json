@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.13:5",
+  "canon_uri": "canon/NT/JOH.md#JOH.13:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 509,
+      "raw_match": "[[JOH.13:5]]",
+      "reference_type": "wikilink",
+      "context": "The Lord washed the feet of His disciples ([[JOH.13:5]]) after they returned from"
+    }
+  ]
+}

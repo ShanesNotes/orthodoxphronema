@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.21:25",
+  "canon_uri": "canon/NT/JOH.md#JOH.21:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 2051,
+      "raw_match": "[[JOH.21:25]]",
+      "reference_type": "wikilink",
+      "context": "Christ (v. 35) is not recorded in the four Gospels (see [[JOH.21:25]])."
+    },
+    {
+      "source_file": "staging/validated/OT/JOB_footnotes.md",
+      "line_number": 239,
+      "raw_match": "[[JOH.21:25]]",
+      "reference_type": "wikilink",
+      "context": "[[JOH.21:25]]. God goes beyond us (v. 11) when He defers judgment, and passes by when He"
+    }
+  ]
+}

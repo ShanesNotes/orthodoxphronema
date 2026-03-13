@@ -51,7 +51,7 @@ I provoked His mouth is a reference to breaking the laws God spoke to Moses and
 
 thus to His people. From 1:18-22, the "I" is the city of Jerusalem, and the warning for her
 
-disobedience was issued and recorded in Dt 28:15-68. 
+disobedience was issued and recorded in [[DEU.28:15]]-68. 
 
 ### 2:2
 *(anchor: LAM.2:2)*
@@ -78,7 +78,7 @@ This verse is likely another reference to cannibalism (see 1:11; 2:20, 4:10).
 ### 2:15
 *(anchor: LAM.2:15)*
 
-See Jer 33:16 and Bar 5:4. 
+See [[JER.33:16]] and [[BAR.5:4]]. 
 
 ### 2:22
 *(anchor: LAM.2:22)*
@@ -123,7 +123,7 @@ Here, Israel is worse than Sodom.
 
 Not only did the people apostatize, the Nazirites became blacker than soot. The
 
-Nazirites (Nm 6:2, 19, 20) were the "monks" of Israel who never cut their hair, refused
+Nazirites ([[NUM.6:2]], [[NUM.6:19]], [[NUM.6:20]]) were the "monks" of Israel who never cut their hair, refused
 
 wine, and devoted themselves entirely to God. By this we see that Israel was utterly
 
@@ -153,7 +153,7 @@ destruction of God's people brought on by their disobedience.
 ### 4:21-22
 *(anchor: LAM.4:21)*
 
-For the punishment of Edom, see Jer 30:1-16. 
+For the punishment of Edom, see [[JER.30:1]]-16. 
 
 ### 5:1
 *(anchor: LAM.5:1)*
@@ -167,7 +167,7 @@ sight of God.
 
 The foreigners are not just the Babylonians, but could also be a reference to idols
 
-(Jer 5:19). 
+([[JER.5:19]]). 
 
 ### 5:5
 *(anchor: LAM.5:5)*

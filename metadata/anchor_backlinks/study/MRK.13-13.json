@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.13:13",
+  "canon_uri": "canon/NT/MRK.md#MRK.13:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 663,
+      "raw_match": "[[MRK.13:7]]-27",
+      "reference_type": "wikilink_range",
+      "context": "delivery of His people, and the establishment of a secure, peaceful land (see Is 66:15-23; Ezk 38-40; Joel 4:9-21; [[MRK.13:7]]-27; Rev 20-22). In the New Testament, this is to be"
+    }
+  ]
+}

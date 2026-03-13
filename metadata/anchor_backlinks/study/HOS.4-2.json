@@ -1,0 +1,16 @@
+{
+  "anchor_id": "HOS.4:2",
+  "canon_uri": "canon/OT/HOS.md#HOS.4:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JDG_footnotes.md",
+      "line_number": 613,
+      "raw_match": "[[HOS.4:1]]-6",
+      "reference_type": "wikilink_range",
+      "context": "became involved in extreme sexual misconduct ([[HOS.4:1]]-6; [[JER.3:1]], [[JER.3:8]]; [[EZK.16:41]]; 23:44)."
+    }
+  ]
+}

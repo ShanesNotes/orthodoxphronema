@@ -16,7 +16,7 @@ status: staging
 
 to preach not to his own people, the Jews, but to the Ninevites. The Book of Jonah points
 
-to Christ's Great Commission (Mt 28:19, 20) in four ways: (1) Arise and go to Nineveh
+to Christ's Great Commission ([[MAT.28:19]], [[MAT.28:20]]) in four ways: (1) Arise and go to Nineveh
 
 parallels Christ's words, "Go therefore and make disciples of all the nations." (2) Jonah's
 
@@ -48,7 +48,7 @@ In Jonah's weaknesses we see our own fallen humanity, but as he turns towards Go
 
 His servant. 1:5-11 Christ and His disciples had a very similar experience on a boat in a storm (see text
 
-and note at Mt 8:24-26). 
+and note at [[MAT.8:24]]-26). 
 
 ### 1:14-16
 *(anchor: JON.1:14)*
@@ -57,7 +57,7 @@ God's power in nature, combined with Jonah's witness, persuade the sailors to
 
 convert to the God of Israel. Later, the Spirit's presence in Jonah will convince the
 
-Ninevites to repent and seek salvation. Similarly, God's presence in creation (Rom 1:20), combined with the presence of the Holy Spirit in believers (Acts 2:38-41), draws men to
+Ninevites to repent and seek salvation. Similarly, God's presence in creation ([[ROM.1:20]]), combined with the presence of the Holy Spirit in believers ([[ACT.2:38]]-41), draws men to
 
 God. 
 
@@ -66,7 +66,7 @@ God.
 
 Three days and three nights is a prophetic type of Christ's three-day sojourn in the
 
-"heart of the earth [Sheol]" (Mt 12:40; see also Mt 16:4; 1Pt 3:19: "He [Jesus] went and
+"heart of the earth [Sheol]" ([[MAT.12:40]]; see also [[MAT.16:4]]; [[1PE.3:19]]: "He [Jesus] went and
 
 preached to the spirits in prison [Sheol or Gr. Hades]"). 
 
@@ -101,7 +101,7 @@ and Resurrection of Christ.
 
 To the Hebrews, the sea was a frightening place, full of chaos and death. To be cast
 
-into the sea was to sink down into Hades. See Ps 87:7, 8. 2:3-10
+into the sea was to sink down into Hades. See [[PSA.87:7]], [[PSA.87:8]]. 2:3-10
 
 Jonah's prayer echoes the language and imagery of the Psalms. See especially Ps
 
@@ -123,9 +123,9 @@ meaning of repentance in the following ways: (1) By the ancient practice of fast
 
 implied a total fast. (2) By wearing sackcloth and ashes. Sackcloth was a rough, uncomfortable cloth made of goat or camel hair, used for making grain bags. It was worn
 
-as a sign of mourning (see Gn 37:34; Est 4:3; 1Mc 2:14; Mt 11:21). Putting ashes on one's
+as a sign of mourning (see [[GEN.37:34]]; [[EST.4:3]]; 1Mc 2:14; [[MAT.11:21]]). Putting ashes on one's
 
-head also symbolized mourning or repentance (see 2Kg 13:19; Is 58:5; Jer 6:26). (3) By
+head also symbolized mourning or repentance (see 2Kg 13:19; Is 58:5; [[JER.6:26]]). (3) By
 
 prayer. (4) By changing their behavior. True repentance is not just feeling sorry, but
 
@@ -147,7 +147,7 @@ expressed in his disappointment at God's mercy. He knew God's character, and
 
 anticipated what would happen; yet, like the proud brother in the story of the Prodigal
 
-Son (Lk 15:11-32), he hoped to see the Ninevites destroyed. "After all," he might have
+Son ([[LUK.15:11]]-32), he hoped to see the Ninevites destroyed. "After all," he might have
 
 said, "why would God want to save foreigners?" The gourd that is damaged by the worm
 
@@ -171,6 +171,6 @@ The people of the nations live in spiritual darkness until the light of the gosp
 
 brought to them by God's messengers: the apostles, preachers, and all the faithful, who
 
-bear equal responsibility to "make disciples of all nations" (Mt 28:19). And many
+bear equal responsibility to "make disciples of all nations" ([[MAT.28:19]]). And many
 
 livestock: The Lord's compassion extends to all He has created, including the animals.

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.19:19",
+  "canon_uri": "canon/OT/EXO.md#EXO.19:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 1131,
+      "raw_match": "[[EXO.19:9]]-23",
+      "reference_type": "wikilink_range",
+      "context": "called Israel to meet Him ([[EXO.19:9]]-23; 20:18-21; [[DEU.4:11]], [[DEU.4:12]]; 5:22-26). It was a place of"
+    }
+  ]
+}

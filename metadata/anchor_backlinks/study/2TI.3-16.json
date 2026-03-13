@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2TI.3:16",
+  "canon_uri": "canon/NT/2TI.md#2TI.3:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 193,
+      "raw_match": "[[2TI.3:15]]-17",
+      "reference_type": "wikilink_range",
+      "context": "While the Scriptures are the inspired truth of God in human words ([[2TI.3:15]]-17), the"
+    }
+  ]
+}

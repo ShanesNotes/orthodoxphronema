@@ -1,0 +1,30 @@
+{
+  "anchor_id": "LUK.6:25",
+  "canon_uri": "canon/NT/LUK.md#LUK.6:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JAS_footnotes.md",
+      "line_number": 209,
+      "raw_match": "[[LUK.6:21]]-25",
+      "reference_type": "wikilink_range",
+      "context": "things, and even hurt others to gain them (see [[LUK.6:21]]-25; [[1CO.1:26]]-28). They may mock"
+    },
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 80,
+      "raw_match": "[[LUK.6:25]]",
+      "reference_type": "wikilink",
+      "context": "points to the Final Judgment ([[LUK.6:25]]). 3:1-3"
+    },
+    {
+      "source_file": "staging/validated/OT/JOL_footnotes.md",
+      "line_number": 97,
+      "raw_match": "[[LUK.6:24]]-26",
+      "reference_type": "wikilink_range",
+      "context": "merry in His own day ([[LUK.6:24]]-26)."
+    }
+  ]
+}

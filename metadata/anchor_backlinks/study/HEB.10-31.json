@@ -1,0 +1,23 @@
+{
+  "anchor_id": "HEB.10:31",
+  "canon_uri": "canon/NT/HEB.md#HEB.10:31",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 229,
+      "raw_match": "[[HEB.10:31]]",
+      "reference_type": "wikilink",
+      "context": "([[HEB.10:31]]). When we proclaim God's promises, we must also proclaim His warnings. 10:1-13 The coming of the queen of Sheba is a pinnacle for the children of Israel as the"
+    },
+    {
+      "source_file": "staging/validated/OT/2MA_footnotes.md",
+      "line_number": 446,
+      "raw_match": "[[HEB.10:31]]",
+      "reference_type": "wikilink",
+      "context": "fall into the hands of the living God\" ([[HEB.10:31]])."
+    }
+  ]
+}

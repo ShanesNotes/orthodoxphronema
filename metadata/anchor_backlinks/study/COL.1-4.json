@@ -1,0 +1,16 @@
+{
+  "anchor_id": "COL.1:4",
+  "canon_uri": "canon/NT/COL.md#COL.1:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TH_footnotes.md",
+      "line_number": 39,
+      "raw_match": "[[COL.1:4]]",
+      "reference_type": "wikilink",
+      "context": "([[1CO.13:13]]; [[COL.1:4]], [[COL.1:5]]). These virtues are connected to actions: faith works, love labors,"
+    }
+  ]
+}

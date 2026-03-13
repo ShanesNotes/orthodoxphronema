@@ -1,0 +1,58 @@
+{
+  "anchor_id": "HEB.9:23",
+  "canon_uri": "canon/NT/HEB.md#HEB.9:23",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 365,
+      "raw_match": "[[HEB.9:23]]-26",
+      "reference_type": "wikilink_range",
+      "context": "([[HEB.9:23]]-26; 10:19-22), and Christ's blood was taken to heaven through His Passion,"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 1241,
+      "raw_match": "[[HEB.9:19]]-24",
+      "reference_type": "wikilink_range",
+      "context": "Church (the twelve stones), and the Blood of Christ ([[HEB.9:19]]-24)."
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 146,
+      "raw_match": "[[HEB.9:23]]",
+      "reference_type": "wikilink",
+      "context": "blood in heaven when He ascended on high ([[HEB.9:23]], [[HEB.9:24]]). Thus, in partaking of His body"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 202,
+      "raw_match": "[[HEB.9:11]]-24",
+      "reference_type": "wikilink_range",
+      "context": "altar ([[HEB.9:11]]-24). The Church worships in heaven, for worship is heaven on earth. Thus, the bread and"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 548,
+      "raw_match": "[[HEB.9:23]]",
+      "reference_type": "wikilink",
+      "context": "His own blood into the heavenly sanctuary to sanctify it for our salvation ([[HEB.9:23]], [[HEB.9:24]]). 8:26"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 951,
+      "raw_match": "[[HEB.9:23]]",
+      "reference_type": "wikilink",
+      "context": "there in worship ([[HEB.9:23]], [[HEB.9:24]])."
+    },
+    {
+      "source_file": "staging/validated/OT/NUM_footnotes.md",
+      "line_number": 191,
+      "raw_match": "[[HEB.9:23]]",
+      "reference_type": "wikilink",
+      "context": "of the heavenly things.\" [[HEB.9:23]]: \"Therefore it was necessary that the copies of the"
+    }
+  ]
+}

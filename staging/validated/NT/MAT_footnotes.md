@@ -14,7 +14,7 @@ status: staging
 
 Jesus means "O Lord, save," referring to His role as Savior (v. 21). Christ means
 
-"Anointed One," the Messiah, the One who is filled with the Holy Spirit (see Jn 1:33).
+"Anointed One," the Messiah, the One who is filled with the Holy Spirit (see [[JOH.1:33]]).
 
 Though the Son alone became Man, God the Father and the Holy Spirit work in Jesus
 
@@ -34,13 +34,13 @@ people, faithful kings and murderers, Jews and Gentiles, kings and peasants.
 ### 1:2
 *(anchor: MAT.1:2)*
 
-While Luke's genealogy runs from Jesus back to Adam (Lk 3:23-38), Matthew's list
+While Luke's genealogy runs from Jesus back to Adam ([[LUK.3:23]]-38), Matthew's list
 
 descends from Abraham, with whom God established the Old Covenant of circumcision,
 
 to Jesus, the author of the New Covenant. God promised to bless all the tribes of the
 
-earth in Abraham (Gn 12:3; 28:14); this promise is fulfilled in Abraham's greatest Son,
+earth in Abraham ([[GEN.12:3]]; 28:14); this promise is fulfilled in Abraham's greatest Son,
 
 Jesus Christ.
 
@@ -82,7 +82,7 @@ Mary also was descended from David; of whom is feminine in Greek, referring only
 
 Mary. Thus, Jesus is shown to be born of Mary, and not begotten of Joseph. (See also
 
-note on Lk 3:23-38.)
+note on [[LUK.3:23]]-38.)
 
 
 ### 1:17
@@ -100,7 +100,7 @@ under judges until David, under kings until Babylon, and under priests until Chr
 ### 1:19
 *(anchor: MAT.1:19)*
 
-The righteousness of Joseph consisted of a mercy that transcends the Law (Hos 6:6).
+The righteousness of Joseph consisted of a mercy that transcends the Law ([[HOS.6:6]]).
 
 Joseph showed this mercy by his unwillingness to expose Mary's supposed sin, even
 
@@ -108,13 +108,13 @@ though he was obliged by the Law to do so. Her husband: The Bible calls engaged
 
 couples husband and wife before their marriage (Rachel was called the wife of Jacob
 
-before marriage by virtue of their engagement in Gn 29:21; see also Dt 22:23, 24). Thus,
+before marriage by virtue of their engagement in [[GEN.29:21]]; see also [[DEU.22:23]], [[DEU.22:24]]). Thus,
 
 Joseph is called the husband of Mary, and Mary is called his wife (vv. 20, 24). In the
 
 Church, Joseph is remembered as the Betrothed, pointing out Mary's ever-virginity. (See
 
-also note on Est 2:7.)
+also note on [[EST.2:7]].)
 
 
 ### 1:20
@@ -160,9 +160,9 @@ Christ's divinity.
 
 The star proclaims the extraordinary birth of Christ. To ancient pagans, a star
 
-signified a god, a deified king (Nm 24:17). Christ being born under this star fulfills the
+signified a god, a deified king ([[NUM.24:17]]). Christ being born under this star fulfills the
 
-prophecy in Ps 109:3 and shows all of creation participating in the Incarnation. (See also
+prophecy in [[PSA.109:3]] and shows all of creation participating in the Incarnation. (See also
 
 Pss 18:2; 148:3.)
 
@@ -186,7 +186,7 @@ they had no idea that He had come (see 16:3).
 
 Into the house: Whereas the Jewish shepherds worshiped the Savior in the cave on
 
-the day He was born (Lk 2:8-20), the Gentile magi came to worship Him some time later.
+the day He was born ([[LUK.2:8]]-20), the Gentile magi came to worship Him some time later.
 
 By then, Joseph and Mary had found a house in which to dwell. This indicates that Christ
 
@@ -214,7 +214,7 @@ Savior in Egypt. It is probable that the gifts of the magi paid for this journey
 
 Out of Egypt I called my Son refers first to Israel being brought out of captivity
 
-(Hos 11:1). In the OT, "son" can refer to the whole nation of Israel. Here Jesus fulfills this
+([[HOS.11:1]]). In the OT, "son" can refer to the whole nation of Israel. Here Jesus fulfills this
 
 calling as the true Son of God by coming out of Egypt.
 
@@ -224,13 +224,13 @@ calling as the true Son of God by coming out of Egypt.
 
 The cruelty of Herod was prefigured by Pharaoh, who, in an attempt to destroy the
 
-power of Israel, commanded the death of all the newborn Jewish boys (Ex 1:16, 22).
+power of Israel, commanded the death of all the newborn Jewish boys ([[EXO.1:16]], [[EXO.1:22]]).
 
 
 ### 2:17-18
 *(anchor: MAT.2:17)*
 
-Jeremiah recorded the people of Jerusalem being led away to exile (Jer 38:15).
+Jeremiah recorded the people of Jerusalem being led away to exile ([[JER.38:15]]).
 
 On their way to captivity, they passed Ramah, which was near Bethlehem, where Jacob's
 
@@ -244,7 +244,7 @@ compassion for those yet on earth. These slaughtered children are regarded as sa
 
 martyrs in the Church and are known as the Holy Innocents. Just as Rachel was told that
 
-her children would return from exile in Babylon (Jer 38:16, 17), so Jesus will return from
+her children would return from exile in Babylon ([[JER.38:16]], [[JER.38:17]]), so Jesus will return from
 
 His exile in Egypt.
 
@@ -268,7 +268,7 @@ revealed as a warning to Joseph; hence the detour to Nazareth (v. 23). This town
 
 Galilee and was governed by another son of Herod the Great, whose name was Herod
 
-Antipas (see Lk 3:1).
+Antipas (see [[LUK.3:1]]).
 
 
 ### 2:23
@@ -276,11 +276,11 @@ Antipas (see Lk 3:1).
 
 The prophecy here cannot be exactly identified. It has been taken as a reference to
 
-the rod (Heb. neser) in Is 11:1, and to the Nazirite (Heb. Nazir) of Jdg 13:5. Matthew may
+the rod (Heb. neser) in Is 11:1, and to the Nazirite (Heb. Nazir) of [[JDG.13:5]]. Matthew may
 
 also have been alluding to passages in which the Messiah was despised, since Nazareth
 
-did not have a good reputation (Jn 1:46).
+did not have a good reputation ([[JOH.1:46]]).
 
 
 ### 3:1-3
@@ -314,7 +314,7 @@ John's ascetic life conformed to that of the Jewish sects such as the Essenes, w
 
 in the wilderness and whose purpose was to prepare for the coming Kingdom of God.
 
-John's clothing was typical of a prophet (4Kg 1:8). The monastic movement in the early
+John's clothing was typical of a prophet ([[2KI.1:8]]). The monastic movement in the early
 
 Church was patterned after John's manner of life.
 
@@ -358,7 +358,7 @@ malice and their being under the influence of Satan.
 
 Repentance, confession, and baptism lead to fruits worthy of repentance, a way of
 
-life consistent with the Kingdom of God (see Gal 5:22-25). If a fruitful life does not
+life consistent with the Kingdom of God (see [[GAL.5:22]]-25). If a fruitful life does not
 
 follow, sacramental acts and spiritual discipline are useless. Thus in many icons of the
 
@@ -380,7 +380,7 @@ adopts other children from the Gentiles.
 
 Christ baptizes in the fire of the Holy Spirit, the power and grace of God divinely
 
-poured out on all believers at baptism. (See also fire in v. 10; note at Lk 3:16, 17.)
+poured out on all believers at baptism. (See also fire in v. 10; note at [[LUK.3:16]], [[LUK.3:17]].)
 
 In John's culture, a slave would carry the king's sandals; thus John declares himself to
 
@@ -388,7 +388,7 @@ be even lower than a slave of Jesus. John's inability to carry Christ's sandal h
 
 meaning, for carrying another's sandal once meant taking someone else's responsibility
 
-(Ru 4:7). Here it shows that John could not have carried the responsibility that Christ
+([[RUT.4:7]]). Here it shows that John could not have carried the responsibility that Christ
 
 carries, and that the Law could not redeem the world as Christ has come to do.
 
@@ -412,13 +412,13 @@ Holy Trinity. Thus, His baptism was necessary for the fulfillment of God's right
 
 of salvation. "Jesus enters the filthy, sinful waters of the world and when He comes out,
 
-brings up and purifies the entire world with Him" (GrgNy; see also note on Lk 3:21).
+brings up and purifies the entire world with Him" (GrgNy; see also note on [[LUK.3:21]]).
 
 
 ### 3:16
 *(anchor: MAT.3:16)*
 
-The Spirit of God hovered over the water at the first creation (Gn 1:2). Now, the
+The Spirit of God hovered over the water at the first creation ([[GEN.1:2]]). Now, the
 
 Holy Spirit comes in the form of a dove to anoint the Messiah, the Son of God, at the
 
@@ -434,7 +434,7 @@ of God), celebrated on January 6, commemorates this day and points to the age to
 ### 3:17
 *(anchor: MAT.3:17)*
 
-This quotation is from Ps 2:7, "You are My Son, / Today I have begotten You." Note
+This quotation is from [[PSA.2:7]], "You are My Son, / Today I have begotten You." Note
 
 how the Baptism of Jesus reveals the great mystery of the Trinity: the Father speaks; the
 
@@ -466,7 +466,7 @@ tested forty years in the wilderness and proved disobedient and disloyal. God hu
 
 them by first letting them go hungry and then feeding them with manna to help them
 
-learn to be dependent on Him (Dt 8:2-5). Here, Jesus is tested with hunger for forty
+learn to be dependent on Him ([[DEU.8:2]]-5). Here, Jesus is tested with hunger for forty
 
 days, but He does not sin. His answers to Satan are from Deuteronomy, and all call for
 
@@ -492,7 +492,7 @@ Jesus to act independently and to detach Himself from the will of the Father. In
 
 divine nature, Christ shares one will with the Father and the Holy Spirit; He can do
 
-nothing of Himself (Jn 5:30), apart from the Father. But in His humanity, He possesses
+nothing of Himself ([[JOH.5:30]]), apart from the Father. But in His humanity, He possesses
 
 free will and at all times must choose to remain obedient to the divine will of the Father.
 
@@ -502,7 +502,7 @@ free will and at all times must choose to remain obedient to the divine will of 
 
 By rejecting the first temptation, Jesus rejects an earthly kingdom and shows us not to
 
-pursue earthly comfort in the "food which perishes" (Jn 6:27). While Adam disregarded
+pursue earthly comfort in the "food which perishes" ([[JOH.6:27]]). While Adam disregarded
 
 the divine word in order to pursue the passions of the body (Gn 3), the New Adam--
 
@@ -522,7 +522,7 @@ The holy city is Jerusalem.
 
 Seeing that Christ had defeated him through the power of the Scriptures, Satan vainly
 
-tries to use the Scriptures to put God's power of protection to the test. (See also 2Pt 1:19-
+tries to use the Scriptures to put God's power of protection to the test. (See also [[2PE.1:19]]-
 
 21.)
 
@@ -548,9 +548,9 @@ God's Kingdom is not one of earthly power and possessions. In the devil's test,
 
 Jesus was being asked to choose worldly power over the Kingdom of God. The devil is the
 
-"ruler of this world" (Jn 12:31), "the god of this age" (2Co 4:4), because the whole world is
+"ruler of this world" ([[JOH.12:31]]), "the god of this age" ([[2CO.4:4]]), because the whole world is
 
-in his power (1Jn 5:19). Jesus refuses the road of earthly glory, which would lead Him
+in his power ([[1JN.5:19]]). Jesus refuses the road of earthly glory, which would lead Him
 
 away from His suffering and death for the redemption of the world.
 
@@ -602,13 +602,13 @@ misunderstand the true nature of His Kingdom. It also shows Christ's concession 
 
 credibility to what He teaches" among the fickle multitudes (Theoph).
 
-5:1, 2 In the OT, only a select few were chosen to hear God directly (see Ex 19:3-13). Here,
+5:1, 2 In the OT, only a select few were chosen to hear God directly (see [[EXO.19:3]]-13). Here,
 
 God Incarnate speaks to the multitudes face to face. The mountain is a place where
 
 divine action enters human history, the place where God reveals Himself to man (17:1;
 
-Gn 22:2; Ex 3:1; 19:2; 3Kg 18:20). Seated is the traditional Jewish position for teaching
+[[GEN.22:2]]; [[EXO.3:1]]; 19:2; 3Kg 18:20). Seated is the traditional Jewish position for teaching
 
 with authority. Some early Christian preachers (for example, St. John Chrysostom) sat
 
@@ -636,7 +636,7 @@ poor, the same attitude as the poor, and are totally dependent on God.
 
 Those who mourn sorrow over the sufferings of this life (9:23), the sufferings of
 
-others (Jn 11:35), the state of the world (Lk 19:41), and their own sins (Lk 7:36-38). All of
+others ([[JOH.11:35]]), the state of the world ([[LUK.19:41]]), and their own sins ([[LUK.7:36]]-38). All of
 
 these are comforted by the power of God both in this world and in the age to come. Holy
 
@@ -644,7 +644,7 @@ sorrow is part of repentance, conversion, and virtuous action, and is the firstf
 
 infinite joy. It is to be distinguished from ungodly sorrow, a sadness that leads to despair
 
-(see 2Co 7:10).
+(see [[2CO.7:10]]).
 
 
 ### 5:5
@@ -660,7 +660,7 @@ anger. Meekness is not passive weakness, but strength directed and under control
 
 earth that the meek will inherit is not power or possession in this world, but the new
 
-earth, which is everlasting (Rev 21:1).
+earth, which is everlasting ([[REV.21:1]]).
 
 
 ### 5:6
@@ -706,7 +706,7 @@ Being the source of peace, Christ found no price sufficient for peace other than
 
 shedding His own blood. In doing so, Christ reveals Himself to us as the Reconciler, the
 
-Prince of peace (Is 9:6; Eph 2:14-16). The Holy Spirit gives peace to those who imitate
+Prince of peace (Is 9:6; [[EPH.2:14]]-16). The Holy Spirit gives peace to those who imitate
 
 Christ. Thus, peacemakers share God's peace with those around them, imitating
 
@@ -720,9 +720,9 @@ become sons of God themselves.
 
 Children of God uphold truth, refuse to compromise with the ways of the world, and
 
-give themselves to no other (6:24, 33; see 1Co 6:19, 20). Like Jesus, these will be
+give themselves to no other (6:24, 33; see [[1CO.6:19]], [[1CO.6:20]]). Like Jesus, these will be
 
-persecuted for righteousness' sake (see Jn 15:18-20). Christ's kingdom is the
+persecuted for righteousness' sake (see [[JOH.15:18]]-20). Christ's kingdom is the
 
 crown awaiting the righteous.
 
@@ -734,7 +734,7 @@ Those who suffer persecution for Christ walk the road of the prophets, saints, a
 
 martyrs. The Greek for be exceedingly glad means to "leap exceedingly with joy." (See
 
-Acts 5:40, 41.)
+[[ACT.5:40]], [[ACT.5:41]].)
 
 
 ### 5:13-16
@@ -744,7 +744,7 @@ Salt and light illustrate the role of disciples in society. Because of its prese
 
 powers, its necessity for life, and its ability to give flavor, salt had religious and sacrificial
 
-significance (Lv 2:13; see also Nm 18:19; 2Ch 13:5). To eat salt with someone meant to be
+significance (Lv 2:13; see also [[NUM.18:19]]; [[2CH.13:5]]). To eat salt with someone meant to be
 
 bound together in loyalty. As the salt of the earth, Christians are preservers of God's
 
@@ -752,13 +752,13 @@ covenant and give true flavor to the world.
 
 God is the true and uncreated Light. In the OT light is symbolic of God (Is 60:1-3), the
 
-divine Law (Ps 118:105), and Israel in contrast to all other nations. In the NT, the Son of
+divine Law ([[PSA.118:105]]), and Israel in contrast to all other nations. In the NT, the Son of
 
-God is called "light" (Jn 1:4-9; 8:12; 1Jn 1:5). Light is necessary both for clear vision and
+God is called "light" ([[JOH.1:4]]-9; 8:12; [[1JN.1:5]]). Light is necessary both for clear vision and
 
 for life itself. Faith relies on this divine light, and believers become "sons of light" (Jn
 
-12:36; 1Th 5:5) who shine in a perverse world (Php 2:15). In many parishes, the Pascha
+12:36; [[1TH.5:5]]) who shine in a perverse world ([[PHP.2:15]]). In many parishes, the Pascha
 
 (Easter) Liturgy begins with a candle being presented and the invitation to "come receive
 
@@ -782,7 +782,7 @@ God's will in all its fullness (3:15); (2) transgressing none of the precepts of
 
 8:46; 14:30); (3) declaring the perfect fulfillment of the Law, which He was about to
 
-deliver to them; (4) granting righteousness--the goal of the Law--to us (Rom 3:31; 8:3, 4;
+deliver to them; (4) granting righteousness--the goal of the Law--to us ([[ROM.3:31]]; 8:3, 4;
 
 10:4). He fulfills the Prophets by both being and carrying out what they foretold.
 
@@ -822,7 +822,7 @@ The repeated formula but I say to you is a statement of total, divine authority
 
 (7:29). As the Creator of man and the Author of the Law, Christ can speak with this
 
-authority. While there is anger which is not sinful (Ps 4:5; Mk 3:5), here Jesus forbids
+authority. While there is anger which is not sinful ([[PSA.4:5]]; [[MRK.3:5]]), here Jesus forbids
 
 sinful anger, identifying it with murder. The council is the supreme legal body among
 
@@ -834,11 +834,11 @@ resist God's grace.
 ### 5:23-24
 *(anchor: MAT.5:23)*
 
-Peace with other believers is a requirement for worship (Mk 11:25). The liturgical
+Peace with other believers is a requirement for worship ([[MRK.11:25]]). The liturgical
 
 "kiss of peace" at the beginning of the eucharistic prayer is a sign of reconciliation and
 
-forgiveness, preparing the faithful to offer the holy gifts at the altar (1Co 16:20; 1Pt
+forgiveness, preparing the faithful to offer the holy gifts at the altar ([[1CO.16:20]]; 1Pt
 
 5:14).
 
@@ -846,11 +846,11 @@ forgiveness, preparing the faithful to offer the holy gifts at the altar (1Co 16
 ### 5:25-26
 *(anchor: MAT.5:25)*
 
-Luke places this teaching in the context of the end of the age (Lk 12:57-59); here
+Luke places this teaching in the context of the end of the age ([[LUK.12:57]]-59); here
 
 it is in the context of reconciliation surrounding the Liturgy. Delay in reconciliation
 
-allows for the spread of animosity and other evils (Eph 4:26, 27).
+allows for the spread of animosity and other evils ([[EPH.4:26]], [[EPH.4:27]]).
 
 
 ### 5:27-28
@@ -896,7 +896,7 @@ possession anyway, but only by simple integrity.
 ### 5:39-42
 *(anchor: MAT.5:39)*
 
-In contrast to the OT (Ex 21:24; Lv 24:20; Dt 19:21), Jesus warns us not to resist
+In contrast to the OT ([[EXO.21:24]]; Lv 24:20; [[DEU.19:21]]), Jesus warns us not to resist
 
 violence with more violence. Evil can only be overcome by good, which keeps us free
 
@@ -922,7 +922,7 @@ perfect love. The love of enemies is not merely an emotion, but includes decisio
 
 action. It is to treat and see our enemies as the closest members of our own family. (See
 
-1Jn 4:7-21.)
+[[1JN.4:7]]-21.)
 
 
 ### 5:48
@@ -930,9 +930,9 @@ action. It is to treat and see our enemies as the closest members of our own fam
 
 The summary statement of all that has preceded. The Christian can indeed grow in
 
-the perfection of the Father (Eph 4:13; see also the article, "Deification," at 2Pt 1), which
+the perfection of the Father ([[EPH.4:13]]; see also the article, "Deification," at 2Pt 1), which
 
-is shown by imitating His love and mercy (compare Lk 6:36).
+is shown by imitating His love and mercy (compare [[LUK.6:36]]).
 
 
 ### 6:1
@@ -972,13 +972,13 @@ heart.
 
 The hypocrites miss the spirit of prayer, which is an intimate, personal
 
-communion with God that leads to the vision of His glory (1Co 2:9). Hypocrisy blocks out
+communion with God that leads to the vision of His glory ([[1CO.2:9]]). Hypocrisy blocks out
 
 this communion and this vision. Vain repetitions cannot establish this communion, for
 
 God does not need our "babble." To partake of this communion, both silence and words
 
-are necessary. Therefore, we pray always (Lk 18:1) and without ceasing (1Th 5:17).
+are necessary. Therefore, we pray always ([[LUK.18:1]]) and without ceasing ([[1TH.5:17]]).
 
 Christ does not condemn the use of many words per se, but teaches that words must
 
@@ -988,7 +988,7 @@ express the desire for communion with God. Jesus gives us specific words to repe
 
 prayers, and hymns of the Church have been repeated for countless generations in the
 
-worship of God "in spirit and truth" (Jn 4:23).
+worship of God "in spirit and truth" ([[JOH.4:23]]).
 
 True prayer is not telling God what He already knows and then telling Him what to do
 
@@ -1006,13 +1006,13 @@ The Father-Son relationship within the Trinity reveals our potential relationshi
 
 God. Christ, the Son of God, grants us the privilege of calling God Our Father by the
 
-grace of adoption (Gal 4:4-7). As a "son of God," the Christian is called to love, trust, and
+grace of adoption ([[GAL.4:4]]-7). As a "son of God," the Christian is called to love, trust, and
 
 serve God as Christ does the Father. We must note that God is not our Father simply
 
 because He created us. He is only Father to those in a saving and personal relationship
 
-with Him, a communion that only comes by the grace of adoption (see Jn 1:13; Rom
+with Him, a communion that only comes by the grace of adoption (see [[JOH.1:13]]; Rom
 
 8:14-16).
 
@@ -1030,7 +1030,7 @@ God, for the nourishment of our immortal soul. This living, supersubstantial bre
 
 Christ Himself. In the Lord's Prayer, then, we are not asking merely for material bread for
 
-physical health, but for the spiritual bread of eternal life (Jn 6:27-58).
+physical health, but for the spiritual bread of eternal life ([[JOH.6:27]]-58).
 
 
 ### 6:12
@@ -1044,13 +1044,13 @@ others. The term debts refers to spiritual debts (see 18:21-35; also note on v. 
 ### 6:13
 *(anchor: MAT.6:13)*
 
-God tempts no one to sin (Jam 1:13); temptations are from the evil one, the devil.
+God tempts no one to sin ([[JAS.1:13]]); temptations are from the evil one, the devil.
 
 Temptations are aimed at the soul's giving in to the sinful passions of the flesh (Rom
 
 7:5). No one lives without encountering temptations, but we pray that great temptations,
 
-tests beyond what we can bear (1Co 10:13), should not come to us.
+tests beyond what we can bear ([[1CO.10:13]]), should not come to us.
 
 
 ### 6:14-15
@@ -1162,11 +1162,11 @@ God will provide needed earthly blessings.
 
 We will be judged with our own level of judgment because we are guilty of the very
 
-things we judge in others (Rom 2:1). We ourselves have failed in repentance and in
+things we judge in others ([[ROM.2:1]]). We ourselves have failed in repentance and in
 
 fleeing from sin. To pass judgment is to assume God's authority. The second part of this
 
-verse is found in Mk 4:24 and in Lk 6:38, each in a different context, as Jesus no doubt
+verse is found in [[MRK.4:24]] and in [[LUK.6:38]], each in a different context, as Jesus no doubt
 
 repeated this particular message many times.
 
@@ -1174,7 +1174,7 @@ repeated this particular message many times.
 ### 7:6
 *(anchor: MAT.7:6)*
 
-Dogs and swine refer to heathen peoples (Php 3:2; Rev 22:15), but would also include
+Dogs and swine refer to heathen peoples ([[PHP.3:2]]; [[REV.22:15]]), but would also include
 
 Jews who do not practice virtue. According to the Fathers, dogs are those so immersed in
 
@@ -1188,7 +1188,7 @@ the immoral and unrepentant, not to protect the holy things themselves, for Chri
 
 no protection. Rather, we protect the faithless people from the condemnation that would
 
-result from holding God's mysteries in contempt (see note on Lk 23:8, 9).
+result from holding God's mysteries in contempt (see note on [[LUK.23:8]], [[LUK.23:9]]).
 
 
 ### 7:7-11
@@ -1226,21 +1226,21 @@ is a first step in spiritual growth. The negative form of the Golden Rule ("Don'
 
 others what you don't want them to do to you") was well known in Judaism. Jesus' form
 
-is positive: this is the action that begins to draw us toward God (see note at Lk 6:31).
+is positive: this is the action that begins to draw us toward God (see note at [[LUK.6:31]]).
 
 
 ### 7:13-14
 *(anchor: MAT.7:13)*
 
-The description of the two ways was widespread in Judaism (Dt 30:15-20; Ps 1; Pr
+The description of the two ways was widespread in Judaism ([[DEU.30:15]]-20; Ps 1; Pr
 
 4:17, 18; 12:28; 15:23; WSir 15:17) and in early Christian writings (Didache, Barnabas).
 
-Luke's version (Lk 13:24-30) is more eschatological, referring to the end of the age.
+Luke's version ([[LUK.13:24]]-30) is more eschatological, referring to the end of the age.
 
 Because we wrestle against sins and human weaknesses as well as spiritual forces of evil
 
-(Eph 6:12), entering the Kingdom is the more difficult way.
+([[EPH.6:12]]), entering the Kingdom is the more difficult way.
 
 
 ### 7:15
@@ -1274,7 +1274,7 @@ execute true judgment. In that day refers to the final judgment.
 ### 8:1-4
 *(anchor: MAT.8:1)*
 
-The biblical law concerning leprosy is found in Lv 13; 14. Dt 24:8 describes the
+The biblical law concerning leprosy is found in Lv 13; 14. [[DEU.24:8]] describes the
 
 purification of lepers and leprous houses, which was a duty entrusted to the priests.
 
@@ -1286,7 +1286,7 @@ Touching the unclean was forbidden (Lv 7:21), yet Jesus touched the leper, showi
 
 compassion, and showing that He is not subject to the Law but over it. To the clean,
 
-nothing is unclean. (See also note at Lk 5:14.)
+nothing is unclean. (See also note at [[LUK.5:14]].)
 
 
 ### 8:5
@@ -1322,7 +1322,7 @@ frequently quoted in liturgical texts as an ideal expression of humility.
 
 Twice in the gospels it is said of Jesus that He marveled: (1) at the unbelief in His
 
-hometown of Nazareth (Mk 6:6), and (2) at the belief of this foreigner.
+hometown of Nazareth ([[MRK.6:6]]), and (2) at the belief of this foreigner.
 
 
 ### 8:11-12
@@ -1338,19 +1338,19 @@ state of the unrighteous dead in Sheol (Hades) in the Jewish tradition (Enoch 10
 
 They are common expressions in Matthew (13:42, 50; 22:13; 24:51; 25:30), and also occur
 
-in Luke (Lk 13:28).
+in Luke ([[LUK.13:28]]).
 
 
 ### 8:14-17
 *(anchor: MAT.8:14)*
 
-This passage and 1Co 9:5 (where Peter is called Cephas) indicate Peter was
+This passage and [[1CO.9:5]] (where Peter is called Cephas) indicate Peter was
 
 married. Our Lord's healing miracles are diverse. In this case, He heals by touch; in v. 13,
 
 He healed by a word. This healing is immediate and complete; others are gradual (Mk
 
-8:22-25) or require the cooperation of the person healed or of his loved ones (Lk 8:54,
+8:22-25) or require the cooperation of the person healed or of his loved ones ([[LUK.8:54]],
 
 55). As the quotation in v. 17 indicates, all of Christ's miracles manifest His redemption of
 
@@ -1360,7 +1360,7 @@ ailing humanity.
 ### 8:20
 *(anchor: MAT.8:20)*
 
-Since the term Son of Man refers to the Messiah (Dan 7:13), it expresses both His
+Since the term Son of Man refers to the Messiah ([[DAN.7:13]]), it expresses both His
 
 humanity and His divinity. Here it refers to Christ's human condition; in 25:31-33 it
 
@@ -1382,9 +1382,9 @@ spiritually dead.
 
 The Lord's mastery over creation is another sign that He is the Messiah and is
 
-divine. Commands to the sea and waves (v. 24) can only be issued by God (Job 38:8-11;
+divine. Commands to the sea and waves (v. 24) can only be issued by God ([[JOB.38:8]]-11;
 
-Ps 65:5, 6; 106:29). Jesus was asleep because, as a man, he needed rest. In His
+[[PSA.65:5]], [[PSA.65:6]]; 106:29). Jesus was asleep because, as a man, he needed rest. In His
 
 Incarnation, He assumed all the natural actions of the flesh, of which sleep is one. The
 
@@ -1432,7 +1432,7 @@ salvation. Faith is collective as well as personal, for the faith of the paralyt
 
 helped in his healing (v. 2). Three signs of Jesus' divinity are shown: (1) He knows the
 
-secrets of hearts (see 1Kg 16:7; 2Ch 6:30); (2) He forgives sins, a power which belongs to
+secrets of hearts (see 1Kg 16:7; [[2CH.6:30]]); (2) He forgives sins, a power which belongs to
 
 God alone; and (3) He heals by the power of His word.
 
@@ -1440,7 +1440,7 @@ God alone; and (3) He heals by the power of His word.
 ### 9:9-13
 *(anchor: MAT.9:9)*
 
-Matthew is also named Levi (Mk 2:14). Roman overlords assigned specific areas to
+Matthew is also named Levi ([[MRK.2:14]]). Roman overlords assigned specific areas to
 
 Jewish tax collectors, who were free to collect extra revenues for their own profit. Their
 
@@ -1452,7 +1452,7 @@ accepting a tax collector as a disciple ("Follow Me") offends the Pharisees, yet
 
 defense is simple: He goes where the need of the physician is greatest. "I desire mercy
 
-and not sacrifice" (v. 13; Hos 6:6) is not a rejection of sacrifice per se, but shows that
+and not sacrifice" (v. 13; [[HOS.6:6]]) is not a rejection of sacrifice per se, but shows that
 
 mercy is a higher priority (see Ps 50).
 
@@ -1460,13 +1460,13 @@ mercy is a higher priority (see Ps 50).
 ### 9:14-17
 *(anchor: MAT.9:14)*
 
-The Jews typically fasted twice a week (Lk 18:12), on Monday and Thursday. In
+The Jews typically fasted twice a week ([[LUK.18:12]]), on Monday and Thursday. In
 
-addition, public fasts were regularly observed or occasionally proclaimed (2Ch 20:3; 1Ez
+addition, public fasts were regularly observed or occasionally proclaimed ([[2CH.20:3]]; 1Ez
 
-8:49, 50; Est 4:16; Joel 2:15), especially on the Day of Atonement (Lv 16:31-34) and in
+8:49, 50; [[EST.4:16]]; [[JOL.2:15]]), especially on the Day of Atonement (Lv 16:31-34) and in
 
-times of mourning (Zec 7:5; 8:19). But the Jews saw the day of the Messiah as a wedding
+times of mourning ([[ZEC.7:5]]; 8:19). But the Jews saw the day of the Messiah as a wedding
 
 feast--a time of joy and gladness. Jesus here proclaims that day, declaring Himself to be
 
@@ -1488,9 +1488,9 @@ constrained by the old precepts of the Law.
 ### 9:18-26
 *(anchor: MAT.9:18)*
 
-Authority over life and death is in the hand of God alone (Dt 32:39; 1Kg 2:6).
+Authority over life and death is in the hand of God alone ([[DEU.32:39]]; 1Kg 2:6).
 
-Being of one essence with the Father, Jesus has this authority (Jn 5:21). The healing of
+Being of one essence with the Father, Jesus has this authority ([[JOH.5:21]]). The healing of
 
 this woman demonstrates Christ's power to cleanse and heal (see 8:1-4). In the OT,
 
@@ -1536,7 +1536,7 @@ Jesus does not condemn sinners, but sees them as lost sheep to be found and
 
 brought home. Compassion means "suffering with." The illustration of sheep having
 
-no shepherd, drawn from the OT (Nm 27:17; 3Kg 22:17; Ezk 34:5), is an accusation
+no shepherd, drawn from the OT ([[NUM.27:17]]; 3Kg 22:17; [[EZK.34:5]]), is an accusation
 
 against the Jewish leaders who, charged with the duty of shepherds, acted as wolves.
 
@@ -1548,7 +1548,7 @@ The harvest suggests the abundance of those who are ready to accept the
 
 Kingdom. Jesus is both the Sower and the Lord of the harvest. His disciples are sent
 
-not to sow, but to reap what He had sown by the prophets (see note at Jn 4:36-38). How
+not to sow, but to reap what He had sown by the prophets (see note at [[JOH.4:36]]-38). How
 
 many are sent to harvest is less important than with what power they go into the harvest
 
@@ -1568,7 +1568,7 @@ are not the same in all lists, as many people had more than one name. The names 
 
 are given in pairs, suggesting who may have traveled together on this "first missionary
 
-journey," as Mark reports they were sent out two by two (Mk 6:7).
+journey," as Mark reports they were sent out two by two ([[MRK.6:7]]).
 
 
 ### 10:5-10
@@ -1580,7 +1580,7 @@ that Jesus sends them only to the Jews. Christ's earthly ministry was focused on
 
 (15:24) so that, after the Resurrection, the Jews could not blame the disciples for going
 
-"to uncircumcised men" (Acts 11:3). Jesus prepares them to be single-minded in their
+"to uncircumcised men" ([[ACT.11:3]]). Jesus prepares them to be single-minded in their
 
 mission to preach and heal: (1) He reminds them that His power is free--a gift from God
 
@@ -1594,9 +1594,9 @@ accused of greed, and so they would learn dependence on God.
 
 Christ commissions His servants to give a greeting of peace, the same peace that
 
-was proclaimed by the prophets (Is 52:7), that He would offer to the disciples (Jn 14:27;
+was proclaimed by the prophets (Is 52:7), that He would offer to the disciples ([[JOH.14:27]];
 
-20:19), and that would be revealed as a fruit of the Holy Spirit (Gal 5:22). To this day,
+20:19), and that would be revealed as a fruit of the Holy Spirit ([[GAL.5:22]]). To this day,
 
 Christ's peace is offered to the faithful in the Liturgy with the words, "Peace be to all."
 
@@ -1646,15 +1646,15 @@ That there is no need to fear the killing of the soul shows the immortality of t
 
 human soul, which is ours by grace. Fear Him is a command to fear God (Pr 9:10; Lk
 
-1:50; 23:40; Acts 10:2; Col 3:22; 1Pt 2:17), for only God has the power to judge the soul.
+1:50; 23:40; [[ACT.10:2]]; [[COL.3:22]]; [[1PE.2:17]]), for only God has the power to judge the soul.
 
-Christians are instructed to resist the devil (Jam 4:7), but not to fear him.
+Christians are instructed to resist the devil ([[JAS.4:7]]), but not to fear him.
 
 Hell is literally "Gehenna." In Jewish history, Gehenna (the Valley of Hinnom) became
 
-a place of forbidden religious practices (2Ch 28:3; Jer 39:35). King Josiah put an end to
+a place of forbidden religious practices ([[2CH.28:3]]; [[JER.39:35]]). King Josiah put an end to
 
-these practices (4Kg 23:10). By Christ's time, the valley had become a garbage dump that
+these practices ([[2KI.23:10]]). By Christ's time, the valley had become a garbage dump that
 
 smoldered ceaselessly. Because of these associations, Gehenna acquired the connotation
 
@@ -1668,11 +1668,11 @@ Just before His most violent death on the Cross, Christ promised peace to His
 
 disciples. But the existence of evil necessitates spiritual warfare. The earth to which
 
-Christ came was under the authority of Satan (Jn 12:31; 2Co 4:4). It is therefore essential
+Christ came was under the authority of Satan ([[JOH.12:31]]; [[2CO.4:4]]). It is therefore essential
 
-that Christ wage war against the leader of vice with weapons of virtue (Eph 6:11-18). See
+that Christ wage war against the leader of vice with weapons of virtue ([[EPH.6:11]]-18). See
 
-also note at Lk 12:51.
+also note at [[LUK.12:51]].
 
 
 ### 10:40-42
@@ -1700,7 +1700,7 @@ Christ's response (vv. 4-6).
 
 Isaiah predicted that these signs would accompany the coming of the Messiah (Is
 
-61:1). Jesus performed these miracles in the presence of John's disciples (Lk 7:21) so they
+61:1). Jesus performed these miracles in the presence of John's disciples ([[LUK.7:21]]) so they
 
 could see with their own eyes works that only the Messiah could do.
 
@@ -1712,7 +1712,7 @@ In terms of the OT Law, John the Baptist is the greatest prophet. The New
 
 Covenant is of such incomparable value that those who share in the New Covenant are
 
-greater than John was without it (see note at Lk 7:28).
+greater than John was without it (see note at [[LUK.7:28]]).
 
 
 ### 11:12
@@ -1738,9 +1738,9 @@ nothing stand between themselves and faith in Him.
 ### 11:13-14
 *(anchor: MAT.11:13)*
 
-John does not ascribe to himself the role of Elijah (Jn 1:21), but Jesus does.
+John does not ascribe to himself the role of Elijah ([[JOH.1:21]]), but Jesus does.
 
-John fulfilled the mission of Elijah (Lk 1:17, 76) and his destiny was similar. Yet John is
+John fulfilled the mission of Elijah ([[LUK.1:17]], [[LUK.1:76]]) and his destiny was similar. Yet John is
 
 honored over Elijah (v. 11) because John prepared the way for the advent of Christ
 
@@ -1782,7 +1782,7 @@ Furthermore, it is out of love that God withholds this revelation from those who
 
 scorn it so that they do not receive an even greater condemnation (see notes for vv. 20-
 
-24; Lk 8:10).
+24; [[LUK.8:10]]).
 
 
 ### 11:28-30
@@ -1790,7 +1790,7 @@ scorn it so that they do not receive an even greater condemnation (see notes for
 
 Jesus' yoke is submission to the Kingdom of God. A yoke could be seen as a sign
 
-of hardship, burdens, and responsibilities (3Kg 12:1-11; Jer 34:1-11; WSir 40:1), but in
+of hardship, burdens, and responsibilities (3Kg 12:1-11; [[JER.34:1]]-11; WSir 40:1), but in
 
 Christ, the yoke is easy, for the power of God works in each person. Furthermore, the
 
@@ -1802,7 +1802,7 @@ reward is infinitely greater than any effort man puts forth. Gentle (v. 29) is l
 
 The Pharisees are rigid in their legalism. While the Law allowed plucking a few
 
-heads of grain in a neighbor's field (Dt 23:25), they consider it "reaping" and therefore
+heads of grain in a neighbor's field ([[DEU.23:25]]), they consider it "reaping" and therefore
 
 unlawful on the Sabbath.
 
@@ -1854,7 +1854,7 @@ The mission to the Gentiles after Pentecost was foreseen by Isaiah (Is 42:4).
 
 Beelzebub, or Baal, was the prince of "the dung heap" or lord of "the flies"--a
 
-god worshipped by the Philistines (4Kg 1:2-16). Here, he is called ruler of the demons
+god worshipped by the Philistines ([[2KI.1:2]]-16). Here, he is called ruler of the demons
 
 (v. 24). The impossibility of demons fighting against themselves illustrates the irrational
 
@@ -1904,7 +1904,7 @@ and spiritual confusion.
 
 Adulterous generation echoes the illustration used for Israel by the prophets
 
-when Israel was unfaithful to God (Jer 2; Hos 2:2-13).
+when Israel was unfaithful to God (Jer 2; [[HOS.2:2]]-13).
 
 
 ### 12:43-45
@@ -1912,7 +1912,7 @@ when Israel was unfaithful to God (Jer 2; Hos 2:2-13).
 
 When the Israelites were delivered out of Egypt, they did not repent of their
 
-impure ways, and an unclean spirit took up residence in their hearts (Dt 31:20; Ps
+impure ways, and an unclean spirit took up residence in their hearts ([[DEU.31:20]]; Ps
 
 105:34-39). Thus, we guard our hearts. Unless there is full repentance and the Holy
 
@@ -1930,7 +1930,7 @@ a spiritual family based on obedience to the will of My Father (v. 50).
 
 In Jewish usage, brother can indicate any number of relations. Abram called his
 
-nephew Lot "brother" (Gn 14:14); Boaz spoke of his cousin Elimelech as his "brother" (Ru
+nephew Lot "brother" ([[GEN.14:14]]); Boaz spoke of his cousin Elimelech as his "brother" (Ru
 
 4:3); and Joab called his cousin Amasa "brother" (2Kg 20:9). Christ Himself had no blood
 
@@ -1938,7 +1938,7 @@ brothers, for Mary had but one Son: Jesus. The brothers mentioned here were eith
 
 stepbrothers, sons of Joseph by a previous marriage, or cousins. Indeed, Jesus commits
 
-His mother to the care of John at the Cross (Jn 19:25-27), which would have been
+His mother to the care of John at the Cross ([[JOH.19:25]]-27), which would have been
 
 unthinkable if Mary had had other children to care for her.
 
@@ -1946,9 +1946,9 @@ unthinkable if Mary had had other children to care for her.
 ### 13:3-9
 *(anchor: MAT.13:3)*
 
-In the OT, metaphors of sowing and harvesting are common (Ps 125:5; Jer 38:27-
+In the OT, metaphors of sowing and harvesting are common ([[PSA.125:5]]; [[JER.38:27]]-
 
-30; Hos 2:21-23; Joel 3:12-14), as this was a part of daily life. Here, Jesus reveals
+30; [[HOS.2:21]]-23; [[JOL.3:12]]-14), as this was a part of daily life. Here, Jesus reveals
 
 Himself as the promised Messiah, the sower in the earth, who had been foretold in Is
 
@@ -1984,7 +1984,7 @@ and lies creep in when people are apathetic.
 
 This parable also explains why the Church neither condemns nominal members, nor
 
-judges those outside the Church (1Co 5:12, 13). Just as wheat would be destroyed in
+judges those outside the Church ([[1CO.5:12]], [[1CO.5:13]]). Just as wheat would be destroyed in
 
 weeding out the tares, so also, many people who might ultimately find salvation would
 
@@ -2072,9 +2072,9 @@ these are merely the same story, the witness of the gospel is clear that they ar
 
 distinct accounts, with Christ Himself referring to both of them separately (16:8-10).
 
-Moved with compassion is used frequently concerning the Lord (20:34; Mk 1:41; 6:34;
+Moved with compassion is used frequently concerning the Lord (20:34; [[MRK.1:41]]; 6:34;
 
-Lk 7:13), showing that His power and authority are extended to those who suffer.
+[[LUK.7:13]]), showing that His power and authority are extended to those who suffer.
 
 A spiritual interpretation given by the Fathers teaches that the five loaves indicate the
 
@@ -2106,7 +2106,7 @@ feeds the Eucharist to His flock through the hands of His bishops and presbyters
 
 Only God has dominion over nature; thus, this miracle confirms the divinity of
 
-Christ. See also the notes at 8:23-27 and Lk 8:22-25.
+Christ. See also the notes at 8:23-27 and [[LUK.8:22]]-25.
 
 
 ### 14:27
@@ -2118,7 +2118,7 @@ This is the second time Christ permits His disciples to be caught in a storm (se
 
 Christ strengthens their faith that He will always be with them in the midst of the storms
 
-of life. It is I is literally translated "I Am," which is the divine Name of God (see Jn 8:58);
+of life. It is I is literally translated "I Am," which is the divine Name of God (see [[JOH.8:58]]);
 
 Christ reminds the fearful disciples of His absolute and divine authority over their lives.
 
@@ -2180,7 +2180,7 @@ Christ shows that the commandment of God cannot be superseded by man's
 
 religious traditions. Devotion to God includes both obedience to His commandments and
 
-service to others--these two cannot be separated (see also Jam 2:14-18; 1Jn 4:7-21).
+service to others--these two cannot be separated (see also [[JAS.2:14]]-18; [[1JN.4:7]]-21).
 
 
 ### 15:21-28
@@ -2188,7 +2188,7 @@ service to others--these two cannot be separated (see also Jam 2:14-18; 1Jn 4:7-
 
 The story of ministry to this Gentile woman illustrates the Jewish orientation of
 
-Matthew's gospel. This account is also mentioned in Mk 7:24-30, but with two major
+Matthew's gospel. This account is also mentioned in [[MRK.7:24]]-30, but with two major
 
 differences: (1) Matthew records Christ's words concerning the lost sheep of the
 
@@ -2282,7 +2282,7 @@ been with Christ for three days (v. 32), the number of days He would rest in the
 
 Participation in His perfection can only come through being united to Christ's death (see
 
-Rom 6:3-5).
+[[ROM.6:3]]-5).
 
 
 ### 16:1-3
@@ -2302,7 +2302,7 @@ hardened, and they ignored the works happening all around them.
 
 The leaven of the Pharisees (v. 6) is their doctrine (v. 12) and their hypocrisy
 
-(Lk 12:2). The reason the disciples are painfully slow to understand is that they have such
+([[LUK.12:2]]). The reason the disciples are painfully slow to understand is that they have such
 
 little faith (v. 8); they would not fully grasp Christ's teachings until Pentecost, when the
 
@@ -2340,11 +2340,11 @@ Peter/rock is a play on the word for "rock" in both Aramaic and Greek
 
 (petros/petra). This rock refers not to Peter per se, but to "the faith of his confession"
 
-(JohnChr). The true Rock is Christ Himself (1Co 10:4), and the Church is built on the
+(JohnChr). The true Rock is Christ Himself ([[1CO.10:4]]), and the Church is built on the
 
 faithful confession of Christ.
 
-Gates of Hades: powers of death. In the OT, gates suggest a fortified city (Gn 22:17;
+Gates of Hades: powers of death. In the OT, gates suggest a fortified city ([[GEN.22:17]];
 
 24:60; Is 14:31). By shattering its gates, Christ opens the stronghold of death to set free
 
@@ -2362,7 +2362,7 @@ Church is the true Israel and the Body of Christ; her citizenship is heavenly.
 
 Keys of the kingdom refers to a special authority that will be given to both Peter
 
-and the other apostles after the Resurrection (see 18:18; Jn 20:23). Peter was not a leader
+and the other apostles after the Resurrection (see 18:18; [[JOH.20:23]]). Peter was not a leader
 
 over the others, but among them. This truth was confirmed at the Council of Jerusalem
 
@@ -2374,7 +2374,7 @@ regarding Peter, nor should the role of Peter be diminished in opposition to the
 
 Binding and loosing is a reference primarily to the authority "to absolve sins"
 
-(JohnChr; see Jn 20:23), but it also includes all the teaching, sacramental, and
+(JohnChr; see [[JOH.20:23]]), but it also includes all the teaching, sacramental, and
 
 administrative authority of the apostles. This authority was in turn transmitted to the
 
@@ -2390,7 +2390,7 @@ mystery of His Passion. It was expected that the Messiah would reign forever, so
 
 that Christ would die was perplexing to Peter and remained scandalous to the Jews even
 
-after the Resurrection (1Co 1:23). Peter unwittingly speaks for Satan, as the devil did not
+after the Resurrection ([[1CO.1:23]]). Peter unwittingly speaks for Satan, as the devil did not
 
 want Christ to fulfill His mission and save mankind through suffering and death.
 
@@ -2406,7 +2406,7 @@ love of God and the gospel. Accepting this suffering is not a punishment, nor is
 
 in itself, but a means to overcome the fallen world for the sake of the Kingdom and to
 
-crucify the flesh with its passions and desires (Gal 5:24).
+crucify the flesh with its passions and desires ([[GAL.5:24]]).
 
 
 ### 16:25
@@ -2416,7 +2416,7 @@ The central paradox of Christian living is that in grasping for temporal things,
 
 lose the eternal; but in sacrificing everything in this world, we gain eternal riches that are
 
-unimaginable (1Co 2:9).
+unimaginable ([[1CO.2:9]]).
 
 
 ### 16:26
@@ -2440,15 +2440,15 @@ as those in every generation who will experience the presence of God's Kingdom.
 ### 17:1
 *(anchor: MAT.17:1)*
 
-A high mountain is often a place of divine revelation in Scripture (5:1; Gn 22:2; Ex
+A high mountain is often a place of divine revelation in Scripture (5:1; [[GEN.22:2]]; Ex
 
-19:3, 23; Is 2:3; 2Pt 1:18).
+19:3, 23; Is 2:3; [[2PE.1:18]]).
 
 
 ### 17:2
 *(anchor: MAT.17:2)*
 
-See the article, "The Transfiguration"; see also note at Lk 9:31.
+See the article, "The Transfiguration"; see also note at [[LUK.9:31]].
 
 
 ### 17:14-16
@@ -2472,7 +2472,7 @@ first to correct people in private (see 18:15-17).
 
 St. John Chrysostom notes this rebuke is directed at the nine disciples who could
 
-not cast out the demon, whereas "the pillars" of faith--Peter, James, and John (Gal 2:9)--
+not cast out the demon, whereas "the pillars" of faith--Peter, James, and John ([[GAL.2:9]])--
 
 were not included in the rebuke, as they had been on the mountain with Christ (v. 1).
 
@@ -2502,7 +2502,7 @@ He is going to His Passion freely and not being taken against His will.
 
 The temple tax was an annual head tax on all male Jews (except the priests)
 
-over twelve years of age for the maintenance of the temple (see Nm 3:43-51). Since Jesus
+over twelve years of age for the maintenance of the temple (see [[NUM.3:43]]-51). Since Jesus
 
 is the Son of God, He is both High Priest and "proprietor" of the temple, and thus is
 
@@ -2524,7 +2524,7 @@ willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antio
 
 depicted as this child. In certain legends of saints, he is the boy who gave the loaves and
 
-fishes (Jn 6:9).
+fishes ([[JOH.6:9]]).
 
 
 ### 18:6
@@ -2542,7 +2542,7 @@ See also 5:29. The reference to mutilation is an illustration of decisive action
 
 sin and does not advocate literal amputation. This also refers to harmful relationships
 
-that must be severed for the salvation of all parties (see Lk 14:26; 1Co 5:5).
+that must be severed for the salvation of all parties (see [[LUK.14:26]]; [[1CO.5:5]]).
 
 
 ### 18:12
@@ -2552,7 +2552,7 @@ Unlike earthly shepherds, Christ sees such value in one sheep that He will leave
 
 others at risk to save it. The ninety-nine sheep represent the righteous who remain
 
-faithful to God (Lk 15:7). According to certain Fathers, this is also an image of the
+faithful to God ([[LUK.15:7]]). According to certain Fathers, this is also an image of the
 
 Incarnation in which the ninety-nine represent the angels in heaven; Christ descended
 
@@ -2568,7 +2568,7 @@ and correction are to remain private unless the offender refuses to repent. All 
 
 must be done with great care and humility, with the highest concern being the salvation
 
-of the offender (see 1Co 5:5; Gal 6:1). Nevertheless, correction must take place so that the
+of the offender (see [[1CO.5:5]]; [[GAL.6:1]]). Nevertheless, correction must take place so that the
 
 sin does not spread to others as well.
 
@@ -2620,7 +2620,7 @@ The man represents the soul, the wife represents the body, and the children repr
 
 person's deeds. Thus, the body and the deeds are given over to slavery, that is to Satan, so
 
-that the soul might possibly be saved (see 1Co 5:5).
+that the soul might possibly be saved (see [[1CO.5:5]]).
 
 
 ### 19:10-12
@@ -2638,7 +2638,7 @@ term figuratively for those who freely choose lifelong celibacy for the sake of 
 
 kingdom of heaven. This consecrated virginity is not to be confused with selfmutilation, which the Church condemned at the First Ecumenical Council (AD 325). See
 
-also 1Co 7:7, 25-38.
+also [[1CO.7:7]], [[1CO.7:25]]-38.
 
 
 ### 19:16-17
@@ -2706,7 +2706,7 @@ According to St. John Chrysostom, this refers to keeping faith under persecution
 
 means to lose one's family. It also means to accept that unbelieving family members may
 
-cut off ties because of the believer's faith (see 1Co 7:12-16). Believers are promised a
+cut off ties because of the believer's faith (see [[1CO.7:12]]-16). Believers are promised a
 
 hundredfold of houses and relatives not in an earthly sense, but in a spiritual sense--
 
@@ -2772,13 +2772,13 @@ earthly misunderstanding of the Kingdom of God. Matthew reports that the mother 
 
 Zebedee's sons requested this honor, but John's and James' own involvement is
 
-revealed by the plural you in v. 22, and in Mk 10:35.
+revealed by the plural you in v. 22, and in [[MRK.10:35]].
 
 Christ calls His Crucifixion a cup and His death a baptism. The Cross is a cup because
 
-He drank it willingly (Heb 12:2). His death is baptism, for He was completely immersed
+He drank it willingly ([[HEB.12:2]]). His death is baptism, for He was completely immersed
 
-in it, yet it cleansed the world (Rom 6:3-6). Christ's prophecy of John and James
+in it, yet it cleansed the world ([[ROM.6:3]]-6). Christ's prophecy of John and James
 
 participating in the same cup and baptism shows the life of persecution and martyrdom
 
@@ -2796,7 +2796,7 @@ Chrysostom teaches that no one could possibly occupy such a position. With regar
 
 highest places of honor that can be given to man, the icons of the Church universally
 
-depict the Virgin Mary (the most blessed among women--Lk 1:28) and John the Baptist
+depict the Virgin Mary (the most blessed among women--[[LUK.1:28]]) and John the Baptist
 
 (the greatest born of women--11:11) holding these places.
 
@@ -2814,7 +2814,7 @@ The Fathers also give a spiritual interpretation to this miracle, with the blind
 
 symbolizing future generations who would come to faith only by hearing, without the
 
-benefit of seeing Christ in person (see Jn 20:29). Those who tried to silence the blind
+benefit of seeing Christ in person (see [[JOH.20:29]]). Those who tried to silence the blind
 
 men are persecutors and tyrants who, in every generation, try to silence the Church.
 
@@ -2832,13 +2832,13 @@ Messiah to deliver them from Roman control and to reestablish David's kingdom. I
 
 humility, Jesus shows that He has not come to establish an earthly kingdom. He does not
 
-ride on a horse nor in a chariot, but on a donkey--a sign of humility and peace (Zec 9:9).
+ride on a horse nor in a chariot, but on a donkey--a sign of humility and peace ([[ZEC.9:9]]).
 
 This entrance into the Holy City declares the establishment of the Kingdom of God. It is
 
 also a promise of Christ's final entrance into the heavenly Jerusalem with all believers
 
-and of His accepting the New Jerusalem as His pure Bride (Rev 21:2).
+and of His accepting the New Jerusalem as His pure Bride ([[REV.21:2]]).
 
 
 ### 21:2
@@ -2866,7 +2866,7 @@ lives, for Christ.
 ### 21:9
 *(anchor: MAT.21:9)*
 
-This cry comes from Ps 117:25, 26, which was associated with messianic expectation.
+This cry comes from [[PSA.117:25]], [[PSA.117:26]], which was associated with messianic expectation.
 
 It was recited daily for six days during the Feast of Tabernacles, and seven times on the
 
@@ -2884,7 +2884,7 @@ coins, which bore the image of Caesar, were considered defiling in the temple. T
 
 cleansing of the temple also points to the necessity that the Church be kept free from
 
-earthly pursuits. As each person is considered a temple of God (1Co 3:16; 6:19), it is also a
+earthly pursuits. As each person is considered a temple of God ([[1CO.3:16]]; 6:19), it is also a
 
 sign that our hearts and minds must be cleansed of earthly matters.
 
@@ -2982,9 +2982,9 @@ Like the preceding parables, this one also proclaims the transfer of the Kingdom
 
 from the faithless Jews to the Gentiles. It is set as a joyful wedding banquet (v. 2; see
 
-25:1-13), for Christ is often called the "Bridegroom" (9:15; Jn 3:29), and St. Paul uses a
+25:1-13), for Christ is often called the "Bridegroom" (9:15; [[JOH.3:29]]), and St. Paul uses a
 
-marriage analogy for the Kingdom (Eph 5:21-33).
+marriage analogy for the Kingdom ([[EPH.5:21]]-33).
 
 The repeated sending out of servants shows the Father's great desire to have His
 
@@ -3002,7 +3002,7 @@ the Gentiles, those not initially invited, but now called.
 
 The oxen represent the sacrifices of the Old Covenant, while the fatted cattle
 
-represent the eucharistic bread of the New Covenant. (Fatted is better translated "wheatfed," or even more literally "formed from wheat"; see note at Lk 15:23.) Thus, both the
+represent the eucharistic bread of the New Covenant. (Fatted is better translated "wheatfed," or even more literally "formed from wheat"; see note at [[LUK.15:23]].) Thus, both the
 
 Old and New Covenants are fulfilled at the wedding of Christ and His Church.
 
@@ -3100,7 +3100,7 @@ that He is God incarnate. They supposed the Messiah to be a mere man, and theref
 
 reply that the Messiah would be a Son of David. David, as king of Israel, could not and
 
-would not address anyone as "Lord" except God. Yet in Ps 109:1, David refers to the
+would not address anyone as "Lord" except God. Yet in [[PSA.109:1]], David refers to the
 
 Messiah as "Lord." Therefore, the Messiah must be God. The only possible conclusion is
 
@@ -3110,7 +3110,7 @@ divine, sharing His Lordship with God the Father and the Holy Spirit. The Pharis
 
 not answer because they realize the implications and are afraid to confess Jesus to be
 
-the Son of God. See also note at Lk 20:41-44.
+the Son of God. See also note at [[LUK.20:41]]-44.
 
 
 ### 23:1-39
@@ -3162,7 +3162,7 @@ not relieve the people from their responsibilities before God.
 
 Phylacteries are small leather pouches containing passages of Scripture worn on
 
-the arm or forehead. The idea was to keep God's Law always in mind (see Ex 13:9), but
+the arm or forehead. The idea was to keep God's Law always in mind (see [[EXO.13:9]]), but
 
 the Pharisees had used them as a show of false piety, making them increasingly larger
 
@@ -3176,9 +3176,9 @@ Christ's warning against calling hypocrites father and teacher is not an absolut
 
 prohibition against using these terms, as some teach. These terms are applied to men
 
-many times in the NT, all of which usages are inspired by God. Teacher is used in Jn 3:10;
+many times in the NT, all of which usages are inspired by God. Teacher is used in [[JOH.3:10]];
 
-Acts 13:1; 1Co 12:28; Eph 4:11; and 2Ti 1:11. Father is used in Lk 16:24; 1Co 4:15; and Col
+[[ACT.13:1]]; [[1CO.12:28]]; [[EPH.4:11]]; and [[2TI.1:11]]. Father is used in [[LUK.16:24]]; [[1CO.4:15]]; and Col
 
 3:21. Since the very early days of the Church, bishops and presbyters have been called
 
@@ -3196,7 +3196,7 @@ Because the example of a leader can be so influential, leaders who do not love G
 
 can hinder others from finding Him as well. Thus, leaders are held to a higher standard
 
-(Jam 3:1).
+([[JAS.3:1]]).
 
 
 ### 23:23-33
@@ -3232,7 +3232,7 @@ God's deepest desire is the reconciliation of His people, yet most do not want
 
 Him. The desolate house (v. 38) refers both to the temple and to the nation itself, for
 
-house can be used to mean "family" or "tribe" (see Ps 113:20; 134:19). Both the temple
+house can be used to mean "family" or "tribe" (see [[PSA.113:20]]; 134:19). Both the temple
 
 and the nation will be without God's presence once Christ departs.
 
@@ -3248,9 +3248,9 @@ the temple was destroyed by the Romans (see note at 22:7).
 
 The Scriptures describe the end times in a variety of ways, so that no precise
 
-chronology can be determined (see Dan 7-12; Mk 13; Lk 21; 1Co 15:51-55; 1Th 4:13-17;
+chronology can be determined (see Dan 7-12; Mk 13; Lk 21; [[1CO.15:51]]-55; [[1TH.4:13]]-17;
 
-2Th 2:1-10; and the Book of Revelation). The Lord's emphasis is on watchfulness and the
+[[2TH.2:1]]-10; and the Book of Revelation). The Lord's emphasis is on watchfulness and the
 
 practice of virtue rather than on constructing timetables of things that have not yet
 
@@ -3280,7 +3280,7 @@ The wars here refer first and foremost to the Roman destruction of Jerusalem, bu
 
 certainly include subsequent wars. Wars are not a sign of the imminent end, but of the
 
-opposite--that the end is not yet (see 1Th 5:1-3).
+opposite--that the end is not yet (see [[1TH.5:1]]-3).
 
 
 ### 24:14
@@ -3300,7 +3300,7 @@ except the gospel of Jesus Christ.
 ### 24:15
 *(anchor: MAT.24:15)*
 
-Daniel's prophecy of the abomination of desolation (Dan 9:23) was fulfilled in
+Daniel's prophecy of the abomination of desolation ([[DAN.9:23]]) was fulfilled in
 
 AD 70, when the Roman general Titus entered the Most Holy Place and had a statue of
 
@@ -3362,13 +3362,13 @@ for Christ's impending judgment. While at His first coming, Christ came in humil
 
 mortality, at His second coming, He will be revealed in power and great glory (see
 
-note at Est 6:6-9).
+note at [[EST.6:6]]-9).
 
 
 ### 24:31
 *(anchor: MAT.24:31)*
 
-They will gather: See 1Th 4:13-18.
+They will gather: See [[1TH.4:13]]-18.
 
 
 ### 24:34
@@ -3388,7 +3388,7 @@ exact day of His return "so that men should not seek to learn what angels do not
 
 and to forbid them not only from learning the day, but from even inquiring about it.
 
-According to Mk 13:32, and in Chrysostom's Matthew text, Jesus declares that the Son
+According to [[MRK.13:32]], and in Chrysostom's Matthew text, Jesus declares that the Son
 
 also does not know the day of His own return. Chrysostom teaches this is not to be
 
@@ -3452,7 +3452,7 @@ righteous to share their oil is not to be interpreted as a lack of generosity. R
 
 illustration of (1) the impossibility of entering heaven without one's own faith and virtue,
 
-and (2) the impossibility of changing one's state of virtue after death (see Lk 16:26).
+and (2) the impossibility of changing one's state of virtue after death (see [[LUK.16:26]]).
 
 The themes of this parable and the one before it (24:45-51) are woven together in the
 
@@ -3470,7 +3470,7 @@ This parable illustrates the use of gifts given by God. Even one talent was a
 
 great sum of money; here it represents the goodness God has bestowed on each person.
 
-The amount each receives is based on that person's abilities (Rom 12:4-7). God does not
+The amount each receives is based on that person's abilities ([[ROM.12:4]]-7). God does not
 
 show partiality in the ultimate reward, for all are invited to share the same joy (vv. 21,
 
@@ -3528,7 +3528,7 @@ shepherd and they walk along cliffs, which represent sin.
 
 Inherit is a term used with regard to sons and daughters rather than strangers or
 
-servants, for the righteous become children of God by adoption (Gal 4:4-7).
+servants, for the righteous become children of God by adoption ([[GAL.4:4]]-7).
 
 
 ### 25:40
@@ -3566,7 +3566,7 @@ He accepts it as a sign of His coming burial (v. 12). Nevertheless, according to
 
 Chrysostom, the disciples were not wrong in principle: mercy shown to the poor is
 
-more fitting than outward signs shown even to God (25:40; Jam 1:27). However, they did
+more fitting than outward signs shown even to God (25:40; [[JAS.1:27]]). However, they did
 
 not understand that once the gift had been given, it was a greater mercy to accept it with
 
@@ -3594,7 +3594,7 @@ Because of her fervent faith, Jesus promises perpetual public memory of this
 
 woman. There is no consensus among the Fathers as to her identity in relation to
 
-accounts of similar events in Mk 14:3-9; Lk 7:36-38; and Jn 12:1-8. Some Fathers say
+accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say
 
 that there were three different women in these four accounts, others that there were only
 
@@ -3608,9 +3608,9 @@ Judas on his own initiative seeks to betray Jesus. His motives have been
 
 debated, but the Fathers and the liturgical hymns declare that greed was his primary
 
-motive. This is revealed in Jn 12:4-6, where Judas was particularly upset about the
+motive. This is revealed in [[JOH.12:4]]-6, where Judas was particularly upset about the
 
-"waste" of myrrh in the preceding story because he was a thief (see also 1Ti 6:10).The
+"waste" of myrrh in the preceding story because he was a thief (see also [[1TI.6:10]]).The
 
 phrase one of the twelve is not used so much to identify Judas, who was already known
 
@@ -3630,7 +3630,7 @@ Pascha), God's redemption of all humanity from sin and death, and entrance into 
 
 promised Kingdom. Whether the first day of the Feast was Passover or the day before
 
-Passover is debated among the Fathers (see also note at Jn 19:14). What is certain is that
+Passover is debated among the Fathers (see also note at [[JOH.19:14]]). What is certain is that
 
 Jesus regarded the meal with the disciples to be the Passover meal.
 
@@ -3642,7 +3642,7 @@ That it is written of Him does not cancel Judas' responsibility. God foresees
 
 but does not cause the evil actions of humans, who always have free will (see also note at
 
-Lk 22:3). Jesus lets Judas accuse himself, yet even hearing that Christ knew of his
+[[LUK.22:3]]). Jesus lets Judas accuse himself, yet even hearing that Christ knew of his
 
 deception, Judas does not repent.
 
@@ -3656,7 +3656,7 @@ lead all believers into participation in His heavenly mysteries. In My Father's 
 
 relates to the time after His Resurrection, when Christ will eat and drink to show the
 
-reality of His victory over death (Lk 24:41-43). Furthermore, it points to the eternal
+reality of His victory over death ([[LUK.24:41]]-43). Furthermore, it points to the eternal
 
 banquet of the Kingdom in the age to come.
 
@@ -3694,7 +3694,7 @@ power.
 ### 26:52-54
 *(anchor: MAT.26:52)*
 
-Jesus rebukes Peter (identified in Jn 18:10) for using the sword, for he still
+Jesus rebukes Peter (identified in [[JOH.18:10]]) for using the sword, for he still
 
 does not understand that Christ is going to His death willingly, that salvation for mankind
 
@@ -3708,7 +3708,7 @@ hour of greatest test.
 ### 26:61
 *(anchor: MAT.26:61)*
 
-The people misunderstand the Lord's words reported in Jn 2:19-21. Some Jews
+The people misunderstand the Lord's words reported in [[JOH.2:19]]-21. Some Jews
 
 believed the temple would be destroyed and a new one built by the Messiah.
 
@@ -3716,7 +3716,7 @@ believed the temple would be destroyed and a new one built by the Messiah.
 ### 26:64-66
 *(anchor: MAT.26:64)*
 
-Quoting from Ps 109 and Dan 7:13, Jesus confesses that He is the Messiah, both
+Quoting from Ps 109 and [[DAN.7:13]], Jesus confesses that He is the Messiah, both
 
 fully Man and fully God, for only a divine One could sit at the right hand of the
 
@@ -3746,7 +3746,7 @@ In contrast to Peter, who repented in his sorrow (26:75), Judas is remorseful bu
 
 does not repent. Suicide is not a sign of repentance but of being self-absorbed. Two
 
-accounts of Judas' suicide are given in the NT, here and in Acts 1:16-19.
+accounts of Judas' suicide are given in the NT, here and in [[ACT.1:16]]-19.
 
 
 ### 27:11-14
@@ -3770,7 +3770,7 @@ father." Ironically, the crowds must choose between one Son of the Father and th
 
 By influencing the crowds to choose Barabbas (v. 20), the chief priests indicate to which
 
-father they belong--the devil (Jn 8:44).
+father they belong--the devil ([[JOH.8:44]]).
 
 
 ### 27:25
@@ -3790,7 +3790,7 @@ or their children, Christ instead received those who repented and counted them w
 
 good things beyond number." He then notes the thousands who were converted in
 
-Jerusalem on the Day of Pentecost (Acts 2:41) as evidence of Christ's mercy.
+Jerusalem on the Day of Pentecost ([[ACT.2:41]]) as evidence of Christ's mercy.
 
 
 ### 27:27-31
@@ -3800,7 +3800,7 @@ Every king is proclaimed by his soldiers. Even though the intention was
 
 mockery, it is prophetic that Jesus should be crowned and hailed as King by soldiers of
 
-the governor (see also Jn 11:49-51, where Caiaphas unwittingly prophesies of Christ's
+the governor (see also [[JOH.11:49]]-51, where Caiaphas unwittingly prophesies of Christ's
 
 redemptive work). This mockery shows Jesus as the One despised and rejected by men
 
@@ -3818,9 +3818,9 @@ upon Himself our sufferings. This He accomplishes by uniting His divine nature t
 
 human nature. His humanity is indeed our humanity. Although He has no sin, He was
 
-made to be sin for us, that through His flesh He might condemn sin itself (Rom 8:3; 2Co
+made to be sin for us, that through His flesh He might condemn sin itself ([[ROM.8:3]]; 2Co
 
-5:21; Heb 2:9). Two robbers (v. 38): Although one would later repent (Lk 23:39-43), at
+5:21; [[HEB.2:9]]). Two robbers (v. 38): Although one would later repent ([[LUK.23:39]]-43), at
 
 first both criminals mock Jesus (v. 44).
 
@@ -3828,7 +3828,7 @@ first both criminals mock Jesus (v. 44).
 ### 27:45
 *(anchor: MAT.27:45)*
 
-Darkness: See Zec 14:6, 7; Am 8:9.
+Darkness: See [[ZEC.14:6]], [[ZEC.14:7]]; [[AMO.8:9]].
 
 
 ### 27:46
@@ -3860,7 +3860,7 @@ Father's need for blood-justice (as if God would demand such things), but so tha
 
 entering death as the divine Son of God, He can destroy this last enemy, which is death
 
-itself (1Co 15:20-28; see note at Lk 23:46).
+itself ([[1CO.15:20]]-28; see note at [[LUK.23:46]]).
 
 
 ### 27:51
@@ -3888,11 +3888,11 @@ The completeness of the salvation won by Christ is signified in the resurrection
 
 of the saints from the OT. This guarantees the promise given to Ezekiel that God can
 
-and will one day open the graves of all mankind (Ezk 37:1-14). The saints entering the
+and will one day open the graves of all mankind ([[EZK.37:1]]-14). The saints entering the
 
-holy city is an icon of resurrected humanity entering the heavenly Jerusalem (Heb 11:10;
+holy city is an icon of resurrected humanity entering the heavenly Jerusalem ([[HEB.11:10]];
 
-12:22, 23; Rev 21:2-22:5).
+12:22, 23; [[REV.21:2]]-22:5).
 
 
 ### 27:54
@@ -3908,7 +3908,7 @@ acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos
 
 Mary the mother of James and Joses: Most Fathers teach this was the Virgin
 
-Mary, being in fact the stepmother of James and Joses (see 13:55; compare Mk 15:40, 47).
+Mary, being in fact the stepmother of James and Joses (see 13:55; compare [[MRK.15:40]], [[MRK.15:47]]).
 
 Theophylact summarizes the teaching of the Fathers in this way: "James and Joses were
 
@@ -3940,7 +3940,7 @@ The earthquake is a sign of our Lord's great victory over death, foreshadowing t
 
 general resurrection of all humanity. Note that the angel does not roll back the stone
 
-to let the Lord out, for in His glory, Christ could pass through solid rock (see Jn 20:19).
+to let the Lord out, for in His glory, Christ could pass through solid rock (see [[JOH.20:19]]).
 
 Rather, this allows the witnesses in to see that He has already risen.
 
@@ -3954,7 +3954,7 @@ Resurrection of Christ and the destruction of death. The angel refers to Christ 
 
 who was crucified, teaching us not to shy away from His death, but to glory in the
 
-Cross (1Co 2:2; Gal 6:14), which is the weapon Christ used to destroy death and the
+Cross ([[1CO.2:2]]; [[GAL.6:14]]), which is the weapon Christ used to destroy death and the
 
 trophy of His victory. At the liturgical services of Pascha (Easter), Orthodox Christians
 
@@ -3962,7 +3962,7 @@ sing the following hymn hundreds of times: "Christ is risen from the dead, tramp
 
 down death by death, and upon those in the tombs bestowing life." As St. Paul says, "If
 
-Christ is not risen, your faith is futile" (1Co 15:17).
+Christ is not risen, your faith is futile" ([[1CO.15:17]]).
 
 
 ### 28:13
@@ -3982,7 +3982,7 @@ All authority has been given to Me: Christ declares that the authority that was
 
 His by nature in His divinity is now also possessed by His glorified human nature. This
 
-human nature has now trampled the final enemy--death (1Co 15:20-28).
+human nature has now trampled the final enemy--death ([[1CO.15:20]]-28).
 
 
 ### 28:19

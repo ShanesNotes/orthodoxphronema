@@ -29,7 +29,7 @@ God's foreknowledge and His calling are here woven together.
 ### 1:6
 *(anchor: JER.1:6)*
 
-Like Moses before him (Ex 4:10), Jeremiah claims he does not know how to speak. As with all the prophets, God put His words in Jeremiah's mouth (v. 9). 
+Like Moses before him ([[EXO.4:10]]), Jeremiah claims he does not know how to speak. As with all the prophets, God put His words in Jeremiah's mouth (v. 9). 
 
 ### 1:16
 *(anchor: JER.1:16)*
@@ -85,7 +85,7 @@ This is the first great messianic prophecy of Jeremiah. It finds its fulfillment
 
 Jesus Christ; (3) Jerusalem the Throne of the Lord (v. 17), which looks ahead to the
 
-eternal Kingdom (Rev 21:2; 22:1); and (4) the inclusion of the Gentiles (v. 17), which
+eternal Kingdom ([[REV.21:2]]; 22:1); and (4) the inclusion of the Gentiles (v. 17), which
 
 speaks of the Church. 
 
@@ -96,14 +96,14 @@ The God of Israel is here prophetically called God of the Gentiles, who is the
 
 Father. Thus, when the disciples ask Jesus how to pray, His answer begins with "Our
 
-Father" (Lk 11:1, 2). 
+Father" ([[LUK.11:1]], [[LUK.11:2]]). 
 
 ### 4:4
 *(anchor: JER.4:4)*
 
 Circumcise . . . your heart: St. Cyprian tells us "the first circumcision of the flesh is
 
-made void, and the second circumcision of the spirit is promised instead" (see Col 2:11). He further notes, "Then, because that sign did not avail women, but all are sealed by the
+made void, and the second circumcision of the spirit is promised instead" (see [[COL.2:11]]). He further notes, "Then, because that sign did not avail women, but all are sealed by the
 
 sign of the Lord" (that is, Holy Baptism). 
 
@@ -121,7 +121,7 @@ The Lord specifies that those most responsible for Israel's apostasy are her lea
 
 many secular and religious leaders open to the same charge. St. Paul advises, "from such
 
-people turn away!" (2Ti 3:5). 
+people turn away!" ([[2TI.3:5]]). 
 
 ### 5:1
 *(anchor: JER.5:1)*
@@ -186,7 +186,7 @@ very foundations.
 ### 6:9
 *(anchor: JER.6:9)*
 
-See Lam 1:22. To glean a vine is to strip it of all its fruit, leaving it desolate, as is
+See [[LAM.1:22]]. To glean a vine is to strip it of all its fruit, leaving it desolate, as is
 
 promised with the coming attack on Israel. 
 
@@ -202,7 +202,7 @@ baptism.
 ### 6:16
 *(anchor: JER.6:16)*
 
-St. Athanasius connects this passage with Jn 14:6, where Jesus says, "I am the way, the truth, and the life. No one comes to the Father except through Me."
+St. Athanasius connects this passage with [[JOH.14:6]], where Jesus says, "I am the way, the truth, and the life. No one comes to the Father except through Me."
 
 
 ### 6:17
@@ -238,7 +238,7 @@ made decisions of a disobedient people.
 ### 7:10
 *(anchor: JER.7:10)*
 
-Jesus cited this verse when cleansing the temple (Mt 21:13), suggesting that while in
+Jesus cited this verse when cleansing the temple ([[MAT.21:13]]), suggesting that while in
 
 Jeremiah's day the question of the temple being a den of robbers was preposterous, by
 
@@ -261,11 +261,11 @@ of the command.
 ### 7:30
 *(anchor: JER.7:30)*
 
-Tophet: The place where children were being sacrificed to Molech (4Kg 23:10). The
+Tophet: The place where children were being sacrificed to Molech ([[2KI.23:10]]). The
 
 sad end of this child sacrifice will be cannibalism, effected during the siege of Jerusalem
 
-(Bar 2:3). 
+([[BAR.2:3]]). 
 
 ### 7:32
 *(anchor: JER.7:32)*
@@ -295,7 +295,7 @@ These are apparently popular sayings, widespread among the people.
 
 Gall to drink: Unsanitary water, the only kind to be had then in the city. While this
 
-was a proper corrective response to Israel's sin, they went far beyond this, later in time, by giving Christ, who knew no sin, "wine mingled with gall" (Mt 27:34). 
+was a proper corrective response to Israel's sin, they went far beyond this, later in time, by giving Christ, who knew no sin, "wine mingled with gall" ([[MAT.27:34]]). 
 
 ### 8:17
 *(anchor: JER.8:17)*
@@ -327,7 +327,7 @@ desert.
 
 Jeremiah's tears remind us that God's punishments were not without purpose. God
 
-deeply cares for all whom He disciplines (Heb 12:5, 6), and He sends His rebuke to
+deeply cares for all whom He disciplines ([[HEB.12:5]], [[HEB.12:6]]), and He sends His rebuke to
 
 correct and transform us. 
 
@@ -347,14 +347,14 @@ not the Lord, and were faithless, he charges them with unrighteousness" (AthanG)
 
 Dwelling place of serpents: An especially diabolical image, given the habit of
 
-dragons or serpents to persecute the saints (Rev 12:7-9). 
+dragons or serpents to persecute the saints ([[REV.12:7]]-9). 
 
 ### 9:22
 *(anchor: JER.9:22)*
 
 Boasting in oneself and one's capabilities is here forbidden. In our devotion to God, we are called to boast only in the glory of God or, in the words of the Apostle Paul, "Christ
 
-. . . crucified" (1Co 2:2). 
+. . . crucified" ([[1CO.2:2]]). 
 
 ### 9:25
 *(anchor: JER.9:25)*
@@ -402,7 +402,7 @@ is about to be destroyed. Led by foolish shepherds who no longer seek Him, the p
 
 had shunned the pattern of worship that God had given to Moses on the mountain long
 
-ago (Ex 25:40). Those who would worship God "in spirit and truth" (Jn 4:24) must not
+ago ([[EXO.25:40]]). Those who would worship God "in spirit and truth" ([[JOH.4:24]]) must not
 
 neglect the gift of Holy Tradition handed down in the Scriptures and the Church, lest we
 
@@ -445,7 +445,7 @@ prophet in his hometown (Lk. 4:24).
 
 Here Jeremiah takes up a theme dealt with far more extensively in Job (see, for
 
-example, Job 12:6). 
+example, [[JOB.12:6]]). 
 
 ### 12:5
 *(anchor: JER.12:5)*
@@ -555,7 +555,7 @@ destruction.
 ### 15:3
 *(anchor: JER.15:3)*
 
-Four ways: See Ezk 14:21. The inclusion of beasts highlights the fact that when the
+Four ways: See [[EZK.14:21]]. The inclusion of beasts highlights the fact that when the
 
 Creator is incensed against sinners, not even creation itself can hold back from rising
 
@@ -645,14 +645,14 @@ needs water], and yet it covers the desert. Thus Jeremiah compares it to the wor
 
 characters--the double character." Later, St. James would write, "a double-minded man
 
-[is] unstable in all his ways" (Jam 1:8). 
+[is] unstable in all his ways" ([[JAS.1:8]]). 
 
 ### 17:5
 *(anchor: JER.17:5)*
 
 The heart is deep beyond all things: St. John Chrysostom labors the point that
 
-only God can know men's hearts, citing Ps 7:9; 1Kg 16:7; C2hr 6:30; and Mt 9:3, 4. 
+only God can know men's hearts, citing [[PSA.7:9]]; 1Kg 16:7; C2hr 6:30; and [[MAT.9:3]], [[MAT.9:4]]. 
 
 ### 17:15-23
 *(anchor: JER.17:15)*
@@ -668,7 +668,7 @@ until the Gentiles joined the procession on the Day of Pentecost.
 ### 18:1-10
 *(anchor: JER.18:1)*
 
-This is the passage referred to by St. Paul in Rom 9:21, and it highlights the
+This is the passage referred to by St. Paul in [[ROM.9:21]], and it highlights the
 
 Apostle's intention. The ability of the potter to do what he wants with his pots is always
 
@@ -685,7 +685,7 @@ recreate something beautiful.
 
 As the Jews sought to devise a plan against Jeremiah to strike him down, so
 
-they also plotted against Christ, to destroy Him (Mk 3:6). 
+they also plotted against Christ, to destroy Him ([[MRK.3:6]]). 
 
 ### 19:2
 *(anchor: JER.19:2)*
@@ -699,7 +699,7 @@ after the siege.
 ### 19:9
 *(anchor: JER.19:9)*
 
-The sin of cannibalism was later confessed by the people of Judah (7:31; Bar 2:3). 
+The sin of cannibalism was later confessed by the people of Judah (7:31; [[BAR.2:3]]). 
 
 ### 20:1
 *(anchor: JER.20:1)*
@@ -783,7 +783,7 @@ shepherds. 23:4
 
 This verse was fulfilled only in Christ, who puts an end to all fear and terror. He is
 
-love, and in perfect love there is no fear (1Jn 4:18). 23:5
+love, and in perfect love there is no fear ([[1JN.4:18]]). 23:5
 
 Behold, days are coming: This phrase indicates the next prophecy deals with a
 
@@ -813,7 +813,7 @@ single person in the land was to be taken away into captivity, but only the wors
 
 seems that as some were to be deported, others of those already exiled were brought back. It may have been in light of this passage that our Lord Jesus Christ commanded us to
 
-judge a tree by its fruit (Mt 7:16-20). 25:1
+judge a tree by its fruit ([[MAT.7:16]]-20). 25:1
 
 Fourth year: 606/605 BC. 25:3 Thirteenth year: 605/604 BC. Twenty-third year: 595/594 BC. 25:14
 
@@ -877,7 +877,7 @@ The vessels of His wrath are political powers with whom God is angry, yet whom
 
 He nevertheless uses to accomplish His will on earth. It is in this sense that the same
 
-phrase is used by the apostle Paul in Rom 9:22, likely reflecting on the way God used
+phrase is used by the apostle Paul in [[ROM.9:22]], likely reflecting on the way God used
 
 Babylon. 27:34
 
@@ -897,7 +897,7 @@ Babylon's fall comes through her own gluttony, a reminder to us all that we plac
 
 our end in the things we crave, whether God or material goods. 28:27
 
-Ararat is an area in modern-day Turkey, where the ark rested (Gn 8:4). The
+Ararat is an area in modern-day Turkey, where the ark rested ([[GEN.8:4]]). The
 
 Ashkenaz are the Scythians, a people then located in modern-day Armenia. 28:55
 
@@ -917,7 +917,7 @@ this name teaches us to love our enemies, since there were far worse names an en
 
 could be called. 30:1
 
-Teman was a grandson of Esau (Gn 36:15). 30:2
+Teman was a grandson of Esau ([[GEN.36:15]]). 30:2
 
 Dedan: A town in the desert toward the Arabian peninsula. 30:8
 
@@ -928,9 +928,9 @@ struggle of war was occurring on the spiritual level as well as the political.
 ### 30:22
 *(anchor: JER.30:22)*
 
-Kedar: The descendants of the son of Ishmael (Gn 25:13). The sons of Kedem
+Kedar: The descendants of the son of Ishmael ([[GEN.25:13]]). The sons of Kedem
 
-were associated with the Ammonites (see Ezk 25:4, 10). 
+were associated with the Ammonites (see [[EZK.25:4]], [[EZK.25:10]]). 
 
 ### 30:28
 *(anchor: JER.30:28)*
@@ -940,7 +940,7 @@ Hamath is where King Zedekiah would be sentenced by Nebuchadnezzar (52:27).
 ### 30:32
 *(anchor: JER.30:32)*
 
-Ben-Hadad is a king in Damascus who plundered Israel (4Kg 13:3). 
+Ben-Hadad is a king in Damascus who plundered Israel ([[2KI.13:3]]). 
 
 ### 31:12
 *(anchor: JER.31:12)*
@@ -1010,9 +1010,9 @@ hear Jeremiah's message.
 ### 33:18
 *(anchor: JER.33:18)*
 
-This refers to the prophet Micah (Mic 1:1). The prophecy in question comes from
+This refers to the prophet Micah ([[MIC.1:1]]). The prophecy in question comes from
 
-Mic 3:12. 
+[[MIC.3:12]]. 
 
 ### 33:20-23
 *(anchor: JER.33:20)*
@@ -1033,7 +1033,7 @@ This is sound advice for those who give heed to the fortune tellers, false proph
 ### 34:14
 *(anchor: JER.34:14)*
 
-This does not mean that the vessels will never be returned, for they were (Bar 1:8). The false prophets were delivering a false word. 
+This does not mean that the vessels will never be returned, for they were ([[BAR.1:8]]). The false prophets were delivering a false word. 
 
 ### 35:1
 *(anchor: JER.35:1)*
@@ -1081,7 +1081,7 @@ Seventy years: Jeremiah speaks both historically and mystically. There was a
 
 return of exiles under Cyrus after seventy years. During His earthly ministry, Christ chose
 
-seventy men to be heralds of the Gospel (Lk 10:1-20). These seventy lived a godly life of
+seventy men to be heralds of the Gospel ([[LUK.10:1]]-20). These seventy lived a godly life of
 
 obedience to Christ, suffering martyrdom and spreading the Kingdom--the true
 
@@ -1167,7 +1167,7 @@ The fruitful tree speaks of the cross.
 
 The new planting is the Church, the new Israel, as well as the New Testament
 
-(1Co 3:6-8). 
+([[1CO.3:6]]-8). 
 
 ### 38:30
 *(anchor: JER.38:30)*
@@ -1181,7 +1181,7 @@ another, only of his own sin.
 
 The implanting of the new covenant, the law in the heart, was clearly effected with
 
-the coming of Christ (2Co 3:3; Heb 10:15-18). 
+the coming of Christ ([[2CO.3:3]]; [[HEB.10:15]]-18). 
 
 ### 38:34
 *(anchor: JER.38:34)*
@@ -1236,7 +1236,7 @@ faithfulness, not the letter of the Law.
 
 Christ alone brings healing for our wounds. The service of healing is a sacrament
 
-in the Church (see Jam 5:14-16). 
+in the Church (see [[JAS.5:14]]-16). 
 
 ### 41:5
 *(anchor: JER.41:5)*
@@ -1254,14 +1254,14 @@ this time to slavery and servitude. For Christians, this is a lesson in forgiven
 
 becoming the servants of others. For, if we do not forgive others, God will not forgive us
 
-(Mt 6:14, 15). If we want to become great in the kingdom of God, we must become
+([[MAT.6:14]], [[MAT.6:15]]). If we want to become great in the kingdom of God, we must become
 
-servants to others (Mk 10:43, 44). 
+servants to others ([[MRK.10:43]], [[MRK.10:44]]). 
 
 ### 41:9
 *(anchor: JER.41:9)*
 
-Setting his servant free comes in obedience to the Law (Dt 15:12-15). 
+Setting his servant free comes in obedience to the Law ([[DEU.15:12]]-15). 
 
 ### 42:2
 *(anchor: JER.42:2)*
@@ -1284,7 +1284,7 @@ God promises to bless those who obey their father, a point which highlights the
 
 apostle Paul's reflection on those who live without the Mosaic Law, yet nevertheless have
 
-a law of their own (Rom 2:14, 15). 
+a law of their own ([[ROM.2:14]], [[ROM.2:15]]). 
 
 ### 43:1
 *(anchor: JER.43:1)*
@@ -1429,7 +1429,7 @@ Judah. The death of Gedaliah will mark the end of the five-year stay of the Jews
 
 Shechem, Shalem, and Samaria: Three areas near Israel in the north of Judah, which had already changed in ethnic composition after the Assyrian deportation. 48:5-8 Hence, Ishmael killed seventy men. Gedaliah himself was mourned by the exiles
 
-for those seventy years of exile by an annual fast (Zec 7:5). 
+for those seventy years of exile by an annual fast ([[ZEC.7:5]]). 
 
 ### 49:1-6
 *(anchor: JER.49:1)*
@@ -1487,11 +1487,11 @@ Jeremiah, We will not listen to you.
 ### 51:17
 *(anchor: JER.51:17)*
 
-Just as the Scriptures speak of "false christs and false prophets" (Mk 13:22), here we
+Just as the Scriptures speak of "false christs and false prophets" ([[MRK.13:22]]), here we
 
 have a counterfeit queen of heaven (see note at v. 8). The true queen of heaven is the
 
-Mother of God, seated at the right hand of her Son and King (Ps 45:9). 
+Mother of God, seated at the right hand of her Son and King ([[PSA.45:9]]). 
 
 ### 51:24-30
 *(anchor: JER.51:24)*
@@ -1529,7 +1529,7 @@ These dates place the siege of Jerusalem in early January, 587 BC.
 ### 52:21
 *(anchor: JER.52:21)*
 
-The two priests were Seraiah and Zephaniah (4Kg 25:18). 
+The two priests were Seraiah and Zephaniah ([[2KI.25:18]]). 
 
 ### 52:25
 *(anchor: JER.52:25)*

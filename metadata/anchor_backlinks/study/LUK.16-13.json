@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.16:13",
+  "canon_uri": "canon/NT/LUK.md#LUK.16:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 163,
+      "raw_match": "[[LUK.16:13]]",
+      "reference_type": "wikilink",
+      "context": "passions (see [[MAT.6:24]]; [[LUK.16:13]]; [[1CO.7:29]]-31)."
+    }
+  ]
+}

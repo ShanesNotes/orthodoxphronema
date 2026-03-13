@@ -32,7 +32,7 @@ Gospels or the canons of the Church.
 ### 1:8
 *(anchor: 1TI.1:8)*
 
-The law is good because God gave it (Rom 7:16). It was a schoolmaster for God's
+The law is good because God gave it ([[ROM.7:16]]). It was a schoolmaster for God's
 
 chosen people, to confront and control their sin until the Incarnation of His Son fulfills it;
 
@@ -42,7 +42,7 @@ and a guide to lead all people to Christ.
 ### 1:12-17
 *(anchor: 1TI.1:12)*
 
-Paul, as a former rebel toward God and persecutor of the Church (Acts 9:1-3),
+Paul, as a former rebel toward God and persecutor of the Church ([[ACT.9:1]]-3),
 
 gives glory to God for his calling as an apostle. Throughout the OT and NT and church
 
@@ -96,7 +96,7 @@ one Mediator by becoming Man through the Holy Spirit and a virgin--that is, thro
 
 God and men. He "built" His humanity not from Himself alone but from another, the
 
-Virgin Mary. Likewise, as the Mediator He says, "I will build My church" (Mt 16:18); He
+Virgin Mary. Likewise, as the Mediator He says, "I will build My church" ([[MAT.16:18]]); He
 
 establishes her leaders and her worship. As Mary gives us Christ in His humanity, the
 
@@ -116,9 +116,9 @@ from their bondage to experience liberty.
 
 Prayer must be united with quiet and godly behavior. Does this contradict praying
 
-secretly, not to be seen by men (Mt 6:5, 6)? No. The warning is against spiritual
+secretly, not to be seen by men ([[MAT.6:5]], [[MAT.6:6]])? No. The warning is against spiritual
 
-showmanship, not congregational prayer. The secret "room" (Mt 6:6) is a person's
+showmanship, not congregational prayer. The secret "room" ([[MAT.6:6]]) is a person's
 
 innermost being, perfectly consistent with praying everywhere. In contrast to the
 
@@ -134,7 +134,7 @@ The Church's greatest saint is a woman, the Virgin Mary, Mother of God. Some
 
 women, including Mary Magdalene, are called "Equal to the Apostles," others serve as
 
-deacons (Rom 16:1). While sharing full equality in Christ, women are not ordained to the
+deacons ([[ROM.16:1]]). While sharing full equality in Christ, women are not ordained to the
 
 offices of bishop and presbyter.
 
@@ -178,7 +178,7 @@ accordance with the general teaching of Orthodox canon law.
 ### 3:8
 *(anchor: 1TI.3:8)*
 
-For qualifications for the first deacons, see Acts 6:1-6.
+For qualifications for the first deacons, see [[ACT.6:1]]-6.
 
 
 ### 3:11
@@ -190,7 +190,7 @@ Wives: Or perhaps "women," referring to deaconesses.
 ### 3:15
 *(anchor: 1TI.3:15)*
 
-While the Scriptures are the inspired truth of God in human words (2Ti 3:15-17), the
+While the Scriptures are the inspired truth of God in human words ([[2TI.3:15]]-17), the
 
 Church is the pillar and ground of that truth.
 
@@ -200,9 +200,9 @@ Church is the pillar and ground of that truth.
 
 Paul quotes an ancient Christian creed or hymn that is especially clear about the
 
-divinity of Jesus Christ. Another such creed is found in 2Ti 2:11-13. (See also 6:15, 16;
+divinity of Jesus Christ. Another such creed is found in [[2TI.2:11]]-13. (See also 6:15, 16;
 
-Eph 1:3-14; 5:14; Php 2:6-11; Col 1:15-20.) Thus, when the early Councils met and
+[[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and
 
 issued creeds, they were well within the mark of biblical precedent.
 
@@ -234,21 +234,21 @@ back to God.
 ### 4:5-6
 *(anchor: 1TI.4:5)*
 
-The word (Gr. logos) of God is the Son (Jn 1:1; Heb 4:12; 1Pt 1:23; 1Jn 1:1; Rev
+The word (Gr. logos) of God is the Son ([[JOH.1:1]]; [[HEB.4:12]]; [[1PE.1:23]]; [[1JN.1:1]]; Rev
 
-19:13). A word of God in the NT can be God's creative will (2Pt 3:5, 7), the OT (Mk 7:13), a
+19:13). A word of God in the NT can be God's creative will ([[2PE.3:5]], [[2PE.3:7]]), the OT ([[MRK.7:13]]), a
 
-blessing using God's name (as here), the gospel itself (Acts 4:31; 6:7; 13:5, 26; 15:7, 36;
+blessing using God's name (as here), the gospel itself ([[ACT.4:31]]; 6:7; 13:5, 26; 15:7, 36;
 
-1Th 2:13), or a special message from God. The Son is the ultimate reference for every
+[[1TH.2:13]]), or a special message from God. The Son is the ultimate reference for every
 
 other word of God. Sometimes it is difficult to tell whether "word" refers to Christ
 
-Himself or words about Him (Col 1:25). To spread the word of God is to spread Christ
+Himself or words about Him ([[COL.1:25]]). To spread the word of God is to spread Christ
 
 Himself. (The Greek rema is identically translated as "word" whether it refers to the
 
-gospel [Heb 6:5; 1Pt 1:25], a message from God [1Pt 1:25], or an act of God [Heb 11:3].)
+gospel [Heb 6:5; [[1PE.1:25]]], a message from God [1Pt 1:25], or an act of God [Heb 11:3].)
 
 Words of faith (v. 6) means speech consonant with the gospel. Doctrine, or "teaching,"
 
@@ -262,7 +262,7 @@ vital and powerful. Using words without the Word is vain.
 ### 4:7-8
 *(anchor: 1TI.4:7)*
 
-Paul is no stranger to physical exercise and its benefits (see 1Co 9:24-27), but he
+Paul is no stranger to physical exercise and its benefits (see [[1CO.9:24]]-27), but he
 
 prefers spiritual exercise, for it leads to life eternal.
 
@@ -284,7 +284,7 @@ and the homily--the roots of which were in the synagogue.
 
 This refers to Timothy's ordination as presbyter (priest), which was conferred by the
 
-apostles, as it is by the bishop today (2Ti 1:6; see Acts 6:6). In 5:22 Paul gives Timothy
+apostles, as it is by the bishop today ([[2TI.1:6]]; see [[ACT.6:6]]). In 5:22 Paul gives Timothy
 
 instructions for ordination. In continuity with the NT, Orthodox ordination to the
 
@@ -296,7 +296,7 @@ diaconate and priesthood comes through the laying on of hands by the bishop.
 
 Specific advice on caring for widows. If there are no family members to do this, care
 
-belongs to the parish, for a widow has God as her guardian (Dt 10:18; Ps 67:6; Ps 145:9). A
+belongs to the parish, for a widow has God as her guardian ([[DEU.10:18]]; [[PSA.67:6]]; [[PSA.145:9]]). A
 
 "real" widow (vv. 3, 5, 16), however, in turn cares for the parish through prayer (v. 5) and
 
@@ -306,13 +306,13 @@ Special qualifications are given for those who are on the register of widows (vv
 
 perhaps this was an "order" for charitable service. Widows have from the start constituted
 
-a definable group within the Church (Acts 6:1; 9:39, 41).
+a definable group within the Church ([[ACT.6:1]]; 9:39, 41).
 
 
 ### 5:18
 *(anchor: 1TI.5:18)*
 
-The laborer is worthy of his wages (Mt 10:10; Lk 10:7) may be the first use of the
+The laborer is worthy of his wages ([[MAT.10:10]]; [[LUK.10:7]]) may be the first use of the
 
 Gospels as Scripture.
 

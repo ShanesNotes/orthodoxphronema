@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ACT.9:15",
+  "canon_uri": "canon/NT/ACT.md#ACT.9:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/EPH_footnotes.md",
+      "line_number": 295,
+      "raw_match": "[[ACT.9:15]]",
+      "reference_type": "wikilink",
+      "context": "gracious to Paul not for his own sake but for others (see [[ACT.9:15]], [[ACT.9:16]])."
+    },
+    {
+      "source_file": "staging/validated/NT/GAL_footnotes.md",
+      "line_number": 101,
+      "raw_match": "[[ACT.9:10]]-19",
+      "reference_type": "wikilink_range",
+      "context": "hands and the waters of baptism ([[ACT.9:10]]-19). Separated me from my mother's"
+    }
+  ]
+}

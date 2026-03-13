@@ -14,7 +14,7 @@ status: staging
 
 Nehemiah means "comforted of God." Shushan is Susa, a provincial capital in
 
-Persia, its most prominent city and winter residence of King Artaxerxes (Est 1:2). Chislev
+Persia, its most prominent city and winter residence of King Artaxerxes ([[EST.1:2]]). Chislev
 
 is late November/early December. The twentieth year is that of the reign of Artaxerxes
 
@@ -43,7 +43,7 @@ understanding the Book of Nehemiah.
 ### 1:4
 *(anchor: NEH.1:4)*
 
-Nehemiah, as would Christ (Mt 23:37), laments prayerfully for the people of
+Nehemiah, as would Christ ([[MAT.23:37]]), laments prayerfully for the people of
 
 Jerusalem, acknowledging they were guilty of sin and disobedience. Moreover, though a
 
@@ -62,9 +62,9 @@ No indeed is Nehemiah's way of saying, "I'm not putting up with the damaged stat
 
 of the walls and gates of Jerusalem." Nehemiah's prayer reflects his devotion to the words
 
-of Scripture. The phrase great and awesome God is from Dt 7:21. Verses 8 and 9 quote
+of Scripture. The phrase great and awesome God is from [[DEU.7:21]]. Verses 8 and 9 quote
 
-Dt 30:1-5. This man . . . the king is Artaxerxes I, under whom Nehemiah held the office
+[[DEU.30:1]]-5. This man . . . the king is Artaxerxes I, under whom Nehemiah held the office
 
 of cupbearer (v. 11). He it is who would grant Nehemiah's request to return to
 
@@ -86,7 +86,7 @@ present but his queen (v. 6).
 ### 2:3
 *(anchor: NEH.2:3)*
 
-May the king live forever! was the common way to greet a king (see Dan 2:4; 5:10; 
+May the king live forever! was the common way to greet a king (see [[DAN.2:4]]; 5:10; 
 
 ### 6:7
 *(anchor: NEH.6:7)*
@@ -135,7 +135,7 @@ had the scribes and Pharisees, St. Paul had Demas and Alexander the coppersmith 
 
 4:9-15), and Nehemiah had Sanballat, Tobiah, and Geshem, who laughed at the
 
-project. The prophet, not arguing, said, "God . . . will . . . prosper us" (see Ex 14:14; 1Th 5:24). 3:1-32 The work to rebuild Jerusalem and restore Israel within the land God promised to
+project. The prophet, not arguing, said, "God . . . will . . . prosper us" (see [[EXO.14:14]]; [[1TH.5:24]]). 3:1-32 The work to rebuild Jerusalem and restore Israel within the land God promised to
 
 their ancestors begins at once. The laborers are a veritable "Who's Who" of Jerusalem and
 
@@ -143,7 +143,7 @@ the surrounding communities. They include the high priest and the priests (v. 1)
 
 the men of Jericho (v. 2), who are likely returned exiles from that city. The Tekoites
 
-(v. 5), from Amos' hometown of Tekoa (Am 1:1), did repair work (their nobles probably
+(v. 5), from Amos' hometown of Tekoa ([[AMO.1:1]]), did repair work (their nobles probably
 
 sided with Sanballat), along with the sons of other district leaders (vv. 12, 14, 16) and
 
@@ -151,7 +151,7 @@ some Levites (v. 17)--the cooperation is stunning. The Nethinim (v. 26) are a gr
 
 order of temple servants. Even the merchants took part (v. 32). 3:36
 
-Nehemiah's response to those openly opposed to God's will is not anger but prayer, that God will bring vengeance against them (see Gn 12:1-3; Jos 1:5; Dt 32:35; Rom
+Nehemiah's response to those openly opposed to God's will is not anger but prayer, that God will bring vengeance against them (see [[GEN.12:1]]-3; [[JOS.1:5]]; [[DEU.32:35]]; Rom
 
 
 ### 12:19
@@ -179,13 +179,13 @@ rebuke. Usury, the charging of interest, is permitted, but not when both parties
 
 (Ex 22-25; Lv 25:35-38). This rebuke, including the touchy issue of slavery (v. 8), worked. The nobles and rulers were speechless. 5:14-15 Typically the governor lived at taxpayer expense, but not Nehemiah. Because of
 
-the fear of God he provided for himself, as did St. Paul hundreds of years later (1Co 9:1-
+the fear of God he provided for himself, as did St. Paul hundreds of years later ([[1CO.9:1]]-
 
 18), setting a servant example for others. 5:19
 
 Those with a sincere faith in God who act with righteous motives may seek a
 
-blessing from Him (Dt 28:1-14; Mk 10:29, 30). 6:1, 2
+blessing from Him ([[DEU.28:1]]-14; [[MRK.10:29]], [[MRK.10:30]]). 6:1, 2
 
 The plain of Ono is near Judah's border with Samaria, a two-day journey. In
 
@@ -207,7 +207,7 @@ fifty-two days--less than two months! Disheartened, even Sanballat and Tobiah we
 
 forced to admit the work was done by . . . God. 6:17-19
 
-Though defeated, the well-connected Tobiah continued his letters of assault. Jesus called this kind wolves "in sheep's clothing" (Mt 7:15). 7:1-3
+Though defeated, the well-connected Tobiah continued his letters of assault. Jesus called this kind wolves "in sheep's clothing" ([[MAT.7:15]]). 7:1-3
 
 With the wall rebuilt, Nehemiah, as governor, appoints his brother Hanani, who
 
@@ -237,11 +237,11 @@ The foundations of apostolic ministry are found in helping the people to
 
 understand the Scriptures and in building them up in the knowledge of the Lord. (See
 
-Acts 2:37-39; 8:30, 31.)
+[[ACT.2:37]]-39; 8:30, 31.)
 
 8:10
 
-True feasting includes caring for the poor (see Est 9:21), those for whom nothing
+True feasting includes caring for the poor (see [[EST.9:21]]), those for whom nothing
 
 is prepared. 8:14-17 Living in booths is a reminder that the faithful are but sojourners in this world, moving toward a true home in God's kingdom (see Lv 34-42). 8:18
 
@@ -253,7 +253,7 @@ eighth day is the day without end, the day beyond this world when all is fulfill
 
 repentance, fasting, confession, and prayer. Note they confessed not privately, but in
 
-the midst of those assembled together (see Jam 5:16). 9:6-38
+the midst of those assembled together (see [[JAS.5:16]]). 9:6-38
 
 The prayer of Ezra follows the classic biblical pattern of praise, remembrance of
 
@@ -287,7 +287,7 @@ from this world. 11:3-21
 
 These inhabitants of Jerusalem are grouped as follows: the laypeople (vv. 3-9); priests (vv. 10-14); Levites (vv. 15-17); and gatekeepers (v. 18). In the Church, there is
 
-also a great variety of God's servants (1Co 12:4-6). 
+also a great variety of God's servants ([[1CO.12:4]]-6). 
 
 ### 12:28-37
 *(anchor: NEH.12:28)*

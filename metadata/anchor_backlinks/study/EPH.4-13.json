@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EPH.4:13",
+  "canon_uri": "canon/NT/EPH.md#EPH.4:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 933,
+      "raw_match": "[[EPH.4:13]]",
+      "reference_type": "wikilink",
+      "context": "the perfection of the Father ([[EPH.4:13]]; see also the article, \"Deification,\" at 2Pt 1), which"
+    }
+  ]
+}

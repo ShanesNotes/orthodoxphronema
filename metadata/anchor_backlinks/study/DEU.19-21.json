@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.19:21",
+  "canon_uri": "canon/OT/DEU.md#DEU.19:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 899,
+      "raw_match": "[[DEU.19:21]]",
+      "reference_type": "wikilink",
+      "context": "In contrast to the OT ([[EXO.21:24]]; Lv 24:20; [[DEU.19:21]]), Jesus warns us not to resist"
+    }
+  ]
+}

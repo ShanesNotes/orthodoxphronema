@@ -49,7 +49,7 @@ priests would be held accountable.
 
 Evidently, Ptolemy thought the Jews were making up the law to keep him out. They
 
-read him the law to try to convince him (Ex 30:10; Lv 16:2, 11, 12, 15, 34). The king feels
+read him the law to try to convince him ([[EXO.30:10]]; Lv 16:2, 11, 12, 15, 34). The king feels
 
 slighted and sees the high priest as beneath him. 
 
@@ -127,29 +127,29 @@ petition for divine favor and action punctuates its closure.
 ### 2:2
 *(anchor: 3MA.2:2)*
 
-References to God as King of the heavens include Dan 4:37; 1Ez 4:46, 58; Jdt 9:12; Tb 13:7, 11. 
+References to God as King of the heavens include [[DAN.4:37]]; 1Ez 4:46, 58; [[JDT.9:12]]; Tb 13:7, 11. 
 
 ### 2:5
 *(anchor: 3MA.2:5)*
 
-Sodom: See Gn 13:13; Dt 29:23; WSol 10:6-8; 2Ez 2:8; Lk 17:29; 2Pt 2:6; Jude 1:7. 
+Sodom: See [[GEN.13:13]]; [[DEU.29:23]]; WSol 10:6-8; 2Ez 2:8; [[LUK.17:29]]; [[2PE.2:6]]; [[JUD.1:7]]. 
 
 ### 2:6
 *(anchor: 3MA.2:6)*
 
-Punishment on . . . Pharaoh: See Ex 5-12; Rom 9:17. 
+Punishment on . . . Pharaoh: See Ex 5-12; [[ROM.9:17]]. 
 
 ### 2:7
 *(anchor: 3MA.2:7)*
 
-The sea: See Ex 14:21-28. 
+The sea: See [[EXO.14:21]]-28. 
 
 ### 2:9
 *(anchor: 3MA.2:9)*
 
 Chose this city: Jerusalem is specifically mentioned throughout the Old Testament
 
-as having been the city God has chosen for His name (see 3Kg 8:44, 48; 11:32, 36; 14:21; 4Kg 23:27; 2Ch 6:34, 38; 12:13; WSir 49:6). 
+as having been the city God has chosen for His name (see 3Kg 8:44, 48; 11:32, 36; 14:21; [[2KI.23:27]]; [[2CH.6:34]], [[2CH.6:38]]; 12:13; WSir 49:6). 
 
 ### 2:13
 *(anchor: 3MA.2:13)*
@@ -172,7 +172,7 @@ God is beyond the temple, in the highest of all heights, the most heavenly heave
 
 Your glory is a reference to the shekinah, or the manifest glory of God to Israel, who dwells in the tabernacle and the temple, showing His presence among the people. For Christians, the manifest glory of God to Israel is none other than our Lord Jesus
 
-Christ, who before His Incarnation made Himself present among the Israelites (Ex 24:16, 17; 40:34, 35; Lv 9:23; 2Ch 5:14; 7:1-3). 
+Christ, who before His Incarnation made Himself present among the Israelites ([[EXO.24:16]], [[EXO.24:17]]; 40:34, 35; Lv 9:23; [[2CH.5:14]]; 7:1-3). 
 
 ### 2:18
 *(anchor: 3MA.2:18)*
@@ -218,7 +218,7 @@ mark of allegiance will be permanent. Some people in ancient times would mark or
 
 themselves with the symbol of their god, here the ivy leaf. St. John predicts a similar
 
-mark of the beast (Rev 13:16, 17) in the end times. 
+mark of the beast ([[REV.13:16]], [[REV.13:17]]) in the end times. 
 
 ### 2:31
 *(anchor: 3MA.2:31)*
@@ -353,7 +353,7 @@ Such an unusual command can only demonstrate Ptolemy's irrational rage at the
 
 Jews. Recall that at the time of the Nativity of Christ, the Jews were called to be
 
-registered and enrolled, each with his own tribe (Lk 2:1-4). 
+registered and enrolled, each with his own tribe ([[LUK.2:1]]-4). 
 
 ### 4:15
 *(anchor: 3MA.4:15)*
@@ -394,7 +394,7 @@ might not later suffer the effects of inebriation.
 ### 5:7
 *(anchor: 3MA.5:7)*
 
-References to God as Father exist several times in the Old Testament (2:21; Ps 88:26; Tb 13:4; WSol 2:16; WSir 23:4; 2Ez 1:29). 
+References to God as Father exist several times in the Old Testament (2:21; [[PSA.88:26]]; Tb 13:4; WSol 2:16; WSir 23:4; 2Ez 1:29). 
 
 ### 5:11
 *(anchor: 3MA.5:11)*
@@ -488,7 +488,7 @@ The Jews have bade each other farewell (v. 49), but still call on the Lord for h
 
 even against all odds and cry out for mercy. In the Gospels, there are seven instances of
 
-someone calling on Jesus for mercy (Mt 9:27; 15:22; 17:15; 20:30, 31; Mk 10:47, 48; Lk
+someone calling on Jesus for mercy ([[MAT.9:27]]; 15:22; 17:15; 20:30, 31; [[MRK.10:47]], [[MRK.10:48]]; Lk
 
 17:13; 18:38, 39). In every case, they receive it. 
 
@@ -504,7 +504,7 @@ earlier prayer (see notes on 2:1-20).
 
 Eleazar likens Israel to that portion of the sacrifices which was set aside for Aaron
 
-and his sons (the priests) as their perpetual due from Israel (Lv 7:34, 35; Nm 18:8-18). The Jews have become the inheritance of the Lord (Ps 27:9; 32:12; Is 19:25). More than a
+and his sons (the priests) as their perpetual due from Israel (Lv 7:34, 35; [[NUM.18:8]]-18). The Jews have become the inheritance of the Lord ([[PSA.27:9]]; 32:12; Is 19:25). More than a
 
 chosen nation, they have been set apart for holiness. Sennacherib (v. 5) was the king of
 
@@ -514,7 +514,7 @@ when, at the supplication of Israel, God sent an angel who in one night slew 185
 
 Sennacherib's forces, sending him home to Nineveh in humiliation and defeat. He was
 
-assassinated shortly afterwards (4Kg 18:13; 19:35-37; WSir 48:18-21). 
+assassinated shortly afterwards ([[2KI.18:13]]; 19:35-37; WSir 48:18-21). 
 
 ### 6:6
 *(anchor: 3MA.6:6)*
@@ -590,7 +590,7 @@ The Jews are being given the seat of honor at feasts in honor of their deliveran
 
 Ode of their fathers: Undoubtedly a psalm or the song of the three young men in
 
-the fiery furnace (Dan 3:23-91). This would have become a regular feature in Jewish
+the fiery furnace ([[DAN.3:23]]-91). This would have become a regular feature in Jewish
 
 liturgical practice. How much more appropriate at such a celebration--and everyone
 
@@ -599,7 +599,7 @@ would know the words!
 ### 6:35
 *(anchor: 3MA.6:35)*
 
-See Col 3:16; Jam 5:13. 
+See [[COL.3:16]]; [[JAS.5:13]]. 
 
 ### 6:38
 *(anchor: 3MA.6:38)*
@@ -639,14 +639,14 @@ The Scythians were infamous for their savagery and brutality.
 
 God the most High: Another ancient way of referring to the God of Israel, and one
 
-frequently used in localities where non-Jews abound (see Gn 14:19-22; Dan 3:26; Mk 5:7; Lk 8:28; Acts 16:17). 
+frequently used in localities where non-Jews abound (see [[GEN.14:19]]-22; [[DAN.3:26]]; [[MRK.5:7]]; [[LUK.8:28]]; [[ACT.16:17]]). 
 
 ### 7:10
 *(anchor: 3MA.7:10)*
 
 While living under Gentile dominion, the Jews had to ask permission of the king to
 
-enforce their own laws with regard to putting someone to death (see Jn 18:31). 
+enforce their own laws with regard to putting someone to death (see [[JOH.18:31]]). 
 
 ### 7:13
 *(anchor: 3MA.7:13)*

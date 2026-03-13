@@ -1,0 +1,30 @@
+{
+  "anchor_id": "MAL.1:11",
+  "canon_uri": "canon/OT/MAL.md#MAL.1:11",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1235,
+      "raw_match": "[[MAL.1:11]]",
+      "reference_type": "wikilink",
+      "context": "be offered \"in every place . . . among the Gentiles\" ([[MAL.1:11]]); (4) brought by the Magi as a"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 2319,
+      "raw_match": "[[MAL.1:11]]",
+      "reference_type": "wikilink",
+      "context": "the offering of worship by the Gentiles ([[MAL.1:11]]). Incense was brought to Christ as a gift"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1550,
+      "raw_match": "[[MAL.1:11]]",
+      "reference_type": "wikilink",
+      "context": "among the Gentile nations ([[MAL.1:11]]). This continues to be fulfilled in the Church. One of"
+    }
+  ]
+}

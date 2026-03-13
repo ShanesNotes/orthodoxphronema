@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2CH.7:1",
+  "canon_uri": "canon/OT/2CH.md#2CH.7:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2MA_footnotes.md",
+      "line_number": 111,
+      "raw_match": "[[2CH.7:1]]",
+      "reference_type": "wikilink",
+      "context": "The two incidents are recorded in Lv 9:23, 24 and [[2CH.7:1]]."
+    }
+  ]
+}

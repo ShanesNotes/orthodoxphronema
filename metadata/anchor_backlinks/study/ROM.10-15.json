@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ROM.10:15",
+  "canon_uri": "canon/NT/ROM.md#ROM.10:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/NAH_footnotes.md",
+      "line_number": 63,
+      "raw_match": "[[ROM.10:15]]",
+      "reference_type": "wikilink",
+      "context": "The good tidings are the gospel of peace, preached by the apostles. See [[ROM.10:15]]."
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 639,
+      "raw_match": "[[ROM.10:15]]",
+      "reference_type": "wikilink",
+      "context": "beauty of the feet of those who preach the gospel of peace (Is 52:7; [[ROM.10:15]]). The"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ROM.10:18",
+  "canon_uri": "canon/NT/ROM.md#ROM.10:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1709,
+      "raw_match": "[[ROM.10:18]]",
+      "reference_type": "wikilink",
+      "context": "[[ROM.10:18]]. This word corrects by amplifying, not by negating."
+    }
+  ]
+}

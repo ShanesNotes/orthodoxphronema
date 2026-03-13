@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ACT.17:31",
+  "canon_uri": "canon/NT/ACT.md#ACT.17:31",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1747,
+      "raw_match": "[[ACT.17:31]]",
+      "reference_type": "wikilink",
+      "context": "He judges the fallen world in righteousness (vv. 8-23; see also [[ACT.17:31]]), at which time"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.33:53",
+  "canon_uri": "canon/OT/NUM.md#NUM.33:53",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2485,
+      "raw_match": "[[NUM.33:51]]-56",
+      "reference_type": "wikilink_range",
+      "context": "punishment, destruction, and devastation (see [[NUM.33:51]]-56; Is 52:11; [[JER.27:8]]; 28:6, 46)."
+    }
+  ]
+}

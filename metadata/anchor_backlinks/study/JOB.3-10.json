@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOB.3:10",
+  "canon_uri": "canon/OT/JOB.md#JOB.3:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/ECC_footnotes.md",
+      "line_number": 137,
+      "raw_match": "[[JOB.3:10]]-16",
+      "reference_type": "wikilink_range",
+      "context": "never been born to see such sorrow ([[JOB.3:10]]-16). But Christ has sent a comforter, the"
+    }
+  ]
+}

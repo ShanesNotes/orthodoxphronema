@@ -1,0 +1,30 @@
+{
+  "anchor_id": "ZEC.14:7",
+  "canon_uri": "canon/OT/ZEC.md#ZEC.14:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3831,
+      "raw_match": "[[ZEC.14:7]]",
+      "reference_type": "wikilink",
+      "context": "Darkness: See [[ZEC.14:6]], [[ZEC.14:7]]; [[AMO.8:9]]."
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 727,
+      "raw_match": "[[ZEC.14:7]]",
+      "reference_type": "wikilink",
+      "context": "Darkness: See [[ZEC.14:6]], [[ZEC.14:7]]; [[AMO.8:9]]."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2079,
+      "raw_match": "[[ZEC.14:2]]-12",
+      "reference_type": "wikilink_range",
+      "context": "the Gentiles (Joel 4:2, 12; [[ZEC.14:2]]-12; see also 1En 5:31). The absurdly large amount of"
+    }
+  ]
+}

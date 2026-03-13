@@ -1,0 +1,44 @@
+{
+  "anchor_id": "HEB.13:12",
+  "canon_uri": "canon/NT/HEB.md#HEB.13:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2075,
+      "raw_match": "[[HEB.13:12]]",
+      "reference_type": "wikilink",
+      "context": "bloodshed (the crucifixion, [[HEB.13:12]]; the martyrdom of Stephen, [[ACT.7:58]]-60) that took"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 1449,
+      "raw_match": "[[HEB.13:12]]-14",
+      "reference_type": "wikilink_range",
+      "context": "earthly Jerusalem to find Him in the heavenly Jerusalem ([[HEB.13:12]]-14; AmbM)."
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 284,
+      "raw_match": "[[HEB.13:12]]",
+      "reference_type": "wikilink",
+      "context": "([[HEB.13:11]], [[HEB.13:12]]). Jesus said, \"For if you believed Moses, you would believe Me; for he"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 773,
+      "raw_match": "[[HEB.13:12]]",
+      "reference_type": "wikilink",
+      "context": "camp for us: \"Therefore Jesus also, that He might sanctify the people with His own blood, suffered outside the gate\" ([[HEB.13:12]])."
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 988,
+      "raw_match": "[[HEB.13:11]]-13",
+      "reference_type": "wikilink_range",
+      "context": "the camp, bearing His reproach\" ([[HEB.13:11]]-13)."
+    }
+  ]
+}

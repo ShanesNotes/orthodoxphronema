@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.21:29",
+  "canon_uri": "canon/OT/NUM.md#NUM.21:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JDG_footnotes.md",
+      "line_number": 437,
+      "raw_match": "[[NUM.21:29]]",
+      "reference_type": "wikilink",
+      "context": "Chemosh of Moab ([[NUM.21:29]]; 25:3; 3Kg 11:7, 33), Melek (Molech, Milcom) of Ammon"
+    }
+  ]
+}

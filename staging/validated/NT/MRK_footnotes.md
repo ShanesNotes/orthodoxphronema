@@ -12,7 +12,7 @@ status: staging
 ### 1:6
 *(anchor: MRK.1:6)*
 
-John is clothed in a manner similar to that of Elijah (4Kg 1:8), which helps to show
+John is clothed in a manner similar to that of Elijah ([[2KI.1:8]]), which helps to show
 
 that he fulfills the prophecy of Elijah's return (see article "John the Baptist").
 
@@ -24,7 +24,7 @@ Mark's written emphasis on John being put in prison before Jesus begins
 
 preaching reveals that a key purpose of the old covenant--to prepare the people for
 
-Christ--had been completed (Gal 4:1-5). Once Christ came, the time of preparation was
+Christ--had been completed ([[GAL.4:1]]-5). Once Christ came, the time of preparation was
 
 fulfilled. To repent is to do a total "about-face." The word in Greek literally means to
 
@@ -36,7 +36,7 @@ heart--a complete reorientation to a life centered in Christ.
 ### 1:16-20
 *(anchor: MRK.1:16)*
 
-On the calling of the first disciples, see notes at Mt 4:18-22.
+On the calling of the first disciples, see notes at [[MAT.4:18]]-22.
 
 
 ### 1:21
@@ -70,7 +70,7 @@ then will we be equipped to serve others.
 ### 1:40-45
 *(anchor: MRK.1:40)*
 
-On the cleansing of the leper, see notes at Mt 8:1-4 and Lk 5:12-16.
+On the cleansing of the leper, see notes at [[MAT.8:1]]-4 and [[LUK.5:12]]-16.
 
 
 ### 3:5
@@ -78,9 +78,9 @@ On the cleansing of the leper, see notes at Mt 8:1-4 and Lk 5:12-16.
 
 Righteous anger is a natural human emotion experienced in the face of sin. While
 
-there is anger that is certainly sinful (Mt 5:22), there is also anger that is God-given and
+there is anger that is certainly sinful ([[MAT.5:22]]), there is also anger that is God-given and
 
-proper to humanity (Ps 4:4). Christ's anger here is in response to people professing God,
+proper to humanity ([[PSA.4:4]]). Christ's anger here is in response to people professing God,
 
 yet having such hardness in their hearts that they could not rejoice in the healing of
 
@@ -98,13 +98,13 @@ was not time for Him to die) and in order to preach in other places.
 ### 3:13-19
 *(anchor: MRK.3:13)*
 
-On the twelve disciples, see note at Mt 10:1-4.
+On the twelve disciples, see note at [[MAT.10:1]]-4.
 
 
 ### 3:28-30
 *(anchor: MRK.3:28)*
 
-On the blasphemy against the Holy Spirit, see note at Mt 12:32.
+On the blasphemy against the Holy Spirit, see note at [[MAT.12:32]].
 
 
 ### 4:2
@@ -118,7 +118,7 @@ Parables: See the article "Parables" at Mt 13.
 
 In this parable, our Lord reveals Himself as the promised Messiah, the sower,
 
-who had been foretold in Is 55:10-13. See also note at Lk 8:5-15.
+who had been foretold in Is 55:10-13. See also note at [[LUK.8:5]]-15.
 
 
 ### 4:24
@@ -130,7 +130,7 @@ hear, but hear properly. More will be given to those who respond to Christ with 
 
 hearts; they will grow in understanding. "Do the good you know, and what you do not
 
-know will be revealed to you" (MkAsc). See also note at Mt 7:2.
+know will be revealed to you" (MkAsc). See also note at [[MAT.7:2]].
 
 
 ### 4:26-29
@@ -164,11 +164,11 @@ stories using common images reveal truth in ways they can grasp, as they were ab
 
 The country of the Gadarenes was in Galilee, an area with many Gentiles living
 
-among the Jews (see also note at Mt 4:15). Gentile influence on the Jews caused many of
+among the Jews (see also note at [[MAT.4:15]]). Gentile influence on the Jews caused many of
 
 them to take on Gentile practices, such as raising swine (v. 11), forbidden by the Law (Dt
 
-14:8). For more on this miracle, see notes at Mt 8:28-34 and Lk 8:33.
+14:8). For more on this miracle, see notes at [[MAT.8:28]]-34 and [[LUK.8:33]].
 
 
 ### 5:25-29
@@ -190,7 +190,7 @@ sin.
 ### 5:41
 *(anchor: MRK.5:41)*
 
-On Christ raising the dead, see note at Lk 7:11-17.
+On Christ raising the dead, see note at [[LUK.7:11]]-17.
 
 
 ### 6:5-6
@@ -208,11 +208,11 @@ those who receive it in faith obtain its benefits.
 
 Anointing the sick with oil has not only medicinal value but sacramental value as
 
-well. As God's healing power is bestowed through creation (5:27; Nm 21:8, 9; 4Kg 13:21;
+well. As God's healing power is bestowed through creation (5:27; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:21]];
 
-Jn 9:6, 7; Acts 5:15; 19:11, 12), so oil is a vehicle of God's mercy and healing in the Church
+[[JOH.9:6]], [[JOH.9:7]]; [[ACT.5:15]]; 19:11, 12), so oil is a vehicle of God's mercy and healing in the Church
 
-(Jam 5:14).
+([[JAS.5:14]]).
 
 
 ### 6:14
@@ -236,7 +236,7 @@ Elijah was expected to return and work signs before the second coming of the Lor
 
 (Mal 4:5). The Prophet is interpreted by some to be a reference to the Messiah, the One
 
-whom Moses foretold (Dt 18:15), while others interpret it as simply meaning a new
+whom Moses foretold ([[DEU.18:15]]), while others interpret it as simply meaning a new
 
 prophet had arisen.
 
@@ -312,7 +312,7 @@ also 5:25-29).
 
 The issue here is not the observation of Jewish customs or traditions, which Jesus
 
-certainly does not prohibit (Mt 5:17-19; 23:23). At issue is setting human tradition
+certainly does not prohibit ([[MAT.5:17]]-19; 23:23). At issue is setting human tradition
 
 contrary to the tradition of God (v. 8). The tradition of the elders (v. 3) is a body of
 
@@ -360,19 +360,19 @@ even if they do not want us to.
 ### 8:15
 *(anchor: MRK.8:15)*
 
-The leaven of the Pharisees is their doctrine (Mt 16:12) and their hypocrisy (Lk
+The leaven of the Pharisees is their doctrine ([[MAT.16:12]]) and their hypocrisy (Lk
 
-12:1). In Scripture, leaven is used both positively (as in Mt 13:33) and negatively, as it is
+12:1). In Scripture, leaven is used both positively (as in [[MAT.13:33]]) and negatively, as it is
 
 here. In either case, leaven symbolizes a force powerful enough (and often subtle
 
-enough) to permeate and affect everything around it (see 1Co 5:6-8).
+enough) to permeate and affect everything around it (see [[1CO.5:6]]-8).
 
 
 ### 8:22-26
 *(anchor: MRK.8:22)*
 
-The people of Bethsaida were unbelieving (Mt 11:21); thus, Jesus leads the blind
+The people of Bethsaida were unbelieving ([[MAT.11:21]]); thus, Jesus leads the blind
 
 man out of the town to heal him, so that the people would not scoff at the miracle and
 
@@ -398,7 +398,7 @@ as to those in every generation who will experience the presence of God's kingdo
 ### 9:2-13
 *(anchor: MRK.9:2)*
 
-On the Transfiguration, see note at Lk 9:31, and the article "The Transfiguration" at
+On the Transfiguration, see note at [[LUK.9:31]], and the article "The Transfiguration" at
 
 Mt 17.
 
@@ -406,7 +406,7 @@ Mt 17.
 ### 9:13
 *(anchor: MRK.9:13)*
 
-Elijah: See Mt 17:13.
+Elijah: See [[MAT.17:13]].
 
 
 ### 9:30-32
@@ -448,11 +448,11 @@ The restoration of sight to the blind (vv. 51, 52) was a sign expected to be
 
 performed by the Messiah (Is 29:18; 35:4, 5), a power God had reserved for Himself
 
-(compare Jn 9:32). Son of David (vv. 47, 48) was a messianic title, showing that
+(compare [[JOH.9:32]]). Son of David (vv. 47, 48) was a messianic title, showing that
 
 Bartimaeus (v. 46) had faith that Jesus was the Christ.
 
-The Fathers give a spiritual interpretation to this miracle as well. Jericho was a lowlying city associated with sin (Lk 10:30; 19:1); here it symbolizes fallen humanity. Christ
+The Fathers give a spiritual interpretation to this miracle as well. Jericho was a lowlying city associated with sin ([[LUK.10:30]]; 19:1); here it symbolizes fallen humanity. Christ
 
 passing through Jericho is an image of His Incarnation. The Lord restoring sight to
 
@@ -470,11 +470,11 @@ It was not the season for figs means that this fig tree had sprouted an early
 
 full foliage, indicating a first crop, but without bearing any fruit. Jesus, finding not even
 
-one fig, condemns it. In Scripture a fig tree is often a symbol of Israel (Hos 9:10). Her
+one fig, condemns it. In Scripture a fig tree is often a symbol of Israel ([[HOS.9:10]]). Her
 
 fruitfulness has ceased, so the Kingdom will be taken from her and given to another
 
-people, who are called to bear spiritual fruit (see Mt 21:43; Gal 5:22, 23; see note at Mt
+people, who are called to bear spiritual fruit (see [[MAT.21:43]]; [[GAL.5:22]], [[GAL.5:23]]; see note at Mt
 
 21:19).
 
@@ -486,7 +486,7 @@ The cursing and withering of the fig tree is a prophetic act signifying the
 
 judgment of Israel. The disciples need to learn that the old covenant with Israel is
 
-becoming "obsolete" and will "vanish away" (Heb 8:13). They will establish His Church,
+becoming "obsolete" and will "vanish away" ([[HEB.8:13]]). They will establish His Church,
 
 ultimately to be filled with Gentiles and Jews, and need assurance that they are following
 
@@ -504,7 +504,7 @@ great gift, having kept nothing for herself. Those who give out of their abundan
 
 44) but keep plenty for themselves are counted by God to have given very little. In the
 
-conversion of Cornelius, we learn that God takes note of our giving (Acts 10:4).
+conversion of Cornelius, we learn that God takes note of our giving ([[ACT.10:4]]).
 
 13:1, 2 Christ's prophecy of the destruction of the temple was fulfilled in AD 70, when the
 
@@ -540,15 +540,15 @@ that believers should not be so brazen as to inquire of Him.
 
 The Feast of Unleavened Bread begins with the Passover meal on the evening of
 
-15 Nisan (on the Jewish calendar) and lasts seven days (Ex 12:12-20). Together, these
+15 Nisan (on the Jewish calendar) and lasts seven days ([[EXO.12:12]]-20). Together, these
 
 feasts commemorate Israel's liberation from slavery in Egypt. The word Passover refers
 
 to the angel of death "passing over" Hebrew homes when killing the firstborn of the
 
-Egyptians, for the Jews had put lamb's blood on their doorposts (Ex 12:13). Unleavened
+Egyptians, for the Jews had put lamb's blood on their doorposts ([[EXO.12:13]]). Unleavened
 
-bread is a reminder of the haste with which the Hebrews left Egypt (Ex 12:39). This
+bread is a reminder of the haste with which the Hebrews left Egypt ([[EXO.12:39]]). This
 
 Passover was fulfilled in Christ, whose blood was shed to free humanity from bondage to
 
@@ -562,9 +562,9 @@ Judas on his own initiative seeks to betray Jesus. His motives have been debated
 
 but the Fathers and the liturgical hymns declare that greed was his underlying motive.
 
-This is revealed in Jn 12:4-6, where Judas was particularly upset about the "waste" of
+This is revealed in [[JOH.12:4]]-6, where Judas was particularly upset about the "waste" of
 
-myrrh in the preceding story because he was a thief (see also 1Ti 6:10). The betrayal by
+myrrh in the preceding story because he was a thief (see also [[1TI.6:10]]). The betrayal by
 
 Judas is remembered specifically on Holy Wednesday, as many of the liturgical hymns
 
@@ -580,7 +580,7 @@ Savior through our sinfulness.
 ### 14:13
 *(anchor: MRK.14:13)*
 
-The two disciples are Peter and John (Lk 22:8).
+The two disciples are Peter and John ([[LUK.22:8]]).
 
 
 ### 14:20
@@ -590,7 +590,7 @@ Christ emphasizes both that His betrayer is one of the twelve and that he is one
 
 who dips with Me in the dish not so much to identify the person as to emphasize the
 
-level of betrayal, that this was one of His closest friends (see Ps 54:13-15).
+level of betrayal, that this was one of His closest friends (see [[PSA.54:13]]-15).
 
 
 ### 14:21
@@ -616,21 +616,21 @@ meal (Ps 114-117).
 
 Abba in Aramaic is the familiar form for Father, equivalent to "Papa," indicating
 
-Christ's intimacy with God the Father. See also note at Mt 26:39.
+Christ's intimacy with God the Father. See also note at [[MAT.26:39]].
 
 
 ### 14:51-52
 *(anchor: MRK.14:51)*
 
-To flee naked is a great shame and humiliation (Ezk 16:39; Am 2:16). Some
+To flee naked is a great shame and humiliation ([[EZK.16:39]]; [[AMO.2:16]]). Some
 
-teach this young man was James, the brother of the Lord (Gal 1:19), while others say
+teach this young man was James, the brother of the Lord ([[GAL.1:19]]), while others say
 
 that it was the apostle John, the youngest of the twelve. Most others believe this was
 
 Mark, the author of this Gospel, as it was a common literary device for a writer not to give
 
-his own name (see Lk 24:13; Jn 21:24). The other evangelists do not report this incident.
+his own name (see [[LUK.24:13]]; [[JOH.21:24]]). The other evangelists do not report this incident.
 
 They would not have been inclined to humiliate Mark, whereas Mark would have been
 
@@ -644,7 +644,7 @@ I am (Gr. ego eimi) is the divine Name of God; its use indicates a theophany, or
 
 revelation of God Himself. The use of this Name by a mere man was considered
 
-blasphemy and was punishable by death (Lv 24:16; see Jn 8:58). However, because Jesus
+blasphemy and was punishable by death (Lv 24:16; see [[JOH.8:58]]). However, because Jesus
 
 is fully God, His use of this Name cannot be blasphemy, but reveals His unity with the
 
@@ -676,7 +676,7 @@ the chief priests had to come up with a political crime that would guarantee the
 
 penalty. Thus, they accused Jesus of making Himself an earthly king, which would be
 
-treason (see note at Jn 19:7-12).
+treason (see note at [[JOH.19:7]]-12).
 
 
 ### 15:3-5
@@ -710,7 +710,7 @@ is that we, like Simon (whose name means "obedience"), are not only called to ca
 
 cross Christ sets on us, but seeing Christ in others, we are called to bear each other's
 
-burdens as well (Gal 6:2).
+burdens as well ([[GAL.6:2]]).
 
 
 ### 15:27-28
@@ -724,7 +724,7 @@ Christ being crucified between two robbers not only fulfills the Scripture (v.
 ### 15:33
 *(anchor: MRK.15:33)*
 
-Darkness: See Zec 14:6, 7; Am 8:9.
+Darkness: See [[ZEC.14:6]], [[ZEC.14:7]]; [[AMO.8:9]].
 
 
 ### 15:39
@@ -740,13 +740,13 @@ acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos
 
 The faithfulness of the women shows that in Christ, divine order is being
 
-restored to the fallen world. Whereas Eve was created to complete Adam (Gn 2:18), but
+restored to the fallen world. Whereas Eve was created to complete Adam ([[GEN.2:18]]), but
 
-instead led him to sin (Gn 3:6), now the women disciples remain faithful while the men
+instead led him to sin ([[GEN.3:6]]), now the women disciples remain faithful while the men
 
 flee and hide. It is the women who bring the message of the Resurrection to the men
 
-(16:9-11; Lk 24:9-11), thus restoring that which had been broken through sin.
+(16:9-11; [[LUK.24:9]]-11), thus restoring that which had been broken through sin.
 
 
 ### 16:4
@@ -754,7 +754,7 @@ flee and hide. It is the women who bring the message of the Resurrection to the 
 
 The stone had been rolled away not to accommodate the Lord's exit from the
 
-tomb, for in His resurrected body, He needs no such accommodation (Jn 20:19). Rather,
+tomb, for in His resurrected body, He needs no such accommodation ([[JOH.20:19]]). Rather,
 
 this was to allow the witnesses--and us--to look in and see that the tomb was empty.
 
@@ -804,22 +804,22 @@ other times He was not.
 
 New tongues refers to the ability to speak in languages that one has not learned in
 
-order to edify others in worship (1Co 14) and to preach the gospel (Acts 2:1-11).
+order to edify others in worship (1Co 14) and to preach the gospel ([[ACT.2:1]]-11).
 
 
 ### 16:18
 *(anchor: MRK.16:18)*
 
-To take up serpents refers primarily to spiritual battle against demons (Lk 10:19).
+To take up serpents refers primarily to spiritual battle against demons ([[LUK.10:19]]).
 
 Thus, Christ is promising to deliver believers from the powers of sin. Furthermore, this
 
 would include certain physical protection as well. St. Paul was bitten by a serpent and
 
-suffered no harm (Acts 28:3-6), and according to tradition, Barsabas Justus (Acts 1:23)
+suffered no harm ([[ACT.28:3]]-6), and according to tradition, Barsabas Justus ([[ACT.1:23]])
 
 was forced by unbelievers to drink poison and survived. Nevertheless, while God's grace
 
 can protect believers from both physical and spiritual harm, to test God by deliberately
 
-committing harmful acts against oneself is a grave sin (Dt 6:16; Mt 4:7).
+committing harmful acts against oneself is a grave sin ([[DEU.6:16]]; [[MAT.4:7]]).

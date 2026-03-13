@@ -1,0 +1,23 @@
+{
+  "anchor_id": "GEN.17:11",
+  "canon_uri": "canon/OT/GEN.md#GEN.17:11",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 317,
+      "raw_match": "[[GEN.17:10]]-14",
+      "reference_type": "wikilink_range",
+      "context": "became a member of God's community ([[GEN.17:10]]-14; Lv 12:3). In Christ, circumcision is"
+    },
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 159,
+      "raw_match": "[[GEN.17:9]]-14",
+      "reference_type": "wikilink_range",
+      "context": "through faith in the promise of the Gospel ([[GEN.17:9]]-14). This was a sign for the Gentiles"
+    }
+  ]
+}

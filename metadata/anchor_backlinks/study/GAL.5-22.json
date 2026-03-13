@@ -1,0 +1,51 @@
+{
+  "anchor_id": "GAL.5:22",
+  "canon_uri": "canon/NT/GAL.md#GAL.5:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 361,
+      "raw_match": "[[GAL.5:22]]-25",
+      "reference_type": "wikilink_range",
+      "context": "life consistent with the Kingdom of God (see [[GAL.5:22]]-25). If a fruitful life does not"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1599,
+      "raw_match": "[[GAL.5:22]]",
+      "reference_type": "wikilink",
+      "context": "20:19), and that would be revealed as a fruit of the Holy Spirit ([[GAL.5:22]]). To this day,"
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 477,
+      "raw_match": "[[GAL.5:22]]",
+      "reference_type": "wikilink",
+      "context": "people, who are called to bear spiritual fruit (see [[MAT.21:43]]; [[GAL.5:22]], [[GAL.5:23]]; see note at Mt"
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1482,
+      "raw_match": "[[GAL.5:22]]",
+      "reference_type": "wikilink",
+      "context": "Eternal gladness or joy is one of the fruits of the Spirit ([[GAL.5:22]], [[GAL.5:23]]). The \"seal of"
+    },
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 780,
+      "raw_match": "[[GAL.5:19]]-23",
+      "reference_type": "wikilink_range",
+      "context": "he knows how to be quiet. Self-control is a \"fruit of the Spirit\" ([[GAL.5:19]]-23). But the"
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 250,
+      "raw_match": "[[GAL.5:22]]",
+      "reference_type": "wikilink",
+      "context": "virtues here are similar to those in [[GAL.5:22]], [[GAL.5:23]]. 8:8"
+    }
+  ]
+}

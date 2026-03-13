@@ -1,0 +1,37 @@
+{
+  "anchor_id": "GAL.2:12",
+  "canon_uri": "canon/NT/GAL.md#GAL.2:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1091,
+      "raw_match": "[[GAL.2:12]]",
+      "reference_type": "wikilink",
+      "context": "receive salvation (see 15:1; [[GAL.2:12]]). These Jewish Christians also advocated separation"
+    },
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1457,
+      "raw_match": "[[GAL.2:12]]",
+      "reference_type": "wikilink",
+      "context": "See 11:2; [[GAL.2:12]]."
+    },
+    {
+      "source_file": "staging/validated/OT/JDT_footnotes.md",
+      "line_number": 336,
+      "raw_match": "[[GAL.2:12]]",
+      "reference_type": "wikilink",
+      "context": "later found among the Pharisees ([[GAL.2:12]]). 12:5"
+    },
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 555,
+      "raw_match": "[[GAL.2:12]]",
+      "reference_type": "wikilink",
+      "context": "believers (see [[ACT.11:2]]; 15:1; [[GAL.2:12]])."
+    }
+  ]
+}

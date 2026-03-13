@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.38:13",
+  "canon_uri": "canon/OT/PSA.md#PSA.38:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 19,
+      "raw_match": "[[PSA.38:13]]",
+      "reference_type": "wikilink",
+      "context": "2:11; [[GEN.23:4]]; [[PSA.38:13]]; [[HEB.11:13]]), for they are citizens of the heavenly world to come"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOB.2:13",
+  "canon_uri": "canon/OT/JOB.md#JOB.2:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1975,
+      "raw_match": "[[JOB.2:13]]",
+      "reference_type": "wikilink",
+      "context": "posture when mourning and receiving other mourners ([[JOB.2:8]], [[JOB.2:13]]; [[EZK.8:14]])."
+    }
+  ]
+}

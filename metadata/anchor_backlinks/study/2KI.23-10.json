@@ -1,0 +1,30 @@
+{
+  "anchor_id": "2KI.23:10",
+  "canon_uri": "canon/OT/2KI.md#2KI.23:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1657,
+      "raw_match": "[[2KI.23:10]]",
+      "reference_type": "wikilink",
+      "context": "these practices ([[2KI.23:10]]). By Christ's time, the valley had become a garbage dump that"
+    },
+    {
+      "source_file": "staging/validated/OT/BAR_footnotes.md",
+      "line_number": 83,
+      "raw_match": "[[2KI.23:10]]",
+      "reference_type": "wikilink",
+      "context": "; 4:10; [[EZK.5:10]]; [[2KI.23:10]]; [[DEU.28:53]]). 2:5"
+    },
+    {
+      "source_file": "staging/validated/OT/JER_footnotes.md",
+      "line_number": 264,
+      "raw_match": "[[2KI.23:10]]",
+      "reference_type": "wikilink",
+      "context": "Tophet: The place where children were being sacrificed to Molech ([[2KI.23:10]]). The"
+    }
+  ]
+}

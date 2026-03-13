@@ -73,7 +73,7 @@ tortured and killed (v. 50).
 ### 1:54
 *(anchor: 1MA.1:54)*
 
-Inside the temple, Antiochus erected the abomination of desolation (Dan 9:27), either a statue of Zeus sculpted in the likeness of the emperor or some cultic stones. Until
+Inside the temple, Antiochus erected the abomination of desolation ([[DAN.9:27]]), either a statue of Zeus sculpted in the likeness of the emperor or some cultic stones. Until
 
 that time, the temple had been the focal point of the Jewish nation and faith. Jews made
 
@@ -136,7 +136,7 @@ of Judea and could remain unmolested for a time.
 ### 2:32-38
 *(anchor: 1MA.2:32)*
 
-It was forbidden for Jews to fight on the Sabbath (Ex 31:12-18), and Antiochus'
+It was forbidden for Jews to fight on the Sabbath ([[EXO.31:12]]-18), and Antiochus'
 
 soldiers took full advantage of this fact (v. 38). 
 
@@ -149,7 +149,7 @@ defend themselves on the Sabbath. In a truly radical statement for their day, th
 
 Maccabees foreshadowed Jesus' words, "The Sabbath was made for man, and not man for
 
-the Sabbath" (Mk 2:27). 
+the Sabbath" ([[MRK.2:27]]). 
 
 ### 2:42-48
 *(anchor: 1MA.2:42)*
@@ -256,7 +256,7 @@ elephants.
 
 Some of the Jewish forces remaining in Judea barely held out for lack of food. God
 
-had commanded them to leave the earth fallow every seventh year (Ex 23:10, 11), so
+had commanded them to leave the earth fallow every seventh year ([[EXO.23:10]], [[EXO.23:11]]), so
 
 they had little surplus. 
 
@@ -348,7 +348,7 @@ Dagon (lit. "a fish") was one of the gods of the Philistines, a seafaring people
 
 was represented by a man's torso with the tail of a fish. Dagon had two temples
 
-mentioned in the Bible, one at Gaza (Jdg 16:21-30) and one at Ashdod (1Kg 5:5; 1Ch
+mentioned in the Bible, one at Gaza ([[JDG.16:21]]-30) and one at Ashdod (1Kg 5:5; 1Ch
 
 10:10). 
 

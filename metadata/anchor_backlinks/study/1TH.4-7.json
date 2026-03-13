@@ -1,0 +1,16 @@
+{
+  "anchor_id": "1TH.4:7",
+  "canon_uri": "canon/NT/1TH.md#1TH.4:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 716,
+      "raw_match": "[[1TH.4:7]]",
+      "reference_type": "wikilink",
+      "context": "eyes of God. \"God did not call us to uncleanness, but to holiness\" ([[1TH.4:7]])."
+    }
+  ]
+}

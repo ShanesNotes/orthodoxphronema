@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EZK.18:20",
+  "canon_uri": "canon/OT/EZK.md#EZK.18:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1569,
+      "raw_match": "[[EZK.18:19]]-21",
+      "reference_type": "wikilink_range",
+      "context": "parents (see [[EXO.20:5]]; [[DEU.5:9]]; contrast [[EZK.18:19]]-21). Though suffering can be the direct"
+    }
+  ]
+}

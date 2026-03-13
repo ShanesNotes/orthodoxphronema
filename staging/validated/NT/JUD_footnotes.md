@@ -14,7 +14,7 @@ status: staging
 
 Preserved in Jesus Christ is a promise of God to all faithful. But not all are so
 
-faithful, as Jude will relate in this letter (see Jn 10:27-30; 2Ti 1:12; Heb 12:2).
+faithful, as Jude will relate in this letter (see [[JOH.10:27]]-30; [[2TI.1:12]]; [[HEB.12:2]]).
 
 
 ### 1:3
@@ -32,7 +32,7 @@ once for all delivered to the saints; it cannot be changed.
 ### 1:4
 *(anchor: JUD.1:4)*
 
-This condemnation involves body and soul (see Jn 5:29). Only Lord God is better
+This condemnation involves body and soul (see [[JOH.5:29]]). Only Lord God is better
 
 translated "only Sovereign" (Gr. despotes).
 
@@ -50,7 +50,7 @@ three arresting examples of the danger of departing from truth and righteousness
 
 but not all responded to their deliverance with ongoing deeds of repentance and godliness
 
-(Nm 14:26-37; see 1Co 10:1-13). The lesson for us as Christians is to keep walking in our
+([[NUM.14:26]]-37; see [[1CO.10:1]]-13). The lesson for us as Christians is to keep walking in our
 
 union with Christ.
 
@@ -60,7 +60,7 @@ Their own abode is heaven, though they may serve elsewhere. Those who left their
 
 proper place are confined far from God, having become bound to spiritual darkness. They
 
-await the judgment (see 2Pt 2:4), when bonds with God will be demolished forever. The
+await the judgment (see [[2PE.2:4]]), when bonds with God will be demolished forever. The
 
 lesson for Christians is that their proper domain is in being children of God by grace, and
 
@@ -68,7 +68,7 @@ their own abode is in the one holy Church.
 
 (3) The men in the plains around Sodom and Gomorrah lusted after angels because
 
-of their sin of immorality and homosexuality (Gn 19:1-29). The lesson for Christians is to
+of their sin of immorality and homosexuality ([[GEN.19:1]]-29). The lesson for Christians is to
 
 live under God's call to a chaste and pure life.
 
@@ -76,11 +76,11 @@ live under God's call to a chaste and pure life.
 ### 1:8
 *(anchor: JUD.1:8)*
 
-Authority (lit., "lordships"; also translated "dominion"; see Eph 1:21; Col 1:16) and
+Authority (lit., "lordships"; also translated "dominion"; see [[EPH.1:21]]; [[COL.1:16]]) and
 
 dignitaries (lit., "glories") refer to angels, perhaps in this case to fallen angels (see the
 
-parallel in 2Pt 2:10). Although, they are hostile to God, they are nonetheless to be treated
+parallel in [[2PE.2:10]]). Although, they are hostile to God, they are nonetheless to be treated
 
 dispassionately.
 
@@ -88,15 +88,15 @@ dispassionately.
 ### 1:9
 *(anchor: JUD.1:9)*
 
-Apparently from the apocryphal book The Assumption of Moses (see Dt 34:5, 6 for the
+Apparently from the apocryphal book The Assumption of Moses (see [[DEU.34:5]], [[DEU.34:6]] for the
 
-possibility of the assumption of Moses; also Zec 3:1, 2). The people of God are defended
+possibility of the assumption of Moses; also [[ZEC.3:1]], [[ZEC.3:2]]). The people of God are defended
 
 by holy angels. This is also a gracious warning to believers concerning vehement
 
 accusations against God's enemies: Let God judge. The archangel Michael showed this
 
-restraint (Zec 3:2) even though he was dealing with the devil himself.
+restraint ([[ZEC.3:2]]) even though he was dealing with the devil himself.
 
 
 ### 1:10
@@ -114,13 +114,13 @@ sense."
 
 A threefold woe or warning of great sorrow, using a triad of Israel's most famous
 
-offenders: (1) Cain (Gn 4:3-24) sinned by faithlessness and envy, especially over an
+offenders: (1) Cain ([[GEN.4:3]]-24) sinned by faithlessness and envy, especially over an
 
-honor given to another. His sin led to murder (Gn 4:16-24). (2) Balaam (Nm 22-24)
+honor given to another. His sin led to murder ([[GEN.4:16]]-24). (2) Balaam (Nm 22-24)
 
 sinned by greed, which led to lying and an all-out assault upon the truth, which he knew
 
-as well. (3) Korah (Nm 16:1-35) sinned by ambition, pride, and arrogance, grasping for
+as well. (3) Korah ([[NUM.16:1]]-35) sinned by ambition, pride, and arrogance, grasping for
 
 leadership against God's will. His sin led to blatant rebellion against God.
 
@@ -146,13 +146,13 @@ dead means they were dead before they believed and dead a second time after they
 
 turned their backs on Christ.
 
-If barrenness is worthy of being cast into the fire (Mt 3:10), how much worse is bearing
+If barrenness is worthy of being cast into the fire ([[MAT.3:10]]), how much worse is bearing
 
-rotten fruit (Mt 7:17-19). In contrast to the saints, who are firmly rooted in Christ (Eph
+rotten fruit ([[MAT.7:17]]-19). In contrast to the saints, who are firmly rooted in Christ (Eph
 
-3:17; Col 2:7), the false teachers are pulled up by the roots and so cannot remain with
+3:17; [[COL.2:7]]), the false teachers are pulled up by the roots and so cannot remain with
 
-Christ or in His Church (Mt 13:24-30; Jn 15:6).
+Christ or in His Church ([[MAT.13:24]]-30; [[JOH.15:6]]).
 
 
 ### 1:13

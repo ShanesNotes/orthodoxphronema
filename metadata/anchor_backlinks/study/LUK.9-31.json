@@ -1,0 +1,30 @@
+{
+  "anchor_id": "LUK.9:31",
+  "canon_uri": "canon/NT/LUK.md#LUK.9:31",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 287,
+      "raw_match": "[[LUK.9:28]]-36",
+      "reference_type": "wikilink_range",
+      "context": "17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36)."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2451,
+      "raw_match": "[[LUK.9:31]]",
+      "reference_type": "wikilink",
+      "context": "See the article, \"The Transfiguration\"; see also note at [[LUK.9:31]]."
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 401,
+      "raw_match": "[[LUK.9:31]]",
+      "reference_type": "wikilink",
+      "context": "On the Transfiguration, see note at [[LUK.9:31]], and the article \"The Transfiguration\" at"
+    }
+  ]
+}

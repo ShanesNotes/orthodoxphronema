@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.5:22",
+  "canon_uri": "canon/NT/MAT.md#MAT.5:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 81,
+      "raw_match": "[[MAT.5:22]]",
+      "reference_type": "wikilink",
+      "context": "there is anger that is certainly sinful ([[MAT.5:22]]), there is also anger that is God-given and"
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 191,
+      "raw_match": "[[MAT.5:22]]",
+      "reference_type": "wikilink",
+      "context": "towards another ([[MAT.5:21]], [[MAT.5:22]]). Whisperers are people who gossip. Inventors of evil"
+    }
+  ]
+}

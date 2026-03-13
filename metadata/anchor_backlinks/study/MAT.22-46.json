@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.22:46",
+  "canon_uri": "canon/NT/MAT.md#MAT.22:46",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 2661,
+      "raw_match": "[[MAT.22:41]]-46",
+      "reference_type": "wikilink_range",
+      "context": "humanity and David's Lord in His divinity (see note at [[MAT.22:41]]-46)."
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 2883,
+      "raw_match": "[[MAT.22:41]]-46",
+      "reference_type": "wikilink_range",
+      "context": "because doing so would have meant confessing Him as the Christ (20:4-7; [[MAT.22:41]]-46;"
+    }
+  ]
+}

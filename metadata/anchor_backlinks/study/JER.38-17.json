@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JER.38:17",
+  "canon_uri": "canon/OT/JER.md#JER.38:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 247,
+      "raw_match": "[[JER.38:17]]",
+      "reference_type": "wikilink",
+      "context": "her children would return from exile in Babylon ([[JER.38:16]], [[JER.38:17]]), so Jesus will return from"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JER.17:6",
+  "canon_uri": "canon/OT/JER.md#JER.17:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2869,
+      "raw_match": "[[JER.17:6]]",
+      "reference_type": "wikilink",
+      "context": "men's deeds; their own works will judge them ([[PSA.61:13]]; [[JER.17:6]]). This judging of"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3137,
+      "raw_match": "[[JER.17:6]]",
+      "reference_type": "wikilink",
+      "context": "44:6; 48:12). Divine recompense (Is 40:10; [[JER.17:6]]) will be visited on the earth soon (v."
+    }
+  ]
+}

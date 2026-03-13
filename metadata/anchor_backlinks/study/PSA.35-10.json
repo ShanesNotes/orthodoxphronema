@@ -1,0 +1,30 @@
+{
+  "anchor_id": "PSA.35:10",
+  "canon_uri": "canon/OT/PSA.md#PSA.35:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 61,
+      "raw_match": "[[PSA.35:10]]",
+      "reference_type": "wikilink",
+      "context": "prophets ([[PSA.35:10]]; 103:2; Is 9:1; 10:17; [[HAB.3:4]]), is especially revealed in Christ's birth"
+    },
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 671,
+      "raw_match": "[[PSA.35:10]]",
+      "reference_type": "wikilink",
+      "context": "Therefore, wells came to symbolize life itself ([[PSA.35:9]], [[PSA.35:10]]; 45:4; Is 55:1). This particular"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3033,
+      "raw_match": "[[PSA.35:10]]",
+      "reference_type": "wikilink",
+      "context": "Light will illumine all ([[PSA.35:10]]) with true and clear vision to see things as they really are."
+    }
+  ]
+}

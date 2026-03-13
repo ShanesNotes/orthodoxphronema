@@ -60,7 +60,7 @@ indirectly, by allusion and not by clear, direct statement.
 
 Paul has changed his travel plans. (1) In his earlier letter, he planned to travel to
 
-Corinth, passing through Macedonia in northern Greece (1Co 16:5-7). (2) When he felt
+Corinth, passing through Macedonia in northern Greece ([[1CO.16:5]]-7). (2) When he felt
 
 compelled to go to Corinth immediately, the "sorrowful visit," he planned to visit Corinth
 
@@ -76,7 +76,7 @@ some in Corinth.
 ### 1:19
 *(anchor: 2CO.1:19)*
 
-Silvanus is Silas, Paul's longtime coworker (Acts 15:40).
+Silvanus is Silas, Paul's longtime coworker ([[ACT.15:40]]).
 
 
 ### 1:20
@@ -116,7 +116,7 @@ Church, and renewal in the joy (v. 24) of the Spirit.
 
 True pastoral correction brings both agony for the overseer--affliction, anguish of
 
-heart, many tears--and abundant love to the one being disciplined (see Heb 12:5, 6,
+heart, many tears--and abundant love to the one being disciplined (see [[HEB.12:5]], [[HEB.12:6]],
 
 11).
 
@@ -222,7 +222,7 @@ glorious (v. 8).
 
 The Lord here is a title. In the NT Lord usually refers to the Son. The Father is
 
-sometimes called Lord (Mt 11:25; 22:44; Lk 1:32; 4:12, 18; 10:21; Acts 3:22; 4:26; Rev
+sometimes called Lord ([[MAT.11:25]]; 22:44; [[LUK.1:32]]; 4:12, 18; 10:21; [[ACT.3:22]]; 4:26; Rev
 
 11:15; 21:22), and the Spirit is referred to as Lord here (v. 17) and in the Nicene Creed: "I
 
@@ -262,7 +262,7 @@ have open access to Him. Created as the image of God, we see His uncreated image
 
 Son, the glory of the Lord (v. 18; see 4:4-6), in two ways: (1) through the Son's deified
 
-humanity (see 1Co 13:12; Jam 1:23-25) and (2) in the power of the Spirit. As we behold
+humanity (see [[1CO.13:12]]; [[JAS.1:23]]-25) and (2) in the power of the Spirit. As we behold
 
 Him, we become what we were created to be. God is infinite; therefore, growing in His
 
@@ -320,13 +320,13 @@ power of God and, more, disclose His Grace" (JohnChr).
 
 The Orthodox Faith teaches that salvation in Christ includes: (1) a passage from
 
-death to life, from darkness to light (Jn 3:1-6; Col 1:13, 14), through repentance, faith,
+death to life, from darkness to light ([[JOH.3:1]]-6; [[COL.1:13]], [[COL.1:14]]), through repentance, faith,
 
 and baptism ("I have been saved"); (2) a process of spiritual growth and maturation (2Pt
 
 1:2-8) through ongoing repentance, faith, and communion, often called deification ("I am
 
-being saved"); and (3) a promise of eternal life (5:9-11; Jn 14:1-6), calling us to
+being saved"); and (3) a promise of eternal life (5:9-11; [[JOH.14:1]]-6), calling us to
 
 perseverance and righteousness ("I shall be saved"). It is this second element, the process
 
@@ -534,7 +534,7 @@ the Church.
 
 Paul had given the Corinthians the same instruction he gave to Galatia, to contribute
 
-systematically to the fund (1Co 16:1-4). Titus is to make sure they actually have begun to
+systematically to the fund ([[1CO.16:1]]-4). Titus is to make sure they actually have begun to
 
 do so (8:6). Paul has told the Macedonians that Corinth was exemplary in giving (9:2),
 
@@ -546,7 +546,7 @@ cunning" (12:16). Paul encourages the Corinthians by holding up the generosity o
 
 poorer Macedonians as an example (8:1-5). The Corinthians actually do contribute to the
 
-fund, and Paul is pleased with them (Rom 15:25-28).
+fund, and Paul is pleased with them ([[ROM.15:25]]-28).
 
 
 ### 8:5
@@ -562,7 +562,7 @@ an offering to God, they will be an offering to His people as well.
 ### 8:9
 *(anchor: 2CO.8:9)*
 
-What was Christ's poverty? He emptied Himself (Php 2:5-8) of His heavenly glory to
+What was Christ's poverty? He emptied Himself ([[PHP.2:5]]-8) of His heavenly glory to
 
 join our humanity to His divinity, and to suffer and die on our behalf. He did not owe this
 
@@ -574,7 +574,7 @@ to us, but did so by His grace, that we might become rich in His salvation.
 
 The proof of God's love for us is that He gave us His Son through His Incarnation
 
-and death (Rom 5:8). The proof of our love for God is in the giving of our gifts to Him
+and death ([[ROM.5:8]]). The proof of our love for God is in the giving of our gifts to Him
 
 and the churches.
 
@@ -686,7 +686,7 @@ Pure doctrine is taught out of pure motives. A mark of apostolic authenticity is
 
 refusal of excessive money. The clergy draw their living from the Church, but not to the
 
-point of getting rich (see 1Co 9:4-18; 1Ti 6:3-10; Tts 1:11). Paul's opponents dared not
+point of getting rich (see [[1CO.9:4]]-18; [[1TI.6:3]]-10; [[TIT.1:11]]). Paul's opponents dared not
 
 make this claim.
 
@@ -764,7 +764,7 @@ power of Christ remaining in him.
 ### 12:11-13
 *(anchor: 2CO.12:11)*
 
-By signs of an apostle (v. 12; see Rom 15:19; 1Co 2:4; 4:20; 12:28, 29; Heb 2:4)
+By signs of an apostle (v. 12; see [[ROM.15:19]]; [[1CO.2:4]]; 4:20; 12:28, 29; [[HEB.2:4]])
 
 Paul seems to be referring to miracles that lead men to God and the Church, for with
 

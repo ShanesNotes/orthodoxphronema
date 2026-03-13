@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DAN.10:8",
+  "canon_uri": "canon/OT/DAN.md#DAN.10:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 271,
+      "raw_match": "[[DAN.10:7]]-9",
+      "reference_type": "wikilink_range",
+      "context": "also does John here, in the presence of the glorified Savior (see [[EZK.1:27]]; [[DAN.10:7]]-9; see"
+    }
+  ]
+}

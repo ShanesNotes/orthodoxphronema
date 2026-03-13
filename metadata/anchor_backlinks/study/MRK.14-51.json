@@ -1,0 +1,30 @@
+{
+  "anchor_id": "MRK.14:51",
+  "canon_uri": "canon/NT/MRK.md#MRK.14:51",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 2985,
+      "raw_match": "[[MRK.14:51]]",
+      "reference_type": "wikilink",
+      "context": "an author to conceal his name in the details of his story (see 13:23; compare [[MRK.14:51]], [[MRK.14:52]];"
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 3149,
+      "raw_match": "[[MRK.14:51]]",
+      "reference_type": "wikilink",
+      "context": "was a common literary device for a writer not to give his own name (see [[MRK.14:51]]; Jn"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2283,
+      "raw_match": "[[MRK.14:51]]",
+      "reference_type": "wikilink",
+      "context": "stripped of their garments, their vesture, then and there (see [[MRK.14:51]]). A Christian's"
+    }
+  ]
+}

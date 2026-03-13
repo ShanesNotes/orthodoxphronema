@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.1:35",
+  "canon_uri": "canon/OT/DEU.md#DEU.1:35",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 389,
+      "raw_match": "[[DEU.1:34]]-40",
+      "reference_type": "wikilink_range",
+      "context": "14:28-32; [[DEU.1:34]]-40). They had not participated in the disobedience of Egypt. The"
+    }
+  ]
+}

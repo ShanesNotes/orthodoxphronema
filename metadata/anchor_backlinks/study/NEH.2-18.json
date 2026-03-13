@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NEH.2:18",
+  "canon_uri": "canon/OT/NEH.md#NEH.2:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2MA_footnotes.md",
+      "line_number": 85,
+      "raw_match": "[[NEH.2:11]]-18",
+      "reference_type": "wikilink_range",
+      "context": "destroyed by fire ([[NEH.2:11]]-18)."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1PE.5:6",
+  "canon_uri": "canon/NT/1PE.md#1PE.5:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 33,
+      "raw_match": "[[1PE.5:6]]",
+      "reference_type": "wikilink",
+      "context": "in due time\" ([[1PE.5:6]]). 1:11 3Kingd 1:11, 14, 22: Once again, Nathan the prophet speaks the truth to the house of"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[1PE.5:6]]",
+      "reference_type": "wikilink",
+      "context": "This theme echoes Pr 3:37 and is repeated by St. Peter ([[1PE.5:5]], [[1PE.5:6]])."
+    }
+  ]
+}

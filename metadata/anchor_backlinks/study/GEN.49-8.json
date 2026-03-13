@@ -1,0 +1,30 @@
+{
+  "anchor_id": "GEN.49:8",
+  "canon_uri": "canon/OT/GEN.md#GEN.49:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 75,
+      "raw_match": "[[GEN.49:8]]-12",
+      "reference_type": "wikilink_range",
+      "context": "promise was on Judah's head ([[GEN.49:8]]-12). Christ, the Son of God, will be born from"
+    },
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 89,
+      "raw_match": "[[GEN.49:8]]-10",
+      "reference_type": "wikilink_range",
+      "context": "father Jacob ([[GEN.49:8]]-10) came to pass in King David. 5:25-26 The faithful must be vigilant and continue to trust in God. It is when we think we"
+    },
+    {
+      "source_file": "staging/validated/OT/JDT_footnotes.md",
+      "line_number": 388,
+      "raw_match": "[[GEN.49:8]]",
+      "reference_type": "wikilink",
+      "context": "\"Jewess\" or \"praise\" (see [[GEN.49:8]]). 13:15"
+    }
+  ]
+}

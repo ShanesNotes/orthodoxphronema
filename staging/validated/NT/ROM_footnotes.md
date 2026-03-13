@@ -108,7 +108,7 @@ Barbarians are literally "alien people," here those not culturally Greeks (see A
 
 St. Paul is not ashamed of the gospel of Christ, thus setting an example for all
 
-believers (see Lk 9:26).
+believers (see [[LUK.9:26]]).
 
 
 ### 1:17
@@ -122,7 +122,7 @@ faith. From faith to faith: We first receive Jesus Christ by faith and then live
 
 that faith.
 
-"The just shall live by faith" is one of the passages of the OT (Hab 2:4) most quoted
+"The just shall live by faith" is one of the passages of the OT ([[HAB.2:4]]) most quoted
 
 in the NT. It shows the harmony between both testaments and summarizes the theme of
 
@@ -138,7 +138,7 @@ The wrath of God is His righteous and holy judgment. It is not a loss of temper 
 
 self-control, but the revelation of His divine truth, love, and power confronting those who
 
-reject Him (see Mt 25:41-46; 2Th 1:6-10; 2:8).
+reject Him (see [[MAT.25:41]]-46; [[2TH.1:6]]-10; 2:8).
 
 
 ### 1:20
@@ -150,7 +150,7 @@ His transcendence (Godhead), by simply observing the glories of creation. Thus, 
 
 rejection of God cannot be excused by the claim of ignorance, for even "the heavens
 
-declare the glory of God; / The firmament shows the creation of His hands" (Ps 18:2).
+declare the glory of God; / The firmament shows the creation of His hands" ([[PSA.18:2]]).
 
 
 ### 1:21
@@ -180,7 +180,7 @@ While sexual immorality is not the only way man is given over to
 
 unrighteousness, it is often more destructive than other sins and thus receives specific
 
-attention here (see 1Co 6:12-20). Those who focus only on sexual sins fail to see that all
+attention here (see [[1CO.6:12]]-20). Those who focus only on sexual sins fail to see that all
 
 sin separates man from God and leads to destruction. Covetousness is a sinful passion
 
@@ -188,7 +188,7 @@ directly opposite the virtue of thankfulness--it is being unsatisfied with the b
 
 already received and having an insatiable desire for more. Murder also includes hatred
 
-towards another (Mt 5:21, 22). Whisperers are people who gossip. Inventors of evil
+towards another ([[MAT.5:21]], [[MAT.5:22]]). Whisperers are people who gossip. Inventors of evil
 
 things are those who cooperate with the devil to discover new forms of wickedness.
 
@@ -308,7 +308,7 @@ from communion with God--in order to turn our hearts to repentance.
 ### 3:21-22
 *(anchor: ROM.3:21)*
 
-The law may be kept by obedience (Lv 18:5) and by faith (Dt 30:14). Obedience
+The law may be kept by obedience (Lv 18:5) and by faith ([[DEU.30:14]]). Obedience
 
 without faith cannot bring anyone to righteousness. Yet faith, even apart from the
 
@@ -328,7 +328,7 @@ life. Jesus Christ alone lived in completed righteousness, and He alone was resu
 
 from the dead. Therefore, He alone is the fullness of the glory of God, and we receive that
 
-glory in Him (see Jn 14:6).
+glory in Him (see [[JOH.14:6]]).
 
 
 ### 3:24
@@ -346,7 +346,7 @@ physically perfect animals for the temporal remission of sins (see Heb 9). Under
 
 covenant, Christ is the sacrificial offering that once for all eternally frees us from sin and
 
-death (Heb 10:14) and by His grace unites us with righteousness and life.
+death ([[HEB.10:14]]) and by His grace unites us with righteousness and life.
 
 
 ### 3:25
@@ -354,7 +354,7 @@ death (Heb 10:14) and by His grace unites us with righteousness and life.
 
 To propitiate means "to cover" or "to conciliate." Propitiation refers to the mercy
 
-seat in the tabernacle where God was enthroned among His people (Ex 25:17-22). Once a
+seat in the tabernacle where God was enthroned among His people ([[EXO.25:17]]-22). Once a
 
 year, on the Day of Atonement, the blood of the sacrifice was liturgically sprinkled on the
 
@@ -362,7 +362,7 @@ mercy seat in the holy of holies. This prefigured the covering of our sins and o
 
 reconciliation to God that was to come in Jesus Christ. Heaven holds the true mercy seat
 
-(Heb 9:23-26; 10:19-22), and Christ's blood was taken to heaven through His Passion,
+([[HEB.9:23]]-26; 10:19-22), and Christ's blood was taken to heaven through His Passion,
 
 Resurrection, and Ascension, thus reconciling us to God once and for all.
 
@@ -374,7 +374,7 @@ Ongoing faith in Jesus is the way mankind receives God's righteousness.
 
 Justification (being made righteous) by faith is not a one-time "not guilty" verdict, as
 
-some may teach. Rather, it is Christ living in us, and we in Him (Gal 2:20). Thus, to be
+some may teach. Rather, it is Christ living in us, and we in Him ([[GAL.2:20]]). Thus, to be
 
 justified is to be in communion with Jesus Christ in an ongoing, dynamic, and growing
 
@@ -398,7 +398,7 @@ by faith and through faith (v. 30). (4) By teaching justification by faith in Ch
 
 Christians establish (or uphold) the law (v. 31), because Christ Himself fulfills the law
 
-(Mt 5:17).
+([[MAT.5:17]]).
 
 
 ### 4:1-5
@@ -432,7 +432,7 @@ Because Abraham was circumcised as a sign of God's covenant, he is father to all
 
 Jews. Yet Abraham was living by faith when he was 75, but was not circumcised until he
 
-was 99 (Gn 12:4; 17:24). During this time of being uncircumcised, he was still righteous
+was 99 ([[GEN.12:4]]; 17:24). During this time of being uncircumcised, he was still righteous
 
 before God by faith; thus he is also the father of uncircumcised believers, the
 
@@ -490,7 +490,7 @@ note at 3:24). Because of this ongoing communion, we have peace with God which i
 
 also ongoing. The Greek word pistis, here translated as faith, can also be rendered
 
-"faithfulness." Faith is more than the conviction that something is true (Jam 2:19).
+"faithfulness." Faith is more than the conviction that something is true ([[JAS.2:19]]).
 
 Genuine faithfulness is continuous loyalty and obedience to God. Such faithfulness
 
@@ -592,7 +592,7 @@ exceeds condemnation through Adam (v. 16). As we all inherited Adam's mortality 
 
 through faith. Though all will be raised, some will be raised to eternal life while others
 
-will be raised to eternal judgment (Jn 5:28, 29).
+will be raised to eternal judgment ([[JOH.5:28]], [[JOH.5:29]]).
 
 
 ### 5:19
@@ -626,11 +626,11 @@ human will.
 
 The law was given as a temporary measure on God's part to reveal sin and to lead us
 
-to repentance and faith (Gal 3:23-25). Instead of decreasing under the law, sin
+to repentance and faith ([[GAL.3:23]]-25). Instead of decreasing under the law, sin
 
 abounded even more. This increase of sin amplifies our awareness of our fallen state
 
-and serves as an impetus to "bring us to Christ" (Gal 3:24).
+and serves as an impetus to "bring us to Christ" ([[GAL.3:24]]).
 
 
 ### 6:1-14
@@ -812,7 +812,7 @@ than slaves of sin (8:14-17).
 
 Baptism frees us from being slaves of sin if we continue in obedience to God. The
 
-form of doctrine refers to the apostolic teachings of the Church (see 2Ti 1:13).
+form of doctrine refers to the apostolic teachings of the Church (see [[2TI.1:13]]).
 
 
 ### 6:19
@@ -922,7 +922,7 @@ Man is not sinful by nature. The Orthodox Church rejects any teaching that man h
 
 sin is something distinct from our nature. Because we are created in the image of God
 
-(Gn 1:26), there is an indelible goodness in our nature that can never be undone. While
+([[GEN.1:26]]), there is an indelible goodness in our nature that can never be undone. While
 
 we can become immersed in sin, we know that it is still not part of our nature, but a
 
@@ -1010,9 +1010,9 @@ Spirit.
 
 The Spirit of Christ declares the intimacy between the Son and the Holy Spirit. The
 
-Son becomes incarnate by the Holy Spirit (Mt 1:20) and in turn sends the Holy Spirit
+Son becomes incarnate by the Holy Spirit ([[MAT.1:20]]) and in turn sends the Holy Spirit
 
-from the Father into the world (Jn 15:26; 16:7).
+from the Father into the world ([[JOH.15:26]]; 16:7).
 
 
 ### 8:10
@@ -1052,7 +1052,7 @@ adoption by continuing in faith and turning constantly toward God. The experienc
 
 adoption allows us to address God with the intimate term Abba, which means "Papa" (v.
 
-15; see Gal 4:5-7).
+15; see [[GAL.4:5]]-7).
 
 
 ### 8:15
@@ -1078,7 +1078,7 @@ to us by grace. See the article, "Deification" at 2 Peter.
 
 Note the contrast between sufferings and glory. As Christians, we have God's glory
 
-in us, though His glory is not fully revealed (see also Col 3:3, 4). In the Orthodox
+in us, though His glory is not fully revealed (see also [[COL.3:3]], [[COL.3:4]]). In the Orthodox
 
 Church, the icon of the Incarnation, the Virgin Mary holding the Christ Child, is on the
 
@@ -1134,7 +1134,7 @@ The Scriptures and man's experience both bear witness that all things work
 
 together for good to those who love God. Setbacks and difficulties there will be, but
 
-God turns them into "light affliction" (2Co 4:17, 18; 12:9, 10). God has foreknowledge of
+God turns them into "light affliction" ([[2CO.4:17]], [[2CO.4:18]]; 12:9, 10). God has foreknowledge of
 
 all things.
 
@@ -1200,9 +1200,9 @@ true child of Abraham?
 
 It is not Abraham's children of the flesh (v. 8), his natural or biological offspring,
 
-who are his true children. If this were the case, the children of Hagar (Gn 16:4, 15) and of
+who are his true children. If this were the case, the children of Hagar ([[GEN.16:4]], [[GEN.16:15]]) and of
 
-Keturah (Gn 25:1-4) would be Israelites. Furthermore, not all those in Isaac's line are
+Keturah ([[GEN.25:1]]-4) would be Israelites. Furthermore, not all those in Isaac's line are
 
 Israelites; otherwise Esau and the Edomites would be. Abraham's true children are the
 
@@ -1210,7 +1210,7 @@ children of the promise (v. 8), that is, those who are in Isaac (v. 7), which me
 
 faithful believers. Because Isaac was miraculously conceived through God's promise,
 
-which Abraham believed (Gn 18:10-15; 21:1-7), it is those who continue in this faith who
+which Abraham believed ([[GEN.18:10]]-15; 21:1-7), it is those who continue in this faith who
 
 are Abraham's true offspring.
 
@@ -1304,7 +1304,7 @@ man's free response: faith. The Gentiles who had been unconcerned with righteous
 
 now attain it through faith in Christ. God mercifully overlooks their former
 
-unrighteousness because it was practiced in ignorance (Acts 17:30). By contrast, the Jews
+unrighteousness because it was practiced in ignorance ([[ACT.17:30]]). By contrast, the Jews
 
 fail to attain even the righteousness of the law, for they do not pursue the law by
 
@@ -1460,7 +1460,7 @@ The mystery which explains the unbelief of so many Jews is that the Gentiles
 
 are now being united to the remnant of the faithful Jews, and thus this body of believers
 
-together form the true Israel. (In Gal 6:15, 16, St. Paul calls those "in Christ Jesus" the
+together form the true Israel. (In [[GAL.6:15]], [[GAL.6:16]], St. Paul calls those "in Christ Jesus" the
 
 "Israel of God," which is the Church.) This true Israel is not based on biological ancestry
 
@@ -1550,7 +1550,7 @@ governing authorities. This principle holds true so long as the civil ordinance 
 
 in opposition to God, but promotes good works. When civil rulers are in direct
 
-opposition to God, the believer must follow God (see Acts 4:19; 5:29).
+opposition to God, the believer must follow God (see [[ACT.4:19]]; 5:29).
 
 
 ### 13:4
@@ -1680,7 +1680,7 @@ bold in teaching and counsel. He seeks to soften possible offense by expressing
 
 confidence in the Romans' own gifts, and by referring to his special commission from
 
-God to be the apostle to the Gentiles, including those at Rome (see 1:13-15; Acts 23:11).
+God to be the apostle to the Gentiles, including those at Rome (see 1:13-15; [[ACT.23:11]]).
 
 
 ### 15:16
@@ -1720,7 +1720,7 @@ unevangelized.
 
 The Jewish Christians have passed on to the Gentiles the great gift of the gospel.
 
-In return, the Gentiles are bound to share their material things with them (1Co 9:11).
+In return, the Gentiles are bound to share their material things with them ([[1CO.9:11]]).
 
 16:1, 2 Phoebe was a leading Christian woman who was both a deaconess (servant here
 
@@ -1736,7 +1736,7 @@ mentioning her being 'deaconess,'" and he recognizes "her as being a saint."
 
 Priscilla and Aquila were a married couple, Jewish business people, and Paul's
 
-coworkers (see Acts 18:18, 26).
+coworkers (see [[ACT.18:18]], [[ACT.18:26]]).
 
 
 ### 16:7
@@ -1746,7 +1746,7 @@ Prisoners: We know of no imprisonment of Paul in Corinth, where Romans was
 
 likely written. According to St. John Chrysostom, Paul is not referring to literal
 
-imprisonment, but to his subjection to all kinds of persecution and afflictions (2Co 6:4-
+imprisonment, but to his subjection to all kinds of persecution and afflictions ([[2CO.6:4]]-
 
 10).
 
@@ -1766,7 +1766,7 @@ unintelligent, but rather innocent, trusting, and truthful.
 
 While Paul is the author of this epistle (1:1), Tertius wrote it down as Paul's
 
-secretary. Paul frequently dictated his epistles to a scribe (1Co 16:21; Col 4:18; 2Th 2:17;
+secretary. Paul frequently dictated his epistles to a scribe ([[1CO.16:21]]; [[COL.4:18]]; [[2TH.2:17]];
 
 Phm 19).
 

@@ -1,0 +1,58 @@
+{
+  "anchor_id": "PHP.2:10",
+  "canon_uri": "canon/NT/PHP.md#PHP.2:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[PHP.2:6]]-11",
+      "reference_type": "wikilink_range",
+      "context": "[[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and"
+    },
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 21,
+      "raw_match": "[[PHP.2:5]]-11",
+      "reference_type": "wikilink_range",
+      "context": "(see [[PHP.2:5]]-11 for a close parallel)."
+    },
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 223,
+      "raw_match": "[[PHP.2:5]]-11",
+      "reference_type": "wikilink_range",
+      "context": "See especially [[PHP.2:5]]-11. Made a little lower than the angels refers to the"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 1523,
+      "raw_match": "[[PHP.2:10]]",
+      "reference_type": "wikilink",
+      "context": "Lord God of Israel, the Lord Jesus Christ, has a name above every name ([[PHP.2:9]], [[PHP.2:10]]). Reviling Him will lead one to much more than physical death. It will lead him to eternal"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 151,
+      "raw_match": "[[PHP.2:9]]-11",
+      "reference_type": "wikilink_range",
+      "context": "and He is exalted far beyond the heavens (v. 2; see also [[PHP.2:9]]-11). (2) He brings"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 235,
+      "raw_match": "[[PHP.2:9]]-11",
+      "reference_type": "wikilink_range",
+      "context": "exalts His godly ones (v. 9b; see also [[PHP.2:9]]-11; [[EPH.2:6]], [[EPH.2:7]])."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1855,
+      "raw_match": "[[PHP.2:10]]",
+      "reference_type": "wikilink",
+      "context": "([[PHP.2:8]]). Now He is highly exalted (vv. 2, 6, 9; see also [[PHP.2:9]], [[PHP.2:10]]). Before His"
+    }
+  ]
+}

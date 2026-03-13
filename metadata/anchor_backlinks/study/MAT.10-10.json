@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.10:10",
+  "canon_uri": "canon/NT/MAT.md#MAT.10:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 315,
+      "raw_match": "[[MAT.10:10]]",
+      "reference_type": "wikilink",
+      "context": "The laborer is worthy of his wages ([[MAT.10:10]]; [[LUK.10:7]]) may be the first use of the"
+    }
+  ]
+}

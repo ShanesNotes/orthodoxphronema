@@ -54,7 +54,7 @@ be quick to do all that we can, and to Philemon's Christian conscience (see v. 1
 
 Paul became Onesimus's spiritual father by convincing him of the truth of Christ (see
 
-1Co 4:15; Gal 4:19).
+[[1CO.4:15]]; [[GAL.4:19]]).
 
 
 ### 1:11-13
@@ -80,7 +80,7 @@ Onesimus stole from or otherwise wronged Philemon when he ran away. Put that
 
 on my account is reminiscent of how Christ has taken away our sins that we might go
 
-free (2Co 5:21; 8:9).
+free ([[2CO.5:21]]; 8:9).
 
 
 ### 1:19

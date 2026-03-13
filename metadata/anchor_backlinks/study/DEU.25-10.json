@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.25:10",
+  "canon_uri": "canon/OT/DEU.md#DEU.25:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/RUT_footnotes.md",
+      "line_number": 192,
+      "raw_match": "[[DEU.25:5]]-10",
+      "reference_type": "wikilink_range",
+      "context": "deceased brother's widow ([[DEU.25:5]]-10). In the same way, God Himself redeemed His"
+    }
+  ]
+}

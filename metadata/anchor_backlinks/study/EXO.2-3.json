@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.2:3",
+  "canon_uri": "canon/OT/EXO.md#EXO.2:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2KI_footnotes.md",
+      "line_number": 306,
+      "raw_match": "[[EXO.2:3]]",
+      "reference_type": "wikilink",
+      "context": "place as the leader of his people (v. 12). So, too, Miriam hid Moses ([[EXO.2:3]]); Rahab hid the"
+    }
+  ]
+}

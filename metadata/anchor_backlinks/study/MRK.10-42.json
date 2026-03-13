@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.10:42",
+  "canon_uri": "canon/NT/MRK.md#MRK.10:42",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 475,
+      "raw_match": "[[MRK.10:42]]-45",
+      "reference_type": "wikilink_range",
+      "context": "(See [[MRK.10:42]]-45; [[2CO.4:5]].) Those entrusted to you (Gr. kleron) means those who"
+    }
+  ]
+}

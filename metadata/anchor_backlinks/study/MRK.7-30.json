@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MRK.7:30",
+  "canon_uri": "canon/NT/MRK.md#MRK.7:30",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2191,
+      "raw_match": "[[MRK.7:24]]-30",
+      "reference_type": "wikilink_range",
+      "context": "Matthew's gospel. This account is also mentioned in [[MRK.7:24]]-30, but with two major"
+    },
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 336,
+      "raw_match": "[[MRK.7:24]]-30",
+      "reference_type": "wikilink_range",
+      "context": "when He cast the demon out of the Syro-Phoenician's daughter ([[MRK.7:24]]-30). After"
+    }
+  ]
+}

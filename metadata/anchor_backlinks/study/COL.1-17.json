@@ -1,0 +1,51 @@
+{
+  "anchor_id": "COL.1:17",
+  "canon_uri": "canon/NT/COL.md#COL.1:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[COL.1:15]]-20",
+      "reference_type": "wikilink_range",
+      "context": "[[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and"
+    },
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 29,
+      "raw_match": "[[COL.1:17]]",
+      "reference_type": "wikilink",
+      "context": "things by the word of His power (v. 3; see [[COL.1:16]], [[COL.1:17]]): These two phrases reveal the"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 721,
+      "raw_match": "[[COL.1:17]]",
+      "reference_type": "wikilink",
+      "context": "[[1CO.8:6]]; [[COL.1:16]], [[COL.1:17]]; [[HEB.1:2]]), the creative Word and Wisdom of God."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 36,
+      "raw_match": "[[COL.1:15]]-17",
+      "reference_type": "wikilink_range",
+      "context": "-23; [[EPH.1:10]]; [[COL.1:15]]-17). From eternity also shows that Christ is without"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1790,
+      "raw_match": "[[COL.1:17]]",
+      "reference_type": "wikilink",
+      "context": "St. Paul makes a similar statement ([[COL.1:17]]). By the Living Word all things were"
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 336,
+      "raw_match": "[[COL.1:17]]",
+      "reference_type": "wikilink",
+      "context": "In Christ \"all things consist\" (lit. \"hold together\"; [[COL.1:17]]). 12:2"
+    }
+  ]
+}

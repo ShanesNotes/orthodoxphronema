@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EZK.34:2",
+  "canon_uri": "canon/OT/EZK.md#EZK.34:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/MIC_footnotes.md",
+      "line_number": 112,
+      "raw_match": "[[EZK.34:2]]",
+      "reference_type": "wikilink",
+      "context": "3:2-3 The closest parallel to this passage is the charge against the shepherds in [[EZK.34:2]], [[EZK.34:3]]: \"O shepherds of Israel who feed themselves, should not the shepherds feed the sheep? 3"
+    }
+  ]
+}

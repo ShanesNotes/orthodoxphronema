@@ -1,0 +1,23 @@
+{
+  "anchor_id": "EXO.19:4",
+  "canon_uri": "canon/OT/EXO.md#EXO.19:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 605,
+      "raw_match": "[[EXO.19:3]]-13",
+      "reference_type": "wikilink_range",
+      "context": "5:1, 2 In the OT, only a select few were chosen to hear God directly (see [[EXO.19:3]]-13). Here,"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1735,
+      "raw_match": "[[EXO.19:4]]",
+      "reference_type": "wikilink",
+      "context": "the original Exodus ([[EXO.19:4]]; see [[DEU.32:11]]), as the flood (vv. 15, 16) may also be the"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EZK.36:28",
+  "canon_uri": "canon/OT/EZK.md#EZK.36:28",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/BAR_footnotes.md",
+      "line_number": 121,
+      "raw_match": "[[EZK.36:26]]-29",
+      "reference_type": "wikilink_range",
+      "context": "41; [[EZK.36:26]]-29; [[AMO.9:15]]; [[HEB.13:20]])."
+    }
+  ]
+}

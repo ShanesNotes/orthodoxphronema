@@ -30,7 +30,7 @@ Artaxerxes is imperfect, passionate, and self-indulgent. Nevertheless, by virtue
 
 his office and by reigning over many nations, he functions as a figure for God. The dignity
 
-of an earthly office is not diminished by the failings of the person holding it (see Jn 11:51; Acts 23:1-5). 
+of an earthly office is not diminished by the failings of the person holding it (see [[JOH.11:51]]; [[ACT.23:1]]-5). 
 
 ### 1:7
 *(anchor: EST.1:7)*
@@ -42,7 +42,7 @@ The various cups were likely plunder from conquered nations.
 
 Queen Vashti's refusal to attend the king's festival, being preoccupied with her own, serves as a warning to those who see themselves as followers of the King but whose heart
 
-is self-centered, as in Christ's parable of the wedding feast (Mt 22:1-14; Lk 14:15-24). 
+is self-centered, as in Christ's parable of the wedding feast ([[MAT.22:1]]-14; [[LUK.14:15]]-24). 
 
 ### 1:16
 *(anchor: EST.1:16)*
@@ -58,9 +58,9 @@ Note that the king's decree was distributed to all people according to their own
 
 language, so that all could understand and follow. This is why in the Orthodox Church
 
-throughout the world it is imperative that the gospel be preached (Acts 2:4-11) and the
+throughout the world it is imperative that the gospel be preached ([[ACT.2:4]]-11) and the
 
-liturgy be celebrated (1Co 14:1-25) in the language spoken by the people (see also 3:12). 
+liturgy be celebrated ([[1CO.14:1]]-25) in the language spoken by the people (see also 3:12). 
 
 ### 2:1
 *(anchor: EST.2:1)*
@@ -110,9 +110,9 @@ to fear God. God calls us to faithfulness in whatever situation He places us.
 
 The good will of Mordecai was recorded, but not yet rewarded. Faithfulness to
 
-God is never forgotten by the Lord, even if it appears to go unnoticed (Heb 6:10). The true
+God is never forgotten by the Lord, even if it appears to go unnoticed ([[HEB.6:10]]). The true
 
-reward is glorification, not in this life, but in the Kingdom to come (Heb 11:39, 40). 
+reward is glorification, not in this life, but in the Kingdom to come ([[HEB.11:39]], [[HEB.11:40]]). 
 
 ### 3:1-9
 *(anchor: EST.3:1)*
@@ -135,7 +135,7 @@ The month of Adar was eleven months away. Delays occur frequently in this book, 
 
 They disregard the king's laws: Haman's accusation against the Jews is the same
 
-as the authorities' accusation would be against Jesus (Lk 6:6, 7) and His followers (Acts
+as the authorities' accusation would be against Jesus ([[LUK.6:6]], [[LUK.6:7]]) and His followers (Acts
 
 
 ### 6:11
@@ -155,13 +155,13 @@ is referred to as "deliverer and constant benefactor" to the Jews). Consistent w
 
 typology, Mordecai leaves the courtyard of the king, removes his fine garments, and goes
 
-out among his people to share in their sufferings (see Php 2:5-7). 4:4
+out among his people to share in their sufferings (see [[PHP.2:5]]-7). 4:4
 
 In Esther's attempt to help Mordecai, she tries to take his sackcloth away and give
 
 him new garments, but he would not accept them. This is fulfilled when Peter would
 
-try to dissuade Jesus from accepting the Cross (Mt 16:22). Because His mission was to
+try to dissuade Jesus from accepting the Cross ([[MAT.16:22]]). Because His mission was to
 
 completely identify with His people, Jesus also would not be dissuaded. 4:13-14
 
@@ -171,7 +171,7 @@ calls is unwilling to cooperate, two things will happen: (1) God will find willi
 
 participants elsewhere, for God's plan can never be thwarted; and (2) those who were
 
-not willing will perish with the unfaithful (see Mt 21:41). Mordecai's question, who
+not willing will perish with the unfaithful (see [[MAT.21:41]]). Mordecai's question, who
 
 knows whether it is for this occasion you reign as queen? is a call to all believers
 
@@ -193,7 +193,7 @@ praise, remembrance of God's works, and petition. 4:17e
 
 One of the devil's unsuccessful temptations of the Lord was to try to lure Christ to
 
-bow down before him (Mt 4:9, 10). 4:17j-17x
+bow down before him ([[MAT.4:9]], [[MAT.4:10]]). 4:17j-17x
 
 The prayer of Queen Esther includes repentance on behalf of the people and
 
@@ -219,13 +219,13 @@ garment is given by the Lord and is the only garment worthy of the King's palace
 
 Esther's heart shrank with fear because the lives of her people were at stake. St. Paul admitted to the people of Corinth, "I was with you in weakness, in fear, and in much
 
-trembling" (1Co 2:3). 5:11
+trembling" ([[1CO.2:3]]). 5:11
 
 Up to half my kingdom: A figure of speech. This royal courtesy magnifies the
 
 generosity of the king and gives opportunity for the petitioner to appear modest when
 
-the actual request is made (see Mk 6:23). 5:12
+the actual request is made (see [[MRK.6:23]]). 5:12
 
 Esther's request is most noble--she asks to be permitted to serve the king. This
 
@@ -311,7 +311,7 @@ Jews, from whom the Savior of the world would come, is to plot against hope for 
 
 This new decree gives royal authority to the Jews to destroy those under Haman's
 
-influence and those who would destroy the Jews (see Eph 6:12). 8:12s Est 8:12s, 12t: Victory is already assumed, and deliverance will be received by both
+influence and those who would destroy the Jews (see [[EPH.6:12]]). 8:12s [[EST.8:12]]s, 12t: Victory is already assumed, and deliverance will be received by both
 
 the Jews and the well-inclined Persians. 
 
@@ -332,11 +332,11 @@ is in the works of God!
 ### 9:1-16
 *(anchor: EST.9:1)*
 
-What is done in secret is shouted from the housetops (Lk 12:3). Haman's plot was
+What is done in secret is shouted from the housetops ([[LUK.12:3]]). Haman's plot was
 
 made in secret, but now the bodies of his sons are exposed (v. 13) as was his secret plot
 
-(see also Lk 8:17). 
+(see also [[LUK.8:17]]). 
 
 ### 9:19
 *(anchor: EST.9:19)*

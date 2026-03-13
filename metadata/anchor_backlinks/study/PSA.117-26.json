@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.117:26",
+  "canon_uri": "canon/OT/PSA.md#PSA.117:26",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2869,
+      "raw_match": "[[PSA.117:26]]",
+      "reference_type": "wikilink",
+      "context": "This cry comes from [[PSA.117:25]], [[PSA.117:26]], which was associated with messianic expectation."
+    }
+  ]
+}

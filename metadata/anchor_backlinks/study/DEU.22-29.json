@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.22:29",
+  "canon_uri": "canon/OT/DEU.md#DEU.22:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 184,
+      "raw_match": "[[DEU.22:29]]",
+      "reference_type": "wikilink",
+      "context": "Jewish society carried a strong penalty (see [[DEU.22:28]], [[DEU.22:29]]). The beauty of a married"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2CO.6:5",
+  "canon_uri": "canon/NT/2CO.md#2CO.6:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/EPH_footnotes.md",
+      "line_number": 279,
+      "raw_match": "[[2CO.6:5]]",
+      "reference_type": "wikilink",
+      "context": "mark of apostleship ([[LUK.21:12]]; [[2CO.6:4]], [[2CO.6:5]]). Paul is not only an apostle (see v. 5), but one"
+    }
+  ]
+}

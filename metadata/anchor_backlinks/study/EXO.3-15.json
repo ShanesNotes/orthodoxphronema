@@ -1,0 +1,23 @@
+{
+  "anchor_id": "EXO.3:15",
+  "canon_uri": "canon/OT/EXO.md#EXO.3:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1533,
+      "raw_match": "[[EXO.3:13]]-15",
+      "reference_type": "wikilink_range",
+      "context": "the burning bush ([[EXO.3:13]]-15). To the Jews, this was a direct, explicit, and unmistakable"
+    },
+    {
+      "source_file": "staging/validated/OT/DAN_articles.md",
+      "line_number": 26,
+      "raw_match": "[[EXO.3:15]]",
+      "reference_type": "wikilink",
+      "context": "At times Christ appears as 'the Angel of the Lord' or 'the Angel of God.' At [[EXO.3:14]]:17, 'the Angel of the Lord' appears to Moses in the burning bush and identifies Himself as the God of Abraham, Isaac, and Jacob ([[EXO.3:6]], [[EXO.3:15]], [[EXO.3:16]]; 4:5). He also says that His name is 'I AM HE WHO IS' ([[EXO.3:14]]), which in Greek is represented by the three letters placed around Christ's head in the holy icons. St. Ambrose of Milan observes, 'Christ therefore is, and always is; for He who is, always is. And Christ always is, of whom Moses says, 'He that is has sent me.''"
+    }
+  ]
+}

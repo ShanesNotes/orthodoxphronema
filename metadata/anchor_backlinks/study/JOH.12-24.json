@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.12:24",
+  "canon_uri": "canon/NT/JOH.md#JOH.12:24",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 116,
+      "raw_match": "[[JOH.12:24]]",
+      "reference_type": "wikilink",
+      "context": "God--He who offers all His works as an acceptable offering to the Father. In [[JOH.12:24]], He"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 1458,
+      "raw_match": "[[JOH.12:24]]",
+      "reference_type": "wikilink",
+      "context": "sign. For Christ is the sheaf, the firstfruit. The loaves are the many from the harvest, those from Christ and in Christ--in the Church. In [[JOH.12:24]] Jesus said, \"Most assuredly, I"
+    }
+  ]
+}

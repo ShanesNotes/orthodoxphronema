@@ -32,7 +32,7 @@ of Arphaxad (1:13). The irony is that these "sons" will prove powerless before a
 
 of the Hebrews" (10:12). The Euphrates, the Tigris, and the Hydaspes (a river in
 
-India) alludes to a large territory ruled by Artaxerxes (see Est 1:1). 
+India) alludes to a large territory ruled by Artaxerxes (see [[EST.1:1]]). 
 
 ### 1:10
 *(anchor: JDT.1:10)*
@@ -79,7 +79,7 @@ the end of the Feast of Unleavened Bread on the Hebrew calendar.
 
 The titles the great king and lord of all the earth are further claims of divinity by
 
-Nebuchadnezzar (see Jos 3:11; Ps 47:3). 
+Nebuchadnezzar (see [[JOS.3:11]]; [[PSA.47:3]]). 
 
 ### 2:7
 *(anchor: JDT.2:7)*
@@ -93,7 +93,7 @@ lords of land and sea" (Herodotus 6:48, 49). This may be an indication of surren
 ### 2:8-9
 *(anchor: JDT.2:8)*
 
-Just as Christ "descended into the lower parts of the earth" (Eph 4:9) to defeat the
+Just as Christ "descended into the lower parts of the earth" ([[EPH.4:9]]) to defeat the
 
 enemy of His people, the captives, so Judith will descend to the valley to defeat the
 
@@ -113,7 +113,7 @@ The Pharisee-like piety of the author is demonstrated here by his inclusion of o
 
 clean animals as part of the food supply of the Assyrians, who were notable for their
 
-unclean preferences (Hos 9:3). 2:20-21
+unclean preferences ([[HOS.9:3]]). 2:20-21
 
 The journey here covers some three hundred miles in only three days, an
 
@@ -121,15 +121,15 @@ impossible accomplishment given the size of the army and its composition. This
 
 hyperbole, along with the simile, like a swarm of locusts (v. 20), calls to mind the
 
-dramatic words of another prophet (Joel 2:4, 5). 2:24
+dramatic words of another prophet ([[JOL.2:4]], [[JOL.2:5]]). 2:24
 
 The region intended here is uncertain, but perhaps it refers to Upper Mesopotamia
 
 towards Ararat and Lake Van. 2:26
 
-These are the Ishmaelite Midianites (Gn 37:27, 28), who were nomads of the desert
+These are the Ishmaelite Midianites ([[GEN.37:27]], [[GEN.37:28]]), who were nomads of the desert
 
-northeast of the Jordan valley (Jdg 6:33; 7:25). 2:27
+northeast of the Jordan valley ([[JDG.6:33]]; 7:25). 2:27
 
 The time of the wheat harvest would have been about June, a short span of only
 
@@ -141,7 +141,7 @@ their traditions and gods will be put down (3:8). 3:7
 
 These garlands would have been crowns of leaves or flowers (see WSol 2:8) with
 
-dancing and timbrels in the fashion of Jephthah's daughter (Jdg 11:33). 3:8
+dancing and timbrels in the fashion of Jephthah's daughter ([[JDG.11:33]]). 3:8
 
 To cut down their sacred groves strips them of their gods, thereby asserting the
 
@@ -169,7 +169,7 @@ and is likely a scornful allusion to the city of Samaria. 4:11
 
 Casting ashes on their heads is a sign of contrition and lamentation. 4:14
 
-Served here is a liturgical term (see also Lk 1:23, "service"; Acts 13:2, "ministered"; Heb 8:6, "ministry"). St. Clement writes, "We ought to do all those things the Master has
+Served here is a liturgical term (see also [[LUK.1:23]], "service"; [[ACT.13:2]], "ministered"; [[HEB.8:6]], "ministry"). St. Clement writes, "We ought to do all those things the Master has
 
 ordered us to perform at the appointed times. He has commanded sacrifices and services
 
@@ -185,13 +185,13 @@ and grace. 5:1
 
 These barricades consisted of camouflaged pits containing sharply pointed stakes
 
-meant to lame horses or impale infantry. 5:3-4 Canaan is used here in its archaic sense (see Gn 10:15-19) and includes all those
+meant to lame horses or impale infantry. 5:3-4 Canaan is used here in its archaic sense (see [[GEN.10:15]]-19) and includes all those
 
 dwelling in the west (v. 4). 5:5-21 The Protomartyr Stephen gave an account (Acts 7) similar to this. 5:6, 7
 
-The Chaldeans were a Semitic people (Gn 10:21-31) who settled the area just
+The Chaldeans were a Semitic people ([[GEN.10:21]]-31) who settled the area just
 
-north of the Persian Gulf (Gn 10:30). Ur of the Chaldeans (Gn 11:27, 28) was just outside
+north of the Persian Gulf ([[GEN.10:30]]). Ur of the Chaldeans ([[GEN.11:27]], [[GEN.11:28]]) was just outside
 
 of Mesopotamia (Greek for "between the rivers") just south of the Euphrates River. The
 
@@ -199,15 +199,15 @@ Chaldean city of Ur was the site of a major temple of the moon-god Sin. Such was
 
 Chaldean penchant for worshiping the heavens, and the name became a proverbial term
 
-for astrologers (see Dan 2:2). 5:8
+for astrologers (see [[DAN.2:2]]). 5:8
 
 Had come to know is an active-voice verb in Greek: knowing God requires that we
 
-diligently seek Him (Pr 8:17; Heb 11:6). Abraham came to know the God of heaven by
+diligently seek Him (Pr 8:17; [[HEB.11:6]]). Abraham came to know the God of heaven by
 
 looking beyond the heavens to seek his Creator. He thereby received the true inheritance
 
-(Heb 11:8-10, 16). That the Chaldeans cast them out we find only at this place in
+([[HEB.11:8]]-10, 16). That the Chaldeans cast them out we find only at this place in
 
 Scripture, and in Jewish tradition. 6:2
 
@@ -225,7 +225,7 @@ meant to understand the entire city as being of Simeon, a noted avenger of Israe
 
 This feast would have been a solemn occasion in order to call on the God of Israel
 
-(see Joel 1:14; 2:15-17). 7:3
+(see [[JOL.1:14]]; 2:15-17). 7:3
 
 Knowing the locations of Dothan and Esdraelon, the description given here points
 
@@ -299,9 +299,9 @@ servants in attendance upon their Master, as valued friends, but not as the king
 
 Judith identifies herself as a daughter of the Hebrews since foreigners
 
-commonly identified Israelites as Hebrews (see 1Kg 4:6; Acts 6:1). 10:21
+commonly identified Israelites as Hebrews (see 1Kg 4:6; [[ACT.6:1]]). 10:21
 
-Holofernes' canopy, worthy of a great king (see Est 1:6 and SS 3:7, 9, 10), reveals
+Holofernes' canopy, worthy of a great king (see [[EST.1:6]] and SS 3:7, 9, 10), reveals
 
 his inflated opinion of himself. 11:4
 
@@ -309,11 +309,11 @@ Although no one will harm Judith, she will be the destruction of Holofernes (9:1
 
 In considering the deceitful flattery of Judith's words, the author is following an
 
-ancient standard of morality: there are no rights for an alien enemy (Dt 23:3-6). Christ, however, has called us to a more perfect way: "Love your enemies, bless those who curse
+ancient standard of morality: there are no rights for an alien enemy ([[DEU.23:3]]-6). Christ, however, has called us to a more perfect way: "Love your enemies, bless those who curse
 
 you, do good to those who hate you, and pray for those who spitefully use you and
 
-persecute you" (Mt 5:44). 11:6
+persecute you" ([[MAT.5:44]]). 11:6
 
 Judith's words are deliberately ambiguous. Holofernes pridefully understands my
 
@@ -325,7 +325,7 @@ pursuits."
 
 Night and day reflects the ancient method of reckoning time in which a new day
 
-begins at sunset (Gn 1:5). 11:23
+begins at sunset ([[GEN.1:5]]). 11:23
 
 There is betrayal in Holofernes' vow, your God will be my God, because he
 
@@ -333,13 +333,13 @@ acknowledges King Nebuchadnezzar as god (3:8; 6:2). 12:2
 
 Judith's polite but firm refusal to eat from the table of Gentiles is akin to the piety
 
-later found among the Pharisees (Gal 2:12). 12:5
+later found among the Pharisees ([[GAL.2:12]]). 12:5
 
 The morning watch is from about two a.m. until dawn. 12:7
 
 That Judith washed in the water from the spring was ceremonial, not merely
 
-practical. Jewish places of prayer were usually located near water (Ps 136:1; Ezk 1:3; Acts
+practical. Jewish places of prayer were usually located near water ([[PSA.136:1]]; [[EZK.1:3]]; Acts
 
 
 ### 16:13
@@ -377,7 +377,7 @@ Judith prayer was said in her heart to keep this final petition for blessing
 
 between herself and the Lord and away from prying ears. 13:6, 7 Holofernes' sword and Judith's plea O Lord . . . strengthen me brings to mind
 
-Ps 36:15, 17, 39. 13:13
+[[PSA.36:15]], [[PSA.36:17]], [[PSA.36:39]]. 13:13
 
 Her return was incredible to them because, in their weakness of faith, they
 
@@ -385,7 +385,7 @@ thought her departure had meant her certain death. 13:14
 
 Praise God contains an allusion to the etymology of the name Judith, which means
 
-"Jewess" or "praise" (see Gn 49:8). 13:15
+"Jewess" or "praise" (see [[GEN.49:8]]). 13:15
 
 That Holofernes died by the hand of a woman emphasizes the shame
 
@@ -399,7 +399,7 @@ the Theotokos. 14:1
 
 This public display of the head (or body) of a fallen enemy leader was done to reveal
 
-his disgrace (Dt 21:22, 23). 14:5
+his disgrace ([[DEU.21:22]], [[DEU.21:23]]). 14:5
 
 The canopy (13:15) is a single witness to the identity of the head. Achior is a former
 
@@ -407,13 +407,13 @@ ally of Holofernes who provides confirmation of the identity of the head. 14:10
 
 For an Ammonite to be membered with the house of Israel is in contradiction
 
-to the law (Dt 23:4, 5). So also is the salvation of all Gentiles. 15:8
+to the law ([[DEU.23:4]], [[DEU.23:5]]). So also is the salvation of all Gentiles. 15:8
 
 They would have greeted her with words similar to St. Paul's salutation to the
 
-Thessalonians, "Now may the Lord of peace Himself give you peace always in every way. The Lord be with you all" (2Th 3:16), a typical Jewish greeting. 15:13 The songs of praise would likely have included the Psalms of Ascent (120-134). 16:2
+Thessalonians, "Now may the Lord of peace Himself give you peace always in every way. The Lord be with you all" ([[2TH.3:16]]), a typical Jewish greeting. 15:13 The songs of praise would likely have included the Psalms of Ascent (120-134). 16:2
 
-This verse alludes to Ps 17:48. 16:3
+This verse alludes to [[PSA.17:48]]. 16:3
 
 The mountains of the north was the typical path of advance against Israel by the
 
@@ -428,12 +428,12 @@ the return from captivity.
 ### 16:14
 *(anchor: JDT.16:14)*
 
-This verse is a paraphrase of Ps 32:6. 
+This verse is a paraphrase of [[PSA.32:6]]. 
 
 ### 16:19
 *(anchor: JDT.16:19)*
 
-In imitation of Abraham (Gn 14:22, 23), and Elisha (4Kg 5:16), Judith took nothing
+In imitation of Abraham ([[GEN.14:22]], [[GEN.14:23]]), and Elisha ([[2KI.5:16]]), Judith took nothing
 
 for herself, but dedicated all the property to the Lord. 
 
@@ -442,8 +442,8 @@ for herself, but dedicated all the property to the Lord.
 
 Judith maintained her widowhood until the end of her life, a common practice in
 
-Israel (Lk 2:36, 37) and in the Church (1Co 7:8, 39, 40; 1Ti 5:5). The phrase was buried
+Israel ([[LUK.2:36]], [[LUK.2:37]]) and in the Church ([[1CO.7:8]], [[1CO.7:39]], [[1CO.7:40]]; [[1TI.5:5]]). The phrase was buried
 
 with his people is indicative of the Hebrew practice of burying succeeding generations
 
-of the family in a common grave site (Gn 49:29).
+of the family in a common grave site ([[GEN.49:29]]).

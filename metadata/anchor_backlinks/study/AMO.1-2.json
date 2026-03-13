@@ -1,0 +1,16 @@
+{
+  "anchor_id": "AMO.1:2",
+  "canon_uri": "canon/OT/AMO.md#AMO.1:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1451,
+      "raw_match": "[[AMO.1:2]]",
+      "reference_type": "wikilink",
+      "context": "judgment ([[JER.27:44]]; [[AMO.1:2]]; Joel 4:16). The seven thunders probably refer to the"
+    }
+  ]
+}

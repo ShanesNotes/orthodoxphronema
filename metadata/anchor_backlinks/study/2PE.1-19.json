@@ -1,0 +1,37 @@
+{
+  "anchor_id": "2PE.1:19",
+  "canon_uri": "canon/NT/2PE.md#2PE.1:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 739,
+      "raw_match": "[[2PE.1:19]]-21",
+      "reference_type": "wikilink_range",
+      "context": "their authority (see also [[2PE.1:19]]-21)."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 525,
+      "raw_match": "[[2PE.1:19]]",
+      "reference_type": "wikilink",
+      "context": "tries to use the Scriptures to put God's power of protection to the test. (See also [[2PE.1:19]]-"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 563,
+      "raw_match": "[[2PE.1:19]]",
+      "reference_type": "wikilink",
+      "context": "high ([[LUK.1:78]]; see [[2PE.1:19]]), the true Light which enlightens all who come into the world"
+    },
+    {
+      "source_file": "staging/validated/OT/JOB_footnotes.md",
+      "line_number": 477,
+      "raw_match": "[[2PE.1:19]]",
+      "reference_type": "wikilink",
+      "context": "denotes Holy Scripture ([[2PE.1:19]]; [[PSA.118:105]]); my house is \"the dwelling place of the"
+    }
+  ]
+}

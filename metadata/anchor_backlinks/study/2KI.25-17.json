@@ -1,0 +1,23 @@
+{
+  "anchor_id": "2KI.25:17",
+  "canon_uri": "canon/OT/2KI.md#2KI.25:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2CH_footnotes.md",
+      "line_number": 504,
+      "raw_match": "[[2KI.25:8]]-21",
+      "reference_type": "wikilink_range",
+      "context": "gone beyond the point of no return and will not repent (see [[2KI.25:8]]-21). Seventy years"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 2154,
+      "raw_match": "[[2KI.25:1]]-21",
+      "reference_type": "wikilink_range",
+      "context": "39:10; 52:12, 13; [[2KI.25:1]]-21)."
+    }
+  ]
+}

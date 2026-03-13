@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.24:18",
+  "canon_uri": "canon/OT/EXO.md#EXO.24:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1CO_footnotes.md",
+      "line_number": 235,
+      "raw_match": "[[EXO.24:16]]-18",
+      "reference_type": "wikilink_range",
+      "context": "the Father Himself ([[EXO.24:16]]-18). The incarnate Son of God, who clothes Himself \"with"
+    }
+  ]
+}

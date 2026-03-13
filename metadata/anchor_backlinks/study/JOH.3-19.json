@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JOH.3:19",
+  "canon_uri": "canon/NT/JOH.md#JOH.3:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/EPH_footnotes.md",
+      "line_number": 649,
+      "raw_match": "[[JOH.3:19]]-21",
+      "reference_type": "wikilink_range",
+      "context": "our sins and repent of them (see [[JOH.3:19]]-21). Orthodox Christians do this before baptism,"
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 2853,
+      "raw_match": "[[JOH.3:19]]-21",
+      "reference_type": "wikilink_range",
+      "context": "Darkness: See [[JOH.3:19]]-21; 13:30."
+    },
+    {
+      "source_file": "staging/validated/OT/AMO_footnotes.md",
+      "line_number": 144,
+      "raw_match": "[[JOH.3:19]]-21",
+      "reference_type": "wikilink_range",
+      "context": "be plunged into the very darkness (v. 20) that they love so much (see [[JOH.3:19]]-21)."
+    }
+  ]
+}

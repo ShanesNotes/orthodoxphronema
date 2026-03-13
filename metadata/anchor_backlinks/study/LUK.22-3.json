@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.22:3",
+  "canon_uri": "canon/NT/LUK.md#LUK.22:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3645,
+      "raw_match": "[[LUK.22:3]]",
+      "reference_type": "wikilink",
+      "context": "[[LUK.22:3]]). Jesus lets Judas accuse himself, yet even hearing that Christ knew of his"
+    }
+  ]
+}

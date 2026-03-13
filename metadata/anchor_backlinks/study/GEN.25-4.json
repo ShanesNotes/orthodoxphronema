@@ -1,0 +1,16 @@
+{
+  "anchor_id": "GEN.25:4",
+  "canon_uri": "canon/OT/GEN.md#GEN.25:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 1205,
+      "raw_match": "[[GEN.25:1]]-4",
+      "reference_type": "wikilink_range",
+      "context": "Keturah ([[GEN.25:1]]-4) would be Israelites. Furthermore, not all those in Isaac's line are"
+    }
+  ]
+}

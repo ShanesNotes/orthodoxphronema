@@ -1,0 +1,65 @@
+{
+  "anchor_id": "EPH.5:22",
+  "canon_uri": "canon/NT/EPH.md#EPH.5:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 345,
+      "raw_match": "[[EPH.5:22]]-33",
+      "reference_type": "wikilink_range",
+      "context": "one's spouse even affects one's relationship with God (see [[EPH.5:22]]-33)."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2987,
+      "raw_match": "[[EPH.5:21]]-33",
+      "reference_type": "wikilink_range",
+      "context": "marriage analogy for the Kingdom ([[EPH.5:21]]-33)."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2617,
+      "raw_match": "[[EPH.5:22]]-32",
+      "reference_type": "wikilink_range",
+      "context": "[[2CO.11:2]]; [[EPH.5:22]]-32). This union is fulfilled in the rest of Revelation: Jesus, the"
+    },
+    {
+      "source_file": "staging/validated/OT/1ES_footnotes.md",
+      "line_number": 125,
+      "raw_match": "[[EPH.5:22]]",
+      "reference_type": "wikilink",
+      "context": "women to be united in love, just as Christ and His Church are united in love ([[EPH.5:22]], [[EPH.5:23]]). Thus, as Zerubbabel describes women, we see Christ describing His relationship with"
+    },
+    {
+      "source_file": "staging/validated/OT/BAR_footnotes.md",
+      "line_number": 214,
+      "raw_match": "[[EPH.5:21]]-33",
+      "reference_type": "wikilink_range",
+      "context": "See Is 40:4, 5; [[EPH.5:21]]-33."
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 135,
+      "raw_match": "[[EPH.5:22]]-33",
+      "reference_type": "wikilink_range",
+      "context": "joining, he will be devoted to her with sacrificial love and devotion, and she to him. This great mystery points to the greater mystery: the marriage of Christ and His Bride, the Church ([[EPH.5:22]]-33). For He left His Father and became Man to seek a Bride. He"
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1502,
+      "raw_match": "[[EPH.5:22]]-33",
+      "reference_type": "wikilink_range",
+      "context": "(see [[EPH.5:22]]-33)."
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 238,
+      "raw_match": "[[EPH.5:22]]-32",
+      "reference_type": "wikilink_range",
+      "context": "25:1-13; [[EPH.5:22]]-32). 8:4"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2KI.2:11",
+  "canon_uri": "canon/OT/2KI.md#2KI.2:11",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 3255,
+      "raw_match": "[[2KI.2:11]]",
+      "reference_type": "wikilink",
+      "context": "This event fulfills the type given when Elijah ascended in a fiery chariot ([[2KI.2:11]]) and"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DAN.8:26",
+  "canon_uri": "canon/OT/DAN.md#DAN.8:26",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3125,
+      "raw_match": "[[DAN.8:26]]",
+      "reference_type": "wikilink",
+      "context": "[[DAN.8:26]]; 12:4, 9. For the time is now, the message is for the contemporary"
+    }
+  ]
+}

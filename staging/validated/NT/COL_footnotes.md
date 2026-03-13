@@ -74,7 +74,7 @@ Thrones, dominions, principalities, and powers are ranks of angels. Christ is
 
 not only the source (through Him) of creation--of all things, on earth and in heaven--
 
-but also its goal (for Him; see Eph 1:10).
+but also its goal (for Him; see [[EPH.1:10]]).
 
 
 ### 1:18
@@ -140,7 +140,7 @@ Christ and the Church are so intimately united that, as we suffer and die with H
 
 (beginning at baptism), so Christ suffers with us in our work of reconciliation. (See Mt
 
-25:40; Lk 10:16; Jn 15:18-21; Acts 9:1, 4, 5; Rom 8:17; 2Co 1:5; 4:10; Php 1:20; 3:10.)
+25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)
 
 
 ### 1:25
@@ -154,7 +154,7 @@ to its divinely appointed apostle.
 ### 1:26
 *(anchor: COL.1:26)*
 
-Mystery: See Eph 1:9, 10 and note; see also Glossary.
+Mystery: See [[EPH.1:9]], [[EPH.1:10]] and note; see also Glossary.
 
 
 ### 2:3
@@ -182,7 +182,7 @@ oppose Christ and are at the core of the pagan cults and systems of knowledge; a
 
 human traditions opposed to God's tradition.
 
-2:9, 10 See Jn 1:14. Do we need to rise through manifold levels of being to get to God? No!
+2:9, 10 See [[JOH.1:14]]. Do we need to rise through manifold levels of being to get to God? No!
 
 The incarnate Christ is fully God and fully Man--He fulfills human nature, and all levels
 
@@ -252,7 +252,7 @@ lie along that path as well. Submitting to created realities, heeding human trad
 
 deception of feeding the flesh when you think you are denying it, are false asceticism and
 
-condemned as pride. (For Paul on asceticism, see 1Co 9; 1Ti 6:12; 2Ti 2:3-6).
+condemned as pride. (For Paul on asceticism, see 1Co 9; [[1TI.6:12]]; [[2TI.2:3]]-6).
 
 
 ### 3:1-17

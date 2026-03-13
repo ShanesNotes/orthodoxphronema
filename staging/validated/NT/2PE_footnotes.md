@@ -16,7 +16,7 @@ Whereas, 1 Peter introduces the author simply as "Peter, an apostle of Jesus Chr
 
 Peter adds Simon, the pre-Christian name of Peter, and a bondservant. God refers to
 
-Jesus Christ (as in Tts 2:13). What Peter teaches in this letter is apostolic consensus: like
+Jesus Christ (as in [[TIT.2:13]]). What Peter teaches in this letter is apostolic consensus: like
 
 precious faith with us. He reminds and exhorts his hearers to full Christian belief and
 
@@ -76,7 +76,7 @@ us by grace alone, but as already having God indwelling and taking lodging in us
 
 according to what is set forth in the Prophet, 'I shall dwell among them and walk about in
 
-their midst' (Lv 26:12; 2Co 6:16)" (CyrAl).
+their midst' (Lv 26:12; [[2CO.6:16]])" (CyrAl).
 
 
 ### 1:5-7
@@ -90,7 +90,7 @@ the vigor and courage behind attaining moral excellence. Love (v. 7) is adjoined
 
 brotherly kindness (affection among Christians), for love of God cannot be perfected
 
-except through love of one's neighbor (see 1Jn 4:20).
+except through love of one's neighbor (see [[1JN.4:20]]).
 
 
 ### 1:8
@@ -142,7 +142,7 @@ Peter has been an eyewitness to the majesty of Christ in many ways--and here
 
 reminds us especially that he was one of those present with the Lord on the Mount of
 
-Transfiguration (Mt 17:1-8). What Peter is going to repeat about the second coming is the
+Transfiguration ([[MAT.17:1]]-8). What Peter is going to repeat about the second coming is the
 
 common apostolic tradition, which is buttressed by the eyewitness testimony of the
 
@@ -166,7 +166,7 @@ was not written by the mere volition of men but by the inspiration of the Holy S
 
 2) and unstable Christians (3:16) interpret incorrectly. The apostles (the we of v. 19) are
 
-guided by the Holy Spirit, trusting in the promise of true interpretation (Jn 16:13). The
+guided by the Holy Spirit, trusting in the promise of true interpretation ([[JOH.16:13]]). The
 
 Church, founded by the apostles, likewise receives the Holy Spirit. "For the apostles, like
 
@@ -214,7 +214,7 @@ disdain for authority, especially that of Christ.
 
 Noah is a preacher of righteousness (v. 5), in part because by doing righteous deeds
 
-he showed to all who saw him how life ought to be lived (see Heb 11:7).
+he showed to all who saw him how life ought to be lived (see [[HEB.11:7]]).
 
 
 ### 2:12-17
@@ -222,11 +222,11 @@ he showed to all who saw him how life ought to be lived (see Heb 11:7).
 
 False teachers are condemned for both their words and their actions. Those who
 
-are natural cannot understand spiritual things (1Co 2:14) and will be destroyed, as
+are natural cannot understand spiritual things ([[1CO.2:14]]) and will be destroyed, as
 
-false prophets have been in the past. For the story of Balaam (v. 15), see Nm 22:1-25:9;
+false prophets have been in the past. For the story of Balaam (v. 15), see [[NUM.22:1]]-25:9;
 
-31:8, 16; Dt 23:4, 5; Jos 13:22; Jude 11.
+31:8, 16; [[DEU.23:4]], [[DEU.23:5]]; [[JOS.13:22]]; Jude 11.
 
 
 ### 2:19
@@ -262,7 +262,7 @@ ready when it does come" (Bede).
 
 These words are not just for the false teachers, but for us all. We are granted more
 
-time primarily to grant us fuller repentance. (See v. 15; 2Co 7:9, 10.)
+time primarily to grant us fuller repentance. (See v. 15; [[2CO.7:9]], [[2CO.7:10]].)
 
 
 ### 3:10-12
@@ -272,9 +272,9 @@ Because this world will pass away, we ought to be holy (v. 11) and godly, living
 
 citizens of the new heaven and earth. Christians can actually hasten the coming of that
 
-day. How? Through evangelism (Mt 24:14; Mk 13:10), prayer (especially the Lord's
+day. How? Through evangelism ([[MAT.24:14]]; [[MRK.13:10]]), prayer (especially the Lord's
 
-Prayer, "Thy Kingdom come"), holy living (1Pt 2:12), and repentance and obedience (Acts
+Prayer, "Thy Kingdom come"), holy living ([[1PE.2:12]]), and repentance and obedience (Acts
 
 3:19-21).
 

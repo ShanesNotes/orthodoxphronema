@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2CO.1:22",
+  "canon_uri": "canon/NT/2CO.md#2CO.1:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1145,
+      "raw_match": "[[2CO.1:22]]",
+      "reference_type": "wikilink",
+      "context": "restrained until God's servants (Is 44:5; [[2CO.1:22]]; [[2TI.2:19]]) are sealed (v. 3), that is,"
+    }
+  ]
+}

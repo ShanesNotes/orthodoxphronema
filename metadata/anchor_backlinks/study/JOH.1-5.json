@@ -1,0 +1,51 @@
+{
+  "anchor_id": "JOH.1:5",
+  "canon_uri": "canon/NT/JOH.md#JOH.1:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 63,
+      "raw_match": "[[JOH.1:4]]-9",
+      "reference_type": "wikilink_range",
+      "context": "([[LUK.1:79]]; 2:32; [[JOH.1:4]]-9), the Transfiguration ([[MAT.17:2]]) and the Resurrection."
+    },
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 417,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "the Word of God Himself, our Lord Jesus Christ (see [[JOH.1:1]]-18). Nothing is able to escape"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 757,
+      "raw_match": "[[JOH.1:4]]-9",
+      "reference_type": "wikilink_range",
+      "context": "God is called \"light\" ([[JOH.1:4]]-9; 8:12; [[1JN.1:5]]). Light is necessary both for clear vision and"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 231,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "of the Son of Man (see also [[JOH.1:1]]-18). Thus, in Christ man (v. 14) and God (vv. 15, 16)"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1728,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "Second Person of the Godhead, was and is eternally active in all creation (see [[JOH.1:1]]-18)."
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 29,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "the language used by John to describe the Incarnation (see [[JOH.1:1]]-18). The Word who"
+    }
+  ]
+}

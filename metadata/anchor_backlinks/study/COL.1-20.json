@@ -1,0 +1,23 @@
+{
+  "anchor_id": "COL.1:20",
+  "canon_uri": "canon/NT/COL.md#COL.1:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[COL.1:15]]-20",
+      "reference_type": "wikilink_range",
+      "context": "[[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 180,
+      "raw_match": "[[COL.1:20]]",
+      "reference_type": "wikilink",
+      "context": "offering. Christ Himself is our peace offering ([[EPH.2:14]]; [[COL.1:20]]), and through Him we"
+    }
+  ]
+}

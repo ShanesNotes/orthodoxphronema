@@ -1,0 +1,16 @@
+{
+  "anchor_id": "HEB.6:5",
+  "canon_uri": "canon/NT/HEB.md#HEB.6:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 455,
+      "raw_match": "[[HEB.6:4]]-6",
+      "reference_type": "wikilink_range",
+      "context": "32; [[HEB.6:4]]-6; 10:26-31.)"
+    }
+  ]
+}

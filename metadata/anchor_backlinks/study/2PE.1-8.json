@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2PE.1:8",
+  "canon_uri": "canon/NT/2PE.md#2PE.1:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 500,
+      "raw_match": "[[2PE.1:5]]-11",
+      "reference_type": "wikilink_range",
+      "context": "(JohnChr). Thus, we must add virtue to our faith ([[2PE.1:5]]-11). 15:1-11"
+    }
+  ]
+}

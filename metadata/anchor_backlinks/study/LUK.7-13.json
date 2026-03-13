@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.7:13",
+  "canon_uri": "canon/NT/LUK.md#LUK.7:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2077,
+      "raw_match": "[[LUK.7:13]]",
+      "reference_type": "wikilink",
+      "context": "[[LUK.7:13]]), showing that His power and authority are extended to those who suffer."
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 193,
+      "raw_match": "[[LUK.7:11]]-17",
+      "reference_type": "wikilink_range",
+      "context": "On Christ raising the dead, see note at [[LUK.7:11]]-17."
+    }
+  ]
+}

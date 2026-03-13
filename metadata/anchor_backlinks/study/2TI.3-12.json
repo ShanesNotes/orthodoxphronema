@@ -1,0 +1,23 @@
+{
+  "anchor_id": "2TI.3:12",
+  "canon_uri": "canon/NT/2TI.md#2TI.3:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1882,
+      "raw_match": "[[2TI.3:12]]",
+      "reference_type": "wikilink",
+      "context": "Christ Jesus will suffer persecution\" ([[2TI.3:12]])."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1511,
+      "raw_match": "[[2TI.3:12]]",
+      "reference_type": "wikilink",
+      "context": "9; see also [[JOH.15:18]]; [[2TI.3:12]]). Various nations mentioned (vv. 7-9) represent the kinds of"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.82:18",
+  "canon_uri": "canon/OT/PSA.md#PSA.82:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2KI_footnotes.md",
+      "line_number": 412,
+      "raw_match": "[[PSA.82:18]]",
+      "reference_type": "wikilink",
+      "context": "See [[PSA.82:18]]. 19:31"
+    }
+  ]
+}

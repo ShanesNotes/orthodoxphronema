@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JOH.10:10",
+  "canon_uri": "canon/NT/JOH.md#JOH.10:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 1923,
+      "raw_match": "[[JOH.10:10]]",
+      "reference_type": "wikilink",
+      "context": "of all the virtues, described as riches and glory and life (see [[JOH.10:10]])."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 445,
+      "raw_match": "[[JOH.10:10]]",
+      "reference_type": "wikilink",
+      "context": "example, the green pastures of kingdom life (v. 2; see also [[JOH.10:10]]); the still waters"
+    },
+    {
+      "source_file": "staging/validated/OT/TOB_footnotes.md",
+      "line_number": 94,
+      "raw_match": "[[JOH.10:10]]",
+      "reference_type": "wikilink",
+      "context": "except to steal, and to kill, and to destroy\" ([[JOH.10:10]]). 3:11"
+    }
+  ]
+}

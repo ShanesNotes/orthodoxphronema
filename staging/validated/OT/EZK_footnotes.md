@@ -14,7 +14,7 @@ status: staging
 
 St. Gregory the Great comments that after establishing the time and place in history, the Prophet Ezekiel mystically "shows forth the Lord," for in Christ's thirtieth year He
 
-was baptized and the heavens were opened (see Mt 3:17). 
+was baptized and the heavens were opened (see [[MAT.3:17]]). 
 
 ### 1:3-4
 *(anchor: EZK.1:3)*
@@ -33,7 +33,7 @@ amber in the fire, God is made man in persecution."
 
 Ezekiel identifies the four living creatures as cherubim (10:9-16), the guardians
 
-of the throne of God (Ex 25:10-22; 3Kg 6:23-28). Like those of St. John's vision (see Rev
+of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see Rev
 
 
 ### 4:6
@@ -45,11 +45,11 @@ the spirit (vv. 12, 20) illustrates the spread of the gospel. 1:10
 
 St. Gregory the Great comments that the man is Matthew, because he begins his
 
-Gospel with Christ's genealogy (Mt 1:1). The lion is Mark, "because of the crying in the
+Gospel with Christ's genealogy ([[MAT.1:1]]). The lion is Mark, "because of the crying in the
 
-wilderness" (Mk 1:1). The ox is Luke, "because he started with a sacrifice" (Lk 1:8). The
+wilderness" ([[MRK.1:1]]). The ox is Luke, "because he started with a sacrifice" ([[LUK.1:8]]). The
 
-eagle is John, who "stretched toward the very substance of divinity" (Jn 1:1). Gregory
+eagle is John, who "stretched toward the very substance of divinity" ([[JOH.1:1]]). Gregory
 
 also sees in them types of Christ, who became a man in the Incarnation, an ox on the
 
@@ -57,7 +57,7 @@ Cross, a lion in the Resurrection, and an eagle in the Ascension. Finally, says 
 
 are reason, self-sacrifice, fortitude, and contemplation of heavenly things. 1:13
 
-The burning coals (v. 13), writes St. Gregory, are "holy men" (see Is 6:6 and note). The lamps signify the light of the gospel (see Jdg 7:16). 1:14-21 The wheels signify Holy Scripture, and the wheel within a wheel illustrates that
+The burning coals (v. 13), writes St. Gregory, are "holy men" (see Is 6:6 and note). The lamps signify the light of the gospel (see [[JDG.7:16]]). 1:14-21 The wheels signify Holy Scripture, and the wheel within a wheel illustrates that
 
 "the New Testament lay hidden by allegory in the letter of the Old Testament" (GrgGt). 1:22
 
@@ -65,7 +65,7 @@ St. Gregory sees in the wings an image of the virtues of the righteous. 1:25
 
 The man on the sapphire . . . throne prefigures the Incarnation of the Son of God
 
-from the Virgin Mary. 1:27 The rainbow images the new covenant (see Gn 9:13-15). 2:9, 10 The roll of a book signifies Holy Scripture, which Christ unrolled (Mk 4:34; Lk
+from the Virgin Mary. 1:27 The rainbow images the new covenant (see [[GEN.9:13]]-15). 2:9, 10 The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; Lk
 
 
 ### 24:25
@@ -77,13 +77,13 @@ spiritual understanding, but without through the plain sense of the letter still
 
 the weak" (GrgGt). Lamentation and mourning indicate repentance, while woe
 
-points to the Final Judgment (Lk 6:25). 3:1-3
+points to the Final Judgment ([[LUK.6:25]]). 3:1-3
 
 For the faithful, the taste of Christ the Word in our mouth is even sweeter than
 
-honey (see Ps 18:10; 118:103; Jer 15:16; Zec 5:1-4; Rev 10:8-11). 3:6
+honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11). 3:6
 
-Israel rejected Christ, but the Gentiles received Him (Lk 11:29-33). 3:13 The gospel spread first by preaching the sound, and later by the Holy Scriptures (the
+Israel rejected Christ, but the Gentiles received Him ([[LUK.11:29]]-33). 3:13 The gospel spread first by preaching the sound, and later by the Holy Scriptures (the
 
 wheels). 3:15
 
@@ -107,9 +107,9 @@ whole world. Ezekiel's being shut up and put in chains points to the cutting off
 
 prophecy to make way for Christ. Note that John the Baptist, the last Old Testament
 
-prophet, was put in prison (Mk 1:14); and his father, Zacharias, had his tongue bound
+prophet, was put in prison ([[MRK.1:14]]); and his father, Zacharias, had his tongue bound
 
-(Lk 1:20). 4:1
+([[LUK.1:20]]). 4:1
 
 St. Gregory the Great comments that the Prophet is called son of man so that when
 
@@ -119,9 +119,9 @@ bore the acts of unrighteousness of all humanity. 4:12-17
 
 It would have been unthinkable for Ezekiel to carry out this command as first
 
-given. The Apostle Peter made a similar protest (see Acts 10:9-16). But in a striking
+given. The Apostle Peter made a similar protest (see [[ACT.10:9]]-16). But in a striking
 
-reverse parallel, Christ made Himself to be sin for our sakes (2Co 5:21), so that all who
+reverse parallel, Christ made Himself to be sin for our sakes ([[2CO.5:21]]), so that all who
 
 waste away in their wrongdoings (v. 17) might partake together of the bread of
 
@@ -129,7 +129,7 @@ heaven and the water of eternal life. 5:1-4
 
 The hair and its destruction by fire, sword, and wind all point ultimately to the
 
-final judgment (compare Job 1:13-22; Is 7:20). The hair sewn into the garment
+final judgment (compare [[JOB.1:13]]-22; Is 7:20). The hair sewn into the garment
 
 illustrates the faithful remnant who have bound themselves to Christ. 5:5-6 Jerusalem is the Church, which was indeed put . . . in the midst of the nations
 
@@ -137,7 +137,7 @@ that she shall speak the gospel of truth. 5:7
 
 Even the nations that did not know God had ordinances. This verse points to the
 
-presence of the natural law, or free will, in man. See Rom 2:14, 15. 6:1-3 The final fulfillment of this judgment was carried out in the Incarnation, when Christ
+presence of the natural law, or free will, in man. See [[ROM.2:14]], [[ROM.2:15]]. 6:1-3 The final fulfillment of this judgment was carried out in the Incarnation, when Christ
 
 came to wield the sword of the Spirit against all idolatry. 7:1-6
 
@@ -169,7 +169,7 @@ The brightness of the Lord's glory refers to His uncreated energies, in which He
 
 reveals Himself. These Old Testament theophanies (see Ex 40:34; 3Kg 8:11) are fulfilled
 
-and perfected in the glory of the divinity of Christ (Jn 1:14). 10:8-17 See ch. 1 and notes. 10:13
+and perfected in the glory of the divinity of Christ ([[JOH.1:14]]). 10:8-17 See ch. 1 and notes. 10:13
 
 Wheel translates the word Gelgel, used in the LXX as a proper noun, a
 
@@ -191,7 +191,7 @@ on the spot (v. 13). Ananias and Sapphira met a similar fate in the New Testamen
 
 5:10). The apostle Philip was transported in a similar way, but this time his audience, a
 
-Gentile eunuch, listened and was converted (Acts 8:26-39). 11:17-25 I will give them the land: This prophecy is being fulfilled in the New Israel, which is the Church, composed of both believing Jews and Gentiles (the nations). 12:1-3
+Gentile eunuch, listened and was converted ([[ACT.8:26]]-39). 11:17-25 I will give them the land: This prophecy is being fulfilled in the New Israel, which is the Church, composed of both believing Jews and Gentiles (the nations). 12:1-3
 
 Jerusalem was destroyed and its inhabitants taken into captivity in 586 BC, about six years after this prophecy was given. 12:12
 
@@ -203,17 +203,17 @@ through a break in the city wall; then he was taken captive and his eyes put out
 ### 25:7
 *(anchor: EZK.25:7)*
 
-and note). 12:18-19 Compare to Gn 3:17-19. 12:21-28 Christ echoes this passage in His parable of the good steward (Lk 12:42-48). 12:25
+and note). 12:18-19 Compare to [[GEN.3:17]]-19. 12:21-28 Christ echoes this passage in His parable of the good steward ([[LUK.12:42]]-48). 12:25
 
 I, the Lord, shall speak My words points to Christ, the logos of God. 13:1-3 Israel's false prophets in reality see nothing at all. 13:4-5
 
 Self-appointed prophets have no firm foundation of truth, but run after "every
 
-wind of doctrine" (Eph 4:14). True prophets discern when a message is from God and not
+wind of doctrine" ([[EPH.4:14]]). True prophets discern when a message is from God and not
 
 "from their hearts" (v. 3). 13:10-11 Christ condemns the Pharisees with similar language, calling them "whitewashed
 
-tombs" (Mt 23:27), while Paul calls the high priest Ananias a "whitewashed wall" (Acts
+tombs" ([[MAT.23:27]]), while Paul calls the high priest Ananias a "whitewashed wall" (Acts
 
 23:3). 14:12-14
 
@@ -231,7 +231,7 @@ new covenant in Christ. Chapters 15 and 17 are parables, while ch. 16 speaks of 
 
 for lawless Jerusalem. The vine is an image of Israel under the old covenant, which was
 
-replaced when Christ, the "true vine," came (see Jn 15:1-6). The branches in the forest
+replaced when Christ, the "true vine," came (see [[JOH.15:1]]-6). The branches in the forest
 
 typify the Gentile nations from which believers will be "grafted into" the vine (see Rom
 
@@ -241,7 +241,7 @@ lawless children. 16:59-63 Though we have dishonored God, still He will remember
 
 Him. This calls to mind the repentant thief who called out to Christ, "Remember me
 
-when You come into Your kingdom" (Lk 23:42). 17:1
+when You come into Your kingdom" ([[LUK.23:42]]). 17:1
 
 This parable was fulfilled historically when Israel went into the Babylonian captivity. Some scholars say that the first great eagle is Nebuchadnezzar (v. 3), the second (v. 7)
 
@@ -253,13 +253,13 @@ As the branches were planted on Israel's mountain, so the Gentile Church
 
 die (v. 4): Each person is guilty only of his or her own sins. Man inherited death and a
 
-tendency to sin from Adam (Rom 5:12); but human nature, though stained by the fall, remains in the image of God (v. 19). A man may turn away from righteousness (v. 24), but he is also capable of seeking God's grace and experiencing a new heart and a new
+tendency to sin from Adam ([[ROM.5:12]]); but human nature, though stained by the fall, remains in the image of God (v. 19). A man may turn away from righteousness (v. 24), but he is also capable of seeking God's grace and experiencing a new heart and a new
 
 spirit (v. 31; see 11:17-25). 18:32
 
-See 1Ti 2:4. 19:1-14 The mother lion refers to Judah. The two young lions (v. 5) are Jehoahaz and
+See [[1TI.2:4]]. 19:1-14 The mother lion refers to Judah. The two young lions (v. 5) are Jehoahaz and
 
-Jehoiachin, the last kings to reign in Judah (4Kg 23:34; 24:12). The lamentation is
+Jehoiachin, the last kings to reign in Judah ([[2KI.23:34]]; 24:12). The lamentation is
 
 taken up because the Davidic line, through which the Messiah was to come, was feared to
 
@@ -267,7 +267,7 @@ end. But the faithful Jews would have found renewed hope in this amazing prophec
 
 it had been promised long ago by their father Jacob that the rod of strength, the scepter
 
-(vv. 11, 14), would not depart from Judah until the Messiah came (Gn 49:9-12). 20:1-4 This is the introduction to a chapter that describes Israel's history of lawlessness. 20:29
+(vv. 11, 14), would not depart from Judah until the Messiah came ([[GEN.49:9]]-12). 20:1-4 This is the introduction to a chapter that describes Israel's history of lawlessness. 20:29
 
 Bamah: There is a play on words here: abamah means "high place" in Hebrew; bema in Greek means the same. St. Jerome translates this as excelsum ("the exalted
 
@@ -297,11 +297,11 @@ From here to v. 12, seven times the phrase within you is used, underscoring not
 
 only the grievous sins, but the fact that these were committed in the Holy City. 23:1-49
 
-These two sisters image all who turn from God to satisfy their own desires. Oholah (i.e., Samaria) is like those who do not have the Law (Rom 1:23), yet despise the
+These two sisters image all who turn from God to satisfy their own desires. Oholah (i.e., Samaria) is like those who do not have the Law ([[ROM.1:23]]), yet despise the
 
-natural law within them (Rom 1:32). Oholibah (i.e., Judah) is like those who have the
+natural law within them ([[ROM.1:32]]). Oholibah (i.e., Judah) is like those who have the
 
-Law, yet "dishonor God through breaking the law" (Rom 2:23). The righteous men (vv. 45-49) typify the apostles, who preached to both Jew and Gentile (Rom 3:30). 24:1-14
+Law, yet "dishonor God through breaking the law" ([[ROM.2:23]]). The righteous men (vv. 45-49) typify the apostles, who preached to both Jew and Gentile ([[ROM.3:30]]). 24:1-14
 
 This parable speaks the coming judgment of Jerusalem, the house which
 
@@ -333,9 +333,9 @@ the gospel. King Hiram of Tyre had been friendly with Israel (3Kg 5); yet by the
 
 the captivity Tyre was set against Jerusalem (26:2). Christ began to fulfill this judgment
 
-when He cast the demon out of the Syro-Phoenician's daughter (Mk 7:24-30). After
+when He cast the demon out of the Syro-Phoenician's daughter ([[MRK.7:24]]-30). After
 
-Pentecost, the gospel spread rapidly to this region (Acts 21:3-5). 
+Pentecost, the gospel spread rapidly to this region ([[ACT.21:3]]-5). 
 
 ### 29:1-21
 *(anchor: EZK.29:1)*
@@ -344,7 +344,7 @@ The judgment against Pharaoh and Egypt illustrates the destruction of demonic
 
 strongholds through baptism. As the rivers (v. 3) belonged to Pharaoh, so the dragon (v. 3), the devil, held sway on the earth until Christ destroyed him in the waters of the
 
-Jordan (see also Ex 14:27-30). The horn (v. 21) is a symbol for Christ. 
+Jordan (see also [[EXO.14:27]]-30). The horn (v. 21) is a symbol for Christ. 
 
 ### 30:1-18
 *(anchor: EZK.30:1)*
@@ -353,7 +353,7 @@ In the days of the Captivity, Egypt and Ethiopia stood against God's purposes. B
 
 among the Gentiles. Indeed, the Ethiopian eunuch confessed that "Jesus Christ is the Son
 
-of God" when Philip appeared to him (Acts 8:26-39). 
+of God" when Philip appeared to him ([[ACT.8:26]]-39). 
 
 ### 31:2-9
 *(anchor: EZK.31:2)*
@@ -394,16 +394,16 @@ sinful, unrighteous, and impious the man who falls away from piety and righteous
 
 unrighteousness and ungodliness. Wherefore also our Lord Jesus Christ said, 'In
 
-whatsoever things I shall take you, in these I shall judge you'" (Justin; compare Jn 12:47, 48). 
+whatsoever things I shall take you, in these I shall judge you'" (Justin; compare [[JOH.12:47]], [[JOH.12:48]]). 
 
 ### 33:21-33
 *(anchor: EZK.33:21)*
 
 Ezekiel's mouth was opened (v. 22) when Jerusalem was taken captive, while
 
-the kingly line of Judah went silent until the coming of Christ (see Gn 49:9-12). St. Zacharias, the priest who was made mute because of his unbelief, was given back his
+the kingly line of Judah went silent until the coming of Christ (see [[GEN.49:9]]-12). St. Zacharias, the priest who was made mute because of his unbelief, was given back his
 
-voice when his son John the Baptist was born (Lk 1:5-20, 57-79). Also see 3:22-27; 19:1-14 and notes. 
+voice when his son John the Baptist was born ([[LUK.1:5]]-20, 57-79). Also see 3:22-27; 19:1-14 and notes. 
 
 ### 34:1-31
 *(anchor: EZK.34:1)*
@@ -412,7 +412,7 @@ It is appropriate that immediately after regaining his voice, the prophet condem
 
 the false shepherds and prophesies the coming of the Good Shepherd, Christ, and the
 
-establishment of His sheep (v. 31), the Church. Compare Jn 10; Lk 15:4-7; 19:17. 
+establishment of His sheep (v. 31), the Church. Compare Jn 10; [[LUK.15:4]]-7; 19:17. 
 
 ### 34:11-16
 *(anchor: EZK.34:11)*
@@ -422,7 +422,7 @@ Here is an image of Christ shepherding His sheep.
 ### 34:17-22
 *(anchor: EZK.34:17)*
 
-prophet. Compare Mt 23:32, 33, where Christ echoes His own words given here to the
+prophet. Compare [[MAT.23:32]], [[MAT.23:33]], where Christ echoes His own words given here to the
 
 
 ### 34:23
@@ -433,9 +433,9 @@ My servant David clearly images Christ the Good Shepherd.
 ### 35:1-15
 *(anchor: EZK.35:1)*
 
-Mount Seir is Edom (v. 15), where Esau, brother of Jacob, settled (Gn 36:8). See
+Mount Seir is Edom (v. 15), where Esau, brother of Jacob, settled ([[GEN.36:8]]). See
 
-Dt 2:1-6 and note. 
+[[DEU.2:1]]-6 and note. 
 
 ### 36:1-7
 *(anchor: EZK.36:1)*
@@ -513,22 +513,22 @@ latter constrains with cold." The Church takes the biblical term the last days (
 
 mean the time since Pentecost, the Church age, though there will be a final battle at the
 
-end of the age, after which Satan will be cast into the abyss forever (Rev 20:10). Gog and
+end of the age, after which Satan will be cast into the abyss forever ([[REV.20:10]]). Gog and
 
-Magog: See Rev 20:8-10 and note. 
+Magog: See [[REV.20:8]]-10 and note. 
 
 ### 40:2-3
 *(anchor: EZK.40:2)*
 
 St. Gregory the Great sees Christ in both the high mountain and the man. The
 
-city is the heavenly Jerusalem, the Church (Heb 12:22). The builder's cord symbolizes
+city is the heavenly Jerusalem, the Church ([[HEB.12:22]]). The builder's cord symbolizes
 
 the truth taught by the apostles. The measuring rod signifies Holy Scripture. Christ
 
 stood at the gate "because in His humanity He appeared visible, and in His divinity He
 
-remained unseen" (GrgGt). Compare Rev 21:9-27. 
+remained unseen" (GrgGt). Compare [[REV.21:9]]-27. 
 
 ### 40:5-7
 *(anchor: EZK.40:5)*
@@ -548,7 +548,7 @@ contemplative life.
 
 St. Gregory the Great interprets the meaning of the gates in four ways: as
 
-signifying Christ (Jn 10:1, 2), the preachers of truth (Rev 21:21), the Scriptures, and the
+signifying Christ ([[JOH.10:1]], [[JOH.10:2]]), the preachers of truth ([[REV.21:21]]), the Scriptures, and the
 
 faith. The seven stairs (v. 6) signify the "sevenfold grace of the Holy Spirit" (see Is 11:2, 3). The chambers are "the hearts of those whose soul is joined through love with the
 
@@ -590,7 +590,7 @@ Hidden windows, like icons, provide glimpses of heavenly glory, which enlighten
 
 the soul through contemplation; while palm trees signify the rewards of victory (Jn
 
-12:13; Rev 7:9). 
+12:13; [[REV.7:9]]). 
 
 ### 40:20-28
 *(anchor: EZK.40:20)*
@@ -672,16 +672,16 @@ The shaded light illustrates that the light of Christ's glory is revealed to man
 
 as he is able to bear it; for while we are on this earth, we see as in a mirror dimly (1Co
 
-13:12). Compare the term fishnet to 47:10; Jn 21:3-6. The wood panels point to
+13:12). Compare the term fishnet to 47:10; [[JOH.21:3]]-6. The wood panels point to
 
-Christ's humanity (see Ex 25:10, 11 and note). 
+Christ's humanity (see [[EXO.25:10]], [[EXO.25:11]] and note). 
 
 ### 41:17-19
 *(anchor: EZK.41:17)*
 
 The two faces of the cherubim signify Christ as man and as lion of Judah (see
 
-Gn 49:9-12 and note). 
+[[GEN.49:9]]-12 and note). 
 
 ### 41:21
 *(anchor: EZK.41:21)*
@@ -716,7 +716,7 @@ Under the Law, the holy place was accessible only to the priests, but in Christ,
 ### 42:15-20
 *(anchor: EZK.42:15)*
 
-He measured the house all around: Compare Rev 21:9-27. 
+He measured the house all around: Compare [[REV.21:9]]-27. 
 
 ### 43:1-12
 *(anchor: EZK.43:1)*
@@ -729,11 +729,11 @@ The prophet was led . . . out from the east gate, the glory of the Lord entered,
 
 -5, foreshadows the Incarnation, when the Holy Spirit overshadowed the Virgin in
 
-the Temple and the Son of God was conceived in her womb (Lk 1:26-38). The sound of
+the Temple and the Son of God was conceived in her womb ([[LUK.1:26]]-38). The sound of
 
 many voices (v. 2) is echoed by the "multitude of the heavenly host" announcing the
 
-Advent of Christ to the shepherds (Lk 2:13). 43:13-17 The altar here, as well as the altar in the Church, images the heavenly altar. The
+Advent of Christ to the shepherds ([[LUK.2:13]]). 43:13-17 The altar here, as well as the altar in the Church, images the heavenly altar. The
 
 altar is "the soul of the righteous man, which lays upon itself before His eyes as many
 
@@ -745,7 +745,7 @@ low down after the manner of a ditch? . . . Well, too, this same trench is direc
 
 one cubit, because, if patience fails not, the measure of unity is preserved" (GrgGt). The
 
-great mercy seat is clearly a type of Christ. 43:18-27 The Levites typify the clergy who serve at the altar in the Church (see Nm 8:5-
+great mercy seat is clearly a type of Christ. 43:18-27 The Levites typify the clergy who serve at the altar in the Church (see [[NUM.8:5]]-
 
 25 and note). The burnt offerings point to Christ's sacrifice on the Cross for our
 
@@ -787,7 +787,7 @@ and His Church. The one sheep (v. 15), the young bull (v. 18), and the prince (v
 
 are all types of Christ, our possession (v. 8), who made atonement (v. 18) for His
 
-Church. The Paschal Feast (v. 21), or Passover (see Nm 28:16 and note), is fulfilled
+Church. The Paschal Feast (v. 21), or Passover (see [[NUM.28:16]] and note), is fulfilled
 
 whenever we celebrate Christ's Resurrection. 
 
@@ -796,7 +796,7 @@ whenever we celebrate Christ's Resurrection.
 
 With the Resurrection of Christ, the Sabbath, which was the seventh day, has
 
-become the day of rest and preparation for the Eighth Day, or Sunday (see Acts 20:7). During the Divine Liturgy, the people gather to worship (v. 9) the Lord and to make a
+become the day of rest and preparation for the Eighth Day, or Sunday (see [[ACT.20:7]]). During the Divine Liturgy, the people gather to worship (v. 9) the Lord and to make a
 
 grain offering in the form of bread and wine. The oil (v. 14) signifies the presence of
 
@@ -813,7 +813,7 @@ came into the world by taking His flesh from His Mother, the Most Holy Theotokos
 
 A vision applying to holy baptism, the coming of the Holy Spirit, the preaching of
 
-the apostles (compare v. 10 to Jn 21:6), and the growth of the Church from both Jew and
+the apostles (compare v. 10 to [[JOH.21:6]]), and the growth of the Church from both Jew and
 
 Gentile believers (resident aliens, vv. 21-23). "In the vision of the prophet Ezekiel there
 
@@ -832,7 +832,7 @@ it heals the bitter waters and quickens those that are dead" (Jerome).
 ### 47:12
 *(anchor: EZK.47:12)*
 
-See Rev 22:2. 
+See [[REV.22:2]]. 
 
 ### 48:1-35
 *(anchor: EZK.48:1)*
@@ -848,12 +848,12 @@ to worship Him in Spirit and in truth.
 ### 48:35
 *(anchor: EZK.48:35)*
 
-The name of the city is the New Jerusalem (Rev 3:12), the Church, which has
+The name of the city is the New Jerusalem ([[REV.3:12]]), the Church, which has
 
-been and is now "continuing" (Heb 13:14) from the day on which Christ took His
+been and is now "continuing" ([[HEB.13:14]]) from the day on which Christ took His
 
 place in her midst. On the final day, when the Lord comes for His Bride, those who
 
-overcome will receive a "new name" (Rev 2:17)--the name of Christ revealed--on their
+overcome will receive a "new name" ([[REV.2:17]])--the name of Christ revealed--on their
 
-foreheads (Rev 22:4).
+foreheads ([[REV.22:4]]).

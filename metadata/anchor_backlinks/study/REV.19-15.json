@@ -1,0 +1,16 @@
+{
+  "anchor_id": "REV.19:15",
+  "canon_uri": "canon/NT/REV.md#REV.19:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JDG_footnotes.md",
+      "line_number": 219,
+      "raw_match": "[[REV.19:15]]",
+      "reference_type": "wikilink",
+      "context": "rod of truth ([[REV.19:15]]), laying aside the old man together with his deeds, are gathered in"
+    }
+  ]
+}

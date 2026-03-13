@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.13:38",
+  "canon_uri": "canon/NT/MAT.md#MAT.13:38",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 230,
+      "raw_match": "[[MAT.13:38]]",
+      "reference_type": "wikilink",
+      "context": "that assist us are the angelic hosts and even the saints. The field, according to the Lord, is the world ([[MAT.13:38]]) we live in. St. Paul takes the metaphor one step further, calling us"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 665,
+      "raw_match": "[[MAT.13:38]]",
+      "reference_type": "wikilink",
+      "context": "field. Jesus taught, \"The field is the world\" ([[MAT.13:38]]). This, together with words like"
+    }
+  ]
+}

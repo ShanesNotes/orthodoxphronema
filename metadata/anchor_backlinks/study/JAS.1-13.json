@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JAS.1:13",
+  "canon_uri": "canon/NT/JAS.md#JAS.1:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 169,
+      "raw_match": "[[JAS.1:13]]",
+      "reference_type": "wikilink",
+      "context": "The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1047,
+      "raw_match": "[[JAS.1:13]]",
+      "reference_type": "wikilink",
+      "context": "God tempts no one to sin ([[JAS.1:13]]); temptations are from the evil one, the devil."
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 40,
+      "raw_match": "[[JAS.1:12]]-18",
+      "reference_type": "wikilink_range",
+      "context": "(see [[JAS.1:12]]-18)."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "anchor_id": "HEB.11:8",
+  "canon_uri": "canon/NT/HEB.md#HEB.11:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 71,
+      "raw_match": "[[HEB.11:8]]-15",
+      "reference_type": "wikilink_range",
+      "context": "three months because they embraced the faith of Abraham ([[HEB.11:8]]-15; 23). Thus, they"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1192,
+      "raw_match": "[[HEB.11:8]]",
+      "reference_type": "wikilink",
+      "context": "world. As a sojourner, he was passing through this world to the one to come ([[HEB.11:8]]-"
+    },
+    {
+      "source_file": "staging/validated/OT/JDT_footnotes.md",
+      "line_number": 210,
+      "raw_match": "[[HEB.11:8]]-10",
+      "reference_type": "wikilink_range",
+      "context": "([[HEB.11:8]]-10, 16). That the Chaldeans cast them out we find only at this place in"
+    }
+  ]
+}

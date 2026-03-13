@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ZEC.5:4",
+  "canon_uri": "canon/OT/ZEC.md#ZEC.5:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 84,
+      "raw_match": "[[ZEC.5:1]]-4",
+      "reference_type": "wikilink_range",
+      "context": "honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11). 3:6"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAL.3:20",
+  "canon_uri": "canon/OT/MAL.md#MAL.3:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 606,
+      "raw_match": "[[MAL.3:20]]",
+      "reference_type": "wikilink",
+      "context": "Sun of Righteousness ([[MAL.3:20]]) and reflects the light of His glory."
+    }
+  ]
+}

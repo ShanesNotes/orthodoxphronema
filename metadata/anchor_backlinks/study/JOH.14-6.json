@@ -1,0 +1,58 @@
+{
+  "anchor_id": "JOH.14:6",
+  "canon_uri": "canon/NT/JOH.md#JOH.14:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2CO_footnotes.md",
+      "line_number": 329,
+      "raw_match": "[[JOH.14:1]]-6",
+      "reference_type": "wikilink_range",
+      "context": "being saved\"); and (3) a promise of eternal life (5:9-11; [[JOH.14:1]]-6), calling us to"
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 331,
+      "raw_match": "[[JOH.14:6]]",
+      "reference_type": "wikilink",
+      "context": "glory in Him (see [[JOH.14:6]])."
+    },
+    {
+      "source_file": "staging/validated/OT/1ES_footnotes.md",
+      "line_number": 19,
+      "raw_match": "[[JOH.14:6]]",
+      "reference_type": "wikilink",
+      "context": "embodiment of truth ([[JOH.14:6]]). From Exodus 12 we learn that the Feast of the Passover is"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 1342,
+      "raw_match": "[[JOH.14:6]]",
+      "reference_type": "wikilink",
+      "context": "and Power ([[1CO.1:24]]), and Truth and Life ([[JOH.14:6]]; AmbM)."
+    },
+    {
+      "source_file": "staging/validated/OT/JER_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[JOH.14:6]]",
+      "reference_type": "wikilink",
+      "context": "St. Athanasius connects this passage with [[JOH.14:6]], where Jesus says, \"I am the way, the truth, and the life. No one comes to the Father except through Me.\""
+    },
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 472,
+      "raw_match": "[[JOH.14:6]]",
+      "reference_type": "wikilink",
+      "context": "the truth, He only speaks what is righteous; there is nothing unrighteous in His words. His righteousness is one of the general virtues that begets all the other virtues. In [[JOH.14:6]], He said, \"I am the truth.\""
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 744,
+      "raw_match": "[[JOH.14:6]]",
+      "reference_type": "wikilink",
+      "context": "10:9), for we cannot enter the Kingdom of heaven but through Him ([[JOH.14:6]]). Neither can"
+    }
+  ]
+}

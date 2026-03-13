@@ -1,0 +1,16 @@
+{
+  "anchor_id": "1CO.12:29",
+  "canon_uri": "canon/NT/1CO.md#1CO.12:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1171,
+      "raw_match": "[[1CO.12:29]]",
+      "reference_type": "wikilink",
+      "context": "prophecy (see [[1CO.12:29]]; 14:3, 29; [[EPH.4:11]])."
+    }
+  ]
+}

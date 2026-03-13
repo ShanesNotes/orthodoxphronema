@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MRK.7:23",
+  "canon_uri": "canon/NT/MRK.md#MRK.7:23",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 571,
+      "raw_match": "[[MRK.7:23]]",
+      "reference_type": "wikilink",
+      "context": "Lord was opposed to him. But only the Lord can deliver us from king covetousness (v. 13). Covetousness is one of the sinful passions that defiles a person ([[MRK.7:22]], [[MRK.7:23]]). In another"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 665,
+      "raw_match": "[[MRK.7:15]]-23",
+      "reference_type": "wikilink_range",
+      "context": "evil proceeding from his heart defiles him ([[MRK.7:15]]-23). He said this when the Law of"
+    }
+  ]
+}

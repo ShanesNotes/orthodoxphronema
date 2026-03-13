@@ -1,0 +1,23 @@
+{
+  "anchor_id": "2KI.19:35",
+  "canon_uri": "canon/OT/2KI.md#2KI.19:35",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2MA_footnotes.md",
+      "line_number": 662,
+      "raw_match": "[[2KI.19:35]]",
+      "reference_type": "wikilink",
+      "context": "See [[2KI.19:35]]."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 2131,
+      "raw_match": "[[2KI.19:35]]",
+      "reference_type": "wikilink",
+      "context": "19:37). The angel (v. 21) destroyed 185,000 of Sennacharib's soldiers (see [[2KI.19:35]])."
+    }
+  ]
+}

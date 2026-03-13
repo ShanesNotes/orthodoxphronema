@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.21:12",
+  "canon_uri": "canon/NT/MAT.md#MAT.21:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 723,
+      "raw_match": "[[MAT.21:12]]",
+      "reference_type": "wikilink",
+      "context": "Christ comes to mind in this regard (see [[MAT.21:12]], [[MAT.21:13]]; [[MRK.11:15]]-19; [[LUK.19:45]]-48; Jn"
+    }
+  ]
+}

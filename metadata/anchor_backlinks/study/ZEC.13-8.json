@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ZEC.13:8",
+  "canon_uri": "canon/OT/ZEC.md#ZEC.13:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1285,
+      "raw_match": "[[ZEC.13:8]]",
+      "reference_type": "wikilink",
+      "context": "also [[EZK.5:12]]; [[ZEC.13:8]], [[ZEC.13:9]]). The reference to blood most likely comes from Joel (3:3; see"
+    }
+  ]
+}

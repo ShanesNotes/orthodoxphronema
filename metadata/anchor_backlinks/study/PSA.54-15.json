@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.54:15",
+  "canon_uri": "canon/OT/PSA.md#PSA.54:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 593,
+      "raw_match": "[[PSA.54:13]]-15",
+      "reference_type": "wikilink_range",
+      "context": "level of betrayal, that this was one of His closest friends (see [[PSA.54:13]]-15)."
+    }
+  ]
+}

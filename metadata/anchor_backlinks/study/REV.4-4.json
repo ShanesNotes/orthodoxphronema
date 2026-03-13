@@ -1,0 +1,16 @@
+{
+  "anchor_id": "REV.4:4",
+  "canon_uri": "canon/NT/REV.md#REV.4:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DAN_footnotes.md",
+      "line_number": 375,
+      "raw_match": "[[REV.4:2]]-6",
+      "reference_type": "wikilink_range",
+      "context": "thrones (see [[REV.4:2]]-6 and notes), the multitude of worshipping angels and other"
+    }
+  ]
+}

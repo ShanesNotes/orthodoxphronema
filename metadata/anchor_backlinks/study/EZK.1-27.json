@@ -1,0 +1,30 @@
+{
+  "anchor_id": "EZK.1:27",
+  "canon_uri": "canon/OT/EZK.md#EZK.1:27",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 271,
+      "raw_match": "[[EZK.1:27]]",
+      "reference_type": "wikilink",
+      "context": "also does John here, in the presence of the glorified Savior (see [[EZK.1:27]]; [[DAN.10:7]]-9; see"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 815,
+      "raw_match": "[[EZK.1:25]]-27",
+      "reference_type": "wikilink_range",
+      "context": "lordship (3Kg 22:19; [[PSA.46:9]]; Is 6:1; [[EZK.1:25]]-27; [[DAN.7:9]]; [[MAT.5:34]]; 23:22; see also 1En"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1441,
+      "raw_match": "[[EZK.1:27]]",
+      "reference_type": "wikilink",
+      "context": "symbols for divine glory ([[EZK.1:26]], [[EZK.1:27]]; [[MAT.17:2]]). His feet on the sea and land (v. 2) show"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.7:1",
+  "canon_uri": "canon/NT/JOH.md#JOH.7:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 453,
+      "raw_match": "[[JOH.7:1]]",
+      "reference_type": "wikilink",
+      "context": "Judea, because the Jews sought to kill Him\" ([[JOH.7:1]]). 18:15-16"
+    }
+  ]
+}

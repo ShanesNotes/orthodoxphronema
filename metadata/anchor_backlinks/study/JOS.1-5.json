@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOS.1:5",
+  "canon_uri": "canon/OT/JOS.md#JOS.1:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/NEH_footnotes.md",
+      "line_number": 154,
+      "raw_match": "[[JOS.1:5]]",
+      "reference_type": "wikilink",
+      "context": "Nehemiah's response to those openly opposed to God's will is not anger but prayer, that God will bring vengeance against them (see [[GEN.12:1]]-3; [[JOS.1:5]]; [[DEU.32:35]]; Rom"
+    }
+  ]
+}

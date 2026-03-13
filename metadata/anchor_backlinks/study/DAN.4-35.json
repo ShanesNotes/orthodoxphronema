@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DAN.4:35",
+  "canon_uri": "canon/OT/DAN.md#DAN.4:35",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 171,
+      "raw_match": "[[DAN.4:35]]",
+      "reference_type": "wikilink",
+      "context": "battle against the powers of darkness ([[DAN.4:35]]). 12:1"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.27:52",
+  "canon_uri": "canon/NT/MAT.md#MAT.27:52",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/AMO_footnotes.md",
+      "line_number": 213,
+      "raw_match": "[[MAT.27:50]]-53",
+      "reference_type": "wikilink_range",
+      "context": "quaked ([[MAT.27:50]]-53), and the sun was darkened at midday ([[MRK.15:33]]). In a more"
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 246,
+      "raw_match": "[[MAT.27:51]]-54",
+      "reference_type": "wikilink_range",
+      "context": "(compare vv. 9-13 to [[MAT.27:51]]-54; [[LUK.23:44]], [[LUK.23:45]]); (3) it describes the anger of Christ at"
+    }
+  ]
+}

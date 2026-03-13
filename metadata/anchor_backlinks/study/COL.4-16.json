@@ -1,0 +1,23 @@
+{
+  "anchor_id": "COL.4:16",
+  "canon_uri": "canon/NT/COL.md#COL.4:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1CO_footnotes.md",
+      "line_number": 539,
+      "raw_match": "[[COL.4:16]]",
+      "reference_type": "wikilink",
+      "context": "which were lost and not incorporated in the NT canon (see [[COL.4:16]])."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 705,
+      "raw_match": "[[COL.4:16]]",
+      "reference_type": "wikilink",
+      "context": "Ephesians) to be exchanged with the Colossians (see [[COL.4:16]])."
+    }
+  ]
+}

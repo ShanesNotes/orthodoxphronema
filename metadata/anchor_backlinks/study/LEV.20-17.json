@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LEV.20:17",
+  "canon_uri": "canon/OT/LEV.md#LEV.20:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 1267,
+      "raw_match": "[[LEV.20:17]]",
+      "reference_type": "wikilink",
+      "context": "[[LEV.20:9]], [[LEV.20:11]], [[LEV.20:12]], [[LEV.20:16]], [[LEV.20:17]], [[LEV.20:19]], [[LEV.20:27]]: The Law of Moses taught that man is only guilty before"
+    }
+  ]
+}

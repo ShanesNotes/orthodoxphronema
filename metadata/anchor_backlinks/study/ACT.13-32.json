@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ACT.13:32",
+  "canon_uri": "canon/NT/ACT.md#ACT.13:32",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 47,
+      "raw_match": "[[ACT.13:32]]",
+      "reference_type": "wikilink",
+      "context": "Resurrection from the dead ([[ACT.13:32]], [[ACT.13:33]]). But Jesus is also the King over the nations"
+    }
+  ]
+}

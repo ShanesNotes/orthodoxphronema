@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.4:14",
+  "canon_uri": "canon/NT/LUK.md#LUK.4:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_articles.md",
+      "line_number": 28,
+      "raw_match": "[[LUK.4:14]]",
+      "reference_type": "wikilink",
+      "context": "([[MAT.4:12]]-17; [[LUK.4:14]], [[LUK.4:15]]; [[JOH.4:1]]-3)"
+    }
+  ]
+}

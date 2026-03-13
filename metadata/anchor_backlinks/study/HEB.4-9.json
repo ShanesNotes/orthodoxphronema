@@ -1,0 +1,23 @@
+{
+  "anchor_id": "HEB.4:9",
+  "canon_uri": "canon/NT/HEB.md#HEB.4:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DEU_articles.md",
+      "line_number": 26,
+      "raw_match": "[[HEB.4:1]]-11",
+      "reference_type": "wikilink_range",
+      "context": "As the day after the seventh day (when God rested from His six days of creation) and as the day of Christ's Resurrection, Sunday early on came to be understood in a mystical way among Christians as the 'Eighth Day.' It was the day 'beyond nature and time' (MaxCon), 'the beginning of another world' (Barn). 'Whether you call it day, or whether you call it eternity, you express the same idea' (BasilG). Fittingly, during the week after Pascha (Easter), called Bright Week, the Church celebrates Pascha for eight days, almost as though it were one continuous day. By tradition, babies are named on the eighth day after birth. And from ancient times, Christian baptisteries and fonts have been built with eight sides, indicating the newly baptized are entering the realm of the Eighth Day, the day of eternal rest ([[HEB.4:1]]-11) in Christ's Heavenly Kingdom."
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 1571,
+      "raw_match": "[[HEB.4:9]]",
+      "reference_type": "wikilink",
+      "context": "of God\" ([[HEB.4:9]]). Some blessings of the coming kingdom are experienced in this age, but"
+    }
+  ]
+}

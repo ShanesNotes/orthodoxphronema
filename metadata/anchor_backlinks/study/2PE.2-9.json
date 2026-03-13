@@ -1,0 +1,23 @@
+{
+  "anchor_id": "2PE.2:9",
+  "canon_uri": "canon/NT/2PE.md#2PE.2:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 648,
+      "raw_match": "[[2PE.2:9]]",
+      "reference_type": "wikilink",
+      "context": "righteous Lot from Sodom ([[2PE.2:9]])."
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1030,
+      "raw_match": "[[2PE.2:9]]",
+      "reference_type": "wikilink",
+      "context": "ungodly concerning the Day of Judgment ([[2PE.2:6]], [[2PE.2:9]]; Jude 7). 19:22-24 During Great Lent, the Church sings, \"O my soul, flee like Lot to the mountain, and take refuge in Zoar before it is too late. Flee from the flames, my soul, flee from the"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "anchor_id": "DAN.7:13",
+  "canon_uri": "canon/OT/DAN.md#DAN.7:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 353,
+      "raw_match": "[[DAN.7:13]]",
+      "reference_type": "wikilink",
+      "context": "([[DAN.7:13]], [[DAN.7:14]]). In an OT prophecy, Jacob dreamed of a ladder connecting earth to heaven,"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1363,
+      "raw_match": "[[DAN.7:13]]",
+      "reference_type": "wikilink",
+      "context": "Since the term Son of Man refers to the Messiah ([[DAN.7:13]]), it expresses both His"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3719,
+      "raw_match": "[[DAN.7:13]]",
+      "reference_type": "wikilink",
+      "context": "Quoting from Ps 109 and [[DAN.7:13]], Jesus confesses that He is the Messiah, both"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[DAN.7:13]]",
+      "reference_type": "wikilink",
+      "context": "One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by"
+    }
+  ]
+}

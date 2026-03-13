@@ -1,0 +1,16 @@
+{
+  "anchor_id": "GEN.16:4",
+  "canon_uri": "canon/OT/GEN.md#GEN.16:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 1203,
+      "raw_match": "[[GEN.16:4]]",
+      "reference_type": "wikilink",
+      "context": "who are his true children. If this were the case, the children of Hagar ([[GEN.16:4]], [[GEN.16:15]]) and of"
+    }
+  ]
+}

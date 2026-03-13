@@ -1,0 +1,23 @@
+{
+  "anchor_id": "GAL.2:20",
+  "canon_uri": "canon/NT/GAL.md#GAL.2:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 387,
+      "raw_match": "[[GAL.2:20]]",
+      "reference_type": "wikilink",
+      "context": "be co-crucified with Christ ([[GAL.2:20]]), partaking in the death of Christ in order to"
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 377,
+      "raw_match": "[[GAL.2:20]]",
+      "reference_type": "wikilink",
+      "context": "some may teach. Rather, it is Christ living in us, and we in Him ([[GAL.2:20]]). Thus, to be"
+    }
+  ]
+}

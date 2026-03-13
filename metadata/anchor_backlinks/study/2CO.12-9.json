@@ -1,0 +1,30 @@
+{
+  "anchor_id": "2CO.12:9",
+  "canon_uri": "canon/NT/2CO.md#2CO.12:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1CO_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[2CO.12:9]]",
+      "reference_type": "wikilink",
+      "context": "Christian (v. 27; [[2CO.12:9]])."
+    },
+    {
+      "source_file": "staging/validated/OT/2CH_footnotes.md",
+      "line_number": 189,
+      "raw_match": "[[2CO.12:9]]",
+      "reference_type": "wikilink",
+      "context": "perfect in weakness\" ([[2CO.12:9]]). 15:8-15"
+    },
+    {
+      "source_file": "staging/validated/OT/JDG_footnotes.md",
+      "line_number": 230,
+      "raw_match": "[[2CO.12:9]]",
+      "reference_type": "wikilink",
+      "context": "love God (5:31), for His \"strength is made perfect in weakness\" ([[2CO.12:9]])."
+    }
+  ]
+}

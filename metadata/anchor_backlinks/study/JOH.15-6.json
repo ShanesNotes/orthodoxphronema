@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JOH.15:6",
+  "canon_uri": "canon/NT/JOH.md#JOH.15:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 155,
+      "raw_match": "[[JOH.15:6]]",
+      "reference_type": "wikilink",
+      "context": "Christ or in His Church ([[MAT.13:24]]-30; [[JOH.15:6]])."
+    },
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 234,
+      "raw_match": "[[JOH.15:1]]-6",
+      "reference_type": "wikilink_range",
+      "context": "replaced when Christ, the \"true vine,\" came (see [[JOH.15:1]]-6). The branches in the forest"
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 300,
+      "raw_match": "[[JOH.15:1]]-8",
+      "reference_type": "wikilink_range",
+      "context": "produce grapes. The branches that are cut off will be discarded (see [[JOH.15:1]]-8). 19:2-15 This prophecy was fulfilled historically a few years later in 714 BC, when Piankhi's"
+    }
+  ]
+}

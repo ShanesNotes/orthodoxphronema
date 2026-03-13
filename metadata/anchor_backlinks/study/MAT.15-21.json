@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.15:21",
+  "canon_uri": "canon/NT/MAT.md#MAT.15:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 439,
+      "raw_match": "[[MAT.15:21]]-28",
+      "reference_type": "wikilink_range",
+      "context": "our petitions before God ([[MAT.15:21]]-28). (4) The intercessions of the righteous have great"
+    },
+    {
+      "source_file": "staging/validated/OT/RUT_footnotes.md",
+      "line_number": 111,
+      "raw_match": "[[MAT.15:21]]-28",
+      "reference_type": "wikilink_range",
+      "context": "Like the Canaanite woman in [[MAT.15:21]]-28, Ruth acknowledges that she does not"
+    }
+  ]
+}

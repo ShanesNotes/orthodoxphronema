@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.28:9",
+  "canon_uri": "canon/OT/PSA.md#PSA.28:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1453,
+      "raw_match": "[[PSA.28:3]]-9",
+      "reference_type": "wikilink_range",
+      "context": "divine voice ([[PSA.28:3]]-9; [[JOH.12:27]]-33), a fullness of terror, power, and magnificence. In"
+    }
+  ]
+}

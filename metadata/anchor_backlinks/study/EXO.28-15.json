@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.28:15",
+  "canon_uri": "canon/OT/EXO.md#EXO.28:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2991,
+      "raw_match": "[[EXO.28:15]]-21",
+      "reference_type": "wikilink_range",
+      "context": "corresponding to the twelve tribes ([[EXO.28:15]]-21), so the Church is founded on the twelve"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.15:7",
+  "canon_uri": "canon/NT/LUK.md#LUK.15:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2555,
+      "raw_match": "[[LUK.15:7]]",
+      "reference_type": "wikilink",
+      "context": "faithful to God ([[LUK.15:7]]). According to certain Fathers, this is also an image of the"
+    },
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 415,
+      "raw_match": "[[LUK.15:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "establishment of His sheep (v. 31), the Church. Compare Jn 10; [[LUK.15:4]]-7; 19:17."
+    }
+  ]
+}

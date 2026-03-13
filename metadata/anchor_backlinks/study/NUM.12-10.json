@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.12:10",
+  "canon_uri": "canon/OT/NUM.md#NUM.12:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 907,
+      "raw_match": "[[NUM.12:10]]-15",
+      "reference_type": "wikilink_range",
+      "context": "above, and still she was only healed after seven days ([[NUM.12:10]]-15)."
+    }
+  ]
+}

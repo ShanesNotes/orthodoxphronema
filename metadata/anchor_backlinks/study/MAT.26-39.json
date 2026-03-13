@@ -1,0 +1,37 @@
+{
+  "anchor_id": "MAT.26:39",
+  "canon_uri": "canon/NT/MAT.md#MAT.26:39",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 483,
+      "raw_match": "[[MAT.26:36]]-46",
+      "reference_type": "wikilink_range",
+      "context": "Gethsemane ([[MAT.26:36]]-46; [[MRK.14:32]]-42; [[LUK.22:39]]-46)."
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 619,
+      "raw_match": "[[MAT.26:39]]",
+      "reference_type": "wikilink",
+      "context": "Christ's intimacy with God the Father. See also note at [[MAT.26:39]]."
+    },
+    {
+      "source_file": "staging/validated/OT/JOB_footnotes.md",
+      "line_number": 325,
+      "raw_match": "[[MAT.26:39]]",
+      "reference_type": "wikilink",
+      "context": "from Me' ([[MAT.26:39]]); and that He might remove their fear, He took it in Himself\""
+    },
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 420,
+      "raw_match": "[[MAT.26:39]]",
+      "reference_type": "wikilink",
+      "context": "prayed to the Father and said, \"Let this cup pass from Me\" ([[MAT.26:39]]). By this request He"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JER.10:6",
+  "canon_uri": "canon/OT/JER.md#JER.10:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1514,
+      "raw_match": "[[JER.10:6]]",
+      "reference_type": "wikilink",
+      "context": "The prophecy refers to the Incarnation, when the Son of God takes on human flesh, becoming like us. Similar passages are [[EXO.15:11]]; [[PSA.85:8]]; [[JER.10:6]], [[JER.10:7]]."
+    }
+  ]
+}

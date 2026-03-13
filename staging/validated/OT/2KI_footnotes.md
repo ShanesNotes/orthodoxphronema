@@ -21,7 +21,7 @@ people any time He pleases.
 
 The outward appearance and spirit of Elijah are recognizable in John the Baptist, "the
 
-second Elijah" (Mt 3:4). 
+second Elijah" ([[MAT.3:4]]). 
 
 ### 1:9-15
 *(anchor: 2KI.1:9)*
@@ -41,12 +41,12 @@ and stubble, and the fire shall have power upon them and they shall be burned" (
 
 Elijah's word brought the consuming fire down from heaven, the same consuming
 
-fire made known in Nm 11:1 and spoken of by the apostles (Lk 9:54). 
+fire made known in [[NUM.11:1]] and spoken of by the apostles ([[LUK.9:54]]). 
 
 ### 2:1
 *(anchor: 2KI.2:1)*
 
-As Enoch (Gn 5:24) was translated to heaven without experiencing his own death, so
+As Enoch ([[GEN.5:24]]) was translated to heaven without experiencing his own death, so
 
 too was Elijah--thus making known to us that God alone has the keys of life, death, and
 
@@ -59,7 +59,7 @@ The Jordan River is a type of baptism, a crossing over from this fallen world to
 
 promised inheritance--life in the world to come. Christ fulfills this promise through His
 
-Incarnation and His baptism (Mk 1:9). 2:1-8
+Incarnation and His baptism ([[MRK.1:9]]). 2:1-8
 
 The name Gilgal speaks of faith and hope in God as opposed to faith in the fallen
 
@@ -67,14 +67,14 @@ world. This is where Joshua's men, in obedience and love of God, were circumcise
 
 themselves off from this earthly realm. Gilgal literally means "a rolling," for the Lord had
 
-rolled away Israel's reproach in Egypt (Jos 5:9). Thus, Elijah leaves the place of rolling, Gilgal, and in zeal and faith enters into Bethel, the "house of God"--the heavenly realm. 
+rolled away Israel's reproach in Egypt ([[JOS.5:9]]). Thus, Elijah leaves the place of rolling, Gilgal, and in zeal and faith enters into Bethel, the "house of God"--the heavenly realm. 
 
 ### 2:8-14
 *(anchor: 2KI.2:8)*
 
-Moses foreshadowed baptism when he parted the Red Sea (Ex 14:16-23). Joshua
+Moses foreshadowed baptism when he parted the Red Sea ([[EXO.14:16]]-23). Joshua
 
-parted the River Jordan with the ark of the covenant (Jos 3:13-17), and so did Elijah and
+parted the River Jordan with the ark of the covenant ([[JOS.3:13]]-17), and so did Elijah and
 
 Elisha when they struck the River Jordan with Elijah's mantle. "O how great is the virtue
 
@@ -106,9 +106,9 @@ dwells and is at peace" (EphS).
 
 He saw Elijah no more: Like Elijah, Moses also disappeared, for "no one knows his
 
-grave to this day" (Dt 34:6). The ministries or offices of Moses and Elijah, representing
+grave to this day" ([[DEU.34:6]]). The ministries or offices of Moses and Elijah, representing
 
-the law and the prophets of God, are fulfilled in Christ (Mt 17:3). 
+the law and the prophets of God, are fulfilled in Christ ([[MAT.17:3]]). 
 
 ### 2:13
 *(anchor: 2KI.2:13)*
@@ -142,12 +142,12 @@ renewal to all of creation.
 ### 2:23-25
 *(anchor: 2KI.2:23)*
 
-Like Elisha before the youths, Christ will also be mocked (Lk 18:32). "For what is, 'Go up!'? 'Crucify Him! Crucify Him!' For childhood is set before us to imitate humility, and . . . to beware of foolishness" (Aur). 
+Like Elisha before the youths, Christ will also be mocked ([[LUK.18:32]]). "For what is, 'Go up!'? 'Crucify Him! Crucify Him!' For childhood is set before us to imitate humility, and . . . to beware of foolishness" (Aur). 
 
 ### 3:18
 *(anchor: 2KI.3:18)*
 
-What is impossible for us is easy for the Lord (Lk 1:37). 
+What is impossible for us is easy for the Lord ([[LUK.1:37]]). 
 
 ### 4:1-44
 *(anchor: 2KI.4:1)*
@@ -164,7 +164,7 @@ small loaves (vv. 42-44). 4:1-7
 
 This account demonstrates the wondrous acts of Christ's charity made manifest
 
-through those faithful to Him and in whom His goodness is magnified (see also Mt 14:20; 
+through those faithful to Him and in whom His goodness is magnified (see also [[MAT.14:20]]; 
 
 ### 18:25
 *(anchor: 2KI.18:25)*
@@ -175,7 +175,7 @@ This account of a miraculous birth to one who has found favor with God helps
 
 prepare the nation Israel for the coming miraculous birth of the Savior from one also
 
-favored by God (Lk 1:30). "For, because no one would easily have believed that a virgin
+favored by God ([[LUK.1:30]]). "For, because no one would easily have believed that a virgin
 
 could bear a child, barren women first did so, then such as were not only barren, but aged
 
@@ -185,13 +185,13 @@ Elisha's staff, which failed to raise the child, is like the law. Neither of the
 
 Here displayed is the power of fervent prayer from the heart of one who loves
 
-God and his neighbor (Mt 6:6). It is this same power that is given to Christ's apostles
+God and his neighbor ([[MAT.6:6]]). It is this same power that is given to Christ's apostles
 
-(Acts 20:10). 4:37 See Heb 11:35. 4:42-44
+([[ACT.20:10]]). 4:37 See [[HEB.11:35]]. 4:42-44
 
-This is similar to Christ's miracle of the loaves of barley found in Jn 6:9-14. 5:1
+This is similar to Christ's miracle of the loaves of barley found in [[JOH.6:9]]-14. 5:1
 
-Regarding Naaman the stranger (Gentile) from Syria, see Lk 4:27. 5:10-11
+Regarding Naaman the stranger (Gentile) from Syria, see [[LUK.4:27]]. 5:10-11
 
 "Elisha did not so much as see Naaman for though he perceived that Naaman was
 
@@ -199,7 +199,7 @@ offended at his not coming out and touching him--observing the strictness of the
 
 abides at home, and sends Naaman to the River Jordan to wash. Whereas the Lord--to
 
-signify that He heals not as a servant but as absolute master--doth also touch (Mt 8:2, 3). For His hand did not take on the uncleanness of the leprosy, but instead the leprous body
+signify that He heals not as a servant but as absolute master--doth also touch ([[MAT.8:2]], [[MAT.8:3]]). For His hand did not take on the uncleanness of the leprosy, but instead the leprous body
 
 was rendered clean and renewed by His holy hand. For as we know, He came not to heal
 
@@ -251,7 +251,7 @@ The Syrian king believed wrongly that the power of his earthly kingdom could
 
 contain and control the prophet of God. 6:17
 
-Through the intercession of the prophet (Heb 1:14), the eyes of his newly tested
+Through the intercession of the prophet ([[HEB.1:14]]), the eyes of his newly tested
 
 servant, whose faith was yet easily shaken, became opened to the divine presence
 
@@ -271,7 +271,7 @@ will not participate in it. The prophecy comes to pass in 7:18-20. 7:15-16
 
 The word of the Lord proves true and lasting, while the kingdoms of this fallen
 
-world pass away (Mt 24:35; 1Co 1:9; 1Th 5:24; 1Pt 1:25). 8:1-6
+world pass away ([[MAT.24:35]]; [[1CO.1:9]]; [[1TH.5:24]]; [[1PE.1:25]]). 8:1-6
 
 By following the warning of the Lord through Elisha, the Shunammite woman and
 
@@ -283,7 +283,7 @@ stricken with leprosy earlier (5:27). 8:11
 
 As did His prophets, the Lord Himself wept tears over the lost condition of His people
 
-(Lk 19:41). 8:12-19
+([[LUK.19:41]]). 8:12-19
 
 Hazael freely wills to fulfill Elisha's prophecy, because his heart is evil. But God
 
@@ -303,9 +303,9 @@ Judah and Israel (vv. 24, 27), fulfill Elijah's prophecy against Jezebel (vv. 30
 
 Jehosheba hides young Joash in the house of the Lord until he can take his
 
-place as the leader of his people (v. 12). So, too, Miriam hid Moses (Ex 2:3); Rahab hid the
+place as the leader of his people (v. 12). So, too, Miriam hid Moses ([[EXO.2:3]]); Rahab hid the
 
-spies (Josh 2:4); and Joseph and Mary hid the Christ-Child in Egypt (Mt 2:13) until the
+spies ([[JOS.2:4]]); and Joseph and Mary hid the Christ-Child in Egypt ([[MAT.2:13]]) until the
 
 proper time. 12:2-3
 
@@ -315,9 +315,9 @@ Lord (11:17), Joash did what was right before God. And though persuaded not to
 
 remove the high places, he did order the repair of the house of the Lord and did so with
 
-trust and honor (v. 15; Mt 24:45). 13:5
+trust and honor (v. 15; [[MAT.24:45]]). 13:5
 
-A savior was given by the Lord to renew and recreate what was before (Lk 1:11), because Israel called out to Him. 13:21
+A savior was given by the Lord to renew and recreate what was before ([[LUK.1:11]]), because Israel called out to Him. 13:21
 
 There are those who struggle with the idea of keeping relics of saints, doubting they
 
@@ -325,7 +325,7 @@ have any special significance. Here, the bones of a departed saint bring a dead 
 
 to life. St. Cyril comments, "Is a dead man raised to life on touching the bones of Elisha, and is it not much easier for the Maker of mankind to be raised by the power of the
 
-Father? Well then, He truly rose, and after He had risen was seen again of the disciples . . . are you still incredulous in regard to His Resurrection?" (See also Jn 5:25, 28, 29.)
+Father? Well then, He truly rose, and after He had risen was seen again of the disciples . . . are you still incredulous in regard to His Resurrection?" (See also [[JOH.5:25]], [[JOH.5:28]], [[JOH.5:29]].)
 
 14:8
 
@@ -335,7 +335,7 @@ Though Israel had turned from the Lord and become bitter, nonetheless He
 
 kept His promise to never blot them out. Similarly, the Lord has promised His Church, "I
 
-am with you always" (Mt 28:20). 15:1-5
+am with you always" ([[MAT.28:20]]). 15:1-5
 
 Uzziah, contemporary of the prophet Isaiah (Is 6:1), was arrogant in his self-rule
 
@@ -345,7 +345,7 @@ Menahem is an evil king who uses money as a means to keep the enemy from
 
 striking; but Israel's destruction is imminent. In contrast, the Lord Jesus Christ, the
 
-righteous King, gives Himself as a ransom to save mankind (Mt 20:28), thereby crushing
+righteous King, gives Himself as a ransom to save mankind ([[MAT.20:28]]), thereby crushing
 
 the head of His enemy, Satan. 15:30
 
@@ -381,13 +381,13 @@ unable to prevent the captivity foretold to him in his later days (20:18), accep
 
 trust in the Lord. 18:4
 
-The spiritual reality of the bronze serpent made by Moses (Nm 21:9) is lost and its
+The spiritual reality of the bronze serpent made by Moses ([[NUM.21:9]]) is lost and its
 
 meaning worthless. 18:7
 
 The Lord was with Hezekiah, for in faith He waited on the Lord and the promise of
 
-His Incarnation (Mt 1:22, 23). 18:13-19
+His Incarnation ([[MAT.1:22]], [[MAT.1:23]]). 18:13-19
 
 This account is also recorded in Isaiah 36:1-39:8. 18:16
 
@@ -409,7 +409,7 @@ Hezekiah is a humble man who calls on the Lord and seeks His direction by way
 
 of His prophets. The Lord turned back the immediate threat of the enemy (v. 7). 19:19
 
-See Ps 82:18. 19:31
+See [[PSA.82:18]]. 19:31
 
 Isaiah's prophecy regarding the remnant will find its fulfillment and completion in
 
@@ -446,7 +446,7 @@ As long as Manasseh was "free" to live according to his passions, he remained in
 
 bondage to them. But when the Lord allowed him to be taken into captivity, he found
 
-repentance and was restored to his kingdom (2Ch 33:13). "Now if, considering the
+repentance and was restored to his kingdom ([[2CH.33:13]]). "Now if, considering the
 
 magnitude of his own iniquities, he had despaired of restoration and repentance, he
 
@@ -483,9 +483,9 @@ grace.
 
 When Josiah heard the words of the Book of Law, he immediately realized
 
-his kingdom had strayed from God, and took steps to bring reform. According to St. Paul, "the law was our tutor to bring us to Christ" (Gal 3:24), "for by the law is the knowledge
+his kingdom had strayed from God, and took steps to bring reform. According to St. Paul, "the law was our tutor to bring us to Christ" ([[GAL.3:24]]), "for by the law is the knowledge
 
-of sin" (Rom 3:20). 
+of sin" ([[ROM.3:20]]). 
 
 ### 23:1-3
 *(anchor: 2KI.23:1)*

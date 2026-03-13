@@ -1,0 +1,51 @@
+{
+  "anchor_id": "JOH.1:13",
+  "canon_uri": "canon/NT/JOH.md#JOH.1:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 417,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "the Word of God Himself, our Lord Jesus Christ (see [[JOH.1:1]]-18). Nothing is able to escape"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1015,
+      "raw_match": "[[JOH.1:13]]",
+      "reference_type": "wikilink",
+      "context": "with Him, a communion that only comes by the grace of adoption (see [[JOH.1:13]]; Rom"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 231,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "of the Son of Man (see also [[JOH.1:1]]-18). Thus, in Christ man (v. 14) and God (vv. 15, 16)"
+    },
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 1152,
+      "raw_match": "[[JOH.1:12]]-14",
+      "reference_type": "wikilink_range",
+      "context": "through His Only-begotten Son and His Life-giving Spirit ([[JOH.1:12]]-14; [[ROM.8:14]]-16; Jam"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1728,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "Second Person of the Godhead, was and is eternally active in all creation (see [[JOH.1:1]]-18)."
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 29,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "the language used by John to describe the Incarnation (see [[JOH.1:1]]-18). The Word who"
+    }
+  ]
+}

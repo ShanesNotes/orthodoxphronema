@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EZK.1:21",
+  "canon_uri": "canon/OT/EZK.md#EZK.1:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DAN_footnotes.md",
+      "line_number": 359,
+      "raw_match": "[[EZK.1:21]]",
+      "reference_type": "wikilink",
+      "context": "temporary, earthly beasts (see [[REV.4:6]], [[REV.4:7]] and note; see also [[EZK.1:5]], [[EZK.1:21]]). Some of the"
+    }
+  ]
+}

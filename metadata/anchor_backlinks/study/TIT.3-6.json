@@ -1,0 +1,23 @@
+{
+  "anchor_id": "TIT.3:6",
+  "canon_uri": "canon/NT/TIT.md#TIT.3:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2TI_footnotes.md",
+      "line_number": 37,
+      "raw_match": "[[TIT.3:6]]",
+      "reference_type": "wikilink",
+      "context": "done to merit God's favor ([[EPH.2:8]]-10; [[TIT.3:5]], [[TIT.3:6]])."
+    },
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 133,
+      "raw_match": "[[TIT.3:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "sacrament of Holy Baptism (3:5-8; see [[TIT.3:4]]-7)."
+    }
+  ]
+}

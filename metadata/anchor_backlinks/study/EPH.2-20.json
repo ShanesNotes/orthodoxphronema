@@ -1,0 +1,51 @@
+{
+  "anchor_id": "EPH.2:20",
+  "canon_uri": "canon/NT/EPH.md#EPH.2:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 227,
+      "raw_match": "[[EPH.2:19]]-22",
+      "reference_type": "wikilink_range",
+      "context": "see [[EPH.2:19]]-22; [[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]). This is salvation in all its fullness."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1505,
+      "raw_match": "[[EPH.2:19]]-21",
+      "reference_type": "wikilink_range",
+      "context": "future, (2) a symbol of the Church (see [[EPH.2:19]]-21; [[1PE.2:5]]), or (3) the Jewish-Christian"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1529,
+      "raw_match": "[[EPH.2:19]]-22",
+      "reference_type": "wikilink_range",
+      "context": "[[2CO.6:16]]; [[EPH.2:19]]-22)."
+    },
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 143,
+      "raw_match": "[[EPH.2:20]]",
+      "reference_type": "wikilink",
+      "context": "apostles, and Jesus Christ is the Chief Cornerstone ([[EPH.2:19]], [[EPH.2:20]]). 6:5"
+    },
+    {
+      "source_file": "staging/validated/OT/EZR_footnotes.md",
+      "line_number": 105,
+      "raw_match": "[[EPH.2:19]]-22",
+      "reference_type": "wikilink_range",
+      "context": "the Church ([[MAT.21:42]]; [[1CO.3:9]]-17; [[EPH.2:19]]-22)."
+    },
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 595,
+      "raw_match": "[[EPH.2:19]]-22",
+      "reference_type": "wikilink_range",
+      "context": "prophets. Christ Himself is the Chief Cornerstone ([[EPH.2:19]]-22). The seven pillars of the Church is the Holy Spirit, who is called \"the seven Spirits of"
+    }
+  ]
+}

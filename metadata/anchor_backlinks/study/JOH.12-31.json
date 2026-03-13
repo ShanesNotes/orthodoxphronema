@@ -1,0 +1,51 @@
+{
+  "anchor_id": "JOH.12:31",
+  "canon_uri": "canon/NT/JOH.md#JOH.12:31",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 551,
+      "raw_match": "[[JOH.12:31]]",
+      "reference_type": "wikilink",
+      "context": "\"ruler of this world\" ([[JOH.12:31]]), \"the god of this age\" ([[2CO.4:4]]), because the whole world is"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1671,
+      "raw_match": "[[JOH.12:31]]",
+      "reference_type": "wikilink",
+      "context": "Christ came was under the authority of Satan ([[JOH.12:31]]; [[2CO.4:4]]). It is therefore essential"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1453,
+      "raw_match": "[[JOH.12:27]]-33",
+      "reference_type": "wikilink_range",
+      "context": "divine voice ([[PSA.28:3]]-9; [[JOH.12:27]]-33), a fullness of terror, power, and magnificence. In"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1627,
+      "raw_match": "[[JOH.12:31]]",
+      "reference_type": "wikilink",
+      "context": "to in 10:7, which our Lord Himself mentioned, as recorded in [[JOH.12:31]]: the judgment of"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2689,
+      "raw_match": "[[JOH.12:31]]",
+      "reference_type": "wikilink",
+      "context": "WSol 18:15, 16; [[JOH.12:31]])."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2789,
+      "raw_match": "[[JOH.12:31]]",
+      "reference_type": "wikilink",
+      "context": "29; [[LUK.10:17]], [[LUK.10:18]]; [[JOH.12:31]], [[JOH.12:32]]; [[COL.2:15]]). He is not totally inactive ([[ACT.5:3]]; [[1CO.5:5]]; Eph"
+    }
+  ]
+}

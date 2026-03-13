@@ -1,0 +1,44 @@
+{
+  "anchor_id": "JOH.15:18",
+  "canon_uri": "canon/NT/JOH.md#JOH.15:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/COL_footnotes.md",
+      "line_number": 143,
+      "raw_match": "[[JOH.15:18]]-21",
+      "reference_type": "wikilink_range",
+      "context": "25:40; [[LUK.10:16]]; [[JOH.15:18]]-21; [[ACT.9:1]], [[ACT.9:4]], [[ACT.9:5]]; [[ROM.8:17]]; [[2CO.1:5]]; 4:10; [[PHP.1:20]]; 3:10.)"
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1487,
+      "raw_match": "[[JOH.15:18]]",
+      "reference_type": "wikilink",
+      "context": "wolves are those who seek to frighten and devour those who follow the Lord ([[JOH.15:18]])."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 725,
+      "raw_match": "[[JOH.15:18]]-20",
+      "reference_type": "wikilink_range",
+      "context": "persecuted for righteousness' sake (see [[JOH.15:18]]-20). Christ's kingdom is the"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1598,
+      "raw_match": "[[JOH.15:18]]",
+      "reference_type": "wikilink",
+      "context": "15:25), and sometimes, so is the Church ([[JOH.15:18]]). Levi's birth speaks of union, for \"on"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1511,
+      "raw_match": "[[JOH.15:18]]",
+      "reference_type": "wikilink",
+      "context": "9; see also [[JOH.15:18]]; [[2TI.3:12]]). Various nations mentioned (vv. 7-9) represent the kinds of"
+    }
+  ]
+}

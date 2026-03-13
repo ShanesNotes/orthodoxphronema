@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.5:27",
+  "canon_uri": "canon/NT/JOH.md#JOH.5:27",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1CO_footnotes.md",
+      "line_number": 565,
+      "raw_match": "[[JOH.5:27]]",
+      "reference_type": "wikilink",
+      "context": "share in His authority to judge (see [[MAT.19:28]]; [[JOH.5:22]], [[JOH.5:27]]; [[2PE.2:4]]; Jude 6; [[REV.20:4]]). This"
+    }
+  ]
+}

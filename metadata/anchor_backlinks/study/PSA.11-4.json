@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.11:4",
+  "canon_uri": "canon/OT/PSA.md#PSA.11:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/HAB_footnotes.md",
+      "line_number": 163,
+      "raw_match": "[[PSA.11:4]]",
+      "reference_type": "wikilink",
+      "context": "described elsewhere as virtual atheism ([[PSA.11:4]], [[PSA.11:5]]). The yield is not security but death and"
+    }
+  ]
+}

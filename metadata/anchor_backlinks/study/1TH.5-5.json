@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1TH.5:5",
+  "canon_uri": "canon/NT/1TH.md#1TH.5:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 65,
+      "raw_match": "[[1TH.5:5]]",
+      "reference_type": "wikilink",
+      "context": "believers themselves become children of the light (12:36; [[EPH.5:8]]; [[1TH.5:5]]). Moses saw"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 761,
+      "raw_match": "[[1TH.5:5]]",
+      "reference_type": "wikilink",
+      "context": "12:36; [[1TH.5:5]]) who shine in a perverse world ([[PHP.2:15]]). In many parishes, the Pascha"
+    }
+  ]
+}

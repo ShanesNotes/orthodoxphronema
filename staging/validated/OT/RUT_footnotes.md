@@ -14,7 +14,7 @@ status: staging
 
 Moab was an enemy of Israel, and the Jews were forbidden to have dealings with the
 
-Moabites (Dt 23:3-6). Even in time of famine, one is to trust in the Lord rather than flee
+Moabites ([[DEU.23:3]]-6). Even in time of famine, one is to trust in the Lord rather than flee
 
 to the enemy. Elimelech, whose name means "My God is King," has forsaken God and left
 
@@ -27,18 +27,18 @@ offspring in Israel.
 
 Naomi, representing the faithful Jews who will accept redemption in Christ, returned
 
-from the country of Moab to receive the Lord's bread (see Jn 6:48). The notion of
+from the country of Moab to receive the Lord's bread (see [[JOH.6:48]]). The notion of
 
 arising from a state of sin and returning to a loving Father is echoed in Christ's parable of
 
-the Prodigal Son (Lk 15:11-32). 
+the Prodigal Son ([[LUK.15:11]]-32). 
 
 ### 1:11
 *(anchor: RUT.1:11)*
 
 Naomi's question, "Why do you desire to go with me?" is intended not to prevent
 
-them from following her to the Lord, but to challenge their sincerity (see Jn 6:26, 27). 
+them from following her to the Lord, but to challenge their sincerity (see [[JOH.6:26]], [[JOH.6:27]]). 
 
 ### 1:12
 *(anchor: RUT.1:12)*
@@ -63,7 +63,7 @@ Church and all who would be saved.
 
 The separation between Jew and Gentile would one day be abolished in Jesus Christ
 
-(Eph 2:14). The unbreakable alliance of Naomi and Ruth as the two of them went
+([[EPH.2:14]]). The unbreakable alliance of Naomi and Ruth as the two of them went
 
 until they came to Bethlehem prefigures that day. 
 
@@ -72,9 +72,9 @@ until they came to Bethlehem prefigures that day.
 
 Lamenting in Bethlehem over the loss of her children in Moab, Naomi prefigures
 
-Rachel, who would later lament over the loss of her children to Babylon (Jer 31:15) and
+Rachel, who would later lament over the loss of her children to Babylon ([[JER.31:15]]) and
 
-over the children slain by Herod (Mt 2:16-18). See 4:11. 
+over the children slain by Herod ([[MAT.2:16]]-18). See 4:11. 
 
 ### 1:22
 *(anchor: RUT.1:22)*
@@ -83,7 +83,7 @@ The beginning of barley harvest was in April. It would have occurred at about th
 
 time of the Passover, and thus of the crucifixion and Resurrection of Christ. Jesus
 
-Himself refers to the new covenant as a time of harvest (Mt 9:37, 38; Jn 4:35). Ruth is
+Himself refers to the new covenant as a time of harvest ([[MAT.9:37]], [[MAT.9:38]]; [[JOH.4:35]]). Ruth is
 
 accepted at this time, showing that the Gentiles would be received into the Church. 
 
@@ -94,7 +94,7 @@ Boaz prefigures Christ. Here he is introduced as a relative of both a faithless 
 
 (Elimelech) and, through marriage, a faithful one (Naomi). Boaz also had Gentile
 
-ancestry, for his mother was Rahab (Mt 1:5). 
+ancestry, for his mother was Rahab ([[MAT.1:5]]). 
 
 ### 2:2
 *(anchor: RUT.2:2)*
@@ -103,12 +103,12 @@ In humble acceptance of her position as foreigner, Ruth is willing to glean the 
 
 leftover grain. The New Testament reminds all Gentile believers to imitate her humility
 
-(Rom 11:19-21; Eph 2:11, 12). 
+([[ROM.11:19]]-21; [[EPH.2:11]], [[EPH.2:12]]). 
 
 ### 2:8-10
 *(anchor: RUT.2:8)*
 
-Like the Canaanite woman in Mt 15:21-28, Ruth acknowledges that she does not
+Like the Canaanite woman in [[MAT.15:21]]-28, Ruth acknowledges that she does not
 
 deserve Boaz's favor because she is a stranger. Like Christ, Boaz blesses her with his
 
@@ -162,7 +162,7 @@ clothed in the garment of salvation in their encounter with Christ.
 
 Where Boaz lies down, Ruth will lie down with him, and Boaz will instruct her. Likewise, as Christ was buried, the believer is also buried with Him in baptism, and thus
 
-learns how to live (Rom 6:3-11). 
+learns how to live ([[ROM.6:3]]-11). 
 
 ### 3:9
 *(anchor: RUT.3:9)*
@@ -189,7 +189,7 @@ mankind. Boaz will allow this kinsman the first opportunity to redeem Ruth; if h
 
 do it, Boaz himself will. For in Jewish tradition, the brother or closest relative marries his
 
-deceased brother's widow (Dt 25:5-10). In the same way, God Himself redeemed His
+deceased brother's widow ([[DEU.25:5]]-10). In the same way, God Himself redeemed His
 
 people when the Law had failed. 
 

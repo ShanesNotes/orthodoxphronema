@@ -1,0 +1,30 @@
+{
+  "anchor_id": "MAT.21:44",
+  "canon_uri": "canon/NT/MAT.md#MAT.21:44",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/AMO_footnotes.md",
+      "line_number": 195,
+      "raw_match": "[[MAT.21:44]]",
+      "reference_type": "wikilink",
+      "context": "please them. But He said, 'It will crush and destroy whomever it falls upon' ([[MAT.21:44]]), because He had resisted idolatry, among other things.\""
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1528,
+      "raw_match": "[[MAT.21:42]]-44",
+      "reference_type": "wikilink_range",
+      "context": "The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; [[ACT.4:11]]; [[ROM.9:32]], [[ROM.9:33]]; [[1CO.3:10]], [[1CO.3:11]]; [[1PE.2:4]]-8). The oil signifies Christ, whose human nature was anointed by the Holy Spirit ([[MAT.1:18]]; 3:16; [[HEB.1:9]])."
+    },
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 285,
+      "raw_match": "[[MAT.21:44]]",
+      "reference_type": "wikilink",
+      "context": "falls, it will grind him to powder\" ([[MAT.21:44]]). 8:17-20 The Lord who spoke to Joshua was the Son of God (AmbM). Joshua's spear was"
+    }
+  ]
+}

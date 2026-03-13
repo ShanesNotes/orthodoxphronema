@@ -36,7 +36,7 @@ Remembering and without ceasing describe effective prayer (see 2:13; 5:16-18).
 
 Faith, hope, and love are three Christian virtues Paul links together in other letters
 
-(1Co 13:13; Col 1:4, 5). These virtues are connected to actions: faith works, love labors,
+([[1CO.13:13]]; [[COL.1:4]], [[COL.1:5]]). These virtues are connected to actions: faith works, love labors,
 
 hope produces patience, showing that salvation goes beyond attitudes to action.
 
@@ -86,7 +86,7 @@ hostility (vv. 13-16).
 
 Christians are repeatedly challenged in the NT to be bold in confessing Christ before
 
-others (see Acts 4:29-31; Rom 1:16).
+others (see [[ACT.4:29]]-31; [[ROM.1:16]]).
 
 2:4-6 Paul has been accused of seeking his own glory, but he knows God does not share
 
@@ -120,17 +120,17 @@ the apostles, (4) do not please God, and (5) act with hostility to all men. This
 
 strong indictment. But Paul's love for the Jews never wavers. He wishes himself to be
 
-cursed if that could cause his fellow Jews to turn to Christ for salvation (Rom 9:3; 10:1).
+cursed if that could cause his fellow Jews to turn to Christ for salvation ([[ROM.9:3]]; 10:1).
 
 
 ### 2:18
 *(anchor: 1TH.2:18)*
 
-Though unable to prevail against the Church (Mt 16:18) or overcome the faithful (Eph
+Though unable to prevail against the Church ([[MAT.16:18]]) or overcome the faithful (Eph
 
-6:11-13; Rev 12:11), the enemy at times is permitted to hinder faithful Christians. It is
+6:11-13; [[REV.12:11]]), the enemy at times is permitted to hinder faithful Christians. It is
 
-here that we enact God's promise: "Resist the devil and he will flee from you" (Jam 4:7).
+here that we enact God's promise: "Resist the devil and he will flee from you" ([[JAS.4:7]]).
 
 2:19, 20
 
@@ -176,7 +176,7 @@ possession. We are being sanctified as we walk with Him in faith and obedience.
 ### 4:4
 *(anchor: 1TH.4:4)*
 
-His own vessel speaks of the entire human being (Rom 9:20-23; 2Co 4:7; 2Ti 2:20,
+His own vessel speaks of the entire human being ([[ROM.9:20]]-23; [[2CO.4:7]]; [[2TI.2:20]],
 
 21)--probably one's own self, perhaps one's wife (or husband). In either case one's vessel
 
@@ -210,7 +210,7 @@ information (indeed, it is not available!). Does a thief in the night (v. 2) ann
 
 coming? The disciples had gotten the same kind of answers to their questions on the
 
-Second Coming from Christ Himself (Mt 24:36; Acts 1:6, 7). And suppose we know the
+Second Coming from Christ Himself ([[MAT.24:36]]; [[ACT.1:6]], [[ACT.1:7]]). And suppose we know the
 
 end; what is this to us? Christians are called not to set dates but to make themselves
 
@@ -246,7 +246,7 @@ willingly follow his admonitions.
 ### 5:15
 *(anchor: 1TH.5:15)*
 
-When is it proper to return evil for evil? From the Sermon on the Mount (Mt 5:44)
+When is it proper to return evil for evil? From the Sermon on the Mount ([[MAT.5:44]])
 
 to the end of the NT, the answer is, "Never."
 
@@ -272,7 +272,7 @@ the benediction (v. 23), (2) intercessory prayer (v. 25), (3) the kiss of peace 
 
 (4) the public reading of the Scriptures (v. 27). The practice of a holy kiss (v. 26)very
 
-early became a part of the worship liturgy (see Rom 16:16; 1Co 16:20; 2Co 13:12; 1Pt 5:14).
+early became a part of the worship liturgy (see [[ROM.16:16]]; [[1CO.16:20]]; [[2CO.13:12]]; [[1PE.5:14]]).
 
 Just prior to Communion, the faithful would exchange the kiss of peace, on one cheek
 

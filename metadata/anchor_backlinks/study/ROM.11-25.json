@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ROM.11:25",
+  "canon_uri": "canon/NT/ROM.md#ROM.11:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JOB_footnotes.md",
+      "line_number": 989,
+      "raw_match": "[[ROM.11:25]]",
+      "reference_type": "wikilink",
+      "context": "then also be found to agree to run to her faith\" (see [[ROM.11:25]], [[ROM.11:26]]; Is 61:7; [[REV.6:11]]) \"on"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 471,
+      "raw_match": "[[ROM.11:11]]-36",
+      "reference_type": "wikilink_range",
+      "context": "into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOS.1:15",
+  "canon_uri": "canon/OT/JOS.md#JOS.1:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/AMO_footnotes.md",
+      "line_number": 24,
+      "raw_match": "[[JOS.1:12]]-18",
+      "reference_type": "wikilink_range",
+      "context": "means \"heap of testimony\" (see [[GEN.31:47]], [[GEN.31:48]]; [[JOS.1:12]]-18 and note), as showing forth the"
+    }
+  ]
+}

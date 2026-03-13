@@ -1,0 +1,51 @@
+{
+  "anchor_id": "1PE.2:6",
+  "canon_uri": "canon/NT/1PE.md#1PE.2:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3021,
+      "raw_match": "[[1PE.2:4]]-10",
+      "reference_type": "wikilink_range",
+      "context": "the presence of God in all (v. 22; [[1CO.15:28]]; [[COL.3:11]]; [[1PE.2:4]]-10). The Church itself is the"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 920,
+      "raw_match": "[[1PE.2:4]]-10",
+      "reference_type": "wikilink_range",
+      "context": "were fulfilled in the Church ([[1PE.2:4]]-10)."
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1528,
+      "raw_match": "[[1PE.2:4]]-8",
+      "reference_type": "wikilink_range",
+      "context": "The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; [[ACT.4:11]]; [[ROM.9:32]], [[ROM.9:33]]; [[1CO.3:10]], [[1CO.3:11]]; [[1PE.2:4]]-8). The oil signifies Christ, whose human nature was anointed by the Holy Spirit ([[MAT.1:18]]; 3:16; [[HEB.1:9]])."
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 476,
+      "raw_match": "[[1PE.2:6]]",
+      "reference_type": "wikilink",
+      "context": "[[1PE.2:6]])."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 473,
+      "raw_match": "[[1PE.2:4]]-12",
+      "reference_type": "wikilink_range",
+      "context": "of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1406,
+      "raw_match": "[[1PE.2:4]]-10",
+      "reference_type": "wikilink_range",
+      "context": "fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
+    }
+  ]
+}

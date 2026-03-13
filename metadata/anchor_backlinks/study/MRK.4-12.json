@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.4:12",
+  "canon_uri": "canon/NT/MRK.md#MRK.4:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3129,
+      "raw_match": "[[MRK.4:12]]",
+      "reference_type": "wikilink",
+      "context": "their wickedness (see Is 6:9, 10; [[EZK.3:27]]; [[DAN.12:10]]; [[MRK.4:12]]); the righteous are"
+    }
+  ]
+}

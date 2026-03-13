@@ -78,13 +78,13 @@ God finished the making of heaven and earth for man's sake. He rested from His
 
 creative activity on the seventh day to show His love and providential care for man, and to
 
-invite man to enjoy this Sabbath-rest. For as Jesus said, "The Sabbath was made for man, and not man for the Sabbath" (Mk 2:27). Man failed to keep this Sabbath-rest. But Jesus fulfilled it for man by resting in the
+invite man to enjoy this Sabbath-rest. For as Jesus said, "The Sabbath was made for man, and not man for the Sabbath" ([[MRK.2:27]]). Man failed to keep this Sabbath-rest. But Jesus fulfilled it for man by resting in the
 
-tomb on Great and Holy Saturday, after He said on the cross, "It is finished" (Jn 19:30). For He destroyed sin and death, and rose again on the first day of the week. Through His
+tomb on Great and Holy Saturday, after He said on the cross, "It is finished" ([[JOH.19:30]]). For He destroyed sin and death, and rose again on the first day of the week. Through His
 
 saving work on man's behalf, He is man's Sabbath-rest, and He now invites all to find rest
 
-in Himself (Mt 11:28-30). 
+in Himself ([[MAT.11:28]]-30). 
 
 ### 2:4
 *(anchor: GEN.2:4)*
@@ -102,7 +102,7 @@ man's body, and he became a living soul. Therefore, Adam was a living soul becau
 
 possessed a body, a soul, and the grace of the Holy Spirit. After He rose from the dead, Jesus breathed on His disciples, and said, "Receive the
 
-Holy Spirit" (Jn 20:22). For man failed to keep the grace of the Spirit, but through His
+Holy Spirit" ([[JOH.20:22]]). For man failed to keep the grace of the Spirit, but through His
 
 Resurrection Jesus supplies His disciples abundantly with the life-giving grace of the
 
@@ -128,22 +128,22 @@ God, not man, established the law of marriage; therefore, marriage is holy. In t
 
 marriage union, the husband and wife become one flesh (v. 24), which St. Paul calls "a
 
-great mystery" (Eph 5:32). This mystery is so great and wonderful that a man will leave
+great mystery" ([[EPH.5:32]]). This mystery is so great and wonderful that a man will leave
 
 his father and mother with their blessing, and be joined to a woman in marriage. In this
 
-joining, he will be devoted to her with sacrificial love and devotion, and she to him. This great mystery points to the greater mystery: the marriage of Christ and His Bride, the Church (Eph 5:22-33). For He left His Father and became Man to seek a Bride. He
+joining, he will be devoted to her with sacrificial love and devotion, and she to him. This great mystery points to the greater mystery: the marriage of Christ and His Bride, the Church ([[EPH.5:22]]-33). For He left His Father and became Man to seek a Bride. He
 
 loved His Bride and gave Himself for her. And in his divine vision of the new heaven and
 
 earth, the apostle John saw this Bride, the "New Jerusalem, coming down out of heaven
 
-from God, prepared as a bride adorned for her husband" (Rev 21:1, 2). 
+from God, prepared as a bride adorned for her husband" ([[REV.21:1]], [[REV.21:2]]). 
 
 ### 3:1-7
 *(anchor: GEN.3:1)*
 
-The serpent is the devil (2Co 11:3; Rev 12:9), and he tempted Eve. He contradicted
+The serpent is the devil ([[2CO.11:3]]; [[REV.12:9]]), and he tempted Eve. He contradicted
 
 God's commandment (2:16, 17) by denying death and decay in the grave as the penalty for
 
@@ -171,9 +171,9 @@ do His will.
 ### 3:15
 *(anchor: GEN.3:15)*
 
-The woman's seed is first Christ, and second His Church (Gal 3:16, 26). The serpent's
+The woman's seed is first Christ, and second His Church ([[GAL.3:16]], [[GAL.3:26]]). The serpent's
 
-seed are those who reject Christ and follow the devil (1Jn 3:8-10). Christ destroyed the
+seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the
 
 devil through the cross (bruise your head). 
 
@@ -184,7 +184,7 @@ Adam's disobedience cursed the ground and placed mankind under toil and
 
 labor until his end in death and decay in the grave (return to the ground). For death
 
-and decay in the grave entered the world through him (Rom 5:12). 
+and decay in the grave entered the world through him ([[ROM.5:12]]). 
 
 ### 3:24
 *(anchor: GEN.3:24)*
@@ -213,14 +213,14 @@ accepted Abel and his gifts, because Abel had a good and discerning heart. He di
 
 through faith the Lord's coming Incarnation and His sacrifice as a lamb for the salvation
 
-of the world. (See also Mt 23:35; Lk 11:51; Heb 11:4; 12:24). 
+of the world. (See also [[MAT.23:35]]; [[LUK.11:51]]; [[HEB.11:4]]; 12:24). 
 
 ### 4:5
 *(anchor: GEN.4:5)*
 
 The Lord rejected Cain and his gifts. Why? The inward state of his heart was not right
 
-with God. As 1Jn 3:12 says of him, "who was of the wicked one." His passions are
+with God. As [[1JN.3:12]] says of him, "who was of the wicked one." His passions are
 
 described in Jude 11 as "the way of Cain."
 
@@ -299,7 +299,7 @@ In contrast to Cain's offspring, Seth's offspring, Enosh, hoped in the Lord and 
 
 on His name. For this is the way of salvation. "Whoever calls on the name of the Lord
 
-shall be saved" (Joel 2:32; Rom 10:13). 
+shall be saved" ([[JOL.2:32]]; [[ROM.10:13]]). 
 
 ### 5:1
 *(anchor: GEN.5:1)*
@@ -340,7 +340,7 @@ other; yet, They are one in nature (JohnDm).
 ### 5:4-28
 *(anchor: GEN.5:4)*
 
-This passage focuses on the genealogy of Christ (Lk 3:23-38) and the reality of
+This passage focuses on the genealogy of Christ ([[LUK.3:23]]-38) and the reality of
 
 death and decay in the grave--the debt man owed to the broken commandment in the
 
@@ -353,11 +353,11 @@ and Resurrection, and to release man from the debt he owed (AthanG).
 
 Noah is born into incarnational history, and he is a key ancestor in Christ's
 
-genealogy (Lk 3:36), for the next several chapters focus on him and his family. Lamech named his son Noah, and as 5:29 points out, this name means "to give rest."
+genealogy ([[LUK.3:36]]), for the next several chapters focus on him and his family. Lamech named his son Noah, and as 5:29 points out, this name means "to give rest."
 
 For he would give them rest from our work and the toil of our hands, because of
 
-the ground the Lord God cursed. In this meaning, Noah is a type of Christ, who said, "Come to Me, all you who labor and are heavy laden, and I will give you rest" (Mt 11:28). 
+the ground the Lord God cursed. In this meaning, Noah is a type of Christ, who said, "Come to Me, all you who labor and are heavy laden, and I will give you rest" ([[MAT.11:28]]). 
 
 ### 6:3
 *(anchor: GEN.6:3)*
@@ -433,19 +433,19 @@ man's willful refusal to become righteous through the grace of the Holy Spirit
 
 The ark was a type of the Mother of God with Christ and the Church in her womb
 
-(Akath). The floodwaters were a type of baptism, in which we are saved (1Pt 3:18-22). 
+(Akath). The floodwaters were a type of baptism, in which we are saved ([[1PE.3:18]]-22). 
 
 ### 7:1
 *(anchor: GEN.7:1)*
 
-The Lord God made Noah righteous through faith, by which he pleased God (Heb 11:6, 7). Through the grace of the Holy Spirit he obeyed everything God commanded him to do. So he and his family entered the ark, which typified salvation. 
+The Lord God made Noah righteous through faith, by which he pleased God ([[HEB.11:6]], [[HEB.11:7]]). Through the grace of the Holy Spirit he obeyed everything God commanded him to do. So he and his family entered the ark, which typified salvation. 
 
 ### 7:2-15
 *(anchor: GEN.7:2)*
 
 Noah's faith also saved the animals. The whole creation will be saved through the
 
-children of God (Rom 8:18-22). 
+children of God ([[ROM.8:18]]-22). 
 
 ### 7:16-24
 *(anchor: GEN.7:16)*
@@ -458,7 +458,7 @@ life--buying, selling, eating, drinking, marrying, and giving in marriage--but t
 
 indifferent to God and His grace. The Flood caught them unawares, but it was too late for
 
-them to respond. So it will be in the Day of Judgment (Mt 24:37-39; Lk 17:26, 27; 2Pt 2:4, 5). 
+them to respond. So it will be in the Day of Judgment ([[MAT.24:37]]-39; [[LUK.17:26]], [[LUK.17:27]]; [[2PE.2:4]], [[2PE.2:5]]). 
 
 ### 8:1
 *(anchor: GEN.8:1)*
@@ -467,7 +467,7 @@ God remembered Noah and saved him from the floodwaters, for He made a wind
 
 that caused the waters to subside. Noah was saved because God remembered him. This
 
-remembrance is salvation. Many Scriptures speak of God remembering man in salvation. For example, Ps 24:6, 7: "Remember Your compassion, O Lord, / And Your mercy, for
+remembrance is salvation. Many Scriptures speak of God remembering man in salvation. For example, [[PSA.24:6]], [[PSA.24:7]]: "Remember Your compassion, O Lord, / And Your mercy, for
 
 they are from of old. / Do not remember the sins of my youth, nor of my ignorance; / But
 
@@ -477,14 +477,14 @@ thief on the cross said to Jesus, "Lord, remember me when You come into Your
 
 kingdom." And Jesus said to him, "Assuredly, I say to you, today you will be with Me in
 
-Paradise" (Lk 23:42-43). 
+Paradise" ([[LUK.23:42]]-43). 
 
 ### 8:10
 *(anchor: GEN.8:10)*
 
-, 11 The dove foreshadowed the Holy Spirit (Mt 3:16), who caused the Holy Virgin to
+, 11 The dove foreshadowed the Holy Spirit ([[MAT.3:16]]), who caused the Holy Virgin to
 
-conceive Christ in her womb, and the olive leaf speaks of the Virgin herself (Lk 1:35; Akath). The olive leaf was also a token of man's reconciliation to God and foreshadowed
+conceive Christ in her womb, and the olive leaf speaks of the Virgin herself ([[LUK.1:35]]; Akath). The olive leaf was also a token of man's reconciliation to God and foreshadowed
 
 the fulfillment of grace in the Holy Mysteries (Sacraments) of the Church (Service of
 
@@ -497,7 +497,7 @@ Baptism).
 
 salvation is a two-way street. As the Psalmist said, "I remembered Your name in the
 
-night, O Lord, / And I kept Your law" (Ps 118:55). This Noah did, and he built an altar
+night, O Lord, / And I kept Your law" ([[PSA.118:55]]). This Noah did, and he built an altar
 
 to God. 
 
@@ -516,7 +516,7 @@ altar on which she offers the sweet aroma of praise and thanksgiving to the Lord
 
 The earth will remain with its regular cycles until the new heaven and the new earth
 
-come (Rev 21:1). 9:1
+come ([[REV.21:1]]). 9:1
 
 God not only "remembered" Noah (8:1), He also blessed him. Remembrance is
 
@@ -524,7 +524,7 @@ salvation and so is blessing. Many Scriptures speak to this. For example, the Ps
 
 said, "He shall receive blessing from the Lord, / And mercy from the God of his salvation"
 
-(Ps 23:5). 9:8-16 Noah's seed is Christ (Lk 3:23, 36), and the everlasting covenant (v. 16) is the
+([[PSA.23:5]]). 9:8-16 Noah's seed is Christ ([[LUK.3:23]], [[LUK.3:36]]), and the everlasting covenant (v. 16) is the
 
 new covenant God established in Him. God's rainbow in the clouds is His sign of the
 
@@ -534,13 +534,13 @@ Not only did the Lord God bless Noah (9:1), but Noah blessed Him. Many Scripture
 
 speak to this. For example, the Psalmist said, "For my foot stands in uprightness; / In the
 
-churches I will bless You, O Lord" (Ps 25:12; Vesting Service). Noah blessed God because
+churches I will bless You, O Lord" ([[PSA.25:12]]; Vesting Service). Noah blessed God because
 
-of Shem, through whom Christ would come to save the world (Lk 3:36). 10:1
+of Shem, through whom Christ would come to save the world ([[LUK.3:36]]). 10:1
 
 This chapter continues Christ's genealogy through Shem after the flood. 10:21-31
 
-Christ's genealogy is traced from Shem down to Peleg (Lk 3:35, 36). His name
+Christ's genealogy is traced from Shem down to Peleg ([[LUK.3:35]], [[LUK.3:36]]). His name
 
 means division, for in his days the earth was divided (v. 25). This division is
 
@@ -550,7 +550,7 @@ Mankind was united as one race and one language. But this unity existed without
 
 the Holy Trinity, for man's true unity is union and communion with the Father, the Son, and the Holy Spirit. The Church is "the race of Christians" (Kairon Service), "a holy
 
-nation" (1Pt 2:9), and glorifies God "with . . . one mouth" (Rom 15:6). In the Great Litany, the Church prays "for the union of all men," a union based in the Holy Trinity. 11:7
+nation" ([[1PE.2:9]]), and glorifies God "with . . . one mouth" ([[ROM.15:6]]). In the Great Litany, the Church prays "for the union of all men," a union based in the Holy Trinity. 11:7
 
 The pronoun Us refers to the Holy Trinity. The words go down are a figure of
 
@@ -564,7 +564,7 @@ works. 11:8
 
 The Lord divided this false unity for the sake of man's salvation, that man might seek
 
-and find Him (Acts 17:26-28). For they sought to build their unity by making a name for
+and find Him ([[ACT.17:26]]-28). For they sought to build their unity by making a name for
 
 themselves (v. 4). They cared nothing for the name of the Lord God, by which man is
 
@@ -576,11 +576,11 @@ unity of the human race is Christ Himself. 12:1-7
 
 prophet Moses, who wrote this Scripture. Thus, St. Paul said, "And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel to Abraham
 
-beforehand, saying, 'In you all the nations shall be blessed'" (Gal 3:8). Thus the Holy
+beforehand, saying, 'In you all the nations shall be blessed'" ([[GAL.3:8]]). Thus the Holy
 
 Spirit preached the gospel beforehand to Abraham. The Holy Spirit inspired Moses to write in v. 1 that the Lord said to Abram this
 
-scripture. Who is this Lord? He is God the Father, as St. Paul indicated in Gal 3:8: "God
+scripture. Who is this Lord? He is God the Father, as St. Paul indicated in [[GAL.3:8]]: "God
 
 would justify the Gentiles by faith." Thus, the Father preached the gospel beforehand to
 
@@ -602,7 +602,7 @@ Persons are also present in one and the same working for the salvation of man. T
 
 Father works through the Son and in the Spirit. 12:8
 
-Abraham is the father of all the faithful (Rom 4:11). Since he built an altar of
+Abraham is the father of all the faithful ([[ROM.4:11]]). Since he built an altar of
 
 worship, therefore an altar is part of his faith. Bethel means "house of God," which
 
@@ -610,7 +610,7 @@ foreshadows the Church as the house of God. The altar is central to worship. At 
 
 The Lord protected Sarah's virtue, and also the Incarnation. For Abraham and Sarah
 
-begot Isaac, through whom the promise in Christ was made (Rom 9:7). 13:1-5 Canaan, not Egypt, was the land of promise. While in Egypt, Abraham never lost his
+begot Isaac, through whom the promise in Christ was made ([[ROM.9:7]]). 13:1-5 Canaan, not Egypt, was the land of promise. While in Egypt, Abraham never lost his
 
 focus on God's promise in the gospel of salvation, for he returned to Bethel, the house of
 
@@ -618,15 +618,15 @@ God, and called on the name of the Lord (v. 4). Similarly, those who possess
 
 Abraham's faith keep their focus on this same gospel. 13:6-9 Abraham was a peacemaker, and "Blessed are the peacemakers, / For they shall be
 
-called sons of God" (Mt 5:9). He was looking for his eternal inheritance in "the world to
+called sons of God" ([[MAT.5:9]]). He was looking for his eternal inheritance in "the world to
 
-come" (Creed; see also Heb 11:9-11). Although he was very rich, he was a man of virtue. For in his heart he was detached from his wealth and also from the love of land. Thus he
+come" (Creed; see also [[HEB.11:9]]-11). Although he was very rich, he was a man of virtue. For in his heart he was detached from his wealth and also from the love of land. Thus he
 
 overcame strife (v. 7) and made peace with Lot. Therefore, virtue characterized the faith
 
 of Abraham. It will also characterize his spiritual children. 13:10-13 Lot, on the other hand, was attached to the beauty of the landscape. It looked like
 
-the Garden of Eden. Unlike Abraham, he walked by sight, and not by faith (2Co 5:7). Thus, he chose wrongfully, not because of the beauty itself, but because of his immature
+the Garden of Eden. Unlike Abraham, he walked by sight, and not by faith ([[2CO.5:7]]). Thus, he chose wrongfully, not because of the beauty itself, but because of his immature
 
 faith. His poor judgment landed him with the people of Sodom. They were exceedingly
 
@@ -634,7 +634,7 @@ wicked and sinful before God (v. 13)--beautiful scenery but an extremely deprave
 
 environment. Their godless behavior oppressed and tormented his righteous soul every
 
-day (2Pt 2:7, 8). 
+day ([[2PE.2:7]], [[2PE.2:8]]). 
 
 ### 13:14-18
 *(anchor: GEN.13:14)*
@@ -645,7 +645,7 @@ notable difference in the two men. One trapped himself in the environment of thi
 
 world; the other focused himself on the Lord. However, the Lord would eventually deliver
 
-righteous Lot from Sodom (2Pt 2:9). 
+righteous Lot from Sodom ([[2PE.2:9]]). 
 
 ### 14:14
 *(anchor: GEN.14:14)*
@@ -667,9 +667,9 @@ Melchizedek brought out bread and wine to Abraham. His priesthood typified
 
 the High Priesthood of Christ, who gives His precious body and blood to the faithful in
 
-the bread and wine of the Eucharist (CypC). Christ's priesthood is called "the order of Melchizedek" (Ps 109:4; Heb 5:6), and it is
+the bread and wine of the Eucharist (CypC). Christ's priesthood is called "the order of Melchizedek" ([[PSA.109:4]]; [[HEB.5:6]]), and it is
 
-superior to the order of Aaron in the Mosaic Law (Heb 7:11). The Book of Hebrews gives
+superior to the order of Aaron in the Mosaic Law ([[HEB.7:11]]). The Book of Hebrews gives
 
 numerous reasons for this superiority. 
 
@@ -717,16 +717,16 @@ The Voice of the Lord is also the Word of the Father. He reassures Abraham that
 
 his heir will come from your own body. This refers to the birth of Isaac, based on
 
-God's promise. For man is saved by this promise through faith in Christ (Rom 4:17-25; 9:7, 8). 
+God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8). 
 
 ### 15:5
 *(anchor: GEN.15:5)*
 
-The seed is first Christ, then His Church (Gal 3:16; Rom 4:16). The stars are a type
+The seed is first Christ, then His Church ([[GAL.3:16]]; [[ROM.4:16]]). The stars are a type
 
-of all the members of His body (Php 2:15). Their number is countless, and consists of
+of all the members of His body ([[PHP.2:15]]). Their number is countless, and consists of
 
-both Jews and Gentiles (Eph 2:11-16). 
+both Jews and Gentiles ([[EPH.2:11]]-16). 
 
 ### 15:6
 *(anchor: GEN.15:6)*
@@ -737,7 +737,7 @@ Abraham's faith was living and growing--something dynamic. He was made righteous
 
 this faith. So are both Jews and Gentiles. Righteousness is the gift of God through Jesus
 
-Christ (Rom 5:17). 
+Christ ([[ROM.5:17]]). 
 
 ### 15:7
 *(anchor: GEN.15:7)*
@@ -760,7 +760,7 @@ divinity. The Church does the same thing.
 ### 16:1
 *(anchor: GEN.16:1)*
 
-In Gal 4:21-31, St. Paul uses Hagar and Sarah as an allegory, representing two
+In [[GAL.4:21]]-31, St. Paul uses Hagar and Sarah as an allegory, representing two
 
 covenants. Hagar and Ishmael represent the old covenant of the Law, which "gives birth
 
@@ -835,11 +835,11 @@ appearance is another of the personal appearances of the Son of God to Abraham.
 ### 17:2-4
 *(anchor: GEN.17:2)*
 
-The covenant is that established "in Christ" (Gal 3:17). God established it before the
+The covenant is that established "in Christ" ([[GAL.3:17]]). God established it before the
 
 Mosaic covenant. Therefore, the Law of Moses, which came later, could not cancel it. Abraham's faith is multiplied exceedingly in the Church. For he is the father of
 
-many nations (see also Rom 4:16, 17). 
+many nations (see also [[ROM.4:16]], [[ROM.4:17]]). 
 
 ### 17:5
 *(anchor: GEN.17:5)*
@@ -868,11 +868,11 @@ genealogy (v. 12), that is, to Abraham's physical lineage, and also to those bor
 
 house or bought with his money. Thus, the rite did not apply to the "many nations," or
 
-Gentiles, to be made righteous by faith in the gospel (v. 3; see also Rom 4:9-17). Christ
+Gentiles, to be made righteous by faith in the gospel (v. 3; see also [[ROM.4:9]]-17). Christ
 
 Himself fulfilled this rite and brought it to an end when He was circumcised on the
 
-eighth day after His birth from the Virgin (Lk 2:21). 
+eighth day after His birth from the Virgin ([[LUK.2:21]]). 
 
 ### 17:19-21
 *(anchor: GEN.17:19)*
@@ -914,7 +914,7 @@ sake and for that of those who read the Scriptures. He also asked questions for 
 
 reason after He became incarnate, for example, concerning the location of Lazarus's grave
 
-(Jn 11:34). 
+([[JOH.11:34]]). 
 
 ### 18:14
 *(anchor: GEN.18:14)*
@@ -1003,7 +1003,7 @@ Lot spoke to all three men, but prayed to the Lord in particular.
 
 The Lord granted his request (I have acquiesced to you) to escape to a small city, called Zoar. The Son is the Will of the Father; thus He said, "I will not overthrow this
 
-city." The Son is also the Word, Wisdom, and Power of the Father (Jn 1:1-3 and 1Co
+city." The Son is also the Word, Wisdom, and Power of the Father ([[JOH.1:1]]-3 and 1Co
 
 1:24). 
 
@@ -1027,7 +1027,7 @@ Father."
 
 The destruction of Sodom and the adjoining city of Gomorrah is a warning to the
 
-ungodly concerning the Day of Judgment (2Pt 2:6, 9; Jude 7). 19:22-24 During Great Lent, the Church sings, "O my soul, flee like Lot to the mountain, and take refuge in Zoar before it is too late. Flee from the flames, my soul, flee from the
+ungodly concerning the Day of Judgment ([[2PE.2:6]], [[2PE.2:9]]; Jude 7). 19:22-24 During Great Lent, the Church sings, "O my soul, flee like Lot to the mountain, and take refuge in Zoar before it is too late. Flee from the flames, my soul, flee from the
 
 burning heat of Sodom, flee from destruction by the fire of God."
 
@@ -1035,14 +1035,14 @@ burning heat of Sodom, flee from destruction by the fire of God."
 ### 19:26
 *(anchor: GEN.19:26)*
 
-In Lk 17:28-33, the Lord commanded us to remember Lot's wife, for she lost her
+In [[LUK.17:28]]-33, the Lord commanded us to remember Lot's wife, for she lost her
 
 life because she turned back in disobedience to the Lord. 
 
 ### 20:1
 *(anchor: GEN.20:1)*
 
-Abraham was a sojourner because he waited for "the city which has foundations, whose builder and maker is God" (Heb 11:10). The Creed calls this city "the world to
+Abraham was a sojourner because he waited for "the city which has foundations, whose builder and maker is God" ([[HEB.11:10]]). The Creed calls this city "the world to
 
 come." Abraham believed he would be raised from the dead to dwell in his true city. 
 
@@ -1073,9 +1073,9 @@ the power of the flesh, for both she and Abraham were past the time of childbear
 
 procreation--who are the children of God. Rather, the children of this promise are
 
-counted as Abraham's seed (Rom 9:8). These children are those who embrace Abraham's
+counted as Abraham's seed ([[ROM.9:8]]). These children are those who embrace Abraham's
 
-faith through the Lord Jesus Christ (Gal 3:16). 
+faith through the Lord Jesus Christ ([[GAL.3:16]]). 
 
 ### 21:10
 *(anchor: GEN.21:10)*
@@ -1135,14 +1135,14 @@ be raised from the dead.
 
 Abraham's faith was tested, and he obeyed the Son of God. Such faith and obedience
 
-made Abraham righteous and a friend of God (Jam 2:22-23). 
+made Abraham righteous and a friend of God ([[JAS.2:22]]-23). 
 
 ### 22:12
 *(anchor: GEN.22:12)*
 
 Abraham received Isaac back alive. This prefigured the Resurrection of Christ and
 
-the future resurrection from the dead, in which Abraham believed (Heb 11:19). 
+the future resurrection from the dead, in which Abraham believed ([[HEB.11:19]]). 
 
 ### 22:14
 *(anchor: GEN.22:14)*
@@ -1160,7 +1160,7 @@ the name of God (21:23, 24). The seven ewe lambs confirmed the oath, and Abraham
 
 named the place the Well of Oath. So they were reconciled. However, God cannot swear
 
-by anyone greater; therefore, He swore by Himself. He confirmed the oath by His Lamb, the Son of God, through whom God's eternal covenant is established (Heb 6:13-20). The
+by anyone greater; therefore, He swore by Himself. He confirmed the oath by His Lamb, the Son of God, through whom God's eternal covenant is established ([[HEB.6:13]]-20). The
 
 Well of Oath foreshadows the reconciliation of man to God through Jesus Christ. 
 
@@ -1171,7 +1171,7 @@ Abraham's seed would be as the stars of heaven and as the sand on the
 
 seashore. These are Abraham's seed based on the word of promise. This seed is Christ
 
-and His Church begotten from Him (Gal 3:16). It does not refer to Israel according to the
+and His Church begotten from Him ([[GAL.3:16]]). It does not refer to Israel according to the
 
 flesh. It refers to both Jews and Gentiles who are the children of the promise. 
 
@@ -1182,14 +1182,14 @@ The days of Sarah's life were numbered. She knew this because she was a woman of
 
 faith. She did not know when she would die, but knew she would. For she saw herself as a
 
-sojourner and stranger passing through this life to the world to come (Heb 11:11-16). 
+sojourner and stranger passing through this life to the world to come ([[HEB.11:11]]-16). 
 
 ### 23:4
 *(anchor: GEN.23:4)*
 
 Abraham describes himself as a sojourner and a stranger living in this present
 
-world. As a sojourner, he was passing through this world to the one to come (Heb 11:8-
+world. As a sojourner, he was passing through this world to the one to come ([[HEB.11:8]]-
 
 10). As a stranger, he saw himself as a foreigner in this world, which was not his true
 
@@ -1262,7 +1262,7 @@ The Lord appointed Rebekah to be Isaac's wife. However, this appointment was
 
 based on His foreknowledge, for He knew beforehand how she would respond. Her free
 
-will was not forced. Similarly, election to salvation is based in the same foreknowledge. As St. Paul said, "whom He foreknew, He also predestined" (Rom 8:29). 
+will was not forced. Similarly, election to salvation is based in the same foreknowledge. As St. Paul said, "whom He foreknew, He also predestined" ([[ROM.8:29]]). 
 
 ### 24:27
 *(anchor: GEN.24:27)*
@@ -1340,14 +1340,14 @@ Isaac dwelt at the Well of the Vision, where the Son of God appeared to Hagar
 ### 25:19
 *(anchor: GEN.25:19)*
 
-Christ came through the genealogy of Isaac (Mt 1:2). 
+Christ came through the genealogy of Isaac ([[MAT.1:2]]). 
 
 ### 25:23
 *(anchor: GEN.25:23)*
 
 This prophecy shows that God's purpose in salvation stands on the basis of His
 
-calling, and not on the basis of works, either good or bad (Rom 9:11). For God foreknew
+calling, and not on the basis of works, either good or bad ([[ROM.9:11]]). For God foreknew
 
 which of the two sons would believe the word of promise given to Abraham. Jacob
 
@@ -1366,7 +1366,7 @@ Esau was the older son, so the right of the firstborn was his. This right taught
 
 firstborn to embrace Abraham's faith. But he despised this faith, because of his fear of
 
-death (v. 32). He despised the very faith that could save him from death (Heb 12:16, 17). 
+death (v. 32). He despised the very faith that could save him from death ([[HEB.12:16]], [[HEB.12:17]]). 
 
 ### 26:2
 *(anchor: GEN.26:2)*
@@ -1390,7 +1390,7 @@ which to sojourn. Like his father, Abraham, he saw the world to come as his true
 
 inheritance. "By faith he [Abraham] dwelt in the land of promise as in a foreign country, dwelling in tents with Isaac and Jacob, the heirs with him of the same promise; for he
 
-waited for the city which has foundations, whose builder and maker is God" (Heb 11:9, 10). 
+waited for the city which has foundations, whose builder and maker is God" ([[HEB.11:9]], [[HEB.11:10]]). 
 
 ### 26:4
 *(anchor: GEN.26:4)*
@@ -1399,7 +1399,7 @@ The phrase your seed includes both Jews and Gentiles (all the nations) who
 
 embrace the promise given to Abraham. The phrase "in your seed" is a reference to Christ
 
-(Gal 3:16). For both Jews and Gentiles who believe are joined together as one body in
+([[GAL.3:16]]). For both Jews and Gentiles who believe are joined together as one body in
 
 Christ, that is, in Christ and His Church. 
 
@@ -1434,7 +1434,7 @@ God the Son appeared to Isaac at the Well of Oath and swore to him concerning th
 
 promise made to Abraham. This swearing emphasized the unchangeableness of the Lord's
 
-will and purpose (Heb 6:17, 18). The Lord will fulfill His purpose in the world to come and
+will and purpose ([[HEB.6:17]], [[HEB.6:18]]). The Lord will fulfill His purpose in the world to come and
 
 give it to the heirs of promise. Isaac laid hold of this oath and the hope it gave him (Heb
 
@@ -1474,9 +1474,9 @@ over his brethren upon his father's death, and be responsible for the welfare an
 
 administration of the family. All this foreshadowed the Lord's Incarnation as the
 
-Firstborn of the Father and the ruler and head over the Church. Through His Incarnation, He would secure the Church's eternal inheritance (Rom 4:13; 8:29; Gal 3:3, 18, 29; 4:7; Eph 1:11, 14, 18; 3:6; Col 1:12, 15, 18; 3:24; Tts 3:7; Heb 1:2, 4, 6; 6:17; 9:15; 11:7-9; Jam
+Firstborn of the Father and the ruler and head over the Church. Through His Incarnation, He would secure the Church's eternal inheritance ([[ROM.4:13]]; 8:29; [[GAL.3:3]], [[GAL.3:18]], [[GAL.3:29]]; 4:7; [[EPH.1:11]], [[EPH.1:14]], [[EPH.1:18]]; 3:6; [[COL.1:12]], [[COL.1:15]], [[COL.1:18]]; 3:24; [[TIT.3:7]]; [[HEB.1:2]], [[HEB.1:4]], [[HEB.1:6]]; 6:17; 9:15; 11:7-9; Jam
 
-2:5; 1Pt 1:4; 3:7; 12:23; Rev 1:5). 
+2:5; [[1PE.1:4]]; 3:7; 12:23; [[REV.1:5]]). 
 
 ### 27:34
 *(anchor: GEN.27:34)*
@@ -1485,7 +1485,7 @@ The blessing of the firstborn was denied Esau because he despised the faith of
 
 Abraham. Because of this, he could find no place of repentance in order to inherit the
 
-blessing of the firstborn son (Heb 12:16, 17). Likewise, in the Day of Judgment, people
+blessing of the firstborn son ([[HEB.12:16]], [[HEB.12:17]]). Likewise, in the Day of Judgment, people
 
 who in this life reject the offer of the future inheritance will be unable to find repentance
 
@@ -1525,7 +1525,7 @@ opened the gate of heaven to those who embrace the faith of Abraham.
 ### 28:18
 *(anchor: GEN.28:18)*
 
-The stone is Christ, the foundation stone of the Church (Mt 21:42-44; Mk 12:10; Lk 20:17, 18; Acts 4:11; Rom 9:32, 33; 1Co 3:10, 11; 1Pt 2:4-8). The oil signifies Christ, whose human nature was anointed by the Holy Spirit (Mt 1:18; 3:16; Heb 1:9). 
+The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; [[ACT.4:11]]; [[ROM.9:32]], [[ROM.9:33]]; [[1CO.3:10]], [[1CO.3:11]]; [[1PE.2:4]]-8). The oil signifies Christ, whose human nature was anointed by the Holy Spirit ([[MAT.1:18]]; 3:16; [[HEB.1:9]]). 
 
 ### 28:22
 *(anchor: GEN.28:22)*
@@ -1541,7 +1541,7 @@ Laban called Jacob my bone and my flesh, for they were blood relatives. In
 
 contrast to this, the Church is not based on blood relationships. It is based on the lifegiving flesh of Christ, by which those who embrace Him in faith become "members of His
 
-body, of His flesh and of His bones" (Eph 5:30). The members of His body are closer in
+body, of His flesh and of His bones" ([[EPH.5:30]]). The members of His body are closer in
 
 relationship than blood relations. 
 
@@ -1550,7 +1550,7 @@ relationship than blood relations.
 
 Laban called Jacob my brother. Technically, Jacob was Laban's nephew. Therefore, the title brother does not necessarily mean a son of the same father or mother. In Mt
 
-13:55 and Mk 3:31, Jesus is said to have brothers. These are not sons of Mary His mother. They are simply close relatives. The Church calls Mary Ever-virgin. This belief is a dogma
+13:55 and [[MRK.3:31]], Jesus is said to have brothers. These are not sons of Mary His mother. They are simply close relatives. The Church calls Mary Ever-virgin. This belief is a dogma
 
 of the Church, for she bore only one Son, the Lord Jesus Christ. 
 
@@ -1568,9 +1568,9 @@ equals seven years (Daniel 9), to the coming of Christ in the Incarnation.
 
 Levi was the forefather of the levitical priesthood, also known as the order of
 
-Aaron, for Aaron came from Levi (Heb 7:11). But the Christ could not be part of this order, because He would descend from Judah (Heb 7:14). However, the prophecy said Christ
+Aaron, for Aaron came from Levi ([[HEB.7:11]]). But the Christ could not be part of this order, because He would descend from Judah ([[HEB.7:14]]). However, the prophecy said Christ
 
-would be the High Priest of the order of Melchizedek (Ps 109:4). Thus, both orders cannot
+would be the High Priest of the order of Melchizedek ([[PSA.109:4]]). Thus, both orders cannot
 
 coexist as the way to be perfected. The order of Aaron became obsolete because Levi and
 
@@ -1580,7 +1580,7 @@ made children of God through the order of Aaron. Both Jews and Gentiles become t
 
 children of God only through the order of Melchizedek, in the one body of Christ, the
 
-Church, which is also called "the Israel of God" (Gal 6:16). 
+Church, which is also called "the Israel of God" ([[GAL.6:16]]). 
 
 ### 30:6
 *(anchor: GEN.30:6)*
@@ -1595,7 +1595,7 @@ humiliation (29:32); the Son humbled Himself to become Man for man's salvation (
 
 2:7). Simeon's birth emphasizes hatred (29:33); Christ was hated without cause (Jn
 
-15:25), and sometimes, so is the Church (Jn 15:18). Levi's birth speaks of union, for "on
+15:25), and sometimes, so is the Church ([[JOH.15:18]]). Levi's birth speaks of union, for "on
 
 my side" speaks of union (29:34). Christ unites His Church to Himself in baptism (Rom
 
@@ -1606,7 +1606,7 @@ my side" speaks of union (29:34). Christ unites His Church to Himself in baptism
 
 Naphtali's birth emphasizes victory; Christ prevailed over death by triumphing over
 
-it through the cross (Col 2:14, 15). 
+it through the cross ([[COL.2:14]], [[COL.2:15]]). 
 
 ### 30:11
 *(anchor: GEN.30:11)*
@@ -1620,14 +1620,14 @@ prosperity and health (3Jn 2, 3).
 
 Asher relates to blessing. Christ's Incarnation blesses His own with every spiritual
 
-blessing in the heavenly places (Eph 1:3). 
+blessing in the heavenly places ([[EPH.1:3]]). 
 
 ### 30:18
 *(anchor: GEN.30:18)*
 
 Issachar's name speaks of wages or reward. Christ will bring His reward, to give
 
-each one according to his works (Rev 22:12). 
+each one according to his works ([[REV.22:12]]). 
 
 ### 30:20
 *(anchor: GEN.30:20)*
@@ -1641,7 +1641,7 @@ Zebulun's name emphasizes endowment. Zebulun is a haven for ships ( 49:13). Chri
 
 Joseph's name relates to the bearing of reproach, and he bore the reproach of
 
-his brothers when they sold him into Egypt. Christ bore our reproach (Rom 15:3). 
+his brothers when they sold him into Egypt. Christ bore our reproach ([[ROM.15:3]]). 
 
 ### 30:33
 *(anchor: GEN.30:33)*
@@ -1661,7 +1661,7 @@ The Lord is the Word and Son of God. He told Jacob to return to the land of his
 
 father, for this land was a type of the world to come. Laban's country was not Jacob's
 
-permanent residence (Heb 11:14-16, 21). 
+permanent residence ([[HEB.11:14]]-16, 21). 
 
 ### 31:11
 *(anchor: GEN.31:11)*
@@ -1707,12 +1707,12 @@ over the twenty-year period (v. 38).
 
 The stone set up as a pillar was a type of the Incarnate Son, for He is the foundation
 
-stone and pillar of the Church (1Co 3:11). 
+stone and pillar of the Church ([[1CO.3:11]]). 
 
 ### 31:46
 *(anchor: GEN.31:46)*
 
-These stones are types of the living stones in the Church (1Pt 2:4, 5). 
+These stones are types of the living stones in the Church ([[1PE.2:4]], [[1PE.2:5]]). 
 
 ### 31:48
 *(anchor: GEN.31:48)*
@@ -1722,7 +1722,7 @@ These stones are types of the living stones in the Church (1Pt 2:4, 5).
 ### 32:12
 *(anchor: GEN.32:12)*
 
-Your seed is a reference to Christ (Gal 3:16), and together with Him, the Church, composed of both Jews and Gentiles. It is not a reference to the Jews based on physical
+Your seed is a reference to Christ ([[GAL.3:16]]), and together with Him, the Church, composed of both Jews and Gentiles. It is not a reference to the Jews based on physical
 
 lineage. 
 
@@ -1751,16 +1751,16 @@ The Form of God was the Son and Word of God, who revealed Himself to
 
 Jacob (AthanG and HilryP). He is the Radiance of the Father who reveals the Father in
 
-Himself, for as He said, "He who has seen Me has seen the Father" (Jn 14:9). The rising
+Himself, for as He said, "He who has seen Me has seen the Father" ([[JOH.14:9]]). The rising
 
 and radiating of the sun on Jacob illustrated this relation of the Son to the Father. 
 
 ### 33:5
 *(anchor: GEN.33:5)*
 
-Gen 33:5, 9, 11: Jacob acknowledged that God gave him all his possessions. For he was
+[[GEN.33:5]], [[GEN.33:9]], [[GEN.33:11]]: Jacob acknowledged that God gave him all his possessions. For he was
 
-a man of faith who looked to the world to come (Heb 11:13-15, 21). Esau, on the other
+a man of faith who looked to the world to come ([[HEB.11:13]]-15, 21). Esau, on the other
 
 hand, did not glorify God for the possessions God gave him, for he was an unbeliever. 
 
@@ -1856,7 +1856,7 @@ slave into Egypt. However, he ultimately became the lord of all Egypt. Similarly
 
 was betrayed for thirty pieces of silver, was killed and buried in His grave. But He rose
 
-again, and became the Lord of all (Acts 2:36; 10:36). 
+again, and became the Lord of all ([[ACT.2:36]]; 10:36). 
 
 ### 38:24
 *(anchor: GEN.38:24)*
@@ -1879,14 +1879,14 @@ Joseph viewed adultery and/or fornication as great wickedness and sin against Go
 
 Joseph's holiness cost him his freedom. "Yes, and all who desire to live godly in
 
-Christ Jesus will suffer persecution" (2Ti 3:12). 
+Christ Jesus will suffer persecution" ([[2TI.3:12]]). 
 
 ### 39:21
 *(anchor: GEN.39:21)*
 
 Joseph suffered for righteousness' sake; therefore, the Lord was with him. Truly, he
 
-was a blessed man (Mt 5:10). 
+was a blessed man ([[MAT.5:10]]). 
 
 ### 39:23
 *(anchor: GEN.39:23)*
@@ -1934,12 +1934,12 @@ prophet Joseph (Creed).
 
 Joseph calls Egypt the land of my humiliation. Such is this fallen world to those
 
-who look for their inheritance in the world to come (Heb 11:13-16, 22; Creed). 
+who look for their inheritance in the world to come ([[HEB.11:13]]-16, 22; Creed). 
 
 ### 42:1
 *(anchor: GEN.42:1)*
 
-Jacob's sons were lazy, and lazy people are unruly (2Th 3:6-12). Such people lack
+Jacob's sons were lazy, and lazy people are unruly ([[2TH.3:6]]-12). Such people lack
 
 reverence, lack self-control in speech, and are quick to abuse others (JohnCas). These
 
@@ -1952,7 +1952,7 @@ Joseph was a true prophet, for the Holy Spirit spoke by him. Thus, his prophecie
 
 concerning Jacob and his sons came to pass. His long-term prophecy concerning the
 
-general resurrection will also come to pass (50:25; Heb 11:22). Therefore, his prophecies
+general resurrection will also come to pass (50:25; [[HEB.11:22]]). Therefore, his prophecies
 
 are trustworthy. 
 
@@ -1979,7 +1979,7 @@ Jacob knew the grace of God, which enabled him to accept whatever the outcome
 
 would be in the case of Simeon and Benjamin. St. Paul also said, "By the grace of God I
 
-am what I am" (1Co 15:10). And St. Athanasius the Great said that man fell into death
+am what I am" ([[1CO.15:10]]). And St. Athanasius the Great said that man fell into death
 
 because he abandoned the grace of God the Word. 
 
@@ -2018,7 +2018,7 @@ God's grace in people leads to great joy in their midst.
 
 Joseph made himself known to his brothers, and Jesus makes Himself known to His
 
-own brethren (Jn 10:4, 14; Heb 2:11). 
+own brethren ([[JOH.10:4]], [[JOH.10:14]]; [[HEB.2:11]]). 
 
 ### 45:5
 *(anchor: GEN.45:5)*
@@ -2081,16 +2081,16 @@ Jacob described himself and his fathers, Abraham and Isaac, as sojourners, for h
 
 embraced Abraham's faith and thus "looked for the resurrection of the dead and the life
 
-of the world to come" (Creed; Heb 11:13-16, 21). And although he had suffered much in
+of the world to come" (Creed; [[HEB.11:13]]-16, 21). And although he had suffered much in
 
-his life, he saw this as nothing compared to the glory to be revealed (Rom 8:18). 
+his life, he saw this as nothing compared to the glory to be revealed ([[ROM.8:18]]). 
 
 ### 47:29
 *(anchor: GEN.47:29)*
 
 Jacob sees grace as synonymous with mercy and as coupled with truth. The apostle
 
-John said that the Word of God who became flesh is "full of grace and truth" (Jn 1:14). 
+John said that the Word of God who became flesh is "full of grace and truth" ([[JOH.1:14]]). 
 
 ### 47:30
 *(anchor: GEN.47:30)*
@@ -2150,7 +2150,7 @@ The Holy Spirit spoke by Jacob and predicted that God would bring Joseph back to
 
 Canaan. Joseph's bones were later taken to Canaan, prefiguring the resurrection from the
 
-dead (Heb 11:22). 
+dead ([[HEB.11:22]]). 
 
 ### 49:1
 *(anchor: GEN.49:1)*
@@ -2204,7 +2204,7 @@ in and through Him.
 
 Joseph spoke to the heart of his brothers, for the heart has spiritual eyes to see the
 
-things of God (Eph 1:18). If their eyes were clear, they would be able to see God's
+things of God ([[EPH.1:18]]). If their eyes were clear, they would be able to see God's
 
 forgiveness expressed through Joseph (v. 17), and that He worked their evil for good, in
 

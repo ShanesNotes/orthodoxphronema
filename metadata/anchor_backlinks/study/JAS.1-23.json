@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JAS.1:23",
+  "canon_uri": "canon/NT/JAS.md#JAS.1:23",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2CO_footnotes.md",
+      "line_number": 265,
+      "raw_match": "[[JAS.1:23]]-25",
+      "reference_type": "wikilink_range",
+      "context": "humanity (see [[1CO.13:12]]; [[JAS.1:23]]-25) and (2) in the power of the Spirit. As we behold"
+    }
+  ]
+}

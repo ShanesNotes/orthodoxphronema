@@ -22,7 +22,7 @@ Epaphroditus. Bishops are the leading presbyters. By the time this letter was wr
 
 around AD 63, not only were bishops present in Philippi, but James was presiding over
 
-the church in Jerusalem (Acts 15:13) and tradition reveals that Peter was bishop in
+the church in Jerusalem ([[ACT.15:13]]) and tradition reveals that Peter was bishop in
 
 Antioch--and later in Rome. (Tradition sometimes refers to the men Peter designated his
 
@@ -30,7 +30,7 @@ successors in those places as the "first" bishops, affirming the difference betw
 
 apostles and the overseers they appointed.) Paul's pastoral epistles outline the
 
-qualifications for the office of bishop (1Ti 3:1-7; Tts 1:7-9).
+qualifications for the office of bishop ([[1TI.3:1]]-7; [[TIT.1:7]]-9).
 
 
 ### 1:5
@@ -102,7 +102,7 @@ Christians to understand and live out. The passage has been incorporated into ma
 
 hymns of the Orthodox Church. Christ is He who, being in the form of God, is also in
 
-the form of a bondservant (v. 7), in our likeness (see Gn 1:26), and is voluntarily
+the form of a bondservant (v. 7), in our likeness (see [[GEN.1:26]]), and is voluntarily
 
 subject to death. He who has died, God has exalted and given the name Lord (v. 11), a
 
@@ -114,7 +114,7 @@ name God the Son shares with God the Father from all eternity.
 
 The form (Gr. morphe) of God, a concept parallel with "the image [Gr. eikon] of
 
-God" (Col 1:15), refers to the Son's sharing in full the divine nature. Robbery (Gr.
+God" ([[COL.1:15]]), refers to the Son's sharing in full the divine nature. Robbery (Gr.
 
 harpagmon, lit. "prize" or "booty") refers to an object stolen and tightly clutched. Christ
 
@@ -220,7 +220,7 @@ righteousness.
 
 True righteousness is the knowledge of Christ Jesus (v. 8). He is the "pearl of
 
-great price" and eternal life (Jn 17:3). A faith that obeys Christ is the very content and
+great price" and eternal life ([[JOH.17:3]]). A faith that obeys Christ is the very content and
 
 meaning of life, and it is for this that we suffer the loss of all things (v. 8) and deny
 
@@ -300,7 +300,7 @@ Rome. A long letter, still in existence, to the Corinthian church is attributed 
 
 Paul often uses the word always in relation to prayer. Rejoicing always is a fruit of
 
-perseverance in daily prayers (see 1Th 5:16-18).
+perseverance in daily prayers (see [[1TH.5:16]]-18).
 
 
 ### 4:5-9

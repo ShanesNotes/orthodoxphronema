@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2PE.2:8",
+  "canon_uri": "canon/NT/2PE.md#2PE.2:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 637,
+      "raw_match": "[[2PE.2:8]]",
+      "reference_type": "wikilink",
+      "context": "day ([[2PE.2:7]], [[2PE.2:8]])."
+    }
+  ]
+}

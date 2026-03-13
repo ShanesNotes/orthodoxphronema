@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.5:19",
+  "canon_uri": "canon/NT/MAT.md#MAT.5:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 315,
+      "raw_match": "[[MAT.5:17]]-19",
+      "reference_type": "wikilink_range",
+      "context": "certainly does not prohibit ([[MAT.5:17]]-19; 23:23). At issue is setting human tradition"
+    },
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 180,
+      "raw_match": "[[MAT.5:19]]",
+      "reference_type": "wikilink",
+      "context": "teaches\" His commandments \"shall be called great in the kingdom of heaven\" ([[MAT.5:19]]). Therefore, \"does and teaches\" is the proper order. 4:6"
+    }
+  ]
+}

@@ -169,9 +169,9 @@ dynasty. A number have been taken from Jerusalem, thus further cementing his
 
 control. Note the naming of Solomon in this list, as well as Nathan, who is the ancestor
 
-of Christ in Luke's genealogy (see Lk 3:31). Matthew lists Solomon as Christ's ancestor
+of Christ in Luke's genealogy (see [[LUK.3:31]]). Matthew lists Solomon as Christ's ancestor
 
-(Mt 1:6). 
+([[MAT.1:6]]). 
 
 ### 5:18-20
 *(anchor: 2SA.5:18)*
@@ -196,7 +196,7 @@ obeyed God's commands in this matter.
 ### 6:1-5
 *(anchor: 2SA.6:1)*
 
-The ark is now to be brought up to Jerusalem from Gibeon (see 1Ch 13:1-14). It has
+The ark is now to be brought up to Jerusalem from Gibeon (see [[1CH.13:1]]-14). It has
 
 been in the care of Eleazar (see 1Kg 7:1). This will help unify Judah and Israel by
 
@@ -209,7 +209,7 @@ Contact with the holy was fatal. When Uzzah placed his hand on the ark to
 
 steady it, he died. David is fearful lest the ark enter Jerusalem. Instead, it is placed in the
 
-house of Obed-Edom (Abedarra), a Philistine loyal to David, for three months. ObedEdom means literally, "servant of Edom" (see 1Ch 3:13, 14). His house and all his
+house of Obed-Edom (Abedarra), a Philistine loyal to David, for three months. ObedEdom means literally, "servant of Edom" (see [[1CH.3:13]], [[1CH.3:14]]). His house and all his
 
 possessions are blessed by the presence of the ark. 
 
@@ -218,7 +218,7 @@ possessions are blessed by the presence of the ark.
 
 Having seen that the ark has brought blessing to the house of a Philistine, David is
 
-willing to have it enter Jerusalem after all (see 1Ch 15:25-29). Greeting the ark with
+willing to have it enter Jerusalem after all (see [[1CH.15:25]]-29). Greeting the ark with
 
 dancing is perhaps an import from Canaanite practices. A tabernacle ("tent of meeting")
 
@@ -253,7 +253,7 @@ descendant, Solomon, will build it. This serves to remind Nathan and David that 
 
 Himself is in charge and will issue the instructions. Indeed, God Himself will establish
 
-the throne and house and kingdom forever (see v. 23; Ps 88:28ff: Is 55:3). 
+the throne and house and kingdom forever (see v. 23; [[PSA.88:28]]ff: Is 55:3). 
 
 ### 7:18-29
 *(anchor: 2SA.7:18)*
@@ -456,7 +456,7 @@ the rest of his days--and beyond--because of his sins of adultery and murder. Th
 
 conduct of leaders, as well as of parents, produces unholiness in the nation or the family. The sins of a father or mother can thus be visited upon their descendants. For those in
 
-spiritual leadership, this can be the case for their spiritual children (see 1Ti 3; Rev 2:18ff). 13:1-6
+spiritual leadership, this can be the case for their spiritual children (see 1Ti 3; [[REV.2:18]]ff). 13:1-6
 
 God's punishment of David for his sins (12:7) now begins to unfold. David's son
 
@@ -481,7 +481,7 @@ Completely revolted by his own deeds, Amnon sends Tamar away.
 
 The variegated robe was worn by virgins. It is the same type of robe as
 
-described in Ps 44:13, 14, a psalm typifying the Virgin Mary. Tamar observes the
+described in [[PSA.44:13]], [[PSA.44:14]], a psalm typifying the Virgin Mary. Tamar observes the
 
 mourning tradition for the loss of her virginity by placing ashes on her head and
 
@@ -634,7 +634,7 @@ weeps and prays on the Mount of Olives, seeking God's will. Compare this with Ch
 
 weeping on the Mount of Olives, knowing full well God's will, as His betrayer approaches
 
-(Mk 14:32-35). 
+([[MRK.14:32]]-35). 
 
 ### 16:1-4
 *(anchor: 2SA.16:1)*
@@ -898,7 +898,7 @@ named Mephibosheth) and five of his grandsons, sons of Michal.
 ### 21:15-22
 *(anchor: 2SA.21:15)*
 
-Again, this is set in the early years of David's kingship, when he was still at war, perhaps either 5:18-21 or 5:22-26. Regarding giants, see Gn 14:5. The lamp of Israel
+Again, this is set in the early years of David's kingship, when he was still at war, perhaps either 5:18-21 or 5:22-26. Regarding giants, see [[GEN.14:5]]. The lamp of Israel
 
 (v. 17) refers to the royal lineage (see 14:7). 
 
@@ -917,7 +917,7 @@ perish. God has made an everlasting covenant (v. 5) with David (see ch. 7).
 ### 23:8-12
 *(anchor: 2SA.23:8)*
 
-These three men form a special band (see 1Ch 11:11-14). 
+These three men form a special band (see [[1CH.11:11]]-14). 
 
 ### 23:13-17
 *(anchor: 2SA.23:13)*
@@ -932,7 +932,7 @@ The thirty is a round number (v. 24). The text says there are thirty-seven (v. 3
 ### 24:1-9
 *(anchor: 2SA.24:1)*
 
-Despite the protestations of Joab, David decides to take a census of the people. According to the narrator, the Lord has incited David to do this. However, in 1Ch 21:1, it
+Despite the protestations of Joab, David decides to take a census of the people. According to the narrator, the Lord has incited David to do this. However, in [[1CH.21:1]], it
 
 is Satan who has done this. Certainly, the Lord can use the devil to do His bidding. Joab
 
@@ -941,7 +941,7 @@ might be concerned about using a census to levy taxes on the people.
 ### 24:10-17
 *(anchor: 2SA.24:10)*
 
-Gad the prophet (see 1Kg 22:5; 1Ch 21:9ff; 2Ch 29:25) gives David a choice of
+Gad the prophet (see 1Kg 22:5; [[1CH.21:9]]ff; [[2CH.29:25]]) gives David a choice of
 
 one of three penalties for taking the census: (1) three years of famine; (2) three
 
@@ -962,4 +962,4 @@ threshing-floor of Orna the Jebusite and the oxen begins the offering of sacrifi
 
 in Jerusalem. This story is intended to reflect the origin of sacrifices there. Solomon
 
-later will use the threshing-floor as the site for his temple (see 1Ch 22:1; 2Ch 3:1). David's court history is concluded in chapters 1 and 2 of 3 Kingdoms.
+later will use the threshing-floor as the site for his temple (see [[1CH.22:1]]; [[2CH.3:1]]). David's court history is concluded in chapters 1 and 2 of 3 Kingdoms.

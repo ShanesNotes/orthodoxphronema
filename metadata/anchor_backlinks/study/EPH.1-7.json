@@ -1,0 +1,30 @@
+{
+  "anchor_id": "EPH.1:7",
+  "canon_uri": "canon/NT/EPH.md#EPH.1:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[EPH.1:3]]-14",
+      "reference_type": "wikilink_range",
+      "context": "[[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 1071,
+      "raw_match": "[[EPH.1:7]]",
+      "reference_type": "wikilink",
+      "context": "the blood of Christ, which initiated the new covenant. On the night of the Last Supper, Jesus said, \"This cup is the new covenant in My blood, which is shed for you\" ([[LUK.22:20]]). St. Paul says, \"In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace\" ([[EPH.1:7]]). Also St. John says, \"But if we walk in the"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 838,
+      "raw_match": "[[EPH.1:7]]",
+      "reference_type": "wikilink",
+      "context": "([[EPH.1:7]], [[EPH.1:8]])."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "EXO.10:20",
+  "canon_uri": "canon/OT/EXO.md#EXO.10:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 2235,
+      "raw_match": "[[EXO.10:20]]",
+      "reference_type": "wikilink",
+      "context": "[[ROM.1:24]], [[ROM.1:26]]). What is meant by He has blinded is that God has permitted their selfchosen blindness (compare Ex 8:15, 32 with [[EXO.10:20]], [[EXO.10:27]]). They did not become blind"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 477,
+      "raw_match": "[[EXO.10:20]]",
+      "reference_type": "wikilink",
+      "context": "[[EXO.10:1]], [[EXO.10:20]], [[EXO.10:27]]: Both Pharaoh and his servants hardened their hearts (see note at"
+    }
+  ]
+}

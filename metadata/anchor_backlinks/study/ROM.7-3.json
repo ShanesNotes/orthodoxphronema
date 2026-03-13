@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ROM.7:3",
+  "canon_uri": "canon/NT/ROM.md#ROM.7:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2613,
+      "raw_match": "[[ROM.7:1]]-6",
+      "reference_type": "wikilink_range",
+      "context": "Songs; [[HOS.2:19]]; [[ROM.7:1]]-6). For marriage is a symbol of the union of God with His"
+    }
+  ]
+}

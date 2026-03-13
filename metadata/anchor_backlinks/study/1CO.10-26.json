@@ -1,0 +1,16 @@
+{
+  "anchor_id": "1CO.10:26",
+  "canon_uri": "canon/NT/1CO.md#1CO.10:26",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1ES_footnotes.md",
+      "line_number": 21,
+      "raw_match": "[[1CO.10:23]]-26",
+      "reference_type": "wikilink_range",
+      "context": "an OT type of the NT paschal feast ([[1CO.10:23]]-26), in which the Church celebrates the"
+    }
+  ]
+}

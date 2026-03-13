@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.11:13",
+  "canon_uri": "canon/NT/MRK.md#MRK.11:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 276,
+      "raw_match": "[[MRK.11:13]]",
+      "reference_type": "wikilink",
+      "context": "21:19-21; [[MRK.11:13]], [[MRK.11:20]], [[MRK.11:21]]; [[LUK.13:6]], [[LUK.13:7]]). But the figs are young and immature, like those"
+    }
+  ]
+}

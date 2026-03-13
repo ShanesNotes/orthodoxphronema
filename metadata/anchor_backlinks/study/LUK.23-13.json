@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.23:13",
+  "canon_uri": "canon/NT/LUK.md#LUK.23:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/AMO_footnotes.md",
+      "line_number": 185,
+      "raw_match": "[[LUK.23:13]]-25",
+      "reference_type": "wikilink_range",
+      "context": "Justice was overturned when Pilate, having declared that Christ was innocent, submitted to the anger of the Jews and allowed Him to be crucified ([[LUK.23:13]]-25). Chrysostom remarks further that bitterness was hell's response when Christ entered. 7:2"
+    }
+  ]
+}

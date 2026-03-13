@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JER.7:25",
+  "canon_uri": "canon/OT/JER.md#JER.7:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 909,
+      "raw_match": "[[JER.7:21]]-26",
+      "reference_type": "wikilink_range",
+      "context": "1:10-17; [[JER.7:21]]-26; [[HOS.6:6]]). This is not in opposition to liturgical, sacramental"
+    }
+  ]
+}

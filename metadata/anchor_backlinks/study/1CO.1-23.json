@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1CO.1:23",
+  "canon_uri": "canon/NT/1CO.md#1CO.1:23",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1757,
+      "raw_match": "[[1CO.1:23]]",
+      "reference_type": "wikilink",
+      "context": "the Incarnation and Crucifixion of the Son of God ([[1CO.1:23]]) makes this sin more easily"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2393,
+      "raw_match": "[[1CO.1:23]]",
+      "reference_type": "wikilink",
+      "context": "after the Resurrection ([[1CO.1:23]]). Peter unwittingly speaks for Satan, as the devil did not"
+    }
+  ]
+}

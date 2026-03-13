@@ -1,0 +1,30 @@
+{
+  "anchor_id": "HEB.4:15",
+  "canon_uri": "canon/NT/HEB.md#HEB.4:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1739,
+      "raw_match": "[[HEB.4:15]]",
+      "reference_type": "wikilink",
+      "context": "possessing Christlike compassion for each one ([[HEB.4:15]]). In return, the people will"
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1214,
+      "raw_match": "[[HEB.4:15]]",
+      "reference_type": "wikilink",
+      "context": "He committed no lawlessness: See [[HEB.4:15]]."
+    },
+    {
+      "source_file": "staging/validated/OT/JOB_footnotes.md",
+      "line_number": 27,
+      "raw_match": "[[HEB.4:15]]",
+      "reference_type": "wikilink",
+      "context": "Christ was without sin ([[HEB.4:15]])."
+    }
+  ]
+}

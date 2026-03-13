@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.15:23",
+  "canon_uri": "canon/NT/JOH.md#JOH.15:23",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1533,
+      "raw_match": "[[JOH.15:22]]-24",
+      "reference_type": "wikilink_range",
+      "context": "that regard ([[JOH.15:22]]-24), and are instead judged by their God-given conscience (Rom"
+    }
+  ]
+}

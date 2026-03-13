@@ -32,7 +32,7 @@ that does not change one's life does not save.
 ### 1:5
 *(anchor: TIT.1:5)*
 
-When Paul evangelized an area, he did not leave it unattended (1Co 3:6-10; Col 1:7).
+When Paul evangelized an area, he did not leave it unattended ([[1CO.3:6]]-10; [[COL.1:7]]).
 
 1:5-9
 
@@ -42,7 +42,7 @@ priesthood inside the general priesthood of all, should exhibit a wholesome and 
 
 family life (v. 6), control over passions and emotions (v. 7), loving and righteous relations
 
-with others (v. 8), and careful adherence to tradition (v. 9; see also 1Ti 3:1-16; 5:21; 2Ti
+with others (v. 8), and careful adherence to tradition (v. 9; see also [[1TI.3:1]]-16; 5:21; 2Ti
 
 2:2).
 
@@ -104,7 +104,7 @@ live in solidarity with Him: a blessed, victorious struggle.
 
 The Church Fathers regard our great God and Savior Jesus Christ as a landmark
 
-statement of the divinity of Christ (see Rom 9:5; 2Pt 1:1). In Paul's thought, "God" refers
+statement of the divinity of Christ (see [[ROM.9:5]]; [[2PE.1:1]]). In Paul's thought, "God" refers
 
 usually to the Person of the Father, not to the divine nature.
 
@@ -122,9 +122,9 @@ The washing of regeneration, baptism, and renewing of the Holy Spirit,
 
 chrismation, form a unity in our salvation, clear throughout the NT. Jesus taught we are
 
-born from above through "water and the Spirit" (Jn 3:5); Peter preached salvation in
+born from above through "water and the Spirit" ([[JOH.3:5]]); Peter preached salvation in
 
-Christ through being "baptized" and receiving "the gift of the Holy Spirit" (Acts 2:38).
+Christ through being "baptized" and receiving "the gift of the Holy Spirit" ([[ACT.2:38]]).
 
 Now Paul calls us to the washing of the water and the renewing of the Holy Spirit.
 
@@ -138,7 +138,7 @@ While Paul is painfully aware we are awaiting the consummation of the age to com
 
 chrismation are the beginning, the rite of passage toward a progressive life of renewal in
 
-Christ (see 2Co 3:16-18).
+Christ (see [[2CO.3:16]]-18).
 
 
 ### 3:10-11

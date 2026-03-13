@@ -1,0 +1,44 @@
+{
+  "anchor_id": "2CO.4:17",
+  "canon_uri": "canon/NT/2CO.md#2CO.4:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 383,
+      "raw_match": "[[2CO.4:7]]-18",
+      "reference_type": "wikilink_range",
+      "context": "16:33; [[2CO.4:7]]-18). The fruit of the tree is the spiritual food of [[1CO.10:3]], the \"medicine of"
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 1137,
+      "raw_match": "[[2CO.4:17]]",
+      "reference_type": "wikilink",
+      "context": "God turns them into \"light affliction\" ([[2CO.4:17]], [[2CO.4:18]]; 12:9, 10). God has foreknowledge of"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 294,
+      "raw_match": "[[2CO.4:17]]",
+      "reference_type": "wikilink",
+      "context": "suffering on the Lord's behalf results in eternal glory ([[2CO.4:17]]). But they condemned"
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 404,
+      "raw_match": "[[2CO.4:17]]",
+      "reference_type": "wikilink",
+      "context": "Hard circumstances are seen by the righteous as a reason to remember the Lord. The holy prophet calls them a small affliction; or as St. Paul writes, \"our light affliction, which . . . is working for us a far more exceeding and eternal weight of glory\" ([[2CO.4:17]])."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 2137,
+      "raw_match": "[[2CO.4:13]]-18",
+      "reference_type": "wikilink_range",
+      "context": "(Creed). St. Paul interprets the psalm in this manner in [[2CO.4:13]]-18. The psalmist"
+    }
+  ]
+}

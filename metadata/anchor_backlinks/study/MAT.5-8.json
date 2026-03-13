@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.5:8",
+  "canon_uri": "canon/NT/MAT.md#MAT.5:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3041,
+      "raw_match": "[[MAT.5:8]]",
+      "reference_type": "wikilink",
+      "context": "10:21; 48:4, 5)--it has no enemies--but only the pure will live within it ([[MAT.5:8]])."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3085,
+      "raw_match": "[[MAT.5:8]]",
+      "reference_type": "wikilink",
+      "context": "His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]];"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "anchor_id": "ZEC.3:2",
+  "canon_uri": "canon/OT/ZEC.md#ZEC.3:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 93,
+      "raw_match": "[[ZEC.3:2]]",
+      "reference_type": "wikilink",
+      "context": "possibility of the assumption of Moses; also [[ZEC.3:1]], [[ZEC.3:2]]). The people of God are defended"
+    },
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 99,
+      "raw_match": "[[ZEC.3:2]]",
+      "reference_type": "wikilink",
+      "context": "restraint ([[ZEC.3:2]]) even though he was dealing with the devil himself."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 714,
+      "raw_match": "[[ZEC.3:2]]",
+      "reference_type": "wikilink",
+      "context": "rebuke you!\" (See also [[ZEC.3:2]].)"
+    }
+  ]
+}

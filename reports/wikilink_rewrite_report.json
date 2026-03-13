@@ -1,0 +1,767 @@
+{
+  "file_count": 152,
+  "changed_files": 95,
+  "converted_refs": 3595,
+  "files": [
+    {
+      "path": "staging/validated/NT/1CO_articles.md",
+      "changed": true,
+      "converted_refs": 7
+    },
+    {
+      "path": "staging/validated/NT/1CO_footnotes.md",
+      "changed": true,
+      "converted_refs": 84
+    },
+    {
+      "path": "staging/validated/NT/1JN_articles.md",
+      "changed": true,
+      "converted_refs": 11
+    },
+    {
+      "path": "staging/validated/NT/1JN_footnotes.md",
+      "changed": true,
+      "converted_refs": 32
+    },
+    {
+      "path": "staging/validated/NT/1PE_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/1PE_footnotes.md",
+      "changed": true,
+      "converted_refs": 39
+    },
+    {
+      "path": "staging/validated/NT/1TH_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/1TH_footnotes.md",
+      "changed": true,
+      "converted_refs": 18
+    },
+    {
+      "path": "staging/validated/NT/1TI_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/1TI_footnotes.md",
+      "changed": true,
+      "converted_refs": 31
+    },
+    {
+      "path": "staging/validated/NT/2CO_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/2CO_footnotes.md",
+      "changed": true,
+      "converted_refs": 21
+    },
+    {
+      "path": "staging/validated/NT/2JN_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/2JN_footnotes.md",
+      "changed": true,
+      "converted_refs": 1
+    },
+    {
+      "path": "staging/validated/NT/2PE_articles.md",
+      "changed": true,
+      "converted_refs": 4
+    },
+    {
+      "path": "staging/validated/NT/2PE_footnotes.md",
+      "changed": true,
+      "converted_refs": 14
+    },
+    {
+      "path": "staging/validated/NT/2TH_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/2TH_footnotes.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/2TI_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/2TI_footnotes.md",
+      "changed": true,
+      "converted_refs": 24
+    },
+    {
+      "path": "staging/validated/NT/3JN_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/3JN_footnotes.md",
+      "changed": true,
+      "converted_refs": 3
+    },
+    {
+      "path": "staging/validated/NT/ACT_articles.md",
+      "changed": true,
+      "converted_refs": 15
+    },
+    {
+      "path": "staging/validated/NT/ACT_footnotes.md",
+      "changed": true,
+      "converted_refs": 96
+    },
+    {
+      "path": "staging/validated/NT/COL_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/COL_footnotes.md",
+      "changed": true,
+      "converted_refs": 11
+    },
+    {
+      "path": "staging/validated/NT/EPH_articles.md",
+      "changed": true,
+      "converted_refs": 17
+    },
+    {
+      "path": "staging/validated/NT/EPH_footnotes.md",
+      "changed": true,
+      "converted_refs": 18
+    },
+    {
+      "path": "staging/validated/NT/GAL_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/GAL_footnotes.md",
+      "changed": true,
+      "converted_refs": 26
+    },
+    {
+      "path": "staging/validated/NT/HEB_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/HEB_footnotes.md",
+      "changed": true,
+      "converted_refs": 56
+    },
+    {
+      "path": "staging/validated/NT/JAS_articles.md",
+      "changed": true,
+      "converted_refs": 6
+    },
+    {
+      "path": "staging/validated/NT/JAS_footnotes.md",
+      "changed": true,
+      "converted_refs": 24
+    },
+    {
+      "path": "staging/validated/NT/JOH_articles.md",
+      "changed": true,
+      "converted_refs": 4
+    },
+    {
+      "path": "staging/validated/NT/JOH_footnotes.md",
+      "changed": true,
+      "converted_refs": 130
+    },
+    {
+      "path": "staging/validated/NT/JUD_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/JUD_footnotes.md",
+      "changed": true,
+      "converted_refs": 22
+    },
+    {
+      "path": "staging/validated/NT/LUK_articles.md",
+      "changed": true,
+      "converted_refs": 21
+    },
+    {
+      "path": "staging/validated/NT/LUK_footnotes.md",
+      "changed": true,
+      "converted_refs": 159
+    },
+    {
+      "path": "staging/validated/NT/MAT_articles.md",
+      "changed": true,
+      "converted_refs": 14
+    },
+    {
+      "path": "staging/validated/NT/MAT_footnotes.md",
+      "changed": true,
+      "converted_refs": 233
+    },
+    {
+      "path": "staging/validated/NT/MRK_articles.md",
+      "changed": true,
+      "converted_refs": 26
+    },
+    {
+      "path": "staging/validated/NT/MRK_footnotes.md",
+      "changed": true,
+      "converted_refs": 63
+    },
+    {
+      "path": "staging/validated/NT/PHM_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/PHM_footnotes.md",
+      "changed": true,
+      "converted_refs": 3
+    },
+    {
+      "path": "staging/validated/NT/PHP_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/PHP_footnotes.md",
+      "changed": true,
+      "converted_refs": 7
+    },
+    {
+      "path": "staging/validated/NT/REV_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/REV_footnotes.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/NT/ROM_articles.md",
+      "changed": true,
+      "converted_refs": 24
+    },
+    {
+      "path": "staging/validated/NT/ROM_footnotes.md",
+      "changed": true,
+      "converted_refs": 39
+    },
+    {
+      "path": "staging/validated/NT/TIT_articles.md",
+      "changed": true,
+      "converted_refs": 8
+    },
+    {
+      "path": "staging/validated/NT/TIT_footnotes.md",
+      "changed": true,
+      "converted_refs": 8
+    },
+    {
+      "path": "staging/validated/OT/1CH_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/1CH_footnotes.md",
+      "changed": true,
+      "converted_refs": 41
+    },
+    {
+      "path": "staging/validated/OT/1ES_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/1ES_footnotes.md",
+      "changed": true,
+      "converted_refs": 23
+    },
+    {
+      "path": "staging/validated/OT/1KI_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/1KI_footnotes.md",
+      "changed": true,
+      "converted_refs": 56
+    },
+    {
+      "path": "staging/validated/OT/1MA_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/1MA_footnotes.md",
+      "changed": true,
+      "converted_refs": 5
+    },
+    {
+      "path": "staging/validated/OT/1SA_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/1SA_footnotes.md",
+      "changed": true,
+      "converted_refs": 6
+    },
+    {
+      "path": "staging/validated/OT/2CH_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/2CH_footnotes.md",
+      "changed": true,
+      "converted_refs": 30
+    },
+    {
+      "path": "staging/validated/OT/2KI_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/2KI_footnotes.md",
+      "changed": true,
+      "converted_refs": 40
+    },
+    {
+      "path": "staging/validated/OT/2MA_articles.md",
+      "changed": true,
+      "converted_refs": 3
+    },
+    {
+      "path": "staging/validated/OT/2MA_footnotes.md",
+      "changed": true,
+      "converted_refs": 36
+    },
+    {
+      "path": "staging/validated/OT/2SA_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/2SA_footnotes.md",
+      "changed": true,
+      "converted_refs": 16
+    },
+    {
+      "path": "staging/validated/OT/3MA_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/3MA_footnotes.md",
+      "changed": true,
+      "converted_refs": 31
+    },
+    {
+      "path": "staging/validated/OT/AMO_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/AMO_footnotes.md",
+      "changed": true,
+      "converted_refs": 16
+    },
+    {
+      "path": "staging/validated/OT/BAR_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/BAR_footnotes.md",
+      "changed": true,
+      "converted_refs": 30
+    },
+    {
+      "path": "staging/validated/OT/DAN_articles.md",
+      "changed": true,
+      "converted_refs": 29
+    },
+    {
+      "path": "staging/validated/OT/DAN_footnotes.md",
+      "changed": true,
+      "converted_refs": 18
+    },
+    {
+      "path": "staging/validated/OT/DEU_articles.md",
+      "changed": true,
+      "converted_refs": 11
+    },
+    {
+      "path": "staging/validated/OT/DEU_footnotes.md",
+      "changed": true,
+      "converted_refs": 97
+    },
+    {
+      "path": "staging/validated/OT/ECC_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/ECC_footnotes.md",
+      "changed": true,
+      "converted_refs": 19
+    },
+    {
+      "path": "staging/validated/OT/EST_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/EST_footnotes.md",
+      "changed": true,
+      "converted_refs": 19
+    },
+    {
+      "path": "staging/validated/OT/EXO_articles.md",
+      "changed": true,
+      "converted_refs": 71
+    },
+    {
+      "path": "staging/validated/OT/EXO_footnotes.md",
+      "changed": true,
+      "converted_refs": 103
+    },
+    {
+      "path": "staging/validated/OT/EZK_articles.md",
+      "changed": true,
+      "converted_refs": 12
+    },
+    {
+      "path": "staging/validated/OT/EZK_footnotes.md",
+      "changed": true,
+      "converted_refs": 70
+    },
+    {
+      "path": "staging/validated/OT/EZR_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/EZR_footnotes.md",
+      "changed": true,
+      "converted_refs": 31
+    },
+    {
+      "path": "staging/validated/OT/GEN_articles.md",
+      "changed": true,
+      "converted_refs": 33
+    },
+    {
+      "path": "staging/validated/OT/GEN_footnotes.md",
+      "changed": true,
+      "converted_refs": 134
+    },
+    {
+      "path": "staging/validated/OT/HAB_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/HAB_footnotes.md",
+      "changed": true,
+      "converted_refs": 19
+    },
+    {
+      "path": "staging/validated/OT/HAG_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/HAG_footnotes.md",
+      "changed": true,
+      "converted_refs": 4
+    },
+    {
+      "path": "staging/validated/OT/HOS_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/HOS_footnotes.md",
+      "changed": true,
+      "converted_refs": 14
+    },
+    {
+      "path": "staging/validated/OT/ISA_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/ISA_footnotes.md",
+      "changed": true,
+      "converted_refs": 88
+    },
+    {
+      "path": "staging/validated/OT/JDG_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/JDG_footnotes.md",
+      "changed": true,
+      "converted_refs": 40
+    },
+    {
+      "path": "staging/validated/OT/JDT_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/JDT_footnotes.md",
+      "changed": true,
+      "converted_refs": 41
+    },
+    {
+      "path": "staging/validated/OT/JER_articles.md",
+      "changed": true,
+      "converted_refs": 24
+    },
+    {
+      "path": "staging/validated/OT/JER_footnotes.md",
+      "changed": true,
+      "converted_refs": 48
+    },
+    {
+      "path": "staging/validated/OT/JOB_articles.md",
+      "changed": true,
+      "converted_refs": 25
+    },
+    {
+      "path": "staging/validated/OT/JOB_footnotes.md",
+      "changed": true,
+      "converted_refs": 72
+    },
+    {
+      "path": "staging/validated/OT/JOL_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/JOL_footnotes.md",
+      "changed": true,
+      "converted_refs": 17
+    },
+    {
+      "path": "staging/validated/OT/JON_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/JON_footnotes.md",
+      "changed": true,
+      "converted_refs": 14
+    },
+    {
+      "path": "staging/validated/OT/JOS_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/JOS_footnotes.md",
+      "changed": true,
+      "converted_refs": 51
+    },
+    {
+      "path": "staging/validated/OT/LAM_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/LAM_footnotes.md",
+      "changed": true,
+      "converted_refs": 6
+    },
+    {
+      "path": "staging/validated/OT/LEV_articles.md",
+      "changed": true,
+      "converted_refs": 17
+    },
+    {
+      "path": "staging/validated/OT/LEV_footnotes.md",
+      "changed": true,
+      "converted_refs": 117
+    },
+    {
+      "path": "staging/validated/OT/LJE_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/LJE_footnotes.md",
+      "changed": true,
+      "converted_refs": 5
+    },
+    {
+      "path": "staging/validated/OT/MAL_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/MAL_footnotes.md",
+      "changed": true,
+      "converted_refs": 16
+    },
+    {
+      "path": "staging/validated/OT/MIC_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/MIC_footnotes.md",
+      "changed": true,
+      "converted_refs": 10
+    },
+    {
+      "path": "staging/validated/OT/NAH_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/NAH_footnotes.md",
+      "changed": true,
+      "converted_refs": 8
+    },
+    {
+      "path": "staging/validated/OT/NEH_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/NEH_footnotes.md",
+      "changed": true,
+      "converted_refs": 19
+    },
+    {
+      "path": "staging/validated/OT/NUM_articles.md",
+      "changed": true,
+      "converted_refs": 23
+    },
+    {
+      "path": "staging/validated/OT/NUM_footnotes.md",
+      "changed": true,
+      "converted_refs": 95
+    },
+    {
+      "path": "staging/validated/OT/OBA_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/OBA_footnotes.md",
+      "changed": true,
+      "converted_refs": 4
+    },
+    {
+      "path": "staging/validated/OT/PRO_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/PRO_footnotes.md",
+      "changed": true,
+      "converted_refs": 36
+    },
+    {
+      "path": "staging/validated/OT/PSA_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/PSA_footnotes.md",
+      "changed": true,
+      "converted_refs": 143
+    },
+    {
+      "path": "staging/validated/OT/RUT_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/RUT_footnotes.md",
+      "changed": true,
+      "converted_refs": 15
+    },
+    {
+      "path": "staging/validated/OT/SIR_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/SIR_footnotes.md",
+      "changed": true,
+      "converted_refs": 109
+    },
+    {
+      "path": "staging/validated/OT/SNG_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/SNG_footnotes.md",
+      "changed": true,
+      "converted_refs": 84
+    },
+    {
+      "path": "staging/validated/OT/TOB_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/TOB_footnotes.md",
+      "changed": true,
+      "converted_refs": 23
+    },
+    {
+      "path": "staging/validated/OT/WIS_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/WIS_footnotes.md",
+      "changed": true,
+      "converted_refs": 75
+    },
+    {
+      "path": "staging/validated/OT/ZEC_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/ZEC_footnotes.md",
+      "changed": true,
+      "converted_refs": 34
+    },
+    {
+      "path": "staging/validated/OT/ZEP_articles.md",
+      "changed": false,
+      "converted_refs": 0
+    },
+    {
+      "path": "staging/validated/OT/ZEP_footnotes.md",
+      "changed": false,
+      "converted_refs": 0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.21:6",
+  "canon_uri": "canon/NT/MAT.md#MAT.21:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 2141,
+      "raw_match": "[[MAT.21:1]]-11",
+      "reference_type": "wikilink_range",
+      "context": "The Triumphal Entry into Jerusalem: See [[MAT.21:1]]-11 and accompanying notes."
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 598,
+      "raw_match": "[[MAT.21:1]]-9",
+      "reference_type": "wikilink_range",
+      "context": ", 10 The Triumphant Entry of Christ into Jerusalem is foretold here (see [[MAT.21:1]]-9; Mk"
+    }
+  ]
+}

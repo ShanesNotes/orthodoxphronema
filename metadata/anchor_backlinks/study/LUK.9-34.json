@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.9:34",
+  "canon_uri": "canon/NT/LUK.md#LUK.9:34",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 287,
+      "raw_match": "[[LUK.9:28]]-36",
+      "reference_type": "wikilink_range",
+      "context": "17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36)."
+    },
+    {
+      "source_file": "staging/validated/OT/NAH_footnotes.md",
+      "line_number": 53,
+      "raw_match": "[[LUK.9:34]]",
+      "reference_type": "wikilink",
+      "context": "Transfiguration ([[LUK.9:34]]); and He Himself says He will come again in a cloud ([[LUK.21:27]])."
+    }
+  ]
+}

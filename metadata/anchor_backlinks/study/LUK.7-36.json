@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.7:36",
+  "canon_uri": "canon/NT/LUK.md#LUK.7:36",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 639,
+      "raw_match": "[[LUK.7:36]]-38",
+      "reference_type": "wikilink_range",
+      "context": "others ([[JOH.11:35]]), the state of the world ([[LUK.19:41]]), and their own sins ([[LUK.7:36]]-38). All of"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3597,
+      "raw_match": "[[LUK.7:36]]-38",
+      "reference_type": "wikilink_range",
+      "context": "accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say"
+    }
+  ]
+}

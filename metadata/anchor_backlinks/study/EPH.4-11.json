@@ -1,0 +1,37 @@
+{
+  "anchor_id": "EPH.4:11",
+  "canon_uri": "canon/NT/EPH.md#EPH.4:11",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1CO_footnotes.md",
+      "line_number": 1099,
+      "raw_match": "[[EPH.4:7]]-12",
+      "reference_type": "wikilink_range",
+      "context": "This list of nine gifts is not exhaustive (see 14:1-5; [[ROM.12:6]]-8; [[EPH.4:7]]-12)."
+    },
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1171,
+      "raw_match": "[[EPH.4:11]]",
+      "reference_type": "wikilink",
+      "context": "prophecy (see [[1CO.12:29]]; 14:3, 29; [[EPH.4:11]])."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3181,
+      "raw_match": "[[EPH.4:11]]",
+      "reference_type": "wikilink",
+      "context": "[[ACT.13:1]]; [[1CO.12:28]]; [[EPH.4:11]]; and [[2TI.1:11]]. Father is used in [[LUK.16:24]]; [[1CO.4:15]]; and Col"
+    },
+    {
+      "source_file": "staging/validated/OT/2CH_footnotes.md",
+      "line_number": 185,
+      "raw_match": "[[EPH.4:11]]",
+      "reference_type": "wikilink",
+      "context": "importance (see [[EPH.4:11]]). Without it, the people will not know the true God. 15:7"
+    }
+  ]
+}

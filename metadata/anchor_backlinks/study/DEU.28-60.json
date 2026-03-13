@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.28:60",
+  "canon_uri": "canon/OT/DEU.md#DEU.28:60",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/LAM_footnotes.md",
+      "line_number": 54,
+      "raw_match": "[[DEU.28:15]]-68",
+      "reference_type": "wikilink_range",
+      "context": "disobedience was issued and recorded in [[DEU.28:15]]-68."
+    }
+  ]
+}

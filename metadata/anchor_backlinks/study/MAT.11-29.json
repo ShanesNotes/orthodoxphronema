@@ -1,0 +1,37 @@
+{
+  "anchor_id": "MAT.11:29",
+  "canon_uri": "canon/NT/MAT.md#MAT.11:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 150,
+      "raw_match": "[[MAT.11:28]]-30",
+      "reference_type": "wikilink_range",
+      "context": "rest for your souls. For My yoke is easy and My burden is light\" ([[MAT.11:28]]-30). Therefore, the Lord Jesus is salvation. 4:2"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 87,
+      "raw_match": "[[MAT.11:28]]-30",
+      "reference_type": "wikilink_range",
+      "context": "in Himself ([[MAT.11:28]]-30)."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1667,
+      "raw_match": "[[MAT.11:28]]-30",
+      "reference_type": "wikilink_range",
+      "context": "that of the soul. The Lord offers us this kind of rest ([[MAT.11:28]]-30). What then is our part"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1777,
+      "raw_match": "[[MAT.11:27]]-30",
+      "reference_type": "wikilink_range",
+      "context": "[[MAT.11:27]]-30; Heb 3; 4). For those who hear this invitation (hear His voice, v. 7) but"
+    }
+  ]
+}

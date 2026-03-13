@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.2:22",
+  "canon_uri": "canon/NT/LUK.md#LUK.2:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1474,
+      "raw_match": "[[LUK.2:22]]-35",
+      "reference_type": "wikilink_range",
+      "context": "Simeon ([[LUK.2:22]]-35), who was \"waiting for the Consolation of Israel,\" and the prophetess"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 125,
+      "raw_match": "[[LUK.2:22]]-24",
+      "reference_type": "wikilink_range",
+      "context": "of purification after His birth ([[LUK.2:22]]-24)."
+    }
+  ]
+}

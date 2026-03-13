@@ -1,0 +1,30 @@
+{
+  "anchor_id": "LUK.24:13",
+  "canon_uri": "canon/NT/LUK.md#LUK.24:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 323,
+      "raw_match": "[[LUK.24:13]]",
+      "reference_type": "wikilink",
+      "context": "common literary device for a writer not to give his own name (see [[LUK.24:13]])."
+    },
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 2987,
+      "raw_match": "[[LUK.24:13]]",
+      "reference_type": "wikilink",
+      "context": "[[LUK.24:13]], [[LUK.24:18]])."
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 633,
+      "raw_match": "[[LUK.24:13]]",
+      "reference_type": "wikilink",
+      "context": "his own name (see [[LUK.24:13]]; [[JOH.21:24]]). The other evangelists do not report this incident."
+    }
+  ]
+}

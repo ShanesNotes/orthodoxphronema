@@ -1,0 +1,23 @@
+{
+  "anchor_id": "PSA.87:7",
+  "canon_uri": "canon/OT/PSA.md#PSA.87:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2741,
+      "raw_match": "[[PSA.87:7]]",
+      "reference_type": "wikilink",
+      "context": "The bottomless pit (abyss) is the great nether regions ([[PSA.87:7]]) where the"
+    },
+    {
+      "source_file": "staging/validated/OT/JON_footnotes.md",
+      "line_number": 104,
+      "raw_match": "[[PSA.87:7]]",
+      "reference_type": "wikilink",
+      "context": "into the sea was to sink down into Hades. See [[PSA.87:7]], [[PSA.87:8]]. 2:3-10"
+    }
+  ]
+}

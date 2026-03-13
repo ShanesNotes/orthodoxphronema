@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.4:28",
+  "canon_uri": "canon/NT/LUK.md#LUK.4:28",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1887,
+      "raw_match": "[[LUK.4:28]]-30",
+      "reference_type": "wikilink_range",
+      "context": "17, 18), His accusers cannot arrest Him until He is ready (7:30; 8:20; see [[LUK.4:28]]-30)."
+    }
+  ]
+}

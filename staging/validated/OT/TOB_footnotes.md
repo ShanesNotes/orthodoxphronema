@@ -20,7 +20,7 @@ Tobit means "the Lord is good."
 
 Thisbe is in modern-day Lebanon (ancient Phoenicia), north of the Sea of Galilee. Naphtali (v. 1) was led captive to Assyria under the predecessor of Shalmaneser
 
-(4Kg 15:29). 
+([[2KI.15:29]]). 
 
 ### 1:3
 *(anchor: TOB.1:3)*
@@ -34,7 +34,7 @@ modern-day northern Iraq. Nineveh was the capital city of Assyria.
 
 Tobit reminds us to be faithful to the Lord even when it is inconvenient. The
 
-everlasting ordinance (v. 6) is recorded in Dt 12:11-14. 
+everlasting ordinance (v. 6) is recorded in [[DEU.12:11]]-14. 
 
 ### 1:9
 *(anchor: TOB.1:9)*
@@ -45,7 +45,7 @@ Anna means "grace."
 ### 1:10-11
 *(anchor: TOB.1:10)*
 
-The bread of the Gentiles is described in Dt 14:3-21 as unclean food for the
+The bread of the Gentiles is described in [[DEU.14:3]]-21 as unclean food for the
 
 people of God. 
 
@@ -57,7 +57,7 @@ Media was an area south of the Caspian Sea, part of modern-day Iran.
 ### 1:17
 *(anchor: TOB.1:17)*
 
-Not to bury the dead was seen as a curse, the ultimate in disrespect (4Kg 9:10; Jer
+Not to bury the dead was seen as a curse, the ultimate in disrespect ([[2KI.9:10]]; Jer
 
 
 ### 8:2
@@ -73,15 +73,15 @@ The Jewish Feast of Pentecost (lit. "fifty") comes seven weeks or fifty days aft
 
 Passover. These events are fulfilled (1) in the death, burial, and Resurrection of "Christ
 
-our Passover" (1Co 5:7) and (2) at the descent of the Holy Spirit at Pentecost. 2:6
+our Passover" ([[1CO.5:7]]) and (2) at the descent of the Holy Spirit at Pentecost. 2:6
 
-See Amos 8:10. 2:11
+See [[AMO.8:10]]. 2:11
 
 Some scholars speculate Anna was a weaver. 2:14
 
 Anna reproaches Tobit, suggesting his acts of charity and his righteous deeds
 
-have failed him. This is similar to the rebuke by Job's wife (Job 2:9). 3:2
+have failed him. This is similar to the rebuke by Job's wife ([[JOB.2:9]]). 3:2
 
 Having had his own works judged (2:14), Tobit confesses it is the Lord who is
 
@@ -91,7 +91,7 @@ In his pain, Tobit asks that he might die and enter into the eternal place. 3:7 
 
 Asmodeus means "the destroyer." Jesus said of Satan, "The thief does not come
 
-except to steal, and to kill, and to destroy" (Jn 10:10). 3:11
+except to steal, and to kill, and to destroy" ([[JOH.10:10]]). 3:11
 
 Blessed are You, O Lord: These are the opening words of numerous Jewish and
 
@@ -113,7 +113,7 @@ means to give of oneself above and beyond what is due (see also 4:16). 4:12
 
 In Jewish tradition, to take a foreign woman as a wife was seen as an offense to
 
-God (Ezra 10:2). 4:20
+God ([[EZR.10:2]]). 4:20
 
 Tobias is sent by his father to Gabael in Rages (near modern-day Teheran, Iran) to
 
@@ -135,7 +135,7 @@ cast out a demon (v. 8). Gall is bile used as a medicine; it would later bring a
 
 Tobit's eight years of blindness (11:11-14). 6:13
 
-According to the rule of Moses is likely a reference to Nm 36:8 (though there is
+According to the rule of Moses is likely a reference to [[NUM.36:8]] (though there is
 
 no mention there of a death penalty), in which it is stated that a daughter with an
 
@@ -145,7 +145,7 @@ night. He knows his death, as the only child, would bring grief and sorrow to hi
 
 parents. 6:16-18 The angel appeals both to (1) the words of Tobit to take a wife from their tribe
 
-(Naphtali) and (2) to the merciful God who will cause the demon to flee (see Jam 4:7). 7:3-6 Though Raguel and Edna knew of Tobit, it appears they did not know of Tobias. 7:10-13 Raguel is honest about the fate of Sarah's seven previous husbands, but blesses
+(Naphtali) and (2) to the merciful God who will cause the demon to flee (see [[JAS.4:7]]). 7:3-6 Though Raguel and Edna knew of Tobit, it appears they did not know of Tobias. 7:10-13 Raguel is honest about the fate of Sarah's seven previous husbands, but blesses
 
 Tobias to receive her. 8:2-4
 
@@ -153,12 +153,12 @@ The demon is exorcized both by the incense and by prayers to the Lord. The
 
 psalmist connects these two actions when he writes, "Let my prayer be set forth before
 
-You as incense" (Ps 140:2). 
+You as incense" ([[PSA.140:2]]). 
 
 ### 8:6
 *(anchor: TOB.8:6)*
 
-See Gn 2:18. 
+See [[GEN.2:18]]. 
 
 ### 8:7
 *(anchor: TOB.8:7)*
@@ -196,7 +196,7 @@ Tobias entrusts Raphael to find Gabael and bring him and the silver to the
 
 wedding feast. Likewise, at the end of the ages, the hosts of heaven will call the faithful
 
-to "the marriage supper of the Lamb" (Rev 19:9). 
+to "the marriage supper of the Lamb" ([[REV.19:9]]). 
 
 ### 10:1-7
 *(anchor: TOB.10:1)*
@@ -284,14 +284,14 @@ sent by God to bring healing. "Angel" means "messenger."
 
 Raphael reveals himself to Tobit and Tobias as one of seven holy angels who
 
-appear before the glory of the Holy One (see Rev 1:4). These seven are also called
+appear before the glory of the Holy One (see [[REV.1:4]]). These seven are also called
 
-archangels. The names of four of them are revealed: Raphael, Gabriel (Dan 9:21; Lk 1:19, 26-38), Michael (Dan 10:21; Jude 9) and Uriel (2 Esdras 4:1). 
+archangels. The names of four of them are revealed: Raphael, Gabriel ([[DAN.9:21]]; [[LUK.1:19]], [[LUK.1:26]]-38), Michael ([[DAN.10:21]]; Jude 9) and Uriel (2 Esdras 4:1). 
 
 ### 12:20
 *(anchor: TOB.12:20)*
 
-Raphael is ascending to God to appear "before His throne" (Rev 1:4). 
+Raphael is ascending to God to appear "before His throne" ([[REV.1:4]]). 
 
 ### 13:1
 *(anchor: TOB.13:1)*
@@ -327,26 +327,26 @@ The author of Tobit understands that one day many Gentiles will come to the
 
 King of heaven and that generations of generations of them will worship in what
 
-will be called the One Holy Church (see Jn 1:12). 
+will be called the One Holy Church (see [[JOH.1:12]]). 
 
 ### 13:17-18
 *(anchor: TOB.13:17)*
 
-This passage also has in view the New Jerusalem (see Rev 21:1-3, 10, 11). 
+This passage also has in view the New Jerusalem (see [[REV.21:1]]-3, 10, 11). 
 
 ### 14:4
 *(anchor: TOB.14:4)*
 
 Scholars agree that Nineveh was overthrown in 612 BC. Jonah warned of the fall
 
-(Jon 3:3, 4) and Nahum, in his book, records it. 
+([[JON.3:3]], [[JON.3:4]]) and Nahum, in his book, records it. 
 
 ### 14:5
 *(anchor: TOB.14:5)*
 
 The temple will be rebuilt, but not as it was before. The second temple, not as
 
-glorious, was completed in approximately 515 BC (see Hag 1:1-15). 
+glorious, was completed in approximately 515 BC (see [[HAG.1:1]]-15). 
 
 ### 14:10
 *(anchor: TOB.14:10)*

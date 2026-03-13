@@ -1,0 +1,51 @@
+{
+  "anchor_id": "MAT.2:16",
+  "canon_uri": "canon/NT/MAT.md#MAT.2:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 579,
+      "raw_match": "[[MAT.2:16]]",
+      "reference_type": "wikilink",
+      "context": "to kill Christ by destroying all the infants in Bethlehem ([[MAT.2:16]]). As Moses was"
+    },
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1203,
+      "raw_match": "[[MAT.2:16]]",
+      "reference_type": "wikilink",
+      "context": "infant ([[MAT.2:16]]). Herod Agrippa ruled as king in Palestine under Rome in AD 41-44. The"
+    },
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1283,
+      "raw_match": "[[MAT.2:16]]",
+      "reference_type": "wikilink",
+      "context": "infants in Bethlehem ([[MAT.2:16]]). Manaen was one of the early Christians with noble"
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1301,
+      "raw_match": "[[MAT.2:16]]",
+      "reference_type": "wikilink",
+      "context": "is the son of the Herod who slew the innocent infants in Bethlehem ([[MAT.2:16]]). The"
+    },
+    {
+      "source_file": "staging/validated/OT/2MA_footnotes.md",
+      "line_number": 259,
+      "raw_match": "[[MAT.2:16]]-18",
+      "reference_type": "wikilink_range",
+      "context": "the time of the birth of Jesus ([[MAT.2:16]]-18)."
+    },
+    {
+      "source_file": "staging/validated/OT/RUT_footnotes.md",
+      "line_number": 77,
+      "raw_match": "[[MAT.2:16]]-18",
+      "reference_type": "wikilink_range",
+      "context": "over the children slain by Herod ([[MAT.2:16]]-18). See 4:11."
+    }
+  ]
+}

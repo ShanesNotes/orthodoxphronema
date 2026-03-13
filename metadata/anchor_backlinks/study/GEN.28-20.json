@@ -1,0 +1,16 @@
+{
+  "anchor_id": "GEN.28:20",
+  "canon_uri": "canon/OT/GEN.md#GEN.28:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JDG_footnotes.md",
+      "line_number": 674,
+      "raw_match": "[[GEN.28:19]]-22",
+      "reference_type": "wikilink_range",
+      "context": "They traveled to Bethel ([[GEN.28:19]]-22) to inquire of God because the ark of the"
+    }
+  ]
+}

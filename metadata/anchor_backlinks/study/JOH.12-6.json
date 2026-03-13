@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JOH.12:6",
+  "canon_uri": "canon/NT/JOH.md#JOH.12:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3597,
+      "raw_match": "[[JOH.12:1]]-8",
+      "reference_type": "wikilink_range",
+      "context": "accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3611,
+      "raw_match": "[[JOH.12:4]]-6",
+      "reference_type": "wikilink_range",
+      "context": "motive. This is revealed in [[JOH.12:4]]-6, where Judas was particularly upset about the"
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 565,
+      "raw_match": "[[JOH.12:4]]-6",
+      "reference_type": "wikilink_range",
+      "context": "This is revealed in [[JOH.12:4]]-6, where Judas was particularly upset about the \"waste\" of"
+    }
+  ]
+}

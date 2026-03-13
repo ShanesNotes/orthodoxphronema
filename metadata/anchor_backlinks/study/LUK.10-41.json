@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.10:41",
+  "canon_uri": "canon/NT/LUK.md#LUK.10:41",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1969,
+      "raw_match": "[[LUK.10:38]]-42",
+      "reference_type": "wikilink_range",
+      "context": "Not unlike the incident of [[LUK.10:38]]-42, the two sisters react differently to Christ's"
+    }
+  ]
+}

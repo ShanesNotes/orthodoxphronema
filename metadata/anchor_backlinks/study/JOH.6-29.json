@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.6:29",
+  "canon_uri": "canon/NT/JOH.md#JOH.6:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1033,
+      "raw_match": "[[JOH.6:27]]-58",
+      "reference_type": "wikilink_range",
+      "context": "physical health, but for the spiritual bread of eternal life ([[JOH.6:27]]-58)."
+    }
+  ]
+}

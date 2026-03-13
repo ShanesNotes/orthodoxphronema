@@ -1,0 +1,16 @@
+{
+  "anchor_id": "GEN.48:14",
+  "canon_uri": "canon/OT/GEN.md#GEN.48:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 1023,
+      "raw_match": "[[GEN.48:14]]",
+      "reference_type": "wikilink",
+      "context": "47:31) and when he blessed Joseph's sons with his hands crossed ([[GEN.48:14]])."
+    }
+  ]
+}

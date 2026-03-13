@@ -1,0 +1,16 @@
+{
+  "anchor_id": "1PE.2:3",
+  "canon_uri": "canon/NT/1PE.md#1PE.2:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 553,
+      "raw_match": "[[1PE.2:3]]",
+      "reference_type": "wikilink",
+      "context": "the heavenly gift (see [[1PE.2:3]]) may refer to the grace of baptism--Chrysostom says this"
+    }
+  ]
+}

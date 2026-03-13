@@ -1,0 +1,30 @@
+{
+  "anchor_id": "1CO.9:27",
+  "canon_uri": "canon/NT/1CO.md#1CO.9:27",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 265,
+      "raw_match": "[[1CO.9:24]]-27",
+      "reference_type": "wikilink_range",
+      "context": "Paul is no stranger to physical exercise and its benefits (see [[1CO.9:24]]-27), but he"
+    },
+    {
+      "source_file": "staging/validated/NT/2TI_footnotes.md",
+      "line_number": 237,
+      "raw_match": "[[1CO.9:24]]-27",
+      "reference_type": "wikilink_range",
+      "context": "to an athletic contest (see [[1CO.9:24]]-27) is common in the writings of the ascetic Fathers."
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 418,
+      "raw_match": "[[1CO.9:24]]-27",
+      "reference_type": "wikilink_range",
+      "context": "4:10). St. Paul promises crowns to believers who endure ([[1CO.9:24]]-27)."
+    }
+  ]
+}

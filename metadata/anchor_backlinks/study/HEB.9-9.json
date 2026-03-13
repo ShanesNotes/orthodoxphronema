@@ -1,0 +1,23 @@
+{
+  "anchor_id": "HEB.9:9",
+  "canon_uri": "canon/NT/HEB.md#HEB.9:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 997,
+      "raw_match": "[[HEB.9:9]]",
+      "reference_type": "wikilink",
+      "context": "covenant offering could not make the conscience of the worshiper perfect ([[HEB.9:8]], [[HEB.9:9]]), though it did cleanse from all sin. But our Great High Priest, Jesus Christ, entered the heavenly holy of holies, where He"
+    },
+    {
+      "source_file": "staging/validated/OT/NUM_footnotes.md",
+      "line_number": 193,
+      "raw_match": "[[HEB.9:9]]",
+      "reference_type": "wikilink",
+      "context": "things in the heavens should be purified with these.\" [[HEB.9:9]]: \"It was symbolic for the"
+    }
+  ]
+}

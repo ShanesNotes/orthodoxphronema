@@ -1,0 +1,23 @@
+{
+  "anchor_id": "2CO.9:7",
+  "canon_uri": "canon/NT/2CO.md#2CO.9:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 1583,
+      "raw_match": "[[2CO.9:7]]",
+      "reference_type": "wikilink",
+      "context": "offerings exceed the needs. God loves this kind of giving ([[2CO.9:7]])."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1303,
+      "raw_match": "[[2CO.9:7]]",
+      "reference_type": "wikilink",
+      "context": "St. Paul writes, \"God loves a cheerful giver\" ([[2CO.9:7]]). The tithe is the giving of ten"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ROM.6:23",
+  "canon_uri": "canon/NT/ROM.md#ROM.6:23",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1419,
+      "raw_match": "[[ROM.6:23]]",
+      "reference_type": "wikilink",
+      "context": "Law--that the wages of sin is death ([[GEN.2:17]]; [[ROM.6:23]])--without neglecting its greater"
+    },
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 289,
+      "raw_match": "[[ROM.6:23]]",
+      "reference_type": "wikilink",
+      "context": "Under the Law, death is the just sentence for all mankind ([[ROM.6:23]]); however, seventy thousand, a number suggesting completion, indicates hope that the Law will be"
+    }
+  ]
+}

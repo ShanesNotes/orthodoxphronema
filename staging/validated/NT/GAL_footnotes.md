@@ -24,9 +24,9 @@ from this present evil age (v. 4) to enter the age to come. (4) This deliverance
 
 accomplished according to the will of our God (v. 4), the Son in His human nature
 
-cooperating with the divine will (Jn 5:30; 6:38). The Father's will is done by Jesus, and
+cooperating with the divine will ([[JOH.5:30]]; 6:38). The Father's will is done by Jesus, and
 
-then by us, "on earth as it is in heaven" (Mt 6:10).
+then by us, "on earth as it is in heaven" ([[MAT.6:10]]).
 
 
 ### 1:6-10
@@ -48,9 +48,9 @@ Church (v. 8); and (5) is intended to please men (v. 10), not God.
 
 Paul's warning about we, or an angel from heaven is not hypothetical. Angels can
 
-and have delivered the gospel to us: they announced Christ's conception (Lk 1:26-38),
+and have delivered the gospel to us: they announced Christ's conception ([[LUK.1:26]]-38),
 
-birth (Lk 2:9-15), Resurrection (Mt 28:5-7), and Ascension (Acts 1:9-11). But angelic
+birth ([[LUK.2:9]]-15), Resurrection ([[MAT.28:5]]-7), and Ascension ([[ACT.1:9]]-11). But angelic
 
 messages are not necessarily true; they may come from fallen angels, who are accursed.
 
@@ -66,7 +66,7 @@ apostles. How can we know true apostles from false?
 
 from the risen Son, as did the original apostles (1:11, 12), or by the revelation of apostolic
 
-tradition (2Ti 2:2). They are called by grace, not according to works or a "proper"
+tradition ([[2TI.2:2]]). They are called by grace, not according to works or a "proper"
 
 background (1:13-17). A true apostle brings glory to God, not to himself (1:18-23).
 
@@ -86,7 +86,7 @@ Apostolic tradition is grounded in divine revelation from Jesus Christ. Just as
 
 the Twelve were called by Christ, so was Paul (v. 1). Just as the Twelve received the gospel
 
-directly from Christ, so did Paul (Acts 9:3-6; 26:13-18). Just as the Twelve stood together
+directly from Christ, so did Paul ([[ACT.9:3]]-6; 26:13-18). Just as the Twelve stood together
 
 as one, so Paul entered their unity in consensus and mutual submission.
 
@@ -98,11 +98,11 @@ People are called by God not according to former conduct (v. 13)--good or bad--
 
 but by God's grace (v. 15). Paul, whom God called in mercy, received grace from Ananias'
 
-hands and the waters of baptism (Acts 9:10-19). Separated me from my mother's
+hands and the waters of baptism ([[ACT.9:10]]-19). Separated me from my mother's
 
 womb (v. 15) refers not to Paul's physical birth but to God's calling Paul to apostolic
 
-ministry before he was born (see Ps 138:15, 16; Is 49:1; Jer 1:5; Lk 1:35, 43, 44, 48). As
+ministry before he was born (see [[PSA.138:15]], [[PSA.138:16]]; Is 49:1; [[JER.1:5]]; [[LUK.1:35]], [[LUK.1:43]], [[LUK.1:44]], [[LUK.1:48]]). As
 
 with Paul, God's intentions for a person may lie hidden for years.
 
@@ -204,7 +204,7 @@ apostles are united in preaching the same gospel.
 
 Apostles are also united in caring for the poor, which in this case probably refers to
 
-the Jerusalem church (see Acts 11:27-30).
+the Jerusalem church (see [[ACT.11:27]]-30).
 
 
 ### 2:11
@@ -226,7 +226,7 @@ Jerusalem was Jewish, but to impose that culture on Gentiles was hypocrisy (v. 1
 
 to mistake culture--any culture--for the gospel is even worse. God had already shown
 
-that Jewish dietary laws were obsolete (Acts 10:11-16), for the law is fulfilled in Christ.
+that Jewish dietary laws were obsolete ([[ACT.10:11]]-16), for the law is fulfilled in Christ.
 
 
 ### 2:14-21
@@ -290,9 +290,9 @@ through our death with Christ. Being crucified with Christ through baptism, we c
 
 alive to the law of the Spirit, which perfects the intention of the OT law. There is no
 
-contradiction between law and gospel. The law is "holy and just and good" (Rom 7:12).
+contradiction between law and gospel. The law is "holy and just and good" ([[ROM.7:12]]).
 
-However, the law is "weak" (Rom 8:3) and "obsolete" (Heb 8:13), for it is fulfilled in the
+However, the law is "weak" ([[ROM.8:3]]) and "obsolete" ([[HEB.8:13]]), for it is fulfilled in the
 
 gospel, in Christ Himself.
 
@@ -330,7 +330,7 @@ Set aside the grace of God is what Peter and Barnabas had done (vv. 12, 13). The
 
 faith of Christ is not opposed to the works of the law, but it is opposed to using works to
 
-justify oneself before God. As Moses himself looked ahead to Christ (Heb 11:26), so the
+justify oneself before God. As Moses himself looked ahead to Christ ([[HEB.11:26]]), so the
 
 law is a shadow, an icon, pointing toward Christ Himself, who brings us life.
 
@@ -370,7 +370,7 @@ With believing Abraham (v. 9) is literally "in the faith of Abraham," that which
 
 believed and did. This shows that Jesus' words, "If you were Abraham's children, you
 
-would do the works of Abraham" (Jn 8:39), underscore the fact that separating faith from
+would do the works of Abraham" ([[JOH.8:39]]), underscore the fact that separating faith from
 
 works is impossible. To justify (v. 8) means to make righteous and so to be righteous.
 
@@ -450,7 +450,7 @@ savior, but a tutor (v. 24) to convict Israel of transgressions and to lead her 
 ### 3:20
 *(anchor: GAL.3:20)*
 
-For Christ to be the mediator between God and man (see also 1Ti 2:5), He had to
+For Christ to be the mediator between God and man (see also [[1TI.2:5]]), He had to
 
 be both God and man. God is one is a reference to the one divine nature and does not
 
@@ -506,7 +506,7 @@ rule of a taskmaster, in this case, the law.
 
 The elements of the world are the philosophies and traditions developed by
 
-humanity without regard to God (Col 2:8).
+humanity without regard to God ([[COL.2:8]]).
 
 
 ### 4:4-5
@@ -674,13 +674,13 @@ continuing bondage to sin (v. 1); (5) dependence on the "flesh," corrupt human n
 
 (6) alienation from Christ and from grace (v. 4), which Christ calls "labor" and being
 
-"heavy laden" (Mt 11:28).
+"heavy laden" ([[MAT.11:28]]).
 
 By contrast, Christ's yoke is life in the Spirit, which includes: (1) the regeneration of
 
 baptism (3:27), the renewal of the entire human nature in Christ, the circumcision of the
 
-heart; (2) obedience to Christ and growth in perfection (Mt 5:48); (3) being justified by
+heart; (2) obedience to Christ and growth in perfection ([[MAT.5:48]]); (3) being justified by
 
 grace, God's righteousness which becomes ours; (4) freedom or liberty (v. 1) from the
 
@@ -688,7 +688,7 @@ power of sin; (5) dependence upon the Spirit (v. 5) and access to the perfect an
 
 glorified human nature of Christ; (6) union with Christ and the grace of God. Christ calls
 
-this yoke "rest," for it is "easy" and "light" (Mt 11:30).
+this yoke "rest," for it is "easy" and "light" ([[MAT.11:30]]).
 
 
 ### 5:5
@@ -762,7 +762,7 @@ caregiving in the Church, and not to be needless burdens to others.
 ### 6:6
 *(anchor: GAL.6:6)*
 
-See Nm 31:47; 35:1-8; 1Co 9:14. The teacher and the taught form a bond, and the
+See [[NUM.31:47]]; 35:1-8; [[1CO.9:14]]. The teacher and the taught form a bond, and the
 
 sharing here is in material blessings.
 

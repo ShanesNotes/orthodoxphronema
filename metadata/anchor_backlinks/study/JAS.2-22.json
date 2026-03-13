@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JAS.2:22",
+  "canon_uri": "canon/NT/JAS.md#JAS.2:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 657,
+      "raw_match": "[[JAS.2:14]]-24",
+      "reference_type": "wikilink_range",
+      "context": "this\" (JohnChr). See also [[JAS.2:14]]-24."
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1138,
+      "raw_match": "[[JAS.2:22]]-23",
+      "reference_type": "wikilink_range",
+      "context": "made Abraham righteous and a friend of God ([[JAS.2:22]]-23)."
+    }
+  ]
+}

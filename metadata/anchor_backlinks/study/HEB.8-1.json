@@ -1,0 +1,37 @@
+{
+  "anchor_id": "HEB.8:1",
+  "canon_uri": "canon/NT/HEB.md#HEB.8:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 103,
+      "raw_match": "[[HEB.8:1]]",
+      "reference_type": "wikilink",
+      "context": "Christ, the \"High Priest\" ([[HEB.8:1]]). 6:16-33"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 268,
+      "raw_match": "[[HEB.8:1]]-6",
+      "reference_type": "wikilink_range",
+      "context": "presents it before God continually ([[HEB.8:1]]-6; 9:11-13). No one can get closer to God"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 223,
+      "raw_match": "[[HEB.8:1]]",
+      "reference_type": "wikilink",
+      "context": "indicates His royal favor ([[PSA.15:11]]; 16:7; [[HEB.8:1]])."
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 280,
+      "raw_match": "[[HEB.8:1]]",
+      "reference_type": "wikilink",
+      "context": "after which the earthly tabernacle and temple were patterned (see [[HEB.8:1]], [[HEB.8:2]]). 9:15"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "GAL.4:1",
+  "canon_uri": "canon/NT/GAL.md#GAL.4:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 27,
+      "raw_match": "[[GAL.4:1]]-5",
+      "reference_type": "wikilink_range",
+      "context": "Christ--had been completed ([[GAL.4:1]]-5). Once Christ came, the time of preparation was"
+    }
+  ]
+}

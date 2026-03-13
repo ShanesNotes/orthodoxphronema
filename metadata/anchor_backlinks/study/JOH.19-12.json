@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.19:12",
+  "canon_uri": "canon/NT/JOH.md#JOH.19:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 679,
+      "raw_match": "[[JOH.19:7]]-12",
+      "reference_type": "wikilink_range",
+      "context": "treason (see note at [[JOH.19:7]]-12)."
+    },
+    {
+      "source_file": "staging/validated/OT/EZR_footnotes.md",
+      "line_number": 136,
+      "raw_match": "[[JOH.19:12]]",
+      "reference_type": "wikilink",
+      "context": "Christ Himself ([[JOH.19:12]])."
+    }
+  ]
+}

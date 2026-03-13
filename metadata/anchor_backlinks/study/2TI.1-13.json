@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2TI.1:13",
+  "canon_uri": "canon/NT/2TI.md#2TI.1:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 815,
+      "raw_match": "[[2TI.1:13]]",
+      "reference_type": "wikilink",
+      "context": "form of doctrine refers to the apostolic teachings of the Church (see [[2TI.1:13]])."
+    }
+  ]
+}

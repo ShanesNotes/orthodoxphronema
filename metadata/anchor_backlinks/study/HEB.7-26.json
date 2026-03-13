@@ -1,0 +1,44 @@
+{
+  "anchor_id": "HEB.7:26",
+  "canon_uri": "canon/NT/HEB.md#HEB.7:26",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 154,
+      "raw_match": "[[HEB.7:26]]-28",
+      "reference_type": "wikilink_range",
+      "context": "5:8). Christ was without sin ([[JOH.8:46]]; [[HEB.7:26]]-28), and we are to cleanse ourselves from"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 550,
+      "raw_match": "[[HEB.7:26]]",
+      "reference_type": "wikilink",
+      "context": "The unleavened bread speaks of Christ as our sinless sacrifice ([[HEB.7:26]]). But since"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 499,
+      "raw_match": "[[HEB.7:26]]",
+      "reference_type": "wikilink",
+      "context": "([[HEB.7:26]]), He intercedes on behalf of His churches, so they, too, will be innocent"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 765,
+      "raw_match": "[[HEB.7:26]]",
+      "reference_type": "wikilink",
+      "context": "with me. And although He was \"separate from sinners\" ([[HEB.7:26]]) and \"knew no sin\""
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 833,
+      "raw_match": "[[HEB.7:26]]",
+      "reference_type": "wikilink",
+      "context": "part, although He Himself is sinless (innocence, v. 13; see also [[HEB.7:25]], [[HEB.7:26]])."
+    }
+  ]
+}

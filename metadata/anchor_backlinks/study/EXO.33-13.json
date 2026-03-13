@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.33:13",
+  "canon_uri": "canon/OT/EXO.md#EXO.33:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 1430,
+      "raw_match": "[[EXO.33:12]]-17",
+      "reference_type": "wikilink_range",
+      "context": "[[EXO.33:3]], [[EXO.33:12]]-17: My Angel is the Son of the Father, and He sent Him to lead Israel to"
+    }
+  ]
+}

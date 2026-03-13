@@ -1,0 +1,23 @@
+{
+  "anchor_id": "GEN.9:25",
+  "canon_uri": "canon/OT/GEN.md#GEN.9:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 43,
+      "raw_match": "[[GEN.9:24]]-27",
+      "reference_type": "wikilink_range",
+      "context": "Christ, Shem, Noah's youngest, is first because of his humility (see [[GEN.9:24]]-27); and"
+    },
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 315,
+      "raw_match": "[[GEN.9:25]]",
+      "reference_type": "wikilink",
+      "context": "in [[GEN.9:25]], \"Cursed be Canaan; / A servant of servants shall he be to his brothers\""
+    }
+  ]
+}

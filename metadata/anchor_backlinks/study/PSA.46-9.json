@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.46:9",
+  "canon_uri": "canon/OT/PSA.md#PSA.46:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 815,
+      "raw_match": "[[PSA.46:9]]",
+      "reference_type": "wikilink",
+      "context": "lordship (3Kg 22:19; [[PSA.46:9]]; Is 6:1; [[EZK.1:25]]-27; [[DAN.7:9]]; [[MAT.5:34]]; 23:22; see also 1En"
+    }
+  ]
+}

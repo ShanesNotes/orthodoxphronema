@@ -1,0 +1,16 @@
+{
+  "anchor_id": "HEB.9:28",
+  "canon_uri": "canon/NT/HEB.md#HEB.9:28",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 542,
+      "raw_match": "[[HEB.9:28]]",
+      "reference_type": "wikilink",
+      "context": "also offered by the Father ([[HEB.9:28]]) and by the Holy Spirit ([[HEB.9:14]]). Therefore, although Christ alone was the sacrifice, the Holy Trinity was involved in the"
+    }
+  ]
+}

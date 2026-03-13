@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.9:17",
+  "canon_uri": "canon/NT/MAT.md#MAT.9:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 937,
+      "raw_match": "[[MAT.9:14]]-17",
+      "reference_type": "wikilink_range",
+      "context": "His followers will practice the fast (see notes on [[MAT.9:14]]-17; [[MRK.2:20]])."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1483,
+      "raw_match": "[[MAT.9:17]]",
+      "reference_type": "wikilink",
+      "context": "Baptism ([[MAT.9:16]], [[MAT.9:17]]; [[1CO.12:13]]). And Israel's deliverance from Egypt (vv. 1-11) is a type"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "HAB.3:4",
+  "canon_uri": "canon/OT/HAB.md#HAB.3:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 61,
+      "raw_match": "[[HAB.3:4]]",
+      "reference_type": "wikilink",
+      "context": "prophets ([[PSA.35:10]]; 103:2; Is 9:1; 10:17; [[HAB.3:4]]), is especially revealed in Christ's birth"
+    }
+  ]
+}

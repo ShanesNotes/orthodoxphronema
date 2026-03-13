@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ACT.17:30",
+  "canon_uri": "canon/NT/ACT.md#ACT.17:30",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 199,
+      "raw_match": "[[ACT.17:30]]",
+      "reference_type": "wikilink",
+      "context": "found in Christ Jesus for true life [see [[ACT.17:30]]; [[1TH.1:10]]]. Nothing should seem fitting"
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 1307,
+      "raw_match": "[[ACT.17:30]]",
+      "reference_type": "wikilink",
+      "context": "unrighteousness because it was practiced in ignorance ([[ACT.17:30]]). By contrast, the Jews"
+    }
+  ]
+}

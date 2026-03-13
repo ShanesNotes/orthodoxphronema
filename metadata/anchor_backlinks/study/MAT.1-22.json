@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.1:22",
+  "canon_uri": "canon/NT/MAT.md#MAT.1:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2KI_footnotes.md",
+      "line_number": 390,
+      "raw_match": "[[MAT.1:22]]",
+      "reference_type": "wikilink",
+      "context": "His Incarnation ([[MAT.1:22]], [[MAT.1:23]]). 18:13-19"
+    }
+  ]
+}

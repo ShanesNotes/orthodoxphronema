@@ -1,0 +1,23 @@
+{
+  "anchor_id": "REV.1:8",
+  "canon_uri": "canon/NT/REV.md#REV.1:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 936,
+      "raw_match": "[[REV.1:8]]",
+      "reference_type": "wikilink",
+      "context": "Beginning and the End\" ([[REV.1:8]])."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 83,
+      "raw_match": "[[REV.1:8]]",
+      "reference_type": "wikilink",
+      "context": "and the End\" ([[REV.1:8]]). He exhorts people not to be slow of heart, and not to love vain"
+    }
+  ]
+}

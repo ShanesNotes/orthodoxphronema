@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JDG.2:9",
+  "canon_uri": "canon/OT/JDG.md#JDG.2:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JDG_footnotes.md",
+      "line_number": 17,
+      "raw_match": "[[JDG.2:7]]-9",
+      "reference_type": "wikilink_range",
+      "context": "Once Joshua died (recorded both in [[JOS.24:30]]-32 and [[JDG.2:7]]-9), the question"
+    }
+  ]
+}

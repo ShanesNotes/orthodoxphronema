@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.9:26",
+  "canon_uri": "canon/NT/LUK.md#LUK.9:26",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2TI_footnotes.md",
+      "line_number": 29,
+      "raw_match": "[[LUK.9:26]]",
+      "reference_type": "wikilink",
+      "context": "and courage (2:12; see [[MAT.10:33]]; [[LUK.9:26]])."
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 111,
+      "raw_match": "[[LUK.9:26]]",
+      "reference_type": "wikilink",
+      "context": "believers (see [[LUK.9:26]])."
+    }
+  ]
+}

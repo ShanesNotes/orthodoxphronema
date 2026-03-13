@@ -1,0 +1,23 @@
+{
+  "anchor_id": "EPH.5:19",
+  "canon_uri": "canon/NT/EPH.md#EPH.5:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 245,
+      "raw_match": "[[EPH.5:19]]",
+      "reference_type": "wikilink",
+      "context": "things\" ([[EPH.5:19]], [[EPH.5:20]]). Christ's eternal sacrifice fulfills the burnt offerings; and David's"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 201,
+      "raw_match": "[[EPH.5:18]]-21",
+      "reference_type": "wikilink_range",
+      "context": "The house of wine is the Church filled with the Holy Spirit ([[EPH.5:18]]-21). The Bride"
+    }
+  ]
+}

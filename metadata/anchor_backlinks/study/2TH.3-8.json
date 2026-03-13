@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2TH.3:8",
+  "canon_uri": "canon/NT/2TH.md#2TH.3:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1942,
+      "raw_match": "[[2TH.3:6]]-12",
+      "reference_type": "wikilink_range",
+      "context": "Jacob's sons were lazy, and lazy people are unruly ([[2TH.3:6]]-12). Such people lack"
+    }
+  ]
+}

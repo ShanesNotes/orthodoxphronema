@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JAS.1:3",
+  "canon_uri": "canon/NT/JAS.md#JAS.1:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 101,
+      "raw_match": "[[JAS.1:1]]-12",
+      "reference_type": "wikilink_range",
+      "context": "of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12)."
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 307,
+      "raw_match": "[[JAS.1:2]]-4",
+      "reference_type": "wikilink_range",
+      "context": "The answer is, \"To test their faith\" (see [[JAS.1:2]]-4), for such testing produces patience in"
+    }
+  ]
+}

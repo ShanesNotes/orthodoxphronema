@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.22:22",
+  "canon_uri": "canon/OT/DEU.md#DEU.22:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/HOS_footnotes.md",
+      "line_number": 76,
+      "raw_match": "[[DEU.22:22]]",
+      "reference_type": "wikilink",
+      "context": "adulteress ([[EZK.16:39]], [[EZK.16:40]]; Lv 20:10; [[DEU.22:22]]). Perhaps this means Israel would"
+    }
+  ]
+}

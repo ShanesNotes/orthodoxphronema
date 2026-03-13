@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.12:8",
+  "canon_uri": "canon/OT/DEU.md#DEU.12:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 683,
+      "raw_match": "[[DEU.12:8]]",
+      "reference_type": "wikilink",
+      "context": "Lawlessness is any form of rebellion against the duly constituted authority over us. God calls it \"every man doing whatever is right in his own eyes\" ([[DEU.12:8]])."
+    }
+  ]
+}

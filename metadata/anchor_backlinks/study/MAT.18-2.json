@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.18:2",
+  "canon_uri": "canon/NT/MAT.md#MAT.18:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 2353,
+      "raw_match": "[[MAT.18:1]]-4",
+      "reference_type": "wikilink_range",
+      "context": "humble and dependent on God (see notes at [[MAT.18:1]]-4, 6)."
+    }
+  ]
+}

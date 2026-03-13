@@ -12,7 +12,7 @@ status: staging
 ### 1:1
 *(anchor: 3JN.1:1)*
 
-This is probably not the same Gaius mentioned in Rom 16:23 and 1Co 1:14, 15.
+This is probably not the same Gaius mentioned in [[ROM.16:23]] and [[1CO.1:14]], [[1CO.1:15]].
 
 
 ### 1:3-4
@@ -42,7 +42,7 @@ Lord Jesus Christ.
 
 One way we may participate in ministry is by giving material help to those with
 
-spiritual gifts. The donor becomes a coworker in spiritual things (see Mt 10:41).
+spiritual gifts. The donor becomes a coworker in spiritual things (see [[MAT.10:41]]).
 
 1:9, 10
 

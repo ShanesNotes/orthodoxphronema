@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.17:29",
+  "canon_uri": "canon/NT/LUK.md#LUK.17:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/3MA_footnotes.md",
+      "line_number": 135,
+      "raw_match": "[[LUK.17:29]]",
+      "reference_type": "wikilink",
+      "context": "Sodom: See [[GEN.13:13]]; [[DEU.29:23]]; WSol 10:6-8; 2Ez 2:8; [[LUK.17:29]]; [[2PE.2:6]]; [[JUD.1:7]]."
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1038,
+      "raw_match": "[[LUK.17:28]]-33",
+      "reference_type": "wikilink_range",
+      "context": "In [[LUK.17:28]]-33, the Lord commanded us to remember Lot's wife, for she lost her"
+    }
+  ]
+}

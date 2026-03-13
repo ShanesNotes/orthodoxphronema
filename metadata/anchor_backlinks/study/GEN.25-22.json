@@ -1,0 +1,16 @@
+{
+  "anchor_id": "GEN.25:22",
+  "canon_uri": "canon/OT/GEN.md#GEN.25:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/OBA_footnotes.md",
+      "line_number": 19,
+      "raw_match": "[[GEN.25:19]]-26",
+      "reference_type": "wikilink_range",
+      "context": "Edom, descendants of Jacob's elder twin, Esau (see [[GEN.25:19]]-26), often stood in conflict"
+    }
+  ]
+}

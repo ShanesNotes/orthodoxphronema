@@ -1,0 +1,37 @@
+{
+  "anchor_id": "MAT.5:17",
+  "canon_uri": "canon/NT/MAT.md#MAT.5:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 315,
+      "raw_match": "[[MAT.5:17]]-19",
+      "reference_type": "wikilink_range",
+      "context": "certainly does not prohibit ([[MAT.5:17]]-19; 23:23). At issue is setting human tradition"
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 401,
+      "raw_match": "[[MAT.5:17]]",
+      "reference_type": "wikilink",
+      "context": "([[MAT.5:17]])."
+    },
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 309,
+      "raw_match": "[[MAT.5:17]]",
+      "reference_type": "wikilink",
+      "context": "fulfill it ([[MAT.5:17]]). 9:9-21 Although Joshua made a mistake by not inquiring of the Lord before he made the"
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 82,
+      "raw_match": "[[MAT.5:17]]",
+      "reference_type": "wikilink",
+      "context": "of God. The message of the prophets is fulfilled by Jesus Christ ([[MAT.5:17]])."
+    }
+  ]
+}

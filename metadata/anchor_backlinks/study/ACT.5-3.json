@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ACT.5:3",
+  "canon_uri": "canon/NT/ACT.md#ACT.5:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2789,
+      "raw_match": "[[ACT.5:3]]",
+      "reference_type": "wikilink",
+      "context": "29; [[LUK.10:17]], [[LUK.10:18]]; [[JOH.12:31]], [[JOH.12:32]]; [[COL.2:15]]). He is not totally inactive ([[ACT.5:3]]; [[1CO.5:5]]; Eph"
+    }
+  ]
+}

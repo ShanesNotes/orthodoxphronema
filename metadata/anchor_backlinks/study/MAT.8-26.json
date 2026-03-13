@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.8:26",
+  "canon_uri": "canon/NT/MAT.md#MAT.8:26",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JOB_footnotes.md",
+      "line_number": 699,
+      "raw_match": "[[MAT.8:23]]-27",
+      "reference_type": "wikilink_range",
+      "context": "His disciples when he calmed the storm ([[MAT.8:23]]-27). \"He has created man to be weak, and yet man thinks himself to be strong; and thereby he becomes even more feeble\""
+    },
+    {
+      "source_file": "staging/validated/OT/JON_footnotes.md",
+      "line_number": 51,
+      "raw_match": "[[MAT.8:24]]-26",
+      "reference_type": "wikilink_range",
+      "context": "and note at [[MAT.8:24]]-26)."
+    }
+  ]
+}

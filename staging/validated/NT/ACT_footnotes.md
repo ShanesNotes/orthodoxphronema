@@ -14,7 +14,7 @@ status: staging
 
 During the Last Supper, Jesus promised to teach His disciples through the Holy
 
-Spirit (Jn 16:13). After His Resurrection, His promise is fulfilled.
+Spirit ([[JOH.16:13]]). After His Resurrection, His promise is fulfilled.
 
 
 ### 1:3
@@ -28,7 +28,7 @@ Forty is a number indicating completion or fulfillment.
 
 The Promise of the Father is the gift of the Holy Spirit (v. 5), which the Jews had
 
-been expecting to accompany the messianic age (see Joel 3:1).
+been expecting to accompany the messianic age (see [[JOL.3:1]]).
 
 
 ### 1:6
@@ -58,7 +58,7 @@ already living under His reign while awaiting His return. Thus, the icon shows C
 
 being taken up (v. 11), coming again in like manner (v. 11), and yet continually present
 
-(Mt 28:20). Believers are not to stand idly gazing up into heaven, but rather are called
+([[MAT.28:20]]). Believers are not to stand idly gazing up into heaven, but rather are called
 
 to virtuous faith and action in this world until Christ's return.
 
@@ -76,7 +76,7 @@ Sabbath rest--something under a mile.
 
 Because the apostles had been enlightened by Christ to understand the OT as
 
-pointing to Him and His works (Lk 24:27), Peter now sees these two prophetic psalms (v.
+pointing to Him and His works ([[LUK.24:27]]), Peter now sees these two prophetic psalms (v.
 
 20) as foretelling the fate of Judas.
 
@@ -84,7 +84,7 @@ pointing to Him and His works (Lk 24:27), Peter now sees these two prophetic psa
 ### 1:18
 *(anchor: ACT.1:18)*
 
-See Mt 27:3-5. Though the accounts may seem to differ, Luke's report here is merely
+See [[MAT.27:3]]-5. Though the accounts may seem to differ, Luke's report here is merely
 
 a more detailed account of Judas' end. This should also be understood in a spiritual sense,
 
@@ -110,7 +110,7 @@ who stand in their succession.
 
 Casting lots to discern the will of God has been practiced since ancient times (Jos
 
-18:6-10; Neh 11:1; Jon 1:7) and continues in various places in the Church to this day. This
+18:6-10; [[NEH.11:1]]; [[JON.1:7]]) and continues in various places in the Church to this day. This
 
 should not be misunderstood as surrendering all authority to random chance. The
 
@@ -140,7 +140,7 @@ The Holy Spirit coming in the appearance of divided tongues, as of fire fulfills
 
 prophecy of John the Baptist that Christ would "baptize you with the Holy Spirit and fire"
 
-(Lk 3:16). This fire is a manifestation of the uncreated energy of God. Because God is
+([[LUK.3:16]]). This fire is a manifestation of the uncreated energy of God. Because God is
 
 wholly uncreated, His power or energy is also uncreated.
 
@@ -148,9 +148,9 @@ wholly uncreated, His power or energy is also uncreated.
 ### 2:4-8
 *(anchor: ACT.2:4)*
 
-This is a fulfillment of the prophecy of Joel 3:1 and a divine reversal or
+This is a fulfillment of the prophecy of [[JOL.3:1]] and a divine reversal or
 
-recapitulation of the events at the Tower of Babel (Gn 11:1-9). In the account of Babel,
+recapitulation of the events at the Tower of Babel ([[GEN.11:1]]-9). In the account of Babel,
 
 pride was shown to possess the awesome power to divide; here, the humble reception of
 
@@ -250,7 +250,7 @@ reminds us that all things belong to God and are for the benefit of all mankind.
 
 At the hour of prayer, the ninth hour: The apostles were observing regular Jewish
 
-hours of prayer, just as believers had done for centuries (Ps 54:18; Dan 6:11). The practice
+hours of prayer, just as believers had done for centuries ([[PSA.54:18]]; [[DAN.6:11]]). The practice
 
 of praying at the first (6:00 a.m.), third (9:00 a.m.), sixth (12:00 noon), and ninth (3:00
 
@@ -344,7 +344,7 @@ hardness of the human heart where there is no repentance.
 ### 4:19
 *(anchor: ACT.4:19)*
 
-While God commands our obedience to governing authorities (Lk 20:25; Rom 13:1-
+While God commands our obedience to governing authorities ([[LUK.20:25]]; [[ROM.13:1]]-
 
 7), obedience to God comes first. When the two are in conflict, the believer must follow
 
@@ -400,9 +400,9 @@ Christ's Cross is often referred to as a tree, both because it is made of wood a
 
 because trees were often used to crucify criminals. There is also a deeper meaning in this
 
-term, for just as a living tree brought death to mankind through Adam (Gn 2:17), now a
+term, for just as a living tree brought death to mankind through Adam ([[GEN.2:17]]), now a
 
-dead tree brings life to mankind through Jesus. See also Dt 21:23; Gal 3:13.
+dead tree brings life to mankind through Jesus. See also [[DEU.21:23]]; [[GAL.3:13]].
 
 
 ### 5:34
@@ -424,13 +424,13 @@ the Jewish historian Josephus.
 ### 5:41
 *(anchor: ACT.5:41)*
 
-Rejoicing: See Lk 6:22, 23. Suffering is not necessarily a sign of God's displeasure,
+Rejoicing: See [[LUK.6:22]], [[LUK.6:23]]. Suffering is not necessarily a sign of God's displeasure,
 
-as thought by many Jews (see Lk 13:1-4; Jn 9:1-3). Rather, Christians accept persecution
+as thought by many Jews (see [[LUK.13:1]]-4; [[JOH.9:1]]-3). Rather, Christians accept persecution
 
 joyfully, knowing that the rewards of the Kingdom far outweigh any sufferings on earth.
 
-See also Rom 5:3-5.
+See also [[ROM.5:3]]-5.
 
 
 ### 6:1
@@ -514,7 +514,7 @@ because of rebellion.
 
 This charge is brought against Stephen because in Christ, the liturgy and Law of the
 
-OT are fulfilled, and are thus changed and transformed (Heb 7:12). To those who do not
+OT are fulfilled, and are thus changed and transformed ([[HEB.7:12]]). To those who do not
 
 believe in Christ, these changes are blasphemous.
 
@@ -524,11 +524,11 @@ believe in Christ, these changes are blasphemous.
 
 The charge that Jesus would destroy the temple was leveled against Him at His trial
 
-(Mt 26:61) by false witnesses. This was a misinterpretation of two of His sayings: (1)
+([[MAT.26:61]]) by false witnesses. This was a misinterpretation of two of His sayings: (1)
 
-"Destroy this temple, and in three days I will raise it up" (Jn 2:19)--referring to His own
+"Destroy this temple, and in three days I will raise it up" ([[JOH.2:19]])--referring to His own
 
-body; and (2) His prophecy of the destruction of the temple (Lk 21:6, 20). This prophecy
+body; and (2) His prophecy of the destruction of the temple ([[LUK.21:6]], [[LUK.21:20]]). This prophecy
 
 was fulfilled in AD 70, when the Romans destroyed the temple as punishment for a
 
@@ -540,9 +540,9 @@ Jewish rebellion.
 
 Those who become one with Christ receive this divine radiance revealed in Stephen's
 
-face. This is a preview of the glory all believers will share in the age to come (2Co 3:18).
+face. This is a preview of the glory all believers will share in the age to come ([[2CO.3:18]]).
 
-See also Ex 34:29-35.
+See also [[EXO.34:29]]-35.
 
 
 ### 7:1
@@ -574,9 +574,9 @@ and as being a true descendant of Abraham.
 ### 7:19
 *(anchor: ACT.7:19)*
 
-Pharaoh's order to destroy the Hebrew babies (Ex 1:22) prefigured Herod's attempt
+Pharaoh's order to destroy the Hebrew babies ([[EXO.1:22]]) prefigured Herod's attempt
 
-to kill Christ by destroying all the infants in Bethlehem (Mt 2:16). As Moses was
+to kill Christ by destroying all the infants in Bethlehem ([[MAT.2:16]]). As Moses was
 
 preserved from death in order to deliver Israel from bondage, so also Christ was
 
@@ -654,7 +654,7 @@ of Tarsus (see 9:1-22).
 ### 7:59-60
 *(anchor: ACT.7:59)*
 
-In imitation of his Savior (Lk 23:34), Stephen offers his soul to God and prays for
+In imitation of his Savior ([[LUK.23:34]]), Stephen offers his soul to God and prays for
 
 the forgiveness of his enemies.
 
@@ -682,7 +682,7 @@ Christ, bringing both teachings and healings. The eager reception by the people 
 
 due in part to the foundation laid by St. Photini, the Samaritan woman of Jn 4, who
 
-brought news of the Messiah before His crucifixion (see Jn 4:39).
+brought news of the Messiah before His crucifixion (see [[JOH.4:39]]).
 
 
 ### 8:9
@@ -728,7 +728,7 @@ speaks of baptism in the Holy Spirit and sometimes of baptism in Christ to empha
 
 certain points. Always "we are baptized in the name of the Father, the Son, and the Holy
 
-Spirit" (BasilG; see Mt 28:19). Specific reference to baptism in Jesus Christ was not
+Spirit" (BasilG; see [[MAT.28:19]]). Specific reference to baptism in Jesus Christ was not
 
 intended to neglect the Trinity, but to distinguish Christian baptism from John's baptism
 
@@ -766,7 +766,7 @@ Spirit (JohnChr). Those of lesser faith are prompted more directly by words and 
 ### 8:30-31
 *(anchor: ACT.8:30)*
 
-Because the Scriptures have a specific, God-given meaning (2Pt 1:20, 21), it is
+Because the Scriptures have a specific, God-given meaning ([[2PE.1:20]], [[2PE.1:21]]), it is
 
 impossible to truly understand them apart from the Church, for apostolic interpretation
 
@@ -818,7 +818,7 @@ observance of outward religious practices, but a whole way of life.
 
 To persecute either Christians individually or the Church generally is to persecute
 
-Christ Himself, for they cannot be separated (see Mt 25:40; Eph 5:23, 30).
+Christ Himself, for they cannot be separated (see [[MAT.25:40]]; [[EPH.5:23]], [[EPH.5:30]]).
 
 
 ### 9:5
@@ -826,7 +826,7 @@ Christ Himself, for they cannot be separated (see Mt 25:40; Eph 5:23, 30).
 
 Goads are spikes used to prod farm animals. The term is sometimes used as a
 
-metaphor for the wisdom or promptings of God (Ecc 12:11, "pointed sticks"). Here Christ
+metaphor for the wisdom or promptings of God ([[ECC.12:11]], "pointed sticks"). Here Christ
 
 is declaring the futility of fighting against divine truth.
 
@@ -834,7 +834,7 @@ is declaring the futility of fighting against divine truth.
 ### 9:8
 *(anchor: ACT.9:8)*
 
-Saul's blindness illustrates Christ's teachings on spiritual blindness (Jn 9:39). As long
+Saul's blindness illustrates Christ's teachings on spiritual blindness ([[JOH.9:39]]). As long
 
 as Saul saw things from his own perspective, he was spiritually blind. Only by having his
 
@@ -924,7 +924,7 @@ Lydda is about 25 miles northwest of Jerusalem.
 
 Peter brings Christ's healing to a paralytic in a manner similar to Jesus healing the
 
-paralytic in Jn 5:1-15. The healing power of Jesus the Christ continues in His Church
+paralytic in [[JOH.5:1]]-15. The healing power of Jesus the Christ continues in His Church
 
 to this day.
 
@@ -946,7 +946,7 @@ repentance.
 
 Peter's raising of Tabitha from the dead parallels Christ's raising of the synagogue
 
-ruler's daughter (Mt 9:22-25).
+ruler's daughter ([[MAT.9:22]]-25).
 
 
 ### 10:1
@@ -992,7 +992,7 @@ practice continues in the Orthodox Church today (see 3:1 and note).
 
 Cornelius's obedience to God shows the true state of his heart, for it is those who not
 
-only hear but also do the will of God that are the true believers (Mt 7:21; Rom 2:13; Jam
+only hear but also do the will of God that are the true believers ([[MAT.7:21]]; [[ROM.2:13]]; Jam
 
 1:22).
 
@@ -1004,7 +1004,7 @@ Peter's resistance shows the difficulty with which the Jews let go of the Law.
 
 God's commandment here is first a declaration that the Old Covenant dietary laws are
 
-fulfilled and thus no longer in effect (see Mk 7:19). More importantly, this vision revealed
+fulfilled and thus no longer in effect (see [[MRK.7:19]]). More importantly, this vision revealed
 
 that the Gentiles, who were considered unclean by the Jews, are cleansed by the blood
 
@@ -1042,7 +1042,7 @@ addition to faith, two conditions are given here: God accepts whoever fears Him 
 
 works righteousness. This does not deny justification by faith, but demonstrates
 
-clearly that justification is not by faith alone (Jam 2:24).
+clearly that justification is not by faith alone ([[JAS.2:24]]).
 
 
 ### 10:38
@@ -1088,7 +1088,7 @@ Those of the circumcision were Jewish Christians who insisted that circumcision
 
 and the rest of the OT Law must continue to be observed even by Christians in order to
 
-receive salvation (see 15:1; Gal 2:12). These Jewish Christians also advocated separation
+receive salvation (see 15:1; [[GAL.2:12]]). These Jewish Christians also advocated separation
 
 from Gentiles.
 
@@ -1168,7 +1168,7 @@ the first time that men were accounted worthy of that name" (JohnChr).
 
 These prophets are Christian believers within the Church who have the gift of
 
-prophecy (see 1Co 12:29; 14:3, 29; Eph 4:11).
+prophecy (see [[1CO.12:29]]; 14:3, 29; [[EPH.4:11]]).
 
 
 ### 11:28-29
@@ -1200,7 +1200,7 @@ presbyters or priests.
 
 Herod Agrippa is the grandson of Herod the Great, who tried to kill Jesus as an
 
-infant (Mt 2:16). Herod Agrippa ruled as king in Palestine under Rome in AD 41-44. The
+infant ([[MAT.2:16]]). Herod Agrippa ruled as king in Palestine under Rome in AD 41-44. The
 
 dates of his reign determine the period in which James was killed (v. 2) and Peter was
 
@@ -1242,7 +1242,7 @@ John whose surname was Mark is St. Mark the Evangelist, who would compose
 
 the Gospel of Mark. He would later become a coworker with Paul and Barnabas (v. 25;
 
-Col 4:10) and still later with Peter (1Pt 5:13).
+[[COL.4:10]]) and still later with Peter ([[1PE.5:13]]).
 
 
 ### 12:15
@@ -1260,7 +1260,7 @@ each person is assigned one. To this day in the Liturgy of the Orthodox Church, 
 
 .)
 
-12:17 This James is the "brother" of the Lord (Gal 1:19; see also note at Mt 12:46-50), not
+12:17 This James is the "brother" of the Lord ([[GAL.1:19]]; see also note at [[MAT.12:46]]-50), not
 
 the apostle of the twelve, for that James had already been martyred (v. 2). By this time,
 
@@ -1280,7 +1280,7 @@ The enemies of God cannot stop the spread of the word of God.
 
 Manaen was raised with Herod Antipas (39-4 BC), the Herod who slaughtered the
 
-infants in Bethlehem (Mt 2:16). Manaen was one of the early Christians with noble
+infants in Bethlehem ([[MAT.2:16]]). Manaen was one of the early Christians with noble
 
 family connections.
 
@@ -1308,7 +1308,7 @@ Laid hands on them is a reference to the sacrament of ordination (see note at
 
 person to a specific rank at a given liturgy, here was a case of multiple ordinations. Note
 
-that even Saul (Paul), who had a direct call to serve from Jesus Christ (9:1-6; 2Co 12:1-
+that even Saul (Paul), who had a direct call to serve from Jesus Christ (9:1-6; [[2CO.12:1]]-
 
 4), still had to experience ordination in the Church.
 
@@ -1328,7 +1328,7 @@ Roman. Paul may have begun to favor his Roman name out of humility (Paul means
 
 John Chrysostom suggests that the name change was the result of ordination (vv. 2, 3),
 
-just as Christ gave Simon the new name Peter (Mt 16:17, 18; Jn 1:42).
+just as Christ gave Simon the new name Peter ([[MAT.16:17]], [[MAT.16:18]]; [[JOH.1:42]]).
 
 13:11-12 The hand of the Lord acts not to inflict punishment for punishment's sake, but
 
@@ -1368,7 +1368,7 @@ Paul consistently presses the point that if the OT is properly understood, it is
 
 Jesus is the Messiah. Even the Jewish leaders' rejection of Jesus fulfilled these
 
-prophecies (Ps 2:1, 2; 118:22, 23; Is 53:1-9).
+prophecies ([[PSA.2:1]], [[PSA.2:2]]; 118:22, 23; Is 53:1-9).
 
 13:38-39 In addition to Christ's death and Resurrection, two recurring themes in apostolic
 
@@ -1380,7 +1380,7 @@ of Moses (v. 39).
 
 Barnabas now turn to the Gentiles. This pattern continues throughout Acts: the gospel
 
-is preached first to the Jews, God's chosen people, then to the Gentiles (Rom 1:16).
+is preached first to the Jews, God's chosen people, then to the Gentiles ([[ROM.1:16]]).
 
 14:1
 
@@ -1402,7 +1402,7 @@ verb apeitheo, meaning "to disobey."
 
 14:4
 
-See Mt 10:34-36.
+See [[MAT.10:34]]-36.
 
 14:5
 
@@ -1454,7 +1454,7 @@ cheirotoneo) means "to ordain by the laying on of hands."
 
 15:1
 
-See 11:2; Gal 2:12.
+See 11:2; [[GAL.2:12]].
 
 15:2
 
@@ -1542,7 +1542,7 @@ be plagued with disagreements concerning details and can even separate physicall
 
 without falling from communion with one another. This particular dispute was eventually
 
-resolved, and John Mark later rejoined Paul (see 2Ti 4:11).
+resolved, and John Mark later rejoined Paul (see [[2TI.4:11]]).
 
 16:1
 
@@ -1560,7 +1560,7 @@ accommodate Jewish sensibilities. In the case of Titus, a Gentile, Paul refuses 
 
 on dogmatic principles, reaffirming that believers do not receive salvation through the
 
-Law (Gal 2:3).
+Law ([[GAL.2:3]]).
 
 16:4
 
@@ -1620,7 +1620,7 @@ through this slave girl, nevertheless, she needed to be free to accept Christ on
 
 and Paul could not endure to see her tormented any longer. Furthermore, impure praise
 
-from God's enemies is not acceptable (WSir 15:9; see note at Lk 4:41).
+from God's enemies is not acceptable (WSir 15:9; see note at [[LUK.4:41]]).
 
 16:20
 
@@ -1632,7 +1632,7 @@ the Jews to retaliate for their financial loss.
 
 Being persecuted unjustly for Christ leads Paul and Silas to joy rather than sorrow
 
-(Lk 6:22, 23). Their praying and singing hymns prepares the other prisoners for
+([[LUK.6:22]], [[LUK.6:23]]). Their praying and singing hymns prepares the other prisoners for
 
 conversion later than night.
 
@@ -1674,7 +1674,7 @@ cosmopolitan, possessing an excellent harbor and superior commerce. With the flo
 
 goods, communication, and people to and from the city, word of what was happening
 
-there spread quickly, and the church there became highly influential (1Th 1:8).
+there spread quickly, and the church there became highly influential ([[1TH.1:8]]).
 
 17:2-3
 
@@ -1762,7 +1762,7 @@ and unworthy of salvation.
 
 Shaking out his garments was a sign of God's judgment. Quoting the OT (2Kg 1:16;
 
-Ezk 18:13), Paul declares the fulfillment of his responsibility and these Jews' own
+[[EZK.18:13]]), Paul declares the fulfillment of his responsibility and these Jews' own
 
 accountability for their rejection of the gospel message.
 
@@ -1778,7 +1778,7 @@ first visit to Corinth.
 ### 18:18
 *(anchor: ACT.18:18)*
 
-The vow Paul makes is likely a form of the Nazirite vow (Nm 6:1-21) given in
+The vow Paul makes is likely a form of the Nazirite vow ([[NUM.6:1]]-21) given in
 
 thanksgiving for deliverance from danger.
 
@@ -1788,7 +1788,7 @@ thanksgiving for deliverance from danger.
 
 God willing underscores Paul's constant reliance on God and the continual
 
-submission of his own plans to God's (see Jam 4:13-17). The coming feast was either
+submission of his own plans to God's (see [[JAS.4:13]]-17). The coming feast was either
 
 Passover, which became the Christian celebration of Christ's Resurrection, or Pentecost,
 
@@ -1866,9 +1866,9 @@ touched by people of great faith. That God works wonders both through His saints
 
 through created objects shows that creation itself is being renewed. (For other examples
 
-of objects bestowing grace, see 5:15; Nm 21:8, 9; 4Kg 13:20, 21; Mk 6:12, 13; Lk 8:41-48;
+of objects bestowing grace, see 5:15; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:20]], [[2KI.13:21]]; [[MRK.6:12]], [[MRK.6:13]]; [[LUK.8:41]]-48;
 
-Jn 9:6, 7.)
+[[JOH.9:6]], [[JOH.9:7]].)
 
 
 ### 19:26
@@ -1902,7 +1902,7 @@ heaven (see v. 35).
 
 Gaius, from Asia Minor (20:4) is perhaps the same person mentioned in Rom
 
-16:23 and 1Co 1:14. Aristarchus is a Thessalonian (20:4; Col 4:10).
+16:23 and [[1CO.1:14]]. Aristarchus is a Thessalonian (20:4; [[COL.4:10]]).
 
 
 ### 19:33-34
@@ -1968,7 +1968,7 @@ Paul preach the gospel.
 ### 20:10
 *(anchor: ACT.20:10)*
 
-See 4Kg 4:34.
+See [[2KI.4:34]].
 
 
 ### 20:16
@@ -2004,7 +2004,7 @@ Paul reminds his hearers of the tears and trials he faced in Ephesus in order to
 
 strengthen them for what is to come. Paul's persecutions in Ephesus (Asia Minor) were
 
-among the worst he faced (1Co 15:32; 2Co 1:8).
+among the worst he faced ([[1CO.15:32]]; [[2CO.1:8]]).
 
 
 ### 20:26
@@ -2042,13 +2042,13 @@ sustained and thrives.
 
 While St. Paul teaches the clergy should be supported materially by the faithful
 
-(1Co 9:1-23), he has not required this for himself from the communities he established.
+([[1CO.9:1]]-23), he has not required this for himself from the communities he established.
 
 This allowed Paul to preach all the more freely and took away any opportunity for others
 
-to question his motives (compare with Neh 5:14-19; 13:10-13). The quotation from
+to question his motives (compare with [[NEH.5:14]]-19; 13:10-13). The quotation from
 
-Christ (v. 35) is not recorded in the four Gospels (see Jn 21:25).
+Christ (v. 35) is not recorded in the four Gospels (see [[JOH.21:25]]).
 
 
 ### 21:9
@@ -2056,11 +2056,11 @@ Christ (v. 35) is not recorded in the four Gospels (see Jn 21:25).
 
 Prophecy is the gift of the Holy Spirit to speak the will of God authoritatively. This
 
-gift is given to both men and women (see 1Co 11:4, 5), and many holy women were
+gift is given to both men and women (see [[1CO.11:4]], [[1CO.11:5]]), and many holy women were
 
-prophets, including Miriam (Ex 15:20, 21), Deborah (Jdg 4:4), Huldah (4Kg 22:14),
+prophets, including Miriam ([[EXO.15:20]], [[EXO.15:21]]), Deborah ([[JDG.4:4]]), Huldah ([[2KI.22:14]]),
 
-Isaiah's wife (Is 8:3), the Virgin Mary (Lk 1:46-55), and Anna (Lk 2:36-38).
+Isaiah's wife (Is 8:3), the Virgin Mary ([[LUK.1:46]]-55), and Anna ([[LUK.2:36]]-38).
 
 
 ### 21:10-11
@@ -2068,7 +2068,7 @@ Isaiah's wife (Is 8:3), the Virgin Mary (Lk 1:46-55), and Anna (Lk 2:36-38).
 
 This same Agabus is mentioned in 11:28. Here he prophesies in the style of the
 
-OT prophets, using an ordinary object to illustrate his message (see Is 20:2; Jer 13:1).
+OT prophets, using an ordinary object to illustrate his message (see Is 20:2; [[JER.13:1]]).
 
 
 ### 21:17-25
@@ -2108,7 +2108,7 @@ check here by the Roman commander.
 ### 21:36
 *(anchor: ACT.21:36)*
 
-Away with him was the same cry shouted against Jesus at His trial (Jn 19:15).
+Away with him was the same cry shouted against Jesus at His trial ([[JOH.19:15]]).
 
 
 ### 21:38
@@ -2320,7 +2320,7 @@ This is the only time Paul reveals that bringing alms was the main reason he cam
 
 to Jerusalem, showing that charity is to be performed without drawing attention to
 
-oneself (Mt 6:1-4; see also Rom 15:25-28; 1Co 16:1-4; Gal 2:10).
+oneself ([[MAT.6:1]]-4; see also [[ROM.15:25]]-28; [[1CO.16:1]]-4; [[GAL.2:10]]).
 
 
 ### 25:3-4
@@ -2338,7 +2338,7 @@ headquarters in Caesarea.
 ### 25:7
 *(anchor: ACT.25:7)*
 
-Compare Mk 14:56, 59.
+Compare [[MRK.14:56]], [[MRK.14:59]].
 
 
 ### 25:11
@@ -2360,7 +2360,7 @@ King Agrippa is Herod Agrippa II, ruler of Galilee. He is the son of Herod Agrip
 
 I (12:1-23), who beheaded James and imprisoned Peter, and a grandson of Herod the
 
-Great (Mt 2:1), who slaughtered the infants in Bethlehem. Bernice is Agrippa's sister.
+Great ([[MAT.2:1]]), who slaughtered the infants in Bethlehem. Bernice is Agrippa's sister.
 
 
 ### 25:18
@@ -2390,7 +2390,7 @@ him, yet there is already an appeal. As Festus would look incompetent sending a 
 
 Caesar on appeal without any charges, this hearing has to be held in order to come up
 
-with a legal accusation (compare Jn 18:29-35).
+with a legal accusation (compare [[JOH.18:29]]-35).
 
 
 ### 26:10-18
@@ -2628,6 +2628,6 @@ still the content of the preaching and teaching of the Orthodox Church. No one
 
 forbidding him: Imprisonment did not stop Paul from bearing witness to Jesus Christ,
 
-for the gospel cannot be hidden (Mt 5:14). The story of the Acts of the Apostles continues
+for the gospel cannot be hidden ([[MAT.5:14]]). The story of the Acts of the Apostles continues
 
 through their successors in the Church to this day.

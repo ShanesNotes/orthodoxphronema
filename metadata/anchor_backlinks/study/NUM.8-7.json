@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.8:7",
+  "canon_uri": "canon/OT/NUM.md#NUM.8:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/NUM_footnotes.md",
+      "line_number": 312,
+      "raw_match": "[[NUM.8:7]]",
+      "reference_type": "wikilink",
+      "context": "[[NUM.8:6]], [[NUM.8:7]], [[NUM.8:19]]: In the liturgical service of worship, the children of Israel could not"
+    }
+  ]
+}

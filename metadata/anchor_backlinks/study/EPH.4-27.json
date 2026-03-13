@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EPH.4:27",
+  "canon_uri": "canon/NT/EPH.md#EPH.4:27",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 853,
+      "raw_match": "[[EPH.4:27]]",
+      "reference_type": "wikilink",
+      "context": "allows for the spread of animosity and other evils ([[EPH.4:26]], [[EPH.4:27]])."
+    }
+  ]
+}

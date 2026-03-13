@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.12:7",
+  "canon_uri": "canon/NT/MAT.md#MAT.12:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 989,
+      "raw_match": "[[MAT.12:1]]-8",
+      "reference_type": "wikilink_range",
+      "context": "man's obedience (v. 9; see also [[MAT.12:1]]-8 and notes). As is often the case in John's"
+    },
+    {
+      "source_file": "staging/validated/OT/1SA_footnotes.md",
+      "line_number": 581,
+      "raw_match": "[[MAT.12:1]]-8",
+      "reference_type": "wikilink_range",
+      "context": "externals, yet rejected the inner mercy and compassion of the Law (see [[MAT.12:1]]-8). In"
+    }
+  ]
+}

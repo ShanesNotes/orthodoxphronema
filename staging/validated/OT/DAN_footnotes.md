@@ -272,7 +272,7 @@ own discomfort and his very life.
 
 The king's change of heart is encouragement to intercede "for kings and all who
 
-are in authority" (1Ti 2:2). 
+are in authority" ([[1TI.2:2]]). 
 
 ### 5:2
 *(anchor: DAN.5:2)*
@@ -297,7 +297,7 @@ The enemies of God historically have stopped at nothing to try to overthrow His
 
 kingdom and His servants. St. Paul calls such schemes "the wiles [strategies] of the devil"
 
-(Eph 6:11). 
+([[EPH.6:11]]). 
 
 ### 6:17-25
 *(anchor: DAN.6:17)*
@@ -356,9 +356,9 @@ fourth beast (v. 7) is seen to be the Roman Empire, which subdued the world with
 
 strength. Note that the four heavenly beasts of St. John's vision far surpass these
 
-temporary, earthly beasts (see Rev 4:6, 7 and note; see also Ezk 1:5, 21). Some of the
+temporary, earthly beasts (see [[REV.4:6]], [[REV.4:7]] and note; see also [[EZK.1:5]], [[EZK.1:21]]). Some of the
 
-Fathers say that the ten horns prophesy nations that will rise up in the last days. 7:8 Dan 7:8, 24, 25: The little horn is seen to be the antichrist, an eleventh king who shall
+Fathers say that the ten horns prophesy nations that will rise up in the last days. 7:8 [[DAN.7:8]], [[DAN.7:24]], [[DAN.7:25]]: The little horn is seen to be the antichrist, an eleventh king who shall
 
 appear suddenly in the midst of the ten horns, seizing power through magic and sorcery. He will exalt himself as God and make war on the Church (v. 11). But Christ will deliver
 
@@ -372,15 +372,15 @@ spreading the gospel. 7:9-12
 
 Daniel's vision is similar to several aspects of St. John's Revelation, including the
 
-thrones (see Rev 4:2-6 and notes), the multitude of worshipping angels and other
+thrones (see [[REV.4:2]]-6 and notes), the multitude of worshipping angels and other
 
-creatures (see Rev 5:11), and the books (v. 10; see also Rev 20:12 and note). 7:13-14
+creatures (see [[REV.5:11]]), and the books (v. 10; see also [[REV.20:12]] and note). 7:13-14
 
 Daniel's vision of the Ancient of Days is that of the Second Coming of Christ, the Son of Man, in glory. 7:25
 
 A time, times, and half a time refers to the "short time" (three and a half years) of
 
-tribulation that will befall the faithful just prior to the end of the age (see 12:7 and note; Rev 12:7-16 and notes). 8:1-27
+tribulation that will befall the faithful just prior to the end of the age (see 12:7 and note; [[REV.12:7]]-16 and notes). 8:1-27
 
 Daniel's vision occurred about 551 BC. The ram (v. 3) represents Darius and the
 
@@ -408,7 +408,7 @@ type of all those who raise themselves up against Christ. Thus, his downfall at 
 
 Second Coming symbolizes the final destruction of all evil and the realization of Christ's
 
-eternal kingdom (see 2Th 2:3-12 and note). 8:26
+eternal kingdom (see [[2TH.2:3]]-12 and note). 8:26
 
 Seal the vision: "The things, therefore, which of old were sealed, are now by the
 
@@ -438,7 +438,7 @@ truly dwells. Seventy weeks is interpreted to mean seventy weeks of years, or 49
 
 (seventy times seven years). This prophecy applies also to Jeremiah's "seventy years" (see
 
-9:2; Jer 25:11, 12; 29:10). According to Hippolytus, Daniel's vision concerned the time when the temple would be
+9:2; [[JER.25:11]], [[JER.25:12]]; 29:10). According to Hippolytus, Daniel's vision concerned the time when the temple would be
 
 rebuilt, as well as the time of the coming of the Messiah. First, the Jews would return and
 
@@ -454,7 +454,7 @@ Nebuchadnezzar's reign] that Daniel saw these things in Babylon. Hence, the fort
 
 years added to the twenty-one, make up the seventy years, of which the blessed Jeremiah
 
-spoke" (Jer 25:11). Second, Jesus the Messiah would be crucified in AD 30, about 490
+spoke" ([[JER.25:11]]). Second, Jesus the Messiah would be crucified in AD 30, about 490
 
 years (seventy weeks) after Artaxerxes commissioned Ezra to rebuild Jerusalem in 458
 
@@ -470,7 +470,7 @@ will be manifested, that is, Antichrist, announcing desolation to the world. And
 
 comes, the sacrifice and oblation will be removed, which now are offered to God in every
 
-place by the nations" (see Mt 24:15 and note). 10:1
+place by the nations" (see [[MAT.24:15]] and note). 10:1
 
 The third year of Cyrus was 533 BC. 10:2-3 Daniel's season of fasting and mourning is echoed by the faithful during the time
 
@@ -649,7 +649,7 @@ of Antichrist shall fiercely, though for a short time, assail the Church before 
 
 judgment of God shall introduce the eternal reign of the saints. For it is patent from the
 
-context that the time, times, and half a time, means a year, and two years, and half a year, that is to say, three years and a half" (Aug). See also 7:25 and note; Rev 12:7-16 and
+context that the time, times, and half a time, means a year, and two years, and half a year, that is to say, three years and a half" (Aug). See also 7:25 and note; [[REV.12:7]]-16 and
 
 notes. 
 
@@ -686,7 +686,7 @@ of clay and bronze could eat (see also v. 19). 1:10-21
 
 How could seventy priests and their families--and a king--indulge in such
 
-blatant deception? St. Peter gives the answer concerning the allure of the false teachers: "Many will follow their destructive ways" (2Pt 2:2). 1:23-24
+blatant deception? St. Peter gives the answer concerning the allure of the false teachers: "Many will follow their destructive ways" ([[2PE.2:2]]). 1:23-24
 
 In contrast to the clay and bronze statue of Bel, this idol lives, eats, and drinks! 1:26
 
@@ -696,6 +696,6 @@ The prophet Habakkuk, for whom the OT book is named, had lived a century
 
 earlier. So there would be three miracles here: (1) being carried by the hair, as Ezekiel was
 
-(Ezk 8:3); (2) being translated from one place to another, as Philip was (Acts 8:39, 40); and (3) being brought back from the dead, as Moses and Elijah were (Mt 17:3). 1:40-42
+([[EZK.8:3]]); (2) being translated from one place to another, as Philip was ([[ACT.8:39]], [[ACT.8:40]]); and (3) being brought back from the dead, as Moses and Elijah were ([[MAT.17:3]]). 1:40-42
 
 Once again, Daniel is vindicated.

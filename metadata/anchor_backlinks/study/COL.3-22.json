@@ -1,0 +1,16 @@
+{
+  "anchor_id": "COL.3:22",
+  "canon_uri": "canon/NT/COL.md#COL.3:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1649,
+      "raw_match": "[[COL.3:22]]",
+      "reference_type": "wikilink",
+      "context": "1:50; 23:40; [[ACT.10:2]]; [[COL.3:22]]; [[1PE.2:17]]), for only God has the power to judge the soul."
+    }
+  ]
+}

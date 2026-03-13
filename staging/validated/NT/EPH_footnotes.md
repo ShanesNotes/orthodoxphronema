@@ -20,7 +20,7 @@ Spiritual blessing is primarily the work of the Spirit. The heavenly places, whe
 
 risen and ascended Christ reigns, are experienced in Christ, that is, by the life that is
 
-begun when one is joined with Christ in baptism (see Rom 6:3-5).
+begun when one is joined with Christ in baptism (see [[ROM.6:3]]-5).
 
 
 ### 1:4-6
@@ -46,9 +46,9 @@ If we are in Christ, the Son of God, we are sons of God. Paul is not addressing 
 
 as such but us, the community, the Church. And he is not addressing the issue of human
 
-will in salvation but the will of God, which is that all are chosen (see Rom 11:32; 1Ti 2:4;
+will in salvation but the will of God, which is that all are chosen (see [[ROM.11:32]]; [[1TI.2:4]];
 
-2Pt 3:9). But being predestined (v. 5) by God does not nullify human will: in everything,
+[[2PE.3:9]]). But being predestined (v. 5) by God does not nullify human will: in everything,
 
 God is the originator, the initiator; we merely respond, but our response is necessary.
 
@@ -74,15 +74,15 @@ legal, nor instantaneous, but living and dynamic.
 
 1:9, 10 The mystery is the plan of salvation, the gospel, the Kingdom of God, the Church.
 
-This mystery centers on Christ Himself (Col 2:2), from the Incarnation (1Ti 3:16), to the
+This mystery centers on Christ Himself ([[COL.2:2]]), from the Incarnation ([[1TI.3:16]]), to the
 
-Cross (1Co 2:8), to the restoration and culmination of all things (v. 10). It is the fullness
+Cross ([[1CO.2:8]]), to the restoration and culmination of all things (v. 10). It is the fullness
 
 (v. 10) of all, not only for humanity but for the whole creation. Although it was
 
 announced by the prophets (Rom 16:25, 26), God revealed it through Christ, and it is
 
-made known to us through the apostles (3:1-5; 1Co 2:6, 7, 10-16; 4:1). The mystery is
+made known to us through the apostles (3:1-5; [[1CO.2:6]], [[1CO.2:7]], [[1CO.2:10]]-16; 4:1). The mystery is
 
 made manifest in history by the fact that Gentiles and Jews compose one body (3:6; Col
 
@@ -110,7 +110,7 @@ The outpouring of the Holy Spirit was an evidence that the last times, the day o
 
 the Lord, had come. Hence, Pentecost was a proof to the Jews that Jesus indeed was the
 
-Messiah. And the outpouring of the Holy Spirit upon the Gentiles (Acts 10:44-48) was a
+Messiah. And the outpouring of the Holy Spirit upon the Gentiles ([[ACT.10:44]]-48) was a
 
 proof they were equal to the Jews in this final age. After baptism one is sealed with the
 
@@ -276,7 +276,7 @@ revealed this plan to him (vv. 1-6) so that he can reveal it to all, especially 
 
 3:1, 2 Prisoner (Paul is in prison in Rome as he writes this letter) is a title of honor and a
 
-mark of apostleship (Lk 21:12; 2Co 6:4, 5). Paul is not only an apostle (see v. 5), but one
+mark of apostleship ([[LUK.21:12]]; [[2CO.6:4]], [[2CO.6:5]]). Paul is not only an apostle (see v. 5), but one
 
 with a special role, a special dispensation (v. 2, Gr. oikonomia). All NT leaders,
 
@@ -290,9 +290,9 @@ Christ; Paul has received the special commission to extend this Church to the Ge
 ### 3:3
 *(anchor: EPH.3:3)*
 
-God's revelation to Paul began on the road to Damascus (Acts 22:3-21). God was
+God's revelation to Paul began on the road to Damascus ([[ACT.22:3]]-21). God was
 
-gracious to Paul not for his own sake but for others (see Acts 9:15, 16).
+gracious to Paul not for his own sake but for others (see [[ACT.9:15]], [[ACT.9:16]]).
 
 
 ### 3:5
@@ -488,7 +488,7 @@ and the gifts of the Spirit. The lower parts of the earth is either the earth it
 
 referring to the Incarnation; or burial or Hades, the place of the dead, referring to Christ's
 
-death and descent into hell (1Pt 3:19). Only Christ, as God and Man, can fill all things
+death and descent into hell ([[1PE.3:19]]). Only Christ, as God and Man, can fill all things
 
 (v. 10), that is, reign over the unification and fulfillment of creation.
 
@@ -646,11 +646,11 @@ Besides separating from darkness, Christians are also to expose (v. 11) it. But 
 
 must first come out of hiding in order to be exposed ourselves. That is, we must confess
 
-our sins and repent of them (see Jn 3:19-21). Orthodox Christians do this before baptism,
+our sins and repent of them (see [[JOH.3:19]]-21). Orthodox Christians do this before baptism,
 
 before the Eucharist, and also in a separate sacrament of repentance. The hymn in v. 14 is
 
-an early baptismal hymn: baptism is illumination (see Acts 26:18; 2Co 4:6; Heb 6:4;
+an early baptismal hymn: baptism is illumination (see [[ACT.26:18]]; [[2CO.4:6]]; [[HEB.6:4]];
 
 10:32). To walk in the light is to walk in one's baptism.
 

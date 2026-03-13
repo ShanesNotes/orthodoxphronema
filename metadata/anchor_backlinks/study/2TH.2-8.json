@@ -1,0 +1,30 @@
+{
+  "anchor_id": "2TH.2:8",
+  "canon_uri": "canon/NT/2TH.md#2TH.2:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3253,
+      "raw_match": "[[2TH.2:1]]-10",
+      "reference_type": "wikilink_range",
+      "context": "[[2TH.2:1]]-10; and the Book of Revelation). The Lord's emphasis is on watchfulness and the"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 677,
+      "raw_match": "[[2TH.2:1]]-12",
+      "reference_type": "wikilink_range",
+      "context": "image ([[DAN.12:1]]; [[MAT.6:13]]; [[MRK.13:4]]; [[JOH.17:6]], [[JOH.17:15]]; [[2TH.2:1]]-12), referring to the testing and"
+    },
+    {
+      "source_file": "staging/validated/OT/DAN_footnotes.md",
+      "line_number": 411,
+      "raw_match": "[[2TH.2:3]]-12",
+      "reference_type": "wikilink_range",
+      "context": "eternal kingdom (see [[2TH.2:3]]-12 and note). 8:26"
+    }
+  ]
+}

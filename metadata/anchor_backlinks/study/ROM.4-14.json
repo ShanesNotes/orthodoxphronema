@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ROM.4:14",
+  "canon_uri": "canon/NT/ROM.md#ROM.4:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 871,
+      "raw_match": "[[ROM.4:9]]-17",
+      "reference_type": "wikilink_range",
+      "context": "Gentiles, to be made righteous by faith in the gospel (v. 3; see also [[ROM.4:9]]-17). Christ"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 473,
+      "raw_match": "[[ROM.4:9]]-16",
+      "reference_type": "wikilink_range",
+      "context": "of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10."
+    }
+  ]
+}

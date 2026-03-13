@@ -1,0 +1,37 @@
+{
+  "anchor_id": "2TH.2:15",
+  "canon_uri": "canon/NT/2TH.md#2TH.2:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2TI_footnotes.md",
+      "line_number": 219,
+      "raw_match": "[[2TH.2:15]]",
+      "reference_type": "wikilink",
+      "context": "and written instruction (see [[MAT.28:16]]-20; [[1CO.11:2]]; [[2TH.2:15]]; 3:6). A part of this tradition"
+    },
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 3543,
+      "raw_match": "[[2TH.2:15]]",
+      "reference_type": "wikilink",
+      "context": "ongoing oral tradition within the Church (see [[2TH.2:15]])."
+    },
+    {
+      "source_file": "staging/validated/OT/2CH_footnotes.md",
+      "line_number": 151,
+      "raw_match": "[[2TH.2:15]]",
+      "reference_type": "wikilink",
+      "context": "which you were taught, whether by word or our epistle\" ([[2TH.2:15]]). 12:1"
+    },
+    {
+      "source_file": "staging/validated/OT/EZR_footnotes.md",
+      "line_number": 184,
+      "raw_match": "[[2TH.2:15]]",
+      "reference_type": "wikilink",
+      "context": "reaffirmed in every generation ([[2TH.2:15]]). 6:8-10"
+    }
+  ]
+}

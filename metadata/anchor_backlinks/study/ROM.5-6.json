@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ROM.5:6",
+  "canon_uri": "canon/NT/ROM.md#ROM.5:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 749,
+      "raw_match": "[[ROM.5:6]]-8",
+      "reference_type": "wikilink_range",
+      "context": "you, that you also love one another\" ([[JOH.13:34]]). Jesus loved mankind more than Himself, and He even died for His enemies ([[ROM.5:6]]-8)."
+    }
+  ]
+}

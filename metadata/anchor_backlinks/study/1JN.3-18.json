@@ -1,0 +1,16 @@
+{
+  "anchor_id": "1JN.3:18",
+  "canon_uri": "canon/NT/1JN.md#1JN.3:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 1234,
+      "raw_match": "[[1JN.3:18]]",
+      "reference_type": "wikilink",
+      "context": "doing another. So the Apostle John said we are to love \"in deed and in truth\" ([[1JN.3:18]])."
+    }
+  ]
+}

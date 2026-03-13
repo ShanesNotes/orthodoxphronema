@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JOH.4:12",
+  "canon_uri": "canon/NT/JOH.md#JOH.4:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2943,
+      "raw_match": "[[JOH.4:10]]-14",
+      "reference_type": "wikilink_range",
+      "context": "The water of life (\"living water,\" [[JOH.4:10]]-14; 7:37-39, or \"living fountains of"
+    },
+    {
+      "source_file": "staging/validated/OT/MIC_footnotes.md",
+      "line_number": 41,
+      "raw_match": "[[JOH.4:1]]-42",
+      "reference_type": "wikilink_range",
+      "context": "Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 683,
+      "raw_match": "[[JOH.4:10]]-14",
+      "reference_type": "wikilink_range",
+      "context": "Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.16:33",
+  "canon_uri": "canon/NT/JOH.md#JOH.16:33",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2CH_footnotes.md",
+      "line_number": 241,
+      "raw_match": "[[JOH.16:33]]",
+      "reference_type": "wikilink",
+      "context": "will have tribulation; but be of good cheer, I have overcome the world\" ([[JOH.16:33]]). 20:15-22 The Lord is with you (v. 17): This is the key to salvation (see [[EPH.6:13]]). For"
+    },
+    {
+      "source_file": "staging/validated/OT/JDG_footnotes.md",
+      "line_number": 694,
+      "raw_match": "[[JOH.16:33]]",
+      "reference_type": "wikilink",
+      "context": "victory to us, Jesus warns, \"in the world you will have tribulation\" ([[JOH.16:33]])."
+    }
+  ]
+}

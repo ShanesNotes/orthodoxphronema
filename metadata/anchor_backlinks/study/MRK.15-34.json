@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.15:34",
+  "canon_uri": "canon/NT/MRK.md#MRK.15:34",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 427,
+      "raw_match": "[[MRK.15:34]]",
+      "reference_type": "wikilink",
+      "context": "to the Crucifixion: for example, v. 2, quoted in [[MAT.27:46]] and [[MRK.15:34]]; v. 9, quoted in Mt"
+    }
+  ]
+}

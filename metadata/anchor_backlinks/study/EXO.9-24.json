@@ -1,0 +1,23 @@
+{
+  "anchor_id": "EXO.9:24",
+  "canon_uri": "canon/OT/EXO.md#EXO.9:24",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1283,
+      "raw_match": "[[EXO.9:22]]-26",
+      "reference_type": "wikilink_range",
+      "context": "Only vegetation is affected. The seventh plague in Egypt is recalled ([[EXO.9:22]]-26; see"
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 404,
+      "raw_match": "[[EXO.9:22]]-26",
+      "reference_type": "wikilink_range",
+      "context": "death to release those in prison (see [[EPH.4:9]], [[EPH.4:10]]). 16:15-18 This event is recorded in [[EXO.9:22]]-26. 16:20"
+    }
+  ]
+}

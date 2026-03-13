@@ -44,7 +44,7 @@ He was also begotten in these last times by the Holy Spirit and the Virgin Mary,
 
 men and for our salvation" (Creed). Then again, He was begotten in the sense of His
 
-Resurrection from the dead (Acts 13:32, 33). But Jesus is also the King over the nations
+Resurrection from the dead ([[ACT.13:32]], [[ACT.13:33]]). But Jesus is also the King over the nations
 
 (v. 8), which in due time, He will shatter like a potter's vessel (v. 9) when He restores
 
@@ -62,7 +62,7 @@ The historical account in Ps 3 is that of King David fleeing from his son, Absal
 
 15-18). But prophetically, Ps 3 is speaking of Jesus as the Son of David according to the
 
-flesh (Mt 1:1; Rom 1:3). Thus, Jesus is praying to the Lord, who is God the Father (vv. 2,
+flesh ([[MAT.1:1]]; [[ROM.1:3]]). Thus, Jesus is praying to the Lord, who is God the Father (vv. 2,
 
 4, 5, 6, 8, 9). And the many . . . who rise up against me (v. 2) are the fallen angels, of
 
@@ -78,9 +78,9 @@ always rejected their lies (vv. 4-9), so He is teaching His Church to do the sam
 
 Ps 4 emphasizes the End (vv. 1, 2). Christ "is the end of the law for righteousness to
 
-everyone who believes" (Rom 10:4), and He is "the Alpha and the Omega, the Beginning
+everyone who believes" ([[ROM.10:4]]), and He is "the Alpha and the Omega, the Beginning
 
-and the End" (Rev 1:8). He exhorts people not to be slow of heart, and not to love vain
+and the End" ([[REV.1:8]]). He exhorts people not to be slow of heart, and not to love vain
 
 things, nor to seek after lies (v. 3). Rather, they should realize that the Lord, who is
 
@@ -96,7 +96,7 @@ Ps 5 is similar to Ps 4, again emphasizing the End (v. 1). Christ is the End con
 
 the inheritance (v. 1), which is the Church and the world to come (Creed). For Christ
 
-and His inheritance are the end to which God's eternal purpose is moving (Eph 3:11). And
+and His inheritance are the end to which God's eternal purpose is moving ([[EPH.3:11]]). And
 
 in His prayer to the Father, whom He calls Lord and King and God (vv. 2, 3, 5, 7, 9, 11,
 
@@ -138,7 +138,7 @@ Thus, Ps 7 teaches the Church how to pray in this warfare: (1) The faithful plac
 
 hope in God for deliverance from the enemy, that is the devil, called a lion (v. 3; see also
 
-1Pt 5:8). (2) Personal virtue in the Church is essential for successful warfare against this
+[[1PE.5:8]]). (2) Personal virtue in the Church is essential for successful warfare against this
 
 enemy (vv. 4-17). (3) The credit for any victory achieved goes to the Lord (v. 18).
 
@@ -148,17 +148,17 @@ enemy (vv. 4-17). (3) The credit for any victory achieved goes to the Lord (v. 1
 
 Ps 8 speaks of the Incarnate Lord: (1) His name is wondrous . . . in all the earth,
 
-and He is exalted far beyond the heavens (v. 2; see also Php 2:9-11). (2) He brings
+and He is exalted far beyond the heavens (v. 2; see also [[PHP.2:9]]-11). (2) He brings
 
 forth praise from His humble people, who are likened to little children (v. 3; see also Mt
 
-18:1-4; 21:15, 16). (3) He is the Creator of the universe (v. 4; see also Heb 1:10-12). (4)
+18:1-4; 21:15, 16). (3) He is the Creator of the universe (v. 4; see also [[HEB.1:10]]-12). (4)
 
 He remembered man and his mortal nature, for example, his fall into death and decay in
 
 the grave, and thus, became incarnate to redeem him from death and to crown him
 
-with glory and honor (vv. 5-9; see also Heb 2:6-10). (5) Because of the things
+with glory and honor (vv. 5-9; see also [[HEB.2:6]]-10). (5) Because of the things
 
 mentioned above, the incarnate Lord's name is wondrous in all the earth.
 
@@ -198,13 +198,13 @@ He is the End. (1) Trusting in the Lord overcomes cowardice (Flee to the mountai
 
 like a sparrow, v. 1). (2) Trusting in the Lord overcomes the devil and his angels (vv. 2,
 
-3; see also Eph 6:16). (3) Trusting in the Lord makes the Church a dwelling place of God
+3; see also [[EPH.6:16]]). (3) Trusting in the Lord makes the Church a dwelling place of God
 
-(v. 4a; see also 1Co 3:16, 17; Eph 2:21, 22). (4) Trusting in the Lord keeps one poor in
+(v. 4a; see also [[1CO.3:16]], [[1CO.3:17]]; [[EPH.2:21]], [[EPH.2:22]]). (4) Trusting in the Lord keeps one poor in
 
-spirit (v. 4b; see also Mt 5:3). (5) Trusting in the Lord helps one love virtue and hate vice
+spirit (v. 4b; see also [[MAT.5:3]]). (5) Trusting in the Lord helps one love virtue and hate vice
 
-(vv. 5-7; see also Heb 1:9; 1Pt 3:10-12).
+(vv. 5-7; see also [[HEB.1:9]]; [[1PE.3:10]]-12).
 
 
 ### 11:1
@@ -232,7 +232,7 @@ purifies them in virtue with His words (v. 7); (3) guards and preserves them fro
 
 ungodly generation (v. 8); and (4) through His Ascension (exaltation, v. 9b), highly
 
-exalts His godly ones (v. 9b; see also Php 2:9-11; Eph 2:6, 7).
+exalts His godly ones (v. 9b; see also [[PHP.2:9]]-11; [[EPH.2:6]], [[EPH.2:7]]).
 
 
 ### 12:1
@@ -244,9 +244,9 @@ Lord (v. 6b), who is the End (v. 1): (1) by godly sorrow and repentance over sin
 
 committed, lest the devil and sinful passions (my enemy) be victorious (vv. 3, 5; see also
 
-2Co 7:10); (2) by petitioning the Lord to enlighten the eyes of the heart, lest the sleep in
+[[2CO.7:10]]); (2) by petitioning the Lord to enlighten the eyes of the heart, lest the sleep in
 
-death overtake one (v. 4; see also Eph 1:18; 5:14); and (3) by hoping in the Lord's mercy
+death overtake one (v. 4; see also [[EPH.1:18]]; 5:14); and (3) by hoping in the Lord's mercy
 
 (v. 6a).
 
@@ -256,7 +256,7 @@ death overtake one (v. 4; see also Eph 1:18; 5:14); and (3) by hoping in the Lor
 
 Ps 13 describes both Jews and Gentiles who say in their hearts, "There is no God"
 
-(v. 1; see also Rom 3:9-18). For although they may claim to know God, nevertheless, they
+(v. 1; see also [[ROM.3:9]]-18). For although they may claim to know God, nevertheless, they
 
 are actually denying He exists, because of (1) their total involvement in a state of moral
 
@@ -300,7 +300,7 @@ they should hope in the resurrection from the dead, because the soul of Jesus wa
 
 in Hades, nor did His body decay in the grave, and therefore, they should not fear death
 
-(vv. 9, 10; see also Acts 2:25-31; 13:35-37); for He was raised from the dead for the sake
+(vv. 9, 10; see also [[ACT.2:25]]-31; 13:35-37); for He was raised from the dead for the sake
 
 of their life (v. 11) "in the world to come" (Creed).
 
@@ -340,11 +340,11 @@ Man's enemies were death and the decay of the body in the grave, Hades, and the 
 
 And these held man in great fear and dread and in bondage to sinful passions (vv. 1-6;
 
-see also Heb 2:14, 15). But in His Incarnation, Christ descended from heaven (v. 10)
+see also [[HEB.2:14]], [[HEB.2:15]]). But in His Incarnation, Christ descended from heaven (v. 10)
 
 and destroyed these enemies (vv. 7-16), and brought everything into the light (v. 29; see
 
-also 2Ti 1:10). He ascended on high and called the Gentiles (vv. 17-50).
+also [[2TI.1:10]]). He ascended on high and called the Gentiles (vv. 17-50).
 
 
 ### 18:1
@@ -370,7 +370,7 @@ Ps 19 is a royal psalm, for it is a prophecy made on behalf of Jesus Christ the 
 
 as His right hand. For the name "Christ" shows the Father anointed the human nature
 
-of Jesus with the Holy Spirit (see Heb 1:9; Lk 1:35; Is 61:1); and the names "right hand"
+of Jesus with the Holy Spirit (see [[HEB.1:9]]; [[LUK.1:35]]; Is 61:1); and the names "right hand"
 
 and "King" show Jesus is one in essence with the Father and coequal with Him.
 
@@ -378,7 +378,7 @@ This prophecy is first a prayer to the Father, who is called the Lord and the Go
 
 Jacob (v. 2). Numerous petitions are made on Christ's behalf (vv. 2-5), one of which
 
-regards His death and Resurrection (vv. 4, 7; see also Heb 5:7). Secondly, the prophecy
+regards His death and Resurrection (vv. 4, 7; see also [[HEB.5:7]]). Secondly, the prophecy
 
 reveals the response of the Church to His salvation (vv. 6-10), one element of which is
 
@@ -402,7 +402,7 @@ to be one in essence and coequal with the Father.
 
 Jesus asked the Father to raise Him from the dead and to enthrone Him at His right
 
-hand for the sake of our salvation (vv. 1-8; see also Heb 5:7-9). And in His death,
+hand for the sake of our salvation (vv. 1-8; see also [[HEB.5:7]]-9). And in His death,
 
 Resurrection and Ascension, He destroyed all the enemies, namely, the devil and his
 
@@ -422,11 +422,11 @@ psalm may be outlined as follows: (1) the Resurrection (v. 1); (2) the Crucifixi
 
 (1) Christ is the End, and He was resurrected early in the morning (v. 1; see also Mk
 
-16:2; Lk 24:1). (2) The New Testament quotes several verses from this psalm in relation
+16:2; [[LUK.24:1]]). (2) The New Testament quotes several verses from this psalm in relation
 
-to the Crucifixion: for example, v. 2, quoted in Mt 27:46 and Mk 15:34; v. 9, quoted in Mt
+to the Crucifixion: for example, v. 2, quoted in [[MAT.27:46]] and [[MRK.15:34]]; v. 9, quoted in Mt
 
-27:43; and v. 19, quoted in Mt 27:35. (3) The New Testament also quotes v. 23 in Heb
+27:43; and v. 19, quoted in [[MAT.27:35]]. (3) The New Testament also quotes v. 23 in Heb
 
 2:12, referring to the "one, holy, catholic and apostolic Church" (Creed).
 
@@ -436,23 +436,23 @@ to the Crucifixion: for example, v. 2, quoted in Mt 27:46 and Mk 15:34; v. 9, qu
 
 Ps 22 is the Church speaking about the Lord Jesus (vv. 1-3) and to the Lord Jesus (vv.
 
-4-6). In speaking about the Lord, the Church (the sheep; see also Jn 10:1-5) identifies
+4-6). In speaking about the Lord, the Church (the sheep; see also [[JOH.10:1]]-5) identifies
 
-Him as my shepherd (v. 1; see also Jn 10:14), thus indicating a close relationship with
+Him as my shepherd (v. 1; see also [[JOH.10:14]]), thus indicating a close relationship with
 
 Him. And in this relationship of Shepherd and sheep, the Church lacks nothing, for
 
-example, the green pastures of kingdom life (v. 2; see also Jn 10:10); the still waters
+example, the green pastures of kingdom life (v. 2; see also [[JOH.10:10]]); the still waters
 
-of baptism (v. 2; see also Jn 3:5); and the conversion of the soul to the paths of
+of baptism (v. 2; see also [[JOH.3:5]]); and the conversion of the soul to the paths of
 
-righteousness (v. 3; see also Jn 10:3, 4, 7). And in speaking to the Lord, the Church is
+righteousness (v. 3; see also [[JOH.10:3]], [[JOH.10:4]], [[JOH.10:7]]). And in speaking to the Lord, the Church is
 
-grateful to Him (1) for deliverance from the fear of death (v. 4; see also Heb 2:14, 15); (2)
+grateful to Him (1) for deliverance from the fear of death (v. 4; see also [[HEB.2:14]], [[HEB.2:15]]); (2)
 
-for the Eucharist (v. 5; see also Lk 22:14-20); and (3) for a lifetime of mercy (v. 6; see
+for the Eucharist (v. 5; see also [[LUK.22:14]]-20); and (3) for a lifetime of mercy (v. 6; see
 
-also Lk 1:50, 54).
+also [[LUK.1:50]], [[LUK.1:54]]).
 
 
 ### 23:1
@@ -460,7 +460,7 @@ also Lk 1:50, 54).
 
 Ps 23 is a prophecy of the Resurrection of the Lord Jesus Christ (the first day of the
 
-week, v. 1; see also Mt 28:1; Mk 16:2; Lk 24:1; Jn 20:1).
+week, v. 1; see also [[MAT.28:1]]; [[MRK.16:2]]; [[LUK.24:1]]; [[JOH.20:1]]).
 
 His Resurrection proves (1) He is the Creator of the world, which He owns (vv. 1, 2); (2)
 
@@ -468,7 +468,7 @@ He is worthy to ascend on high as the Forerunner of the Church (vv. 3-6; see als
 
 6:19, 20; 7:26; 9:24); (3) He is the King of glory, who destroyed death and Hades (vv. 7-
 
-10; see also Rev 1:18; 4:8-11).
+10; see also [[REV.1:18]]; 4:8-11).
 
 
 ### 24:1
@@ -476,7 +476,7 @@ He is worthy to ascend on high as the Forerunner of the Church (vv. 3-6; see als
 
 Ps 24 is a priestly intercession by the Lord Jesus Christ on behalf of His Church,
 
-which is the Israel of God (v. 22; see also Gal 6:16). He identifies Himself as onlybegotten and poor (v. 16), for He was the Virgin Mary's only Child, and He was born
+which is the Israel of God (v. 22; see also [[GAL.6:16]]). He identifies Himself as onlybegotten and poor (v. 16), for He was the Virgin Mary's only Child, and He was born
 
 into poverty. And although He was hated unjustly (v. 19), nevertheless, He established
 
@@ -484,7 +484,7 @@ the New Testament (His covenant, vv. 10, 14). So in His New Testament, He interc
 
 for the Church in prayer, and by lifting up His soul to the Father (v. 1), He also lifts up
 
-the Church to Him in priestly intercession (see also Heb 7:25). And because of His
+the Church to Him in priestly intercession (see also [[HEB.7:25]]). And because of His
 
 intercession, the Church is taught the ways of the Father (vv. 2-21).
 
@@ -494,9 +494,9 @@ intercession, the Church is taught the ways of the Father (vv. 2-21).
 
 Ps 25 is a priestly intercession of Jesus Christ to the Father at the heavenly altar (v.
 
-6; see also Heb 7:25) on behalf of His churches (v. 12). And since this Priest is innocent
+6; see also [[HEB.7:25]]) on behalf of His churches (v. 12). And since this Priest is innocent
 
-(Heb 7:26), He intercedes on behalf of His churches, so they, too, will be innocent
+([[HEB.7:26]]), He intercedes on behalf of His churches, so they, too, will be innocent
 
 through God's merciful redemption (v. 11), as they worship around His altar (vv. 1-11).
 
@@ -514,7 +514,7 @@ enemies (vv. 2, 6, 11), an army (v. 3), and unjust witnesses (v. 12). And in thi
 
 Paul describes them as "principalities," "powers," "the rulers of the darkness of this age,"
 
-"spiritual hosts of wickedness in the heavenly places" (Eph 6:12).
+"spiritual hosts of wickedness in the heavenly places" ([[EPH.6:12]]).
 
 Therefore, in baptism, the Lord Jesus Christ becomes my light, my savior, and my
 
@@ -524,7 +524,7 @@ overcome in battle (weakened and fell, v. 2). So as a result, the fruit borne in
 
 Church is freedom from the fear of death (my heart shall not be afraid, v. 3; see also
 
-Heb 2:14, 15); a strong relationship with the Lord (vv. 4-12); and an earnest expectation
+[[HEB.2:14]], [[HEB.2:15]]); a strong relationship with the Lord (vv. 4-12); and an earnest expectation
 
 for the land of the living (vv. 13, 14), which is "the resurrection from the dead and the
 
@@ -572,7 +572,7 @@ Son) is one of the Trinity.
 
 Ps 28 reveals the Father as the voice speaking from heaven at Jesus' Baptism (vv. 3-5,
 
-7-9; see also Mt 3:17; Mk 1:11; Lk 3:22). It also reveals the Son (His beloved, v. 6) and
+7-9; see also [[MAT.3:17]]; [[MRK.1:11]]; [[LUK.3:22]]). It also reveals the Son (His beloved, v. 6) and
 
 the Holy Spirit (fiery flames, v. 7; see also canticles four and five of Compline in the
 
@@ -614,7 +614,7 @@ extreme humiliation (v. 8) He suffered before the Father on the cross for mankin
 
 example, v. 6 is quoted by Him as His last words to the Father on the cross just before He
 
-died (Lk 23:46). Verses 2-23 describe this humiliation, and vv. 24, 25 emphasize the fruit
+died ([[LUK.23:46]]). Verses 2-23 describe this humiliation, and vv. 24, 25 emphasize the fruit
 
 His humiliation bears in the Church, e.g., love for the Father. And v. 24 also speaks of
 
@@ -634,7 +634,7 @@ Enlightenment, in which sins are forgiven (vv. 1, 5). And on the Day of Pentecos
 
 Peter urged those listening to "be baptized in the name of Jesus Christ for the remission
 
-of sins" (Acts 2:38). Thus, the Creed also says, "I acknowledge one baptism for the
+of sins" ([[ACT.2:38]]). Thus, the Creed also says, "I acknowledge one baptism for the
 
 remission of sins."
 
@@ -680,7 +680,7 @@ poor, broken, and humble spirit (vv. 7, 19); (4) with the fear of God (vv. 8, 10
 
 with hope in the world to come (vv. 9, 23); (6) with clean lips and a peaceful heart (vv.
 
-13-17; see also 1Pt 3:10-12).
+13-17; see also [[1PE.3:10]]-12).
 
 
 ### 34:1
@@ -728,11 +728,11 @@ the light which is in light (v. 10). The fountain is the Father, and the Son is 
 
 the light, and the life that goes forth from this fountain. Those who willingly drink of this
 
-water in baptism, and who see this light, partake of life and light (see also Jn 1:4), and
+water in baptism, and who see this light, partake of life and light (see also [[JOH.1:4]]), and
 
-also become intoxicated with the Holy Spirit (the fatness, v. 9; see also Jn 7:37-39;
+also become intoxicated with the Holy Spirit (the fatness, v. 9; see also [[JOH.7:37]]-39;
 
-Acts 2:13-17; Eph 5:18).
+[[ACT.2:13]]-17; [[EPH.5:18]]).
 
 
 ### 36:1
@@ -762,9 +762,9 @@ Ps 37 reveals the great love of Christ for mankind in His sufferings and death o
 
 cross, especially v. 18: For I am ready for wounds, and my pain is continually
 
-with me. And although He was "separate from sinners" (Heb 7:26) and "knew no sin"
+with me. And although He was "separate from sinners" ([[HEB.7:26]]) and "knew no sin"
 
-(2Co 5:21), yet out of His great compassion for sinners, He prays this prayer in a relative
+([[2CO.5:21]]), yet out of His great compassion for sinners, He prays this prayer in a relative
 
 sense as though He were one of them. Thus, He takes the place of sinners as one of them,
 
@@ -778,7 +778,7 @@ on the cross.
 
 Ps 38 reminds the Church of its pilgrim status in the present world (a sojourner
 
-and a stranger, v. 13; see also 1Pt 1:1). For God's people are "to look for the resurrection
+and a stranger, v. 13; see also [[1PE.1:1]]). For God's people are "to look for the resurrection
 
 of the dead and the life of the world to come" (Creed). For Christ is the End (v. 1).
 
@@ -798,7 +798,7 @@ inches, here used to show the brief span of our lives.
 ### 39:1
 *(anchor: PSA.39:1)*
 
-Ps 39 is a prophecy of the Incarnation (vv. 7-9; see also Heb 10:5-7). In His
+Ps 39 is a prophecy of the Incarnation (vv. 7-9; see also [[HEB.10:5]]-7). In His
 
 Incarnation, the Lord assumed a mortal body (v. 7) and a rational soul. But here the body
 
@@ -830,9 +830,9 @@ brings healing to the Church (from sickness to wholeness, v. 4, and heal my soul
 
 5). When the Lord Jesus says, for I have sinned against You (v. 5), He is taking our
 
-part, although He Himself is sinless (innocence, v. 13; see also Heb 7:25, 26).
+part, although He Himself is sinless (innocence, v. 13; see also [[HEB.7:25]], [[HEB.7:26]]).
 
-Verse 10 speaks of the betrayal by Judas (see also Jn 13:18); vv. 6, 9 of Christ's
+Verse 10 speaks of the betrayal by Judas (see also [[JOH.13:18]]); vv. 6, 9 of Christ's
 
 sufferings and death; and vv. 2, 3, 11-14 of His Resurrection.
 
@@ -852,7 +852,7 @@ for union and communion with God (vv. 2, 3); (2) tears of joy in the midst of su
 
 (vv. 4-6, 10-12); and (3) enlightenment (understanding, v. 1) concerning the
 
-unsearchable riches of Christ (vv. 8, 9; see also Rom 11:33; Eph 3:8).
+unsearchable riches of Christ (vv. 8, 9; see also [[ROM.11:33]]; [[EPH.3:8]]).
 
 
 ### 42:1
@@ -862,7 +862,7 @@ Ps 42 is a prayer of Christ on behalf of His Church for enlightenment in the mid
 
 the ungodly (an unholy nation, v. 1; my enemy afflicts me, v. 2). For He Himself is
 
-light and truth (v. 3), who was sent into the world in His Incarnation (see also Jn 8:12;
+light and truth (v. 3), who was sent into the world in His Incarnation (see also [[JOH.8:12]];
 
 14:6). Thus He guides (v. 3) the Church to the heavenly holy of holies (the altar of
 
@@ -880,7 +880,7 @@ Ps 43 describes (1) the daily praise and thanksgiving (v. 9) the Church offers G
 
 the midst of sufferings and persecution (vv. 2-17); the steadfastness of the Church in the
 
-midst of sufferings and even martyrdom itself (vv. 18-26; see also Rom 8:36); and (3) the
+midst of sufferings and even martyrdom itself (vv. 18-26; see also [[ROM.8:36]]); and (3) the
 
 Church's hope in the Lord to be raised from the dead at the general resurrection (v. 27).
 
@@ -896,7 +896,7 @@ Word Himself, and His Incarnation brought about changes (things that shall be
 
 changed, v. 1). For He established His Church (the peoples), and even changed His
 
-enemies into friends (v. 6). Thus, vv. 2-9 describe Him (see also Heb 1:8, 9); and vv. 10-
+enemies into friends (v. 6). Thus, vv. 2-9 describe Him (see also [[HEB.1:8]], [[HEB.1:9]]); and vv. 10-
 
 18 describe His Mother, the Mother of God, who is both His queen (v. 10) and His
 
@@ -914,9 +914,9 @@ used in ancient medicines, a reference to healing.
 
 Ps 45 is about hidden things concerning the End, who is Christ. These hidden
 
-things are "the treasures of wisdom and knowledge in Christ" (Col 2:3), which are now
+things are "the treasures of wisdom and knowledge in Christ" ([[COL.2:3]]), which are now
 
-revealed in His Incarnation and made known among the Gentiles (Col 1:26, 27). Here,
+revealed in His Incarnation and made known among the Gentiles ([[COL.1:26]], [[COL.1:27]]). Here,
 
 before His Incarnation, the earth was troubled with fear (vv. 3, 4, 7), which was the fear
 
@@ -952,7 +952,7 @@ with joy (rejoicing, v. 2), with fear (fearsome, v. 3) and with intelligence
 ### 47:1
 *(anchor: PSA.47:1)*
 
-Ps 47 is a prophecy of the Church as heaven on earth (see also Heb 12:22, 23). In this
+Ps 47 is a prophecy of the Church as heaven on earth (see also [[HEB.12:22]], [[HEB.12:23]]). In this
 
 respect she is described as a city (vv. 2, 3, 4, 9, 14), as Mount Zion (vv. 2, 3, 12, 13), and as
 
@@ -1056,7 +1056,7 @@ first question is yes, for they willfully reject Christ as God, and therefore ar
 
 But, in answer to the second question, their rejection cannot prevent Him from granting
 
-salvation to the Church ("Israel," v. 7; see also Gal 6:16).
+salvation to the Church ("Israel," v. 7; see also [[GAL.6:16]]).
 
 
 ### 53:1
@@ -1070,7 +1070,7 @@ leaders are called strangers and the powerful (v. 5). Nevertheless, Christ's suf
 
 and sacrifice on the cross were voluntary (v. 8), for no one could take His life from Him
 
-without His consent (see also Jn 10:18; 18:6). And He thanked the Father (O Lord, v. 8)
+without His consent (see also [[JOH.10:18]]; 18:6). And He thanked the Father (O Lord, v. 8)
 
 for His Resurrection (v. 9), to teach us to do the same.
 
@@ -1108,7 +1108,7 @@ inscription, is used to introduce Ps 55-59, in v. 1 of each.) Now this war is no
 
 against the devil but also against his angels (those who war against me from on
 
-high, v. 3; see also Eph 6:12). Verses 4-14 tell the Church how to fight the enemy; for
+high, v. 3; see also [[EPH.6:12]]). Verses 4-14 tell the Church how to fight the enemy; for
 
 example, the faithful will not fear death when facing the enemy (vv. 4, 5, 12, 14).
 
@@ -1120,7 +1120,7 @@ Ps 56 prophesies the death and Resurrection of Christ (the End, v. 1). He did no
 
 corrupt (v. 1), that is, His holy body did not decay in the grave (the cave, v. 1; see also Ps
 
-15:8-11; Acts 2:25-32; 13:34-37). Verses 2-12 give the Church the hope of "the
+15:8-11; [[ACT.2:25]]-32; 13:34-37). Verses 2-12 give the Church the hope of "the
 
 resurrection from the dead and the life of the world to come" (Creed).
 
@@ -1182,7 +1182,7 @@ the Church in hymns of praise to the Father, and therefore, to the Trinity (see 
 
 Ps 61 is a prayer of Christ (the End, v. 1). He is praying this prayer on behalf of the
 
-Church, which is His body (congregation of people, v. 9; see also Eph 1:22, 23). He is
+Church, which is His body (congregation of people, v. 9; see also [[EPH.1:22]], [[EPH.1:23]]). He is
 
 encouraging His members to be submissive to God (vv. 2, 6), and the psalm gives
 
@@ -1268,7 +1268,7 @@ Resurrection.
 
 Ps 67 prophesies the Resurrection of Christ (the End, v. 1) and His Ascension into
 
-heaven (v. 19; see also Eph 4:8). In hymns of the Church, the mountain of God (v. 16)
+heaven (v. 19; see also [[EPH.4:8]]). In hymns of the Church, the mountain of God (v. 16)
 
 is seen as referring to the Mother of God. Throughout the psalm, the blessings given the
 
@@ -1286,15 +1286,15 @@ it would bring about (concerning things that shall be changed, v. 1). The change
 
 His Passion would bring are noted throughout the psalm. Examples are: (1) the Church
 
-would become a house of prayer for all peoples (v. 10; see also Jn 2:19; Mt 21:13; Mk
+would become a house of prayer for all peoples (v. 10; see also [[JOH.2:19]]; [[MAT.21:13]]; Mk
 
-11:17; Lk 19:46); (2) the cross would bear our reproaches against God (v. 10; see also Rom
+11:17; [[LUK.19:46]]); (2) the cross would bear our reproaches against God (v. 10; see also Rom
 
-15:3); (3) the cross would destroy death (gall and vinegar, v. 22; see also Mt 27:34, 48;
+15:3); (3) the cross would destroy death (gall and vinegar, v. 22; see also [[MAT.27:34]], [[MAT.27:48]];
 
-Mk 15:23, 36; Lk 23:36; Jn 19:28-30); and (4) the Jews would be rejected for their
+[[MRK.15:23]], [[MRK.15:36]]; [[LUK.23:36]]; [[JOH.19:28]]-30); and (4) the Jews would be rejected for their
 
-unbelief, and the believing Gentiles brought to salvation (vv. 23, 24; Rom 9:9-11).
+unbelief, and the believing Gentiles brought to salvation (vv. 23, 24; [[ROM.9:9]]-11).
 
 
 ### 69:1
@@ -1308,7 +1308,7 @@ on the Lord and His salvation (that the Lord may save me, v. 1). The early Deser
 
 Fathers used v. 2 as a text of ceaseless prayer (O God, make haste to help me, v. 2),
 
-thereby living out the exhortation of St. Paul in 1Th 5:17 to "pray without ceasing." Also,
+thereby living out the exhortation of St. Paul in [[1TH.5:17]] to "pray without ceasing." Also,
 
 this prayer, "O God, make haste to help me," is often seen as the precursor to the Jesus
 
@@ -1322,11 +1322,11 @@ some results of receiving God's help.
 
 Ps 70 teaches the Church about deliverance from captivity (taken captive, v. 1) to
 
-the devil and his angels (my enemies, v. 10; see also Eph 6:12). For these enemies
+the devil and his angels (my enemies, v. 10; see also [[EPH.6:12]]). For these enemies
 
 ensnared mankind in the fear of death and the lifetime of bondage it engendered (see
 
-Heb 2:15). But from birth to death, we are delivered by the Lord Jesus Christ from this
+[[HEB.2:15]]). But from birth to death, we are delivered by the Lord Jesus Christ from this
 
 fear (from birth, v. 6; to old age and to my last breath, v. 18). For we are delivered
 
@@ -1342,7 +1342,7 @@ Ps 71 is a prophecy concerning Solomon, who is Christ Himself, the King of Peace
 
 for the name "Solomon" means "peace." And the Father (God) gave all judgments to
 
-Him (v. 1; see also Jn 5:22), and in the world to come (forever and unto ages of ages),
+Him (v. 1; see also [[JOH.5:22]]), and in the world to come (forever and unto ages of ages),
 
 all the earth shall be filled with His glory (v. 19).
 
@@ -1388,7 +1388,7 @@ His Baptism. He also arose from the dead (Arise, O God, v. 22).
 
 Ps 74 is a prophecy concerning the Judgment Seat of Christ (the End, v. 1; see also
 
-2Co 5:10, 11). Therefore, all men are commanded not to corrupt (v. 1), that is, do not
+[[2CO.5:10]], [[2CO.5:11]]). Therefore, all men are commanded not to corrupt (v. 1), that is, do not
 
 transgress the law, nor exalt yourselves in sin (v. 5). For God Incarnate is judge
 
@@ -1406,7 +1406,7 @@ see also Creed).
 
 Ps 75 is a prophecy contrasting two opposing kingdoms. The Assyrian (v. 1) is the
 
-devil, who leads his kingdom: the fallen angels (v. 4; see also Col 2:15) and fallen people
+devil, who leads his kingdom: the fallen angels (v. 4; see also [[COL.2:15]]) and fallen people
 
 (vv. 6-9, 13). The End is God Incarnate (vv. 2, 7, 8, 10, 12, 13), who leads His kingdom:
 
@@ -1432,7 +1432,7 @@ benefits of this remembrance.
 
 Ps 77 concerns understanding (v. 1). What needs to be understood is that Christ is
 
-speaking to His Church (vv. 2, 14; see also Mt 13:34, 35; 1Co 10:4, 14), called children
+speaking to His Church (vv. 2, 14; see also [[MAT.13:34]], [[MAT.13:35]]; [[1CO.10:4]], [[1CO.10:14]]), called children
 
 yet to be born (v. 6), His sanctuary . . . founded forever on the earth (v. 69), and
 
@@ -1480,9 +1480,9 @@ Ps 80 is a psalm regarding Christ (the End) and His Church (the winepresses, v.
 
 1). For His Church is the new wine (the new covenant), formed in the Sacrament of
 
-Baptism (Mt 9:16, 17; 1Co 12:13). And Israel's deliverance from Egypt (vv. 1-11) is a type
+Baptism ([[MAT.9:16]], [[MAT.9:17]]; [[1CO.12:13]]). And Israel's deliverance from Egypt (vv. 1-11) is a type
 
-of baptism (1Co 10:1, 2). However, after baptism, the Christian is to be careful to walk in
+of baptism ([[1CO.10:1]], [[1CO.10:2]]). However, after baptism, the Christian is to be careful to walk in
 
 God's ways and heed His voice (vv. 12-17).
 
@@ -1508,7 +1508,7 @@ to judge the living and the dead" (Creed).
 
 Ps 82 prophesies that all who hate Christ (v. 3) will also persecute His saints (vv. 4-
 
-9; see also Jn 15:18; 2Ti 3:12). Various nations mentioned (vv. 7-9) represent the kinds of
+9; see also [[JOH.15:18]]; [[2TI.3:12]]). Various nations mentioned (vv. 7-9) represent the kinds of
 
 persecutors who seek to destroy the Church. Even avowed enemies find a common
 
@@ -1596,9 +1596,9 @@ Ps 88 concerns understanding the Lord's mercy and truth (vv. 2, 3, 6, 9, 15, 25,
 
 35, 40). In His Incarnation, the Lord is called "the seed of David" (see vv. 4, 21, 50; see
 
-also Mt 1:1), the Lord God (vv. 7, 8, 9; see also Jn 20:28), the Firstborn of God the Father
+also [[MAT.1:1]]), the Lord God (vv. 7, 8, 9; see also [[JOH.20:28]]), the Firstborn of God the Father
 
-(vv. 27, 28; see also Heb 1:6), and the King (v. 19; see also 1Ti 6:15). His throne is
+(vv. 27, 28; see also [[HEB.1:6]]), and the King (v. 19; see also [[1TI.6:15]]). His throne is
 
 established in the Church through the works of His Incarnation--for example, through
 
@@ -1620,9 +1620,9 @@ to Him in repentance (Return, you sons of men, v. 3), and He is very patient, be
 
 a thousand years in His sight are like yesterday, which passed, and like a watch in
 
-the night (v. 4; see also 2Pt 3:8). He is very patient, because He does not will that
+the night (v. 4; see also [[2PE.3:8]]). He is very patient, because He does not will that
 
-anyone should perish (2Pt 3:9). Therefore, when we focus on the Lord every morning, we
+anyone should perish ([[2PE.3:9]]). Therefore, when we focus on the Lord every morning, we
 
 look for His return at the Second Coming (v. 13), and for His mercy, joy, enlightenment,
 
@@ -1652,7 +1652,7 @@ hope in Him (My God and I will hope in Him, v. 2). God is called the Most High (
 
 1, 9), the God of heaven (v. 1), and the Lord (vv. 2, 9). He also commands His angels to
 
-help us (vv. 11, 12; see also Heb 1:14). His salvation is described as help (v. 1), shelter
+help us (vv. 11, 12; see also [[HEB.1:14]]). His salvation is described as help (v. 1), shelter
 
 (vv. 1, 14), protection, refuge (v. 2), freedom (v. 3), overshadowing (v. 4), the shield of
 
@@ -1664,7 +1664,7 @@ truth (v. 4), deliverance (v. 14), glorification (v. 15), and satisfaction (v. 1
 
 Ps 91 concerns the Sabbath day (v. 1), which speaks of rest. In this psalm, the rest is
 
-that of the soul. The Lord offers us this kind of rest (Mt 11:28-30). What then is our part
+that of the soul. The Lord offers us this kind of rest ([[MAT.11:28]]-30). What then is our part
 
 in achieving such rest? Our part is to give thanks day and night for God's mercy and
 
@@ -1708,7 +1708,7 @@ The Lord reigns . . . from of old; . . . from everlasting (vv. 1, 2). In His Inc
 
 (clothed and girded Himself, v. 1), He prepared His throne in the hearts of the
 
-faithful (v. 2). At Pentecost, He sent the Holy Spirit (the rivers, vv. 3, 4; see also Jn 7:37-
+faithful (v. 2). At Pentecost, He sent the Holy Spirit (the rivers, vv. 3, 4; see also [[JOH.7:37]]-
 
 39) to renew us with the living waters of baptism. In these living waters the saints lift up
 
@@ -1724,11 +1724,11 @@ Scriptures) and live in holiness, which things are proper to His house, the Chur
 
 Ps 93 is a psalm for the fourth day of the week (v. 1), which is Wednesday, the fourth
 
-day of creation in Gn 1:14-19. On this day, God created the sun, the moon, and the stars
+day of creation in [[GEN.1:14]]-19. On this day, God created the sun, the moon, and the stars
 
 to give light on the earth and to rule over the day and the night. The sun speaks of Christ;
 
-the moon, of the Mother of God; and the stars, of the Church (Php 2:15; Rev 12). The light
+the moon, of the Mother of God; and the stars, of the Church ([[PHP.2:15]]; Rev 12). The light
 
 of the sun, the moon, and the stars speaks of the light given the fallen world by Christ
 
@@ -1744,7 +1744,7 @@ for the faith. Thus, the question arises: "How long, O Lord, will this continue?
 
 4). The answer is, the God of vengeance (v. 1) will bring persecution to an end when
 
-He judges the fallen world in righteousness (vv. 8-23; see also Acts 17:31), at which time
+He judges the fallen world in righteousness (vv. 8-23; see also [[ACT.17:31]]), at which time
 
 He will repay their lawlessness to them (v. 23). Meantime, He is patient with people,
 
@@ -1774,7 +1774,7 @@ Father, the Son, and the Holy Spirit.
 
 But those who refuse this invitation will never find rest for their souls (v. 11; see also
 
-Mt 11:27-30; Heb 3; 4). For those who hear this invitation (hear His voice, v. 7) but
+[[MAT.11:27]]-30; Heb 3; 4). For those who hear this invitation (hear His voice, v. 7) but
 
 refuse it are like Israel during their forty-year wanderings in the desert (vv. 8-10). They
 
@@ -1852,7 +1852,7 @@ also reigns over the angels, the highest order of which is the cherubim (v. 1). 
 
 before His enthronement, He humbled Himself in becoming Man and going to the cross
 
-(Php 2:8). Now He is highly exalted (vv. 2, 6, 9; see also Php 2:9, 10). Before His
+([[PHP.2:8]]). Now He is highly exalted (vv. 2, 6, 9; see also [[PHP.2:9]], [[PHP.2:10]]). Before His
 
 Incarnation, He also reigned over Israel as their God (vv. 6-8). Now He is reigning both
 
@@ -1908,13 +1908,13 @@ Ps 101 is about a a poor man, when he was depressed and poured out his
 
 supplication before the Lord (v. 1). This Man is Jesus, who became poor for our sakes
 
-and interceded with the Father for our salvation (see also 2Co 8:9; Heb 5:7). The Lord to
+and interceded with the Father for our salvation (see also [[2CO.8:9]]; [[HEB.5:7]]). The Lord to
 
 whom He prays is the Father (v. 2), and vv. 3-12 describe Jesus' extreme anguish for us
 
-(see also Mt 26:38). He also rose again for our salvation, for He is the Lord over death
+(see also [[MAT.26:38]]). He also rose again for our salvation, for He is the Lord over death
 
-(when You rise up, v. 14). He is the Creator of the world (vv. 26-28; see also Heb 1:10-
+(when You rise up, v. 14). He is the Creator of the world (vv. 26-28; see also [[HEB.1:10]]-
 
 12), and He also created the Church (vv. 19, 23, 29), composed of Gentiles as well as Jews
 
@@ -1996,7 +1996,7 @@ Ps 108 is for the End (v. 1), who is Christ Himself. It speaks of the unbelievin
 
 Judas, who betrayed Him to the unbelieving Jews. Judas the son of perdition is lost (Jn
 
-17:12), fulfilling this Scripture. Verse 8 is quoted in Acts 1:20 as referring to Judas, who
+17:12), fulfilling this Scripture. Verse 8 is quoted in [[ACT.1:20]] as referring to Judas, who
 
 loved cursing and rejected blessing (v. 17). He cursed Christ and rejected His blessing.
 
@@ -2012,17 +2012,17 @@ Son from the dead, and He now leads the Church in praise of the Blessed Trinity 
 
 Ps 109 is a prophecy concerning the Melchizedek Priesthood of the Lord Jesus
 
-Christ, which explains the true meaning of the Nativity. In Gn 14:18-20, Melchizedek is
+Christ, which explains the true meaning of the Nativity. In [[GEN.14:18]]-20, Melchizedek is
 
-called the king of Salem and priest of the Most High God (see also Heb 7:1). His
+called the king of Salem and priest of the Most High God (see also [[HEB.7:1]]). His
 
-priesthood was not based on genealogy (Heb 7:3). It was based on himself alone, for no
+priesthood was not based on genealogy ([[HEB.7:3]]). It was based on himself alone, for no
 
-one preceded him in priesthood, nor succeeded him (Heb 7:8). On this basis he was a type
+one preceded him in priesthood, nor succeeded him ([[HEB.7:8]]). On this basis he was a type
 
 of Christ, whose priesthood is based in His endless life, for He rose again from the dead
 
-(Heb 7:16).
+([[HEB.7:16]]).
 
 The Lord [the Father] said to my Lord [Christ], "Sit at My right hand" (v. 1). For
 
@@ -2032,7 +2032,7 @@ For He is begotten from the Father before all time (before the morning star, v. 
 
 is therefore His eternal Son (v. 3; see also Creed). He is the Son of David according to the
 
-flesh (Mt 1:1), but He is also the Lord of David according to His divinity (see also Mt
+flesh ([[MAT.1:1]]), but He is also the Lord of David according to His divinity (see also Mt
 
 22:41-45).
 
@@ -2112,7 +2112,7 @@ Christ's Baptism and our subsequent Christian baptism. For Christian baptism is 
 
 Baptism. He was baptized in the Jordan River for our sake. He was also the rock from
 
-which we drink the waters of salvation (v. 8; see also 1Co 10:1-11).
+which we drink the waters of salvation (v. 8; see also [[1CO.10:1]]-11).
 
 
 ### 114:1
@@ -2120,7 +2120,7 @@ which we drink the waters of salvation (v. 8; see also 1Co 10:1-11).
 
 Ps 114 speaks of the person who loves the Lord because the Lord loves him by
 
-hearing his prayers (v. 1; see also 1Jn 4:19). The love of God matures in this believer
+hearing his prayers (v. 1; see also [[1JN.4:19]]). The love of God matures in this believer
 
 through (1) answers to prayer (vv. 1, 2); (2) deliverance from the fear of death and the
 
@@ -2134,7 +2134,7 @@ the resurrection of the dead and the life of the world to come (vv. 8, 9; see al
 
 Ps 115 speaks about "the resurrection of the dead and the life of the world to come"
 
-(Creed). St. Paul interprets the psalm in this manner in 2Co 4:13-18. The psalmist
+(Creed). St. Paul interprets the psalm in this manner in [[2CO.4:13]]-18. The psalmist
 
 recognizes the futility of this life (every man is a liar, v. 2). But by the vision (ecstasy,
 
@@ -2154,9 +2154,9 @@ praise (v. 7) to God.
 ### 116:1
 *(anchor: PSA.116:1)*
 
-Ps 116 is the shortest of all the psalms. It is quoted by St. Paul in Rom 15:11 to show
+Ps 116 is the shortest of all the psalms. It is quoted by St. Paul in [[ROM.15:11]] to show
 
-that the Gentiles are included in the promises made to Israel (Rom 15:8). It also reveals
+that the Gentiles are included in the promises made to Israel ([[ROM.15:8]]). It also reveals
 
 that our salvation is based in the Lord's mercy and truth. God's mercy rules over those
 
@@ -2176,13 +2176,13 @@ reasons we are to give thanks to the Lord Jesus Christ for the salvation He prov
 
 through His sufferings, death, and Resurrection (v. 28). The following verses are some of
 
-the reasons for thanksgiving: (1) v. 6 (quoted in Heb 13:6) emphasizes deliverance from
+the reasons for thanksgiving: (1) v. 6 (quoted in [[HEB.13:6]]) emphasizes deliverance from
 
-the fear of man; (2) vv. 22, 23 (quoted in Mt 21:42; Mk 12:10, 11; Lk 20:17; Acts 4:11),
+the fear of man; (2) vv. 22, 23 (quoted in [[MAT.21:42]]; [[MRK.12:10]], [[MRK.12:11]]; [[LUK.20:17]]; [[ACT.4:11]]),
 
 show the Lord becoming the Chief Cornerstone of the Church; (3) v. 24 reveals the
 
-exceeding joy of the Resurrection; and (4) vv. 25, 26 (quoted in Mt 21:9; Mk 11:9; Lk
+exceeding joy of the Resurrection; and (4) vv. 25, 26 (quoted in [[MAT.21:9]]; [[MRK.11:9]]; Lk
 
 19:38) refer to the original Palm Sunday.
 
@@ -2310,13 +2310,13 @@ our victory of thanksgiving is through the Lord Jesus Christ (v. 14).
 
 Ps 140 and 141 are the psalms of the evening incense. These two psalms are both
 
-sung at Vespers. Ps 141:2 was sung in Israel, and now in the Church, during the offering
+sung at Vespers. [[PSA.141:2]] was sung in Israel, and now in the Church, during the offering
 
-of incense to God. As Rev 5:8 teaches, incense is the visible sign of the prayers of all
+of incense to God. As [[REV.5:8]] teaches, incense is the visible sign of the prayers of all
 
 God's people. The prophet Malachi foretold its continued use in every place, including in
 
-the offering of worship by the Gentiles (Mal 1:11). Incense was brought to Christ as a gift
+the offering of worship by the Gentiles ([[MAL.1:11]]). Incense was brought to Christ as a gift
 
 at His birth, and it has been used in the worship of the Church from her very beginning.
 

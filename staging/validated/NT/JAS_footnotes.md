@@ -32,7 +32,7 @@ but our response to them. Properly received, trials reveal where our hearts are.
 
 food for faith, which must grow or die. The godly reaction to trials is joy and perseverance
 
-(Mt 5:11, 12; Acts 5:41; Rom 5:2, 3; 8:18; Heb 12:11; 1Pt 2:19). Though unkind
+([[MAT.5:11]], [[MAT.5:12]]; [[ACT.5:41]]; [[ROM.5:2]], [[ROM.5:3]]; 8:18; [[HEB.12:11]]; [[1PE.2:19]]). Though unkind
 
 circumstances are from the evil one, to get angry at circumstances is to get angry at God,
 
@@ -60,7 +60,7 @@ stable in all its ways (v. 8). While James teaches the necessity of works, for h
 
 demonstrate a living faith. By contrast, doubting (v. 6) means questioning God. Doublemindedness (v. 8) speaks of one who has two loyalties, love of the world competing with
 
-love for God (see Mt 6:24). Such unstable life deadens our conscience and turns us aside
+love for God (see [[MAT.6:24]]). Such unstable life deadens our conscience and turns us aside
 
 from the truth.
 
@@ -70,7 +70,7 @@ from the truth.
 
 Note the reversal of the order of the world. The lowly (v. 9), those who have the
 
-least here, will have the most in the Kingdom of heaven (see 2:5; Mt 5:3; Lk 1:52), but
+least here, will have the most in the Kingdom of heaven (see 2:5; [[MAT.5:3]]; [[LUK.1:52]]), but
 
 they are tempted to be bitter and envious. The rich (v. 10) may perceive their goods as
 
@@ -84,7 +84,7 @@ passing, but they are tempted to be greedy and arrogant and may thereby lose tru
 
 We are to rejoice even in temptations. They reveal whether or not we are prepared for
 
-heaven (see 1Co 9:25).
+heaven (see [[1CO.9:25]]).
 
 
 ### 1:13
@@ -206,7 +206,7 @@ world for the sake of the kingdom, for they more easily see the emptiness of ear
 
 things. The rich (v. 6), on the other hand, tend to prize earthly things, desire material
 
-things, and even hurt others to gain them (see Lk 6:21-25; 1Co 1:26-28). They may mock
+things, and even hurt others to gain them (see [[LUK.6:21]]-25; [[1CO.1:26]]-28). They may mock
 
 Christians for the name by which (v. 7) they are called, the name invoked at baptism.
 
@@ -216,7 +216,7 @@ The corrective standard of judgment is perfect faith manifested in perfect works
 
 The royal law (v. 8), the law of liberty (v. 12; 1:25), is the second great commandment
 
-of Christ: love for neighbor (Jn 13:34). The standard by which we judge is that by which
+of Christ: love for neighbor ([[JOH.13:34]]). The standard by which we judge is that by which
 
 we will be judged; the mercy we give will be the mercy we receive. "God has shown mercy
 
@@ -242,7 +242,7 @@ dies. "Faith alone" (by itself, v. 17), static faith, does not save. We must nur
 
 in God and love for Him through our works. "Do not say you are the temple of the Lord,
 
-writes Jeremiah [see Jer 7:3]; nor should you say that faith alone in our Lord Jesus Christ
+writes Jeremiah [see [[JER.7:3]]]; nor should you say that faith alone in our Lord Jesus Christ
 
 can save you, for this is impossible unless you acquire love for Him through your works.
 
@@ -254,11 +254,11 @@ As for faith by itself, 'the devils also believe, and tremble'" (MaxCon).
 
 The faith of Abraham is living and active.
 
-(1) In Gn 12:1-3, when Abraham is 75 years old, he receives a call to forsake all and
+(1) In [[GEN.12:1]]-3, when Abraham is 75 years old, he receives a call to forsake all and
 
 follow God.
 
-(2) In Gn 15:6, when Abraham is almost 85, after he has proven his faith through years
+(2) In [[GEN.15:6]], when Abraham is almost 85, after he has proven his faith through years
 
 of renouncing his land, family, property, and privileges, God promises him that he will
 
@@ -268,15 +268,15 @@ ultimately regain everything he has given up. Abraham's faith in God's promise i
 
 with him, an OT liturgical and sacramental act.
 
-(3) In Gn 22:1-19, Abraham is at least 110. He has been tested for years concerning
+(3) In [[GEN.22:1]]-19, Abraham is at least 110. He has been tested for years concerning
 
 God's promise of a son. Now, after the covenant sacrament of initiation (circumcision)
 
 has been given in Gn 17, comes Abraham's supreme test: the sacrifice of Isaac, his son of
 
-promise (Gn 15:6).
+promise ([[GEN.15:6]]).
 
-James reveals that Gn 15:6 is fulfilled in Gn 22. This is a crucial lesson for us in our
+James reveals that [[GEN.15:6]] is fulfilled in Gn 22. This is a crucial lesson for us in our
 
 understanding of justification by faith. Neither Abraham's faith nor his justification is
 
@@ -292,9 +292,9 @@ living and active faith that saves!
 ### 2:26
 *(anchor: JAS.2:26)*
 
-This summary of the organic relationship of faith and works (see Mt 7:21; 25:31-46;
+This summary of the organic relationship of faith and works (see [[MAT.7:21]]; 25:31-46;
 
-Jn 14:15; Gal 5:6) shows that only God can save.
+[[JOH.14:15]]; [[GAL.5:6]]) shows that only God can save.
 
 
 ### 3:1-12
@@ -426,7 +426,7 @@ swearing by God or something that signifies God (as if swearing were a proof of
 
 truthfulness). We may swear when required to, but the solution to lack of trust is good
 
-faith--our integrity, truthfulness between a person and God. See Mt 5:33-37.
+faith--our integrity, truthfulness between a person and God. See [[MAT.5:33]]-37.
 
 
 ### 5:13-15
@@ -440,7 +440,7 @@ sacrament has a double purpose: not only for healing but for forgiveness also. T
 
 presbyter (shortened form: priest) is given certain gifts of the ministry at ordination, the
 
-laying on of hands (see 1Ti 4:14). Prayer is combined with olive oil--not only the primary
+laying on of hands (see [[1TI.4:14]]). Prayer is combined with olive oil--not only the primary
 
 medicine of ancient times, but also a symbol of the Holy Spirit in the Church--in a single
 
@@ -476,7 +476,7 @@ entire community, heard the confession, representing the people. What is not tau
 
 Scripture is a private confession only to God, which refuses to acknowledge sin to the
 
-community (1Jn 1:8, 10). Thus, the Church has effected healing through such works of
+community ([[1JN.1:8]], [[1JN.1:10]]). Thus, the Church has effected healing through such works of
 
 faith as confession of sins and the power of intercessory prayer.
 

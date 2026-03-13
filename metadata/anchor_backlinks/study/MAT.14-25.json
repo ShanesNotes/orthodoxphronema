@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.14:25",
+  "canon_uri": "canon/NT/MAT.md#MAT.14:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 686,
+      "raw_match": "[[MAT.14:25]]",
+      "reference_type": "wikilink",
+      "context": "Christ Himself walked on the Sea of Galilee by His own absolute power ([[MAT.14:25]]). Job"
+    }
+  ]
+}

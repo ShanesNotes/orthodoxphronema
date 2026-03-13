@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.10:35",
+  "canon_uri": "canon/NT/MAT.md#MAT.10:35",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1405,
+      "raw_match": "[[MAT.10:34]]-36",
+      "reference_type": "wikilink_range",
+      "context": "See [[MAT.10:34]]-36."
+    },
+    {
+      "source_file": "staging/validated/OT/MIC_footnotes.md",
+      "line_number": 176,
+      "raw_match": "[[MAT.10:35]]",
+      "reference_type": "wikilink",
+      "context": "This verse is quoted by Christ in [[MAT.10:35]], [[MAT.10:36]] and [[LUK.12:53]]."
+    }
+  ]
+}

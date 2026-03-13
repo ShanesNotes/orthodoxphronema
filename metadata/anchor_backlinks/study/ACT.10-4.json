@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ACT.10:4",
+  "canon_uri": "canon/NT/ACT.md#ACT.10:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 507,
+      "raw_match": "[[ACT.10:4]]",
+      "reference_type": "wikilink",
+      "context": "conversion of Cornelius, we learn that God takes note of our giving ([[ACT.10:4]])."
+    },
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 203,
+      "raw_match": "[[ACT.10:2]]-4",
+      "reference_type": "wikilink_range",
+      "context": "the temple? The answer is clear here, as it is in [[ACT.10:2]]-4, when the Lord hears the"
+    }
+  ]
+}

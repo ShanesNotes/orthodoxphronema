@@ -14,7 +14,7 @@ status: staging
 
 The Song of Songs: The title in the superlative indicates this song, in the biblical
 
-idiom, is the greatest of all songs, just as the Holy of Holies (Heb 9:3, RSV) means the
+idiom, is the greatest of all songs, just as the Holy of Holies ([[HEB.9:3]], RSV) means the
 
 holiest of all places. The author is Solomon, whose name means "Peace." This is
 
@@ -24,7 +24,7 @@ significant because the greatest song belongs to One who Himself is the "Prince 
 
 allegory. Christ Himself is portrayed by the Bridegroom (Is 62:5), and the song is that of
 
-the marriage of the Lamb (Rev 19:7-9). 
+the marriage of the Lamb ([[REV.19:7]]-9). 
 
 ### 1:2
 *(anchor: SNG.1:2)*
@@ -50,7 +50,7 @@ The Holy Spirit is Himself the ointment of the Lord. In the Nicene Creed, Christ
 
 "became incarnate of the Holy Spirit and the Virgin Mary" (whose name means "myrrh"). The smells of His ointments are the gifts of the Spirit. Likewise, the saints in their
 
-virtues have this fragrance of Christ, according to St. Paul (2Co 2:15-17). The young
+virtues have this fragrance of Christ, according to St. Paul ([[2CO.2:15]]-17). The young
 
 maidens are Christ's chosen ones, born again through holy baptism. 
 
@@ -61,11 +61,11 @@ The Church here is in the plural we because she is made up of a multitude of fai
 
 souls. This is a clear statement of the principle of synergy: we will run after Christ, something which He Himself helps us to do, for apart from Him we can do nothing (Jn
 
-15:5). However, we run wholeheartedly (1Co 9:24). The Church is the house of a king, a
+15:5). However, we run wholeheartedly ([[1CO.9:24]]). The Church is the house of a king, a
 
 vast palace, but those who enter into her mysteries are those who have been brought into
 
-the inner chamber (2Co 12:4). 
+the inner chamber ([[2CO.12:4]]). 
 
 ### 1:5
 *(anchor: SNG.1:5)*
@@ -78,7 +78,7 @@ shining on us with His grace" (GrgNy). Kedar means dark or black. Bedouin tents,
 
 tents of Kedar, are made from the hides of black goats. Kedar was the second son of
 
-Ishmael (Gn 25:13), and in other references Kedar is a place of trouble (Ps 119:5). The
+Ishmael ([[GEN.25:13]]), and in other references Kedar is a place of trouble ([[PSA.119:5]]). The
 
 curtains of Solomon, the curtains of the temple, were lavish in their opulence and
 
@@ -122,21 +122,21 @@ turtledoves symbolize fidelity, for they mate once for life and live in high and
 
 places. Turtledoves were the prescribed offering for the poor (Lv 5:7; 12:8). St. Joseph, with the Christ Child and His mother, brought two turtledoves to the temple at the time
 
-of purification after His birth (Lk 2:22-24). 
+of purification after His birth ([[LUK.2:22]]-24). 
 
 ### 1:12
 *(anchor: SNG.1:12)*
 
 This prophetic verse was fulfilled by Mary of Bethany's anointing of the Lord with
 
-spikenard for His burial while He was at the table (Mt 26:6, 7; Mk 14:3; Lk 7:37, 38; Jn
+spikenard for His burial while He was at the table ([[MAT.26:6]], [[MAT.26:7]]; [[MRK.14:3]]; [[LUK.7:37]], [[LUK.7:38]]; Jn
 
 12:3). 
 
 ### 1:13
 *(anchor: SNG.1:13)*
 
-This passage was fulfilled by Nicodemus and Joseph of Arimathea (Jn 19:39-41)
+This passage was fulfilled by Nicodemus and Joseph of Arimathea ([[JOH.19:39]]-41)
 
 when the Lord was anointed again after his death, covered with myrrh and bundled in
 
@@ -189,29 +189,29 @@ The Bride now speaks, exalting the Bridegroom. Of all the trees of the woods, th
 
 apple tree gives nourishment with sweet fruit. In Scripture, the apple is a symbol of favor
 
-(Dt 32:10; Ps 16:8; Zec 2:12). Christ the beloved far surpasses in glory the sons, the
+([[DEU.32:10]]; [[PSA.16:8]]; [[ZEC.2:12]]). Christ the beloved far surpasses in glory the sons, the
 
 righteous, for they become by grace what He is by nature. His commandments are sweet
 
-to those who thirst for the living Word (Ps 118:103). 
+to those who thirst for the living Word ([[PSA.118:103]]). 
 
 ### 2:4
 *(anchor: SNG.2:4)*
 
-The house of wine is the Church filled with the Holy Spirit (Eph 5:18-21). The Bride
+The house of wine is the Church filled with the Holy Spirit ([[EPH.5:18]]-21). The Bride
 
 desires God's love, to be overshadowed by the Presence of the Lord--not unlike the
 
 tabernacle in the Old Testament (Ex 40:35) and the Theotokos, the living tabernacle of
 
-the New Testament (Lk 1:35). 
+the New Testament ([[LUK.1:35]]). 
 
 ### 2:5
 *(anchor: SNG.2:5)*
 
 Cakes of raisins were given to the people of Israel after King David completed the
 
-burnt offerings and peace offerings to God before the ark of the covenant (2Kg 6:16-19; 1Ch 16:1-3, NKJV). They, together with the apples, symbolize the sweetness of God's
+burnt offerings and peace offerings to God before the ark of the covenant (2Kg 6:16-19; [[1CH.16:1]]-3, NKJV). They, together with the apples, symbolize the sweetness of God's
 
 grace bestowed on believers. 
 
@@ -220,16 +220,16 @@ grace bestowed on believers.
 
 This is the embrace of the tender and attentive lover. The right hand of God
 
-indicates His royal favor (Ps 15:11; 16:7; Heb 8:1). 
+indicates His royal favor ([[PSA.15:11]]; 16:7; [[HEB.8:1]]). 
 
 ### 2:7
 *(anchor: SNG.2:7)*
 
 The Bridegroom addresses the faithful as daughters of Jerusalem. The powers
 
-that assist us are the angelic hosts and even the saints. The field, according to the Lord, is the world (Mt 13:38) we live in. St. Paul takes the metaphor one step further, calling us
+that assist us are the angelic hosts and even the saints. The field, according to the Lord, is the world ([[MAT.13:38]]) we live in. St. Paul takes the metaphor one step further, calling us
 
-"God's field" (1Co 3:9). 
+"God's field" ([[1CO.3:9]]). 
 
 ### 2:8
 *(anchor: SNG.2:8)*
@@ -259,32 +259,32 @@ is the Church.
 ### 2:11
 *(anchor: SNG.2:11)*
 
-St. Paul writes similarly to the Christians in Rome (Rom 13:12). 
+St. Paul writes similarly to the Christians in Rome ([[ROM.13:12]]). 
 
 ### 2:12
 *(anchor: SNG.2:12)*
 
 The flowers tell us spring (a symbol of resurrection) is here. The Lord has
 
-commanded a time of pruning that we might bear more spiritual fruit (Jn 15:2). 
+commanded a time of pruning that we might bear more spiritual fruit ([[JOH.15:2]]). 
 
 ### 2:13
 *(anchor: SNG.2:13)*
 
-The fig tree is a figure of Israel, God's people before the Incarnation (Hos 9:10; Mt
+The fig tree is a figure of Israel, God's people before the Incarnation ([[HOS.9:10]]; Mt
 
-21:19-21; Mk 11:13, 20, 21; Lk 13:6, 7). But the figs are young and immature, like those
+21:19-21; [[MRK.11:13]], [[MRK.11:20]], [[MRK.11:21]]; [[LUK.13:6]], [[LUK.13:7]]). But the figs are young and immature, like those
 
-believers who have not grown in their faith (1Co 3:1). The true vine is Christ (Jn 15:1-5), and the vines are the Church, the New Israel. We are the fragrance of Christ to God the
+believers who have not grown in their faith ([[1CO.3:1]]). The true vine is Christ ([[JOH.15:1]]-5), and the vines are the Church, the New Israel. We are the fragrance of Christ to God the
 
-Father (2Co 2:15). 
+Father ([[2CO.2:15]]). 
 
 ### 2:14
 *(anchor: SNG.2:14)*
 
-And come: The Lord commands the sleeper to arise and join Him (Eph 5:14). The
+And come: The Lord commands the sleeper to arise and join Him ([[EPH.5:14]]). The
 
-dove is a symbol of fidelity and chastity. The rock is Christ (1Co 10:4). It is the voice of
+dove is a symbol of fidelity and chastity. The rock is Christ ([[1CO.10:4]]). It is the voice of
 
 Christ that is heard in the Church. 
 
@@ -293,7 +293,7 @@ Christ that is heard in the Church.
 
 The Bridegroom belongs to the Bride and no other. The Bride belongs to the
 
-Bridegroom and no other. St. Paul writes of this mystery (Eph 5:32), comparing the
+Bridegroom and no other. St. Paul writes of this mystery ([[EPH.5:32]]), comparing the
 
 relationship between Christ and the Church with marriage. 
 
@@ -302,7 +302,7 @@ relationship between Christ and the Church with marriage.
 
 This is the dawning of the eternal day, and the shadows of ignorance and error
 
-depart in the radiance of Christ's glory (Rom 13:12). 
+depart in the radiance of Christ's glory ([[ROM.13:12]]). 
 
 ### 3:2
 *(anchor: SNG.3:2)*
@@ -345,7 +345,7 @@ likened to the vapor of incense, namely, because she worships" (Theod).
 
 These warriors hold a sword, which speaks of the living and written Word of God
 
-(Eph 6:17, 18). 
+([[EPH.6:17]], [[EPH.6:18]]). 
 
 ### 3:9
 *(anchor: SNG.3:9)*
@@ -361,12 +361,12 @@ Solomon is a type of Christ. The crown with which His mother, the Theotokos and
 
 Ever-Virgin Mary, crowned him is His immaculate flesh, which He assumed from her
 
-and brought to the right hand of the Father (Heb 2:9; 8:1). In the Orthodox wedding, crowns are placed on the heads of both bride and groom. 
+and brought to the right hand of the Father ([[HEB.2:9]]; 8:1). In the Orthodox wedding, crowns are placed on the heads of both bride and groom. 
 
 ### 4:1
 *(anchor: SNG.4:1)*
 
-The veil speaks of the hidden mysteries of God in the Church. According to Scripture, Mount Gilead had exceptionally good pasture (Nm 32:1), again looking ahead to the
+The veil speaks of the hidden mysteries of God in the Church. According to Scripture, Mount Gilead had exceptionally good pasture ([[NUM.32:1]]), again looking ahead to the
 
 Church. 
 
@@ -375,7 +375,7 @@ Church.
 
 The bride's teeth, made clean by washing (baptism and repentance), are the gateway
 
-to receiving nourishment, the meat or "solid food" of the Word (1Co 3:2). The bride is
+to receiving nourishment, the meat or "solid food" of the Word ([[1CO.3:2]]). The bride is
 
 fruitful, bearing twins. 
 
@@ -384,7 +384,7 @@ fruitful, bearing twins.
 
 In the Church, our lips proclaim the Gospel of Christ in a manner of speech which
 
-is pleasant. St. Paul calls this "speaking the truth in love" (Eph 4:15). 
+is pleasant. St. Paul calls this "speaking the truth in love" ([[EPH.4:15]]). 
 
 ### 4:4
 *(anchor: SNG.4:4)*
@@ -393,7 +393,7 @@ The tower of David would be the impregnable fortress in David's Jerusalem. The
 
 Church is the New Jerusalem, and this fortress is the immovable confession of Christ, the
 
-Gospel, against which even hell itself has no power (Mt 16:16-18). A thousand shields
+Gospel, against which even hell itself has no power ([[MAT.16:16]]-18). A thousand shields
 
 refers to small bucklers, a piece of defensive armor, speaking of God's protection of those
 
@@ -411,18 +411,18 @@ Church.
 
 The dawning of the eternal day of the Lord will mean that the shadows of sin and
 
-death will depart from us forever (see Rev 21:3-5). The mountain of myrrh is likely a
+death will depart from us forever (see [[REV.21:3]]-5). The mountain of myrrh is likely a
 
 reference to the fragrance of God's eternal Kingdom and the presence there of holy
 
-incense (Rev 8:3, 4). 
+incense ([[REV.8:3]], [[REV.8:4]]). 
 
 ### 4:7
 *(anchor: SNG.4:7)*
 
 The Bridegroom calls his chosen Bride beautiful and also extols her virtues, saying
 
-that she is without blemish, as emphasized by St. Paul (Eph 5:26, 27). 
+that she is without blemish, as emphasized by St. Paul ([[EPH.5:26]], [[EPH.5:27]]). 
 
 ### 4:8
 *(anchor: SNG.4:8)*
@@ -449,14 +449,14 @@ by His love for the Church. His calling His Bride sister means Christ is our bro
 
 The garments of the Church, and therefore of the saints, are her righteous deeds
 
-(Rev 19:8, 14), better than all spices, for they fill the world with the fragrance of Christ
+([[REV.19:8]], [[REV.19:14]]), better than all spices, for they fill the world with the fragrance of Christ
 
-Himself (2Co 2:14, 15). 
+Himself ([[2CO.2:14]], [[2CO.2:15]]). 
 
 ### 4:11
 *(anchor: SNG.4:11)*
 
-Milk signifies teachings acceptable for children and immature Christians (Heb 5:12). Honey signifies wisdom (Pr 24:13), food for the mature believer. 
+Milk signifies teachings acceptable for children and immature Christians ([[HEB.5:12]]). Honey signifies wisdom (Pr 24:13), food for the mature believer. 
 
 ### 4:12-15
 *(anchor: SNG.4:12)*
@@ -465,7 +465,7 @@ In this passage, the bride is called a garden, which speaks of (1) the beauty of
 
 the plants and the fountain and (2) the fragrance of the fruit. The living and
 
-rushing water (v. 15) is a phrase used by Jesus (Jn 7:38), speaking of the work of the
+rushing water (v. 15) is a phrase used by Jesus ([[JOH.7:38]]), speaking of the work of the
 
 Holy Spirit in believers. St. Gregory of Nyssa, in urging Christians to seek out godly
 
@@ -479,16 +479,16 @@ far as is possible, seek for 'a garden enclosed, a fountain sealed.'"
 
 The wind being called upon to blow upon the garden can be likened to the Holy
 
-Spirit, the strong wind that blew on the Apostles beginning in the upper room (Acts 2:2). 
+Spirit, the strong wind that blew on the Apostles beginning in the upper room ([[ACT.2:2]]). 
 
 ### 5:1
 *(anchor: SNG.5:1)*
 
 Milk and honey together signified the overabundance of delights in the Promised
 
-Land (Ex 3:8, 17; 13:5; 33:3; Lv 20:24; Jos 5:6; Jer 11:5, 39:22; Ezk 20:6, 15), but bread
+Land ([[EXO.3:8]], [[EXO.3:17]]; 13:5; 33:3; Lv 20:24; [[JOS.5:6]]; Jer 11:5, 39:22; [[EZK.20:6]], [[EZK.20:15]]), but bread
 
-and wine comprise the image of the marriage supper of the Lamb (Rev 19:9), the Holy
+and wine comprise the image of the marriage supper of the Lamb ([[REV.19:9]]), the Holy
 
 Eucharist. In the Church, friends and brothers are invited to eat and drink. 
 
@@ -499,18 +499,18 @@ The Bridegroom knocks at the door of the heart when He says, "Behold, I stand at
 
 the door and knock. If anyone hears My voice and opens the door, I will come in to him
 
-and dine with him, and he with Me" (Rev 3:20). Although omnipotent, like a gentle and
+and dine with him, and he with Me" ([[REV.3:20]]). Although omnipotent, like a gentle and
 
 unyielding lover the Lord enters only when invited. "If they open to Him, He enters in, but if they delay and will not, He departs from them" (AthanG). 
 
 ### 5:3
 *(anchor: SNG.5:3)*
 
-The Lord washed the feet of His disciples (Jn 13:5) after they returned from
+The Lord washed the feet of His disciples ([[JOH.13:5]]) after they returned from
 
 preaching, showing that even the greatest saints cannot keep completely free of sin
 
-without His help (Jn 15:5). 
+without His help ([[JOH.15:5]]). 
 
 ### 5:5
 *(anchor: SNG.5:5)*
@@ -519,14 +519,14 @@ The Bride arose to open the door for her beloved. This is a powerful image of th
 
 Church working together with God to do His will. St. Paul is bold to say, "We are God's
 
-fellow workers" (see text and notes, 1Co 3:9). 
+fellow workers" (see text and notes, [[1CO.3:9]]). 
 
 ### 5:6
 *(anchor: SNG.5:6)*
 
 I . . . did not find him is a solemn reminder that our Bridegroom cannot be found
 
-unless He chooses to reveal Himself (see Mt 16:15-17). 
+unless He chooses to reveal Himself (see [[MAT.16:15]]-17). 
 
 ### 5:7
 *(anchor: SNG.5:7)*
@@ -537,7 +537,7 @@ the New Jerusalem. They guard the Church by the true teaching of the doctrine of
 
 and protect the city from charlatans, Christ-peddlers, heretics, and schismatics. The veil
 
-remains on those who know only the Mosaic Law (2Co 3:14-18). 
+remains on those who know only the Mosaic Law ([[2CO.3:14]]-18). 
 
 ### 5:10-16
 *(anchor: SNG.5:10)*
@@ -546,19 +546,19 @@ In the richness of poetic language, the bride extols the beauty and grace of her
 
 beloved. Applying these words to Christ, the Bridegroom of the Church, we see that He
 
-is: (1) a shining . . . light (v. 10), "the light of the world" (Jn 8:12); (2) chosen from
+is: (1) a shining . . . light (v. 10), "the light of the world" ([[JOH.8:12]]); (2) chosen from
 
 countless thousands (v. 10): "Therefore, peoples shall give thanks to you / Forever and
 
-unto ages of ages" (Ps 44:18); (3) like refined gold (v. 11), "on His head a golden crown"
+unto ages of ages" ([[PSA.44:18]]); (3) like refined gold (v. 11), "on His head a golden crown"
 
-(Rev 14:14); (4) seen with eyes . . . like . . . doves (v. 12): "The eyes of the Lord are in
+([[REV.14:14]]); (4) seen with eyes . . . like . . . doves (v. 12): "The eyes of the Lord are in
 
 every place" (Pr 15:3); (5) revealed with glorious cheeks and lips (v. 13): "His voice as
 
-the sound of many waters" (Rev 1:15); (6) beautiful in hands and stomach (v. 14): "Then Jesus put out His hand and touched him" (Mt 8:3); (7) strong of legs and feet (v. 15): "His feet were like fine brass" (Rev 1:15); (8) altogether desirable (v. 16), "more
+the sound of many waters" ([[REV.1:15]]); (6) beautiful in hands and stomach (v. 14): "Then Jesus put out His hand and touched him" ([[MAT.8:3]]); (7) strong of legs and feet (v. 15): "His feet were like fine brass" ([[REV.1:15]]); (8) altogether desirable (v. 16), "more
 
-beautiful than the sons of men" (Ps 44:3). 
+beautiful than the sons of men" ([[PSA.44:3]]). 
 
 ### 6:1
 *(anchor: SNG.6:1)*
@@ -575,7 +575,7 @@ His garden is the Church.
 ### 6:5
 *(anchor: SNG.6:5)*
 
-The Bridegroom warns His Bride against trying to somehow see His Divine Essence, for no one shall see Him and live (Ex 33:20). The angels, even the mighty seraphim, veil
+The Bridegroom warns His Bride against trying to somehow see His Divine Essence, for no one shall see Him and live ([[EXO.33:20]]). The angels, even the mighty seraphim, veil
 
 their faces before His glory (Is 6:2). 
 
@@ -603,22 +603,22 @@ brand of revelation, salvation, or enlightenment, there is but one Bride of Chri
 
 The Bride, the Church, is beautiful as the moon because she is illumined by the
 
-Sun of Righteousness (Mal 3:20) and reflects the light of His glory. 
+Sun of Righteousness ([[MAL.3:20]]) and reflects the light of His glory. 
 
 ### 6:11
 *(anchor: SNG.6:11)*
 
 Here, the Bride goes down to the orchard when she inspects the fruits that grow
 
-there, an act of self-examination. The Church is called to examine her spiritual progress, watching for those who still need assistance in bringing forth virtue (see 2Co 13:5). On
+there, an act of self-examination. The Church is called to examine her spiritual progress, watching for those who still need assistance in bringing forth virtue (see [[2CO.13:5]]). On
 
 the subject of married love, King Solomon wrote concerning one's wife, "Rejoice together
 
 with the wife of your youth" (Pr 5:18). The wife gives her body to her husband, and he
 
-gives himself to her (1Co 7:4). This is a powerful picture of our intimacy with God at the
+gives himself to her ([[1CO.7:4]]). This is a powerful picture of our intimacy with God at the
 
-Holy Eucharist, for marriage is an icon of the Church (Eph 5:25-28). 
+Holy Eucharist, for marriage is an icon of the Church ([[EPH.5:25]]-28). 
 
 ### 7:1
 *(anchor: SNG.7:1)*
@@ -627,7 +627,7 @@ Shulamite means "peace," the feminine form of Solomon. The Church, replete with
 
 Gentiles of every nation, beckons with fervor the Shulamite, who represents the Jewish
 
-people, and calls her to return to the knowledge of her Redeemer (see Rom 11:28, 29). 
+people, and calls her to return to the knowledge of her Redeemer (see [[ROM.11:28]], [[ROM.11:29]]). 
 
 ### 7:2-10
 *(anchor: SNG.7:2)*
@@ -636,7 +636,7 @@ Just as the Bride praised the beauty of the Bridegroom (5:10-16), so here the
 
 Bridegroom extols the beauty of the Bride. The beauty of her feet (v. 2) calls to mind the
 
-beauty of the feet of those who preach the gospel of peace (Is 52:7; Rom 10:15). The
+beauty of the feet of those who preach the gospel of peace (Is 52:7; [[ROM.10:15]]). The
 
 nose (v. 5) is the organ of scent, the most discriminating of the senses and the one most
 
@@ -646,7 +646,7 @@ Church. The king is taken with the head and the hair of his bride (v. 6), and al
 
 her stature and her breasts (v. 8). St. Paul teaches that "Christ also loved the church and
 
-gave Himself for her" (Eph 5:25). At the marriage of Cana, Jesus saved the good wine (v. 10) until last (Jn 2:10). All of these things are symbolic of the love between husband and
+gave Himself for her" ([[EPH.5:25]]). At the marriage of Cana, Jesus saved the good wine (v. 10) until last ([[JOH.2:10]]). All of these things are symbolic of the love between husband and
 
 wife or between Christ and the Church. 
 
@@ -662,7 +662,7 @@ to the Bridegroom and no other.
 
 The Bride beckons the Bridegroom that they may go forth together into the
 
-field. Jesus taught, "The field is the world" (Mt 13:38). This, together with words like
+field. Jesus taught, "The field is the world" ([[MAT.13:38]]). This, together with words like
 
 villages (v. 12), rise early (v. 13), the vine has flowered (v. 13), aroma (v. 14) and
 
@@ -679,18 +679,18 @@ could nurse at my mother's breasts as a veiled reference to the Incarnation of t
 
 of God. For the Lord addressed His followers, saying, "Here are My mother and My
 
-brothers" (Mk 3:34). St. Athanasius, in his Paschal Letter of 329, writes concerning 8:1, "The God of all, the Maker of times and seasons, who knows our affairs better than we do
+brothers" ([[MRK.3:34]]). St. Athanasius, in his Paschal Letter of 329, writes concerning 8:1, "The God of all, the Maker of times and seasons, who knows our affairs better than we do
 
 . . . so also does He send [Christ] not unseasonably, but seasonably." St. Paul teaches that
 
-Christ came in "the fullness of the time" (Gal 4:4). 
+Christ came in "the fullness of the time" ([[GAL.4:4]]). 
 
 ### 8:2
 *(anchor: SNG.8:2)*
 
-My mother's house is symbolic of the "house of the Lord" (Ps 22:6). God's house
+My mother's house is symbolic of the "house of the Lord" ([[PSA.22:6]]). God's house
 
-has "many mansions" or dwellings (Jn 14:2), and these chambers are the intended home
+has "many mansions" or dwellings ([[JOH.14:2]]), and these chambers are the intended home
 
 of all humanity. In the spiced wine we see in mystery the mixed wine consecrated in the
 
@@ -699,7 +699,7 @@ Eucharist.
 ### 8:5
 *(anchor: SNG.8:5)*
 
-Jesus told His disciples, "the fields . . . are already white for harvest" (Jn 4:35), a
+Jesus told His disciples, "the fields . . . are already white for harvest" ([[JOH.4:35]]), a
 
 picture of the Gentile Church. St. Ambrose supports this understanding, seeing she who
 
@@ -725,7 +725,7 @@ so that, if it is possible, all His beauty may be represented in us. . . . Chris
 
 Storms, water, and surging rivers cannot quench "the love of God which is in
 
-Christ Jesus our Lord" (Rom 8:38, 39). 
+Christ Jesus our Lord" ([[ROM.8:38]], [[ROM.8:39]]). 
 
 ### 8:8
 *(anchor: SNG.8:8)*
@@ -741,7 +741,7 @@ the fledgling Gentile Church, initially small in number but with potential for g
 
 , 10 The wall is the bride, the Church, and Ambrose also sees it as the believer's soul. In either case, the goal is to build upon what is there. The Lord calls Himself a door (Jn
 
-10:9), for we cannot enter the Kingdom of heaven but through Him (Jn 14:6). Neither can
+10:9), for we cannot enter the Kingdom of heaven but through Him ([[JOH.14:6]]). Neither can
 
 we know Him fully apart from the Church; hence the Bride is herself likened to a door. Cedar panels are both aromatic and pleasing to the sight. 
 
@@ -773,4 +773,4 @@ Church to give heed to her voice. Many see escape, my beloved as a prophetic
 
 encouragement of the Ascension, after which Christ will come again to receive us to
 
-Himself (Jn 14:3).
+Himself ([[JOH.14:3]]).

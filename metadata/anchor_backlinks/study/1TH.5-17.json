@@ -1,0 +1,37 @@
+{
+  "anchor_id": "1TH.5:17",
+  "canon_uri": "canon/NT/1TH.md#1TH.5:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 2441,
+      "raw_match": "[[1TH.5:16]]-18",
+      "reference_type": "wikilink_range",
+      "context": "described (17:22-37; see also [[1TH.5:16]]-18 and note)."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 981,
+      "raw_match": "[[1TH.5:17]]",
+      "reference_type": "wikilink",
+      "context": "are necessary. Therefore, we pray always ([[LUK.18:1]]) and without ceasing ([[1TH.5:17]])."
+    },
+    {
+      "source_file": "staging/validated/NT/PHP_footnotes.md",
+      "line_number": 303,
+      "raw_match": "[[1TH.5:16]]-18",
+      "reference_type": "wikilink_range",
+      "context": "perseverance in daily prayers (see [[1TH.5:16]]-18)."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1311,
+      "raw_match": "[[1TH.5:17]]",
+      "reference_type": "wikilink",
+      "context": "thereby living out the exhortation of St. Paul in [[1TH.5:17]] to \"pray without ceasing.\" Also,"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.5:3",
+  "canon_uri": "canon/NT/MAT.md#MAT.5:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JAS_footnotes.md",
+      "line_number": 73,
+      "raw_match": "[[MAT.5:3]]",
+      "reference_type": "wikilink",
+      "context": "least here, will have the most in the Kingdom of heaven (see 2:5; [[MAT.5:3]]; [[LUK.1:52]]), but"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[MAT.5:3]]",
+      "reference_type": "wikilink",
+      "context": "spirit (v. 4b; see also [[MAT.5:3]]). (5) Trusting in the Lord helps one love virtue and hate vice"
+    }
+  ]
+}

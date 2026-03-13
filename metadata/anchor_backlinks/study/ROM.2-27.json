@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ROM.2:27",
+  "canon_uri": "canon/NT/ROM.md#ROM.2:27",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1390,
+      "raw_match": "[[ROM.2:26]]-29",
+      "reference_type": "wikilink_range",
+      "context": "Covenants (see [[ROM.2:26]]-29)."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "PSA.50:19",
+  "canon_uri": "canon/OT/PSA.md#PSA.50:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 37,
+      "raw_match": "[[PSA.50:19]]",
+      "reference_type": "wikilink",
+      "context": "\"a broken spirit, / A broken and humbled heart\" ([[PSA.50:19]])."
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1354,
+      "raw_match": "[[PSA.50:19]]",
+      "reference_type": "wikilink",
+      "context": "([[PSA.50:19]])."
+    }
+  ]
+}

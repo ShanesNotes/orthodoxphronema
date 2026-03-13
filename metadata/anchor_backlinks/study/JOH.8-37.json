@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.8:37",
+  "canon_uri": "canon/NT/JOH.md#JOH.8:37",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 423,
+      "raw_match": "[[JOH.8:31]]-47",
+      "reference_type": "wikilink_range",
+      "context": "compromising in their beliefs ([[JOH.8:31]]-47); or Jews who refused to embrace the Messiah"
+    }
+  ]
+}

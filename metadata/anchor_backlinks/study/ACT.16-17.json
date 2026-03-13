@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ACT.16:17",
+  "canon_uri": "canon/NT/ACT.md#ACT.16:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/3MA_footnotes.md",
+      "line_number": 642,
+      "raw_match": "[[ACT.16:17]]",
+      "reference_type": "wikilink",
+      "context": "frequently used in localities where non-Jews abound (see [[GEN.14:19]]-22; [[DAN.3:26]]; [[MRK.5:7]]; [[LUK.8:28]]; [[ACT.16:17]])."
+    }
+  ]
+}

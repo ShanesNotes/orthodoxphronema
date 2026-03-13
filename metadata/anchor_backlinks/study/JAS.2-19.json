@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JAS.2:19",
+  "canon_uri": "canon/NT/JAS.md#JAS.2:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 123,
+      "raw_match": "[[JAS.2:19]]",
+      "reference_type": "wikilink",
+      "context": "applaud Him whose commandments we do not keep\" (Bede; see also [[LUK.9:23]]; [[JAS.2:19]])."
+    },
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 657,
+      "raw_match": "[[JAS.2:14]]-24",
+      "reference_type": "wikilink_range",
+      "context": "this\" (JohnChr). See also [[JAS.2:14]]-24."
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 493,
+      "raw_match": "[[JAS.2:19]]",
+      "reference_type": "wikilink",
+      "context": "\"faithfulness.\" Faith is more than the conviction that something is true ([[JAS.2:19]])."
+    }
+  ]
+}

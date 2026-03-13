@@ -1,0 +1,51 @@
+{
+  "anchor_id": "2CO.3:18",
+  "canon_uri": "canon/NT/2CO.md#2CO.3:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 281,
+      "raw_match": "[[2CO.3:18]]",
+      "reference_type": "wikilink",
+      "context": "\"transformed into the same image from glory to glory\" ([[2CO.3:18]]). When we see Him as"
+    },
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 295,
+      "raw_match": "[[2CO.3:18]]",
+      "reference_type": "wikilink",
+      "context": "unveiled face\" in [[1CO.13:12]]; [[2CO.3:18]])."
+    },
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 543,
+      "raw_match": "[[2CO.3:18]]",
+      "reference_type": "wikilink",
+      "context": "face. This is a preview of the glory all believers will share in the age to come ([[2CO.3:18]])."
+    },
+    {
+      "source_file": "staging/validated/NT/TIT_footnotes.md",
+      "line_number": 141,
+      "raw_match": "[[2CO.3:16]]-18",
+      "reference_type": "wikilink_range",
+      "context": "Christ (see [[2CO.3:16]]-18)."
+    },
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 531,
+      "raw_match": "[[2CO.3:18]]",
+      "reference_type": "wikilink",
+      "context": "Righteousness, and we are to be \"conformed to [His] image\" ([[ROM.8:29]]; [[2CO.3:18]]). The"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 540,
+      "raw_match": "[[2CO.3:14]]-18",
+      "reference_type": "wikilink_range",
+      "context": "remains on those who know only the Mosaic Law ([[2CO.3:14]]-18)."
+    }
+  ]
+}

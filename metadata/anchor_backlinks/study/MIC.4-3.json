@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MIC.4:3",
+  "canon_uri": "canon/OT/MIC.md#MIC.4:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 74,
+      "raw_match": "[[MIC.4:1]]-4",
+      "reference_type": "wikilink_range",
+      "context": "the Gentiles (see [[MIC.4:1]]-4)."
+    }
+  ]
+}

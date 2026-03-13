@@ -1,0 +1,30 @@
+{
+  "anchor_id": "GAL.5:19",
+  "canon_uri": "canon/NT/GAL.md#GAL.5:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1CO_footnotes.md",
+      "line_number": 581,
+      "raw_match": "[[GAL.5:19]]-21",
+      "reference_type": "wikilink_range",
+      "context": "6:9, 10 As to those who will not inherit the kingdom of God, see 15:50; [[GAL.5:19]]-21;"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 334,
+      "raw_match": "[[GAL.5:18]]-21",
+      "reference_type": "wikilink_range",
+      "context": "was a type of uncleanness relating to both soul and body. [[ROM.1:23]]-32; [[GAL.5:18]]-21; Eph"
+    },
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 780,
+      "raw_match": "[[GAL.5:19]]-23",
+      "reference_type": "wikilink_range",
+      "context": "he knows how to be quiet. Self-control is a \"fruit of the Spirit\" ([[GAL.5:19]]-23). But the"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.1:21",
+  "canon_uri": "canon/NT/JOH.md#JOH.1:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1741,
+      "raw_match": "[[JOH.1:21]]",
+      "reference_type": "wikilink",
+      "context": "John does not ascribe to himself the role of Elijah ([[JOH.1:21]]), but Jesus does."
+    }
+  ]
+}

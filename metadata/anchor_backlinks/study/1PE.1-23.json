@@ -1,0 +1,16 @@
+{
+  "anchor_id": "1PE.1:23",
+  "canon_uri": "canon/NT/1PE.md#1PE.1:23",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 237,
+      "raw_match": "[[1PE.1:23]]",
+      "reference_type": "wikilink",
+      "context": "The word (Gr. logos) of God is the Son ([[JOH.1:1]]; [[HEB.4:12]]; [[1PE.1:23]]; [[1JN.1:1]]; Rev"
+    }
+  ]
+}

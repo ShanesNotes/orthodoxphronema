@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.14:14",
+  "canon_uri": "canon/NT/JOH.md#JOH.14:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1641,
+      "raw_match": "[[JOH.14:14]]",
+      "reference_type": "wikilink",
+      "context": "images of life and symbolize the gift of the Holy Spirit (see [[JOH.14:13]], [[JOH.14:14]]; [[JAS.4:3]])."
+    },
+    {
+      "source_file": "staging/validated/OT/1ES_footnotes.md",
+      "line_number": 183,
+      "raw_match": "[[JOH.14:14]]",
+      "reference_type": "wikilink",
+      "context": "things to those who ask according to His will ([[MAT.21:22]]; [[JOH.14:14]]; [[1JN.5:15]])."
+    }
+  ]
+}

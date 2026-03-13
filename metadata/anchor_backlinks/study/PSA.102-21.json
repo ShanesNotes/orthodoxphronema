@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.102:21",
+  "canon_uri": "canon/OT/PSA.md#PSA.102:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 877,
+      "raw_match": "[[PSA.102:20]]-22",
+      "reference_type": "wikilink_range",
+      "context": "whole cosmos is called to serve) and to pray without ceasing ([[PSA.102:20]]-22; 148; 150; 1Th"
+    }
+  ]
+}

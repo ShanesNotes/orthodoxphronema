@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1TH.5:18",
+  "canon_uri": "canon/NT/1TH.md#1TH.5:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 2441,
+      "raw_match": "[[1TH.5:16]]-18",
+      "reference_type": "wikilink_range",
+      "context": "described (17:22-37; see also [[1TH.5:16]]-18 and note)."
+    },
+    {
+      "source_file": "staging/validated/NT/PHP_footnotes.md",
+      "line_number": 303,
+      "raw_match": "[[1TH.5:16]]-18",
+      "reference_type": "wikilink_range",
+      "context": "perseverance in daily prayers (see [[1TH.5:16]]-18)."
+    }
+  ]
+}

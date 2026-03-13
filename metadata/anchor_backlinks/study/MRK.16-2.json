@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.16:2",
+  "canon_uri": "canon/NT/MRK.md#MRK.16:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 463,
+      "raw_match": "[[MRK.16:2]]",
+      "reference_type": "wikilink",
+      "context": "week, v. 1; see also [[MAT.28:1]]; [[MRK.16:2]]; [[LUK.24:1]]; [[JOH.20:1]])."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "anchor_id": "MRK.13:22",
+  "canon_uri": "canon/NT/MRK.md#MRK.13:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2261,
+      "raw_match": "[[MRK.13:22]]",
+      "reference_type": "wikilink",
+      "context": "Spirits of demons, performing signs are attested by our Lord ([[MRK.13:22]]; see"
+    },
+    {
+      "source_file": "staging/validated/OT/JER_footnotes.md",
+      "line_number": 1490,
+      "raw_match": "[[MRK.13:22]]",
+      "reference_type": "wikilink",
+      "context": "Just as the Scriptures speak of \"false christs and false prophets\" ([[MRK.13:22]]), here we"
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 663,
+      "raw_match": "[[MRK.13:7]]-27",
+      "reference_type": "wikilink_range",
+      "context": "delivery of His people, and the establishment of a secure, peaceful land (see Is 66:15-23; Ezk 38-40; Joel 4:9-21; [[MRK.13:7]]-27; Rev 20-22). In the New Testament, this is to be"
+    }
+  ]
+}

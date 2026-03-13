@@ -1,0 +1,23 @@
+{
+  "anchor_id": "HOS.9:10",
+  "canon_uri": "canon/OT/HOS.md#HOS.9:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 473,
+      "raw_match": "[[HOS.9:10]]",
+      "reference_type": "wikilink",
+      "context": "one fig, condemns it. In Scripture a fig tree is often a symbol of Israel ([[HOS.9:10]]). Her"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 274,
+      "raw_match": "[[HOS.9:10]]",
+      "reference_type": "wikilink",
+      "context": "The fig tree is a figure of Israel, God's people before the Incarnation ([[HOS.9:10]]; Mt"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.15:24",
+  "canon_uri": "canon/OT/NUM.md#NUM.15:24",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 290,
+      "raw_match": "[[NUM.15:22]]-26",
+      "reference_type": "wikilink_range",
+      "context": "(see also [[NUM.15:22]]-26). This typified the Church in the new covenant. Why? Because"
+    }
+  ]
+}

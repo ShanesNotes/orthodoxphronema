@@ -16,11 +16,11 @@ Like Solomon, Christ will be established and magnified (v. 1); and like the king
 
 before the old altar (vv. 3-6), Christ will break bread with His disciples for the last time
 
-on earth (Lk 24:33-42). He will impart to them His own wisdom and understanding
+on earth ([[LUK.24:33]]-42). He will impart to them His own wisdom and understanding
 
-(v. 10; Lk 24:45). He will bear witness (v. 13) to them of His divinity. Then, He will
+(v. 10; [[LUK.24:45]]). He will bear witness (v. 13) to them of His divinity. Then, He will
 
-ascend (Lk 24:50-53) into the heavenly Jerusalem (v. 13; Heb 12:22), bringing all
+ascend ([[LUK.24:50]]-53) into the heavenly Jerusalem (v. 13; [[HEB.12:22]]), bringing all
 
 creation with Him. 
 
@@ -56,25 +56,25 @@ or idols--like the golden calf. The carved (v. 7) and woven (v. 14) icons in the
 
 foreshadow icons in the Orthodox Church. Under the old covenant, all images in the
 
-temple are earthly except the cherubim (v. 7; see Is 37:6; Heb 9:5), which signify God's
+temple are earthly except the cherubim (v. 7; see Is 37:6; [[HEB.9:5]]), which signify God's
 
 inconceivable majesty. When Christ brings heaven and earth together in His Church, the
 
 things of heaven are more clearly depicted. Until Christ comes again, icons will be used in
 
-worship as windows into heaven, for as St. Paul writes, "For now we see in a mirror, dimly, but then face to face" (1Co 13:12). 3:8
+worship as windows into heaven, for as St. Paul writes, "For now we see in a mirror, dimly, but then face to face" ([[1CO.13:12]]). 3:8
 
 Christ will fulfill the most holy place when He brings earth to heaven. 4:2-6 Christ, who is called the "lily of the valleys" (v. 5; SS 2:1), is also the sea of bronze; and the Holy Spirit is represented by the water. All who are cleansed in the basins or
 
 lavers of baptism have identified themselves with Christ's death, and have been raised up
 
-in Him into newness of life; partaking indeed of "living water" (Jn 4:10), they have "put
+in Him into newness of life; partaking indeed of "living water" ([[JOH.4:10]]), they have "put
 
-on Christ" (Gal 3:27). 4:7-8
+on Christ" ([[GAL.3:27]]). 4:7-8
 
 The lampstands and the bowls symbolize Christ and His Church. In the old
 
-tabernacle, there was one laver and one lampstand with six bowls (Ex 25:31-39); now
+tabernacle, there was one laver and one lampstand with six bowls ([[EXO.25:31]]-39); now
 
 there are ten of each and one hundred golden bowls. This signifies the "great
 
@@ -92,7 +92,7 @@ earth, assembled together today the supporters of the new covenant, that is the 
 
 true Holy of Holies" (JohnDm). 5:13 As one: In His High Priestly Prayer, the Lord prays for the faithful, "that they all may
 
-be one in Us" (Jn 17:21). Hence at Divine Liturgy the faithful pray, "And grant us with one
+be one in Us" ([[JOH.17:21]]). Hence at Divine Liturgy the faithful pray, "And grant us with one
 
 mouth and one heart to glorify and praise Your all-honorable and majestic Name."
 
@@ -126,7 +126,7 @@ Solomon's throne is a type of the Virgin Mary. "Thou art the royal Throne which
 
 angels surround, seeing upon it their very King and Lord" (JohnDm). "She is not merely a
 
-companion but she also stands at God's right hand, for where Christ sat in the heavens, that is, at the 'right hand of majesty' (Heb 1:3), there too she also takes her stand, having
+companion but she also stands at God's right hand, for where Christ sat in the heavens, that is, at the 'right hand of majesty' ([[HEB.1:3]]), there too she also takes her stand, having
 
 ascended now from earth into the heavens. Not merely does she love and is loved in
 
@@ -148,7 +148,7 @@ and worshipped God according to the traditions established by God through their
 
 fathers (v. 16). St. Paul speaks of the importance of holding steadfastly to "the traditions
 
-which you were taught, whether by word or our epistle" (2Th 2:15). 12:1
+which you were taught, whether by word or our epistle" ([[2TH.2:15]]). 12:1
 
 Note that Rehoboam and all Israel turned away from God (v. 1), but Judah is not
 
@@ -168,7 +168,7 @@ ways and traditions of those who came before. True worship of God will be realiz
 
 Church, for as Christ says, "the true worshipers will worship the Father in spirit and
 
-truth; for the Father is seeking such to worship Him" (Jn 4:23). 13:5
+truth; for the Father is seeking such to worship Him" ([[JOH.4:23]]). 13:5
 
 A covenant of salt: Salt is a symbol of an indissoluble covenant (see note on Lv
 
@@ -176,35 +176,35 @@ A covenant of salt: Salt is a symbol of an indissoluble covenant (see note on Lv
 
 could give him victory with the many or with the few. 15:2
 
-From the time Adam first walked the earth (Gn 2:16, 17), God has been laying out the
+From the time Adam first walked the earth ([[GEN.2:16]], [[GEN.2:17]]), God has been laying out the
 
 conditions for salvation: He will be found by all who seek Him. 15:3
 
 In Israel and in the Church, the teaching ministry of the priest is of utmost
 
-importance (see Eph 4:11). Without it, the people will not know the true God. 15:7
+importance (see [[EPH.4:11]]). Without it, the people will not know the true God. 15:7
 
 The prophet admonishes Asa to be strong in the Lord, for His "strength is made
 
-perfect in weakness" (2Co 12:9). 15:8-15
+perfect in weakness" ([[2CO.12:9]]). 15:8-15
 
 The great numbers represent those who seek God with all their heart and
 
 soul, for they will find rest (v. 15) in Him, just as He promised, in the "city of the living
 
-God, the heavenly Jerusalem" (Heb 12:22), which is His body, the Church. 16:1-10
+God, the heavenly Jerusalem" ([[HEB.12:22]]), which is His body, the Church. 16:1-10
 
 Asa holds a valuable lesson for all believers. After trusting in the Lord for a
 
 decisive victory over the Ethiopians (14:7-10), he now seeks victory over Syria by
 
-taking silver and gold from the temple to buy off the Syrian king. "Are you so foolish? Having begun in the Spirit, are you now being made perfect by the flesh?" (Gal 3:3). 17:1-19
+taking silver and gold from the temple to buy off the Syrian king. "Are you so foolish? Having begun in the Spirit, are you now being made perfect by the flesh?" ([[GAL.3:3]]). 17:1-19
 
 Jehoshaphat, like his father Asa (15:1-19), starts out well. He resists Israel, which is steeped in idolatry, and he took delight in the Lord. But he forms an alliance
 
 with King Ahab (18:1). This will lead to tragic consequences that will almost destroy the
 
-Davidic line (4Kg 11:1). 18:1-3 Assuming that ethnic rather than spiritual ties make the people one, Jehoshaphat
+Davidic line ([[2KI.11:1]]). 18:1-3 Assuming that ethnic rather than spiritual ties make the people one, Jehoshaphat
 
 allies Judah with Israel. 18:4
 
@@ -238,7 +238,7 @@ Judgment. These enemies bring hardships to men in order that through them God mi
 
 strengthen the faithful and humble the proud. As the Lord Jesus says, "in the world you
 
-will have tribulation; but be of good cheer, I have overcome the world" (Jn 16:33). 20:15-22 The Lord is with you (v. 17): This is the key to salvation (see Eph 6:13). For
+will have tribulation; but be of good cheer, I have overcome the world" ([[JOH.16:33]]). 20:15-22 The Lord is with you (v. 17): This is the key to salvation (see [[EPH.6:13]]). For
 
 the faithful, every spiritual battle has already been won by God the Father in His Son
 
@@ -246,9 +246,9 @@ through the Holy Spirit. 21:1-20
 
 The account of Jehoram serves to warn the Jews, and indeed all men, not to
 
-reject God's calling. 21:8-10 Edom revolts under Jehoram. Under Jehoshaphat, whose heart was towards God, Edom was kept under control (4Kg 3:12). Libnah, which means "white tree," is a
+reject God's calling. 21:8-10 Edom revolts under Jehoram. Under Jehoshaphat, whose heart was towards God, Edom was kept under control ([[2KI.3:12]]). Libnah, which means "white tree," is a
 
-Levitical city in Judah (Jos 21:13). Its revolt against Jehoram reveals how holiness is
+Levitical city in Judah ([[JOS.21:13]]). Its revolt against Jehoram reveals how holiness is
 
 repelled by the presence of evil. 21:18-20 The tragic demise of a sinful man. 
 
@@ -296,7 +296,7 @@ suggests that Joash relied on the faith of Jehoiada, but did not make that faith
 
 Amaziah . . . did what was right insofar as he followed the letter of the law (v. 4), but he did not love the ways of the Lord with a loyal heart. Note how he spares the
 
-children of those who killed his father, according to Dt 24:16, yet sets a bad example for
+children of those who killed his father, according to [[DEU.24:16]], yet sets a bad example for
 
 his own son Uzziah, who, like his father, will one day lift up his heart in pride (26:16). 
 
@@ -345,14 +345,14 @@ Righteous men from Samaria treat the captives of Judah with kindness. Note
 
 the striking parallels in this passage (see v. 15) to the story that Jesus told of the Good
 
-Samaritan (Lk 10:30-37). 
+Samaritan ([[LUK.10:30]]-37). 
 
 ### 29:1-11
 *(anchor: 2CH.29:1)*
 
 Hezekiah prefigures Christ, who opened the doors (v. 3) to heaven, gathered
 
-the faithful, and set the captives free (see 4Kg 18:1-8). 
+the faithful, and set the captives free (see [[2KI.18:1]]-8). 
 
 ### 29:12-30
 *(anchor: 2CH.29:12)*
@@ -375,7 +375,7 @@ God had prepared the people: Christ warns His followers to watch, for you do
 
 not know when the master of the house is coming--lest coming suddenly, he find you
 
-sleeping (Mk 13:35, 36; see also Mal 3:1). 
+sleeping ([[MRK.13:35]], [[MRK.13:36]]; see also [[MAL.3:1]]). 
 
 ### 30:1-21
 *(anchor: 2CH.30:1)*
@@ -501,9 +501,9 @@ by his son Jehoiachin.
 
 God's judgment on Judah is justified, for the priests and the people have
 
-gone beyond the point of no return and will not repent (see 4Kg 25:8-21). Seventy years
+gone beyond the point of no return and will not repent (see [[2KI.25:8]]-21). Seventy years
 
-(v. 29) is the approximate time of the exile in Babylon (see also Jer 25:9-12; 27:6-8; 29:10; Lv 26:34-43). 
+(v. 29) is the approximate time of the exile in Babylon (see also [[JER.25:9]]-12; 27:6-8; 29:10; Lv 26:34-43). 
 
 ### 36:30-31
 *(anchor: 2CH.36:30)*

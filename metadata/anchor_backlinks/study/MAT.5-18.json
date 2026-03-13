@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.5:18",
+  "canon_uri": "canon/NT/MAT.md#MAT.5:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 315,
+      "raw_match": "[[MAT.5:17]]-19",
+      "reference_type": "wikilink_range",
+      "context": "certainly does not prohibit ([[MAT.5:17]]-19; 23:23). At issue is setting human tradition"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2905,
+      "raw_match": "[[MAT.5:18]]",
+      "reference_type": "wikilink",
+      "context": "The NT teaching that the present world will pass away (see [[MAT.5:18]]; [[MRK.13:31]]; 1Co"
+    }
+  ]
+}

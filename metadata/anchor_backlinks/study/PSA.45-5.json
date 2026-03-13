@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.45:5",
+  "canon_uri": "canon/OT/PSA.md#PSA.45:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2929,
+      "raw_match": "[[PSA.45:5]]-8",
+      "reference_type": "wikilink_range",
+      "context": "prophecy (Is 7:14; see also [[PSA.45:5]]-8) is fulfilled in the Incarnation ([[JOH.1:14]]; 17:22), but"
+    }
+  ]
+}

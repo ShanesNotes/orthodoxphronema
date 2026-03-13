@@ -1,0 +1,30 @@
+{
+  "anchor_id": "MAT.7:7",
+  "canon_uri": "canon/NT/MAT.md#MAT.7:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 46,
+      "raw_match": "[[MAT.7:7]]",
+      "reference_type": "wikilink",
+      "context": "after the virtues, this seeker will find Wisdom and partake of His virtues (see also [[MAT.7:7]], [[MAT.7:8]].)."
+    },
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 2015,
+      "raw_match": "[[MAT.7:7]]",
+      "reference_type": "wikilink",
+      "context": "words are like a door that leads into the inner sanctuary of Wisdom (see also [[MAT.7:7]], [[MAT.7:8]]). If"
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 15,
+      "raw_match": "[[MAT.7:7]]",
+      "reference_type": "wikilink",
+      "context": ", 2 Jesus promised, \"Seek, and you will find\" ([[MAT.7:7]]), just as is promised here."
+    }
+  ]
+}

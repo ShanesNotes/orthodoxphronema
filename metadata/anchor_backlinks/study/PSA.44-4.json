@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.44:4",
+  "canon_uri": "canon/OT/PSA.md#PSA.44:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2687,
+      "raw_match": "[[PSA.44:3]]-7",
+      "reference_type": "wikilink_range",
+      "context": "righteousness\" (v. 11), judging sin (see the reaping of the harvest of 14:14-20; [[PSA.44:3]]-7;"
+    }
+  ]
+}

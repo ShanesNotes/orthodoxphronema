@@ -1,0 +1,30 @@
+{
+  "anchor_id": "2KI.13:21",
+  "canon_uri": "canon/OT/2KI.md#2KI.13:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1869,
+      "raw_match": "[[2KI.13:21]]",
+      "reference_type": "wikilink",
+      "context": "of objects bestowing grace, see 5:15; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:20]], [[2KI.13:21]]; [[MRK.6:12]], [[MRK.6:13]]; [[LUK.8:41]]-48;"
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 211,
+      "raw_match": "[[2KI.13:21]]",
+      "reference_type": "wikilink",
+      "context": "well. As God's healing power is bestowed through creation (5:27; [[NUM.21:8]], [[NUM.21:9]]; [[2KI.13:21]];"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 2105,
+      "raw_match": "[[2KI.13:21]]",
+      "reference_type": "wikilink",
+      "context": "[[2KI.13:21]]). The Bible teaches there is power in holy relics."
+    }
+  ]
+}

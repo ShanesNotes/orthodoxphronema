@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.5:37",
+  "canon_uri": "canon/NT/MAT.md#MAT.5:37",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JAS_footnotes.md",
+      "line_number": 429,
+      "raw_match": "[[MAT.5:33]]-37",
+      "reference_type": "wikilink_range",
+      "context": "faith--our integrity, truthfulness between a person and God. See [[MAT.5:33]]-37."
+    }
+  ]
+}

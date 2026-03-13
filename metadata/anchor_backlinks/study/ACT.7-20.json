@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ACT.7:20",
+  "canon_uri": "canon/NT/ACT.md#ACT.7:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 82,
+      "raw_match": "[[ACT.7:20]]",
+      "reference_type": "wikilink",
+      "context": "through observing the divine providence in the situation ([[ACT.7:20]]). And we can learn"
+    }
+  ]
+}

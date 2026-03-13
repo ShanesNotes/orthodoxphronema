@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.12:47",
+  "canon_uri": "canon/NT/JOH.md#JOH.12:47",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 397,
+      "raw_match": "[[JOH.12:47]]",
+      "reference_type": "wikilink",
+      "context": "whatsoever things I shall take you, in these I shall judge you'\" (Justin; compare [[JOH.12:47]], [[JOH.12:48]])."
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1145,
+      "raw_match": "[[JOH.12:47]]",
+      "reference_type": "wikilink",
+      "context": "Christ said, \"I did not come to judge the world but to save the world\" ([[JOH.12:47]]). God judges sin and shows mercy to those who repent. The cup of destruction is God's"
+    }
+  ]
+}

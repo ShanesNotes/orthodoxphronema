@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOL.3:4",
+  "canon_uri": "canon/OT/JOL.md#JOL.3:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1121,
+      "raw_match": "[[JOL.3:4]]",
+      "reference_type": "wikilink",
+      "context": "descriptions of \"the day of the Lord,\" the return of Christ ([[JOL.3:3]], [[JOL.3:4]]; [[MAT.24:29]], [[MAT.24:30]]; and"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "anchor_id": "LUK.16:26",
+  "canon_uri": "canon/NT/LUK.md#LUK.16:26",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3455,
+      "raw_match": "[[LUK.16:26]]",
+      "reference_type": "wikilink",
+      "context": "and (2) the impossibility of changing one's state of virtue after death (see [[LUK.16:26]])."
+    },
+    {
+      "source_file": "staging/validated/OT/1SA_footnotes.md",
+      "line_number": 696,
+      "raw_match": "[[LUK.16:26]]",
+      "reference_type": "wikilink",
+      "context": "the impassible chasm in the Lazarus parable ([[LUK.16:26]]). The apparition appeared only to"
+    },
+    {
+      "source_file": "staging/validated/OT/BAR_footnotes.md",
+      "line_number": 128,
+      "raw_match": "[[LUK.16:22]]-31",
+      "reference_type": "wikilink_range",
+      "context": "with the Lord (see [[LUK.16:22]]-31)."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "anchor_id": "JOH.8:44",
+  "canon_uri": "canon/NT/JOH.md#JOH.8:44",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 2933,
+      "raw_match": "[[JOH.8:44]]",
+      "reference_type": "wikilink",
+      "context": "and indicates to which father these rulers belong--the devil ([[JOH.8:44]])."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3773,
+      "raw_match": "[[JOH.8:44]]",
+      "reference_type": "wikilink",
+      "context": "father they belong--the devil ([[JOH.8:44]])."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 423,
+      "raw_match": "[[JOH.8:31]]-47",
+      "reference_type": "wikilink_range",
+      "context": "compromising in their beliefs ([[JOH.8:31]]-47); or Jews who refused to embrace the Messiah"
+    },
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 2454,
+      "raw_match": "[[JOH.8:44]]",
+      "reference_type": "wikilink",
+      "context": "Evil offspring are the sinful passions, and the devil is their father ([[JOH.8:43]], [[JOH.8:44]]). But this also applies to evil offspring in a family."
+    }
+  ]
+}

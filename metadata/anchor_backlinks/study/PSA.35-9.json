@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.35:9",
+  "canon_uri": "canon/OT/PSA.md#PSA.35:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 671,
+      "raw_match": "[[PSA.35:9]]",
+      "reference_type": "wikilink",
+      "context": "Therefore, wells came to symbolize life itself ([[PSA.35:9]], [[PSA.35:10]]; 45:4; Is 55:1). This particular"
+    }
+  ]
+}

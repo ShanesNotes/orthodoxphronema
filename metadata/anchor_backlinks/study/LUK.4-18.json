@@ -1,0 +1,30 @@
+{
+  "anchor_id": "LUK.4:18",
+  "canon_uri": "canon/NT/LUK.md#LUK.4:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JAS_articles.md",
+      "line_number": 19,
+      "raw_match": "[[LUK.4:18]]",
+      "reference_type": "wikilink",
+      "context": "'I s anyone among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord. And the prayer of faith will save the sick, and the Lord will raise him up. And if he has committed sins, he will be forgiven' (5:14, 15). One of the great prophetic themes of the Old Testament concerning the promised Messiah is that the Father would send His Son 'to heal the brokenhearted, to proclaim liberty to the captives and recovery of sight to the blind' ([[LUK.4:18]]; see also Is 49:8; Is 61:1). The ministry of Christ was one of numerous healings of 'all kinds of sicknesses and all kinds of disease' ([[MAT.4:23]]). In addition, Jesus healed darkened hearts and minds as He released people from demonic oppression. Like their Master before them, the early apostles participated in God's work of healing as well, attributing their miracles to the risen and ascended Christ. 'Jesus the Christ heals you,' Peter told a newly restored man who had been bedridden for eight years ([[ACT.9:34]]). St. Paul identified healing as a gift of the Holy Spirit ([[1CO.12:9]]). Thus, the New Testament foundation was established for the healing ministry to be a part of the sacramental life of the Church ([[JAS.5:14]], [[JAS.5:15]]). Healings throughout history. The Orthodox Church has never believed or behaved as though the gifts of the Spirit or the healing miracles of Christ have somehow passed away. Did not Jesus promise, 'He who believes in Me, the works that I do he will do also; and greater works than these he will do, because I go to My Father' ([[JOH.14:12]])? St. Ireneaus, writing at the close of the second century, speaks of miracles in his day: 'Some drive out devils... some have foreknowledge of the future... others heal the sick through the laying on of hands... and even the dead have been raised up before now and have remained with us for many years.' The writings of other Church Fathers speak often of"
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1457,
+      "raw_match": "[[LUK.4:16]]-21",
+      "reference_type": "wikilink_range",
+      "context": "It is this passage to which Jesus referred in [[LUK.4:16]]-21 when He stood in the"
+    },
+    {
+      "source_file": "staging/validated/OT/MIC_footnotes.md",
+      "line_number": 126,
+      "raw_match": "[[LUK.4:17]]-21",
+      "reference_type": "wikilink_range",
+      "context": "Covenant, emphasizes healing and liberty in Christ ([[LUK.4:17]]-21). 4:10"
+    }
+  ]
+}

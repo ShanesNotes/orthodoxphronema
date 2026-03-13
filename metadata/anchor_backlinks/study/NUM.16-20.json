@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.16:20",
+  "canon_uri": "canon/OT/NUM.md#NUM.16:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 123,
+      "raw_match": "[[NUM.16:1]]-35",
+      "reference_type": "wikilink_range",
+      "context": "as well. (3) Korah ([[NUM.16:1]]-35) sinned by ambition, pride, and arrogance, grasping for"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.1:15",
+  "canon_uri": "canon/OT/DEU.md#DEU.1:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1369,
+      "raw_match": "[[DEU.1:15]]-17",
+      "reference_type": "wikilink_range",
+      "context": "before He can be judged ([[EXO.23:1]]; [[DEU.1:15]]-17)."
+    }
+  ]
+}

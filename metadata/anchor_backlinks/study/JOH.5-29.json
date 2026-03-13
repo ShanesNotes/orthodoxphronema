@@ -1,0 +1,37 @@
+{
+  "anchor_id": "JOH.5:29",
+  "canon_uri": "canon/NT/JOH.md#JOH.5:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 35,
+      "raw_match": "[[JOH.5:29]]",
+      "reference_type": "wikilink",
+      "context": "This condemnation involves body and soul (see [[JOH.5:29]]). Only Lord God is better"
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 595,
+      "raw_match": "[[JOH.5:29]]",
+      "reference_type": "wikilink",
+      "context": "will be raised to eternal judgment ([[JOH.5:28]], [[JOH.5:29]])."
+    },
+    {
+      "source_file": "staging/validated/OT/2KI_footnotes.md",
+      "line_number": 328,
+      "raw_match": "[[JOH.5:29]]",
+      "reference_type": "wikilink",
+      "context": "Father? Well then, He truly rose, and after He had risen was seen again of the disciples . . . are you still incredulous in regard to His Resurrection?\" (See also [[JOH.5:25]], [[JOH.5:28]], [[JOH.5:29]].)"
+    },
+    {
+      "source_file": "staging/validated/OT/2MA_footnotes.md",
+      "line_number": 355,
+      "raw_match": "[[JOH.5:29]]",
+      "reference_type": "wikilink",
+      "context": "for those who have done good and condemnation for those who have done evil ([[JOH.5:29]])."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "anchor_id": "ROM.1:24",
+  "canon_uri": "canon/NT/ROM.md#ROM.1:24",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 2235,
+      "raw_match": "[[ROM.1:24]]",
+      "reference_type": "wikilink",
+      "context": "[[ROM.1:24]], [[ROM.1:26]]). What is meant by He has blinded is that God has permitted their selfchosen blindness (compare Ex 8:15, 32 with [[EXO.10:20]], [[EXO.10:27]]). They did not become blind"
+    },
+    {
+      "source_file": "staging/validated/OT/HAB_footnotes.md",
+      "line_number": 185,
+      "raw_match": "[[ROM.1:18]]-32",
+      "reference_type": "wikilink_range",
+      "context": "the truth about God ([[ROM.1:18]]-32)."
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 334,
+      "raw_match": "[[ROM.1:23]]-32",
+      "reference_type": "wikilink_range",
+      "context": "was a type of uncleanness relating to both soul and body. [[ROM.1:23]]-32; [[GAL.5:18]]-21; Eph"
+    }
+  ]
+}

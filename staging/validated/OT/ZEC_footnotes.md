@@ -26,7 +26,7 @@ the Lord comes to Zechariah veiled, but when the Messiah comes in Bethlehem of J
 
 five centuries later, He comes in the flesh. Indeed, the language of the LXX here parallels
 
-the language used by John to describe the Incarnation (see Jn 1:1-18). The Word who
+the language used by John to describe the Incarnation (see [[JOH.1:1]]-18). The Word who
 
 comes to Zechariah is truly the eternal Son of God, the Word of God, the Second Person
 
@@ -79,7 +79,7 @@ the former generation, calling them to turn away from their evil ways. Sadly, Go
 
 the message of Zechariah. This message is the same precisely because it is from the lips
 
-of God. The message of the prophets is fulfilled by Jesus Christ (Mt 5:17). 
+of God. The message of the prophets is fulfilled by Jesus Christ ([[MAT.5:17]]). 
 
 ### 1:5
 *(anchor: ZEC.1:5)*
@@ -94,7 +94,7 @@ Mesopotamia because they did not repent. Zechariah is also presenting a contrast
 
 between men, who are transient and mortal, and God, who is immortal and transcendent. The previous generation is dead and gone, but God lives and remains the same. As Paul
 
-exclaims, "Jesus Christ is the same yesterday, today, and forever" (Heb 13:8). 
+exclaims, "Jesus Christ is the same yesterday, today, and forever" ([[HEB.13:8]]). 
 
 ### 1:6
 *(anchor: ZEC.1:6)*
@@ -172,7 +172,7 @@ is a Semitic construction meaning that God is really jealous. The Greek word ren
 
 strive after," "eagerness," and "admiration." "For I, the Lord your God, am a jealous God"
 
-(Ex 20:5) is the explanation for God's commandment against idolatry. It may sound
+([[EXO.20:5]]) is the explanation for God's commandment against idolatry. It may sound
 
 strange to modern ears to hear God speak of His holy jealousy, yet what husband would
 
@@ -266,7 +266,7 @@ says, "The Lord rebukes you." This is fulfilled in the temptation of Christ, whe
 
 relies upon the written word of Holy Scripture rather than His own power as Son of God
 
-to rebuke Satan and resist temptation (Mt 4:1-11; Mk 1:12, 13; Lk 4:1-13). 
+to rebuke Satan and resist temptation ([[MAT.4:1]]-11; [[MRK.1:12]], [[MRK.1:13]]; [[LUK.4:1]]-13). 
 
 ### 3:3-5
 *(anchor: ZEC.3:3)*
@@ -303,7 +303,7 @@ menorah is a symbol for Israel. It appeared in Solomon's temple and appears stil
 
 Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands
 
-(Rev 1:12-20), which are seven churches. 
+([[REV.1:12]]-20), which are seven churches. 
 
 ### 4:3-5
 *(anchor: ZEC.4:3)*
@@ -321,7 +321,7 @@ The word of the Lord declares to Zerubbabel through Zechariah, 'Not by mighty
 
 power nor by strength, but by My Spirit,' says the Lord Almighty. The power of
 
-God, not human power, will rebuild the Jerusalem temple (see Ps 126:1). The divine and
+God, not human power, will rebuild the Jerusalem temple (see [[PSA.126:1]]). The divine and
 
 human synergy is thus affirmed here. Human labor is necessary, for God will not make
 
@@ -347,7 +347,7 @@ Joshua the high priest (sacerdotal leadership).
 ### 5:1
 *(anchor: ZEC.5:1)*
 
-, 2 The sickle is "scroll" in Hebrew. Both are indicative of judgment. The sickle is huge, of roughly the same dimensions as the tabernacle in the wilderness (see Ex 26:15-28) or
+, 2 The sickle is "scroll" in Hebrew. Both are indicative of judgment. The sickle is huge, of roughly the same dimensions as the tabernacle in the wilderness (see [[EXO.26:15]]-28) or
 
 the porch of Solomon's temple (see 3Kg 6:6, 7). 
 
@@ -356,7 +356,7 @@ the porch of Solomon's temple (see 3Kg 6:6, 7).
 
 The seventh and third commandments are given here as representative of the first
 
-and second tablets of the Law (see Ex 20:1-17). The first tablet of the Law addresses the
+and second tablets of the Law (see [[EXO.20:1]]-17). The first tablet of the Law addresses the
 
 relationship between God and man; the second tablet speaks of the relationship between
 
@@ -415,7 +415,7 @@ crown goes to the one who endured. Others then shall come to rebuild the temple.
 
 New Testament, crowns are cast at the feet of Jesus Christ the Great High Priest (Rev
 
-4:10). St. Paul promises crowns to believers who endure (1Co 9:24-27). 
+4:10). St. Paul promises crowns to believers who endure ([[1CO.9:24]]-27). 
 
 ### 6:12
 *(anchor: ZEC.6:12)*
@@ -520,9 +520,9 @@ God will bring the exiles back. They shall be to Me a people and I will be to
 
 them a God in truth and in righteousness: This is a type of Christ in the
 
-Incarnation, in which God tabernacles with man (Jn 1:14), and of the New Jerusalem in
+Incarnation, in which God tabernacles with man ([[JOH.1:14]]), and of the New Jerusalem in
 
-the Eschaton (Rev 21:3). 
+the Eschaton ([[REV.21:3]]). 
 
 ### 8:9
 *(anchor: ZEC.8:9)*
@@ -549,7 +549,7 @@ exhorts, be of good courage!
 
 God demands that His people speak the truth, judge with truth, and avoid false
 
-oaths (Mic 6:8). Truth is essential for the people of God in every aspect of life: religious, personal, social, judicial, and political. 
+oaths ([[MIC.6:8]]). Truth is essential for the people of God in every aspect of life: religious, personal, social, judicial, and political. 
 
 ### 8:19-23
 *(anchor: ZEC.8:19)*
@@ -584,7 +584,7 @@ Christ. 9:1-8
 
 The cities mentioned here are pagan cities of Syria and Philistia falling within the
 
-limits of the promised land (Gn 15:18-21; Ex 23:31). This prophecy may point to
+limits of the promised land ([[GEN.15:18]]-21; [[EXO.23:31]]). This prophecy may point to
 
 Alexander's conquests after 333 BC. The destruction of Judah's enemies precedes the
 
@@ -595,13 +595,13 @@ themes of chs. 9-14.
 ### 9:9
 *(anchor: ZEC.9:9)*
 
-, 10 The Triumphant Entry of Christ into Jerusalem is foretold here (see Mt 21:1-9; Mk
+, 10 The Triumphant Entry of Christ into Jerusalem is foretold here (see [[MAT.21:1]]-9; Mk
 
 
 ### 11:1
 *(anchor: ZEC.11:1)*
 
--10; Lk 19:28-38; Jn 12:12-19). Matthew and John cite v. 9 (Mt 21:5; Jn 12:15). Rather than riding proudly on a warrior's chariot in victory, the Messiah-king rides
+-10; [[LUK.19:28]]-38; [[JOH.12:12]]-19). Matthew and John cite v. 9 ([[MAT.21:5]]; [[JOH.12:15]]). Rather than riding proudly on a warrior's chariot in victory, the Messiah-king rides
 
 humbly on a donkey, notes St. Ambrose. Justin Martyr comments, "Jacob predicted that
 
@@ -624,7 +624,7 @@ replaces the bad shepherds Himself.
 ### 11:12-14
 *(anchor: ZEC.11:12)*
 
-The Good Shepherd is betrayed. Matthew cites this passage in his Gospel (26:15; 27:9). The pieces (or shekels) of silver are the price for a slave (Ex 21:32). 
+The Good Shepherd is betrayed. Matthew cites this passage in his Gospel (26:15; 27:9). The pieces (or shekels) of silver are the price for a slave ([[EXO.21:32]]). 
 
 ### 12:10-14
 *(anchor: ZEC.12:10)*
@@ -640,7 +640,7 @@ Him in faith and obedience.
 
 Smite the shepherds and draw out the sheep is "Strike the shepherd and the
 
-sheep will be scattered" in the Hebrew text. Jesus cites this verse in Mt 26:31 concerning
+sheep will be scattered" in the Hebrew text. Jesus cites this verse in [[MAT.26:31]] concerning
 
 the falling away of the disciples upon His arrest. As it appears in the LXX, the passage
 
@@ -660,7 +660,7 @@ remain. This trial is compared to the way silver and gold are purified by fire. 
 
 The prophet foresees the nations gathered in battle against Jerusalem, God's
 
-delivery of His people, and the establishment of a secure, peaceful land (see Is 66:15-23; Ezk 38-40; Joel 4:9-21; Mk 13:7-27; Rev 20-22). In the New Testament, this is to be
+delivery of His people, and the establishment of a secure, peaceful land (see Is 66:15-23; Ezk 38-40; Joel 4:9-21; [[MRK.13:7]]-27; Rev 20-22). In the New Testament, this is to be
 
 accomplished at the Second Coming of Christ and the last battle between God and Satan. 
 
@@ -669,7 +669,7 @@ accomplished at the Second Coming of Christ and the last battle between God and 
 
 The Lord's feet will stand on the Mount of Olives in this reference to the
 
-Messianic Age. This applies both to the Incarnation and the Second Coming of Christ. Jesus and the disciples stayed on the Mount of Olives during Holy Week (Lk 21:37), and, of course, Jesus spent the night on the Mount of Olives when He was betrayed (Mt
+Messianic Age. This applies both to the Incarnation and the Second Coming of Christ. Jesus and the disciples stayed on the Mount of Olives during Holy Week ([[LUK.21:37]]), and, of course, Jesus spent the night on the Mount of Olives when He was betrayed (Mt
 
 26:30). Whether or not Christ will touch down upon the Mount of Olives at His Second
 
@@ -680,11 +680,11 @@ judgment in the presence of God.
 ### 14:8-11
 *(anchor: ZEC.14:8)*
 
-Christ is the living water (Jn 4:10-14). In the Apocalypse, a river runs through
+Christ is the living water ([[JOH.4:10]]-14). In the Apocalypse, a river runs through
 
-the Holy City (Rev 22:1-5). The Garden of Eden was at the headwaters of four great rivers
+the Holy City ([[REV.22:1]]-5). The Garden of Eden was at the headwaters of four great rivers
 
-(Gn 2:10-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants. 
+([[GEN.2:10]]-15). In the garden of Paradise, Christ is the living water who sustains, refreshes, and gives life to the inhabitants. 
 
 ### 14:18-20
 *(anchor: ZEC.14:18)*
@@ -701,7 +701,7 @@ ourselves safe from wrath because our evil is small by comparison. The fact that
 
 not murderers of millions does not make us safe. The standard of God's judgment is
 
-whether we worship Him in Spirit and in truth (Jn 4:21-24). Zechariah concludes with a condemnation of Egypt and all nations that do not come to
+whether we worship Him in Spirit and in truth ([[JOH.4:21]]-24). Zechariah concludes with a condemnation of Egypt and all nations that do not come to
 
 Jerusalem to celebrate the Feast of Tabernacles (also called the Feast of Booths; see
 
@@ -709,7 +709,7 @@ Lv 23:33-36). This feast was associated with covenant renewal and the deliveranc
 
 Israel. Christ is the eternal Word of God who, in the Incarnation, "dwelt [or tabernacled]
 
-among us" (Jn 1:14). So then, all who reject Christ and do not enter the Church to
+among us" ([[JOH.1:14]]). So then, all who reject Christ and do not enter the Church to
 
 celebrate and serve Him are condemned. 
 
@@ -720,7 +720,7 @@ The Canaanite is a merchant. The connotation appears to be that merchants will
 
 no longer be necessary or allowed in the Lord's house. The cleansing of the temple by
 
-Christ comes to mind in this regard (see Mt 21:12, 13; Mk 11:15-19; Lk 19:45-48; Jn
+Christ comes to mind in this regard (see [[MAT.21:12]], [[MAT.21:13]]; [[MRK.11:15]]-19; [[LUK.19:45]]-48; Jn
 
 2:13-17). One is also reminded how easily God's house is turned into a bartering place
 

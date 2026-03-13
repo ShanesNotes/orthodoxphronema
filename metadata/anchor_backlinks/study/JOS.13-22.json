@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOS.13:22",
+  "canon_uri": "canon/OT/JOS.md#JOS.13:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2PE_footnotes.md",
+      "line_number": 229,
+      "raw_match": "[[JOS.13:22]]",
+      "reference_type": "wikilink",
+      "context": "31:8, 16; [[DEU.23:4]], [[DEU.23:5]]; [[JOS.13:22]]; Jude 11."
+    },
+    {
+      "source_file": "staging/validated/OT/NUM_footnotes.md",
+      "line_number": 887,
+      "raw_match": "[[JOS.13:22]]",
+      "reference_type": "wikilink",
+      "context": "Balaam with the sword when they killed the kings of Midian (31:8; [[JOS.13:22]])."
+    }
+  ]
+}

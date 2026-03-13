@@ -1,0 +1,23 @@
+{
+  "anchor_id": "NAH.3:6",
+  "canon_uri": "canon/OT/NAH.md#NAH.3:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2503,
+      "raw_match": "[[NAH.3:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "when they see her devastation (see [[PSA.75:13]]; [[NAH.3:4]]-7). What happened to Sodom (Gn"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2545,
+      "raw_match": "[[NAH.3:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "annihilation ([[JER.28:59]], [[JER.28:60]]; [[NAH.3:4]]-7). Her spell of idolatry, vice, and murder bound the"
+    }
+  ]
+}

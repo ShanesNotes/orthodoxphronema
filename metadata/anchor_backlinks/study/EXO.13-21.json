@@ -1,0 +1,23 @@
+{
+  "anchor_id": "EXO.13:21",
+  "canon_uri": "canon/OT/EXO.md#EXO.13:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/NAH_footnotes.md",
+      "line_number": 51,
+      "raw_match": "[[EXO.13:21]]",
+      "reference_type": "wikilink",
+      "context": "Spirit (see [[EXO.13:21]], [[EXO.13:22]]; 24:12-18 and notes). A cloud was at Christ's feet at His"
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 432,
+      "raw_match": "[[EXO.13:21]]",
+      "reference_type": "wikilink",
+      "context": "and the light of the world ([[JOH.8:12]]). 18:3 See [[EXO.13:21]]. 18:5-19 The sixth means is presented by which God both blesses His people and punishes"
+    }
+  ]
+}

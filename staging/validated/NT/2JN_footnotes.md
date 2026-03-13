@@ -30,7 +30,7 @@ Calling Christ the Son of the Father strongly refutes the deceivers and gnostics
 
 Jesus is the Son; the Son is by nature what His Father is, and He does what His Father
 
-does (see Jn 5:19).
+does (see [[JOH.5:19]]).
 
 
 ### 1:4-6

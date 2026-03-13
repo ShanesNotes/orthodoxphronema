@@ -1,0 +1,30 @@
+{
+  "anchor_id": "MAT.8:3",
+  "canon_uri": "canon/NT/MAT.md#MAT.8:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 73,
+      "raw_match": "[[MAT.8:1]]-4",
+      "reference_type": "wikilink_range",
+      "context": "On the cleansing of the leper, see notes at [[MAT.8:1]]-4 and [[LUK.5:12]]-16."
+    },
+    {
+      "source_file": "staging/validated/OT/2KI_footnotes.md",
+      "line_number": 202,
+      "raw_match": "[[MAT.8:3]]",
+      "reference_type": "wikilink",
+      "context": "signify that He heals not as a servant but as absolute master--doth also touch ([[MAT.8:2]], [[MAT.8:3]]). For His hand did not take on the uncleanness of the leprosy, but instead the leprous body"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 559,
+      "raw_match": "[[MAT.8:3]]",
+      "reference_type": "wikilink",
+      "context": "the sound of many waters\" ([[REV.1:15]]); (6) beautiful in hands and stomach (v. 14): \"Then Jesus put out His hand and touched him\" ([[MAT.8:3]]); (7) strong of legs and feet (v. 15): \"His feet were like fine brass\" ([[REV.1:15]]); (8) altogether desirable (v. 16), \"more"
+    }
+  ]
+}

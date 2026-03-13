@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.6:10",
+  "canon_uri": "canon/OT/NUM.md#NUM.6:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1781,
+      "raw_match": "[[NUM.6:1]]-21",
+      "reference_type": "wikilink_range",
+      "context": "The vow Paul makes is likely a form of the Nazirite vow ([[NUM.6:1]]-21) given in"
+    }
+  ]
+}

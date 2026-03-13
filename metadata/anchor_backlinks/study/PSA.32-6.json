@@ -1,0 +1,23 @@
+{
+  "anchor_id": "PSA.32:6",
+  "canon_uri": "canon/OT/PSA.md#PSA.32:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 45,
+      "raw_match": "[[PSA.32:6]]",
+      "reference_type": "wikilink",
+      "context": "The Word is the co-Creator with the Father and the Holy Spirit (Gn 1; [[PSA.32:6]], [[PSA.32:9]]; Heb"
+    },
+    {
+      "source_file": "staging/validated/OT/JDT_footnotes.md",
+      "line_number": 431,
+      "raw_match": "[[PSA.32:6]]",
+      "reference_type": "wikilink",
+      "context": "This verse is a paraphrase of [[PSA.32:6]]."
+    }
+  ]
+}

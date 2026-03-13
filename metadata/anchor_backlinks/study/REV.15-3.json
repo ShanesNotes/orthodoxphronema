@@ -1,0 +1,16 @@
+{
+  "anchor_id": "REV.15:3",
+  "canon_uri": "canon/NT/REV.md#REV.15:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 314,
+      "raw_match": "[[REV.15:3]]",
+      "reference_type": "wikilink",
+      "context": "and begins, \"Great and marvelous are Your works, Lord God Almighty!\" ([[REV.15:3]], [[REV.15:4]]). 10:1-21 This historical overview from Adam to Moses shows the active role that the Word"
+    }
+  ]
+}

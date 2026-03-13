@@ -1,0 +1,23 @@
+{
+  "anchor_id": "COL.2:2",
+  "canon_uri": "canon/NT/COL.md#COL.2:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1CO_footnotes.md",
+      "line_number": 1125,
+      "raw_match": "[[COL.2:2]]",
+      "reference_type": "wikilink",
+      "context": "([[COL.2:2]]), we are called in Christ to suffer together, be honored together, and rejoice"
+    },
+    {
+      "source_file": "staging/validated/NT/EPH_footnotes.md",
+      "line_number": 77,
+      "raw_match": "[[COL.2:2]]",
+      "reference_type": "wikilink",
+      "context": "This mystery centers on Christ Himself ([[COL.2:2]]), from the Incarnation ([[1TI.3:16]]), to the"
+    }
+  ]
+}

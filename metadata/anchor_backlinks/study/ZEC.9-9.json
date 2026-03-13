@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ZEC.9:9",
+  "canon_uri": "canon/OT/ZEC.md#ZEC.9:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2835,
+      "raw_match": "[[ZEC.9:9]]",
+      "reference_type": "wikilink",
+      "context": "ride on a horse nor in a chariot, but on a donkey--a sign of humility and peace ([[ZEC.9:9]])."
+    }
+  ]
+}

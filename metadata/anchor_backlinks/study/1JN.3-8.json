@@ -1,0 +1,16 @@
+{
+  "anchor_id": "1JN.3:8",
+  "canon_uri": "canon/NT/1JN.md#1JN.3:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 176,
+      "raw_match": "[[1JN.3:8]]-10",
+      "reference_type": "wikilink_range",
+      "context": "seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.27:66",
+  "canon_uri": "canon/NT/MAT.md#MAT.27:66",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 850,
+      "raw_match": "[[MAT.27:62]]-66",
+      "reference_type": "wikilink_range",
+      "context": "their houses, contrary to the Law of Moses, to plot against Jesus ([[MAT.27:62]]-66; JohnChr). They broke the Law to plot against the Lawgiver."
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 1391,
+      "raw_match": "[[MAT.27:62]]-66",
+      "reference_type": "wikilink_range",
+      "context": "on the Sabbath ([[MAT.27:62]]-66), but were running around and seeking to keep Christ in the"
+    }
+  ]
+}

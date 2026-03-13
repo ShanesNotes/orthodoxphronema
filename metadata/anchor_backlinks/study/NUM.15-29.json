@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.15:29",
+  "canon_uri": "canon/OT/NUM.md#NUM.15:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 320,
+      "raw_match": "[[NUM.15:27]]-29",
+      "reference_type": "wikilink_range",
+      "context": "made. Thus, provision must be made for all, even the poorest (see also [[NUM.15:27]]-29). The type here reveals Christ the sinless One as being the offering for sin: \"For He made"
+    }
+  ]
+}

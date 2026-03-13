@@ -22,7 +22,7 @@ handled), he has no problem connecting them. Note John's clarity of teaching on
 
 Christ's two natures: divine (from the beginning, the Word of life) and human (heard,
 
-seen, handled) (see Lk 24:39; Jn 1:14; 20:27, 28).
+seen, handled) (see [[LUK.24:39]]; [[JOH.1:14]]; 20:27, 28).
 
 "When [John] says: 'which was from the beginning,' he touches upon the generation
 
@@ -42,7 +42,7 @@ always existed is signified by the words: 'In the beginning was the Word [Jn 1:1
 
 The divinity of Jesus was manifested in His life, especially His teaching and His
 
-miracles (see Jn 2:11).
+miracles (see [[JOH.2:11]]).
 
 
 ### 1:3
@@ -54,7 +54,7 @@ believers in the life of Christ. Fellowship with us refers to communion--especia
 
 eucharistic communion--within the apostolic Church. It is inconceivable to John that the
 
-Church not be one and united (see Jn 17:11, 20, 21) or that fellowship not be founded on
+Church not be one and united (see [[JOH.17:11]], [[JOH.17:20]], [[JOH.17:21]]) or that fellowship not be founded on
 
 doctrine (the theological implication of with the Father and with His Son Jesus
 
@@ -120,9 +120,9 @@ but life in Christ, the way of love (vv. 5, 6). Those outside of Christ will not
 
 partakers of His life unless they, by God's grace, practice what He says. "In vain do we
 
-applaud Him whose commandments we do not keep" (Bede; see also Lk 9:23; Jam 2:19).
+applaud Him whose commandments we do not keep" (Bede; see also [[LUK.9:23]]; [[JAS.2:19]]).
 
-The new commandment is Christ's (v. 7), that we love as Christ loved (Jn 13:34; 15:12,
+The new commandment is Christ's (v. 7), that we love as Christ loved ([[JOH.13:34]]; 15:12,
 
 17).
 
@@ -142,7 +142,7 @@ darkness of his sins when he did not take care to put on the fundamentals of lov
 
 In this poem of comfort and encouragement, John addresses three stages of
 
-Christian growth. (1) Little children are the newly converted (see Lk 10:21), who see
+Christian growth. (1) Little children are the newly converted (see [[LUK.10:21]]), who see
 
 clearly that their sins are forgiven (v. 12) and who know the Father (v. 13). (2)
 
@@ -160,13 +160,13 @@ The world here is creation after the fall and under the dominion of Satan. It is
 
 creation no longer oriented toward God, but temporary and dominated by inordinate
 
-passions (see Mt 6:24; Lk 16:13; 1Co 7:29-31).
+passions (see [[MAT.6:24]]; [[LUK.16:13]]; [[1CO.7:29]]-31).
 
 
 ### 2:16
 *(anchor: 1JN.2:16)*
 
-The world distorts every realm of God's good creation (see Jam 1:13, 14). There are
+The world distorts every realm of God's good creation (see [[JAS.1:13]], [[JAS.1:14]]). There are
 
 (1) sensual pleasures of the flesh (physical passions), (2) intellectual attainments and
 
@@ -174,13 +174,13 @@ capacities of the eyes (the soul's passions), and (3) inordinate possessions, po
 
 honors of life (the pride of human spirit). Biblical ascetic practices--prayer, fasting,
 
-almsgiving (see Mt 6:1-18)--help us overcome these distortions and live lives of virtue.
+almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue.
 
 
 ### 2:18
 *(anchor: 1JN.2:18)*
 
-The last hour is the era of the New Covenant, the "eleventh hour" (Mt 20:6). The
+The last hour is the era of the New Covenant, the "eleventh hour" ([[MAT.20:6]]). The
 
 deceptions at hand, not a specific prediction of the end of the world, are in view. Many
 
@@ -190,13 +190,13 @@ is doing his spadework.
 
 Very early in the second century, on his way to martyrdom in Rome, Ignatius of
 
-Antioch wrote, "These are the last times [see 1Co 7:29]. Let us then be ashamed and fear
+Antioch wrote, "These are the last times [see [[1CO.7:29]]]. Let us then be ashamed and fear
 
 God's patience so that it may not become condemnation for us. We should either fear the
 
 wrath to come or love the grace which is present, one of the two, just so that we may be
 
-found in Christ Jesus for true life [see Acts 17:30; 1Th 1:10]. Nothing should seem fitting
+found in Christ Jesus for true life [see [[ACT.17:30]]; [[1TH.1:10]]]. Nothing should seem fitting
 
 to you apart from him in whom I bear my bonds as spiritual pearls. May I rise again in
 
@@ -226,7 +226,7 @@ energies needed for their offices. The NT anointing is the ongoing reality of th
 
 of the Holy Spirit, who works in every member of the Church to preserve her in the truth
 
-(Jn 14:26; 16:13-15). You is plural. Anointing is not for independent action but for the
+([[JOH.14:26]]; 16:13-15). You is plural. Anointing is not for independent action but for the
 
 one holy Church.
 
@@ -248,7 +248,7 @@ To abide in Christ involves not only mental assent to the doctrine of the
 
 Incarnation. It is a sacramental union with Him, effected in baptism and nourished in the
 
-Eucharist (Jn 6:53-59; 15:1-8). For John, apostolic teaching and writing (vv. 24-26) is
+Eucharist ([[JOH.6:53]]-59; 15:1-8). For John, apostolic teaching and writing (vv. 24-26) is
 
 identical with being taught of God (v. 27). Without both the work of the Spirit and
 
@@ -276,23 +276,23 @@ nature.
 
 Made in God's image and likeness, we are fulfilled by becoming like Him, a process
 
-called sanctification or deification. Being "partakers of the divine nature" (2Pt 1:4), we are
+called sanctification or deification. Being "partakers of the divine nature" ([[2PE.1:4]]), we are
 
-"transformed into the same image from glory to glory" (2Co 3:18). When we see Him as
+"transformed into the same image from glory to glory" ([[2CO.3:18]]). When we see Him as
 
 He is, in the fullness of His glory at the last day, this process will be supremely
 
 magnified. John had seen the foretaste of this glory on the Mount of Transfiguration (Mt
 
-17:1-9; Mk 9:2-9; Lk 9:28-36).
+17:1-9; [[MRK.9:2]]-9; [[LUK.9:28]]-36).
 
 How shall we see Him? Through our likeness to Him; our human nature will be
 
-glorified with the glorified humanity of the Son (see Col 3:3, 4) and through a knowledge
+glorified with the glorified humanity of the Son (see [[COL.3:3]], [[COL.3:4]]) and through a knowledge
 
 of all three Persons of the Trinity. (Note Paul's expressions, "face to face" and "with
 
-unveiled face" in 1Co 13:12; 2Co 3:18).
+unveiled face" in [[1CO.13:12]]; [[2CO.3:18]]).
 
 
 ### 3:4-9
@@ -318,7 +318,7 @@ We are to give our attention to deeds, not just to words. Abel showed himself
 
 righteous, a child of faith and love; Cain showed himself evil, self-centered and envious
 
-(see Gn 4:4, 8; Heb 11:4; 12:24).
+(see [[GEN.4:4]], [[GEN.4:8]]; [[HEB.11:4]]; 12:24).
 
 
 ### 3:15
@@ -432,7 +432,7 @@ By water and blood (v. 6) is a reference both to the constancy of the Incarnate
 
 Son throughout His life and to the mingled water and blood that poured from Jesus' side
 
-(Jn 19:34), which is a type of baptism. Similarly the Spirit, the water, and the blood
+([[JOH.19:34]]), which is a type of baptism. Similarly the Spirit, the water, and the blood
 
 (v. 8) refers to the unity of the basic sacraments: chrismation, baptism, and the Eucharist.
 
@@ -450,12 +450,12 @@ believe and follow the Son of God.
 
 What about those Christians who are not living righteously? Sin leading to death
 
-is willful, continual disbelief in the grace of the Holy Spirit toward us. (See Mt 12:28, 31,
+is willful, continual disbelief in the grace of the Holy Spirit toward us. (See [[MAT.12:28]], [[MAT.12:31]],
 
-32; Heb 6:4-6; 10:26-31.)
+32; [[HEB.6:4]]-6; 10:26-31.)
 
 
 ### 5:21
 *(anchor: 1JN.5:21)*
 
-Idols are either false gods or things that turn us away from God (Col 3:5).
+Idols are either false gods or things that turn us away from God ([[COL.3:5]]).

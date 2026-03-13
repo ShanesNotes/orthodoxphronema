@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ACT.11:26",
+  "canon_uri": "canon/NT/ACT.md#ACT.11:26",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2MA_footnotes.md",
+      "line_number": 149,
+      "raw_match": "[[ACT.11:26]]",
+      "reference_type": "wikilink",
+      "context": "Another famous son of Tarsus is the Apostle Paul ([[ACT.11:25]], [[ACT.11:26]])."
+    },
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 1914,
+      "raw_match": "[[ACT.11:26]]",
+      "reference_type": "wikilink",
+      "context": "[[ACT.11:26]]). For Wisdom is Christ, and those who follow Him are known by this name. And His good grace is worth more than silver and gold, for by His grace Christians"
+    }
+  ]
+}

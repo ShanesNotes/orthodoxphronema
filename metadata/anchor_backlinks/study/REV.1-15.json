@@ -1,0 +1,30 @@
+{
+  "anchor_id": "REV.1:15",
+  "canon_uri": "canon/NT/REV.md#REV.1:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 559,
+      "raw_match": "[[REV.1:15]]",
+      "reference_type": "wikilink",
+      "context": "the sound of many waters\" ([[REV.1:15]]); (6) beautiful in hands and stomach (v. 14): \"Then Jesus put out His hand and touched him\" ([[MAT.8:3]]); (7) strong of legs and feet (v. 15): \"His feet were like fine brass\" ([[REV.1:15]]); (8) altogether desirable (v. 16), \"more"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 559,
+      "raw_match": "[[REV.1:15]]",
+      "reference_type": "wikilink",
+      "context": "the sound of many waters\" ([[REV.1:15]]); (6) beautiful in hands and stomach (v. 14): \"Then Jesus put out His hand and touched him\" ([[MAT.8:3]]); (7) strong of legs and feet (v. 15): \"His feet were like fine brass\" ([[REV.1:15]]); (8) altogether desirable (v. 16), \"more"
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 306,
+      "raw_match": "[[REV.1:12]]-20",
+      "reference_type": "wikilink_range",
+      "context": "([[REV.1:12]]-20), which are seven churches."
+    }
+  ]
+}

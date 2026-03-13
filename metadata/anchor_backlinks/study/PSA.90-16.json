@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.90:16",
+  "canon_uri": "canon/OT/PSA.md#PSA.90:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 467,
+      "raw_match": "[[PSA.90:16]]",
+      "reference_type": "wikilink",
+      "context": "fulfills [[PSA.90:16]], in which God makes a promise to the one who loves Him: \"With length"
+    }
+  ]
+}

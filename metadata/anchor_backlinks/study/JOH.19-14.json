@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.19:14",
+  "canon_uri": "canon/NT/JOH.md#JOH.19:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 787,
+      "raw_match": "[[JOH.19:14]]",
+      "reference_type": "wikilink",
+      "context": "([[JOH.19:14]], [[JOH.19:15]]). Christ accepts death according to the Father's will, not at the will of the"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3633,
+      "raw_match": "[[JOH.19:14]]",
+      "reference_type": "wikilink",
+      "context": "Passover is debated among the Fathers (see also note at [[JOH.19:14]]). What is certain is that"
+    }
+  ]
+}

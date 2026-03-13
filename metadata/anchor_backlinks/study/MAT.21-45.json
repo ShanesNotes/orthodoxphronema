@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.21:45",
+  "canon_uri": "canon/NT/MAT.md#MAT.21:45",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/AMO_footnotes.md",
+      "line_number": 151,
+      "raw_match": "[[MAT.21:45]]",
+      "reference_type": "wikilink",
+      "context": "Pharisees in the gates ([[MAT.21:45]], [[MAT.21:46]]; Lk 11:45-12:1; 13:14-17; [[JOH.7:7]]; 8:20; see also Pr"
+    }
+  ]
+}

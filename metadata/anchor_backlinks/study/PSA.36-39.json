@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.36:39",
+  "canon_uri": "canon/OT/PSA.md#PSA.36:39",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JDT_footnotes.md",
+      "line_number": 380,
+      "raw_match": "[[PSA.36:39]]",
+      "reference_type": "wikilink",
+      "context": "[[PSA.36:15]], [[PSA.36:17]], [[PSA.36:39]]. 13:13"
+    }
+  ]
+}

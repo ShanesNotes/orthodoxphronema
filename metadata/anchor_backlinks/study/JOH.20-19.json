@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.20:19",
+  "canon_uri": "canon/NT/JOH.md#JOH.20:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3943,
+      "raw_match": "[[JOH.20:19]]",
+      "reference_type": "wikilink",
+      "context": "to let the Lord out, for in His glory, Christ could pass through solid rock (see [[JOH.20:19]])."
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 757,
+      "raw_match": "[[JOH.20:19]]",
+      "reference_type": "wikilink",
+      "context": "tomb, for in His resurrected body, He needs no such accommodation ([[JOH.20:19]]). Rather,"
+    }
+  ]
+}

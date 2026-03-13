@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.94:10",
+  "canon_uri": "canon/OT/PSA.md#PSA.94:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/NUM_footnotes.md",
+      "line_number": 922,
+      "raw_match": "[[PSA.94:10]]",
+      "reference_type": "wikilink",
+      "context": "astray in their heart and did not know the Lord's ways ([[PSA.94:10]]; [[HEB.3:10]]). Their hearts"
+    }
+  ]
+}

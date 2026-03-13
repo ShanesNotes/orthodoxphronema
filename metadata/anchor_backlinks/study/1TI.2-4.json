@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1TI.2:4",
+  "canon_uri": "canon/NT/1TI.md#1TI.2:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/EPH_footnotes.md",
+      "line_number": 49,
+      "raw_match": "[[1TI.2:4]]",
+      "reference_type": "wikilink",
+      "context": "will in salvation but the will of God, which is that all are chosen (see [[ROM.11:32]]; [[1TI.2:4]];"
+    },
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 260,
+      "raw_match": "[[1TI.2:4]]",
+      "reference_type": "wikilink",
+      "context": "See [[1TI.2:4]]. 19:1-14 The mother lion refers to Judah. The two young lions (v. 5) are Jehoahaz and"
+    }
+  ]
+}

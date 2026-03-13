@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.17:7",
+  "canon_uri": "canon/OT/NUM.md#NUM.17:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2123,
+      "raw_match": "[[NUM.17:7]]",
+      "reference_type": "wikilink",
+      "context": "earthly \"tabernacle of testimony\" ([[NUM.17:7]]), containing the witness of God's covenant,"
+    }
+  ]
+}

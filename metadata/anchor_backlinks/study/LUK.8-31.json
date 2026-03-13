@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.8:31",
+  "canon_uri": "canon/NT/LUK.md#LUK.8:31",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1333,
+      "raw_match": "[[LUK.8:31]]",
+      "reference_type": "wikilink",
+      "context": "(11:7; 17:8; 20:1-3; also [[LUK.8:31]]). The smoke from the pit causes a darkness on the earth;"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2743,
+      "raw_match": "[[LUK.8:31]]",
+      "reference_type": "wikilink",
+      "context": "disobedient are confined awaiting final judgment. The demons fear it (see [[LUK.8:31]]; Jude"
+    }
+  ]
+}

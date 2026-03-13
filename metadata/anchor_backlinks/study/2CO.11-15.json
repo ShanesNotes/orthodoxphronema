@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2CO.11:15",
+  "canon_uri": "canon/NT/2CO.md#2CO.11:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 347,
+      "raw_match": "[[2CO.11:13]]-23",
+      "reference_type": "wikilink_range",
+      "context": "serious problem in the early Church (see [[2CO.11:13]]-23), and Paul warned they would"
+    }
+  ]
+}

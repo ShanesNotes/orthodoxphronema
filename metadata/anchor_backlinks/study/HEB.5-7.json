@@ -1,0 +1,30 @@
+{
+  "anchor_id": "HEB.5:7",
+  "canon_uri": "canon/NT/HEB.md#HEB.5:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 381,
+      "raw_match": "[[HEB.5:7]]",
+      "reference_type": "wikilink",
+      "context": "regards His death and Resurrection (vv. 4, 7; see also [[HEB.5:7]]). Secondly, the prophecy"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 405,
+      "raw_match": "[[HEB.5:7]]-9",
+      "reference_type": "wikilink_range",
+      "context": "hand for the sake of our salvation (vv. 1-8; see also [[HEB.5:7]]-9). And in His death,"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1911,
+      "raw_match": "[[HEB.5:7]]",
+      "reference_type": "wikilink",
+      "context": "and interceded with the Father for our salvation (see also [[2CO.8:9]]; [[HEB.5:7]]). The Lord to"
+    }
+  ]
+}

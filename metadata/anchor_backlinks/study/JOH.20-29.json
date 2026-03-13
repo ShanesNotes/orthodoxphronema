@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.20:29",
+  "canon_uri": "canon/NT/JOH.md#JOH.20:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2817,
+      "raw_match": "[[JOH.20:29]]",
+      "reference_type": "wikilink",
+      "context": "benefit of seeing Christ in person (see [[JOH.20:29]]). Those who tried to silence the blind"
+    }
+  ]
+}

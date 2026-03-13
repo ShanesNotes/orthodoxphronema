@@ -1,0 +1,44 @@
+{
+  "anchor_id": "ROM.10:4",
+  "canon_uri": "canon/NT/ROM.md#ROM.10:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 288,
+      "raw_match": "[[ROM.10:4]]",
+      "reference_type": "wikilink",
+      "context": "lead them to Christ, \"the end of the law\" ([[ROM.10:4]]; [[GAL.3:24]]). 5:29"
+    },
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 902,
+      "raw_match": "[[ROM.10:4]]",
+      "reference_type": "wikilink",
+      "context": "willpower fulfill it. So the Law pointed them to Christ as the solution to their dilemma, for He is \"the end of the Law for righteousness to everyone who believes\" ([[ROM.10:4]]). Those under the Law who believed in this \"end\" would be made complete by His"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 531,
+      "raw_match": "[[ROM.10:4]]",
+      "reference_type": "wikilink",
+      "context": "the end of the ages\" ([[HEB.9:26]]), and He is \"the end of the law\" ([[ROM.10:4]]); therefore, He"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 1609,
+      "raw_match": "[[ROM.10:4]]",
+      "reference_type": "wikilink",
+      "context": "sins and \"the end of the law for righteousness\" ([[ROM.10:4]])."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 81,
+      "raw_match": "[[ROM.10:4]]",
+      "reference_type": "wikilink",
+      "context": "everyone who believes\" ([[ROM.10:4]]), and He is \"the Alpha and the Omega, the Beginning"
+    }
+  ]
+}

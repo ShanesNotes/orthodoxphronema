@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.17:21",
+  "canon_uri": "canon/NT/JOH.md#JOH.17:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 57,
+      "raw_match": "[[JOH.17:21]]",
+      "reference_type": "wikilink",
+      "context": "Church not be one and united (see [[JOH.17:11]], [[JOH.17:20]], [[JOH.17:21]]) or that fellowship not be founded on"
+    },
+    {
+      "source_file": "staging/validated/OT/2CH_footnotes.md",
+      "line_number": 95,
+      "raw_match": "[[JOH.17:21]]",
+      "reference_type": "wikilink",
+      "context": "be one in Us\" ([[JOH.17:21]]). Hence at Divine Liturgy the faithful pray, \"And grant us with one"
+    }
+  ]
+}

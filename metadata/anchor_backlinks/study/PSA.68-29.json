@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.68:29",
+  "canon_uri": "canon/OT/PSA.md#PSA.68:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 621,
+      "raw_match": "[[PSA.68:29]]",
+      "reference_type": "wikilink",
+      "context": "The Book of Life (13:8; 17:8; 20:12, 15; [[EXO.32:32]]; [[PSA.68:29]]; [[DAN.12:1]]; [[LUK.10:20]]; see"
+    }
+  ]
+}

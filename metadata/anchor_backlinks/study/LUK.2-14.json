@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.2:14",
+  "canon_uri": "canon/NT/LUK.md#LUK.2:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/GAL_footnotes.md",
+      "line_number": 53,
+      "raw_match": "[[LUK.2:9]]-15",
+      "reference_type": "wikilink_range",
+      "context": "birth ([[LUK.2:9]]-15), Resurrection ([[MAT.28:5]]-7), and Ascension ([[ACT.1:9]]-11). But angelic"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 189,
+      "raw_match": "[[LUK.2:8]]-20",
+      "reference_type": "wikilink_range",
+      "context": "the day He was born ([[LUK.2:8]]-20), the Gentile magi came to worship Him some time later."
+    }
+  ]
+}

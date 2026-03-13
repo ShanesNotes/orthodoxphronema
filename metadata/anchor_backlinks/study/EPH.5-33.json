@@ -1,0 +1,44 @@
+{
+  "anchor_id": "EPH.5:33",
+  "canon_uri": "canon/NT/EPH.md#EPH.5:33",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 345,
+      "raw_match": "[[EPH.5:22]]-33",
+      "reference_type": "wikilink_range",
+      "context": "one's spouse even affects one's relationship with God (see [[EPH.5:22]]-33)."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2987,
+      "raw_match": "[[EPH.5:21]]-33",
+      "reference_type": "wikilink_range",
+      "context": "marriage analogy for the Kingdom ([[EPH.5:21]]-33)."
+    },
+    {
+      "source_file": "staging/validated/OT/BAR_footnotes.md",
+      "line_number": 214,
+      "raw_match": "[[EPH.5:21]]-33",
+      "reference_type": "wikilink_range",
+      "context": "See Is 40:4, 5; [[EPH.5:21]]-33."
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 135,
+      "raw_match": "[[EPH.5:22]]-33",
+      "reference_type": "wikilink_range",
+      "context": "joining, he will be devoted to her with sacrificial love and devotion, and she to him. This great mystery points to the greater mystery: the marriage of Christ and His Bride, the Church ([[EPH.5:22]]-33). For He left His Father and became Man to seek a Bride. He"
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1502,
+      "raw_match": "[[EPH.5:22]]-33",
+      "reference_type": "wikilink_range",
+      "context": "(see [[EPH.5:22]]-33)."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.2:1",
+  "canon_uri": "canon/NT/LUK.md#LUK.2:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1277,
+      "raw_match": "[[LUK.2:1]]-7",
+      "reference_type": "wikilink_range",
+      "context": "[[LUK.2:1]]-7). Beyond this, they cannot comprehend that He has come from the Father in"
+    },
+    {
+      "source_file": "staging/validated/OT/3MA_footnotes.md",
+      "line_number": 356,
+      "raw_match": "[[LUK.2:1]]-4",
+      "reference_type": "wikilink_range",
+      "context": "registered and enrolled, each with his own tribe ([[LUK.2:1]]-4)."
+    }
+  ]
+}

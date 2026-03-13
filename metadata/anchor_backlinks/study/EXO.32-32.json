@@ -1,0 +1,37 @@
+{
+  "anchor_id": "EXO.32:32",
+  "canon_uri": "canon/OT/EXO.md#EXO.32:32",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 621,
+      "raw_match": "[[EXO.32:32]]",
+      "reference_type": "wikilink",
+      "context": "The Book of Life (13:8; 17:8; 20:12, 15; [[EXO.32:32]]; [[PSA.68:29]]; [[DAN.12:1]]; [[LUK.10:20]]; see"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2877,
+      "raw_match": "[[EXO.32:32]]",
+      "reference_type": "wikilink",
+      "context": "(see [[EXO.32:32]]; Is 4:3; [[DAN.12:1]], [[DAN.12:2]])--not that they have no works, but that God's mercy is"
+    },
+    {
+      "source_file": "staging/validated/OT/JOB_footnotes.md",
+      "line_number": 972,
+      "raw_match": "[[EXO.32:32]]",
+      "reference_type": "wikilink",
+      "context": "Abraham and Moses (see [[GEN.18:22]]-33; [[EXO.32:32]]) and fulfilled by Christ ([[LUK.23:34]]). As"
+    },
+    {
+      "source_file": "staging/validated/OT/MAL_footnotes.md",
+      "line_number": 209,
+      "raw_match": "[[EXO.32:32]]-34",
+      "reference_type": "wikilink_range",
+      "context": "name. Their names are in a book of remembrance ([[EXO.32:32]]-34; Is 4:3; [[DAN.7:10]])."
+    }
+  ]
+}

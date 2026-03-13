@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.13:19",
+  "canon_uri": "canon/OT/EXO.md#EXO.13:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 670,
+      "raw_match": "[[EXO.13:19]]",
+      "reference_type": "wikilink",
+      "context": "The bones of Joseph ([[GEN.50:24]], [[GEN.50:25]]; [[EXO.13:19]]) are buried . . . at Shechem. Thus, God's covenant with Abraham, Isaac, and Joseph comes full circle and begins anew with"
+    }
+  ]
+}

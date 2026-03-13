@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EPH.1:13",
+  "canon_uri": "canon/NT/EPH.md#EPH.1:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[EPH.1:3]]-14",
+      "reference_type": "wikilink_range",
+      "context": "[[EPH.1:3]]-14; 5:14; [[PHP.2:6]]-11; [[COL.1:15]]-20.) Thus, when the early Councils met and"
+    }
+  ]
+}

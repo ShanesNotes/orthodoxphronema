@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1PE.1:25",
+  "canon_uri": "canon/NT/1PE.md#1PE.1:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 251,
+      "raw_match": "[[1PE.1:25]]",
+      "reference_type": "wikilink",
+      "context": "gospel [Heb 6:5; [[1PE.1:25]]], a message from God [1Pt 1:25], or an act of God [Heb 11:3].)"
+    },
+    {
+      "source_file": "staging/validated/OT/2KI_footnotes.md",
+      "line_number": 274,
+      "raw_match": "[[1PE.1:25]]",
+      "reference_type": "wikilink",
+      "context": "world pass away ([[MAT.24:35]]; [[1CO.1:9]]; [[1TH.5:24]]; [[1PE.1:25]]). 8:1-6"
+    }
+  ]
+}

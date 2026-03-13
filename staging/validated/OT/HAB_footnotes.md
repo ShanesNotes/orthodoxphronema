@@ -16,11 +16,11 @@ Prophets frequently describe prophetic oracles as "burdens" (Heb. massa I: "burd
 
 nasa, "to carry") from the Lord, possibly because the oracles nearly always spell out heavy
 
-judgment from God (Jer 23:33). In contrast, Jesus describes his burden as "light" (Mt
+judgment from God ([[JER.23:33]]). In contrast, Jesus describes his burden as "light" (Mt
 
 11:30). John says that because of all God's love has done for us, keeping His
 
-commandments is not burdensome (1Jn 5:3). 
+commandments is not burdensome ([[1JN.5:3]]). 
 
 ### 1:2
 *(anchor: HAB.1:2)*
@@ -33,11 +33,11 @@ from His point of view, the prophet is horrified. He cries for God to act, but t
 
 answer from God. "How long?" is a familiar refrain among the Old Testament prophets
 
-(Zec 1:12) and the psalmists (Ps 12:1) when God appears silent, remote, and powerless (Is
+([[ZEC.1:12]]) and the psalmists ([[PSA.12:1]]) when God appears silent, remote, and powerless (Is
 
 63:15). God hates violence on the earth and will judge severely the cruel treatment of
 
-humans by other humans (Gn 6:5-7; Ps 10:6; Rev 6:10). 
+humans by other humans ([[GEN.6:5]]-7; [[PSA.10:6]]; [[REV.6:10]]). 
 
 ### 1:5
 *(anchor: HAB.1:5)*
@@ -70,7 +70,7 @@ use other nations to punish Israel. The cycle of Israel's covenant unfaithfulnes
 
 punishment, for God hints at their exile and utter destruction as a nation. The nation of
 
-Judah falsely believed that their fickle repentance (Hos 6:1-3) as well as God's covenant
+Judah falsely believed that their fickle repentance ([[HOS.6:1]]-3) as well as God's covenant
 
 with David and the presence of the temple in Jerusalem would protect them forever (Jer
 
@@ -90,11 +90,11 @@ answerable to God for their crimes against humanity.
 
 With surprising boldness, Habakkuk questions God's judgment. Here Habakkuk is
 
-like many other biblical prophets: Abraham (Gn 18:23ff.), Moses (Ex 32:11ff.), Jeremiah
+like many other biblical prophets: Abraham ([[GEN.18:23]]ff.), Moses ([[EXO.32:11]]ff.), Jeremiah
 
 (20:7), or Amos (7:1ff.). Throughout the Bible, men and women wrestle mightily with
 
-God and His will, like Jacob with God at the River Jabbok (Gn 32:22). 
+God and His will, like Jacob with God at the River Jabbok ([[GEN.32:22]]). 
 
 ### 1:14
 *(anchor: HAB.1:14)*
@@ -124,7 +124,7 @@ clearly that its readers can take immediate action.
 
 During tumultuous times, God first commands Habakkuk to wait patiently for His
 
-vision to arrive, despite all contrary appearances or delays. Heb 10:37, 38 quotes these
+vision to arrive, despite all contrary appearances or delays. [[HEB.10:37]], [[HEB.10:38]] quotes these
 
 verses from Habakkuk to exhort its hearers to endure suffering boldly as we await the
 
@@ -137,7 +137,7 @@ Against those Judaizing Christians who wanted to bind the entire Law (particular
 
 circumcision) upon Gentile converts, Paul quotes Habakkuk to show that we are justified
 
-by faith, not by the works of the Law (Gal 3:11; Rom 1:17). 
+by faith, not by the works of the Law ([[GAL.3:11]]; [[ROM.1:17]]). 
 
 ### 2:5
 *(anchor: HAB.2:5)*
@@ -160,7 +160,7 @@ Man has a relentless hunger for material gain, which he thinks will insulate him
 
 from misfortune; but wealth is false security. This deluded quest for self-sufficiency is
 
-described elsewhere as virtual atheism (Ps 11:4, 5). The yield is not security but death and
+described elsewhere as virtual atheism ([[PSA.11:4]], [[PSA.11:5]]). The yield is not security but death and
 
 destruction. There is no security other than in God. 
 
@@ -180,9 +180,9 @@ righteousness will endure.
 
 Elsewhere, Hosea describes the fundamental human problem as lack of knowledge of
 
-God (Hos 4:1, 6; 6:6). This ignorance unfortunately is self-inflicted because men suppress
+God ([[HOS.4:1]], [[HOS.4:6]]; 6:6). This ignorance unfortunately is self-inflicted because men suppress
 
-the truth about God (Rom 1:18-32). 
+the truth about God ([[ROM.1:18]]-32). 
 
 ### 2:16
 *(anchor: HAB.2:16)*
@@ -193,14 +193,14 @@ God's wrath. The Book of Revelation describes the eschatological judgment upon t
 
 "great Babylon" in terms of God giving her to drink of "the cup of the wine of the
 
-fierceness of His wrath" (Rev 16:19). 
+fierceness of His wrath" ([[REV.16:19]]). 
 
 ### 2:20
 *(anchor: HAB.2:20)*
 
 The mystery of God is best honored with silence. When God revealed Himself out of
 
-the whirlwind, Job too was found speechless (Job 40:5; 42:3). 
+the whirlwind, Job too was found speechless ([[JOB.40:5]]; 42:3). 
 
 ### 3:2
 *(anchor: HAB.3:2)*

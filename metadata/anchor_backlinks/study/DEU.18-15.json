@@ -1,0 +1,44 @@
+{
+  "anchor_id": "DEU.18:15",
+  "canon_uri": "canon/OT/DEU.md#DEU.18:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 275,
+      "raw_match": "[[DEU.18:15]]-19",
+      "reference_type": "wikilink_range",
+      "context": "Moses foretold ([[DEU.18:15]]-19)."
+    },
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 723,
+      "raw_match": "[[DEU.18:15]]-18",
+      "reference_type": "wikilink_range",
+      "context": "whom Moses foretold ([[DEU.18:15]]-18). Christ's insight into people's hearts, reported many"
+    },
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1331,
+      "raw_match": "[[DEU.18:15]]-19",
+      "reference_type": "wikilink_range",
+      "context": "([[DEU.18:15]]-19)."
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 129,
+      "raw_match": "[[DEU.18:15]]-18",
+      "reference_type": "wikilink_range",
+      "context": "fulfilled all three offices perfectly. He is the true Prophet ([[DEU.18:15]]-18), the true King"
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 239,
+      "raw_match": "[[DEU.18:15]]",
+      "reference_type": "wikilink",
+      "context": "whom Moses foretold ([[DEU.18:15]]), while others interpret it as simply meaning a new"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "anchor_id": "LUK.3:36",
+  "canon_uri": "canon/NT/LUK.md#LUK.3:36",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 37,
+      "raw_match": "[[LUK.3:23]]-38",
+      "reference_type": "wikilink_range",
+      "context": "While Luke's genealogy runs from Jesus back to Adam ([[LUK.3:23]]-38), Matthew's list"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 85,
+      "raw_match": "[[LUK.3:23]]-38",
+      "reference_type": "wikilink_range",
+      "context": "note on [[LUK.3:23]]-38.)"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 343,
+      "raw_match": "[[LUK.3:23]]-38",
+      "reference_type": "wikilink_range",
+      "context": "This passage focuses on the genealogy of Christ ([[LUK.3:23]]-38) and the reality of"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 356,
+      "raw_match": "[[LUK.3:36]]",
+      "reference_type": "wikilink",
+      "context": "genealogy ([[LUK.3:36]]), for the next several chapters focus on him and his family. Lamech named his son Noah, and as 5:29 points out, this name means \"to give rest.\""
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 527,
+      "raw_match": "[[LUK.3:36]]",
+      "reference_type": "wikilink",
+      "context": "([[PSA.23:5]]). 9:8-16 Noah's seed is Christ ([[LUK.3:23]], [[LUK.3:36]]), and the everlasting covenant (v. 16) is the"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 539,
+      "raw_match": "[[LUK.3:36]]",
+      "reference_type": "wikilink",
+      "context": "of Shem, through whom Christ would come to save the world ([[LUK.3:36]]). 10:1"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 543,
+      "raw_match": "[[LUK.3:36]]",
+      "reference_type": "wikilink",
+      "context": "Christ's genealogy is traced from Shem down to Peleg ([[LUK.3:35]], [[LUK.3:36]]). His name"
+    }
+  ]
+}

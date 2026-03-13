@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.15:23",
+  "canon_uri": "canon/NT/MRK.md#MRK.15:23",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1295,
+      "raw_match": "[[MRK.15:23]]",
+      "reference_type": "wikilink",
+      "context": "[[MRK.15:23]], [[MRK.15:36]]; [[LUK.23:36]]; [[JOH.19:28]]-30); and (4) the Jews would be rejected for their"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ACT.21:5",
+  "canon_uri": "canon/NT/ACT.md#ACT.21:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 338,
+      "raw_match": "[[ACT.21:3]]-5",
+      "reference_type": "wikilink_range",
+      "context": "Pentecost, the gospel spread rapidly to this region ([[ACT.21:3]]-5)."
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 348,
+      "raw_match": "[[ACT.21:3]]-5",
+      "reference_type": "wikilink_range",
+      "context": "established in Tyre (see [[ACT.21:3]]-5). 24:1-6"
+    }
+  ]
+}

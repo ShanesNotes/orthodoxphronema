@@ -1,0 +1,23 @@
+{
+  "anchor_id": "EZK.38:22",
+  "canon_uri": "canon/OT/EZK.md#EZK.38:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2839,
+      "raw_match": "[[EZK.38:22]]",
+      "reference_type": "wikilink",
+      "context": "[[EZK.38:22]]; 39:6). The devil joins the beast and the false prophet in the lake of fire,"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 2163,
+      "raw_match": "[[EZK.38:22]]",
+      "reference_type": "wikilink",
+      "context": "the people of Israel to their land. Verse 9 likely refers to [[EZK.38:22]], which prophesies God"
+    }
+  ]
+}

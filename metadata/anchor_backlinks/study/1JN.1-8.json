@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1JN.1:8",
+  "canon_uri": "canon/NT/1JN.md#1JN.1:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JAS_footnotes.md",
+      "line_number": 479,
+      "raw_match": "[[1JN.1:8]]",
+      "reference_type": "wikilink",
+      "context": "community ([[1JN.1:8]], [[1JN.1:10]]). Thus, the Church has effected healing through such works of"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 354,
+      "raw_match": "[[1JN.1:7]]-9",
+      "reference_type": "wikilink_range",
+      "context": "forgives and cleanses the unknown ones as we walk in the light ([[1JN.1:7]]-9). The priest would make atonement for the sinner, that is, reconcile him with God. This"
+    }
+  ]
+}

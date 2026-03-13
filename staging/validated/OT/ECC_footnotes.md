@@ -25,14 +25,14 @@ the building where the people gather.
 ### 1:2
 *(anchor: ECC.1:2)*
 
-All, that is, everything in life that is apart from the purpose for which God created us, is vanity (see Rom 8:20). 
+All, that is, everything in life that is apart from the purpose for which God created us, is vanity (see [[ROM.8:20]]). 
 
 ### 1:3-7
 *(anchor: ECC.1:3)*
 
-We labor that we may profit, but labor loses its meaning (see Mt 16:26) when it has
+We labor that we may profit, but labor loses its meaning (see [[MAT.16:26]]) when it has
 
-no eternal purpose. From generation to generation, we inherit death (Job 14:10). But
+no eternal purpose. From generation to generation, we inherit death ([[JOB.14:10]]). But
 
 Christ, the Sun of Righteousness (Mal 4:2), gives meaning to our labor and raises us up
 
@@ -45,7 +45,7 @@ Even the human quest for knowledge and wisdom proves fruitless, because man
 
 cannot remember what he learned. Nothing new (v. 9) contrasts with the OT prophets
 
-who proclaim a new covenant (Jer 38:31; Is 65:27) created in Christ. 
+who proclaim a new covenant ([[JER.38:31]]; Is 65:27) created in Christ. 
 
 ### 1:12-13
 *(anchor: ECC.1:12)*
@@ -100,14 +100,14 @@ bold to sing, "Memory eternal!"
 
 Earthly food and drink still ends in death, but the eternal food of the Eucharist
 
-(Jn 6:55) imparts good--that is, wisdom, knowledge, and gladness (v. 26)--to those
+([[JOH.6:55]]) imparts good--that is, wisdom, knowledge, and gladness (v. 26)--to those
 
 who labor for God. 
 
 ### 3:1-11
 *(anchor: ECC.3:1)*
 
-The eternal Word--the beginning and the end (v. 11; Rev 22:13)--came into time
+The eternal Word--the beginning and the end (v. 11; [[REV.22:13]])--came into time
 
 and redeemed all things. He turned our weeping into joy, our mourning into dancing, our
 
@@ -134,16 +134,16 @@ the works God has given us to do.
 
 Job expressed a similar sentiment of being oppressed when he wished that he had
 
-never been born to see such sorrow (Job 3:10-16). But Christ has sent a comforter, the
+never been born to see such sorrow ([[JOB.3:10]]-16). But Christ has sent a comforter, the
 
-Holy Spirit (Jn 14:16), to wipe away all tears. Verse 2 speaks of the communion of the
+Holy Spirit ([[JOH.14:16]]), to wipe away all tears. Verse 2 speaks of the communion of the
 
 saints. 
 
 ### 4:8
 *(anchor: ECC.4:8)*
 
-Our Lord spoke of this kind of person in the parable of the rich fool (Lk 12:16-21). 
+Our Lord spoke of this kind of person in the parable of the rich fool ([[LUK.12:16]]-21). 
 
 ### 4:10
 *(anchor: ECC.4:10)*
@@ -153,7 +153,7 @@ What a marvelous picture of encouragement in the Church!
 ### 4:12
 *(anchor: ECC.4:12)*
 
-The threefold cord may be linked to the virtues of faith, hope, and love (1Co 13:13). 
+The threefold cord may be linked to the virtues of faith, hope, and love ([[1CO.13:13]]). 
 
 ### 4:13-17
 *(anchor: ECC.4:13)*
@@ -211,14 +211,14 @@ good old days"!
 
 The overly righteous are like the Pharisee who "went up to the temple to pray" (Lk
 
-18:10), and the overly wise may be likened to the wise of this world (1Co 1:18). St. Paul
+18:10), and the overly wise may be likened to the wise of this world ([[1CO.1:18]]). St. Paul
 
-writes, "Therefore let him who thinks he stands take heed lest he fall" (1Co 10:12). 
+writes, "Therefore let him who thinks he stands take heed lest he fall" ([[1CO.10:12]]). 
 
 ### 7:18
 *(anchor: ECC.7:18)*
 
-See Rom 8:28. 
+See [[ROM.8:28]]. 
 
 ### 7:20
 *(anchor: ECC.7:20)*
@@ -244,11 +244,11 @@ curse of death and freed us from our sins.
 ### 8:1-5
 *(anchor: ECC.8:1)*
 
-Christ's "face shone like the sun" on Mount Tabor (Mt 17:2). The faithful also shine
+Christ's "face shone like the sun" on Mount Tabor ([[MAT.17:2]]). The faithful also shine
 
-with His ineffable light, as Christ Himself said, "You are the light of the world" (Mt 5:14). Therefore, let us work to acquire the wisdom that is Christ our king, that we might
+with His ineffable light, as Christ Himself said, "You are the light of the world" ([[MAT.5:14]]). Therefore, let us work to acquire the wisdom that is Christ our king, that we might
 
-shine as lights "in the midst of a crooked and perverse generation" (Php 2:15). 
+shine as lights "in the midst of a crooked and perverse generation" ([[PHP.2:15]]). 
 
 ### 8:8
 *(anchor: ECC.8:8)*
@@ -269,7 +269,7 @@ time.
 
 This trilogy of words, eat, drink, and be merry, is also used by Jesus in the parable
 
-of the rich fool (Lk 12:19). 
+of the rich fool ([[LUK.12:19]]). 
 
 ### 9:1
 *(anchor: ECC.9:1)*
@@ -281,7 +281,7 @@ God; unregenerate man is on his own.
 ### 9:4
 *(anchor: ECC.9:4)*
 
-The living dog is an image of the Gentile believers (Mt 15:26, 27), and the dead lion
+The living dog is an image of the Gentile believers ([[MAT.15:26]], [[MAT.15:27]]), and the dead lion
 
 images the nation of Israel. 
 
@@ -319,7 +319,7 @@ glorify God.
 
 The city can be seen as an image of the Kingdom of heaven, ruled by Christ the
 
-king and His princes (v. 16), the faithful. Christ calls the scribes and Pharisees fools (v. 15) for being too blind to see the truth (Mt 23:17, 19). 
+king and His princes (v. 16), the faithful. Christ calls the scribes and Pharisees fools (v. 15) for being too blind to see the truth ([[MAT.23:17]], [[MAT.23:19]]). 
 
 ### 11:1-10
 *(anchor: ECC.11:1)*

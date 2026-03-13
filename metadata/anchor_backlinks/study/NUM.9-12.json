@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.9:12",
+  "canon_uri": "canon/OT/NUM.md#NUM.9:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 558,
+      "raw_match": "[[NUM.9:12]]",
+      "reference_type": "wikilink",
+      "context": "commandment concerning Pascha (see also [[NUM.9:12]]). We see the strong connection"
+    }
+  ]
+}

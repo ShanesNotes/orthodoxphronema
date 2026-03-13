@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.111:2",
+  "canon_uri": "canon/OT/PSA.md#PSA.111:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 1223,
+      "raw_match": "[[PSA.111:1]]-6",
+      "reference_type": "wikilink_range",
+      "context": "departed righteous (11:4-40; see also [[PSA.111:1]]-6; Pr 10:8)."
+    }
+  ]
+}

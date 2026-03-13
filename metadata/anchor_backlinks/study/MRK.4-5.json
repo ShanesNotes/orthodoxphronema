@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.4:5",
+  "canon_uri": "canon/NT/MRK.md#MRK.4:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 345,
+      "raw_match": "[[MRK.4:5]]",
+      "reference_type": "wikilink",
+      "context": "take constant daily care not to be deceived and thus fall away (see [[MRK.4:5]], [[MRK.4:6]], [[MRK.4:16]], [[MRK.4:17]])."
+    }
+  ]
+}

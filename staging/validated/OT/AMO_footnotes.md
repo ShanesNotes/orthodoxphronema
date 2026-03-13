@@ -14,14 +14,14 @@ status: staging
 
 Amos preached repentance during a time of spiritual drought that preceded judgment
 
-(Lk 3:1, 2); indeed, Christ's Advent was an earthquake that shook the world (Mt 28:2), and the coming of the Holy Spirit a judgment by fire (vv. 4, 7, 10, 12, 14; 2:2, 5). 
+([[LUK.3:1]], [[LUK.3:2]]); indeed, Christ's Advent was an earthquake that shook the world ([[MAT.28:2]]), and the coming of the Holy Spirit a judgment by fire (vv. 4, 7, 10, 12, 14; 2:2, 5). 
 
 ### 1:3-3
 *(anchor: AMO.1:3)*
 
 These judgments are clearly against God's spiritual enemies: demonic powers, idolatry, false teaching, pride, hypocrisy, etc. Gregory the Great sees Gilead, which
 
-means "heap of testimony" (see Gn 31:47, 48; Jos 1:12-18 and note), as showing forth the
+means "heap of testimony" (see [[GEN.31:47]], [[GEN.31:48]]; [[JOS.1:12]]-18 and note), as showing forth the
 
 witness of the faithful; and the saw made of iron as being "the sword of error," or false
 
@@ -55,7 +55,7 @@ them" (JohnChr).
 
 As a lion will not roar in a forest that has no prey, so the passions will not attack the
 
-believer who brings "every thought into captivity to the obedience of Christ" (2Co 10:5). 
+believer who brings "every thought into captivity to the obedience of Christ" ([[2CO.10:5]]). 
 
 ### 3:6
 *(anchor: AMO.3:6)*
@@ -105,7 +105,7 @@ beyond the purgation of this very brief age and the punishment of the present li
 
 As both God and Man, Christ, the Anointed One, holds the thunder of His divinity
 
-within His humanity. His very breath was created "in the midst of the earth" (Ps 73:12; see Zec 12:1) when He was conceived by the uncreated Spirit in the womb of the Virgin. 
+within His humanity. His very breath was created "in the midst of the earth" ([[PSA.73:12]]; see [[ZEC.12:1]]) when He was conceived by the uncreated Spirit in the womb of the Virgin. 
 
 ### 5:2
 *(anchor: AMO.5:2)*
@@ -123,7 +123,7 @@ without leaving a legacy. It will be as though she had never existed.
 ### 5:6
 *(anchor: AMO.5:6)*
 
-House of Joseph refers to Joseph's two sons, Ephraim and Manasseh (Gn 46:20)
+House of Joseph refers to Joseph's two sons, Ephraim and Manasseh ([[GEN.46:20]])
 
 and their descendants, who were the main tribes of the Northern Kingdom of Israel. By
 
@@ -141,14 +141,14 @@ The Sun of Righteousness rises in the morning and transforms (v. 8) the
 
 repentant soul from death into life. But on the day of the Lord, those who flee God will
 
-be plunged into the very darkness (v. 20) that they love so much (see Jn 3:19-21). 
+be plunged into the very darkness (v. 20) that they love so much (see [[JOH.3:19]]-21). 
 
 ### 5:10
 *(anchor: AMO.5:10)*
 
 Christ, the upright word Incarnate, was hated for publicly rebuking the scribes and
 
-Pharisees in the gates (Mt 21:45, 46; Lk 11:45-12:1; 13:14-17; Jn 7:7; 8:20; see also Pr
+Pharisees in the gates ([[MAT.21:45]], [[MAT.21:46]]; Lk 11:45-12:1; 13:14-17; [[JOH.7:7]]; 8:20; see also Pr
 
 
 ### 9:8
@@ -182,7 +182,7 @@ calculated to provide a wretched delight and ruinous vainglory."
 
 6:12
 
-Justice was overturned when Pilate, having declared that Christ was innocent, submitted to the anger of the Jews and allowed Him to be crucified (Lk 23:13-25). Chrysostom remarks further that bitterness was hell's response when Christ entered. 7:2
+Justice was overturned when Pilate, having declared that Christ was innocent, submitted to the anger of the Jews and allowed Him to be crucified ([[LUK.23:13]]-25). Chrysostom remarks further that bitterness was hell's response when Christ entered. 7:2
 
 Like all true prophets, Amos grieves and intercedes on behalf of his people. 7:7
 
@@ -192,7 +192,7 @@ Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this
 
 gathered together against Him and wanted His downfall because His teaching did not
 
-please them. But He said, 'It will crush and destroy whomever it falls upon' (Mt 21:44), because He had resisted idolatry, among other things."
+please them. But He said, 'It will crush and destroy whomever it falls upon' ([[MAT.21:44]]), because He had resisted idolatry, among other things."
 
 7:14-15 Gregory the Great writes on the work of grace in the life of the humble: "What a
 
@@ -210,7 +210,7 @@ something we never used to be."
 
 The day of Christ's Crucifixion was indeed a day of mourning (v. 10). The earth
 
-quaked (Mt 27:50-53), and the sun was darkened at midday (Mk 15:33). In a more
+quaked ([[MAT.27:50]]-53), and the sun was darkened at midday ([[MRK.15:33]]). In a more
 
 immediate sense, this prophecy may also have been fulfilled on June 15, 763 BC, when a
 
@@ -230,7 +230,7 @@ sword of the Spirit; descended into Hades (v. 2); sanctified creation in the riv
 
 baptism; made his ascent to the heaven (v. 6); and established His Church on the
 
-earth (Acts 1:8, 9; 2:1-11). He restored the faithful remnant (v. 12); brought in the
+earth ([[ACT.1:8]], [[ACT.1:9]]; 2:1-11). He restored the faithful remnant (v. 12); brought in the
 
 nations (v. 12); and planted His Church among them. Drink wine (v. 14) foreshadows
 

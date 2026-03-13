@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ROM.3:31",
+  "canon_uri": "canon/NT/ROM.md#ROM.3:31",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 785,
+      "raw_match": "[[ROM.3:31]]",
+      "reference_type": "wikilink",
+      "context": "deliver to them; (4) granting righteousness--the goal of the Law--to us ([[ROM.3:31]]; 8:3, 4;"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1406,
+      "raw_match": "[[ROM.3:29]]-31",
+      "reference_type": "wikilink_range",
+      "context": "fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27)."
+    }
+  ]
+}

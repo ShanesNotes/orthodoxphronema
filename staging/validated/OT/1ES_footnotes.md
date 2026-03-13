@@ -16,9 +16,9 @@ The Passover under Josiah and the account of his death (vv. 26-31). Josiah was
 
 the last king of Judah to seek truth (v. 21). As such, he is a figure of Christ, who is the
 
-embodiment of truth (Jn 14:6). From Exodus 12 we learn that the Feast of the Passover is
+embodiment of truth ([[JOH.14:6]]). From Exodus 12 we learn that the Feast of the Passover is
 
-an OT type of the NT paschal feast (1Co 10:23-26), in which the Church celebrates the
+an OT type of the NT paschal feast ([[1CO.10:23]]-26), in which the Church celebrates the
 
 death and Resurrection of Christ. 
 
@@ -40,18 +40,18 @@ Christ, King of the Jews, to build His Church and set the Gentiles free.
 
 work in His Incarnation. The Feast of Passover described in 1 Ezra also images the
 
-heavenly banquet (Rev 19:7-9), and both are experienced today in the Holy Eucharist. As
+heavenly banquet ([[REV.19:7]]-9), and both are experienced today in the Holy Eucharist. As
 
 the psalmist writes, "But God is our King before the ages; / He worked salvation in the
 
-midst of the earth" (Ps 73:12). 
+midst of the earth" ([[PSA.73:12]]). 
 
 ### 3:4-5
 *(anchor: 1ES.3:4)*
 
 These three young men who speak as one are, like the three men at the trees of
 
-Mamre (Gn 18:2), another OT symbol of the Holy Trinity. Their role as the king's
+Mamre ([[GEN.18:2]]), another OT symbol of the Holy Trinity. Their role as the king's
 
 bodyguards illustrates the way in which the unknowable, inconceivable God reveals
 
@@ -60,7 +60,7 @@ Himself in His creation as Triune.
 ### 3:6
 *(anchor: 1ES.3:6)*
 
-Purple denotes royalty and equality with the king (see note on Est 6:6-9); the gold
+Purple denotes royalty and equality with the king (see note on [[EST.6:6]]-9); the gold
 
 cups symbolize Christ's cup of salvation; sleep in a gold bed foreshadows His rest in
 
@@ -68,7 +68,7 @@ the tomb; the chariot--like Elijah's chariot of fire (3Kg 2:11)--foreshadows the
 
 Ascension; the linen head covering points both to the OT priesthood and to the linen in
 
-which Christ's body was wrapped (Jn 20:7); and the necklace symbolizes virtue (Pr 3:3, 22; 6:21; SS 1:10; see also Dan 5:7). 
+which Christ's body was wrapped ([[JOH.20:7]]); and the necklace symbolizes virtue (Pr 3:3, 22; 6:21; SS 1:10; see also [[DAN.5:7]]). 
 
 ### 3:7
 *(anchor: 1ES.3:7)*
@@ -91,11 +91,11 @@ Godhead when He is manifest to the world.
 ### 3:17-24
 *(anchor: 1ES.3:17)*
 
-The strength of wine symbolizes the "new wine" of the new covenant (Mt 9:15-
+The strength of wine symbolizes the "new wine" of the new covenant ([[MAT.9:15]]-
 
 17): the Holy Spirit uniting with and dwelling within men. St. Paul writes, "And do not be
 
-drunk with wine . . . but be filled with the Spirit" (Eph 5:18). 
+drunk with wine . . . but be filled with the Spirit" ([[EPH.5:18]]). 
 
 ### 4:1-12
 *(anchor: 1ES.4:1)*
@@ -113,7 +113,7 @@ Trinity until the advent of Christ.
 
 The third, named Zerubbabel, is the only one of the three bodyguards who is
 
-named. He is of Christ's lineage (Mt 1:12), a leader in the rebuilding of the temple, and a
+named. He is of Christ's lineage ([[MAT.1:12]]), a leader in the rebuilding of the temple, and a
 
 figure of Christ. 
 
@@ -122,7 +122,7 @@ figure of Christ.
 
 Women prevail, for women fulfill man's purpose. God intended for men and
 
-women to be united in love, just as Christ and His Church are united in love (Eph 5:22, 23). Thus, as Zerubbabel describes women, we see Christ describing His relationship with
+women to be united in love, just as Christ and His Church are united in love ([[EPH.5:22]], [[EPH.5:23]]). Thus, as Zerubbabel describes women, we see Christ describing His relationship with
 
 His Bride. 
 
@@ -131,23 +131,23 @@ His Bride.
 
 Vineyards and wine (v. 16) symbolize the Eucharist, and clothing (v. 17) points
 
-to being clothed with Christ in baptism. As woman is the glory of man (1Co 11:7), so the
+to being clothed with Christ in baptism. As woman is the glory of man ([[1CO.11:7]]), so the
 
-Church is the glory of Christ (Eph 5:21). 
+Church is the glory of Christ ([[EPH.5:21]]). 
 
 ### 4:20
 *(anchor: 1ES.4:20)*
 
-This is a paraphrase of Gn 2:24. According to St. Paul, the union of man and wife in
+This is a paraphrase of [[GEN.2:24]]. According to St. Paul, the union of man and wife in
 
-marriage is an image of Christ and His Church (Eph 5:30-32; see note at 4:14, 15). 
+marriage is an image of Christ and His Church ([[EPH.5:30]]-32; see note at 4:14, 15). 
 
 ### 4:29-31
 *(anchor: 1ES.4:29)*
 
 The concubine is often an OT figure of fallen humanity. She has received God's
 
-crown, that is His divine image and likeness, on her own head in creation (Gn 1:26). On the other hand, she has struck the king--indeed, killed him--that she might be
+crown, that is His divine image and likeness, on her own head in creation ([[GEN.1:26]]). On the other hand, she has struck the king--indeed, killed him--that she might be
 
 reconciled with him, that is, with Christ. 
 
@@ -180,7 +180,7 @@ of the Divine Liturgy, "We have found the true faith, worshiping the undivided T
 
 Ask what you will: As the Father gives all things to the Son, so Christ gives all
 
-things to those who ask according to His will (Mt 21:22; Jn 14:14; 1Jn 5:15). 
+things to those who ask according to His will ([[MAT.21:22]]; [[JOH.14:14]]; [[1JN.5:15]]). 
 
 ### 4:43-45
 *(anchor: 1ES.4:43)*
@@ -189,7 +189,7 @@ The request of Zerubbabel, echoed in the prayer of the repentant thief (Lk
 
 23:42), reveals the will of God for the world: rebuild Jerusalem, that is, "the city of the
 
-living God, the heavenly Jerusalem" (Heb 12:22). Send back all the vessels (v. 44) and
+living God, the heavenly Jerusalem" ([[HEB.12:22]]). Send back all the vessels (v. 44) and
 
 rebuild the temple (v. 45) in a spiritual sense means to restore holiness in the hearts of
 
@@ -202,7 +202,7 @@ This passage chronicles the completion of the temple under the leadership of
 
 Haggai and Zechariah. The building of the earthly temple is a type of our deification--
 
-becoming like God by His grace (1Co 6:19). 
+becoming like God by His grace ([[1CO.6:19]]). 
 
 ### 8:1-7
 *(anchor: 1ES.8:1)*
@@ -259,4 +259,4 @@ That the hearers of the law were inspired by the words of the Scriptures brings 
 
 mind the response of the disciples ("Did not our heart burn within us?") as the Lord
 
-Jesus Christ opened to them the Holy Scriptures (Lk 24:32).
+Jesus Christ opened to them the Holy Scriptures ([[LUK.24:32]]).

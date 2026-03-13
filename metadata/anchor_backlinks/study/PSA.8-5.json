@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.8:5",
+  "canon_uri": "canon/OT/PSA.md#PSA.8:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 354,
+      "raw_match": "[[PSA.8:5]]",
+      "reference_type": "wikilink",
+      "context": "inspiration, Almighty God, and to know Him who exists (v. 1). 13:3 See [[PSA.8:5]], [[PSA.8:6]]. 13:5"
+    }
+  ]
+}

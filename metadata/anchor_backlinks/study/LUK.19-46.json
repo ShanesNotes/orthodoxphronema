@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.19:46",
+  "canon_uri": "canon/NT/LUK.md#LUK.19:46",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1291,
+      "raw_match": "[[LUK.19:46]]",
+      "reference_type": "wikilink",
+      "context": "11:17; [[LUK.19:46]]); (2) the cross would bear our reproaches against God (v. 10; see also Rom"
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 723,
+      "raw_match": "[[LUK.19:45]]-48",
+      "reference_type": "wikilink_range",
+      "context": "Christ comes to mind in this regard (see [[MAT.21:12]], [[MAT.21:13]]; [[MRK.11:15]]-19; [[LUK.19:45]]-48; Jn"
+    }
+  ]
+}

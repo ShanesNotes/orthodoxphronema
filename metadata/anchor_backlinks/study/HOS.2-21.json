@@ -1,0 +1,23 @@
+{
+  "anchor_id": "HOS.2:21",
+  "canon_uri": "canon/OT/HOS.md#HOS.2:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1951,
+      "raw_match": "[[HOS.2:21]]-23",
+      "reference_type": "wikilink_range",
+      "context": "30; [[HOS.2:21]]-23; [[JOL.3:12]]-14), as this was a part of daily life. Here, Jesus reveals"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2615,
+      "raw_match": "[[HOS.2:1]]-23",
+      "reference_type": "wikilink_range",
+      "context": "people (see Is 54:1-8; [[EZK.16:7]]-14; [[HOS.2:1]]-23), of Christ with His Church ([[MAT.22:1]]-14;"
+    }
+  ]
+}

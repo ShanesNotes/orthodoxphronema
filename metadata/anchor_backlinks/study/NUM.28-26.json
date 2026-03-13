@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.28:26",
+  "canon_uri": "canon/OT/NUM.md#NUM.28:26",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/NUM_footnotes.md",
+      "line_number": 1014,
+      "raw_match": "[[NUM.28:16]]-29",
+      "reference_type": "wikilink_range",
+      "context": "; Lv 16:1-34; 23:1-44; [[NUM.28:16]]-29:38), to (5) the sabbatical year ([[EXO.23:10]], [[EXO.23:11]]; Lv"
+    }
+  ]
+}

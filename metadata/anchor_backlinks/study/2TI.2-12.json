@@ -1,0 +1,30 @@
+{
+  "anchor_id": "2TI.2:12",
+  "canon_uri": "canon/NT/2TI.md#2TI.2:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TI_footnotes.md",
+      "line_number": 203,
+      "raw_match": "[[2TI.2:11]]-13",
+      "reference_type": "wikilink_range",
+      "context": "divinity of Jesus Christ. Another such creed is found in [[2TI.2:11]]-13. (See also 6:15, 16;"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 783,
+      "raw_match": "[[2TI.2:12]]",
+      "reference_type": "wikilink",
+      "context": "His Kingdom (4:4; 20:4-6; 22:3-5; [[LUK.22:30]]; [[2TI.2:12]])."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2801,
+      "raw_match": "[[2TI.2:12]]",
+      "reference_type": "wikilink",
+      "context": "reigning with Him (5:9, 10; [[MAT.19:18]]; [[2TI.2:12]]) as royal priests (1:6; 5:9, 10; Is 61:6; 1Pt"
+    }
+  ]
+}

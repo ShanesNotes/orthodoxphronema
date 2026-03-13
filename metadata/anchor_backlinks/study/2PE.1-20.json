@@ -1,0 +1,30 @@
+{
+  "anchor_id": "2PE.1:20",
+  "canon_uri": "canon/NT/2PE.md#2PE.1:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 769,
+      "raw_match": "[[2PE.1:20]]",
+      "reference_type": "wikilink",
+      "context": "Because the Scriptures have a specific, God-given meaning ([[2PE.1:20]], [[2PE.1:21]]), it is"
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 739,
+      "raw_match": "[[2PE.1:19]]-21",
+      "reference_type": "wikilink_range",
+      "context": "their authority (see also [[2PE.1:19]]-21)."
+    },
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 381,
+      "raw_match": "[[2PE.1:20]]",
+      "reference_type": "wikilink",
+      "context": "folly in disobeying the prophecy of Scripture (see also [[2PE.1:20]], [[2PE.1:21]]). 17:1"
+    }
+  ]
+}

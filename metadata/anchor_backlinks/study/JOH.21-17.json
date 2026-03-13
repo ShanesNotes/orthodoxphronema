@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.21:17",
+  "canon_uri": "canon/NT/JOH.md#JOH.21:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 461,
+      "raw_match": "[[JOH.21:15]]-17",
+      "reference_type": "wikilink_range",
+      "context": "(See [[JOH.21:15]]-17.) From Christ Himself and throughout the history of the Church,"
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 2799,
+      "raw_match": "[[JOH.21:15]]-17",
+      "reference_type": "wikilink_range",
+      "context": "returned to Me: See [[JOH.21:15]]-17. Strengthen your brethren refers not only to the"
+    }
+  ]
+}

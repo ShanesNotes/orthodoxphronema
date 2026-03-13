@@ -1,0 +1,30 @@
+{
+  "anchor_id": "2KI.1:12",
+  "canon_uri": "canon/OT/2KI.md#2KI.1:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1857,
+      "raw_match": "[[2KI.1:2]]-16",
+      "reference_type": "wikilink_range",
+      "context": "god worshipped by the Philistines ([[2KI.1:2]]-16). Here, he is called ruler of the demons"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2837,
+      "raw_match": "[[2KI.1:10]]-12",
+      "reference_type": "wikilink_range",
+      "context": "persecutors ([[2KI.1:10]]-12), so here God sends a consuming fire (see [[GEN.19:24]]; 3Kg 18:38;"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 2066,
+      "raw_match": "[[2KI.1:2]]-17",
+      "reference_type": "wikilink_range",
+      "context": "Apparently a reference to King Ahaziah (see [[2KI.1:2]]-17)."
+    }
+  ]
+}

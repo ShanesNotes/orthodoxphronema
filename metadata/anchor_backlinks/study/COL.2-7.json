@@ -1,0 +1,16 @@
+{
+  "anchor_id": "COL.2:7",
+  "canon_uri": "canon/NT/COL.md#COL.2:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 153,
+      "raw_match": "[[COL.2:7]]",
+      "reference_type": "wikilink",
+      "context": "3:17; [[COL.2:7]]), the false teachers are pulled up by the roots and so cannot remain with"
+    }
+  ]
+}

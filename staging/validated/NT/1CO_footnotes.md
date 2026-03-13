@@ -14,7 +14,7 @@ status: staging
 
 Since Paul is called to be an apostle by the will of God, men cannot remove him as
 
-some were trying to do. A Sosthenes is also mentioned in Acts 18:17 as the ruler of the
+some were trying to do. A Sosthenes is also mentioned in [[ACT.18:17]] as the ruler of the
 
 synagogue at Corinth. Probably this is he: there are stories of his spectacular conversion
 
@@ -46,7 +46,7 @@ the Middle East. "Peace be to you" in the Orthodox Divine Liturgy is connected t
 
 reading of the Gospel, the kiss of peace, and the Lord's Prayer. Jesus gave to the disciples
 
-the gift of peace, which is the presence of the Holy Spirit (Jn 14:27; 20:19).
+the gift of peace, which is the presence of the Holy Spirit ([[JOH.14:27]]; 20:19).
 
 
 ### 1:4
@@ -94,13 +94,13 @@ who faithfully reported these contentions to Paul.
 
 Apollos was a learned Jew from Alexandria, Egypt, "mighty in the Scriptures" (Acts
 
-18:24). Originally a follower of "the baptism of John" (Acts 18:25), he was taught more
+18:24). Originally a follower of "the baptism of John" ([[ACT.18:25]]), he was taught more
 
 fully about Christ by Priscilla and Aquila at Ephesus, and he later preached at Corinth,
 
 where some saw him as a rival to Paul. Tradition tells us Apollos became the first bishop
 
-of Crete (see Tts 3:13). Paul makes it plain that he and Apollos are partners in apostolic
+of Crete (see [[TIT.3:13]]). Paul makes it plain that he and Apollos are partners in apostolic
 
 work and that Apollos would not approve of the factionalism in Corinth (3:4-6; 4:6;
 
@@ -128,13 +128,13 @@ workers with Christ (3:5-23).
 ### 1:14
 *(anchor: 1CO.1:14)*
 
-Crispus had been the ruler of the synagogue at Corinth (Acts 18:8). Converted
+Crispus had been the ruler of the synagogue at Corinth ([[ACT.18:8]]). Converted
 
 through the preaching of Paul, then baptized, he was apparently succeeded as ruler by
 
-Sosthenes (Acts 18:17). Gaius was a resident of Corinth with whom Paul was staying
+Sosthenes ([[ACT.18:17]]). Gaius was a resident of Corinth with whom Paul was staying
 
-when he wrote the Epistle to the Romans (Rom 16:23). The third epistle of John (see 3Jn
+when he wrote the Epistle to the Romans ([[ROM.16:23]]). The third epistle of John (see 3Jn
 
 1) seems to have been directed to this same Gaius.
 
@@ -188,7 +188,7 @@ adored, for wherever the sign may be, there Jesus will be.
 
 Since Christ is the power and wisdom of God the Father--the brightness of the
 
-Father's glory (Heb 1:3), the substantial and perfect Image of the invisible God--where
+Father's glory ([[HEB.1:3]]), the substantial and perfect Image of the invisible God--where
 
 He is, there is the uncreated and saving grace of God. His Cross restores man to
 
@@ -202,13 +202,13 @@ The base things of the world are "those persons who are considered to be nothing
 
 because of their great insignificance" (JohnChr). There is no such thing as a "no-account"
 
-Christian (v. 27; 2Co 12:9).
+Christian (v. 27; [[2CO.12:9]]).
 
 
 ### 2:4-5
 *(anchor: 1CO.2:4)*
 
-Great preaching is not with "swelling words" (2Pt 2:18) but with (1) the anointing of
+Great preaching is not with "swelling words" ([[2PE.2:18]]) but with (1) the anointing of
 
 the Holy Spirit and (2) the dynamic of God's power.
 
@@ -216,13 +216,13 @@ the Holy Spirit and (2) the dynamic of God's power.
 
 The mature (Gr. teleioi) are the "spiritual" (Gr. pneumatikoi) of v. 15. Mystery
 
-here is the gospel of the Kingdom (see Rom 16:25; Eph 3:3, 4, 9; 6:19; Col 4:3; 1Ti 3:9, 16),
+here is the gospel of the Kingdom (see Rom 16:25; [[EPH.3:3]], [[EPH.3:4]], [[EPH.3:9]]; 6:19; [[COL.4:3]]; [[1TI.3:9]], [[1TI.3:16]]),
 
 which neither angels nor any other creature knew before it was revealed by Christ, even
 
 though the Incarnation of the Son was God's plan from eternity for transforming
 
-creation. Moreover, that Gospel is hidden from those who perish (2Co 4:3). Those who
+creation. Moreover, that Gospel is hidden from those who perish ([[2CO.4:3]]). Those who
 
 will not believe do not grasp what is clear to the faithful.
 
@@ -232,13 +232,13 @@ will not believe do not grasp what is clear to the faithful.
 
 The Lord of glory demonstrates that the dignity and honor of Jesus is that of God
 
-the Father Himself (Ex 24:16-18). The incarnate Son of God, who clothes Himself "with
+the Father Himself ([[EXO.24:16]]-18). The incarnate Son of God, who clothes Himself "with
 
-light as with a garment" (Ps 103:2), stood naked before human judges, receiving blows
+light as with a garment" ([[PSA.103:2]]), stood naked before human judges, receiving blows
 
 from hands which He had formed. The Lord of Glory, the Son of the Father, was crucified
 
-in His humanity (Acts 2:36). They crucified God!
+in His humanity ([[ACT.2:36]]). They crucified God!
 
 
 ### 2:9
@@ -394,7 +394,7 @@ Here, as in 2:15, judge (Gr. anakrinein) is difficult to render in English. Anak
 
 comparable to the investigation that takes place before and during a trial and preceding
 
-judgment; krinein (v. 5; Mt 7:1), to rendering of a verdict. Many Corinthians prejudged
+judgment; krinein (v. 5; [[MAT.7:1]]), to rendering of a verdict. Many Corinthians prejudged
 
 Paul as an unfaithful steward; some denied his apostolic authority (see Introduction to 2
 
@@ -434,7 +434,7 @@ are heaped upon each other in a stinging series. The relative comfort of the Cor
 
 Christians is contrasted with the persecuted, poverty-stricken and uncertain life of the
 
-apostles (vv. 11-13; see Mk 6:4; 9:35; 10:31).
+apostles (vv. 11-13; see [[MRK.6:4]]; 9:35; 10:31).
 
 
 ### 4:12-13
@@ -452,7 +452,7 @@ of serving Christ and reconciling the world to God.
 
 Paul soothes the soreness of his rebuke by reminding them of his fatherhood (see
 
-the note on Mt 23:9, 10). As in a family, so in the Church, maturing children need
+the note on [[MAT.23:9]], [[MAT.23:10]]). As in a family, so in the Church, maturing children need
 
 parental guidance. The apostle to the Gentiles--thus to most Christians--writes imitate
 
@@ -486,9 +486,9 @@ Gentiles alike.
 
 The Greek word for mourned (pentheo) is also used in the Septuagint to refer to (1)
 
-grieving for the dead, and (2) sorrow over unrepentant sinners (see Neh 8:9; Is 24:4; Dan
+grieving for the dead, and (2) sorrow over unrepentant sinners (see [[NEH.8:9]]; Is 24:4; Dan
 
-10:2; Am 8:8). Taken away from among you refers to excommunication.
+10:2; [[AMO.8:8]]). Taken away from among you refers to excommunication.
 
 
 ### 5:4
@@ -502,7 +502,7 @@ Spirit.
 ### 5:5
 *(anchor: 1CO.5:5)*
 
-In the Church there is protection from the destructive power of Satan (Mt 16:18). This
+In the Church there is protection from the destructive power of Satan ([[MAT.16:18]]). This
 
 protection is here removed through excommunication in the hope that, having
 
@@ -520,7 +520,7 @@ flesh.
 
 The Israelites were to remove the leaven (v. 7) from their houses in preparation for
 
-Passover (Ex 12:1-30), the remembrance of their freedom from Pharaoh's bondage.
+Passover ([[EXO.12:1]]-30), the remembrance of their freedom from Pharaoh's bondage.
 
 Christ, crucified and risen, is our Paschal lamb, our Passover. United to Him in baptism,
 
@@ -536,7 +536,7 @@ wickedness must be continually removed from us personally and corporately.
 
 My epistle to which Paul refers is apparently lost. There is evidence Paul wrote letters
 
-which were lost and not incorporated in the NT canon (see Col 4:16).
+which were lost and not incorporated in the NT canon (see [[COL.4:16]]).
 
 
 ### 5:12-13
@@ -544,7 +544,7 @@ which were lost and not incorporated in the NT canon (see Col 4:16).
 
 Those . . . who are outside is an ancient Semitic expression for those outside
 
-the community of God (see WSir, Prologue; Mk 4:11; Col 4:5; 1Th 4:12; 1Ti 3:7).
+the community of God (see WSir, Prologue; [[MRK.4:11]]; [[COL.4:5]]; [[1TH.4:12]]; [[1TI.3:7]]).
 
 
 ### 6:1
@@ -562,7 +562,7 @@ the biblical basis for church courts.
 
 Saints will judge the world (v. 2) and angels (v. 3) because in Christ, Christians
 
-share in His authority to judge (see Mt 19:28; Jn 5:22, 27; 2Pt 2:4; Jude 6; Rev 20:4). This
+share in His authority to judge (see [[MAT.19:28]]; [[JOH.5:22]], [[JOH.5:27]]; [[2PE.2:4]]; Jude 6; [[REV.20:4]]). This
 
 being so, how much more are we able to judge the everyday concerns of this life (v.
 
@@ -576,11 +576,11 @@ Love of litigation is a love of greed, hatred, and retaliation. Christians ought
 
 possessed of generosity, mercy, and forgiveness. To let yourselves be cheated is to
 
-turn the other cheek (see Mt 5:39).
+turn the other cheek (see [[MAT.5:39]]).
 
-6:9, 10 As to those who will not inherit the kingdom of God, see 15:50; Gal 5:19-21;
+6:9, 10 As to those who will not inherit the kingdom of God, see 15:50; [[GAL.5:19]]-21;
 
-Eph 5:5; Rev 21:7, 8; 22:15.
+[[EPH.5:5]]; [[REV.21:7]], [[REV.21:8]]; 22:15.
 
 
 ### 6:11
@@ -626,9 +626,9 @@ includes prayer and charitable giving.
 ### 6:15
 *(anchor: 1CO.6:15)*
 
-When Paul calls our bodies members of Christ (see 12:12; Rom 6:13; 12:4, 5), he is
+When Paul calls our bodies members of Christ (see 12:12; [[ROM.6:13]]; 12:4, 5), he is
 
-reminding us of our union with Christ in baptism (see Rom 6:3-10). Fornication is
+reminding us of our union with Christ in baptism (see [[ROM.6:3]]-10). Fornication is
 
 therefore a sin to be fled in horror, for it joins Christ to harlots. "We have many improper
 
@@ -682,7 +682,7 @@ fight a losing battle against sexual passion.
 
 If a Christian couple cannot stay together, the two alternatives are to remain
 
-unmarried, that is, separated, or be reconciled. Divorce is hated by God (Mal 2:16), a
+unmarried, that is, separated, or be reconciled. Divorce is hated by God ([[MAL.2:16]]), a
 
 last measure, a great calamity. Paul forbids remarriage while the first spouse is still living
 
@@ -694,7 +694,7 @@ last measure, a great calamity. Paul forbids remarriage while the first spouse i
 
 In Judaism the family was joined to the covenant through the father. But in the
 
-Church, the family is holy if either spouse is a believer (see also 2Ti 1:5). This does not
+Church, the family is holy if either spouse is a believer (see also [[2TI.1:5]]). This does not
 
 mean that all are saved, but all are affected by the faith of a Christian spouse. The family
 
@@ -818,7 +818,7 @@ Kingdom.
 
 Paul often uses I do not want you to be unaware or a similar formula (Rom
 
-11:25; 12:1; 2Co 1:8; Col 2:1; 1Th 4:13) to introduce a matter vital to the Christian faith.
+11:25; 12:1; [[2CO.1:8]]; [[COL.2:1]]; [[1TH.4:13]]) to introduce a matter vital to the Christian faith.
 
 
 ### 10:2-4
@@ -832,7 +832,7 @@ of the body of Christ, His humanity; and the spiritual drink, of Christ's blood.
 
 Himself linked these events of the Passover with the Eucharist when He established it
 
-(Mt 26:17-29).
+([[MAT.26:17]]-29).
 
 
 ### 10:5-8
@@ -870,7 +870,7 @@ communion become one in Christ.
 
 Israel after the flesh is the Israel of Judaism as contrasted to the true Israel,
 
-which is the Church, the Israel of God (see Gal 6:16).
+which is the Church, the Israel of God (see [[GAL.6:16]]).
 
 
 ### 10:19-22
@@ -998,11 +998,11 @@ disorder (vv. 21, 22), failing to see the gifts of God as holy things for holy p
 
 We prepare for the Eucharist by examining ourselves. This includes confessing our
 
-sins and being reconciled to one another in the sacrament of repentance (Mt 5:23-26). In
+sins and being reconciled to one another in the sacrament of repentance ([[MAT.5:23]]-26). In
 
 the Orthodox Church this confession before God is done in the presence of a priest, who
 
-visibly represents Christ (Mt 16:19; 18:18-20; Jn 20:23), and in general prayers of
+visibly represents Christ ([[MAT.16:19]]; 18:18-20; [[JOH.20:23]]), and in general prayers of
 
 confession. Being "worthy" does not mean being sinless, but being cleansed. It is not
 
@@ -1014,7 +1014,7 @@ legalism but commitment to walk in righteousness before God.
 
 There is such power in the body and blood of Christ communicated to us in the
 
-eating and drinking of His gifts (Jn 6:54-56) that to do so in willful disregard of the Lord
+eating and drinking of His gifts ([[JOH.6:54]]-56) that to do so in willful disregard of the Lord
 
 could result in sickness and even death.
 
@@ -1054,7 +1054,7 @@ It is possible to get carried away and led into error. For not all gifts are fro
 
 Holy Spirit. Demons lurk behind dumb idols (v. 2), speaking evil prophecies through the
 
-religious ecstasies of their priests (see Acts 16:16). Religious ecstasy or enthusiasm is no
+religious ecstasies of their priests (see [[ACT.16:16]]). Religious ecstasy or enthusiasm is no
 
 proof of spirituality.
 
@@ -1096,7 +1096,7 @@ of the Holy Spirit given for the benefit of others. But no person possesses all 
 ### 12:8-10
 *(anchor: 1CO.12:8)*
 
-This list of nine gifts is not exhaustive (see 14:1-5; Rom 12:6-8; Eph 4:7-12).
+This list of nine gifts is not exhaustive (see 14:1-5; [[ROM.12:6]]-8; [[EPH.4:7]]-12).
 
 
 ### 12:12-13
@@ -1122,7 +1122,7 @@ of the Church.
 
 There is no such thing as an "individual" Christian. Being "knit together in love"
 
-(Col 2:2), we are called in Christ to suffer together, be honored together, and rejoice
+([[COL.2:2]]), we are called in Christ to suffer together, be honored together, and rejoice
 
 together.
 
@@ -1148,7 +1148,7 @@ St. Basil the Great teaches there are three reasons, all biblical and all God-gi
 
 people follow the Lord: (1) fear (Pr 1:7); (2) obedience, a recognition that because He is
 
-God we must follow Him (Acts 5:29); and (3) love (1Jn 4:19). And while we must aim to
+God we must follow Him ([[ACT.5:29]]); and (3) love ([[1JN.4:19]]). And while we must aim to
 
 do all things out of love, we also must not cease fearing God and obeying Him. To a
 
@@ -1166,9 +1166,9 @@ miraculous ability to remove mountains.
 ### 13:3
 *(anchor: 1CO.13:3)*
 
-Jesus urges us to "give to the poor" (Mt 19:21) and to lay down our lives for others
+Jesus urges us to "give to the poor" ([[MAT.19:21]]) and to lay down our lives for others
 
-(Jn 15:13). But even such a selfless act done without love profits us nothing.
+([[JOH.15:13]]). But even such a selfless act done without love profits us nothing.
 
 
 ### 13:4-8
@@ -1176,29 +1176,29 @@ Jesus urges us to "give to the poor" (Mt 19:21) and to lay down our lives for ot
 
 How do we know we are acting with love (v. 4)? This passage gives specific
 
-characteristics of love: (1) it suffers long, is patient (1Th 5:14); (2) it is kind, gentle,
+characteristics of love: (1) it suffers long, is patient ([[1TH.5:14]]); (2) it is kind, gentle,
 
-especially with those who hurt (Eph 4:32); (3) it does not envy, is not jealous of what
+especially with those who hurt ([[EPH.4:32]]); (3) it does not envy, is not jealous of what
 
-others have (Pr 23:17); (4) it does not parade itself, put itself on display (Jn 3:30); (5)
+others have (Pr 23:17); (4) it does not parade itself, put itself on display ([[JOH.3:30]]); (5)
 
-it is not puffed up, arrogant, proud (Gal 6:3); (6) it does not act rudely, brashly,
+it is not puffed up, arrogant, proud ([[GAL.6:3]]); (6) it does not act rudely, brashly,
 
-mean-spiritedly, insulting others (Ecc 5:2); (7) it does not seek its own way, act pushy
+mean-spiritedly, insulting others ([[ECC.5:2]]); (7) it does not seek its own way, act pushy
 
 (10:24); (8) it is not provoked or angered (Pr 19:11); (9) it thinks no evil, does not
 
-keep score on others (Heb 10:17); (10) it rejoices not in iniquity, takes no pleasure when
+keep score on others ([[HEB.10:17]]); (10) it rejoices not in iniquity, takes no pleasure when
 
-others fall into sin (Mk 3:5); (11) it rejoices in the truth, is joyful when righteousness
+others fall into sin ([[MRK.3:5]]); (11) it rejoices in the truth, is joyful when righteousness
 
-prevails (2Jn 4); (12) it bears all things, handles the burdensome (Gal 6:2); (13) it
+prevails (2Jn 4); (12) it bears all things, handles the burdensome ([[GAL.6:2]]); (13) it
 
 believes all things, trusts in God no matter what (Pr 3:5); (14) it hopes all things,
 
-keeps looking up, does not despair (Php 3:13); (15) it endures all things, "puts up with
+keeps looking up, does not despair ([[PHP.3:13]]); (15) it endures all things, "puts up with
 
-everything" (JohnChr), does not wear out (Gal 6:9); (16) it never fails. The only thing
+everything" (JohnChr), does not wear out ([[GAL.6:9]]); (16) it never fails. The only thing
 
 love cannot do is fail (16:14).
 
@@ -1216,7 +1216,7 @@ is eternal, complete, and fulfilling.
 ### 13:11
 *(anchor: 1CO.13:11)*
 
-The Scriptures differentiate between being dependent on God, or childlike (Mt 18:3),
+The Scriptures differentiate between being dependent on God, or childlike ([[MAT.18:3]]),
 
 and being childish or immature.
 
@@ -1236,7 +1236,7 @@ her. To find this love one "strains himself, and leaves not off until he lay hol
 
 In the Orthodox Church, what about one who speaks in a tongue? Historically,
 
-God judged the builders of the Tower of Babel (Gn 11:1-9), dividing their unity by
+God judged the builders of the Tower of Babel ([[GEN.11:1]]-9), dividing their unity by
 
 confusing their language. At Pentecost Vespers we hear, "Of old there was confusion of
 
@@ -1292,7 +1292,7 @@ An early tradition in the Church is that women shall keep silent and not talk
 
 during the Liturgy. While they are permitted to prophesy (11:5) they are not allowed to
 
-simply converse (see also 1Ti 2:12). With the spiritual gifts (12:12-27), all are equal in
+simply converse (see also [[1TI.2:12]]). With the spiritual gifts (12:12-27), all are equal in
 
 Christ, while the order of the original creation remains in the new creation.
 
@@ -1314,15 +1314,15 @@ and sufficient for salvation (v. 2). How had Paul received his gospel? By direct
 
 experience with the risen Lord (v. 8), confirmed by his interactions with the original
 
-apostles (Gal 2:2-10) and the whole Church. It is impossible to decipher what he learned
+apostles ([[GAL.2:2]]-10) and the whole Church. It is impossible to decipher what he learned
 
 where; in Paul's mind, his gospel forms a seamless whole. "To receive" designates the
 
-passing on of tradition (see 11:2, 23; Gal 1:9; Php 4:9; 1Th 2:13; 4:1).
+passing on of tradition (see 11:2, 23; [[GAL.1:9]]; [[PHP.4:9]]; [[1TH.2:13]]; 4:1).
 
 15:3-4 This concise statement of the gospel is probably part of an early creed or catechism.
 
-(See Ps 16:9-12; Gal 1:4; 1Jn 2:2; 4:10.)
+(See [[PSA.16:9]]-12; [[GAL.1:4]]; [[1JN.2:2]]; 4:10.)
 
 
 ### 15:5-8
@@ -1352,7 +1352,7 @@ and upon those in the tombs bestowing life."
 
 As the firstfruits in the OT were consecrated to God as the representative and
 
-promise of later fruits (Ex 23:16), so the Resurrection of Jesus from the dead is the first
+promise of later fruits ([[EXO.23:16]]), so the Resurrection of Jesus from the dead is the first
 
 offering of the resurrection of all who are His (v. 23).
 
@@ -1372,7 +1372,7 @@ immortality and spiritual life.
 
 The end is the consummation of the Kingdom when Christ's lordship over all
 
-will be fulfilled and He will offer creation up to God the Father (see Rom 8:19-23, 32-
+will be fulfilled and He will offer creation up to God the Father (see [[ROM.8:19]]-23, 32-
 
 39). Although the Son (v. 28) shares the same divine nature and dignity as the Father,
 
@@ -1454,7 +1454,7 @@ having one's sins forgiven or being good; it is being alive. The law is not sinf
 
 exposes sin. And, since it does not provide the power to obey it, it increases sinfulness in
 
-unchanged humans (Rom 3:20; 4:15; 5:13, 20; 7:7; Gal 3:19-22).
+unchanged humans ([[ROM.3:20]]; 4:15; 5:13, 20; 7:7; [[GAL.3:19]]-22).
 
 
 ### 15:58
@@ -1484,9 +1484,9 @@ These men apparently were the carriers of the letter Paul answers in chs. 7-15
 
 Aquila and Priscilla were Jews who had been among those expelled from Rome
 
-by Claudius in AD 49-50. They had resided in Corinth for a while (Acts 18:2) and then
+by Claudius in AD 49-50. They had resided in Corinth for a while ([[ACT.18:2]]) and then
 
-moved to Ephesus (Acts 18:26).
+moved to Ephesus ([[ACT.18:26]]).
 
 
 ### 16:21

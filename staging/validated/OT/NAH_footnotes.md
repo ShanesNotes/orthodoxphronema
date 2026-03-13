@@ -12,7 +12,7 @@ status: staging
 ### 1:1
 *(anchor: NAH.1:1)*
 
-The burden: See Hab 1:1 and note. Nahum's prophecy takes on its deepest meaning
+The burden: See [[HAB.1:1]] and note. Nahum's prophecy takes on its deepest meaning
 
 when Nineveh is seen as an icon of sinful humanity. The "good tidings" (2:1) of the
 
@@ -46,11 +46,11 @@ at Him who has come, the Light of Light, true God of true God."
 
 This Old Testament imagery of the earthquake (also see 1Kg 4:5; 3Kg 19:11; Ps
 
-103:32) was fulfilled ultimately at the Crucifixion (Mt 27:51). Clouds symbolize the Holy
+103:32) was fulfilled ultimately at the Crucifixion ([[MAT.27:51]]). Clouds symbolize the Holy
 
-Spirit (see Ex 13:21, 22; 24:12-18 and notes). A cloud was at Christ's feet at His
+Spirit (see [[EXO.13:21]], [[EXO.13:22]]; 24:12-18 and notes). A cloud was at Christ's feet at His
 
-Transfiguration (Lk 9:34); and He Himself says He will come again in a cloud (Lk 21:27). 
+Transfiguration ([[LUK.9:34]]); and He Himself says He will come again in a cloud ([[LUK.21:27]]). 
 
 ### 1:8-10
 *(anchor: NAH.1:8)*
@@ -60,12 +60,12 @@ The overwhelming flood is fulfilled in baptism.
 ### 2:1
 *(anchor: NAH.2:1)*
 
-The good tidings are the gospel of peace, preached by the apostles. See Rom 10:15. 
+The good tidings are the gospel of peace, preached by the apostles. See [[ROM.10:15]]. 
 
 ### 2:5
 *(anchor: NAH.2:5)*
 
-As torches of fire: See Jdg 7:16. The specter of the universal ravager, fire, is invoked
+As torches of fire: See [[JDG.7:16]]. The specter of the universal ravager, fire, is invoked
 
 to suggest an image of total destruction. 
 
@@ -92,7 +92,7 @@ The power of the lions, which represent the enemies of God, would be destroyed b
 
 the more powerful sword of the Spirit, "for all who take the sword will perish by the
 
-sword" (Mt 26:52). 
+sword" ([[MAT.26:52]]). 
 
 ### 3:4-7
 *(anchor: NAH.3:4)*

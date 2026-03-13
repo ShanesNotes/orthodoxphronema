@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.5:14",
+  "canon_uri": "canon/NT/JOH.md#JOH.5:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 927,
+      "raw_match": "[[JOH.5:1]]-15",
+      "reference_type": "wikilink_range",
+      "context": "paralytic in [[JOH.5:1]]-15. The healing power of Jesus the Christ continues in His Church"
+    },
+    {
+      "source_file": "staging/validated/OT/JOB_footnotes.md",
+      "line_number": 169,
+      "raw_match": "[[JOH.5:14]]",
+      "reference_type": "wikilink",
+      "context": "repentance (see [[JOH.5:14]]); (3) to prevent future sins (see [[2CO.12:7]]); and (4) \"that the"
+    }
+  ]
+}

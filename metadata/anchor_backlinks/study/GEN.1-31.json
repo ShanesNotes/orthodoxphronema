@@ -1,0 +1,65 @@
+{
+  "anchor_id": "GEN.1:31",
+  "canon_uri": "canon/OT/GEN.md#GEN.1:31",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 261,
+      "raw_match": "[[GEN.1:26]]-31",
+      "reference_type": "wikilink_range",
+      "context": "wedding in Cana occurs, which parallels the creation of man and woman in [[GEN.1:26]]-31."
+    },
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 727,
+      "raw_match": "[[GEN.1:31]]",
+      "reference_type": "wikilink",
+      "context": "good\" ([[GEN.1:31]]). Therefore, a man should not try to be a woman, nor a woman a man."
+    },
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 756,
+      "raw_match": "[[GEN.1:31]]",
+      "reference_type": "wikilink",
+      "context": "He made to be \"very good\" ([[GEN.1:31]])."
+    },
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 774,
+      "raw_match": "[[GEN.1:31]]",
+      "reference_type": "wikilink",
+      "context": "\"very good\" in the eyes of God, for He created both ([[GEN.1:31]])."
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 659,
+      "raw_match": "[[GEN.1:31]]",
+      "reference_type": "wikilink",
+      "context": "good in itself. As [[GEN.1:31]] says, \"Then God saw everything He made, and indeed, it was"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 1271,
+      "raw_match": "[[GEN.1:31]]",
+      "reference_type": "wikilink",
+      "context": "imputing guilt to God ([[GEN.1:31]]). Thus, man does not possess a sinful nature, for all sins"
+    },
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 957,
+      "raw_match": "[[GEN.1:31]]",
+      "reference_type": "wikilink",
+      "context": "contrary to God and nature. For human nature is good in itself ([[GEN.1:31]]), and obedience"
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 334,
+      "raw_match": "[[GEN.1:31]]",
+      "reference_type": "wikilink",
+      "context": "very good\" ([[GEN.1:31]]). 11:25"
+    }
+  ]
+}

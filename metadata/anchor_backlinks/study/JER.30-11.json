@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JER.30:11",
+  "canon_uri": "canon/OT/JER.md#JER.30:11",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/LAM_footnotes.md",
+      "line_number": 156,
+      "raw_match": "[[JER.30:1]]-16",
+      "reference_type": "wikilink_range",
+      "context": "For the punishment of Edom, see [[JER.30:1]]-16."
+    }
+  ]
+}

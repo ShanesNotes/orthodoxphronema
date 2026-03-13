@@ -1,0 +1,37 @@
+{
+  "anchor_id": "1TH.4:13",
+  "canon_uri": "canon/NT/1TH.md#1TH.4:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1CO_footnotes.md",
+      "line_number": 821,
+      "raw_match": "[[1TH.4:13]]",
+      "reference_type": "wikilink",
+      "context": "11:25; 12:1; [[2CO.1:8]]; [[COL.2:1]]; [[1TH.4:13]]) to introduce a matter vital to the Christian faith."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3251,
+      "raw_match": "[[1TH.4:13]]-17",
+      "reference_type": "wikilink_range",
+      "context": "chronology can be determined (see Dan 7-12; Mk 13; Lk 21; [[1CO.15:51]]-55; [[1TH.4:13]]-17;"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3371,
+      "raw_match": "[[1TH.4:13]]-18",
+      "reference_type": "wikilink_range",
+      "context": "They will gather: See [[1TH.4:13]]-18."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1506,
+      "raw_match": "[[1TH.4:13]]",
+      "reference_type": "wikilink",
+      "context": "so grief overpowers us, for some have even died from grief. Thus, St. Paul says we grieve, but not as those \"who have no hope\" ([[1TH.4:13]])."
+    }
+  ]
+}

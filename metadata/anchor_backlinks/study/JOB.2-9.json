@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOB.2:9",
+  "canon_uri": "canon/OT/JOB.md#JOB.2:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/TOB_footnotes.md",
+      "line_number": 84,
+      "raw_match": "[[JOB.2:9]]",
+      "reference_type": "wikilink",
+      "context": "have failed him. This is similar to the rebuke by Job's wife ([[JOB.2:9]]). 3:2"
+    }
+  ]
+}

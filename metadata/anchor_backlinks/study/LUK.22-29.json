@@ -1,0 +1,23 @@
+{
+  "anchor_id": "LUK.22:29",
+  "canon_uri": "canon/NT/LUK.md#LUK.22:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 505,
+      "raw_match": "[[LUK.22:28]]-30",
+      "reference_type": "wikilink_range",
+      "context": "the messianic banquet in the Kingdom ([[LUK.22:28]]-30), the Eucharist of the age to come."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 765,
+      "raw_match": "[[LUK.22:28]]-30",
+      "reference_type": "wikilink_range",
+      "context": "Faithful disciples are promised they will eat and drink at table with Him ([[LUK.22:28]]-30) in"
+    }
+  ]
+}

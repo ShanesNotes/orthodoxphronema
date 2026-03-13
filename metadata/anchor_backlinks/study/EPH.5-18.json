@@ -1,0 +1,37 @@
+{
+  "anchor_id": "EPH.5:18",
+  "canon_uri": "canon/NT/EPH.md#EPH.5:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1ES_footnotes.md",
+      "line_number": 98,
+      "raw_match": "[[EPH.5:18]]",
+      "reference_type": "wikilink",
+      "context": "drunk with wine . . . but be filled with the Spirit\" ([[EPH.5:18]])."
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 132,
+      "raw_match": "[[EPH.5:18]]",
+      "reference_type": "wikilink",
+      "context": "God that our labors might be acceptable to Him ([[ACT.1:8]]; [[EPH.5:18]]). Frankincense was also added to the various grain offerings. It typified the prayers of"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 735,
+      "raw_match": "[[EPH.5:18]]",
+      "reference_type": "wikilink",
+      "context": "[[ACT.2:13]]-17; [[EPH.5:18]])."
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 201,
+      "raw_match": "[[EPH.5:18]]-21",
+      "reference_type": "wikilink_range",
+      "context": "The house of wine is the Church filled with the Holy Spirit ([[EPH.5:18]]-21). The Bride"
+    }
+  ]
+}

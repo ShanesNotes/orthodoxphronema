@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.1:25",
+  "canon_uri": "canon/NT/MAT.md#MAT.1:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 255,
+      "raw_match": "[[MAT.1:25]]",
+      "reference_type": "wikilink",
+      "context": "\"firstborn\" of the Virgin Mary ([[MAT.1:25]]). Therefore, no one can claim this necessarily"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 646,
+      "raw_match": "[[MAT.1:25]]",
+      "reference_type": "wikilink",
+      "context": "He is the Firstborn of the Mother of God ([[MAT.1:25]]; [[LUK.2:7]]). The Church of the Firstborn"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2CO.2:16",
+  "canon_uri": "canon/NT/2CO.md#2CO.2:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 53,
+      "raw_match": "[[2CO.2:15]]-17",
+      "reference_type": "wikilink_range",
+      "context": "virtues have this fragrance of Christ, according to St. Paul ([[2CO.2:15]]-17). The young"
+    }
+  ]
+}

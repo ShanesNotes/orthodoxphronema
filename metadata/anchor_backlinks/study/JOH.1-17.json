@@ -1,0 +1,51 @@
+{
+  "anchor_id": "JOH.1:17",
+  "canon_uri": "canon/NT/JOH.md#JOH.1:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 417,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "the Word of God Himself, our Lord Jesus Christ (see [[JOH.1:1]]-18). Nothing is able to escape"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 231,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "of the Son of Man (see also [[JOH.1:1]]-18). Thus, in Christ man (v. 14) and God (vv. 15, 16)"
+    },
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 926,
+      "raw_match": "[[JOH.1:17]]",
+      "reference_type": "wikilink",
+      "context": "this law to do them. But under grace and truth ([[JOH.1:17]]), \"Come to Me, all you who"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_articles.md",
+      "line_number": 21,
+      "raw_match": "[[JOH.1:17]]",
+      "reference_type": "wikilink",
+      "context": "The Apostle John wrote, 'The law was given through Moses, but grace and truth came through Jesus Christ' ([[JOH.1:17]]). The grace of Christ and the Law of Moses are complementary, not contradictory. The following helps explain both. #### Friendship Between Christ And Moses"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1728,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "Second Person of the Godhead, was and is eternally active in all creation (see [[JOH.1:1]]-18)."
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 29,
+      "raw_match": "[[JOH.1:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "the language used by John to describe the Incarnation (see [[JOH.1:1]]-18). The Word who"
+    }
+  ]
+}

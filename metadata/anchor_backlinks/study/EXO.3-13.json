@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.3:13",
+  "canon_uri": "canon/OT/EXO.md#EXO.3:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1533,
+      "raw_match": "[[EXO.3:13]]-15",
+      "reference_type": "wikilink_range",
+      "context": "the burning bush ([[EXO.3:13]]-15). To the Jews, this was a direct, explicit, and unmistakable"
+    }
+  ]
+}

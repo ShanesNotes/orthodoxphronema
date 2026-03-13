@@ -1,0 +1,30 @@
+{
+  "anchor_id": "HEB.11:7",
+  "canon_uri": "canon/NT/HEB.md#HEB.11:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2PE_footnotes.md",
+      "line_number": 217,
+      "raw_match": "[[HEB.11:7]]",
+      "reference_type": "wikilink",
+      "context": "he showed to all who saw him how life ought to be lived (see [[HEB.11:7]])."
+    },
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 39,
+      "raw_match": "[[HEB.11:7]]",
+      "reference_type": "wikilink",
+      "context": "([[HEB.11:7]]); likewise Christ will build His Church, beginning with His twelve apostles, through which He will bring all who are baptized into new and eternal life. 1:10-15 Nimrod: See [[GEN.10:8]]-12. The genealogy from Shem to Abraham, like that from"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 441,
+      "raw_match": "[[HEB.11:7]]",
+      "reference_type": "wikilink",
+      "context": "The Lord God made Noah righteous through faith, by which he pleased God ([[HEB.11:6]], [[HEB.11:7]]). Through the grace of the Holy Spirit he obeyed everything God commanded him to do. So he and his family entered the ark, which typified salvation."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.30:1",
+  "canon_uri": "canon/OT/DEU.md#DEU.30:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/NEH_footnotes.md",
+      "line_number": 67,
+      "raw_match": "[[DEU.30:1]]-5",
+      "reference_type": "wikilink_range",
+      "context": "[[DEU.30:1]]-5. This man . . . the king is Artaxerxes I, under whom Nehemiah held the office"
+    }
+  ]
+}

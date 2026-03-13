@@ -1,0 +1,37 @@
+{
+  "anchor_id": "ACT.1:8",
+  "canon_uri": "canon/NT/ACT.md#ACT.1:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/AMO_footnotes.md",
+      "line_number": 233,
+      "raw_match": "[[ACT.1:8]]",
+      "reference_type": "wikilink",
+      "context": "earth ([[ACT.1:8]], [[ACT.1:9]]; 2:1-11). He restored the faithful remnant (v. 12); brought in the"
+    },
+    {
+      "source_file": "staging/validated/OT/EZR_footnotes.md",
+      "line_number": 228,
+      "raw_match": "[[ACT.1:8]]",
+      "reference_type": "wikilink",
+      "context": "Holy Spirit and His power to His disciples ([[ACT.1:8]]). 7:25-26"
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 228,
+      "raw_match": "[[ACT.1:8]]",
+      "reference_type": "wikilink",
+      "context": "the four corners of the earth (see [[ACT.1:8]]; [[ROM.1:16]]). The teaching of the apostles"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 132,
+      "raw_match": "[[ACT.1:8]]",
+      "reference_type": "wikilink",
+      "context": "God that our labors might be acceptable to Him ([[ACT.1:8]]; [[EPH.5:18]]). Frankincense was also added to the various grain offerings. It typified the prayers of"
+    }
+  ]
+}

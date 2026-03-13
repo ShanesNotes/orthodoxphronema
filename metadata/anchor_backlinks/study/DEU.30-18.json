@@ -1,0 +1,23 @@
+{
+  "anchor_id": "DEU.30:18",
+  "canon_uri": "canon/OT/DEU.md#DEU.30:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1235,
+      "raw_match": "[[DEU.30:15]]-20",
+      "reference_type": "wikilink_range",
+      "context": "The description of the two ways was widespread in Judaism ([[DEU.30:15]]-20; Ps 1; Pr"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 369,
+      "raw_match": "[[DEU.30:15]]-20",
+      "reference_type": "wikilink_range",
+      "context": "to Him (see [[DEU.30:15]]-20)."
+    }
+  ]
+}

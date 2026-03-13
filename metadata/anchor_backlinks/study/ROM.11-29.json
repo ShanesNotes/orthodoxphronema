@@ -1,0 +1,30 @@
+{
+  "anchor_id": "ROM.11:29",
+  "canon_uri": "canon/NT/ROM.md#ROM.11:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_articles.md",
+      "line_number": 47,
+      "raw_match": "[[ROM.11:29]]",
+      "reference_type": "wikilink",
+      "context": "A dramatic moment in the service of ordination comes when the candidate is led around the altar three times, kissing or venerating the four corners of the altar each time. This symbolizes his marriage to Christ, his death with Christ, and his willingness to serve the Church sacrificially after the example of his Master. Ordination is seen as an eternal appointment, 'for the gifts and the calling of God are irrevocable' ([[ROM.11:29]]). It is in this spirit that during each Divine Liturgy the priest prays for his bishop that 'the Lord God remember him in His Kingdom always, now and ever, and unto ages of ages.' Through the sacrament of ordination in His Church, Christ entrusts to the shepherd the very salvation of His people's souls."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 471,
+      "raw_match": "[[ROM.11:11]]-36",
+      "reference_type": "wikilink_range",
+      "context": "into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 630,
+      "raw_match": "[[ROM.11:29]]",
+      "reference_type": "wikilink",
+      "context": "people, and calls her to return to the knowledge of her Redeemer (see [[ROM.11:28]], [[ROM.11:29]])."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.3:2",
+  "canon_uri": "canon/NT/JOH.md#JOH.3:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2CO_footnotes.md",
+      "line_number": 323,
+      "raw_match": "[[JOH.3:1]]-6",
+      "reference_type": "wikilink_range",
+      "context": "death to life, from darkness to light ([[JOH.3:1]]-6; [[COL.1:13]], [[COL.1:14]]), through repentance, faith,"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.14:6",
+  "canon_uri": "canon/NT/MRK.md#MRK.14:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3597,
+      "raw_match": "[[MRK.14:3]]-9",
+      "reference_type": "wikilink_range",
+      "context": "accounts of similar events in [[MRK.14:3]]-9; [[LUK.7:36]]-38; and [[JOH.12:1]]-8. Some Fathers say"
+    }
+  ]
+}

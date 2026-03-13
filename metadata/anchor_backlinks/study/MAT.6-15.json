@@ -1,0 +1,30 @@
+{
+  "anchor_id": "MAT.6:15",
+  "canon_uri": "canon/NT/MAT.md#MAT.6:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 177,
+      "raw_match": "[[MAT.6:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
+    },
+    {
+      "source_file": "staging/validated/OT/JER_footnotes.md",
+      "line_number": 1257,
+      "raw_match": "[[MAT.6:15]]",
+      "reference_type": "wikilink",
+      "context": "([[MAT.6:14]], [[MAT.6:15]]). If we want to become great in the kingdom of God, we must become"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 982,
+      "raw_match": "[[MAT.6:15]]",
+      "reference_type": "wikilink",
+      "context": "The Lord Jesus Christ echoed this truth in His Sermon on the Mount ([[MAT.6:14]], [[MAT.6:15]]). It"
+    }
+  ]
+}

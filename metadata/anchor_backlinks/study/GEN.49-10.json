@@ -1,0 +1,65 @@
+{
+  "anchor_id": "GEN.49:10",
+  "canon_uri": "canon/OT/GEN.md#GEN.49:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 35,
+      "raw_match": "[[GEN.49:10]]",
+      "reference_type": "wikilink",
+      "context": "from the tribe of Judah ([[GEN.49:10]]). As Herod was a non-Jew calling himself the king of"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 951,
+      "raw_match": "[[GEN.49:10]]",
+      "reference_type": "wikilink",
+      "context": "parallels in the OT and apocryphal books (see [[GEN.49:9]], [[GEN.49:10]]; Is 11:1-10). The One who has"
+    },
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 75,
+      "raw_match": "[[GEN.49:8]]-12",
+      "reference_type": "wikilink_range",
+      "context": "promise was on Judah's head ([[GEN.49:8]]-12). Christ, the Son of God, will be born from"
+    },
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 89,
+      "raw_match": "[[GEN.49:8]]-10",
+      "reference_type": "wikilink_range",
+      "context": "father Jacob ([[GEN.49:8]]-10) came to pass in King David. 5:25-26 The faithful must be vigilant and continue to trust in God. It is when we think we"
+    },
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 57,
+      "raw_match": "[[GEN.49:10]]",
+      "reference_type": "wikilink",
+      "context": "the prophecy of [[GEN.49:10]], the presence of a Gentile king on the throne of Judah would"
+    },
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 270,
+      "raw_match": "[[GEN.49:9]]-12",
+      "reference_type": "wikilink_range",
+      "context": "(vv. 11, 14), would not depart from Judah until the Messiah came ([[GEN.49:9]]-12). 20:1-4 This is the introduction to a chapter that describes Israel's history of lawlessness. 20:29"
+    },
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 404,
+      "raw_match": "[[GEN.49:9]]-12",
+      "reference_type": "wikilink_range",
+      "context": "the kingly line of Judah went silent until the coming of Christ (see [[GEN.49:9]]-12). St. Zacharias, the priest who was made mute because of his unbelief, was given back his"
+    },
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 684,
+      "raw_match": "[[GEN.49:9]]-12",
+      "reference_type": "wikilink_range",
+      "context": "[[GEN.49:9]]-12 and note)."
+    }
+  ]
+}

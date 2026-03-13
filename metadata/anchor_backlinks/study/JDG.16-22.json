@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JDG.16:22",
+  "canon_uri": "canon/OT/JDG.md#JDG.16:22",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1MA_footnotes.md",
+      "line_number": 351,
+      "raw_match": "[[JDG.16:21]]-30",
+      "reference_type": "wikilink_range",
+      "context": "mentioned in the Bible, one at Gaza ([[JDG.16:21]]-30) and one at Ashdod (1Kg 5:5; 1Ch"
+    }
+  ]
+}

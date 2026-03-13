@@ -1,0 +1,23 @@
+{
+  "anchor_id": "HEB.3:7",
+  "canon_uri": "canon/NT/HEB.md#HEB.3:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 75,
+      "raw_match": "[[HEB.3:7]]-11",
+      "reference_type": "wikilink_range",
+      "context": "rebellion. An unbelieving heart was the cause ([[HEB.3:7]]-11, 19). They judged by outward"
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 798,
+      "raw_match": "[[HEB.3:7]]-11",
+      "reference_type": "wikilink_range",
+      "context": "their complaining ultimately caused their destruction in the desert ([[HEB.3:7]]-11). Similarly, the Church suffers when its members complain ([[1CO.10:10]])."
+    }
+  ]
+}

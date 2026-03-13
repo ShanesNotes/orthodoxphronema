@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.1:46",
+  "canon_uri": "canon/NT/JOH.md#JOH.1:46",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 283,
+      "raw_match": "[[JOH.1:46]]",
+      "reference_type": "wikilink",
+      "context": "did not have a good reputation ([[JOH.1:46]])."
+    }
+  ]
+}

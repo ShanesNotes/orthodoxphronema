@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.22:1",
+  "canon_uri": "canon/OT/EXO.md#EXO.22:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 2553,
+      "raw_match": "[[EXO.22:1]]",
+      "reference_type": "wikilink",
+      "context": "Law ([[EXO.22:1]]). By doing both, Zacchaeus not only fulfills the Law, but shows his love of"
+    }
+  ]
+}

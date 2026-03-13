@@ -29,7 +29,7 @@ will be made holy through its union with the Son of God, as this woman was made 
 
 by her union with the prophet" (Iren). The unbelieving wife is made holy by her believing
 
-husband (1Co 7:14). 
+husband ([[1CO.7:14]]). 
 
 ### 1:4
 *(anchor: HOS.1:4)*
@@ -73,7 +73,7 @@ war of 733 BC, during which the two Israelite kingdoms were in a state of enmity
 
 Strip her naked: An act of humiliation preceding capital punishment of an
 
-adulteress (Ezk 16:39, 40; Lv 20:10; Dt 22:22). Perhaps this means Israel would
+adulteress ([[EZK.16:39]], [[EZK.16:40]]; Lv 20:10; [[DEU.22:22]]). Perhaps this means Israel would
 
 experience humiliation during the Assyrian exile, beginning in 722 BC. 
 
@@ -160,7 +160,7 @@ with an assessment of the moral status of northern Israelite society as a whole.
 
 "One says that Israel will be weak not forever but for days. For it has been reserved
 
-for her a time of salvation and a return to faith" (CyrAl). See also Rom 10:1; 11:26, 27. 
+for her a time of salvation and a return to faith" (CyrAl). See also [[ROM.10:1]]; 11:26, 27. 
 
 ### 4:8
 *(anchor: HOS.4:8)*
@@ -194,7 +194,7 @@ offered the thanksgiving and sacrifices for births to the demons. Therefore, 'st
 
 children' are the ones who are not in God. Or, according to another interpretation, the
 
-ones from the foreign wives" (CyrAl; see Dt 7:3, 4). 
+ones from the foreign wives" (CyrAl; see [[DEU.7:3]], [[DEU.7:4]]). 
 
 ### 5:10
 *(anchor: HOS.5:10)*
@@ -205,7 +205,7 @@ Judah's princes do not stop at Benjamin; they begin to pluck portions out of the
 
 Ephraimite territory, which never belonged to the Southern Kingdom. This wrongdoing is
 
-compared with the crime of those who move the boundary markers (Dt 19:14; 27:17; Pr
+compared with the crime of those who move the boundary markers ([[DEU.19:14]]; 27:17; Pr
 
 22:30). 
 
@@ -234,7 +234,7 @@ Resurrection: two days refers to the time the body of Jesus lay in the tomb; the
 
 day points to His glorious Resurrection, promising we shall rise with Him. St. Paul
 
-writes that Jesus "rose again the third day according to the Scriptures" (1Co 15:4), most
+writes that Jesus "rose again the third day according to the Scriptures" ([[1CO.15:4]]), most
 
 likely alluding to this passage from Hosea. 
 
@@ -245,14 +245,14 @@ Among the Church's early writers, Tertullian (ca. AD 160-225) is the first to re
 
 passage to the Resurrection of Jesus, and more precisely to the myrrhbearing women
 
-who went at daybreak (Lk 24:1) to their Master's tomb to anoint His body. 
+who went at daybreak ([[LUK.24:1]]) to their Master's tomb to anoint His body. 
 
 ### 6:6
 *(anchor: HOS.6:6)*
 
 God does not reject worship as a whole, but He criticizes the way Israel perceives it. Instead of a means to enter into a relationship with God and to foster community ties, the
 
-worship gradually becomes a goal in itself (Am 5:21ff.; Mic 6:6ff.). This applies also to
+worship gradually becomes a goal in itself ([[AMO.5:21]]ff.; [[MIC.6:6]]ff.). This applies also to
 
 Orthodox people who see the liturgy as "boring."
 
@@ -301,7 +301,7 @@ God.
 
 A multitude of statutes: This saying is one of the earliest evidences that by the
 
-eighth century BC the Torah ("instruction" or "law"; Ex 24:12; 34:1) was circulated, at
+eighth century BC the Torah ("instruction" or "law"; [[EXO.24:12]]; 34:1) was circulated, at
 
 least partially, in a written form. 
 
@@ -349,7 +349,7 @@ righteousness. On the contrary, the false fruit would reasonably be considered i
 ### 11:1
 *(anchor: HOS.11:1)*
 
-The New Testament application of this passage in Mt 2:15 concerns the return of
+The New Testament application of this passage in [[MAT.2:15]] concerns the return of
 
 Jesus, Mary, and Joseph from Egypt. Matthew did not use the Septuagint version (his
 
@@ -418,7 +418,7 @@ tongue" (CyrAl).
 
 Israel's return to the Lord may be compared with the repentance of the prodigal son
 
-(Lk 15:11ff.). God responds generously to repentance. In the parable, the father sees the
+([[LUK.15:11]]ff.). God responds generously to repentance. In the parable, the father sees the
 
 repentant child and runs to meet him. In Israel's case, God also begins the healing as
 
@@ -428,4 +428,4 @@ upon Israel, it means that love is His foremost attribute. Hosea may be consider
 
 spiritual forerunner of John the Evangelist, who gave one of the most beautiful
 
-definitions of God when he wrote, "God is love" (1Jn 4:8).
+definitions of God when he wrote, "God is love" ([[1JN.4:8]]).

@@ -1,0 +1,44 @@
+{
+  "anchor_id": "ACT.2:41",
+  "canon_uri": "canon/NT/ACT.md#ACT.2:41",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 71,
+      "raw_match": "[[ACT.2:41]]",
+      "reference_type": "wikilink",
+      "context": "actions of Peter also confirm this sacramental reality (see [[ACT.2:37]], [[ACT.2:38]], [[ACT.2:41]]; 10:43, 47, 48;"
+    },
+    {
+      "source_file": "staging/validated/NT/EPH_articles.md",
+      "line_number": 22,
+      "raw_match": "[[ACT.2:41]]",
+      "reference_type": "wikilink",
+      "context": "O ne of the tragic aberrations of so-called modern religion is 'Churchless Christianity.' The assertion is that it is Christ who saves us, not the Church, so 'all you need is Jesus.' Few who claim to be Christians would argue against the statement that it is Christ who saves. For He is the eternal Son of God who has assumed human flesh, and has done so 'for us and for our salvation' (Nicene Creed). Thus Paul writes, 'For there is one God and one Mediator between God and men, the Man Christ Jesus' ([[1TI.2:5]]). But because this Mediator established the Church which is His body, we who are joined to Him are joined to His Church as well. To say we love Christ, who is Head of the Church, and at the same time reject His body is to deny New Testament teaching. The Gospel and Acts. The first use of the word 'church' (Gr. ecclesia ) in the New Testament comes in the Gospel of Matthew, when our Lord gives His approval of Peter's confession of faith and promises, 'I will build My church' ([[MAT.16:18]]). Jesus Christ builds, and we cooperate with Him. The Book of Acts amplifies what Jesus meant in Matthew 16. When Peter's sermon on the Day of Pentecost concludes, those present ask for guidance toward salvation: 'What shall we do?' ([[ACT.2:37]]). Following Peter's word, they are baptized and join with the other believers, three thousand of them ([[ACT.2:38]], [[ACT.2:41]]). Having been joined to Christ and His Church, these baptized believers begin living as the body of Christ. We find them looking after each other, using their personal resources for one another's care, continuing together in prayer and in the Eucharist ([[ACT.2:42]]-47). From this point on 'the Lord added to the church daily those who were being saved' ([[ACT.2:47]]), and throughout Acts, we see the Church being built as the Gospel of Christ spreads. The Epistles. Paul's instructions in his letters to the churches throughout the eastern Mediterranean clearly show what it means to be members of Christ: to be the Church and to be in the Church. Nowhere in the New Testament is Paul's teaching on the Church more fully disclosed than in Ephesians 4. He instructs us that: 1 The Church is one, 'endeavoring to keep the unity of the Spirit in the bond of peace' (4:3). There is one Church, one God, one doctrine, one baptism. 2 The Church is people, men and women who are energized by the Holy Spirit. For 'to each one of us grace was given according to the measure of Christ's gift' (4:7). We are not all given the same gifts, but together we are equipped to do God's will. 3 The Head of the Church is Christ, 'from whom the whole body [is] joined and knit together' (4:16). 4 The Church is 'the new man ' (4:24), the new creation, made to be righteous and holy. We are no longer alienated from God (4:18); we are being renewed together (4:23), 'members of one another' (4:25). The Church, then, is that place established by Christ where we each may become what we are created to be, maturing and being perfected, while the Church receives what it needs from each of us, so that it too is being perfected. The Church as the body of Christ carries us beyond our petty and worldly personal concerns, stretching our vision to the eternal and the heavenly as we ascend together to worship the Father, the Son, and the Holy Spirit."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3793,
+      "raw_match": "[[ACT.2:41]]",
+      "reference_type": "wikilink",
+      "context": "Jerusalem on the Day of Pentecost ([[ACT.2:41]]) as evidence of Christ's mercy."
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1670,
+      "raw_match": "[[ACT.2:41]]",
+      "reference_type": "wikilink",
+      "context": "The Church will indeed be born in one day, at Pentecost (see [[ACT.2:41]]; 4:4), and"
+    },
+    {
+      "source_file": "staging/validated/OT/JON_footnotes.md",
+      "line_number": 60,
+      "raw_match": "[[ACT.2:38]]-41",
+      "reference_type": "wikilink_range",
+      "context": "Ninevites to repent and seek salvation. Similarly, God's presence in creation ([[ROM.1:20]]), combined with the presence of the Holy Spirit in believers ([[ACT.2:38]]-41), draws men to"
+    }
+  ]
+}

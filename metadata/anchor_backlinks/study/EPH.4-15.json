@@ -1,0 +1,23 @@
+{
+  "anchor_id": "EPH.4:15",
+  "canon_uri": "canon/NT/EPH.md#EPH.4:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 35,
+      "raw_match": "[[EPH.4:15]]",
+      "reference_type": "wikilink",
+      "context": "David (see 2Kg 12:1-15). Sometimes \"speaking the truth in love\" ([[EPH.4:15]]) costs a"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 387,
+      "raw_match": "[[EPH.4:15]]",
+      "reference_type": "wikilink",
+      "context": "is pleasant. St. Paul calls this \"speaking the truth in love\" ([[EPH.4:15]])."
+    }
+  ]
+}

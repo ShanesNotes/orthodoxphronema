@@ -1,0 +1,23 @@
+{
+  "anchor_id": "EXO.12:39",
+  "canon_uri": "canon/OT/EXO.md#EXO.12:39",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1119,
+      "raw_match": "[[EXO.12:39]]",
+      "reference_type": "wikilink",
+      "context": "hastily driven out of Egypt and had brought no provisions for themselves ([[EXO.12:39]])."
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 551,
+      "raw_match": "[[EXO.12:39]]",
+      "reference_type": "wikilink",
+      "context": "bread is a reminder of the haste with which the Hebrews left Egypt ([[EXO.12:39]]). This"
+    }
+  ]
+}

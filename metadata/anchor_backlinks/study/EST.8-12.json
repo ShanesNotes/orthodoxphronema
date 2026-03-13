@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EST.8:12",
+  "canon_uri": "canon/OT/EST.md#EST.8:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EST_footnotes.md",
+      "line_number": 314,
+      "raw_match": "[[EST.8:12]]",
+      "reference_type": "wikilink",
+      "context": "influence and those who would destroy the Jews (see [[EPH.6:12]]). 8:12s [[EST.8:12]]s, 12t: Victory is already assumed, and deliverance will be received by both"
+    }
+  ]
+}

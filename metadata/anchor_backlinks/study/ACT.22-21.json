@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ACT.22:21",
+  "canon_uri": "canon/NT/ACT.md#ACT.22:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/EPH_footnotes.md",
+      "line_number": 293,
+      "raw_match": "[[ACT.22:3]]-21",
+      "reference_type": "wikilink_range",
+      "context": "God's revelation to Paul began on the road to Damascus ([[ACT.22:3]]-21). God was"
+    }
+  ]
+}

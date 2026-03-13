@@ -1,0 +1,37 @@
+{
+  "anchor_id": "DEU.7:1",
+  "canon_uri": "canon/OT/DEU.md#DEU.7:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 123,
+      "raw_match": "[[DEU.7:1]]-4",
+      "reference_type": "wikilink_range",
+      "context": "34:16; [[DEU.7:1]]-4). This commandment also prophesied the ultimate result of such"
+    },
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 253,
+      "raw_match": "[[DEU.7:1]]-4",
+      "reference_type": "wikilink_range",
+      "context": "to intermarry with foreign women ([[EXO.34:16]]; [[DEU.7:1]]-4) for just the reason that defeated"
+    },
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 458,
+      "raw_match": "[[DEU.7:1]]",
+      "reference_type": "wikilink",
+      "context": "the land and to show them no mercy ([[DEU.7:1]], [[DEU.7:2]]; [[JOS.9:24]]). But the tribe of Ephraim did not"
+    },
+    {
+      "source_file": "staging/validated/OT/MAL_footnotes.md",
+      "line_number": 104,
+      "raw_match": "[[DEU.7:1]]-4",
+      "reference_type": "wikilink_range",
+      "context": "34:11-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be unequally yoked"
+    }
+  ]
+}

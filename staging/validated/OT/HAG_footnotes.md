@@ -21,13 +21,13 @@ I will shake heaven and earth: "There have been two remarkable transformations
 
 of the human way of life in the course of the world's history. These are called two
 
-'covenants,' . . . two 'shakings of the earth' [Heb 12:26; Mt 27:51]. The first was the
+'covenants,' . . . two 'shakings of the earth' [Heb 12:26; [[MAT.27:51]]]. The first was the
 
 transition from idols to the Law; the second, from the Law to the gospel. The gospel also
 
 tells of the third shaking, the change from this present stage of things to what lies
 
-unmoved, unshaken, beyond" (GrgNa; see Heb 12:28). Indeed, writes Augustine, Christ
+unmoved, unshaken, beyond" (GrgNa; see [[HEB.12:28]]). Indeed, writes Augustine, Christ
 
 moved heaven and earth when He was born of a Virgin; and moved the sea and dry
 
@@ -40,7 +40,7 @@ The choice things of all the nations shall come in: Augustine remarks that this
 
 phrase prophesies the building of the Church from those chosen from among the
 
-Gentiles. These are Christ's "living stones" (1Pt 2:5), renewed by faith and empowered by
+Gentiles. These are Christ's "living stones" ([[1PE.2:5]]), renewed by faith and empowered by
 
 grace, building a house far more glorious than any earthly temple. 
 
@@ -70,7 +70,7 @@ makes us holy, but simply because He has chosen to bless us. God offers us an
 
 opportunity to return to Him through repentance and confession, as is illustrated in the
 
-parable of the Prodigal Son (Lk 15:11-32), recounted to us just two weeks prior to the
+parable of the Prodigal Son ([[LUK.15:11]]-32), recounted to us just two weeks prior to the
 
 Great Fast of Lent. 
 

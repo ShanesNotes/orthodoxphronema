@@ -1,0 +1,30 @@
+{
+  "anchor_id": "MAT.6:11",
+  "canon_uri": "canon/NT/MAT.md#MAT.6:11",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1JN_footnotes.md",
+      "line_number": 177,
+      "raw_match": "[[MAT.6:1]]-18",
+      "reference_type": "wikilink_range",
+      "context": "almsgiving (see [[MAT.6:1]]-18)--help us overcome these distortions and live lives of virtue."
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1617,
+      "raw_match": "[[MAT.6:9]]-13",
+      "reference_type": "wikilink_range",
+      "context": "notes on the Lord's Prayer, see [[MAT.6:9]]-13."
+    },
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 419,
+      "raw_match": "[[MAT.6:9]]-13",
+      "reference_type": "wikilink_range",
+      "context": "David's praises bear a striking resemblance to the Lord's Prayer ([[MAT.6:9]]-13). Under the old covenant, David cannot see the Trinity fully, for the Trinity has not yet"
+    }
+  ]
+}

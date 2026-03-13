@@ -1,0 +1,16 @@
+{
+  "anchor_id": "COL.2:8",
+  "canon_uri": "canon/NT/COL.md#COL.2:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/GAL_footnotes.md",
+      "line_number": 509,
+      "raw_match": "[[COL.2:8]]",
+      "reference_type": "wikilink",
+      "context": "humanity without regard to God ([[COL.2:8]])."
+    }
+  ]
+}

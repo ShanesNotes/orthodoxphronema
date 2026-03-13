@@ -1,0 +1,30 @@
+{
+  "anchor_id": "MAT.1:6",
+  "canon_uri": "canon/NT/MAT.md#MAT.1:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 53,
+      "raw_match": "[[MAT.1:3]]-6",
+      "reference_type": "wikilink_range",
+      "context": "showing Him to be both Son of God and Son of Man (see [[MAT.1:3]]-6; [[LUK.3:31]]-33). 3:1-9 Note that the sons of David born in Hebron (vv. 1-4) are listed separately from his"
+    },
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 71,
+      "raw_match": "[[MAT.1:6]]",
+      "reference_type": "wikilink",
+      "context": "to come through Solomon, and not Adonijah ([[MAT.1:6]]). So this petition was a threat"
+    },
+    {
+      "source_file": "staging/validated/OT/2SA_footnotes.md",
+      "line_number": 174,
+      "raw_match": "[[MAT.1:6]]",
+      "reference_type": "wikilink",
+      "context": "([[MAT.1:6]])."
+    }
+  ]
+}

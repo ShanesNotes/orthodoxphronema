@@ -20,11 +20,11 @@ on the borders of Edom and Arabia (42:19). He is also a descendant of Abraham th
 
 Esau, and his first wife was an Arab (42:20). This makes him a Gentile, and Esau the
 
-unbeliever was his forefather. St. John Chrysostom, quoting Ecc 7:21, notes that the text
+unbeliever was his forefather. St. John Chrysostom, quoting [[ECC.7:21]], notes that the text
 
 qualifies Job as blameless, that is, "just," but that it did not say, "without sin." Only
 
-Christ was without sin (Heb 4:15). 
+Christ was without sin ([[HEB.4:15]]). 
 
 ### 1:6
 *(anchor: JOB.1:6)*
@@ -43,17 +43,17 @@ devil] too is dependent upon God."
 ### 1:7
 *(anchor: JOB.1:7)*
 
-The devil accuses the righteous before God "day and night" (Rev 12:10). With God's
+The devil accuses the righteous before God "day and night" ([[REV.12:10]]). With God's
 
 permission, he pummels our minds with evil thoughts and weakens our bodies with pain
 
 and illness, ever seeking to influence us towards evil. But through hardship, the righteous
 
-are clothed in the "whole armor of God" (Eph 6:13). We are called to "glory in
+are clothed in the "whole armor of God" ([[EPH.6:13]]). We are called to "glory in
 
-tribulations" (Rom 5:3), knowing that we are to walk in obedience to Christ's commands
+tribulations" ([[ROM.5:3]]), knowing that we are to walk in obedience to Christ's commands
 
-(Mt 5:10). 
+([[MAT.5:10]]). 
 
 ### 1:10-12
 *(anchor: JOB.1:10)*
@@ -66,14 +66,14 @@ faithful, and even profits those who wage war against him, "for tribulation make
 
 strong man stronger." Jesus conversed with evil spirits and even granted their request to
 
-be sent into a great herd of swine (Lk 8:32, 33). 
+be sent into a great herd of swine ([[LUK.8:32]], [[LUK.8:33]]). 
 
 ### 1:13
 *(anchor: JOB.1:13)*
 
 St. Gregory compares the elder brother to the Jews, and the rest of Job's sons and
 
-daughters to the Gentiles. The collapse of the house (v. 19) points to the Final Judgment, when we will either be crushed by Christ the Rock or take refuge in Him (see Lk 17:26-
+daughters to the Gentiles. The collapse of the house (v. 19) points to the Final Judgment, when we will either be crushed by Christ the Rock or take refuge in Him (see [[LUK.17:26]]-
 
 30). 
 
@@ -120,7 +120,7 @@ continuing in his fury until he came to the very Head of the Church. 2:8
 
 Job in his misery is an image of Christ on the Cross. He came "in the likeness of sinful
 
-flesh, on account of sin: He condemned sin in the flesh" (Rom 8:3). "With a shard, therefore, the pus is scraped, when sin is defeated by the flesh." St. Gregory also notes
+flesh, on account of sin: He condemned sin in the flesh" ([[ROM.8:3]]). "With a shard, therefore, the pus is scraped, when sin is defeated by the flesh." St. Gregory also notes
 
 that the repentant sinner, like Job, looks "unflinchingly upon the stains of sin by which
 
@@ -132,7 +132,7 @@ St. Hesychius teaches that Satan "recruited" Job's wife, as he had done with Eve
 
 these bad things, He needs to be invoked, not blasphemed." And Jesus said, "He who
 
-endures to the end will be saved" (Mt 10:22). 2:15
+endures to the end will be saved" ([[MAT.10:22]]). 2:15
 
 Job did not sin with his lips: "When holy men undergo persecution . . . they not
 
@@ -144,7 +144,7 @@ they imagined they understood the reason he suffered such things. 3:1-3 Job curs
 
 his pain. 3:8
 
-The sea-monster is identified as Satan (3:8; 7:12; 9:13; 26:12; 41:1; Ps 74:13, 14; 87:4; 89:10; 104:26; 148:7; Is 27:1; 30:7; 51:9; Ezk 29:3; 32:2; Jon 1:17). 3:20
+The sea-monster is identified as Satan (3:8; 7:12; 9:13; 26:12; 41:1; Ps 74:13, 14; 87:4; 89:10; 104:26; 148:7; Is 27:1; 30:7; 51:9; [[EZK.29:3]]; 32:2; [[JON.1:17]]). 3:20
 
 "The heart of the just knows its own bitterness because it understands how
 
@@ -158,17 +158,17 @@ work."
 
 4:3-6 In his hypocrisy, Eliphaz begins to mock Job for the very virtues he had been praised
 
-for. Christ was mocked and reviled in a similar way (Lk 23:35-37). 4:7
+for. Christ was mocked and reviled in a similar way ([[LUK.23:35]]-37). 4:7
 
 Eliphaz could not understand why God would allow a righteous man to suffer. The
 
 Fathers give four reasons why God allows suffering: (1) as a means of punishment, when
 
-there is no hope for rehabilitation (see Jer 30:14, 15 and notes); (2) to bring the sinner to
+there is no hope for rehabilitation (see [[JER.30:14]], [[JER.30:15]] and notes); (2) to bring the sinner to
 
-repentance (see Jn 5:14); (3) to prevent future sins (see 2Co 12:7); and (4) "that the
+repentance (see [[JOH.5:14]]); (3) to prevent future sins (see [[2CO.12:7]]); and (4) "that the
 
-power of God might be made known" (Jn 9:2, 3). 4:13-21
+power of God might be made known" ([[JOH.9:2]], [[JOH.9:3]]). 4:13-21
 
 St. Gregory comments that Job's friends typify teachers of false doctrines, who
 
@@ -178,7 +178,7 @@ reverence" over their preaching. 5:1-27 St. Gregory remarks that Eliphaz' words 
 
 delivered against the patience of so great a man. Like the Hebrews, Eliphaz knew the acts
 
-of the Lord, but he did not know His ways (Ps 102:7). 6:2
+of the Lord, but he did not know His ways ([[PSA.102:7]]). 6:2
 
 Christ is the scale. He "came to weigh the merit of our life, and brought down with
 
@@ -196,7 +196,7 @@ world for the sake of eternal rewards, to count the allurements of prosperity as
 
 Job's lament gives voice to Christ in His Passion, summed up when He cried out, "My
 
-God, My God, why have You forsaken Me?" (Ps 21:1; Mt 27:46). 7:8
+God, My God, why have You forsaken Me?" ([[PSA.21:1]]; [[MAT.27:46]]). 7:8
 
 I am no more speaks of death and judgment, for believers know that they "will be
 
@@ -210,11 +210,11 @@ St. Hesychius comments that a guard refers to the enemy, who is allowed to affli
 
 the righteous with hard trials. 7:20-21
 
-Christ also asked "why?" while hanging on the Cross (Mt 27:46). Job looked to
+Christ also asked "why?" while hanging on the Cross ([[MAT.27:46]]). Job looked to
 
-death for relief (v. 21), but Christ's death purged our lawlessness (Jn 1:29), and His
+death for relief (v. 21), but Christ's death purged our lawlessness ([[JOH.1:29]]), and His
 
-Resurrection in the morning (Ps 5:3) brought a new covenant of life and hope. 8:1-4 How long? The unjust cannot bear the edifying words of the righteous, but speak
+Resurrection in the morning ([[PSA.5:3]]) brought a new covenant of life and hope. 8:1-4 How long? The unjust cannot bear the edifying words of the righteous, but speak
 
 even well-known truths boldly and with big words so they will appear learned. 8:11-13 Bildad's images, which rightly describe all who forget the Lord, are wasted on
 
@@ -228,15 +228,15 @@ Job's question is answered in Christ, the only truly righteous One. 9:5
 
 St. Ambrose sees in the mountains a type of the Old Testament and the Prophets. "The Jew grew old; grace was renewed." Christ "overturned" the understanding of the Law
 
-(2Co 5:17) and established the comprehension that is of the Spirit. 9:8
+([[2CO.5:17]]) and established the comprehension that is of the Spirit. 9:8
 
 St. Gregory the Great sees in heaven a type of the preaching of the apostles and
 
 evangelists. St. Cyril notes that this is the same Lord who, as Man, walked on the sea as
 
-on firm ground (Jn 6:19). 9:9-13 St. Hesychius sees v. 9 as denoting all of God's great works, and compares v. 10 to
+on firm ground ([[JOH.6:19]]). 9:9-13 St. Hesychius sees v. 9 as denoting all of God's great works, and compares v. 10 to
 
-Jn 21:25. God goes beyond us (v. 11) when He defers judgment, and passes by when He
+[[JOH.21:25]]. God goes beyond us (v. 11) when He defers judgment, and passes by when He
 
 visits us. 9:15
 
@@ -276,7 +276,7 @@ things, if it is not our lot to escape them?" Indeed, Job knew he would be redee
 
 (19:25). Therefore, as the Lord says, "Walk while you have the light, lest darkness
 
-overtake you" (Jn 12:35). 11:1-20
+overtake you" ([[JOH.12:35]]). 11:1-20
 
 Unlike Job, Zophar had all the answers and no questions. Zophar is incorrect in
 
@@ -314,7 +314,7 @@ unable to master, that we may not be exalted by those things we have the power t
 
 (GrgGt). 14:7-11 Christ was cut down in His death, but would sprout again in His Resurrection
 
-(see Ps 1:3) and send out tender shoots--"the faithful being multiplied by His
+(see [[PSA.1:3]]) and send out tender shoots--"the faithful being multiplied by His
 
 Resurrection grew out far and wide" (GrgGt). 14:14
 
@@ -322,13 +322,13 @@ Will man live again: "Our Lord, when He was near His passion, took up the voice
 
 of those who were weak in Himself, saying, 'O My Father, if it is possible, let this cup pass
 
-from Me' (Mt 26:39); and that He might remove their fear, He took it in Himself"
+from Me' ([[MAT.26:39]]); and that He might remove their fear, He took it in Himself"
 
 (GrgGt). 14:17
 
 As a mortal man, Job has transgressed unwillingly, that is, "sin not leading to
 
-death" (1Jn 5:16, 17). But "one day it may also come forth out of the bag of secrecy into
+death" ([[1JN.5:16]], [[1JN.5:17]]). But "one day it may also come forth out of the bag of secrecy into
 
 the publicity of the Judgment" (GrgGt). 15:1-6
 
@@ -342,13 +342,13 @@ him over to be tempted so that, like an athlete of Christ, he might be fashioned
 
 temptations and attain to the crown of a greater glory" (AmbM). 16:8
 
-St. Hesychius compares this verse to Christ's betrayal at Judas's hands (Jn 13:21; Mt
+St. Hesychius compares this verse to Christ's betrayal at Judas's hands ([[JOH.13:21]]; Mt
 
 
 ### 26:25
 *(anchor: JOB.26:25)*
 
-). 16:17 Compare this verse to 1Pt 2:22 and Lk 23:24. 16:18
+). 16:17 Compare this verse to [[1PE.2:22]] and [[LUK.23:24]]. 16:18
 
 The earth did not cover Christ's blood shed on the Cross; rather His blood has
 
@@ -358,7 +358,7 @@ world (GrgGt). 17:4
 
 A stunning example of God's enemies lacking discernment shows up in St. Paul's
 
-commentary in 1Co 2:7, 8 on those who crucified Christ. 18:1-21 St. Gregory sees Bildad's words as being unwittingly directed against the devil. 19:5
+commentary in [[1CO.2:7]], [[1CO.2:8]] on those who crucified Christ. 18:1-21 St. Gregory sees Bildad's words as being unwittingly directed against the devil. 19:5
 
 Job's friends, seeing his affliction and knowing his righteousness, should have
 
@@ -370,7 +370,7 @@ smitten, who had not served like him?" (GrgGt). 19:7-19 The Fathers note clear p
 ### 27:40
 *(anchor: JOB.27:40)*
 
-; Jn 18:23; Mt 27:26, 27, 29; Is 53:2, 3). 19:23-27 "No one since the days of Christ speaks so openly concerning the Resurrection as
+; [[JOH.18:23]]; [[MAT.27:26]], [[MAT.27:27]], [[MAT.27:29]]; Is 53:2, 3). 19:23-27 "No one since the days of Christ speaks so openly concerning the Resurrection as
 
 he did before Christ" (Jerome). 20:1-3 Zophar's so-called superior understanding blinded him to the truth. 20:12-14
 
@@ -386,7 +386,7 @@ judgment is not just. But although the ungodly may prosper on this earth, they c
 
 escape judgment when they die. Christ will say to all who reject Him, "depart from Me"
 
-(Mt 25:41; Lk 12:47, 48). 21:16
+([[MAT.25:41]]; [[LUK.12:47]], [[LUK.12:48]]). 21:16
 
 "Let us pray together to undergo toil here, so that we may deserve to gain the
 
@@ -416,7 +416,7 @@ afflicted in the first place (1:12). 23:1-3 In the midst of affliction, the righ
 
 see His form. Christ will take the form of fallen men and fulfill Job's desires (GrgGt). 23:12
 
-Similarly, the Virgin Mary has hidden many things in her heart (Lk 2:19). 24:1
+Similarly, the Virgin Mary has hidden many things in her heart ([[LUK.2:19]]). 24:1
 
 We are wrapped up within the divisions of time, since we are created beings. But God, Creator of all things, encompasses our times by His eternity (GrgGt). 24:2-6
 
@@ -434,7 +434,7 @@ cannot be hidden from God" (AmbM). 25:4
 
 (GrgGt). 26:1, 2 Is it possible for a man to help God? St. Gregory gives a qualified "yes." Relating
 
-this passage to 1Co 3:7, he writes, "For to 'plant' and to 'water' is to 'help,' both of which
+this passage to [[1CO.3:7]], he writes, "For to 'plant' and to 'water' is to 'help,' both of which
 
 would be only a void ministration if God does not give the increase in the heart."
 
@@ -442,7 +442,7 @@ would be only a void ministration if God does not give the increase in the heart
 
 "If we can hardly endure the wonders of His humility, with what nerve do we
 
-encounter the loud and dreadful advent of His Majesty?" (GrgGt; see Ps 49:3). 27:3
+encounter the loud and dreadful advent of His Majesty?" (GrgGt; see [[PSA.49:3]]). 27:3
 
 "He signifies here the nostrils of his inner man, with which he gathered the odor of
 
@@ -454,13 +454,13 @@ How can Job say that he has not done anything wrong, considering that he
 
 accuses himself of having sinned (7:20; 9:20)? Because even righteous men find it
 
-difficult to avoid involuntary sin (see 14:17-22 and note; Rom 7:13-25 and notes). "For
+difficult to avoid involuntary sin (see 14:17-22 and note; [[ROM.7:13]]-25 and notes). "For
 
 what man's heart, bound up with this corruptible flesh, does not slip in ill-bent thought? . . . But when there is a resisting of the thought, the soul is freed from being confounded. And so the mind of the righteous, even though it is free from bad practice, yet sometimes
 
 falls to the ground in bad thinking" (GrgGt). 27:12
 
-Compare with Jam 4:17. 
+Compare with [[JAS.4:17]]. 
 
 ### 28:1-3
 *(anchor: JOB.28:1)*
@@ -474,7 +474,7 @@ Himself is invisible" (JohnChr).
 
 St. Gregory interprets this passage in the light of Christ and His Church. The lamp
 
-denotes Holy Scripture (2Pt 1:19; Ps 118:105); my house is "the dwelling place of the
+denotes Holy Scripture ([[2PE.1:19]]; [[PSA.118:105]]); my house is "the dwelling place of the
 
 mind"; and butter (v. 6) is the "holy preachers, filled to the full with the fatness of good
 
@@ -484,7 +484,7 @@ works."
 ### 29:14-15
 *(anchor: JOB.29:14)*
 
-I put on righteousness: Compare to Gal 3:27. The preaching of the Church
+I put on righteousness: Compare to [[GAL.3:27]]. The preaching of the Church
 
 enlightens the blind man, who does not know where to go, and supports the lame man, who "does not have the power to go to the place he sees."
 
@@ -502,7 +502,7 @@ St. Cyril notes that it is not only the natural father who is called father (see
 
 "Oh what a spoil did the Church take from the mouth of the devil, when, by
 
-converting, she carried off Saul himself, the spoiler!" (GrgGt; see Acts 9:1-12). 
+converting, she carried off Saul himself, the spoiler!" (GrgGt; see [[ACT.9:1]]-12). 
 
 ### 29:19
 *(anchor: JOB.29:19)*
@@ -535,7 +535,7 @@ from the Church. Indeed, the true Church is taunted by her critics, while the na
 
 Lord Jesus Christ is used as a byword (v. 9) by these sons of fools (v. 8), who misuse
 
-and exploit it as they pursue every "wind of doctrine" (Eph 4:14). 
+and exploit it as they pursue every "wind of doctrine" ([[EPH.4:14]]). 
 
 ### 30:13-31
 *(anchor: JOB.30:13)*
@@ -549,9 +549,9 @@ faithful in the midst of their struggle.
 ### 30:25
 *(anchor: JOB.30:25)*
 
-"Who then are the 'merciful' (Mt 5:7)? Those who give money or feed the poor? No. But who are they? Those who have become poor for the sake of Him who became poor for
+"Who then are the 'merciful' ([[MAT.5:7]])? Those who give money or feed the poor? No. But who are they? Those who have become poor for the sake of Him who became poor for
 
-our sakes (see 2Co 8:9)" (SymNew). These have nothing material to give, yet they
+our sakes (see [[2CO.8:9]])" (SymNew). These have nothing material to give, yet they
 
 constantly weep with compassion over the man in distress. 
 
@@ -564,7 +564,7 @@ to enter her soul through the "windows" of her eyes. He warns the faithful to be
 
 that we not even look on what is forbidden. "If I defile my mind in thought, I can never be
 
-the inheritance of Him who is the Author of purity" (see Mt 5:27, 28; 1Pt 1:13). 
+the inheritance of Him who is the Author of purity" (see [[MAT.5:27]], [[MAT.5:28]]; [[1PE.1:13]]). 
 
 ### 31:3-6
 *(anchor: JOB.31:3)*
@@ -604,7 +604,7 @@ earthly wealth; rather, it is seen as a burden, because they have to "carry so m
 
 on their journey to their heavenly inheritance. All things belong to God; therefore we
 
-must strive to share all we have with our needy neighbor (Gal 2:10). 
+must strive to share all we have with our needy neighbor ([[GAL.2:10]]). 
 
 ### 32:1-22
 *(anchor: JOB.32:1)*
@@ -635,14 +635,14 @@ St. Ambrose writes that this verse shows the divine Spirit "to be both divine an
 
 Creator." St. Gregory of Nazianzus writes that "this Spirit shares with the Son in working
 
-both the Creation and the Resurrection" (also see Ps 103:30). 
+both the Creation and the Resurrection" (also see [[PSA.103:30]]). 
 
 ### 33:31-33
 *(anchor: JOB.33:31)*
 
 Elihu has uttered great and powerful words, yet immediately follows up with
 
-pride and foolishness. He is like those who "preach Christ even from envy and strife . . . not sincerely, supposing to add affliction" to the suffering of another (Php 1:14-17). 
+pride and foolishness. He is like those who "preach Christ even from envy and strife . . . not sincerely, supposing to add affliction" to the suffering of another ([[PHP.1:14]]-17). 
 
 ### 34:1-3
 *(anchor: JOB.34:1)*
@@ -672,7 +672,7 @@ scourges. But the Lord judged otherwise, asserting that he was scourged without 
 
 "Not only does the Lord not countenance wrongs, but He does not even wish to look
 
-on them" (JohnChr; see Hab 1:13). 
+on them" (JohnChr; see [[HAB.1:13]]). 
 
 ### 36:22
 *(anchor: JOB.36:22)*
@@ -696,7 +696,7 @@ God uses the random winter storms and the rain and snow to show man his
 
 weakness in the face of God's overwhelming power. Indeed, Christ taught this lesson to
 
-His disciples when he calmed the storm (Mt 8:23-27). "He has created man to be weak, and yet man thinks himself to be strong; and thereby he becomes even more feeble"
+His disciples when he calmed the storm ([[MAT.8:23]]-27). "He has created man to be weak, and yet man thinks himself to be strong; and thereby he becomes even more feeble"
 
 (JohnChr). 
 
@@ -741,7 +741,7 @@ the celestial powers, can therefore only be preserved by the direction of the Sp
 
 "As if it were being born, the sea is first poured out, then takes its form, and is
 
-'gathered together into one place'" (JohnChr; see Gn 1:9). 
+'gathered together into one place'" (JohnChr; see [[GEN.1:9]]). 
 
 ### 38:14
 *(anchor: JOB.38:14)*
@@ -760,18 +760,18 @@ by dying, He might overcome their strength and bring light to the darkness.
 
 The "father" (v. 28) brought forth the Morning Star (i.e., Mazzaroth), which is
 
-Christ (Rev 22:16), "when the fullness of the time had come" (Gal 4:4). The Lord lifted up
+Christ ([[REV.22:16]]), "when the fullness of the time had come" ([[GAL.4:4]]). The Lord lifted up
 
 His voice (v. 34) when the apostles, having been immersed in the rain of the Holy Spirit
 
-at Pentecost, preached the gospel to the world (see 1Kg 8:10, 11; Ps 93:3). 
+at Pentecost, preached the gospel to the world (see 1Kg 8:10, 11; [[PSA.93:3]]). 
 
 ### 38:36
 *(anchor: JOB.38:36)*
 
 St. Ambrose quotes this verse in speaking of Christ the High Priest's woven bridal
 
-garment, "adorned with precious stones" (see Ex 35:27 and note). 
+garment, "adorned with precious stones" (see [[EXO.35:27]] and note). 
 
 ### 38:38-41
 *(anchor: JOB.38:38)*
@@ -802,9 +802,9 @@ evil one. He sees in the wild ox a type of the proud nations which were tamed by
 
 gospel. The manger is understood to be Holy Scripture, and the ropes are the precepts
 
-of discipline in the Church. The seed is the word of preaching (Mt 13:3), and the
+of discipline in the Church. The seed is the word of preaching ([[MAT.13:3]]), and the
 
-threshing floor is the Church itself (Mt 3:12). 
+threshing floor is the Church itself ([[MAT.3:12]]). 
 
 ### 39:18-25
 *(anchor: JOB.39:18)*
@@ -858,14 +858,14 @@ saints," Job is now being shown the wiles and snares of the adversary who afflic
 
 Satan was created first among all the angels and was exalted as ruler of
 
-creation (see Ezk 28:12, 13; Is 14:12). 
+creation (see [[EZK.28:12]], [[EZK.28:13]]; Is 14:12). 
 
 ### 40:23
 *(anchor: JOB.40:23)*
 
 Here one is reminded of Pharaoh, who did not notice the waters of the Red Sea
 
-rushing over him until it was too late (Ex 14:23-28). The Jordan, says St. Gregory, signifies those who have been sealed with the sacrament of baptism. 
+rushing over him until it was too late ([[EXO.14:23]]-28). The Jordan, says St. Gregory, signifies those who have been sealed with the sacrament of baptism. 
 
 ### 40:24-26
 *(anchor: JOB.40:24)*
@@ -969,7 +969,7 @@ should believe, but heavenly justice drives him away on account of his flood of 
 
 all. St. Gregory writes that he also images the Church. Job's intercession is echoed by
 
-Abraham and Moses (see Gn 18:22-33; Ex 32:32) and fulfilled by Christ (Lk 23:34). As
+Abraham and Moses (see [[GEN.18:22]]-33; [[EXO.32:32]]) and fulfilled by Christ ([[LUK.23:34]]). As
 
 we worship during Divine Liturgy, we offer up ourselves and, because Christ offered
 
@@ -986,9 +986,9 @@ Job's double blessings point to the general resurrection, when the Church will r
 
 "that which is hers twofold: having received the Gentiles in full number, all Judea shall
 
-then also be found to agree to run to her faith" (see Rom 11:25, 26; Is 61:7; Rev 6:11) "on
+then also be found to agree to run to her faith" (see [[ROM.11:25]], [[ROM.11:26]]; Is 61:7; [[REV.6:11]]) "on
 
-the preaching of Elijah" (see Mt 17:11). They ate food and drank with Him images the
+the preaching of Elijah" (see [[MAT.17:11]]). They ate food and drank with Him images the
 
 eucharistic supper. As uncoined gold is shaped into a coin, so the faithful, having been
 

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.1:33",
+  "canon_uri": "canon/NT/JOH.md#JOH.1:33",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 17,
+      "raw_match": "[[JOH.1:33]]",
+      "reference_type": "wikilink",
+      "context": "\"Anointed One,\" the Messiah, the One who is filled with the Holy Spirit (see [[JOH.1:33]])."
+    }
+  ]
+}

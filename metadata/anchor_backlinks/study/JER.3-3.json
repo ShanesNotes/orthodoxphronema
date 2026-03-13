@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JER.3:3",
+  "canon_uri": "canon/OT/JER.md#JER.3:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2347,
+      "raw_match": "[[JER.3:1]]-5",
+      "reference_type": "wikilink_range",
+      "context": "for infidelity to the Lord ([[JER.3:1]]-5; Ezk 23; Hos 2). The vassal kingdoms within the"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.1:20",
+  "canon_uri": "canon/NT/MAT.md#MAT.1:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 1013,
+      "raw_match": "[[MAT.1:20]]",
+      "reference_type": "wikilink",
+      "context": "Son becomes incarnate by the Holy Spirit ([[MAT.1:20]]) and in turn sends the Holy Spirit"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.13:29",
+  "canon_uri": "canon/NT/MAT.md#MAT.13:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 155,
+      "raw_match": "[[MAT.13:24]]-30",
+      "reference_type": "wikilink_range",
+      "context": "Christ or in His Church ([[MAT.13:24]]-30; [[JOH.15:6]])."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2057,
+      "raw_match": "[[MAT.13:24]]-30",
+      "reference_type": "wikilink_range",
+      "context": "earth, the beginning of the final judgment (see [[MAT.13:24]]-30, 36-43; [[MRK.4:26]]-29)."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ZEC.7:5",
+  "canon_uri": "canon/OT/ZEC.md#ZEC.7:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1469,
+      "raw_match": "[[ZEC.7:5]]",
+      "reference_type": "wikilink",
+      "context": "times of mourning ([[ZEC.7:5]]; 8:19). But the Jews saw the day of the Messiah as a wedding"
+    },
+    {
+      "source_file": "staging/validated/OT/JER_footnotes.md",
+      "line_number": 1432,
+      "raw_match": "[[ZEC.7:5]]",
+      "reference_type": "wikilink",
+      "context": "for those seventy years of exile by an annual fast ([[ZEC.7:5]])."
+    }
+  ]
+}

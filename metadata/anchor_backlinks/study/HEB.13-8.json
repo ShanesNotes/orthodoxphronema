@@ -1,0 +1,30 @@
+{
+  "anchor_id": "HEB.13:8",
+  "canon_uri": "canon/NT/HEB.md#HEB.13:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 85,
+      "raw_match": "[[HEB.13:8]]",
+      "reference_type": "wikilink",
+      "context": "history (see [[HEB.13:8]]). God reveals the meaning of the present in light of the past and the"
+    },
+    {
+      "source_file": "staging/validated/OT/MAL_footnotes.md",
+      "line_number": 178,
+      "raw_match": "[[HEB.13:8]]",
+      "reference_type": "wikilink",
+      "context": "God has not changed and does not change. The Scriptures ([[HEB.13:8]]) and the"
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 97,
+      "raw_match": "[[HEB.13:8]]",
+      "reference_type": "wikilink",
+      "context": "exclaims, \"Jesus Christ is the same yesterday, today, and forever\" ([[HEB.13:8]])."
+    }
+  ]
+}

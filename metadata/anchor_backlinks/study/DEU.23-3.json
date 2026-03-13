@@ -1,0 +1,23 @@
+{
+  "anchor_id": "DEU.23:3",
+  "canon_uri": "canon/OT/DEU.md#DEU.23:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JDT_footnotes.md",
+      "line_number": 312,
+      "raw_match": "[[DEU.23:3]]-6",
+      "reference_type": "wikilink_range",
+      "context": "ancient standard of morality: there are no rights for an alien enemy ([[DEU.23:3]]-6). Christ, however, has called us to a more perfect way: \"Love your enemies, bless those who curse"
+    },
+    {
+      "source_file": "staging/validated/OT/RUT_footnotes.md",
+      "line_number": 17,
+      "raw_match": "[[DEU.23:3]]-6",
+      "reference_type": "wikilink_range",
+      "context": "Moabites ([[DEU.23:3]]-6). Even in time of famine, one is to trust in the Lord rather than flee"
+    }
+  ]
+}

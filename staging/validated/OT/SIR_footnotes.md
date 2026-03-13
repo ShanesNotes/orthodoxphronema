@@ -14,14 +14,14 @@ status: staging
 
 Forever tells us Wisdom is without beginning. He is Christ, the power and wisdom of
 
-the Father (1Co 1:24). 
+the Father ([[1CO.1:24]]). 
 
 ### 1:4
 *(anchor: SIR.1:4)*
 
 The statement Wisdom was created before all things is a prophecy concerning the
 
-Incarnation of Wisdom, who was slain from the foundation of the world (Rev 13:8); for
+Incarnation of Wisdom, who was slain from the foundation of the world ([[REV.13:8]]); for
 
 He became incarnate for us men and for our salvation (Creed). "Created" refers to His
 
@@ -33,7 +33,7 @@ refers to all creation, which Christ came to redeem along with the children of G
 ### 8:21
 *(anchor: SIR.8:21)*
 
--23; Eph 1:10; Col 1:15-17). From eternity also shows that Christ is without
+-23; [[EPH.1:10]]; [[COL.1:15]]-17). From eternity also shows that Christ is without
 
 beginning. 1:6
 
@@ -53,7 +53,7 @@ The capacity to fear the Lord and thus to believe in Him is joined with the infa
 
 in the womb. This would explain why the Lord Jesus Christ speaks of the special faith of
 
-nursing babes (Lk 18:15-17). 1:23-27
+nursing babes ([[LUK.18:15]]-17). 1:23-27
 
 To gain wisdom we must be obedient to the commandments, maintain
 
@@ -69,13 +69,13 @@ One who determines to serve the Lord will be tested and face temptation (see 1Co
 
 Faintheartedness, the loss of endurance, and double-mindedness are forms of
 
-unbelief and bring great instability (see Jam 1:8). 3:1, 2 Ben Sirach implores children to listen to the wisdom of their father and mother. Verses 1-16 contain timeless counsel for children concerning their parents. 3:18
+unbelief and bring great instability (see [[JAS.1:8]]). 3:1, 2 Ben Sirach implores children to listen to the wisdom of their father and mother. Verses 1-16 contain timeless counsel for children concerning their parents. 3:18
 
 Humility is essential to true spiritual works and opens the door to God's
 
 immeasurable grace. 3:20-23 Ben Sirach's word on mental health. 3:24-27 A hard heart is a great spiritual danger, warned against in the OT and NT. There
 
-is no healing for the man afflicted by this disease (v. 26; see also Mk 8:17; Heb 4:7). 4:10
+is no healing for the man afflicted by this disease (v. 26; see also [[MRK.8:17]]; [[HEB.4:7]]). 4:10
 
 The care of the poor, the needy, and the orphan is nothing short of Christlike: you
 
@@ -147,7 +147,7 @@ almsgiving to the needy, especially during Lent and Advent. 7:18
 
 Ophir, likely in southwestern Arabia, was a famous source for gold in the ancient
 
-world. The queen at Christ's right hand (Ps 44:10), the Theotokos, is arrayed in gold from
+world. The queen at Christ's right hand ([[PSA.44:10]]), the Theotokos, is arrayed in gold from
 
 Ophir. 7:20-21 The wise employer places high value on a worker who is intelligent and devoted
 
@@ -181,7 +181,7 @@ a prostitute of noblemen. A wise man is not to gaze at a virgin (v. 5), that is,
 
 unmarried woman. To do so could tempt the couple to immoral relations, which in
 
-Jewish society carried a strong penalty (see Dt 22:28, 29). The beauty of a married
+Jewish society carried a strong penalty (see [[DEU.22:28]], [[DEU.22:29]]). The beauty of a married
 
 woman belongs only to her husband (v. 8). It is especially important for a man to avoid
 
@@ -202,7 +202,7 @@ to face our utter lack of a basis for personal pride.
 ### 10:14-15
 *(anchor: SIR.10:14)*
 
-This theme echoes Pr 3:37 and is repeated by St. Peter (1Pt 5:5, 6). 
+This theme echoes Pr 3:37 and is repeated by St. Peter ([[1PE.5:5]], [[1PE.5:6]]). 
 
 ### 10:17
 *(anchor: SIR.10:17)*
@@ -225,7 +225,7 @@ All human beings should humbly recognize the immense value and glory of
 
 their own soul. The Lord Jesus Christ may have had this passage in mind when He spoke
 
-the words of Mt 16:26. 
+the words of [[MAT.16:26]]. 
 
 ### 11:2-9
 *(anchor: SIR.11:2)*
@@ -248,7 +248,7 @@ falling further behind.
 
 As with 10:28, 29, one wonders if our Lord did not have this passage in mind
 
-when He spoke the parable in Lk 12:16-21. 
+when He spoke the parable in [[LUK.12:16]]-21. 
 
 ### 11:22
 *(anchor: SIR.11:22)*
@@ -271,7 +271,7 @@ the Church waits long to glorify her saints.
 ### 12:1-6
 *(anchor: SIR.12:1)*
 
-Christians extend hospitality, but not indiscriminately (see Ps 140:4, 5; 2Ti 3:6). Almsgiving--giving to the needy--has always been a godly virtue. The Wisdom of Sirach
+Christians extend hospitality, but not indiscriminately (see [[PSA.140:4]], [[PSA.140:5]]; [[2TI.3:6]]). Almsgiving--giving to the needy--has always been a godly virtue. The Wisdom of Sirach
 
 teaches when one practices this virtue to wisely choose a godly recipient. The man who
 
@@ -286,9 +286,9 @@ Greeks, that one should extend grace or do good mainly to one's family or to one
 
 godly. Few believed in doing good to one's enemies until Jesus Christ strongly taught us
 
-to do so (see Mt 5:38-48; Lk 6:27-36). St. Paul sums up the Christian view of almsgiving: "Therefore, as we have opportunity, let us do good to all, especially to those who are of
+to do so (see [[MAT.5:38]]-48; [[LUK.6:27]]-36). St. Paul sums up the Christian view of almsgiving: "Therefore, as we have opportunity, let us do good to all, especially to those who are of
 
-the household of faith" (Gal 6:10). 
+the household of faith" ([[GAL.6:10]]). 
 
 ### 12:7-18
 *(anchor: SIR.12:7)*
@@ -309,14 +309,14 @@ When a rich man falls, he has many helpers. But when a poor man is wronged, ofte
 
 Everything in creation loves its like! Thus, we have nations, tongues, and tribes
 
-(see Rev 5:9), and that is natural. But for Christians, we do not first identify ourselves as
+(see [[REV.5:9]]), and that is natural. But for Christians, we do not first identify ourselves as
 
-Greek or Russian or American. Rather our allegiance is first to "a holy nation" (1Pt 2:9), which is the Kingdom of God. 
+Greek or Russian or American. Rather our allegiance is first to "a holy nation" ([[1PE.2:9]]), which is the Kingdom of God. 
 
 ### 14:2
 *(anchor: SIR.14:2)*
 
-See 1Jn 3:21. 
+See [[1JN.3:21]]. 
 
 ### 14:3-7
 *(anchor: SIR.14:3)*
@@ -328,7 +328,7 @@ A small-minded, stingy man is not fit to be wealthy, for he will not help others
 
 Death makes no contract or covenant with anyone to come at the time we might
 
-prefer. (See 14:17, and also Gn 2:17; 3:19 for the eternal covenant of death.)
+prefer. (See 14:17, and also [[GEN.2:17]]; 3:19 for the eternal covenant of death.)
 
 
 ### 14:20-1
@@ -366,12 +366,12 @@ between condemnation and baptism.
 
 The fear of God is reverential awe, the foundation for worship, love, and obedience
 
-to Him (see Dt 30:15-20). 
+to Him (see [[DEU.30:15]]-20). 
 
 ### 16:1-3
 *(anchor: SIR.16:1)*
 
-A multitude of children is seen in Scripture as a blessing from God (Gn 24:60; Ps
+A multitude of children is seen in Scripture as a blessing from God ([[GEN.24:60]]; Ps
 
 127:3-6). But God forbid they be useless or ungodly. 
 
@@ -385,7 +385,7 @@ sinful human passions.
 ### 16:7
 *(anchor: SIR.16:7)*
 
-The ancient giants are mentioned in Gn 6:4; WSol 14:6; Bar 3:26; and 3Mc 2:4.They
+The ancient giants are mentioned in [[GEN.6:4]]; WSol 14:6; [[BAR.3:26]]; and 3Mc 2:4.They
 
 are described as expert men of war, arrogant, insolent, foolish, mighty, and trusting in
 
@@ -394,7 +394,7 @@ their own strength. They were destroyed by God in the flood.
 ### 16:8-9
 *(anchor: SIR.16:8)*
 
-The men of Sodom are referred to here. In Ezk 16:49, 50 God declares the people of
+The men of Sodom are referred to here. In [[EZK.16:49]], [[EZK.16:50]] God declares the people of
 
 Sodom were arrogant and had abundant food and wine, but were unconcerned for the
 
@@ -416,7 +416,7 @@ Israel to die because of their hardness of heart.
 
 The OT and NT teach us that God holds all mankind accountable and will judge
 
-us according to our works (see Ps 61:13; Pr 24:12; Mt 25:31-46). 
+us according to our works (see [[PSA.61:13]]; Pr 24:12; [[MAT.25:31]]-46). 
 
 ### 16:15-21
 *(anchor: SIR.16:15)*
@@ -468,9 +468,9 @@ relationship with God. They even grew to despise the Gentiles with no concern fo
 
 salvation. It is extremely important for us within the Church, the new Israel, not to fall
 
-into this same sin and incur the same judgment (see Rom 11:11-36). For the fulfillment
+into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment
 
-of God's promises to Israel in the Church, see the following passages: Rom 4:9-16; 9:6, 8, 23-27; 11:7; 1Co 10:18; Gal 6:16; 1Pt 2:4-12; Rev 3:12; 21:2, 10. 
+of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10. 
 
 ### 17:20-23
 *(anchor: SIR.17:20)*
@@ -540,7 +540,7 @@ ultimate application is to prepare the soul for the final judgment.
 
 Making a vow to the Lord can be as simple as promising Him to give a tithe of
 
-one's income, or as all-encompassing as monastic vows (see Nm 6:5; Acts 18:18). 
+one's income, or as all-encompassing as monastic vows (see [[NUM.6:5]]; [[ACT.18:18]]). 
 
 ### 18:24
 *(anchor: SIR.18:24)*
@@ -675,12 +675,12 @@ sinned, he is not to continue in it. Rather, he is to pray urgently for forgiven
 
 humble believer must view all sin as dangerous, as much as a poisonous snake. St. Paul
 
-follows this exhortation when he says, "Flee sexual immorality" (1Co 6:18). 
+follows this exhortation when he says, "Flee sexual immorality" ([[1CO.6:18]]). 
 
 ### 21:3
 *(anchor: SIR.21:3)*
 
-Lawlessness is any form of rebellion against the duly constituted authority over us. God calls it "every man doing whatever is right in his own eyes" (Dt 12:8). 
+Lawlessness is any form of rebellion against the duly constituted authority over us. God calls it "every man doing whatever is right in his own eyes" ([[DEU.12:8]]). 
 
 ### 21:11-28
 *(anchor: SIR.21:11)*
@@ -693,7 +693,7 @@ folly. This passage is a brilliant series of comparisons and contrasts of wisdom
 
 The guidance of a wise man flows abundantly from his lips because it comes
 
-from the Holy Spirit (see Mk 13:11). 
+from the Holy Spirit (see [[MRK.13:11]]). 
 
 ### 21:16
 *(anchor: SIR.21:16)*
@@ -704,14 +704,14 @@ Literally, "the exegesis of a fool."
 ### 21:17
 *(anchor: SIR.21:17)*
 
-St. Paul speaks of "the word of wisdom" (1Co 12:8). 
+St. Paul speaks of "the word of wisdom" ([[1CO.12:8]]). 
 
 ### 21:27
 *(anchor: SIR.21:27)*
 
 Jude 9 also warns against rebuking Satan, instead instructing us to say, "The Lord
 
-rebuke you!" (See also Zec 3:2.)
+rebuke you!" (See also [[ZEC.3:2]].)
 
 
 ### 22:1
@@ -726,7 +726,7 @@ which explains 22:2.
 
 Because the father is ultimately responsible for the discipline of children, St. Paul
 
-issues a helpful word in Eph 6:4. 
+issues a helpful word in [[EPH.6:4]]. 
 
 ### 22:11
 *(anchor: SIR.22:11)*
@@ -759,7 +759,7 @@ hundred friends: the latter is more rich in resources than the former."
 ### 22:27
 *(anchor: SIR.22:27)*
 
-This passage amplifies Ps 140:3, which is sung at Vespers. 
+This passage amplifies [[PSA.140:3]], which is sung at Vespers. 
 
 ### 23:1-6
 *(anchor: SIR.23:1)*
@@ -777,7 +777,7 @@ Ben Sirach's warning reflects the serious matter of making vows and not fulfilli
 
 them. To break a vow made in the name of the Holy One would be to take God's name
 
-in vain (Ex 20:7). 
+in vain ([[EXO.20:7]]). 
 
 ### 23:20
 *(anchor: SIR.23:20)*
@@ -795,7 +795,7 @@ word sophia (wisdom) is feminine in gender, and therefore the pronouns associate
 
 it are translated in the feminine. The preincarnate Christ is revealed as the eternally
 
-begotten Son, God of God, co-equal with the Father. Also, Wisdom, the preincarnate Son, is exalted above all. Perhaps St. Paul had this passage in mind when he penned Php 2:5-
+begotten Son, God of God, co-equal with the Father. Also, Wisdom, the preincarnate Son, is exalted above all. Perhaps St. Paul had this passage in mind when he penned [[PHP.2:5]]-
 
 11, which many believe is an early Christian hymn. 
 
@@ -815,7 +815,7 @@ have a beginning in the course of time, having come forth from the Father by bei
 
 Created me is a prophecy concerning the incarnation of Wisdom. He is Christ, the
 
-power and wisdom of the Father (1Co 1:24). The phrases a place to live, a tent in
+power and wisdom of the Father ([[1CO.1:24]]). The phrases a place to live, a tent in
 
 Jacob, and an inheritance in Israel also emphasize the Incarnation. 
 
@@ -835,7 +835,7 @@ nature at His conception in the womb of the Mother of God, the Ever-virgin Mary.
 
 St. Paul teaches that in Christ we find a superabundance of the riches of grace
 
-(Eph 1:7, 8). 
+([[EPH.1:7]], [[EPH.1:8]]). 
 
 ### 24:21
 *(anchor: SIR.24:21)*
@@ -922,7 +922,7 @@ than to commit adultery with the eyes" (ClemA).
 ### 26:13-18
 *(anchor: SIR.26:13)*
 
-This passage makes many of the same observations as 1Pt 3:1-6. 
+This passage makes many of the same observations as [[1PE.3:1]]-6. 
 
 ### 26:20-3
 *(anchor: SIR.26:20)*
@@ -969,17 +969,17 @@ is offensive and gains no respect from others.
 
 Moses told the children of Israel the same thing in different words: "You will know
 
-your sin when evils overtake you" (Nm 32:23). 
+your sin when evils overtake you" ([[NUM.32:23]]). 
 
 ### 28:1
 *(anchor: SIR.28:1)*
 
-This concept is recorded in Dt 32:35, and is affirmed by St. Paul in Rom 12:19. 
+This concept is recorded in [[DEU.32:35]], and is affirmed by St. Paul in [[ROM.12:19]]. 
 
 ### 28:2
 *(anchor: SIR.28:2)*
 
-The Lord Jesus Christ echoed this truth in His Sermon on the Mount (Mt 6:14, 15). It
+The Lord Jesus Christ echoed this truth in His Sermon on the Mount ([[MAT.6:14]], [[MAT.6:15]]). It
 
 is not that God's grace and forgiveness are somehow purchased or earned by our first
 
@@ -999,7 +999,7 @@ diseases. Forgiveness of others promotes our spiritual and physical healing.
 
 One of the most powerful of Christ's parables greatly amplifies this common human
 
-failing (Mt 18:23-35). 
+failing ([[MAT.18:23]]-35). 
 
 ### 28:6
 *(anchor: SIR.28:6)*
@@ -1021,14 +1021,14 @@ as, "Hedge thine ears with thorns, and hearken not to a wicked tongue."
 ### 28:25-26
 *(anchor: SIR.28:25)*
 
-The Church teaches us to weigh our words and to pray, "Set a watch, O Lord, before my mouth" (Ps 140:3). He who lies in wait is Satan, who desires to capture our
+The Church teaches us to weigh our words and to pray, "Set a watch, O Lord, before my mouth" ([[PSA.140:3]]). He who lies in wait is Satan, who desires to capture our
 
 soul. 
 
 ### 29:1
 *(anchor: SIR.29:1)*
 
-Christ expands on this in the Sermon on the Mount (Mt 5:42). 
+Christ expands on this in the Sermon on the Mount ([[MAT.5:42]]). 
 
 ### 29:10-13
 *(anchor: SIR.29:10)*
@@ -1042,7 +1042,7 @@ brother and friend (v. 10).
 ### 29:11-13
 *(anchor: SIR.29:11)*
 
-This passage is a precursor to Christ's words in Mt 6:19-21. Since the Sermon on
+This passage is a precursor to Christ's words in [[MAT.6:19]]-21. Since the Sermon on
 
 the Mount is the heart of the Lord's teachings, and since it rings with many words and
 
@@ -1060,7 +1060,7 @@ Latin, some fathers read v. 12 as, "Store up your alms in the heart of the poor 
 ### 30:1-13
 *(anchor: SIR.30:1)*
 
-God believes in discipline! Heb 12:5-10 reveals how the Lord disciplines His
+God believes in discipline! [[HEB.12:5]]-10 reveals how the Lord disciplines His
 
 children, and asks the question, "What son is there whom a father does not chasten?" (v. 7). 
 
@@ -1105,7 +1105,7 @@ great good in the world. "For the love of money is a root of all kinds of evil, 
 
 some have strayed from the faith in their greediness, and pierced themselves through
 
-with many sorrows" (1Ti 6:10). "What is greater than the man that knows how not to be
+with many sorrows" ([[1TI.6:10]]). "What is greater than the man that knows how not to be
 
 excited at the thought of money, and has contempt for riches, and looks down as from a
 
@@ -1163,7 +1163,7 @@ This banquet is complete with a concert of dinnertime music (v. 5) and
 
 delicious wine (v. 6). Looking ahead, imagine the grandeur of the "marriage supper of
 
-the Lamb" (Rev 19:9). 
+the Lamb" ([[REV.19:9]]). 
 
 ### 32:7-13
 *(anchor: SIR.32:7)*
@@ -1197,18 +1197,18 @@ The mind of a fool moves in circles. His reasoning reveals a state of confusion.
 
 God is the author of holy days, seasons, and feasts. This is clear both in the OT
 
-and in the NT: for example, people gathered in Jerusalem for Pentecost (Acts 2:1, 5). Human beings are created to experience some days as sanctified, some as ordinary, as
+and in the NT: for example, people gathered in Jerusalem for Pentecost ([[ACT.2:1]], [[ACT.2:5]]). Human beings are created to experience some days as sanctified, some as ordinary, as
 
 we live within time (v. 9). The fact that some feast days became abused in the Old
 
 Covenant does not mean we are not to have them in the New. The Church as the new
 
-Israel (Gal 6:16) has the authority of Christ to mark her holy days and seasons. 
+Israel ([[GAL.6:16]]) has the authority of Christ to mark her holy days and seasons. 
 
 ### 33:13
 *(anchor: SIR.33:13)*
 
-The same theme found in this pivotal verse is found throughout the OT (Is 45:9; 64:7; Jer 18:6). Complete submission to the will of our Creator is the highest of virtues. 
+The same theme found in this pivotal verse is found throughout the OT (Is 45:9; 64:7; [[JER.18:6]]). Complete submission to the will of our Creator is the highest of virtues. 
 
 ### 33:14-15
 *(anchor: SIR.33:14)*
@@ -1286,7 +1286,7 @@ Ben Sirach declares that he who keeps the law does the equivalent to making a
 
 peace offering. Faithfulness to God's revelation requires obedience. Jesus said, "If you
 
-love Me, keep My commandments" (Jn 14:15). 
+love Me, keep My commandments" ([[JOH.14:15]]). 
 
 ### 35:2
 *(anchor: SIR.35:2)*
@@ -1300,7 +1300,7 @@ fathers place a striking emphasis on almsgiving.
 ### 35:8
 *(anchor: SIR.35:8)*
 
-St. Paul writes, "God loves a cheerful giver" (2Co 9:7). The tithe is the giving of ten
+St. Paul writes, "God loves a cheerful giver" ([[2CO.9:7]]). The tithe is the giving of ten
 
 percent of our income. Is the tithe only for Israel? St. Irenaeus wrote in the second
 
@@ -1373,7 +1373,7 @@ Christ."
 ### 36:7
 *(anchor: SIR.36:7)*
 
-Here oath refers to the covenant God made with Abraham (Gn 17:21). 
+Here oath refers to the covenant God made with Abraham ([[GEN.17:21]]). 
 
 ### 36:8
 *(anchor: SIR.36:8)*
@@ -1387,7 +1387,7 @@ redeem and save His enemies, for He is a God of mercy and grace.
 
 The tribes of Jacob include all those of the true Israel, in both the Old and New
 
-Covenants (see Rom 2:26-29). 
+Covenants (see [[ROM.2:26]]-29). 
 
 ### 36:13
 *(anchor: SIR.36:13)*
@@ -1403,14 +1403,14 @@ Though this prayer was for Israel, it was also for all on earth. Thus, the Churc
 
 become the New Jerusalem, the new Zion, the new nation in which the OT prophecies are
 
-fulfilled (see Rom 3:29-31; 4:13-16; Gal 4:21-31; all of Hebrews but especially 12:18-29; 1Pt 2:4-10; Rev 21:9-27). 
+fulfilled (see [[ROM.3:29]]-31; 4:13-16; [[GAL.4:21]]-31; all of Hebrews but especially 12:18-29; [[1PE.2:4]]-10; [[REV.21:9]]-27). 
 
 ### 36:21-23
 *(anchor: SIR.36:21)*
 
 Women of ancient times often had little or no choice concerning the man they
 
-would accept to marry. As with Isaac and Rebekah, for example (Gn 24:1-67), marriages
+would accept to marry. As with Isaac and Rebekah, for example ([[GEN.24:1]]-67), marriages
 
 were often arranged by parents or someone in authority. It is worth noting, however, that
 
@@ -1473,7 +1473,7 @@ the Lord.
 ### 38:5
 *(anchor: SIR.38:5)*
 
-This is a reference to Ex 15:23-25. 
+This is a reference to [[EXO.15:23]]-25. 
 
 ### 38:6-8
 *(anchor: SIR.38:6)*
@@ -1503,7 +1503,7 @@ Church. Each parish had its volunteers who washed and dressed the body, making
 
 preparation for burial. We are warned not to allow our hearts to be grief-stricken (v. 18)
 
-so grief overpowers us, for some have even died from grief. Thus, St. Paul says we grieve, but not as those "who have no hope" (1Th 4:13). 
+so grief overpowers us, for some have even died from grief. Thus, St. Paul says we grieve, but not as those "who have no hope" ([[1TH.4:13]]). 
 
 ### 38:23
 *(anchor: SIR.38:23)*
@@ -1547,7 +1547,7 @@ immemorial. King David wrote, "Let my prayer be set forth before You as incense"
 
 140:2). The prophet Malachi predicted incense would be used in worship and prayer
 
-among the Gentile nations (Mal 1:11). This continues to be fulfilled in the Church. One of
+among the Gentile nations ([[MAL.1:11]]). This continues to be fulfilled in the Church. One of
 
 the gifts brought to the baby Jesus by the wise men was frankincense. 
 
@@ -1563,7 +1563,7 @@ our unbelief that clouds our outlook.
 
 The waters in a heap refers to the oceans being separated from the land at creation
 
-(Gn 1:9, 10). 
+([[GEN.1:9]], [[GEN.1:10]]). 
 
 ### 39:19-20
 *(anchor: SIR.39:19)*
@@ -1592,9 +1592,9 @@ redemption and salvation, which He accomplishes through His Eternal Son.
 ### 40:1
 *(anchor: SIR.40:1)*
 
-Knowing the heavy yoke we bear, Jesus promised, "My yoke is easy" (see Mt 11:28-
+Knowing the heavy yoke we bear, Jesus promised, "My yoke is easy" (see [[MAT.11:28]]-
 
-30). St. Paul called the heavenly Jerusalem "the mother of us all" (Gal 4:26). 
+30). St. Paul called the heavenly Jerusalem "the mother of us all" ([[GAL.4:26]]). 
 
 ### 40:12-17
 *(anchor: SIR.40:12)*
@@ -1633,7 +1633,7 @@ The coming of Christ changed everything. Ben Sirach rightly calls death a bitter
 
 memory. Jesus said, "I am the resurrection and the life. He who believes in Me, though
 
-he may die, he shall live" (Jn 11:25). 
+he may die, he shall live" ([[JOH.11:25]]). 
 
 ### 41:5-7
 *(anchor: SIR.41:5)*
@@ -1673,7 +1673,7 @@ what we've heard and revealing secrets.
 
 , 2 In according with this teaching, St. Paul wrote, "I am not ashamed of the gospel of
 
-Christ" (Rom 1:16). 
+Christ" ([[ROM.1:16]]). 
 
 ### 42:5
 *(anchor: SIR.42:5)*
@@ -1707,7 +1707,7 @@ deep affection that good fathers feel for their daughters.
 ### 42:13
 *(anchor: SIR.42:13)*
 
-Moth larvae are hatched from eggs laid by moths within the fabric of garments. The analogy is that wickedness comes from within the heart, as Christ taught (Mt 15:19). Ben Sirach had in mind the fall of Eve, thus sin from a woman. 
+Moth larvae are hatched from eggs laid by moths within the fabric of garments. The analogy is that wickedness comes from within the heart, as Christ taught ([[MAT.15:19]]). Ben Sirach had in mind the fall of Eve, thus sin from a woman. 
 
 ### 42:14
 *(anchor: SIR.42:14)*
@@ -1725,12 +1725,12 @@ Any works done by God begin with His Word. He decrees it and it is done. Though
 
 the Greek for "words" here is plural, the Christian knows the Eternal Word (Logos), the
 
-Second Person of the Godhead, was and is eternally active in all creation (see Jn 1:1-18). 
+Second Person of the Godhead, was and is eternally active in all creation (see [[JOH.1:1]]-18). 
 
 ### 42:16-25
 *(anchor: SIR.42:16)*
 
-It is likely St. Paul had this passage in mind when he wrote Rom 11:33-36. 
+It is likely St. Paul had this passage in mind when he wrote [[ROM.11:33]]-36. 
 
 ### 42:17
 *(anchor: SIR.42:17)*
@@ -1753,7 +1753,7 @@ and fathom.
 ### 42:20
 *(anchor: SIR.42:20)*
 
-The Lord Jesus Christ elaborated on this thought (Mt 12:31-37). 
+The Lord Jesus Christ elaborated on this thought ([[MAT.12:31]]-37). 
 
 ### 43:1
 *(anchor: SIR.43:1)*
@@ -1765,14 +1765,14 @@ challenge to translate. It is a unique doxology to the beauty of the earth and h
 ### 43:2-5
 *(anchor: SIR.43:2)*
 
-A similar teaching on the sun appears in Ps 18:5-7. 
+A similar teaching on the sun appears in [[PSA.18:5]]-7. 
 
 ### 43:11-12
 *(anchor: SIR.43:11)*
 
 The rainbow is like a jewel that adorns creation. In Revelation, a rainbow
 
-appears "like an emerald" around the throne of God (Rev 4:3). 
+appears "like an emerald" around the throne of God ([[REV.4:3]]). 
 
 ### 43:13-26
 *(anchor: SIR.43:13)*
@@ -1787,7 +1787,7 @@ pours (v. 19); He consumes (v. 21); by His reasoning (v. 23); by His Word (v. 26
 ### 43:26
 *(anchor: SIR.43:26)*
 
-St. Paul makes a similar statement (Col 1:17). By the Living Word all things were
+St. Paul makes a similar statement ([[COL.1:17]]). By the Living Word all things were
 
 created, and in Him all things hold together, or consist. 
 
@@ -1816,7 +1816,7 @@ famous men of the OT in the same spirit as Heb 11.
 ### 44:3-15
 *(anchor: SIR.44:3)*
 
-The author of Heb 11:34-38 perhaps borrowed his thoughts from this passage of
+The author of [[HEB.11:34]]-38 perhaps borrowed his thoughts from this passage of
 
 Sirach. 
 
@@ -1836,7 +1836,7 @@ This oath by God to bless the seed of Abraham is fulfilled in and through the
 
 Church. The Church embraces all nations and fulfills the role of ancient Israel in the
 
-prophecies of the OT (see note on 36:17; Mt 23:38; Lk 21:20-24). The River is the
+prophecies of the OT (see note on 36:17; [[MAT.23:38]]; [[LUK.21:20]]-24). The River is the
 
 Euphrates. 
 
@@ -1845,7 +1845,7 @@ Euphrates.
 
 Moses, of blessed memory, is honored among the saints. He brings great
 
-encouragement to all believers because on many occasions he stumbled (Ex 4:13-15; 5:22, 23; Nm 20:11, 12 are but a few instances), yet he repented, persevered, and followed
+encouragement to all believers because on many occasions he stumbled ([[EXO.4:13]]-15; 5:22, 23; [[NUM.20:11]], [[NUM.20:12]] are but a few instances), yet he repented, persevered, and followed
 
 God. The Lord honored him (v. 3) and sanctified him (v. 4). 
 
@@ -1892,7 +1892,7 @@ people.
 
 , 2
 
-It is probable that Ben Sirach is speaking of the incident in Ex 17:8-13 when
+It is probable that Ben Sirach is speaking of the incident in [[EXO.17:8]]-13 when
 
 Joshua defeated the Amalekites. Joshua prevailed in battle as long as Moses lifted up
 
@@ -1918,12 +1918,12 @@ The sun being held back refers to the miracle of the sun moving from east to wes
 
 being interrupted in a supernatural manner until the battle led by Joshua could be fought
 
-to a successful conclusion (see Jos 10:12, 13). 
+to a successful conclusion (see [[JOS.10:12]], [[JOS.10:13]]). 
 
 ### 46:6
 *(anchor: SIR.46:6)*
 
-For the battle at the descent of Beth Horon, see Jos 10:11. 
+For the battle at the descent of Beth Horon, see [[JOS.10:11]]. 
 
 ### 46:12
 *(anchor: SIR.46:12)*
@@ -1932,7 +1932,7 @@ Such passages as this and 49:10 make it clear that Sirach reflects a widely held
 
 ancient belief in the resurrection. Since 49:10 is in the section on Ezekiel, it would seem
 
-clear Ben Sirach had in mind Ezk 37:1-14, which predicts the resurrection of the faithful
+clear Ben Sirach had in mind [[EZK.37:1]]-14, which predicts the resurrection of the faithful
 
 of Israel. 
 
@@ -2004,11 +2004,11 @@ seed of David according to the flesh and the eternal King of heaven.
 
 This sanctuary or temple, which had been rebuilt and refurbished by King Herod, was standing at the time of Christ. But Jesus predicted it would be utterly destroyed and
 
-not one stone would be left upon another (Mt 24:2). This prophecy was fulfilled by the
+not one stone would be left upon another ([[MAT.24:2]]). This prophecy was fulfilled by the
 
 Roman invaders in AD 70. The sanctuary that will last forever, and which replaces the
 
-former one, is the New Jerusalem, the Church of the Living God (see also Mt 23:38, 39). 
+former one, is the New Jerusalem, the Church of the Living God (see also [[MAT.23:38]], [[MAT.23:39]]). 
 
 ### 47:19-22
 *(anchor: SIR.47:19)*
@@ -2063,7 +2063,7 @@ foreshadowing of prayer to the Holy Trinity: Father, Son, and Holy Spirit.
 ### 48:6
 *(anchor: SIR.48:6)*
 
-Apparently a reference to King Ahaziah (see 4Kg 1:2-17). 
+Apparently a reference to King Ahaziah (see [[2KI.1:2]]-17). 
 
 ### 48:7-8
 *(anchor: SIR.48:7)*
@@ -2102,7 +2102,7 @@ Elisha's dead body prophesied in the sense that it worked the miracle of a dead
 
 man being restored to life when he was hastily placed in the tomb on Elisha's bones (see
 
-4Kg 13:21). The Bible teaches there is power in holy relics. 
+[[2KI.13:21]]). The Bible teaches there is power in holy relics. 
 
 ### 48:17
 *(anchor: SIR.48:17)*
@@ -2113,7 +2113,7 @@ allow the water of the Gihon spring to flow into the pool of Siloam. Archeologis
 
 discovered Hebrew words carved in the wall of the tunnel, celebrating its completion in
 
-the time of Hezekiah's reign as king (see 2Ch 32:2-4). 
+the time of Hezekiah's reign as king (see [[2CH.32:2]]-4). 
 
 ### 48:18-22
 *(anchor: SIR.48:18)*
@@ -2126,9 +2126,9 @@ Lachish and sent the insolent Rabshakeh to demand that Hezekiah surrender the ci
 
 Jerusalem to him. Hezekiah turned to the Lord in repentance and sent for guidance from
 
-Isaiah. They were rescued from Sennacharib, who ultimately died (see 4Kg 18:13-
+Isaiah. They were rescued from Sennacharib, who ultimately died (see [[2KI.18:13]]-
 
-19:37). The angel (v. 21) destroyed 185,000 of Sennacharib's soldiers (see 4Kg 19:35). 
+19:37). The angel (v. 21) destroyed 185,000 of Sennacharib's soldiers (see [[2KI.19:35]]). 
 
 ### 48:23
 *(anchor: SIR.48:23)*
@@ -2147,11 +2147,11 @@ are more precise than those of any other prophet of the OT.
 
 , 7 The sad prophecies of Jeremiah were a great burden to him. On one occasion he
 
-determined not to speak them, but could not hold them back (Jer 20:9). His prophecies
+determined not to speak them, but could not hold them back ([[JER.20:9]]). His prophecies
 
-about the destruction and burning of Jerusalem were completely fulfilled (see Jer 38:14-
+about the destruction and burning of Jerusalem were completely fulfilled (see [[JER.38:14]]-
 
-39:10; 52:12, 13; 4Kg 25:1-21). 
+39:10; 52:12, 13; [[2KI.25:1]]-21). 
 
 ### 49:8-9
 *(anchor: SIR.49:8)*
@@ -2160,7 +2160,7 @@ In spite of the hardships and sorrows of living with his people during the
 
 Babylonian captivity, Ezekiel had visions of great glory to come and the restoration of
 
-the people of Israel to their land. Verse 9 likely refers to Ezk 38:22, which prophesies God
+the people of Israel to their land. Verse 9 likely refers to [[EZK.38:22]], which prophesies God
 
 pouring out wrath upon the attackers of a restored Israel. God will do good to those who
 
@@ -2233,7 +2233,7 @@ heart He gives us. Finally we see hope for redemption (v. 24). The word redeem m
 
 hope is accomplished through the life, death, and Resurrection of Jesus Christ (see Eph
 
-1:7-14; Rom 8:22, 23). 
+1:7-14; [[ROM.8:22]], [[ROM.8:23]]). 
 
 ### 50:25-26
 *(anchor: SIR.50:25)*
@@ -2250,7 +2250,7 @@ a foolish people (v. 26) because they were primarily idol-worshippers. They have
 
 temple on Mt. Gerizim until this day. Shechem, modern Nablus, was the small town
 
-where Jesus encountered the woman at the well known to us as St. Photini (see Jn 4:1-
+where Jesus encountered the woman at the well known to us as St. Photini (see [[JOH.4:1]]-
 
 43). 
 

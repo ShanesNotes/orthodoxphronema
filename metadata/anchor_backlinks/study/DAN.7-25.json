@@ -1,0 +1,23 @@
+{
+  "anchor_id": "DAN.7:25",
+  "canon_uri": "canon/OT/DAN.md#DAN.7:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1553,
+      "raw_match": "[[DAN.7:25]]",
+      "reference_type": "wikilink",
+      "context": "months or 3-1/2 years; see [[DAN.7:25]]; 12:7). This period may be interpreted as \"fullness\""
+    },
+    {
+      "source_file": "staging/validated/OT/DAN_footnotes.md",
+      "line_number": 361,
+      "raw_match": "[[DAN.7:25]]",
+      "reference_type": "wikilink",
+      "context": "Fathers say that the ten horns prophesy nations that will rise up in the last days. 7:8 [[DAN.7:8]], [[DAN.7:24]], [[DAN.7:25]]: The little horn is seen to be the antichrist, an eleventh king who shall"
+    }
+  ]
+}

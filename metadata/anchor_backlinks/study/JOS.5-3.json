@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOS.5:3",
+  "canon_uri": "canon/OT/JOS.md#JOS.5:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JDG_footnotes.md",
+      "line_number": 71,
+      "raw_match": "[[JOS.5:2]]-9",
+      "reference_type": "wikilink_range",
+      "context": "Gilgal (v. 1) signifies God's covenant with Israel (see [[JOS.5:2]]-9). Just as He left the"
+    }
+  ]
+}

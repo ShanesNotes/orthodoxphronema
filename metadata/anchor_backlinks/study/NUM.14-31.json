@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.14:31",
+  "canon_uri": "canon/OT/NUM.md#NUM.14:31",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 53,
+      "raw_match": "[[NUM.14:26]]-37",
+      "reference_type": "wikilink_range",
+      "context": "([[NUM.14:26]]-37; see [[1CO.10:1]]-13). The lesson for us as Christians is to keep walking in our"
+    }
+  ]
+}

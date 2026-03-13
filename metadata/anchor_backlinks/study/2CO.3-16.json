@@ -1,0 +1,30 @@
+{
+  "anchor_id": "2CO.3:16",
+  "canon_uri": "canon/NT/2CO.md#2CO.3:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/TIT_footnotes.md",
+      "line_number": 141,
+      "raw_match": "[[2CO.3:16]]-18",
+      "reference_type": "wikilink_range",
+      "context": "Christ (see [[2CO.3:16]]-18)."
+    },
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 298,
+      "raw_match": "[[2CO.3:16]]",
+      "reference_type": "wikilink",
+      "context": "who are willing to be detached from materialism and turn their hearts to Him ([[2CO.3:16]]). 6:4"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 540,
+      "raw_match": "[[2CO.3:14]]-18",
+      "reference_type": "wikilink_range",
+      "context": "remains on those who know only the Mosaic Law ([[2CO.3:14]]-18)."
+    }
+  ]
+}

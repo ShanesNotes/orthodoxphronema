@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.6:18",
+  "canon_uri": "canon/NT/MRK.md#MRK.6:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1303,
+      "raw_match": "[[MRK.6:14]]-28",
+      "reference_type": "wikilink_range",
+      "context": "incident of the beheading of St. John is found in [[MRK.6:14]]-28."
+    }
+  ]
+}

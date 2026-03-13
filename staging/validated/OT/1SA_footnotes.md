@@ -50,13 +50,13 @@ permanent structure that people came to in order to worship God.
 ### 1:11
 *(anchor: 1SA.1:11)*
 
-Lowly state is the same phrase the Virgin Mary prays in Lk 1:48. Hannah's promise
+Lowly state is the same phrase the Virgin Mary prays in [[LUK.1:48]]. Hannah's promise
 
 to God is that her child would fulfill the Nazirite vow, which was a type of ancient ascetic
 
 vow found first in Nm 6. In every instance of this vow in Scripture, it is prescribed before
 
-birth--for Samson, Samuel, and probably John the Baptist (Lk 1:13-15). 
+birth--for Samson, Samuel, and probably John the Baptist ([[LUK.1:13]]-15). 
 
 ### 1:13
 *(anchor: 1SA.1:13)*
@@ -118,7 +118,7 @@ biblical odes. This prayer has been used in the Matins service, and is the basis
 
 the Church's hymns. There are also many similarities between this prayer and the prayer
 
-of Mary in Lk 1:46-55. The word horn had become a symbol for strength, honor, and
+of Mary in [[LUK.1:46]]-55. The word horn had become a symbol for strength, honor, and
 
 power. 
 
@@ -567,7 +567,7 @@ Jonathan expresses the greatest level of love one person can express for another
 
 is willing to die so David might live. Jesus displayed such love for all mankind, and calls
 
-for such love from His disciples (Jn 15:13). 
+for such love from His disciples ([[JOH.15:13]]). 
 
 ### 21:1-6
 *(anchor: 1SA.21:1)*
@@ -578,7 +578,7 @@ offered as a sacrifice to God. Jesus refers to this story when confronting the P
 
 about their own legalistic attitude toward the Sabbath--which held firmly to the
 
-externals, yet rejected the inner mercy and compassion of the Law (see Mt 12:1-8). In
+externals, yet rejected the inner mercy and compassion of the Law (see [[MAT.12:1]]-8). In
 
 this passage, the priest has compassion on David and his men, but out of holy fear he
 
@@ -693,7 +693,7 @@ Nyssa). The third interpretation seems to be held by the greatest number of Fath
 
 Gregory of Nyssa wrote a specific treatise on the subject. He defends this view by citing
 
-the impassible chasm in the Lazarus parable (Lk 16:26). The apparition appeared only to
+the impassible chasm in the Lazarus parable ([[LUK.16:26]]). The apparition appeared only to
 
 the woman; she told Saul whom it resembled. The Greek word translated medium in
 

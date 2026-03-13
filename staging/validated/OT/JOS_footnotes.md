@@ -36,13 +36,13 @@ strong and courageous in the face of war and death. Therefore, when the Word
 
 became incarnate, how could He Himself fear death when He stood before Herod and
 
-Pilate? How could He who said, "Do not be afraid of those who kill the body" (Lk 12:4), and who said to Abraham, "Do not fear" (Gn 14:1; 26:24), fear the terror of death? No, He
+Pilate? How could He who said, "Do not be afraid of those who kill the body" ([[LUK.12:4]]), and who said to Abraham, "Do not fear" ([[GEN.14:1]]; 26:24), fear the terror of death? No, He
 
 did not fear death, but destroyed it by His cross (AthanG). 1:10-11
 
 As the scribes prepare the people to enter Canaan, St. John the Forerunner will
 
-precede Christ, declaring to the people, "Prepare the way of the L " (Is 40:3-5; Lk 3:4). ORD
+precede Christ, declaring to the people, "Prepare the way of the L " (Is 40:3-5; [[LUK.3:4]]). ORD
 
 1:11
 
@@ -70,7 +70,7 @@ in the desert, which lies between the impulse to sin and the outward fulfillment
 
 impulses. Only then can he spy out the promised land of dispassion and then enter it to
 
-partake of the milk and honey (Ex 3:8), which refer to the spiritual riches of God's
+partake of the milk and honey ([[EXO.3:8]]), which refer to the spiritual riches of God's
 
 kingdom (ElPres). 2:3
 
@@ -78,7 +78,7 @@ The Holy Fathers agree that Rahab was a type of the Church, for by her hospitali
 
 faith she secured salvation for herself and her family. She is also an ancestor of Christ
 
-(Mt 1:5). 2:11
+([[MAT.1:5]]). 2:11
 
 Although Rahab was a prostitute, she was saved through repentance, which is how
 
@@ -108,7 +108,7 @@ was the mercy seat, overshadowed by the cherubim of glory. Inside the ark were t
 
 golden pot with the manna, Aaron's rod that budded, and the tablet of the Ten
 
-Commandments (see also Heb 9:4, 5). The ark was a type of the Ever-virgin Mary with
+Commandments (see also [[HEB.9:4]], [[HEB.9:5]]). The ark was a type of the Ever-virgin Mary with
 
 Christ conceived in her holy womb. The articles inside the ark speak of Christ. Thus, God
 
@@ -134,13 +134,13 @@ salvation. 3:1-17 This passage is a picture of God's plan of salvation for the w
 
 Christ's conception in the holy womb of the Ever-virgin Mary. The feet of the priests in
 
-the water (v. 13) prefigure Christ's feet in the very same river at His Baptism (Mt 3:13), which will drive the powers of darkness out of creation (v. 10). Since Christ's Baptism is
+the water (v. 13) prefigure Christ's feet in the very same river at His Baptism ([[MAT.3:13]]), which will drive the powers of darkness out of creation (v. 10). Since Christ's Baptism is
 
 also our baptism, we are united to Him in the sanctified waters, and through Him are
 
-delivered from the powers of darkness (see also Acts 2:38; 26:18). 4:1-10 The twelve stones prefigure the twelve apostles of Christ (GrgNy). The Lord gave
+delivered from the powers of darkness (see also [[ACT.2:38]]; 26:18). 4:1-10 The twelve stones prefigure the twelve apostles of Christ (GrgNy). The Lord gave
 
-them the authority to baptize all nations in the name of the Holy Trinity (Mt 28:18-20). 4:14
+them the authority to baptize all nations in the name of the Holy Trinity ([[MAT.28:18]]-20). 4:14
 
 The nation of Israel feared Joshua as long as he lived in her midst. Since they
 
@@ -156,7 +156,7 @@ the authority to baptize all nations. This apostolic teaching is the true faith,
 
 the Orthodox faith. 5:2-8 Circumcision was given first to Abraham after he was declared righteous before God
 
-through faith in the promise of the Gospel (Gn 17:9-14). This was a sign for the Gentiles
+through faith in the promise of the Gospel ([[GEN.17:9]]-14). This was a sign for the Gentiles
 
 among whom he lived concerning the Gospel, which separated him and his household
 
@@ -196,7 +196,7 @@ the devil and his angels (JohnChr). 5:13-15 The chief captain, whom tradition ho
 
 them to complete victory so they might possess the land. Joshua's vision surpasses that
 
-of Moses (Ex 3:1-10), who saw a burning bush on Mount Horeb yet hid his face, for he
+of Moses ([[EXO.3:1]]-10), who saw a burning bush on Mount Horeb yet hid his face, for he
 
 was afraid to look upon God. Here, in the Promised Land, Joshua actually sees the form
 
@@ -224,7 +224,7 @@ obeyed Joshua (or Jesus) in doing a good thing. But when Jesus (the true Joshua)
 
 on the Sabbath, the Pharisees accused Him of breaking the Sabbath and wanted to kill
 
-Him. Then He said to them, "It is lawful to do good on the Sabbath" (Mt 12:12). 6:22
+Him. Then He said to them, "It is lawful to do good on the Sabbath" ([[MAT.12:12]]). 6:22
 
 Rahab the harlot was counted as righteous before God for one reason: namely, her
 
@@ -240,7 +240,7 @@ Joshua, a type of Jesus Christ, saved Rahab the harlot because of her hospitalit
 
 elders who opposed Him, "tax collectors and harlots enter the kingdom of God before
 
-you" (Mt 21:31). (CyrJer)
+you" ([[MAT.21:31]]). (CyrJer)
 
 7:1-26
 
@@ -250,7 +250,7 @@ death. It breached the walls of heavenly grace that surrounded the people at Jer
 
 in a more sweeping way, Adam's transgression breached the grace of God and plunged the
 
-entire world into mortality (Rom 5:12). 7:6-15
+entire world into mortality ([[ROM.5:12]]). 7:6-15
 
 Joshua and the elders intercede before the Lord on behalf of all the people, thus
 
@@ -276,13 +276,13 @@ hundred shekels of silver, and a wedge of fifty shekels of gold), thus yielding 
 
 whatever happened to catch his fancy (Neilos). Achan's confession was not repentance. He only confessed because he got caught. 7:21
 
-The love of money is an ancient vice, and in Ex 20:17, a law was given to check it: "You shall not covet" (AmbM). 7:24-26
+The love of money is an ancient vice, and in [[EXO.20:17]], a law was given to check it: "You shall not covet" (AmbM). 7:24-26
 
 Achan's death by stoning applies to all who will not heed Christ's words
 
 concerning Himself: "And whoever falls on this stone will be broken; but on whomever it
 
-falls, it will grind him to powder" (Mt 21:44). 8:17-20 The Lord who spoke to Joshua was the Son of God (AmbM). Joshua's spear was
+falls, it will grind him to powder" ([[MAT.21:44]]). 8:17-20 The Lord who spoke to Joshua was the Son of God (AmbM). Joshua's spear was
 
 a type of the cross, that weapon of peace through which Christ and His Church win in
 
@@ -296,7 +296,7 @@ will not force people to seek salvation. 9:3-8
 
 Joshua and the people reaffirm their covenant with the Lord according to Moses'
 
-instructions (see Dt 27:1-8). Everything in this passage points to Christ, who will unite
+instructions (see [[DEU.27:1]]-8). Everything in this passage points to Christ, who will unite
 
 all people, both resident aliens and those born among them (v. 6), Jew and Gentile, sinner and saint. 9:5
 
@@ -306,13 +306,13 @@ the Law of Moses. Rather, it emphasizes the spiritual side of his law. In this s
 
 is the "second" Law, for He will not only come after the "first" Law of Moses, He will also
 
-fulfill it (Mt 5:17). 9:9-21 Although Joshua made a mistake by not inquiring of the Lord before he made the
+fulfill it ([[MAT.5:17]]). 9:9-21 Although Joshua made a mistake by not inquiring of the Lord before he made the
 
 covenant with the Gibeonites, nevertheless, his virtuous character is shown by his
 
 innocence in believing them (AmbM). 9:9-33 The Gibeonites are descendants of Noah's son, Canaan, about whom he prophesied
 
-in Gn 9:25, "Cursed be Canaan; / A servant of servants shall he be to his brothers"
+in [[GEN.9:25]], "Cursed be Canaan; / A servant of servants shall he be to his brothers"
 
 (JohnChr). These Canaanites prefigure the sinners and outcasts who will humble
 
@@ -324,7 +324,7 @@ rescue them and rout the enemy. So it is with all those who are held fast in the
 
 the Lord. In the words of the Lord Jesus Himself, "And I shall give them eternal life, and
 
-they shall never perish; neither shall anyone snatch them out of My hand" (Jn 10:28). 10:11
+they shall never perish; neither shall anyone snatch them out of My hand" ([[JOH.10:28]]). 10:11
 
 Because the Gibeonites humbled themselves before the Lord, His judgment against
 
@@ -338,11 +338,11 @@ rebuked the sea, and on the cross caused the sun to be darkened (AthanG). So thi
 
 passage would be fulfilled and even surpassed on the day of Christ's Crucifixion. On that
 
-day, He would show His Lordship over creation (Lk 23:45) as He stretched out His allpure hands upon the cross, trampling down His enemies and bringing "salvation in the
+day, He would show His Lordship over creation ([[LUK.23:45]]) as He stretched out His allpure hands upon the cross, trampling down His enemies and bringing "salvation in the
 
-midst of the earth" (Ps 73:12). 10:14
+midst of the earth" ([[PSA.73:12]]). 10:14
 
-According to Ecc 1:5, "The sun rises, and the sun goes down." Likewise, Christ, the
+According to [[ECC.1:5]], "The sun rises, and the sun goes down." Likewise, Christ, the
 
 Sun of Righteousness, appears sometimes as risen and sometimes as set. This depends on
 
@@ -374,7 +374,7 @@ possibility of repentance. Israel waited four hundred years from the time God pr
 
 the land to Abraham until they were able to possess it, because the sins of the Amorites
 
-were not yet complete (Gn 15:16). Even to this day, God in His longsuffering is
+were not yet complete ([[GEN.15:16]]). Even to this day, God in His longsuffering is
 
 withholding judgment on the earth until all mankind has had every opportunity to repent
 
@@ -384,7 +384,7 @@ The land of Canaan was a type of God's kingdom in the world to come, when the
 
 land will rest from war. But until then, one needs to guard his heart against his
 
-passions and "wage the good warfare, having faith and a good conscience" (1Ti 1:18, 19). 12:1
+passions and "wage the good warfare, having faith and a good conscience" ([[1TI.1:18]], [[1TI.1:19]]). 12:1
 
 The kings of the land represent not only the sinful passions, but also the devil and
 
@@ -392,13 +392,13 @@ his angels, who are the authors of these passions. These angels are called "prin
 
 "powers," "rulers of the darkness," and "spiritual hosts of wickedness in the heavenly
 
-places" (Eph 6:12). But Christ the Conqueror, together with the faithful and the heavenly
+places" ([[EPH.6:12]]). But Christ the Conqueror, together with the faithful and the heavenly
 
 hosts, will prevail over them all. By the grace of Christ, those who put to death these
 
 kings will inherit the land of God's kingdom in the world to come. "He who overcomes
 
-shall inherit all things, and I will be his God and he shall be My son" (Rev 21:7). 13:1-7
+shall inherit all things, and I will be his God and he shall be My son" ([[REV.21:7]]). 13:1-7
 
 Some of these cities will not come into Israel's possession until much later, and
 
@@ -406,7 +406,7 @@ some will never become part of Israel's earthly kingdom. Yet again, this passage
 
 events far in the future, when Christ will be given the ends of the earth as His inheritance
 
-(Ps 2:8). 
+([[PSA.2:8]]). 
 
 ### 14:7-10
 *(anchor: JOS.14:7)*
@@ -417,7 +417,7 @@ preferred safety to virtue (AmbM). The Lord Jesus Christ preferred our salvation
 
 than His own life, for He gladly gave Himself for us. In the Garden of Gethsemane, He
 
-prayed to the Father and said, "Let this cup pass from Me" (Mt 26:39). By this request He
+prayed to the Father and said, "Let this cup pass from Me" ([[MAT.26:39]]). By this request He
 
 showed He was fully Man, for He possessed the God-endowed desire for self-preservation
 
@@ -436,13 +436,13 @@ martyrs also preferred the divine will to their own safety.
 
 The sons of Anak (v. 14) were known as Anakim, and they were giants in size
 
-(Dt 2:10, 11). Othniel was the nephew of Caleb and also had his spirit. Thus, he subdued
+([[DEU.2:10]], [[DEU.2:11]]). Othniel was the nephew of Caleb and also had his spirit. Thus, he subdued
 
 the Anakim. He would also be the first to deliver Israel in the time of the Judges (Jdg
 
 3:9), and therefore was a type of Christ. Achsah, his wife, was Caleb's daughter, and Caleb
 
-gave her the upper and lower springs of water (v. 19; see also Jdg 1:13-15). She was a
+gave her the upper and lower springs of water (v. 19; see also [[JDG.1:13]]-15). She was a
 
 type of the Church with its springs of water, the divine life of Christ. Therefore, through
 
@@ -455,7 +455,7 @@ and to live a God-honoring manner of life.
 
 The Lord commanded Israel through Moses to utterly destroy all the inhabitants of
 
-the land and to show them no mercy (Dt 7:1, 2; Jos 9:24). But the tribe of Ephraim did not
+the land and to show them no mercy ([[DEU.7:1]], [[DEU.7:2]]; [[JOS.9:24]]). But the tribe of Ephraim did not
 
 fully obey this command; therefore, the Canaanites dwell among Ephraim to this
 
@@ -465,7 +465,7 @@ operate within us, they eventually corrupt our obedience to Christ, as the Canaa
 
 corrupted Ephraim. We are to show no mercy to these passions, but are to put them "to
 
-death" (Col 3:5). 
+death" ([[COL.3:5]]). 
 
 ### 17:14-18
 *(anchor: JOS.17:14)*
@@ -476,20 +476,20 @@ the singular (I, me). Israel is one in belief, purpose, and worship, yet it is d
 
 twelve tribes, each of which receives its own inheritance. So the Church is one body, the
 
-body of Christ (Eph 1:22, 23); yet it is composed of a great many people of every
+body of Christ ([[EPH.1:22]], [[EPH.1:23]]); yet it is composed of a great many people of every
 
-nation, tongue, and tribe (Rev 5:9; 14:6). 
+nation, tongue, and tribe ([[REV.5:9]]; 14:6). 
 
 ### 18:1
 *(anchor: JOS.18:1)*
 
-Josh 18:1, 9, 10: Israel set up the tabernacle in Shiloh, where it remained for about
+[[JOS.18:1]], [[JOS.18:9]], [[JOS.18:10]]: Israel set up the tabernacle in Shiloh, where it remained for about
 
 four hundred years. Thus, Shiloh, located about twenty-five miles north of Jerusalem, was the capital of the nation during this time. The name Shiloh means "peace"; therefore, it was an appropriate place for the tabernacle, both of which speak of Christ the Lord. Joshua gained wisdom from Him (before the Lord, v. 10) that he might know how to
 
 divide the remaining land among seven tribes in a peaceable manner. We, too, need His
 
-peace to rule in our hearts so as to know how to live peaceably and wisely (Col 3:15). 
+peace to rule in our hearts so as to know how to live peaceably and wisely ([[COL.3:15]]). 
 
 ### 19:9
 *(anchor: JOS.19:9)*
@@ -500,7 +500,7 @@ with the children of Simeon. So we must learn to share our abundance with those 
 
 need it. Similarly, we should not "forget to do good and to share, for with such sacrifices
 
-God is well pleased" (Heb 13:16). 
+God is well pleased" ([[HEB.13:16]]). 
 
 ### 20:1-6
 *(anchor: JOS.20:1)*
@@ -511,13 +511,13 @@ involuntarily (v. 3). They were protected from the avenger of blood until a judg
 
 could be rendered in each case. This system of protection demonstrated the love and
 
-forbearance of God (Rom 2:4), who does not punish before judgment is rendered as to
+forbearance of God ([[ROM.2:4]]), who does not punish before judgment is rendered as to
 
 innocence or guilt. Thus, He provided a place of refuge. God also set forth Christ as a city
 
 of refuge where one is protected until he is proven innocent or guilty at the Day of
 
-Judgment, when He "will render to each one according to his deeds" (Rom 2:6). 
+Judgment, when He "will render to each one according to his deeds" ([[ROM.2:6]]). 
 
 ### 21:46
 *(anchor: JOS.21:46)*
@@ -528,7 +528,7 @@ born during the days of Israel's wanderings in the desert) in the town he built,
 
 Serah. The name of this town means "image of the sun." Christ is the Sun of
 
-Righteousness, and we are to be "conformed to [His] image" (Rom 8:29; 2Co 3:18). The
+Righteousness, and we are to be "conformed to [His] image" ([[ROM.8:29]]; [[2CO.3:18]]). The
 
 stone knives speak of holy baptism, by which "the sins of the flesh" are cut away (Col
 
@@ -552,7 +552,7 @@ The misunderstanding between the tribes is not unlike the trouble that will aris
 
 between Christians over the keeping of Jewish law and the conversion of Gentile
 
-believers (see Acts 11:2; 15:1; Gal 2:12). 
+believers (see [[ACT.11:2]]; 15:1; [[GAL.2:12]]). 
 
 ### 22:30-34
 *(anchor: JOS.22:30)*
@@ -570,15 +570,15 @@ Consider the ways in which Joshua's address is fulfilled in Christ's high priest
 
 prayer in Jn 17. For example: Joshua says, "I am old" (v. 2); Christ prays, "the hour has
 
-come" (Jn 17:1). Joshua says, "you shall inherit their land . . . therefore . . . love the
+come" ([[JOH.17:1]]). Joshua says, "you shall inherit their land . . . therefore . . . love the
 
 Lord" (vv. 5, 11); Christ prays, "this is eternal life, that they may know You, the only true
 
-God, and Jesus Christ whom You have sent" (Jn 17:3). Joshua says, "I am going . . . not
+God, and Jesus Christ whom You have sent" ([[JOH.17:3]]). Joshua says, "I am going . . . not
 
 one word has failed" (v. 14); Christ prays, "I have finished the work . . . none of them is
 
-lost" (Jn 17:4, 12). 
+lost" ([[JOH.17:4]], [[JOH.17:12]]). 
 
 ### 24:1-15
 *(anchor: JOS.24:1)*
@@ -628,7 +628,7 @@ To make your heart straight toward the Lord God of Israel means to return
 
 the soul to its natural state, as it was when the Lord made it. John the Baptist meant the
 
-same thing when he said, "Make His paths straight" (Mt 3:3). For if we abide as we have
+same thing when he said, "Make His paths straight" ([[MAT.3:3]]). For if we abide as we have
 
 been made, we are in a state of virtue. When God made our soul, it was beautiful and
 
@@ -667,6 +667,6 @@ salvation of the world.
 ### 24:33
 *(anchor: JOS.24:33)*
 
-The bones of Joseph (Gn 50:24, 25; Ex 13:19) are buried . . . at Shechem. Thus, God's covenant with Abraham, Isaac, and Joseph comes full circle and begins anew with
+The bones of Joseph ([[GEN.50:24]], [[GEN.50:25]]; [[EXO.13:19]]) are buried . . . at Shechem. Thus, God's covenant with Abraham, Isaac, and Joseph comes full circle and begins anew with
 
 the covenant established by Joshua (v. 25). All the Old Testament covenants, of course, will be completely fulfilled in Christ and His Church.

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MAT.13:35",
+  "canon_uri": "canon/NT/MAT.md#MAT.13:35",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1435,
+      "raw_match": "[[MAT.13:35]]",
+      "reference_type": "wikilink",
+      "context": "speaking to His Church (vv. 2, 14; see also [[MAT.13:34]], [[MAT.13:35]]; [[1CO.10:4]], [[1CO.10:14]]), called children"
+    }
+  ]
+}

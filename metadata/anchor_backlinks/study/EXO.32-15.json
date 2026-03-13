@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.32:15",
+  "canon_uri": "canon/OT/EXO.md#EXO.32:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2125,
+      "raw_match": "[[EXO.32:15]]",
+      "reference_type": "wikilink",
+      "context": "the tablets of the Law brought down from Mt. Sinai by Moses ([[EXO.32:15]])--which was"
+    }
+  ]
+}

@@ -14,7 +14,7 @@ status: staging
 
 , 2
 
-Once Joshua died (recorded both in Jos 24:30-32 and Jdg 2:7-9), the question
+Once Joshua died (recorded both in [[JOS.24:30]]-32 and [[JDG.2:7]]-9), the question
 
 became, "Who will lead Israel in the fight against the Canaanites?" This represents the
 
@@ -68,7 +68,7 @@ them out completely (v. 28).
 ### 2:1-22
 *(anchor: JDG.2:1)*
 
-Gilgal (v. 1) signifies God's covenant with Israel (see Jos 5:2-9). Just as He left the
+Gilgal (v. 1) signifies God's covenant with Israel (see [[JOS.5:2]]-9). Just as He left the
 
 foreigners in the land of promise "that He might test Israel" (3:1), so God allows sin, suffering, and death to continue for a time in the world that He might test, strengthen, and draw the repentant soul to Himself. And as He raised up judges (v. 16) to deliver
 
@@ -96,7 +96,7 @@ They forgot the Lord: Without constant remembrance of the Lord in all thoughts, 
 
 accusations of the enemy. Of the Eucharist, Jesus said to do this "in remembrance of Me"
 
-(1Co 11:25). 
+([[1CO.11:25]]). 
 
 ### 3:9
 *(anchor: JDG.3:9)*
@@ -145,7 +145,7 @@ joining in battle array, taught men to war under a woman's counsel. But in a mys
 
 the battle of faith and the victory of the Church." Deborah is one of three prophetesses
 
-mentioned in the Old Testament, the other two being Miriam (Ex 15:20) and Huldah
+mentioned in the Old Testament, the other two being Miriam ([[EXO.15:20]]) and Huldah
 
 (2Kg 22:14). 
 
@@ -161,7 +161,7 @@ Sisera into the hand of a woman.
 
 As was often the custom after Israel's victories, a song or psalm (v. 3) was sung, recalling the details of the conflict. This is the lengthiest and most elaborate of the Old
 
-Testament victory songs, but perhaps the most famous is Moses' song in Ex 15:1-18
+Testament victory songs, but perhaps the most famous is Moses' song in [[EXO.15:1]]-18
 
 celebrating deliverance from Egypt. 
 
@@ -170,7 +170,7 @@ celebrating deliverance from Egypt.
 
 Just as Deborah was a mother . . . in Israel, so Mary, Mother of God, is also mother of
 
-the Church. They both sang songs of praise to the Lord (see Lk 1:46-55). 
+the Church. They both sang songs of praise to the Lord (see [[LUK.1:46]]-55). 
 
 ### 5:9
 *(anchor: JDG.5:9)*
@@ -207,7 +207,7 @@ Lord will those desiring Him.
 
 Israel cried out to the Lord (v. 6) after seven years of ongoing invasion of the
 
-Midianites, particularly at the time of harvest (v. 4). The Lord sent them a prophet (v. 8), reminding them of His covenant with Israel (Ex 20:1). 
+Midianites, particularly at the time of harvest (v. 4). The Lord sent them a prophet (v. 8), reminding them of His covenant with Israel ([[EXO.20:1]]). 
 
 ### 6:11
 *(anchor: JDG.6:11)*
@@ -216,7 +216,7 @@ St. Ambrose sees the terebinth tree as a type of the cross, the winepress as the
 
 Church, the wheat as the saints. He writes, "For these elect, as though trained with the
 
-rod of truth (Rev 19:15), laying aside the old man together with his deeds, are gathered in
+rod of truth ([[REV.19:15]]), laying aside the old man together with his deeds, are gathered in
 
 the Church as in a winepress . . . for from her wells forth the juice of the heavenly vine."
 
@@ -227,12 +227,12 @@ Gideon prefigures Christ as a deliverer of those in bondage.
 
 I am the smallest: Gideon's humility reflects the Christlike character of those who
 
-love God (5:31), for His "strength is made perfect in weakness" (2Co 12:9). 
+love God (5:31), for His "strength is made perfect in weakness" ([[2CO.12:9]]). 
 
 ### 6:18
 *(anchor: JDG.6:18)*
 
-I am tells us this is the One who spoke to Moses (Ex 20:2). I will wait echoes words
+I am tells us this is the One who spoke to Moses ([[EXO.20:2]]). I will wait echoes words
 
 recorded by the prophet Isaiah (Is 30:18). 
 
@@ -328,14 +328,14 @@ The men of Ephraim had been excluded from the battle. Gideon showed the wisdom
 
 of not arguing in the face of their anger; instead he encouraged them tactfully, based on
 
-their own accomplishments (Rom 12:3-6). 
+their own accomplishments ([[ROM.12:3]]-6). 
 
 ### 8:4-9
 *(anchor: JDG.8:4)*
 
 The men of Succoth (v. 5) and Penuel (v. 8) refused to give bread to Gideon's men, questioning his victory over Midian. Their refusal to help God's servant was costly (see
 
-Mt 25:41-46). 
+[[MAT.25:41]]-46). 
 
 ### 8:10
 *(anchor: JDG.8:10)*
@@ -351,7 +351,7 @@ became the one slaughtered.
 
 The men of Succoth (v. 5) and Penuel (v. 8) refused to give bread to Gideon's men, questioning his victory over Midian. Their refusal to help God's servant was costly (see
 
-Mt 25:41-46). 
+[[MAT.25:41]]-46). 
 
 ### 8:14
 *(anchor: JDG.8:14)*
@@ -395,7 +395,7 @@ escaped.
 ### 9:7
 *(anchor: JDG.9:7)*
 
-Mount Gerizim, previously used for the offering of blessings (Dt 11:29), is now used by
+Mount Gerizim, previously used for the offering of blessings ([[DEU.11:29]]), is now used by
 
 Jotham to pronounce a parable of warning and a curse to the people. 
 
@@ -434,11 +434,11 @@ Tola saved (judged) Israel, and Jair helped sustain the forty-five years of peac
 
 Israel enjoyed. But Israel fell into idolatry and evil again, and the Lord, for their sake, delivered them into the hands of the Philistines, later to be invaded by the Ammonites (v. 7). The false gods Israel served included Ashtoreth of Sidon (3Kg 11:5, 33), Baal-peor and
 
-Chemosh of Moab (Nm 21:29; 25:3; 3Kg 11:7, 33), Melek (Molech, Milcom) of Ammon
+Chemosh of Moab ([[NUM.21:29]]; 25:3; 3Kg 11:7, 33), Melek (Molech, Milcom) of Ammon
 
 (Lv 18:21; 3Kg 11:5, 7, 33), and Dagon and Beelzebub, gods of the Philistines (16:23; 1Kg
 
-5:2-7; 4Kg 1:2-3). Molech was particularly known as a god requiring human sacrifice (Lv
+5:2-7; [[2KI.1:2]]-3). Molech was particularly known as a god requiring human sacrifice (Lv
 
 
 ### 18:21
@@ -446,13 +446,13 @@ Chemosh of Moab (Nm 21:29; 25:3; 3Kg 11:7, 33), Melek (Molech, Milcom) of Ammon
 
 ; 20:2-5; 2Kg 23:10; Jer 32:35). 10:11-16 A powerful account of God extending not judgment but mercy to sinners. His soul
 
-was grieved (see Gn 6:6; Mk 14:34). 11:1-3 Not being the son of Gilead's wife or even a concubine, Jephthah is thrown out of
+was grieved (see [[GEN.6:6]]; [[MRK.14:34]]). 11:1-3 Not being the son of Gilead's wife or even a concubine, Jephthah is thrown out of
 
 his home as the son of another woman in violation of the law regarding the fatherless (Dt
 
 10:18; 14:29; 16:11; 24:17). 11:10
 
-Mizpah was the place where Jacob and Laban made a covenant (Gn 31:44-49). This
+Mizpah was the place where Jacob and Laban made a covenant ([[GEN.31:44]]-49). This
 
 shows the elders of Gilead took seriously Jephthah's appointment to lead them. 11:11-27
 
@@ -486,17 +486,17 @@ After forty years of bondage for Israel, God made known His plans through His An
 
 to deliver Israel by means of a special son born to a barren woman--as also happened
 
-with Sarah (Gn 16:1), Rebekah (Gn 25:21), Hannah (1Kg 1:2-28), and Elizabeth (Lk 1:7). 13:4-7
+with Sarah ([[GEN.16:1]]), Rebekah ([[GEN.25:21]]), Hannah (1Kg 1:2-28), and Elizabeth ([[LUK.1:7]]). 13:4-7
 
 Nazirite is derived from the Hebrew nazir, "consecrated," "dedicated." The one
 
-making a Nazirite vow (see Nm 6:2; Am 2:11, 12; 1Kg 1:11; Lk 1:15) refrains from strong
+making a Nazirite vow (see [[NUM.6:2]]; [[AMO.2:11]], [[AMO.2:12]]; 1Kg 1:11; [[LUK.1:15]]) refrains from strong
 
 drink, eating unclean things, and cutting the hair. 13:5
 
 Samson was a Nazirite unto God from the womb, as were the prophet Samuel (1Kg
 
-1:11) and John the Baptist (Lk 1:15). Samson would begin to deliver Israel from the
+1:11) and John the Baptist ([[LUK.1:15]]). Samson would begin to deliver Israel from the
 
 Philistines, a work carried further by Samuel, Saul, and King David. 13:25
 
@@ -510,13 +510,13 @@ men."
 
 14:18
 
-As with many riddles, once the answer was given it was obvious (Ps 19:10; 118:103; Pr 30:30). 15:1-3
+As with many riddles, once the answer was given it was obvious ([[PSA.19:10]]; 118:103; Pr 30:30). 15:1-3
 
 I will do mischief among them (v. 3) signals the beginning of the back-and-forth
 
-revenge in this chapter of "an eye for an eye" (see Ex 21:23-25). Samson finally prevails
+revenge in this chapter of "an eye for an eye" (see [[EXO.21:23]]-25). Samson finally prevails
 
-over the Philistines. 15:18-19 For all Samson's strength, he nearly died of thirst. Jesus said, "If anyone thirsts, let him come to Me and drink" (Jn 7:37). Even the strong are utterly dependent on God, who by a miracle provided water. 16:2-3 Since the gate of the city was locked by night, the Gazites assumed all was well until
+over the Philistines. 15:18-19 For all Samson's strength, he nearly died of thirst. Jesus said, "If anyone thirsts, let him come to Me and drink" ([[JOH.7:37]]). Even the strong are utterly dependent on God, who by a miracle provided water. 16:2-3 Since the gate of the city was locked by night, the Gazites assumed all was well until
 
 dawn. Samson awoke at midnight, tore down the doors, and carried them to Hebron--a
 
@@ -610,7 +610,7 @@ To "play the harlot" or take a concubine was an expression typically used to pai
 
 prophetic picture of people following false gods, often Baal, whose followers often
 
-became involved in extreme sexual misconduct (Hos 4:1-6; Jer 3:1, 8; Ezk 16:41; 23:44). 
+became involved in extreme sexual misconduct ([[HOS.4:1]]-6; [[JER.3:1]], [[JER.3:8]]; [[EZK.16:41]]; 23:44). 
 
 ### 19:4
 *(anchor: JDG.19:4)*
@@ -631,9 +631,9 @@ person from Israel might find safety here.
 
 The sons of lawlessness in the Hebrew text is "sons of Belial," which means
 
-"worthless men" (see 2Co 6:15, and Rom 1:26-27). This gruesome account is similar to
+"worthless men" (see [[2CO.6:15]], and [[ROM.1:26]]-27). This gruesome account is similar to
 
-that of Lot and the men of Sodom (Gn 19:1-4). 
+that of Lot and the men of Sodom ([[GEN.19:1]]-4). 
 
 ### 19:24-30
 *(anchor: JDG.19:24)*
@@ -664,14 +664,14 @@ unity. The verdict was by council, unanimous, and they carried out their decisio
 
 The Benjamites were offered the opportunity to turn over the sons of
 
-lawlessness in order to avoid war and to put away the evil from Israel (Dt 17:12), but they
+lawlessness in order to avoid war and to put away the evil from Israel ([[DEU.17:12]]), but they
 
 refused. 
 
 ### 20:18
 *(anchor: JDG.20:18)*
 
-They traveled to Bethel (Gn 28:19-22) to inquire of God because the ark of the
+They traveled to Bethel ([[GEN.28:19]]-22) to inquire of God because the ark of the
 
 covenant had been moved there (v. 27). 
 
@@ -691,14 +691,14 @@ The Lord repeats His earlier answer, but this upcoming third battle came with a
 
 promise of victory. Even so, "the battle was fierce" (v. 34). Despite God's promises of
 
-victory to us, Jesus warns, "in the world you will have tribulation" (Jn 16:33). 
+victory to us, Jesus warns, "in the world you will have tribulation" ([[JOH.16:33]]). 
 
 ### 20:48
 *(anchor: JDG.20:48)*
 
 For about four months, Israel carried out against Benjamin the things God declared
 
-should be done to the Canaanites (Dt 7:2; 20:16-18)--for Benjamin had become like the
+should be done to the Canaanites ([[DEU.7:2]]; 20:16-18)--for Benjamin had become like the
 
 Canaanites. It was prescribed punishment for violating the covenant and rejecting God's
 

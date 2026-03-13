@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EPH.3:17",
+  "canon_uri": "canon/NT/EPH.md#EPH.3:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 527,
+      "raw_match": "[[EPH.3:17]]",
+      "reference_type": "wikilink",
+      "context": "said in [[EPH.3:17]] (GrgSinai). 19:13"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "anchor_id": "JOH.4:21",
+  "canon_uri": "canon/NT/JOH.md#JOH.4:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3019,
+      "raw_match": "[[JOH.4:21]]",
+      "reference_type": "wikilink",
+      "context": "There is no temple in the old sense in the New Jerusalem ([[JOH.4:21]]). Its temple is"
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1647,
+      "raw_match": "[[JOH.4:20]]-24",
+      "reference_type": "wikilink_range",
+      "context": "place, filling all things\" (JohnDm; see also [[JOH.4:20]]-24)."
+    },
+    {
+      "source_file": "staging/validated/OT/MIC_footnotes.md",
+      "line_number": 41,
+      "raw_match": "[[JOH.4:1]]-42",
+      "reference_type": "wikilink_range",
+      "context": "Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard."
+    },
+    {
+      "source_file": "staging/validated/OT/ZEC_footnotes.md",
+      "line_number": 704,
+      "raw_match": "[[JOH.4:21]]-24",
+      "reference_type": "wikilink_range",
+      "context": "whether we worship Him in Spirit and in truth ([[JOH.4:21]]-24). Zechariah concludes with a condemnation of Egypt and all nations that do not come to"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "anchor_id": "GAL.6:16",
+  "canon_uri": "canon/NT/GAL.md#GAL.6:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1CO_footnotes.md",
+      "line_number": 873,
+      "raw_match": "[[GAL.6:16]]",
+      "reference_type": "wikilink",
+      "context": "which is the Church, the Israel of God (see [[GAL.6:16]])."
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 1463,
+      "raw_match": "[[GAL.6:16]]",
+      "reference_type": "wikilink",
+      "context": "together form the true Israel. (In [[GAL.6:15]], [[GAL.6:16]], St. Paul calls those \"in Christ Jesus\" the"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1583,
+      "raw_match": "[[GAL.6:16]]",
+      "reference_type": "wikilink",
+      "context": "Church, which is also called \"the Israel of God\" ([[GAL.6:16]])."
+    },
+    {
+      "source_file": "staging/validated/OT/NUM_footnotes.md",
+      "line_number": 34,
+      "raw_match": "[[GAL.6:16]]",
+      "reference_type": "wikilink",
+      "context": "census shows the militant nature of Israel in warfare. Israel was a type of the Church, \"the Israel of God\" ([[GAL.6:16]]; see [[ROM.2:28]], [[ROM.2:29]]), and the Church is also militant. However, the warfare of the Church is spiritual and evangelistic in nature ([[EPH.6:10]]-20). The spiritual enemies are the sinful passions, death, and the devil. Evangelism is to bring"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 479,
+      "raw_match": "[[GAL.6:16]]",
+      "reference_type": "wikilink",
+      "context": "which is the Israel of God (v. 22; see also [[GAL.6:16]]). He identifies Himself as onlybegotten and poor (v. 16), for He was the Virgin Mary's only Child, and He was born"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1059,
+      "raw_match": "[[GAL.6:16]]",
+      "reference_type": "wikilink",
+      "context": "salvation to the Church (\"Israel,\" v. 7; see also [[GAL.6:16]])."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 473,
+      "raw_match": "[[GAL.6:16]]",
+      "reference_type": "wikilink",
+      "context": "of God's promises to Israel in the Church, see the following passages: [[ROM.4:9]]-16; 9:6, 8, 23-27; 11:7; [[1CO.10:18]]; [[GAL.6:16]]; [[1PE.2:4]]-12; [[REV.3:12]]; 21:2, 10."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1206,
+      "raw_match": "[[GAL.6:16]]",
+      "reference_type": "wikilink",
+      "context": "Israel ([[GAL.6:16]]) has the authority of Christ to mark her holy days and seasons."
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 476,
+      "raw_match": "[[GAL.6:16]]",
+      "reference_type": "wikilink",
+      "context": "\"Israel of God\" (see [[GAL.6:16]]; [[1PE.2:9]]), and Christ, the Wisdom of God, becomes her Head. (See also 12:20; 18:8; Lv 26:44; [[PSA.125:3]].)"
+    }
+  ]
+}

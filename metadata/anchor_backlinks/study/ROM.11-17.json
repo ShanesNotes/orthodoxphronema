@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ROM.11:17",
+  "canon_uri": "canon/NT/ROM.md#ROM.11:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JOL_footnotes.md",
+      "line_number": 305,
+      "raw_match": "[[ROM.11:17]]-24",
+      "reference_type": "wikilink_range",
+      "context": "establishment of the Church (see [[ROM.11:17]]-24; [[JOH.15:1]]; [[LUK.13:6]]-9). Rain, wheat, wine, and oil refer to the food that is right for you, namely the sacraments of Holy"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 471,
+      "raw_match": "[[ROM.11:11]]-36",
+      "reference_type": "wikilink_range",
+      "context": "into this same sin and incur the same judgment (see [[ROM.11:11]]-36). For the fulfillment"
+    }
+  ]
+}

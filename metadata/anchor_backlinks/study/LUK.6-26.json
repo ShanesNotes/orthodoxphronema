@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.6:26",
+  "canon_uri": "canon/NT/LUK.md#LUK.6:26",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JOL_footnotes.md",
+      "line_number": 97,
+      "raw_match": "[[LUK.6:24]]-26",
+      "reference_type": "wikilink_range",
+      "context": "merry in His own day ([[LUK.6:24]]-26)."
+    }
+  ]
+}

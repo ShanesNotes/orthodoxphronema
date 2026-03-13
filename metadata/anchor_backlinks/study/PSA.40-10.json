@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.40:10",
+  "canon_uri": "canon/OT/PSA.md#PSA.40:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 2865,
+      "raw_match": "[[PSA.40:10]]",
+      "reference_type": "wikilink",
+      "context": "alludes to Judas ([[PSA.40:10]]; 108:2-13; [[ZEC.11:12]], [[ZEC.11:13]]), and Judas becomes a type for all who"
+    }
+  ]
+}

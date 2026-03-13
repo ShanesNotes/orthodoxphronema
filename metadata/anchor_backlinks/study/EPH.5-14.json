@@ -1,0 +1,37 @@
+{
+  "anchor_id": "EPH.5:14",
+  "canon_uri": "canon/NT/EPH.md#EPH.5:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 551,
+      "raw_match": "[[EPH.5:14]]",
+      "reference_type": "wikilink",
+      "context": "which is unrepeatable and called the sacrament of illumination (see [[EPH.5:14]]). Tasted"
+    },
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 983,
+      "raw_match": "[[EPH.5:14]]",
+      "reference_type": "wikilink",
+      "context": "[[EPH.5:14]])."
+    },
+    {
+      "source_file": "staging/validated/OT/PRO_footnotes.md",
+      "line_number": 318,
+      "raw_match": "[[EPH.5:14]]",
+      "reference_type": "wikilink",
+      "context": "from a trap (vv. 5, 6; see also [[EPH.5:14]], [[EPH.5:15]]). 6:7-16"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 285,
+      "raw_match": "[[EPH.5:14]]",
+      "reference_type": "wikilink",
+      "context": "And come: The Lord commands the sleeper to arise and join Him ([[EPH.5:14]]). The"
+    }
+  ]
+}

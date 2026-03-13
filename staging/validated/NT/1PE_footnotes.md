@@ -16,9 +16,9 @@ Pilgrims, or "sojourners," are aliens, those who stay for a while in a strange p
 
 no intention of permanently residing there. This is said of God's people in this world (see
 
-2:11; Gn 23:4; Ps 38:13; Heb 11:13), for they are citizens of the heavenly world to come
+2:11; [[GEN.23:4]]; [[PSA.38:13]]; [[HEB.11:13]]), for they are citizens of the heavenly world to come
 
-(Php 3:20).
+([[PHP.3:20]]).
 
 
 ### 1:2
@@ -34,7 +34,7 @@ sprinkling of the blood connects OT sacramental rites with Christ and the New
 
 Testament. Through the blood sprinkled on the doorposts of their homes, the people of
 
-Israel escaped the power of Satan and death in Egypt (Ex 12:13). When the covenant
+Israel escaped the power of Satan and death in Egypt ([[EXO.12:13]]). When the covenant
 
 between God and the Israelites was made at Sinai, Moses sprinkled the blood of the
 
@@ -44,9 +44,9 @@ covenant upon the people, thereby empowering Israel to participate in the life o
 
 the tabernacle (Lv 16:15). As people of the New Covenant, we enter into God's life more
 
-intimately: "Unless you . . . drink His blood, you have no life in you" (Jn 6:53). Through
+intimately: "Unless you . . . drink His blood, you have no life in you" ([[JOH.6:53]]). Through
 
-Christ's blood communicated to us in the Holy Eucharist (1Co 11:25), we are united with
+Christ's blood communicated to us in the Holy Eucharist ([[1CO.11:25]]), we are united with
 
 Him in His incorrupt human nature.
 
@@ -64,13 +64,13 @@ nature will be transformed into incorrupt human nature.
 
 We are begotten . . . again to a living hope in baptism. As Jesus told Nicodemus,
 
-we enter the Kingdom of God by being "born of water and the Spirit" (Jn 3:5). This new
+we enter the Kingdom of God by being "born of water and the Spirit" ([[JOH.3:5]]). This new
 
-birth in baptism unites us with Christ and His resurrection (Rom 6:3). The words and
+birth in baptism unites us with Christ and His resurrection ([[ROM.6:3]]). The words and
 
-actions of Peter also confirm this sacramental reality (see Acts 2:37, 38, 41; 10:43, 47, 48;
+actions of Peter also confirm this sacramental reality (see [[ACT.2:37]], [[ACT.2:38]], [[ACT.2:41]]; 10:43, 47, 48;
 
-see also the "washing of regeneration" in Tts 3:5, where baptism and God's mercy are
+see also the "washing of regeneration" in [[TIT.3:5]], where baptism and God's mercy are
 
 coupled). Here the sacrament of baptism (vv. 3-6) is the power by which we suffer
 
@@ -98,13 +98,13 @@ by God's grace perseveres to the end.
 
 1:6, 7 To reach the joy and blessing of eternal life in Christ, we first experience the sadness
 
-of the passing world, along with the afflictions we must face here (see also Jam 1:1-12).
+of the passing world, along with the afflictions we must face here (see also [[JAS.1:1]]-12).
 
 To the watching world, the perseverance of the faithful during affliction appears foolish
 
 and even contemptible. But Peter shows that faith under trial is precious indeed, bearing
 
-more glory and honor as it continues to stand under trial (see Mt 25:31-46; 1Co 3:10-15).
+more glory and honor as it continues to stand under trial (see [[MAT.25:31]]-46; [[1CO.3:10]]-15).
 
 
 ### 1:8
@@ -112,7 +112,7 @@ more glory and honor as it continues to stand under trial (see Mt 25:31-46; 1Co 
 
 Peter knew by experience the failure to perceive the truth until he saw it with his eyes
 
-(see Lk 24:8-12; Acts 10:39-43). Here he addresses those who believe Him whom they
+(see [[LUK.24:8]]-12; [[ACT.10:39]]-43). Here he addresses those who believe Him whom they
 
 have not seen. This is the faith of baptism and the faith of eternal life.
 
@@ -132,7 +132,7 @@ and Second Coming.
 
 Even the angels desire to deepen their vision both of the uncreated glory and of what
 
-God has in store for creation (see 1Co 2:8). The angels beheld and worshipped Christ in
+God has in store for creation (see [[1CO.2:8]]). The angels beheld and worshipped Christ in
 
 His divine nature; what is new and amazing to them is His human nature.
 
@@ -166,7 +166,7 @@ Our salvation has been purchased by the infinitely precious blood of Christ (v.
 
 19). We are not our own and are to conduct ourselves in a manner worthy of the price
 
-paid for our redemption (see 1Co 6:19, 20).
+paid for our redemption (see [[1CO.6:19]], [[1CO.6:20]]).
 
 
 ### 1:24-25
@@ -194,7 +194,7 @@ The duty, the necessity, for Christians to be holy in their conduct is the issue
 
 in this passage. The apostle Paul has written that new (indeed, all!) Christians are to put
 
-off the old manner of life, corrupted by evil and deception (Eph 4:22). Similarly, those
+off the old manner of life, corrupted by evil and deception ([[EPH.4:22]]). Similarly, those
 
 addressed here are to turn from the same.
 
@@ -202,11 +202,11 @@ addressed here are to turn from the same.
 ### 2:2-3
 *(anchor: 1PE.2:2)*
 
-The pure milk of the word is apostolic doctrine (Acts 2:42), the basic teaching of
+The pure milk of the word is apostolic doctrine ([[ACT.2:42]]), the basic teaching of
 
 the Church--both written (1:10-12) and spoken (1:25). These lead us to the meat of the
 
-word (1Co 3:2), the sacraments of the Church, and continual growth in the Christian life.
+word ([[1CO.3:2]]), the sacraments of the Church, and continual growth in the Christian life.
 
 We have tasted that the Lord is gracious and should long for this spiritual
 
@@ -222,9 +222,9 @@ priesthood and its sacrifice and worship, Christ Himself being the fulfillment o
 
 imagery. Thus, in Christ we become living stones, a spiritual house, a royal
 
-priesthood (v. 5; see Ex 19:5, 6), the people of God who have obtained mercy (v. 10;
+priesthood (v. 5; see [[EXO.19:5]], [[EXO.19:6]]), the people of God who have obtained mercy (v. 10;
 
-see Eph 2:19-22; 1Co 3:16, 17; 2Co 6:16). This is salvation in all its fullness.
+see [[EPH.2:19]]-22; [[1CO.3:16]], [[1CO.3:17]]; [[2CO.6:16]]). This is salvation in all its fullness.
 
 
 ### 2:5
@@ -232,7 +232,7 @@ see Eph 2:19-22; 1Co 3:16, 17; 2Co 6:16). This is salvation in all its fullness.
 
 In the true temple, one sacrifice is offered, the unrepeatable sacrifice of Christ. But in
 
-Him, in baptism, we also are sacrificed, "a living sacrifice" (Rom 12:1) acceptable to
+Him, in baptism, we also are sacrificed, "a living sacrifice" ([[ROM.12:1]]) acceptable to
 
 God. Our whole life is to be lived in this baptism as an offering to Christ our life. This is
 
@@ -270,7 +270,7 @@ to live as true sojourners and pilgrims in the world.
 ### 2:13-17
 *(anchor: 1PE.2:13)*
 
-(See also Rom 13:1-7; Mt 22:21; Tts 3:1.) Peter urges his readers to be obedient to
+(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to
 
 civil government. While Christians serve a higher authority, God Himself, it is God who
 
@@ -282,7 +282,7 @@ realizing that at times Church and state have been at great odds. When ultimate 
 
 and obedience to Christ and His gospel are at stake, Peter's actions show that we are to
 
-obey God rather than man, even to the point of prison or death (Acts 4:19, 20).
+obey God rather than man, even to the point of prison or death ([[ACT.4:19]], [[ACT.4:20]]).
 
 
 ### 2:18-24
@@ -342,7 +342,7 @@ of legal contract. Contrary to the inheritance customs of the time, husband and 
 
 heirs together of the grace of life (v. 7). Failure to live with understanding with
 
-one's spouse even affects one's relationship with God (see Eph 5:22-33).
+one's spouse even affects one's relationship with God (see [[EPH.5:22]]-33).
 
 
 ### 3:8-12
@@ -352,7 +352,7 @@ Our behavior today has consequences for the future. The Church as a corporate
 
 priesthood is to express God's graciousness to the entire world. As we have been blessed,
 
-so must we bless (see Mt 7:12).
+so must we bless (see [[MAT.7:12]]).
 
 
 ### 3:13-17
@@ -428,7 +428,7 @@ The dead are most likely those preached to "in prison" in Hades (3:19).
 
 Whatever gifts God has given to His people are to be used for the glory of God and
 
-in a spirit of love (see Rom 12:4-10; 1Co 12-14).
+in a spirit of love (see [[ROM.12:4]]-10; 1Co 12-14).
 
 
 ### 4:12-13
@@ -458,7 +458,7 @@ who suffer can always be confident that God is faithful (v. 19) and good.
 ### 5:1-4
 *(anchor: 1PE.5:1)*
 
-(See Jn 21:15-17.) From Christ Himself and throughout the history of the Church,
+(See [[JOH.21:15]]-17.) From Christ Himself and throughout the history of the Church,
 
 these words have been delivered in exhortation to the shepherds or leaders of the flock
 
@@ -472,7 +472,7 @@ Shepherd (v. 4), and awaits an eternal crown of glory.
 ### 5:3
 *(anchor: 1PE.5:3)*
 
-(See Mk 10:42-45; 2Co 4:5.) Those entrusted to you (Gr. kleron) means those who
+(See [[MRK.10:42]]-45; [[2CO.4:5]].) Those entrusted to you (Gr. kleron) means those who
 
 have "the inheritance"; the word is the source of the English "clergy." In the OT the
 
@@ -492,7 +492,7 @@ Humility is the foundation of virtue; it is learned through submission and
 
 obedience to godly elders. In submitting to one another, we humble ourselves under
 
-the mighty hand of God (see 1Th 5:12, 13; Heb 13:7, 17).
+the mighty hand of God (see [[1TH.5:12]], [[1TH.5:13]]; [[HEB.13:7]], [[HEB.13:17]]).
 
 
 ### 5:8-9
@@ -538,4 +538,4 @@ of Christ, "If you bring your gift to the altar, and there remember that your br
 
 something against you, leave your gift there before the altar, and go your way. First be
 
-reconciled to your brother, and then come and offer your gift" (Mt 5:23, 24).
+reconciled to your brother, and then come and offer your gift" ([[MAT.5:23]], [[MAT.5:24]]).

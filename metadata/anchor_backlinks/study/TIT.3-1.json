@@ -1,0 +1,16 @@
+{
+  "anchor_id": "TIT.3:1",
+  "canon_uri": "canon/NT/TIT.md#TIT.3:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 273,
+      "raw_match": "[[TIT.3:1]]",
+      "reference_type": "wikilink",
+      "context": "(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to"
+    }
+  ]
+}

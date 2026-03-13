@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ROM.3:17",
+  "canon_uri": "canon/NT/ROM.md#ROM.3:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 259,
+      "raw_match": "[[ROM.3:9]]-18",
+      "reference_type": "wikilink_range",
+      "context": "(v. 1; see also [[ROM.3:9]]-18). For although they may claim to know God, nevertheless, they"
+    }
+  ]
+}

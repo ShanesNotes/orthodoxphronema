@@ -1,0 +1,16 @@
+{
+  "anchor_id": "RUT.1:16",
+  "canon_uri": "canon/OT/RUT.md#RUT.1:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1989,
+      "raw_match": "[[RUT.1:16]]",
+      "reference_type": "wikilink",
+      "context": "He goes ([[RUT.1:16]], [[RUT.1:17]]) as sheep follow a shepherd (and here, the Shepherd is the Lamb),"
+    }
+  ]
+}

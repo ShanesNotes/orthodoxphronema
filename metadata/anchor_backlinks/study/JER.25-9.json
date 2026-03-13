@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JER.25:9",
+  "canon_uri": "canon/OT/JER.md#JER.25:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2CH_footnotes.md",
+      "line_number": 506,
+      "raw_match": "[[JER.25:9]]-12",
+      "reference_type": "wikilink_range",
+      "context": "(v. 29) is the approximate time of the exile in Babylon (see also [[JER.25:9]]-12; 27:6-8; 29:10; Lv 26:34-43)."
+    }
+  ]
+}

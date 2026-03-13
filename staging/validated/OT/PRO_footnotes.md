@@ -12,7 +12,7 @@ status: staging
 ### 1:1
 *(anchor: PRO.1:1)*
 
-, 2 The Book of Proverbs was written that one might know Christ, the Wisdom of God. As St. Paul pointed out, Christ is "the power of God and the wisdom of God" (1Co 1:24). St. Hippolytus also said, "These are the proverbs of Solomon, that is to say, the
+, 2 The Book of Proverbs was written that one might know Christ, the Wisdom of God. As St. Paul pointed out, Christ is "the power of God and the wisdom of God" ([[1CO.1:24]]). St. Hippolytus also said, "These are the proverbs of Solomon, that is to say, the
 
 peacemaker, who, in truth, is Christ the Savior."
 
@@ -43,7 +43,7 @@ illuminates those who know and are taught by Him. Wise words are like a door tha
 
 into the inner sanctuary of Wisdom. If Wisdom opens this door to the earnest seeker
 
-after the virtues, this seeker will find Wisdom and partake of His virtues (see also Mt 7:7, 8.). 
+after the virtues, this seeker will find Wisdom and partake of His virtues (see also [[MAT.7:7]], [[MAT.7:8]].). 
 
 ### 1:7-8
 *(anchor: PRO.1:7)*
@@ -180,7 +180,7 @@ Rebellion is an offspring of forgetfulness and is characterized by a heart that
 
 despises and faints under Wisdom's instruction--one aspect of which is reproof (v. 11). For Wisdom instructs and chastises His children, because He loves them (v. 12; see
 
-also Heb 12:5, 6); otherwise, they would forget God and fall into rebellion against Him. But Wisdom's education leads to discernment (v. 13) and righteousness (v. 18). Those who know Christ will find Him to be the true riches (vv. 14, 15, 17), and no
+also [[HEB.12:5]], [[HEB.12:6]]); otherwise, they would forget God and fall into rebellion against Him. But Wisdom's education leads to discernment (v. 13) and righteousness (v. 18). Those who know Christ will find Him to be the true riches (vv. 14, 15, 17), and no
 
 honor given Him is worthy of Him (v. 16). To travel His good road brings one peace (v. 19), life (v. 20), and security (v. 20). Then too, they come to know Him as the Lord (v. 20) and the Creator of the world, for God the Father founded the world through Him
 
@@ -279,7 +279,7 @@ not only to God but to the church (v. 14). 5:15-19
 
 Marriage is sacred, here called waters which are pure, for it was ordained by
 
-Wisdom (v. 15; see also Gn 2:23, 24). But adultery spills these waters and damages the
+Wisdom (v. 15; see also [[GEN.2:23]], [[GEN.2:24]]). But adultery spills these waters and damages the
 
 marriage bond (v. 16). However, faithfulness in marriage is called wide places, because
 
@@ -297,13 +297,13 @@ exposed before God. And although a lawless woman may ensnare a man, the man also
 
 responsible for chaining himself with his own sins (v. 22). For he refuses Wisdom's
 
-crown of discernment, and is finally destroyed with the rest of the undiscerning (v. 23; see also Heb 13:4). 6:1-40 This chapter warns against four vices or sinful passions: a careless tongue (vv. 1-6), laziness (vv. 7-16), a lawless spirit (vv. 17-25), and unlawful sexual intercourse (vv. 26-
+crown of discernment, and is finally destroyed with the rest of the undiscerning (v. 23; see also [[HEB.13:4]]). 6:1-40 This chapter warns against four vices or sinful passions: a careless tongue (vv. 1-6), laziness (vv. 7-16), a lawless spirit (vv. 17-25), and unlawful sexual intercourse (vv. 26-
 
 40). 6:1-6 Assuming debt for a friend in this instance refers to a son of Wisdom pledging with
 
 his lips to join with a friend in his evil undertakings (v. 1). As St. Paul said, "Evil company
 
-corrupts good habits" (1Co 15:33). With such a pledge, a man's tongue becomes his worst
+corrupts good habits" ([[1CO.15:33]]). With such a pledge, a man's tongue becomes his worst
 
 enemy (v. 2). Wisdom speaks to His son, commanding him to save himself (v. 3), for this
 
@@ -315,7 +315,7 @@ reject his careless pledge to his friend, and to provoke his friend to change as
 
 with this matter, that he may save himself, like a gazelle from the snares and a bird
 
-from a trap (vv. 5, 6; see also Eph 5:14, 15). 6:7-16
+from a trap (vv. 5, 6; see also [[EPH.5:14]], [[EPH.5:15]]). 6:7-16
 
 Laziness, both of body and soul, leads to poverty (vv. 13-15). But Wisdom
 
@@ -469,7 +469,7 @@ virtues (14:25).
 
 Wisdom is the truth of the Father and only speaks the truth (vv. 6b, 7). Since He is
 
-the truth, He only speaks what is righteous; there is nothing unrighteous in His words. His righteousness is one of the general virtues that begets all the other virtues. In Jn 14:6, He said, "I am the truth."
+the truth, He only speaks what is righteous; there is nothing unrighteous in His words. His righteousness is one of the general virtues that begets all the other virtues. In [[JOH.14:6]], He said, "I am the truth."
 
 
 ### 8:9
@@ -510,13 +510,13 @@ the Father before all time" (Creed; see also v. 25). The beginning of His ways m
 
 through Wisdom, and it also refers to the Incarnation, when the Wisdom and Word of the
 
-Father became flesh (see also Jn 1:14). The phrase for His works refers both to the
+Father became flesh (see also [[JOH.1:14]]). The phrase for His works refers both to the
 
 works of creation and to those accomplished by Christ for our salvation, which are
 
 outlined in the Creed. "In the beginning before time" is the same as "In the beginning was
 
-the Word" in Jn 1:1. For the Father "established" Wisdom "before time." Therefore Christ, the Wisdom and Power of God, is not a creature (1Co 1:24). 
+the Word" in [[JOH.1:1]]. For the Father "established" Wisdom "before time." Therefore Christ, the Wisdom and Power of God, is not a creature ([[1CO.1:24]]). 
 
 ### 8:24-25
 *(anchor: PRO.8:24)*
@@ -547,7 +547,7 @@ Father is the Creator, and the Son is the Creator. How so? Because the working i
 
 working. They are two distinct Persons, but the work of creation is one work. Although
 
-He is not mentioned here by name, the Holy Spirit was also present and working, for He, too, is the Creator (see Gn 1:2). Three distinct Persons created the world with one
+He is not mentioned here by name, the Holy Spirit was also present and working, for He, too, is the Creator (see [[GEN.1:2]]). Three distinct Persons created the world with one
 
 working. This one working is emphasized in the statement: "The Father made the world
 
@@ -590,11 +590,11 @@ Wisdom is Christ, and He built His house. This house is first the Virgin Mary, t
 
 Mother of God, for He was conceived in her womb. Secondly, His house is the Church
 
-(Heb 3:1-6). This house is built on Christ, on the Mother of God, and on the apostles and
+([[HEB.3:1]]-6). This house is built on Christ, on the Mother of God, and on the apostles and
 
-prophets. Christ Himself is the Chief Cornerstone (Eph 2:19-22). The seven pillars of the Church is the Holy Spirit, who is called "the seven Spirits of
+prophets. Christ Himself is the Chief Cornerstone ([[EPH.2:19]]-22). The seven pillars of the Church is the Holy Spirit, who is called "the seven Spirits of
 
-God" (Rev 3:1). These seven spirits are the graces of the Holy Spirit that rested on Christ, summarized in Is 11:2, 3: wisdom, understanding, counsel, might, knowledge, godliness, and the fear of God. These are the "seven pillars" by which the Church is supported
+God" ([[REV.3:1]]). These seven spirits are the graces of the Holy Spirit that rested on Christ, summarized in Is 11:2, 3: wisdom, understanding, counsel, might, knowledge, godliness, and the fear of God. These are the "seven pillars" by which the Church is supported
 
 through Christ. 
 
@@ -777,7 +777,7 @@ others.
 
 A man with discernment, the crown of the virtues, has his mouth under control, for
 
-he knows how to be quiet. Self-control is a "fruit of the Spirit" (Gal 5:19-23). But the
+he knows how to be quiet. Self-control is a "fruit of the Spirit" ([[GAL.5:19]]-23). But the
 
 mouth of a man in need of discernment is out of control and treats others with
 
@@ -829,7 +829,7 @@ the presence of God" (Hippol).
 ### 11:30
 *(anchor: PRO.11:30)*
 
-The apostle Peter quotes this verse in 1Pt 4:18. The righteous man suffers
+The apostle Peter quotes this verse in [[1PE.4:18]]. The righteous man suffers
 
 according to the will of God, but this verse encourages him constantly to commit his soul
 
@@ -847,7 +847,7 @@ man without discernment hates correction.
 
 No one can live a virtuous life without the grace of God. As Wisdom said, "Without
 
-Me you can do nothing" (Jn 15:5). Thus he who finds the Lord's grace and lives by it
+Me you can do nothing" ([[JOH.15:5]]). Thus he who finds the Lord's grace and lives by it
 
 becomes better, that is, bears the fruits of virtue. But His grace passes by the lawless
 
@@ -883,7 +883,7 @@ contempt upon himself.
 
 Compassion is a fruit of righteousness. Thus in man's dominion over every living
 
-thing (Gn 1:28), he is to express this dominion in compassion. But the ungodly evidence
+thing ([[GEN.1:28]]), he is to express this dominion in compassion. But the ungodly evidence
 
 no such affections, for they know nothing of mercy, even toward animals. 
 
@@ -954,7 +954,7 @@ wisdom, but disobedience evidences a lack of such wisdom. Obedience is the right
 
 the will, according to God and human nature. But disobedience is a use of the will
 
-contrary to God and nature. For human nature is good in itself (Gn 1:31), and obedience
+contrary to God and nature. For human nature is good in itself ([[GEN.1:31]]), and obedience
 
 to God is in harmony with it. 
 
@@ -1424,7 +1424,7 @@ life to evil or false fountains of instruction.
 
 The spiritual heart of a wise man is the abode of understanding. It has the eyes to
 
-see and the ears to hear Wisdom and His instruction (see also Eph 1:18). Such a man
+see and the ears to hear Wisdom and His instruction (see also [[EPH.1:18]]). Such a man
 
 carries knowledge upon his lips. 
 
@@ -1469,7 +1469,7 @@ peace and even engenders unacceptable worship (unrighteous sacrifices).
 ### 17:3
 *(anchor: PRO.17:3)*
 
-The Lord chooses those He foreknows (see also Rom 8:29). He saw the chosen
+The Lord chooses those He foreknows (see also [[ROM.8:29]]). He saw the chosen
 
 before He created them. He saw their spiritual hearts and the furnace of testing they
 
@@ -1732,7 +1732,7 @@ more understanding and perception.
 
 Lashes and punishments are prepared to teach those without restraint and
 
-those without discernment their need for Wisdom and His virtues. For as Heb 12:6, 7
+those without discernment their need for Wisdom and His virtues. For as [[HEB.12:6]], [[HEB.12:7]]
 
 says, "'For whom the L
 
@@ -1911,7 +1911,7 @@ counsel. Their negative choice shuts them out from these virtues.
 
 A good name to be chosen more than much wealth is the name Christian (see
 
-Acts 11:26). For Wisdom is Christ, and those who follow Him are known by this name. And His good grace is worth more than silver and gold, for by His grace Christians
+[[ACT.11:26]]). For Wisdom is Christ, and those who follow Him are known by this name. And His good grace is worth more than silver and gold, for by His grace Christians
 
 live according to His virtues implanted within them. 
 
@@ -1920,7 +1920,7 @@ live according to His virtues implanted within them.
 
 The fear of the Lord is the offspring of Wisdom, who is Christ. He is the begetter
 
-of all the virtues, described as riches and glory and life (see Jn 10:10). 
+of all the virtues, described as riches and glory and life (see [[JOH.10:10]]). 
 
 ### 22:5
 *(anchor: PRO.22:5)*
@@ -1974,7 +1974,7 @@ of the will toward Wisdom, and the intent to obey Him.
 
 St. Paul said in agreement with this verse, "Do not be deceived: 'Evil company
 
-corrupts good habits'" (1Co 15:33). 
+corrupts good habits'" ([[1CO.15:33]]). 
 
 ### 22:30
 *(anchor: PRO.22:30)*
@@ -2012,7 +2012,7 @@ Wisdom addresses His son (v. 19), and encourages him to spend time with His
 
 words (v. 16). The Book of Proverbs is an example of His words of Holy Scripture. These
 
-words are like a door that leads into the inner sanctuary of Wisdom (see also Mt 7:7, 8). If
+words are like a door that leads into the inner sanctuary of Wisdom (see also [[MAT.7:7]], [[MAT.7:8]]). If
 
 he does this, his thoughts will be directed aright (v. 19). He will also learn to fear the
 
@@ -2142,7 +2142,7 @@ return and overcome us.
 ### 25:8
 *(anchor: PRO.25:8)*
 
-The eyes are those of the spiritual heart. When we see the spiritual riches of Christ, then we may speak of them (see also Eph 1:18). 
+The eyes are those of the spiritual heart. When we see the spiritual riches of Christ, then we may speak of them (see also [[EPH.1:18]]). 
 
 ### 25:18
 *(anchor: PRO.25:18)*
@@ -2158,7 +2158,7 @@ be sweet to the taste.
 ### 25:24-25
 *(anchor: PRO.25:24)*
 
-The Lord rewards those who love their enemies (see also Mt 5:43-45; Rom
+The Lord rewards those who love their enemies (see also [[MAT.5:43]]-45; Rom
 
 12:19, 20). 
 
@@ -2205,7 +2205,7 @@ angels know the future only if the Lord reveals it to them. Therefore, no one sh
 
 boast about tomorrow, for no one knows what the next day will bring forth (see
 
-also Jam 4:13-16). Furthermore, one may be dead tomorrow. "Hold fast then to virtue. For even so, if you depart young, you will depart in safety; if you come to old age, you will
+also [[JAS.4:13]]-16). Furthermore, one may be dead tomorrow. "Hold fast then to virtue. For even so, if you depart young, you will depart in safety; if you come to old age, you will
 
 reach it safely" (JohnChr). 
 
@@ -2230,7 +2230,7 @@ becomes unbearable, like the weight of a heavy stone and cumbersome sand.
 ### 27:6
 *(anchor: PRO.27:6)*
 
-Judas Iscariot betrayed the Lord Jesus with a voluntary kiss, and He said of him: "It would have been good for that man if he had never been born" (Mk 14:21). 
+Judas Iscariot betrayed the Lord Jesus with a voluntary kiss, and He said of him: "It would have been good for that man if he had never been born" ([[MRK.14:21]]). 
 
 ### 27:17
 *(anchor: PRO.27:17)*
@@ -2275,7 +2275,7 @@ and His general virtues and their fruits.
 ### 27:25
 *(anchor: PRO.27:25)*
 
-See Jn 10:27, 28. 
+See [[JOH.10:27]], [[JOH.10:28]]. 
 
 ### 28:1
 *(anchor: PRO.28:1)*
@@ -2352,7 +2352,7 @@ walks in Wisdom and His virtues, such a man shall be saved.
 
 The places of the ungodly refers to this fallen world. The righteous live in the
 
-world, but they lament its condition. For "blessed are those who mourn" (Mt 5:4). When
+world, but they lament its condition. For "blessed are those who mourn" ([[MAT.5:4]]). When
 
 the righteous convert the ungodly, sinful passions are destroyed (in their destruction). Thus, righteous people increase. 
 
@@ -2425,7 +2425,7 @@ repentance.
 
 One cannot know God through worldly wisdom, which God considers foolishness
 
-(see also 1Co 1:20, 21). 
+(see also [[1CO.1:20]], [[1CO.1:21]]). 
 
 ### 30:4
 *(anchor: PRO.30:4)*
@@ -2437,7 +2437,7 @@ the sixth is "Christian" (the name of His children).
 ### 30:5-6
 *(anchor: PRO.30:5)*
 
-See Rev 22:18, 19. 
+See [[REV.22:18]], [[REV.22:19]]. 
 
 ### 30:7-8
 *(anchor: PRO.30:7)*
@@ -2451,7 +2451,7 @@ take away grace from me before I die. The second request is for the necessities 
 ### 30:11-15
 *(anchor: PRO.30:11)*
 
-Evil offspring are the sinful passions, and the devil is their father (Jn 8:43, 44). But this also applies to evil offspring in a family. 
+Evil offspring are the sinful passions, and the devil is their father ([[JOH.8:43]], [[JOH.8:44]]). But this also applies to evil offspring in a family. 
 
 ### 30:16-35
 *(anchor: PRO.30:16)*

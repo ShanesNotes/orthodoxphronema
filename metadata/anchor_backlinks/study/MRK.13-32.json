@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.13:32",
+  "canon_uri": "canon/NT/MRK.md#MRK.13:32",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3391,
+      "raw_match": "[[MRK.13:32]]",
+      "reference_type": "wikilink",
+      "context": "According to [[MRK.13:32]], and in Chrysostom's Matthew text, Jesus declares that the Son"
+    }
+  ]
+}

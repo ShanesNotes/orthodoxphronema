@@ -1,0 +1,30 @@
+{
+  "anchor_id": "1CO.2:8",
+  "canon_uri": "canon/NT/1CO.md#1CO.2:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 135,
+      "raw_match": "[[1CO.2:8]]",
+      "reference_type": "wikilink",
+      "context": "God has in store for creation (see [[1CO.2:8]]). The angels beheld and worshipped Christ in"
+    },
+    {
+      "source_file": "staging/validated/NT/EPH_footnotes.md",
+      "line_number": 79,
+      "raw_match": "[[1CO.2:8]]",
+      "reference_type": "wikilink",
+      "context": "Cross ([[1CO.2:8]]), to the restoration and culmination of all things (v. 10). It is the fullness"
+    },
+    {
+      "source_file": "staging/validated/OT/JOB_footnotes.md",
+      "line_number": 361,
+      "raw_match": "[[1CO.2:8]]",
+      "reference_type": "wikilink",
+      "context": "commentary in [[1CO.2:7]], [[1CO.2:8]] on those who crucified Christ. 18:1-21 St. Gregory sees Bildad's words as being unwittingly directed against the devil. 19:5"
+    }
+  ]
+}

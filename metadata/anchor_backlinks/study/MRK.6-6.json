@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.6:6",
+  "canon_uri": "canon/NT/MRK.md#MRK.6:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1325,
+      "raw_match": "[[MRK.6:6]]",
+      "reference_type": "wikilink",
+      "context": "hometown of Nazareth ([[MRK.6:6]]), and (2) at the belief of this foreigner."
+    }
+  ]
+}

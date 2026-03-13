@@ -1,0 +1,23 @@
+{
+  "anchor_id": "REV.18:2",
+  "canon_uri": "canon/NT/REV.md#REV.18:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/BAR_footnotes.md",
+      "line_number": 190,
+      "raw_match": "[[REV.18:2]]",
+      "reference_type": "wikilink",
+      "context": "See Is 13:19-21; Jer 51:58; [[REV.18:2]]."
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 252,
+      "raw_match": "[[REV.18:2]]",
+      "reference_type": "wikilink",
+      "context": "metaphor for sin. Demons who will dance in the desert present a stark image of hell, the ultimate place of rebellion. (See also 14:23; 34:14; [[REV.18:2]].) The donkey-centaurs, from Greek mythology, are from the waist up a man, from the waist down a horse, and"
+    }
+  ]
+}

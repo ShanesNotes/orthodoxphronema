@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1CO.1:14",
+  "canon_uri": "canon/NT/1CO.md#1CO.1:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/3JN_footnotes.md",
+      "line_number": 15,
+      "raw_match": "[[1CO.1:14]]",
+      "reference_type": "wikilink",
+      "context": "This is probably not the same Gaius mentioned in [[ROM.16:23]] and [[1CO.1:14]], [[1CO.1:15]]."
+    },
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1905,
+      "raw_match": "[[1CO.1:14]]",
+      "reference_type": "wikilink",
+      "context": "16:23 and [[1CO.1:14]]. Aristarchus is a Thessalonian (20:4; [[COL.4:10]])."
+    }
+  ]
+}

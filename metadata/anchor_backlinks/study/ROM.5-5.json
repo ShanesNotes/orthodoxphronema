@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ROM.5:5",
+  "canon_uri": "canon/NT/ROM.md#ROM.5:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 433,
+      "raw_match": "[[ROM.5:3]]-5",
+      "reference_type": "wikilink_range",
+      "context": "See also [[ROM.5:3]]-5."
+    },
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 2733,
+      "raw_match": "[[ROM.5:3]]-5",
+      "reference_type": "wikilink_range",
+      "context": "infinitely greater good that comes from it ([[ROM.5:3]]-5; [[PHP.3:10]])."
+    }
+  ]
+}

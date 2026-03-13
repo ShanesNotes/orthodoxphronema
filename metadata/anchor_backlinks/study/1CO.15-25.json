@@ -1,0 +1,30 @@
+{
+  "anchor_id": "1CO.15:25",
+  "canon_uri": "canon/NT/1CO.md#1CO.15:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 3049,
+      "raw_match": "[[1CO.15:20]]-28",
+      "reference_type": "wikilink_range",
+      "context": "death in order to destroy it ([[1CO.15:20]]-28; see note at [[MAT.27:50]])."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3863,
+      "raw_match": "[[1CO.15:20]]-28",
+      "reference_type": "wikilink_range",
+      "context": "itself ([[1CO.15:20]]-28; see note at [[LUK.23:46]])."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3985,
+      "raw_match": "[[1CO.15:20]]-28",
+      "reference_type": "wikilink_range",
+      "context": "human nature has now trampled the final enemy--death ([[1CO.15:20]]-28)."
+    }
+  ]
+}

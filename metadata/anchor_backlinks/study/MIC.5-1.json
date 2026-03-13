@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MIC.5:1",
+  "canon_uri": "canon/OT/MIC.md#MIC.5:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 131,
+      "raw_match": "[[MIC.5:1]]",
+      "reference_type": "wikilink",
+      "context": "(23:3; Is 9:6; [[MIC.5:1]]), and the true High Priest ([[PSA.109:4]]; [[HEB.4:14]]). In preparation for"
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 363,
+      "raw_match": "[[MIC.5:1]]",
+      "reference_type": "wikilink",
+      "context": "born in Bethlehem, fulfilling the prophecy of Micah ([[MIC.5:1]]). In the hymn by St."
+    }
+  ]
+}

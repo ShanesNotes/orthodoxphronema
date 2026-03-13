@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ROM.10:6",
+  "canon_uri": "canon/NT/ROM.md#ROM.10:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 1081,
+      "raw_match": "[[ROM.10:6]]-8",
+      "reference_type": "wikilink_range",
+      "context": "22). In [[ROM.10:6]]-8, St. Paul refers to vv. 11-14, saying Moses commandment speaks of \"the"
+    }
+  ]
+}

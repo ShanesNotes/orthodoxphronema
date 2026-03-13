@@ -1,0 +1,30 @@
+{
+  "anchor_id": "HEB.13:5",
+  "canon_uri": "canon/NT/HEB.md#HEB.13:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 209,
+      "raw_match": "[[HEB.13:5]]",
+      "reference_type": "wikilink",
+      "context": "also repeated in [[HEB.13:5]]: May He not leave us nor forsake us. 8:64"
+    },
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 1102,
+      "raw_match": "[[HEB.13:5]]",
+      "reference_type": "wikilink",
+      "context": "These words inspired the words in [[HEB.13:5]], [[HEB.13:6]], \"Let your conduct be without"
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 310,
+      "raw_match": "[[HEB.13:5]]",
+      "reference_type": "wikilink",
+      "context": "leave you nor forsake you\" ([[HEB.13:5]]). 10:17-20"
+    }
+  ]
+}

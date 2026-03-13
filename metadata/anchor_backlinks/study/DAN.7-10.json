@@ -1,0 +1,30 @@
+{
+  "anchor_id": "DAN.7:10",
+  "canon_uri": "canon/OT/DAN.md#DAN.7:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 853,
+      "raw_match": "[[DAN.7:10]]",
+      "reference_type": "wikilink",
+      "context": "angels surround Him ([[DAN.7:10]]) as a sea of purity."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2867,
+      "raw_match": "[[DAN.7:10]]",
+      "reference_type": "wikilink",
+      "context": "confronted with their works. The books of judgment ([[DAN.7:10]]) contain a record of"
+    },
+    {
+      "source_file": "staging/validated/OT/MAL_footnotes.md",
+      "line_number": 209,
+      "raw_match": "[[DAN.7:10]]",
+      "reference_type": "wikilink",
+      "context": "name. Their names are in a book of remembrance ([[EXO.32:32]]-34; Is 4:3; [[DAN.7:10]])."
+    }
+  ]
+}

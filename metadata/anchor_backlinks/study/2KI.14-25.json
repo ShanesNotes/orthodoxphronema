@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2KI.14:25",
+  "canon_uri": "canon/OT/2KI.md#2KI.14:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1375,
+      "raw_match": "[[2KI.14:25]]",
+      "reference_type": "wikilink",
+      "context": "of Gath Hepher, which was only three miles from Nazareth ([[2KI.14:25]])."
+    }
+  ]
+}

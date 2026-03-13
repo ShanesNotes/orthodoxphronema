@@ -38,9 +38,9 @@ restoration of the temple (10:3) is joined to that one. Today the feast is calle
 
 or the Feast of Lights. During this feast torches were lit in the temple, and around them
 
-the people sang and danced. It was the feast (see Jn 7:2) at which Jesus stood and said, "I
+the people sang and danced. It was the feast (see [[JOH.7:2]]) at which Jesus stood and said, "I
 
-am the light of the world" (Jn 8:12). The date identified is 124 BC. 
+am the light of the world" ([[JOH.8:12]]). The date identified is 124 BC. 
 
 ### 1:10
 *(anchor: 2MA.1:10)*
@@ -64,7 +64,7 @@ and 1Mc 6:1-4).
 ### 1:18
 *(anchor: 2MA.1:18)*
 
-It is noteworthy that an eighth day was added to this celebration (see Neh 8:13-18). This section of 2 Maccabees is referring to the feast of Hanukkah, which celebrates fire
+It is noteworthy that an eighth day was added to this celebration (see [[NEH.8:13]]-18). This section of 2 Maccabees is referring to the feast of Hanukkah, which celebrates fire
 
 and light (see note at 1:9). 
 
@@ -82,12 +82,12 @@ small amount of oil burned for an extended period.
 
 The prophet Nehemiah was to rebuild the walls of Jerusalem that had been
 
-destroyed by fire (Neh 2:11-18). 
+destroyed by fire ([[NEH.2:11]]-18). 
 
 ### 1:24
 *(anchor: 2MA.1:24)*
 
-This begins the prayer of Nehemiah (1:24-2:18). See also Neh 1:5-11. 
+This begins the prayer of Nehemiah (1:24-2:18). See also [[NEH.1:5]]-11. 
 
 ### 2:1
 *(anchor: 2MA.2:1)*
@@ -108,7 +108,7 @@ when the temple was destroyed in 587 BC.
 ### 2:10
 *(anchor: 2MA.2:10)*
 
-The two incidents are recorded in Lv 9:23, 24 and 2Ch 7:1. 
+The two incidents are recorded in Lv 9:23, 24 and [[2CH.7:1]]. 
 
 ### 2:19-23
 *(anchor: 2MA.2:19)*
@@ -146,7 +146,7 @@ the family of the high priest.
 ### 3:5
 *(anchor: 2MA.3:5)*
 
-Another famous son of Tarsus is the Apostle Paul (Acts 11:25, 26). 
+Another famous son of Tarsus is the Apostle Paul ([[ACT.11:25]], [[ACT.11:26]]). 
 
 ### 3:18
 *(anchor: 2MA.3:18)*
@@ -160,24 +160,24 @@ to an end. The entire city was being pulled into the turmoil.
 
 The people stretched out their hands to pray. Perhaps the earliest account of the
 
-lifting of hands for intercession is in Moses' role in Israel's victory over Amalek (Ex 17:8-
+lifting of hands for intercession is in Moses' role in Israel's victory over Amalek ([[EXO.17:8]]-
 
-13). St. Paul instructs the Church to pray "lifting up holy hands" (1Ti 2:8). 
+13). St. Paul instructs the Church to pray "lifting up holy hands" ([[1TI.2:8]]). 
 
 ### 3:25
 *(anchor: 2MA.3:25)*
 
-The scene calls to mind the rider in Rev 6:2. 
+The scene calls to mind the rider in [[REV.6:2]]. 
 
 ### 3:26
 *(anchor: 2MA.3:26)*
 
-This is reminiscent of the two angels in dazzling apparel in Lk 24:4 and Acts 1:10. 
+This is reminiscent of the two angels in dazzling apparel in [[LUK.24:4]] and [[ACT.1:10]]. 
 
 ### 3:34
 *(anchor: 2MA.3:34)*
 
-The angel in Acts 5:19, 20 gives similar instructions. 
+The angel in [[ACT.5:19]], [[ACT.5:20]] gives similar instructions. 
 
 ### 4:7
 *(anchor: 2MA.4:7)*
@@ -228,7 +228,7 @@ Evil divides. It picks allies only for the moment and is undermined when pride
 
 causes new rifts. Thus, Jesus warns, "Every city or house divided against itself will not
 
-stand" (Mt 12:25). 
+stand" ([[MAT.12:25]]). 
 
 ### 4:33
 *(anchor: 2MA.4:33)*
@@ -249,14 +249,14 @@ Being stripped before being put to death added to the humiliation.
 
 Forty days is a biblical number of completion or fullness. The Flood lasted forty days
 
-and nights (Gn 7:12); Jonah declared Nineveh would be destroyed in forty days (Jon 3:4). 
+and nights ([[GEN.7:12]]); Jonah declared Nineveh would be destroyed in forty days ([[JON.3:4]]). 
 
 ### 5:6
 *(anchor: 2MA.5:6)*
 
 One is reminded of Herod's destruction of the innocent children without mercy at
 
-the time of the birth of Jesus (Mt 2:16-18). 
+the time of the birth of Jesus ([[MAT.2:16]]-18). 
 
 ### 5:11
 *(anchor: 2MA.5:11)*
@@ -301,14 +301,14 @@ Dionysus is the pagan god of wine who rules over a celebration of drunkenness.
 ### 6:11
 *(anchor: 2MA.6:11)*
 
-This is another example of the Jews piously keeping the seventh day, the Sabbath. In the same spirit, Christians are urged to assemble for worship (Heb 10:25). 
+This is another example of the Jews piously keeping the seventh day, the Sabbath. In the same spirit, Christians are urged to assemble for worship ([[HEB.10:25]]). 
 
 ### 6:12-16
 *(anchor: 2MA.6:12)*
 
 This short treatise on divine discipline is very similar to the teaching, "whom the
 
-Lord loves He chastens," in Heb 12:5-11. (See also Is 54:7, 8.)
+Lord loves He chastens," in [[HEB.12:5]]-11. (See also Is 54:7, 8.)
 
 
 ### 6:24-31
@@ -318,7 +318,7 @@ Eleazar is willing to die for God's holy laws (v. 28). This is a mystery to the
 
 pagan-minded, who only see blind fanaticism in the righteous. St. Paul explains why
 
-unbelievers do not understand (1Co 2:14). 
+unbelievers do not understand ([[1CO.2:14]]). 
 
 ### 7:1
 *(anchor: 2MA.7:1)*
@@ -352,7 +352,7 @@ eternal life for those who follow His commandments.
 
 In the Gospel of St. John, Jesus speaks of two paths for the resurrected: eternal life
 
-for those who have done good and condemnation for those who have done evil (Jn 5:29). 
+for those who have done good and condemnation for those who have done evil ([[JOH.5:29]]). 
 
 ### 7:20
 *(anchor: 2MA.7:20)*
@@ -368,7 +368,7 @@ seven brothers bring to mind the fullness of God's mercy and love.
 
 It is the Spirit of God who gives breath and life to all people who come into the
 
-world (see Gn 2:7). 
+world (see [[GEN.2:7]]). 
 
 ### 7:24-31
 *(anchor: 2MA.7:24)*
@@ -382,7 +382,7 @@ martyrs to reject Christ.
 
 That God created the universe out of nothing is a fundamental teaching of the
 
-Holy Scriptures (Gn 1:1; also see Heb 11:3). 
+Holy Scriptures ([[GEN.1:1]]; also see [[HEB.11:3]]). 
 
 ### 7:29
 *(anchor: 2MA.7:29)*
@@ -436,14 +436,14 @@ seen as making himself equal to God (see 9:12).
 ### 9:9
 *(anchor: 2MA.9:9)*
 
-Note that Herod was inflicted with a similar condition (Acts 12:23). 
+Note that Herod was inflicted with a similar condition ([[ACT.12:23]]). 
 
 ### 9:11-18
 *(anchor: 2MA.9:11)*
 
 Antiochus' repentance is a classic case of too little too late. "It is a fearful thing to
 
-fall into the hands of the living God" (Heb 10:31). 
+fall into the hands of the living God" ([[HEB.10:31]]). 
 
 ### 10:5
 *(anchor: 2MA.10:5)*
@@ -466,7 +466,7 @@ branches.
 ### 10:7
 *(anchor: 2MA.10:7)*
 
-The scene is reminiscent of Palm Sunday (Jn 12:13). 
+The scene is reminiscent of Palm Sunday ([[JOH.12:13]]). 
 
 ### 10:10
 *(anchor: 2MA.10:10)*
@@ -478,7 +478,7 @@ for only two years before being murdered (see 14:1, 2; 1Mc 7:34).
 ### 10:29
 *(anchor: 2MA.10:29)*
 
-See Rev 9:17. 
+See [[REV.9:17]]. 
 
 ### 10:38
 *(anchor: 2MA.10:38)*
@@ -522,7 +522,7 @@ Jamnia is just south of Joppa.
 ### 12:15
 *(anchor: 2MA.12:15)*
 
-See Jos 6:1-21. 
+See [[JOS.6:1]]-21. 
 
 ### 12:22
 *(anchor: 2MA.12:22)*
@@ -574,7 +574,7 @@ had sinned.
 ### 13:4
 *(anchor: 2MA.13:4)*
 
-The King of kings is the Eternal Son and Word of God ( see Rev 19:13, 16). 
+The King of kings is the Eternal Son and Word of God ( see [[REV.19:13]], [[REV.19:16]]). 
 
 ### 13:12
 *(anchor: 2MA.13:12)*
@@ -597,7 +597,7 @@ This is about the year 161 BC. The invaders kill both Antiochus and Lysias (see 
 
 By offering the crown of gold Alcimus concedes that Demetrius is the new king, and the palm branch is an emblem of his victory. Our Lord is offered palm branches in
 
-Jerusalem emblematic of His Kingship (Jn 12:13). 
+Jerusalem emblematic of His Kingship ([[JOH.12:13]]). 
 
 ### 14:6-10
 *(anchor: 2MA.14:6)*
@@ -611,7 +611,7 @@ attempts to destroy Judas Maccabeus as Judas Iscariot betrays Jesus.
 
 Sprinkling earth on the head is a sign of humility and a recognition of God the
 
-Creator (see Gn 3:19 and also Jos 7:6). 
+Creator (see [[GEN.3:19]] and also [[JOS.7:6]]). 
 
 ### 14:33
 *(anchor: 2MA.14:33)*
@@ -635,7 +635,7 @@ Nicanor was aware the Jews would not fight on the Sabbath.
 
 These Jews were conscripted into Nicanor's army and wished to keep the Sabbath
 
-(see Ex 20:8-11). 
+(see [[EXO.20:8]]-11). 
 
 ### 15:12
 *(anchor: 2MA.15:12)*
@@ -649,7 +649,7 @@ The Jews believed departed saints like Jeremiah were alive before the general
 
 resurrection. This is clearly revealed in the New Testament when Moses and Elijah
 
-appear with Christ on Mt. Tabor (Mt 17:1-4). 
+appear with Christ on Mt. Tabor ([[MAT.17:1]]-4). 
 
 ### 15:18
 *(anchor: 2MA.15:18)*
@@ -659,7 +659,7 @@ The Jews' main concern is to protect the temple (see 14:33).
 ### 15:22
 *(anchor: 2MA.15:22)*
 
-See 4Kg 19:35. 
+See [[2KI.19:35]]. 
 
 ### 15:26
 *(anchor: 2MA.15:26)*

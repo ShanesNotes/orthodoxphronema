@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ACT.4:29",
+  "canon_uri": "canon/NT/ACT.md#ACT.4:29",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TH_footnotes.md",
+      "line_number": 89,
+      "raw_match": "[[ACT.4:29]]-31",
+      "reference_type": "wikilink_range",
+      "context": "others (see [[ACT.4:29]]-31; [[ROM.1:16]])."
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 829,
+      "raw_match": "[[ACT.4:29]]",
+      "reference_type": "wikilink",
+      "context": "pattern holds true in the Church ([[ACT.4:29]], [[ACT.4:30]])."
+    }
+  ]
+}

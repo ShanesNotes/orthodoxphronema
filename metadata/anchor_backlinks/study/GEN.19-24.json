@@ -1,0 +1,30 @@
+{
+  "anchor_id": "GEN.19:24",
+  "canon_uri": "canon/OT/GEN.md#GEN.19:24",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 71,
+      "raw_match": "[[GEN.19:1]]-29",
+      "reference_type": "wikilink_range",
+      "context": "of their sin of immorality and homosexuality ([[GEN.19:1]]-29). The lesson for Christians is to"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2031,
+      "raw_match": "[[GEN.19:24]]",
+      "reference_type": "wikilink",
+      "context": "brimstone (the fate of Sodom and Gomorrah, [[GEN.19:24]]) reserved for Satan, the beast,"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2837,
+      "raw_match": "[[GEN.19:24]]",
+      "reference_type": "wikilink",
+      "context": "persecutors ([[2KI.1:10]]-12), so here God sends a consuming fire (see [[GEN.19:24]]; 3Kg 18:38;"
+    }
+  ]
+}

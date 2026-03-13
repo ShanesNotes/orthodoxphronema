@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JOH.10:1",
+  "canon_uri": "canon/NT/JOH.md#JOH.10:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 551,
+      "raw_match": "[[JOH.10:1]]",
+      "reference_type": "wikilink",
+      "context": "signifying Christ ([[JOH.10:1]], [[JOH.10:2]]), the preachers of truth ([[REV.21:21]]), the Scriptures, and the"
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 439,
+      "raw_match": "[[JOH.10:1]]-5",
+      "reference_type": "wikilink_range",
+      "context": "4-6). In speaking about the Lord, the Church (the sheep; see also [[JOH.10:1]]-5) identifies"
+    }
+  ]
+}

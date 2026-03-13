@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DAN.8:8",
+  "canon_uri": "canon/OT/DAN.md#DAN.8:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1143,
+      "raw_match": "[[DAN.8:8]]",
+      "reference_type": "wikilink",
+      "context": "literature ([[JER.25:16]]; [[ZEC.2:10]]; [[DAN.8:8]]; [[MRK.13:27]]; see also 1En 76:1-4). They are"
+    }
+  ]
+}

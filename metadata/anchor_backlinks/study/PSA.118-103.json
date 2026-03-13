@@ -1,0 +1,23 @@
+{
+  "anchor_id": "PSA.118:103",
+  "canon_uri": "canon/OT/PSA.md#PSA.118:103",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1487,
+      "raw_match": "[[PSA.118:103]]",
+      "reference_type": "wikilink",
+      "context": "commissioning of Ezekiel (Ezk 2:8-3:3; see also [[PSA.118:103]]). The contrast between"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 196,
+      "raw_match": "[[PSA.118:103]]",
+      "reference_type": "wikilink",
+      "context": "to those who thirst for the living Word ([[PSA.118:103]])."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "HEB.11:24",
+  "canon_uri": "canon/NT/HEB.md#HEB.11:24",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 102,
+      "raw_match": "[[HEB.11:24]]-26",
+      "reference_type": "wikilink_range",
+      "context": "([[HEB.11:24]]-26)."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "anchor_id": "1CO.3:9",
+  "canon_uri": "canon/NT/1CO.md#1CO.3:9",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/TIT_footnotes.md",
+      "line_number": 35,
+      "raw_match": "[[1CO.3:6]]-10",
+      "reference_type": "wikilink_range",
+      "context": "When Paul evangelized an area, he did not leave it unattended ([[1CO.3:6]]-10; [[COL.1:7]])."
+    },
+    {
+      "source_file": "staging/validated/OT/EZR_footnotes.md",
+      "line_number": 105,
+      "raw_match": "[[1CO.3:9]]-17",
+      "reference_type": "wikilink_range",
+      "context": "the Church ([[MAT.21:42]]; [[1CO.3:9]]-17; [[EPH.2:19]]-22)."
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 128,
+      "raw_match": "[[1CO.3:9]]",
+      "reference_type": "wikilink",
+      "context": "God's fellow workers\" ([[1CO.3:9]]). Oil added to the flour typifies the work of the Holy Spirit. Christ offered Himself to the"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 232,
+      "raw_match": "[[1CO.3:9]]",
+      "reference_type": "wikilink",
+      "context": "\"God's field\" ([[1CO.3:9]])."
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 522,
+      "raw_match": "[[1CO.3:9]]",
+      "reference_type": "wikilink",
+      "context": "fellow workers\" (see text and notes, [[1CO.3:9]])."
+    }
+  ]
+}

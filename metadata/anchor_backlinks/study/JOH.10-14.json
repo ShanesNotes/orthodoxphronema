@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JOH.10:14",
+  "canon_uri": "canon/NT/JOH.md#JOH.10:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 2021,
+      "raw_match": "[[JOH.10:14]]",
+      "reference_type": "wikilink",
+      "context": "own brethren ([[JOH.10:4]], [[JOH.10:14]]; [[HEB.2:11]])."
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 824,
+      "raw_match": "[[JOH.10:14]]",
+      "reference_type": "wikilink",
+      "context": "am the good shepherd; and I know my sheep, and am known by My own\" ([[JOH.10:14]])."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 441,
+      "raw_match": "[[JOH.10:14]]",
+      "reference_type": "wikilink",
+      "context": "Him as my shepherd (v. 1; see also [[JOH.10:14]]), thus indicating a close relationship with"
+    }
+  ]
+}

@@ -42,7 +42,7 @@ Such a translation is unsupportable, false, dishonest, and deceptive.
 ### 1:3
 *(anchor: JOH.1:3)*
 
-The Word is the co-Creator with the Father and the Holy Spirit (Gn 1; Ps 32:6, 9; Heb
+The Word is the co-Creator with the Father and the Holy Spirit (Gn 1; [[PSA.32:6]], [[PSA.32:9]]; Heb
 
 1:2) and not merely an instrument or servant used by the Father. Will, operation, and
 
@@ -62,13 +62,13 @@ with the Father and the Holy Spirit. The life was the light of men: John now
 
 introduces mankind as receiver of the divine light. By participating in the life of the Son,
 
-believers themselves become children of the light (12:36; Eph 5:8; 1Th 5:5). Moses saw
+believers themselves become children of the light (12:36; [[EPH.5:8]]; [[1TH.5:5]]). Moses saw
 
-the divine light in the burning bush (Ex 3:2); the whole nation saw it at the Red Sea (Ex
+the divine light in the burning bush ([[EXO.3:2]]); the whole nation saw it at the Red Sea (Ex
 
 13:21); Isaiah saw it in his heavenly vision (Is 6:1-5); and three apostles saw it at the
 
-Transfiguration (Mt 17:1-5).
+Transfiguration ([[MAT.17:1]]-5).
 
 
 ### 1:5
@@ -110,7 +110,7 @@ heavenly Spirit."
 
 Right also means "authority" and indicates a gift from God, not an inalienable right.
 
-Those who receive Christ become children of God by adoption (Gal 4:4-7) and by grace
+Those who receive Christ become children of God by adoption ([[GAL.4:4]]-7) and by grace
 
 inherit everything Christ is by nature (see the article "Deification" at 2 Peter). To believe
 
@@ -130,7 +130,7 @@ by man's own decision (the will of man). Becoming a child of God is a spiritual 
 
 grace, through faith, and in the Holy Spirit. This is accomplished and manifested in the
 
-sacrament of Holy Baptism (3:5-8; see Tts 3:4-7).
+sacrament of Holy Baptism (3:5-8; see [[TIT.3:4]]-7).
 
 
 ### 1:14
@@ -198,13 +198,13 @@ overabundance of grace.
 
 No one has seen God at any time: No one can see the nature, or essence, of God,
 
-for to see God is to die (Ex 33:20). Only One who is Himself divine can see God, and thus
+for to see God is to die ([[EXO.33:20]]). Only One who is Himself divine can see God, and thus
 
 the Son is the only One who can declare Him. This revelation of God's energies can be
 
-received by the faithful. Moses saw the "back" of God (Ex 33:21-23); Isaiah saw His glory
+received by the faithful. Moses saw the "back" of God ([[EXO.33:21]]-23); Isaiah saw His glory
 
-(see Is 6:1; John 12:41).
+(see Is 6:1; [[JOH.12:41]]).
 
 
 ### 1:19-12
@@ -218,13 +218,13 @@ the first apostles (1:35-51); Christ's first sign at Cana (2:1-11); and His rest
 
 Capernaum (2:12). Just as John began his Gospel similarly to the opening of Genesis ("In
 
-the beginning"--v. 1; see Gn 1:1), so he parallels Genesis in this opening account, which
+the beginning"--v. 1; see [[GEN.1:1]]), so he parallels Genesis in this opening account, which
 
 covers seven consecutive days.
 
 (1) The first day (1:19-28)--John the Baptist bears witness to the Light--the Christ--
 
-in the presence of the Jews. This parallels the creation of light on the first day in Gn 1:3-
+in the presence of the Jews. This parallels the creation of light on the first day in [[GEN.1:3]]-
 
 5.
 
@@ -234,15 +234,15 @@ the Holy Spirit, which is greater than his own baptism of repentance, performed 
 
 water on earth. This parallels the separation of water above from the water below on the
 
-second day in Gn 1:6-8.
+second day in [[GEN.1:6]]-8.
 
 (3) The third day (1:35-42)--John the Baptist sends two disciples to Christ whom
 
 Christ gathers to be His own, one of whom He declares to be the foundation of the
 
-Church (v. 42; see Mt 16:18). This parallels the gathering of the waters and the
+Church (v. 42; see [[MAT.16:18]]). This parallels the gathering of the waters and the
 
-establishment of growth on the land on the third day in Gn 1:9-13.
+establishment of growth on the land on the third day in [[GEN.1:9]]-13.
 
 (4) The fourth day (1:43-51)--Jesus calls Philip and Nathanael, who see Christ as
 
@@ -250,7 +250,7 @@ the true Light, the One who was revealed in the OT, a lesser light. This paralle
 
 establishment of the lesser and greater lights governing the night and the day respectively
 
-on the fourth day in Gn 1:14-19.
+on the fourth day in [[GEN.1:14]]-19.
 
 (5) The sixth day (2:1-11)--John does not include the events of the fifth day, but jumps
 
@@ -258,11 +258,11 @@ to the sixth. The phrase on the third day is an expression meaning "two days lat
 
 it includes the current day in the calculation (see 2:1 and note). On this sixth day, the
 
-wedding in Cana occurs, which parallels the creation of man and woman in Gn 1:26-31.
+wedding in Cana occurs, which parallels the creation of man and woman in [[GEN.1:26]]-31.
 
 (6) The seventh day (2:12)--Jesus rests at Capernaum with His mother, His
 
-brothers, and His disciples, which parallels God resting on the seventh day in Gn 2:1-
+brothers, and His disciples, which parallels God resting on the seventh day in [[GEN.2:1]]-
 
 3.
 
@@ -272,13 +272,13 @@ brothers, and His disciples, which parallels God resting on the seventh day in G
 
 John the Baptist is a prophet but not the Prophet, the Messiah, whose coming
 
-Moses foretold (Dt 18:15-19).
+Moses foretold ([[DEU.18:15]]-19).
 
 
 ### 1:26
 *(anchor: JOH.1:26)*
 
-On John's baptism, see notes at Lk 3:3 and 3:16, 17.
+On John's baptism, see notes at [[LUK.3:3]] and 3:16, 17.
 
 
 ### 1:29
@@ -288,7 +288,7 @@ John's declaring Jesus as the Lamb of God recalls Isaiah's "Servant of God" who
 
 dies for the transgressions of His people (Is 53:4-12). Christ, the true Paschal (Passover)
 
-Lamb, offers Himself for our deliverance from darkness and death (1Pt 1:18, 19). St. John
+Lamb, offers Himself for our deliverance from darkness and death ([[1PE.1:18]], [[1PE.1:19]]). St. John
 
 Chrysostom teaches that Jesus came to John this second time in order for John to make
 
@@ -320,7 +320,7 @@ Andrew (v. 40); Simon, who was also known as Peter, or Cephas (vv. 41, 42); Phil
 
 disciple (vv. 35-40), who some Fathers say was John, the author of this Gospel. It was a
 
-common literary device for a writer not to give his own name (see Lk 24:13).
+common literary device for a writer not to give his own name (see [[LUK.24:13]]).
 
 
 ### 1:47
@@ -350,9 +350,9 @@ The title Son of Man is a title of the Messiah that had a level of mystery in it
 
 meaning, indicating a man of heavenly origin who would usher in the Kingdom of God
 
-(Dan 7:13, 14). In an OT prophecy, Jacob dreamed of a ladder connecting earth to heaven,
+([[DAN.7:13]], [[DAN.7:14]]). In an OT prophecy, Jacob dreamed of a ladder connecting earth to heaven,
 
-upon which the angels of God were ascending and descending (Gn 28:12-15).
+upon which the angels of God were ascending and descending ([[GEN.28:12]]-15).
 
 Jesus is this "ladder" who unites earth to heaven, and therefore is this Son of Man.
 
@@ -396,7 +396,7 @@ Resurrection.
 
 By His presence at this wedding, Jesus further declares marriage to be holy and
 
-honorable (Heb 13:4); therefore, this passage is read at Orthodox weddings, and these
+honorable ([[HEB.13:4]]); therefore, this passage is read at Orthodox weddings, and these
 
 images are incorporated into many prayers in the wedding service.
 
@@ -422,7 +422,7 @@ faithful people.
 
 Contrary to certain modern usages, Woman is a sacred title in Scripture, an address
 
-conveying deep respect and distinction (4:21; 8:10; 19:26; 20:13; compare to Gn 2:23).
+conveying deep respect and distinction (4:21; 8:10; 19:26; 20:13; compare to [[GEN.2:23]]).
 
 What does your concern have to do with Me? is more literally, "What is that to Me
 
@@ -436,9 +436,9 @@ them. (2) The wedding party needed to be aware of their lack of wine first so th
 
 might learn that it is Christ who fulfills all needs. (3) We need to have perseverance in
 
-our petitions before God (Mt 15:21-28). (4) The intercessions of the righteous have great
+our petitions before God ([[MAT.15:21]]-28). (4) The intercessions of the righteous have great
 
-power (Jam 5:16).
+power ([[JAS.5:16]]).
 
 
 ### 2:6
@@ -474,7 +474,7 @@ Since Jesus is not a Levitical priest, His authority to cleanse the temple is
 
 challenged. The term Jews in John's Gospel often refers specifically to the leaders; in
 
-this case, it refers to the chief priests and the elders (see Mt 21:23). As Christ is careful
+this case, it refers to the chief priests and the elders (see [[MAT.21:23]]). As Christ is careful
 
 not to reveal Himself to scoffers, He answers in a hidden way: the ultimate sign will be
 
@@ -512,7 +512,7 @@ Born again: The word again can also be translated "from above" and clearly refer
 
 the heavenly birth from God through faith in Christ (1:12, 13). This heavenly birth is
 
-baptism (v. 5) and our adoption by God as our Father (Gal 4:4-7). This new birth is but
+baptism (v. 5) and our adoption by God as our Father ([[GAL.4:4]]-7). This new birth is but
 
 the beginning of our spiritual life, with its goal being entrance into the kingdom of
 
@@ -574,7 +574,7 @@ begin to understand things that pertain to God Himself.
 
 Moses lifted up an image of a serpent to cure the Israelites from deadly bites of
 
-poisonous snakes (Nm 21:4-9). This miracle-working image prefigured Christ being lifted
+poisonous snakes ([[NUM.21:4]]-9). This miracle-working image prefigured Christ being lifted
 
 up on the Cross. As believers behold the crucified Christ in faith, the power of sin and
 
@@ -654,7 +654,7 @@ John echoes the teaching of Christ Himself (v. 18). Note the absence of the word
 
 for salvation; the directions for living that are given in many places in the Gospels show
 
-this" (JohnChr). See also Jam 2:14-24.
+this" (JohnChr). See also [[JAS.2:14]]-24.
 
 
 ### 4:4
@@ -668,7 +668,7 @@ The OT does not mention Jacob's well, though Jacob did dwell in the area (Gn
 
 33:19). Wells were significant because of their rarity and their value in desert life.
 
-Therefore, wells came to symbolize life itself (Ps 35:9, 10; 45:4; Is 55:1). This particular
+Therefore, wells came to symbolize life itself ([[PSA.35:9]], [[PSA.35:10]]; 45:4; Is 55:1). This particular
 
 well is maintained as a shrine to this day, and pilgrims can drink from it. Jesus is
 
@@ -704,7 +704,7 @@ is so abundant it overflows to others. The woman misunderstands Christ and asks,
 
 You greater than our father Jacob?" In the Scriptures, Jacob is a type of Christ, for
 
-he received the vision of the divine ladder (Gn 28:12), which Christ fulfills. Furthermore,
+he received the vision of the divine ladder ([[GEN.28:12]]), which Christ fulfills. Furthermore,
 
 just as Jacob gave this well for earthly life, now Christ gives the well of the Holy Spirit for
 
@@ -720,7 +720,7 @@ knew of her string of husbands, the woman perceives He is a prophet. As the Sama
 
 did not accept any prophets after Moses, the only prophet they expected was the Messiah
 
-whom Moses foretold (Dt 18:15-18). Christ's insight into people's hearts, reported many
+whom Moses foretold ([[DEU.18:15]]-18). Christ's insight into people's hearts, reported many
 
 times in the Gospels, underscores His divine nature.
 
@@ -768,7 +768,7 @@ to you." "I AM" is the divine Name of God; its use indicates a theophany, or rev
 
 God Himself. The use of this Name by a mere man was considered blasphemy and
 
-punishable by death (see 8:58; Mk 14:62). However, as Jesus is divine, His use of this
+punishable by death (see 8:58; [[MRK.14:62]]). However, as Jesus is divine, His use of this
 
 Name reveals His unity with the Father and the Holy Spirit; indeed, He is God Incarnate.
 
@@ -782,7 +782,7 @@ speaking with an unaccompanied woman, which was potentially scandalous. For furt
 
 instances of the Lord's dealings with women, see 7:53-8:11; 11:20-33; 20:11-18 (see also
 
-Lk 8:1-3).
+[[LUK.8:1]]-3).
 
 
 ### 4:28-30
@@ -810,7 +810,7 @@ Messiah by doing the will of the Father; therefore this is His food. This also t
 
 we are to perform the will of God in our lives without being distracted by earthly cares
 
-(6:27; see also Mt 4:4; 6:25-33).
+(6:27; see also [[MAT.4:4]]; 6:25-33).
 
 
 ### 4:35
@@ -878,7 +878,7 @@ now demonstrates He can heal from a distance, showing His divine power knows no
 
 earthly limits. While there are certain similarities between this sign and the miracle
 
-recorded in Mt 8:5-13, there are many crucial differences; these are clearly two different
+recorded in [[MAT.8:5]]-13, there are many crucial differences; these are clearly two different
 
 encounters.
 
@@ -946,7 +946,7 @@ animal sacrifices of the temple, since the animals were washed in the same water
 
 grace was limited to the first person to enter. Under the new covenant, baptism is given
 
-to all nations as a direct participation in Christ's own sacrificial death (Rom 6:3-6)
+to all nations as a direct participation in Christ's own sacrificial death ([[ROM.6:3]]-6)
 
 without the mediation of angels. Baptism thus grants healing of the soul and the promise
 
@@ -982,11 +982,11 @@ responsibility for their lives, or to continue exciting the pity of others.
 
 Although the Law itself does not specifically forbid the carrying of burdens on the
 
-Sabbath, this is prohibited in Jer 17:23 and explicitly forbidden in rabbinical teachings.
+Sabbath, this is prohibited in [[JER.17:23]] and explicitly forbidden in rabbinical teachings.
 
 That Christ is Lord over the Sabbath is made clear by His command (v. 8) and by the
 
-man's obedience (v. 9; see also Mt 12:1-8 and notes). As is often the case in John's
+man's obedience (v. 9; see also [[MAT.12:1]]-8 and notes). As is often the case in John's
 
 Gospel, the term Jews here refers to the leaders and not to the people in general (see
 
@@ -1088,7 +1088,7 @@ How could Christ's witness ever be untrue? It cannot (see 8:14). Rather, Jesus i
 
 anticipating the argument and speaking the thoughts of the Jewish leaders (he does the
 
-same thing in Lk 4:23). In Jewish tradition, a valid testimony requires two witnesses (Dt
+same thing in [[LUK.4:23]]). In Jewish tradition, a valid testimony requires two witnesses (Dt
 
 17:6). Jesus offers four witnesses to confirm His identity as Messiah and as Son of God:
 
@@ -1116,7 +1116,7 @@ place at Passover (v. 4).
 
 (2) In the Exodus, the Jews were said to eat unleavened bread because they were
 
-hastily driven out of Egypt and had brought no provisions for themselves (Ex 12:39).
+hastily driven out of Egypt and had brought no provisions for themselves ([[EXO.12:39]]).
 
 Here, Jesus feeds the multitudes with earthly bread because they had brought no
 
@@ -1124,13 +1124,13 @@ provisions, having rushed out to see Him (vv. 2-14).
 
 (3) In the Exodus, Moses leads the people across the Red Sea, walking on dry ground in
 
-the midst of the water (Ex 14:15-31). Here, Christ sends His disciples across the sea (v.
+the midst of the water ([[EXO.14:15]]-31). Here, Christ sends His disciples across the sea (v.
 
 17) and then walks on the sea (v. 19) as if it were dry ground.
 
 (4) In the Exodus, God fed His people manna and gave them drink from a miraculous
 
-water source (Ex 16:1-17:7). Here, Christ declares Himself to be the true food and drink,
+water source ([[EXO.16:1]]-17:7). Here, Christ declares Himself to be the true food and drink,
 
 the true bread that has come down from heaven (vv. 48-58).
 
@@ -1152,7 +1152,7 @@ understanding Him (14:8-10). Two hundred denarii corresponds to over six months'
 
 wages for a laborer. Andrew has greater faith than Philip: knowing the prophet Elisha
 
-had multiplied bread for 100 men (4Kg 4:42-44), he offers the food brought by a certain
+had multiplied bread for 100 men ([[2KI.4:42]]-44), he offers the food brought by a certain
 
 lad. Nevertheless, Andrew is still weak in faith, questioning what a mere five loaves
 
@@ -1178,7 +1178,7 @@ This is the fifth sign recorded by John (see note at 2:1-11). On the parallel
 
 between this sign and Israel's crossing of the Red Sea, see note on 6:1-71. See also note at
 
-Mt 14:27.
+[[MAT.14:27]].
 
 
 ### 6:53-56
@@ -1236,7 +1236,7 @@ drawing water from the pool of Siloam to be mixed with wine and poured at the fo
 
 the altar, both as a purification and in remembrance of the water flowing from the rock
 
-that Moses struck (Ex 17:1-7). It further included the lighting of great lamps in the outer
+that Moses struck ([[EXO.17:1]]-7). It further included the lighting of great lamps in the outer
 
 court of the temple (see notes for vv. 37-39; 8:12; see also 2Mc 10:5-9).
 
@@ -1274,7 +1274,7 @@ sense and in a divine sense. Humanly speaking, they think of Jesus as being from
 
 Nazareth of Galilee; they are not aware that He was actually born in Bethlehem (v. 42; see
 
-Lk 2:1-7). Beyond this, they cannot comprehend that He has come from the Father in
+[[LUK.2:1]]-7). Beyond this, they cannot comprehend that He has come from the Father in
 
 Heaven, eternally begotten before all ages, and thus His divine "origin" remains unknown
 
@@ -1328,7 +1328,7 @@ accompanies this gift.
 
 The Prophet refers to the expected Messiah, the Savior Moses foretold would come
 
-(Dt 18:15-19).
+([[DEU.18:15]]-19).
 
 
 ### 7:41-43
@@ -1366,13 +1366,13 @@ for 3:1, 2). Yet his defense of Christ was still based on our law and was not ye
 
 profession of faith (see 19:38, 39). According to the law, Jesus must be given a hearing
 
-before He can be judged (Ex 23:1; Dt 1:15-17).
+before He can be judged ([[EXO.23:1]]; [[DEU.1:15]]-17).
 
 No prophet has arisen out of Galilee: The Pharisees show their blind hatred and
 
 their ignorance of the Scriptures, for the prophet Jonah came from Galilee, from the town
 
-of Gath Hepher, which was only three miles from Nazareth (4Kg 14:25).
+of Gath Hepher, which was only three miles from Nazareth ([[2KI.14:25]]).
 
 
 ### 7:53-11
@@ -1416,9 +1416,9 @@ had themselves committed adultery.
 
 Christ's answer confounds the Pharisees, for He upholds a great principle of the
 
-Law--that the wages of sin is death (Gn 2:17; Rom 6:23)--without neglecting its greater
+Law--that the wages of sin is death ([[GEN.2:17]]; [[ROM.6:23]])--without neglecting its greater
 
-aspect of mercy (Dt 13:17; Ps 116:2-117:4; Hos 6:6). This mercy is offered freely to all
+aspect of mercy ([[DEU.13:17]]; Ps 116:2-117:4; [[HOS.6:6]]). This mercy is offered freely to all
 
 repentant sinners. In order for us to receive this gift, we must in turn flee from sin (v. 11).
 
@@ -1432,9 +1432,9 @@ lamps being lit at the conclusion of the Feast of Tabernacles (see note at 7:2).
 
 declares Himself to be the fulfillment and the divine object of all celebrations of light. In
 
-the Scriptures, God the Father Himself is light (1:4-9; 1Jn 1:5), an attribute He bestows
+the Scriptures, God the Father Himself is light (1:4-9; [[1JN.1:5]]), an attribute He bestows
 
-on His followers (Mt 5:14; Php 2:15). Our Lord confirms His claim by performing the
+on His followers ([[MAT.5:14]]; [[PHP.2:15]]). Our Lord confirms His claim by performing the
 
 great sign of opening the eyes of a man born blind (9:1-7; see especially 9:5).
 
@@ -1486,7 +1486,7 @@ freedom from the bondage of sin and death.
 
 To be a child of Abraham, it is not enough to be simply related by blood; rather,
 
-Abraham's true children share his faith and virtue (Lk 3:8). St. John Chrysostom
+Abraham's true children share his faith and virtue ([[LUK.3:8]]). St. John Chrysostom
 
 teaches that our Lord wanted to detach the Jews from racial pride and to teach them no
 
@@ -1530,7 +1530,7 @@ insult (see also 9:34).
 
 I AM (Gr. ego eimi) is the divine Name of God in the OT, first revealed to Moses at
 
-the burning bush (Ex 3:13-15). To the Jews, this was a direct, explicit, and unmistakable
+the burning bush ([[EXO.3:13]]-15). To the Jews, this was a direct, explicit, and unmistakable
 
 claim to perfect equality with God, as evidenced by their reaction (v. 59; see also Mk
 
@@ -1566,7 +1566,7 @@ The Savior rejects the assumption (common in the ancient world) that all trouble
 
 maladies are necessarily the consequence of personal sin or even the sins of one's
 
-parents (see Ex 20:5; Dt 5:9; contrast Ezk 18:19-21). Though suffering can be the direct
+parents (see [[EXO.20:5]]; [[DEU.5:9]]; contrast [[EZK.18:19]]-21). Though suffering can be the direct
 
 result of personal sin, this is certainly not always the case (see note at 5:14). In this
 
@@ -1600,7 +1600,7 @@ the light of the world (see 8:12 and note).
 
 St. Irenaeus sees in this mixture of clay and saliva a type of the creation of humanity
 
-from the earth (Gn 2:7). Christ reveals His divinity by restoring part of creation using the
+from the earth ([[GEN.2:7]]). Christ reveals His divinity by restoring part of creation using the
 
 same material with which He created humanity in the beginning.
 
@@ -1684,7 +1684,7 @@ The unprecedented nature of opening the eyes of one who was born blind is a
 
 confirmation of Christ's divinity. This was one of the signs of the coming Messiah (Is
 
-35:5; 42:7) and a prerogative belonging solely to God (Ps 145:8).
+35:5; 42:7) and a prerogative belonging solely to God ([[PSA.145:8]]).
 
 
 ### 9:39-41
@@ -1736,7 +1736,7 @@ Church strive to know their people by name, that is, personally. These pastors e
 
 to understand each person's situation and needs, from the greatest to the least,
 
-possessing Christlike compassion for each one (Heb 4:15). In return, the people will
+possessing Christlike compassion for each one ([[HEB.4:15]]). In return, the people will
 
 respond to a true leader, trusting he is a follower of Christ. "Where the bishop is present,
 
@@ -1752,7 +1752,7 @@ The phrase all who ever came before Me does not refer to Moses or genuine
 
 prophets, but to people claiming to be the Messiah both before and after Christ, such as
 
-Judas of Galilee and Theudas (Acts 5:36, 37).
+Judas of Galilee and Theudas ([[ACT.5:36]], [[ACT.5:37]]).
 
 
 ### 10:10
@@ -1870,7 +1870,7 @@ and thus accuse Him of blasphemy.
 
 You are gods: People who receive God's grace in faith will partake of His divine
 
-nature (2Pt 1:4) and can rightly be called gods (see article "Deification" at 2 Peter). Christ
+nature ([[2PE.1:4]]) and can rightly be called gods (see article "Deification" at 2 Peter). Christ
 
 is effectively saying, "If those who have received this honor by grace are not guilty for
 
@@ -1884,7 +1884,7 @@ calling themselves gods, how can He who has this by nature deserve to be rebuked
 
 Because Christ is going to His Passion voluntarily and according to His own will (vv.
 
-17, 18), His accusers cannot arrest Him until He is ready (7:30; 8:20; see Lk 4:28-30).
+17, 18), His accusers cannot arrest Him until He is ready (7:30; 8:20; see [[LUK.4:28]]-30).
 
 
 ### 11:1-45
@@ -1934,7 +1934,7 @@ See 10:29-39.
 ### 11:11
 *(anchor: JOH.11:11)*
 
-Sleeps: Compare to Acts 7:60; 1Co 11:30; 15:6.
+Sleeps: Compare to [[ACT.7:60]]; [[1CO.11:30]]; 15:6.
 
 
 ### 11:16
@@ -1944,7 +1944,7 @@ Thomas's statement is an unwitting prophecy of his own future martyrdom. It also
 
 illustrates the path that all believers must take--that we die daily to the world for the
 
-sake of following Christ (Lk 9:23, 24).
+sake of following Christ ([[LUK.9:23]], [[LUK.9:24]]).
 
 
 ### 11:17
@@ -1966,13 +1966,13 @@ days; lamentation lasted one week; and general mourning lasted 30 days.
 ### 11:20
 *(anchor: JOH.11:20)*
 
-Not unlike the incident of Lk 10:38-42, the two sisters react differently to Christ's
+Not unlike the incident of [[LUK.10:38]]-42, the two sisters react differently to Christ's
 
 arrival. Martha, being inclined to active service, rushes out to meet Jesus, while Mary
 
 remains in mourning until called by Christ (vv. 28, 29). Sitting was the traditional
 
-posture when mourning and receiving other mourners (Job 2:8, 13; Ezk 8:14).
+posture when mourning and receiving other mourners ([[JOB.2:8]], [[JOB.2:13]]; [[EZK.8:14]]).
 
 
 ### 11:21-22
@@ -2078,7 +2078,7 @@ words of the hymn for the day, it also "confirmed the universal resurrection," p
 
 Christ has the power to fulfill the promise given to Ezekiel that all the dead will one day
 
-rise (Ezk 37:1-13).
+rise ([[EZK.37:1]]-13).
 
 
 ### 11:49-52
@@ -2100,7 +2100,7 @@ the death of the Son.
 
 Because Jesus is the Lamb of God (1:29), the connection between the Passover,
 
-when lambs were slaughtered to save the Jews from death (Ex 12:1-13), and the death of
+when lambs were slaughtered to save the Jews from death ([[EXO.12:1]]-13), and the death of
 
 Jesus, which saves mankind from sin and death, is continually emphasized.
 
@@ -2122,23 +2122,23 @@ through His death and Resurrection (see note at 1:14).
 
 The other disciples said the same thing Judas said (v. 5), but with a very different
 
-motive (see Mt 26:6-13 and note). Judas spoke from greed, while the others spoke from
+motive (see [[MAT.26:6]]-13 and note). Judas spoke from greed, while the others spoke from
 
 the virtue of charity. That Jesus put a thief in charge of the money shows that by every
 
 means He attempted to save Judas: He fulfilled Judas' lust for money; He allowed Judas
 
-to exercise apostolic authority (6:11; see also Mk 6:7); He washed Judas' feet with the
+to exercise apostolic authority (6:11; see also [[MRK.6:7]]); He washed Judas' feet with the
 
 other disciples (13:5); and He allowed him to partake at the table of the Mystical Supper
 
-(13:26). Yet Judas could never overcome his greed (see note at Mt 26:14-16).
+(13:26). Yet Judas could never overcome his greed (see note at [[MAT.26:14]]-16).
 
 
 ### 12:12-18
 *(anchor: JOH.12:12)*
 
-The Triumphal Entry into Jerusalem: See Mt 21:1-11 and accompanying notes.
+The Triumphal Entry into Jerusalem: See [[MAT.21:1]]-11 and accompanying notes.
 
 
 ### 12:20-23
@@ -2150,7 +2150,7 @@ to participate in the Passover feast. That they were still called Greeks shows t
 
 not yet full proselytes (converts). Since Jesus had taught His disciples not to go to the
 
-Gentiles (Mt 10:5; 15:24), the disciples approach Him before bringing these inquirers.
+Gentiles ([[MAT.10:5]]; 15:24), the disciples approach Him before bringing these inquirers.
 
 Glorified (v. 23) refers to the Savior's death on the Cross. Christ's obscure response
 
@@ -2232,7 +2232,7 @@ spiritual blindness in people who would otherwise have been faithful. This is a 
 
 speech common to Scripture revealing God as giving people up to their own devices (as in
 
-Rom 1:24, 26). What is meant by He has blinded is that God has permitted their selfchosen blindness (compare Ex 8:15, 32 with Ex 10:20, 27). They did not become blind
+[[ROM.1:24]], [[ROM.1:26]]). What is meant by He has blinded is that God has permitted their selfchosen blindness (compare Ex 8:15, 32 with [[EXO.10:20]], [[EXO.10:27]]). They did not become blind
 
 because God spoke through Isaiah, but rather Isaiah spoke because he foresaw their
 
@@ -2306,7 +2306,7 @@ disciples' own mission to the world.
 
 There are two main ways the devil influences the human heart: (1) through ideas or
 
-thoughts; and (2) through conceptual images, as taught in 2Co 10:5. Satan influenced
+thoughts; and (2) through conceptual images, as taught in [[2CO.10:5]]. Satan influenced
 
 Judas in both areas. Christians are called to reject the thoughts and images suggested by
 
@@ -2334,7 +2334,7 @@ If I do not wash you, you have no part with Me (v. 8) shows the cleansing
 
 power of Christ's death and Resurrection, for only by participating in Christ's death can
 
-we be raised with Him (Rom 6:3-11).
+we be raised with Him ([[ROM.6:3]]-11).
 
 He who is bathed needs only to wash his feet (v. 10): This foot-washing also
 
@@ -2450,9 +2450,9 @@ God," living eternally in the love of the Father (1:12).
 ### 14:10
 *(anchor: JOH.14:10)*
 
-While human beings are made in God's image (Gn 1:26), the Incarnate Son is
+While human beings are made in God's image ([[GEN.1:26]]), the Incarnate Son is
 
-Himself the exact image of the Father (Col 1:15). Christ did not say, "I am the Father,"
+Himself the exact image of the Father ([[COL.1:15]]). Christ did not say, "I am the Father,"
 
 for He is not. Rather, He declares that He and the Father are one in essence and
 
@@ -2486,7 +2486,7 @@ praying in the name of Christ when we pray according to what He wants. The purpo
 
 here is not to get God to do our will, but for us to learn to pray properly, according to
 
-God's will (Mt 6:10).
+God's will ([[MAT.6:10]]).
 
 
 ### 14:16
@@ -2504,9 +2504,9 @@ The Spirit of truth is in each believer, and we are called to know Him. The Holy
 
 Spirit prays in us and for us when we do not know how to pray, enabling us to pray in
 
-Christ's name (14:13, 14; Rom 8:26) and giving us words of witness when we speak the
+Christ's name (14:13, 14; [[ROM.8:26]]) and giving us words of witness when we speak the
 
-gospel (Mk 13:11).
+gospel ([[MRK.13:11]]).
 
 
 ### 14:19
@@ -2530,9 +2530,9 @@ the Holy Spirit that taught them all things."
 
 Peace was the customary Jewish word of both greeting and farewell. Perfect peace
 
-is brought by Christ, who reconciles humanity to God (Eph 2:14). Peace is part of the
+is brought by Christ, who reconciles humanity to God ([[EPH.2:14]]). Peace is part of the
 
-traditional greeting of Christians to each other (Rom 1:7; 1Co 1:3), and the greeting "Peace
+traditional greeting of Christians to each other ([[ROM.1:7]]; [[1CO.1:3]]), and the greeting "Peace
 
 be to all" is offered many times during the liturgical services of the Church.
 
@@ -2584,7 +2584,7 @@ likely to be distracted from fear.
 ### 15:1-6
 *(anchor: JOH.15:1)*
 
-The vine is a symbol of Israel (Is 5:1-7; Jer 2:21). In contrast to disobedient and
+The vine is a symbol of Israel (Is 5:1-7; [[JER.2:21]]). In contrast to disobedient and
 
 unfruitful Israel, our Lord calls Himself the true vine, which together with the
 
@@ -2592,7 +2592,7 @@ branches constitutes a new and fruitful people of God: the Church. At the Divine
 
 Liturgy, the bishop prays that the Lord will visit and confirm the vineyard, the local body
 
-of Christ, which He planted with His own right hand (Ps 79:15, 16).
+of Christ, which He planted with His own right hand ([[PSA.79:15]], [[PSA.79:16]]).
 
 To abide in this vine is to abide in Christ and His Church. The figure of the vine and
 
@@ -2618,7 +2618,7 @@ Friendship is higher than servanthood. Servants obey their masters out of fear
 
 or a sense of duty; friends obey out of love and an internal desire to do what is good and
 
-right. Abraham was called a "friend of God" (Jam 2:23) because he obeyed God out of the
+right. Abraham was called a "friend of God" ([[JAS.2:23]]) because he obeyed God out of the
 
 belief of his heart. The disciples, and indeed all the saints, are honored as friends of
 
@@ -2730,7 +2730,7 @@ sufferings in light of the victory of the Resurrection, and this victory transfi
 
 perception of sufferings. Christ's victory allows us to rejoice in anguish because of the
 
-infinitely greater good that comes from it (Rom 5:3-5; Php 3:10).
+infinitely greater good that comes from it ([[ROM.5:3]]-5; [[PHP.3:10]]).
 
 
 ### 16:25
@@ -2738,7 +2738,7 @@ infinitely greater good that comes from it (Rom 5:3-5; Php 3:10).
 
 The time when Christ would speak plainly about the Father was during the 40
 
-days following the Resurrection (Acts 1:3).
+days following the Resurrection ([[ACT.1:3]]).
 
 
 ### 16:26-28
@@ -2746,13 +2746,13 @@ days following the Resurrection (Acts 1:3).
 
 We know prayer is offered in the name of God the Father, for Christ taught us to
 
-pray that way (Mt 6:9), and He Himself prayed to the Father (11:41; 12:28; 17:1). In Christ,
+pray that way ([[MAT.6:9]]), and He Himself prayed to the Father (11:41; 12:28; 17:1). In Christ,
 
 we have direct access to the Father, and thus we pray in the name of the Son as well (see
 
 note at 14:13, 14). After Pentecost, we learn the Holy Spirit Himself "makes intercession
 
-for us" (Rom 8:26), and we are instructed to pray always "in the Spirit" (Eph 6:18).
+for us" ([[ROM.8:26]]), and we are instructed to pray always "in the Spirit" ([[EPH.6:18]]).
 
 Therefore, as Orthodox Christians, we pray continually and with confidence to all three
 
@@ -2862,9 +2862,9 @@ thanks, Holy Father, for Your holy name which You have made to dwell in our hear
 
 The son of perdition ("destruction") is Judas Iscariot (6:70, 71). OT prophecy
 
-alludes to Judas (Ps 40:10; 108:2-13; Zec 11:12, 13), and Judas becomes a type for all who
+alludes to Judas ([[PSA.40:10]]; 108:2-13; [[ZEC.11:12]], [[ZEC.11:13]]), and Judas becomes a type for all who
 
-will fall away in the last days (see 2Th 2:3, where "son of perdition" refers to the
+will fall away in the last days (see [[2TH.2:3]], where "son of perdition" refers to the
 
 Antichrist).
 
@@ -2914,7 +2914,7 @@ Father to dwell in each person.
 ### 18:1
 *(anchor: JOH.18:1)*
 
-This garden was at the Mount of Olives (Mk 14:26).
+This garden was at the Mount of Olives ([[MRK.14:26]]).
 
 
 ### 18:2
@@ -2964,7 +2964,7 @@ servant with a sword (v. 10). The command to let the disciples go their way also
 
 indicates His mercy toward them, as they were not yet strong enough to face martyrdom.
 
-God does not allow a burden beyond a person's spiritual strength (1Co 10:13).
+God does not allow a burden beyond a person's spiritual strength ([[1CO.10:13]]).
 
 
 ### 18:13
@@ -2972,7 +2972,7 @@ God does not allow a burden beyond a person's spiritual strength (1Co 10:13).
 
 Annas was the previous high priest and remained a force of power behind the
 
-religious establishment (see note at Lk 3:2). Caiaphas was high priest the year of
+religious establishment (see note at [[LUK.3:2]]). Caiaphas was high priest the year of
 
 Jesus' Crucifixion, holding the office from AD 18-36.
 
@@ -2982,9 +2982,9 @@ Jesus' Crucifixion, holding the office from AD 18-36.
 
 This other disciple is John, the author of this Gospel. It was a common practice for
 
-an author to conceal his name in the details of his story (see 13:23; compare Mk 14:51, 52;
+an author to conceal his name in the details of his story (see 13:23; compare [[MRK.14:51]], [[MRK.14:52]];
 
-Lk 24:13, 18).
+[[LUK.24:13]], [[LUK.24:18]]).
 
 
 ### 18:17
@@ -3088,7 +3088,7 @@ Having failed to reach a compromise that would have released Jesus without
 
 punishment (18:38-40), Pilate has Him scourged (v. 1) and mocked (vv. 2, 3; see note
 
-at Mt 27:27-31). Scourging was a severe punishment using a whip that had bits of bone or
+at [[MAT.27:27]]-31). Scourging was a severe punishment using a whip that had bits of bone or
 
 metal imbedded at the tips. Pilate does all this in hopes of moderating the wrath of the
 
@@ -3190,7 +3190,7 @@ Mary "Woman" (v. 26), Jesus is using a term of dignity and affection. Contrary t
 
 modern usages, this is a sacred title in Scripture, an address conveying deep respect and
 
-distinction (2:4; 4:21; 8:10; 20:13; compare to Gn 2:23). (2) In saying to John, "Behold
+distinction (2:4; 4:21; 8:10; 20:13; compare to [[GEN.2:23]]). (2) In saying to John, "Behold
 
 your mother!" (v. 27), our Lord symbolically establishes Mary's role as mother of all
 
@@ -3210,7 +3210,7 @@ parents" (JohnChr).
 
 I thirst: The Son of God assumed our human need for water in order that we might
 
-be delivered from spiritual thirst (4:13, 14; 7:37, 38). The Scripture refers to Ps 21:16.
+be delivered from spiritual thirst (4:13, 14; 7:37, 38). The Scripture refers to [[PSA.21:16]].
 
 
 ### 19:30
@@ -3224,7 +3224,7 @@ His head, He gave up His spirit: St. John Chrysostom writes that Christ did not 
 
 first, with His head falling as a result of death. Instead, as Lord even of His own death,
 
-Jesus first bowed His head, and then willingly gave up His spirit (see note at Lk 23:46).
+Jesus first bowed His head, and then willingly gave up His spirit (see note at [[LUK.23:46]]).
 
 
 ### 19:34
@@ -3252,7 +3252,7 @@ and later defended Him before the Pharisees (7:50-52). By burying Him, both show
 
 devotion to our Lord publicly, in stark contrast to the fearful disciples, who had scattered.
 
-See also note at Lk 23:50-53.
+See also note at [[LUK.23:50]]-53.
 
 
 ### 20:1
@@ -3264,7 +3264,7 @@ day in Christian tradition does not replace the Sabbath, but completes it. Satur
 
 remains the Sabbath, the blessed day on which Christ rested in the tomb, just as He
 
-rested when He completed the creation of the universe (Gn 2:2). Because of the
+rested when He completed the creation of the universe ([[GEN.2:2]]). Because of the
 
 Resurrection, Sunday is also known in the Church as the eighth day, which symbolizes
 
@@ -3274,7 +3274,7 @@ eternity, a day without end.
 ### 20:2
 *(anchor: JOH.20:2)*
 
-Though John does not mention the other myrrhbearing women (Mk 16:1; Lk 24:10),
+Though John does not mention the other myrrhbearing women ([[MRK.16:1]]; [[LUK.24:10]]),
 
 Mary's use of we indicates they were present.
 
@@ -3306,7 +3306,7 @@ taken the time to strip the body, nor to fold and place each piece carefully and
 ### 20:9
 *(anchor: JOH.20:9)*
 
-The Scripture had foretold Christ could not remain dead (Ps 15:10).
+The Scripture had foretold Christ could not remain dead ([[PSA.15:10]]).
 
 
 ### 20:11-18
@@ -3318,7 +3318,7 @@ between the bride and her beloved in the Song of Solomon (SS 3:1-4). This parall
 
 teaches that through the Resurrection, Christ has taken the Church to be His eternal
 
-Bride (see note at 2:1-11; Eph 5:31, 32; Rev 21:9, 10).
+Bride (see note at 2:1-11; [[EPH.5:31]], [[EPH.5:32]]; [[REV.21:9]], [[REV.21:10]]).
 
 
 ### 20:16
@@ -3402,7 +3402,7 @@ showed Himself. His resurrected body is indeed human, but it is glorified in eve
 
 respect and illustrates the kind of body each believer will have in the general resurrection
 
-(see 1Co 15:42-49).
+(see [[1CO.15:42]]-49).
 
 21:6, 7
 
@@ -3410,9 +3410,9 @@ This is the second time Christ provided a multitude of fish for these men (Lk
 
 5:4-6). Jesus often revealed Himself after the Resurrection through words and acts that
 
-were familiar (20:16; Lk 24:35). It is through this familiar grace that our Lord is
+were familiar (20:16; [[LUK.24:35]]). It is through this familiar grace that our Lord is
 
-recognizable to all His followers (see also note at Lk 5:6). John, the beloved disciple, is
+recognizable to all His followers (see also note at [[LUK.5:6]]). John, the beloved disciple, is
 
 the first to perceive that the Man on the shore is the Lord, showing that love for Christ
 
@@ -3426,7 +3426,7 @@ faith (see note at 20:3-8).
 
 The great catch of fish is an image of the disciples bringing mankind to the
 
-knowledge of Jesus Christ, and it fulfills the prophecy of Jer 16:16. In the festal hymn of
+knowledge of Jesus Christ, and it fulfills the prophecy of [[JER.16:16]]. In the festal hymn of
 
 Pentecost we sing to Christ, "Through the fishermen, You drew the world into Your net."
 
@@ -3540,4 +3540,4 @@ Luke contain many more miracles and parables, these too are far from exhaustive.
 
 verse not only emphasizes the holiness of what was written, but also points to the
 
-ongoing oral tradition within the Church (see 2Th 2:15).
+ongoing oral tradition within the Church (see [[2TH.2:15]]).

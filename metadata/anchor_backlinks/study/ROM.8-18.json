@@ -1,0 +1,30 @@
+{
+  "anchor_id": "ROM.8:18",
+  "canon_uri": "canon/NT/ROM.md#ROM.8:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 448,
+      "raw_match": "[[ROM.8:18]]-22",
+      "reference_type": "wikilink_range",
+      "context": "children of God ([[ROM.8:18]]-22)."
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 2086,
+      "raw_match": "[[ROM.8:18]]",
+      "reference_type": "wikilink",
+      "context": "his life, he saw this as nothing compared to the glory to be revealed ([[ROM.8:18]])."
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 356,
+      "raw_match": "[[ROM.8:18]]-22",
+      "reference_type": "wikilink_range",
+      "context": "creation from the Creator. God intended for man to offer up creation to Him, but instead, man has plundered the world (v. 3; see also [[ROM.8:18]]-22). 24:14-17"
+    }
+  ]
+}

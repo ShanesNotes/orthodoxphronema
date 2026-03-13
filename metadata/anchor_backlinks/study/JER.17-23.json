@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JER.17:23",
+  "canon_uri": "canon/OT/JER.md#JER.17:23",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 985,
+      "raw_match": "[[JER.17:23]]",
+      "reference_type": "wikilink",
+      "context": "Sabbath, this is prohibited in [[JER.17:23]] and explicitly forbidden in rabbinical teachings."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2TI.1:10",
+  "canon_uri": "canon/NT/2TI.md#2TI.1:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 347,
+      "raw_match": "[[2TI.1:10]]",
+      "reference_type": "wikilink",
+      "context": "also [[2TI.1:10]]). He ascended on high and called the Gentiles (vv. 17-50)."
+    }
+  ]
+}

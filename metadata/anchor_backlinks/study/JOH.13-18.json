@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOH.13:18",
+  "canon_uri": "canon/NT/JOH.md#JOH.13:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 835,
+      "raw_match": "[[JOH.13:18]]",
+      "reference_type": "wikilink",
+      "context": "Verse 10 speaks of the betrayal by Judas (see also [[JOH.13:18]]); vv. 6, 9 of Christ's"
+    }
+  ]
+}

@@ -16,11 +16,11 @@ Revelation or Apocalypse (Gr. apokalypsis) means literally to unconceal, unveil,
 
 reveal. It was used anciently of a coded message that must get through without falling
 
-into the wrong hands. God Himself is the ultimate source of all revelation (see Dan 2:28,
+into the wrong hands. God Himself is the ultimate source of all revelation (see [[DAN.2:28]],
 
 29, 45), but it is the Son, Jesus Christ--who revealed Himself to the prophets of the OT
 
-before He became flesh and now is made flesh--who mediates this unveiling (see Jn 1:18;
+before He became flesh and now is made flesh--who mediates this unveiling (see [[JOH.1:18]];
 
 4:19-23; 7:16; 8:26, 40; 12:49; 15:15; 17:8). This revelation concerns not only the age to
 
@@ -42,7 +42,7 @@ Bore witness (from Gr. martyreo, a verb) and testimony (from Gr. martyria, a nou
 
 are forms of the word from which we obtain "martyr." Persecution is the consequence of
 
-witnessing. The martyrs (see Heb 12:1) are those who testify or bear witness, sealing it
+witnessing. The martyrs (see [[HEB.12:1]]) are those who testify or bear witness, sealing it
 
 with their blood in death.
 
@@ -50,7 +50,7 @@ with their blood in death.
 ### 1:3
 *(anchor: REV.1:3)*
 
-A blessing is promised to those who read and hear (see Lk 11:28). This is the first of
+A blessing is promised to those who read and hear (see [[LUK.11:28]]). This is the first of
 
 the seven beatitudes of the Revelation, found also in 14:13; 16:15; 19:9; 20:6; 22:7, 14.
 
@@ -76,17 +76,17 @@ The doxology is Trinitarian, involving the Father (vv. 4, 6), the Spirit (v. 4),
 
 (vv. 5, 6). This initial greeting (lit., "the Existing, the Was, and the Coming") may express
 
-the Father, the one who is (Ex 3:14); the Son, who was (Jn 1:1); and the Holy Spirit,
+the Father, the one who is ([[EXO.3:14]]); the Son, who was ([[JOH.1:1]]); and the Holy Spirit,
 
 who is to come (Acts 2) at Pentecost and shall always be present. Or it may denote the
 
 character of the Holy One, who is eternally present and exercises lordship throughout
 
-history (see Heb 13:8). God reveals the meaning of the present in light of the past and the
+history (see [[HEB.13:8]]). God reveals the meaning of the present in light of the past and the
 
 age to come. This title may be a paraphrase of the Tetragrammaton, YHWH ("I Am"), of
 
-Ex 3:14.
+[[EXO.3:14]].
 
 Seven is the number of fullness or completion. The seven Spirits of God most likely
 
@@ -102,7 +102,7 @@ who, according to Jewish tradition, stand before the throne of God (Tb 12:15; se
 ### 1:5
 *(anchor: REV.1:5)*
 
-Jesus Christ is presented as the Risen Savior, Lord of all (see Zec 12:10), giving hope to
+Jesus Christ is presented as the Risen Savior, Lord of all (see [[ZEC.12:10]]), giving hope to
 
 the early Christians that the Church will not always be dominated by a cruel state. Instead
 
@@ -124,7 +124,7 @@ Resurrection, and revelation of His Kingdom for the world's salvation.
 
 Those joined to the body of Christ in baptism comprise the messianic royal priesthood
 
-promised of old (see Ex 19:5, 6; Is 61:6; 1Pt 2:9; and the Anaphora of the Liturgy of St.
+promised of old (see [[EXO.19:5]], [[EXO.19:6]]; Is 61:6; [[1PE.2:9]]; and the Anaphora of the Liturgy of St.
 
 Basil). This priestly ministry is to offer the world back to God in a sacrifice of praise and
 
@@ -176,7 +176,7 @@ first day of the timeless age to come. The loud voice, as of a trumpet is a trad
 
 eschatological, apocalyptic introduction describing an appearance of the Lord (see Ex
 
-19:16, 19; Mt 24:31; 1Co 15:52; 1Th 4:16).
+19:16, 19; [[MAT.24:31]]; [[1CO.15:52]]; [[1TH.4:16]]).
 
 
 ### 1:11-12
@@ -186,11 +186,11 @@ The glorified Christ introduces himself as the Alpha and the Omega, the First
 
 and the Last, thus identifying Himself with God the Father (v. 8; 22:13). His position
 
-amidst the seven lampstands signifies His presence in the Church (see Mt 5:14). The
+amidst the seven lampstands signifies His presence in the Church (see [[MAT.5:14]]). The
 
 seven golden lampstands, a fusion of the great menorah of the temple with its seven
 
-lamps (see Ex 25:31-37; Zec 4:2; Heb 9:2) and the golden lampstands of Solomon's
+lamps (see [[EXO.25:31]]-37; [[ZEC.4:2]]; [[HEB.9:2]]) and the golden lampstands of Solomon's
 
 temple (3Kg 7:35), represent the fullness of God's presence. Also symbolized are the
 
@@ -202,17 +202,17 @@ scholars to suggest John was in the church in a liturgical setting during the Re
 ### 1:13
 *(anchor: REV.1:13)*
 
-One like the Son of Man recalls Daniel's messianic figure (Dan 7:13--repeated by
+One like the Son of Man recalls Daniel's messianic figure ([[DAN.7:13]]--repeated by
 
-Stephen at his martyrdom, Acts 7:56). Christ called Himself Son of Man (see especially
+Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially
 
-Mt 24:30ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be
+[[MAT.24:30]]ff.), for He is the fulfillment of Daniel's prophecy. Additional parallels may be
 
-seen in both the Old and New Testaments (Dan 10:6; Mt 17:2; Eph 6:17; Heb 4:12). We
+seen in both the Old and New Testaments ([[DAN.10:6]]; [[MAT.17:2]]; [[EPH.6:17]]; [[HEB.4:12]]). We
 
-also see Him vested in high-priestly garments (see Ex 28:4; 29:5; Lv 16:4; WSol 18:24;
+also see Him vested in high-priestly garments (see [[EXO.28:4]]; 29:5; Lv 16:4; WSol 18:24;
 
-Zec 3:4, 5). The gold with which He is girded is both royal (1Mc 10:89) and priestly.
+[[ZEC.3:4]], [[ZEC.3:5]]). The gold with which He is girded is both royal (1Mc 10:89) and priestly.
 
 
 ### 1:14-16
@@ -228,7 +228,7 @@ His right hand (v. 16), power; His two-edged sword, complete discernment. This
 
 imagery continues throughout Revelation to affirm the preexistence and eternal divinity
 
-of the Son of Man (see also Jn 1:1-18). Thus, in Christ man (v. 14) and God (vv. 15, 16)
+of the Son of Man (see also [[JOH.1:1]]-18). Thus, in Christ man (v. 14) and God (vv. 15, 16)
 
 are united.
 
@@ -236,11 +236,11 @@ are united.
 ### 1:15
 *(anchor: REV.1:15)*
 
-Dan 2:31-44 indicates this mysterious metal foundation not only provides stability
+[[DAN.2:31]]-44 indicates this mysterious metal foundation not only provides stability
 
 but has the ability to forcibly crush all opposition as well. These images are contrasted
 
-with the feet of clay found in Dan 2:33, 43: the kingdoms of this world are not permanent,
+with the feet of clay found in [[DAN.2:33]], [[DAN.2:43]]: the kingdoms of this world are not permanent,
 
 nor ultimately triumphant.
 
@@ -254,7 +254,7 @@ Church. For Christ is Lord of the Church. In His just judgment, the sword He wie
 
 the Word of God, which cuts effortlessly to the very marrow and heart of humanity (see
 
-2:16; 18:15; Is 11:4; 49:2; WSol 18:15; Eph 6:17; 2Th 2:9; Heb 4:12). The brilliance of His
+2:16; 18:15; Is 11:4; 49:2; WSol 18:15; [[EPH.6:17]]; [[2TH.2:9]]; [[HEB.4:12]]). The brilliance of His
 
 face recalls the Uncreated Light John saw radiating from the Savior at the Transfiguration
 
@@ -266,15 +266,15 @@ on Mount Tabor.
 
 Mortal humanity cannot bear the revelation of divine glory, a frequent biblical
 
-theme (see Ex 19:21; 33:20; Is 6:5). Just as he fell prostrate at Mount Tabor (Mt 17:6), so
+theme (see [[EXO.19:21]]; 33:20; Is 6:5). Just as he fell prostrate at Mount Tabor ([[MAT.17:6]]), so
 
-also does John here, in the presence of the glorified Savior (see Ezk 1:27; Dan 10:7-9; see
+also does John here, in the presence of the glorified Savior (see [[EZK.1:27]]; [[DAN.10:7]]-9; see
 
 also 1En 14:24). Do not be afraid is a revelatory formula from the OT. As a signal for
 
-the theophany, it was carried over into the NT (see the Annunciation, Lk 1:30; Jesus
+the theophany, it was carried over into the NT (see the Annunciation, [[LUK.1:30]]; Jesus
 
-walking upon the water, Mt 14:27--"Fear not, I AM"; the Transfiguration, Mt 17:7). In the
+walking upon the water, [[MAT.14:27]]--"Fear not, I AM"; the Transfiguration, [[MAT.17:7]]). In the
 
 OT God was called "the first and the last" (Is 44:6; 48:12), and so, too, is the Messiah.
 
@@ -344,9 +344,9 @@ The Ephesian church had persevered in orthodox faith and moral uprightness, but
 
 had left its first love (v. 4), presumably for God and each other. False apostles were a
 
-serious problem in the early Church (see 2Co 11:13-23), and Paul warned they would
+serious problem in the early Church (see [[2CO.11:13]]-23), and Paul warned they would
 
-ravage the church of Ephesus (Acts 20:29). However, in the early second century, St.
+ravage the church of Ephesus ([[ACT.20:29]]). However, in the early second century, St.
 
 Ignatius of Antioch praised the Ephesians for their continuing resistance to heresy. The
 
@@ -362,7 +362,7 @@ Most scholars believe the Nicolaitans to be an early gnostic sect that tolerated
 
 idolatry and encouraged fornication. Some of the church fathers held the founder of this
 
-sect to be an apostate Nicholas, one of the original seven deacons (Acts 6:5).
+sect to be an apostate Nicholas, one of the original seven deacons ([[ACT.6:5]]).
 
 
 ### 2:7
@@ -378,15 +378,15 @@ the false Nicolaitan sect, "overcomers" remain faithful to Christ until the end,
 
 all obstacles. Further, they fulfill the original destiny of man by partaking of the tree of
 
-life (Gn 2:9). To eat of this tree is to receive eternal life (vv. 11, 17, 26; 3:5, 12, 21; 21:7; Jn
+life ([[GEN.2:9]]). To eat of this tree is to receive eternal life (vv. 11, 17, 26; 3:5, 12, 21; 21:7; Jn
 
-16:33; 2Co 4:7-18). The fruit of the tree is the spiritual food of 1Co 10:3, the "medicine of
+16:33; [[2CO.4:7]]-18). The fruit of the tree is the spiritual food of [[1CO.10:3]], the "medicine of
 
 immortality." Tree of life is also an allusion to the Cross, upon which all Christians must
 
-be co-crucified with Christ (Gal 2:20), partaking in the death of Christ in order to
+be co-crucified with Christ ([[GAL.2:20]]), partaking in the death of Christ in order to
 
-participate in His Resurrection. The Paradise of God is heaven (Lk 23:43; 2Co 12:2-4);
+participate in His Resurrection. The Paradise of God is heaven ([[LUK.23:43]]; [[2CO.12:2]]-4);
 
 the city of God, the New Jerusalem (see 21:1-22:5), contrasted to the original earthly
 
@@ -418,11 +418,11 @@ The Smyrnan church was poor, perhaps because of the persecution, but spiritually
 
 rich, the opposite of Laodicea. The Jews of the synagogue of Satan may be either Jews
 
-in name only (see Rom 2:28, 29) who were insincere in their profession of Judaism and
+in name only (see [[ROM.2:28]], [[ROM.2:29]]) who were insincere in their profession of Judaism and
 
-compromising in their beliefs (Jn 8:31-47); or Jews who refused to embrace the Messiah
+compromising in their beliefs ([[JOH.8:31]]-47); or Jews who refused to embrace the Messiah
 
-and His Church (Rom 2:28; Gal 6:15).
+and His Church ([[ROM.2:28]]; [[GAL.6:15]]).
 
 
 ### 2:10-11
@@ -434,7 +434,7 @@ be taken literally, and some may undergo martyrdom. Christ encourages faithfulne
 
 the end. The crown of life, an allusion to the wreath awarded to a victor in an arena
 
-(Php 3:14; 2Ti 2:5; 1Pt 5:4), is the reward of eternal life granted to those who conquer in
+([[PHP.3:14]]; [[2TI.2:5]]; [[1PE.5:4]]), is the reward of eternal life granted to those who conquer in
 
 Christ. The second death (v. 11) indicates eternal damnation, the "lake of fire," wherein
 
@@ -482,7 +482,7 @@ A group in this church holds the doctrine of Balaam. Balaam is the biblical
 
 prototype of all corrupt teachers and religious compromisers. He encouraged immorality,
 
-idolatrous feasting, and infidelity against the Lord (Nm 22-24; 25:1-3; 31:16; 2Pt 2:15;
+idolatrous feasting, and infidelity against the Lord (Nm 22-24; 25:1-3; 31:16; [[2PE.2:15]];
 
 Jude 11).
 
@@ -500,9 +500,9 @@ which is just and righteous judgment.
 
 Hidden manna is an allusion to the bread of heaven (or the bread of angels), the
 
-bread of the Almighty (Ex 16:4; Ps 77:24, 25; Jn 6:31-35, 48-51). To eat it is to partake of
+bread of the Almighty ([[EXO.16:4]]; [[PSA.77:24]], [[PSA.77:25]]; [[JOH.6:31]]-35, 48-51). To eat it is to partake of
 
-the messianic banquet in the Kingdom (Lk 22:28-30), the Eucharist of the age to come.
+the messianic banquet in the Kingdom ([[LUK.22:28]]-30), the Eucharist of the age to come.
 
 In sharp contrast to communion with the pagan cult, it restores our original communion
 
@@ -518,7 +518,7 @@ Christ is received by His faithful at their baptismal rebirth.
 
 Thyatira lay southeast of Pergamos and was a commercial city known for its trade
 
-guilds (Acts 16:14). Guild meetings frequently included cultic meals in their patronal
+guilds ([[ACT.16:14]]). Guild meetings frequently included cultic meals in their patronal
 
 temples, a problem for Christian tradesmen, for the meetings involved idol worship and
 
@@ -560,9 +560,9 @@ labels their claims satanic delusion.
 
 The morning star is none other than Christ (22:16). He is the Daylight from on
 
-high (Lk 1:78; see 2Pt 1:19), the true Light which enlightens all who come into the world
+high ([[LUK.1:78]]; see [[2PE.1:19]]), the true Light which enlightens all who come into the world
 
-(Jn 1:9). The phrase may also refer to eternal life and a share in the reign of Christ.
+([[JOH.1:9]]). The phrase may also refer to eternal life and a share in the reign of Christ.
 
 
 ### 3:1
@@ -576,7 +576,7 @@ there was also in decline, not falling into heresy or immorality, but into death
 
 church in Sardis had so completely compromised with the surrounding pagan world that
 
-although it appeared to be alive, it was spiritually dead (Mt 21:19). There is irony in
+although it appeared to be alive, it was spiritually dead ([[MAT.21:19]]). There is irony in
 
 Christ's accusation. Sardis boasted of a venerable temple to the Asiatic mother-goddess
 
@@ -618,7 +618,7 @@ Christ; immortality; a glorified body; and a place at the messianic wedding banq
 ### 3:5
 *(anchor: REV.3:5)*
 
-The Book of Life (13:8; 17:8; 20:12, 15; Ex 32:32; Ps 68:29; Dan 12:1; Lk 10:20; see
+The Book of Life (13:8; 17:8; 20:12, 15; [[EXO.32:32]]; [[PSA.68:29]]; [[DAN.12:1]]; [[LUK.10:20]]; see
 
 also 1En 47:3) is God's register naming all who will inherit eternal life. By the fourth
 
@@ -628,7 +628,7 @@ record book termed "The Heavenly Book," or "The Book of the Church" (see TheoMop
 
 JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls
 
-them His own angels (Mt 13:41; 24:31), showing His equality with the Father.
+them His own angels ([[MAT.13:41]]; 24:31), showing His equality with the Father.
 
 
 ### 3:7
@@ -640,7 +640,7 @@ situated 30 miles southeast of Sardis. The key of David (Is 22:22, Hebrew text) 
 
 messianic reference to the One who may judge in God's Name and admit or exclude from
 
-the City of David, the New Jerusalem (see Eph 1:22). St. Ignatius calls Christ the Door to
+the City of David, the New Jerusalem (see [[EPH.1:22]]). St. Ignatius calls Christ the Door to
 
 the Father.
 
@@ -674,7 +674,7 @@ rescued from sufferings, persecution, and martyrdom, they will be sustained and
 
 supported so as to persevere in their faithfulness. The hour of trial is an apocalyptic
 
-image (Dan 12:1; Mt 6:13; Mk 13:4; Jn 17:6, 15; 2Th 2:1-12), referring to the testing and
+image ([[DAN.12:1]]; [[MAT.6:13]]; [[MRK.13:4]]; [[JOH.17:6]], [[JOH.17:15]]; [[2TH.2:1]]-12), referring to the testing and
 
 tribulation (chs. 8; 9; 16) preceding the manifestation of the eternal Kingdom of God.
 
@@ -702,11 +702,11 @@ banking industry, and a famous medical school. Many Jews lived there. Paul wrote
 
 letter to Laodicea (which no longer exists, unless it was identical to what we know as
 
-Ephesians) to be exchanged with the Colossians (see Col 4:16).
+Ephesians) to be exchanged with the Colossians (see [[COL.4:16]]).
 
 Amen is a divine title applied here to Christ, who is the final ratification and
 
-accomplishment of the promise of God (2Co 1:19, 20). It affirms His sureness and
+accomplishment of the promise of God ([[2CO.1:19]], [[2CO.1:20]]). It affirms His sureness and
 
 steadfastness, amplified by Faithful and True Witness. The word beginning (Gr.
 
@@ -716,9 +716,9 @@ attempt to prove Christ is created, thus denying His eternal existence. However,
 
 is more accurately translated as "source" or "origin," signifying He is the Master of all.
 
-Christ the Beginning is the principle, the source of God's creation (see Pr 8:23; Jn 1:3;
+Christ the Beginning is the principle, the source of God's creation (see Pr 8:23; [[JOH.1:3]];
 
-1Co 8:6; Col 1:16, 17; Heb 1:2), the creative Word and Wisdom of God.
+[[1CO.8:6]]; [[COL.1:16]], [[COL.1:17]]; [[HEB.1:2]]), the creative Word and Wisdom of God.
 
 
 ### 3:15-16
@@ -760,15 +760,15 @@ does not force anyone to cooperate with Him. He keeps knocking, awaiting a respo
 
 This promise looks toward both the messianic banquet, the wedding supper of the Lamb
 
-of God (19:9; Lk 22:30), and the Holy Eucharist, which is a foretaste of the heavenly feast.
+of God (19:9; [[LUK.22:30]]), and the Holy Eucharist, which is a foretaste of the heavenly feast.
 
-Faithful disciples are promised they will eat and drink at table with Him (Lk 22:28-30) in
+Faithful disciples are promised they will eat and drink at table with Him ([[LUK.22:28]]-30) in
 
 the ultimate reality of the Kingdom of heaven. Note the parallels with the parable of the
 
-bridegroom (Mt 25:1-13) and with the teaching about those who will shut themselves out
+bridegroom ([[MAT.25:1]]-13) and with the teaching about those who will shut themselves out
 
-of the feast of the Kingdom (Lk 13:25-30).
+of the feast of the Kingdom ([[LUK.13:25]]-30).
 
 
 ### 3:21
@@ -780,7 +780,7 @@ rebuke and chastening (v. 19) conquer lukewarmness and become "hot" in their spi
 
 lives (vv. 15, 16). Those who share Christ's trials will share His table and His throne in
 
-His Kingdom (4:4; 20:4-6; 22:3-5; Lk 22:30; 2Ti 2:12).
+His Kingdom (4:4; 20:4-6; 22:3-5; [[LUK.22:30]]; [[2TI.2:12]]).
 
 
 ### 4:1
@@ -794,15 +794,15 @@ present, and future as one whole. St. John writes, as it were, from inside the e
 
 apocalyptic tornado, recording glimpses of the eschatological events that whirl by. The
 
-single open door through the vaulted firmament (see Gn 1:7, 8) allows vision into the
+single open door through the vaulted firmament (see [[GEN.1:7]], [[GEN.1:8]]) allows vision into the
 
 depths of all mysteries, the celestial throne. Since earthly events have their origin in
 
 heaven, true insight into history can be attained only from that vantage point (see Gn
 
-28:17; Ezk 1:1; Mk 1:10; Acts 7:56; see also 1En 14:14; TLev 5:1). Come up, reminiscent of
+28:17; [[EZK.1:1]]; [[MRK.1:10]]; [[ACT.7:56]]; see also 1En 14:14; TLev 5:1). Come up, reminiscent of
 
-Moses' invitation from God to ascend Mt. Sinai (Ex 19:24), is a command with liturgical
+Moses' invitation from God to ascend Mt. Sinai ([[EXO.19:24]]), is a command with liturgical
 
 overtones: to enter God's sanctuary, His "high place."
 
@@ -812,7 +812,7 @@ overtones: to enter God's sanctuary, His "high place."
 
 God is seen in biblical visions as sitting on a throne, a symbol of His sovereign
 
-lordship (3Kg 22:19; Ps 46:9; Is 6:1; Ezk 1:25-27; Dan 7:9; Mt 5:34; 23:22; see also 1En
+lordship (3Kg 22:19; [[PSA.46:9]]; Is 6:1; [[EZK.1:25]]-27; [[DAN.7:9]]; [[MAT.5:34]]; 23:22; see also 1En
 
 14:18, 19). The image of this throne occurs over 40 times in Revelation and is further
 
@@ -820,9 +820,9 @@ described as "a great white throne" (20:11), a throne of judgment. But here His 
 
 surrounded by a rainbow (v. 3), the sign of God's everlasting covenant according to
 
-which He will not judge man again as He did at the Flood (Gn 9:12-17). Mercy triumphs
+which He will not judge man again as He did at the Flood ([[GEN.9:12]]-17). Mercy triumphs
 
-over judgment (Mt 9:13). Thus, in the Orthodox Church, the altar table is sometimes
+over judgment ([[MAT.9:13]]). Thus, in the Orthodox Church, the altar table is sometimes
 
 called "the throne."
 
@@ -840,7 +840,7 @@ covenants. They are the foundation of the people of God in both covenants (7:4; 
 
 adoration and praise (4:11; 5:9, 10; 11:17, 18; 19:4).
 
-4:6, 7 The sea of glass (Ezk 1:22-26) surrounds God's throne, for God is approached by
+4:6, 7 The sea of glass ([[EZK.1:22]]-26) surrounds God's throne, for God is approached by
 
 fallen men only through waters of death that produce life. As Israel journeyed through
 
@@ -850,9 +850,9 @@ entering into Christ's death and Resurrection. If the sea is not of glass, there
 
 new life. Also, God is vast and overpowering, as a sea of light would be. The hosts of
 
-angels surround Him (Dan 7:10) as a sea of purity.
+angels surround Him ([[DAN.7:10]]) as a sea of purity.
 
-The four living creatures are angelic beings adapted from Ezk 1:4-20 and Is 6:2.
+The four living creatures are angelic beings adapted from [[EZK.1:4]]-20 and Is 6:2.
 
 Their number is that of the whole world, the cosmos, and thus they portray creation,
 
@@ -866,15 +866,15 @@ round-the-clock services of Orthodox monastic communities.
 ### 4:8
 *(anchor: REV.4:8)*
 
-The six wings (Is 6:2; Ezk 1:6) may symbolize the swiftness with which God's will is
+The six wings (Is 6:2; [[EZK.1:6]]) may symbolize the swiftness with which God's will is
 
-enacted in His world. Full of eyes around and within (see the wheels of Ezk 1:18)
+enacted in His world. Full of eyes around and within (see the wheels of [[EZK.1:18]])
 
 indicates the absolute vigilance of these creatures. They do not rest day or night
 
 suggests the essence of their ceaseless activity: to praise God (the very liturgy which the
 
-whole cosmos is called to serve) and to pray without ceasing (Ps 102:20-22; 148; 150; 1Th
+whole cosmos is called to serve) and to pray without ceasing ([[PSA.102:20]]-22; 148; 150; 1Th
 
 25:17).
 
@@ -924,9 +924,9 @@ ascribing glory, honor, and power to God.
 
 The scroll contains the secret decrees of God concerning the judgment and salvation
 
-of humanity (see Ezk 2:9, 10; Ps 138:16; see also 1En 81:1, 2). Included is the greatest of
+of humanity (see [[EZK.2:9]], [[EZK.2:10]]; [[PSA.138:16]]; see also 1En 81:1, 2). Included is the greatest of
 
-all mysteries, God's will concerning the events marking the end times (see Dan 10:21),
+all mysteries, God's will concerning the events marking the end times (see [[DAN.10:21]]),
 
 sealed up and hidden in profound security (with seven seals) until the time it will be
 
@@ -948,7 +948,7 @@ of God Himself, can understand the greatest of all mysteries and how God deals w
 
 in history? The Lion . . . of Judah and Root of David are messianic titles with
 
-parallels in the OT and apocryphal books (see Gn 49:9, 10; Is 11:1-10). The One who has
+parallels in the OT and apocryphal books (see [[GEN.49:9]], [[GEN.49:10]]; Is 11:1-10). The One who has
 
 conquered Satan decisively, once and for all, in His self-sacrifice on the Cross and in His
 
@@ -956,7 +956,7 @@ Resurrection, is alone worthy to open the scroll of destiny, reveal its message,
 
 out its words.
 
-5:6, 7 Jesus is called the Lamb of God in Jn 1:29. Isaiah compares the Messiah's voluntary
+5:6, 7 Jesus is called the Lamb of God in [[JOH.1:29]]. Isaiah compares the Messiah's voluntary
 
 self-sacrifice to a lamb being led to slaughter (Is 53). The central theme of Revelation is
 
@@ -996,7 +996,7 @@ by elevated thanksgiving (each having a harp). And by elevated prayer (golden bo
 
 full of incense) they present to God the prayers of the saints still on earth,
 
-manifested in the incense (8:3, 4; see Ps 140:2; Tb 12:15). In the ancient world, incense
+manifested in the incense (8:3, 4; see [[PSA.140:2]]; Tb 12:15). In the ancient world, incense
 
 was used in both secular and liturgical life. God, people, and objects were censed as a sign
 
@@ -1038,7 +1038,7 @@ are consequences of man's condition, an overview of conditions manifest since th
 
 of the Church, which will continue until Christ's second coming. The four horsemen (see
 
-Zec 1:8-17; 6:1-8 for the model of this imagery) personify the scourges which, through
+[[ZEC.1:8]]-17; 6:1-8 for the model of this imagery) personify the scourges which, through
 
 the prophets, God has threatened as judgment on the faithless: war, famine, plague,
 
@@ -1052,9 +1052,9 @@ The first rider (on the white horse, carrying a bow) represents the spirit of co
 
 reminiscent of fierce divine judgment in the OT, usually wrought through the military
 
-power of adversaries (Jer 27:29; Ezk 5:15). Jesus taught "nation will rise against nation"
+power of adversaries ([[JER.27:29]]; [[EZK.5:15]]). Jesus taught "nation will rise against nation"
 
-(Mt 24:7). The figure here probably represents liberators of the oppressed people of God.
+([[MAT.24:7]]). The figure here probably represents liberators of the oppressed people of God.
 
 
 ### 6:3-4
@@ -1064,7 +1064,7 @@ The second rider represents war, violent bloodshed, and death--removal of peace
 
 from the earth, the result of the conquests of the first rider. Jesus predicted there will
 
-be "wars and rumors of wars" (Mt 24:6).
+be "wars and rumors of wars" ([[MAT.24:6]]).
 
 
 ### 6:5-6
@@ -1096,7 +1096,7 @@ innocence, victory, purity, new and eternal life, transfiguration, a resurrected
 
 glorified body, vesting in Christ, and the wedding garment of salvation (3:5; 7:9, 13-17;
 
-19:8, 9; Is 61:10; Dan 10:5; Mt 22:1-4; Gal 3:27; see also 1En 62:16). The martyrs are
+19:8, 9; Is 61:10; [[DAN.10:5]]; [[MAT.22:1]]-4; [[GAL.3:27]]; see also 1En 62:16). The martyrs are
 
 called to have patience until the fullness of their number is complete. The vision of the
 
@@ -1118,7 +1118,7 @@ Orthodox Christians remember "those who lie asleep here and in all the world."
 
 The sixth seal represents the cosmic disturbances that often accompany
 
-descriptions of "the day of the Lord," the return of Christ (Joel 3:3, 4; Mt 24:29, 30; and
+descriptions of "the day of the Lord," the return of Christ ([[JOL.3:3]], [[JOL.3:4]]; [[MAT.24:29]], [[MAT.24:30]]; and
 
 parallels). People in rebellion against God (v. 15) are terror-stricken before God's
 
@@ -1140,11 +1140,11 @@ worship.
 
 The four winds are symbolic "winds of judgment," as in Jewish apocalyptic
 
-literature (Jer 25:16; Zec 2:10; Dan 8:8; Mk 13:27; see also 1En 76:1-4). They are
+literature ([[JER.25:16]]; [[ZEC.2:10]]; [[DAN.8:8]]; [[MRK.13:27]]; see also 1En 76:1-4). They are
 
-restrained until God's servants (Is 44:5; 2Co 1:22; 2Ti 2:19) are sealed (v. 3), that is,
+restrained until God's servants (Is 44:5; [[2CO.1:22]]; [[2TI.2:19]]) are sealed (v. 3), that is,
 
-given a special protection from the ensuing judgments (Ezk 9:1-11).
+given a special protection from the ensuing judgments ([[EZK.9:1]]-11).
 
 
 ### 7:4-8
@@ -1216,9 +1216,9 @@ awe at the opening of the seventh seal.
 
 The seven angels receive the seven trumpets. These bodiless powers represent the
 
-OT priests, who also sounded their trumpets during the temple liturgy (see Jos 6:12; 1Ch
+OT priests, who also sounded their trumpets during the temple liturgy (see [[JOS.6:12]]; 1Ch
 
-16:6; Ps 97:6).
+16:6; [[PSA.97:6]]).
 
 
 ### 8:3
@@ -1226,15 +1226,15 @@ OT priests, who also sounded their trumpets during the temple liturgy (see Jos 6
 
 Incense is present in heaven (see 5:8). It symbolizes the prayers of all the saints.
 
-Incense is: (1) commanded by God to Moses for use in Israel's worship (Ex 25:6; 20:18;
+Incense is: (1) commanded by God to Moses for use in Israel's worship ([[EXO.25:6]]; 20:18;
 
-24:16; Lk 1:9-11); (2) used throughout Israel's history under the old covenant (1Ch
+24:16; [[LUK.1:9]]-11); (2) used throughout Israel's history under the old covenant (1Ch
 
 23:13); (3) prophesied by the Lord Himself concerning its use in the Church: incense will
 
-be offered "in every place . . . among the Gentiles" (Mal 1:11); (4) brought by the Magi as a
+be offered "in every place . . . among the Gentiles" ([[MAL.1:11]]); (4) brought by the Magi as a
 
-gift to Jesus (Mt 2:11); and (5) used in Christian worship from the beginning even till
+gift to Jesus ([[MAT.2:11]]); and (5) used in Christian worship from the beginning even till
 
 today, in both East and West.
 
@@ -1270,7 +1270,7 @@ the "one-third" formula, calling the world to repentance before utter destructio
 
 This stage of judgment can be seen to be the prelude--manifested in the natural world--
 
-to the great tribulation (Mt 24:15-22), playing a role much like that of the ten plagues of
+to the great tribulation ([[MAT.24:15]]-22), playing a role much like that of the ten plagues of
 
 Exodus; the end itself is "not yet." The Church is not mentioned until ch. 11, where the
 
@@ -1280,17 +1280,17 @@ calamities of earth are overcome by the Kingdom of God (11:15-19).
 ### 8:7
 *(anchor: REV.8:7)*
 
-Only vegetation is affected. The seventh plague in Egypt is recalled (Ex 9:22-26; see
+Only vegetation is affected. The seventh plague in Egypt is recalled ([[EXO.9:22]]-26; see
 
-also Ezk 5:12; Zec 13:8, 9). The reference to blood most likely comes from Joel (3:3; see
+also [[EZK.5:12]]; [[ZEC.13:8]], [[ZEC.13:9]]). The reference to blood most likely comes from Joel (3:3; see
 
-Acts 2:19). A mixture of hail, fire, and blood is a typical apocalyptic picture of judgment.
+[[ACT.2:19]]). A mixture of hail, fire, and blood is a typical apocalyptic picture of judgment.
 
 
 ### 8:8-9
 *(anchor: REV.8:8)*
 
-As in the first plague of Egypt (Ex 7:14-25), the sea, marine life, and maritime
+As in the first plague of Egypt ([[EXO.7:14]]-25), the sea, marine life, and maritime
 
 commerce are affected.
 
@@ -1304,15 +1304,15 @@ Wormwood, an extremely bitter plant that would make water undrinkable, symbolize
 
 the bitter fruits of idolatry and sorrow to those who pursue adulterous liaisons with the
 
-heathen Gentiles (see Jer 9:12-16; 23:15).
+heathen Gentiles (see [[JER.9:12]]-16; 23:15).
 
 
 ### 8:12
 *(anchor: REV.8:12)*
 
-A three-day period of darkness was the ninth Egyptian plague (Ex 10:21-29). An
+A three-day period of darkness was the ninth Egyptian plague ([[EXO.10:21]]-29). An
 
-unnatural darkness is one of the signs of the end of days (Mk 13:24). Darkening of the
+unnatural darkness is one of the signs of the end of days ([[MRK.13:24]]). Darkening of the
 
 sun, moon, and stars portends cosmic catastrophe. The darkness is partial to indicate it
 
@@ -1322,15 +1322,15 @@ is a warning.
 
 While the star may refer to an angel, the same angel as the one of 20:1 (such
 
-symbolism was known in Judaism: see Job 38:7; also 1En 21:6), it may also represent the
+symbolism was known in Judaism: see [[JOB.38:7]]; also 1En 21:6), it may also represent the
 
-fallen world powers (see Jude 13), a fallen angel (Lk 10:18), or Satan himself (9:11; Is
+fallen world powers (see Jude 13), a fallen angel ([[LUK.10:18]]), or Satan himself (9:11; Is
 
 14:12-15). His "fall" may mean "descent": an angel is sent from heaven by God to unlock
 
 the bottomless pit, the abyss below the earth, the place of confinement for evil spirits
 
-(11:7; 17:8; 20:1-3; also Lk 8:31). The smoke from the pit causes a darkness on the earth;
+(11:7; 17:8; 20:1-3; also [[LUK.8:31]]). The smoke from the pit causes a darkness on the earth;
 
 this may symbolize the spiritual darkness covering the earth during the last times.
 
@@ -1374,7 +1374,7 @@ A terrifying picture of the demonic oppression of sinners in the last times.
 ### 9:11
 *(anchor: REV.9:11)*
 
-In Hebrew, Abaddon refers to destruction (Job 28:22 and 31:12, Hebrew text).
+In Hebrew, Abaddon refers to destruction ([[JOB.28:22]] and 31:12, Hebrew text).
 
 Apollyon is the masculine Greek form for "destroyer." There may be an allusion here to
 
@@ -1386,7 +1386,7 @@ special relationship.
 ### 9:13-16
 *(anchor: REV.9:13)*
 
-The four-horned altar is based on the OT prototype (Ex 27:2). The voice is a
+The four-horned altar is based on the OT prototype ([[EXO.27:2]]). The voice is a
 
 command from God allowing the four angels (v. 14) to create the spiritual conditions
 
@@ -1416,7 +1416,7 @@ of the horrific plagues visited on those who resist God.
 
 Unfortunately, humanity is so addicted to sin that even these terrifying plagues do
 
-not cause the survivors to repent (see 1Co 8:4). Paul (1Co 10:20, 21) and early fathers
+not cause the survivors to repent (see [[1CO.8:4]]). Paul ([[1CO.10:20]], [[1CO.10:21]]) and early fathers
 
 such as Justin Martyr and Irenaeus also connected idol worship with the worship of
 
@@ -1438,7 +1438,7 @@ John once again beholds from earth the angel's descent. God's message comes to
 
 him in a little book (v. 2) or scroll. The descriptive features of the angel are common
 
-symbols for divine glory (Ezk 1:26, 27; Mt 17:2). His feet on the sea and land (v. 2) show
+symbols for divine glory ([[EZK.1:26]], [[EZK.1:27]]; [[MAT.17:2]]). His feet on the sea and land (v. 2) show
 
 his immensity and his authority to speak to the whole earth.
 
@@ -1448,27 +1448,27 @@ his immensity and his authority to speak to the whole earth.
 
 The angel's voice, like a lion's roar, reminds us of God readying Himself for
 
-judgment (Jer 27:44; Am 1:2; Joel 4:16). The seven thunders probably refer to the
+judgment ([[JER.27:44]]; [[AMO.1:2]]; Joel 4:16). The seven thunders probably refer to the
 
-divine voice (Ps 28:3-9; Jn 12:27-33), a fullness of terror, power, and magnificence. In
+divine voice ([[PSA.28:3]]-9; [[JOH.12:27]]-33), a fullness of terror, power, and magnificence. In
 
-Dan 12:4, God tells the prophet to seal up (v. 4) what has been written in his book. So,
+[[DAN.12:4]], God tells the prophet to seal up (v. 4) what has been written in his book. So,
 
 too, St. John is told, regarding what the seven thunders have revealed. This command not
 
 to write down the utterance shows John's revelation does not exhaust divine decrees for
 
-humanity: undisclosed mysteries remain (2Co 12:4).
+humanity: undisclosed mysteries remain ([[2CO.12:4]]).
 
 
 ### 10:5-7
 *(anchor: REV.10:5)*
 
-The angel, lifting his hand in the form for taking an oath (see Gn 14:22; Dan 12:7),
+The angel, lifting his hand in the form for taking an oath (see [[GEN.14:22]]; [[DAN.12:7]]),
 
 swears that the fullness of time has arrived and God's plan for history (the mystery of
 
-God, v. 7) is to be completed. This recalls Ps 118:126, proclaimed by the deacon at the
+God, v. 7) is to be completed. This recalls [[PSA.118:126]], proclaimed by the deacon at the
 
 beginning of the Divine Liturgy: "It is time for the Lord to act!" as an answer to the
 
@@ -1484,7 +1484,7 @@ The voice of God directs John to take the book. The symbolism of eating refers
 
 to receiving a revelation from God: John's account has many parallels to the
 
-commissioning of Ezekiel (Ezk 2:8-3:3; see also Ps 118:103). The contrast between
+commissioning of Ezekiel (Ezk 2:8-3:3; see also [[PSA.118:103]]). The contrast between
 
 sweetness in the mouth and bitterness in the stomach shows the sweetness of receiving
 
@@ -1502,7 +1502,7 @@ measurement indicates the preservation of the temple, not restoration. Commentat
 
 variously interpret the temple as (1) a literal temple to be rebuilt in Jerusalem in the
 
-future, (2) a symbol of the Church (see Eph 2:19-21; 1Pt 2:5), or (3) the Jewish-Christian
+future, (2) a symbol of the Church (see [[EPH.2:19]]-21; [[1PE.2:5]]), or (3) the Jewish-Christian
 
 Church of the first century. The holy city (v. 2) shows the setting to be Jerusalem. The
 
@@ -1522,11 +1522,11 @@ what is not full or final but temporary, incomplete. It derives from Daniel's "a
 
 times, and half a time" (12:7), the three-and-a-half-year period when the temple was to be
 
-profaned (Dan 9:27). John affirms the true temple, the Church, will be preserved during
+profaned ([[DAN.9:27]]). John affirms the true temple, the Church, will be preserved during
 
-this Gentile onslaught. "Temple" is a frequent NT symbol for the Church (1Co 3:16, 17;
+this Gentile onslaught. "Temple" is a frequent NT symbol for the Church ([[1CO.3:16]], [[1CO.3:17]];
 
-2Co 6:16; Eph 2:19-22).
+[[2CO.6:16]]; [[EPH.2:19]]-22).
 
 
 ### 11:3
@@ -1542,15 +1542,15 @@ basis of the tradition that he, too, ascended to heaven. It was Moses who appear
 
 Elijah at the Transfiguration of Jesus. John most likely drew on the Jewish tradition that
 
-Elijah would return to preach in the last days (Mal 3:22; Mt 4:5). Although Jesus
+Elijah would return to preach in the last days ([[MAL.3:22]]; [[MAT.4:5]]). Although Jesus
 
 identified the Elijah figure with John the Baptist, many continued to believe in an actual
 
 appearance of Elijah before the end. Sackcloth was the ancient garb of penitence (see
 
-Jer 4:8; Mt 11:21). The prophecy of the two witnesses will continue for 1,260 days (42
+[[JER.4:8]]; [[MAT.11:21]]). The prophecy of the two witnesses will continue for 1,260 days (42
 
-months or 3-1/2 years; see Dan 7:25; 12:7). This period may be interpreted as "fullness"
+months or 3-1/2 years; see [[DAN.7:25]]; 12:7). This period may be interpreted as "fullness"
 
 (i.e., seven) arrested halfway, imperfect, impermanent, not necessarily to be taken in a
 
@@ -1566,7 +1566,7 @@ eschatological agents of God at work on earth. This symbolic description of the 
 
 is derived from Zechariah's vision concerning Zerubbabel the governor and Joshua the
 
-high priest, who are described as standing "beside the Lord of all the earth" (Zec 4:14).
+high priest, who are described as standing "beside the Lord of all the earth" ([[ZEC.4:14]]).
 
 
 ### 11:5-6
@@ -1588,7 +1588,7 @@ The beast is either the Antichrist or the Roman Empire (see 13:1-10; Dan 7).
 
 The great city . . . where also our Lord was crucified, is clearly Jerusalem
 
-(which kills the prophets; Lk 13:34). Like Sodom and Egypt, Jerusalem becomes selfsufficient and rebels against God.
+(which kills the prophets; [[LUK.13:34]]). Like Sodom and Egypt, Jerusalem becomes selfsufficient and rebels against God.
 
 
 ### 11:9
@@ -1624,7 +1624,7 @@ heaven, provide for us the pivotal verse of the whole of Revelation. Once again 
 
 this world are subject to the Kingdom of God. This is the mystery of mysteries alluded
 
-to in 10:7, which our Lord Himself mentioned, as recorded in Jn 12:31: the judgment of
+to in 10:7, which our Lord Himself mentioned, as recorded in [[JOH.12:31]]: the judgment of
 
 the world and the casting out of Satan is effected by the crucifixion. The voices state this
 
@@ -1684,7 +1684,7 @@ he fell. His intention is to destroy the Messiah.
 
 True Israel brings forth Christ, who, after completion of His saving work, ascends to
 
-heaven (Ps 2:7-9; 46:6).
+heaven ([[PSA.2:7]]-9; 46:6).
 
 
 ### 12:6
@@ -1712,7 +1712,7 @@ picture an event before the creation of the world. However, the context places i
 
 before the end of the world. Satan has been accusing the brethren (v. 10), the Christians,
 
-and his downfall (see Lk 10:18) presages the consummation of the Kingdom (v. 10). Satan
+and his downfall (see [[LUK.10:18]]) presages the consummation of the Kingdom (v. 10). Satan
 
 is overcome by Christ's self-sacrifice and that of the martyrs (v. 11)--those who did not
 
@@ -1728,11 +1728,11 @@ Satan hates Christ and His mother. The Virgin Mary was saved by the inspiration
 
 of the angel who told Joseph to run into Egypt. Likewise, Satan hates Christ and the
 
-Church (Jn 15:21) and attacks the one through the other, since they are identified. One of
+Church ([[JOH.15:21]]) and attacks the one through the other, since they are identified. One of
 
 his first activities is to persecute true Israel. The wings of a great eagle (v. 14) refers to
 
-the original Exodus (Ex 19:4; see Dt 32:11), as the flood (vv. 15, 16) may also be the
+the original Exodus ([[EXO.19:4]]; see [[DEU.32:11]]), as the flood (vv. 15, 16) may also be the
 
 threat of drowning in the Red Sea. However, Satan is unable to prevail. The Jewish
 
@@ -1740,7 +1740,7 @@ Church safely completes its exodus and is preserved during its apocalyptic perio
 
 Church in general will be preserved: the gates of hell cannot prevail against her (Mt
 
-16:18). For Jesus' warnings about this flight, see Mt 24:15-21.
+16:18). For Jesus' warnings about this flight, see [[MAT.24:15]]-21.
 
 
 ### 12:17
@@ -1784,7 +1784,7 @@ tradition has also seen the beast as an image of the Antichrist, the false messi
 
 presents himself in the last times as God incarnate and is accepted by the world (see Jn
 
-5:43; 2Th 1:12; 1Jn 2:18). Since there are "many antichrists" (1Jn 2:18), there may be
+5:43; [[2TH.1:12]]; [[1JN.2:18]]). Since there are "many antichrists" ([[1JN.2:18]]), there may be
 
 more than one application of the beast figure.
 
@@ -1798,7 +1798,7 @@ reference to emperor worship, which Domitian ruthlessly enforced). "Who is like 
 
 beast?" is an allusion to Michael the Archangel, whose name means "Who is like God?"
 
-It is also a parody of God, the incomparable (Ex 15:11; Ps 88:7). Citizens are awed by the
+It is also a parody of God, the incomparable ([[EXO.15:11]]; [[PSA.88:7]]). Citizens are awed by the
 
 power and authority of the empire.
 
@@ -1844,7 +1844,7 @@ apparently vanquishes the Church.
 
 Better rendered "he who is destined for captivity," "he who is destined for the
 
-sword," directed to Christians facing persecution (see Jer 15:2).
+sword," directed to Christians facing persecution (see [[JER.15:2]]).
 
 
 ### 13:11-12
@@ -1856,7 +1856,7 @@ The beast which rose out of the earth with two horns (power) like a lamb
 
 seductive), is worldly religion. Its minister of propaganda, so to speak, mimics John the
 
-Baptist and the Holy Spirit: a false prophet (see 16:13; 19:20; 20:10; Dan 7:8) calling all to
+Baptist and the Holy Spirit: a false prophet (see 16:13; 19:20; 20:10; [[DAN.7:8]]) calling all to
 
 worship the first beast (false divinity). This monster completes the unholy triumvirate:
 
@@ -1874,13 +1874,13 @@ With a parody of Pentecost, this monstrous cult leader is able to make fire
 
 come down from heaven on the earth by means of deception and sorcery (see Mt
 
-24:24; Acts 13:6-12; Didache 16:3-4)--luring people into making an image to the beast
+24:24; [[ACT.13:6]]-12; Didache 16:3-4)--luring people into making an image to the beast
 
 (v. 14; the goddess of Rome or the emperor). Statues were often "brought to life" by
 
 sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus
 
-(Acts 8:9-24) used illusion and occult practices to make idols seem alive. This beast is
+([[ACT.8:9]]-24) used illusion and occult practices to make idols seem alive. This beast is
 
 able to enforce the sentence of death on those who will not worship him (see
 
@@ -1890,7 +1890,7 @@ Nebuchadnezzar's statue in Dan 3).
 ### 13:16-17
 *(anchor: REV.13:16)*
 
-A parody of God's seal of 7:3, even alluding to the Hebrew phylactery of Dt 6:8--
+A parody of God's seal of 7:3, even alluding to the Hebrew phylactery of [[DEU.6:8]]--
 
 where God's Law is kept on the forehead and the left hand--and to chrismation (but not
 
@@ -1956,7 +1956,7 @@ had no idea to whom John was referring!
 ### 14:1
 *(anchor: REV.14:1)*
 
-Mount Zion, the location of the temple in Jerusalem, is the Church (Heb 12:22). It
+Mount Zion, the location of the temple in Jerusalem, is the Church ([[HEB.12:22]]). It
 
 is where the Lamb of God and His one hundred and forty-four thousand faithful
 
@@ -1972,7 +1972,7 @@ The voice from heaven that made the voice of many waters, loud thunder,
 
 and harps recalls the sounds of the temple liturgy. This voice sings a new song (v. 3;
 
-see 5:8-10; Ex 15:1-18; Ps 32:3; 98:1; 149:1; Is 42:10) which only the redeemed faithful
+see 5:8-10; [[EXO.15:1]]-18; [[PSA.32:3]]; 98:1; 149:1; Is 42:10) which only the redeemed faithful
 
 from the earth are able to learn.
 
@@ -1986,15 +1986,15 @@ signifies faithfulness to God. Thus, the 144,000 have kept themselves pure from 
 
 idolatrous worship of the beast. Instead, they are faithful and follow the Lord wherever
 
-He goes (Ru 1:16, 17) as sheep follow a shepherd (and here, the Shepherd is the Lamb),
+He goes ([[RUT.1:16]], [[RUT.1:17]]) as sheep follow a shepherd (and here, the Shepherd is the Lamb),
 
-unlike adulterous Israel (Hos 3:1). These martyred faithful who love not their lives even
+unlike adulterous Israel ([[HOS.3:1]]). These martyred faithful who love not their lives even
 
 unto death are the firstfruits offered to God from among humanity: the faithful
 
 remnant. They are truthful (having nothing to do with the father of lies) and
 
-unblemished (a technical term in OT temple sacrifice; see Ex 12:5; Eph 5:25-27; 1Pt 1:19).
+unblemished (a technical term in OT temple sacrifice; see [[EXO.12:5]]; [[EPH.5:25]]-27; [[1PE.1:19]]).
 
 We shall later encounter them as the bride of the Lamb (19:8; 21:2).
 
@@ -2006,7 +2006,7 @@ judgment.
 ### 14:8
 *(anchor: REV.14:8)*
 
-Babylon the Great, Rome, has fallen (Jer 28:8), an anticipation of the dirge over
+Babylon the Great, Rome, has fallen ([[JER.28:8]]), an anticipation of the dirge over
 
 Babylon in 18:1-19:4 (see Is 21:9). Rome has made the nations, peoples of the empire,
 
@@ -2028,11 +2028,11 @@ The wrath of God (v. 10) shall be poured out like wine, full strength
 
 one. Like a smoldering hotpot, this cup is agonizing, the same bath of fire and
 
-brimstone (the fate of Sodom and Gomorrah, Gn 19:24) reserved for Satan, the beast,
+brimstone (the fate of Sodom and Gomorrah, [[GEN.19:24]]) reserved for Satan, the beast,
 
 and the false prophet (19:20; 20:10; 21:8). Even the presence of God, the Lamb, and His
 
-good servants, the holy angels, is a torment (see the townspeople in Lk 8:37). And, as
+good servants, the holy angels, is a torment (see the townspeople in [[LUK.8:37]]). And, as
 
 the refuse piles in the Valley of Hinnom (Gehenna) smoldered unceasingly outside
 
@@ -2052,9 +2052,9 @@ is too horrible (vv. 9-11).
 
 The Son of Man, royal conqueror (golden crown) and judge (sharp sickle; see
 
-Mt 3:12), appears, seated on a cloud (see Mk 13:26), and reaps the harvest of the
+[[MAT.3:12]]), appears, seated on a cloud (see [[MRK.13:26]]), and reaps the harvest of the
 
-earth, the beginning of the final judgment (see Mt 13:24-30, 36-43; Mk 4:26-29).
+earth, the beginning of the final judgment (see [[MAT.13:24]]-30, 36-43; [[MRK.4:26]]-29).
 
 
 ### 14:18
@@ -2072,11 +2072,11 @@ on earth for a hasty destruction of the destroyers are answered.
 
 The trampling of the wicked who were gathered outside the city recalls the
 
-bloodshed (the crucifixion, Heb 13:12; the martyrdom of Stephen, Acts 7:58-60) that took
+bloodshed (the crucifixion, [[HEB.13:12]]; the martyrdom of Stephen, [[ACT.7:58]]-60) that took
 
 place outside the walls of Jerusalem. The whole world is judged as the Jews would judge
 
-the Gentiles (Joel 4:2, 12; Zec 14:2-12; see also 1En 5:31). The absurdly large amount of
+the Gentiles (Joel 4:2, 12; [[ZEC.14:2]]-12; see also 1En 5:31). The absurdly large amount of
 
 blood (one thousand six hundred furlongs is about 184 miles) suggests the severity
 
@@ -2104,7 +2104,7 @@ hymn used in the liturgy of the early Church. In contrast to the idolatry of the
 
 hymn emphasizes the worthiness of the true God. The song of Moses and the Lamb (v.
 
-3) is prefigured in the hymns of Ex 15:1-18 and Dt 32:1-43, where victory over the
+3) is prefigured in the hymns of [[EXO.15:1]]-18 and [[DEU.32:1]]-43, where victory over the
 
 oppression of Pharaoh and the Egyptians is celebrated. The Jews incorporated these into
 
@@ -2120,17 +2120,17 @@ the Lamb in baptism and at the Great Blessing of Water.
 
 The temple of the tabernacle of the testimony is the heavenly prototype of the
 
-earthly "tabernacle of testimony" (Nm 17:7), containing the witness of God's covenant,
+earthly "tabernacle of testimony" ([[NUM.17:7]]), containing the witness of God's covenant,
 
-the tablets of the Law brought down from Mt. Sinai by Moses (Ex 32:15)--which was
+the tablets of the Law brought down from Mt. Sinai by Moses ([[EXO.32:15]])--which was
 
-itself the archetype of the temple of Jerusalem (see Ex 25:9, 40; Heb 8:5; 9:11; 13:10; Acts
+itself the archetype of the temple of Jerusalem (see [[EXO.25:9]], [[EXO.25:40]]; [[HEB.8:5]]; 9:11; 13:10; Acts
 
-7:44). Seven angels (v. 6) appear out of the temple in priestly vesture (Ezk 9:2; Dan
+7:44). Seven angels (v. 6) appear out of the temple in priestly vesture ([[EZK.9:2]]; Dan
 
-10:5; Heb 1:14; Rev 1:13; 19:14). They are given golden bowls (see the vessels used by
+10:5; [[HEB.1:14]]; [[REV.1:13]]; 19:14). They are given golden bowls (see the vessels used by
 
-the priests in the Jerusalem temple, 5:8; Ex 27:3; Nm 7) by one of the living creatures
+the priests in the Jerusalem temple, 5:8; [[EXO.27:3]]; Nm 7) by one of the living creatures
 
 (v. 7; see 4:6). God's judgment is meted out within the framework of this apocalyptic
 
@@ -2140,9 +2140,9 @@ liturgical theophany.
 ### 15:8
 *(anchor: REV.15:8)*
 
-The temple was filled with smoke from the glory of God (see Is 6:4; Ezk 10:3,
+The temple was filled with smoke from the glory of God (see Is 6:4; [[EZK.10:3]],
 
-4), so that no one was able to enter the temple (see Ex 40:29, where Moses was
+4), so that no one was able to enter the temple (see [[EXO.40:29]], where Moses was
 
 unable to enter the tabernacle; and 3Kg 8:10, 11 where the priests were unable to enter
 
@@ -2176,7 +2176,7 @@ horns of the altar, and the remainder was poured out at the altar's base. Here, 
 
 angelic priests pour out the bowls of God's wrath as a ritual answer to the cry of the
 
-martyrs (from under the altar) for vengeance (see Ps 68:25; Jer 10:21; Zep 3:8).
+martyrs (from under the altar) for vengeance (see [[PSA.68:25]]; [[JER.10:21]]; [[ZEP.3:8]]).
 
 
 ### 16:2-4
@@ -2184,9 +2184,9 @@ martyrs (from under the altar) for vengeance (see Ps 68:25; Jer 10:21; Zep 3:8).
 
 The first bowl is poured out, and the mark of the beast breaks out on those who
 
-received it in foul and loathsome sores, like the sixth plague of Ex 9:8-11. The second
+received it in foul and loathsome sores, like the sixth plague of [[EXO.9:8]]-11. The second
 
-(v. 3) and third (v. 4) bowls are like the first plague (Ex 7:20-21; see Rev 8:8-11).
+(v. 3) and third (v. 4) bowls are like the first plague ([[EXO.7:20]]-21; see [[REV.8:8]]-11).
 
 
 ### 16:5-7
@@ -2216,7 +2216,7 @@ the candidate's worthiness (see WSol 3:5).
 
 16:8, 9 The spiritually hardened followers of the beast cannot repent, but only blaspheme
 
-at the judgments of God. In contrast to Dan 3:22-24, 46-50, where the holy youths who
+at the judgments of God. In contrast to [[DAN.3:22]]-24, 46-50, where the holy youths who
 
 refuse to worship Nebuchadnezzar's image are not even singed by the furnace's heat, here
 
@@ -2226,7 +2226,7 @@ those who worship the beast and its image are scorched with great heat (v. 9).
 ### 16:10
 *(anchor: REV.16:10)*
 
-The plague of darkness is similar to the ninth Egyptian plague (Ex 10:21-29). Here
+The plague of darkness is similar to the ninth Egyptian plague ([[EXO.10:21]]-29). Here
 
 the throne is Rome (in contrast to 2:13), and the kingdom is the empire. Satan has
 
@@ -2242,9 +2242,9 @@ this verse, the historical setting of ch. 9 is clarified: Rome will lose its nat
 
 line (the Euphrates) and be punished by the kings from the east, the Parthians (see
 
-also 6:2; 17:12, 13). The OT miracles of crossing over a river on dry land (Ex 14:21, 22; Jos
+also 6:2; 17:12, 13). The OT miracles of crossing over a river on dry land ([[EXO.14:21]], [[EXO.14:22]]; Jos
 
-3:17) are repeated (see also Is 11:15; Jer 28:36; Zec 10:11).
+3:17) are repeated (see also Is 11:15; [[JER.28:36]]; [[ZEC.10:11]]).
 
 
 ### 16:13
@@ -2252,17 +2252,17 @@ also 6:2; 17:12, 13). The OT miracles of crossing over a river on dry land (Ex 1
 
 An allusion to the second Egyptian plague (Ex 7:26-8:11). The unclean spirits (see
 
-1Ti 4:1; 1Jn 4:3) are like frogs.
+[[1TI.4:1]]; [[1JN.4:3]]) are like frogs.
 
 
 ### 16:14
 *(anchor: REV.16:14)*
 
-Spirits of demons, performing signs are attested by our Lord (Mk 13:22; see
+Spirits of demons, performing signs are attested by our Lord ([[MRK.13:22]]; see
 
-also Acts 13:6; 2Th 2:9). The great day of God Almighty (6:17, foreshadowed in Joel
+also [[ACT.13:6]]; [[2TH.2:9]]). The great day of God Almighty (6:17, foreshadowed in Joel
 
-2:11; Zep 1:14; graphically described in 2Pt 3:12) is the eschatological Day of the Lord.
+2:11; [[ZEP.1:14]]; graphically described in [[2PE.3:12]]) is the eschatological Day of the Lord.
 
 
 ### 16:15
@@ -2270,7 +2270,7 @@ also Acts 13:6; 2Th 2:9). The great day of God Almighty (6:17, foreshadowed in J
 
 In a parenthetical comment, we are told that this Day of the Lord will see Him
 
-coming unexpectedly as a thief in the night (see 3:3; Mt 24:42-44; 1Th 5:2). Like the
+coming unexpectedly as a thief in the night (see 3:3; [[MAT.24:42]]-44; [[1TH.5:2]]). Like the
 
 wise virgins who stand in readiness for the bridegroom who comes at midnight, the Lord
 
@@ -2280,7 +2280,7 @@ duty at the Jerusalem temple was to see that his night guards kept awake during 
 
 watch. If they were caught asleep, they were beaten. If caught a second time, they were
 
-stripped of their garments, their vesture, then and there (see Mk 14:51). A Christian's
+stripped of their garments, their vesture, then and there (see [[MRK.14:51]]). A Christian's
 
 garment is his white baptismal robe, "the garment of righteousness," the putting on of
 
@@ -2292,7 +2292,7 @@ Christ.
 
 Decisive battles in Israel's history were fought in the strategic pass near Megiddo
 
-(see 4Kg 9:27). Armageddon--the word is found only here in Scripture--means "the hill
+(see [[2KI.9:27]]). Armageddon--the word is found only here in Scripture--means "the hill
 
 of Megiddo"; the nearest hill to Megiddo is Mt. Carmel, where Elijah confronted the
 
@@ -2308,7 +2308,7 @@ foreshadowed in Ezk 39 and Joel 4.
 
 The last bowl is a conclusive act of judgment; a loud voice from God's throne
 
-declares, "It is done!" (repeated at 21:6; see Jn 19:30). Cosmic signs of God's presence
+declares, "It is done!" (repeated at 21:6; see [[JOH.19:30]]). Cosmic signs of God's presence
 
 are manifest--evoking Mt. Sinai and other theophanies (see 4:5; 8:5; 11:10), quite similar
 
@@ -2328,11 +2328,11 @@ The great harlot is Rome, the empire with its claims of divinity, sovereignty, a
 
 eternity (see vv. 9, 18), opposed to God and the Church: symbolic of all evil rule. In the
 
-Bible, harlotry frequently symbolizes apostasy and idolatry (see Is 1:21; 23:15; Jer 13:25-
+Bible, harlotry frequently symbolizes apostasy and idolatry (see Is 1:21; 23:15; [[JER.13:25]]-
 
-27; Ezk 16; Hos 4:12; Nah 3:4). The many waters on which the harlot is seated portray
+27; Ezk 16; [[HOS.4:12]]; [[NAH.3:4]]). The many waters on which the harlot is seated portray
 
-both the waters of Babylon--the canals and tributaries of the Euphrates (Ps 136:1; Jer
+both the waters of Babylon--the canals and tributaries of the Euphrates ([[PSA.136:1]]; Jer
 
 28:12, 13)--and the waters of Rome, the seas surrounding Italy. They symbolize the
 
@@ -2344,7 +2344,7 @@ nations who submit to the harlot's rule (v. 15).
 
 Fornication, committed by the kings of the earth with this harlot, is a metaphor
 
-for infidelity to the Lord (Jer 3:1-5; Ezk 23; Hos 2). The vassal kingdoms within the
+for infidelity to the Lord ([[JER.3:1]]-5; Ezk 23; Hos 2). The vassal kingdoms within the
 
 Roman Empire have accepted the cults of Rome and her emperors and have solidified
 
@@ -2354,7 +2354,7 @@ decadence. The wine of this fornication has made the inhabitants of the earth to
 
 become drunk, seduced and stupefied by a hideous eucharist of death, focused on the
 
-persecution and martyrdom of Christians (v. 6; see Jer 28:7).
+persecution and martyrdom of Christians (v. 6; see [[JER.28:7]]).
 
 
 ### 17:3
@@ -2378,7 +2378,7 @@ pearls. Contrast this with the pure linen in which the bride is arrayed in 21:2.
 
 harlot's cup contains the spiritual pollutions by which she contaminates humanity. In
 
-Jer 28:7, Babylon is pictured as a golden cup in the hand of the Lord which makes all the
+[[JER.28:7]], Babylon is pictured as a golden cup in the hand of the Lord which makes all the
 
 earth madly intoxicated.
 
@@ -2390,7 +2390,7 @@ Roman law stated harlots must wear headbands exhibiting their name. This great
 
 harlot bears the mysterious name of BABYLON . . . MOTHER OF HARLOTS. For the
 
-late-first-century Christians, Babylon was incarnate in Rome (see 1Pt 5:13), but it is
+late-first-century Christians, Babylon was incarnate in Rome (see [[1PE.5:13]]), but it is
 
 primarily a spiritual reality, a "mystery," transcending concrete manifestations. For
 
@@ -2450,7 +2450,7 @@ the Roman Empire (see v. 18). Reaping what she sows, Rome will be conquered as s
 
 has conquered. That the ten horns (vassal kings) and the beast (false prophet) will rise
 
-up against the harlot (v. 16) indicates the self-destructiveness of evil (see Ezk 23:11-35).
+up against the harlot (v. 16) indicates the self-destructiveness of evil (see [[EZK.23:11]]-35).
 
 The Antichrist proves himself (in contrast to the true Christ, v. 14) the traitor of traitors.
 
@@ -2462,9 +2462,9 @@ prescribed for a harlot who is the daughter of a priest).
 ### 18:1
 *(anchor: REV.18:1)*
 
-As God is light (4:3; Ps 103:2; 1Ti 6:16), so the angel coming down from heaven
+As God is light (4:3; [[PSA.103:2]]; [[1TI.6:16]]), so the angel coming down from heaven
 
-exudes a lingering radiance (see Moses in Ex 34:29-35).
+exudes a lingering radiance (see Moses in [[EXO.34:29]]-35).
 
 
 ### 18:2
@@ -2482,15 +2482,15 @@ of demonic, foul, and hateful spirits.
 
 God's people are called to come out of her so as not to partake of her
 
-punishment, destruction, and devastation (see Nm 33:51-56; Is 52:11; Jer 27:8; 28:6, 46).
+punishment, destruction, and devastation (see [[NUM.33:51]]-56; Is 52:11; [[JER.27:8]]; 28:6, 46).
 
 Separation from this world is spiritual, not necessarily a physical move but a refusal to
 
-participate in the works of darkness (2Co 6:14-18). As Babylon (Rome) has proclaimed
+participate in the works of darkness ([[2CO.6:14]]-18). As Babylon (Rome) has proclaimed
 
 her own sovereign greatness, sitting as queen (v. 7), so her sins have reached to
 
-heaven (v. 5), recalling the Tower of Babel (Gn 11:4), a symbol of excessive arrogance.
+heaven (v. 5), recalling the Tower of Babel ([[GEN.11:4]]), a symbol of excessive arrogance.
 
 God's judgment will be swift, in one day (v. 8). In Hebrew day denotes not so much a
 
@@ -2500,7 +2500,7 @@ chronological period as a completed act.
 
 distance), stunned by the judgment of Rome and the specter of their own economic loss,
 
-when they see her devastation (see Ps 75:13; Nah 3:4-7). What happened to Sodom (Gn
+when they see her devastation (see [[PSA.75:13]]; [[NAH.3:4]]-7). What happened to Sodom (Gn
 
 19:28) and Edom (Is 34:6-10) is befalling Rome.
 
@@ -2512,7 +2512,7 @@ Like the political leaders (vv. 9, 10), the economic leaders, the merchants, sta
 
 astonished at Rome's sudden destruction and their own loss of revenues. Verses 11-13
 
-list luxury items in Rome's flow of trade (see Ezk 27:12-25).
+list luxury items in Rome's flow of trade (see [[EZK.27:12]]-25).
 
 It was said by the rabbis that "ten measures of wealth came down into the world; Rome
 
@@ -2524,7 +2524,7 @@ bad, their misuse leads to sin, complacency, and a fatal lack of poverty of spir
 
 20). Therefore, excessive wealth easily conflicts with authentic Christian discipleship (see
 
-Mt 6:24). The last item in this list, bodies and souls (v. 13), refers to slaves sold at
+[[MAT.6:24]]). The last item in this list, bodies and souls (v. 13), refers to slaves sold at
 
 auction as human livestock for domestic service, prostitution, and gladiatorial
 
@@ -2542,7 +2542,7 @@ The opposite reaction (see vv. 9-19) in heaven: Justice has prevailed!
 
 The great millstone thrown into the sea recalls Babylon's disasters and
 
-annihilation (Jer 28:59, 60; Nah 3:4-7). Her spell of idolatry, vice, and murder bound the
+annihilation ([[JER.28:59]], [[JER.28:60]]; [[NAH.3:4]]-7). Her spell of idolatry, vice, and murder bound the
 
 whole civilized world with a bewitching belief that she was immortal and secure. But as
 
@@ -2602,23 +2602,23 @@ to praise our God (v. 5).
 
 For the use of the term Omnipotent (Gr. pantokrator), see 1:8; 4:8; 11:17; 15:3; 16:7,
 
-14; 19:15; 21:22, as well as Hos 12:6; Am 4:13. It is used in the NT only in Revelation and
+14; 19:15; 21:22, as well as [[HOS.12:6]]; [[AMO.4:13]]. It is used in the NT only in Revelation and
 
-once in 2Co 6:18, in a quote from the OT. The word means "almighty, all-powerful."
+once in [[2CO.6:18]], in a quote from the OT. The word means "almighty, all-powerful."
 
 19:6-9 At the Passover, deliverance from Egypt--the "Babylon" of Moses' day--was united
 
 with the theme of Israel's betrothal to the Lord (for further nuptial imagery, see Song of
 
-Songs; Hos 2:19; Rom 7:1-6). For marriage is a symbol of the union of God with His
+Songs; [[HOS.2:19]]; [[ROM.7:1]]-6). For marriage is a symbol of the union of God with His
 
-people (see Is 54:1-8; Ezk 16:7-14; Hos 2:1-23), of Christ with His Church (Mt 22:1-14;
+people (see Is 54:1-8; [[EZK.16:7]]-14; [[HOS.2:1]]-23), of Christ with His Church ([[MAT.22:1]]-14;
 
-2Co 11:2; Eph 5:22-32). This union is fulfilled in the rest of Revelation: Jesus, the
+[[2CO.11:2]]; [[EPH.5:22]]-32). This union is fulfilled in the rest of Revelation: Jesus, the
 
-Passover Lamb (1Co 5:7) whose death has ransomed the New Israel, is also the divine
+Passover Lamb ([[1CO.5:7]]) whose death has ransomed the New Israel, is also the divine
 
-Bridegroom (Mt 22:2; 25:1-13).
+Bridegroom ([[MAT.22:2]]; 25:1-13).
 
 A wedding in the Middle East consisted of two parts: the betrothal and the wedding
 
@@ -2634,7 +2634,7 @@ union of Christ and His Church.
 
 The recompense to the faithful for having remained steadfast and pure under
 
-persecution (see Mt 5:12; 1Pt 4:13) is to be clothed with fine linen, clean and bright
+persecution (see [[MAT.5:12]]; [[1PE.4:13]]) is to be clothed with fine linen, clean and bright
 
 (v. 8; see 3:4, 5; 7:14)--the clothes of grace, holiness, and incorruption--and to participate
 
@@ -2642,7 +2642,7 @@ in this mystical supper both as guest (v. 9) and as bride (in apocalyptic litera
 
 uncommon to find mixed images). This supper has already begun in the Eucharist, a
 
-foretaste of the Kingdom (see Mt 26:29; Lk 13:29; 22:30). The Orthodox sing on Pascha
+foretaste of the Kingdom (see [[MAT.26:29]]; [[LUK.13:29]]; 22:30). The Orthodox sing on Pascha
 
 (Easter): "Shine, shine, O New Jerusalem; the glory of the Lord has shone on you. . . .
 
@@ -2662,31 +2662,31 @@ angels (Gr. doulia) and the worship (Gr. latria) due to God alone (see 22:8, 9).
 ### 19:11-16
 *(anchor: REV.19:11)*
 
-Heaven is opened: A standard revelatory formula (4:1; Ezk 1:1; Mt 3:16; Jn 1:51;
+Heaven is opened: A standard revelatory formula (4:1; [[EZK.1:1]]; [[MAT.3:16]]; [[JOH.1:51]];
 
-Acts 7:57). Christ is presented as the Warrior-Messiah, a triumphant King. In Semitic
+[[ACT.7:57]]). Christ is presented as the Warrior-Messiah, a triumphant King. In Semitic
 
 thought, name expressed being. Some of the names of the rider are understandable:
 
-Faithful and True (see 3:13), Word of God (v. 13; see Jn 1:1, 14), KING OF KINGS
+Faithful and True (see 3:13), Word of God (v. 13; see [[JOH.1:1]], [[JOH.1:14]]), KING OF KINGS
 
-(v. 16; see 17:14) AND LORD OF LORDS (see Dt 10:17; 1Ti 6:15). But He also has a
+(v. 16; see 17:14) AND LORD OF LORDS (see [[DEU.10:17]]; [[1TI.6:15]]). But He also has a
 
-secret name only He can understand (v. 12; see 2:17; Dan 2:47), for He is God, and only
+secret name only He can understand (v. 12; see 2:17; [[DAN.2:47]]), for He is God, and only
 
-God can comprehend God (Jn 1:18).
+God can comprehend God ([[JOH.1:18]]).
 
 
 ### 19:13
 *(anchor: REV.19:13)*
 
-His robe dipped in blood (see Gn 49:11; Is 63:1-6) unites Christ's sacrifice on the
+His robe dipped in blood (see [[GEN.49:11]]; Is 63:1-6) unites Christ's sacrifice on the
 
 Cross, granting forgiveness of sin and fulfilling all righteousness, with His making war "in
 
-righteousness" (v. 11), judging sin (see the reaping of the harvest of 14:14-20; Ps 44:3-7;
+righteousness" (v. 11), judging sin (see the reaping of the harvest of 14:14-20; [[PSA.44:3]]-7;
 
-WSol 18:15, 16; Jn 12:31).
+WSol 18:15, 16; [[JOH.12:31]]).
 
 
 ### 19:14
@@ -2704,15 +2704,15 @@ blood of the Lamb (7:14).
 
 The sharp sword from the mouth is judgment, the prophetic word fulfilled (1:16;
 
-2:12; 11:6; Is 11:4); the rod of iron (2:27; 12:5; Ps 2:9) is rule. He treads the
+2:12; 11:6; Is 11:4); the rod of iron (2:27; 12:5; [[PSA.2:9]]) is rule. He treads the
 
-winepress, executing God's wrath on earth (14:19, 20; Is 63:3; Lam 1:15).
+winepress, executing God's wrath on earth (14:19, 20; Is 63:3; [[LAM.1:15]]).
 
 19:17, 18 A graphic portrayal of the triumph of Christ over Antichrist, forming a macabre
 
 contrast with the wedding supper of the Lamb of God (v. 9; 2:17; 3:20). The destruction is
 
-total (see Is 34:1-7; Ezk 39:17-20; Mt 24:28).
+total (see Is 34:1-7; [[EZK.39:17]]-20; [[MAT.24:28]]).
 
 19:20, 21
 
@@ -2728,7 +2728,7 @@ including child sacrifice, had occurred in this valley. It came to be associated
 
 abode of the wicked dead, either awaiting final judgment or actually experiencing eternal
 
-torment (see Mt 18:9). Brimstone, a yellow sulphurous substance that burns easily,
+torment (see [[MAT.18:9]]). Brimstone, a yellow sulphurous substance that burns easily,
 
 exuding a foul odor, is found in the Dead Sea region. The rest were killed (v. 21) so as
 
@@ -2738,13 +2738,13 @@ to await the final judgment.
 ### 20:1
 *(anchor: REV.20:1)*
 
-The bottomless pit (abyss) is the great nether regions (Ps 87:7) where the
+The bottomless pit (abyss) is the great nether regions ([[PSA.87:7]]) where the
 
-disobedient are confined awaiting final judgment. The demons fear it (see Lk 8:31; Jude
+disobedient are confined awaiting final judgment. The demons fear it (see [[LUK.8:31]]; Jude
 
 6). It is reached through a chasm, the key to which is in the hand of the angel. The great
 
-chain binds Satan (Mk 5:3).
+chain binds Satan ([[MRK.5:3]]).
 
 
 ### 20:2
@@ -2760,7 +2760,7 @@ Ecumenical Council. In apocalyptic literature, numbers have symbolic significanc
 
 "Thousand" is often used in the Scriptures to denote a long period of time, a great
 
-quantity, completion, perfection, thoroughness (Job 9:3; 2Pt 3:8). Here, a thousand years
+quantity, completion, perfection, thoroughness ([[JOB.9:3]]; [[2PE.3:8]]). Here, a thousand years
 
 (vv. 2-7) is interpreted as the Church age, when Jesus reigns on earth in those who
 
@@ -2784,9 +2784,9 @@ overcome, even in times of persecution and trial. The word "millennium" is synon
 
 with thousand years, and carries with it no connotations of peace and prosperity. The
 
-Bible teaches that Satan was bound at the completion of Christ's saving work (Mt 12:28,
+Bible teaches that Satan was bound at the completion of Christ's saving work ([[MAT.12:28]],
 
-29; Lk 10:17, 18; Jn 12:31, 32; Col 2:15). He is not totally inactive (Acts 5:3; 1Co 5:5; Eph
+29; [[LUK.10:17]], [[LUK.10:18]]; [[JOH.12:31]], [[JOH.12:32]]; [[COL.2:15]]). He is not totally inactive ([[ACT.5:3]]; [[1CO.5:5]]; Eph
 
 6:11), but he cannot deceive the nations by keeping the gospel from them. At the close
 
@@ -2798,7 +2798,7 @@ of the millennium or Church age, Satan will be released for a little while (vv. 
 
 Those who have died for their witness to Jesus are in heaven living and
 
-reigning with Him (5:9, 10; Mt 19:18; 2Ti 2:12) as royal priests (1:6; 5:9, 10; Is 61:6; 1Pt
+reigning with Him (5:9, 10; [[MAT.19:18]]; [[2TI.2:12]]) as royal priests (1:6; 5:9, 10; Is 61:6; 1Pt
 
 2:9, 10) while the Church serves Him here on earth. The first resurrection (v. 6) is the
 
@@ -2808,13 +2808,13 @@ Christ who die are in Hades awaiting the resurrection of the body at His coming.
 
 righteous saints with Christ, the second death has no power (v. 6). These righteous
 
-spirits (Heb 12:23) await only the reuniting of soul and body after the final judgment,
+spirits ([[HEB.12:23]]) await only the reuniting of soul and body after the final judgment,
 
 when all things are made new (21:1). Hell or Hades (Sheol), where sinners' souls are
 
 separated from their bodies, will give up its dead to Gehenna (vv. 13, 14), the lake of fire
 
-that burns with sulphur (21:8), which is eternal damnation (Mt 25:41). Sinners will be
+that burns with sulphur (21:8), which is eternal damnation ([[MAT.25:41]]). Sinners will be
 
 excluded from the blessedness of the age to come. Hell cannot harm the victorious in
 
@@ -2834,9 +2834,9 @@ hostile to God's people, gathered for one final assault directed against the bel
 
 (v. 9), Jerusalem as the Church. As Elijah called down fire . . . out of heaven on his
 
-persecutors (4Kg 1:10-12), so here God sends a consuming fire (see Gn 19:24; 3Kg 18:38;
+persecutors ([[2KI.1:10]]-12), so here God sends a consuming fire (see [[GEN.19:24]]; 3Kg 18:38;
 
-Ezk 38:22; 39:6). The devil joins the beast and the false prophet in the lake of fire,
+[[EZK.38:22]]; 39:6). The devil joins the beast and the false prophet in the lake of fire,
 
 the second death of eternal damnation, and is no longer a threat to the world.
 
@@ -2844,15 +2844,15 @@ the second death of eternal damnation, and is no longer a threat to the world.
 ### 20:11
 *(anchor: REV.20:11)*
 
-God executes judgment from the great white throne (see Dan 7:9; see also 1En
+God executes judgment from the great white throne (see [[DAN.7:9]]; see also 1En
 
 18:8). The One who sits on the throne in Revelation is God the Father (4:2-9; 5:1, 7, 13;
 
 6:16; 7:10; etc.). However, in the rest of the NT Christ is the judge on the throne (Mt
 
-25:31-46; Jn 5:22; Acts 10:42; 17:31; 2Co 5:10). John is about to show their unity: "the
+25:31-46; [[JOH.5:22]]; [[ACT.10:42]]; 17:31; [[2CO.5:10]]). John is about to show their unity: "the
 
-throne of God and of the Lamb" (22:1). Earth and heaven flee away (Mt 24:35; 2Pt
+throne of God and of the Lamb" (22:1). Earth and heaven flee away ([[MAT.24:35]]; 2Pt
 
 3:10-13) in terror, a cosmic sign of the great Day of the Lord and the coming of the new
 
@@ -2864,17 +2864,17 @@ heaven and earth (21:1).
 
 Standing before God at His throne at the final judgment, the dead are
 
-confronted with their works. The books of judgment (Dan 7:10) contain a record of
+confronted with their works. The books of judgment ([[DAN.7:10]]) contain a record of
 
-men's deeds; their own works will judge them (Ps 61:13; Jer 17:6). This judging of
+men's deeds; their own works will judge them ([[PSA.61:13]]; [[JER.17:6]]). This judging of
 
-believers' works is a common NT theme (Mt 16:27; Rom 2:6; 2Co 5:10; 1Pt 1:17; see also
+believers' works is a common NT theme ([[MAT.16:27]]; [[ROM.2:6]]; [[2CO.5:10]]; [[1PE.1:17]]; see also
 
 the Anaphora of the Liturgy of St. Basil and the hymns for the Sunday of the Last
 
 Judgment). In contrast is the Book of Life. It contains the names of all saved by grace
 
-(see Ex 32:32; Is 4:3; Dan 12:1, 2)--not that they have no works, but that God's mercy is
+(see [[EXO.32:32]]; Is 4:3; [[DAN.12:1]], [[DAN.12:2]])--not that they have no works, but that God's mercy is
 
 far greater in comparison. The Orthodox liturgy thus petitions God for a "good account
 
@@ -2892,7 +2892,7 @@ power to put men to death, but His trampling of death by death. He is victorious
 
 death. The sea as a symbol of turbulence, chaos, and the unknown will be no more (21:1).
 
-Death, the "last enemy that will be destroyed" (1Co 15:26), and Hades, the intermediate
+Death, the "last enemy that will be destroyed" ([[1CO.15:26]]), and Hades, the intermediate
 
 state between death and resurrection, will end. They are cast into hell, the lake of fire
 
@@ -2902,11 +2902,11 @@ state between death and resurrection, will end. They are cast into hell, the lak
 ### 21:1
 *(anchor: REV.21:1)*
 
-The NT teaching that the present world will pass away (see Mt 5:18; Mk 13:31; 1Co
+The NT teaching that the present world will pass away (see [[MAT.5:18]]; [[MRK.13:31]]; 1Co
 
-7:31; 2Pt 3:10-13; 1Jn 2:17) does not mean the present creation will be utterly destroyed.
+7:31; [[2PE.3:10]]-13; [[1JN.2:17]]) does not mean the present creation will be utterly destroyed.
 
-It will be totally renewed (5:9; 21:5; Is 65:17-25; Rom 8:19-22; 2Co 5:17; 2Pt 3:13): freed
+It will be totally renewed (5:9; 21:5; Is 65:17-25; [[ROM.8:19]]-22; [[2CO.5:17]]; [[2PE.3:13]]): freed
 
 from corruption, purified, transfigured, glorified. The first cosmos will pass away.
 
@@ -2914,7 +2914,7 @@ from corruption, purified, transfigured, glorified. The first cosmos will pass a
 ### 21:2
 *(anchor: REV.21:2)*
 
-The holy city, New Jerusalem is the city built by God (Heb 11:10). It is the
+The holy city, New Jerusalem is the city built by God ([[HEB.11:10]]). It is the
 
 perfected Church, the bride ready for her husband, Christ, the abode of the righteous
 
@@ -2926,11 +2926,11 @@ eternally. The OT prophesied a restored and exalted Jerusalem (Is 2:1-4; 54:11-1
 
 The OT also prophesied that God would dwell with His people. The Immanuel
 
-prophecy (Is 7:14; see also Ps 45:5-8) is fulfilled in the Incarnation (Jn 1:14; 17:22), but
+prophecy (Is 7:14; see also [[PSA.45:5]]-8) is fulfilled in the Incarnation ([[JOH.1:14]]; 17:22), but
 
 comes to completion in the messianic age, when God will fully dwell (lit., "in-tent") with
 
-His people, restoring the paradise of old (Gn 2; Lv 26:11, 12; Ezk 37:26, 27; Jer 38:33; 2Co
+His people, restoring the paradise of old (Gn 2; Lv 26:11, 12; [[EZK.37:26]], [[EZK.37:27]]; [[JER.38:33]]; 2Co
 
 6:16). Therefore joy displaces sorrows and sufferings, a great consolation for persecuted
 
@@ -2940,9 +2940,9 @@ believers.
 ### 21:6-8
 *(anchor: REV.21:6)*
 
-The water of life ("living water," Jn 4:10-14; 7:37-39, or "living fountains of
+The water of life ("living water," [[JOH.4:10]]-14; 7:37-39, or "living fountains of
 
-waters," Rev 7:17) is the grace of the Holy Spirit, bestowed along with baptism in
+waters," [[REV.7:17]]) is the grace of the Holy Spirit, bestowed along with baptism in
 
 chrismation. Only the one who thirsts will be given the water forever (v. 6). And,
 
@@ -2970,7 +2970,7 @@ comes from God and so reflects God's splendor.
 ### 21:10
 *(anchor: REV.21:10)*
 
-Like Ezekiel's, John's vantage point is a high mountain (Ezk 40:2); the perfected
+Like Ezekiel's, John's vantage point is a high mountain ([[EZK.40:2]]); the perfected
 
 Church he sees resembles Ezekiel's new temple (Ezk 40-42). The New Jerusalem
 
@@ -2988,13 +2988,13 @@ The splendor described is fitting for the place where God will dwell with His
 
 people (vv. 3, 7). As the breastplate of the high priest was adorned with twelve jewels
 
-corresponding to the twelve tribes (Ex 28:15-21), so the Church is founded on the twelve
+corresponding to the twelve tribes ([[EXO.28:15]]-21), so the Church is founded on the twelve
 
 precious foundation stones of the apostles (v. 14): Heaven is fundamentally priestly. All
 
 who are espoused to Christ, who feast at the wedding supper, and who dwell in the Holy
 
-City, are members of the royal priesthood (1:6; 5:10; 20:6; 1Pt 2:9).
+City, are members of the royal priesthood (1:6; 5:10; 20:6; [[1PE.2:9]]).
 
 
 ### 21:15-21
@@ -3004,7 +3004,7 @@ As in Ezekiel's vision, the angel measures the city (Ezk 40-42): a colossal cube
 
 (12 x 1,000 stadia = 1,500 miles square), recalling the shape of the holy of holies (3Kg
 
-6:19, 20; Ezk 41:4) and symbolic of its perfection: the multiples of 12 symbolize the
+6:19, 20; [[EZK.41:4]]) and symbolic of its perfection: the multiples of 12 symbolize the
 
 people of God, and 1000 shows its greatness. The precious stones portray its glory. As the
 
@@ -3016,9 +3016,9 @@ royal priesthood will walk on a street of pure gold (v. 21).
 ### 21:22
 *(anchor: REV.21:22)*
 
-There is no temple in the old sense in the New Jerusalem (Jn 4:21). Its temple is
+There is no temple in the old sense in the New Jerusalem ([[JOH.4:21]]). Its temple is
 
-the presence of God in all (v. 22; 1Co 15:28; Col 3:11; 1Pt 2:4-10). The Church itself is the
+the presence of God in all (v. 22; [[1CO.15:28]]; [[COL.3:11]]; [[1PE.2:4]]-10). The Church itself is the
 
 temple.
 
@@ -3030,15 +3030,15 @@ The OT prophecies concerning the glorification of Jerusalem are fulfilled in the
 
 eternal Kingdom (see Is 60). Created light is unnecessary. For the everlasting Uncreated
 
-Light will illumine all (Ps 35:10) with true and clear vision to see things as they really are.
+Light will illumine all ([[PSA.35:10]]) with true and clear vision to see things as they really are.
 
-The true Light, the Light of the world (Jn 8:12), was incarnate (Jn 1:9), and even while on
+The true Light, the Light of the world ([[JOH.8:12]]), was incarnate ([[JOH.1:9]]), and even while on
 
-earth He shone with Uncreated Light (Mk 9:2-8; 2Pt 1:16-18). As prophesied, all the
+earth He shone with Uncreated Light ([[MRK.9:2]]-8; [[2PE.1:16]]-18). As prophesied, all the
 
-earth will stream to the Holy City to honor it (Is 55:5; Jer 16:19-21; Tb 13:13; see also 1En
+earth will stream to the Holy City to honor it (Is 55:5; [[JER.16:19]]-21; Tb 13:13; see also 1En
 
-10:21; 48:4, 5)--it has no enemies--but only the pure will live within it (Mt 5:8).
+10:21; 48:4, 5)--it has no enemies--but only the pure will live within it ([[MAT.5:8]]).
 
 
 ### 22:1
@@ -3046,13 +3046,13 @@ earth will stream to the Holy City to honor it (Is 55:5; Jer 16:19-21; Tb 13:13;
 
 The river of water of life manifests the Giver of Life, the Holy Spirit (see 21:6; also
 
-Ezk 47:1-12; Zec 14:8; see also 2En 8:5). The OT Feast of Tabernacles, the festival of the
+[[EZK.47:1]]-12; [[ZEC.14:8]]; see also 2En 8:5). The OT Feast of Tabernacles, the festival of the
 
 Messianic Kingdom, emphasized light and water. As in his Gospel, so here John shows
 
 these themes are fulfilled by Christ and His Church. Christ is the Light of the World
 
-(21:23-26; 22:5 with Jn 8:12); the Holy Spirit is the Water of Life (22:1, 2; 21:6 with Jn
+(21:23-26; 22:5 with [[JOH.8:12]]); the Holy Spirit is the Water of Life (22:1, 2; 21:6 with Jn
 
 7:37-39). The Church is the Messianic Kingdom.
 
@@ -3064,33 +3064,33 @@ throne, the entire Trinity is here.
 
 22:2, 3 The tree of life, a symbol of Christ Himself, gives immortality. It fulfills the tree
 
-of life in Paradise (Gn 3:22) and the other tree of life, the Cross of the Savior, the tree of
+of life in Paradise ([[GEN.3:22]]) and the other tree of life, the Cross of the Savior, the tree of
 
-obedience (1Pt 2:24), a tree of curse (Gal 3:13). But there is no more curse (v. 3) in the
+obedience ([[1PE.2:24]]), a tree of curse ([[GAL.3:13]]). But there is no more curse (v. 3) in the
 
-Holy City: a reversal of the curse of Gn 3:16-19. The fruits and leaves of the tree are
+Holy City: a reversal of the curse of [[GEN.3:16]]-19. The fruits and leaves of the tree are
 
 completely and universally therapeutic, reversing the effects of the fruit of the tree of
 
-disobedience (Gn 3:6).
+disobedience ([[GEN.3:6]]).
 
 
 ### 22:4
 *(anchor: REV.22:4)*
 
-The face of God is that of the glorified Christ (see Jn 14:9; 1Jn 3:2). The face which
+The face of God is that of the glorified Christ (see [[JOH.14:9]]; [[1JN.3:2]]). The face which
 
-cannot be seen is the hidden essence of God (Jn 1:18; 1Ti 6:16). Normally, even to see
+cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normally, even to see
 
-His energy is not possible in this life (Ex 33:20-23; Mt 5:8; Jn 1:18; 1Co 13:12; Heb 12:14;
+His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]];
 
-1Jn 3:2). But in the age to come the faithful, who bear Jesus' name . . . on their
+[[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name . . . on their
 
 foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable
 
 name of God on his forehead, and that he did externally, on a golden headband around
 
-his turban (Ex 28:31-33; see Ezk 9:4-6; Rev 3:12; 7:3). In the NT, all who believe are
+his turban ([[EXO.28:31]]-33; see [[EZK.9:4]]-6; [[REV.3:12]]; 7:3). In the NT, all who believe are
 
 granted His name.
 
@@ -3098,7 +3098,7 @@ granted His name.
 ### 22:5
 *(anchor: REV.22:5)*
 
-The Lord God gives them light perfects the priestly blessing of Nm 6:23-26, a
+The Lord God gives them light perfects the priestly blessing of [[NUM.6:23]]-26, a
 
 concluding benediction of the daily morning and evening sacrifices of the OT temple.
 
@@ -3122,11 +3122,11 @@ John is a brother of the prophets (v. 9).
 
 22:10, 11 The command not to seal the words of the prophecy is a reversal of 10:4 and
 
-Dan 8:26; 12:4, 9. For the time is now, the message is for the contemporary
+[[DAN.8:26]]; 12:4, 9. For the time is now, the message is for the contemporary
 
 communities John is addressing. Some are unable to repent: those who still persist in
 
-their wickedness (see Is 6:9, 10; Ezk 3:27; Dan 12:10; Mk 4:12); the righteous are
+their wickedness (see Is 6:9, 10; [[EZK.3:27]]; [[DAN.12:10]]; [[MRK.4:12]]); the righteous are
 
 encouraged to be steadfast.
 
@@ -3134,7 +3134,7 @@ encouraged to be steadfast.
 
 For the divine titles, see notes on 1:8 (see also 1:17; 2:8; 21:6; Is 41:4; 43:10;
 
-44:6; 48:12). Divine recompense (Is 40:10; Jer 17:6) will be visited on the earth soon (v.
+44:6; 48:12). Divine recompense (Is 40:10; [[JER.17:6]]) will be visited on the earth soon (v.
 
 12).
 
@@ -3144,7 +3144,7 @@ the damned (see 21:8). Many texts read "wash their robes" (see 3:4; 7:14; 16:15)
 
 than do His commandments. The point is the same: it is the pure in Christ who enter
 
-the Kingdom. Dogs (v. 15) refers to the impure (Dt 23:18, 19; Php 3:2; 2Pt 2:22).
+the Kingdom. Dogs (v. 15) refers to the impure ([[DEU.23:18]], [[DEU.23:19]]; [[PHP.3:2]]; [[2PE.2:22]]).
 
 
 ### 22:16
@@ -3162,9 +3162,9 @@ A liturgical dialogue, a reflection of eucharistic theology. The Church as bound
 
 God, the bride in union with the Holy Spirit, invites Christ to "Come!" We plead for
 
-His return (see His answer in v. 20). Those who desire God (21:6; Ps 41:2, 3; 63:1; Is 26:8,
+His return (see His answer in v. 20). Those who desire God (21:6; [[PSA.41:2]], [[PSA.41:3]]; 63:1; Is 26:8,
 
-9; Jn 6:35; 7:37) but who are not yet overcoming the world are in turn invited to come to
+9; [[JOH.6:35]]; 7:37) but who are not yet overcoming the world are in turn invited to come to
 
 Christ.
 
@@ -3172,7 +3172,7 @@ Christ.
 
 and admonishes those in the communities addressed not to distort its message. To do so
 
-is to threaten one's very salvation (see Dt 4:2; 12:32; Gal 1:8, 9).
+is to threaten one's very salvation (see [[DEU.4:2]]; 12:32; [[GAL.1:8]], [[GAL.1:9]]).
 
 
 ### 22:20
@@ -3180,7 +3180,7 @@ is to threaten one's very salvation (see Dt 4:2; 12:32; Gal 1:8, 9).
 
 A liturgical benediction to the book. The bride, recognizing the voice of her Beloved
 
-as He testifies to His advent, runs "out to meet Him" (Mt 25:6) and in her joy proclaims,
+as He testifies to His advent, runs "out to meet Him" ([[MAT.25:6]]) and in her joy proclaims,
 
 Amen. Even so, come, Lord Jesus! This echoes maranatha ("O Lord, come!" in 1Co
 

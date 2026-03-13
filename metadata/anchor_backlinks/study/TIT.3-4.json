@@ -1,0 +1,16 @@
+{
+  "anchor_id": "TIT.3:4",
+  "canon_uri": "canon/NT/TIT.md#TIT.3:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 133,
+      "raw_match": "[[TIT.3:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "sacrament of Holy Baptism (3:5-8; see [[TIT.3:4]]-7)."
+    }
+  ]
+}

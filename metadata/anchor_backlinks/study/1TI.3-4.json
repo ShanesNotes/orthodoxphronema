@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1TI.3:4",
+  "canon_uri": "canon/NT/1TI.md#1TI.3:4",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/PHP_footnotes.md",
+      "line_number": 33,
+      "raw_match": "[[1TI.3:1]]-7",
+      "reference_type": "wikilink_range",
+      "context": "qualifications for the office of bishop ([[1TI.3:1]]-7; [[TIT.1:7]]-9)."
+    },
+    {
+      "source_file": "staging/validated/NT/TIT_footnotes.md",
+      "line_number": 45,
+      "raw_match": "[[1TI.3:1]]-16",
+      "reference_type": "wikilink_range",
+      "context": "with others (v. 8), and careful adherence to tradition (v. 9; see also [[1TI.3:1]]-16; 5:21; 2Ti"
+    }
+  ]
+}

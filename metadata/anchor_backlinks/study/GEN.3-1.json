@@ -1,0 +1,16 @@
+{
+  "anchor_id": "GEN.3:1",
+  "canon_uri": "canon/OT/GEN.md#GEN.3:1",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 32,
+      "raw_match": "[[GEN.3:1]]",
+      "reference_type": "wikilink",
+      "context": "earth\" ([[GEN.3:1]]); and second, to a later pharaoh's attempt to outwit Moses. This early verse"
+    }
+  ]
+}

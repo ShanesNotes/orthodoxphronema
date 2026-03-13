@@ -1,0 +1,23 @@
+{
+  "anchor_id": "DEU.14:8",
+  "canon_uri": "canon/OT/DEU.md#DEU.14:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1249,
+      "raw_match": "[[DEU.14:8]]",
+      "reference_type": "wikilink",
+      "context": "was an abomination to the Jews ([[DEU.14:8]]); (3) demons have no power over creation, but"
+    },
+    {
+      "source_file": "staging/validated/OT/TOB_footnotes.md",
+      "line_number": 48,
+      "raw_match": "[[DEU.14:3]]-21",
+      "reference_type": "wikilink_range",
+      "context": "The bread of the Gentiles is described in [[DEU.14:3]]-21 as unclean food for the"
+    }
+  ]
+}

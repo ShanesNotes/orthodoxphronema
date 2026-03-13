@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LEV.8:19",
+  "canon_uri": "canon/OT/LEV.md#LEV.8:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 544,
+      "raw_match": "[[LEV.8:19]]",
+      "reference_type": "wikilink",
+      "context": "reconciliation of man. 8:15 [[LEV.8:15]], [[LEV.8:19]], [[LEV.8:23]], [[LEV.8:24]]: The blood of the sacrifices was connected with the altar of whole"
+    }
+  ]
+}

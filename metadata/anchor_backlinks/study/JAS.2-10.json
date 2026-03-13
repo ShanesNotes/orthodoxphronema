@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JAS.2:10",
+  "canon_uri": "canon/NT/JAS.md#JAS.2:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 133,
+      "raw_match": "[[JAS.2:10]]",
+      "reference_type": "wikilink",
+      "context": "him guilty of breaking the whole Law ([[JAS.2:10]]). Regardless of how wise a leader may be, all kingdoms in this world are only temporary, and will end because of some weakness in"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 1109,
+      "raw_match": "[[JAS.2:10]]",
+      "reference_type": "wikilink",
+      "context": "breaking the whole of it ([[JAS.2:10]]). There was no other way of attaining righteousness"
+    }
+  ]
+}

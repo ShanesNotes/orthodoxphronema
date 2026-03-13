@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.12:2",
+  "canon_uri": "canon/NT/LUK.md#LUK.12:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 2305,
+      "raw_match": "[[LUK.12:2]]",
+      "reference_type": "wikilink",
+      "context": "([[LUK.12:2]]). The reason the disciples are painfully slow to understand is that they have such"
+    }
+  ]
+}

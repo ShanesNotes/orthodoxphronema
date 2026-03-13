@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.6:33",
+  "canon_uri": "canon/NT/MAT.md#MAT.6:33",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/BAR_footnotes.md",
+      "line_number": 142,
+      "raw_match": "[[MAT.6:26]]-34",
+      "reference_type": "wikilink_range",
+      "context": "Christ alludes to these truths in [[MAT.6:26]]-34."
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 248,
+      "raw_match": "[[MAT.6:33]]",
+      "reference_type": "wikilink",
+      "context": "Jesus said, \"Seek first the kingdom of God and His righteousness\" ([[MAT.6:33]]). The"
+    }
+  ]
+}

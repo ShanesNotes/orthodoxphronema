@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1PE.5:5",
+  "canon_uri": "canon/NT/1PE.md#1PE.5:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 79,
+      "raw_match": "[[1PE.5:5]]",
+      "reference_type": "wikilink",
+      "context": "The story of Jabez affirms the message hidden in the surrounding genealogies: God gives grace to the humble and humbles the proud ([[1PE.5:5]]) in order to save man from"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[1PE.5:5]]",
+      "reference_type": "wikilink",
+      "context": "This theme echoes Pr 3:37 and is repeated by St. Peter ([[1PE.5:5]], [[1PE.5:6]])."
+    }
+  ]
+}

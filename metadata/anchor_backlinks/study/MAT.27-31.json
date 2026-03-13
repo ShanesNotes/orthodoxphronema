@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.27:31",
+  "canon_uri": "canon/NT/MAT.md#MAT.27:31",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 3091,
+      "raw_match": "[[MAT.27:27]]-31",
+      "reference_type": "wikilink_range",
+      "context": "at [[MAT.27:27]]-31). Scourging was a severe punishment using a whip that had bits of bone or"
+    },
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 267,
+      "raw_match": "[[MAT.27:27]]-35",
+      "reference_type": "wikilink_range",
+      "context": "mocked Him, stripped Him, and divided His garments ([[MAT.27:27]]-35), but also the"
+    }
+  ]
+}

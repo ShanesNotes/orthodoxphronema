@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.26:6",
+  "canon_uri": "canon/NT/MAT.md#MAT.26:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 2125,
+      "raw_match": "[[MAT.26:6]]-13",
+      "reference_type": "wikilink_range",
+      "context": "motive (see [[MAT.26:6]]-13 and note). Judas spoke from greed, while the others spoke from"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 132,
+      "raw_match": "[[MAT.26:6]]",
+      "reference_type": "wikilink",
+      "context": "spikenard for His burial while He was at the table ([[MAT.26:6]], [[MAT.26:7]]; [[MRK.14:3]]; [[LUK.7:37]], [[LUK.7:38]]; Jn"
+    }
+  ]
+}

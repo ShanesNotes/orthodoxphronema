@@ -24,9 +24,9 @@ covenant, for their purpose was to lead mankind to Christ. St. Paul says, "There
 
 law was our tutor to bring us to Christ, that we might be justified by faith. But after faith
 
-has come, we are no longer under a tutor" (Gal 3:24, 25). Only domesticated animals could be offered to God--animals dependent on the people, who in turn depended on them. These sacrificial animals were a type of Christ, "the Lamb
+has come, we are no longer under a tutor" ([[GAL.3:24]], [[GAL.3:25]]). Only domesticated animals could be offered to God--animals dependent on the people, who in turn depended on them. These sacrificial animals were a type of Christ, "the Lamb
 
-of God who takes away the sin of the world" (Jn 1:29). 
+of God who takes away the sin of the world" ([[JOH.1:29]]). 
 
 ### 1:3
 *(anchor: LEV.1:3)*
@@ -35,7 +35,7 @@ All such animals were to be without blemish to be acceptable to God. These
 
 unblemished animals were types of Christ: "How much more shall the blood of Christ, who through the eternal Spirit offered Himself without spot to God, cleanse your
 
-conscience from dead works to serve the living God?" (Heb 9:14). 
+conscience from dead works to serve the living God?" ([[HEB.9:14]]). 
 
 ### 1:4
 *(anchor: LEV.1:4)*
@@ -56,13 +56,13 @@ offerer. Similarly, in baptism, the worshiper is united with Christ, for Christ'
 
 becomes in the mystery of baptism the very death, burial, and resurrection of the one
 
-baptized (Rom 6:3, 4). In the Levitical liturgy of worship, the burnt offering was accepted as an atonement on
+baptized ([[ROM.6:3]], [[ROM.6:4]]). In the Levitical liturgy of worship, the burnt offering was accepted as an atonement on
 
 behalf of the worshiper. Atonement is reconciliation to God. Similarly, in the new
 
 covenant liturgy of worship, Christ's offering of Himself is accepted as the worshiper's
 
-means of reconciliation to God (Rom 5:10, 11; 2Co 5:18). 
+means of reconciliation to God ([[ROM.5:10]], [[ROM.5:11]]; [[2CO.5:18]]). 
 
 ### 1:5
 *(anchor: LEV.1:5)*
@@ -105,15 +105,15 @@ The burnt offering was a sweet aroma to the Father. This aroma speaks of the lov
 
 Christ in giving Himself as an offering and sacrifice for us, for no aroma is sweeter to the
 
-Father than this. When we walk in this love, we, too, are a sweet aroma to Him (Eph 5:2). 2:1 Offerings were gifts in order to gain the grace of the one to whom the gift was offered
+Father than this. When we walk in this love, we, too, are a sweet aroma to Him ([[EPH.5:2]]). 2:1 Offerings were gifts in order to gain the grace of the one to whom the gift was offered
 
-(Gn 32:13-21). So it was imperative that the offering be acceptable to the one receiving it. Likewise in Leviticus, gifts acceptable to God were carefully prescribed to Israel. The grain offering of cultivated wheat milled into fine flour was offered as the fruit of
+([[GEN.32:13]]-21). So it was imperative that the offering be acceptable to the one receiving it. Likewise in Leviticus, gifts acceptable to God were carefully prescribed to Israel. The grain offering of cultivated wheat milled into fine flour was offered as the fruit of
 
 the people's labor. As the animals offered were not wild but domestic, so wild grains were
 
 not offered. The grain offering pictures Christ as the totally acceptable grain offering to
 
-God--He who offers all His works as an acceptable offering to the Father. In Jn 12:24, He
+God--He who offers all His works as an acceptable offering to the Father. In [[JOH.12:24]], He
 
 says of Himself, "Most assuredly, I say to you, unless a grain of wheat falls into the
 
@@ -121,15 +121,15 @@ ground and dies, it remains alone; but if it dies, it produces much grain." Jesu
 
 the grain of wheat that died and rose again as man's true spiritual food--the living bread
 
-that came down out of heaven to give life to the world (Jn 6:41-51). The grain offering also pictures the faithful of the Church who offer to God for His
+that came down out of heaven to give life to the world ([[JOH.6:41]]-51). The grain offering also pictures the faithful of the Church who offer to God for His
 
 blessing the works of their hands as co-laborers with Him. As St. Paul wrote, "We are
 
-God's fellow workers" (1Co 3:9). Oil added to the flour typifies the work of the Holy Spirit. Christ offered Himself to the
+God's fellow workers" ([[1CO.3:9]]). Oil added to the flour typifies the work of the Holy Spirit. Christ offered Himself to the
 
-Father through the Holy Spirit (Heb 9:14). The Holy Spirit also helps us co-labor with
+Father through the Holy Spirit ([[HEB.9:14]]). The Holy Spirit also helps us co-labor with
 
-God that our labors might be acceptable to Him (Acts 1:8; Eph 5:18). Frankincense was also added to the various grain offerings. It typified the prayers of
+God that our labors might be acceptable to Him ([[ACT.1:8]]; [[EPH.5:18]]). Frankincense was also added to the various grain offerings. It typified the prayers of
 
 the Church. In Vespers, the Church sings, "Let my prayer arise in Your sight as incense."
 
@@ -139,11 +139,11 @@ The priest placed the grain offering on the altar as a memorial. This memorial s
 
 of Christ when He established the Eucharist on Great and Holy Thursday. He said, "Do
 
-this in remembrance of Me" (Lk 22:19). Remembrance of Him is more than the memory
+this in remembrance of Me" ([[LUK.22:19]]). Remembrance of Him is more than the memory
 
 of Christ's death on the cross in history. It also includes the sprinkling of His precious
 
-blood in heaven when He ascended on high (Heb 9:23, 24). Thus, in partaking of His body
+blood in heaven when He ascended on high ([[HEB.9:23]], [[HEB.9:24]]). Thus, in partaking of His body
 
 and blood in the Eucharist, the Church eats and drinks eternal life, for His flesh is lifegiving. 2:4, 5
 
@@ -151,7 +151,7 @@ The grain offering baked in the oven was to be without either leaven or honey (v
 
 of malice and wickedness, but with the unleavened bread of sincerity and truth" (1Co
 
-5:8). Christ was without sin (Jn 8:46; Heb 7:26-28), and we are to cleanse ourselves from
+5:8). Christ was without sin ([[JOH.8:46]]; [[HEB.7:26]]-28), and we are to cleanse ourselves from
 
 all sin; for sin has no place in the Christian way of life. 2:13
 
@@ -169,7 +169,7 @@ said the Lord to the apostles" (Meth). 3:1
 
 The peace offering was not new, but the laws governing it were new--the how, by
 
-whom and where it was to be offered. Gn 31:54 provides background for the peace
+whom and where it was to be offered. [[GEN.31:54]] provides background for the peace
 
 offering: "Then Jacob offered a sacrifice on the mountain, and called his brethren; and
 
@@ -177,17 +177,17 @@ they ate bread and drank and stayed all night on the mountain." They dined toget
 
 peace. Lv 7:11-34; 19:5-8; 22:21-25 also provide more details concerning the peace
 
-offering. Christ Himself is our peace offering (Eph 2:14; Col 1:20), and through Him we
+offering. Christ Himself is our peace offering ([[EPH.2:14]]; [[COL.1:20]]), and through Him we
 
 are reconciled to God and one another in peace. Through Him we also offer our entire self
 
---body and soul--to God, with whom we find peace (Rom 5:1, 10). 3:3-5
+--body and soul--to God, with whom we find peace ([[ROM.5:1]], [[ROM.5:10]]). 3:3-5
 
 Portions of the animal were offered as a burnt offering to God, but in the new
 
 covenant we are to offer all the members of our body to Him in the service of
 
-righteousness and holiness (Rom 6:19; 12:1; GrgTheo; Nic). 3:8
+righteousness and holiness ([[ROM.6:19]]; 12:1; GrgTheo; Nic). 3:8
 
 The sacrificial animal was to be killed before the doors of the tabernacle of
 
@@ -199,7 +199,7 @@ speaks of the cross, and the tabernacle speaks of heaven. Thus, the cross is con
 
 heaven, for after Jesus ascended to the Father, He sprinkled His blood on the heavenly
 
-altar (Heb 9:11-24). The Church worships in heaven, for worship is heaven on earth. Thus, the bread and
+altar ([[HEB.9:11]]-24). The Church worships in heaven, for worship is heaven on earth. Thus, the bread and
 
 wine of the Eucharist become in a mystery the body and blood of Christ, His very blood
 
@@ -223,7 +223,7 @@ ignorance of the Law (v. 13). In the Law of Moses, no provision was made for wil
 
 arrogance, whether he is native-born or a resident alien, that one is provoking God; and
 
-he shall be utterly destroyed from among His people" (Nm 15:30). Willful sins were sins
+he shall be utterly destroyed from among His people" ([[NUM.15:30]]). Willful sins were sins
 
 committed with knowledge of the Law. But in Christ all sins are remitted--voluntary sins, involuntary sins, and sins in thought, word, and deed--if there is appropriate repentance. 4:3 A Levitical priest is called the anointed priest. Anointed is the word from which the
 
@@ -265,7 +265,7 @@ horns of the altar of incense, and (3) at the altar of burnt offering. We see th
 
 fulfilled in Jesus, who went into the very heavenly holy of holies with His own blood, and
 
-presents it before God continually (Heb 8:1-6; 9:11-13). No one can get closer to God
+presents it before God continually ([[HEB.8:1]]-6; 9:11-13). No one can get closer to God
 
 than that. 4:12-21
 
@@ -281,19 +281,19 @@ the sanctuary by the high priest for sin, are burned outside the camp. Therefore
 
 also, that He might sanctify the people with His own blood, suffered outside the gate"
 
-(Heb 13:11, 12). Jesus said, "For if you believed Moses, you would believe Me; for he
+([[HEB.13:11]], [[HEB.13:12]]). Jesus said, "For if you believed Moses, you would believe Me; for he
 
-wrote about Me" (Jn 5:46). Thus, according to His own words, the sin offering in
+wrote about Me" ([[JOH.5:46]]). Thus, according to His own words, the sin offering in
 
 Leviticus is about Himself. 4:13-21 There is such a thing as corporate sin. Here, the whole congregation of Israel sins
 
-(see also Nm 15:22-26). This typified the Church in the new covenant. Why? Because
+(see also [[NUM.15:22]]-26). This typified the Church in the new covenant. Why? Because
 
 God holds his people accountable--individually and corporately--and even if unknown, sin will still have consequences. When sin becomes known, there must be an offering, because the people of God have a responsibility to represent God to the world. Thus, their
 
 failure is a disaster to the world around them. Paul says of Israel, "For 'the name of God
 
-is blasphemed among the Gentiles because of you'" (Rom 2:24). 4:22-26
+is blasphemed among the Gentiles because of you'" ([[ROM.2:24]]). 4:22-26
 
 There was a distinction of accountability between a private individual's sin and
 
@@ -313,15 +313,15 @@ the people: "Let every soul be subject to the governing authorities. For there i
 
 authority except from God, and the authorities that exist are appointed by God. Therefore
 
-whoever resists the authority resists the ordinance of God" (Rom 13:1, 2). 4:27-35 Though the common people are less accountable before God for their sins, more is
+whoever resists the authority resists the ordinance of God" ([[ROM.13:1]], [[ROM.13:2]]). 4:27-35 Though the common people are less accountable before God for their sins, more is
 
 said about their individual offerings than those of priest, the entire congregation together, or a ruler. The sin offerings of the individuals make up the greater part of all sin offerings
 
-made. Thus, provision must be made for all, even the poorest (see also Nm 15:27-29). The type here reveals Christ the sinless One as being the offering for sin: "For He made
+made. Thus, provision must be made for all, even the poorest (see also [[NUM.15:27]]-29). The type here reveals Christ the sinless One as being the offering for sin: "For He made
 
 Him who knew no sin to be sin for us, that we might become the righteousness of God in
 
-Him" (2Co 5:21). He is accessible to all as an offering--to priest, congregation, ruler, or
+Him" ([[2CO.5:21]]). He is accessible to all as an offering--to priest, congregation, ruler, or
 
 any individual. One's station in life or wealth is no issue. 5:2, 3
 
@@ -331,11 +331,11 @@ animal, or an animal killed by a wild animal, or unclean carcasses of creeping t
 
 the unclean carcasses of cattle, or any human uncleanness--was sin. This uncleanness
 
-was a type of uncleanness relating to both soul and body. Rom 1:23-32; Gal 5:18-21; Eph
+was a type of uncleanness relating to both soul and body. [[ROM.1:23]]-32; [[GAL.5:18]]-21; Eph
 
 5:3-5 list examples of such uncleanness. Under the new covenant, to live an unclean life in body and soul is contrary to the
 
-teachings of Christ (Eph 4:19, 20). Therefore, we must not touch what is unclean, but if
+teachings of Christ ([[EPH.4:19]], [[EPH.4:20]]). Therefore, we must not touch what is unclean, but if
 
 we do, we must cleanse ourselves to be acceptable to the Father (2Co 6:17-7:1). 5:6
 
@@ -351,7 +351,7 @@ voluntary or involuntary, is to be confessed to God, and He is faithful and righ
 
 forgive and cleanse the confessor. If we genuinely confess our known sins, He even
 
-forgives and cleanses the unknown ones as we walk in the light (1Jn 1:7-9). The priest would make atonement for the sinner, that is, reconcile him with God. This
+forgives and cleanses the unknown ones as we walk in the light ([[1JN.1:7]]-9). The priest would make atonement for the sinner, that is, reconcile him with God. This
 
 speaks of Christ, our Great High Priest, who is now in the heavenly holy of holies
 
@@ -361,9 +361,9 @@ sins of the repentant. 5:11
 
 Under the Law of Moses, poverty was no hindrance to attaining the remission of sins. Under the new covenant, Christ became poor for our sakes, for poverty cannot keep a
 
-person from Him and His salvation (2Co 8:9). But love of riches does (Mt 6:24). 5:15
+person from Him and His salvation ([[2CO.8:9]]). But love of riches does ([[MAT.6:24]]). 5:15
 
-Lev 5:15, 21, 25: The sin offering and the trespass offering were similar in that both
+[[LEV.5:15]], [[LEV.5:21]], [[LEV.5:25]]: The sin offering and the trespass offering were similar in that both
 
 were offered for transgressing the Lord's commandments. They were distinct in that the
 
@@ -391,7 +391,7 @@ offering was then brought and the sin atoned for. Zacchaeus made full restitutio
 
 and love on his part. Thus, the Lord said of him, "Today salvation has come to this house"
 
-(Lk 19:9). Jesus also, for His part, made full restitution for sins and trespasses plus onefifth more, through the cross. 6:9
+([[LUK.19:9]]). Jesus also, for His part, made full restitution for sins and trespasses plus onefifth more, through the cross. 6:9
 
 The fire on the bronze altar was to burn continually. The priests were to be sure the
 
@@ -491,7 +491,7 @@ Eucharist is no longer feared. 7:19-22 Cleansing was an essential condition for 
 
 walk in the light as He is in the light, we have fellowship with one another, and the blood
 
-of Jesus Christ His Son cleanses us from all sin" (1Jn 1:7). 7:29, 30 The offerer himself was to offer up the gift from the peace offering. In the new
+of Jesus Christ His Son cleanses us from all sin" ([[1JN.1:7]]). 7:29, 30 The offerer himself was to offer up the gift from the peace offering. In the new
 
 covenant, Christ Himself is both the offerer and the gift offered on behalf of the Church. He also accepts the gift of Himself and distributes it to the faithful in the Eucharist: "For
 
@@ -501,23 +501,23 @@ the Cherubic Hymn). 8:2
 
 Aaron did not take this honor to himself to be the high priest, but was called by God
 
-(Heb 5:4). "So also Christ did not glorify Himself to become High Priest, but . . . [was]
+([[HEB.5:4]]). "So also Christ did not glorify Himself to become High Priest, but . . . [was]
 
-called by God as High Priest 'according to the order of Melchizedek'" (Heb 5:5, 10). 8:6
+called by God as High Priest 'according to the order of Melchizedek'" ([[HEB.5:5]], [[HEB.5:10]]). 8:6
 
 Moses washed Aaron the high priest with water to prepare him for the high
 
 priesthood. This washing was a type of baptism. However, Jesus was not baptized because
 
-He needed it, but "to fulfill all righteousness" (Mt 3:15), for He fulfilled the righteousness
+He needed it, but "to fulfill all righteousness" ([[MAT.3:15]]), for He fulfilled the righteousness
 
 required by the Mosaic Law. Therefore, He was baptized for our sake, "that we might
 
-become the righteousness of God in Him" (2Co 5:21). 8:7-9
+become the righteousness of God in Him" ([[2CO.5:21]]). 8:7-9
 
-Vestments were made for Aaron "for honor and glory" (Ex 28:2). For they were
+Vestments were made for Aaron "for honor and glory" ([[EXO.28:2]]). For they were
 
-patterned after the Great High Priest in His heavenly honor and glory (Ex 25:40; Heb
+patterned after the Great High Priest in His heavenly honor and glory ([[EXO.25:40]]; Heb
 
 8:5). Similarly, vestments are essential to worship under the new covenant, for they
 
@@ -533,23 +533,23 @@ anointing of the Holy Spirit to qualify Him as the Great High Priest, for He Him
 
 anoints others with the Holy Spirit. Then why was He anointed with the Holy Spirit at His
 
-baptism (Mt 3:16)? First, to identify the Holy Spirit as One of the Holy Trinity, and
+baptism ([[MAT.3:16]])? First, to identify the Holy Spirit as One of the Holy Trinity, and
 
-second, for our sakes, that He might anoint us with the Holy Spirit when we are baptized. 8:14 Lev 8:14, 18, 22: Aaron and his sons laid their hands on the heads of these offerings. This typified Christ, the Great High Priest, who both offered and was offered for our
+second, for our sakes, that He might anoint us with the Holy Spirit when we are baptized. 8:14 [[LEV.8:14]], [[LEV.8:18]], [[LEV.8:22]]: Aaron and his sons laid their hands on the heads of these offerings. This typified Christ, the Great High Priest, who both offered and was offered for our
 
-reconciliation with God (Heb 10:12). For since He is God, He offered Himself. He was
+reconciliation with God ([[HEB.10:12]]). For since He is God, He offered Himself. He was
 
-also offered by the Father (Heb 9:28) and by the Holy Spirit (Heb 9:14). Therefore, although Christ alone was the sacrifice, the Holy Trinity was involved in the
+also offered by the Father ([[HEB.9:28]]) and by the Holy Spirit ([[HEB.9:14]]). Therefore, although Christ alone was the sacrifice, the Holy Trinity was involved in the
 
-reconciliation of man. 8:15 Lev 8:15, 19, 23, 24: The blood of the sacrifices was connected with the altar of whole
+reconciliation of man. 8:15 [[LEV.8:15]], [[LEV.8:19]], [[LEV.8:23]], [[LEV.8:24]]: The blood of the sacrifices was connected with the altar of whole
 
 burnt offering and the priests themselves. This typified the Great High Priest, who took
 
-His own blood into the heavenly sanctuary to sanctify it for our salvation (Heb 9:23, 24). 8:26
+His own blood into the heavenly sanctuary to sanctify it for our salvation ([[HEB.9:23]], [[HEB.9:24]]). 8:26
 
-The unleavened bread speaks of Christ as our sinless sacrifice (Heb 7:26). But since
+The unleavened bread speaks of Christ as our sinless sacrifice ([[HEB.7:26]]). But since
 
-He is sinless, in what sense was He made sin for us (2Co 5:21), made a curse (Gal 3:13), forsaken by the Father (Mt 27:46), and made subject to Him (1Co 15:28)? By
+He is sinless, in what sense was He made sin for us ([[2CO.5:21]]), made a curse ([[GAL.3:13]]), forsaken by the Father ([[MAT.27:46]]), and made subject to Him ([[1CO.15:28]])? By
 
 appropriation and in a relative sense. "For neither as God nor as Man was He ever
 
@@ -575,11 +575,11 @@ Christ in His Incarnation and the works of the Holy Spirit are in the sacraments
 
 Church. This is why the sacraments save us. 9:2-21 Four offerings were prescribed by the Lord to initiate the tabernacle service: a sin
 
-offering, a whole burnt offering, a grain offering, and a peace offering, all in that order. The sin offering speaks of reconciliation with God (Rom 5:10); the whole burnt offering, of the full surrender of a life to God (Rom 12:1, 2); the grain offering, of the works of our
+offering, a whole burnt offering, a grain offering, and a peace offering, all in that order. The sin offering speaks of reconciliation with God ([[ROM.5:10]]); the whole burnt offering, of the full surrender of a life to God ([[ROM.12:1]], [[ROM.12:2]]); the grain offering, of the works of our
 
-hands (Jn 14:12); and the peace offering, of intimate communion with God in which we
+hands ([[JOH.14:12]]); and the peace offering, of intimate communion with God in which we
 
-eat and drink the body and blood of Christ (Jn 6:53-58). 
+eat and drink the body and blood of Christ ([[JOH.6:53]]-58). 
 
 ### 9:16
 *(anchor: LEV.9:16)*
@@ -594,7 +594,7 @@ approached on His terms, not man's. Thus, a priesthood was initiated in Israel, 
 
 those ordained were to officiate at an altar, and not just any willing and able Israelite. So too in the new covenant. The worship is to be accomplished "decently and in order"
 
-(1Co 14:40). Priests (clergy) are to be ordained to officiate at the altar. But amazingly, we
+([[1CO.14:40]]). Priests (clergy) are to be ordained to officiate at the altar. But amazingly, we
 
 live in a day when many professing Christians, claiming to be guided by the Bible, spurn
 
@@ -650,19 +650,19 @@ burned up by the fire from heaven, as were Nadab and Abihu" (Iren).
 ### 11:2-4
 *(anchor: LEV.11:2)*
 
-Lev 11:2-4, 47: At least two issues relate to the animals: the nature of animals and
+[[LEV.11:2]]-4, 47: At least two issues relate to the animals: the nature of animals and
 
 eating only clean animals. The nature of all animals is good in itself because the Creator
 
 is good. He did not create anything evil in itself. This also applies to man, whose nature is
 
-good in itself. As Gn 1:31 says, "Then God saw everything He made, and indeed, it was
+good in itself. As [[GEN.1:31]] says, "Then God saw everything He made, and indeed, it was
 
 very good."
 
 The Lawgiver said that foods going into the stomach cannot defile a man; rather, the
 
-evil proceeding from his heart defiles him (Mk 7:15-23). He said this when the Law of
+evil proceeding from his heart defiles him ([[MRK.7:15]]-23). He said this when the Law of
 
 Moses was still in effect. Why then did He declare through Moses that certain animals
 
@@ -672,7 +672,7 @@ various answers may be given, one seems to stand out as especially important: th
 
 of clean animals forecasts the cleansing of both Jews and Gentiles in baptism to form
 
-them into one body, the Church. Peter's vision in Acts 10:9-16 indicates the inclusion of Gentiles into the Church
+them into one body, the Church. Peter's vision in [[ACT.10:9]]-16 indicates the inclusion of Gentiles into the Church
 
 through baptism: "The earth, then, this is what the linen sheet denotes, and the wild
 
@@ -687,7 +687,7 @@ baptism" (JohnChr).
 
 Marriage, conception, and birth are honorable in every way: "Marriage is honorable
 
-among all, and the bed undefiled" (Heb 13:4). Since these things are true, in what sense
+among all, and the bed undefiled" ([[HEB.13:4]]). Since these things are true, in what sense
 
 do conception and birth relate to uncleanness in the Mosaic Law? They were symbolic of the meaning of baptism. The water of baptism is the womb into
 
@@ -697,7 +697,7 @@ which the old life of sins is buried, as indicated by the seven days (v. 2). The
 
 to come. Circumcision on this day is typical of the cutting away of sins by the
 
-circumcision of Christ, effected in baptism (Col 2:11, 12). 
+circumcision of Christ, effected in baptism ([[COL.2:11]], [[COL.2:12]]). 
 
 ### 13:2
 *(anchor: LEV.13:2)*
@@ -713,7 +713,7 @@ the conscience with dead works.
 
 A person with leprosy was pronounced unclean. Similarly, all sin is unclean in the
 
-eyes of God. "God did not call us to uncleanness, but to holiness" (1Th 4:7). 
+eyes of God. "God did not call us to uncleanness, but to holiness" ([[1TH.4:7]]). 
 
 ### 13:9
 *(anchor: LEV.13:9)*
@@ -730,7 +730,7 @@ all things are naked and open to the eyes of Him to whom we must give account" (
 
 offered Himself without spot to God, cleanse your conscience from dead works to serve
 
-the living God?" (Heb 9:14). 
+the living God?" ([[HEB.9:14]]). 
 
 ### 13:46
 *(anchor: LEV.13:46)*
@@ -739,11 +739,11 @@ Leprosy forced the leper into a way of life outside the camp. This way became a
 
 camp to itself. Similarly, the fallen world is a camp to itself, with its own way of life. This
 
-way of life is described as the "old man" (Rom 6:6). This old man was crucified with
+way of life is described as the "old man" ([[ROM.6:6]]). This old man was crucified with
 
 Christ in baptism, and the one baptized is raised up with Christ to walk in newness of life
 
-(Rom 6:3, 4). "Newness of life" is described in Eph 4:24 as "the new man which was
+([[ROM.6:3]], [[ROM.6:4]]). "Newness of life" is described in [[EPH.4:24]] as "the new man which was
 
 created according to God, in true righteousness and holiness."
 
@@ -770,7 +770,7 @@ The person desiring cleansing from his leprosy cannot come to the priest. The pr
 
 must go outside the camp to the one so diseased and sick. So too, Christ went outside the
 
-camp for us: "Therefore Jesus also, that He might sanctify the people with His own blood, suffered outside the gate" (Heb 13:12). 
+camp for us: "Therefore Jesus also, that He might sanctify the people with His own blood, suffered outside the gate" ([[HEB.13:12]]). 
 
 ### 14:6
 *(anchor: LEV.14:6)*
@@ -807,7 +807,7 @@ Note that nonliving matter could be redeemed, for atonement could be made for it
 
 delivered from the bondage of corruption into the glorious liberty of the children of God"
 
-(Rom 8:21). 
+([[ROM.8:21]]). 
 
 ### 14:54-57
 *(anchor: LEV.14:54)*
@@ -820,7 +820,7 @@ do with protecting the people from the disease. Leprosy as a type of sin--and it
 
 good cause for being separated from those who live in willful sin: "A little leaven leavens
 
-the whole lump" (1Co 5:6). Clearly, if one chooses to get really close to sin, to tolerate or
+the whole lump" ([[1CO.5:6]]). Clearly, if one chooses to get really close to sin, to tolerate or
 
 ignore it, and acts as if it isn't there, one may "catch" it. Though leprosy is not the most
 
@@ -829,7 +829,7 @@ contagious of diseases, what a disease with which to gamble!
 ### 15:13
 *(anchor: LEV.15:13)*
 
-Lev 15:13, 14, 28, 29: Cleansing from emissions seven days after the cessation of the
+[[LEV.15:13]], [[LEV.15:14]], [[LEV.15:28]], [[LEV.15:29]]: Cleansing from emissions seven days after the cessation of the
 
 discharge came with the washing with water. On the eighth day, an offering was brought
 
@@ -848,7 +848,7 @@ In light of this passage, consider the account of the woman with the issue of
 
 blood, who, though unclean--but because of her faith in Christ--dared to touch the Lord
 
-as He allowed it (Mk 5:25-34). 
+as He allowed it ([[MRK.5:25]]-34). 
 
 ### 15:31
 *(anchor: LEV.15:31)*
@@ -891,7 +891,7 @@ in general, but also of the baptism of Christ by John the Baptist in the Jordan 
 
 said to John the Baptist, "Permit it to be so now, for thus it is fitting for us to fulfill all
 
-righteousness" (Mt 3:15). The true High Priest was preparing to go into the holy of holies
+righteousness" ([[MAT.3:15]]). The true High Priest was preparing to go into the holy of holies
 
 for the sins of the whole world. He only is without sin, so it was not for His own sins that
 
@@ -948,7 +948,7 @@ seat--the symbol of completion. This was to cleanse the holy of holies--to make
 
 atonement for the holy of holies itself, because of the impurities of the sons of Israel. Similarly, Christ sprinkled His own blood in the heavenly holy of holies so we might enter
 
-there in worship (Heb 9:23, 24). 
+there in worship ([[HEB.9:23]], [[HEB.9:24]]). 
 
 ### 16:21
 *(anchor: LEV.16:21)*
@@ -965,7 +965,7 @@ transgressions of the people--never to be seen again. This reminds us of the Psa
 
 words, "As far as the east is from the west, / So He removes our transgressions from us"
 
-(Ps 102:12). This marvelous reality is part of the foundation of what the Orthodox priest
+([[PSA.102:12]]). This marvelous reality is part of the foundation of what the Orthodox priest
 
 says in the Sacrament of Confession: "And now, having no further care for the sins you
 
@@ -985,7 +985,7 @@ sin, are burned outside the camp. Therefore Jesus also, that He might sanctify t
 
 with His own blood, suffered outside the gate. Therefore let us go forth to Him, outside
 
-the camp, bearing His reproach" (Heb 13:11-13). 
+the camp, bearing His reproach" ([[HEB.13:11]]-13). 
 
 ### 16:33
 *(anchor: LEV.16:33)*
@@ -994,7 +994,7 @@ The atonement granted this day to the people of Israel could picture only in a l
 
 way--as is true of all types--what Christ would do in His suffering and death. This old
 
-covenant offering could not make the conscience of the worshiper perfect (Heb 9:8, 9), though it did cleanse from all sin. But our Great High Priest, Jesus Christ, entered the heavenly holy of holies, where He
+covenant offering could not make the conscience of the worshiper perfect ([[HEB.9:8]], [[HEB.9:9]]), though it did cleanse from all sin. But our Great High Priest, Jesus Christ, entered the heavenly holy of holies, where He
 
 sprinkled His sacrificial blood to deal fully with our sins. Today is the Day of Atonement. Today is the eighth day--the day after which there are no more days. In the old covenant, the high priest went into the holy of holies once every year, and necessarily came back
 
@@ -1068,11 +1068,11 @@ only the blood of the innocent animals sacrificed, but that all animal blood be 
 
 with respect. All life was sacred and to be respected. Of course, this understanding concerning blood in the old covenant was but a type of
 
-the blood of Christ, which initiated the new covenant. On the night of the Last Supper, Jesus said, "This cup is the new covenant in My blood, which is shed for you" (Lk 22:20). St. Paul says, "In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace" (Eph 1:7). Also St. John says, "But if we walk in the
+the blood of Christ, which initiated the new covenant. On the night of the Last Supper, Jesus said, "This cup is the new covenant in My blood, which is shed for you" ([[LUK.22:20]]). St. Paul says, "In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace" ([[EPH.1:7]]). Also St. John says, "But if we walk in the
 
 light as He is in the light, we have fellowship with one another, and the blood of Jesus
 
-Christ His Son cleanses us from all sin" (1Jn 1:7). 
+Christ His Son cleanses us from all sin" ([[1JN.1:7]]). 
 
 ### 17:13-14
 *(anchor: LEV.17:13)*
@@ -1086,7 +1086,7 @@ still the blood was not to be eaten.
 
 Israel was commanded not to live according to the way of life of Egypt and Canaan, nor to walk in their ordinances. The way of life in Egypt and Canaan was fallen, characterized by sinful passions, especially idolatry. The Scriptures describe this way of
 
-life as the "old man" (Rom 6:6), and for the Church, this way of life was crucified with
+life as the "old man" ([[ROM.6:6]]), and for the Church, this way of life was crucified with
 
 Christ in baptism. Nor was Israel to walk in their ordinances, for many of these were unjust and ungodly. Examples of these are given in vv. 19-30, for instance the perversion of homosexuality (v. 22) and sodomy (v. 23). In our modern era, laws are being passed favoring homosexuality
 
@@ -1097,7 +1097,7 @@ and abortion. But laws of this kind are an abomination to God (v. 30).
 
 Israel was to walk in the ordinances of the Mosaic Law. The Church, on the other
 
-hand, is to walk in the Law of Christ, a higher standard than the Mosaic (Rom 8:1-4). 
+hand, is to walk in the Law of Christ, a higher standard than the Mosaic ([[ROM.8:1]]-4). 
 
 ### 18:5
 *(anchor: LEV.18:5)*
@@ -1106,13 +1106,13 @@ Israel was to keep all the ordinances of the Law of Moses. In so doing they woul
 
 attain to righ-teousness, but if they should offend in one point, they would be guilty of
 
-breaking the whole of it (Jam 2:10). There was no other way of attaining righteousness
+breaking the whole of it ([[JAS.2:10]]). There was no other way of attaining righteousness
 
 under this Law than by fulfilling the whole of it. However, they failed to attain the
 
-righteousness required by the Law (Rom 9:31), for such an attainment was an
+righteousness required by the Law ([[ROM.9:31]]), for such an attainment was an
 
-impossibility (Acts 15:10). Their failure required atonement for sins and reconciliation
+impossibility ([[ACT.15:10]]). Their failure required atonement for sins and reconciliation
 
 with God. Christ atoned for their sins and those of the entire world. Through His death and
 
@@ -1128,7 +1128,7 @@ your mouth the Lord Jesus, and believe in your heart God raised Him from the dea
 
 shall be saved, for with the heart one believes unto righteousness, and with the mouth
 
-confession is made unto salvation' (Rom 10:9, 10). . . . There is no long journey to go on, no seas to sail over, no mountains to pass, to get saved. But if you be not minded to cross
+confession is made unto salvation' ([[ROM.10:9]], [[ROM.10:10]]). . . . There is no long journey to go on, no seas to sail over, no mountains to pass, to get saved. But if you be not minded to cross
 
 so much as the threshold, you may even while you sit at home be saved. For 'in your
 
@@ -1167,7 +1167,7 @@ nurtured with the utmost care. The union must not be corrupted by adding to it t
 
 which is foreign. One cannot have a commitment to union with both God and the world
 
-and its attachments, as Christ said: "You cannot serve God and mammon" (Mt 6:24). Nothing should be introduced into the relationship of oneness that would in any way
+and its attachments, as Christ said: "You cannot serve God and mammon" ([[MAT.6:24]]). Nothing should be introduced into the relationship of oneness that would in any way
 
 profane it or make it common. 
 
@@ -1194,7 +1194,7 @@ God," appears approximately fifty times in Leviticus. The "I Am" is of critical 
 
 relationship between God and Israel depended on it. It identified the old covenant Maker. The "I Am" identified Him uniquely as God. At the burning bush, the Lord introduced
 
-Himself to Moses as the "I Am" (Ex 3:6, 14). In Jn 8:58, the identity of the Speaker in Leviticus is made known to be Jesus, who
+Himself to Moses as the "I Am" ([[EXO.3:6]], [[EXO.3:14]]). In [[JOH.8:58]], the identity of the Speaker in Leviticus is made known to be Jesus, who
 
 says to the Jews, "Most assuredly, I say to you, before Abraham was, I AM." He is the Son
 
@@ -1209,7 +1209,7 @@ appearance in the Bible and its only appearance in the Old Testament. It is a su
 
 what was required in the Law of Moses. In the time of Jesus, the religious Jews understood this statement to be crucial to
 
-understanding the Law. Lk 10:25-37 shows this. A lawyer questioned Jesus about the
+understanding the Law. [[LUK.10:25]]-37 shows this. A lawyer questioned Jesus about the
 
 means of acquiring eternal life. Jesus asked him what was his reading of the Law. The
 
@@ -1264,11 +1264,11 @@ which we have begun to be."
 ### 20:9
 *(anchor: LEV.20:9)*
 
-Lev 20:9, 11, 12, 16, 17, 19, 27: The Law of Moses taught that man is only guilty before
+[[LEV.20:9]], [[LEV.20:11]], [[LEV.20:12]], [[LEV.20:16]], [[LEV.20:17]], [[LEV.20:19]], [[LEV.20:27]]: The Law of Moses taught that man is only guilty before
 
 God by free choice, but not by nature. For man is good by nature; otherwise, we would be
 
-imputing guilt to God (Gn 1:31). Thus, man does not possess a sinful nature, for all sins
+imputing guilt to God ([[GEN.1:31]]). Thus, man does not possess a sinful nature, for all sins
 
 are committed by personal choice. No one can claim he sins out of necessity. All sins
 
@@ -1359,7 +1359,7 @@ the world to come. All will participate in the priesthood forever. "To Him who l
 
 and washed us from our sins in His own blood, and has made us kings and priests to His
 
-God and Father, to Him be glory and dominion forever and ever. Amen" (Rev 1:5, 6). 
+God and Father, to Him be glory and dominion forever and ever. Amen" ([[REV.1:5]], [[REV.1:6]]). 
 
 ### 22:1-16
 *(anchor: LEV.22:1)*
@@ -1378,7 +1378,7 @@ you. Whoever eats My flesh and drinks My blood has eternal life, and I will rais
 
 at the last day. For My flesh is food indeed, and My blood is drink indeed. He who eats My
 
-flesh and drinks My blood abides in Me, and I in him" (Jn 6:53-56). This eating of the
+flesh and drinks My blood abides in Me, and I in him" ([[JOH.6:53]]-56). This eating of the
 
 sacrifice is not to be done casually or carelessly. Christ is the life and salvation of the
 
@@ -1414,7 +1414,7 @@ The account that follows is not the entire Jewish calendar. These are the "fixed
 
 feasts," where a convocation--a coming together of the people--was required. They
 
-focused attention on the Lord by means of the sanctification of time and life. Ex 31:13
+focused attention on the Lord by means of the sanctification of time and life. [[EXO.31:13]]
 
 says in this regard, "You shall direct the children of Israel, saying, 'See to it that you keep
 
@@ -1434,7 +1434,7 @@ did for them in delivering them from Egyptian bondage. But more importantly, it 
 
 them to His coming in the flesh. They were to know Him in the blood of a slain lamb, a
 
-sign pointing to Him as the Lamb of God. Yet when He became incarnate as this Lamb, they did not recognize their own Lord who had delivered them from Egypt (Jn 1:11). Pascha also sanctifies the time and life of the Church each year, but not as a sign. For
+sign pointing to Him as the Lamb of God. Yet when He became incarnate as this Lamb, they did not recognize their own Lord who had delivered them from Egypt ([[JOH.1:11]]). Pascha also sanctifies the time and life of the Church each year, but not as a sign. For
 
 the Church is sanctified by the fulfillment of the sign. Great Lent, Holy Week, and Easter
 
@@ -1455,7 +1455,7 @@ full Sabbaths (forty-nine days) plus one day after Pascha, and marked the comple
 
 the grain harvest. Here, the offering was not a sheaf of grain, but rather baked loaves, signifying the Church. Thus, Pentecost also sanctifies the time and life of the Church each year, but not as a
 
-sign. For Christ is the sheaf, the firstfruit. The loaves are the many from the harvest, those from Christ and in Christ--in the Church. In Jn 12:24 Jesus said, "Most assuredly, I
+sign. For Christ is the sheaf, the firstfruit. The loaves are the many from the harvest, those from Christ and in Christ--in the Church. In [[JOH.12:24]] Jesus said, "Most assuredly, I
 
 say to you, unless a grain of wheat falls into the ground and dies, it remains alone; but if
 
@@ -1467,7 +1467,7 @@ Pentecost, fifty days after the Resurrection of Christ, the apostle Peter quoted
 
 Joel to explain what was taking place, "'It shall come to pass in the last days, says God, /
 
-That I will pour out of My Spirit on all flesh'" (Acts 2:17). The gifts of the Spirit for the age
+That I will pour out of My Spirit on all flesh'" ([[ACT.2:17]]). The gifts of the Spirit for the age
 
 of God's kingdom are given to the people of God while still living in this age, as a foretaste
 
@@ -1507,20 +1507,20 @@ lampstand, however, was to be brought by the people. Thus, they and the priests 
 
 involved with this light. Christ is the Light of the world, for He enlightens all. Twice Jesus said He was the light
 
-of the world--in Jn 8:12 and 9:5--but He also told His followers they, too, were the light
+of the world--in [[JOH.8:12]] and 9:5--but He also told His followers they, too, were the light
 
-of the world (Mt 5:13). 
+of the world ([[MAT.5:13]]). 
 
 ### 24:10-15
 *(anchor: LEV.24:10)*
 
 In the heat of passion, this man reviled and denounced the Lord. "Out of the
 
-abundance of the heart the mouth speaks" (Mt 12:34). He reviled the Lord God of Israel
+abundance of the heart the mouth speaks" ([[MAT.12:34]]). He reviled the Lord God of Israel
 
 and died as the penalty. We must take this situation carefully and seriously to heart. The
 
-Lord God of Israel, the Lord Jesus Christ, has a name above every name (Php 2:9, 10). Reviling Him will lead one to much more than physical death. It will lead him to eternal
+Lord God of Israel, the Lord Jesus Christ, has a name above every name ([[PHP.2:9]], [[PHP.2:10]]). Reviling Him will lead one to much more than physical death. It will lead him to eternal
 
 death. Nevertheless, our age is witnessing more and more of this reviling of Jesus as
 
@@ -1531,7 +1531,7 @@ Lord.
 
 The land was to be left at rest every seventh year. Crops were not to be sown or
 
-cultivated. This was a reminder that "man shall not live by bread alone" (Dt 8:3; Mt 4:4). The person who, without rest, pursues the temporal bread of this life will not pursue
+cultivated. This was a reminder that "man shall not live by bread alone" ([[DEU.8:3]]; [[MAT.4:4]]). The person who, without rest, pursues the temporal bread of this life will not pursue
 
 the eternal Bread of Life as he or she ought. Jesus taught us to pray, "Give us this day our
 
@@ -1568,11 +1568,11 @@ is no more bondage. No longer are there any poor or disenfranchised. All are fre
 
 Christ. Everyone and all things are at rest. "There remains therefore a rest for the people
 
-of God" (Heb 4:9). Some blessings of the coming kingdom are experienced in this age, but
+of God" ([[HEB.4:9]]). Some blessings of the coming kingdom are experienced in this age, but
 
 all these blessings will be available in the world to come, wherein all things are restored
 
-unto the ages of ages (Acts 3:19-21). 
+unto the ages of ages ([[ACT.3:19]]-21). 
 
 ### 25:9
 *(anchor: LEV.25:9)*
@@ -1589,7 +1589,7 @@ the last trumpet shall sound at His glorious second coming, then His own will ha
 
 eternal restoration and freedom from any bondage. Even the earth and all creation shall
 
-be renewed. Rev 21:1, 5 says, "Now I saw a new heaven and a new earth, for the first
+be renewed. [[REV.21:1]], [[REV.21:5]] says, "Now I saw a new heaven and a new earth, for the first
 
 heaven and the first earth had passed away. Also there was no more sea. . . . Then He who
 
@@ -1624,4 +1624,4 @@ follow through in keeping it: "When you make a vow to God, do not delay to pay i
 
 He has no pleasure in fools. / Pay what you have vowed. / Better not to vow than to vow
 
-and not pay" (Ecc 5:4, 5).
+and not pay" ([[ECC.5:4]], [[ECC.5:5]]).

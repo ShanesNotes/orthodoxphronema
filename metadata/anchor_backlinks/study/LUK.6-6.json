@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.6:6",
+  "canon_uri": "canon/NT/LUK.md#LUK.6:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EST_footnotes.md",
+      "line_number": 138,
+      "raw_match": "[[LUK.6:6]]",
+      "reference_type": "wikilink",
+      "context": "as the authorities' accusation would be against Jesus ([[LUK.6:6]], [[LUK.6:7]]) and His followers (Acts"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "anchor_id": "JDG.7:16",
+  "canon_uri": "canon/OT/JDG.md#JDG.7:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 60,
+      "raw_match": "[[JDG.7:16]]",
+      "reference_type": "wikilink",
+      "context": "The burning coals (v. 13), writes St. Gregory, are \"holy men\" (see Is 6:6 and note). The lamps signify the light of the gospel (see [[JDG.7:16]]). 1:14-21 The wheels signify Holy Scripture, and the wheel within a wheel illustrates that"
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 188,
+      "raw_match": "[[JDG.7:9]]-25",
+      "reference_type": "wikilink_range",
+      "context": "without the use of weapons (see [[JDG.7:9]]-25). These men prefigure the apostles, who"
+    },
+    {
+      "source_file": "staging/validated/OT/NAH_footnotes.md",
+      "line_number": 68,
+      "raw_match": "[[JDG.7:16]]",
+      "reference_type": "wikilink",
+      "context": "As torches of fire: See [[JDG.7:16]]. The specter of the universal ravager, fire, is invoked"
+    }
+  ]
+}

@@ -16,7 +16,7 @@ The Old Testament contains twelve references to men named Obadiah. Of this
 
 prophet we know little except that his name means "Servant of the Lord." The people of
 
-Edom, descendants of Jacob's elder twin, Esau (see Gn 25:19-26), often stood in conflict
+Edom, descendants of Jacob's elder twin, Esau (see [[GEN.25:19]]-26), often stood in conflict
 
 with Israel (see 3Kg 11:14-17). Throughout this short book, Edom and Esau are employed
 
@@ -70,9 +70,9 @@ pronounced before the full indictment against the nation is proclaimed (it follo
 
 This whole passage is stirringly anticipatory of Jesus' parable of the sheep and
 
-goats (Mt 25:31-46) and His proclamation that actions done or left undone to the
+goats ([[MAT.25:31]]-46) and His proclamation that actions done or left undone to the
 
-children of God are done directly to Christ (Mt 25:40, 45). In addition to the historical
+children of God are done directly to Christ ([[MAT.25:40]], [[MAT.25:45]]). In addition to the historical
 
 events undoubtedly referred to in these verses, Edom is also taken up once again as a
 
@@ -91,7 +91,7 @@ reminded, as you have done, it shall be done to you--a connection between action
 
 consequence that is maintained by Christ in His model prayer: "Forgive us our debts, / As
 
-we forgive our debtors" (Mt 6:12). The day of the Lord, that is, His judgment, will come
+we forgive our debtors" ([[MAT.6:12]]). The day of the Lord, that is, His judgment, will come
 
 upon all the nations. Such people may rage in their pride and deceit (the likely meaning
 

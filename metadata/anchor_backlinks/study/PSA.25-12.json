@@ -1,0 +1,16 @@
+{
+  "anchor_id": "PSA.25:12",
+  "canon_uri": "canon/OT/PSA.md#PSA.25:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 537,
+      "raw_match": "[[PSA.25:12]]",
+      "reference_type": "wikilink",
+      "context": "churches I will bless You, O Lord\" ([[PSA.25:12]]; Vesting Service). Noah blessed God because"
+    }
+  ]
+}

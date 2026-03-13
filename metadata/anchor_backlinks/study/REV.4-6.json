@@ -1,0 +1,23 @@
+{
+  "anchor_id": "REV.4:6",
+  "canon_uri": "canon/NT/REV.md#REV.4:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DAN_footnotes.md",
+      "line_number": 359,
+      "raw_match": "[[REV.4:6]]",
+      "reference_type": "wikilink",
+      "context": "temporary, earthly beasts (see [[REV.4:6]], [[REV.4:7]] and note; see also [[EZK.1:5]], [[EZK.1:21]]). Some of the"
+    },
+    {
+      "source_file": "staging/validated/OT/DAN_footnotes.md",
+      "line_number": 375,
+      "raw_match": "[[REV.4:2]]-6",
+      "reference_type": "wikilink_range",
+      "context": "thrones (see [[REV.4:2]]-6 and notes), the multitude of worshipping angels and other"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "anchor_id": "ROM.1:16",
+  "canon_uri": "canon/NT/ROM.md#ROM.1:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TH_footnotes.md",
+      "line_number": 89,
+      "raw_match": "[[ROM.1:16]]",
+      "reference_type": "wikilink",
+      "context": "others (see [[ACT.4:29]]-31; [[ROM.1:16]])."
+    },
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 1383,
+      "raw_match": "[[ROM.1:16]]",
+      "reference_type": "wikilink",
+      "context": "is preached first to the Jews, God's chosen people, then to the Gentiles ([[ROM.1:16]])."
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 228,
+      "raw_match": "[[ROM.1:16]]",
+      "reference_type": "wikilink",
+      "context": "the four corners of the earth (see [[ACT.1:8]]; [[ROM.1:16]]). The teaching of the apostles"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1676,
+      "raw_match": "[[ROM.1:16]]",
+      "reference_type": "wikilink",
+      "context": "Christ\" ([[ROM.1:16]])."
+    }
+  ]
+}

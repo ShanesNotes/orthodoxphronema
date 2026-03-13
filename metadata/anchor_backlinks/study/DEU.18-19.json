@@ -1,0 +1,23 @@
+{
+  "anchor_id": "DEU.18:19",
+  "canon_uri": "canon/OT/DEU.md#DEU.18:19",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 275,
+      "raw_match": "[[DEU.18:15]]-19",
+      "reference_type": "wikilink_range",
+      "context": "Moses foretold ([[DEU.18:15]]-19)."
+    },
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1331,
+      "raw_match": "[[DEU.18:15]]-19",
+      "reference_type": "wikilink_range",
+      "context": "([[DEU.18:15]]-19)."
+    }
+  ]
+}

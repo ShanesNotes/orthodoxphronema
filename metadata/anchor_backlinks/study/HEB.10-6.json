@@ -1,0 +1,16 @@
+{
+  "anchor_id": "HEB.10:6",
+  "canon_uri": "canon/NT/HEB.md#HEB.10:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 801,
+      "raw_match": "[[HEB.10:5]]-7",
+      "reference_type": "wikilink_range",
+      "context": "Ps 39 is a prophecy of the Incarnation (vv. 7-9; see also [[HEB.10:5]]-7). In His"
+    }
+  ]
+}

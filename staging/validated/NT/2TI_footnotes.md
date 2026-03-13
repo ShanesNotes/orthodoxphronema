@@ -22,11 +22,11 @@ it is not automatic. We must stir up and rekindle it.
 ### 1:7
 *(anchor: 2TI.1:7)*
 
-While any Christian may be persecuted (Jn 15:20; see Mt 5:11, 12 and note), we reject
+While any Christian may be persecuted ([[JOH.15:20]]; see [[MAT.5:11]], [[MAT.5:12]] and note), we reject
 
-feelings of fear or timidity. We do not "quench the Spirit" (1Th 5:19), but act with power
+feelings of fear or timidity. We do not "quench the Spirit" ([[1TH.5:19]]), but act with power
 
-and courage (2:12; see Mt 10:33; Lk 9:26).
+and courage (2:12; see [[MAT.10:33]]; [[LUK.9:26]]).
 
 
 ### 1:9
@@ -34,7 +34,7 @@ and courage (2:12; see Mt 10:33; Lk 9:26).
 
 Our salvation and calling are based on His grace and love, not on anything we have
 
-done to merit God's favor (Eph 2:8-10; Tts 3:5, 6).
+done to merit God's favor ([[EPH.2:8]]-10; [[TIT.3:5]], [[TIT.3:6]]).
 
 
 ### 1:10
@@ -58,7 +58,7 @@ earth, to prove that after he has brought about the resurrection he will judge" 
 
 The pattern of sound words (v. 13) is oral apostolic tradition which you have
 
-heard. It holds the same weight as written apostolic tradition (see 2:2; 2Th 2:5). Oral or
+heard. It holds the same weight as written apostolic tradition (see 2:2; [[2TH.2:5]]). Oral or
 
 written, this Holy Tradition is rooted in Christ Jesus (v. 13) and kept by the Holy
 
@@ -154,7 +154,7 @@ necessity of struggle.
 
 Good theology helps us along the path to good behavior. Although the truth
 
-stands firm and unalterable and cannot tolerate the false (see 1Co 5:1-13; 2Co 6:14-18),
+stands firm and unalterable and cannot tolerate the false (see [[1CO.5:1]]-13; [[2CO.6:14]]-18),
 
 it instills a reasonable patience and gentleness toward all, especially toward false teachers
 
@@ -170,9 +170,9 @@ Church has seen this and other warnings as a reference to the days just before H
 
 coming again. A great decay in morals (see Mt 24; Mk 13; 2Th 2; 2Pt 2; compare Rom
 
-1:28-32) will even infiltrate the Church (v. 5; see Mt 7:15-27; 1Co 5:1-5; 1Ti 4:1-11). Like
+1:28-32) will even infiltrate the Church (v. 5; see [[MAT.7:15]]-27; [[1CO.5:1]]-5; [[1TI.4:1]]-11). Like
 
-the prominent men of Cain's city (Gn 4:16-24), these offenders willfully reject law and
+the prominent men of Cain's city ([[GEN.4:16]]-24), these offenders willfully reject law and
 
 morals out of love of self and love of pleasure.
 
@@ -184,11 +184,11 @@ The form and power of godliness are intended to be inseparable. We normally do
 
 not have the power of godliness without the form. Charismatic power, however, can be
 
-twisted for evil and greed (Acts 8:9-20). Outward forms, even of liturgical worship, can
+twisted for evil and greed ([[ACT.8:9]]-20). Outward forms, even of liturgical worship, can
 
-be carried on without power or conviction (see Mt 7:15; 24:4, 5, 24). As faith without
+be carried on without power or conviction (see [[MAT.7:15]]; 24:4, 5, 24). As faith without
 
-works is a form without substance (Jam 2:26), so is religion without power. This is a
+works is a form without substance ([[JAS.2:26]]), so is religion without power. This is a
 
 stern warning to those of us committed to proper form.
 
@@ -206,7 +206,7 @@ Moses in Ex 7.
 
 Paul's life exhibits what the Lord taught: In this world, godliness elicits
 
-persecution (see Jn 15:20).
+persecution (see [[JOH.15:20]]).
 
 
 ### 3:14-17
@@ -216,7 +216,7 @@ Having exhorted Timothy with the example of his own steadfastness (vv. 10-13),
 
 Paul now issues a reminder of the depth of Timothy's training, which combined both oral
 
-and written instruction (see Mt 28:16-20; 1Co 11:2; 2Th 2:15; 3:6). A part of this tradition
+and written instruction (see [[MAT.28:16]]-20; [[1CO.11:2]]; [[2TH.2:15]]; 3:6). A part of this tradition
 
 is Scripture. Paul, of course, speaks of the OT, since the NT did not yet exist.
 
@@ -234,7 +234,7 @@ sacrifices at the conclusion of both Jewish and pagan rites.
 
 The race is the life and work that God gave Paul. The comparison of the spiritual life
 
-to an athletic contest (see 1Co 9:24-27) is common in the writings of the ascetic Fathers.
+to an athletic contest (see [[1CO.9:24]]-27) is common in the writings of the ascetic Fathers.
 
 
 ### 4:10
@@ -242,7 +242,7 @@ to an athletic contest (see 1Co 9:24-27) is common in the writings of the asceti
 
 Demas provides a sobering footnote to Paul's ministry. He was Paul's companion in
 
-Rome, his co-laborer in apostleship, and a close friend of Luke (Col 4:14; Phm 24). Yet
+Rome, his co-laborer in apostleship, and a close friend of Luke ([[COL.4:14]]; Phm 24). Yet
 
 Demas--after these great and glorious years of service with the Apostle--forsook Paul,
 
@@ -258,7 +258,7 @@ than we ought.
 ### 4:11
 *(anchor: 2TI.4:11)*
 
-Paul is now reconciled with (John) Mark (see Acts 15:37-40). The sharp contention
+Paul is now reconciled with (John) Mark (see [[ACT.15:37]]-40). The sharp contention
 
 between Barnabas and Paul is forgotten, and the true love of Christ reigns.
 

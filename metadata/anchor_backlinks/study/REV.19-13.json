@@ -1,0 +1,23 @@
+{
+  "anchor_id": "REV.19:13",
+  "canon_uri": "canon/NT/REV.md#REV.19:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2MA_footnotes.md",
+      "line_number": 577,
+      "raw_match": "[[REV.19:13]]",
+      "reference_type": "wikilink",
+      "context": "The King of kings is the Eternal Son and Word of God ( see [[REV.19:13]], [[REV.19:16]])."
+    },
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 454,
+      "raw_match": "[[REV.19:13]]",
+      "reference_type": "wikilink",
+      "context": "heaven. The Son of God is a warrior, saving His people (see [[EXO.15:3]]; [[REV.19:13]]). 18:20-25 Once again salvation in Christ is foreshadowed when the high priestly prayers of"
+    }
+  ]
+}

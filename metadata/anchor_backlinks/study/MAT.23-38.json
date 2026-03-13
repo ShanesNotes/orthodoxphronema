@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MAT.23:38",
+  "canon_uri": "canon/NT/MAT.md#MAT.23:38",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1839,
+      "raw_match": "[[MAT.23:38]]",
+      "reference_type": "wikilink",
+      "context": "prophecies of the OT (see note on 36:17; [[MAT.23:38]]; [[LUK.21:20]]-24). The River is the"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 2011,
+      "raw_match": "[[MAT.23:38]]",
+      "reference_type": "wikilink",
+      "context": "former one, is the New Jerusalem, the Church of the Living God (see also [[MAT.23:38]], [[MAT.23:39]])."
+    }
+  ]
+}

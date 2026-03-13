@@ -1,0 +1,30 @@
+{
+  "anchor_id": "REV.2:14",
+  "canon_uri": "canon/NT/REV.md#REV.2:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/NUM_footnotes.md",
+      "line_number": 885,
+      "raw_match": "[[REV.2:14]]",
+      "reference_type": "wikilink",
+      "context": "things sacrificed to idols\" ([[REV.2:14]]; see [[NUM.31:16]]). Soon afterward, the Israelites killed"
+    },
+    {
+      "source_file": "staging/validated/OT/NUM_footnotes.md",
+      "line_number": 894,
+      "raw_match": "[[REV.2:14]]",
+      "reference_type": "wikilink",
+      "context": "(31:16; [[REV.2:14]]). For he perceived the weakness in the souls of the Israelites. What was"
+    },
+    {
+      "source_file": "staging/validated/OT/NUM_footnotes.md",
+      "line_number": 1052,
+      "raw_match": "[[REV.2:14]]",
+      "reference_type": "wikilink",
+      "context": "worship idols and commit fornication (25:1-3; [[REV.2:14]]). He became a false prophet and"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "anchor_id": "EXO.33:20",
+  "canon_uri": "canon/OT/EXO.md#EXO.33:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 201,
+      "raw_match": "[[EXO.33:20]]",
+      "reference_type": "wikilink",
+      "context": "for to see God is to die ([[EXO.33:20]]). Only One who is Himself divine can see God, and thus"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3085,
+      "raw_match": "[[EXO.33:20]]-23",
+      "reference_type": "wikilink_range",
+      "context": "His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]];"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 578,
+      "raw_match": "[[EXO.33:20]]",
+      "reference_type": "wikilink",
+      "context": "The Bridegroom warns His Bride against trying to somehow see His Divine Essence, for no one shall see Him and live ([[EXO.33:20]]). The angels, even the mighty seraphim, veil"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "anchor_id": "PHP.2:5",
+  "canon_uri": "canon/NT/PHP.md#PHP.2:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2CO_footnotes.md",
+      "line_number": 565,
+      "raw_match": "[[PHP.2:5]]-8",
+      "reference_type": "wikilink_range",
+      "context": "What was Christ's poverty? He emptied Himself ([[PHP.2:5]]-8) of His heavenly glory to"
+    },
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 21,
+      "raw_match": "[[PHP.2:5]]-11",
+      "reference_type": "wikilink_range",
+      "context": "(see [[PHP.2:5]]-11 for a close parallel)."
+    },
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 223,
+      "raw_match": "[[PHP.2:5]]-11",
+      "reference_type": "wikilink_range",
+      "context": "See especially [[PHP.2:5]]-11. Made a little lower than the angels refers to the"
+    },
+    {
+      "source_file": "staging/validated/OT/EST_footnotes.md",
+      "line_number": 158,
+      "raw_match": "[[PHP.2:5]]-7",
+      "reference_type": "wikilink_range",
+      "context": "out among his people to share in their sufferings (see [[PHP.2:5]]-7). 4:4"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 798,
+      "raw_match": "[[PHP.2:5]]",
+      "reference_type": "wikilink",
+      "context": "begotten Son, God of God, co-equal with the Father. Also, Wisdom, the preincarnate Son, is exalted above all. Perhaps St. Paul had this passage in mind when he penned [[PHP.2:5]]-"
+    }
+  ]
+}

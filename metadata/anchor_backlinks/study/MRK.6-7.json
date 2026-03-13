@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MRK.6:7",
+  "canon_uri": "canon/NT/MRK.md#MRK.6:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 2131,
+      "raw_match": "[[MRK.6:7]]",
+      "reference_type": "wikilink",
+      "context": "to exercise apostolic authority (6:11; see also [[MRK.6:7]]); He washed Judas' feet with the"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1571,
+      "raw_match": "[[MRK.6:7]]",
+      "reference_type": "wikilink",
+      "context": "journey,\" as Mark reports they were sent out two by two ([[MRK.6:7]])."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NEH.8:18",
+  "canon_uri": "canon/OT/NEH.md#NEH.8:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2MA_footnotes.md",
+      "line_number": 67,
+      "raw_match": "[[NEH.8:13]]-18",
+      "reference_type": "wikilink_range",
+      "context": "It is noteworthy that an eighth day was added to this celebration (see [[NEH.8:13]]-18). This section of 2 Maccabees is referring to the feast of Hanukkah, which celebrates fire"
+    }
+  ]
+}

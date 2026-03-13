@@ -1,0 +1,23 @@
+{
+  "anchor_id": "EXO.17:8",
+  "canon_uri": "canon/OT/EXO.md#EXO.17:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2MA_footnotes.md",
+      "line_number": 163,
+      "raw_match": "[[EXO.17:8]]",
+      "reference_type": "wikilink",
+      "context": "lifting of hands for intercession is in Moses' role in Israel's victory over Amalek ([[EXO.17:8]]-"
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1895,
+      "raw_match": "[[EXO.17:8]]-13",
+      "reference_type": "wikilink_range",
+      "context": "It is probable that Ben Sirach is speaking of the incident in [[EXO.17:8]]-13 when"
+    }
+  ]
+}

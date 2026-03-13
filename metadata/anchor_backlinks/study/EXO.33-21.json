@@ -1,0 +1,23 @@
+{
+  "anchor_id": "EXO.33:21",
+  "canon_uri": "canon/OT/EXO.md#EXO.33:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 205,
+      "raw_match": "[[EXO.33:21]]-23",
+      "reference_type": "wikilink_range",
+      "context": "received by the faithful. Moses saw the \"back\" of God ([[EXO.33:21]]-23); Isaiah saw His glory"
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3085,
+      "raw_match": "[[EXO.33:20]]-23",
+      "reference_type": "wikilink_range",
+      "context": "His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]];"
+    }
+  ]
+}

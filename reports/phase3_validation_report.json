@@ -1,0 +1,19 @@
+{
+  "status": "WARN",
+  "file_count": 6094,
+  "errors": [],
+  "warnings": [
+    "/home/ark/orthodoxphronema/metadata/anchor_backlinks/study/1CO.1-24.json: 1 duplicate inbound link(s)",
+    "/home/ark/orthodoxphronema/metadata/anchor_backlinks/study/1JN.2-18.json: 1 duplicate inbound link(s)",
+    "/home/ark/orthodoxphronema/metadata/anchor_backlinks/study/EXO.20-8.json: 1 duplicate inbound link(s)",
+    "/home/ark/orthodoxphronema/metadata/anchor_backlinks/study/EXO.3-14.json: 1 duplicate inbound link(s)",
+    "/home/ark/orthodoxphronema/metadata/anchor_backlinks/study/NUM.11-17.json: 1 duplicate inbound link(s)",
+    "/home/ark/orthodoxphronema/metadata/anchor_backlinks/study/REV.1-15.json: 1 duplicate inbound link(s)"
+  ],
+  "high_degree_anchors": [],
+  "zero_degree": {
+    "book_code": null,
+    "count": 0,
+    "sample": []
+  }
+}

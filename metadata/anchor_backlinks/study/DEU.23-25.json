@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.23:25",
+  "canon_uri": "canon/OT/DEU.md#DEU.23:25",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1805,
+      "raw_match": "[[DEU.23:25]]",
+      "reference_type": "wikilink",
+      "context": "heads of grain in a neighbor's field ([[DEU.23:25]]), they consider it \"reaping\" and therefore"
+    }
+  ]
+}

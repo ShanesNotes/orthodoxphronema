@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JER.28:60",
+  "canon_uri": "canon/OT/JER.md#JER.28:60",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2545,
+      "raw_match": "[[JER.28:60]]",
+      "reference_type": "wikilink",
+      "context": "annihilation ([[JER.28:59]], [[JER.28:60]]; [[NAH.3:4]]-7). Her spell of idolatry, vice, and murder bound the"
+    }
+  ]
+}

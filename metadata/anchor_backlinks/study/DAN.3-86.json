@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DAN.3:86",
+  "canon_uri": "canon/OT/DAN.md#DAN.3:86",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/3MA_footnotes.md",
+      "line_number": 593,
+      "raw_match": "[[DAN.3:23]]-91",
+      "reference_type": "wikilink_range",
+      "context": "the fiery furnace ([[DAN.3:23]]-91). This would have become a regular feature in Jewish"
+    }
+  ]
+}

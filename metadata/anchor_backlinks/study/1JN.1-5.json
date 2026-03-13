@@ -1,0 +1,30 @@
+{
+  "anchor_id": "1JN.1:5",
+  "canon_uri": "canon/NT/1JN.md#1JN.1:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1435,
+      "raw_match": "[[1JN.1:5]]",
+      "reference_type": "wikilink",
+      "context": "the Scriptures, God the Father Himself is light (1:4-9; [[1JN.1:5]]), an attribute He bestows"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_articles.md",
+      "line_number": 61,
+      "raw_match": "[[1JN.1:5]]",
+      "reference_type": "wikilink",
+      "context": "' A nd He was transfigured before them. His face shone like the sun, and His clothes became as white as the light' (17:2). The Transfiguration is a theophany -a manifestation of God, especially of the divinity of Christ, through a display of His uncreated, divine energy. Therefore, the Orthodox Church celebrates the Transfiguration of the Lord as a major feast day. Several elements of the Transfiguration show that Christ is Messiah and God. 1 Because God is light ([[1JN.1:5]]), the bright cloud, the shining of Jesus' face like the sun, and the whiteness of His garment ([[MAT.17:2]], [[MAT.17:5]]) all demonstrate that Jesus is God. (In some icons this light is shown as beyond white, a blue-white, ineffable color, indicating its spiritual origin.) 2 The Father bears witness from heaven concerning His Son. He does not say, 'This has become My beloved Son,' but 'This is My beloved Son' (17:5), indicating that this divine glory is Christ's by nature. From eternity past, infinitely before Jesus' Baptism and Transfiguration, He is God's Son, fully sharing in the essence of the Father: Jesus Christ is God of God. 3 The Transfiguration not only proclaims Christ's divine sonship, but foreshadows His future glory when He as the Messiah will usher in the long-awaited Kingdom. The bright cloud recalls temple worship and the cloud that went before the Israelites in the wilderness, the visible sign of God being extraordinarily present. Peter sees this as a sign that the Kingdom has come. Knowing that the Feast of Tabernacles is the feast of the coming Kingdom, he asks to build booths (17:4), as was done at that feast, to serve as symbols of God's dwelling among the just in the Kingdom. 4 Moses represents the law and all those who have died. Elijah represents the prophets and -since he did not experience death-all those who are alive in Christ. Their presence shows that the law and the prophets, the living and the dead, all bear witness to Jesus as the Messiah, the fulfillment of the whole Old Testament. The presence of Moses and Elijah also manifests the communion of the saints ([[HEB.12:1]]). Both men are immediately recognizable and talk with the Lord. The disciples are now able to understand Jesus' words that 'Elijah has come already' (17:12) referring to John the Baptist. Their eyes have been opened to the fact that Malachi's prophecy (4:5, 6) refers to one coming 'in the spirit and power of Elijah' ([[LUK.1:17]]), rather than to Elijah himself."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 757,
+      "raw_match": "[[1JN.1:5]]",
+      "reference_type": "wikilink",
+      "context": "God is called \"light\" ([[JOH.1:4]]-9; 8:12; [[1JN.1:5]]). Light is necessary both for clear vision and"
+    }
+  ]
+}

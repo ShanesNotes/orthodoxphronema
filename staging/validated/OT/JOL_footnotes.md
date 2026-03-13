@@ -20,7 +20,7 @@ Cyril is optimistic about the full restitution of the Jews, noting the solution 
 
 --they need only to look up to God in faith. The book begins in a manner similar to the other prophets, describing the advent of the
 
-Word of God to Joel. This is not merely a formula (see Jer 1:2; Ezk 1:3; Hos 1:1), but is
+Word of God to Joel. This is not merely a formula (see [[JER.1:2]]; [[EZK.1:3]]; [[HOS.1:1]]), but is
 
 God's way of arresting our attention, beckoning us to read the work not merely as
 
@@ -28,7 +28,7 @@ literature, but as Holy Scripture. The advent of the word of the Lord to the pro
 
 lift our minds to Christ, the eternal Word of God. Joel the son of Pethuel: The prophet's patronymic is included since Joel was a
 
-relatively common name (see 1Ch 4:35; 5:4, 8, 12; 6:13, 18, 21; etc.). Furthermore, the
+relatively common name (see [[1CH.4:35]]; 5:4, 8, 12; 6:13, 18, 21; etc.). Furthermore, the
 
 meanings of names in the ancient world were considered far more significant than they
 
@@ -94,7 +94,7 @@ people who are using good things to excess, drinking not to quench their thirst 
 
 become drunk. Christ used this same theme when He warned those who were making
 
-merry in His own day (Lk 6:24-26). 
+merry in His own day ([[LUK.6:24]]-26). 
 
 ### 1:6
 *(anchor: JOL.1:6)*
@@ -131,7 +131,7 @@ cleansed by our tears, and awaiting the return of Christ our Savior.
 ### 1:9
 *(anchor: JOL.1:9)*
 
-Joel 1:9, 10, 13: The meat-offering and the drink-offering (v. 9); grain-offering
+[[JOL.1:9]], [[JOL.1:10]], [[JOL.1:13]]: The meat-offering and the drink-offering (v. 9); grain-offering
 
 and drink-offering (v. 13): The grain-offering is of bread, and the drink-offering is of
 
@@ -212,7 +212,7 @@ from disaster comes not from any other so-called gods, but from the Lord Himself
 ### 1:20
 *(anchor: JOL.1:20)*
 
-Just as all the beasts look to God to give them their food in due season (Ps 103:27), so they do here, since He will fill them with every good thing by His hand (Ps 103:28). 
+Just as all the beasts look to God to give them their food in due season ([[PSA.103:27]]), so they do here, since He will fill them with every good thing by His hand ([[PSA.103:28]]). 
 
 ### 2:1-11
 *(anchor: JOL.2:1)*
@@ -246,7 +246,7 @@ opposed physical expressions of repentance. The penitent is to fast, weep, and m
 
 physical acts. Everyone in Israel was to gather to call upon the Lord, a physical and
 
-liturgical act. These acts, done in the right manner, only assist our repentance. If, in fact, we are justified simply by confessing our sins (1Jn 1:9), how much more so when our
+liturgical act. These acts, done in the right manner, only assist our repentance. If, in fact, we are justified simply by confessing our sins ([[1JN.1:9]]), how much more so when our
 
 repentance is expressed physically, through our bodies and the community? Interestingly, the prophet never tells us of what Israel was guilty. His emphasis
 
@@ -302,20 +302,20 @@ The prophet now turns his gaze towards the final rest of the people of God, prop
 
 are fulfilled ultimately in Christ, the sacramental life of the Church, and Pentecost. 2:22-24 The trees bear their fruit: In this verse Joel foreshadows the cross of Christ, the tree which bore the greatest fruit of all. The vine and the fig tree refer to the
 
-establishment of the Church (see Rom 11:17-24; Jn 15:1; Lk 13:6-9). Rain, wheat, wine, and oil refer to the food that is right for you, namely the sacraments of Holy
+establishment of the Church (see [[ROM.11:17]]-24; [[JOH.15:1]]; [[LUK.13:6]]-9). Rain, wheat, wine, and oil refer to the food that is right for you, namely the sacraments of Holy
 
 Baptism, the Eucharist, and the sealing of the Holy Spirit. 
 
 ### 3:1
 *(anchor: JOL.3:1)*
 
-When Peter quotes this verse, he changes after this to "in the last days" (Acts 2:17), one of several modest modifications of the verse. Peter's adaptation of Joel indicates that
+When Peter quotes this verse, he changes after this to "in the last days" ([[ACT.2:17]]), one of several modest modifications of the verse. Peter's adaptation of Joel indicates that
 
 he understood the passage to be eschatological. Your sons and daughters shall
 
 prophesy: The gift of prophecy was to be given to both men and women without
 
-distinction (see Acts 21:9). 
+distinction (see [[ACT.21:9]]). 
 
 ### 3:5
 *(anchor: JOL.3:5)*
@@ -382,11 +382,11 @@ is typically an image of the massacre of enemies, Joel emphasizes the moral aspe
 
 the image. The runoff of the grapes is not simply blood, but the result of the abundance of
 
-evil in the nations (see Rev 14:17-20). 4:16-17 The language used by Joel is reminiscent of descriptions of the last days found in
+evil in the nations (see [[REV.14:17]]-20). 4:16-17 The language used by Joel is reminiscent of descriptions of the last days found in
 
-the New Testament. In the final judgment the Lord shouts out (1Th 4:16) and establishes
+the New Testament. In the final judgment the Lord shouts out ([[1TH.4:16]]) and establishes
 
-an incorruptible Jerusalem (Rev 21:9-27). 4:19
+an incorruptible Jerusalem ([[REV.21:9]]-27). 4:19
 
 In previous verses, God deals with the Mesopotamian army. Here He promises to
 

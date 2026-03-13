@@ -1,0 +1,23 @@
+{
+  "anchor_id": "PSA.140:2",
+  "canon_uri": "canon/OT/PSA.md#PSA.140:2",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 999,
+      "raw_match": "[[PSA.140:2]]",
+      "reference_type": "wikilink",
+      "context": "manifested in the incense (8:3, 4; see [[PSA.140:2]]; Tb 12:15). In the ancient world, incense"
+    },
+    {
+      "source_file": "staging/validated/OT/TOB_footnotes.md",
+      "line_number": 156,
+      "raw_match": "[[PSA.140:2]]",
+      "reference_type": "wikilink",
+      "context": "You as incense\" ([[PSA.140:2]])."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EPH.4:21",
+  "canon_uri": "canon/NT/EPH.md#EPH.4:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1917,
+      "raw_match": "[[EPH.4:20]]-24",
+      "reference_type": "wikilink_range",
+      "context": "sinful state and our renewal in Christ (see [[EPH.4:20]]-24)."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "ROM.10:13",
+  "canon_uri": "canon/NT/ROM.md#ROM.10:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 1314,
+      "raw_match": "[[ROM.10:13]]",
+      "reference_type": "wikilink",
+      "context": "A people saved by the Lord are those who call upon His name ([[ROM.10:12]], [[ROM.10:13]]). His name is the Lord Jesus Christ."
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 302,
+      "raw_match": "[[ROM.10:13]]",
+      "reference_type": "wikilink",
+      "context": "shall be saved\" ([[JOL.2:32]]; [[ROM.10:13]])."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "JOL.3:13",
+  "canon_uri": "canon/OT/JOL.md#JOL.3:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1951,
+      "raw_match": "[[JOL.3:12]]-14",
+      "reference_type": "wikilink_range",
+      "context": "30; [[HOS.2:21]]-23; [[JOL.3:12]]-14), as this was a part of daily life. Here, Jesus reveals"
+    }
+  ]
+}

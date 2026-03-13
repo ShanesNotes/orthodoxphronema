@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JER.28:7",
+  "canon_uri": "canon/OT/JER.md#JER.28:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2357,
+      "raw_match": "[[JER.28:7]]",
+      "reference_type": "wikilink",
+      "context": "persecution and martyrdom of Christians (v. 6; see [[JER.28:7]])."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2381,
+      "raw_match": "[[JER.28:7]]",
+      "reference_type": "wikilink",
+      "context": "[[JER.28:7]], Babylon is pictured as a golden cup in the hand of the Lord which makes all the"
+    }
+  ]
+}

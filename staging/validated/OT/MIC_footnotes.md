@@ -29,7 +29,7 @@ down (v. 3) in the Incarnation and destroy sin, death, and the devil (see Is 31:
 ### 1:4
 *(anchor: MIC.1:4)*
 
-Like wax before the fire echoes Ps 67:2, which is used in the Resurrection services
+Like wax before the fire echoes [[PSA.67:2]], which is used in the Resurrection services
 
 in the Orthodox Church. 
 
@@ -38,7 +38,7 @@ in the Orthodox Church.
 
 , 7
 
-Samaritans were among the first to repent and receive the gospel (Jn 4:1-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard. 
+Samaritans were among the first to repent and receive the gospel ([[JOH.4:1]]-42). Therefore, this prophecy is ultimately fulfilled in the Church, Christ's vineyard. 
 
 ### 1:7
 *(anchor: MIC.1:7)*
@@ -50,7 +50,7 @@ harlot.
 ### 1:8
 *(anchor: MIC.1:8)*
 
-Barefoot and naked: See Ezk 24:17-23; Is 20:2; 2Kg 15:30. 
+Barefoot and naked: See [[EZK.24:17]]-23; Is 20:2; 2Kg 15:30. 
 
 ### 1:10-16
 *(anchor: MIC.1:10)*
@@ -109,7 +109,7 @@ You who hate good and love evil: The negative form of an idea articulated in Am
 
 , "'We hated evil and loved good.' And restore justice in the gate."
 
-3:2-3 The closest parallel to this passage is the charge against the shepherds in Ezk 34:2, 3: "O shepherds of Israel who feed themselves, should not the shepherds feed the sheep? 3
+3:2-3 The closest parallel to this passage is the charge against the shepherds in [[EZK.34:2]], [[EZK.34:3]]: "O shepherds of Israel who feed themselves, should not the shepherds feed the sheep? 3
 
 Behold, you drink the milk and clothe yourselves with the wool. You slay the fatlings, but
 
@@ -123,11 +123,11 @@ Micah's prophecy against sin under the Law emphasizes the Spirit's judgment and
 
 power; while Isaiah's parallel prophecy (see Is 61:1, 2), which is fulfilled in the New
 
-Covenant, emphasizes healing and liberty in Christ (Lk 4:17-21). 4:10
+Covenant, emphasizes healing and liberty in Christ ([[LUK.4:17]]-21). 4:10
 
-St. John Chrysostom, in his sermon on Jn 16:21, 22, sees Christ's words echoing
+St. John Chrysostom, in his sermon on [[JOH.16:21]], [[JOH.16:22]], sees Christ's words echoing
 
-those of the Prophets (see also Hos 13:13; Is 13:8; Jer 4:31). He writes, "Now, He was
+those of the Prophets (see also [[HOS.13:13]]; Is 13:8; [[JER.4:31]]). He writes, "Now, He was
 
 making use of a comparison frequently employed by the Prophets, also, when they
 
@@ -173,7 +173,7 @@ humbly"] with the Lord your God).
 ### 7:6
 *(anchor: MIC.7:6)*
 
-This verse is quoted by Christ in Mt 10:35, 36 and Lk 12:53. 
+This verse is quoted by Christ in [[MAT.10:35]], [[MAT.10:36]] and [[LUK.12:53]]. 
 
 ### 7:18-19
 *(anchor: MIC.7:18)*

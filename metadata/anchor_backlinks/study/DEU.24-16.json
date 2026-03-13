@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.24:16",
+  "canon_uri": "canon/OT/DEU.md#DEU.24:16",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2CH_footnotes.md",
+      "line_number": 299,
+      "raw_match": "[[DEU.24:16]]",
+      "reference_type": "wikilink",
+      "context": "children of those who killed his father, according to [[DEU.24:16]], yet sets a bad example for"
+    }
+  ]
+}

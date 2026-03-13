@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.1:79",
+  "canon_uri": "canon/NT/LUK.md#LUK.1:79",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 63,
+      "raw_match": "[[LUK.1:79]]",
+      "reference_type": "wikilink",
+      "context": "([[LUK.1:79]]; 2:32; [[JOH.1:4]]-9), the Transfiguration ([[MAT.17:2]]) and the Resurrection."
+    }
+  ]
+}

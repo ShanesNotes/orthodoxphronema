@@ -1,0 +1,58 @@
+{
+  "anchor_id": "EPH.2:14",
+  "canon_uri": "canon/NT/EPH.md#EPH.2:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 2533,
+      "raw_match": "[[EPH.2:14]]",
+      "reference_type": "wikilink",
+      "context": "is brought by Christ, who reconciles humanity to God ([[EPH.2:14]]). Peace is part of the"
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 413,
+      "raw_match": "[[EPH.2:14]]-16",
+      "reference_type": "wikilink_range",
+      "context": "[[EPH.2:14]]-16)."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 709,
+      "raw_match": "[[EPH.2:14]]-16",
+      "reference_type": "wikilink_range",
+      "context": "Prince of peace (Is 9:6; [[EPH.2:14]]-16). The Holy Spirit gives peace to those who imitate"
+    },
+    {
+      "source_file": "staging/validated/OT/1KI_footnotes.md",
+      "line_number": 65,
+      "raw_match": "[[EPH.2:14]]",
+      "reference_type": "wikilink",
+      "context": "body, the Church ([[EPH.2:14]]). 2:20"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 729,
+      "raw_match": "[[EPH.2:11]]-16",
+      "reference_type": "wikilink_range",
+      "context": "both Jews and Gentiles ([[EPH.2:11]]-16)."
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 180,
+      "raw_match": "[[EPH.2:14]]",
+      "reference_type": "wikilink",
+      "context": "offering. Christ Himself is our peace offering ([[EPH.2:14]]; [[COL.1:20]]), and through Him we"
+    },
+    {
+      "source_file": "staging/validated/OT/RUT_footnotes.md",
+      "line_number": 66,
+      "raw_match": "[[EPH.2:14]]",
+      "reference_type": "wikilink",
+      "context": "([[EPH.2:14]]). The unbreakable alliance of Naomi and Ruth as the two of them went"
+    }
+  ]
+}

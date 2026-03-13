@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EPH.1:21",
+  "canon_uri": "canon/NT/EPH.md#EPH.1:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 79,
+      "raw_match": "[[EPH.1:21]]",
+      "reference_type": "wikilink",
+      "context": "Authority (lit., \"lordships\"; also translated \"dominion\"; see [[EPH.1:21]]; [[COL.1:16]]) and"
+    }
+  ]
+}

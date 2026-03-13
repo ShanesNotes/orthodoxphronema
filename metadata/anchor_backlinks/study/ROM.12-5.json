@@ -1,0 +1,30 @@
+{
+  "anchor_id": "ROM.12:5",
+  "canon_uri": "canon/NT/ROM.md#ROM.12:5",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 431,
+      "raw_match": "[[ROM.12:4]]-10",
+      "reference_type": "wikilink_range",
+      "context": "in a spirit of love (see [[ROM.12:4]]-10; 1Co 12-14)."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3473,
+      "raw_match": "[[ROM.12:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "The amount each receives is based on that person's abilities ([[ROM.12:4]]-7). God does not"
+    },
+    {
+      "source_file": "staging/validated/OT/JDG_footnotes.md",
+      "line_number": 331,
+      "raw_match": "[[ROM.12:3]]-6",
+      "reference_type": "wikilink_range",
+      "context": "their own accomplishments ([[ROM.12:3]]-6)."
+    }
+  ]
+}

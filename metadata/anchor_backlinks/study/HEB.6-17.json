@@ -1,0 +1,23 @@
+{
+  "anchor_id": "HEB.6:17",
+  "canon_uri": "canon/NT/HEB.md#HEB.6:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1163,
+      "raw_match": "[[HEB.6:13]]-20",
+      "reference_type": "wikilink_range",
+      "context": "by anyone greater; therefore, He swore by Himself. He confirmed the oath by His Lamb, the Son of God, through whom God's eternal covenant is established ([[HEB.6:13]]-20). The"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 1437,
+      "raw_match": "[[HEB.6:17]]",
+      "reference_type": "wikilink",
+      "context": "will and purpose ([[HEB.6:17]], [[HEB.6:18]]). The Lord will fulfill His purpose in the world to come and"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.11:31",
+  "canon_uri": "canon/NT/LUK.md#LUK.11:31",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 86,
+      "raw_match": "[[LUK.11:29]]-33",
+      "reference_type": "wikilink_range",
+      "context": "Israel rejected Christ, but the Gentiles received Him ([[LUK.11:29]]-33). 3:13 The gospel spread first by preaching the sound, and later by the Holy Scriptures (the"
+    }
+  ]
+}

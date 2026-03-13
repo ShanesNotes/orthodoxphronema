@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ACT.13:11",
+  "canon_uri": "canon/NT/ACT.md#ACT.13:11",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1877,
+      "raw_match": "[[ACT.13:6]]-12",
+      "reference_type": "wikilink_range",
+      "context": "24:24; [[ACT.13:6]]-12; Didache 16:3-4)--luring people into making an image to the beast"
+    }
+  ]
+}

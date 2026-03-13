@@ -1,0 +1,30 @@
+{
+  "anchor_id": "EXO.3:8",
+  "canon_uri": "canon/OT/EXO.md#EXO.3:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 73,
+      "raw_match": "[[EXO.3:8]]",
+      "reference_type": "wikilink",
+      "context": "partake of the milk and honey ([[EXO.3:8]]), which refer to the spiritual riches of God's"
+    },
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 199,
+      "raw_match": "[[EXO.3:1]]-10",
+      "reference_type": "wikilink_range",
+      "context": "of Moses ([[EXO.3:1]]-10), who saw a burning bush on Mount Horeb yet hid his face, for he"
+    },
+    {
+      "source_file": "staging/validated/OT/SNG_footnotes.md",
+      "line_number": 489,
+      "raw_match": "[[EXO.3:8]]",
+      "reference_type": "wikilink",
+      "context": "Land ([[EXO.3:8]], [[EXO.3:17]]; 13:5; 33:3; Lv 20:24; [[JOS.5:6]]; Jer 11:5, 39:22; [[EZK.20:6]], [[EZK.20:15]]), but bread"
+    }
+  ]
+}

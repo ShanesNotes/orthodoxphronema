@@ -14,7 +14,7 @@ status: staging
 
 This verse describes a pagan religious procession such as someone like Daniel would
 
-daily witness (see Dan 3:1-7). 
+daily witness (see [[DAN.3:1]]-7). 
 
 ### 1:4
 *(anchor: LJE.1:4)*
@@ -23,14 +23,14 @@ Israel must keep her identity pure and distinct. In the same way, the Church, th
 
 Israel, is called to separate herself from the heretics or those willfully estranged from
 
-Christ (see 2Co 6:14-17). 
+Christ (see [[2CO.6:14]]-17). 
 
 ### 1:6
 *(anchor: LJE.1:6)*
 
 This verse describes the important role of the guardian angel, who watches and guides
 
-us through the day. For other examples, see Ex 23:20-23; 32:34; Ps 90:11. 
+us through the day. For other examples, see [[EXO.23:20]]-23; 32:34; [[PSA.90:11]]. 
 
 ### 1:34-37
 *(anchor: LJE.1:34)*
@@ -89,4 +89,4 @@ Purple: Valuable dyed cloth that was a sign of wealth or power.
 ### 1:73
 *(anchor: LJE.1:73)*
 
-The one who is righteous turns from idolatry (see 1Jn 5:21).
+The one who is righteous turns from idolatry (see [[1JN.5:21]]).

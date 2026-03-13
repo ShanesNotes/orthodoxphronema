@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.14:14",
+  "canon_uri": "canon/OT/DEU.md#DEU.14:14",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/TOB_footnotes.md",
+      "line_number": 48,
+      "raw_match": "[[DEU.14:3]]-21",
+      "reference_type": "wikilink_range",
+      "context": "The bread of the Gentiles is described in [[DEU.14:3]]-21 as unclean food for the"
+    }
+  ]
+}

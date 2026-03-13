@@ -1,0 +1,16 @@
+{
+  "anchor_id": "NUM.22:21",
+  "canon_uri": "canon/OT/NUM.md#NUM.22:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/2PE_footnotes.md",
+      "line_number": 227,
+      "raw_match": "[[NUM.22:1]]-25",
+      "reference_type": "wikilink_range",
+      "context": "false prophets have been in the past. For the story of Balaam (v. 15), see [[NUM.22:1]]-25:9;"
+    }
+  ]
+}

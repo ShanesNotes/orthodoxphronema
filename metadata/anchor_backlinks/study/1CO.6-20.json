@@ -1,0 +1,37 @@
+{
+  "anchor_id": "1CO.6:20",
+  "canon_uri": "canon/NT/1CO.md#1CO.6:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 169,
+      "raw_match": "[[1CO.6:20]]",
+      "reference_type": "wikilink",
+      "context": "paid for our redemption (see [[1CO.6:19]], [[1CO.6:20]])."
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1597,
+      "raw_match": "[[1CO.6:20]]",
+      "reference_type": "wikilink",
+      "context": "([[1CO.6:20]]; 7:23)."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 723,
+      "raw_match": "[[1CO.6:20]]",
+      "reference_type": "wikilink",
+      "context": "give themselves to no other (6:24, 33; see [[1CO.6:19]], [[1CO.6:20]]). Like Jesus, these will be"
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 183,
+      "raw_match": "[[1CO.6:12]]-20",
+      "reference_type": "wikilink_range",
+      "context": "attention here (see [[1CO.6:12]]-20). Those who focus only on sexual sins fail to see that all"
+    }
+  ]
+}

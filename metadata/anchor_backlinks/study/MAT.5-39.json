@@ -1,0 +1,30 @@
+{
+  "anchor_id": "MAT.5:39",
+  "canon_uri": "canon/NT/MAT.md#MAT.5:39",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1CO_footnotes.md",
+      "line_number": 579,
+      "raw_match": "[[MAT.5:39]]",
+      "reference_type": "wikilink",
+      "context": "turn the other cheek (see [[MAT.5:39]])."
+    },
+    {
+      "source_file": "staging/validated/OT/EXO_footnotes.md",
+      "line_number": 1097,
+      "raw_match": "[[MAT.5:39]]",
+      "reference_type": "wikilink",
+      "context": "ready to endure twice as much damage ([[MAT.5:38]], [[MAT.5:39]]; JohnCas)."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 289,
+      "raw_match": "[[MAT.5:38]]-48",
+      "reference_type": "wikilink_range",
+      "context": "to do so (see [[MAT.5:38]]-48; [[LUK.6:27]]-36). St. Paul sums up the Christian view of almsgiving: \"Therefore, as we have opportunity, let us do good to all, especially to those who are of"
+    }
+  ]
+}

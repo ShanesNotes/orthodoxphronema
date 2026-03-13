@@ -16,13 +16,13 @@ The Lord who conversed with Moses in the tabernacle was the Word and Son of God,
 
 type of the flesh the Son assumed in the womb of the Mother of God when He became
 
-incarnate (Jn 1:14). After His Incarnation, He also conversed with Moses on the Mount of
+incarnate ([[JOH.1:14]]). After His Incarnation, He also conversed with Moses on the Mount of
 
-Transfiguration (Mt 17:4). This conversation on the Mount calls to mind the talks
+Transfiguration ([[MAT.17:4]]). This conversation on the Mount calls to mind the talks
 
 between the two in the tabernacle. Although the Jews claimed He taught and worked
 
-contrary to the Law (Jn 8:5, 6; 9:29), the presence of Moses with Him on the Mount
+contrary to the Law ([[JOH.8:5]], [[JOH.8:6]]; 9:29), the presence of Moses with Him on the Mount
 
 refutes this charge. 
 
@@ -31,11 +31,11 @@ refutes this charge.
 
 The Lord commanded a census to be taken in Israel to draft an army for war. This
 
-census shows the militant nature of Israel in warfare. Israel was a type of the Church, "the Israel of God" (Gal 6:16; see Rom 2:28, 29), and the Church is also militant. However, the warfare of the Church is spiritual and evangelistic in nature (Eph 6:10-20). The spiritual enemies are the sinful passions, death, and the devil. Evangelism is to bring
+census shows the militant nature of Israel in warfare. Israel was a type of the Church, "the Israel of God" ([[GAL.6:16]]; see [[ROM.2:28]], [[ROM.2:29]]), and the Church is also militant. However, the warfare of the Church is spiritual and evangelistic in nature ([[EPH.6:10]]-20). The spiritual enemies are the sinful passions, death, and the devil. Evangelism is to bring
 
 as many as will come into the kingdom of God and is to continue up to the end, when the
 
-kingdom will be fully established (Mt 24:14). 
+kingdom will be fully established ([[MAT.24:14]]). 
 
 ### 1:47-49
 *(anchor: NUM.1:47)*
@@ -65,13 +65,13 @@ nature; this liturgical nature is mentioned about forty-five times throughout Nu
 
 the twelve tribes, that is, all "the children of Israel" (v. 49), with the Levites having their
 
-special liturgical service in the tabernacle. The worship of the Church is also liturgical in nature and includes both clergy and laity. The apostles were ministering liturgically in Acts 13:2 when the Holy Spirit spoke to
+special liturgical service in the tabernacle. The worship of the Church is also liturgical in nature and includes both clergy and laity. The apostles were ministering liturgically in [[ACT.13:2]] when the Holy Spirit spoke to
 
 them. The same word is used here as in the Book of Numbers. This same word is also
 
 used numerous times in Hebrews to describe the liturgical worship of the Church as the
 
-fulfillment of Israel's liturgical worship (Heb 1:7, 14; 8:2, 6; 9:21; 10:11). 
+fulfillment of Israel's liturgical worship ([[HEB.1:7]], [[HEB.1:14]]; 8:2, 6; 9:21; 10:11). 
 
 ### 1:53
 *(anchor: NUM.1:53)*
@@ -99,11 +99,11 @@ each other and all our life unto Christ our God."
 
 The tribe of Judah camped on the east side of the tabernacle, and Christ would come
 
-from that tribe (Heb 7:14). The word east is a synonym of the word orient, from which the
+from that tribe ([[HEB.7:14]]). The word east is a synonym of the word orient, from which the
 
 word orientation is derived. The prophet Zechariah prophesied that Christ would be
 
-called "the East" or "the Orient" (Zec 3:9). The prophet Malachi said He would rise up
+called "the East" or "the Orient" ([[ZEC.3:9]]). The prophet Malachi said He would rise up
 
 from the east, and thus, calls Him "the Sun of Righteousness" (Mal 4:2). Therefore, every
 
@@ -111,7 +111,7 @@ Israelite was to orient his life around Christ, the Orient. Likewise, every Chur
 
 become "disoriented." The Church whenever possible worships toward the east, "looking
 
-unto Jesus, the author and finisher of our faith" (Heb 12:2). 
+unto Jesus, the author and finisher of our faith" ([[HEB.12:2]]). 
 
 ### 3:6-9
 *(anchor: NUM.3:6)*
@@ -124,7 +124,7 @@ assisted in the liturgical worship. The liturgical service of the priests and Le
 
 Church. The high priest was a type of Christ, our Great High Priest and "the Shepherd and
 
-Overseer [Bishop] of our souls" (1Pt 2:25). The bishops are living icons of Christ, the high
+Overseer [Bishop] of our souls" ([[1PE.2:25]]). The bishops are living icons of Christ, the high
 
 priests of the Church. Similarly, the priests in the Church are also icons of Christ and
 
@@ -137,7 +137,7 @@ is not present, they assist the priest.
 ### 3:11-13
 *(anchor: NUM.3:11)*
 
-Num 3:11-13, 40-51: The Lord ransomed the firstborn sons of Israel in Egypt with
+[[NUM.3:11]]-13, 40-51: The Lord ransomed the firstborn sons of Israel in Egypt with
 
 the blood of a lamb; therefore, the firstborn sons belonged to Him. Fourteen months later
 
@@ -155,7 +155,7 @@ were required to ransom themselves by paying the Levites a redemption tax which 
 
 1365 shekels (v. 50). This redemption tax became a tradition in Israel. The firstborn
 
-males were required to pay this tax in their hometowns. Jesus' hometown in His adulthood was Capernaum. So on one occasion in Capernaum, Peter was asked if his teacher paid this tax (Mt 17:24-27). Peter replied, "Yes." However, Jesus had no obligation to pay the tax because He is the Son of the King, the heavenly
+males were required to pay this tax in their hometowns. Jesus' hometown in His adulthood was Capernaum. So on one occasion in Capernaum, Peter was asked if his teacher paid this tax ([[MAT.17:24]]-27). Peter replied, "Yes." However, Jesus had no obligation to pay the tax because He is the Son of the King, the heavenly
 
 Father, and Jesus, too, is King. Kings exact tax payments from their subjects, not from
 
@@ -176,7 +176,7 @@ Wilderness of Sinai.
 ### 4:1
 *(anchor: NUM.4:1)*
 
-Num 4:1, 16, 29: Gershom, Kohath, and Merari were the sons of Levi (Ex 6:16). Their
+[[NUM.4:1]], [[NUM.4:16]], [[NUM.4:29]]: Gershom, Kohath, and Merari were the sons of Levi ([[EXO.6:16]]). Their
 
 lineage, in turn, would be assigned as the liturgical ministers of the tabernacle. The
 
@@ -184,21 +184,21 @@ Scripture refers to the tabernacle and its liturgical service of worship by vari
 
 of which show the temporal nature of this worship. These Scripture passages are as
 
-follows: Ex 25:40 (also quoted in Heb 8:5): "See to it that you make [all things] according to the
+follows: [[EXO.25:40]] (also quoted in [[HEB.8:5]]): "See to it that you make [all things] according to the
 
-pattern shown you on the mountain." Heb 8:5: "[The priests] serve the copy and shadow
+pattern shown you on the mountain." [[HEB.8:5]]: "[The priests] serve the copy and shadow
 
-of the heavenly things." Heb 9:23: "Therefore it was necessary that the copies of the
+of the heavenly things." [[HEB.9:23]]: "Therefore it was necessary that the copies of the
 
-things in the heavens should be purified with these." Heb 9:9: "It was symbolic for the
+things in the heavens should be purified with these." [[HEB.9:9]]: "It was symbolic for the
 
-present time in which both gifts and sacrifices are offered." Heb 9:24: "For Christ has not
+present time in which both gifts and sacrifices are offered." [[HEB.9:24]]: "For Christ has not
 
 entered the holy places made with hands, which are copies of the true, but into heaven
 
-itself, now to appear in the presence of God for us." Heb 10:1: "For the law, having a
+itself, now to appear in the presence of God for us." [[HEB.10:1]]: "For the law, having a
 
-shadow of the good things to come . . ." Heb 11:19: ". . . from which [Abraham] also
+shadow of the good things to come . . ." [[HEB.11:19]]: ". . . from which [Abraham] also
 
 received [Isaac] in a figurative sense."
 
@@ -217,7 +217,7 @@ fulfills the types.
 ### 4:5
 *(anchor: NUM.4:5)*
 
-The overshadowing veil was a type of the life-giving flesh of Christ (Heb 10:20). For
+The overshadowing veil was a type of the life-giving flesh of Christ ([[HEB.10:20]]). For
 
 Christ is God in the flesh; therefore, His holy body and blood give eternal life to those
 
@@ -260,9 +260,9 @@ Confession of wrongs to a neighbor must be accompanied by restitution. Zacchaeus
 
 went beyond this law and made restitution fourfold, plus he gave half his goods to the
 
-poor. Thus, he "bore fruits worthy of repentance" (Mt 3:8). So Jesus said to him, "Today
+poor. Thus, he "bore fruits worthy of repentance" ([[MAT.3:8]]). So Jesus said to him, "Today
 
-salvation has come to this house" (Lk 19:9). 
+salvation has come to this house" ([[LUK.19:9]]). 
 
 ### 6:2
 *(anchor: NUM.6:2)*
@@ -271,7 +271,7 @@ An extraordinary vow was a vow not required by the Law of Moses. It was strictly
 
 voluntary, and when such a vow was made, the one making it was held accountable to
 
-fulfill it (Ps 49:14; Ecc 5:4). 
+fulfill it ([[PSA.49:14]]; [[ECC.5:4]]). 
 
 ### 6:22-26
 *(anchor: NUM.6:22)*
@@ -287,7 +287,7 @@ hands in the form of the cross.
 ### 7:2-5
 *(anchor: NUM.7:2)*
 
-Num 7:2-5, 84: The twelve rulers brought gifts, including sacrificial animals, to the
+[[NUM.7:2]]-5, 84: The twelve rulers brought gifts, including sacrificial animals, to the
 
 Lord for the dedication of the altar of whole burnt offering. These gifts would be used in
 
@@ -309,7 +309,7 @@ will of God."
 
 8:6
 
-Num 8:6, 7, 19: In the liturgical service of worship, the children of Israel could not
+[[NUM.8:6]], [[NUM.8:7]], [[NUM.8:19]]: In the liturgical service of worship, the children of Israel could not
 
 draw near the holy things, for their bodies were not purified by the water of
 
@@ -323,7 +323,7 @@ conditions for entering the heavenly holy of holies are "a true heart in full as
 
 faith, having our hearts sprinkled from an evil conscience and our bodies washed with
 
-pure water" (Heb 10:22). 9:3
+pure water" ([[HEB.10:22]]). 9:3
 
 Pascha, or Passover, was to be kept according to its rule and practice. Its "rule
 
@@ -335,7 +335,7 @@ carefully spelled out in Holy Tradition as the Church moves through its liturgic
 
 service and worship in Great Lent, Holy Week, and the Easter season. 9:6-9 The Law of Moses could not cover every situation that might arise regarding Pascha. For this law did not exist in a vacuum to itself. Rather, it was ever united to the Lawgiver, the Son of God, who speaks to His people. Similarly, the Holy Tradition of the Church
 
-cannot cover every situation that might arise. The Good Shepherd speaks to His Church, and those who have ears to hear follow Him (Jn 10:27). 9:21
+cannot cover every situation that might arise. The Good Shepherd speaks to His Church, and those who have ears to hear follow Him ([[JOH.10:27]]). 9:21
 
 When the cloud ascended from the tabernacle, Israel would break camp and move
 
@@ -351,7 +351,7 @@ near and enter the heavenly holy of holies. The final objective is "the resurrec
 
 the dead and the life of the world to come" (Creed). 10:10
 
-The Son of God is the I Am, the Lord God of Israel (Jn 8:58; Ex 3:14). He is one of
+The Son of God is the I Am, the Lord God of Israel ([[JOH.8:58]]; [[EXO.3:14]]). He is one of
 
 the three Persons of the Holy Trinity. 10:29
 
@@ -387,13 +387,13 @@ Lord, of His second coming. 11:1-3 This place was called Burning (v. 3) because 
 
 expression of ingratitude. This was written to admonish us not to grumble, complain, and
 
-murmur about things we may not like (1Co 10:10, 11). Grumbling is one of the sins that
+murmur about things we may not like ([[1CO.10:10]], [[1CO.10:11]]). Grumbling is one of the sins that
 
 undermines spiritual stability: "Therefore let him who thinks he stands take heed lest he
 
-fall" (1Co 10:12). We are to do all things without grumbling; otherwise, our lights will not
+fall" ([[1CO.10:12]]). We are to do all things without grumbling; otherwise, our lights will not
 
-shine in the midst of the fallen world (Php 2:14, 15). 11:4-34
+shine in the midst of the fallen world ([[PHP.2:14]], [[PHP.2:15]]). 11:4-34
 
 This place was called Graves of Lust (v. 34) because the desires of the people
 
@@ -403,7 +403,7 @@ become a sinful passion--for example, gluttony. Now the children of Israel and t
 
 Gentiles who came with them out of Egypt were grumbling about food, which, in turn, caused them to lose control of their desires. This resulted in gluttony (v. 32). Their belly
 
-became their god (Php 3:19). Grumbling and gluttony are an evil combination. 11:16 Num 11:16, 17, 24-29: This passage is read at Vespers of the Feast of Pentecost. 11:17 Num 11:17, 25, 26, 29: The Spirit is the Holy Spirit, one of the three Persons in the
+became their god ([[PHP.3:19]]). Grumbling and gluttony are an evil combination. 11:16 [[NUM.11:16]], [[NUM.11:17]], [[NUM.11:24]]-29: This passage is read at Vespers of the Feast of Pentecost. 11:17 [[NUM.11:17]], [[NUM.11:25]], [[NUM.11:26]], [[NUM.11:29]]: The Spirit is the Holy Spirit, one of the three Persons in the
 
 Holy Trinity. Therefore, Moses believed in the Trinity, and those who claim him as a
 
@@ -414,7 +414,7 @@ forefather should also embrace his faith.
 
 The Lord who descended is the Son of God. He is over the house, whereas Moses
 
-was a faithful servant within His house (v. 7; Heb 3:1-6). 
+was a faithful servant within His house (v. 7; [[HEB.3:1]]-6). 
 
 ### 12:10
 *(anchor: NUM.12:10)*
@@ -526,7 +526,7 @@ The Lord asked two questions to show us His opposition to unbelief. Even the
 
 miracles He performed could not bring the people to faith. Neither did the miracles He
 
-performed after His Incarnation win them over (Jn 10:38). Nevertheless, out of His love
+performed after His Incarnation win them over ([[JOH.10:38]]). Nevertheless, out of His love
 
 for them, He gave them every opportunity to believe. Unbelief is a deep-seated evil. 
 
@@ -535,7 +535,7 @@ for them, He gave them every opportunity to believe. Unbelief is a deep-seated e
 
 Unbelief leads to death and self-destruction. For there is no remedy for unbelief. It
 
-ultimately led them to the loss of God's kingdom (Mt 21:43), as it does for all (Rom
+ultimately led them to the loss of God's kingdom ([[MAT.21:43]]), as it does for all (Rom
 
 11:22). 
 
@@ -625,7 +625,7 @@ tested when praised by others: "But a man is tested by the mouth of those who pr
 
 him" (Pr 27:22). Korah, however, failed this test, for he "loved the praise of men more
 
-than the praise of God" (Jn 12:43). 
+than the praise of God" ([[JOH.12:43]]). 
 
 ### 16:22-24
 *(anchor: NUM.16:22)*
@@ -742,9 +742,9 @@ Moses to take the rod and speak to the rock (v. 8). However, he struck the rock 
 
 he violated the type. This rock represented the spiritual Rock, Christ Himself, for it was He who ordered
 
-Moses to speak to the rock (1Co 10:4). After His Incarnation, He would be smitten once, not twice, for the sins of the world (Rom 6:10). From His life-giving cross would come the
+Moses to speak to the rock ([[1CO.10:4]]). After His Incarnation, He would be smitten once, not twice, for the sins of the world ([[ROM.6:10]]). From His life-giving cross would come the
 
-waters of life, "springing up into everlasting life" (Jn 4:14). 
+waters of life, "springing up into everlasting life" ([[JOH.4:14]]). 
 
 ### 20:13
 *(anchor: NUM.20:13)*
@@ -763,7 +763,7 @@ of Egypt with His almighty power.
 
 Aaron's death revealed the weakness and temporary nature of the Aaronic
 
-priesthood, for it could not overcome death. But Christ destroyed death by His death; therefore, His priesthood continues unto ages of ages (Heb 7:23-25). 
+priesthood, for it could not overcome death. But Christ destroyed death by His death; therefore, His priesthood continues unto ages of ages ([[HEB.7:23]]-25). 
 
 ### 21:9
 *(anchor: NUM.21:9)*
@@ -776,9 +776,9 @@ now dead. The serpent bit Adam in the Garden of Eden, and his venom eventually c
 
 die physically and decay in the grave: "So all the days Adam lived were nine hundred and
 
-thirty years, and he died" (Gn 5:5). Death also came into the world through him (Rom
+thirty years, and he died" ([[GEN.5:5]]). Death also came into the world through him (Rom
 
-5:12). When Christ hung motionless on the cross (Jn 3:14), His dead body signaled the end of
+5:12). When Christ hung motionless on the cross ([[JOH.3:14]]), His dead body signaled the end of
 
 death's reign over man's body, for "He trampled down death by His death, upon those in
 
@@ -815,7 +815,7 @@ The donkey knew his Master and Creator, for she saw Him. However, Balaam
 
 could not see Him because of his darkened heart. Likewise, when this Angel, who is the
 
-Word, became flesh, neither Israel nor the world at large knew Him (Jn 1:10, 11), but the
+Word, became flesh, neither Israel nor the world at large knew Him ([[JOH.1:10]], [[JOH.1:11]]), but the
 
 donkey and the ox knew Him at His birth in the cave. In the Christmas icon, the donkey stands nearest Christ in the cave, and next to it the
 
@@ -850,14 +850,14 @@ righteousness in baptism. (AmbM)
 ### 24:2
 *(anchor: NUM.24:2)*
 
-Num 24:2, 3, 5-9, 17, 18: This passage is read at Vespers of the Feast of the Nativity of
+[[NUM.24:2]], [[NUM.24:3]], [[NUM.24:5]]-9, 17, 18: This passage is read at Vespers of the Feast of the Nativity of
 
 the Lord. 
 
 ### 24:7
 *(anchor: NUM.24:7)*
 
-The Man is the Word become flesh (Jn 1:14). He is true Man and true God. He
+The Man is the Word become flesh ([[JOH.1:14]]). He is true Man and true God. He
 
 became Man to bring man into His kingdom, if they willingly follow Him there. 
 
@@ -871,7 +871,7 @@ blessed, but those who curse Him bring a curse on themselves.
 ### 24:17
 *(anchor: NUM.24:17)*
 
-Christ is the Star (Mt 2:2) and the Man who rose from the dead (rise out of
+Christ is the Star ([[MAT.2:2]]) and the Man who rose from the dead (rise out of
 
 Jacob and out of Israel). The three wise men of the East knew this prophecy, and when
 
@@ -882,16 +882,16 @@ they saw His star, they followed it to the cave where He was born.
 
 Balaam taught Balak "to put a stumbling block before the children of Israel, to eat
 
-things sacrificed to idols" (Rev 2:14; see Nm 31:16). Soon afterward, the Israelites killed
+things sacrificed to idols" ([[REV.2:14]]; see [[NUM.31:16]]). Soon afterward, the Israelites killed
 
-Balaam with the sword when they killed the kings of Midian (31:8; Jos 13:22). 
+Balaam with the sword when they killed the kings of Midian (31:8; [[JOS.13:22]]). 
 
 ### 25:1
 *(anchor: NUM.25:1)*
 
 , 2 Balaam counseled Israel through Balak to commit fornication and to worship idols
 
-(31:16; Rev 2:14). For he perceived the weakness in the souls of the Israelites. What was
+(31:16; [[REV.2:14]]). For he perceived the weakness in the souls of the Israelites. What was
 
 that weakness? Their souls were subject to their desires, rather than the opposite. For
 
@@ -906,7 +906,7 @@ newness of life. "When we are aware of the devil's attacks, we should repeat to 
 
 the apostolic words: 'As many of us as were baptized into Christ were baptized into His
 
-death' (Rom 6:3). Now if we have been conformed to His death, sin henceforth in us is
+death' ([[ROM.6:3]]). Now if we have been conformed to His death, sin henceforth in us is
 
 surely a corpse, pierced through by the spear of baptism, as that fornicator was thrust
 
@@ -919,13 +919,13 @@ The first census of the men of war was 603,550 (1:46). From this massive
 
 number, only two survived to enter the land of promise! Why? Because they always went
 
-astray in their heart and did not know the Lord's ways (Ps 94:10; Heb 3:10). Their hearts
+astray in their heart and did not know the Lord's ways ([[PSA.94:10]]; [[HEB.3:10]]). Their hearts
 
 were blinded by rebellion against the Lord, who said of them, "They shall surely die in
 
 the desert." Therefore, we, too, are admonished, "Beware, brethren, lest there be in any
 
-of you an evil heart of unbelief in departing from the living God" (Heb 3:12). This evil
+of you an evil heart of unbelief in departing from the living God" ([[HEB.3:12]]). This evil
 
 heart of unbelief is equated with the sin of rebellion, which is inexcusable. 
 
@@ -940,7 +940,7 @@ the men. They were not, so to speak, "second-class citizens" in His sight. Equal
 
 Christ also holds true in the Church, for both men and women are "heirs together of the
 
-grace of life" (1Pt 3:7). 
+grace of life" ([[1PE.3:7]]). 
 
 ### 27:12
 *(anchor: NUM.27:12)*
@@ -949,7 +949,7 @@ Moses would see the land of promise, but he could not possess it. But this was n
 
 great loss to him compared to his true vision. For he saw "the resurrection of the dead
 
-and the life of the world to come" (Creed; see Heb 11:26). He waited eagerly to possess
+and the life of the world to come" (Creed; see [[HEB.11:26]]). He waited eagerly to possess
 
 this inheritance. 
 
@@ -970,7 +970,7 @@ undivided.
 ### 27:17
 *(anchor: NUM.27:17)*
 
-Joshua was the new shepherd of Israel. Both he and Moses were types of Christ, "the great Shepherd of the sheep" (Heb 13:20). For as they were over the house of Israel, so He is over the Church. However, there are multitudes without this Shepherd; therefore, He commanded us to pray that He "send out laborers into the harvest" (Mt
+Joshua was the new shepherd of Israel. Both he and Moses were types of Christ, "the great Shepherd of the sheep" ([[HEB.13:20]]). For as they were over the house of Israel, so He is over the Church. However, there are multitudes without this Shepherd; therefore, He commanded us to pray that He "send out laborers into the harvest" (Mt
 
 9:36-38). 
 
@@ -998,20 +998,20 @@ beginning point and center was in the seventh day of the week--the Sabbath day. 
 
 number seven was regulated according to the divisions of time established at Creation
 
-(Gn 1-11)--into days, weeks, months, years, and periods of years. Thus, the liturgical worship ascended from (1) the daily offerings (Ex 29:38-42; Nm
+(Gn 1-11)--into days, weeks, months, years, and periods of years. Thus, the liturgical worship ascended from (1) the daily offerings ([[EXO.29:38]]-42; Nm
 
 
 ### 28:3
 *(anchor: NUM.28:3)*
 
--8), to (2) the weekly offerings (Ex 20:8-11; Lv 23:3; Nm 28:9, 10), to (3) the
+-8), to (2) the weekly offerings ([[EXO.20:8]]-11; Lv 23:3; [[NUM.28:9]], [[NUM.28:10]]), to (3) the
 
-monthly offerings (Nm 28:11-15), to (4) the yearly offerings (Ex 12:1-20; 23:15, 16; 
+monthly offerings ([[NUM.28:11]]-15), to (4) the yearly offerings ([[EXO.12:1]]-20; 23:15, 16; 
 
 ### 34:22
 *(anchor: NUM.34:22)*
 
-; Lv 16:1-34; 23:1-44; Nm 28:16-29:38), to (5) the sabbatical year (Ex 23:10, 11; Lv
+; Lv 16:1-34; 23:1-44; [[NUM.28:16]]-29:38), to (5) the sabbatical year ([[EXO.23:10]], [[EXO.23:11]]; Lv
 
 25:1-7), and eventually to (6) the Year of Remission (Lv 25:8-55; 27:17-25). Israel's liturgical worship was designed to sanctify time and all life. This sanctification
 
@@ -1045,11 +1045,11 @@ Moses' greatness lay in the fact that he passed on to Israel everything the Son 
 
 God--the Lord--commanded. For He was "over His own house," whereas Moses was His
 
-faithful servant "in all His house" (Heb 3:5, 6). We also are in His house, "if we hold fast
+faithful servant "in all His house" ([[HEB.3:5]], [[HEB.3:6]]). We also are in His house, "if we hold fast
 
-the confidence and the rejoicing of the hope firm to the end" (Heb 3:6). 31:8-16 Balaam had prophesied in the Lord's name (chs. 22-24), but he caused Israel to
+the confidence and the rejoicing of the hope firm to the end" ([[HEB.3:6]]). 31:8-16 Balaam had prophesied in the Lord's name (chs. 22-24), but he caused Israel to
 
-worship idols and commit fornication (25:1-3; Rev 2:14). He became a false prophet and
+worship idols and commit fornication (25:1-3; [[REV.2:14]]). He became a false prophet and
 
 in the end was killed for his actions, because he despised the Lord's word and taught
 
@@ -1057,19 +1057,19 @@ Israel to do the same. He replaced love for the true God with love for money. Hi
 
 love then led him to worship Baal and to commit fornication. As St. Paul said, "The love of
 
-money is a root of all kinds of evil" (1Ti 6:10). Money in itself is not the root of all evil. The love of money is, for as the Lord said, "You cannot serve God and mammon [riches]"
+money is a root of all kinds of evil" ([[1TI.6:10]]). Money in itself is not the root of all evil. The love of money is, for as the Lord said, "You cannot serve God and mammon [riches]"
 
-(Mt 6:24). The love of money is idolatry (Col 3:5). Today, "many false prophets have gone out into the world" (1Jn 4:1). They "run greedily
+([[MAT.6:24]]). The love of money is idolatry ([[COL.3:5]]). Today, "many false prophets have gone out into the world" ([[1JN.4:1]]). They "run greedily
 
 in the error of Balaam for profit" (Jude 11). "They have forsaken the right way and gone
 
 astray, following the way of Balaam the son of Beor, who loved the wages of
 
-unrighteousness" (2Pt 2:15). Like Balaam, they have "eyes full of adultery and that cannot
+unrighteousness" ([[2PE.2:15]]). Like Balaam, they have "eyes full of adultery and that cannot
 
-cease from sin, enticing unstable souls. They have a heart trained in covetous practices, and are accursed children" (2Pt 2:14). They "secretly bring in destructive heresies, even
+cease from sin, enticing unstable souls. They have a heart trained in covetous practices, and are accursed children" ([[2PE.2:14]]). They "secretly bring in destructive heresies, even
 
-denying the Lord who bought them, and bring on themselves swift destruction" (2Pt 2:1). 31:21-24
+denying the Lord who bought them, and bring on themselves swift destruction" ([[2PE.2:1]]). 31:21-24
 
 The Midianites were corrupted by the love of money, idolatry, and fornication; therefore, everything taken from them had to be purified either by fire or water. Fire
 
@@ -1081,7 +1081,7 @@ born anew in union with Christ in His death, burial, and Resurrection. The old m
 
 covetousness, idolatry, and fornication is crucified with Christ, and the new man is
 
-renewed to live in virtue and holiness (Rom 6:3-5; Jn 3:3-5; Mt 3:11). 32:5-7 The armies of Israel secured the lands east of the Jordan, which were suitable for
+renewed to live in virtue and holiness ([[ROM.6:3]]-5; [[JOH.3:3]]-5; [[MAT.3:11]]). 32:5-7 The armies of Israel secured the lands east of the Jordan, which were suitable for
 
 cattle. The sons of Reuben and Gad requested these lands as their inheritance, without
 
@@ -1091,11 +1091,11 @@ appealed to Moses as the arbitrator and judge. But Moses called these sons "a bo
 
 sinful men" (v. 14). They coveted what they saw at the expense of their brothers. This
 
-covetous spirit eventually led them into idolatry and into captivity in Assyria (1Ch 5:25, 26). A man from the crowd asked Jesus to make his brother divide the inheritance with
+covetous spirit eventually led them into idolatry and into captivity in Assyria ([[1CH.5:25]], [[1CH.5:26]]). A man from the crowd asked Jesus to make his brother divide the inheritance with
 
 him, but Jesus declined, because He did not come to be a judge or arbitrator like Moses. Then He went on to say to this man, "Take heed and beware of covetousness, for one's life
 
-does not consist in the abundance of the things he possesses" (Lk 12:15). Jesus came to
+does not consist in the abundance of the things he possesses" ([[LUK.12:15]]). Jesus came to
 
 save the world, but we cannot be saved if we are covetous. 33:1
 
@@ -1113,17 +1113,17 @@ and the wilderness) to the kingdom of God (the land of promise). 33:2
 
 The Lord led Israel the entire way in their journey. He tested them with harsh
 
-experiences "to know what was in their heart" (Dt 8:2, 15; see also 29:4; 32:12, 16; Ps
+experiences "to know what was in their heart" ([[DEU.8:2]], [[DEU.8:15]]; see also 29:4; 32:12, 16; Ps
 
 76:21; 77:14, 52, 53; 106:7). God's people are tested with harsh experiences, which bring out what is in the heart. These tests reveal whether we truly love God or not. If we pass them, they help prepare us
 
-for entrance into the kingdom of God (1Pt 1:3-7). 33:8
+for entrance into the kingdom of God ([[1PE.1:3]]-7). 33:8
 
 Many things that happened to Israel serve as types for us and for our instruction and
 
-learning (Rom 15:4; 1Co 10:6, 11). For example, Israel's passage through the Red Sea was
+learning ([[ROM.15:4]]; [[1CO.10:6]], [[1CO.10:11]]). For example, Israel's passage through the Red Sea was
 
-a type of baptism (1Co 10:1, 2). 33:14
+a type of baptism ([[1CO.10:1]], [[1CO.10:2]]). 33:14
 
 Israel was tested at Rephidim, but they abused Moses and tempted the Lord (Ex
 
@@ -1148,7 +1148,7 @@ lowliness of mind, so their liturgical service might not puff up the Levites wit
 
 Likewise, in the New Testament, "the Lord commanded that those who preach the
 
-gospel should live from the gospel" (1Co 9:14). The case regarding the Levites laid a
+gospel should live from the gospel" ([[1CO.9:14]]). The case regarding the Levites laid a
 
 foundation for this. For since the dignity of a teacher sometimes elates him, the necessity
 

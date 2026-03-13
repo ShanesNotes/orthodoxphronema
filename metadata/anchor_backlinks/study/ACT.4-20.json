@@ -1,0 +1,16 @@
+{
+  "anchor_id": "ACT.4:20",
+  "canon_uri": "canon/NT/ACT.md#ACT.4:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1PE_footnotes.md",
+      "line_number": 285,
+      "raw_match": "[[ACT.4:20]]",
+      "reference_type": "wikilink",
+      "context": "obey God rather than man, even to the point of prison or death ([[ACT.4:19]], [[ACT.4:20]])."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2TI.2:20",
+  "canon_uri": "canon/NT/2TI.md#2TI.2:20",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/1TH_footnotes.md",
+      "line_number": 179,
+      "raw_match": "[[2TI.2:20]]",
+      "reference_type": "wikilink",
+      "context": "His own vessel speaks of the entire human being ([[ROM.9:20]]-23; [[2CO.4:7]]; [[2TI.2:20]],"
+    }
+  ]
+}

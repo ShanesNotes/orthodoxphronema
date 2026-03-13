@@ -1,0 +1,23 @@
+{
+  "anchor_id": "DEU.8:3",
+  "canon_uri": "canon/OT/DEU.md#DEU.8:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 469,
+      "raw_match": "[[DEU.8:2]]-5",
+      "reference_type": "wikilink_range",
+      "context": "learn to be dependent on Him ([[DEU.8:2]]-5). Here, Jesus is tested with hunger for forty"
+    },
+    {
+      "source_file": "staging/validated/OT/LEV_footnotes.md",
+      "line_number": 1534,
+      "raw_match": "[[DEU.8:3]]",
+      "reference_type": "wikilink",
+      "context": "cultivated. This was a reminder that \"man shall not live by bread alone\" ([[DEU.8:3]]; [[MAT.4:4]]). The person who, without rest, pursues the temporal bread of this life will not pursue"
+    }
+  ]
+}

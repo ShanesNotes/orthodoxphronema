@@ -1,0 +1,65 @@
+{
+  "anchor_id": "GAL.4:7",
+  "canon_uri": "canon/NT/GAL.md#GAL.4:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 113,
+      "raw_match": "[[GAL.4:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "Those who receive Christ become children of God by adoption ([[GAL.4:4]]-7) and by grace"
+    },
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 515,
+      "raw_match": "[[GAL.4:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "baptism (v. 5) and our adoption by God as our Father ([[GAL.4:4]]-7). This new birth is but"
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 549,
+      "raw_match": "[[GAL.4:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "([[GAL.4:4]]-7)."
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 663,
+      "raw_match": "[[GAL.4:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "faithfully, as sonship is bestowed by adoption ([[GAL.4:4]]-7). The Holy Spirit appearing as a"
+    },
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 689,
+      "raw_match": "[[GAL.4:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "lineage of blood ([[GAL.4:4]]-7)."
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 1009,
+      "raw_match": "[[GAL.4:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "grace of adoption ([[GAL.4:4]]-7). As a \"son of God,\" the Christian is called to love, trust, and"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3531,
+      "raw_match": "[[GAL.4:4]]-7",
+      "reference_type": "wikilink_range",
+      "context": "servants, for the righteous become children of God by adoption ([[GAL.4:4]]-7)."
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 1055,
+      "raw_match": "[[GAL.4:5]]-7",
+      "reference_type": "wikilink_range",
+      "context": "15; see [[GAL.4:5]]-7)."
+    }
+  ]
+}

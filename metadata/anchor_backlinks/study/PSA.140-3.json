@@ -1,0 +1,23 @@
+{
+  "anchor_id": "PSA.140:3",
+  "canon_uri": "canon/OT/PSA.md#PSA.140:3",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 762,
+      "raw_match": "[[PSA.140:3]]",
+      "reference_type": "wikilink",
+      "context": "This passage amplifies [[PSA.140:3]], which is sung at Vespers."
+    },
+    {
+      "source_file": "staging/validated/OT/SIR_footnotes.md",
+      "line_number": 1024,
+      "raw_match": "[[PSA.140:3]]",
+      "reference_type": "wikilink",
+      "context": "The Church teaches us to weigh our words and to pray, \"Set a watch, O Lord, before my mouth\" ([[PSA.140:3]]). He who lies in wait is Satan, who desires to capture our"
+    }
+  ]
+}

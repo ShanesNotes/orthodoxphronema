@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.2:10",
+  "canon_uri": "canon/OT/DEU.md#DEU.2:10",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 439,
+      "raw_match": "[[DEU.2:10]]",
+      "reference_type": "wikilink",
+      "context": "([[DEU.2:10]], [[DEU.2:11]]). Othniel was the nephew of Caleb and also had his spirit. Thus, he subdued"
+    }
+  ]
+}

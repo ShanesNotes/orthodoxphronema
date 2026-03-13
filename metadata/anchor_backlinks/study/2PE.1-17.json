@@ -1,0 +1,16 @@
+{
+  "anchor_id": "2PE.1:17",
+  "canon_uri": "canon/NT/2PE.md#2PE.1:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 3037,
+      "raw_match": "[[2PE.1:16]]-18",
+      "reference_type": "wikilink_range",
+      "context": "earth He shone with Uncreated Light ([[MRK.9:2]]-8; [[2PE.1:16]]-18). As prophesied, all the"
+    }
+  ]
+}

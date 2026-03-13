@@ -1,0 +1,37 @@
+{
+  "anchor_id": "EXO.14:21",
+  "canon_uri": "canon/OT/EXO.md#EXO.14:21",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1127,
+      "raw_match": "[[EXO.14:15]]-31",
+      "reference_type": "wikilink_range",
+      "context": "the midst of the water ([[EXO.14:15]]-31). Here, Christ sends His disciples across the sea (v."
+    },
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2245,
+      "raw_match": "[[EXO.14:21]]",
+      "reference_type": "wikilink",
+      "context": "also 6:2; 17:12, 13). The OT miracles of crossing over a river on dry land ([[EXO.14:21]], [[EXO.14:22]]; Jos"
+    },
+    {
+      "source_file": "staging/validated/OT/2KI_footnotes.md",
+      "line_number": 75,
+      "raw_match": "[[EXO.14:16]]-23",
+      "reference_type": "wikilink_range",
+      "context": "Moses foreshadowed baptism when he parted the Red Sea ([[EXO.14:16]]-23). Joshua"
+    },
+    {
+      "source_file": "staging/validated/OT/3MA_footnotes.md",
+      "line_number": 145,
+      "raw_match": "[[EXO.14:21]]-28",
+      "reference_type": "wikilink_range",
+      "context": "The sea: See [[EXO.14:21]]-28."
+    }
+  ]
+}

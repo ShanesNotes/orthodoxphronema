@@ -1,0 +1,23 @@
+{
+  "anchor_id": "DEU.34:6",
+  "canon_uri": "canon/OT/DEU.md#DEU.34:6",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JUD_footnotes.md",
+      "line_number": 91,
+      "raw_match": "[[DEU.34:6]]",
+      "reference_type": "wikilink",
+      "context": "Apparently from the apocryphal book The Assumption of Moses (see [[DEU.34:5]], [[DEU.34:6]] for the"
+    },
+    {
+      "source_file": "staging/validated/OT/2KI_footnotes.md",
+      "line_number": 109,
+      "raw_match": "[[DEU.34:6]]",
+      "reference_type": "wikilink",
+      "context": "grave to this day\" ([[DEU.34:6]]). The ministries or offices of Moses and Elijah, representing"
+    }
+  ]
+}

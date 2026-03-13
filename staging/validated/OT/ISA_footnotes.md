@@ -34,7 +34,7 @@ yield much fruit, and a few will listen to the words of the prophet.
 
 God will not forgive (v. 14) false religious piety, but He will accept the sacrifice of
 
-"a broken spirit, / A broken and humbled heart" (Ps 50:19). 
+"a broken spirit, / A broken and humbled heart" ([[PSA.50:19]]). 
 
 ### 1:21
 *(anchor: ISA.1:21)*
@@ -71,7 +71,7 @@ was at the beginning for those who repent.
 
 The mountain is a symbol of the Church, which will proclaim God's way to all
 
-the Gentiles (see Mic 4:1-4). 
+the Gentiles (see [[MIC.4:1]]-4). 
 
 ### 3:10
 *(anchor: ISA.3:10)*
@@ -163,7 +163,7 @@ restore them to good pasture. 8:1
 
 Here God uses three different methods to declare His prophetic warning to the people: the book, the two witnesses, and Isaiah's son. The prophetess is Isaiah's wife. 8:11-15 Those who fear God will not know Christ as a stumbling stone when He comes, but those who succumb to the enemy will fall and be broken against Christ, the
 
-"precious cornerstone" (see 28:16; Rom 9:33). 8:16
+"precious cornerstone" (see 28:16; [[ROM.9:33]]). 8:16
 
 The law given to Moses will be closed with the teachings of the apostles. 8:17-18
 
@@ -173,7 +173,7 @@ many signs and wonders. 8:19
 
 Compare the prophet's question, Why do they seek the dead on behalf of the
 
-living? to the angel's triumphant statement to the myrrhbearing women in Lk 24:5: "Why do you seek the living among the dead?"
+living? to the angel's triumphant statement to the myrrhbearing women in [[LUK.24:5]]: "Why do you seek the living among the dead?"
 
 8:20-22 God gave men and women a natural law within them--the ability to choose the
 
@@ -185,7 +185,7 @@ commandments. 9:3
 
 The day of Midian refers to the defeat of the Midianites by Gideon and his men
 
-without the use of weapons (see Jdg 7:9-25). These men prefigure the apostles, who
+without the use of weapons (see [[JDG.7:9]]-25). These men prefigure the apostles, who
 
 spread the gospel throughout the world with only "the weapons of peace," the preaching
 
@@ -209,7 +209,7 @@ siege on Jerusalem. He also reminds the people that God, not Assyria, controls h
 
 (v. 14). The Light of Israel (v. 17) that will sanctify God's people speaks poetically of the
 
-Holy Spirit. 10:24-27 The Assyrian king attempted to attack Egypt by way of the coastline and failed. In this way, the yoke that was threatening Jerusalem was destroyed. 11:2-5 At the Baptism of Christ, the Holy Spirit . . . shall rest upon Him (see Mt 3:16). The righteous and faithful Messiah will judge people by what is in their hearts; His
+Holy Spirit. 10:24-27 The Assyrian king attempted to attack Egypt by way of the coastline and failed. In this way, the yoke that was threatening Jerusalem was destroyed. 11:2-5 At the Baptism of Christ, the Holy Spirit . . . shall rest upon Him (see [[MAT.3:16]]). The righteous and faithful Messiah will judge people by what is in their hearts; His
 
 teachings shall strike the earth; and His breath--a metaphor for the Holy Spirit--will
 
@@ -217,7 +217,7 @@ destroy the ungodly. 11:6-9
 
 The uncreated Son of God will assume created human flesh, restoring the
 
-relationship with Him that mankind lost as a result of the Fall (see Rom 8:19-23). The
+relationship with Him that mankind lost as a result of the Fall (see [[ROM.8:19]]-23). The
 
 whole world shall be filled with the knowledge of the Lord. 11:10 His resting place is interpreted by some of the Fathers to be the tomb of Christ, an
 
@@ -225,31 +225,31 @@ honorable place of veneration. It is also true that Christ finds His "rest" in H
 
 whom He dwells. 11:11-12 Salvation will come first to the Jewish remnant, and then to Gentiles . . . from
 
-the four corners of the earth (see Acts 1:8; Rom 1:16). The teaching of the apostles
+the four corners of the earth (see [[ACT.1:8]]; [[ROM.1:16]]). The teaching of the apostles
 
 will spread like a mighty wind, destroying idols and correcting error, even into Egypt. The
 
 Cross is the sign. Our Lord said, "And I, if I am lifted up from the earth, will draw all
 
-peoples to Myself" (Jn 12:32). 11:16
+peoples to Myself" ([[JOH.12:32]]). 11:16
 
 The highway that once led Israel out of captivity in Egypt will later be opened for
 
 Mary and Joseph to bring the Child there for protection from Herod, and for the apostles
 
-to return there with the Gospel of Christ. 12:4-6 Compare this song of praise to the Song of Mary in Lk 1:45-55. 13:1-22 This passage has several layers of meaning: (1) It prophesies the ultimate downfall
+to return there with the Gospel of Christ. 12:4-6 Compare this song of praise to the Song of Mary in [[LUK.1:45]]-55. 13:1-22 This passage has several layers of meaning: (1) It prophesies the ultimate downfall
 
 of Babylon; (2) it prophesies Christ's Passion and Resurrection, when Christ will be lifted
 
 up on the cross and the hosts of heaven will gather to battle the powers of darkness
 
-(compare vv. 9-13 to Mt 27:51-54; Lk 23:44, 45); (3) it describes the anger of Christ at
+(compare vv. 9-13 to [[MAT.27:51]]-54; [[LUK.23:44]], [[LUK.23:45]]); (3) it describes the anger of Christ at
 
 the Last Judgment. 13:19-22
 
 Babylon was a glorious city which will be utterly destroyed. It is also a
 
-metaphor for sin. Demons who will dance in the desert present a stark image of hell, the ultimate place of rebellion. (See also 14:23; 34:14; Rev 18:2.) The donkey-centaurs, from Greek mythology, are from the waist up a man, from the waist down a horse, and
+metaphor for sin. Demons who will dance in the desert present a stark image of hell, the ultimate place of rebellion. (See also 14:23; 34:14; [[REV.18:2]].) The donkey-centaurs, from Greek mythology, are from the waist up a man, from the waist down a horse, and
 
 they often function as symbols of rebellion against divine order and hostility to
 
@@ -261,7 +261,7 @@ In 586 BC, Cyrus of Persia allowed Israel to return home in their land and
 
 rebuild the temple in Jerusalem. The sojourner--the Gentiles--will be added to
 
-Israel, the Jews, when the Church is established (see Rom 11:23). 14:4
+Israel, the Jews, when the Church is established (see [[ROM.11:23]]). 14:4
 
 The king of Babylon is compared to Lucifer (v. 12) or Satan. 14:12-14 Note the five times Lucifer says I will in this passage. In this five-step process, he fully intends to take the place of the One True God! Likely the mountains toward
 
@@ -293,11 +293,11 @@ The king of Damascus sent ships with messengers to Egypt and Ethiopia to
 
 appeal for help against the Assyrians. A Christological interpretation may be applied: The
 
-first messengers to bring Christ to this region were the Holy Family (see Mt 2:13-15). Tradition holds that the Evangelist Mark established churches there. 18:5
+first messengers to bring Christ to this region were the Holy Family (see [[MAT.2:13]]-15). Tradition holds that the Evangelist Mark established churches there. 18:5
 
 Before the . . . harvest, God will use the Assyrians as sickles to force the vine to
 
-produce grapes. The branches that are cut off will be discarded (see Jn 15:1-8). 19:2-15 This prophecy was fulfilled historically a few years later in 714 BC, when Piankhi's
+produce grapes. The branches that are cut off will be discarded (see [[JOH.15:1]]-8). 19:2-15 This prophecy was fulfilled historically a few years later in 714 BC, when Piankhi's
 
 25th Dynasty rose to power, causing widespread domestic strife in Egypt. 20:1
 
@@ -305,7 +305,7 @@ Tartan was the official title of the leader of the armies of Assyria. Sargon cap
 
 Ashdod in 711 BC. 20:2-4
 
-Isaiah's shame is a sign of the greater shame that will befall Egypt and Ethiopia, and it also prefigures the Messiah to come. The Son of God, taking the form of a servant, humbled Himself, becoming obedient to the point of death (see Php 2:8). Christ
+Isaiah's shame is a sign of the greater shame that will befall Egypt and Ethiopia, and it also prefigures the Messiah to come. The Son of God, taking the form of a servant, humbled Himself, becoming obedient to the point of death (see [[PHP.2:8]]). Christ
 
 ministered on earth three years and fulfilled all by hanging naked on the Cross--the
 
@@ -325,7 +325,7 @@ the people were taken captive into Babylon in 587 BC. 22:12-13 The enemy is at J
 
 hosts for repentance by throwing a drunken feast. "For the kingdom of God is not eating
 
-and drinking, but righteousness and peace and joy in the Holy Spirit" (Rom 14:17). 22:15
+and drinking, but righteousness and peace and joy in the Holy Spirit" ([[ROM.14:17]]). 22:15
 
 Shebna was likely a Hebrew priest who had neglected his priestly duties because of
 
@@ -339,21 +339,21 @@ Tyre and Sidon were the leading coastal cities of Phoenicia (modern Lebanon). Ca
 
 relations with them and with the Citaeans (Cyprus). 23:7-9 The Lord will judge Tyre and Sidon (v. 4) because of their arrogance. Eventually, the Light of Christ will come to Tyre and Sidon, and multitudes from there will follow
 
-Him (see Mk 3:8). 23:17-18 Seventy years: Even though the people of Tyre had been sinning against God
+Him (see [[MRK.3:8]]). 23:17-18 Seventy years: Even though the people of Tyre had been sinning against God
 
 for "a multitude of generations," God, in His mercy, will limit His chastisement to one
 
 man's lifetime (Theod). This prophecy was fulfilled in full when the Church was
 
-established in Tyre (see Acts 21:3-5). 24:1-6
+established in Tyre (see [[ACT.21:3]]-5). 24:1-6
 
 The Fathers associate this chapter with the end of this present age. At the Last
 
 Judgment, the inhabited earth in its desolate state will, in effect, be turned right side
 
-up, for "the last will be first, and the first last" (Mt 20:16). The curse has alienated all of
+up, for "the last will be first, and the first last" ([[MAT.20:16]]). The curse has alienated all of
 
-creation from the Creator. God intended for man to offer up creation to Him, but instead, man has plundered the world (v. 3; see also Rom 8:18-22). 24:14-17
+creation from the Creator. God intended for man to offer up creation to Him, but instead, man has plundered the world (v. 3; see also [[ROM.8:18]]-22). 24:14-17
 
 This passage is also a picture of the Book of Acts, where the apostles will cry
 
@@ -361,17 +361,17 @@ aloud, proclaiming the name of the Lord wherever they go. The islands are the
 
 churches that will be established in the midst of the sea of lost humanity, rejecters of
 
-the natural law written on their hearts (see Rom 2:14, 15). 24:18
+the natural law written on their hearts (see [[ROM.2:14]], [[ROM.2:15]]). 24:18
 
 God will shake the heavens and the earth "that the things which cannot be shaken
 
-may remain" (Heb 12:26, 27). 24:21-23 At the end of the age, God will bring His hand upon those who will not be
+may remain" ([[HEB.12:26]], [[HEB.12:27]]). 24:21-23 At the end of the age, God will bring His hand upon those who will not be
 
 humbled of their own free will. 25:1
 
 An ancient and true counsel: Isaiah praises God for "the mystery which has been
 
-hidden from ages" (Col 1:26)--a mystery that the prophet knows will someday be revealed
+hidden from ages" ([[COL.1:26]])--a mystery that the prophet knows will someday be revealed
 
 in full, which is Christ in His saints, the Church. And Isaiah responds with total
 
@@ -385,23 +385,23 @@ Him. 25:8
 
 Humanity's rebellion against God has given death the power to prevail, but Christ
 
-will destroy death and then wipe away every tear (see Rev 21:4). 25:9
+will destroy death and then wipe away every tear (see [[REV.21:4]]). 25:9
 
 This is our God: The Apostle Thomas fulfills this prophecy when he sees the
 
-resurrected Christ and cries out, "My Lord and my God!" (Jn 20:28). 25:10-12
+resurrected Christ and cries out, "My Lord and my God!" ([[JOH.20:28]]). 25:10-12
 
 The King of Glory will spread forth His hands upon the cross in order to
 
 humble the arrogance of all men. 26:5-6 Compare with what Virgin Mary sings in her hymn: "He has put down the mighty
 
-from their thrones, / And exalted the lowly" (Lk 1:52). 26:7-8
+from their thrones, / And exalted the lowly" ([[LUK.1:52]]). 26:7-8
 
 The godly are being prepared to follow Christ when He comes. Compare to
 
-Christ's parable of the virgins (see Mt 25:1-13). 26:16
+Christ's parable of the virgins (see [[MAT.25:1]]-13). 26:16
 
-Hard circumstances are seen by the righteous as a reason to remember the Lord. The holy prophet calls them a small affliction; or as St. Paul writes, "our light affliction, which . . . is working for us a far more exceeding and eternal weight of glory" (2Co 4:17). 
+Hard circumstances are seen by the righteous as a reason to remember the Lord. The holy prophet calls them a small affliction; or as St. Paul writes, "our light affliction, which . . . is working for us a far more exceeding and eternal weight of glory" ([[2CO.4:17]]). 
 
 ### 26:19
 *(anchor: ISA.26:19)*
@@ -434,7 +434,7 @@ Those who are left will bud and bear fruit. These are the true children of Jacob
 ### 27:9
 *(anchor: ISA.27:9)*
 
-King Hezekiah destroyed the idols in Jerusalem temporarily (see 2Ch 31:1; 4Kg
+King Hezekiah destroyed the idols in Jerusalem temporarily (see [[2CH.31:1]]; 4Kg
 
 18:4); but Christ will permanently destroy the idolatry of sin for all mankind. 
 
@@ -473,7 +473,7 @@ and become the crown of hope, woven of glory.
 
 As a cornerstone unites two walls, Christ will unite Jew and Gentile believers (see
 
-1Pt 2:6). 
+[[1PE.2:6]]). 
 
 ### 28:21
 *(anchor: ISA.28:21)*
@@ -494,7 +494,7 @@ Israel, he besieged Jerusalem and took it (see 2Kg 5:3-7).
 
 A right heart before God in prayer is even more important than right words, for God
 
-hears our "groanings which cannot be uttered" (Rom 8:26; see also Mk 7:6, 7). 
+hears our "groanings which cannot be uttered" ([[ROM.8:26]]; see also [[MRK.7:6]], [[MRK.7:7]]). 
 
 ### 29:15
 *(anchor: ISA.29:15)*
@@ -511,7 +511,7 @@ Godly works will help identify the Messiah when He comes.
 
 Those who trust in Egypt or in any human government will labor in vain. "It
 
-is good to trust in the Lord / Rather than to trust in man" (Ps 117:8). 
+is good to trust in the Lord / Rather than to trust in man" ([[PSA.117:8]]). 
 
 ### 30:6
 *(anchor: ISA.30:6)*
@@ -588,7 +588,7 @@ Christ will hide His words by speaking in parables to the multitudes, but will
 
 explain Himself in private to His disciples, for out of their hearts will flow a glorious
 
-river of living water (see Jn 7:38). 
+river of living water (see [[JOH.7:38]]). 
 
 ### 32:15
 *(anchor: ISA.32:15)*
@@ -623,7 +623,7 @@ affliction they have learned to put their trust in God.
 
 According to the Fathers, the saints, who dwell with God in the heights, have also
 
-become the dwelling place of God (1Co 3:16). Zion here represents the Church. 
+become the dwelling place of God ([[1CO.3:16]]). Zion here represents the Church. 
 
 ### 33:14
 *(anchor: ISA.33:14)*
@@ -644,7 +644,7 @@ plentiful.
 ### 33:17
 *(anchor: ISA.33:17)*
 
-Eyes set on the kingdom of heaven will behold Christ in His glory (Mt 24:30). 
+Eyes set on the kingdom of heaven will behold Christ in His glory ([[MAT.24:30]]). 
 
 ### 33:22
 *(anchor: ISA.33:22)*
@@ -654,12 +654,12 @@ A marvelous summary of how God reveals Himself to His people.
 ### 34:1-4
 *(anchor: ISA.34:1)*
 
-These verses are echoed in Christ's teaching about the end times (see Mt 24:7-29). 
+These verses are echoed in Christ's teaching about the end times (see [[MAT.24:7]]-29). 
 
 ### 34:11
 *(anchor: ISA.34:11)*
 
-Reference to the measuring line is also found in Lk 6:38: "With the same
+Reference to the measuring line is also found in [[LUK.6:38]]: "With the same
 
 measure that you use, it will be measured back to you."
 
@@ -747,7 +747,7 @@ a weapon, and the king will die at the hands of his own sons.
 
 At the time of his physical affliction, Hezekiah had also become afflicted with
 
-pride (see 2Ch 32:25, 26). By telling him of his imminent death, the Lord revealed
+pride (see [[2CH.32:25]], [[2CH.32:26]]). By telling him of his imminent death, the Lord revealed
 
 Himself to Hezekiah, who wept loudly. He humbled himself and prayed, and
 
@@ -782,7 +782,7 @@ seems concerned only for peace and righteousness during his own times. 36:1-8
 
 The Fathers agree that the prophet adds these narratives (which are almost
 
-identical to 4Kg 18:13-20:19) in order to emphasize that his prophecies are from God, as
+identical to [[2KI.18:13]]-20:19) in order to emphasize that his prophecies are from God, as
 
 evidenced by their fulfillment in history. 
 
@@ -800,7 +800,7 @@ weighed down by sin, which is pardoned.
 
 This passage is a prophecy of John the Baptist, who will be the voice proclaiming
 
-the coming of salvation through baptism into Christ our God (see Jn 1:23). 
+the coming of salvation through baptism into Christ our God (see [[JOH.1:23]]). 
 
 ### 40:9
 *(anchor: ISA.40:9)*
@@ -821,7 +821,7 @@ His Father with His angels, and then He will reward each according to his works"
 
 Christ's own words bear witness to the fulfillment of this prophecy in Himself: "I
 
-am the good shepherd; and I know my sheep, and am known by My own" (Jn 10:14). 
+am the good shepherd; and I know my sheep, and am known by My own" ([[JOH.10:14]]). 
 
 ### 40:22
 *(anchor: ISA.40:22)*
@@ -842,7 +842,7 @@ conquer Babylon in 539 BC, allowing the captive Jews to return and rebuild the t
 
 I Am, repeated twenty-seven times in chs. 41-49, means "I am the existing One."
 
-This phrase is traditionally written in Greek in Christ's halo on Orthodox icons (OWN). This is how the Son and Word of God revealed Himself to Moses (Ex 3:14). 
+This phrase is traditionally written in Greek in Christ's halo on Orthodox icons (OWN). This is how the Son and Word of God revealed Himself to Moses ([[EXO.3:14]]). 
 
 ### 41:5-7
 *(anchor: ISA.41:5)*
@@ -851,7 +851,7 @@ When I Am becomes incarnate in Christ, the Gentiles will recognize the truth, an
 
 they shall not be moved. The Church will be put together well, for "unless the Lord
 
-builds the house, / Those who build it labor in vain" (Ps 126:1). 
+builds the house, / Those who build it labor in vain" ([[PSA.126:1]]). 
 
 ### 41:8-20
 *(anchor: ISA.41:8)*
@@ -891,7 +891,7 @@ people who take personal credit for things God has done.
 ### 42:10-12
 *(anchor: ISA.42:10)*
 
-In Christ, the glorified Church will sing . . . a new song (see Rev 5:9). 
+In Christ, the glorified Church will sing . . . a new song (see [[REV.5:9]]). 
 
 ### 42:13-17
 *(anchor: ISA.42:13)*
@@ -919,7 +919,7 @@ through every affliction with us: taking sin, suffering, and death on Himself; o
 ### 43:5-15
 *(anchor: ISA.43:5)*
 
-God will gather His Church from all nations. Christ is the Servant (v. 10), chosen by the Father to bear witness to all mankind (Jn 8:18). 
+God will gather His Church from all nations. Christ is the Servant (v. 10), chosen by the Father to bear witness to all mankind ([[JOH.8:18]]). 
 
 ### 44:3
 *(anchor: ISA.44:3)*
@@ -933,7 +933,7 @@ God promises to put My Spirit on Israel's seed, the Apostles, at Pentecost (see 
 
 Christ declares in the Book of Revelation, "I am the Alpha and the Omega, the
 
-Beginning and the End" (Rev 1:8). 
+Beginning and the End" ([[REV.1:8]]). 
 
 ### 44:7-17
 *(anchor: ISA.44:7)*
@@ -944,7 +944,7 @@ themselves from God, making and worshiping idols, changing "the glory of the
 
 incorruptible God into an image made like corruptible man--and birds and four-footed
 
-animals and creeping things" (Rom 1:22, 23). 
+animals and creeping things" ([[ROM.1:22]], [[ROM.1:23]]). 
 
 ### 44:21-23
 *(anchor: ISA.44:21)*
@@ -974,7 +974,7 @@ Christ Himself echoes this promise in His High Priestly Prayer: "And this is ete
 
 life, that they may know You, the only true God, and Jesus Christ whom You have sent"
 
-(Jn 17:3). 
+([[JOH.17:3]]). 
 
 ### 45:9
 *(anchor: ISA.45:9)*
@@ -994,14 +994,14 @@ are their seed. It is the seed who shall be made righteous and glorified. Intere
 ### 46:3-4
 *(anchor: ISA.46:3)*
 
-An encouraging promise to believers in old age, reminiscent of Ps 70:17, 18. 
+An encouraging promise to believers in old age, reminiscent of [[PSA.70:17]], [[PSA.70:18]]. 
 
 ### 46:10
 *(anchor: ISA.46:10)*
 
 There is no greater prayer than "Thy will be done," for God does all things for our
 
-good (Rom 8:28), and His counsel (or will) shall stand. 
+good ([[ROM.8:28]]), and His counsel (or will) shall stand. 
 
 ### 47:1
 *(anchor: ISA.47:1)*
@@ -1015,7 +1015,7 @@ The virgin daughter of Babylon is an image of a nice person without God: comfort
 
 The people, called by the name of Israel, "having a form of godliness but
 
-denying its power" (2Ti 3:5), cannot lay claim to a true inheritance of truth or
+denying its power" ([[2TI.3:5]]), cannot lay claim to a true inheritance of truth or
 
 righteousness. This is also a warning to the Church never to be Christians in name
 
@@ -1059,13 +1059,13 @@ The promise of the coming of the Messiah will stand for a long time, until it is
 
 fulfilled when He is revealed from His mother's womb in the Incarnation. For the
 
-angel Gabriel said to the Virgin, "You will conceive in your womb and bring forth a Son, and shall call His name J " (Lk 1:31). ESUS
+angel Gabriel said to the Virgin, "You will conceive in your womb and bring forth a Son, and shall call His name J " ([[LUK.1:31]]). ESUS
 
 
 ### 49:2
 *(anchor: ISA.49:2)*
 
-Christ will come, not to "bring peace, but a sword" (Mt 10:34). In some patristic
+Christ will come, not to "bring peace, but a sword" ([[MAT.10:34]]). In some patristic
 
 writings, the chosen arrow is a metaphor for the divinity of Christ, and the quiver a
 
@@ -1129,7 +1129,7 @@ Christ is often referred to in Scripture as the arm of the Father.
 ### 51:6-8
 *(anchor: ISA.51:6)*
 
-This promise is echoed in Christ's teaching found in Mt 24:35: "Heaven and earth
+This promise is echoed in Christ's teaching found in [[MAT.24:35]]: "Heaven and earth
 
 will pass away, but My words will by no means pass away."
 
@@ -1142,7 +1142,7 @@ The people are fearful of mortal man, but forgot the God who made them.
 ### 51:17-23
 *(anchor: ISA.51:17)*
 
-Christ said, "I did not come to judge the world but to save the world" (Jn 12:47). God judges sin and shows mercy to those who repent. The cup of destruction is God's
+Christ said, "I did not come to judge the world but to save the world" ([[JOH.12:47]]). God judges sin and shows mercy to those who repent. The cup of destruction is God's
 
 chastisement. 
 
@@ -1192,14 +1192,14 @@ bruise we are saved from an eternity of suffering and estrangement from God.
 
 The Lord, God the Father, delivered Him, God the Son, to die for our sins. This
 
-is the message St. Paul proclaims in 2Co 5:21. 
+is the message St. Paul proclaims in [[2CO.5:21]]. 
 
 ### 53:7
 *(anchor: ISA.53:7)*
 
 "The shepherd of Israel, and now of the whole world also" (GrgNa) became "the
 
-Lamb of God who takes away the sin of the world" (Jn 1:29). 
+Lamb of God who takes away the sin of the world" ([[JOH.1:29]]). 
 
 ### 53:8
 *(anchor: ISA.53:8)*
@@ -1211,7 +1211,7 @@ Christ was led to death, yet death could not hold His perfect, sinless body (see
 ### 53:9
 *(anchor: ISA.53:9)*
 
-He committed no lawlessness: See Heb 4:15. 
+He committed no lawlessness: See [[HEB.4:15]]. 
 
 ### 53:10
 *(anchor: ISA.53:10)*
@@ -1268,7 +1268,7 @@ evangelists.
 
 Eat and drink without money: "Christ does not ask money, but faith--which is
 
-more valuable than money" (AmbM; see also Rev 21:6, 7). 
+more valuable than money" (AmbM; see also [[REV.21:6]], [[REV.21:7]]). 
 
 ### 55:8-9
 *(anchor: ISA.55:8)*
@@ -1340,7 +1340,7 @@ One who dwells among His saints and strengthens the fainthearted.
 
 God calls Isaiah to rebuke the people loudly, like the trumpet that was traditionally
 
-blown when a fast was called (Joel 2:15). The people display an outward religious piety
+blown when a fast was called ([[JOL.2:15]]). The people display an outward religious piety
 
 that hides the wickedness in their hearts. 
 
@@ -1351,7 +1351,7 @@ Fasting and other ascetic acts do not necessarily indicate virtue. Blessed Augus
 
 reminds us that even heretics fast! God will not see these actions if we mistreat others. God chooses rather that we humble our own soul. "A sacrifice to God is a broken spirit"
 
-(Ps 50:19). 
+([[PSA.50:19]]). 
 
 ### 58:7-8
 *(anchor: ISA.58:7)*
@@ -1407,14 +1407,14 @@ forgiveness from God (Theod).
 ### 59:17
 *(anchor: ISA.59:17)*
 
-Paul uses this verse in his passages on spiritual warfare (Eph 6:13-17; 1Th 5:8). 
+Paul uses this verse in his passages on spiritual warfare ([[EPH.6:13]]-17; [[1TH.5:8]]). 
 
 ### 59:20-21
 *(anchor: ISA.59:20)*
 
 Christ who delivers will come to Zion, "the lost sheep of the house of Israel"
 
-(Mt 15:24). Turn back ungodliness: Then the Holy Spirit will be given to the Church
+([[MAT.15:24]]). Turn back ungodliness: Then the Holy Spirit will be given to the Church
 
 at Pentecost, and the proclamation of the Gospel will be established forever. "Since we
 
@@ -1454,7 +1454,7 @@ those who live virtuous lives fly like clouds (v. 8).
 
 , 2
 
-It is this passage to which Jesus referred in Lk 4:16-21 when He stood in the
+It is this passage to which Jesus referred in [[LUK.4:16]]-21 when He stood in the
 
 synagogue and read from the prophet Isaiah. He told the people, "Today this Scripture is
 
@@ -1471,15 +1471,15 @@ anointed and sent to preach the Gospel" (AmbM).
 
 Many in Zion awaited the Messiah, glory instead of ashes. One thinks of the aged
 
-Simeon (Lk 2:22-35), who was "waiting for the Consolation of Israel," and the prophetess
+Simeon ([[LUK.2:22]]-35), who was "waiting for the Consolation of Israel," and the prophetess
 
-Anna (Lk 2:36-38), "who looked for redemption in Jerusalem."
+Anna ([[LUK.2:36]]-38), "who looked for redemption in Jerusalem."
 
 
 ### 61:7
 *(anchor: ISA.61:7)*
 
-Eternal gladness or joy is one of the fruits of the Spirit (Gal 5:22, 23). The "seal of
+Eternal gladness or joy is one of the fruits of the Spirit ([[GAL.5:22]], [[GAL.5:23]]). The "seal of
 
 the gift of the Holy Spirit" is given to the believer at chrismation, which is also called the
 
@@ -1490,16 +1490,16 @@ the gift of the Holy Spirit" is given to the believer at chrismation, which is a
 
 St. John Chrysostom teaches that the garment of salvation is Christ Himself, as do others of the Fathers. This explains why St. Paul wrote that in baptism we "put on
 
-Christ" (Gal 3:27). 
+Christ" ([[GAL.3:27]]). 
 
 ### 62:3-5
 *(anchor: ISA.62:3)*
 
 Christ's crown of beauty is those who keep themselves pure, like the wise virgins
 
-waiting for the bridegroom (Mt 25:1-13). Christ rejoices over His bride, the Church
+waiting for the bridegroom ([[MAT.25:1]]-13). Christ rejoices over His bride, the Church
 
-(see Eph 5:22-33). 
+(see [[EPH.5:22]]-33). 
 
 ### 62:6
 *(anchor: ISA.62:6)*
@@ -1511,7 +1511,7 @@ who continually guard and watch over the Church.
 ### 62:7
 *(anchor: ISA.62:7)*
 
-The prophecy refers to the Incarnation, when the Son of God takes on human flesh, becoming like us. Similar passages are Ex 15:11; Ps 85:8; Jer 10:6, 7. 
+The prophecy refers to the Incarnation, when the Son of God takes on human flesh, becoming like us. Similar passages are [[EXO.15:11]]; [[PSA.85:8]]; [[JER.10:6]], [[JER.10:7]]. 
 
 ### 62:8-9
 *(anchor: ISA.62:8)*
@@ -1541,7 +1541,7 @@ under His feet.
 
 Judgment and mercy are bound together, but by God's grace, "mercy triumphs
 
-over judgment" (Jam 2:13). God so loved the world that the Lord Himself saved
+over judgment" ([[JAS.2:13]]). God so loved the world that the Lord Himself saved
 
 them. But note how their rebellion grieved His Holy Spirit, causing Him to turn
 
@@ -1550,7 +1550,7 @@ against them.
 ### 63:11
 *(anchor: ISA.63:11)*
 
-Note how this verse parallels Heb 13:20: "Now may the God of peace who brought
+Note how this verse parallels [[HEB.13:20]]: "Now may the God of peace who brought
 
 up our Lord Jesus from the dead, that great Shepherd of the sheep . . ."
 
@@ -1571,7 +1571,7 @@ Isaiah begins his prayer for God to remember the inheritance (v. 17) promised to
 
 His people long ago with the word return, which is echoed in the final words of
 
-Revelation: "Even so, come, Lord Jesus" (Rev 22:20). 
+Revelation: "Even so, come, Lord Jesus" ([[REV.22:20]]). 
 
 ### 63:17
 *(anchor: ISA.63:17)*
@@ -1585,7 +1585,7 @@ their disobedience. Thus, when the chastisement comes, it will be fully justifie
 
 If God's presence causes His adversaries to be troubled, how much more will
 
-His mercy help those who wait for Him? (See also 1Co 2:9.)
+His mercy help those who wait for Him? (See also [[1CO.2:9]].)
 
 
 ### 64:4
@@ -1600,7 +1600,7 @@ those who do true righteousness and remember Him (v. 4).
 
 The filthy rag is a woman's soiled menstrual cloth. And note it is representative not
 
-of our unrighteousness, but of our righteousness! (See also Rom 3:10 and Tts 3:57.)
+of our unrighteousness, but of our righteousness! (See also [[ROM.3:10]] and Tts 3:57.)
 
 
 ### 65:2
@@ -1635,16 +1635,16 @@ of the true God: Father, Son, and Holy Spirit.
 
 This prophecy is partially fulfilled in this age, where those who have been united
 
-to Christ are a "new creation" (2Co 5:17); but it will be fulfilled completely in the age to
+to Christ are a "new creation" ([[2CO.5:17]]); but it will be fulfilled completely in the age to
 
-come, when Christ comes again with a new heaven and a new earth (see Rev 21:1-4). 
+come, when Christ comes again with a new heaven and a new earth (see [[REV.21:1]]-4). 
 
 ### 66:1
 *(anchor: ISA.66:1)*
 
 "God, then, being immaterial and uncircumscribed, has no place. For He is His own
 
-place, filling all things" (JohnDm; see also Jn 4:20-24). 
+place, filling all things" (JohnDm; see also [[JOH.4:20]]-24). 
 
 ### 66:5-6
 *(anchor: ISA.66:5)*
@@ -1667,7 +1667,7 @@ it" (JohnDm).
 ### 66:8-9
 *(anchor: ISA.66:8)*
 
-The Church will indeed be born in one day, at Pentecost (see Acts 2:41; 4:4), and
+The Church will indeed be born in one day, at Pentecost (see [[ACT.2:41]]; 4:4), and
 
 she will in turn give birth to a nation, whereas the old covenant of the law will be
 
@@ -1691,7 +1691,7 @@ Here the Second Coming of the Lord and the Last Judgment are depicted.
 
 The cross is the sign of salvation which the apostles shall declare . . . among the
 
-Gentiles (see Mt 8:19). 
+Gentiles (see [[MAT.8:19]]). 
 
 ### 66:20-21
 *(anchor: ISA.66:20)*

@@ -1,0 +1,30 @@
+{
+  "anchor_id": "LUK.2:36",
+  "canon_uri": "canon/NT/LUK.md#LUK.2:36",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/ACT_footnotes.md",
+      "line_number": 2063,
+      "raw_match": "[[LUK.2:36]]-38",
+      "reference_type": "wikilink_range",
+      "context": "Isaiah's wife (Is 8:3), the Virgin Mary ([[LUK.1:46]]-55), and Anna ([[LUK.2:36]]-38)."
+    },
+    {
+      "source_file": "staging/validated/OT/ISA_footnotes.md",
+      "line_number": 1476,
+      "raw_match": "[[LUK.2:36]]-38",
+      "reference_type": "wikilink_range",
+      "context": "Anna ([[LUK.2:36]]-38), \"who looked for redemption in Jerusalem.\""
+    },
+    {
+      "source_file": "staging/validated/OT/JDT_footnotes.md",
+      "line_number": 445,
+      "raw_match": "[[LUK.2:36]]",
+      "reference_type": "wikilink",
+      "context": "Israel ([[LUK.2:36]], [[LUK.2:37]]) and in the Church ([[1CO.7:8]], [[1CO.7:39]], [[1CO.7:40]]; [[1TI.5:5]]). The phrase was buried"
+    }
+  ]
+}

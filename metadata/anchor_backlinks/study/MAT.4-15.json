@@ -1,0 +1,30 @@
+{
+  "anchor_id": "MAT.4:15",
+  "canon_uri": "canon/NT/MAT.md#MAT.4:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 1243,
+      "raw_match": "[[MAT.4:15]]",
+      "reference_type": "wikilink",
+      "context": "occupation (see also the note at [[MAT.4:15]])."
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_articles.md",
+      "line_number": 28,
+      "raw_match": "[[MAT.4:12]]-17",
+      "reference_type": "wikilink_range",
+      "context": "([[MAT.4:12]]-17; [[LUK.4:14]], [[LUK.4:15]]; [[JOH.4:1]]-3)"
+    },
+    {
+      "source_file": "staging/validated/NT/MRK_footnotes.md",
+      "line_number": 167,
+      "raw_match": "[[MAT.4:15]]",
+      "reference_type": "wikilink",
+      "context": "among the Jews (see also note at [[MAT.4:15]]). Gentile influence on the Jews caused many of"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "MRK.10:48",
+  "canon_uri": "canon/NT/MRK.md#MRK.10:48",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/3MA_footnotes.md",
+      "line_number": 491,
+      "raw_match": "[[MRK.10:48]]",
+      "reference_type": "wikilink",
+      "context": "someone calling on Jesus for mercy ([[MAT.9:27]]; 15:22; 17:15; 20:30, 31; [[MRK.10:47]], [[MRK.10:48]]; Lk"
+    }
+  ]
+}

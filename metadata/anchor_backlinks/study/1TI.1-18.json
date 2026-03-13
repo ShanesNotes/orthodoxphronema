@@ -1,0 +1,16 @@
+{
+  "anchor_id": "1TI.1:18",
+  "canon_uri": "canon/NT/1TI.md#1TI.1:18",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 387,
+      "raw_match": "[[1TI.1:18]]",
+      "reference_type": "wikilink",
+      "context": "passions and \"wage the good warfare, having faith and a good conscience\" ([[1TI.1:18]], [[1TI.1:19]]). 12:1"
+    }
+  ]
+}

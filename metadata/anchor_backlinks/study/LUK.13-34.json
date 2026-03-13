@@ -1,0 +1,16 @@
+{
+  "anchor_id": "LUK.13:34",
+  "canon_uri": "canon/NT/LUK.md#LUK.13:34",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 1591,
+      "raw_match": "[[LUK.13:34]]",
+      "reference_type": "wikilink",
+      "context": "(which kills the prophets; [[LUK.13:34]]). Like Sodom and Egypt, Jerusalem becomes selfsufficient and rebels against God."
+    }
+  ]
+}

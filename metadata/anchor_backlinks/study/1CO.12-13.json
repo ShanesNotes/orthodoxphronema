@@ -1,0 +1,23 @@
+{
+  "anchor_id": "1CO.12:13",
+  "canon_uri": "canon/NT/1CO.md#1CO.12:13",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 1237,
+      "raw_match": "[[1CO.12:12]]-27",
+      "reference_type": "wikilink_range",
+      "context": "Church, are members of one another ([[1CO.12:12]]-27)."
+    },
+    {
+      "source_file": "staging/validated/OT/PSA_footnotes.md",
+      "line_number": 1483,
+      "raw_match": "[[1CO.12:13]]",
+      "reference_type": "wikilink",
+      "context": "Baptism ([[MAT.9:16]], [[MAT.9:17]]; [[1CO.12:13]]). And Israel's deliverance from Egypt (vv. 1-11) is a type"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "anchor_id": "JER.25:12",
+  "canon_uri": "canon/OT/JER.md#JER.25:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/2CH_footnotes.md",
+      "line_number": 506,
+      "raw_match": "[[JER.25:9]]-12",
+      "reference_type": "wikilink_range",
+      "context": "(v. 29) is the approximate time of the exile in Babylon (see also [[JER.25:9]]-12; 27:6-8; 29:10; Lv 26:34-43)."
+    },
+    {
+      "source_file": "staging/validated/OT/DAN_footnotes.md",
+      "line_number": 441,
+      "raw_match": "[[JER.25:12]]",
+      "reference_type": "wikilink",
+      "context": "9:2; [[JER.25:11]], [[JER.25:12]]; 29:10). According to Hippolytus, Daniel's vision concerned the time when the temple would be"
+    }
+  ]
+}

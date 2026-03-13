@@ -1,0 +1,23 @@
+{
+  "anchor_id": "MRK.15:47",
+  "canon_uri": "canon/NT/MRK.md#MRK.15:47",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 3135,
+      "raw_match": "[[MRK.15:47]]",
+      "reference_type": "wikilink",
+      "context": "13:55; compare [[MRK.15:40]], [[MRK.15:47]]). The Virgin Mary appears in certain icons of the"
+    },
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 3911,
+      "raw_match": "[[MRK.15:47]]",
+      "reference_type": "wikilink",
+      "context": "Mary, being in fact the stepmother of James and Joses (see 13:55; compare [[MRK.15:40]], [[MRK.15:47]])."
+    }
+  ]
+}

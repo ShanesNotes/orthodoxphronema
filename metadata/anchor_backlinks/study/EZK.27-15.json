@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EZK.27:15",
+  "canon_uri": "canon/OT/EZK.md#EZK.27:15",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/REV_footnotes.md",
+      "line_number": 2515,
+      "raw_match": "[[EZK.27:12]]-25",
+      "reference_type": "wikilink_range",
+      "context": "list luxury items in Rome's flow of trade (see [[EZK.27:12]]-25)."
+    }
+  ]
+}

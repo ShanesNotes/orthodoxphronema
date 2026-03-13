@@ -1,0 +1,44 @@
+{
+  "anchor_id": "ROM.5:12",
+  "canon_uri": "canon/NT/ROM.md#ROM.5:12",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/HEB_footnotes.md",
+      "line_number": 271,
+      "raw_match": "[[ROM.5:12]]",
+      "reference_type": "wikilink",
+      "context": "death, and the fear of death leads one to sin and thus to bondage ([[ROM.5:12]]). Christ"
+    },
+    {
+      "source_file": "staging/validated/OT/DEU_footnotes.md",
+      "line_number": 845,
+      "raw_match": "[[ROM.5:12]]",
+      "reference_type": "wikilink",
+      "context": "([[ROM.5:12]]). Each individual is accountable before God for his own sins."
+    },
+    {
+      "source_file": "staging/validated/OT/EZK_footnotes.md",
+      "line_number": 256,
+      "raw_match": "[[ROM.5:12]]",
+      "reference_type": "wikilink",
+      "context": "tendency to sin from Adam ([[ROM.5:12]]); but human nature, though stained by the fall, remains in the image of God (v. 19). A man may turn away from righteousness (v. 24), but he is also capable of seeking God's grace and experiencing a new heart and a new"
+    },
+    {
+      "source_file": "staging/validated/OT/GEN_footnotes.md",
+      "line_number": 187,
+      "raw_match": "[[ROM.5:12]]",
+      "reference_type": "wikilink",
+      "context": "and decay in the grave entered the world through him ([[ROM.5:12]])."
+    },
+    {
+      "source_file": "staging/validated/OT/JOS_footnotes.md",
+      "line_number": 253,
+      "raw_match": "[[ROM.5:12]]",
+      "reference_type": "wikilink",
+      "context": "entire world into mortality ([[ROM.5:12]]). 7:6-15"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "anchor_id": "DEU.13:17",
+  "canon_uri": "canon/OT/DEU.md#DEU.13:17",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/JOH_footnotes.md",
+      "line_number": 1421,
+      "raw_match": "[[DEU.13:17]]",
+      "reference_type": "wikilink",
+      "context": "aspect of mercy ([[DEU.13:17]]; Ps 116:2-117:4; [[HOS.6:6]]). This mercy is offered freely to all"
+    }
+  ]
+}

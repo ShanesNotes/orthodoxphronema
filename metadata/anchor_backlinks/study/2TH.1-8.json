@@ -1,0 +1,23 @@
+{
+  "anchor_id": "2TH.1:8",
+  "canon_uri": "canon/NT/2TH.md#2TH.1:8",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/LUK_footnotes.md",
+      "line_number": 611,
+      "raw_match": "[[2TH.1:6]]-10",
+      "reference_type": "wikilink_range",
+      "context": "in which the faithless will burn (see [[2TH.1:6]]-10; 2:8). Note that this fire is one. It is the"
+    },
+    {
+      "source_file": "staging/validated/NT/ROM_footnotes.md",
+      "line_number": 141,
+      "raw_match": "[[2TH.1:6]]-10",
+      "reference_type": "wikilink_range",
+      "context": "reject Him (see [[MAT.25:41]]-46; [[2TH.1:6]]-10; 2:8)."
+    }
+  ]
+}

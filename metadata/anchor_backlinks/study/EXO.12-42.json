@@ -1,0 +1,16 @@
+{
+  "anchor_id": "EXO.12:42",
+  "canon_uri": "canon/OT/EXO.md#EXO.12:42",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/WIS_footnotes.md",
+      "line_number": 442,
+      "raw_match": "[[EXO.12:42]]",
+      "reference_type": "wikilink",
+      "context": "That night (see [[EXO.12:42]], [[EXO.12:43]]) marks the first Passover Feast. 18:8"
+    }
+  ]
+}

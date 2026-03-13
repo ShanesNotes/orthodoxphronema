@@ -1,0 +1,16 @@
+{
+  "anchor_id": "RUT.4:7",
+  "canon_uri": "canon/OT/RUT.md#RUT.4:7",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/NT/MAT_footnotes.md",
+      "line_number": 391,
+      "raw_match": "[[RUT.4:7]]",
+      "reference_type": "wikilink",
+      "context": "([[RUT.4:7]]). Here it shows that John could not have carried the responsibility that Christ"
+    }
+  ]
+}

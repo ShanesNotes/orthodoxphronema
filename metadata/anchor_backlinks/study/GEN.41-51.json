@@ -1,0 +1,16 @@
+{
+  "anchor_id": "GEN.41:51",
+  "canon_uri": "canon/OT/GEN.md#GEN.41:51",
+  "text_tradition": "LXX",
+  "generated_at": "2026-03-13T21:28:41+00:00",
+  "generator_version": "phase3-backlinks-v1",
+  "links": [
+    {
+      "source_file": "staging/validated/OT/1CH_footnotes.md",
+      "line_number": 125,
+      "raw_match": "[[GEN.41:51]]-52",
+      "reference_type": "wikilink_range",
+      "context": "in Christ (see [[GEN.41:51]]-52). Note that Joshua, the Old Testament's powerful type of"
+    }
+  ]
+}
