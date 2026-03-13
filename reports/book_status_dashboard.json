@@ -11,7 +11,8 @@
   "counts_by_status": {
     "promoted": 51,
     "extracting": 15,
-    "editorially_clean": 10
+    "promotion_ready": 4,
+    "editorially_clean": 6
   },
   "books": [
     {
@@ -2644,18 +2645,18 @@
     {
       "book_code": "1TH",
       "testament": "NT",
-      "status": "editorially_clean",
+      "status": "promotion_ready",
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "promotion dossier checksum does not match current staged file"
+        "promotion gate conditions are satisfied"
       ],
       "decision": "dry-run",
-      "body_checksum": "e5ef0538c28766b8d65740c6c9f1ad149cf0fcb660377ddae06ea5649a9e1188",
-      "staged_matches_dossier": false,
+      "body_checksum": "bc5846ec8959a9f494aa3f21900cf556d02d56a2687d2b48bb63759bd1c6b2a0",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "bc5846ec8959a9f494aa3f21900cf556d02d56a2687d2b48bb63759bd1c6b2a0"
       },
       "validation": {
@@ -2665,11 +2666,11 @@
         "V4": "PASS",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "WARN",
+        "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -2689,18 +2690,18 @@
     {
       "book_code": "2TH",
       "testament": "NT",
-      "status": "editorially_clean",
+      "status": "promotion_ready",
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "promotion dossier checksum does not match current staged file"
+        "promotion gate conditions are satisfied"
       ],
       "decision": "dry-run",
-      "body_checksum": "579b6f3c64dcbe7e8e83683ec7d753c6d384da161b222d8aef45c2901d8f42f1",
-      "staged_matches_dossier": false,
+      "body_checksum": "fc03bb608f0c9cc0169da4fa8b987b66bc1d68aac11cc29164f3f67ed4f3d0f6",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "fc03bb608f0c9cc0169da4fa8b987b66bc1d68aac11cc29164f3f67ed4f3d0f6"
       },
       "validation": {
@@ -2713,8 +2714,8 @@
         "V7": "PASS",
         "V8": "PASS",
         "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -2779,18 +2780,18 @@
     {
       "book_code": "2TI",
       "testament": "NT",
-      "status": "editorially_clean",
+      "status": "promotion_ready",
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "promotion dossier checksum does not match current staged file"
+        "promotion gate conditions are satisfied"
       ],
       "decision": "dry-run",
-      "body_checksum": "0416820e07e68f580aac012f2c2f6e760b6f0e9dd315f920d475f1b4ad022e43",
-      "staged_matches_dossier": false,
+      "body_checksum": "9b8c4b823eb336f3b2068ad3c17bcdf5e434650eee29086dbea3d4d4eb928d20",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "9b8c4b823eb336f3b2068ad3c17bcdf5e434650eee29086dbea3d4d4eb928d20"
       },
       "validation": {
@@ -2803,8 +2804,8 @@
         "V7": "PASS",
         "V8": "WARN",
         "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -3090,18 +3091,18 @@
     {
       "book_code": "1JN",
       "testament": "NT",
-      "status": "editorially_clean",
+      "status": "promotion_ready",
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "promotion dossier checksum does not match current staged file"
+        "promotion gate conditions are satisfied"
       ],
       "decision": "dry-run",
-      "body_checksum": "f383b784f03296c1a6c210741448f7b28125a5a4668beeb60216c2b842ae4da3",
-      "staged_matches_dossier": false,
+      "body_checksum": "6d207379d49ad0833a46821f33473059a224d66e5e80af32505edfc0fbde6f70",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "6d207379d49ad0833a46821f33473059a224d66e5e80af32505edfc0fbde6f70"
       },
       "validation": {
@@ -3114,8 +3115,8 @@
         "V7": "PASS",
         "V8": "WARN",
         "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,

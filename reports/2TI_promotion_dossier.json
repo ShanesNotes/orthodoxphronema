@@ -1,10 +1,18 @@
 {
   "book_code": "2TI",
   "testament": "NT",
-  "timestamp": "2026-03-11T16:39:42.661065",
-  "registry_version": "1.3.0",
-  "body_checksum": "0416820e07e68f580aac012f2c2f6e760b6f0e9dd315f920d475f1b4ad022e43",
+  "timestamp": "2026-03-12T22:32:31.811017",
+  "registry_version": "1.4.0",
+  "body_checksum": "9b8c4b823eb336f3b2068ad3c17bcdf5e434650eee29086dbea3d4d4eb928d20",
+  "allow_incomplete": false,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/2TI.md",
+  "residuals_path": null,
+  "editorial_candidates_path": null,
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
@@ -25,10 +33,6 @@
       "status": "PASS",
       "messages": []
     },
-    "V6": {
-      "status": "PASS",
-      "messages": []
-    },
     "V7": {
       "status": "PASS",
       "messages": []
@@ -40,6 +44,18 @@
       ]
     },
     "V9": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V10": {
+      "status": "SKIP",
+      "messages": []
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
       "status": "PASS",
       "messages": []
     }
