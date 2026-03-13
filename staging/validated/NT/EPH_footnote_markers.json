@@ -1,55 +1,378 @@
-[
-  {"anchor": "EPH.1:3", "marker": "†"},
-  {"anchor": "EPH.1:4", "marker": "†"},
-  {"anchor": "EPH.1:7", "marker": "†"},
-  {"anchor": "EPH.1:11", "marker": "†"},
-  {"anchor": "EPH.1:13", "marker": "†"},
-  {"anchor": "EPH.1:15", "marker": "†"},
-  {"anchor": "EPH.1:18", "marker": "†"},
-  {"anchor": "EPH.1:21", "marker": "†"},
-  {"anchor": "EPH.2:1", "marker": "†"},
-  {"anchor": "EPH.2:8", "marker": "†"},
-  {"anchor": "EPH.2:11", "marker": "†"},
-  {"anchor": "EPH.2:13", "marker": "†"},
-  {"anchor": "EPH.2:19", "marker": "†"},
-  {"anchor": "EPH.3:1", "marker": "†"},
-  {"anchor": "EPH.3:3", "marker": "†"},
-  {"anchor": "EPH.3:5", "marker": "†"},
-  {"anchor": "EPH.3:6", "marker": "†"},
-  {"anchor": "EPH.3:8", "marker": "†"},
-  {"anchor": "EPH.3:10", "marker": "†"},
-  {"anchor": "EPH.3:12", "marker": "†"},
-  {"anchor": "EPH.3:13", "marker": "†"},
-  {"anchor": "EPH.3:14", "marker": "†"},
-  {"anchor": "EPH.3:15", "marker": "†"},
-  {"anchor": "EPH.3:18", "marker": "†"},
-  {"anchor": "EPH.3:20", "marker": "†"},
-  {"anchor": "EPH.4:1", "marker": "†"},
-  {"anchor": "EPH.4:2", "marker": "†"},
-  {"anchor": "EPH.4:4", "marker": "†"},
-  {"anchor": "EPH.4:7", "marker": "†"},
-  {"anchor": "EPH.4:8", "marker": "†"},
-  {"anchor": "EPH.4:11", "marker": "†"},
-  {"anchor": "EPH.4:17", "marker": "†"},
-  {"anchor": "EPH.4:25", "marker": "†"},
-  {"anchor": "EPH.4:26", "marker": "†"},
-  {"anchor": "EPH.4:28", "marker": "†"},
-  {"anchor": "EPH.4:31", "marker": "†"},
-  {"anchor": "EPH.4:32", "marker": "†"},
-  {"anchor": "EPH.5:2", "marker": "†"},
-  {"anchor": "EPH.5:4", "marker": "†"},
-  {"anchor": "EPH.5:8", "marker": "†"},
-  {"anchor": "EPH.5:11", "marker": "†"},
-  {"anchor": "EPH.5:15", "marker": "†"},
-  {"anchor": "EPH.5:18", "marker": "†"},
-  {"anchor": "EPH.5:19", "marker": "†"},
-  {"anchor": "EPH.5:21", "marker": "†"},
-  {"anchor": "EPH.5:22", "marker": "†"},
-  {"anchor": "EPH.6:1", "marker": "†"},
-  {"anchor": "EPH.6:5", "marker": "†"},
-  {"anchor": "EPH.6:9", "marker": "†"},
-  {"anchor": "EPH.6:10", "marker": "†"},
-  {"anchor": "EPH.6:18", "marker": "†"},
-  {"anchor": "EPH.6:21", "marker": "†"},
-  {"anchor": "EPH.6:23", "marker": "†"}
-]
+{
+  "book_code": "EPH",
+  "reindex_date": "2026-03-13",
+  "marker_count": 53,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "EPH.1:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.1:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.1:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.1:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 4,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.1:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.1:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 6,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.1:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 7,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.1:21",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 8,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.2:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 9,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.2:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 10,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.2:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 11,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.2:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 12,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.2:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 13,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 14,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 15,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 16,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 17,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 18,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 19,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 20,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 21,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 22,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 23,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 24,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.3:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 25,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 26,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:2",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 27,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 28,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 29,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 30,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 31,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 32,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:25",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 33,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:26",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 34,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:28",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 35,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:31",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 36,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.4:32",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 37,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.5:2",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 38,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.5:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 39,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.5:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 40,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.5:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 41,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.5:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 42,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.5:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 43,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.5:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 44,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.5:21",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 45,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.5:22",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 46,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.6:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 47,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.6:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 48,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.6:9",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 49,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.6:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 50,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.6:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 51,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.6:21",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 52,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "EPH.6:23",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 53,
+      "source": "migrated_from_bare_list"
+    }
+  ]
+}

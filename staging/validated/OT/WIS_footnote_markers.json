@@ -1,106 +1,189 @@
-[
-  {
-    "anchor": "WIS.0:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:13",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:12",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:18",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:25",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:10",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:19",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:6",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:16",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:17",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:26",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:4",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:22",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:27",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:31",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:8",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:14",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:21",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:3",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:23",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:28",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:11",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:7",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:15",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:2",
-    "marker": "†"
-  },
-  {
-    "anchor": "WIS.0:9",
-    "marker": "†"
-  }
-]
+{
+  "book_code": "WIS",
+  "reindex_date": "2026-03-13",
+  "marker_count": 26,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "WIS.0:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 4,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:25",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 6,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 7,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 8,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 9,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 10,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:26",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 11,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 12,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:22",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 13,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:27",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 14,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:31",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 15,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 16,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 17,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:21",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 18,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 19,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:23",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 20,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:28",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 21,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 22,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 23,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 24,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:2",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 25,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "WIS.0:9",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 26,
+      "source": "migrated_from_bare_list"
+    }
+  ]
+}

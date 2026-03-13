@@ -1,530 +1,931 @@
-[
-  {
-    "anchor": "ROM.1:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.1:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.1:8",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.1:11",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.1:13",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.1:14",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.1:16",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.1:17",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.1:18",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.1:20",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.1:26",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.1:28",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.2:13",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.2:17",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.2:25",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.2:28",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.3:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.3:9",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.3:19",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.3:20",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.3:21",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.3:27",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.4:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.4:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.4:11",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.4:13",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.4:23",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.5:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.5:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.5:6",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.5:10",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.5:12",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.5:13",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.5:14",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.5:15",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.5:18",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.5:19",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.5:20",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:2",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:3",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:3",
-    "marker": "ω"
-  },
-  {
-    "anchor": "ROM.6:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:7",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:8",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:10",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:11",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:12",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:13",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:15",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:16",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:17",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:18",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:19",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:20",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:21",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:22",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.6:23",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.7:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.7:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.7:7",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.7:13",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.7:17",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.7:18",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.7:20",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.7:24",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.7:25",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:3",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:9",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:10",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:13",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:14",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:15",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:16",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:18",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:20",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:24",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:26",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:28",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:28",
-    "marker": "ω"
-  },
-  {
-    "anchor": "ROM.8:31",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.8:38",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.9:6",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.9:10",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.9:14",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.9:19",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.9:22",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.9:30",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.10:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.10:4",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.10:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.10:8",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.10:11",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.10:14",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.11:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.11:11",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.11:16",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.11:24",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.11:25",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.11:30",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.11:36",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.12:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.12:2",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.12:3",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.12:9",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.12:19",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.13:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.13:4",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.13:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.13:9",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.13:11",
-    "marker": "ω"
-  },
-  {
-    "anchor": "ROM.13:12",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.14:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.14:7",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.14:13",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.14:22",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.15:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.15:4",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.15:14",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.15:15",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.15:18",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.15:20",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.15:27",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.16:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.16:3",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.16:6",
-    "marker": "ω"
-  },
-  {
-    "anchor": "ROM.16:7",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.16:17",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.16:22",
-    "marker": "†"
-  },
-  {
-    "anchor": "ROM.16:25",
-    "marker": "†"
-  }
-]
+{
+  "book_code": "ROM",
+  "reindex_date": "2026-03-13",
+  "marker_count": 132,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "ROM.1:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.1:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.1:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.1:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 4,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.1:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.1:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 6,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.1:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 7,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.1:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 8,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.1:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 9,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.1:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 10,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.1:26",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 11,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.1:28",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 12,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.2:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 13,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.2:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 14,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.2:25",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 15,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.2:28",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 16,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.3:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 17,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.3:9",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 18,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.3:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 19,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.3:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 20,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.3:21",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 21,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.3:27",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 22,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.4:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 23,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.4:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 24,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.4:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 25,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.4:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 26,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.4:23",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 27,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.5:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 28,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.5:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 29,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.5:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 30,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.5:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 31,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.5:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 32,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.5:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 33,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.5:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 34,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.5:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 35,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.5:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 36,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.5:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 37,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.5:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 38,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 39,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:2",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 40,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 41,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "ω",
+      "anchor": "ROM.6:3",
+      "marker_index_in_verse": 2,
+      "marker_seq_book": 42,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 43,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 44,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 45,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 46,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 47,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 48,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 49,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 50,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 51,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 52,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 53,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 54,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 55,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:21",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 56,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:22",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 57,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.6:23",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 58,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.7:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 59,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.7:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 60,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.7:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 61,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.7:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 62,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.7:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 63,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.7:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 64,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.7:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 65,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.7:24",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 66,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.7:25",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 67,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 68,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 69,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 70,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:9",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 71,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 72,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 73,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 74,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 75,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 76,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 77,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 78,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:24",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 79,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:26",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 80,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:28",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 81,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "ω",
+      "anchor": "ROM.8:28",
+      "marker_index_in_verse": 2,
+      "marker_seq_book": 82,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:31",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 83,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.8:38",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 84,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.9:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 85,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.9:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 86,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.9:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 87,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.9:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 88,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.9:22",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 89,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.9:30",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 90,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.10:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 91,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.10:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 92,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.10:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 93,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.10:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 94,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.10:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 95,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.10:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 96,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.11:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 97,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.11:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 98,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.11:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 99,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.11:24",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 100,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.11:25",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 101,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.11:30",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 102,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.11:36",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 103,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.12:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 104,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.12:2",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 105,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.12:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 106,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.12:9",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 107,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.12:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 108,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.13:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 109,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.13:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 110,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.13:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 111,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.13:9",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 112,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "ω",
+      "anchor": "ROM.13:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 113,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.13:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 114,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.14:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 115,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.14:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 116,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.14:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 117,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.14:22",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 118,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.15:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 119,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.15:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 120,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.15:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 121,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.15:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 122,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.15:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 123,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.15:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 124,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.15:27",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 125,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.16:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 126,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.16:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 127,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "ω",
+      "anchor": "ROM.16:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 128,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.16:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 129,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.16:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 130,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.16:22",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 131,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "ROM.16:25",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 132,
+      "source": "migrated_from_bare_list"
+    }
+  ]
+}

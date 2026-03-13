@@ -1,30 +1,56 @@
-[
-  {
-    "anchor": "2JN.1:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "2JN.1:3",
-    "marker": "†"
-  },
-  {
-    "anchor": "2JN.1:4",
-    "marker": "†"
-  },
-  {
-    "anchor": "2JN.1:7",
-    "marker": "†"
-  },
-  {
-    "anchor": "2JN.1:9",
-    "marker": "†"
-  },
-  {
-    "anchor": "2JN.1:10",
-    "marker": "†"
-  },
-  {
-    "anchor": "2JN.1:13",
-    "marker": "†"
-  }
-]
+{
+  "book_code": "2JN",
+  "reindex_date": "2026-03-13",
+  "marker_count": 7,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "2JN.1:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "2JN.1:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "2JN.1:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "2JN.1:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 4,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "2JN.1:9",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "2JN.1:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 6,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "2JN.1:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 7,
+      "source": "migrated_from_bare_list"
+    }
+  ]
+}

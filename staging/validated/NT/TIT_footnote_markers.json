@@ -1,42 +1,77 @@
-[
-  {
-    "anchor": "TIT.1:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "TIT.1:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "TIT.1:10",
-    "marker": "†"
-  },
-  {
-    "anchor": "TIT.2:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "TIT.2:3",
-    "marker": "†"
-  },
-  {
-    "anchor": "TIT.2:11",
-    "marker": "†"
-  },
-  {
-    "anchor": "TIT.2:13",
-    "marker": "†"
-  },
-  {
-    "anchor": "TIT.3:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "TIT.3:7",
-    "marker": "†"
-  },
-  {
-    "anchor": "TIT.3:10",
-    "marker": "†"
-  }
-]
+{
+  "book_code": "TIT",
+  "reindex_date": "2026-03-13",
+  "marker_count": 10,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "TIT.1:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "TIT.1:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "TIT.1:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "TIT.2:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 4,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "TIT.2:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "TIT.2:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 6,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "TIT.2:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 7,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "TIT.3:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 8,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "TIT.3:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 9,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "TIT.3:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 10,
+      "source": "migrated_from_bare_list"
+    }
+  ]
+}

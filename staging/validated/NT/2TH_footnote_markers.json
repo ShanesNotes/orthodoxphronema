@@ -1,5 +1,28 @@
-[
-  { "anchor": "2TH.3:6", "marker": "†" },
-  { "anchor": "2TH.3:13", "marker": "†" },
-  { "anchor": "2TH.3:17", "marker": "†" }
-]
+{
+  "book_code": "2TH",
+  "reindex_date": "2026-03-13",
+  "marker_count": 3,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "2TH.3:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "2TH.3:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "2TH.3:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "migrated_from_bare_list"
+    }
+  ]
+}

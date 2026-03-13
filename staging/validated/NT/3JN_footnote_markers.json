@@ -1,22 +1,42 @@
-[
-  {
-    "anchor": "3JN.1:3",
-    "marker": "†"
-  },
-  {
-    "anchor": "3JN.1:5",
-    "marker": "†"
-  },
-  {
-    "anchor": "3JN.1:8",
-    "marker": "†"
-  },
-  {
-    "anchor": "3JN.1:9",
-    "marker": "†"
-  },
-  {
-    "anchor": "3JN.1:12",
-    "marker": "†"
-  }
-]
+{
+  "book_code": "3JN",
+  "reindex_date": "2026-03-13",
+  "marker_count": 5,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "3JN.1:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "3JN.1:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "3JN.1:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "3JN.1:9",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 4,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "3JN.1:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "migrated_from_bare_list"
+    }
+  ]
+}

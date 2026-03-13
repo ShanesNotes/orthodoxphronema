@@ -1,58 +1,399 @@
-[
-  {"anchor": "GAL.1:3", "marker": "†"},
-  {"anchor": "GAL.1:6", "marker": "†"},
-  {"anchor": "GAL.1:11", "marker": "†"},
-  {"anchor": "GAL.1:13", "marker": "†"},
-  {"anchor": "GAL.1:18", "marker": "†"},
-  {"anchor": "GAL.1:19", "marker": "†"},
-  {"anchor": "GAL.1:24", "marker": "†"},
-  {"anchor": "GAL.2:2", "marker": "†"},
-  {"anchor": "GAL.2:4", "marker": "†"},
-  {"anchor": "GAL.2:6", "marker": "†"},
-  {"anchor": "GAL.2:7", "marker": "†"},
-  {"anchor": "GAL.2:8", "marker": "†"},
-  {"anchor": "GAL.2:9", "marker": "†"},
-  {"anchor": "GAL.2:10", "marker": "†"},
-  {"anchor": "GAL.2:11", "marker": "†"},
-  {"anchor": "GAL.2:12", "marker": "†"},
-  {"anchor": "GAL.2:14", "marker": "†"},
-  {"anchor": "GAL.2:15", "marker": "†"},
-  {"anchor": "GAL.2:16", "marker": "†"},
-  {"anchor": "GAL.2:17", "marker": "†"},
-  {"anchor": "GAL.2:18", "marker": "†"},
-  {"anchor": "GAL.2:19", "marker": "†"},
-  {"anchor": "GAL.2:20", "marker": "†"},
-  {"anchor": "GAL.2:21", "marker": "†"},
-  {"anchor": "GAL.3:1", "marker": "†"},
-  {"anchor": "GAL.3:6", "marker": "†"},
-  {"anchor": "GAL.3:10", "marker": "†"},
-  {"anchor": "GAL.3:12", "marker": "†"},
-  {"anchor": "GAL.3:13", "marker": "†"},
-  {"anchor": "GAL.3:14", "marker": "†"},
-  {"anchor": "GAL.3:15", "marker": "†"},
-  {"anchor": "GAL.3:19", "marker": "†"},
-  {"anchor": "GAL.3:20", "marker": "†"},
-  {"anchor": "GAL.3:22", "marker": "†"},
-  {"anchor": "GAL.3:26", "marker": "†"},
-  {"anchor": "GAL.3:28", "marker": "†"},
-  {"anchor": "GAL.4:3", "marker": "†"},
-  {"anchor": "GAL.4:4", "marker": "†"},
-  {"anchor": "GAL.4:10", "marker": "†"},
-  {"anchor": "GAL.4:13", "marker": "†"},
-  {"anchor": "GAL.4:14", "marker": "†"},
-  {"anchor": "GAL.4:21", "marker": "†"},
-  {"anchor": "GAL.5:1", "marker": "†"},
-  {"anchor": "GAL.5:5", "marker": "†"},
-  {"anchor": "GAL.5:6", "marker": "†"},
-  {"anchor": "GAL.5:13", "marker": "†"},
-  {"anchor": "GAL.5:16", "marker": "†"},
-  {"anchor": "GAL.5:25", "marker": "†"},
-  {"anchor": "GAL.6:1", "marker": "†"},
-  {"anchor": "GAL.6:2", "marker": "†"},
-  {"anchor": "GAL.6:6", "marker": "†"},
-  {"anchor": "GAL.6:12", "marker": "†"},
-  {"anchor": "GAL.6:14", "marker": "†"},
-  {"anchor": "GAL.6:15", "marker": "†"},
-  {"anchor": "GAL.6:16", "marker": "†"},
-  {"anchor": "GAL.6:17", "marker": "†"}
-]
+{
+  "book_code": "GAL",
+  "reindex_date": "2026-03-13",
+  "marker_count": 56,
+  "markers": [
+    {
+      "marker": "†",
+      "anchor": "GAL.1:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.1:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.1:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.1:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 4,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.1:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.1:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 6,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.1:24",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 7,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:2",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 8,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 9,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 10,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 11,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 12,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:9",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 13,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 14,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 15,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 16,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 17,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 18,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 19,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 20,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 21,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 22,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 23,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.2:21",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 24,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 25,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 26,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 27,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 28,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 29,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 30,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 31,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 32,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 33,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:22",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 34,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:26",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 35,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.3:28",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 36,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.4:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 37,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.4:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 38,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.4:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 39,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.4:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 40,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.4:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 41,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.4:21",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 42,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.5:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 43,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.5:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 44,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.5:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 45,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.5:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 46,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.5:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 47,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.5:25",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 48,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.6:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 49,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.6:2",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 50,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.6:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 51,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.6:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 52,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.6:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 53,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.6:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 54,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.6:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 55,
+      "source": "migrated_from_bare_list"
+    },
+    {
+      "marker": "†",
+      "anchor": "GAL.6:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 56,
+      "source": "migrated_from_bare_list"
+    }
+  ]
+}
