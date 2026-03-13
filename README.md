@@ -76,11 +76,9 @@ Promotion gates (D1-D5 + V4/V7) enforce editorial resolution, freshness, sidecar
 | Directory | Purpose |
 |---|---|
 | `canon/` | Promoted, validated scripture (76 files: `OT/`, `NT/`) |
-| `staging/` | Pre-promotion work area (`raw/`, `validated/`) with companion sidecars |
+| `staging/` | Pre-promotion work area (`raw/`, `validated/`) with companion sidecars (`_footnotes.md`, `_articles.md`, `_residuals.json`) |
 | `pipeline/` | All pipeline code: `parse/`, `cleanup/`, `validate/`, `promote/`, `extract/`, `graph/`, `reference/` |
 | `metadata/` | Generated artifacts: `r1_output/`, `anchor_backlinks/`, `pericope_index/`, `graph/` |
-| `articles/` | OSB introductions, essays, appendices (separated from scripture) |
-| `notes/` | Companion footnote files by testament |
 | `schemas/` | JSON schemas for validation |
 | `reports/` | Validation audit trail and dashboards |
 | `src.texts/` | Raw source documents (immutable after intake) |
