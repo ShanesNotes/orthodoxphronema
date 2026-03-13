@@ -9,7 +9,7 @@ Modes:
   --from-footnotes Rebuild markers from *_footnotes.md anchor lines
   --all-ot         Iterate all OT books (requires --from-footnotes)
   --all-nt         Iterate all NT books (requires --from-footnotes)
-  --force          Reindex even if markers >= footnotes
+  --force          Rebuild even if marker anchors already align
   --dry-run        Report what would change without writing files
 """
 
@@ -144,6 +144,16 @@ def load_existing_markers(markers_path: Path) -> list[dict]:
     return data.get("markers", [])
 
 
+def extract_marker_anchors(markers: list[dict]) -> list[str]:
+    """Return unique existing anchors in canonical order."""
+    anchors = {
+        marker.get("anchor", "")
+        for marker in markers
+        if isinstance(marker, dict) and marker.get("anchor")
+    }
+    return sorted(anchors, key=_anchor_sort_key)
+
+
 def reindex_book_from_footnotes(
     book_code: str,
     testament: str,
@@ -166,31 +176,36 @@ def reindex_book_from_footnotes(
                       marker_count=0, footnote_count=0)
         return result
 
-    # Extract counts
+    # Extract counts and anchor sets
     footnote_anchors = extract_anchors_from_footnotes(footnotes_path)
     existing_markers = load_existing_markers(markers_path)
+    existing_anchors = extract_marker_anchors(existing_markers)
     m_count = len(existing_markers)
     f_count = len(footnote_anchors)
+    aligned = existing_anchors == footnote_anchors
 
     result["marker_count"] = m_count
     result["footnote_count"] = f_count
+    result["marker_anchor_count"] = len(existing_anchors)
+    result["aligned"] = aligned
 
-    # Skip if markers already match footnotes exactly (nothing to do)
-    if m_count == f_count and not force:
-        # Check if already sourced from footnotes — truly nothing to do
+    # Skip only when the actual anchor sets already align and force is not set.
+    if aligned and not force:
         result.update(action="skip", reason="markers_adequate")
         return result
-    if m_count == f_count and force:
-        # Even with --force, skip if counts match (anchors should be same)
-        result.update(action="skip", reason="markers_adequate")
-        return result
-    # Without --force, skip when markers exceed footnotes (negative mismatch)
+
+    # Without --force, skip only when markers strictly exceed footnotes and the
+    # anchors are not aligned. Equal-count mismatches should still rebuild.
     if not force and f_count < m_count:
         result.update(action="skip", reason="markers_exceed_footnotes")
         return result
 
     if dry_run:
-        result.update(action="would_reindex", delta=f_count - m_count)
+        result.update(
+            action="would_reindex",
+            delta=f_count - m_count,
+            anchor_delta=len(footnote_anchors) - len(existing_anchors),
+        )
         return result
 
     # Build new markers
@@ -211,7 +226,11 @@ def reindex_book_from_footnotes(
     with open(markers_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    result.update(action="reindexed", delta=f_count - m_count)
+    result.update(
+        action="reindexed",
+        delta=f_count - m_count,
+        anchor_delta=len(footnote_anchors) - len(existing_anchors),
+    )
     return result
 
 
@@ -231,7 +250,7 @@ def main():
     parser.add_argument("--book", type=str, default=None,
                         help="Single book code to reindex (with --from-footnotes)")
     parser.add_argument("--force", action="store_true",
-                        help="Reindex even if markers >= footnotes")
+                        help="Rebuild even if marker anchors already align")
     parser.add_argument("--dry-run", action="store_true",
                         help="Report what would change without writing")
     args = parser.parse_args()
