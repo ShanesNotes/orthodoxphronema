@@ -1,65 +1,63 @@
 {
   "book_code": "2CO",
   "testament": "NT",
-  "timestamp": "2026-03-11T16:39:42.392917",
-  "registry_version": "1.3.0",
-  "body_checksum": "04232a44d95caff10b429980d44c63f1c0184549537e3296f43f156325455bd0",
+  "timestamp": "2026-03-13T11:56:44.118914",
+  "registry_version": "1.4.0",
+  "body_checksum": "b425938e95cac9caa4c8e6a429900efd2945e0f594ec7177401eecf405fa51a5",
+  "allow_incomplete": false,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/2CO.md",
+  "residuals_path": null,
+  "editorial_candidates_path": null,
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
     },
     "V2": {
-      "status": "WARN",
-      "messages": [
-        "V2   Chapter count: expected 13, got 14"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V3": {
       "status": "PASS",
       "messages": []
     },
     "V4": {
-      "status": "WARN",
-      "messages": [
-        "V4   Missing verses in ch.3: jumps from 12 to 14",
-        "V4   Missing verses in ch.4: jumps from 9 to 11",
-        "V4   Missing verses in ch.8: jumps from 20 to 22",
-        "V4   Missing verses in ch.10: jumps from 8 to 10",
-        "V4   Missing verses in ch.11: jumps from 27 to 29",
-        "V4   Missing verses in ch.13: jumps from 2 to 4"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
-    "V6": {
+    "V7": {
       "status": "PASS",
       "messages": []
-    },
-    "V7": {
-      "status": "WARN",
-      "messages": [
-        "V7   Completeness: 258/257 verses (100.4%); gap of -1"
-      ]
     },
     "V8": {
       "status": "PASS",
       "messages": []
     },
     "V9": {
-      "status": "FAIL",
-      "messages": [
-        "V9   Embedded verse 2CO.3:13 found inside 2CO.3:12 at line 121",
-        "V9   Embedded verse 2CO.4:10 found inside 2CO.4:9 at line 143",
-        "V9   Embedded verse 2CO.8:21 found inside 2CO.8:20 at line 267",
-        "V9   Embedded verse 2CO.10:9 found inside 2CO.10:8 at line 306",
-        "V9   Embedded verse 2CO.11:28 found inside 2CO.11:27 at line 359",
-        "V9   Embedded verse 2CO.13:3 found inside 2CO.13:2 at line 406"
-      ]
+      "status": "PASS",
+      "messages": []
+    },
+    "V10": {
+      "status": "SKIP",
+      "messages": []
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
+      "status": "PASS",
+      "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "blocked"
+  "decision": "promoted"
 }

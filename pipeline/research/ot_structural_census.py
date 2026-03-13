@@ -14,7 +14,7 @@ TEMPLATE_PATH = REPO_ROOT / "memos" / "_template_work_memo.md"
 RE_ANCHOR = re.compile(r"([A-Z0-9]{3})\.(\d+):(\d+)")
 
 def analyze_book(file_path):
-    book_code = file_path.stem
+    book_code = file_path.stem.split("_", 1)[1] if "_" in file_path.stem else file_path.stem
     lines = file_path.read_text(encoding="utf-8").splitlines()
     
     total_lines = len(lines)

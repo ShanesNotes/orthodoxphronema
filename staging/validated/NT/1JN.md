@@ -22,7 +22,7 @@ has_additions: false
 
 ### Walk in the Light: Confession
 
-1JN.1:4 And these things we write to you that your ajoy may be full.
+1JN.1:4 And these things we write to you that your joy may be full.
 1JN.1:5 This is the message which we have heard from Him and declare to you, that God is light and in Him is no darkness at all.
 1JN.1:6 If we say that we have fellowship with Him, and walk in darkness, we lie and do not practice the truth.
 1JN.1:7 But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin.
@@ -31,23 +31,23 @@ has_additions: false
 
 ### Keep God's Commandments of Love
 
-1JN.1:10 If we say that we have not sinned, we make Him aliar, and His word is not in us.
+1JN.1:10 If we say that we have not sinned, we make Him a liar, and His word is not in us.
 ## Chapter 2
 
 1JN.2:1 My little children, these things I write to you, so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous.
 1JN.2:2 And He Himself is the propitiation for our sins, and not for ours only but also for the whole world.
 1JN.2:3 Now by this we know that we know Him, if we keep His commandments.
-1JN.2:4 He who says, 'I know Him,' and does not keep His commandments, is aliar, and the truth is not in him.
+1JN.2:4 He who says, 'I know Him,' and does not keep His commandments, is a liar, and the truth is not in him.
 1JN.2:5 But whoever keeps His word, truly the love of God is perfected in him. By this we know that we are in Him.
 1JN.2:6 He who says he abides in Him ought himself also to walk just as He walked.
 1JN.2:7 Brethren, I write no new commandment to you, but an old commandment which you have had from the beginning. The old commandment is the word which you heard from the beginning.
-1JN.2:8 Again, anew commandment I write to you, which thing is true in Him and in you, because the darkness is passing away, and the true light is already shining.
+1JN.2:8 Again, a new commandment I write to you, which thing is true in Him and in you, because the darkness is passing away, and the true light is already shining.
 1JN.2:9 He who says he is in the light, and hates his brother, is in darkness until now.
 1JN.2:10 He who loves his brother abides in the light, and there is no cause for stumbling in him.
 1JN.2:11 But he who hates his brother is in darkness and walks in darkness, and does not know where he is going, because the darkness has blinded his eyes.
 1JN.2:12 I write to you, little children, Because your sins are forgiven you for His name's sake.
-1JN.2:13 I write to you, fathers, Because you haveknown Him who is from the beginning. I write to you, young men, Because you haveovercome the wicked one. I write to you, little children, Because you haveknown the Father.
-1JN.2:14 I havewritten to you, fathers, Because you haveknown Him who is from the beginning. I havewritten to you, young men, Because you are strong, and the word of God abides in you, And you have overcome the wicked one.
+1JN.2:13 I write to you, fathers, Because you have known Him who is from the beginning. I write to you, young men, Because you have overcome the wicked one. I write to you, little children, Because you have known the Father.
+1JN.2:14 I have written to you, fathers, Because you have known Him who is from the beginning. I have written to you, young men, Because you are strong, and the word of God abides in you, And you have overcome the wicked one.
 1JN.2:15 Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him.
 1JN.2:16 For all that is in the world-the lust of the flesh, the lust of the eyes, and the pride of life-is not of the Father but is of the world.
 
@@ -58,7 +58,7 @@ has_additions: false
 1JN.2:19 They went out from us, but they were not of us; for if they had been of us, they would have continued with us; but they went out that they might be made manifest, that none of them were of us.
 1JN.2:20 But you have an anointing from the Holy One, and you know all things.
 1JN.2:21 I have not written to you because you do not know the truth, but because you know it, and that no lie is of the truth.
-1JN.2:22 Who is aliar but he who denies that Jesus is the Christ? He is antichrist who denies the Father and the Son.
+1JN.2:22 Who is a liar but he who denies that Jesus is the Christ? He is antichrist who denies the Father and the Son.
 1JN.2:23 Whoever denies the Son does not have the Father either; he who acknowledges the Son has the Father also.
 1JN.2:24 Therefore let that abide in you which you heard from the beginning. If what you heard from the beginning abides in you, you also will abide in the Son and in the Father.
 1JN.2:25 And this is the promise that He has promised us-eternal life.
@@ -66,7 +66,7 @@ has_additions: false
 
 ### Practice Righteousness: Do Not Sin
 
-1JN.2:27 But the anointing which you have received from Him abides in you, and you do not need that anyone teach you; but as the same anointing teaches you concerning all things, and is true, and is not alie, and just as it has taught you, you will aabide in Him.
+1JN.2:27 But the anointing which you have received from Him abides in you, and you do not need that anyone teach you; but as the same anointing teaches you concerning all things, and is true, and is not a lie, and just as it has taught you, you will abide in Him.
 1JN.2:28 And now, little children, abide in Him, that when He appears, we may have confidence and not be ashamed before Him at His coming.
 1JN.2:29 If you know that He is righteous, you know that everyone who practices righteousness is born of Him.
 ## Chapter 3
@@ -87,16 +87,16 @@ has_additions: false
 1JN.3:11 For this is the message that you heard from the beginning, that we should love one another,
 1JN.3:12 not as Cain who was of the wicked one and murdered his brother. And why did he murder him? Because his works were evil and his brother's righteous.
 1JN.3:13 Do not marvel, my brethren, if the world hates you.
-1JN.3:14 We know that we have passed from death to life, because we love the brethren. He who does not love his brother aabides in death.
-1JN.3:15 Whoever hates his brother is amurderer, and you know that no murderer has eternal life abiding in him.
+1JN.3:14 We know that we have passed from death to life, because we love the brethren. He who does not love his brother abides in death.
+1JN.3:15 Whoever hates his brother is a murderer, and you know that no murderer has eternal life abiding in him.
 1JN.3:16 By this we know love, because He laid down His life for us. And we also ought to lay down our lives for the brethren.
 1JN.3:17 But whoever has this world's goods, and sees his brother in need, and shuts up his heart from him, how does the love of God abide in him?
 1JN.3:18 My little children, let us not love in word or in tongue, but in deed and in truth.
-1JN.3:19 And by this we know athat we are of the truth, and shall assure our hearts before Him.
+1JN.3:19 And by this we know that we are of the truth, and shall assure our hearts before Him.
 1JN.3:20 For if our heart condemns us, God is greater than our heart, and knows all things.
 1JN.3:21 Beloved, if our heart does not condemn us, we have confidence toward God.
 1JN.3:22 And whatever we ask we receive from Him, because we keep His commandments and do those things that are pleasing in His sight.
-1JN.3:23 And this is His commandment: that we should believe on the name of His Son Jesus Christ and love one another, as He gave us acommandment.
+1JN.3:23 And this is His commandment: that we should believe on the name of His Son Jesus Christ and love one another, as He gave us a commandment.
 
 ### The Spirit's Witness: The Incarnation
 
@@ -133,8 +133,8 @@ has_additions: false
 
 ### Love of God Means Love of Others
 
-1JN.4:19 We love Him abecause He first loved us.
-1JN.4:20 If someone says, 'I love God,' and hates his brother, he is aliar; for he who does not love his brother whom he has seen, how can ahe love God whom he has not seen?
+1JN.4:19 We love Him because He first loved us.
+1JN.4:20 If someone says, 'I love God,' and hates his brother, he is a liar; for he who does not love his brother whom he has seen, how can he love God whom he has not seen?
 
 ### Faith Overcomes the World
 
@@ -144,7 +144,7 @@ has_additions: false
 1JN.5:1 Whoever believes that Jesus is the Christ is born of God, and everyone who loves Him who begot also loves him who is begotten of Him.
 1JN.5:2 By this we know that we love the children of God, when we love God and keep His commandments.
 1JN.5:3 For this is the love of God, that we keep His commandments. And His commandments are not burdensome.
-1JN.5:4 For whatever is born of God overcomes the world. And this is the victory that has overcome the world-our afaith.
+1JN.5:4 For whatever is born of God overcomes the world. And this is the victory that has overcome the world-our faith.
 
 ### God Validates Our Faith
 
@@ -154,23 +154,23 @@ has_additions: false
 
 ### Faith Brings Eternal Life
 
-1JN.5:8 And there are three that bear witness on earth: athe Spirit, the water, and the blood; and these three agree as one.
+1JN.5:8 And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three agree as one.
 1JN.5:9 If we receive the witness of men, the witness of God is greater; for this is the witness of God which He has testified of His Son.
-1JN.5:10 He who believes in the Son of God has the witness in himself; he who does not believe God has made Him aliar, because he has not believed the testimony that God has given of His Son.
+1JN.5:10 He who believes in the Son of God has the witness in himself; he who does not believe God has made Him a liar, because he has not believed the testimony that God has given of His Son.
 1JN.5:11 And this is the testimony: that God has given us eternal life, and this life is in His Son.
 1JN.5:12 He who has the Son has life; he who does not have the Son of God does not have life.
 
 ### Pray According to God's Will
 
-1JN.5:13 These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, aand that you may continue to believe in the name of the Son of God.
+1JN.5:13 These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may continue to believe in the name of the Son of God.
 1JN.5:14 Now this is the confidence that we have in Him, that if we ask anything according to His will, He hears us.
 1JN.5:15 And if we know that He hears us, whatever we ask, we know that we have the petitions that we have asked of Him.
-1JN.5:16 If anyone sees his brother sinning asin which does not lead to death, he will ask, and He will give him life for those who commit sin not leading to death. There is sin leading to death. I do not say that he should pray about that.
+1JN.5:16 If anyone sees his brother sinning a sin which does not lead to death, he will ask, and He will give him life for those who commit sin not leading to death. There is sin leading to death. I do not say that he should pray about that.
 
 ### Separate from Sin
 
 1JN.5:17 All unrighteousness is sin, and there is sin not leading to death.
-1JN.5:18 We know that whoever is born of God does not sin; but he who has been born of God keeps himself, aand the wicked one does not touch him.
+1JN.5:18 We know that whoever is born of God does not sin; but he who has been born of God keeps himself, and the wicked one does not touch him.
 
 ### Live in Christ
 

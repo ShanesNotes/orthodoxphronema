@@ -1,5 +1,9 @@
 [
   {
+    "anchor": "JAS.1:1",
+    "marker": "†"
+  },
+  {
     "anchor": "JAS.1:2",
     "marker": "†"
   },
@@ -48,18 +52,6 @@
     "marker": "†"
   },
   {
-    "anchor": "JAS.1:26",
-    "marker": "†"
-  },
-  {
-    "anchor": "JAS.2:1",
-    "marker": "†"
-  },
-  {
-    "anchor": "JAS.2:5",
-    "marker": "†"
-  },
-  {
     "anchor": "JAS.2:8",
     "marker": "†"
   },
@@ -68,7 +60,7 @@
     "marker": "†"
   },
   {
-    "anchor": "JAS.2:19",
+    "anchor": "JAS.2:20",
     "marker": "†"
   },
   {
@@ -105,7 +97,7 @@
   },
   {
     "anchor": "JAS.5:10",
-    "marker": "†ω"
+    "marker": "†"
   },
   {
     "anchor": "JAS.5:12",

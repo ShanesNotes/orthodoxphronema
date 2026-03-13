@@ -11,7 +11,7 @@ import re
 import subprocess
 
 from pipeline.common.frontmatter import parse_frontmatter
-from pipeline.common.paths import CANON_ROOT, METADATA_ROOT, REPO_ROOT, STAGING_ROOT
+from pipeline.common.paths import CANON_ROOT, METADATA_ROOT, REPO_ROOT, STAGING_ROOT, canon_filepath
 from pipeline.common.patterns import RE_ANCHOR_FULL
 from pipeline.common.registry import book_meta, book_testament, load_registry
 from pipeline.extract.r1_extractor import extract_references_from_paths, write_book_output
@@ -62,7 +62,7 @@ def resolve_paths(book_code: str, companion_base: Path = DEFAULT_COMPANION_BASE)
     testament = book_testament(registry, book_code)
     if testament is None:
         raise ValueError(f"Unknown book code: {book_code}")
-    canon_path = CANON_ROOT / testament / f"{book_code}.md"
+    canon_path = canon_filepath(testament, book_code)
     footnotes_path = companion_base / testament / f"{book_code}_footnotes.md"
     articles_path = companion_base / testament / f"{book_code}_articles.md"
     return {

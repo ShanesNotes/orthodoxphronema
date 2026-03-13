@@ -23,7 +23,7 @@ has_additions: false
 
 ### Commendation of Gaius
 
-3JN.1:4 I have no greater joy than to hear that my children walk in truth. a
+3JN.1:4 I have no greater joy than to hear that my children walk in truth.
 3JN.1:5 Beloved, you do faithfully whatever you do for the brethren and afor strangers,
 3JN.1:6 who have borne witness of your love before the church. If you send them forward on their journey in amanner worthy of God, you will do well,
 3JN.1:7 because they went forth for His name's sake, taking nothing from the Gentiles.

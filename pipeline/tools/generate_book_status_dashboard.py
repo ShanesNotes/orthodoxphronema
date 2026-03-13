@@ -24,6 +24,7 @@ _R = _Path(__file__).resolve().parent
 while _R != _R.parent and not (_R / "pipeline" / "__init__.py").exists(): _R = _R.parent
 if str(_R) not in _sys.path: _sys.path.insert(0, str(_R))
 import pipeline.common.paths as _paths
+from pipeline.common.paths import canon_filepath
 import pipeline.common.registry as _reg
 from pipeline.common.text import sha256_hex
 
@@ -267,7 +268,10 @@ def build_book_entry(book: dict) -> dict:
     dossier = load_json(REPORTS_ROOT / f"{code}_promotion_dossier.json")
     editorial = load_json(STAGING_ROOT / testament / f"{code}_editorial_candidates.json")
     residuals = load_json(STAGING_ROOT / testament / f"{code}_residuals.json")
-    promoted_exists = (CANON_ROOT / testament / f"{code}.md").exists()
+    try:
+        promoted_exists = canon_filepath(testament, code).exists()
+    except ValueError:
+        promoted_exists = False
     staged_path = STAGING_ROOT / testament / f"{code}.md"
     checksum = staged_body_checksum(staged_path)
     freshness_status = dossier_freshness_status(dossier, staged_path, checksum)

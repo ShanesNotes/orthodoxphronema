@@ -6,7 +6,7 @@ import re
 import subprocess
 from pathlib import Path
 from pipeline.common.pdf_source import extract_pdf_text, estimate_chapter_page_range
-from pipeline.common.paths import PDF_PATH
+from pipeline.common.paths import PDF_PATH, canon_filepath
 
 REPO_ROOT = Path(__file__).parent.parent.parent
 CANON_DIR = REPO_ROOT / "canon" / "OT"
@@ -50,7 +50,7 @@ def find_v1_text(book_code: str, ch: int) -> str:
     return v1_text
 
 def repair_book(book_code: str):
-    file_path = CANON_DIR / f"{book_code}.md"
+    file_path = canon_filepath("OT", book_code)
     if not file_path.exists(): return
     
     print(f"Repairing Verse 1s in {file_path.name}...")
@@ -84,7 +84,8 @@ def repair_book(book_code: str):
 def process_all_books():
     print("Starting global Verse 1 structural repair...")
     for file_path in CANON_DIR.glob("*.md"):
-        repair_book(file_path.stem)
+        code = file_path.stem.split("_", 1)[1] if "_" in file_path.stem else file_path.stem
+        repair_book(code)
     print("Global repair complete.")
 
 if __name__ == "__main__":

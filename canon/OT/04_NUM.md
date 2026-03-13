@@ -627,7 +627,7 @@ NUM.13:32 So they instilled a terror for the land which they spied out among the
 NUM.13:33 There we saw the giants; and we seemed like grasshoppers to them, but so we actually were.'
 ## Chapter 14
 
-NUM.14:1 Now all the congregation lifted up their voices and cried, and the people wept t
+NUM.14:1 Now all the congregation lifted up their voices and cried, and the people wept
 NUM.14:2 All the children of Israel were murmuring against Moses and Aaron, and the whole congregation said to them, 'Would we had died in the land of Egypt, or in this desert.
 NUM.14:3 Why did the Lord bring us to this land to fall in war? Our wives and children shall be plundered. It is better for us to return to Egypt.'
 NUM.14:4 So they said to one another, 'Let us select a ruler and return to Egypt.'

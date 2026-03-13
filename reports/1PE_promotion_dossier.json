@@ -1,10 +1,18 @@
 {
   "book_code": "1PE",
   "testament": "NT",
-  "timestamp": "2026-03-11T16:39:42.178394",
-  "registry_version": "1.3.0",
-  "body_checksum": "c4a2345349c8efdc23901bd285d0de9079a2c90016f9d6b0257506ef4c7a075c",
+  "timestamp": "2026-03-13T12:52:31.894093",
+  "registry_version": "1.4.0",
+  "body_checksum": "0946783a7ae490c0979f58f25d4c6671f2b876d1b1a108e444733664b3e0eff8",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/1PE.md",
+  "residuals_path": null,
+  "editorial_candidates_path": null,
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
@@ -18,28 +26,17 @@
       "messages": []
     },
     "V4": {
-      "status": "WARN",
-      "messages": [
-        "V4   Missing verses in ch.1: jumps from 1 to 3",
-        "V4   Missing verses in ch.2: jumps from 2 to 4",
-        "V4   Missing verses in ch.2: jumps from 7 to 9",
-        "V4   Missing verses in ch.2: jumps from 15 to 17",
-        "V4   Missing verses in ch.3: jumps from 3 to 5",
-        "V4   Missing verses in ch.3: jumps from 8 to 10"
-      ]
-    },
-    "V5": {
       "status": "PASS",
       "messages": []
     },
-    "V6": {
+    "V5": {
       "status": "PASS",
       "messages": []
     },
     "V7": {
       "status": "WARN",
       "messages": [
-        "V7   Completeness: 100/105 verses (95.2%); gap of 5"
+        "V7   Completeness: 106/105 verses (101.0%); gap of -1"
       ]
     },
     "V8": {
@@ -49,16 +46,22 @@
       ]
     },
     "V9": {
-      "status": "FAIL",
-      "messages": [
-        "V9   Embedded verse 1PE.1:2 found inside 1PE.1:1 at line 20",
-        "V9   Embedded verse 1PE.2:3 found inside 1PE.2:2 at line 62",
-        "V9   Embedded verse 1PE.2:16 found inside 1PE.2:15 at line 76",
-        "V9   Embedded verse 1PE.3:4 found inside 1PE.3:3 at line 96",
-        "V9   Embedded verse 1PE.3:9 found inside 1PE.3:8 at line 103"
-      ]
+      "status": "PASS",
+      "messages": []
+    },
+    "V10": {
+      "status": "SKIP",
+      "messages": []
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
+      "status": "PASS",
+      "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "blocked"
+  "decision": "promoted"
 }

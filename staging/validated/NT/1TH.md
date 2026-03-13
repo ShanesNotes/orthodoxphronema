@@ -32,16 +32,16 @@ has_additions: false
 ## Chapter 2
 
 1TH.2:1 For you yourselves know, brethren, that our coming to you was not in vain.
-1TH.2:2 But even aafter we had suffered before and were spitefully treated at Philippi, as you know, we were bold in our God to speak to you the gospel of God in much conflict.
+1TH.2:2 But even after we had suffered before and were spitefully treated at Philippi, as you know, we were bold in our God to speak to you the gospel of God in much conflict.
 1TH.2:3 For our exhortation did not come from error or uncleanness, nor was it in deceit.
 1TH.2:4 But as we have been approved by God to be entrusted with the gospel, even so we speak, not as pleasing men, but God who tests our hearts.
-1TH.2:5 For neither at any time did we use flattering words, as you know, nor acloak for covetousness-God is witness.
+1TH.2:5 For neither at any time did we use flattering words, as you know, nor a cloak for covetousness-God is witness.
 1TH.2:6 Nor did we seek glory from men, either from you or from others, when we might have made demands as apostles of Christ.
-1TH.2:7 But we were gentle among you, just as anursing mother cherishes her own children.
+1TH.2:7 But we were gentle among you, just as a nursing mother cherishes her own children.
 1TH.2:8 So, affectionately longing for you, we were well pleased to impart to you not only the gospel of God, but also our own lives, because you had become dear to us.
-1TH.2:9 For you remember, brethren, our labor and toil; for laboring night and day, that we might not be aburden to any of you, we preached to you the gospel of God.
+1TH.2:9 For you remember, brethren, our labor and toil; for laboring night and day, that we might not be a burden to any of you, we preached to you the gospel of God.
 1TH.2:10 You are witnesses, and God also, how devoutly and justly and blamelessly we behaved ourselves among you who believe;
-1TH.2:11 as you know how we exhorted, and comforted, and charged aevery one of you, as afather does his own children,
+1TH.2:11 as you know how we exhorted, and comforted, and charged every one of you, as a father does his own children,
 
 ### Fruit of Paul's Work: They Endured Persecution
 
@@ -53,7 +53,7 @@ has_additions: false
 1TH.2:14 For you, brethren, became imitators of the churches of God which are in Judea in Christ Jesus. For you also suffered the same things from your own countrymen, just as they did from the Judeans,
 1TH.2:15 who killed both the Lord Jesus and their own prophets, and have persecuted us; and they do not please God and are contrary to all men,
 1TH.2:16 forbidding us to speak to the Gentiles that they may be saved, so as always to fill up the measure of their sins; but wrath has come upon them to the uttermost.
-1TH.2:17 But we, brethren, having been taken away from you for ashort time in presence, not in heart, endeavored more eagerly to see your face with great desire.
+1TH.2:17 But we, brethren, having been taken away from you for a short time in presence, not in heart, endeavored more eagerly to see your face with great desire.
 1TH.2:18 Therefore we wanted to come to you-even I, Paul, time and again-but Satan hindered us.
 1TH.2:19 For what is our hope, or joy, or crown of rejoicing? Is it not even you in the presence of our Lord Jesus Christ at His coming?
 1TH.2:20 For you are our glory and joy.
@@ -87,10 +87,10 @@ has_additions: false
 1TH.4:5 not in passion of lust, like the Gentiles who do not know God;
 1TH.4:6 that no one should take advantage of and defraud his brother in this matter, because the Lord is the avenger of all such, as we also forewarned you and testified.
 1TH.4:7 For God did not call us to uncleanness, but in holiness.
-1TH.4:8 Therefore he who rejects this does not reject man, but God, who has also given aus His Holy Spirit.
+1TH.4:8 Therefore he who rejects this does not reject man, but God, who has also given us His Holy Spirit.
 1TH.4:9 But concerning brotherly love you have no need that I should write to you, for you yourselves are taught by God to love one another;
 1TH.4:10 and indeed you do so toward all the brethren who are in all Macedonia. But we urge you, brethren, that you increase more and more;
-1TH.4:11 that you also aspire to lead aquiet life, to mind your own business, and to work with your own hands, as we commanded you,
+1TH.4:11 that you also aspire to lead a quiet life, to mind your own business, and to work with your own hands, as we commanded you,
 
 ### Who Will Participate in Christ's Return
 
@@ -98,7 +98,7 @@ has_additions: false
 1TH.4:13 But I do not want you to be ignorant, brethren, concerning those who have fallen asleep, lest you sorrow as others who have no hope.
 1TH.4:14 For if we believe that Jesus died and rose again, even so God will bring with Him those who sleep in Jesus.
 1TH.4:15 For this we say to you by the word of the Lord, that we who are alive and remain until the coming of the Lord will by no means precede those who are asleep.
-1TH.4:16 For the Lord Himself will descend from heaven with ashout, with the voice of an archangel, and with the trumpet of God. And the dead in Christ will rise first.
+1TH.4:16 For the Lord Himself will descend from heaven with a shout, with the voice of an archangel, and with the trumpet of God. And the dead in Christ will rise first.
 1TH.4:17 Then we who are alive and remain shall be caught up together with them in the clouds to meet the Lord in the air. And thus we shall always be with the Lord.
 
 ### How to Await His Coming
@@ -107,13 +107,13 @@ has_additions: false
 ## Chapter 5
 
 1TH.5:1 But concerning the times and the seasons, brethren, you have no need that I should write to you.
-1TH.5:2 For you yourselves know perfectly that the day of the Lord so comes as athief in the night.
-1TH.5:3 For when they say, 'Peace and safety!' then sudden destruction comes upon them, as labor pains upon apregnant woman. And they shall not escape.
-1TH.5:4 But you, brethren, are not in darkness, so that this Day should overtake you as athief.
+1TH.5:2 For you yourselves know perfectly that the day of the Lord so comes as a thief in the night.
+1TH.5:3 For when they say, 'Peace and safety!' then sudden destruction comes upon them, as labor pains upon a pregnant woman. And they shall not escape.
+1TH.5:4 But you, brethren, are not in darkness, so that this Day should overtake you as a thief.
 1TH.5:5 You are all sons of light and sons of the day. We are not of the night nor of darkness.
 1TH.5:6 Therefore let us not sleep, as others do, but let us watch and be sober.
 1TH.5:7 For those who sleep, sleep at night, and those who get drunk are drunk at night.
-1TH.5:8 But let us who are of the day be sober, putting on the breastplate of faith and love, and as ahelmet the hope of salvation.
+1TH.5:8 But let us who are of the day be sober, putting on the breastplate of faith and love, and as a helmet the hope of salvation.
 1TH.5:9 For God did not appoint us to wrath, but to obtain salvation through our Lord Jesus Christ,
 1TH.5:10 who died for us, that whether we wake or sleep, we should live together with Him.
 
@@ -137,6 +137,6 @@ has_additions: false
 1TH.5:23 Now may the God of peace Himself sanctify you completely; and may your whole spirit, soul, and body be preserved blameless at the coming of our Lord Jesus Christ.
 1TH.5:24 He who calls you is faithful, who also will do it.
 1TH.5:25 Brethren, pray for us.
-1TH.5:26 Greet all the brethren with aholy kiss.
-1TH.5:27 I charge you by the Lord that this epistle be read to all the holy abrethren.
+1TH.5:26 Greet all the brethren with a holy kiss.
+1TH.5:27 I charge you by the Lord that this epistle be read to all the holy brethren.
 1TH.5:28 The grace of our Lord Jesus Christ be with you. Amen.

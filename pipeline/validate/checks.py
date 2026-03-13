@@ -458,6 +458,12 @@ def check_split_words(
                 continue
             left = left_match.group(0)
             right = right_match.group(0)
+            if (
+                left == "s"
+                and left_match.start() > 0
+                and text_part[left_match.start() - 1] in {"'", "’"}
+            ):
+                continue
             joined = f"{left}{right}"
             if left in COMMON_FRAGMENT_WORDS or right in COMMON_FRAGMENT_WORDS:
                 continue

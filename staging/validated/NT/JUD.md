@@ -14,7 +14,7 @@ has_additions: false
 
 ## Chapter 1
 
-JUD.1:1 Jude, abondservant of Jesus Christ, and brother of James, To those who are called, sanctified a by God the Father, and preserved in Jesus Christ: †
+JUD.1:1 Jude, a bondservant of Jesus Christ, and brother of James, To those who are called, sanctified by God the Father, and preserved in Jesus Christ: †
 
 ### The Presence of False Teachers
 
@@ -23,18 +23,18 @@ JUD.1:3 Beloved, while I was very diligent to write to you concerning our common
 
 ### The Judgment of Such False Teachers
 
-JUD.1:4 For certain men have crept in unnoticed, who long ago were marked out for this condemnation, ungodly men, who turn the grace of our God into lewdness and deny the only Lord God aand our Lord Jesus Christ.
+JUD.1:4 For certain men have crept in unnoticed, who long ago were marked out for this condemnation, ungodly men, who turn the grace of our God into lewdness and deny the only Lord God and our Lord Jesus Christ.
 JUD.1:5 But I want to remind you, though you once knew this, that the Lord, having saved the people out of the land of Egypt, afterward destroyed those who did not believe.
 JUD.1:6 And the angels who did not keep their proper domain, but left their own abode, He has reserved in everlasting chains under darkness for the judgment of the great day;
 
 ### The Character of False Teachers
 
-JUD.1:7 as Sodom and Gomorrah, and the cities around them in asimilar manner to these, having given themselves over to sexual immorality and gone after strange flesh, are set forth as an example, suffering the vengeance of eternal fire.
+JUD.1:7 as Sodom and Gomorrah, and the cities around them in a similar manner to these, having given themselves over to sexual immorality and gone after strange flesh, are set forth as an example, suffering the vengeance of eternal fire.
 JUD.1:8 Likewise also these dreamers defile the flesh, reject authority, and speak evil of dignitaries.
-JUD.1:9 Yet Michael the archangel, in contending with the devil, when he disputed about the body of Moses, dared not bring against him areviling accusation, but said, 'The Lord rebuke you!'
+JUD.1:9 Yet Michael the archangel, in contending with the devil, when he disputed about the body of Moses, dared not bring against him a reviling accusation, but said, 'The Lord rebuke you!'
 JUD.1:10 But these speak evil of whatever they do not know; and whatever they know naturally, like brute beasts, in these things they corrupt themselves.
 JUD.1:11 Woe to them! For they have gone in the way of Cain, have run greedily in the error of Balaam for profit, and perished in the rebellion of Korah.
-JUD.1:12 These are spots in your love feasts, while they feast with you without fear, serving only themselves. They are clouds without water, carried about aby the winds; late autumn trees without fruit, twice dead, pulled up by the roots;
+JUD.1:12 These are spots in your love feasts, while they feast with you without fear, serving only themselves. They are clouds without water, carried about by the winds; late autumn trees without fruit, twice dead, pulled up by the roots;
 JUD.1:13 raging waves of the sea, foaming up their own shame; wandering stars for whom is reserved the blackness of darkness forever.
 JUD.1:14 Now Enoch, the seventh from Adam, prophesied about these men also, saying, 'Behold, the Lord comes with ten thousands of His saints,
 
@@ -50,7 +50,7 @@ JUD.1:21 keep yourselves in the love of God, looking for the mercy of our Lord J
 
 ### Doxology
 
-JUD.1:22 And on some have compassion, making adistinction; a
-JUD.1:23 but others save with fear, pulling them out of the fire, ahating even the garment defiled by the flesh.
-JUD.1:24 Now to Him who is able to keep you afrom stumbling, And to present you faultless Before the presence of His glory with exceeding joy,
-JUD.1:25 To God our Sav ior, a Who alone is wise, b Be glory and majesty, Dominion and power, c Both now and forever. Amen.
+JUD.1:22 And on some have compassion, making a distinction;
+JUD.1:23 but others save with fear, pulling them out of the fire, hating even the garment defiled by the flesh.
+JUD.1:24 Now to Him who is able to keep you from stumbling, And to present you faultless Before the presence of His glory with exceeding joy,
+JUD.1:25 To God our Savior, Who alone is wise, Be glory and majesty, Dominion and power, Both now and forever. Amen.

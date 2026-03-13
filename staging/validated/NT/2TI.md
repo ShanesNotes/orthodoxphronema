@@ -14,23 +14,23 @@ has_additions: false
 
 ## Chapter 1
 
-2TI.1:1 Paul, an apostle of Jesus Christ aby the will of God, according to the promise of life which is in Christ Jesus,
+2TI.1:1 Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
 
 ### Thanksgiving for Timothy
 
-2TI.1:2 To Timothy, abeloved son: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+2TI.1:2 To Timothy, a beloved son: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
 
 ### Timothy's Gift, the Power of God
 
-2TI.1:3 I thank God, whom I serve with apure conscience, as my forefathers did, as without ceasing I remember you in my prayers night and day,
+2TI.1:3 I thank God, whom I serve with a pure conscience, as my forefathers did, as without ceasing I remember you in my prayers night and day,
 2TI.1:4 greatly desiring to see you, being mindful of your tears, that I may be filled with joy,
 2TI.1:5 when I call to remembrance the genuine faith that is in you, which dwelt first in your grandmother Lois and your mother Eunice, and I am persuaded is in you also.
 2TI.1:6 Therefore I remind you to stir up the gift of God which is in you through the laying on of my hands.
-2TI.1:7 For God has not given us aspirit of fear, but of power and of love and of asound mind.
+2TI.1:7 For God has not given us a spirit of fear, but of power and of love and of a sound mind.
 2TI.1:8 Therefore do not be ashamed of the testimony of our Lord, nor of me His prisoner, but share with me in the sufferings for the gospel according to the power of God,
-2TI.1:9 who has saved us and called us with aholy calling, not according to our works, but according to His own purpose and grace which was given to us in Christ Jesus before time began,
+2TI.1:9 who has saved us and called us with a holy calling, not according to our works, but according to His own purpose and grace which was given to us in Christ Jesus before time began,
 2TI.1:10 but has now been revealed by the appearing of our Savior Jesus Christ, who has abolished death and brought life and immortality to light through the gospel,
-2TI.1:11 to which I was appointed apreacher, an apostle, and ateacher of the Gentiles.
+2TI.1:11 to which I was appointed a preacher, an apostle, and a teacher of the Gentiles.
 
 ### Fidelity in Spite of Desertions
 
@@ -43,7 +43,7 @@ has_additions: false
 
 ### Transmitting the Faith
 
-2TI.1:18 The Lord grant to him that he may find mercy from the Lord in that Day-and you know very well how many ways he ministered to me aat Ephesus.
+2TI.1:18 The Lord grant to him that he may find mercy from the Lord in that Day-and you know very well how many ways he ministered to me at Ephesus.
 ## Chapter 2
 
 2TI.2:1 You therefore, my son, be strong in the grace that is in Christ Jesus.
@@ -51,34 +51,34 @@ has_additions: false
 ### Strengthening Others: Discipline and Suffering
 
 2TI.2:2 And the things that you have heard from me among many witnesses, commit these to faithful men who will be able to teach others also.
-2TI.2:3 You therefore must endure ahardship as agood soldier of Jesus Christ.
-2TI.2:4 No one engaged in warfare entangles himself with the affairs of this life, that he may please him who enlisted him as asoldier.
+2TI.2:3 You therefore must endure a hardship as a good soldier of Jesus Christ.
+2TI.2:4 No one engaged in warfare entangles himself with the affairs of this life, that he may please him who enlisted him as a soldier.
 2TI.2:5 And also if anyone competes in athletics, he is not crowned unless he competes according to the rules.
 2TI.2:6 The hardworking farmer must be first to partake of the crops.
-2TI.2:7 Consider what I say, and may athe Lord give you understanding in all things.
+2TI.2:7 Consider what I say, and may the Lord give you understanding in all things.
 2TI.2:8 Remember that Jesus Christ, of the seed of David, was raised from the dead according to my gospel,
 2TI.2:9 for which I suffer trouble as an evildoer, even to the point of chains; but the word of God is not chained.
 2TI.2:10 Therefore I endure all things for the sake of the elect, that they also may obtain the salvation which is in Christ Jesus with eternal glory.
-2TI.2:11 For if we died with Him, We shall also livewith Him.
+2TI.2:11 For if we died with Him, We shall also live with Him.
 2TI.2:12 If we endure, We shall also reign with Him. If we deny Him, He also will deny us.
 
 ### Apostolic Teaching vs. Error
 
 2TI.2:13 He cannot deny Himself.
 2TI.2:14 Remind them of these things, charging them before the Lord not to strive about words to no profit, to the ruin of the hearers.
-2TI.2:15 Be diligent to present yourself approved to God, aworker who does not need to be ashamed, rightly dividing the word of truth.
+2TI.2:15 Be diligent to present yourself approved to God, a worker who does not need to be ashamed, rightly dividing the word of truth.
 2TI.2:16 But shun profane and idle babblings, for they will increase to more ungodliness.
 2TI.2:17 And their message will spread like cancer. Hymenaeus and Philetus are of this sort,
 2TI.2:18 who have strayed concerning the truth, saying that the resurrection is already past; and they overthrow the faith of some.
 
 ### Apostolic Conduct vs. Error
 
-2TI.2:19 Nevertheless the solid foundation of God stands, having this seal: 'The Lord knows those who are His,' and, 'Let everyone who names the name of Christ adepart from iniquity.'
-2TI.2:20 But in agreat house there are not only vessels of gold and silver, but also of wood and clay, some for honor and some for dishonor.
-2TI.2:21 Therefore if anyone cleanses himself from the latter, he will be avessel for honor, sanctified and useful for the Master, prepared for every good work.
-2TI.2:22 Flee also youthful lusts; but pursue righteousness, faith, love, peace with those who call on the Lord out of apure heart.
+2TI.2:19 Nevertheless the solid foundation of God stands, having this seal: 'The Lord knows those who are His,' and, 'Let everyone who names the name of Christ depart from iniquity.'
+2TI.2:20 But in a great house there are not only vessels of gold and silver, but also of wood and clay, some for honor and some for dishonor.
+2TI.2:21 Therefore if anyone cleanses himself from the latter, he will be a vessel for honor, sanctified and useful for the Master, prepared for every good work.
+2TI.2:22 Flee also youthful lusts; but pursue righteousness, faith, love, peace with those who call on the Lord out of a pure heart.
 2TI.2:23 But avoid foolish and ignorant disputes, knowing that they generate strife.
-2TI.2:24 And aservant of the Lord must not quarrel but be gentle to all, able to teach, patient,
+2TI.2:24 And a servant of the Lord must not quarrel but be gentle to all, able to teach, patient,
 2TI.2:25 in humility correcting those who are in opposition, if God perhaps will grant them repentance, so that they may know the truth,
 
 ### Moral Decline in the Last Days
@@ -90,7 +90,7 @@ has_additions: false
 2TI.3:2 For men will be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 2TI.3:3 unloving, unforgiving, slanderers, without self-control, brutal, despisers of good,
 2TI.3:4 traitors, headstrong, haughty, lovers of pleasure rather than lovers of God,
-2TI.3:5 having aform of godliness but denying its power. And from such people turn away!
+2TI.3:5 having a form of godliness but denying its power. And from such people turn away!
 2TI.3:6 For of this sort are those who creep into households and make captives of gullible women loaded down with sins, led away by various lusts,
 2TI.3:7 always learning and never able to come to the knowledge of the truth.
 2TI.3:8 Now as Jannes and Jambres resisted Moses, so do these also resist the truth: men of corrupt minds, disapproved concerning the faith;
@@ -119,7 +119,7 @@ has_additions: false
 ### Paul's Example
 
 2TI.4:5 But you be watchful in all things, endure afflictions, do the work of an evangelist, fulfill your ministry.
-2TI.4:6 For I am already being poured out as adrink offering, and the time of my departure is at hand.
+2TI.4:6 For I am already being poured out as a drink offering, and the time of my departure is at hand.
 2TI.4:7 I have fought the good fight, I have finished the race, I have kept the faith.
 
 ### Request to See Timothy

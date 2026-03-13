@@ -1,6 +1,6 @@
 # Ezra Ops Board
 
-Last updated: `2026-03-12`  
+Last updated: `2026-03-13`  
 Live state source: `reports/book_status_dashboard.json`
 
 ## Working Agreements
@@ -12,15 +12,15 @@ Live state source: `reports/book_status_dashboard.json`
 - Ezra operates as strategic lead: route first, code second, and absorb at most one high-leverage engineering lane when direct action is safer or faster than delegation.
 
 ## Current Snapshot
-- Promoted: `51`
+- Promoted: `64`
 - OT holdouts: `0`
-- Editorially clean books: `6`
-- Promotion-ready books: `4`
-- Extracting books: `15`
+- Editorially clean books: `0`
+- Promotion-ready books: `0`
+- Extracting books: `12`
 - NT extraction has landed: `27` NT books are staged per `memos/77_nt_extraction_results.md`
 - Shared `promote.py` / common-layer / `osb_extract.py` contract repair is complete; `pytest -q` is green at `327 passed`.
-- Dashboard was refreshed on `2026-03-12`; `2JN` and `3JN` are now promoted into `canon/NT/`, and `1TH`, `2TH`, `2TI`, and `1JN` are now `promotion_ready` by current gate logic.
-- Dossier freshness truth is now explicit: `70` dossiers are stale and `6` are fresh.
+- Dashboard was refreshed on `2026-03-13`; `2JN`, `3JN`, `1TH`, `2TH`, `2TI`, `1JN`, `JUD`, `PHM`, `TIT`, `2PE`, `1TI`, `JAS`, `EPH`, `2CO`, and `HEB` are now promoted into `canon/NT/`.
+- Dossier freshness truth is now explicit: `61` dossiers are stale and `15` are fresh.
 - OT canon lock audit now has `0` structural errors and `18` warning-bearing books in `reports/canon_ot_structural_audit.json`.
 - The only remaining non-`V7` OT canon warning is `EST` (`V4`/`V10` around `EST.4:6`).
 - Canon-wide note markers (`†`, `ω`) have been removed from OT canon.
@@ -34,11 +34,16 @@ Live state source: `reports/book_status_dashboard.json`
 | Future-layer seed (Genesis) | Ezra | done | `memos/105_genesis_future_layer_seed.md` | none | Route future-layer substrate work from Memo `105`; keep graph/vector work downstream of it | One live canonical slice proves pericope + R1 + embedding contracts without canon mutation |
 | Reference alias authority | Ezra | done | `memos/106_reference_alias_authority_and_normalization_seed.md` | none | Route biblical reference normalization through the schema-backed alias registry; keep patristic passage resolution as a later lane | Biblical aliases are versioned and patristic alias growth no longer requires extractor constant churn |
 | NT first canon promotion tranche (`2JN`, `3JN`) | Ezra | done | `memos/110_nt_first_canon_promotion_tranche_2jn_3jn.md` | none | Treat the first NT canon write as complete and re-rank the remaining NT queue from validator truth rather than dossier freshness alone | `2JN` and `3JN` exist in `canon/NT/` and their dossiers/dashboard agree on promoted state |
-| NT post-promotion reranking (`1TH`, `2TH`, `2TI`, `1JN`) | Ezra | done | `memos/111_nt_post_promotion_reranking_and_purity_gate.md` | none | Treat the second NT tranche as queued-but-not-yet-clean; route the next lane as purity rather than auto-promotion | Four NT books are now gate-ready by current promote logic |
+| NT post-promotion reranking (`1TH`, `2TH`, `2TI`, `1JN`) | Ezra | done | `memos/111_nt_post_promotion_reranking_and_purity_gate.md` | none | Treat the reranking lane as historical context behind the closed second NT tranche | Four NT books were identified as the next safe tranche candidate set |
 | NT warning reduction (`EPH`, `MAT`, `HEB`) | Ezra | done | `memos/109_nt_warning_reduction_eph_mat_heb.md` | none | Route the next NT lane away from the closed `EPH` / `HEB` warnings and treat `MAT` as the only residual from this batch | `EPH` and `HEB` validate cleanly and `MAT` is reduced to one `V8` warning |
 | NT candidate marker purity pass (`1TH`, `2TH`, `2TI`, `1JN`) | Ezra | done | `memos/112_nt_candidate_marker_purity_pass.md` | none | Treat marker/footnote linkage as closed for the second tranche candidate set | All four books now pass `verify_footnotes.py` cleanly |
-| NT candidate fused-word cleanup (`1TH`, `2TH`, `2TI`, `1JN`) | Ezra | active | `memos/112_nt_candidate_marker_purity_pass.md` | dry-run previews still show fused scripture residue such as `aafter`, `aliar`, and `apreacher` | Use the old per-book cleanup reports plus current dry-run previews to clear the next bounded purity blocker | The four fresh NT candidates are clean enough to promote, not just structurally valid and marker-clean |
-| Promotion dossier freshness sweep | Ezra | active | `reports/book_status_dashboard.json` | `70` stale dossiers still distort most of the corpus if read as fresh readiness evidence | Keep the dashboard authoritative and package a bounded regeneration plan separately | Dossier freshness debt is explicit and no board surface overstates readiness |
+| NT second canon promotion tranche (`1TH`, `2TH`, `2TI`, `1JN`) | Ark | done | `memos/113_nt_second_canon_promotion_tranche.md` | none | Treat the fused-word cleanup lane as closed and route the next NT lane from refreshed dashboard truth | `1TH`, `2TH`, `2TI`, and `1JN` exist in `canon/NT/` and their dossiers/dashboard agree on promoted state |
+| NT promotion packet (`JUD`, `PHM`) | Ark | done | `memos/114_nt_jud_phm_promotion_packet.md` | none | Treat the small-book promotion packet as complete and route the next NT cleanup lane from the remaining four staged books | `JUD` and `PHM` exist in `canon/NT/` and their dossiers/dashboard agree on promoted state |
+| NT Titus cleanup and promotion | Ark | done | `memos/115_nt_titus_cleanup_and_promotion.md` | none | Treat the TIT lane as closed and route the next NT packet from the final three staged books | `TIT` exists in `canon/NT/` and its dossier/dashboard agree on promoted state |
+| NT final editorial queue closeout (`2PE`, `1TI`, `JAS`) | Ark | done | `memos/116_nt_final_editorial_queue_closeout.md` | none | Treat the NT editorial queue as closed and reroute NT work away from promotion rescue | `2PE`, `1TI`, and `JAS` exist in `canon/NT/`, their dossiers are fresh, and the dashboard shows no remaining `editorially_clean` books |
+| NT extracting tranche A checkpoint (`EPH`, `GAL`, `PHP`) | Ark | active | `memos/117_nt_extracting_tranche_a_eph_promoted_gal_held.md` | `GAL` is blocked only by a detector false positive at `GAL.5:24`, while `PHP` is blocked by registry-versification drift rather than local scripture residue | Keep `EPH` closed, route `GAL` as a small policy/heuristic follow-up, and keep `PHP` out of the local cleanup lane | The tranche-A residuals are either promoted or explicitly reclassified away from scripture surgery |
+| NT extracting tranche B promotions and phase C holds (`2CO`, `HEB`) | Ark | done | `memos/118_nt_extracting_tranche_b_promotions_and_phase_c_holds.md` | none | Treat `2CO` and `HEB` as closed promotions and route `ROM`, `1CO`, `ACT`, and `REV` as broader holds rather than quick promote books | `2CO` and `HEB` exist in `canon/NT/`, their dossiers are fresh, and the remaining extracting queue is explicitly reclassified |
+| Promotion dossier freshness sweep | Ezra | active | `reports/book_status_dashboard.json` | `61` stale dossiers still distort most of the corpus if read as fresh readiness evidence | Keep the dashboard authoritative and package a bounded regeneration plan separately | Dossier freshness debt is explicit and no board surface overstates readiness |
 | OT canon lock follow-through | Ezra -> Human | active | `memos/91_ot_canon_lock_ratification_packet.md` | Human decision required for the `17`-book `V7` packet and `EST` disposition | Review Memo 91 and ratify or reject the packet | OT can be called `locked` or held with one explicit residual blocker |
 | Historical residual Packet A | Ezra -> Human | active | `memos/51_historical_residual_ratification_packet_a.md` | Still awaiting human decision | Keep `JDG`, `1SA`, and `2SA` isolated from OT closeout packets | Human sees no more than 3 open ratification asks at once |
 | Repo cleanup program | Ezra | active | `memos/85_long_horizon_repo_cleanup_program.md` | OT sprint left a large untracked helper/memo/variant tail | Triage the tail into `adopt`, `archive`, `consolidate`, and `delete_later` classes without destructive cleanup on the live branch | Long-horizon repo debt is explicit and no longer hidden in `git status` |
@@ -85,9 +90,27 @@ Live state source: `reports/book_status_dashboard.json`
   - active routing should no longer cite duplicate Memo `90`, `91`, or `94` identities
 - NT spot-audit findings:
   - `2JN` and `3JN` are now promoted into `canon/NT/`.
-  - `1TH`, `2TH`, `2TI`, and `1JN` are now `promotion_ready` by current gate logic after fresh dry-runs.
-  - `1TH`, `2TH`, `2TI`, and `1JN` now pass `verify_footnotes.py` cleanly after sidecar realignment.
-  - The remaining blocker on the second NT tranche is fused-word scripture residue, not marker linkage.
+  - `1TH`, `2TH`, `2TI`, and `1JN` are now promoted into `canon/NT/`.
+  - `JUD` and `PHM` are now promoted into `canon/NT/`.
+  - `TIT` is now promoted into `canon/NT/`.
+  - `2PE`, `1TI`, and `JAS` are now promoted into `canon/NT/`.
+  - `EPH` is now promoted into `canon/NT/`.
+  - `2CO` and `HEB` are now promoted into `canon/NT/`.
+  - `1TH`, `2TH`, `2TI`, and `1JN` pass `verify_footnotes.py` cleanly and now show `0` purity-audit candidates.
+  - `JUD` and `PHM` pass `verify_footnotes.py` cleanly and now show `0` purity-audit candidates.
+  - `TIT` now passes validation cleanly, passes `verify_footnotes.py`, and shows `0` purity-audit candidates after its local `3:15` closeout.
+  - `2PE`, `1TI`, and `JAS` now pass `verify_footnotes.py` cleanly and show `0` purity-audit candidates.
+  - `EPH` now passes validation cleanly, passes `verify_footnotes.py`, and shows `0` purity-audit candidates.
+  - `2CO` now passes validation cleanly, passes `verify_footnotes.py`, and shows `0` purity-audit candidates after the source-confirmed `2CO.13:14` closeout.
+  - `HEB` now passes validation cleanly, passes `verify_footnotes.py`, and shows `0` purity-audit candidates after the sidecar rebuild and residue sweep.
+  - `GAL` is locally cleaned and its footnotes align, but the current purity/V11 detectors still false-positive on `GAL.5:24` (`Christ’s have`).
+  - `PHP` is not a local text-repair book right now; its active `V7` warning is registry drift (`30/30/21/23` staged vs `30/23/25/17` in registry).
+  - `ROM` remains an extracting hold with a `V7` gap and invalid `ROM.16:25` footnote/marker anchor.
+  - `1CO` remains an extracting hold with a `V7` gap plus heavy purity and marker drift.
+  - `ACT` remains an extracting hold with accepted `V8` only structurally, but heavy purity and footnote-sidecar drift.
+  - `REV` remains an extracting hold with live `V12` inline verse-number leakage plus heavy purity and marker drift.
+  - The NT editorial queue is closed; remaining NT work should route to extraction or broader structural lanes, not more promotion rescue.
+  - The second NT tranche blocker chain is closed; the next NT lane should be reranked from current dashboard truth instead of the former fused-word packet.
   - `MAT` now passes structural validation and is down to one broad `V8` heading-density warning.
   - `HEB` now validates cleanly after heading consolidation.
   - `EPH` now validates cleanly after heading consolidation.
@@ -103,8 +126,8 @@ Live state source: `reports/book_status_dashboard.json`
 - OT promotion is complete, but OT canon is not yet formally locked; use Memo 91 as the active decision packet and Memo 89 as the checkpoint behind it.
 - `EST.4:6` is the only live non-`V7` OT canon blocker.
 - Human has one bounded OT lock decision packet open in Memo 91.
-- `70` stale dossiers mean readiness must be routed from the refreshed dashboard, not from older dossier assumptions.
-- The current NT promote gate is broader than purity readiness; the second NT tranche is now held by fused-word scripture residue even though the books are structurally valid and marker-clean.
+- `61` stale dossiers mean readiness must be routed from the refreshed dashboard, not from older dossier assumptions.
+- The current NT promote gate remains broader than purity readiness in general, but the former second-tranche fused-word blocker has been cleared and promoted.
 - `PSA` footnotes are stable, but Psalm marker linkage remains broken until `PSA_footnote_markers.json` is repaired.
 - Promoted OT staged files are not currently safe as a wholesale re-promotion base; canon lock and staged resync must be tracked separately.
 - The ops board must be reconciled whenever OT state changes; stale dispatch is itself an operational bug.
@@ -128,14 +151,14 @@ Live state source: `reports/book_status_dashboard.json`
 - **Research folder** fully cleaned and naming-convention-compliant as of 2026-03-11. Convention codified in `research/README.md`.
 
 ## Long-Horizon Queue
-- Promotion dossier freshness sweep for `70` stale books; `2JN` / `3JN` are already fresh and promoted, and the next four NT candidates are now fresh dry-run surfaces
+- Promotion dossier freshness sweep for `61` stale books; `2JN`, `3JN`, `1TH`, `2TH`, `2TI`, `1JN`, `JUD`, `PHM`, `TIT`, `2PE`, `1TI`, `JAS`, `EPH`, `2CO`, and `HEB` are already fresh and promoted
 - Promoted-canon freshness sweep after OT closeout, starting with `WIS`
 - Promoted-canon cleanup packet after OT closeout, starting with `JOS` and `JDG`
 - Helper-script consolidation and staged-variant retirement after current canon-hygiene packet
 - Historical residual packet (`JDG`, `1SA`, `2SA`) remains open but separate from the OT holdout lane
 - Phase 3 implementation: memo 86 → 87 → 88 integration (blocked on human ratification)
-- NT extraction is complete; the next NT lane should be re-ranked from fresh validator truth rather than stale readiness assumptions
-- NT companion extraction is complete; the immediate next NT lane is the fused-word cleanup pass on `1TH`, `2TH`, `2TI`, and `1JN`
+- NT extraction is complete; the next NT lane should route from the remaining extracting set and broader structural debt, not the former editorial queue
+- NT companion extraction is complete; the promotion-rescue queue is now closed
 
 ## Photius Handoff Outcomes
 - `accept` — evidence complete, scope allowed, verification clear

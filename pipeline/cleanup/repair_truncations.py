@@ -6,7 +6,7 @@ import re
 import subprocess
 from pathlib import Path
 from pipeline.common.pdf_source import extract_pdf_text, estimate_chapter_page_range
-from pipeline.common.paths import PDF_PATH
+from pipeline.common.paths import PDF_PATH, canon_filepath
 
 REPO_ROOT = Path(__file__).parent.parent.parent
 CANON_DIR = REPO_ROOT / "canon" / "OT"
@@ -97,5 +97,5 @@ def repair_book(file_path: Path):
 
 if __name__ == "__main__":
     # Test on 2CH and 1SA
-    repair_book(CANON_DIR / "2CH.md")
-    repair_book(CANON_DIR / "1SA.md")
+    repair_book(canon_filepath("OT", "2CH"))
+    repair_book(canon_filepath("OT", "1SA"))

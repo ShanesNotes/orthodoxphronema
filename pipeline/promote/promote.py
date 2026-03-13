@@ -56,6 +56,8 @@ REGISTRY     = REPO_ROOT / "schemas" / "anchor_registry.json"
 RESIDUAL_CLASSES = REPO_ROOT / "schemas" / "residual_classes.json"
 STAGING_ROOT = REPO_ROOT / "staging" / "validated"
 CANON_ROOT   = REPO_ROOT / "canon"
+
+from pipeline.common.paths import canon_filepath
 REPORTS_ROOT = REPO_ROOT / "reports"
 
 
@@ -209,7 +211,7 @@ def promote_book(book_code: str, dry_run: bool = False,
     testament = book_testament(registry, book_code)
 
     staged_path = STAGING_ROOT / testament / f"{book_code}.md"
-    canon_path  = CANON_ROOT / testament / f"{book_code}.md"
+    canon_path  = canon_filepath(testament, book_code)
     dossier_path = REPORTS_ROOT / f"{book_code}_promotion_dossier.json"
     residuals_path = STAGING_ROOT / testament / f"{book_code}_residuals.json"
     editorial_candidates_path = (

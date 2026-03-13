@@ -184,6 +184,12 @@ def scan_split_word_residue(filepath: Path) -> list[dict]:
                 continue
             left = left_match.group(0)
             right = right_match.group(0)
+            if (
+                left == "s"
+                and left_match.start() > 0
+                and text[left_match.start() - 1] in {"'", "’"}
+            ):
+                continue
             joined = f"{left}{right}"
             if joined not in KNOWN_SPLIT_JOIN_WORDS:
                 continue

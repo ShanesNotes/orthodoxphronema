@@ -9,6 +9,7 @@ REPO_ROOT = Path("/home/ark/orthodoxphronema")
 OT_DIR = REPO_ROOT / "staging" / "validated" / "OT"
 NT_DIR = REPO_ROOT / "staging" / "validated" / "NT"
 CANON_OT_DIR = REPO_ROOT / "canon" / "OT"
+from pipeline.common.paths import canon_filepath
 REPORT_PATH = REPO_ROOT / "reports" / "companion_file_census.json"
 MEMO_PATH = REPO_ROOT / "memos" / "93_companion_file_triage.md"
 TEMPLATE_PATH = REPO_ROOT / "memos" / "_template_work_memo.md"
@@ -39,7 +40,7 @@ def count_words(text):
 def check_anchor_exists(anchor, book_code, testament):
     # Check canon first if OT
     if testament == "OT":
-        canon_path = CANON_OT_DIR / f"{book_code}.md"
+        canon_path = canon_filepath("OT", book_code)
         if canon_path.exists():
             if anchor in canon_path.read_text(encoding="utf-8"):
                 return True

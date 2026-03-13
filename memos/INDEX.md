@@ -1,8 +1,8 @@
 # Memo Index — Orthodox Phronema Archive
 
-> **Last updated:** 2026-03-12
+> **Last updated:** 2026-03-13
 > **Role:** Memo governance overlay
-> **Covers:** `180` memo files
+> **Covers:** `188` memo files
 > **See also:** `PROJECT_BOARD.md` for PM state and `memos/ezra_ops_board.md` for live dispatch
 
 ---
@@ -53,6 +53,12 @@ These are the durable memos still shaping current work. Read them alongside `mem
 | `110_nt_first_canon_promotion_tranche_2jn_3jn.md` | First NT canon tranche promoted; `2JN` and `3JN` moved into `canon/NT/` and the queue must now be re-ranked from validator truth |
 | `111_nt_post_promotion_reranking_and_purity_gate.md` | Refreshed NT queue truth after the first canon tranche; four books are gate-ready, but the next safe lane is purity, not immediate promotion |
 | `112_nt_candidate_marker_purity_pass.md` | Closed marker/footnote linkage for the next NT tranche candidate set; the remaining blocker is fused-word scripture residue |
+| `113_nt_second_canon_promotion_tranche.md` | Closed the second NT canon tranche by cleaning fused-word residue in `1TH`, `2TH`, `2TI`, and `1JN`, then promoting all four books |
+| `114_nt_jud_phm_promotion_packet.md` | Closed the next small NT promotion packet by cleaning local residue in `JUD` and `PHM`, aligning footnote markers, and promoting both books |
+| `115_nt_titus_cleanup_and_promotion.md` | Closed `TIT` by repairing local residue, aligning footnote markers, resolving the staged `3:16` overcount against the OSB PDF, and promoting the book |
+| `116_nt_final_editorial_queue_closeout.md` | Closed the final NT editorial queue by repairing `2PE`, `1TI`, and `JAS`, aligning marker sidecars, and promoting all three books |
+| `117_nt_extracting_tranche_a_eph_promoted_gal_held.md` | Opened the remaining NT extracting set by promoting `EPH`, holding `GAL` on a detector false positive, and classifying `PHP` as registry drift rather than local scripture residue |
+| `118_nt_extracting_tranche_b_promotions_and_phase_c_holds.md` | Promoted `2CO` and `HEB`, then reclassified `ROM`, `1CO`, `ACT`, and `REV` as broader extracting holds rather than quick surgical promotes |
 | `105_genesis_future_layer_seed.md` | Metadata-first future-layer seed: enriched pericope substrate, narrow R1 extraction, and one derived embedding document |
 | `106_reference_alias_authority_and_normalization_seed.md` | Versioned alias authority for biblical references now and patristic entity normalization later |
 | `103_nt_footnote_stabilization_and_structural_audit.md` | Full NT companion extraction completion plus scripture-side drift packet for `JOH`, `LUK`, and `REV` |

@@ -1,9 +1,9 @@
 {
   "book_code": "2TI",
   "testament": "NT",
-  "timestamp": "2026-03-12T23:07:04.267141",
+  "timestamp": "2026-03-13T09:51:35.793350",
   "registry_version": "1.4.0",
-  "body_checksum": "5e601f7061b463bc28d6f42949ac53ce8ac24f9dedb07dc97977381920537845",
+  "body_checksum": "bc03de935ce6b11cfbafc5da39a8b8e3147817ab029e4250b5ddf6abbf07f188",
   "allow_incomplete": false,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/2TI.md",
   "residuals_path": null,
@@ -61,5 +61,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "promoted"
 }

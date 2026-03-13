@@ -1,10 +1,18 @@
 {
   "book_code": "REV",
   "testament": "NT",
-  "timestamp": "2026-03-11T16:39:43.878254",
-  "registry_version": "1.3.0",
-  "body_checksum": "9eaac9a21fdc6df0d0040cea88e3cbeb192b2cd3416e1cc08f9fa8dabed3489a",
+  "timestamp": "2026-03-13T12:52:31.976582",
+  "registry_version": "1.4.0",
+  "body_checksum": "05215a9834837ebb435732da75b1910e9375423897936d1d3d418459819259de",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/REV.md",
+  "residuals_path": null,
+  "editorial_candidates_path": null,
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
@@ -18,78 +26,38 @@
       "messages": []
     },
     "V4": {
-      "status": "FAIL",
-      "messages": [
-        "V4   Verse goes backward in ch.17 at line 469: verse 17 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 470: verse 3 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 471: verse 4 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 475: verse 5 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 479: verse 6 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 480: verse 7 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 481: verse 8 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 482: verse 9 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 483: verse 10 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 484: verse 11 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 485: verse 12 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 486: verse 13 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 487: verse 14 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 488: verse 15 after verse 21",
-        "V4   Verse goes backward in ch.17 at line 492: verse 16 after verse 21",
-        "V4   Verse goes backward in ch.22 at line 624: verse 22 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 625: verse 2 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 626: verse 3 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 627: verse 4 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 631: verse 5 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 632: verse 6 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 633: verse 7 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 637: verse 8 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 638: verse 9 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 639: verse 10 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 640: verse 11 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 641: verse 12 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 642: verse 13 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 643: verse 14 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 644: verse 15 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 645: verse 16 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 646: verse 17 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 647: verse 18 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 648: verse 19 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 649: verse 20 after verse 27",
-        "V4   Verse goes backward in ch.22 at line 650: verse 21 after verse 27",
-        "V4   Missing verses in ch.14: jumps from 6 to 8",
-        "V4   Missing verses in ch.17: jumps from 1 to 18",
-        "V4   Missing verses in ch.18: jumps from 9 to 11",
-        "V4   Missing verses in ch.19: jumps from 17 to 19",
-        "V4   Missing verses in ch.22: jumps from 1 to 23"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
-    "V6": {
+    "V7": {
       "status": "PASS",
       "messages": []
-    },
-    "V7": {
-      "status": "WARN",
-      "messages": [
-        "V7   Completeness: 397/404 verses (98.3%); gap of 7"
-      ]
     },
     "V8": {
       "status": "PASS",
       "messages": []
     },
     "V9": {
-      "status": "FAIL",
-      "messages": [
-        "V9   Embedded verse REV.14:7 found inside REV.14:6 at line 387",
-        "V9   Embedded verse REV.17:17 found inside REV.17:1 at line 461",
-        "V9   Embedded verse REV.22:22 found inside REV.22:1 at line 615"
-      ]
+      "status": "PASS",
+      "messages": []
+    },
+    "V10": {
+      "status": "SKIP",
+      "messages": []
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
+      "status": "PASS",
+      "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "blocked"
+  "decision": "promoted"
 }

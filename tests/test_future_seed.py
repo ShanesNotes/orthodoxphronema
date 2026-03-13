@@ -123,7 +123,7 @@ def test_build_seed_generates_stable_genesis_outputs(tmp_path):
     assert any(note["anchor"] == "GEN.2:18" for note in seed["footnotes"])
     assert "JOH.20:22" in seed["cross_ref_candidates"]
     assert seed["embedding_status"] == "footnotes_ready"
-    assert seed["provenance"]["canon_source"] == "canon/OT/GEN.md"
+    assert seed["provenance"]["canon_source"] == "canon/OT/01_GEN.md"
     assert seed["provenance"]["anchor_range"] == ["GEN.2:7", "GEN.2:24"]
 
     first_snapshot = {

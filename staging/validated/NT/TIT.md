@@ -14,24 +14,24 @@ has_additions: false
 
 ## Chapter 1
 
-TIT.1:1 Paul, abondservant of God and an apostle of Jesus Christ, according to the faith of God's elect and the acknowledgment of the truth which accords with godliness,
+TIT.1:1 Paul, a bondservant of God and an apostle of Jesus Christ, according to the faith of God's elect and the acknowledgment of the truth which accords with godliness,
 TIT.1:2 in hope of eternal life which God, who cannot lie, promised before time began,
 TIT.1:3 but has in due time manifested His word through preaching, which was committed to me according to the commandment of God our Savior;
 
 ### Ordination of Sound Elders
 
-TIT.1:4 To Titus, atrue son in our common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ a our Savior.
+TIT.1:4 To Titus, a true son in our common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.
 TIT.1:5 For this reason I left you in Crete, that you should set in order the things that are lacking, and appoint elders in every city as I commanded you-
-TIT.1:6 if aman is blameless, the husband of one wife, having faithful children not accused of dissipation or insubordination.
-TIT.1:7 For abishop amust be blameless, as asteward of God, not self-willed, not quick-tempered, not given to wine, not violent, not greedy for money,
+TIT.1:6 if a man is blameless, the husband of one wife, having faithful children not accused of dissipation or insubordination.
+TIT.1:7 For a bishop must be blameless, as a steward of God, not self-willed, not quick-tempered, not given to wine, not violent, not greedy for money,
 
 ### Opposition to False Teachers
 
-TIT.1:8 but hospitable, alover of what is good, sober-minded, just, holy, self-controlled,
+TIT.1:8 but hospitable, a lover of what is good, sober-minded, just, holy, self-controlled,
 TIT.1:9 holding fast the faithful word as he has been taught, that he may be able, by sound doctrine, both to exhort and convict those who contradict.
 TIT.1:10 For there are many insubordinate, both idle talkers and deceivers, especially those of the circumcision,
 TIT.1:11 whose mouths must be stopped, who subvert whole households, teaching things which they ought not, for the sake of dishonest gain.
-TIT.1:12 One of them, aprophet of their own, said, 'Cretans are always liars, evil beasts, lazy gluttons.'
+TIT.1:12 One of them, a prophet of their own, said, 'Cretans are always liars, evil beasts, lazy gluttons.'
 TIT.1:13 This testimony is true. Therefore rebuke them sharply, that they may be sound in the faith,
 TIT.1:14 not giving heed to Jewish fables and commandments of men who turn from the truth.
 TIT.1:15 To the pure all things are pure, but to those who are defiled and unbelieving nothing is pure; but even their mind and conscience are defiled.
@@ -47,8 +47,8 @@ TIT.2:3 the older women likewise, that they be reverent in behavior, not slander
 TIT.2:4 that they admonish the young women to love their husbands, to love their children,
 TIT.2:5 to be discreet, chaste, homemakers, good, obedient to their own husbands, that the word of God may not be blasphemed.
 TIT.2:6 Likewise, exhort the young men to be sober-minded,
-TIT.2:7 in all things showing yourself to be apattern of good works; in doctrine showing integrity, reverence, incorruptibility, a
-TIT.2:8 sound speech that cannot be condemned, that one who is an opponent may be ashamed, having nothing evil to say of you. a
+TIT.2:7 in all things showing yourself to be a pattern of good works; in doctrine showing integrity, reverence, incorruptibility,
+TIT.2:8 sound speech that cannot be condemned, that one who is an opponent may be ashamed, having nothing evil to say of you.
 
 ### Proper Behavior Supports Sound Doctrine
 
@@ -77,15 +77,14 @@ TIT.3:7 that having been justified by His grace we should become heirs according
 
 ### Heretical and Schismatic Members
 
-TIT.3:8 This is afaithful saying, and these things I want you to affirm constantly, that those who have believed in God should be careful to maintain good works. These things are good and profitable to men.
+TIT.3:8 This is a faithful saying, and these things I want you to affirm constantly, that those who have believed in God should be careful to maintain good works. These things are good and profitable to men.
 TIT.3:9 But avoid foolish disputes, genealogies, contentions, and strivings about the law; for they are unprofitable and useless.
 
 ### Conclusion
 
-TIT.3:10 Reject adivisive man after the first and second admonition,
-TIT.3:11 knowing that such aperson is warped and sinning, being self-condemned.
+TIT.3:10 Reject a divisive man after the first and second admonition,
+TIT.3:11 knowing that such a person is warped and sinning, being self-condemned.
 TIT.3:12 When I send Artemas to you, or Tychicus, be diligent to come to me at Nicopolis, for I have decided to spend the winter there.
 TIT.3:13 Send Zenas the lawyer and Apollos on their journey with haste, that they may lack nothing.
 TIT.3:14 And let our people also learn to maintain good works, to meet urgent needs, that they may not be unfruitful.
-TIT.3:15 All who are with me greet you. Greet those who love us in the faith.
-TIT.3:16 Grace be with you all. Amen.
+TIT.3:15 All who are with me greet you. Greet those who love us in the faith. Grace be with you all. Amen.
