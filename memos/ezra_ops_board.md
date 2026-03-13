@@ -33,7 +33,7 @@ Live state source: `reports/book_status_dashboard.json`
 | Shared contract repair + state refresh | Ezra | done | `memos/98_contract_repair_and_state_refresh.md` | none | Route shared infra truth from Memo `98` plus evidence Memos `99` and `100` | Tests, dashboard, ops board, project board, and memo index agree |
 | Future-layer seed (Genesis) | Ezra | done | `memos/105_genesis_future_layer_seed.md` | none | Route future-layer substrate work from Memo `105`; keep graph/vector work downstream of it | One live canonical slice proves pericope + R1 + embedding contracts without canon mutation |
 | Reference alias authority | Ezra | done | `memos/106_reference_alias_authority_and_normalization_seed.md` | none | Route biblical reference normalization through the schema-backed alias registry; keep patristic passage resolution as a later lane | Biblical aliases are versioned and patristic alias growth no longer requires extractor constant churn |
-| NT scripture purity repair | Ezra | done | `memos/108_nt_purity_patch_and_psa_marker_triage.md` | none | Route the next NT lane away from the repaired `JOH` / `LUK` / `REV` blockers and back to the wider warning set (`EPH`, `MAT`, `HEB`) | The local companion-breaking defects in `JOH`, `LUK`, and `REV` are closed |
+| NT warning reduction (`EPH`, `MAT`, `HEB`) | Ezra | done | `memos/109_nt_warning_reduction_eph_mat_heb.md` | none | Route the next NT lane away from the closed `EPH` / `HEB` warnings and treat `MAT` as the only residual from this batch | `EPH` and `HEB` validate cleanly and `MAT` is reduced to one `V8` warning |
 | Promotion dossier freshness sweep | Ezra | active | `reports/book_status_dashboard.json` | `74` stale dossiers distort live queue truth if read as fresh readiness evidence | Keep the dashboard authoritative and package a bounded regeneration plan separately | Dossier freshness debt is explicit and no board surface overstates readiness |
 | OT canon lock follow-through | Ezra -> Human | active | `memos/91_ot_canon_lock_ratification_packet.md` | Human decision required for the `17`-book `V7` packet and `EST` disposition | Review Memo 91 and ratify or reject the packet | OT can be called `locked` or held with one explicit residual blocker |
 | Historical residual Packet A | Ezra -> Human | active | `memos/51_historical_residual_ratification_packet_a.md` | Still awaiting human decision | Keep `JDG`, `1SA`, and `2SA` isolated from OT closeout packets | Human sees no more than 3 open ratification asks at once |
@@ -81,9 +81,9 @@ Live state source: `reports/book_status_dashboard.json`
   - active routing should no longer cite duplicate Memo `90`, `91`, or `94` identities
 - NT spot-audit findings:
   - `2JN` and `3JN` are the only current NT `promotion_ready` books after the dashboard freshness refresh.
-  - `MAT` still has chapter-zero drift, chapter-count mismatch (`28` expected / `29` found), heavy `V3`, and embedded-verse failures.
-  - `HEB` still has duplicate anchors, embedded verses, and `44` missing verses.
-  - `EPH` remains the sharpest stabilization priority with chapter-zero drift, duplicate anchors, and a `50`-verse completeness gap.
+  - `MAT` now passes structural validation and is down to one broad `V8` heading-density warning.
+  - `HEB` now validates cleanly after heading consolidation.
+  - `EPH` now validates cleanly after heading consolidation.
 - Ark stays on NT stabilization by default; OT should only interrupt for parser/schema escalations or a ready promotion checkpoint.
 - Companion-layer dispatch has shifted from reset to post-extraction purity:
   - all `27` NT `*_footnotes.md` files are now source-derived from OSB footnote page ranges
@@ -127,7 +127,7 @@ Live state source: `reports/book_status_dashboard.json`
 - Historical residual packet (`JDG`, `1SA`, `2SA`) remains open but separate from the OT holdout lane
 - Phase 3 implementation: memo 86 → 87 → 88 integration (blocked on human ratification)
 - NT extraction is active under Ark
-- NT companion extraction is complete; the next NT lane is wider warning reduction in `EPH`, `MAT`, and `HEB`
+- NT companion extraction is complete; the next NT lane should be re-ranked from fresh validator truth rather than the older `EPH` / `MAT` / `HEB` packet
 
 ## Photius Handoff Outcomes
 - `accept` — evidence complete, scope allowed, verification clear

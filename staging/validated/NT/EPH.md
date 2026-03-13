@@ -15,15 +15,11 @@ has_additions: false
 ## Chapter 1
 
 
-### Greeting
-
 EPH.1:1 Paul, an apostle of Jesus Christ by the will of God, To the saints who are in Ephesus, and faithful in Christ Jesus: †
-
-### The Sovereignty of the Father
 
 EPH.1:2 Grace to you and peace from God our Father and the Lord Jesus Christ.
 
-### The Administration of the Son
+### The Work of the Father, Son, and Spirit
 
 EPH.1:3 Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,
 EPH.1:4 just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love,
@@ -34,8 +30,6 @@ EPH.1:8 which He made to abound toward us in all wisdom and prudence,
 EPH.1:9 having made known to us the mystery of His will, according to His good pleasure which He purposed in Himself,
 EPH.1:10 that in the dispensation of the fullness of the times He might gather together in one all things in Christ, both awhich are in heaven and which are on earth-in Him.
 EPH.1:11 In Him also we have obtained an inheritance, being predestined according to the purpose of Him who works all things according to the counsel of His will,
-
-### The Faithfulness of the Spirit
 
 EPH.1:12 that we who first trusted in Christ should be to the praise of His glory.
 
@@ -111,8 +105,6 @@ EPH.3:12 in whom we have boldness and access with confidence through faith in Hi
 
 EPH.3:13 Therefore I ask that you do not lose heart at my tribulations for you, which is your glory.
 
-### Doxology to the Father
-
 EPH.3:14 For this reason I bow my knees to the Father of our Lord Jesus Christ, a
 EPH.3:15 from whom the whole family in heaven and earth is named,
 EPH.3:16 that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man,
@@ -168,15 +160,13 @@ EPH.4:32 And be kind to one another, tenderhearted, forgiving one another, even 
 
 EPH.5:1 Therefore be imitators of God as dear children.
 
-### Separate from Darkness
+### Walk as Children of Light
 
 EPH.5:2 And walk in love, as Christ also has loved us and given Himself for us, an offering and asacrifice to God for asweet-smelling aroma.
 EPH.5:3 But fornication and all uncleanness or covetousness, let it not even be named among you, as is fitting for saints;
 EPH.5:4 neither filthiness, nor foolish talking, nor coarse jesting, which are not fitting, but rather giving of thanks.
 EPH.5:5 For this you know, athat no fornicator, unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and God.
 EPH.5:6 Let no one deceive you with empty words, for because of these things the wrath of God comes upon the sons of disobedience.
-
-### Walk in Christ the Light
 
 EPH.5:7 Therefore do not be partakers with them.
 EPH.5:8 For you were once darkness, but now you are light in the Lord. Walk as children of light
@@ -185,8 +175,6 @@ EPH.5:10 finding out what is acceptable to the Lord.
 EPH.5:11 And have no fellowship with the unfruitful works of darkness, but rather expose them.
 EPH.5:12 For it is shameful even to speak of those things which are done by them in secret.
 EPH.5:13 But all things that are exposed are made manifest by the light, for whatever makes manifest is light.
-
-### Walk in God's Will
 
 EPH.5:14 Therefore He says: Arise from the dead, And Christ will give y ou light.'
 
@@ -237,11 +225,7 @@ EPH.6:9 And you, masters, do the same things to them, giving up threatening, kno
 EPH.6:10 Finally, my brethren, be strong in the Lord and in the power of His might.
 EPH.6:11 Put on the whole armor of God, that you may be able to stand against the wiles of the devil.
 
-### Spiritual Weaponry
-
 EPH.6:12 For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, aagainst spiritual hosts of wickedness in the heavenly places.
-
-### Spiritual Readiness
 
 EPH.6:13 Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand.
 EPH.6:14 Stand therefore, having girded your waist with truth, having put on the breastplate of righteousness,

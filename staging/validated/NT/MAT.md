@@ -82,7 +82,7 @@ MAT.2:22 But when he heard that Archelaus was reigning over Judea instead of his
 ### John the Baptist's Call to Repentance
 
 MAT.2:23 And he came and dwelt in acity called Nazareth, that it might be fulfilled which was spoken by the prophets, 'He shall be called a Nazarene.'
-MAT.2:24 (Mk 1:1-8; Lk 3:1-18; Jn 1:19-28)
+(Mk 1:1-8; Lk 3:1-18; Jn 1:19-28)
 ## Chapter 3
 
 MAT.3:1 In those days John the Baptist came preaching in the wilderness of Judea,
@@ -108,7 +108,7 @@ MAT.3:16 When He had been baptized, Jesus came up immediately from the water; an
 ### Jesus' Triumph over Satan
 
 MAT.3:17 And suddenly avoice came from heaven, saying, 'This is My beloved Son, in whom I am well pleased.'
-MAT.3:18 (Mk 1:12, 13; Lk 4:1-13)
+(Mk 1:12, 13; Lk 4:1-13)
 ## Chapter 4
 
 MAT.4:1 Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.
@@ -145,7 +145,7 @@ MAT.4:24 Then His fame went throughout all Syria; and they brought to Him all si
 ### The Beatitudes: The Blessings of True Discipleship
 
 MAT.4:25 Great multitudes followed Him-from Galilee, and from Decapolis, Jerusalem, Judea, and beyond the Jordan.
-MAT.4:26 (Lk 6:20-49)
+(Lk 6:20-49)
 ## Chapter 5
 
 MAT.5:1 And seeing the multitudes, He went up on amountain, and when He was seated His disciples came to Him.
@@ -256,7 +256,7 @@ MAT.6:33 But seek first the kingdom of God and His righteousness, and all these 
 ### On Judging Others
 
 MAT.6:34 Therefore do not worry about tomorrow, for tomorrow will worry about its own things. Sufficient for the day is its own trouble.
-MAT.6:35 (Lk 6:37, 38, 41, 42)
+(Lk 6:37, 38, 41, 42)
 ## Chapter 7
 
 MAT.7:1 Judge not, that you be not judged.
@@ -415,7 +415,7 @@ MAT.9:37 Then He said to His disciples, 'The harvest truly is plentiful, but the
 ### The Twelve Chosen
 
 MAT.9:38 Therefore pray the Lord of the harvest to send out laborers into His harvest.'
-MAT.9:39 (Mk 3:13-19; Lk 6:12-16)
+(Mk 3:13-19; Lk 6:12-16)
 ## Chapter 10
 
 MAT.10:1 And when He had called His twelve disciples to Him, He gave them power over unclean spirits, to cast them out, and to heal all kinds of sickness and all kinds of disease.
@@ -472,7 +472,7 @@ MAT.10:41 He who receives aprophet in the name of aprophet shall receive aprophe
 ### The Baptist's Question to Jesus
 
 MAT.10:42 And whoever gives one of these little ones only acup of cold water in the name of adisciple, assuredly, I say to you, he shall by no means lose his reward.'
-MAT.10:43 (Lk 7:18-23)
+(Lk 7:18-23)
 ## Chapter 11
 
 MAT.11:1 Now it came to pass, when Jesus finished commanding His twelve disciples, that He departed from there to teach and to preach in their cities.
@@ -517,7 +517,7 @@ MAT.11:29 Take My yoke upon you and learn from Me, for I am gentle and lowly in 
 ### The Pharisees' Hostility
 
 MAT.11:30 For My yoke is easy and My burden is light.'
-MAT.11:31 (Mk 2:23-3:6; Lk 6:1-11)
+(Mk 2:23-3:6; Lk 6:1-11)
 ## Chapter 12
 
 MAT.12:1 At that time Jesus went through the grainfields on the Sabbath. And His disciples were hungry, and began to pluck heads of grain and to eat.
@@ -585,7 +585,7 @@ MAT.12:49 And He stretched out His hand toward His disciples and said, 'Here are
 ### The Parable of the Sower
 
 MAT.12:50 For whoever does the will of My Father in heaven is My brother and sister and mother.'
-MAT.12:51 (Mk 4:1-9; Lk 8:4-8)
+(Mk 4:1-9; Lk 8:4-8)
 ## Chapter 13
 
 MAT.13:1 In the same day Jesus went out of the house and sat by the sea.
@@ -673,7 +673,7 @@ MAT.13:57 So they were offended at Him.
 ### Herod's Fears
 
 MAT.13:58 But Jesus said to them, 'A prophet is not without honor except in his own country and in his own house.' Now He did not do many mighty works there because of their unbelief.
-MAT.13:59 (Mk 6:14-29; Lk 3:19, 20; 9:7-9)
+(Mk 6:14-29; Lk 3:19, 20; 9:7-9)
 ## Chapter 14
 
 MAT.14:1 At that time Herod the tetrarch heard the report about Jesus
@@ -819,7 +819,7 @@ MAT.16:27 For the Son of Man will come in the glory of His Father with His angel
 ### The Transfiguration
 
 MAT.16:28 Assuredly, I say to you, there are some standing here who shall not taste death till they see the Son of Man coming in His kingdom.'
-MAT.16:29 (Mk 9:2-13; Lk 9:28-36)
+(Mk 9:2-13; Lk 9:28-36)
 ## Chapter 17
 
 MAT.17:1 Now after six days Jesus took Peter, James, and John his brother, led them up on ahigh mountain by themselves;
@@ -1002,7 +1002,7 @@ MAT.20:33 They said to Him, 'Lord, that our eyes may be opened.'
 ### Palm Sunday: The Messianic King
 
 MAT.20:34 So Jesus had compassion and touched their eyes. And immediately their eyes received sight, and they followed Him.
-MAT.20:35 (Mk 11:1-10; Lk 19:28-44; Jn 12:12-19)
+(Mk 11:1-10; Lk 19:28-44; Jn 12:12-19)
 ## Chapter 21
 
 MAT.21:1 Now when they drew near Jerusalem, and came to Bethphage, aat the Mount of Olives, then Jesus sent two disciples,
@@ -1066,7 +1066,7 @@ MAT.21:45 Now when the chief priests and Pharisees heard His parables, they perc
 ### Who Enters into the Kingdom?
 
 MAT.21:46 But when they sought to lay hands on Him, they feared the multitudes, because they took Him for aprophet.
-MAT.21:47 (Lk 14:15-24)
+(Lk 14:15-24)
 ## Chapter 22
 
 MAT.22:1 And Jesus answered and spoke to them again by parables and said:
@@ -1127,7 +1127,7 @@ MAT.22:45 If David then calls Him 'Lord,' how is He his Son?'
 ### Abuses of Authority
 
 MAT.22:46 And no one was able to answer Him aword, nor from that day on did anyone dare question Him anymore.
-MAT.22:47 (Mk 12:38, 39; Lk 20:45, 46)
+(Mk 12:38, 39; Lk 20:45, 46)
 ## Chapter 23
 
 MAT.23:1 Then Jesus spoke to the multitudes and to His disciples,
@@ -1303,7 +1303,7 @@ MAT.25:45 Then He will answer them, saying, 'Assuredly, I say to you, inasmuch a
 ### Wednesday: The Sanhedrin's Conspiracy
 
 MAT.25:46 And these will go away into everlasting punishment, but the righteous into eternal life.'
-MAT.25:47 (Mk 14:1, 2; Lk 22:1, 2)
+(Mk 14:1, 2; Lk 22:1, 2)
 ## Chapter 26
 
 MAT.26:1 Now it came to pass, when Jesus had finished all these sayings, that He said to His disciples,
@@ -1399,7 +1399,7 @@ MAT.26:74 Then he began to curse and swear, saying, 'I do not know the Man!'
 ### Friday: The Sanhedrin Delivers Jesus to Pilate
 
 MAT.26:75 Immediately arooster crowed. And Peter remembered the word of Jesus who had said to him, 'Before the rooster crows, you will deny Me three times.' So he went out and wept bitterly.
-MAT.26:76 (Mk 15:1; Lk 22:66-23:1)
+(Mk 15:1; Lk 22:66-23:1)
 ## Chapter 27
 
 MAT.27:1 When morning came, all the chief priests and elders of the people plotted against Jesus to put Him to death.
@@ -1477,8 +1477,9 @@ MAT.27:54 So when the centurion and those with him, who were guarding Jesus, saw
 
 ### The Burial of Jesus
 
-MAT.27:55 And many women who followed Jesus from Galilee, ministering to Him, were there looking on from afar, 56 among whom were Mary Magdalene, Mary the mother of James and Joses, aand the mother of Zebedee's sons.
-MAT.27:56 (Mk 15:42-46; Lk 23:50-56; Jn 19:38-42)
+MAT.27:55 And many women who followed Jesus from Galilee, ministering to Him, were there looking on from afar,
+MAT.27:56 among whom were Mary Magdalene, Mary the mother of James and Joses, aand the mother of Zebedee's sons.
+(Mk 15:42-46; Lk 23:50-56; Jn 19:38-42)
 MAT.27:57 Now when evening had come, there came arich man from Arimathea, named Joseph, who himself had also become adisciple of Jesus.
 MAT.27:58 This man went to Pilate and asked for the body of Jesus. Then Pilate commanded the body to be given to him.
 MAT.27:59 When Joseph had taken the body, he wrapped it in aclean linen cloth,
@@ -1495,7 +1496,7 @@ MAT.27:65 Pilate said to them, 'You have aguard; go your way, make it as secure 
 ### Sunday: Christ Is Risen
 
 MAT.27:66 So they went and made the tomb secure, sealing the stone and setting the guard.
-MAT.27:67 (Mk 16:1-8; Lk 24:1-12; Jn 20:1-10)
+(Mk 16:1-8; Lk 24:1-12; Jn 20:1-10)
 ## Chapter 28
 
 MAT.28:1 Now after the Sabbath, as the first day of the week began to dawn, Mary Magdalene and the other Mary came to see the tomb.

@@ -49,6 +49,7 @@ These are the durable memos still shaping current work. Read them alongside `mem
 | `98_contract_repair_and_state_refresh.md` | Shared contract repair closeout, dashboard refresh, and stale-dossier truth reset |
 | `107_end_of_day_freeze_and_repo_cleanup.md` | End-of-day freeze packaging, governance refresh, and helper-tail cleanup before the next scripture-purity lane |
 | `108_nt_purity_patch_and_psa_marker_triage.md` | Repaired the local NT blockers in `JOH`, `LUK`, and `REV`; triaged Psalm markers as a separate systemic lane |
+| `109_nt_warning_reduction_eph_mat_heb.md` | Closed `EPH` and `HEB` warning lanes and reduced `MAT` to one residual heading-density warning |
 | `105_genesis_future_layer_seed.md` | Metadata-first future-layer seed: enriched pericope substrate, narrow R1 extraction, and one derived embedding document |
 | `106_reference_alias_authority_and_normalization_seed.md` | Versioned alias authority for biblical references now and patristic entity normalization later |
 | `103_nt_footnote_stabilization_and_structural_audit.md` | Full NT companion extraction completion plus scripture-side drift packet for `JOH`, `LUK`, and `REV` |

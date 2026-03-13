@@ -173,8 +173,6 @@ HEB.6:20 where the forerunner has entered for us, even Jesus, having become High
 
 HEB.7:1 For this Melchizedek, king of Salem, priest of the Most High God, who met Abraham returning from the slaughter of the kings and blessed him,
 
-### The Rules of the Priestly Orders
-
 HEB.7:2 to whom also Abraham gave atenth part of all, first being translated 'king of righteousness,' and then also king of Salem, meaning 'king of peace,'
 HEB.7:3 without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God, remains apriest continually.
 HEB.7:4 Now consider how great this man was, to whom even the patriarch Abraham gave atenth of the spoils.
