@@ -32,26 +32,27 @@ These memos define active policy, protocol, or default workflow. When they confl
 | Memo | Ask |
 |---|---|
 | `51_historical_residual_ratification_packet_a.md` | `JDG`, `1SA`, `2SA` historical residuals |
+| `88_phase3_ratified_spec.md` | Ratify the proposed governing Phase 3 document |
 | `91_ot_canon_lock_ratification_packet.md` | 17 V7-only books + `EST` disposition |
 
-## Phase 3 Design
+## Phase 3 Design And Execution
 
 | Memo | Scope |
 |---|---|
 | `67_phase3_schema_design.md` | Phase 3 schema draft |
 | `86_anchor_extraction_pipeline_research_synthesis.md` | R1 extraction pipeline (Cowork tasks) |
 | `87_duckdb_citation_graph_research_synthesis.md` | DuckDB citation graph (Cowork tasks) |
-| `88_phase3_ratified_spec.md` | **Governing** Phase 3 spec |
+| `88_phase3_ratified_spec.md` | Proposed governing Phase 3 spec, pending ratification |
 | `105_genesis_future_layer_seed.md` | Metadata substrate seed (prototype) |
 | `106_reference_alias_authority_and_normalization_seed.md` | Alias authority (foundation) |
+| `120_wikilink_rollout_seed_and_rev_batch.md` | Shared wikilink parser + first staged rewrite batch (`REV`) |
 
 ## Active Operational
 
 | Memo | Workstream |
 |---|---|
-| `85_long_horizon_repo_cleanup_program.md` | Repo cleanup program (resolved as of 2026-03-13) |
+| `121_companion_purity_formatting_sprint.md` | Companion layer purity: 76/76 alignment, frontmatter, headers, schema |
 | `98_contract_repair_and_state_refresh.md` | Shared contract repair truth |
-| `68_nt_page_range_probe_request.md` | NT bootstrap prep (deferred) |
 | `18_gen_readability_blocker_decision.md` | Readability policy |
 | `20_greek_source_text_acquisition.md` | Future: Greek source layer |
 | `21_greek_witness_layer_pilot.md` | Future: Greek witness pilot |
@@ -63,6 +64,7 @@ These memos define active policy, protocol, or default workflow. When they confl
 | `ezra_ops_board.md` | Live tactical dispatch |
 | `ezra-audit-log.md` | Ezra audit trail |
 | `_template_work_memo.md` | Standard memo template |
+| `../reports/coordination_state.json` | Generated coordination drift report |
 
 ---
 
@@ -112,7 +114,7 @@ These memos define active policy, protocol, or default workflow. When they confl
 - Numbered memos remain the durable team record.
 - Do not reuse numeric prefixes for new memos.
 - Advisory and research artifacts never receive numbered memo prefixes.
-- Next available memo number: `120`
+- Next available memo number: `121`
 
 ### Metadata For New Memos
 ```text
