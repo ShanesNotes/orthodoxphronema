@@ -1,0 +1,76 @@
+[
+  {
+    "cluster_id": "CTF-001",
+    "label": "Common helper API drift",
+    "tests": [
+      "tests/test_common.py::test_book_meta_not_found",
+      "tests/test_common.py::test_page_ranges",
+      "tests/test_common.py::test_update_frontmatter",
+      "tests/test_common.py::test_known_split_join_words_superset",
+      "tests/test_common.py::test_discover_staged_books_filter",
+      "tests/test_common.py::test_discover_staged_paths_returns_paths"
+    ],
+    "symptom": "Tests expect older helper signatures and data shapes than the current common layer exports.",
+    "probable_root_cause": "A partial refactor landed in pipeline/common without fully migrating the compatibility contract or the tests.",
+    "affected_modules": [
+      "pipeline/common/registry.py",
+      "pipeline/common/frontmatter.py",
+      "pipeline/common/text.py",
+      "pipeline/common/patterns.py"
+    ],
+    "workflow_stage": "shared_infrastructure",
+    "severity": "high",
+    "recommended_owner": "ark"
+  },
+  {
+    "cluster_id": "CTF-002",
+    "label": "Promotion gate bypass and dossier schema regression",
+    "tests": [
+      "tests/test_promote_gate.py::TestPerEntryRatification::test_taxonomy_required_entry_ratification_blocks_non_osb_class",
+      "tests/test_promote_gate.py::TestEditorialCandidatesGate::test_editorial_candidates_nonzero_blocks",
+      "tests/test_promote_gate.py::TestDossierFreshness::test_stale_dossier_blocks_promote",
+      "tests/test_promote_gate.py::TestSidecarFieldNormalization::test_class_field_blocks",
+      "tests/test_promote_gate.py::TestAbsorbedContentGate::test_absorbed_description_blocks",
+      "tests/test_promote_gate.py::TestAbsorbedContentGate::test_fused_into_description_blocks",
+      "tests/test_promote_gate.py::TestHumanRatificationGate::test_ratified_by_ark_blocks",
+      "tests/test_promote_gate.py::TestHumanRatificationGate::test_ratified_by_null_blocks",
+      "tests/test_promote_gate.py::TestDossierSchema::test_dossier_records_allow_incomplete_true",
+      "tests/test_promote_gate.py::TestDossierSchema::test_dossier_records_allow_incomplete_false",
+      "tests/test_promote_gate.py::TestDossierSchema::test_dossier_preserves_warn_and_skip_statuses",
+      "tests/test_promote_gate.py::TestDossierSchema::test_dossier_records_staged_path",
+      "tests/test_promote_gate.py::TestDossierSchema::test_dossier_records_sidecar_paths"
+    ],
+    "symptom": "Promotion succeeds in scenarios that should block, and dossiers omit fields the tests treat as part of the promotion evidence contract.",
+    "probable_root_cause": "promote.py was simplified or independently evolved while gates.py and the dossier schema expectations remained richer.",
+    "affected_modules": [
+      "pipeline/promote/promote.py",
+      "pipeline/promote/gates.py"
+    ],
+    "workflow_stage": "promote",
+    "severity": "blocking",
+    "recommended_owner": "ark"
+  },
+  {
+    "cluster_id": "CTF-003",
+    "label": "Typed parser record migration is incomplete",
+    "tests": [
+      "tests/test_verse_split.py::test_boundary_marker_trace_attaches_to_preceding_verse",
+      "tests/test_verse_split.py::test_inline_marker_trace_contains_provenance_fields",
+      "tests/test_verse_split.py::test_lc_split_relabels_marker_ownership",
+      "tests/test_verse_split.py::test_write_outputs_emits_structured_footnote_marker_sidecar",
+      "tests/test_verse_split.py::test_process_element_article_mode_entry_and_exit",
+      "tests/test_verse_split.py::test_process_element_text_chapter_advance",
+      "tests/test_verse_split.py::test_process_element_column_split_resplits_previous_verse",
+      "tests/test_verse_split.py::test_process_element_section_header_emits_heading"
+    ],
+    "symptom": "Parser tests that use VerseRecord and structured marker traces fail with dict-subscripting errors or weak marker payloads.",
+    "probable_root_cause": "The repo introduced typed records in pipeline/common/types.py, but osb_extract.py still mutates and serializes dict-shaped records internally.",
+    "affected_modules": [
+      "pipeline/parse/osb_extract.py",
+      "pipeline/common/types.py"
+    ],
+    "workflow_stage": "parse",
+    "severity": "blocking",
+    "recommended_owner": "ark"
+  }
+]

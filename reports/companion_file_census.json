@@ -4,16 +4,16 @@
     "ot_footnote_files": 49,
     "ot_article_files": 49,
     "ot_marker_files": 49,
-    "nt_notes_files": 27,
+    "nt_notes_files": 0,
     "nt_marker_files": 27,
-    "total_footnote_entries": 2957,
-    "total_article_entries": 21,
+    "total_footnote_entries": 3041,
+    "total_article_entries": 14,
     "total_markers": 2636,
-    "total_anchor_references": 2658,
+    "total_anchor_references": 2636,
     "content_type_distribution": {
       "footnotes": 49,
       "article": 47,
-      "study_articles": 29
+      "study_articles": 2
     },
     "missing_companions": [],
     "contamination_flags": [
@@ -3719,7 +3719,7 @@
     },
     "PSA": {
       "footnotes": {
-        "entry_count": 47,
+        "entry_count": 131,
         "content_type_correct": true,
         "content_type": "footnotes",
         "article_contamination": [],
@@ -3728,28 +3728,88 @@
         "anchors": [
           "PSA.1:1",
           "PSA.2:1",
+          "PSA.3:1",
+          "PSA.4:1",
+          "PSA.5:1",
+          "PSA.6:1",
+          "PSA.7:1",
+          "PSA.8:1",
+          "PSA.9:1",
+          "PSA.10:1",
+          "PSA.11:1",
+          "PSA.12:1",
+          "PSA.13:1",
+          "PSA.14:1",
+          "PSA.15:1",
+          "PSA.16:1",
+          "PSA.17:1",
+          "PSA.18:1",
+          "PSA.19:1",
+          "PSA.20:1",
+          "PSA.21:1",
+          "PSA.22:1",
+          "PSA.23:1",
+          "PSA.24:1",
+          "PSA.25:1",
+          "PSA.26:1",
+          "PSA.27:1",
+          "PSA.28:1",
+          "PSA.29:1",
+          "PSA.30:1",
+          "PSA.31:1",
+          "PSA.32:1",
+          "PSA.33:1",
+          "PSA.34:1",
+          "PSA.35:1",
+          "PSA.36:1",
+          "PSA.37:1",
+          "PSA.38:1",
+          "PSA.39:1",
+          "PSA.40:1",
+          "PSA.41:1",
+          "PSA.42:1",
+          "PSA.43:1",
+          "PSA.44:1",
+          "PSA.45:1",
+          "PSA.46:1",
+          "PSA.47:1",
+          "PSA.48:1",
+          "PSA.49:1",
+          "PSA.50:1",
+          "PSA.51:1",
+          "PSA.52:1",
+          "PSA.53:1",
+          "PSA.54:1",
+          "PSA.55:1",
+          "PSA.56:1",
+          "PSA.57:1",
+          "PSA.58:1",
+          "PSA.59:1",
           "PSA.60:1",
           "PSA.61:1",
           "PSA.62:1",
-          "PSA.10:1",
+          "PSA.63:1",
           "PSA.64:1",
           "PSA.65:1",
           "PSA.66:1",
           "PSA.67:1",
           "PSA.68:1",
+          "PSA.69:1",
           "PSA.70:1",
           "PSA.71:1",
-          "PSA.49:1",
+          "PSA.72:1",
           "PSA.73:1",
           "PSA.74:1",
           "PSA.75:1",
           "PSA.76:1",
           "PSA.77:1",
+          "PSA.78:1",
           "PSA.79:1",
           "PSA.80:1",
+          "PSA.81:1",
           "PSA.82:1",
           "PSA.83:1",
-          "PSA.46:1",
+          "PSA.84:1",
           "PSA.85:1",
           "PSA.86:1",
           "PSA.87:1",
@@ -3759,19 +3819,43 @@
           "PSA.91:1",
           "PSA.92:1",
           "PSA.93:1",
+          "PSA.94:1",
           "PSA.95:1",
           "PSA.96:1",
-          "PSA.14:1",
+          "PSA.97:1",
+          "PSA.98:1",
           "PSA.99:1",
+          "PSA.100:1",
           "PSA.101:1",
-          "PSA.32:1",
+          "PSA.102:1",
+          "PSA.103:1",
           "PSA.104:1",
           "PSA.107:1",
+          "PSA.108:1",
+          "PSA.109:1",
+          "PSA.110:1",
+          "PSA.111:1",
+          "PSA.112:1",
+          "PSA.113:1",
+          "PSA.114:1",
+          "PSA.115:1",
+          "PSA.116:1",
+          "PSA.117:1",
+          "PSA.118:1",
           "PSA.119:1",
+          "PSA.134:1",
+          "PSA.136:1",
+          "PSA.137:1",
+          "PSA.138:1",
+          "PSA.139:1",
+          "PSA.140:1",
           "PSA.142:1",
           "PSA.143:1",
           "PSA.144:1",
           "PSA.145:1",
+          "PSA.146:1",
+          "PSA.147:1",
+          "PSA.148:1",
           "PSA.151:1"
         ]
       },
@@ -4809,15 +4893,7 @@
   },
   "nt_books": {
     "1CO": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 1,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 127,
         "types": {
@@ -4828,15 +4904,7 @@
       }
     },
     "1JN": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 1,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 29,
         "types": {
@@ -4848,15 +4916,7 @@
       }
     },
     "1PE": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 31,
         "types": {
@@ -4867,15 +4927,7 @@
       }
     },
     "1TH": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 24,
         "types": {
@@ -4886,15 +4938,7 @@
       }
     },
     "1TI": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 30,
         "types": {
@@ -4905,15 +4949,7 @@
       }
     },
     "2CO": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 65,
         "types": {
@@ -4926,15 +4962,7 @@
       }
     },
     "2JN": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 7,
         "types": {
@@ -4944,15 +4972,7 @@
       }
     },
     "2PE": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 1,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 19,
         "types": {
@@ -4963,15 +4983,7 @@
       }
     },
     "2TH": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 7,
         "types": {
@@ -4981,15 +4993,7 @@
       }
     },
     "2TI": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 24,
         "types": {
@@ -5001,15 +5005,7 @@
       }
     },
     "3JN": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 5,
         "types": {
@@ -5019,15 +5015,7 @@
       }
     },
     "ACT": {
-      "notes": {
-        "total_sections": 1,
-        "probable_footnotes": 0,
-        "probable_articles": 1,
-        "mix_ratio": 0.0,
-        "content_type": "study_articles",
-        "anchor_references": 2,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 277,
         "types": {
@@ -5039,15 +5027,7 @@
       }
     },
     "COL": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 23,
         "types": {
@@ -5058,15 +5038,7 @@
       }
     },
     "EPH": {
-      "notes": {
-        "total_sections": 1,
-        "probable_footnotes": 0,
-        "probable_articles": 1,
-        "mix_ratio": 0.0,
-        "content_type": "study_articles",
-        "anchor_references": 2,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 42,
         "types": {
@@ -5078,15 +5050,7 @@
       }
     },
     "GAL": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 61,
         "types": {
@@ -5097,15 +5061,7 @@
       }
     },
     "HEB": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 93,
         "types": {
@@ -5118,15 +5074,7 @@
       }
     },
     "JAS": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 1,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 31,
         "types": {
@@ -5137,15 +5085,7 @@
       }
     },
     "JOH": {
-      "notes": {
-        "total_sections": 1,
-        "probable_footnotes": 0,
-        "probable_articles": 1,
-        "mix_ratio": 0.0,
-        "content_type": "study_articles",
-        "anchor_references": 2,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 289,
         "types": {
@@ -5159,15 +5099,7 @@
       }
     },
     "JUD": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 13,
         "types": {
@@ -5177,15 +5109,7 @@
       }
     },
     "LUK": {
-      "notes": {
-        "total_sections": 1,
-        "probable_footnotes": 0,
-        "probable_articles": 1,
-        "mix_ratio": 0.0,
-        "content_type": "study_articles",
-        "anchor_references": 2,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 324,
         "types": {
@@ -5196,15 +5120,7 @@
       }
     },
     "MAT": {
-      "notes": {
-        "total_sections": 1,
-        "probable_footnotes": 0,
-        "probable_articles": 1,
-        "mix_ratio": 0.0,
-        "content_type": "study_articles",
-        "anchor_references": 3,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 314,
         "types": {
@@ -5216,15 +5132,7 @@
       }
     },
     "MRK": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 1,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 139,
         "types": {
@@ -5236,15 +5144,7 @@
       }
     },
     "PHM": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 9,
         "types": {
@@ -5254,15 +5154,7 @@
       }
     },
     "PHP": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 0,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 23,
         "types": {
@@ -5274,15 +5166,7 @@
       }
     },
     "REV": {
-      "notes": {
-        "total_sections": 1,
-        "probable_footnotes": 0,
-        "probable_articles": 1,
-        "mix_ratio": 0.0,
-        "content_type": "study_articles",
-        "anchor_references": 2,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 191,
         "types": {
@@ -5295,15 +5179,7 @@
       }
     },
     "ROM": {
-      "notes": {
-        "total_sections": 1,
-        "probable_footnotes": 0,
-        "probable_articles": 1,
-        "mix_ratio": 0.0,
-        "content_type": "study_articles",
-        "anchor_references": 3,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 132,
         "types": {
@@ -5314,15 +5190,7 @@
       }
     },
     "TIT": {
-      "notes": {
-        "total_sections": 0,
-        "probable_footnotes": 0,
-        "probable_articles": 0,
-        "mix_ratio": 0,
-        "content_type": "study_articles",
-        "anchor_references": 1,
-        "scripture_contamination": []
-      },
+      "notes": null,
       "markers": {
         "count": 9,
         "types": {

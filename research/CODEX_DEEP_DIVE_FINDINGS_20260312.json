@@ -1,0 +1,145 @@
+[
+  {
+    "id": "CDD-001",
+    "title": "Promotion gate implementation has drifted away from the composed gate contract",
+    "severity": "blocking",
+    "domain": "promotion",
+    "owner": "ark",
+    "surface": [
+      "pipeline/promote/promote.py",
+      "pipeline/promote/gates.py",
+      "tests/test_promote_gate.py"
+    ],
+    "evidence": [
+      "pytest tests/test_promote_gate.py -q -> 13 failed, 9 passed",
+      "gates.py defines D1-D5 gate functions but promote.py does not call them",
+      "dossier generation omits allow_incomplete and sidecar path fields"
+    ],
+    "current_state": "The live promote path enforces V1-V9 errors, V4 coverage, and V7 incompleteness, but it does not consistently enforce editorial blocking, freshness, field normalization, absorbed-content blocking, or taxonomy-based ratification.",
+    "impact": "Canon-facing promotion behavior is weaker than the documented gate contract, which creates governance and release-readiness risk.",
+    "recommendation": "Refactor promote.py to delegate to the gate module and expand dossier serialization to match the expected promotion evidence schema.",
+    "time_horizon": "now",
+    "blocking": true,
+    "confidence": "high"
+  },
+  {
+    "id": "CDD-002",
+    "title": "osb_extract.py is half-migrated between dict records and typed records",
+    "severity": "blocking",
+    "domain": "parse",
+    "owner": "ark",
+    "surface": [
+      "pipeline/parse/osb_extract.py",
+      "pipeline/common/types.py",
+      "tests/test_verse_split.py"
+    ],
+    "evidence": [
+      "pytest tests/test_verse_split.py -q -> 8 failed, 12 passed",
+      "VerseRecord dataclass exists in pipeline/common/types.py",
+      "osb_extract.py still accesses verses and markers with dict subscripting"
+    ],
+    "current_state": "The parser code path and the typed test fixtures disagree on record shape for verses and marker traces.",
+    "impact": "Parser refactors are currently brittle and marker provenance behavior cannot be trusted as fully migrated.",
+    "recommendation": "Choose one stable internal record model for extraction state and convert the parser, output builder, and tests fully to that model.",
+    "time_horizon": "now",
+    "blocking": true,
+    "confidence": "high"
+  },
+  {
+    "id": "CDD-003",
+    "title": "Common helper APIs have drifted from their test and caller contract",
+    "severity": "high",
+    "domain": "common",
+    "owner": "ark",
+    "surface": [
+      "pipeline/common/registry.py",
+      "pipeline/common/frontmatter.py",
+      "pipeline/common/text.py",
+      "pipeline/common/patterns.py",
+      "tests/test_common.py"
+    ],
+    "evidence": [
+      "pytest tests/test_common.py -q -> 6 failed, 34 passed",
+      "book_meta() returns None for missing codes while tests expect ValueError",
+      "page_ranges() returns a dict-shaped payload rather than tuple ranges",
+      "frontmatter.py exposes update_frontmatter_field() but not update_frontmatter()",
+      "discover_staged_books() and discover_staged_paths() now assume a filesystem path"
+    ],
+    "current_state": "The shared utility layer is between API shapes and has not finished the compatibility or test migration.",
+    "impact": "Higher-level scripts and future agents are more likely to misread helper semantics or cargo-cult stale usage.",
+    "recommendation": "Treat the common layer as an explicit compatibility cleanup lane and either restore the old contract or update all tests and callers in one pass.",
+    "time_horizon": "next_lane",
+    "blocking": false,
+    "confidence": "high"
+  },
+  {
+    "id": "CDD-004",
+    "title": "Live artifact surfaces can still mislead if read in isolation",
+    "severity": "medium",
+    "domain": "ops",
+    "owner": "ezra",
+    "surface": [
+      "reports/book_status_dashboard.json",
+      "reports/2JN_promotion_dossier.json",
+      "staging/validated/OT/WIS_editorial_candidates.json",
+      "staging/validated/OT/EST_residuals.json",
+      "PROJECT_BOARD.md",
+      "memos/ezra_ops_board.md"
+    ],
+    "evidence": [
+      "git diff -- reports/2JN_promotion_dossier.json shows a local registry_version bump to 1.4.0",
+      "WIS remains fully clean in dashboard and dossier state while staged editorial candidates still total 2",
+      "EST remains the OT lock blocker even though promoted artifacts exist"
+    ],
+    "current_state": "The boards capture the nuance, but single-surface reads can overstate cleanliness or readiness.",
+    "impact": "A future agent or hurried operator could mistake promoted or dry-run dossier state for full project closure.",
+    "recommendation": "Keep routing surfaces explicit about canon truth versus staged/editorial truth and add a lightweight stale-surface check into periodic ops review.",
+    "time_horizon": "next_lane",
+    "blocking": false,
+    "confidence": "medium"
+  },
+  {
+    "id": "CDD-005",
+    "title": "The root AGENTS contract is strong but over-centralized for Codex runtime use",
+    "severity": "medium",
+    "domain": "agent_design",
+    "owner": "ark",
+    "surface": [
+      "AGENTS.md",
+      "research/README.md"
+    ],
+    "evidence": [
+      "Root AGENTS.md currently carries architecture, ownership, policy, workflow, validation, extraction, and external-agent rules",
+      "OpenAI Codex AGENTS guidance supports layered root and nested instruction files"
+    ],
+    "current_state": "The repo has a constitutional root document but no nested instruction stack for parser, promote, staging, or research subtrees.",
+    "impact": "Codex can follow the current repo, but it has to carry a large prompt burden and cannot benefit from local overrides near specialized work.",
+    "recommendation": "Keep the root AGENTS file as the constitution and add nested AGENTS files for parse, promote, staging, and research surfaces.",
+    "time_horizon": "post_lock",
+    "blocking": false,
+    "confidence": "high"
+  },
+  {
+    "id": "CDD-006",
+    "title": "The project is ready for Codex skills, but only after code contracts stabilize",
+    "severity": "medium",
+    "domain": "agent_design",
+    "owner": "ezra",
+    "surface": [
+      "AGENTS.md",
+      "pipeline/",
+      "reports/",
+      "research/"
+    ],
+    "evidence": [
+      "Recurring workflows already exist for book audit, promotion gate review, NT stabilization triage, and Phase 3 contract work",
+      "OpenAI Codex skills support reusable instruction bundles with progressive disclosure"
+    ],
+    "current_state": "The repo has the right ritual structure for skills but not yet the stable local task packets to support them cleanly.",
+    "impact": "If skills are created too early, they will encode moving contracts and create more drift. If created after stabilization, they can materially reduce repeated context loading.",
+    "recommendation": "Create a first skill set only after the promote/common/parse contract cleanup lands.",
+    "time_horizon": "post_lock",
+    "blocking": false,
+    "confidence": "high"
+  }
+]

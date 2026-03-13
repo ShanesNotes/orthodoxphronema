@@ -1,8 +1,8 @@
 # Memo Index — Orthodox Phronema Archive
 
-> **Last updated:** 2026-03-11
+> **Last updated:** 2026-03-12
 > **Role:** Memo governance overlay
-> **Covers:** `161` memo files
+> **Covers:** `177` memo files
 > **See also:** `PROJECT_BOARD.md` for PM state and `memos/ezra_ops_board.md` for live dispatch
 
 ---
@@ -46,7 +46,12 @@ These are the durable memos still shaping current work. Read them alongside `mem
 | `88_phase3_ratified_spec.md` | Governing Phase 3 document — consolidates all adjudications, three-layer architecture, implementation sequencing. Supersedes both spec skeleton drafts. |
 | `89_ot_canon_lock_checkpoint.md` | OT canon lock checkpoint: `0` errors, `EST` as the only non-`V7` blocker, `V7` tail ready for ratification |
 | `91_ot_canon_lock_ratification_packet.md` | Active OT lock decision packet for the `17` V7-only books and `EST` disposition |
-| `93_companion_file_triage.md` | Companion normalization baseline and Phase 3 readiness gate |
+| `98_contract_repair_and_state_refresh.md` | Shared contract repair closeout, dashboard refresh, and stale-dossier truth reset |
+| `107_end_of_day_freeze_and_repo_cleanup.md` | End-of-day freeze packaging, governance refresh, and helper-tail cleanup before the next scripture-purity lane |
+| `105_genesis_future_layer_seed.md` | Metadata-first future-layer seed: enriched pericope substrate, narrow R1 extraction, and one derived embedding document |
+| `106_reference_alias_authority_and_normalization_seed.md` | Versioned alias authority for biblical references now and patristic entity normalization later |
+| `103_nt_footnote_stabilization_and_structural_audit.md` | Full NT companion extraction completion plus scripture-side drift packet for `JOH`, `LUK`, and `REV` |
+| `104_psa_footnote_extraction_report.md` | Psalm footnote extraction is stable; remaining PSA blocker is marker-index corruption |
 | `94_nt_wave1_companion_split.md` | NT Wave 1 companion transition: article-only split accepted |
 | `95_nt_footnote_extraction_reset.md` | NT companion reset: source footnote extraction from OSB footnote page ranges; `ROM` pilot next |
 | `96_rom_nt_footnote_pilot_and_long_horizon_plan.md` | `ROM` pilot complete; Wave 1 replacement extraction is the next NT companion lane |
@@ -55,6 +60,18 @@ These are the durable memos still shaping current work. Read them alongside `mem
 | `68_nt_page_range_probe_request.md` | NT bootstrap prep, still deferred |
 | `69_v11v12_activation_and_phase2_3_bootstrap.md` | Validation activation and OT holdout framing |
 | `memos/ezra_ops_board.md` | Live tactical dispatch |
+
+## Numbering Reconciliation (2026-03-12)
+
+These files were carrying duplicate numeric prefixes in the live memo set. Canonical IDs are now:
+
+| Canonical memo | Reconciled from |
+|---|---|
+| `99_structural_drift_evidence_packet.md` | duplicate `90_structural_drift_evidence_packet.md` |
+| `100_dossier_schema_drift_packet.md` | duplicate `91_dossier_schema_drift_packet.md` |
+| `101_photius_companion_recovery_evidence.md` | duplicate `94_photius_companion_recovery_evidence.md` |
+
+Legacy historical duplicate prefixes from the pre-hardening memo era remain frozen as audit-trail exceptions. They are not canonical live-routing IDs unless explicitly listed in the active workstream tables above.
 
 ## Historical Implementation Record
 
@@ -72,6 +89,7 @@ Completed work. Keep for audit trail and rationale recovery, not for live routin
 - `59_psa_custom_extraction.md`, `59_wisdom_poetry_restructuring_complete.md`
 
 ### Stabilization And Recovery
+- `102_nt_wave1_footnote_alignment_report.md`
 - `27_stabilization_sprint_execution_and_tooling_audit.md`
 - `28_stabilization_sprint_status.md`
 - `31_workflow_hardening_sprint.md`

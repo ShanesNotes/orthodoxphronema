@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-11",
-  "registry_version": "1.3.0",
+  "generated": "2026-03-12",
+  "registry_version": "1.4.0",
   "status_ladder": [
     "extracting",
     "structurally_passable",
@@ -11,8 +11,8 @@
   "counts_by_status": {
     "promoted": 49,
     "extracting": 15,
-    "promotion_ready": 6,
-    "editorially_clean": 6
+    "editorially_clean": 10,
+    "promotion_ready": 2
   },
   "books": [
     {
@@ -24,11 +24,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "509dff11fa9383132729f5f71505a3f4d21798da2baa61e1b816c417ec24d0a2",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "509dff11fa9383132729f5f71505a3f4d21798da2baa61e1b816c417ec24d0a2"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "7381fa05018d7d4782a8151eddb33e79b2807b0303e57182cfaab86222cbee57"
       },
       "validation": {
         "V1": "PASS",
@@ -67,11 +67,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "e3ad73beaa512555a5dc4909c6e373cdb3e06b30ceb5b5be47545ca31e8ff89f",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "e3ad73beaa512555a5dc4909c6e373cdb3e06b30ceb5b5be47545ca31e8ff89f"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "1e7066661ec66e1739043125f7114de8b4c676fa80d6e3c7e820b0af6b4960d2"
       },
       "validation": {
         "V1": "PASS",
@@ -110,11 +110,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "afc4ce998babbe6a2ff6520735a209ec0e6eca7fc1e9a2685ebd3883b1e7ba1b",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "afc4ce998babbe6a2ff6520735a209ec0e6eca7fc1e9a2685ebd3883b1e7ba1b"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "dab3c6e87a18b64bb0618441ca41fd09b11ebc8ee7391a183c8942f197bffd1b"
       },
       "validation": {
         "V1": "PASS",
@@ -153,11 +153,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "0dcfbeef5cedee36d2533eaff4d437bb9cf58ecc6e18299457a3bd92f92de76e",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "0dcfbeef5cedee36d2533eaff4d437bb9cf58ecc6e18299457a3bd92f92de76e"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "8c83880113c9b6b9b89cfb2d466eb3943d022963feeda1635d714c2b7ea487fe"
       },
       "validation": {
         "V1": "PASS",
@@ -196,11 +196,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "dabf983c9a1e2718b2c39efcf5d1e78dfd7749e63fc42cdc24d7e0719078f2d4",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "dabf983c9a1e2718b2c39efcf5d1e78dfd7749e63fc42cdc24d7e0719078f2d4"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "5108aeb2bf67a025b50098430b4a44595ffe49f8f3f12345817ead6d61cdfc0b"
       },
       "validation": {
         "V1": "PASS",
@@ -239,11 +239,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "2a0bf4dfb58c2651b12e56ff5e15f67bed34552776c1ea07d336649d8a22d0a8",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "2a0bf4dfb58c2651b12e56ff5e15f67bed34552776c1ea07d336649d8a22d0a8"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "8fdf5208733d5655a064d392e3b8fb3d70a3b414522d1f9d5767d60d67ce99f8"
       },
       "validation": {
         "V1": "PASS",
@@ -282,11 +282,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "8cc53f1ae2e142eb2dd1aa3a1e487e72134f9226311ad3fbaef7a0112eacfe90",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "8cc53f1ae2e142eb2dd1aa3a1e487e72134f9226311ad3fbaef7a0112eacfe90"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "34d16bfba47b71f779c02362090eec3c7805880bb96ad2661499fccad53cf402"
       },
       "validation": {
         "V1": "PASS",
@@ -325,11 +325,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "c434f2fb9b3231a36c723cc96f8d282ba9f9ccf2b1f5bc48aba3862a5819837f",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "c434f2fb9b3231a36c723cc96f8d282ba9f9ccf2b1f5bc48aba3862a5819837f"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "39611c5e8b38a7cdfb9cadefa16ba7bfd02d9479e71a7add79cbd42a34d8d41a"
       },
       "validation": {
         "V1": "PASS",
@@ -368,11 +368,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "b6dbb3814ed00f4c00e093c9c8a492a83ded0db18f22fdc627603e7d7b979dae",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "b6dbb3814ed00f4c00e093c9c8a492a83ded0db18f22fdc627603e7d7b979dae"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "1f32bacedd19be6681e924a3c7b25b582ccf0dc0dc140e6baa8a4770a235b73a"
       },
       "validation": {
         "V1": "PASS",
@@ -411,11 +411,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "4c399506ce03f131112489f0510fea4041f6d22da5325a912de6fe747ae9018f",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "4c399506ce03f131112489f0510fea4041f6d22da5325a912de6fe747ae9018f"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "15920b2c9d214bb0ba6596cc74aaa1fcc7528810ad61589972f5db9cba85e7ef"
       },
       "validation": {
         "V1": "PASS",
@@ -454,11 +454,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "e05664c69f5fea2ad08fffb725f5c9b2ef4e6676cbc4ddb9e2d49861a00e99fa",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "e05664c69f5fea2ad08fffb725f5c9b2ef4e6676cbc4ddb9e2d49861a00e99fa"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "fdfedf71deddc7ea84fa795f46864e1263da59f36b7d51227ce042e0bec07965"
       },
       "validation": {
         "V1": "PASS",
@@ -497,11 +497,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "087eeafe1c7b398d869ed4441f2e4adcf691fbfeb9a05c9e7a4bd32c6e665b03",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "087eeafe1c7b398d869ed4441f2e4adcf691fbfeb9a05c9e7a4bd32c6e665b03"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "9b936d2f772dee3402b06c01a73a7eb9f5b4101256159d94c3ce93050fd946a3"
       },
       "validation": {
         "V1": "PASS",
@@ -540,11 +540,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "d8cc500cdacdfba261ccaeaa20da10c3a97f805ddeb9ddbfb1e1be32f5db4210",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "d8cc500cdacdfba261ccaeaa20da10c3a97f805ddeb9ddbfb1e1be32f5db4210"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "b0b903068568d28c14dc215bc7b609bafbcebae22fb8a46815818e54fd7d9247"
       },
       "validation": {
         "V1": "PASS",
@@ -583,11 +583,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "c14aed04a661df5b6bb940987f5e541d6a6dbda0e0d30c6cb39a4d997607fc8d",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "c14aed04a661df5b6bb940987f5e541d6a6dbda0e0d30c6cb39a4d997607fc8d"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "9e29469e9b9ef95cc27d1be5ad009cfcacaa6d614e652880c1e4f9481546c855"
       },
       "validation": {
         "V1": "PASS",
@@ -626,11 +626,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "51898ad0913fc7d562cc526800f8cb9fbe997b6909e224008067d9b83b8a7224",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "51898ad0913fc7d562cc526800f8cb9fbe997b6909e224008067d9b83b8a7224"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "bc77c2aaf5630b3bd25ed4e3d166514c60a1311f0a36709f7f31ad4482a0810d"
       },
       "validation": {
         "V1": "PASS",
@@ -669,11 +669,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "6e8d70a019af7722c834995d1a0049a47827c6428e5f670ff29214b2c8a25611",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "6e8d70a019af7722c834995d1a0049a47827c6428e5f670ff29214b2c8a25611"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "b4f5b2d152e77eac272cea723438095208f23a3c9157386193c2452b0b59a362"
       },
       "validation": {
         "V1": "PASS",
@@ -712,11 +712,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "c77e406786af9f731e13ffadbf2cb8f5dfa8bc4972b983ec03e049f441e8ee20",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "c77e406786af9f731e13ffadbf2cb8f5dfa8bc4972b983ec03e049f441e8ee20"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "c2b1a5c1d5d500e15b6a132909cec700dc842113364d6e68eefa9e641679fd33"
       },
       "validation": {
         "V1": "PASS",
@@ -755,11 +755,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "861f186adf15d54a6774646cccb6edcc8bcf59b44bcc34304ff2e27765964ba0",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "861f186adf15d54a6774646cccb6edcc8bcf59b44bcc34304ff2e27765964ba0"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "5ee28eebd8c472e7837775b2d611692b878164d66ff7b9e7e5b22073e537259c"
       },
       "validation": {
         "V1": "PASS",
@@ -798,11 +798,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "5f701366f21d1ff5e56d5092f4d441b09208dbc498dd066aaf66ff288e00d115",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "5f701366f21d1ff5e56d5092f4d441b09208dbc498dd066aaf66ff288e00d115"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "05b87b988b8ce6503869db5906661837bcd46f63fd7b310c6a12fd3cafcd74c3"
       },
       "validation": {
         "V1": "PASS",
@@ -841,11 +841,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "ac833a7b717ad989bd44e3006c4c027a0efc7baf41f8c0e73d69f04cec180b94",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "ac833a7b717ad989bd44e3006c4c027a0efc7baf41f8c0e73d69f04cec180b94"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "b00ed3e155ec1568915733b5071b13d21dac4e28aed5bce3b8df74eaeb0b0d1c"
       },
       "validation": {
         "V1": "PASS",
@@ -884,11 +884,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "961f64d10f4e2332b7f92b1f14c5aa8c05faa032ae398e1317136b08689edf68",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "961f64d10f4e2332b7f92b1f14c5aa8c05faa032ae398e1317136b08689edf68"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "44909b15448fe138f264058f082995fac030e12622501a993f7e0ce5489a115c"
       },
       "validation": {
         "V1": "PASS",
@@ -927,11 +927,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "a30baca8fa1d2dd69261dff4ac4d929eef74c6555b1285a964e332160b97f833",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "a30baca8fa1d2dd69261dff4ac4d929eef74c6555b1285a964e332160b97f833"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "82f6a8c226083e313b3d42aafb4a9c4ff19351cb55bae6edd1c61545eaef1292"
       },
       "validation": {
         "V1": "PASS",
@@ -970,11 +970,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "3a342b994113205f19aba570e5a55157776bf5dcf682db6372ac10ce54b04c02",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "3a342b994113205f19aba570e5a55157776bf5dcf682db6372ac10ce54b04c02"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "3caa2d867d4afe241e04778929dc5126d3319670d09ace8bc86eb5c554c68aaa"
       },
       "validation": {
         "V1": "PASS",
@@ -1013,11 +1013,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "efb6ccced37135ead3c5eab8ce0c0c2f2386ef14a79977f92c5736fa610cd681",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "efb6ccced37135ead3c5eab8ce0c0c2f2386ef14a79977f92c5736fa610cd681"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "669f33d1b688a83c85e589c9dd3a6969bb4fa51afd8a050e70130534543b75fe"
       },
       "validation": {
         "V1": "PASS",
@@ -1056,11 +1056,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "3adda3a8978599b42e36af04515dd3290fb51ae994681dc02dbc4177f194edbd",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "3adda3a8978599b42e36af04515dd3290fb51ae994681dc02dbc4177f194edbd"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "2b76286f139de2a327c61d2a103d2ce79c9a0c5011a043d911aa667e2cccb7b2"
       },
       "validation": {
         "V1": "PASS",
@@ -1099,11 +1099,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "6ab8ef3619c5ede3ded259474f03f1a6c6459f8f07440be3635035f7747df79c",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "6ab8ef3619c5ede3ded259474f03f1a6c6459f8f07440be3635035f7747df79c"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "88a992e9846a9a3f888139e84c9b539b29440b501a313a04140cf1971f44cd86"
       },
       "validation": {
         "V1": "PASS",
@@ -1142,11 +1142,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "054213848edbc41e31f2cdcfdff840bb92600d5684dc6360d11189ae4eaaa9f8",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "054213848edbc41e31f2cdcfdff840bb92600d5684dc6360d11189ae4eaaa9f8"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "63bfdd0146ba317f95da29c495ac6016d12b8a065c294c4522cc1f8ed0dbf81b"
       },
       "validation": {
         "V1": "PASS",
@@ -1185,11 +1185,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "8b5e41edcb7d975e6fb51f7ed8b30e310875e495fc2f68126c5cb620a60fbf94",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "8b5e41edcb7d975e6fb51f7ed8b30e310875e495fc2f68126c5cb620a60fbf94"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "60661931348e80264220117d2b2386b4891d66b96d8c33002130680af3a97ae9"
       },
       "validation": {
         "V1": "PASS",
@@ -1230,11 +1230,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "a3f8eeabb628ced9fa71efddad32c948b1a10922273b4227469d93f3a22b2c05",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "a3f8eeabb628ced9fa71efddad32c948b1a10922273b4227469d93f3a22b2c05"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "64168669839b2b886590496c3376ed53d7b6ec61fc2a8af9a1d56c048a582557"
       },
       "validation": {
         "V1": "PASS",
@@ -1275,11 +1275,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "64d99071e74454ae489e200aa16d91e565bb73655744002ef85a90d6f3cb09de",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "64d99071e74454ae489e200aa16d91e565bb73655744002ef85a90d6f3cb09de"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "6d2bc8500d5e5aa5b35a069c68a9c2b198b57a319f0681ad5996e0e5749a976b"
       },
       "validation": {
         "V1": "PASS",
@@ -1318,11 +1318,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "782439c2a63c29afb8575f95bc4caf556ee6788002dee71bb0c2fbabdcb80bf7",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "782439c2a63c29afb8575f95bc4caf556ee6788002dee71bb0c2fbabdcb80bf7"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "f35446da462d1dc872fdd448abcc6eb6675e869110825ca24054dea102919eab"
       },
       "validation": {
         "V1": "PASS",
@@ -1361,11 +1361,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "8002ad09cdce2cd2b9fa9f42e3a30896dae08e30bcdc6f76785fe1d2db157584",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "8002ad09cdce2cd2b9fa9f42e3a30896dae08e30bcdc6f76785fe1d2db157584"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "3a02ac201c72dea1f9b4ca9f84f655ebfbdb8de0fddbe6f4d11695bd6a32687d"
       },
       "validation": {
         "V1": "PASS",
@@ -1404,11 +1404,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "d7fba436cd8a1786358e6c689220a712211443bd1fc0e3186fdcd006463e59c8",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "d7fba436cd8a1786358e6c689220a712211443bd1fc0e3186fdcd006463e59c8"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "5b2482fa3ed1bbd7ae30fd7f8877126e49c46600e24efd80695c883378cd8566"
       },
       "validation": {
         "V1": "PASS",
@@ -1447,11 +1447,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "d47f004142627f256b93067e75c240663400e07b91bddf22c538177f522882ba",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "d47f004142627f256b93067e75c240663400e07b91bddf22c538177f522882ba"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "837f48fa59cb019a6ef1a707d65b72cf6526f1a8cb16e2efdf7b774bd6aebcba"
       },
       "validation": {
         "V1": "PASS",
@@ -1490,11 +1490,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "41d9b894cdaff9f09308bb010ddcb59bc083a324da721a959ea1a1d85060c337",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "41d9b894cdaff9f09308bb010ddcb59bc083a324da721a959ea1a1d85060c337"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "36c47ff67e0101de705e36b50e31927f05949ef5e045ce235c3e92ff51e53b37"
       },
       "validation": {
         "V1": "PASS",
@@ -1533,11 +1533,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "c1d23483204fb58befe95b80d963975a28c12cb98d238ea3ce10b62f1eab655b",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "c1d23483204fb58befe95b80d963975a28c12cb98d238ea3ce10b62f1eab655b"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "3d2534f8e5150d53652ba73d88006b85196f0a7fc3424e267f5411ebbf7f8119"
       },
       "validation": {
         "V1": "PASS",
@@ -1576,11 +1576,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "3204d48bd295d9caa8856327ab54f222d2f6f949711d845a45e0faf3b8a9a529",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "3204d48bd295d9caa8856327ab54f222d2f6f949711d845a45e0faf3b8a9a529"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "306280e67fa3928e028eae5fc5b6e75185f144d29120f38424155ff4a2f3bfca"
       },
       "validation": {
         "V1": "PASS",
@@ -1619,11 +1619,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "a77ca05f7ce0fd6315d70e9b92704d3059a2fb5a062704364896c934f5b80964",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "a77ca05f7ce0fd6315d70e9b92704d3059a2fb5a062704364896c934f5b80964"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "3d21499d1bb2357abeae36e61c6e3600e6d4e67219b21eabf194485031d54b80"
       },
       "validation": {
         "V1": "PASS",
@@ -1662,11 +1662,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "a356782af17ec6638b129bd384e36e070bf3c264ba1af3b3ce5df440fda28255",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "a356782af17ec6638b129bd384e36e070bf3c264ba1af3b3ce5df440fda28255"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "eb9d8a4119565cc8443aacf6acada52561f48ba8866537f735b9b193f6afdbd3"
       },
       "validation": {
         "V1": "PASS",
@@ -1705,11 +1705,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "769a8b29deed6ac4b269a227f97f1a65c2c6dc13d699517787d23d4b6b12883e",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "769a8b29deed6ac4b269a227f97f1a65c2c6dc13d699517787d23d4b6b12883e"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "6756b98843e92a580ca5e27ba10d754e34adecf5587100cf744132dce0417040"
       },
       "validation": {
         "V1": "PASS",
@@ -1748,11 +1748,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "30c7d6e861ad8d6fc097785572db7c910ebc9aabf7dda1db0b71eddca8e9ca44",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "30c7d6e861ad8d6fc097785572db7c910ebc9aabf7dda1db0b71eddca8e9ca44"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "65d8f9ebbfa48bacccc54c5596079ad947405e5c66a98a843a2972a6fa9bccbd"
       },
       "validation": {
         "V1": "PASS",
@@ -1791,11 +1791,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "93aa32eed243c3489d8fa9b301a07a9d4ea60d7fb2b5915efdc6229d28ff4f44",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "93aa32eed243c3489d8fa9b301a07a9d4ea60d7fb2b5915efdc6229d28ff4f44"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "4e59c18f2dc88a7d3f5fbadc8363c57d0addd981d6e0c447c96fe8277315bbf4"
       },
       "validation": {
         "V1": "PASS",
@@ -1834,11 +1834,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "20f130bf8f69601bd3472bfb1fcceeb746f6fbbcd2ff53ba2d0d3226b98bc8c1",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "20f130bf8f69601bd3472bfb1fcceeb746f6fbbcd2ff53ba2d0d3226b98bc8c1"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "13fb3b519f41f85e4c88387a436570a3873a92b03281500be0c2c8d6a964b458"
       },
       "validation": {
         "V1": "PASS",
@@ -1877,11 +1877,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "0cac5b22c4617455996cab770412edb39fc79cebc8e20612926a03a6f3708fc5",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "0cac5b22c4617455996cab770412edb39fc79cebc8e20612926a03a6f3708fc5"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "b1cfc5885c7546a61e310594bc74b021815424401df5ca66a8192d3f76d13bd5"
       },
       "validation": {
         "V1": "PASS",
@@ -1920,11 +1920,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "0ed94cb6b4e5e07d57001a1cfdcae9258e5f5331ad4c39eba6a475fb81d428eb",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "0ed94cb6b4e5e07d57001a1cfdcae9258e5f5331ad4c39eba6a475fb81d428eb"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "12878f5175bb176d3d842fa35941620bff1b0e4859ae1044618a09583257c46b"
       },
       "validation": {
         "V1": "PASS",
@@ -1963,11 +1963,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "9094c7f29cbcec052e87e332afd24a84830ae8466eb3aa468d5702eab99f98b4",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "9094c7f29cbcec052e87e332afd24a84830ae8466eb3aa468d5702eab99f98b4"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "b0c2fb75c3fbfc6deb0fccfdfc5066155b1af587c1e5997e255028143c647277"
       },
       "validation": {
         "V1": "PASS",
@@ -2006,11 +2006,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "d82e92f4d41a014489dedd80a7f4501d64067ce029d15a90bcf13ca1586ba989",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "d82e92f4d41a014489dedd80a7f4501d64067ce029d15a90bcf13ca1586ba989"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "162548b88ae74e967c1bb645ba82fcd1119ddfe1ebcd29dd5ed8cc09178ba8ee"
       },
       "validation": {
         "V1": "PASS",
@@ -2049,11 +2049,11 @@
       ],
       "decision": "promoted",
       "body_checksum": "fb3e42602f3d0ee6581cd4e105401cfb966d92877ffc2973ec05618d0ca24bf1",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "fb3e42602f3d0ee6581cd4e105401cfb966d92877ffc2973ec05618d0ca24bf1"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "c5e9fe35d557a7519212434b30976d16a2c2a2608100bf5c5b9e942b6bfed105"
       },
       "validation": {
         "V1": "PASS",
@@ -2092,11 +2092,11 @@
       ],
       "decision": "dry-run",
       "body_checksum": "1a95932924bccfa77c686cb0c6667e9621161d7a1002fcee08af7c5e5cd95a46",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "1a95932924bccfa77c686cb0c6667e9621161d7a1002fcee08af7c5e5cd95a46"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "25bb94ce0551118b11656fa0a9e47463124a0717cde0e38b4b856ab38be9f7e5"
       },
       "validation": {
         "V1": "PASS",
@@ -2135,11 +2135,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "f0baf0e177ee4d41abf46b7705d089f2c8f119bdab515f2024363ba1c653c031",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "f0baf0e177ee4d41abf46b7705d089f2c8f119bdab515f2024363ba1c653c031"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "0306a5f2d53fb3897a515a52301d123ecb923d306f44beea334e1d4b1df19abc"
       },
       "validation": {
         "V1": "PASS",
@@ -2178,11 +2178,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "6af509e4bbb521c2a18ce438086257816a3db33d3465cb633cb3957b35c38fd5",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "6af509e4bbb521c2a18ce438086257816a3db33d3465cb633cb3957b35c38fd5"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "b4e1cfc2049d52fabc21c1cc5536481609b33940ad3d212603566b90b0af296d"
       },
       "validation": {
         "V1": "PASS",
@@ -2221,11 +2221,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "1c4dd6e3f43bed3293375790a133e4696e0e7bcb9b28d61d1525fc3d582e770d",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "1c4dd6e3f43bed3293375790a133e4696e0e7bcb9b28d61d1525fc3d582e770d"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "c484513513e987fa84a4cc96f771d7c7cab4a0f76ca23d496bb7c9ac3540bc95"
       },
       "validation": {
         "V1": "PASS",
@@ -2264,11 +2264,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "607e7ae1c9c26d243b00fd460b663234be42e42cd54e1d12e36e6895544f0b1e",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "607e7ae1c9c26d243b00fd460b663234be42e42cd54e1d12e36e6895544f0b1e"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "86a77d91bc48e48edd6b8869054b3c96a29a29741ef8919456662ea71969f2a7"
       },
       "validation": {
         "V1": "PASS",
@@ -2307,11 +2307,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "1affd375c9413366ef4d571facd42cb3ab75c8df4494bd5adfbb75908d41f39a",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "1affd375c9413366ef4d571facd42cb3ab75c8df4494bd5adfbb75908d41f39a"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "351f501df1c6c4fa62c1d2941ecce91d973c51b1a8196537ac5aa57250f8d456"
       },
       "validation": {
         "V1": "PASS",
@@ -2350,11 +2350,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "7033ca9fbb93f3de77e63991060c5da0cf7f4958bac0e819ccd825f2a20dd334",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "7033ca9fbb93f3de77e63991060c5da0cf7f4958bac0e819ccd825f2a20dd334"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "73d211292ca0793f2f114736dbf0b6f1d3faeea0bf111a81e8b91927c2285751"
       },
       "validation": {
         "V1": "PASS",
@@ -2393,11 +2393,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "c1f98224211fd8f6ca63b67db2baf94dc2762afbe4c1002544d872378e8a44cf",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "c1f98224211fd8f6ca63b67db2baf94dc2762afbe4c1002544d872378e8a44cf"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "f52422c8a3e30332c1678bd4c82a832a6df0b40813d80b051eec072f7a035ad6"
       },
       "validation": {
         "V1": "PASS",
@@ -2436,11 +2436,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "04232a44d95caff10b429980d44c63f1c0184549537e3296f43f156325455bd0",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "04232a44d95caff10b429980d44c63f1c0184549537e3296f43f156325455bd0"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "5d5e6c17bb0bf6c32d7f6a4195b7507328cc77c79b237ab77eedac6c9ecb83f8"
       },
       "validation": {
         "V1": "PASS",
@@ -2479,11 +2479,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "2d4b185aaa58ced244b4ed0c40d530eb2ff7febb1aeec748d021a3fcc73bb1fc",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "2d4b185aaa58ced244b4ed0c40d530eb2ff7febb1aeec748d021a3fcc73bb1fc"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "d6203596107a15c972c3695d1e2730bc0ee2daa4a1c7aa48981062598a6902b9"
       },
       "validation": {
         "V1": "PASS",
@@ -2522,11 +2522,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "207611165cc4bd3d201c0294b12880ab4975be732b3520ee493a38d6b5d0ceb2",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "207611165cc4bd3d201c0294b12880ab4975be732b3520ee493a38d6b5d0ceb2"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "80c1c5b65c1f472f037875173066b51b8561d9f02158c92a7e6ece40b3a6709d"
       },
       "validation": {
         "V1": "PASS",
@@ -2565,11 +2565,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "60237180652e9001a6b36f494bbab9c057f234dcb662d50eded3a8c39a40e5de",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "60237180652e9001a6b36f494bbab9c057f234dcb662d50eded3a8c39a40e5de"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "47a036aa3be9a7cb00bf6cf73ff01716022958b7a5de90e43e5b9be361422673"
       },
       "validation": {
         "V1": "PASS",
@@ -2608,11 +2608,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "d161d3076a3f4f0e917be6211593aca136aba3ea4ff9a5c673815b756cec6139",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "d161d3076a3f4f0e917be6211593aca136aba3ea4ff9a5c673815b756cec6139"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "7db3db2c139d2058dfdb8afe30ca7235a93930de37f7780791d73d0428616fe8"
       },
       "validation": {
         "V1": "PASS",
@@ -2645,19 +2645,19 @@
     {
       "book_code": "1TH",
       "testament": "NT",
-      "status": "promotion_ready",
+      "status": "editorially_clean",
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "promotion dossier checksum does not match current staged file"
       ],
       "decision": "dry-run",
       "body_checksum": "e5ef0538c28766b8d65740c6c9f1ad149cf0fcb660377ddae06ea5649a9e1188",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "e5ef0538c28766b8d65740c6c9f1ad149cf0fcb660377ddae06ea5649a9e1188"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "bc5846ec8959a9f494aa3f21900cf556d02d56a2687d2b48bb63759bd1c6b2a0"
       },
       "validation": {
         "V1": "PASS",
@@ -2690,19 +2690,19 @@
     {
       "book_code": "2TH",
       "testament": "NT",
-      "status": "promotion_ready",
+      "status": "editorially_clean",
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "promotion dossier checksum does not match current staged file"
       ],
       "decision": "dry-run",
       "body_checksum": "579b6f3c64dcbe7e8e83683ec7d753c6d384da161b222d8aef45c2901d8f42f1",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "579b6f3c64dcbe7e8e83683ec7d753c6d384da161b222d8aef45c2901d8f42f1"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "fc03bb608f0c9cc0169da4fa8b987b66bc1d68aac11cc29164f3f67ed4f3d0f6"
       },
       "validation": {
         "V1": "PASS",
@@ -2739,15 +2739,15 @@
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "live V4 warning still present"
+        "promotion dossier checksum does not match current staged file"
       ],
       "decision": "blocked",
       "body_checksum": "5c89724249805f0c8d226a29afd98ccf19e17063a49475bdaaf26d233469118e",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "5c89724249805f0c8d226a29afd98ccf19e17063a49475bdaaf26d233469118e"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "644f3acf0ce20fdbf8d708ebde74697a2adc9726e24c300f5a9495d2df5bebb1"
       },
       "validation": {
         "V1": "PASS",
@@ -2780,19 +2780,19 @@
     {
       "book_code": "2TI",
       "testament": "NT",
-      "status": "promotion_ready",
+      "status": "editorially_clean",
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "promotion dossier checksum does not match current staged file"
       ],
       "decision": "dry-run",
       "body_checksum": "0416820e07e68f580aac012f2c2f6e760b6f0e9dd315f920d475f1b4ad022e43",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "0416820e07e68f580aac012f2c2f6e760b6f0e9dd315f920d475f1b4ad022e43"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "9b8c4b823eb336f3b2068ad3c17bcdf5e434650eee29086dbea3d4d4eb928d20"
       },
       "validation": {
         "V1": "PASS",
@@ -2829,15 +2829,15 @@
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "live V4 warning still present"
+        "promotion dossier checksum does not match current staged file"
       ],
       "decision": "blocked",
       "body_checksum": "61aa04f3ce78b656516e5074e6c2f02e341c7928e0022d0e819bdabccfa34fd8",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "61aa04f3ce78b656516e5074e6c2f02e341c7928e0022d0e819bdabccfa34fd8"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "78ed957e3e31dd93b2fcf161fc29999983d646a6efceb183ed18ce32f9b30cb3"
       },
       "validation": {
         "V1": "PASS",
@@ -2874,15 +2874,15 @@
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "live V4 warning still present"
+        "promotion dossier checksum does not match current staged file"
       ],
       "decision": "blocked",
       "body_checksum": "bc96c6bf4d2dde5c56520bcb2727006b88c6a4e1109030de88420e2532d21d3d",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "bc96c6bf4d2dde5c56520bcb2727006b88c6a4e1109030de88420e2532d21d3d"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "e8a6469167061a5709391676e108c73745ce0392764318a7bc21eb861d3b4648"
       },
       "validation": {
         "V1": "PASS",
@@ -2921,11 +2921,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "f66587c05835ed2683912ea40a5a37b6c9cd592a4609e393a6df28f705abc1e1",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "f66587c05835ed2683912ea40a5a37b6c9cd592a4609e393a6df28f705abc1e1"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "1d0e351fad25316607dd389ee19727d686590a5bda65c6bd34ce0b4d610115a6"
       },
       "validation": {
         "V1": "PASS",
@@ -2962,15 +2962,15 @@
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "live V4 warning still present"
+        "promotion dossier checksum does not match current staged file"
       ],
       "decision": "blocked",
       "body_checksum": "3f903925b4e43f1a66eeb541f62998d234f935cb514474aa98f9d36147d7f131",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "3f903925b4e43f1a66eeb541f62998d234f935cb514474aa98f9d36147d7f131"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "c0ace72feadbbc8e3f7136c2b0ccf9f8982f87a20db8a126ff491423fff00863"
       },
       "validation": {
         "V1": "PASS",
@@ -3009,11 +3009,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "c4a2345349c8efdc23901bd285d0de9079a2c90016f9d6b0257506ef4c7a075c",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "c4a2345349c8efdc23901bd285d0de9079a2c90016f9d6b0257506ef4c7a075c"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "f72bb228831e27ab72a281ad14c301deef6820ad4c8e0963e7d3adb09d434aaf"
       },
       "validation": {
         "V1": "PASS",
@@ -3050,15 +3050,15 @@
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "live V4 warning still present"
+        "promotion dossier checksum does not match current staged file"
       ],
       "decision": "blocked",
       "body_checksum": "ccfee22df648644c24dfb0a2311a70f4585df4535a91e8b440db892ef6e2fd5d",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "ccfee22df648644c24dfb0a2311a70f4585df4535a91e8b440db892ef6e2fd5d"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "6de3a9663763a578248ee414df861cecedab27c1dc144d9329303281592f1cc6"
       },
       "validation": {
         "V1": "PASS",
@@ -3091,19 +3091,19 @@
     {
       "book_code": "1JN",
       "testament": "NT",
-      "status": "promotion_ready",
+      "status": "editorially_clean",
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "promotion gate conditions are satisfied"
+        "promotion dossier checksum does not match current staged file"
       ],
       "decision": "dry-run",
       "body_checksum": "f383b784f03296c1a6c210741448f7b28125a5a4668beeb60216c2b842ae4da3",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "f383b784f03296c1a6c210741448f7b28125a5a4668beeb60216c2b842ae4da3"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "6d207379d49ad0833a46821f33473059a224d66e5e80af32505edfc0fbde6f70"
       },
       "validation": {
         "V1": "PASS",
@@ -3230,15 +3230,15 @@
       "status_reasons": [
         "validation is structurally passable",
         "editorial candidates clear",
-        "live V4 warning still present"
+        "promotion dossier checksum does not match current staged file"
       ],
       "decision": "blocked",
       "body_checksum": "09f739385e585028fed3030eb37c2b0736df1ce92bd283eab45589d793699995",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "09f739385e585028fed3030eb37c2b0736df1ce92bd283eab45589d793699995"
+        "status": "STALE",
+        "refresh_priority": "high",
+        "staged_body_checksum": "558ec38159428c5493f6db02378bdd24a7440bc06ab0310834cf154268566b8e"
       },
       "validation": {
         "V1": "PASS",
@@ -3277,11 +3277,11 @@
       ],
       "decision": "blocked",
       "body_checksum": "9eaac9a21fdc6df0d0040cea88e3cbeb192b2cd3416e1cc08f9fa8dabed3489a",
-      "staged_matches_dossier": true,
+      "staged_matches_dossier": false,
       "dossier_freshness": {
-        "status": "FRESH",
-        "refresh_priority": "none",
-        "staged_body_checksum": "9eaac9a21fdc6df0d0040cea88e3cbeb192b2cd3416e1cc08f9fa8dabed3489a"
+        "status": "STALE",
+        "refresh_priority": "low",
+        "staged_body_checksum": "01e82bf029510990cfeaeb91e88bec12fa0d471a326b69a61f6bc977b5dbeffb"
       },
       "validation": {
         "V1": "PASS",
@@ -3310,250 +3310,6 @@
         "structural_hint_count": 0,
         "schema_mismatch_count": 0
       }
-    },
-    {
-      "code": "1CO",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 436,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "1JN",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 105,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "1PE",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 2,
-      "staged_anchors": 106,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "1TH",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 0,
-      "staged_anchors": 89,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "1TI",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 113,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "2CO",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 257,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "2JN",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 0,
-      "staged_anchors": 13,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "2PE",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 61,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "2TH",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 0,
-      "staged_anchors": 47,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "2TI",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 83,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "3JN",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 15,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "ACT",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 1007,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "COL",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 2,
-      "staged_anchors": 95,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "EPH",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 155,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "GAL",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 149,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "HEB",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 303,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "JAS",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 0,
-      "staged_anchors": 108,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "JOH",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 3,
-      "staged_anchors": 882,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "JUD",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 25,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "LUK",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 3,
-      "staged_anchors": 1160,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "MAT",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 2,
-      "staged_anchors": 1087,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "MRK",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 3,
-      "staged_anchors": 690,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "PHM",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 0,
-      "staged_anchors": 25,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "PHP",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 104,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "REV",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 2,
-      "staged_anchors": 403,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "ROM",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 431,
-      "last_validated": "2026-03-12"
-    },
-    {
-      "code": "TIT",
-      "testament": "NT",
-      "status": "staged",
-      "staged_errors": 0,
-      "staged_warnings": 1,
-      "staged_anchors": 47,
-      "last_validated": "2026-03-12"
     }
-  ],
-  "last_updated": "2026-03-12"
+  ]
 }

@@ -1,0 +1,159 @@
+[
+  {
+    "task_id": "COP-001",
+    "title": "Promotion gate drift packet",
+    "owner": "photius",
+    "status": "completed",
+    "priority": 1,
+    "surfaces": [
+      "pipeline/promote/promote.py",
+      "pipeline/promote/gates.py",
+      "tests/test_promote_gate.py"
+    ],
+    "goal": "Produce an implementation-ready mismatch report for Ark without editing core promotion code.",
+    "deliverable": "Delivered in memos/99_structural_drift_evidence_packet.md with grouped findings, exact tests, and exact file references.",
+    "verification": [
+      "pytest tests/test_promote_gate.py -q"
+    ],
+    "constraints": [
+      "No edits in pipeline/promote/",
+      "Evidence packaging only"
+    ],
+    "next_owner": "ark"
+  },
+  {
+    "task_id": "COP-002",
+    "title": "Parser typed-record migration packet",
+    "owner": "photius",
+    "status": "completed",
+    "priority": 2,
+    "surfaces": [
+      "pipeline/parse/osb_extract.py",
+      "pipeline/common/types.py",
+      "tests/test_verse_split.py"
+    ],
+    "goal": "Map every dict-shaped assumption that blocks a clean typed-record parser contract.",
+    "deliverable": "Delivered in memos/99_structural_drift_evidence_packet.md as a line-referenced migration checklist grouped by record-access class.",
+    "verification": [
+      "pytest tests/test_verse_split.py -q"
+    ],
+    "constraints": [
+      "No edits in pipeline/parse/",
+      "Evidence packaging only"
+    ],
+    "next_owner": "ark"
+  },
+  {
+    "task_id": "COP-003",
+    "title": "Common-layer contract census",
+    "owner": "photius",
+    "status": "completed",
+    "priority": 3,
+    "surfaces": [
+      "pipeline/common/registry.py",
+      "pipeline/common/frontmatter.py",
+      "pipeline/common/text.py",
+      "pipeline/common/patterns.py",
+      "tests/test_common.py"
+    ],
+    "goal": "Separate stale tests from incomplete refactors and accidental regressions.",
+    "deliverable": "Delivered in memos/99_structural_drift_evidence_packet.md as a contract census covering current behavior, expected behavior, and recommended direction.",
+    "verification": [
+      "pytest tests/test_common.py -q"
+    ],
+    "constraints": [
+      "No core implementation changes",
+      "Classify each failure as stale_test, incomplete_refactor, or accidental_regression"
+    ],
+    "next_owner": "ark"
+  },
+  {
+    "task_id": "COP-004",
+    "title": "Execution queue compression",
+    "owner": "ezra",
+    "status": "completed",
+    "priority": 4,
+    "surfaces": [
+      "research/CODEX_PROJECT_DEEP_DIVE_20260312.md",
+      "research/CODEX_OPTIMIZATION_EXECUTION_PLAN_20260312.md",
+      "memos/ezra_ops_board.md"
+    ],
+    "goal": "Compress the evidence into one clean Ark-facing queue without changing core project policy.",
+    "deliverable": "Completed via the Codex execution plan, Ark handoff packet, and integrated task matrix.",
+    "verification": [
+      "Read deep-dive findings",
+      "Read Photius evidence outputs when ready"
+    ],
+    "constraints": [
+      "Do not create new human decision overload",
+      "Do not absorb Ark-owned implementation by default"
+    ],
+    "next_owner": "ark"
+  },
+  {
+    "task_id": "COP-005",
+    "title": "Promotion gate repair",
+    "owner": "ark",
+    "status": "queued_for_tomorrow",
+    "priority": 5,
+    "surfaces": [
+      "pipeline/promote/promote.py",
+      "pipeline/promote/gates.py",
+      "tests/test_promote_gate.py"
+    ],
+    "goal": "Make the live promote path match the documented gate contract and restore dossier evidence completeness.",
+    "deliverable": "Passing promote-gate tests and a durable memo describing the repair.",
+    "verification": [
+      "pytest tests/test_promote_gate.py -q"
+    ],
+    "constraints": [
+      "One core lane at a time"
+    ],
+    "next_owner": "ezra"
+  },
+  {
+    "task_id": "COP-006",
+    "title": "Parser typed-record repair",
+    "owner": "ark",
+    "status": "queued_for_tomorrow",
+    "priority": 6,
+    "surfaces": [
+      "pipeline/parse/osb_extract.py",
+      "pipeline/common/types.py",
+      "tests/test_verse_split.py"
+    ],
+    "goal": "Complete the parser's migration to one stable record contract.",
+    "deliverable": "Passing verse-split tests and stable marker trace serialization.",
+    "verification": [
+      "pytest tests/test_verse_split.py -q"
+    ],
+    "constraints": [
+      "Start only after promotion lane is closed or explicitly paused"
+    ],
+    "next_owner": "ezra"
+  },
+  {
+    "task_id": "COP-007",
+    "title": "Common-layer compatibility cleanup",
+    "owner": "ark",
+    "status": "queued_for_tomorrow",
+    "priority": 7,
+    "surfaces": [
+      "pipeline/common/registry.py",
+      "pipeline/common/frontmatter.py",
+      "pipeline/common/text.py",
+      "pipeline/common/patterns.py",
+      "tests/test_common.py"
+    ],
+    "goal": "Reconcile helper APIs and their tests in one compatibility pass.",
+    "deliverable": "Passing common-layer tests and a clarified helper contract.",
+    "verification": [
+      "pytest tests/test_common.py -q",
+      "pytest -q"
+    ],
+    "constraints": [
+      "Run after promotion and parser lanes"
+    ],
+    "next_owner": "ezra"
+  }
+]

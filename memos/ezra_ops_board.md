@@ -1,6 +1,6 @@
 # Ezra Ops Board
 
-Last updated: `2026-03-11`  
+Last updated: `2026-03-12`  
 Live state source: `reports/book_status_dashboard.json`
 
 ## Working Agreements
@@ -14,29 +14,32 @@ Live state source: `reports/book_status_dashboard.json`
 ## Current Snapshot
 - Promoted: `49`
 - OT holdouts: `0`
-- Editorially clean OT holdouts: `0`
-- Promotion-ready books: `6`
+- Editorially clean books: `10`
+- Promotion-ready books: `2`
 - Extracting books: `15`
 - NT extraction has landed: `27` NT books are staged per `memos/77_nt_extraction_results.md`
-- Promoted dossiers are now fresh again after the canon verification pass.
+- Shared `promote.py` / common-layer / `osb_extract.py` contract repair is complete; `pytest -q` is green at `327 passed`.
+- Dashboard was refreshed on `2026-03-12`; only `2JN` and `3JN` remain `promotion_ready`.
+- Dossier freshness truth is now explicit: `74` dossiers are stale and `2` are fresh.
 - OT canon lock audit now has `0` structural errors and `18` warning-bearing books in `reports/canon_ot_structural_audit.json`.
 - The only remaining non-`V7` OT canon warning is `EST` (`V4`/`V10` around `EST.4:6`).
 - Canon-wide note markers (`†`, `ω`) have been removed from OT canon.
 - OT promotion is complete; route OT lock work from `reports/canon_ot_structural_audit.json` plus Memos `84`, `89`, and `91`, not from the older holdout packet chain.
-- Companion-layer census and Wave 1 NT transition are now complete enough to route from Memo `95`, not from the earlier provisional companion text.
+- NT companion extraction is now complete enough to route from Memos `103` and `104`, not from the earlier reset/pilot packet alone.
 
 ## Today’s Dispatch
 | lane | owner | status | artifact | blocker | next_action | done_when |
 |---|---|---|---|---|---|---|
-| OT Packet A checkpoint | Ezra | done | `memos/81_ot_packet_a_promotion_and_ezk_cleanup_checkpoint.md` | none | Keep `PRO` and `SIR` out of the active holdout lane; they are promoted now | Packet A is reflected in canon, dossiers, dashboard, and memo surfaces |
-| `JOB` final residual lane | Ezra | done | `memos/84_ot_closeout_complete_and_canon_hygiene_handoff.md` | none | Keep `JOB` out of the active holdout lane; it is promoted now | `JOB` is reflected in canon, dossier, dashboard, and memo surfaces |
-| `PSA` normalization and promotion | Ezra | done | `memos/83_psa_promotion_and_job_narrowed_residual_checkpoint.md` | none | Keep `PSA` out of the active holdout lane; it is promoted now | `PSA` is reflected in canon, dossier, dashboard, and memo surfaces |
-| NT stabilization | Ark | active | `memos/77_nt_extraction_results.md` | Raw NT extraction landed with severe instability in books like `MAT`, `HEB`, and `EPH` | Prioritize `V1` dedup, `EPH` recovery, and chapter-count / chapter-zero fixes | NT extraction output is structurally trustworthy enough for cleanup lanes |
+| Shared contract repair + state refresh | Ezra | done | `memos/98_contract_repair_and_state_refresh.md` | none | Route shared infra truth from Memo `98` plus evidence Memos `99` and `100` | Tests, dashboard, ops board, project board, and memo index agree |
+| Future-layer seed (Genesis) | Ezra | done | `memos/105_genesis_future_layer_seed.md` | none | Route future-layer substrate work from Memo `105`; keep graph/vector work downstream of it | One live canonical slice proves pericope + R1 + embedding contracts without canon mutation |
+| Reference alias authority | Ezra | done | `memos/106_reference_alias_authority_and_normalization_seed.md` | none | Route biblical reference normalization through the schema-backed alias registry; keep patristic passage resolution as a later lane | Biblical aliases are versioned and patristic alias growth no longer requires extractor constant churn |
+| NT scripture purity repair | Ark | active | `memos/103_nt_footnote_stabilization_and_structural_audit.md` | Footnote extraction is complete, but `JOH`, `LUK`, and `REV` contain scripture-side structural corruption that breaks note linkage | Repair `JOH.21`, remove `LUK.17:38`, and restore `REV.4:11` / marker integrity before any new NT promotion push | Source-derived NT footnotes align to structurally trustworthy staged scripture in the flagged books |
+| Promotion dossier freshness sweep | Ezra | active | `reports/book_status_dashboard.json` | `74` stale dossiers distort live queue truth if read as fresh readiness evidence | Keep the dashboard authoritative and package a bounded regeneration plan separately | Dossier freshness debt is explicit and no board surface overstates readiness |
 | OT canon lock follow-through | Ezra -> Human | active | `memos/91_ot_canon_lock_ratification_packet.md` | Human decision required for the `17`-book `V7` packet and `EST` disposition | Review Memo 91 and ratify or reject the packet | OT can be called `locked` or held with one explicit residual blocker |
 | Historical residual Packet A | Ezra -> Human | active | `memos/51_historical_residual_ratification_packet_a.md` | Still awaiting human decision | Keep `JDG`, `1SA`, and `2SA` isolated from OT closeout packets | Human sees no more than 3 open ratification asks at once |
-| Promoted OT staged/canon resync | Ezra | queued | `memos/89_ot_canon_lock_checkpoint.md` | The canon-first lock pass proved several promoted OT staged files are not safe as a bulk re-promotion base | Defer until Memo 91 is decided, then triage which promoted OT books can be safely resynced to canon | Canon lock status and staged-source-of-truth status are no longer conflated |
 | Repo cleanup program | Ezra | active | `memos/85_long_horizon_repo_cleanup_program.md` | OT sprint left a large untracked helper/memo/variant tail | Triage the tail into `adopt`, `archive`, `consolidate`, and `delete_later` classes without destructive cleanup on the live branch | Long-horizon repo debt is explicit and no longer hidden in `git status` |
-| NT companion extraction reset | Ezra | active | `memos/96_rom_nt_footnote_pilot_and_long_horizon_plan.md` | `ROM` pilot is complete, but Wave 1 replacement extraction has not started yet | Use `ROM` as the acceptance baseline and dispatch source-footnote replacement for `LUK`, `MAT`, `JOH`, `ACT`, and `REV` | Wave 1 placeholder footnote files are replaced by source-derived footnote files and the next NT wave is clearly ranked |
+| NT companion extraction completion | Photius | done | `memos/103_nt_footnote_stabilization_and_structural_audit.md` | none | Route NT companion truth from the full extraction set and keep marker mismatch as a secondary audit layer | All `27` NT `*_footnotes.md` files are source-derived and legacy NT `_notes.md` files are retired |
+| PSA marker repair | Ark | active | `memos/104_psa_footnote_extraction_report.md` | `PSA_footnotes.md` is now authoritative, but `PSA_footnote_markers.json` is systemically mislabeled (`PSA.0:*`) | Repair Psalm marker indexing without reopening footnote extraction | Psalm marker anchors reconcile against the stabilized 131-entry footnote file |
 
 ## Standards Track
 - Link syntax frozen: `[[GEN.1:1]]` — applies everywhere outside `canon/` (ADJ-2 closed)
@@ -69,29 +72,33 @@ Live state source: `reports/book_status_dashboard.json`
   - `JOB` no longer carries `V8` fragment-heading errors
   - the spell audit remains advisory (`905` suspects) and is not yet a lock blocker without curated confirmation
 - Long-horizon repo cleanup truth:
-  - `48` untracked memo files are currently outside the indexed historical/governing set
-  - `17` untracked cleanup scripts exist, many of them one-book or one-lane specialists
-  - `5` staged variant scripture files (`*_photius.md`, `SIR_flash.md`) remain in the OT tree and should not survive as steady-state artifacts
+  - `11` untracked memo files are currently outside the indexed historical/governing set
+  - `6` untracked cleanup scripts remain outside the governed tool tree
+  - untracked staged variant scripture files are now at `0`; the next cleanup target is loose root/helper drift, not parallel scripture artifacts
   - cleanup now needs explicit triage, not blind deletion
+- Memo-governance reconciliation is now explicit:
+  - evidence packets were renumbered to Memos `99`, `100`, and `101`
+  - active routing should no longer cite duplicate Memo `90`, `91`, or `94` identities
 - NT spot-audit findings:
-  - `2JN` validates cleanly and remains the current NT `promotion_ready` exemplar.
+  - `2JN` and `3JN` are the only current NT `promotion_ready` books after the dashboard freshness refresh.
   - `MAT` still has chapter-zero drift, chapter-count mismatch (`28` expected / `29` found), heavy `V3`, and embedded-verse failures.
   - `HEB` still has duplicate anchors, embedded verses, and `44` missing verses.
   - `EPH` remains the sharpest stabilization priority with chapter-zero drift, duplicate anchors, and a `50`-verse completeness gap.
 - Ark stays on NT stabilization by default; OT should only interrupt for parser/schema escalations or a ready promotion checkpoint.
-- Companion-layer dispatch has shifted from triage to extraction reset:
-  - Wave 1 (`LUK`, `MAT`, `JOH`, `ACT`, `REV`) is accepted as `article_only`
-  - legacy NT `_notes.md` files are now treated as article sources, not the primary source of NT footnotes
-  - NT real footnotes should come from the OSB footnote page ranges and the verse labels printed there
+- Companion-layer dispatch has shifted from reset to post-extraction purity:
+  - all `27` NT `*_footnotes.md` files are now source-derived from OSB footnote page ranges
+  - legacy NT `_notes.md` files are retired; surviving NT companion layers are `*_articles.md` plus `*_footnotes.md`
   - marker files remain secondary linkage metadata for later structured wikilink work
-  - `ROM` pilot now proves the extraction path is viable: `137` extracted entries, `112 / 130` marker-anchor overlap, one invalid shared anchor (`ROM.16:25`)
-  - next extraction step is Wave 1 replacement (`LUK`, `MAT`, `JOH`, `ACT`, `REV`), not a broader marker-repair pass
+  - `JOH`, `LUK`, and `REV` are now blocked by scripture purity drift, not by missing footnote text
+  - `PSA_footnotes.md` is complete at `131` entries; the remaining Psalm blocker is marker-index corruption, not missing notes
 
 ## Blockers To Watch
 - OT promotion is complete, but OT canon is not yet formally locked; use Memo 91 as the active decision packet and Memo 89 as the checkpoint behind it.
 - `EST.4:6` is the only live non-`V7` OT canon blocker.
 - Human has one bounded OT lock decision packet open in Memo 91.
-- Fresh promoted dossiers can hide real canon debt if they are read as “fully clean”; use Memo 80 plus Memo 89 for that distinction.
+- `74` stale dossiers mean readiness must be routed from the refreshed dashboard, not from older dossier assumptions.
+- `JOH`, `LUK`, and `REV` are not safe promotion candidates until scripture-side anchor structure is repaired to match extracted footnotes.
+- `PSA` footnotes are stable, but Psalm marker linkage remains broken until `PSA_footnote_markers.json` is repaired.
 - Promoted OT staged files are not currently safe as a wholesale re-promotion base; canon lock and staged resync must be tracked separately.
 - The ops board must be reconciled whenever OT state changes; stale dispatch is itself an operational bug.
 
@@ -108,17 +115,20 @@ Live state source: `reports/book_status_dashboard.json`
 - **Memo 88** — Ratified Phase 3 spec (supersedes both skeleton drafts). All five adjudications closed. Awaiting human ratification.
 - **Memo 86** — R1 anchor extraction pipeline. Seven Cowork tasks defined. Awaiting ratification of memo 88.
 - **Memo 87** — DuckDB citation graph + duckpgq risk register. Eight Cowork tasks defined. Depends on memo 86 output.
+- **Memo 105** — Genesis future-layer seed implemented. One real slice now proves the metadata substrate (`pericope_index` + narrow R1 + derived embedding document) without graph/vector work.
+- **Memo 106** — Reference alias authority implemented. Biblical reference normalization now routes through a versioned schema with a reserved patristic entity layer.
 - **Execution sequence:** Memo 86 tasks → Memo 87 tasks → Integration validation (memo 88 step 3).
 - **Research folder** fully cleaned and naming-convention-compliant as of 2026-03-11. Convention codified in `research/README.md`.
 
 ## Long-Horizon Queue
+- Promotion dossier freshness sweep for `74` stale books, with `2JN` / `3JN` left out of the regeneration lane
 - Promoted-canon freshness sweep after OT closeout, starting with `WIS`
 - Promoted-canon cleanup packet after OT closeout, starting with `JOS` and `JDG`
 - Helper-script consolidation and staged-variant retirement after current canon-hygiene packet
 - Historical residual packet (`JDG`, `1SA`, `2SA`) remains open but separate from the OT holdout lane
 - Phase 3 implementation: memo 86 → 87 → 88 integration (blocked on human ratification)
 - NT extraction is active under Ark
-- NT companion source-footnote replacement wave (`LUK`, `MAT`, `JOH`, `ACT`, `REV`) should follow the completed `ROM` pilot in Memo `96`
+- NT companion extraction is complete; the next NT lane is scripture purity repair in `JOH`, `LUK`, and `REV`
 
 ## Photius Handoff Outcomes
 - `accept` — evidence complete, scope allowed, verification clear

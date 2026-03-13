@@ -6,12 +6,12 @@
 **Scope:** `nt companion extraction / phase3 companion model`
 **Workstream:** `phase3-design`  
 **Phase:** `1`  
-**Supersedes:** `93, 94` in part  
+**Supersedes:** `94, 101` in part  
 **Superseded by:** `none`
 
 ## Context
-- Memo 93 established the companion normalization lane and confirmed that NT still sat on legacy `_notes.md`.
-- Photius repaired the companion census and recovered the OT baseline companion truth in Memo 94.
+- Earlier companion triage established the normalization lane and confirmed that NT still sat on legacy `_notes.md`; the placeholder draft that held that slot has since been de-numbered during memo-governance reconciliation.
+- Photius repaired the companion census and recovered the OT baseline companion truth in Memo 101.
 - Photius then completed NT Wave 1 companion splitting for `LUK`, `MAT`, `JOH`, `ACT`, and `REV`; all five proved to be `article_only`.
 - Human clarified the intended data model: the OSB footnote page ranges should be the primary source for NT footnote content, and marker hyperlinks can be reconciled later through the structured wikilink layer.
 
@@ -21,7 +21,7 @@
 - Separate article splitting from real footnote extraction so marker mismatch no longer blocks the next step.
 
 ## Files / Artifacts
-- `memos/93_companion_file_triage.md`
+- `memos/_draft_companion_file_triage.md`
 - `memos/94_nt_wave1_companion_split.md`
 - `pipeline/EXTRACTION_POLICY.md`
 - `schemas/anchor_registry.json`
