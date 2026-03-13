@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-03-13T21:46:04+00:00",
+  "status": "PASS",
+  "inputs": {
+    "dashboard": "reports/book_status_dashboard.json",
+    "project_board": "PROJECT_BOARD.md",
+    "ops_board": "memos/ezra_ops_board.md",
+    "memo_index": "memos/INDEX.md",
+    "phase3_memo": "memos/88_phase3_ratified_spec.md"
+  },
+  "dashboard_summary": {
+    "promoted": 76,
+    "fresh_dossiers": 76,
+    "stale_dossiers": 0
+  },
+  "checks": [
+    {
+      "name": "project_board_last_updated",
+      "status": "PASS",
+      "details": "board date is current"
+    },
+    {
+      "name": "Total promoted books",
+      "status": "PASS",
+      "details": "board matches 76"
+    },
+    {
+      "name": "Promoted books with stale dossiers",
+      "status": "PASS",
+      "details": "board matches 0"
+    },
+    {
+      "name": "Fresh promotion dossiers",
+      "status": "PASS",
+      "details": "board matches 76/76"
+    },
+    {
+      "name": "memo_index_phase3_status",
+      "status": "PASS",
+      "details": "memo index wording is consistent"
+    },
+    {
+      "name": "ops_board_phase3_status",
+      "status": "PASS",
+      "details": "ops board wording is consistent"
+    }
+  ]
+}

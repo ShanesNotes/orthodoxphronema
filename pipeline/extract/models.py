@@ -8,7 +8,7 @@ import json
 import re
 
 RE_ANCHOR_ID = re.compile(r"^[A-Z0-9]{2,4}\.\d+:\d+$")
-REFERENCE_TYPES = {"frozen", "bare"}
+REFERENCE_TYPES = {"frozen", "bare", "wikilink", "wikilink_range"}
 
 
 @dataclass(frozen=True)
@@ -21,6 +21,8 @@ class ReferenceRecord:
     context: str
 
     def validate(self) -> None:
+        if self.reference_type == "frozen":
+            object.__setattr__(self, "reference_type", "wikilink")
         if self.reference_type not in REFERENCE_TYPES:
             raise ValueError(f"invalid reference_type: {self.reference_type!r}")
         if self.line_number < 1:
@@ -40,4 +42,3 @@ class ReferenceRecord:
 
     def to_json(self) -> str:
         return json.dumps(self.to_dict(), ensure_ascii=True, sort_keys=True)
-

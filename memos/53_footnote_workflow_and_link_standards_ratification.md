@@ -53,9 +53,9 @@
 |---|---|---|
 | Notes frontmatter already supports separated article / footnote content types | `pass` | `schemas/notes_frontmatter.json` enum includes `article` and `footnotes` |
 | Historical staging already contains the split non-scripture artifacts | `pass` | `staging/validated/OT/GEN_articles.md`, `staging/validated/OT/GEN_footnotes.md`, parallel files across historical books |
-| Footnote extraction and verification tools already exist | `pass` | `pipeline/cleanup/extract_footnotes.py`, `pipeline/cleanup/refine_notes.py`, `pipeline/cleanup/verify_footnotes.py` |
+| Footnote extraction and verification tools already exist | `pass` | `pipeline/cleanup/extract_footnotes.py`, historical `pipeline/archive/historical_cleanup/legacy_companion/refine_notes.py`, `pipeline/cleanup/verify_footnotes.py` |
 | Long-horizon standards work was previously identified as safe to pull forward | `pass` | `memos/17_repo_maximization_triage.md` |
-| Legacy `_notes.md` assumptions still exist and need Ark review | `warn` | `pipeline/parse/osb_extract.py`, `pipeline/common/text.py`, `pipeline/tools/batch_validate.py`, `pipeline/cleanup/refine_notes.py` |
+| Legacy `_notes.md` assumptions still exist and need Ark review | `warn` | `pipeline/parse/osb_extract.py`, `pipeline/common/text.py`, `pipeline/tools/batch_validate.py`, historical `pipeline/archive/historical_cleanup/legacy_companion/refine_notes.py` |
 
 ## Open Questions
 - Ark should decide whether to update the remaining `_notes.md` assumptions in one bounded contract pass or support a temporary alias period.
@@ -69,7 +69,7 @@
 
 ## Handoff
 **To:** `ark`  
-**Ask:** `Review the remaining _notes.md assumptions in pipeline/parse/osb_extract.py, pipeline/common/text.py, pipeline/tools/batch_validate.py, and pipeline/cleanup/refine_notes.py, then decide whether to clear them in one bounded contract pass or keep a temporary alias period.`
+**Ask:** `Review the remaining _notes.md assumptions in pipeline/parse/osb_extract.py, pipeline/common/text.py, pipeline/tools/batch_validate.py, and the historical refine_notes workflow, then decide whether to clear them in one bounded contract pass or keep a temporary alias period.`
 
 ## Notes
 - This memo changes workflow and standards only; it does not expand backlink implementation, schema surfaces, or generated dashboard semantics.

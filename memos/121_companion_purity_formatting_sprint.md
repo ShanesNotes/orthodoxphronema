@@ -112,9 +112,9 @@ Phase 4b was added after Human directed that footnotes.md should be treated as a
 
 ### Ready for Phase 3
 The companion layer is now structurally clean and can support:
-- **Backlink generation** — `pipeline/graph/build_backlinks.py` can iterate marker anchors to build `metadata/anchor_backlinks/BOOK.CH-V.json` shards
-- **Citation graph** — marker anchors provide the verse-level edge set for the DuckDB graph (Memo 87)
-- **R1 extraction** — footnote content is the primary source for patristic reference extraction (Memo 86)
+- **R1 extraction** — footnote and article content are ready for outbound citation extraction into R1 JSONL records (Memo 86)
+- **Backlink generation** — `pipeline/graph/build_backlinks.py` consumes R1 JSONL citation records to build `metadata/anchor_backlinks/BOOK.CH-V.json` shards
+- **Citation graph** — DuckDB graph edges are regenerated from the backlink layer, not directly from marker inventories (Memo 87)
 
 ### Deferred Items (for Ezra to route)
 1. **Blank-line-interrupted prose** — OT/NT footnotes have single blank lines between continuation paragraphs (pdftotext line-break artifact). ~4,400 instances across 76 files. Low risk to collapse now that headers are properly split, but should be a separate commit with its own verification.

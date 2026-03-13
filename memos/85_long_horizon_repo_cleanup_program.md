@@ -76,8 +76,8 @@
 ### Lane 2: Adopt Reusable Helpers
 - Candidate helpers to retain as tracked repo tools:
   - `pipeline/cleanup/apply_purity_cleanup.py`
-  - `pipeline/cleanup/repair_truncations.py`
-  - `pipeline/cleanup/repair_verse_1.py`
+  - historical `pipeline/archive/historical_cleanup/pdf_repairs/repair_truncations.py`
+  - historical `pipeline/archive/historical_cleanup/pdf_repairs/repair_verse_1.py`
   - `pipeline/tools/spell_audit.py`
 - Requirement before adoption:
   - brief tests or at least explicit scope documentation

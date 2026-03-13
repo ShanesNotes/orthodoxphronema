@@ -1829,26 +1829,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "20f130bf8f69601bd3472bfb1fcceeb746f6fbbcd2ff53ba2d0d3226b98bc8c1",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "13fb3b519f41f85e4c88387a436570a3873a92b03281500be0c2c8d6a964b458",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "13fb3b519f41f85e4c88387a436570a3873a92b03281500be0c2c8d6a964b458"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1958,26 +1958,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "9094c7f29cbcec052e87e332afd24a84830ae8466eb3aa468d5702eab99f98b4",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "b0c2fb75c3fbfc6deb0fccfdfc5066155b1af587c1e5997e255028143c647277",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "b0c2fb75c3fbfc6deb0fccfdfc5066155b1af587c1e5997e255028143c647277"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
+        "V2": "WARN",
         "V3": "PASS",
-        "V4": "PASS",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,

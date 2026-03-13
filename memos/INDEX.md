@@ -2,7 +2,7 @@
 
 > **Last updated:** 2026-03-13
 > **Role:** Memo governance overlay
-> **Covers:** `189` memo files (`32` active, `~155` archived)
+> **Covers:** `36` top-level governance/memo files and `157` archived memo files
 > **See also:** `PROJECT_BOARD.md` for PM state and `memos/ezra_ops_board.md` for live dispatch
 
 ---
@@ -46,12 +46,15 @@ These memos define active policy, protocol, or default workflow. When they confl
 | `105_genesis_future_layer_seed.md` | Metadata substrate seed (prototype) |
 | `106_reference_alias_authority_and_normalization_seed.md` | Alias authority (foundation) |
 | `120_wikilink_rollout_seed_and_rev_batch.md` | Shared wikilink parser + first staged rewrite batch (`REV`) |
+| `122_wikilink_full_rollout.md` | Full staged companion wikilink normalization and Phase 3 artifact refresh |
 
 ## Active Operational
 
 | Memo | Workstream |
 |---|---|
 | `121_companion_purity_formatting_sprint.md` | Companion layer purity: 76/76 alignment, frontmatter, headers, schema |
+| `123_phase3_contract_reconciliation.md` | Marker-layer vs R1 Phase 3 handoff repair |
+| `124_cleanup_tail_taxonomy_and_archive.md` | Cleanup namespace narrowed to active reusable tools; historical one-offs archived |
 | `98_contract_repair_and_state_refresh.md` | Shared contract repair truth |
 | `18_gen_readability_blocker_decision.md` | Readability policy |
 | `20_greek_source_text_acquisition.md` | Future: Greek source layer |
@@ -114,7 +117,7 @@ These memos define active policy, protocol, or default workflow. When they confl
 - Numbered memos remain the durable team record.
 - Do not reuse numeric prefixes for new memos.
 - Advisory and research artifacts never receive numbered memo prefixes.
-- Next available memo number: `121`
+- Next available memo number: `125`
 
 ### Metadata For New Memos
 ```text
