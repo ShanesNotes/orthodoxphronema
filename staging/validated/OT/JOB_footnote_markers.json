@@ -1,8 +1,486 @@
 {
   "book_code": "JOB",
-  "reindex_date": "2026-03-10",
-  "marker_count": 1,
+  "reindex_date": "2026-03-13",
+  "marker_count": 68,
   "markers": [
+    {
+      "marker": "unknown",
+      "anchor": "JOB.1:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.1:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.1:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.1:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 4,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.1:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.1:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 6,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.1:22",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 7,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.22:2",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 8,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.26:25",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 9,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.27:40",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 10,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.28:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 11,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.29:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 12,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.29:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 13,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.29:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 14,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.29:17",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 15,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.29:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 16,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.29:20",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 17,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.30:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 18,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.30:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 19,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.30:25",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 20,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.31:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 21,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.31:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 22,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.31:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 23,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.31:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 24,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.31:25",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 25,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.32:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 26,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.33:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 27,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.33:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 28,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.33:31",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 29,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.34:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 30,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.34:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 31,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.34:37",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 32,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.35:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 33,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.36:22",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 34,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.37:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 35,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.37:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 36,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.37:9",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 37,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.38:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 38,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.38:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 39,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.38:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 40,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.38:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 41,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.38:14",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 42,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.38:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 43,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.38:32",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 44,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.38:36",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 45,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.38:38",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 46,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.39:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 47,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.39:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 48,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.39:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 49,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.40:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 50,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.40:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 51,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.40:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 52,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.40:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 53,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.40:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 54,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.40:23",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 55,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.40:24",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 56,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.40:27",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 57,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.40:29",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 58,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.41:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 59,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.41:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 60,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.41:24",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 61,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.42:4",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 62,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.42:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 63,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.42:6",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 64,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.42:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 65,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.42:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 66,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.42:13",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 67,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "JOB.42:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 68,
+      "source": "reindexed_from_footnotes_md"
+    }
+  ],
+  "original_markers": [
     {
       "marker": "†",
       "anchor": "JOB.8:37",
