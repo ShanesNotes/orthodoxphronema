@@ -12,15 +12,16 @@ Live state source: `reports/book_status_dashboard.json`
 - Ezra operates as strategic lead: route first, code second, and absorb at most one high-leverage engineering lane when direct action is safer or faster than delegation.
 
 ## Current Snapshot
-- Promoted: `64`
+- Promoted: `76` (all books)
 - OT holdouts: `0`
 - Editorially clean books: `0`
 - Promotion-ready books: `0`
 - Extracting books: `12`
 - NT extraction has landed: `27` NT books are staged per `memos/77_nt_extraction_results.md`
 - Shared `promote.py` / common-layer / `osb_extract.py` contract repair is complete; `pytest -q` is green at `327 passed`.
-- Dashboard was refreshed on `2026-03-13`; `2JN`, `3JN`, `1TH`, `2TH`, `2TI`, `1JN`, `JUD`, `PHM`, `TIT`, `2PE`, `1TI`, `JAS`, `EPH`, `2CO`, and `HEB` are now promoted into `canon/NT/`.
-- Dossier freshness truth is now explicit: `61` dossiers are stale and `15` are fresh.
+- Dashboard was refreshed on `2026-03-13`; all `27` NT books and all `49` OT books are now promoted.
+- Dossier freshness: `76/76` fresh, `0` stale (sweep completed `2026-03-13`).
+- Legacy sidecar normalization fix applied to `promote.py` for ISA/LAM bare-list sidecars.
 - OT canon lock audit now has `0` structural errors and `18` warning-bearing books in `reports/canon_ot_structural_audit.json`.
 - The only remaining non-`V7` OT canon warning is `EST` (`V4`/`V10` around `EST.4:6`).
 - Canon-wide note markers (`†`, `ω`) have been removed from OT canon.
@@ -43,12 +44,12 @@ Live state source: `reports/book_status_dashboard.json`
 | NT final editorial queue closeout (`2PE`, `1TI`, `JAS`) | Ark | done | `memos/116_nt_final_editorial_queue_closeout.md` | none | Treat the NT editorial queue as closed and reroute NT work away from promotion rescue | `2PE`, `1TI`, and `JAS` exist in `canon/NT/`, their dossiers are fresh, and the dashboard shows no remaining `editorially_clean` books |
 | NT extracting tranche A checkpoint (`EPH`, `GAL`, `PHP`) | Ark | active | `memos/117_nt_extracting_tranche_a_eph_promoted_gal_held.md` | `GAL` is blocked only by a detector false positive at `GAL.5:24`, while `PHP` is blocked by registry-versification drift rather than local scripture residue | Keep `EPH` closed, route `GAL` as a small policy/heuristic follow-up, and keep `PHP` out of the local cleanup lane | The tranche-A residuals are either promoted or explicitly reclassified away from scripture surgery |
 | NT extracting tranche B promotions and phase C holds (`2CO`, `HEB`) | Ark | done | `memos/118_nt_extracting_tranche_b_promotions_and_phase_c_holds.md` | none | Treat `2CO` and `HEB` as closed promotions and route `ROM`, `1CO`, `ACT`, and `REV` as broader holds rather than quick promote books | `2CO` and `HEB` exist in `canon/NT/`, their dossiers are fresh, and the remaining extracting queue is explicitly reclassified |
-| Promotion dossier freshness sweep | Ezra | active | `reports/book_status_dashboard.json` | `61` stale dossiers still distort most of the corpus if read as fresh readiness evidence | Keep the dashboard authoritative and package a bounded regeneration plan separately | Dossier freshness debt is explicit and no board surface overstates readiness |
+| Promotion dossier freshness sweep | Ark | done | `reports/book_status_dashboard.json` | none | Dossier freshness is now `76/76`; legacy sidecar normalization fix landed for ISA/LAM | All `76` dossiers are fresh and dashboard is regenerated |
 | OT canon lock follow-through | Ezra -> Human | active | `memos/91_ot_canon_lock_ratification_packet.md` | Human decision required for the `17`-book `V7` packet and `EST` disposition | Review Memo 91 and ratify or reject the packet | OT can be called `locked` or held with one explicit residual blocker |
 | Historical residual Packet A | Ezra -> Human | active | `memos/51_historical_residual_ratification_packet_a.md` | Still awaiting human decision | Keep `JDG`, `1SA`, and `2SA` isolated from OT closeout packets | Human sees no more than 3 open ratification asks at once |
-| Repo cleanup program | Ezra | active | `memos/85_long_horizon_repo_cleanup_program.md` | OT sprint left a large untracked helper/memo/variant tail | Triage the tail into `adopt`, `archive`, `consolidate`, and `delete_later` classes without destructive cleanup on the live branch | Long-horizon repo debt is explicit and no longer hidden in `git status` |
+| Repo cleanup program | Ark | done | `memos/85_long_horizon_repo_cleanup_program.md` | none | No untracked files remain as of `2026-03-13`; the untracked tail described in Memo 85 has been resolved | `git status -u` shows no untracked files |
 | NT companion extraction completion | Photius | done | `memos/103_nt_footnote_stabilization_and_structural_audit.md` | none | Route NT companion truth from the full extraction set and keep marker mismatch as a secondary audit layer | All `27` NT `*_footnotes.md` files are source-derived and legacy NT `_notes.md` files are retired |
-| PSA marker repair | Ark | active | `memos/108_nt_purity_patch_and_psa_marker_triage.md` | Psalm markers are not a local typo set; `73` raw markers currently collapse to `3` effective anchors with one invalid `PSA.0:7` | Open a dedicated marker-index repair lane instead of hand-editing the Psalm sidecar blindly | Psalm marker anchors reconcile against the stabilized 131-entry footnote file |
+| PSA marker repair | Ark | done | `staging/validated/OT/PSA_footnote_markers.json` | none | Rebuilt `131` anchors from `PSA_footnotes.md`; marker types set to `unknown` pending Phase 3 recovery; original raw markers preserved as audit trail | `verify_footnotes.py --book PSA` passes cleanly |
 
 ## Standards Track
 - Link syntax frozen: `[[GEN.1:1]]` — applies everywhere outside `canon/` (ADJ-2 closed)
@@ -80,11 +81,7 @@ Live state source: `reports/book_status_dashboard.json`
   - `1MA`, `2MA`, `HAB`, and `LJE` no longer carry `V8` heading-density warnings
   - `JOB` no longer carries `V8` fragment-heading errors
   - the spell audit remains advisory (`905` suspects) and is not yet a lock blocker without curated confirmation
-- Long-horizon repo cleanup truth:
-  - `11` untracked memo files are currently outside the indexed historical/governing set
-  - `6` untracked cleanup scripts remain outside the governed tool tree
-  - untracked staged variant scripture files are now at `0`; the next cleanup target is loose root/helper drift, not parallel scripture artifacts
-  - cleanup now needs explicit triage, not blind deletion
+- Long-horizon repo cleanup: resolved. No untracked files remain as of `2026-03-13`.
 - Memo-governance reconciliation is now explicit:
   - evidence packets were renumbered to Memos `99`, `100`, and `101`
   - active routing should no longer cite duplicate Memo `90`, `91`, or `94` identities
@@ -126,9 +123,9 @@ Live state source: `reports/book_status_dashboard.json`
 - OT promotion is complete, but OT canon is not yet formally locked; use Memo 91 as the active decision packet and Memo 89 as the checkpoint behind it.
 - `EST.4:6` is the only live non-`V7` OT canon blocker.
 - Human has one bounded OT lock decision packet open in Memo 91.
-- `61` stale dossiers mean readiness must be routed from the refreshed dashboard, not from older dossier assumptions.
+- Dossier freshness is resolved (`76/76` fresh); readiness can now be routed from dossiers directly.
 - The current NT promote gate remains broader than purity readiness in general, but the former second-tranche fused-word blocker has been cleared and promoted.
-- `PSA` footnotes are stable, but Psalm marker linkage remains broken until `PSA_footnote_markers.json` is repaired.
+- `PSA` footnotes and markers are now reconciled (`131` anchors); marker type recovery deferred to Phase 3.
 - Promoted OT staged files are not currently safe as a wholesale re-promotion base; canon lock and staged resync must be tracked separately.
 - The ops board must be reconciled whenever OT state changes; stale dispatch is itself an operational bug.
 
@@ -151,14 +148,13 @@ Live state source: `reports/book_status_dashboard.json`
 - **Research folder** fully cleaned and naming-convention-compliant as of 2026-03-11. Convention codified in `research/README.md`.
 
 ## Long-Horizon Queue
-- Promotion dossier freshness sweep for `61` stale books; `2JN`, `3JN`, `1TH`, `2TH`, `2TI`, `1JN`, `JUD`, `PHM`, `TIT`, `2PE`, `1TI`, `JAS`, `EPH`, `2CO`, and `HEB` are already fresh and promoted
 - Promoted-canon freshness sweep after OT closeout, starting with `WIS`
 - Promoted-canon cleanup packet after OT closeout, starting with `JOS` and `JDG`
-- Helper-script consolidation and staged-variant retirement after current canon-hygiene packet
 - Historical residual packet (`JDG`, `1SA`, `2SA`) remains open but separate from the OT holdout lane
 - Phase 3 implementation: memo 86 → 87 → 88 integration (blocked on human ratification)
 - NT extraction is complete; the next NT lane should route from the remaining extracting set and broader structural debt, not the former editorial queue
 - NT companion extraction is complete; the promotion-rescue queue is now closed
+- PSA marker type recovery (†/ω) deferred to Phase 3
 
 ## Photius Handoff Outcomes
 - `accept` — evidence complete, scope allowed, verification clear
