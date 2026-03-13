@@ -1120,12 +1120,11 @@ LUK.17:33 Whoever seeks to save his life will lose it, and whoever loses his lif
 LUK.17:34 I tell you, in that night there will be two men in one bed: the one will be taken and the other will be left.
 LUK.17:35 Two women will be grinding together: the one will be taken and the other left.
 LUK.17:36 Two men will be in the field: the one will be taken and the other left.' a
-LUK.17:37 And they answered and said to Him, 'Where, Lord?'
+LUK.17:37 And they answered and said to Him, 'Where, Lord?' So He said to them, 'Wherever the body is, there the eagles will be gathered together.'
+
+## Chapter 18
 
 ### The Tenacious Widow
-
-LUK.17:38 So He said to them, 'Wherever the body is, there the eagles will be gathered together.'
-## Chapter 18
 
 LUK.18:1 Then He spoke aparable to them, that men always ought to pray and not lose heart,
 LUK.18:2 saying: 'There was in acertain city ajudge who did not fear God nor regard man.

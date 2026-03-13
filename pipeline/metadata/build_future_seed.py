@@ -28,8 +28,12 @@ GENERATOR_VERSION = "future-seed-v1"
 RE_FOOTNOTE_ANCHOR = re.compile(r"^\*\(anchor:\s*([A-Z0-9]+\.\d+:\d+)\)\*\s*$")
 
 
-def _now_iso() -> str:
-    return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+def _source_timestamp_iso(*paths: Path) -> str:
+    existing = [path for path in paths if path.exists()]
+    if not existing:
+        return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    latest_mtime = max(path.stat().st_mtime for path in existing)
+    return datetime.fromtimestamp(latest_mtime, timezone.utc).replace(microsecond=0).isoformat()
 
 
 def _relative_path(path: Path) -> str:
@@ -173,6 +177,7 @@ def build_embedding_document(
     articles_path: Path,
     extracted_records: list,
 ) -> dict:
+    generated_at = _source_timestamp_iso(canon_path, footnotes_path, articles_path)
     note_blocks = parse_footnotes(footnotes_path)
     footnotes_source_file = _relative_path(footnotes_path)
     in_range_notes = [
@@ -213,7 +218,7 @@ def build_embedding_document(
             ],
             "anchor_range": [start_anchor, end_anchor],
             "generator_version": GENERATOR_VERSION,
-            "generated_at": _now_iso(),
+            "generated_at": generated_at,
             "git_commit_hash": _git_commit_hash(),
             "source_dates": {
                 "canon_parse_date": canon_fm.get("parse_date"),
@@ -234,6 +239,7 @@ def enrich_pericope_payload(
     articles_path: Path,
     extracted_records: list,
 ) -> dict:
+    generated_at = _source_timestamp_iso(footnotes_path, articles_path)
     enriched = deepcopy(payload)
     note_blocks = parse_footnotes(footnotes_path)
     footnotes_source_file = _relative_path(footnotes_path)
@@ -269,7 +275,7 @@ def enrich_pericope_payload(
             ],
             "anchor_range": [start_anchor, end_anchor],
             "generator_version": GENERATOR_VERSION,
-            "generated_at": _now_iso(),
+            "generated_at": generated_at,
             "git_commit_hash": _git_commit_hash(),
         }
         break

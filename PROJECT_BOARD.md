@@ -40,7 +40,7 @@ Build a durable, local-first, versioned Orthodox textual archive. Start with a p
 
 | Item | Owner | Phase | Status | Blocker |
 |---|---|---|---|---|
-| NT scripture purity repair | Ark | 4 | Active | `JOH`, `LUK`, and `REV` now lead the lane because source-derived footnotes exposed scripture-side structural corruption |
+| NT scripture warning reduction | Ark | 4 | Active | `JOH`, `LUK`, and `REV` have been patched; the next warning-heavy priorities are back in `EPH`, `MAT`, and `HEB` |
 | Promotion dossier freshness sweep | Ezra | 2 | Active | `74` stale dossiers now suppress truthful `promotion_ready` counts; only `2JN` and `3JN` remain fresh |
 | OT canon lock follow-through | Ezra | 2 | Active | `EST.4:6` remains the only non-`V7` OT canon blocker; promoted OT staged files need separate resync planning |
 | `WIS` canon hygiene + staged/editorial resync | Ezra | 2 | Queued behind OT lock closeout | Canon is clean, but staged/editorial surfaces still need reconciliation |
@@ -75,6 +75,7 @@ Build a durable, local-first, versioned Orthodox textual archive. Start with a p
 | Reference alias authority and normalization seed | 2026-03-12 | `memos/106_reference_alias_authority_and_normalization_seed.md` |
 | NT companion extraction stabilization audit | 2026-03-12 | `memos/103_nt_footnote_stabilization_and_structural_audit.md` |
 | PSA footnote extraction refresh | 2026-03-12 | `memos/104_psa_footnote_extraction_report.md` |
+| NT purity patch and PSA marker triage | 2026-03-12 | `memos/108_nt_purity_patch_and_psa_marker_triage.md` |
 
 ## Release Train
 

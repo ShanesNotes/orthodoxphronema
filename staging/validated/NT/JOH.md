@@ -1159,28 +1159,20 @@ JOH.21:13 Jesus then came and took the bread and gave it to them, and likewise t
 ### Jesus Restores and Commissions Peter
 
 JOH.21:14 This is now the third time Jesus showed Himself to His disciples after He was raised from the dead.
-JOH.21:15 So when they had eaten breakfast, Jesus said to Simon Peter, 'Simon, son of Jonah, ado you love Me more than these?'
-JOH.21:16 He said to him again asecond time, 'Simon, son of Jonah, ado you love Me?' He said to Him, 'Yes, Lord; You know that I love You.'
-JOH.21:17 He said to him the third time, 'Simon, son of Jonah, ado you love Me?' Peter was grieved because He said to him the third time, 'Do you love Me?' He said to Him, 'Yes, Lord; You know that I love You.' He said to him, 'Feed My lambs.'
+JOH.21:15 So when they had eaten breakfast, Jesus said to Simon Peter, 'Simon, son of Jonah, ado you love Me more than these?' He said to Him, 'Yes, Lord; You know that I love You.' He said to him, 'Feed My lambs.'
+JOH.21:16 He said to him again asecond time, 'Simon, son of Jonah, ado you love Me?' He said to Him, 'Yes, Lord; You know that I love You.' He said to him, 'Tend My sheep.'
+JOH.21:17 He said to him the third time, 'Simon, son of Jonah, ado you love Me?' Peter was grieved because He said to him the third time, 'Do you love Me?' He said to Him, 'Yes, Lord; You know all things; You know that I love You.' Jesus said to him, 'Feed My sheep.'
 
 ### The Beloved Disciple and His Book
 
-JOH.21:18 Most assuredly, I say to you, when you were younger, you girded yourself and walked where you wished; but when you are old, you will stretch out your hands, and another will gird you and carry you where you do not wish.' And he said to Him, 'Lord, You know all things; You know that I love You.' He said to him, 'Tend My sheep.'
+JOH.21:18 Most assuredly, I say to you, when you were younger, you girded yourself and walked where you wished; but when you are old, you will stretch out your hands, and another will gird you and carry you where you do not wish.'
 
 ### The Beloved Disciple and His Book
 
-JOH.21:19 This He spoke, signifying by what death he would glorify God. And when He had spoken this, He said to him, 'Follow Me.' Jesus said to him, 'Feed My sheep.
+JOH.21:19 This He spoke, signifying by what death he would glorify God. And when He had spoken this, He said to him, 'Follow Me.'
 JOH.21:20 Then Peter, turning around, saw the disciple whom Jesus loved following, who also had leaned on His breast at the supper, and said, 'Lord, who is the one who betrays You?'
 JOH.21:21 Peter, seeing him, said to Jesus, 'But Lord, what about this man?'
-## Chapter 22
-
-JOH.22:1 Jesus said to him, 'If I will that he remain till I come, what is that to you? You follow Me.'
-## Chapter 23
-
-JOH.23:1 Then this saying went out among the brethren that this disciple would not die. Yet Jesus did not say to him that he would not die, but, 'If I will that he remain till I come, what is that to you?'
-## Chapter 24
-
-JOH.24:1 This is the disciple who testifies of these things, and wrote these things; and we know that his testimony is true.
-## Chapter 25
-
-JOH.25:1 And there are also many other things that Jesus did, which if they were written one by one, I suppose that even the world itself could not contain the books that would be written. Amen.
+JOH.21:22 Jesus said to him, 'If I will that he remain till I come, what is that to you? You follow Me.'
+JOH.21:23 Then this saying went out among the brethren that this disciple would not die. Yet Jesus did not say to him that he would not die, but, 'If I will that he remain till I come, what is that to you?'
+JOH.21:24 This is the disciple who testifies of these things, and wrote these things; and we know that his testimony is true.
+JOH.21:25 And there are also many other things that Jesus did, which if they were written one by one, I suppose that even the world itself could not contain the books that would be written. Amen.

@@ -109,7 +109,9 @@ def extract_pericopes(path: Path) -> dict:
         "book_code": book_code,
         "pericopes": pericopes,
         "generated_from": generated_from,
-        "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
+        "generated_at": datetime.fromtimestamp(
+            path.stat().st_mtime, timezone.utc
+        ).replace(microsecond=0).isoformat(),
     }
 
 

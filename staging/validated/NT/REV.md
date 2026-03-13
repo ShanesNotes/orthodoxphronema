@@ -130,7 +130,8 @@ REV.4:9 Whenever the living creatures give glory and honor and thanks to Him who
 
 ### The Lamb Opens the Scroll
 
-REV.4:10 the twenty-four elders fall down before Him who sits on the throne and worship Him who lives forever and ever, and cast their crowns before the throne, saying: And by Your will they exist b and were created.' †
+REV.4:10 the twenty-four elders fall down before Him who sits on the throne and worship Him who lives forever and ever, and cast their crowns before the throne,
+REV.4:11 saying: And by Your will they exist b and were created.' †
 ## Chapter 5
 
 REV.5:1 And I saw in the right hand of Him who sat on the throne ascroll written inside and on the back, sealed with seven seals.

@@ -33,13 +33,13 @@ Live state source: `reports/book_status_dashboard.json`
 | Shared contract repair + state refresh | Ezra | done | `memos/98_contract_repair_and_state_refresh.md` | none | Route shared infra truth from Memo `98` plus evidence Memos `99` and `100` | Tests, dashboard, ops board, project board, and memo index agree |
 | Future-layer seed (Genesis) | Ezra | done | `memos/105_genesis_future_layer_seed.md` | none | Route future-layer substrate work from Memo `105`; keep graph/vector work downstream of it | One live canonical slice proves pericope + R1 + embedding contracts without canon mutation |
 | Reference alias authority | Ezra | done | `memos/106_reference_alias_authority_and_normalization_seed.md` | none | Route biblical reference normalization through the schema-backed alias registry; keep patristic passage resolution as a later lane | Biblical aliases are versioned and patristic alias growth no longer requires extractor constant churn |
-| NT scripture purity repair | Ark | active | `memos/103_nt_footnote_stabilization_and_structural_audit.md` | Footnote extraction is complete, but `JOH`, `LUK`, and `REV` contain scripture-side structural corruption that breaks note linkage | Repair `JOH.21`, remove `LUK.17:38`, and restore `REV.4:11` / marker integrity before any new NT promotion push | Source-derived NT footnotes align to structurally trustworthy staged scripture in the flagged books |
+| NT scripture purity repair | Ezra | done | `memos/108_nt_purity_patch_and_psa_marker_triage.md` | none | Route the next NT lane away from the repaired `JOH` / `LUK` / `REV` blockers and back to the wider warning set (`EPH`, `MAT`, `HEB`) | The local companion-breaking defects in `JOH`, `LUK`, and `REV` are closed |
 | Promotion dossier freshness sweep | Ezra | active | `reports/book_status_dashboard.json` | `74` stale dossiers distort live queue truth if read as fresh readiness evidence | Keep the dashboard authoritative and package a bounded regeneration plan separately | Dossier freshness debt is explicit and no board surface overstates readiness |
 | OT canon lock follow-through | Ezra -> Human | active | `memos/91_ot_canon_lock_ratification_packet.md` | Human decision required for the `17`-book `V7` packet and `EST` disposition | Review Memo 91 and ratify or reject the packet | OT can be called `locked` or held with one explicit residual blocker |
 | Historical residual Packet A | Ezra -> Human | active | `memos/51_historical_residual_ratification_packet_a.md` | Still awaiting human decision | Keep `JDG`, `1SA`, and `2SA` isolated from OT closeout packets | Human sees no more than 3 open ratification asks at once |
 | Repo cleanup program | Ezra | active | `memos/85_long_horizon_repo_cleanup_program.md` | OT sprint left a large untracked helper/memo/variant tail | Triage the tail into `adopt`, `archive`, `consolidate`, and `delete_later` classes without destructive cleanup on the live branch | Long-horizon repo debt is explicit and no longer hidden in `git status` |
 | NT companion extraction completion | Photius | done | `memos/103_nt_footnote_stabilization_and_structural_audit.md` | none | Route NT companion truth from the full extraction set and keep marker mismatch as a secondary audit layer | All `27` NT `*_footnotes.md` files are source-derived and legacy NT `_notes.md` files are retired |
-| PSA marker repair | Ark | active | `memos/104_psa_footnote_extraction_report.md` | `PSA_footnotes.md` is now authoritative, but `PSA_footnote_markers.json` is systemically mislabeled (`PSA.0:*`) | Repair Psalm marker indexing without reopening footnote extraction | Psalm marker anchors reconcile against the stabilized 131-entry footnote file |
+| PSA marker repair | Ark | active | `memos/108_nt_purity_patch_and_psa_marker_triage.md` | Psalm markers are not a local typo set; `73` raw markers currently collapse to `3` effective anchors with one invalid `PSA.0:7` | Open a dedicated marker-index repair lane instead of hand-editing the Psalm sidecar blindly | Psalm marker anchors reconcile against the stabilized 131-entry footnote file |
 
 ## Standards Track
 - Link syntax frozen: `[[GEN.1:1]]` — applies everywhere outside `canon/` (ADJ-2 closed)
@@ -89,7 +89,7 @@ Live state source: `reports/book_status_dashboard.json`
   - all `27` NT `*_footnotes.md` files are now source-derived from OSB footnote page ranges
   - legacy NT `_notes.md` files are retired; surviving NT companion layers are `*_articles.md` plus `*_footnotes.md`
   - marker files remain secondary linkage metadata for later structured wikilink work
-  - `JOH`, `LUK`, and `REV` are now blocked by scripture purity drift, not by missing footnote text
+  - `JOH`, `LUK`, and `REV` were repaired in Memo `108`; the next NT purity pass should return to the wider warning set
   - `PSA_footnotes.md` is complete at `131` entries; the remaining Psalm blocker is marker-index corruption, not missing notes
 
 ## Blockers To Watch
@@ -97,7 +97,6 @@ Live state source: `reports/book_status_dashboard.json`
 - `EST.4:6` is the only live non-`V7` OT canon blocker.
 - Human has one bounded OT lock decision packet open in Memo 91.
 - `74` stale dossiers mean readiness must be routed from the refreshed dashboard, not from older dossier assumptions.
-- `JOH`, `LUK`, and `REV` are not safe promotion candidates until scripture-side anchor structure is repaired to match extracted footnotes.
 - `PSA` footnotes are stable, but Psalm marker linkage remains broken until `PSA_footnote_markers.json` is repaired.
 - Promoted OT staged files are not currently safe as a wholesale re-promotion base; canon lock and staged resync must be tracked separately.
 - The ops board must be reconciled whenever OT state changes; stale dispatch is itself an operational bug.
