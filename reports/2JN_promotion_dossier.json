@@ -1,10 +1,18 @@
 {
   "book_code": "2JN",
   "testament": "NT",
-  "timestamp": "2026-03-11T16:39:42.459575",
-  "registry_version": "1.3.0",
+  "timestamp": "2026-03-12T22:15:49.714686",
+  "registry_version": "1.4.0",
   "body_checksum": "d5a0eb97b34184cda9b4f3503a170ac44d1afacfe325826d529bc68cc74efd38",
+  "allow_incomplete": false,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/2JN.md",
+  "residuals_path": null,
+  "editorial_candidates_path": null,
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
@@ -25,10 +33,6 @@
       "status": "PASS",
       "messages": []
     },
-    "V6": {
-      "status": "PASS",
-      "messages": []
-    },
     "V7": {
       "status": "PASS",
       "messages": []
@@ -38,6 +42,18 @@
       "messages": []
     },
     "V9": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V10": {
+      "status": "SKIP",
+      "messages": []
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
       "status": "PASS",
       "messages": []
     }

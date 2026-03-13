@@ -127,7 +127,7 @@ Live state source: `reports/book_status_dashboard.json`
 - Historical residual packet (`JDG`, `1SA`, `2SA`) remains open but separate from the OT holdout lane
 - Phase 3 implementation: memo 86 → 87 → 88 integration (blocked on human ratification)
 - NT extraction is active under Ark
-- NT companion extraction is complete; the next NT lane is scripture purity repair in `JOH`, `LUK`, and `REV`
+- NT companion extraction is complete; the next NT lane is wider warning reduction in `EPH`, `MAT`, and `HEB`
 
 ## Photius Handoff Outcomes
 - `accept` — evidence complete, scope allowed, verification clear

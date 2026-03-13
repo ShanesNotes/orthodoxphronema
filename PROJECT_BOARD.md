@@ -125,7 +125,7 @@ Build a durable, local-first, versioned Orthodox textual archive. Start with a p
 
 **ADJ-3 recommendation strengthened:** Every research artifact that addresses rollout strategy recommends pre-sharded from day one. The DuckDB regeneration script already assumes it. Monolithic start would require migration. Strong consensus for closing ADJ-3 as "pre-sharded."
 
-**Research artifacts:** `research/` (15 files). See `memos/INDEX.md` for full listing.
+**Research artifacts:** `research/` (30 files). See `memos/INDEX.md` for full listing.
 
 ## Metrics
 
@@ -141,8 +141,8 @@ Build a durable, local-first, versioned Orthodox textual archive. Start with a p
 | Extracting books | `15` |
 | Promoted books with stale dossiers | `74` |
 | High-priority post-lock reconciliation books | `WIS` |
-| Active memo files in `memos/` | `177` |
-| Research artifacts in `research/` | `27` |
+| Active memo files in `memos/` | `178` |
+| Research artifacts in `research/` | `30` |
 | Untracked memo files | `11` |
 | Untracked cleanup scripts | `6` |
 | Untracked staged variants | `0` |
