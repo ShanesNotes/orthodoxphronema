@@ -1,11 +1,11 @@
 ---
 book_code: DEU
-book_name: "Deuteronomy"
+book_name: Deuteronomy
 content_type: article
-source: "OSB-v1"
-parse_date: "2026-03-08"
+source: OSB-v1
+parse_date: '2026-03-08'
 promote_date: null
-status: staged
+status: staging
 canon_anchors_referenced: []
 ---
 

@@ -1,11 +1,11 @@
 ---
 book_code: JOS
-book_name: "Joshua"
+book_name: Joshua
 content_type: article
-source: "OSB-v1"
-parse_date: "2026-03-09"
+source: OSB-v1
+parse_date: '2026-03-09'
 promote_date: null
-status: staged
+status: staging
 canon_anchors_referenced: []
 ---
 

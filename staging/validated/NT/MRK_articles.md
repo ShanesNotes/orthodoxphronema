@@ -1,9 +1,12 @@
 ---
 book_code: MRK
+book_name: Mark
 content_type: article
-source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
-parse_date: "2026-03-12"
-status: staged
+source: OSB-v1
+parse_date: '2026-03-12'
+promote_date: null
+status: staging
+canon_anchors_referenced: []
 ---
 
 ## Study Articles

@@ -1,11 +1,11 @@
 ---
 book_code: SIR
-book_name: "Sirach"
-content_type: study_articles
-source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
-parse_date: "2026-03-10"
+book_name: Sirach
+content_type: article
+source: OSB-v1
+parse_date: '2026-03-10'
 promote_date: null
-status: staged
+status: staging
 canon_anchors_referenced: []
 ---
 

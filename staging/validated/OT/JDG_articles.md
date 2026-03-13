@@ -1,11 +1,11 @@
 ---
 book_code: JDG
-book_name: "Judges"
+book_name: Judges
 content_type: article
-source: "OSB-v1"
-parse_date: "2026-03-09"
+source: OSB-v1
+parse_date: '2026-03-09'
 promote_date: null
-status: staged
+status: staging
 canon_anchors_referenced: []
 ---
 

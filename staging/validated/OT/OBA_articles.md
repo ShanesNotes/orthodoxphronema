@@ -1,11 +1,11 @@
 ---
 book_code: OBA
-book_name: "Obadiah"
+book_name: Obadiah
 content_type: article
-source: "OSB-v1"
-parse_date: "2026-03-10"
+source: OSB-v1
+parse_date: '2026-03-10'
 promote_date: null
-status: staged
+status: staging
 canon_anchors_referenced: []
 ---
 

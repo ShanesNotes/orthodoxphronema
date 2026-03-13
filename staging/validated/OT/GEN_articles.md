@@ -1,11 +1,11 @@
 ---
 book_code: GEN
-book_name: "Genesis"
+book_name: Genesis
 content_type: article
-source: "OSB-v1"
-parse_date: "2026-03-07"
+source: OSB-v1
+parse_date: '2026-03-07'
 promote_date: null
-status: staged
+status: staging
 canon_anchors_referenced: []
 ---
 
