@@ -29,6 +29,8 @@ from datetime import date
 from pathlib import Path
 from typing import Generator
 
+from pipeline.common.types import ArticleRecord, HeadingRecord, VerseRecord
+
 # ──────────────────────────────────────────────────────────────────────────────
 # Paths
 # ──────────────────────────────────────────────────────────────────────────────
@@ -276,7 +278,7 @@ def iter_elements(doc) -> Generator[tuple[str, str, str], None, None]:
 # Verse splitting
 # ──────────────────────────────────────────────────────────────────────────────
 
-def extract_footnote_markers(text: str) -> tuple[str, list[str]]:
+def extract_footnote_markers(text: str) -> tuple[str, list[dict]]:
     """
     Strip inline footnote markers (†, ω, †ω) from verse body text.
     Returns (clean_text, [marker, ...]).
@@ -285,10 +287,17 @@ def extract_footnote_markers(text: str) -> tuple[str, list[str]]:
     call it on raw boundary-captured marker strings from RE_VERSE_SPLIT group 1
     (those belong to the PRECEDING verse and are handled separately).
     """
-    markers_found = []
+    markers_found: list[dict] = []
     # Find all marker occurrences and their positions
     for m in RE_FOOTNOTE_MARKERS.finditer(text):
-        markers_found.append(m.group())
+        markers_found.append({
+            "marker": m.group(),
+            "ownership": "inline_body",
+            "page": None,
+            "element_index": None,
+            "raw_excerpt": text,
+            "normalized_excerpt": normalize(text),
+        })
     clean = RE_FOOTNOTE_MARKERS.sub('', text)
     clean = re.sub(r'\s+', ' ', clean).strip()
     return clean, markers_found
@@ -296,7 +305,7 @@ def extract_footnote_markers(text: str) -> tuple[str, list[str]]:
 
 def split_verses_in_text(text: str, current_chapter: int, book_code: str,
                           start_verse: int = 1
-                          ) -> list[tuple[str, int, int, list[str]]]:
+                          ) -> list[tuple[str, int, int, list[dict]]]:
     """
     Split a TextItem into individual verse tuples.
     Returns list of (verse_text, chapter, verse_num, markers_list).
@@ -357,7 +366,16 @@ def split_verses_in_text(text: str, current_chapter: int, book_code: str,
         # Attach boundary-captured markers to the last emitted verse (they trail it).
         if markers_str and results:
             for m in RE_FOOTNOTE_MARKERS.findall(markers_str):
-                results[-1][3].append(m)
+                results[-1][3].append({
+                    "marker": m,
+                    "ownership": "boundary_trailing",
+                    "page": None,
+                    "element_index": None,
+                    "raw_excerpt": f"{markers_str} {verse_num_str} {verse_text}".strip(),
+                    "normalized_excerpt": normalize(
+                        f"{markers_str} {verse_num_str} {verse_text}".strip()
+                    ),
+                })
 
         clean, markers = extract_footnote_markers(verse_text)
         clean = fix_split_words(clean).strip()
@@ -464,8 +482,8 @@ def _lc_split(text: str, vnum: int) -> list[tuple[str, int]]:
 
 
 def _recover_lc_splits(
-    results: list[tuple[str, int, int, list[str]]]
-) -> list[tuple[str, int, int, list[str]]]:
+    results: list[tuple[str, int, int, list[dict]]]
+) -> list[tuple[str, int, int, list[dict]]]:
     """
     Post-process results from split_verses_in_text to recover verse boundaries
     that begin with lowercase allowlist words (missed by RE_VERSE_SPLIT).
@@ -488,7 +506,12 @@ def _recover_lc_splits(
         if len(sub) == 1:
             expanded.append((vtext, ch, vnum, markers))
         else:
-            expanded.append((sub[0][0], ch, sub[0][1], markers))
+            relabeled = []
+            for marker in markers:
+                marker_copy = dict(marker)
+                marker_copy["ownership"] = "lc_split_first_segment"
+                relabeled.append(marker_copy)
+            expanded.append((sub[0][0], ch, sub[0][1], relabeled))
             for seg_text, seg_vnum in sub[1:]:
                 expanded.append((seg_text, ch, seg_vnum, []))
     return expanded
@@ -521,10 +544,10 @@ class ExtractionState:
         self.max_chapters: int | None = max_chapters
 
         # Output buffers
-        self.verses: list[dict] = []               # {anchor, chapter, verse, text}
+        self.verses: list[VerseRecord | dict] = []
         self._anchor_index: dict[str, int] = {}    # anchor → index in self.verses (dedup)
-        self.headings: list[dict] = []             # {after_anchor, heading}
-        self.articles: list[dict] = []             # {title, after_anchor, body_paras}
+        self.headings: list[HeadingRecord | dict] = []
+        self.articles: list[ArticleRecord | dict] = []
         self.footnote_markers: list[dict] = []     # {anchor, marker}
 
         # Article accumulation
@@ -540,10 +563,23 @@ class ExtractionState:
     def _anchor(self, chapter: int, verse: int) -> str:
         return f"{self.book_code}.{chapter}:{verse}"
 
+    @staticmethod
+    def _field(record, key: str):
+        if isinstance(record, dict):
+            return record[key]
+        return getattr(record, key)
+
+    @staticmethod
+    def _set_field(record, key: str, value) -> None:
+        if isinstance(record, dict):
+            record[key] = value
+            return
+        setattr(record, key, value)
+
     def _last_anchor(self) -> str:
         if self.verses:
             v = self.verses[-1]
-            return self._anchor(v["chapter"], v["verse"])
+            return self._anchor(self._field(v, "chapter"), self._field(v, "verse"))
         return f"{self.book_code}.{self.current_chapter}:0"
 
     def _chapter_max_verse(self, ch: int) -> int:
@@ -552,11 +588,11 @@ class ExtractionState:
 
     def _flush_article(self) -> None:
         if self._article_title:
-            self.articles.append({
-                "title": self._article_title,
-                "after_anchor": self._article_after,
-                "body": self._article_body,
-            })
+            self.articles.append(ArticleRecord(
+                title=self._article_title,
+                after_anchor=self._article_after,
+                body=list(self._article_body),
+            ))
         self._article_title = ""
         self._article_after = ""
         self._article_body  = []
@@ -636,18 +672,18 @@ class ExtractionState:
                 else:
                     # Treat as narrative heading in VERSE_MODE
                     if not is_fragment_heading(text):
-                        self.headings.append({
-                            "after_anchor": self._last_anchor(),
-                            "heading": text.title(),
-                        })
+                        self.headings.append(HeadingRecord(
+                            after_anchor=self._last_anchor(),
+                            heading=text.title(),
+                        ))
             else:
                 # Title-case narrative heading
                 if self.mode == VERSE_MODE:
                     if not is_fragment_heading(text):
-                        self.headings.append({
-                            "after_anchor": self._last_anchor(),
-                            "heading": text,
-                        })
+                        self.headings.append(HeadingRecord(
+                            after_anchor=self._last_anchor(),
+                            heading=text,
+                        ))
                 else:
                     # Sub-heading inside article
                     self._article_body.append(f"\n#### {text}\n")
@@ -736,7 +772,7 @@ class ExtractionState:
         # If text doesn't start with a digit AND previous verse was incomplete
         if self.last_verse_text_incomplete and not text[:1].isdigit():
             if self.verses:
-                merged = self.verses[-1]["text"] + " " + text
+                merged = self._field(self.verses[-1], "text") + " " + text
                 # Check whether the merged text reveals additional verse boundaries.
                 # Example: Element N ends mid-sentence ("and"), Element N+1 starts with
                 # prose but contains "† 9 So..." through "15 I will put enmity..." —
@@ -744,7 +780,7 @@ class ExtractionState:
                 if RE_VERSE_SPLIT.search(merged) or _LC_VERSE_PAT.search(merged):
                     popped = self.verses.pop()
                     # Remove stale anchor index entry and shift indices
-                    popped_anchor = popped["anchor"]
+                    popped_anchor = self._field(popped, "anchor")
                     self._anchor_index.pop(popped_anchor, None)
                     # Also remove any footnote markers already recorded for that anchor
                     self.footnote_markers = [
@@ -752,12 +788,12 @@ class ExtractionState:
                         if fm["anchor"] != popped_anchor
                     ]
                     verse_parts = split_verses_in_text(
-                        merged, popped["chapter"], self.book_code,
-                        start_verse=popped["verse"]
+                        merged, self._field(popped, "chapter"), self.book_code,
+                        start_verse=self._field(popped, "verse")
                     )
                     self._emit_parts(verse_parts)
                 else:
-                    self.verses[-1]["text"] = merged
+                    self._set_field(self.verses[-1], "text", merged)
                     self.last_verse_text_incomplete = not re.search(
                         r'[.!?\'"\u201d\u2019]\s*$', merged
                     )
@@ -849,35 +885,36 @@ class ExtractionState:
             # PDF sometimes restate the verse number at the start of the second
             # column (e.g. "28 Therefore..." follows an already-emitted GEN.27:28).
             # Merging them avoids a V1 duplicate while preserving all text.
-            if self.verses and self.verses[-1]["anchor"] == anchor:
-                self.verses[-1]["text"] += " " + vtext
+            if self.verses and self._field(self.verses[-1], "anchor") == anchor:
+                merged_text = self._field(self.verses[-1], "text") + " " + vtext
+                self._set_field(self.verses[-1], "text", merged_text)
             elif anchor in self._anchor_index:
                 # Non-consecutive duplicate: nav noise, article debris, or heading
                 # text emitted earlier with the same anchor. Always replace with the
                 # later entry — real verse content comes after nav/intro pages.
                 idx = self._anchor_index[anchor]
-                self.verses[idx]["text"] = vtext
+                self._set_field(self.verses[idx], "text", vtext)
                 # Replace footnote markers for this anchor
                 self.footnote_markers = [
                     fm for fm in self.footnote_markers
                     if fm["anchor"] != anchor
                 ]
                 for marker in markers:
-                    self.footnote_markers.append({"anchor": anchor, "marker": marker})
+                    self.footnote_markers.append({"anchor": anchor, **marker})
                 markers = []  # already handled
             else:
-                self.verses.append({
-                    "anchor": anchor,
-                    "chapter": ch,
-                    "verse": vnum,
-                    "text": vtext,
-                })
+                self.verses.append(VerseRecord(
+                    anchor=anchor,
+                    chapter=ch,
+                    verse=vnum,
+                    text=vtext,
+                ))
                 self._anchor_index[anchor] = len(self.verses) - 1
             self.current_chapter = ch
             self.current_verse   = vnum
             self.verse_started   = True
             for marker in markers:
-                self.footnote_markers.append({"anchor": anchor, "marker": marker})
+                self.footnote_markers.append({"anchor": anchor, **marker})
 
         # Track if last verse might be incomplete (column split)
         if parts:
@@ -907,11 +944,14 @@ def build_canon_md(state: ExtractionState, meta: dict, parse_date: str) -> str:
     verse_lines = []
     heading_map: dict[str, str] = {}   # after_anchor → heading text
     for h in state.headings:
-        heading_map[h["after_anchor"]] = h["heading"]
+        after_anchor = h["after_anchor"] if isinstance(h, dict) else h.after_anchor
+        heading_text = h["heading"] if isinstance(h, dict) else h.heading
+        heading_map[after_anchor] = heading_text
 
-    chapters: dict[int, list[dict]] = {}
+    chapters: dict[int, list[VerseRecord | dict]] = {}
     for v in state.verses:
-        chapters.setdefault(v["chapter"], []).append(v)
+        chapter = v["chapter"] if isinstance(v, dict) else v.chapter
+        chapters.setdefault(chapter, []).append(v)
 
     body_parts: list[str] = []
     for ch_num in sorted(chapters.keys()):
@@ -923,13 +963,14 @@ def build_canon_md(state: ExtractionState, meta: dict, parse_date: str) -> str:
         prev_anchor = f"{book_code}.{ch_num - 1}:0" if ch_num > 1 else f"{book_code}.0:0"
 
         for v in ch_verses:
-            anchor = v["anchor"]
+            anchor = v["anchor"] if isinstance(v, dict) else v.anchor
             # Heading after the PREVIOUS verse (which may be prev chapter's last)
             # We look up heading_map with the verse BEFORE this one
             if anchor in heading_map:
                 body_parts.append(f"\n### {heading_map[anchor]}\n")
 
-            line = f"{anchor} {v['text']}"
+            verse_text = v["text"] if isinstance(v, dict) else v.text
+            line = f"{anchor} {verse_text}"
             body_parts.append(line)
             verse_lines.append(line)
 
@@ -973,9 +1014,12 @@ canon_anchors_referenced: []
 
     parts = [frontmatter, "\n## Study Articles\n"]
     for art in state.articles:
-        parts.append(f"\n### {art['title']}")
-        parts.append(f"*(after {art['after_anchor']})*\n")
-        for para in art["body"]:
+        title = art["title"] if isinstance(art, dict) else art.title
+        after_anchor = art["after_anchor"] if isinstance(art, dict) else art.after_anchor
+        body = art["body"] if isinstance(art, dict) else art.body
+        parts.append(f"\n### {title}")
+        parts.append(f"*(after {after_anchor})*\n")
+        for para in body:
             parts.append(para)
         parts.append("")
 
@@ -1033,10 +1077,10 @@ def write_outputs(state: ExtractionState, meta: dict, testament: str,
     # Deduplicate footnote markers: same (anchor, marker) pair may be recorded
     # twice when the consecutive same-anchor merge fires but both fragments carry
     # the same marker symbol.
-    seen_fm: set[tuple[str, str]] = set()
+    seen_fm: set[tuple[str, str, str]] = set()
     deduped: list[dict] = []
     for fm in state.footnote_markers:
-        key = (fm["anchor"], fm["marker"])
+        key = (fm["anchor"], fm["marker"], fm.get("ownership", ""))
         if key not in seen_fm:
             seen_fm.add(key)
             deduped.append(fm)
@@ -1048,9 +1092,25 @@ def write_outputs(state: ExtractionState, meta: dict, testament: str,
 
     canon_md  = build_canon_md(state, meta, parse_date)
     notes_md  = build_notes_md(state, meta, parse_date)
-    markers_j = json.dumps(
-        state.footnote_markers, indent=2, ensure_ascii=False
-    )
+    verse_marker_index: dict[str, int] = {}
+    structured_markers: list[dict] = []
+    for marker_seq_book, fm in enumerate(state.footnote_markers, start=1):
+        anchor = fm["anchor"]
+        verse_marker_index[anchor] = verse_marker_index.get(anchor, 0) + 1
+        marker_entry = {
+            **fm,
+            "marker_seq_book": marker_seq_book,
+            "marker_index_in_verse": verse_marker_index[anchor],
+        }
+        structured_markers.append(marker_entry)
+    source_pages = sorted({fm["page"] for fm in structured_markers if fm.get("page") is not None})
+    markers_payload = {
+        "book_code": book_code,
+        "marker_count": len(structured_markers),
+        "source_text_pages": source_pages,
+        "markers": structured_markers,
+    }
+    markers_j = json.dumps(markers_payload, indent=2, ensure_ascii=False)
 
     canon_path   = out_dir / f"{book_code}.md"
     notes_path   = out_dir / f"{book_code}_notes.md"

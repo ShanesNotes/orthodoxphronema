@@ -62,3 +62,11 @@ def update_frontmatter_field(text: str, field: str, value: str) -> str:
         count=1,
         flags=re.MULTILINE,
     )
+
+
+def update_frontmatter(fm_block: str, promote_date: str, checksum: str) -> str:
+    """Update promote_date, status, and checksum in a frontmatter block."""
+    updated = update_frontmatter_field(fm_block, "promote_date", f'"{promote_date}"')
+    updated = update_frontmatter_field(updated, "status", "promoted")
+    updated = update_frontmatter_field(updated, "checksum", f'"{checksum}"')
+    return updated

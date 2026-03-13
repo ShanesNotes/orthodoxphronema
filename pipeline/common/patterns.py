@@ -40,6 +40,7 @@ KNOWN_SPLIT_JOIN_WORDS = {
     "move",
     "native", "naive", "nerve", "neve", "never", "novel",
     "observe", "olive", "over", "oven",
+    "overlooked",
     "pave", "perceive", "persevere", "preserve", "positive", "prove",
     "rave", "receive", "relative", "relieve", "remove", "reprieve",
     "reserve", "resolve", "retrieve", "revive", "revolve", "rove",

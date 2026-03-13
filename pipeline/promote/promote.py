@@ -39,24 +39,33 @@ import sys
 from datetime import date, datetime
 from pathlib import Path
 
+from pipeline.common.registry import classifications_requiring_entry_ratification
+from pipeline.promote.gates import (
+    gate_absorbed_content,
+    gate_completeness,
+    gate_editorial,
+    gate_errors,
+    gate_freshness,
+    gate_ratification,
+    gate_sidecar_fields,
+    gate_v4_coverage,
+)
+
 REPO_ROOT    = Path(__file__).parent.parent.parent
 REGISTRY     = REPO_ROOT / "schemas" / "anchor_registry.json"
+RESIDUAL_CLASSES = REPO_ROOT / "schemas" / "residual_classes.json"
 STAGING_ROOT = REPO_ROOT / "staging" / "validated"
 CANON_ROOT   = REPO_ROOT / "canon"
 REPORTS_ROOT = REPO_ROOT / "reports"
 
-RE_V4_WARNING = re.compile(
-    r'V4\s+Missing verses in ch\.(\d+): jumps from (\d+) to (\d+)'
-)
 
-
-def load_validate_file():
-    """Dynamically import validate_file from pipeline/validate/validate_canon.py."""
+def load_validate_module():
+    """Dynamically import pipeline/validate/validate_canon.py."""
     validate_path = REPO_ROOT / "pipeline" / "validate" / "validate_canon.py"
     spec = importlib.util.spec_from_file_location("validate_canon", validate_path)
     mod  = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)
-    return mod.validate_file
+    return mod
 
 
 def load_registry() -> dict:
@@ -129,24 +138,39 @@ def update_frontmatter(fm_block: str, promote_date: str, checksum: str) -> str:
 def generate_dossier(book_code: str, testament: str,
                      errors: list[str], warnings: list[str],
                      sidecar: dict | None, body_checksum: str,
-                     registry_version: str, decision: str) -> dict:
+                     registry_version: str, decision: str,
+                     allow_incomplete: bool = False,
+                     staged_path: Path | None = None,
+                     residuals_path: Path | None = None,
+                     editorial_candidates_path: Path | None = None,
+                     validation_result=None) -> dict:
     """Build promotion dossier dict."""
-    all_msgs = [(m, "error") for m in errors] + [(m, "warning") for m in warnings]
-    validation = {}
-    def _is_check_msg(msg: str, check_name: str) -> bool:
-        return msg.startswith(f"{check_name} ")
+    validation: dict[str, dict[str, object]] = {}
 
-    for cn in ("V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "V9"):
-        msgs = [m for m, _ in all_msgs if _is_check_msg(m, cn)]
-        has_err = any(t == "error" for m, t in all_msgs if _is_check_msg(m, cn))
-        has_warn = any(t == "warning" for m, t in all_msgs if _is_check_msg(m, cn))
-        if has_err:
-            status = "FAIL"
-        elif has_warn:
-            status = "WARN"
-        else:
-            status = "PASS"
-        validation[cn] = {"status": status, "messages": msgs}
+    if validation_result is not None:
+        for check in validation_result.checks:
+            if check.name.startswith("V") and check.name[1:].isdigit():
+                validation[check.name] = {
+                    "status": check.status,
+                    "messages": check.messages,
+                }
+    else:
+        all_msgs = [(m, "error") for m in errors] + [(m, "warning") for m in warnings]
+
+        def _is_check_msg(msg: str, check_name: str) -> bool:
+            return msg.startswith(f"{check_name} ")
+
+        for cn in [f"V{i}" for i in range(1, 11)]:
+            msgs = [m for m, _ in all_msgs if _is_check_msg(m, cn)]
+            has_err = any(t == "error" for m, t in all_msgs if _is_check_msg(m, cn))
+            has_warn = any(t == "warning" for m, t in all_msgs if _is_check_msg(m, cn))
+            if has_err:
+                status = "FAIL"
+            elif has_warn:
+                status = "WARN"
+            else:
+                status = "PASS"
+            validation[cn] = {"status": status, "messages": msgs}
 
     return {
         "book_code": book_code,
@@ -154,6 +178,12 @@ def generate_dossier(book_code: str, testament: str,
         "timestamp": datetime.now().isoformat(),
         "registry_version": registry_version,
         "body_checksum": body_checksum,
+        "allow_incomplete": allow_incomplete,
+        "staged_path": str(staged_path) if staged_path else None,
+        "residuals_path": str(residuals_path) if residuals_path else None,
+        "editorial_candidates_path": (
+            str(editorial_candidates_path) if editorial_candidates_path else None
+        ),
         "validation": validation,
         "residuals_sidecar": sidecar,
         "decision": decision,
@@ -180,6 +210,11 @@ def promote_book(book_code: str, dry_run: bool = False,
 
     staged_path = STAGING_ROOT / testament / f"{book_code}.md"
     canon_path  = CANON_ROOT / testament / f"{book_code}.md"
+    dossier_path = REPORTS_ROOT / f"{book_code}_promotion_dossier.json"
+    residuals_path = STAGING_ROOT / testament / f"{book_code}_residuals.json"
+    editorial_candidates_path = (
+        STAGING_ROOT / testament / f"{book_code}_editorial_candidates.json"
+    )
 
     if not staged_path.exists():
         print(f"ERROR: Staged file not found: {staged_path}", file=sys.stderr)
@@ -187,8 +222,10 @@ def promote_book(book_code: str, dry_run: bool = False,
 
     # ── Validate ──────────────────────────────────────────────────────────────
     print(f"\nValidating: {staged_path}\n{'─' * 60}")
-    validate_file = load_validate_file()
-    errors, warnings = validate_file(staged_path, strict=False)
+    validate_mod = load_validate_module()
+    validation_result = validate_mod.run_validation(staged_path, strict=False)
+    errors = validation_result.errors
+    warnings = validation_result.warnings
 
     if warnings:
         print(f"\n  WARNINGS ({len(warnings)}):")
@@ -201,89 +238,46 @@ def promote_book(book_code: str, dry_run: bool = False,
     body_checksum = sha256_hex(body) if fm_block else ""
 
     # ── Load sidecar ──────────────────────────────────────────────────────────
-    sidecar_path = STAGING_ROOT / testament / f"{book_code}_residuals.json"
     sidecar: dict | None = None
-    if sidecar_path.exists():
-        with open(sidecar_path, encoding="utf-8") as f:
+    if residuals_path.exists():
+        with open(residuals_path, encoding="utf-8") as f:
             sidecar = json.load(f)
+
+    ratified_classes = classifications_requiring_entry_ratification(
+        Path(RESIDUAL_CLASSES)
+    )
 
     def _exit_with_dossier(decision: str, exit_code: int) -> None:
         dossier = generate_dossier(
             book_code, testament, errors, warnings, sidecar,
-            body_checksum, registry_version, decision
+            body_checksum, registry_version, decision,
+            allow_incomplete=allow_incomplete,
+            staged_path=staged_path,
+            residuals_path=residuals_path if residuals_path.exists() else None,
+            editorial_candidates_path=(
+                editorial_candidates_path if editorial_candidates_path.exists() else None
+            ),
+            validation_result=validation_result,
         )
         write_dossier(dossier)
         sys.exit(exit_code)
 
-    # ── Error gate (V1-V9) ────────────────────────────────────────────────────
-    if errors:
-        print(f"\n  ERRORS ({len(errors)}) — promotion aborted:")
-        for e in errors:
-            print(f"    {e}")
-        _exit_with_dossier("blocked", 1)
-
-    # ── Sidecar gate (V4 coverage + structural block + ratification) ──────────
-    v4_missing: set[str] = set()
-    for w in warnings:
-        m = RE_V4_WARNING.match(w)
-        if m:
-            ch, from_v, to_v = int(m.group(1)), int(m.group(2)), int(m.group(3))
-            for v in range(from_v + 1, to_v):
-                v4_missing.add(f"{book_code}.{ch}:{v}")
-
-    if v4_missing:
-        if sidecar is None:
-            print(f"\n  BLOCKED: {len(v4_missing)} V4 gap(s) with no residuals sidecar.")
-            print("  Create a _residuals.json sidecar to document these gaps.")
-            _exit_with_dossier("blocked", 3)
-
-        sidecar_anchors = {r["anchor"] for r in sidecar.get("residuals", [])}
-        uncovered = v4_missing - sidecar_anchors
-        if uncovered:
-            print(f"\n  BLOCKED: {len(uncovered)} V4 gap(s) not covered by residuals sidecar:")
-            for a in sorted(uncovered):
-                print(f"    {a}")
-            _exit_with_dossier("blocked", 3)
-
-        blocking_entries = [
-            r for r in sidecar.get("residuals", [])
-            if r.get("blocking") and r["anchor"] in v4_missing
-        ]
-        if blocking_entries:
-            print(f"\n  BLOCKED: {len(blocking_entries)} structural issue(s) flagged as blocking:")
-            for r in blocking_entries:
-                print(f"    {r['anchor']}: {r['description']}")
-            _exit_with_dossier("blocked", 3)
-
-        if sidecar.get("ratified_date") is None:
-            # Non-blocking gaps with null ratification: warn but allow
-            has_blocking = any(r.get("blocking") for r in sidecar.get("residuals", []))
-            if has_blocking:
-                print("\n  BLOCKED: Residuals sidecar not yet ratified by human.")
-                _exit_with_dossier("blocked", 3)
-            else:
-                print("\n  INFO: Residuals sidecar not yet ratified (all entries non-blocking; proceeding).")
-
-        # ── Per-entry ratification for source-absence entries ──────────
-        # Source-absence residuals (osb_*) are policy decisions requiring
-        # individual human acknowledgment — top-level ratified_date alone
-        # is not sufficient for these entries.
-        if sidecar is not None:
-            for r in sidecar.get("residuals", []):
-                cls = r.get("classification", "")
-                if cls.startswith("osb_") and not r.get("ratified"):
-                    anchor = r.get("anchor", "?")
-                    print(f"\n  BLOCKED: Source-absence residual {anchor} requires explicit per-entry ratification")
-                    _exit_with_dossier("blocked", 3)
-
-    # ── V7 completeness gate ──────────────────────────────────────────────────
-    v7_warnings = [w for w in warnings if w.startswith("V7")]
-    if v7_warnings and not allow_incomplete:
-        print(f"\n  BLOCKED ({len(v7_warnings)} completeness issue(s)):")
-        for w in v7_warnings:
-            print(f"    {w}")
-        print("\n  Re-run with --allow-incomplete to acknowledge and proceed.")
-        _exit_with_dossier("blocked", 2)
+    gate_sequence = [
+        gate_errors(errors),
+        gate_editorial(editorial_candidates_path),
+        gate_freshness(dossier_path, body_checksum, dry_run),
+        gate_sidecar_fields(sidecar),
+        gate_v4_coverage(validation_result.check("V4"), sidecar, book_code),
+        gate_absorbed_content(sidecar),
+        gate_ratification(sidecar, ratified_classes),
+        gate_completeness(validation_result.check("V7"), allow_incomplete),
+    ]
+    for gate_result in gate_sequence:
+        if gate_result.passed:
+            continue
+        for message in gate_result.messages:
+            print(message)
+        _exit_with_dossier("blocked", gate_result.exit_code)
 
     # ── Build promoted content ────────────────────────────────────────────────
     if not fm_block:
@@ -314,7 +308,14 @@ def promote_book(book_code: str, dry_run: bool = False,
 
     dossier = generate_dossier(
         book_code, testament, errors, warnings, sidecar,
-        body_checksum, registry_version, decision
+        body_checksum, registry_version, decision,
+        allow_incomplete=allow_incomplete,
+        staged_path=staged_path,
+        residuals_path=residuals_path if residuals_path.exists() else None,
+        editorial_candidates_path=(
+            editorial_candidates_path if editorial_candidates_path.exists() else None
+        ),
+        validation_result=validation_result,
     )
     write_dossier(dossier)
 

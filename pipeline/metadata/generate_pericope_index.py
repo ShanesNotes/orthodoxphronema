@@ -79,6 +79,13 @@ def extract_pericopes(path: Path) -> dict:
                 "end_anchor": None,
                 "verse_count": None,
                 "chapter_range": None,
+                "notes_anchors": [],
+                "source_companions": [],
+                "cross_ref_candidates": [],
+                "liturgical_context": None,
+                "alt_versification": None,
+                "embedding_status": "pending",
+                "provenance": None,
             }
             continue
 

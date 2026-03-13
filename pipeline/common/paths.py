@@ -4,6 +4,7 @@ paths.py — Single source of truth for all repo-relative paths.
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+METADATA_ROOT = REPO_ROOT / "metadata"
 REGISTRY_PATH = REPO_ROOT / "schemas" / "anchor_registry.json"
 STAGING_ROOT = REPO_ROOT / "staging" / "validated"
 CANON_ROOT = REPO_ROOT / "canon"

@@ -1,0 +1,164 @@
+version: 1
+biblical:
+  - canonical: GEN
+    aliases: [Gen, Gn, Genesis]
+  - canonical: EXO
+    aliases: [Ex, Exod, Exodus]
+  - canonical: LEV
+    aliases: [Lev, Leviticus]
+  - canonical: NUM
+    aliases: [Num, Nm, Numbers]
+  - canonical: DEU
+    aliases: [Deut, Dt, Deu, Deuteronomy]
+  - canonical: JOS
+    aliases: [Josh, Jos, Joshua]
+  - canonical: JDG
+    aliases: [Judg, Jdg, Judges]
+  - canonical: RUT
+    aliases: [Ruth, Rut, Ru]
+  - canonical: 1SA
+    aliases: [1Sa, 1Sam, 1 Samuel]
+  - canonical: 2SA
+    aliases: [2Sa, 2Sam, 2 Samuel]
+  - canonical: 1KI
+    aliases: [1Ki, 1Kgs, 1 Kings]
+  - canonical: 2KI
+    aliases: [2Ki, 2Kgs, 2 Kings, 4Kg]
+  - canonical: 1CH
+    aliases: [1Ch, 1Chr, 1 Chronicles]
+  - canonical: 2CH
+    aliases: [2Ch, 2Chr, 2 Chronicles]
+  - canonical: 1ES
+    aliases: [1Es, 1 Esdras]
+  - canonical: EZR
+    aliases: [Ezr, Ezra, Esdr]
+  - canonical: NEH
+    aliases: [Neh, Nehemiah]
+  - canonical: TOB
+    aliases: [Tob, Tobit]
+  - canonical: JDT
+    aliases: [Jdt, Judith]
+  - canonical: EST
+    aliases: [Est, Esther]
+  - canonical: 1MA
+    aliases: [1Ma, 1 Maccabees]
+  - canonical: 2MA
+    aliases: [2Ma, 2 Maccabees]
+  - canonical: 3MA
+    aliases: [3Ma, 3 Maccabees]
+  - canonical: JOB
+    aliases: [Job]
+  - canonical: PSA
+    aliases: [Ps, Psa, Psalm, Psalms]
+  - canonical: PRO
+    aliases: [Prov, Prv, Pro, Proverbs]
+  - canonical: ECC
+    aliases: [Eccl, Ecc, Ecclesiastes]
+  - canonical: SNG
+    aliases: [Song, Cant, Sng, Song of Songs]
+  - canonical: WIS
+    aliases: [Wis, Wisdom]
+  - canonical: SIR
+    aliases: [Sir, Sirach, Ecclus]
+  - canonical: ISA
+    aliases: [Isa, Isaiah]
+  - canonical: JER
+    aliases: [Jer, Jeremiah]
+  - canonical: BAR
+    aliases: [Bar, Baruch]
+  - canonical: LAM
+    aliases: [Lam, Lamentations]
+  - canonical: LJE
+    aliases: [Lje, EpJer, Letter of Jeremiah]
+  - canonical: EZK
+    aliases: [Ezek, Ezk, Ez, Ezekiel]
+  - canonical: DAN
+    aliases: [Dan, Daniel, Bel]
+  - canonical: HOS
+    aliases: [Hos, Hosea]
+  - canonical: AMO
+    aliases: [Amos, Amo, Am]
+  - canonical: MIC
+    aliases: [Mic, Micah]
+  - canonical: JOL
+    aliases: [Joel, Jol, Jl]
+  - canonical: OBA
+    aliases: [Obad, Oba, Ob]
+  - canonical: JON
+    aliases: [Jon, Jonah]
+  - canonical: NAH
+    aliases: [Nah, Nahum]
+  - canonical: HAB
+    aliases: [Hab, Habakkuk]
+  - canonical: ZEP
+    aliases: [Zeph, Zep, Zephaniah]
+  - canonical: HAG
+    aliases: [Hag, Haggai]
+  - canonical: ZEC
+    aliases: [Zech, Zec, Zechariah]
+  - canonical: MAL
+    aliases: [Mal, Malachi]
+  - canonical: MAT
+    aliases: [Mt, Matt, Mat, Matthew, Μτ]
+  - canonical: MRK
+    aliases: [Mk, Mrk, Mark, Μκ]
+  - canonical: LUK
+    aliases: [Lk, Luk, Luke, Λκ]
+  - canonical: JOH
+    aliases: [Jn, Jhn, Joh, John, Ιω]
+  - canonical: ACT
+    aliases: [Acts, Act]
+  - canonical: ROM
+    aliases: [Rom, Rm, Romans]
+  - canonical: 1CO
+    aliases: [1Co, 1Cor, 1 Corinthians]
+  - canonical: 2CO
+    aliases: [2Co, 2Cor, 2 Corinthians]
+  - canonical: GAL
+    aliases: [Gal, Galatians]
+  - canonical: EPH
+    aliases: [Eph, Ephesians]
+  - canonical: PHP
+    aliases: [Phil, Php, Philippians]
+  - canonical: COL
+    aliases: [Col, Colossians]
+  - canonical: 1TH
+    aliases: [1Th, 1Thes, 1 Thessalonians]
+  - canonical: 2TH
+    aliases: [2Th, 2Thes, 2 Thessalonians]
+  - canonical: 1TI
+    aliases: [1Ti, 1Tim, 1 Timothy]
+  - canonical: 2TI
+    aliases: [2Ti, 2Tim, 2 Timothy]
+  - canonical: TIT
+    aliases: [Tit, Tts, Titus]
+  - canonical: PHM
+    aliases: [Phlm, Philem, Phm, Philemon]
+  - canonical: HEB
+    aliases: [Heb, Hebrews]
+  - canonical: JAS
+    aliases: [Jas, Jam, James]
+  - canonical: 1PE
+    aliases: [1Pt, 1Pet, 1Pe, 1 Peter]
+  - canonical: 2PE
+    aliases: [2Pt, 2Pet, 2Pe, 2 Peter]
+  - canonical: 1JN
+    aliases: [1Jn, 1John, 1 John]
+  - canonical: 2JN
+    aliases: [2Jn, 2John, 2 John]
+  - canonical: 3JN
+    aliases: [3Jn, 3John, 3 John]
+  - canonical: JUD
+    aliases: [Jude, Jud]
+  - canonical: REV
+    aliases: [Rev, Revelation, Apoc]
+patristic_future:
+  - canonical: ATHANASIUS
+    aliases: [Ath, Athan, Athanasius, St. Athanasius]
+    context_hint: "usually followed by PG column or NPNF reference"
+  - canonical: BASIL_GREAT
+    aliases: [Basil, BasilG, St. Basil, St. Basil the Great]
+    context_hint: "often appears in OSB footnote father lists"
+  - canonical: JOHN_CHRYSOSTOM
+    aliases: [JohnChr, Chrysostom, St. John Chrysostom]
+    context_hint: "often appears in OSB footnote father lists"

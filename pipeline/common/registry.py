@@ -16,12 +16,12 @@ def load_registry(path: Path | str | None = None) -> dict:
         return json.load(f)
 
 
-def book_meta(registry: dict, code: str) -> dict | None:
-    """Look up a book entry by code. Returns None if not found."""
+def book_meta(registry: dict, code: str) -> dict:
+    """Look up a book entry by code."""
     for b in registry.get("books", []):
         if b["code"] == code:
             return b
-    return None
+    raise ValueError(f"Book code {code!r} not found in registry")
 
 
 def chapter_verse_counts(registry: dict, code: str) -> dict[int, int] | None:
@@ -30,8 +30,9 @@ def chapter_verse_counts(registry: dict, code: str) -> dict[int, int] | None:
     The registry stores chapter_verse_counts as a 1-indexed list where
     index 0 is chapter 1's count.
     """
-    meta = book_meta(registry, code)
-    if meta is None:
+    try:
+        meta = book_meta(registry, code)
+    except ValueError:
         return None
     cvc_list = meta.get("chapter_verse_counts")
     if not cvc_list:
@@ -41,22 +42,20 @@ def chapter_verse_counts(registry: dict, code: str) -> dict[int, int] | None:
 
 def book_testament(registry: dict, code: str) -> str | None:
     """Return testament ('OT' or 'NT') for a book code."""
-    meta = book_meta(registry, code)
-    return meta.get("testament") if meta else None
-
-
-def page_ranges(registry: dict, code: str) -> dict | None:
-    """Return page range dict for a book, or None."""
-    meta = book_meta(registry, code)
-    if meta is None:
+    try:
+        meta = book_meta(registry, code)
+    except ValueError:
         return None
-    return {
-        "start": meta.get("page_start"),
-        "end": meta.get("page_end"),
-        "text_start": meta.get("text_start"),
-        "footnote_start": meta.get("footnote_start"),
-        "footnote_end": meta.get("footnote_end"),
-    }
+    return meta.get("testament")
+
+
+def page_ranges(registry: dict, code: str) -> tuple[tuple[int, int], tuple[int, int]]:
+    """Return ((text_start, text_end), (footnote_start, footnote_end))."""
+    page_ranges_map = registry.get("page_ranges", {})
+    if code not in page_ranges_map:
+        raise ValueError(f"Book code {code!r} not found in page_ranges")
+    entry = page_ranges_map[code]
+    return tuple(entry["text"]), tuple(entry["footnotes"])
 
 
 def load_residual_classes(path: Path | str | None = None) -> dict:
