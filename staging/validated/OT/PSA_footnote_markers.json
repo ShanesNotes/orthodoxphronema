@@ -1,952 +1,930 @@
 {
   "book_code": "PSA",
-  "parse_date": "2026-03-10",
-  "source_text_pages": [
-    1740,
-    1804,
-    1805,
-    1806,
-    1807,
-    1808,
-    1809,
-    1810,
-    1811,
-    1813,
-    1816,
-    1818,
-    1819,
-    1822,
-    1823,
-    1824,
-    1825,
-    1826,
-    1831,
-    1832,
-    1833,
-    1834,
-    1835,
-    1836,
-    1837,
-    1838,
-    1839,
-    1841,
-    1844,
-    1845,
-    1846,
-    1847,
-    1848,
-    1849,
-    1850,
-    1851,
-    1852,
-    1853,
-    1854,
-    1856,
-    1857,
-    1860,
-    1868,
-    1869,
-    1871,
-    1872,
-    1873,
-    1874,
-    1875,
-    1876,
-    1877,
-    1879,
-    1889,
-    1897,
-    1900,
-    1901,
-    1902,
-    1903,
-    1904,
-    1906,
-    1907,
-    1908,
-    1909,
-    1910,
-    1911,
-    1912,
-    1914
-  ],
-  "marker_count": 73,
+  "reindex_date": "2026-03-13",
+  "marker_count": 131,
   "markers": [
     {
-      "marker": "†",
-      "ownership": "boundary_trailing",
-      "element_index": 332,
-      "page": 1740,
-      "raw_excerpt": "† 2 But his will is in the law of the",
-      "normalized_excerpt": "† 2 But his will is in the law of the",
-      "anchor": "PSA.0:7",
+      "marker": "unknown",
+      "anchor": "PSA.1:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 1,
-      "marker_seq_type": 1,
-      "marker_index_in_verse": 1
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "boundary_trailing",
-      "element_index": 334,
-      "page": 1740,
-      "raw_excerpt": "†ω 2 The kings of the earth set themse",
-      "normalized_excerpt": "†ω 2 The kings of the earth set themse",
-      "anchor": "PSA.0:7",
+      "marker": "unknown",
+      "anchor": "PSA.2:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 2,
-      "marker_seq_type": 1,
-      "marker_index_in_verse": 2
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 600,
-      "page": 1804,
-      "raw_excerpt": "For the End; in hymns; by David. †ω",
-      "normalized_excerpt": "For the End; in hymns; by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.3:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 3,
-      "marker_seq_type": 2,
-      "marker_index_in_verse": 1
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 605,
-      "page": 1805,
-      "raw_excerpt": "nd, for Jeduthun; a psalm by David. †",
-      "normalized_excerpt": "nd, for Jeduthun; a psalm by David. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.4:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 4,
-      "marker_seq_type": 2,
-      "marker_index_in_verse": 2
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 609,
-      "page": 1806,
-      "raw_excerpt": "when he was in the desert of Judea. †ω",
-      "normalized_excerpt": "when he was in the desert of Judea. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.5:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 5,
-      "marker_seq_type": 3,
-      "marker_index_in_verse": 3
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 613,
-      "page": 1807,
-      "raw_excerpt": "For the End; a psalm by David. †ω",
-      "normalized_excerpt": "For the End; a psalm by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.6:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 6,
-      "marker_seq_type": 4,
-      "marker_index_in_verse": 4
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 616,
-      "page": 1808,
-      "raw_excerpt": "rs, when they were about to depart. †ω",
-      "normalized_excerpt": "rs, when they were about to depart. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.7:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 7,
-      "marker_seq_type": 5,
-      "marker_index_in_verse": 5
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 620,
-      "page": 1809,
-      "raw_excerpt": "an ode of a psalm of resurrection. †ω",
-      "normalized_excerpt": "an ode of a psalm of resurrection. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.8:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 8,
-      "marker_seq_type": 6,
-      "marker_index_in_verse": 6
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 624,
-      "page": 1810,
-      "raw_excerpt": "e End, in hymns; a psalm of an ode. †ω",
-      "normalized_excerpt": "e End, in hymns; a psalm of an ode. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.9:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 9,
-      "marker_seq_type": 7,
-      "marker_index_in_verse": 7
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 627,
-      "page": 1811,
-      "raw_excerpt": "e End; a psalm of an ode; by David. †ω",
-      "normalized_excerpt": "e End; a psalm of an ode; by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.10:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 10,
-      "marker_seq_type": 8,
-      "marker_index_in_verse": 8
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 632,
-      "page": 1813,
-      "raw_excerpt": "gs that shall be changed; by David. †ω",
-      "normalized_excerpt": "gs that shall be changed; by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.11:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 11,
-      "marker_seq_type": 9,
-      "marker_index_in_verse": 9
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 642,
-      "page": 1816,
-      "raw_excerpt": "b and the first ones taken captive. †",
-      "normalized_excerpt": "b and the first ones taken captive. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.12:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 12,
-      "marker_seq_type": 3,
-      "marker_index_in_verse": 10
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 648,
-      "page": 1818,
-      "raw_excerpt": "For Solomon. †ω",
-      "normalized_excerpt": "For Solomon. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.13:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 13,
-      "marker_seq_type": 10,
-      "marker_index_in_verse": 11
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 652,
-      "page": 1819,
-      "raw_excerpt": "A psalm for Asaph. †",
-      "normalized_excerpt": "A psalm for Asaph. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.14:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 14,
-      "marker_seq_type": 4,
-      "marker_index_in_verse": 12
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 657,
-      "page": 1822,
-      "raw_excerpt": "Of understanding; for Asaph. †ω",
-      "normalized_excerpt": "Of understanding; for Asaph. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.15:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 15,
-      "marker_seq_type": 11,
-      "marker_index_in_verse": 13
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 662,
-      "page": 1823,
-      "raw_excerpt": "rrupt; a psalm of an ode for Asaph. †",
-      "normalized_excerpt": "rrupt; a psalm of an ode for Asaph. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.16:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 16,
-      "marker_seq_type": 5,
-      "marker_index_in_verse": 14
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 666,
-      "page": 1824,
-      "raw_excerpt": "for Asaph, an ode to the Assyrian. †",
-      "normalized_excerpt": "for Asaph, an ode to the Assyrian. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.17:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 17,
-      "marker_seq_type": 6,
-      "marker_index_in_verse": 15
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 670,
-      "page": 1825,
-      "raw_excerpt": "cerning Idithun; a psalm for Asaph. †ω",
-      "normalized_excerpt": "cerning Idithun; a psalm for Asaph. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.18:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 18,
-      "marker_seq_type": 12,
-      "marker_index_in_verse": 16
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 674,
-      "page": 1826,
-      "raw_excerpt": "oncerning understanding; for Asaph. †",
-      "normalized_excerpt": "oncerning understanding; for Asaph. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.19:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 19,
-      "marker_seq_type": 7,
-      "marker_index_in_verse": 17
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 683,
-      "page": 1831,
-      "raw_excerpt": "A psalm for Asaph. †",
-      "normalized_excerpt": "A psalm for Asaph. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.20:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 20,
-      "marker_seq_type": 8,
-      "marker_index_in_verse": 18
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 687,
-      "page": 1832,
-      "raw_excerpt": "h, a psalm concerning the Assyrian. †ω",
-      "normalized_excerpt": "h, a psalm concerning the Assyrian. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.21:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 21,
-      "marker_seq_type": 13,
-      "marker_index_in_verse": 19
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 691,
-      "page": 1833,
-      "raw_excerpt": "the winepresses; a psalm for Asaph. †",
-      "normalized_excerpt": "the winepresses; a psalm for Asaph. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.22:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 22,
-      "marker_seq_type": 9,
-      "marker_index_in_verse": 20
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 695,
-      "page": 1834,
-      "raw_excerpt": "A psalm for Asaph. †ω",
-      "normalized_excerpt": "A psalm for Asaph. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.23:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 23,
-      "marker_seq_type": 14,
-      "marker_index_in_verse": 21
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 699,
-      "page": 1835,
-      "raw_excerpt": "An ode of a psalm for Asaph. †",
-      "normalized_excerpt": "An ode of a psalm for Asaph. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.24:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 24,
-      "marker_seq_type": 10,
-      "marker_index_in_verse": 22
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 705,
-      "page": 1836,
-      "raw_excerpt": "ses; a psalm for the sons of Korah. †ω",
-      "normalized_excerpt": "ses; a psalm for the sons of Korah. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.25:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 25,
-      "marker_seq_type": 15,
-      "marker_index_in_verse": 23
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 709,
-      "page": 1837,
-      "raw_excerpt": "End; a psalm for the sons of Korah. †ω",
-      "normalized_excerpt": "End; a psalm for the sons of Korah. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.26:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 26,
-      "marker_seq_type": 16,
-      "marker_index_in_verse": 24
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 713,
-      "page": 1838,
-      "raw_excerpt": "A prayer by David. †ω",
-      "normalized_excerpt": "A prayer by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.27:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 27,
-      "marker_seq_type": 17,
-      "marker_index_in_verse": 25
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 717,
-      "page": 1839,
-      "raw_excerpt": "lm of an ode for the sons of Korah. †ω",
-      "normalized_excerpt": "lm of an ode for the sons of Korah. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.28:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 28,
-      "marker_seq_type": 18,
-      "marker_index_in_verse": 26
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 720,
-      "page": 1839,
-      "raw_excerpt": "erstanding for Heman the Israelite. †ω",
-      "normalized_excerpt": "erstanding for Heman the Israelite. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.29:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 29,
-      "marker_seq_type": 19,
-      "marker_index_in_verse": 27
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 724,
-      "page": 1841,
-      "raw_excerpt": "rstanding; for Ethan the Israelite. †ω",
-      "normalized_excerpt": "rstanding; for Ethan the Israelite. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.30:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 30,
-      "marker_seq_type": 20,
-      "marker_index_in_verse": 28
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 731,
-      "page": 1844,
-      "raw_excerpt": "A prayer of Moses, a man of God. †ω",
-      "normalized_excerpt": "A prayer of Moses, a man of God. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.31:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 31,
-      "marker_seq_type": 21,
-      "marker_index_in_verse": 29
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 735,
-      "page": 1845,
-      "raw_excerpt": "The praise of an ode by David. †ω",
-      "normalized_excerpt": "The praise of an ode by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.32:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 32,
-      "marker_seq_type": 22,
-      "marker_index_in_verse": 30
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 739,
-      "page": 1846,
-      "raw_excerpt": "alm of an ode; for the Sabbath day. †ω",
-      "normalized_excerpt": "alm of an ode; for the Sabbath day. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.33:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 33,
-      "marker_seq_type": 23,
-      "marker_index_in_verse": 31
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 743,
-      "page": 1847,
-      "raw_excerpt": "led; the praise of an ode by David. †ω",
-      "normalized_excerpt": "led; the praise of an ode by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.34:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 34,
-      "marker_seq_type": 24,
-      "marker_index_in_verse": 32
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 746,
-      "page": 1848,
-      "raw_excerpt": "id; for the fourth day of the week. †",
-      "normalized_excerpt": "id; for the fourth day of the week. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.35:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 35,
-      "marker_seq_type": 11,
-      "marker_index_in_verse": 33
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 751,
-      "page": 1849,
-      "raw_excerpt": "The praise of an ode by David. †ω",
-      "normalized_excerpt": "The praise of an ode by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.36:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 36,
-      "marker_seq_type": 25,
-      "marker_index_in_verse": 34
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 756,
-      "page": 1850,
-      "raw_excerpt": "ter the captivity; an ode by David. †",
-      "normalized_excerpt": "ter the captivity; an ode by David. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.37:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 37,
-      "marker_seq_type": 12,
-      "marker_index_in_verse": 35
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 760,
-      "page": 1851,
-      "raw_excerpt": "David; when His earth is restored. †",
-      "normalized_excerpt": "David; when His earth is restored. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.38:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 38,
-      "marker_seq_type": 13,
-      "marker_index_in_verse": 36
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 764,
-      "page": 1852,
-      "raw_excerpt": "A psalm by David. †ω",
-      "normalized_excerpt": "A psalm by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.39:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 39,
-      "marker_seq_type": 26,
-      "marker_index_in_verse": 37
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 767,
-      "page": 1852,
-      "raw_excerpt": "A psalm by David. †ω",
-      "normalized_excerpt": "A psalm by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.40:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 40,
-      "marker_seq_type": 27,
-      "marker_index_in_verse": 38
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 772,
-      "page": 1853,
-      "raw_excerpt": "A psalm of thanksgiving. †",
-      "normalized_excerpt": "A psalm of thanksgiving. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.41:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 41,
-      "marker_seq_type": 14,
-      "marker_index_in_verse": 39
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 774,
-      "page": 1854,
-      "raw_excerpt": "A psalm by David. †ω",
-      "normalized_excerpt": "A psalm by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.42:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 42,
-      "marker_seq_type": 28,
-      "marker_index_in_verse": 40
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 777,
-      "page": 1854,
-      "raw_excerpt": "t his supplication before the Lord. †ω",
-      "normalized_excerpt": "t his supplication before the Lord. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.43:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 43,
-      "marker_seq_type": 29,
-      "marker_index_in_verse": 41
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 786,
-      "page": 1856,
-      "raw_excerpt": "By David. †ω",
-      "normalized_excerpt": "By David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.44:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 44,
-      "marker_seq_type": 30,
-      "marker_index_in_verse": 42
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 792,
-      "page": 1857,
-      "raw_excerpt": "By David. †ω",
-      "normalized_excerpt": "By David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.45:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 45,
-      "marker_seq_type": 31,
-      "marker_index_in_verse": 43
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 796,
-      "page": 1860,
-      "raw_excerpt": "Alleluia. †",
-      "normalized_excerpt": "Alleluia. †",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.46:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 46,
-      "marker_seq_type": 15,
-      "marker_index_in_verse": 44
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 812,
-      "page": 1868,
-      "raw_excerpt": "The ode of a psalm; by David. †ω",
-      "normalized_excerpt": "The ode of a psalm; by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.47:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 47,
-      "marker_seq_type": 32,
-      "marker_index_in_verse": 45
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 815,
-      "page": 1869,
-      "raw_excerpt": "For the End; a psalm by David. †ω",
-      "normalized_excerpt": "For the End; a psalm by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.48:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 48,
-      "marker_seq_type": 33,
-      "marker_index_in_verse": 46
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 821,
-      "page": 1871,
-      "raw_excerpt": "A psalm by David. †ω",
-      "normalized_excerpt": "A psalm by David. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.49:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 49,
-      "marker_seq_type": 34,
-      "marker_index_in_verse": 47
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 823,
-      "page": 1872,
-      "raw_excerpt": "Alleluia. †ω",
-      "normalized_excerpt": "Alleluia. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.50:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 50,
-      "marker_seq_type": 35,
-      "marker_index_in_verse": 48
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 826,
-      "page": 1872,
-      "raw_excerpt": "Alleluia. †ω",
-      "normalized_excerpt": "Alleluia. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.51:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 51,
-      "marker_seq_type": 36,
-      "marker_index_in_verse": 49
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 845,
-      "page": 1873,
-      "raw_excerpt": "Alleluia. †ω",
-      "normalized_excerpt": "Alleluia. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.52:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 52,
-      "marker_seq_type": 37,
-      "marker_index_in_verse": 50
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 864,
-      "page": 1874,
-      "raw_excerpt": "Alleluia. †ω",
-      "normalized_excerpt": "Alleluia. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.53:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 53,
-      "marker_seq_type": 38,
-      "marker_index_in_verse": 51
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 871,
-      "page": 1875,
-      "raw_excerpt": "Alleluia. †ω",
-      "normalized_excerpt": "Alleluia. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.54:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 54,
-      "marker_seq_type": 39,
-      "marker_index_in_verse": 52
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 877,
-      "page": 1876,
-      "raw_excerpt": "Alleluia. †ω",
-      "normalized_excerpt": "Alleluia. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.55:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 55,
-      "marker_seq_type": 40,
-      "marker_index_in_verse": 53
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 879,
-      "page": 1877,
-      "raw_excerpt": "Alleluia. †ω",
-      "normalized_excerpt": "Alleluia. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.56:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 56,
-      "marker_seq_type": 41,
-      "marker_index_in_verse": 54
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 882,
-      "page": 1877,
-      "raw_excerpt": "Alleluia. †ω",
-      "normalized_excerpt": "Alleluia. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.57:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 57,
-      "marker_seq_type": 42,
-      "marker_index_in_verse": 55
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 889,
-      "page": 1879,
-      "raw_excerpt": "Alleluia. †ω",
-      "normalized_excerpt": "Alleluia. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.58:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 58,
-      "marker_seq_type": 43,
-      "marker_index_in_verse": 56
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 903,
-      "page": 1889,
-      "raw_excerpt": "An ode of ascents. †ω",
-      "normalized_excerpt": "An ode of ascents. †ω",
-      "anchor": "PSA.1:1",
+      "marker": "unknown",
+      "anchor": "PSA.59:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 59,
-      "marker_seq_type": 44,
-      "marker_index_in_verse": 57
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 992,
-      "page": 1897,
-      "raw_excerpt": "Alleluia. †ω",
-      "normalized_excerpt": "Alleluia. †ω",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.60:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 60,
-      "marker_seq_type": 45,
-      "marker_index_in_verse": 1
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 1001,
-      "page": 1900,
-      "raw_excerpt": "By David. †ω",
-      "normalized_excerpt": "By David. †ω",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.61:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 61,
-      "marker_seq_type": 46,
-      "marker_index_in_verse": 2
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 1007,
-      "page": 1901,
-      "raw_excerpt": "By David. †ω",
-      "normalized_excerpt": "By David. †ω",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.62:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 62,
-      "marker_seq_type": 47,
-      "marker_index_in_verse": 3
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "††",
-      "ownership": "inline_body",
-      "element_index": 1015,
-      "page": 1902,
-      "raw_excerpt": "For the End; a psalm by David. ††",
-      "normalized_excerpt": "For the End; a psalm by David. ††",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.63:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 63,
-      "marker_seq_type": 1,
-      "marker_index_in_verse": 4
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 1020,
-      "page": 1903,
-      "raw_excerpt": "For the End; a psalm by David. †ω",
-      "normalized_excerpt": "For the End; a psalm by David. †ω",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.64:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 64,
-      "marker_seq_type": 48,
-      "marker_index_in_verse": 5
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 1024,
-      "page": 1904,
-      "raw_excerpt": "A psalm by David. †",
-      "normalized_excerpt": "A psalm by David. †",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.65:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 65,
-      "marker_seq_type": 16,
-      "marker_index_in_verse": 6
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 1032,
-      "page": 1906,
-      "raw_excerpt": "David, when his son persecuted him. †ω",
-      "normalized_excerpt": "David, when his son persecuted him. †ω",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.66:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 66,
-      "marker_seq_type": 49,
-      "marker_index_in_verse": 7
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 1036,
-      "page": 1907,
-      "raw_excerpt": "By David; against Goliath. †",
-      "normalized_excerpt": "By David; against Goliath. †",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.67:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 67,
-      "marker_seq_type": 17,
-      "marker_index_in_verse": 8
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 1039,
-      "page": 1908,
-      "raw_excerpt": "A praise by David. †ω",
-      "normalized_excerpt": "A praise by David. †ω",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.68:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 68,
-      "marker_seq_type": 50,
-      "marker_index_in_verse": 9
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 1044,
-      "page": 1909,
-      "raw_excerpt": "Alleluia; of Aggeus and Zacharias. †ω",
-      "normalized_excerpt": "Alleluia; of Aggeus and Zacharias. †ω",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.69:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 69,
-      "marker_seq_type": 51,
-      "marker_index_in_verse": 10
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 1048,
-      "page": 1910,
-      "raw_excerpt": "Alleluia; of Aggeus and Zacharias. †",
-      "normalized_excerpt": "Alleluia; of Aggeus and Zacharias. †",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.70:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 70,
-      "marker_seq_type": 18,
-      "marker_index_in_verse": 11
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 1052,
-      "page": 1911,
-      "raw_excerpt": "Alleluia; of Aggeus and Zacharias. †",
-      "normalized_excerpt": "Alleluia; of Aggeus and Zacharias. †",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.71:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 71,
-      "marker_seq_type": 19,
-      "marker_index_in_verse": 12
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†ω",
-      "ownership": "inline_body",
-      "element_index": 1054,
-      "page": 1912,
-      "raw_excerpt": "Alleluia; of Aggeus and Zacharias. †ω",
-      "normalized_excerpt": "Alleluia; of Aggeus and Zacharias. †ω",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.72:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 72,
-      "marker_seq_type": 52,
-      "marker_index_in_verse": 13
+      "source": "reindexed_from_md"
     },
     {
-      "marker": "†",
-      "ownership": "inline_body",
-      "element_index": 1065,
-      "page": 1914,
-      "raw_excerpt": "ught in single combat with Goliath. †",
-      "normalized_excerpt": "ught in single combat with Goliath. †",
-      "anchor": "PSA.2:1",
+      "marker": "unknown",
+      "anchor": "PSA.73:1",
+      "marker_index_in_verse": 1,
       "marker_seq_book": 73,
-      "marker_seq_type": 20,
-      "marker_index_in_verse": 14
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.74:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 74,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.75:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 75,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.76:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 76,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.77:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 77,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.78:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 78,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.79:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 79,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.80:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 80,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.81:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 81,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.82:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 82,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.83:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 83,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.84:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 84,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.85:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 85,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.86:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 86,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.87:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 87,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.88:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 88,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.89:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 89,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.90:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 90,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.91:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 91,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.92:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 92,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.93:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 93,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.94:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 94,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.95:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 95,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.96:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 96,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.97:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 97,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.98:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 98,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.99:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 99,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.100:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 100,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.101:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 101,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.102:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 102,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.103:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 103,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.104:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 104,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.107:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 105,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.108:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 106,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.109:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 107,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.110:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 108,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.111:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 109,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.112:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 110,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.113:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 111,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.114:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 112,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.115:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 113,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.116:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 114,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.117:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 115,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.118:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 116,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.119:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 117,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.134:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 118,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.136:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 119,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.137:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 120,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.138:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 121,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.139:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 122,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.140:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 123,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.142:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 124,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.143:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 125,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.144:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 126,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.145:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 127,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.146:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 128,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.147:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 129,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.148:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 130,
+      "source": "reindexed_from_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "PSA.151:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 131,
+      "source": "reindexed_from_md"
     }
-  ]
+  ],
+  "audit_trail": {
+    "original_parse_date": "2026-03-10",
+    "original_marker_count": 73,
+    "original_effective_anchors": 3,
+    "repair_reason": "Corrupt anchoring: 73 raw markers collapsed to 3 effective anchors (PSA.0:7, PSA.1:1, PSA.2:1). Reconciled from PSA_footnotes.md (131 healthy entries)."
+  }
 }
