@@ -1,90 +1,222 @@
 {
   "book_code": "LAM",
   "testament": "OT",
-  "timestamp": "2026-03-11T16:09:36.409516",
-  "registry_version": "1.3.0",
-  "body_checksum": "9094c7f29cbcec052e87e332afd24a84830ae8466eb3aa468d5702eab99f98b4",
+  "timestamp": "2026-03-13T13:38:10.289235",
+  "registry_version": "1.4.0",
+  "body_checksum": "b0c2fb75c3fbfc6deb0fccfdfc5066155b1af587c1e5997e255028143c647277",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/LAM.md",
+  "residuals_path": "/home/ark/orthodoxphronema/staging/validated/OT/LAM_residuals.json",
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/LAM_editorial_candidates.json",
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
     },
     "V2": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V2   Chapter count: expected 5, got 3"
+      ]
     },
     "V3": {
       "status": "PASS",
       "messages": []
     },
     "V4": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.1: jumps from 1 to 10",
+        "V4   Missing verses in ch.1: jumps from 10 to 17",
+        "V4   Missing verses in ch.2: jumps from 1 to 16",
+        "V4   Missing verses in ch.2: jumps from 16 to 20",
+        "V4   Missing verses in ch.3: jumps from 1 to 19",
+        "V4   Missing verses in ch.3: jumps from 19 to 51",
+        "V4   Missing verses in ch.3: jumps from 51 to 54",
+        "V4   Missing verses in ch.4: jumps from 1 to 16",
+        "V4   Missing verses in ch.4: jumps from 16 to 21"
+      ]
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
-    "V6": {
-      "status": "PASS",
-      "messages": []
-    },
     "V7": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 14/150 verses (9.3%); gap of 136"
+      ]
     },
     "V8": {
       "status": "PASS",
       "messages": []
     },
     "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse LAM.1:2 found inside LAM.1:1 at line 19",
+        "V9   Embedded verse LAM.1:3 found inside LAM.1:1 at line 19",
+        "V9   Embedded verse LAM.1:4 found inside LAM.1:1 at line 19",
+        "V9   Embedded verse LAM.1:5 found inside LAM.1:1 at line 19",
+        "V9   Embedded verse LAM.1:6 found inside LAM.1:1 at line 19",
+        "V9   Embedded verse LAM.1:7 found inside LAM.1:1 at line 19",
+        "V9   Embedded verse LAM.1:8 found inside LAM.1:1 at line 19",
+        "V9   Embedded verse LAM.1:9 found inside LAM.1:1 at line 19",
+        "V9   Embedded verse LAM.1:11 found inside LAM.1:10 at line 20",
+        "V9   Embedded verse LAM.1:12 found inside LAM.1:10 at line 20",
+        "V9   Embedded verse LAM.1:13 found inside LAM.1:10 at line 20",
+        "V9   Embedded verse LAM.1:14 found inside LAM.1:10 at line 20",
+        "V9   Embedded verse LAM.1:15 found inside LAM.1:10 at line 20",
+        "V9   Embedded verse LAM.1:16 found inside LAM.1:10 at line 20",
+        "V9   Embedded verse LAM.2:2 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:3 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:4 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:5 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:6 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:7 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:8 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:9 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:10 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:11 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:12 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:13 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:14 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:15 found inside LAM.2:1 at line 24",
+        "V9   Embedded verse LAM.2:17 found inside LAM.2:16 at line 25",
+        "V9   Embedded verse LAM.2:18 found inside LAM.2:16 at line 25",
+        "V9   Embedded verse LAM.2:19 found inside LAM.2:16 at line 25",
+        "V9   Embedded verse LAM.3:2 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:3 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:4 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:5 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:6 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:7 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:8 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:9 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:10 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:11 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:12 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:13 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:14 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:15 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:16 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:17 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:18 found inside LAM.3:1 at line 29",
+        "V9   Embedded verse LAM.3:20 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:21 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:22 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:23 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:24 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:25 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:26 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:27 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:28 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:29 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:30 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:31 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:32 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:33 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:34 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:35 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:36 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:37 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:38 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:39 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:40 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:41 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:42 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:43 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:44 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:45 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:46 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:47 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:48 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:49 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:50 found inside LAM.3:19 at line 30",
+        "V9   Embedded verse LAM.3:52 found inside LAM.3:51 at line 31",
+        "V9   Embedded verse LAM.3:53 found inside LAM.3:51 at line 31",
+        "V9   Embedded verse LAM.4:2 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:3 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:4 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:5 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:6 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:7 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:8 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:9 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:10 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:11 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:12 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:13 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:14 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:15 found inside LAM.4:1 at line 34",
+        "V9   Embedded verse LAM.4:17 found inside LAM.4:16 at line 35",
+        "V9   Embedded verse LAM.4:18 found inside LAM.4:16 at line 35",
+        "V9   Embedded verse LAM.4:19 found inside LAM.4:16 at line 35",
+        "V9   Embedded verse LAM.4:20 found inside LAM.4:16 at line 35"
+      ]
+    },
+    "V10": {
+      "status": "SKIP",
+      "messages": []
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
       "status": "PASS",
       "messages": []
     }
   },
-  "residuals_sidecar": [
-    {
-      "anchor": "LAM.3:63",
-      "classification": "dropcap_ocr",
-      "description": "Verse LAM.3:63 missing - dropcap or extraction gap",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "LAM.3:64",
-      "classification": "dropcap_ocr",
-      "description": "Verse LAM.3:64 missing - dropcap or extraction gap",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "LAM.3:65",
-      "classification": "dropcap_ocr",
-      "description": "Verse LAM.3:65 missing - dropcap or extraction gap",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "LAM.3:66",
-      "classification": "dropcap_ocr",
-      "description": "Verse LAM.3:66 missing - dropcap or extraction gap",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "LAM.4:1",
-      "classification": "dropcap_ocr",
-      "description": "Verse LAM.4:1 missing - dropcap or extraction gap",
-      "blocking": false,
-      "ratified": false
-    },
-    {
-      "anchor": "LAM.5:1",
-      "classification": "dropcap_ocr",
-      "description": "Verse LAM.5:1 missing - dropcap or extraction gap",
-      "blocking": false,
-      "ratified": false
-    }
-  ],
-  "decision": "dry-run"
+  "residuals_sidecar": {
+    "residuals": [
+      {
+        "anchor": "LAM.3:63",
+        "classification": "dropcap_ocr",
+        "description": "Verse LAM.3:63 missing - dropcap or extraction gap",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "LAM.3:64",
+        "classification": "dropcap_ocr",
+        "description": "Verse LAM.3:64 missing - dropcap or extraction gap",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "LAM.3:65",
+        "classification": "dropcap_ocr",
+        "description": "Verse LAM.3:65 missing - dropcap or extraction gap",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "LAM.3:66",
+        "classification": "dropcap_ocr",
+        "description": "Verse LAM.3:66 missing - dropcap or extraction gap",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "LAM.4:1",
+        "classification": "dropcap_ocr",
+        "description": "Verse LAM.4:1 missing - dropcap or extraction gap",
+        "blocking": false,
+        "ratified": false
+      },
+      {
+        "anchor": "LAM.5:1",
+        "classification": "dropcap_ocr",
+        "description": "Verse LAM.5:1 missing - dropcap or extraction gap",
+        "blocking": false,
+        "ratified": false
+      }
+    ]
+  },
+  "decision": "blocked"
 }

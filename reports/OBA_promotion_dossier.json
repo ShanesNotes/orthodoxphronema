@@ -1,10 +1,18 @@
 {
   "book_code": "OBA",
   "testament": "OT",
-  "timestamp": "2026-03-11T16:09:37.032397",
-  "registry_version": "1.3.0",
-  "body_checksum": "41d9b894cdaff9f09308bb010ddcb59bc083a324da721a959ea1a1d85060c337",
+  "timestamp": "2026-03-13T13:36:35.391049",
+  "registry_version": "1.4.0",
+  "body_checksum": "36c47ff67e0101de705e36b50e31927f05949ef5e045ce235c3e92ff51e53b37",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/OBA.md",
+  "residuals_path": null,
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/OBA_editorial_candidates.json",
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
@@ -18,30 +26,46 @@
       "messages": []
     },
     "V4": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.1: jumps from 2 to 4"
+      ]
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
-    "V6": {
-      "status": "PASS",
-      "messages": []
-    },
     "V7": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 3/21 verses (14.3%); gap of 18"
+      ]
     },
     "V8": {
       "status": "PASS",
       "messages": []
     },
     "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse OBA.1:3 found inside OBA.1:2 at line 18"
+      ]
+    },
+    "V10": {
+      "status": "WARN",
+      "messages": [
+        "V10  Absorbed content: OBA.1:3 likely present in OBA.1:2 (Brenton word match: 16/29 = 55%)"
+      ]
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
       "status": "PASS",
       "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "blocked"
 }

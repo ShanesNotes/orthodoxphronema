@@ -244,6 +244,9 @@ def promote_book(book_code: str, dry_run: bool = False,
     if residuals_path.exists():
         with open(residuals_path, encoding="utf-8") as f:
             sidecar = json.load(f)
+        # Normalize legacy bare-list sidecars into canonical dict form
+        if isinstance(sidecar, list):
+            sidecar = {"residuals": sidecar}
 
     ratified_classes = classifications_requiring_entry_ratification(
         Path(RESIDUAL_CLASSES)

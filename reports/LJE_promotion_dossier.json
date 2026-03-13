@@ -1,10 +1,18 @@
 {
   "book_code": "LJE",
   "testament": "OT",
-  "timestamp": "2026-03-11T16:09:36.574870",
-  "registry_version": "1.3.0",
-  "body_checksum": "d82e92f4d41a014489dedd80a7f4501d64067ce029d15a90bcf13ca1586ba989",
+  "timestamp": "2026-03-13T13:36:34.550594",
+  "registry_version": "1.4.0",
+  "body_checksum": "162548b88ae74e967c1bb645ba82fcd1119ddfe1ebcd29dd5ed8cc09178ba8ee",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/LJE.md",
+  "residuals_path": null,
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/LJE_editorial_candidates.json",
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
@@ -18,32 +26,83 @@
       "messages": []
     },
     "V4": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.1: jumps from 2 to 5",
+        "V4   Missing verses in ch.1: jumps from 6 to 14",
+        "V4   Missing verses in ch.1: jumps from 14 to 28",
+        "V4   Missing verses in ch.1: jumps from 28 to 31",
+        "V4   Missing verses in ch.1: jumps from 31 to 39",
+        "V4   Missing verses in ch.1: jumps from 39 to 44"
+      ]
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
-    "V6": {
-      "status": "PASS",
-      "messages": []
-    },
     "V7": {
-      "status": "PASS",
-      "messages": []
-    },
-    "V8": {
       "status": "WARN",
       "messages": [
-        "V8   Heading density: 6 headings / 1 chapters (6.0/ch)"
+        "V7   Completeness: 9/73 verses (12.3%); gap of 64"
       ]
     },
+    "V8": {
+      "status": "PASS",
+      "messages": []
+    },
     "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse LJE.1:3 found inside LJE.1:2 at line 19",
+        "V9   Embedded verse LJE.1:4 found inside LJE.1:2 at line 19",
+        "V9   Embedded verse LJE.1:7 found inside LJE.1:6 at line 23",
+        "V9   Embedded verse LJE.1:8 found inside LJE.1:6 at line 23",
+        "V9   Embedded verse LJE.1:9 found inside LJE.1:6 at line 23",
+        "V9   Embedded verse LJE.1:10 found inside LJE.1:6 at line 23",
+        "V9   Embedded verse LJE.1:11 found inside LJE.1:6 at line 23",
+        "V9   Embedded verse LJE.1:12 found inside LJE.1:6 at line 23",
+        "V9   Embedded verse LJE.1:13 found inside LJE.1:6 at line 23",
+        "V9   Embedded verse LJE.1:15 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:16 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:17 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:18 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:19 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:20 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:21 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:22 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:23 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:24 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:25 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:26 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:27 found inside LJE.1:14 at line 25",
+        "V9   Embedded verse LJE.1:29 found inside LJE.1:28 at line 27",
+        "V9   Embedded verse LJE.1:30 found inside LJE.1:28 at line 27",
+        "V9   Embedded verse LJE.1:32 found inside LJE.1:31 at line 28",
+        "V9   Embedded verse LJE.1:33 found inside LJE.1:31 at line 28",
+        "V9   Embedded verse LJE.1:34 found inside LJE.1:31 at line 28",
+        "V9   Embedded verse LJE.1:35 found inside LJE.1:31 at line 28",
+        "V9   Embedded verse LJE.1:36 found inside LJE.1:31 at line 28",
+        "V9   Embedded verse LJE.1:37 found inside LJE.1:31 at line 28",
+        "V9   Embedded verse LJE.1:38 found inside LJE.1:31 at line 28",
+        "V9   Embedded verse LJE.1:40 found inside LJE.1:39 at line 30",
+        "V9   Embedded verse LJE.1:41 found inside LJE.1:39 at line 30",
+        "V9   Embedded verse LJE.1:42 found inside LJE.1:39 at line 30",
+        "V9   Embedded verse LJE.1:43 found inside LJE.1:39 at line 30"
+      ]
+    },
+    "V10": {
+      "status": "SKIP",
+      "messages": []
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
       "status": "PASS",
       "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "blocked"
 }

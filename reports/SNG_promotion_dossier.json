@@ -1,47 +1,188 @@
 {
   "book_code": "SNG",
   "testament": "OT",
-  "timestamp": "2026-03-11T16:09:37.166423",
-  "registry_version": "1.3.0",
-  "body_checksum": "054213848edbc41e31f2cdcfdff840bb92600d5684dc6360d11189ae4eaaa9f8",
+  "timestamp": "2026-03-13T13:36:36.189748",
+  "registry_version": "1.4.0",
+  "body_checksum": "63bfdd0146ba317f95da29c495ac6016d12b8a065c294c4522cc1f8ed0dbf81b",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/SNG.md",
+  "residuals_path": null,
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/SNG_editorial_candidates.json",
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
     },
     "V2": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V2   Chapter count: expected 8, got 1"
+      ]
     },
     "V3": {
       "status": "PASS",
       "messages": []
     },
     "V4": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.1: jumps from 1 to 8",
+        "V4   Missing verses in ch.1: jumps from 8 to 10",
+        "V4   Missing verses in ch.2: jumps from 3 to 14",
+        "V4   Missing verses in ch.3: jumps from 4 to 8",
+        "V4   Missing verses in ch.3: jumps from 9 to 11",
+        "V4   Missing verses in ch.4: jumps from 3 to 8",
+        "V4   Missing verses in ch.4: jumps from 9 to 11",
+        "V4   Missing verses in ch.4: jumps from 12 to 16",
+        "V4   Missing verses in ch.5: jumps from 3 to 8",
+        "V4   Missing verses in ch.5: jumps from 12 to 16",
+        "V4   Missing verses in ch.6: jumps from 3 to 8",
+        "V4   Missing verses in ch.6: jumps from 9 to 11",
+        "V4   Missing verses in ch.7: jumps from 3 to 7",
+        "V4   Missing verses in ch.7: jumps from 9 to 11",
+        "V4   Missing verses in ch.8: jumps from 1 to 3",
+        "V4   Missing verses in ch.8: jumps from 3 to 8",
+        "V4   Missing verses in ch.8: jumps from 9 to 11"
+      ]
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
-    "V6": {
-      "status": "PASS",
-      "messages": []
-    },
     "V7": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 54/117 verses (46.2%); gap of 63"
+      ]
     },
     "V8": {
       "status": "PASS",
       "messages": []
     },
     "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse SNG.1:2 found inside SNG.1:1 at line 17",
+        "V9   Embedded verse SNG.1:3 found inside SNG.1:1 at line 17",
+        "V9   Embedded verse SNG.1:4 found inside SNG.1:1 at line 17",
+        "V9   Embedded verse SNG.1:5 found inside SNG.1:1 at line 17",
+        "V9   Embedded verse SNG.1:6 found inside SNG.1:1 at line 17",
+        "V9   Embedded verse SNG.1:7 found inside SNG.1:1 at line 17",
+        "V9   Embedded verse SNG.1:9 found inside SNG.1:8 at line 19",
+        "V9   Embedded verse SNG.2:4 found inside SNG.2:3 at line 29",
+        "V9   Embedded verse SNG.2:5 found inside SNG.2:3 at line 29",
+        "V9   Embedded verse SNG.2:6 found inside SNG.2:3 at line 29",
+        "V9   Embedded verse SNG.2:7 found inside SNG.2:3 at line 29",
+        "V9   Embedded verse SNG.2:8 found inside SNG.2:3 at line 29",
+        "V9   Embedded verse SNG.2:9 found inside SNG.2:3 at line 29",
+        "V9   Embedded verse SNG.2:10 found inside SNG.2:3 at line 29",
+        "V9   Embedded verse SNG.2:11 found inside SNG.2:3 at line 29",
+        "V9   Embedded verse SNG.2:12 found inside SNG.2:3 at line 29",
+        "V9   Embedded verse SNG.2:13 found inside SNG.2:3 at line 29",
+        "V9   Embedded verse SNG.3:5 found inside SNG.3:4 at line 39",
+        "V9   Embedded verse SNG.3:6 found inside SNG.3:4 at line 39",
+        "V9   Embedded verse SNG.3:7 found inside SNG.3:4 at line 39",
+        "V9   Embedded verse SNG.3:10 found inside SNG.3:9 at line 43",
+        "V9   Embedded verse SNG.4:4 found inside SNG.4:3 at line 51",
+        "V9   Embedded verse SNG.4:5 found inside SNG.4:3 at line 51",
+        "V9   Embedded verse SNG.4:6 found inside SNG.4:3 at line 51",
+        "V9   Embedded verse SNG.4:7 found inside SNG.4:3 at line 51",
+        "V9   Embedded verse SNG.4:10 found inside SNG.4:9 at line 55",
+        "V9   Embedded verse SNG.4:13 found inside SNG.4:12 at line 59",
+        "V9   Embedded verse SNG.4:14 found inside SNG.4:12 at line 59",
+        "V9   Embedded verse SNG.4:15 found inside SNG.4:12 at line 59",
+        "V9   Embedded verse SNG.5:4 found inside SNG.5:3 at line 68",
+        "V9   Embedded verse SNG.5:5 found inside SNG.5:3 at line 68",
+        "V9   Embedded verse SNG.5:6 found inside SNG.5:3 at line 68",
+        "V9   Embedded verse SNG.5:7 found inside SNG.5:3 at line 68",
+        "V9   Embedded verse SNG.5:13 found inside SNG.5:12 at line 78",
+        "V9   Embedded verse SNG.5:14 found inside SNG.5:12 at line 78",
+        "V9   Embedded verse SNG.5:15 found inside SNG.5:12 at line 78",
+        "V9   Embedded verse SNG.6:4 found inside SNG.6:3 at line 88",
+        "V9   Embedded verse SNG.6:5 found inside SNG.6:3 at line 88",
+        "V9   Embedded verse SNG.6:6 found inside SNG.6:3 at line 88",
+        "V9   Embedded verse SNG.6:7 found inside SNG.6:3 at line 88",
+        "V9   Embedded verse SNG.6:10 found inside SNG.6:9 at line 92",
+        "V9   Embedded verse SNG.7:4 found inside SNG.7:3 at line 102",
+        "V9   Embedded verse SNG.7:5 found inside SNG.7:3 at line 102",
+        "V9   Embedded verse SNG.7:6 found inside SNG.7:3 at line 102",
+        "V9   Embedded verse SNG.7:10 found inside SNG.7:9 at line 108",
+        "V9   Embedded verse SNG.8:2 found inside SNG.8:1 at line 116",
+        "V9   Embedded verse SNG.8:4 found inside SNG.8:3 at line 118",
+        "V9   Embedded verse SNG.8:5 found inside SNG.8:3 at line 118",
+        "V9   Embedded verse SNG.8:6 found inside SNG.8:3 at line 118",
+        "V9   Embedded verse SNG.8:7 found inside SNG.8:3 at line 118",
+        "V9   Embedded verse SNG.8:10 found inside SNG.8:9 at line 122"
+      ]
+    },
+    "V10": {
+      "status": "WARN",
+      "messages": [
+        "V10  Absorbed content: SNG.1:2 likely present in SNG.1:1 (Brenton word match: 7/8 = 88%)",
+        "V10  Absorbed content: SNG.1:3 likely present in SNG.1:1 (Brenton word match: 13/15 = 87%)",
+        "V10  Absorbed content: SNG.1:4 likely present in SNG.1:1 (Brenton word match: 11/26 = 42%)",
+        "V10  Absorbed content: SNG.1:5 likely present in SNG.1:1 (Brenton word match: 8/8 = 100%)",
+        "V10  Absorbed content: SNG.1:6 likely present in SNG.1:1 (Brenton word match: 13/19 = 68%)",
+        "V10  Absorbed content: SNG.1:7 likely present in SNG.1:1 (Brenton word match: 13/21 = 62%)",
+        "V10  Absorbed content: SNG.1:9 likely present in SNG.1:8 (Brenton word match: 6/7 = 86%)",
+        "V10  Absorbed content: SNG.2:4 likely present in SNG.2:3 (Brenton word match: 6/6 = 100%)",
+        "V10  Absorbed content: SNG.2:5 likely present in SNG.2:3 (Brenton word match: 7/9 = 78%)",
+        "V10  Absorbed content: SNG.2:6 likely present in SNG.2:3 (Brenton word match: 9/9 = 100%)",
+        "V10  Absorbed content: SNG.2:7 likely present in SNG.2:3 (Brenton word match: 9/13 = 69%)",
+        "V10  Absorbed content: SNG.2:8 likely present in SNG.2:3 (Brenton word match: 8/10 = 80%)",
+        "V10  Absorbed content: SNG.2:9 likely present in SNG.2:3 (Brenton word match: 11/15 = 73%)",
+        "V10  Absorbed content: SNG.2:10 likely present in SNG.2:3 (Brenton word match: 7/8 = 88%)",
+        "V10  Absorbed content: SNG.2:11 likely present in SNG.2:3 (Brenton word match: 6/6 = 100%)",
+        "V10  Absorbed content: SNG.2:12 likely present in SNG.2:3 (Brenton word match: 10/12 = 83%)",
+        "V10  Absorbed content: SNG.2:13 likely present in SNG.2:3 (Brenton word match: 12/17 = 71%)",
+        "V10  Absorbed content: SNG.3:5 likely present in SNG.3:4 (Brenton word match: 8/13 = 62%)",
+        "V10  Absorbed content: SNG.3:6 likely present in SNG.3:4 (Brenton word match: 12/14 = 86%)",
+        "V10  Absorbed content: SNG.3:7 likely present in SNG.3:4 (Brenton word match: 9/9 = 100%)",
+        "V10  Absorbed content: SNG.3:10 likely present in SNG.3:9 (Brenton word match: 8/12 = 67%)",
+        "V10  Absorbed content: SNG.4:4 likely present in SNG.4:3 (Brenton word match: 10/12 = 83%)",
+        "V10  Absorbed content: SNG.4:5 likely present in SNG.4:3 (Brenton word match: 7/7 = 100%)",
+        "V10  Absorbed content: SNG.4:6 likely present in SNG.4:3 (Brenton word match: 9/10 = 90%)",
+        "V10  Absorbed content: SNG.4:7 likely present in SNG.4:3 (Brenton word match: 3/6 = 50%)",
+        "V10  Absorbed content: SNG.4:10 likely present in SNG.4:9 (Brenton word match: 12/14 = 86%)",
+        "V10  Absorbed content: SNG.4:13 likely present in SNG.4:12 (Brenton word match: 6/10 = 60%)",
+        "V10  Absorbed content: SNG.4:14 likely present in SNG.4:12 (Brenton word match: 9/12 = 75%)",
+        "V10  Absorbed content: SNG.4:15 likely present in SNG.4:12 (Brenton word match: 5/8 = 62%)",
+        "V10  Absorbed content: SNG.5:4 likely present in SNG.5:3 (Brenton word match: 3/7 = 43%)",
+        "V10  Absorbed content: SNG.5:5 likely present in SNG.5:3 (Brenton word match: 8/11 = 73%)",
+        "V10  Absorbed content: SNG.5:6 likely present in SNG.5:3 (Brenton word match: 5/11 = 45%)",
+        "V10  Absorbed content: SNG.5:7 likely present in SNG.5:3 (Brenton word match: 8/16 = 50%)",
+        "V10  Absorbed content: SNG.5:13 likely present in SNG.5:12 (Brenton word match: 10/11 = 91%)",
+        "V10  Absorbed content: SNG.5:14 likely present in SNG.5:12 (Brenton word match: 7/10 = 70%)",
+        "V10  Absorbed content: SNG.5:15 likely present in SNG.5:12 (Brenton word match: 5/9 = 56%)",
+        "V10  Absorbed content: SNG.6:4 likely present in SNG.6:3 (Brenton word match: 5/9 = 56%)",
+        "V10  Absorbed content: SNG.6:5 likely present in SNG.6:3 (Brenton word match: 14/17 = 82%)",
+        "V10  Absorbed content: SNG.6:6 likely present in SNG.6:3 (Brenton word match: 17/22 = 77%)",
+        "V10  Absorbed content: SNG.6:7 likely present in SNG.6:3 (Brenton word match: 5/8 = 62%)",
+        "V10  Absorbed content: SNG.6:10 likely present in SNG.6:9 (Brenton word match: 7/11 = 64%)",
+        "V10  Absorbed content: SNG.7:4 likely present in SNG.7:3 (Brenton word match: 3/3 = 100%)",
+        "V10  Absorbed content: SNG.7:5 likely present in SNG.7:3 (Brenton word match: 12/16 = 75%)",
+        "V10  Absorbed content: SNG.7:6 likely present in SNG.7:3 (Brenton word match: 6/11 = 55%)",
+        "V10  Absorbed content: SNG.7:10 likely present in SNG.7:9 (Brenton word match: 4/10 = 40%)",
+        "V10  Absorbed content: SNG.8:2 likely present in SNG.8:1 (Brenton word match: 15/21 = 71%)",
+        "V10  Absorbed content: SNG.8:4 likely present in SNG.8:3 (Brenton word match: 5/12 = 42%)",
+        "V10  Absorbed content: SNG.8:6 likely present in SNG.8:3 (Brenton word match: 14/18 = 78%)",
+        "V10  Absorbed content: SNG.8:7 likely present in SNG.8:3 (Brenton word match: 14/16 = 88%)",
+        "V10  Absorbed content: SNG.8:10 likely present in SNG.8:9 (Brenton word match: 6/8 = 75%)"
+      ]
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
       "status": "PASS",
       "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "blocked"
 }

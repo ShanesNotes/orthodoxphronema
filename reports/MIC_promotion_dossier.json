@@ -1,47 +1,220 @@
 {
   "book_code": "MIC",
   "testament": "OT",
-  "timestamp": "2026-03-11T16:09:36.707043",
-  "registry_version": "1.3.0",
-  "body_checksum": "d7fba436cd8a1786358e6c689220a712211443bd1fc0e3186fdcd006463e59c8",
+  "timestamp": "2026-03-13T13:36:34.912871",
+  "registry_version": "1.4.0",
+  "body_checksum": "5b2482fa3ed1bbd7ae30fd7f8877126e49c46600e24efd80695c883378cd8566",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/MIC.md",
+  "residuals_path": null,
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/MIC_editorial_candidates.json",
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
     },
     "V2": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V2   Chapter count: expected 7, got 5"
+      ]
     },
     "V3": {
-      "status": "PASS",
-      "messages": []
+      "status": "FAIL",
+      "messages": [
+        "V3   Chapter sequence broken at line 35: expected 2, got 3",
+        "V3   Chapter sequence broken at line 50: expected 3, got 5",
+        "V3   Chapter sequence broken at line 56: expected 4, got 6",
+        "V3   Chapter sequence broken at line 63: expected 5, got 7"
+      ]
     },
     "V4": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.1: jumps from 1 to 7",
+        "V4   Missing verses in ch.1: jumps from 8 to 16",
+        "V4   Missing verses in ch.2: jumps from 1 to 5",
+        "V4   Missing verses in ch.2: jumps from 5 to 7",
+        "V4   Missing verses in ch.2: jumps from 7 to 10",
+        "V4   Missing verses in ch.2: jumps from 11 to 13",
+        "V4   Missing verses in ch.3: jumps from 1 to 4",
+        "V4   Missing verses in ch.3: jumps from 4 to 8",
+        "V4   Missing verses in ch.3: jumps from 8 to 12",
+        "V4   Missing verses in ch.4: jumps from 1 to 9",
+        "V4   Missing verses in ch.4: jumps from 9 to 12",
+        "V4   Missing verses in ch.4: jumps from 12 to 14",
+        "V4   Missing verses in ch.5: jumps from 2 to 14",
+        "V4   Missing verses in ch.6: jumps from 1 to 6",
+        "V4   Missing verses in ch.6: jumps from 6 to 12",
+        "V4   Missing verses in ch.6: jumps from 12 to 16",
+        "V4   Missing verses in ch.7: jumps from 1 to 6"
+      ]
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
-    "V6": {
-      "status": "PASS",
-      "messages": []
-    },
     "V7": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 28/105 verses (26.7%); gap of 77"
+      ]
     },
     "V8": {
       "status": "PASS",
       "messages": []
     },
     "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse MIC.1:2 found inside MIC.1:1 at line 20",
+        "V9   Embedded verse MIC.1:3 found inside MIC.1:1 at line 20",
+        "V9   Embedded verse MIC.1:4 found inside MIC.1:1 at line 20",
+        "V9   Embedded verse MIC.1:5 found inside MIC.1:1 at line 20",
+        "V9   Embedded verse MIC.1:6 found inside MIC.1:1 at line 20",
+        "V9   Embedded verse MIC.1:9 found inside MIC.1:8 at line 23",
+        "V9   Embedded verse MIC.1:10 found inside MIC.1:8 at line 23",
+        "V9   Embedded verse MIC.1:11 found inside MIC.1:8 at line 23",
+        "V9   Embedded verse MIC.1:12 found inside MIC.1:8 at line 23",
+        "V9   Embedded verse MIC.1:13 found inside MIC.1:8 at line 23",
+        "V9   Embedded verse MIC.1:14 found inside MIC.1:8 at line 23",
+        "V9   Embedded verse MIC.1:15 found inside MIC.1:8 at line 23",
+        "V9   Embedded verse MIC.2:2 found inside MIC.2:1 at line 27",
+        "V9   Embedded verse MIC.2:3 found inside MIC.2:1 at line 27",
+        "V9   Embedded verse MIC.2:4 found inside MIC.2:1 at line 27",
+        "V9   Embedded verse MIC.2:6 found inside MIC.2:5 at line 28",
+        "V9   Embedded verse MIC.2:8 found inside MIC.2:7 at line 29",
+        "V9   Embedded verse MIC.2:9 found inside MIC.2:7 at line 29",
+        "V9   Embedded verse MIC.2:12 found inside MIC.2:11 at line 32",
+        "V9   Embedded verse MIC.3:2 found inside MIC.3:1 at line 37",
+        "V9   Embedded verse MIC.3:3 found inside MIC.3:1 at line 37",
+        "V9   Embedded verse MIC.3:5 found inside MIC.3:4 at line 38",
+        "V9   Embedded verse MIC.3:6 found inside MIC.3:4 at line 38",
+        "V9   Embedded verse MIC.3:7 found inside MIC.3:4 at line 38",
+        "V9   Embedded verse MIC.3:9 found inside MIC.3:8 at line 39",
+        "V9   Embedded verse MIC.3:10 found inside MIC.3:8 at line 39",
+        "V9   Embedded verse MIC.3:11 found inside MIC.3:8 at line 39",
+        "V9   Embedded verse MIC.4:2 found inside MIC.4:1 at line 45",
+        "V9   Embedded verse MIC.4:3 found inside MIC.4:1 at line 45",
+        "V9   Embedded verse MIC.4:4 found inside MIC.4:1 at line 45",
+        "V9   Embedded verse MIC.4:5 found inside MIC.4:1 at line 45",
+        "V9   Embedded verse MIC.4:6 found inside MIC.4:1 at line 45",
+        "V9   Embedded verse MIC.4:7 found inside MIC.4:1 at line 45",
+        "V9   Embedded verse MIC.4:8 found inside MIC.4:1 at line 45",
+        "V9   Embedded verse MIC.4:10 found inside MIC.4:9 at line 46",
+        "V9   Embedded verse MIC.4:11 found inside MIC.4:9 at line 46",
+        "V9   Embedded verse MIC.4:13 found inside MIC.4:12 at line 47",
+        "V9   Embedded verse MIC.5:3 found inside MIC.5:2 at line 53",
+        "V9   Embedded verse MIC.5:4 found inside MIC.5:2 at line 53",
+        "V9   Embedded verse MIC.5:5 found inside MIC.5:2 at line 53",
+        "V9   Embedded verse MIC.5:6 found inside MIC.5:2 at line 53",
+        "V9   Embedded verse MIC.5:7 found inside MIC.5:2 at line 53",
+        "V9   Embedded verse MIC.5:8 found inside MIC.5:2 at line 53",
+        "V9   Embedded verse MIC.5:9 found inside MIC.5:2 at line 53",
+        "V9   Embedded verse MIC.5:10 found inside MIC.5:2 at line 53",
+        "V9   Embedded verse MIC.5:11 found inside MIC.5:2 at line 53",
+        "V9   Embedded verse MIC.5:12 found inside MIC.5:2 at line 53",
+        "V9   Embedded verse MIC.5:13 found inside MIC.5:2 at line 53",
+        "V9   Embedded verse MIC.6:2 found inside MIC.6:1 at line 58",
+        "V9   Embedded verse MIC.6:3 found inside MIC.6:1 at line 58",
+        "V9   Embedded verse MIC.6:4 found inside MIC.6:1 at line 58",
+        "V9   Embedded verse MIC.6:5 found inside MIC.6:1 at line 58",
+        "V9   Embedded verse MIC.6:7 found inside MIC.6:6 at line 59",
+        "V9   Embedded verse MIC.6:8 found inside MIC.6:6 at line 59",
+        "V9   Embedded verse MIC.6:9 found inside MIC.6:6 at line 59",
+        "V9   Embedded verse MIC.6:10 found inside MIC.6:6 at line 59",
+        "V9   Embedded verse MIC.6:11 found inside MIC.6:6 at line 59",
+        "V9   Embedded verse MIC.6:13 found inside MIC.6:12 at line 60",
+        "V9   Embedded verse MIC.6:14 found inside MIC.6:12 at line 60",
+        "V9   Embedded verse MIC.6:15 found inside MIC.6:12 at line 60",
+        "V9   Embedded verse MIC.7:2 found inside MIC.7:1 at line 65",
+        "V9   Embedded verse MIC.7:3 found inside MIC.7:1 at line 65",
+        "V9   Embedded verse MIC.7:4 found inside MIC.7:1 at line 65",
+        "V9   Embedded verse MIC.7:5 found inside MIC.7:1 at line 65"
+      ]
+    },
+    "V10": {
+      "status": "WARN",
+      "messages": [
+        "V10  Absorbed content: MIC.1:2 likely present in MIC.1:1 (Brenton word match: 13/15 = 87%)",
+        "V10  Absorbed content: MIC.1:3 likely present in MIC.1:1 (Brenton word match: 11/13 = 85%)",
+        "V10  Absorbed content: MIC.1:4 likely present in MIC.1:1 (Brenton word match: 11/14 = 79%)",
+        "V10  Absorbed content: MIC.1:5 likely present in MIC.1:1 (Brenton word match: 13/14 = 93%)",
+        "V10  Absorbed content: MIC.1:6 likely present in MIC.1:1 (Brenton word match: 12/17 = 71%)",
+        "V10  Absorbed content: MIC.1:9 likely present in MIC.1:8 (Brenton word match: 8/11 = 73%)",
+        "V10  Absorbed content: MIC.1:10 likely present in MIC.1:8 (Brenton word match: 9/15 = 60%)",
+        "V10  Absorbed content: MIC.1:11 likely present in MIC.1:8 (Brenton word match: 8/14 = 57%)",
+        "V10  Absorbed content: MIC.1:12 likely present in MIC.1:8 (Brenton word match: 11/14 = 79%)",
+        "V10  Absorbed content: MIC.1:13 likely present in MIC.1:8 (Brenton word match: 10/14 = 71%)",
+        "V10  Absorbed content: MIC.1:14 likely present in MIC.1:8 (Brenton word match: 13/15 = 87%)",
+        "V10  Absorbed content: MIC.1:15 likely present in MIC.1:8 (Brenton word match: 12/14 = 86%)",
+        "V10  Absorbed content: MIC.2:2 likely present in MIC.2:1 (Brenton word match: 8/11 = 73%)",
+        "V10  Absorbed content: MIC.2:3 likely present in MIC.2:1 (Brenton word match: 17/22 = 77%)",
+        "V10  Absorbed content: MIC.2:4 likely present in MIC.2:1 (Brenton word match: 19/28 = 68%)",
+        "V10  Absorbed content: MIC.2:6 likely present in MIC.2:5 (Brenton word match: 8/12 = 67%)",
+        "V10  Absorbed content: MIC.2:8 likely present in MIC.2:7 (Brenton word match: 8/14 = 57%)",
+        "V10  Absorbed content: MIC.2:9 likely present in MIC.2:7 (Brenton word match: 12/19 = 63%)",
+        "V10  Absorbed content: MIC.2:12 likely present in MIC.2:11 (Brenton word match: 29/33 = 88%)",
+        "V10  Absorbed content: MIC.3:2 likely present in MIC.3:1 (Brenton word match: 10/12 = 83%)",
+        "V10  Absorbed content: MIC.3:3 likely present in MIC.3:1 (Brenton word match: 11/17 = 65%)",
+        "V10  Absorbed content: MIC.3:5 likely present in MIC.3:4 (Brenton word match: 20/26 = 77%)",
+        "V10  Absorbed content: MIC.3:6 likely present in MIC.3:4 (Brenton word match: 17/19 = 89%)",
+        "V10  Absorbed content: MIC.3:7 likely present in MIC.3:4 (Brenton word match: 15/20 = 75%)",
+        "V10  Absorbed content: MIC.3:9 likely present in MIC.3:8 (Brenton word match: 8/13 = 62%)",
+        "V10  Absorbed content: MIC.3:10 likely present in MIC.3:8 (Brenton word match: 6/7 = 86%)",
+        "V10  Absorbed content: MIC.3:11 likely present in MIC.3:8 (Brenton word match: 10/25 = 40%)",
+        "V10  Absorbed content: MIC.4:2 likely present in MIC.4:1 (Brenton word match: 19/21 = 90%)",
+        "V10  Absorbed content: MIC.4:3 likely present in MIC.4:1 (Brenton word match: 31/33 = 94%)",
+        "V10  Absorbed content: MIC.4:4 likely present in MIC.4:1 (Brenton word match: 17/19 = 89%)",
+        "V10  Absorbed content: MIC.4:5 likely present in MIC.4:1 (Brenton word match: 10/11 = 91%)",
+        "V10  Absorbed content: MIC.4:6 likely present in MIC.4:1 (Brenton word match: 10/14 = 71%)",
+        "V10  Absorbed content: MIC.4:7 likely present in MIC.4:1 (Brenton word match: 18/20 = 90%)",
+        "V10  Absorbed content: MIC.4:8 likely present in MIC.4:1 (Brenton word match: 13/18 = 72%)",
+        "V10  Absorbed content: MIC.4:10 likely present in MIC.4:9 (Brenton word match: 13/32 = 41%)",
+        "V10  Absorbed content: MIC.4:11 likely present in MIC.4:9 (Brenton word match: 11/14 = 79%)",
+        "V10  Absorbed content: MIC.4:13 likely present in MIC.4:12 (Brenton word match: 20/30 = 67%)",
+        "V10  Absorbed content: MIC.5:3 likely present in MIC.5:2 (Brenton word match: 17/19 = 89%)",
+        "V10  Absorbed content: MIC.5:4 likely present in MIC.5:2 (Brenton word match: 23/24 = 96%)",
+        "V10  Absorbed content: MIC.5:5 likely present in MIC.5:2 (Brenton word match: 22/25 = 88%)",
+        "V10  Absorbed content: MIC.5:6 likely present in MIC.5:2 (Brenton word match: 18/19 = 95%)",
+        "V10  Absorbed content: MIC.5:7 likely present in MIC.5:2 (Brenton word match: 23/27 = 85%)",
+        "V10  Absorbed content: MIC.5:8 likely present in MIC.5:2 (Brenton word match: 8/14 = 57%)",
+        "V10  Absorbed content: MIC.5:9 likely present in MIC.5:2 (Brenton word match: 13/15 = 87%)",
+        "V10  Absorbed content: MIC.5:10 likely present in MIC.5:2 (Brenton word match: 8/8 = 100%)",
+        "V10  Absorbed content: MIC.5:11 likely present in MIC.5:2 (Brenton word match: 8/10 = 80%)",
+        "V10  Absorbed content: MIC.5:12 likely present in MIC.5:2 (Brenton word match: 8/16 = 50%)",
+        "V10  Absorbed content: MIC.5:13 likely present in MIC.5:2 (Brenton word match: 5/7 = 71%)",
+        "V10  Absorbed content: MIC.6:2 likely present in MIC.6:1 (Brenton word match: 13/16 = 81%)",
+        "V10  Absorbed content: MIC.6:3 likely present in MIC.6:1 (Brenton word match: 8/14 = 57%)",
+        "V10  Absorbed content: MIC.6:4 likely present in MIC.6:1 (Brenton word match: 10/14 = 71%)",
+        "V10  Absorbed content: MIC.6:5 likely present in MIC.6:1 (Brenton word match: 16/22 = 73%)",
+        "V10  Absorbed content: MIC.6:7 likely present in MIC.6:6 (Brenton word match: 13/15 = 87%)",
+        "V10  Absorbed content: MIC.6:8 likely present in MIC.6:6 (Brenton word match: 11/17 = 65%)",
+        "V10  Absorbed content: MIC.6:9 likely present in MIC.6:6 (Brenton word match: 15/16 = 94%)",
+        "V10  Absorbed content: MIC.6:10 likely present in MIC.6:6 (Brenton word match: 6/11 = 55%)",
+        "V10  Absorbed content: MIC.6:11 likely present in MIC.6:6 (Brenton word match: 5/6 = 83%)",
+        "V10  Absorbed content: MIC.6:13 likely present in MIC.6:12 (Brenton word match: 7/9 = 78%)",
+        "V10  Absorbed content: MIC.6:14 likely present in MIC.6:12 (Brenton word match: 17/23 = 74%)",
+        "V10  Absorbed content: MIC.6:15 likely present in MIC.6:12 (Brenton word match: 18/25 = 72%)",
+        "V10  Absorbed content: MIC.7:2 likely present in MIC.7:1 (Brenton word match: 10/19 = 53%)",
+        "V10  Absorbed content: MIC.7:3 likely present in MIC.7:1 (Brenton word match: 12/15 = 80%)",
+        "V10  Absorbed content: MIC.7:4 likely present in MIC.7:1 (Brenton word match: 9/18 = 50%)",
+        "V10  Absorbed content: MIC.7:5 likely present in MIC.7:1 (Brenton word match: 5/8 = 62%)"
+      ]
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
       "status": "PASS",
       "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "blocked"
 }

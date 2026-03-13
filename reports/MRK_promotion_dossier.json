@@ -1,7 +1,7 @@
 {
   "book_code": "MRK",
   "testament": "NT",
-  "timestamp": "2026-03-13T12:52:31.215732",
+  "timestamp": "2026-03-13T13:36:35.002942",
   "registry_version": "1.4.0",
   "body_checksum": "af6398d01c4b7ddc10a2b4bac17bec4538ce1fe04d0a6a0bf684ba4bdb940273",
   "allow_incomplete": true,
@@ -63,5 +63,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

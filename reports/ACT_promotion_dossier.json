@@ -1,7 +1,7 @@
 {
   "book_code": "ACT",
   "testament": "NT",
-  "timestamp": "2026-03-13T12:52:31.532688",
+  "timestamp": "2026-03-13T13:36:31.539411",
   "registry_version": "1.4.0",
   "body_checksum": "b8b0b33b276505bc78b030512e5a5909049f12d19e4b5d141d5b81e863be9bf9",
   "allow_incomplete": true,
@@ -61,5 +61,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

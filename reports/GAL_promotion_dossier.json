@@ -1,10 +1,10 @@
 {
   "book_code": "GAL",
   "testament": "NT",
-  "timestamp": "2026-03-13T12:09:47.343111",
+  "timestamp": "2026-03-13T13:36:32.647876",
   "registry_version": "1.4.0",
-  "body_checksum": "6694f2c35dd4b5bbdf89363e85eb0de9973684d4a3336f6ad178e28e5ddfd213",
-  "allow_incomplete": false,
+  "body_checksum": "c1548646a1c8c62cf421e0ae44af81c1191db4a3c6123c41e46ffed5f15737e6",
+  "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/GAL.md",
   "residuals_path": null,
   "editorial_candidates_path": null,
@@ -61,5 +61,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

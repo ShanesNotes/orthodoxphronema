@@ -1,7 +1,7 @@
 {
   "book_code": "JOH",
   "testament": "NT",
-  "timestamp": "2026-03-13T12:52:31.428125",
+  "timestamp": "2026-03-13T13:36:33.899202",
   "registry_version": "1.4.0",
   "body_checksum": "a878e17aa128d5095ef9cd6d7bb4729240590ea872e262c1f4d331db3e7f39ca",
   "allow_incomplete": true,
@@ -61,5 +61,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

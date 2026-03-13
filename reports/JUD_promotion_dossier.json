@@ -1,10 +1,10 @@
 {
   "book_code": "JUD",
   "testament": "NT",
-  "timestamp": "2026-03-13T10:05:35.140108",
+  "timestamp": "2026-03-13T13:36:34.206553",
   "registry_version": "1.4.0",
   "body_checksum": "2e7a12ee15cd5710bc91f419ef3537d7225161a20c87d2e1b2dc09ba0dc2e4b6",
-  "allow_incomplete": false,
+  "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/JUD.md",
   "residuals_path": null,
   "editorial_candidates_path": null,
@@ -61,5 +61,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

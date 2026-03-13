@@ -1,43 +1,239 @@
 {
   "book_code": "HOS",
   "testament": "OT",
-  "timestamp": "2026-03-11T16:09:35.686934",
-  "registry_version": "1.3.0",
-  "body_checksum": "782439c2a63c29afb8575f95bc4caf556ee6788002dee71bb0c2fbabdcb80bf7",
+  "timestamp": "2026-03-13T13:36:33.084372",
+  "registry_version": "1.4.0",
+  "body_checksum": "f35446da462d1dc872fdd448abcc6eb6675e869110825ca24054dea102919eab",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/HOS.md",
+  "residuals_path": "/home/ark/orthodoxphronema/staging/validated/OT/HOS_residuals.json",
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/HOS_editorial_candidates.json",
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
     },
     "V2": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V2   Chapter count: expected 14, got 3"
+      ]
     },
     "V3": {
-      "status": "PASS",
-      "messages": []
+      "status": "FAIL",
+      "messages": [
+        "V3   Chapter sequence broken at line 52: expected 2, got 3",
+        "V3   Chapter sequence broken at line 75: expected 3, got 9"
+      ]
     },
     "V4": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.1: jumps from 3 to 5",
+        "V4   Missing verses in ch.1: jumps from 6 to 8",
+        "V4   Missing verses in ch.2: jumps from 2 to 6",
+        "V4   Missing verses in ch.2: jumps from 6 to 8",
+        "V4   Missing verses in ch.2: jumps from 8 to 13",
+        "V4   Missing verses in ch.2: jumps from 15 to 17",
+        "V4   Missing verses in ch.2: jumps from 17 to 19",
+        "V4   Missing verses in ch.2: jumps from 19 to 23",
+        "V4   Missing verses in ch.3: jumps from 2 to 4",
+        "V4   Missing verses in ch.5: jumps from 1 to 9",
+        "V4   Missing verses in ch.6: jumps from 1 to 4",
+        "V4   Missing verses in ch.8: jumps from 1 to 3",
+        "V4   Missing verses in ch.9: jumps from 1 to 14",
+        "V4   Missing verses in ch.9: jumps from 14 to 17",
+        "V4   Missing verses in ch.10: jumps from 1 to 4",
+        "V4   Missing verses in ch.10: jumps from 4 to 9",
+        "V4   Missing verses in ch.10: jumps from 9 to 12",
+        "V4   Missing verses in ch.12: jumps from 1 to 11",
+        "V4   Missing verses in ch.13: jumps from 1 to 3",
+        "V4   Missing verses in ch.13: jumps from 3 to 11",
+        "V4   Missing verses in ch.13: jumps from 11 to 15",
+        "V4   Missing verses in ch.14: jumps from 1 to 9"
+      ]
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
-    "V6": {
-      "status": "PASS",
-      "messages": []
-    },
     "V7": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 46/197 verses (23.4%); gap of 151"
+      ]
     },
     "V8": {
       "status": "PASS",
       "messages": []
     },
     "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse HOS.1:4 found inside HOS.1:3 at line 23",
+        "V9   Embedded verse HOS.1:7 found inside HOS.1:6 at line 26",
+        "V9   Embedded verse HOS.2:3 found inside HOS.2:2 at line 37",
+        "V9   Embedded verse HOS.2:4 found inside HOS.2:2 at line 37",
+        "V9   Embedded verse HOS.2:5 found inside HOS.2:2 at line 37",
+        "V9   Embedded verse HOS.2:7 found inside HOS.2:6 at line 38",
+        "V9   Embedded verse HOS.2:9 found inside HOS.2:8 at line 39",
+        "V9   Embedded verse HOS.2:10 found inside HOS.2:8 at line 39",
+        "V9   Embedded verse HOS.2:11 found inside HOS.2:8 at line 39",
+        "V9   Embedded verse HOS.2:12 found inside HOS.2:8 at line 39",
+        "V9   Embedded verse HOS.2:16 found inside HOS.2:15 at line 45",
+        "V9   Embedded verse HOS.2:18 found inside HOS.2:17 at line 46",
+        "V9   Embedded verse HOS.2:20 found inside HOS.2:19 at line 48",
+        "V9   Embedded verse HOS.2:21 found inside HOS.2:19 at line 48",
+        "V9   Embedded verse HOS.2:22 found inside HOS.2:19 at line 48",
+        "V9   Embedded verse HOS.3:3 found inside HOS.3:2 at line 56",
+        "V9   Embedded verse HOS.5:2 found inside HOS.5:1 at line 62",
+        "V9   Embedded verse HOS.5:3 found inside HOS.5:1 at line 62",
+        "V9   Embedded verse HOS.5:4 found inside HOS.5:1 at line 62",
+        "V9   Embedded verse HOS.5:5 found inside HOS.5:1 at line 62",
+        "V9   Embedded verse HOS.5:6 found inside HOS.5:1 at line 62",
+        "V9   Embedded verse HOS.5:7 found inside HOS.5:1 at line 62",
+        "V9   Embedded verse HOS.5:8 found inside HOS.5:1 at line 62",
+        "V9   Embedded verse HOS.6:2 found inside HOS.6:1 at line 66",
+        "V9   Embedded verse HOS.6:3 found inside HOS.6:1 at line 66",
+        "V9   Embedded verse HOS.8:2 found inside HOS.8:1 at line 71",
+        "V9   Embedded verse HOS.9:2 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:3 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:4 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:5 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:6 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:7 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:8 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:9 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:10 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:11 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:12 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:13 found inside HOS.9:1 at line 78",
+        "V9   Embedded verse HOS.9:15 found inside HOS.9:14 at line 80",
+        "V9   Embedded verse HOS.9:16 found inside HOS.9:14 at line 80",
+        "V9   Embedded verse HOS.10:2 found inside HOS.10:1 at line 84",
+        "V9   Embedded verse HOS.10:3 found inside HOS.10:1 at line 84",
+        "V9   Embedded verse HOS.10:5 found inside HOS.10:4 at line 86",
+        "V9   Embedded verse HOS.10:6 found inside HOS.10:4 at line 86",
+        "V9   Embedded verse HOS.10:7 found inside HOS.10:4 at line 86",
+        "V9   Embedded verse HOS.10:8 found inside HOS.10:4 at line 86",
+        "V9   Embedded verse HOS.10:10 found inside HOS.10:9 at line 88",
+        "V9   Embedded verse HOS.10:11 found inside HOS.10:9 at line 88",
+        "V9   Embedded verse HOS.12:2 found inside HOS.12:1 at line 94",
+        "V9   Embedded verse HOS.12:3 found inside HOS.12:1 at line 94",
+        "V9   Embedded verse HOS.12:4 found inside HOS.12:1 at line 94",
+        "V9   Embedded verse HOS.12:5 found inside HOS.12:1 at line 94",
+        "V9   Embedded verse HOS.12:6 found inside HOS.12:1 at line 94",
+        "V9   Embedded verse HOS.12:7 found inside HOS.12:1 at line 94",
+        "V9   Embedded verse HOS.12:8 found inside HOS.12:1 at line 94",
+        "V9   Embedded verse HOS.12:9 found inside HOS.12:1 at line 94",
+        "V9   Embedded verse HOS.12:10 found inside HOS.12:1 at line 94",
+        "V9   Embedded verse HOS.13:2 found inside HOS.13:1 at line 98",
+        "V9   Embedded verse HOS.13:4 found inside HOS.13:3 at line 100",
+        "V9   Embedded verse HOS.13:5 found inside HOS.13:3 at line 100",
+        "V9   Embedded verse HOS.13:6 found inside HOS.13:3 at line 100",
+        "V9   Embedded verse HOS.13:7 found inside HOS.13:3 at line 100",
+        "V9   Embedded verse HOS.13:8 found inside HOS.13:3 at line 100",
+        "V9   Embedded verse HOS.13:9 found inside HOS.13:3 at line 100",
+        "V9   Embedded verse HOS.13:10 found inside HOS.13:3 at line 100",
+        "V9   Embedded verse HOS.13:12 found inside HOS.13:11 at line 102",
+        "V9   Embedded verse HOS.13:13 found inside HOS.13:11 at line 102",
+        "V9   Embedded verse HOS.13:14 found inside HOS.13:11 at line 102",
+        "V9   Embedded verse HOS.14:2 found inside HOS.14:1 at line 106",
+        "V9   Embedded verse HOS.14:3 found inside HOS.14:1 at line 106",
+        "V9   Embedded verse HOS.14:4 found inside HOS.14:1 at line 106",
+        "V9   Embedded verse HOS.14:5 found inside HOS.14:1 at line 106",
+        "V9   Embedded verse HOS.14:6 found inside HOS.14:1 at line 106",
+        "V9   Embedded verse HOS.14:7 found inside HOS.14:1 at line 106",
+        "V9   Embedded verse HOS.14:8 found inside HOS.14:1 at line 106"
+      ]
+    },
+    "V10": {
+      "status": "WARN",
+      "messages": [
+        "V10  Absorbed content: HOS.1:4 likely present in HOS.1:3 (Brenton word match: 15/19 = 79%)",
+        "V10  Absorbed content: HOS.1:7 likely present in HOS.1:6 (Brenton word match: 18/18 = 100%)",
+        "V10  Absorbed content: HOS.2:4 likely present in HOS.2:2 (Brenton word match: 15/15 = 100%)",
+        "V10  Absorbed content: HOS.2:5 likely present in HOS.2:2 (Brenton word match: 15/15 = 100%)",
+        "V10  Absorbed content: HOS.2:7 likely present in HOS.2:8 (Brenton word match: 10/21 = 48%)",
+        "V10  Absorbed content: HOS.2:9 likely present in HOS.2:8 (Brenton word match: 10/21 = 48%)",
+        "V10  Absorbed content: HOS.2:10 likely present in HOS.2:8 (Brenton word match: 9/12 = 75%)",
+        "V10  Absorbed content: HOS.2:11 likely present in HOS.2:8 (Brenton word match: 18/19 = 95%)",
+        "V10  Absorbed content: HOS.2:12 likely present in HOS.2:8 (Brenton word match: 9/9 = 100%)",
+        "V10  Absorbed content: HOS.2:16 likely present in HOS.2:17 (Brenton word match: 5/10 = 50%)",
+        "V10  Absorbed content: HOS.2:18 likely present in HOS.2:17 (Brenton word match: 6/14 = 43%)",
+        "V10  Absorbed content: HOS.2:21 likely present in HOS.2:19 (Brenton word match: 10/14 = 71%)",
+        "V10  Absorbed content: HOS.2:22 likely present in HOS.2:19 (Brenton word match: 6/9 = 67%)",
+        "V10  Absorbed content: HOS.3:3 likely present in HOS.3:2 (Brenton word match: 8/17 = 47%)",
+        "V10  Absorbed content: HOS.5:2 likely present in HOS.5:1 (Brenton word match: 8/9 = 89%)",
+        "V10  Absorbed content: HOS.5:3 likely present in HOS.5:1 (Brenton word match: 10/10 = 100%)",
+        "V10  Absorbed content: HOS.5:4 likely present in HOS.5:1 (Brenton word match: 11/14 = 79%)",
+        "V10  Absorbed content: HOS.5:5 likely present in HOS.5:1 (Brenton word match: 13/18 = 72%)",
+        "V10  Absorbed content: HOS.5:6 likely present in HOS.5:1 (Brenton word match: 15/15 = 100%)",
+        "V10  Absorbed content: HOS.5:7 likely present in HOS.5:1 (Brenton word match: 15/16 = 94%)",
+        "V10  Absorbed content: HOS.5:8 likely present in HOS.5:1 (Brenton word match: 9/10 = 90%)",
+        "V10  Absorbed content: HOS.6:2 likely present in HOS.6:1 (Brenton word match: 10/11 = 91%)",
+        "V10  Absorbed content: HOS.6:3 likely present in HOS.6:1 (Brenton word match: 11/13 = 85%)",
+        "V10  Absorbed content: HOS.8:2 likely present in HOS.8:1 (Brenton word match: 4/6 = 67%)",
+        "V10  Absorbed content: HOS.9:2 likely present in HOS.9:1 (Brenton word match: 8/9 = 89%)",
+        "V10  Absorbed content: HOS.9:3 likely present in HOS.9:1 (Brenton word match: 13/13 = 100%)",
+        "V10  Absorbed content: HOS.9:4 likely present in HOS.9:1 (Brenton word match: 24/27 = 89%)",
+        "V10  Absorbed content: HOS.9:5 likely present in HOS.9:1 (Brenton word match: 4/6 = 67%)",
+        "V10  Absorbed content: HOS.9:6 likely present in HOS.9:1 (Brenton word match: 24/24 = 100%)",
+        "V10  Absorbed content: HOS.9:7 likely present in HOS.9:1 (Brenton word match: 16/18 = 89%)",
+        "V10  Absorbed content: HOS.9:8 likely present in HOS.9:1 (Brenton word match: 11/12 = 92%)",
+        "V10  Absorbed content: HOS.9:9 likely present in HOS.9:1 (Brenton word match: 13/16 = 81%)",
+        "V10  Absorbed content: HOS.9:10 likely present in HOS.9:1 (Brenton word match: 17/19 = 89%)",
+        "V10  Absorbed content: HOS.9:11 likely present in HOS.9:1 (Brenton word match: 9/10 = 90%)",
+        "V10  Absorbed content: HOS.9:12 likely present in HOS.9:1 (Brenton word match: 14/17 = 82%)",
+        "V10  Absorbed content: HOS.9:13 likely present in HOS.9:1 (Brenton word match: 10/11 = 91%)",
+        "V10  Absorbed content: HOS.9:15 likely present in HOS.9:14 (Brenton word match: 17/21 = 81%)",
+        "V10  Absorbed content: HOS.9:16 likely present in HOS.9:14 (Brenton word match: 19/21 = 90%)",
+        "V10  Absorbed content: HOS.10:2 likely present in HOS.10:1 (Brenton word match: 15/17 = 88%)",
+        "V10  Absorbed content: HOS.10:3 likely present in HOS.10:1 (Brenton word match: 5/8 = 62%)",
+        "V10  Absorbed content: HOS.10:5 likely present in HOS.10:4 (Brenton word match: 16/19 = 84%)",
+        "V10  Absorbed content: HOS.10:6 likely present in HOS.10:4 (Brenton word match: 14/17 = 82%)",
+        "V10  Absorbed content: HOS.10:7 likely present in HOS.10:4 (Brenton word match: 6/6 = 100%)",
+        "V10  Absorbed content: HOS.10:8 likely present in HOS.10:4 (Brenton word match: 17/18 = 94%)",
+        "V10  Absorbed content: HOS.10:10 likely present in HOS.10:9 (Brenton word match: 14/16 = 88%)",
+        "V10  Absorbed content: HOS.10:11 likely present in HOS.10:9 (Brenton word match: 23/23 = 100%)",
+        "V10  Absorbed content: HOS.12:2 likely present in HOS.12:1 (Brenton word match: 14/18 = 78%)",
+        "V10  Absorbed content: HOS.12:3 likely present in HOS.12:1 (Brenton word match: 10/13 = 77%)",
+        "V10  Absorbed content: HOS.12:4 likely present in HOS.12:1 (Brenton word match: 3/7 = 43%)",
+        "V10  Absorbed content: HOS.12:5 likely present in HOS.12:1 (Brenton word match: 12/14 = 86%)",
+        "V10  Absorbed content: HOS.12:6 likely present in HOS.12:1 (Brenton word match: 4/4 = 100%)",
+        "V10  Absorbed content: HOS.12:7 likely present in HOS.12:1 (Brenton word match: 6/11 = 55%)",
+        "V10  Absorbed content: HOS.12:8 likely present in HOS.12:1 (Brenton word match: 3/6 = 50%)",
+        "V10  Absorbed content: HOS.12:9 likely present in HOS.12:1 (Brenton word match: 11/17 = 65%)",
+        "V10  Absorbed content: HOS.12:10 likely present in HOS.12:1 (Brenton word match: 10/13 = 77%)",
+        "V10  Absorbed content: HOS.13:2 likely present in HOS.13:1 (Brenton word match: 21/23 = 91%)",
+        "V10  Absorbed content: HOS.13:4 likely present in HOS.13:3 (Brenton word match: 21/31 = 68%)",
+        "V10  Absorbed content: HOS.13:5 likely present in HOS.13:3 (Brenton word match: 5/6 = 83%)",
+        "V10  Absorbed content: HOS.13:6 likely present in HOS.13:3 (Brenton word match: 13/14 = 93%)",
+        "V10  Absorbed content: HOS.13:7 likely present in HOS.13:3 (Brenton word match: 4/4 = 100%)",
+        "V10  Absorbed content: HOS.13:8 likely present in HOS.13:3 (Brenton word match: 24/25 = 96%)",
+        "V10  Absorbed content: HOS.13:9 likely present in HOS.13:3 (Brenton word match: 3/4 = 75%)",
+        "V10  Absorbed content: HOS.13:10 likely present in HOS.13:3 (Brenton word match: 10/15 = 67%)",
+        "V10  Absorbed content: HOS.13:12 likely present in HOS.13:11 (Brenton word match: 4/5 = 80%)",
+        "V10  Absorbed content: HOS.13:13 likely present in HOS.13:11 (Brenton word match: 10/12 = 83%)",
+        "V10  Absorbed content: HOS.13:14 likely present in HOS.13:11 (Brenton word match: 18/21 = 86%)",
+        "V10  Absorbed content: HOS.14:2 likely present in HOS.14:1 (Brenton word match: 5/9 = 56%)",
+        "V10  Absorbed content: HOS.14:3 likely present in HOS.14:1 (Brenton word match: 20/20 = 100%)",
+        "V10  Absorbed content: HOS.14:4 likely present in HOS.14:1 (Brenton word match: 12/16 = 75%)",
+        "V10  Absorbed content: HOS.14:5 likely present in HOS.14:1 (Brenton word match: 11/12 = 92%)",
+        "V10  Absorbed content: HOS.14:6 likely present in HOS.14:1 (Brenton word match: 8/9 = 89%)",
+        "V10  Absorbed content: HOS.14:7 likely present in HOS.14:1 (Brenton word match: 9/10 = 90%)",
+        "V10  Absorbed content: HOS.14:8 likely present in HOS.14:1 (Brenton word match: 19/20 = 95%)"
+      ]
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
       "status": "PASS",
       "messages": []
     }
@@ -116,5 +312,5 @@
       }
     ]
   },
-  "decision": "dry-run"
+  "decision": "blocked"
 }

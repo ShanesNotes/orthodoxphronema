@@ -1,10 +1,10 @@
 {
   "book_code": "1TI",
   "testament": "NT",
-  "timestamp": "2026-03-13T10:19:19.265107",
+  "timestamp": "2026-03-13T13:36:30.486125",
   "registry_version": "1.4.0",
   "body_checksum": "2673379c5a097430bc0963ebb67012233116f673d6b7d73441932545086da632",
-  "allow_incomplete": false,
+  "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/1TI.md",
   "residuals_path": null,
   "editorial_candidates_path": null,
@@ -61,5 +61,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

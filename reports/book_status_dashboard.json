@@ -19,26 +19,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "509dff11fa9383132729f5f71505a3f4d21798da2baa61e1b816c417ec24d0a2",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "7381fa05018d7d4782a8151eddb33e79b2807b0303e57182cfaab86222cbee57",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "7381fa05018d7d4782a8151eddb33e79b2807b0303e57182cfaab86222cbee57"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -62,26 +62,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "e3ad73beaa512555a5dc4909c6e373cdb3e06b30ceb5b5be47545ca31e8ff89f",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "1e7066661ec66e1739043125f7114de8b4c676fa80d6e3c7e820b0af6b4960d2",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "1e7066661ec66e1739043125f7114de8b4c676fa80d6e3c7e820b0af6b4960d2"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -105,26 +105,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "afc4ce998babbe6a2ff6520735a209ec0e6eca7fc1e9a2685ebd3883b1e7ba1b",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "dab3c6e87a18b64bb0618441ca41fd09b11ebc8ee7391a183c8942f197bffd1b",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "dab3c6e87a18b64bb0618441ca41fd09b11ebc8ee7391a183c8942f197bffd1b"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -148,26 +148,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "0dcfbeef5cedee36d2533eaff4d437bb9cf58ecc6e18299457a3bd92f92de76e",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "8c83880113c9b6b9b89cfb2d466eb3943d022963feeda1635d714c2b7ea487fe",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "8c83880113c9b6b9b89cfb2d466eb3943d022963feeda1635d714c2b7ea487fe"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -191,26 +191,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "dabf983c9a1e2718b2c39efcf5d1e78dfd7749e63fc42cdc24d7e0719078f2d4",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "5108aeb2bf67a025b50098430b4a44595ffe49f8f3f12345817ead6d61cdfc0b",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "5108aeb2bf67a025b50098430b4a44595ffe49f8f3f12345817ead6d61cdfc0b"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -234,26 +234,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "2a0bf4dfb58c2651b12e56ff5e15f67bed34552776c1ea07d336649d8a22d0a8",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "8fdf5208733d5655a064d392e3b8fb3d70a3b414522d1f9d5767d60d67ce99f8",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "8fdf5208733d5655a064d392e3b8fb3d70a3b414522d1f9d5767d60d67ce99f8"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -277,26 +277,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "8cc53f1ae2e142eb2dd1aa3a1e487e72134f9226311ad3fbaef7a0112eacfe90",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "34d16bfba47b71f779c02362090eec3c7805880bb96ad2661499fccad53cf402",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "34d16bfba47b71f779c02362090eec3c7805880bb96ad2661499fccad53cf402"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -320,26 +320,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "c434f2fb9b3231a36c723cc96f8d282ba9f9ccf2b1f5bc48aba3862a5819837f",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "39611c5e8b38a7cdfb9cadefa16ba7bfd02d9479e71a7add79cbd42a34d8d41a",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "39611c5e8b38a7cdfb9cadefa16ba7bfd02d9479e71a7add79cbd42a34d8d41a"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -363,26 +363,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "b6dbb3814ed00f4c00e093c9c8a492a83ded0db18f22fdc627603e7d7b979dae",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "1f32bacedd19be6681e924a3c7b25b582ccf0dc0dc140e6baa8a4770a235b73a",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "1f32bacedd19be6681e924a3c7b25b582ccf0dc0dc140e6baa8a4770a235b73a"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -406,26 +406,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "4c399506ce03f131112489f0510fea4041f6d22da5325a912de6fe747ae9018f",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "15920b2c9d214bb0ba6596cc74aaa1fcc7528810ad61589972f5db9cba85e7ef",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "15920b2c9d214bb0ba6596cc74aaa1fcc7528810ad61589972f5db9cba85e7ef"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -449,26 +449,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "e05664c69f5fea2ad08fffb725f5c9b2ef4e6676cbc4ddb9e2d49861a00e99fa",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "fdfedf71deddc7ea84fa795f46864e1263da59f36b7d51227ce042e0bec07965",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "fdfedf71deddc7ea84fa795f46864e1263da59f36b7d51227ce042e0bec07965"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -492,26 +492,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "087eeafe1c7b398d869ed4441f2e4adcf691fbfeb9a05c9e7a4bd32c6e665b03",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "9b936d2f772dee3402b06c01a73a7eb9f5b4101256159d94c3ce93050fd946a3",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "9b936d2f772dee3402b06c01a73a7eb9f5b4101256159d94c3ce93050fd946a3"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -535,26 +535,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "d8cc500cdacdfba261ccaeaa20da10c3a97f805ddeb9ddbfb1e1be32f5db4210",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "b0b903068568d28c14dc215bc7b609bafbcebae22fb8a46815818e54fd7d9247",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "b0b903068568d28c14dc215bc7b609bafbcebae22fb8a46815818e54fd7d9247"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -578,26 +578,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "c14aed04a661df5b6bb940987f5e541d6a6dbda0e0d30c6cb39a4d997607fc8d",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "9e29469e9b9ef95cc27d1be5ad009cfcacaa6d614e652880c1e4f9481546c855",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "9e29469e9b9ef95cc27d1be5ad009cfcacaa6d614e652880c1e4f9481546c855"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -621,26 +621,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "51898ad0913fc7d562cc526800f8cb9fbe997b6909e224008067d9b83b8a7224",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "bc77c2aaf5630b3bd25ed4e3d166514c60a1311f0a36709f7f31ad4482a0810d",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "bc77c2aaf5630b3bd25ed4e3d166514c60a1311f0a36709f7f31ad4482a0810d"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -664,26 +664,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "6e8d70a019af7722c834995d1a0049a47827c6428e5f670ff29214b2c8a25611",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "b4f5b2d152e77eac272cea723438095208f23a3c9157386193c2452b0b59a362",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "b4f5b2d152e77eac272cea723438095208f23a3c9157386193c2452b0b59a362"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -707,26 +707,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "c77e406786af9f731e13ffadbf2cb8f5dfa8bc4972b983ec03e049f441e8ee20",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "c2b1a5c1d5d500e15b6a132909cec700dc842113364d6e68eefa9e641679fd33",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "c2b1a5c1d5d500e15b6a132909cec700dc842113364d6e68eefa9e641679fd33"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -750,26 +750,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "861f186adf15d54a6774646cccb6edcc8bcf59b44bcc34304ff2e27765964ba0",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "5ee28eebd8c472e7837775b2d611692b878164d66ff7b9e7e5b22073e537259c",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "5ee28eebd8c472e7837775b2d611692b878164d66ff7b9e7e5b22073e537259c"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -793,26 +793,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "5f701366f21d1ff5e56d5092f4d441b09208dbc498dd066aaf66ff288e00d115",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "05b87b988b8ce6503869db5906661837bcd46f63fd7b310c6a12fd3cafcd74c3",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "05b87b988b8ce6503869db5906661837bcd46f63fd7b310c6a12fd3cafcd74c3"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -836,26 +836,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "ac833a7b717ad989bd44e3006c4c027a0efc7baf41f8c0e73d69f04cec180b94",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "b00ed3e155ec1568915733b5071b13d21dac4e28aed5bce3b8df74eaeb0b0d1c",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "b00ed3e155ec1568915733b5071b13d21dac4e28aed5bce3b8df74eaeb0b0d1c"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
         "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -879,26 +879,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "961f64d10f4e2332b7f92b1f14c5aa8c05faa032ae398e1317136b08689edf68",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "44909b15448fe138f264058f082995fac030e12622501a993f7e0ce5489a115c",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "44909b15448fe138f264058f082995fac030e12622501a993f7e0ce5489a115c"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
-        "V8": "WARN",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V8": "PASS",
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -922,26 +922,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "a30baca8fa1d2dd69261dff4ac4d929eef74c6555b1285a964e332160b97f833",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "82f6a8c226083e313b3d42aafb4a9c4ff19351cb55bae6edd1c61545eaef1292",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "82f6a8c226083e313b3d42aafb4a9c4ff19351cb55bae6edd1c61545eaef1292"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
-        "V8": "WARN",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -965,26 +965,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "3a342b994113205f19aba570e5a55157776bf5dcf682db6372ac10ce54b04c02",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "3caa2d867d4afe241e04778929dc5126d3319670d09ace8bc86eb5c554c68aaa",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "3caa2d867d4afe241e04778929dc5126d3319670d09ace8bc86eb5c554c68aaa"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
+        "V2": "WARN",
         "V3": "PASS",
-        "V4": "PASS",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1008,26 +1008,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
-      "body_checksum": "efb6ccced37135ead3c5eab8ce0c0c2f2386ef14a79977f92c5736fa610cd681",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "669f33d1b688a83c85e589c9dd3a6969bb4fa51afd8a050e70130534543b75fe",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "low",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "669f33d1b688a83c85e589c9dd3a6969bb4fa51afd8a050e70130534543b75fe"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1051,26 +1051,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
-      "body_checksum": "3adda3a8978599b42e36af04515dd3290fb51ae994681dc02dbc4177f194edbd",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "2b76286f139de2a327c61d2a103d2ce79c9a0c5011a043d911aa667e2cccb7b2",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "low",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "2b76286f139de2a327c61d2a103d2ce79c9a0c5011a043d911aa667e2cccb7b2"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1094,26 +1094,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "6ab8ef3619c5ede3ded259474f03f1a6c6459f8f07440be3635035f7747df79c",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "88a992e9846a9a3f888139e84c9b539b29440b501a313a04140cf1971f44cd86",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "88a992e9846a9a3f888139e84c9b539b29440b501a313a04140cf1971f44cd86"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1137,26 +1137,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "054213848edbc41e31f2cdcfdff840bb92600d5684dc6360d11189ae4eaaa9f8",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "63bfdd0146ba317f95da29c495ac6016d12b8a065c294c4522cc1f8ed0dbf81b",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "63bfdd0146ba317f95da29c495ac6016d12b8a065c294c4522cc1f8ed0dbf81b"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
+        "V2": "WARN",
         "V3": "PASS",
-        "V4": "PASS",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1180,26 +1180,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
-      "body_checksum": "8b5e41edcb7d975e6fb51f7ed8b30e310875e495fc2f68126c5cb620a60fbf94",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "60661931348e80264220117d2b2386b4891d66b96d8c33002130680af3a97ae9",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "low",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "60661931348e80264220117d2b2386b4891d66b96d8c33002130680af3a97ae9"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1225,26 +1225,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "a3f8eeabb628ced9fa71efddad32c948b1a10922273b4227469d93f3a22b2c05",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "64168669839b2b886590496c3376ed53d7b6ec61fc2a8af9a1d56c048a582557",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "64168669839b2b886590496c3376ed53d7b6ec61fc2a8af9a1d56c048a582557"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "WARN",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 2,
@@ -1270,26 +1270,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
-      "body_checksum": "64d99071e74454ae489e200aa16d91e565bb73655744002ef85a90d6f3cb09de",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "6d2bc8500d5e5aa5b35a069c68a9c2b198b57a319f0681ad5996e0e5749a976b",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "low",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "6d2bc8500d5e5aa5b35a069c68a9c2b198b57a319f0681ad5996e0e5749a976b"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1313,26 +1313,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "782439c2a63c29afb8575f95bc4caf556ee6788002dee71bb0c2fbabdcb80bf7",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "f35446da462d1dc872fdd448abcc6eb6675e869110825ca24054dea102919eab",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "f35446da462d1dc872fdd448abcc6eb6675e869110825ca24054dea102919eab"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1356,26 +1356,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "8002ad09cdce2cd2b9fa9f42e3a30896dae08e30bcdc6f76785fe1d2db157584",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "3a02ac201c72dea1f9b4ca9f84f655ebfbdb8de0fddbe6f4d11695bd6a32687d",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "3a02ac201c72dea1f9b4ca9f84f655ebfbdb8de0fddbe6f4d11695bd6a32687d"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1399,26 +1399,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "d7fba436cd8a1786358e6c689220a712211443bd1fc0e3186fdcd006463e59c8",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "5b2482fa3ed1bbd7ae30fd7f8877126e49c46600e24efd80695c883378cd8566",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "5b2482fa3ed1bbd7ae30fd7f8877126e49c46600e24efd80695c883378cd8566"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1442,26 +1442,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "d47f004142627f256b93067e75c240663400e07b91bddf22c538177f522882ba",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "837f48fa59cb019a6ef1a707d65b72cf6526f1a8cb16e2efdf7b774bd6aebcba",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "837f48fa59cb019a6ef1a707d65b72cf6526f1a8cb16e2efdf7b774bd6aebcba"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
+        "V2": "WARN",
         "V3": "PASS",
-        "V4": "PASS",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1485,26 +1485,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "41d9b894cdaff9f09308bb010ddcb59bc083a324da721a959ea1a1d85060c337",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "36c47ff67e0101de705e36b50e31927f05949ef5e045ce235c3e92ff51e53b37",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "36c47ff67e0101de705e36b50e31927f05949ef5e045ce235c3e92ff51e53b37"
       },
       "validation": {
         "V1": "PASS",
         "V2": "PASS",
         "V3": "PASS",
-        "V4": "PASS",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1528,26 +1528,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "c1d23483204fb58befe95b80d963975a28c12cb98d238ea3ce10b62f1eab655b",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "3d2534f8e5150d53652ba73d88006b85196f0a7fc3424e267f5411ebbf7f8119",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "3d2534f8e5150d53652ba73d88006b85196f0a7fc3424e267f5411ebbf7f8119"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
+        "V2": "WARN",
         "V3": "PASS",
-        "V4": "PASS",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1571,26 +1571,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "3204d48bd295d9caa8856327ab54f222d2f6f949711d845a45e0faf3b8a9a529",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "306280e67fa3928e028eae5fc5b6e75185f144d29120f38424155ff4a2f3bfca",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "306280e67fa3928e028eae5fc5b6e75185f144d29120f38424155ff4a2f3bfca"
       },
       "validation": {
         "V1": "PASS",
         "V2": "PASS",
         "V3": "PASS",
-        "V4": "PASS",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1614,26 +1614,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "a77ca05f7ce0fd6315d70e9b92704d3059a2fb5a062704364896c934f5b80964",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "3d21499d1bb2357abeae36e61c6e3600e6d4e67219b21eabf194485031d54b80",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "3d21499d1bb2357abeae36e61c6e3600e6d4e67219b21eabf194485031d54b80"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
-        "V8": "WARN",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1657,26 +1657,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "a356782af17ec6638b129bd384e36e070bf3c264ba1af3b3ce5df440fda28255",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "eb9d8a4119565cc8443aacf6acada52561f48ba8866537f735b9b193f6afdbd3",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "eb9d8a4119565cc8443aacf6acada52561f48ba8866537f735b9b193f6afdbd3"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
+        "V2": "WARN",
         "V3": "PASS",
-        "V4": "PASS",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1700,26 +1700,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "769a8b29deed6ac4b269a227f97f1a65c2c6dc13d699517787d23d4b6b12883e",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "6756b98843e92a580ca5e27ba10d754e34adecf5587100cf744132dce0417040",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "6756b98843e92a580ca5e27ba10d754e34adecf5587100cf744132dce0417040"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
+        "V2": "WARN",
         "V3": "PASS",
-        "V4": "PASS",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1743,26 +1743,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "30c7d6e861ad8d6fc097785572db7c910ebc9aabf7dda1db0b71eddca8e9ca44",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "65d8f9ebbfa48bacccc54c5596079ad947405e5c66a98a843a2972a6fa9bccbd",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "65d8f9ebbfa48bacccc54c5596079ad947405e5c66a98a843a2972a6fa9bccbd"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1786,26 +1786,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "93aa32eed243c3489d8fa9b301a07a9d4ea60d7fb2b5915efdc6229d28ff4f44",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "4e59c18f2dc88a7d3f5fbadc8363c57d0addd981d6e0c447c96fe8277315bbf4",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "4e59c18f2dc88a7d3f5fbadc8363c57d0addd981d6e0c447c96fe8277315bbf4"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1872,26 +1872,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "0cac5b22c4617455996cab770412edb39fc79cebc8e20612926a03a6f3708fc5",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "b1cfc5885c7546a61e310594bc74b021815424401df5ca66a8192d3f76d13bd5",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "b1cfc5885c7546a61e310594bc74b021815424401df5ca66a8192d3f76d13bd5"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -1915,26 +1915,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "0ed94cb6b4e5e07d57001a1cfdcae9258e5f5331ad4c39eba6a475fb81d428eb",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "12878f5175bb176d3d842fa35941620bff1b0e4859ae1044618a09583257c46b",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "12878f5175bb176d3d842fa35941620bff1b0e4859ae1044618a09583257c46b"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -2001,26 +2001,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "d82e92f4d41a014489dedd80a7f4501d64067ce029d15a90bcf13ca1586ba989",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "162548b88ae74e967c1bb645ba82fcd1119ddfe1ebcd29dd5ed8cc09178ba8ee",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "162548b88ae74e967c1bb645ba82fcd1119ddfe1ebcd29dd5ed8cc09178ba8ee"
       },
       "validation": {
         "V1": "PASS",
         "V2": "PASS",
         "V3": "PASS",
-        "V4": "PASS",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
-        "V8": "WARN",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V7": "WARN",
+        "V8": "PASS",
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -2044,26 +2044,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
-      "body_checksum": "fb3e42602f3d0ee6581cd4e105401cfb966d92877ffc2973ec05618d0ca24bf1",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "c5e9fe35d557a7519212434b30976d16a2c2a2608100bf5c5b9e942b6bfed105",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "low",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "c5e9fe35d557a7519212434b30976d16a2c2a2608100bf5c5b9e942b6bfed105"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
         "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -2087,26 +2087,26 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "dry-run",
-      "body_checksum": "1a95932924bccfa77c686cb0c6667e9621161d7a1002fcee08af7c5e5cd95a46",
-      "staged_matches_dossier": false,
+      "decision": "blocked",
+      "body_checksum": "25bb94ce0551118b11656fa0a9e47463124a0717cde0e38b4b856ab38be9f7e5",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "high",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "25bb94ce0551118b11656fa0a9e47463124a0717cde0e38b4b856ab38be9f7e5"
       },
       "validation": {
         "V1": "PASS",
-        "V2": "PASS",
-        "V3": "PASS",
-        "V4": "PASS",
+        "V2": "WARN",
+        "V3": "FAIL",
+        "V4": "WARN",
         "V5": "PASS",
         "V6": "PASS",
-        "V7": "PASS",
+        "V7": "WARN",
         "V8": "PASS",
-        "V9": "PASS",
-        "V11": "MISSING",
-        "V12": "MISSING"
+        "V9": "FAIL",
+        "V11": "PASS",
+        "V12": "PASS"
       },
       "editorial": {
         "total_candidates": 0,
@@ -2130,7 +2130,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "6008857c5bad786ced00045d99441358d7ee8599f92c624fab14f75df7478777",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2173,7 +2173,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "af6398d01c4b7ddc10a2b4bac17bec4538ce1fe04d0a6a0bf684ba4bdb940273",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2216,7 +2216,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "388775ca2733954407a8b8c1bacd9e0e7264d8d5010e095cc160303104447bd2",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2259,7 +2259,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "a878e17aa128d5095ef9cd6d7bb4729240590ea872e262c1f4d331db3e7f39ca",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2302,7 +2302,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "b8b0b33b276505bc78b030512e5a5909049f12d19e4b5d141d5b81e863be9bf9",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2345,7 +2345,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "834d84a00673f1ecc47ff455ee4c931d0f058aa5bb8bf4d7f2ddf4c73604b02e",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2388,7 +2388,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "2ee029513518a453f2ac2fbc38cab6187f702a589b52a323eb92767bf122a0fd",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2431,12 +2431,12 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
-      "body_checksum": "b425938e95cac9caa4c8e6a429900efd2945e0f594ec7177401eecf405fa51a5",
-      "staged_matches_dossier": false,
+      "decision": "dry-run",
+      "body_checksum": "929f34b810f5bab3bb054b8f8b7570f6e250d938db86a49fa3355040881c5815",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "low",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "929f34b810f5bab3bb054b8f8b7570f6e250d938db86a49fa3355040881c5815"
       },
       "validation": {
@@ -2474,12 +2474,12 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
-      "body_checksum": "6694f2c35dd4b5bbdf89363e85eb0de9973684d4a3336f6ad178e28e5ddfd213",
-      "staged_matches_dossier": false,
+      "decision": "dry-run",
+      "body_checksum": "c1548646a1c8c62cf421e0ae44af81c1191db4a3c6123c41e46ffed5f15737e6",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "low",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "c1548646a1c8c62cf421e0ae44af81c1191db4a3c6123c41e46ffed5f15737e6"
       },
       "validation": {
@@ -2517,12 +2517,12 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
-      "body_checksum": "dd5ce009ea52308961c6cc5434a8802346f1b32758a3e73c8504e175a7069406",
-      "staged_matches_dossier": false,
+      "decision": "dry-run",
+      "body_checksum": "a391c15b8cc1095057777911972fb8c9338da0795b02838258b6fd6967e557c8",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "low",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "a391c15b8cc1095057777911972fb8c9338da0795b02838258b6fd6967e557c8"
       },
       "validation": {
@@ -2560,7 +2560,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "5bc4839737426c6bf57064f26ed51bc1d3cb2886c4522ff893d1414e4fc1d30f",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2603,7 +2603,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "7599d1c5b14c1887ce2410a92f27c5131de5bfa027fa44730dfbdb5e58f3b0e6",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2646,7 +2646,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "cc36d243563e210019fa69d30dc14429d72408fdadc88a767ec31e7e0466c4c0",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2689,7 +2689,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "d5ae6c0478896ad3f0abe5da26c05180ca433a9be218fe0dbf62a12ce34330b7",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2732,7 +2732,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "2673379c5a097430bc0963ebb67012233116f673d6b7d73441932545086da632",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2775,7 +2775,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "bc03de935ce6b11cfbafc5da39a8b8e3147817ab029e4250b5ddf6abbf07f188",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2818,7 +2818,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "4c04822fb60933947821257247ff732800c74c5aabe46f6f87522450302e2c66",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -2904,12 +2904,12 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
-      "body_checksum": "b38a6996978a8bc16f91e40efca5e974fe47dadab27acd973f23ad34a9bf80a1",
-      "staged_matches_dossier": false,
+      "decision": "dry-run",
+      "body_checksum": "1d1a46ab9fd7df450aeddfe5a58e2e4c822b352ae7f56399d2828a4ce118eea7",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "low",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "1d1a46ab9fd7df450aeddfe5a58e2e4c822b352ae7f56399d2828a4ce118eea7"
       },
       "validation": {
@@ -2947,12 +2947,12 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
-      "body_checksum": "58b855d3c8c11fa2011a3c9d3bb8f4f94174f542917a2f8a3594ac5ffc469fad",
-      "staged_matches_dossier": false,
+      "decision": "dry-run",
+      "body_checksum": "a1796b1feda3cfa1c91604ecd2f867994e73ada1a09dbeb419f910be6868c0f6",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "low",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "a1796b1feda3cfa1c91604ecd2f867994e73ada1a09dbeb419f910be6868c0f6"
       },
       "validation": {
@@ -2990,7 +2990,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "0946783a7ae490c0979f58f25d4c6671f2b876d1b1a108e444733664b3e0eff8",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -3033,7 +3033,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "fdbf2d6e85e0770b31b8e4812f023a16818d2264a99ba683c1082ee6b7007fcb",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -3076,7 +3076,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "e644d6156d5c29ae3f0db8af67f5ce23b4664a3d42ec8027ef0f30f412ba586c",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -3119,7 +3119,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "d5a0eb97b34184cda9b4f3503a170ac44d1afacfe325826d529bc68cc74efd38",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -3162,12 +3162,12 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
-      "body_checksum": "0ae7053b5d69f47f7bca05cf1cbd30da46f4ef5b2720938a26cc1889b6e3c719",
-      "staged_matches_dossier": false,
+      "decision": "dry-run",
+      "body_checksum": "5ae5dd82d8ef42e78ebaf648e8e26b2e1529f385320d61234a252020204d3e0b",
+      "staged_matches_dossier": true,
       "dossier_freshness": {
-        "status": "STALE",
-        "refresh_priority": "low",
+        "status": "FRESH",
+        "refresh_priority": "none",
         "staged_body_checksum": "5ae5dd82d8ef42e78ebaf648e8e26b2e1529f385320d61234a252020204d3e0b"
       },
       "validation": {
@@ -3205,7 +3205,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "2e7a12ee15cd5710bc91f419ef3537d7225161a20c87d2e1b2dc09ba0dc2e4b6",
       "staged_matches_dossier": true,
       "dossier_freshness": {
@@ -3248,7 +3248,7 @@
       "status_reasons": [
         "canon artifact exists"
       ],
-      "decision": "promoted",
+      "decision": "dry-run",
       "body_checksum": "05215a9834837ebb435732da75b1910e9375423897936d1d3d418459819259de",
       "staged_matches_dossier": true,
       "dossier_freshness": {

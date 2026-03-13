@@ -1,7 +1,7 @@
 {
   "book_code": "PHP",
   "testament": "NT",
-  "timestamp": "2026-03-13T12:52:31.759106",
+  "timestamp": "2026-03-13T13:36:35.521525",
   "registry_version": "1.4.0",
   "body_checksum": "5bc4839737426c6bf57064f26ed51bc1d3cb2886c4522ff893d1414e4fc1d30f",
   "allow_incomplete": true,
@@ -61,5 +61,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

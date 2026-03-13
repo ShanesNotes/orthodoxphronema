@@ -1,7 +1,7 @@
 {
   "book_code": "1PE",
   "testament": "NT",
-  "timestamp": "2026-03-13T12:52:31.894093",
+  "timestamp": "2026-03-13T13:36:30.240407",
   "registry_version": "1.4.0",
   "body_checksum": "0946783a7ae490c0979f58f25d4c6671f2b876d1b1a108e444733664b3e0eff8",
   "allow_incomplete": true,
@@ -63,5 +63,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

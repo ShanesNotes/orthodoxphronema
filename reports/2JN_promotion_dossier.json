@@ -1,10 +1,10 @@
 {
   "book_code": "2JN",
   "testament": "NT",
-  "timestamp": "2026-03-12T22:28:10.748387",
+  "timestamp": "2026-03-13T13:36:30.747831",
   "registry_version": "1.4.0",
   "body_checksum": "d5a0eb97b34184cda9b4f3503a170ac44d1afacfe325826d529bc68cc74efd38",
-  "allow_incomplete": false,
+  "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/2JN.md",
   "residuals_path": null,
   "editorial_candidates_path": null,
@@ -59,5 +59,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

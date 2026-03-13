@@ -1,47 +1,116 @@
 {
   "book_code": "HAG",
   "testament": "OT",
-  "timestamp": "2026-03-11T16:09:35.616299",
-  "registry_version": "1.3.0",
-  "body_checksum": "769a8b29deed6ac4b269a227f97f1a65c2c6dc13d699517787d23d4b6b12883e",
+  "timestamp": "2026-03-13T13:36:32.934122",
+  "registry_version": "1.4.0",
+  "body_checksum": "6756b98843e92a580ca5e27ba10d754e34adecf5587100cf744132dce0417040",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/HAG.md",
+  "residuals_path": null,
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/HAG_editorial_candidates.json",
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
     },
     "V2": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V2   Chapter count: expected 2, got 1"
+      ]
     },
     "V3": {
       "status": "PASS",
       "messages": []
     },
     "V4": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.1: jumps from 3 to 5",
+        "V4   Missing verses in ch.1: jumps from 5 to 7",
+        "V4   Missing verses in ch.1: jumps from 7 to 12",
+        "V4   Missing verses in ch.1: jumps from 12 to 14",
+        "V4   Missing verses in ch.2: jumps from 1 to 6",
+        "V4   Missing verses in ch.2: jumps from 6 to 9",
+        "V4   Missing verses in ch.2: jumps from 10 to 13",
+        "V4   Missing verses in ch.2: jumps from 14 to 19"
+      ]
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
-    "V6": {
-      "status": "PASS",
-      "messages": []
-    },
     "V7": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 15/38 verses (39.5%); gap of 23"
+      ]
     },
     "V8": {
       "status": "PASS",
       "messages": []
     },
     "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse HAG.1:4 found inside HAG.1:3 at line 20",
+        "V9   Embedded verse HAG.1:6 found inside HAG.1:5 at line 21",
+        "V9   Embedded verse HAG.1:8 found inside HAG.1:7 at line 22",
+        "V9   Embedded verse HAG.1:9 found inside HAG.1:7 at line 22",
+        "V9   Embedded verse HAG.1:10 found inside HAG.1:7 at line 22",
+        "V9   Embedded verse HAG.1:11 found inside HAG.1:7 at line 22",
+        "V9   Embedded verse HAG.1:13 found inside HAG.1:12 at line 23",
+        "V9   Embedded verse HAG.2:2 found inside HAG.2:1 at line 29",
+        "V9   Embedded verse HAG.2:3 found inside HAG.2:1 at line 29",
+        "V9   Embedded verse HAG.2:4 found inside HAG.2:1 at line 29",
+        "V9   Embedded verse HAG.2:5 found inside HAG.2:1 at line 29",
+        "V9   Embedded verse HAG.2:7 found inside HAG.2:6 at line 30",
+        "V9   Embedded verse HAG.2:8 found inside HAG.2:6 at line 30",
+        "V9   Embedded verse HAG.2:11 found inside HAG.2:10 at line 33",
+        "V9   Embedded verse HAG.2:12 found inside HAG.2:10 at line 33",
+        "V9   Embedded verse HAG.2:15 found inside HAG.2:14 at line 35",
+        "V9   Embedded verse HAG.2:16 found inside HAG.2:14 at line 35",
+        "V9   Embedded verse HAG.2:17 found inside HAG.2:14 at line 35",
+        "V9   Embedded verse HAG.2:18 found inside HAG.2:14 at line 35"
+      ]
+    },
+    "V10": {
+      "status": "WARN",
+      "messages": [
+        "V10  Absorbed content: HAG.1:4 likely present in HAG.1:3 (Brenton word match: 5/8 = 62%)",
+        "V10  Absorbed content: HAG.1:6 likely present in HAG.1:5 (Brenton word match: 21/28 = 75%)",
+        "V10  Absorbed content: HAG.1:8 likely present in HAG.1:7 (Brenton word match: 8/10 = 80%)",
+        "V10  Absorbed content: HAG.1:9 likely present in HAG.1:7 (Brenton word match: 17/21 = 81%)",
+        "V10  Absorbed content: HAG.1:10 likely present in HAG.1:7 (Brenton word match: 4/8 = 50%)",
+        "V10  Absorbed content: HAG.1:11 likely present in HAG.1:7 (Brenton word match: 17/22 = 77%)",
+        "V10  Absorbed content: HAG.1:13 likely present in HAG.1:12 (Brenton word match: 6/11 = 55%)",
+        "V10  Absorbed content: HAG.2:2 likely present in HAG.2:1 (Brenton word match: 8/12 = 67%)",
+        "V10  Absorbed content: HAG.2:3 likely present in HAG.2:1 (Brenton word match: 7/13 = 54%)",
+        "V10  Absorbed content: HAG.2:4 likely present in HAG.2:1 (Brenton word match: 11/21 = 52%)",
+        "V10  Absorbed content: HAG.2:5 likely present in HAG.2:1 (Brenton word match: 3/5 = 60%)",
+        "V10  Absorbed content: HAG.2:7 likely present in HAG.2:6 (Brenton word match: 15/17 = 88%)",
+        "V10  Absorbed content: HAG.2:8 likely present in HAG.2:6 (Brenton word match: 6/7 = 86%)",
+        "V10  Absorbed content: HAG.2:11 likely present in HAG.2:10 (Brenton word match: 6/8 = 75%)",
+        "V10  Absorbed content: HAG.2:12 likely present in HAG.2:10 (Brenton word match: 11/19 = 58%)",
+        "V10  Absorbed content: HAG.2:15 likely present in HAG.2:14 (Brenton word match: 13/15 = 87%)",
+        "V10  Absorbed content: HAG.2:16 likely present in HAG.2:14 (Brenton word match: 17/19 = 89%)",
+        "V10  Absorbed content: HAG.2:17 likely present in HAG.2:14 (Brenton word match: 8/13 = 62%)",
+        "V10  Absorbed content: HAG.2:18 likely present in HAG.2:14 (Brenton word match: 14/18 = 78%)"
+      ]
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
       "status": "PASS",
       "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "blocked"
 }

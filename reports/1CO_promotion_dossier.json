@@ -1,7 +1,7 @@
 {
   "book_code": "1CO",
   "testament": "NT",
-  "timestamp": "2026-03-13T12:52:31.691914",
+  "timestamp": "2026-03-13T13:36:29.763022",
   "registry_version": "1.4.0",
   "body_checksum": "2ee029513518a453f2ac2fbc38cab6187f702a589b52a323eb92767bf122a0fd",
   "allow_incomplete": true,
@@ -61,5 +61,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

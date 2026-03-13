@@ -1,7 +1,7 @@
 {
   "book_code": "LUK",
   "testament": "NT",
-  "timestamp": "2026-03-13T12:52:31.330986",
+  "timestamp": "2026-03-13T13:36:34.663690",
   "registry_version": "1.4.0",
   "body_checksum": "388775ca2733954407a8b8c1bacd9e0e7264d8d5010e095cc160303104447bd2",
   "allow_incomplete": true,
@@ -63,5 +63,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }

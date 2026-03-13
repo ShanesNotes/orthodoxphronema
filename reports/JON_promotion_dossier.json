@@ -1,47 +1,134 @@
 {
   "book_code": "JON",
   "testament": "OT",
-  "timestamp": "2026-03-11T16:09:36.240841",
-  "registry_version": "1.3.0",
-  "body_checksum": "c1d23483204fb58befe95b80d963975a28c12cb98d238ea3ce10b62f1eab655b",
+  "timestamp": "2026-03-13T13:36:34.034560",
+  "registry_version": "1.4.0",
+  "body_checksum": "3d2534f8e5150d53652ba73d88006b85196f0a7fc3424e267f5411ebbf7f8119",
+  "allow_incomplete": true,
+  "staged_path": "/home/ark/orthodoxphronema/staging/validated/OT/JON.md",
+  "residuals_path": null,
+  "editorial_candidates_path": "/home/ark/orthodoxphronema/staging/validated/OT/JON_editorial_candidates.json",
   "validation": {
+    "V6": {
+      "status": "PASS",
+      "messages": []
+    },
     "V1": {
       "status": "PASS",
       "messages": []
     },
     "V2": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V2   Chapter count: expected 4, got 1"
+      ]
     },
     "V3": {
       "status": "PASS",
       "messages": []
     },
     "V4": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V4   Missing verses in ch.1: jumps from 1 to 3",
+        "V4   Missing verses in ch.1: jumps from 3 to 7",
+        "V4   Missing verses in ch.1: jumps from 7 to 9",
+        "V4   Missing verses in ch.1: jumps from 10 to 13",
+        "V4   Missing verses in ch.1: jumps from 13 to 15",
+        "V4   Missing verses in ch.2: jumps from 1 to 6",
+        "V4   Missing verses in ch.2: jumps from 6 to 11",
+        "V4   Missing verses in ch.3: jumps from 1 to 3",
+        "V4   Missing verses in ch.3: jumps from 3 to 5",
+        "V4   Missing verses in ch.3: jumps from 5 to 8",
+        "V4   Missing verses in ch.3: jumps from 8 to 10",
+        "V4   Missing verses in ch.4: jumps from 1 to 4",
+        "V4   Missing verses in ch.4: jumps from 5 to 9"
+      ]
     },
     "V5": {
       "status": "PASS",
       "messages": []
     },
-    "V6": {
-      "status": "PASS",
-      "messages": []
-    },
     "V7": {
-      "status": "PASS",
-      "messages": []
+      "status": "WARN",
+      "messages": [
+        "V7   Completeness: 21/48 verses (43.8%); gap of 27"
+      ]
     },
     "V8": {
       "status": "PASS",
       "messages": []
     },
     "V9": {
+      "status": "FAIL",
+      "messages": [
+        "V9   Embedded verse JON.1:2 found inside JON.1:1 at line 17",
+        "V9   Embedded verse JON.1:4 found inside JON.1:3 at line 18",
+        "V9   Embedded verse JON.1:5 found inside JON.1:3 at line 18",
+        "V9   Embedded verse JON.1:6 found inside JON.1:3 at line 18",
+        "V9   Embedded verse JON.1:8 found inside JON.1:7 at line 19",
+        "V9   Embedded verse JON.1:11 found inside JON.1:10 at line 21",
+        "V9   Embedded verse JON.1:12 found inside JON.1:10 at line 21",
+        "V9   Embedded verse JON.1:14 found inside JON.1:13 at line 22",
+        "V9   Embedded verse JON.2:2 found inside JON.2:1 at line 27",
+        "V9   Embedded verse JON.2:3 found inside JON.2:1 at line 27",
+        "V9   Embedded verse JON.2:4 found inside JON.2:1 at line 27",
+        "V9   Embedded verse JON.2:5 found inside JON.2:1 at line 27",
+        "V9   Embedded verse JON.2:7 found inside JON.2:6 at line 28",
+        "V9   Embedded verse JON.2:8 found inside JON.2:6 at line 28",
+        "V9   Embedded verse JON.2:9 found inside JON.2:6 at line 28",
+        "V9   Embedded verse JON.2:10 found inside JON.2:6 at line 28",
+        "V9   Embedded verse JON.3:2 found inside JON.3:1 at line 33",
+        "V9   Embedded verse JON.3:4 found inside JON.3:3 at line 34",
+        "V9   Embedded verse JON.3:6 found inside JON.3:5 at line 35",
+        "V9   Embedded verse JON.3:7 found inside JON.3:5 at line 35",
+        "V9   Embedded verse JON.3:9 found inside JON.3:8 at line 36",
+        "V9   Embedded verse JON.4:2 found inside JON.4:1 at line 42",
+        "V9   Embedded verse JON.4:3 found inside JON.4:1 at line 42",
+        "V9   Embedded verse JON.4:6 found inside JON.4:5 at line 44",
+        "V9   Embedded verse JON.4:7 found inside JON.4:5 at line 44",
+        "V9   Embedded verse JON.4:8 found inside JON.4:5 at line 44"
+      ]
+    },
+    "V10": {
+      "status": "WARN",
+      "messages": [
+        "V10  Absorbed content: JON.1:2 likely present in JON.1:1 (Brenton word match: 7/7 = 100%)",
+        "V10  Absorbed content: JON.1:4 likely present in JON.1:3 (Brenton word match: 7/10 = 70%)",
+        "V10  Absorbed content: JON.1:5 likely present in JON.1:3 (Brenton word match: 15/23 = 65%)",
+        "V10  Absorbed content: JON.1:6 likely present in JON.1:3 (Brenton word match: 6/11 = 55%)",
+        "V10  Absorbed content: JON.1:8 likely present in JON.1:7 (Brenton word match: 9/14 = 64%)",
+        "V10  Absorbed content: JON.1:11 likely present in JON.1:10 (Brenton word match: 8/11 = 73%)",
+        "V10  Absorbed content: JON.1:12 likely present in JON.1:10 (Brenton word match: 12/15 = 80%)",
+        "V10  Absorbed content: JON.1:14 likely present in JON.1:13 (Brenton word match: 13/20 = 65%)",
+        "V10  Absorbed content: JON.2:2 likely present in JON.2:1 (Brenton word match: 3/5 = 60%)",
+        "V10  Absorbed content: JON.2:3 likely present in JON.2:1 (Brenton word match: 6/11 = 55%)",
+        "V10  Absorbed content: JON.2:4 likely present in JON.2:1 (Brenton word match: 8/13 = 62%)",
+        "V10  Absorbed content: JON.2:5 likely present in JON.2:1 (Brenton word match: 8/10 = 80%)",
+        "V10  Absorbed content: JON.2:7 likely present in JON.2:6 (Brenton word match: 9/14 = 64%)",
+        "V10  Absorbed content: JON.2:8 likely present in JON.2:6 (Brenton word match: 9/11 = 82%)",
+        "V10  Absorbed content: JON.2:10 likely present in JON.2:6 (Brenton word match: 9/14 = 64%)",
+        "V10  Absorbed content: JON.3:2 likely present in JON.3:1 (Brenton word match: 7/11 = 64%)",
+        "V10  Absorbed content: JON.3:4 likely present in JON.3:3 (Brenton word match: 13/14 = 93%)",
+        "V10  Absorbed content: JON.3:6 likely present in JON.3:5 (Brenton word match: 9/12 = 75%)",
+        "V10  Absorbed content: JON.3:7 likely present in JON.3:5 (Brenton word match: 11/15 = 73%)",
+        "V10  Absorbed content: JON.3:9 likely present in JON.3:8 (Brenton word match: 7/9 = 78%)",
+        "V10  Absorbed content: JON.4:2 likely present in JON.4:1 (Brenton word match: 19/26 = 73%)",
+        "V10  Absorbed content: JON.4:3 likely present in JON.4:1 (Brenton word match: 7/7 = 100%)",
+        "V10  Absorbed content: JON.4:6 likely present in JON.4:5 (Brenton word match: 14/18 = 78%)",
+        "V10  Absorbed content: JON.4:7 likely present in JON.4:5 (Brenton word match: 7/8 = 88%)",
+        "V10  Absorbed content: JON.4:8 likely present in JON.4:5 (Brenton word match: 13/18 = 72%)"
+      ]
+    },
+    "V11": {
+      "status": "PASS",
+      "messages": []
+    },
+    "V12": {
       "status": "PASS",
       "messages": []
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "blocked"
 }

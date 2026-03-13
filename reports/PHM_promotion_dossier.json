@@ -1,10 +1,10 @@
 {
   "book_code": "PHM",
   "testament": "NT",
-  "timestamp": "2026-03-13T10:05:52.638152",
+  "timestamp": "2026-03-13T13:36:35.454596",
   "registry_version": "1.4.0",
   "body_checksum": "0d63cd5ca4c2d0d0000d42a52d0bd65a4fff6210118336d2363ae01879388812",
-  "allow_incomplete": false,
+  "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/PHM.md",
   "residuals_path": null,
   "editorial_candidates_path": null,

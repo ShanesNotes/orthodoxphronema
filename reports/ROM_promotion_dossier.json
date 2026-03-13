@@ -1,7 +1,7 @@
 {
   "book_code": "ROM",
   "testament": "NT",
-  "timestamp": "2026-03-13T12:52:31.612260",
+  "timestamp": "2026-03-13T13:36:35.936482",
   "registry_version": "1.4.0",
   "body_checksum": "834d84a00673f1ecc47ff455ee4c931d0f058aa5bb8bf4d7f2ddf4c73604b02e",
   "allow_incomplete": true,
@@ -61,5 +61,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "promoted"
+  "decision": "dry-run"
 }
