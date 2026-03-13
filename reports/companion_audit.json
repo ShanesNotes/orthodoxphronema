@@ -7,8 +7,8 @@
     "marker_files": 76,
     "frontmatter_issues": 0,
     "fused_headers": 0,
-    "marker_alignment_pass": 64,
-    "marker_alignment_fail": 12,
+    "marker_alignment_pass": 76,
+    "marker_alignment_fail": 0,
     "marker_format_dict": 76,
     "marker_format_list": 0,
     "empty_articles": 39,
@@ -1059,10 +1059,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 314,
-        "alignment": "fail",
-        "markers_only": 53,
-        "footnotes_only": 36
+        "marker_count": 280,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "MRK": {
@@ -1080,10 +1080,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 139,
-        "alignment": "fail",
-        "markers_only": 67,
-        "footnotes_only": 4
+        "marker_count": 72,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "LUK": {
@@ -1101,10 +1101,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 324,
-        "alignment": "fail",
-        "markers_only": 61,
-        "footnotes_only": 26
+        "marker_count": 271,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "JOH": {
@@ -1122,10 +1122,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 289,
-        "alignment": "fail",
-        "markers_only": 43,
-        "footnotes_only": 18
+        "marker_count": 252,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "ACT": {
@@ -1143,10 +1143,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 277,
-        "alignment": "fail",
-        "markers_only": 100,
-        "footnotes_only": 20
+        "marker_count": 196,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "ROM": {
@@ -1164,10 +1164,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 132,
-        "alignment": "fail",
-        "markers_only": 20,
-        "footnotes_only": 24
+        "marker_count": 134,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "1CO": {
@@ -1185,10 +1185,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 127,
-        "alignment": "fail",
-        "markers_only": 11,
-        "footnotes_only": 11
+        "marker_count": 123,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "2CO": {
@@ -1206,7 +1206,7 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 65,
+        "marker_count": 63,
         "alignment": "pass",
         "markers_only": 0,
         "footnotes_only": 0
@@ -1269,10 +1269,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 23,
-        "alignment": "fail",
-        "markers_only": 4,
-        "footnotes_only": 6
+        "marker_count": 24,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "COL": {
@@ -1290,10 +1290,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 23,
-        "alignment": "fail",
-        "markers_only": 5,
-        "footnotes_only": 6
+        "marker_count": 24,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "1TH": {
@@ -1479,10 +1479,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 31,
-        "alignment": "fail",
-        "markers_only": 5,
-        "footnotes_only": 14
+        "marker_count": 40,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "2PE": {
@@ -1563,10 +1563,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 5,
-        "alignment": "fail",
-        "markers_only": 1,
-        "footnotes_only": 2
+        "marker_count": 6,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     },
     "JUD": {
@@ -1605,10 +1605,10 @@
       "markers": {
         "exists": true,
         "format": "dict",
-        "marker_count": 189,
-        "alignment": "fail",
-        "markers_only": 24,
-        "footnotes_only": 17
+        "marker_count": 182,
+        "alignment": "pass",
+        "markers_only": 0,
+        "footnotes_only": 0
       }
     }
   }

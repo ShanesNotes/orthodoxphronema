@@ -1,8 +1,178 @@
 {
   "book_code": "COL",
   "reindex_date": "2026-03-13",
-  "marker_count": 23,
+  "marker_count": 24,
   "markers": [
+    {
+      "marker": "unknown",
+      "anchor": "COL.1:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.1:9",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.1:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.1:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 4,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.1:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.1:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 6,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.1:19",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 7,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.1:22",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 8,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.1:24",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 9,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.1:25",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 10,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.1:26",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 11,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.2:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 12,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.2:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 13,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.2:11",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 14,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.2:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 15,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.2:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 16,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.3:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 17,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.3:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 18,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.3:10",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 19,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.3:15",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 20,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.3:18",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 21,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.4:2",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 22,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.4:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 23,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "COL.4:16",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 24,
+      "source": "reindexed_from_footnotes_md"
+    }
+  ],
+  "original_markers": [
     {
       "marker": "†",
       "anchor": "COL.1:3",

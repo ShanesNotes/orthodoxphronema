@@ -1,8 +1,52 @@
 {
   "book_code": "3JN",
   "reindex_date": "2026-03-13",
-  "marker_count": 5,
+  "marker_count": 6,
   "markers": [
+    {
+      "marker": "unknown",
+      "anchor": "3JN.1:1",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 1,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "3JN.1:3",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 2,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "3JN.1:5",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 3,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "3JN.1:7",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 4,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "3JN.1:8",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 5,
+      "source": "reindexed_from_footnotes_md"
+    },
+    {
+      "marker": "unknown",
+      "anchor": "3JN.1:12",
+      "marker_index_in_verse": 1,
+      "marker_seq_book": 6,
+      "source": "reindexed_from_footnotes_md"
+    }
+  ],
+  "original_markers": [
     {
       "marker": "†",
       "anchor": "3JN.1:3",

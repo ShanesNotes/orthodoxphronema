@@ -8,6 +8,8 @@ Modes:
   (default)        Scan scripture .md for dagger/omega markers
   --from-footnotes Rebuild markers from *_footnotes.md anchor lines
   --all-ot         Iterate all OT books (requires --from-footnotes)
+  --all-nt         Iterate all NT books (requires --from-footnotes)
+  --force          Reindex even if markers >= footnotes
   --dry-run        Report what would change without writing files
 """
 
@@ -146,6 +148,7 @@ def reindex_book_from_footnotes(
     book_code: str,
     testament: str,
     dry_run: bool = False,
+    force: bool = False,
 ) -> dict:
     """Reindex a single book's markers from its footnotes file.
 
@@ -172,11 +175,18 @@ def reindex_book_from_footnotes(
     result["marker_count"] = m_count
     result["footnote_count"] = f_count
 
-    # Decision: only reindex if footnotes > markers (markers are degraded)
-    if f_count <= m_count:
-        result.update(action="skip",
-                      reason="markers_adequate" if m_count == f_count
-                             else "markers_exceed_footnotes")
+    # Skip if markers already match footnotes exactly (nothing to do)
+    if m_count == f_count and not force:
+        # Check if already sourced from footnotes — truly nothing to do
+        result.update(action="skip", reason="markers_adequate")
+        return result
+    if m_count == f_count and force:
+        # Even with --force, skip if counts match (anchors should be same)
+        result.update(action="skip", reason="markers_adequate")
+        return result
+    # Without --force, skip when markers exceed footnotes (negative mismatch)
+    if not force and f_count < m_count:
+        result.update(action="skip", reason="markers_exceed_footnotes")
         return result
 
     if dry_run:
@@ -216,8 +226,12 @@ def main():
                         help="Rebuild markers from *_footnotes.md anchors")
     parser.add_argument("--all-ot", action="store_true",
                         help="Iterate all OT books (requires --from-footnotes)")
+    parser.add_argument("--all-nt", action="store_true",
+                        help="Iterate all NT books (requires --from-footnotes)")
     parser.add_argument("--book", type=str, default=None,
                         help="Single book code to reindex (with --from-footnotes)")
+    parser.add_argument("--force", action="store_true",
+                        help="Reindex even if markers >= footnotes")
     parser.add_argument("--dry-run", action="store_true",
                         help="Report what would change without writing")
     args = parser.parse_args()
@@ -226,16 +240,22 @@ def main():
     if args.from_footnotes:
         registry = load_registry(REGISTRY_PATH)
 
-        if args.all_ot:
+        if args.all_ot and args.all_nt:
+            all_books = [b["code"] for b in registry["books"]]
+            skip_set = {"PSA"}
+            books = [c for c in all_books if c not in skip_set]
+        elif args.all_ot:
             ot_books = [b["code"] for b in registry["books"]
                         if b.get("testament") == "OT"]
-            # Skip PSA — already fixed (commit e0917b3)
             skip_set = {"PSA"}
             books = [c for c in ot_books if c not in skip_set]
+        elif args.all_nt:
+            books = [b["code"] for b in registry["books"]
+                     if b.get("testament") == "NT"]
         elif args.book:
             books = [args.book]
         else:
-            parser.error("--from-footnotes requires --all-ot or --book BOOK")
+            parser.error("--from-footnotes requires --all-ot, --all-nt, or --book BOOK")
             return
 
         reindexed = []
@@ -247,7 +267,8 @@ def main():
                                 "reason": "unknown_testament"})
                 continue
             result = reindex_book_from_footnotes(code, testament,
-                                                 dry_run=args.dry_run)
+                                                 dry_run=args.dry_run,
+                                                 force=args.force)
             if result["action"] in ("reindexed", "would_reindex"):
                 reindexed.append(result)
             else:
