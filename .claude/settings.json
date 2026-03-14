@@ -1,0 +1,62 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(rm -rf /home/ark/orthodoxphronema/canon/*)",
+      "Bash(rm -rf /home/ark/orthodoxphronema/src.texts/*)"
+    ],
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(git:*)",
+      "Bash(pdftotext:*)",
+      "Bash(jq:*)",
+      "Bash(wc:*)",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(diff:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(sort:*)",
+      "Bash(find:*)",
+      "Bash(aspell:*)",
+      "Bash(cat:*)",
+      "Read(/home/ark/**)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /home/ark/orthodoxphronema/.claude/hooks/pre-edit-canon-guard.sh",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /home/ark/orthodoxphronema/.claude/hooks/post-edit-notify.sh",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '--- Ark session initialized. CLAUDE.md + @imports loaded. Agents: ezra (Codex 5.4), photius (Gemini Flash 3.0), cowork. Workflow skills: validate-book, promote-book, cleanup-report, pdf-spot-check, refresh-dossier. Toolkit skills: text-cleaner, canon-validator, canon-proofreader, canon-spell-audit. ---'",
+            "timeout": 3
+          }
+        ]
+      }
+    ]
+  }
+}

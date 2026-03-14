@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "duckdb": {
+      "command": "uvx",
+      "args": ["mcp-server-duckdb", "--db-path", "metadata/graph/phronema_graph.duckdb"],
+      "description": "Query the phronema graph database (anchor backlinks, pericope index, cross-references)"
+    },
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": ""
+      },
+      "description": "GitHub integration for issues, PRs, commit history, branch management"
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/home/ark/orthodoxphronema"],
+      "description": "Structured filesystem access for canon/, study/, memos/, reports/"
+    },
+    "memory": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-memory"],
+      "description": "Persistent knowledge graph for cross-session context (agent handoffs, open questions, decisions)"
+    }
+  }
+}

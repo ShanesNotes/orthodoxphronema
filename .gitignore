@@ -16,8 +16,12 @@ __pycache__/
 orthodoxphronema.egg-info/
 nodesource_setup.sh
 
-# Claude Code session data
-.claude/
+# Claude Code — track harness, ignore session data
+.claude/projects/
+.claude/todos/
+.claude/credentials*
+.claude/statsig/
+.claude/tmp/
 
 # Source texts (large, not for git)
 src.texts/
