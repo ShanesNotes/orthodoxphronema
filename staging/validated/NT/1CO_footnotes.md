@@ -164,7 +164,7 @@ understanding of how God works in the world and what He wishes us to do.
 ### 1:18
 *(anchor: 1CO.1:18)*
 
-Why is the message of the cross . . . foolishness to unbelievers? "It is a mark of
+Why is the message of the cross... foolishness to unbelievers? "It is a mark of
 
 them that perish not to recognize the things which lead to salvation" (JohnChr). We who
 
@@ -542,7 +542,7 @@ which were lost and not incorporated in the NT canon (see [[COL.4:16]]).
 ### 5:12-13
 *(anchor: 1CO.5:12)*
 
-Those . . . who are outside is an ancient Semitic expression for those outside
+Those... who are outside is an ancient Semitic expression for those outside
 
 the community of God (see WSir, Prologue; [[MRK.4:11]]; [[COL.4:5]]; [[1TH.4:12]]; [[1TI.3:7]]).
 
@@ -656,7 +656,7 @@ The mutuality of marriage, the equality of commitment, that Paul enjoins here is
 
 unprecedented in his era. Speaking of husband and wife, St. John Chrysostom teaches
 
-neither "is master of himself . . . they are servants to each other."
+neither "is master of himself... they are servants to each other."
 
 
 ### 7:5
@@ -746,7 +746,7 @@ any case the option of her marriage is left open.
 
 Though Paul once again recommends the unmarried state, he affirms the holiness
 
-of marriage and gives the widow a choice: to be married . . . in the Lord (v. 39), that is
+of marriage and gives the widow a choice: to be married... in the Lord (v. 39), that is
 
 to another Christian, or to remain as she is (v. 40).
 

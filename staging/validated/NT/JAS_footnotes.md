@@ -222,7 +222,7 @@ we will be judged; the mercy we give will be the mercy we receive. "God has show
 
 to us. Let us in our turn show mercy: let us feed the poor, and with the divine water of
 
-fasting let us wash the defilement from our souls. . . . O heavenly angels, entreat the
+fasting let us wash the defilement from our souls.... O heavenly angels, entreat the
 
 Giver of good to accept in His infinite mercy our poor and mean repentance" (Matins,
 

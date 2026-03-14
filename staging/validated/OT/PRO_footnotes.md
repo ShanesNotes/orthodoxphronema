@@ -105,7 +105,7 @@ hold fast to this righteousness, they shall not be ashamed.
 ### 1:23
 *(anchor: PRO.1:23)*
 
-Perception is one of the general virtues of Wisdom, and the crown of the virtues. But those without discernment . . . become ungodly because of their arrogance, the worst of vices. Wisdom reproves them in hopes they will return to Him through
+Perception is one of the general virtues of Wisdom, and the crown of the virtues. But those without discernment... become ungodly because of their arrogance, the worst of vices. Wisdom reproves them in hopes they will return to Him through
 
 repentance. 
 
@@ -822,7 +822,7 @@ graceful.
 
 "The fruit of righteousness and the tree of life is Christ. He alone, as man, fulfilled
 
-all righteousness. . . . But the souls of the unrighteous meet an untimely expulsion from
+all righteousness.... But the souls of the unrighteous meet an untimely expulsion from
 
 the presence of God" (Hippol). 
 
@@ -1895,7 +1895,7 @@ laziness; therefore, his desires control him.
 
 "The alms that please the eyes of our Redeemer are not those gathered in unlawful
 
-ways and from lawlessness. . . . We are plainly warned by Holy Scripture not to get
+ways and from lawlessness.... We are plainly warned by Holy Scripture not to get
 
 anything by sinning under the pretext of almsgiving" (GrgGt). 
 
@@ -2093,9 +2093,9 @@ The enemy is some sinful passion one has overcome, but he should not rejoice in
 
 this victory, nor be puffed up (exalt yourself). Rather, he should rejoice in Wisdom, who helped him gain the victory. "We can do nothing against our faults without the help
 
-of God. . . . And we ought not be puffed up by victories over them . . . lest He see your
+of God.... And we ought not be puffed up by victories over them... lest He see your
 
-arrogant heart . . . and you begin to be forsaken by Him, and troubled once more by that
+arrogant heart... and you begin to be forsaken by Him, and troubled once more by that
 
 passion, which by God's grace you had previously overcome" (JohnCas). 
 

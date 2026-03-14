@@ -1940,7 +1940,7 @@ stepbrothers, sons of Joseph by a previous marriage, or cousins. Indeed, Jesus c
 
 His mother to the care of John at the Cross ([[JOH.19:25]]-27), which would have been
 
-unthinkable if Mary had had other children to care for her.
+unthinkable if Mary had other children to care for her.
 
 
 ### 13:3-9
@@ -3610,7 +3610,7 @@ debated, but the Fathers and the liturgical hymns declare that greed was his pri
 
 motive. This is revealed in [[JOH.12:4]]-6, where Judas was particularly upset about the
 
-"waste" of myrrh in the preceding story because he was a thief (see also [[1TI.6:10]]).The
+"waste" of myrrh in the preceding story because he was a thief (see also [[1TI.6:10]]). The
 
 phrase one of the twelve is not used so much to identify Judas, who was already known
 

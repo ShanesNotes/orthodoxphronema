@@ -137,7 +137,7 @@ Sodom: See [[GEN.13:13]]; [[DEU.29:23]]; WSol 10:6-8; 2Ez 2:8; [[LUK.17:29]]; [[
 ### 2:6
 *(anchor: 3MA.2:6)*
 
-Punishment on . . . Pharaoh: See Ex 5-12; [[ROM.9:17]]. 
+Punishment on... Pharaoh: See Ex 5-12; [[ROM.9:17]]. 
 
 ### 2:7
 *(anchor: 3MA.2:7)*

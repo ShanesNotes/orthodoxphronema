@@ -1,0 +1,209 @@
+{
+  "generated": "2026-03-14",
+  "profile": "staging",
+  "format": "json",
+  "applied": false,
+  "summary": {
+    "total_findings": 17,
+    "auto_fixable": 0,
+    "review_needed": 17,
+    "files_checked": 1,
+    "lines_checked": 29,
+    "lines_fixed": 0
+  },
+  "by_category": {
+    "P6": 17
+  },
+  "by_file": {
+    "staging/validated/NT/MAT_articles.md": 17
+  },
+  "findings": [
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 45,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'ISA'",
+      "original": "ISA",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 45,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'ISA'",
+      "original": "ISA",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 61,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'JN'",
+      "original": "JN",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 48,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'LUK'",
+      "original": "LUK",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 48,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'LUK'",
+      "original": "LUK",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 48,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'LUK'",
+      "original": "LUK",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 48,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'LUK'",
+      "original": "LUK",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 48,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'LUK'",
+      "original": "LUK",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 48,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'LUK'",
+      "original": "LUK",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 65,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'LUK'",
+      "original": "LUK",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 45,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'MRK'",
+      "original": "MRK",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 43,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'arables'",
+      "original": "arables",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 58,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'nd'",
+      "original": "nd",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 25,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'perspectivebecomes'",
+      "original": "perspectivebecomes",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 63,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'sonship'",
+      "original": "sonship",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 59,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'theophany'",
+      "original": "theophany",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    },
+    {
+      "file": "staging/validated/NT/MAT_articles.md",
+      "line": 59,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'uncreated'",
+      "original": "uncreated",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    }
+  ]
+}

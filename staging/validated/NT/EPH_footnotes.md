@@ -452,7 +452,7 @@ Here is the manifold unity of the Church. Christian morality is not based on ide
 
 but on a living reality: the life of the Holy Trinity in the Church. Paul combines the three
 
-Persons of the Trinity (one Spirit . . . one Lord . . . one God) with the Church, the
+Persons of the Trinity (one Spirit... one Lord... one God) with the Church, the
 
 sacrament of baptism (v. 5), and the theological virtues of hope (v. 4) and faith (v. 5)
 
@@ -552,11 +552,11 @@ not tell the foot, or the tongue to taste poison and not spit it out.
 
 "If you fail to master your anger on the first day, then on the next day and even
 
-sometimes for a whole year you will still be dragging it out. . . . Anger will cause us to
+sometimes for a whole year you will still be dragging it out.... Anger will cause us to
 
 suspect that words spoken in one sense were meant in another. And we will even do the
 
-same with gestures and every little thing. . . . Be angry with the devil and not your own
+same with gestures and every little thing.... Be angry with the devil and not your own
 
 member. This is why God has armed us with anger. Not that we should thrust the sword
 
@@ -574,7 +574,7 @@ We are to work, not for personal gain and luxury, but in order to serve.
 ### 4:31-32
 *(anchor: EPH.4:31)*
 
-"Cut off clamor and you will clip the wings of anger. . . . There is but one thing in
+"Cut off clamor and you will clip the wings of anger.... There is but one thing in
 
 which it is useful to cry aloud--in preaching and in teaching" (JohnChr).
 

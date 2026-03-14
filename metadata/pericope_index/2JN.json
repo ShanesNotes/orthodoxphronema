@@ -1,0 +1,63 @@
+{
+  "book_code": "2JN",
+  "pericopes": [
+    {
+      "title": "2 John \u2014 Opening",
+      "start_anchor": "2JN.1:1",
+      "end_anchor": "2JN.1:2",
+      "verse_count": 2,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Follow the Law of Love",
+      "start_anchor": "2JN.1:3",
+      "end_anchor": "2JN.1:5",
+      "verse_count": 3,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Beware of Deceiving Heretics",
+      "start_anchor": "2JN.1:6",
+      "end_anchor": "2JN.1:10",
+      "verse_count": 5,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "John's Plans and Farewell",
+      "start_anchor": "2JN.1:11",
+      "end_anchor": "2JN.1:13",
+      "verse_count": 3,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/NT/73_2JN.md",
+  "generated_at": "2026-03-13T16:41:08+00:00"
+}

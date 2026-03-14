@@ -1,0 +1,21 @@
+{
+  "book_code": "LJE",
+  "pericopes": [
+    {
+      "title": "Letter of Jeremiah \u2014 Chapter 1",
+      "start_anchor": "LJE.1:1",
+      "end_anchor": "LJE.1:73",
+      "verse_count": 73,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/OT/47_LJE.md",
+  "generated_at": "2026-03-12T00:14:09+00:00"
+}

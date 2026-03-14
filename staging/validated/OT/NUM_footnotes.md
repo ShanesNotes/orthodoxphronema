@@ -198,7 +198,7 @@ entered the holy places made with hands, which are copies of the true, but into 
 
 itself, now to appear in the presence of God for us." [[HEB.10:1]]: "For the law, having a
 
-shadow of the good things to come . . ." [[HEB.11:19]]: ". . . from which [Abraham] also
+shadow of the good things to come..." [[HEB.11:19]]: "... from which [Abraham] also
 
 received [Isaac] in a figurative sense."
 
@@ -833,7 +833,7 @@ God the Word put a word in Balaam's mouth, just as He said He would in 22:35.
 
 The Spirit is the Holy Spirit, and God is God the Father. The Holy Spirit spoke by
 
-the prophet Balaam ("the Holy Spirit . . . who spoke by the prophets"--Creed). Therefore, the Holy Trinity is revealed in vv. 5 and 7, for where One of the Persons is present, present also are the other Two. 
+the prophet Balaam ("the Holy Spirit... who spoke by the prophets"--Creed). Therefore, the Holy Trinity is revealed in vv. 5 and 7, for where One of the Persons is present, present also are the other Two. 
 
 ### 23:10
 *(anchor: NUM.23:10)*

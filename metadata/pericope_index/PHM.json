@@ -1,0 +1,63 @@
+{
+  "book_code": "PHM",
+  "pericopes": [
+    {
+      "title": "Philemon \u2014 Opening",
+      "start_anchor": "PHM.1:1",
+      "end_anchor": "PHM.1:2",
+      "verse_count": 2,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Commendation of Philemon",
+      "start_anchor": "PHM.1:3",
+      "end_anchor": "PHM.1:6",
+      "verse_count": 4,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Plea for Onesimus",
+      "start_anchor": "PHM.1:7",
+      "end_anchor": "PHM.1:21",
+      "verse_count": 15,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Personal Request, Greetings, and Benediction",
+      "start_anchor": "PHM.1:22",
+      "end_anchor": "PHM.1:25",
+      "verse_count": 4,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/NT/67_PHM.md",
+  "generated_at": "2026-03-13T14:01:39+00:00"
+}

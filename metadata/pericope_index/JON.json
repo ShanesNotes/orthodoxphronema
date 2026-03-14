@@ -1,0 +1,63 @@
+{
+  "book_code": "JON",
+  "pericopes": [
+    {
+      "title": "Jonah \u2014 Opening",
+      "start_anchor": "JON.1:1",
+      "end_anchor": "JON.1:15",
+      "verse_count": 15,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Jonah's Song of Thanksgiving",
+      "start_anchor": "JON.1:16",
+      "end_anchor": "JON.2:11",
+      "verse_count": 13,
+      "chapter_range": "1-2",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "The Repentance of Nineveh",
+      "start_anchor": "JON.3:1",
+      "end_anchor": "JON.3:9",
+      "verse_count": 9,
+      "chapter_range": "3",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Jonah Is Grieved by the Lord's Compassion",
+      "start_anchor": "JON.3:10",
+      "end_anchor": "JON.4:11",
+      "verse_count": 12,
+      "chapter_range": "3-4",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/OT/36_JON.md",
+  "generated_at": "2026-03-12T00:14:09+00:00"
+}

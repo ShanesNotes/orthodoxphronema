@@ -1,0 +1,35 @@
+{
+  "book_code": "SNG",
+  "pericopes": [
+    {
+      "title": "Song of Songs \u2014 Opening",
+      "start_anchor": "SNG.1:1",
+      "end_anchor": "SNG.5:16",
+      "verse_count": 77,
+      "chapter_range": "1-5",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "You beautiful one among women?",
+      "start_anchor": "SNG.6:1",
+      "end_anchor": "SNG.8:14",
+      "verse_count": 40,
+      "chapter_range": "6-8",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/OT/27_SNG.md",
+  "generated_at": "2026-03-12T00:46:36+00:00"
+}

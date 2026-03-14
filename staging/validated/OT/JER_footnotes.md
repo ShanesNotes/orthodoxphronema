@@ -101,7 +101,7 @@ Father" ([[LUK.11:1]], [[LUK.11:2]]).
 ### 4:4
 *(anchor: JER.4:4)*
 
-Circumcise . . . your heart: St. Cyprian tells us "the first circumcision of the flesh is
+Circumcise... your heart: St. Cyprian tells us "the first circumcision of the flesh is
 
 made void, and the second circumcision of the spirit is promised instead" (see [[COL.2:11]]). He further notes, "Then, because that sign did not avail women, but all are sealed by the
 
@@ -133,14 +133,14 @@ whom the Lord can be merciful.
 ### 5:4
 *(anchor: JER.5:4)*
 
-Poor . . . do not know the way of the Lord: "The poor man is . . . he who lacks the
+Poor... do not know the way of the Lord: "The poor man is... he who lacks the
 
 great doctrines, as is the view also of the prophet" (BasilG). 
 
 ### 5:10
 *(anchor: JER.5:10)*
 
-The foundations . . . belong to the Lord: Despite her faithlessness, still the
+The foundations... belong to the Lord: Despite her faithlessness, still the
 
 foundations of the city are established by God. 
 
@@ -354,7 +354,7 @@ dragons or serpents to persecute the saints ([[REV.12:7]]-9).
 
 Boasting in oneself and one's capabilities is here forbidden. In our devotion to God, we are called to boast only in the glory of God or, in the words of the Apostle Paul, "Christ
 
-. . . crucified" ([[1CO.2:2]]). 
+... crucified" ([[1CO.2:2]]). 
 
 ### 9:25
 *(anchor: JER.9:25)*
@@ -394,7 +394,7 @@ makes possible political stability, education, and other blessings of life.
 ### 10:16-17
 *(anchor: JER.10:16)*
 
-My tabernacle . . . is ruined: Mourning the loss of right worship, the Lord
+My tabernacle... is ruined: Mourning the loss of right worship, the Lord
 
 depicts His house in terms of the ancient tabernacle instead of Solomon's temple, which
 
@@ -564,7 +564,7 @@ against them.
 ### 15:9
 *(anchor: JER.15:9)*
 
-The sun set . . . at noonday: " . . . plainly announced that obscuration of the sun
+The sun set... at noonday: "... plainly announced that obscuration of the sun
 
 which at the time of [Christ's] crucifixion took place from the sixth hour onwards, and
 

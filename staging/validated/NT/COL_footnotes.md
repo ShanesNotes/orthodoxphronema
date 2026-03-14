@@ -326,7 +326,7 @@ authority is humbling) and all submission is to God (all submission is glorious)
 
 Paul expects the church to be at corporate prayer often. Not only are the apostles to
 
-speak the mystery of Christ, but every member of the church is to have speech . . .
+speak the mystery of Christ, but every member of the church is to have speech...
 
 with grace so as to answer those seeking the true faith.
 

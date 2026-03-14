@@ -1,0 +1,57 @@
+{
+  "generated": "2026-03-14",
+  "profile": "default",
+  "format": "text",
+  "applied": false,
+  "summary": {
+    "total_findings": 3,
+    "auto_fixable": 2,
+    "review_needed": 1,
+    "files_checked": 1,
+    "lines_checked": 4,
+    "lines_fixed": 2
+  },
+  "by_category": {
+    "P1": 1,
+    "P5": 1,
+    "P6": 1
+  },
+  "by_file": {
+    "/tmp/test_plain.txt": 3
+  },
+  "findings": [
+    {
+      "file": "/tmp/test_plain.txt",
+      "line": 2,
+      "anchor": "",
+      "code": "P5",
+      "message": "Multiple consecutive spaces",
+      "original": "(multiple spaces)",
+      "suggested": "(single space)",
+      "auto_fixable": true,
+      "context": "Another test where there  are double spaces."
+    },
+    {
+      "file": "/tmp/test_plain.txt",
+      "line": 3,
+      "anchor": "",
+      "code": "P1",
+      "message": "Missing space after ',': ',l' → ', l'",
+      "original": ",l",
+      "suggested": ", l",
+      "auto_fixable": true,
+      "context": "And missing space after punctuation,like this."
+    },
+    {
+      "file": "/tmp/test_plain.txt",
+      "line": 1,
+      "anchor": "",
+      "code": "P6",
+      "message": "Unknown word: 'aword'",
+      "original": "aword",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": ""
+    }
+  ]
+}

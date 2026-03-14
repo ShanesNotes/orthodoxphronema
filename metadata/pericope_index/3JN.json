@@ -1,0 +1,77 @@
+{
+  "book_code": "3JN",
+  "pericopes": [
+    {
+      "title": "Greeting to Gaius",
+      "start_anchor": "3JN.1:1",
+      "end_anchor": "3JN.1:3",
+      "verse_count": 3,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Commendation of Gaius",
+      "start_anchor": "3JN.1:4",
+      "end_anchor": "3JN.1:7",
+      "verse_count": 4,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Condemnation of Diotrephes",
+      "start_anchor": "3JN.1:8",
+      "end_anchor": "3JN.1:10",
+      "verse_count": 3,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Recommendation of Demetrius",
+      "start_anchor": "3JN.1:11",
+      "end_anchor": "3JN.1:11",
+      "verse_count": 1,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Farewell",
+      "start_anchor": "3JN.1:12",
+      "end_anchor": "3JN.1:15",
+      "verse_count": 4,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/NT/74_3JN.md",
+  "generated_at": "2026-03-14T17:01:23+00:00"
+}

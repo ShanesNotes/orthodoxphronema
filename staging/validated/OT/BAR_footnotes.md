@@ -40,7 +40,7 @@ The money was for offerings (see also Jer 17:25; 48:5).
 ### 1:11
 *(anchor: BAR.1:11)*
 
-God's people have always been called to pray for the . . . king and all who are in
+God's people have always been called to pray for the... king and all who are in
 
 authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]]). 
 
@@ -54,7 +54,7 @@ The prayer that begins here and goes through 3:8 is quite similar to a prayer in
 ### 1:19-20
 *(anchor: BAR.1:19)*
 
-Out of . . . Egypt: Though over 1000 years had passed since the children of Israel
+Out of... Egypt: Though over 1000 years had passed since the children of Israel
 
 under Moses escaped from Pharaoh and crossed the Red Sea on dry ground, this
 
@@ -93,16 +93,16 @@ might turn back to Him.
 
 When Israel--and the Church--receive God's mercy, the news spreads quickly
 
-(see [[ACT.17:4]], [[ACT.17:12]]). The prayer for the whole earth is a prayer for the Church to know . . . the Lord our God. 
+(see [[ACT.17:4]], [[ACT.17:12]]). The prayer for the whole earth is a prayer for the Church to know... the Lord our God. 
 
 ### 2:24-25
 *(anchor: BAR.2:24)*
 
-Bones . . . carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians
+Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians
 
 desecrated the reliquaries of the patriarchs. 2:24-25
 
-Bones . . . carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians
+Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians
 
 desecrated the reliquaries of the patriarchs. 
 

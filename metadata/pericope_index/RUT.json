@@ -1,0 +1,77 @@
+{
+  "book_code": "RUT",
+  "pericopes": [
+    {
+      "title": "Ruth \u2014 Opening",
+      "start_anchor": "RUT.1:1",
+      "end_anchor": "RUT.1:4",
+      "verse_count": 4,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Naomi Returns to Judah with Ruth",
+      "start_anchor": "RUT.1:5",
+      "end_anchor": "RUT.1:21",
+      "verse_count": 17,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Boaz Favors Ruth",
+      "start_anchor": "RUT.1:22",
+      "end_anchor": "RUT.2:22",
+      "verse_count": 23,
+      "chapter_range": "1-2",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Boaz Pledges to Redeem Ruth",
+      "start_anchor": "RUT.2:23",
+      "end_anchor": "RUT.3:17",
+      "verse_count": 18,
+      "chapter_range": "2-3",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Boaz Marries Ruth",
+      "start_anchor": "RUT.3:18",
+      "end_anchor": "RUT.4:22",
+      "verse_count": 23,
+      "chapter_range": "3-4",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/OT/08_RUT.md",
+  "generated_at": "2026-03-12T00:14:09+00:00"
+}

@@ -82,7 +82,7 @@ quantity" (v. 18) of blessings in Christ's kingdom. 5:1
 
 Solomon's finished work on the temple will be fulfilled in Christ. 5:2-13 This passage foreshadows the falling asleep of the Theotokos, the Mother of God: "The Ark of God departed from Mount Zion for the heavenly country, borne on the
 
-shoulders of the apostles. Angels overshadowed it with their wings, accompanying it, together with the whole assembly of the Church. . . . So is it now with the dwelling-place
+shoulders of the apostles. Angels overshadowed it with their wings, accompanying it, together with the whole assembly of the Church.... So is it now with the dwelling-place
 
 of the true ark, no longer of the testimony, but the very substance of God the Word. The
 
@@ -214,7 +214,7 @@ overtaken Israel, Jehoshaphat's conscience is sending up warning flags that will
 
 his life (v. 31). 19:1-3 "When we are unwarily joined in friendship with the wicked, we are bound in their
 
-sins. . . . Those who are at peace are to be admonished not to be afraid of disturbing their
+sins.... Those who are at peace are to be admonished not to be afraid of disturbing their
 
 temporal peace, if they break forth into words of rebuke. And again they are to be
 
@@ -294,7 +294,7 @@ suggests that Joash relied on the faith of Jehoiada, but did not make that faith
 ### 25:1-4
 *(anchor: 2CH.25:1)*
 
-Amaziah . . . did what was right insofar as he followed the letter of the law (v. 4), but he did not love the ways of the Lord with a loyal heart. Note how he spares the
+Amaziah... did what was right insofar as he followed the letter of the law (v. 4), but he did not love the ways of the Lord with a loyal heart. Note how he spares the
 
 children of those who killed his father, according to [[DEU.24:16]], yet sets a bad example for
 
@@ -312,7 +312,7 @@ disloyal heart captive.
 ### 26:1-23
 *(anchor: 2CH.26:1)*
 
-Uzziah . . . did what was right by following the commandments, and he
+Uzziah... did what was right by following the commandments, and he
 
 sought the Lord with the help of the prophet. But like his father before him, he turned
 

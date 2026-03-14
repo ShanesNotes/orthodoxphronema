@@ -56,6 +56,14 @@ orthodoxphronema/
 │   ├── raw/                      # Docling output, unvalidated
 │   └── validated/                # Passed validation, awaiting promotion
 │
+├── metadata/                     # Derived, regeneratable metadata and export surfaces
+│   ├── r1_output/                # Extracted cross-reference rows
+│   ├── anchor_backlinks/         # Reverse-link shards by anchor
+│   ├── graph/                    # DuckDB graph and graph-derived files
+│   ├── pericope_index/           # Pericope/session boundary metadata
+│   ├── embedding_documents/      # Future-layer seed documents
+│   └── agent_ingestion/          # Downstream agent export surfaces (e.g. Noah)
+│
 ├── reports/                      # Validation run outputs (committed for audit)
 │   └── YYYY-MM-DD_validation.md
 │
@@ -63,6 +71,9 @@ orthodoxphronema/
 │   └── the_orthodox_study_bible.pdf
 │
 ├── memos/                        # Ark-to-human communication
+│   └── *.md
+│
+├── experimental/                 # Sandbox docs/prototypes — non-governing by default
 │   └── *.md
 │
 ├── CLAUDE.md                     # System directives
@@ -79,10 +90,12 @@ orthodoxphronema/
 | `canon/` | Only modified by the promote script via a deliberate commit. Never edited manually. |
 | `notes/` `articles/` | May be edited, but all canon anchors referenced must exist and be validated before merge. |
 | `staging/` | Never committed to canon directly. Contents are transient. |
+| `metadata/` | Derived only. May be regenerated from canon + companions; never becomes a second scripture source of truth. |
 | `src.texts/` | Add-only. Never modify or delete a source file. |
 | `schemas/` | Changes require a version bump and migration plan. |
 | `pipeline/` | Scripts are version-controlled; changes require testing on staging before use on canon. |
 | `memos/` | Human-readable status and requests. Not part of the corpus. |
+| `experimental/` | Sandbox only. Drafts and prototypes may live here, but they are not authoritative until adopted by a memo or governing doc. |
 
 ---
 

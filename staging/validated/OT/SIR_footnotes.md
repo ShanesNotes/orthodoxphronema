@@ -47,7 +47,7 @@ to Christ as Messiah. This was done to stem the tide of Jewish conversions to
 
 Christianity, which had brought near total destruction to the Jewish nation. 1:7
 
-Again, created wisdom refers to the Incarnation (see 1:4), while wisdom poured . . . out on all His works reminds us the Father created all things through His Son. 1:10-11 The fear of the Lord brings blessing both to life and to death. 1:12
+Again, created wisdom refers to the Incarnation (see 1:4), while wisdom poured... out on all His works reminds us the Father created all things through His Son. 1:10-11 The fear of the Lord brings blessing both to life and to death. 1:12
 
 The capacity to fear the Lord and thus to believe in Him is joined with the infant
 
@@ -385,7 +385,7 @@ sinful human passions.
 ### 16:7
 *(anchor: SIR.16:7)*
 
-The ancient giants are mentioned in [[GEN.6:4]]; WSol 14:6; [[BAR.3:26]]; and 3Mc 2:4.They
+The ancient giants are mentioned in [[GEN.6:4]]; WSol 14:6; [[BAR.3:26]]; and 3Mc 2:4. They
 
 are described as expert men of war, arrogant, insolent, foolish, mighty, and trusting in
 
@@ -747,11 +747,11 @@ irritation.
 
 St. John Chrysostom has a lengthy discourse on friendship in which he quotes from
 
-this verse, listing the evil actions that destroy friendship: "reproaching . . . and revealing
+this verse, listing the evil actions that destroy friendship: "reproaching... and revealing
 
 of a secret, and a treacherous wound." He goes on to say, "For there is nothing good
 
-without friendship . . . so let there be a man having ten thousand talents and another a
+without friendship... so let there be a man having ten thousand talents and another a
 
 hundred friends: the latter is more rich in resources than the former."
 
@@ -855,7 +855,7 @@ of the Church, St. John Chrysostom, should say of v. 1: "For there is no relatio
 
 between man and man so close as that between man and wife, if they be joined together
 
-as they should be . . . nothing whatever is more precious than to be . . . loved by a wife and
+as they should be... nothing whatever is more precious than to be... loved by a wife and
 
 to love her."
 
@@ -1033,7 +1033,7 @@ Christ expands on this in the Sermon on the Mount ([[MAT.5:42]]).
 ### 29:10-13
 *(anchor: SIR.29:10)*
 
-"What is so likely to win favor as gratitude? . . . What [is] more natural than to
+"What is so likely to win favor as gratitude?... What [is] more natural than to
 
 love one who loves us?" (AmbM). Thus, we are urged to give our money to help a
 
@@ -1090,9 +1090,9 @@ rejoicing (v. 22), loving our soul, and comforting our heart (v. 23).
 
 sleeplessness. "Why enviest thou the rich man? Is it because he has subjected himself to
 
-many cares? . . . Because he is bound like a dog, with ten thousand chains--namely his
+many cares?... Because he is bound like a dog, with ten thousand chains--namely his
 
-riches? . . . As though at enmity with ourselves, we have devised a tyranny more powerful
+riches?... As though at enmity with ourselves, we have devised a tyranny more powerful
 
 than natural want of rest--the sleeplessness which comes of wealth" (JohnChr). 
 

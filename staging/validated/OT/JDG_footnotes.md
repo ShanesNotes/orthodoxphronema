@@ -168,7 +168,7 @@ celebrating deliverance from Egypt.
 ### 5:7
 *(anchor: JDG.5:7)*
 
-Just as Deborah was a mother . . . in Israel, so Mary, Mother of God, is also mother of
+Just as Deborah was a mother... in Israel, so Mary, Mother of God, is also mother of
 
 the Church. They both sang songs of praise to the Lord (see [[LUK.1:46]]-55). 
 
@@ -218,7 +218,7 @@ Church, the wheat as the saints. He writes, "For these elect, as though trained 
 
 rod of truth ([[REV.19:15]]), laying aside the old man together with his deeds, are gathered in
 
-the Church as in a winepress . . . for from her wells forth the juice of the heavenly vine."
+the Church as in a winepress... for from her wells forth the juice of the heavenly vine."
 
 Gideon prefigures Christ as a deliverer of those in bondage. 
 
@@ -241,7 +241,7 @@ recorded by the prophet Isaiah (Is 30:18).
 
 St. Ambrose writes that Gideon's sacrifices foreshadow the Incarnation. "The meat
 
-of the kid refers to sins of deed, the broth to the enticements of desire. . . . That the Angel
+of the kid refers to sins of deed, the broth to the enticements of desire.... That the Angel
 
 then stretched forth His staff and touched the rock from which fire went out, shows that
 
@@ -504,7 +504,7 @@ Not only does the Angel of the Lord prophesy Samson's birth and calling, but the
 
 Spirit of the Lord attends his life. 14:1-5 Samson's desire to marry a woman of the Philistines bore ill fruit. The woman was
 
-more faithful to her own people than to him (see vv. 15-18). 14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also "tore the lion, an image of death . . . and caused to go forth from his bitterness the sweetness of life for
+more faithful to her own people than to him (see vv. 15-18). 14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also "tore the lion, an image of death... and caused to go forth from his bitterness the sweetness of life for
 
 men."
 

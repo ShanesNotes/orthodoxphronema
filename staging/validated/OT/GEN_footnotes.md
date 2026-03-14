@@ -379,7 +379,7 @@ willpower alone is incapable of resisting the devil's temptations. Furthermore, 
 
 was weakened through his disobedience and expulsion from Paradise. But he willfully
 
-refused God's helping grace (every intent . . . was only evil continually). 
+refused God's helping grace (every intent... was only evil continually). 
 
 ### 6:6
 *(anchor: GEN.6:6)*
@@ -391,7 +391,7 @@ disappearing from the face of the earth (AthanG).
 ### 6:7
 *(anchor: GEN.6:7)*
 
-God was grieved over these people He created, and swore to blot them out . . . from
+God was grieved over these people He created, and swore to blot them out... from
 
 the face of the earth. Yet He gave them a grace period of one hundred and twenty years
 
@@ -420,7 +420,7 @@ Spirit he obeyed everything God told him to do (6:22). His righteous living was 
 ### 6:11-13
 *(anchor: GEN.6:11)*
 
-The earth was corrupt . . . and filled with unrighteousness because of
+The earth was corrupt... and filled with unrighteousness because of
 
 man's willful refusal to become righteous through the grace of the Holy Spirit
 
@@ -550,7 +550,7 @@ Mankind was united as one race and one language. But this unity existed without
 
 the Holy Trinity, for man's true unity is union and communion with the Father, the Son, and the Holy Spirit. The Church is "the race of Christians" (Kairon Service), "a holy
 
-nation" ([[1PE.2:9]]), and glorifies God "with . . . one mouth" ([[ROM.15:6]]). In the Great Litany, the Church prays "for the union of all men," a union based in the Holy Trinity. 11:7
+nation" ([[1PE.2:9]]), and glorifies God "with... one mouth" ([[ROM.15:6]]). In the Great Litany, the Church prays "for the union of all men," a union based in the Holy Trinity. 11:7
 
 The pronoun Us refers to the Holy Trinity. The words go down are a figure of
 
@@ -1017,11 +1017,11 @@ before Lot arrived in Zoar.
 ### 19:24
 *(anchor: GEN.19:24)*
 
-The Lord rained brimstone and fire . . . from the Lord out of heaven, that is, the Son rained brimstone and fire from the Father (AthanG, BasilG, AmbM, and HilryP). Both have the name "Lord" because of Their equality and oneness of lordship. For in
+The Lord rained brimstone and fire... from the Lord out of heaven, that is, the Son rained brimstone and fire from the Father (AthanG, BasilG, AmbM, and HilryP). Both have the name "Lord" because of Their equality and oneness of lordship. For in
 
 Their essence, the Two are One and undivided (Creed). The Holy Spirit, who spoke this
 
-Scripture through the prophet Moses, is also one in lordship with the Father and the Son, for as the Creed says, "I believe in the Holy Spirit, the Lord . . . who proceeds from the
+Scripture through the prophet Moses, is also one in lordship with the Father and the Son, for as the Creed says, "I believe in the Holy Spirit, the Lord... who proceeds from the
 
 Father."
 
@@ -1238,7 +1238,7 @@ leave his father's house for the land of promise. The words He will send His Ang
 
 before you were prophesied by Abraham to his servant. He spoke these words by the
 
-Holy Spirit, as the Creed says: "I believe in the Holy Spirit . . . who spoke by the prophets."
+Holy Spirit, as the Creed says: "I believe in the Holy Spirit... who spoke by the prophets."
 
 
 ### 24:8
@@ -1267,7 +1267,7 @@ will was not forced. Similarly, election to salvation is based in the same forek
 ### 24:27
 *(anchor: GEN.24:27)*
 
-Abraham's servant knew how to pray, for he began, "Blessed is . . ." This is the
+Abraham's servant knew how to pray, for he began, "Blessed is..." This is the
 
 way the services of the Church begin. In his prayer he recognized the Lord's
 

@@ -95,7 +95,7 @@ The strength of wine symbolizes the "new wine" of the new covenant ([[MAT.9:15]]
 
 17): the Holy Spirit uniting with and dwelling within men. St. Paul writes, "And do not be
 
-drunk with wine . . . but be filled with the Spirit" ([[EPH.5:18]]). 
+drunk with wine... but be filled with the Spirit" ([[EPH.5:18]]). 
 
 ### 4:1-12
 *(anchor: 1ES.4:1)*

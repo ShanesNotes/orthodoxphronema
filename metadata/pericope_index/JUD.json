@@ -1,0 +1,91 @@
+{
+  "book_code": "JUD",
+  "pericopes": [
+    {
+      "title": "Jude \u2014 Opening",
+      "start_anchor": "JUD.1:1",
+      "end_anchor": "JUD.1:1",
+      "verse_count": 1,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "The Presence of False Teachers",
+      "start_anchor": "JUD.1:2",
+      "end_anchor": "JUD.1:3",
+      "verse_count": 2,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "The Judgment of Such False Teachers",
+      "start_anchor": "JUD.1:4",
+      "end_anchor": "JUD.1:6",
+      "verse_count": 3,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "The Character of False Teachers",
+      "start_anchor": "JUD.1:7",
+      "end_anchor": "JUD.1:14",
+      "verse_count": 8,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Resistance to False Teachers",
+      "start_anchor": "JUD.1:15",
+      "end_anchor": "JUD.1:21",
+      "verse_count": 7,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Doxology",
+      "start_anchor": "JUD.1:22",
+      "end_anchor": "JUD.1:25",
+      "verse_count": 4,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/NT/75_JUD.md",
+  "generated_at": "2026-03-13T16:43:09+00:00"
+}

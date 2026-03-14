@@ -173,7 +173,7 @@ Served here is a liturgical term (see also [[LUK.1:23]], "service"; [[ACT.13:2]]
 
 ordered us to perform at the appointed times. He has commanded sacrifices and services
 
-to be performed. . . . Thus, to the high priest has been appointed his proper services, to
+to be performed.... Thus, to the high priest has been appointed his proper services, to
 
 the priests, their own place assigned, upon the Levites their proper duties imposed; and
 
@@ -251,7 +251,7 @@ this case Israel. It is significant the author leaves out Judith's tribal affili
 
 message is to all Israel and not only to one person, city, or tribe. 8:5
 
-A tent . . . on the rooftop provided Judith with solitude from the daily activities of a
+A tent... on the rooftop provided Judith with solitude from the daily activities of a
 
 household (see Pr 21:8). 8:6
 
@@ -375,7 +375,7 @@ was preparing for her unhindered departure. 13:4-5
 
 Judith prayer was said in her heart to keep this final petition for blessing
 
-between herself and the Lord and away from prying ears. 13:6, 7 Holofernes' sword and Judith's plea O Lord . . . strengthen me brings to mind
+between herself and the Lord and away from prying ears. 13:6, 7 Holofernes' sword and Judith's plea O Lord... strengthen me brings to mind
 
 [[PSA.36:15]], [[PSA.36:17]], [[PSA.36:39]]. 13:13
 

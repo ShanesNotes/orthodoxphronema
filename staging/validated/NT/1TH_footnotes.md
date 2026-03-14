@@ -114,7 +114,7 @@ charged or implored. These elements are just as important for preaching today!
 
 is frank concerning his countrymen of that day who reject their Messiah, noting that they
 
-(1) killed . . . the Lord Jesus (v. 15), (2) killed their own prophets, (3) persecuted
+(1) killed... the Lord Jesus (v. 15), (2) killed their own prophets, (3) persecuted
 
 the apostles, (4) do not please God, and (5) act with hostility to all men. This is a
 

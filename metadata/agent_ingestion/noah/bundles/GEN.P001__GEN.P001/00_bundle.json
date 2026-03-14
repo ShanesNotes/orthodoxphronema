@@ -1,0 +1,11 @@
+{
+  "bundle_id": "GEN.P001__GEN.P001",
+  "generated_at": "2026-03-14T03:05:51+00:00",
+  "session_count": 1,
+  "session_ids": [
+    "GEN.P001"
+  ],
+  "writeback_policy": "read_only",
+  "prompt_template_id": "noah_journal_v1",
+  "queue_version": "noah-queue-v1"
+}

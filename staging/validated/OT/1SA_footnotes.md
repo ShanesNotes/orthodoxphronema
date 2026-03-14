@@ -63,7 +63,7 @@ birth--for Samson, Samuel, and probably John the Baptist ([[LUK.1:13]]-15).
 
 St. Cyprian sees the praying Hannah as a type of the Church pouring her heart out in
 
-prayer silently and modestly, "within the very recesses of her heart . . . with manifest
+prayer silently and modestly, "within the very recesses of her heart... with manifest
 
 faith."
 

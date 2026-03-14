@@ -336,7 +336,7 @@ coming of the king from the desert. This is the wedding procession of Solomon an
 
 his bride. The Church will meet her King at His return. The bed is the "palanquin" (v. 9), a portable couch enclosed in a framework of poles and canvas, carried on the shoulders of
 
-mighty men, symbolic of the dwelling place of the King who rests in His saints forever. "Frankincense is allotted to God, while myrrh is . . . for the dead. . . . The Bride . . . is
+mighty men, symbolic of the dwelling place of the King who rests in His saints forever. "Frankincense is allotted to God, while myrrh is... for the dead.... The Bride... is
 
 likened to the vapor of incense, namely, because she worships" (Theod). 
 
@@ -524,7 +524,7 @@ fellow workers" (see text and notes, [[1CO.3:9]]).
 ### 5:6
 *(anchor: SNG.5:6)*
 
-I . . . did not find him is a solemn reminder that our Bridegroom cannot be found
+I... did not find him is a solemn reminder that our Bridegroom cannot be found
 
 unless He chooses to reveal Himself (see [[MAT.16:15]]-17). 
 
@@ -546,13 +546,13 @@ In the richness of poetic language, the bride extols the beauty and grace of her
 
 beloved. Applying these words to Christ, the Bridegroom of the Church, we see that He
 
-is: (1) a shining . . . light (v. 10), "the light of the world" ([[JOH.8:12]]); (2) chosen from
+is: (1) a shining... light (v. 10), "the light of the world" ([[JOH.8:12]]); (2) chosen from
 
 countless thousands (v. 10): "Therefore, peoples shall give thanks to you / Forever and
 
 unto ages of ages" ([[PSA.44:18]]); (3) like refined gold (v. 11), "on His head a golden crown"
 
-([[REV.14:14]]); (4) seen with eyes . . . like . . . doves (v. 12): "The eyes of the Lord are in
+([[REV.14:14]]); (4) seen with eyes... like... doves (v. 12): "The eyes of the Lord are in
 
 every place" (Pr 15:3); (5) revealed with glorious cheeks and lips (v. 13): "His voice as
 
@@ -666,7 +666,7 @@ field. Jesus taught, "The field is the world" ([[MAT.13:38]]). This, together wi
 
 villages (v. 12), rise early (v. 13), the vine has flowered (v. 13), aroma (v. 14) and
 
-fruits . . . new and old (v. 14), suggests a prophetic description of evangelism by the
+fruits... new and old (v. 14), suggests a prophetic description of evangelism by the
 
 apostles and the Church. 
 
@@ -681,7 +681,7 @@ of God. For the Lord addressed His followers, saying, "Here are My mother and My
 
 brothers" ([[MRK.3:34]]). St. Athanasius, in his Paschal Letter of 329, writes concerning 8:1, "The God of all, the Maker of times and seasons, who knows our affairs better than we do
 
-. . . so also does He send [Christ] not unseasonably, but seasonably." St. Paul teaches that
+... so also does He send [Christ] not unseasonably, but seasonably." St. Paul teaches that
 
 Christ came in "the fullness of the time" ([[GAL.4:4]]). 
 
@@ -699,7 +699,7 @@ Eucharist.
 ### 8:5
 *(anchor: SNG.8:5)*
 
-Jesus told His disciples, "the fields . . . are already white for harvest" ([[JOH.4:35]]), a
+Jesus told His disciples, "the fields... are already white for harvest" ([[JOH.4:35]]), a
 
 picture of the Gentile Church. St. Ambrose supports this understanding, seeing she who
 
@@ -712,13 +712,13 @@ Further, he sees the mother as "Mary, whose soul God pierces and divides" (see L
 ### 8:6
 *(anchor: SNG.8:6)*
 
-"Christ is the seal . . . in the heart that we may always love Him, and a seal on the
+"Christ is the seal... in the heart that we may always love Him, and a seal on the
 
 arm, that we may always do His work. Therefore let His image shine forth in our
 
 profession of faith, let it shine forth in our love, let it shine forth in our works and deeds
 
-so that, if it is possible, all His beauty may be represented in us. . . . Christ is our love . . . since [love] has offered itself to death for transgressions" (AmbM). 
+so that, if it is possible, all His beauty may be represented in us.... Christ is our love... since [love] has offered itself to death for transgressions" (AmbM). 
 
 ### 8:7
 *(anchor: SNG.8:7)*

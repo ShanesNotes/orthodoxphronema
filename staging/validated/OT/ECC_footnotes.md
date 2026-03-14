@@ -64,7 +64,7 @@ sinful by choice. This same phrase is also used in 2:11, 17, 26; 4:4, 6, 16; 6:9
 ### 1:15
 *(anchor: ECC.1:15)*
 
-Despite his pessimism, the Preacher knows that God is indeed at work in the world, and only He can make the crooked . . . straight (Is 40:4). 
+Despite his pessimism, the Preacher knows that God is indeed at work in the world, and only He can make the crooked... straight (Is 40:4). 
 
 ### 1:17-18
 *(anchor: ECC.1:17)*

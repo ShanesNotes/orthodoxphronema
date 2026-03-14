@@ -2,7 +2,7 @@
 
 > **Last updated:** 2026-03-13
 > **Role:** Memo governance overlay
-> **Covers:** `36` top-level governance/memo files and `157` archived memo files
+> **Covers:** `39` top-level governance/memo files and `157` archived memo files
 > **See also:** `PROJECT_BOARD.md` for PM state and `memos/ezra_ops_board.md` for live dispatch
 
 ---
@@ -55,6 +55,7 @@ These memos define active policy, protocol, or default workflow. When they confl
 | `121_companion_purity_formatting_sprint.md` | Companion layer purity: 76/76 alignment, frontmatter, headers, schema |
 | `123_phase3_contract_reconciliation.md` | Marker-layer vs R1 Phase 3 handoff repair |
 | `124_cleanup_tail_taxonomy_and_archive.md` | Cleanup namespace narrowed to active reusable tools; historical one-offs archived |
+| `125_noah_downstream_ingestion_contract.md` | Noah read-only pericope packet/export contract |
 | `98_contract_repair_and_state_refresh.md` | Shared contract repair truth |
 | `18_gen_readability_blocker_decision.md` | Readability policy |
 | `20_greek_source_text_acquisition.md` | Future: Greek source layer |
@@ -117,7 +118,7 @@ These memos define active policy, protocol, or default workflow. When they confl
 - Numbered memos remain the durable team record.
 - Do not reuse numeric prefixes for new memos.
 - Advisory and research artifacts never receive numbered memo prefixes.
-- Next available memo number: `125`
+- Next available memo number: `126`
 
 ### Metadata For New Memos
 ```text

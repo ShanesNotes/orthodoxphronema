@@ -1,0 +1,49 @@
+{
+  "book_code": "3MA",
+  "pericopes": [
+    {
+      "title": "3 Maccabees \u2014 Opening",
+      "start_anchor": "3MA.1:1",
+      "end_anchor": "3MA.1:6",
+      "verse_count": 6,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Ptolemy Tries to Enter the Temple",
+      "start_anchor": "3MA.1:7",
+      "end_anchor": "3MA.1:27",
+      "verse_count": 21,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "A Priestly Prayer Stops Ptolemy",
+      "start_anchor": "3MA.1:28",
+      "end_anchor": "3MA.7:23",
+      "verse_count": 201,
+      "chapter_range": "1-7",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/OT/23_3MA.md",
+  "generated_at": "2026-03-12T00:30:20+00:00"
+}

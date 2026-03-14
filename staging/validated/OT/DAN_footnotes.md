@@ -414,7 +414,7 @@ Seal the vision: "The things, therefore, which of old were sealed, are now by th
 
 grace of God the Lord all open to the saints, for He was Himself the perfect Seal, and the
 
-Church is the key. . . . But to Christ it was not said 'seal,' but 'loose' the things bound of
+Church is the key.... But to Christ it was not said 'seal,' but 'loose' the things bound of
 
 old; in order that, by His grace, we might know the will of the Father, and believe upon
 
@@ -539,7 +539,7 @@ Syrian gods back to Egypt.
 
 The sons of Seleucus Callinicus of the north were Seleucus Ceraunus and Antiochus
 
-III. They did indeed assemble . . . great forces, but it was Antiochus who passed
+III. They did indeed assemble... great forces, but it was Antiochus who passed
 
 through and invaded the south. 
 

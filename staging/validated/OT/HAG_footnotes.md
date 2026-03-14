@@ -21,7 +21,7 @@ I will shake heaven and earth: "There have been two remarkable transformations
 
 of the human way of life in the course of the world's history. These are called two
 
-'covenants,' . . . two 'shakings of the earth' [Heb 12:26; [[MAT.27:51]]]. The first was the
+'covenants,'... two 'shakings of the earth' [Heb 12:26; [[MAT.27:51]]]. The first was the
 
 transition from idols to the Law; the second, from the Law to the gospel. The gospel also
 
@@ -51,7 +51,7 @@ I will give peace: "Since the restored temple signified the Church, which Christ
 
 to build, those words can mean only 'I will give peace in that place (the Church) which
 
-this place (the rebuilt temple) prefigures.' . . . Not, however, until the House of the New
+this place (the rebuilt temple) prefigures.'... Not, however, until the House of the New
 
 Testament receives its final consecration will its greater glory in relation to the house of
 
@@ -94,13 +94,13 @@ were authenticated by the use of the monarch's signet. In designating Zerubbabel
 
 signet, the Lord was, in effect, stating that Zerubbabel would be acting as His vicegerent, charged with carrying out His supreme rule and divine will. On a deeper level, this is a
 
-strong messianic prophecy. "When our soul becomes peaceful . . . then she will receive
+strong messianic prophecy. "When our soul becomes peaceful... then she will receive
 
 Christ like a signet ring upon her, for she is the image of God. Then she will be according
 
 to that image, because heavenly is the heavenly man. And we need to bear the image of
 
-the heavenly one, that is, peace. . . . I wish the Lord Jesus may say to you, 'Put me as a
+the heavenly one, that is, peace.... I wish the Lord Jesus may say to you, 'Put me as a
 
 seal upon your arm' [SS 8:6]. May peace glow in your heart, Christ in your works, and
 

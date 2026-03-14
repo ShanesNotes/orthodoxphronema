@@ -501,7 +501,7 @@ the Cherubic Hymn). 8:2
 
 Aaron did not take this honor to himself to be the high priest, but was called by God
 
-([[HEB.5:4]]). "So also Christ did not glorify Himself to become High Priest, but . . . [was]
+([[HEB.5:4]]). "So also Christ did not glorify Himself to become High Priest, but... [was]
 
 called by God as High Priest 'according to the order of Melchizedek'" ([[HEB.5:5]], [[HEB.5:10]]). 8:6
 
@@ -1034,7 +1034,7 @@ the prophets as spiritual fornication, showing their unfaithfulness to God. Here
 
 Bride of Christ. Jesus is the Groom--so noted on Great and Holy Thursday--to whom the
 
-Church sings, "The Groom of the Church is fastened with nails . . ." To turn from the
+Church sings, "The Groom of the Church is fastened with nails..." To turn from the
 
 Groom to seek union or communion with anyone or anything else is spiritual fornication. 
 
@@ -1122,13 +1122,13 @@ showed us the righteousness required by the Law, what kind it is. So what kind i
 
 in what does it consist? 'The man who does these things shall live by them,' Moses said. There was no other way of becoming righteous in the Law except by fulfilling the whole
 
-of it. But this was not possible for anyone, and therefore this righteousness failed them. . . . For that required the fulfillment of all things (for when you do all, then you shall live); but the righteousness of faith does not say this, but what does it say? 'If you confess with
+of it. But this was not possible for anyone, and therefore this righteousness failed them.... For that required the fulfillment of all things (for when you do all, then you shall live); but the righteousness of faith does not say this, but what does it say? 'If you confess with
 
 your mouth the Lord Jesus, and believe in your heart God raised Him from the dead, you
 
 shall be saved, for with the heart one believes unto righteousness, and with the mouth
 
-confession is made unto salvation' ([[ROM.10:9]], [[ROM.10:10]]). . . . There is no long journey to go on, no seas to sail over, no mountains to pass, to get saved. But if you be not minded to cross
+confession is made unto salvation' ([[ROM.10:9]], [[ROM.10:10]]).... There is no long journey to go on, no seas to sail over, no mountains to pass, to get saved. But if you be not minded to cross
 
 so much as the threshold, you may even while you sit at home be saved. For 'in your
 
@@ -1591,7 +1591,7 @@ eternal restoration and freedom from any bondage. Even the earth and all creatio
 
 be renewed. [[REV.21:1]], [[REV.21:5]] says, "Now I saw a new heaven and a new earth, for the first
 
-heaven and the first earth had passed away. Also there was no more sea. . . . Then He who
+heaven and the first earth had passed away. Also there was no more sea.... Then He who
 
 sat on the throne said, 'Behold, I make all things new.' And He said to me, 'Write, for
 

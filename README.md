@@ -70,6 +70,7 @@ Promotion gates (D1-D5 + V4/V7) enforce editorial resolution, freshness, sidecar
 - **R1 extractor** — typed `ReferenceRecord` JSONL output (~4,558 wikilinks across 76 books)
 - **Backlink shards** — per-domain reverse index in `metadata/anchor_backlinks/`
 - **DuckDB** — `archive_nodes` + `archive_edges` tables for graph queries
+- **Agent ingestion** — downstream Noah packet queue + Obsidian-friendly bundle export
 
 ## Repository Structure
 
@@ -78,11 +79,11 @@ Promotion gates (D1-D5 + V4/V7) enforce editorial resolution, freshness, sidecar
 | `canon/` | Promoted, validated scripture (76 files: `OT/`, `NT/`) |
 | `staging/` | Pre-promotion work area (`raw/`, `validated/`) with companion sidecars (`_footnotes.md`, `_articles.md`, `_residuals.json`) |
 | `pipeline/` | All pipeline code: `parse/`, `cleanup/`, `validate/`, `promote/`, `extract/`, `graph/`, `reference/` |
-| `metadata/` | Generated artifacts: `r1_output/`, `anchor_backlinks/`, `pericope_index/`, `graph/` |
+| `metadata/` | Generated artifacts: `r1_output/`, `anchor_backlinks/`, `pericope_index/`, `graph/`, `agent_ingestion/` |
 | `schemas/` | JSON schemas for validation |
 | `reports/` | Validation audit trail and dashboards |
 | `src.texts/` | Raw source documents (immutable after intake) |
-| `tests/` | 341 tests (pytest) |
+| `tests/` | 343 tests (pytest) |
 | `memos/` | Internal planning and coordination memos |
 | `research/` | Reference material and research notes |
 
@@ -91,6 +92,7 @@ Promotion gates (D1-D5 + V4/V7) enforce editorial resolution, freshness, sidecar
 - **Phase 1** — Complete. All 76 books extracted, validated, and promoted to `canon/`.
 - **Phase 2** — Active. Companion layer normalization (wikilinks, footnote reindexing, purity audits).
 - **Phase 3** — Scaffold built. Reference graph (R1 JSONL, backlink shards, DuckDB schema) operational.
+- **Phase 4** — Experimental. Downstream agent-consumer packets (`Noah`) now have a Genesis-first export contract.
 
 ## Tooling
 
@@ -99,7 +101,7 @@ Promotion gates (D1-D5 + V4/V7) enforce editorial resolution, freshness, sidecar
 | Docling | PDF extraction (primary parser) |
 | pdftotext | Fallback text extraction |
 | DuckDB | Reference graph storage and queries |
-| pytest | Test suite (341 tests) |
+| pytest | Test suite (343 tests) |
 | Python | >= 3.11 |
 
 Install optional dependencies:

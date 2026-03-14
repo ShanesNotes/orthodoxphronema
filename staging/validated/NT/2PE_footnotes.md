@@ -312,4 +312,4 @@ The danger of deception is high for everyone. The defense against deception is t
 
 stay connected to the true apostles (v. 17) and to their doctrines, which encourage our
 
-growth in the knowledge of our Lord . . . Jesus Christ (v. 18).
+growth in the knowledge of our Lord... Jesus Christ (v. 18).

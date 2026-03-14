@@ -17,7 +17,7 @@ Drift check: `reports/coordination_state.json`
 - Fresh dossiers: `76/76`
 - Stale dossiers: `0`
 - Worktree: dirty
-- Tests: `341 passed`
+- Tests: `343 passed`
 - OT canon lock still depends on Memo `91` and the `EST.4:6` disposition.
 - Memo `88` is the proposed governing Phase 3 spec awaiting Human ratification.
 - Phase 3 execution scaffold now exists in code:
@@ -36,6 +36,9 @@ Drift check: `reports/coordination_state.json`
 - Memo `124` closes the cleanup tail taxonomy:
   - `pipeline/cleanup/` now means active reusable cleanup/audit tools
   - historical one-off repair scripts now live under `pipeline/archive/historical_cleanup/`
+- Memo `125` formalizes Noah as a downstream consumer:
+  - official artifacts live under `metadata/agent_ingestion/noah/`
+  - `experimental/` remains sandbox-only
 
 ## Active Dispatch
 | lane | owner | status | blocker | next_action |
@@ -44,6 +47,7 @@ Drift check: `reports/coordination_state.json`
 | Historical residual packet A | Human | awaiting ratification | Memo `51` | Ratify or reject |
 | Phase 3 launch | Human -> Ark | ready pending ratification | Memo `88` | Ratify Memo `88`, then Ark runs the PSA backlink/graph pilot |
 | Wikilink rollout verification | Ezra | active | Need corpus-level verification of Ark Memo `122` claims | Verify `0` convertible refs remain and Phase 3 graph/report outputs stay coherent |
+| Noah Genesis pilot | Ezra | active | Need first queue/bundle verification and usage guidance | Verify Genesis queue/bundle outputs, then package SER5 handoff notes |
 | Phase 3 contract reconciliation | closed | implemented | none | Memo `121` and Memo `123` now agree on the R1-driven Phase 3 boundary |
 | Coordination drift control | Ezra | active | none | Refresh `reports/coordination_state.json` after board/dashboard/memo changes |
 | Phase 3 rollout verification | Ezra | active | Need full-corpus confirmation of Ark Memo `122` claims | Re-run audit/validation checks and package findings |
@@ -59,6 +63,7 @@ Drift check: `reports/coordination_state.json`
 | Wikilink `REV` seed batch | Shared parser + extractor reuse landed; `425` bare refs rewritten to wikilinks in `REV` companions |
 | Full wikilink rollout | Ark reports all staged companions normalized and Phase 3 artifacts regenerated in Memo `122` |
 | Cleanup tail taxonomy | Historical one-off cleanup scripts archived; active cleanup namespace reduced to reusable tools |
+| Noah contract | Read-only pericope queue and bundle export now formalized for a Genesis-first downstream pilot |
 
 ## Standards Track
 - Link syntax frozen: `[[GEN.1:1]]` outside `canon/`

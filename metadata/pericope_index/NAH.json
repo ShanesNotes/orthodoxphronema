@@ -1,0 +1,49 @@
+{
+  "book_code": "NAH",
+  "pericopes": [
+    {
+      "title": "Nahum \u2014 Opening",
+      "start_anchor": "NAH.1:1",
+      "end_anchor": "NAH.1:13",
+      "verse_count": 13,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "The Judgment of Nineveh",
+      "start_anchor": "NAH.1:14",
+      "end_anchor": "NAH.2:13",
+      "verse_count": 15,
+      "chapter_range": "1-2",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "The Wickedness of Nineveh",
+      "start_anchor": "NAH.2:14",
+      "end_anchor": "NAH.3:19",
+      "verse_count": 19,
+      "chapter_range": "2-3",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/OT/37_NAH.md",
+  "generated_at": "2026-03-10T21:03:23+00:00"
+}

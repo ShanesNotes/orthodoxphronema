@@ -160,9 +160,9 @@ creation for one's own ends. Adultery is sexual infidelity to one's spouse or wi
 
 spouse of another. Swearing falsely by God's name is lying and perjury, taking God's
 
-name in vain. This list of those who exploit wage-earners . . . oppress widows and afflict
+name in vain. This list of those who exploit wage-earners... oppress widows and afflict
 
-orphans . . . pervert the justice due foreigners, and do not fear Me demonstrates
+orphans... pervert the justice due foreigners, and do not fear Me demonstrates
 
 the biblical concern with social as well as personal morality. The Old Testament prophets, Christ Himself, the New Testament apostles, and the saints of the Church all address
 

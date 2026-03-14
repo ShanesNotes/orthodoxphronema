@@ -1,0 +1,49 @@
+{
+  "book_code": "HAB",
+  "pericopes": [
+    {
+      "title": "Habakkuk \u2014 Chapter 1",
+      "start_anchor": "HAB.1:1",
+      "end_anchor": "HAB.1:17",
+      "verse_count": 17,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Habakkuk \u2014 Chapter 2",
+      "start_anchor": "HAB.2:1",
+      "end_anchor": "HAB.2:20",
+      "verse_count": 20,
+      "chapter_range": "2",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Habakkuk \u2014 Chapter 3",
+      "start_anchor": "HAB.3:1",
+      "end_anchor": "HAB.3:19",
+      "verse_count": 19,
+      "chapter_range": "3",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/OT/38_HAB.md",
+  "generated_at": "2026-03-12T00:14:09+00:00"
+}

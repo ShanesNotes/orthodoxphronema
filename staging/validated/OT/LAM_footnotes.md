@@ -17,7 +17,7 @@ The city is Jerusalem, once full of people but now in captivity in Babylon.
 ### 1:5
 *(anchor: LAM.1:5)*
 
-During Lent we pray, "O Lord and Master of our lives . . ." Here, the oppressors have
+During Lent we pray, "O Lord and Master of our lives..." Here, the oppressors have
 
 become the master. This captivity is the result of the ungodliness of God's people. A
 

@@ -1,0 +1,77 @@
+{
+  "book_code": "HAG",
+  "pericopes": [
+    {
+      "title": "Haggai \u2014 Opening",
+      "start_anchor": "HAG.1:1",
+      "end_anchor": "HAG.1:1",
+      "verse_count": 1,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "The Command to Rebuild the Lord's House",
+      "start_anchor": "HAG.1:2",
+      "end_anchor": "HAG.1:13",
+      "verse_count": 12,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "The Future Glory of the New Temple",
+      "start_anchor": "HAG.1:14",
+      "end_anchor": "HAG.2:8",
+      "verse_count": 10,
+      "chapter_range": "1-2",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "The Corrupting Effect of the Unclean",
+      "start_anchor": "HAG.2:9",
+      "end_anchor": "HAG.2:18",
+      "verse_count": 10,
+      "chapter_range": "2",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "A Promise Made to Zerubbabel",
+      "start_anchor": "HAG.2:19",
+      "end_anchor": "HAG.2:23",
+      "verse_count": 5,
+      "chapter_range": "2",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/OT/40_HAG.md",
+  "generated_at": "2026-03-11T20:45:51+00:00"
+}

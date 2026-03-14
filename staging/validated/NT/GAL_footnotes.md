@@ -610,7 +610,7 @@ Isaac "was the issue of bodies that were dead, and of a womb that was dead. His
 
 conception was not by the flesh, nor his birth by the seed, for the womb was dead both
 
-through age and barrenness. But the Word of God fashioned him. . . . He that was not
+through age and barrenness. But the Word of God fashioned him.... He that was not
 
 according to the flesh was more honorable than he that was born after the flesh.
 
@@ -776,7 +776,7 @@ The legalizers choose to offend God that they may please human beings.
 ### 6:14
 *(anchor: GAL.6:14)*
 
-How does one boast . . . in the cross? Throughout the history of the Church,
+How does one boast... in the cross? Throughout the history of the Church,
 
 Christians have preached the Cross, displayed the Cross in their homes and altars,
 

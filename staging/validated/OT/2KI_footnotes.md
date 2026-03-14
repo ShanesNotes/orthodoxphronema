@@ -30,7 +30,7 @@ second Elijah" ([[MAT.3:4]]).
 
 approached the mountain on which Elijah was sitting, who ascended in a chariot of fire to
 
-heaven. . . . Accordingly, beloved, the righteous shall be tried by the fire, like gold and
+heaven.... Accordingly, beloved, the righteous shall be tried by the fire, like gold and
 
 silver and goodly stones, and the wicked shall be burned in the fire like straw and reed
 
@@ -142,7 +142,7 @@ renewal to all of creation.
 ### 2:23-25
 *(anchor: 2KI.2:23)*
 
-Like Elisha before the youths, Christ will also be mocked ([[LUK.18:32]]). "For what is, 'Go up!'? 'Crucify Him! Crucify Him!' For childhood is set before us to imitate humility, and . . . to beware of foolishness" (Aur). 
+Like Elisha before the youths, Christ will also be mocked ([[LUK.18:32]]). "For what is, 'Go up!'? 'Crucify Him! Crucify Him!' For childhood is set before us to imitate humility, and... to beware of foolishness" (Aur). 
 
 ### 3:18
 *(anchor: 2KI.3:18)*
@@ -179,7 +179,7 @@ favored by God ([[LUK.1:30]]). "For, because no one would easily have believed t
 
 could bear a child, barren women first did so, then such as were not only barren, but aged
 
-also . . . to prepare the way for belief in the Virgin's travail" (JohnChr). 4:29-31
+also... to prepare the way for belief in the Virgin's travail" (JohnChr). 4:29-31
 
 Elisha's staff, which failed to raise the child, is like the law. Neither of them, apart from the Word, can save mankind. 4:32-35
 
@@ -325,7 +325,7 @@ have any special significance. Here, the bones of a departed saint bring a dead 
 
 to life. St. Cyril comments, "Is a dead man raised to life on touching the bones of Elisha, and is it not much easier for the Maker of mankind to be raised by the power of the
 
-Father? Well then, He truly rose, and after He had risen was seen again of the disciples . . . are you still incredulous in regard to His Resurrection?" (See also [[JOH.5:25]], [[JOH.5:28]], [[JOH.5:29]].)
+Father? Well then, He truly rose, and after He had risen was seen again of the disciples... are you still incredulous in regard to His Resurrection?" (See also [[JOH.5:25]], [[JOH.5:28]], [[JOH.5:29]].)
 
 14:8
 
@@ -499,7 +499,7 @@ and all the people, for both the leaders and the laity must live by God's revela
 ### 23:4-9
 *(anchor: 2KI.23:4)*
 
-A second step in renewal is to bring out of the temple . . . all the articles
+A second step in renewal is to bring out of the temple... all the articles
 
 made for Baal. Following the Lord includes both hearing and obeying His word and
 
@@ -517,7 +517,7 @@ hundred years earlier (3Kg 13:2, 3).
 
 "Love faith. For by his devotion and faith Josiah won great love for himself from
 
-his enemies. For he celebrated the Lord's Passover . . . as no one had done it before him. As then in zeal, he was superior to those who went before him. So do you, my sons, show
+his enemies. For he celebrated the Lord's Passover... as no one had done it before him. As then in zeal, he was superior to those who went before him. So do you, my sons, show
 
 zeal for God. Let zeal for God search you through, and devour you, so that each one of you
 

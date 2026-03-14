@@ -526,7 +526,7 @@ Church throughout that land.
 
 The Law of Moses commanded that Pascha (or Passover) be celebrated in the
 
-beginning of months . . . the first month of the year. But the Lord came down "at
+beginning of months... the first month of the year. But the Lord came down "at
 
 the end of the ages" ([[HEB.9:26]]), and He is "the end of the law" ([[ROM.10:4]]); therefore, He
 

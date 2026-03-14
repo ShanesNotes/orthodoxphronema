@@ -27,7 +27,7 @@ St. Jerome writes that this verse was fulfilled when Christ went to Jerusalem (M
 
 11:11). He was looking at everything in the temple "as though He were searching with a
 
-lantern . . . but He did not find what He wanted. . . . The Savior searched; the Apostles
+lantern... but He did not find what He wanted.... The Savior searched; the Apostles
 
 searched; in the temple they found nothing, so they left it."
 

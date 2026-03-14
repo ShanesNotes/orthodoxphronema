@@ -457,7 +457,7 @@ coming of Christ, they were unable to do this, for Jerusalem was destroyed along
 
 temple. This destruction was proof enough that the Law had come to an end, for it was
 
-only a shadow of the kingdom to come (AthanG). 12:13-14 The whole burnt offering was a type of "the sacrifice of praise to God . . . giving
+only a shadow of the kingdom to come (AthanG). 12:13-14 The whole burnt offering was a type of "the sacrifice of praise to God... giving
 
 thanks to His name" ([[HEB.13:15]]). "Now what is a spiritual whole burnt offering? It is 'the
 
@@ -521,7 +521,7 @@ putting on love for God and neighbor through the Holy Spirit (AthanG).
 
 The seventh and final day of the Feast of Unleavened Bread was a Sabbath on which
 
-Israel was to do no work . . . except what must be done for life. Therefore, the
+Israel was to do no work... except what must be done for life. Therefore, the
 
 Sabbath was not a total cessation of all work; work essential to life might be done. Jesus cured a paralytic on the Sabbath, and this cure was obviously essential to his life. Yet the Jews accused Him of breaking the Sabbath, and even tried to kill Him ([[JOH.5:16]]). But these same Jews would take care of their animals on the Sabbath, even if one should
 

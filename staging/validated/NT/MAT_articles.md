@@ -12,7 +12,7 @@ canon_anchors_referenced: []
 ## Study Articles
 
 
-### The Sermon Onthe Mount
+### The Sermon On the Mount
 *(after MAT.5:12)*
 
 I n the Sermon on the Mount (Mt 5-7), Jesus introduces the kind of life those who seek the Kingdom of God must lead. His homily could properly be called, 'The Righteousness of the Kingdom.' It can be divided into several sections.

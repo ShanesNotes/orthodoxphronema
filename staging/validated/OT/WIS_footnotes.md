@@ -29,7 +29,7 @@ A spirit of discipline brings with it honesty, discernment, and righteousness.
 
 This passage brings to mind the prayer, "O Heavenly King," in which we confess, "the
 
-Spirit of Truth . . . is everywhere present and fills all things."
+Spirit of Truth... is everywhere present and fills all things."
 
 
 ### 1:13
@@ -301,7 +301,7 @@ without fruit" (Jude 12). The pillar of salt is a reference to Lot's unbelieving
 
 ). 10:10
 
-Our lives are a combination of hardships and the successes of increased . . . fruit from our labors. Wisdom helps us through both. St. Paul encouraged Timothy to
+Our lives are a combination of hardships and the successes of increased... fruit from our labors. Wisdom helps us through both. St. Paul encouraged Timothy to
 
 "endure hardship as a good soldier of Jesus Christ" ([[2TI.2:3]]). 10:13-14 When Joseph was betrayed by his brothers and in a pit in Egypt, wisdom did
 

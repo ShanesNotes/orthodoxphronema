@@ -135,7 +135,7 @@ had the scribes and Pharisees, St. Paul had Demas and Alexander the coppersmith 
 
 4:9-15), and Nehemiah had Sanballat, Tobiah, and Geshem, who laughed at the
 
-project. The prophet, not arguing, said, "God . . . will . . . prosper us" (see [[EXO.14:14]]; [[1TH.5:24]]). 3:1-32 The work to rebuild Jerusalem and restore Israel within the land God promised to
+project. The prophet, not arguing, said, "God... will... prosper us" (see [[EXO.14:14]]; [[1TH.5:24]]). 3:1-32 The work to rebuild Jerusalem and restore Israel within the land God promised to
 
 their ancestors begins at once. The laborers are a veritable "Who's Who" of Jerusalem and
 
@@ -205,7 +205,7 @@ to Noadiah (v. 14) indicates others had been hired as well. 6:15-16 The enemies 
 
 fifty-two days--less than two months! Disheartened, even Sanballat and Tobiah were
 
-forced to admit the work was done by . . . God. 6:17-19
+forced to admit the work was done by... God. 6:17-19
 
 Though defeated, the well-connected Tobiah continued his letters of assault. Jesus called this kind wolves "in sheep's clothing" ([[MAT.7:15]]). 7:1-3
 
@@ -322,7 +322,7 @@ that it is better to be pure than popular. (a) After hearing the Scriptures read
 
 gained the courage to separate the heathen, the mixed multitude (v. 3), from the
 
-congregation of Israel (vv. 1-3). (b) Nehemiah tossed . . . all the household goods of
+congregation of Israel (vv. 1-3). (b) Nehemiah tossed... all the household goods of
 
 Tobiah (v. 8) out of his rooms in the temple. Why did Eliashib the priest (v. 4) move
 

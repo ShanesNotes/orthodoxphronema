@@ -174,7 +174,7 @@ Paul compares the difference between sterile epistles and living spiritual fruit
 
 difference between the Old Covenant, written on tablets of stone, and the New, written
 
-on tablets . . . of the heart. The impostors in Corinth are lifeless legalists. Paul is
+on tablets... of the heart. The impostors in Corinth are lifeless legalists. Paul is
 
 ministering Christ through the Spirit of God.
 
@@ -348,7 +348,7 @@ trials light affliction.
 
 As part of our inner renewal in Christ (v. 16) we gain the gift of seeing the unseen,
 
-the things which are . . . eternal.
+the things which are... eternal.
 
 
 ### 5:1-4

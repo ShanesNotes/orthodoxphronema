@@ -64,7 +64,7 @@ The historical account in Ps 3 is that of King David fleeing from his son, Absal
 
 flesh ([[MAT.1:1]]; [[ROM.1:3]]). Thus, Jesus is praying to the Lord, who is God the Father (vv. 2,
 
-4, 5, 6, 8, 9). And the many . . . who rise up against me (v. 2) are the fallen angels, of
+4, 5, 6, 8, 9). And the many... who rise up against me (v. 2) are the fallen angels, of
 
 whom Absalom and his army were a type. These angels, which number ten thousands
 
@@ -146,7 +146,7 @@ enemy (vv. 4-17). (3) The credit for any victory achieved goes to the Lord (v. 1
 ### 8:1
 *(anchor: PSA.8:1)*
 
-Ps 8 speaks of the Incarnate Lord: (1) His name is wondrous . . . in all the earth,
+Ps 8 speaks of the Incarnate Lord: (1) His name is wondrous... in all the earth,
 
 and He is exalted far beyond the heavens (v. 2; see also [[PHP.2:9]]-11). (2) He brings
 
@@ -1330,7 +1330,7 @@ ensnared mankind in the fear of death and the lifetime of bondage it engendered 
 
 fear (from birth, v. 6; to old age and to my last breath, v. 18). For we are delivered
 
-and set free in His righteousness (v. 2), on which we meditate . . . all the day long v.
+and set free in His righteousness (v. 2), on which we meditate... all the day long v.
 
 24).
 
@@ -1434,9 +1434,9 @@ Ps 77 concerns understanding (v. 1). What needs to be understood is that Christ 
 
 speaking to His Church (vv. 2, 14; see also [[MAT.13:34]], [[MAT.13:35]]; [[1CO.10:4]], [[1CO.10:14]]), called children
 
-yet to be born (v. 6), His sanctuary . . . founded forever on the earth (v. 69), and
+yet to be born (v. 6), His sanctuary... founded forever on the earth (v. 69), and
 
-His people . . . His inheritance (v. 71). The content of His instruction is the entire
+His people... His inheritance (v. 71). The content of His instruction is the entire
 
 psalm itself, an overview of the history of Israel.
 
@@ -1704,7 +1704,7 @@ Ps 92 is about the renewal of this image and likeness. Thus, this psalm is the p
 
 an ode concerning this renewal (v. 1).
 
-The Lord reigns . . . from of old; . . . from everlasting (vv. 1, 2). In His Incarnation
+The Lord reigns... from of old;... from everlasting (vv. 1, 2). In His Incarnation
 
 (clothed and girded Himself, v. 1), He prepared His throne in the hearts of the
 

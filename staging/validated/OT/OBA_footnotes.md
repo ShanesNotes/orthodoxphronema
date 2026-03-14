@@ -27,7 +27,7 @@ humanity.
 ### 1:2-4
 *(anchor: OBA.1:2)*
 
-Edom is made . . . least among the nations, that is, humbled in response to its
+Edom is made... least among the nations, that is, humbled in response to its
 
 arrogance of heart and boasting. The clefts of the rocks mentioned in v. 3 are likely
 

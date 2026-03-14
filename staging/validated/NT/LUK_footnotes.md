@@ -964,7 +964,7 @@ which was at one time not lawful for anyone but the priests to eat is now freely
 
 all by the Lord of the Sabbath (v. 5). David prefigured this when he gave the
 
-showbread . . . to those with him (vv. 3, 4).
+showbread... to those with him (vv. 3, 4).
 
 
 ### 6:7
@@ -2282,7 +2282,7 @@ Abraham's bosom means heaven. Abraham is mentioned among all the righteous
 
 because, in stark contrast to the rich man, Abraham showed hospitality to strangers (Gn
 
-18:1-8). The rich man . . . was buried: The Fathers see this as illustrating the state of
+18:1-8). The rich man... was buried: The Fathers see this as illustrating the state of
 
 his merciless soul, buried by the pleasures of the flesh. He was already buried in life by
 
@@ -3106,7 +3106,7 @@ let us witness His Resurrection.
 ### 24:4
 *(anchor: LUK.24:4)*
 
-These men . . . in shining garments were angels.
+These men... in shining garments were angels.
 
 
 ### 24:5-7

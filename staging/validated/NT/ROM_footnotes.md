@@ -254,7 +254,7 @@ judge the circumcised.
 
 The name Jew comes from "Judah," which means "the Lord be praised." A true Jew
 
-is one who seeks praise . . . not from men but from God. The goal of the legalist is to
+is one who seeks praise... not from men but from God. The goal of the legalist is to
 
 have praise from men; the goal of the spiritual person is to please God.
 

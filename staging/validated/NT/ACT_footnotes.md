@@ -1534,7 +1534,7 @@ the way in which the Holy Spirit works in and through holy councils. The Church 
 
 to limit canons to only those that are truly essential, in order to lay upon the faithful no
 
-greater burden than . . . necessary.
+greater burden than... necessary.
 
 15:37-40 The one who had departed: See 13:13. This dispute shows that Christians can
 
@@ -1888,7 +1888,7 @@ him.
 ### 19:27
 *(anchor: ACT.19:27)*
 
-The temple of . . . Diana (Gr. Artemis), goddess of the hunt, was one of seven
+The temple of... Diana (Gr. Artemis), goddess of the hunt, was one of seven
 
 wonders of the ancient world because of its size and exquisite beauty. In the center of the
 

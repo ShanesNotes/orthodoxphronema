@@ -44,7 +44,7 @@ covenant upon the people, thereby empowering Israel to participate in the life o
 
 the tabernacle (Lv 16:15). As people of the New Covenant, we enter into God's life more
 
-intimately: "Unless you . . . drink His blood, you have no life in you" ([[JOH.6:53]]). Through
+intimately: "Unless you... drink His blood, you have no life in you" ([[JOH.6:53]]). Through
 
 Christ's blood communicated to us in the Holy Eucharist ([[1CO.11:25]]), we are united with
 
@@ -62,7 +62,7 @@ nature will be transformed into incorrupt human nature.
 ### 1:3
 *(anchor: 1PE.1:3)*
 
-We are begotten . . . again to a living hope in baptism. As Jesus told Nicodemus,
+We are begotten... again to a living hope in baptism. As Jesus told Nicodemus,
 
 we enter the Kingdom of God by being "born of water and the Spirit" ([[JOH.3:5]]). This new
 

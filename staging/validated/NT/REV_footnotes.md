@@ -280,7 +280,7 @@ OT God was called "the first and the last" (Is 44:6; 48:12), and so, too, is the
 
 Some early heresies (e.g. Docetism) held that Jesus only seemed to die. But the Lord
 
-Himself testified, I . . . was dead, affirming the authenticity of His death; alive
+Himself testified, I... was dead, affirming the authenticity of His death; alive
 
 forevermore, His Resurrection--the power of which effects His lordship over death and
 
@@ -754,7 +754,7 @@ salve (v. 18) correspond to the three leading Laodicean industries.
 ### 3:20
 *(anchor: REV.3:20)*
 
-I will . . . dine with him if there is cooperation, the synergy of an open door. God
+I will... dine with him if there is cooperation, the synergy of an open door. God
 
 does not force anyone to cooperate with Him. He keeps knocking, awaiting a response.
 
@@ -946,7 +946,7 @@ Who can know the mysteries of the scroll and the seals? Who but Christ, the Son
 
 of God Himself, can understand the greatest of all mysteries and how God deals with man
 
-in history? The Lion . . . of Judah and Root of David are messianic titles with
+in history? The Lion... of Judah and Root of David are messianic titles with
 
 parallels in the OT and apocryphal books (see [[GEN.49:9]], [[GEN.49:10]]; Is 11:1-10). The One who has
 
@@ -1174,7 +1174,7 @@ worships before the throne of God. Their white robes and palm branches (v. 9)
 
 symbolize purity and victory. The vast multitude represents either the entire faithful
 
-Church--which lives in the spirit of its baptism (washed . . . in the blood of the Lamb,
+Church--which lives in the spirit of its baptism (washed... in the blood of the Lamb,
 
 v. 14)--or the righteous from all nations who were not members of the "12 x 12 x 1000,"
 
@@ -1232,7 +1232,7 @@ Incense is: (1) commanded by God to Moses for use in Israel's worship ([[EXO.25:
 
 23:13); (3) prophesied by the Lord Himself concerning its use in the Church: incense will
 
-be offered "in every place . . . among the Gentiles" ([[MAL.1:11]]); (4) brought by the Magi as a
+be offered "in every place... among the Gentiles" ([[MAL.1:11]]); (4) brought by the Magi as a
 
 gift to Jesus ([[MAT.2:11]]); and (5) used in Christian worship from the beginning even till
 
@@ -1560,7 +1560,7 @@ numerically literal manner.
 ### 11:4
 *(anchor: REV.11:4)*
 
-These two olive trees and the two lampstands who stand before . . . God are the
+These two olive trees and the two lampstands who stand before... God are the
 
 eschatological agents of God at work on earth. This symbolic description of the witnesses
 
@@ -1586,7 +1586,7 @@ The beast is either the Antichrist or the Roman Empire (see 13:1-10; Dan 7).
 ### 11:8
 *(anchor: REV.11:8)*
 
-The great city . . . where also our Lord was crucified, is clearly Jerusalem
+The great city... where also our Lord was crucified, is clearly Jerusalem
 
 (which kills the prophets; [[LUK.13:34]]). Like Sodom and Egypt, Jerusalem becomes selfsufficient and rebels against God.
 
@@ -2060,7 +2060,7 @@ earth, the beginning of the final judgment (see [[MAT.13:24]]-30, 36-43; [[MRK.4
 ### 14:18
 *(anchor: REV.14:18)*
 
-The angel . . . from the altar with power over fire (see see also 1En 60:11-21)
+The angel... from the altar with power over fire (see also 1En 60:11-21)
 
 recalls 6:9; 8:3-5; and 11:1, 18. The prayers of the martyrs under the altar and the saints
 
@@ -2388,7 +2388,7 @@ earth madly intoxicated.
 
 Roman law stated harlots must wear headbands exhibiting their name. This great
 
-harlot bears the mysterious name of BABYLON . . . MOTHER OF HARLOTS. For the
+harlot bears the mysterious name of BABYLON... MOTHER OF HARLOTS. For the
 
 late-first-century Christians, Babylon was incarnate in Rome (see [[1PE.5:13]]), but it is
 
@@ -2564,7 +2564,7 @@ In contrast to the song of doom for Babylon (ch. 18), the scene returns to the
 
 heavenly liturgy with an outburst of celestial triumph. Alleluia, appearing in the NT only
 
-here (vv. 1, 3, 4, 6), is from the Hebrew for "Praise the L ." It was used in the Great
+here (vv. 1, 3, 4, 6), is from the Hebrew for "Praise the L." It was used in the Great
 
 ORD
 
@@ -2644,7 +2644,7 @@ uncommon to find mixed images). This supper has already begun in the Eucharist, 
 
 foretaste of the Kingdom (see [[MAT.26:29]]; [[LUK.13:29]]; 22:30). The Orthodox sing on Pascha
 
-(Easter): "Shine, shine, O New Jerusalem; the glory of the Lord has shone on you. . . .
+(Easter): "Shine, shine, O New Jerusalem; the glory of the Lord has shone on you....
 
 Grant that we may evermore perfectly partake of You in the never-ending Day of Your
 
@@ -2832,7 +2832,7 @@ same as that of 16:12-16; 19:14-21). Gog and Magog (v. 8; see Ezk 38; 39) are na
 
 hostile to God's people, gathered for one final assault directed against the beloved city
 
-(v. 9), Jerusalem as the Church. As Elijah called down fire . . . out of heaven on his
+(v. 9), Jerusalem as the Church. As Elijah called down fire... out of heaven on his
 
 persecutors ([[2KI.1:10]]-12), so here God sends a consuming fire (see [[GEN.19:24]]; 3Kg 18:38;
 
@@ -3108,7 +3108,7 @@ When you have God's uncreated light, there can be no night (see 21:23; Is 60:19,
 ### 22:7
 *(anchor: REV.22:7)*
 
-Keeping the words . . . of this book refers to repentance, faithfulness, and
+Keeping the words... of this book refers to repentance, faithfulness, and
 
 steadfastness, no matter the circumstances of life. The "overcomers" are blessed.
 

@@ -310,7 +310,7 @@ How do we handle the daily pressures of life? By (1) faith that the Lord is at h
 
 present with us (v. 5); (2) refusing to worry, being anxious for nothing (v. 6); (3)
 
-prayer (v. 6); (4) thanksgiving . . . to God (v. 6); (5) meditation on that which is
+prayer (v. 6); (4) thanksgiving... to God (v. 6); (5) meditation on that which is
 
 virtuous (v. 8); and (6) imitating the godly (v. 9).
 

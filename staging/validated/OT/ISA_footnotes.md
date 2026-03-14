@@ -209,7 +209,7 @@ siege on Jerusalem. He also reminds the people that God, not Assyria, controls h
 
 (v. 14). The Light of Israel (v. 17) that will sanctify God's people speaks poetically of the
 
-Holy Spirit. 10:24-27 The Assyrian king attempted to attack Egypt by way of the coastline and failed. In this way, the yoke that was threatening Jerusalem was destroyed. 11:2-5 At the Baptism of Christ, the Holy Spirit . . . shall rest upon Him (see [[MAT.3:16]]). The righteous and faithful Messiah will judge people by what is in their hearts; His
+Holy Spirit. 10:24-27 The Assyrian king attempted to attack Egypt by way of the coastline and failed. In this way, the yoke that was threatening Jerusalem was destroyed. 11:2-5 At the Baptism of Christ, the Holy Spirit... shall rest upon Him (see [[MAT.3:16]]). The righteous and faithful Messiah will judge people by what is in their hearts; His
 
 teachings shall strike the earth; and His breath--a metaphor for the Holy Spirit--will
 
@@ -223,7 +223,7 @@ whole world shall be filled with the knowledge of the Lord. 11:10 His resting pl
 
 honorable place of veneration. It is also true that Christ finds His "rest" in His saints, in
 
-whom He dwells. 11:11-12 Salvation will come first to the Jewish remnant, and then to Gentiles . . . from
+whom He dwells. 11:11-12 Salvation will come first to the Jewish remnant, and then to Gentiles... from
 
 the four corners of the earth (see [[ACT.1:8]]; [[ROM.1:16]]). The teaching of the apostles
 
@@ -295,7 +295,7 @@ appeal for help against the Assyrians. A Christological interpretation may be ap
 
 first messengers to bring Christ to this region were the Holy Family (see [[MAT.2:13]]-15). Tradition holds that the Evangelist Mark established churches there. 18:5
 
-Before the . . . harvest, God will use the Assyrians as sickles to force the vine to
+Before the... harvest, God will use the Assyrians as sickles to force the vine to
 
 produce grapes. The branches that are cut off will be discarded (see [[JOH.15:1]]-8). 19:2-15 This prophecy was fulfilled historically a few years later in 714 BC, when Piankhi's
 
@@ -401,7 +401,7 @@ The godly are being prepared to follow Christ when He comes. Compare to
 
 Christ's parable of the virgins (see [[MAT.25:1]]-13). 26:16
 
-Hard circumstances are seen by the righteous as a reason to remember the Lord. The holy prophet calls them a small affliction; or as St. Paul writes, "our light affliction, which . . . is working for us a far more exceeding and eternal weight of glory" ([[2CO.4:17]]). 
+Hard circumstances are seen by the righteous as a reason to remember the Lord. The holy prophet calls them a small affliction; or as St. Paul writes, "our light affliction, which... is working for us a far more exceeding and eternal weight of glory" ([[2CO.4:17]]). 
 
 ### 26:19
 *(anchor: ISA.26:19)*
@@ -464,7 +464,7 @@ treachery of Judas, who was descended from the tribe of Ephraim.
 ### 28:4-6
 *(anchor: ISA.28:4)*
 
-Just as the the fig replaces the fading flower, Christ will supersede the fading law
+Just as the fig replaces the fading flower, Christ will supersede the fading law
 
 and become the crown of hope, woven of glory. 
 
@@ -731,7 +731,7 @@ see and know that the God of Israel is Lord of all (v. 20).
 ### 37:22
 *(anchor: ISA.37:22)*
 
-The mighty King of Assyria will be laughed . . . to scorn by vulnerable
+The mighty King of Assyria will be laughed... to scorn by vulnerable
 
 Jerusalem, because she is God's daughter. 
 
@@ -758,7 +758,7 @@ years of life.
 ### 38:7-8
 *(anchor: ISA.38:7)*
 
-This miracle of the sun moving back . . . ten steps is a sign for Hezekiah of God's
+This miracle of the sun moving back... ten steps is a sign for Hezekiah of God's
 
 faithfulness. But it also prefigures Christ, the Sun of Righteousness. He will turn
 
@@ -891,7 +891,7 @@ people who take personal credit for things God has done.
 ### 42:10-12
 *(anchor: ISA.42:10)*
 
-In Christ, the glorified Church will sing . . . a new song (see [[REV.5:9]]). 
+In Christ, the glorified Church will sing... a new song (see [[REV.5:9]]). 
 
 ### 42:13-17
 *(anchor: ISA.42:13)*
@@ -1050,7 +1050,7 @@ Angel of Great Counsel."
 
 The way in which the people were called to walk is the law, God's
 
-commandments. To do so brings peace . . . like a river. 
+commandments. To do so brings peace... like a river. 
 
 ### 49:1
 *(anchor: ISA.49:1)*
@@ -1083,7 +1083,7 @@ strength. In this way, creation will be reconciled to God.
 ### 49:16-18
 *(anchor: ISA.49:16)*
 
-The walls of the earthly Zion, the Jewish nation, will be laid . . . waste, but the
+The walls of the earthly Zion, the Jewish nation, will be laid... waste, but the
 
 heavenly Zion, the Bride of Christ, will be rebuilt quickly by both Jewish and Gentile
 
@@ -1227,7 +1227,7 @@ enables man to receive the same healing and eternal life.
 
 He was considered among the lawless is a reference to "the robbers who were
 
-crucified with Him. . . . Both of them were before this transgressors, but one was so no
+crucified with Him.... Both of them were before this transgressors, but one was so no
 
 longer" (CyrJer). 
 
@@ -1236,7 +1236,7 @@ longer" (CyrJer).
 
 The Gentiles were once barren and desolate, but the Church of the Gentiles will
 
-give birth in the Spirit to many more . . . children than Israel has in the flesh. 
+give birth in the Spirit to many more... children than Israel has in the flesh. 
 
 ### 54:2-3
 *(anchor: ISA.54:2)*
@@ -1552,7 +1552,7 @@ against them.
 
 Note how this verse parallels [[HEB.13:20]]: "Now may the God of peace who brought
 
-up our Lord Jesus from the dead, that great Shepherd of the sheep . . ."
+up our Lord Jesus from the dead, that great Shepherd of the sheep..."
 
 
 ### 63:12-14
@@ -1660,7 +1660,7 @@ According to the Fathers, this prophecy is fulfilled first in the Virgin Mary, a
 
 in the Church. "He who was of the Father, yet without mother, was born of a woman
 
-without a father's cooperation. . . . For, as pleasure did not precede it, pain did not follow
+without a father's cooperation.... For, as pleasure did not precede it, pain did not follow
 
 it" (JohnDm). 
 
@@ -1689,7 +1689,7 @@ Here the Second Coming of the Lord and the Last Judgment are depicted.
 ### 66:19
 *(anchor: ISA.66:19)*
 
-The cross is the sign of salvation which the apostles shall declare . . . among the
+The cross is the sign of salvation which the apostles shall declare... among the
 
 Gentiles (see [[MAT.8:19]]). 
 

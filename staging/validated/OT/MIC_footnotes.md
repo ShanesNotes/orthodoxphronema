@@ -68,7 +68,7 @@ strike the Jews in judgment (v. 11), so in the Incarnation He came down to cut o
 
 needy for their own gain. The passage can also be taken as a description of those who
 
-persecute Christ (a man) and His Church (his house . . . his inheritance). 
+persecute Christ (a man) and His Church (his house... his inheritance). 
 
 ### 2:3-5
 *(anchor: MIC.2:3)*

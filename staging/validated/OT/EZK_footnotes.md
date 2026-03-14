@@ -63,7 +63,7 @@ The burning coals (v. 13), writes St. Gregory, are "holy men" (see Is 6:6 and no
 
 St. Gregory sees in the wings an image of the virtues of the righteous. 1:25
 
-The man on the sapphire . . . throne prefigures the Incarnation of the Son of God
+The man on the sapphire... throne prefigures the Incarnation of the Son of God
 
 from the Virgin Mary. 1:27 The rainbow images the new covenant (see [[GEN.9:13]]-15). 2:9, 10 The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; Lk
 
@@ -131,7 +131,7 @@ The hair and its destruction by fire, sword, and wind all point ultimately to th
 
 final judgment (compare [[JOB.1:13]]-22; Is 7:20). The hair sewn into the garment
 
-illustrates the faithful remnant who have bound themselves to Christ. 5:5-6 Jerusalem is the Church, which was indeed put . . . in the midst of the nations
+illustrates the faithful remnant who have bound themselves to Christ. 5:5-6 Jerusalem is the Church, which was indeed put... in the midst of the nations
 
 that she shall speak the gospel of truth. 5:7
 
@@ -235,7 +235,7 @@ replaced when Christ, the "true vine," came (see [[JOH.15:1]]-6). The branches i
 
 typify the Gentile nations from which believers will be "grafted into" the vine (see Rom
 
-11:17-25). 16:4-10 A moving account of God's mercy upon a people stricken with perversity of . . . soul (v. 5). Water, oil, and fine linen are Old Testament images pointing to baptism. 16:44-46 Like mother, like daughter! A sobering parable of how ungodly parents beget
+11:17-25). 16:4-10 A moving account of God's mercy upon a people stricken with perversity of... soul (v. 5). Water, oil, and fine linen are Old Testament images pointing to baptism. 16:44-46 Like mother, like daughter! A sobering parable of how ungodly parents beget
 
 lawless children. 16:59-63 Though we have dishonored God, still He will remember us when we turn to
 
@@ -277,7 +277,7 @@ abominations (v. 30). 20:33-44
 
 A prophecy fulfilled ultimately in the Church. The scepter (v. 37) promises
 
-Christ, a new king for the people of God. Those who revolted (v. 38) will be culled out, while those who know . . . the Lord will find the way (v. 44). 21:8
+Christ, a new king for the people of God. Those who revolted (v. 38) will be culled out, while those who know... the Lord will find the way (v. 44). 21:8
 
 To be sure that Israel understands, the Lord restates His warning to the
 
@@ -463,11 +463,11 @@ This passage is the Great Doxology read at Matins on Great and Holy Saturday. Th
 
 of the Lord, that the prophet is taken as a witness of the future resurrection, that we, too
 
-might see it with his eyes. . . . We notice here how the operations of the Spirit of life are
+might see it with his eyes.... We notice here how the operations of the Spirit of life are
 
-again resumed; we know after what manner the dead are raised from the opening tombs. . . . And finally, he who has believed that the dead shall rise again 'in a moment, in the
+again resumed; we know after what manner the dead are raised from the opening tombs.... And finally, he who has believed that the dead shall rise again 'in a moment, in the
 
-twinkling of an eye, at the last trump (for the trumpet shall sound). . . . shall be caught up
+twinkling of an eye, at the last trump (for the trumpet shall sound).... shall be caught up
 
 among the first in the clouds to meet Christ in the air'; he who has not believed shall be
 
@@ -564,7 +564,7 @@ life that is "led daily through charity to love of God and neighbor alike."
 ### 40:10-12
 *(anchor: EZK.40:10)*
 
-Three . . . chambers on each side signifies that the hearts of both Old and New
+Three... chambers on each side signifies that the hearts of both Old and New
 
 Testament faithful are "kindled with the love of the Trinity" (GrgGt). The ten cubits (v. 11) points to the perfection of the Law as seen in the Ten Commandments, while the
 
@@ -658,7 +658,7 @@ united in Christ.
 ### 41:11-12
 *(anchor: EZK.41:11)*
 
-North . . . south: See 40:20, 27 and notes. The light is the light of Christ present
+North... south: See 40:20, 27 and notes. The light is the light of Christ present
 
 in every human being (Jn. 1:9). The open space within the house brings to mind a hymn
 
@@ -721,7 +721,7 @@ He measured the house all around: Compare [[REV.21:9]]-27.
 ### 43:1-12
 *(anchor: EZK.43:1)*
 
-The prophet was led . . . out from the east gate, the glory of the Lord entered, and then the gate was shut (44:1). According to the Fathers, this passage, together with
+The prophet was led... out from the east gate, the glory of the Lord entered, and then the gate was shut (44:1). According to the Fathers, this passage, together with
 
 
 ### 44:1
@@ -741,7 +741,7 @@ sacrifices as it has done good deeds. And what is the drain of the altar but the
 
 good men, which, while it humbles the mind to endure adversities, shows it to be placed
 
-low down after the manner of a ditch? . . . Well, too, this same trench is directed to be of
+low down after the manner of a ditch?... Well, too, this same trench is directed to be of
 
 one cubit, because, if patience fails not, the measure of unity is preserved" (GrgGt). The
 
@@ -821,7 +821,7 @@ is seen above the cherubim a crystal stretched forth, that is, the compressed an
 
 waters. The first living beings come out of the waters; and believers soar out of the laver
 
-with wings to heaven [1:22-25]. . . . In Eden a garden is planted, and a fountain in the
+with wings to heaven [1:22-25].... In Eden a garden is planted, and a fountain in the
 
 midst of it parts into four heads [Gn 2:10]. This is the same fountain which Ezekiel later
 

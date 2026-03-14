@@ -98,7 +98,7 @@ John answers: (1) Faith must be evidenced by works, that is, must produce purity
 
 holy and righteous life). And faith must seek forgiveness and cleansing for sin (the
 
-blood of Jesus Christ . . . cleanses us from all sin, v. 7). (2) Sin does exist, and the
+blood of Jesus Christ... cleanses us from all sin, v. 7). (2) Sin does exist, and the
 
 practice of confession is the established basis for growth toward righteousness (v. 9). (3)
 

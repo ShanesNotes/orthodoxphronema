@@ -128,13 +128,13 @@ he is covered."
 
 2:9
 
-St. Hesychius teaches that Satan "recruited" Job's wife, as he had done with Eve. St. John Chrysostom asks, "What are you saying, woman? When God needs to be . . . propitiated, you are, rather, preparing to provoke Him! For if it is God who has caused
+St. Hesychius teaches that Satan "recruited" Job's wife, as he had done with Eve. St. John Chrysostom asks, "What are you saying, woman? When God needs to be... propitiated, you are, rather, preparing to provoke Him! For if it is God who has caused
 
 these bad things, He needs to be invoked, not blasphemed." And Jesus said, "He who
 
 endures to the end will be saved" ([[MAT.10:22]]). 2:15
 
-Job did not sin with his lips: "When holy men undergo persecution . . . they not
+Job did not sin with his lips: "When holy men undergo persecution... they not
 
 only never transgress in injurious expressions against God, but they never launch words
 
@@ -190,7 +190,7 @@ satisfies, and His words, being "salted with truth," give eternal life. 6:10
 
 Having placed his hope in the Lord, Job faced the grave with peace of soul. It was
 
-Eliphaz who had lied about the holy words of . . . God. 6:11-13 "The strength of the righteous is to subdue the flesh, to love the hardships of this
+Eliphaz who had lied about the holy words of... God. 6:11-13 "The strength of the righteous is to subdue the flesh, to love the hardships of this
 
 world for the sake of eternal rewards, to count the allurements of prosperity as nothing, and to overcome the dread of adversity in our heart" (GrgGt). 6:18
 
@@ -304,7 +304,7 @@ The shadow of death is the Law, which makes all sinners liable to punishment by
 
 death; but Christ brought light to the shadows (GrgGt). 13:1
 
-God reveals His mysteries to the ones He has found to be holy (Hesych). 13:17-28 Job's is the voice of mankind, "eagerly desiring to advance from fear to love. . . . He seeks the very presence of his Creator, familiarly, in the flesh," that he might both
+God reveals His mysteries to the ones He has found to be holy (Hesych). 13:17-28 Job's is the voice of mankind, "eagerly desiring to advance from fear to love.... He seeks the very presence of his Creator, familiarly, in the flesh," that he might both
 
 hear and be heard (GrgGt). 14:5
 
@@ -456,7 +456,7 @@ accuses himself of having sinned (7:20; 9:20)? Because even righteous men find i
 
 difficult to avoid involuntary sin (see 14:17-22 and note; [[ROM.7:13]]-25 and notes). "For
 
-what man's heart, bound up with this corruptible flesh, does not slip in ill-bent thought? . . . But when there is a resisting of the thought, the soul is freed from being confounded. And so the mind of the righteous, even though it is free from bad practice, yet sometimes
+what man's heart, bound up with this corruptible flesh, does not slip in ill-bent thought?... But when there is a resisting of the thought, the soul is freed from being confounded. And so the mind of the righteous, even though it is free from bad practice, yet sometimes
 
 falls to the ground in bad thinking" (GrgGt). 27:12
 
@@ -575,7 +575,7 @@ being prepared for the Father's estate of inheritance. But the unjust man is let
 
 own pleasures because temporal good things are supplied to him to the same degree that
 
-eternal ones are denied him. . . . So let the righteous weigh well the evils that await the
+eternal ones are denied him.... So let the righteous weigh well the evils that await the
 
 wicked, and never envy their passing happiness" (GrgGt). 
 
@@ -642,7 +642,7 @@ both the Creation and the Resurrection" (also see [[PSA.103:30]]).
 
 Elihu has uttered great and powerful words, yet immediately follows up with
 
-pride and foolishness. He is like those who "preach Christ even from envy and strife . . . not sincerely, supposing to add affliction" to the suffering of another ([[PHP.1:14]]-17). 
+pride and foolishness. He is like those who "preach Christ even from envy and strife... not sincerely, supposing to add affliction" to the suffering of another ([[PHP.1:14]]-17). 
 
 ### 34:1-3
 *(anchor: JOB.34:1)*
@@ -829,7 +829,7 @@ loftiness, but you were ignorant of that of others. Having heard of the virtues 
 
 God chastens the righteous "in order to raise them to a higher state of purity, and delivers them over to various trials that He may purge away all their unclean
 
-thoughts . . . and may thus transmit them like pure gold to the judgment to come"
+thoughts... and may thus transmit them like pure gold to the judgment to come"
 
 (JohnCas). 
 

@@ -1796,7 +1796,7 @@ and Gentile Christians, St. Ignatius taught, "Be careful to observe a single Euc
 
 there is one Flesh of our Lord Jesus Christ, and one cup of His Blood that makes us one,
 
-and one altar, just as there is one bishop. . . . This is in line with God's will."
+and one altar, just as there is one bishop.... This is in line with God's will."
 
 
 ### 10:17-18
@@ -2242,7 +2242,7 @@ blindness.
 ### 12:41
 *(anchor: JOH.12:41)*
 
-Isaiah . . . saw His [Christ's] glory in about 700 BC (Is 6:1) and spoke of Him in
+Isaiah... saw His [Christ's] glory in about 700 BC (Is 6:1) and spoke of Him in
 
 many places throughout his lengthy prophecy.
 
@@ -2938,7 +2938,7 @@ arrest, He is Lord and in control (see vv. 8, 35).
 ### 18:5
 *(anchor: JOH.18:5)*
 
-That Judas . . . stood with them shows his allegiance to the priests and Pharisees
+That Judas... stood with them shows his allegiance to the priests and Pharisees
 
 (v. 3).
 

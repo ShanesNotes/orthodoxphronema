@@ -62,9 +62,9 @@ believer who brings "every thought into captivity to the obedience of Christ" ([
 
 John Chrysostom writes on the question of whether God is the author of evil: "Now
 
-evil is a many-faceted thing. . . . There is evil, which is really evil: fornication, adultery, covetousness, and the countless dreadful things, which are worthy of the utmost reproach
+evil is a many-faceted thing.... There is evil, which is really evil: fornication, adultery, covetousness, and the countless dreadful things, which are worthy of the utmost reproach
 
-and punishment. Again there is evil, which rather is not evil but is called so: famine, pestilence, death, disease, and other of a similar nature. . . . These were evils intended to
+and punishment. Again there is evil, which rather is not evil but is called so: famine, pestilence, death, disease, and other of a similar nature.... These were evils intended to
 
 become the sources of good to us, chastening our pride, goading our sloth and leading us
 
@@ -76,7 +76,7 @@ on to zeal, making us more attentive."
 
 "If there are but two legs or a piece of an ear, leap back from him who has
 
-wounded you. . . . Do not despair of salvation. . . . The Lord does not wish the death of the
+wounded you.... Do not despair of salvation.... The Lord does not wish the death of the
 
 sinner, but that he return and live" (BasilG). 
 
@@ -110,7 +110,7 @@ within His humanity. His very breath was created "in the midst of the earth" ([[
 ### 5:2
 *(anchor: AMO.5:2)*
 
-"God can do all things, but the virgin who has fallen will not be raised up. . . . Such
+"God can do all things, but the virgin who has fallen will not be raised up.... Such
 
 are evil virgins in the flesh, not in the spirit; foolish virgins, who, having no oil, are shut
 
@@ -162,7 +162,7 @@ others--his heart is in the hand of God, and God turns it where He wills. If He 
 
 the good, perfect goodness is His. And so let us be in the hand of God that we may seek
 
-the good . . . that you may live, and so the Lord God Almighty will be with you" (AmbM). 5:21-27
+the good... that you may live, and so the Lord God Almighty will be with you" (AmbM). 5:21-27
 
 Those who adhere to the "propriety" of religious practice, but whose hearts are
 

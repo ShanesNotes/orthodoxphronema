@@ -73,7 +73,7 @@ preached to the spirits in prison [Sheol or Gr. Hades]").
 ### 2:2
 *(anchor: JON.2:2)*
 
-Jnh 2:2, 3, 7: His God . . . my God: The pronouns "his" and "my" emphasize a
+Jnh 2:2, 3, 7: His God... my God: The pronouns "his" and "my" emphasize a
 
 personal relationship with God. 
 

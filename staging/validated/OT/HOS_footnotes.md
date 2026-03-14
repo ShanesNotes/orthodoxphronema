@@ -100,7 +100,7 @@ Christmas and Easter as best it can.
 
 I will lead her astray: "Having received the light of the knowledge of God in mind
 
-and heart . . . she is no longer able to find her old path" (CyrAl). 
+and heart... she is no longer able to find her old path" (CyrAl). 
 
 ### 2:19
 *(anchor: HOS.2:19)*
@@ -165,7 +165,7 @@ for her a time of salvation and a return to faith" (CyrAl). See also [[ROM.10:1]
 ### 4:8
 *(anchor: HOS.4:8)*
 
-"They used to sacrifice goats for sin; for this reason the sacrifice was called sin. . . . They eat the sins of My people means they (the priests) eat the offerings brought for
+"They used to sacrifice goats for sin; for this reason the sacrifice was called sin.... They eat the sins of My people means they (the priests) eat the offerings brought for
 
 sins" (CyrAl). 
 
@@ -271,7 +271,7 @@ turned, that is, he does not repent" (Jerome).
 
 "Why was Ephraim compared with a dove and not with other birds? The other birds
 
-hurry to protect their offspring even at the risk of life. And when they see a bird of prey, snake, raven or crow approaching their nest, they . . . attack with their beak, and wound
+hurry to protect their offspring even at the risk of life. And when they see a bird of prey, snake, raven or crow approaching their nest, they... attack with their beak, and wound
 
 with their claws, and with a crying voice show the parent's suffering. Only the dove does
 
@@ -318,7 +318,7 @@ and impure, he says, and the offerings will be considered as mourning bread (tha
 
 who approached a dead body either by blood relationship or rather by the very touching of
 
-the body. . . . Therefore the mourning bread is that bread which was at hand as food for
+the body.... Therefore the mourning bread is that bread which was at hand as food for
 
 those who were mourning for the dead; for those who strive to avoid contamination with
 
@@ -359,7 +359,7 @@ children), but rather a Hebrew manuscript which had the singular "my son."
 ### 11:3-4
 *(anchor: HOS.11:3)*
 
-"I bound the feet of Ephraim, that is, the whole Israel . . . although he was
+"I bound the feet of Ephraim, that is, the whole Israel... although he was
 
 awkward. God Himself declares why this is so: 'I will take them in My arms.' This image
 

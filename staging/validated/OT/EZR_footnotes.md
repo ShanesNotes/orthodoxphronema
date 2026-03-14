@@ -17,7 +17,7 @@ The word of the Lord came in fulfillment of Jer 29:10.
 ### 1:3
 *(anchor: EZR.1:3)*
 
-He is the God . . . in Jerusalem: Deities were generally seen as belonging to a
+He is the God... in Jerusalem: Deities were generally seen as belonging to a
 
 specific location, yet this statement is also prophetic in that it points as well to the New
 
@@ -229,7 +229,7 @@ Holy Spirit and His power to His disciples ([[ACT.1:8]]). 7:25-26
 
 Ezra is commanded by the king to appoint magistrates and judges to
 
-determine the people's obedience to the law of . . . God, just as Peter and the other
+determine the people's obedience to the law of... God, just as Peter and the other
 
 apostles would be given authority to bind and loose the sins of the people ([[MAT.16:19]]; Jn
 

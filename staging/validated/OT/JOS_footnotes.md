@@ -330,7 +330,7 @@ Because the Gibeonites humbled themselves before the Lord, His judgment against
 
 their fleeing oppressors is even more fierce than it was against Jericho and Ai. The
 
-hailstones . . . from heaven speak of the Last Judgment. 10:12-13
+hailstones... from heaven speak of the Last Judgment. 10:12-13
 
 The Word and Son of God caused the sun to stand still. He it was also who
 
@@ -358,7 +358,7 @@ demons who rise up against him (MaxCon). 11:6-9 The kings who warred against Isr
 
 us. But the Lord Jesus Christ encourages us, as He did Joshua, "Fear not before their
 
-presence." He also said, "I will . . . put them to flight." Joshua and his army also
+presence." He also said, "I will... put them to flight." Joshua and his army also
 
 warred against the kings in Canaan. Therefore, the Lord fights, and we fight against our
 
@@ -570,13 +570,13 @@ Consider the ways in which Joshua's address is fulfilled in Christ's high priest
 
 prayer in Jn 17. For example: Joshua says, "I am old" (v. 2); Christ prays, "the hour has
 
-come" ([[JOH.17:1]]). Joshua says, "you shall inherit their land . . . therefore . . . love the
+come" ([[JOH.17:1]]). Joshua says, "you shall inherit their land... therefore... love the
 
 Lord" (vv. 5, 11); Christ prays, "this is eternal life, that they may know You, the only true
 
-God, and Jesus Christ whom You have sent" ([[JOH.17:3]]). Joshua says, "I am going . . . not
+God, and Jesus Christ whom You have sent" ([[JOH.17:3]]). Joshua says, "I am going... not
 
-one word has failed" (v. 14); Christ prays, "I have finished the work . . . none of them is
+one word has failed" (v. 14); Christ prays, "I have finished the work... none of them is
 
 lost" ([[JOH.17:4]], [[JOH.17:12]]). 
 
@@ -667,6 +667,6 @@ salvation of the world.
 ### 24:33
 *(anchor: JOS.24:33)*
 
-The bones of Joseph ([[GEN.50:24]], [[GEN.50:25]]; [[EXO.13:19]]) are buried . . . at Shechem. Thus, God's covenant with Abraham, Isaac, and Joseph comes full circle and begins anew with
+The bones of Joseph ([[GEN.50:24]], [[GEN.50:25]]; [[EXO.13:19]]) are buried... at Shechem. Thus, God's covenant with Abraham, Isaac, and Joseph comes full circle and begins anew with
 
 the covenant established by Joshua (v. 25). All the Old Testament covenants, of course, will be completely fulfilled in Christ and His Church.

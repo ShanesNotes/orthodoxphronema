@@ -126,7 +126,7 @@ all creation, in that He is the image (icon) by which creation was made and towa
 
 creation is to move; and (3) of man, in that Christ incarnate is the model for man's
 
-creation and the goal of man's existence. The angels . . . worship Him because He is
+creation and the goal of man's existence. The angels... worship Him because He is
 
 God.
 
@@ -238,7 +238,7 @@ only.
 ### 2:10-11
 *(anchor: HEB.2:10)*
 
-To make . . . perfect through sufferings does not suggest there was
+To make... perfect through sufferings does not suggest there was
 
 imperfection in Christ before the cross. Rather He voluntarily took on human nature (all
 
@@ -896,7 +896,7 @@ mortal and corrupt existence.
 
 Although OT sacrifices prefigured Christ's sacrifice, they were powerless in
 
-themselves. An effective sacrifice requires a body . . . prepared (v. 5), a righteous
+themselves. An effective sacrifice requires a body... prepared (v. 5), a righteous
 
 human being who voluntarily obeys the Father (v. 7).
 
@@ -938,7 +938,7 @@ Sacrifice for sin is complete, sanctification is perfect.
 ### 10:22
 *(anchor: HEB.10:22)*
 
-Full assurance of faith: With no doubts or second thoughts. Sprinkled . . .
+Full assurance of faith: With no doubts or second thoughts. Sprinkled...
 
 washed: A reference to a single action in the past, to baptism.
 
@@ -1202,7 +1202,7 @@ place in worship and in prayer. Christians experience this heavenly dimension
 
 fundamentally in the Divine Liturgy. We ascend to that place where we are surrounded by
 
-a great . . . cloud of witnesses (v. 1) This is not a physical place (v. 18) but a spiritual
+a great... cloud of witnesses (v. 1) This is not a physical place (v. 18) but a spiritual
 
 place, Mount Zion and the city of the living God, the heavenly Jerusalem (v. 22),
 

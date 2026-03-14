@@ -1,0 +1,35 @@
+{
+  "book_code": "ISA",
+  "pericopes": [
+    {
+      "title": "Isaiah \u2014 Opening",
+      "start_anchor": "ISA.1:1",
+      "end_anchor": "ISA.1:31",
+      "verse_count": 31,
+      "chapter_range": "1",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    },
+    {
+      "title": "Jerusalem.",
+      "start_anchor": "ISA.2:1",
+      "end_anchor": "ISA.66:24",
+      "verse_count": 1259,
+      "chapter_range": "2-66",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/OT/43_ISA.md",
+  "generated_at": "2026-03-14T17:16:54+00:00"
+}

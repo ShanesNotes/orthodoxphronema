@@ -156,7 +156,7 @@ that they are at last choosing the better way. 11:4-9
 
 These events foreshadow the establishment of the Church of Christ, which is
 
-"Mount Zion . . . the city of the living God, the heavenly Jerusalem" ([[HEB.12:22]]). 11:9, 10 David grew ever stronger because he was not alone: the Lord Almighty and his
+"Mount Zion... the city of the living God, the heavenly Jerusalem" ([[HEB.12:22]]). 11:9, 10 David grew ever stronger because he was not alone: the Lord Almighty and his
 
 mighty men were with him. 11:15-19
 
@@ -294,7 +294,7 @@ Himself, "He who when He could take vengeance, chose instead to be sacrificed."
 
 21:15-16
 
-The Lord . . . relented because His love overrules the law of death. At
+The Lord... relented because His love overrules the law of death. At
 
 Jerusalem, the Lord Jesus also said "It is enough" to His disciples concerning the use
 

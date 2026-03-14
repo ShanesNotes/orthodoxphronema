@@ -52,7 +52,7 @@ the present. Scripture memorializes two types of events. On the one hand, the ri
 
 God working through His saints (e.g., Ps 104) are held up as examples to be followed. On
 
-the other hand, there are the mistakes of the people of God and their consequences (e.g. Ps 105). Joel begins with the latter, while finishing with a promise of the former. Elders . . . all of you inhabiting the land: Not only does the prophet call for the
+the other hand, there are the mistakes of the people of God and their consequences (e.g. Ps 105). Joel begins with the latter, while finishing with a promise of the former. Elders... all of you inhabiting the land: Not only does the prophet call for the
 
 attention of the elders and the general population, but by formulating his petition in this
 

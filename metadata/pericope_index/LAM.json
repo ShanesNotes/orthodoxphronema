@@ -1,0 +1,21 @@
+{
+  "book_code": "LAM",
+  "pericopes": [
+    {
+      "title": "The Lamentations of Jeremiah",
+      "start_anchor": "LAM.1:1",
+      "end_anchor": "LAM.5:22",
+      "verse_count": 150,
+      "chapter_range": "1-5",
+      "notes_anchors": [],
+      "source_companions": [],
+      "cross_ref_candidates": [],
+      "liturgical_context": null,
+      "alt_versification": null,
+      "embedding_status": "pending",
+      "provenance": null
+    }
+  ],
+  "generated_from": "canon/OT/46_LAM.md",
+  "generated_at": "2026-03-11T20:48:10+00:00"
+}
