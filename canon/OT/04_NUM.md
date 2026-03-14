@@ -691,7 +691,7 @@ NUM.15:2 'Speak to the children of Israel and say to them, 'When you come into t
 NUM.15:3 and you make a whole burnt offering to the Lord, a whole burnt offering or a sacrifice, to make a great vow or a freewill offering, or in your feasts, to make a sweet aroma to the Lord, from the oxen or the sheep,
 NUM.15:4 then he who brings his gifts to the Lord shall bring a grain offering of one-tenth of an ephah of fine flour prepared with one-fourth of a hin of oil;
 NUM.15:5 and one-fourth of a hin of wine as a drink offering you shall offer with the whole burnt offering or the sacrifice, and for each male lamb you shall offer the same amounts, a burnt offering as a sweet aroma to the Lord.
-NUM.15:6 Or for aram, when you offer it either as a whole burnt offering or a sacrifice, you shall offer with it a grain offering of two-tenths of an ephah of fine flour prepared with one-third of a hin of oil;
+NUM.15:6 Or for a ram, when you offer it either as a whole burnt offering or a sacrifice, you shall offer with it a grain offering of two-tenths of an ephah of fine flour prepared with one-third of a hin of oil;
 NUM.15:7 and as a drink offering you shall offer one-third of a hin of wine as a sweet aroma to the Lord.
 NUM.15:8 Now if from the oxen you offer a whole burnt offering or a sacrifice, to make a great vow or a peace offering to the Lord,
 NUM.15:9 then one shall offer with the young bull a grain offering of three-tenths of an ephah of fine flour, prepared with half a hin of oil;
@@ -1034,7 +1034,7 @@ NUM.22:41 When morning came, Balak took Balaam and brought him up to the pillar 
 NUM.23:1 Now Balaam said to Balak, “Build seven altars for me here, and prepare for me here seven young bulls and seven rams.”
 NUM.23:2 So Balak did just as Balaam had spoken, and he offered a young bull and a ram on each altar.
 NUM.23:3 Then Balaam said to Balak, 'Stand alongside your sacrifice, and I will go; perhaps God will reveal Himself to me in a meeting, and I will tell you whatever word He shows me.' So Balak stood alongside his sacrifice, and Balaam went on a direct road to inquire of God.
-NUM.23:4 Thus God revealed Himself to Balaam, and Balaam said to Him, 'I prepared seven altars, and offered on each altar a young bull and aram.'
+NUM.23:4 Thus God revealed Himself to Balaam, and Balaam said to Him, 'I prepared seven altars, and offered on each altar a young bull and a ram.'
 NUM.23:5 Then God put a word in Balaam's mouth, and said, 'Return to Balak, and thus you shall speak.'
 NUM.23:6 So he returned to him, and there he was, standing alongside his burnt offerings, he and all the rulers of Moab with him.
 NUM.23:7 Then the Spirit of God came upon him, and he took up his parable and said: 'Balak the king of Moab summoned me from Mesopotamia, From the mountains of the east, saying, Come, curse Jacob for me, and come, Call down a curse upon Israel.

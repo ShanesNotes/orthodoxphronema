@@ -75,7 +75,7 @@ REV.2:18 'And to the angel of the church in Thyatira write, 'These things says t
 REV.2:19 'I know your works, love, service, faith, and your patience; and as for your works, the last are more than the first.
 REV.2:20 Nevertheless I have few things against you, because you allow that woman Jezebel, who calls herself prophetess, to teach and seduce My servants to commit sexual immorality and eat things sacrificed to idols.
 REV.2:21 And I gave her time to repent of her sexual immorality, and she did not repent.
-REV.2:22 Indeed I will cast her into a sickbed, and those who commit adultery with her into great tribulation, unless they repent of their adeeds.
+REV.2:22 Indeed I will cast her into a sickbed, and those who commit adultery with her into great tribulation, unless they repent of their deeds.
 REV.2:23 I will kill her children with death, and all the churches shall know that I am He who searches the minds and hearts. And I will give to each one of you according to your works.
 REV.2:24 'Now to you I say, and to the rest in Thyatira, as many as do not have this doctrine, who have not known the depths of Satan, as they say, I will put on you no other burden.
 REV.2:25 But hold fast what you have till I come.
@@ -98,15 +98,15 @@ REV.3:7 'And to the angel of the church in Philadelphia write, 'These things say
 REV.3:8 'I know your works. See, I have set before you an open door, and no one can shut it; for you have little strength, have kept My word, and have not denied My name.
 REV.3:9 Indeed I will make those of the synagogue of Satan, who say they are Jews and are not, but lie-indeed I will make them come and worship before your feet, and to know that I have loved you.
 REV.3:10 Because you have kept My command to persevere, I also will keep you from the hour of trial which shall come upon the whole world, to test those who dwell on the earth.
-REV.3:11 Behold,I am coming quickly! Hold fast what you have, that no one may take your crown.
+REV.3:11 Behold, I am coming quickly! Hold fast what you have, that no one may take your crown.
 REV.3:12 He who overcomes, I will make him a pillar in the temple of My God, and he shall go out no more. I will write on him the name of My God and the name of the city of My God, the New Jerusalem, which comes down out of heaven from My God. And I will write on him My new name.
 
 ### Laodicea: Lukewarm
 
 REV.3:13 'He who has an ear, let him hear what the Spirit says to the churches.' '
-REV.3:14 'And to the angel of the church of the Laodiceans awrite, 'These things says the Amen, the Faithful and True Witness, the Beginning of the creation of God:
+REV.3:14 'And to the angel of the church of the Laodiceans write, 'These things says the Amen, the Faithful and True Witness, the Beginning of the creation of God:
 REV.3:15 'I know your works, that you are neither cold nor hot. I could wish you were cold or hot.
-REV.3:16 So then, because you are lukewarm, and neither cold nor hot,I will vomit you out of My mouth.
+REV.3:16 So then, because you are lukewarm, and neither cold nor hot, I will vomit you out of My mouth.
 REV.3:17 Because you say, 'I am rich, have become wealthy, and have need of nothing'-and do not know that you are wretched, miserable, poor, blind, and naked-
 REV.3:18 I counsel you to buy from Me gold refined in the fire, that you may be rich; and white garments, that you may be clothed, that the shame of your nakedness may not be revealed; and anoint your eyes with eye salve, that you may see.
 REV.3:19 As many as I love, I rebuke and chasten. Therefore be zealous and repent.
@@ -215,7 +215,7 @@ REV.7:16 They shall neither hunger anymore nor thirst anymore; the sun shall not
 
 ### Seal Seven: Prelude to the Trumpets
 
-REV.7:17 for the Lamb who is in the midst of the throne will shepherd them and lead them to living fountains of waters.And God will wipe away every tear from their eyes.'
+REV.7:17 for the Lamb who is in the midst of the throne will shepherd them and lead them to living fountains of waters. And God will wipe away every tear from their eyes.'
 ## Chapter 8
 
 REV.8:1 Then He opened the seventh seal, there was silence in heaven for about half an hour.
@@ -230,7 +230,7 @@ REV.8:6 So the seven angels who had the seven trumpets prepared themselves to so
 
 ### Trumpet Two: The Seas Struck
 
-REV.8:7 The first angel sounded: And hail and fire followed, mingled with blood, and they were thrown to the earth.And a third of the trees were burned up, and all green grass was burned up.
+REV.8:7 The first angel sounded: And hail and fire followed, mingled with blood, and they were thrown to the earth. And a third of the trees were burned up, and all green grass was burned up.
 REV.8:8 Then the second angel sounded: And something like great mountain burning with fire was thrown into the sea, and a third of the sea became blood.
 
 ### Trumpet Three: Fresh Waters Struck
@@ -280,7 +280,7 @@ REV.9:21 And they did not repent of their murders or their sorceries or their se
 REV.10:1 I saw still another mighty angel coming down from heaven, clothed with a cloud. And a rainbow was on his head, his face was like the sun, and his feet like pillars of fire.
 REV.10:2 He had little book open in his hand. And he set his right foot on the sea and his left foot on the land,
 REV.10:3 and cried with a loud voice, as when a lion roars. When he cried out, seven thunders uttered their voices.
-REV.10:4 Now when the seven thunders uttered their voices,I was about to write; but I heard a voice from heaven saying to me,'Seal up the things which the seven thunders uttered, and do not write them.'
+REV.10:4 Now when the seven thunders uttered their voices, I was about to write; but I heard a voice from heaven saying to me,'Seal up the things which the seven thunders uttered, and do not write them.'
 REV.10:5 The angel whom I saw standing on the sea and on the land raised up his hand to heaven
 REV.10:6 and swore by Him who lives forever and ever, who created heaven and the things that are in it, the earth and the things that are in it, and the sea and the things that are in it, that there should be delay no longer,
 REV.10:7 but in the days of the sounding of the seventh angel, when he is about to sound, the mystery of God would be finished, as He declared to His servants the prophets.
@@ -312,7 +312,7 @@ REV.11:13 In the same hour there was great earthquake, and a tenth of the city f
 REV.11:14 The second woe is past. Behold, the third woe is coming quickly.
 REV.11:15 Then the seventh angel sounded: And there were loud voices in heaven, saying, 'The kingdoms of this world have become the kingdoms of our Lord and of His Christ, and He shall reign forever and ever!'
 REV.11:16 And the twenty-four elders who sat before God on their thrones fell on their faces and worshiped God,
-REV.11:17 saying: 'We give You thanks, O Lord God Almighty, The One who is and who was and who is to come,Because You have taken Your great power and reigned.
+REV.11:17 saying: 'We give You thanks, O Lord God Almighty, The One who is and who was and who is to come, Because You have taken Your great power and reigned.
 REV.11:18 The nations were angry, and Your wrath has come, And the time of the dead, that they should be judged, And that You should reward Your servants the prophets and the saints, And those who fear Your name, small and great, And should destroy those who destroy the earth.'
 
 ### The Woman, Her Child and the Dragon
@@ -351,7 +351,7 @@ REV.12:16 But the earth helped the woman, and the earth opened its mouth and swa
 REV.12:17 And the dragon was enraged with the woman, and he went to make war with the rest of her offspring, who keep the commandments of God and have the testimony of Jesus Christ.
 ## Chapter 13
 
-REV.13:1 Then I astood on the sand of the sea. And I saw a beast rising up out of the sea, having seven heads and ten horns, and on his horns ten crowns, and on his heads a blasphemous name.
+REV.13:1 Then I stood on the sand of the sea. And I saw a beast rising up out of the sea, having seven heads and ten horns, and on his horns ten crowns, and on his heads a blasphemous name.
 REV.13:2 Now the beast which I saw was like a leopard, his feet were like the feet of a bear, and his mouth like the mouth of a lion. The dragon gave him his power, his throne, and great authority.
 REV.13:3 And I saw one of his heads as if it had been mortally wounded, and his deadly wound was healed. And all the world marveled and followed the beast.
 REV.13:4 So they worshiped the dragon who gave authority to the beast; and they worshiped the beast, saying, 'Who is like the beast? Who is able to make war with him?'
@@ -434,7 +434,7 @@ REV.16:2 So the first went and poured out his bowl upon the earth, and a foul an
 
 REV.16:3 Then the second angel poured out his bowl on the sea, and it became blood as of a dead man; and every living creature in the sea died.
 REV.16:4 Then the third angel poured out his bowl on the rivers and springs of water, and they became blood.
-REV.16:5 And I heard the angel of the waters saying: 'You are righteous, O Lord,The One who is and who was and who is to be,Because You have judged these things.
+REV.16:5 And I heard the angel of the waters saying: 'You are righteous, O Lord, The One who is and who was and who is to be, Because You have judged these things.
 REV.16:6 For they have shed the blood of saints and prophets, And You have given them blood to drink. For it is their just due.'
 
 ### Bowl Four: Men Are Scorched
@@ -592,7 +592,7 @@ REV.21:2 Then I, John, saw the holy city, New Jerusalem, coming down out of heav
 REV.21:3 And I heard a loud voice from heaven saying, 'Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people. God Himself will be with them and be their God.
 REV.21:4 And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away.'
 REV.21:5 Then He who sat on the throne said, 'Behold, I make all things new.' And He said to me,'Write, for these words are true and faithful.'
-REV.21:6 And He said to me, 'It is done!I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts.
+REV.21:6 And He said to me, 'It is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts.
 REV.21:7 He who overcomes shall inherit all things, and I will be his God and he shall be My son.
 
 ### The New Jerusalem
@@ -648,4 +648,4 @@ REV.22:17 And the Spirit and the bride say, 'Come!' And let him who hears say, '
 REV.22:18 For a I testify to everyone who hears the words of the prophecy of this book: If anyone adds to these things, God will add to him the plagues that are written in this book;
 REV.22:19 and if anyone takes away from the words of the book of this prophecy, God shall take away his part from the Book of Life, from the holy city, and from the things which are written in this book.
 REV.22:20 He who testifies to these things says, 'Surely I am coming quickly.' Amen. Even so, come, Lord Jesus! Benediction
-REV.22:21 The grace of our Lord Jesus Christ be with you all.Amen.
+REV.22:21 The grace of our Lord Jesus Christ be with you all. Amen.

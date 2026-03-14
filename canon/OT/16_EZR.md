@@ -344,7 +344,7 @@ EZR.10:16 Then the descendants of the captivity did so. And Ezra the priest, wit
 
 EZR.10:17 By the first day of the first month they finished questioning all the men who had taken pagan wives.
 EZR.10:18 And among the sons of the priests who had taken pagan wives, the following were found of the sons of Jeshua the son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah.
-EZR.10:19 And they gave their promise that they would put away their wives; and being guilty, they presented aram of the flock as their trespass offering.
+EZR.10:19 And they gave their promise that they would put away their wives; and being guilty, they presented a ram of the flock as their trespass offering.
 EZR.10:20 Also of the sons of Immer: Hanani and Zebadiah;
 EZR.10:21 of the sons of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah;
 EZR.10:22 of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.

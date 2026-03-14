@@ -33,16 +33,16 @@ MAT.1:16 And Jacob begot Joseph the husband of Mary, of whom was born Jesus who 
 
 MAT.1:17 So all the generations from Abraham to David are fourteen generations, from David until the captivity in Babylon are fourteen generations, and from the captivity in Babylon until the Christ are fourteen generations.
 MAT.1:18 Now the birth of Jesus Christ was as follows: After His mother Mary was betrothed to Joseph, before they came together, she was found with child of the Holy Spirit.
-MAT.1:19 Then Joseph her husband, being just man, and not wanting to make her apublic example, was minded to put her away secretly.
-MAT.1:20 But while he thought about these things, behold, an angel of the Lord appeared to him in adream, saying, 'Joseph, son of David, do not be afraid to take to you Mary your wife, for that which is conceived in her is of the Holy Spirit.
-MAT.1:21 And she will bring forth a Son, and you shall call His name J ESUS, for He will save His people from their sins.'
+MAT.1:19 Then Joseph her husband, being just man, and not wanting to make her a public example, was minded to put her away secretly.
+MAT.1:20 But while he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, 'Joseph, son of David, do not be afraid to take to you Mary your wife, for that which is conceived in her is of the Holy Spirit.
+MAT.1:21 And she will bring forth a Son, and you shall call His name JESUS, for He will save His people from their sins.'
 MAT.1:22 So all this was done that it might be fulfilled which was spoken by the Lord through the prophet, saying:
 MAT.1:23 'Behold, the virgin shall be with child, and bear a Son, and they shall call His name Immanuel,' which is translated, 'God with us.'
 MAT.1:24 Then Joseph, being aroused from sleep, did as the angel of the Lord commanded him and took to him his wife,
 
 ### Gentiles Worship the Christ Child
 
-MAT.1:25 and did not know her till she had brought forth her firstborn Son.And he called His name J ESUS.
+MAT.1:25 and did not know her till she had brought forth her firstborn Son. And he called His name JESUS.
 ## Chapter 2
 
 MAT.2:1 Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the East came to Jerusalem,
@@ -59,8 +59,8 @@ MAT.2:11 And when they had come into the house, they saw the young Child with Ma
 
 ### Refuge in Egypt
 
-MAT.2:12 Then, being divinely warned in adream that they should not return to Herod, they departed for their own country another way.
-MAT.2:13 Now when they had departed, behold, an angel of the Lord appeared to Joseph in adream, saying, 'Arise, take the young Child and His mother, flee to Egypt, and stay there until I bring you word; for Herod will seek the young Child to destroy Him.'
+MAT.2:12 Then, being divinely warned in a dream that they should not return to Herod, they departed for their own country another way.
+MAT.2:13 Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream, saying, 'Arise, take the young Child and His mother, flee to Egypt, and stay there until I bring you word; for Herod will seek the young Child to destroy Him.'
 MAT.2:14 When he arose, he took the young Child and His mother by night and departed for Egypt,
 
 ### The Holy Innocents
@@ -72,10 +72,10 @@ MAT.2:17 Then was fulfilled what was spoken by Jeremiah the prophet, saying:
 ### Return from Exile
 
 MAT.2:18 'A voice was heard in Ramah, Lamentation, weeping, and great mourning, Rachel weeping for her children, Refusing to be comforted, Because they are no more.'
-MAT.2:19 Now when Herod was dead, behold, an angel of the Lord appeared in adream to Joseph in Egypt,
+MAT.2:19 Now when Herod was dead, behold, an angel of the Lord appeared in a dream to Joseph in Egypt,
 MAT.2:20 saying, 'Arise, take the young Child and His mother, and go to the land of Israel, for those who sought the young Child's life are dead.'
 MAT.2:21 Then he arose, took the young Child and His mother, and came into the land of Israel.
-MAT.2:22 But when he heard that Archelaus was reigning over Judea instead of his father Herod, he was afraid to go there. And being warned by God in adream, he turned aside into the region of Galilee.
+MAT.2:22 But when he heard that Archelaus was reigning over Judea instead of his father Herod, he was afraid to go there. And being warned by God in a dream, he turned aside into the region of Galilee.
 
 ### John the Baptist's Call to Repentance
 
@@ -86,7 +86,7 @@ MAT.2:23 And he came and dwelt in a city called Nazareth, that it might be fulfi
 MAT.3:1 In those days John the Baptist came preaching in the wilderness of Judea,
 MAT.3:2 and saying, 'Repent, for the kingdom of heaven is at hand!'
 MAT.3:3 For this is he who was spoken of by the prophet Isaiah, saying: 'The voice of one crying in the wilderness: 'Prepare the way of the Lord; Make His paths straight.' '
-MAT.3:4 Now John himself was clothed in camel's hair, with aleather belt around his waist; and his food was locusts and wild honey.
+MAT.3:4 Now John himself was clothed in camel's hair, with a leather belt around his waist; and his food was locusts and wild honey.
 MAT.3:5 Then Jerusalem, all Judea, and all the region around the Jordan went out to him
 MAT.3:6 and were baptized by him in the Jordan, confessing their sins.
 MAT.3:7 But when he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, 'Brood of vipers! Who warned you to flee from the wrath to come?
@@ -101,7 +101,7 @@ MAT.3:12 His winnowing fan is in His hand, and He will thoroughly clean out His 
 MAT.3:13 Then Jesus came from Galilee to John at the Jordan to be baptized by him.
 MAT.3:14 And John tried to prevent Him, saying, 'I need to be baptized by You, and are You coming to me?'
 MAT.3:15 But Jesus answered and said to him, 'Permit it to be so now, for thus it is fitting for us to fulfill all righteousness.' Then he allowed Him.
-MAT.3:16 When He had been baptized, Jesus came up immediately from the water; and behold, the heavens were opened to Him, and He saw the Spirit of God descending like adove and alighting upon Him.
+MAT.3:16 When He had been baptized, Jesus came up immediately from the water; and behold, the heavens were opened to Him, and He saw the Spirit of God descending like a dove and alighting upon Him.
 
 ### Jesus' Triumph over Satan
 
@@ -118,7 +118,7 @@ MAT.4:6 and said to Him, 'If You are the Son of God, throw Yourself down. For it
 MAT.4:7 and, 'I n their hands they shall bear you up, Lest you dash your foot against a stone.' ' a Jesus said to him, 'It is written again, 'You shall not tempt the Lord your God.' '
 MAT.4:8 Again, the devil took Him up on an exceedingly high mountain, and showed Him all the kingdoms of the world and their glory.
 MAT.4:9 And he said to Him, 'All these things I will give You if You will fall down and worship me.'
-MAT.4:10 Then Jesus said to him, 'Away with you,Satan! For it is written, 'You shall worship the LORD your God, and Him only you shall serve.' '
+MAT.4:10 Then Jesus said to him, 'Away with you, Satan! For it is written, 'You shall worship the LORD your God, and Him only you shall serve.' '
 MAT.4:11 Then the devil left Him, and behold, angels came and ministered to Him.
 MAT.4:12 Repentance and the Kingdom Now when Jesus heard that John had been put in prison, He departed to Galilee.
 MAT.4:13 And leaving Nazareth, He came and dwelt in Capernaum, which is by the sea, in the regions of Zebulun and Naphtali,
@@ -159,8 +159,8 @@ MAT.5:10 Blessed are those who are persecuted for righteousness' sake, For their
 MAT.5:11 'Blessed are you when they revile and persecute you, and say all kinds of evil against you falsely for My sake.
 MAT.5:12 Rejoice and be exceedingly glad, for great is your reward in heaven, for so they persecuted the prophets who were before you.
 MAT.5:13 'You are the salt of the earth; but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men.
-MAT.5:14 'You are the light of the world. A city that is set on ahill cannot be hidden.
-MAT.5:15 Nor do they light a lamp and put it under abasket, but on alampstand, and it gives light to all who are in the house.
+MAT.5:14 'You are the light of the world. A city that is set on a hill cannot be hidden.
+MAT.5:15 Nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house.
 
 ### Righteousness: The Law Fulfilled
 
@@ -182,14 +182,14 @@ MAT.5:27 'You have heard that it was said to those of old,'You shall not commit 
 MAT.5:28 But I say to you that whoever looks at a woman to lust for her has already committed adultery with her in his heart.
 MAT.5:29 If your right eye causes you to sin, pluck it out and cast it from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell.
 MAT.5:30 And if your right hand causes you to sin, cut it off and cast it from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell.
-MAT.5:31 'Furthermore it has been said, 'Whoever divorces his wife, let him give her acertificate of divorce.'
-MAT.5:32 But I say to you that whoever divorces his wife for any reason except sexual immorality acauses her to commit adultery; and whoever marries a woman who is divorced commits adultery.
+MAT.5:31 'Furthermore it has been said, 'Whoever divorces his wife, let him give her a certificate of divorce.'
+MAT.5:32 But I say to you that whoever divorces his wife for any reason except sexual immorality causes her to commit adultery; and whoever marries a woman who is divorced commits adultery.
 MAT.5:33 'Again you have heard that it was said to those of old, 'You shall not swear falsely, but shall perform your oaths to the Lord.'
 MAT.5:34 But I say to you, do not swear at all: neither by heaven, for it is God's throne;
 MAT.5:35 nor by the earth, for it is His footstool; nor by Jerusalem, for it is the city of the great King.
 MAT.5:36 Nor shall you swear by your head, because you cannot make one hair white or black.
 MAT.5:37 But let your 'Yes' be 'Yes,' and your 'No,' 'No.' For whatever is more than these is from the evil one.
-MAT.5:38 'You have heard that it was said, 'An eye for an eye and atooth for atooth.'
+MAT.5:38 'You have heard that it was said, 'An eye for an eye and a tooth for a tooth.'
 MAT.5:39 But I tell you not to resist an evil person. But whoever slaps you on your right cheek, turn the other to him also.
 MAT.5:40 If anyone wants to sue you and take away your tunic, let him have your cloak also.
 MAT.5:41 And whoever compels you to go one mile, go with him two.
@@ -206,8 +206,8 @@ MAT.5:48 Therefore you shall be perfect, just as your Father in heaven is perfec
 ## Chapter 6
 
 MAT.6:1 Take heed that you do not do your charitable deeds before men, to be seen by them. Otherwise you have no reward from your Father in heaven.
-MAT.6:2 Therefore, when you do acharitable deed, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets, that they may have glory from men. Assuredly, I say to you, they have their reward.
-MAT.6:3 But when you do acharitable deed, do not let your left hand know what your right hand is doing,
+MAT.6:2 Therefore, when you do a charitable deed, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets, that they may have glory from men. Assuredly, I say to you, they have their reward.
+MAT.6:3 But when you do a charitable deed, do not let your left hand know what your right hand is doing,
 
 MAT.6:4 that your charitable deed may be in secret; and your Father who sees in secret will Himself reward you openly.
 MAT.6:5 'And when you pray, you shall not be like the hypocrites. For they love to pray standing in the synagogues and on the corners of the streets, that they may be seen by men. Assuredly, I say to you, they have their reward.
@@ -217,14 +217,14 @@ MAT.6:8 'Therefore do not be like them. For your Father knows the things you hav
 MAT.6:9 In this manner, therefore, pray: Our Father in heaven, Hallowed be Your name.
 MAT.6:10 Your kingdom come.
 MAT.6:11 Your will be done On earth as it is in heaven. Give us this day our daily bread.
-MAT.6:12 And forgiveus our debts, As we forgive our debtors.
+MAT.6:12 And forgive us our debts, As we forgive our debtors.
 MAT.6:13 And do not lead us into temptation, But deliver us from the evil one.
 MAT.6:14 For Yours is the kingdom and the power and the glory forever. Amen.'For if you forgive men their trespasses, your heavenly Father will also forgive you.
 
 ### How to Fast
 
 MAT.6:15 But if you do not forgive men their trespasses, neither will your Father forgive your trespasses.
-MAT.6:16 'Moreover, when you fast, do not be like the hypocrites, with asad countenance. For they disfigure their faces that they may appear to men to be fasting. Assuredly, I say to you, they have their reward.
+MAT.6:16 'Moreover, when you fast, do not be like the hypocrites, with a sad countenance. For they disfigure their faces that they may appear to men to be fasting. Assuredly, I say to you, they have their reward.
 MAT.6:17 But you, when you fast, anoint your head and wash your face,
 
 MAT.6:18 so that you do not appear to men to be fasting, but to your Father who is in the secret place; and your Father who sees in secret will reward you openly.
@@ -254,14 +254,14 @@ MAT.6:34 Therefore do not worry about tomorrow, for tomorrow will worry about it
 MAT.7:1 Judge not, that you be not judged.
 MAT.7:2 For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you.
 MAT.7:3 And why do you look at the speck in your brother's eye, but do not consider the plank in your own eye?
-MAT.7:4 Or how can you say to your brother, 'Let me remove the speck from your eye'; and look, aplank is in your own eye?
+MAT.7:4 Or how can you say to your brother, 'Let me remove the speck from your eye'; and look, a plank is in your own eye?
 MAT.7:5 Hypocrite! First remove the plank from your own eye, and then you will see clearly to remove the speck from your brother's eye.
 
 MAT.7:6 'Do not give what is holy to the dogs; nor cast your pearls before swine, lest they trample them under their feet, and turn and tear you in pieces.
 MAT.7:7 'Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
 MAT.7:8 For everyone who asks receives, and he who seeks finds, and to him who knocks it will be opened.
 MAT.7:9 Or what man is there among you who, if his son asks for bread, will give him a stone?
-MAT.7:10 Or if he asks for afish, will he give him aserpent?
+MAT.7:10 Or if he asks for a fish, will he give him a serpent?
 MAT.7:11 If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask Him!
 
 MAT.7:12 Therefore, whatever you want men to do to you, do also to them, for this is the Law and the Prophets.
@@ -270,8 +270,8 @@ MAT.7:13 'Enter by the narrow gate; for wide is the gate and broad is the way th
 MAT.7:14 Because a narrow is the gate and difficult is the way which leads to life, and there are few who find it.
 MAT.7:15 'Beware of false prophets, who come to you in sheep's clothing, but inwardly they are ravenous wolves.
 MAT.7:16 You will know them by their fruits. Do men gather grapes from thornbushes or figs from thistles?
-MAT.7:17 Even so, every good tree bears good fruit, but abad tree bears bad fruit.
-MAT.7:18 A good tree cannot bear bad fruit, nor can abad tree bear good fruit.
+MAT.7:17 Even so, every good tree bears good fruit, but a bad tree bears bad fruit.
+MAT.7:18 A good tree cannot bear bad fruit, nor can a bad tree bear good fruit.
 MAT.7:19 Every tree that does not bear good fruit is cut down and thrown into the fire.
 MAT.7:20 Therefore by their fruits you will know them.
 MAT.7:21 'Not everyone who says to Me, 'Lord, Lord,' shall enter the kingdom of heaven, but he who does the will of My Father in heaven.
@@ -280,7 +280,7 @@ MAT.7:22 Many will say to Me in that day, 'Lord, Lord, have we not prophesied in
 MAT.7:23 And then I will declare to them, 'I never knew you; depart from Me, you who practice lawlessness!'
 MAT.7:24 'Therefore whoever hears these sayings of Mine, and does them, I will liken him to a wise man who built his house on the rock:
 MAT.7:25 and the rain descended, the floods came, and the winds blew and beat on that house; and it did not fall, for it was founded on the rock.
-MAT.7:26 'But everyone who hears these sayings of Mine, and does not do them, will be like afoolish man who built his house on the sand:
+MAT.7:26 'But everyone who hears these sayings of Mine, and does not do them, will be like a foolish man who built his house on the sand:
 MAT.7:27 and the rain descended, the floods came, and the winds blew and beat on that house; and it fell. And great was its fall.'
 MAT.7:28 And so it was, when Jesus had ended these sayings, that the people were astonished at His teaching,
 
@@ -291,8 +291,8 @@ MAT.8:1 When He had come down from the mountain, great multitudes followed Him.
 MAT.8:2 And behold, a leper came and worshiped Him, saying, 'Lord, if You are willing, You can make me clean.'
 MAT.8:3 Then Jesus put out His hand and touched him, saying, 'I am willing; be cleansed.' Immediately his leprosy was cleansed.
 
-MAT.8:4 And Jesus said to him, 'See that you tell no one; but go your way, show yourself to the priest, and offer the gift that Moses commanded, as atestimony to them.'
-MAT.8:5 Now when Jesus had entered Capernaum, acenturion came to Him, pleading with Him,
+MAT.8:4 And Jesus said to him, 'See that you tell no one; but go your way, show yourself to the priest, and offer the gift that Moses commanded, as a testimony to them.'
+MAT.8:5 Now when Jesus had entered Capernaum, a centurion came to Him, pleading with Him,
 MAT.8:6 saying, 'Lord, my servant is lying at home paralyzed, dreadfully tormented.'
 MAT.8:7 And Jesus said to him, 'I will come and heal him.'
 MAT.8:8 The centurion answered and said, 'Lord, I am not worthy that You should come under my roof. But only speak word, and my servant will be healed.
@@ -304,14 +304,14 @@ MAT.8:12 But the sons of the kingdom will be cast out into outer darkness. There
 ### Power over All Infirmities
 
 MAT.8:13 Then Jesus said to the centurion, 'Go your way; and as you have believed, so let it be done for you.' And his servant was healed that same hour.
-MAT.8:14 Now when Jesus had come into Peter's house, He saw his wife's mother lying sick with afever.
+MAT.8:14 Now when Jesus had come into Peter's house, He saw his wife's mother lying sick with a fever.
 MAT.8:15 So He touched her hand, and the fever left her. And she arose and served them.
 MAT.8:16 When evening had come, they brought to Him many who were demon-possessed. And He cast out the spirits with word, and healed all who were sick,
 
 ### Unconditional Loyalty
 
 MAT.8:17 that it might be fulfilled which was spoken by Isaiah the prophet, saying: 'He Himself took our infirmities And bore our sicknesses.'
-MAT.8:18 And when Jesus saw great multitudes about Him, He gave acommand to depart to the other side.
+MAT.8:18 And when Jesus saw great multitudes about Him, He gave a command to depart to the other side.
 MAT.8:19 Then a certain scribe came and said to Him, 'Teacher, I will follow You wherever You go.'
 MAT.8:20 And Jesus said to him, 'Foxes have holes and birds of the air have nests, but the Son of Man has nowhere to lay His head.'
 MAT.8:21 Then another of His disciples said to Him, 'Lord, let me first go and bury my father.'
@@ -326,7 +326,7 @@ MAT.8:26 But He said to them, 'Why are you fearful, O you of little faith?' Then
 MAT.8:27 So the men marveled, saying, 'Who can this be, that even the winds and the sea obey Him?'
 MAT.8:28 When He had come to the other side, to the country of the Gergesenes, a there met Him two demon-possessed men, coming out of the tombs, exceedingly fierce, so that no one could pass that way.
 MAT.8:29 And suddenly they cried out, saying, 'What have we to do with You, Jesus, You Son of God? Have You come here to torment us before the time?'
-MAT.8:30 Now good way off from them there was aherd of many swine feeding.
+MAT.8:30 Now good way off from them there was a herd of many swine feeding.
 MAT.8:31 So the demons begged Him, saying, 'If You cast us out, permit us to go away into the herd of swine.'
 MAT.8:32 And He said to them, 'Go.' So when they had come out, they went into the herd of swine. And suddenly the whole herd of swine ran violently down the steep place into the sea, and perished in the water.
 MAT.8:33 Then those who kept them fled; and they went away into the city and told everything, including what had happened to the demon-possessed men.
@@ -335,7 +335,7 @@ MAT.8:34 And behold, the whole city came out to meet Jesus. And when they saw Hi
 ## Chapter 9
 
 MAT.9:1 So He got into a boat, crossed over, and came to His own city.
-MAT.9:2 Then behold, they brought to Him aparalytic lying on abed. When Jesus saw their faith, He said to the paralytic, 'Son, be of good cheer; your sins are forgiven you.'
+MAT.9:2 Then behold, they brought to Him a paralytic lying on a bed. When Jesus saw their faith, He said to the paralytic, 'Son, be of good cheer; your sins are forgiven you.'
 MAT.9:3 And at once some of the scribes said within themselves, 'This Man blasphemes!'
 MAT.9:4 But Jesus, knowing their thoughts, said, 'Why do you think evil in your hearts?
 MAT.9:5 For which is easier, to say, 'Your sins are forgiven you,' or to say, 'Arise and walk'?
@@ -355,14 +355,14 @@ MAT.9:12 When Jesus heard that, He said to them, 'Those who are well have no nee
 MAT.9:13 But go and learn what this means: 'I desire mercy and not sacrifice.'For I did not come to call the righteous, but sinners, to repentance.'
 MAT.9:14 Then the disciples of John came to Him, saying, 'Why do we and the Pharisees fast often, but Your disciples do not fast?'
 MAT.9:15 And Jesus said to them, 'Can the friends of the bridegroom mourn as long as the bridegroom is with them? But the days will come when the bridegroom will be taken away from them, and then they will fast.
-MAT.9:16 No one puts apiece of unshrunk cloth on an old garment; for the patch pulls away from the garment, and the tear is made worse.
+MAT.9:16 No one puts a piece of unshrunk cloth on an old garment; for the patch pulls away from the garment, and the tear is made worse.
 
 ### A Healing and a Resurrection
 
 MAT.9:17 Nor do they put new wine into old wineskins, or else the wineskins break, the wine is spilled, and the wineskins are ruined. But they put new wine into new wineskins, and both are preserved.'
 MAT.9:18 While He spoke these things to them, behold, a ruler came and worshiped Him, saying, 'My daughter has just died, but come and lay Your hand on her and she will live.'
 MAT.9:19 So Jesus arose and followed him, and so did His disciples.
-MAT.9:20 And suddenly, a woman who had aflow of blood for twelve years came from behind and touched the hem of His garment.
+MAT.9:20 And suddenly, a woman who had a flow of blood for twelve years came from behind and touched the hem of His garment.
 MAT.9:21 For she said to herself, 'If only I may touch His garment, I shall be made well.'
 MAT.9:22 But Jesus turned around, and when He saw her He said, 'Be of good cheer, daughter; your faith has made you well.' And the woman was made well from that hour.
 MAT.9:23 When Jesus came into the ruler's house, and saw the flute players and the noisy crowd wailing,
@@ -406,11 +406,11 @@ MAT.10:4 Simon the Cananite, and Judas Iscariot, who also betrayed Him.
 MAT.10:5 These twelve Jesus sent out and commanded them, saying: 'Do not go into the way of the Gentiles, and do not enter a city of the Samaritans.
 MAT.10:6 But go rather to the lost sheep of the house of Israel.
 MAT.10:7 And as you go, preach, saying, 'The kingdom of heaven is at hand.'
-MAT.10:8 Heal the sick, cleanse the lepers, raise the dead, acast out demons. Freely you have received, freely give.
+MAT.10:8 Heal the sick, cleanse the lepers, raise the dead, cast out demons. Freely you have received, freely give.
 MAT.10:9 Provide neither gold nor silver nor copper in your money belts,
-MAT.10:10 nor bag for your journey, nor two tunics, nor sandals, nor staffs; for aworker is worthy of his food.
+MAT.10:10 nor bag for your journey, nor two tunics, nor sandals, nor staffs; for a worker is worthy of his food.
 MAT.10:11 'Now whatever city or town you enter, inquire who in it is worthy, and stay there till you go out.
-MAT.10:12 And when you go into ahousehold, greet it.
+MAT.10:12 And when you go into a household, greet it.
 MAT.10:13 If the household is worthy, let your peace come upon it. But if it is not worthy, let your peace return to you.
 MAT.10:14 And whoever will not receive you nor hear your words, when you depart from that house or city, shake off the dust from your feet.
 
@@ -419,7 +419,7 @@ MAT.10:14 And whoever will not receive you nor hear your words, when you depart 
 MAT.10:15 Assuredly, I say to you, it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city!
 MAT.10:16 'Behold, I send you out as sheep in the midst of wolves. Therefore be wise as serpents and harmless as doves.
 MAT.10:17 But beware of men, for they will deliver you up to councils and scourge you in their synagogues.
-MAT.10:18 You will be brought before governors and kings for My sake, as atestimony to them and to the Gentiles.
+MAT.10:18 You will be brought before governors and kings for My sake, as a testimony to them and to the Gentiles.
 MAT.10:19 But when they deliver you up, do not worry about how or what you should speak. For it will be given to you in that hour what you should speak;
 MAT.10:20 for it is not you who speak, but the Spirit of your Father who speaks in you.
 MAT.10:21 'Now brother will deliver up brother to death, and a father his child; and children will rise up against parents and cause them to be put to death.
@@ -433,19 +433,19 @@ MAT.10:25 It is enough for a disciple that he be like his teacher, and a servant
 MAT.10:26 Therefore do not fear them. For there is nothing covered that will not be revealed, and hidden that will not be known.
 MAT.10:27 'Whatever I tell you in the dark, speak in the light; and what you hear in the ear, preach on the housetops.
 MAT.10:28 And do not fear those who kill the body but cannot kill the soul. But rather fear Him who is able to destroy both soul and body in hell.
-MAT.10:29 Are not two sparrows sold for acopper coin? And not one of them falls to the ground apart from your Father's will.
+MAT.10:29 Are not two sparrows sold for a copper coin? And not one of them falls to the ground apart from your Father's will.
 MAT.10:30 But the very hairs of your head are all numbered.
 MAT.10:31 Do not fear therefore; you are of more value than many sparrows.
 MAT.10:32 'Therefore whoever confesses Me before men, him I will also confess before My Father who is in heaven.
 MAT.10:33 But whoever denies Me before men, him I will also deny before My Father who is in heaven.
 MAT.10:34 'Do not think that I came to bring peace on earth. I did not come to bring peace but a sword.
 MAT.10:35 For I have come to ' set a man against his father, a daughter against her mother, and a daughter-in-law against her mother-in-law';
-MAT.10:36 and 'aman's enemies will be those of his own household.'
+MAT.10:36 and 'a man's enemies will be those of his own household.'
 MAT.10:37 He who loves father or mother more than Me is not worthy of Me. And he who loves son or daughter more than Me is not worthy of Me.
 MAT.10:38 And he who does not take his cross and follow after Me is not worthy of Me.
 MAT.10:39 He who finds his life will lose it, and he who loses his life for My sake will find it.
 MAT.10:40 'He who receives you receives Me, and he who receives Me receives Him who sent Me.
-MAT.10:41 He who receives aprophet in the name of aprophet shall receive aprophet's reward. And he who receives arighteous man in the name of arighteous man shall receive arighteous man's reward.
+MAT.10:41 He who receives a prophet in the name of a prophet shall receive a prophet's reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man's reward.
 
 ### The Baptist's Question to Jesus
 
@@ -464,7 +464,7 @@ MAT.11:5 The blind see and the lame walk; the lepers are cleansed and the deaf h
 MAT.11:6 And blessed is he who is not offended because of Me.'
 MAT.11:7 As they departed, Jesus began to say to the multitudes concerning John: 'What did you go out into the wilderness to see? A reed shaken by the wind?
 MAT.11:8 But what did you go out to see? A man clothed in soft garments? Indeed, those who wear soft clothing are in kings' houses.
-MAT.11:9 But what did you go out to see? A prophet? Yes, I say to you, and more than aprophet.
+MAT.11:9 But what did you go out to see? A prophet? Yes, I say to you, and more than a prophet.
 MAT.11:10 For this is he of whom it is written: 'Behold, I send My messenger before Your face, Who will prepare Your way before You.'
 MAT.11:11 'Assuredly, I say to you, among those born of women there has not risen one greater than John the Baptist; but he who is least in the kingdom of heaven is greater than he.
 MAT.11:12 And from the days of John the Baptist until now the kingdom of heaven suffers violence, and the violent take it by force.
@@ -477,11 +477,11 @@ MAT.11:18 For John came neither eating nor drinking, and they say, 'He has a dem
 
 ### Woe to the Cities of Galilee
 
-MAT.11:19 The Son of Man came eating and drinking, and they say, 'Look, aglutton and awinebibber, a friend of tax collectors and sinners!' But wisdom is justified by her children.'
+MAT.11:19 The Son of Man came eating and drinking, and they say, 'Look, a glutton and a winebibber, a friend of tax collectors and sinners!' But wisdom is justified by her children.'
 MAT.11:20 Then He began to rebuke the cities in which most of His mighty works had been done, because they did not repent:
 MAT.11:21 'Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works which were done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
 MAT.11:22 But I say to you, it will be more tolerable for Tyre and Sidon in the day of judgment than for you.
-MAT.11:23 And you, Capernaum, who are exalted to heaven, will be abrought down to Hades; for if the mighty works which were done in you had been done in Sodom, it would have remained until this day.
+MAT.11:23 And you, Capernaum, who are exalted to heaven, will be brought down to Hades; for if the mighty works which were done in you had been done in Sodom, it would have remained until this day.
 
 ### Rest in Christ
 
@@ -507,9 +507,9 @@ MAT.12:6 Yet I say to you that in this place there is One greater than the templ
 MAT.12:7 But if you had known what this means, ' I desire mercy and not sacrifice,' you would not have condemned the guiltless.
 MAT.12:8 For the Son of Man is Lord even of the Sabbath.'
 MAT.12:9 Now when He had departed from there, He went into their synagogue.
-MAT.12:10 And behold, there was a man who had awithered hand. And they asked Him, saying, 'Is it lawful to heal on the Sabbath?'-that they might accuse Him.
-MAT.12:11 Then He said to them, 'What man is there among you who has one sheep, and if it falls into apit on the Sabbath, will not lay hold of it and lift it out?
-MAT.12:12 Of how much more value then is a man than asheep? Therefore it is lawful to do good on the Sabbath.'
+MAT.12:10 And behold, there was a man who had a withered hand. And they asked Him, saying, 'Is it lawful to heal on the Sabbath?'-that they might accuse Him.
+MAT.12:11 Then He said to them, 'What man is there among you who has one sheep, and if it falls into a pit on the Sabbath, will not lay hold of it and lift it out?
+MAT.12:12 Of how much more value then is a man than a sheep? Therefore it is lawful to do good on the Sabbath.'
 MAT.12:13 Then He said to the man, 'Stretch out your hand.' And he stretched it out, and it was restored as whole as the other.
 
 ### Isaiah's Servant of God
@@ -525,7 +525,7 @@ MAT.12:20 A bruised reed He will not break, And smoking flax He will not quench,
 ### Is Jesus from God?
 
 MAT.12:21 And in His name Gentiles will trust.'
-MAT.12:22 Then one was brought to Him who was demon-possessed, blind and mute; and He healed him, so that the blind and amute man both spoke and saw.
+MAT.12:22 Then one was brought to Him who was demon-possessed, blind and mute; and He healed him, so that the blind and mute man both spoke and saw.
 MAT.12:23 And all the multitudes were amazed and said, 'Could this be the Son of David?'
 MAT.12:24 Now when the Pharisees heard it they said, 'This fellow does not cast out demons except by Beelzebub, the ruler of the demons.'
 MAT.12:25 But Jesus knew their thoughts, and said to them: 'Every kingdom divided against itself is brought to desolation, and every city or house divided against itself will not stand.
@@ -536,17 +536,17 @@ MAT.12:29 Or how can one enter a strong man's house and plunder his goods, unles
 MAT.12:30 He who is not with Me is against Me, and he who does not gather with Me scatters abroad.
 MAT.12:31 'Therefore I say to you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven men.
 MAT.12:32 Anyone who speaks word against the Son of Man, it will be forgiven him; but whoever speaks against the Holy Spirit, it will not be forgiven him, either in this age or in the age to come.
-MAT.12:33 'Either make the tree good and its fruit good, or else make the tree bad and its fruit bad; for atree is known by its fruit.
+MAT.12:33 'Either make the tree good and its fruit good, or else make the tree bad and its fruit bad; for a tree is known by its fruit.
 MAT.12:34 Brood of vipers! How can you, being evil, speak good things? For out of the abundance of the heart the mouth speaks.
-MAT.12:35 A good man out of the good treasure of his heart abrings forth good things, and an evil man out of the evil treasure brings forth evil things.
+MAT.12:35 A good man out of the good treasure of his heart brings forth good things, and an evil man out of the evil treasure brings forth evil things.
 MAT.12:36 But I say to you that for every idle word men may speak, they will give account of it in the day of judgment.
 
 MAT.12:37 For by your words you will be justified, and by your words you will be condemned.'
 MAT.12:38 Then some of the scribes and Pharisees answered, saying, 'Teacher, we want to see a sign from You.'
 MAT.12:39 But He answered and said to them, 'An evil and adulterous generation seeks after a sign, and no sign will be given to it except the sign of the prophet Jonah.
 MAT.12:40 For as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth.
-MAT.12:41 The men of Nineveh will rise up in the judgment with this generation and condemn it, because they repented at the preaching of Jonah; and indeed agreater than Jonah is here.
-MAT.12:42 The queen of the South will rise up in the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon; and indeed agreater than Solomon is here.
+MAT.12:41 The men of Nineveh will rise up in the judgment with this generation and condemn it, because they repented at the preaching of Jonah; and indeed a greater than Jonah is here.
+MAT.12:42 The queen of the South will rise up in the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon; and indeed a greater than Solomon is here.
 MAT.12:43 'When an unclean spirit goes out of a man, he goes through dry places, seeking rest, and finds none.
 MAT.12:44 Then he says, 'I will return to my house from which I came.' And when he comes, he finds it empty, swept, and put in order.
 
@@ -571,7 +571,7 @@ MAT.13:4 And as he sowed, some seed fell by the wayside; and the birds came and 
 MAT.13:5 Some fell on stony places, where they did not have much earth; and they immediately sprang up because they had no depth of earth.
 MAT.13:6 But when the sun was up they were scorched, and because they had no root they withered away.
 MAT.13:7 And some fell among thorns, and the thorns sprang up and choked them.
-MAT.13:8 But others fell on good ground and yielded acrop: some ahundredfold, some sixty, some thirty.
+MAT.13:8 But others fell on good ground and yielded a crop: some a hundredfold, some sixty, some thirty.
 
 ### The Mystery of Parables
 
@@ -582,17 +582,17 @@ MAT.13:12 For whoever has, to him more will be given, and he will have abundance
 MAT.13:13 Therefore I speak to them in parables, because seeing they do not see, and hearing they do not hear, nor do they understand.
 MAT.13:14 And in them the prophecy of Isaiah is fulfilled, which says: 'Hearing you will hear and shall not understand, And seeing you will see and not perceive;
 MAT.13:15 For the hearts of this people have grown dull.
-MAT.13:16 Their ears are hard of hearing, And their eyes they have closed, Lest they should see with their eyes and hear with their ears, Lest they should understand with their hearts and turn, So that I should a heal them.'But blessed are your ey es for they see, and your ears for they hear;
+MAT.13:16 Their ears are hard of hearing, And their eyes they have closed, Lest they should see with their eyes and hear with their ears, Lest they should understand with their hearts and turn, So that I should a heal them.'But blessed are your eyes for they see, and your ears for they hear;
 MAT.13:17 for assuredly, I say to you that many prophets and righteous men desired to see what you see, and did not see it, and to hear what you hear, and did not hear it.
 MAT.13:18 The Sower Explained 'Therefore hear the parable of the sower:
 MAT.13:19 When anyone hears the word of the kingdom, and does not understand it, then the wicked one comes and snatches away what was sown in his heart. This is he who received seed by the wayside.
 MAT.13:20 But he who received the seed on stony places, this is he who hears the word and immediately receives it with joy;
 MAT.13:21 21 yet he has no root in himself, but endures only for awhile. For when tribulation or persecution arises because of the word, immediately he stumbles.
 MAT.13:22 Now he who received seed among the thorns is he who hears the word, and the cares of this world and the deceitfulness of riches choke the word, and he becomes unfruitful.
-MAT.13:23 But he who received seed on the good ground is he who hears the word and understands it, who indeed bears fruit and produces: some ahundredfold, some sixty, some thirty.'
+MAT.13:23 But he who received seed on the good ground is he who hears the word and understands it, who indeed bears fruit and produces: some a hundredfold, some sixty, some thirty.'
 MAT.13:24 Another parable He put forth to them, saying: 'The kingdom of heaven is like a man who sowed good seed in his field;
 MAT.13:25 but while men slept, his enemy came and sowed tares among the wheat and went his way.
-MAT.13:26 But when the grain had sprouted and produced acrop, then the tares also appeared.
+MAT.13:26 But when the grain had sprouted and produced a crop, then the tares also appeared.
 MAT.13:27 So the servants of the owner came and said to him, 'Sir, did you not sow good seed in your field? How then does it have tares?'
 MAT.13:28 He said to them, 'An enemy has done this.' The servants said to him, 'Do you want us then to go and gather them up?'
 MAT.13:29 But he said, 'No, lest while you gather up the tares you also uproot the wheat with them.
@@ -601,7 +601,7 @@ MAT.13:29 But he said, 'No, lest while you gather up the tares you also uproot t
 
 MAT.13:30 Let both grow together until the harvest, and at the time of harvest I will say to the reapers, 'First gather together the tares and bind them in bundles to burn them, but gather the wheat into my barn.' ' '
 MAT.13:31 Another parable He put forth to them, saying: 'The kingdom of heaven is like a mustard seed, which a man took and sowed in his field,
-MAT.13:32 which indeed is the least of all the seeds; but when it is grown it is greater than the herbs and becomes atree, so that the birds of the air come and nest in its branches.'
+MAT.13:32 which indeed is the least of all the seeds; but when it is grown it is greater than the herbs and becomes a tree, so that the birds of the air come and nest in its branches.'
 
 ### Parables Fulfill Prophecy
 
@@ -626,9 +626,9 @@ MAT.13:44 'Again, the kingdom of heaven is like treasure hidden in afield, which
 
 ### The Dragnet
 
-MAT.13:45 'Again, the kingdom of heaven is like amerchant seeking beautiful pearls,
+MAT.13:45 'Again, the kingdom of heaven is like a merchant seeking beautiful pearls,
 MAT.13:46 who, when he had found one pearl of great price, went and sold all that he had and bought it.
-MAT.13:47 'Again, the kingdom of heaven is like adragnet that was cast into the sea and gathered some of every kind,
+MAT.13:47 'Again, the kingdom of heaven is like a dragnet that was cast into the sea and gathered some of every kind,
 MAT.13:48 which, when it was full, they drew to shore; and they sat down and gathered the good into vessels, but threw the bad away.
 MAT.13:49 So it will be at the end of the age. The angels will come forth, separate the wicked from among the just,
 
@@ -636,13 +636,13 @@ MAT.13:49 So it will be at the end of the age. The angels will come forth, separ
 
 MAT.13:50 and cast them into the furnace of fire. There will be wailing and gnashing of teeth.'
 MAT.13:51 Jesus said to them,'Have you understood all these things?'
-MAT.13:52 They said to Him, 'Yes, Lord.'Then He said to them, 'Therefore every scribe instructed concerning the kingdom of heaven is like ahouseholder who brings out of his treasure things new and old.'
+MAT.13:52 They said to Him, 'Yes, Lord.' Then He said to them, 'Therefore every scribe instructed concerning the kingdom of heaven is like a householder who brings out of his treasure things new and old.'
 
 ### Rejection at Nazareth
 
 MAT.13:53 Now it came to pass, when Jesus had finished these parables, that He departed from there.
 MAT.13:54 When He had come to His own country, He taught them in their synagogue, so that they were astonished and said, 'Where did this Man get this wisdom and these mighty works?
-MAT.13:55 Is this not the carpenter's son? Is not His mother called Mary? And His brothers James, Joses,Simon, and Judas?
+MAT.13:55 Is this not the carpenter's son? Is not His mother called Mary? And His brothers James, Joses, Simon, and Judas?
 MAT.13:56 And His sisters, are they not all with us? Where then did this Man get all these things?'
 MAT.13:57 So they were offended at Him.
 
@@ -656,20 +656,20 @@ MAT.14:1 At that time Herod the tetrarch heard the report about Jesus
 MAT.14:2 and said to his servants, 'This is John the Baptist; he is risen from the dead, and therefore these powers are at work in him.'
 MAT.14:3 For Herod had laid hold of John and bound him, and put him in prison for the sake of Herodias, his brother Philip's wife.
 MAT.14:4 Because John had said to him, 'It is not lawful for you to have her.'
-MAT.14:5 And although he wanted to put him to death, he feared the multitude, because they counted him as aprophet.
+MAT.14:5 And although he wanted to put him to death, he feared the multitude, because they counted him as a prophet.
 MAT.14:6 But when Herod's birthday was celebrated, the daughter of Herodias danced before them and pleased Herod.
 MAT.14:7 Therefore he promised with an oath to give her whatever she might ask.
-MAT.14:8 So she, having been prompted by her mother, said, 'Give me John the Baptist's head here on aplatter.'
+MAT.14:8 So she, having been prompted by her mother, said, 'Give me John the Baptist's head here on a platter.'
 MAT.14:9 And the king was sorry; nevertheless, because of the oaths and because of those who sat with him, he commanded it to be given to her.
 MAT.14:10 So he sent and had John beheaded in prison.
-MAT.14:11 And his head was brought on aplatter and given to the girl, and she brought it to her mother.
+MAT.14:11 And his head was brought on a platter and given to the girl, and she brought it to her mother.
 
 ### Feeding the Five Thousand
 
 MAT.14:12 Then his disciples came and took away the body and buried it, and went and told Jesus.
-MAT.14:13 When Jesus heard it, He departed from there by boat to adeserted place by Himself. But when the multitudes heard it, they followed Him on foot from the cities.
+MAT.14:13 When Jesus heard it, He departed from there by boat to a deserted place by Himself. But when the multitudes heard it, they followed Him on foot from the cities.
 MAT.14:14 And when Jesus went out He saw great multitude; and He was moved with compassion for them, and healed their sick.
-MAT.14:15 When it was evening, His disciples came to Him, saying, 'This is adeserted place, and the hour is already late. Send the multitudes away, that they may go into the villages and buy themselves food.'
+MAT.14:15 When it was evening, His disciples came to Him, saying, 'This is a deserted place, and the hour is already late. Send the multitudes away, that they may go into the villages and buy themselves food.'
 MAT.14:16 But Jesus said to them, 'They do not need to go away. You give them something to eat.'
 MAT.14:17 And they said to Him, 'We have here only five loaves and two fish.'
 MAT.14:18 He said, 'Bring them here to Me.'
@@ -681,9 +681,9 @@ MAT.14:20 So they all ate and were filled, and they took up twelve baskets full 
 MAT.14:21 Now those who had eaten were about five thousand men, besides women and children.
 MAT.14:22 Immediately Jesus made His disciples get into the boat and go before Him to the other side, while He sent the multitudes away.
 MAT.14:23 And when He had sent the multitudes away, He went up on the mountain by Himself to pray. Now when evening came, He was alone there.
-MAT.14:24 But the boat was now in the middle of the sea, atossed by the waves, for the wind was contrary.
+MAT.14:24 But the boat was now in the middle of the sea, tossed by the waves, for the wind was contrary.
 MAT.14:25 Now in the fourth watch of the night Jesus went to them, walking on the sea.
-MAT.14:26 And when the disciples saw Him walking on the sea, they were troubled, saying, 'It is aghost!' And they cried out for fear.
+MAT.14:26 And when the disciples saw Him walking on the sea, they were troubled, saying, 'It is a ghost!' And they cried out for fear.
 MAT.14:27 But immediately Jesus spoke to them, saying, 'Be of good cheer! It is I; do not be afraid.'
 MAT.14:28 And Peter answered Him and said, 'Lord, if it is You, command me to come to You on the water.'
 MAT.14:29 So He said, 'Come.' And when Peter had come down out of the boat, he walked on the water to go to Jesus.
@@ -691,7 +691,7 @@ MAT.14:30 But when he saw that the wind was boisterous, he was afraid; and begin
 MAT.14:31 And immediately Jesus stretched out His hand and caught him, and said to him, 'O you of little faith, why did you doubt?'
 MAT.14:32 And when they got into the boat, the wind ceased.
 
-MAT.14:33 Then those who were in the boat came and aworshiped Him, saying, 'Truly You are the Son of God.'
+MAT.14:33 Then those who were in the boat came and worshiped Him, saying, 'Truly You are the Son of God.'
 MAT.14:34 When they had crossed over, they came to the land of a Gennesaret.
 MAT.14:35 And when the men of that place recognized Him, they sent out into all that surrounding region, brought to Him all who were sick,
 
@@ -704,7 +704,7 @@ MAT.15:1 Then the scribes and Pharisees who were from Jerusalem came to Jesus, s
 MAT.15:2 'Why do Your disciples transgress the tradition of the elders? For they do not wash their hands when they eat bread.'
 MAT.15:3 He answered and said to them, 'Why do you also transgress the commandment of God because of your tradition?
 MAT.15:4 For God commanded, saying, 'Honor your father and your mother'; and, 'He who curses father or mother, let him be put to death.'
-MAT.15:5 But you say, 'Whoever says to his father or mother, 'Whatever profit you might have received from me is agift to God '-
+MAT.15:5 But you say, 'Whoever says to his father or mother, 'Whatever profit you might have received from me is a gift to God '-
 MAT.15:6 then he need not honor his father or mother.'Thus you have made the commandment of God of no effect by your tradition.
 MAT.15:7 Hypocrites! Well did Isaiah prophesy about you, saying:
 MAT.15:8 'These people draw near to Me with their mouth, And a honor Me with their lips, But their heart is far from Me.
@@ -713,7 +713,7 @@ MAT.15:10 When He had called the multitude to Himself, He said to them, 'Hear an
 MAT.15:11 Not what goes into the mouth defiles a man; but what comes out of the mouth, this defiles a man.'
 MAT.15:12 Then His disciples came and said to Him, 'Do You know that the Pharisees were offended when they heard this saying?'
 MAT.15:13 But He answered and said, 'Every plant which My heavenly Father has not planted will be uprooted.
-MAT.15:14 Let them alone. They are blind leaders of the blind. And if the blind leads the blind, both will fall into aditch.'
+MAT.15:14 Let them alone. They are blind leaders of the blind. And if the blind leads the blind, both will fall into a ditch.'
 MAT.15:15 Then Peter answered and said to Him, 'Explain this parable to us.'
 MAT.15:16 So Jesus said, 'Are you also still without understanding?
 MAT.15:17 Do you not yet understand that whatever enters the mouth goes into the stomach and is eliminated?
@@ -749,7 +749,7 @@ MAT.15:39 And He sent away the multitude, got into the boat, and came to the reg
 
 MAT.16:1 Then the Pharisees and Sadducees came, and testing Him asked that He would show them a sign from heaven.
 MAT.16:2 He answered and said to them, 'When it is evening you say, 'It will be fair weather, for the sky is red';
-MAT.16:3 and in the morning, 'It will be foul weather today, for the sky is red and threatening.' Hypocrites!You know how to discern the face of the sky, but you cannot discern the signs of the times.
+MAT.16:3 and in the morning, 'It will be foul weather today, for the sky is red and threatening.' Hypocrites! You know how to discern the face of the sky, but you cannot discern the signs of the times.
 
 ### The Pharisees' False Doctrine
 
@@ -760,7 +760,7 @@ MAT.16:7 And they reasoned among themselves, saying, 'It is because we have take
 MAT.16:8 But Jesus, being aware of it, said to them, 'O you of little faith, why do you reason among yourselves because you have brought no bread?
 MAT.16:9 Do you not yet understand, or remember the five loaves of the five thousand and how many baskets you took up?
 MAT.16:10 Nor the seven loaves of the four thousand and how many large baskets you took up?
-MAT.16:11 How is it you do not understand that I did not speak to you concerning bread?but to beware of the leaven of the Pharisees and Sadducees.'
+MAT.16:11 How is it you do not understand that I did not speak to you concerning bread? but to beware of the leaven of the Pharisees and Sadducees.'
 
 ### Jesus Is the Christ, the Son of God
 
@@ -794,7 +794,7 @@ MAT.17:1 Now after six days Jesus took Peter, James, and John his brother, led t
 MAT.17:2 and He was transfigured before them. His face shone like the sun, and His clothes became as white as the light.
 MAT.17:3 And behold, Moses and Elijah appeared to them, talking with Him.
 MAT.17:4 Then Peter answered and said to Jesus, 'Lord, it is good for us to be here; if You wish, let us make here three tabernacles: one for You, one for Moses, and one for Elijah.'
-MAT.17:5 Finally, the Holy Trinity is manifest here, for Christ is transfigured , the Father speaks from heaven testifying to Jesus' divine sonship (17:5), and the Spirit is present in the form of adazzling light surrounding Christ's person, overshadowing the whole mountain (17:5). While he was still speaking, behold, abright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, 'This is My beloved Son, in whom I am well pleased. Hear Him!'
+MAT.17:5 Finally, the Holy Trinity is manifest here, for Christ is transfigured, the Father speaks from heaven testifying to Jesus' divine sonship (17:5), and the Spirit is present in the form of a dazzling light surrounding Christ's person, overshadowing the whole mountain (17:5). While he was still speaking, behold, a bright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, 'This is My beloved Son, in whom I am well pleased. Hear Him!'
 MAT.17:6 And when the disciples heard it, they fell on their faces and were greatly afraid.
 MAT.17:7 But Jesus came and touched them and said, 'Arise, and do not be afraid.'
 MAT.17:8 When they had lifted up their eyes, they saw no one but Jesus only.
@@ -826,7 +826,7 @@ MAT.17:24 When they had come to Capernaum, those who received the temple tax cam
 MAT.17:25 He said, 'Yes.'
 MAT.17:26 And when he had come into the house, Jesus anticipated him, saying, 'What do you think, Simon? From whom do the kings of the earth take customs or taxes, from their sons or from strangers?' Peter said to Him, 'From strangers.'
 
-MAT.17:27 Jesus said to him, 'Then the sons are free. Nevertheless, lest we offend them, go to the sea, cast in ahook, and take the fish that comes up first. And when you have opened its mouth, you will find apiece of money; take that and give it to them for Me and you.'
+MAT.17:27 Jesus said to him, 'Then the sons are free. Nevertheless, lest we offend them, go to the sea, cast in a hook, and take the fish that comes up first. And when you have opened its mouth, you will find a piece of money; take that and give it to them for Me and you.'
 ## Chapter 18
 
 MAT.18:1 At that time the disciples came to Jesus, saying, 'Who then is greatest in the kingdom of heaven?'
@@ -854,7 +854,7 @@ MAT.18:13 And if he should find it, assuredly, I say to you, he rejoices more ov
 MAT.18:14 Even so it is not the will of your Father who is in heaven that one of these little ones should perish.
 MAT.18:15 'Moreover if your brother sins against you, go and tell him his fault between you and him alone. If he hears you, you have gained your brother.
 MAT.18:16 But if he will not hear, take with you one or two more, that 'by the mouth of two or three witnesses every word may be established.'
-MAT.18:17 And if he refuses to hear them, tell it to the church. But if he refuses even to hear the church, let him be to you like aheathen and a tax collector.
+MAT.18:17 And if he refuses to hear them, tell it to the church. But if he refuses even to hear the church, let him be to you like a heathen and a tax collector.
 MAT.18:18 'Assuredly, I say to you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
 MAT.18:19 'Again I say to you that if two of you agree on earth concerning anything that they ask, it will be done for them by My Father in heaven.
 
@@ -885,7 +885,7 @@ MAT.19:3 The Pharisees also came to Him, testing Him, and saying to Him, 'Is it 
 MAT.19:4 And He answered and said to them, 'Have you not read that He who made them at the beginning 'made them male and female,'
 MAT.19:5 and said, 'For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh'?
 MAT.19:6 So then, they are no longer two but one flesh. Therefore what God has joined together, let not man separate.'
-MAT.19:7 They said to Him, 'Why then did Moses command to give acertificate of divorce, and to put her away?'
+MAT.19:7 They said to Him, 'Why then did Moses command to give a certificate of divorce, and to put her away?'
 MAT.19:8 He said to them, 'Moses, because of the hardness of your hearts, permitted you to divorce your wives, but from the beginning it was not so.
 MAT.19:9 And I say to you, whoever divorces his wife, except for sexual immorality, and marries another, commits adultery; and whoever marries her who is divorced commits adultery.'
 MAT.19:10 His disciples said to Him, 'If such is the case of the man with his wife, it is better not to marry.'
@@ -901,26 +901,26 @@ MAT.19:14 But Jesus said, 'Let the little children come to Me, and do not forbid
 
 MAT.19:15 And He laid His hands on them and departed from there.
 MAT.19:16 Now behold, one came and said to Him, 'Good a Teacher, what good thing shall I do that I may have eternal life?'
-MAT.19:17 So He said to him, 'Why do you call Me good?No one is good but One, that is, God.But if you want to enter into life, keep the commandments.'
+MAT.19:17 So He said to him, 'Why do you call Me good? No one is good but One, that is, God. But if you want to enter into life, keep the commandments.'
 MAT.19:18 He said to Him, 'Which ones?'
 MAT.19:19 Jesus said, ' 'You shall not murder,' 'You shall not commit adultery,' 'You shall not steal,' 'You shall not bear false witness,' 'Honor your father and your mother,' and, 'You shall love your neighbor as yourself.' '
-MAT.19:20 The young man said to Him, 'All these things I have kept from my youth.What do I still lack?'
+MAT.19:20 The young man said to Him, 'All these things I have kept from my youth. What do I still lack?'
 MAT.19:21 Jesus said to him, 'If you want to be perfect, go, sell what you have and give to the poor, and you will have treasure in heaven; and come, follow Me.'
 MAT.19:22 But when the young man heard that saying, he went away sorrowful, for he had great possessions.
 MAT.19:23 Then Jesus said to His disciples, 'Assuredly, I say to you that it is hard for a rich man to enter the kingdom of heaven.
-MAT.19:24 And again I say to you, it is easier for acamel to go through the eye of aneedle than for a rich man to enter the kingdom of God.'
+MAT.19:24 And again I say to you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.'
 MAT.19:25 When His disciples heard it, they were greatly astonished, saying, 'Who then can be saved?'
 MAT.19:26 But Jesus looked at them and said to them, 'With men this is impossible, but with God all things are possible.'
 MAT.19:27 Then Peter answered and said to Him, 'See, we have left all and followed You. Therefore what shall we have?'
 MAT.19:28 So Jesus said to them, 'Assuredly I say to you, that in the regeneration, when the Son of Man sits on the throne of His glory, you who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel.
-MAT.19:29 And everyone who has left houses or brothers or sisters or father or mother or wife or children or lands, for My name's sake, shall receive ahundredfold, and inherit eternal life.
+MAT.19:29 And everyone who has left houses or brothers or sisters or father or mother or wife or children or lands, for My name's sake, shall receive a hundredfold, and inherit eternal life.
 
 ### The First and the Last
 
 MAT.19:30 But many who are first will be last, and the last first.
 ## Chapter 20
 
-MAT.20:1 For the kingdom of heaven is like alandowner who went out early in the morning to hire laborers for his vineyard.
+MAT.20:1 For the kingdom of heaven is like a landowner who went out early in the morning to hire laborers for his vineyard.
 MAT.20:2 Now when he had agreed with the laborers for a denarius day, he sent them into his vineyard.
 MAT.20:3 And he went out about the third hour and saw others standing idle in the marketplace,
 MAT.20:4 and said to them, 'You also go into the vineyard, and whatever is right I will give you.' So they went.
@@ -977,7 +977,7 @@ MAT.21:5 'Tell the daughter of Zion, A colt, the foal of a donkey.' '
 MAT.21:6 So the disciples went and did as Jesus commanded them.
 MAT.21:7 They brought the donkey and the colt, laid their clothes on them, and set Him on them.
 MAT.21:8 And very great multitude spread their clothes on the road; others cut down branches from the trees and spread them on the road.
-MAT.21:9 Then the multitudes who went before and those who followed cried out, saying: 'Hosanna to the Son of Dav id!
+MAT.21:9 Then the multitudes who went before and those who followed cried out, saying: 'Hosanna to the Son of David!
 MAT.21:10 'Blessed is He who comes in the name of the LORD!'Hosanna in the highest!' And when He had come into Jerusalem, all the city was moved, saying, 'Who is this?'
 MAT.21:11 So the multitudes said, 'This is Jesus, the prophet from Nazareth of Galilee.'
 MAT.21:12 Jesus Purifies the Temple Then Jesus went into the temple of God and drove out all those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves.
@@ -996,7 +996,7 @@ MAT.21:22 And whatever things you ask in prayer, believing, you will receive.'
 MAT.21:23 Now when He came into the temple, the chief priests and the elders of the people confronted Him as He was teaching, and said, 'By what authority are You doing these things? And who gave You this authority?'
 MAT.21:24 But Jesus answered and said to them, 'I also will ask you one thing, which if you tell Me, I likewise will tell you by what authority I do these things:
 MAT.21:25 The baptism of John-where was it from? From heaven or from men?'
-MAT.21:26 And they reasoned among themselves, saying, 'If we say, 'From heaven,' He will say to us, 'Why then did you not believe him?' But if we say, 'From men,' we fear the multitude, for all count John as aprophet.'
+MAT.21:26 And they reasoned among themselves, saying, 'If we say, 'From heaven,' He will say to us, 'Why then did you not believe him?' But if we say, 'From men,' we fear the multitude, for all count John as a prophet.'
 MAT.21:27 So they answered Jesus and said, 'We do not know.'
 
 ### Sinners Believe
@@ -1009,7 +1009,7 @@ MAT.21:31 Which of the two did the will of his father?'
 ### Leaders Mistreat God's Messengers
 
 MAT.21:32 For John came to you in the way of righteousness, and you did not believe him; but tax collectors and harlots believed him; and when you saw it, you did not afterward relent and believe him. They said to Him, 'The first.'
-MAT.21:33 'Hear another parable: There was a certain landowner who planted avineyard and set ahedge around it, dug awinepress in it and built atower. And he leased it to vinedressers and went into afar country. Jesus said to them, 'Assuredly, I say to you that tax collectors and harlots enter the kingdom of God before you.
+MAT.21:33 'Hear another parable: There was a certain landowner who planted a vineyard and set a hedge around it, dug a winepress in it and built a tower. And he leased it to vinedressers and went into a far country. Jesus said to them, 'Assuredly, I say to you that tax collectors and harlots enter the kingdom of God before you.
 MAT.21:34 Now when vintage-time drew near, he sent his servants to the vinedressers, that they might receive its fruit.
 MAT.21:35 And the vinedressers took his servants, beat one, killed one, and stoned another.
 MAT.21:36 Again he sent other servants, more than the first, and they did likewise to them.
@@ -1019,18 +1019,18 @@ MAT.21:39 So they took him and cast him out of the vineyard and killed him.
 MAT.21:40 'Therefore, when the owner of the vineyard comes, what will he do to those vinedressers?'
 MAT.21:41 They said to Him, 'He will destroy those wicked men miserably, and lease his vineyard to other vinedressers who will render to him the fruits in their seasons.'
 MAT.21:42 Jesus said to them, 'Have you never read in the Scriptures: 'The stone which the builders rejected Has become the chief cornerstone.
-MAT.21:43 This was the LORD's doing, And it is marvelous in our eyes'?'Therefore I say to you, the kingdom of God will be taken from you and given to anation bearing the fruits of it.
+MAT.21:43 This was the LORD's doing, And it is marvelous in our eyes'?'Therefore I say to you, the kingdom of God will be taken from you and given to a nation bearing the fruits of it.
 MAT.21:44 And whoever falls on this stone will be broken; but on whomever it falls, it will grind him to powder.'
 MAT.21:45 Now when the chief priests and Pharisees heard His parables, they perceived that He was speaking of them.
 
 ### Who Enters into the Kingdom?
 
-MAT.21:46 But when they sought to lay hands on Him, they feared the multitudes, because they took Him for aprophet.
+MAT.21:46 But when they sought to lay hands on Him, they feared the multitudes, because they took Him for a prophet.
 
 ## Chapter 22
 
 MAT.22:1 And Jesus answered and spoke to them again by parables and said:
-MAT.22:2 'The kingdom of heaven is like a certain king who arranged amarriage for his son,
+MAT.22:2 'The kingdom of heaven is like a certain king who arranged a marriage for his son,
 MAT.22:3 and sent out his servants to call those who were invited to the wedding; and they were not willing to come.
 MAT.22:4 Again, he sent out other servants, saying, 'Tell those who are invited, 'See, I have prepared my dinner; my oxen and fatted cattle are killed, and all things are ready. Come to the wedding.' '
 MAT.22:5 But they made light of it and went their ways, one to his own farm, another to his business.
@@ -1039,9 +1039,9 @@ MAT.22:7 But when the king heard about it, he was furious. And he sent out his a
 MAT.22:8 Then he said to his servants, 'The wedding is ready, but those who were invited were not worthy.
 MAT.22:9 Therefore go into the highways, and as many as you find, invite to the wedding.'
 MAT.22:10 So those servants went out into the highways and gathered together all whom they found, both bad and good. And the wedding hall was filled with guests.
-MAT.22:11 'But when the king came in to see the guests, he saw a man there who did not have on awedding garment.
-MAT.22:12 So he said to him, 'Friend, how did you come in here without awedding garment?' And he was speechless.
-MAT.22:13 Then the king said to the servants, 'Bind him hand and foot, take him away, and acast him into outer darkness; there will be weeping and gnashing of teeth.'
+MAT.22:11 'But when the king came in to see the guests, he saw a man there who did not have on a wedding garment.
+MAT.22:12 So he said to him, 'Friend, how did you come in here without a wedding garment?' And he was speechless.
+MAT.22:13 Then the king said to the servants, 'Bind him hand and foot, take him away, and cast him into outer darkness; there will be weeping and gnashing of teeth.'
 MAT.22:14 'For many are called, but few are chosen.'
 MAT.22:15 A Trap for Jesus Then the Pharisees went and plotted how they might entangle Him in His talk.
 MAT.22:16 And they sent to Him their disciples with the Herodians, saying, 'Teacher, we know that You are true, and teach the way of God in truth; nor do You care about anyone, for You do not regard the person of men.
@@ -1061,13 +1061,13 @@ MAT.22:28 Therefore, in the resurrection, whose wife of the seven will she be? F
 MAT.22:29 Jesus answered and said to them, 'You are mistaken, not knowing the Scriptures nor the power of God.
 MAT.22:30 For in the resurrection they neither marry nor are given in marriage, but are like angels of God in heaven.
 MAT.22:31 But concerning the resurrection of the dead, have you not read what was spoken to you by God, saying,
-MAT.22:32 'I am the God of Abraham, the God of Isaac, and the God of Jacob'?God is not the God of the dead, but of the living.'
+MAT.22:32 'I am the God of Abraham, the God of Isaac, and the God of Jacob'? God is not the God of the dead, but of the living.'
 
 ### The Greatest Commandment
 
 MAT.22:33 And when the multitudes heard this, they were astonished at His teaching.
 MAT.22:34 But when the Pharisees heard that He had silenced the Sadducees, they gathered together.
-MAT.22:35 Then one of them, alawyer, asked Him a question, testing Him, and saying,
+MAT.22:35 Then one of them, a lawyer, asked Him a question, testing Him, and saying,
 MAT.22:36 'Teacher, which is the great commandment in the law?'
 MAT.22:37 Jesus said to him, ''You shall love the LORD your God with all your heart, with all your soul, and with all your mind.'
 MAT.22:38 This is the first and great commandment.
@@ -1102,8 +1102,8 @@ MAT.23:11 But he who is greatest among you shall be your servant.
 
 MAT.23:12 And whoever exalts himself will be humbled, and he who humbles himself will be exalted.
 MAT.23:13 'But woe to you, scribes and Pharisees, hypocrites! For you shut up the kingdom of heaven against men; for you neither go in yourselves, nor do you allow those who are entering to go in.
-MAT.23:14 Woe to you, scribes and Pharisees, hypocrites! For you devour widows' houses, and for apretense make long prayers. Therefore you will receive greater condemnation.
-MAT.23:15 'Woe to you, scribes and Pharisees, hypocrites! For you travel land and sea to win one proselyte, and when he is won, you make him twice as much ason of hell as yourselves.
+MAT.23:14 Woe to you, scribes and Pharisees, hypocrites! For you devour widows' houses, and for a pretense make long prayers. Therefore you will receive greater condemnation.
+MAT.23:15 'Woe to you, scribes and Pharisees, hypocrites! For you travel land and sea to win one proselyte, and when he is won, you make him twice as much a son of hell as yourselves.
 MAT.23:16 'Woe to you, blind guides, who say, 'Whoever swears by the temple, it is nothing; but whoever swears by the gold of the temple, he is obliged to perform it. '
 MAT.23:17 Fools and blind! For which is greater, the gold or the temple that sanctifies the gold?
 MAT.23:18 And, 'Whoever swears by the altar, it is nothing; but whoever swears by the gift that is on it, he is obliged to perform it. '
@@ -1112,7 +1112,7 @@ MAT.23:20 Therefore he who swears by the altar, swears by it and by all things o
 MAT.23:21 He who swears by the temple, swears by it and by Him who dwells in it.
 MAT.23:22 And he who swears by heaven, swears by the throne of God and by Him who sits on it.
 MAT.23:23 'Woe to you, scribes and Pharisees, hypocrites! For you pay tithe of mint and anise and cummin, and have neglected the weightier matters of the law: justice and mercy and faith.
-MAT.23:24 These you ought to have done, without leaving the others undone. Blind guides, who strain out agnat and swallow acamel!
+MAT.23:24 These you ought to have done, without leaving the others undone. Blind guides, who strain out a gnat and swallow a camel!
 MAT.23:25 'Woe to you, scribes and Pharisees, hypocrites! For you cleanse the outside of the cup and dish, but inside they are full of extortion and self-indulgence.
 MAT.23:26 Blind Pharisee, first cleanse the inside of the cup and dish, that the outside of them may be clean also.
 MAT.23:27 'Woe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs which indeed appear beautiful outwardly, but inside are full of dead men's bones and all uncleanness.
@@ -1126,7 +1126,7 @@ MAT.23:34 Therefore, indeed, I send you prophets, wise men, and scribes: some of
 MAT.23:35 that on you may come all the righteous blood shed on the earth, from the blood of righteous Abel to the blood of Zechariah, son of Berechiah, whom you murdered between the temple and the altar.
 
 MAT.23:36 Assuredly, I say to you, all these things will come upon this generation.
-MAT.23:37 'O Jerusalem, Jerusalem, the one who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, as ahen gathers her chicks under her wings, but you were not willing!
+MAT.23:37 'O Jerusalem, Jerusalem, the one who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, as a hen gathers her chicks under her wings, but you were not willing!
 MAT.23:38 See! Your house is left to you desolate;
 MAT.23:39 for I say to you, you shall see Me no more till you say, 'Blessed is He who comes in the name of the LORD!' '
 ## Chapter 24
@@ -1150,8 +1150,8 @@ MAT.24:13 But he who endures to the end shall be saved.
 
 ### The Great Tribulation
 
-MAT.24:14 And this gospel of the kingdom will be preached in all the world as awitness to all the nations, and then the end will come.
-MAT.24:15 'Therefore when you see the 'abomination of desolation,' aspoken of by Daniel the prophet, standing in the holy place' (whoever reads, let him understand),
+MAT.24:14 And this gospel of the kingdom will be preached in all the world as a witness to all the nations, and then the end will come.
+MAT.24:15 'Therefore when you see the 'abomination of desolation,' spoken of by Daniel the prophet, standing in the holy place' (whoever reads, let him understand),
 MAT.24:16 'then let those who are in Judea flee to the mountains.
 MAT.24:17 Let him who is on the housetop not go down to take anything out of his house.
 MAT.24:18 And let him who is in the field not go back to get his clothes.
@@ -1180,11 +1180,11 @@ MAT.24:38 For as in the days before the flood, they were eating and drinking, ma
 MAT.24:39 and did not know until the flood came and took them all away, so also will the coming of the Son of Man be.
 MAT.24:40 Then two men will be in the field: one will be taken and the other left.
 MAT.24:41 Two women will be grinding at the mill: one will be taken and the other left.
-MAT.24:42 Watch therefore, for you do not know what hour ayour Lord is coming.
+MAT.24:42 Watch therefore, for you do not know what hour your Lord is coming.
 MAT.24:43 But know this, that if the master of the house had known what hour the thief would come, he would have watched and not allowed his house to be broken into.
 
 MAT.24:44 Therefore you also be ready, for the Son of Man is coming at an hour you do not expect.
-MAT.24:45 'Who then is afaithful and wise servant, whom his master made ruler over his household, to give them food in due season?
+MAT.24:45 'Who then is a faithful and wise servant, whom his master made ruler over his household, to give them food in due season?
 MAT.24:46 Blessed is that servant whom his master, when he comes, will find so doing.
 MAT.24:47 Assuredly, I say to you that he will make him ruler over all his goods.
 
@@ -1201,7 +1201,7 @@ MAT.25:2 Now five of them were wise, and five were foolish.
 MAT.25:3 Those who were foolish took their lamps and took no oil with them,
 MAT.25:4 but the wise took oil in their vessels with their lamps.
 MAT.25:5 But while the bridegroom was delayed, they all slumbered and slept.
-MAT.25:6 'And at midnight acry was heard: 'Behold, the bridegroom is coming; ago out to meet him!'
+MAT.25:6 'And at midnight a cry was heard: 'Behold, the bridegroom is coming; ago out to meet him!'
 MAT.25:7 Then all those virgins arose and trimmed their lamps.
 MAT.25:8 And the foolish said to the wise, 'Give us some of your oil, for our lamps are going out.'
 MAT.25:9 But the wise answered, saying, ' No, lest there should not be enough for us and you; but go rather to those who sell, and buy for yourselves.'
@@ -1212,17 +1212,17 @@ MAT.25:12 But he answered and said, 'Assuredly, I say to you, I do not know you.
 ### We Must Be Good Stewards
 
 MAT.25:13 'Watch therefore, for you know neither the day nor the hour in which the Son of Man is coming.
-MAT.25:14 'For the kingdom of heaven is like a man traveling to afar country, who called his own servants and delivered his goods to them.
-MAT.25:15 And to one he gave five talents, to another two, and to another one, to each according to his own ability; and immediately he went on ajourney.
+MAT.25:14 'For the kingdom of heaven is like a man traveling to a far country, who called his own servants and delivered his goods to them.
+MAT.25:15 And to one he gave five talents, to another two, and to another one, to each according to his own ability; and immediately he went on a journey.
 MAT.25:16 Then he who had received the five talents went and traded with them, and made another five talents.
 MAT.25:17 And likewise he who had received two gained two more also.
 MAT.25:18 But he who had received one went and dug in the ground, and hid his lord's money.
-MAT.25:19 After along time the lord of those servants came and settled accounts with them.
+MAT.25:19 After a long time the lord of those servants came and settled accounts with them.
 MAT.25:20 'So he who had received five talents came and brought five other talents, saying, 'Lord, you delivered to me five talents; look, I have gained five more talents besides them.'
 MAT.25:21 His lord said to him, 'Well done, good and faithful servant; you were faithful over few things, I will make you ruler over many things. Enter into the joy of your lord.'
 MAT.25:22 He also who had received two talents came and said, 'Lord, you delivered to me two talents; look, I have gained two more talents besides them.'
 MAT.25:23 His lord said to him, 'Well done, good and faithful servant; you have been faithful over few things, I will make you ruler over many things. Enter into the joy of your lord.'
-MAT.25:24 'Then he who had received the one talent came and said, 'Lord, I knew you to be ahard man, reaping where you have not sown, and gathering where you have not scattered seed.
+MAT.25:24 'Then he who had received the one talent came and said, 'Lord, I knew you to be a hard man, reaping where you have not sown, and gathering where you have not scattered seed.
 MAT.25:25 And I was afraid, and went and hid your talent in the ground. Look, there you have what is yours.'
 MAT.25:26 'But his lord answered and said to him, 'You wicked and lazy servant, you knew that I reap where I have not sown, and gather where I have not scattered seed.
 MAT.25:27 So you ought to have deposited my money with the bankers, and at my coming I would have received back my own with interest.
@@ -1232,20 +1232,20 @@ MAT.25:29 'For to everyone who has, more will be given, and he will have abundan
 ### The Judgment of Works
 
 MAT.25:30 And cast the unprofitable servant into the outer darkness. There will be weeping and gnashing of teeth.'
-MAT.25:31 'When the Son of Man comes in His glory, and all the holy aangels with Him, then He will sit on the throne of His glory.
-MAT.25:32 All the nations will be gathered before Him, and He will separate them one from another, as ashepherd divides his sheep from the goats.
+MAT.25:31 'When the Son of Man comes in His glory, and all the holy angels with Him, then He will sit on the throne of His glory.
+MAT.25:32 All the nations will be gathered before Him, and He will separate them one from another, as a shepherd divides his sheep from the goats.
 MAT.25:33 And He will set the sheep on His right hand, but the goats on the left.
 MAT.25:34 Then the King will say to those on His right hand, 'Come, you blessed of My Father, inherit the kingdom prepared for you from the foundation of the world:
-MAT.25:35 for I was hungry and you gave Me food; I was thirsty and you gave Me drink; I was astranger and you took Me in;
+MAT.25:35 for I was hungry and you gave Me food; I was thirsty and you gave Me drink; I was a stranger and you took Me in;
 MAT.25:36 I was naked and you clothed Me; I was sick and you visited Me; I was in prison and you came to Me.'
 MAT.25:37 'Then the righteous will answer Him, saying, 'Lord, when did we see You hungry and feed You, or thirsty and give You drink?
-MAT.25:38 When did we see You astranger and take You in, or naked and clothe You?
+MAT.25:38 When did we see You a stranger and take You in, or naked and clothe You?
 MAT.25:39 Or when did we see You sick, or in prison, and come to You?'
 MAT.25:40 And the King will answer and say to them, 'Assuredly, I say to you, inasmuch as you did it to one of the least of these My brethren, you did it to Me.'
 MAT.25:41 'Then He will also say to those on the left hand, 'Depart from Me, you cursed, into the everlasting fire prepared for the devil and his angels:
 MAT.25:42 for I was hungry and you gave Me no food; I was thirsty and you gave Me no drink;
-MAT.25:43 I was astranger and you did not take Me in, naked and you did not clothe Me, sick and in prison and you did not visit Me.'
-MAT.25:44 'Then they also will answer Him, a saying, 'Lord, when did we see You hungry or thirsty or astranger or naked or sick or in prison, and did not minister to You?'
+MAT.25:43 I was a stranger and you did not take Me in, naked and you did not clothe Me, sick and in prison and you did not visit Me.'
+MAT.25:44 'Then they also will answer Him, a saying, 'Lord, when did we see You hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to You?'
 MAT.25:45 Then He will answer them, saying, 'Assuredly, I say to you, inasmuch as you did not do it to one of the least of these, you did not do it to Me.'
 
 ### Wednesday: The Sanhedrin's Conspiracy
@@ -1272,7 +1272,7 @@ MAT.26:12 For in pouring this fragrant oil on My body, she did it for My burial.
 
 ### Judas Betrays Jesus
 
-MAT.26:13 Assuredly, I say to you, wherever this gospel is preached in the whole world, what this woman has done will also be told as amemorial to her.'
+MAT.26:13 Assuredly, I say to you, wherever this gospel is preached in the whole world, what this woman has done will also be told as a memorial to her.'
 MAT.26:14 Then one of the twelve, called Judas Iscariot, went to the chief priests
 MAT.26:15 and said, 'What are you willing to give me if I deliver Him to you?' And they counted out to him thirty pieces of silver.
 
@@ -1293,12 +1293,12 @@ MAT.26:25 Then Judas, who was betraying Him, answered and said, 'Rabbi, is it I?
 
 MAT.26:26 And as they were eating, Jesus took bread, blessed and broke it, and gave it to the disciples and said, 'Take, eat; this is My body.' He said to him, 'You have said it.'
 MAT.26:27 Then He took the cup, and gave thanks, and gave it to them, saying, 'Drink from it, all of you.
-MAT.26:28 For this is My blood of the new acovenant, which is shed for many for the remission of sins.
+MAT.26:28 For this is My blood of the new a covenant, which is shed for many for the remission of sins.
 MAT.26:29 But I say to you, I will not drink of this fruit of the vine from now on until that day when I drink it new with you in My Father's kingdom.'
 
 ### Prediction of Peter's Denial
 
-MAT.26:30 And when they had sung ahymn, they went out to the Mount of Olives.
+MAT.26:30 And when they had sung a hymn, they went out to the Mount of Olives.
 MAT.26:31 Then Jesus said to them, 'All of you will be made to stumble because of Me this night, for it is written: 'I will strike the Shepherd, And the sheep of the flock will be scattered.'
 MAT.26:32 But after I have been raised, I will go before you to Galilee.'
 MAT.26:33 Peter answered and said to Him, 'Even if all are made to stumble because of You, I will never be made to stumble.'
@@ -1310,7 +1310,7 @@ MAT.26:38 Then He said to them, 'My soul is exceedingly sorrowful, even to death
 MAT.26:39 He went little farther and fell on His face, and prayed, saying, 'O My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as You will. '
 MAT.26:40 Then He came to the disciples and found them sleeping, and said to Peter, 'What! Could you not watch with Me one hour?
 MAT.26:41 Watch and pray, lest you enter into temptation. The spirit indeed is willing, but the flesh is weak.'
-MAT.26:42 Again, asecond time, He went away and prayed, saying, 'O My Father, if this cup cannot pass away from Me unless a I drink it, Your will be done.'
+MAT.26:42 Again, a second time, He went away and prayed, saying, 'O My Father, if this cup cannot pass away from Me unless a I drink it, Your will be done.'
 MAT.26:43 And He came and found them asleep again, for their eyes were heavy.
 MAT.26:44 So He left them, went away again, and prayed the third time, saying the same words.
 MAT.26:45 Then He came to His disciples and said to them, 'Are you still sleeping and resting? Behold, the hour is at hand, and the Son of Man is being betrayed into the hands of sinners.
@@ -1323,12 +1323,12 @@ MAT.26:51 Then they came and laid hands on Jesus and took Him. And suddenly, one
 MAT.26:52 But Jesus said to him, 'Put your sword in its place, for all who take the sword will perish by the sword.
 MAT.26:53 Or do you think that I cannot now pray to My Father, and He will provide Me with more than twelve legions of angels?
 MAT.26:54 How then could the Scriptures be fulfilled, that it must happen thus?'
-MAT.26:55 In that hour Jesus said to the multitudes, 'Have you come out, as against arobber, with swords and clubs to take Me? I sat daily with you, teaching in the temple, and you did not seize Me.
+MAT.26:55 In that hour Jesus said to the multitudes, 'Have you come out, as against a robber, with swords and clubs to take Me? I sat daily with you, teaching in the temple, and you did not seize Me.
 MAT.26:56 But all this was done that the Scriptures of the prophets might be fulfilled.'
 MAT.26:57 Then all the disciples forsook Him and fled. And those who had laid hold of Jesus led Him away to Caiaphas the high priest, where the scribes and the elders were assembled.
 MAT.26:58 But Peter followed Him at a distance to the high priest's courtyard. And he went in and sat with the servants to see the end.
 MAT.26:59 Now the chief priests, the elders, and all the council sought false testimony against Jesus to put Him to death,
-MAT.26:60 but found none. Even though many false witnesses came forward, they found none.But at last two false witnesses came forward
+MAT.26:60 but found none. Even though many false witnesses came forward, they found none. But at last two false witnesses came forward
 MAT.26:61 and said, 'This fellow said, 'I am able to destroy the temple of God and to build it in three days.' '
 MAT.26:62 And the high priest arose and said to Him, 'Do You answer nothing? What is it these men testify against You?'
 MAT.26:63 But Jesus kept silent. And the high priest answered and said to Him, 'I put You under oath by the living God: Tell us if You are the Christ, the Son of God!'
@@ -1374,15 +1374,15 @@ MAT.27:13 Then Pilate said to Him, 'Do You not hear how many things they testify
 
 MAT.27:14 But He answered him not one word, so that the governor marveled greatly.
 MAT.27:15 Now at the feast the governor was accustomed to releasing to the multitude one prisoner whom they wished.
-MAT.27:16 And at that time they had anotorious prisoner called Barabbas.
+MAT.27:16 And at that time they had a notorious prisoner called Barabbas.
 MAT.27:17 Therefore, when they had gathered together, Pilate said to them, 'Whom do you want me to release to you? Barabbas, or Jesus who is called Christ?'
 MAT.27:18 For he knew that they had handed Him over because of envy.
-MAT.27:19 While he was sitting on the judgment seat, his wife sent to him, saying, 'Have nothing to do with that just Man, for I have suffered many things today in adream because of Him.'
+MAT.27:19 While he was sitting on the judgment seat, his wife sent to him, saying, 'Have nothing to do with that just Man, for I have suffered many things today in a dream because of Him.'
 MAT.27:20 But the chief priests and elders persuaded the multitudes that they should ask for Barabbas and destroy Jesus.
 MAT.27:21 The governor answered and said to them, 'Which of the two do you want me to release to you?'
 MAT.27:22 They said, 'Barabbas!' Pilate said to them, 'What then shall I do with Jesus who is called Christ?'
 MAT.27:23 They all said to him, 'Let Him be crucified!' Then the governor said, 'Why, what evil has He done?'
-MAT.27:24 But they cried out all the more, saying, 'Let Him be crucified!' When Pilate saw that he could not prevail at all, but rather that atumult was rising, he took water and washed his hands before the multitude, saying, 'I am innocent of the blood of this just Person.You see to it. '
+MAT.27:24 But they cried out all the more, saying, 'Let Him be crucified!' When Pilate saw that he could not prevail at all, but rather that a tumult was rising, he took water and washed his hands before the multitude, saying, 'I am innocent of the blood of this just Person. You see to it. '
 MAT.27:25 And all the people answered and said, 'His blood be on us and on our children.'
 
 MAT.27:26 Then he released Barabbas to them; and when he had scourged Jesus, he delivered Him to be crucified.
@@ -1394,7 +1394,7 @@ MAT.27:30 Then they spat on Him, and took the reed and struck Him on the head.
 MAT.27:31 And when they had mocked Him, they took the robe off Him, put His own clothes on Him, and led Him away to be crucified.
 MAT.27:32 Now as they came out, they found a man of Cyrene, Simon by name. Him they compelled to bear His cross.
 MAT.27:33 And when they had come to a place called Golgotha, that is to say, Place of a Skull,
-MAT.27:34 they gave Him sour awine mingled with gall to drink. But when He had tasted it, He would not drink.
+MAT.27:34 they gave Him sour a wine mingled with gall to drink. But when He had tasted it, He would not drink.
 MAT.27:35 Then they crucified Him, and divided His garments, casting lots, that it might be fulfilled which was spoken by the prophet:
 MAT.27:36 Sitting down, they kept watch over Him there.
 
@@ -1411,7 +1411,7 @@ MAT.27:44 Even the robbers who were crucified with Him reviled Him with the same
 MAT.27:45 The Death of Jesus Now from the sixth hour until the ninth hour there was darkness over all the land.
 MAT.27:46 And about the ninth hour Jesus cried out with a loud voice, saying, 'Eli, Eli, lama sabachthani?' that is, 'My God, My God, why have You forsaken Me?'
 MAT.27:47 Some of those who stood there, when they heard that, said, 'This Man is calling for Elijah!'
-MAT.27:48 Immediately one of them ran and took asponge, filled it with sour wine and put it on a reed, and offered it to Him to drink.
+MAT.27:48 Immediately one of them ran and took a sponge, filled it with sour wine and put it on a reed, and offered it to Him to drink.
 MAT.27:49 The rest said, 'Let Him alone; let us see if Elijah will come to save Him.'
 MAT.27:50 And Jesus cried out again with a loud voice, and yielded up His spirit.
 MAT.27:51 Then, behold, the veil of the temple was torn in two from top to bottom; and the earth quaked, and the rocks were split,
@@ -1435,7 +1435,7 @@ MAT.27:61 And Mary Magdalene was there, and the other Mary, sitting opposite the
 MAT.27:62 On the next day, which followed the Day of Preparation, the chief priests and Pharisees gathered together to Pilate,
 MAT.27:63 saying, 'Sir, we remember, while He was still alive, how that deceiver said, 'After three days I will rise.'
 MAT.27:64 Therefore command that the tomb be made secure until the third day, lest His disciples come by night and steal Him away, and say to the people, 'He has risen from the dead.' So the last deception will be worse than the first.'
-MAT.27:65 Pilate said to them, 'You have aguard; go your way, make it as secure as you know how.'
+MAT.27:65 Pilate said to them, 'You have a guard; go your way, make it as secure as you know how.'
 
 ### Sunday: Christ Is Risen
 
@@ -1454,7 +1454,7 @@ MAT.28:7 And go quickly and tell His disciples that He is risen from the dead, a
 ### Jesus Appears to the Women
 
 MAT.28:8 So they went out quickly from the tomb with fear and great joy, and ran to bring His disciples word.
-MAT.28:9 And as they went to tell His disciples, abehold, Jesus met them, saying, 'Rejoice!' So they came and held Him by the feet and worshiped Him.
+MAT.28:9 And as they went to tell His disciples, behold, Jesus met them, saying, 'Rejoice!' So they came and held Him by the feet and worshiped Him.
 
 ### Deceit of Jewish Authorities
 

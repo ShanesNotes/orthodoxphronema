@@ -219,7 +219,7 @@ JER.6:16 Thus says the Lord: 'Stand in the ways and see, and ask about the etern
 JER.6:17 I set watchmen over you. Listen to the sound of their trumpet. But they said, 'We will not listen.'
 JER.6:18 Therefore the Gentiles heard, and those who shepherd their flocks.
 JER.6:19 Hear, O earth. Behold, I will bring evils upon this people, the fruit of their turning away, because they did not heed My words, but rejected My law.
-JER.6:20 Why do you bring frankincense to Me from Sheba and cinnamon from afar country? Your whole burnt offerings are not acceptable, and your sacrifices are not sweet to Me.'
+JER.6:20 Why do you bring frankincense to Me from Sheba and cinnamon from a far country? Your whole burnt offerings are not acceptable, and your sacrifices are not sweet to Me.'
 JER.6:21 Therefore thus says the Lord: 'Behold, I will bring weakness upon this people, and the fathers and the sons together shall be weak. The neighbor and his friend shall perish.'
 JER.6:22 Thus says the Lord: 'Behold, a people will come from the north, and a nation will be raised from the farthest parts of the earth.
 JER.6:23 They will take hold of bow and spear; and they are reckless and will show no mercy. Their voice is like the roaring sea, and they are deployed on horses and chariots. They shall draw up in battle order as a fire for war against you, O daughter of Zion.'

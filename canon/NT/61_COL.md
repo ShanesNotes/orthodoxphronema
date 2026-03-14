@@ -28,7 +28,7 @@ COL.1:6 which has come to you, as it has also in all the world, and is bringing 
 
 ### Petition for Continued Growth
 
-COL.1:7 as you also learned from Epaphras, our dear fellow servant, who is afaithful minister of Christ on your behalf,
+COL.1:7 as you also learned from Epaphras, our dear fellow servant, who is a faithful minister of Christ on your behalf,
 COL.1:8 who also declared to us your love in the Spirit.
 COL.1:9 For this reason we also, since the day we heard it, do not cease to pray for you, and to ask that you may be filled with the knowledge of His will in all wisdom and spiritual understanding;
 COL.1:10 that you may walk worthy of the Lord, fully pleasing Him, being fruitful in every good work and increasing in the knowledge of God;
@@ -53,9 +53,9 @@ COL.1:22 in the body of His flesh through death, to present you holy, and blamel
 
 ### Paul's Sacrificial Service
 
-COL.1:23 if indeed you continue in the faith, grounded and steadfast, and are not moved away from the hope of the gospel which you heard, which was preached to every creature under heaven, of which I, Paul, became aminister.
+COL.1:23 if indeed you continue in the faith, grounded and steadfast, and are not moved away from the hope of the gospel which you heard, which was preached to every creature under heaven, of which I, Paul, became a minister.
 COL.1:24 I now rejoice in my sufferings for you, and fill up in my flesh what is lacking in the afflictions of Christ, for the sake of His body, which is the church,
-COL.1:25 of which I became aminister according to the stewardship from God which was given to me for you, to fulfill the word of God,
+COL.1:25 of which I became a minister according to the stewardship from God which was given to me for you, to fulfill the word of God,
 COL.1:26 the mystery which has been hidden from ages and from generations, but now has been revealed to His saints.
 COL.1:27 To them God willed to make known what are the riches of the glory of this mystery among the Gentiles: which is Christ in you, the hope of glory.
 COL.1:28 Him we preach, warning every man and teaching every man in all wisdom, that we may present every man perfect in Christ Jesus.
@@ -85,10 +85,10 @@ COL.2:14 having wiped out the handwriting of requirements that was against us, w
 
 ### Against False Spirituality
 
-COL.2:15 Having disarmed principalities and powers, He made apublic spectacle of them, triumphing over them in it.
+COL.2:15 Having disarmed principalities and powers, He made a public spectacle of them, triumphing over them in it.
 COL.2:16 So let no one judge you in food or in drink, or regarding a festival or new moon or sabbaths,
-COL.2:17 which are ashadow of things to come, but the substance is of Christ.
-COL.2:18 Let no one cheat you of your reward, taking delight in false humility and worship of angels, intruding into those things which he has not aseen, vainly puffed up by his fleshly mind,
+COL.2:17 which are a shadow of things to come, but the substance is of Christ.
+COL.2:18 Let no one cheat you of your reward, taking delight in false humility and worship of angels, intruding into those things which he has not seen, vainly puffed up by his fleshly mind,
 COL.2:19 and not holding fast to the Head, from whom all the body, nourished and knit together by joints and ligaments, grows with the increase that is from God.
 COL.2:20 Therefore, if you died with Christ from the basic principles of the world, why, as though living in the world, do you subject yourselves to regulations-
 COL.2:21 'Do not touch, do not taste, do not handle,'
@@ -111,7 +111,7 @@ COL.3:9 Do not lie to one another, since you have put off the old man with his d
 COL.3:10 and have put on the new man who is renewed in knowledge according to the image of Him who created him,
 COL.3:11 where there is neither Greek nor Jew, circumcised nor uncircumcised, barbarian, Scythian, slave nor free, but Christ is all and in all.
 COL.3:12 Therefore, as the elect of God, holy and beloved, put on tender mercies, kindness, humility, meekness, longsuffering;
-COL.3:13 bearing with one another, and forgiving one another, if anyone has acomplaint against another; even as Christ forgave you, so you also must do.
+COL.3:13 bearing with one another, and forgiving one another, if anyone has a complaint against another; even as Christ forgave you, so you also must do.
 COL.3:14 But above all these things put on love, which is the bond of perfection.
 COL.3:15 And let the peace of God rule in your hearts, to which also you were called in one body; and be thankful.
 COL.3:16 Let the word of Christ dwell in you richly in all wisdom, teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
@@ -141,12 +141,12 @@ COL.4:5 Walk in wisdom toward those who are outside, redeeming the time.
 ### Greetings and Instructions
 
 COL.4:6 Let your speech always be with grace, seasoned with salt, that you may know how you ought to answer each one.
-COL.4:7 Tychicus, abeloved brother, faithful minister, and fellow servant in the Lord, will tell you all the news about me.
+COL.4:7 Tychicus, a beloved brother, faithful minister, and fellow servant in the Lord, will tell you all the news about me.
 COL.4:8 I am sending him to you for this very purpose, that he may know your circumstances and comfort your hearts,
-COL.4:9 with Onesimus, afaithful and beloved brother, who is one of you. They will make known to you all things which are happening here.
+COL.4:9 with Onesimus, a faithful and beloved brother, who is one of you. They will make known to you all things which are happening here.
 COL.4:10 Aristarchus my fellow prisoner greets you, with Mark the cousin of Barnabas (about whom you received instructions: if he comes to you, welcome him),
-COL.4:11 and Jesus who is called Justus. These are my only fellow workers for the kingdom of God who are of the circumcision; they have proved to be acomfort to me.
-COL.4:12 Epaphras, who is one of you, abondservant of Christ, greets you, always laboring fervently for you in prayers, that you may stand perfect and complete in all the will of God.
+COL.4:11 and Jesus who is called Justus. These are my only fellow workers for the kingdom of God who are of the circumcision; they have proved to be a comfort to me.
+COL.4:12 Epaphras, who is one of you, a bondservant of Christ, greets you, always laboring fervently for you in prayers, that you may stand perfect and complete in all the will of God.
 COL.4:13 For I bear him witness that he has great zeal for you, and those who are in Laodicea, and those in Hierapolis.
 COL.4:14 Luke the beloved physician and Demas greet you.
 COL.4:15 Greet the brethren who are in Laodicea, and Nymphas and the church that is in his a house.

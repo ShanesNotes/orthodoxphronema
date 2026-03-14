@@ -326,7 +326,7 @@ EST.9:21 for on these days the Jews had rest from their enemies. Thus Adar is th
 EST.9:22 The Jews accepted everything just as Mordecai wrote to them
 EST.9:23 how Haman the son of Hamadatha, the Macedonian, warred against them; how he had made a decree and cast lots to exterminate them
 EST.9:24 how he had gone to the king telling him to hang Mordecai; and how all the evils he plotted against the Jews came upon himself, and how he was hanged, he and his children.
-EST.9:25 Therefore these days were called Purim-on account of the lots (because in their language they are called pur ), because of the words of this letter, and because of all they had suffered on account of these things and all that had happened to them.
+EST.9:25 Therefore these days were called Purim-on account of the lots (because in their language they are called pur), because of the words of this letter, and because of all they had suffered on account of these things and all that had happened to them.
 EST.9:26 Mordecai established it, and the Jews took it upon themselves, their descendants, and upon those joining with them not to do otherwise. And these days are to be a memorial throughout every generation, and city, and family, and province.
 EST.9:27 Thus these days of Purim shall be observed forever, and their remembrance shall not cease in any generation.
 

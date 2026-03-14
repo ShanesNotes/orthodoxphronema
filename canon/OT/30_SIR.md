@@ -1300,7 +1300,7 @@ SIR.23:27 Those left behind will know There is nothing better than the fear of t
 
 ## Chapter 24
 
-SIR.24:1 Faint not to be strong in the Lord; That He may confirm you, cleave unto Him : For the Lord Almighty is God alone, And beside Him there is no other Savior.
+SIR.24:1 Faint not to be strong in the Lord; That He may confirm you, cleave unto Him: For the Lord Almighty is God alone, And beside Him there is no other Savior.
 
 SIR.24:2 In the assembly of the Most High, she will open her mouth And boast in the presence of His host.
 
@@ -1812,7 +1812,7 @@ SIR.32:24 He who believes in the Law heeds the commandments, And he who trusts i
 
 ## Chapter 33
 
-SIR.33:1 If you treat him badly and he runs away, Which way will you go look for him ? Discerning Dreams
+SIR.33:1 If you treat him badly and he runs away, Which way will you go look for him? Discerning Dreams
 
 SIR.33:2 A wise man will not hate the law, But he who pretends to keep it is like a ship in a storm.
 

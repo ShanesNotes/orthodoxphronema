@@ -20,7 +20,7 @@ JOH.1:3 All things were made through Him, and without Him nothing was made that 
 JOH.1:4 In Him was life, and the life was the light of men.
 JOH.1:5 And the light shines in the darkness, and the darkness did not comprehend it.
 JOH.1:6 There was a man sent from God, whose name was John.
-JOH.1:7 This man came for awitness, to bear witness of the Light, that all through him might believe.
+JOH.1:7 This man came for a witness, to bear witness of the Light, that all through him might believe.
 JOH.1:8 He was not that Light, but was sent to bear witness of that Light.
 JOH.1:9 That was the true Light which gives light to every man coming into the world.
 JOH.1:10 He was in the world, and the world was made through Him, and the world did not know Him.
@@ -53,11 +53,11 @@ JOH.1:27 It is He who, coming after me, is preferred before me, whose sandal str
 
 ### The Baptist's Testimony to Christ
 
-JOH.1:28 These things were done in Bethabara abeyond the Jordan, where John was baptizing.
+JOH.1:28 These things were done in Bethabara beyond the Jordan, where John was baptizing.
 JOH.1:29 The next day John saw Jesus coming toward him, and said, 'Behold! The Lamb of God who takes away the sin of the world!
 JOH.1:30 This is He of whom I said, 'After me comes a Man who is preferred before me, for He was before me.'
 JOH.1:31 I did not know Him; but that He should be revealed to Israel, therefore I came baptizing with water.'
-JOH.1:32 And John bore witness, saying, 'I saw the Spirit descending from heaven like adove, and He remained upon Him.
+JOH.1:32 And John bore witness, saying, 'I saw the Spirit descending from heaven like a dove, and He remained upon Him.
 JOH.1:33 I did not know Him, but He who sent me to baptize with water said to me, 'Upon whom you see the Spirit descending, and remaining on Him, this is He who baptizes with the Holy Spirit.'
 
 ### The Baptist's Disciples Follow Jesus
@@ -71,7 +71,7 @@ JOH.1:39 They said to Him, 'Rabbi' (which is to say, when translated, Teacher), 
 JOH.1:40 One of the two who heard John speak, and followed Him, was Andrew, Simon Peter's brother.
 JOH.1:41 He first found his own brother Simon, and said to him, 'We have found the Messiah' (which is translated, the Christ).
 JOH.1:42 And he brought him to Jesus.
-JOH.1:43 Now when Jesus looked at him, He said, 'You are Simon the son of Jonah.You shall be called Cephas' (which is translated, A Stone). The following day Jesus wanted to go to Galilee, and He found Philip and said to him, 'Follow Me.'
+JOH.1:43 Now when Jesus looked at him, He said, 'You are Simon the son of Jonah. You shall be called Cephas' (which is translated, A Stone). The following day Jesus wanted to go to Galilee, and He found Philip and said to him, 'Follow Me.'
 JOH.1:44 Now Philip was from Bethsaida, the city of Andrew and Peter.
 JOH.1:45 Philip found Nathanael and said to him, 'We have found Him of whom Moses in the law, and also the prophets, wrote-Jesus of Nazareth, the son of Joseph.'
 JOH.1:46 And Nathanael said to him, 'Can anything good come out of Nazareth?'
@@ -85,7 +85,7 @@ JOH.1:50 Jesus answered and said to him, 'Because I said to you, 'I saw you unde
 JOH.1:51 And He said to him, 'Most assuredly, I say to you, hereafter you shall see heaven open, and the angels of God ascending and descending upon the Son of Man.'
 ## Chapter 2
 
-JOH.2:1 In the third day there was awedding in Cana of Galilee, and the mother of Jesus was there.
+JOH.2:1 In the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there.
 JOH.2:2 Now both Jesus and His disciples were invited to the wedding.
 JOH.2:3 And when they ran out of wine, the mother of Jesus said to Him, 'They have no wine.'
 JOH.2:4 Jesus said to her, 'Woman, what does your concern have to do with Me? My hour has not yet come.'
@@ -102,7 +102,7 @@ JOH.2:11 This beginning of signs Jesus did in Cana of Galilee, and manifested Hi
 JOH.2:12 After this He went down to Capernaum, He, His mother, His brothers, and His disciples; and they did not stay there many days.
 JOH.2:13 Now the Passover of the Jews was at hand, and Jesus went up to Jerusalem.
 JOH.2:14 And He found in the temple those who sold oxen and sheep and doves, and the money changers doing business.
-JOH.2:15 When He had made awhip of cords, He drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overturned the tables.
+JOH.2:15 When He had made a whip of cords, He drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overturned the tables.
 JOH.2:16 And He said to those who sold doves, 'Take these things away! Do not make My Father's house a house of merchandise!'
 JOH.2:17 Then His disciples remembered that it was written, 'Zeal for Your house has eaten a Me up.'
 JOH.2:18 So the Jews answered and said to Him, 'What sign do You show to us, since You do these things?'
@@ -121,7 +121,7 @@ JOH.2:25 and had no need that anyone should testify of man, for He knew what was
 JOH.3:1 There was a man of the Pharisees named Nicodemus, a ruler of the Jews.
 JOH.3:2 This man came to Jesus by night and said to Him, 'Rabbi, we know that You are a teacher come from God; for no one can do these signs that You do unless God is with him.'
 JOH.3:3 Jesus answered and said to him, 'Most assuredly, I say to you, unless one is born again, he cannot see the kingdom of God.'
-JOH.3:4 Nicodemus said to Him, 'How can a man be born when he is old? Can he enter asecond time into his mother's womb and be born?'
+JOH.3:4 Nicodemus said to Him, 'How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?'
 JOH.3:5 Jesus answered, 'Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God.
 JOH.3:6 That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.
 JOH.3:7 Do not marvel that I said to you, 'You must be born again.'
@@ -148,7 +148,7 @@ JOH.3:21 But he who does the truth comes to the light, that his deeds may be cle
 JOH.3:22 After these things Jesus and His disciples came into the land of Judea, and there He remained with them and baptized.
 JOH.3:23 Now John also was baptizing in Aenon near Salim, because there was much water there. And they came and were baptized.
 JOH.3:24 For John had not yet been thrown into prison.
-JOH.3:25 Then there arose adispute between some of John's disciples and the Jews about purification.
+JOH.3:25 Then there arose a dispute between some of John's disciples and the Jews about purification.
 JOH.3:26 And they came to John and said to him, 'Rabbi, He who was with you beyond the Jordan, to whom you have testified-behold, He is baptizing, and all are coming to Him!'
 JOH.3:27 John answered and said, 'A man can receive nothing unless it has been given to him from heaven.
 JOH.3:28 You yourselves bear me witness, that I said, 'I am not the Christ,' but, 'I have been sent before Him.'
@@ -169,19 +169,19 @@ JOH.4:3 He left Judea and departed again to Galilee.
 JOH.4:4 But He needed to go through Samaria.
 JOH.4:5 So He came to a city of Samaria which is called Sychar, near the plot of ground that Jacob gave to his son Joseph.
 JOH.4:6 Now Jacob's well was there. Jesus therefore, being wearied from His journey, sat thus by the well. It was about the sixth hour.
-JOH.4:7 A woman of Samaria came to draw water. Jesus said to her, 'Give Me adrink.'
+JOH.4:7 A woman of Samaria came to draw water. Jesus said to her, 'Give Me a drink.'
 JOH.4:8 For His disciples had gone away into the city to buy food.
-JOH.4:9 Then the woman of Samaria said to Him, 'How is it that You, being a Jew, ask adrink from me,Samaritan woman?' For Jews have no dealings with Samaritans.
-JOH.4:10 Jesus answered and said to her, 'If you knew the gift of God, and who it is who says to you, 'Give Me adrink,' you would have asked Him, and He would have given you living water.'
+JOH.4:9 Then the woman of Samaria said to Him, 'How is it that You, being a Jew, ask a drink from me, Samaritan woman?' For Jews have no dealings with Samaritans.
+JOH.4:10 Jesus answered and said to her, 'If you knew the gift of God, and who it is who says to you, 'Give Me a drink,' you would have asked Him, and He would have given you living water.'
 JOH.4:11 The woman said to Him, 'Sir, You have nothing to draw with, and the well is deep. Where then do You get that living water?
 JOH.4:12 Are You greater than our father Jacob, who gave us the well, and drank from it himself, as well as his sons and his livestock?'
 JOH.4:13 Jesus answered and said to her, 'Whoever drinks of this water will thirst again,
-JOH.4:14 but whoever drinks of the water that I shall give him will never thirst. But the water that I shall give him will become in him afountain of water springing up into everlasting life.'
+JOH.4:14 but whoever drinks of the water that I shall give him will never thirst. But the water that I shall give him will become in him a fountain of water springing up into everlasting life.'
 JOH.4:15 The woman said to Him, 'Sir, give me this water, that I may not thirst, nor come here to draw.'
 JOH.4:16 Jesus said to her, 'Go, call your husband, and come here.'
 JOH.4:17 The woman answered and said, 'I have no husband.'
 JOH.4:18 Jesus said to her, 'You have well said, 'I have no husband,' 18 for you have had five husbands, and the one whom you now have is not your husband; in that you spoke truly.'
-JOH.4:19 The woman said to Him, 'Sir, I perceive that You are aprophet.
+JOH.4:19 The woman said to Him, 'Sir, I perceive that You are a prophet.
 JOH.4:20 Our fathers worshiped on this mountain, and you Jews say that in Jerusalem is the place where one ought to worship.'
 JOH.4:21 Jesus said to her, 'Woman, believe Me, the hour is coming when you will neither on this mountain, nor in Jerusalem, worship the Father.
 JOH.4:22 You worship what you do not know; we know what we worship, for salvation is of the Jews.
@@ -207,7 +207,7 @@ JOH.4:40 So when the Samaritans had come to Him, they urged Him to stay with the
 JOH.4:41 And many more believed because of His own word.
 JOH.4:42 Then they said to the woman, 'Now we believe, not because of what you said, for we ourselves have heard Him and we know that this is indeed the Christ, the Savior of the world.'
 JOH.4:43 Now after the two days He departed from there and went to Galilee.
-JOH.4:44 For Jesus Himself testified that aprophet has no honor in his own country.
+JOH.4:44 For Jesus Himself testified that a prophet has no honor in his own country.
 
 ### A Nobleman's Son Is Healed
 
@@ -226,20 +226,20 @@ JOH.4:53 So the father knew that it was at the same hour in which Jesus said to 
 JOH.4:54 This again is the second sign Jesus did when He had come out of Judea into Galilee.
 ## Chapter 5
 
-JOH.5:1 After this there was afeast of the Jews, and Jesus went up to Jerusalem.
-JOH.5:2 Now there is in Jerusalem by the Sheep Gate apool, which is called in Hebrew, Bethesda, ahaving five porches.
+JOH.5:1 After this there was a feast of the Jews, and Jesus went up to Jerusalem.
+JOH.5:2 Now there is in Jerusalem by the Sheep Gate a pool, which is called in Hebrew, Bethesda, having five porches.
 JOH.5:3 In these lay great multitude of sick people, blind, lame, paralyzed, waiting for the moving of the water.
 JOH.5:4 For an angel went down at a certain time into the pool and stirred up the water; then whoever stepped in first, after the stirring of the water, was made well of whatever disease he had.
 JOH.5:5 Now a certain man was there who had an infirmity thirty-eight years.
-JOH.5:6 When Jesus saw him lying there, and knew that he already had been in that condition along time, He said to him, 'Do you want to be made well?'
+JOH.5:6 When Jesus saw him lying there, and knew that he already had been in that condition a long time, He said to him, 'Do you want to be made well?'
 JOH.5:7 The sick man answered Him, 'Sir, I have no man to put me into the pool when the water is stirred up; but while I am coming, another steps down before me.'
 JOH.5:8 Jesus said to him, 'Rise, take up your bed and walk.'
 JOH.5:9 And immediately the man was made well, took up his bed, and walked.
 JOH.5:10 And that day was the Sabbath. The Jews therefore said to him who was cured, 'It is the Sabbath; it is not lawful for you to carry your bed.'
 JOH.5:11 He answered them, 'He who made me well said to me, 'Take up your bed and walk.' '
 JOH.5:12 Then they asked him, 'Who is the Man who said to you, 'Take up your bed and walk'?'
-JOH.5:13 But the one who was healed did not know who it was, for Jesus had withdrawn, amultitude being in that place.
-JOH.5:14 Afterward Jesus found him in the temple, and said to him, 'See, you have been made well. Sin no more, lest aworse thing come upon you.'
+JOH.5:13 But the one who was healed did not know who it was, for Jesus had withdrawn, a multitude being in that place.
+JOH.5:14 Afterward Jesus found him in the temple, and said to him, 'See, you have been made well. Sin no more, lest a worse thing come upon you.'
 
 ### Father and Son Work Together
 
@@ -264,7 +264,7 @@ JOH.5:32 There is another who bears witness of Me, and I know that the witness w
 JOH.5:33 You have sent to John, and he has borne witness to the truth.
 JOH.5:34 Yet I do not receive testimony from man, but I say these things that you may be saved.
 JOH.5:35 He was the burning and shining lamp, and you were willing for time to rejoice in his light.
-JOH.5:36 But I have agreater witness than John's; for the works which the Father has given Me to finish-the very works that I do-bear witness of Me, that the Father has sent Me.
+JOH.5:36 But I have a greater witness than John's; for the works which the Father has given Me to finish-the very works that I do-bear witness of Me, that the Father has sent Me.
 JOH.5:37 And the Father Himself, who sent Me, has testified of Me. You have neither heard His voice at any time, nor seen His form.
 JOH.5:38 But you do not have His word abiding in you, because whom He sent, Him you do not believe.
 JOH.5:39 You search the Scriptures, for in them you think you have eternal life; and these are they which testify of Me.
@@ -285,12 +285,12 @@ JOH.5:48
 JOH.6:1 After these things Jesus went over the Sea of Galilee, which is the Sea of Tiberias.
 JOH.6:2 Then great multitude followed Him, because they saw His signs which He performed on those who were diseased.
 JOH.6:3 And Jesus went up on the mountain, and there He sat with His disciples.
-JOH.6:4 Now the Passover, afeast of the Jews, was near.
+JOH.6:4 Now the Passover, a feast of the Jews, was near.
 JOH.6:5 Then Jesus lifted up His eyes, and seeing great multitude coming toward Him, He said to Philip, 'Where shall we buy bread, that these may eat?'
 JOH.6:6 But this He said to test him, for He Himself knew what He would do.
 JOH.6:7 Philip answered Him, 'Two hundred denarii worth of bread is not sufficient for them, that every one of them may have little.'
 JOH.6:8 One of His disciples, Andrew, Simon Peter's brother, said to Him,
-JOH.6:9 'There is alad here who has five barley loaves and two small fish, but what are they among so many?'
+JOH.6:9 'There is a lad here who has five barley loaves and two small fish, but what are they among so many?'
 JOH.6:10 Then Jesus said, 'Make the people sit down.' Now there was much grass in the place. So the men sat down, in number about five thousand.
 JOH.6:11 And Jesus took the loaves, and when He had given thanks He distributed them to the disciples, and the disciples to those sitting down; and likewise of the fish, as much as they wanted.
 JOH.6:12 So when they were filled, He said to His disciples, 'Gather up the fragments that remain, so that nothing is lost.'
@@ -356,7 +356,7 @@ JOH.6:58 This is the bread which came down from heaven -not as your fathers ate 
 ### The Words of Eternal Life
 
 JOH.6:59 These things He said in the synagogue as He taught in Capernaum.
-JOH.6:60 Therefore many of His disciples, when they heard this, said, 'This is ahard saying; who can understand it?'
+JOH.6:60 Therefore many of His disciples, when they heard this, said, 'This is a hard saying; who can understand it?'
 JOH.6:61 When Jesus knew in Himself that His disciples complained about this, He said to them, 'Does this offend you?
 JOH.6:62 What then if you should see the Son of Man ascend where He was before?
 JOH.6:63 It is the Spirit who gives life; the flesh profits nothing. The words that I speak to you are spirit, and they are life.
@@ -366,21 +366,21 @@ JOH.6:66 From that time many of His disciples went back and walked with Him no m
 JOH.6:67 Then Jesus said to the twelve, 'Do you also want to go away?'
 JOH.6:68 But Simon Peter answered Him, 'Lord, to whom shall we go? You have the words of eternal life.
 JOH.6:69 Also we have come to believe and know that You are the Christ, the Son of the living God.'
-JOH.6:70 Jesus answered them, 'Did I not choose you, the twelve, and one of you is adevil?'
+JOH.6:70 Jesus answered them, 'Did I not choose you, the twelve, and one of you is a devil?'
 
 ### Jesus at the Feast of Tabernacles
 
 JOH.6:71 He spoke of Judas Iscariot, the son of Simon, for it was he who would betray Him, being one of the twelve.
 ## Chapter 7
 
-JOH.7:1 After these things Jesus walked in Galilee; for He did not want to walk in Judea, because the Jews asought to kill Him.
+JOH.7:1 After these things Jesus walked in Galilee; for He did not want to walk in Judea, because the Jews sought to kill Him.
 JOH.7:2 Now the Jews' Feast of Tabernacles was at hand.
 JOH.7:3 His brothers therefore said to Him, 'Depart from here and go into Judea, that Your disciples also may see the works that You are doing.
 JOH.7:4 For no one does anything in secret while he himself seeks to be known openly. If You do these things, show Yourself to the world.'
 JOH.7:5 For even His brothers did not believe in Him.
 JOH.7:6 Then Jesus said to them, 'My time has not yet come, but your time is always ready.
 JOH.7:7 The world cannot hate you, but it hates Me because I testify of it that its works are evil.
-JOH.7:8 You go up to this feast. I am not yet agoing up to this feast, for My time has not yet fully come.'
+JOH.7:8 You go up to this feast. I am not yet going up to this feast, for My time has not yet fully come.'
 JOH.7:9 When He had said these things to them, He remained in Galilee.
 JOH.7:10 But when His brothers had gone up, then He also went up to the feast, not openly, but as it were in secret.
 JOH.7:11 Then the Jews sought Him at the feast, and said, 'Where is He?'
@@ -391,7 +391,7 @@ JOH.7:12 And there was much complaining among the people concerning Him. Some sa
 JOH.7:13 However, no one spoke openly of Him for fear of the Jews.
 JOH.7:14 Now about the middle of the feast Jesus went up into the temple and taught.
 JOH.7:15 And the Jews marveled, saying, 'How does this Man know letters, having never studied?'
-JOH.7:16 Jesus aanswered them and said, 'My doctrine is not Mine, but His who sent Me.
+JOH.7:16 Jesus answered them and said, 'My doctrine is not Mine, but His who sent Me.
 JOH.7:17 If anyone wills to do His will, he shall know concerning the doctrine, whether it is from God or whether I speak on My own authority.
 JOH.7:18 He who speaks from himself seeks his own glory; but He who seeks the glory of the One who sent Him is true, and no unrighteousness is in Him.
 JOH.7:19 Did not Moses give you the law, yet none of you keeps the law? Why do you seek to kill Me?'
@@ -424,7 +424,7 @@ JOH.7:39 But this He spoke concerning the Spirit, whom those believing in Him wo
 JOH.7:40 Therefore many from the crowd, when they heard this saying, said, 'Truly this is the Prophet.'
 JOH.7:41 Others said, 'This is the Christ.'
 JOH.7:42 But some said, 'Will the Christ come out of Galilee? Has not the Scripture said that the Christ comes from the seed of David and from the town of Bethlehem, where David was?'
-JOH.7:43 So there was adivision among the people because of Him.
+JOH.7:43 So there was a division among the people because of Him.
 JOH.7:44 Now some of them wanted to take Him, but no one laid hands on Him.
 JOH.7:45 Then the officers came to the chief priests and Pharisees, who said to them, 'Why have you not brought Him?'
 JOH.7:46 The officers answered, 'No man ever spoke like this Man!'
@@ -433,7 +433,7 @@ JOH.7:48 Have any of the rulers or the Pharisees believed in Him?
 JOH.7:49 But this crowd that does not know the law is accursed.'
 JOH.7:50 Nicodemus (he who came to Jesus by night, being one of them) said to them,
 JOH.7:51 'Does our law judge a man before it hears him and knows what he is doing?'
-JOH.7:52 They answered and said to him, 'Are you also from Galilee? Search and look, for no prophet has arisen aout of Galilee.'
+JOH.7:52 They answered and said to him, 'Are you also from Galilee? Search and look, for no prophet has arisen out of Galilee.'
 
 ### Jesus Restores the Adulterous Woman
 
@@ -444,17 +444,17 @@ JOH.8:1 But Jesus went to the Mount of Olives.
 JOH.8:2 1 Now early in the morning He came again into the temple, and all the people came to Him; and He sat down and taught them.
 JOH.8:3 Then the scribes and Pharisees brought to Him a woman caught in adultery. And when they had set her in the midst,
 JOH.8:4 they said to Him, 'Teacher, this woman was caught in adultery, in the very act.
-JOH.8:5 Now Moses, in the law, commanded us that such should be stoned.But what do You say?'
+JOH.8:5 Now Moses, in the law, commanded us that such should be stoned. But what do You say?'
 JOH.8:6 This they said, testing Him, that they might have something of which to accuse Him. But Jesus stooped down and wrote on the ground with His finger, as though He did not hear.
 JOH.8:7 So when they continued asking Him, He raised Himself up and said to them, 'He who is without sin among you, let him throw a stone at her first.'
 JOH.8:8 And again He stooped down and wrote on the ground.
 JOH.8:9 Then those who heard it, being convicted by their conscience, went out one by one, beginning with the oldest even to the last. And Jesus was left alone, and the woman standing in the midst.
-JOH.8:10 When Jesus had raised Himself up and saw no one but the woman, He said to her,'Woman, where are those accusers of yours?Has no one condemned you?'
+JOH.8:10 When Jesus had raised Himself up and saw no one but the woman, He said to her,'Woman, where are those accusers of yours? Has no one condemned you?'
 JOH.8:11 She said, 'No one, Lord.'
 
 ### Jesus, Light of the World
 
-JOH.8:12 And Jesus said to her, 'Neither do I condemn you; go and asin no more.' Then Jesus spoke to them again, saying, 'I am the light of the world. He who follows Me shall not walk in darkness, but have the light of life.'
+JOH.8:12 And Jesus said to her, 'Neither do I condemn you; go and sin no more.' Then Jesus spoke to them again, saying, 'I am the light of the world. He who follows Me shall not walk in darkness, but have the light of life.'
 JOH.8:13 The Pharisees therefore said to Him, 'You bear witness of Yourself; Your witness is not true.'
 JOH.8:14 Jesus answered and said to them, 'Even if I bear witness of Myself, My witness is true, for I know where I came from and where I am going; but you do not know where I come from and where I am going.
 JOH.8:15 You judge according to the flesh; I judge no one.
@@ -480,19 +480,19 @@ JOH.8:31 Then Jesus said to those Jews who believed Him, 'If you abide in My wor
 JOH.8:32 And you shall know the truth, and the truth shall make you free.'
 JOH.8:33 They answered Him, 'We are Abraham's descendants, and have never been in bondage to anyone. How can You say, 'You will be made free'?'
 JOH.8:34 Jesus answered them, 'Most assuredly, I say to you, whoever commits sin is a slave of sin.
-JOH.8:35 And a slave does not abide in the house forever, but ason abides forever.
+JOH.8:35 And a slave does not abide in the house forever, but a son abides forever.
 
 ### Sons of the Devil Reject the Son of God
 
 JOH.8:36 Therefore if the Son makes you free, you shall be free indeed.
 JOH.8:37 'I know that you are Abraham's descendants, but you seek to kill Me, because My word has no place in you.
-JOH.8:38 I speak what I have seen with My Father, and you do what you have seen with ayour father.'
+JOH.8:38 I speak what I have seen with My Father, and you do what you have seen with your father.'
 JOH.8:39 They answered and said to Him, 'Abraham is our father.'
-JOH.8:40 Jesus said to them, 'If you were Abraham's children, you would do the works of Abraham. But now you seek to kill Me,Man who has told you the truth which I heard from God. Abraham did not do this.
+JOH.8:40 Jesus said to them, 'If you were Abraham's children, you would do the works of Abraham. But now you seek to kill Me, Man who has told you the truth which I heard from God. Abraham did not do this.
 JOH.8:41 You do the deeds of your father.'
 JOH.8:42 Then they said to Him, 'We were not born of fornication; we have one Father-God.' Jesus said to them, 'If God were your Father, you would love Me, for I proceeded forth and came from God; nor have I come of Myself, but He sent Me.
 JOH.8:43 Why do you not understand My speech? Because you are not able to listen to My word.
-JOH.8:44 You are of your father the devil, and the desires of your father you want to do. He was amurderer from the beginning, and does not stand in the truth, because there is no truth in him. When he speaks a lie, he speaks from his own resources, for he is a liar and the father of it.
+JOH.8:44 You are of your father the devil, and the desires of your father you want to do. He was a murderer from the beginning, and does not stand in the truth, because there is no truth in him. When he speaks a lie, he speaks from his own resources, for he is a liar and the father of it.
 JOH.8:45 But because I tell the truth, you do not believe Me.
 JOH.8:46 Which of you convicts Me of sin? And if I tell the truth, why do you not believe Me?
 JOH.8:47 He who is of God hears God's words; therefore you do not hear, because you are not of God.'
@@ -513,7 +513,7 @@ JOH.8:58 Jesus said to them, 'Most assuredly, I say to you, before Abraham was, 
 
 ### The Man Born Blind Sees
 
-JOH.8:59 Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, agoing through the midst of them, and so passed by.
+JOH.8:59 Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by.
 ## Chapter 9
 
 JOH.9:1 Now as Jesus passed by, He saw a man who was blind from birth.
@@ -535,8 +535,8 @@ JOH.9:13 He said, 'I do not know.' They brought him who formerly was blind to th
 JOH.9:14 Now it was a Sabbath when Jesus made the clay and opened his eyes.
 JOH.9:15 Then the Pharisees also asked him again how he had received his sight. He said to them, 'He put clay on my eyes, and I washed, and I see.'
 JOH.9:16 Therefore some of the Pharisees said, 'This Man is not from God, because He does not keep the Sabbath.'
-JOH.9:17 Others said, 'How can a man who is a sinner do such signs?' And there was adivision among them. They said to the blind man again, 'What do you say about Him because He opened your eyes?'
-JOH.9:18 He said, 'He is aprophet.' But the Jews did not believe concerning him, that he had been blind and received his sight, until they called the parents of him who had received his sight.
+JOH.9:17 Others said, 'How can a man who is a sinner do such signs?' And there was a division among them. They said to the blind man again, 'What do you say about Him because He opened your eyes?'
+JOH.9:18 He said, 'He is a prophet.' But the Jews did not believe concerning him, that he had been blind and received his sight, until they called the parents of him who had received his sight.
 JOH.9:19 And they asked them, saying, 'Is this your son, who you say was born blind? How then does he now see?'
 JOH.9:20 His parents answered them and said, 'We know that this is our son, and that he was born blind;
 JOH.9:21 but by what means he now sees we do not know, or who opened his eyes we do not know. He is of age; ask him. He will speak for himself.'
@@ -548,8 +548,8 @@ JOH.9:26 Then they said to him again, 'What did He do to you? How did He open yo
 JOH.9:27 He answered them, 'I told you already, and you did not listen. Why do you want to hear it again? Do you also want to become His disciples?'
 JOH.9:28 Then they reviled him and said, 'You are His disciple, but we are Moses' disciples.
 JOH.9:29 We know that God spoke to Moses; as for this fellow, we do not know where He is from.'
-JOH.9:30 The man answered and said to them, 'Why, this is amarvelous thing, that you do not know where He is from; yet He has opened my eyes!
-JOH.9:31 Now we know that God does not hear sinners; but if anyone is aworshiper of God and does His will, He hears him.
+JOH.9:30 The man answered and said to them, 'Why, this is a marvelous thing, that you do not know where He is from; yet He has opened my eyes!
+JOH.9:31 Now we know that God does not hear sinners; but if anyone is a worshiper of God and does His will, He hears him.
 JOH.9:32 Since the world began it has been unheard of that anyone opened the eyes of one who was born blind.
 JOH.9:33 If this Man were not from God, He could do nothing.'
 JOH.9:34 They answered and said to him, 'You were completely born in sins, and are you teaching us?' And they cast him out.
@@ -565,11 +565,11 @@ JOH.9:40 Then some of the Pharisees who were with Him heard these words, and sai
 JOH.9:41 Jesus said to them, 'If you were blind, you would have no sin; but now you say, 'We see.' Therefore your sin remains.
 ## Chapter 10
 
-JOH.10:1 Most assuredly, I say to you, he who does not enter the sheepfold by the door, but climbs up some other way, the same is a thief and arobber.
+JOH.10:1 Most assuredly, I say to you, he who does not enter the sheepfold by the door, but climbs up some other way, the same is a thief and a robber.
 JOH.10:2 But he who enters by the door is the shepherd of the sheep.
 JOH.10:3 To him the doorkeeper opens, and the sheep hear his voice; and he calls his own sheep by name and leads them out.
 JOH.10:4 And when he brings out his own sheep, he goes before them; and the sheep follow him, for they know his voice.
-JOH.10:5 Yet they will by no means follow astranger, but will flee from him, for they do not know the voice of strangers.'
+JOH.10:5 Yet they will by no means follow a stranger, but will flee from him, for they do not know the voice of strangers.'
 
 ### Jesus Gives His Life for the Sheep
 
@@ -579,14 +579,14 @@ JOH.10:8 All who ever came before Me are thieves and robbers, but the sheep did 
 JOH.10:9 I am the door. If anyone enters by Me, he will be saved, and will go in and out and find pasture.
 JOH.10:10 The thief does not come except to steal, and to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly.
 JOH.10:11 'I am the good shepherd. The good shepherd gives His life for the sheep.
-JOH.10:12 But ahireling, he who is not the shepherd, one who does not own the sheep, sees the wolf coming and leaves the sheep and flees; and the wolf catches the sheep and scatters them.
-JOH.10:13 The hireling flees because he is ahireling and does not care about the sheep.
+JOH.10:12 But a hireling, he who is not the shepherd, one who does not own the sheep, sees the wolf coming and leaves the sheep and flees; and the wolf catches the sheep and scatters them.
+JOH.10:13 The hireling flees because he is a hireling and does not care about the sheep.
 JOH.10:14 I am the good shepherd; and I know My sheep, and am known by My own.
 JOH.10:15 As the Father knows Me, even so I know the Father; and I lay down My life for the sheep.
 JOH.10:16 And other sheep I have which are not of this fold; them also I must bring, and they will hear My voice; and there will be one flock and one shepherd.
 JOH.10:17 'Therefore My Father loves Me, because I lay down My life that I may take it again.
 JOH.10:18 No one takes it from Me, but I lay it down of Myself. I have power to lay it down, and I have power to take it again. This command I have received from My Father.'
-JOH.10:19 Therefore there was adivision again among the Jews because of these sayings.
+JOH.10:19 Therefore there was a division again among the Jews because of these sayings.
 JOH.10:20 And many of them said, 'He has a demon and is mad. Why do you listen to Him?'
 
 ### Jesus Gives Eternal Life to the Sheep
@@ -641,7 +641,7 @@ JOH.11:15 And I am glad for your sakes that I was not there, that you may believ
 
 JOH.11:16 Then Thomas, who is called the Twin, said to his fellow disciples, 'Let us also go, that we may die with Him.'
 JOH.11:17 So when Jesus came, He found that he had already been in the tomb four days.
-JOH.11:18 Now Bethany was near Jerusalem, about two miles aaway.
+JOH.11:18 Now Bethany was near Jerusalem, about two miles away.
 JOH.11:19 And many of the Jews had joined the women around Martha and Mary, to comfort them concerning their brother.
 JOH.11:20 Now Martha, as soon as she heard that Jesus was coming, went and met Him, but Mary was sitting in the house.
 JOH.11:21 Now Martha said to Jesus, 'Lord, if You had been here, my brother would not have died.
@@ -664,19 +664,19 @@ JOH.11:36 Then the Jews said, 'See how He loved him!'
 ### Lazarus Is Raised
 
 JOH.11:37 And some of them said, 'Could not this Man, who opened the eyes of the blind, also have kept this man from dying?'
-JOH.11:38 Then Jesus, again groaning in Himself, came to the tomb. It was acave, and a stone lay against it.
+JOH.11:38 Then Jesus, again groaning in Himself, came to the tomb. It was a cave, and a stone lay against it.
 JOH.11:39 Jesus said, 'Take away the stone.'
-JOH.11:40 Martha, the sister of him who was dead, said to Him, 'Lord, by this time there is astench, for he has been dead four days.' Jesus said to her, 'Did I not say to you that if you would believe you would see the glory of God?'
-JOH.11:41 Then they took away the stone from the place where the dead man was lying.And Jesus lifted up His eyes and said, 'Father, I thank You that You have heard Me.
+JOH.11:40 Martha, the sister of him who was dead, said to Him, 'Lord, by this time there is a stench, for he has been dead four days.' Jesus said to her, 'Did I not say to you that if you would believe you would see the glory of God?'
+JOH.11:41 Then they took away the stone from the place where the dead man was lying. And Jesus lifted up His eyes and said, 'Father, I thank You that You have heard Me.
 JOH.11:42 And I know that You always hear Me, but because of the people who are standing by I said this, that they may believe that You sent Me.'
 JOH.11:43 Now when He had said these things, He cried with a loud voice, 'Lazarus, come forth!'
 
 ### The Sanhedrin Plots to Kill Jesus
 
-JOH.11:44 And he who had died came out bound hand and foot with graveclothes, and his face was wrapped with acloth. Jesus said to them, 'Loose him, and let him go.'
+JOH.11:44 And he who had died came out bound hand and foot with graveclothes, and his face was wrapped with a cloth. Jesus said to them, 'Loose him, and let him go.'
 JOH.11:45 Then many of the Jews who had come to Mary, and had seen the things Jesus did, believed in Him.
 JOH.11:46 But some of them went away to the Pharisees and told them the things Jesus did.
-JOH.11:47 Then the chief priests and the Pharisees gathered acouncil and said, 'What shall we do? For this Man works many signs.
+JOH.11:47 Then the chief priests and the Pharisees gathered a council and said, 'What shall we do? For this Man works many signs.
 JOH.11:48 If we let Him alone like this, everyone will believe in Him, and the Romans will come and take away both our place and nation.'
 JOH.11:49 And one of them, Caiaphas, being high priest that year, said to them, 'You know nothing at all,
 JOH.11:50 nor do you consider that it is expedient for us that one man should die for the people, and not that the whole nation should perish.'
@@ -689,12 +689,12 @@ JOH.11:56 Then they sought Jesus, and spoke among themselves as they stood in th
 
 ### Jesus Anointed for His Burial
 
-JOH.11:57 Now both the chief priests and the Pharisees had given acommand, that if anyone knew where He was, he should report it, that they might seize Him.
+JOH.11:57 Now both the chief priests and the Pharisees had given a command, that if anyone knew where He was, he should report it, that they might seize Him.
 ## Chapter 12
 
 JOH.12:1 Then, six days before the Passover, Jesus came to Bethany, where Lazarus was who had been dead, whom He had raised from the dead.
-JOH.12:2 There they made Him asupper; and Martha served, but Lazarus was one of those who sat at the table with Him.
-JOH.12:3 Then Mary took apound of very costly oil of spikenard, anointed the feet of Jesus, and wiped His feet with her hair. And the house was filled with the fragrance of the oil.
+JOH.12:2 There they made Him a supper; and Martha served, but Lazarus was one of those who sat at the table with Him.
+JOH.12:3 Then Mary took a pound of very costly oil of spikenard, anointed the feet of Jesus, and wiped His feet with her hair. And the house was filled with the fragrance of the oil.
 JOH.12:4 But one of His disciples, Judas Iscariot, Simon's son, who would betray Him, said,
 JOH.12:5 'Why was this fragrant oil not sold for three hundred denarii and given to the poor?'
 JOH.12:6 This he said, not that he cared for the poor, but because he was a thief, and had the money box; and he used to take what was put in it.
@@ -721,7 +721,7 @@ JOH.12:20 Now there were certain Greeks among those who came up to worship at th
 JOH.12:21 Then they came to Philip, who was from Bethsaida of Galilee, and asked him, saying, 'Sir, we wish to see Jesus.'
 JOH.12:22 Philip came and told Andrew, and in turn Andrew and Philip told Jesus.
 JOH.12:23 But Jesus answered them, saying, 'The hour has come that the Son of Man should be glorified.
-JOH.12:24 Most assuredly, I say to you, unless agrain of wheat falls into the ground and dies, it remains alone; but if it dies, it produces much grain.
+JOH.12:24 Most assuredly, I say to you, unless a grain of wheat falls into the ground and dies, it remains alone; but if it dies, it produces much grain.
 JOH.12:25 He who loves his life will lose it, and he who hates his life in this world will keep it for eternal life.
 JOH.12:26 If anyone serves Me, let him follow Me; and where I am, there My servant will be also. If anyone serves Me, him My Father will honor.
 JOH.12:27 'Now My soul is troubled, and what shall I say? 'Father, save Me from this hour'? But for this purpose I came to this hour.
@@ -755,10 +755,10 @@ JOH.12:42 Nevertheless even among the rulers many believed in Him, but because o
 JOH.12:43 for they loved the praise of men more than the praise of God.
 JOH.12:44 Then Jesus cried out and said, 'He who believes in Me, believes not in Me but in Him who sent Me.
 JOH.12:45 And he who sees Me sees Him who sent Me.
-JOH.12:46 I have come as alight into the world, that whoever believes in Me should not abide in darkness.
-JOH.12:47 And if anyone hears My words and does not believe,I do not judge him; for I did not come to judge the world but to save the world.
+JOH.12:46 I have come as a light into the world, that whoever believes in Me should not abide in darkness.
+JOH.12:47 And if anyone hears My words and does not believe, I do not judge him; for I did not come to judge the world but to save the world.
 JOH.12:48 He who rejects Me, and does not receive My words, has that which judges him-the word that I have spoken will judge him in the last day.
-JOH.12:49 For I have not spoken on My own authority; but the Father who sent Me gave Me acommand, what I should say and what I should speak.
+JOH.12:49 For I have not spoken on My own authority; but the Father who sent Me gave Me a command, what I should say and what I should speak.
 
 ### Jesus Washes the Disciples' Feet
 
@@ -768,8 +768,8 @@ JOH.12:50 And I know that His command is everlasting life. Therefore, whatever I
 JOH.13:1 Now before the Feast of the Passover, when Jesus knew that His hour had come that He should depart from this world to the Father, having loved His own who were in the world, He loved them to the end.
 JOH.13:2 And supper being ended, the devil having already put it into the heart of Judas Iscariot, Simon's son, to betray Him,
 JOH.13:3 Jesus, knowing that the Father had given all things into His hands, and that He had come from God and was going to God,
-JOH.13:4 rose from supper and laid aside His garments, took atowel and girded Himself.
-JOH.13:5 After that, He poured water into abasin and began to wash the disciples' feet, and to wipe them with the towel with which He was girded.
+JOH.13:4 rose from supper and laid aside His garments, took a towel and girded Himself.
+JOH.13:5 After that, He poured water into a basin and began to wash the disciples' feet, and to wipe them with the towel with which He was girded.
 JOH.13:6 Then He came to Simon Peter. And Peter said to Him, 'Lord, are You washing my feet?'
 JOH.13:7 Jesus answered and said to him, 'What I am doing you do not understand now, but you will know after this.'
 JOH.13:8 Peter said to Him, 'You shall never wash my feet!'
@@ -793,7 +793,7 @@ JOH.13:22 Then the disciples looked at one another, perplexed about whom He spok
 JOH.13:23 Now there was leaning on Jesus' bosom one of His disciples, whom Jesus loved.
 JOH.13:24 Simon Peter therefore motioned to him to ask who it was of whom He spoke.
 JOH.13:25 Then, leaning back on Jesus' breast, he said to Him, 'Lord, who is it?'
-JOH.13:26 Jesus answered, 'It is he to whom I shall give apiece of bread when I have dipped it. ' And having dipped the bread, He gave it to Judas Iscariot, the son of Simon.
+JOH.13:26 Jesus answered, 'It is he to whom I shall give a piece of bread when I have dipped it. ' And having dipped the bread, He gave it to Judas Iscariot, the son of Simon.
 JOH.13:27 Now after the piece of bread, Satan entered him. Then Jesus said to him, 'What you do, do quickly.'
 JOH.13:28 But no one at the table knew for what reason He said this to him.
 JOH.13:29 For some thought, because Judas had the money box, that Jesus had said to him, 'Buy those things we need for the feast,' or that he should give something to the poor.
@@ -833,7 +833,7 @@ JOH.14:13 And whatever you ask in My name, that I will do, that the Father may b
 
 ### The Coming of the Holy Spirit
 
-JOH.14:14 If you ask aanything in My name, I will do it.
+JOH.14:14 If you ask anything in My name, I will do it.
 JOH.14:15 'If you love Me, keep a My commandments.
 JOH.14:16 And I will pray the Father, and He will give you another Helper, that He may abide with you forever-
 
@@ -867,8 +867,8 @@ JOH.15:2 Every branch in Me that does not bear fruit He takes away; and every br
 JOH.15:3 You are already clean because of the word which I have spoken to you.
 JOH.15:4 Abide in Me, and I in you. As the branch cannot bear fruit of itself, unless it abides in the vine, neither can you, unless you abide in Me.
 JOH.15:5 'I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.
-JOH.15:6 If anyone does not abide in Me, he is cast out as abranch and is withered; and they gather them and throw them into the fire, and they are burned.
-JOH.15:7 If you abide in Me, and My words abide in you, you will aask what you desire, and it shall be done for you.
+JOH.15:6 If anyone does not abide in Me, he is cast out as a branch and is withered; and they gather them and throw them into the fire, and they are burned.
+JOH.15:7 If you abide in Me, and My words abide in you, you will ask what you desire, and it shall be done for you.
 JOH.15:8 By this My Father is glorified, that you bear much fruit; so you will be My disciples.
 JOH.15:9 'As the Father loved Me, I also have loved you; abide in My love.
 JOH.15:10 If you keep My commandments, you will abide in My love, just as I have kept My Father's commandments and abide in His love.
@@ -952,7 +952,7 @@ JOH.17:8 For I have given to them the words which You have given Me; and they ha
 JOH.17:9 'I pray for them. I do not pray for the world but for those whom You have given Me, for they are Yours.
 JOH.17:10 And all Mine are Yours, and Yours are Mine, and I am glorified in them.
 JOH.17:11 Now I am no longer in the world, but these are in the world, and I come to You. Holy Father, keep through Your name those whom You have given Me, that they may be one as We are.
-JOH.17:12 While I was with them in the world,I kept them in Your name. Those whom You gave Me I have kept; and none of them is lost except the son of perdition, that the Scripture might be fulfilled.
+JOH.17:12 While I was with them in the world, I kept them in Your name. Those whom You gave Me I have kept; and none of them is lost except the son of perdition, that the Scripture might be fulfilled.
 JOH.17:13 But now I come to You, and these things I speak in the world, that they may have My joy fulfilled in themselves.
 JOH.17:14 I have given them Your word; and the world has hated them because they are not of the world, just as I am not of the world.
 JOH.17:15 I do not pray that You should take them out of the world, but that You should keep them from the evil one.
@@ -963,7 +963,7 @@ JOH.17:18 As You sent Me into the world, I also have sent them into the world.
 ### Christ's Prayer for the Church
 
 JOH.17:19 And for their sakes I sanctify Myself, that they also may be sanctified by the truth.
-JOH.17:20 'I do not pray for these alone, but also for those who will abelieve in Me through their word;
+JOH.17:20 'I do not pray for these alone, but also for those who will believe in Me through their word;
 JOH.17:21 that they all may be one, as You, Father, are in Me, and I in You; that they also may be one in Us, that the world may believe that You sent Me.
 JOH.17:22 And the glory which You gave Me I have given them, that they may be one just as We are one:
 
@@ -981,7 +981,7 @@ JOH.17:27
 
 JOH.18:1 When Jesus had spoken these words, He went out with His disciples over the Brook Kidron, where there was a garden, which He and His disciples entered.
 JOH.18:2 And Judas, who betrayed Him, also knew the place; for Jesus often met there with His disciples.
-JOH.18:3 Then Judas, having received adetachment of troops, and officers from the chief priests and Pharisees, came there with lanterns, torches, and weapons.
+JOH.18:3 Then Judas, having received a detachment of troops, and officers from the chief priests and Pharisees, came there with lanterns, torches, and weapons.
 JOH.18:4 Jesus therefore, knowing all things that would come upon Him, went forward and said to them, 'Whom are you seeking?'
 JOH.18:5 They answered Him, 'Jesus of Nazareth.'
 JOH.18:6 Jesus said to them, 'I am He. ' And Judas, who betrayed Him, also stood with them. Now when He said to them, 'I am He, ' they drew back and fell to the ground.
@@ -996,7 +996,7 @@ JOH.18:14 Now it was Caiaphas who advised the Jews that it was expedient that on
 JOH.18:15 And Simon Peter followed Jesus, and so did another a disciple. Now that disciple was known to the high priest, and went with Jesus into the courtyard of the high priest.
 JOH.18:16 But Peter stood at the door outside. Then the other disciple, who was known to the high priest, went out and spoke to her who kept the door, and brought Peter in.
 JOH.18:17 Then the servant girl who kept the door said to Peter, 'You are not also one of this Man's disciples, are you?'
-JOH.18:18 He said, 'I am not.' Now the servants and officers who had made afire of coals stood there, for it was cold, and they warmed themselves. And Peter stood with them and warmed himself.
+JOH.18:18 He said, 'I am not.' Now the servants and officers who had made a fire of coals stood there, for it was cold, and they warmed themselves. And Peter stood with them and warmed himself.
 JOH.18:19 The high priest then asked Jesus about His disciples and His doctrine.
 JOH.18:20 Jesus answered him, 'I spoke openly to the world. I always taught in synagogues and in the temple, where the Jews always meet, and in secret I have said nothing.
 JOH.18:21 Why do you ask Me? Ask those who have heard Me what I said to them. Indeed they know what I said.'
@@ -1004,7 +1004,7 @@ JOH.18:22 And when He had said these things, one of the officers who stood by st
 JOH.18:23 Jesus answered him, 'If I have spoken evil, bear witness of the evil; but if well, why do you strike Me?'
 JOH.18:24 Then Annas sent Him bound to Caiaphas the high priest.
 JOH.18:25 Now Simon Peter stood and warmed himself. Therefore they said to him, 'You are not also one of His disciples, are you?'
-JOH.18:26 He denied it and said, 'I am not!' One of the servants of the high priest, arelative of him whose ear Peter cut off, said, 'Did I not see you in the garden with Him?'
+JOH.18:26 He denied it and said, 'I am not!' One of the servants of the high priest, a relative of him whose ear Peter cut off, said, 'Did I not see you in the garden with Him?'
 
 JOH.18:27 Peter then denied again; and immediately a rooster crowed.
 JOH.18:28 Then they led Jesus from Caiaphas to the Praetorium, and it was early morning. But they themselves did not go into the Praetorium, lest they should be defiled, but that they might eat the Passover.
@@ -1016,14 +1016,14 @@ JOH.18:33 Then Pilate entered the Praetorium again, called Jesus, and said to Hi
 JOH.18:34 Jesus answered him, 'Are you speaking for yourself about this, or did others tell you this concerning Me?'
 JOH.18:35 Pilate answered, 'Am I a Jew? Your own nation and the chief priests have delivered You to me. What have You done?'
 JOH.18:36 Jesus answered, 'My kingdom is not of this world. If My kingdom were of this world, My servants would fight, so that I should not be delivered to the Jews; but now My kingdom is not from here.'
-JOH.18:37 Pilate therefore said to Him, 'Are You aking then?'
-JOH.18:38 Jesus answered, 'You say rightly that I am aking. For this cause I was born, and for this cause I have come into the world, that I should bear witness to the truth. Everyone who is of the truth hears My voice.' Pilate said to Him, 'What is truth?' And when he had said this, he went out again to the Jews, and said to them, 'I find no fault in Him at all.
-JOH.18:39 'But you have acustom that I should release someone to you at the Passover. Do you therefore want me to release to you the King of the Jews?'
-JOH.18:40 Then they all cried again, saying, 'Not this Man, but Barabbas!' Now Barabbas was arobber.
+JOH.18:37 Pilate therefore said to Him, 'Are You a king then?'
+JOH.18:38 Jesus answered, 'You say rightly that I am a king. For this cause I was born, and for this cause I have come into the world, that I should bear witness to the truth. Everyone who is of the truth hears My voice.' Pilate said to Him, 'What is truth?' And when he had said this, he went out again to the Jews, and said to them, 'I find no fault in Him at all.
+JOH.18:39 'But you have a custom that I should release someone to you at the Passover. Do you therefore want me to release to you the King of the Jews?'
+JOH.18:40 Then they all cried again, saying, 'Not this Man, but Barabbas!' Now Barabbas was a robber.
 ## Chapter 19
 
 JOH.19:1 So then Pilate took Jesus and scourged Him.
-JOH.19:2 And the soldiers twisted a crown of thorns and put it on His head, and they put on Him apurple robe.
+JOH.19:2 And the soldiers twisted a crown of thorns and put it on His head, and they put on Him a purple robe.
 JOH.19:3 Then they said,'Hail, King of the Jews!' And they struck Him with their hands.
 
 ### Pilate's Judgment
@@ -1031,12 +1031,12 @@ JOH.19:3 Then they said,'Hail, King of the Jews!' And they struck Him with their
 JOH.19:4 Pilate then went out again, and said to them, 'Behold, I am bringing Him out to you, that you may know that I find no fault in Him.'
 JOH.19:5 Then Jesus came out, wearing the crown of thorns and the purple robe. And Pilate said to them, 'Behold the Man!'
 JOH.19:6 Therefore, when the chief priests and officers saw Him, they cried out, saying, 'Crucify Him, crucify Him! '
-JOH.19:7 Pilate said to them, 'You take Him and crucify Him, for I find no fault in Him.' The Jews answered him, 'We have alaw, and according to our alaw He ought to die, because He made Himself the Son of God.'
+JOH.19:7 Pilate said to them, 'You take Him and crucify Him, for I find no fault in Him.' The Jews answered him, 'We have a law, and according to our a law He ought to die, because He made Himself the Son of God.'
 JOH.19:8 Therefore, when Pilate heard that saying, he was the more afraid,
 JOH.19:9 and went again into the Praetorium, and said to Jesus, 'Where are You from?' But Jesus gave him no answer.
 JOH.19:10 Then Pilate said to Him, 'Are You not speaking to me? Do You not know that I have power to crucify You, and power to release You?'
 JOH.19:11 Jesus answered, 'You could have no power at all against Me unless it had been given you from above. Therefore the one who delivered Me to you has the greater sin.'
-JOH.19:12 From then on Pilate sought to release Him, but the Jews cried out, saying, 'If you let this Man go, you are not Caesar's friend. Whoever makes himself aking speaks against Caesar.'
+JOH.19:12 From then on Pilate sought to release Him, but the Jews cried out, saying, 'If you let this Man go, you are not Caesar's friend. Whoever makes himself a king speaks against Caesar.'
 JOH.19:13 When Pilate therefore heard that saying, he brought Jesus out and sat down in the judgment seat in a place that is called The Pavement, but in Hebrew, Gabbatha.
 JOH.19:14 Now it was the Preparation Day of the Passover, and about the sixth hour. And he said to the Jews, 'Behold your King!'
 JOH.19:15 But they cried out, 'Away with Him, away with Him! Crucify Him!'
@@ -1049,7 +1049,7 @@ JOH.19:18 where they crucified Him, and two others with Him, one on either side,
 
 ### Jesus Of Nazareth, The King Of The Jews. †
 
-JOH.19:19 Now Pilate wrote atitle and put it on the cross. And the writing was:
+JOH.19:19 Now Pilate wrote a title and put it on the cross. And the writing was:
 JOH.19:20 Then many of the Jews read this title, for the place where Jesus was crucified was near the city; and it was written in Hebrew, Greek, and Latin.
 JOH.19:21 Therefore the chief priests of the Jews said to Pilate, 'Do not write, 'The King of the Jews,' but, 'He said, 'I am the King of the Jews.' ' '
 JOH.19:22 Pilate answered, 'What I have written, I have written.'
@@ -1065,7 +1065,7 @@ JOH.19:26 When Jesus therefore saw His mother, and the disciple whom He loved st
 
 JOH.19:27 Then He said to the disciple, 'Behold your mother!' And from that hour that disciple took her to his own home.
 JOH.19:28 After this, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said, 'I thirst!'
-JOH.19:29 Now a vessel full of sour wine was sitting there; and they filled asponge with sour wine, put it on hyssop, and put it to His mouth.
+JOH.19:29 Now a vessel full of sour wine was sitting there; and they filled a sponge with sour wine, put it on hyssop, and put it to His mouth.
 
 ### His Side Is Pierced
 
@@ -1073,7 +1073,7 @@ JOH.19:30 So when Jesus had received the sour wine, He said, 'It is finished!' A
 JOH.19:31 Therefore, because it was the Preparation Day, that the bodies should not remain on the cross on the Sabbath (for that Sabbath was a high day), the Jews asked Pilate that their legs might be broken, and that they might be taken away.
 JOH.19:32 Then the soldiers came and broke the legs of the first and of the other who was crucified with Him.
 JOH.19:33 But when they came to Jesus and saw that He was already dead, they did not break His legs.
-JOH.19:34 But one of the soldiers pierced His side with aspear, and immediately blood and water came out.
+JOH.19:34 But one of the soldiers pierced His side with a spear, and immediately blood and water came out.
 JOH.19:35 And he who has seen has testified, and his testimony is true; and he knows that he is telling the truth, so that you may believe.
 JOH.19:36 For these things were done that the Scripture should be fulfilled, 'Not one of His bones shall be broken.'
 
@@ -1081,7 +1081,7 @@ JOH.19:36 For these things were done that the Scripture should be fulfilled, 'No
 
 JOH.19:37 And again another Scripture says, 'They shall look on Him whom they pierced.'
 JOH.19:38 After this, Joseph of Arimathea, being a disciple of Jesus, but secretly, for fear of the Jews, asked Pilate that he might take away the body of Jesus; and Pilate gave him permission. So he came and took the body of Jesus.
-JOH.19:39 And Nicodemus, who at first came to Jesus by night, also came, bringing amixture of myrrh and aloes, about a hundred pounds.
+JOH.19:39 And Nicodemus, who at first came to Jesus by night, also came, bringing a mixture of myrrh and aloes, about a hundred pounds.
 JOH.19:40 Then they took the body of Jesus, and bound it in strips of linen with the spices, as the custom of the Jews is to bury.
 JOH.19:41 Now in the place where He was crucified there was a garden, and in the garden new tomb in which no one had yet been laid.
 
@@ -1139,12 +1139,12 @@ JOH.20:31 but these are written that you may believe that Jesus is the Christ, t
 JOH.21:1 After these things Jesus showed Himself again to the disciples at the Sea of Tiberias, and in this way He showed Himself:
 JOH.21:2 Simon Peter, Thomas called the Twin, Nathanael of Cana in Galilee, the sons of Zebedee, and two others of His disciples were together.
 JOH.21:3 Simon Peter said to them, 'I am going fishing.'
-JOH.21:4 They said to him, 'We are going with you also.' They went out and immediately agot into the boat, and that night they caught nothing. But when the morning had now come, Jesus stood on the shore; yet the disciples did not know that it was Jesus.
+JOH.21:4 They said to him, 'We are going with you also.' They went out and immediately got into the boat, and that night they caught nothing. But when the morning had now come, Jesus stood on the shore; yet the disciples did not know that it was Jesus.
 JOH.21:5 Then Jesus said to them, 'Children, have you any food?'
 JOH.21:6 They answered Him, 'No.' And He said to them, 'Cast the net on the right side of the boat, and you will find some. ' So they cast, and now they were not able to draw it in because of the multitude of fish.
 JOH.21:7 Therefore that disciple whom Jesus loved said to Peter, 'It is the Lord!' Now when Simon Peter heard that it was the Lord, he put on his outer garment (for he had removed it), and plunged into the sea.
 JOH.21:8 But the other disciples came in the little boat (for they were not far from land, but about two hundred cubits), dragging the net with fish.
-JOH.21:9 Then, as soon as they had come to land, they saw afire of coals there, and fish laid on it, and bread.
+JOH.21:9 Then, as soon as they had come to land, they saw a fire of coals there, and fish laid on it, and bread.
 JOH.21:10 Jesus said to them, 'Bring some of the fish which you have just caught.'
 JOH.21:11 Simon Peter went up and dragged the net to land, full of large fish, one hundred and fiftythree; and although there were so many, the net was not broken.
 JOH.21:12 Jesus said to them, 'Come and eat breakfast.' Yet none of the disciples dared ask Him, 'Who are You?'knowing that it was the Lord.
@@ -1153,9 +1153,9 @@ JOH.21:13 Jesus then came and took the bread and gave it to them, and likewise t
 ### Jesus Restores and Commissions Peter
 
 JOH.21:14 This is now the third time Jesus showed Himself to His disciples after He was raised from the dead.
-JOH.21:15 So when they had eaten breakfast, Jesus said to Simon Peter, 'Simon, son of Jonah, ado you love Me more than these?' He said to Him, 'Yes, Lord; You know that I love You.' He said to him, 'Feed My lambs.'
-JOH.21:16 He said to him again asecond time, 'Simon, son of Jonah, ado you love Me?' He said to Him, 'Yes, Lord; You know that I love You.' He said to him, 'Tend My sheep.'
-JOH.21:17 He said to him the third time, 'Simon, son of Jonah, ado you love Me?' Peter was grieved because He said to him the third time, 'Do you love Me?' He said to Him, 'Yes, Lord; You know all things; You know that I love You.' Jesus said to him, 'Feed My sheep.'
+JOH.21:15 So when they had eaten breakfast, Jesus said to Simon Peter, 'Simon, son of Jonah, do you love Me more than these?' He said to Him, 'Yes, Lord; You know that I love You.' He said to him, 'Feed My lambs.'
+JOH.21:16 He said to him again a second time, 'Simon, son of Jonah, do you love Me?' He said to Him, 'Yes, Lord; You know that I love You.' He said to him, 'Tend My sheep.'
+JOH.21:17 He said to him the third time, 'Simon, son of Jonah, do you love Me?' Peter was grieved because He said to him the third time, 'Do you love Me?' He said to Him, 'Yes, Lord; You know all things; You know that I love You.' Jesus said to him, 'Feed My sheep.'
 
 ### The Beloved Disciple and His Book
 

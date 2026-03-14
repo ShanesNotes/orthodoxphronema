@@ -17,16 +17,16 @@ has_additions: false
 MRK.1:1 The beginning of the gospel of Jesus Christ, the Son of God.
 MRK.1:2 As it is written in the Prophets:'Behold, I send My messenger before Your face, Who will prepare Your way before You.'
 MRK.1:3 'The voice of one crying in the wilderness: 'Prepare the way of the LORD; Make His paths straight.' '
-MRK.1:4 John came baptizing in the wilderness and preaching abaptism of repentance for the remission of sins.
+MRK.1:4 John came baptizing in the wilderness and preaching a baptism of repentance for the remission of sins.
 MRK.1:5 Then all the land of Judea, and those from Jerusalem, went out to him and were all baptized by him in the Jordan River, confessing their sins.
-MRK.1:6 Now John was clothed with camel's hair and with aleather belt around his waist, and he ate locusts and wild honey.
+MRK.1:6 Now John was clothed with camel's hair and with a leather belt around his waist, and he ate locusts and wild honey.
 MRK.1:7 And he preached, saying, 'There comes One after me who is mightier than I, whose sandal strap I am not worthy to stoop down and loose.
 
 ### Jesus Baptized and Tempted
 
 MRK.1:8 I indeed baptized you with water, but He will baptize you with the Holy Spirit.'
 MRK.1:9 It came to pass in those days that Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan.
-MRK.1:10 And immediately, coming up from the water, He saw the heavens parting and the Spirit descending upon Him like adove.
+MRK.1:10 And immediately, coming up from the water, He saw the heavens parting and the Spirit descending upon Him like a dove.
 MRK.1:11 Then a voice came from heaven, 'You are My beloved Son, in whom I am well pleased.'
 MRK.1:12 Immediately the Spirit drove Him into the wilderness.
 MRK.1:13 And He was there in the wilderness forty days, tempted by Satan, and was with the wild beasts; and the angels ministered to Him.
@@ -50,7 +50,7 @@ MRK.1:26 And when the unclean spirit had convulsed him and cried out with a loud
 MRK.1:27 Then they were all amazed, so that they questioned among themselves, saying, 'What is this? What new doctrine is this? For with authority a He commands even the unclean spirits, and they obey Him.'
 MRK.1:28 And immediately His fame spread throughout all the region around Galilee.
 MRK.1:29 Now as soon as they had come out of the synagogue, they entered the house of Simon and Andrew, with James and John.
-MRK.1:30 But Simon's wife's mother lay sick with afever, and they told Him about her at once.
+MRK.1:30 But Simon's wife's mother lay sick with a fever, and they told Him about her at once.
 MRK.1:31 So He came and took her by the hand and lifted her up, and immediately the fever left her. And she served them.
 MRK.1:32 At evening, when the sun had set, they brought to Him all who were sick and those who were demon-possessed.
 MRK.1:33 And the whole city was gathered together at the door.
@@ -70,7 +70,7 @@ MRK.1:40 Now a leper came to Him, imploring Him, kneeling down to Him and saying
 MRK.1:41 Then Jesus, moved with compassion, stretched out His hand and touched him, and said to him, 'I am willing; be cleansed.'
 MRK.1:42 As soon as He had spoken, immediately the leprosy left him, and he was cleansed.
 MRK.1:43 And He strictly warned him and sent him away at once,
-MRK.1:44 and said to him, 'See that you say nothing to anyone; but go your way, show yourself to the priest, and offer for your cleansing those things which Moses commanded, as atestimony to them.'
+MRK.1:44 and said to him, 'See that you say nothing to anyone; but go your way, show yourself to the priest, and offer for your cleansing those things which Moses commanded, as a testimony to them.'
 
 ### Sins Are Forgiven: A Paralytic
 
@@ -80,7 +80,7 @@ MRK.1:46
 
 MRK.2:1 And again He entered Capernaum after some days, and it was heard that He was in the house.
 MRK.2:2 Immediately many gathered together, so that there was no longer room to receive them, not even near the door. And He preached the word to them.
-MRK.2:3 Then they came to Him, bringing aparalytic who was carried by four men.
+MRK.2:3 Then they came to Him, bringing a paralytic who was carried by four men.
 MRK.2:4 And when they could not come near Him because of the crowd, they uncovered the roof where He was. So when they had broken through, they let down the bed on which the paralytic was lying.
 MRK.2:5 When Jesus saw their faith, He said to the paralytic, 'Son, your sins are forgiven you.'
 MRK.2:6 And some of the scribes were sitting there and reasoning in their hearts,
@@ -104,7 +104,7 @@ MRK.2:17 When Jesus heard it, He said to them, 'Those who are well have no need 
 MRK.2:18 The disciples of John and of the Pharisees were fasting. Then they came and said to Him, 'Why do the disciples of John and of the Pharisees fast, but Your disciples do not fast?'
 MRK.2:19 And Jesus said to them, 'Can the friends of the bridegroom fast while the bridegroom is with them? As long as they have the bridegroom with them they cannot fast.
 MRK.2:20 But the days will come when the bridegroom will be taken away from them, and then they will fast in those days.
-MRK.2:21 No one sews apiece of unshrunk cloth on an old garment; or else the new piece pulls away from the old, and the tear is made worse.
+MRK.2:21 No one sews a piece of unshrunk cloth on an old garment; or else the new piece pulls away from the old, and the tear is made worse.
 
 ### Jesus Transcends the Sabbath
 
@@ -117,7 +117,7 @@ MRK.2:27 And He said to them, 'The Sabbath was made for man, and not man for the
 MRK.2:28 Therefore the Son of Man is also Lord of the Sabbath.'
 ## Chapter 3
 
-MRK.3:1 And He entered the synagogue again, and a man was there who had awithered hand.
+MRK.3:1 And He entered the synagogue again, and a man was there who had a withered hand.
 MRK.3:2 So they watched Him closely, whether He would heal him on the Sabbath, so that they might accuse Him.
 MRK.3:3 And He said to the man who had the withered hand, 'Step forward.'
 MRK.3:4 Then He said to them, 'Is it lawful on the Sabbath to do good or to do evil, to save life or to kill?' But they kept silent.
@@ -145,7 +145,7 @@ MRK.3:20 Then the multitude came together again, so that they could not so much 
 MRK.3:21 But when His own people heard about this, they went out to lay hold of Him, for they said, 'He is out of His mind.'
 MRK.3:22 And the scribes who came down from Jerusalem said, 'He has Beelzebub,' and, 'By the ruler of the demons He casts out demons.'
 MRK.3:23 So He called them to Himself and said to them in parables: 'How can Satan cast out Satan?
-MRK.3:24 If akingdom is divided against itself, that kingdom cannot stand.
+MRK.3:24 If a kingdom is divided against itself, that kingdom cannot stand.
 MRK.3:25 And if a house is divided against itself, that house cannot stand.
 MRK.3:26 And if Satan has risen up against himself, and is divided, he cannot stand, but has an end.
 MRK.3:27 No one can enter a strong man's house and plunder his goods, unless he first binds the strong man. And then he will plunder his house.
@@ -156,9 +156,9 @@ MRK.3:29 but he who blasphemes against the Holy Spirit never has forgiveness, bu
 
 MRK.3:30 because they said, 'He has an unclean spirit.'
 MRK.3:31 Then His brothers and His mother came, and standing outside they sent to Him, calling Him.
-MRK.3:32 And amultitude was sitting around Him; and they said to Him, 'Look, Your mother and Your brothers are outside seeking You.'
+MRK.3:32 And a multitude was sitting around Him; and they said to Him, 'Look, Your mother and Your brothers are outside seeking You.'
 MRK.3:33 But He answered them, saying, 'Who is My mother, or My brothers?'
-MRK.3:34 And He looked around in acircle at those who sat about Him, and said, 'Here are My mother and My brothers!
+MRK.3:34 And He looked around in a circle at those who sat about Him, and said, 'Here are My mother and My brothers!
 
 ### The Parable of the Sower
 
@@ -173,7 +173,7 @@ MRK.4:4 And it happened, as he sowed, that some seed fell by the wayside; and th
 MRK.4:5 Some fell on stony ground, where it did not have much earth; and immediately it sprang up because it had no depth of earth.
 MRK.4:6 But when the sun was up it was scorched, and because it had no root it withered away.
 MRK.4:7 And some seed fell among thorns; and the thorns grew up and choked it, and it yielded no crop.
-MRK.4:8 But other seed fell on good ground and yielded acrop that sprang up, increased and produced: some thirtyfold, some sixty, and some a hundred.'
+MRK.4:8 But other seed fell on good ground and yielded a crop that sprang up, increased and produced: some thirtyfold, some sixty, and some a hundred.'
 
 ### Why Parables?
 
@@ -195,7 +195,7 @@ MRK.4:19 and the cares of this world, the deceitfulness of riches, and the desir
 ### The Lamp Under a Basket
 
 MRK.4:20 But these are the ones sown on good ground, those who hear the word, accept it, and bear fruit: some thirtyfold, some sixty, and some a hundred.'
-MRK.4:21 Also He said to them, 'Is a lamp brought to be put under abasket or under abed? Is it not to be set on alampstand?
+MRK.4:21 Also He said to them, 'Is a lamp brought to be put under a basket or under a bed? Is it not to be set on a lampstand?
 MRK.4:22 For there is nothing hidden which will not be revealed, nor has anything been kept secret but that it should come to light.
 MRK.4:23 If anyone has ears to hear, let him hear.'
 MRK.4:24 Then He said to them, 'Take heed what you hear. With the same measure you use, it will be measured to you; and to you who hear, more will be given.
@@ -222,7 +222,7 @@ MRK.4:34 But without a parable He did not speak to them. And when they were alon
 MRK.4:35 On the same day, when evening had come, He said to them, 'Let us cross over to the other side.'
 MRK.4:36 Now when they had left the multitude, they took Him along in the boat as He was. And other little boats were also with Him.
 MRK.4:37 And great windstorm arose, and the waves beat into the boat, so that it was already filling.
-MRK.4:38 But He was in the stern, asleep on apillow. And they awoke Him and said to Him, 'Teacher, do You not care that we are perishing?'
+MRK.4:38 But He was in the stern, asleep on a pillow. And they awoke Him and said to Him, 'Teacher, do You not care that we are perishing?'
 MRK.4:39 Then He arose and rebuked the wind, and said to the sea, 'Peace, be still!' And the wind ceased and there was great calm.
 MRK.4:40 But He said to them, 'Why are you so fearful? How is it that you have no faith?'
 
@@ -262,7 +262,7 @@ MRK.5:23 and begged Him earnestly, saying, 'My little daughter lies at the point
 ### The Woman with a Flow of Blood
 
 MRK.5:24 So Jesus went with him, and great multitude followed Him and thronged Him.
-MRK.5:25 Now a certain woman had aflow of blood for twelve years,
+MRK.5:25 Now a certain woman had a flow of blood for twelve years,
 MRK.5:26 and had suffered many things from many physicians. She had spent all that she had and was no better, but rather grew worse.
 MRK.5:27 When she heard about Jesus, she came behind Him in the crowd and touched His garment.
 MRK.5:28 For she said, 'If only I may touch His clothes, I shall be made well.'
@@ -278,7 +278,7 @@ MRK.5:34 And He said to her, 'Daughter, your faith has made you well. Go in peac
 MRK.5:35 While He was still speaking, some came from the ruler of the synagogue's house who said, 'Your daughter is dead. Why trouble the Teacher any further?'
 MRK.5:36 As soon as Jesus heard the word that was spoken, He said to the ruler of the synagogue, 'Do not be afraid; only believe.'
 MRK.5:37 And He permitted no one to follow Him except Peter, James, and John the brother of James.
-MRK.5:38 Then He came to the house of the ruler of the synagogue, and saw atumult and those who wept and wailed loudly.
+MRK.5:38 Then He came to the house of the ruler of the synagogue, and saw a tumult and those who wept and wailed loudly.
 MRK.5:39 When He came in, He said to them, 'Why make this commotion and weep? The child is not dead, but sleeping.'
 MRK.5:40 And they ridiculed Him. But when He had put them all outside, He took the father and the mother of the child, and those who were with Him, and entered where the child was lying.
 MRK.5:41 Then He took the child by the hand, and said to her, 'Talitha, cumi,' which is translated, 'Little girl, I say to you, arise.'
@@ -295,12 +295,12 @@ MRK.6:5 Now He could do no mighty work there, except that He laid His hands on f
 
 ### The Mission of the Twelve
 
-MRK.6:6 And He marveled because of their unbelief. Then He went about the villages in acircuit, teaching.
+MRK.6:6 And He marveled because of their unbelief. Then He went about the villages in a circuit, teaching.
 MRK.6:7 And He called the twelve to Himself, and began to send them out two by two, and gave them power over unclean spirits.
-MRK.6:8 He commanded them to take nothing for the journey except astaff-no bag, no bread, no copper in their money belts-
+MRK.6:8 He commanded them to take nothing for the journey except a staff-no bag, no bread, no copper in their money belts-
 MRK.6:9 but to wear sandals, and not to put on two tunics.
 MRK.6:10 Also He said to them, 'In whatever place you enter a house, stay there till you depart from that place.
-MRK.6:11 And whoever will not receive you nor hear you, when you depart from there, shake off the dust under your feet as atestimony against them.Assuredly, I say to you, it will be more tolerable for Sodom and Gomorrah in the day of judgment than for that city!'
+MRK.6:11 And whoever will not receive you nor hear you, when you depart from there, shake off the dust under your feet as a testimony against them. Assuredly, I say to you, it will be more tolerable for Sodom and Gomorrah in the day of judgment than for that city!'
 MRK.6:12 So they went out and preached that people should repent.
 
 ### The Baptist Beheaded
@@ -313,24 +313,24 @@ MRK.6:17 For Herod himself had sent and laid hold of John, and bound him in pris
 MRK.6:18 Because John had said to Herod, 'It is not lawful for you to have your brother's wife.'
 MRK.6:19 Therefore Herodias held it against him and wanted to kill him, but she could not;
 MRK.6:20 for Herod feared John, knowing that he was just and holy man, and he protected him. And when he heard him, he did many things, and heard him gladly.
-MRK.6:21 Then an opportune day came when Herod on his birthday gave afeast for his nobles, the high officers, and the chief men of Galilee.
+MRK.6:21 Then an opportune day came when Herod on his birthday gave a feast for his nobles, the high officers, and the chief men of Galilee.
 MRK.6:22 And when Herodias' daughter herself came in and danced, and pleased Herod and those who sat with him, the king said to the girl, 'Ask me whatever you want, and I will give it to you.'
 MRK.6:23 He also swore to her, 'Whatever you ask me, I will give you, up to half my kingdom.'
 MRK.6:24 So she went out and said to her mother, 'What shall I ask?' And she said, 'The head of John the Baptist!'
-MRK.6:25 Immediately she came in with haste to the king and asked, saying, 'I want you to give me at once the head of John the Baptist on aplatter.'
+MRK.6:25 Immediately she came in with haste to the king and asked, saying, 'I want you to give me at once the head of John the Baptist on a platter.'
 MRK.6:26 And the king was exceedingly sorry; yet, because of the oaths and because of those who sat with him, he did not want to refuse her.
 MRK.6:27 Immediately the king sent an executioner and commanded his head to be brought. And he went and beheaded him in prison,
-MRK.6:28 brought his head on aplatter, and gave it to the girl; and the girl gave it to her mother.
+MRK.6:28 brought his head on a platter, and gave it to the girl; and the girl gave it to her mother.
 
 ### Feeding the Five Thousand
 
-MRK.6:29 When his disciples heard of it, they came and took away his corpse and laid it in atomb.
+MRK.6:29 When his disciples heard of it, they came and took away his corpse and laid it in a tomb.
 MRK.6:30 Then the apostles gathered to Jesus and told Him all things, both what they had done and what they had taught.
-MRK.6:31 And He said to them, 'Come aside by yourselves to adeserted place and rest awhile.' For there were many coming and going, and they did not even have time to eat.
-MRK.6:32 So they departed to adeserted place in the boat by themselves.
+MRK.6:31 And He said to them, 'Come aside by yourselves to a deserted place and rest awhile.' For there were many coming and going, and they did not even have time to eat.
+MRK.6:32 So they departed to a deserted place in the boat by themselves.
 MRK.6:33 But the multitudes saw them departing, and many knew Him and ran there on foot from all the cities. They arrived before them and came together to Him.
-MRK.6:34 And Jesus, when He came out, saw great multitude and was moved with compassion for them, because they were like sheep not having ashepherd. So He began to teach them many things.
-MRK.6:35 When the day was now far spent, His disciples came to Him and said, 'This is adeserted place, and already the hour is late.
+MRK.6:34 And Jesus, when He came out, saw great multitude and was moved with compassion for them, because they were like sheep not having a shepherd. So He began to teach them many things.
+MRK.6:35 When the day was now far spent, His disciples came to Him and said, 'This is a deserted place, and already the hour is late.
 MRK.6:36 Send them away, that they may go into the surrounding country and villages and buy themselves bread; for they have nothing to eat.'
 MRK.6:37 But He answered and said to them, 'You give them something to eat.'
 MRK.6:38 And they said to Him, 'Shall we go and buy two hundred denarii worth of bread and give them something to eat?' But He said to them, 'How many loaves do you have? Go and see.'
@@ -342,12 +342,12 @@ MRK.6:43 And they took up twelve baskets full of fragments and of the fish.
 
 ### Jesus Walks on Water
 
-MRK.6:44 Now those who had eaten the loaves were about afive thousand men.
+MRK.6:44 Now those who had eaten the loaves were about a five thousand men.
 MRK.6:45 Immediately He made His disciples get into the boat and go before Him to the other side, to Bethsaida, while He sent the multitude away.
 MRK.6:46 And when He had sent them away, He departed to the mountain to pray.
 MRK.6:47 Now when evening came, the boat was in the middle of the sea; and He was alone on the land.
 MRK.6:48 Then He saw them straining at rowing, for the wind was against them. Now about the fourth watch of the night He came to them, walking on the sea, and would have passed them by.
-MRK.6:49 And when they saw Him walking on the sea, they supposed it was aghost, and cried out;
+MRK.6:49 And when they saw Him walking on the sea, they supposed it was a ghost, and cried out;
 MRK.6:50 for they all saw Him and were troubled. But immediately He talked with them and said to them, 'Be of good cheer! It is I; do not be afraid.'
 MRK.6:51 Then He went up into the boat to them, and the wind ceased. And they were greatly amazed in themselves beyond measure, and marveled.
 
@@ -372,7 +372,7 @@ MRK.7:7 And in vain they worship Me, Teaching as doctrines the commandments of m
 MRK.7:8 For laying aside the commandment of God, you hold the tradition of men a -the washing of pitchers and cups, and many other such things you do.'
 MRK.7:9 He said to them, ' All too well you reject the commandment of God, that you may keep your tradition.
 MRK.7:10 For Moses said, 'Honor your father and your mother'; and, 'He who curses father or mother, let him be put to death.'
-MRK.7:11 But you say, 'If a man says to his father or mother, 'Whatever profit you might have received from me is Corban'-' (that is, agift to God ),
+MRK.7:11 But you say, 'If a man says to his father or mother, 'Whatever profit you might have received from me is Corban'-' (that is, a gift to God),
 MRK.7:12 then you no longer let him do anything for his father or his mother,
 MRK.7:13 making the word of God of no effect through your tradition which you have handed down. And many such things you do.'
 MRK.7:14 When He had called all the multitude to Himself, He said to them, 'Hear Me, everyone, and understand:
@@ -388,9 +388,9 @@ MRK.7:22 thefts, covetousness, wickedness, deceit, lewdness, an evil eye, blasph
 ### A Gentile Woman Believes
 
 MRK.7:23 All these evil things come from within and defile a man.'
-MRK.7:24 From there He arose and went to the region of Tyre and Sidon.And He entered a house and wanted no one to know it, but He could not be hidden.
+MRK.7:24 From there He arose and went to the region of Tyre and Sidon. And He entered a house and wanted no one to know it, but He could not be hidden.
 MRK.7:25 For a woman whose young daughter had an unclean spirit heard about Him, and she came and fell at His feet.
-MRK.7:26 The woman was a Greek,Syro-Phoenician by birth, and she kept asking Him to cast the demon out of her daughter.
+MRK.7:26 The woman was a Greek, Syro-Phoenician by birth, and she kept asking Him to cast the demon out of her daughter.
 MRK.7:27 But Jesus said to her, 'Let the children be filled first, for it is not good to take the children's bread and throw it to the little dogs.'
 MRK.7:28 And she answered and said to Him, 'Yes, Lord, yet even the little dogs under the table eat from the children's crumbs.'
 MRK.7:29 Then He said to her, 'For this saying go your way; the demon has gone out of your daughter.'
@@ -427,7 +427,7 @@ MRK.8:13 And He left them, and getting into the boat again, departed to the othe
 MRK.8:14 Now the disciples had forgotten to take bread, and they did not have more than one loaf with them in the boat.
 MRK.8:15 Then He charged them, saying, 'Take heed, beware of the leaven of the Pharisees and the leaven of Herod.'
 MRK.8:16 And they reasoned among themselves, saying, ' It is because we have no bread.'
-MRK.8:17 But Jesus, being aware of it, said to them, 'Why do you reason because you have no bread? Do you not yet perceive nor understand? Is your heart still ahardened?
+MRK.8:17 But Jesus, being aware of it, said to them, 'Why do you reason because you have no bread? Do you not yet perceive nor understand? Is your heart still hardened?
 MRK.8:18 Having eyes, do you not see? And having ears, do you not hear? And do you not remember?
 MRK.8:19 When I broke the five loaves for the five thousand, how many baskets full of fragments did you take up?'
 MRK.8:20 They said to Him, 'Twelve.' 'Also, when I broke the seven for the four thousand, how many large baskets full of fragments did you take up?'
@@ -480,7 +480,7 @@ MRK.9:13 But I say to you that Elijah has also come, and they did to him whateve
 MRK.9:14 And when He came to the disciples, He saw great multitude around them, and scribes disputing with them.
 MRK.9:15 Immediately, when they saw Him, all the people were greatly amazed, and running to Him, greeted Him.
 MRK.9:16 And He asked the scribes, 'What are you discussing with them?'
-MRK.9:17 Then one of the crowd answered and said, 'Teacher, I brought You my son, who has amute spirit.
+MRK.9:17 Then one of the crowd answered and said, 'Teacher, I brought You my son, who has a mute spirit.
 MRK.9:18 And wherever it seizes him, it throws him down; he foams at the mouth, gnashes his teeth, and becomes rigid. So I spoke to Your disciples, that they should cast it out, but they could not.'
 MRK.9:19 He answered him and said, 'O faithless generation, how long shall I be with you? How long shall I bear with you? Bring him to Me.'
 MRK.9:20 Then they brought him to Him. And when he saw Him, immediately the spirit convulsed him, and he fell on the ground and wallowed, foaming at the mouth.
@@ -505,7 +505,7 @@ MRK.9:35 And He sat down, called the twelve, and said to them, 'If anyone desire
 MRK.9:36 Then He took little child and set him in the midst of them. And when He had taken him in His arms, He said to them,
 MRK.9:37 'Whoever receives one of these little children in My name receives Me; and whoever receives Me, receives not Me but Him who sent Me.'
 MRK.9:38 Now John answered Him, saying, 'Teacher, we saw someone who does not follow us casting out demons in Your name, and we forbade him because he does not follow us.'
-MRK.9:39 But Jesus said, 'Do not forbid him, for no one who works amiracle in My name can soon afterward speak evil of Me.
+MRK.9:39 But Jesus said, 'Do not forbid him, for no one who works a miracle in My name can soon afterward speak evil of Me.
 MRK.9:40 For he who is not against us is on our aside.
 MRK.9:41 For whoever gives you a cup of water to drink in My name, because you belong to Christ, assuredly, I say to you, he will by no means lose his reward.
 MRK.9:42 'But whoever causes one of these little ones who believe in Me to stumble, it would be better for him if a millstone were hung around his neck, and he were thrown into the sea.
@@ -523,7 +523,7 @@ MRK.9:50 Salt is good, but if the salt loses its flavor, how will you season it?
 MRK.10:1 Then He arose from there and came to the region of Judea by the other side of the Jordan. And multitudes gathered to Him again, and as He was accustomed, He taught them again.
 MRK.10:2 The Pharisees came and asked Him, 'Is it lawful for a man to divorce his wife?' testing Him.
 MRK.10:3 And He answered and said to them, 'What did Moses command you?'
-MRK.10:4 They said, 'Moses permitted a man to write acertificate of divorce, and to dismiss her. '
+MRK.10:4 They said, 'Moses permitted a man to write a certificate of divorce, and to dismiss her. '
 MRK.10:5 And Jesus answered and said to them, 'Because of the hardness of your heart he wrote you this precept.
 MRK.10:6 But from the beginning of the creation, God 'made them male and female.'
 MRK.10:7 'For this reason a man shall leave his father and mother and be joined to his wife,
@@ -550,12 +550,12 @@ MRK.10:21 Then Jesus, looking at him, loved him, and said to him, 'One thing you
 MRK.10:22 But he was sad at this word, and went away sorrowful, for he had great possessions.
 MRK.10:23 Then Jesus looked around and said to His disciples, 'How hard it is for those who have riches to enter the kingdom of God!'
 MRK.10:24 And the disciples were astonished at His words. But Jesus answered again and said to them, 'Children, how hard it is for those who trust in riches to enter the kingdom of God!
-MRK.10:25 It is easier for acamel to go through the eye of aneedle than for a rich man to enter the kingdom of God.'
+MRK.10:25 It is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.'
 MRK.10:26 And they were greatly astonished, saying among themselves, 'Who then can be saved?'
 MRK.10:27 But Jesus looked at them and said, 'With men it is impossible, but not with God; for with God all things are possible.'
 MRK.10:28 Then Peter began to say to Him, 'See, we have left all and followed You.'
 MRK.10:29 So Jesus answered and said, 'Assuredly, I say to you, there is no one who has left house or brothers or sisters or father or mother or wife or children or lands, for My sake and the gospel's,
-MRK.10:30 who shall not receive ahundredfold now in this time-houses and brothers and sisters and mothers and children and lands, with persecutions-and in the age to come, eternal life.
+MRK.10:30 who shall not receive a hundredfold now in this time-houses and brothers and sisters and mothers and children and lands, with persecutions-and in the age to come, eternal life.
 
 MRK.10:31 But many who are first will be last, and the last first.'
 MRK.10:32 Now they were on the road, going up to Jerusalem, and Jesus was going before them; and they were amazed. And as they followed they were afraid. Then He took the twelve aside again and began to tell them the things that would happen to Him:
@@ -598,7 +598,7 @@ MRK.11:6 And they spoke to them just as Jesus had commanded. So they let them go
 MRK.11:7 Then they brought the colt to Jesus and threw their clothes on it, and He sat on it.
 MRK.11:8 And many spread their clothes on the road, and others cut down leafy branches from the trees and spread them on the road.
 MRK.11:9 Then those who went before and those who followed cried out, saying: 'Hosanna!
-MRK.11:10 'Blessed is He who comes in the name of the LORD!'Blessed is the kingdom of our father Dav id That comes in the name of the Lord!Hosanna in the highest!'
+MRK.11:10 'Blessed is He who comes in the name of the LORD!'Blessed is the kingdom of our father David That comes in the name of the Lord! Hosanna in the highest!'
 
 MRK.11:11 And Jesus went into Jerusalem and into the temple. So when He had looked around at all things, as the hour was already late, He went out to Bethany with the twelve.
 MRK.11:12 Now the next day, when they had come out from Bethany, He was hungry.
@@ -607,7 +607,7 @@ MRK.11:14 In response Jesus said to it, 'Let no one eat fruit from you ever agai
 
 MRK.11:15 And His disciples heard it. So they came to Jerusalem. Then Jesus went into the temple and began to drive out those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves.
 MRK.11:16 And He would not allow anyone to carry wares through the temple.
-MRK.11:17 Then He taught, saying to them, 'Is it not written, 'My house shall be called a house of prayer for all nations'?But you have made it a 'den of thieves.' '
+MRK.11:17 Then He taught, saying to them, 'Is it not written, 'My house shall be called a house of prayer for all nations'? But you have made it a 'den of thieves.' '
 MRK.11:18 And the scribes and chief priests heard it and sought how they might destroy Him; for they feared Him, because all the people were astonished at His teaching.
 
 MRK.11:19 When evening had come, He went out of the city.
@@ -624,7 +624,7 @@ MRK.11:28 And they said to Him, 'By what authority are You doing these things? A
 MRK.11:29 But Jesus answered and said to them, 'I also will ask you one question; then answer Me, and I will tell you by what authority I do these things:
 MRK.11:30 The baptism of John-was it from heaven or from men? Answer Me.'
 MRK.11:31 And they reasoned among themselves, saying, 'If we say, 'From heaven,' He will say, 'Why then did you not believe him?'
-MRK.11:32 But if we say, 'From men' '-they feared the people, for all counted John to have been aprophet indeed.
+MRK.11:32 But if we say, 'From men' '-they feared the people, for all counted John to have been a prophet indeed.
 MRK.11:33 So they answered and said to Jesus, 'We do not know.'
 
 ### The Wicked Vinedressers
@@ -633,10 +633,10 @@ MRK.11:34 And Jesus answered and said to them, 'Neither will I tell you by what 
 MRK.11:35
 ## Chapter 12
 
-MRK.12:1 Then He began to speak to them in parables: 'A man planted avineyard and set ahedge around it, dug a place for the wine vat and built atower. And he leased it to vinedressers and went into afar country.
+MRK.12:1 Then He began to speak to them in parables: 'A man planted a vineyard and set a hedge around it, dug a place for the wine vat and built a tower. And he leased it to vinedressers and went into a far country.
 MRK.12:2 Now at vintage-time he sent a servant to the vinedressers, that he might receive some of the fruit of the vineyard from the vinedressers.
 MRK.12:3 And they took him and beat him and sent him away empty-handed.
-MRK.12:4 Again he sent them another servant, and at him they threw stones, awounded him in the head, and sent him away shamefully treated.
+MRK.12:4 Again he sent them another servant, and at him they threw stones, wounded him in the head, and sent him away shamefully treated.
 MRK.12:5 And again he sent another, and him they killed; and many others, beating some and killing some.
 MRK.12:6 Therefore still having one son, his beloved, he also sent him to them last, saying, 'They will respect my son.'
 MRK.12:7 But those vinedressers said among themselves, 'This is the heir. Come, let us kill him, and the inheritance will be ours.'
@@ -655,8 +655,8 @@ MRK.12:17 And He said to them, 'Whose image and inscription is this?' They said 
 ### Jesus Explains the Resurrection
 
 MRK.12:18 Then some Sadducees, who say there is no resurrection, came to Him; and they asked Him, saying: And they marveled at Him.
-MRK.12:19 'Teacher, Moses wrote to us that if aman's brother dies, and leaves his wife behind, and leaves no children, his brother should take his wife and raise up offspring for his brother.
-MRK.12:20 Now there were seven brothers. The first took awife; and dying, he left no offspring.
+MRK.12:19 'Teacher, Moses wrote to us that if a man's brother dies, and leaves his wife behind, and leaves no children, his brother should take his wife and raise up offspring for his brother.
+MRK.12:20 Now there were seven brothers. The first took a wife; and dying, he left no offspring.
 MRK.12:21 And the second took her, and he died; nor did he leave any offspring. And the third likewise.
 MRK.12:22 So the seven had her and left no offspring. Last of all the woman died also.
 MRK.12:23 Therefore, in the resurrection, when they rise, whose wife will she be? For all seven had her as wife.'
@@ -686,7 +686,7 @@ MRK.12:37 Therefore David himself calls Him 'Lord'; how is He then his Son?'
 MRK.12:38 Then He said to them in His teaching, 'Beware of the scribes, who desire to go around in long robes, love greetings in the marketplaces, And the common people heard Him gladly.
 
 MRK.12:39 the best seats in the synagogues, and the best places at feasts,
-MRK.12:40 who devour widows' houses, and for apretense make long prayers. These will receive greater condemnation.'
+MRK.12:40 who devour widows' houses, and for a pretense make long prayers. These will receive greater condemnation.'
 MRK.12:41 Now Jesus sat opposite the treasury and saw how the people put money into the treasury. And many who were rich put in much.
 MRK.12:42 Then one poor widow came and threw in two mites, which make aquadrans.
 MRK.12:43 So He called His disciples to Himself and said to them, 'Assuredly, I say to you that this poor widow has put in more than all those who have given to the treasury;
@@ -707,14 +707,14 @@ MRK.13:4 'Tell us, when will these things be? And what will be the sign when all
 MRK.13:5 And Jesus, answering them, began to say: 'Take heed that no one deceives you.
 MRK.13:6 For many will come in My name, saying, 'I am He, ' and will deceive many.
 MRK.13:7 But when you hear of wars and rumors of wars, do not be troubled; for such things must happen, but the end is not yet.
-MRK.13:8 For nation will rise against nation, and kingdom against kingdom. And there will be earthquakes in various places, and there will be famines and troubles.These are the beginnings of sorrows.
-MRK.13:9 'But watch out for yourselves, for they will deliver you up to councils, and you will be beaten in the synagogues. You will be brought before rulers and kings for My sake, for atestimony to them.
+MRK.13:8 For nation will rise against nation, and kingdom against kingdom. And there will be earthquakes in various places, and there will be famines and troubles. These are the beginnings of sorrows.
+MRK.13:9 'But watch out for yourselves, for they will deliver you up to councils, and you will be beaten in the synagogues. You will be brought before rulers and kings for My sake, for a testimony to them.
 MRK.13:10 And the gospel must first be preached to all the nations.
 MRK.13:11 But when they arrest you and deliver you up, do not worry beforehand, or premeditate what you will speak. But whatever is given you in that hour, speak that; for it is not you who speak, but the Holy Spirit.
 MRK.13:12 Now brother will betray brother to death, and a father his child; and children will rise up against parents and cause them to be put to death.
 
 MRK.13:13 And you will be hated by all for My name's sake. But he who endures to the end shall be saved.
-MRK.13:14 'So when you see the 'abomination of desolation,' aspoken of by Daniel the prophet, bstanding where it ought not' (let the reader understand), 'then let those who are in Judea flee to the mountains.
+MRK.13:14 'So when you see the 'abomination of desolation,' spoken of by Daniel the prophet, standing where it ought not' (let the reader understand), 'then let those who are in Judea flee to the mountains.
 MRK.13:15 Let him who is on the housetop not go down into the house, nor enter to take anything out of his house.
 MRK.13:16 And let him who is in the field not go back to get his clothes.
 MRK.13:17 But woe to those who are pregnant and to those who are nursing babies in those days!
@@ -740,7 +740,7 @@ MRK.13:30 Assuredly, I say to you, this generation will by no means pass away ti
 MRK.13:31 Heaven and earth will pass away, but My words will by no means pass away.
 MRK.13:32 'But of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father.
 MRK.13:33 Take heed, watch and pray; for you do not know when the time is.
-MRK.13:34 It is like a man going to afar country, who left his house and gave authority to his servants, and to each his work, and commanded the doorkeeper to watch.
+MRK.13:34 It is like a man going to a far country, who left his house and gave authority to his servants, and to each his work, and commanded the doorkeeper to watch.
 MRK.13:35 Watch therefore, for you do not know when the master of the house is coming-in the evening, at midnight, at the crowing of the rooster, or in the morning-
 MRK.13:36 lest, coming suddenly, he find you sleeping.
 
@@ -764,14 +764,14 @@ MRK.14:8 She has done what she could. She has come beforehand to anoint My body 
 
 ### Judas Betrays Jesus
 
-MRK.14:9 Assuredly, I say to you, wherever this gospel is preached in the whole world, what this woman has done will also be told as amemorial to her.'
+MRK.14:9 Assuredly, I say to you, wherever this gospel is preached in the whole world, what this woman has done will also be told as a memorial to her.'
 MRK.14:10 Then Judas Iscariot, one of the twelve, went to the chief priests to betray Him to them.
 
 ### Preparations for the Passover
 
 MRK.14:11 And when they heard it, they were glad, and promised to give him money. So he sought how he might conveniently betray Him.
 MRK.14:12 Now on the first day of Unleavened Bread, when they killed the Passover lamb, His disciples said to Him, 'Where do You want us to go and prepare, that You may eat the Passover?'
-MRK.14:13 And He sent out two of His disciples and said to them, 'Go into the city, and a man will meet you carrying apitcher of water; follow him.
+MRK.14:13 And He sent out two of His disciples and said to them, 'Go into the city, and a man will meet you carrying a pitcher of water; follow him.
 MRK.14:14 Wherever he goes in, say to the master of the house, 'The Teacher says, 'Where is the guest room in which I may eat the Passover with My disciples?' '
 MRK.14:15 Then he will show you a large upper room, furnished and prepared; there make ready for us.'
 
@@ -785,9 +785,9 @@ MRK.14:20 He answered and said to them, ' It is one of the twelve, who dips with
 MRK.14:21 The Son of Man indeed goes just as it is written of Him, but woe to that man by whom the Son of Man is betrayed! It would have been good for that man if he had never been born.'
 MRK.14:22 And as they were eating, Jesus took bread, blessed and broke it, and gave it to them and said, 'Take, eat; this is My body.'
 MRK.14:23 Then He took the cup, and when He had given thanks He gave it to them, and they all drank from it.
-MRK.14:24 And He said to them, 'This is My blood of the new acovenant, which is shed for many.
+MRK.14:24 And He said to them, 'This is My blood of the new covenant, which is shed for many.
 MRK.14:25 Assuredly, I say to you, I will no longer drink of the fruit of the vine until that day when I drink it new in the kingdom of God.'
-MRK.14:26 And when they had sung ahymn, they went out to the Mount of Olives.
+MRK.14:26 And when they had sung a hymn, they went out to the Mount of Olives.
 MRK.14:27 Then Jesus said to them, 'All of you will be made to stumble because of Me this night, for it is written: 'I will strike the Shepherd, And the sheep will be scattered.'
 MRK.14:28 b 'But after I have been raised, I will go before you to Galilee.'
 MRK.14:29 Peter said to Him, 'Even if all are made to stumble, yet I will not be. '
@@ -811,14 +811,14 @@ MRK.14:41 Then He came the third time and said to them, 'Are you still sleeping 
 
 MRK.14:42 Rise, let us be going. See, My betrayer is at hand.'
 MRK.14:43 And immediately, while He was still speaking, Judas, one of the twelve, with great multitude with swords and clubs, came from the chief priests and the scribes and the elders.
-MRK.14:44 Now His betrayer had given them asignal, saying, 'Whomever I kiss, He is the One; seize Him and lead Him away safely.'
+MRK.14:44 Now His betrayer had given them a signal, saying, 'Whomever I kiss, He is the One; seize Him and lead Him away safely.'
 MRK.14:45 As soon as he had come, immediately he went up to Him and said to Him, 'Rabbi, Rabbi!' and kissed Him.
 MRK.14:46 Then they laid their hands on Him and took Him.
 MRK.14:47 And one of those who stood by drew his sword and struck the servant of the high priest, and cut off his ear.
-MRK.14:48 Then Jesus answered and said to them, 'Have you come out, as against arobber, with swords and clubs to take Me?
+MRK.14:48 Then Jesus answered and said to them, 'Have you come out, as against a robber, with swords and clubs to take Me?
 MRK.14:49 I was daily with you in the temple teaching, and you did not seize Me. But the Scriptures must be fulfilled.'
 MRK.14:50 Then they all forsook Him and fled.
-MRK.14:51 Now a certain young man followed Him, having alinen cloth thrown around his naked body. And the young men laid hold of him,
+MRK.14:51 Now a certain young man followed Him, having a linen cloth thrown around his naked body. And the young men laid hold of him,
 
 ### Jesus Before the Sanhedrin
 
@@ -852,14 +852,14 @@ MRK.14:72 A second time the rooster crowed. Then Peter called to mind the word t
 MRK.14:73
 ## Chapter 15
 
-MRK.15:1 Immediately, in the morning, the chief priests held aconsultation with the elders and scribes and the whole council; and they bound Jesus, led Him away, and delivered Him to Pilate.
+MRK.15:1 Immediately, in the morning, the chief priests held a consultation with the elders and scribes and the whole council; and they bound Jesus, led Him away, and delivered Him to Pilate.
 MRK.15:2 Then Pilate asked Him, 'Are You the King of the Jews?'
 MRK.15:3 He answered and said to him, ' It is as you say.' And the chief priests accused Him of many things, but He answered nothing.
 MRK.15:4 Then Pilate asked Him again, saying, 'Do You answer nothing? See how many things they testify against You!'
 MRK.15:5 But Jesus still answered nothing, so that Pilate marveled.
 MRK.15:6 Now at the feast he was accustomed to releasing one prisoner to them, whomever they requested.
 MRK.15:7 And there was one named Barabbas, who was chained with his fellow rebels; they had committed murder in the rebellion.
-MRK.15:8 Then the multitude, crying a loud, abegan to ask him to do just as he had always done for them.
+MRK.15:8 Then the multitude, crying a loud, began to ask him to do just as he had always done for them.
 MRK.15:9 But Pilate answered them, saying, 'Do you want me to release to you the King of the Jews?'
 MRK.15:10 For he knew that the chief priests had handed Him over because of envy.
 MRK.15:11 But the chief priests stirred up the crowd, so that he should rather release Barabbas to them.
@@ -892,7 +892,7 @@ MRK.15:32 Let the Christ, the King of Israel, descend now from the cross, that w
 MRK.15:33 Now when the sixth hour had come, there was darkness over the whole land until the ninth hour.
 MRK.15:34 And at the ninth hour Jesus cried out with a loud voice, saying, 'Eloi, Eloi, lama sabachthani?' which is translated, 'My God, My God, why have You forsaken Me?'
 MRK.15:35 Some of those who stood by, when they heard that, said, 'Look, He is calling for Elijah!'
-MRK.15:36 Then someone ran and filled asponge full of sour wine, put it on a reed, and offered it to Him to drink, saying, 'Let Him alone; let us see if Elijah will come to take Him down.'
+MRK.15:36 Then someone ran and filled a sponge full of sour wine, put it on a reed, and offered it to Him to drink, saying, 'Let Him alone; let us see if Elijah will come to take Him down.'
 MRK.15:37 And Jesus cried out with a loud voice, and breathed His last.
 MRK.15:38 Then the veil of the temple was torn in two from top to bottom.
 MRK.15:39 So when the centurion, who stood opposite Him, saw that He cried out like this and breathed His last, he said, 'Truly this Man was the Son of God!'
@@ -905,7 +905,7 @@ MRK.15:42 Now when evening had come, because it was the Preparation Day, that is
 MRK.15:43 Joseph of Arimathea, a prominent council member, who was himself waiting for the kingdom of God, coming and taking courage, went in to Pilate and asked for the body of Jesus.
 MRK.15:44 Pilate marveled that He was already dead; and summoning the centurion, he asked him if He had been dead for some time.
 MRK.15:45 So when he found out from the centurion, he granted the body to Joseph.
-MRK.15:46 Then he bought fine linen, took Him down, and wrapped Him in the linen. And he laid Him in atomb which had been hewn out of the rock, and rolled a stone against the door of the tomb.
+MRK.15:46 Then he bought fine linen, took Him down, and wrapped Him in the linen. And he laid Him in a tomb which had been hewn out of the rock, and rolled a stone against the door of the tomb.
 
 ### The Empty Tomb
 

@@ -296,7 +296,7 @@ ISA.13:1 The vision against Babylon seen by Isaiah the son of Amoz:
 ISA.13:2 'Lift up a sign on the mountain of the plain and raise your voice to them. Do not fear; comfort with your hand; open the gates, O you rulers.
 ISA.13:3 I command and I lead them. They are sanctified, and I lead them. My mighty ones come to fulfill My anger-rejoicing and insulting at the same time.'
 ISA.13:4 The sound of many nations upon the mountains, like that of many nations, the voice of kings and nations gathered together-the Lord of hosts commanded a warring nation
-ISA.13:5 to come from afar country, from the end of heaven, the Lord and His weapons, to destroy all the inhabited world.
+ISA.13:5 to come from a far country, from the end of heaven, the Lord and His weapons, to destroy all the inhabited world.
 ISA.13:6 Wail, for the day of the Lord is at hand, and destruction will come from God.
 ISA.13:7 Therefore every hand will grow weary, and every man's soul will be fearful.
 ISA.13:8 The elders will be troubled. Pangs will take hold of them, like a woman in childbirth, and they will wail at one another and be amazed; and their countenance shall change like a flame.
@@ -852,7 +852,7 @@ ISA.38:22 Then Hezekiah said, 'This is the sign that I shall go up to the house 
 
 ISA.39:1 At that time, Merodach the son of Baladan, king of Babylon, sent letters, ambassadors, and gifts to Hezekiah, for he heard he was sick and almost died, but had recovered.
 ISA.39:2 Hezekiah was very glad they came, and he showed them the house of his treasures-the oil of myrrh, the fragrant incense, the ointment, the silver and the gold-and all the treasure houses with their vessels, and everything found among his treasures. There was nothing in his house he did not show them.
-ISA.39:3 Then Isaiah the prophet went to King Hezekiah, and said to him, 'What did these men say, and from where did they come to you?' So Hezekiah said, 'They came to me from afar country, from Babylon.'
+ISA.39:3 Then Isaiah the prophet went to King Hezekiah, and said to him, 'What did these men say, and from where did they come to you?' So Hezekiah said, 'They came to me from a far country, from Babylon.'
 ISA.39:4 Then he said, 'What did they see in your house?' So Hezekiah answered, 'They saw everything in my house; there is nothing in my house they did not see, even among my treasures.'
 ISA.39:5 Then Isaiah said to Hezekiah, 'Hear the word of the Lord of hosts:
 ISA.39:6 'Behold, the days are coming,' says the Lord, 'when everything in your house and everything your fathers accumulated until this day shall be carried to Babylon; nothing shall be left.'
@@ -1234,7 +1234,7 @@ ISA.56:6 I will also give an eternal name to the foreigners who devote themselve
 ISA.56:7 I will lead them to My holy mountain and gladden them in My house of prayer. Their whole burnt offerings and sacrifices shall be accepted upon My altar, for My house shall be called House of Prayer for All Nations,'
 ISA.56:8 says the Lord who gathers the dispersed of Israel; 'for I will gather together a congregation to Him.'
 ISA.56:9 All you wild animals of the fields and all you wild animals of the thicket, come and eat.
-ISA.56:10 See, all are blinded; they do not know how to be discerning; all are dumb dogs unable to bark; dozing on abed, loving to sleep.
+ISA.56:10 See, all are blinded; they do not know how to be discerning; all are dumb dogs unable to bark; dozing on a bed, loving to sleep.
 ISA.56:11 They are shameless dogs in their soul and do not know satisfaction. They are evil and have no understanding. All follow their own ways, each according to his own will.
 ## Chapter 57
 

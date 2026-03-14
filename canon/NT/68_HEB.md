@@ -192,7 +192,7 @@ HEB.7:17 For He testifies: 'You are a priest forever According to the order of M
 HEB.7:18 For on the one hand there is an annulling of the former commandment because of its weakness and unprofitableness,
 HEB.7:19 for the law made nothing perfect; on the other hand, there is the bringing in of a better hope, through which we draw near to God.
 HEB.7:20 And inasmuch as He was not made priest without an oath
-HEB.7:21 (for they have become priests without an oath, but He with an oath by Him who said to Him: 'The LORD has sworn And will not relent, 'You are a priest forever According to the order of Melchizedek' ' ),
+HEB.7:21 (for they have become priests without an oath, but He with an oath by Him who said to Him: 'The LORD has sworn And will not relent, 'You are a priest forever According to the order of Melchizedek' '),
 HEB.7:22 by so much more Jesus has become a surety of a better covenant.
 HEB.7:23 Also there were many priests, because they were prevented by death from continuing.
 HEB.7:24 But He, because He continues forever, has an unchangeable priesthood.
@@ -407,7 +407,7 @@ HEB.12:17 For you know that afterward, when he wanted to inherit the blessing, h
 HEB.12:18 For you have not come to the mountain that may be touched and that burned with fire, and to blackness and darkness and tempest,
 HEB.12:19 and the sound of a trumpet and the voice of words, so that those who heard it begged that the word should not be spoken to them anymore.
 HEB.12:20 (For they could not endure what was commanded: 'And if so much as a beast touches the mountain, it shall be stoned or shot with an arrow.'
-HEB.12:21 And so terrifying was the sight that Moses said, 'I am exceedingly afraid and trembling.' )
+HEB.12:21 And so terrifying was the sight that Moses said, 'I am exceedingly afraid and trembling.')
 HEB.12:22 But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, to an innumerable company of angels,
 HEB.12:23 to the general assembly and church of the firstborn who are registered in heaven, to God the Judge of all, to the spirits of just men made perfect,
 HEB.12:24 to Jesus the Mediator of the new covenant, and to the blood of sprinkling that speaks better things than that of Abel.

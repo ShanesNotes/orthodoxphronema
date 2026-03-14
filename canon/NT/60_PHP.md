@@ -37,14 +37,14 @@ PHP.1:12 But I want you to know, brethren, that the things which happened to me 
 PHP.1:13 so that it has become evident to the whole palace guard, and to all the rest, that my chains are in Christ;
 PHP.1:14 and most of the brethren in the Lord, having become confident by my chains, are much more bold to speak the word without fear.
 PHP.1:15 Some indeed preach Christ even from envy and strife, and some also from goodwill:
-PHP.1:16 The former apreach Christ from selfish ambition, not sincerely, supposing to add affliction to my chains;
+PHP.1:16 The former a preach Christ from selfish ambition, not sincerely, supposing to add affliction to my chains;
 PHP.1:17 but the latter out of love, knowing that I am appointed for the defense of the gospel.
 PHP.1:18 What then? Only that in every way, whether in pretense or in truth, Christ is preached; and in this I rejoice, yes, and will rejoice.
 PHP.1:19 For I know that this will turn out for my deliverance through your prayer and the supply of the Spirit of Jesus Christ,
 PHP.1:20 according to my earnest expectation and hope that in nothing I shall be ashamed, but with all boldness, as always, so now also Christ will be magnified in my body, whether by life or by death.
 PHP.1:21 For to me, to live is Christ, and to die is gain.
 PHP.1:22 But if I live on in the flesh, this will mean fruit from my labor; yet what I shall choose I cannot tell.
-PHP.1:23 For a I am hard-pressed between the two, having adesire to depart and be with Christ, which is far better.
+PHP.1:23 For I am hard-pressed between the two, having a desire to depart and be with Christ, which is far better.
 PHP.1:24 Nevertheless to remain in the flesh is more needful for you.
 PHP.1:25 And being confident of this, I know that I shall remain and continue with you all for your progress and joy of faith,
 
@@ -52,7 +52,7 @@ PHP.1:25 And being confident of this, I know that I shall remain and continue wi
 
 PHP.1:26 that your rejoicing for me may be more abundant in Jesus Christ by my coming to you again.
 PHP.1:27 Only let your conduct be worthy of the gospel of Christ, so that whether I come and see you or am absent, I may hear of your affairs, that you stand fast in one spirit, with one mind striving together for the faith of the gospel,
-PHP.1:28 and not in any way terrified by your adversaries, which is to them aproof of perdition, but to you of salvation, and that from God.
+PHP.1:28 and not in any way terrified by your adversaries, which is to them a proof of perdition, but to you of salvation, and that from God.
 
 ### Preserve Unity in Humility
 
@@ -66,7 +66,7 @@ PHP.2:3 Let nothing be done through selfish ambition or conceit, but in lowlines
 PHP.2:4 Let each of you look out not only for his own interests, but also for the interests of others.
 PHP.2:5 Let this mind be in you which was also in Christ Jesus,
 PHP.2:6 who, being in the form of God, did not consider it robbery to be equal with God,
-PHP.2:7 but made Himself of no reputation, taking the form of abondservant, and coming in the likeness of men.
+PHP.2:7 but made Himself of no reputation, taking the form of a bondservant, and coming in the likeness of men.
 PHP.2:8 And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross.
 PHP.2:9 Therefore God also has highly exalted Him and given Him the name which is above every name,
 PHP.2:10 that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth,
@@ -80,14 +80,14 @@ PHP.2:14 Do all things without complaining and disputing,
 
 ### Apostolic Support for Philippi
 
-PHP.2:15 that you may become blameless and harmless, children of God without fault in the midst of acrooked and perverse generation, among whom you shine as lights in the world,
+PHP.2:15 that you may become blameless and harmless, children of God without fault in the midst of a crooked and perverse generation, among whom you shine as lights in the world,
 PHP.2:16 holding fast the word of life, so that I may rejoice in the day of Christ that I have not run in vain or labored in vain.
-PHP.2:17 Yes, and if I am being poured out as adrink offering on the sacrifice and service of your faith, I am glad and rejoice with you all.
+PHP.2:17 Yes, and if I am being poured out as a drink offering on the sacrifice and service of your faith, I am glad and rejoice with you all.
 PHP.2:18 For the same reason you also be glad and rejoice with me.
 PHP.2:19 But I trust in the Lord Jesus to send Timothy to you shortly, that I also may be encouraged when I know your state.
 PHP.2:20 For I have no one like-minded, who will sincerely care for your state.
 PHP.2:21 For all seek their own, not the things which are of Christ Jesus.
-PHP.2:22 But you know his proven character, that as ason with his father he served with me in the gospel.
+PHP.2:22 But you know his proven character, that as a son with his father he served with me in the gospel.
 PHP.2:23 Therefore I hope to send him at once, as soon as I see how it goes with me.
 PHP.2:24 But I trust in the Lord that I myself shall also come shortly.
 PHP.2:25 Yet I considered it necessary to send to you Epaphroditus, my brother, fellow worker, and fellow soldier, but your messenger and the one who ministered to my need;
@@ -103,9 +103,9 @@ PHP.2:30 because for the work of Christ he came close to death, not regarding hi
 
 PHP.3:1 Finally, my brethren, rejoice in the Lord. For me to write the same things to you is not tedious, but for you it is safe.
 PHP.3:2 Beware of dogs, beware of evil workers, beware of the mutilation!
-PHP.3:3 For we are the circumcision, who worship God in the Spirit, arejoice in Christ Jesus, and have no confidence in the flesh,
+PHP.3:3 For we are the circumcision, who worship God in the Spirit, rejoice in Christ Jesus, and have no confidence in the flesh,
 PHP.3:4 though I also might have confidence in the flesh. If anyone else thinks he may have confidence in the flesh, I more so:
-PHP.3:5 circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin,Hebrew of the Hebrews; concerning the law,Pharisee;
+PHP.3:5 circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, Hebrew of the Hebrews; concerning the law, Pharisee;
 PHP.3:6 concerning zeal, persecuting the church; concerning the righteousness which is in the law, blameless.
 PHP.3:7 But what things were gain to me, these I have counted loss for Christ.
 PHP.3:8 Yet indeed I also count all things loss for the excellence of the knowledge of Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them as rubbish, that I may gain Christ
@@ -120,7 +120,7 @@ PHP.3:13 Brethren, I do not count myself to have apprehended; but one thing I do
 PHP.3:14 I press toward the goal for the prize of the upward call of God in Christ Jesus.
 PHP.3:15 Therefore let us, as many as are mature, have this mind; and if in anything you think otherwise, God will reveal even this to you.
 PHP.3:16 Nevertheless, to the degree that we have already attained, let us walk by the same rule, let us be of the same mind.
-PHP.3:17 Brethren, join in following my example, and note those who so walk, as you have us for apattern.
+PHP.3:17 Brethren, join in following my example, and note those who so walk, as you have us for a pattern.
 PHP.3:18 For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
 PHP.3:19 whose end is destruction, whose god is their belly, and whose glory is in their shame-who set their mind on earthly things.
 PHP.3:20 For our citizenship is in heaven, from which we also eagerly wait for the Savior, the Lord Jesus Christ,
@@ -150,7 +150,7 @@ PHP.4:14 Nevertheless you have done well that you shared in my distress.
 PHP.4:15 Now you Philippians know also that in the beginning of the gospel, when I departed from Macedonia, no church shared with me concerning giving and receiving but you only.
 PHP.4:16 For even in Thessalonica you sent aid once and again for my necessities.
 PHP.4:17 Not that I seek the gift, but I seek the fruit that abounds to your account.
-PHP.4:18 Indeed I have all and abound. I am full, having received from Epaphroditus the things sent from you, asweet-smelling aroma, an acceptable sacrifice, well pleasing to God.
+PHP.4:18 Indeed I have all and abound. I am full, having received from Epaphroditus the things sent from you, a sweet-smelling aroma, an acceptable sacrifice, well pleasing to God.
 PHP.4:19 And my God shall supply all your need according to His riches in glory by Christ Jesus.
 
 ### Greetings and Benediction
@@ -158,4 +158,4 @@ PHP.4:19 And my God shall supply all your need according to His riches in glory 
 PHP.4:20 Now to our God and Father be glory forever and ever. Amen.
 PHP.4:21 Greet every saint in Christ Jesus. The brethren who are with me greet you.
 PHP.4:22 All the saints greet you, but especially those who are of Caesar's household.
-PHP.4:23 The grace of our Lord Jesus Christ be with you all.Amen.
+PHP.4:23 The grace of our Lord Jesus Christ be with you all. Amen.

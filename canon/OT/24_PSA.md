@@ -309,7 +309,7 @@ PSA.18:3 Day to day utters speech, And night to night reveals knowledge.
 PSA.18:4 There is no speech nor language Where their voices are not heard.
 PSA.18:5 Their proclamation went forth into all the earth, And their words to the ends of the world. In the sun He set His tabernacle;
 PSA.18:6 And it rejoices exceedingly Like a bridegroom coming forth from his bridal chamber, Like a strong man to run a race.
-PSA.18:7 Its rising is from one end of heaven, And its circuit runs to the other end; And nothing shall be hidden fromits heat.
+PSA.18:7 Its rising is from one end of heaven, And its circuit runs to the other end; And nothing shall be hidden from its heat.
 PSA.18:8 The law of the Lord is blameless, converting souls; The testimony of the Lord is trustworthy, making children wise;
 PSA.18:9 The ordinances of the Lord are right, rejoicing the heart; The commandment of the Lord is bright, enlightening the eyes;
 PSA.18:10 The fear of the Lord is pure, enduring unto ages of ages; The judgments of the Lord are true, being altogether just.
@@ -916,7 +916,7 @@ PSA.48:21 A man being in honor did not understand; He was compared to the sensel
 ## Chapter 49
 
 PSA.49:1 A psalm for Asaph. The God of gods, the Lord, spoke, and summoned the earth From the sun's rising to its very setting.
-PSA.49:2 From Zion in beauty 's splendor, God will come openly;
+PSA.49:2 From Zion in beauty's splendor, God will come openly;
 PSA.49:3 He is our God, and He shall not be silent; A fire shall be kindled before Him, And there shall be a mighty storm round about Him.
 PSA.49:4 He shall summon heaven above And the earth to judge His people;
 PSA.49:5 Gather His holy ones to Him, Who establish His covenant upon sacrifices;
@@ -1004,7 +1004,7 @@ PSA.53:9 You delivered me from all my afflictions, And my eye looked upon my ene
 PSA.54:1 For the End; in hymns; concerning understanding; by David.
 PSA.54:2 Give ear to my prayer, O God, And do not despise my supplication;
 PSA.54:3 Attend to me, and hear me. I am vexed in my prayer, and troubled
-PSA.54:4 By the enemy 's voice and by the sinner's affliction; For they turned their lawlessness upon me, And in wrath they were indignant with me.
+PSA.54:4 By the enemy's voice and by the sinner's affliction; For they turned their lawlessness upon me, And in wrath they were indignant with me.
 PSA.54:5 My heart was troubled within me, And the terror of death fell on me.
 PSA.54:6 Fear and trembling came upon me, And the darkness covered me.
 PSA.54:7 I said, "Who will give me wings like a dove, And I will fly away, and be at rest?
@@ -2900,8 +2900,8 @@ PSA.144:7 They shall overflow with the memory of Your rich goodness, And shall g
 PSA.144:8 The Lord is gracious and merciful, Longsuffering and abundant in mercy.
 PSA.144:9 The Lord is good to all, And His mercies are upon all His works.
 PSA.144:10 O Lord, let all Your works praise You And Your holy ones bless You.
-PSA.144:11 They shall tell of Your kingdom 's glory, And they shall speak of Your power,
-PSA.144:12 That all the sons of men may know Your power And the glory of Your kingdom 's magnificence.
+PSA.144:11 They shall tell of Your kingdom's glory, And they shall speak of Your power,
+PSA.144:12 That all the sons of men may know Your power And the glory of Your kingdom's magnificence.
 PSA.144:13 Your kingdom is a kingdom of all the ages, And Your dominion is from generation to generation.
 PSA.144:14 The Lord is faithful in His words And holy in all His works.
 PSA.144:15 The Lord supports all who stumble And restores all who are broken down.
