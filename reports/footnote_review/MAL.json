@@ -1,0 +1,190 @@
+{
+  "book_code": "MAL",
+  "position": 42,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/MAL_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": false,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 41,
+      "auto_fixable": 0,
+      "review_needed": 41,
+      "files_checked": 1,
+      "lines_checked": 101,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 39,
+      "P7": 2
+    }
+  },
+  "structure": {
+    "issue_count": 1,
+    "findings": [
+      {
+        "type": "midline_reference_spill",
+        "line_number": 100,
+        "raw_text": "Christians call God Father because Jesus Christ, the eternally begotten Son of God, revealed Him as Father ([[MAT.3:17]]; 6:9), and He has made us the children of God ([[JOH.1:12]]). 2:10-12 Sons of Israel profaned the holy things of the Lord. Too often they followed"
+      }
+    ],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "MAL",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/MAL_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/MAL_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/MAL.md",
+    "counts": {
+      "scripture_markers": 23,
+      "footnote_entries": 23,
+      "scripture_anchors": 17,
+      "valid_marker_anchors": 23,
+      "valid_note_anchors": 23
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "MAL.1:11",
+      "MAL.1:12",
+      "MAL.1:2",
+      "MAL.1:9",
+      "MAL.2:13",
+      "MAL.2:3",
+      "MAL.2:4",
+      "MAL.2:7",
+      "MAL.3:13",
+      "MAL.3:19",
+      "MAL.3:2",
+      "MAL.3:20",
+      "MAL.3:22",
+      "MAL.3:24",
+      "MAL.3:5",
+      "MAL.3:6",
+      "MAL.3:8"
+    ],
+    "note_anchor_gaps": [
+      "MAL.1:11",
+      "MAL.1:12",
+      "MAL.1:2",
+      "MAL.1:9",
+      "MAL.2:13",
+      "MAL.2:3",
+      "MAL.2:4",
+      "MAL.2:7",
+      "MAL.3:13",
+      "MAL.3:19",
+      "MAL.3:2",
+      "MAL.3:20",
+      "MAL.3:22",
+      "MAL.3:24",
+      "MAL.3:5",
+      "MAL.3:6",
+      "MAL.3:8"
+    ],
+    "issue_count": 34
+  },
+  "wikilinks": {
+    "total_refs": 20,
+    "convertible_refs": 0,
+    "already_linked_refs": 20,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 135,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "My messenger: The Lord will send John the Baptist to prepare the way (see Is"
+        },
+        {
+          "line_number": 227,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah the Tishbite and Moses were present with the Lord at His Transfiguration (Mt"
+        }
+      ],
+      "entity_counts": {
+        "ELIJAH_PROPHET": 1,
+        "JOHN_FORERUNNER": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 104,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "34:11-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be unequally yoked"
+        },
+        {
+          "line_number": 104,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "34:11-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be unequally yoked"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 2,
+    "matched_entities": [
+      {
+        "line_number": 135,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "My messenger: The Lord will send John the Baptist to prepare the way (see Is"
+      },
+      {
+        "line_number": 227,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah the Tishbite and Moses were present with the Lord at His Transfiguration (Mt"
+      }
+    ],
+    "entity_counts": {
+      "ELIJAH_PROPHET": 1,
+      "JOHN_FORERUNNER": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

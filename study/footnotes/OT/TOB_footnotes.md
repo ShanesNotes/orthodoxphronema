@@ -87,7 +87,11 @@ Having had his own works judged (2:14), Tobit confesses it is the Lord who is
 
 righteous, as are His works. 3:6
 
-In his pain, Tobit asks that he might die and enter into the eternal place. 3:7 Ecbatana is the capital of Media (see note at 1:14). 3:8
+In his pain, Tobit asks that he might die and enter into the eternal place.
+
+3:7 Ecbatana is the capital of Media (see note at 1:14).
+
+3:8
 
 Asmodeus means "the destroyer." Jesus said of Satan, "The thief does not come
 
@@ -129,7 +133,9 @@ May His angel journey with you: Tobit is unaware that his request has already
 
 been granted (see also 5:22). Tobias's dog goes with them, and commentators puzzle over
 
-its significance. 6:1-9 The fish not only provided food (v. 5), but its liver and heart (v. 7) were set aside to
+its significance.
+
+6:1-9 The fish not only provided food (v. 5), but its liver and heart (v. 7) were set aside to
 
 cast out a demon (v. 8). Gall is bile used as a medicine; it would later bring a cure to
 
@@ -139,13 +145,21 @@ According to the rule of Moses is likely a reference to [[NUM.36:8]] (though the
 
 no mention there of a death penalty), in which it is stated that a daughter with an
 
-inheritance must marry within her father's tribe. 6:14-15 Tobias is concerned that Sarah's first seven husbands all died on their wedding
+inheritance must marry within her father's tribe.
+
+6:14-15 Tobias is concerned that Sarah's first seven husbands all died on their wedding
 
 night. He knows his death, as the only child, would bring grief and sorrow to his
 
-parents. 6:16-18 The angel appeals both to (1) the words of Tobit to take a wife from their tribe
+parents.
 
-(Naphtali) and (2) to the merciful God who will cause the demon to flee (see [[JAS.4:7]]). 7:3-6 Though Raguel and Edna knew of Tobit, it appears they did not know of Tobias. 7:10-13 Raguel is honest about the fate of Sarah's seven previous husbands, but blesses
+6:16-18 The angel appeals both to (1) the words of Tobit to take a wife from their tribe
+
+(Naphtali) and (2) to the merciful God who will cause the demon to flee (see [[JAS.4:7]]).
+
+7:3-6 Though Raguel and Edna knew of Tobit, it appears they did not know of Tobias.
+
+7:10-13 Raguel is honest about the fate of Sarah's seven previous husbands, but blesses
 
 Tobias to receive her. 8:2-4
 

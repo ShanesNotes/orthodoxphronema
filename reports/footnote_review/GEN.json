@@ -1,0 +1,2064 @@
+{
+  "book_code": "GEN",
+  "position": 1,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/GEN_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 248,
+      "auto_fixable": 0,
+      "review_needed": 248,
+      "files_checked": 1,
+      "lines_checked": 1006,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 174,
+      "P7": 74
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "GEN",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/GEN_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/GEN_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/GEN.md",
+    "counts": {
+      "scripture_markers": 218,
+      "footnote_entries": 218,
+      "scripture_anchors": 503,
+      "valid_marker_anchors": 218,
+      "valid_note_anchors": 218
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "GEN.13:14",
+      "GEN.14:14",
+      "GEN.14:18",
+      "GEN.14:19",
+      "GEN.14:21",
+      "GEN.15:7",
+      "GEN.16:7",
+      "GEN.16:8",
+      "GEN.17:10",
+      "GEN.17:2",
+      "GEN.17:5",
+      "GEN.17:7",
+      "GEN.18:17",
+      "GEN.18:23",
+      "GEN.18:4",
+      "GEN.18:9",
+      "GEN.19:13",
+      "GEN.19:2",
+      "GEN.19:22",
+      "GEN.19:24",
+      "GEN.19:26",
+      "GEN.1:2",
+      "GEN.1:26",
+      "GEN.1:3",
+      "GEN.1:31",
+      "GEN.1:4",
+      "GEN.20:2",
+      "GEN.21:10",
+      "GEN.21:17",
+      "GEN.21:18",
+      "GEN.21:2",
+      "GEN.22:14",
+      "GEN.22:16",
+      "GEN.22:17",
+      "GEN.22:2",
+      "GEN.23:19",
+      "GEN.23:4",
+      "GEN.23:8",
+      "GEN.24:12",
+      "GEN.24:14",
+      "GEN.24:27",
+      "GEN.24:3",
+      "GEN.24:62",
+      "GEN.24:7",
+      "GEN.24:8",
+      "GEN.25:23",
+      "GEN.25:27",
+      "GEN.25:5",
+      "GEN.25:7",
+      "GEN.26:2",
+      "GEN.26:20",
+      "GEN.26:24",
+      "GEN.26:3",
+      "GEN.26:34",
+      "GEN.26:4",
+      "GEN.26:5",
+      "GEN.27:7",
+      "GEN.28:12",
+      "GEN.28:4",
+      "GEN.29:14",
+      "GEN.29:15",
+      "GEN.29:27",
+      "GEN.29:34",
+      "GEN.2:4",
+      "GEN.2:8",
+      "GEN.30:11",
+      "GEN.30:13",
+      "GEN.30:18",
+      "GEN.30:20",
+      "GEN.30:23",
+      "GEN.30:33",
+      "GEN.30:6",
+      "GEN.30:8",
+      "GEN.31:11",
+      "GEN.31:13",
+      "GEN.31:24",
+      "GEN.31:29",
+      "GEN.31:3",
+      "GEN.31:46",
+      "GEN.31:48",
+      "GEN.32:12",
+      "GEN.32:24",
+      "GEN.32:30",
+      "GEN.33:19",
+      "GEN.33:5",
+      "GEN.34:2",
+      "GEN.34:8",
+      "GEN.35:9",
+      "GEN.37:26",
+      "GEN.37:28",
+      "GEN.37:3",
+      "GEN.39:20",
+      "GEN.39:21",
+      "GEN.39:9",
+      "GEN.3:15",
+      "GEN.3:8",
+      "GEN.41:13",
+      "GEN.42:18",
+      "GEN.42:9",
+      "GEN.43:14",
+      "GEN.43:18",
+      "GEN.45:27",
+      "GEN.45:5",
+      "GEN.45:9",
+      "GEN.46:2",
+      "GEN.46:30",
+      "GEN.47:29",
+      "GEN.47:30",
+      "GEN.48:15",
+      "GEN.48:21",
+      "GEN.48:3",
+      "GEN.48:8",
+      "GEN.49:14",
+      "GEN.49:3",
+      "GEN.49:7",
+      "GEN.49:8",
+      "GEN.4:3",
+      "GEN.4:5",
+      "GEN.4:6",
+      "GEN.4:7",
+      "GEN.4:9",
+      "GEN.50:24",
+      "GEN.5:29",
+      "GEN.5:3",
+      "GEN.5:4",
+      "GEN.6:11",
+      "GEN.6:14",
+      "GEN.6:3",
+      "GEN.6:5",
+      "GEN.6:6",
+      "GEN.6:7",
+      "GEN.6:9",
+      "GEN.7:16",
+      "GEN.7:2",
+      "GEN.8:10",
+      "GEN.8:20",
+      "GEN.8:21"
+    ],
+    "note_anchor_gaps": [
+      "GEN.13:14",
+      "GEN.14:14",
+      "GEN.14:18",
+      "GEN.14:19",
+      "GEN.14:21",
+      "GEN.15:7",
+      "GEN.16:7",
+      "GEN.16:8",
+      "GEN.17:10",
+      "GEN.17:2",
+      "GEN.17:5",
+      "GEN.17:7",
+      "GEN.18:17",
+      "GEN.18:23",
+      "GEN.18:4",
+      "GEN.18:9",
+      "GEN.19:13",
+      "GEN.19:2",
+      "GEN.19:22",
+      "GEN.19:24",
+      "GEN.19:26",
+      "GEN.1:2",
+      "GEN.1:26",
+      "GEN.1:3",
+      "GEN.1:31",
+      "GEN.1:4",
+      "GEN.20:2",
+      "GEN.21:10",
+      "GEN.21:17",
+      "GEN.21:18",
+      "GEN.21:2",
+      "GEN.22:14",
+      "GEN.22:16",
+      "GEN.22:17",
+      "GEN.22:2",
+      "GEN.23:19",
+      "GEN.23:4",
+      "GEN.23:8",
+      "GEN.24:12",
+      "GEN.24:14",
+      "GEN.24:27",
+      "GEN.24:3",
+      "GEN.24:62",
+      "GEN.24:7",
+      "GEN.24:8",
+      "GEN.25:23",
+      "GEN.25:27",
+      "GEN.25:5",
+      "GEN.25:7",
+      "GEN.26:2",
+      "GEN.26:20",
+      "GEN.26:24",
+      "GEN.26:3",
+      "GEN.26:34",
+      "GEN.26:4",
+      "GEN.26:5",
+      "GEN.27:7",
+      "GEN.28:12",
+      "GEN.28:4",
+      "GEN.29:14",
+      "GEN.29:15",
+      "GEN.29:27",
+      "GEN.29:34",
+      "GEN.2:4",
+      "GEN.2:8",
+      "GEN.30:11",
+      "GEN.30:13",
+      "GEN.30:18",
+      "GEN.30:20",
+      "GEN.30:23",
+      "GEN.30:33",
+      "GEN.30:6",
+      "GEN.30:8",
+      "GEN.31:11",
+      "GEN.31:13",
+      "GEN.31:24",
+      "GEN.31:29",
+      "GEN.31:3",
+      "GEN.31:46",
+      "GEN.31:48",
+      "GEN.32:12",
+      "GEN.32:24",
+      "GEN.32:30",
+      "GEN.33:19",
+      "GEN.33:5",
+      "GEN.34:2",
+      "GEN.34:8",
+      "GEN.35:9",
+      "GEN.37:26",
+      "GEN.37:28",
+      "GEN.37:3",
+      "GEN.39:20",
+      "GEN.39:21",
+      "GEN.39:9",
+      "GEN.3:15",
+      "GEN.3:8",
+      "GEN.41:13",
+      "GEN.42:18",
+      "GEN.42:9",
+      "GEN.43:14",
+      "GEN.43:18",
+      "GEN.45:27",
+      "GEN.45:5",
+      "GEN.45:9",
+      "GEN.46:2",
+      "GEN.46:30",
+      "GEN.47:29",
+      "GEN.47:30",
+      "GEN.48:15",
+      "GEN.48:21",
+      "GEN.48:3",
+      "GEN.48:8",
+      "GEN.49:14",
+      "GEN.49:3",
+      "GEN.49:7",
+      "GEN.49:8",
+      "GEN.4:3",
+      "GEN.4:5",
+      "GEN.4:6",
+      "GEN.4:7",
+      "GEN.4:9",
+      "GEN.50:24",
+      "GEN.5:29",
+      "GEN.5:3",
+      "GEN.5:4",
+      "GEN.6:11",
+      "GEN.6:14",
+      "GEN.6:3",
+      "GEN.6:5",
+      "GEN.6:6",
+      "GEN.6:7",
+      "GEN.6:9",
+      "GEN.7:16",
+      "GEN.7:2",
+      "GEN.8:10",
+      "GEN.8:20",
+      "GEN.8:21"
+    ],
+    "issue_count": 274
+  },
+  "wikilinks": {
+    "total_refs": 166,
+    "convertible_refs": 0,
+    "already_linked_refs": 166,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 84,
+      "matched_entities": [
+        {
+          "line_number": 20,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "The Spirit of God is the Holy Spirit (BasilG; EphS). He proceeds from the Father, and is"
+        },
+        {
+          "line_number": 20,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "EphS",
+          "context": "The Spirit of God is the Holy Spirit (BasilG; EphS). He proceeds from the Father, and is"
+        },
+        {
+          "line_number": 31,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "light (AthanG). Since the Son, too, is Lord, He is coequal with the Father, and is His"
+        },
+        {
+          "line_number": 55,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr), and He uses the personal pronouns Us and Our. These pronouns indicate"
+        },
+        {
+          "line_number": 59,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "HilryP",
+          "context": "Trinity are one in nature and undivided. For it does not say, \"Our images\" (HilryP). Therefore, the Holy Trinity is one undivided nature in three distinct Persons. Man is not one in nature with the Holy Trinity. But He was made in the image"
+        },
+        {
+          "line_number": 114,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "God gave man a place and a law (AthanG). The place was Paradise, and the law was"
+        },
+        {
+          "line_number": 122,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "grave (\"die by death,\" AthanG)."
+        },
+        {
+          "line_number": 158,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "thing to suffer in the Fall, and thus is the first thing that needs healing in man (JohnDm)."
+        },
+        {
+          "line_number": 338,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "other; yet, They are one in nature (JohnDm)."
+        },
+        {
+          "line_number": 349,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "and Resurrection, and to release man from the debt he owed (AthanG)."
+        },
+        {
+          "line_number": 389,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "disappearing from the face of the earth (AthanG)."
+        },
+        {
+          "line_number": 597,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "Angel of the Lord in 16:7, 9, 10, 11, and 13. This Word is the Son of God (AthanG) and the"
+        },
+        {
+          "line_number": 599,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "HilryP",
+          "context": "Angel is also the Son of God, for He was no created angel (HilryP). \"He is called Angel"
+        },
+        {
+          "line_number": 601,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "because He alone reveals the Father\" (AthanG). Thus, the Son also preached the gospel"
+        },
+        {
+          "line_number": 715,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "The Word of the Lord is the Word of the Father (AthanG). He is also the Son of"
+        },
+        {
+          "line_number": 784,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "HilryP",
+          "context": "The Lord is the Father, and the Angel is His Son (HilryP). And the prophet Isaiah"
+        },
+        {
+          "line_number": 788,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "alone reveals the Father\" (AthanG)."
+        },
+        {
+          "line_number": 797,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "because He was ignorant, but for the sake of the immediate listeners and of the faithful. For He is God in the flesh, and therefore, never ignorant of anything (JohnDm)."
+        },
+        {
+          "line_number": 936,
+          "entity": "ATHANASIUS",
+          "matched_alias": "St. Athanasius the Great",
+          "context": "impossible with His Son, for the Father works all things through the Son. As St. Athanasius the Great said, \"He is the Will of the Father.\" Therefore, the Son would"
+        },
+        {
+          "line_number": 936,
+          "entity": "ATHANASIUS",
+          "matched_alias": "St. Athanasius",
+          "context": "impossible with His Son, for the Father works all things through the Son. As St. Athanasius the Great said, \"He is the Will of the Father.\" Therefore, the Son would"
+        },
+        {
+          "line_number": 936,
+          "entity": "ATHANASIUS",
+          "matched_alias": "Athanasius",
+          "context": "impossible with His Son, for the Father works all things through the Son. As St. Athanasius the Great said, \"He is the Will of the Father.\" Therefore, the Son would"
+        },
+        {
+          "line_number": 1030,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "The Lord rained brimstone and fire... from the Lord out of heaven, that is, the Son rained brimstone and fire from the Father (AthanG, BasilG, AmbM, and HilryP). Both have the name \"Lord\" because of Their equality and oneness of lordship. F"
+        },
+        {
+          "line_number": 1030,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "The Lord rained brimstone and fire... from the Lord out of heaven, that is, the Son rained brimstone and fire from the Father (AthanG, BasilG, AmbM, and HilryP). Both have the name \"Lord\" because of Their equality and oneness of lordship. F"
+        },
+        {
+          "line_number": 1030,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "The Lord rained brimstone and fire... from the Lord out of heaven, that is, the Son rained brimstone and fire from the Father (AthanG, BasilG, AmbM, and HilryP). Both have the name \"Lord\" because of Their equality and oneness of lordship. F"
+        },
+        {
+          "line_number": 1030,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "HilryP",
+          "context": "The Lord rained brimstone and fire... from the Lord out of heaven, that is, the Son rained brimstone and fire from the Father (AthanG, BasilG, AmbM, and HilryP). Both have the name \"Lord\" because of Their equality and oneness of lordship. F"
+        },
+        {
+          "line_number": 1077,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "HilryP",
+          "context": "(HilryP). Abraham and Sarah would have a son in their old age."
+        },
+        {
+          "line_number": 1112,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "(AthanG)."
+        },
+        {
+          "line_number": 1130,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "God the Word tested Abraham (AthanG)."
+        },
+        {
+          "line_number": 1137,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "teaching Abraham concerning His eternal birth from God the Father (AthanG). For He is"
+        },
+        {
+          "line_number": 1245,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "meaning it is also akin to the term word. The Son of God is called both Angel and Word, for \"He alone reveals the Father\" (AthanG). Both names emphasize that the Son is the"
+        },
+        {
+          "line_number": 1654,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph's name relates to the bearing of reproach, and he bore the reproach of"
+        },
+        {
+          "line_number": 1685,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "Radiance; therefore, the Father and the Son are one (AthanG)."
+        },
+        {
+          "line_number": 1746,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "weak man (AthanG and HilryP). When He became incarnate, He assumed the weakness"
+        },
+        {
+          "line_number": 1746,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "HilryP",
+          "context": "weak man (AthanG and HilryP). When He became incarnate, He assumed the weakness"
+        },
+        {
+          "line_number": 1764,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "Jacob (AthanG and HilryP). He is the Radiance of the Father who reveals the Father in"
+        },
+        {
+          "line_number": 1764,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "HilryP",
+          "context": "Jacob (AthanG and HilryP). He is the Radiance of the Father who reveals the Father in"
+        },
+        {
+          "line_number": 1816,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "HilryP",
+          "context": "Jacob at Bethel was the Son, who is true God of true God (HilryP)."
+        },
+        {
+          "line_number": 1823,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "Father. In Him the Father is revealed, for He alone reveals the Father (AthanG)."
+        },
+        {
+          "line_number": 1842,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": ", 4 Israel's love was partial, for he loved Joseph more than his other sons. Such love"
+        },
+        {
+          "line_number": 1851,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph's brothers were blinded by their hatred for him, and therefore, could not"
+        },
+        {
+          "line_number": 1858,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": ", 27 Joseph's brothers were motivated by the love of money and possessions, for they"
+        },
+        {
+          "line_number": 1865,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph's brothers cast him into a pit (v. 24), then lifted him out and sold him as a"
+        },
+        {
+          "line_number": 1887,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph viewed adultery and/or fornication as great wickedness and sin against God. But people who treat such sin lightly simply do not know God."
+        },
+        {
+          "line_number": 1892,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph's holiness cost him his freedom. \"Yes, and all who desire to live godly in"
+        },
+        {
+          "line_number": 1899,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph suffered for righteousness' sake; therefore, the Lord was with him. Truly, he"
+        },
+        {
+          "line_number": 1906,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph's authority speaks of his human will, and the Lord was with him speaks"
+        },
+        {
+          "line_number": 1908,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "of God's will. This shows that Joseph's will was in submission to the will of God. Both"
+        },
+        {
+          "line_number": 1915,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph glorified God and not himself. This is humility in the truest sense."
+        },
+        {
+          "line_number": 1920,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Since the cupbearer forgot Joseph, he also forgot the true God who delivered him"
+        },
+        {
+          "line_number": 1929,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph was a true prophet, and the Holy Spirit prophesied through him (Creed). His"
+        },
+        {
+          "line_number": 1942,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "prophet Joseph (Creed)."
+        },
+        {
+          "line_number": 1947,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph calls Egypt the land of my humiliation. Such is this fallen world to those"
+        },
+        {
+          "line_number": 1956,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "JohnCas",
+          "context": "reverence, lack self-control in speech, and are quick to abuse others (JohnCas). These"
+        },
+        {
+          "line_number": 1958,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "sinful passions characterized Jacob's sons when they sold Joseph into Egypt."
+        },
+        {
+          "line_number": 1963,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph was a true prophet, for the Holy Spirit spoke by him. Thus, his prophecies"
+        },
+        {
+          "line_number": 1974,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph feared God. \"The fear of God is the beginning of wisdom, and those who"
+        },
+        {
+          "line_number": 1976,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "practice it have a good understanding\" (Pr 1:7). Joseph's fear and good understanding"
+        },
+        {
+          "line_number": 1983,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph's brothers did not fear God; therefore, they would not listen to wise counsel"
+        },
+        {
+          "line_number": 1985,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "when they sinned against him. So they ended up with a guilty conscience (AthanG)."
+        },
+        {
+          "line_number": 1994,
+          "entity": "ATHANASIUS",
+          "matched_alias": "St. Athanasius the Great",
+          "context": "am what I am\" ([[1CO.15:10]]). And St. Athanasius the Great said that man fell into death"
+        },
+        {
+          "line_number": 1994,
+          "entity": "ATHANASIUS",
+          "matched_alias": "St. Athanasius",
+          "context": "am what I am\" ([[1CO.15:10]]). And St. Athanasius the Great said that man fell into death"
+        },
+        {
+          "line_number": 1994,
+          "entity": "ATHANASIUS",
+          "matched_alias": "Athanasius",
+          "context": "am what I am\" ([[1CO.15:10]]). And St. Athanasius the Great said that man fell into death"
+        },
+        {
+          "line_number": 2001,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Their guilty consciences regarding their previous abuse of Joseph also led them into"
+        },
+        {
+          "line_number": 2012,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "delivered them from anxiety. Both God and Joseph loved them, for both cared about"
+        },
+        {
+          "line_number": 2019,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph honored his father Jacob by blessing him in God, which also showed he"
+        },
+        {
+          "line_number": 2031,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph made himself known to his brothers, and Jesus makes Himself known to His"
+        },
+        {
+          "line_number": 2038,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph's brothers sold him into Egypt, but God sent him there. The brothers sold"
+        },
+        {
+          "line_number": 2049,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "God made Joseph lord of all Egypt, but He made Jesus Lord of all the world (Acts"
+        },
+        {
+          "line_number": 2060,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Jacob's spirit revived when he realized Joseph was alive; our spirit revives when we"
+        },
+        {
+          "line_number": 2076,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "Father (AthanG). Therefore, Israel's vision was a personal appearance of the Son of God"
+        },
+        {
+          "line_number": 2085,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Israel could die in peace because Joseph was alive. Even so, we can die in peace"
+        },
+        {
+          "line_number": 2119,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "Angel of God. It was He who blessed Jacob, for no created angel could do this (AthanG)."
+        },
+        {
+          "line_number": 2135,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "Ephraim and Manasseh were born to Joseph as his natural sons, born from his"
+        },
+        {
+          "line_number": 2135,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Ephraim and Manasseh were born to Joseph as his natural sons, born from his"
+        },
+        {
+          "line_number": 2139,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "His nature (AthanG)."
+        },
+        {
+          "line_number": 2144,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "him. Joseph recognized his sons as gifts from God, for they belonged to God more than to"
+        },
+        {
+          "line_number": 2154,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "evil (AthanG). Therefore, the Holy Trinity is revealed to a certain extent in the Old"
+        },
+        {
+          "line_number": 2161,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "The Holy Spirit spoke by Jacob and predicted that God would bring Joseph back to"
+        },
+        {
+          "line_number": 2163,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Canaan. Joseph's bones were later taken to Canaan, prefiguring the resurrection from the"
+        },
+        {
+          "line_number": 2185,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "from the nature of the Father; therefore, He is not a work of the Father (AthanG)."
+        },
+        {
+          "line_number": 2212,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": ", 15 Issachar rested between the inheritances of both the Old and New Testaments, and he farmed them by hard work (AthanG)."
+        },
+        {
+          "line_number": 2217,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph spoke to the heart of his brothers, for the heart has spiritual eyes to see the"
+        },
+        {
+          "line_number": 2221,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "forgiveness expressed through Joseph (v. 17), and that He worked their evil for good, in"
+        },
+        {
+          "line_number": 2232,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "The Holy Spirit spoke two prophecies by the prophet Joseph (Creed): the"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 1,
+        "ATHANASIUS": 31,
+        "BASIL_GREAT": 2,
+        "EPHRAIM_SYRIAN": 2,
+        "HILARY_POITIERS": 8,
+        "JOHN_CASSIAN": 1,
+        "JOHN_CHRYSOSTOM": 1,
+        "JOHN_DAMASCENE": 3,
+        "JOSEPH_BETROTHED": 35
+      },
+      "unresolved_candidates_count": 1,
+      "unresolved_candidates": [
+        {
+          "line_number": 680,
+          "token": "CypC",
+          "context": "the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is"
+        }
+      ],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 31,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 55,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 59,
+          "snippet": "HilryP"
+        },
+        {
+          "line_number": 114,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 158,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 338,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 349,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 389,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 597,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 599,
+          "snippet": "HilryP"
+        },
+        {
+          "line_number": 601,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 715,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 784,
+          "snippet": "HilryP"
+        },
+        {
+          "line_number": 788,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 797,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 1077,
+          "snippet": "HilryP"
+        },
+        {
+          "line_number": 1112,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1130,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1137,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1245,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1685,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1816,
+          "snippet": "HilryP"
+        },
+        {
+          "line_number": 1823,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1956,
+          "snippet": "JohnCas"
+        },
+        {
+          "line_number": 1985,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 2076,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 2119,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 2139,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 2154,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 2185,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 2212,
+          "snippet": "AthanG"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 14,
+      "matched_entities": [
+        {
+          "line_number": 129,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "marriage union, the husband and wife become one flesh (v. 24), which St. Paul calls \"a"
+        },
+        {
+          "line_number": 129,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "marriage union, the husband and wife become one flesh (v. 24), which St. Paul calls \"a"
+        },
+        {
+          "line_number": 225,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "described in Jude 11 as \"the way of Cain.\""
+        },
+        {
+          "line_number": 581,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "prophet Moses, who wrote this Scripture. Thus, St. Paul said, \"And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel to Abraham"
+        },
+        {
+          "line_number": 581,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "prophet Moses, who wrote this Scripture. Thus, St. Paul said, \"And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel to Abraham"
+        },
+        {
+          "line_number": 587,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "scripture. Who is this Lord? He is God the Father, as St. Paul indicated in [[GAL.3:8]]: \"God"
+        },
+        {
+          "line_number": 587,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "scripture. Who is this Lord? He is God the Father, as St. Paul indicated in [[GAL.3:8]]: \"God"
+        },
+        {
+          "line_number": 773,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "In [[GAL.4:21]]-31, St. Paul uses Hagar and Sarah as an allegory, representing two"
+        },
+        {
+          "line_number": 773,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "In [[GAL.4:21]]-31, St. Paul uses Hagar and Sarah as an allegory, representing two"
+        },
+        {
+          "line_number": 1040,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "ungodly concerning the Day of Judgment ([[2PE.2:6]], [[2PE.2:9]]; Jude 7)."
+        },
+        {
+          "line_number": 1277,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "will was not forced. Similarly, election to salvation is based in the same foreknowledge. As St. Paul said, \"whom He foreknew, He also predestined\" ([[ROM.8:29]])."
+        },
+        {
+          "line_number": 1277,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "will was not forced. Similarly, election to salvation is based in the same foreknowledge. As St. Paul said, \"whom He foreknew, He also predestined\" ([[ROM.8:29]])."
+        },
+        {
+          "line_number": 1992,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "would be in the case of Simeon and Benjamin. St. Paul also said, \"By the grace of God I"
+        },
+        {
+          "line_number": 1992,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "would be in the case of Simeon and Benjamin. St. Paul also said, \"By the grace of God I"
+        }
+      ],
+      "entity_counts": {
+        "JUDE_APOSTLE": 2,
+        "PAUL_APOSTLE": 12
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 36,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "God the Father made heaven and earth. \"I believe in one God the Father Almighty, Maker of heaven and earth\" (Creed)."
+        },
+        {
+          "line_number": 22,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "\"the Lord and Giver of Life\" (Creed). Since He is Lord, He is coequal with the Father, and"
+        },
+        {
+          "line_number": 41,
+          "entity": "CANON_OF_ANDREW",
+          "matched_alias": "CanonAnd",
+          "context": "life to the ends of the world\" (CanonAnd)."
+        },
+        {
+          "line_number": 99,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "grace of the Holy Spirit, the Giver of Life (the Creed). God breathed the breath of life into"
+        },
+        {
+          "line_number": 99,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "grace of the Holy Spirit, the Giver of Life (the Creed). God breathed the breath of life into"
+        },
+        {
+          "line_number": 539,
+          "entity": "VESTING_SERVICE",
+          "matched_alias": "Vesting Service",
+          "context": "churches I will bless You, O Lord\" ([[PSA.25:12]]; Vesting Service). Noah blessed God because"
+        },
+        {
+          "line_number": 553,
+          "entity": "KAIRON_SERVICE",
+          "matched_alias": "Kairon Service",
+          "context": "the Holy Trinity, for man's true unity is union and communion with the Father, the Son, and the Holy Spirit. The Church is \"the race of Christians\" (Kairon Service), \"a holy"
+        },
+        {
+          "line_number": 579,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "\"The Holy Spirit spoke through the prophets\" (Creed). He spoke through the"
+        },
+        {
+          "line_number": 631,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "come\" (Creed; see also [[HEB.11:9]]-11). Although he was very rich, he was a man of virtue. For in his heart he was detached from his wealth and also from the love of land. Thus he"
+        },
+        {
+          "line_number": 759,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "God. The Creed calls Him \"True God of True God.\" For He is the Only-begotten of the"
+        },
+        {
+          "line_number": 759,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "God. The Creed calls Him \"True God of True God.\" For He is the Only-begotten of the"
+        },
+        {
+          "line_number": 832,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "God of true God\" (Creed). One meaning of the name God is, You are the God who sees me. The Only-begotten"
+        },
+        {
+          "line_number": 868,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "from the Father\" (Creed)."
+        },
+        {
+          "line_number": 1032,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Their essence, the Two are One and undivided (Creed). The Holy Spirit, who spoke this"
+        },
+        {
+          "line_number": 1034,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "Scripture through the prophet Moses, is also one in lordship with the Father and the Son, for as the Creed says, \"I believe in the Holy Spirit, the Lord... who proceeds from the"
+        },
+        {
+          "line_number": 1034,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Scripture through the prophet Moses, is also one in lordship with the Father and the Son, for as the Creed says, \"I believe in the Holy Spirit, the Lord... who proceeds from the"
+        },
+        {
+          "line_number": 1057,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "Abraham was a sojourner because he waited for \"the city which has foundations, whose builder and maker is God\" ([[HEB.11:10]]). The Creed calls this city \"the world to"
+        },
+        {
+          "line_number": 1057,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Abraham was a sojourner because he waited for \"the city which has foundations, whose builder and maker is God\" ([[HEB.11:10]]). The Creed calls this city \"the world to"
+        },
+        {
+          "line_number": 1139,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "\"the Only-begotten from the Father\" (Creed). He is also teaching Abraham that He"
+        },
+        {
+          "line_number": 1235,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "the God of the earth. This Lord is God the Father, as the Creed says: \"I believe in one"
+        },
+        {
+          "line_number": 1235,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "the God of the earth. This Lord is God the Father, as the Creed says: \"I believe in one"
+        },
+        {
+          "line_number": 1253,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "Holy Spirit, as the Creed says: \"I believe in the Holy Spirit... who spoke by the prophets.\""
+        },
+        {
+          "line_number": 1253,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Holy Spirit, as the Creed says: \"I believe in the Holy Spirit... who spoke by the prophets.\""
+        },
+        {
+          "line_number": 1343,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "to come (Creed)."
+        },
+        {
+          "line_number": 1399,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "world to come as the land of promise (Creed). The land of Canaan was only a land in"
+        },
+        {
+          "line_number": 1604,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "\"shall come to judge the living and the dead\" (Creed). Also, Reuben's birth relates to"
+        },
+        {
+          "line_number": 1692,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "the God who appeared. Thus, the Son is \"true God of true God\" (Creed)."
+        },
+        {
+          "line_number": 1814,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "the Son is begotten from the Father as true God (Creed). Thus, the God who appeared to"
+        },
+        {
+          "line_number": 1929,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Joseph was a true prophet, and the Holy Spirit prophesied through him (Creed). His"
+        },
+        {
+          "line_number": 1942,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "prophet Joseph (Creed)."
+        },
+        {
+          "line_number": 1949,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "who look for their inheritance in the world to come ([[HEB.11:13]]-16, 22; Creed)."
+        },
+        {
+          "line_number": 2096,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "of the world to come\" (Creed; [[HEB.11:13]]-16, 21). And although he had suffered much in"
+        },
+        {
+          "line_number": 2150,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": ", 16 The Holy Spirit spoke by the prophet Jacob (Creed), who identified the Angel as"
+        },
+        {
+          "line_number": 2170,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "The Holy Spirit prophesies by Jacob concerning the last days (Creed). These last days"
+        },
+        {
+          "line_number": 2232,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "The Holy Spirit spoke two prophecies by the prophet Joseph (Creed): the"
+        },
+        {
+          "line_number": 2238,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "come\" (Creed)."
+        }
+      ],
+      "entity_counts": {
+        "CANON_OF_ANDREW": 1,
+        "KAIRON_SERVICE": 1,
+        "NICENE_CREED": 33,
+        "VESTING_SERVICE": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 15,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 22,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 41,
+          "snippet": "CanonAnd"
+        },
+        {
+          "line_number": 99,
+          "snippet": "the Creed"
+        },
+        {
+          "line_number": 553,
+          "snippet": "Kairon Service"
+        },
+        {
+          "line_number": 579,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 832,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 868,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1032,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1139,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1343,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1399,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1604,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1692,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1814,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1929,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1942,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 2150,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 2170,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 2232,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 2238,
+          "snippet": "Creed"
+        }
+      ]
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 84,
+    "matched_entities": [
+      {
+        "line_number": 20,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "The Spirit of God is the Holy Spirit (BasilG; EphS). He proceeds from the Father, and is"
+      },
+      {
+        "line_number": 20,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "EphS",
+        "context": "The Spirit of God is the Holy Spirit (BasilG; EphS). He proceeds from the Father, and is"
+      },
+      {
+        "line_number": 31,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "light (AthanG). Since the Son, too, is Lord, He is coequal with the Father, and is His"
+      },
+      {
+        "line_number": 55,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr), and He uses the personal pronouns Us and Our. These pronouns indicate"
+      },
+      {
+        "line_number": 59,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "HilryP",
+        "context": "Trinity are one in nature and undivided. For it does not say, \"Our images\" (HilryP). Therefore, the Holy Trinity is one undivided nature in three distinct Persons. Man is not one in nature with the Holy Trinity. But He was made in the image"
+      },
+      {
+        "line_number": 114,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "God gave man a place and a law (AthanG). The place was Paradise, and the law was"
+      },
+      {
+        "line_number": 122,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "grave (\"die by death,\" AthanG)."
+      },
+      {
+        "line_number": 158,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "thing to suffer in the Fall, and thus is the first thing that needs healing in man (JohnDm)."
+      },
+      {
+        "line_number": 338,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "other; yet, They are one in nature (JohnDm)."
+      },
+      {
+        "line_number": 349,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "and Resurrection, and to release man from the debt he owed (AthanG)."
+      },
+      {
+        "line_number": 389,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "disappearing from the face of the earth (AthanG)."
+      },
+      {
+        "line_number": 597,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "Angel of the Lord in 16:7, 9, 10, 11, and 13. This Word is the Son of God (AthanG) and the"
+      },
+      {
+        "line_number": 599,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "HilryP",
+        "context": "Angel is also the Son of God, for He was no created angel (HilryP). \"He is called Angel"
+      },
+      {
+        "line_number": 601,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "because He alone reveals the Father\" (AthanG). Thus, the Son also preached the gospel"
+      },
+      {
+        "line_number": 715,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "The Word of the Lord is the Word of the Father (AthanG). He is also the Son of"
+      },
+      {
+        "line_number": 784,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "HilryP",
+        "context": "The Lord is the Father, and the Angel is His Son (HilryP). And the prophet Isaiah"
+      },
+      {
+        "line_number": 788,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "alone reveals the Father\" (AthanG)."
+      },
+      {
+        "line_number": 797,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "because He was ignorant, but for the sake of the immediate listeners and of the faithful. For He is God in the flesh, and therefore, never ignorant of anything (JohnDm)."
+      },
+      {
+        "line_number": 936,
+        "entity": "ATHANASIUS",
+        "matched_alias": "St. Athanasius the Great",
+        "context": "impossible with His Son, for the Father works all things through the Son. As St. Athanasius the Great said, \"He is the Will of the Father.\" Therefore, the Son would"
+      },
+      {
+        "line_number": 936,
+        "entity": "ATHANASIUS",
+        "matched_alias": "St. Athanasius",
+        "context": "impossible with His Son, for the Father works all things through the Son. As St. Athanasius the Great said, \"He is the Will of the Father.\" Therefore, the Son would"
+      },
+      {
+        "line_number": 936,
+        "entity": "ATHANASIUS",
+        "matched_alias": "Athanasius",
+        "context": "impossible with His Son, for the Father works all things through the Son. As St. Athanasius the Great said, \"He is the Will of the Father.\" Therefore, the Son would"
+      },
+      {
+        "line_number": 1030,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "The Lord rained brimstone and fire... from the Lord out of heaven, that is, the Son rained brimstone and fire from the Father (AthanG, BasilG, AmbM, and HilryP). Both have the name \"Lord\" because of Their equality and oneness of lordship. F"
+      },
+      {
+        "line_number": 1030,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "The Lord rained brimstone and fire... from the Lord out of heaven, that is, the Son rained brimstone and fire from the Father (AthanG, BasilG, AmbM, and HilryP). Both have the name \"Lord\" because of Their equality and oneness of lordship. F"
+      },
+      {
+        "line_number": 1030,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "The Lord rained brimstone and fire... from the Lord out of heaven, that is, the Son rained brimstone and fire from the Father (AthanG, BasilG, AmbM, and HilryP). Both have the name \"Lord\" because of Their equality and oneness of lordship. F"
+      },
+      {
+        "line_number": 1030,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "HilryP",
+        "context": "The Lord rained brimstone and fire... from the Lord out of heaven, that is, the Son rained brimstone and fire from the Father (AthanG, BasilG, AmbM, and HilryP). Both have the name \"Lord\" because of Their equality and oneness of lordship. F"
+      },
+      {
+        "line_number": 1077,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "HilryP",
+        "context": "(HilryP). Abraham and Sarah would have a son in their old age."
+      },
+      {
+        "line_number": 1112,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "(AthanG)."
+      },
+      {
+        "line_number": 1130,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "God the Word tested Abraham (AthanG)."
+      },
+      {
+        "line_number": 1137,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "teaching Abraham concerning His eternal birth from God the Father (AthanG). For He is"
+      },
+      {
+        "line_number": 1245,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "meaning it is also akin to the term word. The Son of God is called both Angel and Word, for \"He alone reveals the Father\" (AthanG). Both names emphasize that the Son is the"
+      },
+      {
+        "line_number": 1654,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph's name relates to the bearing of reproach, and he bore the reproach of"
+      },
+      {
+        "line_number": 1685,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "Radiance; therefore, the Father and the Son are one (AthanG)."
+      },
+      {
+        "line_number": 1746,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "weak man (AthanG and HilryP). When He became incarnate, He assumed the weakness"
+      },
+      {
+        "line_number": 1746,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "HilryP",
+        "context": "weak man (AthanG and HilryP). When He became incarnate, He assumed the weakness"
+      },
+      {
+        "line_number": 1764,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "Jacob (AthanG and HilryP). He is the Radiance of the Father who reveals the Father in"
+      },
+      {
+        "line_number": 1764,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "HilryP",
+        "context": "Jacob (AthanG and HilryP). He is the Radiance of the Father who reveals the Father in"
+      },
+      {
+        "line_number": 1816,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "HilryP",
+        "context": "Jacob at Bethel was the Son, who is true God of true God (HilryP)."
+      },
+      {
+        "line_number": 1823,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "Father. In Him the Father is revealed, for He alone reveals the Father (AthanG)."
+      },
+      {
+        "line_number": 1842,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": ", 4 Israel's love was partial, for he loved Joseph more than his other sons. Such love"
+      },
+      {
+        "line_number": 1851,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph's brothers were blinded by their hatred for him, and therefore, could not"
+      },
+      {
+        "line_number": 1858,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": ", 27 Joseph's brothers were motivated by the love of money and possessions, for they"
+      },
+      {
+        "line_number": 1865,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph's brothers cast him into a pit (v. 24), then lifted him out and sold him as a"
+      },
+      {
+        "line_number": 1887,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph viewed adultery and/or fornication as great wickedness and sin against God. But people who treat such sin lightly simply do not know God."
+      },
+      {
+        "line_number": 1892,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph's holiness cost him his freedom. \"Yes, and all who desire to live godly in"
+      },
+      {
+        "line_number": 1899,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph suffered for righteousness' sake; therefore, the Lord was with him. Truly, he"
+      },
+      {
+        "line_number": 1906,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph's authority speaks of his human will, and the Lord was with him speaks"
+      },
+      {
+        "line_number": 1908,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "of God's will. This shows that Joseph's will was in submission to the will of God. Both"
+      },
+      {
+        "line_number": 1915,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph glorified God and not himself. This is humility in the truest sense."
+      },
+      {
+        "line_number": 1920,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Since the cupbearer forgot Joseph, he also forgot the true God who delivered him"
+      },
+      {
+        "line_number": 1929,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph was a true prophet, and the Holy Spirit prophesied through him (Creed). His"
+      },
+      {
+        "line_number": 1942,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "prophet Joseph (Creed)."
+      },
+      {
+        "line_number": 1947,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph calls Egypt the land of my humiliation. Such is this fallen world to those"
+      },
+      {
+        "line_number": 1956,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "JohnCas",
+        "context": "reverence, lack self-control in speech, and are quick to abuse others (JohnCas). These"
+      },
+      {
+        "line_number": 1958,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "sinful passions characterized Jacob's sons when they sold Joseph into Egypt."
+      },
+      {
+        "line_number": 1963,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph was a true prophet, for the Holy Spirit spoke by him. Thus, his prophecies"
+      },
+      {
+        "line_number": 1974,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph feared God. \"The fear of God is the beginning of wisdom, and those who"
+      },
+      {
+        "line_number": 1976,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "practice it have a good understanding\" (Pr 1:7). Joseph's fear and good understanding"
+      },
+      {
+        "line_number": 1983,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph's brothers did not fear God; therefore, they would not listen to wise counsel"
+      },
+      {
+        "line_number": 1985,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "when they sinned against him. So they ended up with a guilty conscience (AthanG)."
+      },
+      {
+        "line_number": 1994,
+        "entity": "ATHANASIUS",
+        "matched_alias": "St. Athanasius the Great",
+        "context": "am what I am\" ([[1CO.15:10]]). And St. Athanasius the Great said that man fell into death"
+      },
+      {
+        "line_number": 1994,
+        "entity": "ATHANASIUS",
+        "matched_alias": "St. Athanasius",
+        "context": "am what I am\" ([[1CO.15:10]]). And St. Athanasius the Great said that man fell into death"
+      },
+      {
+        "line_number": 1994,
+        "entity": "ATHANASIUS",
+        "matched_alias": "Athanasius",
+        "context": "am what I am\" ([[1CO.15:10]]). And St. Athanasius the Great said that man fell into death"
+      },
+      {
+        "line_number": 2001,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Their guilty consciences regarding their previous abuse of Joseph also led them into"
+      },
+      {
+        "line_number": 2012,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "delivered them from anxiety. Both God and Joseph loved them, for both cared about"
+      },
+      {
+        "line_number": 2019,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph honored his father Jacob by blessing him in God, which also showed he"
+      },
+      {
+        "line_number": 2031,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph made himself known to his brothers, and Jesus makes Himself known to His"
+      },
+      {
+        "line_number": 2038,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph's brothers sold him into Egypt, but God sent him there. The brothers sold"
+      },
+      {
+        "line_number": 2049,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "God made Joseph lord of all Egypt, but He made Jesus Lord of all the world (Acts"
+      },
+      {
+        "line_number": 2060,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Jacob's spirit revived when he realized Joseph was alive; our spirit revives when we"
+      },
+      {
+        "line_number": 2076,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "Father (AthanG). Therefore, Israel's vision was a personal appearance of the Son of God"
+      },
+      {
+        "line_number": 2085,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Israel could die in peace because Joseph was alive. Even so, we can die in peace"
+      },
+      {
+        "line_number": 2119,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "Angel of God. It was He who blessed Jacob, for no created angel could do this (AthanG)."
+      },
+      {
+        "line_number": 2135,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "Ephraim and Manasseh were born to Joseph as his natural sons, born from his"
+      },
+      {
+        "line_number": 2135,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Ephraim and Manasseh were born to Joseph as his natural sons, born from his"
+      },
+      {
+        "line_number": 2139,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "His nature (AthanG)."
+      },
+      {
+        "line_number": 2144,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "him. Joseph recognized his sons as gifts from God, for they belonged to God more than to"
+      },
+      {
+        "line_number": 2154,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "evil (AthanG). Therefore, the Holy Trinity is revealed to a certain extent in the Old"
+      },
+      {
+        "line_number": 2161,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "The Holy Spirit spoke by Jacob and predicted that God would bring Joseph back to"
+      },
+      {
+        "line_number": 2163,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Canaan. Joseph's bones were later taken to Canaan, prefiguring the resurrection from the"
+      },
+      {
+        "line_number": 2185,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "from the nature of the Father; therefore, He is not a work of the Father (AthanG)."
+      },
+      {
+        "line_number": 2212,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": ", 15 Issachar rested between the inheritances of both the Old and New Testaments, and he farmed them by hard work (AthanG)."
+      },
+      {
+        "line_number": 2217,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph spoke to the heart of his brothers, for the heart has spiritual eyes to see the"
+      },
+      {
+        "line_number": 2221,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "forgiveness expressed through Joseph (v. 17), and that He worked their evil for good, in"
+      },
+      {
+        "line_number": 2232,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "The Holy Spirit spoke two prophecies by the prophet Joseph (Creed): the"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 1,
+      "ATHANASIUS": 31,
+      "BASIL_GREAT": 2,
+      "EPHRAIM_SYRIAN": 2,
+      "HILARY_POITIERS": 8,
+      "JOHN_CASSIAN": 1,
+      "JOHN_CHRYSOSTOM": 1,
+      "JOHN_DAMASCENE": 3,
+      "JOSEPH_BETROTHED": 35
+    },
+    "unresolved_candidates_count": 1,
+    "unresolved_candidates": [
+      {
+        "line_number": 680,
+        "token": "CypC",
+        "context": "the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is"
+      }
+    ],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 31,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 55,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 59,
+        "snippet": "HilryP"
+      },
+      {
+        "line_number": 114,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 158,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 338,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 349,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 389,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 597,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 599,
+        "snippet": "HilryP"
+      },
+      {
+        "line_number": 601,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 715,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 784,
+        "snippet": "HilryP"
+      },
+      {
+        "line_number": 788,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 797,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 1077,
+        "snippet": "HilryP"
+      },
+      {
+        "line_number": 1112,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1130,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1137,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1245,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1685,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1816,
+        "snippet": "HilryP"
+      },
+      {
+        "line_number": 1823,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1956,
+        "snippet": "JohnCas"
+      },
+      {
+        "line_number": 1985,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 2076,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 2119,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 2139,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 2154,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 2185,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 2212,
+        "snippet": "AthanG"
+      }
+    ]
+  }
+}

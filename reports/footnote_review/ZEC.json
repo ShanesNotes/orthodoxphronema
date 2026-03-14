@@ -1,0 +1,312 @@
+{
+  "book_code": "ZEC",
+  "position": 41,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/ZEC_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": false,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 125,
+      "auto_fixable": 0,
+      "review_needed": 125,
+      "files_checked": 1,
+      "lines_checked": 334,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 109,
+      "P7": 16
+    }
+  },
+  "structure": {
+    "issue_count": 4,
+    "findings": [
+      {
+        "type": "midline_reference_spill",
+        "line_number": 285,
+        "raw_text": "This promise is for peace, safety, luxury, blessing, and paradise. 3:1-10 The LXX makes the Christological typography of the fourth vision crystal clear. Paul"
+      },
+      {
+        "type": "dangling_range_continuation",
+        "line_number": 604,
+        "raw_text": "-10; [[LUK.19:28]]-38; [[JOH.12:12]]-19). Matthew and John cite v. 9 ([[MAT.21:5]]; [[JOH.12:15]]). Rather than riding proudly on a warrior's chariot in victory, the Messiah-king rides"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 616,
+        "raw_text": "the captives free. 10:1-3 Zechariah condemns the spiritual leaders (shepherds) who fleece the flock of God"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 620,
+        "raw_text": "deliver Judah. 11:1-17 The Good Shepherd (see Jn 10) is contrasted with the bad shepherds of 10:1-12. He"
+      }
+    ],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "ZEC",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/ZEC_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/ZEC_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/ZEC.md",
+    "counts": {
+      "scripture_markers": 56,
+      "footnote_entries": 56,
+      "scripture_anchors": 76,
+      "valid_marker_anchors": 55,
+      "valid_note_anchors": 55
+    },
+    "invalid_marker_anchors": {
+      "ZEC.2:17": "invalid_verse"
+    },
+    "invalid_note_anchors": {
+      "ZEC.2:17": "invalid_verse"
+    },
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "ZEC.11:12",
+      "ZEC.12:10",
+      "ZEC.13:8",
+      "ZEC.14:18",
+      "ZEC.14:21",
+      "ZEC.14:3",
+      "ZEC.14:8",
+      "ZEC.1:14",
+      "ZEC.1:2",
+      "ZEC.1:3",
+      "ZEC.1:4",
+      "ZEC.1:5",
+      "ZEC.1:8",
+      "ZEC.3:2",
+      "ZEC.4:3",
+      "ZEC.6:12",
+      "ZEC.6:2",
+      "ZEC.7:13",
+      "ZEC.7:2",
+      "ZEC.8:11",
+      "ZEC.8:16",
+      "ZEC.8:19",
+      "ZEC.9:9"
+    ],
+    "note_anchor_gaps": [
+      "ZEC.11:12",
+      "ZEC.12:10",
+      "ZEC.13:8",
+      "ZEC.14:18",
+      "ZEC.14:21",
+      "ZEC.14:3",
+      "ZEC.14:8",
+      "ZEC.1:14",
+      "ZEC.1:2",
+      "ZEC.1:3",
+      "ZEC.1:4",
+      "ZEC.1:5",
+      "ZEC.1:8",
+      "ZEC.3:2",
+      "ZEC.4:3",
+      "ZEC.6:12",
+      "ZEC.6:2",
+      "ZEC.7:13",
+      "ZEC.7:2",
+      "ZEC.8:11",
+      "ZEC.8:16",
+      "ZEC.8:19",
+      "ZEC.9:9"
+    ],
+    "issue_count": 48
+  },
+  "wikilinks": {
+    "total_refs": 36,
+    "convertible_refs": 0,
+    "already_linked_refs": 36,
+    "unresolved_refs": 2,
+    "unresolved_examples": [
+      {
+        "line_number": 663,
+        "raw_text": "Ezk 38-40",
+        "reason": "chapter_only_or_unsupported_range"
+      },
+      {
+        "line_number": 663,
+        "raw_text": "Rev 20-22",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 5,
+      "matched_entities": [
+        {
+          "line_number": 304,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John the Theologian",
+          "context": "Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands"
+        },
+        {
+          "line_number": 304,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "John the Theologian",
+          "context": "Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands"
+        },
+        {
+          "line_number": 304,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands"
+        },
+        {
+          "line_number": 606,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "humbly on a donkey, notes St. Ambrose. Justin Martyr comments, \"Jacob predicted that"
+        },
+        {
+          "line_number": 606,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "humbly on a donkey, notes St. Ambrose. Justin Martyr comments, \"Jacob predicted that"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 2,
+        "JOHN_THEOLOGIAN": 3
+      },
+      "unresolved_candidates_count": 1,
+      "unresolved_candidates": [
+        {
+          "line_number": 261,
+          "token": "St. Michael",
+          "context": "St. Michael the Archangel would not dispute with the devil over the body of Moses, but"
+        }
+      ],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 7,
+      "matched_entities": [
+        {
+          "line_number": 95,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "between men, who are transient and mortal, and God, who is immortal and transcendent. The previous generation is dead and gone, but God lives and remains the same. As Paul"
+        },
+        {
+          "line_number": 229,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "St. James",
+          "context": "cherubic hymn of the ancient Liturgy of St. James (sometimes sung as a carol in Western"
+        },
+        {
+          "line_number": 229,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "cherubic hymn of the ancient Liturgy of St. James (sometimes sung as a carol in Western"
+        },
+        {
+          "line_number": 263,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "said, \"The Lord rebuke you\" (Jude 9). Even more astoundingly, Jesus Christ (the Lord)"
+        },
+        {
+          "line_number": 285,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "This promise is for peace, safety, luxury, blessing, and paradise. 3:1-10 The LXX makes the Christological typography of the fourth vision crystal clear. Paul"
+        },
+        {
+          "line_number": 418,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "4:10). St. Paul promises crowns to believers who endure ([[1CO.9:24]]-27)."
+        },
+        {
+          "line_number": 418,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "4:10). St. Paul promises crowns to believers who endure ([[1CO.9:24]]-27)."
+        }
+      ],
+      "entity_counts": {
+        "JAMES_APOSTLE": 2,
+        "JUDE_APOSTLE": 1,
+        "PAUL_APOSTLE": 4
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 5,
+    "matched_entities": [
+      {
+        "line_number": 304,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John the Theologian",
+        "context": "Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands"
+      },
+      {
+        "line_number": 304,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "John the Theologian",
+        "context": "Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands"
+      },
+      {
+        "line_number": 304,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Jewish synagogue. St. John the Theologian saw Christ in the midst of seven lampstands"
+      },
+      {
+        "line_number": 606,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "humbly on a donkey, notes St. Ambrose. Justin Martyr comments, \"Jacob predicted that"
+      },
+      {
+        "line_number": 606,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "humbly on a donkey, notes St. Ambrose. Justin Martyr comments, \"Jacob predicted that"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 2,
+      "JOHN_THEOLOGIAN": 3
+    },
+    "unresolved_candidates_count": 1,
+    "unresolved_candidates": [
+      {
+        "line_number": 261,
+        "token": "St. Michael",
+        "context": "St. Michael the Archangel would not dispute with the devil over the body of Moses, but"
+      }
+    ],
+    "explicit_citation_snippets": []
+  }
+}

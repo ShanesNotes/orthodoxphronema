@@ -214,7 +214,9 @@ Elimelech, but he is not willing to take Ruth, the ancestor of Christ. 4:6
 
 The unnamed kinsman unwittingly speaks the truth when he acknowledges that
 
-marrying Ruth would ruin his inheritance. 4:7-8 The passing of a sandal represented the transfer of responsibility. In the case of the
+marrying Ruth would ruin his inheritance.
+
+4:7-8 The passing of a sandal represented the transfer of responsibility. In the case of the
 
 unnamed close relative passing his sandal to Boaz, we see the passing of the Law and
 

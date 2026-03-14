@@ -1,0 +1,675 @@
+{
+  "book_code": "JOS",
+  "position": 6,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/JOS_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 137,
+      "auto_fixable": 0,
+      "review_needed": 137,
+      "files_checked": 1,
+      "lines_checked": 344,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 115,
+      "P7": 22
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "JOS",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/JOS_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/JOS_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/JOS.md",
+    "counts": {
+      "scripture_markers": 21,
+      "footnote_entries": 21,
+      "scripture_anchors": 177,
+      "valid_marker_anchors": 21,
+      "valid_note_anchors": 21
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "JOS.13:16",
+      "JOS.14:7",
+      "JOS.15:13",
+      "JOS.17:14",
+      "JOS.21:46",
+      "JOS.22:10",
+      "JOS.22:30",
+      "JOS.24:14",
+      "JOS.24:23",
+      "JOS.24:33"
+    ],
+    "note_anchor_gaps": [
+      "JOS.13:16",
+      "JOS.14:7",
+      "JOS.15:13",
+      "JOS.17:14",
+      "JOS.21:46",
+      "JOS.22:10",
+      "JOS.22:30",
+      "JOS.24:14",
+      "JOS.24:23",
+      "JOS.24:33"
+    ],
+    "issue_count": 20
+  },
+  "wikilinks": {
+    "total_refs": 60,
+    "convertible_refs": 0,
+    "already_linked_refs": 60,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 29,
+      "matched_entities": [
+        {
+          "line_number": 31,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "a type of Jesus Christ, who brings His own into heaven through grace (JohnChr)."
+        },
+        {
+          "line_number": 45,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "did not fear death, but destroyed it by His cross (AthanG). 1:10-11"
+        },
+        {
+          "line_number": 47,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "As the scribes prepare the people to enter Canaan, St. John the Forerunner will"
+        },
+        {
+          "line_number": 47,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "St. John the Forerunner",
+          "context": "As the scribes prepare the people to enter Canaan, St. John the Forerunner will"
+        },
+        {
+          "line_number": 47,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Forerunner",
+          "context": "As the scribes prepare the people to enter Canaan, St. John the Forerunner will"
+        },
+        {
+          "line_number": 89,
+          "entity": "CYRIL_JERUSALEM",
+          "matched_alias": "CyrJer",
+          "context": "anyone gains salvation (CyrJer). 2:12-13"
+        },
+        {
+          "line_number": 105,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "repentance and faith saved her (AmbM). 3:1"
+        },
+        {
+          "line_number": 111,
+          "entity": "CYRIL_JERUSALEM",
+          "matched_alias": "CyrJer",
+          "context": "type of His Baptism, and thus of ours as well (CyrJer). 3:3"
+        },
+        {
+          "line_number": 153,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "4:1-10 The twelve stones prefigure the twelve apostles of Christ (GrgNy). The Lord gave"
+        },
+        {
+          "line_number": 185,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "circumcision (JohnDm). Circumcision was also a type of baptism. For as circumcision cut off a useless member"
+        },
+        {
+          "line_number": 195,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "faithfulness (JohnDm). Furthermore, Christ was circumcised to fulfill the Law of Moses; therefore, circumcision is now contrary to baptism, because it was done away in Christ. Moreover, when Jesus was baptized and the Holy Spirit descended "
+        },
+        {
+          "line_number": 199,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "and before the world in which we live (JohnDm). 5:9"
+        },
+        {
+          "line_number": 211,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "the devil and his angels (JohnChr)."
+        },
+        {
+          "line_number": 259,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgTheo",
+          "context": "genuine repentance and faith (GrgTheo)."
+        },
+        {
+          "line_number": 267,
+          "entity": "CYRIL_JERUSALEM",
+          "matched_alias": "CyrJer",
+          "context": "you\" ([[MAT.21:31]]). (CyrJer)"
+        },
+        {
+          "line_number": 311,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "The love of money is an ancient vice, and in [[EXO.20:17]], a law was given to check it: \"You shall not covet\" (AmbM)."
+        },
+        {
+          "line_number": 321,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "8:17-20 The Lord who spoke to Joshua was the Son of God (AmbM). Joshua's spear was"
+        },
+        {
+          "line_number": 353,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "innocence in believing them (AmbM)."
+        },
+        {
+          "line_number": 359,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr). These Canaanites prefigure the sinners and outcasts who will humble"
+        },
+        {
+          "line_number": 381,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "rebuked the sea, and on the cross caused the sun to be darkened (AthanG). So this"
+        },
+        {
+          "line_number": 401,
+          "entity": "MAXIMUS_CONFESSOR",
+          "matched_alias": "MaxCon",
+          "context": "demons who rise up against him (MaxCon)."
+        },
+        {
+          "line_number": 462,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "preferred safety to virtue (AmbM). The Lord Jesus Christ preferred our salvation rather"
+        },
+        {
+          "line_number": 504,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "the land and to show them no mercy ([[DEU.7:1]], [[DEU.7:2]]; [[JOS.9:24]]). But the tribe of Ephraim did not"
+        },
+        {
+          "line_number": 506,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "fully obey this command; therefore, the Canaanites dwell among Ephraim to this"
+        },
+        {
+          "line_number": 512,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "corrupted Ephraim. We are to show no mercy to these passions, but are to put them \"to"
+        },
+        {
+          "line_number": 519,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Note how the tribe of Joseph refers to itself first in the plural (us) and then in"
+        },
+        {
+          "line_number": 675,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "the soul to its natural state, as it was when the Lord made it. John the Baptist meant the"
+        },
+        {
+          "line_number": 693,
+          "entity": "ANTONY_GREAT",
+          "matched_alias": "AntEg",
+          "context": "being the same as when He made it (AntEg)."
+        },
+        {
+          "line_number": 718,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "The bones of Joseph ([[GEN.50:24]], [[GEN.50:25]]; [[EXO.13:19]]) are buried... at Shechem. Thus, God's covenant with Abraham, Isaac, and Joseph comes full circle and begins anew with"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 5,
+        "ANTONY_GREAT": 1,
+        "ATHANASIUS": 2,
+        "CYRIL_JERUSALEM": 3,
+        "EPHRAIM_SYRIAN": 3,
+        "GREGORY_NYSSA": 1,
+        "GREGORY_THEOLOGIAN": 1,
+        "JOHN_CHRYSOSTOM": 3,
+        "JOHN_DAMASCENE": 3,
+        "JOHN_FORERUNNER": 3,
+        "JOHN_THEOLOGIAN": 1,
+        "JOSEPH_BETROTHED": 2,
+        "MAXIMUS_CONFESSOR": 1
+      },
+      "unresolved_candidates_count": 1,
+      "unresolved_candidates": [
+        {
+          "line_number": 79,
+          "token": "ElPres",
+          "context": "kingdom (ElPres). 2:3"
+        }
+      ],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 31,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 45,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 89,
+          "snippet": "CyrJer"
+        },
+        {
+          "line_number": 105,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 111,
+          "snippet": "CyrJer"
+        },
+        {
+          "line_number": 153,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 185,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 195,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 199,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 211,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 259,
+          "snippet": "GrgTheo"
+        },
+        {
+          "line_number": 267,
+          "snippet": "CyrJer"
+        },
+        {
+          "line_number": 311,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 321,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 353,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 359,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 381,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 401,
+          "snippet": "MaxCon"
+        },
+        {
+          "line_number": 462,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 693,
+          "snippet": "AntEg"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 29,
+    "matched_entities": [
+      {
+        "line_number": 31,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "a type of Jesus Christ, who brings His own into heaven through grace (JohnChr)."
+      },
+      {
+        "line_number": 45,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "did not fear death, but destroyed it by His cross (AthanG). 1:10-11"
+      },
+      {
+        "line_number": 47,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "As the scribes prepare the people to enter Canaan, St. John the Forerunner will"
+      },
+      {
+        "line_number": 47,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "St. John the Forerunner",
+        "context": "As the scribes prepare the people to enter Canaan, St. John the Forerunner will"
+      },
+      {
+        "line_number": 47,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Forerunner",
+        "context": "As the scribes prepare the people to enter Canaan, St. John the Forerunner will"
+      },
+      {
+        "line_number": 89,
+        "entity": "CYRIL_JERUSALEM",
+        "matched_alias": "CyrJer",
+        "context": "anyone gains salvation (CyrJer). 2:12-13"
+      },
+      {
+        "line_number": 105,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "repentance and faith saved her (AmbM). 3:1"
+      },
+      {
+        "line_number": 111,
+        "entity": "CYRIL_JERUSALEM",
+        "matched_alias": "CyrJer",
+        "context": "type of His Baptism, and thus of ours as well (CyrJer). 3:3"
+      },
+      {
+        "line_number": 153,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "4:1-10 The twelve stones prefigure the twelve apostles of Christ (GrgNy). The Lord gave"
+      },
+      {
+        "line_number": 185,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "circumcision (JohnDm). Circumcision was also a type of baptism. For as circumcision cut off a useless member"
+      },
+      {
+        "line_number": 195,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "faithfulness (JohnDm). Furthermore, Christ was circumcised to fulfill the Law of Moses; therefore, circumcision is now contrary to baptism, because it was done away in Christ. Moreover, when Jesus was baptized and the Holy Spirit descended "
+      },
+      {
+        "line_number": 199,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "and before the world in which we live (JohnDm). 5:9"
+      },
+      {
+        "line_number": 211,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "the devil and his angels (JohnChr)."
+      },
+      {
+        "line_number": 259,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgTheo",
+        "context": "genuine repentance and faith (GrgTheo)."
+      },
+      {
+        "line_number": 267,
+        "entity": "CYRIL_JERUSALEM",
+        "matched_alias": "CyrJer",
+        "context": "you\" ([[MAT.21:31]]). (CyrJer)"
+      },
+      {
+        "line_number": 311,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "The love of money is an ancient vice, and in [[EXO.20:17]], a law was given to check it: \"You shall not covet\" (AmbM)."
+      },
+      {
+        "line_number": 321,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "8:17-20 The Lord who spoke to Joshua was the Son of God (AmbM). Joshua's spear was"
+      },
+      {
+        "line_number": 353,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "innocence in believing them (AmbM)."
+      },
+      {
+        "line_number": 359,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr). These Canaanites prefigure the sinners and outcasts who will humble"
+      },
+      {
+        "line_number": 381,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "rebuked the sea, and on the cross caused the sun to be darkened (AthanG). So this"
+      },
+      {
+        "line_number": 401,
+        "entity": "MAXIMUS_CONFESSOR",
+        "matched_alias": "MaxCon",
+        "context": "demons who rise up against him (MaxCon)."
+      },
+      {
+        "line_number": 462,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "preferred safety to virtue (AmbM). The Lord Jesus Christ preferred our salvation rather"
+      },
+      {
+        "line_number": 504,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "the land and to show them no mercy ([[DEU.7:1]], [[DEU.7:2]]; [[JOS.9:24]]). But the tribe of Ephraim did not"
+      },
+      {
+        "line_number": 506,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "fully obey this command; therefore, the Canaanites dwell among Ephraim to this"
+      },
+      {
+        "line_number": 512,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "corrupted Ephraim. We are to show no mercy to these passions, but are to put them \"to"
+      },
+      {
+        "line_number": 519,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Note how the tribe of Joseph refers to itself first in the plural (us) and then in"
+      },
+      {
+        "line_number": 675,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "the soul to its natural state, as it was when the Lord made it. John the Baptist meant the"
+      },
+      {
+        "line_number": 693,
+        "entity": "ANTONY_GREAT",
+        "matched_alias": "AntEg",
+        "context": "being the same as when He made it (AntEg)."
+      },
+      {
+        "line_number": 718,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "The bones of Joseph ([[GEN.50:24]], [[GEN.50:25]]; [[EXO.13:19]]) are buried... at Shechem. Thus, God's covenant with Abraham, Isaac, and Joseph comes full circle and begins anew with"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 5,
+      "ANTONY_GREAT": 1,
+      "ATHANASIUS": 2,
+      "CYRIL_JERUSALEM": 3,
+      "EPHRAIM_SYRIAN": 3,
+      "GREGORY_NYSSA": 1,
+      "GREGORY_THEOLOGIAN": 1,
+      "JOHN_CHRYSOSTOM": 3,
+      "JOHN_DAMASCENE": 3,
+      "JOHN_FORERUNNER": 3,
+      "JOHN_THEOLOGIAN": 1,
+      "JOSEPH_BETROTHED": 2,
+      "MAXIMUS_CONFESSOR": 1
+    },
+    "unresolved_candidates_count": 1,
+    "unresolved_candidates": [
+      {
+        "line_number": 79,
+        "token": "ElPres",
+        "context": "kingdom (ElPres). 2:3"
+      }
+    ],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 31,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 45,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 89,
+        "snippet": "CyrJer"
+      },
+      {
+        "line_number": 105,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 111,
+        "snippet": "CyrJer"
+      },
+      {
+        "line_number": 153,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 185,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 195,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 199,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 211,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 259,
+        "snippet": "GrgTheo"
+      },
+      {
+        "line_number": 267,
+        "snippet": "CyrJer"
+      },
+      {
+        "line_number": 311,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 321,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 353,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 359,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 381,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 401,
+        "snippet": "MaxCon"
+      },
+      {
+        "line_number": 462,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 693,
+        "snippet": "AntEg"
+      }
+    ]
+  }
+}

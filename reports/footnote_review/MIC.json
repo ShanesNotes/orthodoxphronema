@@ -1,0 +1,167 @@
+{
+  "book_code": "MIC",
+  "position": 33,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/MIC_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 25,
+      "auto_fixable": 0,
+      "review_needed": 25,
+      "files_checked": 1,
+      "lines_checked": 77,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 19,
+      "P7": 6
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "MIC",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/MIC_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/MIC_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/MIC.md",
+    "counts": {
+      "scripture_markers": 18,
+      "footnote_entries": 18,
+      "scripture_anchors": 28,
+      "valid_marker_anchors": 18,
+      "valid_note_anchors": 18
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "MIC.1:10",
+      "MIC.1:4",
+      "MIC.1:6",
+      "MIC.2:3",
+      "MIC.2:4",
+      "MIC.3:2",
+      "MIC.5:15",
+      "MIC.6:3",
+      "MIC.6:8",
+      "MIC.7:18"
+    ],
+    "note_anchor_gaps": [
+      "MIC.1:10",
+      "MIC.1:4",
+      "MIC.1:6",
+      "MIC.2:3",
+      "MIC.2:4",
+      "MIC.3:2",
+      "MIC.5:15",
+      "MIC.6:3",
+      "MIC.6:8",
+      "MIC.7:18"
+    ],
+    "issue_count": 20
+  },
+  "wikilinks": {
+    "total_refs": 13,
+    "convertible_refs": 0,
+    "already_linked_refs": 13,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 3,
+      "matched_entities": [
+        {
+          "line_number": 128,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "St. John Chrysostom, in his sermon on [[JOH.16:21]], [[JOH.16:22]], sees Christ's words echoing"
+        },
+        {
+          "line_number": 128,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "St. John Chrysostom, in his sermon on [[JOH.16:21]], [[JOH.16:22]], sees Christ's words echoing"
+        },
+        {
+          "line_number": 128,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "St. John Chrysostom, in his sermon on [[JOH.16:21]], [[JOH.16:22]], sees Christ's words echoing"
+        }
+      ],
+      "entity_counts": {
+        "JOHN_CHRYSOSTOM": 2,
+        "JOHN_THEOLOGIAN": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 3,
+    "matched_entities": [
+      {
+        "line_number": 128,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "St. John Chrysostom, in his sermon on [[JOH.16:21]], [[JOH.16:22]], sees Christ's words echoing"
+      },
+      {
+        "line_number": 128,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "St. John Chrysostom, in his sermon on [[JOH.16:21]], [[JOH.16:22]], sees Christ's words echoing"
+      },
+      {
+        "line_number": 128,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "St. John Chrysostom, in his sermon on [[JOH.16:21]], [[JOH.16:22]], sees Christ's words echoing"
+      }
+    ],
+    "entity_counts": {
+      "JOHN_CHRYSOSTOM": 2,
+      "JOHN_THEOLOGIAN": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

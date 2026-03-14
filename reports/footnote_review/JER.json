@@ -1,0 +1,834 @@
+{
+  "book_code": "JER",
+  "position": 44,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/JER_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 339,
+      "auto_fixable": 0,
+      "review_needed": 339,
+      "files_checked": 1,
+      "lines_checked": 686,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 309,
+      "P7": 30
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "JER",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/JER_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/JER_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/JER.md",
+    "counts": {
+      "scripture_markers": 181,
+      "footnote_entries": 181,
+      "scripture_anchors": 368,
+      "valid_marker_anchors": 181,
+      "valid_note_anchors": 181
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "JER.10:16",
+      "JER.10:20",
+      "JER.11:13",
+      "JER.11:18",
+      "JER.11:20",
+      "JER.12:7",
+      "JER.13:17",
+      "JER.13:26",
+      "JER.13:4",
+      "JER.15:19",
+      "JER.16:16",
+      "JER.16:7",
+      "JER.17:15",
+      "JER.17:5",
+      "JER.19:9",
+      "JER.1:16",
+      "JER.1:2",
+      "JER.1:5",
+      "JER.20:13",
+      "JER.20:15",
+      "JER.20:17",
+      "JER.21:2",
+      "JER.2:10",
+      "JER.2:2",
+      "JER.2:23",
+      "JER.30:15",
+      "JER.30:28",
+      "JER.30:32",
+      "JER.31:12",
+      "JER.31:13",
+      "JER.31:33",
+      "JER.32:20",
+      "JER.33:14",
+      "JER.33:18",
+      "JER.34:14",
+      "JER.34:7",
+      "JER.36:10",
+      "JER.36:14",
+      "JER.36:5",
+      "JER.37:8",
+      "JER.37:9",
+      "JER.38:12",
+      "JER.38:22",
+      "JER.38:33",
+      "JER.38:34",
+      "JER.38:4",
+      "JER.38:5",
+      "JER.39:35",
+      "JER.39:40",
+      "JER.39:41",
+      "JER.3:15",
+      "JER.3:19",
+      "JER.40:6",
+      "JER.41:5",
+      "JER.41:8",
+      "JER.41:9",
+      "JER.42:2",
+      "JER.43:14",
+      "JER.43:16",
+      "JER.43:2",
+      "JER.43:23",
+      "JER.43:27",
+      "JER.43:5",
+      "JER.44:12",
+      "JER.44:15",
+      "JER.44:7",
+      "JER.45:14",
+      "JER.45:7",
+      "JER.46:4",
+      "JER.46:5",
+      "JER.47:13",
+      "JER.48:2",
+      "JER.48:5",
+      "JER.4:22",
+      "JER.50:10",
+      "JER.50:7",
+      "JER.51:16",
+      "JER.51:17",
+      "JER.51:8",
+      "JER.52:2",
+      "JER.52:21",
+      "JER.52:25",
+      "JER.52:26",
+      "JER.5:10",
+      "JER.5:13",
+      "JER.5:19",
+      "JER.5:23",
+      "JER.5:4",
+      "JER.6:16",
+      "JER.6:20",
+      "JER.6:5",
+      "JER.7:17",
+      "JER.7:2",
+      "JER.7:30",
+      "JER.7:32",
+      "JER.8:12",
+      "JER.8:20",
+      "JER.8:21",
+      "JER.8:8",
+      "JER.9:10",
+      "JER.9:22"
+    ],
+    "note_anchor_gaps": [
+      "JER.10:16",
+      "JER.10:20",
+      "JER.11:13",
+      "JER.11:18",
+      "JER.11:20",
+      "JER.12:7",
+      "JER.13:17",
+      "JER.13:26",
+      "JER.13:4",
+      "JER.15:19",
+      "JER.16:16",
+      "JER.16:7",
+      "JER.17:15",
+      "JER.17:5",
+      "JER.19:9",
+      "JER.1:16",
+      "JER.1:2",
+      "JER.1:5",
+      "JER.20:13",
+      "JER.20:15",
+      "JER.20:17",
+      "JER.21:2",
+      "JER.2:10",
+      "JER.2:2",
+      "JER.2:23",
+      "JER.30:15",
+      "JER.30:28",
+      "JER.30:32",
+      "JER.31:12",
+      "JER.31:13",
+      "JER.31:33",
+      "JER.32:20",
+      "JER.33:14",
+      "JER.33:18",
+      "JER.34:14",
+      "JER.34:7",
+      "JER.36:10",
+      "JER.36:14",
+      "JER.36:5",
+      "JER.37:8",
+      "JER.37:9",
+      "JER.38:12",
+      "JER.38:22",
+      "JER.38:33",
+      "JER.38:34",
+      "JER.38:4",
+      "JER.38:5",
+      "JER.39:35",
+      "JER.39:40",
+      "JER.39:41",
+      "JER.3:15",
+      "JER.3:19",
+      "JER.40:6",
+      "JER.41:5",
+      "JER.41:8",
+      "JER.41:9",
+      "JER.42:2",
+      "JER.43:14",
+      "JER.43:16",
+      "JER.43:2",
+      "JER.43:23",
+      "JER.43:27",
+      "JER.43:5",
+      "JER.44:12",
+      "JER.44:15",
+      "JER.44:7",
+      "JER.45:14",
+      "JER.45:7",
+      "JER.46:4",
+      "JER.46:5",
+      "JER.47:13",
+      "JER.48:2",
+      "JER.48:5",
+      "JER.4:22",
+      "JER.50:10",
+      "JER.50:7",
+      "JER.51:16",
+      "JER.51:17",
+      "JER.51:8",
+      "JER.52:2",
+      "JER.52:21",
+      "JER.52:25",
+      "JER.52:26",
+      "JER.5:10",
+      "JER.5:13",
+      "JER.5:19",
+      "JER.5:23",
+      "JER.5:4",
+      "JER.6:16",
+      "JER.6:20",
+      "JER.6:5",
+      "JER.7:17",
+      "JER.7:2",
+      "JER.7:30",
+      "JER.7:32",
+      "JER.8:12",
+      "JER.8:20",
+      "JER.8:21",
+      "JER.8:8",
+      "JER.9:10",
+      "JER.9:22"
+    ],
+    "issue_count": 202
+  },
+  "wikilinks": {
+    "total_refs": 59,
+    "convertible_refs": 0,
+    "already_linked_refs": 59,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 28,
+      "matched_entities": [
+        {
+          "line_number": 79,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgNa",
+          "context": "sin, \"but any sin you have committed\" (GrgNa)."
+        },
+        {
+          "line_number": 104,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "St. Cyprian",
+          "context": "Circumcise... your heart: St. Cyprian tells us \"the first circumcision of the flesh is"
+        },
+        {
+          "line_number": 104,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "Circumcise... your heart: St. Cyprian tells us \"the first circumcision of the flesh is"
+        },
+        {
+          "line_number": 115,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "of the soul, to which God is averse\" (JohnChr)."
+        },
+        {
+          "line_number": 138,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "great doctrines, as is the view also of the prophet\" (BasilG)."
+        },
+        {
+          "line_number": 177,
+          "entity": "JEROME",
+          "matched_alias": "St. Jerome",
+          "context": "Beth Haccerem: St. Jerome taught this was located between Tekoa, Amos' birthplace, and Jerusalem."
+        },
+        {
+          "line_number": 177,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "Beth Haccerem: St. Jerome taught this was located between Tekoa, Amos' birthplace, and Jerusalem."
+        },
+        {
+          "line_number": 205,
+          "entity": "ATHANASIUS",
+          "matched_alias": "St. Athanasius",
+          "context": "St. Athanasius connects this passage with [[JOH.14:6]], where Jesus says, \"I am the way, the truth, and the life. No one comes to the Father except through Me.\""
+        },
+        {
+          "line_number": 205,
+          "entity": "ATHANASIUS",
+          "matched_alias": "Athanasius",
+          "context": "St. Athanasius connects this passage with [[JOH.14:6]], where Jesus says, \"I am the way, the truth, and the life. No one comes to the Father except through Me.\""
+        },
+        {
+          "line_number": 229,
+          "entity": "IRENAEUS",
+          "matched_alias": "Iren",
+          "context": "what it forbids. \"For it was not because He was angry, like a man, as many venture to say, that He rejected their sacrifices; but out of compassion to their blindness\" (Iren)."
+        },
+        {
+          "line_number": 343,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "not the Lord, and were faithless, he charges them with unrighteousness\" (AthanG)."
+        },
+        {
+          "line_number": 383,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "not made heaven and earth'\" (JohnChr)."
+        },
+        {
+          "line_number": 425,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "terrify them: and this the prophet also seeing did not cease praying\" (JohnChr)."
+        },
+        {
+          "line_number": 464,
+          "entity": "CYRIL_JERUSALEM",
+          "matched_alias": "CyrJer",
+          "context": "He who sits on the right hand of the Father, stood and was judged\" (CyrJer)."
+        },
+        {
+          "line_number": 575,
+          "entity": "IRENAEUS",
+          "matched_alias": "Iren",
+          "context": "Gentiles\" (Iren)."
+        },
+        {
+          "line_number": 580,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "St. Cyprian",
+          "context": "Deceitful water: St. Cyprian calls this \"the resemblance of baptism,\" done under \"a"
+        },
+        {
+          "line_number": 580,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "Deceitful water: St. Cyprian calls this \"the resemblance of baptism,\" done under \"a"
+        },
+        {
+          "line_number": 642,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "St. Basil the Great",
+          "context": ", 2 The shrub here is the tamarisk. St. Basil the Great notes, \"it is an aquatic plant [it"
+        },
+        {
+          "line_number": 642,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "St. Basil",
+          "context": ", 2 The shrub here is the tamarisk. St. Basil the Great notes, \"it is an aquatic plant [it"
+        },
+        {
+          "line_number": 642,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "Basil",
+          "context": ", 2 The shrub here is the tamarisk. St. Basil the Great notes, \"it is an aquatic plant [it"
+        },
+        {
+          "line_number": 653,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that"
+        },
+        {
+          "line_number": 653,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that"
+        },
+        {
+          "line_number": 653,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that"
+        },
+        {
+          "line_number": 933,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "Canaan. This descriptive title foreshadows the eventual gathering of all nations, tongues, and tribes as the people of God. St. Ambrose reminds us that calling the Philistines by"
+        },
+        {
+          "line_number": 933,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "Canaan. This descriptive title foreshadows the eventual gathering of all nations, tongues, and tribes as the people of God. St. Ambrose reminds us that calling the Philistines by"
+        },
+        {
+          "line_number": 1384,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "famous Paschal sermon of St. John Chrysostom: \"It [death] was embittered!\" From the"
+        },
+        {
+          "line_number": 1384,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "famous Paschal sermon of St. John Chrysostom: \"It [death] was embittered!\" From the"
+        },
+        {
+          "line_number": 1384,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "famous Paschal sermon of St. John Chrysostom: \"It [death] was embittered!\" From the"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 2,
+        "ATHANASIUS": 3,
+        "BASIL_GREAT": 4,
+        "CYPRIAN_CARTHAGE": 4,
+        "CYRIL_JERUSALEM": 1,
+        "GREGORY_THEOLOGIAN": 1,
+        "IRENAEUS": 2,
+        "JEROME": 2,
+        "JOHN_CHRYSOSTOM": 7,
+        "JOHN_THEOLOGIAN": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 79,
+          "snippet": "GrgNa"
+        },
+        {
+          "line_number": 115,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 138,
+          "snippet": "BasilG"
+        },
+        {
+          "line_number": 229,
+          "snippet": "Iren"
+        },
+        {
+          "line_number": 343,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 383,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 425,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 464,
+          "snippet": "CyrJer"
+        },
+        {
+          "line_number": 575,
+          "snippet": "Iren"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 15,
+      "matched_entities": [
+        {
+          "line_number": 122,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "many secular and religious leaders open to the same charge. St. Paul advises, \"from such"
+        },
+        {
+          "line_number": 122,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "many secular and religious leaders open to the same charge. St. Paul advises, \"from such"
+        },
+        {
+          "line_number": 150,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "St. Jude",
+          "context": "Our prophets were as wind: In modern idiom, they were full of hot air! St. Jude"
+        },
+        {
+          "line_number": 150,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "Our prophets were as wind: In modern idiom, they were full of hot air! St. Jude"
+        },
+        {
+          "line_number": 152,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "called them \"clouds without water\" and \"autumn trees without fruit\" (Jude 12)."
+        },
+        {
+          "line_number": 355,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Apostle Paul",
+          "context": "Boasting in oneself and one's capabilities is here forbidden. In our devotion to God, we are called to boast only in the glory of God or, in the words of the Apostle Paul, \"Christ"
+        },
+        {
+          "line_number": 355,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Boasting in oneself and one's capabilities is here forbidden. In our devotion to God, we are called to boast only in the glory of God or, in the words of the Apostle Paul, \"Christ"
+        },
+        {
+          "line_number": 646,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "Apostle James",
+          "context": "characters--the double character.\" Later, the Apostle James would write, \"a double-minded man"
+        },
+        {
+          "line_number": 646,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "characters--the double character.\" Later, the Apostle James would write, \"a double-minded man"
+        },
+        {
+          "line_number": 671,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "This is the passage referred to by St. Paul in [[ROM.9:21]], and it highlights the"
+        },
+        {
+          "line_number": 671,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "This is the passage referred to by St. Paul in [[ROM.9:21]], and it highlights the"
+        },
+        {
+          "line_number": 899,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Apostle Paul",
+          "context": "phrase is used by the apostle Paul in [[ROM.9:22]], likely reflecting on the way God used"
+        },
+        {
+          "line_number": 899,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "phrase is used by the apostle Paul in [[ROM.9:22]], likely reflecting on the way God used"
+        },
+        {
+          "line_number": 1304,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Apostle Paul",
+          "context": "apostle Paul's reflection on those who live without the Mosaic Law, yet nevertheless have"
+        },
+        {
+          "line_number": 1304,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "apostle Paul's reflection on those who live without the Mosaic Law, yet nevertheless have"
+        }
+      ],
+      "entity_counts": {
+        "JAMES_APOSTLE": 2,
+        "JUDE_APOSTLE": 3,
+        "PAUL_APOSTLE": 10
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 28,
+    "matched_entities": [
+      {
+        "line_number": 79,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgNa",
+        "context": "sin, \"but any sin you have committed\" (GrgNa)."
+      },
+      {
+        "line_number": 104,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "St. Cyprian",
+        "context": "Circumcise... your heart: St. Cyprian tells us \"the first circumcision of the flesh is"
+      },
+      {
+        "line_number": 104,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "Circumcise... your heart: St. Cyprian tells us \"the first circumcision of the flesh is"
+      },
+      {
+        "line_number": 115,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "of the soul, to which God is averse\" (JohnChr)."
+      },
+      {
+        "line_number": 138,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "great doctrines, as is the view also of the prophet\" (BasilG)."
+      },
+      {
+        "line_number": 177,
+        "entity": "JEROME",
+        "matched_alias": "St. Jerome",
+        "context": "Beth Haccerem: St. Jerome taught this was located between Tekoa, Amos' birthplace, and Jerusalem."
+      },
+      {
+        "line_number": 177,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "Beth Haccerem: St. Jerome taught this was located between Tekoa, Amos' birthplace, and Jerusalem."
+      },
+      {
+        "line_number": 205,
+        "entity": "ATHANASIUS",
+        "matched_alias": "St. Athanasius",
+        "context": "St. Athanasius connects this passage with [[JOH.14:6]], where Jesus says, \"I am the way, the truth, and the life. No one comes to the Father except through Me.\""
+      },
+      {
+        "line_number": 205,
+        "entity": "ATHANASIUS",
+        "matched_alias": "Athanasius",
+        "context": "St. Athanasius connects this passage with [[JOH.14:6]], where Jesus says, \"I am the way, the truth, and the life. No one comes to the Father except through Me.\""
+      },
+      {
+        "line_number": 229,
+        "entity": "IRENAEUS",
+        "matched_alias": "Iren",
+        "context": "what it forbids. \"For it was not because He was angry, like a man, as many venture to say, that He rejected their sacrifices; but out of compassion to their blindness\" (Iren)."
+      },
+      {
+        "line_number": 343,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "not the Lord, and were faithless, he charges them with unrighteousness\" (AthanG)."
+      },
+      {
+        "line_number": 383,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "not made heaven and earth'\" (JohnChr)."
+      },
+      {
+        "line_number": 425,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "terrify them: and this the prophet also seeing did not cease praying\" (JohnChr)."
+      },
+      {
+        "line_number": 464,
+        "entity": "CYRIL_JERUSALEM",
+        "matched_alias": "CyrJer",
+        "context": "He who sits on the right hand of the Father, stood and was judged\" (CyrJer)."
+      },
+      {
+        "line_number": 575,
+        "entity": "IRENAEUS",
+        "matched_alias": "Iren",
+        "context": "Gentiles\" (Iren)."
+      },
+      {
+        "line_number": 580,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "St. Cyprian",
+        "context": "Deceitful water: St. Cyprian calls this \"the resemblance of baptism,\" done under \"a"
+      },
+      {
+        "line_number": 580,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "Deceitful water: St. Cyprian calls this \"the resemblance of baptism,\" done under \"a"
+      },
+      {
+        "line_number": 642,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "St. Basil the Great",
+        "context": ", 2 The shrub here is the tamarisk. St. Basil the Great notes, \"it is an aquatic plant [it"
+      },
+      {
+        "line_number": 642,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "St. Basil",
+        "context": ", 2 The shrub here is the tamarisk. St. Basil the Great notes, \"it is an aquatic plant [it"
+      },
+      {
+        "line_number": 642,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "Basil",
+        "context": ", 2 The shrub here is the tamarisk. St. Basil the Great notes, \"it is an aquatic plant [it"
+      },
+      {
+        "line_number": 653,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that"
+      },
+      {
+        "line_number": 653,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that"
+      },
+      {
+        "line_number": 653,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that"
+      },
+      {
+        "line_number": 933,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "Canaan. This descriptive title foreshadows the eventual gathering of all nations, tongues, and tribes as the people of God. St. Ambrose reminds us that calling the Philistines by"
+      },
+      {
+        "line_number": 933,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "Canaan. This descriptive title foreshadows the eventual gathering of all nations, tongues, and tribes as the people of God. St. Ambrose reminds us that calling the Philistines by"
+      },
+      {
+        "line_number": 1384,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "famous Paschal sermon of St. John Chrysostom: \"It [death] was embittered!\" From the"
+      },
+      {
+        "line_number": 1384,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "famous Paschal sermon of St. John Chrysostom: \"It [death] was embittered!\" From the"
+      },
+      {
+        "line_number": 1384,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "famous Paschal sermon of St. John Chrysostom: \"It [death] was embittered!\" From the"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 2,
+      "ATHANASIUS": 3,
+      "BASIL_GREAT": 4,
+      "CYPRIAN_CARTHAGE": 4,
+      "CYRIL_JERUSALEM": 1,
+      "GREGORY_THEOLOGIAN": 1,
+      "IRENAEUS": 2,
+      "JEROME": 2,
+      "JOHN_CHRYSOSTOM": 7,
+      "JOHN_THEOLOGIAN": 2
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 79,
+        "snippet": "GrgNa"
+      },
+      {
+        "line_number": 115,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 138,
+        "snippet": "BasilG"
+      },
+      {
+        "line_number": 229,
+        "snippet": "Iren"
+      },
+      {
+        "line_number": 343,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 383,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 425,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 464,
+        "snippet": "CyrJer"
+      },
+      {
+        "line_number": 575,
+        "snippet": "Iren"
+      }
+    ]
+  }
+}

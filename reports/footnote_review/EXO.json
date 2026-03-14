@@ -1,0 +1,2022 @@
+{
+  "book_code": "EXO",
+  "position": 2,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/EXO_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 411,
+      "auto_fixable": 0,
+      "review_needed": 411,
+      "files_checked": 1,
+      "lines_checked": 754,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 385,
+      "P7": 26
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "EXO",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/EXO_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/EXO_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/EXO.md",
+    "counts": {
+      "scripture_markers": 177,
+      "footnote_entries": 177,
+      "scripture_anchors": 322,
+      "valid_marker_anchors": 177,
+      "valid_note_anchors": 177
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "EXO.10:16",
+      "EXO.10:2",
+      "EXO.10:21",
+      "EXO.12:10",
+      "EXO.12:11",
+      "EXO.12:13",
+      "EXO.12:14",
+      "EXO.12:16",
+      "EXO.12:2",
+      "EXO.12:22",
+      "EXO.12:23",
+      "EXO.12:3",
+      "EXO.12:30",
+      "EXO.12:38",
+      "EXO.12:7",
+      "EXO.14:21",
+      "EXO.14:22",
+      "EXO.15:16",
+      "EXO.15:21",
+      "EXO.15:23",
+      "EXO.15:6",
+      "EXO.15:8",
+      "EXO.16:18",
+      "EXO.16:2",
+      "EXO.16:29",
+      "EXO.16:3",
+      "EXO.17:11",
+      "EXO.17:12",
+      "EXO.17:6",
+      "EXO.18:14",
+      "EXO.19:17",
+      "EXO.19:19",
+      "EXO.19:4",
+      "EXO.19:6",
+      "EXO.19:8",
+      "EXO.1:10",
+      "EXO.1:12",
+      "EXO.1:15",
+      "EXO.1:6",
+      "EXO.20:12",
+      "EXO.20:13",
+      "EXO.20:19",
+      "EXO.20:2",
+      "EXO.20:24",
+      "EXO.20:3",
+      "EXO.20:4",
+      "EXO.20:5",
+      "EXO.21:13",
+      "EXO.21:16",
+      "EXO.21:24",
+      "EXO.21:5",
+      "EXO.22:20",
+      "EXO.23:10",
+      "EXO.23:15",
+      "EXO.23:2",
+      "EXO.23:20",
+      "EXO.23:21",
+      "EXO.23:22",
+      "EXO.23:23",
+      "EXO.23:25",
+      "EXO.23:26",
+      "EXO.23:3",
+      "EXO.23:4",
+      "EXO.24:12",
+      "EXO.25:10",
+      "EXO.25:18",
+      "EXO.26:31",
+      "EXO.28:17",
+      "EXO.29:14",
+      "EXO.29:5",
+      "EXO.2:12",
+      "EXO.2:2",
+      "EXO.2:22",
+      "EXO.2:24",
+      "EXO.2:4",
+      "EXO.2:9",
+      "EXO.31:15",
+      "EXO.31:3",
+      "EXO.32:10",
+      "EXO.32:34",
+      "EXO.33:22",
+      "EXO.33:3",
+      "EXO.33:7",
+      "EXO.34:29",
+      "EXO.34:5",
+      "EXO.34:6",
+      "EXO.35:31",
+      "EXO.35:5",
+      "EXO.36:2",
+      "EXO.38:11",
+      "EXO.38:13",
+      "EXO.38:5",
+      "EXO.38:6",
+      "EXO.3:2",
+      "EXO.3:3",
+      "EXO.3:7",
+      "EXO.40:28",
+      "EXO.4:17",
+      "EXO.4:21",
+      "EXO.4:22",
+      "EXO.4:30",
+      "EXO.4:7",
+      "EXO.6:4",
+      "EXO.6:7",
+      "EXO.7:23",
+      "EXO.7:5",
+      "EXO.7:9",
+      "EXO.8:18",
+      "EXO.8:4",
+      "EXO.9:14",
+      "EXO.9:17"
+    ],
+    "note_anchor_gaps": [
+      "EXO.10:16",
+      "EXO.10:2",
+      "EXO.10:21",
+      "EXO.12:10",
+      "EXO.12:11",
+      "EXO.12:13",
+      "EXO.12:14",
+      "EXO.12:16",
+      "EXO.12:2",
+      "EXO.12:22",
+      "EXO.12:23",
+      "EXO.12:3",
+      "EXO.12:30",
+      "EXO.12:38",
+      "EXO.12:7",
+      "EXO.14:21",
+      "EXO.14:22",
+      "EXO.15:16",
+      "EXO.15:21",
+      "EXO.15:23",
+      "EXO.15:6",
+      "EXO.15:8",
+      "EXO.16:18",
+      "EXO.16:2",
+      "EXO.16:29",
+      "EXO.16:3",
+      "EXO.17:11",
+      "EXO.17:12",
+      "EXO.17:6",
+      "EXO.18:14",
+      "EXO.19:17",
+      "EXO.19:19",
+      "EXO.19:4",
+      "EXO.19:6",
+      "EXO.19:8",
+      "EXO.1:10",
+      "EXO.1:12",
+      "EXO.1:15",
+      "EXO.1:6",
+      "EXO.20:12",
+      "EXO.20:13",
+      "EXO.20:19",
+      "EXO.20:2",
+      "EXO.20:24",
+      "EXO.20:3",
+      "EXO.20:4",
+      "EXO.20:5",
+      "EXO.21:13",
+      "EXO.21:16",
+      "EXO.21:24",
+      "EXO.21:5",
+      "EXO.22:20",
+      "EXO.23:10",
+      "EXO.23:15",
+      "EXO.23:2",
+      "EXO.23:20",
+      "EXO.23:21",
+      "EXO.23:22",
+      "EXO.23:23",
+      "EXO.23:25",
+      "EXO.23:26",
+      "EXO.23:3",
+      "EXO.23:4",
+      "EXO.24:12",
+      "EXO.25:10",
+      "EXO.25:18",
+      "EXO.26:31",
+      "EXO.28:17",
+      "EXO.29:14",
+      "EXO.29:5",
+      "EXO.2:12",
+      "EXO.2:2",
+      "EXO.2:22",
+      "EXO.2:24",
+      "EXO.2:4",
+      "EXO.2:9",
+      "EXO.31:15",
+      "EXO.31:3",
+      "EXO.32:10",
+      "EXO.32:34",
+      "EXO.33:22",
+      "EXO.33:3",
+      "EXO.33:7",
+      "EXO.34:29",
+      "EXO.34:5",
+      "EXO.34:6",
+      "EXO.35:31",
+      "EXO.35:5",
+      "EXO.36:2",
+      "EXO.38:11",
+      "EXO.38:13",
+      "EXO.38:5",
+      "EXO.38:6",
+      "EXO.3:2",
+      "EXO.3:3",
+      "EXO.3:7",
+      "EXO.40:28",
+      "EXO.4:17",
+      "EXO.4:21",
+      "EXO.4:22",
+      "EXO.4:30",
+      "EXO.4:7",
+      "EXO.6:4",
+      "EXO.6:7",
+      "EXO.7:23",
+      "EXO.7:5",
+      "EXO.7:9",
+      "EXO.8:18",
+      "EXO.8:4",
+      "EXO.9:14",
+      "EXO.9:17"
+    ],
+    "issue_count": 222
+  },
+  "wikilinks": {
+    "total_refs": 130,
+    "convertible_refs": 0,
+    "already_linked_refs": 130,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 113,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Death continued to reign. Joseph and all his generation died. Nevertheless, the"
+        },
+        {
+          "line_number": 143,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "Incarnation (JohnDm, AthanG, JohnChr, GrgTheo, AmbM). He is called the Angel of"
+        },
+        {
+          "line_number": 143,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "Incarnation (JohnDm, AthanG, JohnChr, GrgTheo, AmbM). He is called the Angel of"
+        },
+        {
+          "line_number": 143,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "Incarnation (JohnDm, AthanG, JohnChr, GrgTheo, AmbM). He is called the Angel of"
+        },
+        {
+          "line_number": 143,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgTheo",
+          "context": "Incarnation (JohnDm, AthanG, JohnChr, GrgTheo, AmbM). He is called the Angel of"
+        },
+        {
+          "line_number": 143,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "Incarnation (JohnDm, AthanG, JohnChr, GrgTheo, AmbM). He is called the Angel of"
+        },
+        {
+          "line_number": 147,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "will. For He is the Will of the Father (AthanG). He is the Only-begotten God because He"
+        },
+        {
+          "line_number": 149,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "is begotten from the Unbegotten Father before all time and ages (GrgNy). Isaiah the"
+        },
+        {
+          "line_number": 162,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "detached from the fleeting pleasures of this world (JohnDm, AmbM). For he was looking"
+        },
+        {
+          "line_number": 162,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "detached from the fleeting pleasures of this world (JohnDm, AmbM). For he was looking"
+        },
+        {
+          "line_number": 178,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "God and man, for He is the God of the living (AmbM)."
+        },
+        {
+          "line_number": 203,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "and undivided (AthanG, JohnDm). This Essence is like a boundless sea, containing all"
+        },
+        {
+          "line_number": 203,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "and undivided (AthanG, JohnDm). This Essence is like a boundless sea, containing all"
+        },
+        {
+          "line_number": 246,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "It is customary for Holy Scripture to call God's permission His action (JohnDm). Therefore, when the Lord said to Moses, I will harden his heart, this hardness was by"
+        },
+        {
+          "line_number": 272,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "have no need for signs (JohnChr)."
+        },
+        {
+          "line_number": 368,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "HilryP",
+          "context": "another to be God (HilryP). The Scripture uses the name god in three ways: (1) gods in"
+        },
+        {
+          "line_number": 372,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "(3) the true God, as is the Father (AmbM). Moses was god in name only, but not in"
+        },
+        {
+          "line_number": 454,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "raise any questions about it. Our response should be obedience to Him (JohnChr)."
+        },
+        {
+          "line_number": 497,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "salvation (JohnChr)."
+        },
+        {
+          "line_number": 533,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "established a different day (AthanG)."
+        },
+        {
+          "line_number": 542,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "the command itself by offering Himself as the Sacrifice to the Father (JohnChr)."
+        },
+        {
+          "line_number": 551,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgTheo",
+          "context": "glorified and reign with Him, both now and at His Second Coming (GrgTheo)."
+        },
+        {
+          "line_number": 560,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "between the type and the reality (JohnChr)."
+        },
+        {
+          "line_number": 567,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "eat the Lord's Eucharist as sojourners (JohnChr), for we \"look for the resurrection of the"
+        },
+        {
+          "line_number": 573,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "the Lord who fulfilled the type (AthanG)."
+        },
+        {
+          "line_number": 584,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "no longer die in Adam (BasilG)."
+        },
+        {
+          "line_number": 591,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "remembrance of Me\" ([[1CO.11:24]], [[1CO.11:25]]; JohnChr)."
+        },
+        {
+          "line_number": 604,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr)."
+        },
+        {
+          "line_number": 611,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "Resurrection, and of the purity bestowed by the remission of sins in baptism (AmbM). See also [[PSA.50:9]]."
+        },
+        {
+          "line_number": 659,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "(BasilG). As one walks in his baptism, the Holy Spirit enlightens him on the pathway to"
+        },
+        {
+          "line_number": 668,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "Lord answered him (GrgTheo; JohnChr; GrgNy)."
+        },
+        {
+          "line_number": 668,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgTheo",
+          "context": "Lord answered him (GrgTheo; JohnChr; GrgNy)."
+        },
+        {
+          "line_number": 668,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "Lord answered him (GrgTheo; JohnChr; GrgNy)."
+        },
+        {
+          "line_number": 677,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "Father before all time and ages (GrgNy). Thus, the Son of God troubled the army of the"
+        },
+        {
+          "line_number": 688,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "[[JOB.9:8]] prophesied of Christ, \"who walks on the sea as on firm ground\" (JohnChr)."
+        },
+        {
+          "line_number": 701,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "Blood of Christ (AmbM)."
+        },
+        {
+          "line_number": 708,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "destroyed on the Cross and in the waters of baptism (BasilG; GrgNy)."
+        },
+        {
+          "line_number": 708,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "destroyed on the Cross and in the waters of baptism (BasilG; GrgNy)."
+        },
+        {
+          "line_number": 715,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "by the devil (AthanG)."
+        },
+        {
+          "line_number": 722,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "made? In the sense of His Incarnation (AmbM). For He \"became flesh\" ([[JOH.1:14]]) to"
+        },
+        {
+          "line_number": 731,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "The right hand of God is the Son of the Father (BasilG; AmbM). As the hand is"
+        },
+        {
+          "line_number": 731,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "The right hand of God is the Son of the Father (BasilG; AmbM). As the hand is"
+        },
+        {
+          "line_number": 738,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "The Spirit is the Holy Spirit (AmbM)."
+        },
+        {
+          "line_number": 745,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "love and of a sound mind\" that He gives the faithful ([[2TI.1:7]]; JohnChr)."
+        },
+        {
+          "line_number": 750,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "Miriam was a type of the Mother of God (GrgNy) and of the Church (AmbM). The"
+        },
+        {
+          "line_number": 750,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "Miriam was a type of the Mother of God (GrgNy) and of the Church (AmbM). The"
+        },
+        {
+          "line_number": 771,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "of the Cross of Christ and baptism (AmbM). For the Cross is baptism, and baptism is the"
+        },
+        {
+          "line_number": 805,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "example (JohnChr). They refused to renounce this sin (JohnCas). The New Testament"
+        },
+        {
+          "line_number": 805,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "JohnCas",
+          "context": "example (JohnChr). They refused to renounce this sin (JohnCas). The New Testament"
+        },
+        {
+          "line_number": 827,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "walk in the Spirit ([[1CO.2:9]], [[1CO.2:10]]; AmbM)."
+        },
+        {
+          "line_number": 834,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "to the body (GrgNy)."
+        },
+        {
+          "line_number": 843,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr)."
+        },
+        {
+          "line_number": 850,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "their houses, contrary to the Law of Moses, to plot against Jesus ([[MAT.27:62]]-66; JohnChr). They broke the Law to plot against the Lawgiver."
+        },
+        {
+          "line_number": 864,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "The rock was a type of the Son of God ([[1CO.10:4]]; AmbM). He stood on the rock in"
+        },
+        {
+          "line_number": 877,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgTheo",
+          "context": "Although Moses was silent, he was crying out to God, and although he was at ease, he was triumphing (AmbM; GrgTheo). His body was still, but he was actively engaged in"
+        },
+        {
+          "line_number": 877,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "Although Moses was silent, he was crying out to God, and although he was at ease, he was triumphing (AmbM; GrgTheo). His body was still, but he was actively engaged in"
+        },
+        {
+          "line_number": 886,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "Moses' hands were outstretched by Aaron and Hur, which was a type of the Cross. However, Christ alone outstretched His hands in triumph over the enemy (JohnChr; GrgTheo)."
+        },
+        {
+          "line_number": 886,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgTheo",
+          "context": "Moses' hands were outstretched by Aaron and Hur, which was a type of the Cross. However, Christ alone outstretched His hands in triumph over the enemy (JohnChr; GrgTheo)."
+        },
+        {
+          "line_number": 906,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr)."
+        },
+        {
+          "line_number": 913,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "Incarnation, by which He brings the Church to Himself as the Great High Priest (AmbM)."
+        },
+        {
+          "line_number": 927,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "sight of God, but the doers of the law will be justified\" ([[ROM.2:13]]; JohnChr)."
+        },
+        {
+          "line_number": 938,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "forth the spirit of salvation (JohnDm)."
+        },
+        {
+          "line_number": 947,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "HilryP",
+          "context": "spoke to Moses on the mountain (HilryP)."
+        },
+        {
+          "line_number": 963,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "JohnCas",
+          "context": "him. It was necessary because of free will and man's corruption through sin (JohnCas; see also [[ROM.2:14]], [[ROM.2:15]]). However, the written law is a lower standard than the law of"
+        },
+        {
+          "line_number": 965,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "nature (JohnChr), for these commandments in the Old Testament condescend to man's"
+        },
+        {
+          "line_number": 978,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "lead us into the true freedom of the children of God ([[ROM.8:21]]; AmbM)."
+        },
+        {
+          "line_number": 985,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "god (GrgNy). However, false gods do not exist in themselves, for this commandment"
+        },
+        {
+          "line_number": 987,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "refers to the future, and what is in the future does not yet exist (AthanG). But the Son is"
+        },
+        {
+          "line_number": 1011,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "pleasing to Him (JohnChr)."
+        },
+        {
+          "line_number": 1020,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "one's father and mother is the first commandment in the Ten to promise a reward, namely, a long and spiritually prosperous life on earth ([[EPH.6:1]], [[EPH.6:2]]; JohnChr)."
+        },
+        {
+          "line_number": 1029,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "worse than lust (JohnChr)."
+        },
+        {
+          "line_number": 1036,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "was given to check it (AmbM)."
+        },
+        {
+          "line_number": 1043,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "sense, he was a type of Christ, the Mediator between God and man ([[1TI.2:5]]; BasilG)."
+        },
+        {
+          "line_number": 1050,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgTheo",
+          "context": "(GrgTheo), and He humbled Himself to the extreme by becoming Man to be crucified for"
+        },
+        {
+          "line_number": 1075,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "The Word of the Father appointed cities of refuge, and when He became incarnate, He also commanded, \"When they persecute you in this city, flee into another\" ([[MAT.10:23]]; AthanG)."
+        },
+        {
+          "line_number": 1084,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "their own teachings, because they cannot find Christ, the Wisdom of God (AthanG)."
+        },
+        {
+          "line_number": 1097,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "JohnCas",
+          "context": "ready to endure twice as much damage ([[MAT.5:38]], [[MAT.5:39]]; JohnCas)."
+        },
+        {
+          "line_number": 1115,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "validity, for the Holy Spirit warns against circulating a false report (BasilG)."
+        },
+        {
+          "line_number": 1127,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "only for judges in the courts but also for all men, for justice is to be kept pure (JohnChr)."
+        },
+        {
+          "line_number": 1134,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "are we to return his soul and that of our friends to God (JohnChr)."
+        },
+        {
+          "line_number": 1152,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "return, and you will receive it with interest (JohnChr)."
+        },
+        {
+          "line_number": 1163,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "Holy Trinity (GrgNy). Thus, \"My\" refers to the Father, and \"Angel\" refers to the Son."
+        },
+        {
+          "line_number": 1170,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "Father's name is the Lord; therefore, the Son is also called by this name (AmbM). When"
+        },
+        {
+          "line_number": 1192,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "JohnCas",
+          "context": "(JohnCas). He also became incarnate to lead us into the world to come. Moses believed in"
+        },
+        {
+          "line_number": 1212,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "101:25; AthanG)."
+        },
+        {
+          "line_number": 1227,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "quench Him (AthanG)."
+        },
+        {
+          "line_number": 1255,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "(AmbM)."
+        },
+        {
+          "line_number": 1270,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "from sin and urge them forward to assist our obedience to the divine precepts (JohnDm)."
+        },
+        {
+          "line_number": 1286,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "the prototype (JohnDm; BasilG)."
+        },
+        {
+          "line_number": 1286,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "the prototype (JohnDm; BasilG)."
+        },
+        {
+          "line_number": 1311,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "God does not make Himself known in His essence, for no creature can know this. God makes Himself known in intimate communion (BasilG)."
+        },
+        {
+          "line_number": 1342,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "and Power ([[1CO.1:24]]), and Truth and Life ([[JOH.14:6]]; AmbM)."
+        },
+        {
+          "line_number": 1351,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "to cleanse us from all sin by His precious Blood (AthanG)."
+        },
+        {
+          "line_number": 1360,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "put away the defilement of the body (AmbM)."
+        },
+        {
+          "line_number": 1384,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "The divine Spirit is the Holy Spirit (BasilG; GrgTheo; CyrJer)."
+        },
+        {
+          "line_number": 1384,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgTheo",
+          "context": "The divine Spirit is the Holy Spirit (BasilG; GrgTheo; CyrJer)."
+        },
+        {
+          "line_number": 1384,
+          "entity": "CYRIL_JERUSALEM",
+          "matched_alias": "CyrJer",
+          "context": "The divine Spirit is the Holy Spirit (BasilG; GrgTheo; CyrJer)."
+        },
+        {
+          "line_number": 1393,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "tomb (AthanG)."
+        },
+        {
+          "line_number": 1416,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "perish with them than have the honor of a great nation (JohnChr)."
+        },
+        {
+          "line_number": 1423,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "\"Messenger\") because He reveals the Father's will to man (GrgNy). For He is the Will of"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 23,
+        "ATHANASIUS": 17,
+        "BASIL_GREAT": 10,
+        "CYRIL_JERUSALEM": 1,
+        "GREGORY_NYSSA": 11,
+        "GREGORY_THEOLOGIAN": 7,
+        "HILARY_POITIERS": 2,
+        "JOHN_CASSIAN": 4,
+        "JOHN_CHRYSOSTOM": 30,
+        "JOHN_DAMASCENE": 7,
+        "JOSEPH_BETROTHED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 147,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 149,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 178,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 246,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 272,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 368,
+          "snippet": "HilryP"
+        },
+        {
+          "line_number": 372,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 454,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 497,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 533,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 542,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 551,
+          "snippet": "GrgTheo"
+        },
+        {
+          "line_number": 560,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 567,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 573,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 584,
+          "snippet": "BasilG"
+        },
+        {
+          "line_number": 604,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 611,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 659,
+          "snippet": "BasilG"
+        },
+        {
+          "line_number": 677,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 688,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 701,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 715,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 722,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 738,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 750,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 750,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 771,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 805,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 805,
+          "snippet": "JohnCas"
+        },
+        {
+          "line_number": 834,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 843,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 906,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 913,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 938,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 947,
+          "snippet": "HilryP"
+        },
+        {
+          "line_number": 965,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 985,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 987,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1011,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1029,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1036,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 1050,
+          "snippet": "GrgTheo"
+        },
+        {
+          "line_number": 1084,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1115,
+          "snippet": "BasilG"
+        },
+        {
+          "line_number": 1127,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1134,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1152,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1163,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 1170,
+          "snippet": "AmbM"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 1219,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Spirit. St. Paul also said, \"Do not quench the Spirit\" ([[1TH.5:19]]), for so shall we be"
+        },
+        {
+          "line_number": 1219,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Spirit. St. Paul also said, \"Do not quench the Spirit\" ([[1TH.5:19]]), for so shall we be"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 5,
+      "matched_entities": [
+        {
+          "line_number": 164,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "to the resurrection of the dead and the life of the world to come (Creed)."
+        },
+        {
+          "line_number": 374,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "nature. But the Son is True God of True God (Creed), because He is God both in name"
+        },
+        {
+          "line_number": 378,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "begotten, not made (Creed)."
+        },
+        {
+          "line_number": 569,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "dead and the life of the world to come\" (Creed). Originally, Passover was called \"the"
+        },
+        {
+          "line_number": 1510,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "True God. The Son and Word is \"True God of True God\" (Creed)."
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 5
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 164,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 374,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 378,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 569,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1510,
+          "snippet": "Creed"
+        }
+      ]
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 113,
+    "matched_entities": [
+      {
+        "line_number": 15,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Death continued to reign. Joseph and all his generation died. Nevertheless, the"
+      },
+      {
+        "line_number": 143,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "Incarnation (JohnDm, AthanG, JohnChr, GrgTheo, AmbM). He is called the Angel of"
+      },
+      {
+        "line_number": 143,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "Incarnation (JohnDm, AthanG, JohnChr, GrgTheo, AmbM). He is called the Angel of"
+      },
+      {
+        "line_number": 143,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "Incarnation (JohnDm, AthanG, JohnChr, GrgTheo, AmbM). He is called the Angel of"
+      },
+      {
+        "line_number": 143,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgTheo",
+        "context": "Incarnation (JohnDm, AthanG, JohnChr, GrgTheo, AmbM). He is called the Angel of"
+      },
+      {
+        "line_number": 143,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "Incarnation (JohnDm, AthanG, JohnChr, GrgTheo, AmbM). He is called the Angel of"
+      },
+      {
+        "line_number": 147,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "will. For He is the Will of the Father (AthanG). He is the Only-begotten God because He"
+      },
+      {
+        "line_number": 149,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "is begotten from the Unbegotten Father before all time and ages (GrgNy). Isaiah the"
+      },
+      {
+        "line_number": 162,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "detached from the fleeting pleasures of this world (JohnDm, AmbM). For he was looking"
+      },
+      {
+        "line_number": 162,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "detached from the fleeting pleasures of this world (JohnDm, AmbM). For he was looking"
+      },
+      {
+        "line_number": 178,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "God and man, for He is the God of the living (AmbM)."
+      },
+      {
+        "line_number": 203,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "and undivided (AthanG, JohnDm). This Essence is like a boundless sea, containing all"
+      },
+      {
+        "line_number": 203,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "and undivided (AthanG, JohnDm). This Essence is like a boundless sea, containing all"
+      },
+      {
+        "line_number": 246,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "It is customary for Holy Scripture to call God's permission His action (JohnDm). Therefore, when the Lord said to Moses, I will harden his heart, this hardness was by"
+      },
+      {
+        "line_number": 272,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "have no need for signs (JohnChr)."
+      },
+      {
+        "line_number": 368,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "HilryP",
+        "context": "another to be God (HilryP). The Scripture uses the name god in three ways: (1) gods in"
+      },
+      {
+        "line_number": 372,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "(3) the true God, as is the Father (AmbM). Moses was god in name only, but not in"
+      },
+      {
+        "line_number": 454,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "raise any questions about it. Our response should be obedience to Him (JohnChr)."
+      },
+      {
+        "line_number": 497,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "salvation (JohnChr)."
+      },
+      {
+        "line_number": 533,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "established a different day (AthanG)."
+      },
+      {
+        "line_number": 542,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "the command itself by offering Himself as the Sacrifice to the Father (JohnChr)."
+      },
+      {
+        "line_number": 551,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgTheo",
+        "context": "glorified and reign with Him, both now and at His Second Coming (GrgTheo)."
+      },
+      {
+        "line_number": 560,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "between the type and the reality (JohnChr)."
+      },
+      {
+        "line_number": 567,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "eat the Lord's Eucharist as sojourners (JohnChr), for we \"look for the resurrection of the"
+      },
+      {
+        "line_number": 573,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "the Lord who fulfilled the type (AthanG)."
+      },
+      {
+        "line_number": 584,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "no longer die in Adam (BasilG)."
+      },
+      {
+        "line_number": 591,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "remembrance of Me\" ([[1CO.11:24]], [[1CO.11:25]]; JohnChr)."
+      },
+      {
+        "line_number": 604,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr)."
+      },
+      {
+        "line_number": 611,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "Resurrection, and of the purity bestowed by the remission of sins in baptism (AmbM). See also [[PSA.50:9]]."
+      },
+      {
+        "line_number": 659,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "(BasilG). As one walks in his baptism, the Holy Spirit enlightens him on the pathway to"
+      },
+      {
+        "line_number": 668,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "Lord answered him (GrgTheo; JohnChr; GrgNy)."
+      },
+      {
+        "line_number": 668,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgTheo",
+        "context": "Lord answered him (GrgTheo; JohnChr; GrgNy)."
+      },
+      {
+        "line_number": 668,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "Lord answered him (GrgTheo; JohnChr; GrgNy)."
+      },
+      {
+        "line_number": 677,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "Father before all time and ages (GrgNy). Thus, the Son of God troubled the army of the"
+      },
+      {
+        "line_number": 688,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "[[JOB.9:8]] prophesied of Christ, \"who walks on the sea as on firm ground\" (JohnChr)."
+      },
+      {
+        "line_number": 701,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "Blood of Christ (AmbM)."
+      },
+      {
+        "line_number": 708,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "destroyed on the Cross and in the waters of baptism (BasilG; GrgNy)."
+      },
+      {
+        "line_number": 708,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "destroyed on the Cross and in the waters of baptism (BasilG; GrgNy)."
+      },
+      {
+        "line_number": 715,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "by the devil (AthanG)."
+      },
+      {
+        "line_number": 722,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "made? In the sense of His Incarnation (AmbM). For He \"became flesh\" ([[JOH.1:14]]) to"
+      },
+      {
+        "line_number": 731,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "The right hand of God is the Son of the Father (BasilG; AmbM). As the hand is"
+      },
+      {
+        "line_number": 731,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "The right hand of God is the Son of the Father (BasilG; AmbM). As the hand is"
+      },
+      {
+        "line_number": 738,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "The Spirit is the Holy Spirit (AmbM)."
+      },
+      {
+        "line_number": 745,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "love and of a sound mind\" that He gives the faithful ([[2TI.1:7]]; JohnChr)."
+      },
+      {
+        "line_number": 750,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "Miriam was a type of the Mother of God (GrgNy) and of the Church (AmbM). The"
+      },
+      {
+        "line_number": 750,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "Miriam was a type of the Mother of God (GrgNy) and of the Church (AmbM). The"
+      },
+      {
+        "line_number": 771,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "of the Cross of Christ and baptism (AmbM). For the Cross is baptism, and baptism is the"
+      },
+      {
+        "line_number": 805,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "example (JohnChr). They refused to renounce this sin (JohnCas). The New Testament"
+      },
+      {
+        "line_number": 805,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "JohnCas",
+        "context": "example (JohnChr). They refused to renounce this sin (JohnCas). The New Testament"
+      },
+      {
+        "line_number": 827,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "walk in the Spirit ([[1CO.2:9]], [[1CO.2:10]]; AmbM)."
+      },
+      {
+        "line_number": 834,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "to the body (GrgNy)."
+      },
+      {
+        "line_number": 843,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr)."
+      },
+      {
+        "line_number": 850,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "their houses, contrary to the Law of Moses, to plot against Jesus ([[MAT.27:62]]-66; JohnChr). They broke the Law to plot against the Lawgiver."
+      },
+      {
+        "line_number": 864,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "The rock was a type of the Son of God ([[1CO.10:4]]; AmbM). He stood on the rock in"
+      },
+      {
+        "line_number": 877,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgTheo",
+        "context": "Although Moses was silent, he was crying out to God, and although he was at ease, he was triumphing (AmbM; GrgTheo). His body was still, but he was actively engaged in"
+      },
+      {
+        "line_number": 877,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "Although Moses was silent, he was crying out to God, and although he was at ease, he was triumphing (AmbM; GrgTheo). His body was still, but he was actively engaged in"
+      },
+      {
+        "line_number": 886,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "Moses' hands were outstretched by Aaron and Hur, which was a type of the Cross. However, Christ alone outstretched His hands in triumph over the enemy (JohnChr; GrgTheo)."
+      },
+      {
+        "line_number": 886,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgTheo",
+        "context": "Moses' hands were outstretched by Aaron and Hur, which was a type of the Cross. However, Christ alone outstretched His hands in triumph over the enemy (JohnChr; GrgTheo)."
+      },
+      {
+        "line_number": 906,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr)."
+      },
+      {
+        "line_number": 913,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "Incarnation, by which He brings the Church to Himself as the Great High Priest (AmbM)."
+      },
+      {
+        "line_number": 927,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "sight of God, but the doers of the law will be justified\" ([[ROM.2:13]]; JohnChr)."
+      },
+      {
+        "line_number": 938,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "forth the spirit of salvation (JohnDm)."
+      },
+      {
+        "line_number": 947,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "HilryP",
+        "context": "spoke to Moses on the mountain (HilryP)."
+      },
+      {
+        "line_number": 963,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "JohnCas",
+        "context": "him. It was necessary because of free will and man's corruption through sin (JohnCas; see also [[ROM.2:14]], [[ROM.2:15]]). However, the written law is a lower standard than the law of"
+      },
+      {
+        "line_number": 965,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "nature (JohnChr), for these commandments in the Old Testament condescend to man's"
+      },
+      {
+        "line_number": 978,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "lead us into the true freedom of the children of God ([[ROM.8:21]]; AmbM)."
+      },
+      {
+        "line_number": 985,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "god (GrgNy). However, false gods do not exist in themselves, for this commandment"
+      },
+      {
+        "line_number": 987,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "refers to the future, and what is in the future does not yet exist (AthanG). But the Son is"
+      },
+      {
+        "line_number": 1011,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "pleasing to Him (JohnChr)."
+      },
+      {
+        "line_number": 1020,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "one's father and mother is the first commandment in the Ten to promise a reward, namely, a long and spiritually prosperous life on earth ([[EPH.6:1]], [[EPH.6:2]]; JohnChr)."
+      },
+      {
+        "line_number": 1029,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "worse than lust (JohnChr)."
+      },
+      {
+        "line_number": 1036,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "was given to check it (AmbM)."
+      },
+      {
+        "line_number": 1043,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "sense, he was a type of Christ, the Mediator between God and man ([[1TI.2:5]]; BasilG)."
+      },
+      {
+        "line_number": 1050,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgTheo",
+        "context": "(GrgTheo), and He humbled Himself to the extreme by becoming Man to be crucified for"
+      },
+      {
+        "line_number": 1075,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "The Word of the Father appointed cities of refuge, and when He became incarnate, He also commanded, \"When they persecute you in this city, flee into another\" ([[MAT.10:23]]; AthanG)."
+      },
+      {
+        "line_number": 1084,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "their own teachings, because they cannot find Christ, the Wisdom of God (AthanG)."
+      },
+      {
+        "line_number": 1097,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "JohnCas",
+        "context": "ready to endure twice as much damage ([[MAT.5:38]], [[MAT.5:39]]; JohnCas)."
+      },
+      {
+        "line_number": 1115,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "validity, for the Holy Spirit warns against circulating a false report (BasilG)."
+      },
+      {
+        "line_number": 1127,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "only for judges in the courts but also for all men, for justice is to be kept pure (JohnChr)."
+      },
+      {
+        "line_number": 1134,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "are we to return his soul and that of our friends to God (JohnChr)."
+      },
+      {
+        "line_number": 1152,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "return, and you will receive it with interest (JohnChr)."
+      },
+      {
+        "line_number": 1163,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "Holy Trinity (GrgNy). Thus, \"My\" refers to the Father, and \"Angel\" refers to the Son."
+      },
+      {
+        "line_number": 1170,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "Father's name is the Lord; therefore, the Son is also called by this name (AmbM). When"
+      },
+      {
+        "line_number": 1192,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "JohnCas",
+        "context": "(JohnCas). He also became incarnate to lead us into the world to come. Moses believed in"
+      },
+      {
+        "line_number": 1212,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "101:25; AthanG)."
+      },
+      {
+        "line_number": 1227,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "quench Him (AthanG)."
+      },
+      {
+        "line_number": 1255,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "(AmbM)."
+      },
+      {
+        "line_number": 1270,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "from sin and urge them forward to assist our obedience to the divine precepts (JohnDm)."
+      },
+      {
+        "line_number": 1286,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "the prototype (JohnDm; BasilG)."
+      },
+      {
+        "line_number": 1286,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "the prototype (JohnDm; BasilG)."
+      },
+      {
+        "line_number": 1311,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "God does not make Himself known in His essence, for no creature can know this. God makes Himself known in intimate communion (BasilG)."
+      },
+      {
+        "line_number": 1342,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "and Power ([[1CO.1:24]]), and Truth and Life ([[JOH.14:6]]; AmbM)."
+      },
+      {
+        "line_number": 1351,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "to cleanse us from all sin by His precious Blood (AthanG)."
+      },
+      {
+        "line_number": 1360,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "put away the defilement of the body (AmbM)."
+      },
+      {
+        "line_number": 1384,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "The divine Spirit is the Holy Spirit (BasilG; GrgTheo; CyrJer)."
+      },
+      {
+        "line_number": 1384,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgTheo",
+        "context": "The divine Spirit is the Holy Spirit (BasilG; GrgTheo; CyrJer)."
+      },
+      {
+        "line_number": 1384,
+        "entity": "CYRIL_JERUSALEM",
+        "matched_alias": "CyrJer",
+        "context": "The divine Spirit is the Holy Spirit (BasilG; GrgTheo; CyrJer)."
+      },
+      {
+        "line_number": 1393,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "tomb (AthanG)."
+      },
+      {
+        "line_number": 1416,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "perish with them than have the honor of a great nation (JohnChr)."
+      },
+      {
+        "line_number": 1423,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "\"Messenger\") because He reveals the Father's will to man (GrgNy). For He is the Will of"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 23,
+      "ATHANASIUS": 17,
+      "BASIL_GREAT": 10,
+      "CYRIL_JERUSALEM": 1,
+      "GREGORY_NYSSA": 11,
+      "GREGORY_THEOLOGIAN": 7,
+      "HILARY_POITIERS": 2,
+      "JOHN_CASSIAN": 4,
+      "JOHN_CHRYSOSTOM": 30,
+      "JOHN_DAMASCENE": 7,
+      "JOSEPH_BETROTHED": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 147,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 149,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 178,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 246,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 272,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 368,
+        "snippet": "HilryP"
+      },
+      {
+        "line_number": 372,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 454,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 497,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 533,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 542,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 551,
+        "snippet": "GrgTheo"
+      },
+      {
+        "line_number": 560,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 567,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 573,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 584,
+        "snippet": "BasilG"
+      },
+      {
+        "line_number": 604,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 611,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 659,
+        "snippet": "BasilG"
+      },
+      {
+        "line_number": 677,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 688,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 701,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 715,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 722,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 738,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 750,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 750,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 771,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 805,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 805,
+        "snippet": "JohnCas"
+      },
+      {
+        "line_number": 834,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 843,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 906,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 913,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 938,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 947,
+        "snippet": "HilryP"
+      },
+      {
+        "line_number": 965,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 985,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 987,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1011,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1029,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1036,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 1050,
+        "snippet": "GrgTheo"
+      },
+      {
+        "line_number": 1084,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1115,
+        "snippet": "BasilG"
+      },
+      {
+        "line_number": 1127,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1134,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1152,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1163,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 1170,
+        "snippet": "AmbM"
+      }
+    ]
+  }
+}

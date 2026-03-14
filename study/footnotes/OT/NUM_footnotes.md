@@ -333,7 +333,9 @@ carefully in the Law of Moses. In the Church, the rule and practice of Pascha is
 
 carefully spelled out in Holy Tradition as the Church moves through its liturgical order of
 
-service and worship in Great Lent, Holy Week, and the Easter season. 9:6-9 The Law of Moses could not cover every situation that might arise regarding Pascha. For this law did not exist in a vacuum to itself. Rather, it was ever united to the Lawgiver, the Son of God, who speaks to His people. Similarly, the Holy Tradition of the Church
+service and worship in Great Lent, Holy Week, and the Easter season.
+
+9:6-9 The Law of Moses could not cover every situation that might arise regarding Pascha. For this law did not exist in a vacuum to itself. Rather, it was ever united to the Lawgiver, the Son of God, who speaks to His people. Similarly, the Holy Tradition of the Church
 
 cannot cover every situation that might arise. The Good Shepherd speaks to His Church, and those who have ears to hear follow Him ([[JOH.10:27]]). 9:21
 
@@ -349,7 +351,9 @@ nature of worship. For liturgical worship is like an ascent in which the worship
 
 near and enter the heavenly holy of holies. The final objective is "the resurrection from
 
-the dead and the life of the world to come" (Creed). 10:10
+the dead and the life of the world to come" (Creed).
+
+10:10
 
 The Son of God is the I Am, the Lord God of Israel ([[JOH.8:58]]; [[EXO.3:14]]). He is one of
 
@@ -381,9 +385,13 @@ partakes of the kingdom to the extent of the grace she experiences and expresses
 
 sense, the Church is God's kingdom in this world, and she will be His kingdom in the
 
-fullest sense in the new world. 10:33-36 Rise up, O Lord was a foreshadowing of Christ's Resurrection, and return, O
+fullest sense in the new world.
 
-Lord, of His second coming. 11:1-3 This place was called Burning (v. 3) because the Lord hates grumbling, which is an
+10:33-36 Rise up, O Lord was a foreshadowing of Christ's Resurrection, and return, O
+
+Lord, of His second coming.
+
+11:1-3 This place was called Burning (v. 3) because the Lord hates grumbling, which is an
 
 expression of ingratitude. This was written to admonish us not to grumble, complain, and
 
@@ -393,7 +401,9 @@ undermines spiritual stability: "Therefore let him who thinks he stands take hee
 
 fall" ([[1CO.10:12]]). We are to do all things without grumbling; otherwise, our lights will not
 
-shine in the midst of the fallen world ([[PHP.2:14]], [[PHP.2:15]]). 11:4-34
+shine in the midst of the fallen world ([[PHP.2:14]], [[PHP.2:15]]).
+
+11:4-34
 
 This place was called Graves of Lust (v. 34) because the desires of the people
 
@@ -403,7 +413,11 @@ become a sinful passion--for example, gluttony. Now the children of Israel and t
 
 Gentiles who came with them out of Egypt were grumbling about food, which, in turn, caused them to lose control of their desires. This resulted in gluttony (v. 32). Their belly
 
-became their god ([[PHP.3:19]]). Grumbling and gluttony are an evil combination. 11:16 [[NUM.11:16]], [[NUM.11:17]], [[NUM.11:24]]-29: This passage is read at Vespers of the Feast of Pentecost. 11:17 [[NUM.11:17]], [[NUM.11:25]], [[NUM.11:26]], [[NUM.11:29]]: The Spirit is the Holy Spirit, one of the three Persons in the
+became their god ([[PHP.3:19]]). Grumbling and gluttony are an evil combination.
+
+11:16 [[NUM.11:16]], [[NUM.11:17]], [[NUM.11:24]]-29: This passage is read at Vespers of the Feast of Pentecost.
+
+11:17 [[NUM.11:17]], [[NUM.11:25]], [[NUM.11:26]], [[NUM.11:29]]: The Spirit is the Holy Spirit, one of the three Persons in the
 
 Holy Trinity. Therefore, Moses believed in the Trinity, and those who claim him as a
 
@@ -998,13 +1012,13 @@ beginning point and center was in the seventh day of the week--the Sabbath day. 
 
 number seven was regulated according to the divisions of time established at Creation
 
-(Gn 1-11)--into days, weeks, months, years, and periods of years. Thus, the liturgical worship ascended from (1) the daily offerings ([[EXO.29:38]]-42; Nm
+(Gn 1-11)--into days, weeks, months, years, and periods of years. Thus, the liturgical worship ascended from (1) the daily offerings ([[EXO.29:38]]-42; [[NUM.28:3]]-8),
 
 
 ### 28:3
 *(anchor: NUM.28:3)*
 
--8), to (2) the weekly offerings ([[EXO.20:8]]-11; Lv 23:3; [[NUM.28:9]], [[NUM.28:10]]), to (3) the
+to (2) the weekly offerings ([[EXO.20:8]]-11; Lv 23:3; [[NUM.28:9]], [[NUM.28:10]]), to (3) the
 
 monthly offerings ([[NUM.28:11]]-15), to (4) the yearly offerings ([[EXO.12:1]]-20; 23:15, 16; 
 
@@ -1039,7 +1053,9 @@ they are the gifts of God. Let us offer to the Lord every virtue, and that true 
 
 which is in Him, and in piety let us keep the feast to Him with those things He hallowed
 
-for us" (AthanG). 30:1
+for us" (AthanG).
+
+30:1
 
 Moses' greatness lay in the fact that he passed on to Israel everything the Son of
 
@@ -1047,7 +1063,9 @@ God--the Lord--commanded. For He was "over His own house," whereas Moses was His
 
 faithful servant "in all His house" ([[HEB.3:5]], [[HEB.3:6]]). We also are in His house, "if we hold fast
 
-the confidence and the rejoicing of the hope firm to the end" ([[HEB.3:6]]). 31:8-16 Balaam had prophesied in the Lord's name (chs. 22-24), but he caused Israel to
+the confidence and the rejoicing of the hope firm to the end" ([[HEB.3:6]]).
+
+31:8-16 Balaam had prophesied in the Lord's name (chs. 22-24), but he caused Israel to
 
 worship idols and commit fornication (25:1-3; [[REV.2:14]]). He became a false prophet and
 
@@ -1069,7 +1087,9 @@ unrighteousness" ([[2PE.2:15]]). Like Balaam, they have "eyes full of adultery a
 
 cease from sin, enticing unstable souls. They have a heart trained in covetous practices, and are accursed children" ([[2PE.2:14]]). They "secretly bring in destructive heresies, even
 
-denying the Lord who bought them, and bring on themselves swift destruction" ([[2PE.2:1]]). 31:21-24
+denying the Lord who bought them, and bring on themselves swift destruction" ([[2PE.2:1]]).
+
+31:21-24
 
 The Midianites were corrupted by the love of money, idolatry, and fornication; therefore, everything taken from them had to be purified either by fire or water. Fire
 
@@ -1081,7 +1101,9 @@ born anew in union with Christ in His death, burial, and Resurrection. The old m
 
 covetousness, idolatry, and fornication is crucified with Christ, and the new man is
 
-renewed to live in virtue and holiness ([[ROM.6:3]]-5; [[JOH.3:3]]-5; [[MAT.3:11]]). 32:5-7 The armies of Israel secured the lands east of the Jordan, which were suitable for
+renewed to live in virtue and holiness ([[ROM.6:3]]-5; [[JOH.3:3]]-5; [[MAT.3:11]]).
+
+32:5-7 The armies of Israel secured the lands east of the Jordan, which were suitable for
 
 cattle. The sons of Reuben and Gad requested these lands as their inheritance, without
 

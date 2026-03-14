@@ -1,0 +1,278 @@
+{
+  "book_code": "2CH",
+  "position": 14,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/2CH_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 104,
+      "auto_fixable": 0,
+      "review_needed": 104,
+      "files_checked": 1,
+      "lines_checked": 252,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 80,
+      "P7": 24
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "2CH",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/2CH_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/2CH_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/2CH.md",
+    "counts": {
+      "scripture_markers": 38,
+      "footnote_entries": 38,
+      "scripture_anchors": 240,
+      "valid_marker_anchors": 35,
+      "valid_note_anchors": 35
+    },
+    "invalid_marker_anchors": {
+      "2CH.21:26": "invalid_verse",
+      "2CH.35:28": "invalid_verse",
+      "2CH.36:30": "invalid_verse"
+    },
+    "invalid_note_anchors": {
+      "2CH.21:26": "invalid_verse",
+      "2CH.35:28": "invalid_verse",
+      "2CH.36:30": "invalid_verse"
+    },
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "2CH.20:4",
+      "2CH.22:10",
+      "2CH.22:11",
+      "2CH.25:11",
+      "2CH.28:9",
+      "2CH.29:34",
+      "2CH.2:14",
+      "2CH.30:23",
+      "2CH.33:13",
+      "2CH.34:29",
+      "2CH.36:22",
+      "2CH.36:7",
+      "2CH.3:5"
+    ],
+    "note_anchor_gaps": [
+      "2CH.20:4",
+      "2CH.22:10",
+      "2CH.22:11",
+      "2CH.25:11",
+      "2CH.28:9",
+      "2CH.29:34",
+      "2CH.2:14",
+      "2CH.30:23",
+      "2CH.33:13",
+      "2CH.34:29",
+      "2CH.36:22",
+      "2CH.36:7",
+      "2CH.3:5"
+    ],
+    "issue_count": 32
+  },
+  "wikilinks": {
+    "total_refs": 33,
+    "convertible_refs": 0,
+    "already_linked_refs": 33,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 5,
+      "matched_entities": [
+        {
+          "line_number": 97,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "true Holy of Holies\" (JohnDm)."
+        },
+        {
+          "line_number": 137,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "angels surround, seeing upon it their very King and Lord\" (JohnDm). \"She is not merely a"
+        },
+        {
+          "line_number": 147,
+          "entity": "GREGORY_PALAMAS",
+          "matched_alias": "GrgPal",
+          "context": "Throne amidst the choir of cherubim and called it 'high' and 'exalted' (Is 6:1)\" (GrgPal)."
+        },
+        {
+          "line_number": 256,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "external relations they disturb by their reproving voice\" (GrgGt)."
+        },
+        {
+          "line_number": 469,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "forgives the penitent, but reinstates them in their former dignity\" (JohnChr). \"Now if, looking to the magnitude of his own iniquities, he had despaired of restoration"
+        }
+      ],
+      "entity_counts": {
+        "GREGORY_GREAT": 1,
+        "GREGORY_PALAMAS": 1,
+        "JOHN_CHRYSOSTOM": 1,
+        "JOHN_DAMASCENE": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 97,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 137,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 147,
+          "snippet": "GrgPal"
+        },
+        {
+          "line_number": 256,
+          "snippet": "GrgGt"
+        },
+        {
+          "line_number": 469,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 4,
+      "matched_entities": [
+        {
+          "line_number": 65,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "worship as windows into heaven, for as St. Paul writes, \"For now we see in a mirror, dimly, but then face to face\" ([[1CO.13:12]]). 3:8"
+        },
+        {
+          "line_number": 65,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "worship as windows into heaven, for as St. Paul writes, \"For now we see in a mirror, dimly, but then face to face\" ([[1CO.13:12]]). 3:8"
+        },
+        {
+          "line_number": 169,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "fathers (v. 16). St. Paul speaks of the importance of holding steadfastly to \"the traditions"
+        },
+        {
+          "line_number": 169,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "fathers (v. 16). St. Paul speaks of the importance of holding steadfastly to \"the traditions"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 4
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 5,
+    "matched_entities": [
+      {
+        "line_number": 97,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "true Holy of Holies\" (JohnDm)."
+      },
+      {
+        "line_number": 137,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "angels surround, seeing upon it their very King and Lord\" (JohnDm). \"She is not merely a"
+      },
+      {
+        "line_number": 147,
+        "entity": "GREGORY_PALAMAS",
+        "matched_alias": "GrgPal",
+        "context": "Throne amidst the choir of cherubim and called it 'high' and 'exalted' (Is 6:1)\" (GrgPal)."
+      },
+      {
+        "line_number": 256,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "external relations they disturb by their reproving voice\" (GrgGt)."
+      },
+      {
+        "line_number": 469,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "forgives the penitent, but reinstates them in their former dignity\" (JohnChr). \"Now if, looking to the magnitude of his own iniquities, he had despaired of restoration"
+      }
+    ],
+    "entity_counts": {
+      "GREGORY_GREAT": 1,
+      "GREGORY_PALAMAS": 1,
+      "JOHN_CHRYSOSTOM": 1,
+      "JOHN_DAMASCENE": 2
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 97,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 137,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 147,
+        "snippet": "GrgPal"
+      },
+      {
+        "line_number": 256,
+        "snippet": "GrgGt"
+      },
+      {
+        "line_number": 469,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

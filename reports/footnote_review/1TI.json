@@ -1,0 +1,265 @@
+{
+  "book_code": "1TI",
+  "position": 64,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/1TI_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 24,
+      "auto_fixable": 0,
+      "review_needed": 24,
+      "files_checked": 1,
+      "lines_checked": 140,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 18,
+      "P7": 6
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "1TI",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/1TI_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/1TI_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/1TI.md",
+    "counts": {
+      "scripture_markers": 30,
+      "footnote_entries": 30,
+      "scripture_anchors": 113,
+      "valid_marker_anchors": 30,
+      "valid_note_anchors": 30
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 33,
+    "convertible_refs": 0,
+    "already_linked_refs": 33,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 5,
+      "matched_entities": [
+        {
+          "line_number": 21,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr)."
+        },
+        {
+          "line_number": 51,
+          "entity": "PHOTINI_SAMARITAN",
+          "matched_alias": "Photini",
+          "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
+        },
+        {
+          "line_number": 163,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "St. John Chrysostom on blameless: \"Every virtue is implied in this word. [The"
+        },
+        {
+          "line_number": 163,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "St. John Chrysostom on blameless: \"Every virtue is implied in this word. [The"
+        },
+        {
+          "line_number": 163,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "St. John Chrysostom on blameless: \"Every virtue is implied in this word. [The"
+        }
+      ],
+      "entity_counts": {
+        "JOHN_CHRYSOSTOM": 3,
+        "JOHN_THEOLOGIAN": 1,
+        "PHOTINI_SAMARITAN": 1
+      },
+      "unresolved_candidates_count": 1,
+      "unresolved_candidates": [
+        {
+          "line_number": 51,
+          "token": "St. Mary",
+          "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
+        }
+      ],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 21,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 9,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's faithful are plagued by Jewish fables and endless genealogies, energetic"
+        },
+        {
+          "line_number": 45,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul, as a former rebel toward God and persecutor of the Church ([[ACT.9:1]]-3),"
+        },
+        {
+          "line_number": 51,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
+        },
+        {
+          "line_number": 65,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "If Paul is a recipient of God's grace, here are two who rejected this grace and stand as"
+        },
+        {
+          "line_number": 79,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "The religions of the Greek world were pluralistic and elite. In contrast, Paul teaches"
+        },
+        {
+          "line_number": 201,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul quotes an ancient Christian creed or hymn that is especially clear about the"
+        },
+        {
+          "line_number": 265,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul is no stranger to physical exercise and its benefits (see [[1CO.9:24]]-27), but he"
+        },
+        {
+          "line_number": 287,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "apostles, as it is by the bishop today ([[2TI.1:6]]; see [[ACT.6:6]]). In 5:22 Paul gives Timothy"
+        },
+        {
+          "line_number": 325,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "overcome, and Paul does not suggest breaking the fasts, only decreasing their rigor."
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 9
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 201,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Paul quotes an ancient Christian creed or hymn that is especially clear about the"
+        },
+        {
+          "line_number": 203,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "divinity of Jesus Christ. Another such creed is found in [[2TI.2:11]]-13. (See also 6:15, 16;"
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 5,
+    "matched_entities": [
+      {
+        "line_number": 21,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr)."
+      },
+      {
+        "line_number": 51,
+        "entity": "PHOTINI_SAMARITAN",
+        "matched_alias": "Photini",
+        "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
+      },
+      {
+        "line_number": 163,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "St. John Chrysostom on blameless: \"Every virtue is implied in this word. [The"
+      },
+      {
+        "line_number": 163,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "St. John Chrysostom on blameless: \"Every virtue is implied in this word. [The"
+      },
+      {
+        "line_number": 163,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "St. John Chrysostom on blameless: \"Every virtue is implied in this word. [The"
+      }
+    ],
+    "entity_counts": {
+      "JOHN_CHRYSOSTOM": 3,
+      "JOHN_THEOLOGIAN": 1,
+      "PHOTINI_SAMARITAN": 1
+    },
+    "unresolved_candidates_count": 1,
+    "unresolved_candidates": [
+      {
+        "line_number": 51,
+        "token": "St. Mary",
+        "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
+      }
+    ],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 21,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

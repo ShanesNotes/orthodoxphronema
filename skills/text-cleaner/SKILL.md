@@ -27,12 +27,16 @@ similar PDF extraction tools.
 ```
 text-cleaner/
 ├── SKILL.md              ← you are here
+├── CORPUS_CONTRACT.md    ← onboarding contract for new text sources
 ├── scripts/
-│   ├── clean.py          ← multi-pass cleaner engine (regex + aspell)
+│   ├── clean.py          ← multi-pass cleaner engine (P1-P8 + F1-F4)
 │   ├── scan.py           ← deep fused-token scanner (aspell-batch)
-│   └── fix.py            ← curated fused-token fixer (profile-driven)
+│   ├── fix.py            ← curated fused-token fixer (profile-driven)
+│   └── manifest.py       ← batch work manifest generator from dashboard
 ├── profiles/
 │   ├── canon.yaml        ← biblical scripture profile
+│   ├── footnotes.yaml    ← footnote structural cleanup (F1-F4 enabled)
+│   ├── staging.yaml      ← staging footnotes and articles
 │   ├── patristic.yaml    ← Church Fathers / theological prose
 │   └── default.yaml      ← sensible defaults for unknown corpora
 └── references/
@@ -57,12 +61,20 @@ python3 skills/text-cleaner/scripts/clean.py --file path/to/file.md --dry-run
 python3 skills/text-cleaner/scripts/clean.py \
   --dir path/to/corpus/ --profile canon --dry-run
 
+# Footnote structural cleanup (F1-F4 patterns)
+python3 skills/text-cleaner/scripts/clean.py \
+  --scope staging --profile footnotes --dry-run
+
 # Deep scan for fused footnote markers
 python3 skills/text-cleaner/scripts/scan.py --dir path/to/corpus/
 
 # Apply fixes from a curated replacement map
 python3 skills/text-cleaner/scripts/fix.py \
   --dir path/to/corpus/ --profile canon
+
+# Generate batch manifest from dashboard
+python3 skills/text-cleaner/scripts/manifest.py \
+  --dashboard reports/footnote_review/dashboard.json
 
 # Full pipeline: clean → scan → fix → validate
 python3 skills/text-cleaner/scripts/clean.py --dir canon/ --profile canon
@@ -94,6 +106,12 @@ Profiles configure the cleaner for different corpus types. Each profile defines:
 - Fused prefixes: a, b, c, d (OSB cross-reference markers)
 - 14 known false positives (dwelled, coffered, bended, etc.)
 
+**`footnotes`** — Footnote structural cleanup (staging + study)
+- Plain text format (no anchors)
+- F1-F4 footnote structural checks enabled
+- Same allowlist as canon
+- Reference aliases checking for source citation normalization
+
 **`patristic`** — Church Fathers, theological prose
 - Anchor format: flexible (numbered paragraphs, sections, or plain)
 - Greek/Latin theological term allowlist
@@ -123,6 +141,10 @@ All profiles share the same error taxonomy:
 | D1 | Fused footnote marker | Review | `aword` → `a word` or `word` |
 | D3 | OCR kerning splits | Review | `J ESUS` → `JESUS` |
 | D5 | Fused common words | Review | `theLord` → `the Lord` |
+| F1 | Fused subsection header | Review | Content fused with chapter-range ref |
+| F2 | Dangling continuation range | Review | `[[BOOK.CH:V]]-N` bracket issue |
+| F3 | Broken wikilink | Review | Unmatched `[[` or `]]` |
+| F4 | Unresolved source alias | Review | Unknown patristic abbreviation |
 
 ## Workflow for New Corpora
 
@@ -170,12 +192,34 @@ false_positives:
 reference_corpus: null  # or path to ground-truth
 ```
 
+## Batch Operations with Manifests
+
+For large-scale footnote cleanup, use `manifest.py` to generate work lists
+from the footnote review dashboard:
+
+```bash
+# Generate manifest of all books needing structural cleanup
+python3 skills/text-cleaner/scripts/manifest.py \
+  --dashboard reports/footnote_review/dashboard.json \
+  --missing structural_clean
+
+# Batch scan all books in manifest
+python3 skills/text-cleaner/scripts/clean.py \
+  --scope staging --profile footnotes --dry-run
+```
+
 ## Relationship to canon-proofreader
 
-The `canon-proofreader` skill remains available as a convenience wrapper.
-Under the hood, it now delegates to `text-cleaner` with `--profile canon`.
-The three original canon-proofreader scripts are preserved for backward
-compatibility but new work should use the text-cleaner directly.
+The `canon-proofreader` skill is now a **thin wrapper** around text-cleaner.
+Its scripts (`proofread.py`, `deep_scan.py`, `fix_fused_markers.py`) delegate
+to the corresponding text-cleaner scripts with `--profile canon`. New work
+should use text-cleaner directly.
+
+## Transposable Corpus Contract
+
+When onboarding a new text source (patristic, liturgical, hagiographic, etc.),
+see `CORPUS_CONTRACT.md` for the standard onboarding sequence: profile YAML,
+domain allowlist, replacement map, and validation spec.
 
 ## Key Insight: Aspell-Gated Detection
 

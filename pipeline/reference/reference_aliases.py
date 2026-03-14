@@ -1,5 +1,5 @@
 """
-reference_aliases.py — Versioned alias authority for biblical and future patristic references.
+reference_aliases.py — Versioned alias authority for biblical and non-biblical source references.
 """
 from __future__ import annotations
 
@@ -32,6 +32,8 @@ def load_reference_aliases(path: Path | str | None = None) -> dict:
     data.setdefault("version", 1)
     data.setdefault("biblical", [])
     data.setdefault("patristic_future", [])
+    data.setdefault("apostolic_future", [])
+    data.setdefault("liturgical_creedal_future", [])
     return data
 
 
@@ -49,12 +51,18 @@ def build_biblical_alias_map(path: Path | str | None = None) -> dict[str, str]:
 
 @lru_cache(maxsize=4)
 def build_patristic_alias_map(path: Path | str | None = None) -> dict[str, dict]:
+    return build_source_alias_map("patristic_future", path)
+
+
+@lru_cache(maxsize=16)
+def build_source_alias_map(section: str, path: Path | str | None = None) -> dict[str, dict]:
     data = load_reference_aliases(path)
     alias_map: dict[str, dict] = {}
-    for entry in data.get("patristic_future", []):
+    for entry in data.get(section, []):
         canonical = entry["canonical"]
         payload = {
             "canonical": canonical,
+            "section": section,
             "context_hint": entry.get("context_hint"),
         }
         alias_map[_normalize_alias_key(canonical)] = payload
@@ -70,3 +78,8 @@ def canonical_biblical_code(token: str, path: Path | str | None = None) -> str |
 def canonical_patristic_entity(token: str, path: Path | str | None = None) -> dict | None:
     return build_patristic_alias_map(path).get(_normalize_alias_key(token))
 
+
+def canonical_source_entity(
+    section: str, token: str, path: Path | str | None = None
+) -> dict | None:
+    return build_source_alias_map(section, path).get(_normalize_alias_key(token))

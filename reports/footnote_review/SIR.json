@@ -1,0 +1,1378 @@
+{
+  "book_code": "SIR",
+  "position": 30,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/SIR_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 236,
+      "auto_fixable": 0,
+      "review_needed": 236,
+      "files_checked": 1,
+      "lines_checked": 1042,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 184,
+      "P7": 52
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "SIR",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/SIR_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/SIR_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/SIR.md",
+    "counts": {
+      "scripture_markers": 259,
+      "footnote_entries": 259,
+      "scripture_anchors": 78,
+      "valid_marker_anchors": 258,
+      "valid_note_anchors": 258
+    },
+    "invalid_marker_anchors": {
+      "SIR.8:21": "invalid_verse"
+    },
+    "invalid_note_anchors": {
+      "SIR.8:21": "invalid_verse"
+    },
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "SIR.10:13",
+      "SIR.10:14",
+      "SIR.10:17",
+      "SIR.10:20",
+      "SIR.10:28",
+      "SIR.11:10",
+      "SIR.11:16",
+      "SIR.11:24",
+      "SIR.12:4",
+      "SIR.12:7",
+      "SIR.13:14",
+      "SIR.13:3",
+      "SIR.14:12",
+      "SIR.14:2",
+      "SIR.14:20",
+      "SIR.14:3",
+      "SIR.15:11",
+      "SIR.15:16",
+      "SIR.15:19",
+      "SIR.15:2",
+      "SIR.16:10",
+      "SIR.16:12",
+      "SIR.16:15",
+      "SIR.16:22",
+      "SIR.16:6",
+      "SIR.16:7",
+      "SIR.16:8",
+      "SIR.17:20",
+      "SIR.17:23",
+      "SIR.17:24",
+      "SIR.17:26",
+      "SIR.17:9",
+      "SIR.18:15",
+      "SIR.18:18",
+      "SIR.18:22",
+      "SIR.18:24",
+      "SIR.18:26",
+      "SIR.18:28",
+      "SIR.18:29",
+      "SIR.18:3",
+      "SIR.18:8",
+      "SIR.19:13",
+      "SIR.19:18",
+      "SIR.19:26",
+      "SIR.19:8",
+      "SIR.1:4",
+      "SIR.20:14",
+      "SIR.20:16",
+      "SIR.20:19",
+      "SIR.20:3",
+      "SIR.20:4",
+      "SIR.20:5",
+      "SIR.20:9",
+      "SIR.21:11",
+      "SIR.21:13",
+      "SIR.21:16",
+      "SIR.21:17",
+      "SIR.21:27",
+      "SIR.21:3",
+      "SIR.22:11",
+      "SIR.22:13",
+      "SIR.22:22",
+      "SIR.22:27",
+      "SIR.22:3",
+      "SIR.23:20",
+      "SIR.23:9",
+      "SIR.24:16",
+      "SIR.24:21",
+      "SIR.24:3",
+      "SIR.24:8",
+      "SIR.25:15",
+      "SIR.25:21",
+      "SIR.25:24",
+      "SIR.25:25",
+      "SIR.25:7",
+      "SIR.26:13",
+      "SIR.26:20",
+      "SIR.26:5",
+      "SIR.26:9",
+      "SIR.27:13",
+      "SIR.27:27",
+      "SIR.27:4",
+      "SIR.27:5",
+      "SIR.27:8",
+      "SIR.28:24",
+      "SIR.28:25",
+      "SIR.28:3",
+      "SIR.28:4",
+      "SIR.28:6",
+      "SIR.29:10",
+      "SIR.29:11",
+      "SIR.30:16",
+      "SIR.30:19",
+      "SIR.30:21",
+      "SIR.31:12",
+      "SIR.31:14",
+      "SIR.31:16",
+      "SIR.31:19",
+      "SIR.31:25",
+      "SIR.31:8",
+      "SIR.32:17",
+      "SIR.32:23",
+      "SIR.32:3",
+      "SIR.32:7",
+      "SIR.33:13",
+      "SIR.33:14",
+      "SIR.33:16",
+      "SIR.33:30",
+      "SIR.33:5",
+      "SIR.33:7",
+      "SIR.34:15",
+      "SIR.34:18",
+      "SIR.34:23",
+      "SIR.34:6",
+      "SIR.34:9",
+      "SIR.35:10",
+      "SIR.35:13",
+      "SIR.35:17",
+      "SIR.35:19",
+      "SIR.35:2",
+      "SIR.35:24",
+      "SIR.35:8",
+      "SIR.36:13",
+      "SIR.36:17",
+      "SIR.36:21",
+      "SIR.36:24",
+      "SIR.36:25",
+      "SIR.36:7",
+      "SIR.36:8",
+      "SIR.37:21",
+      "SIR.37:29",
+      "SIR.37:7",
+      "SIR.38:14",
+      "SIR.38:16",
+      "SIR.38:24",
+      "SIR.38:25",
+      "SIR.38:4",
+      "SIR.38:5",
+      "SIR.38:6",
+      "SIR.38:9",
+      "SIR.39:14",
+      "SIR.39:15",
+      "SIR.39:17",
+      "SIR.39:19",
+      "SIR.39:24",
+      "SIR.39:26",
+      "SIR.39:32",
+      "SIR.39:4",
+      "SIR.40:12",
+      "SIR.40:19",
+      "SIR.40:24",
+      "SIR.40:27",
+      "SIR.41:12",
+      "SIR.41:18",
+      "SIR.41:26",
+      "SIR.41:5",
+      "SIR.42:13",
+      "SIR.42:14",
+      "SIR.42:15",
+      "SIR.42:16",
+      "SIR.42:17",
+      "SIR.42:18",
+      "SIR.42:20",
+      "SIR.42:5",
+      "SIR.42:8",
+      "SIR.42:9",
+      "SIR.43:11",
+      "SIR.43:13",
+      "SIR.43:2",
+      "SIR.43:26",
+      "SIR.43:27",
+      "SIR.44:17",
+      "SIR.44:21",
+      "SIR.44:3",
+      "SIR.45:15",
+      "SIR.45:22",
+      "SIR.45:26",
+      "SIR.45:7",
+      "SIR.46:12",
+      "SIR.46:19",
+      "SIR.46:20",
+      "SIR.46:3",
+      "SIR.46:4",
+      "SIR.46:6",
+      "SIR.47:11",
+      "SIR.47:13",
+      "SIR.47:19",
+      "SIR.47:2",
+      "SIR.47:23",
+      "SIR.47:6",
+      "SIR.47:8",
+      "SIR.47:9",
+      "SIR.48:11",
+      "SIR.48:12",
+      "SIR.48:13",
+      "SIR.48:17",
+      "SIR.48:18",
+      "SIR.48:23",
+      "SIR.48:25",
+      "SIR.48:5",
+      "SIR.48:6",
+      "SIR.48:7",
+      "SIR.49:14",
+      "SIR.49:6",
+      "SIR.49:8",
+      "SIR.50:15",
+      "SIR.50:16",
+      "SIR.50:21",
+      "SIR.50:22",
+      "SIR.50:25",
+      "SIR.50:27",
+      "SIR.50:5",
+      "SIR.51:10",
+      "SIR.51:15",
+      "SIR.51:18",
+      "SIR.51:21",
+      "SIR.51:25",
+      "SIR.51:5"
+    ],
+    "note_anchor_gaps": [
+      "SIR.10:13",
+      "SIR.10:14",
+      "SIR.10:17",
+      "SIR.10:20",
+      "SIR.10:28",
+      "SIR.11:10",
+      "SIR.11:16",
+      "SIR.11:24",
+      "SIR.12:4",
+      "SIR.12:7",
+      "SIR.13:14",
+      "SIR.13:3",
+      "SIR.14:12",
+      "SIR.14:2",
+      "SIR.14:20",
+      "SIR.14:3",
+      "SIR.15:11",
+      "SIR.15:16",
+      "SIR.15:19",
+      "SIR.15:2",
+      "SIR.16:10",
+      "SIR.16:12",
+      "SIR.16:15",
+      "SIR.16:22",
+      "SIR.16:6",
+      "SIR.16:7",
+      "SIR.16:8",
+      "SIR.17:20",
+      "SIR.17:23",
+      "SIR.17:24",
+      "SIR.17:26",
+      "SIR.17:9",
+      "SIR.18:15",
+      "SIR.18:18",
+      "SIR.18:22",
+      "SIR.18:24",
+      "SIR.18:26",
+      "SIR.18:28",
+      "SIR.18:29",
+      "SIR.18:3",
+      "SIR.18:8",
+      "SIR.19:13",
+      "SIR.19:18",
+      "SIR.19:26",
+      "SIR.19:8",
+      "SIR.1:4",
+      "SIR.20:14",
+      "SIR.20:16",
+      "SIR.20:19",
+      "SIR.20:3",
+      "SIR.20:4",
+      "SIR.20:5",
+      "SIR.20:9",
+      "SIR.21:11",
+      "SIR.21:13",
+      "SIR.21:16",
+      "SIR.21:17",
+      "SIR.21:27",
+      "SIR.21:3",
+      "SIR.22:11",
+      "SIR.22:13",
+      "SIR.22:22",
+      "SIR.22:27",
+      "SIR.22:3",
+      "SIR.23:20",
+      "SIR.23:9",
+      "SIR.24:16",
+      "SIR.24:21",
+      "SIR.24:3",
+      "SIR.24:8",
+      "SIR.25:15",
+      "SIR.25:21",
+      "SIR.25:24",
+      "SIR.25:25",
+      "SIR.25:7",
+      "SIR.26:13",
+      "SIR.26:20",
+      "SIR.26:5",
+      "SIR.26:9",
+      "SIR.27:13",
+      "SIR.27:27",
+      "SIR.27:4",
+      "SIR.27:5",
+      "SIR.27:8",
+      "SIR.28:24",
+      "SIR.28:25",
+      "SIR.28:3",
+      "SIR.28:4",
+      "SIR.28:6",
+      "SIR.29:10",
+      "SIR.29:11",
+      "SIR.30:16",
+      "SIR.30:19",
+      "SIR.30:21",
+      "SIR.31:12",
+      "SIR.31:14",
+      "SIR.31:16",
+      "SIR.31:19",
+      "SIR.31:25",
+      "SIR.31:8",
+      "SIR.32:17",
+      "SIR.32:23",
+      "SIR.32:3",
+      "SIR.32:7",
+      "SIR.33:13",
+      "SIR.33:14",
+      "SIR.33:16",
+      "SIR.33:30",
+      "SIR.33:5",
+      "SIR.33:7",
+      "SIR.34:15",
+      "SIR.34:18",
+      "SIR.34:23",
+      "SIR.34:6",
+      "SIR.34:9",
+      "SIR.35:10",
+      "SIR.35:13",
+      "SIR.35:17",
+      "SIR.35:19",
+      "SIR.35:2",
+      "SIR.35:24",
+      "SIR.35:8",
+      "SIR.36:13",
+      "SIR.36:17",
+      "SIR.36:21",
+      "SIR.36:24",
+      "SIR.36:25",
+      "SIR.36:7",
+      "SIR.36:8",
+      "SIR.37:21",
+      "SIR.37:29",
+      "SIR.37:7",
+      "SIR.38:14",
+      "SIR.38:16",
+      "SIR.38:24",
+      "SIR.38:25",
+      "SIR.38:4",
+      "SIR.38:5",
+      "SIR.38:6",
+      "SIR.38:9",
+      "SIR.39:14",
+      "SIR.39:15",
+      "SIR.39:17",
+      "SIR.39:19",
+      "SIR.39:24",
+      "SIR.39:26",
+      "SIR.39:32",
+      "SIR.39:4",
+      "SIR.40:12",
+      "SIR.40:19",
+      "SIR.40:24",
+      "SIR.40:27",
+      "SIR.41:12",
+      "SIR.41:18",
+      "SIR.41:26",
+      "SIR.41:5",
+      "SIR.42:13",
+      "SIR.42:14",
+      "SIR.42:15",
+      "SIR.42:16",
+      "SIR.42:17",
+      "SIR.42:18",
+      "SIR.42:20",
+      "SIR.42:5",
+      "SIR.42:8",
+      "SIR.42:9",
+      "SIR.43:11",
+      "SIR.43:13",
+      "SIR.43:2",
+      "SIR.43:26",
+      "SIR.43:27",
+      "SIR.44:17",
+      "SIR.44:21",
+      "SIR.44:3",
+      "SIR.45:15",
+      "SIR.45:22",
+      "SIR.45:26",
+      "SIR.45:7",
+      "SIR.46:12",
+      "SIR.46:19",
+      "SIR.46:20",
+      "SIR.46:3",
+      "SIR.46:4",
+      "SIR.46:6",
+      "SIR.47:11",
+      "SIR.47:13",
+      "SIR.47:19",
+      "SIR.47:2",
+      "SIR.47:23",
+      "SIR.47:6",
+      "SIR.47:8",
+      "SIR.47:9",
+      "SIR.48:11",
+      "SIR.48:12",
+      "SIR.48:13",
+      "SIR.48:17",
+      "SIR.48:18",
+      "SIR.48:23",
+      "SIR.48:25",
+      "SIR.48:5",
+      "SIR.48:6",
+      "SIR.48:7",
+      "SIR.49:14",
+      "SIR.49:6",
+      "SIR.49:8",
+      "SIR.50:15",
+      "SIR.50:16",
+      "SIR.50:21",
+      "SIR.50:22",
+      "SIR.50:25",
+      "SIR.50:27",
+      "SIR.50:5",
+      "SIR.51:10",
+      "SIR.51:15",
+      "SIR.51:18",
+      "SIR.51:21",
+      "SIR.51:25",
+      "SIR.51:5"
+    ],
+    "issue_count": 438
+  },
+  "wikilinks": {
+    "total_refs": 123,
+    "convertible_refs": 0,
+    "already_linked_refs": 123,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 44,
+      "matched_entities": [
+        {
+          "line_number": 524,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "St. Cyprian",
+          "context": "the third-century treatise attributed to St. Cyprian entitled \"Exhortation to Repentance.\""
+        },
+        {
+          "line_number": 524,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "the third-century treatise attributed to St. Cyprian entitled \"Exhortation to Repentance.\""
+        },
+        {
+          "line_number": 532,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "of earthly praise to God. Augustine translated thanksgiving as \"confession.\""
+        },
+        {
+          "line_number": 553,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "impossible to enumerate them all or to plumb their depths. Augustine has a long and"
+        },
+        {
+          "line_number": 653,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "The martyr Cyprian (200-258), in a passage attributed to him calling this book by its"
+        },
+        {
+          "line_number": 657,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "Scripture. Many church fathers also quoted from Sirach. In his treatise, Cyprian quotes"
+        },
+        {
+          "line_number": 683,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "acquit me, it is written: 'By thy words thou shalt be condemned'\" (AmbM)."
+        },
+        {
+          "line_number": 792,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "St. John Chrysostom has a lengthy discourse on friendship in which he quotes from"
+        },
+        {
+          "line_number": 792,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "St. John Chrysostom has a lengthy discourse on friendship in which he quotes from"
+        },
+        {
+          "line_number": 792,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "St. John Chrysostom has a lengthy discourse on friendship in which he quotes from"
+        },
+        {
+          "line_number": 811,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "St. Ephraim",
+          "context": "It appears this prayer may have formed the basis for the Prayer of St. Ephraim the"
+        },
+        {
+          "line_number": 811,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "It appears this prayer may have formed the basis for the Prayer of St. Ephraim the"
+        },
+        {
+          "line_number": 855,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "(AmbM)."
+        },
+        {
+          "line_number": 898,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "of the Church, St. John Chrysostom, should say of v. 1: \"For there is no relationship"
+        },
+        {
+          "line_number": 898,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "of the Church, St. John Chrysostom, should say of v. 1: \"For there is no relationship"
+        },
+        {
+          "line_number": 898,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "of the Church, St. John Chrysostom, should say of v. 1: \"For there is no relationship"
+        },
+        {
+          "line_number": 960,
+          "entity": "CLEMENT_ROME",
+          "matched_alias": "Clement",
+          "context": "This passage warns of the sin of sexual promiscuity. Clement of Alexandria says of"
+        },
+        {
+          "line_number": 960,
+          "entity": "CLEMENT_ALEXANDRIA",
+          "matched_alias": "Clement of Alexandria",
+          "context": "This passage warns of the sin of sexual promiscuity. Clement of Alexandria says of"
+        },
+        {
+          "line_number": 964,
+          "entity": "CLEMENT_ALEXANDRIA",
+          "matched_alias": "ClemA",
+          "context": "than to commit adultery with the eyes\" (ClemA)."
+        },
+        {
+          "line_number": 988,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian of Carthage",
+          "context": "Cyprian of Carthage (martyred AD 258) sees this passage as the basis of St. Paul's and"
+        },
+        {
+          "line_number": 988,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "Cyprian of Carthage (martyred AD 258) sees this passage as the basis of St. Paul's and"
+        },
+        {
+          "line_number": 1060,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "carefully as silver and gold. Cyprian, apparently quoting the Vulgate, renders this verse"
+        },
+        {
+          "line_number": 1082,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "love one who loves us?\" (AmbM). Thus, we are urged to give our money to help a"
+        },
+        {
+          "line_number": 1141,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "than natural want of rest--the sleeplessness which comes of wealth\" (JohnChr)."
+        },
+        {
+          "line_number": 1158,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "than a man\" (AmbM)."
+        },
+        {
+          "line_number": 1349,
+          "entity": "IRENAEUS",
+          "matched_alias": "St. Irenaeus",
+          "context": "percent of our income. Is the tithe only for Israel? St. Irenaeus wrote in the second"
+        },
+        {
+          "line_number": 1349,
+          "entity": "IRENAEUS",
+          "matched_alias": "Irenaeus",
+          "context": "percent of our income. Is the tithe only for Israel? St. Irenaeus wrote in the second"
+        },
+        {
+          "line_number": 1355,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "other words, giving ten percent is minimal. St. John Chrysostom wrote in the fourth"
+        },
+        {
+          "line_number": 1355,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "other words, giving ten percent is minimal. St. John Chrysostom wrote in the fourth"
+        },
+        {
+          "line_number": 1355,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "other words, giving ten percent is minimal. St. John Chrysostom wrote in the fourth"
+        },
+        {
+          "line_number": 1410,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "of many biblical passages that explain how God has answered this prayer. Augustine said"
+        },
+        {
+          "line_number": 1993,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "Blessed Augustine, in an article entitled \"Why We Repudiate Arts of Divination,\""
+        },
+        {
+          "line_number": 2077,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "also called Ephraim. The Southern Kingdom was called Judah and included the tribe of"
+        },
+        {
+          "line_number": 2090,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah was a great prophet, a powerful man of faith and prayer. His great fault was"
+        },
+        {
+          "line_number": 2101,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "24). Note in that passage Elijah stretched himself upon the child three times, crying out"
+        },
+        {
+          "line_number": 2115,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "The kings anointed by Elijah were Hazael and Jehu (see 3Kg 19:15, 16). The only"
+        },
+        {
+          "line_number": 2117,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "prophet anointed by Elijah who is mentioned by name is Elisha. But since there were at"
+        },
+        {
+          "line_number": 2121,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Jezebel, it can be assumed that Elijah anointed several or all of them (see 3Kg 18:3, 4)."
+        },
+        {
+          "line_number": 2126,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Ben Sirach is saying that since Elijah did not die but was caught up into heaven by a"
+        },
+        {
+          "line_number": 2128,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "whirlwind, then all who fell asleep in the love of God since Elijah's time will yet live. As"
+        },
+        {
+          "line_number": 2137,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah was covered by the whirlwind: \"Was covered by\" also means \"was"
+        },
+        {
+          "line_number": 2218,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "doctrine of the resurrection. One could argue that Joseph's concern for the removal of his"
+        },
+        {
+          "line_number": 2299,
+          "entity": "PHOTINI_SAMARITAN",
+          "matched_alias": "St. Photini",
+          "context": "where Jesus encountered the woman at the well known to us as St. Photini (see [[JOH.4:1]]-"
+        },
+        {
+          "line_number": 2299,
+          "entity": "PHOTINI_SAMARITAN",
+          "matched_alias": "Photini",
+          "context": "where Jesus encountered the woman at the well known to us as St. Photini (see [[JOH.4:1]]-"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 4,
+        "AUGUSTINE_HIPPO": 4,
+        "CLEMENT_ALEXANDRIA": 2,
+        "CLEMENT_ROME": 1,
+        "CYPRIAN_CARTHAGE": 7,
+        "ELIJAH_PROPHET": 8,
+        "EPHRAIM_SYRIAN": 3,
+        "IRENAEUS": 2,
+        "JOHN_CHRYSOSTOM": 7,
+        "JOHN_THEOLOGIAN": 3,
+        "JOSEPH_BETROTHED": 1,
+        "PHOTINI_SAMARITAN": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 683,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 855,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 964,
+          "snippet": "ClemA"
+        },
+        {
+          "line_number": 1082,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 1141,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1158,
+          "snippet": "AmbM"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 35,
+      "matched_entities": [
+        {
+          "line_number": 249,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "St. Peter",
+          "context": "This theme echoes Pr 3:37 and is repeated by St. Peter ([[1PE.5:5]], [[1PE.5:6]])."
+        },
+        {
+          "line_number": 249,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "This theme echoes Pr 3:37 and is repeated by St. Peter ([[1PE.5:5]], [[1PE.5:6]])."
+        },
+        {
+          "line_number": 333,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "to do so (see [[MAT.5:38]]-48; [[LUK.6:27]]-36). St. Paul sums up the Christian view of almsgiving: \"Therefore, as we have opportunity, let us do good to all, especially to those who are of"
+        },
+        {
+          "line_number": 333,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "to do so (see [[MAT.5:38]]-48; [[LUK.6:27]]-36). St. Paul sums up the Christian view of almsgiving: \"Therefore, as we have opportunity, let us do good to all, especially to those who are of"
+        },
+        {
+          "line_number": 720,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "humble believer must view all sin as dangerous, as much as a poisonous snake. St. Paul"
+        },
+        {
+          "line_number": 720,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "humble believer must view all sin as dangerous, as much as a poisonous snake. St. Paul"
+        },
+        {
+          "line_number": 751,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul speaks of \"the word of wisdom\" ([[1CO.12:8]])."
+        },
+        {
+          "line_number": 751,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul speaks of \"the word of wisdom\" ([[1CO.12:8]])."
+        },
+        {
+          "line_number": 756,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "Jude 9 also warns against rebuking Satan, instead instructing us to say, \"The Lord"
+        },
+        {
+          "line_number": 771,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Because the father is ultimately responsible for the discipline of children, St. Paul"
+        },
+        {
+          "line_number": 771,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Because the father is ultimately responsible for the discipline of children, St. Paul"
+        },
+        {
+          "line_number": 842,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "begotten Son, God of God, co-equal with the Father. Also, Wisdom, the preincarnate Son, is exalted above all. Perhaps St. Paul had this passage in mind when he penned [[PHP.2:5]]-"
+        },
+        {
+          "line_number": 842,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "begotten Son, God of God, co-equal with the Father. Also, Wisdom, the preincarnate Son, is exalted above all. Perhaps St. Paul had this passage in mind when he penned [[PHP.2:5]]-"
+        },
+        {
+          "line_number": 880,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul teaches that in Christ we find a superabundance of the riches of grace"
+        },
+        {
+          "line_number": 880,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul teaches that in Christ we find a superabundance of the riches of grace"
+        },
+        {
+          "line_number": 988,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Cyprian of Carthage (martyred AD 258) sees this passage as the basis of St. Paul's and"
+        },
+        {
+          "line_number": 988,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Cyprian of Carthage (martyred AD 258) sees this passage as the basis of St. Paul's and"
+        },
+        {
+          "line_number": 1021,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "This concept is recorded in [[DEU.32:35]], and is affirmed by St. Paul in [[ROM.12:19]]."
+        },
+        {
+          "line_number": 1021,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "This concept is recorded in [[DEU.32:35]], and is affirmed by St. Paul in [[ROM.12:19]]."
+        },
+        {
+          "line_number": 1347,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul writes, \"God loves a cheerful giver\" ([[2CO.9:7]]). The tithe is the giving of ten"
+        },
+        {
+          "line_number": 1347,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul writes, \"God loves a cheerful giver\" ([[2CO.9:7]]). The tithe is the giving of ten"
+        },
+        {
+          "line_number": 1550,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "so grief overpowers us, for some have even died from grief. Thus, St. Paul says we grieve, but not as those \"who have no hope\" ([[1TH.4:13]])."
+        },
+        {
+          "line_number": 1550,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "so grief overpowers us, for some have even died from grief. Thus, St. Paul says we grieve, but not as those \"who have no hope\" ([[1TH.4:13]])."
+        },
+        {
+          "line_number": 1583,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "This sounds like the biography of St. Paul."
+        },
+        {
+          "line_number": 1583,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "This sounds like the biography of St. Paul."
+        },
+        {
+          "line_number": 1641,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "30). St. Paul called the heavenly Jerusalem \"the mother of us all\" ([[GAL.4:26]])."
+        },
+        {
+          "line_number": 1641,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "30). St. Paul called the heavenly Jerusalem \"the mother of us all\" ([[GAL.4:26]])."
+        },
+        {
+          "line_number": 1718,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": ", 2 In according with this teaching, St. Paul wrote, \"I am not ashamed of the gospel of"
+        },
+        {
+          "line_number": 1718,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": ", 2 In according with this teaching, St. Paul wrote, \"I am not ashamed of the gospel of"
+        },
+        {
+          "line_number": 1777,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "It is likely St. Paul had this passage in mind when he wrote [[ROM.11:33]]-36."
+        },
+        {
+          "line_number": 1777,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "It is likely St. Paul had this passage in mind when he wrote [[ROM.11:33]]-36."
+        },
+        {
+          "line_number": 1834,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul makes a similar statement ([[COL.1:17]]). By the Living Word all things were"
+        },
+        {
+          "line_number": 1834,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul makes a similar statement ([[COL.1:17]]). By the Living Word all things were"
+        },
+        {
+          "line_number": 2338,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Apostle Peter",
+          "context": "(Ps 109:l). In quoting this the apostle Peter declared \"my Lord\" referred to Christ (Acts"
+        },
+        {
+          "line_number": 2338,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "(Ps 109:l). In quoting this the apostle Peter declared \"my Lord\" referred to Christ (Acts"
+        }
+      ],
+      "entity_counts": {
+        "JUDE_APOSTLE": 1,
+        "PAUL_APOSTLE": 30,
+        "PETER_APOSTLE": 4
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 26,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "He became incarnate for us men and for our salvation (Creed). \"Created\" refers to His"
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 26,
+          "snippet": "Creed"
+        }
+      ]
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 44,
+    "matched_entities": [
+      {
+        "line_number": 524,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "St. Cyprian",
+        "context": "the third-century treatise attributed to St. Cyprian entitled \"Exhortation to Repentance.\""
+      },
+      {
+        "line_number": 524,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "the third-century treatise attributed to St. Cyprian entitled \"Exhortation to Repentance.\""
+      },
+      {
+        "line_number": 532,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "of earthly praise to God. Augustine translated thanksgiving as \"confession.\""
+      },
+      {
+        "line_number": 553,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "impossible to enumerate them all or to plumb their depths. Augustine has a long and"
+      },
+      {
+        "line_number": 653,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "The martyr Cyprian (200-258), in a passage attributed to him calling this book by its"
+      },
+      {
+        "line_number": 657,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "Scripture. Many church fathers also quoted from Sirach. In his treatise, Cyprian quotes"
+      },
+      {
+        "line_number": 683,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "acquit me, it is written: 'By thy words thou shalt be condemned'\" (AmbM)."
+      },
+      {
+        "line_number": 792,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "St. John Chrysostom has a lengthy discourse on friendship in which he quotes from"
+      },
+      {
+        "line_number": 792,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "St. John Chrysostom has a lengthy discourse on friendship in which he quotes from"
+      },
+      {
+        "line_number": 792,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "St. John Chrysostom has a lengthy discourse on friendship in which he quotes from"
+      },
+      {
+        "line_number": 811,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "St. Ephraim",
+        "context": "It appears this prayer may have formed the basis for the Prayer of St. Ephraim the"
+      },
+      {
+        "line_number": 811,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "It appears this prayer may have formed the basis for the Prayer of St. Ephraim the"
+      },
+      {
+        "line_number": 855,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "(AmbM)."
+      },
+      {
+        "line_number": 898,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "of the Church, St. John Chrysostom, should say of v. 1: \"For there is no relationship"
+      },
+      {
+        "line_number": 898,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "of the Church, St. John Chrysostom, should say of v. 1: \"For there is no relationship"
+      },
+      {
+        "line_number": 898,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "of the Church, St. John Chrysostom, should say of v. 1: \"For there is no relationship"
+      },
+      {
+        "line_number": 960,
+        "entity": "CLEMENT_ROME",
+        "matched_alias": "Clement",
+        "context": "This passage warns of the sin of sexual promiscuity. Clement of Alexandria says of"
+      },
+      {
+        "line_number": 960,
+        "entity": "CLEMENT_ALEXANDRIA",
+        "matched_alias": "Clement of Alexandria",
+        "context": "This passage warns of the sin of sexual promiscuity. Clement of Alexandria says of"
+      },
+      {
+        "line_number": 964,
+        "entity": "CLEMENT_ALEXANDRIA",
+        "matched_alias": "ClemA",
+        "context": "than to commit adultery with the eyes\" (ClemA)."
+      },
+      {
+        "line_number": 988,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian of Carthage",
+        "context": "Cyprian of Carthage (martyred AD 258) sees this passage as the basis of St. Paul's and"
+      },
+      {
+        "line_number": 988,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "Cyprian of Carthage (martyred AD 258) sees this passage as the basis of St. Paul's and"
+      },
+      {
+        "line_number": 1060,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "carefully as silver and gold. Cyprian, apparently quoting the Vulgate, renders this verse"
+      },
+      {
+        "line_number": 1082,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "love one who loves us?\" (AmbM). Thus, we are urged to give our money to help a"
+      },
+      {
+        "line_number": 1141,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "than natural want of rest--the sleeplessness which comes of wealth\" (JohnChr)."
+      },
+      {
+        "line_number": 1158,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "than a man\" (AmbM)."
+      },
+      {
+        "line_number": 1349,
+        "entity": "IRENAEUS",
+        "matched_alias": "St. Irenaeus",
+        "context": "percent of our income. Is the tithe only for Israel? St. Irenaeus wrote in the second"
+      },
+      {
+        "line_number": 1349,
+        "entity": "IRENAEUS",
+        "matched_alias": "Irenaeus",
+        "context": "percent of our income. Is the tithe only for Israel? St. Irenaeus wrote in the second"
+      },
+      {
+        "line_number": 1355,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "other words, giving ten percent is minimal. St. John Chrysostom wrote in the fourth"
+      },
+      {
+        "line_number": 1355,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "other words, giving ten percent is minimal. St. John Chrysostom wrote in the fourth"
+      },
+      {
+        "line_number": 1355,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "other words, giving ten percent is minimal. St. John Chrysostom wrote in the fourth"
+      },
+      {
+        "line_number": 1410,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "of many biblical passages that explain how God has answered this prayer. Augustine said"
+      },
+      {
+        "line_number": 1993,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "Blessed Augustine, in an article entitled \"Why We Repudiate Arts of Divination,\""
+      },
+      {
+        "line_number": 2077,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "also called Ephraim. The Southern Kingdom was called Judah and included the tribe of"
+      },
+      {
+        "line_number": 2090,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah was a great prophet, a powerful man of faith and prayer. His great fault was"
+      },
+      {
+        "line_number": 2101,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "24). Note in that passage Elijah stretched himself upon the child three times, crying out"
+      },
+      {
+        "line_number": 2115,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "The kings anointed by Elijah were Hazael and Jehu (see 3Kg 19:15, 16). The only"
+      },
+      {
+        "line_number": 2117,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "prophet anointed by Elijah who is mentioned by name is Elisha. But since there were at"
+      },
+      {
+        "line_number": 2121,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Jezebel, it can be assumed that Elijah anointed several or all of them (see 3Kg 18:3, 4)."
+      },
+      {
+        "line_number": 2126,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Ben Sirach is saying that since Elijah did not die but was caught up into heaven by a"
+      },
+      {
+        "line_number": 2128,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "whirlwind, then all who fell asleep in the love of God since Elijah's time will yet live. As"
+      },
+      {
+        "line_number": 2137,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah was covered by the whirlwind: \"Was covered by\" also means \"was"
+      },
+      {
+        "line_number": 2218,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "doctrine of the resurrection. One could argue that Joseph's concern for the removal of his"
+      },
+      {
+        "line_number": 2299,
+        "entity": "PHOTINI_SAMARITAN",
+        "matched_alias": "St. Photini",
+        "context": "where Jesus encountered the woman at the well known to us as St. Photini (see [[JOH.4:1]]-"
+      },
+      {
+        "line_number": 2299,
+        "entity": "PHOTINI_SAMARITAN",
+        "matched_alias": "Photini",
+        "context": "where Jesus encountered the woman at the well known to us as St. Photini (see [[JOH.4:1]]-"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 4,
+      "AUGUSTINE_HIPPO": 4,
+      "CLEMENT_ALEXANDRIA": 2,
+      "CLEMENT_ROME": 1,
+      "CYPRIAN_CARTHAGE": 7,
+      "ELIJAH_PROPHET": 8,
+      "EPHRAIM_SYRIAN": 3,
+      "IRENAEUS": 2,
+      "JOHN_CHRYSOSTOM": 7,
+      "JOHN_THEOLOGIAN": 3,
+      "JOSEPH_BETROTHED": 1,
+      "PHOTINI_SAMARITAN": 2
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 683,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 855,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 964,
+        "snippet": "ClemA"
+      },
+      {
+        "line_number": 1082,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 1141,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1158,
+        "snippet": "AmbM"
+      }
+    ]
+  }
+}

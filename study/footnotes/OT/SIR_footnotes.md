@@ -27,15 +27,12 @@ He became incarnate for us men and for our salvation (Creed). "Created" refers t
 
 human nature which He assumed at His conception in the Ever-virgin Mary. "All things"
 
-refers to all creation, which Christ came to redeem along with the children of God (Rom
+refers to all creation, which Christ came to redeem along with the children of God
+([[ROM.8:19]]-23; [[EPH.1:10]]; [[COL.1:15]]-17). From eternity also shows that Christ is without
 
+beginning.
 
-### 8:21
-*(anchor: SIR.8:21)*
-
--23; [[EPH.1:10]]; [[COL.1:15]]-17). From eternity also shows that Christ is without
-
-beginning. 1:6
+1:6
 
 This verse is left out of some ancient manuscripts but included in others. It very
 
@@ -45,43 +42,66 @@ made a strong effort to purge the LXX of references that could be interpreted as
 
 to Christ as Messiah. This was done to stem the tide of Jewish conversions to
 
-Christianity, which had brought near total destruction to the Jewish nation. 1:7
+Christianity, which had brought near total destruction to the Jewish nation.
 
-Again, created wisdom refers to the Incarnation (see 1:4), while wisdom poured... out on all His works reminds us the Father created all things through His Son. 1:10-11 The fear of the Lord brings blessing both to life and to death. 1:12
+1:7
+
+Again, created wisdom refers to the Incarnation (see 1:4), while wisdom poured... out on all His works reminds us the Father created all things through His Son.
+
+1:10-11 The fear of the Lord brings blessing both to life and to death.
+
+1:12
 
 The capacity to fear the Lord and thus to believe in Him is joined with the infant
 
 in the womb. This would explain why the Lord Jesus Christ speaks of the special faith of
 
-nursing babes ([[LUK.18:15]]-17). 1:23-27
+nursing babes ([[LUK.18:15]]-17).
+
+1:23-27
 
 To gain wisdom we must be obedient to the commandments, maintain
 
-faithfulness and humility, and come to God with an undivided heart. 2:1
+faithfulness and humility, and come to God with an undivided heart.
 
-One who determines to serve the Lord will be tested and face temptation (see 1Co
+2:1
 
+One who determines to serve the Lord will be tested and face temptation (see
+[[1CO.10:13]]).
 
-### 10:13
-*(anchor: SIR.10:13)*
+Thus, we prepare our soul for this challenge to our fidelity.
 
-). Thus, we prepare our soul for this challenge to our fidelity. 2:12-14
+2:12-14
 
 Faintheartedness, the loss of endurance, and double-mindedness are forms of
 
-unbelief and bring great instability (see [[JAS.1:8]]). 3:1, 2 Ben Sirach implores children to listen to the wisdom of their father and mother. Verses 1-16 contain timeless counsel for children concerning their parents. 3:18
+unbelief and bring great instability (see [[JAS.1:8]]).
+
+3:1, 2 Ben Sirach implores children to listen to the wisdom of their father and mother. Verses 1-16 contain timeless counsel for children concerning their parents.
+
+3:18
 
 Humility is essential to true spiritual works and opens the door to God's
 
-immeasurable grace. 3:20-23 Ben Sirach's word on mental health. 3:24-27 A hard heart is a great spiritual danger, warned against in the OT and NT. There
+immeasurable grace.
 
-is no healing for the man afflicted by this disease (v. 26; see also [[MRK.8:17]]; [[HEB.4:7]]). 4:10
+3:20-23 Ben Sirach's word on mental health.
+
+3:24-27 A hard heart is a great spiritual danger, warned against in the OT and NT. There
+
+is no healing for the man afflicted by this disease (v. 26; see also [[MRK.8:17]]; [[HEB.4:7]]).
+
+4:10
 
 The care of the poor, the needy, and the orphan is nothing short of Christlike: you
 
-will be like a son of the Most High. 4:11-19 Gaining wisdom is not passive or automatic. Note the action verbs: seek (v. 11); loves (v. 12); come (v. 12); holds fast (v. 13); serve (v. 14); obeys (v. 15); gives heed
+will be like a son of the Most High.
 
-(v. 15); trusts (v. 16). 5:1-8
+4:11-19 Gaining wisdom is not passive or automatic. Note the action verbs: seek (v. 11); loves (v. 12); come (v. 12); holds fast (v. 13); serve (v. 14); obeys (v. 15); gives heed
+
+(v. 15); trusts (v. 16).
+
+5:1-8
 
 Looking to possessions and being independent from God is dangerous to one's
 
@@ -89,11 +109,15 @@ soul. To assume that God is unwilling or unable to deal with our sins and theref
 
 can escape the consequences of our deeds is also dangerous. Thus, Ben Sirach's
 
-exhortation: Do not delay to turn to the Lord (v. 7). 5:9-1
+exhortation: Do not delay to turn to the Lord (v. 7).
+
+5:9-1
 
 The double-tongued man is one who "talks out of both sides of his mouth" and
 
-brings shame and disgrace (6:1). 6:2-4 In ancient agrarian societies where fences were few, a young bull would be forced
+brings shame and disgrace (6:1).
+
+6:2-4 In ancient agrarian societies where fences were few, a young bull would be forced
 
 from his herd and would wander about looking for a herd where he was strong enough to
 
@@ -149,15 +173,21 @@ Ophir, likely in southwestern Arabia, was a famous source for gold in the ancien
 
 world. The queen at Christ's right hand ([[PSA.44:10]]), the Theotokos, is arrayed in gold from
 
-Ophir. 7:20-21 The wise employer places high value on a worker who is intelligent and devoted
+Ophir.
+
+7:20-21 The wise employer places high value on a worker who is intelligent and devoted
 
 to his job. In ancient times this meant repaying the servant with his freedom. In our
 
 times it means providing just compensation and job security. 7:22
 
-Because they are God's creation, we take care of animals we own. 7:24-25 The father arranged the marriage of his daughter, and until then he protected
+Because they are God's creation, we take care of animals we own.
 
-her chastity. 7:29-31 Love for God and honor for His priests go hand in hand. The OT laws required
+7:24-25 The father arranged the marriage of his daughter, and until then he protected
+
+her chastity.
+
+7:29-31 Love for God and honor for His priests go hand in hand. The OT laws required
 
 that part of each sacrifice to God be given to the priests for their support. Here, following
 
@@ -169,13 +199,23 @@ oblations and the firstfruits of the hands." Orthodox Christians would understan
 
 be the prosphora bread to be used in the Eucharist. 7:32
 
-God has always promised blessing to those who give to the poor. 8:1-3 The application for us is this: Only join battles worth winning. 8:6-9 Valuable counsel for our youth-oriented culture. 8:10 To kindle the coals is to arouse the passions. 8:17-19 Ben Sirach warns us not to reveal our thoughts to just anyone. In the Church, the
+God has always promised blessing to those who give to the poor.
+
+8:1-3 The application for us is this: Only join battles worth winning.
+
+8:6-9 Valuable counsel for our youth-oriented culture.
+
+8:10 To kindle the coals is to arouse the passions.
+
+8:17-19 Ben Sirach warns us not to reveal our thoughts to just anyone. In the Church, the
 
 priest vows that all confessions will be kept confidential. 9:1
 
 A warning against marrying a woman and then becoming jealous of her. Instead, love
 
-her and encourage her to use her gifts. 9:3-9 Up-to-date ancient advice on a man's behavior toward women. A courtesan (v. 3) is
+her and encourage her to use her gifts.
+
+9:3-9 Up-to-date ancient advice on a man's behavior toward women. A courtesan (v. 3) is
 
 a prostitute of noblemen. A wise man is not to gaze at a virgin (v. 5), that is, any young
 
@@ -187,7 +227,11 @@ woman belongs only to her husband (v. 8). It is especially important for a man t
 
 dining and drinking alone with a married woman lest they fall into sin and destruction
 
-(v. 9). 9:10 Loyalty to an old friend is a great virtue. A new friend cannot take his place. 9:15
+(v. 9).
+
+9:10 Loyalty to an old friend is a great virtue. A new friend cannot take his place.
+
+9:15
 
 The strongest friendships are based on a relationship with the Most High God! 10:4-5
 
@@ -2180,7 +2224,9 @@ bones from Egypt (v. 15) to the Promised Land connotes a hope for a future resur
 
 Simon II was high priest in about 220-196 BC and would have been known to Ben
 
-Sirach. 50:1-4 Simon supervised major renovations to the temple and the increase in height of
+Sirach.
+
+In 50:1-4 Simon supervised major renovations to the temple and the increase in height of
 
 the security wall surrounding it. Other important projects, such as building a huge water
 

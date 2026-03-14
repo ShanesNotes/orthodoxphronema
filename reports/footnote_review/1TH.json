@@ -1,0 +1,194 @@
+{
+  "book_code": "1TH",
+  "position": 62,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/1TH_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 27,
+      "auto_fixable": 0,
+      "review_needed": 27,
+      "files_checked": 1,
+      "lines_checked": 123,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 25,
+      "P7": 2
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "1TH",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/1TH_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/1TH_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/1TH.md",
+    "counts": {
+      "scripture_markers": 16,
+      "footnote_entries": 16,
+      "scripture_anchors": 89,
+      "valid_marker_anchors": 16,
+      "valid_note_anchors": 16
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 20,
+    "convertible_refs": 0,
+    "already_linked_refs": 20,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 1,
+      "unresolved_candidates": [
+        {
+          "line_number": 53,
+          "token": "IgnAnt",
+          "context": "their cruelty you be gentle, not eager to imitate them\" (IgnAnt). The joy of the Holy"
+        }
+      ],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 13,
+      "matched_entities": [
+        {
+          "line_number": 17,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "begun: name of sender(s), the addressee(s), the greeting itself. As with most of Paul's"
+        },
+        {
+          "line_number": 27,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "\"Eucharist.\" A spirit of thanksgiving constantly pervades the prayers of Paul, as here"
+        },
+        {
+          "line_number": 37,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Faith, hope, and love are three Christian virtues Paul links together in other letters"
+        },
+        {
+          "line_number": 75,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul defends his apostolic work, claiming he has served with courage (vv. 1, 2),"
+        },
+        {
+          "line_number": 91,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "2:4-6 Paul has been accused of seeking his own glory, but he knows God does not share"
+        },
+        {
+          "line_number": 107,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Note the three verbs Paul uses to describe his apostolic preaching to the"
+        },
+        {
+          "line_number": 113,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "2:14, 15 While the persecution in Thessalonica comes primarily from Greeks, Paul, a Jew,"
+        },
+        {
+          "line_number": 121,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "strong indictment. But Paul's love for the Jews never wavers. He wishes himself to be"
+        },
+        {
+          "line_number": 141,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "3:1-5 As healthy as the Thessalonian church is, Paul takes nothing for granted. Even wellgrounded, deeply committed Christians need constant encouragement, instruction, and"
+        },
+        {
+          "line_number": 165,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's goal here is for all Christians."
+        },
+        {
+          "line_number": 189,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "The bedrock practicality of the Scriptures: In Paul's time and ours, we are to live"
+        },
+        {
+          "line_number": 207,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "making their own predictions. Paul tells them, you have no need (v. 1) for that kind of"
+        },
+        {
+          "line_number": 253,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "In Paul's writings, words such as rejoice, always (v. 16), without ceasing or \"constantly\""
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 13
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 0,
+    "matched_entities": [],
+    "entity_counts": {},
+    "unresolved_candidates_count": 1,
+    "unresolved_candidates": [
+      {
+        "line_number": 53,
+        "token": "IgnAnt",
+        "context": "their cruelty you be gentle, not eager to imitate them\" (IgnAnt). The joy of the Holy"
+      }
+    ],
+    "explicit_citation_snippets": []
+  }
+}

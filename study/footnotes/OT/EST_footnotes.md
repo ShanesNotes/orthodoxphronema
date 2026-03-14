@@ -135,13 +135,9 @@ The month of Adar was eleven months away. Delays occur frequently in this book, 
 
 They disregard the king's laws: Haman's accusation against the Jews is the same
 
-as the authorities' accusation would be against Jesus ([[LUK.6:6]], [[LUK.6:7]]) and His followers (Acts
+as the authorities' accusation would be against Jesus ([[LUK.6:6]], [[LUK.6:7]]) and His followers ([[ACT.6:11]]-14).
 
-
-### 6:11
-*(anchor: EST.6:11)*
-
--14). 3:13a-13g
+3:13a-13g
 
 These verses do not occur in the Hebrew manuscripts, but only in the Greek
 
@@ -149,7 +145,9 @@ LXX, and are considered by many to be an addition to the Book of Esther. The dem
 
 pride of Haman is evident in the letter. As author of the letter (v. 12), Haman attempts
 
-to glorify himself in the name of the king, while slandering the people of God. 4:1-3 Mordecai is consistently seen by the fathers as a Christ-figure (see 8:12m, where he
+to glorify himself in the name of the king, while slandering the people of God.
+
+4:1-3 Mordecai is consistently seen by the fathers as a Christ-figure (see 8:12m, where he
 
 is referred to as "deliverer and constant benefactor" to the Jews). Consistent with this
 
@@ -179,7 +177,9 @@ to courageously discern the will of God for their particular moment in life in o
 
 fulfill God's plan. Note Mordecai's unswerving trust in God in spite of the seemingly
 
-hopeless circumstances. 4:15-17 Esther's fast and her courageous act of mercy for her people reveal her resolve and
+hopeless circumstances.
+
+4:15-17 Esther's fast and her courageous act of mercy for her people reveal her resolve and
 
 her character. This fast of Esther and the whole community marks the turning point in
 
@@ -235,7 +235,9 @@ serve her (1:9). 5:16
 
 The delay until tomorrow allows events to unfold in which the Lord will not only
 
-save the Jews, but will bring down Haman (see note at 3:7). 5:17-21 Haman's pride will not allow him to be content. His rage towards another person
+save the Jews, but will bring down Haman (see note at 3:7).
+
+5:17-21 Haman's pride will not allow him to be content. His rage towards another person
 
 prevents him from continuing in all the blessings from the king. 5:22
 
@@ -253,7 +255,9 @@ The Lord made it difficult for the king to sleep: The fathers understand this
 
 verse to show that it is the Lord who directs the plan of salvation, even through
 
-unbelievers. 6:6-9 Haman unwittingly defines the honor of his enemy. The honor of being clothed with
+unbelievers.
+
+6:6-9 Haman unwittingly defines the honor of his enemy. The honor of being clothed with
 
 the royal robe the king wears makes the recipient, Mordecai, share in the royalty of
 

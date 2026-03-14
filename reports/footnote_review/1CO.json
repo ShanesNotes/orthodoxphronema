@@ -1,0 +1,761 @@
+{
+  "book_code": "1CO",
+  "position": 56,
+  "testament": "NT",
+  "status": "complete",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/1CO_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 133,
+      "auto_fixable": 0,
+      "review_needed": 133,
+      "files_checked": 1,
+      "lines_checked": 621,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P4": 1,
+      "P6": 114,
+      "P7": 18
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "1CO",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/1CO_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/1CO_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/1CO.md",
+    "counts": {
+      "scripture_markers": 123,
+      "footnote_entries": 123,
+      "scripture_anchors": 436,
+      "valid_marker_anchors": 123,
+      "valid_note_anchors": 123
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 90,
+    "convertible_refs": 0,
+    "already_linked_refs": 90,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 19,
+      "matched_entities": [
+        {
+          "line_number": 169,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "them that perish not to recognize the things which lead to salvation\" (JohnChr). We who"
+        },
+        {
+          "line_number": 203,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "because of their great insignificance\" (JohnChr). There is no such thing as a \"no-account\""
+        },
+        {
+          "line_number": 635,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "wishes, but we must repress them, for we can\" (JohnChr)."
+        },
+        {
+          "line_number": 657,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "unprecedented in his era. Speaking of husband and wife, St. John Chrysostom teaches"
+        },
+        {
+          "line_number": 657,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "unprecedented in his era. Speaking of husband and wife, St. John Chrysostom teaches"
+        },
+        {
+          "line_number": 657,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "unprecedented in his era. Speaking of husband and wife, St. John Chrysostom teaches"
+        },
+        {
+          "line_number": 1093,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "(BasilG)."
+        },
+        {
+          "line_number": 1147,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "St. Basil the Great",
+          "context": "St. Basil the Great teaches there are three reasons, all biblical and all God-given, that"
+        },
+        {
+          "line_number": 1147,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "St. Basil",
+          "context": "St. Basil the Great teaches there are three reasons, all biblical and all God-given, that"
+        },
+        {
+          "line_number": 1147,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "Basil",
+          "context": "St. Basil the Great teaches there are three reasons, all biblical and all God-given, that"
+        },
+        {
+          "line_number": 1201,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "everything\" (JohnChr), does not wear out ([[GAL.6:9]]); (16) it never fails. The only thing"
+        },
+        {
+          "line_number": 1227,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "We are to desire or want the gifts of the Spirit, but pursue the love of God. St. John"
+        },
+        {
+          "line_number": 1229,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Chrysostom notes the difference. \"Chase\" love, he writes. \"Make every effort\" to retain"
+        },
+        {
+          "line_number": 1253,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "to understand (vv. 11, 14). St. John Chrysostom concludes that tongues are \"neither"
+        },
+        {
+          "line_number": 1253,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "to understand (vv. 11, 14). St. John Chrysostom concludes that tongues are \"neither"
+        },
+        {
+          "line_number": 1253,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "to understand (vv. 11, 14). St. John Chrysostom concludes that tongues are \"neither"
+        },
+        {
+          "line_number": 1389,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "vicarious baptism of baptized Christians for deceased catechumens. St. John Chrysostom"
+        },
+        {
+          "line_number": 1389,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "vicarious baptism of baptized Christians for deceased catechumens. St. John Chrysostom"
+        },
+        {
+          "line_number": 1389,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "vicarious baptism of baptized Christians for deceased catechumens. St. John Chrysostom"
+        }
+      ],
+      "entity_counts": {
+        "BASIL_GREAT": 4,
+        "JOHN_CHRYSOSTOM": 11,
+        "JOHN_THEOLOGIAN": 4
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 169,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 203,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 635,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1093,
+          "snippet": "BasilG"
+        },
+        {
+          "line_number": 1201,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 59,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Since Paul is called to be an apostle by the will of God, men cannot remove him as"
+        },
+        {
+          "line_number": 67,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "point in Paul's teaching, for then our salvation will be clearly revealed and fully known."
+        },
+        {
+          "line_number": 69,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "1:4-9 Though he will later rebuke this church severely, Paul's assurance concerning their"
+        },
+        {
+          "line_number": 79,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Here for the first time Paul rebukes the Corinthians, pleading with them in the name"
+        },
+        {
+          "line_number": 89,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "who faithfully reported these contentions to Paul."
+        },
+        {
+          "line_number": 101,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "where some saw him as a rival to Paul. Tradition tells us Apollos became the first bishop"
+        },
+        {
+          "line_number": 103,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "of Crete (see [[TIT.3:13]]). Paul makes it plain that he and Apollos are partners in apostolic"
+        },
+        {
+          "line_number": 133,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "through the preaching of Paul, then baptized, he was apparently succeeded as ruler by"
+        },
+        {
+          "line_number": 135,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Sosthenes ([[ACT.18:17]]). Gaius was a resident of Corinth with whom Paul was staying"
+        },
+        {
+          "line_number": 145,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's denial does not degrade baptism; he is simply emphasizing that baptizing is"
+        },
+        {
+          "line_number": 147,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "not his primary role. As an apostle, Paul's primary job is to preach the gospel (v. 17),"
+        },
+        {
+          "line_number": 173,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "did once even Paul himself. Being saved, present tense, refers to the process by which"
+        },
+        {
+          "line_number": 247,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul seems to have collected phrases from several passages (Is 52:15; 64:3; 65:17; Jer"
+        },
+        {
+          "line_number": 259,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's threefold classification of humanity:"
+        },
+        {
+          "line_number": 399,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul as an unfaithful steward; some denied his apostolic authority (see Introduction to 2"
+        },
+        {
+          "line_number": 401,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Corinthians). For Paul it is improper for them, or even for himself, to prejudge his life, for"
+        },
+        {
+          "line_number": 409,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "In the expression, beyond what is written, most likely Paul refers to the whole OT,"
+        },
+        {
+          "line_number": 421,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul directs a series of sharp questions to the Corinthians to deflate their pride."
+        },
+        {
+          "line_number": 429,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Irony and sarcasm are bitter medicine, and Paul uses them here (vv. 8-13) with full"
+        },
+        {
+          "line_number": 453,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul soothes the soreness of his rebuke by reminding them of his fatherhood (see"
+        },
+        {
+          "line_number": 465,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul will soon visit Corinth and face those who prejudge him to see if any power"
+        },
+        {
+          "line_number": 497,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "My spirit (Gr. pneuma) is Paul's human spirit, which is being sanctified by the Holy"
+        },
+        {
+          "line_number": 513,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "v. 3). Paul is calling for the destruction not of the body but rather of the lusts of the"
+        },
+        {
+          "line_number": 537,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "My epistle to which Paul refers is apparently lost. There is evidence Paul wrote letters"
+        },
+        {
+          "line_number": 553,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Before the unrighteous refers to judges of secular courts at Corinth. Paul asks, why"
+        },
+        {
+          "line_number": 565,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "share in His authority to judge (see [[MAT.19:28]]; [[JOH.5:22]], [[JOH.5:27]]; [[2PE.2:4]]; Jude 6; [[REV.20:4]]). This"
+        },
+        {
+          "line_number": 601,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "All things are lawful for me may be a statement Paul made in Corinth sometime"
+        },
+        {
+          "line_number": 617,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "life. Paul contends the body belongs to God, and everything is relevant to the spiritual"
+        },
+        {
+          "line_number": 629,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "When Paul calls our bodies members of Christ (see 12:12; [[ROM.6:13]]; 12:4, 5), he is"
+        },
+        {
+          "line_number": 647,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's personal preference is for celibacy, but he knows this is a \"gift from God\" (v. 7)"
+        },
+        {
+          "line_number": 655,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "The mutuality of marriage, the equality of commitment, that Paul enjoins here is"
+        },
+        {
+          "line_number": 687,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "last measure, a great calamity. Paul forbids remarriage while the first spouse is still living"
+        },
+        {
+          "line_number": 713,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "out and get married or divorced (vv. 25-28)--though Paul's counsel is a preferred option,"
+        },
+        {
+          "line_number": 723,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "the glorious coming of Christ, which Paul perceived as imminent (vv. 29-33)."
+        },
+        {
+          "line_number": 729,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul expects an imminent end of this age. The time is short; it is better to"
+        },
+        {
+          "line_number": 747,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Though Paul once again recommends the unmarried state, he affirms the holiness"
+        },
+        {
+          "line_number": 765,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "the Christians believed an idol is nothing. Paul answers they are correct in principle (v."
+        },
+        {
+          "line_number": 769,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "fellow Christians compels Paul not to eat such meat (v. 13)."
+        },
+        {
+          "line_number": 783,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's apostleship is under attack; in this chapter he defends it."
+        },
+        {
+          "line_number": 797,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "to this under the Old Covenant (vv. 8, 9), and Paul implies that most Christian pastors are"
+        },
+        {
+          "line_number": 807,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "26, 27), Paul shows the proper use of ascetic practices in the life of faith. They are"
+        },
+        {
+          "line_number": 819,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul often uses I do not want you to be unaware or a similar formula (Rom"
+        },
+        {
+          "line_number": 913,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "individual (v. 33). A right is never inalienable if it alienates us from others. Note that Paul"
+        },
+        {
+          "line_number": 927,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "what has been delivered--God-given oral tradition, from which Paul taught. He makes no"
+        },
+        {
+          "line_number": 939,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "haireseis) are contrary to the Church, which is one and indivisible. Paul finds only one"
+        },
+        {
+          "line_number": 951,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "2:13; Jude 12), was intended to build and unify the community in Christ. It gave the rich"
+        },
+        {
+          "line_number": 1105,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul here moves from the gifts in the Church to the members of the one body"
+        },
+        {
+          "line_number": 1155,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "church preoccupied with tongues, Paul teaches the ultimate gift: love."
+        },
+        {
+          "line_number": 1279,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "lips. Paul is here guiding a church that is severely out of balance. God is not the author"
+        },
+        {
+          "line_number": 1303,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "One can picture Paul as he writes thinking back over his hard sayings in chs. 12-14."
+        },
+        {
+          "line_number": 1311,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul delivered an apostolic tradition of Christ's Resurrection which is unchanging"
+        },
+        {
+          "line_number": 1313,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "and sufficient for salvation (v. 2). How had Paul received his gospel? By direct"
+        },
+        {
+          "line_number": 1319,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "where; in Paul's mind, his gospel forms a seamless whole. \"To receive\" designates the"
+        },
+        {
+          "line_number": 1331,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul lists those who would testify to the truth of the Resurrection, from the first"
+        },
+        {
+          "line_number": 1333,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "witnesses to Paul himself."
+        },
+        {
+          "line_number": 1409,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "How will the dead rise? What is the resurrection body like? Paul's most basic"
+        },
+        {
+          "line_number": 1477,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "These men apparently were the carriers of the letter Paul answers in chs. 7-15"
+        },
+        {
+          "line_number": 1479,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "(7:1). Paul's displeasure with Corinth does not affect his joy for certain Corinthians."
+        },
+        {
+          "line_number": 1495,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul often dictated his letters to a secretary. The proof that he composed this letter"
+        }
+      ],
+      "entity_counts": {
+        "JUDE_APOSTLE": 2,
+        "PAUL_APOSTLE": 57
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 3,
+      "matched_entities": [
+        {
+          "line_number": 1067,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Nicene Creed",
+          "context": "Lord. Every time we say the Nicene Creed sincerely at the Divine Liturgy, for example,"
+        },
+        {
+          "line_number": 1067,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Lord. Every time we say the Nicene Creed sincerely at the Divine Liturgy, for example,"
+        },
+        {
+          "line_number": 1323,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "15:3-4 This concise statement of the gospel is probably part of an early creed or catechism."
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 3
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 19,
+    "matched_entities": [
+      {
+        "line_number": 169,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "them that perish not to recognize the things which lead to salvation\" (JohnChr). We who"
+      },
+      {
+        "line_number": 203,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "because of their great insignificance\" (JohnChr). There is no such thing as a \"no-account\""
+      },
+      {
+        "line_number": 635,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "wishes, but we must repress them, for we can\" (JohnChr)."
+      },
+      {
+        "line_number": 657,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "unprecedented in his era. Speaking of husband and wife, St. John Chrysostom teaches"
+      },
+      {
+        "line_number": 657,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "unprecedented in his era. Speaking of husband and wife, St. John Chrysostom teaches"
+      },
+      {
+        "line_number": 657,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "unprecedented in his era. Speaking of husband and wife, St. John Chrysostom teaches"
+      },
+      {
+        "line_number": 1093,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "(BasilG)."
+      },
+      {
+        "line_number": 1147,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "St. Basil the Great",
+        "context": "St. Basil the Great teaches there are three reasons, all biblical and all God-given, that"
+      },
+      {
+        "line_number": 1147,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "St. Basil",
+        "context": "St. Basil the Great teaches there are three reasons, all biblical and all God-given, that"
+      },
+      {
+        "line_number": 1147,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "Basil",
+        "context": "St. Basil the Great teaches there are three reasons, all biblical and all God-given, that"
+      },
+      {
+        "line_number": 1201,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "everything\" (JohnChr), does not wear out ([[GAL.6:9]]); (16) it never fails. The only thing"
+      },
+      {
+        "line_number": 1227,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "We are to desire or want the gifts of the Spirit, but pursue the love of God. St. John"
+      },
+      {
+        "line_number": 1229,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Chrysostom notes the difference. \"Chase\" love, he writes. \"Make every effort\" to retain"
+      },
+      {
+        "line_number": 1253,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "to understand (vv. 11, 14). St. John Chrysostom concludes that tongues are \"neither"
+      },
+      {
+        "line_number": 1253,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "to understand (vv. 11, 14). St. John Chrysostom concludes that tongues are \"neither"
+      },
+      {
+        "line_number": 1253,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "to understand (vv. 11, 14). St. John Chrysostom concludes that tongues are \"neither"
+      },
+      {
+        "line_number": 1389,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "vicarious baptism of baptized Christians for deceased catechumens. St. John Chrysostom"
+      },
+      {
+        "line_number": 1389,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "vicarious baptism of baptized Christians for deceased catechumens. St. John Chrysostom"
+      },
+      {
+        "line_number": 1389,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "vicarious baptism of baptized Christians for deceased catechumens. St. John Chrysostom"
+      }
+    ],
+    "entity_counts": {
+      "BASIL_GREAT": 4,
+      "JOHN_CHRYSOSTOM": 11,
+      "JOHN_THEOLOGIAN": 4
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 169,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 203,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 635,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1093,
+        "snippet": "BasilG"
+      },
+      {
+        "line_number": 1201,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

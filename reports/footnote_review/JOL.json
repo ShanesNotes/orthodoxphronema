@@ -1,0 +1,215 @@
+{
+  "book_code": "JOL",
+  "position": 34,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/JOL_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": false,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 56,
+      "auto_fixable": 0,
+      "review_needed": 56,
+      "files_checked": 1,
+      "lines_checked": 183,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 54,
+      "P7": 2
+    }
+  },
+  "structure": {
+    "issue_count": 4,
+    "findings": [
+      {
+        "type": "midline_reference_spill",
+        "line_number": 266,
+        "raw_text": "altar have been united. Christ's death brings life to us. 2:17-18 These two verses form the center of the book. The passage summarizes all that has"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 303,
+        "raw_text": "are fulfilled ultimately in Christ, the sacramental life of the Church, and Pentecost. 2:22-24 The trees bear their fruit: In this verse Joel foreshadows the cross of Christ, the tree which bore the greatest fruit of all. The vine and the fig tree refer to the"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 341,
+        "raw_text": "exile in Babylon. The Hebrew version does not mention the exile. 4:2 The judgment of all nations can be understood in one or more of three different ways. It may, on the one hand, refer to the attempted siege of Jerusalem during the building of"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 385,
+        "raw_text": "evil in the nations (see [[REV.14:17]]-20). 4:16-17 The language used by Joel is reminiscent of descriptions of the last days found in"
+      }
+    ],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "JOL",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/JOL_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/JOL_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/JOL.md",
+    "counts": {
+      "scripture_markers": 23,
+      "footnote_entries": 23,
+      "scripture_anchors": 11,
+      "valid_marker_anchors": 23,
+      "valid_note_anchors": 23
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "JOL.1:11",
+      "JOL.1:12",
+      "JOL.1:13",
+      "JOL.1:14",
+      "JOL.1:15",
+      "JOL.1:19",
+      "JOL.1:2",
+      "JOL.1:20",
+      "JOL.1:4",
+      "JOL.1:6",
+      "JOL.1:8",
+      "JOL.1:9",
+      "JOL.2:12",
+      "JOL.2:17",
+      "JOL.2:20",
+      "JOL.2:22",
+      "JOL.2:4",
+      "JOL.3:5"
+    ],
+    "note_anchor_gaps": [
+      "JOL.1:11",
+      "JOL.1:12",
+      "JOL.1:13",
+      "JOL.1:14",
+      "JOL.1:15",
+      "JOL.1:19",
+      "JOL.1:2",
+      "JOL.1:20",
+      "JOL.1:4",
+      "JOL.1:6",
+      "JOL.1:8",
+      "JOL.1:9",
+      "JOL.2:12",
+      "JOL.2:17",
+      "JOL.2:20",
+      "JOL.2:22",
+      "JOL.2:4",
+      "JOL.3:5"
+    ],
+    "issue_count": 36
+  },
+  "wikilinks": {
+    "total_refs": 19,
+    "convertible_refs": 0,
+    "already_linked_refs": 19,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 3,
+      "matched_entities": [
+        {
+          "line_number": 37,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "meanings of these names are ambiguous, although Jerome understood Joel to mean"
+        },
+        {
+          "line_number": 78,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "against the land. While Ephraim of Syria saw this as a reference to four different"
+        },
+        {
+          "line_number": 231,
+          "entity": "CYRIL_JERUSALEM",
+          "matched_alias": "St. Cyril",
+          "context": "St. Cyril notes that nothing was more warlike than the fully equipped horse, which"
+        }
+      ],
+      "entity_counts": {
+        "CYRIL_JERUSALEM": 1,
+        "EPHRAIM_SYRIAN": 1,
+        "JEROME": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 312,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "When Peter quotes this verse, he changes after this to \"in the last days\" ([[ACT.2:17]]), one of several modest modifications of the verse. Peter's adaptation of Joel indicates that"
+        }
+      ],
+      "entity_counts": {
+        "PETER_APOSTLE": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 3,
+    "matched_entities": [
+      {
+        "line_number": 37,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "meanings of these names are ambiguous, although Jerome understood Joel to mean"
+      },
+      {
+        "line_number": 78,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "against the land. While Ephraim of Syria saw this as a reference to four different"
+      },
+      {
+        "line_number": 231,
+        "entity": "CYRIL_JERUSALEM",
+        "matched_alias": "St. Cyril",
+        "context": "St. Cyril notes that nothing was more warlike than the fully equipped horse, which"
+      }
+    ],
+    "entity_counts": {
+      "CYRIL_JERUSALEM": 1,
+      "EPHRAIM_SYRIAN": 1,
+      "JEROME": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

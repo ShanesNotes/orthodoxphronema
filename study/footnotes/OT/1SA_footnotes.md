@@ -521,7 +521,9 @@ person, and He will judge not only our deeds, but even our words and thoughts.
 ### 17:4
 *(anchor: 1SA.17:4)*
 
-Goliath is over nine feet tall. 17:4-33 This familiar story reminds us of the courage in men's hearts when their faith is
+Goliath is over nine feet tall.
+
+17:4-33 This familiar story reminds us of the courage in men's hearts when their faith is
 
 placed completely in God. Goliath taunts David, but David's faith becomes evident when
 

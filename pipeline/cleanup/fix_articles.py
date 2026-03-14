@@ -1,4 +1,8 @@
 """
+DEPRECATED: This script is superseded by skills/text-cleaner (D1/D2 detection).
+Archived copy at pipeline/archive/historical_cleanup/fix_articles.py.
+Kept in place for backward compatibility with existing test imports.
+
 fix_articles.py — Detect and fix fused article compounds in staged canon files.
 
 Finds patterns like "aman" → "a man", "anoffering" → "an offering",

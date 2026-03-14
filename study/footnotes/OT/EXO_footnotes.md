@@ -685,7 +685,7 @@ Moses accomplished what he did through prayer and as a servant of Christ, but
 
 Christ Himself walked on the Sea of Galilee by His own absolute power ([[MAT.14:25]]). Job
 
-9:8 prophesied of Christ, "who walks on the sea as on firm ground" (JohnChr). 
+[[JOB.9:8]] prophesied of Christ, "who walks on the sea as on firm ground" (JohnChr). 
 
 ### 14:22
 *(anchor: EXO.14:22)*

@@ -1,0 +1,122 @@
+{
+  "book_code": "RUT",
+  "position": 8,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/RUT_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 46,
+      "auto_fixable": 0,
+      "review_needed": 46,
+      "files_checked": 1,
+      "lines_checked": 103,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 46
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "RUT",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/RUT_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/RUT_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/RUT.md",
+    "counts": {
+      "scripture_markers": 22,
+      "footnote_entries": 22,
+      "scripture_anchors": 39,
+      "valid_marker_anchors": 22,
+      "valid_note_anchors": 22
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "RUT.1:12",
+      "RUT.1:19",
+      "RUT.1:6",
+      "RUT.2:15",
+      "RUT.2:2",
+      "RUT.3:12",
+      "RUT.3:3",
+      "RUT.3:4",
+      "RUT.3:9",
+      "RUT.4:15"
+    ],
+    "note_anchor_gaps": [
+      "RUT.1:12",
+      "RUT.1:19",
+      "RUT.1:6",
+      "RUT.2:15",
+      "RUT.2:2",
+      "RUT.3:12",
+      "RUT.3:3",
+      "RUT.3:4",
+      "RUT.3:9",
+      "RUT.4:15"
+    ],
+    "issue_count": 20
+  },
+  "wikilinks": {
+    "total_refs": 18,
+    "convertible_refs": 0,
+    "already_linked_refs": 18,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 0,
+    "matched_entities": [],
+    "entity_counts": {},
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

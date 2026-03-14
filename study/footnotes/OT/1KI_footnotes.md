@@ -30,11 +30,15 @@ the contrary, He said, "This is My beloved Son, in whom I am well pleased" ([[MA
 
 Christ, we should humble ourselves before our God and King. If we do, He will "exalt us
 
-in due time" ([[1PE.5:6]]). 1:11 3Kingd 1:11, 14, 22: Once again, Nathan the prophet speaks the truth to the house of
+in due time" ([[1PE.5:6]]).
+
+1:11 3Kingd 1:11, 14, 22: Once again, Nathan the prophet speaks the truth to the house of
 
 David (see 2Kg 12:1-15). Sometimes "speaking the truth in love" ([[EPH.4:15]]) costs a
 
-friendship, but for Nathan it cemented a lifelong relationship with the king. 1:15-21 Bathsheba bowed to her husband the king. A beautiful insight into respect for
+friendship, but for Nathan it cemented a lifelong relationship with the king.
+
+1:15-21 Bathsheba bowed to her husband the king. A beautiful insight into respect for
 
 authority. Rather than coming with demands, she simply reviewed what the king had
 
@@ -46,7 +50,9 @@ The "reign" of Adonijah was short-lived. Not only did his guests head home, so d
 
 he (v. 53). Indeed, self-exaltation is short-lived, for "whoever exalts himself will be
 
-humbled, and he who humbles himself will be exalted" ([[MAT.23:12]]). 2:3-4 The continual reign of kings in Israel was conditional on their obedience to the Law
+humbled, and he who humbles himself will be exalted" ([[MAT.23:12]]).
+
+2:3-4 The continual reign of kings in Israel was conditional on their obedience to the Law
 
 of Moses. Disobedience would eventually lead to the collapse of the kingly throne when
 
@@ -110,13 +116,19 @@ outside the Church, and their destiny is to lapse into error. 3:4
 
 The Lord who appeared to Solomon was the Son of God, for He is the Word of
 
-God the Father. 3:9-13 Solomon did not ask for long life, or riches, or the life of his enemies, for such
+God the Father.
+
+3:9-13 Solomon did not ask for long life, or riches, or the life of his enemies, for such
 
 things are of this world; therefore, God readily heard his prayer (JohnChr). Rather, he
 
 asked for virtues such as understanding and judgment, which belong to the crown of
 
-the virtues. These virtues enable one to "discern both good and evil" ([[HEB.5:13]], [[HEB.5:14]]). 3:27 Wisdom and justice go together, for there cannot be one without the other (AmbM). 5:11
+the virtues. These virtues enable one to "discern both good and evil" ([[HEB.5:13]], [[HEB.5:14]]).
+
+3:27 Wisdom and justice go together, for there cannot be one without the other (AmbM).
+
+5:11
 
 The Mosaic Law commanded the sons of Israel not to marry foreign women (Ex
 
@@ -184,7 +196,9 @@ Spirit. In this conception, He took His life-giving flesh from her. His holy fle
 
 are united to His life-giving flesh in His death and Resurrection, and in the Eucharist we
 
-partake of His life-giving body and blood. 8:1 3Kingd 8:1, 3-7, 9-11: This passage is read on November 20 at Vespers for the Feast of
+partake of His life-giving body and blood.
+
+8:1 3Kingd 8:1, 3-7, 9-11: This passage is read on November 20 at Vespers for the Feast of
 
 the Entrance of the Theotokos into the Temple. 8:20-52
 
@@ -198,7 +212,9 @@ the negative only in relation to temples made with hands. However, the positive 
 
 relates to the Incarnation, for God the Son was made flesh for our salvation: "The Word
 
-became flesh and dwelt among us" ([[JOH.1:14]]). 8:39-41 Does God hear the prayer of those not of His people when they come and pray in
+became flesh and dwelt among us" ([[JOH.1:14]]).
+
+8:39-41 Does God hear the prayer of those not of His people when they come and pray in
 
 the temple? The answer is clear here, as it is in [[ACT.10:2]]-4, when the Lord hears the
 
@@ -212,7 +228,9 @@ The temple, open for worship, found the people eating, drinking, and rejoicing
 
 before the Lord. After the day of Pentecost, the people were again "in the temple,"
 
-eating their food "with gladness and simplicity of heart" ([[ACT.2:46]]). 9:1-9 The Lord who appeared to Solomon was the Son and Word of God. This was His
+eating their food "with gladness and simplicity of heart" ([[ACT.2:46]]).
+
+9:1-9 The Lord who appeared to Solomon was the Son and Word of God. This was His
 
 second appearance to him. (The first appearance was in 3:4-13.) In this second
 
@@ -226,7 +244,9 @@ cast from My sight this house (v. 7). While we come "boldly to the throne of gra
 
 ([[HEB.4:16]]), we also confess, "It is a fearful thing to fall into the hands of the living God"
 
-([[HEB.10:31]]). When we proclaim God's promises, we must also proclaim His warnings. 10:1-13 The coming of the queen of Sheba is a pinnacle for the children of Israel as the
+([[HEB.10:31]]). When we proclaim God's promises, we must also proclaim His warnings.
+
+10:1-13 The coming of the queen of Sheba is a pinnacle for the children of Israel as the
 
 chosen people of God. This account illustrates perfectly what God had intended for Israel: to be a shining light among the nations, to draw all the surrounding heathen nations to
 
@@ -254,7 +274,9 @@ to intermarry with foreign women ([[EXO.34:16]]; [[DEU.7:1]]-4) for just the rea
 
 Solomon: he turned after their idols. At the height of his reign, he fell into evil in the
 
-sight of the Lord (v. 7). 11:10-12 In His displeasure, the Lord divided the kingdom, leaving Solomon with one
+sight of the Lord (v. 7).
+
+11:10-12 In His displeasure, the Lord divided the kingdom, leaving Solomon with one
 
 tribe, Judah, later joined by Benjamin. These two tribes were commonly called the south
 
@@ -262,7 +284,9 @@ or southern kingdom. 11:13
 
 Two old enemies of Israel, Hadad of Edom and Rezon of Damascus, rose up
 
-against Solomon. 11:27-29 The prophet Ahijah tore his garment into twelve pieces for the twelve tribes
+against Solomon.
+
+11:27-29 The prophet Ahijah tore his garment into twelve pieces for the twelve tribes
 
 of Israel. Jeroboam would receive ten (the northern kingdom). Rehoboam, Solomon's
 
@@ -322,7 +346,9 @@ and night in the Lord's commandments, and let us keep them so as to prosper (Ps 
 
 Jeroboam humbled himself before the man of God and begged him to intercede
 
-before the Lord on his behalf. So the Lord honored his humility and restored his hand. Salvation begins and ends with humility (JohnChr), but Jeroboam's humility was shortlived; for he failed to worship the very Lord who showed him such mercy. 13:7-25 The man of God could not be enticed by the king's reward, because the Lord's
+before the Lord on his behalf. So the Lord honored his humility and restored his hand. Salvation begins and ends with humility (JohnChr), but Jeroboam's humility was shortlived; for he failed to worship the very Lord who showed him such mercy.
+
+13:7-25 The man of God could not be enticed by the king's reward, because the Lord's
 
 commandment was clear that he was not to dine in that place, nor return the way he
 
@@ -340,7 +366,9 @@ The Lord chose to place His name in the city of Jerusalem (see also 8:14, 42; 11
 
 there in the Church was that of the Father and the Son and the Holy Spirit, the name into
 
-which we are baptized ([[MAT.28:18]]-20). 14:2-4 Rehoboam and other kings like him in Judah and in Israel built other places of
+which we are baptized ([[MAT.28:18]]-20).
+
+14:2-4 Rehoboam and other kings like him in Judah and in Israel built other places of
 
 worship because they did not respect the Lord's name, which He established in
 
@@ -356,9 +384,13 @@ characterized by repentance when he sinned (Ps 50), and because he did everythin
 
 Lord commanded him (v. 5). However, Abijam's heart was not perfect toward the Lord
 
-his God because he was neither repentant toward Him nor obedient to Him. 15:28
+his God because he was neither repentant toward Him nor obedient to Him.
 
-The Lord who spoke by His servant Ahijah the Shilonite is the Holy Spirit. 16:7 3Kingd 16:7, 12, 42: The Lord who spoke by the prophets Jehu and Joshua is again
+15:28
+
+The Lord who spoke by His servant Ahijah the Shilonite is the Holy Spirit.
+
+16:7 3Kingd 16:7, 12, 42: The Lord who spoke by the prophets Jehu and Joshua is again
 
 the Holy Spirit. 16:24
 
@@ -392,9 +424,13 @@ the Mount of Transfiguration ([[MAT.17:4]]). 17:10-11
 
 Elijah was very poor, but he made others rich, "for it is better to be rich for
 
-others than for oneself" (AmbM). While Elijah became poor to make the widow rich, Jesus became poor for the sake of many ([[2CO.8:9]]). 17:12-13 The woman was threatened not only by poverty but by death itself, not only for
+others than for oneself" (AmbM). While Elijah became poor to make the widow rich, Jesus became poor for the sake of many ([[2CO.8:9]]).
 
-herself but also for her son. But her faith in the Lord would overcome both (JohnChr). 17:14-16 The woman was greater in hospitality than Father Abraham. For he ran to his
+17:12-13 The woman was threatened not only by poverty but by death itself, not only for
+
+herself but also for her son. But her faith in the Lord would overcome both (JohnChr).
+
+17:14-16 The woman was greater in hospitality than Father Abraham. For he ran to his
 
 herd to fetch a calf and provided from his wealth. But this woman had nowhere to run to
 
@@ -420,7 +456,9 @@ three is a sacred number. It points to the Blessed and Holy Trinity and to the d
 
 Son, and of the Holy Spirit, and we are united to Christ in His death, burial and
 
-Resurrection. 18:1-12 The word is the Son of God, and the Spirit is the Holy Spirit. The Lord (v. 12) is
+Resurrection.
+
+18:1-12 The word is the Son of God, and the Spirit is the Holy Spirit. The Lord (v. 12) is
 
 the Father, for the Word is the Word of the Father, and the Spirit is the Spirit of the
 
@@ -432,7 +470,9 @@ So Elijah went, for he obeyed the Word and Son of God. Also after "the Word
 
 became flesh" ([[JOH.1:14]]), Elijah appeared with Him on the Mount of Transfiguration (Mt
 
-17:3). 18:3-12 The beginning point of wisdom in any person is the fear of the Lord ([[PSA.110:10]]; Pr
+17:3).
+
+18:3-12 The beginning point of wisdom in any person is the fear of the Lord ([[PSA.110:10]]; Pr
 
 1:7). Obadiah feared the Lord from his youth, and he learned to fear the Lord greatly. Thus, he was well experienced in the Lord, and he feared the Lord more than he feared
 
@@ -461,6 +501,9 @@ greater than Ahab, namely, "the Lord of hosts." "For he was always eager to make
 fit to appear before God with a pure heart, and to submit to His will, and His will alone"
 
 (AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him. Their courage is one of the four general virtues that produce all the other virtues. 18:17-18
+(AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him. Their courage is one of the four general virtues that produce all the other virtues.
+
+18:17-18
 
 Elijah and Ahab obviously present two contradictory judgments. Which one
 
@@ -468,7 +511,10 @@ was actually troubling Israel? It was time to settle things. For which is the tr
 
 the eyes of Israel, the Lord or Baal? Was Elijah the true prophet, or were the 850
 
-prophets of Baal? The answers would soon become evident (vv. 20-40). 18:19-20 The 450 prophets were called prophets of shame because of their anger and
+prophets of Baal? The answers would soon become evident (vv. 20-40).
+prophets of Baal? The answers would soon become evident (vv. 20-40).
+
+18:19-20 The 450 prophets were called prophets of shame because of their anger and
 
 wrath. For their worship was filled with passion (v. 28). But Elijah was free from this
 
@@ -514,7 +560,9 @@ The children of Israel forsook the Lord because an angry and wrathful temper
 
 took hold of them, for God cannot be known in that kind of disposition. He can only be
 
-known in and through the virtues, such as gentleness. 19:11-12 The Holy Spirit (a great and powerful wind) manifests His grace in a variety
+known in and through the virtues, such as gentleness.
+
+19:11-12 The Holy Spirit (a great and powerful wind) manifests His grace in a variety
 
 of ways in prayer. In some He "rends the mountains" of sinful passions and "shatters the
 

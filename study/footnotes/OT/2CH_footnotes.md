@@ -64,7 +64,9 @@ things of heaven are more clearly depicted. Until Christ comes again, icons will
 
 worship as windows into heaven, for as St. Paul writes, "For now we see in a mirror, dimly, but then face to face" ([[1CO.13:12]]). 3:8
 
-Christ will fulfill the most holy place when He brings earth to heaven. 4:2-6 Christ, who is called the "lily of the valleys" (v. 5; SS 2:1), is also the sea of bronze; and the Holy Spirit is represented by the water. All who are cleansed in the basins or
+Christ will fulfill the most holy place when He brings earth to heaven.
+
+4:2-6 Christ, who is called the "lily of the valleys" (v. 5; SS 2:1), is also the sea of bronze; and the Holy Spirit is represented by the water. All who are cleansed in the basins or
 
 lavers of baptism have identified themselves with Christ's death, and have been raised up
 
@@ -80,7 +82,9 @@ there are ten of each and one hundred golden bowls. This signifies the "great
 
 quantity" (v. 18) of blessings in Christ's kingdom. 5:1
 
-Solomon's finished work on the temple will be fulfilled in Christ. 5:2-13 This passage foreshadows the falling asleep of the Theotokos, the Mother of God: "The Ark of God departed from Mount Zion for the heavenly country, borne on the
+Solomon's finished work on the temple will be fulfilled in Christ.
+
+5:2-13 This passage foreshadows the falling asleep of the Theotokos, the Mother of God: "The Ark of God departed from Mount Zion for the heavenly country, borne on the
 
 shoulders of the apostles. Angels overshadowed it with their wings, accompanying it, together with the whole assembly of the Church.... So is it now with the dwelling-place
 
@@ -90,7 +94,9 @@ new Solomon, the Prince of peace, the Creator of all things in the heavens and o
 
 earth, assembled together today the supporters of the new covenant, that is the apostles, with all the people of the saints in Jerusalem, brought in her soul through angels to the
 
-true Holy of Holies" (JohnDm). 5:13 As one: In His High Priestly Prayer, the Lord prays for the faithful, "that they all may
+true Holy of Holies" (JohnDm).
+
+5:13 As one: In His High Priestly Prayer, the Lord prays for the faithful, "that they all may
 
 be one in Us" ([[JOH.17:21]]). Hence at Divine Liturgy the faithful pray, "And grant us with one
 
@@ -120,7 +126,11 @@ and praised Him liturgically. 7:5
 
 Solomon's huge sacrifice in the house symbolizes the power of the cross to save not
 
-only the Jews, but all humanity through the Church. 7:14-16 God's promise is to hear from heaven the prayers of His people. 9:17
+only the Jews, but all humanity through the Church.
+
+7:14-16 God's promise is to hear from heaven the prayers of His people.
+
+9:17
 
 Solomon's throne is a type of the Virgin Mary. "Thou art the royal Throne which
 
@@ -134,15 +144,25 @@ return more than every other, according to the very laws of nature, but she is t
 
 Throne, and wherever the King sits, there His Throne is set also. And Isaiah beheld this
 
-Throne amidst the choir of cherubim and called it 'high' and 'exalted' (Is 6:1)" (GrgPal). 9:18
+Throne amidst the choir of cherubim and called it 'high' and 'exalted' (Is 6:1)" (GrgPal).
+
+9:18
 
 The six steps symbolize the completeness of Christ's work in overcoming the flesh. 9:19
 
-The lions symbolize the apostles, saints, and martyrs. 9:22-28 Christ's heavenly kingdom is foreshadowed in Solomon's earthly kingdom. 10:1-11 Rehoboam's foolishness was used by the Lord for His purposes (v. 15). 11:1-4
+The lions symbolize the apostles, saints, and martyrs.
+
+9:22-28 Christ's heavenly kingdom is foreshadowed in Solomon's earthly kingdom.
+
+10:1-11 Rehoboam's foolishness was used by the Lord for His purposes (v. 15).
+
+11:1-4
 
 God allowed the schism between Judah and Israel so that He might gather
 
-together and strengthen all those in Israel whose heart was set towards Him (16:9). 11:13-17 Those with right worship were rejected (v. 14) by Jeroboam because they served
+together and strengthen all those in Israel whose heart was set towards Him (16:9).
+
+11:13-17 Those with right worship were rejected (v. 14) by Jeroboam because they served
 
 and worshipped God according to the traditions established by God through their
 
@@ -156,7 +176,9 @@ mentioned (see v. 12). 12:5-8
 
 Although the people forsook God, after they repented He did not destroy them, but rather allowed them to be brought under servitude by the enemy (v. 8). Only Christ, who alone is righteous (v. 6), will be able to bring complete deliverance to all who
 
-humble themselves before Him. 12:9-12 The gold shields are now bronze, a symbol of how the proud glory of Solomon's
+humble themselves before Him.
+
+12:9-12 The gold shields are now bronze, a symbol of how the proud glory of Solomon's
 
 kingdom has been reduced by sin in just one generation. 13:4-20
 
@@ -172,7 +194,9 @@ truth; for the Father is seeking such to worship Him" ([[JOH.4:23]]). 13:5
 
 A covenant of salt: Salt is a symbol of an indissoluble covenant (see note on Lv
 
-2:13). 14:7-10 Asa was outnumbered by the Ethiopians almost two to one, but he knew the Lord
+2:13).
+
+14:7-10 Asa was outnumbered by the Ethiopians almost two to one, but he knew the Lord
 
 could give him victory with the many or with the few. 15:2
 
@@ -192,19 +216,26 @@ The great numbers represent those who seek God with all their heart and
 
 soul, for they will find rest (v. 15) in Him, just as He promised, in the "city of the living
 
-God, the heavenly Jerusalem" ([[HEB.12:22]]), which is His body, the Church. 16:1-10
+God, the heavenly Jerusalem" ([[HEB.12:22]]), which is His body, the Church.
+
+16:1-10
 
 Asa holds a valuable lesson for all believers. After trusting in the Lord for a
 
 decisive victory over the Ethiopians (14:7-10), he now seeks victory over Syria by
 
 taking silver and gold from the temple to buy off the Syrian king. "Are you so foolish? Having begun in the Spirit, are you now being made perfect by the flesh?" ([[GAL.3:3]]). 17:1-19
+taking silver and gold from the temple to buy off the Syrian king. "Are you so foolish? Having begun in the Spirit, are you now being made perfect by the flesh?" ([[GAL.3:3]]).
+
+17:1-19
 
 Jehoshaphat, like his father Asa (15:1-19), starts out well. He resists Israel, which is steeped in idolatry, and he took delight in the Lord. But he forms an alliance
 
 with King Ahab (18:1). This will lead to tragic consequences that will almost destroy the
 
-Davidic line ([[2KI.11:1]]). 18:1-3 Assuming that ethnic rather than spiritual ties make the people one, Jehoshaphat
+Davidic line ([[2KI.11:1]]).
+
+18:1-3 Assuming that ethnic rather than spiritual ties make the people one, Jehoshaphat
 
 allies Judah with Israel. 18:4
 
@@ -212,7 +243,9 @@ Though he doesn't seem to realize the depth of idolatry and darkness that has
 
 overtaken Israel, Jehoshaphat's conscience is sending up warning flags that will later save
 
-his life (v. 31). 19:1-3 "When we are unwarily joined in friendship with the wicked, we are bound in their
+his life (v. 31).
+
+19:1-3 "When we are unwarily joined in friendship with the wicked, we are bound in their
 
 sins.... Those who are at peace are to be admonished not to be afraid of disturbing their
 
@@ -220,7 +253,9 @@ temporal peace, if they break forth into words of rebuke. And again they are to 
 
 admonished to keep inwardly with undiminished love the same peace which in their
 
-external relations they disturb by their reproving voice" (GrgGt). 19:4-11 God helped and saved Jehoshaphat because even though he acted foolishly, he
+external relations they disturb by their reproving voice" (GrgGt).
+
+19:4-11 God helped and saved Jehoshaphat because even though he acted foolishly, he
 
 has also shown he wants to do what is good (v. 11). Jehoshaphat finds mercy and
 
@@ -238,7 +273,9 @@ Judgment. These enemies bring hardships to men in order that through them God mi
 
 strengthen the faithful and humble the proud. As the Lord Jesus says, "in the world you
 
-will have tribulation; but be of good cheer, I have overcome the world" ([[JOH.16:33]]). 20:15-22 The Lord is with you (v. 17): This is the key to salvation (see [[EPH.6:13]]). For
+will have tribulation; but be of good cheer, I have overcome the world" ([[JOH.16:33]]).
+
+20:15-22 The Lord is with you (v. 17): This is the key to salvation (see [[EPH.6:13]]). For
 
 the faithful, every spiritual battle has already been won by God the Father in His Son
 
@@ -246,11 +283,15 @@ through the Holy Spirit. 21:1-20
 
 The account of Jehoram serves to warn the Jews, and indeed all men, not to
 
-reject God's calling. 21:8-10 Edom revolts under Jehoram. Under Jehoshaphat, whose heart was towards God, Edom was kept under control ([[2KI.3:12]]). Libnah, which means "white tree," is a
+reject God's calling.
+
+21:8-10 Edom revolts under Jehoram. Under Jehoshaphat, whose heart was towards God, Edom was kept under control ([[2KI.3:12]]). Libnah, which means "white tree," is a
 
 Levitical city in Judah ([[JOS.21:13]]). Its revolt against Jehoram reveals how holiness is
 
-repelled by the presence of evil. 21:18-20 The tragic demise of a sinful man. 
+repelled by the presence of evil.
+
+21:18-20 The tragic demise of a sinful man. 
 
 ### 22:1-9
 *(anchor: 2CH.22:1)*

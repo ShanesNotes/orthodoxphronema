@@ -1,0 +1,1356 @@
+{
+  "book_code": "ACT",
+  "position": 54,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/ACT_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": false,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 185,
+      "auto_fixable": 0,
+      "review_needed": 185,
+      "files_checked": 1,
+      "lines_checked": 1116,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 171,
+      "P7": 14
+    }
+  },
+  "structure": {
+    "issue_count": 1,
+    "findings": [
+      {
+        "type": "broken_reference_split",
+        "line_number": 1905,
+        "raw_text": "16:23 and [[1CO.1:14]]. Aristarchus is a Thessalonian (20:4; [[COL.4:10]]).",
+        "previous_line_tail": "Gaius, from Asia Minor (20:4) is perhaps the same person mentioned in Rom"
+      }
+    ],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "ACT",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/ACT_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/ACT_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/ACT.md",
+    "counts": {
+      "scripture_markers": 196,
+      "footnote_entries": 196,
+      "scripture_anchors": 1007,
+      "valid_marker_anchors": 196,
+      "valid_note_anchors": 196
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 110,
+    "convertible_refs": 0,
+    "already_linked_refs": 110,
+    "unresolved_refs": 1,
+    "unresolved_examples": [
+      {
+        "line_number": 563,
+        "raw_text": "Ex 1-12",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 46,
+      "matched_entities": [
+        {
+          "line_number": 141,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "prophecy of John the Baptist that Christ would \"baptize you with the Holy Spirit and fire\""
+        },
+        {
+          "line_number": 443,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "world who had settled back in Jerusalem. St. John Chrysostom notes that this complaint"
+        },
+        {
+          "line_number": 443,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "world who had settled back in Jerusalem. St. John Chrysostom notes that this complaint"
+        },
+        {
+          "line_number": 443,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "world who had settled back in Jerusalem. St. John Chrysostom notes that this complaint"
+        },
+        {
+          "line_number": 515,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "Stephen",
+          "context": "This charge is brought against Stephen because in Christ, the liturgy and Law of the"
+        },
+        {
+          "line_number": 541,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "Stephen",
+          "context": "Those who become one with Christ receive this divine radiance revealed in Stephen's"
+        },
+        {
+          "line_number": 551,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "Stephen",
+          "context": "Stephen does not answer the high priest directly, but uses the charges as the context"
+        },
+        {
+          "line_number": 553,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "Stephen",
+          "context": "for his preaching. As with Peter's sermon on Pentecost (2:14-40), Stephen preaches Jesus"
+        },
+        {
+          "line_number": 643,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "Stephen",
+          "context": "Stephen's vision of the enthroned Christ is seen by his opponents as the ultimate"
+        },
+        {
+          "line_number": 647,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "Stephen",
+          "context": "Stephen's martyrdom, was a great persecutor of the early Christians. He would later be"
+        },
+        {
+          "line_number": 657,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "Stephen",
+          "context": "In imitation of his Savior ([[LUK.23:34]]), Stephen offers his soul to God and prays for"
+        },
+        {
+          "line_number": 665,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "St. Basil",
+          "context": "In the Liturgy of St. Basil, we proclaim God as one who \"makes the evil to be good.\" In"
+        },
+        {
+          "line_number": 665,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "Basil",
+          "context": "In the Liturgy of St. Basil, we proclaim God as one who \"makes the evil to be good.\" In"
+        },
+        {
+          "line_number": 671,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "Stephen",
+          "context": "Stephen is sometimes called the Protomartyr (or \"first martyr\"), as he is the first believer"
+        },
+        {
+          "line_number": 683,
+          "entity": "PHOTINI_SAMARITAN",
+          "matched_alias": "St. Photini",
+          "context": "due in part to the foundation laid by St. Photini, the Samaritan woman of Jn 4, who"
+        },
+        {
+          "line_number": 683,
+          "entity": "PHOTINI_SAMARITAN",
+          "matched_alias": "Photini",
+          "context": "due in part to the foundation laid by St. Photini, the Samaritan woman of Jn 4, who"
+        },
+        {
+          "line_number": 725,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "that the invocation of their names has been omitted\" (BasilG). Sometimes the Bible"
+        },
+        {
+          "line_number": 731,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "Spirit\" (BasilG; see [[MAT.28:19]]). Specific reference to baptism in Jesus Christ was not"
+        },
+        {
+          "line_number": 763,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "Spirit (JohnChr). Those of lesser faith are prompted more directly by words and angels."
+        },
+        {
+          "line_number": 791,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "of the prophets, he would need no miracles\" (JohnChr)."
+        },
+        {
+          "line_number": 1163,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "the first time that men were accounted worthy of that name\" (JohnChr)."
+        },
+        {
+          "line_number": 1329,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "John Chrysostom suggests that the name change was the result of ordination (vv. 2, 3),"
+        },
+        {
+          "line_number": 1357,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "as the true King of Israel; and (3) Jesus is the One John the Baptist preached."
+        },
+        {
+          "line_number": 1413,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "14:11-13 This unfitting praise by the people was \"a contrivance of the devil\" (JohnChr),"
+        },
+        {
+          "line_number": 1517,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "(Lv 17:14); others, such as St. John Chrysostom, understand this to mean murder, the"
+        },
+        {
+          "line_number": 1517,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "(Lv 17:14); others, such as St. John Chrysostom, understand this to mean murder, the"
+        },
+        {
+          "line_number": 1517,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "(Lv 17:14); others, such as St. John Chrysostom, understand this to mean murder, the"
+        },
+        {
+          "line_number": 1575,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "Holy Spirit to preach in these places, St. John Chrysostom likens this to the way a"
+        },
+        {
+          "line_number": 1575,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Holy Spirit to preach in these places, St. John Chrysostom likens this to the way a"
+        },
+        {
+          "line_number": 1575,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Holy Spirit to preach in these places, St. John Chrysostom likens this to the way a"
+        },
+        {
+          "line_number": 1841,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "and its subsequent corruption (AthanG). Thus, a person needs to be joined to Christ in"
+        },
+        {
+          "line_number": 1883,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "John Chrysostom emphasizes that this fact alone demonstrates God's hand was upon"
+        },
+        {
+          "line_number": 1959,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
+        },
+        {
+          "line_number": 1959,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
+        },
+        {
+          "line_number": 1959,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
+        },
+        {
+          "line_number": 2203,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Romans (AD 70). Paul has thus far said nothing offensive to the Jews, and St. John"
+        },
+        {
+          "line_number": 2205,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Chrysostom calls the order to strike Paul \"shameless\" and without cause."
+        },
+        {
+          "line_number": 2233,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
+        },
+        {
+          "line_number": 2233,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
+        },
+        {
+          "line_number": 2233,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
+        },
+        {
+          "line_number": 2517,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "According to St. John Chrysostom, the destruction of the ship serves several"
+        },
+        {
+          "line_number": 2517,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "According to St. John Chrysostom, the destruction of the ship serves several"
+        },
+        {
+          "line_number": 2517,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "According to St. John Chrysostom, the destruction of the ship serves several"
+        },
+        {
+          "line_number": 2555,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
+        },
+        {
+          "line_number": 2555,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
+        },
+        {
+          "line_number": 2555,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
+        }
+      ],
+      "entity_counts": {
+        "ATHANASIUS": 1,
+        "BASIL_GREAT": 4,
+        "JOHN_CHRYSOSTOM": 21,
+        "JOHN_FORERUNNER": 2,
+        "JOHN_THEOLOGIAN": 8,
+        "PHOTINI_SAMARITAN": 2,
+        "STEPHEN_PROTOMARTYR": 8
+      },
+      "unresolved_candidates_count": 1,
+      "unresolved_candidates": [
+        {
+          "line_number": 1241,
+          "token": "St. Mark",
+          "context": "John whose surname was Mark is St. Mark the Evangelist, who would compose"
+        }
+      ],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 725,
+          "snippet": "BasilG"
+        },
+        {
+          "line_number": 763,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 791,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1163,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1413,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1841,
+          "snippet": "AthanG"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 131,
+      "matched_entities": [
+        {
+          "line_number": 79,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "pointing to Him and His works ([[LUK.24:27]]), Peter now sees these two prophetic psalms (v."
+        },
+        {
+          "line_number": 165,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter's sermon focuses on two prophetic themes: (1) the promised coming of the"
+        },
+        {
+          "line_number": 197,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter's listeners were cut to the heart because they understood and had been"
+        },
+        {
+          "line_number": 199,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "prepared by the OT. Almost half of Peter's message is a quotation of OT scriptures. The"
+        },
+        {
+          "line_number": 207,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter's answer defines Christian life within the Church. We must (1) repent, (2)"
+        },
+        {
+          "line_number": 279,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter's sermon clarifies several key truths concerning Jesus: (1) He reveals the"
+        },
+        {
+          "line_number": 411,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Gamaliel was a famous rabbi under whom Paul studied (22:3)."
+        },
+        {
+          "line_number": 553,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "for his preaching. As with Peter's sermon on Pentecost (2:14-40), Stephen preaches Jesus"
+        },
+        {
+          "line_number": 649,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "called by Christ to be His apostle and would become the great Christian missionary, Paul"
+        },
+        {
+          "line_number": 925,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter brings Christ's healing to a paralytic in a manner similar to Jesus healing the"
+        },
+        {
+          "line_number": 947,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter's raising of Tabitha from the dead parallels Christ's raising of the synagogue"
+        },
+        {
+          "line_number": 973,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "(v. 4) and prepared him for conversion to Jesus Christ at the preaching of Peter. Even"
+        },
+        {
+          "line_number": 985,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Jewish Christians (e.g., Peter in v. 9) and Gentile Christians (e.g., Cornelius here). This"
+        },
+        {
+          "line_number": 1003,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter's resistance shows the difficulty with which the Jews let go of the Law."
+        },
+        {
+          "line_number": 1013,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter to receive Cornelius (vv. 17-48). Finally, this also teaches us that God desires to"
+        },
+        {
+          "line_number": 1031,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter's focus is on the saving work and power of Jesus Christ, His death and"
+        },
+        {
+          "line_number": 1205,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "dates of his reign determine the period in which James was killed (v. 2) and Peter was"
+        },
+        {
+          "line_number": 1205,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "dates of his reign determine the period in which James was killed (v. 2) and Peter was"
+        },
+        {
+          "line_number": 1207,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "imprisoned (v. 3). James was the first of the twelve apostles to be martyred. This event"
+        },
+        {
+          "line_number": 1225,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "by Peter's release from prison (v. 10)."
+        },
+        {
+          "line_number": 1231,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter's initial confusion (v. 9) and subsequent understanding (v. 11) about his"
+        },
+        {
+          "line_number": 1243,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "the Gospel of Mark. He would later become a coworker with Paul and Barnabas (v. 25;"
+        },
+        {
+          "line_number": 1245,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "[[COL.4:10]]) and still later with Peter ([[1PE.5:13]])."
+        },
+        {
+          "line_number": 1263,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "12:17 This James is the \"brother\" of the Lord ([[GAL.1:19]]; see also note at [[MAT.12:46]]-50), not"
+        },
+        {
+          "line_number": 1265,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "the apostle of the twelve, for that James had already been martyred (v. 2). By this time,"
+        },
+        {
+          "line_number": 1267,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "James is bishop of Jerusalem (see 15:13; 21:18). The brethren are the Christians of the"
+        },
+        {
+          "line_number": 1311,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "that even Saul (Paul), who had a direct call to serve from Jesus Christ (9:1-6; [[2CO.12:1]]-"
+        },
+        {
+          "line_number": 1317,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "This is the first use in Acts of the name Paul for Saul. No particular significance is"
+        },
+        {
+          "line_number": 1321,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "called Saul for quite some time after his conversion. Paul is a Roman name, and Saul is a"
+        },
+        {
+          "line_number": 1325,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Roman. Paul may have begun to favor his Roman name out of humility (Paul means"
+        },
+        {
+          "line_number": 1331,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "just as Christ gave Simon the new name Peter ([[MAT.16:17]], [[MAT.16:18]]; [[JOH.1:42]])."
+        },
+        {
+          "line_number": 1343,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Syria, from which Paul and Barnabas had just been sent."
+        },
+        {
+          "line_number": 1347,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul preaches Christ based on His fulfillment of OT events and prophecies (see"
+        },
+        {
+          "line_number": 1353,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "The heart of Paul's message is: (1) Christ is the promise and therefore the"
+        },
+        {
+          "line_number": 1367,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul consistently presses the point that if the OT is properly understood, it is clear"
+        },
+        {
+          "line_number": 1379,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "13:45-46 Many of the Jews reject the teaching that salvation is for all people, so Paul and"
+        },
+        {
+          "line_number": 1391,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul. Paul had been described to him as being \"a small man in size with meeting"
+        },
+        {
+          "line_number": 1415,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "an attempt to lead the people to a new idolatry and to tempt Paul and Barnabas to pride."
+        },
+        {
+          "line_number": 1417,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "14:15-17 While Paul preached Christ to the Jews using the OT (13:17-41), here he presents"
+        },
+        {
+          "line_number": 1489,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter gives his testimony after much dispute (v. 7); he stresses how God has"
+        },
+        {
+          "line_number": 1491,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "worked among the Gentiles, and then Paul and Barnabas do the same. The emphasis of"
+        },
+        {
+          "line_number": 1499,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Note that even though Peter is present, James, being bishop of Jerusalem,"
+        },
+        {
+          "line_number": 1499,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "Note that even though Peter is present, James, being bishop of Jerusalem,"
+        },
+        {
+          "line_number": 1503,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Scriptures and finds that Simon Peter's testimony is in agreement with the OT prophets"
+        },
+        {
+          "line_number": 1505,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "(v. 15). Thus, James makes his decision by recognizing the consensus of the apostles in"
+        },
+        {
+          "line_number": 1507,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "light of the Holy Scriptures. When James declares, I judge (v. 19), he does not mean \"I"
+        },
+        {
+          "line_number": 1521,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "15:22-29 While James makes the definitive decision, it is not valid until it is adopted by"
+        },
+        {
+          "line_number": 1545,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "resolved, and John Mark later rejoined Paul (see [[2TI.4:11]])."
+        },
+        {
+          "line_number": 1549,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "This Timothy would become one of the chief co-workers of Paul, would be the"
+        },
+        {
+          "line_number": 1551,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "recipient of two of Paul's epistles, and would later follow the apostle John as bishop of"
+        },
+        {
+          "line_number": 1557,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Since Timothy is partly of Jewish heritage, Paul has him circumcised to"
+        },
+        {
+          "line_number": 1559,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "accommodate Jewish sensibilities. In the case of Titus, a Gentile, Paul refuses to do this"
+        },
+        {
+          "line_number": 1573,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "16:6, 7 Though no indication is given in the Scriptures why Paul was forbidden by the"
+        },
+        {
+          "line_number": 1585,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "The use of we indicates that Luke (the author of Acts) has joined Paul, Silas, and"
+        },
+        {
+          "line_number": 1601,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul is the church planter par excellence, and his work remains the model for"
+        },
+        {
+          "line_number": 1621,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "and Paul could not endure to see her tormented any longer. Furthermore, impure praise"
+        },
+        {
+          "line_number": 1627,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's accusers here care little for religion, but they use religious prejudice against"
+        },
+        {
+          "line_number": 1633,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Being persecuted unjustly for Christ leads Paul and Silas to joy rather than sorrow"
+        },
+        {
+          "line_number": 1651,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "25). The miraculous earthquake (v. 26) and Paul's concern for the jailer's life (v. 28)"
+        },
+        {
+          "line_number": 1663,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Note that Paul does not appeal to his Roman citizenship in order to escape"
+        },
+        {
+          "line_number": 1703,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "reminiscent of the charges brought against Jesus of being a political king. Instead, Paul"
+        },
+        {
+          "line_number": 1715,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Though unwilling to search the Scriptures to see if Paul's message is true, as the"
+        },
+        {
+          "line_number": 1719,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "miles to Berea to stir up the crowds against Paul."
+        },
+        {
+          "line_number": 1727,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "In freethinking Athens, Paul moves beyond the synagogue and makes open"
+        },
+        {
+          "line_number": 1739,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "17:22-31 Paul consistently preaches Christ from a starting point familiar to his hearers. To"
+        },
+        {
+          "line_number": 1755,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "react negatively, while the other aspects of Paul's speech go unchallenged (see previous"
+        },
+        {
+          "line_number": 1765,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "[[EZK.18:13]]), Paul declares the fulfillment of his responsibility and these Jews' own"
+        },
+        {
+          "line_number": 1773,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Gallio was governor of Corinth and Achaia in AD 51-52, which firmly dates Paul's"
+        },
+        {
+          "line_number": 1781,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "The vow Paul makes is likely a form of the Nazirite vow ([[NUM.6:1]]-21) given in"
+        },
+        {
+          "line_number": 1789,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "God willing underscores Paul's constant reliance on God and the continual"
+        },
+        {
+          "line_number": 1825,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "city. Paul remained there for at least two years and three months (vv. 8-10). Because of"
+        },
+        {
+          "line_number": 1849,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "On the term reasoning as it occurs in vv. 8, 9, see note at 17:2, 3. Again Paul"
+        },
+        {
+          "line_number": 1879,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "exists, bringing both conversion and opposition. Note that Paul, a man without wealth or"
+        },
+        {
+          "line_number": 1927,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul never took missionary journeys alone, but always a team accompanied him"
+        },
+        {
+          "line_number": 1947,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "first part of the Liturgy focuses on the proclamation of the word, with Paul giving his"
+        },
+        {
+          "line_number": 1965,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul preach the gospel."
+        },
+        {
+          "line_number": 1977,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "That Paul desired to be with the other apostles in Jerusalem for Pentecost shows"
+        },
+        {
+          "line_number": 2003,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul reminds his hearers of the tears and trials he faced in Ephesus in order to"
+        },
+        {
+          "line_number": 2005,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "strengthen them for what is to come. Paul's persecutions in Ephesus (Asia Minor) were"
+        },
+        {
+          "line_number": 2013,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Innocent of the blood does not mean that Paul has no responsibility to others."
+        },
+        {
+          "line_number": 2043,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "While St. Paul teaches the clergy should be supported materially by the faithful"
+        },
+        {
+          "line_number": 2043,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "While St. Paul teaches the clergy should be supported materially by the faithful"
+        },
+        {
+          "line_number": 2047,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "This allowed Paul to preach all the more freely and took away any opportunity for others"
+        },
+        {
+          "line_number": 2077,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul meets with James, the bishop of Jerusalem, who reports that many Jews"
+        },
+        {
+          "line_number": 2077,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "Paul meets with James, the bishop of Jerusalem, who reports that many Jews"
+        },
+        {
+          "line_number": 2079,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "have set themselves against Paul. While neither Jews nor Gentiles find salvation through"
+        },
+        {
+          "line_number": 2081,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "the Law, James encourages Paul to demonstrate his compliance with the Law in order to"
+        },
+        {
+          "line_number": 2081,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "the Law, James encourages Paul to demonstrate his compliance with the Law in order to"
+        },
+        {
+          "line_number": 2129,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Brethren and fathers is a respectful form of address (7:2), showing that Paul treats"
+        },
+        {
+          "line_number": 2137,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Again, Paul begins at a point with which his listeners would be familiar, first"
+        },
+        {
+          "line_number": 2141,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "at 14:15-17). Paul is careful to mention his relationship with important Jews (Gamaliel,"
+        },
+        {
+          "line_number": 2163,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "In spite of Paul's attempts to moderate the wrath of these Jews, the mere"
+        },
+        {
+          "line_number": 2185,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "wants to interrogate Paul more thoroughly, which allows Paul all the more opportunity to"
+        },
+        {
+          "line_number": 2203,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Romans (AD 70). Paul has thus far said nothing offensive to the Jews, and St. John"
+        },
+        {
+          "line_number": 2205,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Chrysostom calls the order to strike Paul \"shameless\" and without cause."
+        },
+        {
+          "line_number": 2211,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul accuses Ananias of the ultimate hypocrisy: violating the Law while posing as"
+        },
+        {
+          "line_number": 2213,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "one who judges according to the Law. Paul nevertheless shows great respect for the holy"
+        },
+        {
+          "line_number": 2221,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Knowing that his interrogators will not hear him impartially, Paul intentionally"
+        },
+        {
+          "line_number": 2243,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul receives comfort from the Lord in the face of the impending plot on his life"
+        },
+        {
+          "line_number": 2255,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "19) protects Paul from assassination, which allows God's plan to unfold for Paul to preach"
+        }
+      ],
+      "entity_counts": {
+        "JAMES_APOSTLE": 12,
+        "PAUL_APOSTLE": 96,
+        "PETER_APOSTLE": 23
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 1311,
+          "snippet": "Paul"
+        }
+      ]
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 46,
+    "matched_entities": [
+      {
+        "line_number": 141,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "prophecy of John the Baptist that Christ would \"baptize you with the Holy Spirit and fire\""
+      },
+      {
+        "line_number": 443,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "world who had settled back in Jerusalem. St. John Chrysostom notes that this complaint"
+      },
+      {
+        "line_number": 443,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "world who had settled back in Jerusalem. St. John Chrysostom notes that this complaint"
+      },
+      {
+        "line_number": 443,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "world who had settled back in Jerusalem. St. John Chrysostom notes that this complaint"
+      },
+      {
+        "line_number": 515,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "Stephen",
+        "context": "This charge is brought against Stephen because in Christ, the liturgy and Law of the"
+      },
+      {
+        "line_number": 541,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "Stephen",
+        "context": "Those who become one with Christ receive this divine radiance revealed in Stephen's"
+      },
+      {
+        "line_number": 551,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "Stephen",
+        "context": "Stephen does not answer the high priest directly, but uses the charges as the context"
+      },
+      {
+        "line_number": 553,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "Stephen",
+        "context": "for his preaching. As with Peter's sermon on Pentecost (2:14-40), Stephen preaches Jesus"
+      },
+      {
+        "line_number": 643,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "Stephen",
+        "context": "Stephen's vision of the enthroned Christ is seen by his opponents as the ultimate"
+      },
+      {
+        "line_number": 647,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "Stephen",
+        "context": "Stephen's martyrdom, was a great persecutor of the early Christians. He would later be"
+      },
+      {
+        "line_number": 657,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "Stephen",
+        "context": "In imitation of his Savior ([[LUK.23:34]]), Stephen offers his soul to God and prays for"
+      },
+      {
+        "line_number": 665,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "St. Basil",
+        "context": "In the Liturgy of St. Basil, we proclaim God as one who \"makes the evil to be good.\" In"
+      },
+      {
+        "line_number": 665,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "Basil",
+        "context": "In the Liturgy of St. Basil, we proclaim God as one who \"makes the evil to be good.\" In"
+      },
+      {
+        "line_number": 671,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "Stephen",
+        "context": "Stephen is sometimes called the Protomartyr (or \"first martyr\"), as he is the first believer"
+      },
+      {
+        "line_number": 683,
+        "entity": "PHOTINI_SAMARITAN",
+        "matched_alias": "St. Photini",
+        "context": "due in part to the foundation laid by St. Photini, the Samaritan woman of Jn 4, who"
+      },
+      {
+        "line_number": 683,
+        "entity": "PHOTINI_SAMARITAN",
+        "matched_alias": "Photini",
+        "context": "due in part to the foundation laid by St. Photini, the Samaritan woman of Jn 4, who"
+      },
+      {
+        "line_number": 725,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "that the invocation of their names has been omitted\" (BasilG). Sometimes the Bible"
+      },
+      {
+        "line_number": 731,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "Spirit\" (BasilG; see [[MAT.28:19]]). Specific reference to baptism in Jesus Christ was not"
+      },
+      {
+        "line_number": 763,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "Spirit (JohnChr). Those of lesser faith are prompted more directly by words and angels."
+      },
+      {
+        "line_number": 791,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "of the prophets, he would need no miracles\" (JohnChr)."
+      },
+      {
+        "line_number": 1163,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "the first time that men were accounted worthy of that name\" (JohnChr)."
+      },
+      {
+        "line_number": 1329,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "John Chrysostom suggests that the name change was the result of ordination (vv. 2, 3),"
+      },
+      {
+        "line_number": 1357,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "as the true King of Israel; and (3) Jesus is the One John the Baptist preached."
+      },
+      {
+        "line_number": 1413,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "14:11-13 This unfitting praise by the people was \"a contrivance of the devil\" (JohnChr),"
+      },
+      {
+        "line_number": 1517,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "(Lv 17:14); others, such as St. John Chrysostom, understand this to mean murder, the"
+      },
+      {
+        "line_number": 1517,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "(Lv 17:14); others, such as St. John Chrysostom, understand this to mean murder, the"
+      },
+      {
+        "line_number": 1517,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "(Lv 17:14); others, such as St. John Chrysostom, understand this to mean murder, the"
+      },
+      {
+        "line_number": 1575,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "Holy Spirit to preach in these places, St. John Chrysostom likens this to the way a"
+      },
+      {
+        "line_number": 1575,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Holy Spirit to preach in these places, St. John Chrysostom likens this to the way a"
+      },
+      {
+        "line_number": 1575,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Holy Spirit to preach in these places, St. John Chrysostom likens this to the way a"
+      },
+      {
+        "line_number": 1841,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "and its subsequent corruption (AthanG). Thus, a person needs to be joined to Christ in"
+      },
+      {
+        "line_number": 1883,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "John Chrysostom emphasizes that this fact alone demonstrates God's hand was upon"
+      },
+      {
+        "line_number": 1959,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
+      },
+      {
+        "line_number": 1959,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
+      },
+      {
+        "line_number": 1959,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
+      },
+      {
+        "line_number": 2203,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Romans (AD 70). Paul has thus far said nothing offensive to the Jews, and St. John"
+      },
+      {
+        "line_number": 2205,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Chrysostom calls the order to strike Paul \"shameless\" and without cause."
+      },
+      {
+        "line_number": 2233,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
+      },
+      {
+        "line_number": 2233,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
+      },
+      {
+        "line_number": 2233,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
+      },
+      {
+        "line_number": 2517,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "According to St. John Chrysostom, the destruction of the ship serves several"
+      },
+      {
+        "line_number": 2517,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "According to St. John Chrysostom, the destruction of the ship serves several"
+      },
+      {
+        "line_number": 2517,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "According to St. John Chrysostom, the destruction of the ship serves several"
+      },
+      {
+        "line_number": 2555,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
+      },
+      {
+        "line_number": 2555,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
+      },
+      {
+        "line_number": 2555,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
+      }
+    ],
+    "entity_counts": {
+      "ATHANASIUS": 1,
+      "BASIL_GREAT": 4,
+      "JOHN_CHRYSOSTOM": 21,
+      "JOHN_FORERUNNER": 2,
+      "JOHN_THEOLOGIAN": 8,
+      "PHOTINI_SAMARITAN": 2,
+      "STEPHEN_PROTOMARTYR": 8
+    },
+    "unresolved_candidates_count": 1,
+    "unresolved_candidates": [
+      {
+        "line_number": 1241,
+        "token": "St. Mark",
+        "context": "John whose surname was Mark is St. Mark the Evangelist, who would compose"
+      }
+    ],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 725,
+        "snippet": "BasilG"
+      },
+      {
+        "line_number": 763,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 791,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1163,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1413,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1841,
+        "snippet": "AthanG"
+      }
+    ]
+  }
+}

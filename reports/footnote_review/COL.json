@@ -1,0 +1,187 @@
+{
+  "book_code": "COL",
+  "position": 61,
+  "testament": "NT",
+  "status": "complete",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/COL_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 41,
+      "auto_fixable": 0,
+      "review_needed": 41,
+      "files_checked": 1,
+      "lines_checked": 146,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 41
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "COL",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/COL_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/COL_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/COL.md",
+    "counts": {
+      "scripture_markers": 24,
+      "footnote_entries": 24,
+      "scripture_anchors": 95,
+      "valid_marker_anchors": 24,
+      "valid_note_anchors": 24
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 14,
+    "convertible_refs": 0,
+    "already_linked_refs": 14,
+    "unresolved_refs": 1,
+    "unresolved_examples": [
+      {
+        "line_number": 243,
+        "raw_text": "1Co 11-14",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 13,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Giving thanks for the church in Colosse, Paul commends them with his faith,"
+        },
+        {
+          "line_number": 105,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "seen as but one mediator in one level of existence with one force. Paul differs, saying"
+        },
+        {
+          "line_number": 115,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "1:15-20 This passage is an ancient christological hymn, perhaps expanded upon by Paul, in"
+        },
+        {
+          "line_number": 121,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "so, Paul could be using it to bring the Colossians back to their original profession."
+        },
+        {
+          "line_number": 165,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "upon, Paul assures us Christ knows everything. Most of this is hidden to us, so we must"
+        },
+        {
+          "line_number": 231,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Here Paul speaks against false worship (vv. 16, 17), false mysticism (vv. 18, 19),"
+        },
+        {
+          "line_number": 243,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Eucharist. (For Paul on liturgical worship, see 1Co 11-14.) Mystical experiences are not"
+        },
+        {
+          "line_number": 247,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "controlled by passions and the body. (For Paul on mystical experiences, see 2Co 12; Eph 1;"
+        },
+        {
+          "line_number": 255,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "condemned as pride. (For Paul on asceticism, see 1Co 9; [[1TI.6:12]]; [[2TI.2:3]]-6)."
+        },
+        {
+          "line_number": 261,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Using baptism as his backdrop, Paul counters the practices of the heretics in Colosse"
+        },
+        {
+          "line_number": 327,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul expects the church to be at corporate prayer often. Not only are the apostles to"
+        },
+        {
+          "line_number": 345,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul expected his letters to be read aloud to the churches and at least sometimes to"
+        },
+        {
+          "line_number": 349,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's letter coming from Laodicea probably is the one we know as Ephesians."
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 13
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 0,
+    "matched_entities": [],
+    "entity_counts": {},
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

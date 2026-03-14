@@ -1,0 +1,387 @@
+{
+  "book_code": "AMO",
+  "position": 32,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/AMO_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": false,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 64,
+      "auto_fixable": 0,
+      "review_needed": 64,
+      "files_checked": 1,
+      "lines_checked": 117,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 38,
+      "P7": 26
+    }
+  },
+  "structure": {
+    "issue_count": 1,
+    "findings": [
+      {
+        "type": "midline_reference_spill",
+        "line_number": 177,
+        "raw_text": "17:5, 6). 6:1-6 Basil the Great, quoting this passage, comments that it is shameful when we spend"
+      }
+    ],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "AMO",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/AMO_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/AMO_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/AMO.md",
+    "counts": {
+      "scripture_markers": 18,
+      "footnote_entries": 18,
+      "scripture_anchors": 43,
+      "valid_marker_anchors": 18,
+      "valid_note_anchors": 18
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "AMO.3:4",
+      "AMO.3:6",
+      "AMO.4:10",
+      "AMO.4:7",
+      "AMO.5:10",
+      "AMO.5:2",
+      "AMO.5:6",
+      "AMO.5:7",
+      "AMO.5:8",
+      "AMO.9:11",
+      "AMO.9:12",
+      "AMO.9:8"
+    ],
+    "note_anchor_gaps": [
+      "AMO.3:4",
+      "AMO.3:6",
+      "AMO.4:10",
+      "AMO.4:7",
+      "AMO.5:10",
+      "AMO.5:2",
+      "AMO.5:6",
+      "AMO.5:7",
+      "AMO.5:8",
+      "AMO.9:11",
+      "AMO.9:12",
+      "AMO.9:8"
+    ],
+    "issue_count": 24
+  },
+  "wikilinks": {
+    "total_refs": 20,
+    "convertible_refs": 0,
+    "already_linked_refs": 20,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 16,
+      "matched_entities": [
+        {
+          "line_number": 22,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "Gregory the Great",
+          "context": "These judgments are clearly against God's spiritual enemies: demonic powers, idolatry, false teaching, pride, hypocrisy, etc. Gregory the Great sees Gilead, which"
+        },
+        {
+          "line_number": 51,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "them\" (JohnChr)."
+        },
+        {
+          "line_number": 63,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "John Chrysostom writes on the question of whether God is the author of evil: \"Now"
+        },
+        {
+          "line_number": 81,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "sinner, but that he return and live\" (BasilG)."
+        },
+        {
+          "line_number": 101,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "JohnCas",
+          "context": "(JohnCas)."
+        },
+        {
+          "line_number": 117,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "out by the Bridegroom\" (Jerome). Israel is a \"fallen virgin\" not because she is chaste, but"
+        },
+        {
+          "line_number": 126,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "House of Joseph refers to Joseph's two sons, Ephraim and Manasseh ([[GEN.46:20]])"
+        },
+        {
+          "line_number": 126,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "House of Joseph refers to Joseph's two sons, Ephraim and Manasseh ([[GEN.46:20]])"
+        },
+        {
+          "line_number": 165,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "the good... that you may live, and so the Lord God Almighty will be with you\" (AmbM). 5:21-27"
+        },
+        {
+          "line_number": 177,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "Basil",
+          "context": "17:5, 6). 6:1-6 Basil the Great, quoting this passage, comments that it is shameful when we spend"
+        },
+        {
+          "line_number": 185,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Justice was overturned when Pilate, having declared that Christ was innocent, submitted to the anger of the Jews and allowed Him to be crucified ([[LUK.23:13]]-25). Chrysostom remarks further that bitterness was hell's response when Christ "
+        },
+        {
+          "line_number": 189,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim the Syrian",
+          "context": "Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this"
+        },
+        {
+          "line_number": 189,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this"
+        },
+        {
+          "line_number": 197,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "Gregory the Great",
+          "context": "7:14-15 Gregory the Great writes on the work of grace in the life of the humble: \"What a"
+        },
+        {
+          "line_number": 219,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "Basil",
+          "context": "Basil the Great writes that when the people \"put to death the bread of life, a hunger"
+        },
+        {
+          "line_number": 250,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "God.\" Chrysostom writes on the fallen tabernacle of our human nature, \"For it was not"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 1,
+        "BASIL_GREAT": 3,
+        "EPHRAIM_SYRIAN": 3,
+        "GREGORY_GREAT": 2,
+        "JEROME": 1,
+        "JOHN_CASSIAN": 1,
+        "JOHN_CHRYSOSTOM": 4,
+        "JOSEPH_BETROTHED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 51,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 81,
+          "snippet": "BasilG"
+        },
+        {
+          "line_number": 101,
+          "snippet": "JohnCas"
+        },
+        {
+          "line_number": 117,
+          "snippet": "Jerome"
+        },
+        {
+          "line_number": 165,
+          "snippet": "AmbM"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 16,
+    "matched_entities": [
+      {
+        "line_number": 22,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "Gregory the Great",
+        "context": "These judgments are clearly against God's spiritual enemies: demonic powers, idolatry, false teaching, pride, hypocrisy, etc. Gregory the Great sees Gilead, which"
+      },
+      {
+        "line_number": 51,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "them\" (JohnChr)."
+      },
+      {
+        "line_number": 63,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "John Chrysostom writes on the question of whether God is the author of evil: \"Now"
+      },
+      {
+        "line_number": 81,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "sinner, but that he return and live\" (BasilG)."
+      },
+      {
+        "line_number": 101,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "JohnCas",
+        "context": "(JohnCas)."
+      },
+      {
+        "line_number": 117,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "out by the Bridegroom\" (Jerome). Israel is a \"fallen virgin\" not because she is chaste, but"
+      },
+      {
+        "line_number": 126,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "House of Joseph refers to Joseph's two sons, Ephraim and Manasseh ([[GEN.46:20]])"
+      },
+      {
+        "line_number": 126,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "House of Joseph refers to Joseph's two sons, Ephraim and Manasseh ([[GEN.46:20]])"
+      },
+      {
+        "line_number": 165,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "the good... that you may live, and so the Lord God Almighty will be with you\" (AmbM). 5:21-27"
+      },
+      {
+        "line_number": 177,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "Basil",
+        "context": "17:5, 6). 6:1-6 Basil the Great, quoting this passage, comments that it is shameful when we spend"
+      },
+      {
+        "line_number": 185,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Justice was overturned when Pilate, having declared that Christ was innocent, submitted to the anger of the Jews and allowed Him to be crucified ([[LUK.23:13]]-25). Chrysostom remarks further that bitterness was hell's response when Christ "
+      },
+      {
+        "line_number": 189,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim the Syrian",
+        "context": "Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this"
+      },
+      {
+        "line_number": 189,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this"
+      },
+      {
+        "line_number": 197,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "Gregory the Great",
+        "context": "7:14-15 Gregory the Great writes on the work of grace in the life of the humble: \"What a"
+      },
+      {
+        "line_number": 219,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "Basil",
+        "context": "Basil the Great writes that when the people \"put to death the bread of life, a hunger"
+      },
+      {
+        "line_number": 250,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "God.\" Chrysostom writes on the fallen tabernacle of our human nature, \"For it was not"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 1,
+      "BASIL_GREAT": 3,
+      "EPHRAIM_SYRIAN": 3,
+      "GREGORY_GREAT": 2,
+      "JEROME": 1,
+      "JOHN_CASSIAN": 1,
+      "JOHN_CHRYSOSTOM": 4,
+      "JOSEPH_BETROTHED": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 51,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 81,
+        "snippet": "BasilG"
+      },
+      {
+        "line_number": 101,
+        "snippet": "JohnCas"
+      },
+      {
+        "line_number": 117,
+        "snippet": "Jerome"
+      },
+      {
+        "line_number": 165,
+        "snippet": "AmbM"
+      }
+    ]
+  }
+}

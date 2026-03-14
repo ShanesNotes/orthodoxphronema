@@ -1,0 +1,230 @@
+{
+  "book_code": "2PE",
+  "position": 71,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/2PE_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 29,
+      "auto_fixable": 0,
+      "review_needed": 29,
+      "files_checked": 1,
+      "lines_checked": 131,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 21,
+      "P7": 8
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "2PE",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/2PE_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/2PE_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/2PE.md",
+    "counts": {
+      "scripture_markers": 22,
+      "footnote_entries": 22,
+      "scripture_anchors": 61,
+      "valid_marker_anchors": 22,
+      "valid_note_anchors": 22
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 16,
+    "convertible_refs": 0,
+    "already_linked_refs": 16,
+    "unresolved_refs": 1,
+    "unresolved_examples": [
+      {
+        "line_number": 287,
+        "raw_text": "Rev 21-22",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 181,
+          "entity": "IRENAEUS",
+          "matched_alias": "Iren",
+          "context": "to the church, and to lay hold of the tradition of truth\" (Iren)."
+        }
+      ],
+      "entity_counts": {
+        "IRENAEUS": 1
+      },
+      "unresolved_candidates_count": 1,
+      "unresolved_candidates": [
+        {
+          "line_number": 79,
+          "token": "CyrAl",
+          "context": "their midst' (Lv 26:12; [[2CO.6:16]])\" (CyrAl)."
+        }
+      ],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 181,
+          "snippet": "Iren"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 13,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Whereas, 1 Peter introduces the author simply as \"Peter, an apostle of Jesus Christ,\" 2"
+        },
+        {
+          "line_number": 17,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter adds Simon, the pre-Christian name of Peter, and a bondservant. God refers to"
+        },
+        {
+          "line_number": 19,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Jesus Christ (as in [[TIT.2:13]]). What Peter teaches in this letter is apostolic consensus: like"
+        },
+        {
+          "line_number": 31,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "knowledge, unknown by ordinary people. Peter teaches the true knowledge of God, and"
+        },
+        {
+          "line_number": 39,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter assures us we have no need for anything other than what we have received. For"
+        },
+        {
+          "line_number": 109,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Gnostics claimed to know God without becoming godlike. Peter makes it plain this is"
+        },
+        {
+          "line_number": 123,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "The primary truth with which Peter is dealing (which he has only indirectly touched"
+        },
+        {
+          "line_number": 141,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter has been an eyewitness to the majesty of Christ in many ways--and here"
+        },
+        {
+          "line_number": 145,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Transfiguration ([[MAT.17:1]]-8). What Peter is going to repeat about the second coming is the"
+        },
+        {
+          "line_number": 187,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter now reaches his main concern: false teachers who are unholy and"
+        },
+        {
+          "line_number": 191,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "the same way as does Jude) but they deny accountability in their lives. Isolating"
+        },
+        {
+          "line_number": 229,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "31:8, 16; [[DEU.23:4]], [[DEU.23:5]]; [[JOS.13:22]]; Jude 11."
+        },
+        {
+          "line_number": 303,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "The author knows of a collection of Paul's letters and regards it as equal in authority"
+        }
+      ],
+      "entity_counts": {
+        "JUDE_APOSTLE": 2,
+        "PAUL_APOSTLE": 1,
+        "PETER_APOSTLE": 10
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 1,
+    "matched_entities": [
+      {
+        "line_number": 181,
+        "entity": "IRENAEUS",
+        "matched_alias": "Iren",
+        "context": "to the church, and to lay hold of the tradition of truth\" (Iren)."
+      }
+    ],
+    "entity_counts": {
+      "IRENAEUS": 1
+    },
+    "unresolved_candidates_count": 1,
+    "unresolved_candidates": [
+      {
+        "line_number": 79,
+        "token": "CyrAl",
+        "context": "their midst' (Lv 26:12; [[2CO.6:16]])\" (CyrAl)."
+      }
+    ],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 181,
+        "snippet": "Iren"
+      }
+    ]
+  }
+}

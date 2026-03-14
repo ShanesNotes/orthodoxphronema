@@ -1,0 +1,946 @@
+{
+  "book_code": "PRO",
+  "position": 25,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/PRO_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 143,
+      "auto_fixable": 0,
+      "review_needed": 143,
+      "files_checked": 1,
+      "lines_checked": 1111,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 99,
+      "P7": 44
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "PRO",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/PRO_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/PRO_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/PRO.md",
+    "counts": {
+      "scripture_markers": 252,
+      "footnote_entries": 252,
+      "scripture_anchors": 50,
+      "valid_marker_anchors": 232,
+      "valid_note_anchors": 232
+    },
+    "invalid_marker_anchors": {
+      "PRO.10:29": "invalid_verse",
+      "PRO.10:30": "invalid_verse",
+      "PRO.11:29": "invalid_verse",
+      "PRO.11:30": "invalid_verse",
+      "PRO.12:31": "invalid_verse",
+      "PRO.13:26": "invalid_verse",
+      "PRO.14:34": "invalid_verse",
+      "PRO.15:33": "invalid_verse",
+      "PRO.15:37": "invalid_verse",
+      "PRO.15:38": "invalid_verse",
+      "PRO.16:29": "invalid_verse",
+      "PRO.16:30": "invalid_verse",
+      "PRO.16:31": "invalid_verse",
+      "PRO.17:29": "invalid_verse",
+      "PRO.17:30": "invalid_verse",
+      "PRO.18:21": "invalid_verse",
+      "PRO.19:29": "invalid_verse",
+      "PRO.20:25": "invalid_verse",
+      "PRO.22:27": "invalid_verse",
+      "PRO.22:30": "invalid_verse"
+    },
+    "invalid_note_anchors": {
+      "PRO.10:29": "invalid_verse",
+      "PRO.10:30": "invalid_verse",
+      "PRO.11:29": "invalid_verse",
+      "PRO.11:30": "invalid_verse",
+      "PRO.12:31": "invalid_verse",
+      "PRO.13:26": "invalid_verse",
+      "PRO.14:34": "invalid_verse",
+      "PRO.15:33": "invalid_verse",
+      "PRO.15:37": "invalid_verse",
+      "PRO.15:38": "invalid_verse",
+      "PRO.16:29": "invalid_verse",
+      "PRO.16:30": "invalid_verse",
+      "PRO.16:31": "invalid_verse",
+      "PRO.17:29": "invalid_verse",
+      "PRO.17:30": "invalid_verse",
+      "PRO.18:21": "invalid_verse",
+      "PRO.19:29": "invalid_verse",
+      "PRO.20:25": "invalid_verse",
+      "PRO.22:27": "invalid_verse",
+      "PRO.22:30": "invalid_verse"
+    },
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "PRO.10:13",
+      "PRO.10:15",
+      "PRO.10:2",
+      "PRO.10:20",
+      "PRO.10:24",
+      "PRO.10:3",
+      "PRO.10:4",
+      "PRO.10:6",
+      "PRO.10:9",
+      "PRO.11:10",
+      "PRO.11:15",
+      "PRO.11:17",
+      "PRO.11:2",
+      "PRO.11:22",
+      "PRO.11:24",
+      "PRO.11:4",
+      "PRO.11:6",
+      "PRO.11:8",
+      "PRO.12:10",
+      "PRO.12:13",
+      "PRO.12:15",
+      "PRO.12:18",
+      "PRO.12:19",
+      "PRO.12:2",
+      "PRO.12:20",
+      "PRO.12:22",
+      "PRO.12:25",
+      "PRO.12:4",
+      "PRO.12:5",
+      "PRO.12:8",
+      "PRO.13:10",
+      "PRO.13:11",
+      "PRO.13:15",
+      "PRO.13:16",
+      "PRO.13:17",
+      "PRO.13:18",
+      "PRO.13:2",
+      "PRO.13:20",
+      "PRO.13:23",
+      "PRO.13:3",
+      "PRO.13:4",
+      "PRO.13:8",
+      "PRO.14:12",
+      "PRO.14:14",
+      "PRO.14:15",
+      "PRO.14:17",
+      "PRO.14:18",
+      "PRO.14:22",
+      "PRO.14:25",
+      "PRO.14:28",
+      "PRO.14:3",
+      "PRO.14:30",
+      "PRO.14:31",
+      "PRO.14:6",
+      "PRO.14:7",
+      "PRO.14:8",
+      "PRO.15:13",
+      "PRO.15:15",
+      "PRO.15:19",
+      "PRO.15:21",
+      "PRO.15:22",
+      "PRO.15:25",
+      "PRO.15:3",
+      "PRO.15:30",
+      "PRO.15:4",
+      "PRO.15:8",
+      "PRO.16:12",
+      "PRO.16:14",
+      "PRO.16:17",
+      "PRO.16:20",
+      "PRO.16:21",
+      "PRO.16:3",
+      "PRO.16:4",
+      "PRO.16:7",
+      "PRO.17:14",
+      "PRO.17:16",
+      "PRO.17:19",
+      "PRO.17:22",
+      "PRO.17:3",
+      "PRO.17:4",
+      "PRO.17:9",
+      "PRO.18:10",
+      "PRO.18:14",
+      "PRO.18:15",
+      "PRO.18:19",
+      "PRO.18:4",
+      "PRO.18:7",
+      "PRO.18:8",
+      "PRO.19:15",
+      "PRO.19:17",
+      "PRO.19:21",
+      "PRO.19:23",
+      "PRO.19:25",
+      "PRO.19:6",
+      "PRO.19:8",
+      "PRO.1:11",
+      "PRO.1:20",
+      "PRO.1:22",
+      "PRO.1:23",
+      "PRO.1:24",
+      "PRO.1:6",
+      "PRO.1:7",
+      "PRO.1:9",
+      "PRO.20:15",
+      "PRO.20:17",
+      "PRO.20:20",
+      "PRO.20:22",
+      "PRO.20:5",
+      "PRO.20:9",
+      "PRO.21:10",
+      "PRO.21:14",
+      "PRO.21:21",
+      "PRO.21:24",
+      "PRO.21:26",
+      "PRO.21:29",
+      "PRO.21:3",
+      "PRO.21:6",
+      "PRO.22:12",
+      "PRO.22:16",
+      "PRO.22:20",
+      "PRO.22:4",
+      "PRO.22:5",
+      "PRO.22:8",
+      "PRO.23:12",
+      "PRO.23:16",
+      "PRO.23:21",
+      "PRO.24:10",
+      "PRO.24:13",
+      "PRO.24:16",
+      "PRO.24:17",
+      "PRO.24:3",
+      "PRO.24:31",
+      "PRO.24:7",
+      "PRO.25:18",
+      "PRO.25:24",
+      "PRO.25:31",
+      "PRO.25:4",
+      "PRO.25:5",
+      "PRO.25:6",
+      "PRO.25:8",
+      "PRO.26:14",
+      "PRO.26:18",
+      "PRO.27:17",
+      "PRO.27:2",
+      "PRO.27:20",
+      "PRO.27:22",
+      "PRO.27:23",
+      "PRO.27:25",
+      "PRO.27:3",
+      "PRO.27:6",
+      "PRO.28:13",
+      "PRO.28:14",
+      "PRO.28:2",
+      "PRO.28:20",
+      "PRO.28:28",
+      "PRO.28:30",
+      "PRO.28:5",
+      "PRO.28:9",
+      "PRO.29:10",
+      "PRO.29:19",
+      "PRO.29:23",
+      "PRO.29:25",
+      "PRO.29:27",
+      "PRO.29:6",
+      "PRO.2:3",
+      "PRO.2:7",
+      "PRO.30:11",
+      "PRO.30:16",
+      "PRO.30:2",
+      "PRO.30:4",
+      "PRO.30:5",
+      "PRO.30:7",
+      "PRO.31:10",
+      "PRO.3:11",
+      "PRO.3:23",
+      "PRO.3:4",
+      "PRO.4:19",
+      "PRO.5:7",
+      "PRO.6:15",
+      "PRO.6:17",
+      "PRO.6:26",
+      "PRO.6:32",
+      "PRO.7:25",
+      "PRO.7:7",
+      "PRO.8:10",
+      "PRO.8:2",
+      "PRO.8:22",
+      "PRO.8:23",
+      "PRO.8:24",
+      "PRO.8:26",
+      "PRO.8:29",
+      "PRO.8:31",
+      "PRO.8:32",
+      "PRO.8:34",
+      "PRO.8:35",
+      "PRO.8:4",
+      "PRO.8:7",
+      "PRO.8:9",
+      "PRO.9:2",
+      "PRO.9:25",
+      "PRO.9:3",
+      "PRO.9:4",
+      "PRO.9:5"
+    ],
+    "note_anchor_gaps": [
+      "PRO.10:13",
+      "PRO.10:15",
+      "PRO.10:2",
+      "PRO.10:20",
+      "PRO.10:24",
+      "PRO.10:3",
+      "PRO.10:4",
+      "PRO.10:6",
+      "PRO.10:9",
+      "PRO.11:10",
+      "PRO.11:15",
+      "PRO.11:17",
+      "PRO.11:2",
+      "PRO.11:22",
+      "PRO.11:24",
+      "PRO.11:4",
+      "PRO.11:6",
+      "PRO.11:8",
+      "PRO.12:10",
+      "PRO.12:13",
+      "PRO.12:15",
+      "PRO.12:18",
+      "PRO.12:19",
+      "PRO.12:2",
+      "PRO.12:20",
+      "PRO.12:22",
+      "PRO.12:25",
+      "PRO.12:4",
+      "PRO.12:5",
+      "PRO.12:8",
+      "PRO.13:10",
+      "PRO.13:11",
+      "PRO.13:15",
+      "PRO.13:16",
+      "PRO.13:17",
+      "PRO.13:18",
+      "PRO.13:2",
+      "PRO.13:20",
+      "PRO.13:23",
+      "PRO.13:3",
+      "PRO.13:4",
+      "PRO.13:8",
+      "PRO.14:12",
+      "PRO.14:14",
+      "PRO.14:15",
+      "PRO.14:17",
+      "PRO.14:18",
+      "PRO.14:22",
+      "PRO.14:25",
+      "PRO.14:28",
+      "PRO.14:3",
+      "PRO.14:30",
+      "PRO.14:31",
+      "PRO.14:6",
+      "PRO.14:7",
+      "PRO.14:8",
+      "PRO.15:13",
+      "PRO.15:15",
+      "PRO.15:19",
+      "PRO.15:21",
+      "PRO.15:22",
+      "PRO.15:25",
+      "PRO.15:3",
+      "PRO.15:30",
+      "PRO.15:4",
+      "PRO.15:8",
+      "PRO.16:12",
+      "PRO.16:14",
+      "PRO.16:17",
+      "PRO.16:20",
+      "PRO.16:21",
+      "PRO.16:3",
+      "PRO.16:4",
+      "PRO.16:7",
+      "PRO.17:14",
+      "PRO.17:16",
+      "PRO.17:19",
+      "PRO.17:22",
+      "PRO.17:3",
+      "PRO.17:4",
+      "PRO.17:9",
+      "PRO.18:10",
+      "PRO.18:14",
+      "PRO.18:15",
+      "PRO.18:19",
+      "PRO.18:4",
+      "PRO.18:7",
+      "PRO.18:8",
+      "PRO.19:15",
+      "PRO.19:17",
+      "PRO.19:21",
+      "PRO.19:23",
+      "PRO.19:25",
+      "PRO.19:6",
+      "PRO.19:8",
+      "PRO.1:11",
+      "PRO.1:20",
+      "PRO.1:22",
+      "PRO.1:23",
+      "PRO.1:24",
+      "PRO.1:6",
+      "PRO.1:7",
+      "PRO.1:9",
+      "PRO.20:15",
+      "PRO.20:17",
+      "PRO.20:20",
+      "PRO.20:22",
+      "PRO.20:5",
+      "PRO.20:9",
+      "PRO.21:10",
+      "PRO.21:14",
+      "PRO.21:21",
+      "PRO.21:24",
+      "PRO.21:26",
+      "PRO.21:29",
+      "PRO.21:3",
+      "PRO.21:6",
+      "PRO.22:12",
+      "PRO.22:16",
+      "PRO.22:20",
+      "PRO.22:4",
+      "PRO.22:5",
+      "PRO.22:8",
+      "PRO.23:12",
+      "PRO.23:16",
+      "PRO.23:21",
+      "PRO.24:10",
+      "PRO.24:13",
+      "PRO.24:16",
+      "PRO.24:17",
+      "PRO.24:3",
+      "PRO.24:31",
+      "PRO.24:7",
+      "PRO.25:18",
+      "PRO.25:24",
+      "PRO.25:31",
+      "PRO.25:4",
+      "PRO.25:5",
+      "PRO.25:6",
+      "PRO.25:8",
+      "PRO.26:14",
+      "PRO.26:18",
+      "PRO.27:17",
+      "PRO.27:2",
+      "PRO.27:20",
+      "PRO.27:22",
+      "PRO.27:23",
+      "PRO.27:25",
+      "PRO.27:3",
+      "PRO.27:6",
+      "PRO.28:13",
+      "PRO.28:14",
+      "PRO.28:2",
+      "PRO.28:20",
+      "PRO.28:28",
+      "PRO.28:30",
+      "PRO.28:5",
+      "PRO.28:9",
+      "PRO.29:10",
+      "PRO.29:19",
+      "PRO.29:23",
+      "PRO.29:25",
+      "PRO.29:27",
+      "PRO.29:6",
+      "PRO.2:3",
+      "PRO.2:7",
+      "PRO.30:11",
+      "PRO.30:16",
+      "PRO.30:2",
+      "PRO.30:4",
+      "PRO.30:5",
+      "PRO.30:7",
+      "PRO.31:10",
+      "PRO.3:11",
+      "PRO.3:23",
+      "PRO.3:4",
+      "PRO.4:19",
+      "PRO.5:7",
+      "PRO.6:15",
+      "PRO.6:17",
+      "PRO.6:26",
+      "PRO.6:32",
+      "PRO.7:25",
+      "PRO.7:7",
+      "PRO.8:10",
+      "PRO.8:2",
+      "PRO.8:22",
+      "PRO.8:23",
+      "PRO.8:24",
+      "PRO.8:26",
+      "PRO.8:29",
+      "PRO.8:31",
+      "PRO.8:32",
+      "PRO.8:34",
+      "PRO.8:35",
+      "PRO.8:4",
+      "PRO.8:7",
+      "PRO.8:9",
+      "PRO.9:2",
+      "PRO.9:25",
+      "PRO.9:3",
+      "PRO.9:4",
+      "PRO.9:5"
+    ],
+    "issue_count": 446
+  },
+  "wikilinks": {
+    "total_refs": 47,
+    "convertible_refs": 0,
+    "already_linked_refs": 47,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 18,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "St. Hippolytus",
+          "context": ", 2 The Book of Proverbs was written that one might know Christ, the Wisdom of God. As St. Paul pointed out, Christ is \"the power of God and the wisdom of God\" ([[1CO.1:24]]). St. Hippolytus also said, \"These are the proverbs of Solomon, th"
+        },
+        {
+          "line_number": 15,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": ", 2 The Book of Proverbs was written that one might know Christ, the Wisdom of God. As St. Paul pointed out, Christ is \"the power of God and the wisdom of God\" ([[1CO.1:24]]). St. Hippolytus also said, \"These are the proverbs of Solomon, th"
+        },
+        {
+          "line_number": 29,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "of sin, so the God-given virtues in one's nature can manifest themselves (MaxCon, JohnDm)."
+        },
+        {
+          "line_number": 29,
+          "entity": "MAXIMUS_CONFESSOR",
+          "matched_alias": "MaxCon",
+          "context": "of sin, so the God-given virtues in one's nature can manifest themselves (MaxCon, JohnDm)."
+        },
+        {
+          "line_number": 237,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "St. Hippolytus",
+          "context": "healing and wholeness (v. 21). Concerning 4:24, St. Hippolytus writes, \"He looks straight forward who has thoughts"
+        },
+        {
+          "line_number": 237,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "healing and wholeness (v. 21). Concerning 4:24, St. Hippolytus writes, \"He looks straight forward who has thoughts"
+        },
+        {
+          "line_number": 501,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "Wisdom over His works; for the Father made all things through Wisdom (AthanG). \"Created\" as used here does not mean the Father made Wisdom Himself, for the next"
+        },
+        {
+          "line_number": 1343,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "Salvation begins and ends with humility (JohnChr). Humility is a fruit of the general"
+        },
+        {
+          "line_number": 1462,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "one is brighter than the sun, the other more stinking than mire\" (JohnChr)."
+        },
+        {
+          "line_number": 1783,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr)."
+        },
+        {
+          "line_number": 1906,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "anything by sinning under the pretext of almsgiving\" (GrgGt)."
+        },
+        {
+          "line_number": 1996,
+          "entity": "VINCENT_LERINS",
+          "matched_alias": "VincLer",
+          "context": "add, change, and take away, in religion\" (VincLer)."
+        },
+        {
+          "line_number": 2106,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "JohnCas",
+          "context": "passion, which by God's grace you had previously overcome\" (JohnCas)."
+        },
+        {
+          "line_number": 2201,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "his soul (v. 26). St. John Cassian in his treatise on the vices speaks of eight of them: gluttony, unchastity, avarice, anger, dejection, listlessness, self-esteem, and arrogance. The man without discernment, the slothful man, and the divis"
+        },
+        {
+          "line_number": 2201,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "St. John Cassian",
+          "context": "his soul (v. 26). St. John Cassian in his treatise on the vices speaks of eight of them: gluttony, unchastity, avarice, anger, dejection, listlessness, self-esteem, and arrogance. The man without discernment, the slothful man, and the divis"
+        },
+        {
+          "line_number": 2201,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "John Cassian",
+          "context": "his soul (v. 26). St. John Cassian in his treatise on the vices speaks of eight of them: gluttony, unchastity, avarice, anger, dejection, listlessness, self-esteem, and arrogance. The man without discernment, the slothful man, and the divis"
+        },
+        {
+          "line_number": 2201,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "Cassian",
+          "context": "his soul (v. 26). St. John Cassian in his treatise on the vices speaks of eight of them: gluttony, unchastity, avarice, anger, dejection, listlessness, self-esteem, and arrogance. The man without discernment, the slothful man, and the divis"
+        },
+        {
+          "line_number": 2216,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "reach it safely\" (JohnChr)."
+        }
+      ],
+      "entity_counts": {
+        "ATHANASIUS": 1,
+        "GREGORY_GREAT": 1,
+        "HIPPOLYTUS_ROME": 4,
+        "JOHN_CASSIAN": 4,
+        "JOHN_CHRYSOSTOM": 4,
+        "JOHN_DAMASCENE": 1,
+        "JOHN_THEOLOGIAN": 1,
+        "MAXIMUS_CONFESSOR": 1,
+        "VINCENT_LERINS": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 501,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1343,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1462,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1783,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1906,
+          "snippet": "GrgGt"
+        },
+        {
+          "line_number": 1996,
+          "snippet": "VincLer"
+        },
+        {
+          "line_number": 2106,
+          "snippet": "JohnCas"
+        },
+        {
+          "line_number": 2216,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 10,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": ", 2 The Book of Proverbs was written that one might know Christ, the Wisdom of God. As St. Paul pointed out, Christ is \"the power of God and the wisdom of God\" ([[1CO.1:24]]). St. Hippolytus also said, \"These are the proverbs of Solomon, th"
+        },
+        {
+          "line_number": 15,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": ", 2 The Book of Proverbs was written that one might know Christ, the Wisdom of God. As St. Paul pointed out, Christ is \"the power of God and the wisdom of God\" ([[1CO.1:24]]). St. Hippolytus also said, \"These are the proverbs of Solomon, th"
+        },
+        {
+          "line_number": 270,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "brings regret and a totally dissipated life (vv. 9-11; see also St. Paul's teaching in [[1CO.6:15]]-20). Such a son will regret hating the instruction and reproofs of Wisdom (vv. 12, 13). Furthermore, little by little, this lifestyle leads "
+        },
+        {
+          "line_number": 270,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "brings regret and a totally dissipated life (vv. 9-11; see also St. Paul's teaching in [[1CO.6:15]]-20). Such a son will regret hating the instruction and reproofs of Wisdom (vv. 12, 13). Furthermore, little by little, this lifestyle leads "
+        },
+        {
+          "line_number": 304,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "his lips to join with a friend in his evil undertakings (v. 1). As St. Paul said, \"Evil company"
+        },
+        {
+          "line_number": 304,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "his lips to join with a friend in his evil undertakings (v. 1). As St. Paul said, \"Evil company"
+        },
+        {
+          "line_number": 834,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Apostle Peter",
+          "context": "The apostle Peter quotes this verse in [[1PE.4:18]]. The righteous man suffers"
+        },
+        {
+          "line_number": 834,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "The apostle Peter quotes this verse in [[1PE.4:18]]. The righteous man suffers"
+        },
+        {
+          "line_number": 1981,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul said in agreement with this verse, \"Do not be deceived: 'Evil company"
+        },
+        {
+          "line_number": 1981,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul said in agreement with this verse, \"Do not be deceived: 'Evil company"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 8,
+        "PETER_APOSTLE": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 4,
+      "matched_entities": [
+        {
+          "line_number": 509,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "the Father before all time\" (Creed; see also v. 25). The beginning of His ways means two things. It means the Father made all things"
+        },
+        {
+          "line_number": 517,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "outlined in the Creed. \"In the beginning before time\" is the same as \"In the beginning was"
+        },
+        {
+          "line_number": 517,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "outlined in the Creed. \"In the beginning before time\" is the same as \"In the beginning was"
+        },
+        {
+          "line_number": 530,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "outside all time and ages (see also Creed)."
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 4
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 18,
+    "matched_entities": [
+      {
+        "line_number": 15,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "St. Hippolytus",
+        "context": ", 2 The Book of Proverbs was written that one might know Christ, the Wisdom of God. As St. Paul pointed out, Christ is \"the power of God and the wisdom of God\" ([[1CO.1:24]]). St. Hippolytus also said, \"These are the proverbs of Solomon, th"
+      },
+      {
+        "line_number": 15,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": ", 2 The Book of Proverbs was written that one might know Christ, the Wisdom of God. As St. Paul pointed out, Christ is \"the power of God and the wisdom of God\" ([[1CO.1:24]]). St. Hippolytus also said, \"These are the proverbs of Solomon, th"
+      },
+      {
+        "line_number": 29,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "of sin, so the God-given virtues in one's nature can manifest themselves (MaxCon, JohnDm)."
+      },
+      {
+        "line_number": 29,
+        "entity": "MAXIMUS_CONFESSOR",
+        "matched_alias": "MaxCon",
+        "context": "of sin, so the God-given virtues in one's nature can manifest themselves (MaxCon, JohnDm)."
+      },
+      {
+        "line_number": 237,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "St. Hippolytus",
+        "context": "healing and wholeness (v. 21). Concerning 4:24, St. Hippolytus writes, \"He looks straight forward who has thoughts"
+      },
+      {
+        "line_number": 237,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "healing and wholeness (v. 21). Concerning 4:24, St. Hippolytus writes, \"He looks straight forward who has thoughts"
+      },
+      {
+        "line_number": 501,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "Wisdom over His works; for the Father made all things through Wisdom (AthanG). \"Created\" as used here does not mean the Father made Wisdom Himself, for the next"
+      },
+      {
+        "line_number": 1343,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "Salvation begins and ends with humility (JohnChr). Humility is a fruit of the general"
+      },
+      {
+        "line_number": 1462,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "one is brighter than the sun, the other more stinking than mire\" (JohnChr)."
+      },
+      {
+        "line_number": 1783,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr)."
+      },
+      {
+        "line_number": 1906,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "anything by sinning under the pretext of almsgiving\" (GrgGt)."
+      },
+      {
+        "line_number": 1996,
+        "entity": "VINCENT_LERINS",
+        "matched_alias": "VincLer",
+        "context": "add, change, and take away, in religion\" (VincLer)."
+      },
+      {
+        "line_number": 2106,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "JohnCas",
+        "context": "passion, which by God's grace you had previously overcome\" (JohnCas)."
+      },
+      {
+        "line_number": 2201,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "his soul (v. 26). St. John Cassian in his treatise on the vices speaks of eight of them: gluttony, unchastity, avarice, anger, dejection, listlessness, self-esteem, and arrogance. The man without discernment, the slothful man, and the divis"
+      },
+      {
+        "line_number": 2201,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "St. John Cassian",
+        "context": "his soul (v. 26). St. John Cassian in his treatise on the vices speaks of eight of them: gluttony, unchastity, avarice, anger, dejection, listlessness, self-esteem, and arrogance. The man without discernment, the slothful man, and the divis"
+      },
+      {
+        "line_number": 2201,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "John Cassian",
+        "context": "his soul (v. 26). St. John Cassian in his treatise on the vices speaks of eight of them: gluttony, unchastity, avarice, anger, dejection, listlessness, self-esteem, and arrogance. The man without discernment, the slothful man, and the divis"
+      },
+      {
+        "line_number": 2201,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "Cassian",
+        "context": "his soul (v. 26). St. John Cassian in his treatise on the vices speaks of eight of them: gluttony, unchastity, avarice, anger, dejection, listlessness, self-esteem, and arrogance. The man without discernment, the slothful man, and the divis"
+      },
+      {
+        "line_number": 2216,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "reach it safely\" (JohnChr)."
+      }
+    ],
+    "entity_counts": {
+      "ATHANASIUS": 1,
+      "GREGORY_GREAT": 1,
+      "HIPPOLYTUS_ROME": 4,
+      "JOHN_CASSIAN": 4,
+      "JOHN_CHRYSOSTOM": 4,
+      "JOHN_DAMASCENE": 1,
+      "JOHN_THEOLOGIAN": 1,
+      "MAXIMUS_CONFESSOR": 1,
+      "VINCENT_LERINS": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 501,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1343,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1462,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1783,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1906,
+        "snippet": "GrgGt"
+      },
+      {
+        "line_number": 1996,
+        "snippet": "VincLer"
+      },
+      {
+        "line_number": 2106,
+        "snippet": "JohnCas"
+      },
+      {
+        "line_number": 2216,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

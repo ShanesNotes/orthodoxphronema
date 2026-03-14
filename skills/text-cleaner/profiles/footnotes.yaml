@@ -1,0 +1,283 @@
+# Footnotes profile for staging/validated and study/footnotes cleanup
+name: footnotes
+description: >
+  Profile for footnote structural cleanup across the Orthodox Phronema Archive.
+  Extends the staging profile with F1-F4 footnote-specific pattern detection:
+  fused subsection headers, dangling continuation ranges, broken wikilinks,
+  and unresolved source alias normalization.
+
+line_format: plain
+
+# No verse anchors — process every non-blank line
+anchor_regex: null
+
+# Protected zones — never modify these
+protected_zones:
+  - '^---\s*$'         # YAML frontmatter
+  - '^#{1,4}\s'        # Markdown headers
+  - '^\*\(anchor:'     # Anchor reference lines
+  - '^\*\(after '      # Article placement markers
+
+# Biblical names allowlist (same as canon)
+allowlist: schemas/biblical_names.txt
+
+# Fused prefixes — same as canon (OSB cross-reference markers)
+fused_prefixes: ["a", "b", "c", "d"]
+
+# Footnote structural checks to enable
+footnote_checks:
+  - F1   # Fused subsection header (content fused with chapter-range)
+  - F2   # Dangling continuation range (wikilink-N without proper bracket)
+  - F3   # Broken wikilink (unmatched [[ or ]])
+  - F4   # Unresolved source alias (vs. reference_aliases.yaml)
+
+# Path to reference aliases for F4 checking
+reference_aliases_path: schemas/reference_aliases.yaml
+
+# Prepositions for P4 detection
+prepositions:
+  - "of"
+  - "in"
+  - "to"
+  - "for"
+  - "with"
+  - "from"
+  - "on"
+  - "by"
+  - "at"
+  - "as"
+  - "into"
+  - "upon"
+  - "over"
+  - "under"
+  - "after"
+  - "before"
+  - "between"
+  - "through"
+  - "about"
+  - "against"
+  - "among"
+  - "within"
+  - "without"
+  - "toward"
+  - "towards"
+  - "unto"
+
+# Conjunctions for P8 detection
+conjunctions:
+  - "and"
+  - "but"
+  - "or"
+  - "nor"
+  - "for"
+  - "yet"
+  - "so"
+  - "that"
+  - "then"
+  - "when"
+  - "while"
+  - "although"
+  - "because"
+  - "since"
+  - "until"
+  - "unless"
+  - "therefore"
+  - "moreover"
+  - "nevertheless"
+  - "however"
+
+# Context-sensitive fusions
+context_patterns:
+  - pattern: '\balong time\b'
+    replacement: 'a long time'
+  - pattern: '\bafar country\b'
+    replacement: 'a far country'
+
+# False positives — inherited from staging
+false_positives:
+  - able
+  - about
+  - above
+  - abroad
+  - absent
+  - according
+  - account
+  - acknowledge
+  - across
+  - acted
+  - added
+  - after
+  - afterward
+  - afterwards
+  - again
+  - against
+  - age
+  - aged
+  - ago
+  - agreed
+  - alive
+  - all
+  - almost
+  - alone
+  - along
+  - already
+  - also
+  - altar
+  - altars
+  - although
+  - altogether
+  - always
+  - amazed
+  - among
+  - amongst
+  - amount
+  - ancient
+  - and
+  - anger
+  - angry
+  - anguish
+  - animal
+  - announced
+  - anointed
+  - another
+  - answer
+  - answered
+  - any
+  - anyone
+  - anything
+  - apart
+  - appear
+  - appeared
+  - appointed
+  - approached
+  - are
+  - arise
+  - ark
+  - arm
+  - armed
+  - armies
+  - army
+  - arose
+  - around
+  - arranged
+  - array
+  - arrived
+  - arrogant
+  - arrow
+  - arrows
+  - as
+  - ascend
+  - ascended
+  - ashamed
+  - ashes
+  - aside
+  - ask
+  - asked
+  - asleep
+  - assembled
+  - assembly
+  - assigned
+  - at
+  - ate
+  - atonement
+  - attained
+  - authority
+  - avenge
+  - avoid
+  - awake
+  - awakened
+  - aware
+  - away
+  - awe
+  - afar
+  - afoot
+  - aright
+  - asunder
+  - atone
+  - back
+  - bad
+  - battle
+  - bear
+  - bearing
+  - bears
+  - beast
+  - beautiful
+  - became
+  - because
+  - become
+  - bed
+  - been
+  - before
+  - began
+  - beginning
+  - behalf
+  - behind
+  - behold
+  - being
+  - believe
+  - beloved
+  - below
+  - beneath
+  - beside
+  - besides
+  - best
+  - better
+  - between
+  - beyond
+  - birth
+  - blameless
+  - bless
+  - blessed
+  - blessing
+  - blind
+  - blood
+  - blow
+  - body
+  - bone
+  - bones
+  - book
+  - border
+  - born
+  - both
+  - bound
+  - bow
+  - bowed
+  - boy
+  - branch
+  - branches
+  - bread
+  - break
+  - breath
+  - brethren
+  - bride
+  - bring
+  - broad
+  - broke
+  - broken
+  - brother
+  - brothers
+  - brought
+  - build
+  - built
+  - bull
+  - burn
+  - burned
+  - burning
+  - burnt
+  - burst
+  - bury
+  - but
+  - buy
+  - dwelled
+  - coffered
+  - bended
+  - subsided
+
+# Predefined scopes
+scopes:
+  staging: staging/validated
+  staging_ot: staging/validated/OT
+  staging_nt: staging/validated/NT
+  study_footnotes: study/footnotes
+  study_footnotes_ot: study/footnotes/OT
+  study_footnotes_nt: study/footnotes/NT

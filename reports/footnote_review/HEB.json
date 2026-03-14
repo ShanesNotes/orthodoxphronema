@@ -1,0 +1,273 @@
+{
+  "book_code": "HEB",
+  "position": 68,
+  "testament": "NT",
+  "status": "complete",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/HEB_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 99,
+      "auto_fixable": 0,
+      "review_needed": 99,
+      "files_checked": 1,
+      "lines_checked": 580,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P4": 1,
+      "P6": 90,
+      "P7": 8
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "HEB",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/HEB_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/HEB_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/HEB.md",
+    "counts": {
+      "scripture_markers": 95,
+      "footnote_entries": 95,
+      "scripture_anchors": 303,
+      "valid_marker_anchors": 95,
+      "valid_note_anchors": 95
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 65,
+    "convertible_refs": 0,
+    "already_linked_refs": 65,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 10,
+      "matched_entities": [
+        {
+          "line_number": 41,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "St. Basil the Great",
+          "context": "The first half of v. 3 is quoted verbatim in the Liturgy of St. Basil the Great. The"
+        },
+        {
+          "line_number": 41,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "St. Basil",
+          "context": "The first half of v. 3 is quoted verbatim in the Liturgy of St. Basil the Great. The"
+        },
+        {
+          "line_number": 41,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "Basil",
+          "context": "The first half of v. 3 is quoted verbatim in the Liturgy of St. Basil the Great. The"
+        },
+        {
+          "line_number": 521,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "Scriptures (JohnChr)."
+        },
+        {
+          "line_number": 553,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "the heavenly gift (see [[1PE.2:3]]) may refer to the grace of baptism--Chrysostom says this"
+        },
+        {
+          "line_number": 605,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "St. Gregory of Nyssa",
+          "context": "Canon II of St. Gregory of Nyssa, and the Canons of the Council of Ancyra (AD 314)."
+        },
+        {
+          "line_number": 605,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "Gregory of Nyssa",
+          "context": "Canon II of St. Gregory of Nyssa, and the Canons of the Council of Ancyra (AD 314)."
+        },
+        {
+          "line_number": 613,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "These verses are reminiscent of John the Baptist's and Jesus' images and parables of"
+        },
+        {
+          "line_number": 1021,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Jacob prefigured the Cross when he venerated the top of the staff of Joseph (Gn"
+        },
+        {
+          "line_number": 1023,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "47:31) and when he blessed Joseph's sons with his hands crossed ([[GEN.48:14]])."
+        }
+      ],
+      "entity_counts": {
+        "BASIL_GREAT": 3,
+        "GREGORY_NYSSA": 2,
+        "JOHN_CHRYSOSTOM": 2,
+        "JOHN_FORERUNNER": 1,
+        "JOSEPH_BETROTHED": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 521,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 4,
+      "matched_entities": [
+        {
+          "line_number": 47,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Nicene Creed",
+          "context": "Father beyond time and without change. Thus, the Nicene Creed speaks of \"Light of"
+        },
+        {
+          "line_number": 47,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Father beyond time and without change. Thus, the Nicene Creed speaks of \"Light of"
+        },
+        {
+          "line_number": 113,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Nicene Creed",
+          "context": "reference to the Son in His divine, eternal nature. The Nicene Creed states He is"
+        },
+        {
+          "line_number": 113,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "reference to the Son in His divine, eternal nature. The Nicene Creed states He is"
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 4
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 10,
+    "matched_entities": [
+      {
+        "line_number": 41,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "St. Basil the Great",
+        "context": "The first half of v. 3 is quoted verbatim in the Liturgy of St. Basil the Great. The"
+      },
+      {
+        "line_number": 41,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "St. Basil",
+        "context": "The first half of v. 3 is quoted verbatim in the Liturgy of St. Basil the Great. The"
+      },
+      {
+        "line_number": 41,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "Basil",
+        "context": "The first half of v. 3 is quoted verbatim in the Liturgy of St. Basil the Great. The"
+      },
+      {
+        "line_number": 521,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "Scriptures (JohnChr)."
+      },
+      {
+        "line_number": 553,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "the heavenly gift (see [[1PE.2:3]]) may refer to the grace of baptism--Chrysostom says this"
+      },
+      {
+        "line_number": 605,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "St. Gregory of Nyssa",
+        "context": "Canon II of St. Gregory of Nyssa, and the Canons of the Council of Ancyra (AD 314)."
+      },
+      {
+        "line_number": 605,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "Gregory of Nyssa",
+        "context": "Canon II of St. Gregory of Nyssa, and the Canons of the Council of Ancyra (AD 314)."
+      },
+      {
+        "line_number": 613,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "These verses are reminiscent of John the Baptist's and Jesus' images and parables of"
+      },
+      {
+        "line_number": 1021,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Jacob prefigured the Cross when he venerated the top of the staff of Joseph (Gn"
+      },
+      {
+        "line_number": 1023,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "47:31) and when he blessed Joseph's sons with his hands crossed ([[GEN.48:14]])."
+      }
+    ],
+    "entity_counts": {
+      "BASIL_GREAT": 3,
+      "GREGORY_NYSSA": 2,
+      "JOHN_CHRYSOSTOM": 2,
+      "JOHN_FORERUNNER": 1,
+      "JOSEPH_BETROTHED": 2
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 521,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

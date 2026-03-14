@@ -1,4 +1,8 @@
 """
+DEPRECATED: This script is superseded by skills/text-cleaner (P4/P8 + D5 detection).
+Archived copy at pipeline/archive/historical_cleanup/fix_omissions.py.
+Kept in place for backward compatibility with existing test imports.
+
 fix_omissions.py — Non-destructive cleanup for staged canon files.
 
 Reads a staged canon .md, applies bounded allowlist-only transforms,

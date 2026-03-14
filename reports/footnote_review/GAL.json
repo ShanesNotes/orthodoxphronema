@@ -1,0 +1,404 @@
+{
+  "book_code": "GAL",
+  "position": 58,
+  "testament": "NT",
+  "status": "complete",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/GAL_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 51,
+      "auto_fixable": 0,
+      "review_needed": 51,
+      "files_checked": 1,
+      "lines_checked": 342,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 47,
+      "P7": 4
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "GAL",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/GAL_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/GAL_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/GAL.md",
+    "counts": {
+      "scripture_markers": 56,
+      "footnote_entries": 56,
+      "scripture_anchors": 149,
+      "valid_marker_anchors": 56,
+      "valid_note_anchors": 56
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 30,
+    "convertible_refs": 0,
+    "already_linked_refs": 30,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 619,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "reason that you are not so born, are you most of all Abraham's kindred\" (JohnChr)."
+        }
+      ],
+      "entity_counts": {
+        "JOHN_CHRYSOSTOM": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 619,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 45,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's greeting encapsulates the true gospel, which he is defending in this epistle."
+        },
+        {
+          "line_number": 37,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "v. 7) means another of the same kind. Paul is saying that the teaching the Galatians are"
+        },
+        {
+          "line_number": 49,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's warning about we, or an angel from heaven is not hypothetical. Angels can"
+        },
+        {
+          "line_number": 79,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "mistaken (2:11-14). Thus, Paul rebukes Peter sharply in public for his hypocritical ethnic"
+        },
+        {
+          "line_number": 79,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "mistaken (2:11-14). Thus, Paul rebukes Peter sharply in public for his hypocritical ethnic"
+        },
+        {
+          "line_number": 87,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "the Twelve were called by Christ, so was Paul (v. 1). Just as the Twelve received the gospel"
+        },
+        {
+          "line_number": 89,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "directly from Christ, so did Paul ([[ACT.9:3]]-6; 26:13-18). Just as the Twelve stood together"
+        },
+        {
+          "line_number": 91,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "as one, so Paul entered their unity in consensus and mutual submission."
+        },
+        {
+          "line_number": 99,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "but by God's grace (v. 15). Paul, whom God called in mercy, received grace from Ananias'"
+        },
+        {
+          "line_number": 103,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "womb (v. 15) refers not to Paul's physical birth but to God's calling Paul to apostolic"
+        },
+        {
+          "line_number": 107,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "with Paul, God's intentions for a person may lie hidden for years."
+        },
+        {
+          "line_number": 113,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "As a true apostle, Paul submits himself to the Church and her apostles rather than"
+        },
+        {
+          "line_number": 115,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "elevating himself. Paul knows his encounter with Christ, instruction in the gospel, and"
+        },
+        {
+          "line_number": 125,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "James is James the Just, the first bishop of Jerusalem and author of the Epistle of"
+        },
+        {
+          "line_number": 127,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "James. Brother also means cousin or close relation (see the Introduction to the Epistle"
+        },
+        {
+          "line_number": 129,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "of James)."
+        },
+        {
+          "line_number": 141,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Communicated (Gr. anatithemai) means \"laid before\" or \"submitted.\" Paul"
+        },
+        {
+          "line_number": 143,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "submitted to the apostles James, Peter, and John (v. 9) what he had been teaching"
+        },
+        {
+          "line_number": 143,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "submitted to the apostles James, Peter, and John (v. 9) what he had been teaching"
+        },
+        {
+          "line_number": 167,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "wrong. Paul is not putting down the Twelve; rather he is saying that it makes no"
+        },
+        {
+          "line_number": 171,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "like Paul himself. God does not show personal favoritism. As for correcting Paul's"
+        },
+        {
+          "line_number": 179,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Peter and Paul were each responsible to reach one segment of the population in the"
+        },
+        {
+          "line_number": 179,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter and Paul were each responsible to reach one segment of the population in the"
+        },
+        {
+          "line_number": 181,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "central part of the Roman Empire: Peter the circumcised (Jews), Paul the"
+        },
+        {
+          "line_number": 181,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "central part of the Roman Empire: Peter the circumcised (Jews), Paul the"
+        },
+        {
+          "line_number": 215,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "officially (ex officio), he is correctable. Unchecked, Peter could have caused a schism."
+        },
+        {
+          "line_number": 221,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "The men who came from James were probably trying to force the culture of the"
+        },
+        {
+          "line_number": 223,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "Jerusalem church on the Gentiles--and they were not necessarily representing James."
+        },
+        {
+          "line_number": 235,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul recounts the speech he gave in Antioch when he confronted Peter."
+        },
+        {
+          "line_number": 235,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Paul recounts the speech he gave in Antioch when he confronted Peter."
+        },
+        {
+          "line_number": 275,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Those things which I destroyed are \"the works of the law\" (v. 16). Paul destroyed"
+        },
+        {
+          "line_number": 329,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Set aside the grace of God is what Peter and Barnabas had done (vv. 12, 13). The"
+        },
+        {
+          "line_number": 347,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "circumcision. Paul argues they do not understand righteousness, nor how men have"
+        },
+        {
+          "line_number": 357,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Jews saw Abraham as their father. Paul shows that Abraham's righteousness (v. 6) does"
+        },
+        {
+          "line_number": 417,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "progressing toward perfection by obeying the law. Paul argues by contrast that the"
+        },
+        {
+          "line_number": 475,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul directly relates saving faith (v. 26) and being baptized, connecting them as"
+        },
+        {
+          "line_number": 541,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "(see the article, \"Deification,\" at 2 Peter). This means we are becoming by grace what God"
+        },
+        {
+          "line_number": 567,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "The nature of Paul's physical infirmity is not known. Perhaps it was simply the"
+        },
+        {
+          "line_number": 595,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "allegoreo), Paul is not implying that they are not historical. Rather he asserts that OT"
+        },
+        {
+          "line_number": 621,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "2:16-31 In this section, Paul gives the content of the true gospel by contrasting it with the"
+        },
+        {
+          "line_number": 709,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "God. For those who trouble you (v. 12) with circumcision, Paul wishes they would cut"
+        },
+        {
+          "line_number": 731,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "By the flesh, Paul does not mean the body. The flesh here is a general term for evil"
+        },
+        {
+          "line_number": 755,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul admonishes us to bear one another's burdens. But moments later, he notes"
+        },
+        {
+          "line_number": 797,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul calls the Church Israel."
+        },
+        {
+          "line_number": 803,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul is no hypocrite or coward. He has persevered through much for what he is"
+        }
+      ],
+      "entity_counts": {
+        "JAMES_APOSTLE": 6,
+        "PAUL_APOSTLE": 31,
+        "PETER_APOSTLE": 8
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 1,
+    "matched_entities": [
+      {
+        "line_number": 619,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "reason that you are not so born, are you most of all Abraham's kindred\" (JohnChr)."
+      }
+    ],
+    "entity_counts": {
+      "JOHN_CHRYSOSTOM": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 619,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

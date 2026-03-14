@@ -1,0 +1,734 @@
+{
+  "book_code": "DAN",
+  "position": 49,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/DAN_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": false,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 144,
+      "auto_fixable": 0,
+      "review_needed": 144,
+      "files_checked": 1,
+      "lines_checked": 322,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 106,
+      "P7": 38
+    }
+  },
+  "structure": {
+    "issue_count": 8,
+    "findings": [
+      {
+        "type": "dangling_range_continuation",
+        "line_number": 311,
+        "raw_text": "-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 331,
+        "raw_text": "Note how a pagan king kept vigil and fasted while his friend Daniel was in danger. 6:20-25 Signs are performed by God among unbelieving peoples so that the worship and"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 361,
+        "raw_text": "Fathers say that the ten horns prophesy nations that will rise up in the last days. 7:8 [[DAN.7:8]], [[DAN.7:24]], [[DAN.7:25]]: The little horn is seen to be the antichrist, an eleventh king who shall"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 391,
+        "raw_text": "time of the Romans, about 64 BC. 8:5-14 When Alexander's rule was broken (v. 8) when he was only 33, his four generals"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 431,
+        "raw_text": "3:23). 9:24-27 The Epistle of Barnabas (ch. 16) observes that this passage was fulfilled when the"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 475,
+        "raw_text": "The third year of Cyrus was 533 BC. 10:2-3 Daniel's season of fasting and mourning is echoed by the faithful during the time"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 673,
+        "raw_text": "Cyrus began his reign in Persia in 538 BC. 1:3 Historians describe Bel as chief among the Babylonian gods. 1:5"
+      },
+      {
+        "type": "midline_reference_spill",
+        "line_number": 683,
+        "raw_text": "idol Bel, which the people and the king then worshiped, in asserting the honor of his God, broke forth with full faith and freedom, saying, 'I worship nothing but the Lord my God, who created the heaven and the earth'\" (Cyp). 1:7 Daniel smiled: It is indeed very humorous that a king or anyone could believe an idol"
+      }
+    ],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "DAN",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/DAN_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/DAN_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/DAN.md",
+    "counts": {
+      "scripture_markers": 43,
+      "footnote_entries": 43,
+      "scripture_anchors": 139,
+      "valid_marker_anchors": 41,
+      "valid_note_anchors": 41
+    },
+    "invalid_marker_anchors": {
+      "DAN.1:34": "invalid_verse",
+      "DAN.1:45": "invalid_verse"
+    },
+    "invalid_note_anchors": {
+      "DAN.1:34": "invalid_verse",
+      "DAN.1:45": "invalid_verse"
+    },
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "DAN.11:10",
+      "DAN.11:11",
+      "DAN.11:16",
+      "DAN.11:17",
+      "DAN.11:18",
+      "DAN.11:20",
+      "DAN.11:21",
+      "DAN.11:3",
+      "DAN.11:30",
+      "DAN.11:31",
+      "DAN.11:5",
+      "DAN.11:6",
+      "DAN.11:7",
+      "DAN.12:11",
+      "DAN.1:7",
+      "DAN.2:31",
+      "DAN.2:35",
+      "DAN.3:25",
+      "DAN.3:26",
+      "DAN.3:52",
+      "DAN.3:86",
+      "DAN.4:10",
+      "DAN.4:34",
+      "DAN.4:5",
+      "DAN.5:2",
+      "DAN.6:2",
+      "DAN.6:5"
+    ],
+    "note_anchor_gaps": [
+      "DAN.11:10",
+      "DAN.11:11",
+      "DAN.11:16",
+      "DAN.11:17",
+      "DAN.11:18",
+      "DAN.11:20",
+      "DAN.11:21",
+      "DAN.11:3",
+      "DAN.11:30",
+      "DAN.11:31",
+      "DAN.11:5",
+      "DAN.11:6",
+      "DAN.11:7",
+      "DAN.12:11",
+      "DAN.1:7",
+      "DAN.2:31",
+      "DAN.2:35",
+      "DAN.3:25",
+      "DAN.3:26",
+      "DAN.3:52",
+      "DAN.3:86",
+      "DAN.4:10",
+      "DAN.4:34",
+      "DAN.4:5",
+      "DAN.5:2",
+      "DAN.6:2",
+      "DAN.6:5"
+    ],
+    "issue_count": 58
+  },
+  "wikilinks": {
+    "total_refs": 24,
+    "convertible_refs": 0,
+    "already_linked_refs": 24,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 37,
+      "matched_entities": [
+        {
+          "line_number": 30,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "St. Hippolytus of Rome",
+          "context": "St. Hippolytus of Rome sees Susanna as a type of the Church, the Bride of Christ, persecuted by the two elders, representing the Jews and the pagans. In his commentary"
+        },
+        {
+          "line_number": 30,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus of Rome",
+          "context": "St. Hippolytus of Rome sees Susanna as a type of the Church, the Bride of Christ, persecuted by the two elders, representing the Jews and the pagans. In his commentary"
+        },
+        {
+          "line_number": 30,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "St. Hippolytus",
+          "context": "St. Hippolytus of Rome sees Susanna as a type of the Church, the Bride of Christ, persecuted by the two elders, representing the Jews and the pagans. In his commentary"
+        },
+        {
+          "line_number": 30,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "St. Hippolytus of Rome sees Susanna as a type of the Church, the Bride of Christ, persecuted by the two elders, representing the Jews and the pagans. In his commentary"
+        },
+        {
+          "line_number": 106,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "Both Hippolytus and Eusebius see parallels between Nebuchadnezzar's dream and"
+        },
+        {
+          "line_number": 106,
+          "entity": "EUSEBIUS",
+          "matched_alias": "Eusebius",
+          "context": "Both Hippolytus and Eusebius see parallels between Nebuchadnezzar's dream and"
+        },
+        {
+          "line_number": 108,
+          "entity": "EUSEBIUS",
+          "matched_alias": "Eusebius",
+          "context": "Daniel's vision (see ch. 7). Eusebius comments that it is fitting for a proud, earthlyminded king to \"compare the life and substance of all men to a great image.\" The dream"
+        },
+        {
+          "line_number": 122,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "brutal Roman Empire, represented by the legs of iron (v. 33). According to Hippolytus, the feet of iron and clay (v. 33) correspond with the \"ten horns\" in Daniel's vision, and"
+        },
+        {
+          "line_number": 135,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "Blessed Augustine writes that the mountain which grew out of a small stone is the"
+        },
+        {
+          "line_number": 144,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "St. Hippolytus",
+          "context": "St. Hippolytus sees in Daniel a type of Christ. \"How great is the power of God, beloved, that one who a little before was doomed to death with the other wise men of"
+        },
+        {
+          "line_number": 144,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "St. Hippolytus sees in Daniel a type of Christ. \"How great is the power of God, beloved, that one who a little before was doomed to death with the other wise men of"
+        },
+        {
+          "line_number": 174,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "St. John Cassian likens the furnace (v. 19) to the passions of our flesh, which constantly"
+        },
+        {
+          "line_number": 174,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "St. John Cassian",
+          "context": "St. John Cassian likens the furnace (v. 19) to the passions of our flesh, which constantly"
+        },
+        {
+          "line_number": 174,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "John Cassian",
+          "context": "St. John Cassian likens the furnace (v. 19) to the passions of our flesh, which constantly"
+        },
+        {
+          "line_number": 174,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "Cassian",
+          "context": "St. John Cassian likens the furnace (v. 19) to the passions of our flesh, which constantly"
+        },
+        {
+          "line_number": 235,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "St. Hippolytus",
+          "context": "St. Hippolytus writes that the king's recognition of the fourth man in the furnace"
+        },
+        {
+          "line_number": 235,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "St. Hippolytus writes that the king's recognition of the fourth man in the furnace"
+        },
+        {
+          "line_number": 239,
+          "entity": "JEROME",
+          "matched_alias": "St. Jerome",
+          "context": "three youths he thus called by name. But he found no name by which to call the fourth. For He was not yet that Jesus born of the Virgin.\" St. Jerome comments that the presence"
+        },
+        {
+          "line_number": 239,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "three youths he thus called by name. But he found no name by which to call the fourth. For He was not yet that Jesus born of the Virgin.\" St. Jerome comments that the presence"
+        },
+        {
+          "line_number": 280,
+          "entity": "JEROME",
+          "matched_alias": "St. Jerome",
+          "context": "St. Jerome remarks that \"vice always glories in defiling what is noble.\" He sees in"
+        },
+        {
+          "line_number": 280,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "St. Jerome remarks that \"vice always glories in defiling what is noble.\" He sees in"
+        },
+        {
+          "line_number": 305,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "St. Ephraim",
+          "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn"
+        },
+        {
+          "line_number": 305,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn"
+        },
+        {
+          "line_number": 337,
+          "entity": "APHRAHAT",
+          "matched_alias": "Aphrahat",
+          "context": "St. Aphrahat comments that the great sea (the Mediterranean Sea) is symbolic of"
+        },
+        {
+          "line_number": 345,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "Persia arose, it arose in the east. Hippolytus sees the three ribs as being the Medes, the"
+        },
+        {
+          "line_number": 357,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "strength. Note that the four heavenly beasts of St. John's vision far surpass these"
+        },
+        {
+          "line_number": 373,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Daniel's vision is similar to several aspects of St. John's Revelation, including the"
+        },
+        {
+          "line_number": 401,
+          "entity": "JEROME",
+          "matched_alias": "St. Jerome",
+          "context": "Jews to victory over the Syrians. St. Jerome says that most church commentators see a"
+        },
+        {
+          "line_number": 401,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "Jews to victory over the Syrians. St. Jerome says that most church commentators see a"
+        },
+        {
+          "line_number": 441,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "9:2; [[JER.25:11]], [[JER.25:12]]; 29:10). According to Hippolytus, Daniel's vision concerned the time when the temple would be"
+        },
+        {
+          "line_number": 463,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "Hippolytus comments that after \"Christ is come, and the gospel is preached in every"
+        },
+        {
+          "line_number": 467,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elias",
+          "context": "which Elias will appear, and Enoch. And in the midst of it the abomination of desolations"
+        },
+        {
+          "line_number": 481,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "St. Hippolytus",
+          "context": "St. Hippolytus writes that the Father \"sent His own Word to show what should"
+        },
+        {
+          "line_number": 481,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "St. Hippolytus writes that the Father \"sent His own Word to show what should"
+        },
+        {
+          "line_number": 659,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "Hippolytus writes that this prophecy concerns the three and a half years --\"the one"
+        },
+        {
+          "line_number": 671,
+          "entity": "IRENAEUS",
+          "matched_alias": "Iren",
+          "context": "God of the living unless He who is God, and above whom there is no other God?\" (Iren). 1:1"
+        },
+        {
+          "line_number": 699,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "([[EZK.8:3]]); (2) being translated from one place to another, as Philip was ([[ACT.8:39]], [[ACT.8:40]]); and (3) being brought back from the dead, as Moses and Elijah were ([[MAT.17:3]]). 1:40-42"
+        }
+      ],
+      "entity_counts": {
+        "APHRAHAT": 1,
+        "AUGUSTINE_HIPPO": 1,
+        "ELIJAH_PROPHET": 2,
+        "EPHRAIM_SYRIAN": 2,
+        "EUSEBIUS": 2,
+        "HIPPOLYTUS_ROME": 16,
+        "IRENAEUS": 1,
+        "JEROME": 6,
+        "JOHN_CASSIAN": 3,
+        "JOHN_THEOLOGIAN": 3
+      },
+      "unresolved_candidates_count": 1,
+      "unresolved_candidates": [
+        {
+          "line_number": 59,
+          "token": "St. Ignatius",
+          "context": "St. Ignatius argues from this passage that the age of a bishop is immaterial; a young"
+        }
+      ],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 671,
+          "snippet": "Iren"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 6,
+      "matched_entities": [
+        {
+          "line_number": 298,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "kingdom and His servants. St. Paul calls such schemes \"the wiles [strategies] of the devil\""
+        },
+        {
+          "line_number": 298,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "kingdom and His servants. St. Paul calls such schemes \"the wiles [strategies] of the devil\""
+        },
+        {
+          "line_number": 427,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "This is as clear in defining sin as any passage in the Scriptures. St. Paul offers a"
+        },
+        {
+          "line_number": 427,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "This is as clear in defining sin as any passage in the Scriptures. St. Paul offers a"
+        },
+        {
+          "line_number": 689,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "St. Peter",
+          "context": "blatant deception? St. Peter gives the answer concerning the allure of the false teachers: \"Many will follow their destructive ways\" ([[2PE.2:2]]). 1:23-24"
+        },
+        {
+          "line_number": 689,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "blatant deception? St. Peter gives the answer concerning the allure of the false teachers: \"Many will follow their destructive ways\" ([[2PE.2:2]]). 1:23-24"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 4,
+        "PETER_APOSTLE": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 37,
+    "matched_entities": [
+      {
+        "line_number": 30,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "St. Hippolytus of Rome",
+        "context": "St. Hippolytus of Rome sees Susanna as a type of the Church, the Bride of Christ, persecuted by the two elders, representing the Jews and the pagans. In his commentary"
+      },
+      {
+        "line_number": 30,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus of Rome",
+        "context": "St. Hippolytus of Rome sees Susanna as a type of the Church, the Bride of Christ, persecuted by the two elders, representing the Jews and the pagans. In his commentary"
+      },
+      {
+        "line_number": 30,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "St. Hippolytus",
+        "context": "St. Hippolytus of Rome sees Susanna as a type of the Church, the Bride of Christ, persecuted by the two elders, representing the Jews and the pagans. In his commentary"
+      },
+      {
+        "line_number": 30,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "St. Hippolytus of Rome sees Susanna as a type of the Church, the Bride of Christ, persecuted by the two elders, representing the Jews and the pagans. In his commentary"
+      },
+      {
+        "line_number": 106,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "Both Hippolytus and Eusebius see parallels between Nebuchadnezzar's dream and"
+      },
+      {
+        "line_number": 106,
+        "entity": "EUSEBIUS",
+        "matched_alias": "Eusebius",
+        "context": "Both Hippolytus and Eusebius see parallels between Nebuchadnezzar's dream and"
+      },
+      {
+        "line_number": 108,
+        "entity": "EUSEBIUS",
+        "matched_alias": "Eusebius",
+        "context": "Daniel's vision (see ch. 7). Eusebius comments that it is fitting for a proud, earthlyminded king to \"compare the life and substance of all men to a great image.\" The dream"
+      },
+      {
+        "line_number": 122,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "brutal Roman Empire, represented by the legs of iron (v. 33). According to Hippolytus, the feet of iron and clay (v. 33) correspond with the \"ten horns\" in Daniel's vision, and"
+      },
+      {
+        "line_number": 135,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "Blessed Augustine writes that the mountain which grew out of a small stone is the"
+      },
+      {
+        "line_number": 144,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "St. Hippolytus",
+        "context": "St. Hippolytus sees in Daniel a type of Christ. \"How great is the power of God, beloved, that one who a little before was doomed to death with the other wise men of"
+      },
+      {
+        "line_number": 144,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "St. Hippolytus sees in Daniel a type of Christ. \"How great is the power of God, beloved, that one who a little before was doomed to death with the other wise men of"
+      },
+      {
+        "line_number": 174,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "St. John Cassian likens the furnace (v. 19) to the passions of our flesh, which constantly"
+      },
+      {
+        "line_number": 174,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "St. John Cassian",
+        "context": "St. John Cassian likens the furnace (v. 19) to the passions of our flesh, which constantly"
+      },
+      {
+        "line_number": 174,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "John Cassian",
+        "context": "St. John Cassian likens the furnace (v. 19) to the passions of our flesh, which constantly"
+      },
+      {
+        "line_number": 174,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "Cassian",
+        "context": "St. John Cassian likens the furnace (v. 19) to the passions of our flesh, which constantly"
+      },
+      {
+        "line_number": 235,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "St. Hippolytus",
+        "context": "St. Hippolytus writes that the king's recognition of the fourth man in the furnace"
+      },
+      {
+        "line_number": 235,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "St. Hippolytus writes that the king's recognition of the fourth man in the furnace"
+      },
+      {
+        "line_number": 239,
+        "entity": "JEROME",
+        "matched_alias": "St. Jerome",
+        "context": "three youths he thus called by name. But he found no name by which to call the fourth. For He was not yet that Jesus born of the Virgin.\" St. Jerome comments that the presence"
+      },
+      {
+        "line_number": 239,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "three youths he thus called by name. But he found no name by which to call the fourth. For He was not yet that Jesus born of the Virgin.\" St. Jerome comments that the presence"
+      },
+      {
+        "line_number": 280,
+        "entity": "JEROME",
+        "matched_alias": "St. Jerome",
+        "context": "St. Jerome remarks that \"vice always glories in defiling what is noble.\" He sees in"
+      },
+      {
+        "line_number": 280,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "St. Jerome remarks that \"vice always glories in defiling what is noble.\" He sees in"
+      },
+      {
+        "line_number": 305,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "St. Ephraim",
+        "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn"
+      },
+      {
+        "line_number": 305,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn"
+      },
+      {
+        "line_number": 337,
+        "entity": "APHRAHAT",
+        "matched_alias": "Aphrahat",
+        "context": "St. Aphrahat comments that the great sea (the Mediterranean Sea) is symbolic of"
+      },
+      {
+        "line_number": 345,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "Persia arose, it arose in the east. Hippolytus sees the three ribs as being the Medes, the"
+      },
+      {
+        "line_number": 357,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "strength. Note that the four heavenly beasts of St. John's vision far surpass these"
+      },
+      {
+        "line_number": 373,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Daniel's vision is similar to several aspects of St. John's Revelation, including the"
+      },
+      {
+        "line_number": 401,
+        "entity": "JEROME",
+        "matched_alias": "St. Jerome",
+        "context": "Jews to victory over the Syrians. St. Jerome says that most church commentators see a"
+      },
+      {
+        "line_number": 401,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "Jews to victory over the Syrians. St. Jerome says that most church commentators see a"
+      },
+      {
+        "line_number": 441,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "9:2; [[JER.25:11]], [[JER.25:12]]; 29:10). According to Hippolytus, Daniel's vision concerned the time when the temple would be"
+      },
+      {
+        "line_number": 463,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "Hippolytus comments that after \"Christ is come, and the gospel is preached in every"
+      },
+      {
+        "line_number": 467,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elias",
+        "context": "which Elias will appear, and Enoch. And in the midst of it the abomination of desolations"
+      },
+      {
+        "line_number": 481,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "St. Hippolytus",
+        "context": "St. Hippolytus writes that the Father \"sent His own Word to show what should"
+      },
+      {
+        "line_number": 481,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "St. Hippolytus writes that the Father \"sent His own Word to show what should"
+      },
+      {
+        "line_number": 659,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "Hippolytus writes that this prophecy concerns the three and a half years --\"the one"
+      },
+      {
+        "line_number": 671,
+        "entity": "IRENAEUS",
+        "matched_alias": "Iren",
+        "context": "God of the living unless He who is God, and above whom there is no other God?\" (Iren). 1:1"
+      },
+      {
+        "line_number": 699,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "([[EZK.8:3]]); (2) being translated from one place to another, as Philip was ([[ACT.8:39]], [[ACT.8:40]]); and (3) being brought back from the dead, as Moses and Elijah were ([[MAT.17:3]]). 1:40-42"
+      }
+    ],
+    "entity_counts": {
+      "APHRAHAT": 1,
+      "AUGUSTINE_HIPPO": 1,
+      "ELIJAH_PROPHET": 2,
+      "EPHRAIM_SYRIAN": 2,
+      "EUSEBIUS": 2,
+      "HIPPOLYTUS_ROME": 16,
+      "IRENAEUS": 1,
+      "JEROME": 6,
+      "JOHN_CASSIAN": 3,
+      "JOHN_THEOLOGIAN": 3
+    },
+    "unresolved_candidates_count": 1,
+    "unresolved_candidates": [
+      {
+        "line_number": 59,
+        "token": "St. Ignatius",
+        "context": "St. Ignatius argues from this passage that the age of a bishop is immaterial; a young"
+      }
+    ],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 671,
+        "snippet": "Iren"
+      }
+    ]
+  }
+}

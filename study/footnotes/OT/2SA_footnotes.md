@@ -535,9 +535,9 @@ between the king and his son.
 ### 14:4-17
 *(anchor: 2SA.14:4)*
 
-The woman's story of a blood feud between her sons parallels David's (see Nm
+The woman's story of a blood feud between her sons parallels David's (see [[NUM.35:19]]-21 re the law of blood revenge).
 
-35:19-21 re the law of blood revenge). She presses the king to absolve this blood feud, which he does, indicative of the king's power as judge. 
+She presses the king to absolve this blood feud, which he does, indicative of the king's power as judge. 
 
 ### 14:18-20
 *(anchor: 2SA.14:18)*
@@ -609,12 +609,14 @@ cause him to flee the city. The departure is described in great detail. Ten conc
 
 A review of the foreign troops loyal to David (see 8:18; 1Kg 30:14). 
 
-### 15:19-14
+### 15:19-23
 *(anchor: 2SA.15:19)*
 
 A chronicle of personal encounters with David, indicating those on whom he
 
-could still depend for support. The notable exception will be Shimei, 16:5-8. 15:19-23 David's despair is obvious. He tells Ittai to return and remain with the king, Absalom. He has only recently been joined to Israel. Ittai confesses his loyalty to David. The Brook Kidron is only a short way from the city (v. 23). 
+could still depend for support. The notable exception will be Shimei, 16:5-8.
+
+15:19-23 David's despair is obvious. He tells Ittai to return and remain with the king, Absalom. He has only recently been joined to Israel. Ittai confesses his loyalty to David. The Brook Kidron is only a short way from the city (v. 23). 
 
 ### 15:24-29
 *(anchor: 2SA.15:24)*
@@ -883,7 +885,9 @@ David's private or personal priest.
 
 There follow several accounts which are appendices, set at various times during
 
-David's reign. Together they comprise chapters 21-24. 21:1-14 The three-year famine is interpreted as God's punishment, for Saul had violated
+David's reign. Together they comprise chapters 21-24.
+
+21:1-14 The three-year famine is interpreted as God's punishment, for Saul had violated
 
 an oath made to those in Gibeon. However, Saul's actions (vv. 1-3) are unknown
 

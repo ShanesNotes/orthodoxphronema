@@ -1,0 +1,1337 @@
+{
+  "book_code": "JOH",
+  "position": 53,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/JOH_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 530,
+      "auto_fixable": 0,
+      "review_needed": 530,
+      "files_checked": 1,
+      "lines_checked": 1515,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 474,
+      "P7": 56
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "JOH",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/JOH_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/JOH_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/JOH.md",
+    "counts": {
+      "scripture_markers": 252,
+      "footnote_entries": 252,
+      "scripture_anchors": 879,
+      "valid_marker_anchors": 252,
+      "valid_note_anchors": 252
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 145,
+    "convertible_refs": 0,
+    "already_linked_refs": 145,
+    "unresolved_refs": 1,
+    "unresolved_examples": [
+      {
+        "line_number": 1109,
+        "raw_text": "Ex 11-17",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 79,
+      "matched_entities": [
+        {
+          "line_number": 91,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "This John is John the Baptist, not the author of this Gospel."
+        },
+        {
+          "line_number": 215,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "beginnings of Christ's ministry: the witness of John the Baptist (1:19-34); the calling of"
+        },
+        {
+          "line_number": 225,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "(1) The first day (1:19-28)--John the Baptist bears witness to the Light--the Christ--"
+        },
+        {
+          "line_number": 231,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "(2) The second day (1:29-34)--John the Baptist declares that Christ baptizes with"
+        },
+        {
+          "line_number": 239,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "(3) The third day (1:35-42)--John the Baptist sends two disciples to Christ whom"
+        },
+        {
+          "line_number": 273,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "John the Baptist is a prophet but not the Prophet, the Messiah, whose coming"
+        },
+        {
+          "line_number": 291,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Lamb, offers Himself for our deliverance from darkness and death ([[1PE.1:18]], [[1PE.1:19]]). St. John"
+        },
+        {
+          "line_number": 293,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Chrysostom teaches that Jesus came to John this second time in order for John to make"
+        },
+        {
+          "line_number": 315,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "The Lord's first disciples had been followers of John the Baptist. They were"
+        },
+        {
+          "line_number": 335,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "What exactly occurred under the fig tree is not stated. St. John Chrysostom"
+        },
+        {
+          "line_number": 335,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "What exactly occurred under the fig tree is not stated. St. John Chrysostom"
+        },
+        {
+          "line_number": 335,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "What exactly occurred under the fig tree is not stated. St. John Chrysostom"
+        },
+        {
+          "line_number": 501,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Sunday of Pascha (Easter) along with the Myrrhbearing Women and Joseph of"
+        },
+        {
+          "line_number": 557,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "According to St. John Chrysostom, earthly things refer to grace and baptism given"
+        },
+        {
+          "line_number": 557,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "According to St. John Chrysostom, earthly things refer to grace and baptism given"
+        },
+        {
+          "line_number": 557,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "According to St. John Chrysostom, earthly things refer to grace and baptism given"
+        },
+        {
+          "line_number": 621,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "John the Baptist is called the friend (the \"best man\"), while Christ Himself is the"
+        },
+        {
+          "line_number": 657,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "this\" (JohnChr). See also [[JAS.2:14]]-24."
+        },
+        {
+          "line_number": 677,
+          "entity": "PHOTINI_SAMARITAN",
+          "matched_alias": "St. Photini",
+          "context": "noontime. This woman is identified in church tradition as St. Photini (see note at 4:28-"
+        },
+        {
+          "line_number": 677,
+          "entity": "PHOTINI_SAMARITAN",
+          "matched_alias": "Photini",
+          "context": "noontime. This woman is identified in church tradition as St. Photini (see note at 4:28-"
+        },
+        {
+          "line_number": 751,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "nations\" (AthanG). More importantly, Jesus is testifying that the Messiah, who was"
+        },
+        {
+          "line_number": 795,
+          "entity": "PHOTINI_SAMARITAN",
+          "matched_alias": "Photini",
+          "context": "Resurrection she was baptized with the name Photini, \"the enlightened one.\" Along with"
+        },
+        {
+          "line_number": 819,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "Behold: According to St. John Chrysostom, this command to look was given because"
+        },
+        {
+          "line_number": 819,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Behold: According to St. John Chrysostom, this command to look was given because"
+        },
+        {
+          "line_number": 819,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Behold: According to St. John Chrysostom, this command to look was given because"
+        },
+        {
+          "line_number": 833,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "St. John Chrysostom teaches those who sow and those who reap are the"
+        },
+        {
+          "line_number": 833,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "St. John Chrysostom teaches those who sow and those who reap are the"
+        },
+        {
+          "line_number": 833,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "St. John Chrysostom teaches those who sow and those who reap are the"
+        },
+        {
+          "line_number": 865,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "John Chrysostom gives greater credit to the Samaritans for accepting Christ based on"
+        },
+        {
+          "line_number": 959,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "According to St. John Chrysostom, Jesus singled out the man who had waited for"
+        },
+        {
+          "line_number": 959,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "According to St. John Chrysostom, Jesus singled out the man who had waited for"
+        },
+        {
+          "line_number": 959,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "According to St. John Chrysostom, Jesus singled out the man who had waited for"
+        },
+        {
+          "line_number": 1015,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "sins lead directly to our own suffering in this world; according to St. John Chrysostom,"
+        },
+        {
+          "line_number": 1015,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "sins lead directly to our own suffering in this world; according to St. John Chrysostom,"
+        },
+        {
+          "line_number": 1015,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "sins lead directly to our own suffering in this world; according to St. John Chrysostom,"
+        },
+        {
+          "line_number": 1095,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "(1) God the Father (vv. 32, 37, 38); (2) John the Baptist (vv 33-35); (3) His own works (v."
+        },
+        {
+          "line_number": 1201,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "HilryP",
+          "context": "are in Christ and Christ is in us\" (HilryP)."
+        },
+        {
+          "line_number": 1257,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "St. John Chrysostom paraphrases Christ in this way: \"Rid yourselves of wickedness: the"
+        },
+        {
+          "line_number": 1257,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "St. John Chrysostom paraphrases Christ in this way: \"Rid yourselves of wickedness: the"
+        },
+        {
+          "line_number": 1257,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "St. John Chrysostom paraphrases Christ in this way: \"Rid yourselves of wickedness: the"
+        },
+        {
+          "line_number": 1357,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "for long speeches. Truth is like that\" (JohnChr)."
+        },
+        {
+          "line_number": 1383,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "manuscripts, nor is it covered in the commentaries of St. John Chrysostom and certain"
+        },
+        {
+          "line_number": 1383,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "manuscripts, nor is it covered in the commentaries of St. John Chrysostom and certain"
+        },
+        {
+          "line_number": 1383,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "manuscripts, nor is it covered in the commentaries of St. John Chrysostom and certain"
+        },
+        {
+          "line_number": 1489,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "Abraham's true children share his faith and virtue ([[LUK.3:8]]). St. John Chrysostom"
+        },
+        {
+          "line_number": 1489,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Abraham's true children share his faith and virtue ([[LUK.3:8]]). St. John Chrysostom"
+        },
+        {
+          "line_number": 1489,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Abraham's true children share his faith and virtue ([[LUK.3:8]]). St. John Chrysostom"
+        },
+        {
+          "line_number": 1587,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "will not be faith, but all will submit, whether willingly or unwillingly (JohnChr)."
+        },
+        {
+          "line_number": 1601,
+          "entity": "IRENAEUS",
+          "matched_alias": "St. Irenaeus",
+          "context": "St. Irenaeus sees in this mixture of clay and saliva a type of the creation of humanity"
+        },
+        {
+          "line_number": 1601,
+          "entity": "IRENAEUS",
+          "matched_alias": "Irenaeus",
+          "context": "St. Irenaeus sees in this mixture of clay and saliva a type of the creation of humanity"
+        },
+        {
+          "line_number": 1715,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "According to St. John Chrysostom, the door is God's Word, meaning both the"
+        },
+        {
+          "line_number": 1715,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "According to St. John Chrysostom, the door is God's Word, meaning both the"
+        },
+        {
+          "line_number": 1715,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "According to St. John Chrysostom, the door is God's Word, meaning both the"
+        },
+        {
+          "line_number": 1879,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr)."
+        },
+        {
+          "line_number": 2229,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "According to St. John Chrysostom, Isaiah's prophecy does not mean God causes"
+        },
+        {
+          "line_number": 2229,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "According to St. John Chrysostom, Isaiah's prophecy does not mean God causes"
+        },
+        {
+          "line_number": 2229,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "According to St. John Chrysostom, Isaiah's prophecy does not mean God causes"
+        },
+        {
+          "line_number": 2253,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "These rulers, according to St. John Chrysostom, are in reality the worst of"
+        },
+        {
+          "line_number": 2253,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "These rulers, according to St. John Chrysostom, are in reality the worst of"
+        },
+        {
+          "line_number": 2253,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "These rulers, according to St. John Chrysostom, are in reality the worst of"
+        },
+        {
+          "line_number": 2523,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "That day refers to Pentecost, for as St. John Chrysostom notes, it is \"the power of"
+        },
+        {
+          "line_number": 2523,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "That day refers to Pentecost, for as St. John Chrysostom notes, it is \"the power of"
+        },
+        {
+          "line_number": 2523,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "That day refers to Pentecost, for as St. John Chrysostom notes, it is \"the power of"
+        },
+        {
+          "line_number": 2577,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "to complete His discourse in order to gain their undivided attention. According to St. John"
+        },
+        {
+          "line_number": 2579,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Chrysostom, their current location was susceptible to intrusions, and the disciples were"
+        },
+        {
+          "line_number": 2681,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "sinful passion. \"Great is the tyranny of despondency\" (JohnChr). This sin is constantly"
+        },
+        {
+          "line_number": 2891,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "into the sphere of the sacred for God's use. St. John Chrysostom interprets this verse as"
+        },
+        {
+          "line_number": 2891,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "into the sphere of the sacred for God's use. St. John Chrysostom interprets this verse as"
+        },
+        {
+          "line_number": 2891,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "into the sphere of the sacred for God's use. St. John Chrysostom interprets this verse as"
+        },
+        {
+          "line_number": 3023,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "St. John Chrysostom notes the irony that Christ's accusers did not fear being"
+        },
+        {
+          "line_number": 3023,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "St. John Chrysostom notes the irony that Christ's accusers did not fear being"
+        },
+        {
+          "line_number": 3023,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "St. John Chrysostom notes the irony that Christ's accusers did not fear being"
+        },
+        {
+          "line_number": 3205,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "parents\" (JohnChr)."
+        },
+        {
+          "line_number": 3223,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "His head, He gave up His spirit: St. John Chrysostom writes that Christ did not die"
+        },
+        {
+          "line_number": 3223,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "His head, He gave up His spirit: St. John Chrysostom writes that Christ did not die"
+        },
+        {
+          "line_number": 3223,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "His head, He gave up His spirit: St. John Chrysostom writes that Christ did not die"
+        },
+        {
+          "line_number": 3239,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr). It is literally the forgiveness of sins and the regeneration of mankind that"
+        },
+        {
+          "line_number": 3247,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph of Arimathea was a hidden disciple, one who believed in Jesus but had"
+        },
+        {
+          "line_number": 3513,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "This disciple is John, the author of this Gospel. St. John lived a long life, dying"
+        }
+      ],
+      "entity_counts": {
+        "ATHANASIUS": 1,
+        "HILARY_POITIERS": 1,
+        "IRENAEUS": 2,
+        "JOHN_CHRYSOSTOM": 42,
+        "JOHN_FORERUNNER": 9,
+        "JOHN_THEOLOGIAN": 19,
+        "JOSEPH_BETROTHED": 2,
+        "PHOTINI_SAMARITAN": 3
+      },
+      "unresolved_candidates_count": 3,
+      "unresolved_candidates": [
+        {
+          "line_number": 1389,
+          "token": "St. Mary",
+          "context": "two days when St. Mary of Egypt, a reformed prostitute, is commemorated."
+        },
+        {
+          "line_number": 1743,
+          "token": "IgnAnt",
+          "context": "there the people shall gather\" (IgnAnt). Indeed, the response of the faithful can be a"
+        },
+        {
+          "line_number": 1795,
+          "token": "St. Ignatius",
+          "context": "and Gentile Christians, St. Ignatius taught, \"Be careful to observe a single Eucharist, for"
+        }
+      ],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 657,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 751,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1201,
+          "snippet": "HilryP"
+        },
+        {
+          "line_number": 1357,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1587,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1879,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 2681,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 3205,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 3239,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 24,
+      "matched_entities": [
+        {
+          "line_number": 115,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "inherit everything Christ is by nature (see the article \"Deification\" at 2 Peter). To believe"
+        },
+        {
+          "line_number": 185,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "\"Deification\" at 2 Peter). In Christ, God's children become gods by grace (10:34, 35)"
+        },
+        {
+          "line_number": 317,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Andrew (v. 40); Simon, who was also known as Peter, or Cephas (vv. 41, 42); Philip"
+        },
+        {
+          "line_number": 503,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Arimathea. According to some early sources, Nicodemus was baptized by Peter and"
+        },
+        {
+          "line_number": 1873,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "nature ([[2PE.1:4]]) and can rightly be called gods (see article \"Deification\" at 2 Peter). Christ"
+        },
+        {
+          "line_number": 2325,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "hospitality in the ancient Middle East, but was normally done by slaves or houseservants. Peter's response (vv. 6, 8) shows his shock at seeing the Master performing the"
+        },
+        {
+          "line_number": 2407,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "This is a prophecy of the martyrdom of Simon Peter, which he would suffer for the"
+        },
+        {
+          "line_number": 2961,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "particularly striking in that Peter was not arrested when he attacked the high priest's"
+        },
+        {
+          "line_number": 2993,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "A girl being the first to test Peter is an icon of the temptation of Adam by Eve (Gn"
+        },
+        {
+          "line_number": 3015,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "After his three denials, Peter will be restored through his three affirmations of love"
+        },
+        {
+          "line_number": 3285,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "The response of Peter and John (the other disciple) reveals each one's"
+        },
+        {
+          "line_number": 3289,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "understanding, and indeed, he is the first to have believed (v. 8). Peter's faith, on the"
+        },
+        {
+          "line_number": 3419,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "brings spiritual insight. Peter plunging into the sea demonstrates the boldness of his"
+        },
+        {
+          "line_number": 3437,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter takes the initiative in dragging the net to land, an act symbolic of his"
+        },
+        {
+          "line_number": 3471,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "That Christ singles out Simon Peter has a twofold significance: (1) Peter was the"
+        },
+        {
+          "line_number": 3475,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Lord. (2) Peter had denied Christ three times (18:17, 25-27), and here Christ restores"
+        },
+        {
+          "line_number": 3479,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "It is important to note that the first two times Christ inquires of Peter, \"Do you love"
+        },
+        {
+          "line_number": 3485,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "through maturing in God's grace. Each time, however, Peter is unable to claim such a"
+        },
+        {
+          "line_number": 3487,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "lofty love. When Peter answers, \"You know that I love You,\" he uses the term philo,"
+        },
+        {
+          "line_number": 3491,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "time, \"Do you love Me?\" He has changed to the term philo, condescending to Peter's"
+        },
+        {
+          "line_number": 3493,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "weakness and accepting whatever love Peter is able to offer. Nevertheless, Christ knows"
+        },
+        {
+          "line_number": 3495,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "that Peter will develop agape love for Him, as Peter will eventually accept martyrdom for"
+        },
+        {
+          "line_number": 3497,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "His sake (vv. 18, 19). Peter was grieved both that the Lord had to condescend to his level"
+        },
+        {
+          "line_number": 3505,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "This is Christ's second prophecy of Peter's martyrdom (see 13:36), which Peter"
+        }
+      ],
+      "entity_counts": {
+        "PETER_APOSTLE": 24
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 2669,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Creed confesses belief \"in the Holy Spirit, the Lord, the giver of life, who proceeds from"
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 79,
+    "matched_entities": [
+      {
+        "line_number": 91,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "This John is John the Baptist, not the author of this Gospel."
+      },
+      {
+        "line_number": 215,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "beginnings of Christ's ministry: the witness of John the Baptist (1:19-34); the calling of"
+      },
+      {
+        "line_number": 225,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "(1) The first day (1:19-28)--John the Baptist bears witness to the Light--the Christ--"
+      },
+      {
+        "line_number": 231,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "(2) The second day (1:29-34)--John the Baptist declares that Christ baptizes with"
+      },
+      {
+        "line_number": 239,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "(3) The third day (1:35-42)--John the Baptist sends two disciples to Christ whom"
+      },
+      {
+        "line_number": 273,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "John the Baptist is a prophet but not the Prophet, the Messiah, whose coming"
+      },
+      {
+        "line_number": 291,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Lamb, offers Himself for our deliverance from darkness and death ([[1PE.1:18]], [[1PE.1:19]]). St. John"
+      },
+      {
+        "line_number": 293,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Chrysostom teaches that Jesus came to John this second time in order for John to make"
+      },
+      {
+        "line_number": 315,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "The Lord's first disciples had been followers of John the Baptist. They were"
+      },
+      {
+        "line_number": 335,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "What exactly occurred under the fig tree is not stated. St. John Chrysostom"
+      },
+      {
+        "line_number": 335,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "What exactly occurred under the fig tree is not stated. St. John Chrysostom"
+      },
+      {
+        "line_number": 335,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "What exactly occurred under the fig tree is not stated. St. John Chrysostom"
+      },
+      {
+        "line_number": 501,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Sunday of Pascha (Easter) along with the Myrrhbearing Women and Joseph of"
+      },
+      {
+        "line_number": 557,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "According to St. John Chrysostom, earthly things refer to grace and baptism given"
+      },
+      {
+        "line_number": 557,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "According to St. John Chrysostom, earthly things refer to grace and baptism given"
+      },
+      {
+        "line_number": 557,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "According to St. John Chrysostom, earthly things refer to grace and baptism given"
+      },
+      {
+        "line_number": 621,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "John the Baptist is called the friend (the \"best man\"), while Christ Himself is the"
+      },
+      {
+        "line_number": 657,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "this\" (JohnChr). See also [[JAS.2:14]]-24."
+      },
+      {
+        "line_number": 677,
+        "entity": "PHOTINI_SAMARITAN",
+        "matched_alias": "St. Photini",
+        "context": "noontime. This woman is identified in church tradition as St. Photini (see note at 4:28-"
+      },
+      {
+        "line_number": 677,
+        "entity": "PHOTINI_SAMARITAN",
+        "matched_alias": "Photini",
+        "context": "noontime. This woman is identified in church tradition as St. Photini (see note at 4:28-"
+      },
+      {
+        "line_number": 751,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "nations\" (AthanG). More importantly, Jesus is testifying that the Messiah, who was"
+      },
+      {
+        "line_number": 795,
+        "entity": "PHOTINI_SAMARITAN",
+        "matched_alias": "Photini",
+        "context": "Resurrection she was baptized with the name Photini, \"the enlightened one.\" Along with"
+      },
+      {
+        "line_number": 819,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "Behold: According to St. John Chrysostom, this command to look was given because"
+      },
+      {
+        "line_number": 819,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Behold: According to St. John Chrysostom, this command to look was given because"
+      },
+      {
+        "line_number": 819,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Behold: According to St. John Chrysostom, this command to look was given because"
+      },
+      {
+        "line_number": 833,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "St. John Chrysostom teaches those who sow and those who reap are the"
+      },
+      {
+        "line_number": 833,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "St. John Chrysostom teaches those who sow and those who reap are the"
+      },
+      {
+        "line_number": 833,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "St. John Chrysostom teaches those who sow and those who reap are the"
+      },
+      {
+        "line_number": 865,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "John Chrysostom gives greater credit to the Samaritans for accepting Christ based on"
+      },
+      {
+        "line_number": 959,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "According to St. John Chrysostom, Jesus singled out the man who had waited for"
+      },
+      {
+        "line_number": 959,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "According to St. John Chrysostom, Jesus singled out the man who had waited for"
+      },
+      {
+        "line_number": 959,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "According to St. John Chrysostom, Jesus singled out the man who had waited for"
+      },
+      {
+        "line_number": 1015,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "sins lead directly to our own suffering in this world; according to St. John Chrysostom,"
+      },
+      {
+        "line_number": 1015,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "sins lead directly to our own suffering in this world; according to St. John Chrysostom,"
+      },
+      {
+        "line_number": 1015,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "sins lead directly to our own suffering in this world; according to St. John Chrysostom,"
+      },
+      {
+        "line_number": 1095,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "(1) God the Father (vv. 32, 37, 38); (2) John the Baptist (vv 33-35); (3) His own works (v."
+      },
+      {
+        "line_number": 1201,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "HilryP",
+        "context": "are in Christ and Christ is in us\" (HilryP)."
+      },
+      {
+        "line_number": 1257,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "St. John Chrysostom paraphrases Christ in this way: \"Rid yourselves of wickedness: the"
+      },
+      {
+        "line_number": 1257,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "St. John Chrysostom paraphrases Christ in this way: \"Rid yourselves of wickedness: the"
+      },
+      {
+        "line_number": 1257,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "St. John Chrysostom paraphrases Christ in this way: \"Rid yourselves of wickedness: the"
+      },
+      {
+        "line_number": 1357,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "for long speeches. Truth is like that\" (JohnChr)."
+      },
+      {
+        "line_number": 1383,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "manuscripts, nor is it covered in the commentaries of St. John Chrysostom and certain"
+      },
+      {
+        "line_number": 1383,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "manuscripts, nor is it covered in the commentaries of St. John Chrysostom and certain"
+      },
+      {
+        "line_number": 1383,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "manuscripts, nor is it covered in the commentaries of St. John Chrysostom and certain"
+      },
+      {
+        "line_number": 1489,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "Abraham's true children share his faith and virtue ([[LUK.3:8]]). St. John Chrysostom"
+      },
+      {
+        "line_number": 1489,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Abraham's true children share his faith and virtue ([[LUK.3:8]]). St. John Chrysostom"
+      },
+      {
+        "line_number": 1489,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Abraham's true children share his faith and virtue ([[LUK.3:8]]). St. John Chrysostom"
+      },
+      {
+        "line_number": 1587,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "will not be faith, but all will submit, whether willingly or unwillingly (JohnChr)."
+      },
+      {
+        "line_number": 1601,
+        "entity": "IRENAEUS",
+        "matched_alias": "St. Irenaeus",
+        "context": "St. Irenaeus sees in this mixture of clay and saliva a type of the creation of humanity"
+      },
+      {
+        "line_number": 1601,
+        "entity": "IRENAEUS",
+        "matched_alias": "Irenaeus",
+        "context": "St. Irenaeus sees in this mixture of clay and saliva a type of the creation of humanity"
+      },
+      {
+        "line_number": 1715,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "According to St. John Chrysostom, the door is God's Word, meaning both the"
+      },
+      {
+        "line_number": 1715,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "According to St. John Chrysostom, the door is God's Word, meaning both the"
+      },
+      {
+        "line_number": 1715,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "According to St. John Chrysostom, the door is God's Word, meaning both the"
+      },
+      {
+        "line_number": 1879,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr)."
+      },
+      {
+        "line_number": 2229,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "According to St. John Chrysostom, Isaiah's prophecy does not mean God causes"
+      },
+      {
+        "line_number": 2229,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "According to St. John Chrysostom, Isaiah's prophecy does not mean God causes"
+      },
+      {
+        "line_number": 2229,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "According to St. John Chrysostom, Isaiah's prophecy does not mean God causes"
+      },
+      {
+        "line_number": 2253,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "These rulers, according to St. John Chrysostom, are in reality the worst of"
+      },
+      {
+        "line_number": 2253,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "These rulers, according to St. John Chrysostom, are in reality the worst of"
+      },
+      {
+        "line_number": 2253,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "These rulers, according to St. John Chrysostom, are in reality the worst of"
+      },
+      {
+        "line_number": 2523,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "That day refers to Pentecost, for as St. John Chrysostom notes, it is \"the power of"
+      },
+      {
+        "line_number": 2523,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "That day refers to Pentecost, for as St. John Chrysostom notes, it is \"the power of"
+      },
+      {
+        "line_number": 2523,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "That day refers to Pentecost, for as St. John Chrysostom notes, it is \"the power of"
+      },
+      {
+        "line_number": 2577,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "to complete His discourse in order to gain their undivided attention. According to St. John"
+      },
+      {
+        "line_number": 2579,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Chrysostom, their current location was susceptible to intrusions, and the disciples were"
+      },
+      {
+        "line_number": 2681,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "sinful passion. \"Great is the tyranny of despondency\" (JohnChr). This sin is constantly"
+      },
+      {
+        "line_number": 2891,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "into the sphere of the sacred for God's use. St. John Chrysostom interprets this verse as"
+      },
+      {
+        "line_number": 2891,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "into the sphere of the sacred for God's use. St. John Chrysostom interprets this verse as"
+      },
+      {
+        "line_number": 2891,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "into the sphere of the sacred for God's use. St. John Chrysostom interprets this verse as"
+      },
+      {
+        "line_number": 3023,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "St. John Chrysostom notes the irony that Christ's accusers did not fear being"
+      },
+      {
+        "line_number": 3023,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "St. John Chrysostom notes the irony that Christ's accusers did not fear being"
+      },
+      {
+        "line_number": 3023,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "St. John Chrysostom notes the irony that Christ's accusers did not fear being"
+      },
+      {
+        "line_number": 3205,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "parents\" (JohnChr)."
+      },
+      {
+        "line_number": 3223,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "His head, He gave up His spirit: St. John Chrysostom writes that Christ did not die"
+      },
+      {
+        "line_number": 3223,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "His head, He gave up His spirit: St. John Chrysostom writes that Christ did not die"
+      },
+      {
+        "line_number": 3223,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "His head, He gave up His spirit: St. John Chrysostom writes that Christ did not die"
+      },
+      {
+        "line_number": 3239,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr). It is literally the forgiveness of sins and the regeneration of mankind that"
+      },
+      {
+        "line_number": 3247,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph of Arimathea was a hidden disciple, one who believed in Jesus but had"
+      },
+      {
+        "line_number": 3513,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "This disciple is John, the author of this Gospel. St. John lived a long life, dying"
+      }
+    ],
+    "entity_counts": {
+      "ATHANASIUS": 1,
+      "HILARY_POITIERS": 1,
+      "IRENAEUS": 2,
+      "JOHN_CHRYSOSTOM": 42,
+      "JOHN_FORERUNNER": 9,
+      "JOHN_THEOLOGIAN": 19,
+      "JOSEPH_BETROTHED": 2,
+      "PHOTINI_SAMARITAN": 3
+    },
+    "unresolved_candidates_count": 3,
+    "unresolved_candidates": [
+      {
+        "line_number": 1389,
+        "token": "St. Mary",
+        "context": "two days when St. Mary of Egypt, a reformed prostitute, is commemorated."
+      },
+      {
+        "line_number": 1743,
+        "token": "IgnAnt",
+        "context": "there the people shall gather\" (IgnAnt). Indeed, the response of the faithful can be a"
+      },
+      {
+        "line_number": 1795,
+        "token": "St. Ignatius",
+        "context": "and Gentile Christians, St. Ignatius taught, \"Be careful to observe a single Eucharist, for"
+      }
+    ],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 657,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 751,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1201,
+        "snippet": "HilryP"
+      },
+      {
+        "line_number": 1357,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1587,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1879,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 2681,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 3205,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 3239,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

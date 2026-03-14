@@ -1,0 +1,415 @@
+{
+  "book_code": "JDG",
+  "position": 7,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/JDG_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 212,
+      "auto_fixable": 0,
+      "review_needed": 212,
+      "files_checked": 1,
+      "lines_checked": 336,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 194,
+      "P7": 18
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "JDG",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/JDG_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/JDG_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/JDG.md",
+    "counts": {
+      "scripture_markers": 69,
+      "footnote_entries": 69,
+      "scripture_anchors": 235,
+      "valid_marker_anchors": 69,
+      "valid_note_anchors": 69
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "JDG.18:21",
+      "JDG.19:11",
+      "JDG.19:22",
+      "JDG.19:24",
+      "JDG.19:4",
+      "JDG.1:11",
+      "JDG.1:22",
+      "JDG.1:27",
+      "JDG.20:12",
+      "JDG.20:18",
+      "JDG.20:26",
+      "JDG.20:28",
+      "JDG.21:25",
+      "JDG.3:10",
+      "JDG.3:12",
+      "JDG.3:20",
+      "JDG.3:7",
+      "JDG.3:9",
+      "JDG.4:4",
+      "JDG.5:28",
+      "JDG.5:7",
+      "JDG.5:9",
+      "JDG.6:18",
+      "JDG.6:25",
+      "JDG.6:3",
+      "JDG.6:36",
+      "JDG.7:24",
+      "JDG.8:13",
+      "JDG.8:14",
+      "JDG.8:27",
+      "JDG.8:4",
+      "JDG.9:25",
+      "JDG.9:26",
+      "JDG.9:46",
+      "JDG.9:7",
+      "JDG.9:8"
+    ],
+    "note_anchor_gaps": [
+      "JDG.18:21",
+      "JDG.19:11",
+      "JDG.19:22",
+      "JDG.19:24",
+      "JDG.19:4",
+      "JDG.1:11",
+      "JDG.1:22",
+      "JDG.1:27",
+      "JDG.20:12",
+      "JDG.20:18",
+      "JDG.20:26",
+      "JDG.20:28",
+      "JDG.21:25",
+      "JDG.3:10",
+      "JDG.3:12",
+      "JDG.3:20",
+      "JDG.3:7",
+      "JDG.3:9",
+      "JDG.4:4",
+      "JDG.5:28",
+      "JDG.5:7",
+      "JDG.5:9",
+      "JDG.6:18",
+      "JDG.6:25",
+      "JDG.6:3",
+      "JDG.6:36",
+      "JDG.7:24",
+      "JDG.8:13",
+      "JDG.8:14",
+      "JDG.8:27",
+      "JDG.8:4",
+      "JDG.9:25",
+      "JDG.9:26",
+      "JDG.9:46",
+      "JDG.9:7",
+      "JDG.9:8"
+    ],
+    "issue_count": 72
+  },
+  "wikilinks": {
+    "total_refs": 42,
+    "convertible_refs": 0,
+    "already_linked_refs": 42,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 19,
+      "matched_entities": [
+        {
+          "line_number": 138,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "St. Ambrose comments on the story of Deborah, Barak, and Jael: \"And so according to"
+        },
+        {
+          "line_number": 138,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "St. Ambrose comments on the story of Deborah, Barak, and Jael: \"And so according to"
+        },
+        {
+          "line_number": 215,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "St. Ambrose sees the terebinth tree as a type of the cross, the winepress as the"
+        },
+        {
+          "line_number": 215,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "St. Ambrose sees the terebinth tree as a type of the cross, the winepress as the"
+        },
+        {
+          "line_number": 242,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "St. Ambrose writes that Gideon's sacrifices foreshadow the Incarnation. \"The meat"
+        },
+        {
+          "line_number": 242,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "St. Ambrose writes that Gideon's sacrifices foreshadow the Incarnation. \"The meat"
+        },
+        {
+          "line_number": 256,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "St. Ambrose writes that by sacrificing the two bulls, Gideon \"showed that after the"
+        },
+        {
+          "line_number": 256,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "St. Ambrose writes that by sacrificing the two bulls, Gideon \"showed that after the"
+        },
+        {
+          "line_number": 327,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "The men of Ephraim had been excluded from the battle. Gideon showed the wisdom"
+        },
+        {
+          "line_number": 477,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "Again (see notes at 8:1-3) the men of Ephraim are bypassed in battle, this time"
+        },
+        {
+          "line_number": 481,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "against the Ammonites?\" (see 10:9). Ephraim has no answer, and war ensues."
+        },
+        {
+          "line_number": 507,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "1:11) and John the Baptist ([[LUK.1:15]]). Samson would begin to deliver Israel from the"
+        },
+        {
+          "line_number": 519,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "St. Ephraim the Syrian",
+          "context": "14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also \"tore the lion, an image of death... and caused to go forth from his bitterness the sweetness of life for"
+        },
+        {
+          "line_number": 519,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim the Syrian",
+          "context": "14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also \"tore the lion, an image of death... and caused to go forth from his bitterness the sweetness of life for"
+        },
+        {
+          "line_number": 519,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "St. Ephraim",
+          "context": "14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also \"tore the lion, an image of death... and caused to go forth from his bitterness the sweetness of life for"
+        },
+        {
+          "line_number": 519,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also \"tore the lion, an image of death... and caused to go forth from his bitterness the sweetness of life for"
+        },
+        {
+          "line_number": 547,
+          "entity": "IRENAEUS",
+          "matched_alias": "St. Irenaeus",
+          "context": "16:23-30 St. Irenaeus writes on this passage: \"The lad who guided Samson by the hand (v. 26) typifies John the Baptist, who showed to the people the faith in Christ. And the house"
+        },
+        {
+          "line_number": 547,
+          "entity": "IRENAEUS",
+          "matched_alias": "Irenaeus",
+          "context": "16:23-30 St. Irenaeus writes on this passage: \"The lad who guided Samson by the hand (v. 26) typifies John the Baptist, who showed to the people the faith in Christ. And the house"
+        },
+        {
+          "line_number": 547,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "16:23-30 St. Irenaeus writes on this passage: \"The lad who guided Samson by the hand (v. 26) typifies John the Baptist, who showed to the people the faith in Christ. And the house"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 8,
+        "EPHRAIM_SYRIAN": 7,
+        "IRENAEUS": 2,
+        "JOHN_FORERUNNER": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 19,
+    "matched_entities": [
+      {
+        "line_number": 138,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "St. Ambrose comments on the story of Deborah, Barak, and Jael: \"And so according to"
+      },
+      {
+        "line_number": 138,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "St. Ambrose comments on the story of Deborah, Barak, and Jael: \"And so according to"
+      },
+      {
+        "line_number": 215,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "St. Ambrose sees the terebinth tree as a type of the cross, the winepress as the"
+      },
+      {
+        "line_number": 215,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "St. Ambrose sees the terebinth tree as a type of the cross, the winepress as the"
+      },
+      {
+        "line_number": 242,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "St. Ambrose writes that Gideon's sacrifices foreshadow the Incarnation. \"The meat"
+      },
+      {
+        "line_number": 242,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "St. Ambrose writes that Gideon's sacrifices foreshadow the Incarnation. \"The meat"
+      },
+      {
+        "line_number": 256,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "St. Ambrose writes that by sacrificing the two bulls, Gideon \"showed that after the"
+      },
+      {
+        "line_number": 256,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "St. Ambrose writes that by sacrificing the two bulls, Gideon \"showed that after the"
+      },
+      {
+        "line_number": 327,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "The men of Ephraim had been excluded from the battle. Gideon showed the wisdom"
+      },
+      {
+        "line_number": 477,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "Again (see notes at 8:1-3) the men of Ephraim are bypassed in battle, this time"
+      },
+      {
+        "line_number": 481,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "against the Ammonites?\" (see 10:9). Ephraim has no answer, and war ensues."
+      },
+      {
+        "line_number": 507,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "1:11) and John the Baptist ([[LUK.1:15]]). Samson would begin to deliver Israel from the"
+      },
+      {
+        "line_number": 519,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "St. Ephraim the Syrian",
+        "context": "14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also \"tore the lion, an image of death... and caused to go forth from his bitterness the sweetness of life for"
+      },
+      {
+        "line_number": 519,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim the Syrian",
+        "context": "14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also \"tore the lion, an image of death... and caused to go forth from his bitterness the sweetness of life for"
+      },
+      {
+        "line_number": 519,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "St. Ephraim",
+        "context": "14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also \"tore the lion, an image of death... and caused to go forth from his bitterness the sweetness of life for"
+      },
+      {
+        "line_number": 519,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also \"tore the lion, an image of death... and caused to go forth from his bitterness the sweetness of life for"
+      },
+      {
+        "line_number": 547,
+        "entity": "IRENAEUS",
+        "matched_alias": "St. Irenaeus",
+        "context": "16:23-30 St. Irenaeus writes on this passage: \"The lad who guided Samson by the hand (v. 26) typifies John the Baptist, who showed to the people the faith in Christ. And the house"
+      },
+      {
+        "line_number": 547,
+        "entity": "IRENAEUS",
+        "matched_alias": "Irenaeus",
+        "context": "16:23-30 St. Irenaeus writes on this passage: \"The lad who guided Samson by the hand (v. 26) typifies John the Baptist, who showed to the people the faith in Christ. And the house"
+      },
+      {
+        "line_number": 547,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "16:23-30 St. Irenaeus writes on this passage: \"The lad who guided Samson by the hand (v. 26) typifies John the Baptist, who showed to the people the faith in Christ. And the house"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 8,
+      "EPHRAIM_SYRIAN": 7,
+      "IRENAEUS": 2,
+      "JOHN_FORERUNNER": 2
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "book_code": "HAB",
+  "position": 38,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/HAB_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 46,
+      "auto_fixable": 0,
+      "review_needed": 46,
+      "files_checked": 1,
+      "lines_checked": 95,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 44,
+      "P7": 2
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "HAB",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/HAB_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/HAB_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/HAB.md",
+    "counts": {
+      "scripture_markers": 22,
+      "footnote_entries": 22,
+      "scripture_anchors": 15,
+      "valid_marker_anchors": 22,
+      "valid_note_anchors": 22
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "HAB.1:14",
+      "HAB.1:2",
+      "HAB.1:5",
+      "HAB.1:7",
+      "HAB.1:9",
+      "HAB.2:10",
+      "HAB.2:14",
+      "HAB.2:16",
+      "HAB.2:2",
+      "HAB.2:3",
+      "HAB.2:5",
+      "HAB.2:6",
+      "HAB.3:2",
+      "HAB.3:3"
+    ],
+    "note_anchor_gaps": [
+      "HAB.1:14",
+      "HAB.1:2",
+      "HAB.1:5",
+      "HAB.1:7",
+      "HAB.1:9",
+      "HAB.2:10",
+      "HAB.2:14",
+      "HAB.2:16",
+      "HAB.2:2",
+      "HAB.2:3",
+      "HAB.2:5",
+      "HAB.2:6",
+      "HAB.3:2",
+      "HAB.3:3"
+    ],
+    "issue_count": 28
+  },
+  "wikilinks": {
+    "total_refs": 22,
+    "convertible_refs": 0,
+    "already_linked_refs": 22,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 3,
+      "matched_entities": [
+        {
+          "line_number": 208,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "St Augustine believes the two living creatures are either the two testaments, the two"
+        },
+        {
+          "line_number": 210,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "thieves, or Moses and Elijah talking with Jesus on the Mount of Transfiguration."
+        },
+        {
+          "line_number": 222,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "Augustine believes this verse refers plainly to Jesus."
+        }
+      ],
+      "entity_counts": {
+        "AUGUSTINE_HIPPO": 2,
+        "ELIJAH_PROPHET": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 138,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "circumcision) upon Gentile converts, Paul quotes Habakkuk to show that we are justified"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 3,
+    "matched_entities": [
+      {
+        "line_number": 208,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "St Augustine believes the two living creatures are either the two testaments, the two"
+      },
+      {
+        "line_number": 210,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "thieves, or Moses and Elijah talking with Jesus on the Mount of Transfiguration."
+      },
+      {
+        "line_number": 222,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "Augustine believes this verse refers plainly to Jesus."
+      }
+    ],
+    "entity_counts": {
+      "AUGUSTINE_HIPPO": 2,
+      "ELIJAH_PROPHET": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

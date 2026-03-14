@@ -74,22 +74,27 @@ def partition_anchors(
             invalid[anchor] = error
     return valid, invalid
 
-def verify_book(book_code: str):
+
+def build_verification_result(book_code: str) -> dict:
     registry = load_registry(REGISTRY_PATH)
     testament = book_testament(registry, book_code)
     markers_path = STAGING / testament / f"{book_code}_footnote_markers.json"
-    notes_path   = STAGING / testament / f"{book_code}_footnotes.md"
+    notes_path = STAGING / testament / f"{book_code}_footnotes.md"
     scripture_path = STAGING / testament / f"{book_code}.md"
 
-    if not markers_path.exists():
-        print(f"Error: {markers_path} not found")
-        return 1
-    if not notes_path.exists():
-        print(f"Error: {notes_path} not found")
-        return 1
-    if not scripture_path.exists():
-        print(f"Error: {scripture_path} not found")
-        return 1
+    missing_files = [
+        str(path)
+        for path in (markers_path, notes_path, scripture_path)
+        if not path.exists()
+    ]
+    if missing_files:
+        return {
+            "book_code": book_code,
+            "testament": testament,
+            "status": "missing_files",
+            "missing_files": missing_files,
+            "issue_count": len(missing_files),
+        }
 
     markers_data = load_json(markers_path)
     if isinstance(markers_data, list):
@@ -103,62 +108,101 @@ def verify_book(book_code: str):
     valid_marker_anchors, invalid_marker_anchors = partition_anchors(marker_anchors, book_code, cvc)
     valid_note_anchors, invalid_note_anchors = partition_anchors(note_anchors, book_code, cvc)
 
+    missing_in_notes = sorted(valid_marker_anchors - valid_note_anchors)
+    missing_in_scripture = sorted(valid_note_anchors - valid_marker_anchors)
+    marker_anchor_gaps = sorted(valid_marker_anchors - scripture_anchors)
+    note_anchor_gaps = sorted(valid_note_anchors - scripture_anchors)
+    issue_count = (
+        len(invalid_marker_anchors)
+        + len(invalid_note_anchors)
+        + len(missing_in_notes)
+        + len(missing_in_scripture)
+        + len(marker_anchor_gaps)
+        + len(note_anchor_gaps)
+    )
+
+    return {
+        "book_code": book_code,
+        "testament": testament,
+        "status": "pass" if issue_count == 0 else "review_required",
+        "markers_path": str(markers_path),
+        "notes_path": str(notes_path),
+        "scripture_path": str(scripture_path),
+        "counts": {
+            "scripture_markers": len(marker_anchors),
+            "footnote_entries": len(note_anchors),
+            "scripture_anchors": len(scripture_anchors),
+            "valid_marker_anchors": len(valid_marker_anchors),
+            "valid_note_anchors": len(valid_note_anchors),
+        },
+        "invalid_marker_anchors": dict(sorted(invalid_marker_anchors.items())),
+        "invalid_note_anchors": dict(sorted(invalid_note_anchors.items())),
+        "missing_in_notes": missing_in_notes,
+        "missing_in_scripture": missing_in_scripture,
+        "marker_anchor_gaps": marker_anchor_gaps,
+        "note_anchor_gaps": note_anchor_gaps,
+        "issue_count": issue_count,
+    }
+
+def verify_book(book_code: str):
+    result = build_verification_result(book_code)
+    if result["status"] == "missing_files":
+        for path in result["missing_files"]:
+            print(f"Error: {path} not found")
+        return 1
+
     print(f"Verifying {book_code} footnotes...")
-    print(f"  Scripture markers : {len(marker_anchors)}")
-    print(f"  Footnote entries  : {len(note_anchors)}")
-    print(f"  Scripture anchors : {len(scripture_anchors)}")
+    counts = result["counts"]
+    print(f"  Scripture markers : {counts['scripture_markers']}")
+    print(f"  Footnote entries  : {counts['footnote_entries']}")
+    print(f"  Scripture anchors : {counts['scripture_anchors']}")
 
-    missing_in_notes = valid_marker_anchors - valid_note_anchors
-    missing_in_scripture = valid_note_anchors - valid_marker_anchors
-    marker_anchor_gaps = valid_marker_anchors - scripture_anchors
-    note_anchor_gaps = valid_note_anchors - scripture_anchors
-
-    issue_count = 0
+    invalid_marker_anchors = result["invalid_marker_anchors"]
+    invalid_note_anchors = result["invalid_note_anchors"]
+    missing_in_notes = result["missing_in_notes"]
+    missing_in_scripture = result["missing_in_scripture"]
+    marker_anchor_gaps = result["marker_anchor_gaps"]
+    note_anchor_gaps = result["note_anchor_gaps"]
+    issue_count = result["issue_count"]
 
     if invalid_marker_anchors:
-        issue_count += len(invalid_marker_anchors)
         print(f"\nERROR: {len(invalid_marker_anchors)} marker anchor(s) are invalid by registry:")
-        for anchor, reason in sorted(invalid_marker_anchors.items())[:10]:
+        for anchor, reason in list(invalid_marker_anchors.items())[:10]:
             print(f"  - {anchor} ({reason})")
         if len(invalid_marker_anchors) > 10:
             print(f"  ... and {len(invalid_marker_anchors)-10} more")
 
     if invalid_note_anchors:
-        issue_count += len(invalid_note_anchors)
         print(f"\nERROR: {len(invalid_note_anchors)} footnote anchor(s) are invalid by registry:")
-        for anchor, reason in sorted(invalid_note_anchors.items())[:10]:
+        for anchor, reason in list(invalid_note_anchors.items())[:10]:
             print(f"  - {anchor} ({reason})")
         if len(invalid_note_anchors) > 10:
             print(f"  ... and {len(invalid_note_anchors)-10} more")
 
     if missing_in_notes:
-        issue_count += len(missing_in_notes)
         print(f"\nWARNING: {len(missing_in_notes)} markers in Scripture have no corresponding footnote:")
-        for a in sorted(list(missing_in_notes))[:10]:
+        for a in missing_in_notes[:10]:
             print(f"  - {a}")
         if len(missing_in_notes) > 10:
             print(f"  ... and {len(missing_in_notes)-10} more")
 
     if missing_in_scripture:
-        issue_count += len(missing_in_scripture)
         print(f"\nWARNING: {len(missing_in_scripture)} footnotes in section have no marker in Scripture:")
-        for a in sorted(list(missing_in_scripture))[:10]:
+        for a in missing_in_scripture[:10]:
             print(f"  - {a}")
         if len(missing_in_scripture) > 10:
             print(f"  ... and {len(missing_in_scripture)-10} more")
 
     if marker_anchor_gaps:
-        issue_count += len(marker_anchor_gaps)
         print(f"\nERROR: {len(marker_anchor_gaps)} marker anchor(s) do not exist in staged Scripture:")
-        for a in sorted(list(marker_anchor_gaps))[:10]:
+        for a in marker_anchor_gaps[:10]:
             print(f"  - {a}")
         if len(marker_anchor_gaps) > 10:
             print(f"  ... and {len(marker_anchor_gaps)-10} more")
 
     if note_anchor_gaps:
-        issue_count += len(note_anchor_gaps)
         print(f"\nERROR: {len(note_anchor_gaps)} footnote anchor(s) do not exist in staged Scripture:")
-        for a in sorted(list(note_anchor_gaps))[:10]:
+        for a in note_anchor_gaps[:10]:
             print(f"  - {a}")
         if len(note_anchor_gaps) > 10:
             print(f"  ... and {len(note_anchor_gaps)-10} more")

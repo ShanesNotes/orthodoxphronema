@@ -1,0 +1,199 @@
+{
+  "book_code": "EST",
+  "position": 20,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/EST_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 43,
+      "auto_fixable": 0,
+      "review_needed": 43,
+      "files_checked": 1,
+      "lines_checked": 177,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 41,
+      "P7": 2
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "EST",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/EST_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/EST_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/EST.md",
+    "counts": {
+      "scripture_markers": 26,
+      "footnote_entries": 26,
+      "scripture_anchors": 64,
+      "valid_marker_anchors": 26,
+      "valid_note_anchors": 26
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "EST.10:3",
+      "EST.1:16",
+      "EST.1:22",
+      "EST.1:7",
+      "EST.2:12",
+      "EST.2:18",
+      "EST.2:20",
+      "EST.3:7",
+      "EST.3:8",
+      "EST.7:4",
+      "EST.7:9",
+      "EST.8:16",
+      "EST.8:5",
+      "EST.9:19",
+      "EST.9:25"
+    ],
+    "note_anchor_gaps": [
+      "EST.10:3",
+      "EST.1:16",
+      "EST.1:22",
+      "EST.1:7",
+      "EST.2:12",
+      "EST.2:18",
+      "EST.2:20",
+      "EST.3:7",
+      "EST.3:8",
+      "EST.7:4",
+      "EST.7:9",
+      "EST.8:16",
+      "EST.8:5",
+      "EST.9:19",
+      "EST.9:25"
+    ],
+    "issue_count": 30
+  },
+  "wikilinks": {
+    "total_refs": 23,
+    "convertible_refs": 0,
+    "already_linked_refs": 23,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 3,
+      "matched_entities": [
+        {
+          "line_number": 81,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "between Joseph and the Virgin Mary. In this situation, there was no sexual relationship, as demonstrated by Esther's virginity."
+        },
+        {
+          "line_number": 287,
+          "entity": "JEROME",
+          "matched_alias": "St. Jerome",
+          "context": ", 10 St. Jerome writes, \"Haman was burned in the fire of his own kindling.\""
+        },
+        {
+          "line_number": 287,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": ", 10 St. Jerome writes, \"Haman was burned in the fire of his own kindling.\""
+        }
+      ],
+      "entity_counts": {
+        "JEROME": 2,
+        "JOSEPH_BETROTHED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 3,
+      "matched_entities": [
+        {
+          "line_number": 160,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "him new garments, but he would not accept them. This is fulfilled when Peter would"
+        },
+        {
+          "line_number": 220,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Esther's heart shrank with fear because the lives of her people were at stake. St. Paul admitted to the people of Corinth, \"I was with you in weakness, in fear, and in much"
+        },
+        {
+          "line_number": 220,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Esther's heart shrank with fear because the lives of her people were at stake. St. Paul admitted to the people of Corinth, \"I was with you in weakness, in fear, and in much"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 2,
+        "PETER_APOSTLE": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 3,
+    "matched_entities": [
+      {
+        "line_number": 81,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "between Joseph and the Virgin Mary. In this situation, there was no sexual relationship, as demonstrated by Esther's virginity."
+      },
+      {
+        "line_number": 287,
+        "entity": "JEROME",
+        "matched_alias": "St. Jerome",
+        "context": ", 10 St. Jerome writes, \"Haman was burned in the fire of his own kindling.\""
+      },
+      {
+        "line_number": 287,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": ", 10 St. Jerome writes, \"Haman was burned in the fire of his own kindling.\""
+      }
+    ],
+    "entity_counts": {
+      "JEROME": 2,
+      "JOSEPH_BETROTHED": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

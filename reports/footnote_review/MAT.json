@@ -1,0 +1,1399 @@
+{
+  "book_code": "MAT",
+  "position": 50,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/MAT_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 339,
+      "auto_fixable": 0,
+      "review_needed": 339,
+      "files_checked": 1,
+      "lines_checked": 1720,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 291,
+      "P7": 48
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "MAT",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/MAT_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/MAT_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/MAT.md",
+    "counts": {
+      "scripture_markers": 280,
+      "footnote_entries": 280,
+      "scripture_anchors": 1071,
+      "valid_marker_anchors": 280,
+      "valid_note_anchors": 280
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 248,
+    "convertible_refs": 0,
+    "already_linked_refs": 248,
+    "unresolved_refs": 2,
+    "unresolved_examples": [
+      {
+        "line_number": 207,
+        "raw_text": "Gn 39-47",
+        "reason": "chapter_only_or_unsupported_range"
+      },
+      {
+        "line_number": 3251,
+        "raw_text": "Dan 7-12",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 85,
+      "matched_entities": [
+        {
+          "line_number": 77,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph can be named as Jesus' immediate predecessor since OT marriage laws"
+        },
+        {
+          "line_number": 83,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Mary. Thus, Jesus is shown to be born of Mary, and not begotten of Joseph. (See also"
+        },
+        {
+          "line_number": 103,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "The righteousness of Joseph consisted of a mercy that transcends the Law ([[HOS.6:6]])."
+        },
+        {
+          "line_number": 105,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph showed this mercy by his unwillingness to expose Mary's supposed sin, even"
+        },
+        {
+          "line_number": 113,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph is called the husband of Mary, and Mary is called his wife (vv. 20, 24). In the"
+        },
+        {
+          "line_number": 115,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Church, Joseph is remembered as the Betrothed, pointing out Mary's ever-virginity. (See"
+        },
+        {
+          "line_number": 123,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "An angel (or \"messenger\") of the Lord dispels Joseph's false reasoning by"
+        },
+        {
+          "line_number": 191,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "By then, Joseph and Mary had found a house in which to dwell. This indicates that Christ"
+        },
+        {
+          "line_number": 205,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Egypt is where Israel once took refuge; as Joseph of the OT once saved God's people"
+        },
+        {
+          "line_number": 207,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "by bringing them to Egypt (Gn 39-47), now Christ's stepfather Joseph finds safety for the"
+        },
+        {
+          "line_number": 267,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "revealed as a warning to Joseph; hence the detour to Nazareth (v. 23). This town was in"
+        },
+        {
+          "line_number": 291,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "Dead Sea. The preparation for the Savior's ministry begins with John the Baptist's call to"
+        },
+        {
+          "line_number": 415,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "brings up and purifies the entire world with Him\" (GrgNy; see also note on [[LUK.3:21]])."
+        },
+        {
+          "line_number": 585,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "These first disciples had already heard the preaching of John the Baptist and were"
+        },
+        {
+          "line_number": 613,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "with authority. Some early Christian preachers (for example, St. John Chrysostom) sat"
+        },
+        {
+          "line_number": 613,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "with authority. Some early Christian preachers (for example, St. John Chrysostom) sat"
+        },
+        {
+          "line_number": 613,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "with authority. Some early Christian preachers (for example, St. John Chrysostom) sat"
+        },
+        {
+          "line_number": 1089,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "\"Let us abstain from passions as we abstain from food.\" St. John Chrysostom writes,"
+        },
+        {
+          "line_number": 1089,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "\"Let us abstain from passions as we abstain from food.\" St. John Chrysostom writes,"
+        },
+        {
+          "line_number": 1089,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "\"Let us abstain from passions as we abstain from food.\" St. John Chrysostom writes,"
+        },
+        {
+          "line_number": 1259,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "John the Baptist made the same statement in 3:10."
+        },
+        {
+          "line_number": 1621,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "mission. According to St. John Chrysostom, before the Son of Man comes is not a"
+        },
+        {
+          "line_number": 1621,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "mission. According to St. John Chrysostom, before the Son of Man comes is not a"
+        },
+        {
+          "line_number": 1621,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "mission. According to St. John Chrysostom, before the Son of Man comes is not a"
+        },
+        {
+          "line_number": 1691,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "According to the Church Fathers, John the Baptist asks this question in order to guide"
+        },
+        {
+          "line_number": 1711,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "In terms of the OT Law, John the Baptist is the greatest prophet. The New"
+        },
+        {
+          "line_number": 1729,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "Himself, who has been incarnate since the days of John the Baptist, and who will"
+        },
+        {
+          "line_number": 1731,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "suffer the violence of the Cross. According to St. John Chrysostom, the violent who take"
+        },
+        {
+          "line_number": 1731,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "suffer the violence of the Cross. According to St. John Chrysostom, the violent who take"
+        },
+        {
+          "line_number": 1731,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "suffer the violence of the Cross. According to St. John Chrysostom, the violent who take"
+        },
+        {
+          "line_number": 1741,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "John does not ascribe to himself the role of Elijah ([[JOH.1:21]]), but Jesus does."
+        },
+        {
+          "line_number": 1743,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "John fulfilled the mission of Elijah ([[LUK.1:17]], [[LUK.1:76]]) and his destiny was similar. Yet John is"
+        },
+        {
+          "line_number": 1745,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "honored over Elijah (v. 11) because John prepared the way for the advent of Christ"
+        },
+        {
+          "line_number": 1759,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "parallel to the Jewish leaders who responded wickedly both to John the Baptist as being"
+        },
+        {
+          "line_number": 1879,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "sin\"; nor does Jesus ever call this sin \"unforgivable.\" St. John Chrysostom teaches that"
+        },
+        {
+          "line_number": 1879,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "sin\"; nor does Jesus ever call this sin \"unforgivable.\" St. John Chrysostom teaches that"
+        },
+        {
+          "line_number": 1879,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "sin\"; nor does Jesus ever call this sin \"unforgivable.\" St. John Chrysostom teaches that"
+        },
+        {
+          "line_number": 1939,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "stepbrothers, sons of Joseph by a previous marriage, or cousins. Indeed, Jesus commits"
+        },
+        {
+          "line_number": 2039,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "St. John Chrysostom notes that Jesus does not exclude the OT, but rather praises it"
+        },
+        {
+          "line_number": 2039,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "St. John Chrysostom notes that Jesus does not exclude the OT, but rather praises it"
+        },
+        {
+          "line_number": 2039,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "St. John Chrysostom notes that Jesus does not exclude the OT, but rather praises it"
+        },
+        {
+          "line_number": 2263,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "of the unbelieving Jews\" (JohnChr)."
+        },
+        {
+          "line_number": 2343,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr). The true Rock is Christ Himself ([[1CO.10:4]]), and the Church is built on the"
+        },
+        {
+          "line_number": 2377,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr; see [[JOH.20:23]]), but it also includes all the teaching, sacramental, and"
+        },
+        {
+          "line_number": 2473,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "St. John Chrysostom notes this rebuke is directed at the nine disciples who could"
+        },
+        {
+          "line_number": 2473,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "St. John Chrysostom notes this rebuke is directed at the nine disciples who could"
+        },
+        {
+          "line_number": 2473,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "St. John Chrysostom notes this rebuke is directed at the nine disciples who could"
+        },
+        {
+          "line_number": 2593,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr)."
+        },
+        {
+          "line_number": 2673,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "was to sell and give away all his possessions. St. John Chrysostom tells us that giving"
+        },
+        {
+          "line_number": 2673,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "was to sell and give away all his possessions. St. John Chrysostom tells us that giving"
+        },
+        {
+          "line_number": 2673,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "was to sell and give away all his possessions. St. John Chrysostom tells us that giving"
+        },
+        {
+          "line_number": 2705,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "According to St. John Chrysostom, this refers to keeping faith under persecution even if it"
+        },
+        {
+          "line_number": 2705,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "According to St. John Chrysostom, this refers to keeping faith under persecution even if it"
+        },
+        {
+          "line_number": 2705,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "According to St. John Chrysostom, this refers to keeping faith under persecution even if it"
+        },
+        {
+          "line_number": 2747,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "reward. St. John Chrysostom's renowned paschal sermon is based on this parable,"
+        },
+        {
+          "line_number": 2747,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "reward. St. John Chrysostom's renowned paschal sermon is based on this parable,"
+        },
+        {
+          "line_number": 2747,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "reward. St. John Chrysostom's renowned paschal sermon is based on this parable,"
+        },
+        {
+          "line_number": 2793,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "regard to sitting as equals on the right and left hand of Christ in His Kingdom, St. John"
+        },
+        {
+          "line_number": 2795,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Chrysostom teaches that no one could possibly occupy such a position. With regard to the"
+        },
+        {
+          "line_number": 2799,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "depict the Virgin Mary (the most blessed among women--[[LUK.1:28]]) and John the Baptist"
+        },
+        {
+          "line_number": 2969,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "This stone is Christ. According to St. John Chrysostom, this saying illustrates the"
+        },
+        {
+          "line_number": 2969,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "This stone is Christ. According to St. John Chrysostom, this saying illustrates the"
+        },
+        {
+          "line_number": 2969,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "This stone is Christ. According to St. John Chrysostom, this saying illustrates the"
+        },
+        {
+          "line_number": 3013,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "Burned up their city: St. John Chrysostom teaches that Christ is prophesying the"
+        },
+        {
+          "line_number": 3013,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Burned up their city: St. John Chrysostom teaches that Christ is prophesying the"
+        },
+        {
+          "line_number": 3013,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Burned up their city: St. John Chrysostom teaches that Christ is prophesying the"
+        },
+        {
+          "line_number": 3149,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "John Chrysostom notes that the scribes were depraved in thought and in heart, yet Jesus"
+        },
+        {
+          "line_number": 3209,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "also St. John Chrysostom's homily on Eph 2 and ch. 9 of the Didascalia Apostolorum);"
+        },
+        {
+          "line_number": 3209,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "also St. John Chrysostom's homily on Eph 2 and ch. 9 of the Didascalia Apostolorum);"
+        },
+        {
+          "line_number": 3209,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "also St. John Chrysostom's homily on Eph 2 and ch. 9 of the Didascalia Apostolorum);"
+        },
+        {
+          "line_number": 3293,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "converted. St. John Chrysostom marvels that while the Romans subdued countless Jews"
+        },
+        {
+          "line_number": 3293,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "converted. St. John Chrysostom marvels that while the Romans subdued countless Jews"
+        },
+        {
+          "line_number": 3293,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "converted. St. John Chrysostom marvels that while the Romans subdued countless Jews"
+        },
+        {
+          "line_number": 3385,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "According to St. John Chrysostom, Christ tells of the angels being unaware of the"
+        },
+        {
+          "line_number": 3385,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "According to St. John Chrysostom, Christ tells of the angels being unaware of the"
+        },
+        {
+          "line_number": 3385,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "According to St. John Chrysostom, Christ tells of the angels being unaware of the"
+        },
+        {
+          "line_number": 3391,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "According to [[MRK.13:32]], and in Chrysostom's Matthew text, Jesus declares that the Son"
+        },
+        {
+          "line_number": 3393,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "also does not know the day of His own return. Chrysostom teaches this is not to be"
+        },
+        {
+          "line_number": 3565,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "He accepts it as a sign of His coming burial (v. 12). Nevertheless, according to St. John"
+        },
+        {
+          "line_number": 3567,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Chrysostom, the disciples were not wrong in principle: mercy shown to the poor is"
+        },
+        {
+          "line_number": 3581,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "beforehand he asks about it, command him to give instead to the poor\" (JohnChr)."
+        },
+        {
+          "line_number": 3785,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "words are implicitly spoken by anyone who sins. St. John Chrysostom teaches that even"
+        },
+        {
+          "line_number": 3785,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "words are implicitly spoken by anyone who sins. St. John Chrysostom teaches that even"
+        },
+        {
+          "line_number": 3785,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "words are implicitly spoken by anyone who sins. St. John Chrysostom teaches that even"
+        },
+        {
+          "line_number": 3915,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "sons of Joseph by his first wife. And since the Theotokos was called the 'wife' of Joseph,"
+        }
+      ],
+      "entity_counts": {
+        "ELIJAH_PROPHET": 3,
+        "GREGORY_NYSSA": 1,
+        "JOHN_CHRYSOSTOM": 42,
+        "JOHN_FORERUNNER": 8,
+        "JOHN_THEOLOGIAN": 18,
+        "JOSEPH_BETROTHED": 13
+      },
+      "unresolved_candidates_count": 3,
+      "unresolved_candidates": [
+        {
+          "line_number": 2523,
+          "token": "St. Ignatius",
+          "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
+        },
+        {
+          "line_number": 3071,
+          "token": "St. Mark",
+          "context": "Lord, we know from St. Mark's account that this man is converted by Christ's answer (Mk"
+        },
+        {
+          "line_number": 3903,
+          "token": "St. Longinos",
+          "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+        }
+      ],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 2263,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 2343,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 2593,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 3581,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 30,
+      "matched_entities": [
+        {
+          "line_number": 1347,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "This passage and [[1CO.9:5]] (where Peter is called Cephas) indicate Peter was"
+        },
+        {
+          "line_number": 2129,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter's faith allows him to walk on the water. Note that Peter does not ask to"
+        },
+        {
+          "line_number": 2133,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "with the Lord. Peter is able to participate in this divine miracle as long as he keeps his"
+        },
+        {
+          "line_number": 2143,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter's sinking was not the storm, but the doubt; thus Christ does not rebuke the wind,"
+        },
+        {
+          "line_number": 2145,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "but Peter."
+        },
+        {
+          "line_number": 2317,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "face, for it is the question that defines Christianity. Peter's correct answer to this question"
+        },
+        {
+          "line_number": 2323,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "position excludes all compromise with other religious systems. Peter's understanding"
+        },
+        {
+          "line_number": 2339,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter/rock is a play on the word for \"rock\" in both Aramaic and Greek"
+        },
+        {
+          "line_number": 2341,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "(petros/petra). This rock refers not to Peter per se, but to \"the faith of his confession\""
+        },
+        {
+          "line_number": 2363,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Keys of the kingdom refers to a special authority that will be given to both Peter"
+        },
+        {
+          "line_number": 2365,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "and the other apostles after the Resurrection (see 18:18; [[JOH.20:23]]). Peter was not a leader"
+        },
+        {
+          "line_number": 2369,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "(Acts 15) where the apostles and presbyters met as equals, and where Peter advised, but"
+        },
+        {
+          "line_number": 2371,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "James presided. Papal claims in later centuries must not be confused with the NT witness"
+        },
+        {
+          "line_number": 2373,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "regarding Peter, nor should the role of Peter be diminished in opposition to these claims."
+        },
+        {
+          "line_number": 2387,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "After Peter's confession, Jesus reveals the true nature of His messiahship: the"
+        },
+        {
+          "line_number": 2391,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "that Christ would die was perplexing to Peter and remained scandalous to the Jews even"
+        },
+        {
+          "line_number": 2393,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "after the Resurrection ([[1CO.1:23]]). Peter unwittingly speaks for Satan, as the devil did not"
+        },
+        {
+          "line_number": 2475,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "not cast out the demon, whereas \"the pillars\" of faith--Peter, James, and John ([[GAL.2:9]])--"
+        },
+        {
+          "line_number": 2475,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "not cast out the demon, whereas \"the pillars\" of faith--Peter, James, and John ([[GAL.2:9]])--"
+        },
+        {
+          "line_number": 2773,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "Zebedee's sons requested this honor, but John's and James' own involvement is"
+        },
+        {
+          "line_number": 2781,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "in it, yet it cleansed the world ([[ROM.6:3]]-6). Christ's prophecy of John and James"
+        },
+        {
+          "line_number": 2985,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "25:1-13), for Christ is often called the \"Bridegroom\" (9:15; [[JOH.3:29]]), and St. Paul uses a"
+        },
+        {
+          "line_number": 2985,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "25:1-13), for Christ is often called the \"Bridegroom\" (9:15; [[JOH.3:29]]), and St. Paul uses a"
+        },
+        {
+          "line_number": 3697,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Jesus rebukes Peter (identified in [[JOH.18:10]]) for using the sword, for he still"
+        },
+        {
+          "line_number": 3745,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "In contrast to Peter, who repented in his sorrow (26:75), Judas is remorseful but"
+        },
+        {
+          "line_number": 3909,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "Mary the mother of James and Joses: Most Fathers teach this was the Virgin"
+        },
+        {
+          "line_number": 3911,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "Mary, being in fact the stepmother of James and Joses (see 13:55; compare [[MRK.15:40]], [[MRK.15:47]])."
+        },
+        {
+          "line_number": 3913,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "Theophylact summarizes the teaching of the Fathers in this way: \"James and Joses were"
+        },
+        {
+          "line_number": 3963,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "down death by death, and upon those in the tombs bestowing life.\" As St. Paul says, \"If"
+        },
+        {
+          "line_number": 3963,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "down death by death, and upon those in the tombs bestowing life.\" As St. Paul says, \"If"
+        }
+      ],
+      "entity_counts": {
+        "JAMES_APOSTLE": 7,
+        "PAUL_APOSTLE": 4,
+        "PETER_APOSTLE": 19
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 85,
+    "matched_entities": [
+      {
+        "line_number": 77,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph can be named as Jesus' immediate predecessor since OT marriage laws"
+      },
+      {
+        "line_number": 83,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Mary. Thus, Jesus is shown to be born of Mary, and not begotten of Joseph. (See also"
+      },
+      {
+        "line_number": 103,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "The righteousness of Joseph consisted of a mercy that transcends the Law ([[HOS.6:6]])."
+      },
+      {
+        "line_number": 105,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph showed this mercy by his unwillingness to expose Mary's supposed sin, even"
+      },
+      {
+        "line_number": 113,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph is called the husband of Mary, and Mary is called his wife (vv. 20, 24). In the"
+      },
+      {
+        "line_number": 115,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Church, Joseph is remembered as the Betrothed, pointing out Mary's ever-virginity. (See"
+      },
+      {
+        "line_number": 123,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "An angel (or \"messenger\") of the Lord dispels Joseph's false reasoning by"
+      },
+      {
+        "line_number": 191,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "By then, Joseph and Mary had found a house in which to dwell. This indicates that Christ"
+      },
+      {
+        "line_number": 205,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Egypt is where Israel once took refuge; as Joseph of the OT once saved God's people"
+      },
+      {
+        "line_number": 207,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "by bringing them to Egypt (Gn 39-47), now Christ's stepfather Joseph finds safety for the"
+      },
+      {
+        "line_number": 267,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "revealed as a warning to Joseph; hence the detour to Nazareth (v. 23). This town was in"
+      },
+      {
+        "line_number": 291,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "Dead Sea. The preparation for the Savior's ministry begins with John the Baptist's call to"
+      },
+      {
+        "line_number": 415,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "brings up and purifies the entire world with Him\" (GrgNy; see also note on [[LUK.3:21]])."
+      },
+      {
+        "line_number": 585,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "These first disciples had already heard the preaching of John the Baptist and were"
+      },
+      {
+        "line_number": 613,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "with authority. Some early Christian preachers (for example, St. John Chrysostom) sat"
+      },
+      {
+        "line_number": 613,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "with authority. Some early Christian preachers (for example, St. John Chrysostom) sat"
+      },
+      {
+        "line_number": 613,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "with authority. Some early Christian preachers (for example, St. John Chrysostom) sat"
+      },
+      {
+        "line_number": 1089,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "\"Let us abstain from passions as we abstain from food.\" St. John Chrysostom writes,"
+      },
+      {
+        "line_number": 1089,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "\"Let us abstain from passions as we abstain from food.\" St. John Chrysostom writes,"
+      },
+      {
+        "line_number": 1089,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "\"Let us abstain from passions as we abstain from food.\" St. John Chrysostom writes,"
+      },
+      {
+        "line_number": 1259,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "John the Baptist made the same statement in 3:10."
+      },
+      {
+        "line_number": 1621,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "mission. According to St. John Chrysostom, before the Son of Man comes is not a"
+      },
+      {
+        "line_number": 1621,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "mission. According to St. John Chrysostom, before the Son of Man comes is not a"
+      },
+      {
+        "line_number": 1621,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "mission. According to St. John Chrysostom, before the Son of Man comes is not a"
+      },
+      {
+        "line_number": 1691,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "According to the Church Fathers, John the Baptist asks this question in order to guide"
+      },
+      {
+        "line_number": 1711,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "In terms of the OT Law, John the Baptist is the greatest prophet. The New"
+      },
+      {
+        "line_number": 1729,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "Himself, who has been incarnate since the days of John the Baptist, and who will"
+      },
+      {
+        "line_number": 1731,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "suffer the violence of the Cross. According to St. John Chrysostom, the violent who take"
+      },
+      {
+        "line_number": 1731,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "suffer the violence of the Cross. According to St. John Chrysostom, the violent who take"
+      },
+      {
+        "line_number": 1731,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "suffer the violence of the Cross. According to St. John Chrysostom, the violent who take"
+      },
+      {
+        "line_number": 1741,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "John does not ascribe to himself the role of Elijah ([[JOH.1:21]]), but Jesus does."
+      },
+      {
+        "line_number": 1743,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "John fulfilled the mission of Elijah ([[LUK.1:17]], [[LUK.1:76]]) and his destiny was similar. Yet John is"
+      },
+      {
+        "line_number": 1745,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "honored over Elijah (v. 11) because John prepared the way for the advent of Christ"
+      },
+      {
+        "line_number": 1759,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "parallel to the Jewish leaders who responded wickedly both to John the Baptist as being"
+      },
+      {
+        "line_number": 1879,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "sin\"; nor does Jesus ever call this sin \"unforgivable.\" St. John Chrysostom teaches that"
+      },
+      {
+        "line_number": 1879,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "sin\"; nor does Jesus ever call this sin \"unforgivable.\" St. John Chrysostom teaches that"
+      },
+      {
+        "line_number": 1879,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "sin\"; nor does Jesus ever call this sin \"unforgivable.\" St. John Chrysostom teaches that"
+      },
+      {
+        "line_number": 1939,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "stepbrothers, sons of Joseph by a previous marriage, or cousins. Indeed, Jesus commits"
+      },
+      {
+        "line_number": 2039,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "St. John Chrysostom notes that Jesus does not exclude the OT, but rather praises it"
+      },
+      {
+        "line_number": 2039,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "St. John Chrysostom notes that Jesus does not exclude the OT, but rather praises it"
+      },
+      {
+        "line_number": 2039,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "St. John Chrysostom notes that Jesus does not exclude the OT, but rather praises it"
+      },
+      {
+        "line_number": 2263,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "of the unbelieving Jews\" (JohnChr)."
+      },
+      {
+        "line_number": 2343,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr). The true Rock is Christ Himself ([[1CO.10:4]]), and the Church is built on the"
+      },
+      {
+        "line_number": 2377,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr; see [[JOH.20:23]]), but it also includes all the teaching, sacramental, and"
+      },
+      {
+        "line_number": 2473,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "St. John Chrysostom notes this rebuke is directed at the nine disciples who could"
+      },
+      {
+        "line_number": 2473,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "St. John Chrysostom notes this rebuke is directed at the nine disciples who could"
+      },
+      {
+        "line_number": 2473,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "St. John Chrysostom notes this rebuke is directed at the nine disciples who could"
+      },
+      {
+        "line_number": 2593,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr)."
+      },
+      {
+        "line_number": 2673,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "was to sell and give away all his possessions. St. John Chrysostom tells us that giving"
+      },
+      {
+        "line_number": 2673,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "was to sell and give away all his possessions. St. John Chrysostom tells us that giving"
+      },
+      {
+        "line_number": 2673,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "was to sell and give away all his possessions. St. John Chrysostom tells us that giving"
+      },
+      {
+        "line_number": 2705,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "According to St. John Chrysostom, this refers to keeping faith under persecution even if it"
+      },
+      {
+        "line_number": 2705,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "According to St. John Chrysostom, this refers to keeping faith under persecution even if it"
+      },
+      {
+        "line_number": 2705,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "According to St. John Chrysostom, this refers to keeping faith under persecution even if it"
+      },
+      {
+        "line_number": 2747,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "reward. St. John Chrysostom's renowned paschal sermon is based on this parable,"
+      },
+      {
+        "line_number": 2747,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "reward. St. John Chrysostom's renowned paschal sermon is based on this parable,"
+      },
+      {
+        "line_number": 2747,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "reward. St. John Chrysostom's renowned paschal sermon is based on this parable,"
+      },
+      {
+        "line_number": 2793,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "regard to sitting as equals on the right and left hand of Christ in His Kingdom, St. John"
+      },
+      {
+        "line_number": 2795,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Chrysostom teaches that no one could possibly occupy such a position. With regard to the"
+      },
+      {
+        "line_number": 2799,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "depict the Virgin Mary (the most blessed among women--[[LUK.1:28]]) and John the Baptist"
+      },
+      {
+        "line_number": 2969,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "This stone is Christ. According to St. John Chrysostom, this saying illustrates the"
+      },
+      {
+        "line_number": 2969,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "This stone is Christ. According to St. John Chrysostom, this saying illustrates the"
+      },
+      {
+        "line_number": 2969,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "This stone is Christ. According to St. John Chrysostom, this saying illustrates the"
+      },
+      {
+        "line_number": 3013,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "Burned up their city: St. John Chrysostom teaches that Christ is prophesying the"
+      },
+      {
+        "line_number": 3013,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Burned up their city: St. John Chrysostom teaches that Christ is prophesying the"
+      },
+      {
+        "line_number": 3013,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Burned up their city: St. John Chrysostom teaches that Christ is prophesying the"
+      },
+      {
+        "line_number": 3149,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "John Chrysostom notes that the scribes were depraved in thought and in heart, yet Jesus"
+      },
+      {
+        "line_number": 3209,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "also St. John Chrysostom's homily on Eph 2 and ch. 9 of the Didascalia Apostolorum);"
+      },
+      {
+        "line_number": 3209,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "also St. John Chrysostom's homily on Eph 2 and ch. 9 of the Didascalia Apostolorum);"
+      },
+      {
+        "line_number": 3209,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "also St. John Chrysostom's homily on Eph 2 and ch. 9 of the Didascalia Apostolorum);"
+      },
+      {
+        "line_number": 3293,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "converted. St. John Chrysostom marvels that while the Romans subdued countless Jews"
+      },
+      {
+        "line_number": 3293,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "converted. St. John Chrysostom marvels that while the Romans subdued countless Jews"
+      },
+      {
+        "line_number": 3293,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "converted. St. John Chrysostom marvels that while the Romans subdued countless Jews"
+      },
+      {
+        "line_number": 3385,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "According to St. John Chrysostom, Christ tells of the angels being unaware of the"
+      },
+      {
+        "line_number": 3385,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "According to St. John Chrysostom, Christ tells of the angels being unaware of the"
+      },
+      {
+        "line_number": 3385,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "According to St. John Chrysostom, Christ tells of the angels being unaware of the"
+      },
+      {
+        "line_number": 3391,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "According to [[MRK.13:32]], and in Chrysostom's Matthew text, Jesus declares that the Son"
+      },
+      {
+        "line_number": 3393,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "also does not know the day of His own return. Chrysostom teaches this is not to be"
+      },
+      {
+        "line_number": 3565,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "He accepts it as a sign of His coming burial (v. 12). Nevertheless, according to St. John"
+      },
+      {
+        "line_number": 3567,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Chrysostom, the disciples were not wrong in principle: mercy shown to the poor is"
+      },
+      {
+        "line_number": 3581,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "beforehand he asks about it, command him to give instead to the poor\" (JohnChr)."
+      },
+      {
+        "line_number": 3785,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "words are implicitly spoken by anyone who sins. St. John Chrysostom teaches that even"
+      },
+      {
+        "line_number": 3785,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "words are implicitly spoken by anyone who sins. St. John Chrysostom teaches that even"
+      },
+      {
+        "line_number": 3785,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "words are implicitly spoken by anyone who sins. St. John Chrysostom teaches that even"
+      },
+      {
+        "line_number": 3915,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "sons of Joseph by his first wife. And since the Theotokos was called the 'wife' of Joseph,"
+      }
+    ],
+    "entity_counts": {
+      "ELIJAH_PROPHET": 3,
+      "GREGORY_NYSSA": 1,
+      "JOHN_CHRYSOSTOM": 42,
+      "JOHN_FORERUNNER": 8,
+      "JOHN_THEOLOGIAN": 18,
+      "JOSEPH_BETROTHED": 13
+    },
+    "unresolved_candidates_count": 3,
+    "unresolved_candidates": [
+      {
+        "line_number": 2523,
+        "token": "St. Ignatius",
+        "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
+      },
+      {
+        "line_number": 3071,
+        "token": "St. Mark",
+        "context": "Lord, we know from St. Mark's account that this man is converted by Christ's answer (Mk"
+      },
+      {
+        "line_number": 3903,
+        "token": "St. Longinos",
+        "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+      }
+    ],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 2263,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 2343,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 2593,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 3581,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

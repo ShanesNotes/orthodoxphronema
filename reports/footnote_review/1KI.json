@@ -1,0 +1,842 @@
+{
+  "book_code": "1KI",
+  "position": 11,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/1KI_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 150,
+      "auto_fixable": 0,
+      "review_needed": 150,
+      "files_checked": 1,
+      "lines_checked": 320,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 110,
+      "P7": 40
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "1KI",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/1KI_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/1KI_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/1KI.md",
+    "counts": {
+      "scripture_markers": 6,
+      "footnote_entries": 6,
+      "scripture_anchors": 253,
+      "valid_marker_anchors": 6,
+      "valid_note_anchors": 6
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "1KI.20:25",
+      "1KI.21:23"
+    ],
+    "note_anchor_gaps": [
+      "1KI.20:25",
+      "1KI.21:23"
+    ],
+    "issue_count": 4
+  },
+  "wikilinks": {
+    "total_refs": 62,
+    "convertible_refs": 0,
+    "already_linked_refs": 62,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 41,
+      "matched_entities": [
+        {
+          "line_number": 27,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "with the Father ([[JOH.5:23]]; [[MAT.27:11]]), yet His Father did not rebuke Him (AthanG). Quite to"
+        },
+        {
+          "line_number": 93,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "vengeance becomes worse than the one on whom he takes vengeance (JohnChr). \"'Vengeance is Mine, I will repay,' says the Lord\" ([[ROM.12:19]]; see also Lv 19:18; [[DEU.32:35]]). The vengeance taken on Joab by Solomon was at the Lord's direct"
+        },
+        {
+          "line_number": 123,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "things are of this world; therefore, God readily heard his prayer (JohnChr). Rather, he"
+        },
+        {
+          "line_number": 129,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "3:27 Wisdom and justice go together, for there cannot be one without the other (AmbM)."
+        },
+        {
+          "line_number": 349,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "before the Lord on his behalf. So the Lord honored his humility and restored his hand. Salvation begins and ends with humility (JohnChr), but Jeroboam's humility was shortlived; for he failed to worship the very Lord who showed him such mer"
+        },
+        {
+          "line_number": 359,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "JohnCas",
+          "context": "Lord loves He chastens, and scourges every son whom He receives\" (JohnCas). He was"
+        },
+        {
+          "line_number": 415,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "When prophets like Elijah prophesied, they did so in the Lord's name, for the Lord"
+        },
+        {
+          "line_number": 421,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "The word is the Word and Son of God. It was He who commanded the ravens, and it was He whom Elijah obeyed. It was He with whom Elijah and Moses appeared on"
+        },
+        {
+          "line_number": 425,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah was very poor, but he made others rich, \"for it is better to be rich for"
+        },
+        {
+          "line_number": 427,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "others than for oneself\" (AmbM). While Elijah became poor to make the widow rich, Jesus became poor for the sake of many ([[2CO.8:9]])."
+        },
+        {
+          "line_number": 427,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "others than for oneself\" (AmbM). While Elijah became poor to make the widow rich, Jesus became poor for the sake of many ([[2CO.8:9]])."
+        },
+        {
+          "line_number": 431,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "herself but also for her son. But her faith in the Lord would overcome both (JohnChr)."
+        },
+        {
+          "line_number": 437,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "provide for the prophet (JohnChr). Neither the flour nor the oil ran out, because the"
+        },
+        {
+          "line_number": 445,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah did not command the child to return from the dead. Rather, he cried out to"
+        },
+        {
+          "line_number": 453,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah in a mystery stretched himself over the child three times, for the number"
+        },
+        {
+          "line_number": 469,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "So Elijah went, for he obeyed the Word and Son of God. Also after \"the Word"
+        },
+        {
+          "line_number": 471,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "became flesh\" ([[JOH.1:14]]), Elijah appeared with Him on the Mount of Transfiguration (Mt"
+        },
+        {
+          "line_number": 481,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Prophet Elijah",
+          "context": "Obadiah's fear of the Lord is also shown by his deep respect for the prophet Elijah. We, too, show this same respect when we venerate his icon and the icon of the"
+        },
+        {
+          "line_number": 481,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Obadiah's fear of the Lord is also shown by his deep respect for the prophet Elijah. We, too, show this same respect when we venerate his icon and the icon of the"
+        },
+        {
+          "line_number": 483,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "St. Elijah",
+          "context": "Transfiguration. Many Orthodox churches are named after St. Elijah, also known as St. Elias. 18:12-14"
+        },
+        {
+          "line_number": 483,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "St. Elias",
+          "context": "Transfiguration. Many Orthodox churches are named after St. Elijah, also known as St. Elias. 18:12-14"
+        },
+        {
+          "line_number": 483,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Transfiguration. Many Orthodox churches are named after St. Elijah, also known as St. Elias. 18:12-14"
+        },
+        {
+          "line_number": 483,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elias",
+          "context": "Transfiguration. Many Orthodox churches are named after St. Elijah, also known as St. Elias. 18:12-14"
+        },
+        {
+          "line_number": 495,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Both Elijah and Obadiah were brave and courageous in the Lord. Elijah had no"
+        },
+        {
+          "line_number": 503,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "(AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him. Their courage is one of the four general virtues that produce all the other virtues. 18:17-18"
+        },
+        {
+          "line_number": 503,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "(AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him. Their courage is one of the four general virtues that produce all the other virtues. 18:17-18"
+        },
+        {
+          "line_number": 504,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "(AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him. Their courage is one of the four general virtues that produce all the other virtues."
+        },
+        {
+          "line_number": 504,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "(AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him. Their courage is one of the four general virtues that produce all the other virtues."
+        },
+        {
+          "line_number": 508,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah and Ahab obviously present two contradictory judgments. Which one"
+        },
+        {
+          "line_number": 512,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "the eyes of Israel, the Lord or Baal? Was Elijah the true prophet, or were the 850"
+        },
+        {
+          "line_number": 519,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "wrath. For their worship was filled with passion (v. 28). But Elijah was free from this"
+        },
+        {
+          "line_number": 525,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "shameless dog, but let it learn to hear the law of Christ\" (JohnChr). 18:21"
+        },
+        {
+          "line_number": 541,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "filled the furrow, then the fire fell from heaven. In all this, Elijah proclaimed Christian"
+        },
+        {
+          "line_number": 543,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "baptism. \"Now in this, by that marvelous sacrifice, Elijah clearly proclaimed to us the"
+        },
+        {
+          "line_number": 551,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "impurity, and illuminates the faithful\" (GrgNy). 19:4"
+        },
+        {
+          "line_number": 553,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah was not attached to this transient life, for his vision was life in the world to"
+        },
+        {
+          "line_number": 555,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "come. \"Holy men have often lamented their lengthy dwelling here\" (AmbM). St. Paul also"
+        },
+        {
+          "line_number": 575,
+          "entity": "GREGORY_SINAI",
+          "matched_alias": "GrgSinai",
+          "context": "said in [[EPH.3:17]] (GrgSinai). 19:13"
+        },
+        {
+          "line_number": 577,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "The Son of God (a Voice) came to Elijah, who called Him \"the Lord Almighty\" (v. 14) and \"the Lord\" (v. 15) Elijah was obedient to Him (v. 19). 19:18"
+        },
+        {
+          "line_number": 581,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "of seven thousand were saved in Elijah's day. St. Paul calls these \"a remnant according"
+        },
+        {
+          "line_number": 589,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "showed the gift of God\" (JohnChr). 20:3"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 3,
+        "ATHANASIUS": 3,
+        "ELIJAH_PROPHET": 25,
+        "GREGORY_NYSSA": 1,
+        "GREGORY_SINAI": 1,
+        "JOHN_CASSIAN": 1,
+        "JOHN_CHRYSOSTOM": 7
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 27,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 93,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 123,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 129,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 349,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 359,
+          "snippet": "JohnCas"
+        },
+        {
+          "line_number": 427,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 431,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 437,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 503,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 504,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 525,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 551,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 555,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 575,
+          "snippet": "GrgSinai"
+        },
+        {
+          "line_number": 589,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 13,
+      "matched_entities": [
+        {
+          "line_number": 165,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "them to the temple site, they fit. Speaking of the Church, St. Paul writes, \"the whole"
+        },
+        {
+          "line_number": 165,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "them to the temple site, they fit. Speaking of the Church, St. Paul writes, \"the whole"
+        },
+        {
+          "line_number": 173,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "dwelled there (8:25; 9:3). St. Paul calls the Church \"a dwelling place of God in the Spirit\""
+        },
+        {
+          "line_number": 173,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "dwelled there (8:25; 9:3). St. Paul calls the Church \"a dwelling place of God in the Spirit\""
+        },
+        {
+          "line_number": 555,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "come. \"Holy men have often lamented their lengthy dwelling here\" (AmbM). St. Paul also"
+        },
+        {
+          "line_number": 555,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "come. \"Holy men have often lamented their lengthy dwelling here\" (AmbM). St. Paul also"
+        },
+        {
+          "line_number": 573,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "He is \"a gentle breeze,\" which occurs when Christ comes to dwell in the heart, as St. Paul"
+        },
+        {
+          "line_number": 573,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "He is \"a gentle breeze,\" which occurs when Christ comes to dwell in the heart, as St. Paul"
+        },
+        {
+          "line_number": 581,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "of seven thousand were saved in Elijah's day. St. Paul calls these \"a remnant according"
+        },
+        {
+          "line_number": 581,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "of seven thousand were saved in Elijah's day. St. Paul calls these \"a remnant according"
+        },
+        {
+          "line_number": 587,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "worthy. \"By saying 'election,' Paul showed their approval, and by saying 'grace,' he"
+        },
+        {
+          "line_number": 601,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "not forced to sin by any necessity imposed on him by his human nature. Truly, like Ahab, we sell ourselves to commit sins by our own free choice, as St. Paul points out in Rom"
+        },
+        {
+          "line_number": 601,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "not forced to sin by any necessity imposed on him by his human nature. Truly, like Ahab, we sell ourselves to commit sins by our own free choice, as St. Paul points out in Rom"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 13
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 311,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "The Holy Spirit, \"who spoke by the prophets\" (Creed), spoke by the prophet"
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 311,
+          "snippet": "Creed"
+        }
+      ]
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 41,
+    "matched_entities": [
+      {
+        "line_number": 27,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "with the Father ([[JOH.5:23]]; [[MAT.27:11]]), yet His Father did not rebuke Him (AthanG). Quite to"
+      },
+      {
+        "line_number": 93,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "vengeance becomes worse than the one on whom he takes vengeance (JohnChr). \"'Vengeance is Mine, I will repay,' says the Lord\" ([[ROM.12:19]]; see also Lv 19:18; [[DEU.32:35]]). The vengeance taken on Joab by Solomon was at the Lord's direct"
+      },
+      {
+        "line_number": 123,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "things are of this world; therefore, God readily heard his prayer (JohnChr). Rather, he"
+      },
+      {
+        "line_number": 129,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "3:27 Wisdom and justice go together, for there cannot be one without the other (AmbM)."
+      },
+      {
+        "line_number": 349,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "before the Lord on his behalf. So the Lord honored his humility and restored his hand. Salvation begins and ends with humility (JohnChr), but Jeroboam's humility was shortlived; for he failed to worship the very Lord who showed him such mer"
+      },
+      {
+        "line_number": 359,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "JohnCas",
+        "context": "Lord loves He chastens, and scourges every son whom He receives\" (JohnCas). He was"
+      },
+      {
+        "line_number": 415,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "When prophets like Elijah prophesied, they did so in the Lord's name, for the Lord"
+      },
+      {
+        "line_number": 421,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "The word is the Word and Son of God. It was He who commanded the ravens, and it was He whom Elijah obeyed. It was He with whom Elijah and Moses appeared on"
+      },
+      {
+        "line_number": 425,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah was very poor, but he made others rich, \"for it is better to be rich for"
+      },
+      {
+        "line_number": 427,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "others than for oneself\" (AmbM). While Elijah became poor to make the widow rich, Jesus became poor for the sake of many ([[2CO.8:9]])."
+      },
+      {
+        "line_number": 427,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "others than for oneself\" (AmbM). While Elijah became poor to make the widow rich, Jesus became poor for the sake of many ([[2CO.8:9]])."
+      },
+      {
+        "line_number": 431,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "herself but also for her son. But her faith in the Lord would overcome both (JohnChr)."
+      },
+      {
+        "line_number": 437,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "provide for the prophet (JohnChr). Neither the flour nor the oil ran out, because the"
+      },
+      {
+        "line_number": 445,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah did not command the child to return from the dead. Rather, he cried out to"
+      },
+      {
+        "line_number": 453,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah in a mystery stretched himself over the child three times, for the number"
+      },
+      {
+        "line_number": 469,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "So Elijah went, for he obeyed the Word and Son of God. Also after \"the Word"
+      },
+      {
+        "line_number": 471,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "became flesh\" ([[JOH.1:14]]), Elijah appeared with Him on the Mount of Transfiguration (Mt"
+      },
+      {
+        "line_number": 481,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Prophet Elijah",
+        "context": "Obadiah's fear of the Lord is also shown by his deep respect for the prophet Elijah. We, too, show this same respect when we venerate his icon and the icon of the"
+      },
+      {
+        "line_number": 481,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Obadiah's fear of the Lord is also shown by his deep respect for the prophet Elijah. We, too, show this same respect when we venerate his icon and the icon of the"
+      },
+      {
+        "line_number": 483,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "St. Elijah",
+        "context": "Transfiguration. Many Orthodox churches are named after St. Elijah, also known as St. Elias. 18:12-14"
+      },
+      {
+        "line_number": 483,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "St. Elias",
+        "context": "Transfiguration. Many Orthodox churches are named after St. Elijah, also known as St. Elias. 18:12-14"
+      },
+      {
+        "line_number": 483,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Transfiguration. Many Orthodox churches are named after St. Elijah, also known as St. Elias. 18:12-14"
+      },
+      {
+        "line_number": 483,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elias",
+        "context": "Transfiguration. Many Orthodox churches are named after St. Elijah, also known as St. Elias. 18:12-14"
+      },
+      {
+        "line_number": 495,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Both Elijah and Obadiah were brave and courageous in the Lord. Elijah had no"
+      },
+      {
+        "line_number": 503,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "(AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him. Their courage is one of the four general virtues that produce all the other virtues. 18:17-18"
+      },
+      {
+        "line_number": 503,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "(AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him. Their courage is one of the four general virtues that produce all the other virtues. 18:17-18"
+      },
+      {
+        "line_number": 504,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "(AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him. Their courage is one of the four general virtues that produce all the other virtues."
+      },
+      {
+        "line_number": 504,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "(AthanG). Obadiah as well had no fear of telling Ahab that Elijah wanted to see him. Their courage is one of the four general virtues that produce all the other virtues."
+      },
+      {
+        "line_number": 508,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah and Ahab obviously present two contradictory judgments. Which one"
+      },
+      {
+        "line_number": 512,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "the eyes of Israel, the Lord or Baal? Was Elijah the true prophet, or were the 850"
+      },
+      {
+        "line_number": 519,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "wrath. For their worship was filled with passion (v. 28). But Elijah was free from this"
+      },
+      {
+        "line_number": 525,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "shameless dog, but let it learn to hear the law of Christ\" (JohnChr). 18:21"
+      },
+      {
+        "line_number": 541,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "filled the furrow, then the fire fell from heaven. In all this, Elijah proclaimed Christian"
+      },
+      {
+        "line_number": 543,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "baptism. \"Now in this, by that marvelous sacrifice, Elijah clearly proclaimed to us the"
+      },
+      {
+        "line_number": 551,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "impurity, and illuminates the faithful\" (GrgNy). 19:4"
+      },
+      {
+        "line_number": 553,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah was not attached to this transient life, for his vision was life in the world to"
+      },
+      {
+        "line_number": 555,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "come. \"Holy men have often lamented their lengthy dwelling here\" (AmbM). St. Paul also"
+      },
+      {
+        "line_number": 575,
+        "entity": "GREGORY_SINAI",
+        "matched_alias": "GrgSinai",
+        "context": "said in [[EPH.3:17]] (GrgSinai). 19:13"
+      },
+      {
+        "line_number": 577,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "The Son of God (a Voice) came to Elijah, who called Him \"the Lord Almighty\" (v. 14) and \"the Lord\" (v. 15) Elijah was obedient to Him (v. 19). 19:18"
+      },
+      {
+        "line_number": 581,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "of seven thousand were saved in Elijah's day. St. Paul calls these \"a remnant according"
+      },
+      {
+        "line_number": 589,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "showed the gift of God\" (JohnChr). 20:3"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 3,
+      "ATHANASIUS": 3,
+      "ELIJAH_PROPHET": 25,
+      "GREGORY_NYSSA": 1,
+      "GREGORY_SINAI": 1,
+      "JOHN_CASSIAN": 1,
+      "JOHN_CHRYSOSTOM": 7
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 27,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 93,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 123,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 129,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 349,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 359,
+        "snippet": "JohnCas"
+      },
+      {
+        "line_number": 427,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 431,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 437,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 503,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 504,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 525,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 551,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 555,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 575,
+        "snippet": "GrgSinai"
+      },
+      {
+        "line_number": 589,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

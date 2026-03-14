@@ -187,7 +187,11 @@ Here displayed is the power of fervent prayer from the heart of one who loves
 
 God and his neighbor ([[MAT.6:6]]). It is this same power that is given to Christ's apostles
 
-([[ACT.20:10]]). 4:37 See [[HEB.11:35]]. 4:42-44
+([[ACT.20:10]]).
+
+4:37 See [[HEB.11:35]].
+
+4:42-44
 
 This is similar to Christ's miracle of the loaves of barley found in [[JOH.6:9]]-14. 5:1
 

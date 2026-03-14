@@ -1,0 +1,144 @@
+{
+  "book_code": "LAM",
+  "position": 46,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/LAM_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 11,
+      "auto_fixable": 0,
+      "review_needed": 11,
+      "files_checked": 1,
+      "lines_checked": 74,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 11
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "LAM",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/LAM_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/LAM_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/LAM.md",
+    "counts": {
+      "scripture_markers": 26,
+      "footnote_entries": 26,
+      "scripture_anchors": 14,
+      "valid_marker_anchors": 26,
+      "valid_note_anchors": 26
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "LAM.1:11",
+      "LAM.1:18",
+      "LAM.1:5",
+      "LAM.1:7",
+      "LAM.1:8",
+      "LAM.2:12",
+      "LAM.2:15",
+      "LAM.2:2",
+      "LAM.2:22",
+      "LAM.2:5",
+      "LAM.2:9",
+      "LAM.3:2",
+      "LAM.3:22",
+      "LAM.4:13",
+      "LAM.4:20",
+      "LAM.4:3",
+      "LAM.4:6",
+      "LAM.4:7",
+      "LAM.5:19",
+      "LAM.5:2",
+      "LAM.5:5"
+    ],
+    "note_anchor_gaps": [
+      "LAM.1:11",
+      "LAM.1:18",
+      "LAM.1:5",
+      "LAM.1:7",
+      "LAM.1:8",
+      "LAM.2:12",
+      "LAM.2:15",
+      "LAM.2:2",
+      "LAM.2:22",
+      "LAM.2:5",
+      "LAM.2:9",
+      "LAM.3:2",
+      "LAM.3:22",
+      "LAM.4:13",
+      "LAM.4:20",
+      "LAM.4:3",
+      "LAM.4:6",
+      "LAM.4:7",
+      "LAM.5:19",
+      "LAM.5:2",
+      "LAM.5:5"
+    ],
+    "issue_count": 42
+  },
+  "wikilinks": {
+    "total_refs": 8,
+    "convertible_refs": 0,
+    "already_linked_refs": 8,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 0,
+    "matched_entities": [],
+    "entity_counts": {},
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "book_code": "PHM",
+  "position": 67,
+  "testament": "NT",
+  "status": "complete",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/PHM_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 15,
+      "auto_fixable": 0,
+      "review_needed": 15,
+      "files_checked": 1,
+      "lines_checked": 34,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 15
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "PHM",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/PHM_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/PHM_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/PHM.md",
+    "counts": {
+      "scripture_markers": 10,
+      "footnote_entries": 10,
+      "scripture_anchors": 25,
+      "valid_marker_anchors": 10,
+      "valid_note_anchors": 10
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 3,
+    "convertible_refs": 0,
+    "already_linked_refs": 3,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 7,
+      "matched_entities": [
+        {
+          "line_number": 37,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's apostolic spirit is manifest in his affection, benevolence, and regular"
+        },
+        {
+          "line_number": 45,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul appeals not to his own apostolic authority (v. 8; see 2 Corinthians). Instead he"
+        },
+        {
+          "line_number": 55,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul became Onesimus's spiritual father by convincing him of the truth of Christ (see"
+        },
+        {
+          "line_number": 63,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul sees to it that Onesimus fulfills his legal responsibilities by returning him to"
+        },
+        {
+          "line_number": 89,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul had also brought Philemon to Christ."
+        },
+        {
+          "line_number": 95,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Perhaps Paul hopes Philemon will not only receive Onesimus with forgiveness, but"
+        },
+        {
+          "line_number": 97,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "will also free him and return him to Paul."
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 7
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 0,
+    "matched_entities": [],
+    "entity_counts": {},
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

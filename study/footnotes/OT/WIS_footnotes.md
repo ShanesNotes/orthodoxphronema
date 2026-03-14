@@ -68,7 +68,9 @@ The question, "Why do the just suffer?" is answered in this section.
 
 Truth, love, grace and mercy are fulfilled in Christ and in His faithful in the
 
-Church. 3:1-9 The Church sees the lives of the martyrs reflected in these verses. See also [[DEU.33:3]]; [[JOB.12:10]]; [[PSA.117:15]]. 
+Church.
+
+3:1-9 The Church sees the lives of the martyrs reflected in these verses. See also [[DEU.33:3]]; [[JOB.12:10]]; [[PSA.117:15]]. 
 
 ### 3:10-12
 *(anchor: WIS.3:10)*
@@ -133,13 +135,9 @@ they face judgment, a theme that continues through 5:14.
 
 The full armor of God represents His holy attributes realized in Christ and in
 
-those who are baptized into Christ ([[GAL.3:27]]). St. Paul lists similar spiritual armor in Eph
+those who are baptized into Christ ([[GAL.3:27]]). St. Paul lists similar spiritual armor in [[EPH.6:11]]-17.
 
-
-### 6:11
-*(anchor: WIS.6:11)*
-
--17. 6:1-10 A word of exhortation to kings, judges, and rulers: their source of power is from
+6:1-10 A word of exhortation to kings, judges, and rulers: their source of power is from
 
 the Lord (v. 3). St. Paul agrees in [[ROM.13:1]]-6. 6:10
 
@@ -217,13 +215,9 @@ calls on God, who sends wisdom--that is, Christ--and His Spirit.
 
 This passage is fulfilled in Christ and His Church, to which nothing earthly can
 
-stand in comparison (v. 8). She is the unfailing treasure for men (v. 14; see Lk
+stand in comparison (v. 8). She is the unfailing treasure for men (v. 14; see [[LUK.12:32]]-34).
 
-
-### 12:32
-*(anchor: WIS.12:32)*
-
--34). 7:22-30 The Fathers agree that this passage illustrates the divine attributes of Christ, who
+7:22-30 The Fathers agree that this passage illustrates the divine attributes of Christ, who
 
 is "the image [v. 26] of the invisible God" ([[COL.1:15]]). One may also recognize here many
 
@@ -251,7 +245,10 @@ virtues here are similar to those in [[GAL.5:22]], [[GAL.5:23]]. 8:8
 
 Wisdom brings to the believer great experience and adventure. There is a personal
 
-joy and excitement that comes from an understanding of the things of God. 8:10-11 He who is Wisdom, Christ our God, found honor in the presence of the elders
+joy and excitement that comes from an understanding of the things of God.
+joy and excitement that comes from an understanding of the things of God.
+
+8:10-11 He who is Wisdom, Christ our God, found honor in the presence of the elders
 
 in the temple at the young age of twelve ([[LUK.2:42]]-47). 8:14
 
@@ -281,7 +278,9 @@ after which the earthly tabernacle and temple were patterned (see [[HEB.8:1]], [
 
 Through His death and Resurrection, Christ made the corruptible body to be
 
-immortal (see [[1CO.15:47]]-49). 9:17-18 The presence of the Holy Trinity is unveiled here. Your counsel refers to God the
+immortal (see [[1CO.15:47]]-49).
+
+9:17-18 The presence of the Holy Trinity is unveiled here. Your counsel refers to God the
 
 Father, who gives His Son, wisdom, and sends His Holy Spirit to reveal the knowledge
 
@@ -294,16 +293,15 @@ captured in numerous Orthodox icons of the Resurrection of Christ. 10:7
 St. Jude chooses a similar word picture in describing apostates: "late autumn trees
 
 without fruit" (Jude 12). The pillar of salt is a reference to Lot's unbelieving wife (Gn
+19:26).
 
-
-### 19:26
-*(anchor: WIS.19:26)*
-
-). 10:10
+10:10
 
 Our lives are a combination of hardships and the successes of increased... fruit from our labors. Wisdom helps us through both. St. Paul encouraged Timothy to
 
-"endure hardship as a good soldier of Jesus Christ" ([[2TI.2:3]]). 10:13-14 When Joseph was betrayed by his brothers and in a pit in Egypt, wisdom did
+"endure hardship as a good soldier of Jesus Christ" ([[2TI.2:3]]).
+
+10:13-14 When Joseph was betrayed by his brothers and in a pit in Egypt, wisdom did
 
 not abandon him (Gn 39-45). To His righteous followers, Jesus promises, "I will never
 
@@ -311,7 +309,9 @@ leave you nor forsake you" ([[HEB.13:5]]). 10:17-20
 
 Solomon has in mind the Song of Moses (v. 20), which is also sung in heaven
 
-and begins, "Great and marvelous are Your works, Lord God Almighty!" ([[REV.15:3]], [[REV.15:4]]). 10:1-21 This historical overview from Adam to Moses shows the active role that the Word
+and begins, "Great and marvelous are Your works, Lord God Almighty!" ([[REV.15:3]], [[REV.15:4]]).
+
+10:1-21 This historical overview from Adam to Moses shows the active role that the Word
 
 of God (Wisdom) takes in salvation history. St. Peter records a similar history ([[2PE.2:4]]-
 
@@ -323,7 +323,9 @@ the same means--in this case, with sweet and defiled water (see also 11:13). The
 
 a symbol of Christ ([[LUK.20:17]]; [[1CO.10:4]]) and the water is symbolic of eternal life (see Jn
 
-4:14). 11:9-2 According to the Fathers, God could destroy the world in a single breath (v. 20). But in His mercy and love, and recognizing the good inherent in man at creation, God will
+4:14).
+
+11:9-20 According to the Fathers, God could destroy the world in a single breath (v. 20). But in His mercy and love, and recognizing the good inherent in man at creation, God will
 
 correct those who have fallen away little by little (12:2), desiring their repentance (v. 23). 11:22
 
@@ -331,11 +333,16 @@ See Is 40:15. 11:24
 
 With His creation complete, "God saw everything He had made, and indeed, it was
 
-very good" ([[GEN.1:31]]). 11:25
+very good" ([[GEN.1:31]]).
 
-In Christ "all things consist" (lit. "hold together"; [[COL.1:17]]). 12:2
+11:25
 
-God gives us every opportunity to believe in Him. 12:3-11 The inhabitants of the holy land were the Canaanites, who were very unholy. Here again, as in 12:2, the Lord could have destroyed them by one severe word (v. 9), but instead He judged them little by little, giving them a chance for repentance (v. 10). Jesus taught the Most High God "is kind to the unthankful and evil" ([[LUK.6:35]]). 12:12-18 The Almighty God is utterly sovereign and merciful. He will not judge unjustly
+In Christ "all things consist" (lit. "hold together"; [[COL.1:17]]).
+God gives us every opportunity to believe in Him.
+
+12:3-11 The inhabitants of the holy land were the Canaanites, who were very unholy. Here again, as in 12:2, the Lord could have destroyed them by one severe word (v. 9), but instead He judged them little by little, giving them a chance for repentance (v. 10). Jesus taught the Most High God "is kind to the unthankful and evil" ([[LUK.6:35]]).
+
+12:12-18 The Almighty God is utterly sovereign and merciful. He will not judge unjustly
 
 (v. 13; [[GEN.18:25]]). He rules over us with great forbearance (v. 18). 12:19
 
@@ -351,7 +358,11 @@ Apostle Mark brought the gospel to Egypt, and the fruit of his labor remains to 
 
 All men are encouraged to look beyond the beauty of creation to its source and
 
-inspiration, Almighty God, and to know Him who exists (v. 1). 13:3 See [[PSA.8:5]], [[PSA.8:6]]. 13:5
+inspiration, Almighty God, and to know Him who exists (v. 1).
+
+13:3 See [[PSA.8:5]], [[PSA.8:6]].
+
+13:5
 
 St. Paul uses this same reasoning in [[ROM.1:20]]. 13:6
 
@@ -359,11 +370,21 @@ On Mars Hill, St. Paul preached to those who while seeking God had gone astray
 
 (see [[ACT.17:26]], [[ACT.17:27]]). We find Him in His Holy Church, in the Scriptures, and in our
 
-prayers to Him. 13:8-9 As in 13:5, St. Paul teaches why they are not to be excused in [[ROM.1:20]], [[ROM.1:21]]. 13:11-16 Solomon explains the length to which a carpenter goes to make a false image
+prayers to Him.
 
-(v. 16). 14:1-5 Wisdom mercifully provides safe passage for man. 14:6, 7 These verses refer to the time of Noah (Gn 6) and also foreshadow Christ and the
+13:8-9 As in 13:5, St. Paul teaches why they are not to be excused in [[ROM.1:20]], [[ROM.1:21]].
 
-saving wood of the Cross. 14:8-21 Man's creation of godless idols (v. 12) separates him from that loving union with
+13:11-16 Solomon explains the length to which a carpenter goes to make a false image
+
+(v. 16).
+
+14:1-5 Wisdom mercifully provides safe passage for man.
+
+14:6, 7 These verses refer to the time of Noah (Gn 6) and also foreshadow Christ and the
+
+saving wood of the Cross.
+
+14:8-21 Man's creation of godless idols (v. 12) separates him from that loving union with
 
 God for which he was created. Idolatry is a trap for the feet of fools (v. 11). 14:22-29
 
@@ -371,9 +392,15 @@ Every form of depravity (v. 25) flourishes in a society where idols are
 
 worshipped as deities. A sense of moral order in such a culture is impossible (see Rom
 
-1:26-30). 14:26
+1:26-30).
 
-See [[ACT.15:20]]. 15:3 To know God is immortality--eternal life (see [[JOH.17:3]]). 15:4-19
+14:26
+
+See [[ACT.15:20]].
+
+15:3 To know God is immortality--eternal life (see [[JOH.17:3]]).
+
+15:4-19
 
 Idols are evil images that entice the worshipper away from the True God and
 
@@ -383,7 +410,11 @@ His living saints, help keep us from idols. 15:7
 
 St. Paul also teaches that the potter makes vessels for honor and dishonor from
 
-the same clay ([[ROM.9:21]]). We choose to live either in light or in darkness. 15:10 See Is 44:20. 15:11
+the same clay ([[ROM.9:21]]). We choose to live either in light or in darkness.
+
+15:10 See Is 44:20.
+
+15:11
 
 God, who formed us and breathed life into us, has a rightful claim on our soul! 15:13 There is hope for a practicing idolater because he knows that he sins. 15:15
 
@@ -399,9 +430,17 @@ Related passages are [[NUM.21:6]]; [[DEU.32:24]]; [[1CO.10:9]]. 16:6-12
 
 The holy fathers see in the bronze serpent ([[NUM.21:9]]) a symbol of the healing
 
-power of the Cross. See also [[JOH.3:14]]. 16:10 See [[DEU.32:33]]. 16:13 Christ the Savior descended into Hades and exercised His authority over life and
+power of the Cross. See also [[JOH.3:14]].
 
-death to release those in prison (see [[EPH.4:9]], [[EPH.4:10]]). 16:15-18 This event is recorded in [[EXO.9:22]]-26. 16:20
+16:10 See [[DEU.32:33]].
+
+16:13 Christ the Savior descended into Hades and exercised His authority over life and
+
+death to release those in prison (see [[EPH.4:9]], [[EPH.4:10]]).
+
+16:15-18 This event is recorded in [[EXO.9:22]]-26.
+
+16:20
 
 In [[JOH.6:31]]-34, Jesus makes it very clear that He Himself is the true bread from
 
@@ -425,11 +464,25 @@ similar means both to judge His enemies and to bless His people. Here God is see
 
 send darkness (v. 2) to terrify the Egyptians and light (18:1) to guide the Israelites. This
 
-is the same darkness of Hades (v. 13) into which Christ descended ([[1PE.3:19]]). 17:3 See [[EXO.10:22]], [[EXO.10:23]]. 17:7 See [[2TI.3:8]], [[2TI.3:9]]. 17:9, 10 See [[JER.26:22]], [[JER.26:23]]. 17:11
+is the same darkness of Hades (v. 13) into which Christ descended ([[1PE.3:19]]).
 
-See [[ROM.2:15]]. 18:1-4 Great light (see Is 42:6) points to Christ, who is the fulfillment of the law (v. 4)
+17:3 See [[EXO.10:22]], [[EXO.10:23]].
 
-and the light of the world ([[JOH.8:12]]). 18:3 See [[EXO.13:21]]. 18:5-19 The sixth means is presented by which God both blesses His people and punishes
+17:7 See [[2TI.3:8]], [[2TI.3:9]].
+
+17:9, 10 See [[JER.26:22]], [[JER.26:23]].
+
+17:11
+
+See [[ROM.2:15]].
+
+18:1-4 Great light (see Is 42:6) points to Christ, who is the fulfillment of the law (v. 4)
+
+and the light of the world ([[JOH.8:12]]).
+
+18:3 See [[EXO.13:21]].
+
+18:5-19 The sixth means is presented by which God both blesses His people and punishes
 
 His enemies (see 11:4-8; 16:1-21; 17:1-18:4; 19:1-9). Here we see God punishing the
 
@@ -451,7 +504,9 @@ The Red Sea crossing was such a miraculous event in the history of Israel that
 
 Solomon describes it with these words: Your all-powerful Word leaped from
 
-heaven. The Son of God is a warrior, saving His people (see [[EXO.15:3]]; [[REV.19:13]]). 18:20-25 Once again salvation in Christ is foreshadowed when the high priestly prayers of
+heaven. The Son of God is a warrior, saving His people (see [[EXO.15:3]]; [[REV.19:13]]).
+
+18:20-25 Once again salvation in Christ is foreshadowed when the high priestly prayers of
 
 the blameless man, Aaron, are said to cut off (v. 23) death. Aaron's vestments, his
 

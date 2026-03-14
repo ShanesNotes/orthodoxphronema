@@ -431,9 +431,7 @@ The bride from Lebanon reminds us the Church is not only for Jews. Senir and
 
 Hermon are the ridges of Judea and Cilicia, known to be the dwelling places of wild
 
-beasts and predators, including lions and leopards--which, according to St. Gregory the
-
-Dialogist, are symbols of demons. Thus, we serve Christ in a fallen world. 
+beasts and predators, including lions and leopards--which, according to St. Gregory the Dialogist, are symbols of demons. Thus, we serve Christ in a fallen world. 
 
 ### 4:9
 *(anchor: SNG.4:9)*

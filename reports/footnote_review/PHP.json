@@ -1,0 +1,327 @@
+{
+  "book_code": "PHP",
+  "position": 60,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/PHP_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 28,
+      "auto_fixable": 0,
+      "review_needed": 28,
+      "files_checked": 1,
+      "lines_checked": 132,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P4": 1,
+      "P6": 21,
+      "P7": 6
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "PHP",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/PHP_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/PHP_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/PHP.md",
+    "counts": {
+      "scripture_markers": 24,
+      "footnote_entries": 24,
+      "scripture_anchors": 104,
+      "valid_marker_anchors": 24,
+      "valid_note_anchors": 24
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 7,
+    "convertible_refs": 0,
+    "already_linked_refs": 7,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 4,
+      "matched_entities": [
+        {
+          "line_number": 17,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "deacons, in his address. St. John Chrysostom says this is because it was the clergy in"
+        },
+        {
+          "line_number": 17,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "deacons, in his address. St. John Chrysostom says this is because it was the clergy in"
+        },
+        {
+          "line_number": 17,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "deacons, in his address. St. John Chrysostom says this is because it was the clergy in"
+        },
+        {
+          "line_number": 293,
+          "entity": "CLEMENT_ROME",
+          "matched_alias": "Clement",
+          "context": "It is most likely this Clement, a disciple of Paul, who later became the bishop of"
+        }
+      ],
+      "entity_counts": {
+        "CLEMENT_ROME": 1,
+        "JOHN_CHRYSOSTOM": 2,
+        "JOHN_THEOLOGIAN": 1
+      },
+      "unresolved_candidates_count": 1,
+      "unresolved_candidates": [
+        {
+          "line_number": 87,
+          "token": "JohnCli",
+          "context": "vainglory at the sight of the growing treasures of virtue\" (JohnCli). To be conceited is a"
+        }
+      ],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 25,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "This is the only epistle in which St. Paul includes the clergy, the bishops and"
+        },
+        {
+          "line_number": 15,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "This is the only epistle in which St. Paul includes the clergy, the bishops and"
+        },
+        {
+          "line_number": 19,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Philippi who collected the funds Paul so badly needed, and sent them to him by"
+        },
+        {
+          "line_number": 23,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "around AD 63, not only were bishops present in Philippi, but James was presiding over"
+        },
+        {
+          "line_number": 25,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "the church in Jerusalem ([[ACT.15:13]]) and tradition reveals that Peter was bishop in"
+        },
+        {
+          "line_number": 27,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Antioch--and later in Rome. (Tradition sometimes refers to the men Peter designated his"
+        },
+        {
+          "line_number": 31,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "apostles and the overseers they appointed.) Paul's pastoral epistles outline the"
+        },
+        {
+          "line_number": 49,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "And this I pray: This prayer of Paul shows his love and pastoral care for the"
+        },
+        {
+          "line_number": 61,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "and the way we die: the totality of what we are and do. St. Paul expects deliverance (v."
+        },
+        {
+          "line_number": 61,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "and the way we die: the totality of what we are and do. St. Paul expects deliverance (v."
+        },
+        {
+          "line_number": 73,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "witness to others, as Paul's chains have done (see vv. 7, 13), but also can serve to increase"
+        },
+        {
+          "line_number": 97,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "This passage is a hymn already in use in the Church, quoted here by St. Paul"
+        },
+        {
+          "line_number": 97,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "This passage is a hymn already in use in the Church, quoted here by St. Paul"
+        },
+        {
+          "line_number": 165,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Service is literally \"liturgy.\" St. Paul sees himself being poured out as an offering, a"
+        },
+        {
+          "line_number": 165,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Service is literally \"liturgy.\" St. Paul sees himself being poured out as an offering, a"
+        },
+        {
+          "line_number": 181,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "together. Paul is confident of his authority to send Timothy (v. 19) to Philippi, which"
+        },
+        {
+          "line_number": 183,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "demonstrates Paul's apostolic or episcopal role. Timothy is an apostle as well, sent to care"
+        },
+        {
+          "line_number": 197,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "of Moses, especially emphasizing the rite of circumcision (v. 3). Paul boldly tags them"
+        },
+        {
+          "line_number": 211,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Though Paul could boast concerning his ancestry, his circumcision, his keeping of"
+        },
+        {
+          "line_number": 249,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "What is the goal (v. 14) of the maturing Christian? For Paul it is that we be"
+        },
+        {
+          "line_number": 263,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Because St. Paul and other saints set an example for us, a pattern for us to follow,"
+        },
+        {
+          "line_number": 263,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Because St. Paul and other saints set an example for us, a pattern for us to follow,"
+        },
+        {
+          "line_number": 287,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Euodia and Syntyche are two women who assisted Paul in his ministry in Philippi."
+        },
+        {
+          "line_number": 293,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "It is most likely this Clement, a disciple of Paul, who later became the bishop of"
+        },
+        {
+          "line_number": 301,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul often uses the word always in relation to prayer. Rejoicing always is a fruit of"
+        }
+      ],
+      "entity_counts": {
+        "JAMES_APOSTLE": 1,
+        "PAUL_APOSTLE": 22,
+        "PETER_APOSTLE": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 4,
+    "matched_entities": [
+      {
+        "line_number": 17,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "deacons, in his address. St. John Chrysostom says this is because it was the clergy in"
+      },
+      {
+        "line_number": 17,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "deacons, in his address. St. John Chrysostom says this is because it was the clergy in"
+      },
+      {
+        "line_number": 17,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "deacons, in his address. St. John Chrysostom says this is because it was the clergy in"
+      },
+      {
+        "line_number": 293,
+        "entity": "CLEMENT_ROME",
+        "matched_alias": "Clement",
+        "context": "It is most likely this Clement, a disciple of Paul, who later became the bishop of"
+      }
+    ],
+    "entity_counts": {
+      "CLEMENT_ROME": 1,
+      "JOHN_CHRYSOSTOM": 2,
+      "JOHN_THEOLOGIAN": 1
+    },
+    "unresolved_candidates_count": 1,
+    "unresolved_candidates": [
+      {
+        "line_number": 87,
+        "token": "JohnCli",
+        "context": "vainglory at the sight of the growing treasures of virtue\" (JohnCli). To be conceited is a"
+      }
+    ],
+    "explicit_citation_snippets": []
+  }
+}

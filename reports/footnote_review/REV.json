@@ -1,0 +1,654 @@
+{
+  "book_code": "REV",
+  "position": 76,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/REV_footnotes.md",
+  "component_status": {
+    "mechanical_clean": false,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 488,
+      "auto_fixable": 3,
+      "review_needed": 485,
+      "files_checked": 1,
+      "lines_checked": 1411,
+      "lines_fixed": 1
+    },
+    "by_category": {
+      "P2": 3,
+      "P4": 3,
+      "P6": 446,
+      "P7": 36
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "REV",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/REV_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/REV_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/REV.md",
+    "counts": {
+      "scripture_markers": 182,
+      "footnote_entries": 182,
+      "scripture_anchors": 404,
+      "valid_marker_anchors": 182,
+      "valid_note_anchors": 182
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 427,
+    "convertible_refs": 0,
+    "already_linked_refs": 427,
+    "unresolved_refs": 7,
+    "unresolved_examples": [
+      {
+        "line_number": 485,
+        "raw_text": "Nm 22-24",
+        "reason": "chapter_only_or_unsupported_range"
+      },
+      {
+        "line_number": 1499,
+        "raw_text": "Ezk 40-42",
+        "reason": "chapter_only_or_unsupported_range"
+      },
+      {
+        "line_number": 1577,
+        "raw_text": "Ex 7-11",
+        "reason": "chapter_only_or_unsupported_range"
+      },
+      {
+        "line_number": 2571,
+        "raw_text": "Ps 104-106",
+        "reason": "chapter_only_or_unsupported_range"
+      },
+      {
+        "line_number": 2923,
+        "raw_text": "Ezk 40-48",
+        "reason": "chapter_only_or_unsupported_range"
+      },
+      {
+        "line_number": 2975,
+        "raw_text": "Ezk 40-42",
+        "reason": "chapter_only_or_unsupported_range"
+      },
+      {
+        "line_number": 3003,
+        "raw_text": "Ezk 40-42",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 31,
+      "matched_entities": [
+        {
+          "line_number": 69,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Church tradition maintains St. John dwelt and was bishop in Ephesus, in an area where"
+        },
+        {
+          "line_number": 129,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "Basil",
+          "context": "Basil). This priestly ministry is to offer the world back to God in a sacrifice of praise and"
+        },
+        {
+          "line_number": 207,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "Stephen",
+          "context": "Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially"
+        },
+        {
+          "line_number": 629,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls"
+        },
+        {
+          "line_number": 629,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls"
+        },
+        {
+          "line_number": 793,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "present, and future as one whole. St. John writes, as it were, from inside the eye of an"
+        },
+        {
+          "line_number": 891,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "Church. Ambrose wrote a similar hymn, the \"Te Deum.\" The eucharistic prayer of the"
+        },
+        {
+          "line_number": 893,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "Basil",
+          "context": "Divine Liturgies of Ss. John Chrysostom, Basil, and James refers to the perpetual thriceholy hymn of the \"cherubim and the seraphim,\" thus blending the visions of Ezekiel,"
+        },
+        {
+          "line_number": 893,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Divine Liturgies of Ss. John Chrysostom, Basil, and James refers to the perpetual thriceholy hymn of the \"cherubim and the seraphim,\" thus blending the visions of Ezekiel,"
+        },
+        {
+          "line_number": 895,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Isaiah, and St. John, and underscoring that the Divine Liturgy on earth is one with the"
+        },
+        {
+          "line_number": 1421,
+          "entity": "IRENAEUS",
+          "matched_alias": "Irenaeus",
+          "context": "such as Justin Martyr and Irenaeus also connected idol worship with the worship of"
+        },
+        {
+          "line_number": 1457,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "too, St. John is told, regarding what the seven thunders have revealed. This command not"
+        },
+        {
+          "line_number": 1537,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "church fathers is that they represent Elijah and Enoch, who were believed to have"
+        },
+        {
+          "line_number": 1543,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah at the Transfiguration of Jesus. John most likely drew on the Jewish tradition that"
+        },
+        {
+          "line_number": 1545,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah would return to preach in the last days ([[MAL.3:22]]; [[MAT.4:5]]). Although Jesus"
+        },
+        {
+          "line_number": 1547,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "identified the Elijah figure with John the Baptist, many continued to believe in an actual"
+        },
+        {
+          "line_number": 1547,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "identified the Elijah figure with John the Baptist, many continued to believe in an actual"
+        },
+        {
+          "line_number": 1549,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "appearance of Elijah before the end. Sackcloth was the ancient garb of penitence (see"
+        },
+        {
+          "line_number": 1575,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "These features are reminiscent of Elijah's ministry (3Kg 17) and the plagues God"
+        },
+        {
+          "line_number": 1611,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "regarding the ascensions of Enoch, Elijah, and Moses (see, as well, the dry bones of Ezk"
+        },
+        {
+          "line_number": 1729,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "of the angel who told Joseph to run into Egypt. Likewise, Satan hates Christ and the"
+        },
+        {
+          "line_number": 1881,
+          "entity": "CLEMENT_ROME",
+          "matched_alias": "Clement",
+          "context": "sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus"
+        },
+        {
+          "line_number": 1881,
+          "entity": "IRENAEUS",
+          "matched_alias": "Irenaeus",
+          "context": "sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus"
+        },
+        {
+          "line_number": 1881,
+          "entity": "EUSEBIUS",
+          "matched_alias": "Eusebius",
+          "context": "sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus"
+        },
+        {
+          "line_number": 1951,
+          "entity": "IRENAEUS",
+          "matched_alias": "St. Irenaeus",
+          "context": "attempted to identify \"666,\" but writing only one hundred years after John, St. Irenaeus"
+        },
+        {
+          "line_number": 1951,
+          "entity": "IRENAEUS",
+          "matched_alias": "Irenaeus",
+          "context": "attempted to identify \"666,\" but writing only one hundred years after John, St. Irenaeus"
+        },
+        {
+          "line_number": 2075,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "Stephen",
+          "context": "bloodshed (the crucifixion, [[HEB.13:12]]; the martyrdom of Stephen, [[ACT.7:58]]-60) that took"
+        },
+        {
+          "line_number": 2297,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "of Megiddo\"; the nearest hill to Megiddo is Mt. Carmel, where Elijah confronted the"
+        },
+        {
+          "line_number": 2835,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "(v. 9), Jerusalem as the Church. As Elijah called down fire... out of heaven on his"
+        },
+        {
+          "line_number": 2873,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "St. Basil",
+          "context": "the Anaphora of the Liturgy of St. Basil and the hymns for the Sunday of the Last"
+        },
+        {
+          "line_number": 2873,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "Basil",
+          "context": "the Anaphora of the Liturgy of St. Basil and the hymns for the Sunday of the Last"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 1,
+        "BASIL_GREAT": 4,
+        "CLEMENT_ROME": 1,
+        "ELIJAH_PROPHET": 9,
+        "EUSEBIUS": 1,
+        "GREGORY_NYSSA": 1,
+        "IRENAEUS": 4,
+        "JOHN_CHRYSOSTOM": 2,
+        "JOHN_FORERUNNER": 1,
+        "JOHN_THEOLOGIAN": 4,
+        "JOSEPH_BETROTHED": 1,
+        "STEPHEN_PROTOMARTYR": 2
+      },
+      "unresolved_candidates_count": 6,
+      "unresolved_candidates": [
+        {
+          "line_number": 167,
+          "token": "St. Ignatius",
+          "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
+        },
+        {
+          "line_number": 403,
+          "token": "St. Polycarp",
+          "context": "actively opposed Christianity there. St. Polycarp, bishop of Smyrna, was one of the first of"
+        },
+        {
+          "line_number": 409,
+          "token": "St. Ignatius",
+          "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
+        },
+        {
+          "line_number": 591,
+          "token": "St. Justin",
+          "context": "connection proposed by St. Justin. The earliest recorded interpreter of Revelation, St."
+        },
+        {
+          "line_number": 643,
+          "token": "St. Ignatius",
+          "context": "the City of David, the New Jerusalem (see [[EPH.1:22]]). St. Ignatius calls Christ the Door to"
+        },
+        {
+          "line_number": 965,
+          "token": "St. Ignatius",
+          "context": "creatures, and the elders. St. Ignatius refers to the bishop standing at the center of his"
+        }
+      ],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 8,
+      "matched_entities": [
+        {
+          "line_number": 333,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "founded by Paul about AD 53-56, and according to tradition, both John the Apostle and"
+        },
+        {
+          "line_number": 347,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "serious problem in the early Church (see [[2CO.11:13]]-23), and Paul warned they would"
+        },
+        {
+          "line_number": 487,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "Jude 11)."
+        },
+        {
+          "line_number": 701,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "banking industry, and a famous medical school. Many Jews lived there. Paul wrote a"
+        },
+        {
+          "line_number": 893,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "Divine Liturgies of Ss. John Chrysostom, Basil, and James refers to the perpetual thriceholy hymn of the \"cherubim and the seraphim,\" thus blending the visions of Ezekiel,"
+        },
+        {
+          "line_number": 1327,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "fallen world powers (see Jude 13), a fallen angel ([[LUK.10:18]]), or Satan himself (9:11; Is"
+        },
+        {
+          "line_number": 1419,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "not cause the survivors to repent (see [[1CO.8:4]]). Paul ([[1CO.10:20]], [[1CO.10:21]]) and early fathers"
+        },
+        {
+          "line_number": 2743,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "disobedient are confined awaiting final judgment. The demons fear it (see [[LUK.8:31]]; Jude"
+        }
+      ],
+      "entity_counts": {
+        "JAMES_APOSTLE": 1,
+        "JUDE_APOSTLE": 3,
+        "PAUL_APOSTLE": 4
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 31,
+    "matched_entities": [
+      {
+        "line_number": 69,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Church tradition maintains St. John dwelt and was bishop in Ephesus, in an area where"
+      },
+      {
+        "line_number": 129,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "Basil",
+        "context": "Basil). This priestly ministry is to offer the world back to God in a sacrifice of praise and"
+      },
+      {
+        "line_number": 207,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "Stephen",
+        "context": "Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially"
+      },
+      {
+        "line_number": 629,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls"
+      },
+      {
+        "line_number": 629,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls"
+      },
+      {
+        "line_number": 793,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "present, and future as one whole. St. John writes, as it were, from inside the eye of an"
+      },
+      {
+        "line_number": 891,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "Church. Ambrose wrote a similar hymn, the \"Te Deum.\" The eucharistic prayer of the"
+      },
+      {
+        "line_number": 893,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "Basil",
+        "context": "Divine Liturgies of Ss. John Chrysostom, Basil, and James refers to the perpetual thriceholy hymn of the \"cherubim and the seraphim,\" thus blending the visions of Ezekiel,"
+      },
+      {
+        "line_number": 893,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Divine Liturgies of Ss. John Chrysostom, Basil, and James refers to the perpetual thriceholy hymn of the \"cherubim and the seraphim,\" thus blending the visions of Ezekiel,"
+      },
+      {
+        "line_number": 895,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Isaiah, and St. John, and underscoring that the Divine Liturgy on earth is one with the"
+      },
+      {
+        "line_number": 1421,
+        "entity": "IRENAEUS",
+        "matched_alias": "Irenaeus",
+        "context": "such as Justin Martyr and Irenaeus also connected idol worship with the worship of"
+      },
+      {
+        "line_number": 1457,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "too, St. John is told, regarding what the seven thunders have revealed. This command not"
+      },
+      {
+        "line_number": 1537,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "church fathers is that they represent Elijah and Enoch, who were believed to have"
+      },
+      {
+        "line_number": 1543,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah at the Transfiguration of Jesus. John most likely drew on the Jewish tradition that"
+      },
+      {
+        "line_number": 1545,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah would return to preach in the last days ([[MAL.3:22]]; [[MAT.4:5]]). Although Jesus"
+      },
+      {
+        "line_number": 1547,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "identified the Elijah figure with John the Baptist, many continued to believe in an actual"
+      },
+      {
+        "line_number": 1547,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "identified the Elijah figure with John the Baptist, many continued to believe in an actual"
+      },
+      {
+        "line_number": 1549,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "appearance of Elijah before the end. Sackcloth was the ancient garb of penitence (see"
+      },
+      {
+        "line_number": 1575,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "These features are reminiscent of Elijah's ministry (3Kg 17) and the plagues God"
+      },
+      {
+        "line_number": 1611,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "regarding the ascensions of Enoch, Elijah, and Moses (see, as well, the dry bones of Ezk"
+      },
+      {
+        "line_number": 1729,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "of the angel who told Joseph to run into Egypt. Likewise, Satan hates Christ and the"
+      },
+      {
+        "line_number": 1881,
+        "entity": "CLEMENT_ROME",
+        "matched_alias": "Clement",
+        "context": "sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus"
+      },
+      {
+        "line_number": 1881,
+        "entity": "IRENAEUS",
+        "matched_alias": "Irenaeus",
+        "context": "sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus"
+      },
+      {
+        "line_number": 1881,
+        "entity": "EUSEBIUS",
+        "matched_alias": "Eusebius",
+        "context": "sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus"
+      },
+      {
+        "line_number": 1951,
+        "entity": "IRENAEUS",
+        "matched_alias": "St. Irenaeus",
+        "context": "attempted to identify \"666,\" but writing only one hundred years after John, St. Irenaeus"
+      },
+      {
+        "line_number": 1951,
+        "entity": "IRENAEUS",
+        "matched_alias": "Irenaeus",
+        "context": "attempted to identify \"666,\" but writing only one hundred years after John, St. Irenaeus"
+      },
+      {
+        "line_number": 2075,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "Stephen",
+        "context": "bloodshed (the crucifixion, [[HEB.13:12]]; the martyrdom of Stephen, [[ACT.7:58]]-60) that took"
+      },
+      {
+        "line_number": 2297,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "of Megiddo\"; the nearest hill to Megiddo is Mt. Carmel, where Elijah confronted the"
+      },
+      {
+        "line_number": 2835,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "(v. 9), Jerusalem as the Church. As Elijah called down fire... out of heaven on his"
+      },
+      {
+        "line_number": 2873,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "St. Basil",
+        "context": "the Anaphora of the Liturgy of St. Basil and the hymns for the Sunday of the Last"
+      },
+      {
+        "line_number": 2873,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "Basil",
+        "context": "the Anaphora of the Liturgy of St. Basil and the hymns for the Sunday of the Last"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 1,
+      "BASIL_GREAT": 4,
+      "CLEMENT_ROME": 1,
+      "ELIJAH_PROPHET": 9,
+      "EUSEBIUS": 1,
+      "GREGORY_NYSSA": 1,
+      "IRENAEUS": 4,
+      "JOHN_CHRYSOSTOM": 2,
+      "JOHN_FORERUNNER": 1,
+      "JOHN_THEOLOGIAN": 4,
+      "JOSEPH_BETROTHED": 1,
+      "STEPHEN_PROTOMARTYR": 2
+    },
+    "unresolved_candidates_count": 6,
+    "unresolved_candidates": [
+      {
+        "line_number": 167,
+        "token": "St. Ignatius",
+        "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
+      },
+      {
+        "line_number": 403,
+        "token": "St. Polycarp",
+        "context": "actively opposed Christianity there. St. Polycarp, bishop of Smyrna, was one of the first of"
+      },
+      {
+        "line_number": 409,
+        "token": "St. Ignatius",
+        "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
+      },
+      {
+        "line_number": 591,
+        "token": "St. Justin",
+        "context": "connection proposed by St. Justin. The earliest recorded interpreter of Revelation, St."
+      },
+      {
+        "line_number": 643,
+        "token": "St. Ignatius",
+        "context": "the City of David, the New Jerusalem (see [[EPH.1:22]]). St. Ignatius calls Christ the Door to"
+      },
+      {
+        "line_number": 965,
+        "token": "St. Ignatius",
+        "context": "creatures, and the elders. St. Ignatius refers to the bishop standing at the center of his"
+      }
+    ],
+    "explicit_citation_snippets": []
+  }
+}

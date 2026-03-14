@@ -1,0 +1,459 @@
+{
+  "book_code": "NUM",
+  "position": 4,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/NUM_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 298,
+      "auto_fixable": 0,
+      "review_needed": 298,
+      "files_checked": 1,
+      "lines_checked": 547,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 240,
+      "P7": 58
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "NUM",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/NUM_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/NUM_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/NUM.md",
+    "counts": {
+      "scripture_markers": 71,
+      "footnote_entries": 71,
+      "scripture_anchors": 313,
+      "valid_marker_anchors": 70,
+      "valid_note_anchors": 70
+    },
+    "invalid_marker_anchors": {
+      "NUM.17:16": "invalid_verse"
+    },
+    "invalid_note_anchors": {
+      "NUM.17:16": "invalid_verse"
+    },
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "NUM.12:10",
+      "NUM.12:5",
+      "NUM.13:17",
+      "NUM.13:26",
+      "NUM.13:4",
+      "NUM.14:11",
+      "NUM.14:12",
+      "NUM.14:21",
+      "NUM.14:22",
+      "NUM.14:39",
+      "NUM.14:6",
+      "NUM.15:3",
+      "NUM.16:3",
+      "NUM.17:6",
+      "NUM.19:9",
+      "NUM.1:47",
+      "NUM.1:50",
+      "NUM.1:53",
+      "NUM.20:16",
+      "NUM.20:28",
+      "NUM.22:22",
+      "NUM.23:10",
+      "NUM.23:7",
+      "NUM.24:17",
+      "NUM.24:2",
+      "NUM.24:7",
+      "NUM.24:9",
+      "NUM.25:7",
+      "NUM.26:64",
+      "NUM.27:12",
+      "NUM.27:14",
+      "NUM.27:16",
+      "NUM.27:17",
+      "NUM.2:2",
+      "NUM.2:3",
+      "NUM.34:22",
+      "NUM.3:6",
+      "NUM.4:5",
+      "NUM.4:7",
+      "NUM.5:2",
+      "NUM.5:7",
+      "NUM.6:2"
+    ],
+    "note_anchor_gaps": [
+      "NUM.12:10",
+      "NUM.12:5",
+      "NUM.13:17",
+      "NUM.13:26",
+      "NUM.13:4",
+      "NUM.14:11",
+      "NUM.14:12",
+      "NUM.14:21",
+      "NUM.14:22",
+      "NUM.14:39",
+      "NUM.14:6",
+      "NUM.15:3",
+      "NUM.16:3",
+      "NUM.17:6",
+      "NUM.19:9",
+      "NUM.1:47",
+      "NUM.1:50",
+      "NUM.1:53",
+      "NUM.20:16",
+      "NUM.20:28",
+      "NUM.22:22",
+      "NUM.23:10",
+      "NUM.23:7",
+      "NUM.24:17",
+      "NUM.24:2",
+      "NUM.24:7",
+      "NUM.24:9",
+      "NUM.25:7",
+      "NUM.26:64",
+      "NUM.27:12",
+      "NUM.27:14",
+      "NUM.27:16",
+      "NUM.27:17",
+      "NUM.2:2",
+      "NUM.2:3",
+      "NUM.34:22",
+      "NUM.3:6",
+      "NUM.4:5",
+      "NUM.4:7",
+      "NUM.5:2",
+      "NUM.5:7",
+      "NUM.6:2"
+    ],
+    "issue_count": 86
+  },
+  "wikilinks": {
+    "total_refs": 120,
+    "convertible_refs": 0,
+    "already_linked_refs": 120,
+    "unresolved_refs": 2,
+    "unresolved_examples": [
+      {
+        "line_number": 346,
+        "raw_text": "Psalms 120-133",
+        "reason": "chapter_only_or_unsupported_range"
+      },
+      {
+        "line_number": 1015,
+        "raw_text": "Gn 1-11",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 8,
+      "matched_entities": [
+        {
+          "line_number": 170,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "heavenly King, the Father (JohnChr). This also demonstrated it was the Son of God, the"
+        },
+        {
+          "line_number": 811,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgTheo",
+          "context": "lifted up on high on a pole\" (GrgTheo)."
+        },
+        {
+          "line_number": 861,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "righteousness in baptism. (AmbM)"
+        },
+        {
+          "line_number": 912,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "JohnCas",
+          "context": "when desires control the soul, it easily falls into fornication and idolatry (JohnCas)."
+        },
+        {
+          "line_number": 927,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "through by the zealous Phinehas\" (GrgNy)."
+        },
+        {
+          "line_number": 975,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "from his true inheritance. In spite of his sin, he was the most humble man on the earth, and humility is \"the beginning and the end of salvation\" (JohnChr)."
+        },
+        {
+          "line_number": 1056,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "for us\" (AthanG)."
+        },
+        {
+          "line_number": 1179,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "the other hand, those who show this love to their teacher also learn to love others as well. Humility, love, and gentleness are engendered on both sides (JohnChr)."
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 1,
+        "ATHANASIUS": 1,
+        "GREGORY_NYSSA": 1,
+        "GREGORY_THEOLOGIAN": 1,
+        "JOHN_CASSIAN": 1,
+        "JOHN_CHRYSOSTOM": 3
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 170,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 811,
+          "snippet": "GrgTheo"
+        },
+        {
+          "line_number": 861,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 912,
+          "snippet": "JohnCas"
+        },
+        {
+          "line_number": 927,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 975,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1056,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1179,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 8,
+      "matched_entities": [
+        {
+          "line_number": 158,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "males were required to pay this tax in their hometowns. Jesus' hometown in His adulthood was Capernaum. So on one occasion in Capernaum, Peter was asked if his teacher paid this tax ([[MAT.17:24]]-27). Peter replied, \"Yes.\" However, Jesus h"
+        },
+        {
+          "line_number": 162,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "their sons. Nevertheless, to avoid offense, Jesus told Peter to catch a fish, and it would"
+        },
+        {
+          "line_number": 164,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "have money in its mouth to pay the tax--not only for Himself, but also for Peter. For"
+        },
+        {
+          "line_number": 166,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter, too, was a firstborn son. So this tax payment from the mouth of the fish"
+        },
+        {
+          "line_number": 621,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": ", 2 Korah rose up before Moses. Scripture calls this \"the rebellion of Korah\" (Jude"
+        },
+        {
+          "line_number": 1076,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "love then led him to worship Baal and to commit fornication. As St. Paul said, \"The love of"
+        },
+        {
+          "line_number": 1076,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "love then led him to worship Baal and to commit fornication. As St. Paul said, \"The love of"
+        },
+        {
+          "line_number": 1082,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "in the error of Balaam for profit\" (Jude 11). \"They have forsaken the right way and gone"
+        }
+      ],
+      "entity_counts": {
+        "JUDE_APOSTLE": 2,
+        "PAUL_APOSTLE": 2,
+        "PETER_APOSTLE": 4
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 3,
+      "matched_entities": [
+        {
+          "line_number": 354,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "the dead and the life of the world to come\" (Creed)."
+        },
+        {
+          "line_number": 850,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "the prophet Balaam (\"the Holy Spirit... who spoke by the prophets\"--Creed). Therefore, the Holy Trinity is revealed in vv. 5 and 7, for where One of the Persons is present, present also are the other Two."
+        },
+        {
+          "line_number": 966,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "and the life of the world to come\" (Creed; see [[HEB.11:26]]). He waited eagerly to possess"
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 3
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 354,
+          "snippet": "Creed"
+        }
+      ]
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 8,
+    "matched_entities": [
+      {
+        "line_number": 170,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "heavenly King, the Father (JohnChr). This also demonstrated it was the Son of God, the"
+      },
+      {
+        "line_number": 811,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgTheo",
+        "context": "lifted up on high on a pole\" (GrgTheo)."
+      },
+      {
+        "line_number": 861,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "righteousness in baptism. (AmbM)"
+      },
+      {
+        "line_number": 912,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "JohnCas",
+        "context": "when desires control the soul, it easily falls into fornication and idolatry (JohnCas)."
+      },
+      {
+        "line_number": 927,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "through by the zealous Phinehas\" (GrgNy)."
+      },
+      {
+        "line_number": 975,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "from his true inheritance. In spite of his sin, he was the most humble man on the earth, and humility is \"the beginning and the end of salvation\" (JohnChr)."
+      },
+      {
+        "line_number": 1056,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "for us\" (AthanG)."
+      },
+      {
+        "line_number": 1179,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "the other hand, those who show this love to their teacher also learn to love others as well. Humility, love, and gentleness are engendered on both sides (JohnChr)."
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 1,
+      "ATHANASIUS": 1,
+      "GREGORY_NYSSA": 1,
+      "GREGORY_THEOLOGIAN": 1,
+      "JOHN_CASSIAN": 1,
+      "JOHN_CHRYSOSTOM": 3
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 170,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 811,
+        "snippet": "GrgTheo"
+      },
+      {
+        "line_number": 861,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 912,
+        "snippet": "JohnCas"
+      },
+      {
+        "line_number": 927,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 975,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1056,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1179,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

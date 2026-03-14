@@ -117,25 +117,30 @@ constant detractors throughout the rebuilding of the wall. According to an ancie
 
 papyrus, Sanballat later became governor of Samaria. 2:11-16
 
-Jesus warned His servants to be "wise as serpents and harmless as doves" (Mt
-
+Jesus warned His servants to be "wise as serpents and harmless as doves" ([[MAT.10:16]]).
 
 ### 10:16
 *(anchor: NEH.10:16)*
 
-). Being a man of wisdom, Nehemiah secretly inspects the wall of Jerusalem by
+Being a man of wisdom, Nehemiah secretly inspects the wall of Jerusalem by
 
-night (v. 13). Not even the sentries knew what he was up to (v. 16). 2:17-18 I said to them: With the survey completed and the mission now clear, Nehemiah
+night (v. 13). Not even the sentries knew what he was up to (v. 16).
+
+2:17-18 I said to them: With the survey completed and the mission now clear, Nehemiah
 
 calls together the officials of Jerusalem and the workers (v. 16). Here he moves from
 
-mediator (2:5) to motivator: Let us rise up and let us build (v. 18). 2:19-20 Whenever God's will is being carried out, expect the critics to step forward. Jesus
+mediator (2:5) to motivator: Let us rise up and let us build (v. 18).
+
+2:19-20 Whenever God's will is being carried out, expect the critics to step forward. Jesus
 
 had the scribes and Pharisees, St. Paul had Demas and Alexander the coppersmith (2Ti
 
 4:9-15), and Nehemiah had Sanballat, Tobiah, and Geshem, who laughed at the
 
-project. The prophet, not arguing, said, "God... will... prosper us" (see [[EXO.14:14]]; [[1TH.5:24]]). 3:1-32 The work to rebuild Jerusalem and restore Israel within the land God promised to
+project. The prophet, not arguing, said, "God... will... prosper us" (see [[EXO.14:14]]; [[1TH.5:24]]).
+
+3:1-32 The work to rebuild Jerusalem and restore Israel within the land God promised to
 
 their ancestors begins at once. The laborers are a veritable "Who's Who" of Jerusalem and
 
@@ -161,23 +166,33 @@ Nehemiah's response to those openly opposed to God's will is not anger but praye
 
 Not only verbal ridicule, but here also armed conspiracy becomes a tool of those
 
-opposed to God. 4:7-8 A wonderful picture of synergy--working together with God. Nehemiah strategically
+opposed to God.
+
+4:7-8 A wonderful picture of synergy--working together with God. Nehemiah strategically
 
 positioned men to fight, while promising the people that God will fight for them. 4:10
 
 Judah is the people in general. Note how half played offense, doing the work, and
 
-half played defense, protecting the project. 4:13-15 As with these workers, we often need to endure sacrifice and discomfort not only
+half played defense, protecting the project.
+
+4:13-15 As with these workers, we often need to endure sacrifice and discomfort not only
 
 to complete God's work but also to sustain over time the project God gives us to do
 
-(12:27, 28). 5:1-5 The great outcry was over grain shortages (vv. 2, 3), having to borrow money to
+(12:27, 28).
 
-pay the king's tax (v. 4), and having to sell children into slavery (v. 5). 5:7-11 After serious thought shows yet another facet of Nehemiah's brilliant leadership. Not acting impulsively, he prays, plans, and thinks things through before issuing his
+5:1-5 The great outcry was over grain shortages (vv. 2, 3), having to borrow money to
+
+pay the king's tax (v. 4), and having to sell children into slavery (v. 5).
+
+5:7-11 After serious thought shows yet another facet of Nehemiah's brilliant leadership. Not acting impulsively, he prays, plans, and thinks things through before issuing his
 
 rebuke. Usury, the charging of interest, is permitted, but not when both parties are Jews
 
-(Ex 22-25; Lv 25:35-38). This rebuke, including the touchy issue of slavery (v. 8), worked. The nobles and rulers were speechless. 5:14-15 Typically the governor lived at taxpayer expense, but not Nehemiah. Because of
+(Ex 22-25; Lv 25:35-38). This rebuke, including the touchy issue of slavery (v. 8), worked. The nobles and rulers were speechless.
+
+5:14-15 Typically the governor lived at taxpayer expense, but not Nehemiah. Because of
 
 the fear of God he provided for himself, as did St. Paul hundreds of years later ([[1CO.9:1]]-
 
@@ -195,13 +210,22 @@ rebuilding of Jerusalem. 6:5
 
 Having previously failed to thwart him, Sanballat delivers an open letter to
 
-Jerusalem to discredit Nehemiah and through rumor bring dissension among the faithful. 6:7 The king who would get this report is the King of Persia, Artaxerxes (2:1). 6:9
+Jerusalem to discredit Nehemiah and through rumor bring dissension among the faithful.
+
+6:7 The king who would get this report is the King of Persia, Artaxerxes (2:1).
+
+6:9
 
 With great leaders, the more people say the job will not be done, the greater the
 
 leaders' resolve becomes. With God's help, Nehemiah's hands only get stronger! 6:10-12 Shemaiah, an apparent prophet whom Tobiah and Sanballat had hired (v. 12), was revealed as a false prophet, for his words were in disobedience to God. The reference
+leaders' resolve becomes. With God's help, Nehemiah's hands only get stronger!
 
-to Noadiah (v. 14) indicates others had been hired as well. 6:15-16 The enemies lost out and God's will prevailed as the wall was finished in just
+6:10-12 Shemaiah, an apparent prophet whom Tobiah and Sanballat had hired (v. 12), was revealed as a false prophet, for his words were in disobedience to God. The reference
+
+to Noadiah (v. 14) indicates others had been hired as well.
+
+6:15-16 The enemies lost out and God's will prevailed as the wall was finished in just
 
 fifty-two days--less than two months! Disheartened, even Sanballat and Tobiah were
 
@@ -213,7 +237,9 @@ With the wall rebuilt, Nehemiah, as governor, appoints his brother Hanani, who
 
 feared God, as ruler of Jerusalem. Hananiah became the leader of the citadel (or
 
-fortress). This helped ensure the safety and well-being of Jerusalem. 7:6-73 This list of names confirms the remnant Jews who, due to their faithfulness to God
+fortress). This helped ensure the safety and well-being of Jerusalem.
+
+7:6-73 This list of names confirms the remnant Jews who, due to their faithfulness to God
 
 and steadfast obedience to the Mosaic Law, were allowed to return to Jerusalem. 8:1
 
@@ -243,13 +269,19 @@ understand the Scriptures and in building them up in the knowledge of the Lord. 
 
 True feasting includes caring for the poor (see [[EST.9:21]]), those for whom nothing
 
-is prepared. 8:14-17 Living in booths is a reminder that the faithful are but sojourners in this world, moving toward a true home in God's kingdom (see Lv 34-42). 8:18
+is prepared.
+
+8:14-17 Living in booths is a reminder that the faithful are but sojourners in this world, moving toward a true home in God's kingdom (see Lv 34-42).
+
+8:18
 
 The assembly on the eighth day points us to the Kingdom of heaven. In the
 
 Church, the seven-day week reflects God's creation and work in this world, while the
 
-eighth day is the day without end, the day beyond this world when all is fulfilled. 9:1-3 Having heard the word of God, the faithful are convicted of their sins and moved to
+eighth day is the day without end, the day beyond this world when all is fulfilled.
+
+9:1-3 Having heard the word of God, the faithful are convicted of their sins and moved to
 
 repentance, fasting, confession, and prayer. Note they confessed not privately, but in
 

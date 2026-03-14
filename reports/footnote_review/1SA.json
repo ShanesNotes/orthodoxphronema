@@ -1,0 +1,615 @@
+{
+  "book_code": "1SA",
+  "position": 9,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/1SA_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 55,
+      "auto_fixable": 0,
+      "review_needed": 55,
+      "files_checked": 1,
+      "lines_checked": 320,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 47,
+      "P7": 8
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "1SA",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/1SA_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/1SA_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/1SA.md",
+    "counts": {
+      "scripture_markers": 81,
+      "footnote_entries": 81,
+      "scripture_anchors": 320,
+      "valid_marker_anchors": 81,
+      "valid_note_anchors": 81
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "1SA.13:13",
+      "1SA.15:11",
+      "1SA.17:4",
+      "1SA.18:6",
+      "1SA.1:11",
+      "1SA.1:13",
+      "1SA.1:16",
+      "1SA.1:20",
+      "1SA.1:22",
+      "1SA.1:28",
+      "1SA.1:3",
+      "1SA.21:12",
+      "1SA.22:20",
+      "1SA.23:9",
+      "1SA.24:7",
+      "1SA.25:22",
+      "1SA.25:3",
+      "1SA.27:8",
+      "1SA.28:7",
+      "1SA.2:27",
+      "1SA.2:3",
+      "1SA.2:35",
+      "1SA.2:5",
+      "1SA.2:6",
+      "1SA.2:9",
+      "1SA.30:7",
+      "1SA.31:4",
+      "1SA.3:13",
+      "1SA.4:3",
+      "1SA.4:7",
+      "1SA.5:2",
+      "1SA.5:4",
+      "1SA.6:14",
+      "1SA.7:3",
+      "1SA.7:8",
+      "1SA.8:7",
+      "1SA.8:9"
+    ],
+    "note_anchor_gaps": [
+      "1SA.13:13",
+      "1SA.15:11",
+      "1SA.17:4",
+      "1SA.18:6",
+      "1SA.1:11",
+      "1SA.1:13",
+      "1SA.1:16",
+      "1SA.1:20",
+      "1SA.1:22",
+      "1SA.1:28",
+      "1SA.1:3",
+      "1SA.21:12",
+      "1SA.22:20",
+      "1SA.23:9",
+      "1SA.24:7",
+      "1SA.25:22",
+      "1SA.25:3",
+      "1SA.27:8",
+      "1SA.28:7",
+      "1SA.2:27",
+      "1SA.2:3",
+      "1SA.2:35",
+      "1SA.2:5",
+      "1SA.2:6",
+      "1SA.2:9",
+      "1SA.30:7",
+      "1SA.31:4",
+      "1SA.3:13",
+      "1SA.4:3",
+      "1SA.4:7",
+      "1SA.5:2",
+      "1SA.5:4",
+      "1SA.6:14",
+      "1SA.7:3",
+      "1SA.7:8",
+      "1SA.8:7",
+      "1SA.8:9"
+    ],
+    "issue_count": 74
+  },
+  "wikilinks": {
+    "total_refs": 6,
+    "convertible_refs": 0,
+    "already_linked_refs": 6,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 33,
+      "matched_entities": [
+        {
+          "line_number": 59,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "birth--for Samson, Samuel, and probably John the Baptist ([[LUK.1:13]]-15)."
+        },
+        {
+          "line_number": 64,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "St. Cyprian",
+          "context": "St. Cyprian sees the praying Hannah as a type of the Church pouring her heart out in"
+        },
+        {
+          "line_number": 64,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "St. Cyprian sees the praying Hannah as a type of the Church pouring her heart out in"
+        },
+        {
+          "line_number": 100,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "St. Cyprian",
+          "context": "Hannah is a type of Mary, as Samuel is a type of Christ, because as St. Cyprian states, \"Samuel [was born] not according to the order of generation, but according to the mercy"
+        },
+        {
+          "line_number": 100,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "Hannah is a type of Mary, as Samuel is a type of Christ, because as St. Cyprian states, \"Samuel [was born] not according to the order of generation, but according to the mercy"
+        },
+        {
+          "line_number": 128,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "We must boast in nothing, since nothing is our own (Cyprian)."
+        },
+        {
+          "line_number": 135,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "St. Augustine",
+          "context": "once full and satisfied are now beginning to be emptied. St. Augustine sees this whole"
+        },
+        {
+          "line_number": 135,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "once full and satisfied are now beginning to be emptied. St. Augustine sees this whole"
+        },
+        {
+          "line_number": 144,
+          "entity": "APHRAHAT",
+          "matched_alias": "Aphrahat",
+          "context": "descent into Hades and His Resurrection. Aphrahat uses this passage among many to"
+        },
+        {
+          "line_number": 449,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "Hilary of Poitiers",
+          "context": "Hilary of Poitiers sees David's commendation by God as a man after His own"
+        },
+        {
+          "line_number": 449,
+          "entity": "HILARY_POITIERS",
+          "matched_alias": "Hilary",
+          "context": "Hilary of Poitiers sees David's commendation by God as a man after His own"
+        },
+        {
+          "line_number": 464,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "than as a self-incriminating repentance of wrongdoing. Augustine clarifies this even"
+        },
+        {
+          "line_number": 475,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "John Cassian",
+          "context": "John Cassian uses this example of Saul's undoing to promote the need for"
+        },
+        {
+          "line_number": 475,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "Cassian",
+          "context": "John Cassian uses this example of Saul's undoing to promote the need for"
+        },
+        {
+          "line_number": 479,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "Gregory the Great",
+          "context": "protects against all manner of evil and undoing. Gregory the Great also uses this example"
+        },
+        {
+          "line_number": 486,
+          "entity": "IRENAEUS",
+          "matched_alias": "Irenaeus",
+          "context": "Irenaeus points out that God did not command sacrifices for His own benefit, but"
+        },
+        {
+          "line_number": 495,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "St. Augustine",
+          "context": "David after David's sin. St. Augustine notes that mere outward confession of sin is not"
+        },
+        {
+          "line_number": 495,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "David after David's sin. St. Augustine notes that mere outward confession of sin is not"
+        },
+        {
+          "line_number": 504,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "John Cassian",
+          "context": "Jerome and John Cassian both note that godly men have wept over the sins of"
+        },
+        {
+          "line_number": 504,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "Cassian",
+          "context": "Jerome and John Cassian both note that godly men have wept over the sins of"
+        },
+        {
+          "line_number": 504,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "Jerome and John Cassian both note that godly men have wept over the sins of"
+        },
+        {
+          "line_number": 506,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "others. Jerome states, \"Good men have always sorrowed for the sins of others. Samuel of"
+        },
+        {
+          "line_number": 515,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "According to Cyprian, God's judgment will not be merely of outward appearances, but"
+        },
+        {
+          "line_number": 632,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "Gregory the Great",
+          "context": "In praising David's attitude of a servant, Gregory the Great notes he was more"
+        },
+        {
+          "line_number": 650,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "John Cassian",
+          "context": "John Cassian takes this story of David as an example of how compassion can"
+        },
+        {
+          "line_number": 650,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "Cassian",
+          "context": "John Cassian takes this story of David as an example of how compassion can"
+        },
+        {
+          "line_number": 688,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "This passage created great controversy among the Fathers of the Church. In fact, at least three distinct interpretations can be found. 1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and"
+        },
+        {
+          "line_number": 690,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "Augustine). 2. Whether it was Samuel or a demon, it appeared at God's bidding and not by some"
+        },
+        {
+          "line_number": 692,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "Basil",
+          "context": "magic of the woman (Chrysostom, Theodoret). 3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian, Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of"
+        },
+        {
+          "line_number": 692,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "magic of the woman (Chrysostom, Theodoret). 3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian, Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of"
+        },
+        {
+          "line_number": 692,
+          "entity": "HIPPOLYTUS_ROME",
+          "matched_alias": "Hippolytus",
+          "context": "magic of the woman (Chrysostom, Theodoret). 3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian, Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of"
+        },
+        {
+          "line_number": 692,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "magic of the woman (Chrysostom, Theodoret). 3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian, Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of"
+        },
+        {
+          "line_number": 696,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "Gregory of Nyssa",
+          "context": "Gregory of Nyssa wrote a specific treatise on the subject. He defends this view by citing"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 1,
+        "APHRAHAT": 1,
+        "AUGUSTINE_HIPPO": 6,
+        "BASIL_GREAT": 1,
+        "CYPRIAN_CARTHAGE": 6,
+        "GREGORY_GREAT": 2,
+        "GREGORY_NYSSA": 1,
+        "HILARY_POITIERS": 2,
+        "HIPPOLYTUS_ROME": 1,
+        "IRENAEUS": 1,
+        "JEROME": 3,
+        "JOHN_CASSIAN": 6,
+        "JOHN_CHRYSOSTOM": 1,
+        "JOHN_FORERUNNER": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 128,
+          "snippet": "Cyprian"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 33,
+    "matched_entities": [
+      {
+        "line_number": 59,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "birth--for Samson, Samuel, and probably John the Baptist ([[LUK.1:13]]-15)."
+      },
+      {
+        "line_number": 64,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "St. Cyprian",
+        "context": "St. Cyprian sees the praying Hannah as a type of the Church pouring her heart out in"
+      },
+      {
+        "line_number": 64,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "St. Cyprian sees the praying Hannah as a type of the Church pouring her heart out in"
+      },
+      {
+        "line_number": 100,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "St. Cyprian",
+        "context": "Hannah is a type of Mary, as Samuel is a type of Christ, because as St. Cyprian states, \"Samuel [was born] not according to the order of generation, but according to the mercy"
+      },
+      {
+        "line_number": 100,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "Hannah is a type of Mary, as Samuel is a type of Christ, because as St. Cyprian states, \"Samuel [was born] not according to the order of generation, but according to the mercy"
+      },
+      {
+        "line_number": 128,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "We must boast in nothing, since nothing is our own (Cyprian)."
+      },
+      {
+        "line_number": 135,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "St. Augustine",
+        "context": "once full and satisfied are now beginning to be emptied. St. Augustine sees this whole"
+      },
+      {
+        "line_number": 135,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "once full and satisfied are now beginning to be emptied. St. Augustine sees this whole"
+      },
+      {
+        "line_number": 144,
+        "entity": "APHRAHAT",
+        "matched_alias": "Aphrahat",
+        "context": "descent into Hades and His Resurrection. Aphrahat uses this passage among many to"
+      },
+      {
+        "line_number": 449,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "Hilary of Poitiers",
+        "context": "Hilary of Poitiers sees David's commendation by God as a man after His own"
+      },
+      {
+        "line_number": 449,
+        "entity": "HILARY_POITIERS",
+        "matched_alias": "Hilary",
+        "context": "Hilary of Poitiers sees David's commendation by God as a man after His own"
+      },
+      {
+        "line_number": 464,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "than as a self-incriminating repentance of wrongdoing. Augustine clarifies this even"
+      },
+      {
+        "line_number": 475,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "John Cassian",
+        "context": "John Cassian uses this example of Saul's undoing to promote the need for"
+      },
+      {
+        "line_number": 475,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "Cassian",
+        "context": "John Cassian uses this example of Saul's undoing to promote the need for"
+      },
+      {
+        "line_number": 479,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "Gregory the Great",
+        "context": "protects against all manner of evil and undoing. Gregory the Great also uses this example"
+      },
+      {
+        "line_number": 486,
+        "entity": "IRENAEUS",
+        "matched_alias": "Irenaeus",
+        "context": "Irenaeus points out that God did not command sacrifices for His own benefit, but"
+      },
+      {
+        "line_number": 495,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "St. Augustine",
+        "context": "David after David's sin. St. Augustine notes that mere outward confession of sin is not"
+      },
+      {
+        "line_number": 495,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "David after David's sin. St. Augustine notes that mere outward confession of sin is not"
+      },
+      {
+        "line_number": 504,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "John Cassian",
+        "context": "Jerome and John Cassian both note that godly men have wept over the sins of"
+      },
+      {
+        "line_number": 504,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "Cassian",
+        "context": "Jerome and John Cassian both note that godly men have wept over the sins of"
+      },
+      {
+        "line_number": 504,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "Jerome and John Cassian both note that godly men have wept over the sins of"
+      },
+      {
+        "line_number": 506,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "others. Jerome states, \"Good men have always sorrowed for the sins of others. Samuel of"
+      },
+      {
+        "line_number": 515,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "According to Cyprian, God's judgment will not be merely of outward appearances, but"
+      },
+      {
+        "line_number": 632,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "Gregory the Great",
+        "context": "In praising David's attitude of a servant, Gregory the Great notes he was more"
+      },
+      {
+        "line_number": 650,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "John Cassian",
+        "context": "John Cassian takes this story of David as an example of how compassion can"
+      },
+      {
+        "line_number": 650,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "Cassian",
+        "context": "John Cassian takes this story of David as an example of how compassion can"
+      },
+      {
+        "line_number": 688,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "This passage created great controversy among the Fathers of the Church. In fact, at least three distinct interpretations can be found. 1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and"
+      },
+      {
+        "line_number": 690,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "Augustine). 2. Whether it was Samuel or a demon, it appeared at God's bidding and not by some"
+      },
+      {
+        "line_number": 692,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "Basil",
+        "context": "magic of the woman (Chrysostom, Theodoret). 3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian, Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of"
+      },
+      {
+        "line_number": 692,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "magic of the woman (Chrysostom, Theodoret). 3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian, Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of"
+      },
+      {
+        "line_number": 692,
+        "entity": "HIPPOLYTUS_ROME",
+        "matched_alias": "Hippolytus",
+        "context": "magic of the woman (Chrysostom, Theodoret). 3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian, Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of"
+      },
+      {
+        "line_number": 692,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "magic of the woman (Chrysostom, Theodoret). 3. The entity was a demon who deceived Saul and gave him a false prophecy (Tertullian, Hippolytus, Ephrem the Syrian, Evagrius, Basil, Jerome, Ambrosiaster, & Gregory of"
+      },
+      {
+        "line_number": 696,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "Gregory of Nyssa",
+        "context": "Gregory of Nyssa wrote a specific treatise on the subject. He defends this view by citing"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 1,
+      "APHRAHAT": 1,
+      "AUGUSTINE_HIPPO": 6,
+      "BASIL_GREAT": 1,
+      "CYPRIAN_CARTHAGE": 6,
+      "GREGORY_GREAT": 2,
+      "GREGORY_NYSSA": 1,
+      "HILARY_POITIERS": 2,
+      "HIPPOLYTUS_ROME": 1,
+      "IRENAEUS": 1,
+      "JEROME": 3,
+      "JOHN_CASSIAN": 6,
+      "JOHN_CHRYSOSTOM": 1,
+      "JOHN_FORERUNNER": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 128,
+        "snippet": "Cyprian"
+      }
+    ]
+  }
+}

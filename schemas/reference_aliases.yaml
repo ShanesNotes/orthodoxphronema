@@ -1,4 +1,4 @@
-version: 1
+version: 2
 biblical:
   - canonical: GEN
     aliases: [Gen, Gn, Genesis]
@@ -154,7 +154,7 @@ biblical:
     aliases: [Rev, Revelation, Apoc]
 patristic_future:
   - canonical: ATHANASIUS
-    aliases: [Ath, Athan, Athanasius, St. Athanasius]
+    aliases: [Ath, Athan, Athanasius, AthanG, St. Athanasius, St. Athanasius the Great]
     context_hint: "usually followed by PG column or NPNF reference"
   - canonical: BASIL_GREAT
     aliases: [Basil, BasilG, St. Basil, St. Basil the Great]
@@ -162,3 +162,122 @@ patristic_future:
   - canonical: JOHN_CHRYSOSTOM
     aliases: [JohnChr, Chrysostom, St. John Chrysostom]
     context_hint: "often appears in OSB footnote father lists"
+  - canonical: JOHN_DAMASCENE
+    aliases: [JohnDm, John Damascene, St. John Damascene]
+    context_hint: "often appears in abbreviated doctrinal citations"
+  - canonical: JOHN_THEOLOGIAN
+    aliases: [St. John, John the Theologian, St. John the Theologian, John Evangelist, St. John the Evangelist]
+    context_hint: "often appears in Gospel and Apocalypse author references"
+  - canonical: JOHN_CASSIAN
+    aliases: [JohnCas, John Cassian, Cassian, St. John Cassian]
+    context_hint: "often appears in ascetical and monastic references"
+  - canonical: CLEMENT_ROME
+    aliases: [Clement, St. Clement, Clement of Rome, St. Clement of Rome]
+    context_hint: "often appears in early ecclesial and liturgical citation prose"
+  - canonical: CLEMENT_ALEXANDRIA
+    aliases: [ClemA, Clement of Alexandria, St. Clement of Alexandria]
+    context_hint: "often appears in moral and catechetical patristic citations"
+  - canonical: HIPPOLYTUS_ROME
+    aliases: [Hippolytus, St. Hippolytus, Hippolytus of Rome, St. Hippolytus of Rome]
+    context_hint: "often appears in early doctrinal and exegetical commentary citations"
+  - canonical: IRENAEUS
+    aliases: [Iren, Irenaeus, St. Irenaeus]
+    context_hint: "often appears in typological and anti-heretical citations"
+  - canonical: GREGORY_THEOLOGIAN
+    aliases: [GrgTheo, GrgNa, Gregory Theologian, St. Gregory the Theologian, Gregory Nazianzen]
+    context_hint: "often appears in theological or festal citations"
+  - canonical: GREGORY_NYSSA
+    aliases: [GrgNy, Gregory Nyssa, Gregory of Nyssa, St. Gregory of Nyssa]
+    context_hint: "often appears beside other Cappadocian fathers"
+  - canonical: METHODIUS
+    aliases: [Meth, Methodius, St. Methodius]
+    context_hint: "often appears in abbreviated OSB father citations"
+  - canonical: EUSEBIUS
+    aliases: [Eusb, Eusebius]
+    context_hint: "often appears in historical citations"
+  - canonical: CYPRIAN_CARTHAGE
+    aliases: [Cyprian, St. Cyprian, Cyprian of Carthage]
+    context_hint: "often appears in ecclesial and sacramental citations"
+  - canonical: AUGUSTINE_HIPPO
+    aliases: [Augustine, St. Augustine, Augustine of Hippo, St. Augustine of Hippo]
+    context_hint: "often appears in doctrinal, ecclesial, and typological commentary citations"
+  - canonical: JEROME
+    aliases: [Jerome, St. Jerome, Jerome of Stridon, St. Jerome of Stridon]
+    context_hint: "often appears in biblical commentary and textual-note citations"
+  - canonical: AMBROSE_MILAN
+    aliases: [AmbM, Ambrose, St. Ambrose, Ambrose of Milan, St. Ambrose of Milan]
+    context_hint: "often appears in abbreviated OSB patristic citations"
+  - canonical: HILARY_POITIERS
+    aliases: [HilryP, Hilary, St. Hilary, Hilary of Poitiers, St. Hilary of Poitiers]
+    context_hint: "often appears in Trinitarian and typological citations"
+  - canonical: EPHRAIM_SYRIAN
+    aliases: [EphS, Ephraim, St. Ephraim, St. Ephraim the Syrian, Ephraim the Syrian]
+    context_hint: "often appears in Syriac and hymnographic commentary citations"
+  - canonical: APHRAHAT
+    aliases: [AphP, Aphrahat, Aphrahat the Persian, Persian Sage]
+    context_hint: "often appears in Syriac patristic citation abbreviations"
+  - canonical: CYRIL_JERUSALEM
+    aliases: [CyrJer, Cyril Jerusalem, Cyril of Jerusalem, St. Cyril, St. Cyril of Jerusalem]
+    context_hint: "often appears in catechetical and sacramental citations"
+  - canonical: ISAAC_SYRIAN
+    aliases: [IsaacS, Isaac the Syrian, St. Isaac the Syrian, Isaac of Syria]
+    context_hint: "often appears in ascetical and contemplative citations"
+  - canonical: MAXIMUS_CONFESSOR
+    aliases: [MaxCon, Maximus, Maximus the Confessor, St. Maximus the Confessor]
+    context_hint: "often appears in ascetical and theological citations"
+  - canonical: ANTONY_GREAT
+    aliases: [AntEg, Antony, Anthony the Great, St. Antony the Great, St. Anthony the Great]
+    context_hint: "often appears in desert-father and ascetical citations"
+  - canonical: ELIJAH_PROPHET
+    aliases: [Elijah, Elias, St. Elijah, St. Elias, Prophet Elijah, Prophet Elias]
+    context_hint: "prophet/source attribution in typological and liturgical note prose"
+  - canonical: JOHN_FORERUNNER
+    aliases: [St. John the Forerunner, John the Forerunner, St. John Baptist, John the Baptist]
+    context_hint: "saint/source attribution in typological note prose"
+  - canonical: GREGORY_SINAI
+    aliases: [GrgSinai, Gregory of Sinai, St. Gregory of Sinai]
+    context_hint: "hesychast and contemplative commentary citations"
+  - canonical: GREGORY_GREAT
+    aliases: [GrgGt, Gregory the Great, St. Gregory the Great, Gregory Dialogist, St. Gregory the Dialogist]
+    context_hint: "often appears in moral and pastoral commentary citations"
+  - canonical: GREGORY_PALAMAS
+    aliases: [GrgPal, Gregory Palamas, Gregory of Palamas, St. Gregory Palamas, St. Gregory of Palamas]
+    context_hint: "often appears in Marian, hesychast, and theological commentary citations"
+  - canonical: STEPHEN_PROTOMARTYR
+    aliases: [Stephen, St. Stephen, Protomartyr Stephen, St. Stephen the Protomartyr]
+    context_hint: "often appears in martyrdom and Acts-related commentary citations"
+  - canonical: JOSEPH_BETROTHED
+    aliases: [Joseph, St. Joseph, Righteous Joseph, St. Joseph the Betrothed]
+    context_hint: "often appears in Nativity and infancy narrative commentary citations"
+  - canonical: VINCENT_LERINS
+    aliases: [VincLer, Vincent of Lerins, St. Vincent of Lerins]
+    context_hint: "often appears in doctrinal continuity and tradition citations"
+  - canonical: PHOTINI_SAMARITAN
+    aliases: [St. Photini, Photini, Photini the Samaritan Woman, St. Photini the Samaritan]
+    context_hint: "often appears in Gospel commentary and saint-identification prose"
+apostolic_future:
+  - canonical: PAUL_APOSTLE
+    aliases: [Paul, St. Paul, Apostle Paul, Paul the Apostle]
+    context_hint: "apostolic author attribution in OSB note prose"
+  - canonical: PETER_APOSTLE
+    aliases: [Peter, St. Peter, Apostle Peter, Peter the Apostle]
+    context_hint: "apostolic author attribution in OSB note prose"
+  - canonical: JAMES_APOSTLE
+    aliases: [James, St. James, Apostle James, James the Apostle]
+    context_hint: "apostolic author attribution in OSB note prose"
+  - canonical: JUDE_APOSTLE
+    aliases: [Jude, St. Jude, Apostle Jude, Jude the Apostle]
+    context_hint: "apostolic author attribution in OSB note prose"
+liturgical_creedal_future:
+  - canonical: NICENE_CREED
+    aliases: [Creed, the Creed, Nicene Creed]
+    context_hint: "creedal citation in OSB note prose"
+  - canonical: CANON_OF_ANDREW
+    aliases: [CanonAnd, Great Canon, Canon of St. Andrew]
+    context_hint: "Great Canon / Canon of St. Andrew citations"
+  - canonical: KAIRON_SERVICE
+    aliases: [Kairon Service]
+    context_hint: "service-book citation"
+  - canonical: VESTING_SERVICE
+    aliases: [Vesting Service]
+    context_hint: "service-book citation"

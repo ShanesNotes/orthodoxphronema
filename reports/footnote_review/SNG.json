@@ -1,0 +1,607 @@
+{
+  "book_code": "SNG",
+  "position": 27,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/SNG_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 200,
+      "auto_fixable": 0,
+      "review_needed": 200,
+      "files_checked": 1,
+      "lines_checked": 343,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 168,
+      "P7": 32
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "SNG",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/SNG_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/SNG_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/SNG.md",
+    "counts": {
+      "scripture_markers": 76,
+      "footnote_entries": 76,
+      "scripture_anchors": 54,
+      "valid_marker_anchors": 76,
+      "valid_note_anchors": 76
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "SNG.1:12",
+      "SNG.1:13",
+      "SNG.1:14",
+      "SNG.1:15",
+      "SNG.1:16",
+      "SNG.1:17",
+      "SNG.1:2",
+      "SNG.1:3",
+      "SNG.1:4",
+      "SNG.1:5",
+      "SNG.1:6",
+      "SNG.1:7",
+      "SNG.2:11",
+      "SNG.2:12",
+      "SNG.2:13",
+      "SNG.2:16",
+      "SNG.2:17",
+      "SNG.2:4",
+      "SNG.2:5",
+      "SNG.2:6",
+      "SNG.2:7",
+      "SNG.2:8",
+      "SNG.2:9",
+      "SNG.3:6",
+      "SNG.4:10",
+      "SNG.4:4",
+      "SNG.4:5",
+      "SNG.4:6",
+      "SNG.4:7",
+      "SNG.5:5",
+      "SNG.5:6",
+      "SNG.5:7",
+      "SNG.6:10",
+      "SNG.6:5",
+      "SNG.8:13",
+      "SNG.8:2",
+      "SNG.8:5",
+      "SNG.8:6",
+      "SNG.8:7"
+    ],
+    "note_anchor_gaps": [
+      "SNG.1:12",
+      "SNG.1:13",
+      "SNG.1:14",
+      "SNG.1:15",
+      "SNG.1:16",
+      "SNG.1:17",
+      "SNG.1:2",
+      "SNG.1:3",
+      "SNG.1:4",
+      "SNG.1:5",
+      "SNG.1:6",
+      "SNG.1:7",
+      "SNG.2:11",
+      "SNG.2:12",
+      "SNG.2:13",
+      "SNG.2:16",
+      "SNG.2:17",
+      "SNG.2:4",
+      "SNG.2:5",
+      "SNG.2:6",
+      "SNG.2:7",
+      "SNG.2:8",
+      "SNG.2:9",
+      "SNG.3:6",
+      "SNG.4:10",
+      "SNG.4:4",
+      "SNG.4:5",
+      "SNG.4:6",
+      "SNG.4:7",
+      "SNG.5:5",
+      "SNG.5:6",
+      "SNG.5:7",
+      "SNG.6:10",
+      "SNG.6:5",
+      "SNG.8:13",
+      "SNG.8:2",
+      "SNG.8:5",
+      "SNG.8:6",
+      "SNG.8:7"
+    ],
+    "issue_count": 78
+  },
+  "wikilinks": {
+    "total_refs": 98,
+    "convertible_refs": 0,
+    "already_linked_refs": 98,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 20,
+      "matched_entities": [
+        {
+          "line_number": 38,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "longings abound\" (GrgNy). The Lord sent angels, patriarchs, and prophets to Israel, all of"
+        },
+        {
+          "line_number": 77,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "shining on us with His grace\" (GrgNy). Kedar means dark or black. Bedouin tents, the"
+        },
+        {
+          "line_number": 94,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "St. Stephen",
+          "context": "after the Resurrection: Jerusalem, the city of peace. But after the martyrdom of St. Stephen, the Church scattered throughout the world, planting new vineyards"
+        },
+        {
+          "line_number": 94,
+          "entity": "STEPHEN_PROTOMARTYR",
+          "matched_alias": "Stephen",
+          "context": "after the Resurrection: Jerusalem, the city of peace. But after the martyrdom of St. Stephen, the Church scattered throughout the world, planting new vineyards"
+        },
+        {
+          "line_number": 123,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "St. Joseph",
+          "context": "places. Turtledoves were the prescribed offering for the poor (Lv 5:7; 12:8). St. Joseph, with the Christ Child and His mother, brought two turtledoves to the temple at the time"
+        },
+        {
+          "line_number": 123,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "places. Turtledoves were the prescribed offering for the poor (Lv 5:7; 12:8). St. Joseph, with the Christ Child and His mother, brought two turtledoves to the temple at the time"
+        },
+        {
+          "line_number": 139,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "This passage was fulfilled by Nicodemus and Joseph of Arimathea ([[JOH.19:39]]-41)"
+        },
+        {
+          "line_number": 162,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "GrgNy",
+          "context": "\"communion with the Divine\" (GrgNy)."
+        },
+        {
+          "line_number": 434,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory the Dialogist",
+          "context": "beasts and predators, including lions and leopards--which, according to St. Gregory the Dialogist, are symbols of demons. Thus, we serve Christ in a fallen world."
+        },
+        {
+          "line_number": 468,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "St. Gregory of Nyssa",
+          "context": "Holy Spirit in believers. St. Gregory of Nyssa, in urging Christians to seek out godly"
+        },
+        {
+          "line_number": 468,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "Gregory of Nyssa",
+          "context": "Holy Spirit in believers. St. Gregory of Nyssa, in urging Christians to seek out godly"
+        },
+        {
+          "line_number": 502,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "unyielding lover the Lord enters only when invited. \"If they open to Him, He enters in, but if they delay and will not, He departs from them\" (AthanG)."
+        },
+        {
+          "line_number": 591,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "St. Cyprian",
+          "context": "only the queens rule with Him. Seeing the Church as mother (v. 9), St. Cyprian of"
+        },
+        {
+          "line_number": 591,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "Cyprian",
+          "context": "only the queens rule with Him. Seeing the Church as mother (v. 9), St. Cyprian of"
+        },
+        {
+          "line_number": 680,
+          "entity": "ATHANASIUS",
+          "matched_alias": "St. Athanasius",
+          "context": "brothers\" ([[MRK.3:34]]). St. Athanasius, in his Paschal Letter of 329, writes concerning 8:1, \"The God of all, the Maker of times and seasons, who knows our affairs better than we do"
+        },
+        {
+          "line_number": 680,
+          "entity": "ATHANASIUS",
+          "matched_alias": "Athanasius",
+          "context": "brothers\" ([[MRK.3:34]]). St. Athanasius, in his Paschal Letter of 329, writes concerning 8:1, \"The God of all, the Maker of times and seasons, who knows our affairs better than we do"
+        },
+        {
+          "line_number": 702,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "picture of the Gentile Church. St. Ambrose supports this understanding, seeing she who"
+        },
+        {
+          "line_number": 702,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "picture of the Gentile Church. St. Ambrose supports this understanding, seeing she who"
+        },
+        {
+          "line_number": 719,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "so that, if it is possible, all His beauty may be represented in us.... Christ is our love... since [love] has offered itself to death for transgressions\" (AmbM)."
+        },
+        {
+          "line_number": 740,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": ", 10 The wall is the bride, the Church, and Ambrose also sees it as the believer's soul. In either case, the goal is to build upon what is there. The Lord calls Himself a door (Jn"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 4,
+        "ATHANASIUS": 3,
+        "CYPRIAN_CARTHAGE": 2,
+        "GREGORY_GREAT": 1,
+        "GREGORY_NYSSA": 5,
+        "JOSEPH_BETROTHED": 3,
+        "STEPHEN_PROTOMARTYR": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 38,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 77,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 162,
+          "snippet": "GrgNy"
+        },
+        {
+          "line_number": 502,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 719,
+          "snippet": "AmbM"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 18,
+      "matched_entities": [
+        {
+          "line_number": 53,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "virtues have this fragrance of Christ, according to St. Paul ([[2CO.2:15]]-17). The young"
+        },
+        {
+          "line_number": 53,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "virtues have this fragrance of Christ, according to St. Paul ([[2CO.2:15]]-17). The young"
+        },
+        {
+          "line_number": 230,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "that assist us are the angelic hosts and even the saints. The field, according to the Lord, is the world ([[MAT.13:38]]) we live in. St. Paul takes the metaphor one step further, calling us"
+        },
+        {
+          "line_number": 230,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "that assist us are the angelic hosts and even the saints. The field, according to the Lord, is the world ([[MAT.13:38]]) we live in. St. Paul takes the metaphor one step further, calling us"
+        },
+        {
+          "line_number": 262,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul writes similarly to the Christians in Rome ([[ROM.13:12]])."
+        },
+        {
+          "line_number": 262,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul writes similarly to the Christians in Rome ([[ROM.13:12]])."
+        },
+        {
+          "line_number": 296,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Bridegroom and no other. St. Paul writes of this mystery ([[EPH.5:32]]), comparing the"
+        },
+        {
+          "line_number": 296,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Bridegroom and no other. St. Paul writes of this mystery ([[EPH.5:32]]), comparing the"
+        },
+        {
+          "line_number": 387,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "is pleasant. St. Paul calls this \"speaking the truth in love\" ([[EPH.4:15]])."
+        },
+        {
+          "line_number": 387,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "is pleasant. St. Paul calls this \"speaking the truth in love\" ([[EPH.4:15]])."
+        },
+        {
+          "line_number": 425,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "that she is without blemish, as emphasized by St. Paul ([[EPH.5:26]], [[EPH.5:27]])."
+        },
+        {
+          "line_number": 425,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "that she is without blemish, as emphasized by St. Paul ([[EPH.5:26]], [[EPH.5:27]])."
+        },
+        {
+          "line_number": 518,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Church working together with God to do His will. St. Paul is bold to say, \"We are God's"
+        },
+        {
+          "line_number": 518,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Church working together with God to do His will. St. Paul is bold to say, \"We are God's"
+        },
+        {
+          "line_number": 645,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "her stature and her breasts (v. 8). St. Paul teaches that \"Christ also loved the church and"
+        },
+        {
+          "line_number": 645,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "her stature and her breasts (v. 8). St. Paul teaches that \"Christ also loved the church and"
+        },
+        {
+          "line_number": 682,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "... so also does He send [Christ] not unseasonably, but seasonably.\" St. Paul teaches that"
+        },
+        {
+          "line_number": 682,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "... so also does He send [Christ] not unseasonably, but seasonably.\" St. Paul teaches that"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 18
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 49,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Nicene Creed",
+          "context": "The Holy Spirit is Himself the ointment of the Lord. In the Nicene Creed, Christ"
+        },
+        {
+          "line_number": 49,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "The Holy Spirit is Himself the ointment of the Lord. In the Nicene Creed, Christ"
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 20,
+    "matched_entities": [
+      {
+        "line_number": 38,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "longings abound\" (GrgNy). The Lord sent angels, patriarchs, and prophets to Israel, all of"
+      },
+      {
+        "line_number": 77,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "shining on us with His grace\" (GrgNy). Kedar means dark or black. Bedouin tents, the"
+      },
+      {
+        "line_number": 94,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "St. Stephen",
+        "context": "after the Resurrection: Jerusalem, the city of peace. But after the martyrdom of St. Stephen, the Church scattered throughout the world, planting new vineyards"
+      },
+      {
+        "line_number": 94,
+        "entity": "STEPHEN_PROTOMARTYR",
+        "matched_alias": "Stephen",
+        "context": "after the Resurrection: Jerusalem, the city of peace. But after the martyrdom of St. Stephen, the Church scattered throughout the world, planting new vineyards"
+      },
+      {
+        "line_number": 123,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "St. Joseph",
+        "context": "places. Turtledoves were the prescribed offering for the poor (Lv 5:7; 12:8). St. Joseph, with the Christ Child and His mother, brought two turtledoves to the temple at the time"
+      },
+      {
+        "line_number": 123,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "places. Turtledoves were the prescribed offering for the poor (Lv 5:7; 12:8). St. Joseph, with the Christ Child and His mother, brought two turtledoves to the temple at the time"
+      },
+      {
+        "line_number": 139,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "This passage was fulfilled by Nicodemus and Joseph of Arimathea ([[JOH.19:39]]-41)"
+      },
+      {
+        "line_number": 162,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "GrgNy",
+        "context": "\"communion with the Divine\" (GrgNy)."
+      },
+      {
+        "line_number": 434,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory the Dialogist",
+        "context": "beasts and predators, including lions and leopards--which, according to St. Gregory the Dialogist, are symbols of demons. Thus, we serve Christ in a fallen world."
+      },
+      {
+        "line_number": 468,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "St. Gregory of Nyssa",
+        "context": "Holy Spirit in believers. St. Gregory of Nyssa, in urging Christians to seek out godly"
+      },
+      {
+        "line_number": 468,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "Gregory of Nyssa",
+        "context": "Holy Spirit in believers. St. Gregory of Nyssa, in urging Christians to seek out godly"
+      },
+      {
+        "line_number": 502,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "unyielding lover the Lord enters only when invited. \"If they open to Him, He enters in, but if they delay and will not, He departs from them\" (AthanG)."
+      },
+      {
+        "line_number": 591,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "St. Cyprian",
+        "context": "only the queens rule with Him. Seeing the Church as mother (v. 9), St. Cyprian of"
+      },
+      {
+        "line_number": 591,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "Cyprian",
+        "context": "only the queens rule with Him. Seeing the Church as mother (v. 9), St. Cyprian of"
+      },
+      {
+        "line_number": 680,
+        "entity": "ATHANASIUS",
+        "matched_alias": "St. Athanasius",
+        "context": "brothers\" ([[MRK.3:34]]). St. Athanasius, in his Paschal Letter of 329, writes concerning 8:1, \"The God of all, the Maker of times and seasons, who knows our affairs better than we do"
+      },
+      {
+        "line_number": 680,
+        "entity": "ATHANASIUS",
+        "matched_alias": "Athanasius",
+        "context": "brothers\" ([[MRK.3:34]]). St. Athanasius, in his Paschal Letter of 329, writes concerning 8:1, \"The God of all, the Maker of times and seasons, who knows our affairs better than we do"
+      },
+      {
+        "line_number": 702,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "picture of the Gentile Church. St. Ambrose supports this understanding, seeing she who"
+      },
+      {
+        "line_number": 702,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "picture of the Gentile Church. St. Ambrose supports this understanding, seeing she who"
+      },
+      {
+        "line_number": 719,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "so that, if it is possible, all His beauty may be represented in us.... Christ is our love... since [love] has offered itself to death for transgressions\" (AmbM)."
+      },
+      {
+        "line_number": 740,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": ", 10 The wall is the bride, the Church, and Ambrose also sees it as the believer's soul. In either case, the goal is to build upon what is there. The Lord calls Himself a door (Jn"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 4,
+      "ATHANASIUS": 3,
+      "CYPRIAN_CARTHAGE": 2,
+      "GREGORY_GREAT": 1,
+      "GREGORY_NYSSA": 5,
+      "JOSEPH_BETROTHED": 3,
+      "STEPHEN_PROTOMARTYR": 2
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 38,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 77,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 162,
+        "snippet": "GrgNy"
+      },
+      {
+        "line_number": 502,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 719,
+        "snippet": "AmbM"
+      }
+    ]
+  }
+}

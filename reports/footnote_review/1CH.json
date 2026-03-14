@@ -1,0 +1,258 @@
+{
+  "book_code": "1CH",
+  "position": 13,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/1CH_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 71,
+      "auto_fixable": 0,
+      "review_needed": 71,
+      "files_checked": 1,
+      "lines_checked": 234,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 59,
+      "P7": 12
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "1CH",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/1CH_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/1CH_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/1CH.md",
+    "counts": {
+      "scripture_markers": 20,
+      "footnote_entries": 20,
+      "scripture_anchors": 161,
+      "valid_marker_anchors": 20,
+      "valid_note_anchors": 20
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "1CH.22:13",
+      "1CH.23:30",
+      "1CH.28:20",
+      "1CH.28:6",
+      "1CH.29:10",
+      "1CH.29:14",
+      "1CH.29:15",
+      "1CH.29:21",
+      "1CH.29:22",
+      "1CH.29:23"
+    ],
+    "note_anchor_gaps": [
+      "1CH.22:13",
+      "1CH.23:30",
+      "1CH.28:20",
+      "1CH.28:6",
+      "1CH.29:10",
+      "1CH.29:14",
+      "1CH.29:15",
+      "1CH.29:21",
+      "1CH.29:22",
+      "1CH.29:23"
+    ],
+    "issue_count": 20
+  },
+  "wikilinks": {
+    "total_refs": 43,
+    "convertible_refs": 0,
+    "already_linked_refs": 43,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 8,
+      "matched_entities": [
+        {
+          "line_number": 129,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "include the numbers of men fit for battle, while the genealogy of Ephraim ends with"
+        },
+        {
+          "line_number": 133,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "Ephraim receives new hope when his wife conceives after his other sons are"
+        },
+        {
+          "line_number": 135,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "tragically murdered. Ephraim, Joseph's second son, is seen as a type of the new covenant"
+        },
+        {
+          "line_number": 135,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "tragically murdered. Ephraim, Joseph's second son, is seen as a type of the new covenant"
+        },
+        {
+          "line_number": 139,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "Christ, comes from Ephraim's line (v. 27). 8:1-40"
+        },
+        {
+          "line_number": 253,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "John the Baptist will leap for joy in the presence of Mary, whose womb will contain"
+        },
+        {
+          "line_number": 323,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose of Milan",
+          "context": "overruled and death will end. Ambrose of Milan writes of this Hope, which is Christ"
+        },
+        {
+          "line_number": 323,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "overruled and death will end. Ambrose of Milan writes of this Hope, which is Christ"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 2,
+        "EPHRAIM_SYRIAN": 4,
+        "JOHN_FORERUNNER": 1,
+        "JOSEPH_BETROTHED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 4,
+      "matched_entities": [
+        {
+          "line_number": 195,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Apostle Paul",
+          "context": "in the Church, as the apostle Paul writes, \"having the same love, being of one accord, of"
+        },
+        {
+          "line_number": 195,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "in the Church, as the apostle Paul writes, \"having the same love, being of one accord, of"
+        },
+        {
+          "line_number": 263,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Liturgy; as St. Paul writes, \"speaking to one another in psalms and hymns and spiritual"
+        },
+        {
+          "line_number": 263,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Liturgy; as St. Paul writes, \"speaking to one another in psalms and hymns and spiritual"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 4
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 8,
+    "matched_entities": [
+      {
+        "line_number": 129,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "include the numbers of men fit for battle, while the genealogy of Ephraim ends with"
+      },
+      {
+        "line_number": 133,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "Ephraim receives new hope when his wife conceives after his other sons are"
+      },
+      {
+        "line_number": 135,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "tragically murdered. Ephraim, Joseph's second son, is seen as a type of the new covenant"
+      },
+      {
+        "line_number": 135,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "tragically murdered. Ephraim, Joseph's second son, is seen as a type of the new covenant"
+      },
+      {
+        "line_number": 139,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "Christ, comes from Ephraim's line (v. 27). 8:1-40"
+      },
+      {
+        "line_number": 253,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "John the Baptist will leap for joy in the presence of Mary, whose womb will contain"
+      },
+      {
+        "line_number": 323,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose of Milan",
+        "context": "overruled and death will end. Ambrose of Milan writes of this Hope, which is Christ"
+      },
+      {
+        "line_number": 323,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "overruled and death will end. Ambrose of Milan writes of this Hope, which is Christ"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 2,
+      "EPHRAIM_SYRIAN": 4,
+      "JOHN_FORERUNNER": 1,
+      "JOSEPH_BETROTHED": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

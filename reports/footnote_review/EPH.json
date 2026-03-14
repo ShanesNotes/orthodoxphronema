@@ -1,0 +1,351 @@
+{
+  "book_code": "EPH",
+  "position": 59,
+  "testament": "NT",
+  "status": "complete",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/EPH_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 113,
+      "auto_fixable": 0,
+      "review_needed": 113,
+      "files_checked": 1,
+      "lines_checked": 346,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 101,
+      "P7": 12
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "EPH",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/EPH_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/EPH_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/EPH.md",
+    "counts": {
+      "scripture_markers": 53,
+      "footnote_entries": 53,
+      "scripture_anchors": 155,
+      "valid_marker_anchors": 53,
+      "valid_note_anchors": 53
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 22,
+    "convertible_refs": 0,
+    "already_linked_refs": 22,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 5,
+      "matched_entities": [
+        {
+          "line_number": 37,
+          "entity": "ATHANASIUS",
+          "matched_alias": "St. Athanasius",
+          "context": "is, through the Son's union with human nature. That is why St. Athanasius can say, \"God"
+        },
+        {
+          "line_number": 37,
+          "entity": "ATHANASIUS",
+          "matched_alias": "Athanasius",
+          "context": "is, through the Son's union with human nature. That is why St. Athanasius can say, \"God"
+        },
+        {
+          "line_number": 565,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "(JohnChr)."
+        },
+        {
+          "line_number": 579,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "which it is useful to cry aloud--in preaching and in teaching\" (JohnChr)."
+        },
+        {
+          "line_number": 603,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "\"Just as clamor was the fuel of wrath, so foul talk is the fuel of lust\" (JohnChr)."
+        }
+      ],
+      "entity_counts": {
+        "ATHANASIUS": 2,
+        "JOHN_CHRYSOSTOM": 3
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 565,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 579,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 603,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 24,
+      "matched_entities": [
+        {
+          "line_number": 45,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "If we are in Christ, the Son of God, we are sons of God. Paul is not addressing individuals"
+        },
+        {
+          "line_number": 99,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "The Jews, especially those who trusted in Christ (v. 12)--one of whom was Paul, hence"
+        },
+        {
+          "line_number": 127,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "In the original Greek, this is all one sentence. Paul's opening theme is the"
+        },
+        {
+          "line_number": 131,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "the Holy Spirit.\" Paul's doxology is more detailed: The Father has all power (vv. 3-6); the"
+        },
+        {
+          "line_number": 165,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "1:15-23 This is an intercessory prayer that Paul prayed often and repetitiously (v. 16). He"
+        },
+        {
+          "line_number": 271,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "How does Paul fit into the cosmic plan described in 1:3-14 and 2:1-22? God has"
+        },
+        {
+          "line_number": 277,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "3:1, 2 Prisoner (Paul is in prison in Rome as he writes this letter) is a title of honor and a"
+        },
+        {
+          "line_number": 279,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "mark of apostleship ([[LUK.21:12]]; [[2CO.6:4]], [[2CO.6:5]]). Paul is not only an apostle (see v. 5), but one"
+        },
+        {
+          "line_number": 285,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Christ; Paul has received the special commission to extend this Church to the Gentiles (v."
+        },
+        {
+          "line_number": 293,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "God's revelation to Paul began on the road to Damascus ([[ACT.22:3]]-21). God was"
+        },
+        {
+          "line_number": 295,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "gracious to Paul not for his own sake but for others (see [[ACT.9:15]], [[ACT.9:16]])."
+        },
+        {
+          "line_number": 353,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul sees that even his sufferings are a part of his apostolic work. His tribulations"
+        },
+        {
+          "line_number": 361,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul picks up where he left off in v. 1, beginning a prayer for his hearers. I bow"
+        },
+        {
+          "line_number": 421,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul implores his hearers to realize what has been given to them and to be in practice"
+        },
+        {
+          "line_number": 453,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "but on a living reality: the life of the Holy Trinity in the Church. Paul combines the three"
+        },
+        {
+          "line_number": 483,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's rabbinic way of intertwining the Ascension of Christ (He ascended) with"
+        },
+        {
+          "line_number": 513,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "power from Christ to grow up into Christ. Paul does not look at the Christian as an"
+        },
+        {
+          "line_number": 593,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "\"Walk worthy of the calling,\" Paul says in 4:1 (see 2:10). Here he defines this walk:"
+        },
+        {
+          "line_number": 617,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul especially emphasizes that Christians must avoid sexual immorality, not just the"
+        },
+        {
+          "line_number": 627,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's sharp contrast between the two ways, the way of darkness and the way of"
+        },
+        {
+          "line_number": 697,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Verse 21 is a transition to the theme of the next section, where Paul applies the idea"
+        },
+        {
+          "line_number": 717,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "(2) For husbands, concerning sacrificial love (vv. 25-31): Paul writes three sentences to"
+        },
+        {
+          "line_number": 749,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "As with marriage, Paul does not seek to alter the existing social structure. But he"
+        },
+        {
+          "line_number": 753,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "similar to those for a wife and for children: sincere obedience. Paul, however, unlike the"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 24
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 425,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "what we are to do in response. How you believe must affect how you live; creed must"
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 5,
+    "matched_entities": [
+      {
+        "line_number": 37,
+        "entity": "ATHANASIUS",
+        "matched_alias": "St. Athanasius",
+        "context": "is, through the Son's union with human nature. That is why St. Athanasius can say, \"God"
+      },
+      {
+        "line_number": 37,
+        "entity": "ATHANASIUS",
+        "matched_alias": "Athanasius",
+        "context": "is, through the Son's union with human nature. That is why St. Athanasius can say, \"God"
+      },
+      {
+        "line_number": 565,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "(JohnChr)."
+      },
+      {
+        "line_number": 579,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "which it is useful to cry aloud--in preaching and in teaching\" (JohnChr)."
+      },
+      {
+        "line_number": 603,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "\"Just as clamor was the fuel of wrath, so foul talk is the fuel of lust\" (JohnChr)."
+      }
+    ],
+    "entity_counts": {
+      "ATHANASIUS": 2,
+      "JOHN_CHRYSOSTOM": 3
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 565,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 579,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 603,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

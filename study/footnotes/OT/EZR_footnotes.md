@@ -23,7 +23,9 @@ specific location, yet this statement is also prophetic in that it points as wel
 
 Jerusalem, the eternal city over which God reigns and in which all nations will dwell (Rev
 
-21). 1:1-4 The kings of the earth, who receive authority from the Lord ([[JOH.19:11]]; [[ROM.13:1]]-7), are used by God to fulfill His plan. 
+21).
+
+1:1-4 The kings of the earth, who receive authority from the Lord ([[JOH.19:11]]; [[ROM.13:1]]-7), are used by God to fulfill His plan. 
 
 ### 1:5
 *(anchor: EZR.1:5)*
@@ -179,7 +181,9 @@ to the Scriptures was also one of the ways Jesus' enemies tried to malign Him ([
 
 ). In both cases, the reliability and authority of what has been written, accepted, and
 
-handed down as Holy Scripture is unquestioned. 6:1-3 The decree of Darius affirms the authority of the earlier decree by King Cyrus. In the same way, within the Church, the traditions of the faith and true doctrine are
+handed down as Holy Scripture is unquestioned.
+
+6:1-3 The decree of Darius affirms the authority of the earlier decree by King Cyrus. In the same way, within the Church, the traditions of the faith and true doctrine are
 
 reaffirmed in every generation ([[2TH.2:15]]). 6:8-10
 
@@ -197,7 +201,9 @@ The earthly kings and Zechariah fulfill the prophecies of Haggai. 6:15
 
 The restoration of the temple on the third day of this month certainly suggests the
 
-resurrection of Jesus Christ on the third day ([[JOH.2:19]]-22). 6:19-21 The unity at the Passover meal between the children of Israel and those who
+resurrection of Jesus Christ on the third day ([[JOH.2:19]]-22).
+
+6:19-21 The unity at the Passover meal between the children of Israel and those who
 
 would seek the Lord from the nations points forward to the Eucharist, to which all
 

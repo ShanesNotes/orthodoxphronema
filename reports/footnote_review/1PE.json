@@ -1,0 +1,243 @@
+{
+  "book_code": "1PE",
+  "position": 70,
+  "testament": "NT",
+  "status": "complete",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/1PE_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 36,
+      "auto_fixable": 0,
+      "review_needed": 36,
+      "files_checked": 1,
+      "lines_checked": 226,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P4": 3,
+      "P6": 31,
+      "P7": 2
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "1PE",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/1PE_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/1PE_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/1PE.md",
+    "counts": {
+      "scripture_markers": 40,
+      "footnote_entries": 40,
+      "scripture_anchors": 106,
+      "valid_marker_anchors": 40,
+      "valid_note_anchors": 40
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 48,
+    "convertible_refs": 0,
+    "already_linked_refs": 48,
+    "unresolved_refs": 1,
+    "unresolved_examples": [
+      {
+        "line_number": 431,
+        "raw_text": "1Co 12-14",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 529,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "The kiss of love, or of peace, is here already a liturgical practice. In St. John"
+        },
+        {
+          "line_number": 531,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "Chrysostom's liturgy, the kiss of peace occurs between the Great Entrance and the Creed;"
+        }
+      ],
+      "entity_counts": {
+        "JOHN_CHRYSOSTOM": 1,
+        "JOHN_THEOLOGIAN": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 14,
+      "matched_entities": [
+        {
+          "line_number": 71,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "actions of Peter also confirm this sacramental reality (see [[ACT.2:37]], [[ACT.2:38]], [[ACT.2:41]]; 10:43, 47, 48;"
+        },
+        {
+          "line_number": 105,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "and even contemptible. But Peter shows that faith under trial is precious indeed, bearing"
+        },
+        {
+          "line_number": 113,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter knew by experience the failure to perceive the truth until he saw it with his eyes"
+        },
+        {
+          "line_number": 195,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Apostle Paul",
+          "context": "in this passage. The apostle Paul has written that new (indeed, all!) Christians are to put"
+        },
+        {
+          "line_number": 195,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "in this passage. The apostle Paul has written that new (indeed, all!) Christians are to put"
+        },
+        {
+          "line_number": 219,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter likens the growth of the Church to the OT temple with its attending"
+        },
+        {
+          "line_number": 261,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "To this point Peter has been addressing the whole of the Church, describing the"
+        },
+        {
+          "line_number": 273,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "(See also [[ROM.13:1]]-7; [[MAT.22:21]]; [[TIT.3:1]].) Peter urges his readers to be obedient to"
+        },
+        {
+          "line_number": 283,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "and obedience to Christ and His gospel are at stake, Peter's actions show that we are to"
+        },
+        {
+          "line_number": 315,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter--according to tradition the first bishop of Antioch, the guiding church of the"
+        },
+        {
+          "line_number": 323,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Overseer (lit., \"bishop\"). Peter calls himself \"a fellow elder\" in 5:1, for bishops and"
+        },
+        {
+          "line_number": 339,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "indeed to give honor. Peter's image of marriage is one of sacramental union, not merely"
+        },
+        {
+          "line_number": 409,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Though Peter refers here to specific activities and vices prevalent in that day in Asia"
+        },
+        {
+          "line_number": 523,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "and tribulation for the people of God. Peter himself was martyred in Rome."
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 2,
+        "PETER_APOSTLE": 12
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 531,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "Chrysostom's liturgy, the kiss of peace occurs between the Great Entrance and the Creed;"
+        },
+        {
+          "line_number": 531,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Chrysostom's liturgy, the kiss of peace occurs between the Great Entrance and the Creed;"
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 2,
+    "matched_entities": [
+      {
+        "line_number": 529,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "The kiss of love, or of peace, is here already a liturgical practice. In St. John"
+      },
+      {
+        "line_number": 531,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "Chrysostom's liturgy, the kiss of peace occurs between the Great Entrance and the Creed;"
+      }
+    ],
+    "entity_counts": {
+      "JOHN_CHRYSOSTOM": 1,
+      "JOHN_THEOLOGIAN": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

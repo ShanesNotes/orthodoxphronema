@@ -1,0 +1,656 @@
+{
+  "book_code": "ROM",
+  "position": 55,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/ROM_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 73,
+      "auto_fixable": 0,
+      "review_needed": 73,
+      "files_checked": 1,
+      "lines_checked": 755,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 63,
+      "P7": 10
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "ROM",
+    "testament": "NT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/ROM_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/ROM_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/ROM.md",
+    "counts": {
+      "scripture_markers": 134,
+      "footnote_entries": 134,
+      "scripture_anchors": 431,
+      "valid_marker_anchors": 133,
+      "valid_note_anchors": 133
+    },
+    "invalid_marker_anchors": {
+      "ROM.16:25": "invalid_verse"
+    },
+    "invalid_note_anchors": {
+      "ROM.16:25": "invalid_verse"
+    },
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 2
+  },
+  "wikilinks": {
+    "total_refs": 46,
+    "convertible_refs": 0,
+    "already_linked_refs": 46,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 18,
+      "matched_entities": [
+        {
+          "line_number": 225,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "does. According to St. John Chrysostom, those who are able to follow their conscience to"
+        },
+        {
+          "line_number": 225,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "does. According to St. John Chrysostom, those who are able to follow their conscience to"
+        },
+        {
+          "line_number": 225,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "does. According to St. John Chrysostom, those who are able to follow their conscience to"
+        },
+        {
+          "line_number": 395,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "faith in Jesus Christ (vv. 29, 30). There is \"no difference\" (JohnChr) between the terms"
+        },
+        {
+          "line_number": 705,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "wickedness which is made of the different parts of iniquity he calls 'the body'\" (JohnChr)."
+        },
+        {
+          "line_number": 1149,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "does He force virtue\" (JohnDm). Based on His foreknowledge, God assures, or"
+        },
+        {
+          "line_number": 1261,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "questions of this kind (vv. 22-24), but it is presumptuous to raise them (JohnChr)."
+        },
+        {
+          "line_number": 1403,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "believed. Elijah prefigured this remnant when he thought that he alone followed God"
+        },
+        {
+          "line_number": 1405,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "(vv. 2-4). As only a few heeded Elijah in his day, so only a few heed Jesus and His"
+        },
+        {
+          "line_number": 1637,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "sin. According to St. John Chrysostom, those who are weak in faith may sin, not because"
+        },
+        {
+          "line_number": 1637,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "sin. According to St. John Chrysostom, those who are weak in faith may sin, not because"
+        },
+        {
+          "line_number": 1637,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "sin. According to St. John Chrysostom, those who are weak in faith may sin, not because"
+        },
+        {
+          "line_number": 1727,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "is lit. \"deaconess\") and involved in missionary work. St. John Chrysostom notes that Paul"
+        },
+        {
+          "line_number": 1727,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "is lit. \"deaconess\") and involved in missionary work. St. John Chrysostom notes that Paul"
+        },
+        {
+          "line_number": 1727,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "is lit. \"deaconess\") and involved in missionary work. St. John Chrysostom notes that Paul"
+        },
+        {
+          "line_number": 1747,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "likely written. According to St. John Chrysostom, Paul is not referring to literal"
+        },
+        {
+          "line_number": 1747,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "likely written. According to St. John Chrysostom, Paul is not referring to literal"
+        },
+        {
+          "line_number": 1747,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "likely written. According to St. John Chrysostom, Paul is not referring to literal"
+        }
+      ],
+      "entity_counts": {
+        "ELIJAH_PROPHET": 2,
+        "JOHN_CHRYSOSTOM": 11,
+        "JOHN_DAMASCENE": 1,
+        "JOHN_THEOLOGIAN": 4
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 395,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 705,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1149,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 1261,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 45,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul is a bondservant, a slave to Jesus Christ. Apostle: one who is sent. The"
+        },
+        {
+          "line_number": 15,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul is a bondservant, a slave to Jesus Christ. Apostle: one who is sent. The"
+        },
+        {
+          "line_number": 69,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul shows a pastoral concern for the Roman Christians even though he was not"
+        },
+        {
+          "line_number": 69,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul shows a pastoral concern for the Roman Christians even though he was not"
+        },
+        {
+          "line_number": 79,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul had not yet visited Rome when he wrote this letter. This epistle contains the core"
+        },
+        {
+          "line_number": 91,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul was hindered in coming to Rome because of his missionary work among the"
+        },
+        {
+          "line_number": 93,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "other Gentiles. Though Paul's personal desire was to go to Rome, he submitted to God's"
+        },
+        {
+          "line_number": 109,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul is not ashamed of the gospel of Christ, thus setting an example for all"
+        },
+        {
+          "line_number": 109,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul is not ashamed of the gospel of Christ, thus setting an example for all"
+        },
+        {
+          "line_number": 285,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "These quotations from the OT speak to the questions Paul asks in vv. 1-9."
+        },
+        {
+          "line_number": 451,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "\"Deification\" at 2 Peter)."
+        },
+        {
+          "line_number": 505,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul offers the answer here."
+        },
+        {
+          "line_number": 639,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Opponents of St. Paul twisted his summary of God's past dealings with humanity,"
+        },
+        {
+          "line_number": 639,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Opponents of St. Paul twisted his summary of God's past dealings with humanity,"
+        },
+        {
+          "line_number": 791,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Having completed his references to baptism, Paul initiates another discussion:"
+        },
+        {
+          "line_number": 821,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Human terms are the images of slavery by which Paul expresses the fallen human"
+        },
+        {
+          "line_number": 863,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul has affirmed that justification, our ongoing communion with God, comes by"
+        },
+        {
+          "line_number": 935,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul clarifies the distinction between the will of the soul and the will of the flesh."
+        },
+        {
+          "line_number": 1073,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "to us by grace. See the article, \"Deification\" at 2 Peter."
+        },
+        {
+          "line_number": 1187,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul had many opponents who accused him of failing to love his fellow"
+        },
+        {
+          "line_number": 1187,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul had many opponents who accused him of failing to love his fellow"
+        },
+        {
+          "line_number": 1195,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Jewish unbelief is illuminated by Paul's description of a twofold Israel: one"
+        },
+        {
+          "line_number": 1269,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "sovereign will (vv. 19-21), Paul nevertheless gives an answer. The proof that God's"
+        },
+        {
+          "line_number": 1301,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "His sovereign will (vv. 6-29). Here, Paul gives the second part of the answer, which is"
+        },
+        {
+          "line_number": 1323,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul wishes nothing but good for Israel, but their zeal is not based in truth. If they"
+        },
+        {
+          "line_number": 1381,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "From 9:1-10:13, Paul left the Jews with no excuse for rejecting the gospel. Paul"
+        },
+        {
+          "line_number": 1401,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "saved. But Paul himself was being saved (v. 1), and there is a remnant (v. 5) of Jews who"
+        },
+        {
+          "line_number": 1433,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul addresses the Gentile believers, reminding them not to be puffed up against"
+        },
+        {
+          "line_number": 1463,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "together form the true Israel. (In [[GAL.6:15]], [[GAL.6:16]], St. Paul calls those \"in Christ Jesus\" the"
+        },
+        {
+          "line_number": 1463,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "together form the true Israel. (In [[GAL.6:15]], [[GAL.6:16]], St. Paul calls those \"in Christ Jesus\" the"
+        },
+        {
+          "line_number": 1475,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul reminds the Gentiles that they have no superiority over the Jews, for both"
+        },
+        {
+          "line_number": 1489,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Jew and Gentile in Christ. From this point forward, Paul uses this doctrinal base to"
+        },
+        {
+          "line_number": 1559,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Because the civil government is established by God, St. Paul calls a civil authority"
+        },
+        {
+          "line_number": 1559,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Because the civil government is established by God, St. Paul calls a civil authority"
+        },
+        {
+          "line_number": 1669,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "From the OT Scriptures, Paul demonstrates the unity in Christ between Jew and"
+        },
+        {
+          "line_number": 1677,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul recognizes that his lengthy letter to Rome--a church he did not found--is"
+        },
+        {
+          "line_number": 1693,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "is sanctified by the Holy Spirit. Paul uses this imagery to speak of the Gentiles"
+        },
+        {
+          "line_number": 1711,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's missionary work involved preaching mostly in virgin territories (v. 20)."
+        },
+        {
+          "line_number": 1727,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "is lit. \"deaconess\") and involved in missionary work. St. John Chrysostom notes that Paul"
+        },
+        {
+          "line_number": 1737,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Priscilla and Aquila were a married couple, Jewish business people, and Paul's"
+        },
+        {
+          "line_number": 1745,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Prisoners: We know of no imprisonment of Paul in Corinth, where Romans was"
+        },
+        {
+          "line_number": 1747,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "likely written. According to St. John Chrysostom, Paul is not referring to literal"
+        },
+        {
+          "line_number": 1767,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "While Paul is the author of this epistle (1:1), Tertius wrote it down as Paul's"
+        },
+        {
+          "line_number": 1769,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "secretary. Paul frequently dictated his epistles to a scribe ([[1CO.16:21]]; [[COL.4:18]]; [[2TH.2:17]];"
+        },
+        {
+          "line_number": 1779,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "as this one by Paul. Mystery here refers to God's plan of salvation revealed in Jesus"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 43,
+        "PETER_APOSTLE": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 1783,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "the Eucharist, the Creed is recited by all the faithful to demonstrate a unity of faith."
+        },
+        {
+          "line_number": 1783,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "the Eucharist, the Creed is recited by all the faithful to demonstrate a unity of faith."
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 18,
+    "matched_entities": [
+      {
+        "line_number": 225,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "does. According to St. John Chrysostom, those who are able to follow their conscience to"
+      },
+      {
+        "line_number": 225,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "does. According to St. John Chrysostom, those who are able to follow their conscience to"
+      },
+      {
+        "line_number": 225,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "does. According to St. John Chrysostom, those who are able to follow their conscience to"
+      },
+      {
+        "line_number": 395,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "faith in Jesus Christ (vv. 29, 30). There is \"no difference\" (JohnChr) between the terms"
+      },
+      {
+        "line_number": 705,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "wickedness which is made of the different parts of iniquity he calls 'the body'\" (JohnChr)."
+      },
+      {
+        "line_number": 1149,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "does He force virtue\" (JohnDm). Based on His foreknowledge, God assures, or"
+      },
+      {
+        "line_number": 1261,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "questions of this kind (vv. 22-24), but it is presumptuous to raise them (JohnChr)."
+      },
+      {
+        "line_number": 1403,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "believed. Elijah prefigured this remnant when he thought that he alone followed God"
+      },
+      {
+        "line_number": 1405,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "(vv. 2-4). As only a few heeded Elijah in his day, so only a few heed Jesus and His"
+      },
+      {
+        "line_number": 1637,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "sin. According to St. John Chrysostom, those who are weak in faith may sin, not because"
+      },
+      {
+        "line_number": 1637,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "sin. According to St. John Chrysostom, those who are weak in faith may sin, not because"
+      },
+      {
+        "line_number": 1637,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "sin. According to St. John Chrysostom, those who are weak in faith may sin, not because"
+      },
+      {
+        "line_number": 1727,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "is lit. \"deaconess\") and involved in missionary work. St. John Chrysostom notes that Paul"
+      },
+      {
+        "line_number": 1727,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "is lit. \"deaconess\") and involved in missionary work. St. John Chrysostom notes that Paul"
+      },
+      {
+        "line_number": 1727,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "is lit. \"deaconess\") and involved in missionary work. St. John Chrysostom notes that Paul"
+      },
+      {
+        "line_number": 1747,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "likely written. According to St. John Chrysostom, Paul is not referring to literal"
+      },
+      {
+        "line_number": 1747,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "likely written. According to St. John Chrysostom, Paul is not referring to literal"
+      },
+      {
+        "line_number": 1747,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "likely written. According to St. John Chrysostom, Paul is not referring to literal"
+      }
+    ],
+    "entity_counts": {
+      "ELIJAH_PROPHET": 2,
+      "JOHN_CHRYSOSTOM": 11,
+      "JOHN_DAMASCENE": 1,
+      "JOHN_THEOLOGIAN": 4
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 395,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 705,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1149,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 1261,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

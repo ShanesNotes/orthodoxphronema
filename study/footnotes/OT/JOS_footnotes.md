@@ -20,13 +20,17 @@ Greek, and Jesus in English. Joshua's original name was Hoshea, but Moses change
 ### 13:16
 *(anchor: JOS.13:16)*
 
-). This name change was prophetic, for it made Joshua a type of Jesus Christ. 1:2
+). This name change was prophetic, for it made Joshua a type of Jesus Christ.
+
+1:2
 
 Moses, the lawgiver, could not bring Israel into the promised land, which shows that
 
 the Law of Moses cannot save the people. But Joshua brought them in, and in this he was
 
-a type of Jesus Christ, who brings His own into heaven through grace (JohnChr). 1:3-5 The enemy will be trampled under Joshua's feet. In a similar way, Christ will trample
+a type of Jesus Christ, who brings His own into heaven through grace (JohnChr).
+
+1:3-5 The enemy will be trampled under Joshua's feet. In a similar way, Christ will trample
 
 down sin, death, and the devil by His death and Resurrection. 1:6
 
@@ -88,7 +92,11 @@ God's previous judgments on His enemies inspire fear in Rahab and her family, bu
 
 faced God's impending judgment, yet Rahab and her household were the only ones in
 
-Jericho who asked the Lord to be merciful. 2:13 Christ destroyed death by His death, to deliver mankind from death. 2:18
+Jericho who asked the Lord to be merciful.
+
+2:13 Christ destroyed death by His death, to deliver mankind from death.
+
+2:18
 
 The scarlet cord was a type of the Lord's Passion, of His mystical blood which
 
@@ -130,7 +138,9 @@ sins. Also, in the Eucharist, the bread and wine become in a mystery the very bo
 
 blood of Christ. In both cases, the laws of nature are overcome so as to bring about our
 
-salvation. 3:1-17 This passage is a picture of God's plan of salvation for the world. The ark prefigures
+salvation.
+
+3:1-17 This passage is a picture of God's plan of salvation for the world. The ark prefigures
 
 Christ's conception in the holy womb of the Ever-virgin Mary. The feet of the priests in
 
@@ -138,7 +148,9 @@ the water (v. 13) prefigure Christ's feet in the very same river at His Baptism 
 
 also our baptism, we are united to Him in the sanctified waters, and through Him are
 
-delivered from the powers of darkness (see also [[ACT.2:38]]; 26:18). 4:1-10 The twelve stones prefigure the twelve apostles of Christ (GrgNy). The Lord gave
+delivered from the powers of darkness (see also [[ACT.2:38]]; 26:18).
+
+4:1-10 The twelve stones prefigure the twelve apostles of Christ (GrgNy). The Lord gave
 
 them the authority to baptize all nations in the name of the Holy Trinity ([[MAT.28:18]]-20). 4:14
 
@@ -146,7 +158,9 @@ The nation of Israel feared Joshua as long as he lived in her midst. Since they
 
 feared the type, how much more should we fear the One who fulfilled the type, namely, Jesus our Lord and God. Joshua eventually died, but the risen Lord lives among us
 
-forever. 4:19-24 The crossing of the Red Sea and the Jordan by the children of Israel foreshadowed
+forever.
+
+4:19-24 The crossing of the Red Sea and the Jordan by the children of Israel foreshadowed
 
 holy baptism, and the twelve stones speak of the twelve apostles of Christ. Christ's
 
@@ -154,7 +168,9 @@ teachings are handed down in the Church through these apostles, to whom Christ g
 
 the authority to baptize all nations. This apostolic teaching is the true faith, also known as
 
-the Orthodox faith. 5:2-8 Circumcision was given first to Abraham after he was declared righteous before God
+the Orthodox faith.
+
+5:2-8 Circumcision was given first to Abraham after he was declared righteous before God
 
 through faith in the promise of the Gospel ([[GEN.17:9]]-14). This was a sign for the Gentiles
 
@@ -192,7 +208,9 @@ new wheat. We now eat this bread of life in the mystery of the Eucharist. This l
 
 divine life of God, which sets on fire those who partake of the bread in a proper manner. Those who do so leave the Eucharist breathing the fire of divine life, which is terrible to
 
-the devil and his angels (JohnChr). 5:13-15 The chief captain, whom tradition holds to be the Archangel Michael, will lead
+the devil and his angels (JohnChr).
+
+5:13-15 The chief captain, whom tradition holds to be the Archangel Michael, will lead
 
 them to complete victory so they might possess the land. Joshua's vision surpasses that
 
@@ -200,7 +218,9 @@ of Moses ([[EXO.3:1]]-10), who saw a burning bush on Mount Horeb yet hid his fac
 
 was afraid to look upon God. Here, in the Promised Land, Joshua actually sees the form
 
-of a man. Both of these visions will be fulfilled in the Man, Christ Jesus. 6:5-6 Israel, which prefigures the Church, has been made ready. Now the people must act
+of a man. Both of these visions will be fulfilled in the Man, Christ Jesus.
+
+6:5-6 Israel, which prefigures the Church, has been made ready. Now the people must act
 
 in faith and obedience. The Lord Himself will bring down the walls, which speak of sin
 
@@ -224,7 +244,9 @@ obeyed Joshua (or Jesus) in doing a good thing. But when Jesus (the true Joshua)
 
 on the Sabbath, the Pharisees accused Him of breaking the Sabbath and wanted to kill
 
-Him. Then He said to them, "It is lawful to do good on the Sabbath" ([[MAT.12:12]]). 6:22
+Him. Then He said to them, "It is lawful to do good on the Sabbath" ([[MAT.12:12]]).
+
+6:22
 
 Rahab the harlot was counted as righteous before God for one reason: namely, her
 
@@ -234,7 +256,9 @@ of her behavior. Similarly, the publican was counted as righteous because of his
 
 despair over failures and shortcomings before God, but demonstrate in some way a
 
-genuine repentance and faith (GrgTheo). 6:24
+genuine repentance and faith (GrgTheo).
+
+6:24
 
 Joshua, a type of Jesus Christ, saved Rahab the harlot because of her hospitality, which demonstrated a genuine faith. But the true Jesus said to the chief priests and
 
@@ -250,7 +274,9 @@ death. It breached the walls of heavenly grace that surrounded the people at Jer
 
 in a more sweeping way, Adam's transgression breached the grace of God and plunged the
 
-entire world into mortality ([[ROM.5:12]]). 7:6-15
+entire world into mortality ([[ROM.5:12]]).
+
+7:6-15
 
 Joshua and the elders intercede before the Lord on behalf of all the people, thus
 
@@ -258,9 +284,13 @@ reversing their defeat. Similarly, Christ's humility and intercession will rever
 
 process of sin and death, but the people must respond by working with Him to purge evil
 
-from their midst. 7:14-18 Step by step, God reveals the source of sin. God's love is like a fire that consumes
+from their midst.
 
-sin until only what is good remains. But without repentance, nothing good will remain. 7:20-21
+7:14-18 Step by step, God reveals the source of sin. God's love is like a fire that consumes
+
+sin until only what is good remains. But without repentance, nothing good will remain.
+
+7:20-21
 
 To follow a man like Achan and to believe he made a right choice would be like
 
@@ -274,19 +304,27 @@ under the attraction of material things (a beautiful, multicolored garment, two
 
 hundred shekels of silver, and a wedge of fifty shekels of gold), thus yielding to
 
-whatever happened to catch his fancy (Neilos). Achan's confession was not repentance. He only confessed because he got caught. 7:21
+whatever happened to catch his fancy (Neilos). Achan's confession was not repentance. He only confessed because he got caught.
 
-The love of money is an ancient vice, and in [[EXO.20:17]], a law was given to check it: "You shall not covet" (AmbM). 7:24-26
+7:21
+
+The love of money is an ancient vice, and in [[EXO.20:17]], a law was given to check it: "You shall not covet" (AmbM).
+
+7:24-26
 
 Achan's death by stoning applies to all who will not heed Christ's words
 
 concerning Himself: "And whoever falls on this stone will be broken; but on whomever it
 
-falls, it will grind him to powder" ([[MAT.21:44]]). 8:17-20 The Lord who spoke to Joshua was the Son of God (AmbM). Joshua's spear was
+falls, it will grind him to powder" ([[MAT.21:44]]).
+
+8:17-20 The Lord who spoke to Joshua was the Son of God (AmbM). Joshua's spear was
 
 a type of the cross, that weapon of peace through which Christ and His Church win in
 
-battle. 8:21-28 We should remember that all the inhabitants of Ai, and in fact all the inhabitants
+battle.
+
+8:21-28 We should remember that all the inhabitants of Ai, and in fact all the inhabitants
 
 of the cities conquered by Joshua, were killed because none of them asked for mercy or
 
@@ -306,11 +344,15 @@ the Law of Moses. Rather, it emphasizes the spiritual side of his law. In this s
 
 is the "second" Law, for He will not only come after the "first" Law of Moses, He will also
 
-fulfill it ([[MAT.5:17]]). 9:9-21 Although Joshua made a mistake by not inquiring of the Lord before he made the
+fulfill it ([[MAT.5:17]]).
+
+9:9-21 Although Joshua made a mistake by not inquiring of the Lord before he made the
 
 covenant with the Gibeonites, nevertheless, his virtuous character is shown by his
 
-innocence in believing them (AmbM). 9:9-33 The Gibeonites are descendants of Noah's son, Canaan, about whom he prophesied
+innocence in believing them (AmbM).
+
+9:9-33 The Gibeonites are descendants of Noah's son, Canaan, about whom he prophesied
 
 in [[GEN.9:25]], "Cursed be Canaan; / A servant of servants shall he be to his brothers"
 
@@ -318,7 +360,9 @@ in [[GEN.9:25]], "Cursed be Canaan; / A servant of servants shall he be to his b
 
 themselves before Christ and receive salvation. The torn and patched condition (v. 11) of
 
-the Gibeonites' belongings describes the state of the soul that seeks salvation in God. 10:6-10 The people of Gibeon sent word, and Joshua mustered all his men of war to
+the Gibeonites' belongings describes the state of the soul that seeks salvation in God.
+
+10:6-10 The people of Gibeon sent word, and Joshua mustered all his men of war to
 
 rescue them and rout the enemy. So it is with all those who are held fast in the hands of
 
@@ -354,7 +398,9 @@ throughout the whole day of this present life, not allowing this Sun to be blott
 
 the dusk of sin and ignorance. By doing this, he will be able to defeat the deceitful
 
-demons who rise up against him (MaxCon). 11:6-9 The kings who warred against Israel represent the sinful passions that war against
+demons who rise up against him (MaxCon).
+
+11:6-9 The kings who warred against Israel represent the sinful passions that war against
 
 us. But the Lord Jesus Christ encourages us, as He did Joshua, "Fear not before their
 
@@ -651,7 +697,9 @@ being the same as when He made it (AntEg).
 
 The large stone is a type of Christ, who will be an everlasting witness of the
 
-covenant made between God and man under the tree, that is, the cross. 24:1-27 Joshua reminds the people of the Lord's faithfulness to Israel since Abraham (v. 3) and challenges their faith. Just as Israel's entire history to this point has led up to the
+covenant made between God and man under the tree, that is, the cross.
+
+24:1-27 Joshua reminds the people of the Lord's faithfulness to Israel since Abraham (v. 3) and challenges their faith. Just as Israel's entire history to this point has led up to the
 
 covenant about to be established by Joshua (vv. 25-27), so Israel's history from that
 

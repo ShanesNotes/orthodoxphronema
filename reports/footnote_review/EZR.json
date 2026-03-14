@@ -1,0 +1,161 @@
+{
+  "book_code": "EZR",
+  "position": 16,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/EZR_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 59,
+      "auto_fixable": 0,
+      "review_needed": 59,
+      "files_checked": 1,
+      "lines_checked": 152,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 55,
+      "P7": 4
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "EZR",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/EZR_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/EZR_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/EZR.md",
+    "counts": {
+      "scripture_markers": 29,
+      "footnote_entries": 29,
+      "scripture_anchors": 52,
+      "valid_marker_anchors": 28,
+      "valid_note_anchors": 28
+    },
+    "invalid_marker_anchors": {
+      "EZR.7:52": "invalid_verse"
+    },
+    "invalid_note_anchors": {
+      "EZR.7:52": "invalid_verse"
+    },
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "EZR.10:10",
+      "EZR.10:19",
+      "EZR.1:7",
+      "EZR.2:63",
+      "EZR.2:68",
+      "EZR.3:12",
+      "EZR.3:8",
+      "EZR.4:12",
+      "EZR.4:17",
+      "EZR.5:7",
+      "EZR.8:16",
+      "EZR.8:21",
+      "EZR.8:28",
+      "EZR.9:11",
+      "EZR.9:7",
+      "EZR.9:8"
+    ],
+    "note_anchor_gaps": [
+      "EZR.10:10",
+      "EZR.10:19",
+      "EZR.1:7",
+      "EZR.2:63",
+      "EZR.2:68",
+      "EZR.3:12",
+      "EZR.3:8",
+      "EZR.4:12",
+      "EZR.4:17",
+      "EZR.5:7",
+      "EZR.8:16",
+      "EZR.8:21",
+      "EZR.8:28",
+      "EZR.9:11",
+      "EZR.9:7",
+      "EZR.9:8"
+    ],
+    "issue_count": 34
+  },
+  "wikilinks": {
+    "total_refs": 35,
+    "convertible_refs": 0,
+    "already_linked_refs": 35,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 3,
+      "matched_entities": [
+        {
+          "line_number": 238,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "determine the people's obedience to the law of... God, just as Peter and the other"
+        },
+        {
+          "line_number": 288,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "seen as detrimental to the purity of the Jewish people. St. Paul warns, \"Do not be"
+        },
+        {
+          "line_number": 288,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "seen as detrimental to the purity of the Jewish people. St. Paul warns, \"Do not be"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 2,
+        "PETER_APOSTLE": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 0,
+    "matched_entities": [],
+    "entity_counts": {},
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

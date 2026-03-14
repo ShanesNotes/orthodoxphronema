@@ -79,13 +79,13 @@ Him to offer, no offering can be made. Apart from Him, no sacrifice is acceptabl
 
 careful observation of Israel's Old Testament service of worship. A life was given to God and that life was in the blood of the animal offered. It was
 
-acceptable to God as atonement for the offerer. Its fulfillment is made known in Heb
+acceptable to God as atonement for the offerer. Its fulfillment is made known in [[HEB.9:11]]-22.
 
 
 ### 9:11
 *(anchor: LEV.9:11)*
 
--22. Verse 14 clearly shows the role of the blood of Christ in giving people access to
+Verses 14-22 clearly show the role of the blood of Christ in giving people access to
 
 the Holy Trinity: "How much more shall the blood of Christ, who through the eternal
 
@@ -105,7 +105,9 @@ The burnt offering was a sweet aroma to the Father. This aroma speaks of the lov
 
 Christ in giving Himself as an offering and sacrifice for us, for no aroma is sweeter to the
 
-Father than this. When we walk in this love, we, too, are a sweet aroma to Him ([[EPH.5:2]]). 2:1 Offerings were gifts in order to gain the grace of the one to whom the gift was offered
+Father than this. When we walk in this love, we, too, are a sweet aroma to Him ([[EPH.5:2]]).
+
+2:1 Offerings were gifts in order to gain the grace of the one to whom the gift was offered
 
 ([[GEN.32:13]]-21). So it was imperative that the offering be acceptable to the one receiving it. Likewise in Leviticus, gifts acceptable to God were carefully prescribed to Israel. The grain offering of cultivated wheat milled into fine flour was offered as the fruit of
 
@@ -181,13 +183,17 @@ offering. Christ Himself is our peace offering ([[EPH.2:14]]; [[COL.1:20]]), and
 
 are reconciled to God and one another in peace. Through Him we also offer our entire self
 
---body and soul--to God, with whom we find peace ([[ROM.5:1]], [[ROM.5:10]]). 3:3-5
+--body and soul--to God, with whom we find peace ([[ROM.5:1]], [[ROM.5:10]]).
+
+3:3-5
 
 Portions of the animal were offered as a burnt offering to God, but in the new
 
 covenant we are to offer all the members of our body to Him in the service of
 
-righteousness and holiness ([[ROM.6:19]]; 12:1; GrgTheo; Nic). 3:8
+righteousness and holiness ([[ROM.6:19]]; [[ROM.12:1]]; GrgTheo; Nic).
+
+3:8
 
 The sacrificial animal was to be killed before the doors of the tabernacle of
 
@@ -203,7 +209,9 @@ altar ([[HEB.9:11]]-24). The Church worships in heaven, for worship is heaven on
 
 wine of the Eucharist become in a mystery the body and blood of Christ, His very blood
 
-sprinkled on the heavenly altar. 3:16
+sprinkled on the heavenly altar.
+
+3:16
 
 Anyone eating the fat portions of the offered animal was cut off from his people. The
 
@@ -225,7 +233,9 @@ arrogance, whether he is native-born or a resident alien, that one is provoking 
 
 he shall be utterly destroyed from among His people" ([[NUM.15:30]]). Willful sins were sins
 
-committed with knowledge of the Law. But in Christ all sins are remitted--voluntary sins, involuntary sins, and sins in thought, word, and deed--if there is appropriate repentance. 4:3 A Levitical priest is called the anointed priest. Anointed is the word from which the
+committed with knowledge of the Law. But in Christ all sins are remitted--voluntary sins, involuntary sins, and sins in thought, word, and deed--if there is appropriate repentance.
+
+4:3 A Levitical priest is called the anointed priest. Anointed is the word from which the
 
 name Christ is derived. "Moses was the first to make known the name Christ as being
 
@@ -255,7 +265,9 @@ priesthood need more assistance, that is, as great as those of all the people to
 
 those of the entire Church. The priesthood therefore has the awesome responsibility of
 
-living a holy life. 4:6-17 The blood was also treated differently in the variations of the sin offering--those for
+living a holy life.
+
+4:6-17 The blood was also treated differently in the variations of the sin offering--those for
 
 the anointed priest, the whole congregation, etc. In the case of the priest and the whole
 
@@ -285,7 +297,9 @@ also, that He might sanctify the people with His own blood, suffered outside the
 
 wrote about Me" ([[JOH.5:46]]). Thus, according to His own words, the sin offering in
 
-Leviticus is about Himself. 4:13-21 There is such a thing as corporate sin. Here, the whole congregation of Israel sins
+Leviticus is about Himself.
+
+4:13-21 There is such a thing as corporate sin. Here, the whole congregation of Israel sins
 
 (see also [[NUM.15:22]]-26). This typified the Church in the new covenant. Why? Because
 
@@ -313,7 +327,9 @@ the people: "Let every soul be subject to the governing authorities. For there i
 
 authority except from God, and the authorities that exist are appointed by God. Therefore
 
-whoever resists the authority resists the ordinance of God" ([[ROM.13:1]], [[ROM.13:2]]). 4:27-35 Though the common people are less accountable before God for their sins, more is
+whoever resists the authority resists the ordinance of God" ([[ROM.13:1]], [[ROM.13:2]]).
+
+4:27-35 Though the common people are less accountable before God for their sins, more is
 
 said about their individual offerings than those of priest, the entire congregation together, or a ruler. The sin offerings of the individuals make up the greater part of all sin offerings
 
@@ -331,13 +347,13 @@ animal, or an animal killed by a wild animal, or unclean carcasses of creeping t
 
 the unclean carcasses of cattle, or any human uncleanness--was sin. This uncleanness
 
-was a type of uncleanness relating to both soul and body. [[ROM.1:23]]-32; [[GAL.5:18]]-21; Eph
-
-5:3-5 list examples of such uncleanness. Under the new covenant, to live an unclean life in body and soul is contrary to the
+was a type of uncleanness relating to both soul and body. [[ROM.1:23]]-32; [[GAL.5:18]]-21; [[EPH.5:3]]-5 list examples of such uncleanness. Under the new covenant, to live an unclean life in body and soul is contrary to the
 
 teachings of Christ ([[EPH.4:19]], [[EPH.4:20]]). Therefore, we must not touch what is unclean, but if
 
-we do, we must cleanse ourselves to be acceptable to the Father (2Co 6:17-7:1). 5:6
+we do, we must cleanse ourselves to be acceptable to the Father (2Co 6:17-7:1).
+
+5:6
 
 Involuntary sin committed contrary to the Mosaic Law--such as failing to give
 
@@ -351,7 +367,9 @@ voluntary or involuntary, is to be confessed to God, and He is faithful and righ
 
 forgive and cleanse the confessor. If we genuinely confess our known sins, He even
 
-forgives and cleanses the unknown ones as we walk in the light ([[1JN.1:7]]-9). The priest would make atonement for the sinner, that is, reconcile him with God. This
+forgives and cleanses the unknown ones as we walk in the light ([[1JN.1:7]]-9).
+
+The priest would make atonement for the sinner, that is, reconcile him with God. This
 
 speaks of Christ, our Great High Priest, who is now in the heavenly holy of holies
 
@@ -381,7 +399,9 @@ poverty is no justification for sinning against a neighbor. Nor do the rich have
 
 for transgressions. But God's law is fulfilled through love of neighbor, whether they are
 
-rich or poor. 5:24-26 Full restoration was to be made, with one-fifth more added to it. This restoration
+rich or poor.
+
+5:24-26 Full restoration was to be made, with one-fifth more added to it. This restoration
 
 evidenced at least two things on the part of the offender. It showed genuine repentance
 
@@ -391,7 +411,9 @@ offering was then brought and the sin atoned for. Zacchaeus made full restitutio
 
 and love on his part. Thus, the Lord said of him, "Today salvation has come to this house"
 
-([[LUK.19:9]]). Jesus also, for His part, made full restitution for sins and trespasses plus onefifth more, through the cross. 6:9
+([[LUK.19:9]]). Jesus also, for His part, made full restitution for sins and trespasses plus onefifth more, through the cross.
+
+6:9
 
 The fire on the bronze altar was to burn continually. The priests were to be sure the
 
@@ -403,7 +425,9 @@ burnt offering. In the new covenant, it is the same--the same open door for unin
 
 worship of God and fellowship with Him--but now based on the sacrifice of Christ for our
 
-sins as its fulfilled foundation. 6:12-16 The grain offering to be baked is offered as integral to the burnt offering (see ch. 2). The daily morning and evening offerings--both the burnt and grain offerings--were
+sins as its fulfilled foundation.
+
+6:12-16 The grain offering to be baked is offered as integral to the burnt offering (see ch. 2). The daily morning and evening offerings--both the burnt and grain offerings--were
 
 offered together. This action was a type of the work of our hands being offered and made
 
@@ -419,13 +443,17 @@ did not directly receive from the people what was theirs. He received back somet
 
 prescribed by God of what had been given to God. Even when the priest eats of the
 
-offering, he partakes of something belonging to God. In the new covenant, this is true of the clergy and of all the people of the Church--
+offering, he partakes of something belonging to God.
+
+In the new covenant, this is true of the clergy and of all the people of the Church--
 
 themselves members of the royal priesthood--when they partake of the food of God, the
 
 eucharistic feast. The bread and the wine are given to God and given back to the people as
 
-the body and blood of Christ. 6:17-23
+the body and blood of Christ.
+
+6:17-23
 
 Instructions were given regarding specific parts of the sin offering. These were
 
@@ -487,11 +515,15 @@ prevent corruption, anything left was totally burned with fire. But in Jesus the
 
 fear of corruption, for He is the living bread. Thus, having leaven in the bread of the
 
-Eucharist is no longer feared. 7:19-22 Cleansing was an essential condition for eating the sacrifice. In the new covenant, the blood of Christ in the Eucharist cleanses those who walk in the light with God: "If we
+Eucharist is no longer feared.
+
+7:19-22 Cleansing was an essential condition for eating the sacrifice. In the new covenant, the blood of Christ in the Eucharist cleanses those who walk in the light with God: "If we
 
 walk in the light as He is in the light, we have fellowship with one another, and the blood
 
-of Jesus Christ His Son cleanses us from all sin" ([[1JN.1:7]]). 7:29, 30 The offerer himself was to offer up the gift from the peace offering. In the new
+of Jesus Christ His Son cleanses us from all sin" ([[1JN.1:7]]).
+
+7:29, 30 The offerer himself was to offer up the gift from the peace offering. In the new
 
 covenant, Christ Himself is both the offerer and the gift offered on behalf of the Church. He also accepts the gift of Himself and distributes it to the faithful in the Eucharist: "For
 
@@ -535,13 +567,17 @@ anoints others with the Holy Spirit. Then why was He anointed with the Holy Spir
 
 baptism ([[MAT.3:16]])? First, to identify the Holy Spirit as One of the Holy Trinity, and
 
-second, for our sakes, that He might anoint us with the Holy Spirit when we are baptized. 8:14 [[LEV.8:14]], [[LEV.8:18]], [[LEV.8:22]]: Aaron and his sons laid their hands on the heads of these offerings. This typified Christ, the Great High Priest, who both offered and was offered for our
+second, for our sakes, that He might anoint us with the Holy Spirit when we are baptized.
+
+8:14 [[LEV.8:14]], [[LEV.8:18]], [[LEV.8:22]]: Aaron and his sons laid their hands on the heads of these offerings. This typified Christ, the Great High Priest, who both offered and was offered for our
 
 reconciliation with God ([[HEB.10:12]]). For since He is God, He offered Himself. He was
 
 also offered by the Father ([[HEB.9:28]]) and by the Holy Spirit ([[HEB.9:14]]). Therefore, although Christ alone was the sacrifice, the Holy Trinity was involved in the
 
-reconciliation of man. 8:15 [[LEV.8:15]], [[LEV.8:19]], [[LEV.8:23]], [[LEV.8:24]]: The blood of the sacrifices was connected with the altar of whole
+reconciliation of man.
+
+8:15 [[LEV.8:15]], [[LEV.8:19]], [[LEV.8:23]], [[LEV.8:24]]: The blood of the sacrifices was connected with the altar of whole
 
 burnt offering and the priests themselves. This typified the Great High Priest, who took
 
@@ -573,7 +609,9 @@ Spirit. The entire work of the Holy Spirit is accomplished in and through the In
 
 Christ in His Incarnation and the works of the Holy Spirit are in the sacraments of the
 
-Church. This is why the sacraments save us. 9:2-21 Four offerings were prescribed by the Lord to initiate the tabernacle service: a sin
+Church. This is why the sacraments save us.
+
+9:2-21 Four offerings were prescribed by the Lord to initiate the tabernacle service: a sin
 
 offering, a whole burnt offering, a grain offering, and a peace offering, all in that order. The sin offering speaks of reconciliation with God ([[ROM.5:10]]); the whole burnt offering, of the full surrender of a life to God ([[ROM.12:1]], [[ROM.12:2]]); the grain offering, of the works of our
 
@@ -1315,7 +1353,9 @@ aspects of His ministry. In this chapter sundry rules for the Aaronic priesthood
 
 the priest was a type of Him. Therefore, a higher standard was set for him than for the
 
-laity. 21:1-3 The defilement referred to here was the ceremonial defilement of a person resulting
+laity.
+
+21:1-3 The defilement referred to here was the ceremonial defilement of a person resulting
 
 from contact with a dead body. The priest was permitted to touch the dead bodies only of
 

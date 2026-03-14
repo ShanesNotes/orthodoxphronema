@@ -1,0 +1,17 @@
+{
+  "generated": "2026-03-14",
+  "profile": "canon",
+  "format": "text",
+  "applied": false,
+  "summary": {
+    "total_findings": 0,
+    "auto_fixable": 0,
+    "review_needed": 0,
+    "files_checked": 1,
+    "lines_checked": 1531,
+    "lines_fixed": 0
+  },
+  "by_category": {},
+  "by_file": {},
+  "findings": []
+}

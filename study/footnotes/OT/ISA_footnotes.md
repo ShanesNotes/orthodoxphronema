@@ -101,13 +101,8 @@ in baptism.
 ### 5:1
 *(anchor: ISA.5:1)*
 
-The song of the vineyard is similar to Jewish harvest songs used on feast days. In Jn
-
-
-### 15:1
-*(anchor: ISA.15:1)*
-
--6, Christ calls Himself "the true vine"; His Father "the vinedresser"; and those who
+The song of the vineyard is similar to Jewish harvest songs used on feast days. In
+[[JOH.15:1]]-6, Christ calls Himself "the true vine"; His Father "the vinedresser"; and those who
 
 are grafted, "the branches."
 
@@ -117,33 +112,42 @@ The prophet Isaiah describes their sins: greed (v. 8); love of pleasure (v. 11);
 
 of truth (v. 20); vanity and conceit (v. 21); dishonesty (v. 23); and finally, rejecting God's
 
-law and despising His word (v. 24). 5:26-30 These verses describe the historical consequences of the sins laid out in vv. 8-23. 6:1
+law and despising His word (v. 24).
+
+5:26-30 These verses describe the historical consequences of the sins laid out in vv. 8-23.
+
+6:1
 
 The year King Uzziah died: Certain biblical scholars date this event at 734 BC. The
 
-Fathers teach that the sins of the king caused prophecy to cease for a time (see 2Ch
+Fathers teach that the sins of the king caused prophecy to cease for a time (see
+[[2CH.26:18]]ff).
 
-
-### 26:18
-*(anchor: ISA.26:18)*
-
-ff). 6:6, 7
+6:6, 7
 
 A live coal touching the mouth: Isaiah experiences a symbol of the Eucharist, which is taken from the altar to be served to the faithful. In fact, after an Orthodox priest
 
-receives communion, he quietly quotes the seraphim's proclamation (v. 7). 6:1-6
+receives communion, he quietly quotes the seraphim's proclamation (v. 7).
+
+6:1-6
 
 Isaiah's vision has strongly influenced the development of Orthodox Christian
 
-worship. For the Church, like heaven, has an altar, a throne, smoke from the incense, and believers singing "Holy, holy, holy," the Thrice-Holy Hymn. 6:9-13
+worship. For the Church, like heaven, has an altar, a throne, smoke from the incense, and believers singing "Holy, holy, holy," the Thrice-Holy Hymn.
+
+6:9-13
 
 People sin by choice, not by nature, volitionally stopping their ears and closing
 
-their eyes. 7:3-4 The Hebrew phrase Shear-Jashub means, "A remnant shall return." Thus, Isaiah's
+their eyes.
+
+7:3-4 The Hebrew phrase Shear-Jashub means, "A remnant shall return." Thus, Isaiah's
 
 son is a symbolic confirmation to King Ahaz of the Lord's promise to heal and save a
 
-remnant. The firebrands are an expression of contempt for the kings of Israel and Syria, but they will do no permanent damage. 7:13-16 The sign was not given to Ahaz, who had doubted the earlier prophecy, but to all
+remnant. The firebrands are an expression of contempt for the kings of Israel and Syria, but they will do no permanent damage.
+
+7:13-16 The sign was not given to Ahaz, who had doubted the earlier prophecy, but to all
 
 the Hebrew people (JohnChr). This messianic prophecy is fulfilled when the virgin Mary
 
@@ -153,23 +157,35 @@ virgin, shut off from the occasional sight of men" (Jerome). The Greek word used
 
 LXX is parthenos, which means "virgin." Immanuel, meaning "God with us," refers to
 
-Christ's divine nature. Messiah coming as a Child (v. 16) refers to His human nature. 7:23-25
+Christ's divine nature. Messiah coming as a Child (v. 16) refers to His human nature.
+
+7:23-25
 
 The Jews should have been rich and fruitful, but in their rebellion and
 
 disobedience they became barren. Nevertheless, after God has chastised them, He will
 
-restore them to good pasture. 8:1
+restore them to good pasture.
 
-Here God uses three different methods to declare His prophetic warning to the people: the book, the two witnesses, and Isaiah's son. The prophetess is Isaiah's wife. 8:11-15 Those who fear God will not know Christ as a stumbling stone when He comes, but those who succumb to the enemy will fall and be broken against Christ, the
+8:1
 
-"precious cornerstone" (see 28:16; [[ROM.9:33]]). 8:16
+Here God uses three different methods to declare His prophetic warning to the people: the book, the two witnesses, and Isaiah's son. The prophetess is Isaiah's wife.
 
-The law given to Moses will be closed with the teachings of the apostles. 8:17-18
+8:11-15 Those who fear God will not know Christ as a stumbling stone when He comes, but those who succumb to the enemy will fall and be broken against Christ, the
+
+"precious cornerstone" (see 28:16; [[ROM.9:33]]).
+
+8:16
+
+The law given to Moses will be closed with the teachings of the apostles.
+
+8:17-18
 
 The children are interpreted as Christ's apostles and disciples, who performed
 
-many signs and wonders. 8:19
+many signs and wonders.
+
+8:19
 
 Compare the prophet's question, Why do they seek the dead on behalf of the
 
@@ -181,7 +197,9 @@ good and avoid the evil--but they chose selfishness. Then God gave the law of Mo
 
 it too was broken. Great darkness falls upon the soul that is without the light of the
 
-commandments. 9:3
+commandments.
+
+9:3
 
 The day of Midian refers to the defeat of the Midianites by Gideon and his men
 
@@ -189,11 +207,15 @@ without the use of weapons (see [[JDG.7:9]]-25). These men prefigure the apostle
 
 spread the gospel throughout the world with only "the weapons of peace," the preaching
 
-of the Cross. 9:5
+of the Cross.
+
+9:5
 
 A Child is born speaks of Christ's human nature; and a Son is given unites His two
 
-natures in one Person. The Son of God is also the Son of the Virgin. 9:8-4 The prophet warns of God's judgment against Israel's pride and arrogance (9:8); its elder and prophet who teaches lawlessness (9:14, 15); its self-destruction
+natures in one Person. The Son of God is also the Son of the Virgin.
+
+9:8-10:4 The prophet warns of God's judgment against Israel's pride and arrogance (9:8); its elder and prophet who teaches lawlessness (9:14, 15); its self-destruction
 
 through civil conflicts (9:18-20); and its judicial leaders (10:1, 2). This section is laid out
 
@@ -209,21 +231,31 @@ siege on Jerusalem. He also reminds the people that God, not Assyria, controls h
 
 (v. 14). The Light of Israel (v. 17) that will sanctify God's people speaks poetically of the
 
-Holy Spirit. 10:24-27 The Assyrian king attempted to attack Egypt by way of the coastline and failed. In this way, the yoke that was threatening Jerusalem was destroyed. 11:2-5 At the Baptism of Christ, the Holy Spirit... shall rest upon Him (see [[MAT.3:16]]). The righteous and faithful Messiah will judge people by what is in their hearts; His
+Holy Spirit.
+
+10:24-27 The Assyrian king attempted to attack Egypt by way of the coastline and failed. In this way, the yoke that was threatening Jerusalem was destroyed.
+
+11:2-5 At the Baptism of Christ, the Holy Spirit... shall rest upon Him (see [[MAT.3:16]]). The righteous and faithful Messiah will judge people by what is in their hearts; His
 
 teachings shall strike the earth; and His breath--a metaphor for the Holy Spirit--will
 
-destroy the ungodly. 11:6-9
+destroy the ungodly.
+
+11:6-9
 
 The uncreated Son of God will assume created human flesh, restoring the
 
 relationship with Him that mankind lost as a result of the Fall (see [[ROM.8:19]]-23). The
 
-whole world shall be filled with the knowledge of the Lord. 11:10 His resting place is interpreted by some of the Fathers to be the tomb of Christ, an
+whole world shall be filled with the knowledge of the Lord.
+
+11:10 His resting place is interpreted by some of the Fathers to be the tomb of Christ, an
 
 honorable place of veneration. It is also true that Christ finds His "rest" in His saints, in
 
-whom He dwells. 11:11-12 Salvation will come first to the Jewish remnant, and then to Gentiles... from
+whom He dwells.
+
+11:11-12 Salvation will come first to the Jewish remnant, and then to Gentiles... from
 
 the four corners of the earth (see [[ACT.1:8]]; [[ROM.1:16]]). The teaching of the apostles
 
@@ -231,13 +263,19 @@ will spread like a mighty wind, destroying idols and correcting error, even into
 
 Cross is the sign. Our Lord said, "And I, if I am lifted up from the earth, will draw all
 
-peoples to Myself" ([[JOH.12:32]]). 11:16
+peoples to Myself" ([[JOH.12:32]]).
+
+11:16
 
 The highway that once led Israel out of captivity in Egypt will later be opened for
 
 Mary and Joseph to bring the Child there for protection from Herod, and for the apostles
 
-to return there with the Gospel of Christ. 12:4-6 Compare this song of praise to the Song of Mary in [[LUK.1:45]]-55. 13:1-22 This passage has several layers of meaning: (1) It prophesies the ultimate downfall
+to return there with the Gospel of Christ.
+
+12:4-6 Compare this song of praise to the Song of Mary in [[LUK.1:45]]-55.
+
+13:1-22 This passage has several layers of meaning: (1) It prophesies the ultimate downfall
 
 of Babylon; (2) it prophesies Christ's Passion and Resurrection, when Christ will be lifted
 
@@ -245,7 +283,9 @@ up on the cross and the hosts of heaven will gather to battle the powers of dark
 
 (compare vv. 9-13 to [[MAT.27:51]]-54; [[LUK.23:44]], [[LUK.23:45]]); (3) it describes the anger of Christ at
 
-the Last Judgment. 13:19-22
+the Last Judgment.
+
+13:19-22
 
 Babylon was a glorious city which will be utterly destroyed. It is also a
 
@@ -255,7 +295,9 @@ they often function as symbols of rebellion against divine order and hostility t
 
 civilization. The phrase is usually translated "wild beast" and is likely a symbol for
 
-demons. 14:1, 2
+demons.
+
+14:1, 2
 
 In 586 BC, Cyrus of Persia allowed Israel to return home in their land and
 
@@ -263,7 +305,9 @@ rebuild the temple in Jerusalem. The sojourner--the Gentiles--will be added to
 
 Israel, the Jews, when the Church is established (see [[ROM.11:23]]). 14:4
 
-The king of Babylon is compared to Lucifer (v. 12) or Satan. 14:12-14 Note the five times Lucifer says I will in this passage. In this five-step process, he fully intends to take the place of the One True God! Likely the mountains toward
+The king of Babylon is compared to Lucifer (v. 12) or Satan.
+
+14:12-14 Note the five times Lucifer says I will in this passage. In this five-step process, he fully intends to take the place of the One True God! Likely the mountains toward
 
 the north are those to the north and east of Jerusalem. 14:32
 
@@ -275,13 +319,21 @@ humble of His people shall be saved. 15:1
 
 The night is a metaphor for spiritual blindness, and Moab is a metaphor for souls
 
-lost in a land of darkness. 16:1, 2 The idolaters of Moab who mocked the God of Israel have now been taken away, while Mount Zion is a protected rock. 16:4-5
+lost in a land of darkness.
+
+16:1, 2 The idolaters of Moab who mocked the God of Israel have now been taken away, while Mount Zion is a protected rock.
+
+16:4-5
 
 The Moabite outcasts are a type of the Gentiles who will abandon their idols to
 
 worship Christ. Eusebius interprets the tabernacle of David as the Church of Christ
 
-established in Moab, which is modern-day Jordan. 17:1-3 Tiglath-Pileser III of Assyria conquered Damascus in 732 BC (see 4Kg 16). 17:8
+established in Moab, which is modern-day Jordan.
+
+17:1-3 Tiglath-Pileser III of Assyria conquered Damascus in 732 BC (see [[2KI.16]]).
+
+17:8
 
 Their trees is a reference to the cult of Asherim, which worshiped wooden poles. 17:9
 
@@ -297,7 +349,9 @@ first messengers to bring Christ to this region were the Holy Family (see [[MAT.
 
 Before the... harvest, God will use the Assyrians as sickles to force the vine to
 
-produce grapes. The branches that are cut off will be discarded (see [[JOH.15:1]]-8). 19:2-15 This prophecy was fulfilled historically a few years later in 714 BC, when Piankhi's
+produce grapes. The branches that are cut off will be discarded (see [[JOH.15:1]]-8).
+
+19:2-15 This prophecy was fulfilled historically a few years later in 714 BC, when Piankhi's
 
 25th Dynasty rose to power, causing widespread domestic strife in Egypt. 20:1
 
@@ -309,7 +363,9 @@ Isaiah's shame is a sign of the greater shame that will befall Egypt and Ethiopi
 
 ministered on earth three years and fulfilled all by hanging naked on the Cross--the
 
-shameful death that put death to shame. 21:6-12 A watchman is appointed to guard a city. Similarly, a Christian must remain ever
+shameful death that put death to shame.
+
+21:6-12 A watchman is appointed to guard a city. Similarly, a Christian must remain ever
 
 vigilant to guard the soul against the onslaught of sin. 21:9
 
@@ -317,11 +373,15 @@ When the Assyrians conquered Babylon in 689 BC, they smashed the idols of the
 
 Babylonians. This verse can be interpreted to mean that God uses even adversity to
 
-destroy sin. 22:1-5 A prophetic scene of anarchy unfolds: the people wander in the Valley of Zion (v. 5). Panic, fear, cowardice, and chaos overtake them. They refuse to seek refuge in Mount
+destroy sin.
+
+22:1-5 A prophetic scene of anarchy unfolds: the people wander in the Valley of Zion (v. 5). Panic, fear, cowardice, and chaos overtake them. They refuse to seek refuge in Mount
 
 Zion and run to worthless houses instead (v. 1). Jerusalem fell to the Assyrians, and
 
-the people were taken captive into Babylon in 587 BC. 22:12-13 The enemy is at Jerusalem's gates, yet the people answer the call of the Lord of
+the people were taken captive into Babylon in 587 BC.
+
+22:12-13 The enemy is at Jerusalem's gates, yet the people answer the call of the Lord of
 
 hosts for repentance by throwing a drunken feast. "For the kingdom of God is not eating
 
@@ -337,15 +397,21 @@ administration, Eliakim too would fall (v. 25). 23:1-4
 
 Tyre and Sidon were the leading coastal cities of Phoenicia (modern Lebanon). Carthage, a city in North Africa, was founded by Tyre and maintained commercial
 
-relations with them and with the Citaeans (Cyprus). 23:7-9 The Lord will judge Tyre and Sidon (v. 4) because of their arrogance. Eventually, the Light of Christ will come to Tyre and Sidon, and multitudes from there will follow
+relations with them and with the Citaeans (Cyprus).
 
-Him (see [[MRK.3:8]]). 23:17-18 Seventy years: Even though the people of Tyre had been sinning against God
+23:7-9 The Lord will judge Tyre and Sidon (v. 4) because of their arrogance. Eventually, the Light of Christ will come to Tyre and Sidon, and multitudes from there will follow
+
+Him (see [[MRK.3:8]]).
+
+23:17-18 Seventy years: Even though the people of Tyre had been sinning against God
 
 for "a multitude of generations," God, in His mercy, will limit His chastisement to one
 
 man's lifetime (Theod). This prophecy was fulfilled in full when the Church was
 
-established in Tyre (see [[ACT.21:3]]-5). 24:1-6
+established in Tyre (see [[ACT.21:3]]-5).
+
+24:1-6
 
 The Fathers associate this chapter with the end of this present age. At the Last
 
@@ -353,7 +419,9 @@ Judgment, the inhabited earth in its desolate state will, in effect, be turned r
 
 up, for "the last will be first, and the first last" ([[MAT.20:16]]). The curse has alienated all of
 
-creation from the Creator. God intended for man to offer up creation to Him, but instead, man has plundered the world (v. 3; see also [[ROM.8:18]]-22). 24:14-17
+creation from the Creator. God intended for man to offer up creation to Him, but instead, man has plundered the world (v. 3; see also [[ROM.8:18]]-22).
+
+24:14-17
 
 This passage is also a picture of the Book of Acts, where the apostles will cry
 
@@ -361,11 +429,15 @@ aloud, proclaiming the name of the Lord wherever they go. The islands are the
 
 churches that will be established in the midst of the sea of lost humanity, rejecters of
 
-the natural law written on their hearts (see [[ROM.2:14]], [[ROM.2:15]]). 24:18
+the natural law written on their hearts (see [[ROM.2:14]], [[ROM.2:15]]).
+
+24:18
 
 God will shake the heavens and the earth "that the things which cannot be shaken
 
-may remain" ([[HEB.12:26]], [[HEB.12:27]]). 24:21-23 At the end of the age, God will bring His hand upon those who will not be
+may remain" ([[HEB.12:26]], [[HEB.12:27]]).
+
+24:21-23 At the end of the age, God will bring His hand upon those who will not be
 
 humbled of their own free will. 25:1
 
@@ -393,7 +465,9 @@ resurrected Christ and cries out, "My Lord and my God!" ([[JOH.20:28]]). 25:10-1
 
 The King of Glory will spread forth His hands upon the cross in order to
 
-humble the arrogance of all men. 26:5-6 Compare with what Virgin Mary sings in her hymn: "He has put down the mighty
+humble the arrogance of all men.
+
+26:5-6 Compare with what Virgin Mary sings in her hymn: "He has put down the mighty
 
 from their thrones, / And exalted the lowly" ([[LUK.1:52]]). 26:7-8
 
@@ -686,7 +760,9 @@ Shebna and Eliakim are mentioned in ch. 22.
 ### 36:4
 *(anchor: ISA.36:4)*
 
-The Rabshakeh was a chief officer in the Assyrian army. 36:4-6 The Rabshakeh warns that the time for diplomacy has passed, and that Egypt, weak
+The Rabshakeh was a chief officer in the Assyrian army.
+
+36:4-6 The Rabshakeh warns that the time for diplomacy has passed, and that Egypt, weak
 
 as a broken reed, will be more likely to hurt than help Judah. The situation for
 
@@ -842,7 +918,9 @@ conquer Babylon in 539 BC, allowing the captive Jews to return and rebuild the t
 
 I Am, repeated twenty-seven times in chs. 41-49, means "I am the existing One."
 
-This phrase is traditionally written in Greek in Christ's halo on Orthodox icons (OWN). This is how the Son and Word of God revealed Himself to Moses ([[EXO.3:14]]). 
+This phrase is traditionally written in Greek in Christ's halo on Orthodox icons as ho on,
+"the Existing One." This is how the Son and Word of God revealed Himself to Moses
+([[EXO.3:14]]). 
 
 ### 41:5-7
 *(anchor: ISA.41:5)*
@@ -1197,7 +1275,7 @@ is the message St. Paul proclaims in [[2CO.5:21]].
 ### 53:7
 *(anchor: ISA.53:7)*
 
-"The shepherd of Israel, and now of the whole world also" (GrgNa) became "the
+"The shepherd of Israel, and now of the whole world also" (GrgTheo) became "the
 
 Lamb of God who takes away the sin of the world" ([[JOH.1:29]]). 
 

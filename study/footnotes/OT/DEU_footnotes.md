@@ -125,7 +125,9 @@ were the children of God. On what basis are people the children of God? The basi
 
 among the children of Israel or the children of Esau who rejected this faith would not be
 
-the children of God. 2:7 The generation that died in the desert had no excuse for not believing the Lord, nor did
+the children of God.
+
+2:7 The generation that died in the desert had no excuse for not believing the Lord, nor did
 
 the new generation about to enter the land of promise. For the Lord blessed them over
 
@@ -133,7 +135,9 @@ the forty-year period in spite of their unbelief. They lacked nothing. God's gra
 
 and stubborn. Yet this hardness and stubbornness is of their own free will, for He never
 
-forces anyone to respond in faith. But He does make them the offer of peace. 3:28 The name Joshua in the Hebrew language of the Old Testament was translated into
+forces anyone to respond in faith. But He does make them the offer of peace.
+
+3:28 The name Joshua in the Hebrew language of the Old Testament was translated into
 
 the Greek language as Jesus. This was true in the Greek Old Testament as well as in the
 
@@ -147,7 +151,9 @@ was unable to give Israel rest in their souls ([[HEB.4:8]]). However, the Lord J
 
 yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find
 
-rest for your souls. For My yoke is easy and My burden is light" ([[MAT.11:28]]-30). Therefore, the Lord Jesus is salvation. 4:2
+rest for your souls. For My yoke is easy and My burden is light" ([[MAT.11:28]]-30). Therefore, the Lord Jesus is salvation.
+
+4:2
 
 This statement by Moses is a commandment regarding God's commandments--a
 
@@ -163,11 +169,13 @@ Jesus' day, who would "teach as doctrines the commandments of men" (Is 29:13; Mt
 ### 15:1
 *(anchor: DEU.15:1)*
 
--9). Jesus called these "the tradition of men" ([[MRK.7:8]]). But the traditions handed
+[[MAT.15:9]]). Jesus called these "the tradition of men" ([[MRK.7:8]]). But the traditions handed
 
 down in the Church by Christ and the apostles are to be kept and honored ([[1CO.11:2]]; 2Th
 
-2:15; 3:6). 4:5
+2:15; 3:6).
+
+4:5
 
 God's commandments in the Old Testament were to be taught and acted upon. Moses
 
@@ -207,7 +215,9 @@ their guard and fell into unbelief. Consequently, they died in the desert. The S
 
 4:7). The word "today" indicates that as long as we are alive, we have the hope of
 
-recovering from our fall (JohnChr). 4:12 [[DEU.4:12]], [[DEU.4:15]]-18: The divine nature has no form; only creatures have form. Therefore, no form was to be made by Israel as representing God's essence. To worship any form
+recovering from our fall (JohnChr).
+
+4:12 [[DEU.4:12]], [[DEU.4:15]]-18: The divine nature has no form; only creatures have form. Therefore, no form was to be made by Israel as representing God's essence. To worship any form
 
 that supposedly depicted God's nature would be idolatry. But the nations that surrounded
 
@@ -265,7 +275,9 @@ they were materialistic; that is, they were attached to the physical objects of 
 
 ate and drank with sinners ([[MAT.9:10]]-13), for He was their friend ([[MAT.11:19]]). This contrast
 
-between Mt. Sinai and the Incarnation is described in [[HEB.12:18]]-29. 5:6-9 The divine names Lord and God relate to I Am, because this, too, is a divine name: "I AM the Existing One" ([[EXO.3:14]]). He is the eternal God, without beginning or end, the
+between Mt. Sinai and the Incarnation is described in [[HEB.12:18]]-29.
+
+5:6-9 The divine names Lord and God relate to I Am, because this, too, is a divine name: "I AM the Existing One" ([[EXO.3:14]]). He is the eternal God, without beginning or end, the
 
 Only-begotten of the Father; "true God of true God" (Creed). Thus, Jesus said to the Jews, "Before Abraham was, I AM" ([[JOH.8:58]]). 5:9
 
@@ -285,7 +297,9 @@ and to threaten them with divine vengeance if they persisted: "knowing this: tha
 
 is not made for a righteous person, but for the lawless" ([[1TI.1:9]]). But it was also given to
 
-lead them to Christ, "the end of the law" ([[ROM.10:4]]; [[GAL.3:24]]). 5:29
+lead them to Christ, "the end of the law" ([[ROM.10:4]]; [[GAL.3:24]]).
+
+5:29
 
 The Law was not the problem; Moses was not the problem. For he had a heart to fear
 
@@ -327,7 +341,9 @@ The Lord brought them out of Egypt that He might bring them in to the land of
 
 promise. Similarly, He brings us out of our attachments to this world and into attachment
 
-to the kingdom of God. 7:1-3 The Lord would bring Israel into the land of promise by grace, which was His role in
+to the kingdom of God.
+
+7:1-3 The Lord would bring Israel into the land of promise by grace, which was His role in
 
 the covenant. Israel's role, in part, was to make no covenant with them (v. 2), nor to
 
@@ -341,7 +357,9 @@ it belongs to divine grace to give us opportunities of salvation and prosperous
 
 undertakings and victory; but that it is ours to follow up the blessings God gives us with
 
-either earnestness or indifference" (JohnCas). 7:7-8 Since they were chosen because of God's love for them and His oath to their fathers, it is obvious they were not chosen because of their own deeds, but by the grace of God. Therefore, they had no basis for boasting in themselves, nor do we ([[ROM.4:1]]-8). (JohnChr)
+either earnestness or indifference" (JohnCas).
+
+7:7-8 Since they were chosen because of God's love for them and His oath to their fathers, it is obvious they were not chosen because of their own deeds, but by the grace of God. Therefore, they had no basis for boasting in themselves, nor do we ([[ROM.4:1]]-8). (JohnChr)
 
 7:8
 
@@ -349,7 +367,9 @@ either earnestness or indifference" (JohnCas). 7:7-8 Since they were chosen beca
 
 its body, similarly the Son is the same in essence with the Father. Furthermore, as the
 
-Holy Fathers teach, things having the same might also have the same essence. Thus, since the Son's might is the same as the Father's, They are one in essence. 7:21-24 The nations speak of the sinful passions and how we are to war against them. We
+Holy Fathers teach, things having the same might also have the same essence. Thus, since the Son's might is the same as the Father's, They are one in essence.
+
+7:21-24 The nations speak of the sinful passions and how we are to war against them. We
 
 are to take them on one at a time by the grace of God, until we have gained the victory
 
@@ -371,7 +391,9 @@ and prosper in the land of promise. Great care was to be exercised in keeping th
 
 much more is this true under the Law of Christ in the New Testament. We are
 
-responsible through His grace to keep all His commandments. 8:2-5 The Lord dealt harshly with Israel in the desert as a test, for testing under pressure
+responsible through His grace to keep all His commandments.
+
+8:2-5 The Lord dealt harshly with Israel in the desert as a test, for testing under pressure
 
 has a way of revealing what is in the heart. The test in each case reveals obedience or
 
@@ -429,7 +451,9 @@ the victory over spiritual wickedness and fleshly sins through your own exertion
 
 energy, and free will'? For there is no doubt in all this you could not possibly have
 
-succeeded, unless you were fortified and protected by the help of the Lord" (JohnCas). 10:12-15 "God needs nothing we have to give Him, and this especially proves sincere love, when one who needs nothing and is not in any necessity, does everything for the sake of
+succeeded, unless you were fortified and protected by the help of the Lord" (JohnCas).
+
+10:12-15 "God needs nothing we have to give Him, and this especially proves sincere love, when one who needs nothing and is not in any necessity, does everything for the sake of
 
 being loved by us. So when He bids you to love Him, He then most of all shows He loves
 
@@ -439,7 +463,9 @@ To serve the Lord means to worship Him. But how can we worship the Father if we,
 
 Him only, tell me, when you have severed Him from His intimate union with His own
 
-Only-begotten and His own Spirit? This worship is simply Jewish" (BasilG). 11:8-9 The reward for keeping all the Lord's commandments under the Law of Moses was
+Only-begotten and His own Spirit? This worship is simply Jewish" (BasilG).
+
+11:8-9 The reward for keeping all the Lord's commandments under the Law of Moses was
 
 prosperity in the land of Canaan. The Law was not given for the attainment of
 
@@ -449,7 +475,9 @@ a tutor or guardian until the coming of Christ, the Giver of Life, through whom 
 
 made righteous before God ([[GAL.3:22]]-25). This righteousness is imparted in baptism
 
-([[GAL.3:26]]-29). 12:11-12 After the Jews settled in their land, they were to go to the city chosen by God to
+([[GAL.3:26]]-29).
+
+12:11-12 After the Jews settled in their land, they were to go to the city chosen by God to
 
 offer their sacrifices; they were not to offer their sacrifices anywhere else. But after the
 
@@ -457,7 +485,9 @@ coming of Christ, they were unable to do this, for Jerusalem was destroyed along
 
 temple. This destruction was proof enough that the Law had come to an end, for it was
 
-only a shadow of the kingdom to come (AthanG). 12:13-14 The whole burnt offering was a type of "the sacrifice of praise to God... giving
+only a shadow of the kingdom to come (AthanG).
+
+12:13-14 The whole burnt offering was a type of "the sacrifice of praise to God... giving
 
 thanks to His name" ([[HEB.13:15]]). "Now what is a spiritual whole burnt offering? It is 'the
 
@@ -471,7 +501,9 @@ follows that the Spirit is truly the place of the saints, and the saint is the p
 
 the Spirit, offering himself as he does for the indwelling of God, and is called God's
 
-temple" (BasilG). 13:1-4 The truth does not allow room for human tradition to change it, either by addition
+temple" (BasilG).
+
+13:1-4 The truth does not allow room for human tradition to change it, either by addition
 
 or by subtraction. False prophets arise among the people of God, and the Lord permits
 

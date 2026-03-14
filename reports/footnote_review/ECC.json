@@ -1,0 +1,180 @@
+{
+  "book_code": "ECC",
+  "position": 26,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/ECC_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 60,
+      "auto_fixable": 0,
+      "review_needed": 60,
+      "files_checked": 1,
+      "lines_checked": 145,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 56,
+      "P7": 4
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "ECC",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/ECC_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/ECC_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/ECC.md",
+    "counts": {
+      "scripture_markers": 45,
+      "footnote_entries": 45,
+      "scripture_anchors": 37,
+      "valid_marker_anchors": 44,
+      "valid_note_anchors": 44
+    },
+    "invalid_marker_anchors": {
+      "ECC.6:55": "invalid_verse"
+    },
+    "invalid_note_anchors": {
+      "ECC.6:55": "invalid_verse"
+    },
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "ECC.10:15",
+      "ECC.10:4",
+      "ECC.12:5",
+      "ECC.12:8",
+      "ECC.1:12",
+      "ECC.1:14",
+      "ECC.1:15",
+      "ECC.1:2",
+      "ECC.1:8",
+      "ECC.2:13",
+      "ECC.2:24",
+      "ECC.3:14",
+      "ECC.4:10",
+      "ECC.4:12",
+      "ECC.4:13",
+      "ECC.4:8",
+      "ECC.5:14",
+      "ECC.7:16",
+      "ECC.7:18",
+      "ECC.7:20",
+      "ECC.7:26",
+      "ECC.7:5",
+      "ECC.8:11",
+      "ECC.8:15",
+      "ECC.8:8",
+      "ECC.9:11",
+      "ECC.9:14",
+      "ECC.9:4",
+      "ECC.9:7"
+    ],
+    "note_anchor_gaps": [
+      "ECC.10:15",
+      "ECC.10:4",
+      "ECC.12:5",
+      "ECC.12:8",
+      "ECC.1:12",
+      "ECC.1:14",
+      "ECC.1:15",
+      "ECC.1:2",
+      "ECC.1:8",
+      "ECC.2:13",
+      "ECC.2:24",
+      "ECC.3:14",
+      "ECC.4:10",
+      "ECC.4:12",
+      "ECC.4:13",
+      "ECC.4:8",
+      "ECC.5:14",
+      "ECC.7:16",
+      "ECC.7:18",
+      "ECC.7:20",
+      "ECC.7:26",
+      "ECC.7:5",
+      "ECC.8:11",
+      "ECC.8:15",
+      "ECC.8:8",
+      "ECC.9:11",
+      "ECC.9:14",
+      "ECC.9:4",
+      "ECC.9:7"
+    ],
+    "issue_count": 60
+  },
+  "wikilinks": {
+    "total_refs": 22,
+    "convertible_refs": 0,
+    "already_linked_refs": 22,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 208,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "18:10), and the overly wise may be likened to the wise of this world ([[1CO.1:18]]). St. Paul"
+        },
+        {
+          "line_number": 208,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "18:10), and the overly wise may be likened to the wise of this world ([[1CO.1:18]]). St. Paul"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 0,
+    "matched_entities": [],
+    "entity_counts": {},
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

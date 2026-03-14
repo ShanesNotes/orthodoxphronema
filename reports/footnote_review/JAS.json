@@ -1,0 +1,236 @@
+{
+  "book_code": "JAS",
+  "position": 69,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/JAS_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 64,
+      "auto_fixable": 0,
+      "review_needed": 64,
+      "files_checked": 1,
+      "lines_checked": 210,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 54,
+      "P7": 10
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "JAS",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/JAS_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/JAS_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/JAS.md",
+    "counts": {
+      "scripture_markers": 29,
+      "footnote_entries": 29,
+      "scripture_anchors": 108,
+      "valid_marker_anchors": 29,
+      "valid_note_anchors": 29
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 27,
+    "convertible_refs": 0,
+    "already_linked_refs": 27,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 249,
+          "entity": "MAXIMUS_CONFESSOR",
+          "matched_alias": "MaxCon",
+          "context": "As for faith by itself, 'the devils also believe, and tremble'\" (MaxCon)."
+        },
+        {
+          "line_number": 367,
+          "entity": "MAXIMUS_CONFESSOR",
+          "matched_alias": "MaxCon",
+          "context": "of Scripture: 'You ask, and do not receive, because you ask wrongly'\" (MaxCon)."
+        }
+      ],
+      "entity_counts": {
+        "MAXIMUS_CONFESSOR": 2
+      },
+      "unresolved_candidates_count": 1,
+      "unresolved_candidates": [
+        {
+          "line_number": 183,
+          "token": "IgnAnt",
+          "context": "you must be their guardian\" (IgnAnt). (3) Moral purity in thought and deed: A"
+        }
+      ],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 249,
+          "snippet": "MaxCon"
+        },
+        {
+          "line_number": 367,
+          "snippet": "MaxCon"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 12,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "James establishes his authority--not as a brother of Christ or bishop of Jerusalem--but"
+        },
+        {
+          "line_number": 23,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "but James applies it to the Church--Jewish and Gentile Christians alike--on pilgrimage."
+        },
+        {
+          "line_number": 47,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "those who ask of God, who pray to Him. While James loves God's law, for him faith is"
+        },
+        {
+          "line_number": 59,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "stable in all its ways (v. 8). While James teaches the necessity of works, for him works"
+        },
+        {
+          "line_number": 93,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "James has discussed outward trials (vv. 1-11). He now turns to inward temptations,"
+        },
+        {
+          "line_number": 163,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "James takes the Jewish notion of freedom--obedience to the Law--and applies it to"
+        },
+        {
+          "line_number": 165,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "Christ's law, His commandment to love others as He loved us. James uses the OT form in"
+        },
+        {
+          "line_number": 279,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "James reveals that [[GEN.15:6]] is fulfilled in Gn 22. This is a crucial lesson for us in our"
+        },
+        {
+          "line_number": 305,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "what we do (vv. 2-8). For James, this is a prime example of the relationship between"
+        },
+        {
+          "line_number": 307,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "faith and works, and a major locus of spiritual warfare. James even warns against"
+        },
+        {
+          "line_number": 317,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "James is also leery about us counseling others, for what is offered as wisdom can"
+        },
+        {
+          "line_number": 455,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "just prior to the anointing with oil, which explains why James writes if he has"
+        }
+      ],
+      "entity_counts": {
+        "JAMES_APOSTLE": 12
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 2,
+    "matched_entities": [
+      {
+        "line_number": 249,
+        "entity": "MAXIMUS_CONFESSOR",
+        "matched_alias": "MaxCon",
+        "context": "As for faith by itself, 'the devils also believe, and tremble'\" (MaxCon)."
+      },
+      {
+        "line_number": 367,
+        "entity": "MAXIMUS_CONFESSOR",
+        "matched_alias": "MaxCon",
+        "context": "of Scripture: 'You ask, and do not receive, because you ask wrongly'\" (MaxCon)."
+      }
+    ],
+    "entity_counts": {
+      "MAXIMUS_CONFESSOR": 2
+    },
+    "unresolved_candidates_count": 1,
+    "unresolved_candidates": [
+      {
+        "line_number": 183,
+        "token": "IgnAnt",
+        "context": "you must be their guardian\" (IgnAnt). (3) Moral purity in thought and deed: A"
+      }
+    ],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 249,
+        "snippet": "MaxCon"
+      },
+      {
+        "line_number": 367,
+        "snippet": "MaxCon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "book_code": "WIS",
+  "position": 29,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/WIS_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 69,
+      "auto_fixable": 0,
+      "review_needed": 69,
+      "files_checked": 1,
+      "lines_checked": 246,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 59,
+      "P7": 10
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "WIS",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/WIS_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/WIS_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/WIS.md",
+    "counts": {
+      "scripture_markers": 33,
+      "footnote_entries": 33,
+      "scripture_anchors": 33,
+      "valid_marker_anchors": 31,
+      "valid_note_anchors": 31
+    },
+    "invalid_marker_anchors": {
+      "WIS.12:32": "invalid_verse",
+      "WIS.19:26": "invalid_verse"
+    },
+    "invalid_note_anchors": {
+      "WIS.12:32": "invalid_verse",
+      "WIS.19:26": "invalid_verse"
+    },
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "WIS.15:15",
+      "WIS.1:13",
+      "WIS.1:4",
+      "WIS.1:5",
+      "WIS.1:7",
+      "WIS.2:12",
+      "WIS.2:18",
+      "WIS.3:10",
+      "WIS.3:13",
+      "WIS.3:9",
+      "WIS.4:17",
+      "WIS.4:2",
+      "WIS.4:20",
+      "WIS.5:17",
+      "WIS.5:5",
+      "WIS.6:11",
+      "WIS.6:12",
+      "WIS.6:15",
+      "WIS.6:16",
+      "WIS.6:17",
+      "WIS.6:24",
+      "WIS.7:2",
+      "WIS.7:4",
+      "WIS.7:6",
+      "WIS.7:7"
+    ],
+    "note_anchor_gaps": [
+      "WIS.15:15",
+      "WIS.1:13",
+      "WIS.1:4",
+      "WIS.1:5",
+      "WIS.1:7",
+      "WIS.2:12",
+      "WIS.2:18",
+      "WIS.3:10",
+      "WIS.3:13",
+      "WIS.3:9",
+      "WIS.4:17",
+      "WIS.4:2",
+      "WIS.4:20",
+      "WIS.5:17",
+      "WIS.5:5",
+      "WIS.6:11",
+      "WIS.6:12",
+      "WIS.6:15",
+      "WIS.6:16",
+      "WIS.6:17",
+      "WIS.6:24",
+      "WIS.7:2",
+      "WIS.7:4",
+      "WIS.7:6",
+      "WIS.7:7"
+    ],
+    "issue_count": 54
+  },
+  "wikilinks": {
+    "total_refs": 90,
+    "convertible_refs": 0,
+    "already_linked_refs": 90,
+    "unresolved_refs": 1,
+    "unresolved_examples": [
+      {
+        "line_number": 306,
+        "raw_text": "Gn 39-45",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 304,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "10:13-14 When Joseph was betrayed by his brothers and in a pit in Egypt, wisdom did"
+        }
+      ],
+      "entity_counts": {
+        "JOSEPH_BETROTHED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 21,
+      "matched_entities": [
+        {
+          "line_number": 20,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "According to St. Paul, Christ is \"the wisdom of God\" ([[1CO.1:24]])."
+        },
+        {
+          "line_number": 20,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "According to St. Paul, Christ is \"the wisdom of God\" ([[1CO.1:24]])."
+        },
+        {
+          "line_number": 138,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "those who are baptized into Christ ([[GAL.3:27]]). St. Paul lists similar spiritual armor in [[EPH.6:11]]-17."
+        },
+        {
+          "line_number": 138,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "those who are baptized into Christ ([[GAL.3:27]]). St. Paul lists similar spiritual armor in [[EPH.6:11]]-17."
+        },
+        {
+          "line_number": 142,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "the Lord (v. 3). St. Paul agrees in [[ROM.13:1]]-6. 6:10"
+        },
+        {
+          "line_number": 142,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "the Lord (v. 3). St. Paul agrees in [[ROM.13:1]]-6. 6:10"
+        },
+        {
+          "line_number": 293,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "St. Jude",
+          "context": "St. Jude chooses a similar word picture in describing apostates: \"late autumn trees"
+        },
+        {
+          "line_number": 293,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "St. Jude chooses a similar word picture in describing apostates: \"late autumn trees"
+        },
+        {
+          "line_number": 295,
+          "entity": "JUDE_APOSTLE",
+          "matched_alias": "Jude",
+          "context": "without fruit\" (Jude 12). The pillar of salt is a reference to Lot's unbelieving wife (Gn"
+        },
+        {
+          "line_number": 300,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Our lives are a combination of hardships and the successes of increased... fruit from our labors. Wisdom helps us through both. St. Paul encouraged Timothy to"
+        },
+        {
+          "line_number": 300,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Our lives are a combination of hardships and the successes of increased... fruit from our labors. Wisdom helps us through both. St. Paul encouraged Timothy to"
+        },
+        {
+          "line_number": 316,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "St. Peter",
+          "context": "of God (Wisdom) takes in salvation history. St. Peter records a similar history ([[2PE.2:4]]-"
+        },
+        {
+          "line_number": 316,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "of God (Wisdom) takes in salvation history. St. Peter records a similar history ([[2PE.2:4]]-"
+        },
+        {
+          "line_number": 367,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul uses this same reasoning in [[ROM.1:20]]. 13:6"
+        },
+        {
+          "line_number": 367,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul uses this same reasoning in [[ROM.1:20]]. 13:6"
+        },
+        {
+          "line_number": 369,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "On Mars Hill, St. Paul preached to those who while seeking God had gone astray"
+        },
+        {
+          "line_number": 369,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "On Mars Hill, St. Paul preached to those who while seeking God had gone astray"
+        },
+        {
+          "line_number": 375,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "13:8-9 As in 13:5, St. Paul teaches why they are not to be excused in [[ROM.1:20]], [[ROM.1:21]]."
+        },
+        {
+          "line_number": 375,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "13:8-9 As in 13:5, St. Paul teaches why they are not to be excused in [[ROM.1:20]], [[ROM.1:21]]."
+        },
+        {
+          "line_number": 411,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul also teaches that the potter makes vessels for honor and dishonor from"
+        },
+        {
+          "line_number": 411,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul also teaches that the potter makes vessels for honor and dishonor from"
+        }
+      ],
+      "entity_counts": {
+        "JUDE_APOSTLE": 3,
+        "PAUL_APOSTLE": 16,
+        "PETER_APOSTLE": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 1,
+    "matched_entities": [
+      {
+        "line_number": 304,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "10:13-14 When Joseph was betrayed by his brothers and in a pit in Egypt, wisdom did"
+      }
+    ],
+    "entity_counts": {
+      "JOSEPH_BETROTHED": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

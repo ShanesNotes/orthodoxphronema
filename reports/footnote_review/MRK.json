@@ -1,0 +1,296 @@
+{
+  "book_code": "MRK",
+  "position": 51,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/MRK_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 142,
+      "auto_fixable": 0,
+      "review_needed": 142,
+      "files_checked": 1,
+      "lines_checked": 336,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 136,
+      "P7": 6
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "MRK",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/MRK_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/MRK_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/MRK.md",
+    "counts": {
+      "scripture_markers": 72,
+      "footnote_entries": 72,
+      "scripture_anchors": 679,
+      "valid_marker_anchors": 72,
+      "valid_note_anchors": 72
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 67,
+    "convertible_refs": 0,
+    "already_linked_refs": 67,
+    "unresolved_refs": 1,
+    "unresolved_examples": [
+      {
+        "line_number": 611,
+        "raw_text": "Ps 114-117",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 9,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "John is clothed in a manner similar to that of Elijah ([[2KI.1:8]]), which helps to show"
+        },
+        {
+          "line_number": 17,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "that he fulfills the prophecy of Elijah's return (see article \"John the Baptist\")."
+        },
+        {
+          "line_number": 17,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "that he fulfills the prophecy of Elijah's return (see article \"John the Baptist\")."
+        },
+        {
+          "line_number": 225,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "John the Baptist had worked no miracles while living, Herod now believes John was"
+        },
+        {
+          "line_number": 235,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah was expected to return and work signs before the second coming of the Lord"
+        },
+        {
+          "line_number": 251,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "flashback, v. 30 picks up where v. 13 left off. The beheading of St. John is remembered in"
+        },
+        {
+          "line_number": 279,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "This verse picks up where v. 13 left off, as the story of the beheading of St. John is"
+        },
+        {
+          "line_number": 409,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah: See [[MAT.17:13]]."
+        },
+        {
+          "line_number": 531,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "John Chrysostom teaches that this is not to be understood literally, but as a figure of"
+        }
+      ],
+      "entity_counts": {
+        "ELIJAH_PROPHET": 4,
+        "JOHN_CHRYSOSTOM": 1,
+        "JOHN_FORERUNNER": 2,
+        "JOHN_THEOLOGIAN": 2
+      },
+      "unresolved_candidates_count": 2,
+      "unresolved_candidates": [
+        {
+          "line_number": 133,
+          "token": "MkAsc",
+          "context": "know will be revealed to you\" (MkAsc). See also note at [[MAT.7:2]]."
+        },
+        {
+          "line_number": 735,
+          "token": "St. Longinos",
+          "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+        }
+      ],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 7,
+      "matched_entities": [
+        {
+          "line_number": 583,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "The two disciples are Peter and John ([[LUK.22:8]])."
+        },
+        {
+          "line_number": 627,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "teach this young man was James, the brother of the Lord ([[GAL.1:19]]), while others say"
+        },
+        {
+          "line_number": 765,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "The specific mention of Peter reveals a special care for the one who had denied"
+        },
+        {
+          "line_number": 767,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Christ. In the words of Theophylact, Peter would have said of himself, \"I denied the Lord,"
+        },
+        {
+          "line_number": 769,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "and therefore am no longer His disciple.\" The angel's command is a promise that Peter is"
+        },
+        {
+          "line_number": 817,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "would include certain physical protection as well. St. Paul was bitten by a serpent and"
+        },
+        {
+          "line_number": 817,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "would include certain physical protection as well. St. Paul was bitten by a serpent and"
+        }
+      ],
+      "entity_counts": {
+        "JAMES_APOSTLE": 1,
+        "PAUL_APOSTLE": 2,
+        "PETER_APOSTLE": 4
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 9,
+    "matched_entities": [
+      {
+        "line_number": 15,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "John is clothed in a manner similar to that of Elijah ([[2KI.1:8]]), which helps to show"
+      },
+      {
+        "line_number": 17,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "that he fulfills the prophecy of Elijah's return (see article \"John the Baptist\")."
+      },
+      {
+        "line_number": 17,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "that he fulfills the prophecy of Elijah's return (see article \"John the Baptist\")."
+      },
+      {
+        "line_number": 225,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "John the Baptist had worked no miracles while living, Herod now believes John was"
+      },
+      {
+        "line_number": 235,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah was expected to return and work signs before the second coming of the Lord"
+      },
+      {
+        "line_number": 251,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "flashback, v. 30 picks up where v. 13 left off. The beheading of St. John is remembered in"
+      },
+      {
+        "line_number": 279,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "This verse picks up where v. 13 left off, as the story of the beheading of St. John is"
+      },
+      {
+        "line_number": 409,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah: See [[MAT.17:13]]."
+      },
+      {
+        "line_number": 531,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "John Chrysostom teaches that this is not to be understood literally, but as a figure of"
+      }
+    ],
+    "entity_counts": {
+      "ELIJAH_PROPHET": 4,
+      "JOHN_CHRYSOSTOM": 1,
+      "JOHN_FORERUNNER": 2,
+      "JOHN_THEOLOGIAN": 2
+    },
+    "unresolved_candidates_count": 2,
+    "unresolved_candidates": [
+      {
+        "line_number": 133,
+        "token": "MkAsc",
+        "context": "know will be revealed to you\" (MkAsc). See also note at [[MAT.7:2]]."
+      },
+      {
+        "line_number": 735,
+        "token": "St. Longinos",
+        "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+      }
+    ],
+    "explicit_citation_snippets": []
+  }
+}

@@ -185,9 +185,15 @@ and grace. 5:1
 
 These barricades consisted of camouflaged pits containing sharply pointed stakes
 
-meant to lame horses or impale infantry. 5:3-4 Canaan is used here in its archaic sense (see [[GEN.10:15]]-19) and includes all those
+meant to lame horses or impale infantry.
 
-dwelling in the west (v. 4). 5:5-21 The Protomartyr Stephen gave an account (Acts 7) similar to this. 5:6, 7
+5:3-4 Canaan is used here in its archaic sense (see [[GEN.10:15]]-19) and includes all those
+
+dwelling in the west (v. 4).
+
+5:5-21 The Protomartyr Stephen gave an account (Acts 7) similar to this.
+
+5:6, 7
 
 The Chaldeans were a Semitic people ([[GEN.10:21]]-31) who settled the area just
 
@@ -263,7 +269,11 @@ morning until evening, eating a meal only after sundown. 8:10
 
 Judith wisely calls the elders of the city to her home to avoid publicly shaming
 
-them for their unwise decision. 8:17 This is the crux of the author's message in this book. 8:32
+them for their unwise decision.
+
+8:17 This is the crux of the author's message in this book.
+
+8:32
 
 Hear me means, "Give heed to what I have said." Judith's speech here is the
 
@@ -289,7 +299,11 @@ This is the purpose for Judith's story. 10:2
 
 Judith arose from being prostrated in prayer (9:1). 10:4
 
-This short list of feminine jewelry is comparable to the longer list in Is 3:16-23. 10:7-8 This passage brings to mind the words of Pr 31:28. 10:9
+This short list of feminine jewelry is comparable to the longer list in Is 3:16-23.
+
+10:7-8 This passage brings to mind the words of Pr 31:28.
+
+10:9
 
 Judith bowed down to God before them, for in such veneration "God is honored, as a king is honored through the honor given to a beloved servant. They are honored as
 
@@ -345,7 +359,11 @@ practical. Jewish places of prayer were usually located near water ([[PSA.136:1]
 ### 16:13
 *(anchor: JDT.16:13)*
 
-). 12:10 The officers were excluded so as to limit the feast to a private household affair. 12:12
+).
+
+12:10 The officers were excluded so as to limit the feast to a private household affair.
+
+12:12
 
 Passions (in this case, lust) can affect moral judgment to the point that evil is
 
@@ -375,7 +393,9 @@ was preparing for her unhindered departure. 13:4-5
 
 Judith prayer was said in her heart to keep this final petition for blessing
 
-between herself and the Lord and away from prying ears. 13:6, 7 Holofernes' sword and Judith's plea O Lord... strengthen me brings to mind
+between herself and the Lord and away from prying ears.
+
+13:6, 7 Holofernes' sword and Judith's plea O Lord... strengthen me brings to mind
 
 [[PSA.36:15]], [[PSA.36:17]], [[PSA.36:39]]. 13:13
 
@@ -411,13 +431,21 @@ to the law ([[DEU.23:4]], [[DEU.23:5]]). So also is the salvation of all Gentile
 
 They would have greeted her with words similar to St. Paul's salutation to the
 
-Thessalonians, "Now may the Lord of peace Himself give you peace always in every way. The Lord be with you all" ([[2TH.3:16]]), a typical Jewish greeting. 15:13 The songs of praise would likely have included the Psalms of Ascent (120-134). 16:2
+Thessalonians, "Now may the Lord of peace Himself give you peace always in every way. The Lord be with you all" ([[2TH.3:16]]), a typical Jewish greeting.
+
+15:13 The songs of praise would likely have included the Psalms of Ascent (120-134).
+
+16:2
 
 This verse alludes to [[PSA.17:48]]. 16:3
 
 The mountains of the north was the typical path of advance against Israel by the
 
-kingdoms of the east in order to avoid a march across the Arabian desert. 16:5-6 See Is 57:13. 16:6
+kingdoms of the east in order to avoid a march across the Arabian desert.
+
+16:5-6 See Is 57:13.
+
+16:6
 
 The Titans' sons are likely Goliath and his kin (2Kg 21:18-22). 16:10
 

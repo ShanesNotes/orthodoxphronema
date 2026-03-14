@@ -194,7 +194,7 @@ Because of Adam, man is born outside Paradise. The tree of life prefigures Chris
 ### 4:1
 *(anchor: GEN.4:1)*
 
-, 2 Cain and Abel came into existence through God and through Adam and Eve. Each
+4:1, 2 Cain and Abel came into existence through God and through Adam and Eve. Each
 
 came into existence at the moment of conception (she conceived) and was born nine
 
@@ -205,7 +205,7 @@ the moment of conception. His creative activity is simultaneous with conception.
 ### 4:3
 *(anchor: GEN.4:3)*
 
-, 4
+4:3, 4
 
 Both Cain and Abel worshiped the Lord and brought sacrifices to Him. The Lord
 
@@ -524,7 +524,9 @@ salvation and so is blessing. Many Scriptures speak to this. For example, the Ps
 
 said, "He shall receive blessing from the Lord, / And mercy from the God of his salvation"
 
-([[PSA.23:5]]). 9:8-16 Noah's seed is Christ ([[LUK.3:23]], [[LUK.3:36]]), and the everlasting covenant (v. 16) is the
+([[PSA.23:5]]).
+
+9:8-16 Noah's seed is Christ ([[LUK.3:23]], [[LUK.3:36]]), and the everlasting covenant (v. 16) is the
 
 new covenant God established in Him. God's rainbow in the clouds is His sign of the
 
@@ -568,7 +570,9 @@ and find Him ([[ACT.17:26]]-28). For they sought to build their unity by making 
 
 themselves (v. 4). They cared nothing for the name of the Lord God, by which man is
 
-saved. 11:10-31 The genealogy of Shem carries Christ's genealogy down to Abraham, for the true
+saved.
+
+11:10-31 The genealogy of Shem carries Christ's genealogy down to Abraham, for the true
 
 unity of the human race is Christ Himself. 12:1-7
 
@@ -610,13 +614,17 @@ foreshadows the Church as the house of God. The altar is central to worship. At 
 
 The Lord protected Sarah's virtue, and also the Incarnation. For Abraham and Sarah
 
-begot Isaac, through whom the promise in Christ was made ([[ROM.9:7]]). 13:1-5 Canaan, not Egypt, was the land of promise. While in Egypt, Abraham never lost his
+begot Isaac, through whom the promise in Christ was made ([[ROM.9:7]]).
+
+13:1-5 Canaan, not Egypt, was the land of promise. While in Egypt, Abraham never lost his
 
 focus on God's promise in the gospel of salvation, for he returned to Bethel, the house of
 
 God, and called on the name of the Lord (v. 4). Similarly, those who possess
 
-Abraham's faith keep their focus on this same gospel. 13:6-9 Abraham was a peacemaker, and "Blessed are the peacemakers, / For they shall be
+Abraham's faith keep their focus on this same gospel.
+
+13:6-9 Abraham was a peacemaker, and "Blessed are the peacemakers, / For they shall be
 
 called sons of God" ([[MAT.5:9]]). He was looking for his eternal inheritance in "the world to
 
@@ -624,7 +632,9 @@ come" (Creed; see also [[HEB.11:9]]-11). Although he was very rich, he was a man
 
 overcame strife (v. 7) and made peace with Lot. Therefore, virtue characterized the faith
 
-of Abraham. It will also characterize his spiritual children. 13:10-13 Lot, on the other hand, was attached to the beauty of the landscape. It looked like
+of Abraham. It will also characterize his spiritual children.
+
+13:10-13 Lot, on the other hand, was attached to the beauty of the landscape. It looked like
 
 the Garden of Eden. Unlike Abraham, he walked by sight, and not by faith ([[2CO.5:7]]). Thus, he chose wrongfully, not because of the beauty itself, but because of his immature
 
@@ -1027,7 +1037,9 @@ Father."
 
 The destruction of Sodom and the adjoining city of Gomorrah is a warning to the
 
-ungodly concerning the Day of Judgment ([[2PE.2:6]], [[2PE.2:9]]; Jude 7). 19:22-24 During Great Lent, the Church sings, "O my soul, flee like Lot to the mountain, and take refuge in Zoar before it is too late. Flee from the flames, my soul, flee from the
+ungodly concerning the Day of Judgment ([[2PE.2:6]], [[2PE.2:9]]; Jude 7).
+
+19:22-24 During Great Lent, the Church sings, "O my soul, flee like Lot to the mountain, and take refuge in Zoar before it is too late. Flee from the flames, my soul, flee from the
 
 burning heat of Sodom, flee from destruction by the fire of God."
 
@@ -1548,9 +1560,9 @@ relationship than blood relations.
 ### 29:15
 *(anchor: GEN.29:15)*
 
-Laban called Jacob my brother. Technically, Jacob was Laban's nephew. Therefore, the title brother does not necessarily mean a son of the same father or mother. In Mt
+Laban called Jacob my brother. Technically, Jacob was Laban's nephew. Therefore, the title brother does not necessarily mean a son of the same father or mother. In [[MAT.13:55]]
 
-13:55 and [[MRK.3:31]], Jesus is said to have brothers. These are not sons of Mary His mother. They are simply close relatives. The Church calls Mary Ever-virgin. This belief is a dogma
+and [[MRK.3:31]], Jesus is said to have brothers. These are not sons of Mary His mother. They are simply close relatives. The Church calls Mary Ever-virgin. This belief is a dogma
 
 of the Church, for she bore only one Son, the Lord Jesus Christ. 
 

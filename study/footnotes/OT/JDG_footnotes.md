@@ -386,7 +386,9 @@ God's people to unduly celebrate a victory over enemies.
 ### 9:1
 *(anchor: JDG.9:1)*
 
-Jerubbaal is Gideon (see note at 6:32). 9:1-5 Soon after Gideon died, the crafty Abimelech, his son by a concubine, with help from
+Jerubbaal is Gideon (see note at 6:32).
+
+9:1-5 Soon after Gideon died, the crafty Abimelech, his son by a concubine, with help from
 
 the men of Shechem, murdered seventy of his father's legitimate heirs. Only Jotham
 
@@ -444,9 +446,13 @@ Chemosh of Moab ([[NUM.21:29]]; 25:3; 3Kg 11:7, 33), Melek (Molech, Milcom) of A
 ### 18:21
 *(anchor: JDG.18:21)*
 
-; 20:2-5; 2Kg 23:10; Jer 32:35). 10:11-16 A powerful account of God extending not judgment but mercy to sinners. His soul
+; 20:2-5; 2Kg 23:10; Jer 32:35).
 
-was grieved (see [[GEN.6:6]]; [[MRK.14:34]]). 11:1-3 Not being the son of Gilead's wife or even a concubine, Jephthah is thrown out of
+10:11-16 A powerful account of God extending not judgment but mercy to sinners. His soul
+
+was grieved (see [[GEN.6:6]]; [[MRK.14:34]]).
+
+11:1-3 Not being the son of Gilead's wife or even a concubine, Jephthah is thrown out of
 
 his home as the son of another woman in violation of the law regarding the fatherless (Dt
 
@@ -472,7 +478,9 @@ Again (see notes at 8:1-3) the men of Ephraim are bypassed in battle, this time
 
 against the sons of Ammon. Jephthah asks, "Where were you when we needed you
 
-against the Ammonites?" (see 10:9). Ephraim has no answer, and war ensues. 12:5-6 The men of Gilead give a language test to the Ephraimites, and they fail. The word
+against the Ammonites?" (see 10:9). Ephraim has no answer, and war ensues.
+
+12:5-6 The men of Gilead give a language test to the Ephraimites, and they fail. The word
 
 stachys here is Greek for the Hebrew "shibboleth"; both mean "ear of corn." It was the
 
@@ -502,9 +510,13 @@ Philistines, a work carried further by Samuel, Saul, and King David. 13:25
 
 Not only does the Angel of the Lord prophesy Samson's birth and calling, but the
 
-Spirit of the Lord attends his life. 14:1-5 Samson's desire to marry a woman of the Philistines bore ill fruit. The woman was
+Spirit of the Lord attends his life.
 
-more faithful to her own people than to him (see vv. 15-18). 14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also "tore the lion, an image of death... and caused to go forth from his bitterness the sweetness of life for
+14:1-5 Samson's desire to marry a woman of the Philistines bore ill fruit. The woman was
+
+more faithful to her own people than to him (see vv. 15-18).
+
+14:5-9 St. Ephraim the Syrian writes that Christ, prefigured in Samson, also "tore the lion, an image of death... and caused to go forth from his bitterness the sweetness of life for
 
 men."
 
@@ -516,7 +528,11 @@ I will do mischief among them (v. 3) signals the beginning of the back-and-forth
 
 revenge in this chapter of "an eye for an eye" (see [[EXO.21:23]]-25). Samson finally prevails
 
-over the Philistines. 15:18-19 For all Samson's strength, he nearly died of thirst. Jesus said, "If anyone thirsts, let him come to Me and drink" ([[JOH.7:37]]). Even the strong are utterly dependent on God, who by a miracle provided water. 16:2-3 Since the gate of the city was locked by night, the Gazites assumed all was well until
+over the Philistines.
+
+15:18-19 For all Samson's strength, he nearly died of thirst. Jesus said, "If anyone thirsts, let him come to Me and drink" ([[JOH.7:37]]). Even the strong are utterly dependent on God, who by a miracle provided water.
+
+16:2-3 Since the gate of the city was locked by night, the Gazites assumed all was well until
 
 dawn. Samson awoke at midnight, tore down the doors, and carried them to Hebron--a
 
@@ -526,7 +542,9 @@ Alsorech is the valley of Sorek. Delilah, though we are not told, presumably was
 
 Philistine. Samson's love for her for a time proved stronger than his call from God to
 
-deliver Israel (13:5), and brought him down (16:15-17). 16:23-30 St. Irenaeus writes on this passage: "The lad who guided Samson by the hand (v. 26) typifies John the Baptist, who showed to the people the faith in Christ. And the house
+deliver Israel (13:5), and brought him down (16:15-17).
+
+16:23-30 St. Irenaeus writes on this passage: "The lad who guided Samson by the hand (v. 26) typifies John the Baptist, who showed to the people the faith in Christ. And the house
 
 in which they were assembled signifies the world, in which dwell the various heathen and
 
@@ -540,7 +558,9 @@ instructed, recognized the mystery of Christ."
 
 The phrase let him play before us likely refers to their request that he do tricks only
 
-a strong man could do. 17:1-6 Through the mother of Micah we see that the overall importance of the tabernacle
+a strong man could do.
+
+17:1-6 Through the mother of Micah we see that the overall importance of the tabernacle
 
 and the Law of God it upheld was almost forgotten at this point in time. This is confirmed
 

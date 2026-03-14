@@ -182,13 +182,7 @@ cannot take it with us when we die. At the same time, the Christian may rejoice,
 
 Wisdom is Christ. The soul that labors for the food of immortality is covered not in
 
-darkness but in light, and lives not a thousand years twice (v. 6), but forever (Jn
-
-
-### 6:55
-*(anchor: ECC.6:55)*
-
--58). 
+darkness but in light, and lives not a thousand years twice (v. 6), but forever ([[JOH.6:55]]-58). 
 
 ### 7:1
 *(anchor: ECC.7:1)*

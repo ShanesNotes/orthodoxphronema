@@ -6,7 +6,7 @@ Refactored from canon-proofreader to support profile-driven configuration.
 Detects extraction artifacts (fused words, punctuation spacing, etc.) across
 any text corpus using configurable profiles.
 
-Error categories (P1–P8, same as proofread.py):
+Error categories (P1–P8 extraction artifacts, F1–F4 footnote structural):
   P1  Missing space after punctuation   (auto-fix)
   P2  Space before punctuation           (auto-fix)
   P3  Double/repeated words              (auto-fix)
@@ -15,12 +15,17 @@ Error categories (P1–P8, same as proofread.py):
   P6  Spelling errors (aspell)           (review)
   P7  Unbalanced quotes                  (report only)
   P8  Fused conjunction+word             (review)
+  F1  Fused subsection header            (review — chapter-range fused with content)
+  F2  Dangling continuation range        (review — wikilink-N without proper bracket)
+  F3  Broken wikilink                    (review — unmatched [[ or ]])
+  F4  Unresolved source alias            (review — vs. reference_aliases.yaml)
 
 Usage:
     python3 clean.py --file path/to/file.md --profile canon --dry-run
     python3 clean.py --dir path/to/dir/ --profile default --apply
     python3 clean.py --dir path/to/dir/ --profile canon --json
     python3 clean.py --file path/to/file.md --scope canon
+    python3 clean.py --scope staging --profile footnotes --dry-run
 """
 from __future__ import annotations
 
@@ -60,6 +65,12 @@ SCOPE_MAPPINGS = {
     "staging": _REPO / "staging" / "validated",
     "staging_ot": _REPO / "staging" / "validated" / "OT",
     "staging_nt": _REPO / "staging" / "validated" / "NT",
+    "study_footnotes": _REPO / "study" / "footnotes",
+    "study_footnotes_ot": _REPO / "study" / "footnotes" / "OT",
+    "study_footnotes_nt": _REPO / "study" / "footnotes" / "NT",
+    "study_articles": _REPO / "study" / "articles",
+    "study_articles_ot": _REPO / "study" / "articles" / "OT",
+    "study_articles_nt": _REPO / "study" / "articles" / "NT",
 }
 
 # ── Regex patterns ──────────────────────────────────────────────────────────
@@ -91,6 +102,30 @@ RE_MULTI_SPACE = re.compile(r'  +')
 # P7: Quote counting
 RE_SINGLE_QUOTE = re.compile(r"[''']")
 RE_DOUBLE_QUOTE = re.compile(r'["""]')
+
+# ── Footnote structural patterns (F1–F4) ──────────────────────────────────
+
+# F1: Fused subsection header — content text fused with chapter-range reference
+# Matches: sentence-ending punct + space + chapter:verse(-range) + space + uppercase
+RE_FUSED_SUBSECTION = re.compile(
+    r'([.!?)\]"\u201d\u2019])\s+'
+    r'(\d{1,3}:\d{1,3}(?:[–\-]\d{1,3}(?::\d{1,3})?)?)\s+'
+    r'([A-Z])'
+)
+
+# F2: Dangling continuation range — wikilink followed by bare hyphen+number
+RE_DANGLING_RANGE = re.compile(
+    r'\[\[([A-Z0-9]+\.\d+:\d+)\]\][\-–](\d+)'
+)
+
+# F3: Valid wikilink (for subtraction-based broken detection)
+RE_VALID_WIKILINK = re.compile(
+    r'\[\[[A-Z0-9]+\.\d+:\d+\]\]'
+)
+
+# F4: Parenthesized source citation — for checking against reference aliases
+RE_PAREN_CITATION = re.compile(r'\(([^)]+)\)')
+RE_CITATION_TOKEN = re.compile(r'\b([A-Z][a-zA-Z]{2,15})\b')
 
 # Cache for aspell-checked words
 _ENGLISH_WORDS_CACHE: set[str] | None = None
@@ -138,6 +173,12 @@ class Profile:
 
     # Known safe words (no fusion)
     false_positives: list[str] = field(default_factory=list)
+
+    # Footnote structural checks to enable (F1, F2, F3, F4)
+    footnote_checks: list[str] = field(default_factory=list)
+
+    # Path to reference aliases YAML (for F4 source alias checking)
+    reference_aliases_path: Optional[str] = None
 
     # Compiled regex patterns
     _compiled_protected: list[re.Pattern] = field(default_factory=list, init=False)
@@ -197,6 +238,8 @@ def load_profile(profile_name: str) -> Profile:
                         "if", "then", "than",
                     ],
                     false_positives=data.get("false_positives") or [],
+                    footnote_checks=data.get("footnote_checks") or [],
+                    reference_aliases_path=data.get("reference_aliases_path"),
                 )
         except Exception as e:
             print(f"Warning: could not load profile {profile_path}: {e}",
@@ -239,6 +282,29 @@ def _load_allowlist(profile: Profile) -> set[str]:
 def _make_false_positive_set(profile: Profile) -> set[str]:
     """Build a set of known safe words from profile."""
     return set(w.lower() for w in profile.false_positives)
+
+
+def _load_reference_aliases(profile: Profile) -> set[str] | None:
+    """Load all known source aliases from reference_aliases.yaml for F4 checking."""
+    if not profile.reference_aliases_path:
+        return None
+    aliases_path = _REPO / profile.reference_aliases_path
+    if not aliases_path.exists() or not yaml:
+        return None
+    try:
+        data = yaml.safe_load(aliases_path.read_text(encoding="utf-8"))
+        alias_set: set[str] = set()
+        for section_key in ("biblical", "patristic", "patristic_future",
+                            "apostolic", "liturgical", "conciliar"):
+            for entry in data.get(section_key, []):
+                canonical = entry.get("canonical", "")
+                if canonical:
+                    alias_set.add(canonical)
+                for alias in entry.get("aliases", []):
+                    alias_set.add(alias)
+        return alias_set
+    except Exception:
+        return None
 
 
 # ── File discovery ──────────────────────────────────────────────────────────
@@ -463,6 +529,108 @@ def analyze_line_regex(
     return fixed, findings
 
 
+def analyze_line_footnotes(
+    text: str,
+    file_str: str,
+    line_num: int,
+    profile: Profile,
+    alias_set: set[str] | None = None,
+) -> list[Finding]:
+    """Run footnote structural checks (F1-F4) on a single line."""
+    findings: list[Finding] = []
+    checks = set(profile.footnote_checks)
+
+    if "F1" in checks:
+        for m in RE_FUSED_SUBSECTION.finditer(text):
+            punct = m.group(1)
+            ref = m.group(2)
+            next_char = m.group(3)
+            findings.append(Finding(
+                file=file_str, line_num=line_num, anchor="",
+                code="F1",
+                message=f"Fused subsection header: '...{punct} {ref} {next_char}...'",
+                original=m.group(0),
+                suggested=f"{punct}\n\n### {ref}\n\n{next_char}",
+                auto_fixable=False,
+                context=text[:120],
+            ))
+
+    if "F2" in checks:
+        for m in RE_DANGLING_RANGE.finditer(text):
+            ref = m.group(1)
+            end_num = m.group(2)
+            findings.append(Finding(
+                file=file_str, line_num=line_num, anchor="",
+                code="F2",
+                message=f"Dangling continuation range: '[[{ref}]]-{end_num}'",
+                original=m.group(0),
+                suggested=f"[[{ref}]]\u2013{end_num}",
+                auto_fixable=False,
+                context=text[:120],
+            ))
+
+    if "F3" in checks:
+        # Build set of character positions covered by valid wikilinks
+        valid_pos: set[int] = set()
+        for m in RE_VALID_WIKILINK.finditer(text):
+            valid_pos.update(range(m.start(), m.end()))
+
+        # Find stray [[ not part of a valid wikilink
+        for m in re.finditer(r'\[\[', text):
+            if m.start() not in valid_pos:
+                # Extract the reference after the stray [[
+                after = text[m.end():]
+                ref_m = re.match(r'([A-Z0-9]+\.\d+:\d+)', after)
+                ref = ref_m.group(1) if ref_m else "..."
+                findings.append(Finding(
+                    file=file_str, line_num=line_num, anchor="",
+                    code="F3",
+                    message=f"Unclosed wikilink: '[[{ref}'",
+                    original=f"[[{ref}",
+                    suggested=f"[[{ref}]]",
+                    auto_fixable=False,
+                    context=text[:120],
+                ))
+
+        # Find stray ]] not part of a valid wikilink
+        for m in re.finditer(r'\]\]', text):
+            if m.start() not in valid_pos:
+                # Extract the reference before the stray ]]
+                before = text[:m.start()]
+                ref_m = re.search(r'([A-Z0-9]+\.\d+:\d+)$', before)
+                ref = ref_m.group(1) if ref_m else "..."
+                findings.append(Finding(
+                    file=file_str, line_num=line_num, anchor="",
+                    code="F3",
+                    message=f"Unopened wikilink: '{ref}]]'",
+                    original=f"{ref}]]",
+                    suggested=f"[[{ref}]]",
+                    auto_fixable=False,
+                    context=text[:120],
+                ))
+
+    if "F4" in checks and alias_set is not None:
+        for paren_m in RE_PAREN_CITATION.finditer(text):
+            paren_content = paren_m.group(1)
+            for tok_m in RE_CITATION_TOKEN.finditer(paren_content):
+                token = tok_m.group(1)
+                # Only flag CamelCase abbreviations typical of patristic refs
+                if not re.match(r'^[A-Z][a-z]+[A-Z]', token):
+                    continue
+                if token not in alias_set:
+                    findings.append(Finding(
+                        file=file_str, line_num=line_num, anchor="",
+                        code="F4",
+                        message=f"Unresolved source alias: '({token})'",
+                        original=token,
+                        suggested="",
+                        auto_fixable=False,
+                        context=text[:120],
+                    ))
+
+    return findings
+
+
 def analyze_file_spell(
     filepath: Path,
     profile: Profile,
@@ -598,6 +766,29 @@ def process_file(
         all_findings.extend(spell_findings)
         stats["findings"] += len(spell_findings)
 
+    if "footnote" in passes and profile.footnote_checks:
+        alias_set = _load_reference_aliases(profile)
+        fn_lines = filepath.read_text(encoding="utf-8").splitlines()
+        in_fm = False
+        fm_done = False
+        for i, line in enumerate(fn_lines, 1):
+            if line.strip() == "---":
+                if not fm_done:
+                    in_fm = not in_fm
+                    if not in_fm:
+                        fm_done = True
+                continue
+            if in_fm or profile.is_protected_line(line):
+                continue
+            if not line.strip():
+                continue
+            fn_findings = analyze_line_footnotes(
+                line, file_str, i, profile, alias_set
+            )
+            if fn_findings:
+                all_findings.extend(fn_findings)
+                stats["findings"] += len(fn_findings)
+
     return all_findings, stats
 
 
@@ -661,7 +852,7 @@ def main():
     parser.add_argument("--profile", default="default",
                         help="Profile name (default: default)")
     parser.add_argument("--pass", dest="passes", action="append",
-                        choices=["regex", "spell", "all"],
+                        choices=["regex", "spell", "footnote", "all"],
                         help="Which passes to run (default: all)")
     parser.add_argument("--apply", action="store_true",
                         help="Apply auto-fixable corrections in place")
@@ -681,6 +872,8 @@ def main():
     # Determine passes
     if not args.passes or "all" in args.passes:
         passes = ["regex", "spell"]
+        if profile.footnote_checks:
+            passes.append("footnote")
     else:
         passes = args.passes
 
@@ -733,13 +926,14 @@ def main():
         output_format=output_format,
     )
 
+    s = report["summary"]
+
     # Output report
     if args.json:
         # JSON output to stdout
         print(json.dumps(report, indent=2, ensure_ascii=False))
     else:
         # Human-readable summary to stderr
-        s = report["summary"]
         print(f"\n{'='*60}", file=sys.stderr)
         print(f"  Profile:          {args.profile}", file=sys.stderr)
         print(f"  Files checked:    {s['files_checked']}", file=sys.stderr)

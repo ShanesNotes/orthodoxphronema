@@ -1,0 +1,331 @@
+{
+  "generated": "2026-03-14",
+  "profile": "footnotes",
+  "format": "json",
+  "applied": false,
+  "summary": {
+    "total_findings": 28,
+    "auto_fixable": 0,
+    "review_needed": 28,
+    "files_checked": 1,
+    "lines_checked": 0,
+    "lines_fixed": 0
+  },
+  "by_category": {
+    "F2": 26,
+    "F4": 2
+  },
+  "by_file": {
+    "study/footnotes/OT/GEN_footnotes.md": 28
+  },
+  "findings": [
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 41,
+      "anchor": "",
+      "code": "F4",
+      "message": "Unresolved source alias: '(CanonAnd)'",
+      "original": "CanonAnd",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": "life to the ends of the world\" (CanonAnd). "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 87,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[MAT.11:28]]-30'",
+      "original": "[[MAT.11:28]]-30",
+      "suggested": "[[MAT.11:28]]–30",
+      "auto_fixable": false,
+      "context": "in Himself ([[MAT.11:28]]-30). "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 135,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[EPH.5:22]]-33'",
+      "original": "[[EPH.5:22]]-33",
+      "suggested": "[[EPH.5:22]]–33",
+      "auto_fixable": false,
+      "context": "joining, he will be devoted to her with sacrificial love and devotion, and she to him. This great mystery points to the "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 176,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[1JN.3:8]]-10'",
+      "original": "[[1JN.3:8]]-10",
+      "suggested": "[[1JN.3:8]]–10",
+      "auto_fixable": false,
+      "context": "seed are those who reject Christ and follow the devil ([[1JN.3:8]]-10). Christ destroyed the"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 343,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[LUK.3:23]]-38'",
+      "original": "[[LUK.3:23]]-38",
+      "suggested": "[[LUK.3:23]]–38",
+      "auto_fixable": false,
+      "context": "This passage focuses on the genealogy of Christ ([[LUK.3:23]]-38) and the reality of"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 436,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[1PE.3:18]]-22'",
+      "original": "[[1PE.3:18]]-22",
+      "suggested": "[[1PE.3:18]]–22",
+      "auto_fixable": false,
+      "context": "(Akath). The floodwaters were a type of baptism, in which we are saved ([[1PE.3:18]]-22). "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 448,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[ROM.8:18]]-22'",
+      "original": "[[ROM.8:18]]-22",
+      "suggested": "[[ROM.8:18]]–22",
+      "auto_fixable": false,
+      "context": "children of God ([[ROM.8:18]]-22). "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 461,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[MAT.24:37]]-39'",
+      "original": "[[MAT.24:37]]-39",
+      "suggested": "[[MAT.24:37]]–39",
+      "auto_fixable": false,
+      "context": "them to respond. So it will be in the Day of Judgment ([[MAT.24:37]]-39; [[LUK.17:26]], [[LUK.17:27]]; [[2PE.2:4]], [[2P"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 480,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[LUK.23:42]]-43'",
+      "original": "[[LUK.23:42]]-43",
+      "suggested": "[[LUK.23:42]]–43",
+      "auto_fixable": false,
+      "context": "Paradise\" ([[LUK.23:42]]-43). "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 569,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[ACT.17:26]]-28'",
+      "original": "[[ACT.17:26]]-28",
+      "suggested": "[[ACT.17:26]]–28",
+      "auto_fixable": false,
+      "context": "and find Him ([[ACT.17:26]]-28). For they sought to build their unity by making a name for"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 631,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[HEB.11:9]]-11'",
+      "original": "[[HEB.11:9]]-11",
+      "suggested": "[[HEB.11:9]]–11",
+      "auto_fixable": false,
+      "context": "come\" (Creed; see also [[HEB.11:9]]-11). Although he was very rich, he was a man of virtue. For in his heart he was deta"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 680,
+      "anchor": "",
+      "code": "F4",
+      "message": "Unresolved source alias: '(CypC)'",
+      "original": "CypC",
+      "suggested": "",
+      "auto_fixable": false,
+      "context": "the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[H"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 730,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[ROM.4:17]]-25'",
+      "original": "[[ROM.4:17]]-25",
+      "suggested": "[[ROM.4:17]]–25",
+      "auto_fixable": false,
+      "context": "God's promise. For man is saved by this promise through faith in Christ ([[ROM.4:17]]-25; 9:7, 8). "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 739,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[EPH.2:11]]-16'",
+      "original": "[[EPH.2:11]]-16",
+      "suggested": "[[EPH.2:11]]–16",
+      "auto_fixable": false,
+      "context": "both Jews and Gentiles ([[EPH.2:11]]-16). "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 773,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[GAL.4:21]]-31'",
+      "original": "[[GAL.4:21]]-31",
+      "suggested": "[[GAL.4:21]]–31",
+      "auto_fixable": false,
+      "context": "In [[GAL.4:21]]-31, St. Paul uses Hagar and Sarah as an allegory, representing two"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 881,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[ROM.4:9]]-17'",
+      "original": "[[ROM.4:9]]-17",
+      "suggested": "[[ROM.4:9]]–17",
+      "auto_fixable": false,
+      "context": "Gentiles, to be made righteous by faith in the gospel (v. 3; see also [[ROM.4:9]]-17). Christ"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 1016,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[JOH.1:1]]-3'",
+      "original": "[[JOH.1:1]]-3",
+      "suggested": "[[JOH.1:1]]–3",
+      "auto_fixable": false,
+      "context": "city.\" The Son is also the Word, Wisdom, and Power of the Father ([[JOH.1:1]]-3 and 1Co"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 1050,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[LUK.17:28]]-33'",
+      "original": "[[LUK.17:28]]-33",
+      "suggested": "[[LUK.17:28]]–33",
+      "auto_fixable": false,
+      "context": "In [[LUK.17:28]]-33, the Lord commanded us to remember Lot's wife, for she lost her"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 1150,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[JAS.2:22]]-23'",
+      "original": "[[JAS.2:22]]-23",
+      "suggested": "[[JAS.2:22]]–23",
+      "auto_fixable": false,
+      "context": "made Abraham righteous and a friend of God ([[JAS.2:22]]-23). "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 1175,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[HEB.6:13]]-20'",
+      "original": "[[HEB.6:13]]-20",
+      "suggested": "[[HEB.6:13]]–20",
+      "auto_fixable": false,
+      "context": "by anyone greater; therefore, He swore by Himself. He confirmed the oath by His Lamb, the Son of God, through whom God's"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 1197,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[HEB.11:11]]-16'",
+      "original": "[[HEB.11:11]]-16",
+      "suggested": "[[HEB.11:11]]–16",
+      "auto_fixable": false,
+      "context": "sojourner and stranger passing through this life to the world to come ([[HEB.11:11]]-16). "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 1540,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[MAT.21:42]]-44'",
+      "original": "[[MAT.21:42]]-44",
+      "suggested": "[[MAT.21:42]]–44",
+      "auto_fixable": false,
+      "context": "The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 1540,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[1PE.2:4]]-8'",
+      "original": "[[1PE.2:4]]-8",
+      "suggested": "[[1PE.2:4]]–8",
+      "auto_fixable": false,
+      "context": "The stone is Christ, the foundation stone of the Church ([[MAT.21:42]]-44; [[MRK.12:10]]; [[LUK.20:17]], [[LUK.20:18]]; "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 1676,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[HEB.11:14]]-16'",
+      "original": "[[HEB.11:14]]-16",
+      "suggested": "[[HEB.11:14]]–16",
+      "auto_fixable": false,
+      "context": "permanent residence ([[HEB.11:14]]-16, 21). "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 1775,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[HEB.11:13]]-15'",
+      "original": "[[HEB.11:13]]-15",
+      "suggested": "[[HEB.11:13]]–15",
+      "auto_fixable": false,
+      "context": "a man of faith who looked to the world to come ([[HEB.11:13]]-15, 21). Esau, on the other"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 1949,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[HEB.11:13]]-16'",
+      "original": "[[HEB.11:13]]-16",
+      "suggested": "[[HEB.11:13]]–16",
+      "auto_fixable": false,
+      "context": "who look for their inheritance in the world to come ([[HEB.11:13]]-16, 22; Creed). "
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 1954,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[2TH.3:6]]-12'",
+      "original": "[[2TH.3:6]]-12",
+      "suggested": "[[2TH.3:6]]–12",
+      "auto_fixable": false,
+      "context": "Jacob's sons were lazy, and lazy people are unruly ([[2TH.3:6]]-12). Such people lack"
+    },
+    {
+      "file": "study/footnotes/OT/GEN_footnotes.md",
+      "line": 2096,
+      "anchor": "",
+      "code": "F2",
+      "message": "Dangling continuation range: '[[HEB.11:13]]-16'",
+      "original": "[[HEB.11:13]]-16",
+      "suggested": "[[HEB.11:13]]–16",
+      "auto_fixable": false,
+      "context": "of the world to come\" (Creed; [[HEB.11:13]]-16, 21). And although he had suffered much in"
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "book_code": "PSA",
+  "position": 24,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/PSA_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 654,
+      "auto_fixable": 0,
+      "review_needed": 654,
+      "files_checked": 1,
+      "lines_checked": 1086,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P4": 1,
+      "P6": 623,
+      "P7": 30
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "PSA",
+    "testament": "OT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/PSA_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/PSA_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/PSA.md",
+    "counts": {
+      "scripture_markers": 131,
+      "footnote_entries": 131,
+      "scripture_anchors": 302,
+      "valid_marker_anchors": 131,
+      "valid_note_anchors": 131
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 167,
+    "convertible_refs": 0,
+    "already_linked_refs": 167,
+    "unresolved_refs": 3,
+    "unresolved_examples": [
+      {
+        "line_number": 1107,
+        "raw_text": "Ps 55-59",
+        "reason": "chapter_only_or_unsupported_range"
+      },
+      {
+        "line_number": 2215,
+        "raw_text": "Ps 119-133",
+        "reason": "chapter_only_or_unsupported_range"
+      },
+      {
+        "line_number": 2419,
+        "raw_text": "Ps 148-150",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "The Man in Ps 1 is the Lord Jesus Christ (JohnChr, AmbM, Eust, CyrAl, Aug, and Cass)."
+        },
+        {
+          "line_number": 15,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "The Man in Ps 1 is the Lord Jesus Christ (JohnChr, AmbM, Eust, CyrAl, Aug, and Cass)."
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 1,
+        "JOHN_CHRYSOSTOM": 1
+      },
+      "unresolved_candidates_count": 1,
+      "unresolved_candidates": [
+        {
+          "line_number": 169,
+          "token": "LXX",
+          "context": "At Ps 9 the numerical divergence begins between the Septuagint (LXX) and the"
+        }
+      ],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 8,
+      "matched_entities": [
+        {
+          "line_number": 515,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul describes them as \"principalities,\" \"powers,\" \"the rulers of the darkness of this age,\""
+        },
+        {
+          "line_number": 635,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter urged those listening to \"be baptized in the name of Jesus Christ for the remission"
+        },
+        {
+          "line_number": 1311,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "thereby living out the exhortation of St. Paul in [[1TH.5:17]] to \"pray without ceasing.\" Also,"
+        },
+        {
+          "line_number": 1311,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "thereby living out the exhortation of St. Paul in [[1TH.5:17]] to \"pray without ceasing.\" Also,"
+        },
+        {
+          "line_number": 2137,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "(Creed). St. Paul interprets the psalm in this manner in [[2CO.4:13]]-18. The psalmist"
+        },
+        {
+          "line_number": 2137,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "(Creed). St. Paul interprets the psalm in this manner in [[2CO.4:13]]-18. The psalmist"
+        },
+        {
+          "line_number": 2157,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Ps 116 is the shortest of all the psalms. It is quoted by St. Paul in [[ROM.15:11]] to show"
+        },
+        {
+          "line_number": 2157,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Ps 116 is the shortest of all the psalms. It is quoted by St. Paul in [[ROM.15:11]] to show"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 7,
+        "PETER_APOSTLE": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 34,
+      "matched_entities": [
+        {
+          "line_number": 41,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "7), for He was begotten from the Father outside of time and \"before all worlds\" (Creed)."
+        },
+        {
+          "line_number": 45,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "men and for our salvation\" (Creed). Then again, He was begotten in the sense of His"
+        },
+        {
+          "line_number": 51,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "heaven and earth, and reigns eternally with His saints in \"the world to come\" (Creed)."
+        },
+        {
+          "line_number": 97,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "the inheritance (v. 1), which is the Church and the world to come (Creed). For Christ"
+        },
+        {
+          "line_number": 173,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "Ps 9 is concerning the hidden things of the Son. Now this Son is the Onlybegotten Son of the Father, and He is the judge of all mankind. As the Creed says, \"He"
+        },
+        {
+          "line_number": 173,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Ps 9 is concerning the hidden things of the Son. Now this Son is the Onlybegotten Son of the Father, and He is the judge of all mankind. As the Creed says, \"He"
+        },
+        {
+          "line_number": 189,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "forever (v. 37). For His \"kingdom shall have no end\" (Creed)."
+        },
+        {
+          "line_number": 217,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "and the life of the world to come\" (Creed); and the ungodly, who walk in a circle (v. 9),"
+        },
+        {
+          "line_number": 275,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "\"look for the resurrection from the dead and the life of the world to come\" (Creed). They"
+        },
+        {
+          "line_number": 291,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "the inheritance (vv. 5, 6), which is \"the world to come\" (Creed). And as Man, He"
+        },
+        {
+          "line_number": 305,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "of their life (v. 11) \"in the world to come\" (Creed)."
+        },
+        {
+          "line_number": 431,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "2:12, referring to the \"one, holy, catholic and apostolic Church\" (Creed)."
+        },
+        {
+          "line_number": 531,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "life of the world to come\" (Creed)."
+        },
+        {
+          "line_number": 555,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Creed)."
+        },
+        {
+          "line_number": 599,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "resurrection of the dead and the life of the world to come\" (Creed); (2) the souls of the"
+        },
+        {
+          "line_number": 637,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "of sins\" ([[ACT.2:38]]). Thus, the Creed also says, \"I acknowledge one baptism for the"
+        },
+        {
+          "line_number": 637,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "of sins\" ([[ACT.2:38]]). Thus, the Creed also says, \"I acknowledge one baptism for the"
+        },
+        {
+          "line_number": 669,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "world to come (vv. 18-22; see also Creed)."
+        },
+        {
+          "line_number": 743,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "resurrection of the dead and the life of the world to come\" (Creed). The world to come is"
+        },
+        {
+          "line_number": 783,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "of the dead and the life of the world to come\" (Creed). For Christ is the End (v. 1)."
+        },
+        {
+          "line_number": 817,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "because He is \"one in essence\" with Him (Creed). Therefore, by means of His two wills"
+        },
+        {
+          "line_number": 1005,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "\"coming to judge the living and the dead\" (Creed). For He will come as God in the flesh"
+        },
+        {
+          "line_number": 1035,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Ps 51 reveals who will be in \"the world to come\" (Creed), which belongs to Christ (the"
+        },
+        {
+          "line_number": 1125,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "resurrection from the dead and the life of the world to come\" (Creed)."
+        },
+        {
+          "line_number": 1233,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "resurrection from the dead and the life of the world to come (Creed). For peace will"
+        },
+        {
+          "line_number": 1357,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "to come\" (Creed). For their vision of life is limited to this present world, and they have no"
+        },
+        {
+          "line_number": 1401,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "see also Creed)."
+        },
+        {
+          "line_number": 1503,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "to judge the living and the dead\" (Creed)."
+        },
+        {
+          "line_number": 1531,
+          "entity": "NICENE_CREED",
+          "matched_alias": "the Creed",
+          "context": "to come (vv. 2-9). As the Creed says, \"I look for the resurrection of the dead and the life"
+        },
+        {
+          "line_number": 1531,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "to come (vv. 2-9). As the Creed says, \"I look for the resurrection of the dead and the life"
+        },
+        {
+          "line_number": 1815,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "Jesus Christ returns to raise the dead and establish the world to come (Creed). Virtually"
+        },
+        {
+          "line_number": 2033,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "is therefore His eternal Son (v. 3; see also Creed). He is the Son of David according to the"
+        },
+        {
+          "line_number": 2129,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "the resurrection of the dead and the life of the world to come (vv. 8, 9; see also Creed)."
+        },
+        {
+          "line_number": 2137,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "(Creed). St. Paul interprets the psalm in this manner in [[2CO.4:13]]-18. The psalmist"
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 34
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 41,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 45,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 51,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 97,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 189,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 217,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 275,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 291,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 305,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 431,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 531,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 599,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 743,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 783,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 817,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1005,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1035,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1125,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1233,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1357,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1503,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 1815,
+          "snippet": "Creed"
+        },
+        {
+          "line_number": 2137,
+          "snippet": "Creed"
+        }
+      ]
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 2,
+    "matched_entities": [
+      {
+        "line_number": 15,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "The Man in Ps 1 is the Lord Jesus Christ (JohnChr, AmbM, Eust, CyrAl, Aug, and Cass)."
+      },
+      {
+        "line_number": 15,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "The Man in Ps 1 is the Lord Jesus Christ (JohnChr, AmbM, Eust, CyrAl, Aug, and Cass)."
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 1,
+      "JOHN_CHRYSOSTOM": 1
+    },
+    "unresolved_candidates_count": 1,
+    "unresolved_candidates": [
+      {
+        "line_number": 169,
+        "token": "LXX",
+        "context": "At Ps 9 the numerical divergence begins between the Septuagint (LXX) and the"
+      }
+    ],
+    "explicit_citation_snippets": []
+  }
+}

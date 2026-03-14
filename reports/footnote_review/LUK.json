@@ -1,0 +1,1329 @@
+{
+  "book_code": "LUK",
+  "position": 52,
+  "testament": "NT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/LUK_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 561,
+      "auto_fixable": 0,
+      "review_needed": 561,
+      "files_checked": 1,
+      "lines_checked": 1361,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 483,
+      "P7": 78
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "LUK",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/LUK_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/LUK_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/LUK.md",
+    "counts": {
+      "scripture_markers": 271,
+      "footnote_entries": 271,
+      "scripture_anchors": 1150,
+      "valid_marker_anchors": 271,
+      "valid_note_anchors": 271
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 169,
+    "convertible_refs": 0,
+    "already_linked_refs": 169,
+    "unresolved_refs": 1,
+    "unresolved_examples": [
+      {
+        "line_number": 2681,
+        "raw_text": "Ex 12-14",
+        "reason": "chapter_only_or_unsupported_range"
+      }
+    ]
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 73,
+      "matched_entities": [
+        {
+          "line_number": 21,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "instruction (see also [[ACT.1:1]]). St. Ambrose notes that Theophilus can simply mean any"
+        },
+        {
+          "line_number": 21,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "instruction (see also [[ACT.1:1]]). St. Ambrose notes that Theophilus can simply mean any"
+        },
+        {
+          "line_number": 45,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "appearance, but to the core of their being. The holiness of John the Baptist came in part"
+        },
+        {
+          "line_number": 111,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "Elijah is expected to reappear from heaven as the forerunner of the second coming of"
+        },
+        {
+          "line_number": 113,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "the Lord (Mal 4:5). John the Baptist fulfills the spirit of Elijah as he is the forerunner of"
+        },
+        {
+          "line_number": 113,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "the Lord (Mal 4:5). John the Baptist fulfills the spirit of Elijah as he is the forerunner of"
+        },
+        {
+          "line_number": 147,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Elizabeth conceived: The conception of St. John the Baptist is celebrated"
+        },
+        {
+          "line_number": 147,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "Elizabeth conceived: The conception of St. John the Baptist is celebrated"
+        },
+        {
+          "line_number": 175,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "The name Mary means \"exalted one.\" When Joseph is referred to as of the house of"
+        },
+        {
+          "line_number": 421,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "proclaim Christ to the world. St. Ambrose writes that Mary's own faith was strengthened"
+        },
+        {
+          "line_number": 421,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "proclaim Christ to the world. St. Ambrose writes that Mary's own faith was strengthened"
+        },
+        {
+          "line_number": 453,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "and Joseph offer turtledoves, but as Christ is the unblemished Lamb of God, they"
+        },
+        {
+          "line_number": 545,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph is honored with the title father for his care and upbringing of his adopted"
+        },
+        {
+          "line_number": 677,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "The genealogy follows Joseph's ancestry, even though Jesus was only supposed"
+        },
+        {
+          "line_number": 679,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "to be the son of Joseph but was in fact humanly descended from Mary only. This is"
+        },
+        {
+          "line_number": 681,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "explained in two complementary ways: (1) Joseph was a righteous man and would have"
+        },
+        {
+          "line_number": 683,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "married within his tribe--thus Mary and Joseph would have largely shared a common"
+        },
+        {
+          "line_number": 783,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "country fulfills the rejection of the OT prophets such as Elijah (v. 26) and Elisha (v."
+        },
+        {
+          "line_number": 797,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "creation began where the old creation ceased\" (AmbM)."
+        },
+        {
+          "line_number": 849,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "Launch out into the deep: St. Ambrose sees the spiritual meaning of this command"
+        },
+        {
+          "line_number": 849,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "Launch out into the deep: St. Ambrose sees the spiritual meaning of this command"
+        },
+        {
+          "line_number": 919,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "may also have been one of the tax collectors prepared for Christ by John the Baptist"
+        },
+        {
+          "line_number": 957,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "According to St. Ambrose, the term \"second Sabbath\" serves as an image of the new"
+        },
+        {
+          "line_number": 957,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "According to St. Ambrose, the term \"second Sabbath\" serves as an image of the new"
+        },
+        {
+          "line_number": 987,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "the Father. Rather, as the Son of Man, He prays as the Advocate for humanity (AmbM;"
+        },
+        {
+          "line_number": 1085,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "is raised from the dead, putting an end to her weeping (AmbM)."
+        },
+        {
+          "line_number": 1091,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "John the Baptist was imprisoned soon after Jesus was baptized ([[MRK.1:14]])."
+        },
+        {
+          "line_number": 1161,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "perfected in the Gospel\" (AmbM)."
+        },
+        {
+          "line_number": 1219,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "\"no advantage for them, but an even greater condemnation\" (JohnChr)."
+        },
+        {
+          "line_number": 1303,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "incident of the beheading of St. John is found in [[MRK.6:14]]-28."
+        },
+        {
+          "line_number": 1331,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "fruit from the earth and life out of the water\" (JohnChr)."
+        },
+        {
+          "line_number": 1341,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "touch any meal until we have given thanks to Him who gives us food\" (JohnChr). This"
+        },
+        {
+          "line_number": 1501,
+          "entity": "JOHN_CASSIAN",
+          "matched_alias": "Cassian",
+          "context": "St. Cassian the Desert Father notes that when he visited a monastery, the fast was"
+        },
+        {
+          "line_number": 1695,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "to the wickedness of seven other spirits or demons (JohnChr)."
+        },
+        {
+          "line_number": 1731,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "king ([[2CH.24:20]]-22), while others say it refers to the father of St. John the Baptist, who,"
+        },
+        {
+          "line_number": 1731,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "king ([[2CH.24:20]]-22), while others say it refers to the father of St. John the Baptist, who,"
+        },
+        {
+          "line_number": 1741,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "way or another. St. Ambrose even states that the death of the body is not itself a"
+        },
+        {
+          "line_number": 1741,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "way or another. St. Ambrose even states that the death of the body is not itself a"
+        },
+        {
+          "line_number": 1761,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "divine goodness. According to St. John Chrysostom and many other Fathers, the"
+        },
+        {
+          "line_number": 1761,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "divine goodness. According to St. John Chrysostom and many other Fathers, the"
+        },
+        {
+          "line_number": 1761,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "divine goodness. According to St. John Chrysostom and many other Fathers, the"
+        },
+        {
+          "line_number": 1789,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "understanding the saving up of material goods. St. John Chrysostom writes that the only"
+        },
+        {
+          "line_number": 1789,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "understanding the saving up of material goods. St. John Chrysostom writes that the only"
+        },
+        {
+          "line_number": 1789,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "understanding the saving up of material goods. St. John Chrysostom writes that the only"
+        },
+        {
+          "line_number": 1791,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "St. Basil the Great",
+          "context": "barns we need we already have: \"the stomachs of the poor.\" St. Basil the Great taught that"
+        },
+        {
+          "line_number": 1791,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "St. Basil",
+          "context": "barns we need we already have: \"the stomachs of the poor.\" St. Basil the Great taught that"
+        },
+        {
+          "line_number": 1791,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "Basil",
+          "context": "barns we need we already have: \"the stomachs of the poor.\" St. Basil the Great taught that"
+        },
+        {
+          "line_number": 1797,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "shoes; and the money we hoard belongs to the poor. St. Ambrose teaches, \"The things"
+        },
+        {
+          "line_number": 1797,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "shoes; and the money we hoard belongs to the poor. St. Ambrose teaches, \"The things"
+        },
+        {
+          "line_number": 1801,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "die.\" Even when Joseph stored up grain in Egypt (Gn 41), it was for the benefit of the"
+        },
+        {
+          "line_number": 1977,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "years,\" both St. Ambrose and Theophylact see ten as representing the Ten"
+        },
+        {
+          "line_number": 1977,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "years,\" both St. Ambrose and Theophylact see ten as representing the Ten"
+        },
+        {
+          "line_number": 2065,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "spiritual meanings. St. Ambrose sees the three excuses of I cannot come representing"
+        },
+        {
+          "line_number": 2065,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "spiritual meanings. St. Ambrose sees the three excuses of I cannot come representing"
+        },
+        {
+          "line_number": 2117,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "(AmbM)."
+        },
+        {
+          "line_number": 2233,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "forgiveness is granted to one who confesses his sin and begs for mercy\" (AmbM). The"
+        },
+        {
+          "line_number": 2291,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "food, and flatterers\" (JohnChr). That the rich man remains unnamed indicates that he is"
+        },
+        {
+          "line_number": 2341,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "anyone to be without benefit if he reads continually and with attention\" (JohnChr)."
+        },
+        {
+          "line_number": 2535,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "worldly affairs, he is not able to see Jesus.\" St. Ambrose sees several parallels: (1)"
+        },
+        {
+          "line_number": 2535,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "worldly affairs, he is not able to see Jesus.\" St. Ambrose sees several parallels: (1)"
+        },
+        {
+          "line_number": 2631,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "powder in the final judgment (JohnChr)."
+        },
+        {
+          "line_number": 2781,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "error with virtue\" (AmbM). The apostles will judge not with earthly judgment, but by the"
+        },
+        {
+          "line_number": 2809,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "refers to the living word of God in the battle against sin ([[EPH.6:17]]; [[HEB.4:12]]). St. Ambrose"
+        },
+        {
+          "line_number": 2809,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "refers to the living word of God in the battle against sin ([[EPH.6:17]]; [[HEB.4:12]]). St. Ambrose"
+        },
+        {
+          "line_number": 2835,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "be strengthened\" (GrgGt)."
+        },
+        {
+          "line_number": 2875,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "tears wash away the offense which is shameful to confess out loud\" (AmbM)."
+        },
+        {
+          "line_number": 2917,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "greater condemnation. St. Ambrose sees Herod as a figure representing all unrighteous"
+        },
+        {
+          "line_number": 2917,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "greater condemnation. St. Ambrose sees Herod as a figure representing all unrighteous"
+        },
+        {
+          "line_number": 2963,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "borne?\" (JohnChr)."
+        },
+        {
+          "line_number": 3055,
+          "entity": "CYRIL_JERUSALEM",
+          "matched_alias": "St. Cyril",
+          "context": "Reflecting on the conversion of the centurion, St. Cyril of Alexandria notes,"
+        },
+        {
+          "line_number": 3067,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "hidden away. Joseph being both a council member and a good and just man refutes"
+        },
+        {
+          "line_number": 3137,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "Myrrhbearing Women, and in a hymn by St. John of Damascus, we sing, \"The angel cried"
+        },
+        {
+          "line_number": 3255,
+          "entity": "ELIJAH_PROPHET",
+          "matched_alias": "Elijah",
+          "context": "This event fulfills the type given when Elijah ascended in a fiery chariot ([[2KI.2:11]]) and"
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 30,
+        "BASIL_GREAT": 3,
+        "CYRIL_JERUSALEM": 1,
+        "ELIJAH_PROPHET": 4,
+        "GREGORY_GREAT": 1,
+        "JOHN_CASSIAN": 1,
+        "JOHN_CHRYSOSTOM": 12,
+        "JOHN_FORERUNNER": 6,
+        "JOHN_THEOLOGIAN": 6,
+        "JOSEPH_BETROTHED": 9
+      },
+      "unresolved_candidates_count": 10,
+      "unresolved_candidates": [
+        {
+          "line_number": 819,
+          "token": "CyrAl",
+          "context": "powers that inflict harm on the human body\" (CyrAl)."
+        },
+        {
+          "line_number": 901,
+          "token": "CyrAl",
+          "context": "priests by a tangible miracle that He is superior to Moses (CyrAl). The priests hold Moses"
+        },
+        {
+          "line_number": 1007,
+          "token": "CyrAl",
+          "context": "(CyrAl)."
+        },
+        {
+          "line_number": 1045,
+          "token": "CyrAl",
+          "context": "which he judges others\" (CyrAl)."
+        },
+        {
+          "line_number": 1173,
+          "token": "CyrAl",
+          "context": "Law?\" (CyrAl)."
+        },
+        {
+          "line_number": 1571,
+          "token": "CyrAl",
+          "context": "deeds\" (CyrAl). That the priest and the Levite do not help the man also indicates the"
+        },
+        {
+          "line_number": 1685,
+          "token": "SerSar",
+          "context": "(SerSar)."
+        },
+        {
+          "line_number": 2219,
+          "token": "CyrAl",
+          "context": "even the most blamable man is called to repentance (CyrAl)."
+        },
+        {
+          "line_number": 2737,
+          "token": "St. Justin",
+          "context": "\"the Eucharist,\" and in the year AD 150, St. Justin says of Holy Communion, \"This food"
+        },
+        {
+          "line_number": 2841,
+          "token": "St. Luke",
+          "context": "This healing is recorded only by St. Luke the physician. It indicates the manner in"
+        }
+      ],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 797,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 1085,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 1161,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 1219,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1331,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1341,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1695,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 2117,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 2233,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 2291,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 2341,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 2631,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 2781,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 2835,
+          "snippet": "GrgGt"
+        },
+        {
+          "line_number": 2875,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 2963,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 12,
+      "matched_entities": [
+        {
+          "line_number": 869,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter's cry in the face of divine power is not a rejection of Jesus (contrast 8:37)."
+        },
+        {
+          "line_number": 871,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Rather, being suddenly cast in the light of Christ, holy people such as Peter become"
+        },
+        {
+          "line_number": 1363,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "means \"Anointed One.\" The declaration of Peter that Jesus is the Christ of God reveals"
+        },
+        {
+          "line_number": 2795,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "while the you in v. 32 is singular, indicating Jesus prayed especially for Simon Peter."
+        },
+        {
+          "line_number": 2797,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Because Peter's faith was the strongest, he would be tested the most. When you have"
+        },
+        {
+          "line_number": 2859,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "A girl being the first to test Peter is an icon of the temptation of Adam by Eve (Gn"
+        },
+        {
+          "line_number": 2869,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "Peter is so overcome with fear that neither Christ's prediction (v. 34) nor the"
+        },
+        {
+          "line_number": 3129,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "Certain Fathers teach that Mary the mother of James was the wife of Alphaeus,"
+        },
+        {
+          "line_number": 3131,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "and this James was one of the Twelve (6:15). Most, however, hold that this is the Virgin"
+        },
+        {
+          "line_number": 3133,
+          "entity": "JAMES_APOSTLE",
+          "matched_alias": "James",
+          "context": "Mary, being in fact the stepmother of a different James, \"the Lord's brother\" (see Mt"
+        },
+        {
+          "line_number": 3233,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "St. Peter",
+          "context": "by St. Peter at Pentecost (see [[ACT.2:38]])."
+        },
+        {
+          "line_number": 3233,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "by St. Peter at Pentecost (see [[ACT.2:38]])."
+        }
+      ],
+      "entity_counts": {
+        "JAMES_APOSTLE": 3,
+        "PETER_APOSTLE": 9
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 1581,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "\"came down from heaven\" (Creed) to save even those in rebellion against Him."
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 1581,
+          "snippet": "Creed"
+        }
+      ]
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 73,
+    "matched_entities": [
+      {
+        "line_number": 21,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "instruction (see also [[ACT.1:1]]). St. Ambrose notes that Theophilus can simply mean any"
+      },
+      {
+        "line_number": 21,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "instruction (see also [[ACT.1:1]]). St. Ambrose notes that Theophilus can simply mean any"
+      },
+      {
+        "line_number": 45,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "appearance, but to the core of their being. The holiness of John the Baptist came in part"
+      },
+      {
+        "line_number": 111,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "Elijah is expected to reappear from heaven as the forerunner of the second coming of"
+      },
+      {
+        "line_number": 113,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "the Lord (Mal 4:5). John the Baptist fulfills the spirit of Elijah as he is the forerunner of"
+      },
+      {
+        "line_number": 113,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "the Lord (Mal 4:5). John the Baptist fulfills the spirit of Elijah as he is the forerunner of"
+      },
+      {
+        "line_number": 147,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Elizabeth conceived: The conception of St. John the Baptist is celebrated"
+      },
+      {
+        "line_number": 147,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "Elizabeth conceived: The conception of St. John the Baptist is celebrated"
+      },
+      {
+        "line_number": 175,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "The name Mary means \"exalted one.\" When Joseph is referred to as of the house of"
+      },
+      {
+        "line_number": 421,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "proclaim Christ to the world. St. Ambrose writes that Mary's own faith was strengthened"
+      },
+      {
+        "line_number": 421,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "proclaim Christ to the world. St. Ambrose writes that Mary's own faith was strengthened"
+      },
+      {
+        "line_number": 453,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "and Joseph offer turtledoves, but as Christ is the unblemished Lamb of God, they"
+      },
+      {
+        "line_number": 545,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph is honored with the title father for his care and upbringing of his adopted"
+      },
+      {
+        "line_number": 677,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "The genealogy follows Joseph's ancestry, even though Jesus was only supposed"
+      },
+      {
+        "line_number": 679,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "to be the son of Joseph but was in fact humanly descended from Mary only. This is"
+      },
+      {
+        "line_number": 681,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "explained in two complementary ways: (1) Joseph was a righteous man and would have"
+      },
+      {
+        "line_number": 683,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "married within his tribe--thus Mary and Joseph would have largely shared a common"
+      },
+      {
+        "line_number": 783,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "country fulfills the rejection of the OT prophets such as Elijah (v. 26) and Elisha (v."
+      },
+      {
+        "line_number": 797,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "creation began where the old creation ceased\" (AmbM)."
+      },
+      {
+        "line_number": 849,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "Launch out into the deep: St. Ambrose sees the spiritual meaning of this command"
+      },
+      {
+        "line_number": 849,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "Launch out into the deep: St. Ambrose sees the spiritual meaning of this command"
+      },
+      {
+        "line_number": 919,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "may also have been one of the tax collectors prepared for Christ by John the Baptist"
+      },
+      {
+        "line_number": 957,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "According to St. Ambrose, the term \"second Sabbath\" serves as an image of the new"
+      },
+      {
+        "line_number": 957,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "According to St. Ambrose, the term \"second Sabbath\" serves as an image of the new"
+      },
+      {
+        "line_number": 987,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "the Father. Rather, as the Son of Man, He prays as the Advocate for humanity (AmbM;"
+      },
+      {
+        "line_number": 1085,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "is raised from the dead, putting an end to her weeping (AmbM)."
+      },
+      {
+        "line_number": 1091,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "John the Baptist was imprisoned soon after Jesus was baptized ([[MRK.1:14]])."
+      },
+      {
+        "line_number": 1161,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "perfected in the Gospel\" (AmbM)."
+      },
+      {
+        "line_number": 1219,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "\"no advantage for them, but an even greater condemnation\" (JohnChr)."
+      },
+      {
+        "line_number": 1303,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "incident of the beheading of St. John is found in [[MRK.6:14]]-28."
+      },
+      {
+        "line_number": 1331,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "fruit from the earth and life out of the water\" (JohnChr)."
+      },
+      {
+        "line_number": 1341,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "touch any meal until we have given thanks to Him who gives us food\" (JohnChr). This"
+      },
+      {
+        "line_number": 1501,
+        "entity": "JOHN_CASSIAN",
+        "matched_alias": "Cassian",
+        "context": "St. Cassian the Desert Father notes that when he visited a monastery, the fast was"
+      },
+      {
+        "line_number": 1695,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "to the wickedness of seven other spirits or demons (JohnChr)."
+      },
+      {
+        "line_number": 1731,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "king ([[2CH.24:20]]-22), while others say it refers to the father of St. John the Baptist, who,"
+      },
+      {
+        "line_number": 1731,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "king ([[2CH.24:20]]-22), while others say it refers to the father of St. John the Baptist, who,"
+      },
+      {
+        "line_number": 1741,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "way or another. St. Ambrose even states that the death of the body is not itself a"
+      },
+      {
+        "line_number": 1741,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "way or another. St. Ambrose even states that the death of the body is not itself a"
+      },
+      {
+        "line_number": 1761,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "divine goodness. According to St. John Chrysostom and many other Fathers, the"
+      },
+      {
+        "line_number": 1761,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "divine goodness. According to St. John Chrysostom and many other Fathers, the"
+      },
+      {
+        "line_number": 1761,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "divine goodness. According to St. John Chrysostom and many other Fathers, the"
+      },
+      {
+        "line_number": 1789,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "understanding the saving up of material goods. St. John Chrysostom writes that the only"
+      },
+      {
+        "line_number": 1789,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "understanding the saving up of material goods. St. John Chrysostom writes that the only"
+      },
+      {
+        "line_number": 1789,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "understanding the saving up of material goods. St. John Chrysostom writes that the only"
+      },
+      {
+        "line_number": 1791,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "St. Basil the Great",
+        "context": "barns we need we already have: \"the stomachs of the poor.\" St. Basil the Great taught that"
+      },
+      {
+        "line_number": 1791,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "St. Basil",
+        "context": "barns we need we already have: \"the stomachs of the poor.\" St. Basil the Great taught that"
+      },
+      {
+        "line_number": 1791,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "Basil",
+        "context": "barns we need we already have: \"the stomachs of the poor.\" St. Basil the Great taught that"
+      },
+      {
+        "line_number": 1797,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "shoes; and the money we hoard belongs to the poor. St. Ambrose teaches, \"The things"
+      },
+      {
+        "line_number": 1797,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "shoes; and the money we hoard belongs to the poor. St. Ambrose teaches, \"The things"
+      },
+      {
+        "line_number": 1801,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "die.\" Even when Joseph stored up grain in Egypt (Gn 41), it was for the benefit of the"
+      },
+      {
+        "line_number": 1977,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "years,\" both St. Ambrose and Theophylact see ten as representing the Ten"
+      },
+      {
+        "line_number": 1977,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "years,\" both St. Ambrose and Theophylact see ten as representing the Ten"
+      },
+      {
+        "line_number": 2065,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "spiritual meanings. St. Ambrose sees the three excuses of I cannot come representing"
+      },
+      {
+        "line_number": 2065,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "spiritual meanings. St. Ambrose sees the three excuses of I cannot come representing"
+      },
+      {
+        "line_number": 2117,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "(AmbM)."
+      },
+      {
+        "line_number": 2233,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "forgiveness is granted to one who confesses his sin and begs for mercy\" (AmbM). The"
+      },
+      {
+        "line_number": 2291,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "food, and flatterers\" (JohnChr). That the rich man remains unnamed indicates that he is"
+      },
+      {
+        "line_number": 2341,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "anyone to be without benefit if he reads continually and with attention\" (JohnChr)."
+      },
+      {
+        "line_number": 2535,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "worldly affairs, he is not able to see Jesus.\" St. Ambrose sees several parallels: (1)"
+      },
+      {
+        "line_number": 2535,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "worldly affairs, he is not able to see Jesus.\" St. Ambrose sees several parallels: (1)"
+      },
+      {
+        "line_number": 2631,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "powder in the final judgment (JohnChr)."
+      },
+      {
+        "line_number": 2781,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "error with virtue\" (AmbM). The apostles will judge not with earthly judgment, but by the"
+      },
+      {
+        "line_number": 2809,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "refers to the living word of God in the battle against sin ([[EPH.6:17]]; [[HEB.4:12]]). St. Ambrose"
+      },
+      {
+        "line_number": 2809,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "refers to the living word of God in the battle against sin ([[EPH.6:17]]; [[HEB.4:12]]). St. Ambrose"
+      },
+      {
+        "line_number": 2835,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "be strengthened\" (GrgGt)."
+      },
+      {
+        "line_number": 2875,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "tears wash away the offense which is shameful to confess out loud\" (AmbM)."
+      },
+      {
+        "line_number": 2917,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "greater condemnation. St. Ambrose sees Herod as a figure representing all unrighteous"
+      },
+      {
+        "line_number": 2917,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "greater condemnation. St. Ambrose sees Herod as a figure representing all unrighteous"
+      },
+      {
+        "line_number": 2963,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "borne?\" (JohnChr)."
+      },
+      {
+        "line_number": 3055,
+        "entity": "CYRIL_JERUSALEM",
+        "matched_alias": "St. Cyril",
+        "context": "Reflecting on the conversion of the centurion, St. Cyril of Alexandria notes,"
+      },
+      {
+        "line_number": 3067,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "hidden away. Joseph being both a council member and a good and just man refutes"
+      },
+      {
+        "line_number": 3137,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "Myrrhbearing Women, and in a hymn by St. John of Damascus, we sing, \"The angel cried"
+      },
+      {
+        "line_number": 3255,
+        "entity": "ELIJAH_PROPHET",
+        "matched_alias": "Elijah",
+        "context": "This event fulfills the type given when Elijah ascended in a fiery chariot ([[2KI.2:11]]) and"
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 30,
+      "BASIL_GREAT": 3,
+      "CYRIL_JERUSALEM": 1,
+      "ELIJAH_PROPHET": 4,
+      "GREGORY_GREAT": 1,
+      "JOHN_CASSIAN": 1,
+      "JOHN_CHRYSOSTOM": 12,
+      "JOHN_FORERUNNER": 6,
+      "JOHN_THEOLOGIAN": 6,
+      "JOSEPH_BETROTHED": 9
+    },
+    "unresolved_candidates_count": 10,
+    "unresolved_candidates": [
+      {
+        "line_number": 819,
+        "token": "CyrAl",
+        "context": "powers that inflict harm on the human body\" (CyrAl)."
+      },
+      {
+        "line_number": 901,
+        "token": "CyrAl",
+        "context": "priests by a tangible miracle that He is superior to Moses (CyrAl). The priests hold Moses"
+      },
+      {
+        "line_number": 1007,
+        "token": "CyrAl",
+        "context": "(CyrAl)."
+      },
+      {
+        "line_number": 1045,
+        "token": "CyrAl",
+        "context": "which he judges others\" (CyrAl)."
+      },
+      {
+        "line_number": 1173,
+        "token": "CyrAl",
+        "context": "Law?\" (CyrAl)."
+      },
+      {
+        "line_number": 1571,
+        "token": "CyrAl",
+        "context": "deeds\" (CyrAl). That the priest and the Levite do not help the man also indicates the"
+      },
+      {
+        "line_number": 1685,
+        "token": "SerSar",
+        "context": "(SerSar)."
+      },
+      {
+        "line_number": 2219,
+        "token": "CyrAl",
+        "context": "even the most blamable man is called to repentance (CyrAl)."
+      },
+      {
+        "line_number": 2737,
+        "token": "St. Justin",
+        "context": "\"the Eucharist,\" and in the year AD 150, St. Justin says of Holy Communion, \"This food"
+      },
+      {
+        "line_number": 2841,
+        "token": "St. Luke",
+        "context": "This healing is recorded only by St. Luke the physician. It indicates the manner in"
+      }
+    ],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 797,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 1085,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 1161,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 1219,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1331,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1341,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1695,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 2117,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 2233,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 2291,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 2341,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 2631,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 2781,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 2835,
+        "snippet": "GrgGt"
+      },
+      {
+        "line_number": 2875,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 2963,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "book_code": "1MA",
+  "position": 21,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/1MA_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 107,
+      "auto_fixable": 0,
+      "review_needed": 107,
+      "files_checked": 1,
+      "lines_checked": 191,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 105,
+      "P7": 2
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "1MA",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/1MA_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/1MA_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/1MA.md",
+    "counts": {
+      "scripture_markers": 51,
+      "footnote_entries": 51,
+      "scripture_anchors": 159,
+      "valid_marker_anchors": 51,
+      "valid_note_anchors": 51
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "1MA.10:84",
+      "1MA.10:88",
+      "1MA.11:67",
+      "1MA.13:12",
+      "1MA.13:22",
+      "1MA.13:23",
+      "1MA.13:31",
+      "1MA.14:26",
+      "1MA.16:21",
+      "1MA.16:23",
+      "1MA.1:11",
+      "1MA.1:16",
+      "1MA.1:20",
+      "1MA.1:29",
+      "1MA.1:41",
+      "1MA.1:54",
+      "1MA.1:62",
+      "1MA.1:8",
+      "1MA.2:15",
+      "1MA.2:24",
+      "1MA.2:27",
+      "1MA.2:32",
+      "1MA.2:39",
+      "1MA.2:65",
+      "1MA.3:32",
+      "1MA.3:42",
+      "1MA.4:52",
+      "1MA.4:8",
+      "1MA.5:55",
+      "1MA.6:34",
+      "1MA.6:43",
+      "1MA.6:53",
+      "1MA.7:23",
+      "1MA.7:26",
+      "1MA.7:5",
+      "1MA.9:28",
+      "1MA.9:35",
+      "1MA.9:54",
+      "1MA.9:71"
+    ],
+    "note_anchor_gaps": [
+      "1MA.10:84",
+      "1MA.10:88",
+      "1MA.11:67",
+      "1MA.13:12",
+      "1MA.13:22",
+      "1MA.13:23",
+      "1MA.13:31",
+      "1MA.14:26",
+      "1MA.16:21",
+      "1MA.16:23",
+      "1MA.1:11",
+      "1MA.1:16",
+      "1MA.1:20",
+      "1MA.1:29",
+      "1MA.1:41",
+      "1MA.1:54",
+      "1MA.1:62",
+      "1MA.1:8",
+      "1MA.2:15",
+      "1MA.2:24",
+      "1MA.2:27",
+      "1MA.2:32",
+      "1MA.2:39",
+      "1MA.2:65",
+      "1MA.3:32",
+      "1MA.3:42",
+      "1MA.4:52",
+      "1MA.4:8",
+      "1MA.5:55",
+      "1MA.6:34",
+      "1MA.6:43",
+      "1MA.6:53",
+      "1MA.7:23",
+      "1MA.7:26",
+      "1MA.7:5",
+      "1MA.9:28",
+      "1MA.9:35",
+      "1MA.9:54",
+      "1MA.9:71"
+    ],
+    "issue_count": 78
+  },
+  "wikilinks": {
+    "total_refs": 6,
+    "convertible_refs": 0,
+    "already_linked_refs": 6,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 221,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Joseph and Azariah failed because they did not belong, nor were they"
+        }
+      ],
+      "entity_counts": {
+        "JOSEPH_BETROTHED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 1,
+    "matched_entities": [
+      {
+        "line_number": 221,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Joseph and Azariah failed because they did not belong, nor were they"
+      }
+    ],
+    "entity_counts": {
+      "JOSEPH_BETROTHED": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

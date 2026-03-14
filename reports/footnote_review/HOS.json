@@ -1,0 +1,539 @@
+{
+  "book_code": "HOS",
+  "position": 31,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/HOS_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": false,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 91,
+      "auto_fixable": 0,
+      "review_needed": 91,
+      "files_checked": 1,
+      "lines_checked": 188,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P4": 1,
+      "P6": 52,
+      "P7": 38
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "HOS",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/HOS_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/HOS_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/HOS.md",
+    "counts": {
+      "scripture_markers": 41,
+      "footnote_entries": 41,
+      "scripture_anchors": 46,
+      "valid_marker_anchors": 41,
+      "valid_note_anchors": 41
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "HOS.10:13",
+      "HOS.11:3",
+      "HOS.11:8",
+      "HOS.12:5",
+      "HOS.13:14",
+      "HOS.14:3",
+      "HOS.14:5",
+      "HOS.1:4",
+      "HOS.2:3",
+      "HOS.2:5",
+      "HOS.3:5",
+      "HOS.4:5",
+      "HOS.4:8",
+      "HOS.4:9",
+      "HOS.5:10",
+      "HOS.5:15",
+      "HOS.5:2",
+      "HOS.5:7",
+      "HOS.6:2",
+      "HOS.6:3",
+      "HOS.6:6",
+      "HOS.7:11",
+      "HOS.7:8",
+      "HOS.8:12",
+      "HOS.9:4"
+    ],
+    "note_anchor_gaps": [
+      "HOS.10:13",
+      "HOS.11:3",
+      "HOS.11:8",
+      "HOS.12:5",
+      "HOS.13:14",
+      "HOS.14:3",
+      "HOS.14:5",
+      "HOS.1:4",
+      "HOS.2:3",
+      "HOS.2:5",
+      "HOS.3:5",
+      "HOS.4:5",
+      "HOS.4:8",
+      "HOS.4:9",
+      "HOS.5:10",
+      "HOS.5:15",
+      "HOS.5:2",
+      "HOS.5:7",
+      "HOS.6:2",
+      "HOS.6:3",
+      "HOS.6:6",
+      "HOS.7:11",
+      "HOS.7:8",
+      "HOS.8:12",
+      "HOS.9:4"
+    ],
+    "issue_count": 50
+  },
+  "wikilinks": {
+    "total_refs": 16,
+    "convertible_refs": 0,
+    "already_linked_refs": 16,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 16,
+      "matched_entities": [
+        {
+          "line_number": 30,
+          "entity": "IRENAEUS",
+          "matched_alias": "Iren",
+          "context": "by her union with the prophet\" (Iren). The unbelieving wife is made holy by her believing"
+        },
+        {
+          "line_number": 118,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "virgins\" (Jerome)."
+        },
+        {
+          "line_number": 131,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "(Jerome). Hosea is an icon of God's unconditional love. The Lord loves the children"
+        },
+        {
+          "line_number": 184,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "than on punishment. \"I am your master, or rather instructor, who wishes to correct, rather than to punish; to save, rather than to lose\" (Jerome)."
+        },
+        {
+          "line_number": 217,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "(Jerome)."
+        },
+        {
+          "line_number": 265,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "away from the Lord. And he [Ephraim] is like a bread beneath the ashes that is not"
+        },
+        {
+          "line_number": 267,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "turned, that is, he does not repent\" (Jerome)."
+        },
+        {
+          "line_number": 272,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "\"Why was Ephraim compared with a dove and not with other birds? The other birds"
+        },
+        {
+          "line_number": 278,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "not grieve for or miss [its] robbed offspring. Ephraim is rightly compared with this bird"
+        },
+        {
+          "line_number": 282,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "(Jerome)."
+        },
+        {
+          "line_number": 289,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "Ephraimite war (733 BC). He charges Ephraim (vv. 10, 11) with unfaithfulness. Idolatry, political plots, and lack of trust in Him with respect to foreign relations--all these make"
+        },
+        {
+          "line_number": 340,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "built, and she overmatched the abundance of the land by the number of idols\" (Jerome)."
+        },
+        {
+          "line_number": 354,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Jesus, Mary, and Joseph from Egypt. Matthew did not use the Septuagint version (his"
+        },
+        {
+          "line_number": 362,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "\"I bound the feet of Ephraim, that is, the whole Israel... although he was"
+        },
+        {
+          "line_number": 376,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "Ephraim'\" (CyrAl)."
+        },
+        {
+          "line_number": 405,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "(Jerome)."
+        }
+      ],
+      "entity_counts": {
+        "EPHRAIM_SYRIAN": 6,
+        "IRENAEUS": 1,
+        "JEROME": 8,
+        "JOSEPH_BETROTHED": 1
+      },
+      "unresolved_candidates_count": 9,
+      "unresolved_candidates": [
+        {
+          "line_number": 103,
+          "token": "CyrAl",
+          "context": "and heart... she is no longer able to find her old path\" (CyrAl)."
+        },
+        {
+          "line_number": 149,
+          "token": "CyrAl",
+          "context": "King of all\" (CyrAl)."
+        },
+        {
+          "line_number": 163,
+          "token": "CyrAl",
+          "context": "for her a time of salvation and a return to faith\" (CyrAl). See also [[ROM.10:1]]; 11:26, 27."
+        },
+        {
+          "line_number": 170,
+          "token": "CyrAl",
+          "context": "sins\" (CyrAl)."
+        },
+        {
+          "line_number": 177,
+          "token": "CyrAl",
+          "context": "outrageous thoughts\" (CyrAl)."
+        },
+        {
+          "line_number": 325,
+          "token": "CyrAl",
+          "context": "a dead body it is considered terrible even to taste this bread\" (CyrAl)."
+        },
+        {
+          "line_number": 347,
+          "token": "CyrAl",
+          "context": "righteousness. On the contrary, the false fruit would reasonably be considered impiety, for in the end it altogether descends to what is abominable\" (CyrAl)."
+        },
+        {
+          "line_number": 376,
+          "token": "CyrAl",
+          "context": "Ephraim'\" (CyrAl)."
+        },
+        {
+          "line_number": 414,
+          "token": "CyrAl",
+          "context": "tongue\" (CyrAl)."
+        }
+      ],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 30,
+          "snippet": "Iren"
+        },
+        {
+          "line_number": 118,
+          "snippet": "Jerome"
+        },
+        {
+          "line_number": 131,
+          "snippet": "Jerome"
+        },
+        {
+          "line_number": 184,
+          "snippet": "Jerome"
+        },
+        {
+          "line_number": 217,
+          "snippet": "Jerome"
+        },
+        {
+          "line_number": 267,
+          "snippet": "Jerome"
+        },
+        {
+          "line_number": 282,
+          "snippet": "Jerome"
+        },
+        {
+          "line_number": 340,
+          "snippet": "Jerome"
+        },
+        {
+          "line_number": 405,
+          "snippet": "Jerome"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 235,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "day points to His glorious Resurrection, promising we shall rise with Him. St. Paul"
+        },
+        {
+          "line_number": 235,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "day points to His glorious Resurrection, promising we shall rise with Him. St. Paul"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 16,
+    "matched_entities": [
+      {
+        "line_number": 30,
+        "entity": "IRENAEUS",
+        "matched_alias": "Iren",
+        "context": "by her union with the prophet\" (Iren). The unbelieving wife is made holy by her believing"
+      },
+      {
+        "line_number": 118,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "virgins\" (Jerome)."
+      },
+      {
+        "line_number": 131,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "(Jerome). Hosea is an icon of God's unconditional love. The Lord loves the children"
+      },
+      {
+        "line_number": 184,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "than on punishment. \"I am your master, or rather instructor, who wishes to correct, rather than to punish; to save, rather than to lose\" (Jerome)."
+      },
+      {
+        "line_number": 217,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "(Jerome)."
+      },
+      {
+        "line_number": 265,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "away from the Lord. And he [Ephraim] is like a bread beneath the ashes that is not"
+      },
+      {
+        "line_number": 267,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "turned, that is, he does not repent\" (Jerome)."
+      },
+      {
+        "line_number": 272,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "\"Why was Ephraim compared with a dove and not with other birds? The other birds"
+      },
+      {
+        "line_number": 278,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "not grieve for or miss [its] robbed offspring. Ephraim is rightly compared with this bird"
+      },
+      {
+        "line_number": 282,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "(Jerome)."
+      },
+      {
+        "line_number": 289,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "Ephraimite war (733 BC). He charges Ephraim (vv. 10, 11) with unfaithfulness. Idolatry, political plots, and lack of trust in Him with respect to foreign relations--all these make"
+      },
+      {
+        "line_number": 340,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "built, and she overmatched the abundance of the land by the number of idols\" (Jerome)."
+      },
+      {
+        "line_number": 354,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Jesus, Mary, and Joseph from Egypt. Matthew did not use the Septuagint version (his"
+      },
+      {
+        "line_number": 362,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "\"I bound the feet of Ephraim, that is, the whole Israel... although he was"
+      },
+      {
+        "line_number": 376,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "Ephraim'\" (CyrAl)."
+      },
+      {
+        "line_number": 405,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "(Jerome)."
+      }
+    ],
+    "entity_counts": {
+      "EPHRAIM_SYRIAN": 6,
+      "IRENAEUS": 1,
+      "JEROME": 8,
+      "JOSEPH_BETROTHED": 1
+    },
+    "unresolved_candidates_count": 9,
+    "unresolved_candidates": [
+      {
+        "line_number": 103,
+        "token": "CyrAl",
+        "context": "and heart... she is no longer able to find her old path\" (CyrAl)."
+      },
+      {
+        "line_number": 149,
+        "token": "CyrAl",
+        "context": "King of all\" (CyrAl)."
+      },
+      {
+        "line_number": 163,
+        "token": "CyrAl",
+        "context": "for her a time of salvation and a return to faith\" (CyrAl). See also [[ROM.10:1]]; 11:26, 27."
+      },
+      {
+        "line_number": 170,
+        "token": "CyrAl",
+        "context": "sins\" (CyrAl)."
+      },
+      {
+        "line_number": 177,
+        "token": "CyrAl",
+        "context": "outrageous thoughts\" (CyrAl)."
+      },
+      {
+        "line_number": 325,
+        "token": "CyrAl",
+        "context": "a dead body it is considered terrible even to taste this bread\" (CyrAl)."
+      },
+      {
+        "line_number": 347,
+        "token": "CyrAl",
+        "context": "righteousness. On the contrary, the false fruit would reasonably be considered impiety, for in the end it altogether descends to what is abominable\" (CyrAl)."
+      },
+      {
+        "line_number": 376,
+        "token": "CyrAl",
+        "context": "Ephraim'\" (CyrAl)."
+      },
+      {
+        "line_number": 414,
+        "token": "CyrAl",
+        "context": "tongue\" (CyrAl)."
+      }
+    ],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 30,
+        "snippet": "Iren"
+      },
+      {
+        "line_number": 118,
+        "snippet": "Jerome"
+      },
+      {
+        "line_number": 131,
+        "snippet": "Jerome"
+      },
+      {
+        "line_number": 184,
+        "snippet": "Jerome"
+      },
+      {
+        "line_number": 217,
+        "snippet": "Jerome"
+      },
+      {
+        "line_number": 267,
+        "snippet": "Jerome"
+      },
+      {
+        "line_number": 282,
+        "snippet": "Jerome"
+      },
+      {
+        "line_number": 340,
+        "snippet": "Jerome"
+      },
+      {
+        "line_number": 405,
+        "snippet": "Jerome"
+      }
+    ]
+  }
+}

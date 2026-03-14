@@ -643,7 +643,7 @@ Jeremiah.
 
 needs water], and yet it covers the desert. Thus Jeremiah compares it to the worst of
 
-characters--the double character." Later, St. James would write, "a double-minded man
+characters--the double character." Later, the Apostle James would write, "a double-minded man
 
 [is] unstable in all his ways" ([[JAS.1:8]]). 
 
@@ -755,13 +755,12 @@ referred to.
 
 The declaration of two paths of life and death was to remind Israel they had
 
-abandoned the Law, which also set forth these two ways for the people of Israel (Dt
+abandoned the Law, which also set forth these two ways for the people of Israel
+([[DEU.30:15]]).
 
+21:13 Sor: The same people who were the recipients of Ezekiel's prophecy in [[EZK.26]].
 
-### 30:15
-*(anchor: JER.30:15)*
-
-). 21:13 Sor: The same people who were the recipients of Ezekiel's prophecy in Ezk 26. 22:6
+22:6
 
 Gilead/Lebanon: The former was famous for its spices (8:20); the latter was
 
@@ -771,11 +770,17 @@ Shallum: An alternative name for Jehoahaz. The custom of calling one person by
 
 different names is found throughout Scripture. 22:12
 
-In the place: Egypt (4Kg 12:31-34; C2hr 36:1-4). 22:15
+In the place: Egypt ([[2KI.12:31]]-34; [[2CH.36:1]]-4).
+
+22:15
 
 They: Not only Ahaz, but all the deceased kings. 22:19
 
-The type of death he incurred is recounted in C2hr 36:6. 22:30 Zedekiah, the successor to Jeconiah, was his kinsman (C2hr 36:10). 23:3
+The type of death he incurred is recounted in [[2CH.36:6]].
+
+22:30 Zedekiah, the successor to Jeconiah, was his kinsman ([[2CH.36:10]]).
+
+23:3
 
 God promises the increase of His flock without the assistance of the negligent
 
@@ -797,13 +802,17 @@ Ascension rises to David. We sing of Christ at the sacraments of marriage and or
 
 The Lord our Righteousness is Jesus Christ, who will come that Judah and all
 
-people will be saved. 23:16
+people will be saved.
+
+23:16
 
 Speak from their own heart: The ultimate hallmark of a false prophet is that he
 
 is the source of his own "divine teaching," just as heretics are the human inventors of
 
-their own novelties. 23:17 Error of his heart is literally, "things they want," emphasizing that the fault lies in
+their own novelties.
+
+23:17 Error of his heart is literally, "things they want," emphasizing that the fault lies in
 
 the decisions of the false prophets, not in some outside, compulsory force. 24:1-10
 
@@ -813,9 +822,15 @@ single person in the land was to be taken away into captivity, but only the wors
 
 seems that as some were to be deported, others of those already exiled were brought back. It may have been in light of this passage that our Lord Jesus Christ commanded us to
 
-judge a tree by its fruit ([[MAT.7:16]]-20). 25:1
+judge a tree by its fruit ([[MAT.7:16]]-20).
 
-Fourth year: 606/605 BC. 25:3 Thirteenth year: 605/604 BC. Twenty-third year: 595/594 BC. 25:14
+25:1
+
+Fourth year: 606/605 BC.
+
+25:3 Thirteenth year: 605/604 BC. Twenty-third year: 595/594 BC.
+
+25:14
 
 Here begins the series of prophecies delivered against various nations surrounding
 
@@ -833,7 +848,9 @@ Hoping to imitate the river Nile, the king of Egypt planned to cover the earth w
 
 Egyptian power. 26:8
 
-Ethiopia/Libya/Lydians: Vassals and allies of Egypt. 26:13 Migdol/Memphis: Cities in Egypt. Migdol is on the northeast border of Egypt near
+Ethiopia/Libya/Lydians: Vassals and allies of Egypt.
+
+26:13 Migdol/Memphis: Cities in Egypt. Migdol is on the northeast border of Egypt near
 
 the delta; Memphis is close to modern-day Cairo. 26:14
 
@@ -869,7 +886,9 @@ Bel and Merodach are two famous Babylonian deities or idols. 27:3
 
 Just as destruction came on Israel from the north, Babylon also falls at the hand of
 
-a power from the north: Persia. 27:4-5 The demise of Babylon comes in the repentance of the children of Israel. In like
+a power from the north: Persia.
+
+27:4-5 The demise of Babylon comes in the repentance of the children of Israel. In like
 
 manner, when we repent, our enemy and his demonic forces are routed. 27:25
 
@@ -1422,12 +1441,9 @@ Seventh month: Probably the same year Jerusalem was sacked, 586 BC.
 *(anchor: JER.48:2)*
 
 Judah. The death of Gedaliah will mark the end of the five-year stay of the Jews in
+Shechem, Shalem, and Samaria: Three areas near Israel in the north of Judah, which had already changed in ethnic composition after the Assyrian deportation.
 
-
-### 48:5
-*(anchor: JER.48:5)*
-
-Shechem, Shalem, and Samaria: Three areas near Israel in the north of Judah, which had already changed in ethnic composition after the Assyrian deportation. 48:5-8 Hence, Ishmael killed seventy men. Gedaliah himself was mourned by the exiles
+48:5-8 Hence, Ishmael killed seventy men. Gedaliah himself was mourned by the exiles
 
 for those seventy years of exile by an annual fast ([[ZEC.7:5]]). 
 

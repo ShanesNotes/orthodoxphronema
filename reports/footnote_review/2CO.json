@@ -1,0 +1,447 @@
+{
+  "book_code": "2CO",
+  "position": 57,
+  "testament": "NT",
+  "status": "complete",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/2CO_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 39,
+      "auto_fixable": 0,
+      "review_needed": 39,
+      "files_checked": 1,
+      "lines_checked": 338,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 27,
+      "P7": 12
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "2CO",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/2CO_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/2CO_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/2CO.md",
+    "counts": {
+      "scripture_markers": 63,
+      "footnote_entries": 63,
+      "scripture_anchors": 257,
+      "valid_marker_anchors": 63,
+      "valid_note_anchors": 63
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 23,
+    "convertible_refs": 0,
+    "already_linked_refs": 23,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 315,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "power of God and, more, disclose His Grace\" (JohnChr)."
+        },
+        {
+          "line_number": 557,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "themselves\"--JohnChr) and then to us, to the Church, to the apostles. If our lives are"
+        }
+      ],
+      "entity_counts": {
+        "JOHN_CHRYSOSTOM": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 315,
+          "snippet": "JohnChr"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 48,
+      "matched_entities": [
+        {
+          "line_number": 33,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "comfort others. Thus, Paul shows the fallacy in his opponents' idea that Christians should"
+        },
+        {
+          "line_number": 41,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "What this trouble is for Paul is not clear--perhaps a physical malady or persecution."
+        },
+        {
+          "line_number": 53,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul was accused by the dissidents/schismatics in Corinth of speaking murkily,"
+        },
+        {
+          "line_number": 61,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul has changed his travel plans. (1) In his earlier letter, he planned to travel to"
+        },
+        {
+          "line_number": 79,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Silvanus is Silas, Paul's longtime coworker ([[ACT.15:40]])."
+        },
+        {
+          "line_number": 105,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "The real reason for Paul's change in itinerary is graciousness: to spare them a"
+        },
+        {
+          "line_number": 159,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "The outsiders who came to Corinth as prominent apostles demanded evidence of Paul's"
+        },
+        {
+          "line_number": 161,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "sincerity. They themselves carried forged epistles of commendation--letters Paul"
+        },
+        {
+          "line_number": 163,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "could not match. They maintained Paul was not a genuine apostle."
+        },
+        {
+          "line_number": 169,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul does not need a commendation in ink (v. 3), for the Corinthians have all"
+        },
+        {
+          "line_number": 173,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul compares the difference between sterile epistles and living spiritual fruit to the"
+        },
+        {
+          "line_number": 177,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "on tablets... of the heart. The impostors in Corinth are lifeless legalists. Paul is"
+        },
+        {
+          "line_number": 235,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Holy Spirit are in no way confused here--Paul has in mind one Person or another. The"
+        },
+        {
+          "line_number": 247,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul is transforming the Old Covenant understanding of one God, the Lord, into Jesus'"
+        },
+        {
+          "line_number": 279,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "responsibility \"for all the churches\" (11:28), Paul still writes, we do not lose heart (see"
+        },
+        {
+          "line_number": 333,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "of our salvation, that Paul describes here, saying that our inner life is being renewed"
+        },
+        {
+          "line_number": 341,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Despite Paul's hardships (vv. 8-12), he sees God's everlasting glory and calls his"
+        },
+        {
+          "line_number": 365,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "(v. 3), or unclothed (v. 4), when it departs the body, that is, when one dies. Paul longs"
+        },
+        {
+          "line_number": 385,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Following his discourse on suffering, death, and resurrection (4:16-5:8), Paul now"
+        },
+        {
+          "line_number": 397,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "In his gospel, Paul seeks to persuade men (v. 11) on two fronts: (1) by the terror"
+        },
+        {
+          "line_number": 403,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's gospel is baptism, where life and death meet: Christ died and rose for us that we"
+        },
+        {
+          "line_number": 411,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul did not know \"the historical Jesus\" as He voluntarily took on our mortality,"
+        },
+        {
+          "line_number": 525,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "church in Jerusalem. Beyond the material help Jerusalem needs, for Paul this appears to"
+        },
+        {
+          "line_number": 535,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul had given the Corinthians the same instruction he gave to Galatia, to contribute"
+        },
+        {
+          "line_number": 539,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "do so (8:6). Paul has told the Macedonians that Corinth was exemplary in giving (9:2),"
+        },
+        {
+          "line_number": 543,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "(9:3-5). Some in Corinth feel pressure, saying that Paul is \"crafty\"; he gets his way \"by"
+        },
+        {
+          "line_number": 545,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "cunning\" (12:16). Paul encourages the Corinthians by holding up the generosity of the"
+        },
+        {
+          "line_number": 549,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "fund, and Paul is pleased with them ([[ROM.15:25]]-28)."
+        },
+        {
+          "line_number": 585,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul has stuck his neck out. The Corinthians' \"zeal\" had caused many in Macedonia to"
+        },
+        {
+          "line_number": 587,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "give to Jerusalem (v. 2). Yet, to make sure Corinth will stay zealous, Paul has sent the"
+        },
+        {
+          "line_number": 595,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Here is Paul's landmark teaching on Christian stewardship. The metaphor is not the"
+        },
+        {
+          "line_number": 605,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul replies to the charges of his opponents: far from being weak, he is"
+        },
+        {
+          "line_number": 641,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "relationship to Christ. Paul here counters their claim by boasting somewhat more of his"
+        },
+        {
+          "line_number": 653,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's opponents had stepped into his sphere (v. 13) after he had evangelized"
+        },
+        {
+          "line_number": 663,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul compares the reality of the New Covenant to the Garden of Eden, where Christ"
+        },
+        {
+          "line_number": 667,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's desire is to present a pure Church, a chaste virgin (v. 2), to Christ at the Second"
+        },
+        {
+          "line_number": 677,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "human persuasiveness (v. 6) but apostolic content is important. Paul is a part of the"
+        },
+        {
+          "line_number": 689,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "point of getting rich (see [[1CO.9:4]]-18; [[1TI.6:3]]-10; [[TIT.1:11]]). Paul's opponents dared not"
+        },
+        {
+          "line_number": 711,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "disparaged Paul, seeing him as a weakling without credentials. As a result they were in"
+        },
+        {
+          "line_number": 713,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "bondage (v. 20), defrauded and even brutalized. Paul, playing the devil's advocate, takes"
+        },
+        {
+          "line_number": 723,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Using his opponents' level of argument, Paul lists his Jewish and Christian"
+        },
+        {
+          "line_number": 725,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "credentials. If genealogy means anything, which it does to the Jews, Paul has it (v. 22). If"
+        },
+        {
+          "line_number": 737,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul's opponents probably boasted of visions and revelations (v. 1), for Paul"
+        },
+        {
+          "line_number": 741,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "journeys. Paul employs two terms used by Jews to describe heavenly realms: the third"
+        },
+        {
+          "line_number": 753,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "mystical experiences, Paul sees his thorn in the flesh (v. 7) as given to him precisely"
+        },
+        {
+          "line_number": 757,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "deluded Christian leaders, or hard-hearted Israelites. Nevertheless, for Paul, his"
+        },
+        {
+          "line_number": 769,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul seems to be referring to miracles that lead men to God and the Church, for with"
+        },
+        {
+          "line_number": 783,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul is more impressed with the miracle of unity and harmony than with physical"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 48
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 227,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Nicene Creed",
+          "context": "11:15; 21:22), and the Spirit is referred to as Lord here (v. 17) and in the Nicene Creed: \"I"
+        },
+        {
+          "line_number": 227,
+          "entity": "NICENE_CREED",
+          "matched_alias": "Creed",
+          "context": "11:15; 21:22), and the Spirit is referred to as Lord here (v. 17) and in the Nicene Creed: \"I"
+        }
+      ],
+      "entity_counts": {
+        "NICENE_CREED": 2
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 2,
+    "matched_entities": [
+      {
+        "line_number": 315,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "power of God and, more, disclose His Grace\" (JohnChr)."
+      },
+      {
+        "line_number": 557,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "themselves\"--JohnChr) and then to us, to the Church, to the apostles. If our lives are"
+      }
+    ],
+    "entity_counts": {
+      "JOHN_CHRYSOSTOM": 2
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 315,
+        "snippet": "JohnChr"
+      }
+    ]
+  }
+}

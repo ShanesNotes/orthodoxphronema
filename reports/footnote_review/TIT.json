@@ -1,0 +1,152 @@
+{
+  "book_code": "TIT",
+  "position": 66,
+  "testament": "NT",
+  "status": "complete",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/TIT_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": true,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 15,
+      "auto_fixable": 0,
+      "review_needed": 15,
+      "files_checked": 1,
+      "lines_checked": 61,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 15
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "TIT",
+    "testament": "NT",
+    "status": "pass",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/NT/TIT_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/NT/TIT_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/NT/TIT.md",
+    "counts": {
+      "scripture_markers": 10,
+      "footnote_entries": 10,
+      "scripture_anchors": 46,
+      "valid_marker_anchors": 10,
+      "valid_note_anchors": 10
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
+  },
+  "wikilinks": {
+    "total_refs": 8,
+    "convertible_refs": 0,
+    "already_linked_refs": 8,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "apostolic": {
+      "matched_entities_count": 8,
+      "matched_entities": [
+        {
+          "line_number": 21,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "and other OT prophets were the bondservants of the Lord. Paul, of course, knew of both"
+        },
+        {
+          "line_number": 35,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "When Paul evangelized an area, he did not leave it unattended ([[1CO.3:6]]-10; [[COL.1:7]])."
+        },
+        {
+          "line_number": 81,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "While Christian ethical teaching often appears similar to other systems--Paul uses"
+        },
+        {
+          "line_number": 107,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "statement of the divinity of Christ (see [[ROM.9:5]]; [[2PE.1:1]]). In Paul's thought, \"God\" refers"
+        },
+        {
+          "line_number": 111,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "As Paul grew older, it seems his sense of the difference between this age and the age to"
+        },
+        {
+          "line_number": 125,
+          "entity": "PETER_APOSTLE",
+          "matched_alias": "Peter",
+          "context": "born from above through \"water and the Spirit\" ([[JOH.3:5]]); Peter preached salvation in"
+        },
+        {
+          "line_number": 129,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Now Paul calls us to the washing of the water and the renewing of the Holy Spirit."
+        },
+        {
+          "line_number": 135,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "While Paul is painfully aware we are awaiting the consummation of the age to come"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 7,
+        "PETER_APOSTLE": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 0,
+    "matched_entities": [],
+    "entity_counts": {},
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": []
+  }
+}

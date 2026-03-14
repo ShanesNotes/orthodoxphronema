@@ -267,13 +267,7 @@ Prostitution here refers to engaging in sex outside marriage, which may or may n
 
 involve the payment of money. The sons of Wisdom need to obey Him and His teachings, and stay away from sex outside marriage (vv. 7, 8). For the perils are many. In fornication, a man becomes one flesh with numerous women, which in the end
 
-brings regret and a totally dissipated life (vv. 9-11; see also St. Paul's teaching in 1Co
-
-
-### 6:15
-*(anchor: PRO.6:15)*
-
--20). Such a son will regret hating the instruction and reproofs of Wisdom (vv. 12, 13). Furthermore, little by little, this lifestyle leads to other sins, which are evident
+brings regret and a totally dissipated life (vv. 9-11; see also St. Paul's teaching in [[1CO.6:15]]-20). Such a son will regret hating the instruction and reproofs of Wisdom (vv. 12, 13). Furthermore, little by little, this lifestyle leads to other sins, which are evident
 
 not only to God but to the church (v. 14). 5:15-19
 
@@ -287,7 +281,9 @@ it is filled with blessings from Wisdom (vv. 16-18). For within it, both husband
 
 rejoice together (v. 18), and the wife's love and companionship make her husband
 
-great (v. 19). 5:20-23
+great (v. 19).
+
+5:20-23
 
 In conclusion, the eyes of God keep close watch on a man (vv. 20, 21). For a
 
@@ -297,9 +293,13 @@ exposed before God. And although a lawless woman may ensnare a man, the man also
 
 responsible for chaining himself with his own sins (v. 22). For he refuses Wisdom's
 
-crown of discernment, and is finally destroyed with the rest of the undiscerning (v. 23; see also [[HEB.13:4]]). 6:1-40 This chapter warns against four vices or sinful passions: a careless tongue (vv. 1-6), laziness (vv. 7-16), a lawless spirit (vv. 17-25), and unlawful sexual intercourse (vv. 26-
+crown of discernment, and is finally destroyed with the rest of the undiscerning (v. 23; see also [[HEB.13:4]]).
 
-40). 6:1-6 Assuming debt for a friend in this instance refers to a son of Wisdom pledging with
+6:1-40 This chapter warns against four vices or sinful passions: a careless tongue (vv. 1-6), laziness (vv. 7-16), a lawless spirit (vv. 17-25), and unlawful sexual intercourse (vv. 26-
+
+40).
+
+6:1-6 Assuming debt for a friend in this instance refers to a son of Wisdom pledging with
 
 his lips to join with a friend in his evil undertakings (v. 1). As St. Paul said, "Evil company
 
@@ -638,7 +638,9 @@ holy behavior, seen in a wise and righteous man (vv. 8, 9).
 ### 9:25
 *(anchor: PRO.9:25)*
 
-Holy behavior is conducive to long life. 9:1-25 This chapter may be outlined as follows: Introduction (v. 1); Wisdom's invitation to
+Holy behavior is conducive to long life.
+
+9:1-25 This chapter may be outlined as follows: Introduction (v. 1); Wisdom's invitation to
 
 mankind (vv. 2-6); Wisdom's discernment in those who accept His invitation (vv. 7-24); and conclusion (v. 25). 
 
@@ -1346,7 +1348,9 @@ pleased. But people are ungodly because they lack humility; thus their works are
 
 unacceptable to the Lord. The evil day indicates the destructive road they are traveling
 
-in life. 16:1-9 This passage, coupled with 15:22-25, is read during Wednesday Vespers in the fifth
+in life.
+
+16:1-9 This passage, coupled with 15:22-25, is read during Wednesday Vespers in the fifth
 
 week of Great Lent. 
 
@@ -1381,7 +1385,9 @@ love Him. This virtue is the standard (weight of a scale) by which the Lord does
 
 works. Thus, His righteousness is also the standard by which man does works acceptable
 
-to Him. 16:1-9 This passage, coupled with 15:22-25, is read during Wednesday Vespers in the fifth
+to Him.
+
+16:1-9 This passage, coupled with 15:22-25, is read during Wednesday Vespers in the fifth
 
 week of Great Lent. 
 

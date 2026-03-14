@@ -1,0 +1,902 @@
+{
+  "book_code": "ISA",
+  "position": 43,
+  "testament": "OT",
+  "status": "review_required",
+  "content_surface": "study",
+  "verification_surface": "staging",
+  "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/ISA_footnotes.md",
+  "component_status": {
+    "mechanical_clean": true,
+    "structural_clean": true,
+    "marker_alignment_pass": false,
+    "wikilinks_verified": true,
+    "patristic_entity_verified": true,
+    "apostolic_entity_verified": true,
+    "liturgical_creedal_verified": true
+  },
+  "mechanical": {
+    "tool_status": "ok",
+    "summary": {
+      "total_findings": 396,
+      "auto_fixable": 0,
+      "review_needed": 396,
+      "files_checked": 1,
+      "lines_checked": 790,
+      "lines_fixed": 0
+    },
+    "by_category": {
+      "P6": 318,
+      "P7": 78
+    }
+  },
+  "structure": {
+    "issue_count": 0,
+    "findings": [],
+    "truncated": false
+  },
+  "footnote_verification": {
+    "book_code": "ISA",
+    "testament": "OT",
+    "status": "review_required",
+    "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/ISA_footnote_markers.json",
+    "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/ISA_footnotes.md",
+    "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/ISA.md",
+    "counts": {
+      "scripture_markers": 184,
+      "footnote_entries": 184,
+      "scripture_anchors": 241,
+      "valid_marker_anchors": 184,
+      "valid_note_anchors": 184
+    },
+    "invalid_marker_anchors": {},
+    "invalid_note_anchors": {},
+    "missing_in_notes": [],
+    "missing_in_scripture": [],
+    "marker_anchor_gaps": [
+      "ISA.1:11",
+      "ISA.1:21",
+      "ISA.1:22",
+      "ISA.1:23",
+      "ISA.1:24",
+      "ISA.1:9",
+      "ISA.26:18",
+      "ISA.26:19",
+      "ISA.27:10",
+      "ISA.27:12",
+      "ISA.27:9",
+      "ISA.28:16",
+      "ISA.28:21",
+      "ISA.28:4",
+      "ISA.29:23",
+      "ISA.30:18",
+      "ISA.30:2",
+      "ISA.30:20",
+      "ISA.30:31",
+      "ISA.30:9",
+      "ISA.31:4",
+      "ISA.31:8",
+      "ISA.32:2",
+      "ISA.32:20",
+      "ISA.33:16",
+      "ISA.33:17",
+      "ISA.33:2",
+      "ISA.33:22",
+      "ISA.33:5",
+      "ISA.34:11",
+      "ISA.35:8",
+      "ISA.36:3",
+      "ISA.36:4",
+      "ISA.37:10",
+      "ISA.37:22",
+      "ISA.38:7",
+      "ISA.3:10",
+      "ISA.40:11",
+      "ISA.40:22",
+      "ISA.41:2",
+      "ISA.41:20",
+      "ISA.41:4",
+      "ISA.41:5",
+      "ISA.42:13",
+      "ISA.42:25",
+      "ISA.42:8",
+      "ISA.43:5",
+      "ISA.44:28",
+      "ISA.44:3",
+      "ISA.44:7",
+      "ISA.45:6",
+      "ISA.45:9",
+      "ISA.46:10",
+      "ISA.46:3",
+      "ISA.48:15",
+      "ISA.48:16",
+      "ISA.48:5",
+      "ISA.49:16",
+      "ISA.49:2",
+      "ISA.49:3",
+      "ISA.4:4",
+      "ISA.50:6",
+      "ISA.51:12",
+      "ISA.51:3",
+      "ISA.51:5",
+      "ISA.51:6",
+      "ISA.52:3",
+      "ISA.53:10",
+      "ISA.53:12",
+      "ISA.53:2",
+      "ISA.53:3",
+      "ISA.53:5",
+      "ISA.53:6",
+      "ISA.53:7",
+      "ISA.53:8",
+      "ISA.53:9",
+      "ISA.54:11",
+      "ISA.54:2",
+      "ISA.54:9",
+      "ISA.55:10",
+      "ISA.55:8",
+      "ISA.56:6",
+      "ISA.57:14",
+      "ISA.57:3",
+      "ISA.58:11",
+      "ISA.58:12",
+      "ISA.58:2",
+      "ISA.58:7",
+      "ISA.58:9",
+      "ISA.59:12",
+      "ISA.59:17",
+      "ISA.59:20",
+      "ISA.59:3",
+      "ISA.60:4",
+      "ISA.60:6",
+      "ISA.61:10",
+      "ISA.61:3",
+      "ISA.61:7",
+      "ISA.62:10",
+      "ISA.62:3",
+      "ISA.62:6",
+      "ISA.62:7",
+      "ISA.62:8",
+      "ISA.63:11",
+      "ISA.63:12",
+      "ISA.63:15",
+      "ISA.63:17",
+      "ISA.64:4",
+      "ISA.64:5",
+      "ISA.65:16",
+      "ISA.65:17",
+      "ISA.65:2",
+      "ISA.65:3",
+      "ISA.66:10",
+      "ISA.66:15",
+      "ISA.66:19",
+      "ISA.66:20",
+      "ISA.66:7",
+      "ISA.66:8"
+    ],
+    "note_anchor_gaps": [
+      "ISA.1:11",
+      "ISA.1:21",
+      "ISA.1:22",
+      "ISA.1:23",
+      "ISA.1:24",
+      "ISA.1:9",
+      "ISA.26:18",
+      "ISA.26:19",
+      "ISA.27:10",
+      "ISA.27:12",
+      "ISA.27:9",
+      "ISA.28:16",
+      "ISA.28:21",
+      "ISA.28:4",
+      "ISA.29:23",
+      "ISA.30:18",
+      "ISA.30:2",
+      "ISA.30:20",
+      "ISA.30:31",
+      "ISA.30:9",
+      "ISA.31:4",
+      "ISA.31:8",
+      "ISA.32:2",
+      "ISA.32:20",
+      "ISA.33:16",
+      "ISA.33:17",
+      "ISA.33:2",
+      "ISA.33:22",
+      "ISA.33:5",
+      "ISA.34:11",
+      "ISA.35:8",
+      "ISA.36:3",
+      "ISA.36:4",
+      "ISA.37:10",
+      "ISA.37:22",
+      "ISA.38:7",
+      "ISA.3:10",
+      "ISA.40:11",
+      "ISA.40:22",
+      "ISA.41:2",
+      "ISA.41:20",
+      "ISA.41:4",
+      "ISA.41:5",
+      "ISA.42:13",
+      "ISA.42:25",
+      "ISA.42:8",
+      "ISA.43:5",
+      "ISA.44:28",
+      "ISA.44:3",
+      "ISA.44:7",
+      "ISA.45:6",
+      "ISA.45:9",
+      "ISA.46:10",
+      "ISA.46:3",
+      "ISA.48:15",
+      "ISA.48:16",
+      "ISA.48:5",
+      "ISA.49:16",
+      "ISA.49:2",
+      "ISA.49:3",
+      "ISA.4:4",
+      "ISA.50:6",
+      "ISA.51:12",
+      "ISA.51:3",
+      "ISA.51:5",
+      "ISA.51:6",
+      "ISA.52:3",
+      "ISA.53:10",
+      "ISA.53:12",
+      "ISA.53:2",
+      "ISA.53:3",
+      "ISA.53:5",
+      "ISA.53:6",
+      "ISA.53:7",
+      "ISA.53:8",
+      "ISA.53:9",
+      "ISA.54:11",
+      "ISA.54:2",
+      "ISA.54:9",
+      "ISA.55:10",
+      "ISA.55:8",
+      "ISA.56:6",
+      "ISA.57:14",
+      "ISA.57:3",
+      "ISA.58:11",
+      "ISA.58:12",
+      "ISA.58:2",
+      "ISA.58:7",
+      "ISA.58:9",
+      "ISA.59:12",
+      "ISA.59:17",
+      "ISA.59:20",
+      "ISA.59:3",
+      "ISA.60:4",
+      "ISA.60:6",
+      "ISA.61:10",
+      "ISA.61:3",
+      "ISA.61:7",
+      "ISA.62:10",
+      "ISA.62:3",
+      "ISA.62:6",
+      "ISA.62:7",
+      "ISA.62:8",
+      "ISA.63:11",
+      "ISA.63:12",
+      "ISA.63:15",
+      "ISA.63:17",
+      "ISA.64:4",
+      "ISA.64:5",
+      "ISA.65:16",
+      "ISA.65:17",
+      "ISA.65:2",
+      "ISA.65:3",
+      "ISA.66:10",
+      "ISA.66:15",
+      "ISA.66:19",
+      "ISA.66:20",
+      "ISA.66:7",
+      "ISA.66:8"
+    ],
+    "issue_count": 238
+  },
+  "wikilinks": {
+    "total_refs": 100,
+    "convertible_refs": 0,
+    "already_linked_refs": 100,
+    "unresolved_refs": 0,
+    "unresolved_examples": []
+  },
+  "source_entities": {
+    "patristic": {
+      "matched_entities_count": 30,
+      "matched_entities": [
+        {
+          "line_number": 152,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "the Hebrew people (JohnChr). This messianic prophecy is fulfilled when the virgin Mary"
+        },
+        {
+          "line_number": 156,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "virgin, shut off from the occasional sight of men\" (Jerome). The Greek word used in the"
+        },
+        {
+          "line_number": 272,
+          "entity": "JOSEPH_BETROTHED",
+          "matched_alias": "Joseph",
+          "context": "Mary and Joseph to bring the Child there for protection from Herod, and for the apostles"
+        },
+        {
+          "line_number": 330,
+          "entity": "EUSEBIUS",
+          "matched_alias": "Eusebius",
+          "context": "worship Christ. Eusebius interprets the tabernacle of David as the Church of Christ"
+        },
+        {
+          "line_number": 501,
+          "entity": "BASIL_GREAT",
+          "matched_alias": "BasilG",
+          "context": "(BasilG)."
+        },
+        {
+          "line_number": 532,
+          "entity": "EUSEBIUS",
+          "matched_alias": "Eusebius",
+          "context": "This passage is interpreted by Eusebius and Cyril as relating to the downfall of the"
+        },
+        {
+          "line_number": 536,
+          "entity": "EPHRAIM_SYRIAN",
+          "matched_alias": "Ephraim",
+          "context": "treachery of Judas, who was descended from the tribe of Ephraim."
+        },
+        {
+          "line_number": 877,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "This passage is a prophecy of John the Baptist, who will be the voice proclaiming"
+        },
+        {
+          "line_number": 1236,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgTheo",
+          "context": "Christ is able to redeem the soul. Christ will offer Himself as a sacrifice, paying the price, so to speak, to \"reality itself\" (GrgTheo)."
+        },
+        {
+          "line_number": 1250,
+          "entity": "IRENAEUS",
+          "matched_alias": "Iren",
+          "context": "among the people and humbled Himself even unto death\" (Iren)."
+        },
+        {
+          "line_number": 1259,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "brought to honor\" (AthanG)."
+        },
+        {
+          "line_number": 1278,
+          "entity": "GREGORY_THEOLOGIAN",
+          "matched_alias": "GrgTheo",
+          "context": "\"The shepherd of Israel, and now of the whole world also\" (GrgTheo) became \"the"
+        },
+        {
+          "line_number": 1310,
+          "entity": "CYRIL_JERUSALEM",
+          "matched_alias": "CyrJer",
+          "context": "longer\" (CyrJer)."
+        },
+        {
+          "line_number": 1349,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "more valuable than money\" (AmbM; see also [[REV.21:6]], [[REV.21:7]])."
+        },
+        {
+          "line_number": 1407,
+          "entity": "JOHN_FORERUNNER",
+          "matched_alias": "John the Baptist",
+          "context": "This prophecy is fulfilled in John the Baptist (see 40:3)."
+        },
+        {
+          "line_number": 1428,
+          "entity": "AUGUSTINE_HIPPO",
+          "matched_alias": "Augustine",
+          "context": "Fasting and other ascetic acts do not necessarily indicate virtue. Blessed Augustine"
+        },
+        {
+          "line_number": 1467,
+          "entity": "ISAAC_SYRIAN",
+          "matched_alias": "IsaacS",
+          "context": "(IsaacS)."
+        },
+        {
+          "line_number": 1476,
+          "entity": "ATHANASIUS",
+          "matched_alias": "AthanG",
+          "context": "instead of loving them, desire evil against them\" (AthanG)."
+        },
+        {
+          "line_number": 1508,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "(JohnDm)."
+        },
+        {
+          "line_number": 1513,
+          "entity": "CYRIL_JERUSALEM",
+          "matched_alias": "St. Cyril",
+          "context": "For St. Cyril, this passage refers not only to the return of the Jews from exile, but"
+        },
+        {
+          "line_number": 1522,
+          "entity": "EUSEBIUS",
+          "matched_alias": "Eusebius",
+          "context": "Sheba is an Ethiopian tribe. Eusebius sees these nations, along with their camels, sheep, rams, and wealth, as metaphors for the spiritual gifts and sacrifices which will be"
+        },
+        {
+          "line_number": 1526,
+          "entity": "GREGORY_NYSSA",
+          "matched_alias": "Gregory of Nyssa",
+          "context": "glorified. Gregory of Nyssa comments that \"virtue is a light and buoyant thing,\" and"
+        },
+        {
+          "line_number": 1545,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "anointed and sent to preach the Gospel\" (AmbM)."
+        },
+        {
+          "line_number": 1569,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "St. John Chrysostom",
+          "context": "St. John Chrysostom teaches that the garment of salvation is Christ Himself, as do others of the Fathers. This explains why St. Paul wrote that in baptism we \"put on"
+        },
+        {
+          "line_number": 1569,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "Chrysostom",
+          "context": "St. John Chrysostom teaches that the garment of salvation is Christ Himself, as do others of the Fathers. This explains why St. Paul wrote that in baptism we \"put on"
+        },
+        {
+          "line_number": 1569,
+          "entity": "JOHN_THEOLOGIAN",
+          "matched_alias": "St. John",
+          "context": "St. John Chrysostom teaches that the garment of salvation is Christ Himself, as do others of the Fathers. This explains why St. Paul wrote that in baptism we \"put on"
+        },
+        {
+          "line_number": 1725,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "place, filling all things\" (JohnDm; see also [[JOH.4:20]]-24)."
+        },
+        {
+          "line_number": 1743,
+          "entity": "JOHN_DAMASCENE",
+          "matched_alias": "JohnDm",
+          "context": "it\" (JohnDm)."
+        },
+        {
+          "line_number": 1759,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "St. Ambrose",
+          "context": "Bride, the Church. Regarding verse 12, St. Ambrose says, \"The Holy Spirit is the river.\""
+        },
+        {
+          "line_number": 1759,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "Ambrose",
+          "context": "Bride, the Church. Regarding verse 12, St. Ambrose says, \"The Holy Spirit is the river.\""
+        }
+      ],
+      "entity_counts": {
+        "AMBROSE_MILAN": 4,
+        "ATHANASIUS": 2,
+        "AUGUSTINE_HIPPO": 1,
+        "BASIL_GREAT": 1,
+        "CYRIL_JERUSALEM": 2,
+        "EPHRAIM_SYRIAN": 1,
+        "EUSEBIUS": 3,
+        "GREGORY_NYSSA": 1,
+        "GREGORY_THEOLOGIAN": 2,
+        "IRENAEUS": 1,
+        "ISAAC_SYRIAN": 1,
+        "JEROME": 1,
+        "JOHN_CHRYSOSTOM": 3,
+        "JOHN_DAMASCENE": 3,
+        "JOHN_FORERUNNER": 2,
+        "JOHN_THEOLOGIAN": 1,
+        "JOSEPH_BETROTHED": 1
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
+        {
+          "line_number": 152,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 156,
+          "snippet": "Jerome"
+        },
+        {
+          "line_number": 501,
+          "snippet": "BasilG"
+        },
+        {
+          "line_number": 1236,
+          "snippet": "GrgTheo"
+        },
+        {
+          "line_number": 1250,
+          "snippet": "Iren"
+        },
+        {
+          "line_number": 1259,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1278,
+          "snippet": "GrgTheo"
+        },
+        {
+          "line_number": 1310,
+          "snippet": "CyrJer"
+        },
+        {
+          "line_number": 1467,
+          "snippet": "IsaacS"
+        },
+        {
+          "line_number": 1476,
+          "snippet": "AthanG"
+        },
+        {
+          "line_number": 1508,
+          "snippet": "JohnDm"
+        },
+        {
+          "line_number": 1545,
+          "snippet": "AmbM"
+        },
+        {
+          "line_number": 1743,
+          "snippet": "JohnDm"
+        }
+      ]
+    },
+    "apostolic": {
+      "matched_entities_count": 9,
+      "matched_entities": [
+        {
+          "line_number": 478,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "Hard circumstances are seen by the righteous as a reason to remember the Lord. The holy prophet calls them a small affliction; or as St. Paul writes, \"our light affliction, which... is working for us a far more exceeding and eternal weight "
+        },
+        {
+          "line_number": 478,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Hard circumstances are seen by the righteous as a reason to remember the Lord. The holy prophet calls them a small affliction; or as St. Paul writes, \"our light affliction, which... is working for us a far more exceeding and eternal weight "
+        },
+        {
+          "line_number": 1019,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. Paul writes that God has declared Himself since creation. But men hide"
+        },
+        {
+          "line_number": 1019,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. Paul writes that God has declared Himself since creation. But men hide"
+        },
+        {
+          "line_number": 1273,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "is the message St. Paul proclaims in [[2CO.5:21]]."
+        },
+        {
+          "line_number": 1273,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "is the message St. Paul proclaims in [[2CO.5:21]]."
+        },
+        {
+          "line_number": 1488,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "Paul uses this verse in his passages on spiritual warfare ([[EPH.6:13]]-17; [[1TH.5:8]])."
+        },
+        {
+          "line_number": 1569,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "St. Paul",
+          "context": "St. John Chrysostom teaches that the garment of salvation is Christ Himself, as do others of the Fathers. This explains why St. Paul wrote that in baptism we \"put on"
+        },
+        {
+          "line_number": 1569,
+          "entity": "PAUL_APOSTLE",
+          "matched_alias": "Paul",
+          "context": "St. John Chrysostom teaches that the garment of salvation is Christ Himself, as do others of the Fathers. This explains why St. Paul wrote that in baptism we \"put on"
+        }
+      ],
+      "entity_counts": {
+        "PAUL_APOSTLE": 9
+      },
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    },
+    "liturgical_creedal": {
+      "matched_entities_count": 0,
+      "matched_entities": [],
+      "entity_counts": {},
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": []
+    }
+  },
+  "patristics": {
+    "matched_entities_count": 30,
+    "matched_entities": [
+      {
+        "line_number": 152,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "the Hebrew people (JohnChr). This messianic prophecy is fulfilled when the virgin Mary"
+      },
+      {
+        "line_number": 156,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "virgin, shut off from the occasional sight of men\" (Jerome). The Greek word used in the"
+      },
+      {
+        "line_number": 272,
+        "entity": "JOSEPH_BETROTHED",
+        "matched_alias": "Joseph",
+        "context": "Mary and Joseph to bring the Child there for protection from Herod, and for the apostles"
+      },
+      {
+        "line_number": 330,
+        "entity": "EUSEBIUS",
+        "matched_alias": "Eusebius",
+        "context": "worship Christ. Eusebius interprets the tabernacle of David as the Church of Christ"
+      },
+      {
+        "line_number": 501,
+        "entity": "BASIL_GREAT",
+        "matched_alias": "BasilG",
+        "context": "(BasilG)."
+      },
+      {
+        "line_number": 532,
+        "entity": "EUSEBIUS",
+        "matched_alias": "Eusebius",
+        "context": "This passage is interpreted by Eusebius and Cyril as relating to the downfall of the"
+      },
+      {
+        "line_number": 536,
+        "entity": "EPHRAIM_SYRIAN",
+        "matched_alias": "Ephraim",
+        "context": "treachery of Judas, who was descended from the tribe of Ephraim."
+      },
+      {
+        "line_number": 877,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "This passage is a prophecy of John the Baptist, who will be the voice proclaiming"
+      },
+      {
+        "line_number": 1236,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgTheo",
+        "context": "Christ is able to redeem the soul. Christ will offer Himself as a sacrifice, paying the price, so to speak, to \"reality itself\" (GrgTheo)."
+      },
+      {
+        "line_number": 1250,
+        "entity": "IRENAEUS",
+        "matched_alias": "Iren",
+        "context": "among the people and humbled Himself even unto death\" (Iren)."
+      },
+      {
+        "line_number": 1259,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "brought to honor\" (AthanG)."
+      },
+      {
+        "line_number": 1278,
+        "entity": "GREGORY_THEOLOGIAN",
+        "matched_alias": "GrgTheo",
+        "context": "\"The shepherd of Israel, and now of the whole world also\" (GrgTheo) became \"the"
+      },
+      {
+        "line_number": 1310,
+        "entity": "CYRIL_JERUSALEM",
+        "matched_alias": "CyrJer",
+        "context": "longer\" (CyrJer)."
+      },
+      {
+        "line_number": 1349,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "more valuable than money\" (AmbM; see also [[REV.21:6]], [[REV.21:7]])."
+      },
+      {
+        "line_number": 1407,
+        "entity": "JOHN_FORERUNNER",
+        "matched_alias": "John the Baptist",
+        "context": "This prophecy is fulfilled in John the Baptist (see 40:3)."
+      },
+      {
+        "line_number": 1428,
+        "entity": "AUGUSTINE_HIPPO",
+        "matched_alias": "Augustine",
+        "context": "Fasting and other ascetic acts do not necessarily indicate virtue. Blessed Augustine"
+      },
+      {
+        "line_number": 1467,
+        "entity": "ISAAC_SYRIAN",
+        "matched_alias": "IsaacS",
+        "context": "(IsaacS)."
+      },
+      {
+        "line_number": 1476,
+        "entity": "ATHANASIUS",
+        "matched_alias": "AthanG",
+        "context": "instead of loving them, desire evil against them\" (AthanG)."
+      },
+      {
+        "line_number": 1508,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "(JohnDm)."
+      },
+      {
+        "line_number": 1513,
+        "entity": "CYRIL_JERUSALEM",
+        "matched_alias": "St. Cyril",
+        "context": "For St. Cyril, this passage refers not only to the return of the Jews from exile, but"
+      },
+      {
+        "line_number": 1522,
+        "entity": "EUSEBIUS",
+        "matched_alias": "Eusebius",
+        "context": "Sheba is an Ethiopian tribe. Eusebius sees these nations, along with their camels, sheep, rams, and wealth, as metaphors for the spiritual gifts and sacrifices which will be"
+      },
+      {
+        "line_number": 1526,
+        "entity": "GREGORY_NYSSA",
+        "matched_alias": "Gregory of Nyssa",
+        "context": "glorified. Gregory of Nyssa comments that \"virtue is a light and buoyant thing,\" and"
+      },
+      {
+        "line_number": 1545,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "anointed and sent to preach the Gospel\" (AmbM)."
+      },
+      {
+        "line_number": 1569,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "St. John Chrysostom",
+        "context": "St. John Chrysostom teaches that the garment of salvation is Christ Himself, as do others of the Fathers. This explains why St. Paul wrote that in baptism we \"put on"
+      },
+      {
+        "line_number": 1569,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "Chrysostom",
+        "context": "St. John Chrysostom teaches that the garment of salvation is Christ Himself, as do others of the Fathers. This explains why St. Paul wrote that in baptism we \"put on"
+      },
+      {
+        "line_number": 1569,
+        "entity": "JOHN_THEOLOGIAN",
+        "matched_alias": "St. John",
+        "context": "St. John Chrysostom teaches that the garment of salvation is Christ Himself, as do others of the Fathers. This explains why St. Paul wrote that in baptism we \"put on"
+      },
+      {
+        "line_number": 1725,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "place, filling all things\" (JohnDm; see also [[JOH.4:20]]-24)."
+      },
+      {
+        "line_number": 1743,
+        "entity": "JOHN_DAMASCENE",
+        "matched_alias": "JohnDm",
+        "context": "it\" (JohnDm)."
+      },
+      {
+        "line_number": 1759,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "St. Ambrose",
+        "context": "Bride, the Church. Regarding verse 12, St. Ambrose says, \"The Holy Spirit is the river.\""
+      },
+      {
+        "line_number": 1759,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "Ambrose",
+        "context": "Bride, the Church. Regarding verse 12, St. Ambrose says, \"The Holy Spirit is the river.\""
+      }
+    ],
+    "entity_counts": {
+      "AMBROSE_MILAN": 4,
+      "ATHANASIUS": 2,
+      "AUGUSTINE_HIPPO": 1,
+      "BASIL_GREAT": 1,
+      "CYRIL_JERUSALEM": 2,
+      "EPHRAIM_SYRIAN": 1,
+      "EUSEBIUS": 3,
+      "GREGORY_NYSSA": 1,
+      "GREGORY_THEOLOGIAN": 2,
+      "IRENAEUS": 1,
+      "ISAAC_SYRIAN": 1,
+      "JEROME": 1,
+      "JOHN_CHRYSOSTOM": 3,
+      "JOHN_DAMASCENE": 3,
+      "JOHN_FORERUNNER": 2,
+      "JOHN_THEOLOGIAN": 1,
+      "JOSEPH_BETROTHED": 1
+    },
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
+      {
+        "line_number": 152,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 156,
+        "snippet": "Jerome"
+      },
+      {
+        "line_number": 501,
+        "snippet": "BasilG"
+      },
+      {
+        "line_number": 1236,
+        "snippet": "GrgTheo"
+      },
+      {
+        "line_number": 1250,
+        "snippet": "Iren"
+      },
+      {
+        "line_number": 1259,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1278,
+        "snippet": "GrgTheo"
+      },
+      {
+        "line_number": 1310,
+        "snippet": "CyrJer"
+      },
+      {
+        "line_number": 1467,
+        "snippet": "IsaacS"
+      },
+      {
+        "line_number": 1476,
+        "snippet": "AthanG"
+      },
+      {
+        "line_number": 1508,
+        "snippet": "JohnDm"
+      },
+      {
+        "line_number": 1545,
+        "snippet": "AmbM"
+      },
+      {
+        "line_number": 1743,
+        "snippet": "JohnDm"
+      }
+    ]
+  }
+}
