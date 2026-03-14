@@ -56,7 +56,8 @@ ALLEGORY
 
 A story filled with symbolism illustrating a spiritual reality beyond the actual
 
-historical event being described. It is possible for a story to be both historical and allegorical.
+
+historical event being described. It is possible for a story to be both historical and allegorical.
 Some Church Fathers combined both elements in interpreting the Bible. (See Lk 15:4–7; Gal
 4:21–26.) See also TYPE.
 ALLELUIA
@@ -110,7 +111,8 @@ Literally; “against Christ” or “instead of Christ.” Antichrist is used b
 
 to refer to (a) the opponent of Christ who will arise at the end of this age, and (b) the “many
 
-antichrists” who stand against the Son of God (1Jn 2:18, 22; 4:3).
+
+antichrists” who stand against the Son of God (1Jn 2:18, 22; 4:3).
 ANTIOCHUS EPIPHANES
 
 The Greek King of Syria who persecuted the JEWS for many
@@ -161,7 +163,8 @@ The rule of God over the world and the legitimate authority given by God to
 those ORDAINED to shepherd the faithful (Heb 13:17). Also, one of the nine choirs of angels.
 See also ANGELS.
 
-B
+
+B
 BAAL
 
 The (male) god worshiped by the Canaanites and other heathen faced by Israel in
@@ -210,7 +213,8 @@ bishop and elder (PRESBYTER), both of which function as leaders of the community
 ever, by the mid to late first century, the CHURCH began to reserve the title bishop for the
 men of spiritual qualification who were consecrated to follow the apostles in their office of
 
-oversight. (See article, “The Four ‘Orders’ in Church Government,” at 1Ti; Acts 1:15–26;
+
+oversight. (See article, “The Four ‘Orders’ in Church Government,” at 1Ti; Acts 1:15–26;
 14:23; 1Ti 3:1–7.)
 BORN AGAIN
 
@@ -257,7 +261,8 @@ CHURCH
 world to be the Church: the body of Christ, the Bride of Christ, the New Israel, the ark of
 SALVATION, the assembly of believers. Through the Church, Christians are united to Christ
 
-and to each other. In this community, the believer receives the GRACE of God through the
+
+and to each other. In this community, the believer receives the GRACE of God through the
 sacraments and hears the truth of the gospel. This mystical transformation of people into one
 body in Christ takes place in the EUCHARIST. Because Christ is Head of the Church, the
 Church is a reflection of His INCARNATION, with both human and divine qualities. (See Mt
@@ -308,7 +313,8 @@ humanity. All people are born into a world suffering the consequences of the Fal
 Adam and Eve. These consequences include physical suffering, death, lack of perfection and a
 propensity to sin. (See Ps 52:4; Is 53:6; Rom 3:23; 1Jn 5:19.)
 
-COSMOS
+
+COSMOS
 
 The universe or world, created by God from nothing. It is controlled by God; He
 
@@ -358,7 +364,8 @@ offender was nailed through his wrists and ankles to a cross. A crucified person
 from suffocation after becoming too exhausted to pull himself up in order to breathe. Besides
 Christ Himself (Mt 27:35–50), the apostles Peter, Andrew, James the Less, and Simon were
 
-also crucified.
+
+also crucified.
 CURSE
 
 (Gr. anathema) To “cut off,” “separate”; the opposite of blessing. A divine curse is
@@ -411,7 +418,8 @@ DEVIL
 
 Satan, the leader of the fallen angels. Called by Jesus the “father of lies” (Jn 8:44),
 
-Satan tempts the faithful to join his rebellion against God. The Greek word for devil means
+
+Satan tempts the faithful to join his rebellion against God. The Greek word for devil means
 “separator”; he seeks to steal people away from God (Jn 10:10). Although not evil by
 NATURE, the devil turned by his free choice from what was according to nature to what was
 against it (Is 14:12–15). At the end of time, Christ will judge the devil and his followers and
@@ -457,7 +465,8 @@ TRANSFIGURATION of Christ (Mt 17:1–13). Twelve days after Christmas, the Churc
 celebrates the Feast of Epiphany to honor the manifestation of the Holy TRINITY at the
 BAPTISM of Christ (Mk 1:9–11).
 
-EPISCOPACY
+
+EPISCOPACY
 
 The order of bishops in the Church (from Gr. episkopos, “overseer”). See
 
@@ -485,7 +494,7 @@ Taken from a Greek word meaning “THANKSGIVING,” Eucharist designates
 Holy COMMUNION, the central act of Christian WORSHIP At the Last Supper Christ gave
 thanks (Mt 26:27; 1Co 11:24), and embodied in the communion service is our own
 thanksgiving. The word came into use very early, and appears in the late first century
-document, The Didache (“Now concerning the Eucharist. . . .” Did. 9:1) and also the letters of
+document, The Didache (“Now concerning the Eucharist....” Did. 9:1) and also the letters of
 St. Ignatius of Antioch (Ign. Phil. 4:1) written about AD 107.
 EVANGELIST
 
@@ -509,7 +518,8 @@ Belief and trust in Christ as one’s Savior, or a reference to Orthodox Christi
 “The Faith.” The effects of this faith are freedom from the power of the DEVIL, the growth
 and maturity in VIRTUE, and progress toward perfection and union with God. One is saved
 
-by faith through GRACE—a living faith manifested by a righteous life. (See article,
+
+by faith through GRACE—a living faith manifested by a righteous life. (See article,
 “Justification by Faith,” at Rom 5; see also Rom 3:28; Gal 2:1; Eph 2:8; Jam 2:14–17.)
 FASTING
 
@@ -542,7 +552,7 @@ FILIOQUE
 
 A Latin word meaning “and the Son.” Roman Catholic and, later, Protestant
 
-churches have added words to the Nicene Creed: “I believe in the HOLY SPIRIT . . . who
+churches have added words to the Nicene Creed: “I believe in the HOLY SPIRIT... who
 proceeds from the FATHER and the Son.” The filioque is judged by the Orthodox Church as
 error because it is contrary to what Jesus taught (Jn 15:26). Thus, the filioque confuses the
 true belief concerning the Holy Trinity. The addition of the filioque was a major factor
@@ -558,7 +568,8 @@ FORNICATION
 
 (Gr. porneia); from which we get the word “pornography.” It is the sin of
 
-sexual immorality. Fornication is strongly condemned in Scripture. (See 1Co 6:16–18; Gal
+
+sexual immorality. Fornication is strongly condemned in Scripture. (See 1Co 6:16–18; Gal
 5:19; Col 3:5.)
 FREE WILL
 
@@ -607,7 +618,8 @@ much emphasis on this experience, urging instead that believers seek to manifest
 13:1) and communicate the gospel intelligibly (1Co 14:19). Glossolalia has never played a
 significant role in historic Orthodox spirituality. (See 1Co 12–14.)
 
-GNOSTICISM A very complex ancient heresy that was manifested in many different forms
+
+GNOSTICISM A very complex ancient heresy that was manifested in many different forms
 and beliefs. The Gnostics taught that Christ had imparted secret knowledge (Gr. gnosis) to a
 select few, who in turn transmitted hidden truths to an elite. Central to Gnosticism is the
 denial of the goodness of matter, leading to a denial of the reality of the INCARNATION of
@@ -653,7 +665,8 @@ The Jewish festival of lights that commemorates the rededication of the
 Jerusalem TEMPLE to more traditional modes of Jewish worship by JUDAS MAC-CABEUS
 around 164 BC after its desecration by the Seleucid King ANTIOCHUS EPIPHANES.
 
-HEART
+
+HEART
 
 In scriptural terms, the spiritual center of one’s being. The heart is the seat of
 
@@ -701,7 +714,8 @@ ILLUMINATION “Enlightenment.” In the Bible, DARKNESS is often used as an ima
 sin and death. To be illuminated is to be shown the true path of RIGHTEOUSNESS in God,
 thereby being led out of the darkness of sin and death. BAPTISM is called illumination,
 
-because in it we are delivered from sin and death and regenerated by the HOLY SPIRIT. (See
+
+because in it we are delivered from sin and death and regenerated by the HOLY SPIRIT. (See
 2Ez 9:8; Ps 12:4; 18:28; Dan 5:11, 14; Tb 12:15–22; Eph 1:18.)
 IMAGE
 
@@ -728,7 +742,7 @@ The sap of the frankincense tree, or other aromatic substances, dried and
 burned in honor of God. The offering of incense has been associated with the WORSHIP of
 God since God commanded Moses to burn incense to Him in the TABERNACLE (Ex 30:1–8).
 The WORD OF GOD came to the PROPHET Malachi (1:11) predicting, “among the Gentiles
-[the Church] . . . incense shall be offered to My name . . .” The Magi offered frankincense to
+[the Church]... incense shall be offered to My name...” The Magi offered frankincense to
 the infant Christ (Mt 2:9–11). Incense manifests the prayers of the saints as they ascend to
 heaven (Ps 140:2). It is found in OT and NT accounts of the worship of God in heaven (Is 6:4;
 Rev 5:8).
@@ -750,7 +764,8 @@ God the FATHER in behalf of the repentant sinner, and God’s people intercede f
 another. (See Is 53:12; Jer 27:18; Dan 9:3–19; Rom 8:34.)
 J
 
-JEWS
+
+JEWS
 
 Originally, God’s chosen people who followed the COVENANT given by the Lord to
 
@@ -803,7 +818,8 @@ LAMB OF GOD
 
 Jesus Christ, the Lamb of God, offered Himself as a perfect SACRIFICE
 
-for the sins of the world (Jn 1:29). In the Preparatory Service of the Orthodox Church, the
+
+for the sins of the world (Jn 1:29). In the Preparatory Service of the Orthodox Church, the
 bread and wine are made ready to be consecrated in the EUCHARIST. The priest cuts out the
 center section of the loaf, called “the Lamb,” for use in COMMUNION as the Body of Christ.
 (See the OT prophecy in Is 53:7–8.)
@@ -859,7 +875,8 @@ The compassionate, steadfast love of God for sinners. Christians reflect the mer
 of God by caring for others. The most frequent PRAYER in Orthodox WORSHIP is “Lord,
 have mercy.” (See Mt 5:7; Eph 2:4–7; Tts 3:4–7.)
 
-MESSIAH
+
+MESSIAH
 
 The Christ, the anointed one of God. Jesus Christ is the Messiah, fulfilling all
 
@@ -913,7 +930,8 @@ The center of the KINGDOM OF GOD which will be established
 
 following the SECOND COMING of Christ and the LAST JUDGMENT (Gal 4:26; Rev 3:12;
 
-21:2).
+
+21:2).
 NEW MAN
 
 One who is being transformed or deified by the HOLY SPIRIT into a new
@@ -960,7 +978,8 @@ PASSION
 Week is often called Passion Week, describing Christ’s struggle and suffering in Jerusalem.
 (3) In addition, there are blameless passions including human appetites or urges—such as
 
-hunger, the desire for pleasure and sexual drives—which can become a source of sin when
+
+hunger, the desire for pleasure and sexual drives—which can become a source of sin when
 not controlled or directed by submission to the will of God. (See Rom 1:26; 7:5; Gal 5:24; Col
 3:5.)
 PEACE
@@ -1012,7 +1031,8 @@ POWER
 
 and ability to act (Mt 9:6). (3) A category of angelic beings (Eph 1:21).
 
-PRAISE
+
+PRAISE
 
 To glorify and give thanks to God or to speak highly of someone or something
 
@@ -1069,7 +1089,8 @@ things as contact with leprosy, a dead body or sexual acts. This cleansing consi
 SACRIFICE or being sprinkled with “water of purification” (Nm 19:9). Christ liberated the
 faithful from these rites. Christians are purified by the sacraments and by their spiritual
 
-struggle towards transforming their passions. (See Lv 12:6; Nm 19:9–21; Mt 15:11; Lk 2:22–
+
+struggle towards transforming their passions. (See Lv 12:6; Nm 19:9–21; Mt 15:11; Lk 2:22–
 33; Acts 10:9–16; 15:1–29.)
 R
 RAPHAEL
@@ -1120,7 +1141,8 @@ The reunion of the soul and body after death which will revitalize and
 transform the physical body into a spiritual body. Jesus Himself is the firstfruits of perfect
 resurrection; He will never again be subject to death. Because He conquered death by His
 
-Resurrection, all will rise again: the righteous to life with Christ, the wicked to judgment.
+
+Resurrection, all will rise again: the righteous to life with Christ, the wicked to judgment.
 (See Is 26:19; Jn 5:28, 29; 1Co 15:35–55.)
 RIGHTEOUSNESS
 
@@ -1168,7 +1190,8 @@ SACRIFICE
 
 To offer something up to God. In the old COVENANT, God commanded His
 
-people to sacrifice animals, grain, or oil as an act of THANKSGIVING, PRAISE,
+
+people to sacrifice animals, grain, or oil as an act of THANKSGIVING, PRAISE,
 FORGIVENESS, and cleansing. However, these sacrifices were only a foreshadowing of the
 one perfect sacrifice—Christ. He, the Eternal Son and the WORD OF GOD became Man,
 giving His life as a sacrifice on the Cross to liberate humanity from the CURSE of sin and
@@ -1220,7 +1243,8 @@ God. Only the high priest could enter the Most Holy Place and only on the DAY OF
 ATONEMENT. When the early Christians built Churches, they followed the general pattern
 of the temple, and the altar area is often called the sanctuary. (See Ex 26:31–35; 40:34, 35; Lv
 
-16:1–5; 1 Kin. 6:1–38; 8:1–11.)
+
+16:1–5; 1 Kin. 6:1–38; 8:1–11.)
 SATRAP A governor or ruler in ancient Babylon, as mentioned in numerous OT passages.
 SECOND COMING
 
@@ -1269,7 +1293,8 @@ The Scriptures distinguish between godly sorrow, which produces
 
 REPENTANCE, and ungodly sorrow, the sadness of being found out, which produces death
 
-(Mt 5:4; 2Co 7:9, 10).
+
+(Mt 5:4; 2Co 7:9, 10).
 SOUL
 
 A living substance, simple, bodiless, and invisible by NATURE, activating the body to
@@ -1321,14 +1346,15 @@ Literally, “gathering” or “assembly.” Synaxis is the word used for the a
 
 Greek senate. The first part of the Divine Liturgy is called the synaxis because the faithful
 
-gather to sing, pray, hear the Scriptures read, and to hear the homily. The saints’ days are also
+
+gather to sing, pray, hear the Scriptures read, and to hear the homily. The saints’ days are also
 called a synaxis, such as the Synaxis of St. Michael and all ANGELS.
 SYNERGISM
 
 (from Gr. syn: same, together; ergos: energy, work.) Working together; the
 
 act of cooperation. In the NT synergism is the idea of being “workers together with” God (2Co
-6:1), or of working “out your own salvation . . . for it is God who works in you” (Php 2:12, 13).
+6:1), or of working “out your own salvation... for it is God who works in you” (Php 2:12, 13).
 This is not a cooperation between equals, but finite man working together with Almighty
 God. Man responds to Christ’s SALVATION through cooperation with God’s GRACE in living
 by faith, righteous works and rejection of evil (Jam 2:14–26). See also FREE WILL and
@@ -1370,7 +1396,8 @@ Christ (Lk 3:21, 22) is the greatest theophany; it is celebrated in the Orthodox
 EPIPHANY (Jan. 6). Other theophanies are found throughout the Bible. For example, God
 appeared to Abraham (Gn 18:1–15), and to Jacob in a dream (Gn 28:10–17).
 
-THEOTOKOS
+
+THEOTOKOS
 
 God-bearer, birth-giver, frequently translated “Mother of God.” Because
 
@@ -1420,7 +1447,8 @@ The Scriptures reveal that much trouble and violence—great tribulation—
 will engulf the world before the SECOND COMING of Christ (Mt 24:4–29). See also
 ESCHATOLOGY.
 
-TRINITY
+
+TRINITY
 
 God the FATHER and His Son and His HOLY SPIRIT: one in ESSENCE and
 
@@ -1468,7 +1496,8 @@ VESPERS
 
 The evening prayer service in the Orthodox Church.
 
-VICE
+
+VICE
 
 A particular immoral, depraved, or degrading habit, as contrasted with VIRTUE.
 
@@ -1524,7 +1553,8 @@ WRATH OF GOD
 
 His anger and its consequences (Nm 32:10–13). His wrath can be
 
-caused by sympathy with evil (Lv 10:1–6), by APOSTASY (2Ch 34:24, 25), by association with
+
+caused by sympathy with evil (Lv 10:1–6), by APOSTASY (2Ch 34:24, 25), by association with
 evil (Jn 3:36), and it can be displayed to demonstrate the greatness of His GLORY (Rom
 9:22–26).
 Z

@@ -38,7 +38,8 @@ Combining Saint Tikhon’s words and the Moscow statement, we may distinguish th
 key characteristics which mark the Orthodox “Scriptural mind.” First, our reading of Scripture
 is obedient. Second, it is ecclesial, in union with the Church. Third, it is Christ-centered.
 
-Fourth, it is personal.
+
+Fourth, it is personal.
 Reading the Bible with Obedience
 First of all, then, we see Scripture as inspired by God, and so we approach it in a spirit of
 obedience. The divine inspiration of the Bible is emphasized alike by Saint Tikhon and by the
@@ -69,7 +70,8 @@ relationship of the Gospel to the Jewish Law, and his understanding of Christian
 “New Law.” Mark writes in less polished Greek, closer to the language of daily life, and
 includes vivid narrative details not found in the other Gospels. Luke emphasizes the
 
-universality of Christ’s love, His all-embracing compassion that extends equally to Jew and
+
+universality of Christ’s love, His all-embracing compassion that extends equally to Jew and
 Gentile. The Fourth Gospel expresses a more inward and mystical approach, and was aptly
 styled by Saint Clement of Alexandria “a spiritual Gospel.” Let us explore and enjoy to the full
 this life-giving variety within the Bible.
@@ -102,7 +104,8 @@ we came to a small, dark chapel, with golden mosaics gleaming in the candlelight
 strange,” I said to my companion, “that I have lived here for so long, and yet I never knew
 about the existence of all these rooms.” And he replied, “But it is always so.” I awoke, and
 
-behold, it was a dream.
+
+behold, it was a dream.
 Should we not react in the presence of the Bible with exactly the same surprise, the same
 feeling of joy and discovery, that I experienced in my dream? There are so many rooms in
 Scripture that we have never as yet entered. There is so much for us still to explore.
@@ -134,7 +137,8 @@ says to the servants and to each one of us.
 In all this the Virgin serves as a mirror and living icon of the biblical Christian. Hearing
 God’s word, we are to be like her: pondering, keeping all these things in our hearts, doing
 
-whatever He tells us. We are to listen in obedience while God speaks.
+
+whatever He tells us. We are to listen in obedience while God speaks.
 Understanding the Bible through the Church
 In the second place, as the Moscow Conference affirms, “We know, receive, and interpret
 Scripture through the Church and in the Church.” Our approach to the Bible is not only
@@ -167,7 +171,8 @@ personal dialogue between each one and Christ Himself—but we also need guidanc
 guide is the Church. We make full use of our private understanding, illuminated by the Spirit;
 we make full use of biblical commentaries and of the findings of modern research. But we
 
-submit individual opinions, whether our own or those of the scholars, to the judgment of the
+
+submit individual opinions, whether our own or those of the scholars, to the judgment of the
 Church.
 We read the Bible personally, but not as isolated individuals. We say not “I” but “we.” We
 read as the members of a family, the family of the Orthodox Catholic Church. We read in
@@ -197,14 +202,15 @@ through which none but the Prince may pass.
 (5) Proverbs 8:22–30: another Sophianic text, describing Wisdom’s place in God’s eternal
 providence: “Ages ago I was set up, at the first, before the beginning of the earth.”
 
-In these passages from the Old Testament, then, we have a series of powerful images to
+
+In these passages from the Old Testament, then, we have a series of powerful images to
 indicate the role of the Theotokos in God’s unfolding plan of salvation. She is Jacob’s ladder,
 for by means of her God comes down and enters our world, assuming the flesh that she
 supplies. She is both Mother and Ever-Virgin; Christ is born from her, yet she remains still
 inviolate, the gate of her virginity sealed. She provides the humanity or house which Christ
 the Wisdom of God (1Co 1:24) takes as His dwelling; alternatively, she is herself to be
 regarded as God’s Wisdom. She is the Burning Bush, who contains within her womb the
-uncreated fire of the Godhead and yet is not consumed. From all eternity, “ages ago . . . before
+uncreated fire of the Godhead and yet is not consumed. From all eternity, “ages ago... before
 the beginning of the earth,” she was forechosen by God to be His Mother.
 Reading these passages in their original context within the Old Testament, we might not at
 once appreciate that they foreshadow the Saviour’s Incarnation from the Virgin. But, by
@@ -231,7 +237,8 @@ passage is used for a festival or saint’s day, and the group can then discuss 
 reasons why it has been so chosen. Others in the group may be assigned to do homework
 among the Fathers, relying above all upon the biblical homilies of St. John Chrysostom,
 
-which are available in English translation in the series Nicene and Post-Nicene Fathers,
+
+which are available in English translation in the series Nicene and Post-Nicene Fathers,
 reissued by Eerdmans. Initially, we may be disappointed: the Fathers’ manner of thinking
 and speaking is often strikingly different from our own today. But there is gold in the
 Patristic texts, if only we have the persistence and imagination to discover it.
@@ -263,7 +270,8 @@ Testament. Melchizedek, for example, the priest-king of Salem who offered bread 
 Abraham (Gn 14:18), is regarded as a “type” of Christ not only by the Fathers but equally in
 the New Testament itself (Heb 5:6; 7:1–19). The rock that flowed with water in the wilderness
 
-of Sinai (Ex 17:6; Nm 30:7–11) is likewise a symbol of Christ (1Co 10:4). Typology explains
+
+of Sinai (Ex 17:6; Nm 30:7–11) is likewise a symbol of Christ (1Co 10:4). Typology explains
 the choice of lessons, not only on Holy Saturday, but throughout the second half of Lent.
 Why are the Genesis readings in the sixth week dominated by the figure of Joseph? Why read
 from the Book of Job in Holy Week? Because Joseph and Job, who both suffered innocently,
@@ -293,9 +301,10 @@ love for other people, and there is no other way. Disowning my sister or brother
 image of God with the mark of Cain, and deny my essential humanity.
 The same personal application is evident in the Lenten services, and above all in the Great
 Canon of St. Andrew of Crete. “I am the man who fell among thieves,” we say (Lk 10:30); “I
-was Your younger son, and wasted the wealth that You gave me . . . and now I am starved and
+was Your younger son, and wasted the wealth that You gave me... and now I am starved and
 
-hungry” (Lk 15:11–14). “Who are the sheep, and who are the goats?” the Desert Fathers of
+
+hungry” (Lk 15:11–14). “Who are the sheep, and who are the goats?” the Desert Fathers of
 Egypt used to ask (Mt 25:31–46). “The sheep are known to God,” they replied. “As for the
 goats—that means me.”
 There are three steps to be taken when reading Scripture. (1) First, we reflect that what we
@@ -327,7 +336,8 @@ places, events in the remote past. They belong to my own encounter with the Lord
 stories include me.”
 Betrayal, for instance, is part of the personal story of everyone. Have we not all betrayed
 
-others at some time in our life, and have we not all known what it is to be betrayed? And does
+
+others at some time in our life, and have we not all known what it is to be betrayed? And does
 not the memory of these moments leave deep, continuing scars on our psyche? Reading,
 then, the account of Saint Peter’s betrayal of Jesus and of his restoration after the
 resurrection, we can see ourselves as each an actor in the story. Imagining what both Peter
@@ -360,7 +370,8 @@ exploration we are only at the very beginning. We are like someone launching out
 boat across a limitless ocean. But, however great the journey, we can embark on it today, at
 this very hour, in this very moment.
 
-At the high point of his spiritual crisis, wrestling with himself alone in the garden, Saint
+
+At the high point of his spiritual crisis, wrestling with himself alone in the garden, Saint
 Augustine heard a child’s voice crying out, “Take up and read, take up and read.” He took up
 his bible and read; and what he read altered his entire life. Let us do the same: Take up and
 read.

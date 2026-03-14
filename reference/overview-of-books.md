@@ -35,7 +35,8 @@ through Moses.
 These first five books of the Old Testament, known jointly as the Pentateuch (penta means
 “five” in Greek) describe God’s creation of the world, the rebellion of Adam and Eve and the
 
-fall of man, and the history of God’s people from the days of Abraham, about 2000 BC,
+
+fall of man, and the history of God’s people from the days of Abraham, about 2000 BC,
 through the days of Moses, dated by many scholars at approximately 1250 BC.
 The Books of History
 The second section of the LXX Old Testament is known as the historical books. This group
@@ -67,7 +68,8 @@ Hasmoneans and their followers, the faithful people who began the revolt and fou
 wars of independence against foreign armies occupying their land.
 The Books of Wisdom
 
-The third section of the Old Testament is known as the books of Wisdom. The magnificent
+
+The third section of the Old Testament is known as the books of Wisdom. The magnificent
 Psalms is the hymnal of both ancient Israel and of the Church. The book of Job, which in the
 canonical Greek LXX comes between Psalms and Proverbs, probes the depths of a man’s
 unshakable faith in the face of tragedy and innocent suffering. Proverbs is a collection of
@@ -99,7 +101,8 @@ Nahum prophesies the defeat of the powerful Assyrian enemy. Habakkuk deals with 
 perennial question, “How long, O Lord, shall I cry out to You, and You will not hear me?”
 (Hab 1:2). Zephaniah prophesies the dark days of Judah’s destruction, but promises comfort
 
-and conciliation to those who wait patiently for the Lord and serve Him. Haggai, following
+
+and conciliation to those who wait patiently for the Lord and serve Him. Haggai, following
 the return of the exiles, exhorts them to rebuild the destroyed temple in order to unify their
 disrupted religious life and, more importantly, to prepare for the coming of the long awaited
 Messiah.
@@ -130,7 +133,8 @@ flock.
 THE NEW TESTAMENT
 The Four Gospels
 
-Matthew, Mark, Luke and John recall the events in the life of Jesus Christ, Son of God and
+
+Matthew, Mark, Luke and John recall the events in the life of Jesus Christ, Son of God and
 Son of Man. The first three are called the Synoptic Gospels, in that they set forth a “common
 viewpoint” of the chronology of events and the message of Christ in His life and ministry.
 Matthew addresses his gospel primarily to fellow Jews. Mark is likely the first gospel to be
@@ -160,14 +164,15 @@ submission to the laws of the old covenant. Ephesians is a marvelous discourse o
 Church should conduct itself. This community is rich in dedication to Christ. Yet just a few
 decades later the Lord tells them, “you have left your first love” (Rev 2:4).
 
-Philippians is the epistle of joy. Paul writes from a Roman prison, “Rejoice in the Lord
+
+Philippians is the epistle of joy. Paul writes from a Roman prison, “Rejoice in the Lord
 always. Again I will say, rejoice!” (Php 4:4). Colossians presents Christ as “the head of the
-body, the church . . .” (Col 1:18), preeminent in all things.
+body, the church...” (Col 1:18), preeminent in all things.
 First Thessalonians, the first letter St. Paul penned, was written to the believers at
 Thessalonica, a beautiful coastal city of Greece in about AD 51, shortly after Paul planted that
 Church. This is a letter of encouragement. Second Thessalonians acknowledges persecution
 and warns of lawlessness, urging the Christians to “stand fast and hold the traditions which
-you were taught . . .” (2Th 2:15).
+you were taught...” (2Th 2:15).
 Next, Paul addresses the following letters to individuals. In First Timothy, the aging
 apostle speaks to his youthful understudy about effective oversight of the church. In Second
 Timothy, the last letter St. Paul wrote (see 2Ti 4:6–8), he encourages Timothy to “be strong
@@ -190,7 +195,8 @@ willingness to suffer for Christ’s sake, and effective pastoring of the flock.
 the apostle discusses divine power for the faithful (deification), divine judgment for false
 teachers and the Day of the Lord.
 
-Next, John the Theologian offers three general epistles. First John is a stirring personal
+
+Next, John the Theologian offers three general epistles. First John is a stirring personal
 testimonial to God’s forgiveness, His love for His children and His gift of eternal life. In
 Second John, he addresses an “elect lady and her children” (v. 1), urging them to obey the
 Lord’s commands and beware of deceivers. Third John commends Gaius and Demetrius, and
@@ -205,4 +211,5 @@ or “unveiling.” The book speaks prophetically both to current and future eve
 and salvation, and ends with the glorious New Jerusalem coming down out of heaven “as a
 bride adorned for her husband” (21:2).
 
-INTRODUCING THE
+
+INTRODUCING THE

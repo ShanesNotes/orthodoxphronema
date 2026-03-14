@@ -36,7 +36,8 @@ The Church in Laodicea is a vivid example (Rev 3:14–22). Discipline was admini
 sake of purity in the Church. But there was growth and maturation, even as the Church was
 attacked from within and without. The same Spirit who gave her birth gave her power for
 
-purity and correction, and she stood strong and grew, eventually invading the whole of the
+
+purity and correction, and she stood strong and grew, eventually invading the whole of the
 Roman Empire.
 THE EARLY CENTURIES
 As the Church moves from the pages of the New Testament and on into the succeeding
@@ -51,7 +52,7 @@ also instructed to “stand fast and hold the traditions which you were taught, 
 or our epistle” (2Th 2:15). The apostle Paul insisted that those matters delivered by him and
 his fellow apostles, both in person and in the writings that would come to be called the New
 Testament, be adhered to carefully. Thus, followed such appropriate warnings as “in the
-name of Jesus Christ . . . withdraw from every brother who walks disorderly and not
+name of Jesus Christ... withdraw from every brother who walks disorderly and not
 according to the tradition which he received from us” (2Th 3:6). The doctrines taught by
 Christ and His disciples are to be safeguarded by “the Church, the pillar and support of the
 truth” (1Ti 3:15) and are not open for renegotiation.
@@ -68,7 +69,8 @@ of the Church we find scores of such councils, and on various levels, to settle 
 dispute and to deal with those who do not adhere to the Apostolic faith.
 The first three hundred years of Christian history were marked by the appearance of
 
-certain heresies or false teachings such as secret philosophic schemes for the elite
+
+certain heresies or false teachings such as secret philosophic schemes for the elite
 (Gnosticism), dazzling prophetic aberrations (Montanism), and grave errors regarding the
 three Persons of the Trinity (Sabellianism).
 Then, in the early fourth century, a heresy with potential for Church-wide disruption
@@ -100,7 +102,8 @@ At the Last Supper, Jesus instituted the Eucharist, the communion service, when 
 bread and wine, gave a blessing, and said to His disciples, “This is My body which is given for
 you; do this in remembrance of Me” and “This cup is the new covenant in My blood, which is
 
-shed for you” (Lk 22:19, 21). From the New Testament we know the Church participated in
+
+shed for you” (Lk 22:19, 21). From the New Testament we know the Church participated in
 communion at least each Lord’s Day (Acts 20:7, 11). From such first and second century
 sources as the Didache, the letters of St. Ignatius of Antioch, and St. Justin Martyr, we are
 assured the Eucharist is the very center of Christian worship from the Apostolic era on.
@@ -132,7 +135,8 @@ person. The Church saw these events as holy moments in her life and called them 
 or sacraments.
 3. Government: No one seriously questions whether the apostles of Christ led the Church
 
-at her beginning. They had been given the commission to preach the Gospel (Mt 28:19, 20)
+
+at her beginning. They had been given the commission to preach the Gospel (Mt 28:19, 20)
 and the authority to forgive or retain sins (Jn 20:23). Theirs was by no means a preachingonly mission! They built the Church itself under Christ’s headship. To govern it, three
 definite and permanent offices, as taught in the New Testament, were in evidence.
 a. The office of bishop. The apostles themselves were the first bishops in the Church. Even
@@ -163,7 +167,8 @@ c. The office of deacon. The third order or office in the government of the New 
 Church was the deacon. At first the apostles fulfilled this office themselves. But with the
 rapid growth of the Church, seven initial deacons were selected (Acts 6:1–7) to help carry the
 
-responsibility of service to those in need. It was one of these deacons, Stephen, who became
+
+responsibility of service to those in need. It was one of these deacons, Stephen, who became
 the first martyr of the Church.
 Through the centuries, the deacons have not only served the material needs of the Church,
 but have held a key role in the liturgical life of the Church as well. Often called “the eyes and
@@ -194,7 +199,8 @@ East-West division, two giant divisive issues ultimately emerged above others: (
 man, the Pope of Rome, considered himself the universal bishop of the Church and (2) the
 addition of a novel clause to the Church’s creed.
 
-1. The Papacy: Among the Twelve, Saint Peter was early acknowledged as the leader. He
+
+1. The Papacy: Among the Twelve, Saint Peter was early acknowledged as the leader. He
 was spokesman for the Twelve before and after Pentecost. He was the first bishop of Antioch
 and later bishop of Rome. No one challenged his role.
 After the death of the apostles, as leadership in the Church developed, the bishop of Rome
@@ -215,7 +221,7 @@ from the Father, the Spirit of truth Who proceeds from the Father, he will testi
 Thus, when the ancient council at Constantinople in AD 381 reaffirmed the Creed of Nicea
 (AD 325), it expanded that Creed to proclaim these familiar words: “And in the Holy Spirit,
 the Lord and Life-Giver, Who proceeds from the Father, Who is worshipped and glorified
-together with the Father and the Son. . . .”
+together with the Father and the Son....”
 But two hundred years later, at a local council in Toledo, Spain (AD 589), King Reccared
 declared, “the Holy Spirit also should be confessed by us and taught to proceed from the
 Father and the Son.” The King may have meant well, but he was contradicting Jesus’
@@ -225,7 +231,8 @@ Because of the teaching of the Holy Scriptures, believed by the Church at Nicea 
 Constantinople and for centuries beyond, there is no reason to believe anything other than
 that the Holy Spirit proceeds from the Father.
 
-But centuries later, in what was at least partially a politically motivated move, the Pope of
+
+But centuries later, in what was at least partially a politically motivated move, the Pope of
 Rome unilaterally changed the universal creed of the Church without an ecumenical council.
 Though this change was initially rejected in both East and West, even by some of Rome’s
 closest neighboring bishops, the Pope managed to eventually get the West to capitulate. The
@@ -274,7 +281,8 @@ drifted farther and farther from its historic roots. There are inevitable conseq
 deviating from the Church. The breaking away of Rome from the historic Orthodox Church
 would prove no exception.
 
-FURTHER DIVISIONS IN THE WEST
+
+FURTHER DIVISIONS IN THE WEST
 During the centuries after AD 1054, the growing distinction between East and West was
 becoming indelibly marked in history. The East maintained the full stream of New Testament
 faith, worship, and practice—all the while enduring great persecution. The Western or Roman
@@ -306,7 +314,8 @@ would the Pope ever again have ascendency in England. And the English Church its
 soon experience great division.
 As decade followed decade in the West, the many branches of Protestantism took various
 
-forms. There were even divisions that insisted they were neither Protestant nor Roman
+
+forms. There were even divisions that insisted they were neither Protestant nor Roman
 Catholic. All seemed to share a mutual dislike for the Bishop of Rome and the practice of his
 Church, and most wanted far less centralized forms of leadership. While some, such as the
 Lutherans and Anglicans, held on to certain forms of liturgy and sacrament, others, such as
@@ -338,7 +347,8 @@ Catholic, and Apostolic. It is the New Testament Church. The gates of hell have 
 against it.
 But Orthodoxy is also, in the words of one of her bishops, “the best kept secret in America.”
 
-Though there are more than 225 million Orthodox Christians in the world today, many in the
+
+Though there are more than 225 million Orthodox Christians in the world today, many in the
 West are not familiar with the Church. In North America, for example, the Orthodox Church
 has, until recently, been largely restricted to ethnic boundaries, not spreading much beyond
 the parishes of the committed immigrants that brought the Church to the shores of this
@@ -370,7 +380,8 @@ sometimes a portion of the Liturgy is not in English! But the Service Book in th
 help.
 2. Read: There are a number of books and periodicals immensely helpful to people seeking
 
-to learn about the Orthodox Church. The Orthodox Church by Kallistos Ware (Penguin); For
+
+to learn about the Orthodox Church. The Orthodox Church by Kallistos Ware (Penguin); For
 theLife of the World by Alexander Schmemann (St. Vladimir Seminary Press); The Apostolic
 Fathers edited by Jack N. Sparks (Light and Life Publishers), and Becoming Orthodox by
 Peter E. Gillquist, Divine Energy by Jon E. Braun, and AGAIN Magazine (all by Conciliar
@@ -388,5 +399,3 @@ For two thousand years the Orthodox Church has by God’s mercy kept the faith d
 once for all to the saints. Within her walls is the fullness of the salvation which was realized
 when “God so loved the world that He gave His only-begotten Son, that whoever believes in
 Him should not perish, but have everlasting life” (Jn 3:16).
-
-T HE

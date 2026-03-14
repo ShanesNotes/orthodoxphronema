@@ -36,98 +36,99 @@ the Hebrew text (such as the New King James Version and New Revised Standard Ver
 To help the reader, the LXX psalm number appears first, followed by the alternate number in
 parentheses, such as Psalm 50 (51).
 
-In addition to the difference in the numbering of the Psalms, the books of Jeremiah and
+
+In addition to the difference in the numbering of the Psalms, the books of Jeremiah and
 Malachi show differences in the chapter and verse numbering when comparing The
 OrthodoxStudy Bible alongside English translations based on the Hebrew Old Testament
 text. The following shows how the Hebrew and LXX texts compare in the books of Jeremiah
 and Malachi.
 Jeremiah
 Hebrew
-1 :1 —2 5:1 3
+1:1 —2 5:1 3
 2 5:1 4
 2 5:1 5–3 8
-2 6 :1 —4 3 :1 3
-4 4 :1 –3 0
+2 6:1 —4 3:1 3
+4 4:1 –3 0
 4 5:1 –5
-4 6 :1
-4 6 :2 –2 5
+4 6:1
+4 6:2 –2 5
 
 LXX
-1 :1 —2 5:1 3
+1:1 —2 5:1 3
 ——
-3 2 :1 –2 5
-3 3 :1 —50:1 3
-51 :1 –3 0
-51 :3 1 –3 5
+3 2:1 –2 5
+3 3:1 —50:1 3
+51:1 –3 0
+51:3 1 –3 5
 ——
-2 6 :1 –2 4
+2 6:1 –2 4
 
-4 6 :2 6
-4 6 :2 7 , 2 8
+4 6:2 6
+4 6:2 7, 2 8
 
 ——
-2 6 :2 5, 2 6
+2 6:2 5, 2 6
 
-4 7 :1 –7
+4 7:1 –7
 4 8:1 –4 4
-4 9 :1 –5
+4 9:1 –5
 
-2 9 :1 –7
-3 1 :1 –4 4
+2 9:1 –7
+3 1:1 –4 4
 3 0:1 7 –2 1
 
-4 9 :6
-4 9 :7 –2 2
-4 9 :2 3 –2 7
+4 9:6
+4 9:7 –2 2
+4 9:2 3 –2 7
 
 ——
 3 0:1 –1 6
 3 0:2 8–3 2
 
-4 9 :2 8–3 3
-4 9 :3 4 a, 3 5–3 9
+4 9:2 8–3 3
+4 9:3 4 a, 3 5–3 9
 
 3 0:2 2 –2 7
 2 5:1 4 –1 9
 
-4 9 :3 4 b
-50:1 —51 :4 4
-51 :4 5–4 9
+4 9:3 4 b
+50:1 —51:4 4
+51:4 5–4 9
 
 2 5:2 0
-2 7 :1 —2 8:4 5
+2 7:1 —2 8:4 5
 ——
 
-51 :50–6 4
-52 :1
+51:50–6 4
+52:1
 
 2 8:4 6 –6 0
-52 :1
+52:1
 
-52 :2 –3
-52 :4 –1 4
-52 :1 5
-52 :1 6 –2 7
-52 :2 8–3 0
-52 :3 1 –3 4
+52:2 –3
+52:4 –1 4
+52:1 5
+52:1 6 –2 7
+52:2 8–3 0
+52:3 1 –3 4
 
 ——
-52 :2 –1 2
+52:2 –1 2
 ——
-52 :1 3 –2 4
+52:1 3 –2 4
 ——
-52 :2 5–2 8
+52:2 5–2 8
 
 Malachi
-1 :1 —3 :1 8
-4 :1 –3
-4 :4
-4 :5–6
+1:1 —3:1 8
+4:1 –3
+4:4
+4:5–6
 
-1 :1 —3 :1 8
-3 :1 9 –2 1
-3 :2 4
-3 :2 2 –2 3
+1:1 —3:1 8
+3:1 9 –2 1
+3:2 4
+3:2 2 –2 3
 
 The New Testament of The Orthodox Study Bible is taken from the New King James
 Version of the Bible. It is a translation of the Received Text of the Greek New Testament,
@@ -136,7 +137,8 @@ and the United Bible Societies.
 The introductory material, commentary and notes accompanying the Old and New
 Testament books are presented in a vocabulary understandable to a high school graduate.
 
-This is not a book of scholars addressing other scholars, but rather scholars clearly
+
+This is not a book of scholars addressing other scholars, but rather scholars clearly
 communicating the treasures of the Orthodox biblical tradition with clergy and laypeople
 desirous of understanding their Christian beliefs and making them accessible to others.
 Further, the decision was made that the notes and commentary which clarify the biblical
