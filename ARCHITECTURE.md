@@ -23,8 +23,11 @@ The archive is built on an immutable scripture substrate with dense, traceable l
 The pipeline has five composable stages. Each stage reads the output of the previous one and writes to a well-defined location.
 
 ```
-src.texts/  ──▶  staging/raw/  ──▶  staging/validated/  ──▶  canon/  ──▶  metadata/
-           Parse          Cleanup           Validate+Promote        Extract/Graph
+src.texts/  ──▶  staging/raw/  ──▶  staging/validated/  ──▶  canon/     ──▶  metadata/
+           Parse          Cleanup           Validate+Promote         Extract/Graph
+                                        │
+                                        └──▶  study/       (footnotes, articles, lectionary-notes)
+                                        └──▶  reference/   (essays, glossary, lectionary, prayers)
 ```
 
 ### Stage 1: Parse (`pipeline/parse/`)
@@ -94,6 +97,7 @@ Builds a queryable reference graph from the companion layer.
 2. **R1 extractor** (`pipeline/extract/r1_extractor.py`): Produces typed `ReferenceRecord` JSONL output to `metadata/r1_output/`.
 3. **Backlink builder** (`pipeline/graph/build_backlinks.py`): Generates per-domain backlink shards in `metadata/anchor_backlinks/`.
 4. **Graph materialization** (`pipeline/graph/regenerate_graph.py`): Loads into DuckDB using `schema.sql`.
+5. **Downstream agent export** (`pipeline/metadata/build_noah_queue.py`, `pipeline/metadata/export_noah_bundle.py`): Emits read-only pericope session queues and Obsidian-friendly bundle files for external agent consumers.
 
 ## Reference Graph Schema
 
@@ -139,19 +143,55 @@ CREATE TABLE IF NOT EXISTS archive_edges (
 );
 ```
 
-## Companion Layer
+## Study Layer
 
-Each promoted book can have companion sidecar files in `staging/validated/{OT,NT}/`:
+Per-book study material lives in `study/`, organized by content type:
+
+| Directory | Content |
+|---|---|
+| `study/footnotes/{OT,NT}/` | OSB footnotes, keyed to canon anchors via wikilinks |
+| `study/articles/{OT,NT}/` | Study articles, introductions, essays separated from scripture |
+| `study/lectionary-notes/{OT,NT}/` | Liturgical cross-references ("this passage is read at") |
+
+Pipeline working artifacts remain in `staging/validated/{OT,NT}/`:
 
 | File | Purpose |
 |---|---|
-| `BOOK_footnotes.md` | OSB footnotes, keyed to canon anchors via wikilinks |
-| `BOOK_articles.md` | Study articles, introductions, essays separated from scripture |
 | `BOOK_residuals.json` | Source-ambiguity exceptions requiring human ratification |
 | `BOOK_editorial_candidates.json` | Unresolved cleanup issues (blocks promotion via D1) |
 | `BOOK_footnote_markers.json` | Stripped marker trace index preserving order and context |
 
-Canon files contain only scripture. All commentary, footnotes, and editorial apparatus live in these sidecars.
+Canon files contain only scripture. All commentary, footnotes, and editorial apparatus live in the study layer.
+
+## Reference Layer
+
+Standalone reference material lives in `reference/`:
+
+| File | Content |
+|---|---|
+| `introduction-to-osb.md` | Editorial introduction to the Orthodox Study Bible |
+| `ot-books-compared.md` | Orthodox OT canon vs. Protestant/Catholic canon comparison |
+| `source-abbreviations.md` | Patristic source abbreviation key |
+| `overview-of-books.md` | Bishop Basil's overview of all 76 books |
+| `introducing-orthodoxy.md` | History of the Orthodox Church essay |
+| `bible-gods-revelation.md` | Bishop Joseph's essay on scripture |
+| `how-to-read-the-bible.md` | Bishop Kallistos Ware's essay on the Orthodox scriptural mind |
+| `glossary.md` / `glossary.json` | Theological glossary (prose + structured) |
+| `lectionary.md` / `lectionary.yaml` | Full liturgical reading calendar (prose + structured) |
+| `liturgical-crossrefs.json` | Verse → liturgical occasion mappings |
+| `textual-variants.md` | NT textual variant notes (NU-Text, M-Text) |
+| `the-seventy.md` | The 70 LXX translators |
+| `prayers/morning-prayers.md` | Daily morning prayers |
+| `prayers/evening-prayers.md` | Daily evening prayers |
+
+## Downstream Agent Consumption
+
+External downstream agents may consume scripture through derived packet exports without becoming writers to the archive.
+
+- **Location:** `metadata/agent_ingestion/noah/`
+- **Queue artifact:** `session_queue.jsonl` with deterministic pericope session ordering
+- **Bundle export:** `source.md`, `prompt.md`, and `journal.md` files for one or more consecutive sessions
+- **Policy:** downstream vaults are read-only consumers of archive data; they never become authoritative sources for canon or staged content
 
 ## Source Authority
 
