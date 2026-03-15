@@ -64,7 +64,8 @@ has_additions: false
 1CO.1:27 But God has chosen the foolish things of the world to put to shame the wise, and God has chosen the weak things of the world to put to shame the things which are mighty;
 1CO.1:28 and the base things of the world and the things which are despised God has chosen, and the things which are not, to bring to nothing the things that are,
 1CO.1:29 that no flesh should glory in His presence.
-1CO.1:30 But of Him you are in Christ Jesus, who became for us wisdom from God-and righteousness and sanctification and redemption31 that, as it is written, 'He who glories, let him glory in the LORD.'
+1CO.1:30 But of Him you are in Christ Jesus, who became for us wisdom from God—and righteousness and sanctification and redemption—
+1CO.1:31 that, as it is written, 'He who glories, let him glory in the LORD.'
 ## Chapter 2
 
 1CO.2:1 And I, brethren, when I came to you, did not come with excellence of speech or of wisdom declaring to you the testimony of God.

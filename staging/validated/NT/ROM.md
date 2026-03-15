@@ -256,12 +256,10 @@ ROM.7:21 I find then alaw, that evil is present with me, the one who wills to do
 ROM.7:22 For I delight in the law of God according to the inward man.
 ROM.7:23 But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.
 ROM.7:24 O wretched man that I am! Who will deliver me from this body of death?
-ROM.7:25 I thank God-through Jesus Christ our Lord!
+ROM.7:25 I thank God—through Jesus Christ our Lord! So then, with the mind I myself serve the law of God, but with the flesh the law of sin.
+## Chapter 8
 
 ### The Spirit Defeats Sin and the Flesh
-
-ROM.7:26 So then, with the mind I myself serve the law of God, but with the flesh the law of sin.
-## Chapter 8
 
 ROM.8:1 There is therefore now no condemnation to those who are in Christ Jesus, who do not walk according to the flesh, but according to the Spirit.
 ROM.8:2 For the law of the Spirit of life in Christ Jesus has made me free from the law of sin and death.
@@ -387,7 +385,10 @@ ROM.10:17 So then faith comes by hearing, and hearing by the word of God.
 
 ### God Elects a Remnant of Israel
 
-ROM.10:18 'Their sound has gone out to all the earth, And their words to the ends of the world.''I will provoke you to jealousy by those who are not a nation, I will move you to anger by a foolish nation.''I was found by those who did not seek Me; I was made manifest to those who did not ask for Me.''All day long I have stretched out My hands To a disobedient and contrary people.'
+ROM.10:18 But I say, have they not heard? Yes indeed: 'Their sound has gone out to all the earth, And their words to the ends of the world.'
+ROM.10:19 But I say, did Israel not know? First Moses says: 'I will provoke you to jealousy by those who are not a nation, I will move you to anger by a foolish nation.'
+ROM.10:20 But Isaiah is very bold and says: 'I was found by those who did not seek Me; I was made manifest to those who did not ask for Me.'
+ROM.10:21 But to Israel he says: 'All day long I have stretched out My hands To a disobedient and contrary people.'
 ## Chapter 11
 
 ROM.11:1 I say then, has God cast away His people? Certainly not! For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
