@@ -174,3 +174,339 @@
 {"type": "relation", "from": "memo_osb_immutability", "to": "Orthodox_Phronema_Archive", "relationType": "governs"}
 {"type": "relation", "from": "memo_ezra_audit_log", "to": "Orthodox_Phronema_Archive", "relationType": "governs"}
 {"type": "relation", "from": "memo_ot_canon_lock", "to": "OT_Canon", "relationType": "governs"}
+{"type": "entity", "name": "1CH_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/1CH_articles.md", "Book: 1CH", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1CH_articles", "to": "1CH", "relationType": "companion_of"}
+{"type": "entity", "name": "1ES_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/1ES_articles.md", "Book: 1ES", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1ES_articles", "to": "1ES", "relationType": "companion_of"}
+{"type": "entity", "name": "1KI_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/1KI_articles.md", "Book: 1KI", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1KI_articles", "to": "1KI", "relationType": "companion_of"}
+{"type": "entity", "name": "1MA_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/1MA_articles.md", "Book: 1MA", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1MA_articles", "to": "1MA", "relationType": "companion_of"}
+{"type": "entity", "name": "1SA_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/1SA_articles.md", "Book: 1SA", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1SA_articles", "to": "1SA", "relationType": "companion_of"}
+{"type": "entity", "name": "2CH_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/2CH_articles.md", "Book: 2CH", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "2CH_articles", "to": "2CH", "relationType": "companion_of"}
+{"type": "entity", "name": "2KI_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/2KI_articles.md", "Book: 2KI", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "2KI_articles", "to": "2KI", "relationType": "companion_of"}
+{"type": "entity", "name": "2MA_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/2MA_articles.md", "Book: 2MA", "Testament: OT", "Lines: 23", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "2MA_articles", "to": "2MA", "relationType": "companion_of"}
+{"type": "entity", "name": "2SA_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/2SA_articles.md", "Book: 2SA", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "2SA_articles", "to": "2SA", "relationType": "companion_of"}
+{"type": "entity", "name": "3MA_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/3MA_articles.md", "Book: 3MA", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "3MA_articles", "to": "3MA", "relationType": "companion_of"}
+{"type": "entity", "name": "AMO_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/AMO_articles.md", "Book: AMO", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "AMO_articles", "to": "AMO", "relationType": "companion_of"}
+{"type": "entity", "name": "BAR_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/BAR_articles.md", "Book: BAR", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "BAR_articles", "to": "BAR", "relationType": "companion_of"}
+{"type": "entity", "name": "DAN_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/DAN_articles.md", "Book: DAN", "Testament: OT", "Lines: 36", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "DAN_articles", "to": "DAN", "relationType": "companion_of"}
+{"type": "entity", "name": "DEU_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/DEU_articles.md", "Book: DEU", "Testament: OT", "Lines: 26", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "DEU_articles", "to": "DEU", "relationType": "companion_of"}
+{"type": "entity", "name": "ECC_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/ECC_articles.md", "Book: ECC", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "ECC_articles", "to": "ECC", "relationType": "companion_of"}
+{"type": "entity", "name": "EST_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/EST_articles.md", "Book: EST", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "EST_articles", "to": "EST", "relationType": "companion_of"}
+{"type": "entity", "name": "EXO_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/EXO_articles.md", "Book: EXO", "Testament: OT", "Lines: 55", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "EXO_articles", "to": "EXO", "relationType": "companion_of"}
+{"type": "entity", "name": "EZK_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/EZK_articles.md", "Book: EZK", "Testament: OT", "Lines: 20", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "EZK_articles", "to": "EZK", "relationType": "companion_of"}
+{"type": "entity", "name": "EZR_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/EZR_articles.md", "Book: EZR", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "EZR_articles", "to": "EZR", "relationType": "companion_of"}
+{"type": "entity", "name": "GEN_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/GEN_articles.md", "Book: GEN", "Testament: OT", "Lines: 44", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "GEN_articles", "to": "GEN", "relationType": "companion_of"}
+{"type": "entity", "name": "HAB_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/HAB_articles.md", "Book: HAB", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "HAB_articles", "to": "HAB", "relationType": "companion_of"}
+{"type": "entity", "name": "HAG_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/HAG_articles.md", "Book: HAG", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "HAG_articles", "to": "HAG", "relationType": "companion_of"}
+{"type": "entity", "name": "HOS_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/HOS_articles.md", "Book: HOS", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "HOS_articles", "to": "HOS", "relationType": "companion_of"}
+{"type": "entity", "name": "ISA_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/ISA_articles.md", "Book: ISA", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "ISA_articles", "to": "ISA", "relationType": "companion_of"}
+{"type": "entity", "name": "JDG_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/JDG_articles.md", "Book: JDG", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JDG_articles", "to": "JDG", "relationType": "companion_of"}
+{"type": "entity", "name": "JDT_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/JDT_articles.md", "Book: JDT", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JDT_articles", "to": "JDT", "relationType": "companion_of"}
+{"type": "entity", "name": "JER_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/JER_articles.md", "Book: JER", "Testament: OT", "Lines: 18", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JER_articles", "to": "JER", "relationType": "companion_of"}
+{"type": "entity", "name": "JOB_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/JOB_articles.md", "Book: JOB", "Testament: OT", "Lines: 24", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JOB_articles", "to": "JOB", "relationType": "companion_of"}
+{"type": "entity", "name": "JOL_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/JOL_articles.md", "Book: JOL", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JOL_articles", "to": "JOL", "relationType": "companion_of"}
+{"type": "entity", "name": "JON_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/JON_articles.md", "Book: JON", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JON_articles", "to": "JON", "relationType": "companion_of"}
+{"type": "entity", "name": "JOS_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/JOS_articles.md", "Book: JOS", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JOS_articles", "to": "JOS", "relationType": "companion_of"}
+{"type": "entity", "name": "LAM_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/LAM_articles.md", "Book: LAM", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "LAM_articles", "to": "LAM", "relationType": "companion_of"}
+{"type": "entity", "name": "LEV_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/LEV_articles.md", "Book: LEV", "Testament: OT", "Lines: 26", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "LEV_articles", "to": "LEV", "relationType": "companion_of"}
+{"type": "entity", "name": "LJE_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/LJE_articles.md", "Book: LJE", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "LJE_articles", "to": "LJE", "relationType": "companion_of"}
+{"type": "entity", "name": "MAL_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/MAL_articles.md", "Book: MAL", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "MAL_articles", "to": "MAL", "relationType": "companion_of"}
+{"type": "entity", "name": "MIC_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/MIC_articles.md", "Book: MIC", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "MIC_articles", "to": "MIC", "relationType": "companion_of"}
+{"type": "entity", "name": "NAH_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/NAH_articles.md", "Book: NAH", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "NAH_articles", "to": "NAH", "relationType": "companion_of"}
+{"type": "entity", "name": "NEH_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/NEH_articles.md", "Book: NEH", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "NEH_articles", "to": "NEH", "relationType": "companion_of"}
+{"type": "entity", "name": "NUM_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/NUM_articles.md", "Book: NUM", "Testament: OT", "Lines: 23", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "NUM_articles", "to": "NUM", "relationType": "companion_of"}
+{"type": "entity", "name": "OBA_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/OBA_articles.md", "Book: OBA", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "OBA_articles", "to": "OBA", "relationType": "companion_of"}
+{"type": "entity", "name": "PRO_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/PRO_articles.md", "Book: PRO", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "PRO_articles", "to": "PRO", "relationType": "companion_of"}
+{"type": "entity", "name": "PSA_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/PSA_articles.md", "Book: PSA", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "PSA_articles", "to": "PSA", "relationType": "companion_of"}
+{"type": "entity", "name": "RUT_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/RUT_articles.md", "Book: RUT", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "RUT_articles", "to": "RUT", "relationType": "companion_of"}
+{"type": "entity", "name": "SIR_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/SIR_articles.md", "Book: SIR", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "SIR_articles", "to": "SIR", "relationType": "companion_of"}
+{"type": "entity", "name": "SNG_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/SNG_articles.md", "Book: SNG", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "SNG_articles", "to": "SNG", "relationType": "companion_of"}
+{"type": "entity", "name": "TOB_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/TOB_articles.md", "Book: TOB", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "TOB_articles", "to": "TOB", "relationType": "companion_of"}
+{"type": "entity", "name": "WIS_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/WIS_articles.md", "Book: WIS", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "WIS_articles", "to": "WIS", "relationType": "companion_of"}
+{"type": "entity", "name": "ZEC_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/ZEC_articles.md", "Book: ZEC", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "ZEC_articles", "to": "ZEC", "relationType": "companion_of"}
+{"type": "entity", "name": "ZEP_articles", "entityType": "study_article", "observations": ["Path: study/articles/OT/ZEP_articles.md", "Book: ZEP", "Testament: OT", "Lines: 12", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "ZEP_articles", "to": "ZEP", "relationType": "companion_of"}
+{"type": "entity", "name": "1CO_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/1CO_articles.md", "Book: 1CO", "Testament: NT", "Lines: 27", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1CO_articles", "to": "1CO", "relationType": "companion_of"}
+{"type": "entity", "name": "1JN_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/1JN_articles.md", "Book: 1JN", "Testament: NT", "Lines: 28", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1JN_articles", "to": "1JN", "relationType": "companion_of"}
+{"type": "entity", "name": "1PE_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/1PE_articles.md", "Book: 1PE", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1PE_articles", "to": "1PE", "relationType": "companion_of"}
+{"type": "entity", "name": "1TH_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/1TH_articles.md", "Book: 1TH", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1TH_articles", "to": "1TH", "relationType": "companion_of"}
+{"type": "entity", "name": "1TI_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/1TI_articles.md", "Book: 1TI", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1TI_articles", "to": "1TI", "relationType": "companion_of"}
+{"type": "entity", "name": "2CO_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/2CO_articles.md", "Book: 2CO", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "2CO_articles", "to": "2CO", "relationType": "companion_of"}
+{"type": "entity", "name": "2JN_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/2JN_articles.md", "Book: 2JN", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "2JN_articles", "to": "2JN", "relationType": "companion_of"}
+{"type": "entity", "name": "2PE_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/2PE_articles.md", "Book: 2PE", "Testament: NT", "Lines: 31", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "2PE_articles", "to": "2PE", "relationType": "companion_of"}
+{"type": "entity", "name": "2TH_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/2TH_articles.md", "Book: 2TH", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "2TH_articles", "to": "2TH", "relationType": "companion_of"}
+{"type": "entity", "name": "2TI_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/2TI_articles.md", "Book: 2TI", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "2TI_articles", "to": "2TI", "relationType": "companion_of"}
+{"type": "entity", "name": "3JN_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/3JN_articles.md", "Book: 3JN", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "3JN_articles", "to": "3JN", "relationType": "companion_of"}
+{"type": "entity", "name": "ACT_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/ACT_articles.md", "Book: ACT", "Testament: NT", "Lines: 48", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "ACT_articles", "to": "ACT", "relationType": "companion_of"}
+{"type": "entity", "name": "COL_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/COL_articles.md", "Book: COL", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "COL_articles", "to": "COL", "relationType": "companion_of"}
+{"type": "entity", "name": "EPH_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/EPH_articles.md", "Book: EPH", "Testament: NT", "Lines: 49", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "EPH_articles", "to": "EPH", "relationType": "companion_of"}
+{"type": "entity", "name": "GAL_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/GAL_articles.md", "Book: GAL", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "GAL_articles", "to": "GAL", "relationType": "companion_of"}
+{"type": "entity", "name": "HEB_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/HEB_articles.md", "Book: HEB", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "HEB_articles", "to": "HEB", "relationType": "companion_of"}
+{"type": "entity", "name": "JAS_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/JAS_articles.md", "Book: JAS", "Testament: NT", "Lines: 32", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JAS_articles", "to": "JAS", "relationType": "companion_of"}
+{"type": "entity", "name": "JOH_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/JOH_articles.md", "Book: JOH", "Testament: NT", "Lines: 40", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JOH_articles", "to": "JOH", "relationType": "companion_of"}
+{"type": "entity", "name": "JUD_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/JUD_articles.md", "Book: JUD", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JUD_articles", "to": "JUD", "relationType": "companion_of"}
+{"type": "entity", "name": "LUK_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/LUK_articles.md", "Book: LUK", "Testament: NT", "Lines: 39", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "LUK_articles", "to": "LUK", "relationType": "companion_of"}
+{"type": "entity", "name": "MAT_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/MAT_articles.md", "Book: MAT", "Testament: NT", "Lines: 65", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "MAT_articles", "to": "MAT", "relationType": "companion_of"}
+{"type": "entity", "name": "MRK_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/MRK_articles.md", "Book: MRK", "Testament: NT", "Lines: 29", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "MRK_articles", "to": "MRK", "relationType": "companion_of"}
+{"type": "entity", "name": "PHM_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/PHM_articles.md", "Book: PHM", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "PHM_articles", "to": "PHM", "relationType": "companion_of"}
+{"type": "entity", "name": "PHP_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/PHP_articles.md", "Book: PHP", "Testament: NT", "Lines: 14", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "PHP_articles", "to": "PHP", "relationType": "companion_of"}
+{"type": "entity", "name": "REV_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/REV_articles.md", "Book: REV", "Testament: NT", "Lines: 44", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "REV_articles", "to": "REV", "relationType": "companion_of"}
+{"type": "entity", "name": "ROM_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/ROM_articles.md", "Book: ROM", "Testament: NT", "Lines: 65", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "ROM_articles", "to": "ROM", "relationType": "companion_of"}
+{"type": "entity", "name": "TIT_articles", "entityType": "study_article", "observations": ["Path: study/articles/NT/TIT_articles.md", "Book: TIT", "Testament: NT", "Lines: 27", "Type: OSB study article", "Cleanup status: needs review"]}
+{"type": "relation", "from": "TIT_articles", "to": "TIT", "relationType": "companion_of"}
+{"type": "entity", "name": "1CH_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/1CH_footnotes.md", "Book: 1CH", "Testament: OT", "Lines: 501", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 20"]}
+{"type": "relation", "from": "1CH_footnotes", "to": "1CH", "relationType": "companion_of"}
+{"type": "entity", "name": "1ES_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/1ES_footnotes.md", "Book: 1ES", "Testament: OT", "Lines: 262", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 28"]}
+{"type": "relation", "from": "1ES_footnotes", "to": "1ES", "relationType": "companion_of"}
+{"type": "entity", "name": "1KI_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/1KI_footnotes.md", "Book: 1KI", "Testament: OT", "Lines: 655", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 4"]}
+{"type": "relation", "from": "1KI_footnotes", "to": "1KI", "relationType": "companion_of"}
+{"type": "entity", "name": "1MA_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/1MA_footnotes.md", "Book: 1MA", "Testament: OT", "Lines: 445", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 78"]}
+{"type": "relation", "from": "1MA_footnotes", "to": "1MA", "relationType": "companion_of"}
+{"type": "entity", "name": "1SA_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/1SA_footnotes.md", "Book: 1SA", "Testament: OT", "Lines: 736", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 74"]}
+{"type": "relation", "from": "1SA_footnotes", "to": "1SA", "relationType": "companion_of"}
+{"type": "entity", "name": "2CH_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/2CH_footnotes.md", "Book: 2CH", "Testament: OT", "Lines: 554", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 32"]}
+{"type": "relation", "from": "2CH_footnotes", "to": "2CH", "relationType": "companion_of"}
+{"type": "entity", "name": "2KI_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/2KI_footnotes.md", "Book: 2KI", "Testament: OT", "Lines: 581", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 36"]}
+{"type": "relation", "from": "2KI_footnotes", "to": "2KI", "relationType": "companion_of"}
+{"type": "entity", "name": "2MA_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/2MA_footnotes.md", "Book: 2MA", "Testament: OT", "Lines: 683", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 164"]}
+{"type": "relation", "from": "2MA_footnotes", "to": "2MA", "relationType": "companion_of"}
+{"type": "entity", "name": "2SA_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/2SA_footnotes.md", "Book: 2SA", "Testament: OT", "Lines: 969", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 106"]}
+{"type": "relation", "from": "2SA_footnotes", "to": "2SA", "relationType": "companion_of"}
+{"type": "entity", "name": "3MA_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/3MA_footnotes.md", "Book: 3MA", "Testament: OT", "Lines: 693", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 160"]}
+{"type": "relation", "from": "3MA_footnotes", "to": "3MA", "relationType": "companion_of"}
+{"type": "entity", "name": "AMO_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/AMO_footnotes.md", "Book: AMO", "Testament: OT", "Lines: 266", "Type: OSB footnote commentary", "Cleanup tier: mechanically clean only", "Dashboard status: review_required", "Footnote issues remaining: 24"]}
+{"type": "relation", "from": "AMO_footnotes", "to": "AMO", "relationType": "companion_of"}
+{"type": "entity", "name": "BAR_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/BAR_footnotes.md", "Book: BAR", "Testament: OT", "Lines: 214", "Type: OSB footnote commentary", "Cleanup tier: mechanically clean only", "Dashboard status: review_required", "Footnote issues remaining: 44"]}
+{"type": "relation", "from": "BAR_footnotes", "to": "BAR", "relationType": "companion_of"}
+{"type": "entity", "name": "DAN_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/DAN_footnotes.md", "Book: DAN", "Testament: OT", "Lines: 701", "Type: OSB footnote commentary", "Cleanup tier: mechanically clean only", "Dashboard status: review_required", "Footnote issues remaining: 58", "Patristic unresolved: 1"]}
+{"type": "relation", "from": "DAN_footnotes", "to": "DAN", "relationType": "companion_of"}
+{"type": "entity", "name": "DEU_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/DEU_footnotes.md", "Book: DEU", "Testament: OT", "Lines: 1379", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 110"]}
+{"type": "relation", "from": "DEU_footnotes", "to": "DEU", "relationType": "companion_of"}
+{"type": "entity", "name": "ECC_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/ECC_footnotes.md", "Book: ECC", "Testament: OT", "Lines: 346", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 60"]}
+{"type": "relation", "from": "ECC_footnotes", "to": "ECC", "relationType": "companion_of"}
+{"type": "entity", "name": "EST_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/EST_footnotes.md", "Book: EST", "Testament: OT", "Lines: 390", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 30"]}
+{"type": "relation", "from": "EST_footnotes", "to": "EST", "relationType": "companion_of"}
+{"type": "entity", "name": "EXO_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/EXO_footnotes.md", "Book: EXO", "Testament: OT", "Lines: 1695", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 222"]}
+{"type": "relation", "from": "EXO_footnotes", "to": "EXO", "relationType": "companion_of"}
+{"type": "entity", "name": "EZK_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/EZK_footnotes.md", "Book: EZK", "Testament: OT", "Lines: 859", "Type: OSB footnote commentary", "Cleanup tier: mechanically clean only", "Dashboard status: review_required", "Footnote issues remaining: 48", "Patristic unresolved: 6"]}
+{"type": "relation", "from": "EZK_footnotes", "to": "EZK", "relationType": "companion_of"}
+{"type": "entity", "name": "EZR_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/EZR_footnotes.md", "Book: EZR", "Testament: OT", "Lines: 344", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 34"]}
+{"type": "relation", "from": "EZR_footnotes", "to": "EZR", "relationType": "companion_of"}
+{"type": "entity", "name": "GEN_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/GEN_footnotes.md", "Book: GEN", "Testament: OT", "Lines: 2247", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Footnote issues remaining: 274", "Patristic unresolved: 1"]}
+{"type": "relation", "from": "GEN_footnotes", "to": "GEN", "relationType": "companion_of"}
+{"type": "entity", "name": "HAB_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/HAB_footnotes.md", "Book: HAB", "Testament: OT", "Lines: 222", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 28"]}
+{"type": "relation", "from": "HAB_footnotes", "to": "HAB", "relationType": "companion_of"}
+{"type": "entity", "name": "HAG_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/HAG_footnotes.md", "Book: HAG", "Testament: OT", "Lines: 107", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 4"]}
+{"type": "relation", "from": "HAG_footnotes", "to": "HAG", "relationType": "companion_of"}
+{"type": "entity", "name": "HOS_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/HOS_footnotes.md", "Book: HOS", "Testament: OT", "Lines: 431", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Footnote issues remaining: 50", "Patristic unresolved: 9"]}
+{"type": "relation", "from": "HOS_footnotes", "to": "HOS", "relationType": "companion_of"}
+{"type": "entity", "name": "ISA_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/ISA_footnotes.md", "Book: ISA", "Testament: OT", "Lines: 1779", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 238"]}
+{"type": "relation", "from": "ISA_footnotes", "to": "ISA", "relationType": "companion_of"}
+{"type": "entity", "name": "JDG_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/JDG_footnotes.md", "Book: JDG", "Testament: OT", "Lines: 757", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 72"]}
+{"type": "relation", "from": "JDG_footnotes", "to": "JDG", "relationType": "companion_of"}
+{"type": "entity", "name": "JDT_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/JDT_footnotes.md", "Book: JDT", "Testament: OT", "Lines: 477", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 28"]}
+{"type": "relation", "from": "JDT_footnotes", "to": "JDT", "relationType": "companion_of"}
+{"type": "entity", "name": "JER_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/JER_footnotes.md", "Book: JER", "Testament: OT", "Lines: 1562", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 202"]}
+{"type": "relation", "from": "JER_footnotes", "to": "JER", "relationType": "companion_of"}
+{"type": "entity", "name": "JOB_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/JOB_footnotes.md", "Book: JOB", "Testament: OT", "Lines: 1023", "Type: OSB footnote commentary", "Cleanup tier: mechanically clean only", "Dashboard status: review_required", "Footnote issues remaining: 102", "Patristic unresolved: 36"]}
+{"type": "relation", "from": "JOB_footnotes", "to": "JOB", "relationType": "companion_of"}
+{"type": "entity", "name": "JOL_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/JOL_footnotes.md", "Book: JOL", "Testament: OT", "Lines: 401", "Type: OSB footnote commentary", "Cleanup tier: mechanically clean only", "Dashboard status: review_required", "Footnote issues remaining: 36"]}
+{"type": "relation", "from": "JOL_footnotes", "to": "JOL", "relationType": "companion_of"}
+{"type": "entity", "name": "JON_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/JON_footnotes.md", "Book: JON", "Testament: OT", "Lines: 176", "Type: OSB footnote commentary", "Cleanup tier: mechanically clean only", "Dashboard status: review_required", "Footnote issues remaining: 18"]}
+{"type": "relation", "from": "JON_footnotes", "to": "JON", "relationType": "companion_of"}
+{"type": "entity", "name": "JOS_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/JOS_footnotes.md", "Book: JOS", "Testament: OT", "Lines: 720", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Footnote issues remaining: 20", "Patristic unresolved: 1"]}
+{"type": "relation", "from": "JOS_footnotes", "to": "JOS", "relationType": "companion_of"}
+{"type": "entity", "name": "LAM_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/LAM_footnotes.md", "Book: LAM", "Testament: OT", "Lines: 184", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 42"]}
+{"type": "relation", "from": "LAM_footnotes", "to": "LAM", "relationType": "companion_of"}
+{"type": "entity", "name": "LEV_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/LEV_footnotes.md", "Book: LEV", "Testament: OT", "Lines: 1667", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 98"]}
+{"type": "relation", "from": "LEV_footnotes", "to": "LEV", "relationType": "companion_of"}
+{"type": "entity", "name": "LJE_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/LJE_footnotes.md", "Book: LJE", "Testament: OT", "Lines: 92", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 24"]}
+{"type": "relation", "from": "LJE_footnotes", "to": "LJE", "relationType": "companion_of"}
+{"type": "entity", "name": "MAL_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/MAL_footnotes.md", "Book: MAL", "Testament: OT", "Lines: 236", "Type: OSB footnote commentary", "Cleanup tier: mechanically clean only", "Dashboard status: review_required", "Footnote issues remaining: 34"]}
+{"type": "relation", "from": "MAL_footnotes", "to": "MAL", "relationType": "companion_of"}
+{"type": "entity", "name": "MIC_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/MIC_footnotes.md", "Book: MIC", "Testament: OT", "Lines: 183", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 20"]}
+{"type": "relation", "from": "MIC_footnotes", "to": "MIC", "relationType": "companion_of"}
+{"type": "entity", "name": "NAH_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/NAH_footnotes.md", "Book: NAH", "Testament: OT", "Lines: 102", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 12"]}
+{"type": "relation", "from": "NAH_footnotes", "to": "NAH", "relationType": "companion_of"}
+{"type": "entity", "name": "NEH_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/NEH_footnotes.md", "Book: NEH", "Testament: OT", "Lines: 378", "Type: OSB footnote commentary", "Cleanup tier: needs full cleanup", "Dashboard status: review_required", "Footnote issues remaining: 16"]}
+{"type": "relation", "from": "NEH_footnotes", "to": "NEH", "relationType": "companion_of"}
+{"type": "entity", "name": "NUM_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/NUM_footnotes.md", "Book: NUM", "Testament: OT", "Lines: 1179", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 86"]}
+{"type": "relation", "from": "NUM_footnotes", "to": "NUM", "relationType": "companion_of"}
+{"type": "entity", "name": "OBA_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/OBA_footnotes.md", "Book: OBA", "Testament: OT", "Lines: 122", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 10"]}
+{"type": "relation", "from": "OBA_footnotes", "to": "OBA", "relationType": "companion_of"}
+{"type": "entity", "name": "PRO_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/PRO_footnotes.md", "Book: PRO", "Testament: OT", "Lines: 2487", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 446"]}
+{"type": "relation", "from": "PRO_footnotes", "to": "PRO", "relationType": "companion_of"}
+{"type": "entity", "name": "PSA_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/PSA_footnotes.md", "Book: PSA", "Testament: OT", "Lines: 2443", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Patristic unresolved: 1"]}
+{"type": "relation", "from": "PSA_footnotes", "to": "PSA", "relationType": "companion_of"}
+{"type": "entity", "name": "RUT_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/RUT_footnotes.md", "Book: RUT", "Testament: OT", "Lines: 239", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 20"]}
+{"type": "relation", "from": "RUT_footnotes", "to": "RUT", "relationType": "companion_of"}
+{"type": "entity", "name": "SIR_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/SIR_footnotes.md", "Book: SIR", "Testament: OT", "Lines: 2370", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 438"]}
+{"type": "relation", "from": "SIR_footnotes", "to": "SIR", "relationType": "companion_of"}
+{"type": "entity", "name": "SNG_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/SNG_footnotes.md", "Book: SNG", "Testament: OT", "Lines: 774", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 78"]}
+{"type": "relation", "from": "SNG_footnotes", "to": "SNG", "relationType": "companion_of"}
+{"type": "entity", "name": "TOB_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/TOB_footnotes.md", "Book: TOB", "Testament: OT", "Lines: 373", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 58"]}
+{"type": "relation", "from": "TOB_footnotes", "to": "TOB", "relationType": "companion_of"}
+{"type": "entity", "name": "WIS_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/WIS_footnotes.md", "Book: WIS", "Testament: OT", "Lines: 531", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 54"]}
+{"type": "relation", "from": "WIS_footnotes", "to": "WIS", "relationType": "companion_of"}
+{"type": "entity", "name": "ZEC_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/ZEC_footnotes.md", "Book: ZEC", "Testament: OT", "Lines: 735", "Type: OSB footnote commentary", "Cleanup tier: mechanically clean only", "Dashboard status: review_required", "Footnote issues remaining: 48", "Patristic unresolved: 1"]}
+{"type": "relation", "from": "ZEC_footnotes", "to": "ZEC", "relationType": "companion_of"}
+{"type": "entity", "name": "ZEP_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/OT/ZEP_footnotes.md", "Book: ZEP", "Testament: OT", "Lines: 47", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 4"]}
+{"type": "relation", "from": "ZEP_footnotes", "to": "ZEP", "relationType": "companion_of"}
+{"type": "entity", "name": "1CO_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/1CO_footnotes.md", "Book: 1CO", "Testament: NT", "Lines: 1497", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "1CO_footnotes", "to": "1CO", "relationType": "companion_of"}
+{"type": "entity", "name": "1JN_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/1JN_footnotes.md", "Book: 1JN", "Testament: NT", "Lines: 461", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "1JN_footnotes", "to": "1JN", "relationType": "companion_of"}
+{"type": "entity", "name": "1PE_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/1PE_footnotes.md", "Book: 1PE", "Testament: NT", "Lines: 541", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "1PE_footnotes", "to": "1PE", "relationType": "companion_of"}
+{"type": "entity", "name": "1TH_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/1TH_footnotes.md", "Book: 1TH", "Testament: NT", "Lines: 287", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Patristic unresolved: 1"]}
+{"type": "relation", "from": "1TH_footnotes", "to": "1TH", "relationType": "companion_of"}
+{"type": "entity", "name": "1TI_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/1TI_footnotes.md", "Book: 1TI", "Testament: NT", "Lines: 349", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Patristic unresolved: 1"]}
+{"type": "relation", "from": "1TI_footnotes", "to": "1TI", "relationType": "companion_of"}
+{"type": "entity", "name": "2CO_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/2CO_footnotes.md", "Book: 2CO", "Testament: NT", "Lines: 811", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "2CO_footnotes", "to": "2CO", "relationType": "companion_of"}
+{"type": "entity", "name": "2JN_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/2JN_footnotes.md", "Book: 2JN", "Testament: NT", "Lines: 83", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "2JN_footnotes", "to": "2JN", "relationType": "companion_of"}
+{"type": "entity", "name": "2PE_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/2PE_footnotes.md", "Book: 2PE", "Testament: NT", "Lines: 315", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Patristic unresolved: 1"]}
+{"type": "relation", "from": "2PE_footnotes", "to": "2PE", "relationType": "companion_of"}
+{"type": "entity", "name": "2TH_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/2TH_footnotes.md", "Book: 2TH", "Testament: NT", "Lines: 33", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "2TH_footnotes", "to": "2TH", "relationType": "companion_of"}
+{"type": "entity", "name": "2TI_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/2TI_footnotes.md", "Book: 2TI", "Testament: NT", "Lines: 273", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "2TI_footnotes", "to": "2TI", "relationType": "companion_of"}
+{"type": "entity", "name": "3JN_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/3JN_footnotes.md", "Book: 3JN", "Testament: NT", "Lines: 69", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "3JN_footnotes", "to": "3JN", "relationType": "companion_of"}
+{"type": "entity", "name": "ACT_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/ACT_footnotes.md", "Book: ACT", "Testament: NT", "Lines: 2633", "Type: OSB footnote commentary", "Cleanup tier: mechanically clean only", "Dashboard status: review_required", "Patristic unresolved: 1"]}
+{"type": "relation", "from": "ACT_footnotes", "to": "ACT", "relationType": "companion_of"}
+{"type": "entity", "name": "COL_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/COL_footnotes.md", "Book: COL", "Testament: NT", "Lines: 349", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "COL_footnotes", "to": "COL", "relationType": "companion_of"}
+{"type": "entity", "name": "EPH_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/EPH_footnotes.md", "Book: EPH", "Testament: NT", "Lines: 807", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "EPH_footnotes", "to": "EPH", "relationType": "companion_of"}
+{"type": "entity", "name": "GAL_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/GAL_footnotes.md", "Book: GAL", "Testament: NT", "Lines: 805", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "GAL_footnotes", "to": "GAL", "relationType": "companion_of"}
+{"type": "entity", "name": "HEB_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/HEB_footnotes.md", "Book: HEB", "Testament: NT", "Lines: 1359", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "HEB_footnotes", "to": "HEB", "relationType": "companion_of"}
+{"type": "entity", "name": "JAS_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/JAS_footnotes.md", "Book: JAS", "Testament: NT", "Lines: 487", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Patristic unresolved: 1"]}
+{"type": "relation", "from": "JAS_footnotes", "to": "JAS", "relationType": "companion_of"}
+{"type": "entity", "name": "JOH_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/JOH_footnotes.md", "Book: JOH", "Testament: NT", "Lines: 3543", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Patristic unresolved: 3"]}
+{"type": "relation", "from": "JOH_footnotes", "to": "JOH", "relationType": "companion_of"}
+{"type": "entity", "name": "JUD_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/JUD_footnotes.md", "Book: JUD", "Testament: NT", "Lines: 223", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "JUD_footnotes", "to": "JUD", "relationType": "companion_of"}
+{"type": "entity", "name": "LUK_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/LUK_footnotes.md", "Book: LUK", "Testament: NT", "Lines: 3273", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Patristic unresolved: 10"]}
+{"type": "relation", "from": "LUK_footnotes", "to": "LUK", "relationType": "companion_of"}
+{"type": "entity", "name": "MAT_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/MAT_footnotes.md", "Book: MAT", "Testament: NT", "Lines: 4009", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Patristic unresolved: 3"]}
+{"type": "relation", "from": "MAT_footnotes", "to": "MAT", "relationType": "companion_of"}
+{"type": "entity", "name": "MRK_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/MRK_footnotes.md", "Book: MRK", "Testament: NT", "Lines: 825", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Patristic unresolved: 2"]}
+{"type": "relation", "from": "MRK_footnotes", "to": "MRK", "relationType": "companion_of"}
+{"type": "entity", "name": "PHM_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/PHM_footnotes.md", "Book: PHM", "Testament: NT", "Lines: 97", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "PHM_footnotes", "to": "PHM", "relationType": "companion_of"}
+{"type": "entity", "name": "PHP_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/PHP_footnotes.md", "Book: PHP", "Testament: NT", "Lines: 321", "Type: OSB footnote commentary", "Cleanup tier: structurally clean (patristic pending)", "Dashboard status: review_required", "Patristic unresolved: 1"]}
+{"type": "relation", "from": "PHP_footnotes", "to": "PHP", "relationType": "companion_of"}
+{"type": "entity", "name": "REV_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/REV_footnotes.md", "Book: REV", "Testament: NT", "Lines: 3195", "Type: OSB footnote commentary", "Cleanup tier: needs full cleanup", "Dashboard status: review_required", "Patristic unresolved: 6"]}
+{"type": "relation", "from": "REV_footnotes", "to": "REV", "relationType": "companion_of"}
+{"type": "entity", "name": "ROM_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/ROM_footnotes.md", "Book: ROM", "Testament: NT", "Lines: 1787", "Type: OSB footnote commentary", "Cleanup tier: clean (marker alignment pending)", "Dashboard status: review_required", "Footnote issues remaining: 2"]}
+{"type": "relation", "from": "ROM_footnotes", "to": "ROM", "relationType": "companion_of"}
+{"type": "entity", "name": "TIT_footnotes", "entityType": "study_footnote", "observations": ["Path: study/footnotes/NT/TIT_footnotes.md", "Book: TIT", "Testament: NT", "Lines: 151", "Type: OSB footnote commentary", "Cleanup tier: complete", "Dashboard status: complete"]}
+{"type": "relation", "from": "TIT_footnotes", "to": "TIT", "relationType": "companion_of"}
+{"type": "entity", "name": "1KI_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/OT/1KI_lectionary.md", "Book: 1KI_lectionary.md", "Testament: OT", "Lines: 19", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1KI_lectionary.md_lectionary", "to": "1KI_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "DAN_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/OT/DAN_lectionary.md", "Book: DAN_lectionary.md", "Testament: OT", "Lines: 31", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "DAN_lectionary.md_lectionary", "to": "DAN_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "EXO_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/OT/EXO_lectionary.md", "Book: EXO_lectionary.md", "Testament: OT", "Lines: 15", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "EXO_lectionary.md_lectionary", "to": "EXO_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "GEN_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/OT/GEN_lectionary.md", "Book: GEN_lectionary.md", "Testament: OT", "Lines: 99", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "GEN_lectionary.md_lectionary", "to": "GEN_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "ISA_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/OT/ISA_lectionary.md", "Book: ISA_lectionary.md", "Testament: OT", "Lines: 35", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "ISA_lectionary.md_lectionary", "to": "ISA_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "JER_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/OT/JER_lectionary.md", "Book: JER_lectionary.md", "Testament: OT", "Lines: 15", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JER_lectionary.md_lectionary", "to": "JER_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "JOS_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/OT/JOS_lectionary.md", "Book: JOS_lectionary.md", "Testament: OT", "Lines: 21", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JOS_lectionary.md_lectionary", "to": "JOS_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "MIC_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/OT/MIC_lectionary.md", "Book: MIC_lectionary.md", "Testament: OT", "Lines: 13", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "MIC_lectionary.md_lectionary", "to": "MIC_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "PSA_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/OT/PSA_lectionary.md", "Book: PSA_lectionary.md", "Testament: OT", "Lines: 293", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "PSA_lectionary.md_lectionary", "to": "PSA_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "ZEC_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/OT/ZEC_lectionary.md", "Book: ZEC_lectionary.md", "Testament: OT", "Lines: 29", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "ZEC_lectionary.md_lectionary", "to": "ZEC_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "1CO_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/NT/1CO_lectionary.md", "Book: 1CO_lectionary.md", "Testament: NT", "Lines: 13", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "1CO_lectionary.md_lectionary", "to": "1CO_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "HEB_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/NT/HEB_lectionary.md", "Book: HEB_lectionary.md", "Testament: NT", "Lines: 13", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "HEB_lectionary.md_lectionary", "to": "HEB_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "JOH_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/NT/JOH_lectionary.md", "Book: JOH_lectionary.md", "Testament: NT", "Lines: 169", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "JOH_lectionary.md_lectionary", "to": "JOH_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "LUK_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/NT/LUK_lectionary.md", "Book: LUK_lectionary.md", "Testament: NT", "Lines: 85", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "LUK_lectionary.md_lectionary", "to": "LUK_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "MAT_lectionary.md_lectionary", "entityType": "study_lectionary", "observations": ["Path: study/lectionary-notes/NT/MAT_lectionary.md", "Book: MAT_lectionary.md", "Testament: NT", "Lines: 65", "Type: OSB lectionary notes", "Cleanup status: needs review"]}
+{"type": "relation", "from": "MAT_lectionary.md_lectionary", "to": "MAT_lectionary.md", "relationType": "companion_of"}
+{"type": "entity", "name": "Study_Layer", "entityType": "study_collection", "observations": ["76 article files, 76 footnote files, 15 lectionary note files", "Articles: study/articles/{OT,NT}/BOOK_articles.md", "Footnotes: study/footnotes/{OT,NT}/BOOK_footnotes.md", "Lectionary: study/lectionary-notes/{OT,NT}/BOOK_lectionary-notes.md", "Governing memo: memos/126_footnote_cleanup_study_surface_launch.md", "Cleanup tracking: reports/footnote_review/dashboard.json", "Footnote cleanup in progress \u2014 51/76 component-complete, 15/76 dashboard-complete"]}
+{"type": "relation", "from": "Study_Layer", "to": "Orthodox_Phronema_Archive", "relationType": "part_of"}

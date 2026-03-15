@@ -29,6 +29,10 @@ memos and canon**, not a replacement for either.
 | `canon_collection` | OT_Canon, NT_Canon | Collection-level rollups |
 | `project` | Orthodox_Phronema_Archive | Top-level project state |
 | `governing_memo` | memo_validation_spec | Pointer to active governing memo file |
+| `study_article` | GEN_articles | OSB study articles — one per book, linked via `companion_of` |
+| `study_footnote` | GEN_footnotes | OSB footnotes — cleanup tier tracked in observations |
+| `study_lectionary` | GEN_lectionary | OSB lectionary notes — 15 books covered so far |
+| `study_collection` | Study_Layer | Rollup of the entire study surface |
 
 ### Relation Types
 
@@ -37,6 +41,24 @@ memos and canon**, not a replacement for either.
 | `belongs_to` | Book → Collection |
 | `part_of` | Collection → Project |
 | `governs` | Memo → what it governs |
+| `companion_of` | Study file → Canon book |
+
+### Cleanup Tier Tracking
+
+Each `study_footnote` entity carries a `Cleanup tier:` observation reflecting
+the current state from `reports/footnote_review/dashboard.json`:
+
+- `complete` — all components verified
+- `clean (marker alignment pending)` — patristic/wikilinks done, markers not
+- `structurally clean (patristic pending)` — structure ok, patristic entities unresolved
+- `structurally clean (wikilinks/patristic pending)` — structure ok, more work needed
+- `mechanically clean only` — basic OCR cleanup done
+- `needs full cleanup` — untouched
+
+**After cleaning a book's footnotes**, update the entity:
+```
+add_observations: { entity: "BOOK_footnotes", observations: ["Cleanup tier: complete", "Cleaned: 2026-03-14"] }
+```
 
 ### Adding New Entities
 
@@ -57,5 +79,5 @@ create_relations: [{ from: "a", to: "b", relationType: "relation" }]
 
 ### Current Stats
 
-- 92 entities (76 books + 3 structural + 13 governing memos)
-- 84 relations (78 book→collection + 2 collection→project + 4 memo→project + memo→collection)
+- 260 entities (76 books + 76 articles + 76 footnotes + 15 lectionary + 3 structural + 1 study collection + 13 governing memos)
+- 252 relations (78 book→collection + 2 collection→project + 6 memo→governs + 152 companion→book + 14 misc)
