@@ -33,7 +33,7 @@ amber in the fire, God is made man in persecution."
 
 Ezekiel identifies the four living creatures as cherubim (10:9-16), the guardians
 
-of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see Rev 4:6-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in
+of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see [[REV.4:6]]-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in
 
 the spirit (vv. 12, 20) illustrates the spread of the gospel.
 
@@ -86,7 +86,7 @@ The rainbow images the new covenant (see [[GEN.9:13]]-15).
 ### 2:9-10
 *(anchor: EZK.2:9)*
 
-The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; Lk 24:25). Scripture "is written within by allegory, and without by history; within through
+The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; [[LUK.24:25]]). Scripture "is written within by allegory, and without by history; within through
 
 spiritual understanding, but without through the plain sense of the letter still befitting
 
@@ -257,7 +257,7 @@ Jerusalem was destroyed and its inhabitants taken into captivity in 586 BC, abou
 
 The ruler is Zedekiah, who ruled from 598-587. He fled Jerusalem by night
 
-through a break in the city wall; then he was taken captive and his eyes put out (see 4Kg 25:7 and note).
+through a break in the city wall; then he was taken captive and his eyes put out (see [[2KI.25:7]] and note).
 
 ### 12:18-19
 *(anchor: EZK.12:18)*
@@ -750,7 +750,7 @@ cycle of seven days; who feed on inward contemplation" (GrgGt).
 
 Here the vision concerns the heavenly altar (v. 46), imaged in the Divine
 
-Liturgy, where the saints offer their whole being to God in praise and worship. See Heb 13:10-19 and notes. The court is the foursquare fullness of the Church, which operates
+Liturgy, where the saints offer their whole being to God in praise and worship. See [[HEB.13:10]]-19 and notes. The court is the foursquare fullness of the Church, which operates
 
 in faith, hope, charity, and good works. 
 

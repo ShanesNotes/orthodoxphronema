@@ -2,7 +2,7 @@
   "book_code": "EZK",
   "position": 48,
   "testament": "OT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/EZK_footnotes.md",
@@ -10,7 +10,7 @@
     "mechanical_clean": true,
     "structural_clean": true,
     "marker_alignment_pass": true,
-    "wikilinks_verified": false,
+    "wikilinks_verified": true,
     "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
@@ -18,15 +18,15 @@
   "mechanical": {
     "tool_status": "ok",
     "summary": {
-      "total_findings": 234,
+      "total_findings": 235,
       "auto_fixable": 0,
-      "review_needed": 234,
+      "review_needed": 235,
       "files_checked": 1,
       "lines_checked": 440,
       "lines_fixed": 0
     },
     "by_category": {
-      "P6": 190,
+      "P6": 191,
       "P7": 44
     }
   },
@@ -59,8 +59,8 @@
   },
   "wikilinks": {
     "total_refs": 79,
-    "convertible_refs": 4,
-    "already_linked_refs": 75,
+    "convertible_refs": 0,
+    "already_linked_refs": 79,
     "unresolved_refs": 0,
     "unresolved_examples": []
   },
@@ -96,7 +96,7 @@
           "line_number": 36,
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
-          "context": "of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see Rev 4:6-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in"
+          "context": "of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see [[REV.4:6]]-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in"
         },
         {
           "line_number": 43,
@@ -526,7 +526,7 @@
         "line_number": 36,
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
-        "context": "of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see Rev 4:6-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in"
+        "context": "of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see [[REV.4:6]]-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in"
       },
       {
         "line_number": 43,

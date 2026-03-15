@@ -2,7 +2,7 @@
   "book_code": "ACT",
   "position": 54,
   "testament": "NT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/ACT_footnotes.md",
@@ -10,7 +10,7 @@
     "mechanical_clean": true,
     "structural_clean": true,
     "marker_alignment_pass": true,
-    "wikilinks_verified": false,
+    "wikilinks_verified": true,
     "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
@@ -59,8 +59,8 @@
   },
   "wikilinks": {
     "total_refs": 111,
-    "convertible_refs": 1,
-    "already_linked_refs": 110,
+    "convertible_refs": 0,
+    "already_linked_refs": 111,
     "unresolved_refs": 1,
     "unresolved_examples": [
       {

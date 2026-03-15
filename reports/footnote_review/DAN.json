@@ -2,7 +2,7 @@
   "book_code": "DAN",
   "position": 49,
   "testament": "OT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/DAN_footnotes.md",
@@ -10,7 +10,7 @@
     "mechanical_clean": true,
     "structural_clean": true,
     "marker_alignment_pass": true,
-    "wikilinks_verified": false,
+    "wikilinks_verified": true,
     "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
@@ -65,8 +65,8 @@
   },
   "wikilinks": {
     "total_refs": 25,
-    "convertible_refs": 1,
-    "already_linked_refs": 24,
+    "convertible_refs": 0,
+    "already_linked_refs": 25,
     "unresolved_refs": 0,
     "unresolved_examples": []
   },
@@ -222,13 +222,13 @@
           "line_number": 305,
           "entity": "EPHRAIM_SYRIAN",
           "matched_alias": "St. Ephraim",
-          "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn 11:1-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also"
+          "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see [[JOH.11:1]]-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also"
         },
         {
           "line_number": 305,
           "entity": "EPHRAIM_SYRIAN",
           "matched_alias": "Ephraim",
-          "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn 11:1-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also"
+          "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see [[JOH.11:1]]-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also"
         },
         {
           "line_number": 336,
@@ -552,13 +552,13 @@
         "line_number": 305,
         "entity": "EPHRAIM_SYRIAN",
         "matched_alias": "St. Ephraim",
-        "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn 11:1-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also"
+        "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see [[JOH.11:1]]-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also"
       },
       {
         "line_number": 305,
         "entity": "EPHRAIM_SYRIAN",
         "matched_alias": "Ephraim",
-        "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn 11:1-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also"
+        "context": "St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see [[JOH.11:1]]-45) illustrate Christ in His tomb. \"A type of You therefore was Daniel, and also"
       },
       {
         "line_number": 336,

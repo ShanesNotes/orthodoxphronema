@@ -2,7 +2,7 @@
   "book_code": "1CO",
   "position": 56,
   "testament": "NT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/1CO_footnotes.md",
@@ -10,7 +10,7 @@
     "mechanical_clean": true,
     "structural_clean": true,
     "marker_alignment_pass": true,
-    "wikilinks_verified": false,
+    "wikilinks_verified": true,
     "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
@@ -60,8 +60,8 @@
   },
   "wikilinks": {
     "total_refs": 91,
-    "convertible_refs": 1,
-    "already_linked_refs": 90,
+    "convertible_refs": 0,
+    "already_linked_refs": 91,
     "unresolved_refs": 0,
     "unresolved_examples": []
   },

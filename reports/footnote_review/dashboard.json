@@ -2,8 +2,7 @@
   "generated": "2026-03-14",
   "book_count": 76,
   "status_counts": {
-    "complete": 70,
-    "review_required": 6
+    "complete": 76
   },
   "component_pass_counts": {
     "apostolic_entity_verified": 76,
@@ -12,7 +11,7 @@
     "mechanical_clean": 76,
     "patristic_entity_verified": 76,
     "structural_clean": 76,
-    "wikilinks_verified": 70
+    "wikilinks_verified": 76
   },
   "waves": [
     {
@@ -116,7 +115,7 @@
       "start_book": "ZEC",
       "end_book": "BAR",
       "book_count": 5,
-      "complete_books": 4,
+      "complete_books": 5,
       "structural_clean_books": 5,
       "marker_alignment_books": 5,
       "patristic_verified_books": 5,
@@ -128,7 +127,7 @@
       "start_book": "LAM",
       "end_book": "MAT",
       "book_count": 5,
-      "complete_books": 3,
+      "complete_books": 5,
       "structural_clean_books": 5,
       "marker_alignment_books": 5,
       "patristic_verified_books": 5,
@@ -140,7 +139,7 @@
       "start_book": "MRK",
       "end_book": "ROM",
       "book_count": 5,
-      "complete_books": 4,
+      "complete_books": 5,
       "structural_clean_books": 5,
       "marker_alignment_books": 5,
       "patristic_verified_books": 5,
@@ -152,7 +151,7 @@
       "start_book": "1CO",
       "end_book": "PHP",
       "book_count": 5,
-      "complete_books": 3,
+      "complete_books": 5,
       "structural_clean_books": 5,
       "marker_alignment_books": 5,
       "patristic_verified_books": 5,
@@ -1115,13 +1114,13 @@
       "book_code": "MAL",
       "position": 42,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
         "marker_alignment_pass": true,
-        "wikilinks_verified": false,
+        "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
         "liturgical_creedal_verified": true
@@ -1247,13 +1246,13 @@
       "book_code": "EZK",
       "position": 48,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
         "marker_alignment_pass": true,
-        "wikilinks_verified": false,
+        "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
         "liturgical_creedal_verified": true
@@ -1269,13 +1268,13 @@
       "book_code": "DAN",
       "position": 49,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
         "marker_alignment_pass": true,
-        "wikilinks_verified": false,
+        "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
         "liturgical_creedal_verified": true
@@ -1379,13 +1378,13 @@
       "book_code": "ACT",
       "position": 54,
       "testament": "NT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
         "marker_alignment_pass": true,
-        "wikilinks_verified": false,
+        "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
         "liturgical_creedal_verified": true
@@ -1423,13 +1422,13 @@
       "book_code": "1CO",
       "position": 56,
       "testament": "NT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
         "marker_alignment_pass": true,
-        "wikilinks_verified": false,
+        "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
         "liturgical_creedal_verified": true
@@ -1489,13 +1488,13 @@
       "book_code": "EPH",
       "position": 59,
       "testament": "NT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
         "marker_alignment_pass": true,
-        "wikilinks_verified": false,
+        "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
         "liturgical_creedal_verified": true

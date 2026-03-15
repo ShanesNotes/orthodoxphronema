@@ -216,7 +216,7 @@ the Holy Spirit and (2) the dynamic of God's power.
 
 The mature (Gr. teleioi) are the "spiritual" (Gr. pneumatikoi) of v. 15. Mystery
 
-here is the gospel of the Kingdom (see Rom 16:25; [[EPH.3:3]], [[EPH.3:4]], [[EPH.3:9]]; 6:19; [[COL.4:3]]; [[1TI.3:9]], [[1TI.3:16]]),
+here is the gospel of the Kingdom (see [[ROM.16:25]]; [[EPH.3:3]], [[EPH.3:4]], [[EPH.3:9]]; 6:19; [[COL.4:3]]; [[1TI.3:9]], [[1TI.3:16]]),
 
 which neither angels nor any other creature knew before it was revealed by Christ, even
 

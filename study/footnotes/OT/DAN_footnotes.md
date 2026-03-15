@@ -302,7 +302,7 @@ kingdom and His servants. St. Paul calls such schemes "the wiles [strategies] of
 ### 6:17-25
 *(anchor: DAN.6:17)*
 
-St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn 11:1-45) illustrate Christ in His tomb. "A type of You therefore was Daniel, and also
+St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see [[JOH.11:1]]-45) illustrate Christ in His tomb. "A type of You therefore was Daniel, and also
 
 Lazarus; one in the den, which the Gentiles sealed up, and one in the sepulchre, that the
 

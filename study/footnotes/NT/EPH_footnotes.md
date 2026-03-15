@@ -80,7 +80,7 @@ Cross ([[1CO.2:8]]), to the restoration and culmination of all things (v. 10). I
 
 (v. 10) of all, not only for humanity but for the whole creation. Although it was
 
-announced by the prophets (Rom 16:25, 26), God revealed it through Christ, and it is
+announced by the prophets ([[ROM.16:25]], [[ROM.16:26]]), God revealed it through Christ, and it is
 
 made known to us through the apostles (3:1-5; [[1CO.2:6]], [[1CO.2:7]], [[1CO.2:10]]-16; 4:1). The mystery is
 

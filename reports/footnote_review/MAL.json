@@ -2,7 +2,7 @@
   "book_code": "MAL",
   "position": 42,
   "testament": "OT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/MAL_footnotes.md",
@@ -10,7 +10,7 @@
     "mechanical_clean": true,
     "structural_clean": true,
     "marker_alignment_pass": true,
-    "wikilinks_verified": false,
+    "wikilinks_verified": true,
     "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
@@ -18,15 +18,15 @@
   "mechanical": {
     "tool_status": "ok",
     "summary": {
-      "total_findings": 40,
+      "total_findings": 41,
       "auto_fixable": 0,
-      "review_needed": 40,
+      "review_needed": 41,
       "files_checked": 1,
       "lines_checked": 100,
       "lines_fixed": 0
     },
     "by_category": {
-      "P6": 40
+      "P6": 41
     }
   },
   "structure": {
@@ -58,8 +58,8 @@
   },
   "wikilinks": {
     "total_refs": 21,
-    "convertible_refs": 1,
-    "already_linked_refs": 20,
+    "convertible_refs": 0,
+    "already_linked_refs": 21,
     "unresolved_refs": 0,
     "unresolved_examples": []
   },
@@ -95,13 +95,13 @@
           "line_number": 105,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "St. Paul",
-          "context": "Sons of Israel profaned the holy things of the Lord. Too often they followed foreign gods through intermarriage with pagan women, which was prohibited (see Ex 34:11-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be unequa"
+          "context": "Sons of Israel profaned the holy things of the Lord. Too often they followed foreign gods through intermarriage with pagan women, which was prohibited (see [[EXO.34:11]]-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be u"
         },
         {
           "line_number": 105,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
-          "context": "Sons of Israel profaned the holy things of the Lord. Too often they followed foreign gods through intermarriage with pagan women, which was prohibited (see Ex 34:11-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be unequa"
+          "context": "Sons of Israel profaned the holy things of the Lord. Too often they followed foreign gods through intermarriage with pagan women, which was prohibited (see [[EXO.34:11]]-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be u"
         }
       ],
       "entity_counts": {

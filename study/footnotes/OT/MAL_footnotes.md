@@ -102,7 +102,7 @@ Christians call God Father because Jesus Christ, the eternally begotten Son of G
 ### 2:10-12
 *(anchor: MAL.2:10)*
 
-Sons of Israel profaned the holy things of the Lord. Too often they followed foreign gods through intermarriage with pagan women, which was prohibited (see Ex 34:11-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, "Do not be unequally yoked together with unbelievers" ([[2CO.6:14]]).
+Sons of Israel profaned the holy things of the Lord. Too often they followed foreign gods through intermarriage with pagan women, which was prohibited (see [[EXO.34:11]]-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, "Do not be unequally yoked together with unbelievers" ([[2CO.6:14]]).
 
 ### 2:13-16
 *(anchor: MAL.2:13)*
