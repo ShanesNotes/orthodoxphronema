@@ -174,8 +174,14 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 1,
+      "matched_entities_count": 2,
       "matched_entities": [
+        {
+          "line_number": 590,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "After four years (the LXX has \"forty\"), Absalom is ready for open revolt. He uses"
+        },
         {
           "line_number": 728,
           "entity": "EPHRAIM_SYRIAN",
@@ -184,7 +190,8 @@
         }
       ],
       "entity_counts": {
-        "EPHRAIM_SYRIAN": 1
+        "EPHRAIM_SYRIAN": 1,
+        "SEPTUAGINT": 1
       },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
@@ -208,8 +215,14 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 1,
+    "matched_entities_count": 2,
     "matched_entities": [
+      {
+        "line_number": 590,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "After four years (the LXX has \"forty\"), Absalom is ready for open revolt. He uses"
+      },
       {
         "line_number": 728,
         "entity": "EPHRAIM_SYRIAN",
@@ -218,7 +231,8 @@
       }
     ],
     "entity_counts": {
-      "EPHRAIM_SYRIAN": 1
+      "EPHRAIM_SYRIAN": 1,
+      "SEPTUAGINT": 1
     },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],

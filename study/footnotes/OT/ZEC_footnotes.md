@@ -282,7 +282,12 @@ our behalf before God and by man unjustly.
 ### 3:10
 *(anchor: ZEC.3:10)*
 
-This promise is for peace, safety, luxury, blessing, and paradise. 3:1-10 The LXX makes the Christological typography of the fourth vision crystal clear. Paul
+This promise is for peace, safety, luxury, blessing, and paradise.
+
+### 3:1-10
+*(anchor: ZEC.3:1)*
+
+The LXX makes the Christological typography of the fourth vision crystal clear. Paul
 
 calls Jesus the High Priest who supersedes the high priest in the Jerusalem temple (Heb
 
@@ -595,13 +600,7 @@ themes of chs. 9-14.
 ### 9:9
 *(anchor: ZEC.9:9)*
 
-, 10 The Triumphant Entry of Christ into Jerusalem is foretold here (see [[MAT.21:1]]-9; Mk
-
-
-### 11:1
-*(anchor: ZEC.11:1)*
-
--10; [[LUK.19:28]]-38; [[JOH.12:12]]-19). Matthew and John cite v. 9 ([[MAT.21:5]]; [[JOH.12:15]]). Rather than riding proudly on a warrior's chariot in victory, the Messiah-king rides
+, 10 The Triumphant Entry of Christ into Jerusalem is foretold here (see [[MAT.21:1]]-9; Mk-10; [[LUK.19:28]]-38; [[JOH.12:12]]-19). Matthew and John cite v. 9 ([[MAT.21:5]]; [[JOH.12:15]]). Rather than riding proudly on a warrior's chariot in victory, the Messiah-king rides
 
 humbly on a donkey, notes St. Ambrose. Justin Martyr comments, "Jacob predicted that
 
@@ -613,11 +612,21 @@ Jews. 9:11
 
 The fathers typically see this verse as a reference to Christ's descent into Hades to set
 
-the captives free. 10:1-3 Zechariah condemns the spiritual leaders (shepherds) who fleece the flock of God
+the captives free.
+
+### 10:1-3
+*(anchor: ZEC.10:1)*
+
+Zechariah condemns the spiritual leaders (shepherds) who fleece the flock of God
 
 by false visions and false dreams using Semitic idols. God will punish them as well as
 
-deliver Judah. 11:1-17 The Good Shepherd (see Jn 10) is contrasted with the bad shepherds of 10:1-12. He
+deliver Judah.
+
+### 11:1-17
+*(anchor: ZEC.11:1)*
+
+The Good Shepherd (see Jn 10) is contrasted with the bad shepherds of 10:1-12. He
 
 replaces the bad shepherds Himself. 
 

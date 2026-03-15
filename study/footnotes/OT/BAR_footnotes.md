@@ -159,7 +159,7 @@ Giants: See [[GEN.6:4]]; WSir 16:7.
 ### 3:29-36
 *(anchor: BAR.3:29)*
 
-This is a description of the Wisdom of God ([[1CO.1:24]]). 3:29-36 This is a description of the Wisdom of God ([[1CO.1:24]]). 
+This is a description of the Wisdom of God ([[1CO.1:24]]).
 
 ### 4:9
 *(anchor: BAR.4:9)*

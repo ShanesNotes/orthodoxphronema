@@ -508,8 +508,20 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 44,
+      "matched_entities_count": 48,
       "matched_entities": [
+        {
+          "line_number": 41,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "made a strong effort to purge the LXX of references that could be interpreted as referring"
+        },
+        {
+          "line_number": 194,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "give them their portion as commanded, the Syriac version of the LXX includes what"
+        },
         {
           "line_number": 524,
           "entity": "CYPRIAN_CARTHAGE",
@@ -545,6 +557,12 @@
           "entity": "CYPRIAN_CARTHAGE",
           "matched_alias": "Cyprian",
           "context": "Scripture. Many church fathers also quoted from Sirach. In his treatise, Cyprian quotes"
+        },
+        {
+          "line_number": 661,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "quotes, mostly from the LXX but also a few from the NT, and is worthy to be studied by"
         },
         {
           "line_number": 683,
@@ -763,6 +781,12 @@
           "context": "doctrine of the resurrection. One could argue that Joseph's concern for the removal of his"
         },
         {
+          "line_number": 2247,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "The Greek word for King of all is found nowhere else in the LXX."
+        },
+        {
           "line_number": 2299,
           "entity": "PHOTINI_SAMARITAN",
           "matched_alias": "St. Photini",
@@ -787,7 +811,8 @@
         "JOHN_CHRYSOSTOM": 7,
         "JOHN_THEOLOGIAN": 3,
         "JOSEPH_BETROTHED": 1,
-        "PHOTINI_SAMARITAN": 2
+        "PHOTINI_SAMARITAN": 2,
+        "SEPTUAGINT": 4
       },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
@@ -1065,8 +1090,20 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 44,
+    "matched_entities_count": 48,
     "matched_entities": [
+      {
+        "line_number": 41,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "made a strong effort to purge the LXX of references that could be interpreted as referring"
+      },
+      {
+        "line_number": 194,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "give them their portion as commanded, the Syriac version of the LXX includes what"
+      },
       {
         "line_number": 524,
         "entity": "CYPRIAN_CARTHAGE",
@@ -1102,6 +1139,12 @@
         "entity": "CYPRIAN_CARTHAGE",
         "matched_alias": "Cyprian",
         "context": "Scripture. Many church fathers also quoted from Sirach. In his treatise, Cyprian quotes"
+      },
+      {
+        "line_number": 661,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "quotes, mostly from the LXX but also a few from the NT, and is worthy to be studied by"
       },
       {
         "line_number": 683,
@@ -1320,6 +1363,12 @@
         "context": "doctrine of the resurrection. One could argue that Joseph's concern for the removal of his"
       },
       {
+        "line_number": 2247,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "The Greek word for King of all is found nowhere else in the LXX."
+      },
+      {
         "line_number": 2299,
         "entity": "PHOTINI_SAMARITAN",
         "matched_alias": "St. Photini",
@@ -1344,7 +1393,8 @@
       "JOHN_CHRYSOSTOM": 7,
       "JOHN_THEOLOGIAN": 3,
       "JOSEPH_BETROTHED": 1,
-      "PHOTINI_SAMARITAN": 2
+      "PHOTINI_SAMARITAN": 2,
+      "SEPTUAGINT": 4
     },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],

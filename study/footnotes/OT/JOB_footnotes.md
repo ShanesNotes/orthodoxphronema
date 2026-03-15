@@ -138,9 +138,19 @@ Job did not sin with his lips: "When holy men undergo persecution... they not
 
 only never transgress in injurious expressions against God, but they never launch words
 
-of reviling against their very adversaries" (GrgGt). 2:16-18 Job's three friends came to comfort him, but the contrary took place, because
+of reviling against their very adversaries" (GrgGt).
 
-they imagined they understood the reason he suffered such things. 3:1-3 Job cursed his day of birth, but as a pious man he never said he could not endure
+### 2:16-18
+*(anchor: JOB.2:16)*
+
+Job's three friends came to comfort him, but the contrary took place, because
+
+they imagined they understood the reason he suffered such things.
+
+### 3:1-3
+*(anchor: JOB.3:1)*
+
+Job cursed his day of birth, but as a pious man he never said he could not endure
 
 his pain. 3:8
 
@@ -174,7 +184,12 @@ St. Gregory comments that Job's friends typify teachers of false doctrines, who
 
 pretend to hear hidden words from God in order to confuse the weak and to "cast a veil of
 
-reverence" over their preaching. 5:1-27 St. Gregory remarks that Eliphaz' words would have been true, had they not been
+reverence" over their preaching.
+
+### 5:1-27
+*(anchor: JOB.5:1)*
+
+St. Gregory remarks that Eliphaz' words would have been true, had they not been
 
 delivered against the patience of so great a man. Like the Hebrews, Eliphaz knew the acts
 
@@ -190,7 +205,12 @@ satisfies, and His words, being "salted with truth," give eternal life. 6:10
 
 Having placed his hope in the Lord, Job faced the grave with peace of soul. It was
 
-Eliphaz who had lied about the holy words of... God. 6:11-13 "The strength of the righteous is to subdue the flesh, to love the hardships of this
+Eliphaz who had lied about the holy words of... God.
+
+### 6:11-13
+*(anchor: JOB.6:11)*
+
+"The strength of the righteous is to subdue the flesh, to love the hardships of this
 
 world for the sake of eternal rewards, to count the allurements of prosperity as nothing, and to overcome the dread of adversity in our heart" (GrgGt). 6:18
 
@@ -214,9 +234,19 @@ Christ also asked "why?" while hanging on the Cross ([[MAT.27:46]]). Job looked 
 
 death for relief (v. 21), but Christ's death purged our lawlessness ([[JOH.1:29]]), and His
 
-Resurrection in the morning ([[PSA.5:3]]) brought a new covenant of life and hope. 8:1-4 How long? The unjust cannot bear the edifying words of the righteous, but speak
+Resurrection in the morning ([[PSA.5:3]]) brought a new covenant of life and hope.
 
-even well-known truths boldly and with big words so they will appear learned. 8:11-13 Bildad's images, which rightly describe all who forget the Lord, are wasted on
+### 8:1-4
+*(anchor: JOB.8:1)*
+
+How long? The unjust cannot bear the edifying words of the righteous, but speak
+
+even well-known truths boldly and with big words so they will appear learned.
+
+### 8:11-13
+*(anchor: JOB.8:11)*
+
+Bildad's images, which rightly describe all who forget the Lord, are wasted on
 
 Job. In speaking of those who have forgotten God, St. Gregory writes that while they
 
@@ -234,7 +264,12 @@ St. Gregory the Great sees in heaven a type of the preaching of the apostles and
 
 evangelists. St. Cyril notes that this is the same Lord who, as Man, walked on the sea as
 
-on firm ground ([[JOH.6:19]]). 9:9-13 St. Hesychius sees v. 9 as denoting all of God's great works, and compares v. 10 to
+on firm ground ([[JOH.6:19]]).
+
+### 9:9-13
+*(anchor: JOB.9:9)*
+
+St. Hesychius sees v. 9 as denoting all of God's great works, and compares v. 10 to
 
 [[JOH.21:25]]. God goes beyond us (v. 11) when He defers judgment, and passes by when He
 
@@ -248,7 +283,12 @@ Here we see Job growing weaker, calling on God's help lest he give heed to the
 
 enemy. Job, like Christ, "learned obedience through the things which He suffered" (Heb
 
-5:8). 10:8-12 St. Ambrose writes that Job, knowing no one is immune from falling, rejects what
+5:8).
+
+### 10:8-12
+*(anchor: JOB.10:8)*
+
+St. Ambrose writes that Job, knowing no one is immune from falling, rejects what
 
 comes from unholiness and confesses what comes from weakness. To act in an unholy
 
@@ -304,7 +344,12 @@ The shadow of death is the Law, which makes all sinners liable to punishment by
 
 death; but Christ brought light to the shadows (GrgGt). 13:1
 
-God reveals His mysteries to the ones He has found to be holy (Hesych). 13:17-28 Job's is the voice of mankind, "eagerly desiring to advance from fear to love.... He seeks the very presence of his Creator, familiarly, in the flesh," that he might both
+God reveals His mysteries to the ones He has found to be holy (Hesych).
+
+### 13:17-28
+*(anchor: JOB.13:17)*
+
+Job's is the voice of mankind, "eagerly desiring to advance from fear to love.... He seeks the very presence of his Creator, familiarly, in the flesh," that he might both
 
 hear and be heard (GrgGt). 14:5
 
@@ -312,7 +357,12 @@ God sets bounds to our spiritual attainments. We learn humility by the things we
 
 unable to master, that we may not be exalted by those things we have the power to do
 
-(GrgGt). 14:7-11 Christ was cut down in His death, but would sprout again in His Resurrection
+(GrgGt).
+
+### 14:7-11
+*(anchor: JOB.14:7)*
+
+Christ was cut down in His death, but would sprout again in His Resurrection
 
 (see [[PSA.1:3]]) and send out tender shoots--"the faithful being multiplied by His
 
@@ -348,31 +398,68 @@ St. Hesychius compares this verse to Christ's betrayal at Judas's hands ([[JOH.1
 ### 26:25
 *(anchor: JOB.26:25)*
 
-). 16:17 Compare this verse to [[1PE.2:22]] and [[LUK.23:24]]. 16:18
+).
+
+### 16:17
+*(anchor: JOB.16:17)*
+
+Compare this verse to [[1PE.2:22]] and [[LUK.23:24]].
+
+### 16:18
+*(anchor: JOB.16:18)*
 
 The earth did not cover Christ's blood shed on the Cross; rather His blood has
 
 covered the earth, for the Church has preached the gospel of salvation in all parts of the
 
-world (GrgGt). 17:4
+world (GrgGt).
+
+### 17:4
+*(anchor: JOB.17:4)*
 
 A stunning example of God's enemies lacking discernment shows up in St. Paul's
 
-commentary in [[1CO.2:7]], [[1CO.2:8]] on those who crucified Christ. 18:1-21 St. Gregory sees Bildad's words as being unwittingly directed against the devil. 19:5
+commentary in [[1CO.2:7]], [[1CO.2:8]] on those who crucified Christ.
+
+### 18:1-21
+*(anchor: JOB.18:1)*
+
+St. Gregory sees Bildad's words as being unwittingly directed against the devil.
+
+### 19:5
+*(anchor: JOB.19:5)*
 
 Job's friends, seeing his affliction and knowing his righteousness, should have
 
 bewailed their own miserable condition. "With what vengeance did they deserve to be
 
-smitten, who had not served like him?" (GrgGt). 19:7-19 The Fathers note clear parallels between this passage and Christ's Passion (see Mt
+smitten, who had not served like him?" (GrgGt).
+
+### 19:7-19
+*(anchor: JOB.19:7)*
+
+The Fathers note clear parallels between this passage and Christ's Passion (see Mt
 
 
 ### 27:40
 *(anchor: JOB.27:40)*
 
-; [[JOH.18:23]]; [[MAT.27:26]], [[MAT.27:27]], [[MAT.27:29]]; Is 53:2, 3). 19:23-27 "No one since the days of Christ speaks so openly concerning the Resurrection as
+; [[JOH.18:23]]; [[MAT.27:26]], [[MAT.27:27]], [[MAT.27:29]]; Is 53:2, 3).
 
-he did before Christ" (Jerome). 20:1-3 Zophar's so-called superior understanding blinded him to the truth. 20:12-14
+### 19:23-27
+*(anchor: JOB.19:23)*
+
+"No one since the days of Christ speaks so openly concerning the Resurrection as
+
+he did before Christ" (Jerome).
+
+### 20:1-3
+*(anchor: JOB.20:1)*
+
+Zophar's so-called superior understanding blinded him to the truth.
+
+### 20:12-14
+*(anchor: JOB.20:12)*
 
 St. Gregory comments that the hypocrite hides his evil intentions behind soft
 
@@ -394,11 +481,24 @@ consolation of eternal rest in the kingdom of heaven. For prosperity and abundan
 
 constitute a powerful inducement to do wrong; they exalt a man to pride and induce him
 
-to forget his Creator" (AmbM). 21:23-26 Riches should not lift up the soul, nor should poverty disturb it. 21:29
+to forget his Creator" (AmbM).
+
+### 21:23-26
+*(anchor: JOB.21:23)*
+
+Riches should not lift up the soul, nor should poverty disturb it.
+
+### 21:29
+*(anchor: JOB.21:29)*
 
 Those who do not pass through the present life as if it were a road to that which is
 
-to come are unable to comprehend those who do. 22:1-30 Eliphaz went from a dead heart to idle words, and from idle words to the sin of
+to come are unable to comprehend those who do.
+
+### 22:1-30
+*(anchor: JOB.22:1)*
+
+Eliphaz went from a dead heart to idle words, and from idle words to the sin of
 
 lying, and from lying to insults and abuse. These are the descents of increasing sin
 
@@ -412,7 +512,12 @@ what is already known, "lest, by holding their tongue, they should appear to be 
 
 Eliphaz failed to realize that it was because of Job's righteous deeds that he was
 
-afflicted in the first place (1:12). 23:1-3 In the midst of affliction, the righteous know God by faith, but long all the more to
+afflicted in the first place (1:12).
+
+### 23:1-3
+*(anchor: JOB.23:1)*
+
+In the midst of affliction, the righteous know God by faith, but long all the more to
 
 see His form. Christ will take the form of fallen men and fulfill Job's desires (GrgGt). 23:12
 
@@ -426,7 +531,12 @@ way of salvation (GrgGt). 24:8
 
 "The showers of the mountains are the words of the learned" (GrgGt). The rock is
 
-Christ and His Church, to whom the afflicted ones flee. 24:14-16 "Everyone who avoids the light loves darkness, seeking to be hidden, though he
+Christ and His Church, to whom the afflicted ones flee.
+
+### 24:14-16
+*(anchor: JOB.24:14)*
+
+"Everyone who avoids the light loves darkness, seeking to be hidden, though he
 
 cannot be hidden from God" (AmbM). 25:4
 
@@ -965,7 +1075,12 @@ unacceptable to God. "Sacrifice does not restore him, because he already believe
 
 should believe, but heavenly justice drives him away on account of his flood of words"
 
-(GrgGt). 42:7-9 Job images Christ as suffering servant, High Priest, and Intercessor on behalf of
+(GrgGt).
+
+### 42:7-9
+*(anchor: JOB.42:7)*
+
+Job images Christ as suffering servant, High Priest, and Intercessor on behalf of
 
 all. St. Gregory writes that he also images the Church. Job's intercession is echoed by
 

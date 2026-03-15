@@ -1,4 +1,4 @@
-version: 2
+version: 3
 biblical:
   - canonical: GEN
     aliases: [Gen, Gn, Genesis]
@@ -196,7 +196,7 @@ patristic_future:
     aliases: [Eusb, Eusebius]
     context_hint: "often appears in historical citations"
   - canonical: CYPRIAN_CARTHAGE
-    aliases: [Cyprian, St. Cyprian, Cyprian of Carthage]
+    aliases: [Cyprian, CypC, St. Cyprian, Cyprian of Carthage]
     context_hint: "often appears in ecclesial and sacramental citations"
   - canonical: AUGUSTINE_HIPPO
     aliases: [Augustine, St. Augustine, Augustine of Hippo, St. Augustine of Hippo]
@@ -238,8 +238,8 @@ patristic_future:
     aliases: [GrgSinai, Gregory of Sinai, St. Gregory of Sinai]
     context_hint: "hesychast and contemplative commentary citations"
   - canonical: GREGORY_GREAT
-    aliases: [GrgGt, Gregory the Great, St. Gregory the Great, Gregory Dialogist, St. Gregory the Dialogist]
-    context_hint: "often appears in moral and pastoral commentary citations"
+    aliases: [GrgGt, St. Gregory, Gregory the Great, St. Gregory the Great, Gregory Dialogist, St. Gregory the Dialogist]
+    context_hint: "often appears in moral and pastoral commentary citations; bare 'St. Gregory' defaults here (Moralia in Job, Homilies on Ezekiel)"
   - canonical: GREGORY_PALAMAS
     aliases: [GrgPal, Gregory Palamas, Gregory of Palamas, St. Gregory Palamas, St. Gregory of Palamas]
     context_hint: "often appears in Marian, hesychast, and theological commentary citations"
@@ -255,6 +255,57 @@ patristic_future:
   - canonical: PHOTINI_SAMARITAN
     aliases: [St. Photini, Photini, Photini the Samaritan Woman, St. Photini the Samaritan]
     context_hint: "often appears in Gospel commentary and saint-identification prose"
+  - canonical: CYRIL_ALEXANDRIA
+    aliases: [CyrAl, Cyril of Alexandria, St. Cyril of Alexandria]
+    context_hint: "often appears in exegetical and christological commentary citations"
+  - canonical: IGNATIUS_ANTIOCH
+    aliases: [IgnAnt, Ignatius, Ignatius of Antioch, St. Ignatius, St. Ignatius of Antioch]
+    context_hint: "often appears in ecclesial and eucharistic citations"
+  - canonical: JOHN_CLIMACUS
+    aliases: [JohnCli, John Climacus, St. John Climacus, John of the Ladder, St. John of the Ladder]
+    context_hint: "often appears in ascetical and monastic citations"
+  - canonical: MARK_ASCETIC
+    aliases: [MkAsc, Mark the Ascetic, St. Mark the Ascetic, Mark the Monk]
+    context_hint: "often appears in ascetical and contemplative citations"
+  - canonical: JUSTIN_MARTYR
+    aliases: [St. Justin, Justin Martyr, St. Justin Martyr, Justin]
+    context_hint: "often appears in apologetic and early church citations"
+  - canonical: ELIAS_PRESBYTER
+    aliases: [ElPres, Elias the Presbyter, Elias Ecdicus]
+    context_hint: "often appears in ascetical and hesychast citations"
+  - canonical: SERAPHIM_SAROV
+    aliases: [SerSar, Seraphim, Seraphim of Sarov, St. Seraphim, St. Seraphim of Sarov]
+    context_hint: "often appears in ascetical and spiritual-life citations"
+  - canonical: MARY_EGYPT
+    aliases: [St. Mary of Egypt, Mary of Egypt]
+    context_hint: "hagiographic reference in repentance-themed commentary"
+  - canonical: LONGINOS
+    aliases: [St. Longinos, Longinos, Longinus, St. Longinus]
+    context_hint: "hagiographic reference in Crucifixion/Passion commentary"
+  - canonical: LUKE_EVANGELIST
+    aliases: [St. Luke, Luke the Evangelist]
+    context_hint: "evangelist/author attribution in Gospel and Acts commentary"
+  - canonical: MARK_EVANGELIST
+    aliases: [St. Mark, Mark the Evangelist]
+    context_hint: "evangelist/author attribution in Gospel commentary"
+  - canonical: HESYCHIUS_JERUSALEM
+    aliases: [St. Hesychius, Hesychius, Hesychius of Jerusalem, St. Hesychius of Jerusalem]
+    context_hint: "often appears in exegetical citations, especially Job commentary"
+  - canonical: MICHAEL_ARCHANGEL
+    aliases: [St. Michael, Michael, Michael the Archangel, Archangel Michael, St. Michael the Archangel]
+    context_hint: "archangel reference in prophetic and apocalyptic commentary"
+  - canonical: POLYCARP_SMYRNA
+    aliases: [St. Polycarp, Polycarp, Polycarp of Smyrna, St. Polycarp of Smyrna]
+    context_hint: "apostolic father reference in early church commentary"
+  - canonical: SYMEON_NEW_THEOLOGIAN
+    aliases: [SymNew, Symeon the New Theologian, St. Symeon the New Theologian, St. Symeon]
+    context_hint: "often appears in mystical and ascetical commentary citations"
+  - canonical: ZACHARIAS_PROPHET
+    aliases: [St. Zacharias, Zacharias, Zechariah the Prophet]
+    context_hint: "prophetic figure reference in OT commentary"
+  - canonical: SEPTUAGINT
+    aliases: [LXX, Septuagint]
+    context_hint: "source text reference, not a patristic entity — resolves false-positive detection"
 apostolic_future:
   - canonical: PAUL_APOSTLE
     aliases: [Paul, St. Paul, Apostle Paul, Paul the Apostle]

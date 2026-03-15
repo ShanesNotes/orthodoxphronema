@@ -87,9 +87,18 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 0,
-      "matched_entities": [],
-      "entity_counts": {},
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 133,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "significant difference between the Masoretic Text and the LXX in v. 16. The former has"
+        }
+      ],
+      "entity_counts": {
+        "SEPTUAGINT": 1
+      },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
       "explicit_citation_snippets": []
@@ -112,9 +121,18 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 0,
-    "matched_entities": [],
-    "entity_counts": {},
+    "matched_entities_count": 1,
+    "matched_entities": [
+      {
+        "line_number": 133,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "significant difference between the Masoretic Text and the LXX in v. 16. The former has"
+      }
+    ],
+    "entity_counts": {
+      "SEPTUAGINT": 1
+    },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],
     "explicit_citation_snippets": []

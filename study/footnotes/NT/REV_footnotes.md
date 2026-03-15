@@ -3084,7 +3084,7 @@ cannot be seen is the hidden essence of God ([[JOH.1:18]]; [[1TI.6:16]]). Normal
 
 His energy is not possible in this life ([[EXO.33:20]]-23; [[MAT.5:8]]; [[JOH.1:18]]; [[1CO.13:12]]; [[HEB.12:14]];
 
-[[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name . . . on their
+[[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name... on their
 
 foreheads, may see Him ceaselessly. In the OT only the high priest bore the unspeakable
 

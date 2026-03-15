@@ -146,7 +146,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 20,
+      "matched_entities_count": 23,
       "matched_entities": [
         {
           "line_number": 38,
@@ -203,6 +203,12 @@
           "context": "beasts and predators, including lions and leopards--which, according to St. Gregory the Dialogist, are symbols of demons. Thus, we serve Christ in a fallen world."
         },
         {
+          "line_number": 434,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "beasts and predators, including lions and leopards--which, according to St. Gregory the Dialogist, are symbols of demons. Thus, we serve Christ in a fallen world."
+        },
+        {
           "line_number": 468,
           "entity": "GREGORY_NYSSA",
           "matched_alias": "St. Gregory of Nyssa",
@@ -215,10 +221,22 @@
           "context": "Holy Spirit in believers. St. Gregory of Nyssa, in urging Christians to seek out godly"
         },
         {
+          "line_number": 468,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "Holy Spirit in believers. St. Gregory of Nyssa, in urging Christians to seek out godly"
+        },
+        {
           "line_number": 502,
           "entity": "ATHANASIUS",
           "matched_alias": "AthanG",
           "context": "unyielding lover the Lord enters only when invited. \"If they open to Him, He enters in, but if they delay and will not, He departs from them\" (AthanG)."
+        },
+        {
+          "line_number": 576,
+          "entity": "SERAPHIM_SAROV",
+          "matched_alias": "Seraphim",
+          "context": "The Bridegroom warns His Bride against trying to somehow see His Divine Essence, for no one shall see Him and live ([[EXO.33:20]]). The angels, even the mighty seraphim, veil"
         },
         {
           "line_number": 591,
@@ -273,9 +291,10 @@
         "AMBROSE_MILAN": 4,
         "ATHANASIUS": 3,
         "CYPRIAN_CARTHAGE": 2,
-        "GREGORY_GREAT": 1,
+        "GREGORY_GREAT": 3,
         "GREGORY_NYSSA": 5,
         "JOSEPH_BETROTHED": 3,
+        "SERAPHIM_SAROV": 1,
         "STEPHEN_PROTOMARTYR": 2
       },
       "unresolved_candidates_count": 0,
@@ -447,7 +466,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 20,
+    "matched_entities_count": 23,
     "matched_entities": [
       {
         "line_number": 38,
@@ -504,6 +523,12 @@
         "context": "beasts and predators, including lions and leopards--which, according to St. Gregory the Dialogist, are symbols of demons. Thus, we serve Christ in a fallen world."
       },
       {
+        "line_number": 434,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "beasts and predators, including lions and leopards--which, according to St. Gregory the Dialogist, are symbols of demons. Thus, we serve Christ in a fallen world."
+      },
+      {
         "line_number": 468,
         "entity": "GREGORY_NYSSA",
         "matched_alias": "St. Gregory of Nyssa",
@@ -516,10 +541,22 @@
         "context": "Holy Spirit in believers. St. Gregory of Nyssa, in urging Christians to seek out godly"
       },
       {
+        "line_number": 468,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "Holy Spirit in believers. St. Gregory of Nyssa, in urging Christians to seek out godly"
+      },
+      {
         "line_number": 502,
         "entity": "ATHANASIUS",
         "matched_alias": "AthanG",
         "context": "unyielding lover the Lord enters only when invited. \"If they open to Him, He enters in, but if they delay and will not, He departs from them\" (AthanG)."
+      },
+      {
+        "line_number": 576,
+        "entity": "SERAPHIM_SAROV",
+        "matched_alias": "Seraphim",
+        "context": "The Bridegroom warns His Bride against trying to somehow see His Divine Essence, for no one shall see Him and live ([[EXO.33:20]]). The angels, even the mighty seraphim, veil"
       },
       {
         "line_number": 591,
@@ -574,9 +611,10 @@
       "AMBROSE_MILAN": 4,
       "ATHANASIUS": 3,
       "CYPRIAN_CARTHAGE": 2,
-      "GREGORY_GREAT": 1,
+      "GREGORY_GREAT": 3,
       "GREGORY_NYSSA": 5,
       "JOSEPH_BETROTHED": 3,
+      "SERAPHIM_SAROV": 1,
       "STEPHEN_PROTOMARTYR": 2
     },
     "unresolved_candidates_count": 0,

@@ -174,11 +174,12 @@ Beyond Damascus points to Assyria as the nation that will conquer and exile
 
 Israel, bringing about the Lord's judgment. This prophecy was fulfilled in 722 BC (4Kg
 
-17:5, 6). 6:1-6 Basil the Great, quoting this passage, comments that it is shameful when we spend
+17:5, 6).
 
-our time running about "searching for anything not demanded by real necessity but
+### 6:1-6
+*(anchor: AMO.6:1)*
 
-calculated to provide a wretched delight and ruinous vainglory."
+Basil the Great, quoting this passage, comments that it is shameful when we spend our time running about "searching for anything not demanded by real necessity but calculated to provide a wretched delight and ruinous vainglory."
 
 6:12
 

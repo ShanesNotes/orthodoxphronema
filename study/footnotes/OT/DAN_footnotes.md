@@ -302,13 +302,7 @@ kingdom and His servants. St. Paul calls such schemes "the wiles [strategies] of
 ### 6:17-25
 *(anchor: DAN.6:17)*
 
-St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn
-
-
-### 11:1
-*(anchor: DAN.11:1)*
-
--45) illustrate Christ in His tomb. "A type of You therefore was Daniel, and also
+St. Ephraim of Syria writes that both the OT Daniel and the NT Lazarus (see Jn 11:1-45) illustrate Christ in His tomb. "A type of You therefore was Daniel, and also
 
 Lazarus; one in the den, which the Gentiles sealed up, and one in the sepulchre, that the
 
@@ -328,7 +322,12 @@ You."
 
 6:19
 
-Note how a pagan king kept vigil and fasted while his friend Daniel was in danger. 6:20-25 Signs are performed by God among unbelieving peoples so that the worship and
+Note how a pagan king kept vigil and fasted while his friend Daniel was in danger.
+
+### 6:20-25
+*(anchor: DAN.6:20)*
+
+Signs are performed by God among unbelieving peoples so that the worship and
 
 word of the one true God may be proclaimed with power, as shown by Darius's new
 
@@ -358,7 +357,12 @@ strength. Note that the four heavenly beasts of St. John's vision far surpass th
 
 temporary, earthly beasts (see [[REV.4:6]], [[REV.4:7]] and note; see also [[EZK.1:5]], [[EZK.1:21]]). Some of the
 
-Fathers say that the ten horns prophesy nations that will rise up in the last days. 7:8 [[DAN.7:8]], [[DAN.7:24]], [[DAN.7:25]]: The little horn is seen to be the antichrist, an eleventh king who shall
+Fathers say that the ten horns prophesy nations that will rise up in the last days.
+
+### 7:8
+*(anchor: DAN.7:8)*
+
+[[DAN.7:8]], [[DAN.7:24]], [[DAN.7:25]]: The little horn is seen to be the antichrist, an eleventh king who shall
 
 appear suddenly in the midst of the ten horns, seizing power through magic and sorcery. He will exalt himself as God and make war on the Church (v. 11). But Christ will deliver
 
@@ -388,7 +392,12 @@ rule of the Medes and Persians (v. 20), which ended with the death of Belshazzar
 
 538. The male goat (v. 5) represents the conquests of the Greeks (v. 21) up until the
 
-time of the Romans, about 64 BC. 8:5-14 When Alexander's rule was broken (v. 8) when he was only 33, his four generals
+time of the Romans, about 64 BC.
+
+### 8:5-14
+*(anchor: DAN.8:5)*
+
+When Alexander's rule was broken (v. 8) when he was only 33, his four generals
 
 divided up his empire among themselves: Ptolemy I in Egypt; Seleucus I in Asia; Lysimachus in Asia Minor; and Cassander in Macedonia. The strong horn (v. 9) is seen
 
@@ -428,7 +437,12 @@ This is as clear in defining sin as any passage in the Scriptures. St. Paul offe
 
 summary of Daniel's words: "All have sinned and fall short of the glory of God" (Rom
 
-3:23). 9:24-27 The Epistle of Barnabas (ch. 16) observes that this passage was fulfilled when the
+3:23).
+
+### 9:24-27
+*(anchor: DAN.9:24)*
+
+The Epistle of Barnabas (ch. 16) observes that this passage was fulfilled when the
 
 temple (the sanctuary, v. 26) was destroyed by the Romans in AD 70. But Barnabas also
 
@@ -472,7 +486,12 @@ comes, the sacrifice and oblation will be removed, which now are offered to God 
 
 place by the nations" (see [[MAT.24:15]] and note). 10:1
 
-The third year of Cyrus was 533 BC. 10:2-3 Daniel's season of fasting and mourning is echoed by the faithful during the time
+The third year of Cyrus was 533 BC.
+
+### 10:2-3
+*(anchor: DAN.10:2)*
+
+Daniel's season of fasting and mourning is echoed by the faithful during the time
 
 of Great Lent, a season of "bright sadness."
 
@@ -670,7 +689,12 @@ declared Himself to be the God of the fathers, He is the God of the living. For 
 
 God of the living unless He who is God, and above whom there is no other God?" (Iren). 1:1
 
-Cyrus began his reign in Persia in 538 BC. 1:3 Historians describe Bel as chief among the Babylonian gods. 1:5
+Cyrus began his reign in Persia in 538 BC.
+
+### 1:3
+*(anchor: DAN.1:3)*
+
+Historians describe Bel as chief among the Babylonian gods. 1:5
 
 "He said that what we are able to speak and to answer is given to us in that hour from
 
@@ -680,7 +704,12 @@ Father, who, as He does not depart nor is separated from those who confess Him, 
 
 both speaks and is crowned in us. So Daniel, too, when he was required to worship the
 
-idol Bel, which the people and the king then worshiped, in asserting the honor of his God, broke forth with full faith and freedom, saying, 'I worship nothing but the Lord my God, who created the heaven and the earth'" (Cyp). 1:7 Daniel smiled: It is indeed very humorous that a king or anyone could believe an idol
+idol Bel, which the people and the king then worshiped, in asserting the honor of his God, broke forth with full faith and freedom, saying, 'I worship nothing but the Lord my God, who created the heaven and the earth'" (Cyp).
+
+### 1:7
+*(anchor: DAN.1:7)*
+
+Daniel smiled: It is indeed very humorous that a king or anyone could believe an idol
 
 of clay and bronze could eat (see also v. 19). 1:10-21
 

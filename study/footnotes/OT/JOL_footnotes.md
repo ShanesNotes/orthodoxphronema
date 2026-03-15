@@ -263,11 +263,12 @@ place of life through the death of the sacrificial animal, the porch was also a 
 
 dying who sought life. The priests, by placing themselves between the porch and the altar, were to mediate this life to the people. Because of the sacrifice of Christ, the porch and
 
-altar have been united. Christ's death brings life to us. 2:17-18 These two verses form the center of the book. The passage summarizes all that has
+altar have been united. Christ's death brings life to us.
 
-been written so far and introduces the rest of the book, which presents God's promises
+### 2:17-18
+*(anchor: JOL.2:17)*
 
-and explores the eschatological hope of Israel. 
+These two verses form the center of the book. The passage summarizes all that has been written so far and introduces the rest of the book, which presents God's promises and explores the eschatological hope of Israel.
 
 ### 2:20
 *(anchor: JOL.2:20)*
@@ -300,11 +301,12 @@ groups.
 
 The prophet now turns his gaze towards the final rest of the people of God, prophesying the coming of Christ and the descent of the Holy Spirit. These eleven verses
 
-are fulfilled ultimately in Christ, the sacramental life of the Church, and Pentecost. 2:22-24 The trees bear their fruit: In this verse Joel foreshadows the cross of Christ, the tree which bore the greatest fruit of all. The vine and the fig tree refer to the
+are fulfilled ultimately in Christ, the sacramental life of the Church, and Pentecost.
 
-establishment of the Church (see [[ROM.11:17]]-24; [[JOH.15:1]]; [[LUK.13:6]]-9). Rain, wheat, wine, and oil refer to the food that is right for you, namely the sacraments of Holy
+### 2:22-24
+*(anchor: JOL.2:22)*
 
-Baptism, the Eucharist, and the sealing of the Holy Spirit. 
+The trees bear their fruit: In this verse Joel foreshadows the cross of Christ, the tree which bore the greatest fruit of all. The vine and the fig tree refer to the establishment of the Church (see [[ROM.11:17]]-24; [[JOH.15:1]]; [[LUK.13:6]]-9). Rain, wheat, wine, and oil refer to the food that is right for you, namely the sacraments of Holy Baptism, the Eucharist, and the sealing of the Holy Spirit.
 
 ### 3:1
 *(anchor: JOL.3:1)*
@@ -324,7 +326,10 @@ There shall be proclamation of the good news: The Greek can also be translated
 
 "and there shall be heralds of the gospel," suggesting a prophecy of the missions of the
 
-Twelve and the Seventy Apostles, all of whom were appointed by Christ. 4:1
+Twelve and the Seventy Apostles, all of whom were appointed by Christ.
+
+### 4:1
+*(anchor: JOL.4:1)*
 
 In this chapter Joel deplores the mistreatment of Israel and prophesies the coming
 
@@ -338,7 +343,12 @@ be spiritually restored and become the source of life for the rest of the nation
 
 of Judah and Jerusalem: This prophecy refers to the restoration of Judah from the
 
-exile in Babylon. The Hebrew version does not mention the exile. 4:2 The judgment of all nations can be understood in one or more of three different ways. It may, on the one hand, refer to the attempted siege of Jerusalem during the building of
+exile in Babylon. The Hebrew version does not mention the exile.
+
+### 4:2
+*(anchor: JOL.4:2)*
+
+The judgment of all nations can be understood in one or more of three different ways. It may, on the one hand, refer to the attempted siege of Jerusalem during the building of
 
 the wall (see 2Ez 4). There is a strong case for this interpretation because of the earlier
 
@@ -382,11 +392,15 @@ is typically an image of the massacre of enemies, Joel emphasizes the moral aspe
 
 the image. The runoff of the grapes is not simply blood, but the result of the abundance of
 
-evil in the nations (see [[REV.14:17]]-20). 4:16-17 The language used by Joel is reminiscent of descriptions of the last days found in
+evil in the nations (see [[REV.14:17]]-20).
 
-the New Testament. In the final judgment the Lord shouts out ([[1TH.4:16]]) and establishes
+### 4:16-17
+*(anchor: JOL.4:16)*
 
-an incorruptible Jerusalem ([[REV.21:9]]-27). 4:19
+The language used by Joel is reminiscent of descriptions of the last days found in the New Testament. In the final judgment the Lord shouts out ([[1TH.4:16]]) and establishes an incorruptible Jerusalem ([[REV.21:9]]-27).
+
+### 4:19
+*(anchor: JOL.4:19)*
 
 In previous verses, God deals with the Mesopotamian army. Here He promises to
 

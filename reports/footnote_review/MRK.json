@@ -2,7 +2,7 @@
   "book_code": "MRK",
   "position": 51,
   "testament": "NT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/MRK_footnotes.md",
@@ -11,7 +11,7 @@
     "structural_clean": true,
     "marker_alignment_pass": true,
     "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
@@ -72,7 +72,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 9,
+      "matched_entities_count": 12,
       "matched_entities": [
         {
           "line_number": 15,
@@ -91,6 +91,12 @@
           "entity": "JOHN_FORERUNNER",
           "matched_alias": "John the Baptist",
           "context": "that he fulfills the prophecy of Elijah's return (see article \"John the Baptist\")."
+        },
+        {
+          "line_number": 133,
+          "entity": "MARK_ASCETIC",
+          "matched_alias": "MkAsc",
+          "context": "know will be revealed to you\" (MkAsc). See also note at [[MAT.7:2]]."
         },
         {
           "line_number": 225,
@@ -127,28 +133,36 @@
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "Chrysostom",
           "context": "John Chrysostom teaches that this is not to be understood literally, but as a figure of"
+        },
+        {
+          "line_number": 735,
+          "entity": "LONGINOS",
+          "matched_alias": "St. Longinos",
+          "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+        },
+        {
+          "line_number": 735,
+          "entity": "LONGINOS",
+          "matched_alias": "Longinos",
+          "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
         }
       ],
       "entity_counts": {
         "ELIJAH_PROPHET": 4,
         "JOHN_CHRYSOSTOM": 1,
         "JOHN_FORERUNNER": 2,
-        "JOHN_THEOLOGIAN": 2
+        "JOHN_THEOLOGIAN": 2,
+        "LONGINOS": 2,
+        "MARK_ASCETIC": 1
       },
-      "unresolved_candidates_count": 2,
-      "unresolved_candidates": [
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
         {
           "line_number": 133,
-          "token": "MkAsc",
-          "context": "know will be revealed to you\" (MkAsc). See also note at [[MAT.7:2]]."
-        },
-        {
-          "line_number": 735,
-          "token": "St. Longinos",
-          "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+          "snippet": "MkAsc"
         }
-      ],
-      "explicit_citation_snippets": []
+      ]
     },
     "apostolic": {
       "matched_entities_count": 7,
@@ -215,7 +229,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 9,
+    "matched_entities_count": 12,
     "matched_entities": [
       {
         "line_number": 15,
@@ -234,6 +248,12 @@
         "entity": "JOHN_FORERUNNER",
         "matched_alias": "John the Baptist",
         "context": "that he fulfills the prophecy of Elijah's return (see article \"John the Baptist\")."
+      },
+      {
+        "line_number": 133,
+        "entity": "MARK_ASCETIC",
+        "matched_alias": "MkAsc",
+        "context": "know will be revealed to you\" (MkAsc). See also note at [[MAT.7:2]]."
       },
       {
         "line_number": 225,
@@ -270,27 +290,35 @@
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "Chrysostom",
         "context": "John Chrysostom teaches that this is not to be understood literally, but as a figure of"
+      },
+      {
+        "line_number": 735,
+        "entity": "LONGINOS",
+        "matched_alias": "St. Longinos",
+        "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+      },
+      {
+        "line_number": 735,
+        "entity": "LONGINOS",
+        "matched_alias": "Longinos",
+        "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
       }
     ],
     "entity_counts": {
       "ELIJAH_PROPHET": 4,
       "JOHN_CHRYSOSTOM": 1,
       "JOHN_FORERUNNER": 2,
-      "JOHN_THEOLOGIAN": 2
+      "JOHN_THEOLOGIAN": 2,
+      "LONGINOS": 2,
+      "MARK_ASCETIC": 1
     },
-    "unresolved_candidates_count": 2,
-    "unresolved_candidates": [
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
       {
         "line_number": 133,
-        "token": "MkAsc",
-        "context": "know will be revealed to you\" (MkAsc). See also note at [[MAT.7:2]]."
-      },
-      {
-        "line_number": 735,
-        "token": "St. Longinos",
-        "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+        "snippet": "MkAsc"
       }
-    ],
-    "explicit_citation_snippets": []
+    ]
   }
 }

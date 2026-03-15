@@ -8,10 +8,10 @@
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/JOB_footnotes.md",
   "component_status": {
     "mechanical_clean": true,
-    "structural_clean": false,
+    "structural_clean": true,
     "marker_alignment_pass": false,
     "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
@@ -22,7 +22,7 @@
       "auto_fixable": 0,
       "review_needed": 263,
       "files_checked": 1,
-      "lines_checked": 466,
+      "lines_checked": 511,
       "lines_fixed": 0
     },
     "by_category": {
@@ -31,109 +31,8 @@
     }
   },
   "structure": {
-    "issue_count": 20,
-    "findings": [
-      {
-        "type": "midline_reference_spill",
-        "line_number": 141,
-        "raw_text": "of reviling against their very adversaries\" (GrgGt). 2:16-18 Job's three friends came to comfort him, but the contrary took place, because"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 143,
-        "raw_text": "they imagined they understood the reason he suffered such things. 3:1-3 Job cursed his day of birth, but as a pious man he never said he could not endure"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 177,
-        "raw_text": "reverence\" over their preaching. 5:1-27 St. Gregory remarks that Eliphaz' words would have been true, had they not been"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 193,
-        "raw_text": "Eliphaz who had lied about the holy words of... God. 6:11-13 \"The strength of the righteous is to subdue the flesh, to love the hardships of this"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 217,
-        "raw_text": "Resurrection in the morning ([[PSA.5:3]]) brought a new covenant of life and hope. 8:1-4 How long? The unjust cannot bear the edifying words of the righteous, but speak"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 219,
-        "raw_text": "even well-known truths boldly and with big words so they will appear learned. 8:11-13 Bildad's images, which rightly describe all who forget the Lord, are wasted on"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 237,
-        "raw_text": "on firm ground ([[JOH.6:19]]). 9:9-13 St. Hesychius sees v. 9 as denoting all of God's great works, and compares v. 10 to"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 251,
-        "raw_text": "5:8). 10:8-12 St. Ambrose writes that Job, knowing no one is immune from falling, rejects what"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 307,
-        "raw_text": "God reveals His mysteries to the ones He has found to be holy (Hesych). 13:17-28 Job's is the voice of mankind, \"eagerly desiring to advance from fear to love.... He seeks the very presence of his Creator, familiarly, in the flesh,\" that he might both"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 315,
-        "raw_text": "(GrgGt). 14:7-11 Christ was cut down in His death, but would sprout again in His Resurrection"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 351,
-        "raw_text": "). 16:17 Compare this verse to [[1PE.2:22]] and [[LUK.23:24]]. 16:18"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 361,
-        "raw_text": "commentary in [[1CO.2:7]], [[1CO.2:8]] on those who crucified Christ. 18:1-21 St. Gregory sees Bildad's words as being unwittingly directed against the devil. 19:5"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 367,
-        "raw_text": "smitten, who had not served like him?\" (GrgGt). 19:7-19 The Fathers note clear parallels between this passage and Christ's Passion (see Mt"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 373,
-        "raw_text": "; [[JOH.18:23]]; [[MAT.27:26]], [[MAT.27:27]], [[MAT.27:29]]; Is 53:2, 3). 19:23-27 \"No one since the days of Christ speaks so openly concerning the Resurrection as"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 375,
-        "raw_text": "he did before Christ\" (Jerome). 20:1-3 Zophar's so-called superior understanding blinded him to the truth. 20:12-14"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 397,
-        "raw_text": "to forget his Creator\" (AmbM). 21:23-26 Riches should not lift up the soul, nor should poverty disturb it. 21:29"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 401,
-        "raw_text": "to come are unable to comprehend those who do. 22:1-30 Eliphaz went from a dead heart to idle words, and from idle words to the sin of"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 415,
-        "raw_text": "afflicted in the first place (1:12). 23:1-3 In the midst of affliction, the righteous know God by faith, but long all the more to"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 429,
-        "raw_text": "Christ and His Church, to whom the afflicted ones flee. 24:14-16 \"Everyone who avoids the light loves darkness, seeking to be hidden, though he"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 968,
-        "raw_text": "(GrgGt). 42:7-9 Job images Christ as suffering servant, High Priest, and Intercessor on behalf of"
-      }
-    ],
+    "issue_count": 0,
+    "findings": [],
     "truncated": false
   },
   "footnote_verification": {
@@ -273,9 +172,15 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 99,
+      "matched_entities_count": 150,
       "matched_entities": [
         {
+          "line_number": 15,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "Job was originally called Jobab (42:19). Thanks to the LXX text he is no longer the"
+        },
+        {
           "line_number": 23,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "St. John Chrysostom",
@@ -292,6 +197,12 @@
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
           "context": "unbeliever was his forefather. St. John Chrysostom, quoting [[ECC.7:21]], notes that the text"
+        },
+        {
+          "line_number": 34,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "with a nature similar to the angels of God. However, writes St. Gregory, \"He was in the"
         },
         {
           "line_number": 38,
@@ -328,6 +239,24 @@
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
           "context": "St. John Chrysostom remarks that Satan's will is his own, but he derives his power"
+        },
+        {
+          "line_number": 74,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory compares the elder brother to the Jews, and the rest of Job's sons and"
+        },
+        {
+          "line_number": 83,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "St. Hesychius",
+          "context": "Job did these acts, according to St. Hesychius, less as a sign of mourning than to get"
+        },
+        {
+          "line_number": 83,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "Hesychius",
+          "context": "Job did these acts, according to St. Hesychius, less as a sign of mourning than to get"
         },
         {
           "line_number": 103,
@@ -336,6 +265,36 @@
           "context": "meanness\" (JohnChr). 2:2"
         },
         {
+          "line_number": 105,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory comments that since the devil has already been defeated, the Lord is"
+        },
+        {
+          "line_number": 107,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "St. Hesychius",
+          "context": "chiding him for the impotence of his pride. St. Hesychius teaches that the devil cannot"
+        },
+        {
+          "line_number": 107,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "Hesychius",
+          "context": "chiding him for the impotence of his pride. St. Hesychius teaches that the devil cannot"
+        },
+        {
+          "line_number": 115,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory remarks that from the beginning, Satan has been working to destroy the"
+        },
+        {
+          "line_number": 123,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "flesh, on account of sin: He condemned sin in the flesh\" ([[ROM.8:3]]). \"With a shard, therefore, the pus is scraped, when sin is defeated by the flesh.\" St. Gregory also notes"
+        },
+        {
           "line_number": 131,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "St. John Chrysostom",
@@ -351,523 +310,469 @@
           "line_number": 131,
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
+          "context": "St. Hesychius teaches that Satan \"recruited\" Job's wife, as he had done with Eve. St. John Chrysostom asks, \"What are you saying, woman? When God needs to be... propitiated, you are, rather, preparing to provoke Him! For if it is God who ha"
+        },
+        {
+          "line_number": 131,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "St. Hesychius",
+          "context": "St. Hesychius teaches that Satan \"recruited\" Job's wife, as he had done with Eve. St. John Chrysostom asks, \"What are you saying, woman? When God needs to be... propitiated, you are, rather, preparing to provoke Him! For if it is God who ha"
+        },
+        {
+          "line_number": 131,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "Hesychius",
           "context": "St. Hesychius teaches that Satan \"recruited\" Job's wife, as he had done with Eve. St. John Chrysostom asks, \"What are you saying, woman? When God needs to be... propitiated, you are, rather, preparing to provoke Him! For if it is God who ha"
         },
         {
           "line_number": 141,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
-          "context": "of reviling against their very adversaries\" (GrgGt). 2:16-18 Job's three friends came to comfort him, but the contrary took place, because"
+          "context": "of reviling against their very adversaries\" (GrgGt)."
         },
         {
-          "line_number": 151,
+          "line_number": 161,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "troublesome is its exile here, where it lies wounded and cast out\" (GrgGt). 3:21"
         },
         {
-          "line_number": 185,
+          "line_number": 163,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory writes that those who seek to die to themselves are like those who dig for"
+        },
+        {
+          "line_number": 183,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory comments that Job's friends typify teachers of false doctrines, who"
+        },
+        {
+          "line_number": 192,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory remarks that Eliphaz' words would have been true, had they not been"
+        },
+        {
+          "line_number": 200,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "Him both justice and lovingkindness together\" (GrgGt). 6:5-7"
         },
         {
-          "line_number": 195,
+          "line_number": 215,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "world for the sake of eternal rewards, to count the allurements of prosperity as nothing, and to overcome the dread of adversity in our heart\" (GrgGt). 6:18"
         },
         {
-          "line_number": 205,
+          "line_number": 225,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "righteously is sin\" (GrgGt). 7:11"
         },
         {
+          "line_number": 227,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory remarks that we are to approach confession with Job's frame of mind. 7:12"
+        },
+        {
           "line_number": 229,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "St. Hesychius",
+          "context": "St. Hesychius comments that a guard refers to the enemy, who is allowed to afflict"
+        },
+        {
+          "line_number": 229,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "Hesychius",
+          "context": "St. Hesychius comments that a guard refers to the enemy, who is allowed to afflict"
+        },
+        {
+          "line_number": 251,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "Job. In speaking of those who have forgotten God, St. Gregory writes that while they"
+        },
+        {
+          "line_number": 259,
           "entity": "AMBROSE_MILAN",
           "matched_alias": "St. Ambrose",
           "context": "St. Ambrose sees in the mountains a type of the Old Testament and the Prophets. \"The Jew grew old; grace was renewed.\" Christ \"overturned\" the understanding of the Law"
         },
         {
-          "line_number": 229,
+          "line_number": 259,
           "entity": "AMBROSE_MILAN",
           "matched_alias": "Ambrose",
           "context": "St. Ambrose sees in the mountains a type of the Old Testament and the Prophets. \"The Jew grew old; grace was renewed.\" Christ \"overturned\" the understanding of the Law"
         },
         {
-          "line_number": 233,
+          "line_number": 263,
           "entity": "GREGORY_GREAT",
           "matched_alias": "St. Gregory the Great",
           "context": "St. Gregory the Great sees in heaven a type of the preaching of the apostles and"
         },
         {
-          "line_number": 233,
+          "line_number": 263,
           "entity": "GREGORY_GREAT",
           "matched_alias": "Gregory the Great",
           "context": "St. Gregory the Great sees in heaven a type of the preaching of the apostles and"
         },
         {
-          "line_number": 235,
+          "line_number": 263,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory the Great sees in heaven a type of the preaching of the apostles and"
+        },
+        {
+          "line_number": 265,
           "entity": "CYRIL_JERUSALEM",
           "matched_alias": "St. Cyril",
           "context": "evangelists. St. Cyril notes that this is the same Lord who, as Man, walked on the sea as"
         },
         {
-          "line_number": 245,
+          "line_number": 272,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "St. Hesychius",
+          "context": "St. Hesychius sees v. 9 as denoting all of God's great works, and compares v. 10 to"
+        },
+        {
+          "line_number": 272,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "Hesychius",
+          "context": "St. Hesychius sees v. 9 as denoting all of God's great works, and compares v. 10 to"
+        },
+        {
+          "line_number": 280,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "by humility (GrgGt). 10:1-3"
         },
         {
-          "line_number": 251,
+          "line_number": 291,
           "entity": "AMBROSE_MILAN",
           "matched_alias": "St. Ambrose",
-          "context": "5:8). 10:8-12 St. Ambrose writes that Job, knowing no one is immune from falling, rejects what"
+          "context": "St. Ambrose writes that Job, knowing no one is immune from falling, rejects what"
         },
         {
-          "line_number": 251,
+          "line_number": 291,
           "entity": "AMBROSE_MILAN",
           "matched_alias": "Ambrose",
-          "context": "5:8). 10:8-12 St. Ambrose writes that Job, knowing no one is immune from falling, rejects what"
+          "context": "St. Ambrose writes that Job, knowing no one is immune from falling, rejects what"
         },
         {
-          "line_number": 259,
+          "line_number": 299,
           "entity": "CYRIL_JERUSALEM",
           "matched_alias": "St. Cyril",
           "context": "From his conception, man is shaped by God. St. Cyril writes, \"None of the"
         },
         {
-          "line_number": 295,
+          "line_number": 307,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "St. Hesychius",
+          "context": "The righteous ask that their trials might be over, says St. Hesychius, so that many"
+        },
+        {
+          "line_number": 307,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "Hesychius",
+          "context": "The righteous ask that their trials might be over, says St. Hesychius, so that many"
+        },
+        {
+          "line_number": 311,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "St. Hesychius",
+          "context": "St. Hesychius writes that this land refers to hell: \"Man should fear going into"
+        },
+        {
+          "line_number": 311,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "Hesychius",
+          "context": "St. Hesychius writes that this land refers to hell: \"Man should fear going into"
+        },
+        {
+          "line_number": 313,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "these places.\" St. Gregory remarks, \"But what advantage is it for us to foreknow these"
+        },
+        {
+          "line_number": 335,
           "entity": "GREGORY_GREAT",
           "matched_alias": "St. Gregory the Great",
           "context": "St. Gregory the Great interprets water to mean the grace of the Holy Spirit. \"If the"
         },
         {
-          "line_number": 295,
+          "line_number": 335,
           "entity": "GREGORY_GREAT",
           "matched_alias": "Gregory the Great",
           "context": "St. Gregory the Great interprets water to mean the grace of the Holy Spirit. \"If the"
         },
         {
-          "line_number": 305,
+          "line_number": 335,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory the Great interprets water to mean the grace of the Holy Spirit. \"If the"
+        },
+        {
+          "line_number": 345,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "death; but Christ brought light to the shadows (GrgGt). 13:1"
         },
         {
-          "line_number": 309,
+          "line_number": 354,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "hear and be heard (GrgGt). 14:5"
         },
         {
-          "line_number": 315,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "(GrgGt). 14:7-11 Christ was cut down in His death, but would sprout again in His Resurrection"
-        },
-        {
-          "line_number": 319,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "Resurrection grew out far and wide\" (GrgGt). 14:14"
-        },
-        {
-          "line_number": 327,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "(GrgGt). 14:17"
-        },
-        {
-          "line_number": 333,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "the publicity of the Judgment\" (GrgGt). 15:1-6"
-        },
-        {
-          "line_number": 337,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "likeness of heretics\" (GrgGt). 15:20"
-        },
-        {
-          "line_number": 343,
-          "entity": "AMBROSE_MILAN",
-          "matched_alias": "AmbM",
-          "context": "temptations and attain to the crown of a greater glory\" (AmbM). 16:8"
-        },
-        {
-          "line_number": 357,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "world (GrgGt). 17:4"
-        },
-        {
-          "line_number": 367,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "smitten, who had not served like him?\" (GrgGt). 19:7-19 The Fathers note clear parallels between this passage and Christ's Passion (see Mt"
-        },
-        {
-          "line_number": 375,
-          "entity": "JEROME",
-          "matched_alias": "Jerome",
-          "context": "he did before Christ\" (Jerome). 20:1-3 Zophar's so-called superior understanding blinded him to the truth. 20:12-14"
-        },
-        {
-          "line_number": 397,
-          "entity": "AMBROSE_MILAN",
-          "matched_alias": "AmbM",
-          "context": "to forget his Creator\" (AmbM). 21:23-26 Riches should not lift up the soul, nor should poverty disturb it. 21:29"
-        },
-        {
-          "line_number": 405,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "(GrgGt). 22:2"
-        },
-        {
-          "line_number": 411,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "(GrgGt). 22:23"
-        },
-        {
-          "line_number": 417,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "see His form. Christ will take the form of fallen men and fulfill Job's desires (GrgGt). 23:12"
-        },
-        {
-          "line_number": 421,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "We are wrapped up within the divisions of time, since we are created beings. But God, Creator of all things, encompasses our times by His eternity (GrgGt). 24:2-6"
-        },
-        {
-          "line_number": 425,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "way of salvation (GrgGt). 24:8"
-        },
-        {
-          "line_number": 427,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "\"The showers of the mountains are the words of the learned\" (GrgGt). The rock is"
-        },
-        {
-          "line_number": 431,
-          "entity": "AMBROSE_MILAN",
-          "matched_alias": "AmbM",
-          "context": "cannot be hidden from God\" (AmbM). 25:4"
-        },
-        {
-          "line_number": 435,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "(GrgGt). 26:1, 2 Is it possible for a man to help God? St. Gregory gives a qualified \"yes.\" Relating"
-        },
-        {
-          "line_number": 445,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "encounter the loud and dreadful advent of His Majesty?\" (GrgGt; see [[PSA.49:3]]). 27:3"
-        },
-        {
-          "line_number": 451,
-          "entity": "AMBROSE_MILAN",
-          "matched_alias": "AmbM",
-          "context": "(AmbM). 27:6"
-        },
-        {
-          "line_number": 461,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "falls to the ground in bad thinking\" (GrgGt). 27:12"
-        },
-        {
-          "line_number": 470,
-          "entity": "JOHN_CHRYSOSTOM",
-          "matched_alias": "JohnChr",
-          "context": "Himself is invisible\" (JohnChr)."
-        },
-        {
-          "line_number": 495,
-          "entity": "CYRIL_JERUSALEM",
-          "matched_alias": "St. Cyril",
-          "context": "St. Cyril notes that it is not only the natural father who is called father (see 1Co"
-        },
-        {
-          "line_number": 505,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "converting, she carried off Saul himself, the spoiler!\" (GrgGt; see [[ACT.9:1]]-12)."
-        },
-        {
-          "line_number": 580,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "wicked, and never envy their passing happiness\" (GrgGt)."
-        },
-        {
-          "line_number": 589,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "particular case as it emerges\" (GrgGt)."
-        },
-        {
-          "line_number": 596,
-          "entity": "JOHN_CHRYSOSTOM",
-          "matched_alias": "JohnChr",
-          "context": "without distinction, even if it is perilous, very costly, or risky\" (JohnChr)."
-        },
-        {
-          "line_number": 601,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "St. Gregory the Great",
-          "context": "St. Gregory the Great comments that the righteous have not rejoiced in great"
-        },
-        {
-          "line_number": 601,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "Gregory the Great",
-          "context": "St. Gregory the Great comments that the righteous have not rejoiced in great"
-        },
-        {
-          "line_number": 625,
-          "entity": "JOHN_CHRYSOSTOM",
-          "matched_alias": "St. John Chrysostom",
-          "context": "Where St. Gregory sees in Elihu few admirable qualities, St. John Chrysostom gives"
-        },
-        {
-          "line_number": 625,
-          "entity": "JOHN_CHRYSOSTOM",
-          "matched_alias": "Chrysostom",
-          "context": "Where St. Gregory sees in Elihu few admirable qualities, St. John Chrysostom gives"
-        },
-        {
-          "line_number": 625,
-          "entity": "JOHN_THEOLOGIAN",
-          "matched_alias": "St. John",
-          "context": "Where St. Gregory sees in Elihu few admirable qualities, St. John Chrysostom gives"
-        },
-        {
-          "line_number": 634,
-          "entity": "AMBROSE_MILAN",
-          "matched_alias": "St. Ambrose",
-          "context": "St. Ambrose writes that this verse shows the divine Spirit \"to be both divine and"
-        },
-        {
-          "line_number": 634,
-          "entity": "AMBROSE_MILAN",
-          "matched_alias": "Ambrose",
-          "context": "St. Ambrose writes that this verse shows the divine Spirit \"to be both divine and"
-        },
-        {
-          "line_number": 668,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "(2:3), and blessing him doubly afterwards (GrgGt)."
-        },
-        {
-          "line_number": 675,
-          "entity": "JOHN_CHRYSOSTOM",
-          "matched_alias": "JohnChr",
-          "context": "on them\" (JohnChr; see [[HAB.1:13]])."
-        },
-        {
-          "line_number": 701,
-          "entity": "JOHN_CHRYSOSTOM",
-          "matched_alias": "JohnChr",
-          "context": "(JohnChr)."
-        },
-        {
-          "line_number": 710,
-          "entity": "GREGORY_THEOLOGIAN",
-          "matched_alias": "GrgNa",
-          "context": "(GrgNa)."
-        },
-        {
-          "line_number": 717,
-          "entity": "JOHN_CHRYSOSTOM",
-          "matched_alias": "JohnChr",
-          "context": "if He had brought His throne near to him (JohnChr). Had Job been about to die, the Lord"
-        },
-        {
-          "line_number": 721,
+          "line_number": 360,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "(GrgGt)."
         },
         {
-          "line_number": 726,
-          "entity": "JOHN_CHRYSOSTOM",
-          "matched_alias": "JohnChr",
-          "context": "This verse was intended to restore and encourage a discouraged Job (JohnChr)."
-        },
-        {
-          "line_number": 737,
-          "entity": "BASIL_GREAT",
-          "matched_alias": "BasilG",
-          "context": "(BasilG)."
-        },
-        {
-          "line_number": 744,
-          "entity": "JOHN_CHRYSOSTOM",
-          "matched_alias": "JohnChr",
-          "context": "'gathered together into one place'\" (JohnChr; see [[GEN.1:9]])."
-        },
-        {
-          "line_number": 772,
-          "entity": "AMBROSE_MILAN",
-          "matched_alias": "St. Ambrose",
-          "context": "St. Ambrose quotes this verse in speaking of Christ the High Priest's woven bridal"
-        },
-        {
-          "line_number": 772,
-          "entity": "AMBROSE_MILAN",
-          "matched_alias": "Ambrose",
-          "context": "St. Ambrose quotes this verse in speaking of Christ the High Priest's woven bridal"
-        },
-        {
-          "line_number": 783,
+          "line_number": 369,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
-          "context": "denotes the Gentiles (GrgGt)."
+          "context": "Resurrection grew out far and wide\" (GrgGt). 14:14"
         },
         {
-          "line_number": 788,
-          "entity": "AMBROSE_MILAN",
-          "matched_alias": "St. Ambrose",
-          "context": "St. Gregory the Great and St. Ambrose see in the begetting of young by the wild"
-        },
-        {
-          "line_number": 788,
-          "entity": "AMBROSE_MILAN",
-          "matched_alias": "Ambrose",
-          "context": "St. Gregory the Great and St. Ambrose see in the begetting of young by the wild"
-        },
-        {
-          "line_number": 788,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "St. Gregory the Great",
-          "context": "St. Gregory the Great and St. Ambrose see in the begetting of young by the wild"
-        },
-        {
-          "line_number": 788,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "Gregory the Great",
-          "context": "St. Gregory the Great and St. Ambrose see in the begetting of young by the wild"
-        },
-        {
-          "line_number": 834,
-          "entity": "JOHN_CASSIAN",
-          "matched_alias": "JohnCas",
-          "context": "(JohnCas)."
-        },
-        {
-          "line_number": 839,
-          "entity": "JOHN_THEOLOGIAN",
-          "matched_alias": "St. John",
-          "context": "The Lord at last tells Job why he has suffered. \"This is the balm for Job's wounds. This is the crown of the contest. This is the reward for his patience\" (GrgNa). St. John"
-        },
-        {
-          "line_number": 839,
-          "entity": "GREGORY_THEOLOGIAN",
-          "matched_alias": "GrgNa",
-          "context": "The Lord at last tells Job why he has suffered. \"This is the balm for Job's wounds. This is the crown of the contest. This is the reward for his patience\" (GrgNa). St. John"
-        },
-        {
-          "line_number": 841,
-          "entity": "JOHN_CHRYSOSTOM",
-          "matched_alias": "Chrysostom",
-          "context": "Chrysostom writes that all that has gone before is now justified. Indeed, Job's remaining"
-        },
-        {
-          "line_number": 877,
+          "line_number": 377,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
-          "context": "of His Godhead pierced him through\" (GrgGt)."
+          "context": "(GrgGt). 14:17"
         },
         {
-          "line_number": 913,
+          "line_number": 383,
           "entity": "GREGORY_GREAT",
-          "matched_alias": "St. Gregory the Great",
-          "context": "antagonist, pierced his impenetrable armor. St. Gregory the Great writes that the doors"
+          "matched_alias": "GrgGt",
+          "context": "the publicity of the Judgment\" (GrgGt). 15:1-6"
         },
         {
-          "line_number": 913,
+          "line_number": 387,
           "entity": "GREGORY_GREAT",
-          "matched_alias": "Gregory the Great",
-          "context": "antagonist, pierced his impenetrable armor. St. Gregory the Great writes that the doors"
+          "matched_alias": "GrgGt",
+          "context": "likeness of heretics\" (GrgGt). 15:20"
         },
         {
-          "line_number": 932,
+          "line_number": 393,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "temptations and attain to the crown of a greater glory\" (AmbM). 16:8"
+        },
+        {
+          "line_number": 395,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "St. Hesychius",
+          "context": "St. Hesychius compares this verse to Christ's betrayal at Judas's hands ([[JOH.13:21]]; Mt"
+        },
+        {
+          "line_number": 395,
+          "entity": "HESYCHIUS_JERUSALEM",
+          "matched_alias": "Hesychius",
+          "context": "St. Hesychius compares this verse to Christ's betrayal at Judas's hands ([[JOH.13:21]]; Mt"
+        },
+        {
+          "line_number": 415,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "world (GrgGt)."
+        },
+        {
+          "line_number": 427,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory sees Bildad's words as being unwittingly directed against the devil."
+        },
+        {
+          "line_number": 436,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "smitten, who had not served like him?\" (GrgGt)."
+        },
+        {
+          "line_number": 454,
+          "entity": "JEROME",
+          "matched_alias": "Jerome",
+          "context": "he did before Christ\" (Jerome)."
+        },
+        {
+          "line_number": 464,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory comments that the hypocrite hides his evil intentions behind soft"
+        },
+        {
+          "line_number": 484,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "to forget his Creator\" (AmbM)."
+        },
+        {
+          "line_number": 505,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "(GrgGt). 22:2"
+        },
+        {
+          "line_number": 511,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "(GrgGt). 22:23"
+        },
+        {
+          "line_number": 522,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "see His form. Christ will take the form of fallen men and fulfill Job's desires (GrgGt). 23:12"
+        },
+        {
+          "line_number": 526,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "We are wrapped up within the divisions of time, since we are created beings. But God, Creator of all things, encompasses our times by His eternity (GrgGt). 24:2-6"
+        },
+        {
+          "line_number": 530,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "way of salvation (GrgGt). 24:8"
+        },
+        {
+          "line_number": 532,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "\"The showers of the mountains are the words of the learned\" (GrgGt). The rock is"
+        },
+        {
+          "line_number": 541,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "cannot be hidden from God\" (AmbM). 25:4"
+        },
+        {
+          "line_number": 545,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "(GrgGt). 26:1, 2 Is it possible for a man to help God? St. Gregory gives a qualified \"yes.\" Relating"
+        },
+        {
+          "line_number": 545,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "(GrgGt). 26:1, 2 Is it possible for a man to help God? St. Gregory gives a qualified \"yes.\" Relating"
+        },
+        {
+          "line_number": 555,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "encounter the loud and dreadful advent of His Majesty?\" (GrgGt; see [[PSA.49:3]]). 27:3"
+        },
+        {
+          "line_number": 561,
+          "entity": "AMBROSE_MILAN",
+          "matched_alias": "AmbM",
+          "context": "(AmbM). 27:6"
+        },
+        {
+          "line_number": 571,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "falls to the ground in bad thinking\" (GrgGt). 27:12"
+        },
+        {
+          "line_number": 580,
+          "entity": "JOHN_CHRYSOSTOM",
+          "matched_alias": "JohnChr",
+          "context": "Himself is invisible\" (JohnChr)."
+        },
+        {
+          "line_number": 585,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory interprets this passage in the light of Christ and His Church. The lamp"
+        },
+        {
+          "line_number": 605,
           "entity": "CYRIL_JERUSALEM",
-          "matched_alias": "CyrJer",
-          "context": "in overcoming him (CyrJer)."
+          "matched_alias": "St. Cyril",
+          "context": "St. Cyril notes that it is not only the natural father who is called father (see 1Co"
         },
         {
-          "line_number": 937,
+          "line_number": 615,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
-          "context": "Hear me, O Lord: Speaking to God is not so much what we say with our mouths, but rather \"to long for Him with eager desires\" (GrgGt)."
+          "context": "converting, she carried off Saul himself, the spoiler!\" (GrgGt; see [[ACT.9:1]]-12)."
         },
         {
-          "line_number": 948,
-          "entity": "ISAAC_SYRIAN",
-          "matched_alias": "IsaacS",
-          "context": "then, hearing, but now divine vision. But vision is more certain than hearing\" (IsaacS)."
+          "line_number": 632,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory sees these younger men, along with the fathers who taught them, as"
         },
         {
-          "line_number": 955,
+          "line_number": 664,
+          "entity": "SYMEON_NEW_THEOLOGIAN",
+          "matched_alias": "SymNew",
+          "context": "our sakes (see [[2CO.8:9]])\" (SymNew). These have nothing material to give, yet they"
+        },
+        {
+          "line_number": 671,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": ", 2 St. Gregory writes that Eve sinned and \"came to death\" because she allowed desire"
+        },
+        {
+          "line_number": 690,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "wicked, and never envy their passing happiness\" (GrgGt)."
+        },
+        {
+          "line_number": 699,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "particular case as it emerges\" (GrgGt)."
+        },
+        {
+          "line_number": 706,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "JohnChr",
-          "context": "nothing more. \"Because Job has condemned himself, God has justified him\" (JohnChr; see 40:8)."
+          "context": "without distinction, even if it is perilous, very costly, or risky\" (JohnChr)."
         },
         {
-          "line_number": 968,
-          "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "(GrgGt). 42:7-9 Job images Christ as suffering servant, High Priest, and Intercessor on behalf of"
-        },
-        {
-          "line_number": 983,
+          "line_number": 711,
           "entity": "GREGORY_GREAT",
           "matched_alias": "St. Gregory the Great",
-          "context": "his suffering, according to the Lord's word (40:8). St. Gregory the Great comments that"
+          "context": "St. Gregory the Great comments that the righteous have not rejoiced in great"
         },
         {
-          "line_number": 983,
+          "line_number": 711,
           "entity": "GREGORY_GREAT",
           "matched_alias": "Gregory the Great",
-          "context": "his suffering, according to the Lord's word (40:8). St. Gregory the Great comments that"
+          "context": "St. Gregory the Great comments that the righteous have not rejoiced in great"
         },
         {
-          "line_number": 991,
-          "entity": "ELIJAH_PROPHET",
-          "matched_alias": "Elijah",
-          "context": "the preaching of Elijah\" (see [[MAT.17:11]]). They ate food and drank with Him images the"
+          "line_number": 711,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory the Great comments that the righteous have not rejoiced in great"
         },
         {
-          "line_number": 1017,
+          "line_number": 722,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "Elihu, puffed up with arrogance, represents those who profess truth with the lips, but despise truth in the heart. St. Gregory says arrogance is manifested in four ways: (a)"
+        },
+        {
+          "line_number": 735,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "St. John Chrysostom",
-          "context": "history, as an historical person. St. John Chrysostom remarks that the exiled Jews in"
-        },
-        {
-          "line_number": 1017,
-          "entity": "JOHN_CHRYSOSTOM",
-          "matched_alias": "Chrysostom",
-          "context": "history, as an historical person. St. John Chrysostom remarks that the exiled Jews in"
-        },
-        {
-          "line_number": 1017,
-          "entity": "JOHN_THEOLOGIAN",
-          "matched_alias": "St. John",
-          "context": "history, as an historical person. St. John Chrysostom remarks that the exiled Jews in"
+          "context": "Where St. Gregory sees in Elihu few admirable qualities, St. John Chrysostom gives"
         }
       ],
       "entity_counts": {
@@ -875,197 +780,19 @@
         "BASIL_GREAT": 1,
         "CYRIL_JERUSALEM": 4,
         "ELIJAH_PROPHET": 1,
-        "GREGORY_GREAT": 45,
+        "GREGORY_GREAT": 78,
         "GREGORY_THEOLOGIAN": 2,
+        "HESYCHIUS_JERUSALEM": 16,
         "ISAAC_SYRIAN": 1,
         "JEROME": 1,
         "JOHN_CASSIAN": 1,
         "JOHN_CHRYSOSTOM": 22,
-        "JOHN_THEOLOGIAN": 7
+        "JOHN_THEOLOGIAN": 7,
+        "SEPTUAGINT": 1,
+        "SYMEON_NEW_THEOLOGIAN": 1
       },
-      "unresolved_candidates_count": 36,
-      "unresolved_candidates": [
-        {
-          "line_number": 34,
-          "token": "St. Gregory",
-          "context": "with a nature similar to the angels of God. However, writes St. Gregory, \"He was in the"
-        },
-        {
-          "line_number": 74,
-          "token": "St. Gregory",
-          "context": "St. Gregory compares the elder brother to the Jews, and the rest of Job's sons and"
-        },
-        {
-          "line_number": 83,
-          "token": "St. Hesychius",
-          "context": "Job did these acts, according to St. Hesychius, less as a sign of mourning than to get"
-        },
-        {
-          "line_number": 105,
-          "token": "St. Gregory",
-          "context": "St. Gregory comments that since the devil has already been defeated, the Lord is"
-        },
-        {
-          "line_number": 107,
-          "token": "St. Hesychius",
-          "context": "chiding him for the impotence of his pride. St. Hesychius teaches that the devil cannot"
-        },
-        {
-          "line_number": 115,
-          "token": "St. Gregory",
-          "context": "St. Gregory remarks that from the beginning, Satan has been working to destroy the"
-        },
-        {
-          "line_number": 123,
-          "token": "St. Gregory",
-          "context": "flesh, on account of sin: He condemned sin in the flesh\" ([[ROM.8:3]]). \"With a shard, therefore, the pus is scraped, when sin is defeated by the flesh.\" St. Gregory also notes"
-        },
-        {
-          "line_number": 131,
-          "token": "St. Hesychius",
-          "context": "St. Hesychius teaches that Satan \"recruited\" Job's wife, as he had done with Eve. St. John Chrysostom asks, \"What are you saying, woman? When God needs to be... propitiated, you are, rather, preparing to provoke Him! For if it is God who ha"
-        },
-        {
-          "line_number": 153,
-          "token": "St. Gregory",
-          "context": "St. Gregory writes that those who seek to die to themselves are like those who dig for"
-        },
-        {
-          "line_number": 173,
-          "token": "St. Gregory",
-          "context": "St. Gregory comments that Job's friends typify teachers of false doctrines, who"
-        },
-        {
-          "line_number": 177,
-          "token": "St. Gregory",
-          "context": "reverence\" over their preaching. 5:1-27 St. Gregory remarks that Eliphaz' words would have been true, had they not been"
-        },
-        {
-          "line_number": 207,
-          "token": "St. Gregory",
-          "context": "St. Gregory remarks that we are to approach confession with Job's frame of mind. 7:12"
-        },
-        {
-          "line_number": 209,
-          "token": "St. Hesychius",
-          "context": "St. Hesychius comments that a guard refers to the enemy, who is allowed to afflict"
-        },
-        {
-          "line_number": 221,
-          "token": "St. Gregory",
-          "context": "Job. In speaking of those who have forgotten God, St. Gregory writes that while they"
-        },
-        {
-          "line_number": 237,
-          "token": "St. Hesychius",
-          "context": "on firm ground ([[JOH.6:19]]). 9:9-13 St. Hesychius sees v. 9 as denoting all of God's great works, and compares v. 10 to"
-        },
-        {
-          "line_number": 267,
-          "token": "St. Hesychius",
-          "context": "The righteous ask that their trials might be over, says St. Hesychius, so that many"
-        },
-        {
-          "line_number": 271,
-          "token": "St. Hesychius",
-          "context": "St. Hesychius writes that this land refers to hell: \"Man should fear going into"
-        },
-        {
-          "line_number": 273,
-          "token": "St. Gregory",
-          "context": "these places.\" St. Gregory remarks, \"But what advantage is it for us to foreknow these"
-        },
-        {
-          "line_number": 345,
-          "token": "St. Hesychius",
-          "context": "St. Hesychius compares this verse to Christ's betrayal at Judas's hands ([[JOH.13:21]]; Mt"
-        },
-        {
-          "line_number": 361,
-          "token": "St. Gregory",
-          "context": "commentary in [[1CO.2:7]], [[1CO.2:8]] on those who crucified Christ. 18:1-21 St. Gregory sees Bildad's words as being unwittingly directed against the devil. 19:5"
-        },
-        {
-          "line_number": 377,
-          "token": "St. Gregory",
-          "context": "St. Gregory comments that the hypocrite hides his evil intentions behind soft"
-        },
-        {
-          "line_number": 435,
-          "token": "St. Gregory",
-          "context": "(GrgGt). 26:1, 2 Is it possible for a man to help God? St. Gregory gives a qualified \"yes.\" Relating"
-        },
-        {
-          "line_number": 475,
-          "token": "St. Gregory",
-          "context": "St. Gregory interprets this passage in the light of Christ and His Church. The lamp"
-        },
-        {
-          "line_number": 522,
-          "token": "St. Gregory",
-          "context": "St. Gregory sees these younger men, along with the fathers who taught them, as"
-        },
-        {
-          "line_number": 554,
-          "token": "SymNew",
-          "context": "our sakes (see [[2CO.8:9]])\" (SymNew). These have nothing material to give, yet they"
-        },
-        {
-          "line_number": 561,
-          "token": "St. Gregory",
-          "context": ", 2 St. Gregory writes that Eve sinned and \"came to death\" because she allowed desire"
-        },
-        {
-          "line_number": 612,
-          "token": "St. Gregory",
-          "context": "Elihu, puffed up with arrogance, represents those who profess truth with the lips, but despise truth in the heart. St. Gregory says arrogance is manifested in four ways: (a)"
-        },
-        {
-          "line_number": 625,
-          "token": "St. Gregory",
-          "context": "Where St. Gregory sees in Elihu few admirable qualities, St. John Chrysostom gives"
-        },
-        {
-          "line_number": 636,
-          "token": "St. Gregory",
-          "context": "Creator.\" St. Gregory of Nazianzus writes that \"this Spirit shares with the Son in working"
-        },
-        {
-          "line_number": 797,
-          "token": "St. Gregory",
-          "context": "St. Gregory sees in the wild donkey a type of the saints who seek the kingdom of"
-        },
-        {
-          "line_number": 822,
-          "token": "St. Gregory",
-          "context": "St. Gregory remarks that God is saying to Job, \"You were considering your own"
-        },
-        {
-          "line_number": 868,
-          "token": "St. Gregory",
-          "context": "rushing over him until it was too late ([[EXO.14:23]]-28). The Jordan, says St. Gregory, signifies those who have been sealed with the sacrament of baptism."
-        },
-        {
-          "line_number": 882,
-          "token": "St. Gregory",
-          "context": "The enemy, says St. Gregory, is against God in His holiness, \"but does not"
-        },
-        {
-          "line_number": 896,
-          "token": "St. Gregory",
-          "context": "To the Lord, writes St. Gregory, the devil is as irrational as an unclean animal, as"
-        },
-        {
-          "line_number": 970,
-          "token": "St. Gregory",
-          "context": "all. St. Gregory writes that he also images the Church. Job's intercession is echoed by"
-        },
-        {
-          "line_number": 1000,
-          "token": "St. Gregory",
-          "context": "St. Gregory comments that Job had the same number of children as before (1:2), \"in order that those who had been destroyed might be shown to be alive.\" The daughters'"
-        }
-      ],
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
       "explicit_citation_snippets": [
         {
           "line_number": 103,
@@ -1076,187 +803,191 @@
           "snippet": "GrgGt"
         },
         {
-          "line_number": 151,
+          "line_number": 161,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 185,
+          "line_number": 200,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 195,
+          "line_number": 215,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 205,
+          "line_number": 225,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 245,
+          "line_number": 280,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 305,
+          "line_number": 345,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 309,
+          "line_number": 354,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 315,
+          "line_number": 360,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 319,
+          "line_number": 369,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 327,
+          "line_number": 377,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 333,
+          "line_number": 383,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 337,
+          "line_number": 387,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 343,
+          "line_number": 393,
           "snippet": "AmbM"
         },
         {
-          "line_number": 357,
+          "line_number": 415,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 367,
+          "line_number": 436,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 375,
+          "line_number": 454,
           "snippet": "Jerome"
         },
         {
-          "line_number": 397,
+          "line_number": 484,
           "snippet": "AmbM"
         },
         {
-          "line_number": 405,
+          "line_number": 505,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 411,
+          "line_number": 511,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 417,
+          "line_number": 522,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 421,
+          "line_number": 526,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 425,
+          "line_number": 530,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 427,
+          "line_number": 532,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 431,
+          "line_number": 541,
           "snippet": "AmbM"
         },
         {
-          "line_number": 435,
+          "line_number": 545,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 451,
+          "line_number": 561,
           "snippet": "AmbM"
         },
         {
-          "line_number": 461,
+          "line_number": 571,
           "snippet": "GrgGt"
-        },
-        {
-          "line_number": 470,
-          "snippet": "JohnChr"
         },
         {
           "line_number": 580,
-          "snippet": "GrgGt"
-        },
-        {
-          "line_number": 589,
-          "snippet": "GrgGt"
-        },
-        {
-          "line_number": 596,
           "snippet": "JohnChr"
         },
         {
-          "line_number": 668,
+          "line_number": 664,
+          "snippet": "SymNew"
+        },
+        {
+          "line_number": 690,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 701,
+          "line_number": 699,
+          "snippet": "GrgGt"
+        },
+        {
+          "line_number": 706,
           "snippet": "JohnChr"
         },
         {
-          "line_number": 710,
+          "line_number": 778,
+          "snippet": "GrgGt"
+        },
+        {
+          "line_number": 811,
+          "snippet": "JohnChr"
+        },
+        {
+          "line_number": 820,
           "snippet": "GrgNa"
         },
         {
-          "line_number": 717,
+          "line_number": 827,
           "snippet": "JohnChr"
         },
         {
-          "line_number": 721,
+          "line_number": 831,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 726,
+          "line_number": 836,
           "snippet": "JohnChr"
         },
         {
-          "line_number": 737,
+          "line_number": 847,
           "snippet": "BasilG"
         },
         {
-          "line_number": 783,
+          "line_number": 893,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 834,
+          "line_number": 944,
           "snippet": "JohnCas"
         },
         {
-          "line_number": 839,
+          "line_number": 949,
           "snippet": "GrgNa"
         },
         {
-          "line_number": 877,
+          "line_number": 987,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 932,
+          "line_number": 1042,
           "snippet": "CyrJer"
         },
         {
-          "line_number": 937,
+          "line_number": 1047,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 948,
+          "line_number": 1058,
           "snippet": "IsaacS"
         },
         {
-          "line_number": 968,
+          "line_number": 1078,
           "snippet": "GrgGt"
         }
       ]
@@ -1265,19 +996,19 @@
       "matched_entities_count": 3,
       "matched_entities": [
         {
-          "line_number": 359,
+          "line_number": 420,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "St. Paul",
           "context": "A stunning example of God's enemies lacking discernment shows up in St. Paul's"
         },
         {
-          "line_number": 359,
+          "line_number": 420,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "A stunning example of God's enemies lacking discernment shows up in St. Paul's"
         },
         {
-          "line_number": 497,
+          "line_number": 607,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "4:15), \"for Paul was father of the Corinthians, not by having begotten them after the flesh, but by having taught and begotten them again after the Spirit.\""
@@ -1300,9 +1031,15 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 99,
+    "matched_entities_count": 150,
     "matched_entities": [
       {
+        "line_number": 15,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "Job was originally called Jobab (42:19). Thanks to the LXX text he is no longer the"
+      },
+      {
         "line_number": 23,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "St. John Chrysostom",
@@ -1319,6 +1056,12 @@
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
         "context": "unbeliever was his forefather. St. John Chrysostom, quoting [[ECC.7:21]], notes that the text"
+      },
+      {
+        "line_number": 34,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "with a nature similar to the angels of God. However, writes St. Gregory, \"He was in the"
       },
       {
         "line_number": 38,
@@ -1355,6 +1098,24 @@
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
         "context": "St. John Chrysostom remarks that Satan's will is his own, but he derives his power"
+      },
+      {
+        "line_number": 74,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory compares the elder brother to the Jews, and the rest of Job's sons and"
+      },
+      {
+        "line_number": 83,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "St. Hesychius",
+        "context": "Job did these acts, according to St. Hesychius, less as a sign of mourning than to get"
+      },
+      {
+        "line_number": 83,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "Hesychius",
+        "context": "Job did these acts, according to St. Hesychius, less as a sign of mourning than to get"
       },
       {
         "line_number": 103,
@@ -1363,6 +1124,36 @@
         "context": "meanness\" (JohnChr). 2:2"
       },
       {
+        "line_number": 105,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory comments that since the devil has already been defeated, the Lord is"
+      },
+      {
+        "line_number": 107,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "St. Hesychius",
+        "context": "chiding him for the impotence of his pride. St. Hesychius teaches that the devil cannot"
+      },
+      {
+        "line_number": 107,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "Hesychius",
+        "context": "chiding him for the impotence of his pride. St. Hesychius teaches that the devil cannot"
+      },
+      {
+        "line_number": 115,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory remarks that from the beginning, Satan has been working to destroy the"
+      },
+      {
+        "line_number": 123,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "flesh, on account of sin: He condemned sin in the flesh\" ([[ROM.8:3]]). \"With a shard, therefore, the pus is scraped, when sin is defeated by the flesh.\" St. Gregory also notes"
+      },
+      {
         "line_number": 131,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "St. John Chrysostom",
@@ -1378,523 +1169,469 @@
         "line_number": 131,
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
+        "context": "St. Hesychius teaches that Satan \"recruited\" Job's wife, as he had done with Eve. St. John Chrysostom asks, \"What are you saying, woman? When God needs to be... propitiated, you are, rather, preparing to provoke Him! For if it is God who ha"
+      },
+      {
+        "line_number": 131,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "St. Hesychius",
+        "context": "St. Hesychius teaches that Satan \"recruited\" Job's wife, as he had done with Eve. St. John Chrysostom asks, \"What are you saying, woman? When God needs to be... propitiated, you are, rather, preparing to provoke Him! For if it is God who ha"
+      },
+      {
+        "line_number": 131,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "Hesychius",
         "context": "St. Hesychius teaches that Satan \"recruited\" Job's wife, as he had done with Eve. St. John Chrysostom asks, \"What are you saying, woman? When God needs to be... propitiated, you are, rather, preparing to provoke Him! For if it is God who ha"
       },
       {
         "line_number": 141,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
-        "context": "of reviling against their very adversaries\" (GrgGt). 2:16-18 Job's three friends came to comfort him, but the contrary took place, because"
+        "context": "of reviling against their very adversaries\" (GrgGt)."
       },
       {
-        "line_number": 151,
+        "line_number": 161,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "troublesome is its exile here, where it lies wounded and cast out\" (GrgGt). 3:21"
       },
       {
-        "line_number": 185,
+        "line_number": 163,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory writes that those who seek to die to themselves are like those who dig for"
+      },
+      {
+        "line_number": 183,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory comments that Job's friends typify teachers of false doctrines, who"
+      },
+      {
+        "line_number": 192,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory remarks that Eliphaz' words would have been true, had they not been"
+      },
+      {
+        "line_number": 200,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "Him both justice and lovingkindness together\" (GrgGt). 6:5-7"
       },
       {
-        "line_number": 195,
+        "line_number": 215,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "world for the sake of eternal rewards, to count the allurements of prosperity as nothing, and to overcome the dread of adversity in our heart\" (GrgGt). 6:18"
       },
       {
-        "line_number": 205,
+        "line_number": 225,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "righteously is sin\" (GrgGt). 7:11"
       },
       {
+        "line_number": 227,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory remarks that we are to approach confession with Job's frame of mind. 7:12"
+      },
+      {
         "line_number": 229,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "St. Hesychius",
+        "context": "St. Hesychius comments that a guard refers to the enemy, who is allowed to afflict"
+      },
+      {
+        "line_number": 229,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "Hesychius",
+        "context": "St. Hesychius comments that a guard refers to the enemy, who is allowed to afflict"
+      },
+      {
+        "line_number": 251,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "Job. In speaking of those who have forgotten God, St. Gregory writes that while they"
+      },
+      {
+        "line_number": 259,
         "entity": "AMBROSE_MILAN",
         "matched_alias": "St. Ambrose",
         "context": "St. Ambrose sees in the mountains a type of the Old Testament and the Prophets. \"The Jew grew old; grace was renewed.\" Christ \"overturned\" the understanding of the Law"
       },
       {
-        "line_number": 229,
+        "line_number": 259,
         "entity": "AMBROSE_MILAN",
         "matched_alias": "Ambrose",
         "context": "St. Ambrose sees in the mountains a type of the Old Testament and the Prophets. \"The Jew grew old; grace was renewed.\" Christ \"overturned\" the understanding of the Law"
       },
       {
-        "line_number": 233,
+        "line_number": 263,
         "entity": "GREGORY_GREAT",
         "matched_alias": "St. Gregory the Great",
         "context": "St. Gregory the Great sees in heaven a type of the preaching of the apostles and"
       },
       {
-        "line_number": 233,
+        "line_number": 263,
         "entity": "GREGORY_GREAT",
         "matched_alias": "Gregory the Great",
         "context": "St. Gregory the Great sees in heaven a type of the preaching of the apostles and"
       },
       {
-        "line_number": 235,
+        "line_number": 263,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory the Great sees in heaven a type of the preaching of the apostles and"
+      },
+      {
+        "line_number": 265,
         "entity": "CYRIL_JERUSALEM",
         "matched_alias": "St. Cyril",
         "context": "evangelists. St. Cyril notes that this is the same Lord who, as Man, walked on the sea as"
       },
       {
-        "line_number": 245,
+        "line_number": 272,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "St. Hesychius",
+        "context": "St. Hesychius sees v. 9 as denoting all of God's great works, and compares v. 10 to"
+      },
+      {
+        "line_number": 272,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "Hesychius",
+        "context": "St. Hesychius sees v. 9 as denoting all of God's great works, and compares v. 10 to"
+      },
+      {
+        "line_number": 280,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "by humility (GrgGt). 10:1-3"
       },
       {
-        "line_number": 251,
+        "line_number": 291,
         "entity": "AMBROSE_MILAN",
         "matched_alias": "St. Ambrose",
-        "context": "5:8). 10:8-12 St. Ambrose writes that Job, knowing no one is immune from falling, rejects what"
+        "context": "St. Ambrose writes that Job, knowing no one is immune from falling, rejects what"
       },
       {
-        "line_number": 251,
+        "line_number": 291,
         "entity": "AMBROSE_MILAN",
         "matched_alias": "Ambrose",
-        "context": "5:8). 10:8-12 St. Ambrose writes that Job, knowing no one is immune from falling, rejects what"
+        "context": "St. Ambrose writes that Job, knowing no one is immune from falling, rejects what"
       },
       {
-        "line_number": 259,
+        "line_number": 299,
         "entity": "CYRIL_JERUSALEM",
         "matched_alias": "St. Cyril",
         "context": "From his conception, man is shaped by God. St. Cyril writes, \"None of the"
       },
       {
-        "line_number": 295,
+        "line_number": 307,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "St. Hesychius",
+        "context": "The righteous ask that their trials might be over, says St. Hesychius, so that many"
+      },
+      {
+        "line_number": 307,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "Hesychius",
+        "context": "The righteous ask that their trials might be over, says St. Hesychius, so that many"
+      },
+      {
+        "line_number": 311,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "St. Hesychius",
+        "context": "St. Hesychius writes that this land refers to hell: \"Man should fear going into"
+      },
+      {
+        "line_number": 311,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "Hesychius",
+        "context": "St. Hesychius writes that this land refers to hell: \"Man should fear going into"
+      },
+      {
+        "line_number": 313,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "these places.\" St. Gregory remarks, \"But what advantage is it for us to foreknow these"
+      },
+      {
+        "line_number": 335,
         "entity": "GREGORY_GREAT",
         "matched_alias": "St. Gregory the Great",
         "context": "St. Gregory the Great interprets water to mean the grace of the Holy Spirit. \"If the"
       },
       {
-        "line_number": 295,
+        "line_number": 335,
         "entity": "GREGORY_GREAT",
         "matched_alias": "Gregory the Great",
         "context": "St. Gregory the Great interprets water to mean the grace of the Holy Spirit. \"If the"
       },
       {
-        "line_number": 305,
+        "line_number": 335,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory the Great interprets water to mean the grace of the Holy Spirit. \"If the"
+      },
+      {
+        "line_number": 345,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "death; but Christ brought light to the shadows (GrgGt). 13:1"
       },
       {
-        "line_number": 309,
+        "line_number": 354,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "hear and be heard (GrgGt). 14:5"
       },
       {
-        "line_number": 315,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "(GrgGt). 14:7-11 Christ was cut down in His death, but would sprout again in His Resurrection"
-      },
-      {
-        "line_number": 319,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "Resurrection grew out far and wide\" (GrgGt). 14:14"
-      },
-      {
-        "line_number": 327,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "(GrgGt). 14:17"
-      },
-      {
-        "line_number": 333,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "the publicity of the Judgment\" (GrgGt). 15:1-6"
-      },
-      {
-        "line_number": 337,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "likeness of heretics\" (GrgGt). 15:20"
-      },
-      {
-        "line_number": 343,
-        "entity": "AMBROSE_MILAN",
-        "matched_alias": "AmbM",
-        "context": "temptations and attain to the crown of a greater glory\" (AmbM). 16:8"
-      },
-      {
-        "line_number": 357,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "world (GrgGt). 17:4"
-      },
-      {
-        "line_number": 367,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "smitten, who had not served like him?\" (GrgGt). 19:7-19 The Fathers note clear parallels between this passage and Christ's Passion (see Mt"
-      },
-      {
-        "line_number": 375,
-        "entity": "JEROME",
-        "matched_alias": "Jerome",
-        "context": "he did before Christ\" (Jerome). 20:1-3 Zophar's so-called superior understanding blinded him to the truth. 20:12-14"
-      },
-      {
-        "line_number": 397,
-        "entity": "AMBROSE_MILAN",
-        "matched_alias": "AmbM",
-        "context": "to forget his Creator\" (AmbM). 21:23-26 Riches should not lift up the soul, nor should poverty disturb it. 21:29"
-      },
-      {
-        "line_number": 405,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "(GrgGt). 22:2"
-      },
-      {
-        "line_number": 411,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "(GrgGt). 22:23"
-      },
-      {
-        "line_number": 417,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "see His form. Christ will take the form of fallen men and fulfill Job's desires (GrgGt). 23:12"
-      },
-      {
-        "line_number": 421,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "We are wrapped up within the divisions of time, since we are created beings. But God, Creator of all things, encompasses our times by His eternity (GrgGt). 24:2-6"
-      },
-      {
-        "line_number": 425,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "way of salvation (GrgGt). 24:8"
-      },
-      {
-        "line_number": 427,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "\"The showers of the mountains are the words of the learned\" (GrgGt). The rock is"
-      },
-      {
-        "line_number": 431,
-        "entity": "AMBROSE_MILAN",
-        "matched_alias": "AmbM",
-        "context": "cannot be hidden from God\" (AmbM). 25:4"
-      },
-      {
-        "line_number": 435,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "(GrgGt). 26:1, 2 Is it possible for a man to help God? St. Gregory gives a qualified \"yes.\" Relating"
-      },
-      {
-        "line_number": 445,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "encounter the loud and dreadful advent of His Majesty?\" (GrgGt; see [[PSA.49:3]]). 27:3"
-      },
-      {
-        "line_number": 451,
-        "entity": "AMBROSE_MILAN",
-        "matched_alias": "AmbM",
-        "context": "(AmbM). 27:6"
-      },
-      {
-        "line_number": 461,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "falls to the ground in bad thinking\" (GrgGt). 27:12"
-      },
-      {
-        "line_number": 470,
-        "entity": "JOHN_CHRYSOSTOM",
-        "matched_alias": "JohnChr",
-        "context": "Himself is invisible\" (JohnChr)."
-      },
-      {
-        "line_number": 495,
-        "entity": "CYRIL_JERUSALEM",
-        "matched_alias": "St. Cyril",
-        "context": "St. Cyril notes that it is not only the natural father who is called father (see 1Co"
-      },
-      {
-        "line_number": 505,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "converting, she carried off Saul himself, the spoiler!\" (GrgGt; see [[ACT.9:1]]-12)."
-      },
-      {
-        "line_number": 580,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "wicked, and never envy their passing happiness\" (GrgGt)."
-      },
-      {
-        "line_number": 589,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "particular case as it emerges\" (GrgGt)."
-      },
-      {
-        "line_number": 596,
-        "entity": "JOHN_CHRYSOSTOM",
-        "matched_alias": "JohnChr",
-        "context": "without distinction, even if it is perilous, very costly, or risky\" (JohnChr)."
-      },
-      {
-        "line_number": 601,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "St. Gregory the Great",
-        "context": "St. Gregory the Great comments that the righteous have not rejoiced in great"
-      },
-      {
-        "line_number": 601,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "Gregory the Great",
-        "context": "St. Gregory the Great comments that the righteous have not rejoiced in great"
-      },
-      {
-        "line_number": 625,
-        "entity": "JOHN_CHRYSOSTOM",
-        "matched_alias": "St. John Chrysostom",
-        "context": "Where St. Gregory sees in Elihu few admirable qualities, St. John Chrysostom gives"
-      },
-      {
-        "line_number": 625,
-        "entity": "JOHN_CHRYSOSTOM",
-        "matched_alias": "Chrysostom",
-        "context": "Where St. Gregory sees in Elihu few admirable qualities, St. John Chrysostom gives"
-      },
-      {
-        "line_number": 625,
-        "entity": "JOHN_THEOLOGIAN",
-        "matched_alias": "St. John",
-        "context": "Where St. Gregory sees in Elihu few admirable qualities, St. John Chrysostom gives"
-      },
-      {
-        "line_number": 634,
-        "entity": "AMBROSE_MILAN",
-        "matched_alias": "St. Ambrose",
-        "context": "St. Ambrose writes that this verse shows the divine Spirit \"to be both divine and"
-      },
-      {
-        "line_number": 634,
-        "entity": "AMBROSE_MILAN",
-        "matched_alias": "Ambrose",
-        "context": "St. Ambrose writes that this verse shows the divine Spirit \"to be both divine and"
-      },
-      {
-        "line_number": 668,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "(2:3), and blessing him doubly afterwards (GrgGt)."
-      },
-      {
-        "line_number": 675,
-        "entity": "JOHN_CHRYSOSTOM",
-        "matched_alias": "JohnChr",
-        "context": "on them\" (JohnChr; see [[HAB.1:13]])."
-      },
-      {
-        "line_number": 701,
-        "entity": "JOHN_CHRYSOSTOM",
-        "matched_alias": "JohnChr",
-        "context": "(JohnChr)."
-      },
-      {
-        "line_number": 710,
-        "entity": "GREGORY_THEOLOGIAN",
-        "matched_alias": "GrgNa",
-        "context": "(GrgNa)."
-      },
-      {
-        "line_number": 717,
-        "entity": "JOHN_CHRYSOSTOM",
-        "matched_alias": "JohnChr",
-        "context": "if He had brought His throne near to him (JohnChr). Had Job been about to die, the Lord"
-      },
-      {
-        "line_number": 721,
+        "line_number": 360,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "(GrgGt)."
       },
       {
-        "line_number": 726,
-        "entity": "JOHN_CHRYSOSTOM",
-        "matched_alias": "JohnChr",
-        "context": "This verse was intended to restore and encourage a discouraged Job (JohnChr)."
-      },
-      {
-        "line_number": 737,
-        "entity": "BASIL_GREAT",
-        "matched_alias": "BasilG",
-        "context": "(BasilG)."
-      },
-      {
-        "line_number": 744,
-        "entity": "JOHN_CHRYSOSTOM",
-        "matched_alias": "JohnChr",
-        "context": "'gathered together into one place'\" (JohnChr; see [[GEN.1:9]])."
-      },
-      {
-        "line_number": 772,
-        "entity": "AMBROSE_MILAN",
-        "matched_alias": "St. Ambrose",
-        "context": "St. Ambrose quotes this verse in speaking of Christ the High Priest's woven bridal"
-      },
-      {
-        "line_number": 772,
-        "entity": "AMBROSE_MILAN",
-        "matched_alias": "Ambrose",
-        "context": "St. Ambrose quotes this verse in speaking of Christ the High Priest's woven bridal"
-      },
-      {
-        "line_number": 783,
+        "line_number": 369,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
-        "context": "denotes the Gentiles (GrgGt)."
+        "context": "Resurrection grew out far and wide\" (GrgGt). 14:14"
       },
       {
-        "line_number": 788,
-        "entity": "AMBROSE_MILAN",
-        "matched_alias": "St. Ambrose",
-        "context": "St. Gregory the Great and St. Ambrose see in the begetting of young by the wild"
-      },
-      {
-        "line_number": 788,
-        "entity": "AMBROSE_MILAN",
-        "matched_alias": "Ambrose",
-        "context": "St. Gregory the Great and St. Ambrose see in the begetting of young by the wild"
-      },
-      {
-        "line_number": 788,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "St. Gregory the Great",
-        "context": "St. Gregory the Great and St. Ambrose see in the begetting of young by the wild"
-      },
-      {
-        "line_number": 788,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "Gregory the Great",
-        "context": "St. Gregory the Great and St. Ambrose see in the begetting of young by the wild"
-      },
-      {
-        "line_number": 834,
-        "entity": "JOHN_CASSIAN",
-        "matched_alias": "JohnCas",
-        "context": "(JohnCas)."
-      },
-      {
-        "line_number": 839,
-        "entity": "JOHN_THEOLOGIAN",
-        "matched_alias": "St. John",
-        "context": "The Lord at last tells Job why he has suffered. \"This is the balm for Job's wounds. This is the crown of the contest. This is the reward for his patience\" (GrgNa). St. John"
-      },
-      {
-        "line_number": 839,
-        "entity": "GREGORY_THEOLOGIAN",
-        "matched_alias": "GrgNa",
-        "context": "The Lord at last tells Job why he has suffered. \"This is the balm for Job's wounds. This is the crown of the contest. This is the reward for his patience\" (GrgNa). St. John"
-      },
-      {
-        "line_number": 841,
-        "entity": "JOHN_CHRYSOSTOM",
-        "matched_alias": "Chrysostom",
-        "context": "Chrysostom writes that all that has gone before is now justified. Indeed, Job's remaining"
-      },
-      {
-        "line_number": 877,
+        "line_number": 377,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
-        "context": "of His Godhead pierced him through\" (GrgGt)."
+        "context": "(GrgGt). 14:17"
       },
       {
-        "line_number": 913,
+        "line_number": 383,
         "entity": "GREGORY_GREAT",
-        "matched_alias": "St. Gregory the Great",
-        "context": "antagonist, pierced his impenetrable armor. St. Gregory the Great writes that the doors"
+        "matched_alias": "GrgGt",
+        "context": "the publicity of the Judgment\" (GrgGt). 15:1-6"
       },
       {
-        "line_number": 913,
+        "line_number": 387,
         "entity": "GREGORY_GREAT",
-        "matched_alias": "Gregory the Great",
-        "context": "antagonist, pierced his impenetrable armor. St. Gregory the Great writes that the doors"
+        "matched_alias": "GrgGt",
+        "context": "likeness of heretics\" (GrgGt). 15:20"
       },
       {
-        "line_number": 932,
+        "line_number": 393,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "temptations and attain to the crown of a greater glory\" (AmbM). 16:8"
+      },
+      {
+        "line_number": 395,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "St. Hesychius",
+        "context": "St. Hesychius compares this verse to Christ's betrayal at Judas's hands ([[JOH.13:21]]; Mt"
+      },
+      {
+        "line_number": 395,
+        "entity": "HESYCHIUS_JERUSALEM",
+        "matched_alias": "Hesychius",
+        "context": "St. Hesychius compares this verse to Christ's betrayal at Judas's hands ([[JOH.13:21]]; Mt"
+      },
+      {
+        "line_number": 415,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "world (GrgGt)."
+      },
+      {
+        "line_number": 427,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory sees Bildad's words as being unwittingly directed against the devil."
+      },
+      {
+        "line_number": 436,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "smitten, who had not served like him?\" (GrgGt)."
+      },
+      {
+        "line_number": 454,
+        "entity": "JEROME",
+        "matched_alias": "Jerome",
+        "context": "he did before Christ\" (Jerome)."
+      },
+      {
+        "line_number": 464,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory comments that the hypocrite hides his evil intentions behind soft"
+      },
+      {
+        "line_number": 484,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "to forget his Creator\" (AmbM)."
+      },
+      {
+        "line_number": 505,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "(GrgGt). 22:2"
+      },
+      {
+        "line_number": 511,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "(GrgGt). 22:23"
+      },
+      {
+        "line_number": 522,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "see His form. Christ will take the form of fallen men and fulfill Job's desires (GrgGt). 23:12"
+      },
+      {
+        "line_number": 526,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "We are wrapped up within the divisions of time, since we are created beings. But God, Creator of all things, encompasses our times by His eternity (GrgGt). 24:2-6"
+      },
+      {
+        "line_number": 530,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "way of salvation (GrgGt). 24:8"
+      },
+      {
+        "line_number": 532,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "\"The showers of the mountains are the words of the learned\" (GrgGt). The rock is"
+      },
+      {
+        "line_number": 541,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "cannot be hidden from God\" (AmbM). 25:4"
+      },
+      {
+        "line_number": 545,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "(GrgGt). 26:1, 2 Is it possible for a man to help God? St. Gregory gives a qualified \"yes.\" Relating"
+      },
+      {
+        "line_number": 545,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "(GrgGt). 26:1, 2 Is it possible for a man to help God? St. Gregory gives a qualified \"yes.\" Relating"
+      },
+      {
+        "line_number": 555,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "encounter the loud and dreadful advent of His Majesty?\" (GrgGt; see [[PSA.49:3]]). 27:3"
+      },
+      {
+        "line_number": 561,
+        "entity": "AMBROSE_MILAN",
+        "matched_alias": "AmbM",
+        "context": "(AmbM). 27:6"
+      },
+      {
+        "line_number": 571,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "falls to the ground in bad thinking\" (GrgGt). 27:12"
+      },
+      {
+        "line_number": 580,
+        "entity": "JOHN_CHRYSOSTOM",
+        "matched_alias": "JohnChr",
+        "context": "Himself is invisible\" (JohnChr)."
+      },
+      {
+        "line_number": 585,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory interprets this passage in the light of Christ and His Church. The lamp"
+      },
+      {
+        "line_number": 605,
         "entity": "CYRIL_JERUSALEM",
-        "matched_alias": "CyrJer",
-        "context": "in overcoming him (CyrJer)."
+        "matched_alias": "St. Cyril",
+        "context": "St. Cyril notes that it is not only the natural father who is called father (see 1Co"
       },
       {
-        "line_number": 937,
+        "line_number": 615,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
-        "context": "Hear me, O Lord: Speaking to God is not so much what we say with our mouths, but rather \"to long for Him with eager desires\" (GrgGt)."
+        "context": "converting, she carried off Saul himself, the spoiler!\" (GrgGt; see [[ACT.9:1]]-12)."
       },
       {
-        "line_number": 948,
-        "entity": "ISAAC_SYRIAN",
-        "matched_alias": "IsaacS",
-        "context": "then, hearing, but now divine vision. But vision is more certain than hearing\" (IsaacS)."
+        "line_number": 632,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory sees these younger men, along with the fathers who taught them, as"
       },
       {
-        "line_number": 955,
+        "line_number": 664,
+        "entity": "SYMEON_NEW_THEOLOGIAN",
+        "matched_alias": "SymNew",
+        "context": "our sakes (see [[2CO.8:9]])\" (SymNew). These have nothing material to give, yet they"
+      },
+      {
+        "line_number": 671,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": ", 2 St. Gregory writes that Eve sinned and \"came to death\" because she allowed desire"
+      },
+      {
+        "line_number": 690,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "wicked, and never envy their passing happiness\" (GrgGt)."
+      },
+      {
+        "line_number": 699,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "particular case as it emerges\" (GrgGt)."
+      },
+      {
+        "line_number": 706,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "JohnChr",
-        "context": "nothing more. \"Because Job has condemned himself, God has justified him\" (JohnChr; see 40:8)."
+        "context": "without distinction, even if it is perilous, very costly, or risky\" (JohnChr)."
       },
       {
-        "line_number": 968,
-        "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "(GrgGt). 42:7-9 Job images Christ as suffering servant, High Priest, and Intercessor on behalf of"
-      },
-      {
-        "line_number": 983,
+        "line_number": 711,
         "entity": "GREGORY_GREAT",
         "matched_alias": "St. Gregory the Great",
-        "context": "his suffering, according to the Lord's word (40:8). St. Gregory the Great comments that"
+        "context": "St. Gregory the Great comments that the righteous have not rejoiced in great"
       },
       {
-        "line_number": 983,
+        "line_number": 711,
         "entity": "GREGORY_GREAT",
         "matched_alias": "Gregory the Great",
-        "context": "his suffering, according to the Lord's word (40:8). St. Gregory the Great comments that"
+        "context": "St. Gregory the Great comments that the righteous have not rejoiced in great"
       },
       {
-        "line_number": 991,
-        "entity": "ELIJAH_PROPHET",
-        "matched_alias": "Elijah",
-        "context": "the preaching of Elijah\" (see [[MAT.17:11]]). They ate food and drank with Him images the"
+        "line_number": 711,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory the Great comments that the righteous have not rejoiced in great"
       },
       {
-        "line_number": 1017,
+        "line_number": 722,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "Elihu, puffed up with arrogance, represents those who profess truth with the lips, but despise truth in the heart. St. Gregory says arrogance is manifested in four ways: (a)"
+      },
+      {
+        "line_number": 735,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "St. John Chrysostom",
-        "context": "history, as an historical person. St. John Chrysostom remarks that the exiled Jews in"
-      },
-      {
-        "line_number": 1017,
-        "entity": "JOHN_CHRYSOSTOM",
-        "matched_alias": "Chrysostom",
-        "context": "history, as an historical person. St. John Chrysostom remarks that the exiled Jews in"
-      },
-      {
-        "line_number": 1017,
-        "entity": "JOHN_THEOLOGIAN",
-        "matched_alias": "St. John",
-        "context": "history, as an historical person. St. John Chrysostom remarks that the exiled Jews in"
+        "context": "Where St. Gregory sees in Elihu few admirable qualities, St. John Chrysostom gives"
       }
     ],
     "entity_counts": {
@@ -1902,197 +1639,19 @@
       "BASIL_GREAT": 1,
       "CYRIL_JERUSALEM": 4,
       "ELIJAH_PROPHET": 1,
-      "GREGORY_GREAT": 45,
+      "GREGORY_GREAT": 78,
       "GREGORY_THEOLOGIAN": 2,
+      "HESYCHIUS_JERUSALEM": 16,
       "ISAAC_SYRIAN": 1,
       "JEROME": 1,
       "JOHN_CASSIAN": 1,
       "JOHN_CHRYSOSTOM": 22,
-      "JOHN_THEOLOGIAN": 7
+      "JOHN_THEOLOGIAN": 7,
+      "SEPTUAGINT": 1,
+      "SYMEON_NEW_THEOLOGIAN": 1
     },
-    "unresolved_candidates_count": 36,
-    "unresolved_candidates": [
-      {
-        "line_number": 34,
-        "token": "St. Gregory",
-        "context": "with a nature similar to the angels of God. However, writes St. Gregory, \"He was in the"
-      },
-      {
-        "line_number": 74,
-        "token": "St. Gregory",
-        "context": "St. Gregory compares the elder brother to the Jews, and the rest of Job's sons and"
-      },
-      {
-        "line_number": 83,
-        "token": "St. Hesychius",
-        "context": "Job did these acts, according to St. Hesychius, less as a sign of mourning than to get"
-      },
-      {
-        "line_number": 105,
-        "token": "St. Gregory",
-        "context": "St. Gregory comments that since the devil has already been defeated, the Lord is"
-      },
-      {
-        "line_number": 107,
-        "token": "St. Hesychius",
-        "context": "chiding him for the impotence of his pride. St. Hesychius teaches that the devil cannot"
-      },
-      {
-        "line_number": 115,
-        "token": "St. Gregory",
-        "context": "St. Gregory remarks that from the beginning, Satan has been working to destroy the"
-      },
-      {
-        "line_number": 123,
-        "token": "St. Gregory",
-        "context": "flesh, on account of sin: He condemned sin in the flesh\" ([[ROM.8:3]]). \"With a shard, therefore, the pus is scraped, when sin is defeated by the flesh.\" St. Gregory also notes"
-      },
-      {
-        "line_number": 131,
-        "token": "St. Hesychius",
-        "context": "St. Hesychius teaches that Satan \"recruited\" Job's wife, as he had done with Eve. St. John Chrysostom asks, \"What are you saying, woman? When God needs to be... propitiated, you are, rather, preparing to provoke Him! For if it is God who ha"
-      },
-      {
-        "line_number": 153,
-        "token": "St. Gregory",
-        "context": "St. Gregory writes that those who seek to die to themselves are like those who dig for"
-      },
-      {
-        "line_number": 173,
-        "token": "St. Gregory",
-        "context": "St. Gregory comments that Job's friends typify teachers of false doctrines, who"
-      },
-      {
-        "line_number": 177,
-        "token": "St. Gregory",
-        "context": "reverence\" over their preaching. 5:1-27 St. Gregory remarks that Eliphaz' words would have been true, had they not been"
-      },
-      {
-        "line_number": 207,
-        "token": "St. Gregory",
-        "context": "St. Gregory remarks that we are to approach confession with Job's frame of mind. 7:12"
-      },
-      {
-        "line_number": 209,
-        "token": "St. Hesychius",
-        "context": "St. Hesychius comments that a guard refers to the enemy, who is allowed to afflict"
-      },
-      {
-        "line_number": 221,
-        "token": "St. Gregory",
-        "context": "Job. In speaking of those who have forgotten God, St. Gregory writes that while they"
-      },
-      {
-        "line_number": 237,
-        "token": "St. Hesychius",
-        "context": "on firm ground ([[JOH.6:19]]). 9:9-13 St. Hesychius sees v. 9 as denoting all of God's great works, and compares v. 10 to"
-      },
-      {
-        "line_number": 267,
-        "token": "St. Hesychius",
-        "context": "The righteous ask that their trials might be over, says St. Hesychius, so that many"
-      },
-      {
-        "line_number": 271,
-        "token": "St. Hesychius",
-        "context": "St. Hesychius writes that this land refers to hell: \"Man should fear going into"
-      },
-      {
-        "line_number": 273,
-        "token": "St. Gregory",
-        "context": "these places.\" St. Gregory remarks, \"But what advantage is it for us to foreknow these"
-      },
-      {
-        "line_number": 345,
-        "token": "St. Hesychius",
-        "context": "St. Hesychius compares this verse to Christ's betrayal at Judas's hands ([[JOH.13:21]]; Mt"
-      },
-      {
-        "line_number": 361,
-        "token": "St. Gregory",
-        "context": "commentary in [[1CO.2:7]], [[1CO.2:8]] on those who crucified Christ. 18:1-21 St. Gregory sees Bildad's words as being unwittingly directed against the devil. 19:5"
-      },
-      {
-        "line_number": 377,
-        "token": "St. Gregory",
-        "context": "St. Gregory comments that the hypocrite hides his evil intentions behind soft"
-      },
-      {
-        "line_number": 435,
-        "token": "St. Gregory",
-        "context": "(GrgGt). 26:1, 2 Is it possible for a man to help God? St. Gregory gives a qualified \"yes.\" Relating"
-      },
-      {
-        "line_number": 475,
-        "token": "St. Gregory",
-        "context": "St. Gregory interprets this passage in the light of Christ and His Church. The lamp"
-      },
-      {
-        "line_number": 522,
-        "token": "St. Gregory",
-        "context": "St. Gregory sees these younger men, along with the fathers who taught them, as"
-      },
-      {
-        "line_number": 554,
-        "token": "SymNew",
-        "context": "our sakes (see [[2CO.8:9]])\" (SymNew). These have nothing material to give, yet they"
-      },
-      {
-        "line_number": 561,
-        "token": "St. Gregory",
-        "context": ", 2 St. Gregory writes that Eve sinned and \"came to death\" because she allowed desire"
-      },
-      {
-        "line_number": 612,
-        "token": "St. Gregory",
-        "context": "Elihu, puffed up with arrogance, represents those who profess truth with the lips, but despise truth in the heart. St. Gregory says arrogance is manifested in four ways: (a)"
-      },
-      {
-        "line_number": 625,
-        "token": "St. Gregory",
-        "context": "Where St. Gregory sees in Elihu few admirable qualities, St. John Chrysostom gives"
-      },
-      {
-        "line_number": 636,
-        "token": "St. Gregory",
-        "context": "Creator.\" St. Gregory of Nazianzus writes that \"this Spirit shares with the Son in working"
-      },
-      {
-        "line_number": 797,
-        "token": "St. Gregory",
-        "context": "St. Gregory sees in the wild donkey a type of the saints who seek the kingdom of"
-      },
-      {
-        "line_number": 822,
-        "token": "St. Gregory",
-        "context": "St. Gregory remarks that God is saying to Job, \"You were considering your own"
-      },
-      {
-        "line_number": 868,
-        "token": "St. Gregory",
-        "context": "rushing over him until it was too late ([[EXO.14:23]]-28). The Jordan, says St. Gregory, signifies those who have been sealed with the sacrament of baptism."
-      },
-      {
-        "line_number": 882,
-        "token": "St. Gregory",
-        "context": "The enemy, says St. Gregory, is against God in His holiness, \"but does not"
-      },
-      {
-        "line_number": 896,
-        "token": "St. Gregory",
-        "context": "To the Lord, writes St. Gregory, the devil is as irrational as an unclean animal, as"
-      },
-      {
-        "line_number": 970,
-        "token": "St. Gregory",
-        "context": "all. St. Gregory writes that he also images the Church. Job's intercession is echoed by"
-      },
-      {
-        "line_number": 1000,
-        "token": "St. Gregory",
-        "context": "St. Gregory comments that Job had the same number of children as before (1:2), \"in order that those who had been destroyed might be shown to be alive.\" The daughters'"
-      }
-    ],
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
     "explicit_citation_snippets": [
       {
         "line_number": 103,
@@ -2103,187 +1662,191 @@
         "snippet": "GrgGt"
       },
       {
-        "line_number": 151,
+        "line_number": 161,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 185,
+        "line_number": 200,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 195,
+        "line_number": 215,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 205,
+        "line_number": 225,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 245,
+        "line_number": 280,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 305,
+        "line_number": 345,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 309,
+        "line_number": 354,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 315,
+        "line_number": 360,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 319,
+        "line_number": 369,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 327,
+        "line_number": 377,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 333,
+        "line_number": 383,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 337,
+        "line_number": 387,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 343,
+        "line_number": 393,
         "snippet": "AmbM"
       },
       {
-        "line_number": 357,
+        "line_number": 415,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 367,
+        "line_number": 436,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 375,
+        "line_number": 454,
         "snippet": "Jerome"
       },
       {
-        "line_number": 397,
+        "line_number": 484,
         "snippet": "AmbM"
       },
       {
-        "line_number": 405,
+        "line_number": 505,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 411,
+        "line_number": 511,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 417,
+        "line_number": 522,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 421,
+        "line_number": 526,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 425,
+        "line_number": 530,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 427,
+        "line_number": 532,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 431,
+        "line_number": 541,
         "snippet": "AmbM"
       },
       {
-        "line_number": 435,
+        "line_number": 545,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 451,
+        "line_number": 561,
         "snippet": "AmbM"
       },
       {
-        "line_number": 461,
+        "line_number": 571,
         "snippet": "GrgGt"
-      },
-      {
-        "line_number": 470,
-        "snippet": "JohnChr"
       },
       {
         "line_number": 580,
-        "snippet": "GrgGt"
-      },
-      {
-        "line_number": 589,
-        "snippet": "GrgGt"
-      },
-      {
-        "line_number": 596,
         "snippet": "JohnChr"
       },
       {
-        "line_number": 668,
+        "line_number": 664,
+        "snippet": "SymNew"
+      },
+      {
+        "line_number": 690,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 701,
+        "line_number": 699,
+        "snippet": "GrgGt"
+      },
+      {
+        "line_number": 706,
         "snippet": "JohnChr"
       },
       {
-        "line_number": 710,
+        "line_number": 778,
+        "snippet": "GrgGt"
+      },
+      {
+        "line_number": 811,
+        "snippet": "JohnChr"
+      },
+      {
+        "line_number": 820,
         "snippet": "GrgNa"
       },
       {
-        "line_number": 717,
+        "line_number": 827,
         "snippet": "JohnChr"
       },
       {
-        "line_number": 721,
+        "line_number": 831,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 726,
+        "line_number": 836,
         "snippet": "JohnChr"
       },
       {
-        "line_number": 737,
+        "line_number": 847,
         "snippet": "BasilG"
       },
       {
-        "line_number": 783,
+        "line_number": 893,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 834,
+        "line_number": 944,
         "snippet": "JohnCas"
       },
       {
-        "line_number": 839,
+        "line_number": 949,
         "snippet": "GrgNa"
       },
       {
-        "line_number": 877,
+        "line_number": 987,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 932,
+        "line_number": 1042,
         "snippet": "CyrJer"
       },
       {
-        "line_number": 937,
+        "line_number": 1047,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 948,
+        "line_number": 1058,
         "snippet": "IsaacS"
       },
       {
-        "line_number": 968,
+        "line_number": 1078,
         "snippet": "GrgGt"
       }
     ]

@@ -2,7 +2,7 @@
   "book_code": "JAS",
   "position": 69,
   "testament": "NT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/JAS_footnotes.md",
@@ -11,7 +11,7 @@
     "structural_clean": true,
     "marker_alignment_pass": true,
     "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
@@ -66,8 +66,14 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 2,
+      "matched_entities_count": 3,
       "matched_entities": [
+        {
+          "line_number": 183,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "IgnAnt",
+          "context": "you must be their guardian\" (IgnAnt). (3) Moral purity in thought and deed: A"
+        },
         {
           "line_number": 249,
           "entity": "MAXIMUS_CONFESSOR",
@@ -82,17 +88,16 @@
         }
       ],
       "entity_counts": {
+        "IGNATIUS_ANTIOCH": 1,
         "MAXIMUS_CONFESSOR": 2
       },
-      "unresolved_candidates_count": 1,
-      "unresolved_candidates": [
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
         {
           "line_number": 183,
-          "token": "IgnAnt",
-          "context": "you must be their guardian\" (IgnAnt). (3) Moral purity in thought and deed: A"
-        }
-      ],
-      "explicit_citation_snippets": [
+          "snippet": "IgnAnt"
+        },
         {
           "line_number": 249,
           "snippet": "MaxCon"
@@ -196,8 +201,14 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 2,
+    "matched_entities_count": 3,
     "matched_entities": [
+      {
+        "line_number": 183,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "IgnAnt",
+        "context": "you must be their guardian\" (IgnAnt). (3) Moral purity in thought and deed: A"
+      },
       {
         "line_number": 249,
         "entity": "MAXIMUS_CONFESSOR",
@@ -212,17 +223,16 @@
       }
     ],
     "entity_counts": {
+      "IGNATIUS_ANTIOCH": 1,
       "MAXIMUS_CONFESSOR": 2
     },
-    "unresolved_candidates_count": 1,
-    "unresolved_candidates": [
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
       {
         "line_number": 183,
-        "token": "IgnAnt",
-        "context": "you must be their guardian\" (IgnAnt). (3) Moral purity in thought and deed: A"
-      }
-    ],
-    "explicit_citation_snippets": [
+        "snippet": "IgnAnt"
+      },
       {
         "line_number": 249,
         "snippet": "MaxCon"

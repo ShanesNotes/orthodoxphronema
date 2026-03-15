@@ -2,31 +2,30 @@
   "book_code": "REV",
   "position": 76,
   "testament": "NT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/REV_footnotes.md",
   "component_status": {
-    "mechanical_clean": false,
+    "mechanical_clean": true,
     "structural_clean": true,
     "marker_alignment_pass": true,
     "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
   "mechanical": {
     "tool_status": "ok",
     "summary": {
-      "total_findings": 488,
-      "auto_fixable": 3,
+      "total_findings": 485,
+      "auto_fixable": 0,
       "review_needed": 485,
       "files_checked": 1,
       "lines_checked": 1411,
-      "lines_fixed": 1
+      "lines_fixed": 0
     },
     "by_category": {
-      "P2": 3,
       "P4": 3,
       "P6": 446,
       "P7": 36
@@ -104,7 +103,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 31,
+      "matched_entities_count": 59,
       "matched_entities": [
         {
           "line_number": 69,
@@ -119,10 +118,106 @@
           "context": "Basil). This priestly ministry is to offer the world back to God in a sacrifice of praise and"
         },
         {
+          "line_number": 167,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "St. Ignatius of Antioch",
+          "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
+        },
+        {
+          "line_number": 167,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "Ignatius of Antioch",
+          "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
+        },
+        {
+          "line_number": 167,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "St. Ignatius",
+          "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
+        },
+        {
+          "line_number": 167,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "Ignatius",
+          "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
+        },
+        {
           "line_number": 207,
           "entity": "STEPHEN_PROTOMARTYR",
           "matched_alias": "Stephen",
           "context": "Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially"
+        },
+        {
+          "line_number": 351,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "Ignatius of Antioch",
+          "context": "Ignatius of Antioch praised the Ephesians for their continuing resistance to heresy. The"
+        },
+        {
+          "line_number": 351,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "Ignatius",
+          "context": "Ignatius of Antioch praised the Ephesians for their continuing resistance to heresy. The"
+        },
+        {
+          "line_number": 403,
+          "entity": "POLYCARP_SMYRNA",
+          "matched_alias": "St. Polycarp",
+          "context": "actively opposed Christianity there. St. Polycarp, bishop of Smyrna, was one of the first of"
+        },
+        {
+          "line_number": 403,
+          "entity": "POLYCARP_SMYRNA",
+          "matched_alias": "Polycarp",
+          "context": "actively opposed Christianity there. St. Polycarp, bishop of Smyrna, was one of the first of"
+        },
+        {
+          "line_number": 407,
+          "entity": "POLYCARP_SMYRNA",
+          "matched_alias": "Polycarp",
+          "context": "served Christ faithfully \"for 86 years.\" Polycarp was probably a youth in Smyrna when"
+        },
+        {
+          "line_number": 409,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "St. Ignatius of Antioch",
+          "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
+        },
+        {
+          "line_number": 409,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "Ignatius of Antioch",
+          "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
+        },
+        {
+          "line_number": 409,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "St. Ignatius",
+          "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
+        },
+        {
+          "line_number": 409,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "Ignatius",
+          "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
+        },
+        {
+          "line_number": 411,
+          "entity": "POLYCARP_SMYRNA",
+          "matched_alias": "Polycarp",
+          "context": "Smyrnans--and to Polycarp, as well."
+        },
+        {
+          "line_number": 591,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "St. Justin",
+          "context": "connection proposed by St. Justin. The earliest recorded interpreter of Revelation, St."
+        },
+        {
+          "line_number": 591,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "Justin",
+          "context": "connection proposed by St. Justin. The earliest recorded interpreter of Revelation, St."
         },
         {
           "line_number": 629,
@@ -137,10 +232,28 @@
           "context": "JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls"
         },
         {
+          "line_number": 643,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "St. Ignatius",
+          "context": "the City of David, the New Jerusalem (see [[EPH.1:22]]). St. Ignatius calls Christ the Door to"
+        },
+        {
+          "line_number": 643,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "Ignatius",
+          "context": "the City of David, the New Jerusalem (see [[EPH.1:22]]). St. Ignatius calls Christ the Door to"
+        },
+        {
           "line_number": 793,
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
           "context": "present, and future as one whole. St. John writes, as it were, from inside the eye of an"
+        },
+        {
+          "line_number": 881,
+          "entity": "SERAPHIM_SAROV",
+          "matched_alias": "Seraphim",
+          "context": "Their hymn, \"Holy, holy, holy,\" like that of Isaiah's seraphim (Is 6:3), praises God,"
         },
         {
           "line_number": 891,
@@ -161,15 +274,45 @@
           "context": "Divine Liturgies of Ss. John Chrysostom, Basil, and James refers to the perpetual thriceholy hymn of the \"cherubim and the seraphim,\" thus blending the visions of Ezekiel,"
         },
         {
+          "line_number": 893,
+          "entity": "SERAPHIM_SAROV",
+          "matched_alias": "Seraphim",
+          "context": "Divine Liturgies of Ss. John Chrysostom, Basil, and James refers to the perpetual thriceholy hymn of the \"cherubim and the seraphim,\" thus blending the visions of Ezekiel,"
+        },
+        {
           "line_number": 895,
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
           "context": "Isaiah, and St. John, and underscoring that the Divine Liturgy on earth is one with the"
         },
         {
+          "line_number": 965,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "St. Ignatius",
+          "context": "creatures, and the elders. St. Ignatius refers to the bishop standing at the center of his"
+        },
+        {
+          "line_number": 965,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "Ignatius",
+          "context": "creatures, and the elders. St. Ignatius refers to the bishop standing at the center of his"
+        },
+        {
           "line_number": 1421,
           "entity": "IRENAEUS",
           "matched_alias": "Irenaeus",
+          "context": "such as Justin Martyr and Irenaeus also connected idol worship with the worship of"
+        },
+        {
+          "line_number": 1421,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "Justin Martyr",
+          "context": "such as Justin Martyr and Irenaeus also connected idol worship with the worship of"
+        },
+        {
+          "line_number": 1421,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "Justin",
           "context": "such as Justin Martyr and Irenaeus also connected idol worship with the worship of"
         },
         {
@@ -227,10 +370,28 @@
           "context": "regarding the ascensions of Enoch, Elijah, and Moses (see, as well, the dry bones of Ezk"
         },
         {
+          "line_number": 1709,
+          "entity": "MICHAEL_ARCHANGEL",
+          "matched_alias": "Michael",
+          "context": "of the Church. The war with Michael and the good angels is usually interpreted to"
+        },
+        {
           "line_number": 1729,
           "entity": "JOSEPH_BETROTHED",
           "matched_alias": "Joseph",
           "context": "of the angel who told Joseph to run into Egypt. Likewise, Satan hates Christ and the"
+        },
+        {
+          "line_number": 1799,
+          "entity": "MICHAEL_ARCHANGEL",
+          "matched_alias": "Michael the Archangel",
+          "context": "beast?\" is an allusion to Michael the Archangel, whose name means \"Who is like God?\""
+        },
+        {
+          "line_number": 1799,
+          "entity": "MICHAEL_ARCHANGEL",
+          "matched_alias": "Michael",
+          "context": "beast?\" is an allusion to Michael the Archangel, whose name means \"Who is like God?\""
         },
         {
           "line_number": 1881,
@@ -248,6 +409,12 @@
           "line_number": 1881,
           "entity": "EUSEBIUS",
           "matched_alias": "Eusebius",
+          "context": "sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus"
+        },
+        {
+          "line_number": 1881,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "Justin",
           "context": "sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus"
         },
         {
@@ -300,46 +467,20 @@
         "ELIJAH_PROPHET": 9,
         "EUSEBIUS": 1,
         "GREGORY_NYSSA": 1,
+        "IGNATIUS_ANTIOCH": 14,
         "IRENAEUS": 4,
         "JOHN_CHRYSOSTOM": 2,
         "JOHN_FORERUNNER": 1,
         "JOHN_THEOLOGIAN": 4,
         "JOSEPH_BETROTHED": 1,
+        "JUSTIN_MARTYR": 5,
+        "MICHAEL_ARCHANGEL": 3,
+        "POLYCARP_SMYRNA": 4,
+        "SERAPHIM_SAROV": 2,
         "STEPHEN_PROTOMARTYR": 2
       },
-      "unresolved_candidates_count": 6,
-      "unresolved_candidates": [
-        {
-          "line_number": 167,
-          "token": "St. Ignatius",
-          "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
-        },
-        {
-          "line_number": 403,
-          "token": "St. Polycarp",
-          "context": "actively opposed Christianity there. St. Polycarp, bishop of Smyrna, was one of the first of"
-        },
-        {
-          "line_number": 409,
-          "token": "St. Ignatius",
-          "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
-        },
-        {
-          "line_number": 591,
-          "token": "St. Justin",
-          "context": "connection proposed by St. Justin. The earliest recorded interpreter of Revelation, St."
-        },
-        {
-          "line_number": 643,
-          "token": "St. Ignatius",
-          "context": "the City of David, the New Jerusalem (see [[EPH.1:22]]). St. Ignatius calls Christ the Door to"
-        },
-        {
-          "line_number": 965,
-          "token": "St. Ignatius",
-          "context": "creatures, and the elders. St. Ignatius refers to the bishop standing at the center of his"
-        }
-      ],
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
       "explicit_citation_snippets": []
     },
     "apostolic": {
@@ -413,7 +554,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 31,
+    "matched_entities_count": 59,
     "matched_entities": [
       {
         "line_number": 69,
@@ -428,10 +569,106 @@
         "context": "Basil). This priestly ministry is to offer the world back to God in a sacrifice of praise and"
       },
       {
+        "line_number": 167,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "St. Ignatius of Antioch",
+        "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
+      },
+      {
+        "line_number": 167,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "Ignatius of Antioch",
+        "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
+      },
+      {
+        "line_number": 167,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "St. Ignatius",
+        "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
+      },
+      {
+        "line_number": 167,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "Ignatius",
+        "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
+      },
+      {
         "line_number": 207,
         "entity": "STEPHEN_PROTOMARTYR",
         "matched_alias": "Stephen",
         "context": "Stephen at his martyrdom, [[ACT.7:56]]). Christ called Himself Son of Man (see especially"
+      },
+      {
+        "line_number": 351,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "Ignatius of Antioch",
+        "context": "Ignatius of Antioch praised the Ephesians for their continuing resistance to heresy. The"
+      },
+      {
+        "line_number": 351,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "Ignatius",
+        "context": "Ignatius of Antioch praised the Ephesians for their continuing resistance to heresy. The"
+      },
+      {
+        "line_number": 403,
+        "entity": "POLYCARP_SMYRNA",
+        "matched_alias": "St. Polycarp",
+        "context": "actively opposed Christianity there. St. Polycarp, bishop of Smyrna, was one of the first of"
+      },
+      {
+        "line_number": 403,
+        "entity": "POLYCARP_SMYRNA",
+        "matched_alias": "Polycarp",
+        "context": "actively opposed Christianity there. St. Polycarp, bishop of Smyrna, was one of the first of"
+      },
+      {
+        "line_number": 407,
+        "entity": "POLYCARP_SMYRNA",
+        "matched_alias": "Polycarp",
+        "context": "served Christ faithfully \"for 86 years.\" Polycarp was probably a youth in Smyrna when"
+      },
+      {
+        "line_number": 409,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "St. Ignatius of Antioch",
+        "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
+      },
+      {
+        "line_number": 409,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "Ignatius of Antioch",
+        "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
+      },
+      {
+        "line_number": 409,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "St. Ignatius",
+        "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
+      },
+      {
+        "line_number": 409,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "Ignatius",
+        "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
+      },
+      {
+        "line_number": 411,
+        "entity": "POLYCARP_SMYRNA",
+        "matched_alias": "Polycarp",
+        "context": "Smyrnans--and to Polycarp, as well."
+      },
+      {
+        "line_number": 591,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "St. Justin",
+        "context": "connection proposed by St. Justin. The earliest recorded interpreter of Revelation, St."
+      },
+      {
+        "line_number": 591,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "Justin",
+        "context": "connection proposed by St. Justin. The earliest recorded interpreter of Revelation, St."
       },
       {
         "line_number": 629,
@@ -446,10 +683,28 @@
         "context": "JohnChr and GrgNy). The Son speaks of His Father and His angels but He also calls"
       },
       {
+        "line_number": 643,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "St. Ignatius",
+        "context": "the City of David, the New Jerusalem (see [[EPH.1:22]]). St. Ignatius calls Christ the Door to"
+      },
+      {
+        "line_number": 643,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "Ignatius",
+        "context": "the City of David, the New Jerusalem (see [[EPH.1:22]]). St. Ignatius calls Christ the Door to"
+      },
+      {
         "line_number": 793,
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
         "context": "present, and future as one whole. St. John writes, as it were, from inside the eye of an"
+      },
+      {
+        "line_number": 881,
+        "entity": "SERAPHIM_SAROV",
+        "matched_alias": "Seraphim",
+        "context": "Their hymn, \"Holy, holy, holy,\" like that of Isaiah's seraphim (Is 6:3), praises God,"
       },
       {
         "line_number": 891,
@@ -470,15 +725,45 @@
         "context": "Divine Liturgies of Ss. John Chrysostom, Basil, and James refers to the perpetual thriceholy hymn of the \"cherubim and the seraphim,\" thus blending the visions of Ezekiel,"
       },
       {
+        "line_number": 893,
+        "entity": "SERAPHIM_SAROV",
+        "matched_alias": "Seraphim",
+        "context": "Divine Liturgies of Ss. John Chrysostom, Basil, and James refers to the perpetual thriceholy hymn of the \"cherubim and the seraphim,\" thus blending the visions of Ezekiel,"
+      },
+      {
         "line_number": 895,
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
         "context": "Isaiah, and St. John, and underscoring that the Divine Liturgy on earth is one with the"
       },
       {
+        "line_number": 965,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "St. Ignatius",
+        "context": "creatures, and the elders. St. Ignatius refers to the bishop standing at the center of his"
+      },
+      {
+        "line_number": 965,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "Ignatius",
+        "context": "creatures, and the elders. St. Ignatius refers to the bishop standing at the center of his"
+      },
+      {
         "line_number": 1421,
         "entity": "IRENAEUS",
         "matched_alias": "Irenaeus",
+        "context": "such as Justin Martyr and Irenaeus also connected idol worship with the worship of"
+      },
+      {
+        "line_number": 1421,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "Justin Martyr",
+        "context": "such as Justin Martyr and Irenaeus also connected idol worship with the worship of"
+      },
+      {
+        "line_number": 1421,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "Justin",
         "context": "such as Justin Martyr and Irenaeus also connected idol worship with the worship of"
       },
       {
@@ -536,10 +821,28 @@
         "context": "regarding the ascensions of Enoch, Elijah, and Moses (see, as well, the dry bones of Ezk"
       },
       {
+        "line_number": 1709,
+        "entity": "MICHAEL_ARCHANGEL",
+        "matched_alias": "Michael",
+        "context": "of the Church. The war with Michael and the good angels is usually interpreted to"
+      },
+      {
         "line_number": 1729,
         "entity": "JOSEPH_BETROTHED",
         "matched_alias": "Joseph",
         "context": "of the angel who told Joseph to run into Egypt. Likewise, Satan hates Christ and the"
+      },
+      {
+        "line_number": 1799,
+        "entity": "MICHAEL_ARCHANGEL",
+        "matched_alias": "Michael the Archangel",
+        "context": "beast?\" is an allusion to Michael the Archangel, whose name means \"Who is like God?\""
+      },
+      {
+        "line_number": 1799,
+        "entity": "MICHAEL_ARCHANGEL",
+        "matched_alias": "Michael",
+        "context": "beast?\" is an allusion to Michael the Archangel, whose name means \"Who is like God?\""
       },
       {
         "line_number": 1881,
@@ -557,6 +860,12 @@
         "line_number": 1881,
         "entity": "EUSEBIUS",
         "matched_alias": "Eusebius",
+        "context": "sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus"
+      },
+      {
+        "line_number": 1881,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "Justin",
         "context": "sorcery. Irenaeus, Clement, Justin, and Eusebius note that the sorcerer Simon Magus"
       },
       {
@@ -609,46 +918,20 @@
       "ELIJAH_PROPHET": 9,
       "EUSEBIUS": 1,
       "GREGORY_NYSSA": 1,
+      "IGNATIUS_ANTIOCH": 14,
       "IRENAEUS": 4,
       "JOHN_CHRYSOSTOM": 2,
       "JOHN_FORERUNNER": 1,
       "JOHN_THEOLOGIAN": 4,
       "JOSEPH_BETROTHED": 1,
+      "JUSTIN_MARTYR": 5,
+      "MICHAEL_ARCHANGEL": 3,
+      "POLYCARP_SMYRNA": 4,
+      "SERAPHIM_SAROV": 2,
       "STEPHEN_PROTOMARTYR": 2
     },
-    "unresolved_candidates_count": 6,
-    "unresolved_candidates": [
-      {
-        "line_number": 167,
-        "token": "St. Ignatius",
-        "context": "and St. Ignatius of Antioch show this name was used very early for the day when"
-      },
-      {
-        "line_number": 403,
-        "token": "St. Polycarp",
-        "context": "actively opposed Christianity there. St. Polycarp, bishop of Smyrna, was one of the first of"
-      },
-      {
-        "line_number": 409,
-        "token": "St. Ignatius",
-        "context": "John addressed the letter to the church there. St. Ignatius of Antioch also wrote to the"
-      },
-      {
-        "line_number": 591,
-        "token": "St. Justin",
-        "context": "connection proposed by St. Justin. The earliest recorded interpreter of Revelation, St."
-      },
-      {
-        "line_number": 643,
-        "token": "St. Ignatius",
-        "context": "the City of David, the New Jerusalem (see [[EPH.1:22]]). St. Ignatius calls Christ the Door to"
-      },
-      {
-        "line_number": 965,
-        "token": "St. Ignatius",
-        "context": "creatures, and the elders. St. Ignatius refers to the bishop standing at the center of his"
-      }
-    ],
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
     "explicit_citation_snippets": []
   }
 }

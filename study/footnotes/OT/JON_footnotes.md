@@ -46,9 +46,12 @@ Hold means literally "belly," as it is translated in 2:1, 3 (see note at 2:3).
 
 In Jonah's weaknesses we see our own fallen humanity, but as he turns towards God, we begin to see a figure of Christ emerge. To be called by His name, we must first become
 
-His servant. 1:5-11 Christ and His disciples had a very similar experience on a boat in a storm (see text
+His servant.
 
-and note at [[MAT.8:24]]-26). 
+### 1:5-11
+*(anchor: JON.1:5)*
+
+Christ and His disciples had a very similar experience on a boat in a storm (see text and note at [[MAT.8:24]]-26).
 
 ### 1:14-16
 *(anchor: JON.1:14)*

@@ -7,7 +7,7 @@
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/NEH_footnotes.md",
   "component_status": {
-    "mechanical_clean": false,
+    "mechanical_clean": true,
     "structural_clean": true,
     "marker_alignment_pass": false,
     "wikilinks_verified": true,
@@ -18,15 +18,14 @@
   "mechanical": {
     "tool_status": "ok",
     "summary": {
-      "total_findings": 72,
-      "auto_fixable": 3,
+      "total_findings": 69,
+      "auto_fixable": 0,
       "review_needed": 69,
       "files_checked": 1,
       "lines_checked": 177,
-      "lines_fixed": 1
+      "lines_fixed": 0
     },
     "by_category": {
-      "P2": 3,
       "P6": 65,
       "P7": 4
     }

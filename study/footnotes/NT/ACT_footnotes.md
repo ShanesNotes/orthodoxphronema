@@ -1900,9 +1900,7 @@ heaven (see v. 35).
 ### 19:29
 *(anchor: ACT.19:29)*
 
-Gaius, from Asia Minor (20:4) is perhaps the same person mentioned in Rom
-
-16:23 and [[1CO.1:14]]. Aristarchus is a Thessalonian (20:4; [[COL.4:10]]).
+Gaius, from Asia Minor (20:4) is perhaps the same person mentioned in Rom 16:23 and [[1CO.1:14]]. Aristarchus is a Thessalonian (20:4; [[COL.4:10]]).
 
 
 ### 19:33-34

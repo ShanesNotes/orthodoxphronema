@@ -72,9 +72,24 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 0,
-      "matched_entities": [],
-      "entity_counts": {},
+      "matched_entities_count": 2,
+      "matched_entities": [
+        {
+          "line_number": 97,
+          "entity": "MICHAEL_ARCHANGEL",
+          "matched_alias": "Archangel Michael",
+          "context": "accusations against God's enemies: Let God judge. The archangel Michael showed this"
+        },
+        {
+          "line_number": 97,
+          "entity": "MICHAEL_ARCHANGEL",
+          "matched_alias": "Michael",
+          "context": "accusations against God's enemies: Let God judge. The archangel Michael showed this"
+        }
+      ],
+      "entity_counts": {
+        "MICHAEL_ARCHANGEL": 2
+      },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
       "explicit_citation_snippets": []
@@ -130,9 +145,24 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 0,
-    "matched_entities": [],
-    "entity_counts": {},
+    "matched_entities_count": 2,
+    "matched_entities": [
+      {
+        "line_number": 97,
+        "entity": "MICHAEL_ARCHANGEL",
+        "matched_alias": "Archangel Michael",
+        "context": "accusations against God's enemies: Let God judge. The archangel Michael showed this"
+      },
+      {
+        "line_number": 97,
+        "entity": "MICHAEL_ARCHANGEL",
+        "matched_alias": "Michael",
+        "context": "accusations against God's enemies: Let God judge. The archangel Michael showed this"
+      }
+    ],
+    "entity_counts": {
+      "MICHAEL_ARCHANGEL": 2
+    },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],
     "explicit_citation_snippets": []

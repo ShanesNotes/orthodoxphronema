@@ -33,15 +33,12 @@ amber in the fire, God is made man in persecution."
 
 Ezekiel identifies the four living creatures as cherubim (10:9-16), the guardians
 
-of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see Rev
+of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see Rev 4:6-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in
 
+the spirit (vv. 12, 20) illustrates the spread of the gospel.
 
-### 4:6
-*(anchor: EZK.4:6)*
-
--9), they are seen by the Fathers to typify the Four Evangelists, while their unity in
-
-the spirit (vv. 12, 20) illustrates the spread of the gospel. 1:10
+### 1:10
+*(anchor: EZK.1:10)*
 
 St. Gregory the Great comments that the man is Matthew, because he begins his
 
@@ -55,35 +52,64 @@ also sees in them types of Christ, who became a man in the Incarnation, an ox on
 
 Cross, a lion in the Resurrection, and an eagle in the Ascension. Finally, says Gregory, they symbolize "every one of the elect, who are perfect in the way of God," whose virtues
 
-are reason, self-sacrifice, fortitude, and contemplation of heavenly things. 1:13
+are reason, self-sacrifice, fortitude, and contemplation of heavenly things.
 
-The burning coals (v. 13), writes St. Gregory, are "holy men" (see Is 6:6 and note). The lamps signify the light of the gospel (see [[JDG.7:16]]). 1:14-21 The wheels signify Holy Scripture, and the wheel within a wheel illustrates that
+### 1:13
+*(anchor: EZK.1:13)*
 
-"the New Testament lay hidden by allegory in the letter of the Old Testament" (GrgGt). 1:22
+The burning coals (v. 13), writes St. Gregory, are "holy men" (see Is 6:6 and note). The lamps signify the light of the gospel (see [[JDG.7:16]]).
 
-St. Gregory sees in the wings an image of the virtues of the righteous. 1:25
+### 1:14-21
+*(anchor: EZK.1:14)*
+
+The wheels signify Holy Scripture, and the wheel within a wheel illustrates that
+
+"the New Testament lay hidden by allegory in the letter of the Old Testament" (GrgGt).
+
+### 1:22
+*(anchor: EZK.1:22)*
+
+St. Gregory sees in the wings an image of the virtues of the righteous.
+
+### 1:25
+*(anchor: EZK.1:25)*
 
 The man on the sapphire... throne prefigures the Incarnation of the Son of God
 
-from the Virgin Mary. 1:27 The rainbow images the new covenant (see [[GEN.9:13]]-15). 2:9, 10 The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; Lk
+from the Virgin Mary.
 
+### 1:27
+*(anchor: EZK.1:27)*
 
-### 24:25
-*(anchor: EZK.24:25)*
+The rainbow images the new covenant (see [[GEN.9:13]]-15).
 
-). Scripture "is written within by allegory, and without by history; within through
+### 2:9-10
+*(anchor: EZK.2:9)*
+
+The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; Lk 24:25). Scripture "is written within by allegory, and without by history; within through
 
 spiritual understanding, but without through the plain sense of the letter still befitting
 
 the weak" (GrgGt). Lamentation and mourning indicate repentance, while woe
 
-points to the Final Judgment ([[LUK.6:25]]). 3:1-3
+points to the Final Judgment ([[LUK.6:25]]).
+
+### 3:1-3
+*(anchor: EZK.3:1)*
 
 For the faithful, the taste of Christ the Word in our mouth is even sweeter than
 
-honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11). 3:6
+honey (see [[PSA.18:10]]; 118:103; [[JER.15:16]]; [[ZEC.5:1]]-4; [[REV.10:8]]-11).
 
-Israel rejected Christ, but the Gentiles received Him ([[LUK.11:29]]-33). 3:13 The gospel spread first by preaching the sound, and later by the Holy Scriptures (the
+### 3:6
+*(anchor: EZK.3:6)*
+
+Israel rejected Christ, but the Gentiles received Him ([[LUK.11:29]]-33).
+
+### 3:13
+*(anchor: EZK.3:13)*
+
+The gospel spread first by preaching the sound, and later by the Holy Scriptures (the
 
 wheels). 3:15
 
@@ -113,7 +139,12 @@ prophet, was put in prison ([[MRK.1:14]]); and his father, Zacharias, had his to
 
 St. Gregory the Great comments that the Prophet is called son of man so that when
 
-he is exalted, he might remember his fallen state. 4:4-11 Ezekiel lying bound on his side images the death of Christ, the Lamb of God, who
+he is exalted, he might remember his fallen state.
+
+### 4:4-11
+*(anchor: EZK.4:4)*
+
+Ezekiel lying bound on his side images the death of Christ, the Lamb of God, who
 
 bore the acts of unrighteousness of all humanity. 4:12-17
 
@@ -131,13 +162,26 @@ The hair and its destruction by fire, sword, and wind all point ultimately to th
 
 final judgment (compare [[JOB.1:13]]-22; Is 7:20). The hair sewn into the garment
 
-illustrates the faithful remnant who have bound themselves to Christ. 5:5-6 Jerusalem is the Church, which was indeed put... in the midst of the nations
+illustrates the faithful remnant who have bound themselves to Christ.
 
-that she shall speak the gospel of truth. 5:7
+### 5:5-6
+*(anchor: EZK.5:5)*
+
+Jerusalem is the Church, which was indeed put... in the midst of the nations
+
+that she shall speak the gospel of truth.
+
+### 5:7
+*(anchor: EZK.5:7)*
 
 Even the nations that did not know God had ordinances. This verse points to the
 
-presence of the natural law, or free will, in man. See [[ROM.2:14]], [[ROM.2:15]]. 6:1-3 The final fulfillment of this judgment was carried out in the Incarnation, when Christ
+presence of the natural law, or free will, in man. See [[ROM.2:14]], [[ROM.2:15]].
+
+### 6:1-3
+*(anchor: EZK.6:1)*
+
+The final fulfillment of this judgment was carried out in the Incarnation, when Christ
 
 came to wield the sword of the Spirit against all idolatry. 7:1-6
 
@@ -169,7 +213,15 @@ The brightness of the Lord's glory refers to His uncreated energies, in which He
 
 reveals Himself. These Old Testament theophanies (see Ex 40:34; 3Kg 8:11) are fulfilled
 
-and perfected in the glory of the divinity of Christ ([[JOH.1:14]]). 10:8-17 See ch. 1 and notes. 10:13
+and perfected in the glory of the divinity of Christ ([[JOH.1:14]]).
+
+### 10:8-17
+*(anchor: EZK.10:8)*
+
+See ch. 1 and notes.
+
+### 10:13
+*(anchor: EZK.10:13)*
 
 Wheel translates the word Gelgel, used in the LXX as a proper noun, a
 
@@ -191,27 +243,55 @@ on the spot (v. 13). Ananias and Sapphira met a similar fate in the New Testamen
 
 5:10). The apostle Philip was transported in a similar way, but this time his audience, a
 
-Gentile eunuch, listened and was converted ([[ACT.8:26]]-39). 11:17-25 I will give them the land: This prophecy is being fulfilled in the New Israel, which is the Church, composed of both believing Jews and Gentiles (the nations). 12:1-3
+Gentile eunuch, listened and was converted ([[ACT.8:26]]-39).
+
+### 11:17-25
+*(anchor: EZK.11:17)*
+
+I will give them the land: This prophecy is being fulfilled in the New Israel, which is the Church, composed of both believing Jews and Gentiles (the nations).
+
+### 12:1-3
+*(anchor: EZK.12:1)*
 
 Jerusalem was destroyed and its inhabitants taken into captivity in 586 BC, about six years after this prophecy was given. 12:12
 
 The ruler is Zedekiah, who ruled from 598-587. He fled Jerusalem by night
 
-through a break in the city wall; then he was taken captive and his eyes put out (see 4Kg
+through a break in the city wall; then he was taken captive and his eyes put out (see 4Kg 25:7 and note).
 
+### 12:18-19
+*(anchor: EZK.12:18)*
 
-### 25:7
-*(anchor: EZK.25:7)*
+Compare to [[GEN.3:17]]-19.
 
-and note). 12:18-19 Compare to [[GEN.3:17]]-19. 12:21-28 Christ echoes this passage in His parable of the good steward ([[LUK.12:42]]-48). 12:25
+### 12:21-28
+*(anchor: EZK.12:21)*
 
-I, the Lord, shall speak My words points to Christ, the logos of God. 13:1-3 Israel's false prophets in reality see nothing at all. 13:4-5
+Christ echoes this passage in His parable of the good steward ([[LUK.12:42]]-48).
+
+### 12:25
+*(anchor: EZK.12:25)*
+
+I, the Lord, shall speak My words points to Christ, the logos of God.
+
+### 13:1-3
+*(anchor: EZK.13:1)*
+
+Israel's false prophets in reality see nothing at all.
+
+### 13:4-5
+*(anchor: EZK.13:4)*
 
 Self-appointed prophets have no firm foundation of truth, but run after "every
 
 wind of doctrine" ([[EPH.4:14]]). True prophets discern when a message is from God and not
 
-"from their hearts" (v. 3). 13:10-11 Christ condemns the Pharisees with similar language, calling them "whitewashed
+"from their hearts" (v. 3).
+
+### 13:10-11
+*(anchor: EZK.13:10)*
+
+Christ condemns the Pharisees with similar language, calling them "whitewashed
 
 tombs" ([[MAT.23:27]]), while Paul calls the high priest Ananias a "whitewashed wall" (Acts
 
@@ -235,9 +315,24 @@ replaced when Christ, the "true vine," came (see [[JOH.15:1]]-6). The branches i
 
 typify the Gentile nations from which believers will be "grafted into" the vine (see Rom
 
-11:17-25). 16:4-10 A moving account of God's mercy upon a people stricken with perversity of... soul (v. 5). Water, oil, and fine linen are Old Testament images pointing to baptism. 16:44-46 Like mother, like daughter! A sobering parable of how ungodly parents beget
+11:17-25).
 
-lawless children. 16:59-63 Though we have dishonored God, still He will remember us when we turn to
+### 16:4-10
+*(anchor: EZK.16:4)*
+
+A moving account of God's mercy upon a people stricken with perversity of... soul (v. 5). Water, oil, and fine linen are Old Testament images pointing to baptism.
+
+### 16:44-46
+*(anchor: EZK.16:44)*
+
+Like mother, like daughter! A sobering parable of how ungodly parents beget
+
+lawless children.
+
+### 16:59-63
+*(anchor: EZK.16:59)*
+
+Though we have dishonored God, still He will remember us when we turn to
 
 Him. This calls to mind the repentant thief who called out to Christ, "Remember me
 
@@ -249,15 +344,28 @@ Pharaoh. 17:22-24
 
 As the branches were planted on Israel's mountain, so the Gentile Church
 
-(the humble tree) grew out of earthly Israel (the high tree). 18:1-32 This chapter deals with our relationship with God. The soul who sins, he shall
+(the humble tree) grew out of earthly Israel (the high tree).
+
+### 18:1-32
+*(anchor: EZK.18:1)*
+
+This chapter deals with our relationship with God. The soul who sins, he shall
 
 die (v. 4): Each person is guilty only of his or her own sins. Man inherited death and a
 
 tendency to sin from Adam ([[ROM.5:12]]); but human nature, though stained by the fall, remains in the image of God (v. 19). A man may turn away from righteousness (v. 24), but he is also capable of seeking God's grace and experiencing a new heart and a new
 
-spirit (v. 31; see 11:17-25). 18:32
+spirit (v. 31; see 11:17-25).
 
-See [[1TI.2:4]]. 19:1-14 The mother lion refers to Judah. The two young lions (v. 5) are Jehoahaz and
+### 18:32
+*(anchor: EZK.18:32)*
+
+See [[1TI.2:4]].
+
+### 19:1-14
+*(anchor: EZK.19:1)*
+
+The mother lion refers to Judah. The two young lions (v. 5) are Jehoahaz and
 
 Jehoiachin, the last kings to reign in Judah ([[2KI.23:34]]; 24:12). The lamentation is
 
@@ -267,7 +375,15 @@ end. But the faithful Jews would have found renewed hope in this amazing prophec
 
 it had been promised long ago by their father Jacob that the rod of strength, the scepter
 
-(vv. 11, 14), would not depart from Judah until the Messiah came ([[GEN.49:9]]-12). 20:1-4 This is the introduction to a chapter that describes Israel's history of lawlessness. 20:29
+(vv. 11, 14), would not depart from Judah until the Messiah came ([[GEN.49:9]]-12).
+
+### 20:1-4
+*(anchor: EZK.20:1)*
+
+This is the introduction to a chapter that describes Israel's history of lawlessness.
+
+### 20:29
+*(anchor: EZK.20:29)*
 
 Bamah: There is a play on words here: abamah means "high place" in Hebrew; bema in Greek means the same. St. Jerome translates this as excelsum ("the exalted
 
@@ -309,7 +425,12 @@ provokes. 24:15-27
 
 Ezekiel's loss of his wife (v. 18) speaks of the passing away of Israel, whose
 
-husband was the Lord (Is 54:5). See 33:21-33 and note. 25:1-35 These chapters describe God's judgment on five Gentile nations: Ammon, Moab, Edom (all in modern-day Jordan); Tyre (Lebanon), and the Cretans (Crete). The gospel
+husband was the Lord (Is 54:5). See 33:21-33 and note.
+
+### 25:1-35
+*(anchor: EZK.25:1)*
+
+These chapters describe God's judgment on five Gentile nations: Ammon, Moab, Edom (all in modern-day Jordan); Tyre (Lebanon), and the Cretans (Crete). The gospel
 
 of Christ was later brought to these places, and the Church is present in these countries
 
@@ -629,9 +750,7 @@ cycle of seven days; who feed on inward contemplation" (GrgGt).
 
 Here the vision concerns the heavenly altar (v. 46), imaged in the Divine
 
-Liturgy, where the saints offer their whole being to God in praise and worship. See Heb
-
-13:10-19 and notes. The court is the foursquare fullness of the Church, which operates
+Liturgy, where the saints offer their whole being to God in praise and worship. See Heb 13:10-19 and notes. The court is the foursquare fullness of the Church, which operates
 
 in faith, hope, charity, and good works. 
 
@@ -721,19 +840,18 @@ He measured the house all around: Compare [[REV.21:9]]-27.
 ### 43:1-12
 *(anchor: EZK.43:1)*
 
-The prophet was led... out from the east gate, the glory of the Lord entered, and then the gate was shut (44:1). According to the Fathers, this passage, together with
-
-
-### 44:1
-*(anchor: EZK.44:1)*
-
--5, foreshadows the Incarnation, when the Holy Spirit overshadowed the Virgin in
+The prophet was led... out from the east gate, the glory of the Lord entered, and then the gate was shut (44:1). According to the Fathers, this passage, together with 44:1-5, foreshadows the Incarnation, when the Holy Spirit overshadowed the Virgin in
 
 the Temple and the Son of God was conceived in her womb ([[LUK.1:26]]-38). The sound of
 
 many voices (v. 2) is echoed by the "multitude of the heavenly host" announcing the
 
-Advent of Christ to the shepherds ([[LUK.2:13]]). 43:13-17 The altar here, as well as the altar in the Church, images the heavenly altar. The
+Advent of Christ to the shepherds ([[LUK.2:13]]).
+
+### 43:13-17
+*(anchor: EZK.43:13)*
+
+The altar here, as well as the altar in the Church, images the heavenly altar. The
 
 altar is "the soul of the righteous man, which lays upon itself before His eyes as many
 
@@ -745,7 +863,12 @@ low down after the manner of a ditch?... Well, too, this same trench is directed
 
 one cubit, because, if patience fails not, the measure of unity is preserved" (GrgGt). The
 
-great mercy seat is clearly a type of Christ. 43:18-27 The Levites typify the clergy who serve at the altar in the Church (see [[NUM.8:5]]-
+great mercy seat is clearly a type of Christ.
+
+### 43:18-27
+*(anchor: EZK.43:18)*
+
+The Levites typify the clergy who serve at the altar in the Church (see [[NUM.8:5]]-
 
 25 and note). The burnt offerings point to Christ's sacrifice on the Cross for our
 

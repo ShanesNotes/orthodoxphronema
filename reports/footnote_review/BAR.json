@@ -8,7 +8,7 @@
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/BAR_footnotes.md",
   "component_status": {
     "mechanical_clean": true,
-    "structural_clean": false,
+    "structural_clean": true,
     "marker_alignment_pass": false,
     "wikilinks_verified": true,
     "patristic_entity_verified": true,
@@ -30,14 +30,8 @@
     }
   },
   "structure": {
-    "issue_count": 1,
-    "findings": [
-      {
-        "type": "midline_reference_spill",
-        "line_number": 162,
-        "raw_text": "This is a description of the Wisdom of God ([[1CO.1:24]]). 3:29-36 This is a description of the Wisdom of God ([[1CO.1:24]])."
-      }
-    ],
+    "issue_count": 0,
+    "findings": [],
     "truncated": false
   },
   "footnote_verification": {
@@ -109,17 +103,26 @@
     "issue_count": 44
   },
   "wikilinks": {
-    "total_refs": 34,
+    "total_refs": 33,
     "convertible_refs": 0,
-    "already_linked_refs": 34,
+    "already_linked_refs": 33,
     "unresolved_refs": 0,
     "unresolved_examples": []
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 0,
-      "matched_entities": [],
-      "entity_counts": {},
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "The LXX dates put this event at 581 BC, five years after the Chaldeans sacked"
+        }
+      ],
+      "entity_counts": {
+        "SEPTUAGINT": 1
+      },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
       "explicit_citation_snippets": []
@@ -157,9 +160,18 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 0,
-    "matched_entities": [],
-    "entity_counts": {},
+    "matched_entities_count": 1,
+    "matched_entities": [
+      {
+        "line_number": 15,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "The LXX dates put this event at 581 BC, five years after the Chaldeans sacked"
+      }
+    ],
+    "entity_counts": {
+      "SEPTUAGINT": 1
+    },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],
     "explicit_citation_snippets": []

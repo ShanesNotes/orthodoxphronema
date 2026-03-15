@@ -126,9 +126,18 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 0,
-      "matched_entities": [],
-      "entity_counts": {},
+      "matched_entities_count": 1,
+      "matched_entities": [
+        {
+          "line_number": 303,
+          "entity": "MICHAEL_ARCHANGEL",
+          "matched_alias": "Michael",
+          "context": "archangels. The names of four of them are revealed: Raphael, Gabriel ([[DAN.9:21]]; [[LUK.1:19]], [[LUK.1:26]]-38), Michael ([[DAN.10:21]]; Jude 9) and Uriel (2 Esdras 4:1)."
+        }
+      ],
+      "entity_counts": {
+        "MICHAEL_ARCHANGEL": 1
+      },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
       "explicit_citation_snippets": []
@@ -173,9 +182,18 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 0,
-    "matched_entities": [],
-    "entity_counts": {},
+    "matched_entities_count": 1,
+    "matched_entities": [
+      {
+        "line_number": 303,
+        "entity": "MICHAEL_ARCHANGEL",
+        "matched_alias": "Michael",
+        "context": "archangels. The names of four of them are revealed: Raphael, Gabriel ([[DAN.9:21]]; [[LUK.1:19]], [[LUK.1:26]]-38), Michael ([[DAN.10:21]]; Jude 9) and Uriel (2 Esdras 4:1)."
+      }
+    ],
+    "entity_counts": {
+      "MICHAEL_ARCHANGEL": 1
+    },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],
     "explicit_citation_snippets": []

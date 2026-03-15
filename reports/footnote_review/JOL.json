@@ -8,7 +8,7 @@
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/JOL_footnotes.md",
   "component_status": {
     "mechanical_clean": true,
-    "structural_clean": false,
+    "structural_clean": true,
     "marker_alignment_pass": false,
     "wikilinks_verified": true,
     "patristic_entity_verified": true,
@@ -18,42 +18,21 @@
   "mechanical": {
     "tool_status": "ok",
     "summary": {
-      "total_findings": 56,
+      "total_findings": 62,
       "auto_fixable": 0,
-      "review_needed": 56,
+      "review_needed": 62,
       "files_checked": 1,
-      "lines_checked": 183,
+      "lines_checked": 187,
       "lines_fixed": 0
     },
     "by_category": {
-      "P6": 54,
+      "P6": 60,
       "P7": 2
     }
   },
   "structure": {
-    "issue_count": 4,
-    "findings": [
-      {
-        "type": "midline_reference_spill",
-        "line_number": 266,
-        "raw_text": "altar have been united. Christ's death brings life to us. 2:17-18 These two verses form the center of the book. The passage summarizes all that has"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 303,
-        "raw_text": "are fulfilled ultimately in Christ, the sacramental life of the Church, and Pentecost. 2:22-24 The trees bear their fruit: In this verse Joel foreshadows the cross of Christ, the tree which bore the greatest fruit of all. The vine and the fig tree refer to the"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 341,
-        "raw_text": "exile in Babylon. The Hebrew version does not mention the exile. 4:2 The judgment of all nations can be understood in one or more of three different ways. It may, on the one hand, refer to the attempted siege of Jerusalem during the building of"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 385,
-        "raw_text": "evil in the nations (see [[REV.14:17]]-20). 4:16-17 The language used by Joel is reminiscent of descriptions of the last days found in"
-      }
-    ],
+    "issue_count": 0,
+    "findings": [],
     "truncated": false
   },
   "footnote_verification": {
@@ -125,8 +104,14 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 3,
+      "matched_entities_count": 4,
       "matched_entities": [
+        {
+          "line_number": 15,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "Cyril of Alexandria",
+          "context": "Cyril of Alexandria interprets ch. 1 as a prophecy of the coming of Christ, when the Jews"
+        },
         {
           "line_number": 37,
           "entity": "JEROME",
@@ -147,6 +132,7 @@
         }
       ],
       "entity_counts": {
+        "CYRIL_ALEXANDRIA": 1,
         "CYRIL_JERUSALEM": 1,
         "EPHRAIM_SYRIAN": 1,
         "JEROME": 1
@@ -159,7 +145,7 @@
       "matched_entities_count": 1,
       "matched_entities": [
         {
-          "line_number": 312,
+          "line_number": 314,
           "entity": "PETER_APOSTLE",
           "matched_alias": "Peter",
           "context": "When Peter quotes this verse, he changes after this to \"in the last days\" ([[ACT.2:17]]), one of several modest modifications of the verse. Peter's adaptation of Joel indicates that"
@@ -182,8 +168,14 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 3,
+    "matched_entities_count": 4,
     "matched_entities": [
+      {
+        "line_number": 15,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "Cyril of Alexandria",
+        "context": "Cyril of Alexandria interprets ch. 1 as a prophecy of the coming of Christ, when the Jews"
+      },
       {
         "line_number": 37,
         "entity": "JEROME",
@@ -204,6 +196,7 @@
       }
     ],
     "entity_counts": {
+      "CYRIL_ALEXANDRIA": 1,
       "CYRIL_JERUSALEM": 1,
       "EPHRAIM_SYRIAN": 1,
       "JEROME": 1

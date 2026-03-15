@@ -11,7 +11,7 @@
     "structural_clean": true,
     "marker_alignment_pass": false,
     "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
@@ -342,7 +342,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 84,
+      "matched_entities_count": 85,
       "matched_entities": [
         {
           "line_number": 20,
@@ -427,6 +427,12 @@
           "entity": "ATHANASIUS",
           "matched_alias": "AthanG",
           "context": "because He alone reveals the Father\" (AthanG). Thus, the Son also preached the gospel"
+        },
+        {
+          "line_number": 680,
+          "entity": "CYPRIAN_CARTHAGE",
+          "matched_alias": "CypC",
+          "context": "the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is"
         },
         {
           "line_number": 715,
@@ -853,6 +859,7 @@
         "AMBROSE_MILAN": 1,
         "ATHANASIUS": 31,
         "BASIL_GREAT": 2,
+        "CYPRIAN_CARTHAGE": 1,
         "EPHRAIM_SYRIAN": 2,
         "HILARY_POITIERS": 8,
         "JOHN_CASSIAN": 1,
@@ -860,14 +867,8 @@
         "JOHN_DAMASCENE": 3,
         "JOSEPH_BETROTHED": 35
       },
-      "unresolved_candidates_count": 1,
-      "unresolved_candidates": [
-        {
-          "line_number": 680,
-          "token": "CypC",
-          "context": "the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is"
-        }
-      ],
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
       "explicit_citation_snippets": [
         {
           "line_number": 31,
@@ -912,6 +913,10 @@
         {
           "line_number": 601,
           "snippet": "AthanG"
+        },
+        {
+          "line_number": 680,
+          "snippet": "CypC"
         },
         {
           "line_number": 715,
@@ -1408,7 +1413,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 84,
+    "matched_entities_count": 85,
     "matched_entities": [
       {
         "line_number": 20,
@@ -1493,6 +1498,12 @@
         "entity": "ATHANASIUS",
         "matched_alias": "AthanG",
         "context": "because He alone reveals the Father\" (AthanG). Thus, the Son also preached the gospel"
+      },
+      {
+        "line_number": 680,
+        "entity": "CYPRIAN_CARTHAGE",
+        "matched_alias": "CypC",
+        "context": "the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is"
       },
       {
         "line_number": 715,
@@ -1919,6 +1930,7 @@
       "AMBROSE_MILAN": 1,
       "ATHANASIUS": 31,
       "BASIL_GREAT": 2,
+      "CYPRIAN_CARTHAGE": 1,
       "EPHRAIM_SYRIAN": 2,
       "HILARY_POITIERS": 8,
       "JOHN_CASSIAN": 1,
@@ -1926,14 +1938,8 @@
       "JOHN_DAMASCENE": 3,
       "JOSEPH_BETROTHED": 35
     },
-    "unresolved_candidates_count": 1,
-    "unresolved_candidates": [
-      {
-        "line_number": 680,
-        "token": "CypC",
-        "context": "the bread and wine of the Eucharist (CypC). Christ's priesthood is called \"the order of Melchizedek\" ([[PSA.109:4]]; [[HEB.5:6]]), and it is"
-      }
-    ],
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
     "explicit_citation_snippets": [
       {
         "line_number": 31,
@@ -1978,6 +1984,10 @@
       {
         "line_number": 601,
         "snippet": "AthanG"
+      },
+      {
+        "line_number": 680,
+        "snippet": "CypC"
       },
       {
         "line_number": 715,

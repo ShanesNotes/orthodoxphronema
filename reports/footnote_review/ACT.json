@@ -8,10 +8,10 @@
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/ACT_footnotes.md",
   "component_status": {
     "mechanical_clean": true,
-    "structural_clean": false,
+    "structural_clean": true,
     "marker_alignment_pass": true,
-    "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "wikilinks_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
@@ -22,7 +22,7 @@
       "auto_fixable": 0,
       "review_needed": 185,
       "files_checked": 1,
-      "lines_checked": 1116,
+      "lines_checked": 1115,
       "lines_fixed": 0
     },
     "by_category": {
@@ -31,15 +31,8 @@
     }
   },
   "structure": {
-    "issue_count": 1,
-    "findings": [
-      {
-        "type": "broken_reference_split",
-        "line_number": 1905,
-        "raw_text": "16:23 and [[1CO.1:14]]. Aristarchus is a Thessalonian (20:4; [[COL.4:10]]).",
-        "previous_line_tail": "Gaius, from Asia Minor (20:4) is perhaps the same person mentioned in Rom"
-      }
-    ],
+    "issue_count": 0,
+    "findings": [],
     "truncated": false
   },
   "footnote_verification": {
@@ -65,8 +58,8 @@
     "issue_count": 0
   },
   "wikilinks": {
-    "total_refs": 110,
-    "convertible_refs": 0,
+    "total_refs": 111,
+    "convertible_refs": 1,
     "already_linked_refs": 110,
     "unresolved_refs": 1,
     "unresolved_examples": [
@@ -79,7 +72,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 46,
+      "matched_entities_count": 48,
       "matched_entities": [
         {
           "line_number": 141,
@@ -208,6 +201,18 @@
           "context": "the first time that men were accounted worthy of that name\" (JohnChr)."
         },
         {
+          "line_number": 1241,
+          "entity": "MARK_EVANGELIST",
+          "matched_alias": "Mark the Evangelist",
+          "context": "John whose surname was Mark is St. Mark the Evangelist, who would compose"
+        },
+        {
+          "line_number": 1241,
+          "entity": "MARK_EVANGELIST",
+          "matched_alias": "St. Mark",
+          "context": "John whose surname was Mark is St. Mark the Evangelist, who would compose"
+        },
+        {
           "line_number": 1329,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "Chrysostom",
@@ -274,85 +279,85 @@
           "context": "John Chrysostom emphasizes that this fact alone demonstrates God's hand was upon"
         },
         {
-          "line_number": 1959,
+          "line_number": 1957,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "St. John Chrysostom",
           "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
         },
         {
-          "line_number": 1959,
+          "line_number": 1957,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "Chrysostom",
           "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
         },
         {
-          "line_number": 1959,
+          "line_number": 1957,
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
           "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
         },
         {
-          "line_number": 2203,
+          "line_number": 2201,
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
           "context": "Romans (AD 70). Paul has thus far said nothing offensive to the Jews, and St. John"
         },
         {
-          "line_number": 2205,
+          "line_number": 2203,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "Chrysostom",
           "context": "Chrysostom calls the order to strike Paul \"shameless\" and without cause."
         },
         {
-          "line_number": 2233,
+          "line_number": 2231,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "St. John Chrysostom",
           "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
         },
         {
-          "line_number": 2233,
+          "line_number": 2231,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "Chrysostom",
           "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
         },
         {
-          "line_number": 2233,
+          "line_number": 2231,
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
           "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
         },
         {
-          "line_number": 2517,
+          "line_number": 2515,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "St. John Chrysostom",
           "context": "According to St. John Chrysostom, the destruction of the ship serves several"
         },
         {
-          "line_number": 2517,
+          "line_number": 2515,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "Chrysostom",
           "context": "According to St. John Chrysostom, the destruction of the ship serves several"
         },
         {
-          "line_number": 2517,
+          "line_number": 2515,
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
           "context": "According to St. John Chrysostom, the destruction of the ship serves several"
         },
         {
-          "line_number": 2555,
+          "line_number": 2553,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "St. John Chrysostom",
           "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
         },
         {
-          "line_number": 2555,
+          "line_number": 2553,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "Chrysostom",
           "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
         },
         {
-          "line_number": 2555,
+          "line_number": 2553,
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
           "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
@@ -364,17 +369,12 @@
         "JOHN_CHRYSOSTOM": 21,
         "JOHN_FORERUNNER": 2,
         "JOHN_THEOLOGIAN": 8,
+        "MARK_EVANGELIST": 2,
         "PHOTINI_SAMARITAN": 2,
         "STEPHEN_PROTOMARTYR": 8
       },
-      "unresolved_candidates_count": 1,
-      "unresolved_candidates": [
-        {
-          "line_number": 1241,
-          "token": "St. Mark",
-          "context": "John whose surname was Mark is St. Mark the Evangelist, who would compose"
-        }
-      ],
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
       "explicit_citation_snippets": [
         {
           "line_number": 725,
@@ -844,163 +844,163 @@
           "context": "exists, bringing both conversion and opposition. Note that Paul, a man without wealth or"
         },
         {
-          "line_number": 1927,
+          "line_number": 1925,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Paul never took missionary journeys alone, but always a team accompanied him"
         },
         {
-          "line_number": 1947,
+          "line_number": 1945,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "first part of the Liturgy focuses on the proclamation of the word, with Paul giving his"
         },
         {
-          "line_number": 1965,
+          "line_number": 1963,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Paul preach the gospel."
         },
         {
-          "line_number": 1977,
+          "line_number": 1975,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "That Paul desired to be with the other apostles in Jerusalem for Pentecost shows"
         },
         {
-          "line_number": 2003,
+          "line_number": 2001,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Paul reminds his hearers of the tears and trials he faced in Ephesus in order to"
         },
         {
-          "line_number": 2005,
+          "line_number": 2003,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "strengthen them for what is to come. Paul's persecutions in Ephesus (Asia Minor) were"
         },
         {
-          "line_number": 2013,
+          "line_number": 2011,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Innocent of the blood does not mean that Paul has no responsibility to others."
         },
         {
-          "line_number": 2043,
+          "line_number": 2041,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "St. Paul",
           "context": "While St. Paul teaches the clergy should be supported materially by the faithful"
         },
         {
-          "line_number": 2043,
+          "line_number": 2041,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "While St. Paul teaches the clergy should be supported materially by the faithful"
         },
         {
-          "line_number": 2047,
+          "line_number": 2045,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "This allowed Paul to preach all the more freely and took away any opportunity for others"
         },
         {
-          "line_number": 2077,
+          "line_number": 2075,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Paul meets with James, the bishop of Jerusalem, who reports that many Jews"
         },
         {
-          "line_number": 2077,
+          "line_number": 2075,
           "entity": "JAMES_APOSTLE",
           "matched_alias": "James",
           "context": "Paul meets with James, the bishop of Jerusalem, who reports that many Jews"
         },
         {
-          "line_number": 2079,
+          "line_number": 2077,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "have set themselves against Paul. While neither Jews nor Gentiles find salvation through"
         },
         {
-          "line_number": 2081,
+          "line_number": 2079,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "the Law, James encourages Paul to demonstrate his compliance with the Law in order to"
         },
         {
-          "line_number": 2081,
+          "line_number": 2079,
           "entity": "JAMES_APOSTLE",
           "matched_alias": "James",
           "context": "the Law, James encourages Paul to demonstrate his compliance with the Law in order to"
         },
         {
-          "line_number": 2129,
+          "line_number": 2127,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Brethren and fathers is a respectful form of address (7:2), showing that Paul treats"
         },
         {
-          "line_number": 2137,
+          "line_number": 2135,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Again, Paul begins at a point with which his listeners would be familiar, first"
         },
         {
-          "line_number": 2141,
+          "line_number": 2139,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "at 14:15-17). Paul is careful to mention his relationship with important Jews (Gamaliel,"
         },
         {
-          "line_number": 2163,
+          "line_number": 2161,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "In spite of Paul's attempts to moderate the wrath of these Jews, the mere"
         },
         {
-          "line_number": 2185,
+          "line_number": 2183,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "wants to interrogate Paul more thoroughly, which allows Paul all the more opportunity to"
         },
         {
-          "line_number": 2203,
+          "line_number": 2201,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Romans (AD 70). Paul has thus far said nothing offensive to the Jews, and St. John"
         },
         {
-          "line_number": 2205,
+          "line_number": 2203,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Chrysostom calls the order to strike Paul \"shameless\" and without cause."
         },
         {
-          "line_number": 2211,
+          "line_number": 2209,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Paul accuses Ananias of the ultimate hypocrisy: violating the Law while posing as"
         },
         {
-          "line_number": 2213,
+          "line_number": 2211,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "one who judges according to the Law. Paul nevertheless shows great respect for the holy"
         },
         {
-          "line_number": 2221,
+          "line_number": 2219,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Knowing that his interrogators will not hear him impartially, Paul intentionally"
         },
         {
-          "line_number": 2243,
+          "line_number": 2241,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "Paul receives comfort from the Lord in the face of the impending plot on his life"
         },
         {
-          "line_number": 2255,
+          "line_number": 2253,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "19) protects Paul from assassination, which allows God's plan to unfold for Paul to preach"
@@ -1030,7 +1030,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 46,
+    "matched_entities_count": 48,
     "matched_entities": [
       {
         "line_number": 141,
@@ -1159,6 +1159,18 @@
         "context": "the first time that men were accounted worthy of that name\" (JohnChr)."
       },
       {
+        "line_number": 1241,
+        "entity": "MARK_EVANGELIST",
+        "matched_alias": "Mark the Evangelist",
+        "context": "John whose surname was Mark is St. Mark the Evangelist, who would compose"
+      },
+      {
+        "line_number": 1241,
+        "entity": "MARK_EVANGELIST",
+        "matched_alias": "St. Mark",
+        "context": "John whose surname was Mark is St. Mark the Evangelist, who would compose"
+      },
+      {
         "line_number": 1329,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "Chrysostom",
@@ -1225,85 +1237,85 @@
         "context": "John Chrysostom emphasizes that this fact alone demonstrates God's hand was upon"
       },
       {
-        "line_number": 1959,
+        "line_number": 1957,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "St. John Chrysostom",
         "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
       },
       {
-        "line_number": 1959,
+        "line_number": 1957,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "Chrysostom",
         "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
       },
       {
-        "line_number": 1959,
+        "line_number": 1957,
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
         "context": "St. John Chrysostom upholds Eutychus as an example for young believers. While"
       },
       {
-        "line_number": 2203,
+        "line_number": 2201,
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
         "context": "Romans (AD 70). Paul has thus far said nothing offensive to the Jews, and St. John"
       },
       {
-        "line_number": 2205,
+        "line_number": 2203,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "Chrysostom",
         "context": "Chrysostom calls the order to strike Paul \"shameless\" and without cause."
       },
       {
-        "line_number": 2233,
+        "line_number": 2231,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "St. John Chrysostom",
         "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
       },
       {
-        "line_number": 2233,
+        "line_number": 2231,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "Chrysostom",
         "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
       },
       {
-        "line_number": 2233,
+        "line_number": 2231,
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
         "context": "mentioned? According to St. John Chrysostom, angel and spirit refer to one entity or"
       },
       {
-        "line_number": 2517,
+        "line_number": 2515,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "St. John Chrysostom",
         "context": "According to St. John Chrysostom, the destruction of the ship serves several"
       },
       {
-        "line_number": 2517,
+        "line_number": 2515,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "Chrysostom",
         "context": "According to St. John Chrysostom, the destruction of the ship serves several"
       },
       {
-        "line_number": 2517,
+        "line_number": 2515,
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
         "context": "According to St. John Chrysostom, the destruction of the ship serves several"
       },
       {
-        "line_number": 2555,
+        "line_number": 2553,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "St. John Chrysostom",
         "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
       },
       {
-        "line_number": 2555,
+        "line_number": 2553,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "Chrysostom",
         "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
       },
       {
-        "line_number": 2555,
+        "line_number": 2553,
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
         "context": "human events. According to St. John Chrysostom, they have a far better understanding of"
@@ -1315,17 +1327,12 @@
       "JOHN_CHRYSOSTOM": 21,
       "JOHN_FORERUNNER": 2,
       "JOHN_THEOLOGIAN": 8,
+      "MARK_EVANGELIST": 2,
       "PHOTINI_SAMARITAN": 2,
       "STEPHEN_PROTOMARTYR": 8
     },
-    "unresolved_candidates_count": 1,
-    "unresolved_candidates": [
-      {
-        "line_number": 1241,
-        "token": "St. Mark",
-        "context": "John whose surname was Mark is St. Mark the Evangelist, who would compose"
-      }
-    ],
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
     "explicit_citation_snippets": [
       {
         "line_number": 725,

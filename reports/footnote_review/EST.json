@@ -98,13 +98,25 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 3,
+      "matched_entities_count": 6,
       "matched_entities": [
+        {
+          "line_number": 17,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "These verses occur only in the Greek LXX manuscripts and appear there as an"
+        },
         {
           "line_number": 81,
           "entity": "JOSEPH_BETROTHED",
           "matched_alias": "Joseph",
           "context": "between Joseph and the Virgin Mary. In this situation, there was no sexual relationship, as demonstrated by Esther's virginity."
+        },
+        {
+          "line_number": 144,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "LXX, and are considered by many to be an addition to the Book of Esther. The demonic"
         },
         {
           "line_number": 287,
@@ -117,11 +129,18 @@
           "entity": "JEROME",
           "matched_alias": "Jerome",
           "context": ", 10 St. Jerome writes, \"Haman was burned in the fire of his own kindling.\""
+        },
+        {
+          "line_number": 308,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "This section is in the Greek LXX text; it does not appear in the Hebrew"
         }
       ],
       "entity_counts": {
         "JEROME": 2,
-        "JOSEPH_BETROTHED": 1
+        "JOSEPH_BETROTHED": 1,
+        "SEPTUAGINT": 3
       },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
@@ -167,13 +186,25 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 3,
+    "matched_entities_count": 6,
     "matched_entities": [
+      {
+        "line_number": 17,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "These verses occur only in the Greek LXX manuscripts and appear there as an"
+      },
       {
         "line_number": 81,
         "entity": "JOSEPH_BETROTHED",
         "matched_alias": "Joseph",
         "context": "between Joseph and the Virgin Mary. In this situation, there was no sexual relationship, as demonstrated by Esther's virginity."
+      },
+      {
+        "line_number": 144,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "LXX, and are considered by many to be an addition to the Book of Esther. The demonic"
       },
       {
         "line_number": 287,
@@ -186,11 +217,18 @@
         "entity": "JEROME",
         "matched_alias": "Jerome",
         "context": ", 10 St. Jerome writes, \"Haman was burned in the fire of his own kindling.\""
+      },
+      {
+        "line_number": 308,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "This section is in the Greek LXX text; it does not appear in the Hebrew"
       }
     ],
     "entity_counts": {
       "JEROME": 2,
-      "JOSEPH_BETROTHED": 1
+      "JOSEPH_BETROTHED": 1,
+      "SEPTUAGINT": 3
     },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],

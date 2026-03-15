@@ -2,7 +2,7 @@
   "book_code": "LUK",
   "position": 52,
   "testament": "NT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/LUK_footnotes.md",
@@ -11,7 +11,7 @@
     "structural_clean": true,
     "marker_alignment_pass": true,
     "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
@@ -72,7 +72,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 73,
+      "matched_entities_count": 99,
       "matched_entities": [
         {
           "line_number": 21,
@@ -87,10 +87,40 @@
           "context": "instruction (see also [[ACT.1:1]]). St. Ambrose notes that Theophilus can simply mean any"
         },
         {
+          "line_number": 43,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "Zacharias and Elizabeth are righteous before God, not merely in outward"
+        },
+        {
           "line_number": 45,
           "entity": "JOHN_FORERUNNER",
           "matched_alias": "John the Baptist",
           "context": "appearance, but to the core of their being. The holiness of John the Baptist came in part"
+        },
+        {
+          "line_number": 69,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "in the division were decided by lot; Zacharias is here assigned the duties of the high"
+        },
+        {
+          "line_number": 81,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "priests of pure heart, such as Zacharias, are occasionally chosen by God to witness this"
+        },
+        {
+          "line_number": 89,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "As high priest, Zacharias prayed not for a son, but for the atonement of the sins of"
+        },
+        {
+          "line_number": 91,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "Israel ([[HEB.9:7]]). Gabriel's (v. 19) announcement reveals both that Zacharias' prayer for"
         },
         {
           "line_number": 111,
@@ -111,6 +141,12 @@
           "context": "the Lord (Mal 4:5). John the Baptist fulfills the spirit of Elijah as he is the forerunner of"
         },
         {
+          "line_number": 121,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "You will be mute: Zacharias is disciplined for his lack of faith, yet this also serves"
+        },
+        {
           "line_number": 147,
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
@@ -127,6 +163,36 @@
           "entity": "JOSEPH_BETROTHED",
           "matched_alias": "Joseph",
           "context": "The name Mary means \"exalted one.\" When Joseph is referred to as of the house of"
+        },
+        {
+          "line_number": 221,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "Mary's question, \"How can this be?\" does not indicate a lack of faith, as Zacharias'"
+        },
+        {
+          "line_number": 335,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "When Zacharias assented to God's will, his mouth was opened. Just as"
+        },
+        {
+          "line_number": 337,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "prophecy is restored at the Incarnation of Christ (see note on v. 24), so Zacharias, as high"
+        },
+        {
+          "line_number": 341,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "20). Note Zacharias immediately declares Christ (vv. 68, 69), and secondly declares the"
+        },
+        {
+          "line_number": 353,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "Church, John was brought to the deserts by Elizabeth when Zacharias was martyred,"
         },
         {
           "line_number": 421,
@@ -189,6 +255,12 @@
           "context": "creation began where the old creation ceased\" (AmbM)."
         },
         {
+          "line_number": 819,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "CyrAl",
+          "context": "powers that inflict harm on the human body\" (CyrAl)."
+        },
+        {
           "line_number": 849,
           "entity": "AMBROSE_MILAN",
           "matched_alias": "St. Ambrose",
@@ -199,6 +271,12 @@
           "entity": "AMBROSE_MILAN",
           "matched_alias": "Ambrose",
           "context": "Launch out into the deep: St. Ambrose sees the spiritual meaning of this command"
+        },
+        {
+          "line_number": 901,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "CyrAl",
+          "context": "priests by a tangible miracle that He is superior to Moses (CyrAl). The priests hold Moses"
         },
         {
           "line_number": 919,
@@ -225,6 +303,24 @@
           "context": "the Father. Rather, as the Son of Man, He prays as the Advocate for humanity (AmbM;"
         },
         {
+          "line_number": 1007,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "CyrAl",
+          "context": "(CyrAl)."
+        },
+        {
+          "line_number": 1015,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "CyrAl",
+          "context": "goodness (\"the natural law of self-love,\" CyrAl) as a basic standard of how to treat others."
+        },
+        {
+          "line_number": 1045,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "CyrAl",
+          "context": "which he judges others\" (CyrAl)."
+        },
+        {
           "line_number": 1085,
           "entity": "AMBROSE_MILAN",
           "matched_alias": "AmbM",
@@ -241,6 +337,12 @@
           "entity": "AMBROSE_MILAN",
           "matched_alias": "AmbM",
           "context": "perfected in the Gospel\" (AmbM)."
+        },
+        {
+          "line_number": 1173,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "CyrAl",
+          "context": "Law?\" (CyrAl)."
         },
         {
           "line_number": 1219,
@@ -271,6 +373,18 @@
           "entity": "JOHN_CASSIAN",
           "matched_alias": "Cassian",
           "context": "St. Cassian the Desert Father notes that when he visited a monastery, the fast was"
+        },
+        {
+          "line_number": 1571,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "CyrAl",
+          "context": "deeds\" (CyrAl). That the priest and the Levite do not help the man also indicates the"
+        },
+        {
+          "line_number": 1685,
+          "entity": "SERAPHIM_SAROV",
+          "matched_alias": "SerSar",
+          "context": "(SerSar)."
         },
         {
           "line_number": 1695,
@@ -405,6 +519,12 @@
           "context": "(AmbM)."
         },
         {
+          "line_number": 2219,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "CyrAl",
+          "context": "even the most blamable man is called to repentance (CyrAl)."
+        },
+        {
           "line_number": 2233,
           "entity": "AMBROSE_MILAN",
           "matched_alias": "AmbM",
@@ -441,6 +561,24 @@
           "context": "powder in the final judgment (JohnChr)."
         },
         {
+          "line_number": 2737,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "St. Justin",
+          "context": "\"the Eucharist,\" and in the year AD 150, St. Justin says of Holy Communion, \"This food"
+        },
+        {
+          "line_number": 2737,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "Justin",
+          "context": "\"the Eucharist,\" and in the year AD 150, St. Justin says of Holy Communion, \"This food"
+        },
+        {
+          "line_number": 2749,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "Justin",
+          "context": "Jesus\" (Justin). See [[JOH.6:51]]-66 and notes, and the article \"The Eucharist\" at 1Co 11."
+        },
+        {
           "line_number": 2781,
           "entity": "AMBROSE_MILAN",
           "matched_alias": "AmbM",
@@ -463,6 +601,12 @@
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "be strengthened\" (GrgGt)."
+        },
+        {
+          "line_number": 2841,
+          "entity": "LUKE_EVANGELIST",
+          "matched_alias": "St. Luke",
+          "context": "This healing is recorded only by St. Luke the physician. It indicates the manner in"
         },
         {
           "line_number": 2875,
@@ -495,6 +639,18 @@
           "context": "Reflecting on the conversion of the centurion, St. Cyril of Alexandria notes,"
         },
         {
+          "line_number": 3055,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "St. Cyril of Alexandria",
+          "context": "Reflecting on the conversion of the centurion, St. Cyril of Alexandria notes,"
+        },
+        {
+          "line_number": 3055,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "Cyril of Alexandria",
+          "context": "Reflecting on the conversion of the centurion, St. Cyril of Alexandria notes,"
+        },
+        {
           "line_number": 3067,
           "entity": "JOSEPH_BETROTHED",
           "matched_alias": "Joseph",
@@ -516,6 +672,7 @@
       "entity_counts": {
         "AMBROSE_MILAN": 30,
         "BASIL_GREAT": 3,
+        "CYRIL_ALEXANDRIA": 10,
         "CYRIL_JERUSALEM": 1,
         "ELIJAH_PROPHET": 4,
         "GREGORY_GREAT": 1,
@@ -523,65 +680,34 @@
         "JOHN_CHRYSOSTOM": 12,
         "JOHN_FORERUNNER": 6,
         "JOHN_THEOLOGIAN": 6,
-        "JOSEPH_BETROTHED": 9
+        "JOSEPH_BETROTHED": 9,
+        "JUSTIN_MARTYR": 3,
+        "LUKE_EVANGELIST": 1,
+        "SERAPHIM_SAROV": 1,
+        "ZACHARIAS_PROPHET": 11
       },
-      "unresolved_candidates_count": 10,
-      "unresolved_candidates": [
-        {
-          "line_number": 819,
-          "token": "CyrAl",
-          "context": "powers that inflict harm on the human body\" (CyrAl)."
-        },
-        {
-          "line_number": 901,
-          "token": "CyrAl",
-          "context": "priests by a tangible miracle that He is superior to Moses (CyrAl). The priests hold Moses"
-        },
-        {
-          "line_number": 1007,
-          "token": "CyrAl",
-          "context": "(CyrAl)."
-        },
-        {
-          "line_number": 1045,
-          "token": "CyrAl",
-          "context": "which he judges others\" (CyrAl)."
-        },
-        {
-          "line_number": 1173,
-          "token": "CyrAl",
-          "context": "Law?\" (CyrAl)."
-        },
-        {
-          "line_number": 1571,
-          "token": "CyrAl",
-          "context": "deeds\" (CyrAl). That the priest and the Levite do not help the man also indicates the"
-        },
-        {
-          "line_number": 1685,
-          "token": "SerSar",
-          "context": "(SerSar)."
-        },
-        {
-          "line_number": 2219,
-          "token": "CyrAl",
-          "context": "even the most blamable man is called to repentance (CyrAl)."
-        },
-        {
-          "line_number": 2737,
-          "token": "St. Justin",
-          "context": "\"the Eucharist,\" and in the year AD 150, St. Justin says of Holy Communion, \"This food"
-        },
-        {
-          "line_number": 2841,
-          "token": "St. Luke",
-          "context": "This healing is recorded only by St. Luke the physician. It indicates the manner in"
-        }
-      ],
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
       "explicit_citation_snippets": [
         {
           "line_number": 797,
           "snippet": "AmbM"
+        },
+        {
+          "line_number": 819,
+          "snippet": "CyrAl"
+        },
+        {
+          "line_number": 901,
+          "snippet": "CyrAl"
+        },
+        {
+          "line_number": 1007,
+          "snippet": "CyrAl"
+        },
+        {
+          "line_number": 1045,
+          "snippet": "CyrAl"
         },
         {
           "line_number": 1085,
@@ -590,6 +716,10 @@
         {
           "line_number": 1161,
           "snippet": "AmbM"
+        },
+        {
+          "line_number": 1173,
+          "snippet": "CyrAl"
         },
         {
           "line_number": 1219,
@@ -604,12 +734,24 @@
           "snippet": "JohnChr"
         },
         {
+          "line_number": 1571,
+          "snippet": "CyrAl"
+        },
+        {
+          "line_number": 1685,
+          "snippet": "SerSar"
+        },
+        {
           "line_number": 1695,
           "snippet": "JohnChr"
         },
         {
           "line_number": 2117,
           "snippet": "AmbM"
+        },
+        {
+          "line_number": 2219,
+          "snippet": "CyrAl"
         },
         {
           "line_number": 2233,
@@ -626,6 +768,10 @@
         {
           "line_number": 2631,
           "snippet": "JohnChr"
+        },
+        {
+          "line_number": 2749,
+          "snippet": "Justin"
         },
         {
           "line_number": 2781,
@@ -753,7 +899,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 73,
+    "matched_entities_count": 99,
     "matched_entities": [
       {
         "line_number": 21,
@@ -768,10 +914,40 @@
         "context": "instruction (see also [[ACT.1:1]]). St. Ambrose notes that Theophilus can simply mean any"
       },
       {
+        "line_number": 43,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "Zacharias and Elizabeth are righteous before God, not merely in outward"
+      },
+      {
         "line_number": 45,
         "entity": "JOHN_FORERUNNER",
         "matched_alias": "John the Baptist",
         "context": "appearance, but to the core of their being. The holiness of John the Baptist came in part"
+      },
+      {
+        "line_number": 69,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "in the division were decided by lot; Zacharias is here assigned the duties of the high"
+      },
+      {
+        "line_number": 81,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "priests of pure heart, such as Zacharias, are occasionally chosen by God to witness this"
+      },
+      {
+        "line_number": 89,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "As high priest, Zacharias prayed not for a son, but for the atonement of the sins of"
+      },
+      {
+        "line_number": 91,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "Israel ([[HEB.9:7]]). Gabriel's (v. 19) announcement reveals both that Zacharias' prayer for"
       },
       {
         "line_number": 111,
@@ -792,6 +968,12 @@
         "context": "the Lord (Mal 4:5). John the Baptist fulfills the spirit of Elijah as he is the forerunner of"
       },
       {
+        "line_number": 121,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "You will be mute: Zacharias is disciplined for his lack of faith, yet this also serves"
+      },
+      {
         "line_number": 147,
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
@@ -808,6 +990,36 @@
         "entity": "JOSEPH_BETROTHED",
         "matched_alias": "Joseph",
         "context": "The name Mary means \"exalted one.\" When Joseph is referred to as of the house of"
+      },
+      {
+        "line_number": 221,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "Mary's question, \"How can this be?\" does not indicate a lack of faith, as Zacharias'"
+      },
+      {
+        "line_number": 335,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "When Zacharias assented to God's will, his mouth was opened. Just as"
+      },
+      {
+        "line_number": 337,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "prophecy is restored at the Incarnation of Christ (see note on v. 24), so Zacharias, as high"
+      },
+      {
+        "line_number": 341,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "20). Note Zacharias immediately declares Christ (vv. 68, 69), and secondly declares the"
+      },
+      {
+        "line_number": 353,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "Church, John was brought to the deserts by Elizabeth when Zacharias was martyred,"
       },
       {
         "line_number": 421,
@@ -870,6 +1082,12 @@
         "context": "creation began where the old creation ceased\" (AmbM)."
       },
       {
+        "line_number": 819,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "CyrAl",
+        "context": "powers that inflict harm on the human body\" (CyrAl)."
+      },
+      {
         "line_number": 849,
         "entity": "AMBROSE_MILAN",
         "matched_alias": "St. Ambrose",
@@ -880,6 +1098,12 @@
         "entity": "AMBROSE_MILAN",
         "matched_alias": "Ambrose",
         "context": "Launch out into the deep: St. Ambrose sees the spiritual meaning of this command"
+      },
+      {
+        "line_number": 901,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "CyrAl",
+        "context": "priests by a tangible miracle that He is superior to Moses (CyrAl). The priests hold Moses"
       },
       {
         "line_number": 919,
@@ -906,6 +1130,24 @@
         "context": "the Father. Rather, as the Son of Man, He prays as the Advocate for humanity (AmbM;"
       },
       {
+        "line_number": 1007,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "CyrAl",
+        "context": "(CyrAl)."
+      },
+      {
+        "line_number": 1015,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "CyrAl",
+        "context": "goodness (\"the natural law of self-love,\" CyrAl) as a basic standard of how to treat others."
+      },
+      {
+        "line_number": 1045,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "CyrAl",
+        "context": "which he judges others\" (CyrAl)."
+      },
+      {
         "line_number": 1085,
         "entity": "AMBROSE_MILAN",
         "matched_alias": "AmbM",
@@ -922,6 +1164,12 @@
         "entity": "AMBROSE_MILAN",
         "matched_alias": "AmbM",
         "context": "perfected in the Gospel\" (AmbM)."
+      },
+      {
+        "line_number": 1173,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "CyrAl",
+        "context": "Law?\" (CyrAl)."
       },
       {
         "line_number": 1219,
@@ -952,6 +1200,18 @@
         "entity": "JOHN_CASSIAN",
         "matched_alias": "Cassian",
         "context": "St. Cassian the Desert Father notes that when he visited a monastery, the fast was"
+      },
+      {
+        "line_number": 1571,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "CyrAl",
+        "context": "deeds\" (CyrAl). That the priest and the Levite do not help the man also indicates the"
+      },
+      {
+        "line_number": 1685,
+        "entity": "SERAPHIM_SAROV",
+        "matched_alias": "SerSar",
+        "context": "(SerSar)."
       },
       {
         "line_number": 1695,
@@ -1086,6 +1346,12 @@
         "context": "(AmbM)."
       },
       {
+        "line_number": 2219,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "CyrAl",
+        "context": "even the most blamable man is called to repentance (CyrAl)."
+      },
+      {
         "line_number": 2233,
         "entity": "AMBROSE_MILAN",
         "matched_alias": "AmbM",
@@ -1122,6 +1388,24 @@
         "context": "powder in the final judgment (JohnChr)."
       },
       {
+        "line_number": 2737,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "St. Justin",
+        "context": "\"the Eucharist,\" and in the year AD 150, St. Justin says of Holy Communion, \"This food"
+      },
+      {
+        "line_number": 2737,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "Justin",
+        "context": "\"the Eucharist,\" and in the year AD 150, St. Justin says of Holy Communion, \"This food"
+      },
+      {
+        "line_number": 2749,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "Justin",
+        "context": "Jesus\" (Justin). See [[JOH.6:51]]-66 and notes, and the article \"The Eucharist\" at 1Co 11."
+      },
+      {
         "line_number": 2781,
         "entity": "AMBROSE_MILAN",
         "matched_alias": "AmbM",
@@ -1144,6 +1428,12 @@
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "be strengthened\" (GrgGt)."
+      },
+      {
+        "line_number": 2841,
+        "entity": "LUKE_EVANGELIST",
+        "matched_alias": "St. Luke",
+        "context": "This healing is recorded only by St. Luke the physician. It indicates the manner in"
       },
       {
         "line_number": 2875,
@@ -1176,6 +1466,18 @@
         "context": "Reflecting on the conversion of the centurion, St. Cyril of Alexandria notes,"
       },
       {
+        "line_number": 3055,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "St. Cyril of Alexandria",
+        "context": "Reflecting on the conversion of the centurion, St. Cyril of Alexandria notes,"
+      },
+      {
+        "line_number": 3055,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "Cyril of Alexandria",
+        "context": "Reflecting on the conversion of the centurion, St. Cyril of Alexandria notes,"
+      },
+      {
         "line_number": 3067,
         "entity": "JOSEPH_BETROTHED",
         "matched_alias": "Joseph",
@@ -1197,6 +1499,7 @@
     "entity_counts": {
       "AMBROSE_MILAN": 30,
       "BASIL_GREAT": 3,
+      "CYRIL_ALEXANDRIA": 10,
       "CYRIL_JERUSALEM": 1,
       "ELIJAH_PROPHET": 4,
       "GREGORY_GREAT": 1,
@@ -1204,65 +1507,34 @@
       "JOHN_CHRYSOSTOM": 12,
       "JOHN_FORERUNNER": 6,
       "JOHN_THEOLOGIAN": 6,
-      "JOSEPH_BETROTHED": 9
+      "JOSEPH_BETROTHED": 9,
+      "JUSTIN_MARTYR": 3,
+      "LUKE_EVANGELIST": 1,
+      "SERAPHIM_SAROV": 1,
+      "ZACHARIAS_PROPHET": 11
     },
-    "unresolved_candidates_count": 10,
-    "unresolved_candidates": [
-      {
-        "line_number": 819,
-        "token": "CyrAl",
-        "context": "powers that inflict harm on the human body\" (CyrAl)."
-      },
-      {
-        "line_number": 901,
-        "token": "CyrAl",
-        "context": "priests by a tangible miracle that He is superior to Moses (CyrAl). The priests hold Moses"
-      },
-      {
-        "line_number": 1007,
-        "token": "CyrAl",
-        "context": "(CyrAl)."
-      },
-      {
-        "line_number": 1045,
-        "token": "CyrAl",
-        "context": "which he judges others\" (CyrAl)."
-      },
-      {
-        "line_number": 1173,
-        "token": "CyrAl",
-        "context": "Law?\" (CyrAl)."
-      },
-      {
-        "line_number": 1571,
-        "token": "CyrAl",
-        "context": "deeds\" (CyrAl). That the priest and the Levite do not help the man also indicates the"
-      },
-      {
-        "line_number": 1685,
-        "token": "SerSar",
-        "context": "(SerSar)."
-      },
-      {
-        "line_number": 2219,
-        "token": "CyrAl",
-        "context": "even the most blamable man is called to repentance (CyrAl)."
-      },
-      {
-        "line_number": 2737,
-        "token": "St. Justin",
-        "context": "\"the Eucharist,\" and in the year AD 150, St. Justin says of Holy Communion, \"This food"
-      },
-      {
-        "line_number": 2841,
-        "token": "St. Luke",
-        "context": "This healing is recorded only by St. Luke the physician. It indicates the manner in"
-      }
-    ],
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
     "explicit_citation_snippets": [
       {
         "line_number": 797,
         "snippet": "AmbM"
+      },
+      {
+        "line_number": 819,
+        "snippet": "CyrAl"
+      },
+      {
+        "line_number": 901,
+        "snippet": "CyrAl"
+      },
+      {
+        "line_number": 1007,
+        "snippet": "CyrAl"
+      },
+      {
+        "line_number": 1045,
+        "snippet": "CyrAl"
       },
       {
         "line_number": 1085,
@@ -1271,6 +1543,10 @@
       {
         "line_number": 1161,
         "snippet": "AmbM"
+      },
+      {
+        "line_number": 1173,
+        "snippet": "CyrAl"
       },
       {
         "line_number": 1219,
@@ -1285,12 +1561,24 @@
         "snippet": "JohnChr"
       },
       {
+        "line_number": 1571,
+        "snippet": "CyrAl"
+      },
+      {
+        "line_number": 1685,
+        "snippet": "SerSar"
+      },
+      {
         "line_number": 1695,
         "snippet": "JohnChr"
       },
       {
         "line_number": 2117,
         "snippet": "AmbM"
+      },
+      {
+        "line_number": 2219,
+        "snippet": "CyrAl"
       },
       {
         "line_number": 2233,
@@ -1307,6 +1595,10 @@
       {
         "line_number": 2631,
         "snippet": "JohnChr"
+      },
+      {
+        "line_number": 2749,
+        "snippet": "Justin"
       },
       {
         "line_number": 2781,

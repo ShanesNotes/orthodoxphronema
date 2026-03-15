@@ -67,7 +67,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 10,
+      "matched_entities_count": 12,
       "matched_entities": [
         {
           "line_number": 41,
@@ -86,6 +86,12 @@
           "entity": "BASIL_GREAT",
           "matched_alias": "Basil",
           "context": "The first half of v. 3 is quoted verbatim in the Liturgy of St. Basil the Great. The"
+        },
+        {
+          "line_number": 105,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "God,\" whereas Christ is the Son of God. (The LXX at [[DEU.32:43]], which Hebrews"
         },
         {
           "line_number": 521,
@@ -112,6 +118,12 @@
           "context": "Canon II of St. Gregory of Nyssa, and the Canons of the Council of Ancyra (AD 314)."
         },
         {
+          "line_number": 605,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "Canon II of St. Gregory of Nyssa, and the Canons of the Council of Ancyra (AD 314)."
+        },
+        {
           "line_number": 613,
           "entity": "JOHN_FORERUNNER",
           "matched_alias": "John the Baptist",
@@ -132,10 +144,12 @@
       ],
       "entity_counts": {
         "BASIL_GREAT": 3,
+        "GREGORY_GREAT": 1,
         "GREGORY_NYSSA": 2,
         "JOHN_CHRYSOSTOM": 2,
         "JOHN_FORERUNNER": 1,
-        "JOSEPH_BETROTHED": 2
+        "JOSEPH_BETROTHED": 2,
+        "SEPTUAGINT": 1
       },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
@@ -191,7 +205,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 10,
+    "matched_entities_count": 12,
     "matched_entities": [
       {
         "line_number": 41,
@@ -210,6 +224,12 @@
         "entity": "BASIL_GREAT",
         "matched_alias": "Basil",
         "context": "The first half of v. 3 is quoted verbatim in the Liturgy of St. Basil the Great. The"
+      },
+      {
+        "line_number": 105,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "God,\" whereas Christ is the Son of God. (The LXX at [[DEU.32:43]], which Hebrews"
       },
       {
         "line_number": 521,
@@ -236,6 +256,12 @@
         "context": "Canon II of St. Gregory of Nyssa, and the Canons of the Council of Ancyra (AD 314)."
       },
       {
+        "line_number": 605,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "Canon II of St. Gregory of Nyssa, and the Canons of the Council of Ancyra (AD 314)."
+      },
+      {
         "line_number": 613,
         "entity": "JOHN_FORERUNNER",
         "matched_alias": "John the Baptist",
@@ -256,10 +282,12 @@
     ],
     "entity_counts": {
       "BASIL_GREAT": 3,
+      "GREGORY_GREAT": 1,
       "GREGORY_NYSSA": 2,
       "JOHN_CHRYSOSTOM": 2,
       "JOHN_FORERUNNER": 1,
-      "JOSEPH_BETROTHED": 2
+      "JOSEPH_BETROTHED": 2,
+      "SEPTUAGINT": 1
     },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],

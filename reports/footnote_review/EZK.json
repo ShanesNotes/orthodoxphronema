@@ -8,143 +8,31 @@
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/EZK_footnotes.md",
   "component_status": {
     "mechanical_clean": true,
-    "structural_clean": false,
+    "structural_clean": true,
     "marker_alignment_pass": false,
-    "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "wikilinks_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
   "mechanical": {
     "tool_status": "ok",
     "summary": {
-      "total_findings": 203,
+      "total_findings": 234,
       "auto_fixable": 0,
-      "review_needed": 203,
+      "review_needed": 234,
       "files_checked": 1,
-      "lines_checked": 392,
+      "lines_checked": 440,
       "lines_fixed": 0
     },
     "by_category": {
-      "P6": 159,
+      "P6": 190,
       "P7": 44
     }
   },
   "structure": {
-    "issue_count": 22,
-    "findings": [
-      {
-        "type": "dangling_range_continuation",
-        "line_number": 42,
-        "raw_text": "-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 60,
-        "raw_text": "The burning coals (v. 13), writes St. Gregory, are \"holy men\" (see Is 6:6 and note). The lamps signify the light of the gospel (see [[JDG.7:16]]). 1:14-21 The wheels signify Holy Scripture, and the wheel within a wheel illustrates that"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 68,
-        "raw_text": "from the Virgin Mary. 1:27 The rainbow images the new covenant (see [[GEN.9:13]]-15). 2:9, 10 The roll of a book signifies Holy Scripture, which Christ unrolled ([[MRK.4:34]]; Lk"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 86,
-        "raw_text": "Israel rejected Christ, but the Gentiles received Him ([[LUK.11:29]]-33). 3:13 The gospel spread first by preaching the sound, and later by the Holy Scriptures (the"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 116,
-        "raw_text": "he is exalted, he might remember his fallen state. 4:4-11 Ezekiel lying bound on his side images the death of Christ, the Lamb of God, who"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 134,
-        "raw_text": "illustrates the faithful remnant who have bound themselves to Christ. 5:5-6 Jerusalem is the Church, which was indeed put... in the midst of the nations"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 140,
-        "raw_text": "presence of the natural law, or free will, in man. See [[ROM.2:14]], [[ROM.2:15]]. 6:1-3 The final fulfillment of this judgment was carried out in the Incarnation, when Christ"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 172,
-        "raw_text": "and perfected in the glory of the divinity of Christ ([[JOH.1:14]]). 10:8-17 See ch. 1 and notes. 10:13"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 194,
-        "raw_text": "Gentile eunuch, listened and was converted ([[ACT.8:26]]-39). 11:17-25 I will give them the land: This prophecy is being fulfilled in the New Israel, which is the Church, composed of both believing Jews and Gentiles (the nations). 12:1-3"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 206,
-        "raw_text": "and note). 12:18-19 Compare to [[GEN.3:17]]-19. 12:21-28 Christ echoes this passage in His parable of the good steward ([[LUK.12:42]]-48). 12:25"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 208,
-        "raw_text": "I, the Lord, shall speak My words points to Christ, the logos of God. 13:1-3 Israel's false prophets in reality see nothing at all. 13:4-5"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 214,
-        "raw_text": "\"from their hearts\" (v. 3). 13:10-11 Christ condemns the Pharisees with similar language, calling them \"whitewashed"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 238,
-        "raw_text": "11:17-25). 16:4-10 A moving account of God's mercy upon a people stricken with perversity of... soul (v. 5). Water, oil, and fine linen are Old Testament images pointing to baptism. 16:44-46 Like mother, like daughter! A sobering parable of how ungodly parents beget"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 240,
-        "raw_text": "lawless children. 16:59-63 Though we have dishonored God, still He will remember us when we turn to"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 252,
-        "raw_text": "(the humble tree) grew out of earthly Israel (the high tree). 18:1-32 This chapter deals with our relationship with God. The soul who sins, he shall"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 260,
-        "raw_text": "See [[1TI.2:4]]. 19:1-14 The mother lion refers to Judah. The two young lions (v. 5) are Jehoahaz and"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 270,
-        "raw_text": "(vv. 11, 14), would not depart from Judah until the Messiah came ([[GEN.49:9]]-12). 20:1-4 This is the introduction to a chapter that describes Israel's history of lawlessness. 20:29"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 312,
-        "raw_text": "husband was the Lord (Is 54:5). See 33:21-33 and note. 25:1-35 These chapters describe God's judgment on five Gentile nations: Ammon, Moab, Edom (all in modern-day Jordan); Tyre (Lebanon), and the Cretans (Crete). The gospel"
-      },
-      {
-        "type": "broken_reference_split",
-        "line_number": 634,
-        "raw_text": "13:10-19 and notes. The court is the foursquare fullness of the Church, which operates",
-        "previous_line_tail": "Liturgy, where the saints offer their whole being to God in praise and worship. See Heb"
-      },
-      {
-        "type": "dangling_range_continuation",
-        "line_number": 730,
-        "raw_text": "-5, foreshadows the Incarnation, when the Holy Spirit overshadowed the Virgin in"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 736,
-        "raw_text": "Advent of Christ to the shepherds ([[LUK.2:13]]). 43:13-17 The altar here, as well as the altar in the Church, images the heavenly altar. The"
-      },
-      {
-        "type": "midline_reference_spill",
-        "line_number": 748,
-        "raw_text": "great mercy seat is clearly a type of Christ. 43:18-27 The Levites typify the clergy who serve at the altar in the Church (see [[NUM.8:5]]-"
-      }
-    ],
+    "issue_count": 0,
+    "findings": [],
     "truncated": false
   },
   "footnote_verification": {
@@ -220,15 +108,15 @@
     "issue_count": 48
   },
   "wikilinks": {
-    "total_refs": 75,
-    "convertible_refs": 0,
+    "total_refs": 79,
+    "convertible_refs": 4,
     "already_linked_refs": 75,
     "unresolved_refs": 0,
     "unresolved_examples": []
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 37,
+      "matched_entities_count": 55,
       "matched_entities": [
         {
           "line_number": 15,
@@ -243,211 +131,319 @@
           "context": "St. Gregory the Great comments that after establishing the time and place in history, the Prophet Ezekiel mystically \"shows forth the Lord,\" for in Christ's thirtieth year He"
         },
         {
+          "line_number": 15,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory the Great comments that after establishing the time and place in history, the Prophet Ezekiel mystically \"shows forth the Lord,\" for in Christ's thirtieth year He"
+        },
+        {
+          "line_number": 22,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory writes that Ezekiel recognized the Incarnation of the Only Begotten"
+        },
+        {
           "line_number": 36,
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
-          "context": "of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see Rev"
+          "context": "of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see Rev 4:6-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in"
         },
         {
-          "line_number": 46,
+          "line_number": 43,
           "entity": "GREGORY_GREAT",
           "matched_alias": "St. Gregory the Great",
           "context": "St. Gregory the Great comments that the man is Matthew, because he begins his"
         },
         {
-          "line_number": 46,
+          "line_number": 43,
           "entity": "GREGORY_GREAT",
           "matched_alias": "Gregory the Great",
           "context": "St. Gregory the Great comments that the man is Matthew, because he begins his"
         },
         {
-          "line_number": 62,
+          "line_number": 43,
           "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "\"the New Testament lay hidden by allegory in the letter of the Old Testament\" (GrgGt). 1:22"
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory the Great comments that the man is Matthew, because he begins his"
         },
         {
-          "line_number": 78,
+          "line_number": 60,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "The burning coals (v. 13), writes St. Gregory, are \"holy men\" (see Is 6:6 and note). The lamps signify the light of the gospel (see [[JDG.7:16]])."
+        },
+        {
+          "line_number": 67,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
+          "context": "\"the New Testament lay hidden by allegory in the letter of the Old Testament\" (GrgGt)."
+        },
+        {
+          "line_number": 72,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory sees in the wings an image of the virtues of the righteous."
+        },
+        {
+          "line_number": 93,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "the weak\" (GrgGt). Lamentation and mourning indicate repentance, while woe"
         },
         {
-          "line_number": 92,
+          "line_number": 118,
           "entity": "JOHN_FORERUNNER",
           "matched_alias": "John the Baptist",
           "context": "foreshadows John the Baptist preaching repentance and baptizing the Jewish faithful at"
         },
         {
-          "line_number": 108,
+          "line_number": 134,
           "entity": "JOHN_FORERUNNER",
           "matched_alias": "John the Baptist",
           "context": "prophecy to make way for Christ. Note that John the Baptist, the last Old Testament"
         },
         {
-          "line_number": 114,
+          "line_number": 136,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "prophet, was put in prison ([[MRK.1:14]]); and his father, Zacharias, had his tongue bound"
+        },
+        {
+          "line_number": 140,
           "entity": "GREGORY_GREAT",
           "matched_alias": "St. Gregory the Great",
           "context": "St. Gregory the Great comments that the Prophet is called son of man so that when"
         },
         {
-          "line_number": 114,
+          "line_number": 140,
           "entity": "GREGORY_GREAT",
           "matched_alias": "Gregory the Great",
           "context": "St. Gregory the Great comments that the Prophet is called son of man so that when"
         },
         {
-          "line_number": 164,
+          "line_number": 140,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory the Great comments that the Prophet is called son of man so that when"
+        },
+        {
+          "line_number": 208,
           "entity": "GREGORY_GREAT",
           "matched_alias": "St. Gregory the Great",
           "context": "of Holy Scripture, the Old and New Testaments alike. St. Gregory the Great sees in the"
         },
         {
-          "line_number": 164,
+          "line_number": 208,
           "entity": "GREGORY_GREAT",
           "matched_alias": "Gregory the Great",
           "context": "of Holy Scripture, the Old and New Testaments alike. St. Gregory the Great sees in the"
         },
         {
-          "line_number": 176,
+          "line_number": 208,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "of Holy Scripture, the Old and New Testaments alike. St. Gregory the Great sees in the"
+        },
+        {
+          "line_number": 226,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "Wheel translates the word Gelgel, used in the LXX as a proper noun, a"
+        },
+        {
+          "line_number": 228,
           "entity": "JEROME",
           "matched_alias": "St. Jerome",
           "context": "transliteration of the Hebrew glgl. In the Vulgate, St. Jerome translates it \"turnings.\""
         },
         {
-          "line_number": 176,
+          "line_number": 228,
           "entity": "JEROME",
           "matched_alias": "Jerome",
           "context": "transliteration of the Hebrew glgl. In the Vulgate, St. Jerome translates it \"turnings.\""
         },
         {
-          "line_number": 272,
+          "line_number": 388,
           "entity": "JEROME",
           "matched_alias": "St. Jerome",
           "context": "Bamah: There is a play on words here: abamah means \"high place\" in Hebrew; bema in Greek means the same. St. Jerome translates this as excelsum (\"the exalted"
         },
         {
-          "line_number": 272,
+          "line_number": 388,
           "entity": "JEROME",
           "matched_alias": "Jerome",
           "context": "Bamah: There is a play on words here: abamah means \"high place\" in Hebrew; bema in Greek means the same. St. Jerome translates this as excelsum (\"the exalted"
         },
         {
-          "line_number": 406,
+          "line_number": 518,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "Justin",
+          "context": "whatsoever things I shall take you, in these I shall judge you'\" (Justin; compare [[JOH.12:47]], [[JOH.12:48]])."
+        },
+        {
+          "line_number": 525,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "St. Zacharias",
+          "context": "the kingly line of Judah went silent until the coming of Christ (see [[GEN.49:9]]-12). St. Zacharias, the priest who was made mute because of his unbelief, was given back his"
+        },
+        {
+          "line_number": 525,
+          "entity": "ZACHARIAS_PROPHET",
+          "matched_alias": "Zacharias",
+          "context": "the kingly line of Judah went silent until the coming of Christ (see [[GEN.49:9]]-12). St. Zacharias, the priest who was made mute because of his unbelief, was given back his"
+        },
+        {
+          "line_number": 527,
           "entity": "JOHN_FORERUNNER",
           "matched_alias": "John the Baptist",
           "context": "voice when his son John the Baptist was born ([[LUK.1:5]]-20, 57-79). Also see 3:22-27; 19:1-14 and notes."
         },
         {
-          "line_number": 474,
+          "line_number": 595,
           "entity": "AMBROSE_MILAN",
           "matched_alias": "AmbM",
           "context": "left, and subject himself to the sentence by his own unbelief\" (AmbM). \"As we at once perceive that the Creator (Demiurgo) is in this passage represented as"
         },
         {
-          "line_number": 484,
+          "line_number": 605,
           "entity": "IRENAEUS",
           "matched_alias": "Iren",
           "context": "who have not life from themselves\" (Iren)."
         },
         {
-          "line_number": 495,
+          "line_number": 616,
           "entity": "EPHRAIM_SYRIAN",
           "matched_alias": "EphS",
           "context": "fruits\" (EphS)."
         },
         {
-          "line_number": 506,
+          "line_number": 627,
           "entity": "GREGORY_GREAT",
           "matched_alias": "St. Gregory the Great",
           "context": "the beginning. Indeed, St. Gregory the Great remarks that, where that which comes from"
         },
         {
-          "line_number": 506,
+          "line_number": 627,
           "entity": "GREGORY_GREAT",
           "matched_alias": "Gregory the Great",
           "context": "the beginning. Indeed, St. Gregory the Great remarks that, where that which comes from"
         },
         {
-          "line_number": 523,
+          "line_number": 627,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "the beginning. Indeed, St. Gregory the Great remarks that, where that which comes from"
+        },
+        {
+          "line_number": 644,
           "entity": "GREGORY_GREAT",
           "matched_alias": "St. Gregory the Great",
           "context": "St. Gregory the Great sees Christ in both the high mountain and the man. The"
         },
         {
-          "line_number": 523,
+          "line_number": 644,
           "entity": "GREGORY_GREAT",
           "matched_alias": "Gregory the Great",
           "context": "St. Gregory the Great sees Christ in both the high mountain and the man. The"
         },
         {
-          "line_number": 531,
+          "line_number": 644,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory the Great sees Christ in both the high mountain and the man. The"
+        },
+        {
+          "line_number": 652,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "remained unseen\" (GrgGt). Compare [[REV.21:9]]-27."
         },
         {
-          "line_number": 536,
+          "line_number": 657,
           "entity": "GREGORY_GREAT",
           "matched_alias": "St. Gregory the Great",
           "context": "St. Gregory the Great sees in the wall a type of the Incarnation in the womb of the"
         },
         {
-          "line_number": 536,
+          "line_number": 657,
           "entity": "GREGORY_GREAT",
           "matched_alias": "Gregory the Great",
           "context": "St. Gregory the Great sees in the wall a type of the Incarnation in the womb of the"
         },
         {
-          "line_number": 549,
+          "line_number": 657,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory the Great sees in the wall a type of the Incarnation in the womb of the"
+        },
+        {
+          "line_number": 670,
           "entity": "GREGORY_GREAT",
           "matched_alias": "St. Gregory the Great",
           "context": "St. Gregory the Great interprets the meaning of the gates in four ways: as"
         },
         {
-          "line_number": 549,
+          "line_number": 670,
           "entity": "GREGORY_GREAT",
           "matched_alias": "Gregory the Great",
           "context": "St. Gregory the Great interprets the meaning of the gates in four ways: as"
         },
         {
-          "line_number": 569,
+          "line_number": 670,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory the Great interprets the meaning of the gates in four ways: as"
+        },
+        {
+          "line_number": 690,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "Testament faithful are \"kindled with the love of the Trinity\" (GrgGt). The ten cubits (v. 11) points to the perfection of the Law as seen in the Ten Commandments, while the"
         },
         {
-          "line_number": 584,
+          "line_number": 705,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
           "context": "(GrgGt; see Lv 25 and notes)."
         },
         {
-          "line_number": 625,
+          "line_number": 719,
           "entity": "GREGORY_GREAT",
-          "matched_alias": "GrgGt",
-          "context": "cycle of seven days; who feed on inward contemplation\" (GrgGt)."
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory sees the north gate as being for the Gentiles, beginners, and"
+        },
+        {
+          "line_number": 731,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "St. Gregory",
+          "context": "St. Gregory sees the outer gates as imaging the Old Testament prophets, and the"
         },
         {
           "line_number": 746,
           "entity": "GREGORY_GREAT",
           "matched_alias": "GrgGt",
+          "context": "cycle of seven days; who feed on inward contemplation\" (GrgGt)."
+        },
+        {
+          "line_number": 864,
+          "entity": "GREGORY_GREAT",
+          "matched_alias": "GrgGt",
           "context": "one cubit, because, if patience fails not, the measure of unity is preserved\" (GrgGt). The"
         },
         {
-          "line_number": 760,
+          "line_number": 883,
           "entity": "JEROME",
           "matched_alias": "St. Jerome",
           "context": "doctrine, it was held to be true by Luther, Calvin, and John Wesley. St. Jerome writes that"
         },
         {
-          "line_number": 760,
+          "line_number": 883,
           "entity": "JEROME",
           "matched_alias": "Jerome",
           "context": "doctrine, it was held to be true by Luther, Calvin, and John Wesley. St. Jerome writes that"
         },
         {
-          "line_number": 830,
+          "line_number": 953,
           "entity": "JEROME",
           "matched_alias": "Jerome",
           "context": "it heals the bitter waters and quickens those that are dead\" (Jerome)."
@@ -456,76 +452,44 @@
       "entity_counts": {
         "AMBROSE_MILAN": 1,
         "EPHRAIM_SYRIAN": 1,
-        "GREGORY_GREAT": 23,
+        "GREGORY_GREAT": 36,
         "IRENAEUS": 1,
         "JEROME": 7,
         "JOHN_FORERUNNER": 3,
-        "JOHN_THEOLOGIAN": 1
+        "JOHN_THEOLOGIAN": 1,
+        "JUSTIN_MARTYR": 1,
+        "SEPTUAGINT": 1,
+        "ZACHARIAS_PROPHET": 3
       },
-      "unresolved_candidates_count": 6,
-      "unresolved_candidates": [
-        {
-          "line_number": 22,
-          "token": "St. Gregory",
-          "context": "St. Gregory writes that Ezekiel recognized the Incarnation of the Only Begotten"
-        },
-        {
-          "line_number": 60,
-          "token": "St. Gregory",
-          "context": "The burning coals (v. 13), writes St. Gregory, are \"holy men\" (see Is 6:6 and note). The lamps signify the light of the gospel (see [[JDG.7:16]]). 1:14-21 The wheels signify Holy Scripture, and the wheel within a wheel illustrates that"
-        },
-        {
-          "line_number": 64,
-          "token": "St. Gregory",
-          "context": "St. Gregory sees in the wings an image of the virtues of the righteous. 1:25"
-        },
-        {
-          "line_number": 404,
-          "token": "St. Zacharias",
-          "context": "the kingly line of Judah went silent until the coming of Christ (see [[GEN.49:9]]-12). St. Zacharias, the priest who was made mute because of his unbelief, was given back his"
-        },
-        {
-          "line_number": 598,
-          "token": "St. Gregory",
-          "context": "St. Gregory sees the north gate as being for the Gentiles, beginners, and"
-        },
-        {
-          "line_number": 610,
-          "token": "St. Gregory",
-          "context": "St. Gregory sees the outer gates as imaging the Old Testament prophets, and the"
-        }
-      ],
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
       "explicit_citation_snippets": [
         {
-          "line_number": 62,
+          "line_number": 67,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 78,
+          "line_number": 93,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 474,
+          "line_number": 595,
           "snippet": "AmbM"
         },
         {
-          "line_number": 484,
+          "line_number": 605,
           "snippet": "Iren"
         },
         {
-          "line_number": 495,
+          "line_number": 616,
           "snippet": "EphS"
         },
         {
-          "line_number": 531,
+          "line_number": 652,
           "snippet": "GrgGt"
         },
         {
-          "line_number": 569,
-          "snippet": "GrgGt"
-        },
-        {
-          "line_number": 625,
+          "line_number": 690,
           "snippet": "GrgGt"
         },
         {
@@ -533,7 +497,11 @@
           "snippet": "GrgGt"
         },
         {
-          "line_number": 830,
+          "line_number": 864,
+          "snippet": "GrgGt"
+        },
+        {
+          "line_number": 953,
           "snippet": "Jerome"
         }
       ]
@@ -542,19 +510,19 @@
       "matched_entities_count": 3,
       "matched_entities": [
         {
-          "line_number": 122,
+          "line_number": 153,
           "entity": "PETER_APOSTLE",
           "matched_alias": "Apostle Peter",
           "context": "given. The Apostle Peter made a similar protest (see [[ACT.10:9]]-16). But in a striking"
         },
         {
-          "line_number": 122,
+          "line_number": 153,
           "entity": "PETER_APOSTLE",
           "matched_alias": "Peter",
           "context": "given. The Apostle Peter made a similar protest (see [[ACT.10:9]]-16). But in a striking"
         },
         {
-          "line_number": 216,
+          "line_number": 296,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
           "context": "tombs\" ([[MAT.23:27]]), while Paul calls the high priest Ananias a \"whitewashed wall\" (Acts"
@@ -578,7 +546,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 37,
+    "matched_entities_count": 55,
     "matched_entities": [
       {
         "line_number": 15,
@@ -593,211 +561,319 @@
         "context": "St. Gregory the Great comments that after establishing the time and place in history, the Prophet Ezekiel mystically \"shows forth the Lord,\" for in Christ's thirtieth year He"
       },
       {
+        "line_number": 15,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory the Great comments that after establishing the time and place in history, the Prophet Ezekiel mystically \"shows forth the Lord,\" for in Christ's thirtieth year He"
+      },
+      {
+        "line_number": 22,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory writes that Ezekiel recognized the Incarnation of the Only Begotten"
+      },
+      {
         "line_number": 36,
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
-        "context": "of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see Rev"
+        "context": "of the throne of God ([[EXO.25:10]]-22; 3Kg 6:23-28). Like those of St. John's vision (see Rev 4:6-9), they are seen by the Fathers to typify the Four Evangelists, while their unity in"
       },
       {
-        "line_number": 46,
+        "line_number": 43,
         "entity": "GREGORY_GREAT",
         "matched_alias": "St. Gregory the Great",
         "context": "St. Gregory the Great comments that the man is Matthew, because he begins his"
       },
       {
-        "line_number": 46,
+        "line_number": 43,
         "entity": "GREGORY_GREAT",
         "matched_alias": "Gregory the Great",
         "context": "St. Gregory the Great comments that the man is Matthew, because he begins his"
       },
       {
-        "line_number": 62,
+        "line_number": 43,
         "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "\"the New Testament lay hidden by allegory in the letter of the Old Testament\" (GrgGt). 1:22"
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory the Great comments that the man is Matthew, because he begins his"
       },
       {
-        "line_number": 78,
+        "line_number": 60,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "The burning coals (v. 13), writes St. Gregory, are \"holy men\" (see Is 6:6 and note). The lamps signify the light of the gospel (see [[JDG.7:16]])."
+      },
+      {
+        "line_number": 67,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
+        "context": "\"the New Testament lay hidden by allegory in the letter of the Old Testament\" (GrgGt)."
+      },
+      {
+        "line_number": 72,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory sees in the wings an image of the virtues of the righteous."
+      },
+      {
+        "line_number": 93,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "the weak\" (GrgGt). Lamentation and mourning indicate repentance, while woe"
       },
       {
-        "line_number": 92,
+        "line_number": 118,
         "entity": "JOHN_FORERUNNER",
         "matched_alias": "John the Baptist",
         "context": "foreshadows John the Baptist preaching repentance and baptizing the Jewish faithful at"
       },
       {
-        "line_number": 108,
+        "line_number": 134,
         "entity": "JOHN_FORERUNNER",
         "matched_alias": "John the Baptist",
         "context": "prophecy to make way for Christ. Note that John the Baptist, the last Old Testament"
       },
       {
-        "line_number": 114,
+        "line_number": 136,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "prophet, was put in prison ([[MRK.1:14]]); and his father, Zacharias, had his tongue bound"
+      },
+      {
+        "line_number": 140,
         "entity": "GREGORY_GREAT",
         "matched_alias": "St. Gregory the Great",
         "context": "St. Gregory the Great comments that the Prophet is called son of man so that when"
       },
       {
-        "line_number": 114,
+        "line_number": 140,
         "entity": "GREGORY_GREAT",
         "matched_alias": "Gregory the Great",
         "context": "St. Gregory the Great comments that the Prophet is called son of man so that when"
       },
       {
-        "line_number": 164,
+        "line_number": 140,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory the Great comments that the Prophet is called son of man so that when"
+      },
+      {
+        "line_number": 208,
         "entity": "GREGORY_GREAT",
         "matched_alias": "St. Gregory the Great",
         "context": "of Holy Scripture, the Old and New Testaments alike. St. Gregory the Great sees in the"
       },
       {
-        "line_number": 164,
+        "line_number": 208,
         "entity": "GREGORY_GREAT",
         "matched_alias": "Gregory the Great",
         "context": "of Holy Scripture, the Old and New Testaments alike. St. Gregory the Great sees in the"
       },
       {
-        "line_number": 176,
+        "line_number": 208,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "of Holy Scripture, the Old and New Testaments alike. St. Gregory the Great sees in the"
+      },
+      {
+        "line_number": 226,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "Wheel translates the word Gelgel, used in the LXX as a proper noun, a"
+      },
+      {
+        "line_number": 228,
         "entity": "JEROME",
         "matched_alias": "St. Jerome",
         "context": "transliteration of the Hebrew glgl. In the Vulgate, St. Jerome translates it \"turnings.\""
       },
       {
-        "line_number": 176,
+        "line_number": 228,
         "entity": "JEROME",
         "matched_alias": "Jerome",
         "context": "transliteration of the Hebrew glgl. In the Vulgate, St. Jerome translates it \"turnings.\""
       },
       {
-        "line_number": 272,
+        "line_number": 388,
         "entity": "JEROME",
         "matched_alias": "St. Jerome",
         "context": "Bamah: There is a play on words here: abamah means \"high place\" in Hebrew; bema in Greek means the same. St. Jerome translates this as excelsum (\"the exalted"
       },
       {
-        "line_number": 272,
+        "line_number": 388,
         "entity": "JEROME",
         "matched_alias": "Jerome",
         "context": "Bamah: There is a play on words here: abamah means \"high place\" in Hebrew; bema in Greek means the same. St. Jerome translates this as excelsum (\"the exalted"
       },
       {
-        "line_number": 406,
+        "line_number": 518,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "Justin",
+        "context": "whatsoever things I shall take you, in these I shall judge you'\" (Justin; compare [[JOH.12:47]], [[JOH.12:48]])."
+      },
+      {
+        "line_number": 525,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "St. Zacharias",
+        "context": "the kingly line of Judah went silent until the coming of Christ (see [[GEN.49:9]]-12). St. Zacharias, the priest who was made mute because of his unbelief, was given back his"
+      },
+      {
+        "line_number": 525,
+        "entity": "ZACHARIAS_PROPHET",
+        "matched_alias": "Zacharias",
+        "context": "the kingly line of Judah went silent until the coming of Christ (see [[GEN.49:9]]-12). St. Zacharias, the priest who was made mute because of his unbelief, was given back his"
+      },
+      {
+        "line_number": 527,
         "entity": "JOHN_FORERUNNER",
         "matched_alias": "John the Baptist",
         "context": "voice when his son John the Baptist was born ([[LUK.1:5]]-20, 57-79). Also see 3:22-27; 19:1-14 and notes."
       },
       {
-        "line_number": 474,
+        "line_number": 595,
         "entity": "AMBROSE_MILAN",
         "matched_alias": "AmbM",
         "context": "left, and subject himself to the sentence by his own unbelief\" (AmbM). \"As we at once perceive that the Creator (Demiurgo) is in this passage represented as"
       },
       {
-        "line_number": 484,
+        "line_number": 605,
         "entity": "IRENAEUS",
         "matched_alias": "Iren",
         "context": "who have not life from themselves\" (Iren)."
       },
       {
-        "line_number": 495,
+        "line_number": 616,
         "entity": "EPHRAIM_SYRIAN",
         "matched_alias": "EphS",
         "context": "fruits\" (EphS)."
       },
       {
-        "line_number": 506,
+        "line_number": 627,
         "entity": "GREGORY_GREAT",
         "matched_alias": "St. Gregory the Great",
         "context": "the beginning. Indeed, St. Gregory the Great remarks that, where that which comes from"
       },
       {
-        "line_number": 506,
+        "line_number": 627,
         "entity": "GREGORY_GREAT",
         "matched_alias": "Gregory the Great",
         "context": "the beginning. Indeed, St. Gregory the Great remarks that, where that which comes from"
       },
       {
-        "line_number": 523,
+        "line_number": 627,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "the beginning. Indeed, St. Gregory the Great remarks that, where that which comes from"
+      },
+      {
+        "line_number": 644,
         "entity": "GREGORY_GREAT",
         "matched_alias": "St. Gregory the Great",
         "context": "St. Gregory the Great sees Christ in both the high mountain and the man. The"
       },
       {
-        "line_number": 523,
+        "line_number": 644,
         "entity": "GREGORY_GREAT",
         "matched_alias": "Gregory the Great",
         "context": "St. Gregory the Great sees Christ in both the high mountain and the man. The"
       },
       {
-        "line_number": 531,
+        "line_number": 644,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory the Great sees Christ in both the high mountain and the man. The"
+      },
+      {
+        "line_number": 652,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "remained unseen\" (GrgGt). Compare [[REV.21:9]]-27."
       },
       {
-        "line_number": 536,
+        "line_number": 657,
         "entity": "GREGORY_GREAT",
         "matched_alias": "St. Gregory the Great",
         "context": "St. Gregory the Great sees in the wall a type of the Incarnation in the womb of the"
       },
       {
-        "line_number": 536,
+        "line_number": 657,
         "entity": "GREGORY_GREAT",
         "matched_alias": "Gregory the Great",
         "context": "St. Gregory the Great sees in the wall a type of the Incarnation in the womb of the"
       },
       {
-        "line_number": 549,
+        "line_number": 657,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory the Great sees in the wall a type of the Incarnation in the womb of the"
+      },
+      {
+        "line_number": 670,
         "entity": "GREGORY_GREAT",
         "matched_alias": "St. Gregory the Great",
         "context": "St. Gregory the Great interprets the meaning of the gates in four ways: as"
       },
       {
-        "line_number": 549,
+        "line_number": 670,
         "entity": "GREGORY_GREAT",
         "matched_alias": "Gregory the Great",
         "context": "St. Gregory the Great interprets the meaning of the gates in four ways: as"
       },
       {
-        "line_number": 569,
+        "line_number": 670,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory the Great interprets the meaning of the gates in four ways: as"
+      },
+      {
+        "line_number": 690,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "Testament faithful are \"kindled with the love of the Trinity\" (GrgGt). The ten cubits (v. 11) points to the perfection of the Law as seen in the Ten Commandments, while the"
       },
       {
-        "line_number": 584,
+        "line_number": 705,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
         "context": "(GrgGt; see Lv 25 and notes)."
       },
       {
-        "line_number": 625,
+        "line_number": 719,
         "entity": "GREGORY_GREAT",
-        "matched_alias": "GrgGt",
-        "context": "cycle of seven days; who feed on inward contemplation\" (GrgGt)."
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory sees the north gate as being for the Gentiles, beginners, and"
+      },
+      {
+        "line_number": 731,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "St. Gregory",
+        "context": "St. Gregory sees the outer gates as imaging the Old Testament prophets, and the"
       },
       {
         "line_number": 746,
         "entity": "GREGORY_GREAT",
         "matched_alias": "GrgGt",
+        "context": "cycle of seven days; who feed on inward contemplation\" (GrgGt)."
+      },
+      {
+        "line_number": 864,
+        "entity": "GREGORY_GREAT",
+        "matched_alias": "GrgGt",
         "context": "one cubit, because, if patience fails not, the measure of unity is preserved\" (GrgGt). The"
       },
       {
-        "line_number": 760,
+        "line_number": 883,
         "entity": "JEROME",
         "matched_alias": "St. Jerome",
         "context": "doctrine, it was held to be true by Luther, Calvin, and John Wesley. St. Jerome writes that"
       },
       {
-        "line_number": 760,
+        "line_number": 883,
         "entity": "JEROME",
         "matched_alias": "Jerome",
         "context": "doctrine, it was held to be true by Luther, Calvin, and John Wesley. St. Jerome writes that"
       },
       {
-        "line_number": 830,
+        "line_number": 953,
         "entity": "JEROME",
         "matched_alias": "Jerome",
         "context": "it heals the bitter waters and quickens those that are dead\" (Jerome)."
@@ -806,76 +882,44 @@
     "entity_counts": {
       "AMBROSE_MILAN": 1,
       "EPHRAIM_SYRIAN": 1,
-      "GREGORY_GREAT": 23,
+      "GREGORY_GREAT": 36,
       "IRENAEUS": 1,
       "JEROME": 7,
       "JOHN_FORERUNNER": 3,
-      "JOHN_THEOLOGIAN": 1
+      "JOHN_THEOLOGIAN": 1,
+      "JUSTIN_MARTYR": 1,
+      "SEPTUAGINT": 1,
+      "ZACHARIAS_PROPHET": 3
     },
-    "unresolved_candidates_count": 6,
-    "unresolved_candidates": [
-      {
-        "line_number": 22,
-        "token": "St. Gregory",
-        "context": "St. Gregory writes that Ezekiel recognized the Incarnation of the Only Begotten"
-      },
-      {
-        "line_number": 60,
-        "token": "St. Gregory",
-        "context": "The burning coals (v. 13), writes St. Gregory, are \"holy men\" (see Is 6:6 and note). The lamps signify the light of the gospel (see [[JDG.7:16]]). 1:14-21 The wheels signify Holy Scripture, and the wheel within a wheel illustrates that"
-      },
-      {
-        "line_number": 64,
-        "token": "St. Gregory",
-        "context": "St. Gregory sees in the wings an image of the virtues of the righteous. 1:25"
-      },
-      {
-        "line_number": 404,
-        "token": "St. Zacharias",
-        "context": "the kingly line of Judah went silent until the coming of Christ (see [[GEN.49:9]]-12). St. Zacharias, the priest who was made mute because of his unbelief, was given back his"
-      },
-      {
-        "line_number": 598,
-        "token": "St. Gregory",
-        "context": "St. Gregory sees the north gate as being for the Gentiles, beginners, and"
-      },
-      {
-        "line_number": 610,
-        "token": "St. Gregory",
-        "context": "St. Gregory sees the outer gates as imaging the Old Testament prophets, and the"
-      }
-    ],
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
     "explicit_citation_snippets": [
       {
-        "line_number": 62,
+        "line_number": 67,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 78,
+        "line_number": 93,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 474,
+        "line_number": 595,
         "snippet": "AmbM"
       },
       {
-        "line_number": 484,
+        "line_number": 605,
         "snippet": "Iren"
       },
       {
-        "line_number": 495,
+        "line_number": 616,
         "snippet": "EphS"
       },
       {
-        "line_number": 531,
+        "line_number": 652,
         "snippet": "GrgGt"
       },
       {
-        "line_number": 569,
-        "snippet": "GrgGt"
-      },
-      {
-        "line_number": 625,
+        "line_number": 690,
         "snippet": "GrgGt"
       },
       {
@@ -883,7 +927,11 @@
         "snippet": "GrgGt"
       },
       {
-        "line_number": 830,
+        "line_number": 864,
+        "snippet": "GrgGt"
+      },
+      {
+        "line_number": 953,
         "snippet": "Jerome"
       }
     ]

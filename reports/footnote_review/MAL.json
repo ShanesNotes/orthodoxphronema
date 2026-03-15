@@ -8,9 +8,9 @@
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/MAL_footnotes.md",
   "component_status": {
     "mechanical_clean": true,
-    "structural_clean": false,
+    "structural_clean": true,
     "marker_alignment_pass": false,
-    "wikilinks_verified": true,
+    "wikilinks_verified": false,
     "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
@@ -18,27 +18,20 @@
   "mechanical": {
     "tool_status": "ok",
     "summary": {
-      "total_findings": 41,
+      "total_findings": 40,
       "auto_fixable": 0,
-      "review_needed": 41,
+      "review_needed": 40,
       "files_checked": 1,
-      "lines_checked": 101,
+      "lines_checked": 100,
       "lines_fixed": 0
     },
     "by_category": {
-      "P6": 39,
-      "P7": 2
+      "P6": 40
     }
   },
   "structure": {
-    "issue_count": 1,
-    "findings": [
-      {
-        "type": "midline_reference_spill",
-        "line_number": 100,
-        "raw_text": "Christians call God Father because Jesus Christ, the eternally begotten Son of God, revealed Him as Father ([[MAT.3:17]]; 6:9), and He has made us the children of God ([[JOH.1:12]]). 2:10-12 Sons of Israel profaned the holy things of the Lord. Too often they followed"
-      }
-    ],
+    "issue_count": 0,
+    "findings": [],
     "truncated": false
   },
   "footnote_verification": {
@@ -100,8 +93,8 @@
     "issue_count": 34
   },
   "wikilinks": {
-    "total_refs": 20,
-    "convertible_refs": 0,
+    "total_refs": 21,
+    "convertible_refs": 1,
     "already_linked_refs": 20,
     "unresolved_refs": 0,
     "unresolved_examples": []
@@ -111,13 +104,13 @@
       "matched_entities_count": 2,
       "matched_entities": [
         {
-          "line_number": 135,
+          "line_number": 134,
           "entity": "JOHN_FORERUNNER",
           "matched_alias": "John the Baptist",
           "context": "My messenger: The Lord will send John the Baptist to prepare the way (see Is"
         },
         {
-          "line_number": 227,
+          "line_number": 226,
           "entity": "ELIJAH_PROPHET",
           "matched_alias": "Elijah",
           "context": "Elijah the Tishbite and Moses were present with the Lord at His Transfiguration (Mt"
@@ -135,16 +128,16 @@
       "matched_entities_count": 2,
       "matched_entities": [
         {
-          "line_number": 104,
+          "line_number": 105,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "St. Paul",
-          "context": "34:11-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be unequally yoked"
+          "context": "Sons of Israel profaned the holy things of the Lord. Too often they followed foreign gods through intermarriage with pagan women, which was prohibited (see Ex 34:11-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be unequa"
         },
         {
-          "line_number": 104,
+          "line_number": 105,
           "entity": "PAUL_APOSTLE",
           "matched_alias": "Paul",
-          "context": "34:11-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be unequally yoked"
+          "context": "Sons of Israel profaned the holy things of the Lord. Too often they followed foreign gods through intermarriage with pagan women, which was prohibited (see Ex 34:11-16; [[DEU.7:1]]-4). St. Paul echoes this truth in saying, \"Do not be unequa"
         }
       ],
       "entity_counts": {
@@ -167,13 +160,13 @@
     "matched_entities_count": 2,
     "matched_entities": [
       {
-        "line_number": 135,
+        "line_number": 134,
         "entity": "JOHN_FORERUNNER",
         "matched_alias": "John the Baptist",
         "context": "My messenger: The Lord will send John the Baptist to prepare the way (see Is"
       },
       {
-        "line_number": 227,
+        "line_number": 226,
         "entity": "ELIJAH_PROPHET",
         "matched_alias": "Elijah",
         "context": "Elijah the Tishbite and Moses were present with the Lord at His Transfiguration (Mt"

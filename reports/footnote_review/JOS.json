@@ -11,7 +11,7 @@
     "structural_clean": true,
     "marker_alignment_pass": false,
     "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
@@ -88,7 +88,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 29,
+      "matched_entities_count": 32,
       "matched_entities": [
         {
           "line_number": 31,
@@ -119,6 +119,12 @@
           "entity": "JOHN_FORERUNNER",
           "matched_alias": "John the Forerunner",
           "context": "As the scribes prepare the people to enter Canaan, St. John the Forerunner will"
+        },
+        {
+          "line_number": 79,
+          "entity": "ELIAS_PRESBYTER",
+          "matched_alias": "ElPres",
+          "context": "kingdom (ElPres). 2:3"
         },
         {
           "line_number": 89,
@@ -167,6 +173,18 @@
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "JohnChr",
           "context": "the devil and his angels (JohnChr)."
+        },
+        {
+          "line_number": 213,
+          "entity": "MICHAEL_ARCHANGEL",
+          "matched_alias": "Archangel Michael",
+          "context": "5:13-15 The chief captain, whom tradition holds to be the Archangel Michael, will lead"
+        },
+        {
+          "line_number": 213,
+          "entity": "MICHAEL_ARCHANGEL",
+          "matched_alias": "Michael",
+          "context": "5:13-15 The chief captain, whom tradition holds to be the Archangel Michael, will lead"
         },
         {
           "line_number": 259,
@@ -270,6 +288,7 @@
         "ANTONY_GREAT": 1,
         "ATHANASIUS": 2,
         "CYRIL_JERUSALEM": 3,
+        "ELIAS_PRESBYTER": 1,
         "EPHRAIM_SYRIAN": 3,
         "GREGORY_NYSSA": 1,
         "GREGORY_THEOLOGIAN": 1,
@@ -278,16 +297,11 @@
         "JOHN_FORERUNNER": 3,
         "JOHN_THEOLOGIAN": 1,
         "JOSEPH_BETROTHED": 2,
-        "MAXIMUS_CONFESSOR": 1
+        "MAXIMUS_CONFESSOR": 1,
+        "MICHAEL_ARCHANGEL": 2
       },
-      "unresolved_candidates_count": 1,
-      "unresolved_candidates": [
-        {
-          "line_number": 79,
-          "token": "ElPres",
-          "context": "kingdom (ElPres). 2:3"
-        }
-      ],
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
       "explicit_citation_snippets": [
         {
           "line_number": 31,
@@ -296,6 +310,10 @@
         {
           "line_number": 45,
           "snippet": "AthanG"
+        },
+        {
+          "line_number": 79,
+          "snippet": "ElPres"
         },
         {
           "line_number": 89,
@@ -389,7 +407,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 29,
+    "matched_entities_count": 32,
     "matched_entities": [
       {
         "line_number": 31,
@@ -420,6 +438,12 @@
         "entity": "JOHN_FORERUNNER",
         "matched_alias": "John the Forerunner",
         "context": "As the scribes prepare the people to enter Canaan, St. John the Forerunner will"
+      },
+      {
+        "line_number": 79,
+        "entity": "ELIAS_PRESBYTER",
+        "matched_alias": "ElPres",
+        "context": "kingdom (ElPres). 2:3"
       },
       {
         "line_number": 89,
@@ -468,6 +492,18 @@
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "JohnChr",
         "context": "the devil and his angels (JohnChr)."
+      },
+      {
+        "line_number": 213,
+        "entity": "MICHAEL_ARCHANGEL",
+        "matched_alias": "Archangel Michael",
+        "context": "5:13-15 The chief captain, whom tradition holds to be the Archangel Michael, will lead"
+      },
+      {
+        "line_number": 213,
+        "entity": "MICHAEL_ARCHANGEL",
+        "matched_alias": "Michael",
+        "context": "5:13-15 The chief captain, whom tradition holds to be the Archangel Michael, will lead"
       },
       {
         "line_number": 259,
@@ -571,6 +607,7 @@
       "ANTONY_GREAT": 1,
       "ATHANASIUS": 2,
       "CYRIL_JERUSALEM": 3,
+      "ELIAS_PRESBYTER": 1,
       "EPHRAIM_SYRIAN": 3,
       "GREGORY_NYSSA": 1,
       "GREGORY_THEOLOGIAN": 1,
@@ -579,16 +616,11 @@
       "JOHN_FORERUNNER": 3,
       "JOHN_THEOLOGIAN": 1,
       "JOSEPH_BETROTHED": 2,
-      "MAXIMUS_CONFESSOR": 1
+      "MAXIMUS_CONFESSOR": 1,
+      "MICHAEL_ARCHANGEL": 2
     },
-    "unresolved_candidates_count": 1,
-    "unresolved_candidates": [
-      {
-        "line_number": 79,
-        "token": "ElPres",
-        "context": "kingdom (ElPres). 2:3"
-      }
-    ],
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
     "explicit_citation_snippets": [
       {
         "line_number": 31,
@@ -597,6 +629,10 @@
       {
         "line_number": 45,
         "snippet": "AthanG"
+      },
+      {
+        "line_number": 79,
+        "snippet": "ElPres"
       },
       {
         "line_number": 89,

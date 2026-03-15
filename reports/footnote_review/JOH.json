@@ -2,7 +2,7 @@
   "book_code": "JOH",
   "position": 53,
   "testament": "NT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/JOH_footnotes.md",
@@ -11,7 +11,7 @@
     "structural_clean": true,
     "marker_alignment_pass": true,
     "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
@@ -72,7 +72,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 79,
+      "matched_entities_count": 84,
       "matched_entities": [
         {
           "line_number": 91,
@@ -339,6 +339,18 @@
           "context": "manuscripts, nor is it covered in the commentaries of St. John Chrysostom and certain"
         },
         {
+          "line_number": 1389,
+          "entity": "MARY_EGYPT",
+          "matched_alias": "St. Mary of Egypt",
+          "context": "two days when St. Mary of Egypt, a reformed prostitute, is commemorated."
+        },
+        {
+          "line_number": 1389,
+          "entity": "MARY_EGYPT",
+          "matched_alias": "Mary of Egypt",
+          "context": "two days when St. Mary of Egypt, a reformed prostitute, is commemorated."
+        },
+        {
           "line_number": 1489,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "St. John Chrysostom",
@@ -391,6 +403,24 @@
           "entity": "JOHN_THEOLOGIAN",
           "matched_alias": "St. John",
           "context": "According to St. John Chrysostom, the door is God's Word, meaning both the"
+        },
+        {
+          "line_number": 1743,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "IgnAnt",
+          "context": "there the people shall gather\" (IgnAnt). Indeed, the response of the faithful can be a"
+        },
+        {
+          "line_number": 1795,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "St. Ignatius",
+          "context": "and Gentile Christians, St. Ignatius taught, \"Be careful to observe a single Eucharist, for"
+        },
+        {
+          "line_number": 1795,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "Ignatius",
+          "context": "and Gentile Christians, St. Ignatius taught, \"Be careful to observe a single Eucharist, for"
         },
         {
           "line_number": 1879,
@@ -552,31 +582,17 @@
       "entity_counts": {
         "ATHANASIUS": 1,
         "HILARY_POITIERS": 1,
+        "IGNATIUS_ANTIOCH": 3,
         "IRENAEUS": 2,
         "JOHN_CHRYSOSTOM": 42,
         "JOHN_FORERUNNER": 9,
         "JOHN_THEOLOGIAN": 19,
         "JOSEPH_BETROTHED": 2,
+        "MARY_EGYPT": 2,
         "PHOTINI_SAMARITAN": 3
       },
-      "unresolved_candidates_count": 3,
-      "unresolved_candidates": [
-        {
-          "line_number": 1389,
-          "token": "St. Mary",
-          "context": "two days when St. Mary of Egypt, a reformed prostitute, is commemorated."
-        },
-        {
-          "line_number": 1743,
-          "token": "IgnAnt",
-          "context": "there the people shall gather\" (IgnAnt). Indeed, the response of the faithful can be a"
-        },
-        {
-          "line_number": 1795,
-          "token": "St. Ignatius",
-          "context": "and Gentile Christians, St. Ignatius taught, \"Be careful to observe a single Eucharist, for"
-        }
-      ],
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
       "explicit_citation_snippets": [
         {
           "line_number": 657,
@@ -597,6 +613,10 @@
         {
           "line_number": 1587,
           "snippet": "JohnChr"
+        },
+        {
+          "line_number": 1743,
+          "snippet": "IgnAnt"
         },
         {
           "line_number": 1879,
@@ -790,7 +810,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 79,
+    "matched_entities_count": 84,
     "matched_entities": [
       {
         "line_number": 91,
@@ -1057,6 +1077,18 @@
         "context": "manuscripts, nor is it covered in the commentaries of St. John Chrysostom and certain"
       },
       {
+        "line_number": 1389,
+        "entity": "MARY_EGYPT",
+        "matched_alias": "St. Mary of Egypt",
+        "context": "two days when St. Mary of Egypt, a reformed prostitute, is commemorated."
+      },
+      {
+        "line_number": 1389,
+        "entity": "MARY_EGYPT",
+        "matched_alias": "Mary of Egypt",
+        "context": "two days when St. Mary of Egypt, a reformed prostitute, is commemorated."
+      },
+      {
         "line_number": 1489,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "St. John Chrysostom",
@@ -1109,6 +1141,24 @@
         "entity": "JOHN_THEOLOGIAN",
         "matched_alias": "St. John",
         "context": "According to St. John Chrysostom, the door is God's Word, meaning both the"
+      },
+      {
+        "line_number": 1743,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "IgnAnt",
+        "context": "there the people shall gather\" (IgnAnt). Indeed, the response of the faithful can be a"
+      },
+      {
+        "line_number": 1795,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "St. Ignatius",
+        "context": "and Gentile Christians, St. Ignatius taught, \"Be careful to observe a single Eucharist, for"
+      },
+      {
+        "line_number": 1795,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "Ignatius",
+        "context": "and Gentile Christians, St. Ignatius taught, \"Be careful to observe a single Eucharist, for"
       },
       {
         "line_number": 1879,
@@ -1270,31 +1320,17 @@
     "entity_counts": {
       "ATHANASIUS": 1,
       "HILARY_POITIERS": 1,
+      "IGNATIUS_ANTIOCH": 3,
       "IRENAEUS": 2,
       "JOHN_CHRYSOSTOM": 42,
       "JOHN_FORERUNNER": 9,
       "JOHN_THEOLOGIAN": 19,
       "JOSEPH_BETROTHED": 2,
+      "MARY_EGYPT": 2,
       "PHOTINI_SAMARITAN": 3
     },
-    "unresolved_candidates_count": 3,
-    "unresolved_candidates": [
-      {
-        "line_number": 1389,
-        "token": "St. Mary",
-        "context": "two days when St. Mary of Egypt, a reformed prostitute, is commemorated."
-      },
-      {
-        "line_number": 1743,
-        "token": "IgnAnt",
-        "context": "there the people shall gather\" (IgnAnt). Indeed, the response of the faithful can be a"
-      },
-      {
-        "line_number": 1795,
-        "token": "St. Ignatius",
-        "context": "and Gentile Christians, St. Ignatius taught, \"Be careful to observe a single Eucharist, for"
-      }
-    ],
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
     "explicit_citation_snippets": [
       {
         "line_number": 657,
@@ -1315,6 +1351,10 @@
       {
         "line_number": 1587,
         "snippet": "JohnChr"
+      },
+      {
+        "line_number": 1743,
+        "snippet": "IgnAnt"
       },
       {
         "line_number": 1879,

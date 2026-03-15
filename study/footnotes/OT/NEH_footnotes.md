@@ -64,7 +64,7 @@ of the walls and gates of Jerusalem." Nehemiah's prayer reflects his devotion to
 
 of Scripture. The phrase great and awesome God is from [[DEU.7:21]]. Verses 8 and 9 quote
 
-[[DEU.30:1]]-5. This man . . . the king is Artaxerxes I, under whom Nehemiah held the office
+[[DEU.30:1]]-5. This man... the king is Artaxerxes I, under whom Nehemiah held the office
 
 of cupbearer (v. 11). He it is who would grant Nehemiah's request to return to
 

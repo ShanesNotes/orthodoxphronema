@@ -67,7 +67,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 19,
+      "matched_entities_count": 20,
       "matched_entities": [
         {
           "line_number": 169,
@@ -80,6 +80,12 @@
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "JohnChr",
           "context": "because of their great insignificance\" (JohnChr). There is no such thing as a \"no-account\""
+        },
+        {
+          "line_number": 487,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "Septuagint",
+          "context": "The Greek word for mourned (pentheo) is also used in the Septuagint to refer to (1)"
         },
         {
           "line_number": 635,
@@ -187,7 +193,8 @@
       "entity_counts": {
         "BASIL_GREAT": 4,
         "JOHN_CHRYSOSTOM": 11,
-        "JOHN_THEOLOGIAN": 4
+        "JOHN_THEOLOGIAN": 4,
+        "SEPTUAGINT": 1
       },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
@@ -611,7 +618,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 19,
+    "matched_entities_count": 20,
     "matched_entities": [
       {
         "line_number": 169,
@@ -624,6 +631,12 @@
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "JohnChr",
         "context": "because of their great insignificance\" (JohnChr). There is no such thing as a \"no-account\""
+      },
+      {
+        "line_number": 487,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "Septuagint",
+        "context": "The Greek word for mourned (pentheo) is also used in the Septuagint to refer to (1)"
       },
       {
         "line_number": 635,
@@ -731,7 +744,8 @@
     "entity_counts": {
       "BASIL_GREAT": 4,
       "JOHN_CHRYSOSTOM": 11,
-      "JOHN_THEOLOGIAN": 4
+      "JOHN_THEOLOGIAN": 4,
+      "SEPTUAGINT": 1
     },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],

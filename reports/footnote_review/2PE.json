@@ -2,7 +2,7 @@
   "book_code": "2PE",
   "position": 71,
   "testament": "NT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/2PE_footnotes.md",
@@ -11,7 +11,7 @@
     "structural_clean": true,
     "marker_alignment_pass": true,
     "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
@@ -72,8 +72,14 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 1,
+      "matched_entities_count": 2,
       "matched_entities": [
+        {
+          "line_number": 79,
+          "entity": "CYRIL_ALEXANDRIA",
+          "matched_alias": "CyrAl",
+          "context": "their midst' (Lv 26:12; [[2CO.6:16]])\" (CyrAl)."
+        },
         {
           "line_number": 181,
           "entity": "IRENAEUS",
@@ -82,17 +88,16 @@
         }
       ],
       "entity_counts": {
+        "CYRIL_ALEXANDRIA": 1,
         "IRENAEUS": 1
       },
-      "unresolved_candidates_count": 1,
-      "unresolved_candidates": [
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
+      "explicit_citation_snippets": [
         {
           "line_number": 79,
-          "token": "CyrAl",
-          "context": "their midst' (Lv 26:12; [[2CO.6:16]])\" (CyrAl)."
-        }
-      ],
-      "explicit_citation_snippets": [
+          "snippet": "CyrAl"
+        },
         {
           "line_number": 181,
           "snippet": "Iren"
@@ -200,8 +205,14 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 1,
+    "matched_entities_count": 2,
     "matched_entities": [
+      {
+        "line_number": 79,
+        "entity": "CYRIL_ALEXANDRIA",
+        "matched_alias": "CyrAl",
+        "context": "their midst' (Lv 26:12; [[2CO.6:16]])\" (CyrAl)."
+      },
       {
         "line_number": 181,
         "entity": "IRENAEUS",
@@ -210,17 +221,16 @@
       }
     ],
     "entity_counts": {
+      "CYRIL_ALEXANDRIA": 1,
       "IRENAEUS": 1
     },
-    "unresolved_candidates_count": 1,
-    "unresolved_candidates": [
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
+    "explicit_citation_snippets": [
       {
         "line_number": 79,
-        "token": "CyrAl",
-        "context": "their midst' (Lv 26:12; [[2CO.6:16]])\" (CyrAl)."
-      }
-    ],
-    "explicit_citation_snippets": [
+        "snippet": "CyrAl"
+      },
       {
         "line_number": 181,
         "snippet": "Iren"

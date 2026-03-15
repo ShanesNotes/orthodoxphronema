@@ -4,21 +4,20 @@
   "format": "json",
   "applied": false,
   "summary": {
-    "total_findings": 488,
-    "auto_fixable": 3,
+    "total_findings": 485,
+    "auto_fixable": 0,
     "review_needed": 485,
     "files_checked": 1,
     "lines_checked": 1411,
-    "lines_fixed": 1
+    "lines_fixed": 0
   },
   "by_category": {
-    "P2": 3,
     "P4": 3,
     "P6": 446,
     "P7": 36
   },
   "by_file": {
-    "/home/ark/orthodoxphronema/study/footnotes/NT/REV_footnotes.md": 488
+    "/home/ark/orthodoxphronema/study/footnotes/NT/REV_footnotes.md": 485
   },
   "findings": [
     {
@@ -438,39 +437,6 @@
       "suggested": "",
       "auto_fixable": false,
       "context": "waters,\" [[REV.7:17]]) is the grace of the Holy Spirit, bestowed along with baptism in"
-    },
-    {
-      "file": "/home/ark/orthodoxphronema/study/footnotes/NT/REV_footnotes.md",
-      "line": 3087,
-      "anchor": "",
-      "code": "P2",
-      "message": "Space before '.'",
-      "original": " .",
-      "suggested": ".",
-      "auto_fixable": true,
-      "context": "[[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name . . . on their"
-    },
-    {
-      "file": "/home/ark/orthodoxphronema/study/footnotes/NT/REV_footnotes.md",
-      "line": 3087,
-      "anchor": "",
-      "code": "P2",
-      "message": "Space before '.'",
-      "original": " .",
-      "suggested": ".",
-      "auto_fixable": true,
-      "context": "[[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name . . . on their"
-    },
-    {
-      "file": "/home/ark/orthodoxphronema/study/footnotes/NT/REV_footnotes.md",
-      "line": 3087,
-      "anchor": "",
-      "code": "P2",
-      "message": "Space before '.'",
-      "original": " .",
-      "suggested": ".",
-      "auto_fixable": true,
-      "context": "[[1JN.3:2]]). But in the age to come the faithful, who bear Jesus' name . . . on their"
     },
     {
       "file": "/home/ark/orthodoxphronema/study/footnotes/NT/REV_footnotes.md",

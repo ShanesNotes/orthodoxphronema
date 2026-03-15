@@ -88,7 +88,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 8,
+      "matched_entities_count": 9,
       "matched_entities": [
         {
           "line_number": 129,
@@ -121,6 +121,12 @@
           "context": "Christ, comes from Ephraim's line (v. 27). 8:1-40"
         },
         {
+          "line_number": 211,
+          "entity": "SERAPHIM_SAROV",
+          "matched_alias": "Seraphim",
+          "context": "more glorious beyond compare than the seraphim, without defilement you gave birth to"
+        },
+        {
           "line_number": 253,
           "entity": "JOHN_FORERUNNER",
           "matched_alias": "John the Baptist",
@@ -143,7 +149,8 @@
         "AMBROSE_MILAN": 2,
         "EPHRAIM_SYRIAN": 4,
         "JOHN_FORERUNNER": 1,
-        "JOSEPH_BETROTHED": 1
+        "JOSEPH_BETROTHED": 1,
+        "SERAPHIM_SAROV": 1
       },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
@@ -194,7 +201,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 8,
+    "matched_entities_count": 9,
     "matched_entities": [
       {
         "line_number": 129,
@@ -227,6 +234,12 @@
         "context": "Christ, comes from Ephraim's line (v. 27). 8:1-40"
       },
       {
+        "line_number": 211,
+        "entity": "SERAPHIM_SAROV",
+        "matched_alias": "Seraphim",
+        "context": "more glorious beyond compare than the seraphim, without defilement you gave birth to"
+      },
+      {
         "line_number": 253,
         "entity": "JOHN_FORERUNNER",
         "matched_alias": "John the Baptist",
@@ -249,7 +262,8 @@
       "AMBROSE_MILAN": 2,
       "EPHRAIM_SYRIAN": 4,
       "JOHN_FORERUNNER": 1,
-      "JOSEPH_BETROTHED": 1
+      "JOSEPH_BETROTHED": 1,
+      "SERAPHIM_SAROV": 1
     },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],

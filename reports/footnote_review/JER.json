@@ -270,7 +270,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 28,
+      "matched_entities_count": 32,
       "matched_entities": [
         {
           "line_number": 79,
@@ -337,6 +337,12 @@
           "entity": "ATHANASIUS",
           "matched_alias": "AthanG",
           "context": "not the Lord, and were faithless, he charges them with unrighteousness\" (AthanG)."
+        },
+        {
+          "line_number": 368,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "Justin",
+          "context": "flesh'\" (Justin)."
         },
         {
           "line_number": 383,
@@ -411,6 +417,18 @@
           "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that"
         },
         {
+          "line_number": 749,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "King of Babylon: Although rarely named in the LXX, Nebuchadnezzar is the one"
+        },
+        {
+          "line_number": 859,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "Greek sword: Interestingly, the LXX translators deemed it right to use an image of"
+        },
+        {
           "line_number": 933,
           "entity": "AMBROSE_MILAN",
           "matched_alias": "St. Ambrose",
@@ -421,6 +439,12 @@
           "entity": "AMBROSE_MILAN",
           "matched_alias": "Ambrose",
           "context": "Canaan. This descriptive title foreshadows the eventual gathering of all nations, tongues, and tribes as the people of God. St. Ambrose reminds us that calling the Philistines by"
+        },
+        {
+          "line_number": 1263,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "The LXX transliterates a generic Semitic word for lord to prevent any confusion"
         },
         {
           "line_number": 1384,
@@ -451,7 +475,9 @@
         "IRENAEUS": 2,
         "JEROME": 2,
         "JOHN_CHRYSOSTOM": 7,
-        "JOHN_THEOLOGIAN": 2
+        "JOHN_THEOLOGIAN": 2,
+        "JUSTIN_MARTYR": 1,
+        "SEPTUAGINT": 3
       },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
@@ -475,6 +501,10 @@
         {
           "line_number": 343,
           "snippet": "AthanG"
+        },
+        {
+          "line_number": 368,
+          "snippet": "Justin"
         },
         {
           "line_number": 383,
@@ -607,7 +637,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 28,
+    "matched_entities_count": 32,
     "matched_entities": [
       {
         "line_number": 79,
@@ -674,6 +704,12 @@
         "entity": "ATHANASIUS",
         "matched_alias": "AthanG",
         "context": "not the Lord, and were faithless, he charges them with unrighteousness\" (AthanG)."
+      },
+      {
+        "line_number": 368,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "Justin",
+        "context": "flesh'\" (Justin)."
       },
       {
         "line_number": 383,
@@ -748,6 +784,18 @@
         "context": "The heart is deep beyond all things: St. John Chrysostom labors the point that"
       },
       {
+        "line_number": 749,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "King of Babylon: Although rarely named in the LXX, Nebuchadnezzar is the one"
+      },
+      {
+        "line_number": 859,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "Greek sword: Interestingly, the LXX translators deemed it right to use an image of"
+      },
+      {
         "line_number": 933,
         "entity": "AMBROSE_MILAN",
         "matched_alias": "St. Ambrose",
@@ -758,6 +806,12 @@
         "entity": "AMBROSE_MILAN",
         "matched_alias": "Ambrose",
         "context": "Canaan. This descriptive title foreshadows the eventual gathering of all nations, tongues, and tribes as the people of God. St. Ambrose reminds us that calling the Philistines by"
+      },
+      {
+        "line_number": 1263,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "The LXX transliterates a generic Semitic word for lord to prevent any confusion"
       },
       {
         "line_number": 1384,
@@ -788,7 +842,9 @@
       "IRENAEUS": 2,
       "JEROME": 2,
       "JOHN_CHRYSOSTOM": 7,
-      "JOHN_THEOLOGIAN": 2
+      "JOHN_THEOLOGIAN": 2,
+      "JUSTIN_MARTYR": 1,
+      "SEPTUAGINT": 3
     },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],
@@ -812,6 +868,10 @@
       {
         "line_number": 343,
         "snippet": "AthanG"
+      },
+      {
+        "line_number": 368,
+        "snippet": "Justin"
       },
       {
         "line_number": 383,

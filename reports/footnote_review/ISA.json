@@ -306,8 +306,14 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 30,
+      "matched_entities_count": 32,
       "matched_entities": [
+        {
+          "line_number": 130,
+          "entity": "SERAPHIM_SAROV",
+          "matched_alias": "Seraphim",
+          "context": "receives communion, he quietly quotes the seraphim's proclamation (v. 7)."
+        },
         {
           "line_number": 152,
           "entity": "JOHN_CHRYSOSTOM",
@@ -319,6 +325,12 @@
           "entity": "JEROME",
           "matched_alias": "Jerome",
           "context": "virgin, shut off from the occasional sight of men\" (Jerome). The Greek word used in the"
+        },
+        {
+          "line_number": 158,
+          "entity": "SEPTUAGINT",
+          "matched_alias": "LXX",
+          "context": "LXX is parthenos, which means \"virgin.\" Immanuel, meaning \"God with us,\" refers to"
         },
         {
           "line_number": 272,
@@ -506,7 +518,9 @@
         "JOHN_DAMASCENE": 3,
         "JOHN_FORERUNNER": 2,
         "JOHN_THEOLOGIAN": 1,
-        "JOSEPH_BETROTHED": 1
+        "JOSEPH_BETROTHED": 1,
+        "SEPTUAGINT": 1,
+        "SERAPHIM_SAROV": 1
       },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
@@ -640,8 +654,14 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 30,
+    "matched_entities_count": 32,
     "matched_entities": [
+      {
+        "line_number": 130,
+        "entity": "SERAPHIM_SAROV",
+        "matched_alias": "Seraphim",
+        "context": "receives communion, he quietly quotes the seraphim's proclamation (v. 7)."
+      },
       {
         "line_number": 152,
         "entity": "JOHN_CHRYSOSTOM",
@@ -653,6 +673,12 @@
         "entity": "JEROME",
         "matched_alias": "Jerome",
         "context": "virgin, shut off from the occasional sight of men\" (Jerome). The Greek word used in the"
+      },
+      {
+        "line_number": 158,
+        "entity": "SEPTUAGINT",
+        "matched_alias": "LXX",
+        "context": "LXX is parthenos, which means \"virgin.\" Immanuel, meaning \"God with us,\" refers to"
       },
       {
         "line_number": 272,
@@ -840,7 +866,9 @@
       "JOHN_DAMASCENE": 3,
       "JOHN_FORERUNNER": 2,
       "JOHN_THEOLOGIAN": 1,
-      "JOSEPH_BETROTHED": 1
+      "JOSEPH_BETROTHED": 1,
+      "SEPTUAGINT": 1,
+      "SERAPHIM_SAROV": 1
     },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],

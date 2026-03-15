@@ -2,7 +2,7 @@
   "book_code": "MAT",
   "position": 50,
   "testament": "NT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/MAT_footnotes.md",
@@ -11,7 +11,7 @@
     "structural_clean": true,
     "marker_alignment_pass": true,
     "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
@@ -77,7 +77,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 85,
+      "matched_entities_count": 92,
       "matched_entities": [
         {
           "line_number": 77,
@@ -362,6 +362,30 @@
           "context": "St. John Chrysostom notes this rebuke is directed at the nine disciples who could"
         },
         {
+          "line_number": 2523,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "St. Ignatius of Antioch",
+          "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
+        },
+        {
+          "line_number": 2523,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "Ignatius of Antioch",
+          "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
+        },
+        {
+          "line_number": 2523,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "St. Ignatius",
+          "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
+        },
+        {
+          "line_number": 2523,
+          "entity": "IGNATIUS_ANTIOCH",
+          "matched_alias": "Ignatius",
+          "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
+        },
+        {
           "line_number": 2593,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "JohnChr",
@@ -476,6 +500,12 @@
           "context": "Burned up their city: St. John Chrysostom teaches that Christ is prophesying the"
         },
         {
+          "line_number": 3071,
+          "entity": "MARK_EVANGELIST",
+          "matched_alias": "St. Mark",
+          "context": "Lord, we know from St. Mark's account that this man is converted by Christ's answer (Mk"
+        },
+        {
           "line_number": 3149,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "Chrysostom",
@@ -584,6 +614,18 @@
           "context": "words are implicitly spoken by anyone who sins. St. John Chrysostom teaches that even"
         },
         {
+          "line_number": 3903,
+          "entity": "LONGINOS",
+          "matched_alias": "St. Longinos",
+          "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+        },
+        {
+          "line_number": 3903,
+          "entity": "LONGINOS",
+          "matched_alias": "Longinos",
+          "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+        },
+        {
           "line_number": 3915,
           "entity": "JOSEPH_BETROTHED",
           "matched_alias": "Joseph",
@@ -593,29 +635,16 @@
       "entity_counts": {
         "ELIJAH_PROPHET": 3,
         "GREGORY_NYSSA": 1,
+        "IGNATIUS_ANTIOCH": 4,
         "JOHN_CHRYSOSTOM": 42,
         "JOHN_FORERUNNER": 8,
         "JOHN_THEOLOGIAN": 18,
-        "JOSEPH_BETROTHED": 13
+        "JOSEPH_BETROTHED": 13,
+        "LONGINOS": 2,
+        "MARK_EVANGELIST": 1
       },
-      "unresolved_candidates_count": 3,
-      "unresolved_candidates": [
-        {
-          "line_number": 2523,
-          "token": "St. Ignatius",
-          "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
-        },
-        {
-          "line_number": 3071,
-          "token": "St. Mark",
-          "context": "Lord, we know from St. Mark's account that this man is converted by Christ's answer (Mk"
-        },
-        {
-          "line_number": 3903,
-          "token": "St. Longinos",
-          "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
-        }
-      ],
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
       "explicit_citation_snippets": [
         {
           "line_number": 2263,
@@ -838,7 +867,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 85,
+    "matched_entities_count": 92,
     "matched_entities": [
       {
         "line_number": 77,
@@ -1123,6 +1152,30 @@
         "context": "St. John Chrysostom notes this rebuke is directed at the nine disciples who could"
       },
       {
+        "line_number": 2523,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "St. Ignatius of Antioch",
+        "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
+      },
+      {
+        "line_number": 2523,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "Ignatius of Antioch",
+        "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
+      },
+      {
+        "line_number": 2523,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "St. Ignatius",
+        "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
+      },
+      {
+        "line_number": 2523,
+        "entity": "IGNATIUS_ANTIOCH",
+        "matched_alias": "Ignatius",
+        "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
+      },
+      {
         "line_number": 2593,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "JohnChr",
@@ -1237,6 +1290,12 @@
         "context": "Burned up their city: St. John Chrysostom teaches that Christ is prophesying the"
       },
       {
+        "line_number": 3071,
+        "entity": "MARK_EVANGELIST",
+        "matched_alias": "St. Mark",
+        "context": "Lord, we know from St. Mark's account that this man is converted by Christ's answer (Mk"
+      },
+      {
         "line_number": 3149,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "Chrysostom",
@@ -1345,6 +1404,18 @@
         "context": "words are implicitly spoken by anyone who sins. St. John Chrysostom teaches that even"
       },
       {
+        "line_number": 3903,
+        "entity": "LONGINOS",
+        "matched_alias": "St. Longinos",
+        "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+      },
+      {
+        "line_number": 3903,
+        "entity": "LONGINOS",
+        "matched_alias": "Longinos",
+        "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
+      },
+      {
         "line_number": 3915,
         "entity": "JOSEPH_BETROTHED",
         "matched_alias": "Joseph",
@@ -1354,29 +1425,16 @@
     "entity_counts": {
       "ELIJAH_PROPHET": 3,
       "GREGORY_NYSSA": 1,
+      "IGNATIUS_ANTIOCH": 4,
       "JOHN_CHRYSOSTOM": 42,
       "JOHN_FORERUNNER": 8,
       "JOHN_THEOLOGIAN": 18,
-      "JOSEPH_BETROTHED": 13
+      "JOSEPH_BETROTHED": 13,
+      "LONGINOS": 2,
+      "MARK_EVANGELIST": 1
     },
-    "unresolved_candidates_count": 3,
-    "unresolved_candidates": [
-      {
-        "line_number": 2523,
-        "token": "St. Ignatius",
-        "context": "willingness to love and be loved. In Orthodox iconography, St. Ignatius of Antioch is"
-      },
-      {
-        "line_number": 3071,
-        "token": "St. Mark",
-        "context": "Lord, we know from St. Mark's account that this man is converted by Christ's answer (Mk"
-      },
-      {
-        "line_number": 3903,
-        "token": "St. Longinos",
-        "context": "acknowledges Him as the Son of God. Tradition knows this soldier as St. Longinos."
-      }
-    ],
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
     "explicit_citation_snippets": [
       {
         "line_number": 2263,

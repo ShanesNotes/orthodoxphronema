@@ -2,7 +2,7 @@
   "book_code": "1TI",
   "position": 64,
   "testament": "NT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/1TI_footnotes.md",
@@ -11,7 +11,7 @@
     "structural_clean": true,
     "marker_alignment_pass": true,
     "wikilinks_verified": true,
-    "patristic_entity_verified": false,
+    "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
   },
@@ -66,7 +66,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 5,
+      "matched_entities_count": 7,
       "matched_entities": [
         {
           "line_number": 21,
@@ -78,6 +78,18 @@
           "line_number": 51,
           "entity": "PHOTINI_SAMARITAN",
           "matched_alias": "Photini",
+          "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
+        },
+        {
+          "line_number": 51,
+          "entity": "MARY_EGYPT",
+          "matched_alias": "St. Mary of Egypt",
+          "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
+        },
+        {
+          "line_number": 51,
+          "entity": "MARY_EGYPT",
+          "matched_alias": "Mary of Egypt",
           "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
         },
         {
@@ -102,16 +114,11 @@
       "entity_counts": {
         "JOHN_CHRYSOSTOM": 3,
         "JOHN_THEOLOGIAN": 1,
+        "MARY_EGYPT": 2,
         "PHOTINI_SAMARITAN": 1
       },
-      "unresolved_candidates_count": 1,
-      "unresolved_candidates": [
-        {
-          "line_number": 51,
-          "token": "St. Mary",
-          "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
-        }
-      ],
+      "unresolved_candidates_count": 0,
+      "unresolved_candidates": [],
       "explicit_citation_snippets": [
         {
           "line_number": 21,
@@ -209,7 +216,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 5,
+    "matched_entities_count": 7,
     "matched_entities": [
       {
         "line_number": 21,
@@ -221,6 +228,18 @@
         "line_number": 51,
         "entity": "PHOTINI_SAMARITAN",
         "matched_alias": "Photini",
+        "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
+      },
+      {
+        "line_number": 51,
+        "entity": "MARY_EGYPT",
+        "matched_alias": "St. Mary of Egypt",
+        "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
+      },
+      {
+        "line_number": 51,
+        "entity": "MARY_EGYPT",
+        "matched_alias": "Mary of Egypt",
         "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
       },
       {
@@ -245,16 +264,11 @@
     "entity_counts": {
       "JOHN_CHRYSOSTOM": 3,
       "JOHN_THEOLOGIAN": 1,
+      "MARY_EGYPT": 2,
       "PHOTINI_SAMARITAN": 1
     },
-    "unresolved_candidates_count": 1,
-    "unresolved_candidates": [
-      {
-        "line_number": 51,
-        "token": "St. Mary",
-        "context": "David, Photini--the woman at the well, Matthew, Paul, St. Mary of Egypt)."
-      }
-    ],
+    "unresolved_candidates_count": 0,
+    "unresolved_candidates": [],
     "explicit_citation_snippets": [
       {
         "line_number": 21,

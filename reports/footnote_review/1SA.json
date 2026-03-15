@@ -142,7 +142,7 @@
   },
   "source_entities": {
     "patristic": {
-      "matched_entities_count": 33,
+      "matched_entities_count": 35,
       "matched_entities": [
         {
           "line_number": 59,
@@ -307,6 +307,18 @@
           "context": "This passage created great controversy among the Fathers of the Church. In fact, at least three distinct interpretations can be found. 1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and"
         },
         {
+          "line_number": 688,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "Justin Martyr",
+          "context": "This passage created great controversy among the Fathers of the Church. In fact, at least three distinct interpretations can be found. 1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and"
+        },
+        {
+          "line_number": 688,
+          "entity": "JUSTIN_MARTYR",
+          "matched_alias": "Justin",
+          "context": "This passage created great controversy among the Fathers of the Church. In fact, at least three distinct interpretations can be found. 1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and"
+        },
+        {
           "line_number": 690,
           "entity": "AUGUSTINE_HIPPO",
           "matched_alias": "Augustine",
@@ -357,7 +369,8 @@
         "JEROME": 3,
         "JOHN_CASSIAN": 6,
         "JOHN_CHRYSOSTOM": 1,
-        "JOHN_FORERUNNER": 1
+        "JOHN_FORERUNNER": 1,
+        "JUSTIN_MARTYR": 2
       },
       "unresolved_candidates_count": 0,
       "unresolved_candidates": [],
@@ -386,7 +399,7 @@
     }
   },
   "patristics": {
-    "matched_entities_count": 33,
+    "matched_entities_count": 35,
     "matched_entities": [
       {
         "line_number": 59,
@@ -551,6 +564,18 @@
         "context": "This passage created great controversy among the Fathers of the Church. In fact, at least three distinct interpretations can be found. 1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and"
       },
       {
+        "line_number": 688,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "Justin Martyr",
+        "context": "This passage created great controversy among the Fathers of the Church. In fact, at least three distinct interpretations can be found. 1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and"
+      },
+      {
+        "line_number": 688,
+        "entity": "JUSTIN_MARTYR",
+        "matched_alias": "Justin",
+        "context": "This passage created great controversy among the Fathers of the Church. In fact, at least three distinct interpretations can be found. 1. The woman called Samuel forth from the dead (Justin Martyr, Origen, Ambrose, and"
+      },
+      {
         "line_number": 690,
         "entity": "AUGUSTINE_HIPPO",
         "matched_alias": "Augustine",
@@ -601,7 +626,8 @@
       "JEROME": 3,
       "JOHN_CASSIAN": 6,
       "JOHN_CHRYSOSTOM": 1,
-      "JOHN_FORERUNNER": 1
+      "JOHN_FORERUNNER": 1,
+      "JUSTIN_MARTYR": 2
     },
     "unresolved_candidates_count": 0,
     "unresolved_candidates": [],

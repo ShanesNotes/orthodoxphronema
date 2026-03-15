@@ -8,7 +8,7 @@
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/AMO_footnotes.md",
   "component_status": {
     "mechanical_clean": true,
-    "structural_clean": false,
+    "structural_clean": true,
     "marker_alignment_pass": false,
     "wikilinks_verified": true,
     "patristic_entity_verified": true,
@@ -18,27 +18,21 @@
   "mechanical": {
     "tool_status": "ok",
     "summary": {
-      "total_findings": 64,
+      "total_findings": 63,
       "auto_fixable": 0,
-      "review_needed": 64,
+      "review_needed": 63,
       "files_checked": 1,
       "lines_checked": 117,
       "lines_fixed": 0
     },
     "by_category": {
-      "P6": 38,
-      "P7": 26
+      "P6": 39,
+      "P7": 24
     }
   },
   "structure": {
-    "issue_count": 1,
-    "findings": [
-      {
-        "type": "midline_reference_spill",
-        "line_number": 177,
-        "raw_text": "17:5, 6). 6:1-6 Basil the Great, quoting this passage, comments that it is shameful when we spend"
-      }
-    ],
+    "issue_count": 0,
+    "findings": [],
     "truncated": false
   },
   "footnote_verification": {
@@ -155,43 +149,43 @@
           "context": "the good... that you may live, and so the Lord God Almighty will be with you\" (AmbM). 5:21-27"
         },
         {
-          "line_number": 177,
+          "line_number": 182,
           "entity": "BASIL_GREAT",
           "matched_alias": "Basil",
-          "context": "17:5, 6). 6:1-6 Basil the Great, quoting this passage, comments that it is shameful when we spend"
+          "context": "Basil the Great, quoting this passage, comments that it is shameful when we spend our time running about \"searching for anything not demanded by real necessity but calculated to provide a wretched delight and ruinous vainglory.\""
         },
         {
-          "line_number": 185,
+          "line_number": 186,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "Chrysostom",
           "context": "Justice was overturned when Pilate, having declared that Christ was innocent, submitted to the anger of the Jews and allowed Him to be crucified ([[LUK.23:13]]-25). Chrysostom remarks further that bitterness was hell's response when Christ "
         },
         {
-          "line_number": 189,
+          "line_number": 190,
           "entity": "EPHRAIM_SYRIAN",
           "matched_alias": "Ephraim the Syrian",
           "context": "Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this"
         },
         {
-          "line_number": 189,
+          "line_number": 190,
           "entity": "EPHRAIM_SYRIAN",
           "matched_alias": "Ephraim",
           "context": "Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this"
         },
         {
-          "line_number": 197,
+          "line_number": 198,
           "entity": "GREGORY_GREAT",
           "matched_alias": "Gregory the Great",
           "context": "7:14-15 Gregory the Great writes on the work of grace in the life of the humble: \"What a"
         },
         {
-          "line_number": 219,
+          "line_number": 220,
           "entity": "BASIL_GREAT",
           "matched_alias": "Basil",
           "context": "Basil the Great writes that when the people \"put to death the bread of life, a hunger"
         },
         {
-          "line_number": 250,
+          "line_number": 251,
           "entity": "JOHN_CHRYSOSTOM",
           "matched_alias": "Chrysostom",
           "context": "God.\" Chrysostom writes on the fallen tabernacle of our human nature, \"For it was not"
@@ -307,43 +301,43 @@
         "context": "the good... that you may live, and so the Lord God Almighty will be with you\" (AmbM). 5:21-27"
       },
       {
-        "line_number": 177,
+        "line_number": 182,
         "entity": "BASIL_GREAT",
         "matched_alias": "Basil",
-        "context": "17:5, 6). 6:1-6 Basil the Great, quoting this passage, comments that it is shameful when we spend"
+        "context": "Basil the Great, quoting this passage, comments that it is shameful when we spend our time running about \"searching for anything not demanded by real necessity but calculated to provide a wretched delight and ruinous vainglory.\""
       },
       {
-        "line_number": 185,
+        "line_number": 186,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "Chrysostom",
         "context": "Justice was overturned when Pilate, having declared that Christ was innocent, submitted to the anger of the Jews and allowed Him to be crucified ([[LUK.23:13]]-25). Chrysostom remarks further that bitterness was hell's response when Christ "
       },
       {
-        "line_number": 189,
+        "line_number": 190,
         "entity": "EPHRAIM_SYRIAN",
         "matched_alias": "Ephraim the Syrian",
         "context": "Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this"
       },
       {
-        "line_number": 189,
+        "line_number": 190,
         "entity": "EPHRAIM_SYRIAN",
         "matched_alias": "Ephraim",
         "context": "Adamant is a stone of unbreakable substance. Ephraim the Syrian writes that this"
       },
       {
-        "line_number": 197,
+        "line_number": 198,
         "entity": "GREGORY_GREAT",
         "matched_alias": "Gregory the Great",
         "context": "7:14-15 Gregory the Great writes on the work of grace in the life of the humble: \"What a"
       },
       {
-        "line_number": 219,
+        "line_number": 220,
         "entity": "BASIL_GREAT",
         "matched_alias": "Basil",
         "context": "Basil the Great writes that when the people \"put to death the bread of life, a hunger"
       },
       {
-        "line_number": 250,
+        "line_number": 251,
         "entity": "JOHN_CHRYSOSTOM",
         "matched_alias": "Chrysostom",
         "context": "God.\" Chrysostom writes on the fallen tabernacle of our human nature, \"For it was not"
