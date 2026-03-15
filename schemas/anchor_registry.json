@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$comment": "Registry v1.1.0. Changes require version bump, changelog entry, and migration plan.",
-  "registry_version": "1.7.3",
+  "registry_version": "1.7.4",
   "ratified_date": "2026-03-15",
   "registry_changelog": [
     {
@@ -78,6 +78,11 @@
       "version": "1.7.3",
       "date": "2026-03-15",
       "description": "2CH ch27 CVC: 9→8. OSB only has 8 verses in ch27 (verified via PDF). Source: OSB PDF."
+    },
+    {
+      "version": "1.7.4",
+      "date": "2026-03-15",
+      "description": "1CH ch1 CVC: 54→42. OSB/LXX versification ends ch1 at v42 (Kings of Edom + Chiefs). The registry value of 54 was MT-based. Ezra audit finding: duplicate content at 1:43-54 removed. Source: Ezra audit + OSB PDF."
     }
   ],
   "total_canonical_books": 76,
@@ -559,7 +564,7 @@
       "osb_name": "1 Chronicles (1 Paraleipomenon)",
       "chapters": 29,
       "chapter_verse_counts": [
-        54,
+        42,
         55,
         24,
         43,
