@@ -1369,7 +1369,10 @@ Validation after v1.7.0: OT 49 books/0 errors/**5 warnings**, NT 27 books/0 erro
 - **Artifacts refreshed:** Audit memo complete. Registry v1.7.0. Knowledge graph: all 76 entities updated. Footnotes: 18,131 OCR blank lines removed.
 - **Remaining known drift:** Stale promotion dossiers (all 76). Dashboard not refreshed.
 - **Remaining canon defects:** 9 issues across 6 books (NUM, DEU, ISA, ROM, 1CO, EZR) require staged recovery + re-promotion.
-- **Remaining registry gaps:** NUM (16 missing — needs parse recovery first), 1CH (14 missing — needs parse recovery), 2CH (1 missing — needs PDF spot-check), LUK (1 missing — needs investigation).
+- **Remaining registry gaps:** NUM has broader LXX versification gaps in canon (staging improved but not complete).
+- **Staged recoveries awaiting re-promotion:** 1CO, ROM, LUK, DEU, NUM, 1CH, ISA, EZR (all V7 PASS in staging).
+- **Ezra audit:** Requested on all 13 staged recovery fixes. Pending.
+- **Final canon validation:** OT 4 warnings (1CH V7, NUM V7, EST ratified), NT 17 warnings (ROM/1CO/LUK V7, 14 cosmetic V8).
 - **Footnote blank-line cleanup:** 18,131 intra-paragraph OCR blank lines removed across all 76 footnote files (29% average reduction, 62,801→44,670 lines). Structure preserved between `###` sections.
 - **Next owner:** Ark (staged recovery for canon defects: NUM, DEU, ISA, ROM, 1CO, EZR)
 
