@@ -33,6 +33,11 @@ memos and canon**, not a replacement for either.
 | `study_footnote` | GEN_footnotes | OSB footnotes — cleanup tier tracked in observations |
 | `study_lectionary` | GEN_lectionary | OSB lectionary notes — 15 books covered so far |
 | `study_collection` | Study_Layer | Rollup of the entire study surface |
+| `reference_frontmatter` | ref_introduction_osb | OSB front matter essays and guides |
+| `reference_backmatter` | ref_glossary | OSB back matter — glossary, lectionary, variants, abbreviations |
+| `reference_liturgical` | ref_morning_prayers | Morning and evening prayer texts |
+| `reference_structured` | ref_glossary_json | Machine-queryable JSON versions of reference content |
+| `reference_collection` | Reference_Layer | Rollup of the entire reference surface |
 
 ### Relation Types
 
@@ -42,6 +47,7 @@ memos and canon**, not a replacement for either.
 | `part_of` | Collection → Project |
 | `governs` | Memo → what it governs |
 | `companion_of` | Study file → Canon book |
+| `structured_form_of` | JSON file → its markdown companion |
 
 ### Cleanup Tier Tracking
 
@@ -79,5 +85,5 @@ create_relations: [{ from: "a", to: "b", relationType: "relation" }]
 
 ### Current Stats
 
-- 260 entities (76 books + 76 articles + 76 footnotes + 15 lectionary + 3 structural + 1 study collection + 13 governing memos)
-- 252 relations (78 book→collection + 2 collection→project + 6 memo→governs + 152 companion→book + 14 misc)
+- 277 entities (76 books + 76 articles + 76 footnotes + 15 lectionary + 3 structural + 1 study collection + 13 governing memos + 7 frontmatter + 4 backmatter + 2 liturgical + 3 structured JSON + 1 reference collection)
+- 286 relations (78 book→collection + 2 collection→project + 6 memo→governs + 152 companion→book + 17 reference→project + 3 structured_form_of + 28 misc)
