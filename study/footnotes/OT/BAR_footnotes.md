@@ -8,23 +8,18 @@ status: staging
 
 ## Footnotes
 
-
 ### 1:2
 *(anchor: BAR.1:2)*
 
 The LXX dates put this event at 581 BC, five years after the Chaldeans sacked
-
 Jerusalem. Most scholars believe the Book of Baruch was written about him, not by
-
 him, at a time much later than the events the book describes, to honor him. 
 
 ### 1:3-7
 *(anchor: BAR.1:3)*
 
 All the people (v. 4), from noblemen on down, when they heard the words of this
-
 book (v. 3), not only experienced repentance, but took up a collection for those who
-
 remained in Jerusalem. 
 
 ### 1:9
@@ -41,99 +36,79 @@ The money was for offerings (see also Jer 17:25; 48:5).
 *(anchor: BAR.1:11)*
 
 God's people have always been called to pray for the... king and all who are in
-
 authority (see [[JER.27:6]]-8; 36:4-7; [[ROM.13:1]]-7; [[1TI.2:1]], [[1TI.2:2]]). 
 
 ### 1:15
 *(anchor: BAR.1:15)*
 
 The prayer that begins here and goes through 3:8 is quite similar to a prayer in Dan
-
 9:7-15. This prayer is offered by those who stayed behind in Judah (see also 2:4). 
 
 ### 1:19-20
 *(anchor: BAR.1:19)*
 
 Out of... Egypt: Though over 1000 years had passed since the children of Israel
-
 under Moses escaped from Pharaoh and crossed the Red Sea on dry ground, this
-
 miraculous event was a benchmark in their history. Here, the descendants of the fathers
-
 of the Exodus confess their national sins since that point in time. 
 
 ### 1:22
 *(anchor: BAR.1:22)*
 
 One of the consequences of sin is evil imaginations. In [[2CO.10:4]]-6, St. Paul
-
 instructs us to cast them down and bring our thoughts captive to Christ our God. 
 
 ### 2:3
 *(anchor: BAR.2:3)*
 
 The cannibalism admitted here includes the children the Jews ate when Jerusalem
-
 was besieged; they also sacrificed children to the god Molech (see [[JER.7:31]]; 19:9; Lam
-
 
 ### 2:10
 *(anchor: BAR.2:10)*
 
 ; 4:10; [[EZK.5:10]]; [[2KI.23:10]]; [[DEU.28:53]]). 2:5
-
 See [[DEU.28:13]]. 2:9
-
 The Lord brings calamities upon us in His righteousness for our good, that we
-
 might turn back to Him. 
 
 ### 2:14-15
 *(anchor: BAR.2:14)*
 
 When Israel--and the Church--receive God's mercy, the news spreads quickly
-
 (see [[ACT.17:4]], [[ACT.17:12]]). The prayer for the whole earth is a prayer for the Church to know... the Lord our God. 
 
 ### 2:24-25
 *(anchor: BAR.2:24)*
 
 Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians
-
 desecrated the reliquaries of the patriarchs. 2:24-25
-
 Bones... carried out, prophesied in [[JER.8:1]]-2, suggests the Babylonians
-
 desecrated the reliquaries of the patriarchs. 
 
 ### 2:26
 *(anchor: BAR.2:26)*
 
 God allows His house to be laid to waste as part of His sinful people's punishment
-
 and their restoration (see [[JER.7:13]]-14). 
 
 ### 2:35
 *(anchor: BAR.2:35)*
 
 The everlasting covenant is fulfilled in Christ and His new covenant (Jer 32:38-
-
 41; [[EZK.36:26]]-29; [[AMO.9:15]]; [[HEB.13:20]]). 
 
 ### 3:4
 *(anchor: BAR.3:4)*
 
 The prayer of the dead of Israel suggests the intercessions of the departed saints
-
 with the Lord (see [[LUK.16:22]]-31). 
 
 ### 3:12
 *(anchor: BAR.3:12)*
 
 The fountain of wisdom is a likely reference to God the Father (see [[JER.2:13]], where
-
 the Father and Son are together depicted as a fountain and living water). In WSir 1:5, the
-
 Word is described as the fountain of wisdom (see [[LUK.2:40]], [[LUK.2:52]]; 21:15; [[JOH.4:13]], [[JOH.4:14]]). 
 
 ### 3:17-18
@@ -165,18 +140,14 @@ This is a description of the Wisdom of God ([[1CO.1:24]]).
 *(anchor: BAR.4:9)*
 
 Here a song begins, continuing through v. 29. Jerusalem appeals to the exiles to
-
 endure the punishment until God delivers them from Babylon, symbolizing the coming of
-
 Christ "your Savior" (v. 22). 
 
 ### 4:24
 *(anchor: BAR.4:24)*
 
 The Eternal One: Although the immediate object of this prophecy is the return
-
 from exile, the only glory and radiance that are eternal are those of Christ Himself (see
-
 Is 61:1-3). 
 
 ### 4:30
@@ -193,7 +164,6 @@ See Is 13:19-21; Jer 51:58; [[REV.18:2]].
 *(anchor: BAR.4:36)*
 
 Verse 36 describes the salvation of God as coming from the east, symbolizing the
-
 coming of Christ. Verse 37 refers to the return of the exiles. 
 
 ### 5:1-9
@@ -205,7 +175,6 @@ This discourse points to the glory of the Church in every nation under heaven (v
 *(anchor: BAR.5:2)*
 
 Double robe of righteousness: God's righteousness comes to those living in shame
-
 (see 2:6). 
 
 ### 5:7

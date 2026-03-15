@@ -12,7 +12,7 @@ canon_anchors_referenced: []
 ## Study Articles
 
 
-### The Sabbath Day,Sunday, And Theeighth Day
+### The Sabbath Day, Sunday, And The Eighth Day
 *(after DEU.5:19)*
 
 

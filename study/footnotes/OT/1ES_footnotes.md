@@ -8,255 +8,195 @@ status: staging
 
 ## Footnotes
 
-
 ### 1:1-31
 *(anchor: 1ES.1:1)*
 
 The Passover under Josiah and the account of his death (vv. 26-31). Josiah was
-
 the last king of Judah to seek truth (v. 21). As such, he is a figure of Christ, who is the
-
 embodiment of truth ([[JOH.14:6]]). From Exodus 12 we learn that the Feast of the Passover is
-
 an OT type of the NT paschal feast ([[1CO.10:23]]-26), in which the Church celebrates the
-
 death and Resurrection of Christ. 
 
 ### 2:1-4
 *(anchor: 1ES.2:1)*
 
 Just as Josiah was the last Jewish king to seek the truth of God, so Cyrus was the
-
 first Gentile king to find truth in the Lord of Israel. And just as God used Cyrus, a
-
 Gentile king of Persia, to rebuild the physical temple and set the Jews free, so He will use
-
 Christ, King of the Jews, to build His Church and set the Gentiles free. 
 
 ### 3:1
 *(anchor: 1ES.3:1)*
 
 , 2 This great banquet is also an icon of creation, which is itself a symbol of Christ's
-
 work in His Incarnation. The Feast of Passover described in 1 Ezra also images the
-
 heavenly banquet ([[REV.19:7]]-9), and both are experienced today in the Holy Eucharist. As
-
 the psalmist writes, "But God is our King before the ages; / He worked salvation in the
-
 midst of the earth" ([[PSA.73:12]]). 
 
 ### 3:4-5
 *(anchor: 1ES.3:4)*
 
 These three young men who speak as one are, like the three men at the trees of
-
 Mamre ([[GEN.18:2]]), another OT symbol of the Holy Trinity. Their role as the king's
-
 bodyguards illustrates the way in which the unknowable, inconceivable God reveals
-
 Himself in His creation as Triune. 
 
 ### 3:6
 *(anchor: 1ES.3:6)*
 
 Purple denotes royalty and equality with the king (see note on [[EST.6:6]]-9); the gold
-
 cups symbolize Christ's cup of salvation; sleep in a gold bed foreshadows His rest in
-
 the tomb; the chariot--like Elijah's chariot of fire (3Kg 2:11)--foreshadows the
-
 Ascension; the linen head covering points both to the OT priesthood and to the linen in
-
 which Christ's body was wrapped ([[JOH.20:7]]); and the necklace symbolizes virtue (Pr 3:3, 22; 6:21; SS 1:10; see also [[DAN.5:7]]). 
 
 ### 3:7
 *(anchor: 1ES.3:7)*
 
 Christ is the personification of wisdom. He sits next to the Father and is called His
-
 Son, His kinsman. 
 
 ### 3:10-12
 *(anchor: 1ES.3:10)*
 
 Wine, the king, and women, which prevail, and the truth, which conquers, are all illustrations of the divine attributes of God revealed in Christ and His Church. As
-
 these are explained to the king's court by the three bodyguards (3:15-4:41), so Christ, full
-
 of the Holy Spirit and in obedience to the Father, will reveal the three Persons of the
-
 Godhead when He is manifest to the world. 
 
 ### 3:17-24
 *(anchor: 1ES.3:17)*
 
 The strength of wine symbolizes the "new wine" of the new covenant ([[MAT.9:15]]-
-
 17): the Holy Spirit uniting with and dwelling within men. St. Paul writes, "And do not be
-
 drunk with wine... but be filled with the Spirit" ([[EPH.5:18]]). 
 
 ### 4:1-12
 *(anchor: 1ES.4:1)*
 
 The second man's speech about the king illustrates the manner in which God
-
 revealed Himself to man under the old covenant. He was known as their master (v. 3), a
-
 God who is to be obeyed by his people and his army (v. 10). The phrase one man (v. 7) is notable because the God of Israel is "One God," who did not reveal Himself as
-
 Trinity until the advent of Christ. 
 
 ### 4:13
 *(anchor: 1ES.4:13)*
 
 The third, named Zerubbabel, is the only one of the three bodyguards who is
-
 named. He is of Christ's lineage ([[MAT.1:12]]), a leader in the rebuilding of the temple, and a
-
 figure of Christ. 
 
 ### 4:14-15
 *(anchor: 1ES.4:14)*
 
 Women prevail, for women fulfill man's purpose. God intended for men and
-
 women to be united in love, just as Christ and His Church are united in love ([[EPH.5:22]], [[EPH.5:23]]). Thus, as Zerubbabel describes women, we see Christ describing His relationship with
-
 His Bride. 
 
 ### 4:16-17
 *(anchor: 1ES.4:16)*
 
 Vineyards and wine (v. 16) symbolize the Eucharist, and clothing (v. 17) points
-
 to being clothed with Christ in baptism. As woman is the glory of man ([[1CO.11:7]]), so the
-
 Church is the glory of Christ ([[EPH.5:21]]). 
 
 ### 4:20
 *(anchor: 1ES.4:20)*
 
 This is a paraphrase of [[GEN.2:24]]. According to St. Paul, the union of man and wife in
-
 marriage is an image of Christ and His Church ([[EPH.5:30]]-32; see note at 4:14, 15). 
 
 ### 4:29-31
 *(anchor: 1ES.4:29)*
 
 The concubine is often an OT figure of fallen humanity. She has received God's
-
 crown, that is His divine image and likeness, on her own head in creation ([[GEN.1:26]]). On the other hand, she has struck the king--indeed, killed him--that she might be
-
 reconciled with him, that is, with Christ. 
 
 ### 4:33-34
 *(anchor: 1ES.4:33)*
 
 God and man looked at one another when Christ revealed Himself in truth to
-
 men. 
 
 ### 4:35-40
 *(anchor: 1ES.4:35)*
 
 Note especially the striking resemblance between this passage concerning truth
-
 and St. Paul's discourse on love (1Co 13). This passage is quoted extensively by the
-
 Fathers. 
 
 ### 4:41
 *(anchor: 1ES.4:41)*
 
 Echoing the voices of all the people in the king's court, the faithful sing at the end
-
 of the Divine Liturgy, "We have found the true faith, worshiping the undivided Trinity, who has saved us!"
-
 
 ### 4:42
 *(anchor: 1ES.4:42)*
 
 Ask what you will: As the Father gives all things to the Son, so Christ gives all
-
 things to those who ask according to His will ([[MAT.21:22]]; [[JOH.14:14]]; [[1JN.5:15]]). 
 
 ### 4:43-45
 *(anchor: 1ES.4:43)*
 
 The request of Zerubbabel, echoed in the prayer of the repentant thief (Lk
-
 23:42), reveals the will of God for the world: rebuild Jerusalem, that is, "the city of the
-
 living God, the heavenly Jerusalem" ([[HEB.12:22]]). Send back all the vessels (v. 44) and
-
 rebuild the temple (v. 45) in a spiritual sense means to restore holiness in the hearts of
-
 men, which have been laid waste by sin. 
 
 ### 6:1-15
 *(anchor: 1ES.6:1)*
 
 This passage chronicles the completion of the temple under the leadership of
-
 Haggai and Zechariah. The building of the earthly temple is a type of our deification--
-
 becoming like God by His grace ([[1CO.6:19]]). 
 
 ### 8:1-7
 *(anchor: 1ES.8:1)*
 
 Ezra was one appointed by God to study and know the Law of Moses (v. 3), that he
-
 might teach it to others. 
 
 ### 8:65-67
 *(anchor: 1ES.8:65)*
 
 The law reveals the truth about the sins of the people, and transgression of the
-
 law is punishable by death (8:24). 
 
 ### 8:68-92
 *(anchor: 1ES.8:68)*
 
 Ezra is seen to be a man of prayer who repents for the sins of the people. Seeing
-
 his piety (v. 89), the leaders call a fast, and the people begin to repent and pray with one
-
 voice, for without repentance there can be no mercy (v. 75) and no salvation. Thus, as
-
 through one man's prayers Israel is saved, so through Christ's prayer (see Jn 17) the
-
 world is saved and the law fulfilled. 
 
 ### 9:3-4
 *(anchor: 1ES.9:3)*
 
 This was a compulsory gathering where the people would listen to Ezra's exhortation
-
 (v. 7). 
 
 ### 9:6-15
 *(anchor: 1ES.9:6)*
 
 The cold weather prompts the people to request that dealing with the problem of
-
 foreign wives (v. 9) be handled in the local settlements. 
 
 ### 9:42
 *(anchor: 1ES.9:42)*
 
 Ezra read the law from a judgment seat, a place of authority erected for him (see
-
 3:14). 
 
 ### 9:55
 *(anchor: 1ES.9:55)*
 
 That the hearers of the law were inspired by the words of the Scriptures brings to
-
 mind the response of the disciples ("Did not our heart burn within us?") as the Lord
-
 Jesus Christ opened to them the Holy Scriptures ([[LUK.24:32]]).

@@ -8,35 +8,29 @@ status: staging
 
 ## Footnotes
 
-
 ### 1:3
 *(anchor: LJE.1:3)*
 
 This verse describes a pagan religious procession such as someone like Daniel would
-
 daily witness (see [[DAN.3:1]]-7). 
 
 ### 1:4
 *(anchor: LJE.1:4)*
 
 Israel must keep her identity pure and distinct. In the same way, the Church, the new
-
 Israel, is called to separate herself from the heretics or those willfully estranged from
-
 Christ (see [[2CO.6:14]]-17). 
 
 ### 1:6
 *(anchor: LJE.1:6)*
 
 This verse describes the important role of the guardian angel, who watches and guides
-
 us through the day. For other examples, see [[EXO.23:20]]-23; 32:34; [[PSA.90:11]]. 
 
 ### 1:34-37
 *(anchor: LJE.1:34)*
 
 doing. The idols are said to be unable to do the very things that the Gospels show Christ
-
 
 ### 1:38
 *(anchor: LJE.1:38)*
@@ -47,7 +41,6 @@ Plated is a reference to wood overlaid with silver and gold.
 *(anchor: LJE.1:43)*
 
 The petty rivalries and jealousy show that this is just common prostitution
-
 masked by false religion. 
 
 ### 1:45-46
@@ -59,21 +52,18 @@ These verses portray the irony of a mortal creature fashioning his own gods.
 *(anchor: LJE.1:48)*
 
 These verses portray the irony of powerless gods being saved by the priests who
-
 pray to them for blessings and protection. 
 
 ### 1:55
 *(anchor: LJE.1:55)*
 
 Revealing the foolishness of their faith, the priests will sacrifice their gods to save
-
 their own lives. 
 
 ### 1:59-64
 *(anchor: LJE.1:59)*
 
 Being real and serving a practical purpose makes everything from a king to a
-
 pillar to a forest fire superior to a false god and idols that do nothing. 
 
 ### 1:68

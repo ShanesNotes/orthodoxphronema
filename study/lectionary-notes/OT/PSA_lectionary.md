@@ -3,7 +3,7 @@ title: "Lectionary Notes — PSA"
 source: Orthodox Study Bible
 type: lectionary-notes
 book: PSA
-entries: 141
+entries: 95
 extracted: 2026-03-14
 ---
 
@@ -77,9 +77,7 @@ extracted: 2026-03-14
 
 **43:1** — (no occasion text)
 
-**44:1** — Verses 4, 5 are prayed by a priest as he vests for the Divine Liturgy, and v. 10 is recited in honor of the Mother of God as he prepares the holy gifts. Also, v. 18 is quoted in Lk
-
-**1:48** — as part of the Magnificat, which is also sung in Orthros. Then too, this psalm is prayed in the First Royal Hour on Nativity Eve, and vv. 4, 5, and 8 are sung on the Sunday of the Samaritan Woman (see also Jn 4).
+**44:1** — Verses 4, 5 are prayed by a priest as he vests for the Divine Liturgy, and v. 10 is recited in honor of the Mother of God as he prepares the holy gifts. Also, v. 18 is quoted in Lk 1:48 as part of the Magnificat, which is also sung in Orthros. Then too, this psalm is prayed in the First Royal Hour on Nativity Eve, and vv. 4, 5, and 8 are sung on the Sunday of the Samaritan Woman (see also Jn 4).
 
 **45:1** — Ps 45 is prayed during the First Royal Hour on Nativity Eve.
 
@@ -123,9 +121,7 @@ extracted: 2026-03-14
 
 **79:1** — (no occasion text)
 
-**81:1** — Ps 81 is sung on Holy Saturday at the Liturgy of St. Basil, and again at Great Vespers, with v. 8 repeated as a refrain after each verse. Verse 6 is also quoted by Christ in Jn
-
-**10:34** — .
+**81:1** — Ps 81 is sung on Holy Saturday at the Liturgy of St. Basil, and again at Great Vespers, with v. 8 repeated as a refrain after each verse. Verse 6 is also quoted by Christ in Jn 10:34.
 
 **83:1** — Ps 83 is read in the Ninth Hour each day, and also at the Feast of the Transfiguration.
 
@@ -202,92 +198,4 @@ extracted: 2026-03-14
 **145:1** — (no occasion text)
 
 **148:1-1** — These psalms are sung every morning in the Church as the Praises of Orthros.
-
-**1:1-12** — This passage is read on Holy Monday, the Monday before Pascha (Easter).
-
-**1:13-22** — This passage is read on Holy Tuesday, the Tuesday before Pascha (Easter).
-
-**2:1-10** — This passage is read on Holy Wednesday, the Wednesday before Pascha (Easter).
-
-**38:1-25** — This passage (with 42:1–5) is read on Holy Thursday, the Thursday before Pascha (Easter).
-
-**42:1-5** — This passage (with 38:1–25) is read in the church at Vespers on Holy Thursday.
-
-**42:12-17** — This passage is read on Holy Friday, the Friday before Pascha (Easter).
-
-**1:1-20** — This passage is read at Monday Vespers in the first week of Great Lent.
-
-**1:20-35** — This passage is read at Tuesday Vespers during the first week of Great Lent.
-
-**2:1-23** — This passage is read during Wednesday Vespers in the first week of Great Lent.
-
-**3:1-20** — This passage is read during Thursday Vespers in the first week of Great Lent.
-
-**3:11-18** — This passage is read on September 13 at Vespers for the Feast of the Exaltation of the Holy Cross.
-
-**3:21-36** — This passage is read during Friday Vespers in the first week of Great Lent.
-
-**3:37-21** — This passage is read during Monday Vespers in the second week of Great Lent.
-
-**5:1-15** — This passage is read during Tuesday Vespers in the second week of Great Lent.
-
-**5:15-23** — (no occasion text)
-
-**6:3-24** — This passage is read during Thursday Vespers in the second week of Great Lent.
-
-**6:24-40** — This passage is read during Friday Vespers in the second week of Great Lent.
-
-**8:1-21** — This passage is read at Monday Vespers in the third week of Great Lent.
-
-**8:22-30** — (no occasion text)
-
-**8:32-35** — This passage is read at Tuesday Vespers in the third week of Great Lent.
-
-**9:1-11** — (no occasion text)
-
-**9:12-18** — This passage is read during Wednesday Vespers in the third week of Great Lent.
-
-**10:1-22** — This passage is read during Thursday Vespers in the third week of Great Lent.
-
-**10:32-10** — This passage is read at Friday Vespers in the third week of Great Lent.
-
-**12:8-22** — This passage is read during Tuesday Vespers in the fourth week of Great Lent.
-
-**12:24-31** — This passage is read during Wednesday Vespers in the fourth week of Great Lent.
-
-**13:22-6** — This passage is read during Thursday Vespers in the fourth week of Great Lent.
-
-**14:15-26** — This passage is read during Friday Vespers in the fourth week of Great Lent.
-
-**14:28-4** — This passage is read during Monday Vespers in the fifth week of Great Lent.
-
-**15:8-21** — This passage is read during Tuesday Vespers in the fifth week of Great Lent.
-
-**16:13-8** — This passage is read during Thursday Vespers in the fifth week of Great Lent.
-
-**17:19-5** — This passage is read during Friday Vespers in the fifth week of Great Lent.
-
-**19:16-25** — This passage is read during Monday Vespers in the sixth week of Great Lent.
-
-**21:3-20** — This passage is read during Tuesday Vespers in the sixth week of Great Lent.
-
-**21:22-30** — This passage is read during Wednesday Vespers in the sixth week of Great Lent.
-
-**23:15-5** — This passage is read during Thursday Vespers in the sixth week of Great Lent.
-
-**31:10-30** — This passage is read during Friday Vespers in the sixth week of Great Lent.
-
-**4:6** — (no occasion text)
-
-**5:1-3** — This passage is read on the Eve of Feast of the Nativity of the Lord.
-
-**2:23-5** — This passage is read at Vespers of the Feast of Pentecost.
-
-**3:8-15** — This passage is read on Great and Holy Saturday.
-
-**3:14-19** — This passage is read at Great Vespers in the Sixth Week of Great Lent.
-
-**9:9-15** — (no occasion text)
-
-**11:10-13** — This passage is read on Holy Friday, the Friday before Pascha (Easter).
 

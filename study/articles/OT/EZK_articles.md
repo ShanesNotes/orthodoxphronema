@@ -12,7 +12,7 @@ canon_anchors_referenced: []
 ## Study Articles
 
 
-### Types Of Mary In Theold Testament
+### Types Of Mary In The Old Testament
 *(after EZK.43:12)*
 
 Types of both Christ and Mary, His Mother, fill the Old Testament. Indeed, most of the Old Testament types of Mary-a natural consequence of her essential role in the Incarnation of her Son, Jesus Christ-reveal the awesome marvel of her womb which contained the almighty God. Referring to [[GEN.2:9]], the hymnography of the Church sees the garden of Eden as a type of Mary: 'Rejoice,... O living Paradise, having the Lord, the Tree of Life, in your midst' (Akathist Hymn). The burning bush beheld by Moses in the wilderness ([[EXO.3:16]]) is one of the most often mentioned types of Mary. For example, 'She is the Bush springing from barren ground [her mother, St. Anna, had been barren] and burning with the immaterial fire that cleanses and enlightens our souls' (Small Vespers, Nativity of the Theotokos). St. John of Damascus observes, 'The burning bush is an image of God's Mother... If, therefore, the ground where the image of the Theotokos was seen by Moses is holy ground [Ex 3:5], how much more holy is the image itself?'

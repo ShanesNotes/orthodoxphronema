@@ -3,7 +3,7 @@ title: "Lectionary Notes — GEN"
 source: Orthodox Study Bible
 type: lectionary-notes
 book: GEN
-entries: 44
+entries: 35
 extracted: 2026-03-14
 ---
 
@@ -57,8 +57,6 @@ extracted: 2026-03-14
 
 **17:1-9** — This passage is read during Tuesday Vespers in the fifth week of Great Lent.
 
-**17:1** — (no occasion text)
-
 **18:20-33** — This passage is read during Thursday Vespers in the fifth week of Great Lent.
 
 **22:1-18** — This passage is read during Friday Vespers in the fifth week of Great Lent.
@@ -81,19 +79,5 @@ extracted: 2026-03-14
 
 **49:33-26** — This passage is read during Friday Vespers in the sixth week of Great Lent.
 
-**1:1-20** — This passage is read during Monday Vespers in Passion Week.
 
-**2:5-10** — This passage is read during Tuesday Vespers in Passion Week and at Vespers of the Feast of the Theophany of the Lord.
-
-**2:11-22** — This passage is read during Wednesday Vespers in Passion Week.
-
-**3:1-8** — (no occasion text)
-
-**12:51** — (no occasion text)
-
-**13:20-19** — This passage is read on Great and Holy Saturday.
-
-**14:15-18** — (no occasion text)
-
-**19:10-19** — This passage is read on Holy Thursday, the Thursday before Pascha (Easter).
 

@@ -22,7 +22,7 @@ I n the Sermon on the Mount (Mt 5-7), Jesus introduces the kind of life those wh
 (b) 'You shall not commit adultery' (5:27) no longer refers only to the unlawful act of sex outside marriage. It now includes lust.
 (c) Divorce was allowable under the Old Testament law. But under the new covenant, divorce is permissible only because of sexual immorality, and remarriage to a divorced person is not permitted (5:31, 32).
 (d) 'Perform your oaths to the Lord' is the Old Testament law. Jesus instructs us to say 'yes' or 'no' without taking an oath, and to keep our word (5:33-37).
-(e) 'An eye for an eye'-a graphic way of seeing justice from a human perspectivebecomes 'turn the other [cheek]' and 'love your enemies.' Not only must we forsake vengeance, even when it is just retribution; we must treat others as God treats us, with mercy and grace (5:38-45).
+(e) 'An eye for an eye'-a graphic way of seeing justice from a human perspective becomes 'turn the other [cheek]' and 'love your enemies.' Not only must we forsake vengeance, even when it is just retribution; we must treat others as God treats us, with mercy and grace (5:38-45).
 3 Spiritual disciplines (6:1-7:12). Jesus assumes we will follow three disciplines that help us attain true righteousness (6:1-18) and true wisdom (6:19-7:12). These disciplines are a vital part of Christian tradition.
 (a) Giving alms, or doing charitable deeds for the poor, should be done secretly, before God and not before men (6:1-4).
 (b) Prayer should follow the model of the Lord's Prayer, which Jesus here reveals to His Church (6:5-15).

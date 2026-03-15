@@ -3,7 +3,7 @@ title: "Lectionary Notes — LUK"
 source: Orthodox Study Bible
 type: lectionary-notes
 book: LUK
-entries: 37
+entries: 28
 extracted: 2026-03-14
 ---
 
@@ -64,22 +64,4 @@ extracted: 2026-03-14
 **23:39-43** — (no occasion text)
 
 **24:36-53** — This passage is read on the Feast of the Ascension of Our Lord Jesus Christ.
-
-**1:1-17** — This passage is read on the Feast of Pascha (Easter), the day of the Resurrection of Christ.
-
-**1:29-34** — This passage is read on January 7, the Feast of the Synaxis of St. John the Baptist.
-
-**1:35-52** — This passage is read on November 30, the Feast of the Apostle Andrew.
-
-**1:43-51** — (no occasion text)
-
-**3:1-5** — This passage is read on January 4, the Synaxis of the Holy Apostles.
-
-**4:5-42** — (no occasion text)
-
-**5:1-15** — (no occasion text)
-
-**5:17-30** — (no occasion text)
-
-**6:17-23; 10:22-24; 14:25-35** — This passage is read on days commemorating great saints of the Church
 

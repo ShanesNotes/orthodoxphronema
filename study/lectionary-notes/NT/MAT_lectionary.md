@@ -3,7 +3,7 @@ title: "Lectionary Notes — MAT"
 source: Orthodox Study Bible
 type: lectionary-notes
 book: MAT
-entries: 27
+entries: 19
 extracted: 2026-03-14
 ---
 
@@ -46,20 +46,4 @@ extracted: 2026-03-14
 **27:62-66** — This passage is read at Matins of Great and Holy Saturday, the Saturday before Pascha (Easter).
 
 **28:1-20** — This passage is read on Great and Holy Saturday.
-
-**1:9-11** — This passage is read on January 5, the Eve of the Feast of the Baptism of Our Lord Jesus Christ (Theophany).
-
-**2:1-12** — This passage is read on the second Sunday of Great Lent, called the Sunday of the Paralytic and Commemoration of St. Gregory Palamas.
-
-**6:14-30** — This passage is read on August 29, the Feast of the Beheading of John the Baptist.
-
-**8:34-1** — This passage is read on the third Sunday of Great Lent, called the Adoration of the Holy Cross.
-
-**9:17-31** — (no occasion text)
-
-**9:42-1** — This passage is read on December 17, the Feast of the Prophet Daniel.
-
-**15:43-8** — (no occasion text)
-
-**10:32, 33, 37, 38; 19:27-30** — This passage is read on the first Sunday after Pentecost, the Sunday of All Saints
 

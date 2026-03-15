@@ -12,7 +12,7 @@ canon_anchors_referenced: []
 ## Study Articles
 
 
-### Liturgy In The Newtestament Church
+### Liturgy In The New Testament Church
 *(after REV.4:5)*
 
 Virtually all students of the Bible realize there was liturgical worship in Israel. Immediately after the giving of the Ten Commandments ([[EXO.20:1]]-17), instructions for building the altar were set forth ([[EXO.20:24]]-26). Then comes instruction concerning keeping the Sabbath (Ex

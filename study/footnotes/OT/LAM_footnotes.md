@@ -8,7 +8,6 @@ status: staging
 
 ## Footnotes
 
-
 ### 1:1
 *(anchor: LAM.1:1)*
 
@@ -18,16 +17,13 @@ The city is Jerusalem, once full of people but now in captivity in Babylon.
 *(anchor: LAM.1:5)*
 
 During Lent we pray, "O Lord and Master of our lives..." Here, the oppressors have
-
 become the master. This captivity is the result of the ungodliness of God's people. A
-
 stark picture of life outside of fellowship with God. 
 
 ### 1:7
 *(anchor: LAM.1:7)*
 
 Jerusalem remembers tells us the author is looking back to the fall of the city and
-
 the grief of her people as they endured deportation to Babylon. 
 
 ### 1:8
@@ -39,18 +35,14 @@ Jerusalem sinned grievously sums up the cause of God's discipline of His people.
 *(anchor: LAM.1:11)*
 
 Tragically, the phrase the objects of their desire for food is a reference (as in 2:4)
-
 to the eating of their own children to stay alive. We ask incredulously, how could they
-
 possibly do that? But remember: in our time, we do not eat them; we abort them. 
 
 ### 1:18
 *(anchor: LAM.1:18)*
 
 I provoked His mouth is a reference to breaking the laws God spoke to Moses and
-
 thus to His people. From 1:18-22, the "I" is the city of Jerusalem, and the warning for her
-
 disobedience was issued and recorded in [[DEU.28:15]]-68. 
 
 ### 2:2
@@ -62,7 +54,6 @@ He brought them down: The Greek word suggests a violent smashing.
 *(anchor: LAM.2:5)*
 
 The Lord became like an enemy is a warning of the gravity of the dread judgment
-
 seat of Christ. 
 
 ### 2:9
@@ -94,11 +85,8 @@ These verses either start with or contain the word He, a direct reference to God
 *(anchor: LAM.3:22)*
 
 Here we see an abrupt change in tone which acknowledges the goodness (v. 22)
-
 and mercy (v. 28) of God. The message: No matter the gravity of our sins, or what our
-
 enemies have planned for the demise of our souls, our hope is always in the love and
-
 mercy of God. 
 
 ### 4:1
@@ -110,7 +98,6 @@ Chapter 4 returns to the distress of Jerusalem. The gold has lost its brightness
 *(anchor: LAM.4:3)*
 
 A powerful contrast: Even the serpents, symbolic of the devil and his hosts, nurse
-
 their young, but captive Israel is cruel. 
 
 ### 4:6
@@ -122,32 +109,26 @@ Here, Israel is worse than Sodom.
 *(anchor: LAM.4:7)*
 
 Not only did the people apostatize, the Nazirites became blacker than soot. The
-
 Nazirites ([[NUM.6:2]], [[NUM.6:19]], [[NUM.6:20]]) were the "monks" of Israel who never cut their hair, refused
-
 wine, and devoted themselves entirely to God. By this we see that Israel was utterly
-
 desolate. 
 
 ### 4:13-14
 *(anchor: LAM.4:13)*
 
 The theme of desolation continues. The prophets, the priests, and the
-
 watchmen have all forsaken God. 
 
 ### 4:16
 *(anchor: LAM.4:16)*
 
 A barometer of indifference toward God, in both Israel and the Church, is lack of
-
 respect for the priests and disdain for the elders. 
 
 ### 4:20
 *(anchor: LAM.4:20)*
 
 The Greek word for Anointed is Christos. Christ is symbolized as a victim of the
-
 destruction of God's people brought on by their disobedience. 
 
 ### 4:21-22
@@ -159,14 +140,12 @@ For the punishment of Edom, see [[JER.30:1]]-16.
 *(anchor: LAM.5:1)*
 
 What happened to Israel can happen to Christians who disgrace themselves in the
-
 sight of God. 
 
 ### 5:2
 *(anchor: LAM.5:2)*
 
 The foreigners are not just the Babylonians, but could also be a reference to idols
-
 ([[JER.5:19]]). 
 
 ### 5:5
@@ -178,7 +157,5 @@ In the old covenant and in the new, when we depart from God's will we have no re
 *(anchor: LAM.5:19)*
 
 This prayer offers a glimmer of hope to close the Book of Lamentations. The
-
 phrases turn us back to You and we shall be converted tell us this is not merely the
-
 request of an individual, but that of a nation.
