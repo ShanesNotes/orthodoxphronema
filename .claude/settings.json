@@ -1,4 +1,5 @@
 {
+  "disabledMcpjsonServers": ["duckdb", "filesystem", "memory"],
   "permissions": {
     "deny": [
       "Bash(rm -rf /home/ark/orthodoxphronema/canon/*)",
@@ -55,7 +56,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo '--- Ark session initialized. CLAUDE.md + @imports loaded. Agents: ezra (Codex 5.4, MCP-delegatable), photius (Gemini Flash 3.0, Bash-delegatable), cowork. Delegation: delegate-ezra, delegate-photius. Workflows: validate-book, promote-book, cleanup-report, pdf-spot-check, refresh-dossier. Toolkits: text-cleaner, canon-validator, canon-proofreader, canon-spell-audit. MCP: ezra, duckdb, github, filesystem, memory. ---'",
+            "command": "echo '--- Ark session initialized. CLAUDE.md + @imports loaded. Agents: ezra (Codex 5.4), photius (Gemini Flash 3.0), cowork. MCP active: ezra, spellchecker, github. MCP available (/mcp to enable): duckdb, filesystem, memory. Skills: 11 (delegate-ezra, delegate-photius, validate-book, promote-book, cleanup-report, pdf-spot-check, refresh-dossier, text-cleaner, canon-validator, canon-proofreader, canon-spell-audit). ---'",
             "timeout": 3
           }
         ]

@@ -3,17 +3,26 @@
     "ezra": {
       "command": "codex",
       "args": ["mcp-server"],
-      "description": "Ezra (Codex 5.4) — strategic lead, audit, and delivery ops. Delegates tasks to OpenAI Codex as an MCP tool."
+      "description": "Ezra (Codex 5.4) — engineering consultant, auditor, delivery ops. MCP-delegatable."
     },
-    "duckdb": {
-      "command": "uvx",
-      "args": ["mcp-server-duckdb", "--db-path", "metadata/graph/phronema_graph.duckdb"],
-      "description": "Query the phronema graph database (anchor backlinks, pericope index, cross-references)"
+    "spellchecker": {
+      "command": "node",
+      "args": ["/home/ark/.local/share/spellchecker-mcp/dist/index.js"],
+      "env": {
+        "SPELLCHECKER_LANGUAGES": "en-US",
+        "SPELLCHECKER_PERSONAL_DIC": "/home/ark/orthodoxphronema/schemas/biblical_names.txt"
+      },
+      "description": "Spell checking with custom dictionary support. Tools: check_spelling, check_file, check_folder, add_to_dictionary."
     },
     "github": {
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-github"],
       "description": "GitHub integration for issues, PRs, commit history, branch management"
+    },
+    "duckdb": {
+      "command": "uvx",
+      "args": ["mcp-server-duckdb", "--db-path", "metadata/graph/phronema_graph.duckdb"],
+      "description": "Query the phronema graph database (anchor backlinks, pericope index, cross-references)"
     },
     "filesystem": {
       "command": "npx",
