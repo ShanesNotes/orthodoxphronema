@@ -32,7 +32,10 @@
     "memory": {
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-memory"],
-      "description": "Persistent knowledge graph for cross-session context (agent handoffs, open questions, decisions)"
+      "env": {
+        "MEMORY_FILE_PATH": "/home/ark/orthodoxphronema/metadata/memory/knowledge_graph.jsonl"
+      },
+      "description": "Persistent knowledge graph — 76 canon books, governing memos, project state. Graph-as-index into memos/."
     }
   }
 }

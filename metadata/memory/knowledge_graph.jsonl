@@ -1,0 +1,176 @@
+{"type": "entity", "name": "GEN", "entityType": "canon_book", "observations": ["Full name: Genesis", "Testament: OT", "Category: Pentateuch", "Canon order: 01", "Canon path: canon/OT/01_GEN.md", "Lines: 1888", "Status: promoted", "Anchor format: [[GEN.CH:V]]"]}
+{"type": "entity", "name": "EXO", "entityType": "canon_book", "observations": ["Full name: Exodus", "Testament: OT", "Category: Pentateuch", "Canon order: 02", "Canon path: canon/OT/02_EXO.md", "Lines: 1535", "Status: promoted", "Anchor format: [[EXO.CH:V]]"]}
+{"type": "entity", "name": "LEV", "entityType": "canon_book", "observations": ["Full name: Leviticus", "Testament: OT", "Category: Pentateuch", "Canon order: 03", "Canon path: canon/OT/03_LEV.md", "Lines: 1076", "Status: promoted", "Anchor format: [[LEV.CH:V]]"]}
+{"type": "entity", "name": "NUM", "entityType": "canon_book", "observations": ["Full name: Numbers", "Testament: OT", "Category: Pentateuch", "Canon order: 04", "Canon path: canon/OT/04_NUM.md", "Lines: 1610", "Status: promoted", "Anchor format: [[NUM.CH:V]]"]}
+{"type": "entity", "name": "DEU", "entityType": "canon_book", "observations": ["Full name: Deuteronomy", "Testament: OT", "Category: Pentateuch", "Canon order: 05", "Canon path: canon/OT/05_DEU.md", "Lines: 1248", "Status: promoted", "Anchor format: [[DEU.CH:V]]"]}
+{"type": "entity", "name": "JOS", "entityType": "canon_book", "observations": ["Full name: Joshua", "Testament: OT", "Category: Historical", "Canon order: 06", "Canon path: canon/OT/06_JOS.md", "Lines: 886", "Status: promoted", "Anchor format: [[JOS.CH:V]]"]}
+{"type": "entity", "name": "JDG", "entityType": "canon_book", "observations": ["Full name: Judges", "Testament: OT", "Category: Historical", "Canon order: 07", "Canon path: canon/OT/07_JDG.md", "Lines: 795", "Status: promoted", "Anchor format: [[JDG.CH:V]]"]}
+{"type": "entity", "name": "RUT", "entityType": "canon_book", "observations": ["Full name: Ruth", "Testament: OT", "Category: Historical", "Canon order: 08", "Canon path: canon/OT/08_RUT.md", "Lines: 119", "Status: promoted", "Anchor format: [[RUT.CH:V]]"]}
+{"type": "entity", "name": "1SA", "entityType": "canon_book", "observations": ["Full name: 1 Samuel", "Testament: OT", "Category: Historical", "Canon order: 09", "Canon path: canon/OT/09_1SA.md", "Lines: 980", "Status: promoted", "Anchor format: [[1SA.CH:V]]"]}
+{"type": "entity", "name": "2SA", "entityType": "canon_book", "observations": ["Full name: 2 Samuel", "Testament: OT", "Category: Historical", "Canon order: 10", "Canon path: canon/OT/10_2SA.md", "Lines: 936", "Status: promoted", "Anchor format: [[2SA.CH:V]]"]}
+{"type": "entity", "name": "1KI", "entityType": "canon_book", "observations": ["Full name: 1 Kings", "Testament: OT", "Category: Historical", "Canon order: 11", "Canon path: canon/OT/11_1KI.md", "Lines: 1073", "Status: promoted", "Anchor format: [[1KI.CH:V]]"]}
+{"type": "entity", "name": "2KI", "entityType": "canon_book", "observations": ["Full name: 2 Kings", "Testament: OT", "Category: Historical", "Canon order: 12", "Canon path: canon/OT/12_2KI.md", "Lines: 996", "Status: promoted", "Anchor format: [[2KI.CH:V]]"]}
+{"type": "entity", "name": "1CH", "entityType": "canon_book", "observations": ["Full name: 1 Chronicles", "Testament: OT", "Category: Historical", "Canon order: 13", "Canon path: canon/OT/13_1CH.md", "Lines: 1207", "Status: promoted", "Anchor format: [[1CH.CH:V]]"]}
+{"type": "entity", "name": "2CH", "entityType": "canon_book", "observations": ["Full name: 2 Chronicles", "Testament: OT", "Category: Historical", "Canon order: 14", "Canon path: canon/OT/14_2CH.md", "Lines: 1176", "Status: promoted", "Anchor format: [[2CH.CH:V]]"]}
+{"type": "entity", "name": "1ES", "entityType": "canon_book", "observations": ["Full name: 1 Esdras", "Testament: OT", "Category: Historical", "Canon order: 15", "Canon path: canon/OT/15_1ES.md", "Lines: 537", "Status: promoted", "Anchor format: [[1ES.CH:V]]"]}
+{"type": "entity", "name": "EZR", "entityType": "canon_book", "observations": ["Full name: Ezra", "Testament: OT", "Category: Historical", "Canon order: 16", "Canon path: canon/OT/16_EZR.md", "Lines: 372", "Status: promoted", "Anchor format: [[EZR.CH:V]]"]}
+{"type": "entity", "name": "NEH", "entityType": "canon_book", "observations": ["Full name: Nehemiah", "Testament: OT", "Category: Historical", "Canon order: 17", "Canon path: canon/OT/17_NEH.md", "Lines: 873", "Status: promoted", "Anchor format: [[NEH.CH:V]]"]}
+{"type": "entity", "name": "TOB", "entityType": "canon_book", "observations": ["Full name: Tobit", "Testament: OT", "Category: Deuterocanonical", "Canon order: 18", "Canon path: canon/OT/18_TOB.md", "Lines: 335", "Status: promoted", "Anchor format: [[TOB.CH:V]]"]}
+{"type": "entity", "name": "JDT", "entityType": "canon_book", "observations": ["Full name: Judith", "Testament: OT", "Category: Deuterocanonical", "Canon order: 19", "Canon path: canon/OT/19_JDT.md", "Lines: 452", "Status: promoted", "Anchor format: [[JDT.CH:V]]"]}
+{"type": "entity", "name": "EST", "entityType": "canon_book", "observations": ["Full name: Esther", "Testament: OT", "Category: Historical", "Canon order: 20", "Canon path: canon/OT/20_EST.md", "Lines: 352", "Status: promoted", "Anchor format: [[EST.CH:V]]"]}
+{"type": "entity", "name": "1MA", "entityType": "canon_book", "observations": ["Full name: 1 Maccabees", "Testament: OT", "Category: Deuterocanonical", "Canon order: 21", "Canon path: canon/OT/21_1MA.md", "Lines: 1089", "Status: promoted", "Anchor format: [[1MA.CH:V]]"]}
+{"type": "entity", "name": "2MA", "entityType": "canon_book", "observations": ["Full name: 2 Maccabees", "Testament: OT", "Category: Deuterocanonical", "Canon order: 22", "Canon path: canon/OT/22_2MA.md", "Lines: 695", "Status: promoted", "Anchor format: [[2MA.CH:V]]"]}
+{"type": "entity", "name": "3MA", "entityType": "canon_book", "observations": ["Full name: 3 Maccabees", "Testament: OT", "Category: Deuterocanonical", "Canon order: 23", "Canon path: canon/OT/23_3MA.md", "Lines: 267", "Status: promoted", "Anchor format: [[3MA.CH:V]]"]}
+{"type": "entity", "name": "PSA", "entityType": "canon_book", "observations": ["Full name: Psalms", "Testament: OT", "Category: Wisdom/Poetry", "Canon order: 24", "Canon path: canon/OT/24_PSA.md", "Lines: 3001", "Status: promoted", "Anchor format: [[PSA.CH:V]]"]}
+{"type": "entity", "name": "PRO", "entityType": "canon_book", "observations": ["Full name: Proverbs", "Testament: OT", "Category: Wisdom/Poetry", "Canon order: 25", "Canon path: canon/OT/25_PRO.md", "Lines: 1006", "Status: promoted", "Anchor format: [[PRO.CH:V]]"]}
+{"type": "entity", "name": "ECC", "entityType": "canon_book", "observations": ["Full name: Ecclesiastes", "Testament: OT", "Category: Wisdom/Poetry", "Canon order: 26", "Canon path: canon/OT/26_ECC.md", "Lines: 318", "Status: promoted", "Anchor format: [[ECC.CH:V]]"]}
+{"type": "entity", "name": "SNG", "entityType": "canon_book", "observations": ["Full name: Song of Songs", "Testament: OT", "Category: Wisdom/Poetry", "Canon order: 27", "Canon path: canon/OT/27_SNG.md", "Lines: 290", "Status: promoted", "Anchor format: [[SNG.CH:V]]"]}
+{"type": "entity", "name": "JOB", "entityType": "canon_book", "observations": ["Full name: Job", "Testament: OT", "Category: Wisdom/Poetry", "Canon order: 28", "Canon path: canon/OT/28_JOB.md", "Lines: 1284", "Status: promoted", "Anchor format: [[JOB.CH:V]]"]}
+{"type": "entity", "name": "WIS", "entityType": "canon_book", "observations": ["Full name: Wisdom of Solomon", "Testament: OT", "Category: Deuterocanonical", "Canon order: 29", "Canon path: canon/OT/29_WIS.md", "Lines: 506", "Status: promoted", "Anchor format: [[WIS.CH:V]]"]}
+{"type": "entity", "name": "SIR", "entityType": "canon_book", "observations": ["Full name: Sirach", "Testament: OT", "Category: Deuterocanonical", "Canon order: 30", "Canon path: canon/OT/30_SIR.md", "Lines: 2884", "Status: promoted", "Anchor format: [[SIR.CH:V]]"]}
+{"type": "entity", "name": "HOS", "entityType": "canon_book", "observations": ["Full name: Hosea", "Testament: OT", "Category: Minor Prophets", "Canon order: 31", "Canon path: canon/OT/31_HOS.md", "Lines: 381", "Status: promoted", "Anchor format: [[HOS.CH:V]]"]}
+{"type": "entity", "name": "AMO", "entityType": "canon_book", "observations": ["Full name: Amos", "Testament: OT", "Category: Minor Prophets", "Canon order: 32", "Canon path: canon/OT/32_AMO.md", "Lines: 213", "Status: promoted", "Anchor format: [[AMO.CH:V]]"]}
+{"type": "entity", "name": "MIC", "entityType": "canon_book", "observations": ["Full name: Micah", "Testament: OT", "Category: Minor Prophets", "Canon order: 33", "Canon path: canon/OT/33_MIC.md", "Lines: 163", "Status: promoted", "Anchor format: [[MIC.CH:V]]"]}
+{"type": "entity", "name": "JOL", "entityType": "canon_book", "observations": ["Full name: Joel", "Testament: OT", "Category: Minor Prophets", "Canon order: 34", "Canon path: canon/OT/34_JOL.md", "Lines: 106", "Status: promoted", "Anchor format: [[JOL.CH:V]]"]}
+{"type": "entity", "name": "OBA", "entityType": "canon_book", "observations": ["Full name: Obadiah", "Testament: OT", "Category: Minor Prophets", "Canon order: 35", "Canon path: canon/OT/35_OBA.md", "Lines: 37", "Status: promoted", "Anchor format: [[OBA.CH:V]]"]}
+{"type": "entity", "name": "JON", "entityType": "canon_book", "observations": ["Full name: Jonah", "Testament: OT", "Category: Minor Prophets", "Canon order: 36", "Canon path: canon/OT/36_JON.md", "Lines: 78", "Status: promoted", "Anchor format: [[JON.CH:V]]"]}
+{"type": "entity", "name": "NAH", "entityType": "canon_book", "observations": ["Full name: Nahum", "Testament: OT", "Category: Minor Prophets", "Canon order: 37", "Canon path: canon/OT/37_NAH.md", "Lines: 73", "Status: promoted", "Anchor format: [[NAH.CH:V]]"]}
+{"type": "entity", "name": "HAB", "entityType": "canon_book", "observations": ["Full name: Habakkuk", "Testament: OT", "Category: Minor Prophets", "Canon order: 38", "Canon path: canon/OT/38_HAB.md", "Lines: 97", "Status: promoted", "Anchor format: [[HAB.CH:V]]"]}
+{"type": "entity", "name": "ZEP", "entityType": "canon_book", "observations": ["Full name: Zephaniah", "Testament: OT", "Category: Minor Prophets", "Canon order: 39", "Canon path: canon/OT/39_ZEP.md", "Lines: 82", "Status: promoted", "Anchor format: [[ZEP.CH:V]]"]}
+{"type": "entity", "name": "HAG", "entityType": "canon_book", "observations": ["Full name: Haggai", "Testament: OT", "Category: Minor Prophets", "Canon order: 40", "Canon path: canon/OT/40_HAG.md", "Lines: 68", "Status: promoted", "Anchor format: [[HAG.CH:V]]"]}
+{"type": "entity", "name": "ZEC", "entityType": "canon_book", "observations": ["Full name: Zechariah", "Testament: OT", "Category: Minor Prophets", "Canon order: 41", "Canon path: canon/OT/41_ZEC.md", "Lines: 304", "Status: promoted", "Anchor format: [[ZEC.CH:V]]"]}
+{"type": "entity", "name": "MAL", "entityType": "canon_book", "observations": ["Full name: Malachi", "Testament: OT", "Category: Minor Prophets", "Canon order: 42", "Canon path: canon/OT/42_MAL.md", "Lines: 93", "Status: promoted", "Anchor format: [[MAL.CH:V]]"]}
+{"type": "entity", "name": "ISA", "entityType": "canon_book", "observations": ["Full name: Isaiah", "Testament: OT", "Category: Major Prophets", "Canon order: 43", "Canon path: canon/OT/43_ISA.md", "Lines: 1439", "Status: promoted", "Anchor format: [[ISA.CH:V]]"]}
+{"type": "entity", "name": "JER", "entityType": "canon_book", "observations": ["Full name: Jeremiah", "Testament: OT", "Category: Major Prophets", "Canon order: 44", "Canon path: canon/OT/44_JER.md", "Lines: 1999", "Status: promoted", "Anchor format: [[JER.CH:V]]"]}
+{"type": "entity", "name": "BAR", "entityType": "canon_book", "observations": ["Full name: Baruch", "Testament: OT", "Category: Deuterocanonical", "Canon order: 45", "Canon path: canon/OT/45_BAR.md", "Lines: 195", "Status: promoted", "Anchor format: [[BAR.CH:V]]"]}
+{"type": "entity", "name": "LAM", "entityType": "canon_book", "observations": ["Full name: Lamentations", "Testament: OT", "Category: Major Prophets", "Canon order: 46", "Canon path: canon/OT/46_LAM.md", "Lines: 180", "Status: promoted", "Anchor format: [[LAM.CH:V]]"]}
+{"type": "entity", "name": "LJE", "entityType": "canon_book", "observations": ["Full name: Letter of Jeremiah", "Testament: OT", "Category: Deuterocanonical", "Canon order: 47", "Canon path: canon/OT/47_LJE.md", "Lines: 101", "Status: promoted", "Anchor format: [[LJE.CH:V]]"]}
+{"type": "entity", "name": "EZK", "entityType": "canon_book", "observations": ["Full name: Ezekiel", "Testament: OT", "Category: Major Prophets", "Canon order: 48", "Canon path: canon/OT/48_EZK.md", "Lines: 1648", "Status: promoted", "Anchor format: [[EZK.CH:V]]"]}
+{"type": "entity", "name": "DAN", "entityType": "canon_book", "observations": ["Full name: Daniel", "Testament: OT", "Category: Major Prophets", "Canon order: 49", "Canon path: canon/OT/49_DAN.md", "Lines: 704", "Status: promoted", "Anchor format: [[DAN.CH:V]]"]}
+{"type": "entity", "name": "MAT", "entityType": "canon_book", "observations": ["Full name: Matthew", "Testament: NT", "Category: Gospels", "Canon order: 50", "Canon path: canon/NT/50_MAT.md", "Lines: 1472", "Status: promoted", "Anchor format: [[MAT.CH:V]]"]}
+{"type": "entity", "name": "MRK", "entityType": "canon_book", "observations": ["Full name: Mark", "Testament: NT", "Category: Gospels", "Canon order: 51", "Canon path: canon/NT/51_MRK.md", "Lines: 942", "Status: promoted", "Anchor format: [[MRK.CH:V]]"]}
+{"type": "entity", "name": "LUK", "entityType": "canon_book", "observations": ["Full name: Luke", "Testament: NT", "Category: Gospels", "Canon order: 52", "Canon path: canon/NT/52_LUK.md", "Lines: 1601", "Status: promoted", "Anchor format: [[LUK.CH:V]]"]}
+{"type": "entity", "name": "JOH", "entityType": "canon_book", "observations": ["Full name: John", "Testament: NT", "Category: Gospels", "Canon order: 53", "Canon path: canon/NT/53_JOH.md", "Lines: 1172", "Status: promoted", "Anchor format: [[JOH.CH:V]]"]}
+{"type": "entity", "name": "ACT", "entityType": "canon_book", "observations": ["Full name: Acts", "Testament: NT", "Category: Acts", "Canon order: 54", "Canon path: canon/NT/54_ACT.md", "Lines: 1362", "Status: promoted", "Anchor format: [[ACT.CH:V]]"]}
+{"type": "entity", "name": "ROM", "entityType": "canon_book", "observations": ["Full name: Romans", "Testament: NT", "Category: Pauline Epistles", "Canon order: 55", "Canon path: canon/NT/55_ROM.md", "Lines: 613", "Status: promoted", "Anchor format: [[ROM.CH:V]]"]}
+{"type": "entity", "name": "1CO", "entityType": "canon_book", "observations": ["Full name: 1 Corinthians", "Testament: NT", "Category: Pauline Epistles", "Canon order: 56", "Canon path: canon/NT/56_1CO.md", "Lines: 608", "Status: promoted", "Anchor format: [[1CO.CH:V]]"]}
+{"type": "entity", "name": "2CO", "entityType": "canon_book", "observations": ["Full name: 2 Corinthians", "Testament: NT", "Category: Pauline Epistles", "Canon order: 57", "Canon path: canon/NT/57_2CO.md", "Lines: 411", "Status: promoted", "Anchor format: [[2CO.CH:V]]"]}
+{"type": "entity", "name": "GAL", "entityType": "canon_book", "observations": ["Full name: Galatians", "Testament: NT", "Category: Pauline Epistles", "Canon order: 58", "Canon path: canon/NT/58_GAL.md", "Lines: 238", "Status: promoted", "Anchor format: [[GAL.CH:V]]"]}
+{"type": "entity", "name": "EPH", "entityType": "canon_book", "observations": ["Full name: Ephesians", "Testament: NT", "Category: Pauline Epistles", "Canon order: 59", "Canon path: canon/NT/59_EPH.md", "Lines: 244", "Status: promoted", "Anchor format: [[EPH.CH:V]]"]}
+{"type": "entity", "name": "PHP", "entityType": "canon_book", "observations": ["Full name: Philippians", "Testament: NT", "Category: Pauline Epistles", "Canon order: 60", "Canon path: canon/NT/60_PHP.md", "Lines: 161", "Status: promoted", "Anchor format: [[PHP.CH:V]]"]}
+{"type": "entity", "name": "COL", "entityType": "canon_book", "observations": ["Full name: Colossians", "Testament: NT", "Category: Pauline Epistles", "Canon order: 61", "Canon path: canon/NT/61_COL.md", "Lines: 155", "Status: promoted", "Anchor format: [[COL.CH:V]]"]}
+{"type": "entity", "name": "1TH", "entityType": "canon_book", "observations": ["Full name: 1 Thessalonians", "Testament: NT", "Category: Pauline Epistles", "Canon order: 62", "Canon path: canon/NT/62_1TH.md", "Lines: 142", "Status: promoted", "Anchor format: [[1TH.CH:V]]"]}
+{"type": "entity", "name": "2TH", "entityType": "canon_book", "observations": ["Full name: 2 Thessalonians", "Testament: NT", "Category: Pauline Epistles", "Canon order: 63", "Canon path: canon/NT/63_2TH.md", "Lines: 91", "Status: promoted", "Anchor format: [[2TH.CH:V]]"]}
+{"type": "entity", "name": "1TI", "entityType": "canon_book", "observations": ["Full name: 1 Timothy", "Testament: NT", "Category: Pastoral Epistles", "Canon order: 64", "Canon path: canon/NT/64_1TI.md", "Lines: 204", "Status: promoted", "Anchor format: [[1TI.CH:V]]"]}
+{"type": "entity", "name": "2TI", "entityType": "canon_book", "observations": ["Full name: 2 Timothy", "Testament: NT", "Category: Pastoral Epistles", "Canon order: 65", "Canon path: canon/NT/65_2TI.md", "Lines: 147", "Status: promoted", "Anchor format: [[2TI.CH:V]]"]}
+{"type": "entity", "name": "TIT", "entityType": "canon_book", "observations": ["Full name: Titus", "Testament: NT", "Category: Pastoral Epistles", "Canon order: 66", "Canon path: canon/NT/66_TIT.md", "Lines: 90", "Status: promoted", "Anchor format: [[TIT.CH:V]]"]}
+{"type": "entity", "name": "PHM", "entityType": "canon_book", "observations": ["Full name: Philemon", "Testament: NT", "Category: Pauline Epistles", "Canon order: 67", "Canon path: canon/NT/67_PHM.md", "Lines: 50", "Status: promoted", "Anchor format: [[PHM.CH:V]]"]}
+{"type": "entity", "name": "HEB", "entityType": "canon_book", "observations": ["Full name: Hebrews", "Testament: NT", "Category: General Epistles", "Canon order: 68", "Canon path: canon/NT/68_HEB.md", "Lines: 460", "Status: promoted", "Anchor format: [[HEB.CH:V]]"]}
+{"type": "entity", "name": "JAS", "entityType": "canon_book", "observations": ["Full name: James", "Testament: NT", "Category: General Epistles", "Canon order: 69", "Canon path: canon/NT/69_JAS.md", "Lines: 173", "Status: promoted", "Anchor format: [[JAS.CH:V]]"]}
+{"type": "entity", "name": "1PE", "entityType": "canon_book", "observations": ["Full name: 1 Peter", "Testament: NT", "Category: General Epistles", "Canon order: 70", "Canon path: canon/NT/70_1PE.md", "Lines: 180", "Status: promoted", "Anchor format: [[1PE.CH:V]]"]}
+{"type": "entity", "name": "2PE", "entityType": "canon_book", "observations": ["Full name: 2 Peter", "Testament: NT", "Category: General Epistles", "Canon order: 71", "Canon path: canon/NT/71_2PE.md", "Lines: 113", "Status: promoted", "Anchor format: [[2PE.CH:V]]"]}
+{"type": "entity", "name": "1JN", "entityType": "canon_book", "observations": ["Full name: 1 John", "Testament: NT", "Category: General Epistles", "Canon order: 72", "Canon path: canon/NT/72_1JN.md", "Lines: 179", "Status: promoted", "Anchor format: [[1JN.CH:V]]"]}
+{"type": "entity", "name": "2JN", "entityType": "canon_book", "observations": ["Full name: 2 John", "Testament: NT", "Category: General Epistles", "Canon order: 73", "Canon path: canon/NT/73_2JN.md", "Lines: 38", "Status: promoted", "Anchor format: [[2JN.CH:V]]"]}
+{"type": "entity", "name": "3JN", "entityType": "canon_book", "observations": ["Full name: 3 John", "Testament: NT", "Category: General Epistles", "Canon order: 74", "Canon path: canon/NT/74_3JN.md", "Lines: 46", "Status: promoted", "Anchor format: [[3JN.CH:V]]"]}
+{"type": "entity", "name": "JUD", "entityType": "canon_book", "observations": ["Full name: Jude", "Testament: NT", "Category: General Epistles", "Canon order: 75", "Canon path: canon/NT/75_JUD.md", "Lines: 56", "Status: promoted", "Anchor format: [[JUD.CH:V]]"]}
+{"type": "entity", "name": "REV", "entityType": "canon_book", "observations": ["Full name: Revelation", "Testament: NT", "Category: Apocalyptic", "Canon order: 76", "Canon path: canon/NT/76_REV.md", "Lines: 651", "Status: promoted", "Anchor format: [[REV.CH:V]]"]}
+{"type": "entity", "name": "OT_Canon", "entityType": "canon_collection", "observations": ["49 books total", "Pentateuch (5), Historical (12), Deuterocanonical (8), Wisdom/Poetry (5), Minor Prophets (12), Major Prophets (7)", "All 49 promoted to canon/OT/", "Source: OSB PDF (sole canonical source)"]}
+{"type": "entity", "name": "NT_Canon", "entityType": "canon_collection", "observations": ["27 books total", "Gospels (4), Acts (1), Pauline Epistles (9), Pastoral Epistles (3), General Epistles (8), Apocalyptic (1)", "All 27 promoted to canon/NT/", "Source: OSB PDF (sole canonical source)"]}
+{"type": "entity", "name": "Orthodox_Phronema_Archive", "entityType": "project", "observations": ["76-book Orthodox Study Bible digital archive", "Pipeline: src.texts/osb.pdf -> parse -> raw -> validate (V1-V12) -> validated -> promote -> canon/", "Anchor format: [[BOOK.CH:V]] (wikilink syntax, frozen)", "Agents: Ark (Claude, lead), Ezra (Codex 5.4, consultant), Photius (Gemini Flash 3.0, batch ops)", "Governing memos: memos/INDEX.md", "Ops board: memos/ezra_ops_board.md", "Architecture: ARCHITECTURE.md"]}
+{"type": "entity", "name": "memo_architecture", "entityType": "governing_memo", "observations": ["File: memos/01_architecture_memo_v1.md", "Scope: Foundational architecture"]}
+{"type": "entity", "name": "memo_folder_contract", "entityType": "governing_memo", "observations": ["File: memos/02_repository_folder_contract.md", "Scope: Directory structure contract"]}
+{"type": "entity", "name": "memo_validation_spec", "entityType": "governing_memo", "observations": ["File: memos/03_validation_spec.md", "Scope: Core validation contract (V1-V12)"]}
+{"type": "entity", "name": "memo_osb_immutability", "entityType": "governing_memo", "observations": ["File: memos/22_osb_immutability_and_secondary_verification_policy.md", "Scope: Source authority"]}
+{"type": "entity", "name": "memo_footnote_standards", "entityType": "governing_memo", "observations": ["File: memos/53_footnote_workflow_and_link_standards_ratification.md", "Scope: Footnote + link standards"]}
+{"type": "entity", "name": "memo_ezra_ops", "entityType": "governing_memo", "observations": ["File: memos/ezra_ops_board.md", "Scope: Live dispatch and ops tracking"]}
+{"type": "entity", "name": "memo_ezra_audit_log", "entityType": "governing_memo", "observations": ["File: memos/ezra-audit-log.md", "Scope: Ezra audit log \u2014 required before canon promotion"]}
+{"type": "entity", "name": "memo_index", "entityType": "governing_memo", "observations": ["File: memos/INDEX.md", "Scope: Master memo index \u2014 governing vs archived"]}
+{"type": "entity", "name": "memo_phase3_spec", "entityType": "governing_memo", "observations": ["File: memos/88_phase3_ratified_spec.md", "Scope: Phase 3 ratified specification"]}
+{"type": "entity", "name": "memo_v11v12", "entityType": "governing_memo", "observations": ["File: memos/69_v11v12_activation_and_phase2_3_bootstrap.md", "Scope: V11/V12 activation"]}
+{"type": "entity", "name": "memo_wikilink_rollout", "entityType": "governing_memo", "observations": ["File: memos/122_wikilink_full_rollout.md", "Scope: Full wikilink rollout"]}
+{"type": "entity", "name": "memo_footnote_study_launch", "entityType": "governing_memo", "observations": ["File: memos/126_footnote_cleanup_study_surface_launch.md", "Scope: Footnote study layer launch"]}
+{"type": "entity", "name": "memo_ot_canon_lock", "entityType": "governing_memo", "observations": ["File: memos/91_ot_canon_lock_ratification_packet.md", "Scope: OT canon lock ratification"]}
+{"type": "relation", "from": "GEN", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "EXO", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "LEV", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "NUM", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "DEU", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "JOS", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "JDG", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "RUT", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "1SA", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "2SA", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "1KI", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "2KI", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "1CH", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "2CH", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "1ES", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "EZR", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "NEH", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "TOB", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "JDT", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "EST", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "1MA", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "2MA", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "3MA", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "PSA", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "PRO", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "ECC", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "SNG", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "JOB", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "WIS", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "SIR", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "HOS", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "AMO", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "MIC", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "JOL", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "OBA", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "JON", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "NAH", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "HAB", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "ZEP", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "HAG", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "ZEC", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "MAL", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "ISA", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "JER", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "BAR", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "LAM", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "LJE", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "EZK", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "DAN", "to": "OT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "MAT", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "MRK", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "LUK", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "JOH", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "ACT", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "ROM", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "1CO", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "2CO", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "GAL", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "EPH", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "PHP", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "COL", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "1TH", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "2TH", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "1TI", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "2TI", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "TIT", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "PHM", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "HEB", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "JAS", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "1PE", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "2PE", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "1JN", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "2JN", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "3JN", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "JUD", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "REV", "to": "NT_Canon", "relationType": "belongs_to"}
+{"type": "relation", "from": "OT_Canon", "to": "Orthodox_Phronema_Archive", "relationType": "part_of"}
+{"type": "relation", "from": "NT_Canon", "to": "Orthodox_Phronema_Archive", "relationType": "part_of"}
+{"type": "relation", "from": "memo_architecture", "to": "Orthodox_Phronema_Archive", "relationType": "governs"}
+{"type": "relation", "from": "memo_folder_contract", "to": "Orthodox_Phronema_Archive", "relationType": "governs"}
+{"type": "relation", "from": "memo_validation_spec", "to": "Orthodox_Phronema_Archive", "relationType": "governs"}
+{"type": "relation", "from": "memo_osb_immutability", "to": "Orthodox_Phronema_Archive", "relationType": "governs"}
+{"type": "relation", "from": "memo_ezra_audit_log", "to": "Orthodox_Phronema_Archive", "relationType": "governs"}
+{"type": "relation", "from": "memo_ot_canon_lock", "to": "OT_Canon", "relationType": "governs"}
