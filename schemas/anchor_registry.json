@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$comment": "Registry v1.1.0. Changes require version bump, changelog entry, and migration plan.",
-  "registry_version": "1.7.2",
+  "registry_version": "1.7.3",
   "ratified_date": "2026-03-15",
   "registry_changelog": [
     {
@@ -73,6 +73,11 @@
       "version": "1.7.2",
       "date": "2026-03-15",
       "description": "1CH ch12 CVC: 40→41, ch16: confirmed at 42. OSB has 41 verses in ch12. Source: OSB PDF."
+    },
+    {
+      "version": "1.7.3",
+      "date": "2026-03-15",
+      "description": "2CH ch27 CVC: 9→8. OSB only has 8 verses in ch27 (verified via PDF). Source: OSB PDF."
     }
   ],
   "total_canonical_books": 76,
@@ -620,7 +625,7 @@
         27,
         28,
         23,
-        9,
+        8,
         27,
         36,
         27,

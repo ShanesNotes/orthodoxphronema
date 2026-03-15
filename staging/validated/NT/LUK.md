@@ -1296,8 +1296,8 @@ LUK.20:45 Then, in the hearing of all the people, He said to His disciples,
 
 ### Imitate the Poor Widow
 
-LUK.20:46 'Beware of the scribes, who desire to go around in long robes, love greetings in the marketplaces, the best seats in the synagogues, and the best places at feasts, 47 who devour widows' houses, and for apretense make long prayers. These will receive greater condemnation.'
-LUK.20:47
+LUK.20:46 'Beware of the scribes, who desire to go around in long robes, love greetings in the marketplaces, the best seats in the synagogues, and the best places at feasts,
+LUK.20:47 who devour widows' houses, and for a pretense make long prayers. These will receive greater condemnation.'
 ## Chapter 21
 
 LUK.21:1 And He looked up and saw the rich putting their gifts into the treasury,
