@@ -85,5 +85,5 @@ create_relations: [{ from: "a", to: "b", relationType: "relation" }]
 
 ### Current Stats
 
-- 277 entities (76 books + 76 articles + 76 footnotes + 15 lectionary + 3 structural + 1 study collection + 13 governing memos + 7 frontmatter + 4 backmatter + 2 liturgical + 3 structured JSON + 1 reference collection)
-- 286 relations (78 book→collection + 2 collection→project + 6 memo→governs + 152 companion→book + 17 reference→project + 3 structured_form_of + 28 misc)
+- 280 entities (76 books + 76 articles + 76 footnotes + 15 lectionary + 3 structural + 1 study collection + 13 governing memos + 7 frontmatter + 4 backmatter + 2 liturgical + 6 structured JSON + 1 reference collection)
+- 278 relations (78 book→collection + 2 collection→project + 6 memo→governs + 152 companion→book + 17 reference→project + 6 structured_form_of + 17 misc)

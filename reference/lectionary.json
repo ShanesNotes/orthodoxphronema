@@ -1,0 +1,5499 @@
+{
+  "title": "Lectionary",
+  "source": "Orthodox Study Bible",
+  "description": "Rough guide for personal reading following the church calendar",
+  "note": "Not intended for liturgical use. Consult parish for actual readings.",
+  "stats": {
+    "daily_entries": 401,
+    "total_references": 892,
+    "unique_books": 42,
+    "books": [
+      "GEN",
+      "EXO",
+      "NUM",
+      "JOS",
+      "JDG",
+      "1KI",
+      "2KI",
+      "JOB",
+      "PRO",
+      "MIC",
+      "JOL",
+      "ZEP",
+      "ZEC",
+      "ISA",
+      "JER",
+      "BAR",
+      "DAN",
+      "MAT",
+      "MAR",
+      "LUK",
+      "JOH",
+      "ACT",
+      "ROM",
+      "1CO",
+      "2CO",
+      "GAL",
+      "EPH",
+      "PHP",
+      "COL",
+      "1TH",
+      "2TH",
+      "1TI",
+      "2TI",
+      "TIT",
+      "HEB",
+      "JAM",
+      "1PE",
+      "2PE",
+      "1JO",
+      "2JO",
+      "3JO",
+      "JUD"
+    ]
+  },
+  "seasons": [
+    "TRIODION AND GREAT LENT",
+    "GREAT LENT",
+    "HOLY WEEK",
+    "PASCHA",
+    "MAJOR FIXED FEASTS",
+    "NATIVITY CYCLE",
+    "THEOPHANY CYCLE",
+    "LESSER FIXED FEASTS",
+    "OTHER SPECIAL AND GENERAL FEASTDAYS"
+  ],
+  "entries": [
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Monday",
+      "readings": [
+        "1PE 2:21—3:9",
+        "MAR 12:13–17"
+      ],
+      "books": [
+        "MAR",
+        "1PE"
+      ],
+      "week": "Fourth Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Tuesday",
+      "readings": [
+        "1PE 3:10–22",
+        "MAR 12:18–27"
+      ],
+      "books": [
+        "MAR",
+        "1PE"
+      ],
+      "week": "Fourth Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Wednesday",
+      "readings": [
+        "1PE 4:1–11",
+        "MAR 12:28–37"
+      ],
+      "books": [
+        "MAR",
+        "1PE"
+      ],
+      "week": "Fourth Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Thursday",
+      "readings": [
+        "1PE 4:12—5:5",
+        "MAR 12:38–44"
+      ],
+      "books": [
+        "MAR",
+        "1PE"
+      ],
+      "week": "Fourth Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Friday",
+      "readings": [
+        "2PE 1:1–10",
+        "MAR 13:1–8"
+      ],
+      "books": [
+        "MAR",
+        "2PE"
+      ],
+      "week": "Fourth Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Saturday",
+      "readings": [
+        "2TI 2:11–19",
+        "LUK 18:2–8"
+      ],
+      "books": [
+        "LUK",
+        "2TI"
+      ],
+      "week": "Fourth Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Sunday",
+      "readings": [
+        "2TI 3:10–15",
+        "LUK 18:10–14"
+      ],
+      "books": [
+        "LUK",
+        "2TI"
+      ],
+      "week": "Fourth Week Before Lent",
+      "feast": "Fourth Sunday Before Lent: Sunday of the Publican and Pharisee"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Monday",
+      "readings": [
+        "2PE 1:20—2:9",
+        "MAR 13:9–13"
+      ],
+      "books": [
+        "MAR",
+        "2PE"
+      ],
+      "week": "Third Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Tuesday",
+      "readings": [
+        "2PE 2:9–22",
+        "MAR 13:14–23"
+      ],
+      "books": [
+        "MAR",
+        "2PE"
+      ],
+      "week": "Third Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Wednesday",
+      "readings": [
+        "2PE 3:1–18",
+        "MAR 13:24–31"
+      ],
+      "books": [
+        "MAR",
+        "2PE"
+      ],
+      "week": "Third Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Thursday",
+      "readings": [
+        "1JO 1:8—2:6",
+        "MAR 13:31—14:2"
+      ],
+      "books": [
+        "MAR",
+        "1JO"
+      ],
+      "week": "Third Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Friday",
+      "readings": [
+        "1JO 2:7–17",
+        "MAR 14:3–9"
+      ],
+      "books": [
+        "MAR",
+        "1JO"
+      ],
+      "week": "Third Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Saturday",
+      "readings": [
+        "2TI 3:1–9",
+        "LUK 20:45—21:4"
+      ],
+      "books": [
+        "LUK",
+        "2TI"
+      ],
+      "week": "Third Week Before Lent"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Sunday",
+      "readings": [
+        "1CO 6:12–20",
+        "LUK 15:11–32"
+      ],
+      "books": [
+        "LUK",
+        "1CO"
+      ],
+      "week": "Third Week Before Lent",
+      "feast": "Third Sunday Before Lent: Sunday of the Prodigal Son"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Monday",
+      "readings": [
+        "1JO 2:18—3:10",
+        "MAR 11:1–11"
+      ],
+      "books": [
+        "MAR",
+        "1JO"
+      ],
+      "week": "Meatfare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Tuesday",
+      "readings": [
+        "1JO 3:11–20",
+        "MAR 14:10–42"
+      ],
+      "books": [
+        "MAR",
+        "1JO"
+      ],
+      "week": "Meatfare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Wednesday",
+      "readings": [
+        "1JO 3:21—4:6",
+        "MAR 14:43—15:1"
+      ],
+      "books": [
+        "MAR",
+        "1JO"
+      ],
+      "week": "Meatfare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Thursday",
+      "readings": [
+        "1JO 4:20—5:21",
+        "MAR 15:1–15"
+      ],
+      "books": [
+        "MAR",
+        "1JO"
+      ],
+      "week": "Meatfare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Friday",
+      "readings": [
+        "2JO 1:1–13",
+        "MAR 15:22–25, 33–41"
+      ],
+      "books": [
+        "MAR",
+        "2JO"
+      ],
+      "week": "Meatfare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Saturday",
+      "readings": [
+        "1CO 10:23–28",
+        "LUK 21:8, 9, 25–27, 33–36"
+      ],
+      "books": [
+        "LUK",
+        "1CO"
+      ],
+      "week": "Meatfare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Saturday",
+      "readings": [
+        "1TH 4:13–17",
+        "JOH 5:24–30"
+      ],
+      "books": [
+        "JOH",
+        "1TH"
+      ],
+      "week": "Meatfare Week",
+      "feast": "Commemoration of the Departed"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Sunday",
+      "readings": [
+        "1CO 8:8—9:2",
+        "MAT 25:31–46"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Meatfare Week",
+      "feast": "Second Sunday Before Lent: Sunday of the Last Judgment (Meatfare Sunday)"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Monday",
+      "readings": [
+        "3JO 1:1–14",
+        "LUK 19:29–40"
+      ],
+      "books": [
+        "LUK",
+        "3JO"
+      ],
+      "week": "Cheesefare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Tuesday",
+      "readings": [
+        "JUD 1:1–10",
+        "LUK 22:39–42, 45—23:1"
+      ],
+      "books": [
+        "LUK",
+        "JUD"
+      ],
+      "week": "Cheesefare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Wednesday",
+      "readings": [
+        "JOL 2:12–26",
+        "JOL 3:12–21"
+      ],
+      "books": [
+        "JOL"
+      ],
+      "week": "Cheesefare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Thursday",
+      "readings": [
+        "JUD 1:11–25",
+        "LUK 23:2–34, 44–56"
+      ],
+      "books": [
+        "LUK",
+        "JUD"
+      ],
+      "week": "Cheesefare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Friday",
+      "readings": [
+        "ZEC 8:7–14",
+        "ZEC 8:19–23"
+      ],
+      "books": [
+        "ZEC"
+      ],
+      "week": "Cheesefare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Saturday",
+      "readings": [
+        "ROM 14:19–23",
+        "MAT 6:1–13"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Cheesefare Week"
+    },
+    {
+      "season": "TRIODION AND GREAT LENT",
+      "day": "Sunday",
+      "readings": [
+        "ROM 13:11—14:4",
+        "MAT 6:14–21"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Cheesefare Week",
+      "feast": "Sunday Before Lent: Forgiveness Sunday (Cheesefare Sunday)"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Monday",
+      "readings": [
+        "ISA 1:1–20",
+        "GEN 1:1–13",
+        "PRO 1:1–20"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "First Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Tuesday",
+      "readings": [
+        "ISA 1:19—2:3",
+        "GEN 1:14–23",
+        "PRO 1:20–33"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "First Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Wednesday",
+      "readings": [
+        "ISA 2:3–11",
+        "GEN 1:24—2:3",
+        "PRO 2:1–22"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "First Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Thursday",
+      "readings": [
+        "ISA 2:11–22",
+        "GEN 2:4–19",
+        "PRO 3:1–18"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "First Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Friday",
+      "readings": [
+        "ISA 3:1–14",
+        "GEN 2:20—3:20",
+        "PRO 3:19–34"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "First Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Saturday",
+      "readings": [
+        "HEB 1:1–12",
+        "MAR 2:23—3:5"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "First Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Sunday",
+      "readings": [
+        "HEB 11:24–26, 32—12:2",
+        "JOH 1:43–51"
+      ],
+      "books": [
+        "JOH",
+        "HEB"
+      ],
+      "week": "First Week of Great Lent",
+      "feast": "First Sunday of Great Lent: Sunday of Orthodoxy"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Monday",
+      "readings": [
+        "ISA 4:2–6, 5:1–7",
+        "GEN 3:21—4:7",
+        "PRO 3:34—4:22"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Second Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Tuesday",
+      "readings": [
+        "ISA 5:7–16",
+        "GEN 4:8–15",
+        "PRO 5:1–15"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Second Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Wednesday",
+      "readings": [
+        "ISA 5:16–26",
+        "GEN 4:16–26",
+        "PRO 5:15—6:3"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Second Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Thursday",
+      "readings": [
+        "ISA 6:1–12",
+        "GEN 5:1–24",
+        "PRO 6:3–20"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Second Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Friday",
+      "readings": [
+        "ISA 7:1–14",
+        "GEN 5:32—6:8",
+        "PRO 6:20—7:1"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Second Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Saturday",
+      "readings": [
+        "HEB 3:12–16",
+        "MAR 1:35–44"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Second Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Sunday",
+      "readings": [
+        "HEB 1:10—2:3",
+        "MAR 2:1–12"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Second Week of Great Lent",
+      "feast": "Second Sunday of Great Lent: Commemoration of St. Gregory Palamas"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Monday",
+      "readings": [
+        "ISA 8:13—9:7",
+        "GEN 6:9–22",
+        "PRO 8:1–21"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Third Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Tuesday",
+      "readings": [
+        "ISA 9:9—10:4",
+        "GEN 7:1–5",
+        "PRO 8:32—9:11"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Third Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Wednesday",
+      "readings": [
+        "ISA 10:12–20",
+        "GEN 7:6–9",
+        "PRO 9:12–18"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Third Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Thursday",
+      "readings": [
+        "ISA 11:10—12:2",
+        "GEN 7:11—8:3",
+        "PRO 10:1–22"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Third Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Friday",
+      "readings": [
+        "ISA 13:2–13",
+        "GEN 8:4–21",
+        "PRO 10:31—11:12"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Third Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Saturday",
+      "readings": [
+        "HEB 10:32–38",
+        "MAR 2:14–17"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Third Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Sunday",
+      "readings": [
+        "HEB 4:14—5:6",
+        "MAR 8:34—9:1"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Third Week of Great Lent",
+      "feast": "Third Sunday of Great Lent: Adoration of the Holy Cross"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Monday",
+      "readings": [
+        "ISA 14:24–32",
+        "GEN 8:21—9:7",
+        "PRO 11:19—12:6"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Fourth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Tuesday",
+      "readings": [
+        "ISA 25:1–9",
+        "GEN 9:8–17",
+        "PRO 12:8–22"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Fourth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Wednesday",
+      "readings": [
+        "ISA 26:21—27:9",
+        "GEN 9:18—10:1",
+        "PRO 12:23—13:9"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Fourth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Thursday",
+      "readings": [
+        "ISA 28:14–22",
+        "GEN 10:32—11:9",
+        "PRO 13:20—14:6"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Fourth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Friday",
+      "readings": [
+        "ISA 29:13–23",
+        "GEN 12:1–7",
+        "PRO 14:15–26"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Fourth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Saturday",
+      "readings": [
+        "HEB 6:9–12",
+        "MAR 7:31–37"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Fourth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Sunday",
+      "readings": [
+        "HEB 6:13–20",
+        "MAR 9:17–31"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Fourth Week of Great Lent",
+      "feast": "Fourth Sunday of Great Lent: Commemoration of Saint John of the Ladder"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Monday",
+      "readings": [
+        "ISA 37:33—38:6",
+        "GEN 13:12–18",
+        "PRO 14:27—15:4"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Fifth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Tuesday",
+      "readings": [
+        "ISA 40:18–31",
+        "GEN 15:1–15",
+        "PRO 15:7–19"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Fifth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Wednesday",
+      "readings": [
+        "ISA 41:4–14",
+        "GEN 17:1–9",
+        "PRO 15:20—16:9"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Fifth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Thursday",
+      "readings": [
+        "ISA 42:5–16:",
+        "GEN 18:20–33",
+        "PRO 16:17—17:17"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Fifth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Friday",
+      "readings": [
+        "ISA 45:11–17",
+        "GEN 22:1–18",
+        "PRO 17:17—18:5"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Fifth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Saturday",
+      "readings": [
+        "HEB 9:24–28",
+        "MAR 8:27–31"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Fifth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Sunday",
+      "readings": [
+        "HEB 9:11–14",
+        "MAR 10:32–45"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Fifth Week of Great Lent",
+      "feast": "Fifth Sunday of Great Lent: Commemoration of Saint Mary of Egypt"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Monday",
+      "readings": [
+        "ISA 48:17—49:4",
+        "GEN 27:1–41",
+        "PRO 19:16–25"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Sixth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Tuesday",
+      "readings": [
+        "ISA 49:6–10",
+        "GEN 31:3–16",
+        "PRO 21:3–21"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Sixth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Wednesday",
+      "readings": [
+        "ISA 58:1–11",
+        "GEN 43:26–31",
+        "PRO 21:23—22:4"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Sixth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Thursday",
+      "readings": [
+        "ISA 65:8–16",
+        "GEN 46:1–7",
+        "PRO 23:15—24:5"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Sixth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Friday",
+      "readings": [
+        "ISA 66:10–24",
+        "GEN 49:33—50:26",
+        "PRO 31:8–31"
+      ],
+      "books": [
+        "GEN",
+        "PRO",
+        "ISA"
+      ],
+      "week": "Sixth Week of Great Lent"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Lazarus Saturday",
+      "readings": [
+        "HEB 12:28—13:8",
+        "JOH 11:1–45"
+      ],
+      "books": [
+        "JOH",
+        "HEB"
+      ],
+      "week": "Sixth Week of Great Lent",
+      "feast": "Lazarus Saturday"
+    },
+    {
+      "season": "GREAT LENT",
+      "day": "Sunday",
+      "readings": [
+        "PHP 4:4–9",
+        "JOH 12:1–18"
+      ],
+      "books": [
+        "JOH",
+        "PHP"
+      ],
+      "week": "Sixth Week of Great Lent",
+      "feast": "The Entry of the Lord into Jerusalem: Palm Sunday"
+    },
+    {
+      "season": "HOLY WEEK",
+      "day": "Holy Monday",
+      "readings": [
+        "MAT 24:3–35"
+      ],
+      "books": [
+        "MAT"
+      ],
+      "feast": "Holy Monday"
+    },
+    {
+      "season": "HOLY WEEK",
+      "day": "Holy Tuesday",
+      "readings": [
+        "MAT 24:36—26:2"
+      ],
+      "books": [
+        "MAT"
+      ],
+      "feast": "Holy Tuesday"
+    },
+    {
+      "season": "HOLY WEEK",
+      "day": "Holy Wednesday",
+      "readings": [
+        "MAT 26:6–16"
+      ],
+      "books": [
+        "MAT"
+      ],
+      "feast": "Holy Wednesday"
+    },
+    {
+      "season": "HOLY WEEK",
+      "day": "Holy Thursday",
+      "readings": [
+        "1CO 11:23–32",
+        "MAT 26:1–20",
+        "JOH 13:3–17",
+        "MAT 26:21–39",
+        "LUK 22:43–45",
+        "MAT 26:40—27:2"
+      ],
+      "books": [
+        "MAT",
+        "LUK",
+        "JOH",
+        "1CO"
+      ],
+      "feast": "Holy Thursday"
+    },
+    {
+      "season": "HOLY WEEK",
+      "day": "Holy Friday",
+      "readings": [
+        "EXO 33:11–23",
+        "JOB 42:12–16",
+        "ISA 52:13—54:1",
+        "1CO 1:18—2:2",
+        "MAT 27:1–38",
+        "LUK 23:39–43",
+        "MAT 27:39–54",
+        "JOH 19:31–37",
+        "MAT 27:55–61"
+      ],
+      "books": [
+        "EXO",
+        "JOB",
+        "ISA",
+        "MAT",
+        "LUK",
+        "JOH",
+        "1CO"
+      ],
+      "feast": "Holy Friday"
+    },
+    {
+      "season": "HOLY WEEK",
+      "day": "Holy Saturday",
+      "readings": [
+        "GEN 1:1–13",
+        "ISA 60:1–16",
+        "EXO 12:1–11",
+        "JOS 5:10–15",
+        "EXO 13:20—15:19",
+        "ZEP 3:8–15",
+        "1KI 17:8–24",
+        "ISA 61:10—62:5",
+        "GEN 22:1–18",
+        "ISA 61:1–9",
+        "2KI 4:8–37",
+        "ISA 63:11—64:5",
+        "JER 31:31–34",
+        "DAN 3:1–23",
+        "ROM 6:3–11",
+        "MAT 28:1–20"
+      ],
+      "books": [
+        "GEN",
+        "EXO",
+        "JOS",
+        "1KI",
+        "2KI",
+        "ZEP",
+        "ISA",
+        "JER",
+        "DAN",
+        "MAT",
+        "ROM"
+      ],
+      "feast": "Holy Saturday"
+    },
+    {
+      "season": "PASCHA",
+      "day": "The Resurrection of Christ (Easter)",
+      "readings": [
+        "ACT 1:1–8",
+        "JOH 1:1–17"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "feast": "The Resurrection of Christ (Easter)"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Bright Monday",
+      "readings": [
+        "ACT 1:12–17",
+        "JOH 1:18–28"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Bright Week",
+      "feast": "Bright Monday"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Bright Tuesday",
+      "readings": [
+        "ACT 2:14–21",
+        "LUK 24:12–35"
+      ],
+      "books": [
+        "LUK",
+        "ACT"
+      ],
+      "week": "Bright Week",
+      "feast": "Bright Tuesday"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Bright Wednesday",
+      "readings": [
+        "ACT 2:22–36",
+        "JOH 1:35–51"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Bright Week",
+      "feast": "Bright Wednesday"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Bright Thursday",
+      "readings": [
+        "ACT 2:38–43",
+        "JOH 3:1–15"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Bright Week",
+      "feast": "Bright Thursday"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Bright Friday",
+      "readings": [
+        "ACT 3:1–8",
+        "JOH 2:12–22"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Bright Week",
+      "feast": "Bright Friday"
+    },
+    {
+      "season": "PASCHA",
+      "day": null,
+      "readings": [
+        "ACT 3:11–16",
+        "JOH 3:22–33"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Bright Saturday"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ACT 5:12–20",
+        "JOH 20:19–31"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Bright Saturday",
+      "feast": "Second Sunday of Pascha: Thomas Sunday"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "ACT 3:19–26",
+        "JOH 2:1–11"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Second Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "ACT 4:1–10",
+        "JOH 3:16–21"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Second Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ACT 4:13–22",
+        "JOH 5:17–24"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Second Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "ACT 4:23–31",
+        "JOH 5:24–30"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Second Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "ACT 5:1–11",
+        "JOH 5:30—6:2"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Second Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ACT 5:21–33",
+        "JOH 6:14–27"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Second Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ACT 6:17",
+        "MAR 15:43—16:8"
+      ],
+      "books": [
+        "MAR",
+        "ACT"
+      ],
+      "week": "Second Week of Pascha",
+      "feast": "Nicodemus"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "ACT 6:8—7:5, 47–60",
+        "JOH 4:46–54"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Third Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "ACT 8:5–17",
+        "JOH 6:27–33"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Third Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ACT 8:18–25",
+        "JOH 6:35–39"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Third Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "ACT 8:26–39",
+        "JOH 6:40–44"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Third Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "ACT 8:40—9:19",
+        "JOH 6:48–54"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Third Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ACT 9:19–31",
+        "JOH 15:17—16:2"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Third Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ACT 9:32—42",
+        "JOH 5:1–15"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Third Week of Pascha",
+      "feast": "Fourth Sunday of Pascha: Sunday of the Paralytic"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "ACT 10:1–16",
+        "JOH 6:56–69"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fourth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "ACT 10:21–33",
+        "JOH 7:1–13"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fourth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ACT 14:6–18",
+        "JOH 7:14–30"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fourth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "ACT 10:34–43",
+        "JOH 8:12–20"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fourth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "ACT 10:44—11:10",
+        "JOH 8:21–30"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fourth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ACT 12:1–11",
+        "JOH 8:31–42"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fourth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ACT 11:19–26, 29–30",
+        "JOH 4:5–42"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fourth Week of Pascha",
+      "feast": "Fifth Sunday of Pascha: Sunday of the Samaritan Woman"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "ACT 12:12–17",
+        "JOH 8:42–51"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fifth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "ACT 12:25—13:12",
+        "JOH 8:51–59"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fifth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ACT 13:13–24",
+        "JOH 6:5–14"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fifth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "ACT 14:20–27",
+        "JOH 9:39—10:9"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fifth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "ACT 15:5–34",
+        "JOH 10:17–28"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fifth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ACT 15:35–41",
+        "JOH 10:27–38"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fifth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ACT 16:16–34",
+        "JOH 9:1–38"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Fifth Week of Pascha",
+      "feast": "Sixth Sunday of Pascha: Sunday of the Blind Man"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "ACT 17:1–15",
+        "JOH 11:47–57"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Sixth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "ACT 17:19–28",
+        "JOH 12:19–36"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Sixth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ACT 18:22–28",
+        "JOH 12:36–47"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Sixth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ACT 1:1–12",
+        "LUK 24:36–53"
+      ],
+      "books": [
+        "LUK",
+        "ACT"
+      ],
+      "week": "Sixth Week of Pascha",
+      "feast": "Thursday: The Ascension of Our Lord"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "ACT 19:1–8",
+        "JOH 14:1–11"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Sixth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ACT 20:7–12",
+        "JOH 14:10–21"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Sixth Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ACT 20:16–18, 28–36",
+        "JOH 17:1–13"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Sixth Week of Pascha",
+      "feast": "Seventh Sunday of Pascha: Sunday of the Fathers of the First Ecumenical Council"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "ACT 21:8–14",
+        "JOH 14:27—15:7"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Seventh Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "ACT 21:26–32",
+        "JOH 16:2–13"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Seventh Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ACT 23:1–11",
+        "JOH 16:15–23"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Seventh Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "ACT 25:13–19",
+        "JOH 16:23–33"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Seventh Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "ACT 27:1–44",
+        "JOH 17:18–26"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Seventh Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ACT 28:1–31",
+        "JOH 21:15–25"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Seventh Week of Pascha"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ACT 2:1–11",
+        "JOH 7:37–52"
+      ],
+      "books": [
+        "JOH",
+        "ACT"
+      ],
+      "week": "Seventh Week of Pascha",
+      "feast": "(Trinity Sunday)"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday: Day of the Holy Spirit",
+      "readings": [
+        "EPH 5:9–19",
+        "MAT 18:10–20"
+      ],
+      "books": [
+        "MAT",
+        "EPH"
+      ],
+      "week": "First Week after Pentecost",
+      "feast": "Monday: Day of the Holy Spirit"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "ROM 1:1–7, 13–17",
+        "MAT 4:25—5:13"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ROM 1:18–27",
+        "MAT 5:20–26"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "ROM 1:28—2:9",
+        "MAT 5:27–32"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "ROM 2:14–29",
+        "MAT 5:33–41"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ROM 1:7–12",
+        "MAT 5:42–48"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "HEB 11:33—12:2",
+        "MAT 10:32–33, 37–38"
+      ],
+      "books": [
+        "MAT",
+        "HEB"
+      ],
+      "week": "First Week after Pentecost",
+      "feast": "First Sunday after Pentecost: Sunday of All Saints"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "ROM 2:28—3:18",
+        "MAT 6:31–34"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "ROM 4:4–12",
+        "MAT 7:15–21"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ROM 4:13–25",
+        "MAT 7:21–23"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "ROM 5:10–16",
+        "MAT 8:23–27"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "ROM 5:17—6:2",
+        "MAT 9:14–17"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ROM 3:19–26",
+        "MAT 7:1–8"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ROM 2:10–16",
+        "MAT 4:18–23"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Second Week after Pentecost",
+      "feast": "Second Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "ROM 7:1–13",
+        "MAT 9:36—10:8"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "ROM 7:14—8:2",
+        "MAT 10:9–15"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ROM 8:1–13",
+        "MAT 10:16–22"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "ROM 8:22–27",
+        "MAT 10:23–31"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "ROM 9:6–19",
+        "MAT 10:32–36"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ROM 3:28—4:3",
+        "MAT 7:24—8:4"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ROM 5:1–10",
+        "MAT 6:22–33"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Third Week after Pentecost",
+      "feast": "Third Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "ROM 9:18–33",
+        "MAT 11:2–15"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "ROM 10:11—11:2",
+        "MAT 11:16–20"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ROM 11:2–12",
+        "MAT 11:20–26"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "ROM 11:13–24",
+        "MAT 11:27–30"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "ROM 11:25–36",
+        "MAT 12:1–8"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ROM 6:11–17",
+        "MAT 8:14–23"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ROM 6:18–23",
+        "MAT 8:5–13"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fourth Week after Pentecost",
+      "feast": "Fourth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "ROM 12:4–5, 15–21",
+        "MAT 12:9–13"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "ROM 14:9–18",
+        "MAT 12:14–16, 22–30"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "ROM 15:7–16",
+        "MAT 12:38–45"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "ROM 15:17–29",
+        "MAT 12:46—13:3"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "ROM 16:1–16",
+        "MAT 13:4–9"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ROM 8:14–21",
+        "MAT 9:9–13"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ROM 10:1–10",
+        "MAT 8:28—9:1"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Fifth Week after Pentecost",
+      "feast": "Fifth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "ROM 16:17–24",
+        "MAT 13:10–23"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "1CO 1:1–9",
+        "MAT 13:24–30"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "1CO 2:9—3:8",
+        "MAT 13:31–36"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "1CO 3:18–23",
+        "MAT 13:36–43"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "1CO 4:5–8",
+        "MAT 13:44–54"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ROM 9:1–5",
+        "MAT 9:18–26"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ROM 12:6–14",
+        "MAT 9:1–8"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Sixth Week after Pentecost",
+      "feast": "Sixth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "1CO 5:9—6:11",
+        "MAT 13:54–58"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "1CO 6:20—7:12",
+        "MAT 14:1–13"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "1CO 7:12–24",
+        "MAT 14:35— 15:11"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "1CO 7:24–35",
+        "MAT 15:12–21"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "1CO 7:35—8:7",
+        "MAT 15:29–31"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ROM 12:1–3",
+        "MAT 10:37—11:1"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "ROM 15:1–7",
+        "MAT 9:27–35"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Seventh Week after Pentecost",
+      "feast": "Seventh Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "1CO 9:13–18",
+        "MAT 16:1–6"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "1CO 10:5–12",
+        "MAT 16:6–12"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "1CO 10:12–22",
+        "MAT 16:20–24"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "1CO 10:28—11:7",
+        "MAT 16:24–28"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "1CO 11:8–22",
+        "MAT 17:10–18"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ROM 13:1–10",
+        "MAT 12:30–37"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "1CO 1:10–18",
+        "MAT 14:14–22"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Eighth Week after Pentecost",
+      "feast": "Eighth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "1CO 11:31—12:6",
+        "MAT 18:1–11"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "1CO 12:12–26",
+        "MAT 18:18–22"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "1CO 13:4—14:5",
+        "MAT 20:1–16"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "1CO 14:6–19",
+        "MAT 20:17–28"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "1CO 14:26–40",
+        "MAT 21:12–14, 17–20"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ROM 14:6–9",
+        "MAT 15:32–39"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "1CO 3:9–17",
+        "MAT 14:22–34"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Ninth Week after Pentecost",
+      "feast": "Ninth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "1CO 15:12–19",
+        "MAT 21:18–22"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Tenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "1CO 15:29–38",
+        "MAT 21:23–27"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Tenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "1CO 16:4–12",
+        "MAT 21:28–32"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Tenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "2CO 1:1–7",
+        "MAT 21:43–46"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "week": "Tenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "2CO 1:12–20",
+        "MAT 22:23–33"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "week": "Tenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "ROM 15:30–33",
+        "MAT 17:24—18:4"
+      ],
+      "books": [
+        "MAT",
+        "ROM"
+      ],
+      "week": "Tenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "1CO 4:9–16",
+        "MAT 17:14–23"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Tenth Week after Pentecost",
+      "feast": "Tenth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "2CO 2:4–15",
+        "MAT 23:13–22"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "week": "Eleventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "2CO 2:14—3:3",
+        "MAT 23:23–28"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "week": "Eleventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "2CO 3:4–11",
+        "MAT 23:29–39"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "week": "Eleventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "2CO 4:1–6",
+        "MAT 24:13–28"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "week": "Eleventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "2CO 4:13–18",
+        "MAT 24:27–33, 42–51"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "week": "Eleventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "1CO 1:3–9",
+        "MAT 19:3–12"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Eleventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "1CO 9:2–12",
+        "MAT 18:23–35"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Eleventh Week after Pentecost",
+      "feast": "Eleventh Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "2CO 5:10–15",
+        "MAR 1:9–15"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Twelfth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "2CO 5:15–21",
+        "MAR 1:16–22"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Twelfth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "2CO 6:11–16",
+        "MAR 1:23–28"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Twelfth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "2CO 7:1–10",
+        "MAR 1:29–35"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Twelfth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "2CO 7:10–16",
+        "MAR 2:18–22"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Twelfth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "1CO 1:26–29",
+        "MAT 20:29–34"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Twelfth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "1CO 15:1–11",
+        "MAT 19:16–26"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Twelfth Week after Pentecost",
+      "feast": "Twelfth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "2CO 8:7–15",
+        "MAR 3:6–12"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Thirteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "2CO 8:16—9:5",
+        "MAR 3:13–19"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Thirteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "2CO 9:12—10:7",
+        "MAR 3:20–27"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Thirteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "2CO 10:7–18",
+        "MAR 3:28–35"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Thirteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "2CO 11:5–12",
+        "MAR 4:1–9"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Thirteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "1CO 2:6–9",
+        "MAT 22:15–22"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Thirteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "1CO 16:13–24",
+        "MAT 21:33–42"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Thirteenth Week after Pentecost",
+      "feast": "Thirteenth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "2CO 12:10–19",
+        "MAR 4:10–23"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Fourteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "2CO 12:20—13:2",
+        "MAR 4:24–34"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Fourteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "2CO 13:3–13",
+        "MAR 4:35–41"
+      ],
+      "books": [
+        "MAR",
+        "2CO"
+      ],
+      "week": "Fourteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "GAL 1:1–10, 20–24—2:5",
+        "MAR 5:1–20"
+      ],
+      "books": [
+        "MAR",
+        "GAL"
+      ],
+      "week": "Fourteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "GAL 2:6–10",
+        "MAR 5:22–24, 35—6:1"
+      ],
+      "books": [
+        "MAR",
+        "GAL"
+      ],
+      "week": "Fourteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "1CO 4:1–5",
+        "MAT 23:1–12"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Fourteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "2CO 1:21—2:4",
+        "MAT 22:1–14"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "week": "Fourteenth Week after Pentecost",
+      "feast": "Fourteenth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "GAL 2:11–16",
+        "MAR 5:24–34"
+      ],
+      "books": [
+        "MAR",
+        "GAL"
+      ],
+      "week": "Fifteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "GAL 2:21—3:7",
+        "MAR 6:1–7"
+      ],
+      "books": [
+        "MAR",
+        "GAL"
+      ],
+      "week": "Fifteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "GAL 3:15–22",
+        "MAR 6:7–13"
+      ],
+      "books": [
+        "MAR",
+        "GAL"
+      ],
+      "week": "Fifteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "GAL 3:23—4:5",
+        "MAR 6:30–45"
+      ],
+      "books": [
+        "MAR",
+        "GAL"
+      ],
+      "week": "Fifteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "GAL 4:8–21",
+        "MAR 6:45–53"
+      ],
+      "books": [
+        "MAR",
+        "GAL"
+      ],
+      "week": "Fifteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "1CO 4:17—5:5",
+        "MAT 24:1–13"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Fifteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "2CO 4:6–15",
+        "MAT 22:35–46"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "week": "Fifteenth Week after Pentecost",
+      "feast": "Fifteenth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "GAL 4:28—5:10",
+        "MAR 6:54—7:8"
+      ],
+      "books": [
+        "MAR",
+        "GAL"
+      ],
+      "week": "Sixteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "GAL 5:11–21",
+        "MAR 7:5–16"
+      ],
+      "books": [
+        "MAR",
+        "GAL"
+      ],
+      "week": "Sixteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "GAL 6:2–10",
+        "MAR 7:14–24"
+      ],
+      "books": [
+        "MAR",
+        "GAL"
+      ],
+      "week": "Sixteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "EPH 1:1–9",
+        "MAR 7:24–30"
+      ],
+      "books": [
+        "MAR",
+        "EPH"
+      ],
+      "week": "Sixteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "EPH 1:7–17",
+        "MAR 8:1–10"
+      ],
+      "books": [
+        "MAR",
+        "EPH"
+      ],
+      "week": "Sixteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "1CO 10:23–28",
+        "MAT 24:34–44"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Sixteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "2CO 6:1–10",
+        "MAT 25:14–30"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "week": "Sixteenth Week after Pentecost",
+      "feast": "Sixteenth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "EPH 1:22—2:3",
+        "MAR 10:46–52"
+      ],
+      "books": [
+        "MAR",
+        "EPH"
+      ],
+      "week": "Seventeenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "EPH 2:19—3:7",
+        "MAR 11:11–23"
+      ],
+      "books": [
+        "MAR",
+        "EPH"
+      ],
+      "week": "Seventeenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "EPH 3:8–21",
+        "MAR 11:23–26"
+      ],
+      "books": [
+        "MAR",
+        "EPH"
+      ],
+      "week": "Seventeenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "EPH 4:14–19",
+        "MAR 11:27–33"
+      ],
+      "books": [
+        "MAR",
+        "EPH"
+      ],
+      "week": "Seventeenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "EPH 4:17–25",
+        "MAR 12:1–12"
+      ],
+      "books": [
+        "MAR",
+        "EPH"
+      ],
+      "week": "Seventeenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "1CO 14:20–25",
+        "MAT 25:1–13"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "week": "Seventeenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "2CO 6:16—7:1",
+        "MAT 15:21–28"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "week": "Seventeenth Week after Pentecost",
+      "feast": "Seventeenth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "EPH 4:25–32",
+        "LUK 3:19–22"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Eighteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "EPH 5:20–26",
+        "LUK 3:23—4:1"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Eighteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "EPH 5:25–33",
+        "LUK 4:1–15"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Eighteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "EPH 5:33—6:9",
+        "LUK 4:16–22"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Eighteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "EPH 6:18–24",
+        "LUK 4:22–30"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Eighteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "1CO 15:39–45",
+        "LUK 4:31–36"
+      ],
+      "books": [
+        "LUK",
+        "1CO"
+      ],
+      "week": "Eighteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "2CO 9:6–11",
+        "LUK 5:1–11"
+      ],
+      "books": [
+        "LUK",
+        "2CO"
+      ],
+      "week": "Eighteenth Week after Pentecost",
+      "feast": "Eighteenth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "PHP 1:1–7",
+        "LUK 4:37–44"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "week": "Nineteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "PHP 1:8–14",
+        "LUK 5:12–16"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "week": "Nineteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "PHP 1:12–20",
+        "LUK 5:33–39"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "week": "Nineteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "PHP 1:20–27",
+        "LUK 6:12–19"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "week": "Nineteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "PHP 1:27—2:4",
+        "LUK 6:17–23"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "week": "Nineteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "1CO 15:58—16:3",
+        "LUK 5:17–26"
+      ],
+      "books": [
+        "LUK",
+        "1CO"
+      ],
+      "week": "Nineteenth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "2CO 11:31—12:9",
+        "LUK 6:31–36"
+      ],
+      "books": [
+        "LUK",
+        "2CO"
+      ],
+      "week": "Nineteenth Week after Pentecost",
+      "feast": "Nineteenth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "PHP 2:12–16",
+        "LUK 6:24–30"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "week": "Twentieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "PHP 2:17–23",
+        "LUK 6:37–45"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "week": "Twentieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "PHP 2:24–30",
+        "LUK 6:46—7:1"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "week": "Twentieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "PHP 3:1–8",
+        "LUK 7:17–30"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "week": "Twentieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "PHP 3:8–19",
+        "LUK 7:31–35"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "week": "Twentieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "2CO 1:8–11",
+        "LUK 5:27–32"
+      ],
+      "books": [
+        "LUK",
+        "2CO"
+      ],
+      "week": "Twentieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "GAL 1:11–19",
+        "LUK 7:11–16"
+      ],
+      "books": [
+        "LUK",
+        "GAL"
+      ],
+      "week": "Twentieth Week after Pentecost",
+      "feast": "Twentieth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "PHP 4:10–23",
+        "LUK 7:36–50"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "week": "Twenty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "COL 1:1, 2, 7–11",
+        "LUK 8:1–3"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Twenty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "COL 1:18–23",
+        "LUK 8:22–25"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Twenty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "COL 1:24–29",
+        "LUK 9:7–11"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Twenty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "COL 2:1–7",
+        "LUK 9:12–18"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Twenty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "2CO 3:12–18",
+        "LUK 6:1–10"
+      ],
+      "books": [
+        "LUK",
+        "2CO"
+      ],
+      "week": "Twenty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "GAL 2:16–20",
+        "LUK 8:5–15"
+      ],
+      "books": [
+        "LUK",
+        "GAL"
+      ],
+      "week": "Twenty–First Week after Pentecost",
+      "feast": "Twenty–First Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "COL 2:13–20",
+        "LUK 9:18–22"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Twenty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "COL 2:20—3:3",
+        "LUK 9:23–27"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Twenty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "COL 3:17—4:1",
+        "LUK 9:44–50"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Twenty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "COL 4:2–9",
+        "LUK 9:49–56"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Twenty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "COL 4:10–18",
+        "LUK 10:1–15"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Twenty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "2CO 5:1–10",
+        "LUK 7:1–10"
+      ],
+      "books": [
+        "LUK",
+        "2CO"
+      ],
+      "week": "Twenty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "GAL 6:11–18",
+        "LUK 16:19–31"
+      ],
+      "books": [
+        "LUK",
+        "GAL"
+      ],
+      "week": "Twenty–Second Week after Pentecost",
+      "feast": "Twenty–Second Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "1TH 1:1–5",
+        "LUK 10:22–24"
+      ],
+      "books": [
+        "LUK",
+        "1TH"
+      ],
+      "week": "Twenty–Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "1TH 1:6–10",
+        "LUK 11:1–10"
+      ],
+      "books": [
+        "LUK",
+        "1TH"
+      ],
+      "week": "Twenty–Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "1TH 2:1–8",
+        "LUK 11:9–13"
+      ],
+      "books": [
+        "LUK",
+        "1TH"
+      ],
+      "week": "Twenty–Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "1TH 2:9–14",
+        "LUK 11:14–23"
+      ],
+      "books": [
+        "LUK",
+        "1TH"
+      ],
+      "week": "Twenty–Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "1TH 2:14–19",
+        "LUK 11:23–26"
+      ],
+      "books": [
+        "LUK",
+        "1TH"
+      ],
+      "week": "Twenty–Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "2CO 8:1–5",
+        "LUK 8:16–21"
+      ],
+      "books": [
+        "LUK",
+        "2CO"
+      ],
+      "week": "Twenty–Third Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "EPH 2:4–10:",
+        "LUK 8:26–39"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Twenty–Third Week after Pentecost",
+      "feast": "Twenty–Third Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "1TH 2:20—3:8",
+        "LUK 11:29–33"
+      ],
+      "books": [
+        "LUK",
+        "1TH"
+      ],
+      "week": "Twenty–Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "1TH 3:9–13",
+        "LUK 11:34–41"
+      ],
+      "books": [
+        "LUK",
+        "1TH"
+      ],
+      "week": "Twenty–Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "1TH 4:1–12",
+        "LUK 11:42–46"
+      ],
+      "books": [
+        "LUK",
+        "1TH"
+      ],
+      "week": "Twenty–Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "1TH 5:1–8",
+        "LUK 11:47—12:1"
+      ],
+      "books": [
+        "LUK",
+        "1TH"
+      ],
+      "week": "Twenty–Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "1TH 5:9–13, 24–28",
+        "LUK 12:2–12"
+      ],
+      "books": [
+        "LUK",
+        "1TH"
+      ],
+      "week": "Twenty–Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "2CO 11:1–6",
+        "LUK 9:1–6"
+      ],
+      "books": [
+        "LUK",
+        "2CO"
+      ],
+      "week": "Twenty–Fourth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "EPH 2:4–22",
+        "LUK 8:41–56"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Twenty–Fourth Week after Pentecost",
+      "feast": "Twenty–Fourth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "2TH 1:1–10",
+        "LUK 12:13–15, 22–31"
+      ],
+      "books": [
+        "LUK",
+        "2TH"
+      ],
+      "week": "Twenty–Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "2TH 1:10—2:2",
+        "LUK 12:42–48"
+      ],
+      "books": [
+        "LUK",
+        "2TH"
+      ],
+      "week": "Twenty–Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "2TH 2:1–12",
+        "LUK 12:48–59"
+      ],
+      "books": [
+        "LUK",
+        "2TH"
+      ],
+      "week": "Twenty–Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "2TH 2:13—3:5",
+        "LUK 13:1–9"
+      ],
+      "books": [
+        "LUK",
+        "2TH"
+      ],
+      "week": "Twenty–Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "2TH 3:6–18",
+        "LUK 13:31–35"
+      ],
+      "books": [
+        "LUK",
+        "2TH"
+      ],
+      "week": "Twenty–Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "GAL 1:3–10",
+        "LUK 9:37–43"
+      ],
+      "books": [
+        "LUK",
+        "GAL"
+      ],
+      "week": "Twenty–Fifth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "EPH 4:1–6",
+        "LUK 10:25–37"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Twenty–Fifth Week after Pentecost",
+      "feast": "Twenty–Fifth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "1TI 1:1–7",
+        "LUK 14:12–15"
+      ],
+      "books": [
+        "LUK",
+        "1TI"
+      ],
+      "week": "Twenty–Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "1TI 1:8–14",
+        "LUK 14:25–35"
+      ],
+      "books": [
+        "LUK",
+        "1TI"
+      ],
+      "week": "Twenty–Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "1TI 1:18–20, 2:8–15",
+        "LUK 15:1–10"
+      ],
+      "books": [
+        "LUK",
+        "1TI"
+      ],
+      "week": "Twenty–Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "1TI 3:1–13",
+        "LUK 16:1–9"
+      ],
+      "books": [
+        "LUK",
+        "1TI"
+      ],
+      "week": "Twenty–Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "1TI 4:4–8, 16",
+        "LUK 16:15–18, 17:1–4"
+      ],
+      "books": [
+        "LUK",
+        "1TI"
+      ],
+      "week": "Twenty–Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "GAL 3:8–12",
+        "LUK 9:57–62"
+      ],
+      "books": [
+        "LUK",
+        "GAL"
+      ],
+      "week": "Twenty–Sixth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "EPH 5:9–19",
+        "LUK 12:16–21"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Twenty–Sixth Week after Pentecost",
+      "feast": "Twenty–Sixth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "1TI 5:1–10",
+        "LUK 17:20–25"
+      ],
+      "books": [
+        "LUK",
+        "1TI"
+      ],
+      "week": "Twenty–Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "1TI 5:11–21",
+        "LUK 17:26–37"
+      ],
+      "books": [
+        "LUK",
+        "1TI"
+      ],
+      "week": "Twenty–Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "1TI 5:22—6:11",
+        "LUK 18:15–17, 26–30"
+      ],
+      "books": [
+        "LUK",
+        "1TI"
+      ],
+      "week": "Twenty–Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "1TI 6:17–21",
+        "LUK 18:31–34"
+      ],
+      "books": [
+        "LUK",
+        "1TI"
+      ],
+      "week": "Twenty–Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "2TI 1:1, 2, 8–18",
+        "LUK 19:12–28"
+      ],
+      "books": [
+        "LUK",
+        "2TI"
+      ],
+      "week": "Twenty–Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "GAL 5:22—6:2",
+        "LUK 10:19–21"
+      ],
+      "books": [
+        "LUK",
+        "GAL"
+      ],
+      "week": "Twenty–Seventh Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "EPH 6:10–17",
+        "LUK 13:10–17"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Twenty–Seventh Week after Pentecost",
+      "feast": "Twenty–Seventh Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "2TI 2:20–26",
+        "LUK 19:37–44"
+      ],
+      "books": [
+        "LUK",
+        "2TI"
+      ],
+      "week": "Twenty–Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "2TI 3:16—4:4",
+        "LUK 19:45–48"
+      ],
+      "books": [
+        "LUK",
+        "2TI"
+      ],
+      "week": "Twenty–Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "2TI 4:9–22",
+        "LUK 20:1–8"
+      ],
+      "books": [
+        "LUK",
+        "2TI"
+      ],
+      "week": "Twenty–Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "TIT 1:5—2:1",
+        "LUK 20:9–18"
+      ],
+      "books": [
+        "LUK",
+        "TIT"
+      ],
+      "week": "Twenty–Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "TIT 1:15—2:10",
+        "LUK 20:19–26"
+      ],
+      "books": [
+        "LUK",
+        "TIT"
+      ],
+      "week": "Twenty–Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "EPH 1:16–23",
+        "LUK 12:32–40"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Twenty–Eighth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "COL 1:12–18",
+        "LUK 18:35–43"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Twenty–Eighth Week after Pentecost",
+      "feast": "Twenty–Eighth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "HEB 3:5–11",
+        "LUK 20:27–44"
+      ],
+      "books": [
+        "LUK",
+        "HEB"
+      ],
+      "week": "Twenty–Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "HEB 4:1–13",
+        "LUK 21:12–19"
+      ],
+      "books": [
+        "LUK",
+        "HEB"
+      ],
+      "week": "Twenty–Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "HEB 5:11—6:8",
+        "LUK 21:5–7, 10–11, 20–24"
+      ],
+      "books": [
+        "LUK",
+        "HEB"
+      ],
+      "week": "Twenty–Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "HEB 7:1–6",
+        "LUK 21:28–33"
+      ],
+      "books": [
+        "LUK",
+        "HEB"
+      ],
+      "week": "Twenty–Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "HEB 7:18–25",
+        "LUK 21:37—22:8"
+      ],
+      "books": [
+        "LUK",
+        "HEB"
+      ],
+      "week": "Twenty–Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "EPH 2:11–13",
+        "LUK 13:18–29"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Twenty–Ninth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "COL 3:12–16",
+        "LUK 17:12–19"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Twenty–Ninth Week after Pentecost",
+      "feast": "Twenty–Ninth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "HEB 8:7–13",
+        "MAR 8:11–21"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Thirtieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "HEB 9:8–10, 15–23",
+        "MAR 8:22–26"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Thirtieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "HEB 10:1–18",
+        "MAR 8:30–34"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Thirtieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "HEB 10:35—11:7",
+        "MAR 9:10–16"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Thirtieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "HEB 11:8, 11–16",
+        "MAR 9:33–41"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Thirtieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "EPH 5:1–8",
+        "LUK 14:1–11"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "week": "Thirtieth Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "COL 3:12–16",
+        "LUK 18:18–27"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Thirtieth Week after Pentecost",
+      "feast": "Thirtieth Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "HEB 11:17, 27–31",
+        "MAR 9:42—10:1"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Thirty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "HEB 12:25, 26, 13:22–25",
+        "MAR 10:2–12"
+      ],
+      "books": [
+        "MAR",
+        "HEB"
+      ],
+      "week": "Thirty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "JAM 1:1–18",
+        "MAR 10:11–16"
+      ],
+      "books": [
+        "MAR",
+        "JAM"
+      ],
+      "week": "Thirty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "JAM 1:19–27",
+        "MAR 10:17–27"
+      ],
+      "books": [
+        "MAR",
+        "JAM"
+      ],
+      "week": "Thirty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "JAM 2:1–13",
+        "MAR 10:23–32"
+      ],
+      "books": [
+        "MAR",
+        "JAM"
+      ],
+      "week": "Thirty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "COL 1:3–6",
+        "LUK 16:10–15"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "week": "Thirty–First Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "1TI 1:15–17",
+        "LUK 18:35–43"
+      ],
+      "books": [
+        "LUK",
+        "1TI"
+      ],
+      "week": "Thirty–First Week after Pentecost",
+      "feast": "Thirty–First Sunday after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Monday",
+      "readings": [
+        "JAM 2:14–26",
+        "MAR 10:46–52"
+      ],
+      "books": [
+        "MAR",
+        "JAM"
+      ],
+      "week": "Thirty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Tuesday",
+      "readings": [
+        "JAM 3:1–10",
+        "MAR 11:11–23"
+      ],
+      "books": [
+        "MAR",
+        "JAM"
+      ],
+      "week": "Thirty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Wednesday",
+      "readings": [
+        "JAM 3:11—4:6",
+        "MAR 11:23–26"
+      ],
+      "books": [
+        "MAR",
+        "JAM"
+      ],
+      "week": "Thirty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Thursday",
+      "readings": [
+        "JAM 4:7—5:9",
+        "MAR 11:27–33"
+      ],
+      "books": [
+        "MAR",
+        "JAM"
+      ],
+      "week": "Thirty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Friday",
+      "readings": [
+        "1PE 1:1, 2, 10–12, 2:6–10",
+        "MAR 12:1–12"
+      ],
+      "books": [
+        "MAR",
+        "1PE"
+      ],
+      "week": "Thirty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Saturday",
+      "readings": [
+        "1TH 5:14–23",
+        "LUK 17:3–10"
+      ],
+      "books": [
+        "LUK",
+        "1TH"
+      ],
+      "week": "Thirty–Second Week after Pentecost"
+    },
+    {
+      "season": "PASCHA",
+      "day": "Sunday",
+      "readings": [
+        "1TI 4:9–15",
+        "LUK 19:1–10"
+      ],
+      "books": [
+        "LUK",
+        "1TI"
+      ],
+      "week": "Thirty–Second Week after Pentecost",
+      "feast": "Thirty–Second Sunday after Pentecost"
+    },
+    {
+      "season": "MAJOR FIXED FEASTS",
+      "day": "The Meeting of Our Lord Jesus Christ (February 2/15)",
+      "readings": [
+        "HEB 7:7–17",
+        "LUK 2:22–40"
+      ],
+      "books": [
+        "LUK",
+        "HEB"
+      ],
+      "feast": "The Meeting of Our Lord Jesus Christ (February 2/15)"
+    },
+    {
+      "season": "MAJOR FIXED FEASTS",
+      "day": "The Annunciation to the Theotokos (March 25/April 7)",
+      "readings": [
+        "HEB 2:11–18",
+        "LUK 1:24–38"
+      ],
+      "books": [
+        "LUK",
+        "HEB"
+      ],
+      "feast": "The Annunciation to the Theotokos (March 25/April 7)"
+    },
+    {
+      "season": "MAJOR FIXED FEASTS",
+      "day": "The Transfiguration of Our Lord Jesus Christ (August 6/19)",
+      "readings": [
+        "2PE 1:10–19",
+        "MAT 17:1–9"
+      ],
+      "books": [
+        "MAT",
+        "2PE"
+      ],
+      "feast": "The Transfiguration of Our Lord Jesus Christ (August 6/19)"
+    },
+    {
+      "season": "MAJOR FIXED FEASTS",
+      "day": "The Dormition of the Theotokos (August 15/28)",
+      "readings": [
+        "PHP 2:5–11",
+        "LUK 10:38–42"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "feast": "The Dormition of the Theotokos (August 15/28)"
+    },
+    {
+      "season": "MAJOR FIXED FEASTS",
+      "day": "The Nativity of the Theotokos (September 8/21)",
+      "readings": [
+        "PHP 2:5–11",
+        "LUK 10:38–42"
+      ],
+      "books": [
+        "LUK",
+        "PHP"
+      ],
+      "feast": "The Nativity of the Theotokos (September 8/21)"
+    },
+    {
+      "season": "MAJOR FIXED FEASTS",
+      "day": "The Exaltation of the Precious and Life–Giving Cross (September 14/27)",
+      "readings": [
+        "1CO 1:18–24",
+        "JOH 19:6–11, 13–20, 25–28, 30–35"
+      ],
+      "books": [
+        "JOH",
+        "1CO"
+      ],
+      "feast": "The Exaltation of the Precious and Life–Giving Cross (September 14/27)"
+    },
+    {
+      "season": "MAJOR FIXED FEASTS",
+      "day": "The Entry of the Theotokos into the Temple (November 21/December 4)",
+      "readings": [
+        "HEB 9:1–7",
+        "LUK 10:38–42"
+      ],
+      "books": [
+        "LUK",
+        "HEB"
+      ],
+      "feast": "The Entry of the Theotokos into the Temple (November 21/December 4)"
+    },
+    {
+      "season": "NATIVITY CYCLE",
+      "day": "Sunday",
+      "readings": [
+        "COL 3:4–11",
+        "LUK 14:16–24"
+      ],
+      "books": [
+        "LUK",
+        "COL"
+      ],
+      "feast": "Sunday of the Holy Ancestors of Christ (Two Sundays before Nativity)"
+    },
+    {
+      "season": "NATIVITY CYCLE",
+      "day": null,
+      "readings": [
+        "GAL 3:8–12",
+        "LUK 13:18–29"
+      ],
+      "books": [
+        "LUK",
+        "GAL"
+      ],
+      "week": "Saturday before Nativity"
+    },
+    {
+      "season": "NATIVITY CYCLE",
+      "day": "Sunday",
+      "readings": [
+        "HEB 11:9–10, 17–23, 32–40",
+        "MAT 1:1–25"
+      ],
+      "books": [
+        "MAT",
+        "HEB"
+      ],
+      "week": "Saturday before Nativity",
+      "feast": "Sunday before Nativity: Sunday of the Holy Fathers"
+    },
+    {
+      "season": "NATIVITY CYCLE",
+      "day": "Sunday",
+      "readings": [
+        "GEN 1:1–13",
+        "NUM 24:2, 3",
+        "MIC 4:6, 7",
+        "ISA 11:1–10",
+        "BAR 3:36—4:4",
+        "DAN 2:31–36",
+        "ISA 9:6–7",
+        "ISA 7:10–16",
+        "HEB 1:1–12",
+        "LUK 2:1–20"
+      ],
+      "books": [
+        "GEN",
+        "NUM",
+        "MIC",
+        "ISA",
+        "BAR",
+        "DAN",
+        "LUK",
+        "HEB"
+      ],
+      "week": "Saturday before Nativity",
+      "feast": "Eve of the Nativity of Christ (December 24/January 6)"
+    },
+    {
+      "season": "NATIVITY CYCLE",
+      "day": "Sunday",
+      "readings": [
+        "GAL 4:4–7",
+        "MAT 2:1–12"
+      ],
+      "books": [
+        "MAT",
+        "GAL"
+      ],
+      "week": "Saturday before Nativity",
+      "feast": "The Nativity of Our Lord Jesus Christ (December 25/ January 7)"
+    },
+    {
+      "season": "NATIVITY CYCLE",
+      "day": null,
+      "readings": [
+        "1TI 6:11–16",
+        "MAT 12:15–21"
+      ],
+      "books": [
+        "MAT",
+        "1TI"
+      ],
+      "week": "Saturday after Nativity"
+    },
+    {
+      "season": "NATIVITY CYCLE",
+      "day": "Sunday",
+      "readings": [
+        "GAL 1:11–19",
+        "MAT 2:13–23"
+      ],
+      "books": [
+        "MAT",
+        "GAL"
+      ],
+      "week": "Saturday after Nativity",
+      "feast": "Sunday after the Nativity"
+    },
+    {
+      "season": "THEOPHANY CYCLE",
+      "day": null,
+      "readings": [
+        "1TI 3:14—4:5",
+        "MAT 3:1–11"
+      ],
+      "books": [
+        "MAT",
+        "1TI"
+      ],
+      "week": "Saturday before Theophany"
+    },
+    {
+      "season": "THEOPHANY CYCLE",
+      "day": "Sunday",
+      "readings": [
+        "2TI 4:5–8",
+        "MAR 1:1–8"
+      ],
+      "books": [
+        "MAR",
+        "2TI"
+      ],
+      "week": "Saturday before Theophany",
+      "feast": "Sunday before Theophany"
+    },
+    {
+      "season": "THEOPHANY CYCLE",
+      "day": "Sunday",
+      "readings": [
+        "GEN 1:1–13",
+        "EXO 14:15–18, 21–23, 27–29",
+        "EXO 15:22–27",
+        "JOS 3:7, 8, 15–17",
+        "2KI 2:6–14",
+        "2KI 5:9–14",
+        "ISA 1:16–20",
+        "GEN 32:1–10",
+        "EXO 2:5–10",
+        "JDG 6:36–40",
+        "1KI 18:30–39",
+        "2KI 2:19–22",
+        "ISA 49:8–15",
+        "1CO 9:19–27",
+        "LUK 3:1–18"
+      ],
+      "books": [
+        "GEN",
+        "EXO",
+        "JOS",
+        "JDG",
+        "1KI",
+        "2KI",
+        "ISA",
+        "LUK",
+        "1CO"
+      ],
+      "week": "Saturday before Theophany",
+      "feast": "Eve of the Theophany (January 5/18)"
+    },
+    {
+      "season": "THEOPHANY CYCLE",
+      "day": "Sunday",
+      "readings": [
+        "ISA 35:1–10",
+        "ISA 55:1–13",
+        "ISA 12:3–6",
+        "1CO 10:1–4",
+        "MAR 1:9–11"
+      ],
+      "books": [
+        "ISA",
+        "MAR",
+        "1CO"
+      ],
+      "week": "Saturday before Theophany",
+      "feast": "Eve of the Theophany (January 5/18)"
+    },
+    {
+      "season": "THEOPHANY CYCLE",
+      "day": "Sunday",
+      "readings": [
+        "TIT 2:11–14, 3:4–7",
+        "MAT 3:13–17"
+      ],
+      "books": [
+        "MAT",
+        "TIT"
+      ],
+      "week": "Saturday before Theophany",
+      "feast": "The Theophany of Our Lord Jesus Christ (January 6/19)"
+    },
+    {
+      "season": "THEOPHANY CYCLE",
+      "day": null,
+      "readings": [
+        "EPH 6:10–17",
+        "MAT 4:1–11"
+      ],
+      "books": [
+        "MAT",
+        "EPH"
+      ],
+      "week": "Saturday after the Theophany"
+    },
+    {
+      "season": "THEOPHANY CYCLE",
+      "day": "Sunday",
+      "readings": [
+        "EPH 4:7–13",
+        "MAT 4:12–17"
+      ],
+      "books": [
+        "MAT",
+        "EPH"
+      ],
+      "week": "Saturday after the Theophany",
+      "feast": "Sunday after the Theophany"
+    },
+    {
+      "season": "LESSER FIXED FEASTS",
+      "day": "The First and Second Finding of the Head of St. John the Baptist (February 24/March 9)",
+      "readings": [
+        "2CO 4:6–12",
+        "MAT 11:2–15"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "feast": "The First and Second Finding of the Head of St. John the Baptist (February 24/March 9)"
+    },
+    {
+      "season": "LESSER FIXED FEASTS",
+      "day": "The Third Finding of the Head of St. John the Baptist (May 29/June 7)",
+      "readings": [
+        "2CO 4:6–12",
+        "MAT 11:2–15"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "feast": "The Third Finding of the Head of St. John the Baptist (May 29/June 7)"
+    },
+    {
+      "season": "LESSER FIXED FEASTS",
+      "day": "The Nativity of St. John the Baptist (June 4/July 7)",
+      "readings": [
+        "ROM 13:11—14:4",
+        "LUK 1:1–15, 57–68, 76, 80"
+      ],
+      "books": [
+        "LUK",
+        "ROM"
+      ],
+      "feast": "The Nativity of St. John the Baptist (June 4/July 7)"
+    },
+    {
+      "season": "LESSER FIXED FEASTS",
+      "day": "The Holy Leaders of the Apostles, Peter and Paul (June 29/July 12)",
+      "readings": [
+        "2CO 11:21—12:9",
+        "MAT 16:13–19"
+      ],
+      "books": [
+        "MAT",
+        "2CO"
+      ],
+      "feast": "The Holy Leaders of the Apostles, Peter and Paul (June 29/July 12)"
+    },
+    {
+      "season": "LESSER FIXED FEASTS",
+      "day": "The Beheading of St. John the Baptist (August 29/ September 11)",
+      "readings": [
+        "ACT 13:25–32",
+        "MAR 6:14–30"
+      ],
+      "books": [
+        "MAR",
+        "ACT"
+      ],
+      "feast": "The Beheading of St. John the Baptist (August 29/ September 11)"
+    },
+    {
+      "season": "LESSER FIXED FEASTS",
+      "day": "The Conception of St. John the Baptist (September 23/October 6)",
+      "readings": [
+        "GAL 4:22–31",
+        "LUK 1:5–25"
+      ],
+      "books": [
+        "LUK",
+        "GAL"
+      ],
+      "feast": "The Conception of St. John the Baptist (September 23/October 6)"
+    },
+    {
+      "season": "LESSER FIXED FEASTS",
+      "day": "The Protection of the Theotokos (October 1/14)",
+      "readings": [
+        "HEB 9:1–7",
+        "LUK 10:38–42"
+      ],
+      "books": [
+        "LUK",
+        "HEB"
+      ],
+      "feast": "The Protection of the Theotokos (October 1/14)"
+    },
+    {
+      "season": "LESSER FIXED FEASTS",
+      "day": "Synaxis of the Archangel Michael and All the Bodiless Powers (November 8/21)",
+      "readings": [
+        "LUK 10:16–21"
+      ],
+      "books": [
+        "LUK"
+      ],
+      "feast": "Synaxis of the Archangel Michael and All the Bodiless Powers (November 8/21)"
+    },
+    {
+      "season": "LESSER FIXED FEASTS",
+      "day": "The Conception of the Theotokos (December 9/21)",
+      "readings": [
+        "GAL 4:22–27",
+        "LUK 13:10–17"
+      ],
+      "books": [
+        "LUK",
+        "GAL"
+      ],
+      "feast": "The Conception of the Theotokos (December 9/21)"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Holy Monks",
+      "readings": [
+        "GAL 5:22—6:2",
+        "MAT 11:27–30"
+      ],
+      "books": [
+        "MAT",
+        "GAL"
+      ],
+      "feast": "Holy Monks"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Holy Nuns",
+      "readings": [
+        "GAL 3:23–29",
+        "MAT 25:1–13",
+        "LUK 7:36–50"
+      ],
+      "books": [
+        "MAT",
+        "LUK",
+        "GAL"
+      ],
+      "feast": "Holy Nuns"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Holy Confessors",
+      "readings": [
+        "EPH 6:10–17",
+        "LUK 12:8–12"
+      ],
+      "books": [
+        "LUK",
+        "EPH"
+      ],
+      "feast": "Holy Confessors"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Holy Martyr",
+      "readings": [
+        "2TI 2:1–10",
+        "ACT 12:1–11",
+        "LUK 12:1–12",
+        "JOH 15:17—16:2"
+      ],
+      "books": [
+        "LUK",
+        "JOH",
+        "ACT",
+        "2TI"
+      ],
+      "feast": "Holy Martyr"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Holy Martyrs",
+      "readings": [
+        "ROM 8:28–39",
+        "MAT 10:16–22",
+        "LUK 21:12–19"
+      ],
+      "books": [
+        "MAT",
+        "LUK",
+        "ROM"
+      ],
+      "feast": "Holy Martyrs"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Hieromartyr",
+      "readings": [
+        "HEB 13:7–16",
+        "LUK 12:32–40"
+      ],
+      "books": [
+        "LUK",
+        "HEB"
+      ],
+      "feast": "Hieromartyr"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Hieromartyrs",
+      "readings": [
+        "HEB 5:4–10",
+        "PHP 3:20—4:3",
+        "LUK 6:17–23",
+        "LUK 10:22–24",
+        "LUK 14:25–35"
+      ],
+      "books": [
+        "LUK",
+        "PHP",
+        "HEB"
+      ],
+      "feast": "Hieromartyrs"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Monk Martyr",
+      "readings": [
+        "1TI 1:8–18",
+        "MAR 8:34—9:1"
+      ],
+      "books": [
+        "MAR",
+        "1TI"
+      ],
+      "feast": "Monk Martyr"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Monk Martyrs",
+      "readings": [
+        "ROM 8:28–39",
+        "MAT 10:32–33, 37, 38",
+        "LUK 12:8–12"
+      ],
+      "books": [
+        "MAT",
+        "LUK",
+        "ROM"
+      ],
+      "feast": "Monk Martyrs"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Female Martyrs",
+      "readings": [
+        "2CO 6:1–10",
+        "GAL 3:23–29",
+        "MAT 15:21–28",
+        "MAR 5:24"
+      ],
+      "books": [
+        "MAT",
+        "MAR",
+        "2CO",
+        "GAL"
+      ],
+      "feast": "Female Martyrs"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Holy Unmercenary Healers",
+      "readings": [
+        "1CO 12:27—13:8",
+        "MAT 10:1, 5–8"
+      ],
+      "books": [
+        "MAT",
+        "1CO"
+      ],
+      "feast": "Holy Unmercenary Healers"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Prophets",
+      "readings": [
+        "1CO 14:20–25",
+        "HEB 6:13–20",
+        "JAM 5:10–20",
+        "MAT 23:29–39",
+        "LUK 11:47–54"
+      ],
+      "books": [
+        "MAT",
+        "LUK",
+        "1CO",
+        "HEB",
+        "JAM"
+      ],
+      "feast": "Prophets"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Hierarch",
+      "readings": [
+        "HEB 7:26—8:2",
+        "JOH 10:9–16"
+      ],
+      "books": [
+        "JOH",
+        "HEB"
+      ],
+      "feast": "Hierarch"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Hierarchs",
+      "readings": [
+        "HEB 13:17–21",
+        "MAT 5:14–19",
+        "JOH 10:9–16",
+        "LUK 6:17–23"
+      ],
+      "books": [
+        "MAT",
+        "LUK",
+        "JOH",
+        "HEB"
+      ],
+      "feast": "Hierarchs"
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Monday",
+      "readings": [
+        "ROM 16:6–9",
+        "JOH 5:17–24"
+      ],
+      "books": [
+        "JOH",
+        "ROM"
+      ]
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Tuesday",
+      "readings": [
+        "1CO 15:39–57",
+        "JOH 5:24–30"
+      ],
+      "books": [
+        "JOH",
+        "1CO"
+      ]
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Wednesday",
+      "readings": [
+        "2CO 5:1–10",
+        "JOH 6:35–39"
+      ],
+      "books": [
+        "JOH",
+        "2CO"
+      ]
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Thursday",
+      "readings": [
+        "1CO 15:20–28",
+        "JOH 6:40–44"
+      ],
+      "books": [
+        "JOH",
+        "1CO"
+      ]
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Friday",
+      "readings": [
+        "1CO 15:47–57",
+        "JOH 6:48–54"
+      ],
+      "books": [
+        "JOH",
+        "1CO"
+      ]
+    },
+    {
+      "season": "OTHER SPECIAL AND GENERAL FEASTDAYS",
+      "day": "Saturday",
+      "readings": [
+        "1TH 4:13–17",
+        "JOH 5:24–30"
+      ],
+      "books": [
+        "JOH",
+        "1TH"
+      ]
+    }
+  ]
+}

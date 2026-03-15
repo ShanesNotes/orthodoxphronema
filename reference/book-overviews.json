@@ -1,0 +1,145 @@
+{
+  "title": "Overview of the Books of the Bible",
+  "source": "Orthodox Study Bible",
+  "author": "The Right Reverend BASIL, Bishop of the Diocese of Wichita and Mid-America",
+  "description": "Per-section synopses of all 76 biblical books from the OSB overview essay",
+  "section_count": 9,
+  "books_covered": 76,
+  "sections": [
+    {
+      "section": "Introduction",
+      "testament": "OT",
+      "books": []
+    },
+    {
+      "section": "Pentateuch",
+      "testament": "OT",
+      "books": [
+        "GEN",
+        "EXO",
+        "LEV",
+        "NUM",
+        "DEU"
+      ]
+    },
+    {
+      "section": "Historical Books",
+      "testament": "OT",
+      "books": [
+        "JOS",
+        "JDG",
+        "RUT",
+        "1SA",
+        "2SA",
+        "1KI",
+        "2KI",
+        "1CH",
+        "2CH",
+        "1ES",
+        "EZR",
+        "NEH",
+        "TOB",
+        "JDT",
+        "EST",
+        "1MA",
+        "2MA",
+        "3MA"
+      ]
+    },
+    {
+      "section": "Wisdom Books",
+      "testament": "OT",
+      "books": [
+        "PSA",
+        "JOB",
+        "PRO",
+        "ECC",
+        "SNG",
+        "WIS",
+        "SIR"
+      ]
+    },
+    {
+      "section": "Prophetic Books",
+      "testament": "OT",
+      "books": [
+        "HOS",
+        "AMO",
+        "MIC",
+        "JOL",
+        "OBA",
+        "JON",
+        "NAH",
+        "HAB",
+        "ZEP",
+        "HAG",
+        "ZEC",
+        "MAL",
+        "ISA",
+        "JER",
+        "BAR",
+        "LAM",
+        "LJE",
+        "EZK",
+        "DAN"
+      ]
+    },
+    {
+      "section": "Gospels",
+      "testament": "NT",
+      "books": [
+        "MAT",
+        "MRK",
+        "LUK",
+        "JOH"
+      ]
+    },
+    {
+      "section": "Acts",
+      "testament": "NT",
+      "books": [
+        "ACT"
+      ]
+    },
+    {
+      "section": "Pauline Epistles",
+      "testament": "NT",
+      "books": [
+        "ROM",
+        "1CO",
+        "2CO",
+        "GAL",
+        "EPH",
+        "PHP",
+        "COL",
+        "1TH",
+        "2TH",
+        "1TI",
+        "2TI",
+        "TIT",
+        "PHM",
+        "HEB"
+      ]
+    },
+    {
+      "section": "General Epistles",
+      "testament": "NT",
+      "books": [
+        "JAS",
+        "1PE",
+        "2PE",
+        "1JN",
+        "2JN",
+        "3JN",
+        "JUD"
+      ]
+    },
+    {
+      "section": "Revelation",
+      "testament": "NT",
+      "books": [
+        "REV"
+      ]
+    }
+  ]
+}

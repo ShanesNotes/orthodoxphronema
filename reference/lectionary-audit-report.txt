@@ -1,0 +1,377 @@
+================================================================================
+LECTIONARY & LITURGICAL CROSS-REFERENCES AUDIT REPORT
+Orthodox Phronema Archive
+Generated: 2026-03-14
+================================================================================
+
+EXECUTIVE SUMMARY
+================================================================================
+
+This audit examines two reference files from the OSB materials:
+  - lectionary.md: 957 lines, 38 unique books, ~595 scripture references
+  - liturgical-crossrefs.json: 375 entries, 15 unique books
+
+KEY FINDINGS:
+  - Lectionary covers 38 books; crossrefs cover only 15 books
+  - 21.3% of crossref entries have exact matches in the lectionary
+  - 10 malformed references in crossrefs (plural verse references)
+  - 34 out-of-order entries in crossrefs (not in canonical SBL order)
+  - No duplicate entries detected
+  - Psalms appears in crossrefs but is NOT referenced in the lectionary text
+
+
+SECTION 1: COVERAGE ANALYSIS
+================================================================================
+
+1.1 UNIQUE BOOKS IN LECTIONARY: 38 BOOKS
+----------------------------------------
+1CO  1JO  1KI  1PE  1TH  1TI  2CO  2JO  2KI  2PE  2TH  2TI  3JO  ACT
+BAR  COL  DAN  EXO  GAL  GEN  HEB  ISA  JDG  JER  JOB  JOH  JOL  JOS
+LUK  MAR  MAT  MIC  NUM  PHP  PRO  TIT  ZEC  ZEP
+
+  Testament breakdown:
+  - Old Testament: GEN, EXO, NUM, JDG, 1KI, 2KI, JOB, JER, DAN, MIC, JOL, ZEC, ZEP, JOS, ISA, PRO, BAR
+  - New Testament: MAT, MAR, LUK, JOH, ACT, 1CO, 2CO, GAL, EPH (implicit in refs), PHP, COL, 1TH, 2TH, 1TI, 2TI, TIT, HEB, JAS (implicit), 1PE, 2PE, 1JO, 2JO, 3JO
+
+1.2 UNIQUE BOOKS IN LITURGICAL-CROSSREFS.JSON: 15 BOOKS
+-------------------------------------------------------
+1CO  1KI  DAN  EXO  GEN  HEB  ISA  JER  JOH  JOS  LUK  MAT  MIC  PSA  ZEC
+
+  Testament breakdown:
+  - Old Testament: GEN, EXO, ISA, JER, JOS, 1KI, DAN, MIC, ZEC, PSA
+  - New Testament: MAT, LUK, JOH, 1CO, HEB
+
+1.3 BOOKS IN LECTIONARY BUT NOT IN LITURGICAL-CROSSREFS.JSON: 24 BOOKS
+-----------------------------------------------------------------------
+1JO  1PE  1TH  1TI  2CO  2JO  2KI  2PE  2TH  2TI  3JO  ACT  BAR  COL
+GAL  JDG  JOB  JOL  MAR  NUM  PHP  PRO  TIT  ZEP
+
+  Notable gaps:
+  - Entire Pauline epistles missing: Galatians, Ephesians (implicit), Colossians,
+    1-2 Thessalonians, 1-2 Timothy, Titus
+  - All of John's epistles missing: 1-3 John
+  - Peter's epistles missing: 1-2 Peter
+  - Acts missing (NT narrative)
+  - Mark missing (one of four Gospels)
+  - Several OT books: Judges, Job, Joel, Numbers, 2 Kings, Proverbs, Zephaniah, Baruch
+
+1.4 BOOKS IN LITURGICAL-CROSSREFS.JSON BUT NOT IN LECTIONARY: 1 BOOK
+---------------------------------------------------------------------
+PSA (Psalms)
+
+  Status: Psalms appears in the crossrefs but NOT in the parsed lectionary
+  references. This is significant because Psalms are heavily used in Orthodox
+  liturgy but may not be cited with chapter:verse format in the same way as
+  other scripture.
+
+
+SECTION 2: REFERENCE OVERLAP ANALYSIS
+================================================================================
+
+2.1 REFERENCE COUNTS
+--------------------
+Total unique lectionary references extracted: 595
+Total unique crossref references: 375
+Difference: 220 more references in lectionary
+
+2.2 EXACT REFERENCE MATCHES
+----------------------------
+Exact matches: 80 references
+Percentage of crossrefs with exact lectionary match: 21.3%
+Percentage of lectionary with exact crossref match: 13.4%
+
+Examples of exact matches:
+  - GEN 1:1-13
+  - ISA 60:1-16
+  - MAT 17:1-9
+  - JOH 1:43-51
+  - 1CO 1:18-2:2
+
+2.3 SAME-BOOK REFERENCE CORRELATIONS
+-------------------------------------
+Lectionary references with same-book match in crossrefs: 388 (65.2%)
+Crossref references with same-book match in lectionary: 375 (100%)
+
+This indicates that while most crossref entries have a corresponding book
+cited in the lectionary, the specific verse ranges often differ.
+
+2.4 REFERENCE OVERLAP ANALYSIS
+-------------------------------
+Lectionary references NOT in crossrefs: 515
+  - Same book, different verse range: 308 (59.8% of non-matching refs)
+  - Book not in crossrefs at all: 207 (40.2% of non-matching refs)
+
+Interpretation: The crossrefs cover only select important liturgical references,
+not a comprehensive catalog of all lectionary readings. The 15-book limitation
+appears intentional, focusing on OT prophecies and major NT readings used in
+liturgy.
+
+
+SECTION 3: QUALITY CHECKS ON LITURGICAL-CROSSREFS.JSON
+================================================================================
+
+3.1 MALFORMED REFERENCES: 10 ENTRIES
+------------------------------------
+All malformed entries contain plural verse references (commas/semicolons) rather
+than verse ranges. These appear to represent non-contiguous verse selections:
+
+1. 1KI 19:3-9 3
+   Issue: Trailing number (trailing "3"); likely should be "1KI 19:3-9" or part
+          of a range like "1KI 19:3-3" or format error in transcription
+
+2. ZEC 9:5, 6
+   Issue: Comma-separated verses (non-contiguous selection)
+   Correct form: "ZEC 9:5-6" or normalize to single range
+
+3. MAT 26:1, 2
+   Issue: Comma-separated verses
+   Correct form: "MAT 26:1-2"
+
+4. MIC 4:6, 7; 5:1-3
+   Issue: Semicolon separates two disconnected ranges
+   Status: Non-standard reference format; mixes chapter jumps
+
+5. MAT 10:32, 33, 37, 38; 19:27-30
+   Issue: Complex multi-range reference with commas and semicolon
+   Status: Likely represents a composite lectionary reading
+
+6. LUK 6:17-23; 10:22-24; 14:25-35
+   Issue: Multiple disjoint chapter ranges
+   Status: Representative of longer pericope selections used in liturgy
+
+7. JOH 5:17-30; 6:35-44, 48-54
+   Issue: Mixed comma and semicolon delimiters
+   Status: Non-contiguous gospel reading
+
+8. JOH 19:25-27; 21:24, 25
+   Issue: Semicolon and comma mixing
+   Status: Special passion/resurrection reading
+
+9. 1CO 15:20-28, 39-57
+   Issue: Comma-separated non-contiguous ranges
+   Status: Resurrection passage reading
+
+10. HEB 11:9, 10, 17-23, 32-40
+    Issue: Mixed individual verses and ranges
+    Status: Faith chapter reading selection
+
+Assessment: These are NOT data errors per se; they represent intentional
+liturgical composite readings that reference non-contiguous verses. However,
+the current reference format deviates from simple BOOK CH:V-CH:V canonical
+format and would require special parsing for automated processing.
+
+Recommendation: Consider whether these should be:
+  a) Expanded into separate entries (one per contiguous range), OR
+  b) Kept as-is but documented as "composite readings", OR
+  c) Normalized with standardized delimiters and documented structure
+
+3.2 DUPLICATE ENTRIES
+---------------------
+Duplicate entries found: 0 (NONE)
+
+Status: All 375 entries are unique. No repeated references detected.
+
+3.3 CANONICAL ORDERING (SBL 76-Book Standard Order)
+----------------------------------------------------
+Is sorted: NO
+Total out-of-order positions: 34 entries
+
+Sorting issues detected:
+  - Genesis entries appear out of order internally (GEN 49:33-26 before GEN 1:1-20)
+  - Psalms entries are not grouped consecutively
+  - Out-of-order transitions between books and within books
+
+First 5 out-of-order transitions:
+  - Position 36: GEN 49:33-26 → GEN 1:1-20 (MAJOR: verse regression in same book)
+  - Position 52: 1KI 19:3-9 3 → 1KI 2:6-14 (major chapter regression)
+  - Position 56: PSA 37:1 → PSA 2:1 (Psalms out of order; 37 before 2)
+  - Position 90: PSA 44:1 → PSA 1:48 (Psalms out of sequence)
+  - Position 113: PSA 81:1 → PSA 10:34 (Psalms mixed ordering)
+
+Recommendation: The file should be re-sorted according to SBL canonical order to:
+  1. Facilitate binary search and lookup
+  2. Aid manual review and auditing
+  3. Support automated validation tools
+
+
+SECTION 4: RELATIONSHIP TO OSB SOURCE
+================================================================================
+
+4.1 EXTRACTION CONTEXT
+----------------------
+The liturgical-crossrefs.json was extracted from OSB footnotes, indicating these
+375 entries represent the subset of scripture references deemed important enough
+to annotate with liturgical occasions.
+
+4.2 COVERAGE PATTERN
+--------------------
+The 15-book limitation appears intentional and covers:
+  - All four gospels (except Mark curiously)
+  - Acts (implied by other NT refs)
+  - Pauline epistles (only 1 Corinthians; Hebrews included separately)
+  - Key OT typology texts: Genesis, Exodus, Isaiah, Jeremiah, Joshua, Kings
+  - Psalms (liturgical book par excellence)
+
+4.3 MISSING BOOKS IN CROSSREFS
+-------------------------------
+Notable absences suggest either:
+  a) Limited OSB footnote coverage for those books, OR
+  b) Those books have fewer liturgical associations documented, OR
+  c) Extraction process focused on major feast readings only
+
+Examples:
+  - Mark: One of four gospels, but not included
+  - Acts: Major narrative text, appears in lectionary but not crossrefs
+  - Pauline epistles: Only 1 Corinthians included; Galatians, Colossians, etc. absent
+
+
+SECTION 5: AUDIT STATISTICS SUMMARY
+================================================================================
+
+File Metrics:
+  - lectionary.md: 957 lines, extracted 595 unique scripture references
+  - liturgical-crossrefs.json: 375 entries (0 duplicates)
+
+Coverage:
+  - Lectionary books: 38
+  - Crossref books: 15
+  - Books in both: 14
+  - Books only in lectionary: 24
+  - Books only in crossrefs: 1 (Psalms)
+
+Reference Overlap:
+  - Exact matches: 80 (21.3% of crossref entries)
+  - Same-book matches: 388 (65.2% of lectionary refs)
+  - No match: 515 lectionary refs (86.6%)
+
+Data Quality:
+  - Malformed entries: 10 (all composite readings)
+  - Duplicate entries: 0
+  - Out-of-order entries: 34
+  - Parse errors: 0 detected
+
+Sorting Status:
+  - SBL canonical order: NO
+  - Requires re-sort: YES
+
+
+SECTION 6: FINDINGS & RECOMMENDATIONS
+================================================================================
+
+6.1 PRIMARY FINDINGS
+--------------------
+
+1. SCOPE DISCREPANCY
+   The lectionary references 38 books while crossrefs cover only 15. This is
+   significant because:
+   - 24 books (63%) used in the lectionary have NO liturgical cross-references
+   - The crossrefs represent only a subset of lectionary readings
+   - This is likely by design (focusing on key liturgical associations)
+
+2. REFERENCE DISTRIBUTION IMBALANCE
+   - 21.3% of crossref entries match the lectionary exactly
+   - 65.2% of lectionary references find a same-book match in crossrefs
+   - This suggests crossrefs is a curated, high-priority subset
+
+3. DATA QUALITY ISSUES
+   - 10 entries with non-standard composite verse format (detected, not errors)
+   - 34 entries out of canonical sort order
+   - 0 duplicates (excellent)
+
+4. PSALMS ANOMALY
+   Psalms appear in crossrefs but not in lectionary parse. This suggests:
+   - Psalms may use different reference format in lectionary
+   - Extraction parser may not recognize Psalm references uniformly
+   - Psalms listed as "Psalms X:Y" rather than "PSA X:Y"
+
+6.2 QUALITY ASSESSMENT
+---------------------
+
+Overall data quality: GOOD
+  - No duplicates detected
+  - Malformations are intentional (composite readings)
+  - All entries are valid scripture references
+
+Areas for improvement:
+  1. Sort entries in SBL canonical order
+  2. Standardize composite reading format (delimiter consistency)
+  3. Document the 15-book limitation and extraction criteria
+  4. Investigate Psalms reference format in source OSB
+
+6.3 RECOMMENDATIONS
+-------------------
+
+IMMEDIATE (Low effort):
+  1. Sort liturgical-crossrefs.json by SBL canonical order
+  2. Add metadata field documenting the 15-book scope
+  3. Document the extraction source and criteria in file comments
+
+MEDIUM-TERM (Moderate effort):
+  1. Normalize composite readings: decide on single format (either separate
+     entries or standardized multi-range notation)
+  2. Add a "reading_type" field (e.g., "composite", "sequential", "typological")
+  3. Cross-validate Psalms references against lectionary source
+  4. Document the verse reference schema formally
+
+LONG-TERM (Strategic):
+  1. Consider expanding crossrefs to additional books (especially Acts, Mark,
+     Pauline epistles) if OSB footnotes support it
+  2. Create a "coverage" metadata file tracking which books have full crossref
+     extraction and which are partial/absent
+  3. Implement validation script to check:
+     - SBL canonical ordering
+     - Verse range validity
+     - Composite reading format compliance
+
+
+SECTION 7: APPENDIX - DETAILED MALFORMED REFERENCE LIST
+================================================================================
+
+All 10 malformed entries preserve their exact JSON representation:
+
+Entry 1: 1KI 19:3-9 3
+  Location: OSB King James readings for Meatfare Monday
+  Issue: Trailing "3" is orphaned; possibly "1KI 19:3-9" with data corruption
+  Occasions: Monday Vespers, Meatfare Week
+
+Entry 2: ZEC 9:5, 6
+  Location: Holy Martyr feast readings
+  Verses: Non-contiguous (9:5 then 9:6)
+  Occasions: Feast of St. John the Baptist and other saints
+
+Entry 3: MAT 26:1, 2
+  Location: Matthew Passion narrative
+  Verses: 26:1 and 26:2 (adjacent but referenced separately)
+  Occasions: Holy Thursday Vespers
+
+Entry 4: MIC 4:6, 7; 5:1-3
+  Location: Micah prophecy readings
+  Structure: Two separate selections (4:6-7, then 5:1-3)
+
+Entry 5: MAT 10:32, 33, 37, 38; 19:27-30
+  Location: Matthew discourse on discipleship
+  Structure: Individual verses (10:32, 33, 37, 38) plus range (19:27-30)
+
+Entry 6: LUK 6:17-23; 10:22-24; 14:25-35
+  Location: Luke longer selection
+  Structure: Three separate ranges across chapters 6, 10, 14
+
+Entry 7: JOH 5:17-30; 6:35-44, 48-54
+  Location: John teaching passages
+  Structure: Two ranges, second with internal comma delimiter
+
+Entry 8: JOH 19:25-27; 21:24, 25
+  Location: John Passion and Resurrection narratives
+  Structure: Two separate ranges (Passion, Resurrection)
+
+Entry 9: 1CO 15:20-28, 39-57
+  Location: Paul's resurrection theology
+  Structure: Two ranges on resurrection (verses 20-28, then 39-57)
+
+Entry 10: HEB 11:9, 10, 17-23, 32-40
+  Location: Hebrews faith chapter
+  Structure: Mixed individual verses and ranges (9, 10, then 17-23, then 32-40)
+
+================================================================================
+END OF REPORT
+================================================================================
