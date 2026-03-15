@@ -19,6 +19,9 @@
       "Bash(find:*)",
       "Bash(aspell:*)",
       "Bash(cat:*)",
+      "Bash(codex:*)",
+      "Bash(gemini:*)",
+      "Bash(tee:*)",
       "Read(/home/ark/**)"
     ]
   },
@@ -52,7 +55,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo '--- Ark session initialized. CLAUDE.md + @imports loaded. Agents: ezra (Codex 5.4), photius (Gemini Flash 3.0), cowork. Workflow skills: validate-book, promote-book, cleanup-report, pdf-spot-check, refresh-dossier. Toolkit skills: text-cleaner, canon-validator, canon-proofreader, canon-spell-audit. ---'",
+            "command": "echo '--- Ark session initialized. CLAUDE.md + @imports loaded. Agents: ezra (Codex 5.4, MCP-delegatable), photius (Gemini Flash 3.0, Bash-delegatable), cowork. Delegation: delegate-ezra, delegate-photius. Workflows: validate-book, promote-book, cleanup-report, pdf-spot-check, refresh-dossier. Toolkits: text-cleaner, canon-validator, canon-proofreader, canon-spell-audit. MCP: ezra, duckdb, github, filesystem, memory. ---'",
             "timeout": 3
           }
         ]

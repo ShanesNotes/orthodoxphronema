@@ -12,6 +12,17 @@ Photius runs as Gemini CLI (Flash 3.0), NOT as a Claude Code subagent.
 This agent definition exists for Claude's awareness of Photius's role and boundaries.
 Photius's actual control document is `GEMINI.md` at the repo root.
 
+## Delegation from Ark
+```
+# Non-interactive batch task
+gemini --prompt "TASK_PROMPT" --approval-mode auto_edit --output-format json
+
+# Interactive handoff (Photius takes over terminal)
+gemini -i "TASK_PROMPT"
+```
+Delegation skill: `.claude/skills/delegate-photius/SKILL.md`
+Logs: `/tmp/photius_run_*.log`
+
 ## Model Profile
 Gemini 3 Flash — fast, high-throughput, optimized for execution over deep reasoning.
 

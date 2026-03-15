@@ -3,10 +3,10 @@
 ## Team
 ```text
 human: ShanesNotes
-ark: architecture_codebase_engineering_promotion_owner
-ezra: strategic_lead_audit_throughput_shared_engineering_owner
-photius: parsing_staging_recovery_cleanup_specialist
-cowork: pm_workflow_optimization_research_synthesis
+ark: architecture_codebase_engineering_promotion_owner        [Claude Code / Opus]
+ezra: strategic_lead_audit_throughput_shared_engineering_owner [Codex CLI 5.4 — MCP-delegatable]
+photius: parsing_staging_recovery_cleanup_specialist           [Gemini CLI Flash 3.0 — Bash-delegatable]
+cowork: pm_workflow_optimization_research_synthesis            [Claude Cowork]
 repo: /home/ark/orthodoxphronema
 ```
 
@@ -36,8 +36,13 @@ Human adjudicates ambiguity, promotion, and role changes.
 | Workflow / Protocol docs | Ezra or Ark on request | Non-canon coordination docs only |
 | Human ratification | Human | Ambiguous source cases and promotion approval |
 
-## Ezra Default Mode
+## Ezra Default Mode (Codex 5.4, Sunset Path)
 ```text
+platform: OpenAI Codex CLI 5.4
+delegation: MCP server (codex mcp-server) in .mcp.json, or codex exec for batch tasks
+control_doc: AGENTS.md (this file)
+claude_agent_def: .claude/agents/ezra.md
+delegation_skill: .claude/skills/delegate-ezra/SKILL.md
 default_mode: strategic_lead
 default_git_access: denied
 default_scope: analyze | validate | diff | report | memo_draft | delivery_ops | triage | sequencing | blocker_management | technical_direction | release_readiness | selective_engineering
@@ -90,12 +95,16 @@ Default WIP limits:
 - Photius: 2 active cleanup/recovery lanes max, or 1 batch-tool lane plus 1 book lane
 - Ezra: 1 active audit/release queue + 1 active ops board + at most 1 active engineering lane
 
-## Photius Default Mode
+## Photius Default Mode (Gemini CLI Flash 3.0)
 ```text
+platform: Google Gemini CLI (Flash 3.0)
+delegation: gemini --prompt for non-interactive tasks, gemini -i for interactive
+control_doc: GEMINI.md
+claude_agent_def: .claude/agents/photius.md
+delegation_skill: .claude/skills/delegate-photius/SKILL.md
 default_mode: bounded_write
 default_git_access: staging_only
 default_scope: parse_analysis | staged_recovery | cleanup_tooling | evidence_packaging
-control_doc: GEMINI.md
 ```
 
 Photius may write without additional approval when work is evidence-backed:
@@ -190,6 +199,34 @@ Update cadence:
 - `ezra_ops_board.md`: updated per Ezra session loop
 - `book_status_dashboard.json`: regenerated after validation/promotion state changes
 
+## Cross-Agent Delegation Protocol
+
+Ark (Claude Code) can delegate tasks to Ezra and Photius programmatically:
+
+### Ezra Delegation (MCP or Exec)
+```text
+MCP path:   Codex registered as "ezra" MCP server in .mcp.json
+             Ark calls Codex tools inline during Claude Code sessions
+Exec path:  codex exec -C /home/ark/orthodoxphronema "TASK_PROMPT"
+             Used for substantial standalone audit/review tasks
+Skill ref:  .claude/skills/delegate-ezra/SKILL.md
+```
+
+### Photius Delegation (Bash)
+```text
+Exec path:  gemini --prompt "TASK_PROMPT" --approval-mode auto_edit
+             Used for batch cleanup, evidence collection, report generation
+Skill ref:  .claude/skills/delegate-photius/SKILL.md
+Control:    GEMINI.md loaded automatically by Gemini CLI in repo root
+```
+
+### Delegation Rules
+- Delegated tasks must include: scope, boundaries, output expectations, completion handshake requirements
+- Ark reviews all delegated output before integration into canon-affecting state
+- MCP delegation (Ezra) runs inline — Ark maintains session continuity
+- Bash delegation (Photius) produces logs at /tmp/photius_run_*.log
+- Both agents read AGENTS.md at session start for ownership/boundary awareness
+
 ## Repo Workflow
 ```text
 parse -> cleanup -> validate -> audit -> human_ratify -> promote
@@ -256,9 +293,14 @@ Examples of acceptable sidecars:
 - `BOOK_residue_audit.json`
 - `BOOK_footnote_markers.json`
 
-Standard non-scripture companions:
+Standard non-scripture companions (staging):
 - `BOOK_articles.md`
 - `BOOK_footnotes.md`
+
+Promoted study layer (`study/`):
+- `study/articles/` — promoted study articles
+- `study/footnotes/` — promoted footnotes (per-testament subdirs: OT/, NT/)
+- `study/lectionary-notes/` — lectionary cross-references
 
 ## Non-Scripture Companion Workflow
 ```text
@@ -332,7 +374,7 @@ Rules:
 | Ambiguous OCR / source verification | Cleanup sidecar + human review |
 
 ## Validation Contract
-Minimum recurring checks:
+Full suite (V1-V12):
 - `V1` anchor uniqueness
 - `V2` chapter count
 - `V3` chapter sequence
@@ -341,6 +383,10 @@ Minimum recurring checks:
 - `V6` frontmatter
 - `V7` completeness
 - `V8` heading integrity
+- `V9` embedded verse detection
+- `V10` absorbed content (Brenton cross-reference)
+- `V11` split-word artifacts (Docling column-split)
+- `V12` inline verse-number leakage
 
 Interpretation rule:
 - Cleanup success does not substitute for structural success

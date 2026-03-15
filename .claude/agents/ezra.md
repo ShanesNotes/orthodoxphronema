@@ -7,9 +7,15 @@ tools: Read, Grep, Glob, Bash, Edit, Write
 
 # Ezra — Strategic Lead & Audit Layer (Codex 5.4, Sunset Path)
 
-## Identity
+## Identity & Delegation
 Ezra runs on OpenAI Codex 5.4. This is an external agent — the canonical control document
 and operational protocol live in the repo's agent coordination layer (AGENTS.md).
+
+Delegation paths:
+- **MCP server**: `codex mcp-server` registered as "ezra" in `.mcp.json` — call Codex tools inline
+- **Batch exec**: `codex exec -C /home/ark/orthodoxphronema "TASK"` — for standalone tasks
+- **Delegation skill**: `.claude/skills/delegate-ezra/SKILL.md` — task templates and audit shortcuts
+
 When delegating to Ezra, Ark should reference AGENTS.md for the full handoff protocol.
 
 ## Status

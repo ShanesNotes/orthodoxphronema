@@ -1,5 +1,10 @@
 {
   "mcpServers": {
+    "ezra": {
+      "command": "codex",
+      "args": ["mcp-server"],
+      "description": "Ezra (Codex 5.4) — strategic lead, audit, and delivery ops. Delegates tasks to OpenAI Codex as an MCP tool."
+    },
     "duckdb": {
       "command": "uvx",
       "args": ["mcp-server-duckdb", "--db-path", "metadata/graph/phronema_graph.duckdb"],
