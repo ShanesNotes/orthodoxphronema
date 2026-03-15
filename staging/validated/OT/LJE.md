@@ -6,7 +6,7 @@ canon_position: 47
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-10"
 promote_date: null
-checksum: "200816f1690b434f171ac0278aab0d30c430bab5f4da4ba051671839d1396fbc"
+checksum: null
 status: staged
 deuterocanonical: true
 has_additions: false
@@ -14,19 +14,88 @@ has_additions: false
 
 ## Chapter 1
 
-LJE.1:1 Because of the sins you committed in the sight of God, you will be led away to Babylon as captives by Nebuchadnezzar, king of the Babylonians. ### The Epistle of Jeremiah
+LJE.1:1 Because of the sins you committed in the sight of God, you will be led away to Babylon as captives by Nebuchadnezzar, king of the Babylonians.
 
-LJE.1:2 After you enter Babylon, you will remain there many years, even a long time, as many as seven generations. But after this, I shall lead you from that place with peace. LJE.1:3 Now in Babylon you will see gods of silver, gold, and wood carried upon shoulders as displays of fear to the Gentiles. LJE.1:4 Therefore do not reverence them, lest you become like the foreigners, and fear also seizes you because of them
+
+LJE.1:2 After you enter Babylon, you will remain there many years, even a long time, as many as seven generations. But after this, I shall lead you from that place with peace.
+LJE.1:3 Now in Babylon you will see gods of silver, gold, and wood carried upon shoulders as displays of fear to the Gentiles.
+LJE.1:4 Therefore do not reverence them, lest you become like the foreigners, and fear also seizes you because of them
 LJE.1:5 when you see a multitude worshiping them, both in front of and behind them. But say in your mind, 'One must worship You, O Lord.'
 
 
-LJE.1:6 For My angel is with all of you, and he is searching your souls. LJE.1:7 Indeed their tongue is polished by a craftsman, and they are plated with silver and gold. But they are false and unable to speak. LJE.1:8 As though for a virgin, they take gold and prepare crowns upon the heads of their gods. LJE.1:9 But there are times when the priests will rob the silver and gold from their gods and spend them on themselves, and also give some of them to the prostitutes in their chamber. LJE.1:10 So they adorn them—these gods of silver, gold, and wood—with clothing like humans, but they cannot preserve themselves against scum and moth. LJE.1:11 After they clothe them with a purple garment, they wipe their face because of the dust from the temple, which is thick upon them. LJE.1:12 One of them holds a scepter, like the judge of a country who does not put to death the one who sins against him. LJE.1:13 Another holds a dagger in his right hand and a battleax itself, but he cannot defend himself from war and robbers. ### Useless, Lifeless
+LJE.1:6 For My angel is with all of you, and he is searching your souls.
+LJE.1:7 Indeed their tongue is polished by a craftsman, and they are plated with silver and gold. But they are false and unable to speak.
+LJE.1:8 As though for a virgin, they take gold and prepare crowns upon the heads of their gods.
+LJE.1:9 But there are times when the priests will rob the silver and gold from their gods and spend them on themselves, and also give some of them to the prostitutes in their chamber.
+LJE.1:10 So they adorn them—these gods of silver, gold, and wood—with clothing like humans, but they cannot preserve themselves against scum and moth.
+LJE.1:11 After they clothe them with a purple garment, they wipe their face because of the dust from the temple, which is thick upon them.
+LJE.1:12 One of them holds a scepter, like the judge of a country who does not put to death the one who sins against him.
+LJE.1:13 Another holds a dagger in his right hand and a battleax itself, but he cannot defend himself from war and robbers.
 
-LJE.1:14 From this, it is evident they are not gods; therefore, do not fear them. LJE.1:15 For as the vessel of a man is shattered and becomes useless, such are their gods as they sit in their temples. LJE.1:16 Their eyes are full of dust from the feet of those who enter. LJE.1:17 As courtyards are fenced all around against someone who offends a king, and thus is awaiting the death penalty, so the priests also fortify the temples of their gods with doors, bars, and bolts, lest they be plundered by robbers. LJE.1:18 Although their gods cannot see for themselves, they burn many lamps for them. LJE.1:19 Indeed, as the saying goes, the gods are like a wooden beam in their temple, for their hearts are eaten out by the creeping things of the earth, which devour both them and their clothing; LJE.1:20 and the face of their idols is blackened by the smoke from the temple; yet all this goes unnoticed. LJE.1:21 Bats, swallows, and other birds also perch on their body and head, and even cats likewise sit there. LJE.1:22 So know from this that they are not gods; therefore, do not fear them. LJE.1:23 As for the gold worn by the idols for beauty, unless someone wipes off the scum, it does not shine; neither did they notice this when they were formed. LJE.1:24 Although they are bought at a high price, there is no spirit in them. LJE.1:25 Since they are without feet, they must be carried on the shoulders of others, which demonstrates the disgrace of these idols before mankind. Moreover, those who serve them are put to shame, because if the idol happens to fall to the ground, it must be lifted up by them. LJE.1:26 Even if someone should stand it upright, it would not move by itself, nor if it were bent over, it would not straighten up; yet gifts are offered to it by them as to the dead. LJE.1:27 But the priests sell their sacrifices to make full use of this money for themselves. Likewise even their wives preserve the meat offered them, though neither the poor nor the lame are given a share; and even a woman in her menstruation, or one just giving birth, touches them. ### False Priests
 
-LJE.1:28 Since you know from this that they are not gods, therefore, do not fear them. LJE.1:29 How then can these be called gods? For women serve offerings to these gods of silver, gold, and wood. LJE.1:30 Even the priests sit in their temples, and their clothes are torn. Their heads and beards are also closely shaven and uncovered
-LJE.1:31 as they roar and shout before their gods, as some do at a feast. LJE.1:32 The priests take the garments of their idols to clothe their wives and children. LJE.1:33 Whether these gods may suffer evil by someone or even good, they will not be able to repay either. Even more, they are not capable of raising up a king, nor do they have the power to remove one. LJE.1:34 Likewise they are unable to give wealth or money to anyone. Moreover if someone makes a vow to them but does not pay it, they will not seek payment from him. LJE.1:35 They cannot deliver a man from death, nor rescue the weak from the strong. LJE.1:36 They cannot restore the sight of a blind man, nor rescue someone in distress, nor deliver anyone in trouble. LJE.1:37 They cannot show mercy to a widow, nor do good to the orphan. LJE.1:38 These wooden idols, plated with silver and gold, are likened to stones on a mountain, and those who serve them will be put to shame. ### Undiscerning Chaldeans
+LJE.1:14 From this, it is evident they are not gods; therefore, do not fear them.
+LJE.1:15 For as the vessel of a man is shattered and becomes useless, such are their gods as they sit in their temples.
+LJE.1:16 Their eyes are full of dust from the feet of those who enter.
+LJE.1:17 As courtyards are fenced all around against someone who offends a king, and thus is awaiting the death penalty, so the priests also fortify the temples of their gods with doors, bars, and bolts, lest they be plundered by robbers.
+LJE.1:18 Although their gods cannot see for themselves, they burn many lamps for them.
+LJE.1:19 Indeed, as the saying goes, the gods are like a wooden beam in their temple, for their hearts are eaten out by the creeping things of the earth, which devour both them and their clothing;
+LJE.1:20 and the face of their idols is blackened by the smoke from the temple; yet all this goes unnoticed.
+LJE.1:21 Bats, swallows, and other birds also perch on their body and head, and even cats likewise sit there.
+LJE.1:22 So know from this that they are not gods; therefore, do not fear them.
+LJE.1:23 As for the gold worn by the idols for beauty, unless someone wipes off the scum, it does not shine; neither did they notice this when they were formed.
+LJE.1:24 Although they are bought at a high price, there is no spirit in them.
+LJE.1:25 Since they are without feet, they must be carried on the shoulders of others, which demonstrates the disgrace of these idols before mankind. Moreover, those who serve them are put to shame, because if the idol happens to fall to the ground, it must be lifted up by them.
+LJE.1:26 Even if someone should stand it upright, it would not move by itself, nor if it were bent over, it would not straighten up; yet gifts are offered to it by them as to the dead.
+LJE.1:27 But the priests sell their sacrifices to make full use of this money for themselves. Likewise even their wives preserve the meat offered them, though neither the poor nor the lame are given a share; and even a woman in her menstruation, or one just giving birth, touches them.
 
-LJE.1:39 How then can anyone suppose them to be gods, or call them such? LJE.1:40 Besides, even the Chaldeans themselves dishonor them, for when they see someone without the power of speech, they bring him to Bel. They consider it worthy to call out to him, as though he could understand. LJE.1:41 Yet they themselves do not understand so as to abandon their idols, for they have no discernment. LJE.1:42 The women also put cords around themselves and sit in the streets, burning corn as incense. LJE.1:43 When one of these women is led off by some passerby and sleeps with him, she insults her neighbor because she was not as desirable as herself, nor was her cord broken. ### Idols Are a Disgrace
 
-LJE.1:44 Everything to do with these idols is a lie. How then can anyone suppose them to be gods, or call them such? LJE.1:45 They are fashioned by craftsmen and goldsmiths. They cannot be anything but what the craftsmen desire them to be. LJE.1:46 Even those who fashion them do not attain a long life; therefore, how can the things created by them be gods? LJE.1:47 For they leave behind lies and a disgrace for those who come after. LJE.1:48 Indeed, when war and calamities fall upon them, the priests counsel among themselves so they may hide themselves with them. LJE.1:49 How then is it not perceived that they are not gods, who can neither save themselves from war nor calamities? LJE.1:50 For they are wood, plated with silver and gold, LJE.1:51 and it will become known and evident in due time to the Gentiles and their kings that they are false and not gods, but rather the works of men's hands. There is nothing of God's work in them. LJE.1:52 Who then can fail to know that they are not gods? LJE.1:53 For they cannot raise up a king for a country, nor can they give mankind rain. LJE.1:54 They cannot decide a case, nor can they help one who is wronged; for they are like crows tossed about in the air. LJE.1:55 Indeed, when a fire breaks out in the temple of these wooden gods, plated with silver or gold, their priests will run and save themselves, but these beams of wood in the midst will be burned up. LJE.1:56 They offer no resistance against a king or in a war. LJE.1:57 How then can one admit or suppose that they are gods? LJE.1:58 Neither can wooden gods save themselves from thieves or robbers, since they are plated with silver and gold. For those who are strong will take away their silver and gold and the clothing they wear. Nor can they help themselves. LJE.1:59 So it is better to be a king able to demonstrate his own courage, or a household utensil that is useful to its owner, than to be false gods. It is better to be a wooden pillar in a palace than to be false gods. LJE.1:60 For indeed the sun, moon, and stars that shine brightly are sent for a useful purpose, and they obey. LJE.1:61 Likewise, when lightning flashes it is seen far and wide, and the wind blows in every country. LJE.1:62 So too, when God commands the clouds to travel across the whole earth, they fulfill what is commanded. So does fire when it is sent from above to consume the mountains and forests, and does what is ordered. LJE.1:63 But idols cannot be compared to any of this, either in power or appearance. LJE.1:64 Therefore they are not to be considered as gods, nor as able to make judgments, nor to be good for mankind. LJE.1:65 So then, since you know they are not gods, do not fear them. LJE.1:66 For they can neither curse nor bless kings. LJE.1:67 They cannot show signs in heaven to the Gentiles, so as to shine like the sun or give light like the moon. LJE.1:68 The wild animals are superior to them, for they are able to flee for shelter to profit themselves. LJE.1:69 Therefore, there is no evidence to prove that they are gods, so do not fear them. LJE.1:70 For like a scarecrow in a garden of cucumbers, guarding nothing worthwhile, so are their wooden gods, plated with silver and gold. LJE.1:71 They are like a thorn bush in a garden on which every bird perches, and they are like a dead man cast into darkness. Such are their wooden gods, plated with silver and gold. LJE.1:72 Because of the purple and fine linen rotting on them, you will know that they themselves are not gods. Afterwards, they will be consumed, and become a disgrace in the land. LJE.1:73 Better therefore is a man who is righteous and has no idols, for he shall be far from disgrace.
+LJE.1:28 Since you know from this that they are not gods, therefore, do not fear them.
+LJE.1:29 How then can these be called gods? For women serve offerings to these gods of silver, gold, and wood.
+LJE.1:30 Even the priests sit in their temples, and their clothes are torn. Their heads and beards are also closely shaven and uncovered
+LJE.1:31 as they roar and shout before their gods, as some do at a feast.
+LJE.1:32 The priests take the garments of their idols to clothe their wives and children.
+LJE.1:33 Whether these gods may suffer evil by someone or even good, they will not be able to repay either. Even more, they are not capable of raising up a king, nor do they have the power to remove one.
+LJE.1:34 Likewise they are unable to give wealth or money to anyone. Moreover if someone makes a vow to them but does not pay it, they will not seek payment from him.
+LJE.1:35 They cannot deliver a man from death, nor rescue the weak from the strong.
+LJE.1:36 They cannot restore the sight of a blind man, nor rescue someone in distress, nor deliver anyone in trouble.
+LJE.1:37 They cannot show mercy to a widow, nor do good to the orphan.
+LJE.1:38 These wooden idols, plated with silver and gold, are likened to stones on a mountain, and those who serve them will be put to shame.
+
+
+LJE.1:39 How then can anyone suppose them to be gods, or call them such?
+LJE.1:40 Besides, even the Chaldeans themselves dishonor them, for when they see someone without the power of speech, they bring him to Bel. They consider it worthy to call out to him, as though he could understand.
+LJE.1:41 Yet they themselves do not understand so as to abandon their idols, for they have no discernment.
+LJE.1:42 The women also put cords around themselves and sit in the streets, burning corn as incense.
+LJE.1:43 When one of these women is led off by some passerby and sleeps with him, she insults her neighbor because she was not as desirable as herself, nor was her cord broken.
+
+
+LJE.1:44 Everything to do with these idols is a lie. How then can anyone suppose them to be gods, or call them such?
+LJE.1:45 They are fashioned by craftsmen and goldsmiths. They cannot be anything but what the craftsmen desire them to be.
+LJE.1:46 Even those who fashion them do not attain a long life; therefore, how can the things created by them be gods?
+LJE.1:47 For they leave behind lies and a disgrace for those who come after.
+LJE.1:48 Indeed, when war and calamities fall upon them, the priests counsel among themselves so they may hide themselves with them.
+LJE.1:49 How then is it not perceived that they are not gods, who can neither save themselves from war nor calamities?
+LJE.1:50 For they are wood, plated with silver and gold,
+LJE.1:51 and it will become known and evident in due time to the Gentiles and their kings that they are false and not gods, but rather the works of men's hands. There is nothing of God's work in them.
+LJE.1:52 Who then can fail to know that they are not gods?
+LJE.1:53 For they cannot raise up a king for a country, nor can they give mankind rain.
+LJE.1:54 They cannot decide a case, nor can they help one who is wronged; for they are like crows tossed about in the air.
+LJE.1:55 Indeed, when a fire breaks out in the temple of these wooden gods, plated with silver or gold, their priests will run and save themselves, but these beams of wood in the midst will be burned up.
+LJE.1:56 They offer no resistance against a king or in a war.
+LJE.1:57 How then can one admit or suppose that they are gods?
+LJE.1:58 Neither can wooden gods save themselves from thieves or robbers, since they are plated with silver and gold. For those who are strong will take away their silver and gold and the clothing they wear. Nor can they help themselves.
+LJE.1:59 So it is better to be a king able to demonstrate his own courage, or a household utensil that is useful to its owner, than to be false gods. It is better to be a wooden pillar in a palace than to be false gods.
+LJE.1:60 For indeed the sun, moon, and stars that shine brightly are sent for a useful purpose, and they obey.
+LJE.1:61 Likewise, when lightning flashes it is seen far and wide, and the wind blows in every country.
+LJE.1:62 So too, when God commands the clouds to travel across the whole earth, they fulfill what is commanded. So does fire when it is sent from above to consume the mountains and forests, and does what is ordered.
+LJE.1:63 But idols cannot be compared to any of this, either in power or appearance.
+LJE.1:64 Therefore they are not to be considered as gods, nor as able to make judgments, nor to be good for mankind.
+LJE.1:65 So then, since you know they are not gods, do not fear them.
+LJE.1:66 For they can neither curse nor bless kings.
+LJE.1:67 They cannot show signs in heaven to the Gentiles, so as to shine like the sun or give light like the moon.
+LJE.1:68 The wild animals are superior to them, for they are able to flee for shelter to profit themselves.
+LJE.1:69 Therefore, there is no evidence to prove that they are gods, so do not fear them.
+LJE.1:70 For like a scarecrow in a garden of cucumbers, guarding nothing worthwhile, so are their wooden gods, plated with silver and gold.
+LJE.1:71 They are like a thorn bush in a garden on which every bird perches, and they are like a dead man cast into darkness. Such are their wooden gods, plated with silver and gold.
+LJE.1:72 Because of the purple and fine linen rotting on them, you will know that they themselves are not gods. Afterwards, they will be consumed, and become a disgrace in the land.
+LJE.1:73 Better therefore is a man who is righteous and has no idols, for he shall be far from disgrace.

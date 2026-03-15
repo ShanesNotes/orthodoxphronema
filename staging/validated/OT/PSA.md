@@ -6,7 +6,7 @@ canon_position: 24
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-10"
 promote_date: null
-checksum: "efb6ccced37135ead3c5eab8ce0c0c2f2386ef14a79977f92c5736fa610cd681"
+checksum: null
 status: staged
 deuterocanonical: false
 has_additions: false
@@ -14,479 +14,2988 @@ has_additions: false
 
 ## Chapter 1
 
-PSA.1:1 Blessed is the man Who walks not in the counsel of the ungodly, Nor stands in the way of sinners, Nor sits in the seat of the troublesome; PSA.1:2 But his will is in the law of the Lord, And in His law he meditates day and night. PSA.1:3 He shall be like a tree Planted by streams of waters, That produces its fruit in its season; And his leaf shall not wither, And whatever he does shall prosper. PSA.1:4 Not so are the ungodly, not so, But they are like the dust the wind drives from the face of the earth. PSA.1:5 Therefore the ungodly shall not rise in the judgment, Nor sinners in the counsel of the righteous; PSA.1:6 For the Lord knows the way of the righteous, But the way of the ungodly shall perish. ## Chapter 2
+PSA.1:1 Blessed is the man Who walks not in the counsel of the ungodly, Nor stands in the way of sinners, Nor sits in the seat of the troublesome;
+PSA.1:2 But his will is in the law of the Lord, And in His law he meditates day and night.
+PSA.1:3 He shall be like a tree Planted by streams of waters, That produces its fruit in its season; And his leaf shall not wither, And whatever he does shall prosper.
+PSA.1:4 Not so are the ungodly, not so, But they are like the dust the wind drives from the face of the earth.
+PSA.1:5 Therefore the ungodly shall not rise in the judgment, Nor sinners in the counsel of the righteous;
+PSA.1:6 For the Lord knows the way of the righteous, But the way of the ungodly shall perish.
 
-PSA.2:1 Why do the nations rage, And the people meditate on vain things? PSA.2:2 The kings of the earth set themselves, And the rulers gather together Against the Lord and against His anointed, saying, PSA.2:3 "Let us break their bands, And cast away their yokes from us."
-PSA.2:4 He who sits in the heavens shall laugh at them; The Lord shall mock them. PSA.2:5 Then shall He speak to them in His wrath And trouble them in His anger, PSA.2:6 "But I was established as King by Him Over His holy hill of Zion, Declaring the Lord's decree. PSA.2:7 The Lord said to Me, 'You are My Son, Today I have begotten You; PSA.2:8 Ask of Me, and I will give You The nations for Your inheritance And the ends of the earth for Your possession. PSA.2:9 You shall shepherd them with an iron staff; You shall shatter them like a potter's vessel.' "
-PSA.2:10 And now, O kings, understand; Be instructed, all you judges of the earth. PSA.2:11 Serve the Lord with fear And rejoice in Him with trembling. PSA.2:12 Lay hold of His instruction, lest the Lord be angry, And you perish from the righteous way When His fury shall be quickly kindled. Blessed are all who trust in Him. ## Chapter 3
+## Chapter 2
 
-PSA.3:1 A psalm by David, when he fled from the face of his son, Absalom. PSA.3:2 O Lord, why do those who afflict me multiply? Many are those who rise up against me. PSA.3:3 Many are those who say to my soul, "There is no salvation for him in his God." (Pause)
-PSA.3:4 But You, O Lord, are my protector, My glory and the One who lifts up my head. PSA.3:5 I cried to the Lord with my voice, And He heard me from His holy hill. (Pause)
-PSA.3:6 I lay down and slept; I awoke, for the Lord will help me. PSA.3:7 I will not be afraid of ten thousands of people Who set themselves against me all around. PSA.3:8 Arise, O Lord, and save me, O my God, For You struck all those who were foolishly at enmity with me; You broke the teeth of sinners. PSA.3:9 Salvation is of the Lord, And Your blessing is upon Your people. ## Chapter 4
+PSA.2:1 Why do the nations rage, And the people meditate on vain things?
+PSA.2:2 The kings of the earth set themselves, And the rulers gather together Against the Lord and against His anointed, saying,
+PSA.2:3 "Let us break their bands, And cast away their yokes from us."
+PSA.2:4 He who sits in the heavens shall laugh at them; The Lord shall mock them.
+PSA.2:5 Then shall He speak to them in His wrath And trouble them in His anger,
+PSA.2:6 "But I was established as King by Him Over His holy hill of Zion, Declaring the Lord's decree.
+PSA.2:7 The Lord said to Me, 'You are My Son, Today I have begotten You;
+PSA.2:8 Ask of Me, and I will give You The nations for Your inheritance And the ends of the earth for Your possession.
+PSA.2:9 You shall shepherd them with an iron staff; You shall shatter them like a potter's vessel.' "
+PSA.2:10 And now, O kings, understand; Be instructed, all you judges of the earth.
+PSA.2:11 Serve the Lord with fear And rejoice in Him with trembling.
+PSA.2:12 Lay hold of His instruction, lest the Lord be angry, And you perish from the righteous way When His fury shall be quickly kindled. Blessed are all who trust in Him.
 
-PSA.4:1 For the End; in psalms; an ode by David. PSA.4:2 You heard me when I called, O God of my righteousness. You strengthened my heart when I was in distress; Have mercy on me, and hear my prayer. PSA.4:3 How long, O you sons of men, Will you be slow of heart? Why do you love vain things And seek after lies? PSA.4:4 Know that the Lord made His Holy One wondrous; The Lord will hear me when I cry to Him. PSA.4:5 Be angry, and do not sin; Have remorse upon your beds For what you say in your hearts. (Pause)
-PSA.4:6 Offer the sacrifice of righteousness, And hope in the Lord. PSA.4:7 There are many who say, "Who will show us good things?" O Lord, the light of Your face was stamped upon us. PSA.4:8 You put gladness in my heart; From their season of wheat, wine, and oil they were multiplied. PSA.4:9 I will both sleep and rest in peace, For You alone, O Lord, cause me to dwell in hope. ## Chapter 5
+## Chapter 3
 
-PSA.5:1 For the End; concerning the inheritance; a psalm by David. PSA.5:2 Give ear to my words, O Lord, Hear my cry. PSA.5:3 Give heed to the voice of my supplication, My King and my God, For to You will I pray, O Lord. PSA.5:4 In the morning You shall hear my voice; In the morning I will stand before You, And I will watch. PSA.5:5 For You are not a God who wills lawlessness, Nor shall the evildoer dwell with You. PSA.5:6 The lawless shall not stand before Your eyes; You hate all the workers of lawlessness; PSA.5:7 You shall destroy all who speak falsehood; The Lord abhors the man of violence and deceit. PSA.5:8 But as for me, in the fullness of Your mercy I will come into Your house; In fear of You I will worship toward Your holy temple. PSA.5:9 Lead me, O Lord, in Your righteousness because of my enemies; Make straight Your way before me. PSA.5:10 For there is no truth in their mouth; Their heart is vain; Their throat is an open grave; They deal deceptively with their tongues. PSA.5:11 Judge them, O God. Let them fall by their false accusations; Cast them out in the multitude of their ungodliness; For they provoked You, O Lord. PSA.5:12 But let all who hope in You be glad; They will greatly rejoice forever, For You will dwell in them; And all who love Your name will boast in You. PSA.5:13 For You will bless the righteous; O Lord, You crowned us with the shield of Your goodwill. ## Chapter 6
+PSA.3:1 A psalm by David, when he fled from the face of his son, Absalom.
+PSA.3:2 O Lord, why do those who afflict me multiply? Many are those who rise up against me.
+PSA.3:3 Many are those who say to my soul, "There is no salvation for him in his God." (Pause)
+PSA.3:4 But You, O Lord, are my protector, My glory and the One who lifts up my head.
+PSA.3:5 I cried to the Lord with my voice, And He heard me from His holy hill. (Pause)
+PSA.3:6 I lay down and slept; I awoke, for the Lord will help me.
+PSA.3:7 I will not be afraid of ten thousands of people Who set themselves against me all around.
+PSA.3:8 Arise, O Lord, and save me, O my God, For You struck all those who were foolishly at enmity with me; You broke the teeth of sinners.
+PSA.3:9 Salvation is of the Lord, And Your blessing is upon Your people.
 
-PSA.6:1 For the End; in hymns, concerning the eighth; a psalm by David. PSA.6:2 O Lord, do not reprove me in Your anger, Nor discipline me in Your wrath. PSA.6:3 Have mercy on me, O Lord, for I am weak; Heal me, O Lord, for my bones are troubled; PSA.6:4 And my soul is greatly troubled; But You, O Lord, how long? PSA.6:5 Return, O Lord, and deliver my soul. Save me because of Your mercy. PSA.6:6 For there is no remembrance of You in death; And in Hades who will give thanks to You? PSA.6:7 I am weary with my groaning; Every single night I will dam pen my bed; I will drench my couch with my tears. PSA.6:8 My eye is troubled by anger; I grow old among all my enemies. PSA.6:9 Depart from me, all you workers of lawlessness; For the Lord heard the voice of my weeping; PSA.6:10 The Lord heard my supplication; The Lord received my prayer. PSA.6:11 Let all my enemies be ashamed and greatly troubled; Let them turn back and be suddenly ashamed. ## Chapter 7
+## Chapter 4
 
-PSA.7:1 A psalm by David, which he sang to the Lord concerning the words of Cush, the son of Benjamin. PSA.7:2 O Lord my God, in You I hope; Save me from all who pursue me, and deliver me, PSA.7:3 Lest like a lion he snatch away my soul While there is none to redeem or save. PSA.7:4 O Lord my God, if I have done this, If there is wrongdoing in my hands, PSA.7:5 If I dealt back evil to those dealing evil to me, Then may I fall empty because of my enemies, PSA.7:6 Then may the enemy pursue and overtake my soul, And trample down my life to the ground, And make my glory settle in the dust. (Pause)
-PSA.7:7 Arise, O Lord, in Your anger; Be exalted to the very boundaries of my enemies; Awaken, O Lord my God, in the ordinance You commanded, PSA.7:8 So the congregation of the peoples shall surround You, And because of this, return on high. PSA.7:9 The Lord shall judge the people; Judge me, O Lord, according to my righteousness, And according to the innocence within me. PSA.7:10 Bring an end to the wickedness of sinners, And keep straight the righteous; For God examines hearts and reins. PSA.7:11 My righteous help is from God, Who saves the upright in heart. PSA.7:12 God is a righteous, strong, and patient judge, Not bringing down wrath every single day. PSA.7:13 If You do not return, he will polish his sword; He stretched his bow and readied it, PSA.7:14 And he readied his instruments of death And prepared his arrows to kindle a fire. PSA.7:15 Behold, he suffered the pains of childbirth in unrighteousness; He conceived pain and brought forth lawlessness; PSA.7:16 He opened up a pit and dug it out, And he will fall into the hole he made. PSA.7:17 The pain shall return on his own head, And his wrongdoing shall come down on his crown. PSA.7:18 I will give thanks to the Lord according to His righteousness And will sing to the name of the Lord Most High. ## Chapter 8
+PSA.4:1 For the End; in psalms; an ode by David.
+PSA.4:2 You heard me when I called, O God of my righteousness. You strengthened my heart when I was in distress; Have mercy on me, and hear my prayer.
+PSA.4:3 How long, O you sons of men, Will you be slow of heart? Why do you love vain things And seek after lies?
+PSA.4:4 Know that the Lord made His Holy One wondrous; The Lord will hear me when I cry to Him.
+PSA.4:5 Be angry, and do not sin; Have remorse upon your beds For what you say in your hearts. (Pause)
+PSA.4:6 Offer the sacrifice of righteousness, And hope in the Lord.
+PSA.4:7 There are many who say, "Who will show us good things?" O Lord, the light of Your face was stamped upon us.
+PSA.4:8 You put gladness in my heart; From their season of wheat, wine, and oil they were multiplied.
+PSA.4:9 I will both sleep and rest in peace, For You alone, O Lord, cause me to dwell in hope.
 
-PSA.8:1 For the End; concerning the winepresses; a psalm by David. PSA.8:2 O Lord, our Lord, how wondrous is Your name in all the earth, For Your splendor is exalted far beyond the heavens. PSA.8:3 From the mouths of babies and nursing infants You prepared praise because of Your enemies, That You may destroy the enemy and av enger. PSA.8:4 For I shall look at the heavens, the works of Your fingers, The moon and stars You established. PSA.8:5 What is man that You remember him, Or the son of man that You visit him? PSA.8:6 You made him a little lower than the angels; You crowned him with glory and honor. PSA.8:7 You set him over the works of Your hands; You subjected all things under his feet, PSA.8:8 All sheep and oxen, And besides these, also the animals of the field, PSA.8:9 The birds of heaven and the fish of the sea, And the things passing through the paths of the seas. PSA.8:10 O Lord, our Lord, how wondrous is Your name in all the earth. ## Chapter 9
+## Chapter 5
 
-PSA.9:1 (9, 10) 1For the End; concerning the hidden things of the Son; a psalm of David. PSA.9:2 I will give thanks to You, O Lord, with my whole heart; I will tell of all Your wondrous things; PSA.9:3 I will be glad and rejoice in You; I will sing praise to Your name, O Most High. PSA.9:4 When my enemy turns backward, They shall be feeble and perish before Your face. PSA.9:5 For You m aintain my judgment and my right; You sit upon the throne, judging in righteousness. PSA.9:6 You rebuke the nations, and the ungodly man destroy s him self; You blotted out their name, in their lifetim e and unto ages of ages; PSA.9:7 The swords of the enemy are com pletely forsaken, And You pulled down their cities; Their m em ory was destroy ed with a noise. PSA.9:8 But the Lord abides forever; He prepared His throne in judgment, PSA.9:9 And He shall judge the world in righteousness; He shall judge the peoples in uprightness. PSA.9:10 The Lord is also a refuge for the poor man, A helper in seasons of affliction; PSA.9:11 And let those who know Your name put their hope in You; For You, O Lord, do not forsake those who seek You. PSA.9:12 Sing to the Lord who dwells in Zion. Proclaim His dealings among the nations, PSA.9:13 For He who av enges blood rem em bers them; He does not forget the cry of the poor. PSA.9:14 Have mercy on me, O Lord, and see how my enemies have hum bled me, You who raise me up from the gates of death, PSA.9:15 That I may proclaim all Your praises In the gates of the daughter of Zion. I will rejoice in Your salvation. PSA.9:16 The nations are trapped in the destruction they caused; Their foot is caught in the trap they hid. PSA.9:17 The Lord is known in the judgments He m akes; The sinner is caught in the works of his hands. (Pause)
-PSA.9:18 Let sinners be turned back into Hades, And all the nations who forget God. PSA.9:19 For the poor man shall not be forgotten in the end; The patience of the poor shall not perish forever. PSA.9:20 Arise, O Lord, and do not let man prevail; Let the nations be judged in Your presence. PSA.9:21 Set a lawgiver over them, O Lord, And let the nations know that they are men. (Pause)
-PSA.9:22 Why do You stand afar off, O Lord? Why do You disregard me in tim es of affliction? PSA.9:23 When the ungodly man behaves arrogantly, the poor are set afire; Let him be caught in the counsels he ponders. PSA.9:24 For the sinner praises him self in the desires of his soul, And the unjust man blesses him self. PSA.9:25 The sinner provokes the Lord; He will not seek Him out because of the fullness of His wrath; God is not before him. PSA.9:26 His way s are defiled in every season; Your judgments are rem ov ed from his face; He shall rule over all his enemies, PSA.9:27 For he said in his heart, "I will not be shaken; From generation to generation I will be without trouble."
-PSA.9:28 His mouth is full of cursing, bitterness and deceit; Suffering and pain are under his tongue. PSA.9:29 He lies in am bush with the wealthy; He kills the innocent in hidden places; His eyes look intently at the poor; PSA.9:30 He lies in am bush in a hiding place, like a lion in his den; He lies in wait to seize the poor man, To seize the poor man to drag him away; PSA.9:31 He will hum ble him in his snare; But he will bend down and fall when he rules over the poor. PSA.9:32 For he said in his heart, "God forgets; He turned His face so as never to see it."
-PSA.9:33 Arise, O Lord God, let Your hand be lifted high, And do not forget Your poor. PSA.9:34 Why has the ungodly man provoked God? For he said in his heart, "You will never call me to account for this."
-PSA.9:35 But You do see, You do perceive the suffering and pain, That You m ight deliver them into Your hands; Therefore, the poor man will be left to You; You give help to the orphan. PSA.9:36 Break the arm of the sinner and the evil man; His sin shall be sought, and because of it he will not be found; PSA.9:37 The Lord will reign, But you, O nations, you will perish from His earth. PSA.9:38 The Lord hears the desire of the poor; Your ear heeds the readiness of their heart, PSA.9:39 To judge the orphan and the hum ble, That man may no longer increase his great boasting upon the earth. ## Chapter 10
+PSA.5:1 For the End; concerning the inheritance; a psalm by David.
+PSA.5:2 Give ear to my words, O Lord, Hear my cry.
+PSA.5:3 Give heed to the voice of my supplication, My King and my God, For to You will I pray, O Lord.
+PSA.5:4 In the morning You shall hear my voice; In the morning I will stand before You, And I will watch.
+PSA.5:5 For You are not a God who wills lawlessness, Nor shall the evildoer dwell with You.
+PSA.5:6 The lawless shall not stand before Your eyes; You hate all the workers of lawlessness;
+PSA.5:7 You shall destroyall who speak falsehood; The Lord abhors the man of violence and deceit.
+PSA.5:8 But as for me, in the fullness of Your mercy I will come into Your house; In fear of You I will worship toward Your holy temple.
+PSA.5:9 Lead me, O Lord, in Your righteousness because of my enemies; Make straight Your way before me.
+PSA.5:10 For there is no truth in their mouth; Their heart is vain; Their throat is an open grave; They deal deceptively with their tongues.
+PSA.5:11 Judge them, O God. Let them fall by their false accusations; Cast them out in the multitude of their ungodliness; For they provoked You, O Lord.
+PSA.5:12 But let all who hope in You be glad; They will greatlyrejoice forever, For You will dwell in them; And all who love Your name will boast in You.
+PSA.5:13 For You will bless the righteous; O Lord, You crowned us with the shield of Your goodwill.
 
-PSA.10:1 For the End; a psalm by David. I n the Lord I trust. How will you say to my soul, "Flee to the m ountains like a sparrow"? PSA.10:2 See, the sinners stretch tight their bow; They prepare their arrows in the quiver, That in a m oonless night they may shoot down the upright in heart. PSA.10:3 For the things You created, they destroy ed. But what did the righteous man do? PSA.10:4 The Lord is in His holy temple; The Lord, His throne is in heaven; His eyes are fixed upon the poor man, His ey elids exam ine the sons of men. PSA.10:5 The Lord examines the righteous man and the ungodly man, And he who loves unrighteousness hates his own soul. PSA.10:6 He shall rain down snares upon sinners; Fire and brim stone and a raging wind shall be the portion of their cup. PSA.10:7 The righteous Lord loves righteousness; His face beholds the upright. ## Chapter 11
+## Chapter 6
 
-PSA.11:1 For the End, concerning the eighth; a psalm by David. PSA.11:2 Save me, O Lord, for the holy man has ceased; The truthful are dim inished from among the sons of men. PSA.11:3 Each one speaks useless things to his neighbor; Deceptive lips speak with a double heart. PSA.11:4 May the Lord destroy all deceptive lips And the tongue that speaks boastful things, PSA.11:5 Say ing, "We will make our tongue powerful; Our lips are our own; Who is lord over us?"
-PSA.11:6 "Because of the suffering of the needy, And because of the groaning of the poor, Now I will arise," say s the Lord; "I will establish them in salvation; I will declare it boldly."
-PSA.11:7 The words of the Lord are pure words, Like silver fired in a furnace of earth, Purified seven tim es. PSA.11:8 You shall guard us, O Lord; You shall preserve us from this generation forever. PSA.11:9 The ungodly walk in a circle; In Your exaltation, You highly exalted the sons of men. ## Chapter 12
+PSA.6:1 For the End; in hymns, concerning the eighth; a psalm by David.
+PSA.6:2 O Lord, do not reprove me in Your anger, Nor discipline me in Your wrath.
+PSA.6:3 Have mercy on me, O Lord, for I am weak; Heal me, O Lord, for my bones are troubled;
+PSA.6:4 And my soul is greatly troubled; But You, O Lord, how long?
+PSA.6:5 Return, O Lord, and deliver my soul. Save me because of Your mercy.
+PSA.6:6 For there is no remembrance of You in death; And in Hades who will give thanks to You?
+PSA.6:7 I am weary with my groaning; Every single night I will dampen my bed; I will drench my couch with my tears.
+PSA.6:8 My eye is troubled by anger; I grow old among all my enemies.
+PSA.6:9 Depart from me, all you workers of lawlessness; For the Lord heard the voice of my weeping;
+PSA.6:10 The Lord heard my supplication; The Lord received my prayer.
+PSA.6:11 Let all my enemies be ashamed and greatly troubled; Let them turn back and be suddenly ashamed.
 
-PSA.12:1 For the End; a psalm by David. PSA.12:2 How long, O Lord? Will You forget me to the end? How long will You turn Your face from me? PSA.12:3 How long will I take counsel in my soul, Hav ing grief in my heart daily? How long will my enemy be exalted over me? PSA.12:4 Look upon me and hear me, O Lord my God; Enlighten my eyes, lest I sleep in death, PSA.12:5 Lest my enemy say, "I prevailed against him "; Those who afflict me greatly rejoice, if I am shaken. PSA.12:6 But I hope in Your mercy; My heart shall greatly rejoice in Your salvation; I will sing to the Lord, who shows kindness to me; I will sing to the name of the Lord Most High. ## Chapter 13
+## Chapter 7
 
-PSA.13:1 For the End; a psalm by David. The fool say s in his heart, "There is no God." They are corrupt, they are abom inable in their habits; There is none, not even one, who does good. PSA.13:2 The Lord stooped down from heaven to look upon the sons of men, To see if there were any who understood or sought God. PSA.13:3 All turned aside and were altogether corrupted; There was not even one doing good, no, not one. Their throat is an open tom b; They deal deceptively with their tongues; The poison of serpents is under their lips, Whose mouth is full of curses and bitterness; Their feet are swift to shed blood; Affliction and suffering are in their way s, And the way of peace they have not known; There is no fear of God before their eyes. PSA.13:4 Do all the workers of lawlessness not know? They eat up my people as they eat bread, and they do not call upon the Lord. PSA.13:5 They were in great fear where no fear was, Because God is in the righteous generation. PSA.13:6 You sham ed the counsel of the poor man, Because the Lord is his hope. PSA.13:7 Who will bring about the salvation of Israel out of Zion? When the Lord returns His people from captivity, Let Jacob greatly rejoice, and let Israel be glad. ## Chapter 14
+PSA.7:1 A psalm by David, which he sang to the Lord concerning the words of Cush, the son of Benjamin.
+PSA.7:2 O Lord my God, in You I hope; Save me from all who pursue me, and deliver me,
+PSA.7:3 Lest like a lion he snatch away my soul While there is none to redeem or save.
+PSA.7:4 O Lord my God, if I have done this, If there is wrongdoing in my hands,
+PSA.7:5 If I dealt back evil to those dealing evil to me, Then may I fall empty because of my enemies,
+PSA.7:6 Then may the enemy pursue and overtake my soul, And trample down my life to the ground, And make my glory settle in the dust. (Pause)
+PSA.7:7 Arise, O Lord, in Your anger; Be exalted to the very boundaries of my enemies; Awaken, O Lord my God, in the ordinance You commanded,
+PSA.7:8 So the congregation of the peoples shall surround You, And because of this, return on high.
+PSA.7:9 The Lord shall judge the people; Judge me, O Lord, according to my righteousness, And according to the innocence within me.
+PSA.7:10 Bring an end to the wickedness of sinners, And keep straight the righteous; For God examines hearts and reins.
+PSA.7:11 My righteous help is from God, Who saves the upright in heart.
+PSA.7:12 God is a righteous, strong, and patient judge, Not bringing down wrath every single day.
+PSA.7:13 If You do not return, he will polish his sword; He stretched his bow and readied it,
+PSA.7:14 And he readied his instruments of death And prepared his arrows to kindle a fire.
+PSA.7:15 Behold, he suffered the pains of childbirth in unrighteousness; He conceived pain and brought forth lawlessness;
+PSA.7:16 He opened up a pit and dug it out, And he will fall into the hole he made.
+PSA.7:17 The pain shall return on his own head, And his wrongdoing shall come down on his crown.
+PSA.7:18 I will give thanks to the Lord according to His righteousness And will sing to the name of the Lord Most High.
 
-PSA.14:1 A psalm by David. O Lord, who shall dwell in Your tabernacle? Who shall live in Your holy m ountain? PSA.14:2 He who walks blam elessly, and works righteousness, And speaks truth in his heart, PSA.14:3 Who does not deceive with his tongue, Neither does evil to his neighbor; And does not find fault with those nearest him. PSA.14:4 He disdains those who do evil in his presence, But he holds in honor those who fear the Lord; He swears an oath to his neighbor and does not set it aside. PSA.14:5 He does not lend his m oney at interest, And he does not take a bribe against the innocent. He who does these things shall never be shaken. ## Chapter 15
+## Chapter 8
 
-PSA.15:1 A pillar inscription; by David. P reserve me, O Lord, because I hope in You. PSA.15:2 I said to the Lord, "You are my Lord; You have no need of my good things."
-PSA.15:3 To the saints on His earth, In them He m agnified all His will. PSA.15:4 Their diseases were multiplied; They hastened after these things; I will not join in their assem blies of blood, nor will I remember their nam es with my lips. PSA.15:5 The Lord is the portion of my inheritance and my cup; You are He who restores my inheritance to me. PSA.15:6 Portions fell to me among the best, And my inheritance is the very finest. PSA.15:7 I will bless the Lord who caused me to understand; Moreover, until night my reins also instructed me. PSA.15:8 I saw the Lord alway s before me; Because He is at my right hand, that I may not be shaken. PSA.15:9 Therefore my heart was glad, And my tongue rejoiced exceedingly; My flesh also shall dwell in hope. PSA.15:10 For You will not abandon my soul to Hades Nor allow Your Holy One to see corruption. PSA.15:11 You made known to me the way s of life; You will fill me with gladness in Your presence; At Your right hand are pleasures foreverm ore. ## Chapter 16
+PSA.8:1 For the End; concerning the winepresses; a psalm by David.
+PSA.8:2 O Lord, our Lord, how wondrous is Your name in all the earth, For Your splendor is exalted far beyond the heavens.
+PSA.8:3 From the mouths of babies and nursing infants You prepared praise because of Your enemies, That You may destroy the enemy and avenger.
+PSA.8:4 For I shall look at the heavens, the works of Your fingers, The moon and stars You established.
+PSA.8:5 What is man that You remember him, Or the son of man that You visit him?
+PSA.8:6 You made him a little lower than the angels; You crowned him with glory and honor.
+PSA.8:7 You set himover the works of Your hands; You subjected all things under his feet,
+PSA.8:8 All sheep and oxen, And besides these, also the animals of the field,
+PSA.8:9 The birds of heaven and the fish of the sea, And the things passing through the paths of the seas.
+PSA.8:10 O Lord, our Lord, how wondrous is Your name in all the earth.
 
-PSA.16:1 A prayer of David. Listen, O Lord of my righteousness; Attend to my supplication; Give ear to my prayer that is not with deceitful lips. PSA.16:2 From Your face let my judgment come; Let my eyes behold uprightness. PSA.16:3 You tested my heart, when You v isited me in the night; You tried me in the fire, and found nothing unjust in me. PSA.16:4 That my mouth m ight not speak of the works of men, I held to hard way s because of the words of Your lips. PSA.16:5 Restore my steps in Your paths, That my footsteps may not slip. PSA.16:6 I cried out, because You listened to me, O God; Incline Your ear to me, and hear my words. PSA.16:7 Magnify Your mercies, O You who save those who hope in You From those who rise up against Your right hand. PSA.16:8 Keep me as the apple of Your eye; In the shelter of Your wings, You will shelter me
-PSA.16:9 From the face of the ungodly who trouble me. My enemies surrounded my soul; PSA.16:10 Their fat enclosed them; Their mouth spoke arrogantly. PSA.16:11 Casting me out, they now surround me; They set their eyes to bend down to the earth. PSA.16:12 They seized me like a lion ready to tear its prey, Like a y oung lion lurking in secret places. PSA.16:13 Arise, O Lord, outrun them and trip up their heels; Rescue my soul from the ungodly, And Your sword from the enemies of Your hand. PSA.16:14 O Lord, destroy them from the earth; Scatter them in their life. Their belly is filled with Your hidden things; They are satisfied with their sons, And they leave their possessions to their children. PSA.16:15 As for me, in righteousness I shall behold Your face; I shall be satisfied when Your glory is revealed. ## Chapter 17
+## Chapter 9
 
-PSA.17:1 For the End; by the child of the Lord, David; what things he spoke to the Lord, even the words of this ode, in the day the Lord delivered him from the hand of all his enemies and from the hand of Saul; PSA.17:2 thus he said: "I will love You, O Lord, my strength. PSA.17:3 The Lord is my foundation, my refuge, my deliverer; My God is my helper, on Him I will hope, My cham pion, the horn of my salvation, and my protector. PSA.17:4 I will call upon the Lord and praise Him, And I shall be saved from my enemies. PSA.17:5 The anguish of death surrounded me; The floods of the lawless troubled me greatly; PSA.17:6 The anguish of Hades encircled me; The snares of death ran me down. PSA.17:7 In my affliction I called upon the Lord, And I cried out to my God; He heard my voice from His holy temple, And my cry shall come before Him, into His ears. PSA.17:8 Then the earth was shaken and was trembling; And the foundations of m ountains were stirred up, And they were shaken, because God was angry with them. PSA.17:9 Sm oke ascended in His wrath, And burst into flam e from His face; Coals were kindled by Him. PSA.17:10 He bowed heaven and descended, And darkness was under His feet. PSA.17:11 And He rode upon the cherubim, and flew; He flew upon the wings of the wind. PSA.17:12 He made darkness His hiding place; His tabernacle was around Him, Dark water in the clouds of the sky. PSA.17:13 Because of the brightness before Him, the clouds, The hail and the fiery coals passed through. PSA.17:14 The Lord thundered from heaven, The Most High gave forth His voice; PSA.17:15 And He sent forth His arrows, and scattered them; And He multiplied lightning, and threw them into utter confusion. PSA.17:16 Then the springs of the waters were seen, And the foundations of the world were uncovered By Your rebuke, O Lord, By the breathing of the breath of Your wrath. PSA.17:17 He sent from on high, and He took me; He drew me out of many waters. PSA.17:18 He will deliver me from my strong enemies, and from those who hate me, Because they were too strong for me. PSA.17:19 They ov erran me in the day of my m isfortune, But the Lord became my support, PSA.17:20 And He led me into a wide place; He will deliver me, because He willed it for me. He will deliver me from my strong enemies and from those who hate me. PSA.17:21 The Lord will reward me according to my righteousness; And according to the purity of my hands He will recom pense me, PSA.17:22 Because I kept the way s of the Lord And did not act im piously against my God; PSA.17:23 For all His judgments are before me, And I did not rem ov e His ordinances from me. PSA.17:24 I will also be blam eless before Him, And I will keep my self from my lawlessness. PSA.17:25 The Lord will reward me according to my righteousness, According to the purity of my hands before His eyes. PSA.17:26 With the holy You will be holy; And with the innocent man You will be innocent; PSA.17:27 And with the elect You will be elect; And with the crooked You will be crooked. PSA.17:28 For You will save a hum ble people, And You will hum ble the eyes of the arrogant. PSA.17:29 For You will light my lam p, O Lord; O my God, You will enlighten my darkness. PSA.17:30 For in You I shall be delivered from ordeals, And in my God I shall leap over a wall. PSA.17:31 My God, His way is blam eless; The teachings of the Lord are tried by fire; He is the shield of all who set their hope on Him. PSA.17:32 For who is God besides the Lord? And who is God besides our God? PSA.17:33 It is God who girds me with power, And He made my way blam eless; PSA.17:34 Who m akes my feet like a deer And sets me on high places; PSA.17:35 Who teaches my hands to make war; And You make my arm s a bronze bow; PSA.17:36 And You gave me the shield of Your salvation; And Your right hand supported me; And Your instruction restored me to the end; And Your instruction will teach me. PSA.17:37 You widened my steps under me, And my footsteps were not feeble. PSA.17:38 I shall pursue my enemies and overtake them; And I shall not turn back until they faint; PSA.17:39 I shall wound them until they cannot stand; They shall fall under my feet. PSA.17:40 For You arm ed me with strength for war; You entangled under my feet all who rose up against me, PSA.17:41 And You gave me the back of my enemies; And You destroy ed all who hate me. PSA.17:42 They cried out, but there was none to save them; Ev en to the Lord, but He did not answer them. PSA.17:43 I will grind them fine, like the dust that blows in the wind; I will sm ooth them out, like m ud in the streets. PSA.17:44 Deliver me from the contradictions of the people; You will establish me as the head of the Gentiles; A people I never knew served me; PSA.17:45 The m om ent they heard, they obey ed me; Sons who are strangers lied to me; PSA.17:46 Sons who are strangers became old, And they became lam e because of their beaten path. PSA.17:47 The Lord lives, and blessed is my God. Let the salvation of my God be exalted, PSA.17:48 The God who v indicates me, And who subdued the peoples under me, PSA.17:49 My deliverer from the rage of my enemies; Because of those who rise up against me, You will exalt me; You will deliver me from the unrighteous man. PSA.17:50 Therefore I will give thanks to You among the Gentiles, O Lord, And sing to Your name, PSA.17:51 He who m agnifies the salvation of His king And shows mercy to His anointed, To Dav id and his seed forever."
+PSA.9:1 (9, 10) 1For the End; concerning the hidden things of the Son; a psalm of David.
+PSA.9:2 I will give thanks to You, O Lord, with my whole heart; I will tell of all Your wondrous things;
+PSA.9:3 I will be glad and rejoice in You; I will sing praise to Your name, O Most High.
+PSA.9:4 When my enemy turns backward, They shall be feeble and perish before Your face.
+PSA.9:5 For You maintain my judgment and my right; You sit upon the throne, judging in righteousness.
+PSA.9:6 You rebuke the nations, and the ungodly man destroys himself; You blotted out their name, in their lifetime and unto ages of ages;
+PSA.9:7 The swords of the enemy are completely forsaken, And You pulled down their cities; Their memory was destroyed with a noise.
+PSA.9:8 But the Lord abides forever; He prepared His throne in judgment,
+PSA.9:9 And He shall judge the world in righteousness; He shall judge the peoples in uprightness.
+PSA.9:10 The Lord is also a refuge for the poor man, A helper in seasons of affliction;
+PSA.9:11 And let those who know Your name put their hope in You; For You, O Lord, do not forsake those who seek You.
+PSA.9:12 Sing to the Lord who dwells in Zion. Proclaim His dealings among the nations,
+PSA.9:13 For He who avenges blood remembers them; He does not forget the cry of the poor.
+PSA.9:14 Have mercy on me, O Lord, and see how my enemies have humbled me, You who raise me up from the gates of death,
+PSA.9:15 That I may proclaim all Your praises In the gates of the daughter of Zion. I will rejoice in Your salvation.
+PSA.9:16 The nations are trapped in the destruction they caused; Their foot is caught in the trap they hid.
+PSA.9:17 The Lord is known in the judgments He makes; The sinner is caught in the works of his hands. (Pause)
+PSA.9:18 Let sinners be turned back into Hades, And all the nations who forget God.
+PSA.9:19 For the poor man shall not be forgotten in the end; The patience of the poor shall not perish forever.
+PSA.9:20 Arise, O Lord, and do not let man prevail; Let the nations be judged in Your presence.
+PSA.9:21 Set a lawgiver over them, O Lord, And let the nations know that they are men. (Pause)
+PSA.9:22 Why do You stand afar off, O Lord? Why do You disregard me in times of affliction?
+PSA.9:23 When the ungodly man behaves arrogantly, the poor are set afire; Let him be caught in the counsels he ponders.
+PSA.9:24 For the sinner praises himself in the desires of his soul, And the unjust man blesses himself.
+PSA.9:25 The sinner provokes the Lord; He will not seek Him out because of the fullness of His wrath; God is not before him.
+PSA.9:26 His ways are defiled in every season; Your judgments are removed from his face; He shall rule over all his enemies,
+PSA.9:27 For he said in his heart, "I will not be shaken; From generation to generation I will be without trouble."
+PSA.9:28 His mouth is full of cursing, bitterness and deceit; Suffering and pain are under his tongue.
+PSA.9:29 He lies in ambush with the wealthy; He kills the innocent in hidden places; His eyes look intently at the poor;
+PSA.9:30 He lies in ambush in a hiding place, like a lion in his den; He lies in wait to seize the poor man, To seize the poor man to drag him away;
+PSA.9:31 He will humble him in his snare; But he will bend down and fall when he rules over the poor.
+PSA.9:32 For he said in his heart, "God forgets; He turned His face so as never to see it."
+PSA.9:33 Arise, O Lord God, let Your hand be lifted high, And do not forget Your poor.
+PSA.9:34 Why has the ungodly man provoked God? For he said in his heart, "You will never call me to account for this."
+PSA.9:35 But You do see, You do perceive the suffering and pain, That You might deliver them into Your hands; Therefore, the poor man will be left to You; You give help to the orphan.
+PSA.9:36 Break the arm of the sinner and the evil man; His sin shall be sought, and because of it he will not be found;
+PSA.9:37 The Lord will reign, But you, O nations, you will perish from His earth.
+PSA.9:38 The Lord hears the desire of the poor; Your ear heeds the readiness of their heart,
+PSA.9:39 To judge the orphan and the humble, That man may no longer increase his great boasting upon the earth.
+
+## Chapter 10
+
+PSA.10:1 For the End; a psalm by David. In the Lord I trust. How will you say to my soul, "Flee to the mountains like a sparrow"?
+PSA.10:2 See, the sinners stretch tight their bow; They prepare their arrows in the quiver, That in a moonless night they may shoot down the upright in heart.
+PSA.10:3 For the things You created, they destroyed. But what did the righteous man do?
+PSA.10:4 The Lord is in His holy temple; The Lord, His throne is in heaven; His eyes are fixed upon the poor man, His eyelids examine the sons of men.
+PSA.10:5 The Lord examines the righteous man and the ungodly man, And he who loves unrighteousness hates his own soul.
+PSA.10:6 He shall rain down snares upon sinners; Fire and brimstone and a raging wind shall be the portion of their cup.
+PSA.10:7 The righteous Lord loves righteousness; His face beholds the upright.
+
+## Chapter 11
+
+PSA.11:1 For the End, concerning the eighth; a psalm by David.
+PSA.11:2 Save me, O Lord, for the holy man has ceased; The truthful are diminished from among the sons of men.
+PSA.11:3 Each one speaks useless things to his neighbor; Deceptive lips speak with a double heart.
+PSA.11:4 May the Lord destroyall deceptive lips And the tongue that speaks boastful things,
+PSA.11:5 Saying, "We will make our tongue powerful; Our lips are our own; Who is lord over us?"
+PSA.11:6 "Because of the suffering of the needy, And because of the groaning of the poor, Now I will arise," says the Lord; "I will establish them in salvation; I will declare it boldly."
+PSA.11:7 The words of the Lord are pure words, Like silver fired in a furnace of earth, Purified seven times.
+PSA.11:8 You shall guard us, O Lord; You shall preserve us from this generation forever.
+PSA.11:9 The ungodly walk in a circle; In Your exaltation, You highly exalted the sons of men.
+
+## Chapter 12
+
+PSA.12:1 For the End; a psalm by David.
+PSA.12:2 How long, O Lord? Will You forget me to the end? How long will You turn Your face from me?
+PSA.12:3 How long will I take counsel in my soul, Having grief in my heart daily? How long will my enemy be exalted over me?
+PSA.12:4 Look upon me and hear me, O Lord my God; Enlighten my eyes, lest I sleep in death,
+PSA.12:5 Lest my enemy say, "I prevailed against him "; Those who afflict me greatlyrejoice, if I am shaken.
+PSA.12:6 But I hope in Your mercy; My heart shall greatlyrejoice in Your salvation; I will sing to the Lord, who shows kindness to me; I will sing to the name of the Lord Most High.
+
+## Chapter 13
+
+PSA.13:1 For the End; a psalm by David. The fool says in his heart, "There is no God." They are corrupt, they are abominable in their habits; There is none, not even one, who does good.
+PSA.13:2 The Lord stooped down from heaven to look upon the sons of men, To see if there were any who understood or sought God.
+PSA.13:3 All turned aside and were altogether corrupted; There was not even one doing good, no, not one. Their throat is an open tomb; They deal deceptively with their tongues; The poison of serpents is under their lips, Whose mouth is full of curses and bitterness; Their feet are swift to shed blood; Affliction and suffering are in their ways, And the way of peace they have not known; There is no fear of God before their eyes.
+PSA.13:4 Do all the workers of lawlessness not know? They eat up my people as they eat bread, and they do not call upon the Lord.
+PSA.13:5 They were in great fear where no fear was, Because God is in the righteous generation.
+PSA.13:6 You shamed the counsel of the poor man, Because the Lord is his hope.
+PSA.13:7 Who will bring about the salvation of Israel out of Zion? When the Lord returns His people from captivity, Let Jacob greatlyrejoice, and let Israel be glad.
+
+## Chapter 14
+
+PSA.14:1 A psalm by David. O Lord, who shall dwell in Your tabernacle? Who shall live in Your holy mountain?
+PSA.14:2 He who walks blamelessly, and works righteousness, And speaks truth in his heart,
+PSA.14:3 Who does not deceive with his tongue, Neither does evil to his neighbor; And does not find fault with those nearest him.
+PSA.14:4 He disdains those who do evil in his presence, But he holds in honor those who fear the Lord; He swears an oath to his neighbor and does not set it aside.
+PSA.14:5 He does not lend his money at interest, And he does not take a bribe against the innocent. He who does these things shall never be shaken.
+
+## Chapter 15
+
+PSA.15:1 A pillar inscription; by David. Preserve me, O Lord, because I hope in You.
+PSA.15:2 I said to the Lord, "You are my Lord; You have no need of my good things."
+PSA.15:3 To the saints on His earth, In them He magnified all His will.
+PSA.15:4 Their diseases were multiplied; They hastened after these things; I will not join in their assemblies of blood, nor will I remember their names with my lips.
+PSA.15:5 The Lord is the portion of my inheritance and my cup; You are He who restores my inheritance to me.
+PSA.15:6 Portions fell to me among the best, And my inheritance is the very finest.
+PSA.15:7 I will bless the Lord who caused me to understand; Moreover, until night my reins also instructed me.
+PSA.15:8 I saw the Lord always before me; Because He is at my right hand, that I may not be shaken.
+PSA.15:9 Therefore my heart was glad, And my tongue rejoiced exceedingly; My flesh also shall dwell in hope.
+PSA.15:10 For You will not abandon my soul to Hades Nor allow Your Holy One to see corruption.
+PSA.15:11 You made known to me the ways of life; You will fill me with gladness in Your presence; At Your right hand are pleasures forevermore.
+
+## Chapter 16
+
+PSA.16:1 A prayer of David. Listen, O Lord of my righteousness; Attend to my supplication; Give ear to my prayer that is not with deceitful lips.
+PSA.16:2 From Your face let my judgment come; Let my eyes behold uprightness.
+PSA.16:3 You tested my heart, when You visited me in the night; You tried me in the fire, and found nothing unjust in me.
+PSA.16:4 That my mouth might not speak of the works of men, I held to hard ways because of the words of Your lips.
+PSA.16:5 Restore my steps in Your paths, That my footsteps may not slip.
+PSA.16:6 I cried out, because You listened to me, O God; Incline Your ear to me, and hear my words.
+PSA.16:7 Magnify Your mercies, O You who save those who hope in You From those who rise up against Your right hand.
+PSA.16:8 Keep me as the apple of Your eye; In the shelter of Your wings, You will shelter me
+PSA.16:9 From the face of the ungodly who trouble me. My enemies surrounded my soul;
+PSA.16:10 Their fat enclosed them; Their mouth spoke arrogantly.
+PSA.16:11 Casting me out, they now surround me; They set their eyes to bend down to the earth.
+PSA.16:12 They seized me like a lion ready to tear its prey, Like a young lion lurking in secret places.
+PSA.16:13 Arise, O Lord, outrun them and trip up their heels; Rescue my soul from the ungodly, And Your sword from the enemies of Your hand.
+PSA.16:14 O Lord, destroy them from the earth; Scatter them in their life. Their belly is filled with Your hidden things; They are satisfied with their sons, And they leave their possessions to their children.
+PSA.16:15 As for me, in righteousness I shall behold Your face; I shall be satisfied when Your glory is revealed.
+
+## Chapter 17
+
+PSA.17:1 For the End; by the child of the Lord, David; what things he spoke to the Lord, even the words of this ode, in the day the Lord delivered him from the hand of all his enemies and from the hand of Saul;
+PSA.17:2 thus he said: "I will love You, O Lord, my strength.
+PSA.17:3 The Lord is my foundation, my refuge, my deliverer; My God is my helper, on Him I will hope, My champion, the horn of my salvation, and my protector.
+PSA.17:4 I will call upon the Lord and praise Him, And I shall be saved from my enemies.
+PSA.17:5 The anguish of death surrounded me; The floods of the lawless troubled me greatly;
+PSA.17:6 The anguish of Hades encircled me; The snares of death ran me down.
+PSA.17:7 In my affliction I called upon the Lord, And I cried out to my God; He heard my voice from His holy temple, And my cry shall come before Him, into His ears.
+PSA.17:8 Then the earth was shaken and was trembling; And the foundations of mountains were stirred up, And they were shaken, because God was angry with them.
+PSA.17:9 Smoke ascended in His wrath, And burst into flame from His face; Coals were kindled by Him.
+PSA.17:10 He bowed heaven and descended, And darkness was under His feet.
+PSA.17:11 And He rode upon the cherubim, and flew; He flew upon the wings of the wind.
+PSA.17:12 He made darkness His hiding place; His tabernacle was around Him, Dark water in the clouds of the sky.
+PSA.17:13 Because of the brightness before Him, the clouds, The hail and the fiery coals passed through.
+PSA.17:14 The Lord thundered from heaven, The Most High gave forth His voice;
+PSA.17:15 And He sent forth His arrows, and scattered them; And He multiplied lightning, and threw them into utter confusion.
+PSA.17:16 Then the springs of the waters were seen, And the foundations of the world were uncovered By Your rebuke, O Lord, By the breathing of the breath of Your wrath.
+PSA.17:17 He sent from on high, and He took me; He drew me out of many waters.
+PSA.17:18 He will deliver me from my strong enemies, and from those who hate me, Because they were too strong for me.
+PSA.17:19 They overran me in the day of my misfortune, But the Lord became my support,
+PSA.17:20 And He led me into a wide place; He will deliver me, because He willed it for me. He will deliver me from my strong enemies and from those who hate me.
+PSA.17:21 The Lord will reward me according to my righteousness; And according to the purity of my hands He will recompense me,
+PSA.17:22 Because I kept the ways of the Lord And did not act impiously against my God;
+PSA.17:23 For all His judgments are before me, And I did not remove His ordinances from me.
+PSA.17:24 I will also be blameless before Him, And I will keep my self from my lawlessness.
+PSA.17:25 The Lord will reward me according to my righteousness, According to the purity of my hands before His eyes.
+PSA.17:26 With the holy You will be holy; And with the innocent man You will be innocent;
+PSA.17:27 And with the elect You will be elect; And with the crooked You will be crooked.
+PSA.17:28 For You will save a humble people, And You will humble the eyes of the arrogant.
+PSA.17:29 For You will light my lamp, O Lord; O my God, You will enlighten my darkness.
+PSA.17:30 For in You I shall be delivered from ordeals, And in my God I shall leap over a wall.
+PSA.17:31 My God, His way is blameless; The teachings of the Lord are tried by fire; He is the shield of all who set their hope on Him.
+PSA.17:32 For who is God besides the Lord? And who is God besides our God?
+PSA.17:33 It is God who girds me with power, And He made my way blameless;
+PSA.17:34 Who makes my feet like a deer And sets me on high places;
+PSA.17:35 Who teaches my hands to make war; And You make my arms a bronze bow;
+PSA.17:36 And You gave me the shield of Your salvation; And Your right hand supported me; And Your instruction restored me to the end; And Your instruction will teach me.
+PSA.17:37 You widened my steps under me, And my footsteps were not feeble.
+PSA.17:38 I shall pursue my enemies and overtake them; And I shall not turn back until they faint;
+PSA.17:39 I shall wound them until they cannot stand; They shall fall under my feet.
+PSA.17:40 For You armed me with strength for war; You entangled under my feet all who rose up against me,
+PSA.17:41 And You gave me the back of my enemies; And You destroyed all who hate me.
+PSA.17:42 They cried out, but there was none to save them; Even to the Lord, but He did not answer them.
+PSA.17:43 I will grind them fine, like the dust that blows in the wind; I will smooth them out, like mud in the streets.
+PSA.17:44 Deliver me from the contradictions of the people; You will establish me as the head of the Gentiles; A people I never knew served me;
+PSA.17:45 The moment they heard, they obeyed me; Sons who are strangers lied to me;
+PSA.17:46 Sons who are strangers became old, And they became lame because of their beaten path.
+PSA.17:47 The Lord lives, and blessed is my God. Let the salvation of my God be exalted,
+PSA.17:48 The God who vindicates me, And who subdued the peoples under me,
+PSA.17:49 My deliverer from the rage of my enemies; Because of those who rise up against me, You will exalt me; You will deliver me from the unrighteous man.
+PSA.17:50 Therefore I will give thanks to You among the Gentiles, O Lord, And sing to Your name,
+PSA.17:51 He who magnifies the salvation of His king And shows mercy to His anointed, To David and his seed forever."
 
 ## Chapter 18
 
-PSA.18:1 For the End; a psalm by David. PSA.18:2 The heavens declare the glory of God; The firm am ent shows the creation of His hands. PSA.18:3 Day to day utters speech, And night to night reveals knowledge. PSA.18:4 There is no speech nor language Where their v oices are not heard. PSA.18:5 Their proclam ation went forth into all the earth, And their words to the ends of the world. In the sun He set His tabernacle; PSA.18:6 And it rejoices exceedingly Like a bridegroom com ing forth from his bridal cham ber, Like a strong man to run a race. PSA.18:7 Its rising is from one end of heaven, And its circuit runs to the other end; And nothing shall be hidden from its heat. PSA.18:8 The law of the Lord is blam eless, conv erting souls; The testim ony of the Lord is trustworthy, m aking children wise; PSA.18:9 The ordinances of the Lord are right, rejoicing the heart; The com m andm ent of the Lord is bright, enlightening the eyes; PSA.18:10 The fear of the Lord is pure, enduring unto ages of ages; The judgments of the Lord are true, being altogether just. PSA.18:11 More to be desired are they than gold and a very precious stone, Sweeter also than honey and the honey com b. PSA.18:12 For indeed Your servant keeps them; In keeping them there is great reward. PSA.18:13 Who will understand his transgressions? Cleanse me from hidden sins, PSA.18:14 And spare your servant from unnatural sins; If they have no dom inion over me, then I shall be blam eless, And I shall be cleansed from great sin. PSA.18:15 Let the words of my mouth and the m editation of my heart Be alway s pleasing before You, O Lord, my helper and my redeem er. ## Chapter 19
+PSA.18:1 For the End; a psalm by David.
+PSA.18:2 The heavens declare the glory of God; The firmament shows the creation of His hands.
+PSA.18:3 Day to day utters speech, And night to night reveals knowledge.
+PSA.18:4 There is no speech nor language Where their voices are not heard.
+PSA.18:5 Their proclamation went forth into all the earth, And their words to the ends of the world. In the sun He set His tabernacle;
+PSA.18:6 And it rejoices exceedingly Like a bridegroom coming forth from his bridal chamber, Like a strong man to run a race.
+PSA.18:7 Its rising is from one end of heaven, And its circuit runs to the other end; And nothing shall be hidden from its heat.
+PSA.18:8 The law of the Lord is blameless, converting souls; The testimony of the Lord is trustworthy, making children wise;
+PSA.18:9 The ordinances of the Lord are right, rejoicing the heart; The commandment of the Lord is bright, enlightening the eyes;
+PSA.18:10 The fear of the Lord is pure, enduring unto ages of ages; The judgments of the Lord are true, being altogether just.
+PSA.18:11 More to be desired are they than gold and a very precious stone, Sweeter also than honey and the honeycomb.
+PSA.18:12 For indeed Your servant keeps them; In keeping them there is great reward.
+PSA.18:13 Who will understand his transgressions? Cleanse me from hidden sins,
+PSA.18:14 And spare your servant from unnatural sins; If they have no dominion over me, then I shall be blameless, And I shall be cleansed from great sin.
+PSA.18:15 Let the words of my mouth and the meditation of my heart Be always pleasing before You, O Lord, my helper and my redeemer.
 
-PSA.19:1 For the End; a psalm by David. PSA.19:2 M ay the Lord hear you in the day of affliction; May the name of the God of Jacob defend you. PSA.19:3 May He send you help from His holy place, And may He support you from Zion. PSA.19:4 May He remember every sacrifice of yours, And may your whole burnt offering be honored. (Pause)
-PSA.19:5 May He give you according to your heart, May He fulfill all your counsel. PSA.19:6 We will greatly rejoice in Your salvation, And in the name of our God we will be m agnified. PSA.19:7 Now I know the Lord has saved His anointed; He will hear him from His holy heaven; The salvation of His right hand is m ighty. PSA.19:8 Som e glory in chariots, som e in horses, But in the name of the Lord our God we shall be m agnified. PSA.19:9 Their feet were tied together; so they fell; But we rose up and were restored. PSA.19:10 O Lord, save Your King, And hear us in the day we call upon You. ## Chapter 20
+## Chapter 19
 
-PSA.20:1 For the End; a psalm by David. PSA.20:2 O Lord, the king shall be glad in Your power, And in Your salvation he will greatly rejoice. PSA.20:3 You gave him his soul's desire, And You did not deprive him of his lips' request. (Pause)
-PSA.20:4 For You anticipated him with blessings of goodness; You placed a crown of precious stones on his head. PSA.20:5 He asked You for life, and You gave it to him, Length of day s unto ages of ages. PSA.20:6 Great is his glory in Your salvation; Glory and m ajesty You shall place upon him. PSA.20:7 For You shall give him blessing unto ages of ages; You shall fill him with the joy of Your presence. PSA.20:8 For the king hopes in the Lord, And in the mercy of the Most High he will not be shaken. PSA.20:9 May Your hand be found on all Your enemies; May Your right hand find all who hate You. PSA.20:10 You shall make them like a fiery furnace In the tim e of Your presence; The Lord shall throw them into confusion in His wrath, And the fire shall devour them. PSA.20:11 You shall destroy their offspring from the earth And their seed from among the sons of men. PSA.20:12 For they v ented all their ev ils against You; They reasoned through a counsel they could not establish. PSA.20:13 For You shall make them turn their back; Am ong Your rem nants, You shall make ready their countenance. PSA.20:14 Be exalted, O Lord, in Your power; We will sing and praise Your m ighty deeds. ## Chapter 21
+PSA.19:1 For the End; a psalm by David.
+PSA.19:2 May the Lord hear you in the day of affliction; May the name of the God of Jacob defend you.
+PSA.19:3 May He send you help from His holy place, And may He support you from Zion.
+PSA.19:4 May He remember every sacrifice of yours, And may your whole burnt offering be honored. (Pause)
+PSA.19:5 May He give you according to your heart, May He fulfill all your counsel.
+PSA.19:6 We will greatlyrejoice in Your salvation, And in the name of our God we will be magnified.
+PSA.19:7 Now I know the Lord has saved His anointed; He will hear him from His holy heaven; The salvation of His right hand is mighty.
+PSA.19:8 Some glory in chariots, some in horses, But in the name of the Lord our God we shall be magnified.
+PSA.19:9 Their feet were tied together; so they fell; But we rose up and were restored.
+PSA.19:10 O Lord, save Your King, And hear us in the day we call upon You.
 
-PSA.21:1 For the End; concerning help in the morning; a psalm by David. PSA.21:2 O God, my God, hear me; why have You forsaken me? The words of my transgressions are far from my salvation. PSA.21:3 O my God, I will cry out by day, but You will not hear me; And by night, but not for a lack of understanding in me. PSA.21:4 But You dwell among the saints, O praise of Israel. PSA.21:5 Our fathers hoped in You; They hoped in You, and You delivered them. PSA.21:6 They cried out to You and were saved; They hoped in You and were not ashamed. PSA.21:7 But I am a worm, and not a man; A reproach of man and despised by the people. PSA.21:8 All who see me mock me; They speak with their lips and shake their head, PSA.21:9 Say ing, "He hoped in the Lord, let Him rescue him; Let Him save him since He delights in him."
-PSA.21:10 For You are He who drew me from the wom b, My hope from my m other's breasts; PSA.21:11 I was cast upon You from the wom b, From my m other's wom b You are my God. PSA.21:12 Do not stand off from me, for affliction is near; There is no one to help. PSA.21:13 Many y oung bulls surrounded me; Fat bulls encircled me. PSA.21:14 They opened their mouths against me Like a raging and roaring lion. PSA.21:15 I am poured out like water, And all my bones are shattered; My heart is like wax, m elting into my stom ach. PSA.21:16 My strength is dried up like an earthen vessel; My tongue cleaves to my throat; And You led me into the dust of death. PSA.21:17 For many dogs surrounded me; An assem bly of ev ildoers enclosed me; They pierced my hands and my feet. PSA.21:18 I num bered all my bones, And they look and stare at me. PSA.21:19 They divided my garm ents among themselves, And for my clothing they cast lots. PSA.21:20 But You, O Lord, do not rem ov e Your help from me; Attend to my aid. PSA.21:21 Deliver my soul from the sword And my only -begotten from the hand of the dog; PSA.21:22 Save me from the lion's mouth, My hum iliation from the horns of the unicorns. PSA.21:23 I will declare Your name to my brethren; In the midst of the church I will sing to You. PSA.21:24 You who fear the Lord, praise Him. All you seed of Jacob, glorify Him; Fear Him, all you seed of Israel. PSA.21:25 For He has not despised nor scorned the beggar's supplication, Nor has He turned away His face from me; And when I cried out to Him, He heard me. PSA.21:26 My praise is from You in the great church; I will pay my v ows before those who fear Him. PSA.21:27 The poor shall eat and be well-filled, And those who seek Him will praise the Lord; Their hearts will live unto ages of ages. PSA.21:28 All the ends of the world shall remember and turn to the Lord; And all fam ilies of the Gentiles shall worship before You, PSA.21:29 For the kingdom is the Lord's; And He is the Master of the Gentiles. PSA.21:30 All the prosperous of the earth ate and worshiped; All going down into the earth shall bow down before Him, And my soul lives with Him. PSA.21:31 And my seed shall serve Him; The com ing generation shall be told of the Lord, PSA.21:32 And they will declare His righteousness To a people who will be born, because the Lord made them. ## Chapter 22
+## Chapter 20
 
-PSA.22:1 A psalm by David. The Lord is my shepherd; I shall not want. PSA.22:2 He m akes me to lie down in green pastures; He leads me beside the still waters. PSA.22:3 He restores my soul; He leads me in the paths of righteousness For His name's sake. PSA.22:4 Yea, though I walk through the valley of the shadow of death, I will fear no evil, for You are with me; Your rod and Your staff, they com fort me. PSA.22:5 You prepare a table before me in the presence of my enemies; You anoint my head with oil; My cup runs over. PSA.22:6 Surely goodness and mercy shall follow me All the day s of my life; And I will dwell in the house of the Lord to the end of my day s. ## Chapter 23
+PSA.20:1 For the End; a psalm by David.
+PSA.20:2 O Lord, the king shall be glad in Your power, And in Your salvation he will greatlyrejoice.
+PSA.20:3 You gave him his soul's desire, And You did not deprive him of his lips' request. (Pause)
+PSA.20:4 For You anticipated him with blessings of goodness; You placed a crown of precious stones on his head.
+PSA.20:5 He asked You for life, and You gave it to him, Length of days unto ages of ages.
+PSA.20:6 Great is his glory in Your salvation; Glory and majesty You shall place upon him.
+PSA.20:7 For You shall give him blessing unto ages of ages; You shall fill him with the joy of Your presence.
+PSA.20:8 For the king hopes in the Lord, And in the mercy of the Most High he will not be shaken.
+PSA.20:9 May Your hand be found on all Your enemies; May Your right hand find all who hate You.
+PSA.20:10 You shall make them like a fiery furnace In the time of Your presence; The Lord shall throw them into confusion in His wrath, And the fire shall devour them.
+PSA.20:11 You shall destroy their offspring from the earth And their seed from among the sons of men.
+PSA.20:12 For they vented all their evils against You; They reasoned through a counsel they could not establish.
+PSA.20:13 For You shall make them turn their back; Among Your remnants, You shall make ready their countenance.
+PSA.20:14 Be exalted, O Lord, in Your power; We will sing and praise Your mighty deeds.
 
-PSA.23:1 A psalm by David; on the first day of the week. The earth is the Lord's, and its fullness, The world and all who dwell therein. PSA.23:2 For He founded it upon the seas And prepared it upon the rivers. PSA.23:3 Who shall ascend to the m ountain of the Lord? Who shall stand in His holy place? PSA.23:4 He who has innocent hands and a pure heart; He who does not lift up his soul to vanity; He who does not swear deceitfully to his neighbor. PSA.23:5 He shall receive blessing from the Lord And mercy from the God of his salvation. PSA.23:6 This is the generation of those who seek Him, Who seek the face of the God of Jacob. (Pause)
-PSA.23:7 Lift up the gates, O you rulers, And be lifted up, you ev erlasting doors, And the King of glory shall enter. PSA.23:8 Who is this King of glory? The Lord strong and m ighty, The Lord powerful in battle. PSA.23:9 Lift up the gates, O you rulers, And be lifted up, you ev erlasting doors, And the King of glory shall enter. PSA.23:10 Who is this King of Glory? The Lord of hosts, He is the King of glory. ## Chapter 24
+## Chapter 21
 
-PSA.24:1 A psalm by David. To You, O Lord, I lift up my soul, O my God. PSA.24:2 I trust in You; let me not be ashamed; Let not my enemies laugh at me. PSA.24:3 For all who wait upon You shall not be ashamed; Let those be ashamed who act lawlessly in vain. PSA.24:4 Make known Your way s to me, O Lord, And teach me Your paths. PSA.24:5 Lead me in Your truth and teach me, For You are the God of my salvation, And on You I wait all the day. PSA.24:6 Rem em ber Your com passion, O Lord, And Your mercy, for they are from of old. PSA.24:7 Do not remember the sins of my y outh, nor of my ignorance; But remember me according to Your mercy, Because of Your loving-kindness, O Lord. PSA.24:8 Good and upright is the Lord; Therefore He will instruct sinners in His way. PSA.24:9 He will guide the gentle in judgment; He will teach the gentle His way s. PSA.24:10 All the way s of the Lord are mercy and truth For those who seek His covenant and His testim onies. PSA.24:11 For Your name's sake, O Lord, Pardon my sin, for it is great. PSA.24:12 Who is the man who fears the Lord? He will instruct him in the way He chooses. PSA.24:13 His soul shall dwell among good things; His seed shall inherit the earth. PSA.24:14 The Lord is the strength of those who fear Him, And to those who fear Him, His name is the Lord, And He will show them His covenant. PSA.24:15 My eyes are alway s toward the Lord, For He shall pluck my feet out of the trap. PSA.24:16 Look upon me and have mercy on me, For I am only -begotten and poor. PSA.24:17 The afflictions of my heart have been widened; Bring me out of my distresses. PSA.24:18 Look on my hum iliation and my pain And forgive all my sins. PSA.24:19 Look on my enemies, because they multiply, And they hate me with unjustified hatred. PSA.24:20 Keep my soul, and deliver me; Let me not be ashamed, because I hope in You. PSA.24:21 The innocent and the upright cleave to me Because I wait upon You, O Lord. PSA.24:22 Redeem Israel, O God, Out of all his afflictions. ## Chapter 25
+PSA.21:1 For the End; concerning help in the morning; a psalm by David.
+PSA.21:2 O God, my God, hear me; why have You forsaken me? The words of my transgressions are far from my salvation.
+PSA.21:3 O my God, I will cry out by day, but You will not hear me; And by night, but not for a lack of understanding in me.
+PSA.21:4 But You dwell among the saints, O praise of Israel.
+PSA.21:5 Our fathers hoped in You; They hoped in You, and You delivered them.
+PSA.21:6 They cried out to You and were saved; They hoped in You and were not ashamed.
+PSA.21:7 But I am a worm, and not a man; A reproach of man and despised by the people.
+PSA.21:8 All who see me mock me; They speak with their lips and shake their head,
+PSA.21:9 Saying, "He hoped in the Lord, let Him rescue him; Let Him save him since He delights in him."
+PSA.21:10 For You are He who drew me from the womb, My hope from my mother's breasts;
+PSA.21:11 I was cast upon You from the womb, From my mother's womb You are my God.
+PSA.21:12 Do not stand off from me, for affliction is near; There is no one to help.
+PSA.21:13 Many young bulls surrounded me; Fat bulls encircled me.
+PSA.21:14 They opened their mouths against me Like a raging and roaring lion.
+PSA.21:15 I am poured out like water, And all my bones are shattered; My heart is like wax, melting into my stomach.
+PSA.21:16 My strength is dried up like an earthen vessel; My tongue cleaves to my throat; And You led me into the dust of death.
+PSA.21:17 For many dogs surrounded me; An assembly of evildoers enclosed me; They pierced my hands and my feet.
+PSA.21:18 I numbered all my bones, And they look and stare at me.
+PSA.21:19 They divided my garments among themselves, And for my clothing they cast lots.
+PSA.21:20 But You, O Lord, do not remove Your help from me; Attend to my aid.
+PSA.21:21 Deliver my soul from the sword And my only -begotten from the hand of the dog;
+PSA.21:22 Save me from the lion's mouth, My humiliation from the horns of the unicorns.
+PSA.21:23 I will declare Your name to my brethren; In the midst of the church I will sing to You.
+PSA.21:24 You who fear the Lord, praise Him. All you seed of Jacob, glorify Him; Fear Him, all you seed of Israel.
+PSA.21:25 For He has not despised nor scorned the beggar's supplication, Nor has He turned away His face from me; And when I cried out to Him, He heard me.
+PSA.21:26 My praise is from You in the great church; I will pay my vows before those who fear Him.
+PSA.21:27 The poor shall eat and be well-filled, And those who seek Him will praise the Lord; Their hearts will live unto ages of ages.
+PSA.21:28 All the ends of the world shall remember and turn to the Lord; And all families of the Gentiles shall worship before You,
+PSA.21:29 For the kingdom is the Lord's; And He is the Master of the Gentiles.
+PSA.21:30 All the prosperous of the earth ate and worshiped; All going down into the earth shall bow down before Him, And my soul lives with Him.
+PSA.21:31 And my seed shall serve Him; The coming generation shall be told of the Lord,
+PSA.21:32 And they will declare His righteousness To a people who will be born, because the Lord made them.
 
-PSA.25:1 Of David. Judge me, O Lord, for I walk in my innocence, And by hoping in the Lord, I shall not weaken. PSA.25:2 Prove me, O Lord, and test me, Try my reins and my heart in the fire. PSA.25:3 For Your mercy is before my eyes, And I was well-pleasing in Your truth. PSA.25:4 I have not sat down with vain councils, Nor will I go in with those who transgress the law. PSA.25:5 I hate the assem bly of ev ildoers, And I will not sit with the ungodly. PSA.25:6 I will wash my hands in innocence; So I will go about Your altar, O Lord, PSA.25:7 That I may hear the voice of praise And tell of all Your wondrous works. PSA.25:8 O Lord, I love the beauty of Your house, And the place where Your glory dwells. PSA.25:9 Do not destroy my soul with the ungodly, Nor my life with men of blood, PSA.25:10 In whose hands is lawlessness; Their right hand is full of bribes. PSA.25:11 But as for me, I walk in my innocence; Redeem me and have mercy on me. PSA.25:12 For my foot stands in uprightness; In the churches I will bless You, O Lord. ## Chapter 26
+## Chapter 22
 
-PSA.26:1 Of David; before he was anointed. The Lord is my light and my savior; whom shall I fear? The Lord is the defender of my life; whom shall I dread? PSA.26:2 When the wicked drew near against me to eat up my flesh, Those who afflict me and are my enemies, they weakened and fell. PSA.26:3 Though an arm y should array itself against me, my heart shall not be afraid; Though war should rise up against me, in this I shall hope. PSA.26:4 One thing I ask from the Lord; this I will seek, That I may dwell in the house of the Lord all the day s of my life, And behold the delights of the Lord, And visit His temple. PSA.26:5 For He hid me in His tabernacle in the day of my troubles; He sheltered me in the secret place of His tabernacle; He set me high upon a rock. PSA.26:6 And now, behold, He has lifted up my head above my enemies; I went around and offered in His tabernacle a sacrifice of joy; I will sing to the Lord, and praise Him with the harp. PSA.26:7 O Lord, hear my voice, wherein I cry; Have mercy on me and hear me. PSA.26:8 My heart speaks to You; my face seeks You; Your face, O Lord, I will seek. PSA.26:9 Do not turn away Your face from me; Do not turn away from Your servant in wrath; Be my helper; do not utterly cast me away, Nor forsake me, O God my savior. PSA.26:10 For my father and my m other forsook me, But the Lord laid hold of me. PSA.26:11 Instruct me, O Lord, in the way of Your law; Set me on a straight path because of my enemies. PSA.26:12 Do not deliver me to the souls of those who afflict me, For unjust witnesses rise up against me; And injustice lies to itself. PSA.26:13 I believe I shall see the Lord's goodness in the land of the living. PSA.26:14 Wait on the Lord; Be courageous, and strengthen your heart, And wait on the Lord. ## Chapter 27
+PSA.22:1 A psalm by David. The Lord is my shepherd; I shall not want.
+PSA.22:2 He makes me to lie down in green pastures; He leads me beside the still waters.
+PSA.22:3 He restores my soul; He leads me in the paths of righteousness For His name's sake.
+PSA.22:4 Yea, though I walk through the valley of the shadow of death, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me.
+PSA.22:5 You prepare a table before me in the presence of my enemies; You anoint my head with oil; My cup runs over.
+PSA.22:6 Surely goodness and mercy shall follow me All the days of my life; And I will dwell in the house of the Lord to the end of my days.
 
-PSA.27:1 Of David. To You, O Lord, I cry; O my God, may You not pass over me in silence; May You never be silent to me, Else I would become like those who go down into the pit. PSA.27:2 Hear the voice of my supplication when I pray to You And when I lift up my hands toward Your holy temple. PSA.27:3 May You not associate my soul with sinners, Nor destroy me with the workers of injustice, Who speak peace with their neighbor, But evil is in their hearts. PSA.27:4 Give them according to their works, According to the wickedness of their pursuits; Give them according to the works of their hands; Return to them their due reward. PSA.27:5 Because they do not understand the works of the Lord, Nor the deeds of His hands, You will destroy them, and never rebuild them. PSA.27:6 Blessed is the Lord, Because He heard the voice of my supplication. PSA.27:7 The Lord is my helper and my cham pion; In Him my heart hoped, and I was helped, And my flesh revived; And I will give thanks to Him willingly. PSA.27:8 The Lord is the strength of His people, And the protector of the salvation of His anointed. PSA.27:9 Save Your people, and bless Your inheritance; And shepherd them, and raise them up forever. ## Chapter 28
+## Chapter 23
 
-PSA.28:1 A psalm by David; the final day of the Feast of Tabernacles. B ring to the Lord, O you sons of God, Bring to the Lord the sons of ram s; Bring to the Lord glory and honor. PSA.28:2 Bring to the Lord the glory due His name; Worship the Lord in His holy court. PSA.28:3 The voice of the Lord is upon the waters; The God of glory thundered; The Lord is upon the many waters. PSA.28:4 The voice of the Lord is strong; The voice of the Lord is full of m ajesty. PSA.28:5 The voice of the Lord shatters cedars, And the Lord shall grind to powder the cedars of Lebanon; PSA.28:6 And He shall grind them fine like the y oung bull, and like Lebanon, But His beloved shall be like a son of unicorns. PSA.28:7 The voice of the Lord cuts through fiery flam es; PSA.28:8 The voice of the Lord shakes the desert, And the Lord will shake the desert of Kadesh. PSA.28:9 The voice of the Lord causes deer to calve, And uncovers the thickets; And in His temple, every one speaks of His glory. PSA.28:10 The Lord shall dwell in the deluge, And the Lord shall sit as King forever. PSA.28:11 The Lord will give strength to His people; The Lord will bless His people with peace. ## Chapter 29
+PSA.23:1 A psalm by David; on the first day of the week. The earth is the Lord's, and its fullness, The world and all who dwell therein.
+PSA.23:2 For He founded it upon the seas And prepared it upon the rivers.
+PSA.23:3 Who shall ascend to the mountain of the Lord? Who shall stand in His holy place?
+PSA.23:4 He who has innocent hands and a pure heart; He who does not lift up his soul to vanity; He who does not swear deceitfully to his neighbor.
+PSA.23:5 He shall receive blessing from the Lord And mercy from the God of his salvation.
+PSA.23:6 This is the generation of those who seek Him, Who seek the face of the God of Jacob. (Pause)
+PSA.23:7 Lift up the gates, O you rulers, And be lifted up, you everlasting doors, And the King of glory shall enter.
+PSA.23:8 Who is this King of glory? The Lord strong and mighty, The Lord powerful in battle.
+PSA.23:9 Lift up the gates, O you rulers, And be lifted up, you everlasting doors, And the King of glory shall enter.
+PSA.23:10 Who is this King of Glory? The Lord of hosts, He is the King of glory.
 
-PSA.29:1 For the End; the psalm of an ode at the consecration of the house; by David. PSA.29:2 I will exalt You, O Lord, for You lifted me up, And did not let my enemies rejoice over me. PSA.29:3 O Lord my God, I cry to You, and You will heal me. PSA.29:4 O Lord, You brought my soul out of Hades; You saved me from those who go down to the pit. PSA.29:5 Sing praises to the Lord, you saints of His, And give thanks at the remembrance of His holiness; PSA.29:6 For there is wrath in His anger, But life in His will; Weeping will lodge at evening, But great joy in the morning. PSA.29:7 As for me, I said in my prosperity, "I shall not be shaken forever."
-PSA.29:8 O Lord, in Your will, grant beauty and power; You turned away Your face, and I was troubled. PSA.29:9 I shall cry to You, O Lord, And to God I shall make supplication. PSA.29:10 What profit is there in my blood, When I go down into decay? Will the dust confess You? Or will it declare Your truth? PSA.29:11 The Lord heard, and had mercy on me; The Lord became my helper. PSA.29:12 You turned my lam entation into dancing for me; You tore up my sackcloth and clothed me with gladness, PSA.29:13 That my glory may sing praise to You, And not be pierced with sadness; O Lord my God, I shall give thanks to You forever. ## Chapter 30
+## Chapter 24
 
-PSA.30:1 For the End; a psalm by David; of ecstasy. PSA.30:2 I n You, O Lord, I hope; may I not be ashamed forever; In Your righteousness deliver and rescue me. PSA.30:3 Incline Your ear to me; Rescue me speedily; Be to me a God who protects me, And a house of refuge to save me. PSA.30:4 For You are my strength and my refuge, And for Your name's sake You will guide and sustain me; PSA.30:5 For You will bring me out from the snare they hid for me; For You are my protector. PSA.30:6 Into Your hands I shall entrust my spirit; You redeem ed me, O Lord God of truth. PSA.30:7 You hate those who m aintain their empty v anities, But I hope in the Lord. PSA.30:8 I will greatly rejoice and be glad because of Your mercy, For You beheld my hum iliation; You saved my soul from distress, PSA.30:9 And did not shut me up into the hands of the enemy; You set my feet in a wide place. PSA.30:10 Have mercy on me, O Lord, for I am afflicted; My eye is troubled with anger; So are my soul and my stom ach. PSA.30:11 For my life is wasted with grief And my y ears with sighing; My strength is weakened with poverty, And my bones are troubled. PSA.30:12 I became a reproach among all my enemies, And especially to all my neighbors, And a fear to all my acquaintances; Those who saw me outside fled from me. PSA.30:13 I am forgotten like one whose heart is lifeless; I was made like a vessel that is utterly broken. PSA.30:14 For I heard the blam e of many who dwell round about When they were gathered together against me, When they plotted to take my life. PSA.30:15 But as for me, I hope in You, O Lord; I said, "You are my God."
-PSA.30:16 My tim es are in Your hands; Deliver me from the hand of my enemies, And from those who persecute me. PSA.30:17 Make Your face shine upon Your servant; Save me in Your mercy. PSA.30:18 O Lord, do not let me be ashamed, because I call upon You; Let the ungodly be ashamed, And lead them down into Hades. PSA.30:19 Let deceitful lips become speechless When they speak lawlessness against the righteous With arrogance and contem pt. PSA.30:20 How great, O Lord, is the abundance of Your goodness You hide for those who fear You, Which You will work for those who hope in You In the sight of the sons of men. PSA.30:21 You shall hide them in the secret of Your presence from the disturbance of men; You will shelter them in Your tabernacle from the contradiction of tongues. PSA.30:22 Blessed is the Lord, For He m agnified His mercy in a fortified city. PSA.30:23 But I said in my ecstasy, "Indeed, I am cast away from the countenance of Your eyes." Therefore You heard the voice of my supplication When I cried to You. PSA.30:24 Lov e the Lord, all you His saints, For the Lord seeks out truth, And He repay s those who act with great arrogance. PSA.30:25 Be courageous, and let your heart be strengthened, All who hope in the Lord. ## Chapter 31
+PSA.24:1 A psalm by David. To You, O Lord, I lift up my soul, O my God.
+PSA.24:2 I trust in You; let me not be ashamed; Let not my enemies laugh at me.
+PSA.24:3 For all who wait upon You shall not be ashamed; Let those be ashamed who act lawlessly in vain.
+PSA.24:4 Make known Your ways to me, O Lord, And teach me Your paths.
+PSA.24:5 Lead me in Your truth and teach me, For You are the God of my salvation, And on You I wait all the day.
+PSA.24:6 Remember Your compassion, O Lord, And Your mercy, for they are from of old.
+PSA.24:7 Do not remember the sins of my youth, nor of my ignorance; But remember me according to Your mercy, Because of Your loving-kindness, O Lord.
+PSA.24:8 Good and upright is the Lord; Therefore He will instruct sinners in His way.
+PSA.24:9 He will guide the gentle in judgment; He will teach the gentle His ways.
+PSA.24:10 All the ways of the Lord are mercy and truth For those who seek His covenant and His testimonies.
+PSA.24:11 For Your name's sake, O Lord, Pardon my sin, for it is great.
+PSA.24:12 Who is the man who fears the Lord? He will instruct him in the way He chooses.
+PSA.24:13 His soul shall dwell among good things; His seed shall inherit the earth.
+PSA.24:14 The Lord is the strength of those who fear Him, And to those who fear Him, His name is the Lord, And He will show them His covenant.
+PSA.24:15 My eyes are always toward the Lord, For He shall pluck my feet out of the trap.
+PSA.24:16 Look upon me and have mercy on me, For I am only -begotten and poor.
+PSA.24:17 The afflictions of my heart have been widened; Bring me out of my distresses.
+PSA.24:18 Look on my humiliation and my pain And forgive all my sins.
+PSA.24:19 Look on my enemies, because they multiply, And they hate me with unjustified hatred.
+PSA.24:20 Keep my soul, and deliver me; Let me not be ashamed, because I hope in You.
+PSA.24:21 The innocent and the upright cleave to me Because I wait upon You, O Lord.
+PSA.24:22 Redeem Israel, O God, Out of all his afflictions.
 
-PSA.31:1 By David; concerning understanding. Blessed are those whose transgressions are forgiven, And whose sins are covered. PSA.31:2 Blessed is the man whose sin the Lord does not take into account, And in whose mouth there is no deceit. PSA.31:3 Because I kept silent, my bones grew old From my groaning all the day long; PSA.31:4 For day and night Your hand was heavy upon me; I became miserable when the thorn pierced me. (Pause)
+## Chapter 25
+
+PSA.25:1 Of David. Judge me, O Lord, for I walk in my innocence, And by hoping in the Lord, I shall not weaken.
+PSA.25:2 Prove me, O Lord, and test me, Try my reins and my heart in the fire.
+PSA.25:3 For Your mercy is before my eyes, And I was well-pleasing in Your truth.
+PSA.25:4 I have not sat down with vain councils, Nor will I go in with those who transgress the law.
+PSA.25:5 I hate the assembly of evildoers, And I will not sit with the ungodly.
+PSA.25:6 I will wash my hands in innocence; So I will go about Your altar, O Lord,
+PSA.25:7 That I may hear the voice of praise And tell of all Your wondrous works.
+PSA.25:8 O Lord, I love the beauty of Your house, And the place where Your glory dwells.
+PSA.25:9 Do not destroy my soul with the ungodly, Nor my life with men of blood,
+PSA.25:10 In whose hands is lawlessness; Their right hand is full of bribes.
+PSA.25:11 But as for me, I walk in my innocence; Redeem me and have mercy on me.
+PSA.25:12 For my foot stands in uprightness; In the churches I will bless You, O Lord.
+
+## Chapter 26
+
+PSA.26:1 Of David; before he was anointed. The Lord is my light and my savior; whom shall I fear? The Lord is the defender of my life; whom shall I dread?
+PSA.26:2 When the wicked drew near against me to eat up my flesh, Those who afflict me and are my enemies, they weakened and fell.
+PSA.26:3 Though an arm y should array itself against me, my heart shall not be afraid; Though war should rise up against me, in this I shall hope.
+PSA.26:4 One thing I ask from the Lord; this I will seek, That I may dwell in the house of the Lord all the days of my life, And behold the delights of the Lord, And visit His temple.
+PSA.26:5 For He hid me in His tabernacle in the day of my troubles; He sheltered me in the secret place of His tabernacle; He set me high upon a rock.
+PSA.26:6 And now, behold, He has lifted up my head above my enemies; I went around and offered in His tabernacle a sacrifice of joy; I will sing to the Lord, and praise Him with the harp.
+PSA.26:7 O Lord, hear my voice, wherein I cry; Have mercy on me and hear me.
+PSA.26:8 My heart speaks to You; my face seeks You; Your face, O Lord, I will seek.
+PSA.26:9 Do not turn away Your face from me; Do not turn away from Your servant in wrath; Be my helper; do not utterly cast me away, Nor forsake me, O God my savior.
+PSA.26:10 For my father and my mother forsook me, But the Lord laid hold of me.
+PSA.26:11 Instruct me, O Lord, in the way of Your law; Set me on a straight path because of my enemies.
+PSA.26:12 Do not deliver me to the souls of those who afflict me, For unjust witnesses rise up against me; And injustice lies to itself.
+PSA.26:13 I believe I shall see the Lord's goodness in the land of the living.
+PSA.26:14 Wait on the Lord; Be courageous, and strengthen your heart, And wait on the Lord.
+
+## Chapter 27
+
+PSA.27:1 Of David. To You, O Lord, I cry; O my God, may You not pass over me in silence; May You never be silent to me, Else I would become like those who go down into the pit.
+PSA.27:2 Hear the voice of my supplication when I pray to You And when I lift up my hands toward Your holy temple.
+PSA.27:3 May You not associate my soul with sinners, Nor destroy me with the workers of injustice, Who speak peace with their neighbor, But evil is in their hearts.
+PSA.27:4 Give them according to their works, According to the wickedness of their pursuits; Give them according to the works of their hands; Return to them their due reward.
+PSA.27:5 Because they do not understand the works of the Lord, Nor the deeds of His hands, You will destroy them, and never rebuild them.
+PSA.27:6 Blessed is the Lord, Because He heard the voice of my supplication.
+PSA.27:7 The Lord is my helper and my champion; In Him my heart hoped, and I was helped, And my flesh revived; And I will give thanks to Him willingly.
+PSA.27:8 The Lord is the strength of His people, And the protector of the salvation of His anointed.
+PSA.27:9 Save Your people, and bless Your inheritance; And shepherd them, and raise them up forever.
+
+## Chapter 28
+
+PSA.28:1 A psalm by David; the final day of the Feast of Tabernacles. Bring to the Lord, O you sons of God, Bring to the Lord the sons of rams; Bring to the Lord glory and honor.
+PSA.28:2 Bring to the Lord the glory due His name; Worship the Lord in His holy court.
+PSA.28:3 The voice of the Lord is upon the waters; The God of glory thundered; The Lord is upon the many waters.
+PSA.28:4 The voice of the Lord is strong; The voice of the Lord is full of majesty.
+PSA.28:5 The voice of the Lord shatters cedars, And the Lord shall grind to powder the cedars of Lebanon;
+PSA.28:6 And He shall grind them fine like the young bull, and like Lebanon, But His beloved shall be like a son of unicorns.
+PSA.28:7 The voice of the Lord cuts through fiery flames;
+PSA.28:8 The voice of the Lord shakes the desert, And the Lord will shake the desert of Kadesh.
+PSA.28:9 The voice of the Lord causes deer to calve, And uncovers the thickets; And in His temple, every one speaks of His glory.
+PSA.28:10 The Lord shall dwell in the deluge, And the Lord shall sit as King forever.
+PSA.28:11 The Lord will give strength to His people; The Lord will bless His people with peace.
+
+## Chapter 29
+
+PSA.29:1 For the End; the psalm of an ode at the consecration of the house; by David.
+PSA.29:2 I will exalt You, O Lord, for You lifted me up, And did not let my enemies rejoice over me.
+PSA.29:3 O Lord my God, I cry to You, and You will heal me.
+PSA.29:4 O Lord, You brought my soul out of Hades; You saved me from those who go down to the pit.
+PSA.29:5 Sing praises to the Lord, you saints of His, And give thanks at the remembrance of His holiness;
+PSA.29:6 For there is wrath in His anger, But life in His will; Weeping will lodge at evening, But great joy in the morning.
+PSA.29:7 As for me, I said in my prosperity, "I shall not be shaken forever."
+PSA.29:8 O Lord, in Your will, grant beauty and power; You turned away Your face, and I was troubled.
+PSA.29:9 I shall cry to You, O Lord, And to God I shall make supplication.
+PSA.29:10 What profit is there in my blood, When I go down into decay? Will the dust confess You? Or will it declare Your truth?
+PSA.29:11 The Lord heard, and had mercy on me; The Lord became my helper.
+PSA.29:12 You turned my lamentation into dancing for me; You tore up my sackcloth and clothed me with gladness,
+PSA.29:13 That my glory may sing praise to You, And not be pierced with sadness; O Lord my God, I shall give thanks to You forever.
+
+## Chapter 30
+
+PSA.30:1 For the End; a psalm by David; of ecstasy.
+PSA.30:2 In You, O Lord, I hope; may I not be ashamed forever; In Your righteousness deliver and rescue me.
+PSA.30:3 Incline Your ear to me; Rescue me speedily; Be to me a God who protects me, And a house of refuge to save me.
+PSA.30:4 For You are my strength and my refuge, And for Your name's sake You will guide and sustain me;
+PSA.30:5 For You will bring me out from the snare they hid for me; For You are my protector.
+PSA.30:6 Into Your hands I shall entrust my spirit; You redeemed me, O Lord God of truth.
+PSA.30:7 You hate those who maintain their empty vanities, But I hope in the Lord.
+PSA.30:8 I will greatlyrejoice and be glad because of Your mercy, For You beheld my humiliation; You saved my soul from distress,
+PSA.30:9 And did not shut me up into the hands of the enemy; You set my feet in a wide place.
+PSA.30:10 Have mercy on me, O Lord, for I am afflicted; My eye is troubled with anger; So are my soul and my stomach.
+PSA.30:11 For my life is wasted with grief And my years with sighing; My strength is weakened with poverty, And my bones are troubled.
+PSA.30:12 I became a reproach among all my enemies, And especially to all my neighbors, And a fear to all my acquaintances; Those who saw me outside fled from me.
+PSA.30:13 I am forgotten like one whose heart is lifeless; I was made like a vessel that is utterly broken.
+PSA.30:14 For I heard the blame of many who dwell round about When they were gathered together against me, When they plotted to take my life.
+PSA.30:15 But as for me, I hope in You, O Lord; I said, "You are my God."
+PSA.30:16 My times are in Your hands; Deliver me from the hand of my enemies, And from those who persecute me.
+PSA.30:17 Make Your face shine upon Your servant; Save me in Your mercy.
+PSA.30:18 O Lord, do not let me be ashamed, because I call upon You; Let the ungodly be ashamed, And lead them down into Hades.
+PSA.30:19 Let deceitful lips become speechless When they speak lawlessness against the righteous With arrogance and contempt.
+PSA.30:20 How great, O Lord, is the abundance of Your goodness You hide for those who fear You, Which You will work for those who hope in You In the sight of the sons of men.
+PSA.30:21 You shall hide them in the secret of Your presence from the disturbance of men; You will shelter them in Your tabernacle from the contradiction of tongues.
+PSA.30:22 Blessed is the Lord, For He magnified His mercy in a fortified city.
+PSA.30:23 But I said in my ecstasy, "Indeed, I am cast away from the countenance of Your eyes." Therefore You heard the voice of my supplication When I cried to You.
+PSA.30:24 Love the Lord, all you His saints, For the Lord seeks out truth, And He repays those who act with great arrogance.
+PSA.30:25 Be courageous, and let your heart be strengthened, All who hope in the Lord.
+
+## Chapter 31
+
+PSA.31:1 By David; concerning understanding. Blessed are those whose transgressions are forgiven, And whose sins are covered.
+PSA.31:2 Blessed is the man whose sin the Lord does not take into account, And in whose mouth there is no deceit.
+PSA.31:3 Because I kept silent, my bones grew old From my groaning all the day long;
+PSA.31:4 For day and night Your hand was heavy upon me; I became miserable when the thorn pierced me. (Pause)
 PSA.31:5 I made known my sin, And I did not hide my transgression; I said, "I will confess my transgression to the Lord," And You forgave the ungodliness of my sin. (Pause)
-PSA.31:6 For this cause, every one who is holy will pray to Him in a well-fitted tim e; Surely they will not draw near to Him in a flood of many waters. PSA.31:7 You are my refuge from the oppression of those who surround me; O my exceeding joy, redeem me from those who encircle me. (Pause)
-PSA.31:8 "I will give you understanding, and I will teach you in the way you should walk; I will fix My eyes on you. PSA.31:9 Do not be like the horse and the m ule, which have no understanding; You squeeze their jaws with bit and bridle, Lest they come near you."
-PSA.31:10 Many are the scourges of the sinner, But he who hopes in the Lord, mercy shall encircle him. PSA.31:11 Be glad in the Lord and rejoice greatly, O righteous ones, And boast, all you upright in heart. ## Chapter 32
+PSA.31:6 For this cause, every one who is holy will pray to Him in a well-fitted time; Surely they will not draw near to Him in a flood of many waters.
+PSA.31:7 You are my refuge from the oppression of those who surround me; O my exceeding joy, redeem me from those who encircle me. (Pause)
+PSA.31:8 "I will give you understanding, and I will teach you in the way you should walk; I will fix My eyes on you.
+PSA.31:9 Do not be like the horse and the mule, which have no understanding; You squeeze their jaws with bit and bridle, Lest they come near you."
+PSA.31:10 Many are the scourges of the sinner, But he who hopes in the Lord, mercy shall encircle him.
+PSA.31:11 Be glad in the Lord and rejoice greatly, O righteous ones, And boast, all you upright in heart.
 
-PSA.32:1 By David. R ejoice greatly in the Lord, O righteous ones; Praise is fitting for the upright. PSA.32:2 Give thanks to the Lord on the ly re; Sing praises to Him on a ten-stringed instrum ent. PSA.32:3 Sing to Him a new song; Sing praises beautifully with a shout. PSA.32:4 For the word of the Lord is right, And all His works are done in faithfulness. PSA.32:5 He loves mercy and judgment; The earth is full of the Lord's mercy. PSA.32:6 By the word of the Lord the heavens were established, And all the host of them by the breath of His mouth, PSA.32:7 Who gathers the waters of the sea together as in a wineskin, Who put the aby sses in storehouses. PSA.32:8 Let all the earth fear the Lord, And let all the world's inhabitants be shaken by Him; PSA.32:9 For He spoke, and they were made; He commanded, and they were created. PSA.32:10 The Lord scatters abroad the counsels of the nations, And He sets aside the reasoning of peoples; And He rejects the counsels of rulers. PSA.32:11 The counsel of the Lord abides forever, The thoughts of His heart from generation to generation. PSA.32:12 Blessed is the nation whose God is the Lord, The people He chose as an inheritance for Him self. PSA.32:13 The Lord looked attentively from heaven; He saw all the sons of men. PSA.32:14 From His prepared dwelling-place, He looked upon all who dwell on the earth, PSA.32:15 He who alone fashioned their hearts, He who understands all their works. PSA.32:16 A king is not saved by his large arm y, And a giant shall not be saved by his im m ense strength; PSA.32:17 A horse is a false hope for salvation, And it shall not be saved by its enorm ous power. PSA.32:18 Behold, the eyes of the Lord are on those who fear Him, On those who hope in His mercy, PSA.32:19 To deliver their souls from death And to keep them alive in fam ine. PSA.32:20 Our soul shall wait for the Lord; He is our helper and protector; PSA.32:21 For our heart shall be glad in Him, And we hope in His holy name. PSA.32:22 Let Your mercy, O Lord, be upon us, As we hope in You. ## Chapter 33
+## Chapter 32
 
-PSA.33:1 By David; when he changed his countenance before Abimelech, who let him go, and he departed. PSA.33:2 I will bless the Lord at all tim es; His praise shall continually be in my mouth. PSA.33:3 My soul shall be praised in the Lord; Let the gentle hear, and be glad. PSA.33:4 Oh, m agnify the Lord with me, And let us exalt His name together. PSA.33:5 I sought the Lord, and He heard me; And He delivered me from all my sojourning. PSA.33:6 Com e to Him, and be enlightened, And your face shall never be ashamed. PSA.33:7 This poor man cried, and the Lord heard him, And saved him from all his afflictions. PSA.33:8 The Angel of the Lord shall encam p around those who fear Him, And He will deliver them. PSA.33:9 Oh, taste and see that the Lord is good; Blessed is the man who hopes in Him. PSA.33:10 Fear the Lord, you His saints, For there is no want for those who fear Him. PSA.33:11 Rich men turned poor and went hungry; But those who seek the Lord shall not lack any good thing. (Pause)
-PSA.33:12 Com e, you children, listen to me; I will teach you the fear of the Lord. PSA.33:13 Who is the man who desires life, Who loves to see good day s? PSA.33:14 Keep your tongue from evil, And your lips from speaking deceit. PSA.33:15 Shun evil and do good; Seek peace and pursue it. PSA.33:16 The eyes of the Lord are upon the righteous, And His ears are open to their supplications. PSA.33:17 The Lord's face is against those who do evil, So as to destroy their remembrance from the earth. PSA.33:18 The righteous cried, and the Lord heard them; And He delivered them from all their afflictions. PSA.33:19 The Lord is near those who are brokenhearted, And He will save the hum ble in spirit. PSA.33:20 Many are the afflictions of the righteous, But He will deliver them from them all. PSA.33:21 The Lord shall guard all their bones; Not one of them shall be broken. PSA.33:22 The death of sinners is evil, And those who hate the righteous shall go wrong. PSA.33:23 The Lord will redeem the souls of His servants, And all who hope in Him shall not go wrong. ## Chapter 34
+PSA.32:1 By David. Rejoice greatly in the Lord, O righteous ones; Praise is fitting for the upright.
+PSA.32:2 Give thanks to the Lord on the lyre; Sing praises to Himon a ten-stringed instrument.
+PSA.32:3 Sing to Him a new song; Sing praises beautifully with a shout.
+PSA.32:4 For the word of the Lord is right, And all His works are done in faithfulness.
+PSA.32:5 He loves mercy and judgment; The earth is full of the Lord's mercy.
+PSA.32:6 By the word of the Lord the heavens were established, And all the host of them by the breath of His mouth,
+PSA.32:7 Who gathers the waters of the sea together as in a wineskin, Who put the abysses in storehouses.
+PSA.32:8 Let all the earth fear the Lord, And let all the world's inhabitants be shaken by Him;
+PSA.32:9 For He spoke, and they were made; He commanded, and they were created.
+PSA.32:10 The Lord scatters abroad the counsels of the nations, And He sets aside the reasoning of peoples; And He rejects the counsels of rulers.
+PSA.32:11 The counsel of the Lord abides forever, The thoughts of His heart from generation to generation.
+PSA.32:12 Blessed is the nation whose God is the Lord, The people He chose as an inheritance for Himself.
+PSA.32:13 The Lord looked attentively from heaven; He saw all the sons of men.
+PSA.32:14 From His prepared dwelling-place, He looked upon all who dwell on the earth,
+PSA.32:15 He who alone fashioned their hearts, He who understands all their works.
+PSA.32:16 A king is not saved by his large arm y, And a giant shall not be saved by his immense strength;
+PSA.32:17 A horse is a false hope for salvation, And it shall not be saved by its enormous power.
+PSA.32:18 Behold, the eyes of the Lord are on those who fear Him, On those who hope in His mercy,
+PSA.32:19 To deliver their souls from death And to keep them alive in famine.
+PSA.32:20 Our soul shall wait for the Lord; He is our helper and protector;
+PSA.32:21 For our heart shall be glad in Him, And we hope in His holy name.
+PSA.32:22 Let Your mercy, O Lord, be upon us, As we hope in You.
 
-PSA.34:1 By David. O Lord, judge those who injure me; Make war on those who make war on me. PSA.34:2 Take hold of weapon and shield, and rise up to my help. PSA.34:3 Bring forth the sword, and confine those in opposition who pursue me; Say to my soul, "I am your salvation."
-PSA.34:4 Let those who seek my soul be dishonored and sham ed; Let those who plot ev ils against me be turned backward and disappointed. PSA.34:5 Let them be like dust in the wind's face, And let the Angel of the Lord afflict them. PSA.34:6 Let their way be dark and slippery, And let the Angel of the Lord pursue them. PSA.34:7 For without cause they hid the destruction of their trap for me; In vain they reproached my soul. PSA.34:8 Let a trap they do not know catch them, And they themselves shall fall into the sam e trap. PSA.34:9 But my soul shall greatly rejoice in the Lord; My soul shall delight in His salvation. PSA.34:10 All my bones shall say, "O Lord, who is like You? You who deliver a poor man from hands stronger than he, And a poor and needy man from those who plunder him."
-PSA.34:11 Unjust witnesses rose up against me, Asking me things I knew nothing about; PSA.34:12 They repaid me evil for good, And bereavem ent for my soul. PSA.34:13 But I put on sackcloth when they troubled me, And I hum bled my soul with fasting; And my prayer will return into my bosom. PSA.34:14 Like a neighbor, like our brother, so they were well-pleasing; Like one who lam ents and is of a sad countenance, so I hum bled my self. PSA.34:15 But they were delighted, and were gathered together against me; Whips were gathered together against me, but I did not know it; They were torn asunder, y et they were not pierced to the heart. PSA.34:16 They tem pted me; they m ocked and sneered at me; They gnashed their teeth at me. PSA.34:17 O Lord, when will You look on this? Restore my soul from their m alice, My only -begotten from the lions. PSA.34:18 I will give thanks to You, O Lord, in the great church; I will praise You among a m ighty people. PSA.34:19 Let them not rejoice over me, those who are unjustly my enemies, Those who hate me without a cause, and wink with their eyes. PSA.34:20 For they spoke peace to me, But in their wrath they schem ed deceit, PSA.34:21 And opened wide their mouth at me, Say ing, "Well done! Well done! Our eyes saw it!"
-PSA.34:22 You saw this, O Lord; do not keep silence; O Lord, do not be far from me. PSA.34:23 Arise, O Lord, attend to my judgment, My God and my Lord, to my cause. PSA.34:24 Judge me according to Your righteousness, O Lord my God, And let them not rejoice against me; PSA.34:25 Let them not say in their hearts, "Well done! Well done, our soul!" Let them not say, "We swallowed him up!"
-PSA.34:26 May those who rejoice at my troubles be altogether dishonored and sham ed; Let those who boast against me be clothed with sham e and hum iliation. PSA.34:27 Let those who desire my righteousness greatly rejoice, and be glad, And let them say continually, "The Lord be m agnified," Those who desire His servant's peace. PSA.34:28 And my tongue shall meditate on Your righteousness, And on Your praise all the day long. ## Chapter 35
+## Chapter 33
 
-PSA.35:1 For the End; by David, the servant of the Lord. PSA.35:2 The transgressor, so as to sin, say s within him self, "There is no fear of God before his eyes"; PSA.35:3 For he acts deceitfully before Him, Lest He discover his lawlessness and hate it. PSA.35:4 The words of his mouth are lawlessness and deceit; He is unwilling to understand how to do good; PSA.35:5 He devises lawlessness on his bed; He sets him self in every way not good, And he does not abhor evil. PSA.35:6 O Lord, Your mercy is in heaven, And Your truth reaches to the clouds; PSA.35:7 Your righteousness is like the m ountains of God; Your judgments are a great deep; Men and cattle You will save, O Lord. PSA.35:8 How You multiply Your mercy, O God! The sons of men shall hope under the shelter of Your wings. PSA.35:9 They shall be intoxicated with the fatness of Your house, And You will give them drink from the abundant water of Your delight. PSA.35:10 For with You is the fountain of life; In Your light we shall see light. PSA.35:11 Extend Your mercy to those who know You, And Your righteousness to the upright in heart. PSA.35:12 Let not the foot of arrogance come against me, And may the hand of sinners not shake me. PSA.35:13 Those who work lawlessness fall there; They are cast out, and unable to stand. ## Chapter 36
+PSA.33:1 By David; when he changed his countenance before Abimelech, who let him go, and he departed.
+PSA.33:2 I will bless the Lord at all times; His praise shall continually be in my mouth.
+PSA.33:3 My soul shall be praised in the Lord; Let the gentle hear, and be glad.
+PSA.33:4 Oh, magnify the Lord with me, And let us exalt His name together.
+PSA.33:5 I sought the Lord, and He heard me; And He delivered me from all my sojourning.
+PSA.33:6 Come to Him, and be enlightened, And your face shall never be ashamed.
+PSA.33:7 This poor man cried, and the Lord heard him, And saved him from all his afflictions.
+PSA.33:8 The Angel of the Lord shall encamp around those who fear Him, And He will deliver them.
+PSA.33:9 Oh, taste and see that the Lord is good; Blessed is the man who hopes in Him.
+PSA.33:10 Fear the Lord, you His saints, For there is no want for those who fear Him.
+PSA.33:11 Rich men turned poor and went hungry; But those who seek the Lord shall not lack any good thing. (Pause)
+PSA.33:12 Come, you children, listen to me; I will teach you the fear of the Lord.
+PSA.33:13 Who is the man who desires life, Who loves to see good days?
+PSA.33:14 Keep your tongue from evil, And your lips from speaking deceit.
+PSA.33:15 Shun evil and do good; Seek peace and pursue it.
+PSA.33:16 The eyes of the Lord are upon the righteous, And His ears are open to their supplications.
+PSA.33:17 The Lord's face is against those who do evil, So as to destroy their remembrance from the earth.
+PSA.33:18 The righteous cried, and the Lord heard them; And He delivered them from all their afflictions.
+PSA.33:19 The Lord is near those who are brokenhearted, And He will save the humble in spirit.
+PSA.33:20 Many are the afflictions of the righteous, But He will deliver them from them all.
+PSA.33:21 The Lord shall guard all their bones; Not one of them shall be broken.
+PSA.33:22 The death of sinners is evil, And those who hate the righteous shall go wrong.
+PSA.33:23 The Lord will redeem the souls of His servants, And all who hope in Him shall not go wrong.
 
-PSA.36:1 Of David. D o not be env ious of those who do evil, Nor be jealous of those who work lawlessness; PSA.36:2 For like grass they shall be dried up quickly, And like green v egetables they shall swiftly wither. PSA.36:3 Hope in the Lord, and work goodness; Dwell in the land, and you shall be nurtured by its riches. PSA.36:4 Delight in the Lord, And He will give you the requests of your heart. PSA.36:5 Rev eal your way to the Lord, And hope in Him; and He will do it. PSA.36:6 He shall bring forth your righteousness as light, And your judgment as the noonday sun. PSA.36:7 Subm it to the Lord, and supplicate Him; Do not be env ious of him who prospers in his way, Nor of him who transgresses the law. PSA.36:8 Cease from wrath and forsake anger; Do not be env ious so as to do evil; PSA.36:9 Because ev ildoers will be destroy ed, But those who wait on the Lord, these shall inherit the earth. PSA.36:10 For in a little while the sinner shall no longer be present, And you will look for his place, but not find it. PSA.36:11 But the gentle shall inherit the earth, And they will delight in the fullness of peace. PSA.36:12 The sinner will closely observe the just man And gnash at him with his teeth. PSA.36:13 But the Lord shall laugh at him, Because He foresees his day will come. PSA.36:14 The sinners draw the sword And stretch their bow, To cast down the poor and needy, To slay the upright in heart. PSA.36:15 May their sword enter their heart, And may their bows be shattered. PSA.36:16 Better the little with the just man Than the great riches of sinners; PSA.36:17 For the arm s of sinners shall be shattered, But the Lord supports the righteous. PSA.36:18 The Lord knows the way s of the blam eless, And their inheritance shall be forever. PSA.36:19 They shall not be ashamed in an evil tim e, And in day s of fam ine they shall be filled. PSA.36:20 But the sinners shall perish, And the enemies of the Lord altogether, When they glorify and exalt themselves; Like sm oke they shall v anish away. PSA.36:21 The sinner borrows, but will not repay; However, the righteous man is com passionate, and gives; PSA.36:22 For those who bless Him shall inherit the earth, But those who curse Him shall be utterly destroy ed. PSA.36:23 The steps of a man are guided aright by the Lord, And he shall desire His way. PSA.36:24 When he falls, he shall not be broken to pieces, For the Lord supports him with His hand. PSA.36:25 I was y oung, but indeed I grew old; Yet I have not seen the righteous forsaken, Nor his seed begging bread. PSA.36:26 Day in and out, he is m erciful and lends, And his seed shall be a blessing. PSA.36:27 Turn away from evil, and do good, And dwell unto ages of ages; PSA.36:28 For the Lord loves judgment, And He will not abandon His holy ones; They shall be kept forever. But the lawless shall be banished, And the seed of the ungodly shall be utterly destroy ed. PSA.36:29 The righteous shall inherit the earth And dwell upon it unto ages of ages. PSA.36:30 The mouth of the righteous shall meditate on wisdom, And his tongue shall speak of judgment; PSA.36:31 The law of God is in his heart, And his steps shall not be tripped up. PSA.36:32 The sinner observes the righteous man And seeks to put him to death; PSA.36:33 But the Lord will not leave him in his hands, Nor condem n him, when He judges him. PSA.36:34 Wait on the Lord, and keep His way, And He shall exalt you to inherit the earth; You shall see the sinners when they are utterly destroy ed. PSA.36:35 I saw the ungodly greatly exalted And lifting him self up like the cedars of Lebanon; PSA.36:36 And I passed by, and behold, he was not; And I sought for him, But his place was not found. PSA.36:37 Keep innocence, and behold uprightness, For this is the rem nant for the peaceful man. PSA.36:38 But transgressors shall be utterly destroy ed together; The rem nants of the ungodly shall be utterly destroy ed. PSA.36:39 Now the salvation of the righteous is from the Lord, And He is their protector in tim e of affliction; PSA.36:40 And the Lord shall help them, and deliver them; And He shall deliver them from sinners, And save them, because they hope in Him. ## Chapter 37
+## Chapter 34
 
-PSA.37:1 A psalm by David; for remembrance concerning the Sabbath. PSA.37:2 O Lord, do not rebuke me in Your wrath, Nor chasten me in Your anger. PSA.37:3 For Your arrows are fixed in me, And Your hand rests on me; PSA.37:4 There is no healing in my flesh because of Your wrath; There is no peace in my bones because of my sins. PSA.37:5 For my transgressions rise up over my head; Like a heavy burden they are heavy on me. PSA.37:6 My wounds grow foul and fester Because of my folly. PSA.37:7 I suffer m isery, and I am utterly bowed down; I go all the day long with a sad face. PSA.37:8 For my loins are filled with m ockeries, And there is no healing in my flesh. PSA.37:9 I am afflicted and greatly hum bled; I roar because of the groaning of my heart. PSA.37:10 O Lord, all my desire is before You, And my groaning is not hidden from You. PSA.37:11 My heart is troubled; my strength fails me, And the light of my eyes, even this is not with me. PSA.37:12 My friends and neighbors draw near and stand against me, And my near of kin stand far off; PSA.37:13 And those who seek my soul use violence, And those who seek evil for me speak folly; And they meditate on deceit all the day long. PSA.37:14 But I like a deaf man do not hear, And I am like a m ute who does not open his mouth. PSA.37:15 I am like a man who does not hear, And who has no reproofs in his mouth. PSA.37:16 For in You, O Lord, I hope; You will hear, O Lord my God. PSA.37:17 For I said, "Let not my enemies rejoice over me, For when my foot was shaken, they boasted against me."
-PSA.37:18 For I am ready for wounds, And my pain is continually with me. PSA.37:19 For I will declare my transgression, And I will be anxious about my sin. PSA.37:20 But my enemies live, and are become stronger than I; And those who hate me unjustly are multiplied; PSA.37:21 Those who repaid me evil for good Slandered me, because I pursue righteousness; And they threw away my love as though it were a stinking corpse. PSA.37:22 Do not forsake me, O Lord; O my God, do not depart from me; PSA.37:23 Give heed to help me, O Lord of my salvation. ## Chapter 38
+PSA.34:1 By David. O Lord, judge those who injure me; Make war on those who make war on me.
+PSA.34:2 Take hold of weapon and shield, and rise up to my help.
+PSA.34:3 Bring forth the sword, and confine those in opposition who pursue me; Say to my soul, "I am your salvation."
+PSA.34:4 Let those who seek my soul be dishonored and shamed; Let those who plot evils against me be turned backward and disappointed.
+PSA.34:5 Let them be like dust in the wind's face, And let the Angel of the Lord afflict them.
+PSA.34:6 Let their way be dark and slippery, And let the Angel of the Lord pursue them.
+PSA.34:7 For without cause they hid the destruction of their trap for me; In vain they reproached my soul.
+PSA.34:8 Let a trap they do not know catch them, And they themselves shall fall into the same trap.
+PSA.34:9 But my soul shall greatlyrejoice in the Lord; My soul shall delight in His salvation.
+PSA.34:10 All my bones shall say, "O Lord, who is like You? You who deliver a poor man from hands stronger than he, And a poor and needy man from those who plunder him."
+PSA.34:11 Unjust witnesses rose up against me, Asking me things I knew nothing about;
+PSA.34:12 They repaid me evil for good, And bereavement for my soul.
+PSA.34:13 But I put on sackcloth when they troubled me, And I humbled my soul with fasting; And my prayer will return into my bosom.
+PSA.34:14 Like a neighbor, like our brother, so they were well-pleasing; Like one who laments and is of a sad countenance, so I humbled my self.
+PSA.34:15 But they were delighted, and were gathered together against me; Whips were gathered together against me, but I did not know it; They were torn asunder, yet they were not pierced to the heart.
+PSA.34:16 They tempted me; they mocked and sneered at me; They gnashed their teeth at me.
+PSA.34:17 O Lord, when will You look on this? Restore my soul from their malice, My only -begotten from the lions.
+PSA.34:18 I will give thanks to You, O Lord, in the great church; I will praise You among a mighty people.
+PSA.34:19 Let them not rejoice over me, those who are unjustly my enemies, Those who hate me without a cause, and wink with their eyes.
+PSA.34:20 For they spoke peace to me, But in their wrath they schemed deceit,
+PSA.34:21 And opened wide their mouth at me, Saying, "Well done! Well done! Our eyes saw it!"
+PSA.34:22 You saw this, O Lord; do not keep silence; O Lord, do not be far from me.
+PSA.34:23 Arise, O Lord, attend to my judgment, My God and my Lord, to my cause.
+PSA.34:24 Judge me according to Your righteousness, O Lord my God, And let them not rejoice against me;
+PSA.34:25 Let them not say in their hearts, "Well done! Well done, our soul!" Let them not say, "We swallowed him up!"
+PSA.34:26 May those who rejoice at my troubles be altogether dishonored and shamed; Let those who boast against me be clothed with shame and humiliation.
+PSA.34:27 Let those who desire my righteousness greatlyrejoice, and be glad, And let them say continually, "The Lord be magnified," Those who desire His servant's peace.
+PSA.34:28 And my tongue shall meditate on Your righteousness, And on Your praise all the day long.
 
-PSA.38:1 For the End, for Jeduthun; an ode by David. PSA.38:2 I said, "I will guard my way s, that I may not sin with my tongue; I set a guard on my mouth When the sinner stood against me."
-PSA.38:3 I was deadened and hum bled; and I kept silent, even from good; And my grief was stirred anew. PSA.38:4 My heart was hot within me, And in my m editation, fire will be kindled. I spoke with my tongue, PSA.38:5 "O Lord, make me to know my end, And what is the m easure of my day s, So as to know what I lack. PSA.38:6 Behold, You made my day s as a handbreadth, And my existence is as nothing before You; But all things are vanity, and every man living. (Pause)
-PSA.38:7 "Nev ertheless man walks about like a phantom; Surely in vain they stir themselves up; He stores up treasure, but does not know for whom he will gather it. PSA.38:8 And now what is my patience? Is it not the Lord? And my support is from You. PSA.38:9 Deliver me from all my transgressions; You made me a reproach to the undiscerning. PSA.38:10 I was dum b and opened not my mouth; For You are He who made me. PSA.38:11 Take away Your scourges from me; Because of the strength of Your hand I fainted. PSA.38:12 With rebukes You chasten a man for his transgression, And You cause his soul to waste away like a spider web; But every man stirs him self up in vain. (Pause)
-PSA.38:13 "Hear my prayer, O Lord, And give ear to my supplication; Do not be silent at my tears, For I am a sojourner before You, And a stranger, as were all my fathers. PSA.38:14 Do not forsake me, that I may revive Before I depart and am no longer here."
+## Chapter 35
+
+PSA.35:1 For the End; by David, the servant of the Lord.
+PSA.35:2 The transgressor, so as to sin, says within himself, "There is no fear of God before his eyes";
+PSA.35:3 For he acts deceitfully before Him, Lest He discover his lawlessness and hate it.
+PSA.35:4 The words of his mouth are lawlessness and deceit; He is unwilling to understand how to do good;
+PSA.35:5 He devises lawlessness on his bed; He sets himself in every way not good, And he does not abhor evil.
+PSA.35:6 O Lord, Your mercy is in heaven, And Your truth reaches to the clouds;
+PSA.35:7 Your righteousness is like the mountains of God; Your judgments are a great deep; Men and cattle You will save, O Lord.
+PSA.35:8 How You multiply Your mercy, O God! The sons of men shall hope under the shelter of Your wings.
+PSA.35:9 They shall be intoxicated with the fatness of Your house, And You will give them drink from the abundant water of Your delight.
+PSA.35:10 For with You is the fountain of life; In Your light we shall see light.
+PSA.35:11 Extend Your mercy to those who know You, And Your righteousness to the upright in heart.
+PSA.35:12 Let not the foot of arrogance come against me, And may the hand of sinners not shake me.
+PSA.35:13 Those who work lawlessness fall there; They are cast out, and unable to stand.
+
+## Chapter 36
+
+PSA.36:1 Of David. D o not be envious of those who do evil, Nor be jealous of those who work lawlessness;
+PSA.36:2 For like grass they shall be dried up quickly, And like green vegetables they shall swiftly wither.
+PSA.36:3 Hope in the Lord, and work goodness; Dwell in the land, and you shall be nurtured by its riches.
+PSA.36:4 Delight in the Lord, And He will give you the requests of your heart.
+PSA.36:5 Reveal your way to the Lord, And hope in Him; and He will do it.
+PSA.36:6 He shall bring forth your righteousness as light, And your judgment as the noondaysun.
+PSA.36:7 Submit to the Lord, and supplicate Him; Do not be envious of him who prospers in his way, Nor of him who transgresses the law.
+PSA.36:8 Cease from wrath and forsake anger; Do not be envious so as to do evil;
+PSA.36:9 Because evildoers will be destroyed, But those who wait on the Lord, these shall inherit the earth.
+PSA.36:10 For in a little while the sinner shall no longer be present, And you will look for his place, but not find it.
+PSA.36:11 But the gentle shall inherit the earth, And they will delight in the fullness of peace.
+PSA.36:12 The sinner will closely observe the just man And gnash at him with his teeth.
+PSA.36:13 But the Lord shall laugh at him, Because He foresees his day will come.
+PSA.36:14 The sinners draw the sword And stretch their bow, To cast down the poor and needy, To slay the upright in heart.
+PSA.36:15 May their sword enter their heart, And may their bows be shattered.
+PSA.36:16 Better the little with the just man Than the great riches of sinners;
+PSA.36:17 For the arms of sinners shall be shattered, But the Lord supports the righteous.
+PSA.36:18 The Lord knows the ways of the blameless, And their inheritance shall be forever.
+PSA.36:19 They shall not be ashamed in an evil time, And in days of famine they shall be filled.
+PSA.36:20 But the sinners shall perish, And the enemies of the Lord altogether, When they glorify and exalt themselves; Like smoke they shall vanish away.
+PSA.36:21 The sinner borrows, but will not repay; However, the righteous man is compassionate, and gives;
+PSA.36:22 For those who bless Him shall inherit the earth, But those who curse Him shall be utterly destroyed.
+PSA.36:23 The steps of a man are guided aright by the Lord, And he shall desire His way.
+PSA.36:24 When he falls, he shall not be broken to pieces, For the Lord supports him with His hand.
+PSA.36:25 I was young, but indeed I grew old; Yet I have not seen the righteous forsaken, Nor his seed begging bread.
+PSA.36:26 Day in and out, he is merciful and lends, And his seed shall be a blessing.
+PSA.36:27 Turn away from evil, and do good, And dwell unto ages of ages;
+PSA.36:28 For the Lord loves judgment, And He will not abandon His holy ones; They shall be kept forever. But the lawless shall be banished, And the seed of the ungodly shall be utterly destroyed.
+PSA.36:29 The righteous shall inherit the earth And dwell upon it unto ages of ages.
+PSA.36:30 The mouth of the righteous shall meditate on wisdom, And his tongue shall speak of judgment;
+PSA.36:31 The law of God is in his heart, And his steps shall not be tripped up.
+PSA.36:32 The sinner observes the righteous man And seeks to put him to death;
+PSA.36:33 But the Lord will not leave him in his hands, Nor condemn him, when He judges him.
+PSA.36:34 Wait on the Lord, and keep His way, And He shall exalt you to inherit the earth; You shall see the sinners when they are utterly destroyed.
+PSA.36:35 I saw the ungodly greatly exalted And lifting himself up like the cedars of Lebanon;
+PSA.36:36 And I passed by, and behold, he was not; And I sought for him, But his place was not found.
+PSA.36:37 Keep innocence, and behold uprightness, For this is the remnant for the peaceful man.
+PSA.36:38 But transgressors shall be utterly destroyed together; The remnants of the ungodly shall be utterly destroyed.
+PSA.36:39 Now the salvation of the righteous is from the Lord, And He is their protector in time of affliction;
+PSA.36:40 And the Lord shall help them, and deliver them; And He shall deliver them from sinners, And save them, because they hope in Him.
+
+## Chapter 37
+
+PSA.37:1 A psalm by David; for remembrance concerning the Sabbath.
+PSA.37:2 O Lord, do not rebuke me in Your wrath, Nor chasten me in Your anger.
+PSA.37:3 For Your arrows are fixed in me, And Your hand rests on me;
+PSA.37:4 There is no healing in my flesh because of Your wrath; There is no peace in my bones because of my sins.
+PSA.37:5 For my transgressions rise up over my head; Like a heavy burden they are heavy on me.
+PSA.37:6 My wounds grow foul and fester Because of my folly.
+PSA.37:7 I suffer misery, and I am utterly bowed down; I go all the day long with a sad face.
+PSA.37:8 For my loins are filled with mockeries, And there is no healing in my flesh.
+PSA.37:9 I am afflicted and greatly humbled; I roar because of the groaning of my heart.
+PSA.37:10 O Lord, all my desire is before You, And my groaning is not hidden from You.
+PSA.37:11 My heart is troubled; my strength fails me, And the light of my eyes, even this is not with me.
+PSA.37:12 My friends and neighbors draw near and stand against me, And my near of kin stand far off;
+PSA.37:13 And those who seek my soul use violence, And those who seek evil for me speak folly; And they meditate on deceit all the day long.
+PSA.37:14 But I like a deaf man do not hear, And I am like a mute who does not open his mouth.
+PSA.37:15 I am like a man who does not hear, And who has no reproofs in his mouth.
+PSA.37:16 For in You, O Lord, I hope; You will hear, O Lord my God.
+PSA.37:17 For I said, "Let not my enemies rejoice over me, For when my foot was shaken, they boasted against me."
+PSA.37:18 For I am ready for wounds, And my pain is continually with me.
+PSA.37:19 For I will declare my transgression, And I will be anxious about my sin.
+PSA.37:20 But my enemies live, and are become stronger than I; And those who hate me unjustly are multiplied;
+PSA.37:21 Those who repaid me evil for good Slandered me, because I pursue righteousness; And they threw away my love as though it were a stinking corpse.
+PSA.37:22 Do not forsake me, O Lord; O my God, do not depart from me;
+PSA.37:23 Give heed to help me, O Lord of my salvation.
+
+## Chapter 38
+
+PSA.38:1 For the End, for Jeduthun; an ode by David.
+PSA.38:2 I said, "I will guard my ways, that I may not sin with my tongue; I set a guard on my mouth When the sinner stood against me."
+PSA.38:3 I was deadened and humbled; and I kept silent, even from good; And my grief was stirred anew.
+PSA.38:4 My heart was hot within me, And in my meditation, fire will be kindled. I spoke with my tongue,
+PSA.38:5 "O Lord, make me to know my end, And what is the measure of my days, So as to know what I lack.
+PSA.38:6 Behold, You made my days as a handbreadth, And my existence is as nothing before You; But all things are vanity, and every man living. (Pause)
+PSA.38:7 "Nevertheless man walks about like a phantom; Surely in vain they stir themselves up; He stores up treasure, but does not know for whom he will gather it.
+PSA.38:8 And now what is my patience? Is it not the Lord? And my support is from You.
+PSA.38:9 Deliver me from all my transgressions; You made me a reproach to the undiscerning.
+PSA.38:10 I was dumb and opened not my mouth; For You are He who made me.
+PSA.38:11 Take away Your scourges from me; Because of the strength of Your hand I fainted.
+PSA.38:12 With rebukes You chasten a man for his transgression, And You cause his soul to waste away like a spider web; But every man stirs himself up in vain. (Pause)
+PSA.38:13 "Hear my prayer, O Lord, And give ear to my supplication; Do not be silent at my tears, For I am a sojourner before You, And a stranger, as were all my fathers.
+PSA.38:14 Do not forsake me, that I may revive Before I depart and am no longer here."
 
 ## Chapter 39
 
-PSA.39:1 For the End; a psalm by David. PSA.39:2 I waited patiently for the Lord, and He heeded me; And He heard my supplication, PSA.39:3 And brought me up out of a miserable pit And from m iry clay; And He established my feet on a rock And kept straight my steps. PSA.39:4 He put a new song in my mouth, A hy m n to our God; Many will see and be afraid, And shall hope in the Lord. PSA.39:5 Blessed is the man whose hope is the name of the Lord, And who did not look into v anities and false frenzies. PSA.39:6 Many, O Lord my God, are the wonders You perform ed, And in Your thoughts there is no one who shall be likened to You; I declared and said, "They are multiplied beyond num ber. PSA.39:7 Sacrifice and offering You did not will; But a body You prepared for me; A whole burnt offering and a sin offering You did not require."
-PSA.39:8 Then I said, "Behold, I come (it is written of me in the v olum e of the book); PSA.39:9 I willed to do Your will, O my God, And Your law in the midst of my heart."
-PSA.39:10 I proclaim ed righteousness in the great church; Behold, I shall not restrain my lips, O Lord, You know. PSA.39:11 I did not hide Your righteousness in my heart; I declared Your truth and Your salvation; I did not hide Your mercy and Your truth from the great congregation. PSA.39:12 O Lord, do not rem ov e Your com passion from me; May Your mercy and Your truth take hold of me continually. PSA.39:13 For ev ils without num ber surrounded me; My transgressions ov erpowered me, and I could not see; They multiplied more than the hairs of my head, And my heart failed me. PSA.39:14 Be pleased, O Lord, to deliver me; O Lord, give heed to help me. PSA.39:15 May those who seek my soul to make away with it Be disgraced and confounded together; May those who wish evil for me be turned back and disgraced; PSA.39:16 May those who say to me, "Well done! Well done!" Receive their sham e im m ediately. PSA.39:17 May all who seek You, O Lord, Rejoice exceedingly, and be glad in You; And may those who love Your salvation Say continually, "The Lord be m agnified."
-PSA.39:18 But I am poor and needy; the Lord will take care of me. You are my helper and my protector; O my God, do not delay. ## Chapter 40
+PSA.39:1 For the End; a psalm by David.
+PSA.39:2 I waited patiently for the Lord, and He heeded me; And He heard my supplication,
+PSA.39:3 And brought me up out of a miserable pit And from miry clay; And He established my feet on a rock And kept straight my steps.
+PSA.39:4 He put a new song in my mouth, A hymn to our God; Many will see and be afraid, And shall hope in the Lord.
+PSA.39:5 Blessed is the man whose hope is the name of the Lord, And who did not look into vanities and false frenzies.
+PSA.39:6 Many, O Lord my God, are the wonders You performed, And in Your thoughts there is no one who shall be likened to You; I declared and said, "They are multiplied beyond number.
+PSA.39:7 Sacrifice and offering You did not will; But a body You prepared for me; A whole burnt offering and a sin offering You did not require."
+PSA.39:8 Then I said, "Behold, I come (it is written of me in the volume of the book);
+PSA.39:9 I willed to do Your will, O my God, And Your law in the midst of my heart."
+PSA.39:10 I proclaimed righteousness in the great church; Behold, I shall not restrain my lips, O Lord, You know.
+PSA.39:11 I did not hide Your righteousness in my heart; I declared Your truth and Your salvation; I did not hide Your mercy and Your truth from the great congregation.
+PSA.39:12 O Lord, do not remove Your compassion from me; May Your mercy and Your truth take hold of me continually.
+PSA.39:13 For evils without number surrounded me; My transgressions overpowered me, and I could not see; They multiplied more than the hairs of my head, And my heart failed me.
+PSA.39:14 Be pleased, O Lord, to deliver me; O Lord, give heed to help me.
+PSA.39:15 May those who seek my soul to make away with it Be disgraced and confounded together; May those who wish evil for me be turned back and disgraced;
+PSA.39:16 May those who say to me, "Well done! Well done!" Receive their shame immediately.
+PSA.39:17 May all who seek You, O Lord, Rejoice exceedingly, and be glad in You; And may those who love Your salvation Say continually, "The Lord be magnified."
+PSA.39:18 But I am poor and needy; the Lord will take care of me. You are my helper and my protector; O my God, do not delay.
 
-PSA.40:1 For the End; a psalm by David. PSA.40:2 Blessed is he who understands the poor and needy; The Lord will deliver him in an evil day. PSA.40:3 May the Lord keep him, and give him life, And make him blessed on the earth, And not deliver him into the hands of his enemies. PSA.40:4 May the Lord help him on his bed of pain; You turned his bed from sickness to wholeness. PSA.40:5 O Lord, I said, "Have mercy on me; Heal my soul, for I have sinned against You."
+## Chapter 40
+
+PSA.40:1 For the End; a psalm by David.
+PSA.40:2 Blessed is he who understands the poor and needy; The Lord will deliver him in an evil day.
+PSA.40:3 May the Lord keep him, and give him life, And make him blessed on the earth, And not deliver him into the hands of his enemies.
+PSA.40:4 May the Lord help himon his bed of pain; You turned his bed from sickness to wholeness.
+PSA.40:5 O Lord, I said, "Have mercy on me; Heal my soul, for I have sinned against You."
 PSA.40:6 My enemies speak evil things against me, "When will he die, and his name perish?"
-PSA.40:7 And if he com es to see us, he speaks in vain; His heart gathered lawlessness to itself; He went forth and spoke the sam e. PSA.40:8 All my enemies whisper together against me; Against me they devise ev ils for me; PSA.40:9 They testify a lawless word against me, "Since he is asleep, will he rise up again?"
-PSA.40:10 For even the man of my peace, in whom I hoped, He who ate my bread, dealt deceptively with me; PSA.40:11 But You, O Lord, have mercy on me, And raise me up; and I will repay them. PSA.40:12 By this I know You are pleased with me, Because my enemy did not rejoice over me. PSA.40:13 And because of my innocence, You supported me, And established me before You forever. PSA.40:14 Blessed is the Lord God of Israel from ev erlasting to ev erlasting. Am en! Am en! ## Chapter 41
+PSA.40:7 And if he comes to see us, he speaks in vain; His heart gathered lawlessness to itself; He went forth and spoke the same.
+PSA.40:8 All my enemies whisper together against me; Against me they devise evils for me;
+PSA.40:9 They testify a lawless word against me, "Since he is asleep, will he rise up again?"
+PSA.40:10 For even the man of my peace, in whom I hoped, He who ate my bread, dealt deceptively with me;
+PSA.40:11 But You, O Lord, have mercy on me, And raise me up; and I will repay them.
+PSA.40:12 By this I know You are pleased with me, Because my enemy did not rejoice over me.
+PSA.40:13 And because of my innocence, You supported me, And established me before You forever.
+PSA.40:14 Blessed is the Lord God of Israel from everlasting to everlasting. Amen! Amen!
 
-PSA.41:1 For the End; for understanding; for the sons of Korah. PSA.41:2 A s the deer longs for the springs of waters, So my soul longs for You, O God. PSA.41:3 My soul thirsts for the living God; When shall I come and appear before the face of God? PSA.41:4 My tears were my bread day and night, When they said to me each day, "Where is your God?"
-PSA.41:5 I rem em bered these things, and poured out my soul within me; For I shall enter the place of the wondrous tabernacle, even the house of God, To celebrate a festival with a voice of great joy and praise. PSA.41:6 Why are you so sad, O my soul? And why do you trouble me? Hope in God, for I will give thanks to Him; My God is the salvation of my countenance. PSA.41:7 My soul within me was troubled; Therefore I will remember You From the land of the Jordan and Herm on, From the sm all m ountain. PSA.41:8 Deep calls to deep at the sound of Your waterfalls; All Your waves and billows went over me. PSA.41:9 By day the Lord shall command His mercy, And by night His ode will be with me, A prayer to the God of my life. PSA.41:10 I will say to God, "You are my protector. Why have You forgotten me? Why do I go about with a sad face when my enemies afflict me?"
+## Chapter 41
+
+PSA.41:1 For the End; for understanding; for the sons of Korah.
+PSA.41:2 A s the deer longs for the springs of waters, So my soul longs for You, O God.
+PSA.41:3 My soul thirsts for the living God; When shall I come and appear before the face of God?
+PSA.41:4 My tears were my bread day and night, When they said to me each day, "Where is your God?"
+PSA.41:5 I remembered these things, and poured out my soul within me; For I shall enter the place of the wondrous tabernacle, even the house of God, To celebrate a festival with a voice of great joy and praise.
+PSA.41:6 Why are you so sad, O my soul? And why do you trouble me? Hope in God, for I will give thanks to Him; My God is the salvation of my countenance.
+PSA.41:7 My soul within me was troubled; Therefore I will remember You From the land of the Jordan and Hermon, From the small mountain.
+PSA.41:8 Deep calls to deep at the sound of Your waterfalls; All Your waves and billows went over me.
+PSA.41:9 By day the Lord shall command His mercy, And by night His ode will be with me, A prayer to the God of my life.
+PSA.41:10 I will say to God, "You are my protector. Why have You forgotten me? Why do I go about with a sad face when my enemies afflict me?"
 PSA.41:11 Those who afflict me revile me when they break my bones, When they speak to me each day, saying, "Where is your God?"
-PSA.41:12 Why are you so sad, O my soul? And why do you trouble me? Hope in God, for I will give thanks to Him. My God is the salvation of my countenance. ## Chapter 42
+PSA.41:12 Why are you so sad, O my soul? And why do you trouble me? Hope in God, for I will give thanks to Him. My God is the salvation of my countenance.
 
-PSA.42:1 A psalm by David. Judge me, O God, and pass judgment in my cause against an unholy nation; Deliver me from the unjust and deceitful man. PSA.42:2 For You, O God, are my strength; Why do You cast me off? Why do I go about with a sad face when my enemy afflicts me? PSA.42:3 Send out Your light and Your truth; They guided me and led me to Your holy m ountain And to Your tabernacles. PSA.42:4 And I will come to the altar of God, To the God who m akes glad my y outh; I will give thanks to You with the ly re, O God, my God. PSA.42:5 Why are you so sad, O my soul? And why do you trouble me? Hope in God, for I will give thanks to Him; My God is the salvation of my countenance. ## Chapter 43
+## Chapter 42
 
-PSA.43:1 For the End; a psalm for the sons of Korah; for understanding. PSA.43:2 O God, we heard with our ears; Our fathers proclaim ed it to us, The work You perform ed in their day s, in day s of old. PSA.43:3 Your hand utterly destroy ed the nations, and You planted them; You afflicted and cast out peoples. PSA.43:4 For they did not inherit the land with their sword, And their arm did not save them; But it was Your right hand and Your arm, And the light of Your countenance, Because You took pleasure in them. PSA.43:5 You Yourself are my King and God, Who com m ands salvation for Jacob; PSA.43:6 In You we shall push back our enemies, And in Your name we shall scorn those who rise up against us. PSA.43:7 For I will not hope in my bow, And my sword will not save me; PSA.43:8 For You saved us from those who afflict us, And You disgraced those who hate us. PSA.43:9 We shall praise God all day long, And we shall give thanks to Your name forever. (Pause)
-PSA.43:10 But now You rejected and disgraced us, And You will not go out with our arm ies; PSA.43:11 You turned us back from our enemies, And those who hate us took spoil for themselves. PSA.43:12 You gave us as sheep to be eaten, And You scattered us among the nations. PSA.43:13 You bound Your people without honor, And there was no abundance given to ransom them. PSA.43:14 You made us a reproach to our neighbors And a scorn and derision to those around us; PSA.43:15 You made us a by word among the nations And a shaking of the head among the peoples. PSA.43:16 All day long my disgrace is before me, And the sham e of my face covers me, PSA.43:17 Because of the voice of him who reviles and chatters, Because of the face of the enemy and persecutor. PSA.43:18 All these things cam e upon us, but we have not forgotten You, And we did not act unjustly with Your covenant; PSA.43:19 Our heart did not draw back, Yet you turned our steps from Your way. PSA.43:20 You hum bled us in a place of affliction, And the shadow of death covered us. PSA.43:21 If we forget the name of our God, And spread out our hands to a foreign god, PSA.43:22 Would not God search this out? For He knows the secrets of the heart. PSA.43:23 For Your sake we are put to death all day long, We are counted as sheep for the slaughter. PSA.43:24 Awake; why do You sleep, O Lord? Arise; and do not reject us to the end. PSA.43:25 Why do You turn away Your face, And forget our poverty and our affliction? PSA.43:26 For our soul was hum bled to the dust, And our belly was joined to the ground. PSA.43:27 Arise, O Lord; help us, And redeem us for Your name's sake. ## Chapter 44
+PSA.42:1 A psalm by David. Judge me, O God, and pass judgment in my cause against an unholy nation; Deliver me from the unjust and deceitful man.
+PSA.42:2 For You, O God, are my strength; Why do You cast me off? Why do I go about with a sad face when my enemy afflicts me?
+PSA.42:3 Send out Your light and Your truth; They guided me and led me to Your holy mountain And to Your tabernacles.
+PSA.42:4 And I will come to the altar of God, To the God who makes glad my youth; I will give thanks to You with the lyre, O God, my God.
+PSA.42:5 Why are you so sad, O my soul? And why do you trouble me? Hope in God, for I will give thanks to Him; My God is the salvation of my countenance.
 
-PSA.44:1 For the End, concerning things that shall be changed; to the sons of Korah for understanding; an ode concerning the Beloved One. PSA.44:2 M y heart ov erflowed with a good word; I tell my works to the King; My tongue is the pen of a swift-writing scribe. PSA.44:3 You are more beautiful than the sons of men; Grace was poured out on Your lips; Therefore God blessed You forever. PSA.44:4 Gird Your sword upon Your thigh, O Mighty One, In Your splendor and Your beauty. PSA.44:5 And stretch Your bow, and grant prosperity, and reign Because of truth, gentleness, and righteousness, And Your right hand shall guide You wondrously. PSA.44:6 Your arrows are sharp, O Mighty One (The peoples shall fall under You), In the heart of the King's enemies. PSA.44:7 Your throne, O God, is forever and ever; Your roy al scepter is a scepter of uprightness. PSA.44:8 You loved righteousness and hated lawlessness; Therefore God, Your God, anointed You With the oil of gladness more than Your com panions. PSA.44:9 My rrh and stacte and cassia pour forth from Your garm ents, From the iv ory palaces from which they gladdened You. PSA.44:10 There are daughters of kings in Your honor; The queen stood at Your right hand in apparel interwoven with gold, And adorned and em broidered with v arious colors. PSA.44:11 Listen, O daughter, behold and incline your ear, And forget your people and your father's house; PSA.44:12 For the King desired your beauty, For He is your Lord. PSA.44:13 And the daughters of Ty re shall worship Him with gifts; The rich among the people shall entreat your favor. PSA.44:14 All her glory as the King's daughter is within, Adorned and em broidered with golden tassels. PSA.44:15 The v irgins behind her shall be brought to the King; Her neighbors shall be brought to You; PSA.44:16 They shall be brought with gladness and rejoicing; They shall be led into the temple of the King. PSA.44:17 In place of your fathers, sons shall be born to you; You shall make them rulers over all the earth. PSA.44:18 They shall remember your name from generation to generation; Therefore, peoples shall give thanks to you Forever and unto ages of ages. ## Chapter 45
+## Chapter 43
 
-PSA.45:1 For the End; for the sons of Korah; a psalm concerning hidden things. PSA.45:2 G od is our refuge and power; A help in afflictions that severely befall us. PSA.45:3 Therefore we will not fear when the earth is troubled, And when the m ountains are rem ov ed into the hearts of the seas. PSA.45:4 Their waters roared and were troubled; The m ountains were troubled by His m ight. (Pause)
-PSA.45:5 The torrents of the river gladden the city of God; The Most High sanctified His tabernacle. PSA.45:6 God is in her midst; she shall not be shaken; God shall help her early in the morning. PSA.45:7 The nations were troubled; kingdom s fell; He uttered His voice; the earth shook. PSA.45:8 The Lord of hosts is with us; The God of Jacob is our protector. (Pause)
-PSA.45:9 Com e, behold the works of the Lord, The wonders He wrought on the earth. PSA.45:10 When He m akes wars cease to the ends of the earth, He will break the bow and shatter the weapon; And He will burn up the shields in fire. PSA.45:11 Be still, and know that I am God; I will be exalted among the nations; I will be exalted in the earth. PSA.45:12 The Lord of hosts is with us, The God of Jacob is our protector. ## Chapter 46
+PSA.43:1 For the End; a psalm for the sons of Korah; for understanding.
+PSA.43:2 O God, we heard with our ears; Our fathers proclaimed it to us, The work You performed in their days, in days of old.
+PSA.43:3 Your hand utterly destroyed the nations, and You planted them; You afflicted and cast out peoples.
+PSA.43:4 For they did not inherit the land with their sword, And their arm did not save them; But it was Your right hand and Your arm, And the light of Your countenance, Because You took pleasure in them.
+PSA.43:5 You Yourself are my King and God, Who commands salvation for Jacob;
+PSA.43:6 In You we shall push back our enemies, And in Your name we shall scorn those who rise up against us.
+PSA.43:7 For I will not hope in my bow, And my sword will not save me;
+PSA.43:8 For You saved us from those who afflict us, And You disgraced those who hate us.
+PSA.43:9 We shall praise God all day long, And we shall give thanks to Your name forever. (Pause)
+PSA.43:10 But now You rejected and disgraced us, And You will not go out with our armies;
+PSA.43:11 You turned us back from our enemies, And those who hate us took spoil for themselves.
+PSA.43:12 You gave us as sheep to be eaten, And You scattered us among the nations.
+PSA.43:13 You bound Your people without honor, And there was no abundance given to ransom them.
+PSA.43:14 You made us a reproach to our neighbors And a scorn and derision to those around us;
+PSA.43:15 You made us a by word among the nations And a shaking of the head among the peoples.
+PSA.43:16 All day long my disgrace is before me, And the shame of my face covers me,
+PSA.43:17 Because of the voice of him who reviles and chatters, Because of the face of the enemy and persecutor.
+PSA.43:18 All these things came upon us, but we have not forgotten You, And we did not act unjustly with Your covenant;
+PSA.43:19 Our heart did not draw back, Yet you turned our steps from Your way.
+PSA.43:20 You humbled us in a place of affliction, And the shadow of death covered us.
+PSA.43:21 If we forget the name of our God, And spread out our hands to a foreign god,
+PSA.43:22 Would not God search this out? For He knows the secrets of the heart.
+PSA.43:23 For Your sake we are put to death all day long, We are counted as sheep for the slaughter.
+PSA.43:24 Awake; why do You sleep, O Lord? Arise; and do not reject us to the end.
+PSA.43:25 Why do You turn away Your face, And forget our poverty and our affliction?
+PSA.43:26 For our soul was humbled to the dust, And our belly was joined to the ground.
+PSA.43:27 Arise, O Lord; help us, And redeem us for Your name's sake.
 
-PSA.46:1 For the End; a psalm for the sons of Korah. PSA.46:2 O h, clap your hands, all you nations; Shout to God with the voice of rejoicing; PSA.46:3 For the Lord Most High is fearsom e, A great King over all the earth. PSA.46:4 He subdued the peoples under us And the nations under our feet. PSA.46:5 He chose us for His inheritance, Jacob's beauty, which He loved. (Pause)
-PSA.46:6 God ascended with a shout, The Lord with the sound of the trum pet. PSA.46:7 Sing praises to God; sing praises; Sing praises to our King; sing praises; PSA.46:8 For God is King of all the earth; Sing praises with understanding. PSA.46:9 God reigns over the nations; God sits on His holy throne. PSA.46:10 The rulers of the people gather together With the God of Abraham, For God's m ighty ones of the earth are greatly exalted. ## Chapter 47
+## Chapter 44
 
-PSA.47:1 A psalm of an ode for the sons of Korah; for the second day of the week. PSA.47:2 G reat is the Lord, and greatly to be praised In the city of our God, in His holy m ountain, PSA.47:3 Well-rooted in joy throughout the earth, The m ountains of Zion, the sides of the north, The city of the great King; PSA.47:4 God is known in her palaces When He helps her. PSA.47:5 For behold, the kings assem bled; They cam e together; PSA.47:6 They saw her; thus they m arv eled; They were troubled; they were shaken; PSA.47:7 Trem bling laid hold of them; There were labor pains, like a wom an giving birth. PSA.47:8 You shall wreck the ships of Tarshish with a v iolent wind. PSA.47:9 As we heard, so we saw In the city of the Lord of hosts, In the city of our God; God established her forever. (Pause)
-PSA.47:10 We pondered Your mercy, O God, In the midst of Your temple. PSA.47:11 According to Your name, O God, So is Your praise to the ends of the earth; Your right hand is full of righteousness. PSA.47:12 Let Mount Zion be glad; Let the daughters of Judah greatly rejoice Because of Your judgments, O Lord. PSA.47:13 Encircle Zion and em brace her; Describe her towers in detail; PSA.47:14 Set your hearts on her power And observe her palaces, That you may describe them to another generation. PSA.47:15 For He is God, our God, Forever and unto ages of ages; He will shepherd us unto the ages. ## Chapter 48
+PSA.44:1 For the End, concerning things that shall be changed; to the sons of Korah for understanding; an ode concerning the Beloved One.
+PSA.44:2 My heart overflowed with a good word; I tell my works to the King; My tongue is the pen of a swift-writing scribe.
+PSA.44:3 You are more beautiful than the sons of men; Grace was poured out on Your lips; Therefore God blessed You forever.
+PSA.44:4 Gird Your sword upon Your thigh, O Mighty One, In Your splendor and Your beauty.
+PSA.44:5 And stretch Your bow, and grant prosperity, and reign Because of truth, gentleness, and righteousness, And Your right hand shall guide You wondrously.
+PSA.44:6 Your arrows are sharp, O Mighty One (The peoples shall fall under You), In the heart of the King's enemies.
+PSA.44:7 Your throne, O God, is forever and ever; Your royal scepter is a scepter of uprightness.
+PSA.44:8 You loved righteousness and hated lawlessness; Therefore God, Your God, anointed You With the oil of gladness more than Your companions.
+PSA.44:9 My rrh and stacte and cassia pour forth from Your garments, From the ivory palaces from which they gladdened You.
+PSA.44:10 There are daughters of kings in Your honor; The queen stood at Your right hand in apparel interwoven with gold, And adorned and embroidered with various colors.
+PSA.44:11 Listen, O daughter, behold and incline your ear, And forget your people and your father's house;
+PSA.44:12 For the King desired your beauty, For He is your Lord.
+PSA.44:13 And the daughters of Tyre shall worship Him with gifts; The rich among the people shall entreat your favor.
+PSA.44:14 All her glory as the King's daughter is within, Adorned and embroidered with golden tassels.
+PSA.44:15 The virgins behind her shall be brought to the King; Her neighbors shall be brought to You;
+PSA.44:16 They shall be brought with gladness and rejoicing; They shall be led into the temple of the King.
+PSA.44:17 In place of your fathers, sons shall be born to you; You shall make them rulers over all the earth.
+PSA.44:18 They shall remember your name from generation to generation; Therefore, peoples shall give thanks to you Forever and unto ages of ages.
 
-PSA.48:1 For the End; a psalm for the sons of Korah. PSA.48:2 Hear this, all you nations; Give ear, all you inhabitants of the world, PSA.48:3 Both earthborn and the sons of men, Rich and poor together. PSA.48:4 My mouth shall speak wisdom, And the m editation of my heart, understanding; PSA.48:5 I will incline my ear to a parable; I will open my riddle on the harp. PSA.48:6 What should I fear in an evil day? The lawlessness at my heel surrounds me. PSA.48:7 Those who trusted in their power And those who boast in the abundance of their wealth, PSA.48:8 A brother does not redeem; shall a man redeem? He will not give his ransom to God
-PSA.48:9 And the price of his soul's redem ption. PSA.48:10 And he rested forever, and shall live to the end, Because he will not see decay when he sees wise men die. PSA.48:11 Foolish and senseless men die together, And they leave their wealth to strangers; PSA.48:12 And their graves will be their hom es continually, Their dwelling places from generation to generation. They called their lands after their own nam es. PSA.48:13 A man being in honor did not understand; He was com pared to the senseless cattle, and became like them. PSA.48:14 Their road is a snare for them, Yet afterwards, men will be well pleased with their say ings. PSA.48:15 Like sheep, they are put in Hades; death will shepherd them; And the upright shall gain dom inion over them in the morning; And their help shall be made old in Hades away from their glory. PSA.48:16 Yet God will redeem my soul From the hand of Hades when He shall receive me. (Pause)
-PSA.48:17 Do not be afraid when a man becom es rich, And when the glory of his house is increased; PSA.48:18 For when he dies, he shall carry nothing away; Neither will his glory descend with him. PSA.48:19 For his soul shall be blessed in his lifetim e; He will acknowledge You when You do him good. PSA.48:20 He shall enter the generations of his fathers; He shall not see light forever. PSA.48:21 A man being in honor did not understand; He was com pared to the senseless cattle, and became like them. ## Chapter 49
+## Chapter 45
 
-PSA.49:1 A psalm for Asaph. The God of gods, the Lord, spoke, and sum m oned the earth From the sun's rising to its very setting. PSA.49:2 From Zion in beauty 's splendor, God will come openly; PSA.49:3 He is our God, and He shall not be silent; A fire shall be kindled before Him, And there shall be a m ighty storm round about Him. PSA.49:4 He shall sum m on heaven above And the earth to judge His people; PSA.49:5 Gather His holy ones to Him, Who establish His covenant upon sacrifices; PSA.49:6 And the heavens declare His righteousness, For God is Judge. (Pause)
-PSA.49:7 Hear, O my people, and I will speak to you, O Israel, and I will testify against you; I am God, your God. PSA.49:8 I will not find fault with your sacrifices, Because your whole burnt offerings are continually before Me. PSA.49:9 I will not accept a y oung bull from your house, Nor he-goats from your flocks. PSA.49:10 For all the wild animals of the forest are Mine, The cattle and the oxen in the hills. PSA.49:11 I know all the birds of heaven, And the ripe fruit of the field is with Me. PSA.49:12 If I were hungry, I would not tell you; For the world is Mine, and all its fullness. PSA.49:13 Will I eat the flesh of bulls, Or drink the blood of goats? PSA.49:14 Offer to God a sacrifice of praise, And pay your v ows to the Most High. PSA.49:15 Call upon Me in the day of affliction, And I will deliver you; and you shall glorify Me. (Pause)
-PSA.49:16 To the sinner God say s, "Why do you declare My ordinances, And take up My covenant in your mouth? PSA.49:17 You hate My instruction, And cast My words behind you. PSA.49:18 If you see a thief, you run with him, And you keep com pany with adulterers. PSA.49:19 Your mouth is filled with evil, And your tongue weaves deceits. PSA.49:20 You sit and speak against your brother, And place a stum bling block before your m other's son. PSA.49:21 You do these things, and I keep silent; You think I am lawless like you; But I shall rebuke you, and contradict you to your face. PSA.49:22 Understand these things, you who forget God, Lest He snatch you away, and there be none to deliver; PSA.49:23 A sacrifice of praise shall glorify Me, And there is the way whereby I will show him the salvation of God."
+PSA.45:1 For the End; for the sons of Korah; a psalm concerning hidden things.
+PSA.45:2 God is our refuge and power; A help in afflictions that severely befall us.
+PSA.45:3 Therefore we will not fear when the earth is troubled, And when the mountains are removed into the hearts of the seas.
+PSA.45:4 Their waters roared and were troubled; The mountains were troubled by His might. (Pause)
+PSA.45:5 The torrents of the river gladden the city of God; The Most High sanctified His tabernacle.
+PSA.45:6 God is in her midst; she shall not be shaken; God shall help her early in the morning.
+PSA.45:7 The nations were troubled; kingdoms fell; He uttered His voice; the earth shook.
+PSA.45:8 The Lord of hosts is with us; The God of Jacob is our protector. (Pause)
+PSA.45:9 Come, behold the works of the Lord, The wonders He wrought on the earth.
+PSA.45:10 When He makes wars cease to the ends of the earth, He will break the bow and shatter the weapon; And He will burn up the shields in fire.
+PSA.45:11 Be still, and know that I am God; I will be exalted among the nations; I will be exalted in the earth.
+PSA.45:12 The Lord of hosts is with us, The God of Jacob is our protector.
+
+## Chapter 46
+
+PSA.46:1 For the End; a psalm for the sons of Korah.
+PSA.46:2 O h, clap your hands, all you nations; Shout to God with the voice of rejoicing;
+PSA.46:3 For the Lord Most High is fearsome, A great King over all the earth.
+PSA.46:4 He subdued the peoples under us And the nations under our feet.
+PSA.46:5 He chose us for His inheritance, Jacob's beauty, which He loved. (Pause)
+PSA.46:6 God ascended with a shout, The Lord with the sound of the trumpet.
+PSA.46:7 Sing praises to God; sing praises; Sing praises to our King; sing praises;
+PSA.46:8 For God is King of all the earth; Sing praises with understanding.
+PSA.46:9 God reigns over the nations; God sits on His holy throne.
+PSA.46:10 The rulers of the people gather together With the God of Abraham, For God's mighty ones of the earth are greatly exalted.
+
+## Chapter 47
+
+PSA.47:1 A psalm of an ode for the sons of Korah; for the second day of the week.
+PSA.47:2 Great is the Lord, and greatly to be praised In the city of our God, in His holy mountain,
+PSA.47:3 Well-rooted in joy throughout the earth, The mountains of Zion, the sides of the north, The city of the great King;
+PSA.47:4 God is known in her palaces When He helps her.
+PSA.47:5 For behold, the kings assembled; They came together;
+PSA.47:6 They saw her; thus they marveled; They were troubled; they were shaken;
+PSA.47:7 Trembling laid hold of them; There were labor pains, like a woman giving birth.
+PSA.47:8 You shall wreck the ships of Tarshish with a violent wind.
+PSA.47:9 As we heard, so we saw In the city of the Lord of hosts, In the city of our God; God established her forever. (Pause)
+PSA.47:10 We pondered Your mercy, O God, In the midst of Your temple.
+PSA.47:11 According to Your name, O God, So is Your praise to the ends of the earth; Your right hand is full of righteousness.
+PSA.47:12 Let Mount Zion be glad; Let the daughters of Judah greatlyrejoice Because of Your judgments, O Lord.
+PSA.47:13 Encircle Zion and embrace her; Describe her towers in detail;
+PSA.47:14 Set your hearts on her power And observe her palaces, That you may describe them to another generation.
+PSA.47:15 For He is God, our God, Forever and unto ages of ages; He will shepherd us unto the ages.
+
+## Chapter 48
+
+PSA.48:1 For the End; a psalm for the sons of Korah.
+PSA.48:2 Hear this, all you nations; Give ear, all you inhabitants of the world,
+PSA.48:3 Both earthborn and the sons of men, Rich and poor together.
+PSA.48:4 My mouth shall speak wisdom, And the meditation of my heart, understanding;
+PSA.48:5 I will incline my ear to a parable; I will open my riddle on the harp.
+PSA.48:6 What should I fear in an evil day? The lawlessness at my heel surrounds me.
+PSA.48:7 Those who trusted in their power And those who boast in the abundance of their wealth,
+PSA.48:8 A brother does not redeem; shall a man redeem? He will not give his ransom to God
+PSA.48:9 And the price of his soul's redemption.
+PSA.48:10 And he rested forever, and shall live to the end, Because he will not see decay when he sees wise men die.
+PSA.48:11 Foolish and senseless men die together, And they leave their wealth to strangers;
+PSA.48:12 And their graves will be their homes continually, Their dwelling places from generation to generation. They called their lands after their own names.
+PSA.48:13 A man being in honor did not understand; He was compared to the senseless cattle, and became like them.
+PSA.48:14 Their road is a snare for them, Yet afterwards, men will be well pleased with their sayings.
+PSA.48:15 Like sheep, they are put in Hades; death will shepherd them; And the upright shall gain dominion over them in the morning; And their help shall be made old in Hades away from their glory.
+PSA.48:16 Yet God will redeem my soul From the hand of Hades when He shall receive me. (Pause)
+PSA.48:17 Do not be afraid when a man becomes rich, And when the glory of his house is increased;
+PSA.48:18 For when he dies, he shall carry nothing away; Neither will his glory descend with him.
+PSA.48:19 For his soul shall be blessed in his lifetime; He will acknowledge You when You do him good.
+PSA.48:20 He shall enter the generations of his fathers; He shall not see light forever.
+PSA.48:21 A man being in honor did not understand; He was compared to the senseless cattle, and became like them.
+
+## Chapter 49
+
+PSA.49:1 A psalm for Asaph. The God of gods, the Lord, spoke, and summoned the earth From the sun's rising to its very setting.
+PSA.49:2 From Zion in beauty's splendor, God will come openly;
+PSA.49:3 He is our God, and He shall not be silent; A fire shall be kindled before Him, And there shall be a mighty storm round about Him.
+PSA.49:4 He shall summon heaven above And the earth to judge His people;
+PSA.49:5 Gather His holy ones to Him, Who establish His covenant upon sacrifices;
+PSA.49:6 And the heavens declare His righteousness, For God is Judge. (Pause)
+PSA.49:7 Hear, O my people, and I will speak to you, O Israel, and I will testify against you; I am God, your God.
+PSA.49:8 I will not find fault with your sacrifices, Because your whole burnt offerings are continually before Me.
+PSA.49:9 I will not accept a young bull from your house, Nor he-goats from your flocks.
+PSA.49:10 For all the wild animals of the forest are Mine, The cattle and the oxen in the hills.
+PSA.49:11 I know all the birds of heaven, And the ripe fruit of the field is with Me.
+PSA.49:12 If I were hungry, I would not tell you; For the world is Mine, and all its fullness.
+PSA.49:13 Will I eat the flesh of bulls, Or drink the blood of goats?
+PSA.49:14 Offer to God a sacrifice of praise, And pay your vows to the Most High.
+PSA.49:15 Call upon Me in the day of affliction, And I will deliver you; and you shall glorify Me. (Pause)
+PSA.49:16 To the sinner God says, "Why do you declare My ordinances, And take up My covenant in your mouth?
+PSA.49:17 You hate My instruction, And cast My words behind you.
+PSA.49:18 If you see a thief, you run with him, And you keep company with adulterers.
+PSA.49:19 Your mouth is filled with evil, And your tongue weaves deceits.
+PSA.49:20 You sit and speak against your brother, And place a stumbling block before your mother's son.
+PSA.49:21 You do these things, and I keep silent; You think I am lawless like you; But I shall rebuke you, and contradict you to your face.
+PSA.49:22 Understand these things, you who forget God, Lest He snatch you away, and there be none to deliver;
+PSA.49:23 A sacrifice of praise shall glorify Me, And there is the way whereby I will show him the salvation of God."
 
 ## Chapter 50
 
-PSA.50:1 For the End; a psalm by David; PSA.50:2 when Nathan the prophet came to him, at the time he went in to Bathsheba. PSA.50:3 Have mercy on me, O God, according to Your great mercy; And according to the abundance of Your com passion, blot out my transgression. PSA.50:4 Wash me thoroughly from my lawlessness And cleanse me from my sin. PSA.50:5 For I know my lawlessness, And my sin is alway s before me. PSA.50:6 Against You only have I sinned And done evil in Your sight; That You may be justified in Your words, And ov ercom e when You are judged. PSA.50:7 For behold, I was conceived in transgressions, And in sins my m other bore me. PSA.50:8 Behold, You love truth; You showed me the unknown and secret things of Your wisdom. PSA.50:9 You shall sprinkle me with hy ssop, and I will be cleansed; You shall wash me, and I will be made whiter than snow. PSA.50:10 You shall make me hear joy and gladness; My bones that were hum bled shall greatly rejoice. PSA.50:11 Turn Your face from my sins, And blot out all my transgressions. PSA.50:12 Create in me a clean heart, O God, And renew a right spirit within me. PSA.50:13 Do not cast me away from Your presence, And do not take Your Holy Spirit from me. PSA.50:14 Restore to me the joy of Your salvation, And uphold me with Your guiding Spirit. PSA.50:15 I will teach transgressors Your way s, And the ungodly shall turn back to You. PSA.50:16 Deliver me from bloodguiltiness, O God, the God of my salvation, And my tongue shall greatly rejoice in Your righteousness. PSA.50:17 O Lord, You shall open my lips, And my mouth will declare Your praise. PSA.50:18 For if You desired sacrifice, I would give it; You will not be pleased with whole burnt offerings. PSA.50:19 A sacrifice to God is a broken spirit, A broken and hum bled heart God will not despise. PSA.50:20 Do good, O Lord, in Your good pleasure to Zion, And let the walls of Jerusalem be built; PSA.50:21 Then You will be pleased with a sacrifice of righteousness, With offerings and whole burnt offerings; Then shall they offer y oung bulls on Your altar. ## Chapter 51
+PSA.50:1 For the End; a psalm by David;
+PSA.50:2 when Nathan the prophet came to him, at the time he went in to Bathsheba.
+PSA.50:3 Have mercy on me, O God, according to Your great mercy; And according to the abundance of Your compassion, blot out my transgression.
+PSA.50:4 Wash me thoroughly from my lawlessness And cleanse me from my sin.
+PSA.50:5 For I know my lawlessness, And my sin is always before me.
+PSA.50:6 Against You only have I sinned And done evil in Your sight; That You may be justified in Your words, And overcome when You are judged.
+PSA.50:7 For behold, I was conceived in transgressions, And in sins my mother bore me.
+PSA.50:8 Behold, You love truth; You showed me the unknown and secret things of Your wisdom.
+PSA.50:9 You shall sprinkle me with hyssop, and I will be cleansed; You shall wash me, and I will be made whiter than snow.
+PSA.50:10 You shall make me hear joy and gladness; My bones that were humbled shall greatlyrejoice.
+PSA.50:11 Turn Your face from my sins, And blot out all my transgressions.
+PSA.50:12 Create in me a clean heart, O God, And renew a right spirit within me.
+PSA.50:13 Do not cast me away from Your presence, And do not take Your Holy Spirit from me.
+PSA.50:14 Restore to me the joy of Your salvation, And uphold me with Your guiding Spirit.
+PSA.50:15 I will teach transgressors Your ways, And the ungodly shall turn back to You.
+PSA.50:16 Deliver me from bloodguiltiness, O God, the God of my salvation, And my tongue shall greatlyrejoice in Your righteousness.
+PSA.50:17 O Lord, You shall open my lips, And my mouth will declare Your praise.
+PSA.50:18 For if You desired sacrifice, I would give it; You will not be pleased with whole burnt offerings.
+PSA.50:19 A sacrifice to God is a broken spirit, A broken and humbled heart God will not despise.
+PSA.50:20 Do good, O Lord, in Your good pleasure to Zion, And let the walls of Jerusalem be built;
+PSA.50:21 Then You will be pleased with a sacrifice of righteousness, With offerings and whole burnt offerings; Then shall they offer young bulls on Your altar.
 
-PSA.51:1 For the End; concerning understanding; by David; PSA.51:2 W hen Doeg the Edom ite cam e and reported to Saul and said, "Dav id went to the house of Abim elech."
-PSA.51:3 Why do you boast in evil, O m ighty man, And in lawlessness all the day long? PSA.51:4 Your tongue devises wrongdoing; You work deceit like a sharpened razor. PSA.51:5 You love evil rather than good, Wickedness rather than speaking righteousness. PSA.51:6 You love all the words of destruction; You love a deceitful tongue. PSA.51:7 Therefore, God shall destroy you com pletely; He shall pluck you up and rem ov e you from your dwelling, And uproot you from the land of the living. (Pause)
-PSA.51:8 The righteous also shall see and fear, And shall laugh at him, saying, PSA.51:9 "Behold, this man did not make God his helper, But hoped in the abundance of his riches; And he was made powerful in his vanity."
-PSA.51:10 But I am like a fruitful olive tree in the house of God; I hope in God's mercy Forever and unto ages of ages. PSA.51:11 I will give thanks to You forever for what You did, And I will wait on Your name; For it is good in the sight of Your holy ones. ## Chapter 52
+## Chapter 51
 
-PSA.52:1 For the End; for Mahaleth; concerning understanding; by David. PSA.52:2 The fool said in his heart, "There is no God." They are corrupt and abom inable in lawlessness; There is none who does good. PSA.52:3 God looked from heaven upon the sons of men To see if there were any who understood or sought God. PSA.52:4 All turned aside; they were all together rendered useless; There is none who does good, not even one. PSA.52:5 Do all the workers of lawlessness not know? They eat up my people as they eat bread, and do not call upon God. PSA.52:6 They were in great fear where no fear was, For God scattered the bones of men-pleasers; They were put to sham e, because God scorned them. PSA.52:7 Who will bring the salvation of Israel out of Zion? When God brings back the captivity of His people, Jacob will greatly rejoice, and Israel will be glad. ## Chapter 53
+PSA.51:1 For the End; concerning understanding; by David;
+PSA.51:2 When Doeg the Edomite came and reported to Saul and said, "David went to the house of Abimelech."
+PSA.51:3 Why do you boast in evil, O mighty man, And in lawlessness all the day long?
+PSA.51:4 Your tongue devises wrongdoing; You work deceit like a sharpened razor.
+PSA.51:5 You love evil rather than good, Wickedness rather than speaking righteousness.
+PSA.51:6 You love all the words of destruction; You love a deceitful tongue.
+PSA.51:7 Therefore, God shall destroy you completely; He shall pluck you up and remove you from your dwelling, And uproot you from the land of the living. (Pause)
+PSA.51:8 The righteous also shall see and fear, And shall laugh at him, saying,
+PSA.51:9 "Behold, this man did not make God his helper, But hoped in the abundance of his riches; And he was made powerful in his vanity."
+PSA.51:10 But I am like a fruitful olive tree in the house of God; I hope in God's mercy Forever and unto ages of ages.
+PSA.51:11 I will give thanks to You forever for what You did, And I will wait on Your name; For it is good in the sight of Your holy ones.
 
-PSA.53:1 For the End; in hymns; concerning understanding; by David; PSA.53:2 when the Ziphites came and said to Saul, "Is not David hiding with us?"
-PSA.53:3 Save me, O God, in Your name, And judge me in Your power. PSA.53:4 O God, hear my prayer; Give ear to the words of my mouth. PSA.53:5 For strangers rise up against me, And the powerful seek after my soul; They have not set God before them. (Pause)
-PSA.53:6 For behold, God is my helper; The Lord is the protector of my soul. PSA.53:7 He will return ev ils to my enemies; Utterly destroy them in Your truth. PSA.53:8 I will sacrifice to You v oluntarily; I will give thanks to Your name, O Lord, for it is good. PSA.53:9 You delivered me from all my afflictions, And my eye looked upon my enemies. ## Chapter 54
+## Chapter 52
 
-PSA.54:1 For the End; in hymns; concerning understanding; by David. PSA.54:2 Give ear to my prayer, O God, And do not despise my supplication; PSA.54:3 Attend to me, and hear me. I am v exed in my prayer, and troubled
-PSA.54:4 By the enemy 's voice and by the sinner's affliction; For they turned their lawlessness upon me, And in wrath they were indignant with me. PSA.54:5 My heart was troubled within me, And the terror of death fell on me. PSA.54:6 Fear and trembling cam e upon me, And the darkness covered me. PSA.54:7 I said, "Who will give me wings like a dove, And I will fly away, and be at rest? PSA.54:8 Behold, I fled far away, And lodged in the wilderness." (Pause)
-PSA.54:9 I wait for the One who saves me From faintheartedness and storm. PSA.54:10 Drown them in the sea, O Lord, and divide their tongues; For I see lawlessness and strife in the city. PSA.54:11 Day and night, it shall surround her upon her walls; Lawlessness and trouble and wrongdoing are in her midst; PSA.54:12 And usury and treachery Have not ceased from her squares. PSA.54:13 For if an enemy reviled me, I would have endured it; And if one hating me boasted against me, I would have hidden from him. PSA.54:14 But it was you, a man my equal, My guide and my friend, PSA.54:15 Who together with me sweetened our m eals; In God's house we walked in unity. PSA.54:16 Let death come upon them, And let them go down alive into Hades; Because ev ils are in their dwellings, in the very midst of them. PSA.54:17 But I cried out to God, And the Lord heard me. PSA.54:18 Ev ening and morning and m idday, I shall tell; I shall proclaim, and He will hear my voice. PSA.54:19 He will redeem my soul in peace from those who draw near to me, For they were with me in abundance. PSA.54:20 God shall hear, and hum ble them, He who exists before the ages. (Pause) For there is no change in them, And they have not feared God. PSA.54:21 He stretched forth His hand in punishm ent; They defiled His covenant. PSA.54:22 They were scattered by the wrath of His face, And His heart drew near; His words were softened above oil, And they are arrows. PSA.54:23 Cast your care upon the Lord, And He shall support you; He will never allow the righteous to be m ov ed. PSA.54:24 But You, O God, will bring them down into the pit of decay; Men of blood and deceit Shall not live even half their day s. But I will hope in You, O Lord. ## Chapter 55
+PSA.52:1 For the End; for Mahaleth; concerning understanding; by David.
+PSA.52:2 The fool said in his heart, "There is no God." They are corrupt and abominable in lawlessness; There is none who does good.
+PSA.52:3 God looked from heaven upon the sons of men To see if there were any who understood or sought God.
+PSA.52:4 All turned aside; they were all together rendered useless; There is none who does good, not even one.
+PSA.52:5 Do all the workers of lawlessness not know? They eat up my people as they eat bread, and do not call upon God.
+PSA.52:6 They were in great fear where no fear was, For God scattered the bones of men-pleasers; They were put to shame, because God scorned them.
+PSA.52:7 Who will bring the salvation of Israel out of Zion? When God brings back the captivity of His people, Jacob will greatlyrejoice, and Israel will be glad.
 
-PSA.55:1 For the End, for the people far from the holy places; by David; for a pillar inscription, when foreigners conquered him in Gath. PSA.55:2 Have mercy on me, O Lord, for man tram ples me down; All day long he afflicts me in war. PSA.55:3 All day my enemies trample me down, For many are those who war against me from on high. PSA.55:4 I will not fear by day, But I will hope in You. PSA.55:5 I will praise God with my words all day long; In God I hope; I will not be afraid; what will flesh do to me? PSA.55:6 All day long they make my words repulsive; All their thoughts are against me for evil. PSA.55:7 They will dwell near and hide; They will watch my heel As they wait for my soul. PSA.55:8 In no way will You save them; In wrath You will bring down peoples, O God. PSA.55:9 I declare my life to You; You set my tears before You, as also in Your prom ise. PSA.55:10 My enemies shall be turned back In whatever day I may call upon You; Behold, I know You are my God. PSA.55:11 In God I will praise His word; In the Lord I will praise His word. PSA.55:12 In God I hope; I will not be afraid; What will man do to me? PSA.55:13 In me, O God, are v ows I will render in praise to You; PSA.55:14 For You delivered my soul from death, And my feet from slipping; That I may be well-pleasing before God in the light of the living. ## Chapter 56
+## Chapter 53
 
-PSA.56:1 For the End; corrupt not; by David; for a pillar inscription, when he escaped from the face of Saul to the cave. PSA.56:2 Have mercy on me, O God, have mercy on me, For my soul trusts in You; And in the shadow of Your wings I will hope, Until lawlessness shall pass away. PSA.56:3 I will cry out to God most High; My God who is my benefactor. PSA.56:4 He sent from heaven and saved me; He gave over to disgrace those who trample me down. (Pause) God sent out His mercy and His truth, PSA.56:5 And delivered my soul from the midst of y oung lions. Although troubled, I fell asleep; As for the sons of men, their teeth are a weapon and arrows, And their tongue is a sharp dagger. PSA.56:6 Be exalted, O God, above the heavens, And Your glory above all the earth. PSA.56:7 They prepared a trap for my feet, And they bowed down my soul; They dug a pit before my face, But they fell into it. (Pause)
-PSA.56:8 My heart is ready, O God, My heart is ready; I will sing, and I will sing a psalm. PSA.56:9 Awake, my glory; Awake, harp and ly re; I will arise at dawn. PSA.56:10 I will give thanks to You, O Lord, among the peoples; I will sing to You among the Gentiles. PSA.56:11 For Your mercy is m agnified to the heavens, And Your truth to the clouds. PSA.56:12 Be exalted, O God, above the heavens; And Your glory above all the earth. ## Chapter 57
+PSA.53:1 For the End; in hymns; concerning understanding; by David;
+PSA.53:2 when the Ziphites came and said to Saul, "Is not David hiding with us?"
+PSA.53:3 Save me, O God, in Your name, And judge me in Your power.
+PSA.53:4 O God, hear my prayer; Give ear to the words of my mouth.
+PSA.53:5 For strangers rise up against me, And the powerful seek after my soul; They have not set God before them. (Pause)
+PSA.53:6 For behold, God is my helper; The Lord is the protector of my soul.
+PSA.53:7 He will return evils to my enemies; Utterly destroy them in Your truth.
+PSA.53:8 I will sacrifice to You voluntarily; I will give thanks to Your name, O Lord, for it is good.
+PSA.53:9 You delivered me from all my afflictions, And my eye looked upon my enemies.
 
-PSA.57:1 For the End; corrupt not; by David; for a pillar inscription. PSA.57:2 I f, then, you truly speak of righteousness, Do you judge rightly, O you sons of men? PSA.57:3 For in your heart you work lawlessness in the earth; Your hands weave unrighteousness. PSA.57:4 Sinners are alienated from the wom b; From birth they are led astray; they speak lies. PSA.57:5 Their anger is according to the likeness of a serpent; Like a deaf asp that stops its ears, PSA.57:6 Which will not listen to the sound of charm s, Nor to an enchantm ent of a skillful charm er. PSA.57:7 God shattered their teeth in their mouths; The Lord broke the teeth of the lions. PSA.57:8 They shall pass along like water running through; He will bend His bow until they are weakened. PSA.57:9 Like m elting wax they will be destroy ed; Fire fell on them, and they never saw the sun. PSA.57:10 Before your thorns are aware of its prickly shrub, He will swallow you up, as if you were alive, as if in His anger. PSA.57:11 A righteous man shall be glad when he sees the v engeance of the ungodly; He shall wash his hands in the blood of the sinner. PSA.57:12 A man will say, "If indeed there is fruit for the righteous man, Then it is God who judges them on the earth."
+## Chapter 54
+
+PSA.54:1 For the End; in hymns; concerning understanding; by David.
+PSA.54:2 Give ear to my prayer, O God, And do not despise my supplication;
+PSA.54:3 Attend to me, and hear me. I am vexed in my prayer, and troubled
+PSA.54:4 By the enemy's voice and by the sinner's affliction; For they turned their lawlessness upon me, And in wrath they were indignant with me.
+PSA.54:5 My heart was troubled within me, And the terror of death fell on me.
+PSA.54:6 Fear and trembling came upon me, And the darkness covered me.
+PSA.54:7 I said, "Who will give me wings like a dove, And I will fly away, and be at rest?
+PSA.54:8 Behold, I fled far away, And lodged in the wilderness." (Pause)
+PSA.54:9 I wait for the One who saves me From faintheartedness and storm.
+PSA.54:10 Drown them in the sea, O Lord, and divide their tongues; For I see lawlessness and strife in the city.
+PSA.54:11 Day and night, it shall surround her upon her walls; Lawlessness and trouble and wrongdoing are in her midst;
+PSA.54:12 And usury and treachery Have not ceased from her squares.
+PSA.54:13 For if an enemy reviled me, I would have endured it; And if one hating me boasted against me, I would have hidden from him.
+PSA.54:14 But it was you, a man my equal, My guide and my friend,
+PSA.54:15 Who together with me sweetened our meals; In God's house we walked in unity.
+PSA.54:16 Let death come upon them, And let them go down alive into Hades; Because evils are in their dwellings, in the very midst of them.
+PSA.54:17 But I cried out to God, And the Lord heard me.
+PSA.54:18 Evening and morning and midday, I shall tell; I shall proclaim, and He will hear my voice.
+PSA.54:19 He will redeem my soul in peace from those who draw near to me, For they were with me in abundance.
+PSA.54:20 God shall hear, and humble them, He who exists before the ages. (Pause) For there is no change in them, And they have not feared God.
+PSA.54:21 He stretched forth His hand in punishment; They defiled His covenant.
+PSA.54:22 They were scattered by the wrath of His face, And His heart drew near; His words were softened above oil, And they are arrows.
+PSA.54:23 Cast your care upon the Lord, And He shall support you; He will never allow the righteous to be moved.
+PSA.54:24 But You, O God, will bring them down into the pit of decay; Men of blood and deceit Shall not live even half their days. But I will hope in You, O Lord.
+
+## Chapter 55
+
+PSA.55:1 For the End, for the people far from the holy places; by David; for a pillar inscription, when foreigners conquered him in Gath.
+PSA.55:2 Have mercy on me, O Lord, for man tramples me down; All day long he afflicts me in war.
+PSA.55:3 All day my enemies trample me down, For many are those who war against me from on high.
+PSA.55:4 I will not fear by day, But I will hope in You.
+PSA.55:5 I will praise God with my words all day long; In God I hope; I will not be afraid; what will flesh do to me?
+PSA.55:6 All day long they make my words repulsive; All their thoughts are against me for evil.
+PSA.55:7 They will dwell near and hide; They will watch my heel As they wait for my soul.
+PSA.55:8 In no way will You save them; In wrath You will bring down peoples, O God.
+PSA.55:9 I declare my life to You; You set my tears before You, as also in Your promise.
+PSA.55:10 My enemies shall be turned back In whatever day I may call upon You; Behold, I know You are my God.
+PSA.55:11 In God I will praise His word; In the Lord I will praise His word.
+PSA.55:12 In God I hope; I will not be afraid; What will man do to me?
+PSA.55:13 In me, O God, are vows I will render in praise to You;
+PSA.55:14 For You delivered my soul from death, And my feet from slipping; That I may be well-pleasing before God in the light of the living.
+
+## Chapter 56
+
+PSA.56:1 For the End; corrupt not; by David; for a pillar inscription, when he escaped from the face of Saul to the cave.
+PSA.56:2 Have mercy on me, O God, have mercy on me, For my soul trusts in You; And in the shadow of Your wings I will hope, Until lawlessness shall pass away.
+PSA.56:3 I will cry out to God most High; My God who is my benefactor.
+PSA.56:4 He sent from heaven and saved me; He gave over to disgrace those who trample me down. (Pause) God sent out His mercy and His truth,
+PSA.56:5 And delivered my soul from the midst of young lions. Although troubled, I fell asleep; As for the sons of men, their teeth are a weapon and arrows, And their tongue is a sharp dagger.
+PSA.56:6 Be exalted, O God, above the heavens, And Your glory above all the earth.
+PSA.56:7 They prepared a trap for my feet, And they bowed down my soul; They dug a pit before my face, But they fell into it. (Pause)
+PSA.56:8 My heart is ready, O God, My heart is ready; I will sing, and I will sing a psalm.
+PSA.56:9 Awake, my glory; Awake, harp and lyre; I will arise at dawn.
+PSA.56:10 I will give thanks to You, O Lord, among the peoples; I will sing to You among the Gentiles.
+PSA.56:11 For Your mercy is magnified to the heavens, And Your truth to the clouds.
+PSA.56:12 Be exalted, O God, above the heavens; And Your glory above all the earth.
+
+## Chapter 57
+
+PSA.57:1 For the End; corrupt not; by David; for a pillar inscription.
+PSA.57:2 I f, then, you truly speak of righteousness, Do you judge rightly, O you sons of men?
+PSA.57:3 For in your heart you work lawlessness in the earth; Your hands weave unrighteousness.
+PSA.57:4 Sinners are alienated from the womb; From birth they are led astray; they speak lies.
+PSA.57:5 Their anger is according to the likeness of a serpent; Like a deaf asp that stops its ears,
+PSA.57:6 Which will not listen to the sound of charms, Nor to an enchantment of a skillful charmer.
+PSA.57:7 God shattered their teeth in their mouths; The Lord broke the teeth of the lions.
+PSA.57:8 They shall pass along like water running through; He will bend His bow until they are weakened.
+PSA.57:9 Like melting wax they will be destroyed; Fire fell on them, and they never saw the sun.
+PSA.57:10 Before your thorns are aware of its prickly shrub, He will swallow you up, as if you were alive, as if in His anger.
+PSA.57:11 A righteous man shall be glad when he sees the vengeance of the ungodly; He shall wash his hands in the blood of the sinner.
+PSA.57:12 A man will say, "If indeed there is fruit for the righteous man, Then it is God who judges themon the earth."
 
 ## Chapter 58
 
-PSA.58:1 For the End; corrupt not; by David; for a pillar inscription, when Saul sent and watched his house, that he might kill him. PSA.58:2 R escue me from my enemies, O God, And redeem me from those who rise up against me. PSA.58:3 Deliver me from the workers of lawlessness And save me from men of blood. PSA.58:4 For behold, they hunt for my soul; Mighty men set upon me. Neither is it for my lawlessness, nor for my sin, O Lord; PSA.58:5 I run without lawlessness, and keep a straight path; Rise up and m eet me, and see. PSA.58:6 And You, O Lord God of hosts, the God of Israel, Give heed, and exam ine all the Gentiles; Do not be m erciful to all who work lawlessness. (Pause)
-PSA.58:7 They shall return at evening, And hunger like dogs; and they shall encircle the city. PSA.58:8 Behold, they shall speak with their mouth, And a sword is in their lips; for they say, "Who hears?"
-PSA.58:9 But You, O Lord, shall laugh at them; You shall hold all the nations in contem pt. PSA.58:10 O my strength, I shall keep watch with You, For You are my protector, O God. PSA.58:11 As for my God, His mercy shall go before me; God will show it to me among my enemies. PSA.58:12 Do not kill them, lest they forget my people; Scatter them by Your power, And bring them down, O Lord my protector. PSA.58:13 For the sin of their mouth, for the word of their lips, Let them also be taken in their arrogance; And from their v ow of evil and lie, their end will be proclaim ed
-PSA.58:14 In a wrath of destruction, and let them be no more; And they shall know God is Jacob's Lord, And the Lord of the ends of the earth. PSA.58:15 They shall return at evening, and hunger like dogs; And they shall encircle the city. PSA.58:16 They shall be scattered to and fro so as to eat, But if they are not satisfied, they shall also grum ble. PSA.58:17 But I will sing of Your power, And greatly rejoice in Your mercy in the morning; For You are my protector, And my refuge in the day of my affliction. PSA.58:18 You are my helper; I will sing to You; For You, O God, are my protector; You are my mercy, O my God. ## Chapter 59
+PSA.58:1 For the End; corrupt not; by David; for a pillar inscription, when Saul sent and watched his house, that he might kill him.
+PSA.58:2 Rescue me from my enemies, O God, And redeem me from those who rise up against me.
+PSA.58:3 Deliver me from the workers of lawlessness And save me from men of blood.
+PSA.58:4 For behold, they hunt for my soul; Mighty men set upon me. Neither is it for my lawlessness, nor for my sin, O Lord;
+PSA.58:5 I run without lawlessness, and keep a straight path; Rise up and meet me, and see.
+PSA.58:6 And You, O Lord God of hosts, the God of Israel, Give heed, and examine all the Gentiles; Do not be merciful to all who work lawlessness. (Pause)
+PSA.58:7 They shall return at evening, And hunger like dogs; and they shall encircle the city.
+PSA.58:8 Behold, they shall speak with their mouth, And a sword is in their lips; for they say, "Who hears?"
+PSA.58:9 But You, O Lord, shall laugh at them; You shall hold all the nations in contempt.
+PSA.58:10 O my strength, I shall keep watch with You, For You are my protector, O God.
+PSA.58:11 As for my God, His mercy shall go before me; God will show it to me among my enemies.
+PSA.58:12 Do not kill them, lest they forget my people; Scatter them by Your power, And bring them down, O Lord my protector.
+PSA.58:13 For the sin of their mouth, for the word of their lips, Let them also be taken in their arrogance; And from their vow of evil and lie, their end will be proclaimed
+PSA.58:14 In a wrath of destruction, and let them be no more; And they shall know God is Jacob's Lord, And the Lord of the ends of the earth.
+PSA.58:15 They shall return at evening, and hunger like dogs; And they shall encircle the city.
+PSA.58:16 They shall be scattered to and fro so as to eat, But if they are not satisfied, they shall also grumble.
+PSA.58:17 But I will sing of Your power, And greatlyrejoice in Your mercy in the morning; For You are my protector, And my refuge in the day of my affliction.
+PSA.58:18 You are my helper; I will sing to You; For You, O God, are my protector; You are my mercy, O my God.
 
-PSA.59:1 For the End; for things yet to be changed; for a pillar inscription; by David; for teaching, PSA.59:2 when he burned Mesopotamia of Syria, and Syrian Soba, and Joab returned and struck twelve thousand in the Valley of Salt. PSA.59:3 O God, You drove us off and destroy ed us; You were angry, and had mercy on us. PSA.59:4 You made the earth quake, and You troubled it; Repair its ruins, for it was shaken. PSA.59:5 You showed Your people difficult things; You made us drink the wine of bewilderm ent. PSA.59:6 You gave a sign to those who fear You, So they may flee from the face of the bow. (Pause)
-PSA.59:7 That Your beloved may be rescued, Save with Your right hand, and hear me. PSA.59:8 God spoke in His holy place: I will greatly rejoice, and divide Shechem, And I will m easure out the valley of the tabernacles. PSA.59:9 Gilead is m ine, and Manasseh is m ine, And Ephraim is the strength of my head; Judah is my king. PSA.59:10 Moab is the cauldron of my hope; Over Edom I will extend my shoe; Foreign tribes were subjected to me. PSA.59:11 Who will bring me into a fortified city? Who will lead me as far as Edom? PSA.59:12 Will not You, O God, who drove us away? And will not You, O God, go out with our arm ies? PSA.59:13 Give us help from affliction, For the salvation of man is useless. PSA.59:14 But in God we shall work power, And He will utterly scorn those who afflict us. ## Chapter 60
+## Chapter 59
 
-PSA.60:1 For the End; in hymns; by David. PSA.60:2 Hear my supplication, O God; Attend to my prayer. PSA.60:3 From the end of the earth I cried out to You When my heart was discouraged; You lifted me high on a rock. PSA.60:4 You guided me, for You became my hope, A tower of strength from the face of the enemy. PSA.60:5 I will dwell in Your tabernacle unto the ages; I will be covered with the shelter of Your wings. (Pause)
-PSA.60:6 For You, O God, hear my pray ers; You give an inheritance to those who fear Your name. PSA.60:7 You will add day s to the day s of the king, His y ears as the day s of generation to generation. PSA.60:8 He will abide before God forever; Who will seek out His mercy and truth? PSA.60:9 So I will sing praise to Your name unto ages of ages, That I may pay my v ows day to day. ## Chapter 61
+PSA.59:1 For the End; for things yet to be changed; for a pillar inscription; by David; for teaching,
+PSA.59:2 when he burned Mesopotamia of Syria, and Syrian Soba, and Joab returned and struck twelve thousand in the Valley of Salt.
+PSA.59:3 O God, You drove us off and destroyed us; You were angry, and had mercy on us.
+PSA.59:4 You made the earth quake, and You troubled it; Repair its ruins, for it was shaken.
+PSA.59:5 You showed Your people difficult things; You made us drink the wine of bewilderment.
+PSA.59:6 You gave a sign to those who fear You, So they may flee from the face of the bow. (Pause)
+PSA.59:7 That Your beloved may be rescued, Save with Your right hand, and hear me.
+PSA.59:8 God spoke in His holy place: I will greatlyrejoice, and divide Shechem, And I will measure out the valley of the tabernacles.
+PSA.59:9 Gilead is mine, and Manasseh is mine, And Ephraim is the strength of my head; Judah is my king.
+PSA.59:10 Moab is the cauldron of my hope; Over Edom I will extend my shoe; Foreign tribes were subjected to me.
+PSA.59:11 Who will bring me into a fortified city? Who will lead me as far as Edom?
+PSA.59:12 Will not You, O God, who drove us away? And will not You, O God, go out with our armies?
+PSA.59:13 Give us help from affliction, For the salvation of man is useless.
+PSA.59:14 But in God we shall work power, And He will utterly scorn those who afflict us.
 
-PSA.61:1 For the End, for Jeduthun; a psalm by David. PSA.61:2 S hall not my soul be subm issive to God? For from Him is my salvation. PSA.61:3 For He is my God and my savior, My protector; I shall be shaken no more. PSA.61:4 How long will you attack a man? All of you m urder him; You attack him as you would a leaning wall and a broken hedge. PSA.61:5 They also planned to rem ov e my honor; They ran with a lie; They blessed with their mouth, and they cursed with their heart. (Pause)
-PSA.61:6 However, be subm issive to God, O my soul, For my patient endurance is from Him. PSA.61:7 For He is my God and my savior, My protector; I shall never be m ov ed. PSA.61:8 In God is my salvation and my glory; He is the God of my help, and my hope is in God. PSA.61:9 Hope in Him, all you congregation of people; Pour out your hearts before Him; God is our helper. (Pause)
-PSA.61:10 But the sons of men are useless; The sons of men are liars with the yokes of wrongdoing; They are altogether useless. PSA.61:11 Do not hope in wrongdoing, And do not hunger for booty; If riches flow in, Do not set your heart on them. PSA.61:12 God spoke once; I heard these two things: PSA.61:13 That power is of God, and to You, O Lord, is mercy; For You will repay every man according to his works. ## Chapter 62
+## Chapter 60
 
-PSA.62:1 A psalm by David, when he was in the desert of Judea. PSA.62:2 O God, my God, I rise early to be with You; My soul thirsts for You. How often my flesh thirsts for You In a desolate, im passable, and waterless land. PSA.62:3 So in the holy place I appear before You, To see Your power and Your glory. PSA.62:4 Because Your mercy is better than life, My lips shall praise You. PSA.62:5 Thus I will bless You in my life; I will lift up my hands in Your name. PSA.62:6 May my soul be filled, as if with m arrow and fatness, And my mouth shall sing praise to You with lips filled with rejoicing. PSA.62:7 If I rem em bered You on my bed, I m editated on You at day break; PSA.62:8 For You are my helper, And in the shelter of Your wings I will greatly rejoice. PSA.62:9 My soul follows close behind You; Your right hand takes hold of me. PSA.62:10 But they seek for my soul in vain; They shall go into the lowest parts of the earth. PSA.62:11 They shall be given over to the edge of the sword; They shall be a portion for foxes. PSA.62:12 But the king shall be glad in God; All who swear by Him shall be praised, For the mouth that speaks unrighteous things is stopped. ## Chapter 63
+PSA.60:1 For the End; in hymns; by David.
+PSA.60:2 Hear my supplication, O God; Attend to my prayer.
+PSA.60:3 From the end of the earth I cried out to You When my heart was discouraged; You lifted me high on a rock.
+PSA.60:4 You guided me, for You became my hope, A tower of strength from the face of the enemy.
+PSA.60:5 I will dwell in Your tabernacle unto the ages; I will be covered with the shelter of Your wings. (Pause)
+PSA.60:6 For You, O God, hear my pray ers; You give an inheritance to those who fear Your name.
+PSA.60:7 You will add days to the days of the king, His years as the days of generation to generation.
+PSA.60:8 He will abide before God forever; Who will seek out His mercy and truth?
+PSA.60:9 So I will sing praise to Your name unto ages of ages, That I may pay my vows day to day.
 
-PSA.63:1 For the End; a psalm by David. PSA.63:2 Hear my voice, O God, in my supplication; Deliver my soul from fear of the enemy. PSA.63:3 You sheltered me from the conspiracy of ev ildoers, From the multitude of those who work lawlessness, PSA.63:4 Who sharpen their tongue like a sword; They stretched their bow, a bitter thing, PSA.63:5 To strike down the blam eless man in secret; Suddenly they will shoot him, and not be afraid. PSA.63:6 They made an evil word strong in themselves; They told of hiding snares; They said, "Who will see them?"
-PSA.63:7 They searched out lawlessness; In searching they grew weary. A man shall draw near, and the heart is deep; PSA.63:8 And God shall be exalted. Their blows became a childish barb, PSA.63:9 And their tongues were utterly weakened in them. All who saw them were troubled, PSA.63:10 And every man was afraid. And they proclaim ed the works of God, And understood His deeds. PSA.63:11 The righteous man shall be glad in the Lord, and shall hope in Him; And all the upright in heart shall be praised. ## Chapter 64
+## Chapter 61
 
-PSA.64:1 For the End; a psalm by David; an ode; sung by Jeremiah and Ezekiel regarding the situation of the sojourners, when they were about to depart. PSA.64:2 I t is fitting to sing a hy m n to You in Zion, O God, And a v ow shall be rendered to You in Jerusalem. PSA.64:3 Hear my prayer; To You all flesh shall come. PSA.64:4 The words of lawless men ov erpowered us, And You will show mercy to our ungodliness. PSA.64:5 Blessed is he whom You choose and help; He shall dwell in Your courts. We shall be filled with the good things of Your house; Holy is Your temple, wondrous in righteousness. PSA.64:6 Hear us, O God our savior, The hope of all the ends of earth And of those far off at sea, PSA.64:7 He who prepares m ountains in His strength, Who is girded with power, PSA.64:8 Who troubles the depth of the sea, The sounds of its waves. The nations shall be troubled, PSA.64:9 And those who inhabit the ends of the earth Shall be afraid because of Your signs; You shall gladden the outgoings of morning and evening. PSA.64:10 You v isited the earth and watered it; You enriched it abundantly; The river of God is filled with waters; You prepared their food, for thus is Your preparation thereof. PSA.64:11 Water its furrows; multiply its fruits; With its raindrops the earth will be gladdened when it produces fruits. PSA.64:12 You will bless the crown of the y ear with Your goodness, And Your fields will be filled with fatness; PSA.64:13 The desert fruits will be made fat, And the hills will be girded with rejoicing. PSA.64:14 The ram s of the sheep are clothed with wool, And the valley s shall abound in wheat; They will shout and truly sing hy m ns. ## Chapter 65
+PSA.61:1 For the End, for Jeduthun; a psalm by David.
+PSA.61:2 Shall not my soul be submissive to God? For from Him is my salvation.
+PSA.61:3 For He is my God and my savior, My protector; I shall be shaken no more.
+PSA.61:4 How long will you attack a man? All of you murder him; You attack him as you would a leaning wall and a broken hedge.
+PSA.61:5 They also planned to remove my honor; They ran with a lie; They blessed with their mouth, and they cursed with their heart. (Pause)
+PSA.61:6 However, be submissive to God, O my soul, For my patient endurance is from Him.
+PSA.61:7 For He is my God and my savior, My protector; I shall never be moved.
+PSA.61:8 In God is my salvation and my glory; He is the God of my help, and my hope is in God.
+PSA.61:9 Hope in Him, all you congregation of people; Pour out your hearts before Him; God is our helper. (Pause)
+PSA.61:10 But the sons of men are useless; The sons of men are liars with the yokes of wrongdoing; They are altogether useless.
+PSA.61:11 Do not hope in wrongdoing, And do not hunger for booty; If riches flow in, Do not set your heart on them.
+PSA.61:12 God spoke once; I heard these two things:
+PSA.61:13 That power is of God, and to You, O Lord, is mercy; For You will repay every man according to his works.
 
-PSA.65:1 For the End; an ode of a psalm of resurrection. S hout to God, all the earth; PSA.65:2 Sing now to His name; Give glory to His praise. PSA.65:3 Say to God, "How fearful are Your works; In the greatness of Your power Your enemies will lie to You; PSA.65:4 Let all the earth worship You and sing to You; Let them sing to Your name." (Pause)
-PSA.65:5 Com e and see the works of God; He is more fearful in His counsels than the sons of men, PSA.65:6 Who turns the sea into dry land; They will cross over the river on foot. There we will be glad in Him, PSA.65:7 In Him who as Lord shall rule in His power forever; His eyes will look at the Gentiles; Let not those who provoke Him be exalted in themselves. (Pause)
-PSA.65:8 Bless our God, you Gentiles, And make the voice of His praise to be heard, PSA.65:9 Who established my soul in life, And who did not perm it my feet to be m ov ed. PSA.65:10 For You, O God, tested us; You tried us in the fire, as silver is purified by fire. PSA.65:11 You brought us into the snare; You laid affliction on our back. PSA.65:12 You put men on our heads; We went through fire and water, And You led us into a refreshing place. PSA.65:13 I will go into Your house with whole burnt offerings; I will pay You the v ows
-PSA.65:14 My lips uttered, And my mouth spoke in my affliction; PSA.65:15 I will offer You whole burnt offerings full of m arrow; With incense and ram s, I will offer oxen with a y oung he-goat. (Pause)
-PSA.65:16 Com e and hear, and I will describe to you, All who fear God, What things He did for my soul. PSA.65:17 I cried to Him with my mouth, And I exalted Him with my tongue. PSA.65:18 If I regarded wrongdoing in my heart, Let not the Lord hear me. PSA.65:19 Therefore God heard me; He gave heed to the voice of my supplication. PSA.65:20 Blessed be God, who has not turned away my prayer, Nor His mercy from me. ## Chapter 66
+## Chapter 62
 
-PSA.66:1 For the End, in hymns; a psalm of an ode. PSA.66:2 M ay God be gracious to us, and bless us; May He cause His face to shine upon us, (Pause)
-PSA.66:3 That we may know His way on the earth, Your salvation among all the Gentiles. PSA.66:4 Let the peoples give thanks to You, O God; Let all the peoples praise You. PSA.66:5 Let the Gentiles be glad and greatly rejoice, For You shall judge the peoples in uprightness, And lead the Gentiles on the earth. (Pause)
-PSA.66:6 Let the peoples give thanks to You, O God; Let all the peoples praise You. PSA.66:7 The earth y ielded her fruit; May God, our God, bless us. PSA.66:8 May God bless us, And let all the ends of the earth be in fear of Him. ## Chapter 67
+PSA.62:1 A psalm by David, when he was in the desert of Judea.
+PSA.62:2 O God, my God, I rise early to be with You; My soul thirsts for You. How often my flesh thirsts for You In a desolate, impassable, and waterless land.
+PSA.62:3 So in the holy place I appear before You, To see Your power and Your glory.
+PSA.62:4 Because Your mercy is better than life, My lips shall praise You.
+PSA.62:5 Thus I will bless You in my life; I will lift up my hands in Your name.
+PSA.62:6 May my soul be filled, as if with marrow and fatness, And my mouth shall sing praise to You with lips filled with rejoicing.
+PSA.62:7 If I remembered You on my bed, I meditated on You at day break;
+PSA.62:8 For You are my helper, And in the shelter of Your wings I will greatlyrejoice.
+PSA.62:9 My soul follows close behind You; Your right hand takes hold of me.
+PSA.62:10 But they seek for my soul in vain; They shall go into the lowest parts of the earth.
+PSA.62:11 They shall be given over to the edge of the sword; They shall be a portion for foxes.
+PSA.62:12 But the king shall be glad in God; All who swear by Him shall be praised, For the mouth that speaks unrighteous things is stopped.
 
-PSA.67:1 For the End; a psalm of an ode; by David. PSA.67:2 L et God arise, and let His enemies be scattered, And let those who hate Him flee from before His face. PSA.67:3 As sm oke v anishes, so let them v anish; As wax m elts before the fire, So let the sinners perish from the face of God. PSA.67:4 And let the righteous be glad; Let them greatly rejoice before God; Let them be glad with m errim ent. PSA.67:5 Sing to God; sing to His name; Make ready the way for Him Who rides upon the sunset; His name is the Lord; And greatly rejoice before Him. Let them be troubled before His face, PSA.67:6 He who is the father of orphans and the judge of widows; God is in His holy place. PSA.67:7 God settles the solitary in a house; With courage He leads out those in bondage, Likewise those who rebel, who dwell in tom bs. PSA.67:8 O God, when You went forth before Your people, When You passed through the desert, (Pause)
-PSA.67:9 The earth shook; truly the heavens let the rain fall, Before the face of the God of Sinai, Before the face of the God of Israel. PSA.67:10 You, O God, willingly grant rain to Your inheritance, And it was weakened, but You restored it. PSA.67:11 Your creatures are dwelling in it; In Your goodness, O God, You provide for the poor. PSA.67:12 The Lord will give His word To those proclaim ing the gospel with great power, PSA.67:13 He who is the King of hosts of the beloved, That He may divide the booty for the beauty of the house. PSA.67:14 If you fall asleep in the midst of your portions, You will have the wings of a dove, all covered with silver, And her back with y ellow gold. (Pause)
-PSA.67:15 When the heavenly One appoints kings over it, They shall become as white as the snow on Zalm on. PSA.67:16 The m ountain of God is a fertile m ountain, A m ountain richly curdled with m ilk, a fat m ountain. PSA.67:17 Why do you think about other m ountains richly curdled with m ilk? This is the m ountain God consented to dwell in; Truly the Lord will lodge in it to the end. PSA.67:18 God's chariot is ten thousand-fold, Thousands abounding in num bers; The Lord is among them at Sinai in the holy place. PSA.67:19 You ascended on high, You led captivity captive; You received gifts for m ankind, Truly for the disobedient, so they may dwell there. The Lord God is blessed; PSA.67:20 Blessed is the Lord from day to day; The God of our salvation will bring prosperity upon us. (Pause)
-PSA.67:21 Our God is the God who saves us, And the issues of death belong to the Lord's Lord. PSA.67:22 But God will crush the heads of His enemies, The hairy head of those who continue in their transgressions. PSA.67:23 The Lord said, "I will return from Bashan; I will return in the depths of the sea, PSA.67:24 So your foot may be dipped in blood, The tongue of your dogs in the blood of your enemies."
-PSA.67:25 Your processionals were seen, O God, The processionals of my God and my King in the holy place. PSA.67:26 The rulers drew near, singers followed after; In the midst of them cam e y oung m aidens play ing tim brels. PSA.67:27 Bless God in the churches, The Lord from the fountains of Israel. PSA.67:28 There is the y oung Benjam in in ecstasy; The rulers of Judea are their leaders, The rulers of Zebulun and Naphtali. PSA.67:29 Give command, O God, to Your power; Strengthen, O God, what You accom plished in us. PSA.67:30 Because of Your temple at Jerusalem, Kings will bring gifts to You. PSA.67:31 Rebuke the wild beasts of the reed, The herd of bulls among the heifers of the peoples, Lest they shut out those proven in silver; Scatter the nations that desire wars. PSA.67:32 Am bassadors shall come out of Egy pt; Ethiopia shall draw near to stretch out its hand to God. PSA.67:33 Sing to God, you kingdom s of the earth, sing to the Lord. (Pause)
-PSA.67:34 Sing to God, who rides upon the heaven of heavens towards the east; Behold, He will speak with His voice, a voice of power. PSA.67:35 Give glory to God; His m agnificence is over Israel, And His power is in the clouds. PSA.67:36 God is wondrous in His saints; The God of Israel shall give power and strength to His people. Blessed is God. ## Chapter 68
+## Chapter 63
 
-PSA.68:1 For the End, concerning things that shall be changed; by David. PSA.68:2 Save me, O God, for the waters flood my soul. PSA.68:3 I am stuck in the m ire of the sea, and there is no place to stand; I cam e into the depths of the sea, and the storm ov erwhelm ed me. PSA.68:4 I grow weary with cry ing; my throat is hoarse; My eyes fail me from hoping in my God. PSA.68:5 Those who hate me without a cause multiplied even more than the hairs of my head; My enemies who persecute me unjustly have become strong; Then I paid for things I did not steal. PSA.68:6 O God, You know my foolishness, And my transgressions are not hidden from You. PSA.68:7 O Lord, O Lord of hosts, let not those who wait for You be put to sham e because of me; O God of Israel, let not those who seek You feel ashamed because of me. PSA.68:8 For Your sake I bore disgrace; Hum iliation covered my face. PSA.68:9 I am become a stranger to my brothers, An alien to my m other's sons; PSA.68:10 For the zeal of Your house consum ed me, And the insults of those who disgraced You fell on me. PSA.68:11 I bent down my soul with fasting, And it became a disgrace for me. PSA.68:12 I also made sackcloth my garm ent, And I became a by word to them. PSA.68:13 Those who sit at the gate were talking against me, And those who drink wine were singing about me. PSA.68:14 But I, O Lord, pray with my prayer to You; It is the tim e of Your goodwill, O God, in the abundance of Your mercies; In the truth of Your salvation, hear me. PSA.68:15 Save me from the m ire, that I may not be stuck therein; Deliver me from those who hate me, and from the depths of the waters. PSA.68:16 Let not a storm of water drown me; Neither let the deep swallow me up, Nor the well enclose its mouth upon me. PSA.68:17 Hear me, O Lord, for Your mercy is good; According to Your abundant com passion, look upon me. PSA.68:18 Turn not Your face from Your child, For I am afflicted; hear me speedily. PSA.68:19 Give heed to my soul, and redeem it; Deliver me because of my enemies. PSA.68:20 For You know my disgrace And my sham e and hum iliation; All who afflict me are before You. PSA.68:21 My soul expected disgrace and trouble, And I waited for som eone to sy m pathize with me; but no one was there, And for com forters, but I found not one. PSA.68:22 They gave me gall for my food, And they gave me v inegar for my drink. PSA.68:23 Let their table become a snare before them, And a recom pense and a stum bling block. PSA.68:24 Let their eyes be darkened so they may not see, And bend down their backs continually; PSA.68:25 Pour out Your anger upon them, And let the fury of Your wrath lay hold of them. PSA.68:26 Let their dwelling place be laid waste, And let no one live in their tents. PSA.68:27 For they pursued closely the one You slew, And they added to the pain of my wounds. PSA.68:28 Add lawlessness to their lawlessness, And let them not enter into Your righteousness; PSA.68:29 Let them be blotted out from the book of the living, And not be written with the righteous. PSA.68:30 I am poor and suffering, And the salvation of Your presence, O God, lay s hold of me. PSA.68:31 I will praise God's name with a song; I will m agnify Him in praise, PSA.68:32 And this shall be more pleasing to God Than a y oung bull with horns and hooves. PSA.68:33 Let the poor behold this, and be glad; Seek God, and your soul shall live, PSA.68:34 For the Lord hears the poor, And does not despise His prisoners. PSA.68:35 Let heaven and earth praise Him, The seas and every thing that m ov es in them. PSA.68:36 For God shall save Zion, And the cities of Judah shall be built; And they shall dwell therein, and inherit it; PSA.68:37 And the seed of His servants shall possess it, And those who love His name shall dwell in it. ## Chapter 69
+PSA.63:1 For the End; a psalm by David.
+PSA.63:2 Hear my voice, O God, in my supplication; Deliver my soul from fear of the enemy.
+PSA.63:3 You sheltered me from the conspiracy of evildoers, From the multitude of those who work lawlessness,
+PSA.63:4 Who sharpen their tongue like a sword; They stretched their bow, a bitter thing,
+PSA.63:5 To strike down the blameless man in secret; Suddenly they will shoot him, and not be afraid.
+PSA.63:6 They made an evil word strong in themselves; They told of hiding snares; They said, "Who will see them?"
+PSA.63:7 They searched out lawlessness; In searching they grew weary. A man shall draw near, and the heart is deep;
+PSA.63:8 And God shall be exalted. Their blows became a childish barb,
+PSA.63:9 And their tongues were utterly weakened in them. All who saw them were troubled,
+PSA.63:10 And every man was afraid. And they proclaimed the works of God, And understood His deeds.
+PSA.63:11 The righteous man shall be glad in the Lord, and shall hope in Him; And all the upright in heart shall be praised.
 
-PSA.69:1 For the End; by David; in remembrance, PSA.69:2 that the Lord may save me. O God, make haste to help me. PSA.69:3 May those who seek my soul be dishonored and sham ed; May those who plot ev ils against me be turned back and disgraced; PSA.69:4 May those be turned back im m ediately Who sham e me, saying, "Well done! Well done!"
-PSA.69:5 May all who seek You greatly rejoice and be glad in You, And let those who love Your salvation alway s say, "Let God be m agnified."
-PSA.69:6 But I am poor and needy; O God, help me. You are my helper and deliverer, O Lord; do not delay. ## Chapter 70
+## Chapter 64
 
-PSA.70:1 By David; of the sons of Jonadab and the first ones taken captive. O God, in You I hope; may I never be put to sham e. PSA.70:2 Deliver me in Your righteousness, and set me free; Incline Your ear to me and save me. PSA.70:3 Be to me a God for protection And a strong place for salvation, For You are my foundation and my refuge. PSA.70:4 O my God, deliver me from the hand of the sinner, From the hand of those who transgress the law and act unjustly; PSA.70:5 For You are my patience, O Lord; The Lord is my hope from my y outh. PSA.70:6 By You I have been supported from birth; From my m other's wom b You have been my protector; My song shall be alway s of You. PSA.70:7 I am become as a wonder to many, And You are my strong helper. PSA.70:8 Let my mouth be filled with Your praise, That I may sing of Your glory And of Your m agnificence all the day long. PSA.70:9 Do not abandon me in the tim e of old age; When my strength fails, do not forsake me. PSA.70:10 For my enemies speak against me, And those who watch for my soul plot together, PSA.70:11 Say ing, "God forsook him; Pursue and lay hold of him, For there is no deliverer."
-PSA.70:12 O God, do not stand far off from me; O my God, give heed to help me. PSA.70:13 Let those who falsely accuse my soul be sham ed and forsaken; Let those who seek ev ils for me be covered with sham e and reproach. PSA.70:14 But I will hope continually, And I will add to all Your praise. PSA.70:15 My mouth shall proclaim Your righteousness, Your salvation all the day, For I am not acquainted with learning. PSA.70:16 I shall enter into the power of the Lord; O Lord, I shall remember Your righteousness, Yours alone. PSA.70:17 You taught me, O God, from my y outh, And from then until now I will proclaim Your wonders. PSA.70:18 And even to old age and to my last breath, O God, do not abandon me, Until I proclaim Your arm to every com ing generation, Yes, Your m ighty deeds and Your righteousness. PSA.70:19 O God, I proclaim the m agnificent things You did, Ev en to the highest heaven; O God, who is like You? PSA.70:20 How great and evil are the afflictions You showed me, And You returned, and made me live; And You raised me up again from the depths of the earth. PSA.70:21 You multiplied Your greatness, And You returned and com forted me; You brought me up again from the depths of the earth. PSA.70:22 Truly, I will give thanks to You with the instrum ent of a psalm, O God; I will sing to You with the ly re, O Holy One of Israel. PSA.70:23 My lips will greatly rejoice when I sing to You; So will my soul, which You redeem ed. PSA.70:24 My tongue shall meditate on Your righteousness all the day long, When those who seek ev ils for me are dishonored and sham ed. ## Chapter 71
+PSA.64:1 For the End; a psalm by David; an ode; sung by Jeremiah and Ezekiel regarding the situation of the sojourners, when they were about to depart.
+PSA.64:2 It is fitting to sing a hymn to You in Zion, O God, And a vow shall be rendered to You in Jerusalem.
+PSA.64:3 Hear my prayer; To You all flesh shall come.
+PSA.64:4 The words of lawless men overpowered us, And You will show mercy to our ungodliness.
+PSA.64:5 Blessed is he whom You choose and help; He shall dwell in Your courts. We shall be filled with the good things of Your house; Holy is Your temple, wondrous in righteousness.
+PSA.64:6 Hear us, O God our savior, The hope of all the ends of earth And of those far off at sea,
+PSA.64:7 He who prepares mountains in His strength, Who is girded with power,
+PSA.64:8 Who troubles the depth of the sea, The sounds of its waves. The nations shall be troubled,
+PSA.64:9 And those who inhabit the ends of the earth Shall be afraid because of Your signs; You shall gladden the outgoings of morning and evening.
+PSA.64:10 You visited the earth and watered it; You enriched it abundantly; The river of God is filled with waters; You prepared their food, for thus is Your preparation thereof.
+PSA.64:11 Water its furrows; multiply its fruits; With its raindrops the earth will be gladdened when it produces fruits.
+PSA.64:12 You will bless the crown of the y ear with Your goodness, And Your fields will be filled with fatness;
+PSA.64:13 The desert fruits will be made fat, And the hills will be girded with rejoicing.
+PSA.64:14 The rams of the sheep are clothed with wool, And the valleys shall abound in wheat; They will shout and truly sing hymns.
 
-PSA.71:1 For Solomon. O God, give Your judgments to the King, And Your righteousness to the King's Son, PSA.71:2 That He may judge Your people in righteousness And Your poor with judgment. PSA.71:3 Let the m ountains raise up peace for Your people And the hills in righteousness. PSA.71:4 He shall judge the poor of the people, And shall serve the sons of the poor; He shall hum ble the false accuser, PSA.71:5 And He shall continue as long as the sun And before the moon from generation to generation; PSA.71:6 And He shall come down like rain on the fleece, Like raindrops falling on the earth. PSA.71:7 In His day s, righteousness and abundance of peace shall flourish, Until the moon is rem ov ed. PSA.71:8 And He shall rule from sea to sea, And from the river to the ends of the inhabited earth. PSA.71:9 The Ethiopians shall bow down before Him, And His enemies shall lick the dust. PSA.71:10 The kings of Tarshish and their islands will come bearing gifts; The kings of Arabia and Saba will bring presents. PSA.71:11 All the kings of the earth shall worship Him; All the Gentiles shall serve Him. PSA.71:12 For He rescued the poor from the hand of a strong man, And the needy, for whom there was no helper. PSA.71:13 He shall spare the poor and needy, And He shall save the souls of the needy; PSA.71:14 He shall redeem their souls from usury and injustice, And precious shall be their name in His sight. PSA.71:15 He shall live, and there shall be given Him from the gold of Arabia; They shall pray continually because of Him, All the day long shall they bless Him. PSA.71:16 He shall be a support on the earth upon the sum m its of the m ountains; His fruit shall be exalted more than Lebanon, And they shall flourish from the city like the grass of the earth. PSA.71:17 Let His name be blessed unto the ages; His name shall rem ain before the sun, And all the tribes of the earth shall be blessed in Him; All the Gentiles shall bless Him. PSA.71:18 Blessed is the Lord God, The God of Israel, who alone does wondrous things. PSA.71:19 And blessed is the name of His glory forever and unto ages of ages, And all the earth shall be filled with His glory. Am en! Am en! PSA.71:20 The hy m ns of Dav id the son of Jesse are ended. ## Chapter 72
+## Chapter 65
 
-PSA.72:1 A psalm for Asaph. How good God is to Israel, To the upright in heart. PSA.72:2 But as for me, my feet were alm ost shaken; My steps had nearly slipped. PSA.72:3 For I was jealous of the lawless When I beheld the peace of sinners. PSA.72:4 For there is no upward gaze at their death Nor steadfastness in their chastening. PSA.72:5 They are not in difficulties as other men, And they shall not be chastened with other men. PSA.72:6 For this reason arrogance m astered them; They clothed themselves with their wrongdoing and ungodliness; PSA.72:7 Their wrongdoing shall go forth as from fatness; They passed through to their heart's intent. PSA.72:8 They thought and spoke in evil; They spoke in wrongdoing to the height. PSA.72:9 They set their mouth against heaven, And their tongue passed through the earth. PSA.72:10 For this reason my people shall return here; Day s of fullness shall be found in them. PSA.72:11 They said, "How does God know? Is there knowledge in the Most High?"
-PSA.72:12 Behold, these are sinners, and they prosper; They possess wealth in this age. PSA.72:13 And I said, "Surely in vain have I kept my heart righteous, And washed my hands with the innocent."
-PSA.72:14 For all day long I was scourged, And my reproof persisted through the night. PSA.72:15 If I should speak, I would describe it thus: Behold, I am breaking covenant with the generation of your children. PSA.72:16 And I sought to understand this; It was difficult in my sight, PSA.72:17 Until I cam e into God's holy place And understood their end. PSA.72:18 Surely, for their deceits You appointed deceits for them; You cast them down in their exaltation. PSA.72:19 Oh, how they cam e into desolation suddenly! They ceased to be; they perished in their lawlessness. PSA.72:20 Like a dream to one who is awakened, So, O Lord, You shall despise their im age in Your city. PSA.72:21 For my heart was kindled, And my reins were changed, PSA.72:22 And I was despised, and did not know; I became like a beast before You. PSA.72:23 And I am continually with You; You hold fast my right hand; PSA.72:24 With Your counsel You guide me, And with glory You take hold of me. PSA.72:25 For what is there in heaven for me but You, And what do I desire on earth besides You? PSA.72:26 My heart and my flesh fail, O God of my heart; and God is my portion forever. PSA.72:27 For behold, those who keep themselves far away from You shall perish; You destroy away from You all who act unfaithfully. PSA.72:28 But as for me, it is good to cling to God, To put my hope in the Lord, That I may proclaim all Your praises In the gates of the daughter of Zion. ## Chapter 73
+PSA.65:1 For the End; an ode of a psalm of resurrection. Shout to God, all the earth;
+PSA.65:2 Sing now to His name; Give glory to His praise.
+PSA.65:3 Say to God, "How fearful are Your works; In the greatness of Your power Your enemies will lie to You;
+PSA.65:4 Let all the earth worship You and sing to You; Let them sing to Your name." (Pause)
+PSA.65:5 Come and see the works of God; He is more fearful in His counsels than the sons of men,
+PSA.65:6 Who turns the sea into dry land; They will cross over the river on foot. There we will be glad in Him,
+PSA.65:7 In Him who as Lord shall rule in His power forever; His eyes will look at the Gentiles; Let not those who provoke Him be exalted in themselves. (Pause)
+PSA.65:8 Bless our God, you Gentiles, And make the voice of His praise to be heard,
+PSA.65:9 Who established my soul in life, And who did not permit my feet to be moved.
+PSA.65:10 For You, O God, tested us; You tried us in the fire, as silver is purified by fire.
+PSA.65:11 You brought us into the snare; You laid affliction on our back.
+PSA.65:12 You put men on our heads; We went through fire and water, And You led us into a refreshing place.
+PSA.65:13 I will go into Your house with whole burnt offerings; I will pay You the vows
+PSA.65:14 My lips uttered, And my mouth spoke in my affliction;
+PSA.65:15 I will offer You whole burnt offerings full of marrow; With incense and rams, I will offer oxen with a young he-goat. (Pause)
+PSA.65:16 Come and hear, and I will describe to you, All who fear God, What things He did for my soul.
+PSA.65:17 I cried to Him with my mouth, And I exalted Him with my tongue.
+PSA.65:18 If I regarded wrongdoing in my heart, Let not the Lord hear me.
+PSA.65:19 Therefore God heard me; He gave heed to the voice of my supplication.
+PSA.65:20 Blessed be God, who has not turned away my prayer, Nor His mercy from me.
 
-PSA.73:1 Of understanding; for Asaph. O God, why have You rejected us to the end? Why has Your anger raged against the sheep of Your pasture? PSA.73:2 Rem em ber Your congregation You acquired from the beginning, That You redeem ed the rod of Your inheritance, This Mount Zion, where You encam ped. PSA.73:3 Lift up Your hands against their arrogance to the end, Against every thing the enemy prostituted in Your holy places. PSA.73:4 Those who hate You boasted in the midst of Your feast; They set up their signs, y es signs, and they did not know. PSA.73:5 As into an entrance hall, PSA.73:6 As in a thicket of trees, they cut down its doors with axes; With battle axes and ham m ers, they broke it down. PSA.73:7 They burned down Your sanctuary; They defiled the tabernacle of Your name to the ground. PSA.73:8 Their kindred said in their heart together, "Com e, let us abolish all the feasts of God from the earth."
-PSA.73:9 We do not see our signs; There is no longer any prophet, and He will no longer know us. PSA.73:10 How long, O God, will the enemy reproach? Will the adv ersary provoke Your name to the end? PSA.73:11 Why do You turn away Your hand, Your right hand from the midst of Your breast to the end? PSA.73:12 But God is our King before the ages; He worked salvation in the midst of the earth. PSA.73:13 You strengthened the sea by Your power; You crushed the heads of dragons upon the water. PSA.73:14 You shattered the heads of the dragon; You gave him as food for the Ethiopian peoples. PSA.73:15 You broke apart fountains and torrents; You dried up the rivers of Etham. PSA.73:16 The day is Yours, and the night is Yours; You created the light and the sun. PSA.73:17 You made all the boundaries of the earth; Sum m er and winter, You form ed these things. PSA.73:18 Rem em ber this: the enemy insulted the Lord, And a foolish people provoked Your name. PSA.73:19 May You not deliver to wild beasts the soul who gives thanks to You; May You not forget the souls of Your poor to the end. PSA.73:20 Look upon Your covenant, For the dark places of the earth are filled with the houses of lawlessness. PSA.73:21 Let not the hum bled and the disgraced be turned away; The poor and needy shall praise Your name. PSA.73:22 Arise, O God, judge Your cause; Rem em ber the insults against You by the foolish man all the day long. PSA.73:23 Do not forget the voice of Your suppliants; The arrogance of those who hate You rises against You continually. ## Chapter 74
+## Chapter 66
 
-PSA.74:1 For the End; do not corrupt; a psalm of an ode for Asaph. PSA.74:2 W e shall give thanks to You, O God; We shall give thanks, and call upon Your name. PSA.74:3 I shall describe all Your wonders. "When I seize the opportunity, I shall judge these rightly. PSA.74:4 The earth is dissolved and all its inhabitants; I made firm its pillars." (Pause)
-PSA.74:5 I said to those who transgress the law, "Do not transgress the law," And to those who sin I said, "Do not exalt y ourselves; PSA.74:6 Do not boast in y ourselves; Do not accuse God of wrongdoing."
-PSA.74:7 For judgment com es neither from the sunrise nor the sunset Nor from m ountains of the deserts, PSA.74:8 For God is judge; This one He brings down low, and that one He raises up. PSA.74:9 For the cup in the Lord's hand Is full of unm ixed wine, a drink poured out; And He tipped it from side to side, But its dregs were not em ptied out; All sinners of the earth shall drink them. PSA.74:10 But I shall greatly rejoice forever; I shall sing to the God of Jacob. PSA.74:11 All the horns of sinners I shall crush, But the horns of the righteous man shall be exalted. ## Chapter 75
+PSA.66:1 For the End, in hymns; a psalm of an ode.
+PSA.66:2 May God be gracious to us, and bless us; May He cause His face to shine upon us, (Pause)
+PSA.66:3 That we may know His way on the earth, Your salvation among all the Gentiles.
+PSA.66:4 Let the peoples give thanks to You, O God; Let all the peoples praise You.
+PSA.66:5 Let the Gentiles be glad and greatlyrejoice, For You shall judge the peoples in uprightness, And lead the Gentiles on the earth. (Pause)
+PSA.66:6 Let the peoples give thanks to You, O God; Let all the peoples praise You.
+PSA.66:7 The earth yielded her fruit; May God, our God, bless us.
+PSA.66:8 May God bless us, And let all the ends of the earth be in fear of Him.
 
-PSA.75:1 For the End; in hymns; a psalm for Asaph, an ode to the Assyrian. PSA.75:2 I n Judah God is known; His name is great in Israel. PSA.75:3 His place was made in peace And His dwelling in Zion. PSA.75:4 There He broke the power of the bows, Weapon and sword and battle. (Pause)
-PSA.75:5 You give light wondrously From the ev erlasting m ountains. PSA.75:6 All the foolish in heart were troubled; All the men of wealth slept their sleep And found nothing in their hands. PSA.75:7 At Your rebuke, O God of Jacob, Those who m ounted horses fell asleep. PSA.75:8 You are fearsom e, and who shall stand against You? From that tim e on is Your wrath. PSA.75:9 You caused judgment to be heard from heaven; The earth was afraid, and kept quiet
+## Chapter 67
+
+PSA.67:1 For the End; a psalm of an ode; by David.
+PSA.67:2 Let God arise, and let His enemies be scattered, And let those who hate Him flee from before His face.
+PSA.67:3 As smoke vanishes, so let them vanish; As wax melts before the fire, So let the sinners perish from the face of God.
+PSA.67:4 And let the righteous be glad; Let them greatlyrejoice before God; Let them be glad with merriment.
+PSA.67:5 Sing to God; sing to His name; Make ready the way for Him Who rides upon the sunset; His name is the Lord; And greatlyrejoice before Him. Let them be troubled before His face,
+PSA.67:6 He who is the father of orphans and the judge of widows; God is in His holy place.
+PSA.67:7 God settles the solitary in a house; With courage He leads out those in bondage, Likewise those who rebel, who dwell in tombs.
+PSA.67:8 O God, when You went forth before Your people, When You passed through the desert, (Pause)
+PSA.67:9 The earth shook; truly the heavens let the rain fall, Before the face of the God of Sinai, Before the face of the God of Israel.
+PSA.67:10 You, O God, willingly grant rain to Your inheritance, And it was weakened, but You restored it.
+PSA.67:11 Your creatures are dwelling in it; In Your goodness, O God, You provide for the poor.
+PSA.67:12 The Lord will give His word To those proclaiming the gospel with great power,
+PSA.67:13 He who is the King of hosts of the beloved, That He may divide the booty for the beauty of the house.
+PSA.67:14 If you fall asleep in the midst of your portions, You will have the wings of a dove, all covered with silver, And her back with yellow gold. (Pause)
+PSA.67:15 When the heavenly One appoints kings over it, They shall become as white as the snow on Zalmon.
+PSA.67:16 The mountain of God is a fertile mountain, A mountain richly curdled with milk, a fat mountain.
+PSA.67:17 Why do you think about other mountains richly curdled with milk? This is the mountain God consented to dwell in; Truly the Lord will lodge in it to the end.
+PSA.67:18 God's chariot is ten thousand-fold, Thousands abounding in numbers; The Lord is among them at Sinai in the holy place.
+PSA.67:19 You ascended on high, You led captivity captive; You received gifts for mankind, Truly for the disobedient, so they may dwell there. The Lord God is blessed;
+PSA.67:20 Blessed is the Lord from day to day; The God of our salvation will bring prosperity upon us. (Pause)
+PSA.67:21 Our God is the God who saves us, And the issues of death belong to the Lord's Lord.
+PSA.67:22 But God will crush the heads of His enemies, The hairy head of those who continue in their transgressions.
+PSA.67:23 The Lord said, "I will return from Bashan; I will return in the depths of the sea,
+PSA.67:24 So your foot may be dipped in blood, The tongue of your dogs in the blood of your enemies."
+PSA.67:25 Your processionals were seen, O God, The processionals of my God and my King in the holy place.
+PSA.67:26 The rulers drew near, singers followed after; In the midst of them came young maidens playing timbrels.
+PSA.67:27 Bless God in the churches, The Lord from the fountains of Israel.
+PSA.67:28 There is the young Benjamin in ecstasy; The rulers of Judea are their leaders, The rulers of Zebulun and Naphtali.
+PSA.67:29 Give command, O God, to Your power; Strengthen, O God, what You accomplished in us.
+PSA.67:30 Because of Your temple at Jerusalem, Kings will bring gifts to You.
+PSA.67:31 Rebuke the wild beasts of the reed, The herd of bulls among the heifers of the peoples, Lest they shut out those proven in silver; Scatter the nations that desire wars.
+PSA.67:32 Ambassadors shall come out of Egypt; Ethiopia shall draw near to stretch out its hand to God.
+PSA.67:33 Sing to God, you kingdoms of the earth, sing to the Lord. (Pause)
+PSA.67:34 Sing to God, who rides upon the heaven of heavens towards the east; Behold, He will speak with His voice, a voice of power.
+PSA.67:35 Give glory to God; His magnificence is over Israel, And His power is in the clouds.
+PSA.67:36 God is wondrous in His saints; The God of Israel shall give power and strength to His people. Blessed is God.
+
+## Chapter 68
+
+PSA.68:1 For the End, concerning things that shall be changed; by David.
+PSA.68:2 Save me, O God, for the waters flood my soul.
+PSA.68:3 I am stuck in the mire of the sea, and there is no place to stand; I came into the depths of the sea, and the storm overwhelmed me.
+PSA.68:4 I grow weary with crying; my throat is hoarse; My eyes fail me from hoping in my God.
+PSA.68:5 Those who hate me without a cause multiplied even more than the hairs of my head; My enemies who persecute me unjustly have become strong; Then I paid for things I did not steal.
+PSA.68:6 O God, You know my foolishness, And my transgressions are not hidden from You.
+PSA.68:7 O Lord, O Lord of hosts, let not those who wait for You be put to shame because of me; O God of Israel, let not those who seek You feel ashamed because of me.
+PSA.68:8 For Your sake I bore disgrace; Humiliation covered my face.
+PSA.68:9 I am become a stranger to my brothers, An alien to my mother's sons;
+PSA.68:10 For the zeal of Your house consumed me, And the insults of those who disgraced You fell on me.
+PSA.68:11 I bent down my soul with fasting, And it became a disgrace for me.
+PSA.68:12 I also made sackcloth my garment, And I became a by word to them.
+PSA.68:13 Those who sit at the gate were talking against me, And those who drink wine were singing about me.
+PSA.68:14 But I, O Lord, pray with my prayer to You; It is the time of Your goodwill, O God, in the abundance of Your mercies; In the truth of Your salvation, hear me.
+PSA.68:15 Save me from the mire, that I may not be stuck therein; Deliver me from those who hate me, and from the depths of the waters.
+PSA.68:16 Let not a storm of water drown me; Neither let the deep swallow me up, Nor the well enclose its mouth upon me.
+PSA.68:17 Hear me, O Lord, for Your mercy is good; According to Your abundant compassion, look upon me.
+PSA.68:18 Turn not Your face from Your child, For I am afflicted; hear me speedily.
+PSA.68:19 Give heed to my soul, and redeem it; Deliver me because of my enemies.
+PSA.68:20 For You know my disgrace And my shame and humiliation; All who afflict me are before You.
+PSA.68:21 My soul expected disgrace and trouble, And I waited for someone to sympathize with me; but no one was there, And for comforters, but I found not one.
+PSA.68:22 They gave me gall for my food, And they gave me vinegar for my drink.
+PSA.68:23 Let their table become a snare before them, And a recompense and a stumbling block.
+PSA.68:24 Let their eyes be darkened so they may not see, And bend down their backs continually;
+PSA.68:25 Pour out Your anger upon them, And let the fury of Your wrath lay hold of them.
+PSA.68:26 Let their dwelling place be laid waste, And let no one live in their tents.
+PSA.68:27 For they pursued closely the one You slew, And they added to the pain of my wounds.
+PSA.68:28 Add lawlessness to their lawlessness, And let them not enter into Your righteousness;
+PSA.68:29 Let them be blotted out from the book of the living, And not be written with the righteous.
+PSA.68:30 I am poor and suffering, And the salvation of Your presence, O God, lays hold of me.
+PSA.68:31 I will praise God's name with a song; I will magnify Him in praise,
+PSA.68:32 And this shall be more pleasing to God Than a young bull with horns and hooves.
+PSA.68:33 Let the poor behold this, and be glad; Seek God, and your soul shall live,
+PSA.68:34 For the Lord hears the poor, And does not despise His prisoners.
+PSA.68:35 Let heaven and earth praise Him, The seas and every thing that moves in them.
+PSA.68:36 For God shall save Zion, And the cities of Judah shall be built; And they shall dwell therein, and inherit it;
+PSA.68:37 And the seed of His servants shall possess it, And those who love His name shall dwell in it.
+
+## Chapter 69
+
+PSA.69:1 For the End; by David; in remembrance,
+PSA.69:2 that the Lord may save me. O God, make haste to help me.
+PSA.69:3 May those who seek my soul be dishonored and shamed; May those who plot evils against me be turned back and disgraced;
+PSA.69:4 May those be turned back immediately Who shame me, saying, "Well done! Well done!"
+PSA.69:5 May all who seek You greatlyrejoice and be glad in You, And let those who love Your salvation always say, "Let God be magnified."
+PSA.69:6 But I am poor and needy; O God, help me. You are my helper and deliverer, O Lord; do not delay.
+
+## Chapter 70
+
+PSA.70:1 By David; of the sons of Jonadab and the first ones taken captive. O God, in You I hope; may I never be put to shame.
+PSA.70:2 Deliver me in Your righteousness, and set me free; Incline Your ear to me and save me.
+PSA.70:3 Be to me a God for protection And a strong place for salvation, For You are my foundation and my refuge.
+PSA.70:4 O my God, deliver me from the hand of the sinner, From the hand of those who transgress the law and act unjustly;
+PSA.70:5 For You are my patience, O Lord; The Lord is my hope from my youth.
+PSA.70:6 By You I have been supported from birth; From my mother's womb You have been my protector; My song shall be always of You.
+PSA.70:7 I am become as a wonder to many, And You are my strong helper.
+PSA.70:8 Let my mouth be filled with Your praise, That I may sing of Your glory And of Your magnificence all the day long.
+PSA.70:9 Do not abandon me in the time of old age; When my strength fails, do not forsake me.
+PSA.70:10 For my enemies speak against me, And those who watch for my soul plot together,
+PSA.70:11 Saying, "God forsook him; Pursue and lay hold of him, For there is no deliverer."
+PSA.70:12 O God, do not stand far off from me; O my God, give heed to help me.
+PSA.70:13 Let those who falsely accuse my soul be shamed and forsaken; Let those who seek evils for me be covered with shame and reproach.
+PSA.70:14 But I will hope continually, And I will add to all Your praise.
+PSA.70:15 My mouth shall proclaim Your righteousness, Your salvation all the day, For I am not acquainted with learning.
+PSA.70:16 I shall enter into the power of the Lord; O Lord, I shall remember Your righteousness, Yours alone.
+PSA.70:17 You taught me, O God, from my youth, And from then until now I will proclaim Your wonders.
+PSA.70:18 And even to old age and to my last breath, O God, do not abandon me, Until I proclaim Your arm to every coming generation, Yes, Your mighty deeds and Your righteousness.
+PSA.70:19 O God, I proclaim the magnificent things You did, Even to the highest heaven; O God, who is like You?
+PSA.70:20 How great and evil are the afflictions You showed me, And You returned, and made me live; And You raised me up again from the depths of the earth.
+PSA.70:21 You multiplied Your greatness, And You returned and comforted me; You brought me up again from the depths of the earth.
+PSA.70:22 Truly, I will give thanks to You with the instrument of a psalm, O God; I will sing to You with the lyre, O Holy One of Israel.
+PSA.70:23 My lips will greatlyrejoice when I sing to You; So will my soul, which You redeemed.
+PSA.70:24 My tongue shall meditate on Your righteousness all the day long, When those who seek evils for me are dishonored and shamed.
+
+## Chapter 71
+
+PSA.71:1 For Solomon. O God, give Your judgments to the King, And Your righteousness to the King's Son,
+PSA.71:2 That He may judge Your people in righteousness And Your poor with judgment.
+PSA.71:3 Let the mountains raise up peace for Your people And the hills in righteousness.
+PSA.71:4 He shall judge the poor of the people, And shall serve the sons of the poor; He shall humble the false accuser,
+PSA.71:5 And He shall continue as long as the sun And before the moon from generation to generation;
+PSA.71:6 And He shall come down like rain on the fleece, Like raindrops falling on the earth.
+PSA.71:7 In His days, righteousness and abundance of peace shall flourish, Until the moon is removed.
+PSA.71:8 And He shall rule from sea to sea, And from the river to the ends of the inhabited earth.
+PSA.71:9 The Ethiopians shall bow down before Him, And His enemies shall lick the dust.
+PSA.71:10 The kings of Tarshish and their islands will come bearing gifts; The kings of Arabia and Saba will bring presents.
+PSA.71:11 All the kings of the earth shall worship Him; All the Gentiles shall serve Him.
+PSA.71:12 For He rescued the poor from the hand of a strong man, And the needy, for whom there was no helper.
+PSA.71:13 He shall spare the poor and needy, And He shall save the souls of the needy;
+PSA.71:14 He shall redeem their souls from usury and injustice, And precious shall be their name in His sight.
+PSA.71:15 He shall live, and there shall be given Him from the gold of Arabia; They shall pray continually because of Him, All the day long shall they bless Him.
+PSA.71:16 He shall be a support on the earth upon the summits of the mountains; His fruit shall be exalted more than Lebanon, And they shall flourish from the city like the grass of the earth.
+PSA.71:17 Let His name be blessed unto the ages; His name shall remain before the sun, And all the tribes of the earth shall be blessed in Him; All the Gentiles shall bless Him.
+PSA.71:18 Blessed is the Lord God, The God of Israel, who alone does wondrous things.
+PSA.71:19 And blessed is the name of His glory forever and unto ages of ages, And all the earth shall be filled with His glory. Amen! Amen!
+PSA.71:20 The hymns of David the son of Jesse are ended.
+
+## Chapter 72
+
+PSA.72:1 A psalm for Asaph. How good God is to Israel, To the upright in heart.
+PSA.72:2 But as for me, my feet were almost shaken; My steps had nearly slipped.
+PSA.72:3 For I was jealous of the lawless When I beheld the peace of sinners.
+PSA.72:4 For there is no upward gaze at their death Nor steadfastness in their chastening.
+PSA.72:5 They are not in difficulties as other men, And they shall not be chastened with other men.
+PSA.72:6 For this reason arrogance mastered them; They clothed themselves with their wrongdoing and ungodliness;
+PSA.72:7 Their wrongdoing shall go forth as from fatness; They passed through to their heart's intent.
+PSA.72:8 They thought and spoke in evil; They spoke in wrongdoing to the height.
+PSA.72:9 They set their mouth against heaven, And their tongue passed through the earth.
+PSA.72:10 For this reason my people shall return here; Days of fullness shall be found in them.
+PSA.72:11 They said, "How does God know? Is there knowledge in the Most High?"
+PSA.72:12 Behold, these are sinners, and they prosper; They possess wealth in this age.
+PSA.72:13 And I said, "Surely in vain have I kept my heart righteous, And washed my hands with the innocent."
+PSA.72:14 For all day long I was scourged, And my reproof persisted through the night.
+PSA.72:15 If I should speak, I would describe it thus: Behold, I am breaking covenant with the generation of your children.
+PSA.72:16 And I sought to understand this; It was difficult in my sight,
+PSA.72:17 Until I came into God's holy place And understood their end.
+PSA.72:18 Surely, for their deceits You appointed deceits for them; You cast them down in their exaltation.
+PSA.72:19 Oh, how they came into desolation suddenly! They ceased to be; they perished in their lawlessness.
+PSA.72:20 Like a dream to one who is awakened, So, O Lord, You shall despise their image in Your city.
+PSA.72:21 For my heart was kindled, And my reins were changed,
+PSA.72:22 And I was despised, and did not know; I became like a beast before You.
+PSA.72:23 And I am continually with You; You hold fast my right hand;
+PSA.72:24 With Your counsel You guide me, And with glory You take hold of me.
+PSA.72:25 For what is there in heaven for me but You, And what do I desire on earth besides You?
+PSA.72:26 My heart and my flesh fail, O God of my heart; and God is my portion forever.
+PSA.72:27 For behold, those who keep themselves far away from You shall perish; You destroy away from You all who act unfaithfully.
+PSA.72:28 But as for me, it is good to cling to God, To put my hope in the Lord, That I may proclaim all Your praises In the gates of the daughter of Zion.
+
+## Chapter 73
+
+PSA.73:1 Of understanding; for Asaph. O God, why have You rejected us to the end? Why has Your anger raged against the sheep of Your pasture?
+PSA.73:2 Remember Your congregation You acquired from the beginning, That You redeemed the rod of Your inheritance, This Mount Zion, where You encamped.
+PSA.73:3 Lift up Your hands against their arrogance to the end, Against every thing the enemy prostituted in Your holy places.
+PSA.73:4 Those who hate You boasted in the midst of Your feast; They set up their signs, y es signs, and they did not know.
+PSA.73:5 As into an entrance hall,
+PSA.73:6 As in a thicket of trees, they cut down its doors with axes; With battle axes and hammers, they broke it down.
+PSA.73:7 They burned down Your sanctuary; They defiled the tabernacle of Your name to the ground.
+PSA.73:8 Their kindred said in their heart together, "Come, let us abolish all the feasts of God from the earth."
+PSA.73:9 We do not see our signs; There is no longer any prophet, and He will no longer know us.
+PSA.73:10 How long, O God, will the enemy reproach? Will the adversary provoke Your name to the end?
+PSA.73:11 Why do You turn away Your hand, Your right hand from the midst of Your breast to the end?
+PSA.73:12 But God is our King before the ages; He worked salvation in the midst of the earth.
+PSA.73:13 You strengthened the sea by Your power; You crushed the heads of dragons upon the water.
+PSA.73:14 You shattered the heads of the dragon; You gave him as food for the Ethiopian peoples.
+PSA.73:15 You broke apart fountains and torrents; You dried up the rivers of Etham.
+PSA.73:16 The day is Yours, and the night is Yours; You created the light and the sun.
+PSA.73:17 You made all the boundaries of the earth; Summer and winter, You formed these things.
+PSA.73:18 Remember this: the enemy insulted the Lord, And a foolish people provoked Your name.
+PSA.73:19 May You not deliver to wild beasts the soul who gives thanks to You; May You not forget the souls of Your poor to the end.
+PSA.73:20 Look upon Your covenant, For the dark places of the earth are filled with the houses of lawlessness.
+PSA.73:21 Let not the humbled and the disgraced be turned away; The poor and needy shall praise Your name.
+PSA.73:22 Arise, O God, judge Your cause; Remember the insults against You by the foolish man all the day long.
+PSA.73:23 Do not forget the voice of Your suppliants; The arrogance of those who hate You rises against You continually.
+
+## Chapter 74
+
+PSA.74:1 For the End; do not corrupt; a psalm of an ode for Asaph.
+PSA.74:2 We shall give thanks to You, O God; We shall give thanks, and call upon Your name.
+PSA.74:3 I shall describe all Your wonders. "When I seize the opportunity, I shall judge these rightly.
+PSA.74:4 The earth is dissolved and all its inhabitants; I made firmits pillars." (Pause)
+PSA.74:5 I said to those who transgress the law, "Do not transgress the law," And to those who sin I said, "Do not exalt yourselves;
+PSA.74:6 Do not boast in yourselves; Do not accuse God of wrongdoing."
+PSA.74:7 For judgment comes neither from the sunrise nor the sunset Nor from mountains of the deserts,
+PSA.74:8 For God is judge; This one He brings down low, and that one He raises up.
+PSA.74:9 For the cup in the Lord's hand Is full of unmixed wine, a drink poured out; And He tipped it from side to side, But its dregs were not emptied out; All sinners of the earth shall drink them.
+PSA.74:10 But I shall greatlyrejoice forever; I shall sing to the God of Jacob.
+PSA.74:11 All the horns of sinners I shall crush, But the horns of the righteous man shall be exalted.
+
+## Chapter 75
+
+PSA.75:1 For the End; in hymns; a psalm for Asaph, an ode to the Assyrian.
+PSA.75:2 In Judah God is known; His name is great in Israel.
+PSA.75:3 His place was made in peace And His dwelling in Zion.
+PSA.75:4 There He broke the power of the bows, Weapon and sword and battle. (Pause)
+PSA.75:5 You give light wondrously From the everlasting mountains.
+PSA.75:6 All the foolish in heart were troubled; All the men of wealth slept their sleep And found nothing in their hands.
+PSA.75:7 At Your rebuke, O God of Jacob, Those who mounted horses fell asleep.
+PSA.75:8 You are fearsome, and who shall stand against You? From that time on is Your wrath.
+PSA.75:9 You caused judgment to be heard from heaven; The earth was afraid, and kept quiet
 PSA.75:10 When God arose for judgment, To save all the gentle on the earth. (Pause)
-PSA.75:11 For a man shall give thanks to You from his heart, And he shall celebrate a feast to You with his whole heart. PSA.75:12 Pray and return to the Lord Your God; All around Him shall bring gifts
-PSA.75:13 To the fearsom e One, and to Him who takes away the spirits of rulers, To the fearsom e One among the kings of the earth. ## Chapter 76
+PSA.75:11 For a man shall give thanks to You from his heart, And he shall celebrate a feast to You with his whole heart.
+PSA.75:12 Pray and return to the Lord Your God; All around Him shall bring gifts
+PSA.75:13 To the fearsome One, and to Him who takes away the spirits of rulers, To the fearsome One among the kings of the earth.
 
-PSA.76:1 For the End, concerning Idithun; a psalm for Asaph. PSA.76:2 W ith my voice I cried to the Lord, With my voice to God, and He gave heed to me. PSA.76:3 In the day of my affliction I sought out God With my hands before Him by night, And I was not deceived; My soul refused to be com forted. PSA.76:4 I rem em bered God and was glad; I com plained, and my spirit became discouraged. (Pause)
-PSA.76:5 I stay ed awake through all the watches of the night; I was troubled and did not speak. PSA.76:6 I thought of the day s of old, And I rem em bered the eternal y ears; and I m editated. PSA.76:7 By night I com m uned with my heart, And my spirit searched. PSA.76:8 Will the Lord cast me off unto the ages? And will He be favorable no more? PSA.76:9 Or will He cut off His mercy com pletely, From generation to generation? PSA.76:10 Or will God forget to be m erciful? Or will He in His wrath withhold His mercies? (Pause)
+## Chapter 76
+
+PSA.76:1 For the End, concerning Idithun; a psalm for Asaph.
+PSA.76:2 With my voice I cried to the Lord, With my voice to God, and He gave heed to me.
+PSA.76:3 In the day of my affliction I sought out God With my hands before Him by night, And I was not deceived; My soul refused to be comforted.
+PSA.76:4 I remembered God and was glad; I complained, and my spirit became discouraged. (Pause)
+PSA.76:5 I stayed awake through all the watches of the night; I was troubled and did not speak.
+PSA.76:6 I thought of the days of old, And I remembered the eternal years; and I meditated.
+PSA.76:7 By night I communed with my heart, And my spirit searched.
+PSA.76:8 Will the Lord cast me off unto the ages? And will He be favorable no more?
+PSA.76:9 Or will He cut off His mercy completely, From generation to generation?
+PSA.76:10 Or will God forget to be merciful? Or will He in His wrath withhold His mercies? (Pause)
 PSA.76:11 I said, "Now I am beginning to see; This change is by the right hand of the Most High."
-PSA.76:12 I rem em bered the Lord's works, For I will remember Your wonders of old, PSA.76:13 And I will meditate on all Your works; And I will consider Your way s. PSA.76:14 O God, Your way is in the holy place; Who is so great a God as our God? PSA.76:15 You are the God who does wonders; You made known Your power among the peoples; PSA.76:16 You redeem ed Your people with Your arm, The sons of Jacob and Joseph. (Pause)
-PSA.76:17 The waters saw You, O God; The waters saw You and were afraid, And the depths were troubled, A multitude like the sound of waters. PSA.76:18 The clouds uttered their voice, For Your arrows passed through them; PSA.76:19 The voice of Your thunder was in the wheel; Your lightning gave light to the world; It was shaken, and the earth was made to trem ble. PSA.76:20 Your way is in the sea, And Your paths are in many waters; And Your footsteps shall not be known. PSA.76:21 You led Your people as sheep By the hand of Moses and Aaron. ## Chapter 77
+PSA.76:12 I remembered the Lord's works, For I will remember Your wonders of old,
+PSA.76:13 And I will meditate on all Your works; And I will consider Your ways.
+PSA.76:14 O God, Your way is in the holy place; Who is so great a God as our God?
+PSA.76:15 You are the God who does wonders; You made known Your power among the peoples;
+PSA.76:16 You redeemed Your people with Your arm, The sons of Jacob and Joseph. (Pause)
+PSA.76:17 The waters saw You, O God; The waters saw You and were afraid, And the depths were troubled, A multitude like the sound of waters.
+PSA.76:18 The clouds uttered their voice, For Your arrows passed through them;
+PSA.76:19 The voice of Your thunder was in the wheel; Your lightning gave light to the world; It was shaken, and the earth was made to tremble.
+PSA.76:20 Your way is in the sea, And Your paths are in many waters; And Your footsteps shall not be known.
+PSA.76:21 You led Your people as sheep By the hand of Moses and Aaron.
 
-PSA.77:1 Concerning understanding; for Asaph. Give heed, O my people, to my law; Incline your ear to the words of my mouth; PSA.77:2 I shall open my mouth in parables; I shall speak of hidden things from of old. PSA.77:3 What things we heard, these we also knew, And our fathers described them to us. PSA.77:4 It was not hidden from their children in a different generation, Who declare the praises of the Lord And His m ighty deeds And His wondrous things He did. PSA.77:5 He raised up a testim ony in Jacob And appointed a law in Israel, Whatever He commanded our fathers To make these things known to their children, PSA.77:6 That a different generation may know, Children y et to be born; And they will arise, and declare these things to their children, PSA.77:7 So they may put their hope in God, And not forget the works of God, And seek out His com m andm ents, PSA.77:8 So they may not become like their fathers, A generation rebellious and em bittered, A generation that did not keep its heart right, And its spirit was not faithful with God. PSA.77:9 The sons of Ephraim who bend and shoot their bows Turned back in the day of battle. PSA.77:10 They did not keep God's covenant, And they did not desire to walk in His law; PSA.77:11 And they forgot His good deeds And His wonders He showed them
-PSA.77:12 In the sight of their fathers, The m arv elous things He did In the land of Egy pt, in the field of Zoan. PSA.77:13 He parted the sea and led them through; The waters stood like a dam, PSA.77:14 And He led them with a cloud by day, And all night by the light of a fire. PSA.77:15 He split the rock in the desert And gave them water to drink as in a great deep; PSA.77:16 And He brought out water from the rock, And He brought it down like the waters of rivers. PSA.77:17 And they still continued to sin against Him; They rebelled against the Most High in a place without water, PSA.77:18 And they tested God in their hearts By asking food for their souls; PSA.77:19 And they slandered God and said, "Why is God unable to prepare a table in the desert? PSA.77:20 Since He struck the rock, and waters flowed, And brooks flooded, Is He also unable to give us bread Or to prepare a table for His people?"
-PSA.77:21 Therefore, the Lord heard and was enraged, And fire was kindled in Jacob, And wrath arose against Israel, PSA.77:22 Because they did not believe in God, Nor put their hope in His salvation. PSA.77:23 And He commanded the clouds above And opened the doors of heaven; PSA.77:24 And He rained m anna for them to eat And gave them the bread of heaven; PSA.77:25 Man ate the bread of angels; He sent them food in abundance. PSA.77:26 He took away the south wind from heaven, And with His power He brought in the southwest wind; PSA.77:27 He rained flesh on them like dust And winged birds like the sand of the sea, PSA.77:28 And they fell in the midst of their cam p, All around their tents; PSA.77:29 And they ate and were well filled, And He brought them their own desire; PSA.77:30 They were not deprived of their desire. While their food was still in their mouth, PSA.77:31 The wrath of God rose up against them, And killed their wealthy ones And shackled Israel's chosen ones. PSA.77:32 In all these things they still sinned And did not believe in His wonders; PSA.77:33 And their day s ended in folly And their y ears with haste. PSA.77:34 When He killed them, they sought Him out, And turned back, and rose up early before God; PSA.77:35 They rem em bered God was their helper, And the Most High God their redeem er. PSA.77:36 But they deceived Him with their mouth And lied to Him with their tongue, PSA.77:37 For their heart was not right with Him, Neither were they faithful to His covenant. PSA.77:38 But He is m erciful And will atone for their sins, and not destroy them; And He will multiply them, and turn away His anger; And He will not kindle all His wrath. PSA.77:39 For He rem em bered they are flesh, A spirit that is passing and not returning. PSA.77:40 How many tim es did they rebel against Him in the desert, And provoke Him to wrath in the desert? PSA.77:41 And they turned away and tem pted God, And provoked the Holy One of Israel. PSA.77:42 They did not remember His hand And the day He redeem ed them from the hand of those afflicting them, PSA.77:43 How He wrought His signs in Egy pt, And His wonders in the plains of Zoan, PSA.77:44 And how He turned their rivers and rainfalls into blood, So they could not drink; PSA.77:45 He sent them the dog-fly, and it devoured them, And the frog, and it destroy ed them. PSA.77:46 He gave their fruit to the m ildew And their labors to the locust; PSA.77:47 He killed their v iney ard with hail And their m ulberry trees with frost; PSA.77:48 And He delivered their cattle to the hail And their property to the fire; PSA.77:49 He sent forth the wrath of His anger to them, Anger and wrath and affliction, Sent forth through evil angels; PSA.77:50 He made a path for His wrath; He did not spare their souls from death, And their cattle He enclosed in death; PSA.77:51 And He struck every firstborn in Egy pt, The firstfruit of their labor in the tents of Ham. PSA.77:52 And He brought His people out like sheep, And He led them like a flock in the desert; PSA.77:53 And He guided them in hope, and they were not afraid; And the sea covered up their enemies. PSA.77:54 He brought them into the m ountain of His holiness, This m ountain His right hand acquired; PSA.77:55 And He cast out the nations from before their face, And distributed them a m easure of land as an inheritance; And He settled the tribes of Israel in their tents. PSA.77:56 They tested and rebelled against the Most High God, And did not keep His testim onies; PSA.77:57 And they turned away and broke His covenant, just as their fathers did, And they changed into a crooked bow; PSA.77:58 And they provoked Him to anger with their high places, And m ov ed Him to jealousy with their carved im ages. PSA.77:59 God heard and despised them, And He utterly disdained Israel; PSA.77:60 And He rejected the tabernacle at Shiloh, His dwelling place, where He settled among men. PSA.77:61 He gave their strength into captivity And their beauty into the hands of the enemy; PSA.77:62 And He gave His people over to the sword And despised His inheritance. PSA.77:63 Fire consum ed their y oung men, And their v irgins were not lam ented; PSA.77:64 Their priests fell by the sword, And their widows were not lam ented. PSA.77:65 Then the Lord awoke as from sleep, Like a strong man drunk from wine; PSA.77:66 And He struck His enemies from behind; He gave them eternal reproach. PSA.77:67 And He rejected the dwelling of Joseph And did not choose the tribe of Ephraim; PSA.77:68 He chose the tribe of Judah, This Mount Zion that He loves; PSA.77:69 And He built His sanctuary as the place of unicorns; He founded it forever on the earth. PSA.77:70 He chose Dav id for His servant And took him from the sheepfolds; PSA.77:71 He took him from behind sheep that gave birth To shepherd Jacob His people And Israel His inheritance; PSA.77:72 And he shepherded them in the integrity of his heart And guided them with the skillfulness of his hands. ## Chapter 78
+## Chapter 77
 
-PSA.78:1 A psalm for Asaph. O God, the nations entered Your inheritance; They defiled Your holy temple; They left Jerusalem in ruins. PSA.78:2 They left the dead bodies of Your servants As food for the birds of heaven, The flesh of Your saints for the wild animals of the earth; PSA.78:3 Their blood flowed like water around Jerusalem, And there was no one to bury them. PSA.78:4 We were made a disgrace to our neighbors, A scorn and a m ockery to those around us. PSA.78:5 How long, O Lord? Will You be angry to the end? Will Your jealousy burn like fire? PSA.78:6 Pour out Your wrath on the nations that do not know You, And on the kingdom s that did not call upon Your name; PSA.78:7 For they devoured Jacob And made his dwelling place desolate. PSA.78:8 Do not remember our transgressions of old; Let Your mercies quickly overtake us, For we have become very poor. PSA.78:9 Help us, O God our savior; Because of the glory of Your name, O Lord, save us, And be m erciful to our sins because of Your name; PSA.78:10 Let the nations never say, "Where is their God?" And let it be known among the nations before our eyes: There is v engeance for the shed blood of Your servants. PSA.78:11 Let the groaning of those in prison enter before You; According to the greatness of Your arm, Preserve the sons of those who were killed. PSA.78:12 Repay our neighbors sevenfold into their bosom Their reproach by which they reviled You, O Lord. PSA.78:13 For we are Your people and the sheep of Your pasture; We shall give thanks to You freely and openly forever; From generation to generation we will proclaim Your praise. ## Chapter 79
+PSA.77:1 Concerning understanding; for Asaph. Give heed, O my people, to my law; Incline your ear to the words of my mouth;
+PSA.77:2 I shall open my mouth in parables; I shall speak of hidden things from of old.
+PSA.77:3 What things we heard, these we also knew, And our fathers described them to us.
+PSA.77:4 It was not hidden from their children in a different generation, Who declare the praises of the Lord And His mighty deeds And His wondrous things He did.
+PSA.77:5 He raised up a testimony in Jacob And appointed a law in Israel, Whatever He commanded our fathers To make these things known to their children,
+PSA.77:6 That a different generation may know, Children yet to be born; And they will arise, and declare these things to their children,
+PSA.77:7 So they may put their hope in God, And not forget the works of God, And seek out His commandments,
+PSA.77:8 So they may not become like their fathers, A generation rebellious and embittered, A generation that did not keep its heart right, And its spirit was not faithful with God.
+PSA.77:9 The sons of Ephraim who bend and shoot their bows Turned back in the day of battle.
+PSA.77:10 They did not keep God's covenant, And they did not desire to walk in His law;
+PSA.77:11 And they forgot His good deeds And His wonders He showed them
+PSA.77:12 In the sight of their fathers, The marvelous things He did In the land of Egypt, in the field of Zoan.
+PSA.77:13 He parted the sea and led them through; The waters stood like a dam,
+PSA.77:14 And He led them with a cloud by day, And all night by the light of a fire.
+PSA.77:15 He split the rock in the desert And gave them water to drink as in a great deep;
+PSA.77:16 And He brought out water from the rock, And He brought it down like the waters of rivers.
+PSA.77:17 And they still continued to sin against Him; They rebelled against the Most High in a place without water,
+PSA.77:18 And they tested God in their hearts By asking food for their souls;
+PSA.77:19 And they slandered God and said, "Why is God unable to prepare a table in the desert?
+PSA.77:20 Since He struck the rock, and waters flowed, And brooks flooded, Is He also unable to give us bread Or to prepare a table for His people?"
+PSA.77:21 Therefore, the Lord heard and was enraged, And fire was kindled in Jacob, And wrath arose against Israel,
+PSA.77:22 Because they did not believe in God, Nor put their hope in His salvation.
+PSA.77:23 And He commanded the clouds above And opened the doors of heaven;
+PSA.77:24 And He rained manna for them to eat And gave them the bread of heaven;
+PSA.77:25 Man ate the bread of angels; He sent them food in abundance.
+PSA.77:26 He took away the south wind from heaven, And with His power He brought in the southwest wind;
+PSA.77:27 He rained flesh on them like dust And winged birds like the sand of the sea,
+PSA.77:28 And they fell in the midst of their camp, All around their tents;
+PSA.77:29 And they ate and were well filled, And He brought them their own desire;
+PSA.77:30 They were not deprived of their desire. While their food was still in their mouth,
+PSA.77:31 The wrath of God rose up against them, And killed their wealthy ones And shackled Israel's chosen ones.
+PSA.77:32 In all these things they still sinned And did not believe in His wonders;
+PSA.77:33 And their days ended in folly And their years with haste.
+PSA.77:34 When He killed them, they sought Him out, And turned back, and rose up early before God;
+PSA.77:35 They remembered God was their helper, And the Most High God their redeemer.
+PSA.77:36 But they deceived Him with their mouth And lied to Him with their tongue,
+PSA.77:37 For their heart was not right with Him, Neither were they faithful to His covenant.
+PSA.77:38 But He is merciful And will atone for their sins, and not destroy them; And He will multiply them, and turn away His anger; And He will not kindle all His wrath.
+PSA.77:39 For He remembered they are flesh, A spirit that is passing and not returning.
+PSA.77:40 How many times did they rebel against Him in the desert, And provoke Him to wrath in the desert?
+PSA.77:41 And they turned away and tempted God, And provoked the Holy One of Israel.
+PSA.77:42 They did not remember His hand And the day He redeemed them from the hand of those afflicting them,
+PSA.77:43 How He wrought His signs in Egypt, And His wonders in the plains of Zoan,
+PSA.77:44 And how He turned their rivers and rainfalls into blood, So they could not drink;
+PSA.77:45 He sent them the dog-fly, and it devoured them, And the frog, and it destroyed them.
+PSA.77:46 He gave their fruit to the mildew And their labors to the locust;
+PSA.77:47 He killed their vineyard with hail And their mulberry trees with frost;
+PSA.77:48 And He delivered their cattle to the hail And their property to the fire;
+PSA.77:49 He sent forth the wrath of His anger to them, Anger and wrath and affliction, Sent forth through evil angels;
+PSA.77:50 He made a path for His wrath; He did not spare their souls from death, And their cattle He enclosed in death;
+PSA.77:51 And He struck every firstborn in Egypt, The firstfruit of their labor in the tents of Ham.
+PSA.77:52 And He brought His people out like sheep, And He led them like a flock in the desert;
+PSA.77:53 And He guided them in hope, and they were not afraid; And the sea covered up their enemies.
+PSA.77:54 He brought them into the mountain of His holiness, This mountain His right hand acquired;
+PSA.77:55 And He cast out the nations from before their face, And distributed them a measure of land as an inheritance; And He settled the tribes of Israel in their tents.
+PSA.77:56 They tested and rebelled against the Most High God, And did not keep His testimonies;
+PSA.77:57 And they turned away and broke His covenant, just as their fathers did, And they changed into a crooked bow;
+PSA.77:58 And they provoked Him to anger with their high places, And moved Him to jealousy with their carved images.
+PSA.77:59 God heard and despised them, And He utterly disdained Israel;
+PSA.77:60 And He rejected the tabernacle at Shiloh, His dwelling place, where He settled among men.
+PSA.77:61 He gave their strength into captivity And their beauty into the hands of the enemy;
+PSA.77:62 And He gave His people over to the sword And despised His inheritance.
+PSA.77:63 Fire consumed their young men, And their virgins were not lamented;
+PSA.77:64 Their priests fell by the sword, And their widows were not lamented.
+PSA.77:65 Then the Lord awoke as from sleep, Like a strong man drunk from wine;
+PSA.77:66 And He struck His enemies from behind; He gave themeternal reproach.
+PSA.77:67 And He rejected the dwelling of Joseph And did not choose the tribe of Ephraim;
+PSA.77:68 He chose the tribe of Judah, This Mount Zion that He loves;
+PSA.77:69 And He built His sanctuary as the place of unicorns; He founded it forever on the earth.
+PSA.77:70 He chose David for His servant And took him from the sheepfolds;
+PSA.77:71 He took him from behind sheep that gave birth To shepherd Jacob His people And Israel His inheritance;
+PSA.77:72 And he shepherded them in the integrity of his heart And guided them with the skillfulness of his hands.
 
-PSA.79:1 For the End, concerning things that shall be changed; a testimony for Asaph, a psalm concerning the Assyrian. PSA.79:2 Give heed, O You who shepherd Israel; Rev eal Yourself, O You who lead Joseph like a flock, Who sit upon the cherubim. PSA.79:3 Raise up Your power Before Ephraim, Benjam in, and Manasseh, And come for our salvation. PSA.79:4 O God, conv ert us, And reveal Your face, and we shall be saved. PSA.79:5 O Lord God of hosts, How long will You be angry with the prayer of Your servant? PSA.79:6 Will You feed us the bread of tears, And will You give us as drink tears in m easure? PSA.79:7 You made us an offense to our neighbors, And our enemies sneered at us. PSA.79:8 O Lord God, conv ert us, And reveal Your face, and we shall be saved. (Pause)
-PSA.79:9 You rem ov ed a v iney ard from Egy pt; You cast out the nations and planted it; PSA.79:10 You prepared the way before it, And You planted its roots; and the earth was filled. PSA.79:11 Its shade covered the m ountains, And its v ines the cedars of God; PSA.79:12 Its branches reached to the sea And its shoots as far as the river. PSA.79:13 Why did You pull down its hedge, And all who pass on the road gather its grapes? PSA.79:14 A wild swine from the forest laid it waste, A solitary wild beast devoured it. PSA.79:15 O God of hosts, conv ert us now; Look down from heaven and behold, And visit this v iney ard
-PSA.79:16 Which Your right hand planted, and perfect it. And visit the son of man, whom You strengthened for Yourself. PSA.79:17 It was set on fire and uprooted, But they shall perish at the rebuke of Your face. PSA.79:18 Let Your hand be upon the man of Your right hand, And upon the son of man, whom You strengthened for Yourself; PSA.79:19 Then we will not turn away from You; You will give us life, and we will call upon Your name. PSA.79:20 O Lord God of hosts, conv ert us, and reveal Your face, and we shall be saved. ## Chapter 80
+## Chapter 78
 
-PSA.80:1 For the End; concerning the winepresses; a psalm for Asaph. PSA.80:2 R ejoice in God our helper; Rejoice greatly in the living God. PSA.80:3 Take up a psalm and sound a tim brel, a pleasant psaltery with a harp; PSA.80:4 Sound a trum pet in the new moon On this honorable day of our feast; PSA.80:5 For this is an ordinance for Israel And a judgment by the God of Jacob. PSA.80:6 He made it a testim ony in Joseph When he went out from the land of Egy pt; He heard a tongue he knew not; PSA.80:7 He rem ov ed his back from forced labors; His hands served in the basket. PSA.80:8 You called upon Me in affliction, and I delivered you; I heard you in the secret place of the storm; I tested you at the water of Rebellion. (Pause)
-PSA.80:9 Listen, O My people, for I testify to you; Listen, O Israel, if you hear Me: PSA.80:10 There shall be no new god among you, Nor shall you worship an alien god; PSA.80:11 I am the Lord your God, Who brought you up from the land of Egy pt; Open wide your mouth, and I will fill it. PSA.80:12 But My people did not hear My voice, And Israel would pay no attention to Me. PSA.80:13 And I sent them away because of the desires in their hearts; They shall walk in their way s of living. PSA.80:14 If My people had heard Me, If Israel had walked in My way s, PSA.80:15 I would have hum bled their enemies quickly; And I would have laid My hand on those oppressing them. PSA.80:16 The Lord's enemies lied to Him, And their tim e shall be forever. PSA.80:17 He fed them with the finest of wheat And satisfied them with honey from the rock. ## Chapter 81
+PSA.78:1 A psalm for Asaph. O God, the nations entered Your inheritance; They defiled Your holy temple; They left Jerusalem in ruins.
+PSA.78:2 They left the dead bodies of Your servants As food for the birds of heaven, The flesh of Your saints for the wild animals of the earth;
+PSA.78:3 Their blood flowed like water around Jerusalem, And there was no one to bury them.
+PSA.78:4 We were made a disgrace to our neighbors, A scorn and a mockery to those around us.
+PSA.78:5 How long, O Lord? Will You be angry to the end? Will Your jealousy burn like fire?
+PSA.78:6 Pour out Your wrath on the nations that do not know You, And on the kingdoms that did not call upon Your name;
+PSA.78:7 For they devoured Jacob And made his dwelling place desolate.
+PSA.78:8 Do not remember our transgressions of old; Let Your mercies quickly overtake us, For we have become very poor.
+PSA.78:9 Help us, O God our savior; Because of the glory of Your name, O Lord, save us, And be merciful to our sins because of Your name;
+PSA.78:10 Let the nations never say, "Where is their God?" And let it be known among the nations before our eyes: There is vengeance for the shed blood of Your servants.
+PSA.78:11 Let the groaning of those in prison enter before You; According to the greatness of Your arm, Preserve the sons of those who were killed.
+PSA.78:12 Repay our neighbors sevenfold into their bosom Their reproach by which they reviled You, O Lord.
+PSA.78:13 For we are Your people and the sheep of Your pasture; We shall give thanks to You freely and openly forever; From generation to generation we will proclaim Your praise.
 
-PSA.81:1 A psalm for Asaph. G od stood in the assem bly of gods; He judges in the midst of gods, saying, PSA.81:2 "How long will you judge unjustly, And favor the persons of sinners?" (Pause)
-PSA.81:3 Judge an orphan and a poor man; Justify a hum ble and poor man; PSA.81:4 Rescue a poor and needy man; Deliver them from a sinner's hand. PSA.81:5 They do not know nor understand; They carry on in darkness; All the foundations of the earth shall be shaken. PSA.81:6 I said, "You are gods, And you are all sons of the Most High. PSA.81:7 But you die like men, And like one of the rulers, you fall."
-PSA.81:8 Arise, O God; judge the earth, For You shall inherit all the Gentiles. ## Chapter 82
+## Chapter 79
 
-PSA.82:1 An ode of a psalm for Asaph. PSA.82:2 O God, who can be likened to You? Be not silent nor appeased, O God, PSA.82:3 For behold, Your enemies made a noise, And those who hate You raised up their heads. PSA.82:4 They devised a wicked judgment against Your people, And they plotted against Your saints. PSA.82:5 They said, "Com e, and let us destroy them from among the people, And let the name Israel be rem em bered no more."
-PSA.82:6 For they plotted together in unity; They established a covenant against You: PSA.82:7 The tents of the Edom ites and the Ishm aelites, Moab and the Hagarenes, PSA.82:8 Gebal and Am m on and Am alek, And foreigners with the inhabitants of Ty re; PSA.82:9 And even Assy ria joined with them; They cam e to the aid of the sons of Lot. (Pause)
-PSA.82:10 Deal with them as with Midian and Sisera, As with Jabin at the Brook Kishon; PSA.82:11 They were destroy ed at Endor; They became like dung on the earth. PSA.82:12 Make their rulers like Oreb and Zeeb, And all their rulers like Zebah and Zalm unna, PSA.82:13 Who said, "Let us inherit the holy place of God for ourselves."
-PSA.82:14 O my God, turn them like a wheel, Like straw before the face of the wind, PSA.82:15 Like fire that burns through a thicket, Like a flam e that sets m ountains on fire; PSA.82:16 Thus You shall pursue them with Your storm, And You shall trouble them in your wrath. PSA.82:17 Fill their faces with disgrace, And they shall seek Your name, O Lord. PSA.82:18 Let them be disgraced and troubled unto ages of ages, And let them be sham ed and destroy ed; PSA.82:19 And let them know Your name is the Lord, That You alone are Most High over all the earth. ## Chapter 83
+PSA.79:1 For the End, concerning things that shall be changed; a testimony for Asaph, a psalm concerning the Assyrian.
+PSA.79:2 Give heed, O You who shepherd Israel; Reveal Yourself, O You who lead Joseph like a flock, Who sit upon the cherubim.
+PSA.79:3 Raise up Your power Before Ephraim, Benjamin, and Manasseh, And come for our salvation.
+PSA.79:4 O God, convert us, And reveal Your face, and we shall be saved.
+PSA.79:5 O Lord God of hosts, How long will You be angry with the prayer of Your servant?
+PSA.79:6 Will You feed us the bread of tears, And will You give us as drink tears in measure?
+PSA.79:7 You made us an offense to our neighbors, And our enemies sneered at us.
+PSA.79:8 O Lord God, convert us, And reveal Your face, and we shall be saved. (Pause)
+PSA.79:9 You removed a vineyard from Egypt; You cast out the nations and planted it;
+PSA.79:10 You prepared the way before it, And You planted its roots; and the earth was filled.
+PSA.79:11 Its shade covered the mountains, And its vines the cedars of God;
+PSA.79:12 Its branches reached to the sea And its shoots as far as the river.
+PSA.79:13 Why did You pull down its hedge, And all who pass on the road gather its grapes?
+PSA.79:14 A wild swine from the forest laid it waste, A solitary wild beast devoured it.
+PSA.79:15 O God of hosts, convert us now; Look down from heaven and behold, And visit this vineyard
+PSA.79:16 Which Your right hand planted, and perfect it. And visit the son of man, whom You strengthened for Yourself.
+PSA.79:17 It was set on fire and uprooted, But they shall perish at the rebuke of Your face.
+PSA.79:18 Let Your hand be upon the man of Your right hand, And upon the son of man, whom You strengthened for Yourself;
+PSA.79:19 Then we will not turn away from You; You will give us life, and we will call upon Your name.
+PSA.79:20 O Lord God of hosts, convert us, and reveal Your face, and we shall be saved.
 
-PSA.83:1 For the End, concerning the winepresses; a psalm for the sons of Korah. PSA.83:2 How beloved are Your dwellings, O Lord of hosts. PSA.83:3 My soul longs and faints for the courts of the Lord; My heart and my flesh greatly rejoice in the living God. PSA.83:4 For even the sparrow found a house for herself, And the turtledove a nest for herself, where she will lay her y oung, Your altars, O Lord of hosts, My King and my God. PSA.83:5 Blessed are those who dwell in Your house; They shall praise You unto ages of ages. (Pause)
+## Chapter 80
+
+PSA.80:1 For the End; concerning the winepresses; a psalm for Asaph.
+PSA.80:2 Rejoice in God our helper; Rejoice greatly in the living God.
+PSA.80:3 Take up a psalm and sound a timbrel, a pleasant psaltery with a harp;
+PSA.80:4 Sound a trumpet in the new moon On this honorable day of our feast;
+PSA.80:5 For this is an ordinance for Israel And a judgment by the God of Jacob.
+PSA.80:6 He made it a testimony in Joseph When he went out from the land of Egypt; He heard a tongue he knew not;
+PSA.80:7 He removed his back from forced labors; His hands served in the basket.
+PSA.80:8 You called upon Me in affliction, and I delivered you; I heard you in the secret place of the storm; I tested you at the water of Rebellion. (Pause)
+PSA.80:9 Listen, O My people, for I testify to you; Listen, O Israel, if you hear Me:
+PSA.80:10 There shall be no new god among you, Nor shall you worship an alien god;
+PSA.80:11 I am the Lord your God, Who brought you up from the land of Egypt; Open wide your mouth, and I will fill it.
+PSA.80:12 But My people did not hear My voice, And Israel would pay no attention to Me.
+PSA.80:13 And I sent them away because of the desires in their hearts; They shall walk in their ways of living.
+PSA.80:14 If My people had heard Me, If Israel had walked in My ways,
+PSA.80:15 I would have humbled their enemies quickly; And I would have laid My hand on those oppressing them.
+PSA.80:16 The Lord's enemies lied to Him, And their time shall be forever.
+PSA.80:17 He fed them with the finest of wheat And satisfied them with honey from the rock.
+
+## Chapter 81
+
+PSA.81:1 A psalm for Asaph. God stood in the assembly of gods; He judges in the midst of gods, saying,
+PSA.81:2 "How long will you judge unjustly, And favor the persons of sinners?" (Pause)
+PSA.81:3 Judge an orphan and a poor man; Justify a humble and poor man;
+PSA.81:4 Rescue a poor and needy man; Deliver them from a sinner's hand.
+PSA.81:5 They do not know nor understand; They carry on in darkness; All the foundations of the earth shall be shaken.
+PSA.81:6 I said, "You are gods, And you are all sons of the Most High.
+PSA.81:7 But you die like men, And like one of the rulers, you fall."
+PSA.81:8 Arise, O God; judge the earth, For You shall inherit all the Gentiles.
+
+## Chapter 82
+
+PSA.82:1 An ode of a psalm for Asaph.
+PSA.82:2 O God, who can be likened to You? Be not silent nor appeased, O God,
+PSA.82:3 For behold, Your enemies made a noise, And those who hate You raised up their heads.
+PSA.82:4 They devised a wicked judgment against Your people, And they plotted against Your saints.
+PSA.82:5 They said, "Come, and let us destroy them from among the people, And let the name Israel be remembered no more."
+PSA.82:6 For they plotted together in unity; Theyestablished a covenant against You:
+PSA.82:7 The tents of the Edomites and the Ishmaelites, Moab and the Hagarenes,
+PSA.82:8 Gebal and Am mon and Amalek, And foreigners with the inhabitants of Tyre;
+PSA.82:9 And even Assyria joined with them; They came to the aid of the sons of Lot. (Pause)
+PSA.82:10 Deal with them as with Midian and Sisera, As with Jabin at the Brook Kishon;
+PSA.82:11 They were destroyed at Endor; They became like dung on the earth.
+PSA.82:12 Make their rulers like Oreb and Zeeb, And all their rulers like Zebah and Zalmunna,
+PSA.82:13 Who said, "Let us inherit the holy place of God for ourselves."
+PSA.82:14 O my God, turn them like a wheel, Like straw before the face of the wind,
+PSA.82:15 Like fire that burns through a thicket, Like a flame that sets mountains on fire;
+PSA.82:16 Thus You shall pursue them with Your storm, And You shall trouble them in your wrath.
+PSA.82:17 Fill their faces with disgrace, And they shall seek Your name, O Lord.
+PSA.82:18 Let them be disgraced and troubled unto ages of ages, And let them be shamed and destroyed;
+PSA.82:19 And let them know Your name is the Lord, That You alone are Most High over all the earth.
+
+## Chapter 83
+
+PSA.83:1 For the End, concerning the winepresses; a psalm for the sons of Korah.
+PSA.83:2 How beloved are Your dwellings, O Lord of hosts.
+PSA.83:3 My soul longs and faints for the courts of the Lord; My heart and my flesh greatlyrejoice in the living God.
+PSA.83:4 For even the sparrow found a house for herself, And the turtledove a nest for herself, where she will lay her young, Your altars, O Lord of hosts, My King and my God.
+PSA.83:5 Blessed are those who dwell in Your house; They shall praise You unto ages of ages. (Pause)
 PSA.83:6 Blessed is the man whose help is from You, O Lord; He purposed ascents in his heart
-PSA.83:7 In the valley of weeping, into the place he appointed; For there the lawgiver shall give blessings. PSA.83:8 They shall go from strength to strength; The God of gods shall be seen in Zion. PSA.83:9 O Lord God of hosts, hear my prayer; Give ear, O God of Jacob. (Pause)
-PSA.83:10 O God, our protector, behold, And look upon the face of Your anointed. PSA.83:11 For one day in Your courts is better than a thousand; I chose to be an outcast in the house of my God, Rather than to dwell in the tents of sinners. PSA.83:12 For the Lord God loves mercy and truth; He will give grace and glory; The Lord's hand will not rem ov e good things from those who walk in innocence. PSA.83:13 O Lord of hosts, blessed is the man who hopes in You. ## Chapter 84
+PSA.83:7 In the valley of weeping, into the place he appointed; For there the lawgiver shall give blessings.
+PSA.83:8 They shall go from strength to strength; The God of gods shall be seen in Zion.
+PSA.83:9 O Lord God of hosts, hear my prayer; Give ear, O God of Jacob. (Pause)
+PSA.83:10 O God, our protector, behold, And look upon the face of Your anointed.
+PSA.83:11 For one day in Your courts is better than a thousand; I chose to be an outcast in the house of my God, Rather than to dwell in the tents of sinners.
+PSA.83:12 For the Lord God loves mercy and truth; He will give grace and glory; The Lord's hand will not remove good things from those who walk in innocence.
+PSA.83:13 O Lord of hosts, blessed is the man who hopes in You.
 
-PSA.84:1 For the End; a psalm for the sons of Korah. PSA.84:2 O Lord, You were pleased with Your land; You turned back the captivity of Jacob; PSA.84:3 You forgave the transgressions of Your people; You covered all their sins. (Pause)
-PSA.84:4 You ended all Your wrath; You turned from the wrath of Your anger. PSA.84:5 Turn us, O God of our salvation, And turn away Your anger from us. PSA.84:6 Will You be angry with us forever, Or will You prolong Your anger from generation to generation? PSA.84:7 O God, You will turn and give us life, And Your people will be glad in You. PSA.84:8 Show us Your mercy, O Lord, And grant us Your salvation. PSA.84:9 I will hear what the Lord God will speak in me, For He will speak peace To His people and to His holy ones, And to those who turn their heart to Him. PSA.84:10 His salvation is very close at hand to those who fear Him, That glory may dwell in our land. PSA.84:11 Mercy and truth m et together; Righteousness and peace kissed each other; PSA.84:12 Truth arose from the earth, And righteousness looked down from heaven. PSA.84:13 For the Lord will give goodness, And our land shall y ield its fruit. PSA.84:14 Righteousness shall go before Him And establish His footsteps as our pathway. ## Chapter 85
+## Chapter 84
 
-PSA.85:1 A prayer by David. I ncline Your ear, O Lord, and hear me, For I am poor and needy. PSA.85:2 Guard my soul, for I am holy; O my God, save Your servant, who hopes in You. PSA.85:3 Have mercy on me, O Lord, For all the day long I will cry to You. PSA.85:4 Gladden the soul of Your servant, O Lord, For to You, O Lord, I lift up my soul. PSA.85:5 For You, O Lord, are kind and good, And very m erciful to all who call upon You. PSA.85:6 Give ear, O Lord, to my prayer And heed the voice of my supplication. PSA.85:7 In the day of my affliction I cried to You, For You heard me. PSA.85:8 There is none like You among the gods, O Lord, And there are no works like Your works. PSA.85:9 All the Gentiles You made shall come And worship before You, O Lord, And they shall glorify Your name; PSA.85:10 For You are great, doing wonders; You alone are the great God. PSA.85:11 Lead me in Your way, O Lord, And I will walk in Your truth; Gladden my heart so as to fear Your name. PSA.85:12 I will give thanks to You, O Lord my God, with my whole heart, And I shall glorify Your name forever; PSA.85:13 For great is Your mercy to me, And You rescued my soul from the lowest Hades. PSA.85:14 O God, lawless men rose up against me, And a gathering of strong men sought my soul; And they did not set You before them. PSA.85:15 But You, O Lord, are com passionate and m erciful, Longsuffering and very m erciful and truthful. PSA.85:16 Look upon me and have mercy; Give Your strength to Your servant, And save the son of Your handm aid. PSA.85:17 Work a sign in my midst for good, And let those who hate me see it and be disgraced; For You, O Lord, helped me and com forted me. ## Chapter 86
+PSA.84:1 For the End; a psalm for the sons of Korah.
+PSA.84:2 O Lord, You were pleased with Your land; You turned back the captivity of Jacob;
+PSA.84:3 You forgave the transgressions of Your people; You covered all their sins. (Pause)
+PSA.84:4 You ended all Your wrath; You turned from the wrath of Your anger.
+PSA.84:5 Turn us, O God of our salvation, And turn away Your anger from us.
+PSA.84:6 Will You be angry with us forever, Or will You prolong Your anger from generation to generation?
+PSA.84:7 O God, You will turn and give us life, And Your people will be glad in You.
+PSA.84:8 Show us Your mercy, O Lord, And grant us Your salvation.
+PSA.84:9 I will hear what the Lord God will speak in me, For He will speak peace To His people and to His holy ones, And to those who turn their heart to Him.
+PSA.84:10 His salvation is very close at hand to those who fear Him, That glory may dwell in our land.
+PSA.84:11 Mercy and truth met together; Righteousness and peace kissed each other;
+PSA.84:12 Truth arose from the earth, And righteousness looked down from heaven.
+PSA.84:13 For the Lord will give goodness, And our land shall yield its fruit.
+PSA.84:14 Righteousness shall go before Him And establish His footsteps as our pathway.
 
-PSA.86:1 A psalm of an ode for the sons of Korah. H is foundations are in the holy m ountains; PSA.86:2 The Lord loves the gates of Zion More than all the dwellings of Jacob. PSA.86:3 Glorious things were said concerning you, O city of God. (Pause)
-PSA.86:4 I will make m ention of Rahab and Baby lon to those who know Me; And behold, foreigners, and the people of Ty re and Ethiopia, These were born there. PSA.86:5 A man will say, "Mother Zion," And a man was born in her; For the Most High Him self founded it. PSA.86:6 The Lord shall describe it in a written account of the peoples And of the rulers, of those who were born in her. (Pause)
-PSA.86:7 How glad are all who have their dwelling in you. ## Chapter 87
+## Chapter 85
 
-PSA.87:1 An ode of a psalm for the sons of Korah; for the End, for the Mahalath to respond; understanding for Heman the Israelite. PSA.87:2 O Lord God of my salvation, I cry day and night before You. PSA.87:3 Let my prayer come before You; Incline Your ear to my supplication, O Lord. PSA.87:4 For my soul is filled with sorrows, And my soul draws near to Hades; PSA.87:5 I am counted among those who go down into the pit; I am like a helpless man, free among the dead, PSA.87:6 Like slain men thrown down and sleeping in a grave, Whom You remember no more, But they are rem ov ed from Your hand. PSA.87:7 They laid me in the lowest pit, In dark places and in the shadow of death. PSA.87:8 Your wrath rested upon me, And You brought all Your billows over me. (Pause)
-PSA.87:9 You rem ov ed my acquaintances far from me; They made me an abom ination among themselves; I was betray ed, and did not go forth. PSA.87:10 My eyes weakened from poverty; O Lord, I cry to You the whole day long; I spread out my hands to You. PSA.87:11 Will You work wonders for the dead? Or will phy sicians raise them up, and acknowledge You? PSA.87:12 Shall any one in the grave describe Your mercy And Your truth in destruction? PSA.87:13 Shall Your wonders be known in darkness, And Your righteousness in a forgotten land? PSA.87:14 But I cry to You, O Lord, And in the morning my prayer shall come near to You. PSA.87:15 Why, O Lord, do You reject my soul, And turn away Your face from me? PSA.87:16 I am poor and in troubles from my y outh; But having been exalted, I was hum bled and brought into despair. PSA.87:17 Your fierce anger passed over me, And Your terrors greatly troubled me; PSA.87:18 They com passed me like water all the day long; They surrounded me at once. PSA.87:19 You rem ov ed far from me neighbor and friend, And my acquaintances because of my m isery. ## Chapter 88
+PSA.85:1 A prayer by David. Incline Your ear, O Lord, and hear me, For I am poor and needy.
+PSA.85:2 Guard my soul, for I am holy; O my God, save Your servant, who hopes in You.
+PSA.85:3 Have mercy on me, O Lord, For all the day long I will cry to You.
+PSA.85:4 Gladden the soul of Your servant, O Lord, For to You, O Lord, I lift up my soul.
+PSA.85:5 For You, O Lord, are kind and good, And very merciful to all who call upon You.
+PSA.85:6 Give ear, O Lord, to my prayer And heed the voice of my supplication.
+PSA.85:7 In the day of my affliction I cried to You, For You heard me.
+PSA.85:8 There is none like You among the gods, O Lord, And there are no works like Your works.
+PSA.85:9 All the Gentiles You made shall come And worship before You, O Lord, And they shall glorify Your name;
+PSA.85:10 For You are great, doing wonders; You alone are the great God.
+PSA.85:11 Lead me in Your way, O Lord, And I will walk in Your truth; Gladden my heart so as to fear Your name.
+PSA.85:12 I will give thanks to You, O Lord my God, with my whole heart, And I shall glorify Your name forever;
+PSA.85:13 For great is Your mercy to me, And You rescued my soul from the lowest Hades.
+PSA.85:14 O God, lawless men rose up against me, And a gathering of strong men sought my soul; And they did not set You before them.
+PSA.85:15 But You, O Lord, are compassionate and merciful, Longsuffering and very merciful and truthful.
+PSA.85:16 Look upon me and have mercy; Give Your strength to Your servant, And save the son of Your handmaid.
+PSA.85:17 Work a sign in my midst for good, And let those who hate me see it and be disgraced; For You, O Lord, helped me and comforted me.
 
-PSA.88:1 Concerning understanding; for Ethan the Israelite. PSA.88:2 O Lord, I will sing of Your mercies forever; I will proclaim Your truth with my mouth from generation to generation; PSA.88:3 For You said, "Mercy shall be built up forever; Your truth shall be prepared in the heavens. PSA.88:4 I made a covenant with My chosen ones; I swore to Dav id My servant, PSA.88:5 I shall prepare your seed forever, And I shall build your throne from generation to generation." (Pause)
-PSA.88:6 The heavens shall confess Your wonders, O Lord, And Your truth in the church of the saints. PSA.88:7 For who in the clouds shall be com pared to the Lord, And who among the sons of God shall be com pared to the Lord? PSA.88:8 God is glorified in the counsel of saints; He is great and fearful toward all round about Him. PSA.88:9 O Lord God of hosts, who is like You? You are powerful, O Lord, and Your truth is around You. PSA.88:10 You are m aster of the sea's strength, And You calm the surging of its waves. PSA.88:11 You hum bled the arrogant man as though he were wounded, And with the arm of Your power You scattered Your enemies. PSA.88:12 The heavens belong to You, and the earth is Yours; You founded the world and all its fullness. PSA.88:13 You created the north wind and the seas; Tabor and Herm on shall greatly rejoice in Your name. PSA.88:14 Your arm rules with power; Let Your hand be strengthened; let Your right hand be exalted. PSA.88:15 The foundation of Your throne is righteousness and judgment; Mercy and truth shall go before Your face. PSA.88:16 Blessed are the people who know glad shouting; O Lord, they shall walk in the light of Your face, PSA.88:17 And shall greatly rejoice in Your name the whole day long; And they shall be exalted in Your righteousness. PSA.88:18 For You are the boast of their power, And in Your good pleasure our horn shall be exalted. PSA.88:19 For our defense is from the Lord And from the Holy One of Israel, our King. PSA.88:20 Then You spoke to Your holy ones in a v ision, And You said, "I established help for a m ighty one; I raised up a chosen one from My people; PSA.88:21 I found Dav id My servant; I anointed him with My holy oil. PSA.88:22 For My hand shall support him, And My arm shall strengthen him. PSA.88:23 The enemy shall have no adv antage against him, And the son of lawlessness shall not continue doing evil to him; PSA.88:24 I will cut his enemies to pieces before his face, And I shall put to flight those who hate him. PSA.88:25 My truth and My mercy are with him, And in My name shall his horn be exalted; PSA.88:26 I will put his hand in the sea And his right hand in the rivers. PSA.88:27 He shall call upon Me, saying, 'You are my Father, My God, and the protector of my salvation'; PSA.88:28 I shall make him, my firstborn, Higher than the kings of the earth. PSA.88:29 I shall keep My mercy for him forever, And My covenant shall be trustworthy with him. PSA.88:30 I shall establish his seed unto ages of ages And his throne as the day s of heaven. PSA.88:31 If his sons forsake My law And do not walk in My judgments, PSA.88:32 If they profane My ordinances And do not keep My com m andm ents, PSA.88:33 I shall visit their transgressions with a rod And their sins with a whip; PSA.88:34 But I will not turn away My mercy from him, Nor will I act unjustly with My truth, PSA.88:35 Nor will I profane My covenant, And I will not reject the things that proceeded from My lips. PSA.88:36 Once for all I swore in My holy place, That I would not lie to Dav id: PSA.88:37 His seed shall rem ain forever, And his throne as the sun before Me, PSA.88:38 And as the moon that is established forever And is a faithful witness in heaven." (Pause)
-PSA.88:39 But You pushed him away and scorned him; You rejected Your anointed; PSA.88:40 You ov erturned the covenant of Your servant; You profaned his sanctuary to the ground. PSA.88:41 You pulled down all his walls; You put cowardice in his stronghold; PSA.88:42 All who traveled through there robbed him; He was a disgrace to his neighbors. PSA.88:43 You exalted the right hand of his enemies; You delighted all his adv ersaries; PSA.88:44 You turned away Your help from his sword, And did not support him in his war. PSA.88:45 You deprived him of purification; You broke his throne to pieces on the ground; PSA.88:46 You shortened the day s of his tim e; You poured down sham e upon him. (Pause)
-PSA.88:47 How long, O Lord: will You turn away to the end? Will Your wrath alway s burn like fire? PSA.88:48 Let my substance be rem em bered, as to what sort it is, For did You create all the sons of men in vain? PSA.88:49 What kind of man is there who will live and not see death? Will he deliver his soul from the hand of Hades? (Pause)
-PSA.88:50 Where, O Lord, are Your mercies of old, Which in Your truth You swore to Dav id? PSA.88:51 Rem em ber, O Lord, the reproach of Your servants I bore in my bosom, The reproach of many nations, PSA.88:52 Wherewith Your enemies scorned, O Lord, Wherewith they scorned the change of Your anointed. PSA.88:53 Blessed is the Lord forever. Am en! Am en! ## Chapter 89
+## Chapter 86
 
-PSA.89:1 A prayer of Moses, a man of God. O Lord, You became a refuge to us in generation and generation; PSA.89:2 Before the m ountains were made, And before the earth and the world were form ed, And from ev erlasting to ev erlasting, You are. PSA.89:3 Do not let man be turned back to hum iliation, And You said, "Return, you sons of men."
-PSA.89:4 For a thousand y ears in Your sight Are like y esterday, which passed, And like a watch in the night. PSA.89:5 Years shall be objects of contem pt to them; In the morning let man pass by like grass; PSA.89:6 In the morning let him blossom, and pass by; In the evening let him fall off, be dried up and withered. PSA.89:7 For we fainted in Your wrath, And in Your wrath we were troubled. PSA.89:8 You set our transgressions before You, Our tim e in the light of Your face. PSA.89:9 For all our day s failed, And in Your wrath we fainted; Our y ears were spent in thought like a spider. PSA.89:10 As for the day s of our y ears, their span is seventy y ears, But if we stay strong, perhaps eighty; And most of them are labor and pain; For m eekness cam e upon us, and we shall be chastened. PSA.89:11 Who knows the power of Your wrath, And who knows Your anger because of Your fear? PSA.89:12 So make known Your right hand to us, that we may num ber our day s, And our heart may be bound with wisdom. PSA.89:13 Return, O Lord; how long? And be entreated concerning Your servants. PSA.89:14 We were filled with Your mercy in the morning, And in all our day s we greatly rejoiced and were glad; PSA.89:15 Gladden us in return for the day s You hum bled us, For the y ears we saw evil things. PSA.89:16 And behold Your servants and Your works, And guide their sons; PSA.89:17 And let the brightness of the Lord our God be upon us, And prosper for us the works of our hands. ## Chapter 90
+PSA.86:1 A psalm of an ode for the sons of Korah. His foundations are in the holy mountains;
+PSA.86:2 The Lord loves the gates of Zion More than all the dwellings of Jacob.
+PSA.86:3 Glorious things were said concerning you, O city of God. (Pause)
+PSA.86:4 I will make mention of Rahab and Baby lon to those who know Me; And behold, foreigners, and the people of Tyre and Ethiopia, These were born there.
+PSA.86:5 A man will say, "Mother Zion," And a man was born in her; For the Most High Himself founded it.
+PSA.86:6 The Lord shall describe it in a written account of the peoples And of the rulers, of those who were born in her. (Pause)
+PSA.86:7 How glad are all who have their dwelling in you.
 
-PSA.90:1 The praise of an ode by David. H e who dwells in the help of the Most High Shall lodge in the shelter of the God of heaven. PSA.90:2 He shall say to the Lord, "You are my protector and my refuge, My God; I will hope in Him; PSA.90:3 For He shall free me from the snare of the hunters, And from every troubling word."
-PSA.90:4 He shall ov ershadow you with His shoulders, And under His wings you shall hope; His truth shall encircle you with a shield. PSA.90:5 You shall not be frightened by fear at night, Nor from an arrow that flies by day, PSA.90:6 Nor by a thing m ov ing in darkness, Nor by m ishap and a dem on of noonday. PSA.90:7 A thousand shall fall at your side And ten thousand at your right hand, Yet it shall not come near you; PSA.90:8 But you shall observe with your eyes, And you shall see the reward of sinners. PSA.90:9 For You, O Lord, are my hope; You made the Most High your refuge. PSA.90:10 Ev ils shall not come to you, And a scourge shall not draw near your dwelling; PSA.90:11 For He shall command His angels concerning you, To keep you in all your way s; PSA.90:12 In their hands they shall bear you up, Lest you strike your foot against a stone; PSA.90:13 You shall tread upon the asp and the basilisk, And you shall trample the lion and the dragon. PSA.90:14 "For he hoped in Me, and I will deliver him; I will shelter him, because he knew My name. PSA.90:15 He shall call upon Me, and I will hear him; I am with him in affliction, And I will deliver and glorify him. PSA.90:16 With length of day s I will satisfy him, And show him My salvation."
+## Chapter 87
+
+PSA.87:1 An ode of a psalm for the sons of Korah; for the End, for the Mahalath to respond; understanding for Heman the Israelite.
+PSA.87:2 O Lord God of my salvation, I cry day and night before You.
+PSA.87:3 Let my prayer come before You; Incline Your ear to my supplication, O Lord.
+PSA.87:4 For my soul is filled with sorrows, And my soul draws near to Hades;
+PSA.87:5 I am counted among those who go down into the pit; I am like a helpless man, free among the dead,
+PSA.87:6 Like slain men thrown down and sleeping in a grave, Whom You remember no more, But they are removed from Your hand.
+PSA.87:7 They laid me in the lowest pit, In dark places and in the shadow of death.
+PSA.87:8 Your wrath rested upon me, And You brought all Your billows over me. (Pause)
+PSA.87:9 You removed my acquaintances far from me; They made me an abomination among themselves; I was betrayed, and did not go forth.
+PSA.87:10 My eyes weakened from poverty; O Lord, I cry to You the whole day long; I spread out my hands to You.
+PSA.87:11 Will You work wonders for the dead? Or will physicians raise them up, and acknowledge You?
+PSA.87:12 Shall any one in the grave describe Your mercy And Your truth in destruction?
+PSA.87:13 Shall Your wonders be known in darkness, And Your righteousness in a forgotten land?
+PSA.87:14 But I cry to You, O Lord, And in the morning my prayer shall come near to You.
+PSA.87:15 Why, O Lord, do You reject my soul, And turn away Your face from me?
+PSA.87:16 I am poor and in troubles from my youth; But having been exalted, I was humbled and brought into despair.
+PSA.87:17 Your fierce anger passed over me, And Your terrors greatly troubled me;
+PSA.87:18 They compassed me like water all the day long; They surrounded me at once.
+PSA.87:19 You removed far from me neighbor and friend, And my acquaintances because of my misery.
+
+## Chapter 88
+
+PSA.88:1 Concerning understanding; for Ethan the Israelite.
+PSA.88:2 O Lord, I will sing of Your mercies forever; I will proclaim Your truth with my mouth from generation to generation;
+PSA.88:3 For You said, "Mercy shall be built up forever; Your truth shall be prepared in the heavens.
+PSA.88:4 I made a covenant with My chosen ones; I swore to David My servant,
+PSA.88:5 I shall prepare your seed forever, And I shall build your throne from generation to generation." (Pause)
+PSA.88:6 The heavens shall confess Your wonders, O Lord, And Your truth in the church of the saints.
+PSA.88:7 For who in the clouds shall be compared to the Lord, And who among the sons of God shall be compared to the Lord?
+PSA.88:8 God is glorified in the counsel of saints; He is great and fearful toward all round about Him.
+PSA.88:9 O Lord God of hosts, who is like You? You are powerful, O Lord, and Your truth is around You.
+PSA.88:10 You are master of the sea's strength, And You calm the surging of its waves.
+PSA.88:11 You humbled the arrogant man as though he were wounded, And with the arm of Your power You scattered Your enemies.
+PSA.88:12 The heavens belong to You, and the earth is Yours; You founded the world and all its fullness.
+PSA.88:13 You created the north wind and the seas; Tabor and Hermon shall greatlyrejoice in Your name.
+PSA.88:14 Your arm rules with power; Let Your hand be strengthened; let Your right hand be exalted.
+PSA.88:15 The foundation of Your throne is righteousness and judgment; Mercy and truth shall go before Your face.
+PSA.88:16 Blessed are the people who know glad shouting; O Lord, they shall walk in the light of Your face,
+PSA.88:17 And shall greatlyrejoice in Your name the whole day long; And they shall be exalted in Your righteousness.
+PSA.88:18 For You are the boast of their power, And in Your good pleasure our horn shall be exalted.
+PSA.88:19 For our defense is from the Lord And from the Holy One of Israel, our King.
+PSA.88:20 Then You spoke to Your holy ones in a vision, And You said, "I established help for a mighty one; I raised up a chosen one from My people;
+PSA.88:21 I found David My servant; I anointed him with My holy oil.
+PSA.88:22 For My hand shall support him, And My armshall strengthen him.
+PSA.88:23 The enemy shall have no advantage against him, And the son of lawlessness shall not continue doing evil to him;
+PSA.88:24 I will cut his enemies to pieces before his face, And I shall put to flight those who hate him.
+PSA.88:25 My truth and My mercy are with him, And in My name shall his horn be exalted;
+PSA.88:26 I will put his hand in the sea And his right hand in the rivers.
+PSA.88:27 He shall call upon Me, saying, 'You are my Father, My God, and the protector of my salvation';
+PSA.88:28 I shall make him, my firstborn, Higher than the kings of the earth.
+PSA.88:29 I shall keep My mercy for him forever, And My covenant shall be trustworthy with him.
+PSA.88:30 I shall establish his seed unto ages of ages And his throne as the days of heaven.
+PSA.88:31 If his sons forsake My law And do not walk in My judgments,
+PSA.88:32 If they profane My ordinances And do not keep My commandments,
+PSA.88:33 I shall visit their transgressions with a rod And their sins with a whip;
+PSA.88:34 But I will not turn away My mercy from him, Nor will I act unjustly with My truth,
+PSA.88:35 Nor will I profane My covenant, And I will not reject the things that proceeded from My lips.
+PSA.88:36 Once for all I swore in My holy place, That I would not lie to David:
+PSA.88:37 His seed shall remain forever, And his throne as the sun before Me,
+PSA.88:38 And as the moon that is established forever And is a faithful witness in heaven." (Pause)
+PSA.88:39 But You pushed him away and scorned him; You rejected Your anointed;
+PSA.88:40 You overturned the covenant of Your servant; You profaned his sanctuary to the ground.
+PSA.88:41 You pulled down all his walls; You put cowardice in his stronghold;
+PSA.88:42 All who traveled through there robbed him; He was a disgrace to his neighbors.
+PSA.88:43 You exalted the right hand of his enemies; You delighted all his adversaries;
+PSA.88:44 You turned away Your help from his sword, And did not support him in his war.
+PSA.88:45 You deprived him of purification; You broke his throne to pieces on the ground;
+PSA.88:46 You shortened the days of his time; You poured down shame upon him. (Pause)
+PSA.88:47 How long, O Lord: will You turn away to the end? Will Your wrath always burn like fire?
+PSA.88:48 Let my substance be remembered, as to what sort it is, For did You create all the sons of men in vain?
+PSA.88:49 What kind of man is there who will live and not see death? Will he deliver his soul from the hand of Hades? (Pause)
+PSA.88:50 Where, O Lord, are Your mercies of old, Which in Your truth You swore to David?
+PSA.88:51 Remember, O Lord, the reproach of Your servants I bore in my bosom, The reproach of many nations,
+PSA.88:52 Wherewith Your enemies scorned, O Lord, Wherewith they scorned the change of Your anointed.
+PSA.88:53 Blessed is the Lord forever. Amen! Amen!
+
+## Chapter 89
+
+PSA.89:1 A prayer of Moses, a man of God. O Lord, You became a refuge to us in generation and generation;
+PSA.89:2 Before the mountains were made, And before the earth and the world were formed, And from everlasting to everlasting, You are.
+PSA.89:3 Do not let man be turned back to humiliation, And You said, "Return, you sons of men."
+PSA.89:4 For a thousand years in Your sight Are like yesterday, which passed, And like a watch in the night.
+PSA.89:5 Years shall be objects of contempt to them; In the morning let man pass by like grass;
+PSA.89:6 In the morning let him blossom, and pass by; In the evening let him fall off, be dried up and withered.
+PSA.89:7 For we fainted in Your wrath, And in Your wrath we were troubled.
+PSA.89:8 You set our transgressions before You, Our time in the light of Your face.
+PSA.89:9 For all our days failed, And in Your wrath we fainted; Our years were spent in thought like a spider.
+PSA.89:10 As for the days of our years, their span is seventy years, But if we staystrong, perhaps eighty; And most of them are labor and pain; For meekness came upon us, and we shall be chastened.
+PSA.89:11 Who knows the power of Your wrath, And who knows Your anger because of Your fear?
+PSA.89:12 So make known Your right hand to us, that we may number our days, And our heart may be bound with wisdom.
+PSA.89:13 Return, O Lord; how long? And be entreated concerning Your servants.
+PSA.89:14 We were filled with Your mercy in the morning, And in all our days we greatlyrejoiced and were glad;
+PSA.89:15 Gladden us in return for the days You humbled us, For the years we saw evil things.
+PSA.89:16 And behold Your servants and Your works, And guide their sons;
+PSA.89:17 And let the brightness of the Lord our God be upon us, And prosper for us the works of our hands.
+
+## Chapter 90
+
+PSA.90:1 The praise of an ode by David. He who dwells in the help of the Most High Shall lodge in the shelter of the God of heaven.
+PSA.90:2 He shall say to the Lord, "You are my protector and my refuge, My God; I will hope in Him;
+PSA.90:3 For He shall free me from the snare of the hunters, And from every troubling word."
+PSA.90:4 He shall overshadow you with His shoulders, And under His wings you shall hope; His truth shall encircle you with a shield.
+PSA.90:5 You shall not be frightened by fear at night, Nor from an arrow that flies by day,
+PSA.90:6 Nor by a thing moving in darkness, Nor by mishap and a demon of noonday.
+PSA.90:7 A thousand shall fall at your side And ten thousand at your right hand, Yet it shall not come near you;
+PSA.90:8 But you shall observe with your eyes, And you shall see the reward of sinners.
+PSA.90:9 For You, O Lord, are my hope; You made the Most High your refuge.
+PSA.90:10 Evils shall not come to you, And a scourge shall not draw near your dwelling;
+PSA.90:11 For He shall command His angels concerning you, To keep you in all your ways;
+PSA.90:12 In their hands they shall bear you up, Lest you strike your foot against a stone;
+PSA.90:13 You shall tread upon the asp and the basilisk, And you shall trample the lion and the dragon.
+PSA.90:14 "For he hoped in Me, and I will deliver him; I will shelter him, because he knew My name.
+PSA.90:15 He shall call upon Me, and I will hear him; I am with him in affliction, And I will deliver and glorify him.
+PSA.90:16 With length of days I will satisfy him, And show him My salvation."
 
 ## Chapter 91
 
-PSA.91:1 A psalm of an ode; for the Sabbath day. PSA.91:2 I t is good to give thanks to the Lord And to sing to Your name, O Most High, PSA.91:3 To proclaim Your mercy in the morning And Your truth at night, PSA.91:4 On the harp of ten strings, with an ode on the ly re. PSA.91:5 For You make me glad, O Lord, with Your work, And I will greatly rejoice in the works of Your hands. PSA.91:6 How m agnificent are Your works, O Lord; Your thoughts are exceedingly deep. PSA.91:7 A man without discernm ent shall not know these things, And a senseless man shall not understand them. PSA.91:8 When sinners grow like grass, And all the workers of lawlessness have arrogant looks, It is so that they may be destroy ed unto ages of ages. PSA.91:9 But You, O Lord, are Most High forever; PSA.91:10 For behold, Your enemies shall perish, And all who work lawlessness shall be scattered abroad; PSA.91:11 And my horn shall be exalted like the unicorn, And my old age shall be blessed with rich mercy; PSA.91:12 My eye looked upon my enemies, And my ear shall hear of ev ildoers who rise up against me. PSA.91:13 The righteous shall flourish like a palm tree; He shall be multiplied like the cedar in Lebanon. PSA.91:14 Those planted in the house of the Lord Shall blossom forth in the courts of our God; PSA.91:15 They shall still be increased in a rich old age, And shall be prospering
+PSA.91:1 A psalm of an ode; for the Sabbath day.
+PSA.91:2 It is good to give thanks to the Lord And to sing to Your name, O Most High,
+PSA.91:3 To proclaim Your mercy in the morning And Your truth at night,
+PSA.91:4 On the harp of ten strings, with an ode on the lyre.
+PSA.91:5 For You make me glad, O Lord, with Your work, And I will greatlyrejoice in the works of Your hands.
+PSA.91:6 How magnificent are Your works, O Lord; Your thoughts are exceedingly deep.
+PSA.91:7 A man without discernment shall not know these things, And a senseless man shall not understand them.
+PSA.91:8 When sinners grow like grass, And all the workers of lawlessness have arrogant looks, It is so that they may be destroyed unto ages of ages.
+PSA.91:9 But You, O Lord, are Most High forever;
+PSA.91:10 For behold, Your enemies shall perish, And all who work lawlessness shall be scattered abroad;
+PSA.91:11 And my horn shall be exalted like the unicorn, And my old age shall be blessed with rich mercy;
+PSA.91:12 My eye looked upon my enemies, And my ear shall hear of evildoers who rise up against me.
+PSA.91:13 The righteous shall flourish like a palm tree; He shall be multiplied like the cedar in Lebanon.
+PSA.91:14 Those planted in the house of the Lord Shall blossom forth in the courts of our God;
+PSA.91:15 They shall still be increased in a rich old age, And shall be prospering
 PSA.91:16 So as to proclaim, "The Lord my God is upright, And there is no wrongdoing in Him."
 
 ## Chapter 92
 
-PSA.92:1 For the day before the Sabbath, when the earth was settled; the praise of an ode by David. The Lord reigns; He clothed Him self with m ajesty; The Lord clothed and girded Him self with power; And He established the world, which shall not be m ov ed. PSA.92:2 Your throne is prepared from of old; You are from ev erlasting. PSA.92:3 The rivers, O Lord, lift up; The rivers lift up their v oices; PSA.92:4 Because of the v oices of their many waters, Marv elous are the billows of the sea; Wondrous is the Lord on high. PSA.92:5 Your testim onies are very m uch believed; Holiness is proper to Your house, O Lord, Unto length of day s. ## Chapter 93
+PSA.92:1 For the day before the Sabbath, when the earth was settled; the praise of an ode by David. The Lord reigns; He clothed Himself with majesty; The Lord clothed and girded Himself with power; And He established the world, which shall not be moved.
+PSA.92:2 Your throne is prepared from of old; You are from everlasting.
+PSA.92:3 The rivers, O Lord, lift up; The rivers lift up their voices;
+PSA.92:4 Because of the voices of their many waters, Marvelous are the billows of the sea; Wondrous is the Lord on high.
+PSA.92:5 Your testimonies are very much believed; Holiness is proper to Your house, O Lord, Unto length of days.
 
-PSA.93:1 A psalm by David; for the fourth day of the week. The Lord is the God of v engeance; The God of v engeance declares Him self boldly. PSA.93:2 Be exalted, O You who judge the earth; Render the arrogant their reward. PSA.93:3 How long will sinners, O Lord, How long will sinners boast, PSA.93:4 How long will they utter and speak wrongdoing, How long will all who work lawlessness speak? PSA.93:5 They hum bled Your people, O Lord, And they m altreated Your inheritance; PSA.93:6 They killed the widow and the resident alien, And they m urdered the orphans, PSA.93:7 And said, "The Lord will not see; Nor will the God of Jacob understand."
-PSA.93:8 Now understand, all you without discernm ent among the people, And all you fools, at length be discerning. PSA.93:9 He who planted the ear, shall He not hear? Or He who form ed the eye, shall He not see? PSA.93:10 He who chastises the nations, shall He not reprove them, He who teaches man knowledge? PSA.93:11 The Lord knows the thoughts of men are vain. PSA.93:12 Blessed is the man whom You instruct, O Lord, And whom You teach from Your law, PSA.93:13 So You may give him rest from evil day s, Until a pit is dug for the sinner. PSA.93:14 For the Lord will not reject His people, And He will not forsake His inheritance
+## Chapter 93
+
+PSA.93:1 A psalm by David; for the fourth day of the week. The Lord is the God of vengeance; The God of vengeance declares Himself boldly.
+PSA.93:2 Be exalted, O You who judge the earth; Render the arrogant their reward.
+PSA.93:3 How long will sinners, O Lord, How long will sinners boast,
+PSA.93:4 How long will they utter and speak wrongdoing, How long will all who work lawlessness speak?
+PSA.93:5 They humbled Your people, O Lord, And they maltreated Your inheritance;
+PSA.93:6 They killed the widow and the resident alien, And they murdered the orphans,
+PSA.93:7 And said, "The Lord will not see; Nor will the God of Jacob understand."
+PSA.93:8 Now understand, all you without discernment among the people, And all you fools, at length be discerning.
+PSA.93:9 He who planted the ear, shall He not hear? Or He who formed the eye, shall He not see?
+PSA.93:10 He who chastises the nations, shall He not reprove them, He who teaches man knowledge?
+PSA.93:11 The Lord knows the thoughts of men are vain.
+PSA.93:12 Blessed is the man whom You instruct, O Lord, And whom You teach from Your law,
+PSA.93:13 So You may give him rest from evil days, Until a pit is dug for the sinner.
+PSA.93:14 For the Lord will not reject His people, And He will not forsake His inheritance
 PSA.93:15 Until righteousness returns to judgment, And all the upright in heart possess it. (Pause)
-PSA.93:16 Who will rise up for me against ev ildoers, Or who will side with me against the workers of lawlessness? PSA.93:17 If the Lord had not helped me, My soul would have alm ost sojourned in Hades. PSA.93:18 If I said, "My foot slipped," Your mercy, O Lord, helped me. PSA.93:19 O Lord, according to the abundance of grief in my heart, Your encouragem ents consoled my soul. PSA.93:20 Shall a throne of lawlessness be present with You, A throne that fram es trouble by an ordinance? PSA.93:21 They shall hunt for the soul of a righteous man And shall condem n innocent blood. PSA.93:22 And the Lord has become a place of refuge for me, And my God, the helper of my hope; PSA.93:23 And repay their lawlessness to them, And according to their wickedness, The Lord our God shall destroy them. ## Chapter 94
+PSA.93:16 Who will rise up for me against evildoers, Or who will side with me against the workers of lawlessness?
+PSA.93:17 If the Lord had not helped me, My soul would have almost sojourned in Hades.
+PSA.93:18 If I said, "My foot slipped," Your mercy, O Lord, helped me.
+PSA.93:19 O Lord, according to the abundance of grief in my heart, Your encouragements consoled my soul.
+PSA.93:20 Shall a throne of lawlessness be present with You, A throne that frames trouble by an ordinance?
+PSA.93:21 They shall hunt for the soul of a righteous man And shall condemn innocent blood.
+PSA.93:22 And the Lord has become a place of refuge for me, And my God, the helper of my hope;
+PSA.93:23 And repay their lawlessness to them, And according to their wickedness, The Lord our God shall destroy them.
 
-PSA.94:1 The praise of an ode by David. C om e, let us greatly rejoice in the Lord; Let us shout aloud to God our savior; PSA.94:2 Let us come before His face with thanksgiving, And let us shout aloud to Him with psalm s. PSA.94:3 For the Lord is a great God, A great King over all the gods; PSA.94:4 For in His hand are the ends of the earth, And the heights of the m ountains are His; PSA.94:5 For the sea is His, and He made it, And His hands form ed the dry land. PSA.94:6 Com e, let us worship and fall down before Him, And let us weep before the Lord who made us; PSA.94:7 For He is our God, And we are the people of His pasture And the sheep of His hand. Today, if you hear His voice, PSA.94:8 "Do not harden your hearts as in the Rebellion, During the day of testing in the desert, PSA.94:9 Where your fathers tem pted Me; They tested Me, and saw My works. PSA.94:10 For forty y ears I was treated with contem pt by that generation, And I said, 'They alway s go astray in their heart, And they do not know My way s'; PSA.94:11 So I swore in My wrath, 'They shall not enter My rest.' "
+## Chapter 94
+
+PSA.94:1 The praise of an ode by David. Come, let us greatlyrejoice in the Lord; Let us shout aloud to God our savior;
+PSA.94:2 Let us come before His face with thanksgiving, And let us shout aloud to Him with psalms.
+PSA.94:3 For the Lord is a great God, A great King over all the gods;
+PSA.94:4 For in His hand are the ends of the earth, And the heights of the mountains are His;
+PSA.94:5 For the sea is His, and He made it, And His hands formed the dry land.
+PSA.94:6 Come, let us worship and fall down before Him, And let us weep before the Lord who made us;
+PSA.94:7 For He is our God, And we are the people of His pasture And the sheep of His hand. Today, if you hear His voice,
+PSA.94:8 "Do not harden your hearts as in the Rebellion, During the day of testing in the desert,
+PSA.94:9 Where your fathers tempted Me; They tested Me, and saw My works.
+PSA.94:10 For forty years I was treated with contempt by that generation, And I said, 'They always go astray in their heart, And they do not know My ways';
+PSA.94:11 So I swore in My wrath, 'They shall not enter My rest.' "
 
 ## Chapter 95
 
-PSA.95:1 When the house was built after the captivity; an ode by David. O h, sing a new song to the Lord, Sing to the Lord, all the earth; PSA.95:2 Sing to the Lord; bless His name; Proclaim His salvation from day to day; PSA.95:3 Declare His glory among the Gentiles, His wonders among all peoples. PSA.95:4 For the Lord is great, and is greatly to be praised; And He is to be feared above all the gods; PSA.95:5 For all the gods of the nations are dem ons, But the Lord made the heavens; PSA.95:6 Thanksgiving and beauty are before Him; Holiness and m ajesty are in His holy place. PSA.95:7 Bring to the Lord, O fam ilies of the Gentiles, Bring to the Lord glory and honor; PSA.95:8 Bring to the Lord the glory of His name; Take up sacrifices and enter into His courts; PSA.95:9 Worship the Lord in His holy court; Let all the earth be shaken before Him. PSA.95:10 Say among the Gentiles, "The Lord is King, For He established the world, which shall not be shaken. He shall judge the peoples with uprightness."
-PSA.95:11 Let the heavens be glad, and let the earth greatly rejoice; Let the sea be shaken and all its fullness. PSA.95:12 Then the fields and every thing in them shall rejoice; Then all the trees of the forest shall greatly rejoice
-PSA.95:13 Before the face of the Lord; for He is com ing, For He is com ing to judge the earth; He shall judge the world in righteousness, And the peoples with His truth. ## Chapter 96
+PSA.95:1 When the house was built after the captivity; an ode by David. O h, sing a new song to the Lord, Sing to the Lord, all the earth;
+PSA.95:2 Sing to the Lord; bless His name; Proclaim His salvation from day to day;
+PSA.95:3 Declare His glory among the Gentiles, His wonders among all peoples.
+PSA.95:4 For the Lord is great, and is greatly to be praised; And He is to be feared above all the gods;
+PSA.95:5 For all the gods of the nations are demons, But the Lord made the heavens;
+PSA.95:6 Thanksgiving and beauty are before Him; Holiness and majesty are in His holy place.
+PSA.95:7 Bring to the Lord, O families of the Gentiles, Bring to the Lord glory and honor;
+PSA.95:8 Bring to the Lord the glory of His name; Take up sacrifices and enter into His courts;
+PSA.95:9 Worship the Lord in His holy court; Let all the earth be shaken before Him.
+PSA.95:10 Say among the Gentiles, "The Lord is King, For He established the world, which shall not be shaken. He shall judge the peoples with uprightness."
+PSA.95:11 Let the heavens be glad, and let the earth greatlyrejoice; Let the sea be shaken and all its fullness.
+PSA.95:12 Then the fields and every thing in them shall rejoice; Then all the trees of the forest shall greatlyrejoice
+PSA.95:13 Before the face of the Lord; for He is coming, For He is coming to judge the earth; He shall judge the world in righteousness, And the peoples with His truth.
 
-PSA.96:1 By David; when His earth is restored. The Lord reigns; let the earth greatly rejoice; Let the many islands be glad. PSA.96:2 Clouds and darkness surround Him; Righteousness and judgment are the right ordering of His throne. PSA.96:3 Fire shall go out before Him And burn up His enemies on every side. PSA.96:4 His lightning gave light to the world; The earth saw and was shaken. PSA.96:5 The m ountains m elted like wax at the presence of the Lord, At the presence of the Lord of all the earth. PSA.96:6 The heavens proclaim ed His righteousness; All the peoples saw His glory. PSA.96:7 Let all who worship the carved im ages be sham ed, All who boast in their idols; Worship Him, all you His angels. PSA.96:8 Zion heard and was glad, And the daughters of Judah greatly rejoiced Because of Your judgments, O Lord; PSA.96:9 For You are the Lord Most High over all the earth, Exalted exceedingly over all the gods. PSA.96:10 You who love the Lord, hate evil; The Lord keeps the souls of His saints; He shall deliver them from the hand of sinners. PSA.96:11 Light dawned for the righteous And gladness for the upright in heart. PSA.96:12 Be glad in the Lord, O righteous ones, And give thanks at the remembrance of His holiness. ## Chapter 97
+## Chapter 96
 
-PSA.97:1 A psalm by David. Sing a new song to the Lord, For He did wondrous things; His right hand and His holy arm Sav ed peoples for Him. PSA.97:2 The Lord made known His salvation; He revealed His righteousness in the sight of the Gentiles. PSA.97:3 He rem em bered His mercy to Jacob And His truth to the house of Israel; All the ends of the earth saw the salvation of our God. PSA.97:4 Shout aloud to God, all the earth; Sing and greatly rejoice, and sing psalm s; PSA.97:5 Sing to the Lord on a ly re, On a ly re and with the voice of a psalm; PSA.97:6 With trum pets of m etal and the sound of a trum pet of horn, Shout aloud before the Lord our King. PSA.97:7 Let the sea be shaken and its fullness, The world and those who dwell in it. PSA.97:8 The rivers shall clap their hands together; The m ountains shall greatly rejoice; PSA.97:9 For He com es to judge the earth; He shall judge the world in righteousness And the peoples with uprightness. ## Chapter 98
+PSA.96:1 By David; when His earth is restored. The Lord reigns; let the earth greatlyrejoice; Let the many islands be glad.
+PSA.96:2 Clouds and darkness surround Him; Righteousness and judgment are the right ordering of His throne.
+PSA.96:3 Fire shall go out before Him And burn up His enemies on every side.
+PSA.96:4 His lightning gave light to the world; The earth saw and was shaken.
+PSA.96:5 The mountains melted like wax at the presence of the Lord, At the presence of the Lord of all the earth.
+PSA.96:6 The heavens proclaimed His righteousness; All the peoples saw His glory.
+PSA.96:7 Let all who worship the carved images be shamed, All who boast in their idols; Worship Him, all you His angels.
+PSA.96:8 Zion heard and was glad, And the daughters of Judah greatlyrejoiced Because of Your judgments, O Lord;
+PSA.96:9 For You are the Lord Most High over all the earth, Exalted exceedingly over all the gods.
+PSA.96:10 You who love the Lord, hate evil; The Lord keeps the souls of His saints; He shall deliver them from the hand of sinners.
+PSA.96:11 Light dawned for the righteous And gladness for the upright in heart.
+PSA.96:12 Be glad in the Lord, O righteous ones, And give thanks at the remembrance of His holiness.
 
-PSA.98:1 A psalm by David. The Lord reigns; let the peoples be angry; The Lord sits upon the cherubim; let the earth be shaken. PSA.98:2 The Lord is great in Zion, And He is exalted above all the peoples; PSA.98:3 Let them give thanks to Your great name, For it is fearful and holy. PSA.98:4 The King's honor loves judgment; You prepare uprightness; You work judgment and righteousness in Jacob. PSA.98:5 Exalt the Lord our God, And worship at the footstool of His feet; For He is holy. PSA.98:6 Moses and Aaron are among His priests, And Sam uel is among those who call upon His name; They called upon the Lord, and He heard them; PSA.98:7 He spoke to them in a pillar of cloud; They kept His testim onies And the ordinances He gave them. PSA.98:8 O Lord our God, You listened to them; O God, You were very m erciful to them, While av enging all their way s of living. PSA.98:9 Exalt the Lord our God And worship at His holy m ountain; For the Lord our God is holy. ## Chapter 99
+## Chapter 97
 
-PSA.99:1 A psalm of thanksgiving. S hout aloud to the Lord, all the earth; PSA.99:2 Serve the Lord with gladness; Com e before Him with great joy. PSA.99:3 Know this: the Lord, He is God; He made us, and not we ourselves; We are His people and the sheep of His pasture. PSA.99:4 Enter into His gates with thanksgiving And into His courts with hy m ns; Give thanks to Him; praise His name; PSA.99:5 For the Lord is good; His mercy is ev erlasting, And His truth is from generation to generation. ## Chapter 100
+PSA.97:1 A psalm by David. Sing a new song to the Lord, For He did wondrous things; His right hand and His holy arm Saved peoples for Him.
+PSA.97:2 The Lord made known His salvation; He revealed His righteousness in the sight of the Gentiles.
+PSA.97:3 He remembered His mercy to Jacob And His truth to the house of Israel; All the ends of the earth saw the salvation of our God.
+PSA.97:4 Shout aloud to God, all the earth; Sing and greatlyrejoice, and sing psalms;
+PSA.97:5 Sing to the Lord on a lyre, On a lyre and with the voice of a psalm;
+PSA.97:6 With trumpets of metal and the sound of a trumpet of horn, Shout aloud before the Lord our King.
+PSA.97:7 Let the sea be shaken and its fullness, The world and those who dwell in it.
+PSA.97:8 The rivers shall clap their hands together; The mountains shall greatlyrejoice;
+PSA.97:9 For He comes to judge the earth; He shall judge the world in righteousness And the peoples with uprightness.
 
-PSA.100:1 A psalm by David. O Lord, I will sing to You of mercy and judgment; PSA.100:2 I will sing and understand in a blam eless way; When will You come to me? I walked in the innocence of my heart in the midst of my house. PSA.100:3 I have not set any lawless thing before my eyes; I hated those who com m it transgressions; PSA.100:4 A crooked heart shall not cleave to me; As for the evil man who turned away from me, I did not know him. PSA.100:5 He who secretly slanders his neighbor, This one I chased away; The one with an arrogant eye and insatiable heart, With this one I did not eat. PSA.100:6 My eyes were on the faithful of the earth, so they m ight dwell with me; He who walks in a blam eless way, this one m inistered to me. PSA.100:7 He who acts arrogantly did not dwell in the midst of my house; He who speaks unjustly did not prosper before my eyes. PSA.100:8 In the morning I slew all the sinners of the earth, So as to destroy from the city of the Lord all the workers of lawlessness. ## Chapter 101
+## Chapter 98
 
-PSA.101:1 A prayer by a poor man, when he was depressed and poured out his supplication before the Lord. PSA.101:2 Hear my prayer, O Lord, And let my cry come to You. PSA.101:3 Do not turn Your face from me; In the day when I am afflicted, incline Your ear to me; In the day when I call upon You, hear me quickly. PSA.101:4 For my day s v anished like sm oke, And my bones burned up like firewood. PSA.101:5 I was cut down like grass, and my heart became withered, For I forgot to eat my bread. PSA.101:6 Because of the sound of my groaning, My bones cleaved to my flesh. PSA.101:7 I have become like a pelican in a desert; I have become like an owl in a ruined house; PSA.101:8 I kept watch, and have become Like a sparrow alone on a housetop. PSA.101:9 My enemies reproached me all day long, And those who praised me swore against me. PSA.101:10 For I ate ashes like bread, And m ixed my drink with weeping
-PSA.101:11 Because of the wrath of Your countenance and Your anger; For You lifted me up and broke me down. PSA.101:12 My day s were far spent like a shadow, And I am withered like grass. PSA.101:13 But You, O Lord, rem ain forever, And Your remembrance is from generation to generation. PSA.101:14 When You rise up, You shall have com passion on Zion, For it is tim e to have com passion on her, because the tim e is come; PSA.101:15 For Your servants took pleasure in her stones, And they shall have com passion for her dust. PSA.101:16 And the Gentiles shall fear the name of the Lord, And all the kings of the earth Your glory; PSA.101:17 For the Lord shall build Zion, And He shall be seen in His glory. PSA.101:18 He regarded the prayer of the hum ble, And He did not despise their supplication. PSA.101:19 Let this be written for another generation, And the people who are created shall praise the Lord; PSA.101:20 For He looked down from the height of His holy place; The Lord looked upon the earth from heaven, PSA.101:21 To hear the groaning of those bound, To set free the sons of the slain, PSA.101:22 To declare the Lord's name in Zion, And His praise in Jerusalem, PSA.101:23 When the peoples and the kingdom s Are gathered together to serve the Lord. PSA.101:24 He replied to Him in the way of strength, "Declare to me the fewness of my day s; PSA.101:25 Take me not away in the midst of my day s; Your y ears are throughout all generations. PSA.101:26 In the beginning, O Lord, You founded the earth, And the heavens are the works of Your hands. PSA.101:27 They shall perish, but You shall rem ain, And all things shall grow old like a garm ent, And like a cloak You shall change them, And they shall be changed; PSA.101:28 But You are the sam e, and Your y ears shall not fail. PSA.101:29 The children of Your servants shall dwell there, And their seed shall be led to prosperity forever."
+PSA.98:1 A psalm by David. The Lord reigns; let the peoples be angry; The Lord sits upon the cherubim; let the earth be shaken.
+PSA.98:2 The Lord is great in Zion, And He is exalted above all the peoples;
+PSA.98:3 Let them give thanks to Your great name, For it is fearful and holy.
+PSA.98:4 The King's honor loves judgment; You prepare uprightness; You work judgment and righteousness in Jacob.
+PSA.98:5 Exalt the Lord our God, And worship at the footstool of His feet; For He is holy.
+PSA.98:6 Moses and Aaron are among His priests, And Samuel is among those who call upon His name; They called upon the Lord, and He heard them;
+PSA.98:7 He spoke to them in a pillar of cloud; They kept His testimonies And the ordinances He gave them.
+PSA.98:8 O Lord our God, You listened to them; O God, You were very merciful to them, While av enging all their ways of living.
+PSA.98:9 Exalt the Lord our God And worship at His holy mountain; For the Lord our God is holy.
+
+## Chapter 99
+
+PSA.99:1 A psalm of thanksgiving. Shout aloud to the Lord, all the earth;
+PSA.99:2 Serve the Lord with gladness; Come before Him with great joy.
+PSA.99:3 Know this: the Lord, He is God; He made us, and not we ourselves; We are His people and the sheep of His pasture.
+PSA.99:4 Enter into His gates with thanksgiving And into His courts with hymns; Give thanks to Him; praise His name;
+PSA.99:5 For the Lord is good; His mercy is everlasting, And His truth is from generation to generation.
+
+## Chapter 100
+
+PSA.100:1 A psalm by David. O Lord, I will sing to You of mercy and judgment;
+PSA.100:2 I will sing and understand in a blameless way; When will You come to me? I walked in the innocence of my heart in the midst of my house.
+PSA.100:3 I have not set any lawless thing before my eyes; I hated those who commit transgressions;
+PSA.100:4 A crooked heart shall not cleave to me; As for the evil man who turned away from me, I did not know him.
+PSA.100:5 He who secretly slanders his neighbor, This one I chased away; The one with an arrogant eye and insatiable heart, With this one I did not eat.
+PSA.100:6 My eyes were on the faithful of the earth, so they might dwell with me; He who walks in a blameless way, this one ministered to me.
+PSA.100:7 He who acts arrogantly did not dwell in the midst of my house; He who speaks unjustly did not prosper before my eyes.
+PSA.100:8 In the morning I slew all the sinners of the earth, So as to destroy from the city of the Lord all the workers of lawlessness.
+
+## Chapter 101
+
+PSA.101:1 A prayer by a poor man, when he was depressed and poured out his supplication before the Lord.
+PSA.101:2 Hear my prayer, O Lord, And let my cry come to You.
+PSA.101:3 Do not turn Your face from me; In the day when I am afflicted, incline Your ear to me; In the day when I call upon You, hear me quickly.
+PSA.101:4 For my days vanished like smoke, And my bones burned up like firewood.
+PSA.101:5 I was cut down like grass, and my heart became withered, For I forgot to eat my bread.
+PSA.101:6 Because of the sound of my groaning, My bones cleaved to my flesh.
+PSA.101:7 I have become like a pelican in a desert; I have become like an owl in a ruined house;
+PSA.101:8 I kept watch, and have become Like a sparrow alone on a housetop.
+PSA.101:9 My enemies reproached me all day long, And those who praised me swore against me.
+PSA.101:10 For I ate ashes like bread, And mixed my drink with weeping
+PSA.101:11 Because of the wrath of Your countenance and Your anger; For You lifted me up and broke me down.
+PSA.101:12 My days were far spent like a shadow, And I am withered like grass.
+PSA.101:13 But You, O Lord, remain forever, And Your remembrance is from generation to generation.
+PSA.101:14 When You rise up, You shall have compassion on Zion, For it is time to have compassion on her, because the time is come;
+PSA.101:15 For Your servants took pleasure in her stones, And they shall have compassion for her dust.
+PSA.101:16 And the Gentiles shall fear the name of the Lord, And all the kings of the earth Your glory;
+PSA.101:17 For the Lord shall build Zion, And He shall be seen in His glory.
+PSA.101:18 He regarded the prayer of the humble, And He did not despise their supplication.
+PSA.101:19 Let this be written for another generation, And the people who are created shall praise the Lord;
+PSA.101:20 For He looked down from the height of His holy place; The Lord looked upon the earth from heaven,
+PSA.101:21 To hear the groaning of those bound, To set free the sons of the slain,
+PSA.101:22 To declare the Lord's name in Zion, And His praise in Jerusalem,
+PSA.101:23 When the peoples and the kingdoms Are gathered together to serve the Lord.
+PSA.101:24 He replied to Him in the way of strength, "Declare to me the fewness of my days;
+PSA.101:25 Take me not away in the midst of my days; Your years are throughout all generations.
+PSA.101:26 In the beginning, O Lord, You founded the earth, And the heavens are the works of Your hands.
+PSA.101:27 They shall perish, but You shall remain, And all things shall grow old like a garment, And like a cloak You shall change them, And they shall be changed;
+PSA.101:28 But You are the same, and Your years shall not fail.
+PSA.101:29 The children of Your servants shall dwell there, And their seed shall be led to prosperity forever."
 
 ## Chapter 102
 
-PSA.102:1 By David. B less the Lord, O my soul, And every thing within me, bless His holy name. PSA.102:2 Bless the Lord, O my soul, And forget not all His rewards: PSA.102:3 Who is m erciful to all your transgressions, Who heals all your diseases, PSA.102:4 Who redeem s your life from corruption, Who crowns you with mercy and com passion, PSA.102:5 Who satisfies your desire with good things; And your y outh is renewed like the eagle's. PSA.102:6 The Lord shows mercies And judgment to all who are wronged. PSA.102:7 He made known His way s to Moses, The things He willed to the sons of Israel. PSA.102:8 The Lord is com passionate and m erciful, Slow to anger, and abounding in mercy. PSA.102:9 He will not become angry to the end, Nor will He be wrathful forever; PSA.102:10 He did not deal with us according to our sins, Nor reward us according to our transgressions; PSA.102:11 For according to the height of heaven from earth, So the Lord reigns in mercy over those who fear Him; PSA.102:12 As far as the east is from the west, So He rem ov es our transgressions from us. PSA.102:13 As a father has com passion on his children, So the Lord has com passion on those who fear Him, PSA.102:14 For He knows how He form ed us; He rem em bers we are dust. PSA.102:15 As for man, his day s are like grass, As a flower of the field, so he flourishes; PSA.102:16 For the wind passes through it, and it shall not rem ain; And it shall no longer know its place. PSA.102:17 But the mercy of the Lord is from age to age upon those who fear Him, And His righteousness upon children's children, PSA.102:18 To such as keep His covenant And remember His com m andm ents, to do them. PSA.102:19 The Lord prepared His throne in heaven, And His Kingdom rules over all. PSA.102:20 Bless the Lord, all you His angels, Mighty in strength, who do His word, So as to hear the voice of His words. PSA.102:21 Bless the Lord, all you His hosts, His m inisters who do His will; PSA.102:22 Bless the Lord, all His works, In all places of His dom inion; Bless the Lord, O my soul. ## Chapter 103
+PSA.102:1 By David. Bless the Lord, O my soul, And every thing within me, bless His holy name.
+PSA.102:2 Bless the Lord, O my soul, And forget not all His rewards:
+PSA.102:3 Who is merciful to all your transgressions, Who heals all your diseases,
+PSA.102:4 Who redeems your life from corruption, Who crowns you with mercy and compassion,
+PSA.102:5 Who satisfies your desire with good things; And your youth is renewed like the eagle's.
+PSA.102:6 The Lord shows mercies And judgment to all who are wronged.
+PSA.102:7 He made known His ways to Moses, The things He willed to the sons of Israel.
+PSA.102:8 The Lord is compassionate and merciful, Slow to anger, and abounding in mercy.
+PSA.102:9 He will not become angry to the end, Nor will He be wrathful forever;
+PSA.102:10 He did not deal with us according to our sins, Nor reward us according to our transgressions;
+PSA.102:11 For according to the height of heaven from earth, So the Lord reigns in mercy over those who fear Him;
+PSA.102:12 As far as the east is from the west, So He removes our transgressions from us.
+PSA.102:13 As a father has compassion on his children, So the Lord has compassion on those who fear Him,
+PSA.102:14 For He knows how He formed us; He remembers we are dust.
+PSA.102:15 As for man, his days are like grass, As a flower of the field, so he flourishes;
+PSA.102:16 For the wind passes through it, and it shall not remain; And it shall no longer know its place.
+PSA.102:17 But the mercy of the Lord is from age to age upon those who fear Him, And His righteousness upon children's children,
+PSA.102:18 To such as keep His covenant And remember His commandments, to do them.
+PSA.102:19 The Lord prepared His throne in heaven, And His Kingdom rules over all.
+PSA.102:20 Bless the Lord, all you His angels, Mighty in strength, who do His word, So as to hear the voice of His words.
+PSA.102:21 Bless the Lord, all you His hosts, His ministers who do His will;
+PSA.102:22 Bless the Lord, all His works, In all places of His dominion; Bless the Lord, O my soul.
 
-PSA.103:1 By David. B less the Lord, O my soul. O Lord my God, You are m agnified exceedingly; You clothe Yourself with thanksgiving and m ajesty, PSA.103:2 Who cover Yourself with light as with a garm ent, Who stretch out the heavens like a curtain; PSA.103:3 You are He who covers His upper cham bers with waters, Who m akes the clouds His m eans of approach, Who walks on the wings of the winds, PSA.103:4 Who m akes His angels spirits And His m inisters a flam e of fire. PSA.103:5 He established the earth on its stable foundation; It shall not be m ov ed unto ages of ages. PSA.103:6 The deep like a garm ent is His covering; The waters shall stand upon the m ountains; PSA.103:7 At Your rebuke they shall flee; At the sound of Your thunder, they shall be afraid. PSA.103:8 The m ountains rise up, and the plains sink down To the place You founded for them. PSA.103:9 You set a boundary they shall not pass over; Neither shall they return to cover the earth. PSA.103:10 You are He who sends springs into the valley; The waters shall pass between the m ountains; PSA.103:11 They shall give drink to all the wild animals of the field; The wild asses shall quench their thirst; PSA.103:12 The birds of heaven shall dwell beside them; They shall sing from the midst of the rocks. PSA.103:13 You are He who waters the m ountains from His higher places; The earth shall be satisfied with the fruit of Your works. PSA.103:14 You are He who causes grass to grow for the cattle, And the green plant for the service of man, To bring forth bread from the earth; PSA.103:15 And wine gladdens the heart of man, To brighten his face with oil; And bread strengthens man's heart. PSA.103:16 The trees of the plain shall be full of fruit, The cedars of Lebanon, which You planted; PSA.103:17 There the sparrows shall make their nests; The house of the heron takes the lead among them. PSA.103:18 The high m ountains are for the deer; The cliff is a refuge for the rabbits. PSA.103:19 He made the moon for seasons; The sun knows its setting. PSA.103:20 You established darkness, and it was night, Wherein all the wild animals of the forest will prowl about; PSA.103:21 The y oung lions roar and snatch their prey, And seek their food from God. PSA.103:22 The sun arises, and they are gathered together; And they shall be put to bed in their dens. PSA.103:23 Man shall go out to his work And to his labor until evening. PSA.103:24 O Lord, Your works shall be m agnified greatly; You made all things in wisdom; The earth was filled with Your creation. PSA.103:25 There is this great and spacious sea: The creeping things are there without num ber; The living things are there, both sm all and great; PSA.103:26 There the ships pass through; There is this dragon You form ed to play therein. PSA.103:27 All things wait upon You, That You may give them food in due season. PSA.103:28 When You give it to them, they shall gather it; When You open Your hand, all things shall be filled with Your goodness. PSA.103:29 But when You turn Your face away, they shall be troubled; When You take away their breath, they shall die And return again to their dust. PSA.103:30 You shall send forth Your Spirit, and they shall be created, And You shall renew the face of the earth. PSA.103:31 Let the glory of the Lord be forever; The Lord shall be glad in His works; PSA.103:32 He looks upon the earth and m akes it trem ble; He touches the m ountains, and they sm oke. PSA.103:33 I will sing to the Lord all my life; I will sing to my God as long as I exist; PSA.103:34 May my words be pleasing to Him, And I shall be glad in the Lord. PSA.103:35 May sinners cease from the earth, And the lawless, so as to be no more. Bless the Lord, O my soul. ## Chapter 104
+## Chapter 103
 
-PSA.104:1 Alleluia. Give thanks to the Lord and call upon His name; Report His works among the Gentiles; PSA.104:2 Sing to Him, and play a stringed instrum ent to Him; Describe all His wonderful works. PSA.104:3 Praise His holy name; Let the heart of those who seek the Lord be glad; PSA.104:4 Seek the Lord and be strengthened; Seek His face continually. PSA.104:5 Rem em ber the wonders He perform ed, Of His m arv els and the judgments of His mouth, PSA.104:6 O seed of Abraham, His servants, O sons of Jacob, His chosen ones. PSA.104:7 He is the Lord our God; His judgments are in all the earth. PSA.104:8 Rem em ber His covenant forever, And His word He commanded for a thousand generations, PSA.104:9 Which He established with Abraham, And His oath with Isaac; PSA.104:10 And He established it as an ordinance with Jacob And as an ev erlasting covenant with Israel, PSA.104:11 Say ing, "I shall give you the land of Canaan As the portion of your inheritance."
-PSA.104:12 When they were few in num ber, The sm allest and sojourners in the land, PSA.104:13 And passed through from nation to nation, From a kingdom to a different people, PSA.104:14 He allowed no man to wrong them; And He reproved kings on their behalf: PSA.104:15 "Do not touch My anointed ones, And do not act wickedly towards My prophets."
-PSA.104:16 And He called a fam ine upon the land; He shattered all their provision of bread; PSA.104:17 He sent a man before them; He sold Joseph into slavery. PSA.104:18 They hum bled his feet with fetters; His soul passed into the iron
-PSA.104:19 Until his word cam e to pass; The revelation of the Lord tried him in the fire. PSA.104:20 The king, the ruler of the people, sent and released him, And he acquitted him. PSA.104:21 He made him lord of his house And ruler of all his dom ain, PSA.104:22 To instruct his rulers as him self And to teach his elders wisdom. PSA.104:23 And Israel cam e into Egy pt, And Jacob sojourned in the land of Ham; PSA.104:24 He increased His people greatly, And made them stronger than their enemies. PSA.104:25 He changed their heart to hate His people, To deal craftily with His servants. PSA.104:26 He sent Moses His servant; He sent Aaron, whom He chose. PSA.104:27 He put among them the words of His signs And of His wonders in the land of Ham. PSA.104:28 He sent darkness, and it grew dark; And they rebelled against His words. PSA.104:29 He turned their waters into blood, And He killed their fish. PSA.104:30 Their land produced frogs In the cham bers of their kings. PSA.104:31 He spoke and the dog-fly cam e, And gnats in all their borders. PSA.104:32 He gave them hail for rain; Fire burned up their land; PSA.104:33 And He sm ote their v iney ards and their fig trees, And He shattered every tree in their dom ain. PSA.104:34 He spoke, and the locust cam e, And the caterpillar without num ber, PSA.104:35 And ate up all the grass in their land, And devoured the fruit of their land. PSA.104:36 And He sm ote all the firstborn in their land, The firstling of all their labor. PSA.104:37 He led them out with silver and gold, And there was not among their tribes one who was feeble. PSA.104:38 Egy pt was gladdened by their exodus, For fear of them fell upon them. PSA.104:39 He spread a cloud as a cover for them, And a fire to give them light at night. PSA.104:40 They asked, and the quails cam e, And He filled them with the bread of heaven. PSA.104:41 He split the rock, and the waters flowed; The rivers ran in the waterless places. PSA.104:42 For He rem em bered His holy word Which He gave to His servant Abraham. PSA.104:43 He brought out His people with exceeding joy, And His chosen ones with gladness. PSA.104:44 And He gave them the lands of the nations, And they inherited the labors of the peoples, PSA.104:45 So they m ight keep His ordinances, And seek out His law. ## Chapter 105
+PSA.103:1 By David. Bless the Lord, O my soul. O Lord my God, You are magnified exceedingly; You clothe Yourself with thanksgiving and majesty,
+PSA.103:2 Who cover Yourself with light as with a garment, Who stretch out the heavens like a curtain;
+PSA.103:3 You are He who covers His upper chambers with waters, Who makes the clouds His means of approach, Who walks on the wings of the winds,
+PSA.103:4 Who makes His angels spirits And His ministers a flame of fire.
+PSA.103:5 He established the earth on its stable foundation; It shall not be moved unto ages of ages.
+PSA.103:6 The deep like a garment is His covering; The waters shall stand upon the mountains;
+PSA.103:7 At Your rebuke they shall flee; At the sound of Your thunder, they shall be afraid.
+PSA.103:8 The mountains rise up, and the plains sink down To the place You founded for them.
+PSA.103:9 You set a boundary they shall not pass over; Neither shall they return to cover the earth.
+PSA.103:10 You are He who sends springs into the valley; The waters shall pass between the mountains;
+PSA.103:11 They shall give drink to all the wild animals of the field; The wild asses shall quench their thirst;
+PSA.103:12 The birds of heaven shall dwell beside them; They shall sing from the midst of the rocks.
+PSA.103:13 You are He who waters the mountains from His higher places; The earth shall be satisfied with the fruit of Your works.
+PSA.103:14 You are He who causes grass to grow for the cattle, And the green plant for the service of man, To bring forth bread from the earth;
+PSA.103:15 And wine gladdens the heart of man, To brighten his face with oil; And bread strengthens man's heart.
+PSA.103:16 The trees of the plain shall be full of fruit, The cedars of Lebanon, which You planted;
+PSA.103:17 There the sparrows shall make their nests; The house of the heron takes the lead among them.
+PSA.103:18 The high mountains are for the deer; The cliff is a refuge for the rabbits.
+PSA.103:19 He made the moon for seasons; The sun knows its setting.
+PSA.103:20 You established darkness, and it was night, Wherein all the wild animals of the forest will prowl about;
+PSA.103:21 The young lions roar and snatch their prey, And seek their food from God.
+PSA.103:22 The sun arises, and they are gathered together; And they shall be put to bed in their dens.
+PSA.103:23 Man shall go out to his work And to his labor until evening.
+PSA.103:24 O Lord, Your works shall be magnified greatly; You made all things in wisdom; The earth was filled with Your creation.
+PSA.103:25 There is this great and spacious sea: The creeping things are there without number; The living things are there, both small and great;
+PSA.103:26 There the ships pass through; There is this dragon You formed to play therein.
+PSA.103:27 All things wait upon You, That You may give them food in due season.
+PSA.103:28 When You give it to them, they shall gather it; When You open Your hand, all things shall be filled with Your goodness.
+PSA.103:29 But when You turn Your face away, they shall be troubled; When You take away their breath, they shall die And return again to their dust.
+PSA.103:30 You shall send forth Your Spirit, and they shall be created, And You shall renew the face of the earth.
+PSA.103:31 Let the glory of the Lord be forever; The Lord shall be glad in His works;
+PSA.103:32 He looks upon the earth and makes it tremble; He touches the mountains, and they smoke.
+PSA.103:33 I will sing to the Lord all my life; I will sing to my God as long as I exist;
+PSA.103:34 May my words be pleasing to Him, And I shall be glad in the Lord.
+PSA.103:35 May sinners cease from the earth, And the lawless, so as to be no more. Bless the Lord, O my soul.
 
-PSA.105:1 Alleluia. Give thanks to the Lord, for He is good, For His mercy endures forever. PSA.105:2 Who shall tell the m ighty deeds of the Lord, Who shall make all His praises heard? PSA.105:3 Blessed are those who keep His judgment, And do righteousness at all tim es. PSA.105:4 Rem em ber us, O Lord, because of the goodwill of Your people; Visit us with Your salvation, PSA.105:5 So as to see it in the goodness of Your chosen ones; So as to be glad with the joy of Your nation, So as to praise You in the midst of Your inheritance. PSA.105:6 We sinned with our fathers; We com m itted lawlessness; we acted wrongfully. PSA.105:7 Our fathers did not understand Your wonders in Egy pt; They did not remember the multitude of Your mercy, But rebelled when they went up to the Red Sea. PSA.105:8 But He saved them because of His name, So they m ight know His power; PSA.105:9 And He rebuked the Red Sea, and it was dried up; And He led them in the sea as though it were a desert. PSA.105:10 He saved them from the hands of those who hated them, And redeem ed them from the hand of the enemy; PSA.105:11 So the water covered those who afflicted them; There was not one left among them. PSA.105:12 Then they believed His words And sang His praise. PSA.105:13 They were quick to forget His works; They did not wait for His counsel; PSA.105:14 And they desired exceedingly in the desert, And tem pted God in a waterless place. PSA.105:15 So He gave them their request And fully satisfied their souls. PSA.105:16 They also angered Moses in the cam p, And Aaron the holy one of the Lord; PSA.105:17 The earth was opened and swallowed Dathan, And buried the assem bly of Abiram; PSA.105:18 A fire kindled in their assem bly; The flam e burned up the sinners. PSA.105:19 They made a calf in Horeb, And bowed down and worshiped the graven im age; PSA.105:20 Thus they changed their glory Into the likeness of a calf that eats grass. PSA.105:21 They forgot the God who saved them, Who did great things in Egy pt, PSA.105:22 And m arv elous things in the land of Ham, Fearful things at the Red Sea. PSA.105:23 And He said He would destroy them Had not Moses His chosen one Stood among them in the destruction before Him, To turn away His wrath so as not to destroy them. PSA.105:24 Then they despised the desired land; They did not believe His word, PSA.105:25 But m urm ured in their tents; They did not listen to the Lord's voice. PSA.105:26 So He raised His hand against them, To ov erthrow them in the desert; PSA.105:27 And to ov erthrow their seed among the nations, And to scatter them among the countries. PSA.105:28 They were consecrated to Baal-Peor, And ate sacrifices of the dead; PSA.105:29 So they provoked Him with their way s of living, And destruction multiplied among them. PSA.105:30 Then Phinehas stood among them and made atonem ent, And the destruction ceased; PSA.105:31 And it was reckoned as righteousness to him From generation to generation forever. PSA.105:32 They also provoked Him to anger at the water of Rebellion, And Moses was afflicted because of them; PSA.105:33 For they em bittered his spirit, And he spoke offensively with his lips; PSA.105:34 They did not destroy the nations the Lord said to destroy, PSA.105:35 But m ingled with the nations And learned their works; PSA.105:36 And they served their graven im ages, And this became a snare for them; PSA.105:37 They also sacrificed their sons And their daughters to dem ons, PSA.105:38 And shed innocent blood, The blood of their sons and daughters, Whom they sacrificed to the graven im ages of Canaan; So the land was polluted with their blood; PSA.105:39 It was also defiled by their works; Thus they acted unfaithfully in their way s of living. PSA.105:40 And the Lord was very angry with His people, And He abhorred His inheritance; PSA.105:41 Then He delivered them into the hands of the nations, And those who hated them ruled over them. PSA.105:42 Their enemies also afflicted them, And they were hum bled under their hands. PSA.105:43 He delivered them many tim es, But they rebelled against Him with their counsel, And were hum bled by their transgressions. PSA.105:44 And He saw them in their afflictions; He listened to their supplications, PSA.105:45 And He rem em bered His covenant, And felt regret according to the multitude of His mercy; PSA.105:46 So He aroused com passion for them Am ong all who made them captives. PSA.105:47 Save us, O Lord our God, And gather us from the nations, So we may give thanks to Your holy name, And boast in Your praise. PSA.105:48 Bless the Lord God of Israel from ev erlasting to ev erlasting. And all the people shall say, "Am en! Am en!"
+## Chapter 104
+
+PSA.104:1 Alleluia. Give thanks to the Lord and call upon His name; Report His works among the Gentiles;
+PSA.104:2 Sing to Him, and play a stringed instrument to Him; Describe all His wonderful works.
+PSA.104:3 Praise His holy name; Let the heart of those who seek the Lord be glad;
+PSA.104:4 Seek the Lord and be strengthened; Seek His face continually.
+PSA.104:5 Remember the wonders He performed, Of His marvels and the judgments of His mouth,
+PSA.104:6 O seed of Abraham, His servants, O sons of Jacob, His chosen ones.
+PSA.104:7 He is the Lord our God; His judgments are in all the earth.
+PSA.104:8 Remember His covenant forever, And His word He commanded for a thousand generations,
+PSA.104:9 Which He established with Abraham, And His oath with Isaac;
+PSA.104:10 And He established it as an ordinance with Jacob And as an everlasting covenant with Israel,
+PSA.104:11 Saying, "I shall give you the land of Canaan As the portion of your inheritance."
+PSA.104:12 When they were few in number, The smallest and sojourners in the land,
+PSA.104:13 And passed through from nation to nation, From a kingdom to a different people,
+PSA.104:14 He allowed no man to wrong them; And He reproved kings on their behalf:
+PSA.104:15 "Do not touch My anointed ones, And do not act wickedly towards My prophets."
+PSA.104:16 And He called a famine upon the land; He shattered all their provision of bread;
+PSA.104:17 He sent a man before them; He sold Joseph into slavery.
+PSA.104:18 They humbled his feet with fetters; His soul passed into the iron
+PSA.104:19 Until his word came to pass; The revelation of the Lord tried him in the fire.
+PSA.104:20 The king, the ruler of the people, sent and released him, And he acquitted him.
+PSA.104:21 He made him lord of his house And ruler of all his domain,
+PSA.104:22 To instruct his rulers as himself And to teach his elders wisdom.
+PSA.104:23 And Israel came into Egypt, And Jacob sojourned in the land of Ham;
+PSA.104:24 He increased His people greatly, And made them stronger than their enemies.
+PSA.104:25 He changed their heart to hate His people, To deal craftily with His servants.
+PSA.104:26 He sent Moses His servant; He sent Aaron, whom He chose.
+PSA.104:27 He put among them the words of His signs And of His wonders in the land of Ham.
+PSA.104:28 He sent darkness, and it grew dark; And they rebelled against His words.
+PSA.104:29 He turned their waters into blood, And He killed their fish.
+PSA.104:30 Their land produced frogs In the chambers of their kings.
+PSA.104:31 He spoke and the dog-fly came, And gnats in all their borders.
+PSA.104:32 He gave them hail for rain; Fire burned up their land;
+PSA.104:33 And He smote their vineyards and their fig trees, And He shattered every tree in their domain.
+PSA.104:34 He spoke, and the locust came, And the caterpillar without number,
+PSA.104:35 And ate up all the grass in their land, And devoured the fruit of their land.
+PSA.104:36 And He smote all the firstborn in their land, The firstling of all their labor.
+PSA.104:37 He led them out with silver and gold, And there was not among their tribes one who was feeble.
+PSA.104:38 Egypt was gladdened by their exodus, For fear of them fell upon them.
+PSA.104:39 He spread a cloud as a cover for them, And a fire to give them light at night.
+PSA.104:40 They asked, and the quails came, And He filled them with the bread of heaven.
+PSA.104:41 He split the rock, and the waters flowed; The rivers ran in the waterless places.
+PSA.104:42 For He remembered His holy word Which He gave to His servant Abraham.
+PSA.104:43 He brought out His people with exceeding joy, And His chosen ones with gladness.
+PSA.104:44 And He gave them the lands of the nations, And they inherited the labors of the peoples,
+PSA.104:45 So they might keep His ordinances, And seek out His law.
+
+## Chapter 105
+
+PSA.105:1 Alleluia. Give thanks to the Lord, for He is good, For His mercy endures forever.
+PSA.105:2 Who shall tell the mighty deeds of the Lord, Who shall make all His praises heard?
+PSA.105:3 Blessed are those who keep His judgment, And do righteousness at all times.
+PSA.105:4 Remember us, O Lord, because of the goodwill of Your people; Visit us with Your salvation,
+PSA.105:5 So as to see it in the goodness of Your chosen ones; So as to be glad with the joy of Your nation, So as to praise You in the midst of Your inheritance.
+PSA.105:6 We sinned with our fathers; We committed lawlessness; we acted wrongfully.
+PSA.105:7 Our fathers did not understand Your wonders in Egypt; They did not remember the multitude of Your mercy, But rebelled when they went up to the Red Sea.
+PSA.105:8 But He saved them because of His name, So they might know His power;
+PSA.105:9 And He rebuked the Red Sea, and it was dried up; And He led them in the sea as though it were a desert.
+PSA.105:10 He saved them from the hands of those who hated them, And redeemed them from the hand of the enemy;
+PSA.105:11 So the water covered those who afflicted them; There was not one left among them.
+PSA.105:12 Then they believed His words And sang His praise.
+PSA.105:13 They were quick to forget His works; They did not wait for His counsel;
+PSA.105:14 And they desired exceedingly in the desert, And tempted God in a waterless place.
+PSA.105:15 So He gave them their request And fully satisfied their souls.
+PSA.105:16 They also angered Moses in the camp, And Aaron the holy one of the Lord;
+PSA.105:17 The earth was opened and swallowed Dathan, And buried the assembly of Abiram;
+PSA.105:18 A fire kindled in their assembly; The flame burned up the sinners.
+PSA.105:19 They made a calf in Horeb, And bowed down and worshiped the graven image;
+PSA.105:20 Thus they changed their glory Into the likeness of a calf that eats grass.
+PSA.105:21 They forgot the God who saved them, Who did great things in Egypt,
+PSA.105:22 And marvelous things in the land of Ham, Fearful things at the Red Sea.
+PSA.105:23 And He said He would destroy them Had not Moses His chosen one Stood among them in the destruction before Him, To turn away His wrath so as not to destroy them.
+PSA.105:24 Then they despised the desired land; They did not believe His word,
+PSA.105:25 But murmured in their tents; They did not listen to the Lord's voice.
+PSA.105:26 So He raised His hand against them, To overthrow them in the desert;
+PSA.105:27 And to overthrow their seed among the nations, And to scatter them among the countries.
+PSA.105:28 They were consecrated to Baal-Peor, And ate sacrifices of the dead;
+PSA.105:29 So they provoked Him with their ways of living, And destruction multiplied among them.
+PSA.105:30 Then Phinehas stood among them and made atonement, And the destruction ceased;
+PSA.105:31 And it was reckoned as righteousness to him From generation to generation forever.
+PSA.105:32 They also provoked Him to anger at the water of Rebellion, And Moses was afflicted because of them;
+PSA.105:33 For they embittered his spirit, And he spoke offensively with his lips;
+PSA.105:34 They did not destroy the nations the Lord said to destroy,
+PSA.105:35 But mingled with the nations And learned their works;
+PSA.105:36 And they served their graven images, And this became a snare for them;
+PSA.105:37 They also sacrificed their sons And their daughters to demons,
+PSA.105:38 And shed innocent blood, The blood of their sons and daughters, Whom they sacrificed to the graven images of Canaan; So the land was polluted with their blood;
+PSA.105:39 It was also defiled by their works; Thus they acted unfaithfully in their ways of living.
+PSA.105:40 And the Lord was very angry with His people, And He abhorred His inheritance;
+PSA.105:41 Then He delivered them into the hands of the nations, And those who hated them ruled over them.
+PSA.105:42 Their enemies also afflicted them, And they were humbled under their hands.
+PSA.105:43 He delivered them many times, But they rebelled against Him with their counsel, And were humbled by their transgressions.
+PSA.105:44 And He saw them in their afflictions; He listened to their supplications,
+PSA.105:45 And He remembered His covenant, And felt regret according to the multitude of His mercy;
+PSA.105:46 So He aroused compassion for them Among all who made them captives.
+PSA.105:47 Save us, O Lord our God, And gather us from the nations, So we may give thanks to Your holy name, And boast in Your praise.
+PSA.105:48 Bless the Lord God of Israel from everlasting to everlasting. And all the people shall say, "Amen! Amen!"
 
 ## Chapter 106
 
-PSA.106:1 Alleluia. Give thanks to the Lord, for He is good, For His mercy endures forever. PSA.106:2 Let those redeem ed by the Lord say so, Whom He redeem ed from the hand of the enemy. PSA.106:3 He gathered them from the countries, From the east and the west and the north and the south. PSA.106:4 They were led astray in the desert, in a place without water; They did not find a road to an inhabited city; PSA.106:5 While hungering and thirsting, Their soul fainted in them; PSA.106:6 And they cried out to the Lord in their affliction, And He delivered them from their distresses; PSA.106:7 And He led them in a straight path, So they m ight go to a city of habitation. PSA.106:8 Let them give thanks to the Lord for His mercies And His wonders to the sons of men; PSA.106:9 For He fed the empty soul And filled the hungry soul with good things, PSA.106:10 Those sitting in the darkness and shadow of death, Bound in poverty and fetters; PSA.106:11 For they rebelled against the teachings of God And provoked the counsel of the Most High; PSA.106:12 Thus their heart was hum bled by troubles; They were weak, and there was no one to help them; PSA.106:13 Then they cried out to the Lord in their afflictions, And He saved them from their distresses; PSA.106:14 And He brought them out of darkness and the shadow of death, And broke their chains to pieces. PSA.106:15 Let them give thanks to the Lord for His mercies, His wonders to the sons of men; PSA.106:16 For He crushed the gates of bronze And shattered the bars of iron. PSA.106:17 He helped them out of their lawless way s, For they were hum bled because of their transgressions. PSA.106:18 Their soul abhorred all m anner of food, And they drew near the gates of death; PSA.106:19 Then they cried to the Lord in their afflictions, And He saved them from their distresses; PSA.106:20 He sent His Word and healed them, And delivered them from their corruptions. PSA.106:21 Let them give thanks to the Lord for His mercies And His wonders to the sons of men, PSA.106:22 And let them offer a sacrifice of praise; And let them proclaim His works with exceeding joy. PSA.106:23 Those who go down to the sea in ships, Who do business in many waters, PSA.106:24 These see the works of the Lord And His wonders in the deep; PSA.106:25 He spoke, and a storm y wind arose, And its waves were lifted up; PSA.106:26 They m ount up to the heavens And descend into the deep; Their soul is consum ed with ev ils; PSA.106:27 They were troubled; they were shaken like one drunk with wine, And all their wisdom was consum ed; PSA.106:28 Then they cried to the Lord in their affliction, And He brought them out of their distresses. PSA.106:29 He also commanded the storm, and it became a breeze, And its waves were still; PSA.106:30 Then they were glad, for they were silent, And He guided them to the haven of their desire. PSA.106:31 Let them give thanks to the Lord for His mercies And His wonders to the sons of men; PSA.106:32 Let them exalt Him in the assem bly of the people And praise Him in the seat of the elders. PSA.106:33 He turned rivers into a desert And streams of water into dry ground, PSA.106:34 A fruitful land into salt water, Because of the ev ils of those living there. PSA.106:35 He turned the desert into pools of water, And a land without water into streams of water; PSA.106:36 Then He caused the hungry to dwell there And established a city for habitation; PSA.106:37 They sowed fields and planted v iney ards, And produced m uch fruit; PSA.106:38 So He blessed them, and they were multiplied exceedingly, And their cattle did not dim inish. PSA.106:39 But they were dim inished and m altreated By the affliction of ev ils and pain. PSA.106:40 Contem pt was poured out on princes, And He made them wander in an im passible place, where there was no road. PSA.106:41 Yet He helped the poor man out of his poverty, And made his fam ilies like a flock. PSA.106:42 The righteous shall see this and be glad, And all lawlessness shall stop its mouth. PSA.106:43 Who is wise and shall keep these things, And shall understand the mercies of the Lord? ## Chapter 107
+PSA.106:1 Alleluia. Give thanks to the Lord, for He is good, For His mercy endures forever.
+PSA.106:2 Let those redeemed by the Lord sayso, Whom He redeemed from the hand of the enemy.
+PSA.106:3 He gathered them from the countries, From the east and the west and the north and the south.
+PSA.106:4 They were led astray in the desert, in a place without water; They did not find a road to an inhabited city;
+PSA.106:5 While hungering and thirsting, Their soul fainted in them;
+PSA.106:6 And they cried out to the Lord in their affliction, And He delivered them from their distresses;
+PSA.106:7 And He led them in a straight path, So they might go to a city of habitation.
+PSA.106:8 Let them give thanks to the Lord for His mercies And His wonders to the sons of men;
+PSA.106:9 For He fed the empty soul And filled the hungry soul with good things,
+PSA.106:10 Those sitting in the darkness and shadow of death, Bound in poverty and fetters;
+PSA.106:11 For they rebelled against the teachings of God And provoked the counsel of the Most High;
+PSA.106:12 Thus their heart was humbled by troubles; They were weak, and there was no one to help them;
+PSA.106:13 Then they cried out to the Lord in their afflictions, And He saved them from their distresses;
+PSA.106:14 And He brought them out of darkness and the shadow of death, And broke their chains to pieces.
+PSA.106:15 Let them give thanks to the Lord for His mercies, His wonders to the sons of men;
+PSA.106:16 For He crushed the gates of bronze And shattered the bars of iron.
+PSA.106:17 He helped them out of their lawless ways, For they were humbled because of their transgressions.
+PSA.106:18 Their soul abhorred all manner of food, And they drew near the gates of death;
+PSA.106:19 Then they cried to the Lord in their afflictions, And He saved them from their distresses;
+PSA.106:20 He sent His Word and healed them, And delivered them from their corruptions.
+PSA.106:21 Let them give thanks to the Lord for His mercies And His wonders to the sons of men,
+PSA.106:22 And let them offer a sacrifice of praise; And let them proclaim His works with exceeding joy.
+PSA.106:23 Those who go down to the sea in ships, Who do business in many waters,
+PSA.106:24 These see the works of the Lord And His wonders in the deep;
+PSA.106:25 He spoke, and a stormy wind arose, And its waves were lifted up;
+PSA.106:26 They mount up to the heavens And descend into the deep; Their soul is consumed with evils;
+PSA.106:27 They were troubled; they were shaken like one drunk with wine, And all their wisdom was consumed;
+PSA.106:28 Then they cried to the Lord in their affliction, And He brought them out of their distresses.
+PSA.106:29 He also commanded the storm, and it became a breeze, And its waves were still;
+PSA.106:30 Then they were glad, for they were silent, And He guided them to the haven of their desire.
+PSA.106:31 Let them give thanks to the Lord for His mercies And His wonders to the sons of men;
+PSA.106:32 Let them exalt Him in the assembly of the people And praise Him in the seat of the elders.
+PSA.106:33 He turned rivers into a desert And streams of water into dry ground,
+PSA.106:34 A fruitful land into salt water, Because of the evils of those living there.
+PSA.106:35 He turned the desert into pools of water, And a land without water into streams of water;
+PSA.106:36 Then He caused the hungry to dwell there And established a city for habitation;
+PSA.106:37 They sowed fields and planted vineyards, And produced much fruit;
+PSA.106:38 So He blessed them, and they were multiplied exceedingly, And their cattle did not diminish.
+PSA.106:39 But they were diminished and maltreated By the affliction of evils and pain.
+PSA.106:40 Contempt was poured out on princes, And He made them wander in an impassible place, where there was no road.
+PSA.106:41 Yet He helped the poor man out of his poverty, And made his families like a flock.
+PSA.106:42 The righteous shall see this and be glad, And all lawlessness shall stop its mouth.
+PSA.106:43 Who is wise and shall keep these things, And shall understand the mercies of the Lord?
 
-PSA.107:1 The ode of a psalm; by David. PSA.107:2 M y heart is ready, O God, my heart is ready; I will sing and give praise in my glory. PSA.107:3 Awaken, lute and harp; I shall awaken early in the morning. PSA.107:4 I will give thanks to You among the peoples, O Lord, And I will sing to You among the Gentiles; PSA.107:5 For great is Your mercy above the heavens, And Your truth even to the clouds. PSA.107:6 Be exalted above the heavens, O God, And Your glory above all the earth. PSA.107:7 That Your beloved ones may be delivered, Save with Your right hand, and hear me. PSA.107:8 God spoke in His place, "I shall be exalted, and I will divide Shechem, And m easure out the valley of tents; PSA.107:9 Gilead is Mine, and Manasseh is Mine; And Ephraim is the strength of My head; Judah is My king. PSA.107:10 Moab is the cauldron of My hope; I will stretch out My shoe over Edom; Foreign tribes were subjected to Me."
-PSA.107:11 Who will bring me into a fortified city? Who will lead me as far as Edom? PSA.107:12 Will not You, O God, who drove us away? And will You not go out with our arm ies, O God? PSA.107:13 Give us help from affliction, For the salvation of man is worthless. PSA.107:14 In God we shall do a m ighty thing, And He shall despise our enemies. ## Chapter 108
+## Chapter 107
 
-PSA.108:1 For the End; a psalm by David. O God, do not pass over my praise in silence, PSA.108:2 For the mouth of the sinner and the mouth of the deceitful man opened against me; They spoke against me with a deceitful tongue; PSA.108:3 And they surrounded me with words of hatred, And warred against me without cause. PSA.108:4 Instead of loving me, they falsely accused me, But I continued to pray; PSA.108:5 So they repaid me evil for good, And hatred for my love. PSA.108:6 Set a sinner over him, And let the devil stand at his right hand. PSA.108:7 And when he is judged, may he go forth condem ned, And let his prayer become sin. PSA.108:8 Let his day s be very few, And may a different man receive his office; PSA.108:9 Let his children be fatherless And his wife a widow; PSA.108:10 Let his children wander about and be beggars; Let them be cast out of their houses. PSA.108:11 Let the creditor search out whatever possessions he has; Let strangers plunder his labors; PSA.108:12 Let there be no helper for him, Nor a com passionate one for his fatherless children; PSA.108:13 Let his children be utterly destroy ed; In a single generation, let his name be blotted out. PSA.108:14 May the lawlessness of his fathers be rem em bered before the Lord, And may the sin of his m other not be blotted out; PSA.108:15 Let them be continually before the Lord, And may the remembrance of them be utterly destroy ed from the earth, PSA.108:16 Because he did not remember to show mercy, But persecuted a poor and needy man, And one pierced to the heart, that he m ight kill him. PSA.108:17 And he loved cursing, and it cam e to him, And he did not desire blessing, so it shall be far from him. PSA.108:18 So he clothed him self with cursing like a garm ent, And it entered like water into his bowels And like oil into his bones; PSA.108:19 Let it be for him like a garm ent that clothes him, And like a belt that girds him continually. PSA.108:20 This is the work of those who falsely accuse me before the Lord, And of those who speak evil things against my soul. PSA.108:21 But You, O Lord, O Lord, deal m ercifully with me for Your name's sake, For Your mercy is good. PSA.108:22 Save me, for I am poor and needy, And my heart is troubled within me. PSA.108:23 I was rem ov ed like a shadow when it declines; I was shaken off like the locusts. PSA.108:24 My knees were weak from fasting, And my flesh was changed because of the oil. PSA.108:25 And I became an object of reproach to them; They saw me; they shook their heads. PSA.108:26 Help me, O Lord my God; Save me according to Your mercy; PSA.108:27 Then let them know this is Your hand, And You, O Lord, did this. PSA.108:28 They themselves shall curse, but You shall bless; Let those who rise up against me be put to sham e, But let Your servant be glad. PSA.108:29 Let those who falsely accuse me be clothed with sham e, And let them be covered with their dishonor like a double cloak. PSA.108:30 I will give thanks to the Lord abundantly with my mouth, And in the midst of many I will praise Him, PSA.108:31 Because He stood at the right hand of a poor man, To save me from those who persecute my soul. ## Chapter 109
+PSA.107:1 The ode of a psalm; by David.
+PSA.107:2 My heart is ready, O God, my heart is ready; I will sing and give praise in my glory.
+PSA.107:3 Awaken, lute and harp; I shall awaken early in the morning.
+PSA.107:4 I will give thanks to You among the peoples, O Lord, And I will sing to You among the Gentiles;
+PSA.107:5 For great is Your mercy above the heavens, And Your truth even to the clouds.
+PSA.107:6 Be exalted above the heavens, O God, And Your glory above all the earth.
+PSA.107:7 That Your beloved ones may be delivered, Save with Your right hand, and hear me.
+PSA.107:8 God spoke in His place, "I shall be exalted, and I will divide Shechem, And measure out the valley of tents;
+PSA.107:9 Gilead is Mine, and Manasseh is Mine; And Ephraim is the strength of My head; Judah is My king.
+PSA.107:10 Moab is the cauldron of My hope; I will stretch out My shoe over Edom; Foreign tribes were subjected to Me."
+PSA.107:11 Who will bring me into a fortified city? Who will lead me as far as Edom?
+PSA.107:12 Will not You, O God, who drove us away? And will You not go out with our armies, O God?
+PSA.107:13 Give us help from affliction, For the salvation of man is worthless.
+PSA.107:14 In God we shall do a mighty thing, And He shall despise our enemies.
+
+## Chapter 108
+
+PSA.108:1 For the End; a psalm by David. O God, do not pass over my praise in silence,
+PSA.108:2 For the mouth of the sinner and the mouth of the deceitful man opened against me; They spoke against me with a deceitful tongue;
+PSA.108:3 And they surrounded me with words of hatred, And warred against me without cause.
+PSA.108:4 Instead of loving me, they falsely accused me, But I continued to pray;
+PSA.108:5 So they repaid me evil for good, And hatred for my love.
+PSA.108:6 Set a sinner over him, And let the devil stand at his right hand.
+PSA.108:7 And when he is judged, may he go forth condemned, And let his prayer become sin.
+PSA.108:8 Let his days be very few, And may a different man receive his office;
+PSA.108:9 Let his children be fatherless And his wife a widow;
+PSA.108:10 Let his children wander about and be beggars; Let them be cast out of their houses.
+PSA.108:11 Let the creditor search out whatever possessions he has; Let strangers plunder his labors;
+PSA.108:12 Let there be no helper for him, Nor a compassionate one for his fatherless children;
+PSA.108:13 Let his children be utterly destroyed; In a single generation, let his name be blotted out.
+PSA.108:14 May the lawlessness of his fathers be remembered before the Lord, And may the sin of his mother not be blotted out;
+PSA.108:15 Let them be continually before the Lord, And may the remembrance of them be utterly destroyed from the earth,
+PSA.108:16 Because he did not remember to show mercy, But persecuted a poor and needy man, And one pierced to the heart, that he might kill him.
+PSA.108:17 And he loved cursing, and it came to him, And he did not desire blessing, so it shall be far from him.
+PSA.108:18 So he clothed himself with cursing like a garment, And it entered like water into his bowels And like oil into his bones;
+PSA.108:19 Let it be for him like a garment that clothes him, And like a belt that girds him continually.
+PSA.108:20 This is the work of those who falsely accuse me before the Lord, And of those who speak evil things against my soul.
+PSA.108:21 But You, O Lord, O Lord, deal mercifully with me for Your name's sake, For Your mercy is good.
+PSA.108:22 Save me, for I am poor and needy, And my heart is troubled within me.
+PSA.108:23 I was removed like a shadow when it declines; I was shaken off like the locusts.
+PSA.108:24 My knees were weak from fasting, And my flesh was changed because of the oil.
+PSA.108:25 And I became an object of reproach to them; They saw me; they shook their heads.
+PSA.108:26 Help me, O Lord my God; Save me according to Your mercy;
+PSA.108:27 Then let them know this is Your hand, And You, O Lord, did this.
+PSA.108:28 They themselves shall curse, but You shall bless; Let those who rise up against me be put to shame, But let Your servant be glad.
+PSA.108:29 Let those who falsely accuse me be clothed with shame, And let them be covered with their dishonor like a double cloak.
+PSA.108:30 I will give thanks to the Lord abundantly with my mouth, And in the midst of many I will praise Him,
+PSA.108:31 Because He stood at the right hand of a poor man, To save me from those who persecute my soul.
+
+## Chapter 109
 
 PSA.109:1 A psalm by David. The Lord said to my Lord, "Sit at My right hand, Until I make Your enemies the footstool of Your feet."
-PSA.109:2 The Lord shall send forth the rod of Your power from Zion, And rule in the midst of Your enemies. PSA.109:3 With You is the beginning in the day of Your power, In the brightness of Your saints; "I have begotten You from the wom b before the morning star."
+PSA.109:2 The Lord shall send forth the rod of Your power from Zion, And rule in the midst of Your enemies.
+PSA.109:3 With You is the beginning in the day of Your power, In the brightness of Your saints; "I have begotten You from the womb before the morning star."
 PSA.109:4 The Lord swore and will not repent, "You are a priest forever according to the order of Melchizedek."
-PSA.109:5 The Lord at Your right hand crushed kings in the day of His wrath; PSA.109:6 He shall judge among the nations; He shall fill them with dead bodies; He shall crush the heads of many on earth. PSA.109:7 He shall drink from the brook on the way; Therefore, He shall raise His head high. ## Chapter 110
+PSA.109:5 The Lord at Your right hand crushed kings in the day of His wrath;
+PSA.109:6 He shall judge among the nations; He shall fill them with dead bodies; He shall crush the heads of many on earth.
+PSA.109:7 He shall drink from the brook on the way; Therefore, He shall raise His head high.
 
-PSA.110:1 Alleluia. I will give thanks to You, O Lord, with my whole heart, In the council of the upright and in the assem bly. PSA.110:2 Great are the works of the Lord, Sought out in all things with regard to His will; PSA.110:3 Thanksgiving and m ajesty are His work, And His righteousness continues unto ages of ages. PSA.110:4 He made a remembrance of His wonders; The Lord is m erciful and com passionate; PSA.110:5 He gave food to those who fear Him; He shall remember His covenant forever. PSA.110:6 He declared the strength of His works to His people, So as to give them the inheritance of the nations. PSA.110:7 The works of His hands are truth and judgment; Faithful are all His com m andm ents, PSA.110:8 Established unto ages of ages, Made in truth and uprightness. PSA.110:9 He sent redem ption to His people; He commanded His covenant forever; Holy and fearful is His name. PSA.110:10 The beginning of wisdom is the fear of the Lord; A good understanding is in all who practice it. His praise continues unto ages of ages. ## Chapter 111
+## Chapter 110
 
-PSA.111:1 Alleluia. Blessed is the man who fears the Lord; He will delight exceedingly in His com m andm ents; PSA.111:2 His seed shall be m ighty on earth; The generation of the upright shall be blessed; PSA.111:3 Glory and riches shall be in his house, And his righteousness continues unto ages of ages. PSA.111:4 For the upright, light springs up in darkness, For he is m erciful, com passionate, and righteous. PSA.111:5 A good man is com passionate and lends; He will m anage his words with judgment, PSA.111:6 For he shall be unshaken forever; A righteous man shall be in ev erlasting remembrance. PSA.111:7 He shall not be afraid because of an evil report; His heart is prepared to hope in the Lord. PSA.111:8 His heart is established; he is not afraid As he surv ey s his enemies. PSA.111:9 He dispersed; he gave to the poor; His righteousness continues unto ages of ages; His horn shall be exalted with glory. PSA.111:10 The sinner shall see this, and be angry; He shall gnash his teeth, and be consum ed; The desire of sinners shall perish. ## Chapter 112
+PSA.110:1 Alleluia. I will give thanks to You, O Lord, with my whole heart, In the council of the upright and in the assembly.
+PSA.110:2 Great are the works of the Lord, Sought out in all things with regard to His will;
+PSA.110:3 Thanksgiving and majesty are His work, And His righteousness continues unto ages of ages.
+PSA.110:4 He made a remembrance of His wonders; The Lord is merciful and compassionate;
+PSA.110:5 He gave food to those who fear Him; He shall remember His covenant forever.
+PSA.110:6 He declared the strength of His works to His people, So as to give them the inheritance of the nations.
+PSA.110:7 The works of His hands are truth and judgment; Faithful are all His commandments,
+PSA.110:8 Established unto ages of ages, Made in truth and uprightness.
+PSA.110:9 He sent redemption to His people; He commanded His covenant forever; Holy and fearful is His name.
+PSA.110:10 The beginning of wisdom is the fear of the Lord; A good understanding is in all who practice it. His praise continues unto ages of ages.
 
-PSA.112:1 Alleluia. Praise the Lord, O you servants; Praise the name of the Lord; PSA.112:2 Blessed be the name of the Lord From this present tim e and unto the ages; PSA.112:3 From the rising of the sun to its setting, Praise the name of the Lord. PSA.112:4 The Lord is high above all the nations; His glory is above the heavens. PSA.112:5 Who is like the Lord our God, Who dwells in the highest, PSA.112:6 And who looks upon the hum ble things In heaven and on earth? PSA.112:7 He raises the poor man from the earth And lifts up the poor from the dunghills
-PSA.112:8 So as to seat him with rulers, With the rulers of His people; PSA.112:9 He settles the barren wom an in a hom e, To be a joy ful m other of children. ## Chapter 113
+## Chapter 111
 
-PSA.113:1 (114, 115) 1Alleluia. I n the exodus of Israel from Egy pt, The house of Jacob from a foreign people, PSA.113:2 Judah became His sanctuary, And Israel His authority. PSA.113:3 The sea saw them and fled, The Jordan turned back; PSA.113:4 The m ountains skipped like ram s, The hills like flocks of lam bs. PSA.113:5 What is it to you, O sea, that you fled, And to you, O Jordan, that you turned back? PSA.113:6 What is it to you, O m ountains, that you skipped like ram s, And you, O hills, like flocks of lam bs? PSA.113:7 The earth shook because of the Lord's face, Because of the face of Jacob's God, PSA.113:8 When He turned the rock into pools of waters And flinty ground into fountains of waters. PSA.113:9 Not to us, O Lord, not to us, But to Your name give glory, For Your mercy and Your truth, PSA.113:10 Lest the nations say, "Where is their God?"
-PSA.113:11 Our God is in heaven above; And both in heaven and on earth, All things whatsoever He wills, He does. PSA.113:12 The idols of the nations are silver and gold, The work of men's hands; PSA.113:13 They have a mouth, but they shall not speak; They have eyes, but they shall not see; PSA.113:14 They have ears, but they shall not hear; They have noses, but they shall not sm ell; PSA.113:15 They have hands, but they shall not feel; They have feet, but they shall not walk; They shall make no sound with their throats. PSA.113:16 May those who make them become like them, And all who trust in them. PSA.113:17 The house of Israel hoped in the Lord; He is their help and their protector. PSA.113:18 The house of Aaron hoped in the Lord; He is their help and their protector. PSA.113:19 Those who feared the Lord hoped in the Lord; He is their help and their protector. PSA.113:20 The Lord rem em bered us and blessed us; He blessed the house of Israel; He blessed the house of Aaron; PSA.113:21 He blessed those who feared the Lord, The least with the greatest. PSA.113:22 May the Lord increase you, Both you and your children; PSA.113:23 You are blessed by the Lord, Who made heaven and earth. PSA.113:24 The heaven of heaven belongs to the Lord, But He gave the earth to the sons of men. PSA.113:25 The dead shall not praise You, O Lord, Neither do all who descend into Hades; PSA.113:26 But we who live shall bless the Lord, From this present tim e and unto the ages. ## Chapter 114
+PSA.111:1 Alleluia. Blessed is the man who fears the Lord; He will delight exceedingly in His commandments;
+PSA.111:2 His seed shall be mighty on earth; The generation of the upright shall be blessed;
+PSA.111:3 Glory and riches shall be in his house, And his righteousness continues unto ages of ages.
+PSA.111:4 For the upright, light springs up in darkness, For he is merciful, compassionate, and righteous.
+PSA.111:5 A good man is compassionate and lends; He will manage his words with judgment,
+PSA.111:6 For he shall be unshaken forever; A righteous man shall be in everlasting remembrance.
+PSA.111:7 He shall not be afraid because of an evil report; His heart is prepared to hope in the Lord.
+PSA.111:8 His heart is established; he is not afraid As he surveys his enemies.
+PSA.111:9 He dispersed; he gave to the poor; His righteousness continues unto ages of ages; His horn shall be exalted with glory.
+PSA.111:10 The sinner shall see this, and be angry; He shall gnash his teeth, and be consumed; The desire of sinners shall perish.
 
-PSA.114:1 (116:1-9) 1Alleluia. I have loved, because the Lord Shall hear the voice of my supplication; PSA.114:2 For He inclined His ear to me, And in my day s I shall call upon Him. PSA.114:3 The pains of death surrounded me; The dangers of Hades found me; I found affliction and grief. PSA.114:4 Then I called upon the Lord's name, "O Lord, save my soul."
-PSA.114:5 The Lord is m erciful and righteous, And our God has mercy. PSA.114:6 The Lord is He who watches over children; I was hum bled, and He saved me. PSA.114:7 Return, O my soul, to your rest, Because the Lord showed you kindness; PSA.114:8 For He delivered my soul from death, My eyes from tears, And my feet from slipping. PSA.114:9 I shall be well pleasing before the Lord in the land of the living. ## Chapter 115
+## Chapter 112
 
-PSA.115:1 (116:10-19) 1Alleluia. I believed; therefore, I spoke; I was greatly hum bled. PSA.115:2 I said in my ecstasy, "Every man is a liar."
-PSA.115:3 What shall I give back to the Lord For all He rendered to me? PSA.115:4 I will take up the cup of salvation, And call upon the name of the Lord. PSA.115:5 Precious in the sight of the Lord Is the death of His holy ones. PSA.115:6 O Lord, I am Your servant; I am Your servant and the son of Your handm aid. You broke apart my bonds; PSA.115:7 I will offer a sacrifice of praise; PSA.115:8 And I will call upon the name of the Lord. PSA.115:9 I shall pay my v ows to the Lord In the presence of all His people, PSA.115:10 In the courts of the Lord's house, In your midst, O Jerusalem. ## Chapter 116
+PSA.112:1 Alleluia. Praise the Lord, O you servants; Praise the name of the Lord;
+PSA.112:2 Blessed be the name of the Lord From this present time and unto the ages;
+PSA.112:3 From the rising of the sun to its setting, Praise the name of the Lord.
+PSA.112:4 The Lord is high above all the nations; His glory is above the heavens.
+PSA.112:5 Who is like the Lord our God, Who dwells in the highest,
+PSA.112:6 And who looks upon the humble things In heaven and on earth?
+PSA.112:7 He raises the poor man from the earth And lifts up the poor from the dunghills
+PSA.112:8 So as to seat him with rulers, With the rulers of His people;
+PSA.112:9 He settles the barren woman in a home, To be a joyful mother of children.
 
-PSA.116:1 Alleluia. Praise the Lord, all you Gentiles; Praise Him, all you peoples, PSA.116:2 For His mercy rules over us; And the truth of the Lord endures forever. ## Chapter 117
+## Chapter 113
 
-PSA.117:1 Alleluia. Give thanks to the Lord, for He is good; For His mercy endures forever. PSA.117:2 Let the house of Israel say that He is good, For His mercy endures forever. PSA.117:3 Let the house of Aaron say that He is good, For His mercy endures forever. PSA.117:4 Let all who fear the Lord say that He is good, For His mercy endures forever. PSA.117:5 In affliction I called upon the Lord, And He heard me in a broad place. PSA.117:6 The Lord is my helper; I shall not be afraid of what man will do to me. PSA.117:7 The Lord is my helper; I shall look upon my enemies. PSA.117:8 It is good to trust in the Lord Rather than to trust in man; PSA.117:9 It is good to hope in the Lord Rather than to hope in rulers. PSA.117:10 All the nations surrounded me, But in the name of the Lord I defended my self against them; PSA.117:11 They circled and surrounded me, But in the name of the Lord I defended my self against them; PSA.117:12 They surrounded me like bees around a honey com b, And they were inflam ed like fire in a thorn bush; But in the name of the Lord I defended my self against them. PSA.117:13 I was shoved and disheartened, that I m ight fall, But the Lord took hold of me. PSA.117:14 The Lord is my strength and my song, And He became my salvation. PSA.117:15 The sound of exceeding joy and salvation is in the tents of the righteous; The right hand of the Lord worked its power; PSA.117:16 The right hand of the Lord exalted me; The right hand of the Lord worked its power. PSA.117:17 I shall not die, but live, And tell of the Lord's works. PSA.117:18 The Lord chastened and corrected me, But He did not give me up to death. PSA.117:19 Open the gates of righteousness to me; I will enter therein and give thanks to the Lord. PSA.117:20 This is the gate of the Lord; The righteous shall go in through it. PSA.117:21 I will give thanks to You, for You heard me, And You became my salvation. PSA.117:22 The stone the builders rejected, the sam e became the head of the corner; PSA.117:23 And this cam e about from the Lord, And it is wonderful in our eyes. PSA.117:24 This is the day the Lord made; Let us greatly rejoice, and be glad therein. PSA.117:25 O Lord, save us now; O Lord, prosper us now. PSA.117:26 Blessed is he who com es in the name of the Lord; We blessed you from the house of the Lord. PSA.117:27 God is the Lord, and He revealed Him self to us; Appoint a feast for y ourselves, decked with branches, Ev en to the horns of the altar. PSA.117:28 You are my God, and I will give thanks to You; You are my God, and I shall exalt You; I will give thanks to You, for You heard me; And You became my salvation. PSA.117:29 Give thanks to the Lord, for He is good; For His mercy endures forever. ## Chapter 118
+PSA.113:1 (114, 115) 1Alleluia. In the exodus of Israel from Egypt, The house of Jacob from a foreign people,
+PSA.113:2 Judah became His sanctuary, And Israel His authority.
+PSA.113:3 The sea saw them and fled, The Jordan turned back;
+PSA.113:4 The mountains skipped like rams, The hills like flocks of lambs.
+PSA.113:5 What is it to you, O sea, that you fled, And to you, O Jordan, that you turned back?
+PSA.113:6 What is it to you, O mountains, that you skipped like rams, And you, O hills, like flocks of lambs?
+PSA.113:7 The earth shook because of the Lord's face, Because of the face of Jacob's God,
+PSA.113:8 When He turned the rock into pools of waters And flinty ground into fountains of waters.
+PSA.113:9 Not to us, O Lord, not to us, But to Your name give glory, For Your mercy and Your truth,
+PSA.113:10 Lest the nations say, "Where is their God?"
+PSA.113:11 Our God is in heaven above; And both in heaven and on earth, All things whatsoever He wills, He does.
+PSA.113:12 The idols of the nations are silver and gold, The work of men's hands;
+PSA.113:13 They have a mouth, but they shall not speak; They have eyes, but they shall not see;
+PSA.113:14 They have ears, but they shall not hear; They have noses, but they shall not smell;
+PSA.113:15 They have hands, but they shall not feel; They have feet, but they shall not walk; They shall make no sound with their throats.
+PSA.113:16 May those who make them become like them, And all who trust in them.
+PSA.113:17 The house of Israel hoped in the Lord; He is their help and their protector.
+PSA.113:18 The house of Aaron hoped in the Lord; He is their help and their protector.
+PSA.113:19 Those who feared the Lord hoped in the Lord; He is their help and their protector.
+PSA.113:20 The Lord remembered us and blessed us; He blessed the house of Israel; He blessed the house of Aaron;
+PSA.113:21 He blessed those who feared the Lord, The least with the greatest.
+PSA.113:22 May the Lord increase you, Both you and your children;
+PSA.113:23 You are blessed by the Lord, Who made heaven and earth.
+PSA.113:24 The heaven of heaven belongs to the Lord, But He gave the earth to the sons of men.
+PSA.113:25 The dead shall not praise You, O Lord, Neither do all who descend into Hades;
+PSA.113:26 But we who live shall bless the Lord, From this present time and unto the ages.
 
-PSA.118:1 Alleluia. Blessed are the blam eless in the way Who walk in the law of the Lord. PSA.118:2 Blessed are those who search out His testim onies; They shall search for Him with their whole heart. PSA.118:3 For those who work lawlessness Do not walk in His way s. PSA.118:4 You commanded us regarding Your com m andm ents, That we should be very diligent to keep them. PSA.118:5 Would that my way s were led, That I m ight keep Your ordinances. PSA.118:6 Then I would not be ashamed When I regard all Your com m andm ents. PSA.118:7 I will give thanks to You, O Lord, with an upright heart, When I learn the judgments of Your righteousness. PSA.118:8 I shall keep Your ordinances; Do not utterly forsake me. PSA.118:9 How shall a y oung man keep his way straight? When he keeps Your words. PSA.118:10 I searched for You with my whole heart; Do not drive me away from Your com m andm ents. PSA.118:11 I hid Your teachings in my heart So as not to sin against You. PSA.118:12 Blessed are You, O Lord; Teach me Your ordinances. PSA.118:13 With my lips I declared All the judgments of Your mouth. PSA.118:14 I delight in the way of Your testim onies As m uch as in all riches. PSA.118:15 I shall meditate on Your com m andm ents, And I shall understand Your way s. PSA.118:16 I shall meditate on Your ordinances; I shall not forget Your words. PSA.118:17 Reward Your servant; I shall live, and keep Your words. PSA.118:18 Unv eil my eyes, And I shall understand the wonders in Your law. PSA.118:19 I am a sojourner on the earth; Do not hide Your com m andm ents from me. PSA.118:20 My soul longed to desire Your judgments in every season. PSA.118:21 You rebuke the arrogant; Those who turn aside from Your com m andm ents are accursed. PSA.118:22 Take away reproach and contem pt from me, For I searched Your testim onies. PSA.118:23 For rulers sat and spoke against me, But Your servant m editated on Your ordinances. PSA.118:24 For Your testim onies are my m editation, And Your ordinances are my counsels. PSA.118:25 My soul cleaves to the earth; Give me life according to Your word. PSA.118:26 I made known my way s and You heard me; Teach me Your ordinances. PSA.118:27 Cause me to understand the way of Your ordinances, And I shall meditate on Your wonders. PSA.118:28 My soul fainted because of its listlessness; Establish me in Your words. PSA.118:29 Rem ov e the way of unrighteousness from me, And with Your law have mercy on me. PSA.118:30 I chose the way of truth; I have not forgotten Your judgments. PSA.118:31 I cleave to Your testim onies; O Lord, do not disappoint me. PSA.118:32 I ran on the path of Your com m andm ents, When You enlarged my heart. PSA.118:33 Give me as law, O Lord, the way of Your ordinances, And I shall alway s search them. PSA.118:34 Cause me to understand, and I shall search out Your law; And I shall keep it with my whole heart. PSA.118:35 Guide me in the path of Your com m andm ents, For I desire it. PSA.118:36 Incline my heart to Your testim onies And not to greediness. PSA.118:37 Turn away my eyes that I may not see vanity; Give me life in Your way. PSA.118:38 Establish Your teaching in Your servant In regard to Your fear. PSA.118:39 Take away my blam e, which I have suspected, For Your judgments are good. PSA.118:40 Behold, I long for Your com m andm ents; Give me life in Your righteousness. PSA.118:41 And may Your mercy come upon me, O Lord, Your salvation according to Your teaching. PSA.118:42 And I shall answer those who insult me with a word, For I hope in Your words. PSA.118:43 Do not take away the word of truth com pletely from my mouth, For I hope in Your judgments. PSA.118:44 So I shall keep Your law alway s, Forever and unto ages of ages. PSA.118:45 And I walk in a broad space, For I searched Your com m andm ents. PSA.118:46 I spoke of Your testim onies Before kings, and I was not ashamed. PSA.118:47 And I meditate on Your com m andm ents, Which I love exceedingly. PSA.118:48 And I raise my hands to Your com m andm ents, which I love, And I meditate on Your ordinances. PSA.118:49 Rem em ber Your word to Your servant, In which You give me hope. PSA.118:50 This com forted me in my hum iliation, For Your teaching gives me life. PSA.118:51 The arrogant transgressed exceedingly, But I did not turn away from Your law. PSA.118:52 I rem em bered Your judgments of old, O Lord, And I was com forted. PSA.118:53 Despondency held me because of sinners Who abandon Your law. PSA.118:54 Your ordinances were sung to me In the place of my sojourning. PSA.118:55 I rem em bered Your name in the night, O Lord, And I kept Your law. PSA.118:56 This happened to me in the night, Because I searched Your ordinances. PSA.118:57 You are my portion, O Lord; I said I will keep Your law. PSA.118:58 I sought Your presence with my whole heart; Have mercy on me according to Your teaching. PSA.118:59 I considered Your way s, And I turned my feet toward Your testim onies. PSA.118:60 I prepared my self, and I was not troubled, That I m ight keep Your com m andm ents. PSA.118:61 The ropes of sinners ensnared me, But I did not forget Your law. PSA.118:62 At m idnight I arose to give thanks to You Because of the judgments of Your righteousness. PSA.118:63 I am a com panion of all who fear You And keep Your com m andm ents. PSA.118:64 O Lord, the earth is full of Your mercy; Teach me Your ordinances. PSA.118:65 O Lord, You dealt with Your servant in goodness, According to Your word. PSA.118:66 Teach me goodness, instruction, and knowledge, For I believe Your com m andm ents. PSA.118:67 Before I was hum bled, I transgressed; Therefore, I kept Your teaching. PSA.118:68 You are good, O Lord, and in Your goodness Teach me Your ordinances. PSA.118:69 The unrighteousness of the arrogant multiplied against me, But I will search out Your com m andm ents with my whole heart. PSA.118:70 Their heart was curdled like m ilk, But I m editated on Your law. PSA.118:71 It is good for me that You hum bled me, That I m ight learn Your ordinances. PSA.118:72 The law of Your mouth is good for me, Rather than thousands of pieces of gold and silver. PSA.118:73 Your hands made and fashioned me; Instruct me, and I will learn Your com m andm ents. PSA.118:74 Those who fear You will see me and be glad, Because I hope in Your words. PSA.118:75 I know, O Lord, Your judgments are righteousness, And You hum bled me with truth. PSA.118:76 Let Your mercy be for my com fort, According to Your teaching to Your servant. PSA.118:77 Let Your com passions come to me, and I shall live; For Your law is my m editation. PSA.118:78 Let the arrogant be sham ed, for they transgressed unjustly against me; But I shall meditate on Your com m andm ents. PSA.118:79 Let those who fear You turn to me, And those who know Your testim onies. PSA.118:80 Let my heart be blam eless in Your ordinances, That I may not be disappointed. PSA.118:81 My soul earnestly longs for Your salvation, And I hope in Your word. PSA.118:82 My eyes strained to look at Your teaching, Say ing, "When will You com fort me?"
-PSA.118:83 I am like a leather bag in a frost; I did not forget Your ordinances. PSA.118:84 How many are the day s of Your servant? When will You execute judgment for me upon those who persecute me? PSA.118:85 Transgressors described their m editations to me, But these are not like Your law, O Lord. PSA.118:86 All Your com m andm ents are truth; They persecuted me unjustly; help me. PSA.118:87 They alm ost ended my life on earth, But I did not forsake Your com m andm ents. PSA.118:88 Give me life according to Your mercy, And I shall keep the testim onies of Your mouth. PSA.118:89 Forever, O Lord, Your word continues in heaven. PSA.118:90 Your truth continues from generation to generation; You laid the foundation of the earth, and it continues. PSA.118:91 By Your arrangem ent each day continues, For all things are Your servants. PSA.118:92 If Your law were not my m editation, I would have perished in my hum iliation. PSA.118:93 I will never forget Your ordinances, For in them You give me life, O Lord. PSA.118:94 I am Yours; save me, For I search Your ordinances. PSA.118:95 Sinners waited for me to kill me; I understood Your testim onies. PSA.118:96 I saw the lim it of every accom plishm ent; Your com m andm ent is exceedingly broad. PSA.118:97 How I love Your law, O Lord; It is my m editation the whole day long. PSA.118:98 You make me wiser than my enemies with Your com m andm ent, For it is m ine forever. PSA.118:99 I understand more than all my teachers, For Your testim onies are my m editation. PSA.118:100 I understand more than the elders, For I search Your com m andm ents. PSA.118:101 I withheld my feet from every evil way, That I m ight keep Your words. PSA.118:102 I did not turn away from Your judgments, For You taught me Your law. PSA.118:103 How sweet to my taste are Your teachings, More than honey and the honey com b in my mouth. PSA.118:104 I gained understanding because of Your com m andm ents; Therefore, I hate every unrighteous way. PSA.118:105 Your word is a lam p to my feet And a light to my paths. PSA.118:106 I swore and confirm ed That I would keep the judgments of Your righteousness. PSA.118:107 I was hum bled exceedingly; O Lord, give me life according to Your word. PSA.118:108 Be well-pleased with the freewill offerings of my mouth, O Lord, And teach me Your judgments. PSA.118:109 My soul is alway s in Your hands, And I have not forgotten Your law. PSA.118:110 Sinners set snares for me, But I did not wander from Your com m andm ents. PSA.118:111 I inherited Your testim onies forever, For these are the exceeding joy of my heart. PSA.118:112 I inclined my heart to do Your ordinances Forever for a reward. PSA.118:113 Transgressors I hate, But I love Your law. PSA.118:114 You are my helper and my protector; I hope in Your word. PSA.118:115 Turn away from me, you ev ildoers, And I shall search out the com m andm ents of my God. PSA.118:116 Uphold me according to Your teaching, and give me life; And may You not disappoint my expectation. PSA.118:117 Help me, and I shall be saved; And I shall meditate alway s in Your ordinances. PSA.118:118 You set at naught all who departed from Your ordinances, For their thought is unrighteous. PSA.118:119 I counted as transgressors all the sinners of the earth; For this reason I alway s love Your testim onies. PSA.118:120 Nail my flesh with the fear of You, For I fear You because of Your judgments. PSA.118:121 I work judgment and righteousness; Do not deliver me to those who wrong me. PSA.118:122 Take Your servant to that which is good; Do not let the arrogant falsely accuse me. PSA.118:123 My eyes strained to look at Your salvation And at the teaching of Your righteousness. PSA.118:124 Deal with Your servant according to Your mercy And teach me Your ordinances. PSA.118:125 I am Your servant; cause me to understand, And I shall know Your testim onies. PSA.118:126 It is tim e for the Lord to act; They broke Your law. PSA.118:127 For this reason I love Your com m andm ents More than gold and topaz. PSA.118:128 Therefore I directed my self to all Your com m andm ents; I hated every unrighteous way. PSA.118:129 Wondrous are Your testim onies; For this reason my soul searches them out. PSA.118:130 The revelation of Your words gives light, And it causes children to understand. PSA.118:131 I opened my mouth and drew in my breath, For I longed for Your com m andm ents. PSA.118:132 Look upon me and have mercy on me, According to the judgment of those who love Your name. PSA.118:133 Direct my steps according to Your teaching And let no lawlessness rule over me. PSA.118:134 Ransom me from the slander of men, And I will keep Your com m andm ents. PSA.118:135 Make Your face shine upon Your servant And teach me Your ordinances. PSA.118:136 My eyes poured down streams of tears Because they did not keep Your law. PSA.118:137 Righteous are You, O Lord, And upright is Your judgment. PSA.118:138 You commanded Your testim onies exceedingly In righteousness and truth. PSA.118:139 The zeal of Your house caused me to y earn for hom e, For my enemies forgot Your words. PSA.118:140 Your teaching is exceedingly purified in fire, And Your servant loves it. PSA.118:141 I am y oung, and beheld as nothing, But I have not forgotten Your ordinances. PSA.118:142 Your righteousness is righteousness forever, And Your law is truth. PSA.118:143 Affliction and trouble found me, But Your com m andm ents are my m editation. PSA.118:144 Your testim onies are righteousness forever; Give me understanding, and I shall live. PSA.118:145 I cry out with my whole heart; hear me, O Lord; I shall search Your ordinances. PSA.118:146 I cry out to You; save me, And I shall keep Your testim onies. PSA.118:147 I arose at m idnight and cried out; I hoped in Your words. PSA.118:148 My eyes awoke before dawn That I m ight meditate on Your teachings. PSA.118:149 Hear my voice, O Lord, according to Your mercy; Give me life according to Your judgment. PSA.118:150 Those who persecute me in lawlessness drew near; They are far rem ov ed from Your law. PSA.118:151 You are near, O Lord; All Your com m andm ents are truth. PSA.118:152 From the beginning I knew Your testim onies, That You established them forever. PSA.118:153 Behold my hum iliation and deliver me, For I have not forgotten Your law. PSA.118:154 Plead my cause and redeem me; Give me life because of Your word. PSA.118:155 Salvation is far from sinners, For they have not searched Your ordinances. PSA.118:156 Your com passions are many, O Lord; Give me life according to Your judgment. PSA.118:157 Many are those who pursue and afflict me, But I did not turn away from Your testim onies. PSA.118:158 I saw those acting foolishly, and I y earned for You; For they did not keep Your teachings. PSA.118:159 Behold, I love Your com m andm ents; O Lord, in Your mercy, give me life. PSA.118:160 The beginning of Your words is truth, And all the judgments of Your righteousness are forever. PSA.118:161 Rulers persecuted me without cause, But my heart feared because of Your words. PSA.118:162 I shall greatly rejoice in Your teachings, Like one finding great spoil. PSA.118:163 I hate and abhor unrighteousness, But I love Your law. PSA.118:164 I praise You seven tim es a day For the judgments of Your righteousness. PSA.118:165 Great peace have all who love Your law, And it is not an offense to them. PSA.118:166 I long for Your salvation, O Lord, And I love Your com m andm ents. PSA.118:167 My soul keeps Your testim onies, And I love them exceedingly. PSA.118:168 I keep Your com m andm ents and Your testim onies, For all my way s are before You, O Lord. PSA.118:169 Let my supplication draw near before You, O Lord; Give me understanding according to Your teaching. PSA.118:170 May my petition come before You; Deliver me according to Your teaching. PSA.118:171 My lips shall ov erflow in song When You teach me Your ordinances. PSA.118:172 My tongue shall speak of Your teaching, For all Your com m andm ents are righteousness. PSA.118:173 Let Your hand be for saving me, For I chose Your com m andm ents. PSA.118:174 I long for Your salvation, O Lord, And Your law is my m editation. PSA.118:175 My soul shall live and praise You, And Your judgments shall help me. PSA.118:176 I went astray like a lost sheep; Seek Your servant, for I have not forgotten Your com m andm ents. ## Chapter 119
+## Chapter 114
 
-PSA.119:1 An ode of ascents. To the Lord in my affliction I cried out, and He heard me. PSA.119:2 O Lord, deliver my soul from unjust lips And from a deceitful tongue. PSA.119:3 What should be given You, and what added to You, Against a deceitful tongue? PSA.119:4 The arrows of the Mighty One are sharpened With hot coals from the desert. PSA.119:5 Woe is me! My sojourning was prolonged; I dwelt with the tents of Kedar. PSA.119:6 My soul sojourned a long tim e as a resident alien. PSA.119:7 With those who hate peace, I was peaceful; When I spoke to them, they made war against me without cause. ## Chapter 120
+PSA.114:1 (116:1-9) 1Alleluia. I have loved, because the Lord Shall hear the voice of my supplication;
+PSA.114:2 For He inclined His ear to me, And in my days I shall call upon Him.
+PSA.114:3 The pains of death surrounded me; The dangers of Hades found me; I found affliction and grief.
+PSA.114:4 Then I called upon the Lord's name, "O Lord, save my soul."
+PSA.114:5 The Lord is merciful and righteous, And our God has mercy.
+PSA.114:6 The Lord is He who watches over children; I was humbled, and He saved me.
+PSA.114:7 Return, O my soul, to your rest, Because the Lord showed you kindness;
+PSA.114:8 For He delivered my soul from death, My eyes from tears, And my feet from slipping.
+PSA.114:9 I shall be well pleasing before the Lord in the land of the living.
 
-PSA.120:1 An ode of ascents. I lifted my eyes to the m ountains; From where shall my help come? PSA.120:2 My help com es from the Lord, Who made heaven and earth. PSA.120:3 Let not your foot be m ov ed; Neither let Him who keeps you slum ber. PSA.120:4 Behold, He who keeps Israel Shall neither slum ber nor sleep. PSA.120:5 The Lord shall keep you; The Lord is your shelter at your right hand. PSA.120:6 The sun shall not burn you by day Nor the moon by night. PSA.120:7 The Lord shall keep you from all evil; The Lord shall keep your soul. PSA.120:8 The Lord shall keep your com ing in and your going out From this present tim e and unto the ages. ## Chapter 121
+## Chapter 115
+
+PSA.115:1 (116:10-19) 1Alleluia. I believed; therefore, I spoke; I was greatly humbled.
+PSA.115:2 I said in my ecstasy, "Every man is a liar."
+PSA.115:3 What shall I give back to the Lord For all He rendered to me?
+PSA.115:4 I will take up the cup of salvation, And call upon the name of the Lord.
+PSA.115:5 Precious in the sight of the Lord Is the death of His holy ones.
+PSA.115:6 O Lord, I am Your servant; I am Your servant and the son of Your handmaid. You broke apart my bonds;
+PSA.115:7 I will offer a sacrifice of praise;
+PSA.115:8 And I will call upon the name of the Lord.
+PSA.115:9 I shall pay my vows to the Lord In the presence of all His people,
+PSA.115:10 In the courts of the Lord's house, In your midst, O Jerusalem.
+
+## Chapter 116
+
+PSA.116:1 Alleluia. Praise the Lord, all you Gentiles; Praise Him, all you peoples,
+PSA.116:2 For His mercy rules over us; And the truth of the Lord endures forever.
+
+## Chapter 117
+
+PSA.117:1 Alleluia. Give thanks to the Lord, for He is good; For His mercy endures forever.
+PSA.117:2 Let the house of Israel say that He is good, For His mercy endures forever.
+PSA.117:3 Let the house of Aaron say that He is good, For His mercy endures forever.
+PSA.117:4 Let all who fear the Lord say that He is good, For His mercy endures forever.
+PSA.117:5 In affliction I called upon the Lord, And He heard me in a broad place.
+PSA.117:6 The Lord is my helper; I shall not be afraid of what man will do to me.
+PSA.117:7 The Lord is my helper; I shall look upon my enemies.
+PSA.117:8 It is good to trust in the Lord Rather than to trust in man;
+PSA.117:9 It is good to hope in the Lord Rather than to hope in rulers.
+PSA.117:10 All the nations surrounded me, But in the name of the Lord I defended my self against them;
+PSA.117:11 They circled and surrounded me, But in the name of the Lord I defended my self against them;
+PSA.117:12 They surrounded me like bees around a honeycomb, And they were inflamed like fire in a thorn bush; But in the name of the Lord I defended my self against them.
+PSA.117:13 I was shoved and disheartened, that I might fall, But the Lord took hold of me.
+PSA.117:14 The Lord is my strength and my song, And He became my salvation.
+PSA.117:15 The sound of exceeding joy and salvation is in the tents of the righteous; The right hand of the Lord worked its power;
+PSA.117:16 The right hand of the Lord exalted me; The right hand of the Lord worked its power.
+PSA.117:17 I shall not die, but live, And tell of the Lord's works.
+PSA.117:18 The Lord chastened and corrected me, But He did not give me up to death.
+PSA.117:19 Open the gates of righteousness to me; I will enter therein and give thanks to the Lord.
+PSA.117:20 This is the gate of the Lord; The righteous shall go in through it.
+PSA.117:21 I will give thanks to You, for You heard me, And You became my salvation.
+PSA.117:22 The stone the builders rejected, the same became the head of the corner;
+PSA.117:23 And this came about from the Lord, And it is wonderful in our eyes.
+PSA.117:24 This is the day the Lord made; Let us greatlyrejoice, and be glad therein.
+PSA.117:25 O Lord, save us now; O Lord, prosper us now.
+PSA.117:26 Blessed is he who comes in the name of the Lord; We blessed you from the house of the Lord.
+PSA.117:27 God is the Lord, and He revealed Himself to us; Appoint a feast for yourselves, decked with branches, Even to the horns of the altar.
+PSA.117:28 You are my God, and I will give thanks to You; You are my God, and I shall exalt You; I will give thanks to You, for You heard me; And You became my salvation.
+PSA.117:29 Give thanks to the Lord, for He is good; For His mercy endures forever.
+
+## Chapter 118
+
+PSA.118:1 Alleluia. Blessed are the blameless in the way Who walk in the law of the Lord.
+PSA.118:2 Blessed are those who search out His testimonies; They shall search for Him with their whole heart.
+PSA.118:3 For those who work lawlessness Do not walk in His ways.
+PSA.118:4 You commanded us regarding Your commandments, That we should be very diligent to keep them.
+PSA.118:5 Would that my ways were led, That I might keep Your ordinances.
+PSA.118:6 Then I would not be ashamed When I regard all Your commandments.
+PSA.118:7 I will give thanks to You, O Lord, with an upright heart, When I learn the judgments of Your righteousness.
+PSA.118:8 I shall keep Your ordinances; Do not utterly forsake me.
+PSA.118:9 How shall a young man keep his waystraight? When he keeps Your words.
+PSA.118:10 I searched for You with my whole heart; Do not drive me away from Your commandments.
+PSA.118:11 I hid Your teachings in my heart So as not to sin against You.
+PSA.118:12 Blessed are You, O Lord; Teach me Your ordinances.
+PSA.118:13 With my lips I declared All the judgments of Your mouth.
+PSA.118:14 I delight in the way of Your testimonies As much as in all riches.
+PSA.118:15 I shall meditate on Your commandments, And I shall understand Your ways.
+PSA.118:16 I shall meditate on Your ordinances; I shall not forget Your words.
+PSA.118:17 Reward Your servant; I shall live, and keep Your words.
+PSA.118:18 Unveil my eyes, And I shall understand the wonders in Your law.
+PSA.118:19 I am a sojourner on the earth; Do not hide Your commandments from me.
+PSA.118:20 My soul longed to desire Your judgments in every season.
+PSA.118:21 You rebuke the arrogant; Those who turn aside from Your commandments are accursed.
+PSA.118:22 Take away reproach and contempt from me, For I searched Your testimonies.
+PSA.118:23 For rulers sat and spoke against me, But Your servant meditated on Your ordinances.
+PSA.118:24 For Your testimonies are my meditation, And Your ordinances are my counsels.
+PSA.118:25 My soul cleaves to the earth; Give me life according to Your word.
+PSA.118:26 I made known my ways and You heard me; Teach me Your ordinances.
+PSA.118:27 Cause me to understand the way of Your ordinances, And I shall meditate on Your wonders.
+PSA.118:28 My soul fainted because of its listlessness; Establish me in Your words.
+PSA.118:29 Remov e the way of unrighteousness from me, And with Your law have mercy on me.
+PSA.118:30 I chose the way of truth; I have not forgotten Your judgments.
+PSA.118:31 I cleave to Your testimonies; O Lord, do not disappoint me.
+PSA.118:32 I ran on the path of Your commandments, When You enlarged my heart.
+PSA.118:33 Give me as law, O Lord, the way of Your ordinances, And I shall always search them.
+PSA.118:34 Cause me to understand, and I shall search out Your law; And I shall keep it with my whole heart.
+PSA.118:35 Guide me in the path of Your commandments, For I desire it.
+PSA.118:36 Incline my heart to Your testimonies And not to greediness.
+PSA.118:37 Turn away my eyes that I may not see vanity; Give me life in Your way.
+PSA.118:38 Establish Your teaching in Your servant In regard to Your fear.
+PSA.118:39 Take away my blame, which I have suspected, For Your judgments are good.
+PSA.118:40 Behold, I long for Your commandments; Give me life in Your righteousness.
+PSA.118:41 And may Your mercy come upon me, O Lord, Your salvation according to Your teaching.
+PSA.118:42 And I shall answer those who insult me with a word, For I hope in Your words.
+PSA.118:43 Do not take away the word of truth completely from my mouth, For I hope in Your judgments.
+PSA.118:44 So I shall keep Your law always, Forever and unto ages of ages.
+PSA.118:45 And I walk in a broad space, For I searched Your commandments.
+PSA.118:46 I spoke of Your testimonies Before kings, and I was not ashamed.
+PSA.118:47 And I meditate on Your commandments, Which I love exceedingly.
+PSA.118:48 And I raise my hands to Your commandments, which I love, And I meditate on Your ordinances.
+PSA.118:49 Remember Your word to Your servant, In which You give me hope.
+PSA.118:50 This comforted me in my humiliation, For Your teaching gives me life.
+PSA.118:51 The arrogant transgressed exceedingly, But I did not turn away from Your law.
+PSA.118:52 I remembered Your judgments of old, O Lord, And I was comforted.
+PSA.118:53 Despondency held me because of sinners Who abandon Your law.
+PSA.118:54 Your ordinances were sung to me In the place of my sojourning.
+PSA.118:55 I remembered Your name in the night, O Lord, And I kept Your law.
+PSA.118:56 This happened to me in the night, Because I searched Your ordinances.
+PSA.118:57 You are my portion, O Lord; I said I will keep Your law.
+PSA.118:58 I sought Your presence with my whole heart; Have mercy on me according to Your teaching.
+PSA.118:59 I considered Your ways, And I turned my feet toward Your testimonies.
+PSA.118:60 I prepared my self, and I was not troubled, That I might keep Your commandments.
+PSA.118:61 The ropes of sinners ensnared me, But I did not forget Your law.
+PSA.118:62 At midnight I arose to give thanks to You Because of the judgments of Your righteousness.
+PSA.118:63 I am a companion of all who fear You And keep Your commandments.
+PSA.118:64 O Lord, the earth is full of Your mercy; Teach me Your ordinances.
+PSA.118:65 O Lord, You dealt with Your servant in goodness, According to Your word.
+PSA.118:66 Teach me goodness, instruction, and knowledge, For I believe Your commandments.
+PSA.118:67 Before I was humbled, I transgressed; Therefore, I kept Your teaching.
+PSA.118:68 You are good, O Lord, and in Your goodness Teach me Your ordinances.
+PSA.118:69 The unrighteousness of the arrogant multiplied against me, But I will search out Your commandments with my whole heart.
+PSA.118:70 Their heart was curdled like milk, But I meditated on Your law.
+PSA.118:71 It is good for me that You humbled me, That I might learn Your ordinances.
+PSA.118:72 The law of Your mouth is good for me, Rather than thousands of pieces of gold and silver.
+PSA.118:73 Your hands made and fashioned me; Instruct me, and I will learn Your commandments.
+PSA.118:74 Those who fear You will see me and be glad, Because I hope in Your words.
+PSA.118:75 I know, O Lord, Your judgments are righteousness, And You humbled me with truth.
+PSA.118:76 Let Your mercy be for my comfort, According to Your teaching to Your servant.
+PSA.118:77 Let Your compassions come to me, and I shall live; For Your law is my meditation.
+PSA.118:78 Let the arrogant be shamed, for they transgressed unjustly against me; But I shall meditate on Your commandments.
+PSA.118:79 Let those who fear You turn to me, And those who know Your testimonies.
+PSA.118:80 Let my heart be blameless in Your ordinances, That I may not be disappointed.
+PSA.118:81 My soul earnestly longs for Your salvation, And I hope in Your word.
+PSA.118:82 My eyes strained to look at Your teaching, Saying, "When will You comfort me?"
+PSA.118:83 I am like a leather bag in a frost; I did not forget Your ordinances.
+PSA.118:84 How many are the days of Your servant? When will You execute judgment for me upon those who persecute me?
+PSA.118:85 Transgressors described their meditations to me, But these are not like Your law, O Lord.
+PSA.118:86 All Your commandments are truth; They persecuted me unjustly; help me.
+PSA.118:87 They almost ended my life on earth, But I did not forsake Your commandments.
+PSA.118:88 Give me life according to Your mercy, And I shall keep the testimonies of Your mouth.
+PSA.118:89 Forever, O Lord, Your word continues in heaven.
+PSA.118:90 Your truth continues from generation to generation; You laid the foundation of the earth, and it continues.
+PSA.118:91 By Your arrangement each day continues, For all things are Your servants.
+PSA.118:92 If Your law were not my meditation, I would have perished in my humiliation.
+PSA.118:93 I will never forget Your ordinances, For in them You give me life, O Lord.
+PSA.118:94 I am Yours; save me, For I search Your ordinances.
+PSA.118:95 Sinners waited for me to kill me; I understood Your testimonies.
+PSA.118:96 I saw the limit of every accomplishment; Your commandment is exceedingly broad.
+PSA.118:97 How I love Your law, O Lord; It is my meditation the whole day long.
+PSA.118:98 You make me wiser than my enemies with Your commandment, For it is mine forever.
+PSA.118:99 I understand more than all my teachers, For Your testimonies are my meditation.
+PSA.118:100 I understand more than the elders, For I search Your commandments.
+PSA.118:101 I withheld my feet from every evil way, That I might keep Your words.
+PSA.118:102 I did not turn away from Your judgments, For You taught me Your law.
+PSA.118:103 How sweet to my taste are Your teachings, More than honey and the honeycomb in my mouth.
+PSA.118:104 I gained understanding because of Your commandments; Therefore, I hate every unrighteous way.
+PSA.118:105 Your word is a lamp to my feet And a light to my paths.
+PSA.118:106 I swore and confirmed That I would keep the judgments of Your righteousness.
+PSA.118:107 I was humbled exceedingly; O Lord, give me life according to Your word.
+PSA.118:108 Be well-pleased with the freewill offerings of my mouth, O Lord, And teach me Your judgments.
+PSA.118:109 My soul is always in Your hands, And I have not forgotten Your law.
+PSA.118:110 Sinners set snares for me, But I did not wander from Your commandments.
+PSA.118:111 I inherited Your testimonies forever, For these are the exceeding joy of my heart.
+PSA.118:112 I inclined my heart to do Your ordinances Forever for a reward.
+PSA.118:113 Transgressors I hate, But I love Your law.
+PSA.118:114 You are my helper and my protector; I hope in Your word.
+PSA.118:115 Turn away from me, you evildoers, And I shall search out the commandments of my God.
+PSA.118:116 Uphold me according to Your teaching, and give me life; And may You not disappoint my expectation.
+PSA.118:117 Help me, and I shall be saved; And I shall meditate always in Your ordinances.
+PSA.118:118 You set at naught all who departed from Your ordinances, For their thought is unrighteous.
+PSA.118:119 I counted as transgressors all the sinners of the earth; For this reason I always love Your testimonies.
+PSA.118:120 Nail my flesh with the fear of You, For I fear You because of Your judgments.
+PSA.118:121 I work judgment and righteousness; Do not deliver me to those who wrong me.
+PSA.118:122 Take Your servant to that which is good; Do not let the arrogant falsely accuse me.
+PSA.118:123 My eyes strained to look at Your salvation And at the teaching of Your righteousness.
+PSA.118:124 Deal with Your servant according to Your mercy And teach me Your ordinances.
+PSA.118:125 I am Your servant; cause me to understand, And I shall know Your testimonies.
+PSA.118:126 It is time for the Lord to act; They broke Your law.
+PSA.118:127 For this reason I love Your commandments More than gold and topaz.
+PSA.118:128 Therefore I directed my self to all Your commandments; I hated every unrighteous way.
+PSA.118:129 Wondrous are Your testimonies; For this reason my soul searches them out.
+PSA.118:130 The revelation of Your words gives light, And it causes children to understand.
+PSA.118:131 I opened my mouth and drew in my breath, For I longed for Your commandments.
+PSA.118:132 Look upon me and have mercy on me, According to the judgment of those who love Your name.
+PSA.118:133 Direct my steps according to Your teaching And let no lawlessness rule over me.
+PSA.118:134 Ransom me from the slander of men, And I will keep Your commandments.
+PSA.118:135 Make Your face shine upon Your servant And teach me Your ordinances.
+PSA.118:136 My eyes poured down streams of tears Because they did not keep Your law.
+PSA.118:137 Righteous are You, O Lord, And upright is Your judgment.
+PSA.118:138 You commanded Your testimonies exceedingly In righteousness and truth.
+PSA.118:139 The zeal of Your house caused me to yearn for home, For my enemies forgot Your words.
+PSA.118:140 Your teaching is exceedingly purified in fire, And Your servant loves it.
+PSA.118:141 I am young, and beheld as nothing, But I have not forgotten Your ordinances.
+PSA.118:142 Your righteousness is righteousness forever, And Your law is truth.
+PSA.118:143 Affliction and trouble found me, But Your commandments are my meditation.
+PSA.118:144 Your testimonies are righteousness forever; Give me understanding, and I shall live.
+PSA.118:145 I cry out with my whole heart; hear me, O Lord; I shall search Your ordinances.
+PSA.118:146 I cry out to You; save me, And I shall keep Your testimonies.
+PSA.118:147 I arose at midnight and cried out; I hoped in Your words.
+PSA.118:148 My eyes awoke before dawn That I might meditate on Your teachings.
+PSA.118:149 Hear my voice, O Lord, according to Your mercy; Give me life according to Your judgment.
+PSA.118:150 Those who persecute me in lawlessness drew near; They are far removed from Your law.
+PSA.118:151 You are near, O Lord; All Your commandments are truth.
+PSA.118:152 From the beginning I knew Your testimonies, That You established them forever.
+PSA.118:153 Behold my humiliation and deliver me, For I have not forgotten Your law.
+PSA.118:154 Plead my cause and redeem me; Give me life because of Your word.
+PSA.118:155 Salvation is far from sinners, For they have not searched Your ordinances.
+PSA.118:156 Your compassions are many, O Lord; Give me life according to Your judgment.
+PSA.118:157 Many are those who pursue and afflict me, But I did not turn away from Your testimonies.
+PSA.118:158 I saw those acting foolishly, and I yearned for You; For they did not keep Your teachings.
+PSA.118:159 Behold, I love Your commandments; O Lord, in Your mercy, give me life.
+PSA.118:160 The beginning of Your words is truth, And all the judgments of Your righteousness are forever.
+PSA.118:161 Rulers persecuted me without cause, But my heart feared because of Your words.
+PSA.118:162 I shall greatlyrejoice in Your teachings, Like one finding great spoil.
+PSA.118:163 I hate and abhor unrighteousness, But I love Your law.
+PSA.118:164 I praise You seven times a day For the judgments of Your righteousness.
+PSA.118:165 Great peace have all who love Your law, And it is not an offense to them.
+PSA.118:166 I long for Your salvation, O Lord, And I love Your commandments.
+PSA.118:167 My soul keeps Your testimonies, And I love them exceedingly.
+PSA.118:168 I keep Your commandments and Your testimonies, For all my ways are before You, O Lord.
+PSA.118:169 Let my supplication draw near before You, O Lord; Give me understanding according to Your teaching.
+PSA.118:170 May my petition come before You; Deliver me according to Your teaching.
+PSA.118:171 My lips shall overflow in song When You teach me Your ordinances.
+PSA.118:172 My tongue shall speak of Your teaching, For all Your commandments are righteousness.
+PSA.118:173 Let Your hand be for saving me, For I chose Your commandments.
+PSA.118:174 I long for Your salvation, O Lord, And Your law is my meditation.
+PSA.118:175 My soul shall live and praise You, And Your judgments shall help me.
+PSA.118:176 I went astray like a lost sheep; Seek Your servant, for I have not forgotten Your commandments.
+
+## Chapter 119
+
+PSA.119:1 An ode of ascents. To the Lord in my affliction I cried out, and He heard me.
+PSA.119:2 O Lord, deliver my soul from unjust lips And from a deceitful tongue.
+PSA.119:3 What should be given You, and what added to You, Against a deceitful tongue?
+PSA.119:4 The arrows of the Mighty One are sharpened With hot coals from the desert.
+PSA.119:5 Woe is me! My sojourning was prolonged; I dwelt with the tents of Kedar.
+PSA.119:6 My soul sojourned a long time as a resident alien.
+PSA.119:7 With those who hate peace, I was peaceful; When I spoke to them, they made war against me without cause.
+
+## Chapter 120
+
+PSA.120:1 An ode of ascents. I lifted my eyes to the mountains; From where shall my help come?
+PSA.120:2 My help comes from the Lord, Who made heaven and earth.
+PSA.120:3 Let not your foot be moved; Neither let Him who keeps you slumber.
+PSA.120:4 Behold, He who keeps Israel Shall neither slumber nor sleep.
+PSA.120:5 The Lord shall keep you; The Lord is your shelter at your right hand.
+PSA.120:6 The sun shall not burn you by day Nor the moon by night.
+PSA.120:7 The Lord shall keep you from all evil; The Lord shall keep your soul.
+PSA.120:8 The Lord shall keep your coming in and your going out From this present time and unto the ages.
+
+## Chapter 121
 
 PSA.121:1 An ode of ascents. I was glad when they said to me, "Let us go into the house of the Lord."
-PSA.121:2 Our feet stand in your courts, O Jerusalem. PSA.121:3 Jerusalem is built as a city Whose com pactness is com plete. PSA.121:4 There the tribes went up, The tribes of the Lord, a testim ony to Israel, To give thanks to the name of the Lord. PSA.121:5 For thrones sat there for judgment, Thrones over the house of Dav id. PSA.121:6 Ask now for things regarding the peace of Jerusalem, And there is prosperity for those who love you; PSA.121:7 Let there now be peace in your power And prosperity in your citadels. PSA.121:8 For the sake of my brothers and my neighbors, I indeed spoke peace concerning you; PSA.121:9 For the sake of the house of the Lord our God, I sought good things for you. ## Chapter 122
+PSA.121:2 Our feet stand in your courts, O Jerusalem.
+PSA.121:3 Jerusalem is built as a city Whose compactness is complete.
+PSA.121:4 There the tribes went up, The tribes of the Lord, a testimony to Israel, To give thanks to the name of the Lord.
+PSA.121:5 For thrones sat there for judgment, Thrones over the house of David.
+PSA.121:6 Ask now for things regarding the peace of Jerusalem, And there is prosperity for those who love you;
+PSA.121:7 Let there now be peace in your power And prosperity in your citadels.
+PSA.121:8 For the sake of my brothers and my neighbors, I indeed spoke peace concerning you;
+PSA.121:9 For the sake of the house of the Lord our God, I sought good things for you.
 
-PSA.122:1 An ode of ascents. I lift my eyes to You, Who dwell in heaven. PSA.122:2 Behold, as the eyes of servants look to the hands of their m asters, As the eyes of the m aidservant look to the hands of her m istress, So our eyes look to the Lord our God Until He shall have com passion on us. PSA.122:3 Have mercy on us, O Lord, have mercy on us, For we are greatly filled with contem pt; PSA.122:4 Our soul is greatly filled with it. We are a disgrace to those who prosper, And a contem pt to the arrogant. ## Chapter 123
+## Chapter 122
 
-PSA.123:1 An ode of ascents. "I f the Lord had not been with us," Let Israel now say, PSA.123:2 "If the Lord had not been with us, When men rose up against us, PSA.123:3 Then they would have swallowed us alive, When their anger raged against us, PSA.123:4 Then the water would have drowned us; Our soul would have passed through a torrent, PSA.123:5 Then our soul would have passed through A water that is ov erwhelm ing."
-PSA.123:6 Blessed is the Lord, Who did not give us as prey to their teeth. PSA.123:7 Our soul was delivered like a sparrow From the snare of the hunters; The snare was broken, and we were delivered. PSA.123:8 Our help is in the name of the Lord, Who made heaven and earth. ## Chapter 124
+PSA.122:1 An ode of ascents. I lift my eyes to You, Who dwell in heaven.
+PSA.122:2 Behold, as the eyes of servants look to the hands of their masters, As the eyes of the maidservant look to the hands of her mistress, So our eyes look to the Lord our God Until He shall have compassion on us.
+PSA.122:3 Have mercy on us, O Lord, have mercy on us, For we are greatly filled with contempt;
+PSA.122:4 Our soul is greatly filled with it. We are a disgrace to those who prosper, And a contempt to the arrogant.
 
-PSA.124:1 An ode of ascents. T hose who trust in the Lord are like Mount Zion; He who dwells in Jerusalem shall be unshaken forever. PSA.124:2 The m ountains surround her, And the Lord surrounds His people From this present tim e and unto the ages. PSA.124:3 The Lord will not perm it the rod of sinners To be upon the inheritance of the righteous, Lest the righteous stretch out Their hands in lawlessness. PSA.124:4 Do good, O Lord, to the good, And to the upright in heart; PSA.124:5 But those who turn aside to crooked way s, The Lord shall lead away with the workers of lawlessness. Peace be upon Israel. ## Chapter 125
+## Chapter 123
 
-PSA.125:1 An ode of ascents. W hen the Lord returned the captives of Zion, We became like those who are com forted. PSA.125:2 Then our mouth was filled with joy, And our tongue with exceeding joy. Then they shall say among the Gentiles, "The Lord did great things with them."
-PSA.125:3 The Lord has done great things with us; We were glad. PSA.125:4 Return, O Lord, our captivity Like streams in the south. PSA.125:5 Those who sow with tears Shall reap with exceeding joy. PSA.125:6 They went forth and wept, Carry ing their seeds with them; But they shall return with exceeding joy, Carry ing their sheaves. ## Chapter 126
+PSA.123:1 An ode of ascents. "I f the Lord had not been with us," Let Israel now say,
+PSA.123:2 "If the Lord had not been with us, When men rose up against us,
+PSA.123:3 Then they would have swallowed us alive, When their anger raged against us,
+PSA.123:4 Then the water would have drowned us; Our soul would have passed through a torrent,
+PSA.123:5 Then our soul would have passed through A water that is overwhelming."
+PSA.123:6 Blessed is the Lord, Who did not give us as prey to their teeth.
+PSA.123:7 Our soul was delivered like a sparrow From the snare of the hunters; The snare was broken, and we were delivered.
+PSA.123:8 Our help is in the name of the Lord, Who made heaven and earth.
 
-PSA.126:1 An ode of ascents; for Solomon. U nless the Lord builds the house, Those who build it labor in vain; Unless the Lord guard the city, Those who guard it stay awake in vain. PSA.126:2 It is in vain for you to rise early, To awaken from your rest, You who eat the bread of grief, When He gives His beloved ones sleep. PSA.126:3 Behold, children are the Lord's inheritance; The fruit of the wom b His reward. PSA.126:4 Like arrows in the hand of a m ighty one, So are the children of those who were outcasts. PSA.126:5 Blessed is the man who shall fulfill his desire with them; They shall not be ashamed, when they speak to their enemies at the gate. ## Chapter 127
+## Chapter 124
 
-PSA.127:1 An ode of ascents. Blessed are all who fear the Lord, Who walk in His way s. PSA.127:2 You shall eat the fruits of your labor; You are blessed, and it shall be well with you. PSA.127:3 Your wife shall be like a vine, prospering on the sides of your house; Your children like newly planted olive trees Around your table. PSA.127:4 Behold, so shall the man be blessed who fears the Lord. PSA.127:5 May the Lord bless you from Zion, And may you see the good things of Jerusalem All the day s of your life; PSA.127:6 May you see your children's children. Peace be upon Israel. ## Chapter 128
+PSA.124:1 An ode of ascents. Those who trust in the Lord are like Mount Zion; He who dwells in Jerusalem shall be unshaken forever.
+PSA.124:2 The mountains surround her, And the Lord surrounds His people From this present time and unto the ages.
+PSA.124:3 The Lord will not permit the rod of sinners To be upon the inheritance of the righteous, Lest the righteous stretch out Their hands in lawlessness.
+PSA.124:4 Do good, O Lord, to the good, And to the upright in heart;
+PSA.124:5 But those who turn aside to crooked ways, The Lord shall lead away with the workers of lawlessness. Peace be upon Israel.
 
-PSA.128:1 An ode of ascents. "M any tim es they warred against me from my y outh," Let Israel now say; PSA.128:2 "Many tim es they warred against me from my y outh, Yet they did not ov ercom e me. PSA.128:3 The sinners schem ed behind my back; They prolonged their lawlessness."
-PSA.128:4 The righteous Lord cut in pieces the necks of sinners. PSA.128:5 Let all who hate Zion Be sham ed and turned back. PSA.128:6 Let them become like grass on the housetops, Which withers before it is plucked up; PSA.128:7 Like grass with which the reaper does not fill his hand, Nor the gatherer of sheaves, his bosom; PSA.128:8 Neither do those who pass by say to them, "The Lord's blessing be upon you; In the Lord's name, we bless you."
+## Chapter 125
+
+PSA.125:1 An ode of ascents. When the Lord returned the captives of Zion, We became like those who are comforted.
+PSA.125:2 Then our mouth was filled with joy, And our tongue with exceeding joy. Then they shall say among the Gentiles, "The Lord did great things with them."
+PSA.125:3 The Lord has done great things with us; We were glad.
+PSA.125:4 Return, O Lord, our captivity Like streams in the south.
+PSA.125:5 Those who sow with tears Shall reap with exceeding joy.
+PSA.125:6 They went forth and wept, Carry ing their seeds with them; But they shall return with exceeding joy, Carry ing their sheaves.
+
+## Chapter 126
+
+PSA.126:1 An ode of ascents; for Solomon. Unless the Lord builds the house, Those who build it labor in vain; Unless the Lord guard the city, Those who guard it stay awake in vain.
+PSA.126:2 It is in vain for you to rise early, To awaken from your rest, You who eat the bread of grief, When He gives His beloved ones sleep.
+PSA.126:3 Behold, children are the Lord's inheritance; The fruit of the womb His reward.
+PSA.126:4 Like arrows in the hand of a mighty one, So are the children of those who were outcasts.
+PSA.126:5 Blessed is the man who shall fulfill his desire with them; They shall not be ashamed, when they speak to their enemies at the gate.
+
+## Chapter 127
+
+PSA.127:1 An ode of ascents. Blessed are all who fear the Lord, Who walk in His ways.
+PSA.127:2 You shall eat the fruits of your labor; You are blessed, and it shall be well with you.
+PSA.127:3 Your wife shall be like a vine, prospering on the sides of your house; Your children like newly planted olive trees Around your table.
+PSA.127:4 Behold, so shall the man be blessed who fears the Lord.
+PSA.127:5 May the Lord bless you from Zion, And may you see the good things of Jerusalem All the days of your life;
+PSA.127:6 May you see your children's children. Peace be upon Israel.
+
+## Chapter 128
+
+PSA.128:1 An ode of ascents. "Many times they warred against me from my youth," Let Israel now say;
+PSA.128:2 "Many times they warred against me from my youth, Yet they did not overcome me.
+PSA.128:3 The sinners schemed behind my back; They prolonged their lawlessness."
+PSA.128:4 The righteous Lord cut in pieces the necks of sinners.
+PSA.128:5 Let all who hate Zion Be shamed and turned back.
+PSA.128:6 Let them become like grass on the housetops, Which withers before it is plucked up;
+PSA.128:7 Like grass with which the reaper does not fill his hand, Nor the gatherer of sheaves, his bosom;
+PSA.128:8 Neither do those who pass by say to them, "The Lord's blessing be upon you; In the Lord's name, we bless you."
 
 ## Chapter 129
 
-PSA.129:1 An ode of ascents. O ut of the depths I have cried to You, O Lord; PSA.129:2 O Lord, hear my voice; Let Your ears be attentive To the voice of my supplication. PSA.129:3 If You, O Lord, should m ark transgression, O Lord, who would stand? PSA.129:4 For there is forgiveness with You. PSA.129:5 Because of Your law, O Lord, I waited for You; My soul waited for Your word. PSA.129:6 My soul hopes in the Lord, From the morning watch until night; From the morning watch until night, Let Israel hope in the Lord. PSA.129:7 For with the Lord there is mercy, And with Him is abundant redem ption; PSA.129:8 And He shall redeem Israel From all his transgressions. ## Chapter 130
+PSA.129:1 An ode of ascents. Out of the depths I have cried to You, O Lord;
+PSA.129:2 O Lord, hear my voice; Let Your ears be attentive To the voice of my supplication.
+PSA.129:3 If You, O Lord, should mark transgression, O Lord, who would stand?
+PSA.129:4 For there is forgiveness with You.
+PSA.129:5 Because of Your law, O Lord, I waited for You; My soul waited for Your word.
+PSA.129:6 My soul hopes in the Lord, From the morning watch until night; From the morning watch until night, Let Israel hope in the Lord.
+PSA.129:7 For with the Lord there is mercy, And with Him is abundant redemption;
+PSA.129:8 And He shall redeem Israel From all his transgressions.
 
-PSA.130:1 An ode of ascents, by David. O Lord, My heart is not exalted, Neither are my eyes raised up; Neither am I carried along in great things, Nor in things too m arv elous for me. PSA.130:2 If I were not hum ble-m inded, But exalted my soul, Like a child weaned from his m other, So You would reward my soul. PSA.130:3 Let Israel hope in the Lord From this present tim e and unto the ages. ## Chapter 131
+## Chapter 130
 
-PSA.131:1 An ode of ascents. R em em ber Dav id, O Lord, And all his m eekness, PSA.131:2 How he swore to the Lord, How he v owed to the God of Jacob, PSA.131:3 "I shall not enter my dwelling, I shall not recline on my bed, PSA.131:4 I shall not close my eyes in sleep Nor my ey elids for dozing, Nor give any rest to my tem ples, PSA.131:5 Until I find a place for the Lord, A tabernacle for the God of Jacob."
-PSA.131:6 Behold, we heard of it in Ephrathah; We found it in the plains of the wood; PSA.131:7 Let us enter into His tabernacles; Let us worship at the place where His feet stood. PSA.131:8 Arise, O Lord, into Your rest, You and the ark of Your holiness; PSA.131:9 Your priests shall clothe themselves in righteousness; Your saints shall greatly rejoice. PSA.131:10 For Your servant Dav id's sake, Do not turn away from the face of Your anointed. PSA.131:11 The Lord swore to Dav id this truth, and He shall not reject it, "I shall set upon your throne one from the fruit of your loins. PSA.131:12 If your sons keep My covenant And these testim onies I shall teach them, Then their sons shall sit upon your throne forever."
-PSA.131:13 For the Lord has chosen Zion; He chose her for His dwelling: PSA.131:14 "This is My place of rest unto ages of ages; Here I shall dwell, for I have chosen her. PSA.131:15 Blessing, I shall bless her provision; I shall satisfy her poor with bread; PSA.131:16 And I shall clothe her priests with salvation, And her saints shall rejoice exceedingly with great joy; PSA.131:17 There I shall cause to spring up a horn for Dav id; There I prepared a lam p for my anointed; PSA.131:18 His enemies I shall clothe with sham e; Upon him shall My sanctification flourish."
+PSA.130:1 An ode of ascents, by David. O Lord, My heart is not exalted, Neither are my eyes raised up; Neither am I carried along in great things, Nor in things too marvelous for me.
+PSA.130:2 If I were not humble-minded, But exalted my soul, Like a child weaned from his mother, So You would reward my soul.
+PSA.130:3 Let Israel hope in the Lord From this present time and unto the ages.
+
+## Chapter 131
+
+PSA.131:1 An ode of ascents. Remember David, O Lord, And all his meekness,
+PSA.131:2 How he swore to the Lord, How he vowed to the God of Jacob,
+PSA.131:3 "I shall not enter my dwelling, I shall not recline on my bed,
+PSA.131:4 I shall not close my eyes in sleep Nor my eyelids for dozing, Nor give any rest to my temples,
+PSA.131:5 Until I find a place for the Lord, A tabernacle for the God of Jacob."
+PSA.131:6 Behold, we heard of it in Ephrathah; We found it in the plains of the wood;
+PSA.131:7 Let us enter into His tabernacles; Let us worship at the place where His feet stood.
+PSA.131:8 Arise, O Lord, into Your rest, You and the ark of Your holiness;
+PSA.131:9 Your priests shall clothe themselves in righteousness; Your saints shall greatlyrejoice.
+PSA.131:10 For Your servant David's sake, Do not turn away from the face of Your anointed.
+PSA.131:11 The Lord swore to David this truth, and He shall not reject it, "I shall set upon your throne one from the fruit of your loins.
+PSA.131:12 If your sons keep My covenant And these testimonies I shall teach them, Then their sons shall sit upon your throne forever."
+PSA.131:13 For the Lord has chosen Zion; He chose her for His dwelling:
+PSA.131:14 "This is My place of rest unto ages of ages; Here I shall dwell, for I have chosen her.
+PSA.131:15 Blessing, I shall bless her provision; I shall satisfy her poor with bread;
+PSA.131:16 And I shall clothe her priests with salvation, And her saints shall rejoice exceedingly with great joy;
+PSA.131:17 There I shall cause to spring up a horn for David; There I prepared a lamp for my anointed;
+PSA.131:18 His enemies I shall clothe with shame; Upon him shall My sanctification flourish."
 
 ## Chapter 132
 
-PSA.132:1 An ode of ascents; by David. B ehold now, what is so good or so pleasant As for brothers to dwell together in unity? PSA.132:2 It is like fragrant oil running down upon the beard, The beard of Aaron, Running down upon the border of his garm ent; PSA.132:3 It is like the dew of Herm on, running down upon the m ountains of Zion; For there the Lord commanded the blessing And life forever. ## Chapter 133
+PSA.132:1 An ode of ascents; by David. Behold now, what is so good or so pleasant As for brothers to dwell together in unity?
+PSA.132:2 It is like fragrant oil running down upon the beard, The beard of Aaron, Running down upon the border of his garment;
+PSA.132:3 It is like the dew of Hermon, running down upon the mountains of Zion; For there the Lord commanded the blessing And life forever.
 
-PSA.133:1 An ode of ascents. B ehold now, bless the Lord, All you servants of the Lord, Who stand in the house of the Lord, In the courts of the house of our God. PSA.133:2 In the nights, lift up your hands to the holy of holies And bless the Lord. PSA.133:3 May the Lord bless you from Zion, He who made heaven and earth. ## Chapter 134
+## Chapter 133
 
-PSA.134:1 Alleluia. Praise the name of the Lord, O you servants; praise the Lord, PSA.134:2 You who stand in the house of the Lord, In the courts of the house of our God. PSA.134:3 Praise the Lord, for the Lord is good; Sing to His name, for it is good; PSA.134:4 For the Lord chose Jacob for Him self, Israel for His special treasure. PSA.134:5 For I know the Lord is great, And our Lord is above all the gods. PSA.134:6 All things whatsoever the Lord willed, He did, In heaven and on the earth, In the seas and in all deep places, PSA.134:7 Bringing clouds from the furthest part of the earth; He made lightning for the rain, Bringing winds from His storehouses. PSA.134:8 He struck the firstborn of Egy pt, From man to cattle; PSA.134:9 He sent forth signs and wonders in your midst, O Egy pt, Am ong Pharaoh and all his servants. PSA.134:10 He struck many nations And destroy ed m ighty kings, PSA.134:11 Sihon king of the Am orites, And Og king of Bashan, And all the kingdom s of Canaan; PSA.134:12 And He gave their land as an inheritance, An inheritance for Israel His people. PSA.134:13 O Lord, Your name abides forever, O Lord, Your m em orial unto generation and generation. PSA.134:14 For the Lord will judge His people, And He shall com fort His servants. PSA.134:15 The idols of the nations are silver and gold, The works of men's hands; PSA.134:16 They have a mouth, but they shall not speak; They have eyes, but they shall not see; PSA.134:17 They have ears, but they shall not hear; They have noses, but they shall not sm ell; They have hands, but they shall not feel; They have feet, but they shall not walk; They have no sound in their throat; For neither is there breath in their mouth. PSA.134:18 May those who made them become like them, And all who trust in them. PSA.134:19 O house of Israel, bless the Lord; O house of Aaron, bless the Lord; PSA.134:20 O house of Lev i, bless the Lord; You who fear the Lord, bless the Lord. PSA.134:21 Blessed be the Lord out of Zion, He who dwells in Jerusalem. ## Chapter 135
+PSA.133:1 An ode of ascents. Behold now, bless the Lord, All you servants of the Lord, Who stand in the house of the Lord, In the courts of the house of our God.
+PSA.133:2 In the nights, lift up your hands to the holy of holies And bless the Lord.
+PSA.133:3 May the Lord bless you from Zion, He who made heaven and earth.
 
-PSA.135:1 Alleluia. Give thanks to the Lord, for He is good, For His mercy endures forever; PSA.135:2 Give thanks to the God of gods, For His mercy endures forever; PSA.135:3 Give thanks to the Lord of lords, For His mercy endures forever; PSA.135:4 To Him who alone does great wonders, For His mercy endures forever; PSA.135:5 To Him who made the heavens with understanding, For His mercy endures forever; PSA.135:6 To Him who made firm the earth on the waters, For His mercy endures forever; PSA.135:7 To Him who alone made the great lights, For His mercy endures forever, PSA.135:8 The sun for authority over the day, For His mercy endures forever, PSA.135:9 The moon and stars for authority over the night, For His mercy endures forever; PSA.135:10 To Him who struck down Egy pt with their firstborn, For His mercy endures forever; PSA.135:11 To Him who led Israel out of their midst, For His mercy endures forever, PSA.135:12 With a strong hand and an upraised arm, For His mercy endures forever; PSA.135:13 To Him who divided the Red Sea into parts, For His mercy endures forever, PSA.135:14 And led Israel through the midst of it, For His mercy endures forever, PSA.135:15 And who ov erthrew Pharaoh and all his host in the Red Sea, For His mercy endures forever; PSA.135:16 To Him who led His people through the wilderness, For His mercy endures forever; To Him who drew water from the hard rock, For His mercy endures forever; PSA.135:17 To Him who struck down great kings, For His mercy endures forever, PSA.135:18 And killed m ighty kings, For His mercy endures forever, PSA.135:19 Sihon king of the Am orites, For His mercy endures forever, PSA.135:20 And Og king of Bashan, For His mercy endures forever, PSA.135:21 And who gave their land as an inheritance, For His mercy endures forever, PSA.135:22 An inheritance for Israel His servant, For His mercy endures forever. PSA.135:23 For in our hum iliation the Lord rem em bered us, For His mercy endures forever; PSA.135:24 And He redeem ed us from our enemies, For His mercy endures forever; PSA.135:25 Who gave food to all flesh, For His mercy endures forever. PSA.135:26 Give thanks to the God of heaven, For His mercy endures forever; Give thanks to the Lord of lords, For His mercy endures forever. ## Chapter 136
+## Chapter 134
 
-PSA.136:1 By David. B y the rivers of Baby lon, There we sat and wept When we rem em bered Zion. PSA.136:2 Upon the willows in her midst, We hung up our m usical instruments; PSA.136:3 For there our captors asked us for words from our songs, And those who carried us off said to us, "Sing us the songs of Zion."
-PSA.136:4 How shall we sing the Lord's song In a foreign land? PSA.136:5 If I forget you, O Jerusalem, May my right hand be forgotten; PSA.136:6 May my tongue be glued to my throat If I do not remember you, If I do not prefer Jerusalem In the beginning of my m errim ent. PSA.136:7 O Lord, remember the sons of Edom On that day in Jerusalem, When they were saying, "Em pty it out, Em pty it out, Ev en to its foundation!"
-PSA.136:8 O wretched daughter of Baby lon, Blessed is he who shall deal with you As you dealt with us; PSA.136:9 Blessed is he who shall get the upper hand And dash your infants against the rock. ## Chapter 137
+PSA.134:1 Alleluia. Praise the name of the Lord, O you servants; praise the Lord,
+PSA.134:2 You who stand in the house of the Lord, In the courts of the house of our God.
+PSA.134:3 Praise the Lord, for the Lord is good; Sing to His name, for it is good;
+PSA.134:4 For the Lord chose Jacob for Himself, Israel for His special treasure.
+PSA.134:5 For I know the Lord is great, And our Lord is above all the gods.
+PSA.134:6 All things whatsoever the Lord willed, He did, In heaven and on the earth, In the seas and in all deep places,
+PSA.134:7 Bringing clouds from the furthest part of the earth; He made lightning for the rain, Bringing winds from His storehouses.
+PSA.134:8 He struck the firstborn of Egypt, From man to cattle;
+PSA.134:9 He sent forth signs and wonders in your midst, O Egypt, Among Pharaoh and all his servants.
+PSA.134:10 He struck many nations And destroyed mighty kings,
+PSA.134:11 Sihon king of the Amorites, And Og king of Bashan, And all the kingdoms of Canaan;
+PSA.134:12 And He gave their land as an inheritance, An inheritance for Israel His people.
+PSA.134:13 O Lord, Your name abides forever, O Lord, Your memorial unto generation and generation.
+PSA.134:14 For the Lord will judge His people, And He shall comfort His servants.
+PSA.134:15 The idols of the nations are silver and gold, The works of men's hands;
+PSA.134:16 They have a mouth, but they shall not speak; They have eyes, but they shall not see;
+PSA.134:17 They have ears, but they shall not hear; They have noses, but they shall not smell; They have hands, but they shall not feel; They have feet, but they shall not walk; They have no sound in their throat; For neither is there breath in their mouth.
+PSA.134:18 May those who made them become like them, And all who trust in them.
+PSA.134:19 O house of Israel, bless the Lord; O house of Aaron, bless the Lord;
+PSA.134:20 O house of Lev i, bless the Lord; You who fear the Lord, bless the Lord.
+PSA.134:21 Blessed be the Lord out of Zion, He who dwells in Jerusalem.
 
-PSA.137:1 By David. I will give thanks to You, O Lord, with all my heart, For You hear the words of my mouth; And I shall sing to You in the presence of angels. PSA.137:2 I shall bow down and worship toward Your holy temple, And I will give thanks to Your name For Your mercy and Your truth; For You m agnified Your teaching above every name. PSA.137:3 On the day I shall call out to You, hear me speedily; You shall treat my soul with great care in Your power. PSA.137:4 O Lord, let all the kings of the earth give thanks to You, For they heard all the words of Your mouth; PSA.137:5 And let them sing in the way s of the Lord, For the glory of the Lord is great; PSA.137:6 For the Lord is high, and He watches over the lowly things; But the high things He knows from afar. PSA.137:7 If I walk in the midst of affliction, You shall make me live; You stretched out Your hand against the wrath of my enemies, And Your right hand saved me. PSA.137:8 The Lord shall repay them on my behalf. O Lord, Your mercy endures forever; Do not forsake the works of Your hands. ## Chapter 138
+## Chapter 135
 
-PSA.138:1 For the End; a psalm by David. O Lord, You test me and know me; PSA.138:2 You know my sitting down and my rising up; You understand my thoughts from afar; PSA.138:3 You search out my path and my portion, And You foresee all my way s. PSA.138:4 For there is not a word on my tongue, PSA.138:5 But behold, O Lord, You know it altogether, The last things and the first things; You fashioned me, and placed Your hands on me. PSA.138:6 Your knowledge has become too wondrous for me; It has become too ov erwhelm ing; I am unable to grasp it. PSA.138:7 Where could I go from Your Spirit, Or flee from Your face? PSA.138:8 If I should ascend into heaven, You would be there; If I should descend into Hades, You would be there; PSA.138:9 If I should take up my wings at dawn And pitch cam p at the furthest part of the sea, PSA.138:10 Ev en there Your hand would lead me, And Your right hand would hold me. PSA.138:11 And I said, "Perhaps darkness shall cover me," But the night shall be light to my delight; PSA.138:12 For darkness shall not be dark because of You, And the night shall be bright as day; As its darkness, so also shall be its light. PSA.138:13 For You possess my heart, O Lord; You took hold of me from my m other's wom b. PSA.138:14 I will give thanks to You, For I am fearfully and wondrously made; Marv elous are Your works, And my soul knows this very well. PSA.138:15 My bone you made in secret was not hidden from You. And my substance was in the lowest parts of the earth; PSA.138:16 Your eyes saw me when I was unform ed, And all men shall be written in Your book; They shall be form ed day by day, When as y et there were none among them. PSA.138:17 Your friends, O God, became very honorable to me; Their principalities became very strong; PSA.138:18 I shall count them, And they shall be multiplied more than the sand; I awakened, and I am still with You. PSA.138:19 If You should slay sinners, O God, You would turn aside from me, O men of blood. PSA.138:20 For You will say regarding their reasoning, "They shall receive your cities in vain."
-PSA.138:21 Have I not hated those who hate You, O Lord? And was I not wasting away because of Your enemies? PSA.138:22 I hated them with perfect hatred; They became my enemies. PSA.138:23 Test me, O God, and know my heart; Exam ine me, and know my paths, PSA.138:24 And see if there is a lawless way in me, And lead me in the way ev erlasting. ## Chapter 139
+PSA.135:1 Alleluia. Give thanks to the Lord, for He is good, For His mercy endures forever;
+PSA.135:2 Give thanks to the God of gods, For His mercy endures forever;
+PSA.135:3 Give thanks to the Lord of lords, For His mercy endures forever;
+PSA.135:4 To Him who alone does great wonders, For His mercy endures forever;
+PSA.135:5 To Him who made the heavens with understanding, For His mercy endures forever;
+PSA.135:6 To Him who made firm the earth on the waters, For His mercy endures forever;
+PSA.135:7 To Him who alone made the great lights, For His mercy endures forever,
+PSA.135:8 The sun for authority over the day, For His mercy endures forever,
+PSA.135:9 The moon and stars for authority over the night, For His mercy endures forever;
+PSA.135:10 To Him who struck down Egypt with their firstborn, For His mercy endures forever;
+PSA.135:11 To Him who led Israel out of their midst, For His mercy endures forever,
+PSA.135:12 With a strong hand and an upraised arm, For His mercy endures forever;
+PSA.135:13 To Him who divided the Red Sea into parts, For His mercy endures forever,
+PSA.135:14 And led Israel through the midst of it, For His mercy endures forever,
+PSA.135:15 And who overthrew Pharaoh and all his host in the Red Sea, For His mercy endures forever;
+PSA.135:16 To Him who led His people through the wilderness, For His mercy endures forever; To Him who drew water from the hard rock, For His mercy endures forever;
+PSA.135:17 To Him who struck down great kings, For His mercy endures forever,
+PSA.135:18 And killed mighty kings, For His mercy endures forever,
+PSA.135:19 Sihon king of the Amorites, For His mercy endures forever,
+PSA.135:20 And Og king of Bashan, For His mercy endures forever,
+PSA.135:21 And who gave their land as an inheritance, For His mercy endures forever,
+PSA.135:22 An inheritance for Israel His servant, For His mercy endures forever.
+PSA.135:23 For in our humiliation the Lord remembered us, For His mercy endures forever;
+PSA.135:24 And He redeemed us from our enemies, For His mercy endures forever;
+PSA.135:25 Who gave food to all flesh, For His mercy endures forever.
+PSA.135:26 Give thanks to the God of heaven, For His mercy endures forever; Give thanks to the Lord of lords, For His mercy endures forever.
 
-PSA.139:1 For the End; a psalm by David. PSA.139:2 D eliver me, O Lord, from the evil man, Rescue me from the unjust man, PSA.139:3 Who devised wrongdoing in their heart; They array ed themselves for war all day long; PSA.139:4 They sharpened their tongue like a serpent; The v enom of asps was under their lips. (Pause)
-PSA.139:5 Keep me, O Lord, from the hand of the sinner; Deliver me from unjust men Who plotted to trip up my steps; PSA.139:6 The arrogant hid a trap for me, And they stretched out ropes as snares for my feet; They set a stum bling block for me near my path. (Pause)
-PSA.139:7 I said to the Lord, "You are my God; Give ear, O Lord, to the voice of my supplication. PSA.139:8 O Lord, O Lord, the power of my salvation, You ov ershadowed my head in the day of war. PSA.139:9 Because of my desire, O Lord, do not hand me over to the sinner; They plotted against me; do not forsake me, lest they be exalted. (Pause)
-PSA.139:10 "As for the head of those who encircle me, The toil of their lips shall cover them. PSA.139:11 Coals shall fall upon them; You shall ov erthrow them with fire; Do not let them withstand hardships."
-PSA.139:12 A talkative man shall not prosper on earth; Ev ils shall hunt the unjust man to destruction. PSA.139:13 I know the Lord will m aintain the cause of the poor man And the justice of the needy. PSA.139:14 Surely the righteous shall give thanks to Your name, And the upright shall dwell in Your presence. ## Chapter 140
+## Chapter 136
 
-PSA.140:1 A psalm by David. O Lord, I have cried to You; hear me; Give heed to the voice of my supplication when I cry to You. PSA.140:2 Let my prayer be set forth before You as incense, The lifting up of my hands as the evening sacrifice. PSA.140:3 Set a watch, O Lord, before my mouth, A door of enclosure about my lips. PSA.140:4 Incline not my heart to evil words, To make excuses in sins With men who work lawlessness; And I will not join with their choice ones. PSA.140:5 The righteous man shall correct me With mercy, and he shall reprove me; But let not the oil of the sinner anoint my head, For my prayer shall be intense in the presence of their pleasures. PSA.140:6 Their judges are swallowed up by the rock; They shall hear my words, for they are pleasant. PSA.140:7 As a clod of ground is dashed to pieces on the earth, So our bones were scattered beside the grave. PSA.140:8 For my eyes, O Lord, O Lord, are toward You; In You I hope; take not my soul away. PSA.140:9 Keep me from the snares they set for me, And from the stum bling blocks of those who work lawlessness. PSA.140:10 Sinners shall fall into their own net; I am alone, until I escape. ## Chapter 141
+PSA.136:1 By David. By the rivers of Baby lon, There we sat and wept When we remembered Zion.
+PSA.136:2 Upon the willows in her midst, We hung up our musical instruments;
+PSA.136:3 For there our captors asked us for words from our songs, And those who carried us off said to us, "Sing us the songs of Zion."
+PSA.136:4 How shall we sing the Lord's song In a foreign land?
+PSA.136:5 If I forget you, O Jerusalem, May my right hand be forgotten;
+PSA.136:6 May my tongue be glued to my throat If I do not remember you, If I do not prefer Jerusalem In the beginning of my merriment.
+PSA.136:7 O Lord, remember the sons of Edom On that day in Jerusalem, When they were saying, "Empty it out, Empty it out, Even to its foundation!"
+PSA.136:8 O wretched daughter of Baby lon, Blessed is he who shall deal with you As you dealt with us;
+PSA.136:9 Blessed is he who shall get the upper hand And dash your infants against the rock.
 
-PSA.141:1 Understanding; by David, when he was in the cave; a prayer. PSA.141:2 I cried to the Lord with my voice, With my voice I pray ed to the Lord. PSA.141:3 I shall pour out my supplication before Him; I shall declare my affliction in His presence. PSA.141:4 When my spirit fainted within me, Then You knew my paths; For on the way I was going, they hid a trap for me. PSA.141:5 I looked on my right, and saw There was no one who knew me; Refuge failed me, And there was no one who cared for my soul. PSA.141:6 I cried to You, O Lord; I said, "You are my hope, My portion in the land of the living. PSA.141:7 Attend to my supplication, For I was hum bled exceedingly; Deliver me from my persecutors, For they are stronger than I. PSA.141:8 Bring my soul out of prison To give thanks to Your name, O Lord; The righteous shall wait for me, until You reward me."
+## Chapter 137
+
+PSA.137:1 By David. I will give thanks to You, O Lord, with all my heart, For You hear the words of my mouth; And I shall sing to You in the presence of angels.
+PSA.137:2 I shall bow down and worship toward Your holy temple, And I will give thanks to Your name For Your mercy and Your truth; For You magnified Your teaching above every name.
+PSA.137:3 On the day I shall call out to You, hear me speedily; You shall treat my soul with great care in Your power.
+PSA.137:4 O Lord, let all the kings of the earth give thanks to You, For they heard all the words of Your mouth;
+PSA.137:5 And let them sing in the ways of the Lord, For the glory of the Lord is great;
+PSA.137:6 For the Lord is high, and He watches over the lowly things; But the high things He knows from afar.
+PSA.137:7 If I walk in the midst of affliction, You shall make me live; You stretched out Your hand against the wrath of my enemies, And Your right hand saved me.
+PSA.137:8 The Lord shall repay them on my behalf. O Lord, Your mercy endures forever; Do not forsake the works of Your hands.
+
+## Chapter 138
+
+PSA.138:1 For the End; a psalm by David. O Lord, You test me and know me;
+PSA.138:2 You know my sitting down and my rising up; You understand my thoughts from afar;
+PSA.138:3 You search out my path and my portion, And You foresee all my ways.
+PSA.138:4 For there is not a word on my tongue,
+PSA.138:5 But behold, O Lord, You know it altogether, The last things and the first things; You fashioned me, and placed Your hands on me.
+PSA.138:6 Your knowledge has become too wondrous for me; It has become too overwhelming; I am unable to grasp it.
+PSA.138:7 Where could I go from Your Spirit, Or flee from Your face?
+PSA.138:8 If I should ascend into heaven, You would be there; If I should descend into Hades, You would be there;
+PSA.138:9 If I should take up my wings at dawn And pitch camp at the furthest part of the sea,
+PSA.138:10 Even there Your hand would lead me, And Your right hand would hold me.
+PSA.138:11 And I said, "Perhaps darkness shall cover me," But the night shall be light to my delight;
+PSA.138:12 For darkness shall not be dark because of You, And the night shall be bright as day; As its darkness, so also shall be its light.
+PSA.138:13 For You possess my heart, O Lord; You took hold of me from my mother's womb.
+PSA.138:14 I will give thanks to You, For I am fearfully and wondrously made; Marvelous are Your works, And my soul knows this very well.
+PSA.138:15 My bone you made in secret was not hidden from You. And my substance was in the lowest parts of the earth;
+PSA.138:16 Your eyes saw me when I was unformed, And all men shall be written in Your book; They shall be formed day by day, When as yet there were none among them.
+PSA.138:17 Your friends, O God, became very honorable to me; Their principalities became very strong;
+PSA.138:18 I shall count them, And they shall be multiplied more than the sand; I awakened, and I am still with You.
+PSA.138:19 If You should slaysinners, O God, You would turn aside from me, O men of blood.
+PSA.138:20 For You will say regarding their reasoning, "They shall receive your cities in vain."
+PSA.138:21 Have I not hated those who hate You, O Lord? And was I not wasting away because of Your enemies?
+PSA.138:22 I hated them with perfect hatred; They became my enemies.
+PSA.138:23 Test me, O God, and know my heart; Examine me, and know my paths,
+PSA.138:24 And see if there is a lawless way in me, And lead me in the way everlasting.
+
+## Chapter 139
+
+PSA.139:1 For the End; a psalm by David.
+PSA.139:2 Deliver me, O Lord, from the evil man, Rescue me from the unjust man,
+PSA.139:3 Who devised wrongdoing in their heart; They arrayed themselves for war all day long;
+PSA.139:4 They sharpened their tongue like a serpent; The venom of asps was under their lips. (Pause)
+PSA.139:5 Keep me, O Lord, from the hand of the sinner; Deliver me from unjust men Who plotted to trip up my steps;
+PSA.139:6 The arrogant hid a trap for me, And they stretched out ropes as snares for my feet; They set a stumbling block for me near my path. (Pause)
+PSA.139:7 I said to the Lord, "You are my God; Give ear, O Lord, to the voice of my supplication.
+PSA.139:8 O Lord, O Lord, the power of my salvation, You overshadowed my head in the day of war.
+PSA.139:9 Because of my desire, O Lord, do not hand me over to the sinner; They plotted against me; do not forsake me, lest they be exalted. (Pause)
+PSA.139:10 "As for the head of those who encircle me, The toil of their lips shall cover them.
+PSA.139:11 Coals shall fall upon them; You shall overthrow them with fire; Do not let them withstand hardships."
+PSA.139:12 A talkative man shall not prosper on earth; Evils shall hunt the unjust man to destruction.
+PSA.139:13 I know the Lord will maintain the cause of the poor man And the justice of the needy.
+PSA.139:14 Surely the righteous shall give thanks to Your name, And the upright shall dwell in Your presence.
+
+## Chapter 140
+
+PSA.140:1 A psalm by David. O Lord, I have cried to You; hear me; Give heed to the voice of my supplication when I cry to You.
+PSA.140:2 Let my prayer be set forth before You as incense, The lifting up of my hands as the evening sacrifice.
+PSA.140:3 Set a watch, O Lord, before my mouth, A door of enclosure about my lips.
+PSA.140:4 Incline not my heart to evil words, To make excuses in sins With men who work lawlessness; And I will not join with their choice ones.
+PSA.140:5 The righteous man shall correct me With mercy, and he shall reprove me; But let not the oil of the sinner anoint my head, For my prayer shall be intense in the presence of their pleasures.
+PSA.140:6 Their judges are swallowed up by the rock; They shall hear my words, for they are pleasant.
+PSA.140:7 As a clod of ground is dashed to pieces on the earth, So our bones were scattered beside the grave.
+PSA.140:8 For my eyes, O Lord, O Lord, are toward You; In You I hope; take not my soul away.
+PSA.140:9 Keep me from the snares they set for me, And from the stumbling blocks of those who work lawlessness.
+PSA.140:10 Sinners shall fall into their own net; I am alone, until I escape.
+
+## Chapter 141
+
+PSA.141:1 Understanding; by David, when he was in the cave; a prayer.
+PSA.141:2 I cried to the Lord with my voice, With my voice I prayed to the Lord.
+PSA.141:3 I shall pour out my supplication before Him; I shall declare my affliction in His presence.
+PSA.141:4 When my spirit fainted within me, Then You knew my paths; For on the way I was going, they hid a trap for me.
+PSA.141:5 I looked on my right, and saw There was no one who knew me; Refuge failed me, And there was no one who cared for my soul.
+PSA.141:6 I cried to You, O Lord; I said, "You are my hope, My portion in the land of the living.
+PSA.141:7 Attend to my supplication, For I was humbled exceedingly; Deliver me from my persecutors, For they are stronger than I.
+PSA.141:8 Bring my soul out of prison To give thanks to Your name, O Lord; The righteous shall wait for me, until You reward me."
 
 ## Chapter 142
 
-PSA.142:1 A psalm by David, when his son persecuted him. O Lord, hear my prayer; Give ear to my supplication in Your truth; Answer me in Your righteousness; PSA.142:2 Do not enter into judgment with Your servant, For no one living shall become righteous in Your sight. PSA.142:3 For the enemy persecuted my soul; He hum bled my life to the ground; He caused me to dwell in dark places as one long dead, PSA.142:4 And my spirit was in anguish within me; My heart was troubled within me. PSA.142:5 I rem em bered the day s of old, And I m editated on all Your works; I m editated on the works of Your hands. PSA.142:6 I spread out my hands to You; My soul thirsts for You like a waterless land. (Pause)
-PSA.142:7 Hear me speedily, O Lord; My spirit faints within me; Turn not Your face from me, Lest I become like those who go down into the pit. PSA.142:8 Cause me to hear Your mercy in the morning, For I hope in You; Make me know, O Lord, the way wherein I should walk, For I lift up my soul to You. PSA.142:9 Deliver me from my enemies, O Lord, For to You I flee for refuge. PSA.142:10 Teach me to do Your will, for You are my God; Your good Spirit shall guide me in the land of uprightness. PSA.142:11 For Your name's sake, O Lord, give me life; In Your righteousness You shall bring my soul out of affliction. PSA.142:12 In Your mercy You shall destroy my enemies; You shall utterly destroy all who afflict my soul, For I am Your servant. ## Chapter 143
+PSA.142:1 A psalm by David, when his son persecuted him. O Lord, hear my prayer; Give ear to my supplication in Your truth; Answer me in Your righteousness;
+PSA.142:2 Do not enter into judgment with Your servant, For no one living shall become righteous in Your sight.
+PSA.142:3 For the enemy persecuted my soul; He humbled my life to the ground; He caused me to dwell in dark places as one long dead,
+PSA.142:4 And my spirit was in anguish within me; My heart was troubled within me.
+PSA.142:5 I remembered the days of old, And I meditated on all Your works; I meditated on the works of Your hands.
+PSA.142:6 I spread out my hands to You; My soul thirsts for You like a waterless land. (Pause)
+PSA.142:7 Hear me speedily, O Lord; My spirit faints within me; Turn not Your face from me, Lest I become like those who go down into the pit.
+PSA.142:8 Cause me to hear Your mercy in the morning, For I hope in You; Make me know, O Lord, the way wherein I should walk, For I lift up my soul to You.
+PSA.142:9 Deliver me from my enemies, O Lord, For to You I flee for refuge.
+PSA.142:10 Teach me to do Your will, for You are my God; Your good Spirit shall guide me in the land of uprightness.
+PSA.142:11 For Your name's sake, O Lord, give me life; In Your righteousness You shall bring my soul out of affliction.
+PSA.142:12 In Your mercy You shall destroy my enemies; You shall utterly destroyall who afflict my soul, For I am Your servant.
 
-PSA.143:1 By David; against Goliath. Blessed is the Lord my God, Who trains my hands for battle, My fingers for war; PSA.143:2 He is my mercy and my refuge, My helper and my deliverer, My protector in whom I hope, Who subjects my people under me. PSA.143:3 O Lord, what is man, that You are made known to him, Or the son of man, that You consider him? PSA.143:4 Man is become like vanity, His day s like a passing shadow. PSA.143:5 O Lord, bow down Your heavens and descend; Touch the m ountains, and they shall sm oke; PSA.143:6 Flash lightning, and You shall scatter them; Shoot Your arrows, and You shall trouble them. PSA.143:7 Send forth Your hand from on high; Deliver me and save me from great waters, From the hand of the sons of foreigners, PSA.143:8 Whose mouth speaks empty things, And their right hand is the right hand of wrongdoing. PSA.143:9 O God, I shall sing a new song to You; I shall play to You on a harp of ten strings, PSA.143:10 To Him who gives salvation to kings, Who redeem s Dav id His servant from the evil sword. PSA.143:11 Deliver me and save me from the hand of the sons of foreigners, Whose mouth speaks empty things, And their right hand is a right hand of wrongdoing, PSA.143:12 Whose sons are like new plants Matured in their y outh, Their daughters beautified, Adorned like a temple; PSA.143:13 Their storehouses are full, Bursting forth with abundance on all sides; Their sheep give many births, Multiply ing in their streets; PSA.143:14 Their oxen are fat; There is no gap in their fence or passage, Nor outcry in their streets. PSA.143:15 They call the people blessed, whose lot this is; But rather, blessed is the people Whose God is the Lord. ## Chapter 144
+## Chapter 143
 
-PSA.144:1 A praise by David. I shall exalt You, my God and my King, And I shall bless Your name forever and unto ages of ages. PSA.144:2 Every day I shall bless You And praise Your name forever and unto ages of ages. PSA.144:3 Great is the Lord and exceedingly praiseworthy, And His greatness has no lim it. PSA.144:4 Generation and generation shall praise Your works, And they shall declare Your power. PSA.144:5 They shall speak of the m agnificence of the glory of Your holiness, And they shall describe Your wonders. PSA.144:6 They shall also speak of the power of Your awesom e deeds And describe Your great m ajesty. PSA.144:7 They shall ov erflow with the m em ory of Your rich goodness, And shall greatly rejoice in Your righteousness. PSA.144:8 The Lord is gracious and m erciful, Longsuffering and abundant in mercy. PSA.144:9 The Lord is good to all, And His mercies are upon all His works. PSA.144:10 O Lord, let all Your works praise You And Your holy ones bless You. PSA.144:11 They shall tell of Your kingdom 's glory, And they shall speak of Your power, PSA.144:12 That all the sons of men may know Your power And the glory of Your kingdom 's m agnificence. PSA.144:13 Your kingdom is a kingdom of all the ages, And Your dom inion is from generation to generation. PSA.144:14 The Lord is faithful in His words And holy in all His works. PSA.144:15 The Lord supports all who stum ble And restores all who are broken down. PSA.144:16 All eyes hope in You, And You give them their food in due season. PSA.144:17 You open Your hand And fill every living thing with Your pleasure. PSA.144:18 The Lord is righteous in all His way s And holy in all His works. PSA.144:19 The Lord is near to all who call on Him, To all who call upon Him in truth. PSA.144:20 He shall do the will of those who fear Him, And He shall hear their supplications and save them. PSA.144:21 The Lord keeps all who love Him, But all the sinners He shall utterly destroy. PSA.144:22 My mouth shall speak the Lord's praise, And let all flesh bless His holy name Forever and unto ages of ages. ## Chapter 145
+PSA.143:1 By David; against Goliath. Blessed is the Lord my God, Who trains my hands for battle, My fingers for war;
+PSA.143:2 He is my mercy and my refuge, My helper and my deliverer, My protector in whom I hope, Who subjects my people under me.
+PSA.143:3 O Lord, what is man, that You are made known to him, Or the son of man, that You consider him?
+PSA.143:4 Man is become like vanity, His days like a passing shadow.
+PSA.143:5 O Lord, bow down Your heavens and descend; Touch the mountains, and they shall smoke;
+PSA.143:6 Flash lightning, and You shall scatter them; Shoot Your arrows, and You shall trouble them.
+PSA.143:7 Send forth Your hand from on high; Deliver me and save me from great waters, From the hand of the sons of foreigners,
+PSA.143:8 Whose mouth speaks empty things, And their right hand is the right hand of wrongdoing.
+PSA.143:9 O God, I shall sing a new song to You; I shall play to You on a harp of ten strings,
+PSA.143:10 To Him who gives salvation to kings, Who redeems David His servant from the evil sword.
+PSA.143:11 Deliver me and save me from the hand of the sons of foreigners, Whose mouth speaks empty things, And their right hand is a right hand of wrongdoing,
+PSA.143:12 Whose sons are like new plants Matured in their youth, Their daughters beautified, Adorned like a temple;
+PSA.143:13 Their storehouses are full, Bursting forth with abundance on all sides; Their sheep give many births, Multiplying in their streets;
+PSA.143:14 Their oxen are fat; There is no gap in their fence or passage, Nor outcry in their streets.
+PSA.143:15 They call the people blessed, whose lot this is; But rather, blessed is the people Whose God is the Lord.
 
-PSA.145:1 Alleluia; of Aggeus and Zacharias. Praise the Lord, O my soul. PSA.145:2 I shall praise the Lord while I live; I shall sing to my God as long as I exist. PSA.145:3 Do not trust in rulers and in the sons of men, In whom there is no salvation. PSA.145:4 His breath shall go out of him, and he shall return to his earth; On that day all his thoughts shall perish. PSA.145:5 Blessed is he whose help is the God of Jacob; His hope is in the Lord his God, PSA.145:6 Who made heaven and earth, The sea and every thing in them, Who keeps truth forever, PSA.145:7 Who executes justice for the wronged, Who provides food for the hungry. The Lord frees those bound. PSA.145:8 The Lord restores those broken down. The Lord gives wisdom to the blind. The Lord loves the righteous. PSA.145:9 The Lord keeps watch over resident aliens. He shall adopt the orphan and the widow, But He shall destroy the way of sinners. PSA.145:10 The Lord shall reign forever: Your God, O Zion, to all generations. ## Chapter 146
+## Chapter 144
 
-PSA.146:1 (147:1-11) 1Alleluia; of Aggeus and Zacharias. Praise the Lord, for a psalm is a good thing; Let praise be sweet to our God. PSA.146:2 The Lord is building Jerusalem, And He shall gather together the dispersion of Israel; PSA.146:3 He heals the brokenhearted And He binds up all their wounds. PSA.146:4 He num bers the multitude of stars And calls them all by name. PSA.146:5 Great is our Lord, and great is His strength; His understanding exceeds every m easure. PSA.146:6 The Lord raises up the gentle, But hum bles sinners to the ground. PSA.146:7 Begin with thanksgiving to the Lord; Sing to our God with the harp, PSA.146:8 To Him who covers heaven with clouds, Who prepares rain for the earth, Who m akes grass grow on the m ountains And the green growth for the service of men, PSA.146:9 To Him who gives the cattle their food And who gives food to the nestlings of ravens When they call upon Him. PSA.146:10 He shall not take pleasure in the strength of a horse, Nor be pleased with the legs of a man; PSA.146:11 The Lord is pleased with those who fear Him, And with those who hope in His mercy. ## Chapter 147
+PSA.144:1 A praise by David. I shall exalt You, my God and my King, And I shall bless Your name forever and unto ages of ages.
+PSA.144:2 Every day I shall bless You And praise Your name forever and unto ages of ages.
+PSA.144:3 Great is the Lord and exceedingly praiseworthy, And His greatness has no limit.
+PSA.144:4 Generation and generation shall praise Your works, And they shall declare Your power.
+PSA.144:5 They shall speak of the magnificence of the glory of Your holiness, And they shall describe Your wonders.
+PSA.144:6 They shall also speak of the power of Your awesome deeds And describe Your great majesty.
+PSA.144:7 They shall overflow with the memory of Your rich goodness, And shall greatlyrejoice in Your righteousness.
+PSA.144:8 The Lord is gracious and merciful, Longsuffering and abundant in mercy.
+PSA.144:9 The Lord is good to all, And His mercies are upon all His works.
+PSA.144:10 O Lord, let all Your works praise You And Your holy ones bless You.
+PSA.144:11 They shall tell of Your kingdom's glory, And they shall speak of Your power,
+PSA.144:12 That all the sons of men may know Your power And the glory of Your kingdom's magnificence.
+PSA.144:13 Your kingdom is a kingdom of all the ages, And Your dominion is from generation to generation.
+PSA.144:14 The Lord is faithful in His words And holy in all His works.
+PSA.144:15 The Lord supports all who stumble And restores all who are broken down.
+PSA.144:16 All eyes hope in You, And You give them their food in due season.
+PSA.144:17 You open Your hand And fill every living thing with Your pleasure.
+PSA.144:18 The Lord is righteous in all His ways And holy in all His works.
+PSA.144:19 The Lord is near to all who call on Him, To all who call upon Him in truth.
+PSA.144:20 He shall do the will of those who fear Him, And He shall hear their supplications and save them.
+PSA.144:21 The Lord keeps all who love Him, But all the sinners He shall utterly destroy.
+PSA.144:22 My mouth shall speak the Lord's praise, And let all flesh bless His holy name Forever and unto ages of ages.
 
-PSA.147:1 (147:12-20) 1Alleluia; of Aggeus and Zacharias. Praise the Lord, O Jerusalem; Praise your God, O Zion, PSA.147:2 For He strengthens the bars of your gates; He blesses your children within you; PSA.147:3 He who grants your borders peace, And fills you with the finest of wheat; PSA.147:4 He who sends His teaching to earth Until His word shall run swiftly, PSA.147:5 Giv ing snow like wool, Sprinkling m ist like ashes, PSA.147:6 Casting His ice like m orsels; Who shall withstand His winter? PSA.147:7 He shall send His word and m elt them; His wind shall blow, and the waters shall flow, PSA.147:8 He who declares His word to Jacob, His ordinances and judgments to Israel. PSA.147:9 He did not do so with other nations, Nor did He show His judgments to them. ## Chapter 148
+## Chapter 145
 
-PSA.148:1 Alleluia; of Aggeus and Zacharias. Praise the Lord from the heavens; Praise Him in the highest. PSA.148:2 Praise Him, all you His angels; Praise Him, all you His hosts. PSA.148:3 Praise Him, sun and moon; Praise Him, all you stars and light. PSA.148:4 Praise Him, you heavens of heavens, And you waters above the heavens. PSA.148:5 Let them praise the Lord's name, For He spoke, and they were made; He commanded, and they were created. PSA.148:6 He established them forever and unto ages of ages; He set forth His ordinance, and it shall not pass away. PSA.148:7 Praise the Lord from the earth, You dragons and all the deeps, PSA.148:8 Fire and hail, snow and ice, Storm y wind, which perform His word, PSA.148:9 Mountains and all the hills, Fruitful trees and all cedars, PSA.148:10 Wild animals and all cattle, Creeping things and fly ing birds, PSA.148:11 Kings of the earth and all peoples, Princes and all judges of the earth, PSA.148:12 Young men and m aidens, Elders with y ounger, PSA.148:13 Let them praise the Lord's name, For His name alone is exalted; His thanksgiving is in earth and heaven. PSA.148:14 And He shall exalt the horn of His people, A hy m n for all His saints, For the children of Israel, a people who draw near to Him. ## Chapter 149
+PSA.145:1 Alleluia; of Aggeus and Zacharias. Praise the Lord, O my soul.
+PSA.145:2 I shall praise the Lord while I live; I shall sing to my God as long as I exist.
+PSA.145:3 Do not trust in rulers and in the sons of men, In whom there is no salvation.
+PSA.145:4 His breath shall go out of him, and he shall return to his earth; On that day all his thoughts shall perish.
+PSA.145:5 Blessed is he whose help is the God of Jacob; His hope is in the Lord his God,
+PSA.145:6 Who made heaven and earth, The sea and every thing in them, Who keeps truth forever,
+PSA.145:7 Who executes justice for the wronged, Who provides food for the hungry. The Lord frees those bound.
+PSA.145:8 The Lord restores those broken down. The Lord gives wisdom to the blind. The Lord loves the righteous.
+PSA.145:9 The Lord keeps watch over resident aliens. He shall adopt the orphan and the widow, But He shall destroy the way of sinners.
+PSA.145:10 The Lord shall reign forever: Your God, O Zion, to all generations.
 
-PSA.149:1 Alleluia. Sing to the Lord a new song, His praise in the assem bly of His holy ones. PSA.149:2 Let Israel be glad in Him who made him, And let the children of Zion greatly rejoice in their King. PSA.149:3 Let them praise His name with dance; With tam bourine and harp let them sing to Him; PSA.149:4 For the Lord is pleased with His people, And He shall exalt the gentle with salvation. PSA.149:5 The holy ones shall boast in glory, And they shall greatly rejoice on their beds; PSA.149:6 The high praise of God shall be in their mouth And a two-edged sword in their hand, PSA.149:7 To deal retribution to the nations, Reproving among the peoples, PSA.149:8 To shackle their kings with chains And their nobles with fetters of iron, PSA.149:9 To fulfill among them the written judgment: This glory have all His holy ones. ## Chapter 150
+## Chapter 146
 
-PSA.150:1 Alleluia. Praise God in His saints; Praise Him in the firm am ent of His power; PSA.150:2 Praise Him for His m ighty acts; Praise Him according to the abundance of His greatness. PSA.150:3 Praise Him with the sound of a trum pet; Praise Him with the harp and ly re; PSA.150:4 Praise Him with tim brel and dance; Praise Him with strings and flute; PSA.150:5 Praise Him with resounding cy m bals; Praise Him with trium phant cy m bals; PSA.150:6 Let every thing that breathes praise the Lord. Alleluia. ## Chapter 151
+PSA.146:1 (147:1-11) 1Alleluia; of Aggeus and Zacharias. Praise the Lord, for a psalm is a good thing; Let praise be sweet to our God.
+PSA.146:2 The Lord is building Jerusalem, And He shall gather together the dispersion of Israel;
+PSA.146:3 He heals the brokenhearted And He binds up all their wounds.
+PSA.146:4 He numbers the multitude of stars And calls them all by name.
+PSA.146:5 Great is our Lord, and great is His strength; His understanding exceeds every measure.
+PSA.146:6 The Lord raises up the gentle, But humbles sinners to the ground.
+PSA.146:7 Begin with thanksgiving to the Lord; Sing to our God with the harp,
+PSA.146:8 To Him who covers heaven with clouds, Who prepares rain for the earth, Who makes grass grow on the mountains And the green growth for the service of men,
+PSA.146:9 To Him who gives the cattle their food And who gives food to the nestlings of ravens When they call upon Him.
+PSA.146:10 He shall not take pleasure in the strength of a horse, Nor be pleased with the legs of a man;
+PSA.146:11 The Lord is pleased with those who fear Him, And with those who hope in His mercy.
 
-PSA.151:1 This is a psalm written with David's own hand, although outside the number, when he fought in single combat with Goliath. I was sm all among my brothers And the y oungest in my father's house; I tended my father's sheep. PSA.151:2 My hands built a m usical instrum ent; My fingers tuned a ly re. PSA.151:3 And who shall tell my Lord? The Lord Him self, He Him self hears. PSA.151:4 He sent forth His Angel And took me from my father's sheep; And he anointed me with his anointing oil. PSA.151:5 My brothers were handsom e and tall, But the Lord took no pleasure in them. PSA.151:6 I went out to m eet the foreigner, And he cursed me with his idols; PSA.151:7 But I drew his own sword and beheaded him, And rem ov ed disgrace from the children of Israel.
+## Chapter 147
+
+PSA.147:1 (147:12-20) 1Alleluia; of Aggeus and Zacharias. Praise the Lord, O Jerusalem; Praise your God, O Zion,
+PSA.147:2 For He strengthens the bars of your gates; He blesses your children within you;
+PSA.147:3 He who grants your borders peace, And fills you with the finest of wheat;
+PSA.147:4 He who sends His teaching to earth Until His word shall run swiftly,
+PSA.147:5 Giving snow like wool, Sprinkling mist like ashes,
+PSA.147:6 Casting His ice like morsels; Who shall withstand His winter?
+PSA.147:7 He shall send His word and melt them; His wind shall blow, and the waters shall flow,
+PSA.147:8 He who declares His word to Jacob, His ordinances and judgments to Israel.
+PSA.147:9 He did not do so with other nations, Nor did He show His judgments to them.
+
+## Chapter 148
+
+PSA.148:1 Alleluia; of Aggeus and Zacharias. Praise the Lord from the heavens; Praise Him in the highest.
+PSA.148:2 Praise Him, all you His angels; Praise Him, all you His hosts.
+PSA.148:3 Praise Him, sun and moon; Praise Him, all you stars and light.
+PSA.148:4 Praise Him, you heavens of heavens, And you waters above the heavens.
+PSA.148:5 Let them praise the Lord's name, For He spoke, and they were made; He commanded, and they were created.
+PSA.148:6 He established them forever and unto ages of ages; He set forth His ordinance, and it shall not pass away.
+PSA.148:7 Praise the Lord from the earth, You dragons and all the deeps,
+PSA.148:8 Fire and hail, snow and ice, Stormy wind, which perform His word,
+PSA.148:9 Mountains and all the hills, Fruitful trees and all cedars,
+PSA.148:10 Wild animals and all cattle, Creeping things and flying birds,
+PSA.148:11 Kings of the earth and all peoples, Princes and all judges of the earth,
+PSA.148:12 Young men and maidens, Elders with younger,
+PSA.148:13 Let them praise the Lord's name, For His name alone is exalted; His thanksgiving is in earth and heaven.
+PSA.148:14 And He shall exalt the horn of His people, A hymn for all His saints, For the children of Israel, a people who draw near to Him.
+
+## Chapter 149
+
+PSA.149:1 Alleluia. Sing to the Lord a new song, His praise in the assembly of His holy ones.
+PSA.149:2 Let Israel be glad in Him who made him, And let the children of Zion greatlyrejoice in their King.
+PSA.149:3 Let them praise His name with dance; With tambourine and harp let them sing to Him;
+PSA.149:4 For the Lord is pleased with His people, And He shall exalt the gentle with salvation.
+PSA.149:5 The holy ones shall boast in glory, And they shall greatlyrejoice on their beds;
+PSA.149:6 The high praise of God shall be in their mouth And a two-edged sword in their hand,
+PSA.149:7 To deal retribution to the nations, Reproving among the peoples,
+PSA.149:8 To shackle their kings with chains And their nobles with fetters of iron,
+PSA.149:9 To fulfill among them the written judgment: This glory have all His holy ones.
+
+## Chapter 150
+
+PSA.150:1 Alleluia. Praise God in His saints; Praise Him in the firmament of His power;
+PSA.150:2 Praise Him for His mighty acts; Praise Him according to the abundance of His greatness.
+PSA.150:3 Praise Him with the sound of a trumpet; Praise Him with the harp and lyre;
+PSA.150:4 Praise Him with timbrel and dance; Praise Him with strings and flute;
+PSA.150:5 Praise Him with resounding cymbals; Praise Him with triumphant cymbals;
+PSA.150:6 Let every thing that breathes praise the Lord. Alleluia.
+
+## Chapter 151
+
+PSA.151:1 This is a psalm written with David's own hand, although outside the number, when he fought in single combat with Goliath. I was small among my brothers And the youngest in my father's house; I tended my father's sheep.
+PSA.151:2 My hands built a musical instrument; My fingers tuned a lyre.
+PSA.151:3 And who shall tell my Lord? The Lord Himself, He Himself hears.
+PSA.151:4 He sent forth His Angel And took me from my father's sheep; And he anointed me with his anointing oil.
+PSA.151:5 My brothers were handsome and tall, But the Lord took no pleasure in them.
+PSA.151:6 I went out to meet the foreigner, And he cursed me with his idols;
+PSA.151:7 But I drew his own sword and beheaded him, And removed disgrace from the children of Israel.
