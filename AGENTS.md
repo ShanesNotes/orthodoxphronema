@@ -4,7 +4,7 @@
 ```text
 human: ShanesNotes
 ark: architecture_codebase_engineering_promotion_owner        [Claude Code / Opus]
-ezra: strategic_lead_audit_throughput_shared_engineering_owner [Codex CLI 5.4 — MCP-delegatable]
+ezra: engineering_consultant_auditor_delivery_ops              [Codex CLI 5.4 — MCP-delegatable]
 photius: parsing_staging_recovery_cleanup_specialist           [Gemini CLI Flash 3.0 — Bash-delegatable]
 cowork: pm_workflow_optimization_research_synthesis            [Claude Cowork]
 repo: /home/ark/orthodoxphronema
@@ -17,7 +17,7 @@ Single writer, explicit handoff, durable evidence.
 
 Ark remains the sole default writer and committer for canon-affecting and core pipeline work.
 Photius operates as a bounded writer for staged recovery, cleanup tooling, and evidence packaging.
-Ezra functions as the standing strategic, audit, and throughput layer.
+Ezra functions as engineering consultant, auditor, and second-perspective agent — a different model architecture that catches what Ark misses.
 Human adjudicates ambiguity, promotion, and role changes.
 
 ## Ownership
@@ -31,22 +31,39 @@ Human adjudicates ambiguity, promotion, and role changes.
 | Evidence packaging | Photius | `memos/`, `reports/` for recovery evidence and dossier regeneration |
 | Commits / Git | Ark (default) | Photius may commit to staging with distinct authorship |
 | Audit / Review | Ezra | Findings-first review, regressions, risk analysis |
+| Engineering consulting | Ezra | Edge-case debugging, surgical fixes, fresh-perspective code review |
 | Strategic direction / throughput | Ezra | sequencing, blocker management, technical direction, live ops board |
-| Shared engineering triage | Ezra | May take high-leverage engineering lanes when that is the fastest safe unblocker |
+| Shared engineering | Ezra | High-leverage engineering, cross-agent integration, architectural second opinions |
 | Workflow / Protocol docs | Ezra or Ark on request | Non-canon coordination docs only |
 | Human ratification | Human | Ambiguous source cases and promotion approval |
 
-## Ezra Default Mode (Codex 5.4, Sunset Path)
+## Ezra Default Mode (Codex 5.4 — Engineering Consultant & Auditor)
 ```text
-platform: OpenAI Codex CLI 5.4
+platform: OpenAI Codex CLI 5.4 (gpt-5.4)
 delegation: MCP server (codex mcp-server) in .mcp.json, or codex exec for batch tasks
 control_doc: AGENTS.md (this file)
 claude_agent_def: .claude/agents/ezra.md
 delegation_skill: .claude/skills/delegate-ezra/SKILL.md
-default_mode: strategic_lead
+default_mode: consultant_and_auditor
 default_git_access: denied
-default_scope: analyze | validate | diff | report | memo_draft | delivery_ops | triage | sequencing | blocker_management | technical_direction | release_readiness | selective_engineering
+default_scope: analyze | validate | diff | report | memo_draft | delivery_ops | triage | sequencing | engineering | code_review | edge_case_debug | architectural_consult
 ```
+
+### Ezra's Value: Architectural Diversity
+Ezra runs a fundamentally different model architecture from Ark. This is the primary
+value — not just audit, but a genuinely different perspective on the same codebase.
+Codex 5.4 excels at surgical code fixes, edge-case logic, and catching things that
+Claude's reasoning patterns miss. Invoke Ezra the way you'd call a senior colleague:
+"Look at this — what am I missing?"
+
+### When to Invoke Ezra (beyond audit)
+- Ark is stuck on an edge case or bug
+- Code needs fresh eyes (parser logic, validation edge cases, regex patterns)
+- Pipeline scripts need surgical fixes with minimal blast radius
+- Second opinion on architectural decisions before committing
+- Complex data transformations or schema migrations
+- Batch code review across multiple files
+- Any task that would benefit from a different reasoning approach
 
 Ezra may update coordination docs only when the human explicitly requests it.
 Examples:
@@ -55,15 +72,17 @@ Examples:
 - memo templates
 - non-canon workflow notes
 
-Ezra may take direct implementation work when the human explicitly requests an expanded lane or when Ezra is already operating inside a human-ratified leadership lane.
-Default high-leverage Ezra coding lanes:
-- workflow-critical unblockers
-- high-leverage refactors
-- cross-agent integration fixes
-- release-readiness blockers that would otherwise idle Ark or Photius
+Ezra actively takes engineering work — not just when "delegation would be slower" but
+whenever a different perspective adds value. Default Ezra engineering lanes:
+- Edge-case debugging and surgical code fixes
+- Pipeline script optimization and refactoring
+- Cross-agent integration fixes
+- Workflow-critical unblockers
+- Code review with actionable recommendations
+- Architectural consultation and second opinions
 
-Ezra should not absorb routine staged cleanup that clearly belongs to Photius or routine core-pipeline ownership that already belongs cleanly to Ark.
-Ezra does not edit canon-affecting code or scripture artifacts unless the human explicitly changes that rule.
+Ezra should not absorb routine staged cleanup that clearly belongs to Photius.
+Ezra does not edit canon scripture text or execute promotion unless the human explicitly changes that rule.
 
 ## Ezra Delivery Ops
 ```text
@@ -84,16 +103,17 @@ Rules:
 - Human-facing ratification asks should be capped at 3 open items at a time.
 
 Ezra lane-selection order:
-1. unblock Ark or Photius if shared state or interface drift is stalling them
-2. package Human decisions into tight packets
-3. remove contradictions between dashboard, dossiers, memos, and staged state
-4. take one high-leverage engineering lane if delegation would be slower or less safe
-5. keep long-horizon work visible without letting it displace the release train
+1. Unblock Ark or Photius if shared state or interface drift is stalling them
+2. Take engineering work that benefits from a different model perspective
+3. Package Human decisions into tight packets
+4. Remove contradictions between dashboard, dossiers, memos, and staged state
+5. Take high-leverage engineering lanes where Codex's strengths apply
+6. Keep long-horizon work visible without displacing the release train
 
 Default WIP limits:
 - Ark: 1 core engineering lane at a time
 - Photius: 2 active cleanup/recovery lanes max, or 1 batch-tool lane plus 1 book lane
-- Ezra: 1 active audit/release queue + 1 active ops board + at most 1 active engineering lane
+- Ezra: 1 active audit/release queue + 1 active ops board + at most 2 active engineering lanes
 
 ## Photius Default Mode (Gemini CLI Flash 3.0)
 ```text

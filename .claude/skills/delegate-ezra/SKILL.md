@@ -1,15 +1,15 @@
 ---
 name: delegate-ezra
 description: >
-  Delegate tasks to Ezra (Codex 5.4 / gpt-5.4) for strategic audit, validation
-  review, risk analysis, delivery ops triage, and high-leverage engineering.
-  Ezra runs as an MCP server via `codex mcp-server` — Ark can invoke Codex tools
-  directly. Use when a task requires: book audit, regression check, cross-agent
-  integration review, release readiness assessment, ops board refresh, code review,
-  or when Ark wants a second opinion on architectural decisions. Trigger for
-  "delegate to ezra", "have ezra audit", "ezra review", "codex check", or any
-  audit/strategic task. Do NOT use for routine cleanup (use delegate-photius)
-  or canon promotion.
+  Delegate tasks to Ezra (Codex 5.4 / gpt-5.4) — engineering consultant, auditor,
+  and second-perspective agent. Ezra runs as an MCP server via `codex mcp-server`.
+  Use when: Ark is stuck on an edge case, code needs fresh eyes, surgical fixes
+  are needed, you want a second opinion on architecture, book audit, regression
+  check, code review, delivery ops triage, pipeline debugging, or any task that
+  benefits from a different model's reasoning. Trigger for "delegate to ezra",
+  "ask ezra", "have ezra look at", "codex check", "second opinion", "fresh eyes",
+  "edge case", or when Ark hits a wall. Do NOT use for routine bulk cleanup
+  (use delegate-photius) or canon promotion.
 allowed-tools: "Bash(codex:*) Read Grep Glob"
 metadata:
   author: Orthodox Phronema Archive
@@ -127,23 +127,55 @@ Global config at `~/.codex/config.toml` sets:
 AGENTS.md is auto-injected into Codex sessions (walk-up discovery from cwd).
 
 ## Ezra Strengths (delegate these)
+
+**Engineering consulting (the big value-add):**
+- Edge-case debugging — when Ark's approach isn't working, Codex reasons differently
+- Surgical code fixes — minimal-diff fixes to tricky logic
+- Fresh-eyes code review — catches things Ark's patterns miss
+- Architectural second opinions — "does this design hold up?"
+- Complex regex and parsing logic — different model, different pattern recognition
+- Pipeline script optimization and refactoring
+
+**Audit and delivery ops (standing responsibilities):**
 - Book audits (V1-V12 + purity + coordination surfaces)
 - Regression analysis after pipeline changes
 - Cross-agent integration checks (dashboard vs dossier vs staged state)
 - Release readiness assessment
-- Code review (`codex exec review`)
-- Strategic sequencing and priority recommendations
-- High-leverage engineering fixes
+- Batch code review (`codex exec review`)
 - Ops board refresh after Ark/Photius sessions
 
 ## Keep with Ark (don't delegate these)
-- Canon promotion execution
-- Parser architecture implementation
-- Schema version bumps
+- Canon promotion execution (Ark + Human only)
+- Canon scripture text edits
 - Git commits to canon/
+- Final architectural decisions (Ezra advises, Ark decides)
 
-## Audit Shortcuts
+## Shortcuts
 
+### Engineering Consulting
+```bash
+# "I'm stuck — take a look at this" (high effort, fresh perspective)
+codex exec -c model_reasoning_effort=high --sandbox read-only \
+  -C /home/ark/orthodoxphronema \
+  "Read [FILE]. I'm seeing [PROBLEM]. What am I missing? Suggest a fix with minimal changes."
+
+# Edge-case debugging (high effort)
+codex exec -c model_reasoning_effort=high --sandbox workspace-write \
+  -C /home/ark/orthodoxphronema \
+  "Debug [SCRIPT]. It fails on [INPUT]. Find the root cause and apply a surgical fix."
+
+# Architectural second opinion (xhigh effort)
+codex exec -c model_reasoning_effort=xhigh --sandbox read-only \
+  -C /home/ark/orthodoxphronema \
+  "Review [DESIGN DECISION]. Read the relevant files. Does this hold up? What would you do differently?"
+
+# Full repo code review (high effort)
+codex exec review -c model_reasoning_effort=high \
+  -C /home/ark/orthodoxphronema \
+  -o /tmp/ezra_review_$(date +%Y%m%d).md
+```
+
+### Audit & Validation
 ```bash
 # Full book audit (high effort)
 codex exec -c model_reasoning_effort=high --sandbox read-only \
@@ -164,11 +196,6 @@ codex exec -c model_reasoning_effort=low --sandbox read-only \
 codex exec --sandbox read-only \
   -C /home/ark/orthodoxphronema \
   "Verify schemas/anchor_registry.json integrity. Check for orphans and mismatches against canon/."
-
-# Full repo code review (high effort)
-codex exec review -c model_reasoning_effort=high \
-  -C /home/ark/orthodoxphronema \
-  -o /tmp/ezra_review_$(date +%Y%m%d).md
 ```
 
 ## After Delegation
