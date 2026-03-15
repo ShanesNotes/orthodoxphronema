@@ -67,6 +67,7 @@ has_additions: false
 1CH.1:39 Hadad died also. And the chiefs of Edom were Chief Timnah, Chief Aliah, Chief Jetheth,
 1CH.1:40 Chief Aholibamah, Chief Elah, Chief Pinon,
 1CH.1:41 Chief Kenaz, Chief Teman, Chief Mibzar,
+1CH.1:42 Chief Magdiel, and Chief Iram. These were the chiefs of Edom.
 
 ### The Kings of Edom
 
@@ -564,7 +565,8 @@ has_additions: false
 
 ### David Is King of All Israel
 
-1CH.10:13 So Saul died for his lawlessness which he committed against the Lord, according to the Word of the Lord, because he did not keep it, and because Saul sought counsel of a wizard and Samuel the prophet answered him; so He slew him and turned the kingdom over to David the son of Jesse.
+1CH.10:13 So Saul died for his lawlessness which he committed against the Lord, according to the Word of the Lord, because he did not keep it, and because Saul sought counsel of a wizard and Samuel the prophet answered him;
+1CH.10:14 so He slew him and turned the kingdom over to David the son of Jesse.
 ## Chapter 11
 
 1CH.11:1 Then all Israel came to David at Hebron, saying, “Indeed, we are your bone and your flesh.
@@ -1218,4 +1220,5 @@ has_additions: false
 1CH.29:26 Thus David the son of Jesse reigned over Israel
 1CH.29:27 forty years, in Hebron for seven years and in Jerusalem for thirty-three years.
 1CH.29:28 So he died in a good old age, full of days, riches, and glory. Solomon his son reigned in his stead.
-1CH.29:29 And the remaining works of King David, the former and the latter, are written in the book of Samuel the seer, in the book of Nathan the prophet, and in the book of Gad the seer, concerning all his reign, his power, and the events that happened to him, to Israel, and to all the kingdoms of the lands.
+1CH.29:29 And the remaining works of King David, the former and the latter, are written in the book of Samuel the seer, in the book of Nathan the prophet, and in the book of Gad the seer,
+1CH.29:30 concerning all his reign, his power, and the events that happened to him, to Israel, and to all the kingdoms of the lands.
