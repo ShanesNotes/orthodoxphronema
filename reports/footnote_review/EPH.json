@@ -2,7 +2,7 @@
   "book_code": "EPH",
   "position": 59,
   "testament": "NT",
-  "status": "complete",
+  "status": "review_required",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/NT/EPH_footnotes.md",
@@ -10,7 +10,7 @@
     "mechanical_clean": true,
     "structural_clean": true,
     "marker_alignment_pass": true,
-    "wikilinks_verified": true,
+    "wikilinks_verified": false,
     "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
     "liturgical_creedal_verified": true
@@ -58,8 +58,8 @@
     "issue_count": 0
   },
   "wikilinks": {
-    "total_refs": 22,
-    "convertible_refs": 0,
+    "total_refs": 23,
+    "convertible_refs": 1,
     "already_linked_refs": 22,
     "unresolved_refs": 0,
     "unresolved_examples": []

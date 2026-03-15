@@ -2,14 +2,14 @@
   "book_code": "NEH",
   "position": 17,
   "testament": "OT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/NEH_footnotes.md",
   "component_status": {
     "mechanical_clean": true,
     "structural_clean": true,
-    "marker_alignment_pass": false,
+    "marker_alignment_pass": true,
     "wikilinks_verified": true,
     "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
@@ -38,14 +38,14 @@
   "footnote_verification": {
     "book_code": "NEH",
     "testament": "OT",
-    "status": "review_required",
+    "status": "pass",
     "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/NEH_footnote_markers.json",
     "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/NEH_footnotes.md",
     "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/NEH.md",
     "counts": {
       "scripture_markers": 14,
       "footnote_entries": 14,
-      "scripture_anchors": 74,
+      "scripture_anchors": 394,
       "valid_marker_anchors": 14,
       "valid_note_anchors": 14
     },
@@ -53,27 +53,9 @@
     "invalid_note_anchors": {},
     "missing_in_notes": [],
     "missing_in_scripture": [],
-    "marker_anchor_gaps": [
-      "NEH.10:16",
-      "NEH.12:19",
-      "NEH.12:28",
-      "NEH.12:41",
-      "NEH.13:30",
-      "NEH.1:2",
-      "NEH.1:3",
-      "NEH.6:7"
-    ],
-    "note_anchor_gaps": [
-      "NEH.10:16",
-      "NEH.12:19",
-      "NEH.12:28",
-      "NEH.12:41",
-      "NEH.13:30",
-      "NEH.1:2",
-      "NEH.1:3",
-      "NEH.6:7"
-    ],
-    "issue_count": 16
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
   },
   "wikilinks": {
     "total_refs": 21,

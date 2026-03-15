@@ -2,14 +2,14 @@
   "book_code": "JON",
   "position": 36,
   "testament": "OT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/JON_footnotes.md",
   "component_status": {
     "mechanical_clean": true,
     "structural_clean": true,
-    "marker_alignment_pass": false,
+    "marker_alignment_pass": true,
     "wikilinks_verified": true,
     "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
@@ -38,14 +38,14 @@
   "footnote_verification": {
     "book_code": "JON",
     "testament": "OT",
-    "status": "review_required",
+    "status": "pass",
     "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/JON_footnote_markers.json",
     "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/JON_footnotes.md",
     "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/JON.md",
     "counts": {
       "scripture_markers": 15,
       "footnote_entries": 15,
-      "scripture_anchors": 21,
+      "scripture_anchors": 48,
       "valid_marker_anchors": 15,
       "valid_note_anchors": 15
     },
@@ -53,29 +53,9 @@
     "invalid_note_anchors": {},
     "missing_in_notes": [],
     "missing_in_scripture": [],
-    "marker_anchor_gaps": [
-      "JON.1:14",
-      "JON.1:2",
-      "JON.1:5",
-      "JON.2:2",
-      "JON.2:3",
-      "JON.2:5",
-      "JON.3:2",
-      "JON.3:6",
-      "JON.4:11"
-    ],
-    "note_anchor_gaps": [
-      "JON.1:14",
-      "JON.1:2",
-      "JON.1:5",
-      "JON.2:2",
-      "JON.2:3",
-      "JON.2:5",
-      "JON.3:2",
-      "JON.3:6",
-      "JON.4:11"
-    ],
-    "issue_count": 18
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
   },
   "wikilinks": {
     "total_refs": 16,

@@ -2,17 +2,17 @@
   "generated": "2026-03-14",
   "book_count": 76,
   "status_counts": {
-    "complete": 26,
-    "review_required": 50
+    "complete": 70,
+    "review_required": 6
   },
   "component_pass_counts": {
     "apostolic_entity_verified": 76,
     "liturgical_creedal_verified": 76,
-    "marker_alignment_pass": 27,
+    "marker_alignment_pass": 76,
     "mechanical_clean": 76,
     "patristic_entity_verified": 76,
     "structural_clean": 76,
-    "wikilinks_verified": 72
+    "wikilinks_verified": 70
   },
   "waves": [
     {
@@ -20,9 +20,9 @@
       "start_book": "GEN",
       "end_book": "DEU",
       "book_count": 5,
-      "complete_books": 0,
+      "complete_books": 5,
       "structural_clean_books": 5,
-      "marker_alignment_books": 0,
+      "marker_alignment_books": 5,
       "patristic_verified_books": 5,
       "apostolic_verified_books": 5,
       "liturgical_creedal_verified_books": 5
@@ -32,9 +32,9 @@
       "start_book": "JOS",
       "end_book": "2SA",
       "book_count": 5,
-      "complete_books": 0,
+      "complete_books": 5,
       "structural_clean_books": 5,
-      "marker_alignment_books": 0,
+      "marker_alignment_books": 5,
       "patristic_verified_books": 5,
       "apostolic_verified_books": 5,
       "liturgical_creedal_verified_books": 5
@@ -44,9 +44,9 @@
       "start_book": "1KI",
       "end_book": "1ES",
       "book_count": 5,
-      "complete_books": 0,
+      "complete_books": 5,
       "structural_clean_books": 5,
-      "marker_alignment_books": 0,
+      "marker_alignment_books": 5,
       "patristic_verified_books": 5,
       "apostolic_verified_books": 5,
       "liturgical_creedal_verified_books": 5
@@ -56,9 +56,9 @@
       "start_book": "EZR",
       "end_book": "EST",
       "book_count": 5,
-      "complete_books": 0,
+      "complete_books": 5,
       "structural_clean_books": 5,
-      "marker_alignment_books": 0,
+      "marker_alignment_books": 5,
       "patristic_verified_books": 5,
       "apostolic_verified_books": 5,
       "liturgical_creedal_verified_books": 5
@@ -68,9 +68,9 @@
       "start_book": "1MA",
       "end_book": "PRO",
       "book_count": 5,
-      "complete_books": 1,
+      "complete_books": 5,
       "structural_clean_books": 5,
-      "marker_alignment_books": 1,
+      "marker_alignment_books": 5,
       "patristic_verified_books": 5,
       "apostolic_verified_books": 5,
       "liturgical_creedal_verified_books": 5
@@ -80,9 +80,9 @@
       "start_book": "ECC",
       "end_book": "SIR",
       "book_count": 5,
-      "complete_books": 0,
+      "complete_books": 5,
       "structural_clean_books": 5,
-      "marker_alignment_books": 0,
+      "marker_alignment_books": 5,
       "patristic_verified_books": 5,
       "apostolic_verified_books": 5,
       "liturgical_creedal_verified_books": 5
@@ -92,9 +92,9 @@
       "start_book": "HOS",
       "end_book": "OBA",
       "book_count": 5,
-      "complete_books": 0,
+      "complete_books": 5,
       "structural_clean_books": 5,
-      "marker_alignment_books": 0,
+      "marker_alignment_books": 5,
       "patristic_verified_books": 5,
       "apostolic_verified_books": 5,
       "liturgical_creedal_verified_books": 5
@@ -104,9 +104,9 @@
       "start_book": "JON",
       "end_book": "HAG",
       "book_count": 5,
-      "complete_books": 0,
+      "complete_books": 5,
       "structural_clean_books": 5,
-      "marker_alignment_books": 0,
+      "marker_alignment_books": 5,
       "patristic_verified_books": 5,
       "apostolic_verified_books": 5,
       "liturgical_creedal_verified_books": 5
@@ -116,9 +116,9 @@
       "start_book": "ZEC",
       "end_book": "BAR",
       "book_count": 5,
-      "complete_books": 0,
+      "complete_books": 4,
       "structural_clean_books": 5,
-      "marker_alignment_books": 0,
+      "marker_alignment_books": 5,
       "patristic_verified_books": 5,
       "apostolic_verified_books": 5,
       "liturgical_creedal_verified_books": 5
@@ -128,9 +128,9 @@
       "start_book": "LAM",
       "end_book": "MAT",
       "book_count": 5,
-      "complete_books": 1,
+      "complete_books": 3,
       "structural_clean_books": 5,
-      "marker_alignment_books": 1,
+      "marker_alignment_books": 5,
       "patristic_verified_books": 5,
       "apostolic_verified_books": 5,
       "liturgical_creedal_verified_books": 5
@@ -140,9 +140,9 @@
       "start_book": "MRK",
       "end_book": "ROM",
       "book_count": 5,
-      "complete_books": 3,
+      "complete_books": 4,
       "structural_clean_books": 5,
-      "marker_alignment_books": 4,
+      "marker_alignment_books": 5,
       "patristic_verified_books": 5,
       "apostolic_verified_books": 5,
       "liturgical_creedal_verified_books": 5
@@ -152,7 +152,7 @@
       "start_book": "1CO",
       "end_book": "PHP",
       "book_count": 5,
-      "complete_books": 5,
+      "complete_books": 3,
       "structural_clean_books": 5,
       "marker_alignment_books": 5,
       "patristic_verified_books": 5,
@@ -213,12 +213,12 @@
       "book_code": "GEN",
       "position": 1,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -229,18 +229,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 274
+      "footnote_issue_count": 0
     },
     {
       "book_code": "EXO",
       "position": 2,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -251,18 +251,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 222
+      "footnote_issue_count": 0
     },
     {
       "book_code": "LEV",
       "position": 3,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -273,18 +273,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 98
+      "footnote_issue_count": 0
     },
     {
       "book_code": "NUM",
       "position": 4,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -295,18 +295,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 86
+      "footnote_issue_count": 0
     },
     {
       "book_code": "DEU",
       "position": 5,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -317,18 +317,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 110
+      "footnote_issue_count": 0
     },
     {
       "book_code": "JOS",
       "position": 6,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -339,18 +339,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 20
+      "footnote_issue_count": 0
     },
     {
       "book_code": "JDG",
       "position": 7,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -361,18 +361,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 72
+      "footnote_issue_count": 0
     },
     {
       "book_code": "RUT",
       "position": 8,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -383,18 +383,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 20
+      "footnote_issue_count": 0
     },
     {
       "book_code": "1SA",
       "position": 9,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -405,18 +405,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 74
+      "footnote_issue_count": 0
     },
     {
       "book_code": "2SA",
       "position": 10,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -427,18 +427,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 106
+      "footnote_issue_count": 0
     },
     {
       "book_code": "1KI",
       "position": 11,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -449,18 +449,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 4
+      "footnote_issue_count": 0
     },
     {
       "book_code": "2KI",
       "position": 12,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -471,18 +471,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 36
+      "footnote_issue_count": 0
     },
     {
       "book_code": "1CH",
       "position": 13,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -493,18 +493,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 20
+      "footnote_issue_count": 0
     },
     {
       "book_code": "2CH",
       "position": 14,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -515,18 +515,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 32
+      "footnote_issue_count": 0
     },
     {
       "book_code": "1ES",
       "position": 15,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -537,18 +537,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 28
+      "footnote_issue_count": 0
     },
     {
       "book_code": "EZR",
       "position": 16,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -559,18 +559,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 34
+      "footnote_issue_count": 0
     },
     {
       "book_code": "NEH",
       "position": 17,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -581,18 +581,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 16
+      "footnote_issue_count": 0
     },
     {
       "book_code": "TOB",
       "position": 18,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -603,18 +603,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 58
+      "footnote_issue_count": 0
     },
     {
       "book_code": "JDT",
       "position": 19,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -625,18 +625,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 28
+      "footnote_issue_count": 0
     },
     {
       "book_code": "EST",
       "position": 20,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -647,18 +647,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 30
+      "footnote_issue_count": 0
     },
     {
       "book_code": "1MA",
       "position": 21,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -669,18 +669,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 78
+      "footnote_issue_count": 0
     },
     {
       "book_code": "2MA",
       "position": 22,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -691,18 +691,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 164
+      "footnote_issue_count": 0
     },
     {
       "book_code": "3MA",
       "position": 23,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -713,7 +713,7 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 160
+      "footnote_issue_count": 0
     },
     {
       "book_code": "PSA",
@@ -741,12 +741,12 @@
       "book_code": "PRO",
       "position": 25,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -757,18 +757,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 446
+      "footnote_issue_count": 0
     },
     {
       "book_code": "ECC",
       "position": 26,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -779,18 +779,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 60
+      "footnote_issue_count": 0
     },
     {
       "book_code": "SNG",
       "position": 27,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -801,18 +801,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 78
+      "footnote_issue_count": 0
     },
     {
       "book_code": "JOB",
       "position": 28,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -823,18 +823,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 102
+      "footnote_issue_count": 0
     },
     {
       "book_code": "WIS",
       "position": 29,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -845,18 +845,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 54
+      "footnote_issue_count": 0
     },
     {
       "book_code": "SIR",
       "position": 30,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -867,18 +867,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 438
+      "footnote_issue_count": 0
     },
     {
       "book_code": "HOS",
       "position": 31,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -889,18 +889,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 50
+      "footnote_issue_count": 0
     },
     {
       "book_code": "AMO",
       "position": 32,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -911,18 +911,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 24
+      "footnote_issue_count": 0
     },
     {
       "book_code": "MIC",
       "position": 33,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -933,18 +933,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 20
+      "footnote_issue_count": 0
     },
     {
       "book_code": "JOL",
       "position": 34,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -955,18 +955,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 36
+      "footnote_issue_count": 0
     },
     {
       "book_code": "OBA",
       "position": 35,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -977,18 +977,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 10
+      "footnote_issue_count": 0
     },
     {
       "book_code": "JON",
       "position": 36,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -999,18 +999,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 18
+      "footnote_issue_count": 0
     },
     {
       "book_code": "NAH",
       "position": 37,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1021,18 +1021,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 12
+      "footnote_issue_count": 0
     },
     {
       "book_code": "HAB",
       "position": 38,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1043,18 +1043,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 28
+      "footnote_issue_count": 0
     },
     {
       "book_code": "ZEP",
       "position": 39,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1065,18 +1065,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 4
+      "footnote_issue_count": 0
     },
     {
       "book_code": "HAG",
       "position": 40,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1087,18 +1087,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 4
+      "footnote_issue_count": 0
     },
     {
       "book_code": "ZEC",
       "position": 41,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1109,7 +1109,7 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 48
+      "footnote_issue_count": 0
     },
     {
       "book_code": "MAL",
@@ -1120,7 +1120,7 @@
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": false,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1131,18 +1131,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 34
+      "footnote_issue_count": 0
     },
     {
       "book_code": "ISA",
       "position": 43,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1153,18 +1153,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 238
+      "footnote_issue_count": 0
     },
     {
       "book_code": "JER",
       "position": 44,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1175,18 +1175,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 202
+      "footnote_issue_count": 0
     },
     {
       "book_code": "BAR",
       "position": 45,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1197,18 +1197,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 44
+      "footnote_issue_count": 0
     },
     {
       "book_code": "LAM",
       "position": 46,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1219,18 +1219,18 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 42
+      "footnote_issue_count": 0
     },
     {
       "book_code": "LJE",
       "position": 47,
       "testament": "OT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1241,7 +1241,7 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 24
+      "footnote_issue_count": 0
     },
     {
       "book_code": "EZK",
@@ -1252,7 +1252,7 @@
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": false,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1263,7 +1263,7 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 48
+      "footnote_issue_count": 0
     },
     {
       "book_code": "DAN",
@@ -1274,7 +1274,7 @@
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": false,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1285,7 +1285,7 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 58
+      "footnote_issue_count": 0
     },
     {
       "book_code": "MAT",
@@ -1401,12 +1401,12 @@
       "book_code": "ROM",
       "position": 55,
       "testament": "NT",
-      "status": "review_required",
+      "status": "complete",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
-        "marker_alignment_pass": false,
+        "marker_alignment_pass": true,
         "wikilinks_verified": true,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
@@ -1417,19 +1417,19 @@
       "patristic_unresolved_candidates": 0,
       "apostolic_unresolved_candidates": 0,
       "liturgical_creedal_unresolved_candidates": 0,
-      "footnote_issue_count": 2
+      "footnote_issue_count": 0
     },
     {
       "book_code": "1CO",
       "position": 56,
       "testament": "NT",
-      "status": "complete",
+      "status": "review_required",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
         "marker_alignment_pass": true,
-        "wikilinks_verified": true,
+        "wikilinks_verified": false,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
         "liturgical_creedal_verified": true
@@ -1489,13 +1489,13 @@
       "book_code": "EPH",
       "position": 59,
       "testament": "NT",
-      "status": "complete",
+      "status": "review_required",
       "content_surface": "study",
       "component_status": {
         "mechanical_clean": true,
         "structural_clean": true,
         "marker_alignment_pass": true,
-        "wikilinks_verified": true,
+        "wikilinks_verified": false,
         "patristic_entity_verified": true,
         "apostolic_entity_verified": true,
         "liturgical_creedal_verified": true

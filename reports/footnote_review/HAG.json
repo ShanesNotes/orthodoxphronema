@@ -2,14 +2,14 @@
   "book_code": "HAG",
   "position": 40,
   "testament": "OT",
-  "status": "review_required",
+  "status": "complete",
   "content_surface": "study",
   "verification_surface": "staging",
   "footnotes_path": "/home/ark/orthodoxphronema/study/footnotes/OT/HAG_footnotes.md",
   "component_status": {
     "mechanical_clean": true,
     "structural_clean": true,
-    "marker_alignment_pass": false,
+    "marker_alignment_pass": true,
     "wikilinks_verified": true,
     "patristic_entity_verified": true,
     "apostolic_entity_verified": true,
@@ -38,14 +38,14 @@
   "footnote_verification": {
     "book_code": "HAG",
     "testament": "OT",
-    "status": "review_required",
+    "status": "pass",
     "markers_path": "/home/ark/orthodoxphronema/staging/validated/OT/HAG_footnote_markers.json",
     "notes_path": "/home/ark/orthodoxphronema/staging/validated/OT/HAG_footnotes.md",
     "scripture_path": "/home/ark/orthodoxphronema/staging/validated/OT/HAG.md",
     "counts": {
       "scripture_markers": 7,
       "footnote_entries": 7,
-      "scripture_anchors": 15,
+      "scripture_anchors": 38,
       "valid_marker_anchors": 7,
       "valid_note_anchors": 7
     },
@@ -53,15 +53,9 @@
     "invalid_note_anchors": {},
     "missing_in_notes": [],
     "missing_in_scripture": [],
-    "marker_anchor_gaps": [
-      "HAG.2:11",
-      "HAG.2:7"
-    ],
-    "note_anchor_gaps": [
-      "HAG.2:11",
-      "HAG.2:7"
-    ],
-    "issue_count": 4
+    "marker_anchor_gaps": [],
+    "note_anchor_gaps": [],
+    "issue_count": 0
   },
   "wikilinks": {
     "total_refs": 4,
