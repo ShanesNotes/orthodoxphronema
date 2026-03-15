@@ -16,7 +16,7 @@ canon_anchors_referenced: []
 *(after LUK.1:12)*
 
 
-#### 'For behold, henceforth all generations will call me blessed.' (Lk 1:48)
+#### 'For behold, henceforth all generations will call me blessed.' ([[LUK.1:48]])
 
 F or two thousand years the Church has preserved the memory of the Virgin Mary as the prototype of all Christians-the model of what we are to become in Christ. Mary was truly pure and unconditionally obedient to God. The tradition of the Church holds that Mary remained a virgin all her life (see note on [[MAT.12:46]]-50). While lifelong celibacy is not a model for all Christians to follow, Mary's spiritual purity, her wholehearted devotion to God, is certainly to be emulated.
 Mary is also our model in that she was the first person to receive Jesus Christ. As Mary bore Christ in her womb physically, all Christians now have the privilege of bearing God within them spiritually. By God's grace and mercy we are purified and empowered to become like Him.

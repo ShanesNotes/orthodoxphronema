@@ -15,8 +15,7 @@ canon_anchors_referenced: []
 ### Liturgy In The New Testament Church
 *(after REV.4:5)*
 
-Virtually all students of the Bible realize there was liturgical worship in Israel. Immediately after the giving of the Ten Commandments ([[EXO.20:1]]-17), instructions for building the altar were set forth ([[EXO.20:24]]-26). Then comes instruction concerning keeping the Sabbath (Ex
-23:10-13), the annual feasts ([[EXO.23:14]]-19), and the various offerings and furnishings in the sanctuary ([[EXO.25:1]]-40). Following this, chapters 26-30 deal with such matters as the design of the tabernacle, the altar, and the outer court, the priests' vestments and their consecration, and instructions for daily offerings.
+Virtually all students of the Bible realize there was liturgical worship in Israel. Immediately after the giving of the Ten Commandments ([[EXO.20:1]]-17), instructions for building the altar were set forth ([[EXO.20:24]]-26). Then comes instruction concerning keeping the Sabbath ([[EXO.23:10]]-13), the annual feasts ([[EXO.23:14]]-19), and the various offerings and furnishings in the sanctuary ([[EXO.25:1]]-40). Following this, chapters 26-30 deal with such matters as the design of the tabernacle, the altar, and the outer court, the priests' vestments and their consecration, and instructions for daily offerings.
 Liturgical worship is also found in heaven, which is to be expected, since God instructed Moses to make the earthly place of worship as a 'copy and shadow of the heavenly things'
 ([[HEB.8:5]]; see [[EXO.25:40]]). Heavenly worship is revealed in such passages as [[ISA.6:1]]-8, where we see the prophet caught up to heaven for the liturgy, and Revelation 4, which records the apostle John's vision of heaven's liturgy.
 The key to comprehending liturgy in the New Testament is to understand the work of the High Priest, our Lord Jesus Christ, who inaugurates the new covenant. Christ is 'a priest forever' ([[HEB.7:17]], [[HEB.7:21]]). It is unthinkable that He would be a priest but not serve liturgically:
@@ -26,14 +25,14 @@ Given this biblical background, a number of New Testament passages take on new m
 1 [[ACT.13:2]]: 'As they ministered to the Lord [lit., 'as they were in the liturgy of the Lord'] and fasted, the Holy Spirit said, 'Now separate to Me Barnabas and Saul.' ' We learn that (a) these two apostles were called by God during worship, and (b) the Holy Spirit speaks in a liturgical setting.
 2 [[ACT.20:7]]: 'Now on the first day of the week, when the disciples came together to break bread, Paul, ready to depart the next day, spoke to them.' Communion was held each Sunday.
 3 [[ROM.16:16]]: 'Greet one another with a holy kiss.' A kiss of greeting was common in this ancient culture. The 'holy kiss,' however, was an element of the Christian liturgy that signified the people of God were reconciled to one another, so that they might receive the Body and Blood of Christ in peace.
-4 Ephesians 5:14: 'Awake, you who sleep, / Arise from the dead, / And Christ will give you light.' This is an ancient baptismal hymn, already in use by the time Ephesians was written. Other examples of creeds and hymns of New Testament times are seen in 1 Timothy 3:16 and 2 Timothy 2:11-13.
+4 [[EPH.5:14]]: 'Awake, you who sleep, / Arise from the dead, / And Christ will give you light.' This is an ancient baptismal hymn, already in use by the time Ephesians was written. Other examples of creeds and hymns of New Testament times are seen in [[1TI.3:16]] and [[2TI.2:11]]-13.
 5 [[HEB.13:10]]: 'We have an altar' reveals the continuation of the altar in New Testament worship.
 
 
 ### The Eternal Kingdom
 *(after REV.21:4)*
 
-F ew saints have been blessed with a vision of heaven while still in this life. Isaiah saw heaven (Is 6:1-8), as did Ezekiel (Ezk 1:1-28), and the apostle John saw a new heaven-God's eternal Kingdom revealed as a city ([[REV.21:1]]-22:5).
+F ew saints have been blessed with a vision of heaven while still in this life. Isaiah saw heaven ([[ISA.6:1]]-8), as did Ezekiel ([[EZK.1:1]]-28), and the apostle John saw a new heaven-God's eternal Kingdom revealed as a city ([[REV.21:1]]-22:5).
 When we read these passages, we note an abundance of mystical, apocalyptic imagery. But the strong similarities between these passages suggests an inspired consistency of reporting on the visions. The living creatures, the light, the cherubic beings, the throne, and the glory of the Lord all work together to unveil a Kingdom of celestial majesty and splendor.
 While confessing with the prophet Isaiah and the apostle Paul that 'eye has not seen, nor ear heard, nor have entered into the heart of man the things which God has prepared for those who love Him' ([[1CO.2:9]]), we nonetheless find, taking the Scriptures as a whole, that certain things can be said about the eternal Kingdom.
 1 The saints who inhabit God's Kingdom live in active fulfillment of His eternal plan. In the Kingdom, humanity becomes all it is meant to be. There is nothing at all in Scripture to suggest that eternal life means people passively afloat on huge white clouds strumming harps unto the ages of ages.
