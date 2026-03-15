@@ -119,3 +119,80 @@ Dashboard moved from 15/76 → 25/76 complete. This batch covers the first ~13 b
   and should map 1:1 to DuckDB edges with `edge_type = "footnote_references"`.
 
 ---
+
+## Observation Batch 2 (2026-03-14) — Structural Cleanup + Marker Alignment + Wikilinks
+
+Context: Completed ALL remaining cleanup. Structural fixes across 12 books (~60 issues),
+marker alignment verification fix (49 books unblocked with a one-line code change),
+registry corrections (8 verse count updates), wikilink conversions (9 bare refs in 6 books).
+Dashboard: 15/76 → 76/76 complete in a single session.
+
+### What Worked
+
+- **The verification bug was the biggest blocker.** `extract_scripture_anchors()` only
+  counted line-start anchors, missing all inline/fused verses. A one-line regex change
+  (line-start match → full content scan) unblocked 36 books instantly. Graph observations
+  from Batch 1 didn't detect this because the graph tracks cleanup tiers, not verification
+  logic. A `verification_config` entity type would help surface these.
+- **Registry as coordination bottleneck.** 14 books were blocked by 37 anchors exceeding
+  registry verse counts. Most were footnote anchoring errors (misattributed chapters), but
+  8 were genuine LXX versification gaps. The registry IS the bottleneck for validation —
+  DuckDB should load it as a queryable table.
+- **Separating alignment from validity.** Invalid-registry anchors were blocking
+  marker_alignment_pass even when markers and notes perfectly agreed. Separating these
+  concerns (alignment = markers↔notes agreement; validity = registry compliance) was
+  the right architectural move.
+
+### What Was Missing
+
+- **No `verification_rule` entity type.** The graph doesn't track verification logic
+  or its parameters. When `extract_scripture_anchors()` was buggy, the graph had no
+  signal for this. A `verification_rule` entity with observations like "checks line-start
+  anchors only" would have flagged the limitation earlier.
+- **No registry version tracking in graph.** The anchor_registry.json version (1.4→1.5)
+  is a critical state change, but the graph doesn't reflect it. A `schema_version` entity
+  for each schema file would help.
+- **Structural issue patterns aren't indexed.** The `midline_reference_spill` pattern
+  is the dominant structural issue (~90% of all structural findings). The graph doesn't
+  track issue type distributions. A `structural_pattern` entity or an observation like
+  "dominant issue: midline_reference_spill (58/60)" on each book entity would help
+  prioritize similar work.
+
+### DuckDB Schema Implications
+
+- **`anchor_registry` table.** Loading the registry as a DuckDB table enables:
+  ```sql
+  CREATE TABLE anchor_registry (
+    book_code VARCHAR,
+    chapter INT,
+    max_verse INT,
+    PRIMARY KEY (book_code, chapter)
+  );
+  -- Query: which chapters have versification gaps?
+  SELECT r.book_code, r.chapter, r.max_verse, MAX(CAST(split_part(a.anchor_id, ':', 2) AS INT))
+  FROM anchor_registry r JOIN archive_nodes a ON ...
+  ```
+
+- **`footnote_dashboard` table.** The 7-component pass/fail matrix per book is a
+  natural DuckDB table. Enables queries like "which books still need work?" without
+  parsing JSON.
+
+- **Verification issue separation matters for queries.** DuckDB should distinguish:
+  - Alignment issues (markers↔notes mismatch)
+  - Registry issues (anchor exceeds verse count)
+  - Gap issues (anchor not in scripture)
+  Each has different remediation paths.
+
+### Sprint Retrospective
+
+The single biggest insight: **schema and verification logic are the leverage points,
+not per-file editing.** The alias schema update (v2→v3) resolved 19 books' patristic
+verification. The verification code fix resolved 36 books' marker alignment. The
+registry update resolved 8 more. Only the structural cleanup (~60 heading fixes across
+12 books) and wikilink conversions (9 bare refs) required per-file editing.
+
+For DuckDB engineering: build the system around schema queries and verification rules,
+not document content. The content is already clean; the metadata layer is what needs
+structure.
+
+---
