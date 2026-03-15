@@ -96,3 +96,8 @@ Book codes: SBL-standard UPPERCASE (76-book registry frozen).
 8. pdftotext is preferred for notes/footnotes and remains a targeted scripture verifier.
 9. Footnote mismatch reports are first-class signals for parser issues.
 10. When residual V4 missing anchors are small, PDF spot checks beat broad allowlist growth.
+11. Canon-baseline cloning into staging is the fastest recovery path when staging quality is worse than promoted canon (common after initial parse).
+12. Registry CVC drift from LXX versification is endemic; bulk reconciliation from promoted canon files is safe when canon is the authority.
+13. Lectionary extraction cross-contaminates sequential books; decontaminate by verifying chapter ranges against the book's actual chapter count.
+14. Footnote OCR blank-line artifacts (~45% of lines) are batch-removable by collapsing intra-paragraph blanks while preserving section separators.
+15. Ezra audit catches content duplication that passes V1/V7 (e.g., 1CH LXX vs MT verse numbering mismatch created duplicate content at different anchor numbers).

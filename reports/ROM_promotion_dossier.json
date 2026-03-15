@@ -1,9 +1,9 @@
 {
   "book_code": "ROM",
   "testament": "NT",
-  "timestamp": "2026-03-13T13:36:35.936482",
-  "registry_version": "1.4.0",
-  "body_checksum": "834d84a00673f1ecc47ff455ee4c931d0f058aa5bb8bf4d7f2ddf4c73604b02e",
+  "timestamp": "2026-03-15T15:56:28.389182",
+  "registry_version": "1.7.4",
+  "body_checksum": "1434ba1fc598d99f100daff165b575773b29bfa8b92d8e52d48b1c5ccfd6cb48",
   "allow_incomplete": true,
   "staged_path": "/home/ark/orthodoxphronema/staging/validated/NT/ROM.md",
   "residuals_path": null,
@@ -34,10 +34,8 @@
       "messages": []
     },
     "V7": {
-      "status": "WARN",
-      "messages": [
-        "V7   Completeness: 431/433 verses (99.5%); gap of 2"
-      ]
+      "status": "PASS",
+      "messages": []
     },
     "V8": {
       "status": "PASS",
@@ -61,5 +59,5 @@
     }
   },
   "residuals_sidecar": null,
-  "decision": "dry-run"
+  "decision": "promoted"
 }

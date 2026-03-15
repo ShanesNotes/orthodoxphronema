@@ -5,8 +5,8 @@ testament: NT
 canon_position: 52
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-11"
-promote_date: "2026-03-13"
-checksum: "388775ca2733954407a8b8c1bacd9e0e7264d8d5010e095cc160303104447bd2"
+promote_date: "2026-03-15"
+checksum: "0fe2eb16fed4f60234ff714f101ceec9f81838597e848fd0684a02443e8cc3cf"
 status: promoted
 deuterocanonical: false
 has_additions: false
@@ -16,7 +16,7 @@ has_additions: false
 
 ### John's Birth Announced to Zacharias
 
-LUK.1:1 Inasmuch as many have taken in hand to set in order a narrative of those things which have been fulfilled among us,
+LUK.1:1 Inasmuch as many have taken in hand to set in order anarrative of those things which have been fulfilled aamong us,
 LUK.1:2 just as those who from the beginning were eyewitnesses and ministers of the word delivered them to us,
 LUK.1:3 it seemed good to me also, having had perfect understanding of all things from the very first, to write to you an orderly account, most excellent Theophilus,
 LUK.1:4 that you may know the certainty of those things in which you were instructed.
@@ -28,7 +28,7 @@ LUK.1:9 according to the custom of the priesthood, his lot fell to burn incense 
 LUK.1:10 And the whole multitude of the people was praying outside at the hour of incense.
 LUK.1:11 Then an angel of the Lord appeared to him, standing on the right side of the altar of incense.
 LUK.1:12 And when Zacharias saw him, he was troubled, and fear fell upon him.
-LUK.1:13 But the angel said to him, 'Do not be afraid, Zacharias, for your prayer is heard; and your wife Elizabeth will bear you a son, and you shall call his name John.
+LUK.1:13 But the angel said to him, 'Do not be afraid, Zacharias, for your prayer is heard; and your wife Elizabeth will bear you ason, and you shall call his name John.
 LUK.1:14 And you will have joy and gladness, and many will rejoice at his birth.
 LUK.1:15 For he will be great in the sight of the Lord, and shall drink neither wine nor strong drink. He will also be filled with the Holy Spirit, even from his mother's womb.
 LUK.1:16 And he will turn many of the children of Israel to the Lord their God.
@@ -37,7 +37,7 @@ LUK.1:18 And Zacharias said to the angel, 'How shall I know this? For I am an ol
 LUK.1:19 And the angel answered and said to him, 'I am Gabriel, who stands in the presence of God, and was sent to speak to you and bring you these glad tidings.
 LUK.1:20 But behold, you will be mute and not able to speak until the day these things take place, because you did not believe my words which will be fulfilled in their own time.'
 LUK.1:21 And the people waited for Zacharias, and marveled that he lingered so long in the temple.
-LUK.1:22 But when he came out, he could not speak to them; and they perceived that he had seen a vision in the temple, for he beckoned to them and remained speechless.
+LUK.1:22 But when he came out, he could not speak to them; and they perceived that he had seen avision in the temple, for he beckoned to them and remained speechless.
 LUK.1:23 So it was, as soon as the days of his service were completed, that he departed to his own house.
 LUK.1:24 Now after those days his wife Elizabeth conceived; and she hid herself five months, saying,
 
@@ -54,7 +54,7 @@ LUK.1:32 He will be great, and will be called the Son of the Highest; and the Lo
 LUK.1:33 And He will reign over the house of Jacob forever, and of His kingdom there will be no end.'
 LUK.1:34 Then Mary said to the angel, 'How can this be, since I do not know a man?'
 LUK.1:35 And the angel answered and said to her, ' The Holy Spirit will come upon you, and the power of the Highest will overshadow you; therefore, also, that Holy One who is to be born will be called the Son of God.
-LUK.1:36 Now indeed, Elizabeth your relative has also conceived a son in her old age; and this is now the sixth month for her who was called barren.
+LUK.1:36 Now indeed, Elizabeth your relative has also conceived ason in her old age; and this is now the sixth month for her who was called barren.
 LUK.1:37 For with God nothing will be impossible.'
 
 ### Elizabeth Praises Mary, Mother of God
@@ -69,7 +69,7 @@ LUK.1:44 For indeed, as soon as the voice of your greeting sounded in my ears, t
 
 ### Mary Exults in God: The Magnificat
 
-LUK.1:45 Blessed is she who believed, for there will be a fulfillment of those things which were told her from the Lord.'
+LUK.1:45 Blessed is she who believed, for there will be afulfillment of those things which were told her from the Lord.'
 LUK.1:46 'My soul magnifies the Lord,
 LUK.1:47 And my spirit has rejoiced in God my Sav ior.
 LUK.1:48 For He has regarded the lowly state of His maidservant; For behold, henceforth all generations will call me blessed.
@@ -84,13 +84,13 @@ LUK.1:55 As He spoke to our fathers, To Abraham and to his seed forever.'
 ### John Born and Named
 
 LUK.1:56 And Mary remained with her about three months, and returned to her house.
-LUK.1:57 Now Elizabeth's full time came for her to be delivered, and she brought forth a son.
+LUK.1:57 Now Elizabeth's full time came for her to be delivered, and she brought forth ason.
 LUK.1:58 When her neighbors and relatives heard how the Lord had shown great mercy to her, they rejoiced with her.
 LUK.1:59 So it was, on the eighth day, that they came to circumcise the child; and they would have called him by the name of his father, Zacharias.
 LUK.1:60 His mother answered and said, 'No; he shall be called John.'
 LUK.1:61 But they said to her, 'There is no one among your relatives who is called by this name.'
 LUK.1:62 So they made signs to his father-what he would have him called.
-LUK.1:63 And he asked for a writing tablet, and wrote, saying, 'His name is John.' So they all marveled.
+LUK.1:63 And he asked for awriting tablet, and wrote, saying, 'His name is John.' So they all marveled.
 LUK.1:64 Immediately his mouth was opened and his tongue loosed, and he spoke, praising God.
 LUK.1:65 Then fear came on all who dwelt around them; and all these sayings were discussed throughout all the hill country of Judea.
 
@@ -99,41 +99,41 @@ LUK.1:65 Then fear came on all who dwelt around them; and all these sayings were
 LUK.1:66 And all those who heard them kept them in their hearts, saying, 'What kind of child will this be?' And the hand of the Lord was with him.
 LUK.1:67 Now his father Zacharias was filled with the Holy Spirit, and prophesied, saying:
 LUK.1:68 'Blessed is the Lord God of Israel, For He has visited and redeemed His people,
-LUK.1:69 And has raised up a horn of salvation for us In the house of His servant David,
+LUK.1:69 And has raised up ahorn of salvation for us In the house of His servant Dav id,
 LUK.1:70 As He spoke by the mouth of His holy prophets, Who have been since the world began,
 LUK.1:71 That we should be saved from our enemies And from the hand of all who hate us,
 LUK.1:72 To perform the mercy promised to our fathers And to remember His holy covenant,
 LUK.1:73 The oath which He swore to our father Abraham:
 LUK.1:74 To grant us that we, Being delivered from the hand of our enemies, Might serve Him without fear,
-LUK.1:75 In holiness and righteousness before Him all the day of our life.
-LUK.1:76 'And you, child, will be called the prophet of the Highest; For you will go before the face of the Lord to prepare His ways,
-LUK.1:77 To give knowledge of salvation to His people By the remission of their sins,
-LUK.1:78 Through the tender mercy of our God, With which the Dayspring from on high has visited us;
+LUK.1:75 In holiness and righteousness before Him all the day sof our life.
+LUK.1:76 'And you, child, will be called the prophet of the Highest; For y ou will go before the face of the Lord to prepare His way s,
+LUK.1:77 To giveknowledge of salvation to His people By the remission of their sins,
+LUK.1:78 Through the tender mercy of our God, With which the Dayspring from on high has v isited a us;
 
 ### John's Growth
 
-LUK.1:79 To give light to those who sit in darkness and the shadow of death, To guide our feet into the way of peace.'
+LUK.1:79 To givelight to those who sit in darkness and the shadow of death, To guide our feet into the way of peace.'
 
 LUK.1:80 So the child grew and became strong in spirit, and was in the deserts till the day of his manifestation to Israel.
 ## Chapter 2
 
-LUK.2:1 And it came to pass in those days that a decree went out from Caesar Augustus that all the world should be registered.
+LUK.2:1 And it came to pass in those days that adecree went out from Caesar Augustus that all the world should be registered.
 LUK.2:2 This census first took place while Quirinius was governing Syria.
 LUK.2:3 So all went to be registered, everyone to his own city.
 LUK.2:4 Joseph also went up from Galilee, out of the city of Nazareth, into Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David,
 LUK.2:5 to be registered with Mary, his betrothed wife, who was with child.
 LUK.2:6 So it was, that while they were there, the days were completed for her to be delivered.
-LUK.2:7 And she brought forth her firstborn Son, and wrapped Him in swaddling cloths, and laid Him in a manger, because there was no room for them in the inn.
+LUK.2:7 And she brought forth her firstborn Son, and wrapped Him in swaddling cloths, and laid Him in amanger, because there was no room for them in the inn.
 LUK.2:8 The Witness of the Shepherds Now there were in the same country shepherds living out in the fields, keeping watch over their flock by night.
 LUK.2:9 And behold, an angel of the Lord stood before them, and the glory of the Lord shone around them, and they were greatly afraid.
 LUK.2:10 Then the angel said to them, 'Do not be afraid, for behold, I bring you good tidings of great joy which will be to all people.
 LUK.2:11 For there is born to you this day in the city of David a Savior, who is Christ the Lord.
-LUK.2:12 And this will be the sign to you: You will find a Babe wrapped in swaddling cloths, lying in a manger.'
-LUK.2:13 And suddenly there was with the angel a multitude of the heavenly host praising God and saying:
+LUK.2:12 And this will be the sign to you: You will find a Babe wrapped in swaddling cloths, lying in amanger.'
+LUK.2:13 And suddenly there was with the angel amultitude of the heavenly host praising God and saying:
 LUK.2:14 'Glory to God in the highest, And on earth peace, goodwill toward men!'
 LUK.2:15 So it was, when the angels had gone away from them into heaven, that the shepherds said to one another, 'Let us now go to Bethlehem and see this thing that has come to pass, which the Lord has made known to us.'
-LUK.2:16 And they came with haste and found Mary and Joseph, and the Babe lying in a manger.
-LUK.2:17 Now when they had seen Him, they made widely known the saying which was told them concerning this Child.
+LUK.2:16 And they came with haste and found Mary and Joseph, and the Babe lying in amanger.
+LUK.2:17 Now when they had seen Him, they made widely aknown the saying which was told them concerning this Child.
 LUK.2:18 And all those who heard it marveled at those things which were told them by the shepherds.
 LUK.2:19 But Mary kept all these things and pondered them in her heart.
 
@@ -143,13 +143,13 @@ LUK.2:20 Then the shepherds returned, glorifying and praising God for all the th
 
 ### Jesus Dedicated in the Temple
 
-LUK.2:21 And when eight days were completed for the circumcision of the Child, His name was called JESUS, the name given by the angel before He was conceived in the womb.
+LUK.2:21 And when eight days were completed for the circumcision of the Child,His name was called JESUS, the name given by the angel before He was conceived in the womb.
 LUK.2:22 Now when the days of her purification according to the law of Moses were completed, they brought Him to Jerusalem to present Him to the Lord
 
 ### Simeon's Song: The Nunc Dimittis
 
 LUK.2:23 (as it is written in the law of the Lord, 'Every male who opens the womb shall be called holy to the LORD'),
-LUK.2:24 and to offer a sacrifice according to what is said in the law of the Lord, 'A pair of turtledoves or two young pigeons.'
+LUK.2:24 and to offer asacrifice according to what is said in the law of the Lord, 'A pair of turtledoves or two young pigeons.'
 LUK.2:25 And behold, there was a man in Jerusalem whose name was Simeon, and this man was just and devout, waiting for the Consolation of Israel, and the Holy Spirit was upon him.
 LUK.2:26 And it had been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord's Christ.
 LUK.2:27 So he came by the Spirit into the temple. And when the parents brought in the Child Jesus, to do for Him according to the custom of the law,
@@ -158,13 +158,13 @@ LUK.2:29 'Lord, now You are letting Your servant depart in peace, According to Y
 LUK.2:30 For my ey es haveseen Your salvation
 LUK.2:31 Which You have prepared before the face of all peoples,
 LUK.2:32 A light to bring revelation to the Gentiles, And the glory of Your people Israel.'
-LUK.2:33 And Joseph and His mother marveled at those things which were spoken of Him.
+LUK.2:33 And Joseph and His mother amarveled at those things which were spoken of Him.
 LUK.2:34 Then Simeon blessed them, and said to Mary His mother, 'Behold, this Child is destined for the fall and rising of many in Israel, and for a sign which will be spoken against
 
 ### Anna's Prophecy
 
 LUK.2:35 (yes, a sword will pierce through your own soul also), that the thoughts of many hearts may be revealed.'
-LUK.2:36 Now there was one, Anna, prophetess, the daughter of Phanuel, of the tribe of Asher. She was of great age, and had lived with a husband seven years from her virginity;
+LUK.2:36 Now there was one, Anna, prophetess, the daughter of Phanuel, of the tribe of Asher. She was of great age, and had lived with ahusband seven years from her virginity;
 LUK.2:37 and this woman was a widow of about eighty-four years, who did not depart from the temple, but served God with fastings and prayers night and day.
 
 ### Jesus' Childhood in Nazareth
@@ -174,7 +174,7 @@ LUK.2:39 So when they had performed all things according to the law of the Lord,
 
 ### Jesus in His Father's House
 
-LUK.2:40 And the Child grew and became strong in spirit, filled with wisdom; and the grace of God was upon Him.
+LUK.2:40 And the Child grew and became strong in spirit, afilled with wisdom; and the grace of God was upon Him.
 LUK.2:41 His parents went to Jerusalem every year at the Feast of the Passover.
 LUK.2:42 And when He was twelve years old, they went up to Jerusalem according to the custom of the feast.
 LUK.2:43 When they had finished the days, as they returned, the Boy Jesus lingered behind in Jerusalem. And Joseph and His mother did not know it;
@@ -198,7 +198,7 @@ LUK.2:53
 
 LUK.3:1 Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, Herod being tetrarch of Galilee, his brother Philip tetrarch of Iturea and the region of Trachonitis, and Lysanias tetrarch of Abilene,
 LUK.3:2 while Annas and Caiaphas were high priests, the word of God came to John the son of Zacharias in the wilderness.
-LUK.3:3 And he went into all the region around the Jordan, preaching a baptism of repentance for the remission of sins,
+LUK.3:3 And he went into all the region around the Jordan, preaching abaptism of repentance for the remission of sins,
 LUK.3:4 as it is written in the book of the words of Isaiah the prophet, saying: 'The voice of one crying in the wilderness: 'Prepare the way of the Lord; Make His paths straight.
 LUK.3:5 Every valley shall be filled And every mountain and hill brought low; The crooked places shall be made straight And the rough ways smooth;
 LUK.3:6 And all flesh shall see the salvation of God.' '
@@ -223,7 +223,7 @@ LUK.3:21 When all the people were baptized, it came to pass that Jesus also was 
 
 ### Jesus: Son of David, the Son of God
 
-LUK.3:22 And the Holy Spirit descended in bodily form like a dove upon Him, and a voice came from heaven which said, 'You are My beloved Son; in You I am well pleased.'
+LUK.3:22 And the Holy Spirit descended in bodily form like adove upon Him, and a voice came from heaven which said, 'You are My beloved Son; in You I am well pleased.'
 LUK.3:23 Now Jesus Himself began His ministry at about thirty years of age, being (as was supposed) the son of Joseph, the son of Heli,
 LUK.3:24 the son of Matthat, the son of Levi, the son of Melchi, the son of Janna, the son of Joseph,
 LUK.3:25 the son of Mattathiah, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,
@@ -250,10 +250,10 @@ LUK.4:1 Then Jesus, being filled with the Holy Spirit, returned from the Jordan 
 LUK.4:2 being tempted for forty days by the devil. And in those days He ate nothing, and afterward, when they had ended, He was hungry.
 LUK.4:3 And the devil said to Him, 'If You are the Son of God, command this stone to become bread.'
 LUK.4:4 But Jesus answered him, saying,'It is written, 'Man shall not live by bread alone, but by every word of God.' '
-LUK.4:5 Then the devil, taking Him up on a high mountain, showed Him all the kingdoms of the world in a moment of time.
+LUK.4:5 Then the devil, taking Him up on a high mountain, showed Him all the kingdoms of the world in amoment of time.
 LUK.4:6 And the devil said to Him, 'All this authority I will give You, and their glory; for this has been delivered to me, and I give it to whomever I wish.
 LUK.4:7 Therefore, if You will worship before me, all will be Yours.'
-LUK.4:8 And Jesus answered and said to him, 'Get behind Me, Satan! For bit is written, 'You shall worship the Lord your God, and Him only you shall serve.' '
+LUK.4:8 And Jesus answered and said to him, 'Get behind Me, Satan!For bit is written, 'You shall worship the Lord your God, and Him only you shall serve.' '
 LUK.4:9 Then he brought Him to Jerusalem, set Him on the pinnacle of the temple, and said to Him, 'If You are the Son of God, throw Yourself down from here.
 LUK.4:10 For it is written: 'He shall give His angels charge over you, To keep you,'
 LUK.4:11 and, 'In their hands they shall bear you up, Lest you dash your foot against a stone.'
@@ -269,7 +269,7 @@ LUK.4:14 Then Jesus returned in the power of the Spirit to Galilee, and news of 
 LUK.4:15 And He taught in their synagogues, being glorified by all.
 LUK.4:16 So He came to Nazareth, where He had been brought up. And as His custom was, He went into the synagogue on the Sabbath day, and stood up to read.
 LUK.4:17 And He was handed the book of the prophet Isaiah. And when He had opened the book, He found the place where it was written:
-LUK.4:18 'The Spirit of the LORD is upon Me, Because He has anointed Me To preach the gospel to the poor; He has sent Me to heal the brokenhearted, To proclaim liberty to the captives And recovery of sight to the blind, To set at liberty those who are oppressed;
+LUK.4:18 'The Spirit of the LORD is upon Me, Because He has anointed Me To preach the gospel to the poor; He has sent Me to heal the brokenhearted,To proclaim liberty to the captives And recovery of sight to the blind, To set at liberty those who are oppressed;
 LUK.4:19 To proclaim the acceptable year of the LORD.'
 LUK.4:20 Then He closed the book, and gave it back to the attendant and sat down. And the eyes of all who were in the synagogue were fixed on Him.
 LUK.4:21 And He began to say to them, 'Today this Scripture is fulfilled in your hearing.'
@@ -300,7 +300,7 @@ LUK.4:41 And demons also came out of many, crying out and saying, 'You are the C
 
 ### Preaching Throughout Galilee
 
-LUK.4:42 Now when it was day, He departed and went into a deserted place. And the crowd sought Him and came to Him, and tried to keep Him from leaving them; And He, rebuking them, did not allow them to speak, for they knew that He was the Christ.
+LUK.4:42 Now when it was day, He departed and went into adeserted place. And the crowd sought Him and came to Him, and tried to keep Him from leaving them; And He, rebuking them, did not allow them to speak, for they knew that He was the Christ.
 LUK.4:43 but He said to them, 'I must preach the kingdom of God to the other cities also, because for this purpose I have been sent.'
 
 ### Four Fishermen Called
@@ -311,25 +311,25 @@ LUK.4:44 And He was preaching in the synagogues of Galilee.
 LUK.5:1 So it was, as the multitude pressed about Him to hear the word of God, that He stood by the Lake of Gennesaret,
 LUK.5:2 and saw two boats standing by the lake; but the fishermen had gone from them and were washing their nets.
 LUK.5:3 Then He got into one of the boats, which was Simon's, and asked him to put out little from the land. And He sat down and taught the multitudes from the boat.
-LUK.5:4 When He had stopped speaking, He said to Simon, 'Launch out into the deep and let down your nets for a catch.'
+LUK.5:4 When He had stopped speaking, He said to Simon, 'Launch out into the deep and let down your nets for acatch.'
 LUK.5:5 But Simon answered and said to Him, 'Master, we have toiled all night and caught nothing; nevertheless at Your word I will let down the net.'
 LUK.5:6 And when they had done this, they caught great number of fish, and their net was breaking.
 LUK.5:7 So they signaled to their partners in the other boat to come and help them. And they came and filled both the boats, so that they began to sink.
-LUK.5:8 When Simon Peter saw it, he fell down at Jesus' knees, saying, 'Depart from me, for I am a sinful man, O Lord!'
+LUK.5:8 When Simon Peter saw it, he fell down at Jesus' knees, saying, 'Depart from me, for I am asinful man, O Lord!'
 LUK.5:9 For he and all who were with him were astonished at the catch of fish which they had taken;
 LUK.5:10 and so also were James and John, the sons of Zebedee, who were partners with Simon. And Jesus said to Simon, 'Do not be afraid. From now on you will catch men.'
 LUK.5:11 So when they had brought their boats to land, they forsook all and followed Him.
 
 LUK.5:12 Jesus Cleanses a Leper And it happened when He was in a certain city, that behold, a man who was full of leprosy saw Jesus; and he fell on his face and implored Him, saying, 'Lord, if You are willing, You can make me clean.'
 LUK.5:13 Then He put out His hand and touched him, saying, 'I am willing; be cleansed.' Immediately the leprosy left him.
-LUK.5:14 And He charged him to tell no one, 'But go and show yourself to the priest, and make an offering for your cleansing, as a testimony to them, just as Moses commanded.'
+LUK.5:14 And He charged him to tell no one, 'But go and show yourself to the priest, and make an offering for your cleansing, as atestimony to them, just as Moses commanded.'
 LUK.5:15 However, the report went around concerning Him all the more; and great multitudes came together to hear, and to be healed by Him of their infirmities.
 
 ### Jesus Forgives Sins
 
 LUK.5:16 So He Himself often withdrew into the wilderness and prayed.
 LUK.5:17 Now it happened on a certain day, as He was teaching, that there were Pharisees and teachers of the law sitting by, who had come out of every town of Galilee, Judea, and Jerusalem. And the power of the Lord was present to heal them.
-LUK.5:18 Then behold, men brought on a bed a man who was paralyzed, whom they sought to bring in and lay before Him.
+LUK.5:18 Then behold, men brought on abed a man who was paralyzed, whom they sought to bring in and lay before Him.
 LUK.5:19 And when they could not find how they might bring him in, because of the crowd, they went up on the housetop and let him down with his bed through the tiling into the midst before Jesus.
 LUK.5:20 When He saw their faith, He said to him, 'Man, your sins are forgiven you.'
 LUK.5:21 And the scribes and the Pharisees began to reason, saying, 'Who is this who speaks blasphemies? Who can forgive sins but God alone?'
@@ -344,7 +344,7 @@ LUK.5:26 And they were all amazed, and they glorified God and were filled with f
 LUK.5:27 After these things He went out and saw a tax collector named Levi, sitting at the tax office. And He said to him, 'Follow Me.'
 LUK.5:28 So he left all, rose up, and followed Him.
 LUK.5:29 Then Levi gave Him great feast in his own house. And there were great number of tax collectors and others who sat down with them.
-LUK.5:30 And their scribes and the Pharisees complained against His disciples, saying, 'Why do You eat and drink with tax collectors and sinners?'
+LUK.5:30 And their scribes and the Pharisees acomplained against His disciples, saying, 'Why do You eat and drink with tax collectors and sinners?'
 LUK.5:31 Jesus answered and said to them, 'Those who are well have no need of a physician, but those who are sick.
 
 ### When Does Jesus Fast?
@@ -353,13 +353,13 @@ LUK.5:32 I have not come to call the righteous, but sinners, to repentance.'
 LUK.5:33 Then they said to Him, 'Why do the disciples of John fast often and make prayers, and likewise those of the Pharisees, but Yours eat and drink?'
 LUK.5:34 And He said to them, 'Can you make the friends of the bridegroom fast while the bridegroom is with them?
 LUK.5:35 But the days will come when the bridegroom will be taken away from them; then they will fast in those days.'
-LUK.5:36 Then He spoke a parable to them: 'No one puts a piece from a new garment on an old one; otherwise the new makes a tear, and also the piece that was taken out of the new does not match the old.
+LUK.5:36 Then He spoke a parable to them: 'No one puts apiece from new garment on an old one; aotherwise the new makes atear, and also the piece that was taken out of the new does not match the old.
 LUK.5:37 And no one puts new wine into old wineskins; or else the new wine will burst the wineskins and be spilled, and the wineskins will be ruined.
 LUK.5:38 But new wine must be put into new wineskins, and both are preserved.
 
 ### The Lord of the Sabbath
 
-LUK.5:39 And no one, having drunk old wine, immediately desires new; for he says, 'The old is better.' '
+LUK.5:39 And no one, having drunk old wine, immediately adesires new; for he says, 'The old is better.' '
 ## Chapter 6
 
 LUK.6:1 Now it happened on the second Sabbath after the first that He went through the grainfields. And His disciples plucked the heads of grain and ate them, rubbing them in their hands.
@@ -386,8 +386,8 @@ LUK.6:15 Matthew and Thomas; James the son of Alphaeus, and Simon called the Zea
 
 ### Crowds Follow Jesus
 
-LUK.6:16 Judas the son of James, and Judas Iscariot who also became a traitor.
-LUK.6:17 And He came down with them and stood on a level place with a crowd of His disciples and great multitude of people from all Judea and Jerusalem, and from the seacoast of Tyre and Sidon, who came to hear Him and be healed of their diseases,
+LUK.6:16 Judas the son of James, and Judas Iscariot who also became atraitor.
+LUK.6:17 And He came down with them and stood on alevel place with a crowd of His disciples and great multitude of people from all Judea and Jerusalem, and from the seacoast of Tyre and Sidon, who came to hear Him and be healed of their diseases,
 LUK.6:18 as well as those who were tormented with unclean spirits. And they were healed.
 
 LUK.6:19 And the whole multitude sought to touch Him, for power went out from Him and healed them all.
@@ -400,7 +400,7 @@ LUK.6:25 Woe to you who are full, For you shall hunger.
 
 ### Love of Enemies
 
-LUK.6:26 Woe to you who laugh now, For you shall mourn and weep. Woe to you when all men speak well of you, For so did their fathers to the false prophets.
+LUK.6:26 Woe to you who laugh now, For y ou shall mourn and weep. Woe to you when all bmen speak well of you, For so did their fathers to the false prophets.
 LUK.6:27 'But I say to you who hear: Love your enemies, do good to those who hate you,
 LUK.6:28 bless those who curse you, and pray for those who spitefully use you.
 LUK.6:29 To him who strikes you on the one cheek, offer the other also. And from him who takes away your cloak, do not withhold your tunic either.
@@ -419,14 +419,14 @@ LUK.6:40 A disciple is not above his teacher, but everyone who is perfectly trai
 LUK.6:41 And why do you look at the speck in your brother's eye, but do not perceive the plank in your own eye?
 
 LUK.6:42 Or how can you say to your brother, 'Brother, let me remove the speck that is in your eye,' when you yourself do not see the plank that is in your own eye? Hypocrite! First remove the plank from your own eye, and then you will see clearly to remove the speck that is in your brother's eye.
-LUK.6:43 'For good tree does not bear bad fruit, nor does a bad tree bear good fruit.
-LUK.6:44 For every tree is known by its own fruit. For men do not gather figs from thorns, nor do they gather grapes from a bramble bush.
-LUK.6:45 A good man out of the good treasure of his heart brings forth good; and an evil man out of the evil treasure of his heart brings forth evil. For out of the abundance of the heart his mouth speaks.
+LUK.6:43 'For good tree does not bear bad fruit, nor does abad tree bear good fruit.
+LUK.6:44 For every tree is known by its own fruit. For men do not gather figs from thorns, nor do they gather grapes from abramble bush.
+LUK.6:45 A good man out of the good treasure of his heart brings forth good; and an evil man out of the evil treasure of his heart abrings forth evil. For out of the abundance of the heart his mouth speaks.
 LUK.6:46 'But why do you call Me 'Lord, Lord,' and not do the things which I say?
 LUK.6:47 Whoever comes to Me, and hears My sayings and does them, I will show you whom he is like:
 LUK.6:48 He is like a man building a house, who dug deep and laid the foundation on the rock. And when the flood arose, the stream beat vehemently against that house, and could not shake it, for it was founded on the rock.
 
-LUK.6:49 But he who heard and did nothing is like a man who built a house on the earth without a foundation, against which the stream beat vehemently; and immediately it fell. And the ruin of that house was great.'
+LUK.6:49 But he who heard and did nothing is like a man who built a house on the earth without afoundation, against which the stream beat vehemently; and immediately it fell.And the ruin of that house was great.'
 ## Chapter 7
 
 LUK.7:1 Now when He concluded all His sayings in the hearing of the people, He entered Capernaum.
@@ -458,15 +458,15 @@ LUK.7:22 Jesus answered and said to them, 'Go and tell John the things you have 
 LUK.7:23 And blessed is he who is not offended because of Me.'
 LUK.7:24 When the messengers of John had departed, He began to speak to the multitudes concerning John: 'What did you go out into the wilderness to see? A reed shaken by the wind?
 LUK.7:25 But what did you go out to see? A man clothed in soft garments? Indeed those who are gorgeously appareled and live in luxury are in kings' courts.
-LUK.7:26 But what did you go out to see? A prophet? Yes, I say to you, and more than a prophet.
+LUK.7:26 But what did you go out to see? A prophet? Yes, I say to you, and more than aprophet.
 LUK.7:27 This is he of whom it is written: 'Behold, I send My messenger before Your face, Who will prepare Your way before You.'
-LUK.7:28 For I say to you, among those born of women there is not a greater prophet than John the Baptist; but he who is least in the kingdom of God is greater than he.'
+LUK.7:28 For I say to you, among those born of women there is not agreater prophet than John the Baptist; but he who is least in the kingdom of God is greater than he.'
 LUK.7:29 And when all the people heard Him, even the tax collectors justified God, having been baptized with the baptism of John.
 LUK.7:30 But the Pharisees and lawyers rejected the will of God for themselves, not having been baptized by him.
 LUK.7:31 And the Lord said,'To what then shall I liken the men of this generation, and what are they like?
 LUK.7:32 They are like children sitting in the marketplace and calling to one another, saying: 'We play ed the flute for you, And you did not dance; We mourned to you, And you did not weep.'
 LUK.7:33 For John the Baptist came neither eating bread nor drinking wine, and you say, 'He has a demon.'
-LUK.7:34 The Son of Man has come eating and drinking, and you say, 'Look, a glutton and a winebibber, a friend of tax collectors and sinners!'
+LUK.7:34 The Son of Man has come eating and drinking, and you say, 'Look, aglutton and awinebibber, a friend of tax collectors and sinners!'
 
 ### Forgiveness of a Sinful Woman
 
@@ -474,7 +474,7 @@ LUK.7:35 But wisdom is justified by all her children.'
 LUK.7:36 Then one of the Pharisees asked Him to eat with him. And He went to the Pharisee's house, and sat down to eat.
 LUK.7:37 And behold, a woman in the city who was a sinner, when she knew that Jesus sat at the table in the Pharisee's house, brought an alabaster flask of fragrant oil,
 LUK.7:38 and stood at His feet behind Him weeping; and she began to wash His feet with her tears, and wiped them with the hair of her head; and she kissed His feet and anointed them with the fragrant oil.
-LUK.7:39 Now when the Pharisee who had invited Him saw this, he spoke to himself, saying, 'This Man, if He were a prophet, would know who and what manner of woman this is who is touching Him, for she is a sinner.'
+LUK.7:39 Now when the Pharisee who had invited Him saw this, he spoke to himself, saying, 'This Man, if He were aprophet, would know who and what manner of woman this is who is touching Him, for she is a sinner.'
 LUK.7:40 And Jesus answered and said to him, 'Simon, I have something to say to you.'
 LUK.7:41 So he said, 'Teacher, say it.' 'There was a certain creditor who had two debtors. One owed five hundred denarii, and the other fifty.
 LUK.7:42 And when they had nothing with which to repay, he freely forgave them both. Tell Me, therefore, which of them will love him more?'
@@ -501,7 +501,7 @@ LUK.8:4 And when great multitude had gathered, and they had come to Him from eve
 LUK.8:5 'A sower went out to sow his seed. And as he sowed, some fell by the wayside; and it was trampled down, and the birds of the air devoured it.
 LUK.8:6 Some fell on rock; and as soon as it sprang up, it withered away because it lacked moisture.
 LUK.8:7 And some fell among thorns, and the thorns sprang up with it and choked it.
-LUK.8:8 But others fell on good ground, sprang up, and yielded a crop a hundredfold.' When He had said these things He cried, 'He who has ears to hear, let him hear!'
+LUK.8:8 But others fell on good ground, sprang up, and yielded acrop ahundredfold.' When He had said these things He cried, 'He who has ears to hear, let him hear!'
 LUK.8:9 Then His disciples asked Him, saying, 'What does this parable mean?'
 LUK.8:10 And He said, 'To you it has been given to know the mysteries of the kingdom of God, but to the rest it is given in parables, that 'Seeing they may not see, And hearing they may not understand.'
 LUK.8:11 'Now the parable is this: The seed is the word of God.
@@ -511,8 +511,8 @@ LUK.8:14 Now the ones that fell among thorns are those who, when they have heard
 
 ### Take Care How You Hear
 
-LUK.8:15 But the ones that fell on the good ground are those who, having heard the word with a noble and good heart, keep it and bear fruit with patience.
-LUK.8:16 'No one, when he has lit a lamp, covers it with a vessel or puts it under a bed, but sets it on a lampstand, that those who enter may see the light.
+LUK.8:15 But the ones that fell on the good ground are those who, having heard the word with anoble and good heart, keep it and bear fruit with patience.
+LUK.8:16 'No one, when he has lit a lamp, covers it with a vessel or puts it under abed, but sets it on alampstand, that those who enter may see the light.
 LUK.8:17 For nothing is secret that will not be revealed, nor anything hidden that will not be known and come to light.
 
 ### Jesus' True Kinsmen
@@ -525,9 +525,9 @@ LUK.8:20 And it was told Him by some, who said, 'Your mother and Your brothers a
 
 LUK.8:21 But He answered and said to them, 'My mother and My brothers are these who hear the word of God and do it.'
 LUK.8:22 Now it happened, on a certain day, that He got into a boat with His disciples. And He said to them, 'Let us cross over to the other side of the lake.' And they launched out.
-LUK.8:23 But as they sailed He fell asleep. And a windstorm came down on the lake, and they were filling with water, and were in jeopardy.
+LUK.8:23 But as they sailed He fell asleep. And awindstorm came down on the lake, and they were filling with water, and were in jeopardy.
 LUK.8:24 And they came to Him and awoke Him, saying, 'Master, Master, we are perishing!'
-LUK.8:25 Then He arose and rebuked the wind and the raging of the water. And they ceased, and there was a calm. But He said to them, 'Where is your faith?'
+LUK.8:25 Then He arose and rebuked the wind and the raging of the water. And they ceased, and there was acalm. But He said to them, 'Where is your faith?'
 
 ### The Gadarene Demoniac
 
@@ -535,17 +535,17 @@ LUK.8:26 And they were afraid, and marveled, saying to one another, 'Who can thi
 
 ### The Gadarene Demoniac
 
-LUK.8:27 And when He stepped out on the land, there met Him a certain man from the city who had demons for a long time. And he wore no clothes, nor did he live in a house but in the tombs.
+LUK.8:27 And when He stepped out on the land, there met Him a certain man from the city who had demons for along time. And he wore no clothes, anor did he live in a house but in the tombs.
 LUK.8:28 When he saw Jesus, he cried out, fell down before Him, and with a loud voice said, 'What have I to do with You, Jesus, Son of the Most High God? I beg You, do not torment me!'
 LUK.8:29 For He had commanded the unclean spirit to come out of the man. For it had often seized him, and he was kept under guard, bound with chains and shackles; and he broke the bonds and was driven by the demon into the wilderness.
 LUK.8:30 Jesus asked him, saying, 'What is your name?'
 LUK.8:31 And he said, 'Legion,' because many demons had entered him. And they begged Him that He would not command them to go out into the abyss.
-LUK.8:32 Now a herd of many swine was feeding there on the mountain. So they begged Him that He would permit them to enter them. And He permitted them.
+LUK.8:32 Now aherd of many swine was feeding there on the mountain. So they begged Him that He would permit them to enter them. And He permitted them.
 LUK.8:33 Then the demons went out of the man and entered the swine, and the herd ran violently down the steep place into the lake and drowned.
 LUK.8:34 When those who fed them saw what had happened, they fled and told it in the city and in the country.
 LUK.8:35 Then they went out to see what had happened, and came to Jesus, and found the man from whom the demons had departed, sitting at the feet of Jesus, clothed and in his right mind. And they were afraid.
 LUK.8:36 They also who had seen it told them by what means he who had been demon-possessed was healed.
-LUK.8:37 Then the whole multitude of the surrounding region of the Gadarenes asked Him to depart from them, for they were seized with great fear. And He got into the boat and returned.
+LUK.8:37 Then the whole multitude of the surrounding region of the Gadarenes aasked Him to depart from them, for they were seized with great fear. And He got into the boat and returned.
 LUK.8:38 Now the man from whom the demons had departed begged Him that he might be with Him. But Jesus sent him away, saying,
 
 ### Jairus' Daughter Raised, a Woman Healed
@@ -554,18 +554,18 @@ LUK.8:39 'Return to your own house, and tell what great things God has done for 
 LUK.8:40 So it was, when Jesus returned, that the multitude welcomed Him, for they were all waiting for Him.
 LUK.8:41 And behold, there came a man named Jairus, and he was a ruler of the synagogue. And he fell down at Jesus' feet and begged Him to come to his house,
 LUK.8:42 for he had an only daughter about twelve years of age, and she was dying.
-LUK.8:43 But as He went, the multitudes thronged Him. Now a woman, having a flow of blood for twelve years, who had spent all her livelihood on physicians and could not be healed by any,
+LUK.8:43 But as He went, the multitudes thronged Him. Now a woman, having aflow of blood for twelve years, who had spent all her livelihood on physicians and could not be healed by any,
 LUK.8:44 came from behind and touched the border of His garment. And immediately her flow of blood stopped.
 LUK.8:45 And Jesus said, 'Who touched Me?'
 LUK.8:46 When all denied it, Peter and those with him said, 'Master, the multitudes throng and press You, and You say, 'Who touched Me?' 'But Jesus said, 'Somebody touched Me, for I perceived power going out from Me.'
 LUK.8:47 Now when the woman saw that she was not hidden, she came trembling; and falling down before Him, she declared to Him in the presence of all the people the reason she had touched Him and how she was healed immediately.
-LUK.8:48 And He said to her, 'Daughter, be of good cheer; your faith has made you well. Go in peace.'
+LUK.8:48 And He said to her, 'Daughter, be of good cheer; ayour faith has made you well. Go in peace.'
 LUK.8:49 While He was still speaking, someone came from the ruler of the synagogue's house, saying to him, 'Your daughter is dead. Do not trouble the Teacher.'
 LUK.8:50 But when Jesus heard it, He answered him, saying, 'Do not be afraid; only believe, and she will be made well.'
-LUK.8:51 When He came into the house, He permitted no one to go in except Peter, James, and John, and the father and mother of the girl.
+LUK.8:51 When He came into the house, He permitted no one to go in aexcept Peter, James, and John, and the father and mother of the girl.
 LUK.8:52 Now all wept and mourned for her; but He said, 'Do not weep; she is not dead, but sleeping.'
 LUK.8:53 And they ridiculed Him, knowing that she was dead.
-LUK.8:54 But He put them all outside, took her by the hand and called, saying, 'Little girl, arise.'
+LUK.8:54 But He put them all outside, atook her by the hand and called, saying, 'Little girl, arise.'
 LUK.8:55 Then her spirit returned, and she arose immediately. And He commanded that she be given something to eat.
 
 ### The Twelve Sent Out
@@ -578,7 +578,7 @@ LUK.9:1 Then He called His twelve disciples together and gave them power and aut
 LUK.9:2 He sent them to preach the kingdom of God and to heal the sick.
 LUK.9:3 And He said to them, 'Take nothing for the journey, neither staffs nor bag nor bread nor money; and do not have two tunics apiece.
 LUK.9:4 'Whatever house you enter, stay there, and from there depart.
-LUK.9:5 And whoever will not receive you, when you go out of that city, shake off the very dust from your feet as a testimony against them.'
+LUK.9:5 And whoever will not receive you, when you go out of that city, shake off the very dust from your feet as atestimony against them.'
 LUK.9:6 So they departed and went through the towns, preaching the gospel and healing everywhere.
 LUK.9:7 Now Herod the tetrarch heard of all that was done by Him; and he was perplexed, because it was said by some that John had risen from the dead,
 LUK.9:8 and by some that Elijah had appeared, and by others that one of the old prophets had risen again.
@@ -586,9 +586,9 @@ LUK.9:8 and by some that Elijah had appeared, and by others that one of the old 
 ### Feeding the Five Thousand
 
 LUK.9:9 Herod said, 'John I have beheaded, but who is this of whom I hear such things?' So he sought to see Him.
-LUK.9:10 And the apostles, when they had returned, told Him all that they had done. Then He took them and went aside privately into a deserted place belonging to the city called Bethsaida.
+LUK.9:10 And the apostles, when they had returned, told Him all that they had done. Then He took them and went aside privately into adeserted place belonging to the city called Bethsaida.
 LUK.9:11 But when the multitudes knew it, they followed Him; and He received them and spoke to them about the kingdom of God, and healed those who had need of healing.
-LUK.9:12 When the day began to wear away, the twelve came and said to Him, 'Send the multitude away, that they may go into the surrounding towns and country, and lodge and get provisions; for we are in a deserted place here.'
+LUK.9:12 When the day began to wear away, the twelve came and said to Him, 'Send the multitude away, that they may go into the surrounding towns and country, and lodge and get provisions; for we are in adeserted place here.'
 LUK.9:13 But He said to them, 'You give them something to eat.'
 LUK.9:14 And they said, 'We have no more than five loaves and two fish, unless we go and buy food for all these people.' For there were about five thousand men.
 LUK.9:15 Then He said to His disciples, 'Make them sit down in groups of fifty.' And they did so, and made them all sit down.
@@ -617,7 +617,7 @@ LUK.9:31 who appeared in glory and spoke of His decease which He was about to ac
 LUK.9:32 But Peter and those with him were heavy with sleep; and when they were fully awake, they saw His glory and the two men who stood with Him.
 LUK.9:33 Then it happened, as they were parting from Him, that Peter said to Jesus, 'Master, it is good for us to be here; and let us make three tabernacles: one for You, one for Moses, and one for Elijah'-not knowing what he said.
 LUK.9:34 While he was saying this, a cloud came and overshadowed them; and they were fearful as they entered the cloud.
-LUK.9:35 And a voice came out of the cloud, saying, 'This is My beloved Son. Hear Him!'
+LUK.9:35 And a voice came out of the cloud, saying, 'This is My beloved Son.Hear Him!'
 
 ### The Unbelieving World
 
@@ -637,7 +637,7 @@ LUK.9:44 But while everyone marveled at all the things which Jesus did, He said 
 ### Who Is the Greatest?
 
 LUK.9:45 But they did not understand this saying, and it was hidden from them so that they did not perceive it; and they were afraid to ask Him about this saying.
-LUK.9:46 Then a dispute arose among them as to which of them would be greatest.
+LUK.9:46 Then adispute arose among them as to which of them would be greatest.
 LUK.9:47 And Jesus, perceiving the thought of their heart, took little child and set him by Him,
 
 ### The Rights of Jesus' Disciples
@@ -647,9 +647,9 @@ LUK.9:49 Now John answered and said, 'Master, we saw someone casting out demons 
 
 ### Kindness Toward the Inhospitable
 
-LUK.9:50 But Jesus said to him, 'Do not forbid him, for he who is not against us is on our side.'
+LUK.9:50 But Jesus said to him, 'Do not forbid him, for he who is not against us is on our bside.'
 LUK.9:51 Now it came to pass, when the time had come for Him to be received up, that He steadfastly set His face to go to Jerusalem,
-LUK.9:52 and sent messengers before His face. And as they went, they entered a village of the Samaritans, to prepare for Him.
+LUK.9:52 and sent messengers before His face. And as they went, they entered avillage of the Samaritans, to prepare for Him.
 LUK.9:53 But they did not receive Him, because His face was set for the journey to Jerusalem.
 LUK.9:54 And when His disciples James and John saw this, they said, 'Lord, do You want us to command fire to come down from heaven and consume them, just as Elijah did?'
 LUK.9:55 But He turned and rebuked them, and said, 'You do not know what manner of spirit you are of.
@@ -673,7 +673,7 @@ LUK.10:2 Then He said to them, 'The harvest truly is great, but the laborers are
 LUK.10:3 Go your way; behold, I send you out as lambs among wolves.
 LUK.10:4 Carry neither money bag, knapsack, nor sandals; and greet no one along the road.
 LUK.10:5 But whatever house you enter, first say, 'Peace to this house.'
-LUK.10:6 And if a son of peace is there, your peace will rest on it; if not, it will return to you.
+LUK.10:6 And if ason of peace is there, your peace will rest on it; if not, it will return to you.
 LUK.10:7 And remain in the same house, eating and drinking such things as they give, for the laborer is worthy of his wages. Do not go from house to house.
 LUK.10:8 Whatever city you enter, and they receive you, eat such things as are set before you.
 LUK.10:9 And heal the sick there, and say to them, 'The kingdom of God has come near to you.'
@@ -684,10 +684,10 @@ LUK.10:13 'Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works 
 LUK.10:14 But it will be more tolerable for Tyre and Sidon at the judgment than for you.
 LUK.10:15 And you, Capernaum, who are exalted to heaven, will be brought down to Hades.
 LUK.10:16 He who hears you hears Me, he who rejects you rejects Me, and he who rejects Me rejects Him who sent Me.'
-LUK.10:17 Then the seventy returned with joy, saying, 'Lord, even the demons are subject to us in Your name.'
+LUK.10:17 Then the seventy areturned with joy, saying, 'Lord, even the demons are subject to us in Your name.'
 LUK.10:18 And He said to them, 'I saw Satan fall like lightning from heaven.
 LUK.10:19 Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you.
-LUK.10:20 Nevertheless do not rejoice in this, that the spirits are subject to you, but rather rejoice because your names are written in heaven.'
+LUK.10:20 Nevertheless do not rejoice in this, that the spirits are subject to you, but rather arejoice because your names are written in heaven.'
 LUK.10:21 In that hour Jesus rejoiced in the Spirit and said, 'I thank You, Father, Lord of heaven and earth, that You have hidden these things from the wise and prudent and revealed them to babes. Even so, Father, for so it seemed good in Your sight.
 LUK.10:22 All things have been delivered to Me by My Father, and no one knows who the Son is except the Father, and who the Father is except the Son, and the one to whom the Son wills to reveal Him. '
 LUK.10:23 Then He turned to His disciples and said privately, 'Blessed are the eyes which see the things you see;
@@ -712,16 +712,16 @@ LUK.10:37 And he said, 'He who showed mercy on him.'
 ### Mary and Martha
 
 LUK.10:38 Then Jesus said to him, 'Go and do likewise.' Now it happened as they went that He entered a certain village; and a certain woman named Martha welcomed Him into her house.
-LUK.10:39 And she had a sister called Mary, who also sat at Jesus' feet and heard His word.
+LUK.10:39 And she had asister called Mary, who also sat at Jesus' afeet and heard His word.
 LUK.10:40 But Martha was distracted with much serving, and she approached Him and said, 'Lord, do You not care that my sister has left me to serve alone? Therefore tell her to help me.'
-LUK.10:41 And Jesus answered and said to her, 'Martha, Martha, you are worried and troubled about many things.
+LUK.10:41 And Jesus aanswered and said to her, 'Martha, Martha, you are worried and troubled about many things.
 
 LUK.10:42 But one thing is needed, and Mary has chosen that good part, which will not be taken away from her.'
 ## Chapter 11
 
 LUK.11:1 Now it came to pass, as He was praying in a certain place, when He ceased, that one of His disciples said to Him, 'Lord, teach us to pray, as John also taught his disciples.'
-LUK.11:2 So He said to them, 'When you pray, say: Our Father in heaven, Hallowed be Your name.
-LUK.11:3 Your kingdom come. Your will be done On earth as it is in heaven. Give us day by day our daily bread.
+LUK.11:2 So He said to them, 'When you pray, say: Our Father in heaven,Hallowed be Your name.
+LUK.11:3 Your kingdom come.Your will be done On earth as it is in heaven. Give us day by day our daily bread.
 LUK.11:4 For we also forgiveevery one who is indebted to us.
 LUK.11:5 And do not lead us into temptation, But deliver us from the evil one.'And He said to them, 'Which of you shall have a friend, and go to him at midnight and say to him, 'Friend, lend me three loaves;
 LUK.11:6 for a friend of mine has come to me on his journey, and I have nothing to set before him';
@@ -729,7 +729,7 @@ LUK.11:7 and he will answer from within and say, 'Do not trouble me; the door is
 LUK.11:8 I say to you, though he will not rise and give to him because he is his friend, yet because of his persistence he will rise and give him as many as he needs.
 LUK.11:9 'So I say to you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
 LUK.11:10 For everyone who asks receives, and he who seeks finds, and to him who knocks it will be opened.
-LUK.11:11 If a son asks for bread from any father among you, will he give him a stone? Or if he asks for a fish, will he give him a serpent instead of a fish?
+LUK.11:11 If ason asks for bread from any father among you, will he give him a stone? Or if he asks for afish, will he give him aserpent instead of afish?
 LUK.11:12 Or if he asks for an egg, will he offer him a scorpion?
 
 ### Jesus and the Devil
@@ -746,7 +746,7 @@ LUK.11:18 If Satan also is divided against himself, how will his kingdom stand? 
 LUK.11:19 And if I cast out demons by Beelzebub, by whom do your sons cast them out? Therefore they will be your judges.
 LUK.11:20 But if I cast out demons with the finger of God, surely the kingdom of God has come upon you.
 LUK.11:21 When a strong man, fully armed, guards his own palace, his goods are in peace.
-LUK.11:22 But when a stronger than he comes upon him and overcomes him, he takes from him all his armor in which he trusted, and divides his spoils.
+LUK.11:22 But when astronger than he comes upon him and overcomes him, he takes from him all his armor in which he trusted, and divides his spoils.
 LUK.11:23 He who is not with Me is against Me, and he who does not gather with Me scatters.
 LUK.11:24 'When an unclean spirit goes out of a man, he goes through dry places, seeking rest; and finding none, he says, 'I will return to my house from which I came.'
 LUK.11:25 And when he comes, he finds it swept and put in order.
@@ -756,12 +756,12 @@ LUK.11:27 And it happened, as He spoke these things, that a certain woman from t
 LUK.11:28 But He said, 'More than that, blessed are those who hear the word of God and keep it!'
 LUK.11:29 And while the crowds were thickly gathered together, He began to say, 'This is an evil generation. It seeks a sign, and no sign will be given to it except the sign of Jonah the prophet.
 LUK.11:30 For as Jonah became a sign to the Ninevites, so also the Son of Man will be to this generation.
-LUK.11:31 The queen of the South will rise up in the judgment with the men of this generation and condemn them, for she came from the ends of the earth to hear the wisdom of Solomon; and indeed a greater than Solomon is here.
+LUK.11:31 The queen of the South will rise up in the judgment with the men of this generation and condemn them, for she came from the ends of the earth to hear the wisdom of Solomon; and indeed agreater than Solomon is here.
 
 ### Spiritual Perception: A Light to See By
 
-LUK.11:32 The men of Nineveh will rise up in the judgment with this generation and condemn it, for they repented at the preaching of Jonah; and indeed a greater than Jonah is here.
-LUK.11:33 'No one, when he has lit a lamp, puts it in a secret place or under a basket, but on a lampstand, that those who come in may see the light.
+LUK.11:32 The men of Nineveh will rise up in the judgment with this generation and condemn it, for they repented at the preaching of Jonah; and indeed agreater than Jonah is here.
+LUK.11:33 'No one, when he has lit a lamp, puts it in asecret place or under abasket, but on alampstand, that those who come in may see the light.
 LUK.11:34 The lamp of the body is the eye. Therefore, when your eye is good, your whole body also is full of light. But when your eye is bad, your body also is full of darkness.
 LUK.11:35 Therefore take heed that the light which is in you is not darkness.
 
@@ -775,7 +775,7 @@ LUK.11:40 Foolish ones! Did not He who made the outside make the inside also?
 LUK.11:41 But rather give alms of such things as you have; then indeed all things are clean to you.
 LUK.11:42 'But woe to you Pharisees! For you tithe mint and rue and all manner of herbs, and pass by justice and the love of God. These you ought to have done, without leaving the others undone.
 LUK.11:43 Woe to you Pharisees! For you love the best seats in the synagogues and greetings in the marketplaces.
-LUK.11:44 Woe to you, scribes and Pharisees, hypocrites! For you are like graves which are not seen, and the men who walk over them are not aware of them. '
+LUK.11:44 Woe to you, scribes and Pharisees, hypocrites!For you are like graves which are not seen, and the men who walk over them are not aware of them. '
 LUK.11:45 Then one of the lawyers answered and said to Him, 'Teacher, by saying these things You reproach us also.'
 LUK.11:46 And He said, 'Woe to you also, lawyers! For you load men with burdens hard to bear, and you yourselves do not touch the burdens with one of your fingers.
 LUK.11:47 Woe to you! For you build the tombs of the prophets, and your fathers killed them.
@@ -796,7 +796,7 @@ LUK.12:2 For there is nothing covered that will not be revealed, nor hidden that
 LUK.12:3 Therefore whatever you have spoken in the dark will be heard in the light, and what you have spoken in the ear in inner rooms will be proclaimed on the housetops.
 LUK.12:4 'And I say to you, My friends, do not be afraid of those who kill the body, and after that have no more that they can do.
 LUK.12:5 But I will show you whom you should fear: Fear Him who, after He has killed, has power to cast into hell; yes, I say to you, fear Him!
-LUK.12:6 'Are not five sparrows sold for two copper coins? And not one of them is forgotten before God.
+LUK.12:6 'Are not five sparrows sold for two copper coins?And not one of them is forgotten before God.
 LUK.12:7 But the very hairs of your head are all numbered. Do not fear therefore; you are of more value than many sparrows.
 LUK.12:8 'Also I say to you, whoever confesses Me before men, him the Son of Man also will confess before the angels of God.
 LUK.12:9 But he who denies Me before men will be denied before the angels of God.
@@ -807,7 +807,7 @@ LUK.12:11 'Now when they bring you to the synagogues and magistrates and authori
 
 LUK.12:12 For the Holy Spirit will teach you in that very hour what you ought to say.'
 LUK.12:13 Then one from the crowd said to Him, 'Teacher, tell my brother to divide the inheritance with me.'
-LUK.12:14 But He said to him, 'Man, who made Me a judge or an arbitrator over you?'
+LUK.12:14 But He said to him, 'Man, who made Me ajudge or an arbitrator over you?'
 LUK.12:15 And He said to them, 'Take heed and beware of covetousness, for one's life does not consist in the abundance of the things he possesses.'
 LUK.12:16 Then He spoke a parable to them, saying: 'The ground of a certain rich man yielded plentifully.
 LUK.12:17 And he thought within himself, saying, 'What shall I do, since I have no room to store my crops?'
@@ -826,7 +826,7 @@ LUK.12:29 'And do not seek what you should eat or what you should drink, nor hav
 LUK.12:30 For all these things the nations of the world seek after, and your Father knows that you need these things.
 LUK.12:31 But seek the kingdom of God, and all these things shall be added to you.
 LUK.12:32 'Do not fear, little flock, for it is your Father's good pleasure to give you the kingdom.
-LUK.12:33 Sell what you have and give alms; provide yourselves money bags which do not grow old, a treasure in the heavens that does not fail, where no thief approaches nor moth destroys.
+LUK.12:33 Sell what you have and give alms; provide yourselves money bags which do not grow old, atreasure in the heavens that does not fail, where no thief approaches nor moth destroys.
 
 ### Against Laziness and Forgetfulness
 
@@ -849,7 +849,7 @@ LUK.12:47 And that servant who knew his master's will, and did not prepare himse
 
 LUK.12:48 But he who did not know, yet committed things deserving of stripes, shall be beaten with few. For everyone to whom much is given, from him much will be required; and to whom much has been committed, of him they will ask the more.
 LUK.12:49 'I came to send fire on the earth, and how I wish it were already kindled!
-LUK.12:50 But I have a baptism to be baptized with, and how distressed I am till it is accomplished!
+LUK.12:50 But I have abaptism to be baptized with, and how distressed I am till it is accomplished!
 LUK.12:51 Do you suppose that I came to give peace on earth? I tell you, not at all, but rather division.
 LUK.12:52 For from now on five in one house will be divided: three against two, and two against three.
 LUK.12:53 Father will be divided against son and son against father, mother against daughter and daughter against mother, mother-in-law against her daughter-in-law and daughter-in-law against her mother-in-law.'
@@ -884,14 +884,14 @@ LUK.13:11 And behold, there was a woman who had a spirit of infirmity eighteen y
 LUK.13:12 But when Jesus saw her, He called her to Him and said to her, 'Woman, you are loosed from your infirmity.'
 LUK.13:13 And He laid His hands on her, and immediately she was made straight, and glorified God.
 LUK.13:14 But the ruler of the synagogue answered with indignation, because Jesus had healed on the Sabbath; and he said to the crowd, 'There are six days on which men ought to work; therefore come and be healed on them, and not on the Sabbath day.'
-LUK.13:15 The Lord then answered him and said, 'Hypocrite! Does not each one of you on the Sabbath loose his ox or donkey from the stall, and lead it away to water it?
+LUK.13:15 The Lord then answered him and said, 'Hypocrite!Does not each one of you on the Sabbath loose his ox or donkey from the stall, and lead it away to water it?
 LUK.13:16 So ought not this woman, being a daughter of Abraham, whom Satan has bound-think of it-for eighteen years, be loosed from this bond on the Sabbath?'
 
 ### Parables of the Kingdom
 
 LUK.13:17 And when He said these things, all His adversaries were put to shame; and all the multitude rejoiced for all the glorious things that were done by Him.
 LUK.13:18 Then He said, 'What is the kingdom of God like? And to what shall I compare it?
-LUK.13:19 It is like a mustard seed, which a man took and put in his garden; and it grew and became a large a tree, and the birds of the air nested in its branches.'
+LUK.13:19 It is like a mustard seed, which a man took and put in his garden; and it grew and became a large atree, and the birds of the air nested in its branches.'
 LUK.13:20 And again He said, 'To what shall I liken the kingdom of God?
 
 ### Strive to Be Saved
@@ -911,33 +911,33 @@ LUK.13:29 They will come from the east and the west, from the north and the sout
 LUK.13:30 And indeed there are last who will be first, and there are first who will be last.'
 LUK.13:31 On that very day some Pharisees came, saying to Him, 'Get out and depart from here, for Herod wants to kill You.'
 LUK.13:32 And He said to them, 'Go, tell that fox, 'Behold, I cast out demons and perform cures today and tomorrow, and the third day I shall be perfected.'
-LUK.13:33 Nevertheless I must journey today, tomorrow, and the day following; for it cannot be that a prophet should perish outside of Jerusalem.
-LUK.13:34 'O Jerusalem, Jerusalem, the one who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, as a hen gathers her brood under her wings, but you were not willing!
+LUK.13:33 Nevertheless I must journey today, tomorrow, and the day following; for it cannot be that aprophet should perish outside of Jerusalem.
+LUK.13:34 'O Jerusalem, Jerusalem, the one who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, as ahen gathers her brood under her wings, but you were not willing!
 
 ### A Man Healed on the Sabbath
 
-LUK.13:35 See! Your house is left to you desolate; and assuredly, I say to you, you shall not see Me until the time comes when you say, 'Blessed is He who comes in the name of the LORD!' '
+LUK.13:35 See! Your house is left to you desolate; and assuredly,I say to you, you shall not see Me until the time comes when you say, 'Blessed is He who comes in the name of the LORD!' '
 ## Chapter 14
 
 LUK.14:1 Now it happened, as He went into the house of one of the rulers of the Pharisees to eat bread on the Sabbath, that they watched Him closely.
 LUK.14:2 And behold, there was a certain man before Him who had dropsy.
 LUK.14:3 And Jesus, answering, spoke to the lawyers and Pharisees, saying, 'Is it lawful to heal on the Sabbath?'
 LUK.14:4 But they kept silent. And He took him and healed him, and let him go.
-LUK.14:5 Then He answered them, saying, 'Which of you, having a donkey or an ox that has fallen into a pit, will not immediately pull him out on the Sabbath day?'
+LUK.14:5 Then He answered them, saying, 'Which of you, having a donkey or an ox that has fallen into apit, will not immediately pull him out on the Sabbath day?'
 
 ### Be Lowly
 
 LUK.14:6 And they could not answer Him regarding these things.
 LUK.14:7 So He told a parable to those who were invited, when He noted how they chose the best places, saying to them:
-LUK.14:8 'When you are invited by anyone to a wedding feast, do not sit down in the best place, lest one more honorable than you be invited by him;
+LUK.14:8 'When you are invited by anyone to awedding feast, do not sit down in the best place, lest one more honorable than you be invited by him;
 LUK.14:9 and he who invited you and him come and say to you, 'Give place to this man,' and then you begin with shame to take the lowest place.
 LUK.14:10 But when you are invited, go and sit down in the lowest place, so that when he who invited you comes he may say to you, 'Friend, go up higher.' Then you will have glory in the presence of those who sit at the table with you.
 
 ### Be Hospitable to the Lowly
 
 LUK.14:11 For whoever exalts himself will be humbled, and he who humbles himself will be exalted.'
-LUK.14:12 Then He also said to him who invited Him, 'When you give a dinner or a supper, do not ask your friends, your brothers, your relatives, nor rich neighbors, lest they also invite you back, and you be repaid.
-LUK.14:13 But when you give a feast, invite the poor, the maimed, the lame, the blind.
+LUK.14:12 Then He also said to him who invited Him, 'When you give adinner or asupper, do not ask your friends, your brothers, your relatives, nor rich neighbors, lest they also invite you back, and you be repaid.
+LUK.14:13 But when you give afeast, invite the poor, the maimed, the lame, the blind.
 
 ### Worldly Entanglements, Poor Excuses
 
@@ -945,9 +945,9 @@ LUK.14:14 And you will be blessed, because they cannot repay you; for you shall 
 LUK.14:15 Now when one of those who sat at the table with Him heard these things, he said to Him, 'Blessed is he who shall eat bread in the kingdom of God!'
 LUK.14:16 Then He said to him, 'A certain man gave great supper and invited many,
 LUK.14:17 and sent his servant at supper time to say to those who were invited, 'Come, for all things are now ready.'
-LUK.14:18 But they all with one accord began to make excuses. The first said to him, 'I have bought a piece of ground, and I must go and see it. I ask you to have me excused.'
+LUK.14:18 But they all with one accord began to make excuses. The first said to him, 'I have bought apiece of ground, and I must go and see it. I ask you to have me excused.'
 LUK.14:19 And another said, 'I have bought five yoke of oxen, and I am going to test them. I ask you to have me excused.'
-LUK.14:20 Still another said, 'I have married a wife, and therefore I cannot come.'
+LUK.14:20 Still another said, 'I have married awife, and therefore I cannot come.'
 LUK.14:21 So that servant came and reported these things to his master. Then the master of the house, being angry, said to his servant, 'Go out quickly into the streets and lanes of the city, and bring in here the poor and the maimed and the lame and the blind.'
 LUK.14:22 And the servant said, 'Master, it is done as you commanded, and still there is room.'
 LUK.14:23 Then the master said to the servant, 'Go out into the highways and hedges, and compel them to come in, that my house may be filled.
@@ -958,11 +958,11 @@ LUK.14:24 For I say to you that none of those men who were invited shall taste m
 LUK.14:25 Now great multitudes went with Him. And He turned and said to them,
 LUK.14:26 'If anyone comes to Me and does not hate his father and mother, wife and children, brothers and sisters, yes, and his own life also, he cannot be My disciple.
 LUK.14:27 And whoever does not bear his cross and come after Me cannot be My disciple.
-LUK.14:28 For which of you, intending to build a tower, does not sit down first and count the cost, whether he has enough to finish it -
+LUK.14:28 For which of you, intending to build atower, does not sit down first and count the cost, whether he has enough to finish it -
 LUK.14:29 lest, after he has laid the foundation, and is not able to finish, all who see it begin to mock him,
 LUK.14:30 saying, 'This man began to build and was not able to finish'?
 LUK.14:31 Or what king, going to make war against another king, does not sit down first and consider whether he is able with ten thousand to meet him who comes against him with twenty thousand?
-LUK.14:32 Or else, while the other is still great way off, he sends a delegation and asks conditions of peace.
+LUK.14:32 Or else, while the other is still great way off, he sends adelegation and asks conditions of peace.
 LUK.14:33 So likewise, whoever of you does not forsake all that he has cannot be My disciple.
 LUK.14:34 'Salt is good; but if the salt has lost its flavor, how shall it be seasoned?
 
@@ -987,16 +987,16 @@ LUK.15:9 And when she has found it, she calls her friends and neighbors together
 LUK.15:10 Likewise, I say to you, there is joy in the presence of the angels of God over one sinner who repents.'
 LUK.15:11 Then He said: 'A certain man had two sons.
 LUK.15:12 And the younger of them said to his father, 'Father, give me the portion of goods that falls to me. ' So he divided to them his livelihood.
-LUK.15:13 And not many days after, the younger son gathered all together, journeyed to a far country, and there wasted his possessions with prodigal living.
-LUK.15:14 But when he had spent all, there arose a severe famine in that land, and he began to be in want.
-LUK.15:15 Then he went and joined himself to a citizen of that country, and he sent him into his fields to feed swine.
+LUK.15:13 And not many days after, the younger son gathered all together, journeyed to afar country, and there wasted his possessions with prodigal living.
+LUK.15:14 But when he had spent all, there arose asevere famine in that land, and he began to be in want.
+LUK.15:15 Then he went and joined himself to acitizen of that country, and he sent him into his fields to feed swine.
 LUK.15:16 And he would gladly have filled his stomach with the pods that the swine ate, and no one gave him anything.
 LUK.15:17 'But when he came to himself, he said, 'How many of my father's hired servants have bread enough and to spare, and I perish with hunger!
 LUK.15:18 I will arise and go to my father, and will say to him, 'Father, I have sinned against heaven and before you,
 LUK.15:19 and I am no longer worthy to be called your son. Make me like one of your hired servants.' '
 LUK.15:20 'And he arose and came to his father. But when he was still great way off, his father saw him and had compassion, and ran and fell on his neck and kissed him.
 LUK.15:21 And the son said to him, 'Father, I have sinned against heaven and in your sight, and am no longer worthy to be called your son.'
-LUK.15:22 'But the father said to his servants, 'Bring out the best robe and put it on him, and put a ring on his hand and sandals on his feet.
+LUK.15:22 'But the father said to his servants, 'Bring aout the best robe and put it on him, and put aring on his hand and sandals on his feet.
 LUK.15:23 And bring the fatted calf here and kill it, and let us eat and be merry;
 LUK.15:24 for this my son was dead and is alive again; he was lost and is found.' And they began to be merry.
 LUK.15:25 'Now his older son was in the field. And as he came and drew near to the house, he heard music and dancing.
@@ -1012,7 +1012,7 @@ LUK.15:31 'And he said to him, 'Son, you are always with me, and all that I have
 LUK.15:32 It was right that we should make merry and be glad, for your brother was dead and is alive again, and was lost and is found.' '
 ## Chapter 16
 
-LUK.16:1 He also said to His disciples: 'There was a certain rich man who had a steward, and an accusation was brought to him that this man was wasting his goods.
+LUK.16:1 He also said to His disciples: 'There was a certain rich man who had asteward, and an accusation was brought to him that this man was wasting his goods.
 LUK.16:2 So he called him and said to him, 'What is this I hear about you? Give an account of your stewardship, for you can no longer be steward.'
 LUK.16:3 'Then the steward said within himself, 'What shall I do? For my master is taking the stewardship away from me. I cannot dig; I am ashamed to beg.
 LUK.16:4 I have resolved what to do, that when I am put out of the stewardship, they may receive me into their houses.'
@@ -1057,7 +1057,7 @@ LUK.16:32
 
 LUK.17:1 Then He said to the disciples, 'It is impossible that no offenses should come, but woe to him through whom they do come!
 LUK.17:2 It would be better for him if a millstone were hung around his neck, and he were thrown into the sea, than that he should offend one of these little ones.
-LUK.17:3 Take heed to yourselves. If your brother sins against you, rebuke him; and if he repents, forgive him.
+LUK.17:3 Take heed to yourselves. If your brother sins against you, arebuke him; and if he repents, forgive him.
 LUK.17:4 And if he sins against you seven times in day, and seven times in day returns to you, a saying, 'I repent,' you shall forgive him.'
 LUK.17:5 And the apostles said to the Lord, 'Increase our faith.'
 LUK.17:6 So the Lord said, 'If you have faith as a mustard seed, you can say to this mulberry tree, 'Be pulled up by the roots and be planted in the sea,' and it would obey you.
@@ -1104,7 +1104,7 @@ LUK.17:37 And they answered and said to Him, 'Where, Lord?' So He said to them, 
 ### The Tenacious Widow
 
 LUK.18:1 Then He spoke a parable to them, that men always ought to pray and not lose heart,
-LUK.18:2 saying: 'There was in a certain city a judge who did not fear God nor regard man.
+LUK.18:2 saying: 'There was in a certain city ajudge who did not fear God nor regard man.
 LUK.18:3 Now there was a widow in that city; and she came to him, saying, 'Get justice for me from my adversary.'
 LUK.18:4 And he would not for awhile; but afterward he said within himself, 'Though I do not fear God nor regard man,
 LUK.18:5 yet because this widow troubles me I will avenge her, lest by her continual coming she weary me.' '
@@ -1117,7 +1117,7 @@ LUK.18:8 I tell you that He will avenge them speedily. Nevertheless, when the So
 LUK.18:9 Also He spoke this parable to some who trusted in themselves that they were righteous, and despised others:
 LUK.18:10 'Two men went up to the temple to pray, one a Pharisee and the other a tax collector.
 LUK.18:11 The Pharisee stood and prayed thus with himself, 'God, I thank You that I am not like other men-extortioners, unjust, adulterers, or even as this tax collector.
-LUK.18:12 I fast twice a week; I give tithes of all that I possess.'
+LUK.18:12 I fast twice aweek; I give tithes of all that I possess.'
 LUK.18:13 And the tax collector, standing afar off, would not so much as raise his eyes to heaven, but beat his breast, saying, 'God, be merciful to me a sinner!'
 
 ### Receive the Kingdom as a Child
@@ -1136,7 +1136,7 @@ LUK.18:21 And he said, 'All these things I have kept from my youth.'
 LUK.18:22 So when Jesus heard these things, He said to him, 'You still lack one thing. Sell all that you have and distribute to the poor, and you will have treasure in heaven; and come, follow Me.'
 LUK.18:23 But when he heard this, he became very sorrowful, for he was very rich.
 LUK.18:24 And when Jesus saw that he became very sorrowful, He said, 'How hard it is for those who have riches to enter the kingdom of God!
-LUK.18:25 For it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.'
+LUK.18:25 For it is easier for acamel to go through the eye of aneedle than for a rich man to enter the kingdom of God.'
 LUK.18:26 And those who heard it said, 'Who then can be saved?'
 
 ### The Reward of Renunciation
@@ -1156,7 +1156,7 @@ LUK.18:33 They will scourge Him and kill Him. And the third day He will rise aga
 
 LUK.18:34 But they understood none of these things; this saying was hidden from them, and they did not know the things which were spoken.
 LUK.18:35 Then it happened, as He was coming near Jericho, that a certain blind man sat by the road begging.
-LUK.18:36 And hearing a multitude passing by, he asked what it meant.
+LUK.18:36 And hearing amultitude passing by, he asked what it meant.
 LUK.18:37 So they told him that Jesus of Nazareth was passing by.
 LUK.18:38 And he cried out, saying, 'Jesus, Son of David, have mercy on me!'
 LUK.18:39 Then those who went before warned him that he should be quiet; but he cried out all the more, 'Son of David, have mercy on me!'
@@ -1170,28 +1170,28 @@ LUK.18:43 And immediately he received his sight, and followed Him, glorifying Go
 ## Chapter 19
 
 LUK.19:1 Then Jesus entered and passed through Jericho.
-LUK.19:2 Now behold, there was a man named Zacchaeus who was a chief tax collector, and he was rich.
+LUK.19:2 Now behold, there was a man named Zacchaeus who was achief tax collector, and he was rich.
 LUK.19:3 And he sought to see who Jesus was, but could not because of the crowd, for he was of short stature.
-LUK.19:4 So he ran ahead and climbed up into a sycamore tree to see Him, for He was going to pass that way.
+LUK.19:4 So he ran ahead and climbed up into asycamore tree to see Him, for He was going to pass that way.
 LUK.19:5 And when Jesus came to the place, He looked up and saw him, and said to him, 'Zacchaeus, make haste and come down, for today I must stay at your house.'
 LUK.19:6 So he made haste and came down, and received Him joyfully.
-LUK.19:7 But when they saw it, they all complained, saying, 'He has gone to be a guest with a man who is a sinner.'
+LUK.19:7 But when they saw it, they all complained, saying, 'He has gone to be aguest with a man who is a sinner.'
 LUK.19:8 Then Zacchaeus stood and said to the Lord, 'Look, Lord, I give half of my goods to the poor; and if I have taken anything from anyone by false accusation, I restore fourfold.'
-LUK.19:9 And Jesus said to him, 'Today salvation has come to this house, because he also is a son of Abraham;
+LUK.19:9 And Jesus said to him, 'Today salvation has come to this house, because he also is ason of Abraham;
 
 ### The Parable of the Minas
 
 LUK.19:10 for the Son of Man has come to seek and to save that which was lost.'
 LUK.19:11 Now as they heard these things, He spoke another parable, because He was near Jerusalem and because they thought the kingdom of God would appear immediately.
-LUK.19:12 Therefore He said: 'A certain nobleman went into a far country to receive for himself a kingdom and to return.
+LUK.19:12 Therefore He said: 'A certain nobleman went into afar country to receive for himself akingdom and to return.
 LUK.19:13 So he called ten of his servants, delivered to them ten minas, and said to them, 'Do business till I come.'
-LUK.19:14 But his citizens hated him, and sent a delegation after him, saying, 'We will not have this man to reign over us.'
+LUK.19:14 But his citizens hated him, and sent adelegation after him, saying, 'We will not have this man to reign over us.'
 LUK.19:15 'And so it was that when he returned, having received the kingdom, he then commanded these servants, to whom he had given the money, to be called to him, that he might know how much every man had gained by trading.
 LUK.19:16 Then came the first, saying, 'Master, your mina has earned ten minas.'
 LUK.19:17 And he said to him, 'Well done, good servant; because you were faithful in very little, have authority over ten cities.'
 LUK.19:18 And the second came, saying, 'Master, your mina has earned five minas.'
 LUK.19:19 Likewise he said to him, 'You also be over five cities.'
-LUK.19:20 'Then another came, saying, 'Master, here is your mina, which I have kept put away in a handkerchief.
+LUK.19:20 'Then another came, saying, 'Master, here is your mina, which I have kept put away in ahandkerchief.
 LUK.19:21 For I feared you, because you are an austere man. You collect what you did not deposit, and reap what you did not sow.'
 LUK.19:22 And he said to him, 'Out of your own mouth I will judge you, you wicked servant. You knew that I was an austere man, collecting what I did not deposit and reaping what I did not sow.
 LUK.19:23 Why then did you not put my money in the bank, that at my coming I might have collected it with interest?'
@@ -1238,13 +1238,13 @@ LUK.20:2 and spoke to Him, saying, 'Tell us, by what authority are You doing the
 LUK.20:3 But He answered and said to them, 'I also will ask you one thing, and answer Me:
 LUK.20:4 The baptism of John-was it from heaven or from men?'
 LUK.20:5 And they reasoned among themselves, saying, 'If we say, 'From heaven,' He will say, 'Why then did you not believe him?'
-LUK.20:6 But if we say, 'From men,' all the people will stone us, for they are persuaded that John was a prophet.'
+LUK.20:6 But if we say, 'From men,' all the people will stone us, for they are persuaded that John was aprophet.'
 LUK.20:7 So they answered that they did not know where it was from.
 
 ### The Wicked Vineyard Tenants
 
 LUK.20:8 And Jesus said to them, 'Neither will I tell you by what authority I do these things.'
-LUK.20:9 Then He began to tell the people this parable: 'A certain man planted a vineyard, leased it to vinedressers, and went into a far country for a long time.
+LUK.20:9 Then He began to tell the people this parable: 'A certain man planted avineyard, leased it to vinedressers, and went into afar country for along time.
 LUK.20:10 Now at vintage-time he sent a servant to the vinedressers, that they might give him some of the fruit of the vineyard. But the vinedressers beat him and sent him away empty-handed.
 LUK.20:11 Again he sent another servant; and they beat him also, treated him shamefully, and sent him away empty-handed.
 LUK.20:12 And again he sent a third; and they wounded him also and cast him out.
@@ -1268,10 +1268,10 @@ LUK.20:25 They answered and said, 'Caesar's.' And He said to them, 'Render there
 ### The Mystery of Resurrection
 
 LUK.20:26 But they could not catch Him in His words in the presence of the people. And they marveled at His answer and kept silent.
-LUK.20:27 Then some of the Sadducees, who deny that there is a resurrection, came to Him and asked Him,
-LUK.20:28 saying: 'Teacher, Moses wrote to us that if a man's brother dies, having a wife, and he dies without children, his brother should take his wife and raise up offspring for his brother.
-LUK.20:29 Now there were seven brothers. And the first took a wife, and died without children.
-LUK.20:30 And the second took her as wife, and he died childless.
+LUK.20:27 Then some of the Sadducees, who deny that there is aresurrection, came to Him and asked Him,
+LUK.20:28 saying: 'Teacher, Moses wrote to us that if aman's brother dies, having awife, and he dies without children, his brother should take his wife and raise up offspring for his brother.
+LUK.20:29 Now there were seven brothers. And the first took awife, and died without children.
+LUK.20:30 And the second atook her as wife, and he died childless.
 LUK.20:31 Then the third took her, and in like manner the seven also; and they left no children, and died.
 LUK.20:32 Last of all the woman died also.
 LUK.20:33 Therefore, in the resurrection, whose wife does she become? For all seven had her as wife.'
@@ -1296,8 +1296,8 @@ LUK.20:45 Then, in the hearing of all the people, He said to His disciples,
 
 ### Imitate the Poor Widow
 
-LUK.20:46 'Beware of the scribes, who desire to go around in long robes, love greetings in the marketplaces, the best seats in the synagogues, and the best places at feasts, 47 who devour widows' houses, and for a pretense make long prayers. These will receive greater condemnation.'
-LUK.20:47
+LUK.20:46 'Beware of the scribes, who desire to go around in long robes, love greetings in the marketplaces, the best seats in the synagogues, and the best places at feasts,
+LUK.20:47 who devour widows' houses, and for a pretense make long prayers. These will receive greater condemnation.'
 ## Chapter 21
 
 LUK.21:1 And He looked up and saw the rich putting their gifts into the treasury,
@@ -1320,7 +1320,7 @@ LUK.21:14 Therefore settle it in your hearts not to meditate beforehand on what 
 LUK.21:15 for I will give you a mouth and wisdom which all your adversaries will not be able to contradict or resist.
 LUK.21:16 You will be betrayed even by parents and brothers, relatives and friends; and they will put some of you to death.
 LUK.21:17 And you will be hated by all for My name's sake.
-LUK.21:18 But not a hair of your head shall be lost.
+LUK.21:18 But not ahair of your head shall be lost.
 
 ### The Destruction of Jerusalem
 
@@ -1347,7 +1347,7 @@ LUK.21:32 Assuredly, I say to you, this generation will by no means pass away ti
 
 LUK.21:33 Heaven and earth will pass away, but My words will by no means pass away.
 LUK.21:34 'But take heed to yourselves, lest your hearts be weighed down with carousing, drunkenness, and cares of this life, and that Day come on you unexpectedly.
-LUK.21:35 For it will come as a snare on all those who dwell on the face of the whole earth.
+LUK.21:35 For it will come as asnare on all those who dwell on the face of the whole earth.
 LUK.21:36 Watch therefore, and pray always that you may be counted worthy to escape all these things that will come to pass, and to stand before the Son of Man.'
 LUK.21:37 And in the daytime He was teaching in the temple, but at night He went out and stayed on the mountain called Olivet.
 
@@ -1369,15 +1369,15 @@ LUK.22:6 So he promised and sought opportunity to betray Him to them in the abse
 LUK.22:7 Then came the Day of Unleavened Bread, when the Passover must be killed.
 LUK.22:8 And He sent Peter and John, saying, 'Go and prepare the Passover for us, that we may eat.'
 LUK.22:9 So they said to Him, 'Where do You want us to prepare?'
-LUK.22:10 And He said to them, 'Behold, when you have entered the city, a man will meet you carrying a pitcher of water; follow him into the house which he enters.
+LUK.22:10 And He said to them, 'Behold, when you have entered the city, a man will meet you carrying apitcher of water; follow him into the house which he enters.
 LUK.22:11 Then you shall say to the master of the house, 'The Teacher says to you, 'Where is the guest room where I may eat the Passover with My disciples?' '
 LUK.22:12 Then he will show you a large, furnished upper room; there make ready.'
 LUK.22:13 So they went and found it just as He had said to them, and they prepared the Passover.
-LUK.22:14 The Eucharist Instituted When the hour had come, He sat down, and the twelve apostles with Him.
+LUK.22:14 The Eucharist Instituted When the hour had come, He sat down, and the twelve aapostles with Him.
 LUK.22:15 Then He said to them, 'With fervent desire I have desired to eat this Passover with you before I suffer;
 LUK.22:16 for I say to you, I will no longer eat of it until it is fulfilled in the kingdom of God.'
 LUK.22:17 Then He took the cup, and gave thanks, and said, 'Take this and divide it among yourselves;
-LUK.22:18 for I say to you, I will not drink of the fruit of the vine until the kingdom of God comes.'
+LUK.22:18 for I say to you,I will not drink of the fruit of the vine until the kingdom of God comes.'
 
 ### Deception and Betrayal
 
@@ -1389,7 +1389,7 @@ LUK.22:22 And truly the Son of Man goes as it has been determined, but woe to th
 ### Greatness Is Service
 
 LUK.22:23 Then they began to question among themselves, which of them it was who would do this thing.
-LUK.22:24 Now there was also a dispute among them, as to which of them should be considered the greatest.
+LUK.22:24 Now there was also adispute among them, as to which of them should be considered the greatest.
 LUK.22:25 And He said to them, 'The kings of the Gentiles exercise lordship over them, and those who exercise authority over them are called 'benefactors.'
 LUK.22:26 But not so among you; on the contrary, he who is greatest among you, let him be as the younger, and he who governs as he who serves.
 
@@ -1397,7 +1397,7 @@ LUK.22:26 But not so among you; on the contrary, he who is greatest among you, l
 
 LUK.22:27 For who is greater, he who sits at the table, or he who serves? Is it not he who sits at the table? Yet I am among you as the One who serves.
 LUK.22:28 'But you are those who have continued with Me in My trials.
-LUK.22:29 And I bestow upon you a kingdom, just as My Father bestowed one upon Me,
+LUK.22:29 And I bestow upon you akingdom, just as My Father bestowed one upon Me,
 
 ### Peter's Denials Predicted
 
@@ -1410,24 +1410,24 @@ LUK.22:33 But he said to Him, 'Lord, I am ready to go with You, both to prison a
 
 LUK.22:34 Then He said, 'I tell you, Peter, the rooster shall not crow this day before you will deny three times that you know Me.'
 LUK.22:35 And He said to them, 'When I sent you without money bag, knapsack, and sandals, did you lack anything?'
-LUK.22:36 Then He said to them, 'But now, he who has a money bag, let him take it, and likewise a knapsack; and he who has no sword, let him sell his garment and buy one.
+LUK.22:36 Then He said to them, 'But now, he who has amoney bag, let him take it, and likewise aknapsack; and he who has no sword, let him sell his garment and buy one.
 LUK.22:37 For I say to you that this which is written must still be accomplished in Me: 'And He was numbered with the transgressors.'For the things concerning Me have an end.'
 LUK.22:38 So they said, 'Lord, look, here are two swords.'
 LUK.22:39 Coming out, He went to the Mount of Olives, as He was accustomed, and His disciples also followed Him. And He said to them, 'It is enough.'
 LUK.22:40 When He came to the place, He said to them, 'Pray that you may not enter into temptation.' Jesus Watches in the Garden
-LUK.22:41 And He was withdrawn from them about a stone's throw, and He knelt down and prayed,
+LUK.22:41 And He was withdrawn from them about astone's throw, and He knelt down and prayed,
 LUK.22:42 saying, 'Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done.'
 LUK.22:43 Then an angel appeared to Him from heaven, strengthening Him.
 LUK.22:44 And being in agony, He prayed more earnestly. Then His sweat became like great drops of blood falling down to the ground.
 LUK.22:45 When He rose up from prayer, and had come to His disciples, He found them sleeping from sorrow.
 
 LUK.22:46 Then He said to them, 'Why do you sleep? Rise and pray, lest you enter into temptation.'
-LUK.22:47 And while He was still speaking, behold, a multitude; and he who was called Judas, one of the twelve, went before them and drew near to Jesus to kiss Him.
-LUK.22:48 But Jesus said to him, 'Judas, are you betraying the Son of Man with a kiss?'
+LUK.22:47 And while He was still speaking, behold, amultitude; and he who was called Judas, one of the twelve, went before them and drew near to Jesus to kiss Him.
+LUK.22:48 But Jesus said to him, 'Judas, are you betraying the Son of Man with akiss?'
 LUK.22:49 When those around Him saw what was going to happen, they said to Him, 'Lord, shall we strike with the sword?'
 LUK.22:50 And one of them struck the servant of the high priest and cut off his right ear.
 LUK.22:51 But Jesus answered and said, 'Permit even this.' And He touched his ear and healed him.
-LUK.22:52 Then Jesus said to the chief priests, captains of the temple, and the elders who had come to Him, 'Have you come out, as against a robber, with swords and clubs?
+LUK.22:52 Then Jesus said to the chief priests, captains of the temple, and the elders who had come to Him, 'Have you come out, as against arobber, with swords and clubs?
 
 ### Peter's Denials
 
@@ -1439,7 +1439,7 @@ LUK.22:57 But he denied Him, a saying, 'Woman, I do not know Him.'
 LUK.22:58 And after little while another saw him and said, 'You also are of them.'
 LUK.22:59 But Peter said, 'Man, I am not!' Then after about an hour had passed, another confidently affirmed, saying, 'Surely this fellow also was with Him, for he is a Galilean.'
 LUK.22:60 But Peter said, 'Man, I do not know what you are saying!'
-LUK.22:61 Immediately, while he was still speaking, the rooster crowed. And the Lord turned and looked at Peter. Then Peter remembered the word of the Lord, how He had said to him, 'Before the rooster crows, you will deny Me three times.'
+LUK.22:61 Immediately, while he was still speaking, the rooster acrowed. And the Lord turned and looked at Peter. Then Peter remembered the word of the Lord, how He had said to him, 'Before the rooster crows, you will deny Me three times.'
 LUK.22:62 So Peter went out and wept bitterly.
 LUK.22:63 Now the men who held Jesus mocked Him and beat Him.
 LUK.22:64 And having blindfolded Him, they struck Him on the face and asked Him, a saying, 'Prophesy! Who is the one who struck You?'
@@ -1460,7 +1460,7 @@ LUK.22:72
 ## Chapter 23
 
 LUK.23:1 Then the whole multitude of them arose and led Him to Pilate.
-LUK.23:2 And they began to accuse Him, saying, 'We found this fellow perverting the nation, and forbidding to pay taxes to Caesar, saying that He Himself is Christ, King.'
+LUK.23:2 And they began to accuse Him, saying, 'We found this fellow perverting the anation, and forbidding to pay taxes to Caesar, saying that He Himself is Christ,King.'
 LUK.23:3 Then Pilate asked Him, saying, 'Are You the King of the Jews?'
 LUK.23:4 He answered him and said, ' It is as you say.' So Pilate said to the chief priests and the crowd, 'I find no fault in this Man.'
 
@@ -1469,10 +1469,10 @@ LUK.23:4 He answered him and said, ' It is as you say.' So Pilate said to the ch
 LUK.23:5 But they were the more fierce, saying, 'He stirs up the people, teaching throughout all Judea, beginning from Galilee to this place.'
 LUK.23:6 When Pilate heard of Galilee, he asked if the Man were a Galilean.
 LUK.23:7 And as soon as he knew that He belonged to Herod's jurisdiction, he sent Him to Herod, who was also in Jerusalem at that time.
-LUK.23:8 Now when Herod saw Jesus, he was exceedingly glad; for he had desired for a long time to see Him, because he had heard many things about Him, and he hoped to see some miracle done by Him.
+LUK.23:8 Now when Herod saw Jesus, he was exceedingly glad; for he had desired for along time to see Him, because he had heard many things about Him, and he hoped to see some miracle done by Him.
 LUK.23:9 Then he questioned Him with many words, but He answered him nothing.
 LUK.23:10 And the chief priests and scribes stood and vehemently accused Him.
-LUK.23:11 Then Herod, with his men of war, treated Him with contempt and mocked Him, arrayed Him in a gorgeous robe, and sent Him back to Pilate.
+LUK.23:11 Then Herod, with his men of war, treated Him with contempt and mocked Him, arrayed Him in agorgeous robe, and sent Him back to Pilate.
 
 ### Jesus or Barabbas?
 
@@ -1511,28 +1511,28 @@ LUK.23:37 and saying, 'If You are the King of the Jews, save Yourself.'
 
 ### This Is The King Of The Jews. †
 
-LUK.23:38 And an inscription also was written over Him in letters of Greek, Latin, and Hebrew: Two Thieves, Two Ways
-LUK.23:39 Then one of the criminals who were hanged blasphemed Him, saying, 'If You are the Christ, save Yourself and us.'
+LUK.23:38 And an inscription also was written over Him in letters of Greek, Latin, and Hebrew:Two Thieves, Two Ways
+LUK.23:39 Then one of the criminals who were hanged blasphemed Him, saying, 'If You are the Christ, asave Yourself and us.'
 LUK.23:40 But the other, answering, rebuked him, saying, 'Do you not even fear God, seeing you are under the same condemnation?
 LUK.23:41 And we indeed justly, for we receive the due reward of our deeds; but this Man has done nothing wrong.'
-LUK.23:42 Then he said to Jesus, 'Lord, remember me when You come into Your kingdom.'
+LUK.23:42 Then he said to Jesus, 'Lord, aremember me when You come into Your kingdom.'
 
 ### Darkness and Death
 
 LUK.23:43 And Jesus said to him, 'Assuredly, I say to you, today you will be with Me in Paradise.'
-LUK.23:44 Now it was about the sixth hour, and there was darkness over all the earth until the ninth hour.
+LUK.23:44 Now it was aabout the sixth hour, and there was darkness over all the earth until the ninth hour.
 LUK.23:45 Then the sun was darkened, and the veil of the temple was torn in two.
 LUK.23:46 And when Jesus had cried out with a loud voice, He said, 'Father, 'into Your hands I commit My spirit.' 'Having said this, He breathed His last.
-LUK.23:47 So when the centurion saw what had happened, he glorified God, saying, 'Certainly this was a righteous Man!'
+LUK.23:47 So when the centurion saw what had happened, he glorified God, saying, 'Certainly this was arighteous Man!'
 LUK.23:48 And the whole crowd who came together to that sight, seeing what had been done, beat their breasts and returned.
 
 ### Burial
 
 LUK.23:49 But all His acquaintances, and the women who followed Him from Galilee, stood at a distance, watching these things.
-LUK.23:50 Now behold, there was a man named Joseph, a council member, good and just man.
+LUK.23:50 Now behold, there was a man named Joseph, acouncil member, good and just man.
 LUK.23:51 He had not consented to their decision and deed. He was from Arimathea, a city of the Jews, who himself was also waiting for the kingdom of God.
 LUK.23:52 This man went to Pilate and asked for the body of Jesus.
-LUK.23:53 Then he took it down, wrapped it in linen, and laid it in a tomb that was hewn out of the rock, where no one had ever lain before.
+LUK.23:53 Then he took it down, wrapped it in linen, and laid it in atomb that was hewn out of the rock, where no one had ever lain before.
 LUK.23:54 That day was the Preparation, and the Sabbath drew near.
 LUK.23:55 And the women who had come with Him from Galilee followed after, and they observed the tomb and how His body was laid.
 
@@ -1545,7 +1545,7 @@ LUK.23:57
 LUK.24:1 Now on the first day of the week, very early in the morning, they, and certain other women with them, came to the tomb bringing the spices which they had prepared.
 LUK.24:2 But they found the stone rolled away from the tomb.
 LUK.24:3 Then they went in and did not find the body of the Lord Jesus.
-LUK.24:4 And it happened, as they were greatly perplexed about this, that behold, two men stood by them in shining garments.
+LUK.24:4 And it happened, as they were greatly aperplexed about this, that behold, two men stood by them in shining garments.
 LUK.24:5 Then, as they were afraid and bowed their faces to the earth, they said to them, 'Why do you seek the living among the dead?
 LUK.24:6 He is not here, but is risen! Remember how He spoke to you when He was still in Galilee,
 LUK.24:7 saying, 'The Son of Man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.' '
@@ -1555,7 +1555,7 @@ LUK.24:10 It was Mary Magdalene, Joanna, Mary the mother of James, and the other
 LUK.24:11 And their words seemed to them like idle tales, and they did not believe them.
 
 LUK.24:12 But Peter arose and ran to the tomb; and stooping down, he saw the linen cloths lying by themselves; and he departed, marveling to himself at what had happened.
-LUK.24:13 Now behold, two of them were traveling that same day to a village called Emmaus, which was seven miles from Jerusalem.
+LUK.24:13 Now behold, two of them were traveling that same day to avillage called Emmaus, which was seven miles from Jerusalem.
 LUK.24:14 And they talked together of all these things which had happened.
 LUK.24:15 So it was, while they conversed and reasoned, that Jesus Himself drew near and went with them.
 LUK.24:16 But their eyes were restrained, so that they did not know Him.
@@ -1565,7 +1565,7 @@ LUK.24:19 And He said to them, 'What things?'
 LUK.24:20 So they said to Him, 'The things concerning Jesus of Nazareth, who was a Prophet mighty in deed and word before God and all the people, and how the chief priests and our rulers delivered Him to be condemned to death, and crucified Him.
 LUK.24:21 But we were hoping that it was He who was going to redeem Israel. Indeed, besides all this, today is the third day since these things happened.
 LUK.24:22 Yes, and certain women of our company, who arrived at the tomb early, astonished us.
-LUK.24:23 When they did not find His body, they came saying that they had also seen a vision of angels who said He was alive.
+LUK.24:23 When they did not find His body, they came saying that they had also seen avision of angels who said He was alive.
 LUK.24:24 And certain of those who were with us went to the tomb and found it just as the women had said; but Him they did not see.'
 LUK.24:25 Then He said to them, 'O foolish ones, and slow of heart to believe in all that the prophets have spoken!
 LUK.24:26 Ought not the Christ to have suffered these things and to enter into His glory?'
@@ -1585,7 +1585,7 @@ LUK.24:38 And He said to them, 'Why are you troubled? And why do doubts arise in
 LUK.24:39 Behold My hands and My feet, that it is I Myself. Handle Me and see, for a spirit does not have flesh and bones as you see I have.'
 LUK.24:40 When He had said this, He showed them His hands and His feet.
 LUK.24:41 But while they still did not believe for joy, and marveled, He said to them, 'Have you any food here?'
-LUK.24:42 So they gave Him a piece of broiled fish and some honeycomb.
+LUK.24:42 So they gave Him apiece of abroiled fish and some honeycomb.
 
 LUK.24:43 And He took it and ate in their presence.
 LUK.24:44 Then He said to them, 'These are the words which I spoke to you while I was still with you, that all things must be fulfilled which were written in the Law of Moses and the Prophets and the Psalms concerning Me.'
@@ -1594,8 +1594,8 @@ LUK.24:46 Then He said to them, 'Thus it is written, and thus it was necessary f
 LUK.24:47 and that repentance and remission of sins should be preached in His name to all nations, beginning at Jerusalem.
 LUK.24:48 And you are witnesses of these things.
 
-LUK.24:49 Behold, I send the Promise of My Father upon you; but tarry in the city of Jerusalem until you are endued with power from on high.'
+LUK.24:49 Behold, I send the Promise of My Father upon you; but tarry in the city of Jerusalem auntil you are endued with power from on high.'
 LUK.24:50 And He led them out as far as Bethany, and He lifted up His hands and blessed them.
 LUK.24:51 Now it came to pass, while He blessed them, that He was parted from them and carried up into heaven.
 LUK.24:52 And they worshiped Him, and returned to Jerusalem with great joy,
-LUK.24:53 and were continually in the temple praising and blessing God. Amen.
+LUK.24:53 and were continually in the temple praising and ablessing God. Amen.

@@ -1,6 +1,6 @@
 # Orthodox Phronema Archive — Project Board
 
-> **Last updated:** 2026-03-13
+> **Last updated:** 2026-03-15
 > **Role:** Official PM surface
 > **Board owner:** Human (ShanesNotes)
 > **Maintained by:** Ark, Ezra, Cowork
@@ -21,8 +21,8 @@ Build a durable, local-first, versioned Orthodox textual archive. The canon subs
 | Phase | Name | Status | Gate |
 |---|---|---|---|
 | 1 | Canon Substrate | Complete | `76/76` books promoted |
-| 2 | Canon Lock & Governance | Active | Human ratification of Memo `91` and Memo `51`; OT lock remains pending `EST` disposition |
-| 3 | Hyperlinking & Graph | Ready to launch | Human ratification of Memo `88`, then Ark runs the first PSA pilot through Layer 2 + Layer 3 |
+| 2 | Canon Lock & Governance | Active | Human ratification of Memo `91` and Memo `51`; 5 books re-promoted after Memo `128` audit (1CO, ROM, LUK, ISA, EZR); OT lock pending `EST` disposition; DEU/NUM/1CH deferred (parser recovery needed) |
+| 3 | Hyperlinking & Graph | Foundation verified, ready to launch | Human ratification of Memo `88`, then Ark runs the first PSA pilot through Layer 2 + Layer 3 |
 | 4 | Archive Interfaces | Planned | Wait for stable backlink shards and derived graph before MCP / retrieval exposure |
 
 ## Current Priorities
@@ -39,7 +39,7 @@ Build a durable, local-first, versioned Orthodox textual archive. The canon subs
 
 | ID | Question | Owner | Status |
 |---|---|---|---|
-| `OT-LOCK-1` | Ratify the OT `V7` drift set and decide `EST` as repair vs source-absent ratification | Human | Open |
+| `OT-LOCK-1` | Ratify the OT `V7` drift set and decide `EST` as repair vs source-absent ratification. Memo `128` audit: ISA/EZR re-promoted; EST ratified; NUM/1CH/DEU deferred for parser work | Human | Open (narrowed) |
 | `RES-2` | Ratify historical packet for `JDG`, `1SA`, `2SA` | Human | Open |
 | `PHASE3-1` | Ratify Memo `88` as the governing Phase 3 document | Human | Open |
 
@@ -48,10 +48,12 @@ Build a durable, local-first, versioned Orthodox textual archive. The canon subs
 | Metric | Current |
 |---|---|
 | Total promoted books | `76` |
-| Fresh promotion dossiers | `76/76` |
+| Fresh promotion dossiers | `76/76` (5 refreshed 2026-03-15) |
 | Promoted books with stale dossiers | `0` |
 | Open human ratification packets | `3` |
-| OT non-`V7` warning books | `1` (`EST`) |
+| Registry version | `v1.7.4` (31 CVC corrections from Memo `128` audit) |
+| Canon validation warnings | `~21` (5 genuine V4/V7, rest cosmetic V8) |
+| Foundational purity audit | Complete (Memo `128`) |
 | Phase 3 execution scaffold | `R1 seed + backlink builder + graph schema + Phase 3 validator` |
 
 ## Coordination Contract
@@ -66,3 +68,5 @@ Build a durable, local-first, versioned Orthodox textual archive. The canon subs
 - The old repo-cleanup tail is now bounded: historical Phase 2 one-off repair scripts have been archived out of live cleanup paths, while `pipeline/cleanup/` is reserved for active reusable cleanup and audit tools.
 - Memo `88` remains the proposed governing Phase 3 document until Human ratifies it. The repo should not describe it as already ratified.
 - Auxiliary reports that are not named above are advisory, not live coordination truth, unless a memo or board line explicitly adopts them.
+- Memo `128` foundational purity audit is complete: 76-book V1-V12 sweep, registry CVC reconciliation, study layer cleanup, and 5 books re-promoted with Ezra-audited staged fixes (2026-03-15).
+- DEU, NUM, and 1CH have known parser recovery needs (mega-lines, LXX gaps) deferred to future work.

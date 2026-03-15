@@ -5,8 +5,8 @@ testament: OT
 canon_position: 43
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-10"
-promote_date: "2026-03-10"
-checksum: "699de052e2511e7d4ca6f0fd128763f861c2d3d2d256687d35e059ac700bbaa8"
+promote_date: "2026-03-15"
+checksum: "79b0d574fec680d0dbb9173254c570f607fa03544e582d65971b0f39c88d5df6"
 status: promoted
 deuterocanonical: false
 has_additions: false
@@ -1434,6 +1434,6 @@ ISA.66:18 'and I know their works and their reasoning. I am coming to gather all
 ISA.66:19 And I will leave signs upon them, and those among them who are saved, I will send forth to the Gentiles: to Tarshish, and Pul and Lud and Tubal, and to Greece and to the coastlands far off, to those who have not heard My name, nor seen My glory; and they shall declare My glory among the Gentiles.
 ISA.66:20 They shall bring your brethren from among all the Gentiles as a gift to the Lord, with horses and chariots, in litters drawn by mules and covered with sunshades, to the holy city of Jerusalem,' says the Lord, 'just as the children of Israel would bring Me their sacrifices with psalms into the house of the Lord.
 ISA.66:21 I shall take some of them to be My priests and Levites,' says the Lord.
-ISA.66:22 'For just as the new heaven and the new earth which I make shall remain before Me,' says the Lord,'s oshall your seed and your name remain.
+ISA.66:22 'For just as the new heaven and the new earth which I make shall remain before Me,' says the Lord, 'so shall your seed and your name remain.
 ISA.66:23 It shall come to pass from month to month and from Sabbath to Sabbath, all flesh shall worship before Me in Jerusalem,' says the Lord.
 ISA.66:24 'They shall go forth and see the dead bodies of the men who transgressed against Me, for their worm shall not die, and their fire shall not be extinguished; and they shall be a vision to all flesh.'

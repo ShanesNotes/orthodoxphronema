@@ -1,8 +1,8 @@
 # Memo Index — Orthodox Phronema Archive
 
-> **Last updated:** 2026-03-13
+> **Last updated:** 2026-03-15
 > **Role:** Memo governance overlay
-> **Covers:** `39` top-level governance/memo files and `157` archived memo files
+> **Covers:** `47` top-level governance/memo files and `157` archived memo files
 > **See also:** `PROJECT_BOARD.md` for PM state and `memos/ezra_ops_board.md` for live dispatch
 
 ---
@@ -26,6 +26,7 @@ These memos define active policy, protocol, or default workflow. When they confl
 | `62_ot_purity_pass_and_editorial_queue_integration.md` | Purity audit workflow | — |
 | `69_v11v12_activation_and_phase2_3_bootstrap.md` | `V11` / `V12` live; Phase 3 prep | — |
 | `70_workflow_consolidation.md` | Project board, memo index, research separation | — |
+| `128_foundational_purity_audit.md` | 76-book foundational purity audit; registry CVC reconciliation; study layer cleanup | — |
 
 ## Awaiting Human Ratification
 
@@ -56,6 +57,14 @@ These memos define active policy, protocol, or default workflow. When they confl
 | `123_phase3_contract_reconciliation.md` | Marker-layer vs R1 Phase 3 handoff repair |
 | `124_cleanup_tail_taxonomy_and_archive.md` | Cleanup namespace narrowed to active reusable tools; historical one-offs archived |
 | `125_noah_downstream_ingestion_contract.md` | Noah read-only pericope packet/export contract |
+| `126_footnote_cleanup_study_surface_launch.md` | Footnote cleanup launch on study surface |
+| `127_footnote_cleanup_three_tier_study_lane.md` | Footnote cleanup three-tier study lane |
+| `128_footnote_cleanup_wave1_progress.md` | Footnote cleanup wave 1 progress (Ezra) |
+| `129_footnote_cleanup_wave2_progress.md` | Footnote cleanup wave 2 progress (Ezra) |
+| `130_footnote_cleanup_wave2_completion_and_1ki_launch.md` | Footnote cleanup wave 2 completion + 1KI (Ezra) |
+| `131_footnote_cleanup_wave4_completion_and_maccabean_launch.md` | Footnote cleanup wave 4 + Maccabean (Ezra) |
+| `132_footnote_cleanup_proverbs_tranche_and_wave5_progress.md` | Footnote cleanup PRO tranche + wave 5 (Ezra) |
+| `133_footnote_cleanup_sir_isa_jer_tranche.md` | Footnote cleanup SIR/ISA/JER tranche (Ezra) |
 | `98_contract_repair_and_state_refresh.md` | Shared contract repair truth |
 | `18_gen_readability_blocker_decision.md` | Readability policy |
 | `20_greek_source_text_acquisition.md` | Future: Greek source layer |
@@ -118,7 +127,7 @@ These memos define active policy, protocol, or default workflow. When they confl
 - Numbered memos remain the durable team record.
 - Do not reuse numeric prefixes for new memos.
 - Advisory and research artifacts never receive numbered memo prefixes.
-- Next available memo number: `126`
+- Next available memo number: `134`
 
 ### Metadata For New Memos
 ```text

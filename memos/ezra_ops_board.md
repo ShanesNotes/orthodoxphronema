@@ -1,7 +1,7 @@
 # Ezra Ops Board
 
-Last updated: `2026-03-13`  
-Live state source: `reports/book_status_dashboard.json`  
+Last updated: `2026-03-15`
+Live state source: `reports/book_status_dashboard.json`
 Drift check: `reports/coordination_state.json`
 
 ## Working Agreements
@@ -14,31 +14,20 @@ Drift check: `reports/coordination_state.json`
 
 ## Current Snapshot
 - Promoted: `76`
-- Fresh dossiers: `76/76`
+- Fresh dossiers: `76/76` (5 refreshed 2026-03-15: 1CO, ROM, LUK, ISA, EZR)
 - Stale dossiers: `0`
-- Worktree: dirty
-- Tests: `343 passed`
+- Registry: `v1.7.4` (31 CVC corrections)
+- Foundational purity audit: Complete (Memo `128`)
+- Canon validation warnings: ~21 (5 genuine V4/V7, rest cosmetic V8)
 - OT canon lock still depends on Memo `91` and the `EST.4:6` disposition.
 - Memo `88` is the proposed governing Phase 3 spec awaiting Human ratification.
+- DEU/NUM/1CH have known parser recovery needs (mega-lines, LXX gaps) — deferred.
 - Phase 3 execution scaffold now exists in code:
   - `pipeline/graph/build_backlinks.py`
   - `pipeline/graph/regenerate_graph.py`
   - `pipeline/validate/validate_phase3.py`
   - `pipeline/tools/check_coordination_surfaces.py`
-- Wikilink rollout seed is now implemented:
-  - shared parser + audit/rewrite CLIs landed
-  - `REV_articles.md` and `REV_footnotes.md` are normalized to wikilinks
-  - Ark verification is requested before batch 2
-- Ark has now published Memo `122` for full-corpus wikilink rollout.
-- Memo `123` reconciles the handoff boundary:
-  - marker files remain companion integrity/audit surfaces
-  - R1 JSONL remains the Phase 3 backlink and graph input
-- Memo `124` closes the cleanup tail taxonomy:
-  - `pipeline/cleanup/` now means active reusable cleanup/audit tools
-  - historical one-off repair scripts now live under `pipeline/archive/historical_cleanup/`
-- Memo `125` formalizes Noah as a downstream consumer:
-  - official artifacts live under `metadata/agent_ingestion/noah/`
-  - `experimental/` remains sandbox-only
+- Footnote cleanup lane active (Ezra): waves 1-5 through SIR/ISA/JER (Memos 126-133)
 
 ## Active Dispatch
 | lane | owner | status | blocker | next_action |
@@ -46,11 +35,17 @@ Drift check: `reports/coordination_state.json`
 | OT canon lock | Human | awaiting ratification | Memo `91` | Ratify or reject |
 | Historical residual packet A | Human | awaiting ratification | Memo `51` | Ratify or reject |
 | Phase 3 launch | Human -> Ark | ready pending ratification | Memo `88` | Ratify Memo `88`, then Ark runs the PSA backlink/graph pilot |
-| Wikilink rollout verification | Ezra | active | Need corpus-level verification of Ark Memo `122` claims | Verify `0` convertible refs remain and Phase 3 graph/report outputs stay coherent |
-| Noah Genesis pilot | Ezra | active | Need first queue/bundle verification and usage guidance | Verify Genesis queue/bundle outputs, then package SER5 handoff notes |
-| Phase 3 contract reconciliation | closed | implemented | none | Memo `121` and Memo `123` now agree on the R1-driven Phase 3 boundary |
+| Footnote cleanup | Ezra | active (wave 5+) | none | Continue canonical footnote cleanup through remaining books |
+| DEU/NUM/1CH parser recovery | Ark | deferred | mega-line resolution, LXX gap recovery | Prioritize after Phase 3 launch |
 | Coordination drift control | Ezra | active | none | Refresh `reports/coordination_state.json` after board/dashboard/memo changes |
-| Phase 3 rollout verification | Ezra | active | Need full-corpus confirmation of Ark Memo `122` claims | Re-run audit/validation checks and package findings |
+
+## Recently Completed (2026-03-15)
+| lane | summary |
+|---|---|
+| Re-promotion of 5 books | 1CO, ROM, LUK, ISA, EZR re-promoted after Ezra-audited staged fixes |
+| Foundational purity audit | Memo `128`: 76-book V1-V12 sweep, registry CVC reconciliation (31 fixes), study layer cleanup (23 OCR, 18K blank lines, 6 lectionary decontaminations) |
+| 49 staging upgrades | Canon-baseline cloning upgraded 49 staging files where canon was cleaner than staging |
+| Coordination surface refresh | PROJECT_BOARD, INDEX, ops board, CLAUDE.md lessons updated to post-audit state |
 
 ## Recently Completed (2026-03-13)
 | lane | summary |
@@ -77,6 +72,7 @@ Drift check: `reports/coordination_state.json`
 - `reports/coordination_state.json` should stay green; if not, refresh narrative surfaces before selecting the next engineering lane.
 - `reports/companion_file_census.json` is advisory, not a live ops source.
 - `reports/phase3_validation_report.json` should be rechecked against Memo `122`; Ark reports full-corpus regeneration and warning-only duplicate inbound links.
+- DEU/NUM/1CH parser recovery is non-blocking for Phase 3 launch but should be prioritized before next OT lock attempt.
 
 ## Ezra Loop
 1. Read new memos, reports, and dashboard deltas.

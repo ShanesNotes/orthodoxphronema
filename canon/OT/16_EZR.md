@@ -5,8 +5,8 @@ testament: OT
 canon_position: 16
 source: "Orthodox Study Bible (OSB), Thomas Nelson 2008"
 parse_date: "2026-03-09"
-promote_date: "2026-03-10"
-checksum: "8b32905e73be14a3c7c74c0433b1f08269a7e3753bd38ff7dd45d863d070fa8e"
+promote_date: "2026-03-15"
+checksum: "a5302c902cc02d0749609b61f1faebd261fb0a8100ca22aa8c33a1cbe56f5178"
 status: promoted
 deuterocanonical: false
 has_additions: false
@@ -227,7 +227,7 @@ EZR.7:9 On the first day of the first month he began his journey from Babylon, a
 
 EZR.7:10 For Ezra had prepared his heart to seek the Law of the Lord and to do it, and to teach statutes and ordinances in Israel.
 EZR.7:11 This is a copy of the letter that King Artaxerxes gave Ezra the priest, the scribe, expert in the words of the commandments of the Lord and of His statutes to Israel:
-EZR.7:12 Artaxerxes, king of kings, To Ezra the priest, ascribe of the Law of the God of heaven: Perfect peace, and so forth.
+EZR.7:12 Artaxerxes, king of kings, To Ezra the priest, a scribe of the Law of the God of heaven: Perfect peace, and so forth.
 EZR.7:13 I issue a decree that all those of the people of Israel and the priests and Levites in my realm who volunteer to go up to Jerusalem may go with you.
 EZR.7:14 And whereas you are being sent by the king and his seven counselors to inquire concerning Judah and Jerusalem with regard to the Law of your God which is in your hand;
 EZR.7:15 and whereas you are to carry the silver and gold which the king and his counselors have freely offered to the God of Israel, whose dwelling is in Jerusalem;
