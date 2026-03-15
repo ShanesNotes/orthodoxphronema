@@ -61,8 +61,8 @@ Ezekiel
 Daniel ***
 * Includes the Prayer of Manasseh
 **Also known as 1 & 2 Esdras
-***“Susanna” is at the beginning of Daniel, “Bel and the Serpent” at the end. Also includes the
-“Hymn of the Three Young Men.”
+***"Susanna" is at the beginning of Daniel, "Bel and the Serpent" at the end. Also includes the
+"Hymn of the Three Young Men."
 
 Roman Catholic
 Old Testament
@@ -158,7 +158,7 @@ Zephaniah
 Haggai
 Zechariah
 Malachi
-*Esther does not include those sections called “Additions to Esther.”
-**Daniel here does not include those sections separately labeled as the “Hymn of the Three
+*Esther does not include those sections called "Additions to Esther."
+**Daniel here does not include those sections separately labeled as the "Hymn of the Three
 
-Young Men,” “Susanna,” “Bel and the Serpent.”
+Young Men," "Susanna," "Bel and the Serpent."

@@ -13,7 +13,7 @@ liturgical use. Because the Paschal cycle occurs at a different time each year w
 feasts are fixed on a certain calendar date, there is considerable overlap between the two
 cycles, which affects what scriptures are actually read on any given day of a particular year.
 Variations also occur between jurisdictions of the Church, and decisions are sometimes
-made at the parish level concerning which saints’ days to celebrate with the accompanying
+made at the parish level concerning which saints' days to celebrate with the accompanying
 readings. For an accurate lectionary for a particular year, consult one of the many Orthodox
 calendars available that list scripture readings for each day, or consult your parish priest
 for the readings used in your parish. For another plan for reading through the complete

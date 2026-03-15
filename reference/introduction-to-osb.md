@@ -6,7 +6,7 @@ extracted: 2026-03-14
 
 # Introduction to the Orthodox Study Bible
 
-The last decade of the twentieth century saw an historic event. In 1993, The OrthodoxStudy
+The last decade of the twentieth century saw an historic event. In 1993, The Orthodox Study
 Bible: New Testament and Psalms was released as the first English Bible with study material
 reflecting the ancient faith of the Eastern Orthodox Church.
 St. Athanasius Academy, which had organized this effort, began receiving requests for the
@@ -14,7 +14,7 @@ completion of the Old Testament—a monumental task which involved not only prep
 the study notes and outlines, but also the presentation of an acceptable Old Testament text.
 Though the Orthodox Church has never officially committed itself to a single text and list of
 Old Testament books, it has traditionally used the Greek Old Testament of the Septuagint
-(LXX). However, in Orthodoxy’s 200-year history in North America, no English translation of
+(LXX). However, in Orthodoxy's 200-year history in North America, no English translation of
 the LXX has ever been produced by the Church.
 The contributors used the Alfred Rahlfs edition of the Greek text as the basis for the
 English translation. To this base they brought two additional major sources. The first is the
@@ -36,99 +36,98 @@ the Hebrew text (such as the New King James Version and New Revised Standard Ver
 To help the reader, the LXX psalm number appears first, followed by the alternate number in
 parentheses, such as Psalm 50 (51).
 
-
 In addition to the difference in the numbering of the Psalms, the books of Jeremiah and
 Malachi show differences in the chapter and verse numbering when comparing The
-OrthodoxStudy Bible alongside English translations based on the Hebrew Old Testament
+Orthodox Study Bible alongside English translations based on the Hebrew Old Testament
 text. The following shows how the Hebrew and LXX texts compare in the books of Jeremiah
 and Malachi.
 Jeremiah
 Hebrew
-1:1 —2 5:1 3
-2 5:1 4
-2 5:1 5–3 8
-2 6:1 —4 3:1 3
-4 4:1 –3 0
-4 5:1 –5
-4 6:1
-4 6:2 –2 5
+1:1 —25:13
+25:14
+25:15–38
+26:1 —43:13
+44:1–30
+45:1–5
+46:1
+46:2–25
 
 LXX
-1:1 —2 5:1 3
+1:1 —25:13
 ——
-3 2:1 –2 5
-3 3:1 —50:1 3
-51:1 –3 0
-51:3 1 –3 5
+32:1–25
+33:1 —50:13
+51:1–30
+51:31–35
 ——
-2 6:1 –2 4
+26:1–24
 
-4 6:2 6
-4 6:2 7, 2 8
-
-——
-2 6:2 5, 2 6
-
-4 7:1 –7
-4 8:1 –4 4
-4 9:1 –5
-
-2 9:1 –7
-3 1:1 –4 4
-3 0:1 7 –2 1
-
-4 9:6
-4 9:7 –2 2
-4 9:2 3 –2 7
+46:26
+46:27, 28
 
 ——
-3 0:1 –1 6
-3 0:2 8–3 2
+26:25, 26
 
-4 9:2 8–3 3
-4 9:3 4 a, 3 5–3 9
+47:1–7
+48:1–44
+49:1–5
 
-3 0:2 2 –2 7
-2 5:1 4 –1 9
+29:1–7
+31:1–44
+30:17–21
 
-4 9:3 4 b
-50:1 —51:4 4
-51:4 5–4 9
+49:6
+49:7–22
+49:23–27
 
-2 5:2 0
-2 7:1 —2 8:4 5
+——
+30:1–16
+30:28–32
+
+49:28–33
+49:34 a, 35–39
+
+30:22–27
+25:14–19
+
+49:34 b
+50:1 —51:44
+51:45–49
+
+25:20
+27:1 —28:45
 ——
 
-51:50–6 4
+51:50–64
 52:1
 
-2 8:4 6 –6 0
+28:46–60
 52:1
 
-52:2 –3
-52:4 –1 4
-52:1 5
-52:1 6 –2 7
-52:2 8–3 0
-52:3 1 –3 4
+52:2–3
+52:4–14
+52:15
+52:16–27
+52:28–30
+52:31–34
 
 ——
-52:2 –1 2
+52:2–12
 ——
-52:1 3 –2 4
+52:13–24
 ——
-52:2 5–2 8
+52:25–28
 
 Malachi
-1:1 —3:1 8
-4:1 –3
+1:1 —3:18
+4:1–3
 4:4
 4:5–6
 
-1:1 —3:1 8
-3:1 9 –2 1
-3:2 4
-3:2 2 –2 3
+1:1 —3:18
+3:19–21
+3:24
+3:22–23
 
 The New Testament of The Orthodox Study Bible is taken from the New King James
 Version of the Bible. It is a translation of the Received Text of the Greek New Testament,
@@ -136,7 +135,6 @@ with notes showing major variants in the Majority Text and the critical text of 
 and the United Bible Societies.
 The introductory material, commentary and notes accompanying the Old and New
 Testament books are presented in a vocabulary understandable to a high school graduate.
-
 
 This is not a book of scholars addressing other scholars, but rather scholars clearly
 communicating the treasures of the Orthodox biblical tradition with clergy and laypeople
@@ -146,8 +144,8 @@ text would emphasize the major themes of the Christian faith. Thus, the notes gi
 attention to:
 1. The Holy Trinity: Father, Son and Holy Spirit
 2. The Incarnation: The Divine Son of God becoming Man
-3. The Centrality of the Church, the “dwelling place of God in the Spirit” (Eph 2:22)
-4. The Virtues: God’s call to His people to live righteous and holy lives in Christ
+3. The Centrality of the Church, the "dwelling place of God in the Spirit" (Eph 2:22)
+4. The Virtues: God's call to His people to live righteous and holy lives in Christ
 To attain these goals, specific attention was given to the biblical interpretations of the
 fathers of the ancient and undivided Church, and to the consensus of the Seven Ecumenical
 or Church-wide Councils of Christendom, held from the fourth to eighth centuries.

@@ -17,7 +17,7 @@ Holy God, Holy Mighty, Holy Immortal, have mercy on us. (three times).
 Glory to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of
 ages. Amen.
 O Most Holy Trinity, have mercy on us. O Lord, cleanse us from our sins. O Master, pardon
-our transgressions. O Holy One, visit and heal our infirmities, for Your Name’s sake.
+our transgressions. O Holy One, visit and heal our infirmities, for Your Name's sake.
 Lord, have mercy. (three times).
 Glory to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of
 ages. Amen.
