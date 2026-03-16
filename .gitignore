@@ -25,3 +25,25 @@ nodesource_setup.sh
 
 # Source texts (large, not for git)
 src.texts/
+
+# Pipeline — procedural scripts kept local, not published
+# GitHub shows project output artifacts, not the tooling to get there
+pipeline/
+
+# Experimental — agent harness prototypes (local development)
+experimental/
+
+# Research — external AI outputs (non-governing, informational only)
+research/
+
+# Skills — local project toolkits (bridged to .claude/skills/)
+skills/
+
+# One-off build scripts (local only)
+*.js
+!metadata/**/*.js
+pm_roadmap.js
+x_article_docx.js
+
+# Virtual environment
+.venv/
